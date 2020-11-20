@@ -1,0 +1,28 @@
+name: Refresh Official Series Descriptions
+
+# just for testing
+on: push
+
+# eventually, refresh will only occur on scheduled interval
+# on:
+#  schedule:
+##  e.g. weekly cycle
+#    - cron:  '* * * * */6'
+##  e.g. every 15 minutes
+#    - cron:  '*/15 * * * *'
+
+
+# see: https://docs.github.com/en/free-pro-team@latest/actions/reference/workflow-syntax-for-github-actions
+# and: https://github.com/r-lib/actions
+jobs:
+  refresh-osd:
+    runs-on: ubuntu-latest
+    
+    steps:
+    - uses: actions/checkout@v2
+    - uses: r-lib/actions/setup-r@v1
+    - run: Rscript R/init.R
+  
+env:
+  DEFAULT_BRANCH: main
+  GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
