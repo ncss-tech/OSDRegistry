@@ -22,16 +22,15 @@ refresh_registry <- function() {
   osds <- file.path("raw/doc", docfiles)
   
   osdlist <- split(unlist(osds), docletters)
-
-  lapply(1:length(LETTERS), function(i) {
-      lapply(osdlist[[i]], function(f) {
-          write(textreadr::read_doc(f), file.path("OSD", LETTERS[i], gsub("\\.doc", "\\.txt", basename(f))))
+  # cat(names(osdlist))
+  
+  result <- lapply(1:length(LETTERS), function(i) {
+      lapply(osdlist[[LETTERS[i]]], function(f) {
+          write(try(textreadr::read_doc(f)), file.path("OSD", LETTERS[i], gsub("\\.doc", "\\.txt", basename(f))))
         })
     })
   
-  # length(osds)
-  
   message("Done!")
   
-  return(0)
+  return((length(result) == 26) - 1)
 }
