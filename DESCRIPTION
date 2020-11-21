@@ -5,7 +5,6 @@ Version: 0.1.0
 Author: Andrew G. Brown
 Maintainer: Andrew G. Brown <andrew.g.brown@usda.gov>
 Description: Version control solution for [Official Series Descriptions](https://soilseries.sc.egov.usda.gov/) (OSDs). Official "series" are soil types used by the USDA-NRCS and the National Cooperative Soil Survey program.
-Imports: textreadr
 License: GPL-3
 Encoding: UTF-8
 LazyData: true

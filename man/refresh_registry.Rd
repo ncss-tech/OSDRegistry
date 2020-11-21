@@ -7,8 +7,8 @@
 refresh_registry()
 }
 \value{
-Text files written to alphabetical folders containing raw Official Series Description text. Derivative calculations output to X. Etc.
+Text files written to alphabetical folders containing raw Official Series Description (OSD) text. For use in automatic pipeline to regularly commit changes across the entire set of OSDs.
 }
 \description{
-Refresh the repository/package data by automating regional queries to soil series server
+Thank goodness... I forgot we actually don't need to read .doc files... the server delivers .txt masquerading as .doc.
 }
