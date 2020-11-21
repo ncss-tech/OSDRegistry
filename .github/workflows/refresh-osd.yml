@@ -44,7 +44,7 @@ jobs:
       with:
         name: OSDRegistry-package-build
         path: "OSDRegistry_*.tar.gz"
-    - run: Rscript -e 'system(sprintf("tar -czvf osd-snapshot_%s.tar.gz OSD", Sys.Date()))'
+    - run: Rscript -e 'system(sprintf("tar -czvf OSDSnapshot_%s.tar.gz OSD", Sys.Date()))'
     - uses: actions/upload-artifact@v2
       with:
         name: OSD-data-snapshot
