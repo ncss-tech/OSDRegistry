@@ -36,14 +36,19 @@ jobs:
     - run: Rscript -e 'system2("R", paste0(sprintf("CMD INSTALL OSDRegistry_%s.tar.gz", read.dcf("DESCRIPTION")[,"Version"])))'
     - run: Rscript -e 'OSDRegistry::refresh_registry()'
     - run: git config user.email github-actions@github.com
-    - run: git config user.name github-actions
+    - run: git config user.name SeriesCuratorBot
     - run: git add OSD/*/*.txt
     - run: Rscript -e 'system(sprintf("git commit -am \"OSD Data Refresh - %s\"", Sys.time()))'
     - run: git push
     - uses: actions/upload-artifact@v2
       with:
-        name: package-build
-        path: "*.tar.gz"
+        name: OSDRegistry-package-build
+        path: "OSDRegistry_*.tar.gz"
+    - run: Rscript -e 'system(sprintf("tar -czvf osd-snapshot_%s.tar.gz OSD", Sys.Date()))'
+    - uses: actions/upload-artifact@v2
+      with:
+        name: OSD-data-snapshot
+        path: "OSDSnapshot_*.tar.gz"
 env:
   DEFAULT_BRANCH: main
   GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
