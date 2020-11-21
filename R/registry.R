@@ -22,7 +22,10 @@ refresh_registry <- function() {
   osds <- file.path("raw/doc", docfiles)
   
   osdlist <- split(unlist(osds), docletters)
+  
   # cat(names(osdlist))
+  
+  lapply(file.path("OSD", LETTERS), function(x) if (!dir.exists(x)) dir.create(x, recursive = TRUE))
   
   result <- lapply(1:length(LETTERS), function(i) {
       lapply(osdlist[[LETTERS[i]]], function(f) {
