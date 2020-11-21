@@ -1,6 +1,7 @@
 #' Refresh the repository/package data by automating regional queries to soil series server
 #' @return Text files written to alphabetical folders containing raw Official Series Description text. Derivative calculations output to X. Etc.
 #' @export
+#' @importFrom textreadr read_doc
 refresh_registry <- function() {
   
   # message("Downloading data...")
@@ -24,7 +25,7 @@ refresh_registry <- function() {
 
   lapply(1:length(LETTERS), function(i) {
       lapply(osdlist[[i]], function(f) {
-          write(read_doc(f), file.path("OSD", LETTERS[i], gsub("\\.doc", "\\.txt", basename(f))))
+          write(textreadr::read_doc(f), file.path("OSD", LETTERS[i], gsub("\\.doc", "\\.txt", basename(f))))
         })
     })
   
