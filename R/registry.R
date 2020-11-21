@@ -7,7 +7,7 @@ refresh_registry <- function() {
   # message("Downloading data...")
   
   # TODO: download ZIPs (pain in the butt; automate ASPX form submission by region?)
-  
+  cat(getwd())
   message("Refreshing OSDs...")
   
   # unzip to single directory of .doc files
@@ -29,7 +29,7 @@ refresh_registry <- function() {
   
   result <- lapply(1:length(LETTERS), function(i) {
       lapply(osdlist[[LETTERS[i]]], function(f) {
-          write(try(textreadr::read_doc(f)), file.path("OSD", LETTERS[i], gsub("\\.doc", "\\.txt", basename(f))))
+          write((textreadr::read_doc(f)), file.path("OSD", LETTERS[i], gsub("\\.doc", "\\.txt", basename(f))))
         })
     })
   
