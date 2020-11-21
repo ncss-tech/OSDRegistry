@@ -19,7 +19,9 @@ jobs:
     runs-on: ubuntu-latest
     
     steps:
-    - run: sudo apt install libcurl4-openssl-dev
+    - run: sudo add-apt-repository -y ppa:cran/poppler
+    - run: sudo apt-get update
+    - run: sudo apt install libcurl4-openssl-dev libpoppler-cpp-dev
     - uses: actions/checkout@v2
     - uses: r-lib/actions/setup-r@v1
     - run: Rscript R/init.R
