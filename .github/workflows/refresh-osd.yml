@@ -10,7 +10,6 @@ on: push
 #    - cron:  '* * * * */6'
 ##  e.g. every 15 minutes
 #    - cron:  '*/15 * * * *'
-defaults:
 
 # see: https://docs.github.com/en/free-pro-team@latest/actions/reference/workflow-syntax-for-github-actions
 # and: https://github.com/r-lib/actions
