@@ -35,7 +35,6 @@ jobs:
     - run: git add OSD/*
     - run: Rscript -e 'system(sprintf("git commit -am \"OSD Data Refresh - %s\"", Sys.time()))'
     - run: git push https://${{github.actor}}:${{secrets.GH_TOKEN}}@github.com/${{github.repository}}.git HEAD:${{ github.ref }} || echo "No changes to commit"
-    - run: Rscript {0}
 env:
   DEFAULT_BRANCH: main
   GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
