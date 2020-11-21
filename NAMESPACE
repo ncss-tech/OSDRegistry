@@ -1,1 +1,3 @@
 exportPattern("^[[:alpha:]]+")
+
+importFrom(textreadr, read_doc)
