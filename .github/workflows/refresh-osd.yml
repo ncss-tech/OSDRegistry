@@ -34,7 +34,7 @@ jobs:
     - run: Rscript -e 'rcmdcheck::rcmdcheck(args = "--no-manual", error_on = "error")'
     - run: R CMD build --no-manual ../OSDRegistry
     - run: Rscript -e 'system2("R", paste0(sprintf("CMD INSTALL OSDRegistry_%s.tar.gz", read.dcf("DESCRIPTION")[,"Version"])))'
-    - run: Rscript inst/refresh.R
+    - run: Rscript -e 'OSDRegistry::refresh_registry()'
     - run: git config user.email github-actions@github.com
     - run: git config user.name github-actions
     - run: git add OSD/*/*.txt
