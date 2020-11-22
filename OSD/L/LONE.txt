@@ -1,0 +1,95 @@
+LOCATION LONE                   NV
+
+Established Series
+Rev. WMA/ELS/JBF
+04/2019
+
+LONE SERIES
+
+The Lone series consists of very deep, well drained soils that formed in a loess mantel over lake deposits of sand and gravel derived from limestone, sandstone, shale, tuffs, and siliceous conglomerate with some volcanic ash. Lone soils are on lake terraces.  Slopes are 0 to 8 percent. The mean annual precipitation is about 225 mm and the mean annual temperature is about 7 degrees C.
+
+TAXONOMIC CLASS: Loamy-skeletal, mixed, superactive, frigid Xeric Haplodurids
+
+TYPICAL PEDON: Lone gravelly loam - rangeland (Colors are for dry soil unless otherwise noted.)
+
+    A1--0 to 10 cm; light brownish gray (10YR 6/2) gravelly loam, dark grayish brown (10YR 4/2) moist; weak medium and coarse subangular blocky structure; slightly hard, very friable, slightly sticky and slightly plastic; few fine and common very fine roots; few fine and many very fine vesicular pores; 15 percent fine gravel; neutral (pH 7.2); abrupt smooth boundary. (8 to 15 cm thick)
+
+    Bw--10 to 36 cm; pale brown (10YR 6/3) loam, brown (10YR 4/3) moist; weak medium and coarse subangular blocky structure; slightly hard, very friable, slightly sticky and slightly plastic; common medium, few fine and many very fine roots; few fine and many very fine tubular and interstitial pores; 10 percent fine gravel; neutral (pH 7.2); clear wavy boundary. (20 to 30 cm thick)
+
+    Bqk--36 to 53 cm; pale brown (10YR 6/3) very gravelly sandy loam, dark grayish brown (10YR 4/2) moist; massive; soft, very friable, nonsticky and nonplastic; common medium and very fine, few fine roots; many very fine interstitial pores; 35 percent fine gravel; strongly effervescent; light gray and white silica-carbonate pendants on the undersides of gravel and as masses in pockets; strongly alkaline (pH 8.6); abrupt wavy boundary. (10 to 25 cm thick)
+
+    2Bqk--53 to 76 cm; dark gray (10YR 4/1) very gravelly sand, dark yellowish brown (10YR 3/4) moist; single grained; loose, nonsticky and nonplastic; common medium and fine, many very fine roots; many fine and very fine interstitial pores; 55 percent fine gravel; strongly effervescent; light gray (10YR 7/1) and white (10YR 8/1) silica-carbonate pendants on the undersides of gravel and in pockets; strongly alkaline (pH 8.8); abrupt wavy boundary. (14 to 38 cm thick)
+
+    2Bqkm--76 to 84 cm; very pale brown (10YR 8/2) indurated duripan, with light brown (7.5YR 6/3) organic stains; pale brown (10YR 6/3) with strong brown (7.5YR 4/6) organic stains moist; massive; extremely hard, extremely firm; a mat of roots on the surface of the pan; strongly effervescent; strongly alkaline (pH 8.6); abrupt wavy boundary. (1 to 14 cm thick)
+
+    3C--84 to 152 cm; dark gray (10YR 4/1) very gravelly sand, very dark gray (10YR 3/1) moist; single grained; loose, nonsticky and nonplastic; few very fine roots; many very fine interstitial pores; 45 percent gravel; slightly or strongly effervescent in spots; strongly alkaline (pH 8.8).
+
+TYPE LOCATION: Eureka County, Nevada; 1,425 feet west and 60 feet south of the northeast corner of sec. 25, T. 21 N., R. 53 E.; USGS North of Eureka 7.5 minute topographic quadrangle; latitude 39 degrees 39 minutes 55 seconds N and longitude 115 degrees 57 minutes 3 seconds W; WGS84 Decimal Degrees 39.6652778 latitude, -115.9508333 longitude.
+
+RANGE IN CHARACTERISTICS:
+Soil moisture:  Usually dry, mainly in the summer and fall months, but are moist during the winter and early spring; aridic soil moisture regime bordering in xeric.
+Mean annual soil temperature: 7 to 8 degrees C.
+Mean summer soil temperature: 16 to 17 degrees C.
+Depth to sand and gravel: 46 to 60 cm.
+Depth to duripan: 60 to 90 cm.
+
+Particle-size control section - Clay content: Average 12 to 18 percent.   
+Rock fragments:  Average 35 to 50 percent
+
+A horizon
+Value: 5 or 6 dry, and 3 through 5 moist.
+Chroma: 2 or 3.
+Average organic carbon content in the upper 18 cm: less than 0.58 percent, or the dry value is more than 5.
+Consistence: Platy or fine granular structure or is massive.
+
+Bw horizon 
+Hue: 10YR or 7.5YR. 
+Value: 6 or 7 dry and 4 or 5 moist.
+Chroma: 2 or 3.
+Clay content: 15 to 35 percent.
+Texture:  Loam or clay loam.
+Rock fragments: 10 to 30 percent.
+Structure: It has weak or moderate, medium or coarse subangular blocky structure or the horizon is massive.
+
+Bqk horizon
+Clay content: 5 to 15 percent.
+Texture: Very gravelly sandy loam or very gravelly loamy sand.
+Rock fragments: 35 to 50 percent, dominantly fine gravel.
+
+2Bqk horizon
+Clay content: 5 to 10 percent.
+Rock fragments: 35 to 60 percent.
+
+Bqkm horizon 
+Other features: from one to several layers of cementation, of which at least one is indurated and ranges from less than 2.5 to 15 cm in thickness. The other layers are weakly through strongly cemented.
+
+3C horizon 
+Rock fragments: 35 to 60 percent gravel.
+
+COMPETING SERIES: These are the Ridit and Westindian series. Ridit soils have duripans capping bedrock at depths of 50 to 100 cm. Westindian soils have silt loam or loam above the duripan.
+
+GEOGRAPHIC SETTING: Lone soils are on lake terraces. Elevations are 1,770 to 1,800 meters. These soils formed in a thin loess mantle capping sands and gravel derived from limestone, sandstone, shale, tuffs, and siliceous conglomerate with some volcanic ash. Mean annual precipitation is 200 to 300 mm. Mean annual temperature is 6 to 7 degrees C.
+
+GEOGRAPHICALLY ASSOCIATED SOILS: These are the Nayped, Alhambra, Silverado and Kobeh soils. All of these soils lack the indurated duripan, and have durinodes in a friable matrix or are only weakly cemented.
+
+DRAINAGE AND SATURATED HYDRAULIC CONDUCTIVITY: Well-drained; slow runoff; moderate permeability to the pan; moderately high saturated hydraulic conductivity.
+
+USE AND VEGETATION: Livestock grazing. Vegetation is primarily big sagebrush with some Sandberg bluegrass.
+
+DISTRIBUTION AND EXTENT: Valleys of north-central Nevada. Lone soils are inextensive, with about 5,700 acres. MLRA 28B.
+
+MLRA SOIL SURVEY REGIONAL OFFICE (MO) RESPONSIBLE: Davis, California
+
+SERIES ESTABLISHED: Eureka County Diamond Valley Area), Nevada, 1971.
+
+REMARKS: Lone soils were formerly classified as Sierozems.
+
+Diagnostic horizons and features recognized in this pedon are:
+Ochric epipedon - The zone from the surface to 18 cm (A and part of Bw horizons).
+Xeric intergrades - Meets organic carbon requirement for xeric.
+Cambic horizon - The zone from 10 to 36 cm (Bw horizon).
+Indurated duripan - The zone from 76 to 84 cm (2Bqkm horizon).
+Particle-size control section - The zone from 25 to 76 cm (Bqk, 2Bqk and part of the Bw horizons).
+
+National Cooperative Soil Survey
+U.S.A.

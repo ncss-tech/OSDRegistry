@@ -1,0 +1,126 @@
+LOCATION SUDDEN                 ID
+
+Established Series
+IRD CBR/EED
+05/2018
+
+SUDDEN SERIES
+
+Landscape--alluvial plains, hills
+Landform--flood plains
+Slope--0 to 4 percent
+Parent material--alluvium derived from igneous rock
+Mean annual precipitation--about 550 mm
+Mean annual air temperature--about 3.3 degrees C
+Depth class--very deep
+Drainage class--poorly drained
+Soil moisture regime--aquic
+Soil temperature regime--cryic
+
+TAXONOMIC CLASS: Fine, smectitic Vertic Cryaquolls
+
+TYPICAL PEDON:  Sudden loam in a meadow (Colors are for moist soil unless otherwise noted.)
+
+ A--0 to 10 cm; very dark grayish brown (10YR 3/2) loam, dark grayish brown (10YR 4/2) dry; weak fine subangular blocky structure; soft, very friable, slightly sticky and slightly plastic; common fine and few medium and coarse roots throughout; few very fine tubular pores; slightly alkaline (pH 7.6); clear smooth boundary
+
+ Ag--10 to 23 cm; very dark grayish brown (10YR 3/2) silty clay loam, dark grayish brown (10YR 4/2) dry; moderate medium angular blocky structure parting to weak thin platy; slightly hard, firm, moderately sticky and moderately plastic; common very fine and fine roots; common very fine tubular pores; 5 percent gravel; 1 percent fine prominent spherical yellow (10YR 7/8 and 10YR 8/8) masses of oxidized iron; slightly alkaline (pH 7.4); clear smooth boundary
+
+ Btg1--23 to 38 cm; very dark grayish brown (10YR 3/2) clay loam, dark gray (10YR 4/1) dry; moderate medium prismatic structure parting to moderate medium angular blocky; very hard, firm, moderately sticky and moderately plastic; few very fine and fine roots; few very fine and fine tubular pores; 15 percent faint clay films on surfaces along pores; 1 percent fine prominent spherical yellow (10YR 7/8) masses of oxidized iron; slightly alkaline (pH 7.4); clear smooth boundary
+
+ Btg2--38 to 64 cm; very dark gray (10YR 3/1) clay, gray (10YR 5/1) dry; weak medium prismatic structure parting to strong medium angular blocky; very hard, very firm, moderately sticky and moderately plastic; few very fine and fine roots; few very fine and fine tubular pores; 5 percent gravel; 25 percent faint clay films on all faces of peds; 1 percent fine prominent spherical yellow (10YR 8/8) masses of oxidized iron; slightly alkaline (pH 7.4); abrupt smooth boundary
+
+ 2ABtssb--64 to 94 cm; black (10YR 2/1) clay, very dark gray (10YR 3/1) dry; strong coarse columnar structure parting to strong coarse angular blocky; extremely hard, extremely firm, very sticky and very plastic; few fine roots; few very fine tubular pores; 5 percent gravel; 50 percent distinct clay films on all faces of peds; 100 percent prominent slickensides (pedogenic) on all faces of peds; neutral (pH 7.2); clear wavy boundary
+
+ 2Btss--94 to 124 cm; dark grayish brown (2.5Y 4/2) clay, grayish brown (2.5Y 5/2) dry; strong coarse angular blocky structure; extremely hard, extremely firm, very sticky and very plastic; 10 percent gravel; 50 percent distinct clay films on all faces of peds; 100 percent prominent slickensides (pedogenic) on all faces of peds; neutral (pH 7.2); clear wavy boundary
+
+ 2Cg--124 to 157 cm; dark grayish brown (2.5Y 4/2) clay, light brownish gray (2.5Y 6/2) dry; massive; extremely hard, extremely firm, very sticky and very plastic; 10 percent gravel; prominent organic stains on vertical faces of peds, very dark gray (10YR 3/1) moist; 10 percent medium prominent spherical yellow (10YR 7/8 and 10Y 8/8) masses of oxidized iron; slightly alkaline (pH 7.8)
+
+TYPE LOCATION:  Clark County, Idaho; latitude 44.43743 degrees north, longitude 111.77290 west, datum WGS 84
+
+RANGE IN CHARACTERISTICS:
+Mean annual soil temperature--3.3 to 6.1 degrees C
+Thickness of mollic epipedon--90 to 120 cm
+Depth to argillic horizon--15 to 42 cm
+Depth to endosaturation--20 to 40 cm in April through June
+Linear extensibility--greater than 6 cm in zone from the surface to a depth of 100 cm
+
+Particle-size control section (weighted averages)
+Clay content--42 to 60 percent
+Total rock fragment content--0 to 5 percent
+
+A and Ag horizons
+Value--2 or 3 moist
+Chroma--2 or 3 dry
+Texture (less than 2-mm fraction)--loam, silty clay loam, silt loam
+Clay content--14 to 35 percent
+Reaction--pH 6.8 to 7.8
+Thickness--15 to 34 cm
+
+Btg horizon
+Value--3 or 4 dry
+Chroma--1 or 2 moist
+Texture (less than 2-mm fraction)--clay, clay loam, silty clay
+Clay content--35 to 60 percent
+Gravel content--0 to 10 percent
+Reaction--pH 7.2 to 7.8
+Thickness--40 to 100 cm
+
+2ABtssb horizon (where present)
+Texture (less than 2-mm fraction)--clay, clay loam, silty clay
+Clay content--35 to 60 percent
+Gravel content-- 0 to 10 percent
+Reaction--pH 7.2 to 7.8
+Thickness--0 to 45 cm
+
+2Btss horizon (where present)
+Texture (less than 2-mm fraction)--clay, clay loam, silty clay
+Clay content--35 to 60 percent
+Gravel content--0 to 15 percent
+Reaction--pH 7.2 to 7.8
+Thickness--0 to 35 cm
+
+2Cg horizon (where present)
+Texture (less than 2-mm fraction)--clay, clay loam, silty clay
+Clay content--35 to 60 percent
+Gravel content--5 to 15 percent
+Reaction--pH 7.2 to 7.8
+
+COMPETING SERIES:
+Egeria, Railway, Silvies--no argillic horizon
+Narrows--calcic horizon
+Wetbag--mean annual soil temperature higher than 6.1 degrees C
+
+GEOGRAPHIC SETTING:
+Elevation--1670 to 2190 m
+Mean annual precipitation--330 to 610 mm
+Mean annual air temperature--2.2 to 4.0 degrees C
+Frost-free period--30 to 65 days
+
+GEOGRAPHICALLY ASSOCIATED SOILS:  None listed
+
+DRAINAGE AND SATURATED HYDRAULIC CONDUCTIVITY:
+Drainage class--poorly drained
+Saturated hydraulic conductivity (Ksat)--0.1 to 25.0 um/sec
+
+USE AND VEGETATION:
+Major uses--grassland pasture
+Potential natural vegetation--Nevada bluegrass, alpine timothy, meadow barley, Baltic rush
+
+DISTRIBUTION AND EXTENT:  Small extent in southeastern Idaho; MLRAs 12 and 13
+
+SOIL SURVEY REGIONAL OFFICE (SSRO) RESPONSIBLE:  Portland, Oregon
+
+SERIES ESTABLISHED:  Clark County, Idaho; 2018
+
+REMARKS:
+Diagnostic horizons and other features in this pedon
+Mollic epipedon--zone from the surface to a depth of 94 cm
+Aquic conditions--zone from 10 to 157 cm during the growing season in normal years
+Argillic horizon--zone from 38 to 124 cm
+Slickensides--zone from 64 to 124 cm
+Particle-size control section--zone from 38 to 88 cm
+
+Taxonomic version--Twelfth Edition, 2014
+
+National Cooperative Soil Survey
+U.S.A.

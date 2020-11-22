@@ -1,0 +1,160 @@
+LOCATION ROSSTON                OK+TX
+
+Established Series
+CRC-TLC-SDA
+06/2020
+
+ROSSTON SERIES 
+
+The Rosston series consists of very deep, poorly drained, very slowly permeable soils that formed in clayey lacustrine sediments of Pleistocene age.  These soils are on nearly level playa floors, and closed drainage depressions. Slope ranges from 0 to 1 percent. Mean annual precipitation is about 530 mm (21 in) and mean annual air temperature is about 13.9 degrees C (57 degrees F).
+
+TAXONOMIC CLASS: Fine, smectitic, thermic Ustic Epiaquerts  
+
+TYPICAL PEDON:  Rosston clay - on a 1 percent slope in native rangeland at approximately 658 m (2160 ft) elevation. (Colors are for moist soil unless otherwise stated.) 
+
+  A--0 to 33 cm (0 to 13 in); very dark gray (10YR 3/1) clay, dark gray (10YR 4/1), dry; weak medium subangular blocky structure; very hard, very firm; noneffervescent; moderately alkaline; clear smooth boundary. Thickness is 8 to 38 cm thick (3 to 15 in)
+
+  Bssg1--33 to 79 cm (13 to 31 in); very dark gray (10YR 3/1) clay, dark gray (10YR 4/1), dry; moderate medium angular blocky structure; very hard, very firm; few prominent discontinuous sand coats on faces of peds and few intersecting slickensides; few fine rounded iron-manganese concretions in matrix; noneffervescent; moderately alkaline; gradual smooth boundary. 
+
+  Bssg2--79 to 130 cm (31 to 51 in); dark gray (10YR 4/1) clay, gray (10YR 5/1), dry; moderate medium angular blocky structure; very hard, very firm; few prominent discontinuous sand coats on faces of peds and very few intersecting slickensides; few fine rounded iron-manganese concretions in matrix; noneffervescent; moderately alkaline; gradual smooth boundary. Combined thickness of the Bssg horizons is 48 to 145 cm (19 to 57 in)
+
+ Cg--130 to 203 cm (51 to 80 in); dark grayish brown (10YR 4/2) clay, grayish brown (10YR 5/2), dry; massive; very hard, very firm; many fine rounded iron-manganese concretions in matrix; noneffervescent; moderately alkaline. 
+
+TYPE LOCATION:  Harper County, Oklahoma; From the intersection of US Highway 283 and U.S. Highway 64 west of Rosston; 1 mile west on U.S. Highway 64, then 3.6 miles north on county road NS 1710; 800 ft (244 m) north and 400 ft (122 m) west of the southeast corner of Section 22, Township 28N Range 26W (Indian meridian).
+
+USGS topographic quadrangle: Rosston NW, Oklahoma
+Latitude: 36 degrees 53 minutes 14.35 seconds N
+Longitude: 99 degrees 58 minutes 56.01 seconds W
+Datum: WGS84
+
+Decimal Degrees
+Latitude: 36.8873177
+Longitude: -99.9822235
+
+UTM Northing: 4082822
+UTM Easting:   412475
+UTM zone 14S
+
+RANGE IN CHARACTERISTICS: 
+Soil Moisture: This soil has an Aquic soil moisture regime due to ponding and episaturation. The regime of the general area where this soil occurs is an ustic moisture regime bordering on aridic. 
+Solum thickness: 100 to greater than 200 cm (40 to greater than 80 in)
+Depth to aquic conditions and redoximorphic features: 0 to 50 cm (0 to 20 in) 
+Depth to slickensides: 10 to 50 cm (4 to 20 in)
+Depth to secondary carbonates (where present): 10 to 30 cm (4 to 12 in)
+Depth of episaturation: 0 to 203 cm (0 to 80 in) from May to November
+Vertic features: 0 to 122 cm (0 to 48 in); when dry, seasonal cracks 0.5 to 5 cm (0.2 to 2 in) wide extend through one or more horizons. Also, a layer greater than 15 cm (6 in) thick with wedge-shaped peds and/or slickensides. Gilgai micro-relief is commonly observed in undisturbed areas. 
+
+Particle-size control section (weighted average):
+Total clay content: 42 to 55 percent
+Silicate clay content: 42 to 55 percent
+Clay-sized carbonate content: 0 to 2 percent
+Sand content: 5 to 30 percent 
+Rock fragments: none
+
+A and Ap horizons:
+Hue: 2.5Y to 10YR
+Value: 2 to 5 moist or dry
+Chroma: less than 2 moist or dry
+Texture: silty clay, clay
+Total clay content: 40 to 55 percent 
+Silicate clay content: 40 to 55 percent
+Sand content: 5 to 25 percent  
+Rock fragments: none
+Redoximorphic Features: few to common, fine to medium; faint to distinct,  iron depletions, masses of manganese and oxidized iron, nodules of iron-manganese, surface coats of manganese
+Calcium carbonate equivalent: 0 to 3 percent
+Effervescence: none to slight
+Reaction (pH): neutral to moderately alkaline (6.6-8.4)
+
+Bss, Bssg, and Bkssg horizons:
+Hue: 2.5Y to 10YR
+Value: 3 to 6 moist or dry
+Chroma: 1 or 2 moist or dry
+Texture: silty clay, clay
+Total clay content: 42 to 60 percent 
+Silicate clay content: 42 to 60 percent
+Sand content: 5 to 25 percent  
+Rock fragments: none
+Redoximorphic Features: few to common, fine to medium; faint to distinct,  iron depletions, masses of manganese and oxidized iron, nodules of iron-manganese, surface coats of manganese
+Identifiable calcium carbonate: 0 to 10 percent; fine to very coarse; finely disseminated carbonate, films, masses, concretions, and nodules
+Calcium carbonate equivalent: 0 to 10 percent
+Effervescence: none to slight
+Reaction (pH): neutral to moderately alkaline (6.6-8.4)
+
+C, Cg, and Ckg horizons:
+Hue: 2.5Y to 10YR
+Value: 3 to 5 moist or dry
+Chroma: 1 or 2 moist or dry
+Texture: clay loam, silty clay loam, silty clay, clay
+Total clay content: 37 to 55 percent 
+Silicate clay content: 37 to 55 percent
+Sand content: 5 to 30 percent  
+Rock fragments: none
+Redoximorphic Features: few to common, fine to medium; faint to distinct, iron depletions, masses of manganese and oxidized iron, nodules of iron-manganese, surface coats of manganese
+Identifiable calcium carbonate: 0 to 3 percent; fine to very coarse; finely disseminated carbonate, films, masses, concretions, and nodules
+Calcium carbonate equivalent: 0 to 3 percent
+Effervescence: none to slight
+Reaction (pH): neutral to moderately alkaline (6.6-8.4)
+
+COMPETING SERIES: These are the Eastall(OK), Ranco(TX), and Ustibuck(OK) series. Similar soils are the Hansford(TX), Ness(KS), and Randall(TX) series.
+Eastall soils: occur within concave depressions in the Central Red Rolling Plains (MLRA 78C)
+Ranco soils: occur within playa basins and formed from lacustrine sediments derived from the Blackwater Draw formation (MLRA 77C)
+Ustibuck soils: occur in back swamps of flood plains in the North Cross Timbers (MLRA 84A)
+Hansford and Ness soils: have a mesic soil temperature regime 
+Randall soils: have a very-fine particle-size class
+
+GEOGRAPHIC SETTING:
+Parent material: clayey lacustrine sediments of Pleistocene age
+Landscape: dissected high plains
+Landform: playas 
+Slope: 0 to 1 percent 
+Mean annual precipitation: 457 to 610 mm (18 to 24 in)
+Thornthwaite annual PE Index: 25 to 36
+Mean annual air temperature: 13.3 to 15.0 degrees C (56 to 59 degrees F) 
+Frost-free period: 180 to 200 days
+Elevation: 609.6 to 914.4 m (2,000 to 3,000 ft)
+
+GEOGRAPHICALLY ASSOCIATED SOILS:  These are the Abbie, Irene, Paloduro, and Texroy series.  
+Abbie, Paloduro, and Texroy soils: have an argillic horizon, a fine-loamy particle-size class, and occur on slightly higher landscape positions
+Irene soils: have an argillic horizon, a fine-silty particle-size class, and occur on higher landscape positions
+
+DRAINAGE AND PERMEABILITY: 
+Drainage: poorly drained
+Permeability: very slow
+Runoff: ponded 
+Ponding: frequency-frequent; depth-10 to 91 cm (4 to 36 in); duration-long to very long
+Seasonal water table: Episaturation occurs between the soil surface and a depths up to 203 cm (80 in) during the months of May to November in most years
+
+USE AND VEGETATION: 
+Major uses: Livestock grazing and wildlife habitat.  
+Native vegetation: Wetland prairie grasses, sedges,  Pennsylvania smartweed, cocklebur, wooly leaf bursage, and other hydrophytes. 
+Ecological sites assigned to phases and components of this series are listed below.  Current ecological site assignments are in Web Soil Survey.  Components of this series include the following ecological sites: Depression (R077EY098OK)
+
+DISTRIBUTION AND EXTENT: 
+General area: Northwestern Oklahoma and the Oklahoma and Texas Panhandles
+Land Resource Region: H - Central Great Plains Winter Wheat and Range Region
+MLRA 77E - Southern High Plains, Breaks 
+Extent: minor
+
+SOIL SURVEY REGIONAL OFFICE (SSRO) RESPONSIBLE: Temple, Texas
+
+SERIES ESTABLISHED:  Harper County, Oklahoma 1997.
+
+REMARKS:
+Rosston soils were formerly included in the Randall series.
+
+Diagnostic horizons and features recognized in this pedon: 
+  Slickensides: 33 to 130 cm (13 to 51 in) (Bssg1 and Bssg2 horizons)
+  Aquic Conditions: 33 to 203 cm (13 to 80 in) (Bssg1, Bssg2, and Cg        horizons)
+  Reduced Matrix: 33 to 203 cm (13 to 80 in) (Bssg1, Bssg2, and Cg horizons)
+  Redox Concentrations: 33 to 203 cm (13 to 80 in) (Bssg1, Bssg2, and Cg horizons)
+  Episaturation - soil is saturated with water in one or more layers within 200 cm (80 in) of the soil surface with one or more unsaturated layers with an upper boundary above 200 cm (80 in)
+
+Additional comments:
+  Most sites meet the qualifications of hydric soil under one or more criteria.
+
+ADDITIONAL DATA: None available
+
+TAXONOMIC VERSION: Keys to Soil Taxonomy, Twelfth Edition, 2014.
+
+National Cooperative Soil Survey
+U.S.A.

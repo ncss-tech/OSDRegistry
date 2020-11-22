@@ -1,0 +1,89 @@
+LOCATION PARRAN                 NV
+
+Established Series
+Rev. ELS-MJZ-JVC
+05/2016
+
+PARRAN SERIES
+
+The Parran series consists of very deep, somewhat poorly drained soils that formed in lacustrine deposits derived from mixed rocks.  Parran soils are on lake plains and basin-floor remnants.  Slopes are 0 to 2 percent.  The mean annual precipitation is about 125 mm and the mean annual temperature is about 12 degrees C.
+
+TAXONOMIC CLASS:  Fine, smectitic, mesic Typic Aquisalids
+
+TYPICAL PEDON:  Parran silty clay--rangeland. (Colors are for moist soil unless otherwise noted.)
+
+    Az--0 to 13 cm; dark grayish brown (2.5Y 4/2) silty clay, light brownish gray (2.5Y 6/2) dry; weak fine granular structure; hard, friable, very sticky and very plastic; few fine roots; many fine interstitial pores; many fine prominent pale yellow (2.5Y 8/2) salt crystals; strongly effervescent; very strongly alkaline (pH 9.6); clear smooth boundary.  (8 to 20 cm thick)
+
+    Bzy--13 to 46 cm; dark grayish brown (2.5Y 4/2) silty clay, light gray (5Y 7/2) dry; weak medium and fine subangular blocky structure; hard, firm, very sticky and very plastic; common fine and medium roots; many fine and medium tubular pores; many fine prominent pale yellow (2.5Y 8/2) salt and gypsum crystals; strongly effervescent; strongly alkaline (pH 8.8); abrupt smooth boundary.  (25 to 46 cm thick)
+
+    C--46 to 152 cm; olive gray (5Y 5/2) silty clay, light gray (5Y 7/1) dry; strong coarse angular blocky and weak thick platy structure; extremely hard, very firm, very sticky and very plastic; few fine exped roots; few fine tubular pores; many coarse prominent dark reddish brown (5YR 3/2) masses of iron accumulation on faces of peds; strongly effervescent; strongly alkaline (pH 8.6).
+
+TYPE LOCATION:  Churchill County, Nevada; in the Lahontan Valley about 2.5 miles southeast of Hazen and north of both alternate Highway 50 and the Southern Pacific railroad tracks; approximately 100 feet south and 100 feet west of the northeast corner of section 1, T. 19 N., R. 26 E.; USGS Hazen 7.5 minute topographic quadrangle; latitude 39 degrees 32 minutes 51 seconds N and longitude 119 degrees 0 minutes 21 seconds W; WGS84 Decimal Degrees 39.5475000 latitude, -119.0058333 longitude.
+
+RANGE IN CHARACTERISTICS:
+Soil moisture: Usually moist in the soil moisture control section due to water in the capillary fringe during winter and spring; The C horizon is saturated with ground water for at least one month in normal years. The water table fluctuates between 61 and 100 cm in November through March; aridic soil moisture regime.
+Mean annual soil temperature: 12 to 14 degrees C.
+Salic horizon thickness: 15 to 70 cm.
+Salt content: 2 to 6 percent salt more soluble in cold water than gypsum.
+Gypsum content: 1 to 5 percent is commonly present in at least one horizon in most pedons.
+Depth to redoximorphic features: 25 to 76 cm.
+Reaction: Moderately alkaline through very strongly alkaline (up to pH 9.6).
+
+Particle-size control section - Clay content: 35 to 60 percent.
+Rock fragments: Less than 5 percent gravel.
+
+Az horizon
+Hue: 10YR through 5Y.
+Value: 4 or 5 moist, 6 through 8 dry.
+Chroma: 1 through 4, dry or moist.
+Salinity (EC): 16 to 99 mmhos/cm.
+Other features: This horizon is part of the salic horizon when electrical conductivities are 30 mmhos/cm or more.
+
+Bzy or Bz horizons
+Hue: 2.5Y or 5Y.
+Value: 4 or 5 moist; 6 through 8 dry.
+Chroma: 1 through 4, dry or moist.
+Texture: Clay, silty clay, or silty clay loam.
+Salinity (EC): 32 to 99 mmhos/cm.
+Sodicity (SAR): 46 to 150.
+Gypsum content: 0 to 5 percent.
+
+C horizons
+Hue: 2.5Y or 5Y.
+Value: 4 or 5 moist, 6 through 8 dry.
+Chroma: 1 through 4, dry or moist.
+Texture: Clay, silty clay, or silty clay loam.
+Structure: Angular or subangular blocky, platy or horizon is massive.
+Redoximorphic features:  Redox concentrations occur as common or many, fine to coarse, faint to prominent masses of iron and manganese accumulation.
+Salinity (EC): 16 to 99 mmhos/cm.
+Sodicity (SAR): 13 to 150.
+Other features: Thin discontinuous tufa deposits are below 30 cm in some pedons. Ostracods are present in some pedons.
+
+COMPETING SERIES:  There are currently no other series in this family.
+
+GEOGRAPHIC SETTING:  Parran soils are on lake plains and basin-floor remnants.  They formed in lacustrine deposits derived from mixed rocks.  Slopes are 0 to 2 percent.  Elevations range from 1150 to 1710 meters.  The climate is arid with cool, moist winters and hot, dry summers.  The mean annual precipitation is 100 to 150 mm, the mean annual temperature is 9 to 12 degrees C, and the frost-free period is 100 to 130 days.
+
+GEOGRAPHICALLY ASSOCIATED SOILS:  These are the Churchill and Pelic soils.  Churchill soils are moderately well drained, have natric horizons, and formed in alluvium over lacustrine deposits on basin-floor remnants.  Pelic soils are sandy, very poorly drained, and occur on flood plains.
+
+DRAINAGE AND SATURATED HYDRAULIC CONDUCTIVITY:  Somewhat poorly drained; low saturated hydraulic conductivity.  These soils are non-flooded or have a rare flooding frequency.  A seasonal high water table is present between 60 and 100 cm (moderately deep free water occurrence class) for at least one month in normal years.  Cumulative annual duration class is Common (November through March).
+
+USE AND VEGETATION:  Parran soils are used for rangeland and wildlife habitat.  The present vegetation is mainly black greasewood, inland saltgrass, seepweed, shadscale, and iodinebush.
+
+DISTRIBUTION AND EXTENT:  West-central Nevada.  These soils are moderately extensive.  The series concept and main acreage is in MLRA 27, while other acreage occurs in MLRA 28B.
+
+MLRA SOIL SURVEY REGIONAL OFFICE (MO) RESPONSIBLE:  Davis, California.
+
+SERIES ESTABLISHED:  Churchill County (Fallon-Fernley Area), Nevada, 1971.
+
+REMARKS:  Diagnostic horizons and features recognized in this pedon are:
+Ochric epipedon - The zone from the soil surface to 18 cm (The Az and part of the Bzy horizons).
+Salic horizon - The zone from 13 to 46 cm (Bzy horizon).
+Endosaturation feature - The condition of ground water with an upper boundary between 61 and 100 cm for at least one month in normal years.
+Particle-size control section - The zone from 25 to 100 cm (parts of the Bzy and C horizons).
+
+Further study on depths and periods of endosaturation are needed on this soil to better define soil properties for interpretations and taxonomic classification.  The great group of Haplosalids is a possible revision of the taxonomic classification.
+
+ADDITIONAL DATA:  A pedon of Parran is sampled for full characterization data by the Soil Survey Laboratory (SSL), Lincoln, NE, as pedon ID S08NV001001 (pedon # 08N0488).
+
+National Cooperative Soil Survey
+U.S.A.

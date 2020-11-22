@@ -1,0 +1,82 @@
+LOCATION ARGALT                 NV
+
+Established Series
+Rev. JFS/EWB/WED/JBF
+05/2016
+
+ARGALT SERIES
+
+The Argalt series consists of shallow or very shallow over an indurated duripan, well drained soils that formed in residuum and colluvium derived from basalt bedrock with a mixture of eolian material high in volcanic glass.  The Argalt soils are on basalt flow plateaus and mesas.  Slopes are 2 to 30 percent.  The mean annual precipitation is about 230 mm and the mean annual temperature is about 11 degrees C.
+
+TAXONOMIC CLASS: Loamy, mixed, superactive, mesic, shallow Xeric Argidurids
+
+TYPICAL PEDON:  Argalt very stony fine sandy loam--rangeland. (Colors are for dry soil unless otherwise noted.) The soil surface is covered with 25 percent gravel, l0 percent cobbles and l5 percent stones.
+
+    A1--0 to 3 cm; pale brown (10YR 6/3) very stony fine sandy loam, brown (10YR 5/3) moist; moderate thin and medium platy structure; soft, very friable, nonsticky and nonplastic; few very fine roots; common very fine and fine vesicular pores; 20 percent gravel, 10 percent cobbles, 15 percent stones; noneffervescent; moderately alkaline (pH 8.4); clear wavy boundary.  (3 to 8 cm thick)
+
+    A2--3 to 8 cm; pale brown (10YR 6/3) very fine sandy loam, brown (10YR 5/3) moist; strong medium platy structure; slightly hard, very friable, nonsticky and slightly plastic; few very fine and fine roots; common fine and medium vesicular and few fine tubular pores; noneffervescent; moderately alkaline (pH 8.0); clear wavy boundary.  (3 to 8 cm thick)
+
+    Bt--8 to 23 cm; light yellowish brown (10YR 6/4) clay loam, yellowish brown (10YR 5/4) moist; weak fine and medium subangular blocky structure; slightly hard, very friable, sticky and plastic; common very fine, fine and medium roots; common fine interstitial and few fine and medium tubular pores; 10 percent gravel; common thin clay films in pores and bridging mineral grains; noneffervescent; moderately alkaline (pH 8.0); clear wavy boundary.  (13 to 18 cm thick)
+
+    Bqkm--23 to 28 cm; very pale brown (10YR 8/2) fractured indurated duripan with a continuous laminar silica cap about 1/l6 to 1/8 inch in thickness; extremely hard, extremely firm, nonsticky and nonplastic; violently effervescent; clear irregular boundary.  (5 to 13 cm thick)
+
+    R--28 cm; hard basalt bedrock.
+
+TYPE LOCATION:  Mineral County, Nevada, approximately 1,750 feet west and 2,000 feet south of the northeast corner of Section 8, T. 7 N., R.  36 E.; latitude 38 degrees 28 minutes 47 seconds N latitude and longitude 117 degrees 59 minutes 32 seconds W; WGS84 Decimal Degrees 38.4797222 latitude, -117.991111 longitude.
+
+RANGE IN CHARACTERISTICS:
+Soil moisture: Moist in winter and spring, dry in summer and fall except for 10 to 20 days cumulative between July and October due to convection storms; aridic soil moisture regime bordering on xeric.
+Mean annual soil temperature: 12 to 14 degrees C.
+Depth to duripan: 29 to 36 cm.
+Depth to bedrock: 25 to 50 cm.
+Reaction: Slightly alkaline or moderately alkaline.
+Other features: Pan fragments are common in particle-size control section immediately above duripan in most pedons.
+
+Particle-size control section - Percent clay:  15 to 25 percent.
+Rock fragments:  5 to l5 percent.
+
+A horizon
+Value:  6 or 7 dry, 4 or 5 moist.
+Chroma:  2 or 3.
+
+Bt horizon
+Value:  6 or 7 dry, 4 or 5 moist.
+Chroma:  3 or 4.
+Texture:  Loam, clay loam.
+Clay content:  25 to 35 percent.
+Rock fragments:  5 to 15 percent.
+Structure:  Weak or moderate subangular blocky.
+Carbonates:  Noneffervescent through slightly effervescent.
+
+Bqkm horizon
+Value:  7 or 8 dry, 5 through 7 moist.
+Chroma:  1 or 2 dry, 3 or 4 moist.
+Reaction:  Moderately alkaline or strongly alkaline.
+
+COMPETING SERIES:  These are the Bartome, Bigfrog, Bruncan, Chuckridge, Chuska, Colthorp, Dewar, Grassval, Handpah, Packwood, Pipeline, Roseworth, Thoms and Wellington series.  
+
+Bartome, Bigfrog, Chuckridge, Chuska, Colthorp, Dewar, Grassval, Handpah, Pipeline, Roseworth, Thoms and Wellington soils lack bedrock within 50 cm.  Bruncan soils have a mean annual soil temperature of 8 to 12 degrees C. and have Btk horizons.  Packwood soils have 5YR or 7.5YR hues in the Bt horizon and are slightly acid or neutral.
+
+GEOGRAPHIC SETTING:  Argalt soils are on upland plateaus and mesas formed by basalt flows.  These soils formed in residuum and colluvium derived from basalt with a mixture of eolian material high in volcanic glass.  Slopes are 2 to 30 percent.  Elevations are 1,650 to 2,350 meters.  The climate is cool, semiarid with cool, moist winters and warm, dry summers.  The mean annual precipitation is 200 to 300 mm, the mean annual temperature is 10 to 12 degrees C, and the frost-free season is 100 to 130 days.
+
+GEOGRAPHICALLY ASSOCIATED SOILS:  These are the Gabbvally, Stewval and Weepah series.  Gabbvally, Stewval and Weepah soils lack an indurated duripan.  Weepah soils lack an argillic horizon.
+
+DRAINAGE AND SATURATED HYDRAULIC CONDUCTIVITY:  Well drained; slow to medium runoff; moderately high saturated hydraulic conductivity.
+
+USE AND VEGETATION:  Livestock grazing and wildlife habitat.  The present vegetation is mainly black sagebrush, shadscale, Nevada ephedra, spiny menodora, needleandthread and galleta.
+
+DISTRIBUTION AND EXTENT:  West-central Nevada.  These soils are not extensive.  MLRA 27, 29.
+
+MLRA SOIL SURVEY REGIONAL OFFICE (MO) RESPONSIBLE: Davis, California
+
+SERIES ESTABLISHED:  Mineral County Area, Nevada, 1985.
+
+REMARKS:  Diagnostic horizons and features recognized in this pedon are:
+Ochric epipedon - The zone from the soil surface to 8 cm (A1 and A2 horizons).
+Argillic horizon - The zone from 8 to 23 cm (Bt horizon).
+Indurated duripan - The zone from 23 to 28 cm (Bqkm horizon).
+Lithic contact - The boundary at 28 cm (R layer).
+Particle-size control section - The zone from the surface to about 23 cm.  (A1, A2 and Bt horizons)
+
+National Cooperative Soil Survey
+U.S.A.

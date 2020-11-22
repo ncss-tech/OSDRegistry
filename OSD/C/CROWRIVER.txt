@@ -1,0 +1,138 @@
+LOCATION CROWRIVER              MN
+
+Established Series
+Rev. RAL-TCJ-TWN
+03/2014
+
+CROWRIVER SERIES
+
+The Crowriver series consists of very deep, poorly drained soils that formed in loamy till. These soils are on nearly level to slightly convex positions on moraines. Slope ranges from 0 to 2 percent. Mean annual air temperature is about 8 degrees C. Mean annual precipitation is about 735 millimeters. 
+
+TAXONOMIC CLASS: Coarse-loamy, mixed, superactive, mesic Typic Calciaquolls
+
+TYPICAL PEDON:  Crowriver fine sandy loam, on a nearly level rim of a depression, in a cultivated field, at an elevation of about 365 meters above sea level. (Colors are for moist soil unless otherwise noted).
+
+    Ap--0 to 23 centimeters; black (N 2/0) fine sandy loam, gray (10YR 5/1) dry; weak medium subangular blocky structure parting to weak very fine subangular blocky; very friable; about 1 percent gravel; 3 percent cobbles; violently effervescent; moderately alkaline; abrupt smooth boundary.
+
+    A--23 to 33 centimeters; black (N 2/0) fine sandy loam, gray (10YR 5/1) dry; weak medium subangular blocky structure parting to weak very fine subangular blocky; very friable; about 1 percent gravel; 3 percent cobbles; violently effervescent; moderately alkaline; clear smooth boundary. 
+
+    ABk--33 to 43 centimeters; dark gray (10YR 4/1) fine sandy loam; weak medium subangular blocky structure parting to weak very fine subangular blocky; very friable; few light olive gray (5Y 6/2) carbonate coats on faces of peds; about 2 percent gravel; 4 percent cobbles; violently effervescent; moderately alkaline; gradual wavy boundary.
+
+    Bkg1--43 to 74 centimeters; light olive gray (5Y 6/2) fine sandy loam; weak medium subangular blocky structure; very friable; common fine, irregular, soft, white (10YR 8/1) calcium carbonate concentrations; few fine distinct light olive brown (2.5Y 5/4) iron concentrations; about 3 percent gravel; 6 percent cobbles; violently effervescent; moderately alkaline; gradual wavy boundary.
+
+    Bkg2--74 to 114 centimeters; light olive gray (5Y 6/2) fine sandy loam; weak medium subangular blocky structure; very friable; common, fine, irregular, soft, white (10YR 8/1) calcium carbonate concentrations distributed uniformly throughout the horizon; few fine prominent light olive brown (2.5Y 5/6) iron concentrations; about 3 percent gravel; 8 percent cobbles; strongly effervescent; moderately alkaline; gradual wavy boundary.
+
+    Bkg3--114 to 152 centimeters; light olive gray (5Y 6/2) fine sandy loam; weak coarse subangular blocky structure parting to weak thin platy; very friable; common, fine, irregular, soft, white (10YR 8/1) calcium carbonate concentrations distributed uniformly throughout the horizon; many medium prominent yellowish brown (10YR 5/8) iron concentrations; about 4 percent gravel; 8 percent cobbles; strongly effervescent; moderately alkaline; gradual wavy boundary.
+
+    BCkg--152 to 203 centimeters; gray (2.5Y 6/1) fine sandy loam; massive; very friable; few, fine, irregular, soft, white (10YR 8/1) calcium carbonate concentrations distributed uniformly throughout the horizon; many medium prominent yellowish brown (10YR 5/6) iron concentrations; about 4 percent gravel; 8 percent cobbles; strongly effervescent; moderately alkaline.
+
+TYPE LOCATION:  Major Land Resource Area (MLRA) 103-Central Iowa and Minnesota Till Prairies, Meeker County, Minnesota subset; about 8 miles north and 3 miles west of Grove City; located about 200 feet south and 1,100 feet west of the northeast corner of section 29, T. 121 N., R. 32 W.; USGS Lake Koronis topographic quadrangle; lat. 45 degrees 16 minutes 03 seconds N. and long. 94 degrees 43 minutes 36 seconds W., NAD 83.
+
+RANGE IN CHARACTERISTICS: 
+Mollic epipedon thickness--25 to 40 centimeters
+Depth to carbonates--0 to 10 centimeters
+Clay content of particle-size control section (weighted average)--14 to 18 percent
+Sand content of particle-size control section (weighted average)--35 to 55 percent
+
+Ap, Apk, A, or Ak horizon:
+Hue--10YR or is neutral
+Value--2 or 3
+Chroma--0 or 1
+Texture--fine sandy loam, sandy loam, loam, or sandy clay loam
+Clay content--14 to 20 percent
+Sand content--35 to 65 percent
+Rock fragment content--2 to 6 percent
+Calcium carbonate equivalent--20 to 30 percent
+Reaction--pH 7.4 to 8.4
+Thickness--25 to 40 centimeters
+
+ABk horizon:
+Hue--10YR, 5Y, or is neutral
+Value--3 or 4
+Chroma--0 or 1
+Texture--fine sandy loam, sandy loam, loam, or sandy clay loam
+Clay content--14 to 20 percent
+Sand content--35 to 65 percent
+Rock fragment content--2 to 6 percent
+Calcium carbonate equivalent--20 to 30 percent
+Reaction--pH 7.4 to 8.4
+Thickness--0 to 15 centimeters
+
+Bkg horizon:
+Hue--10YR, 2.5Y, 5Y, or is neutral
+Value--4 to 6
+Chroma--1 or 2
+Texture--fine sandy loam, sandy loam, loam, or sandy clay loam
+Clay content--12 to 22 percent
+Sand content--35 to 65 percent
+Rock fragment content--2 to 6 percent
+Calcium carbonate equivalent--20 to 30 percent
+Reaction--pH 7.4 to 8.4 
+Thickness--25 to 125 centimeters
+
+BCkg or Cg (when present) horizon:
+Hue--2.5Y or 5Y
+Value--4 to 6
+Chroma--2 to 4
+Texture--fine sandy loam, sandy loam, loam, or sandy clay loam
+Clay content--12 to 18 percent
+Sand content--40 to 65 percent
+Rock fragment content--3 to 6 percent gravel; 3 to 8 percent cobbles and stones
+Calcium carbonate equivalent--10 to 20 percent 
+Reaction--pH 7.4 to 7.8 
+
+COMPETING SERIES:  This is the Fedora series.
+Fedora--have a sand content of more than 65 percent in the lower third of the series control section
+
+GEOGRAPHIC SETTING:
+Parent material--loamy till of the Wadena Lobe of Wisconsin age
+Landform--nearly level to slightly convex positions on moraines
+Slope--0 to 2 percent
+Elevation--300 to 400 meters above sea level
+Mean annual air temperature--6 to 10 degrees C
+Mean annual precipitation--585 to 890 millimeters
+Frost-free period--155 to 200 days
+
+GEOGRAPHICALLY ASSOCIATED SOILS: These are the Grovecity, Lundlake, Swedegrove, and Uniongrove soils.
+Grovecity--are on higher landscape positions and have a frequently saturated zone between depths 0.75 and 1.2 meters during the wettest periods of years when precipitation is within one standard deviation of 30 year mean of annual precipitation
+Lundlake--are on lower landscape positions in depressions and have a mollic epipedon greater than 60 centimeters thick
+Swedegrove--are on landscape positions similar to those of the Crowriver soil and have a calcium carbonate equivalent range of 5 to 20 percent in the upper third of the series control section
+Uniongrove--are on slightly lower landscape positions on flats and swales and do not have carbonates in the upper third of the series control section
+
+DRAINAGE AND SATURATED HYDRAULIC CONDUCTIVITY: 
+Drainage class--poorly drained--in an undrained condition, a frequently saturated zone occurs at the surface of the soil to a depth of 0.3 meter during the wettest periods of years when precipitation is within one standard deviation of the 30 year mean of annual precipitation
+Saturated hydraulic conductivity--10.00 to 100.00 micrometers per second
+
+USE AND VEGETATION:
+Most areas are artificially drained and cultivated. The principal corps are corn, soybeans, small grains, and legume hay. The native vegetation is predominantly wet-site tall prairie species such as prairie cordgrass, switchgrass, big bluestem, wooly sedge, giant goldenrod and Canada goldenrod.
+
+DISTRIBUTION AND EXTENT: 
+Physiographic Division--Interior Plains
+Physiographic Province--Central Lowland
+Physiographic section--Western lake section
+MLRA--Central Iowa and Minnesota Till Prairies (103) 
+LRR M; west-central and central Minnesota
+Extent--small
+
+MLRA SOIL SURVEY REGIONAL OFFICE (MO) RESPONSIBLE: St. Paul, Minnesota.
+
+SERIES ESTABLISHED: Meeker County, Minnesota, 1995
+
+REMARKS:
+Particle-size control section--the zone from a depth of 25 to 100 centimeters;
+series control section--the zone from the surface to a depth of 150 centimeters.
+
+Diagnostic horizons and features recognized in this pedon are:
+mollic epipedon--the zone from the surface to a depth of 33 centimeters (Ap and A horizons);
+calcic horizon--the zone between a depth of 33 and 152 centimeters (ABk, Bkg1, Bkg2, and  Bkg3 horizons);
+aquic moisture regime. 1/2011-TYPE LOCATION error was corrected.
+
+Cation-exchange activity class is supported by lab data and from similar soils in the surrounding area.
+
+Taxonomy version--Keys to Soil Taxonomy, tenth edition, 2006.
+
+ADDITIONAL DATA:
+Laboratory data--Refer to Minnesota Agricultural Experiment Station Central File Code numbers 4414, 4517 and 4518 for results of laboratory analyses of some pedons of this series.
+
+National Cooperative Soil Survey
+U.S.A.

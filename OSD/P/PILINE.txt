@@ -1,0 +1,79 @@
+LOCATION PILINE                 NV+ID
+
+Established Series
+Rev. RAF/RLB/TM/JBF
+10/2019
+
+PILINE SERIES
+
+The Piline series consists of very deep, poorly drained soils that formed in alluvium derived from mixed rocks.  Piline soils are on internally drained areas of small relict lake plains, alluvial flats and playas.  Slopes are 0 to 2 percent.  Mean annual precipitation is about 230 mm and the mean annual temperature is about 8 degrees C.
+
+TAXONOMIC CLASS: Fine, smectitic, mesic Xeric Epiaquerts
+
+TYPICAL PEDON:  Piline silty clay loam--rangeland.  (Colors are for dry soil unless otherwise noted.)  The soil surface has gilgai that are 2 to 6 cm high.
+
+   A1--0 to 5 cm; light brownish gray (10YR 6/2) silty clay loam, grayish brown (2.5Y 5/2) moist; moderate fine granular structure; hard, firm, moderately sticky and very plastic; few fine and common very fine roots; common fine and few very fine tubular pores; slightly alkaline (pH 7.8); abrupt smooth boundary.  (5 to 10 cm thick)
+
+   A2--5 to 30 cm; light brownish gray (2.5Y 6/2) silty clay loam, grayish brown (2.5Y 5/2) moist; weak medium subangular blocky structure parting to moderate fine granular; very hard, very firm, moderately sticky and very plastic; few fine and very fine roots; few fine tubular pores; few iron manganese concretions; slightly alkaline (pH 7.8); gradual smooth boundary.  (15 to 28 cm thick)
+
+   Bss1--30 to 48 cm; light brownish gray (2.5Y 6/2) clay, grayish brown (2.5Y 5/2) moist; few fine distinct dark yellowish brown (10YR 3/4) redox concentrations; moderate medium subangular blocky structure; very hard, very firm, very sticky and very plastic; few very fine roots; few fine tubular pores; many intersecting slickensides; common iron manganese concretions; slightly alkaline (pH 7.6); gradual wavy boundary.  (15 to 43 cm thick)
+
+   Bss2--48 to 122 cm; light brownish gray (2.5Y 6/2) clay, grayish brown (2.5Y 5/2) moist; common fine distinct dark yellowish brown (10YR 3/4) redox concentrations; weak coarse prismatic structure; extremely hard, very firm, very sticky and very plastic; few fine roots; many intersecting slickensides; common iron manganese concretions; slightly alkaline (pH 7.6); gradual wavy boundary. (33 to 81 cm thick)
+
+   C--122 to 150 cm; light brownish gray (2.5Y 6/2) clay loam, grayish brown (2.5Y 5/2) moist; massive; very hard, very firm, very sticky and very plastic; common iron manganese concretions; slightly alkaline (pH 7.6).
+
+TYPE LOCATION:  Owyhee Desert, Elko County, Nevada; approximately 7 miles west of Desert Ranch Reservoir; about 1,570 feet south and 2,400 feet west of the northeast corner of section 35, T. 44 N., R. 47 E.; Mount Diablo Meridian; USGS Silver lake 7.5 minute topographic quadrangle; latitude 41 degrees 40 minutes 19 seconds N and longitude 116 degrees 40 minutes 28 seconds W; WGS84 Decimal Degrees 41.6719444 latitude, -116.6744444  longitude.
+
+RANGE IN CHARACTERISTICS:
+Soil moisture: Moist in winter and spring, with perched water table at the soil surface to 61 cm from January to July, dry late may through November.  Ponding on the soil surface is common in most years.
+Mean annual soil temperature: 8 to 11 degrees C.
+Other features: When, dry vertical cracks 1 cm or wider extend to a depth of more than 100 cm.  The cracks are closed for more than 60 consecutive days in the early spring.  Gilgai are 2 to 10 cm in height.  Few to many iron-manganese concretions can occur in any horizon.
+
+Particle-size control section - Clay content:  35 to 50 percent.
+
+A horizon
+Hue 10YR or 2.5Y
+Value: 6 or 7 dry, 4 through 6 moist.
+Chroma: 2 or 3
+Reaction:  Neutral or slightly alkaline.
+
+Bss and C horizons
+Hue 10YR or 2.5Y
+Value:  6 or 7 dry, 5 or 6 moist.
+Chroma: 1 or 2, chroma is 2 in more than half of the pedons on ped faces or in matrix
+Textures:  Dominantly clay or silty clay but contains clay loam in the lower substratum.
+Reaction: Neutral through moderately alkaline.
+Structure: Prismatic, subangular blocky, angular blocky or massive.
+Slickensides:  Common to many intersecting slickensides.
+Consistence: Hard to extremely hard, dry; firm to very firm, moist.
+Iron mottles:  Few to many and fine to medium in some subhorizons but decreasing with depth.
+Redox concentrations are absent within 2 meters of the soil surface.
+
+COMPETING SERIES:  This is the Dosa series. 
+
+Dosa soils are moderately deep to a paralithic contact. 
+
+GEOGRAPHIC SETTING:  Piline soils are on internally drained small relict lake plains, alluvial flats and playas.  These soils formed in alluvium derived from mixed rocks.  Slopes are 0 to 2 percent.  Elevations of 1,465 to 1,740 meters.  Climate is cool and semiarid with warm, dry summers and cool, moist winters.  Mean annual precipitation is 200 to 300 mm, mean annual temperature is 7 to 10 degrees C, and the frost-free season is 90 to 120 days.
+
+GEOGRAPHICALLY ASSOCIATED SOILS:  These are the McCleary soils.  These soils lack vertical cracks and gilgai.
+
+DRAINAGE AND SATURATED HYDRAULIC CONDUCTIVITY:  Poorly drained; ponded or very slow runoff; low saturated hydraulic conductivity.  The seasonal water table is perched at 25 to 61 cm during the months of February and May.  The surface is ponded with water for a short period during the same months in most years.
+
+USE AND VEGETATION:  Livestock grazing, and wildlife habitat. Vegetation is mainly mat muhly, silver sagebrush, bluegrass and bottlebrush squirreltail.
+
+DISTRIBUTION AND EXTENT:  North-central Nevada and South Western Idaho.  MLRA 25.  Piline soils are of moderate extent.
+
+MLRA SOIL SURVEY REGIONAL OFFICE (MO) RESPONSIBLE: Davis, California
+
+SERIES ESTABLISHED:  Elko County, Nevada, 1986.
+
+REMARKS:  Classification was changed from Aquic Chromoxererts to Xeric Epiaquerts in 1993.
+
+Diagnostic horizons and features recognized in this pedon are:
+Ochric epipedon - The zone from the soil surface to about 18 cm (A1, A2 and part of the A3 horizons). 
+Vertic features - Slickensides occur between 30 and 122 cm.  When dry vertical cracks 1 cm or wider extend to a depth of more than 100 cm. Gilgai are 2 to 10 cm in height.
+Aquic feature - Chroma of 2 or less with redoximorphic concentrations from 30 to 124 cm.
+Particle-size control section - The zone from 25 to 100 cm (part of A2, Bss1, and part of Bss2 horizons).
+
+National Cooperative Soil Survey
+U.S.A.

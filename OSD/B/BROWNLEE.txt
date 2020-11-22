@@ -1,0 +1,167 @@
+LOCATION BROWNLEE               ID+CA+MT+OR+UT
+
+Established Series
+Rev. TWP/ALH/KMS
+07/2019
+
+BROWNLEE SERIES
+
+Landscape--hills, foothills, valleys, canyonlands, plateaus
+Landform--terraces, hills, hillslopes, stream terraces, lake terraces, dissected terraces, walls of canyons, steptoes
+Slope--0 to 60 percent
+Parent material--colluvium, residuum and old alluvium from coarse-grained intrusive rocks
+Mean annual precipitation--about 450 mm
+Mean annual air temperature--about 9 degrees C
+Depth class--very deep and deep to bedrock, lithic or paralithic
+Drainage class--well drained
+Soil moisture regime--xeric
+Soil temperature regime--mesic
+Soil moisture subclass--typic
+
+TAXONOMIC CLASS: Fine-loamy, mixed, superactive, mesic Ultic Argixerolls
+
+TYPICAL PEDON: Brownlee coarse sandy loam -- on a convex slope of 3 percent, in rangeland at 1060 meter elevation. (Colors are for air-dry soil unless otherwise stated.)
+
+ A1--0 to 8 cm; coarse sandy loam, dark grayish brown (10YR 4/2) dry, very dark brown (10YR 2/2) moist; moderate very thin platy structure parting to weak and moderate very fine and fine granular; hard, friable, slightly sticky and slightly plastic; many very fine roots; many very fine pores; 10 percent fine gravel; slightly acid (pH 6.2); clear wavy boundary.
+
+ A2--8 to 23 cm; coarse sandy loam, dark grayish brown (10YR 4/2) dry, very dark brown (10YR 2/2) moist; ; weak very thin platy structure parting to weak and moderate very fine and fine granular; hard, friable, slightly sticky and slightly plastic; many very fine roots; many very fine pores; 10 percent fine gravel; slightly acid (pH 6.1); clear wavy boundary. (Combined A horizon is 18 to 41 cm thick)
+
+ AB--23 to 30 cm; coarse sandy loam, dark grayish brown (10YR 4/2) dry, very dark grayish brown (10YR 3/2) moist; weak fine granular structure; hard, friable, slightly sticky and slightly plastic; many very fine roots; common very fine pores; 10 percent fine gravel; moderately acid (pH 6.0); clear wavy boundary. (0 to 23 cm thick)
+
+ Bt1--30 to 51 cm; coarse sandy loam, dark grayish brown (10YR 4/2) dry, very dark grayish brown (10YR 3/2) moist; weak coarse prismatic structure parting to weak medium subangular blocky; very hard, firm, slightly sticky and slightly plastic; common fine roots; common very fine pores; few faint clay films on faces of peds; common continuous, wavy lamellae 2 to 5 mm thick with continuous prominent clay films, very dark brown (7.5YR 2/2) to dark reddish brown (5YR 3/2); 10 percent fine gravel; moderately acid (pH 6.0); clear wavy boundary. (10 to 23 cm thick)
+
+ Bt2--51 to 71 cm; coarse sandy clay loam,  brown (7.5YR 4/3) dry, dark brown (7.5YR 3/2) moist; weak coarse prismatic structure parting to moderate medium subangular blocky; very hard, firm, moderately sticky and moderately plastic; few fine roots; common fine pores; many distinct clay films on faces of peds; 10 percent fine gravel; common, continuous lamellae as described in Bt1; 10 percent fine gravel; moderately acid (pH 6.0); gradual smooth boundary. (13 to 53 cm thick)
+
+ Bt3--71 to 107 cm; coarse sandy clay loam, brown (7.5YR 4/3) dry, dark brown (7.5YR 3/3) moist; weak coarse prismatic structure parting to moderate medium subangular blocky; very hard, very firm, moderately sticky and moderately plastic; few fine roots; common fine and very fine pores; many distinct clay films on faces of peds; common discontinuous lamellae as described in Bt1; 10 percent fine gravel; moderately acid (pH 5.9); clear smooth boundary. (0 to 38 cm thick)
+
+ BC--107 to 114 cm; fine gravelly coarse sandy loam, brown (10YR 4/3) dry, dark brown (10YR 3/3) moist; weak coarse prismatic structure; very hard, firm; few very fine roots; few fine pores; few discontinuous lamella as described in Bt1; 20 percent fine gravel; slightly acid (pH 6.2); gradual wavy boundary. (0 to 46 cm thick)
+
+ Cr--114 to 150 cm; hard grus grading to granodiorite.
+
+TYPE LOCATION: Gem County, Idaho; about 5 miles northeast of Sweet; 640 m north and 290 m east of the southwest corner of section 12, T.8 N., R.1 E.; USGS Webb Creek Quadrangle; longitude -116.2900008, latitude 44.0438889 WGS84 (Coordinates estimated from PLSS details).
+
+RANGE IN CHARACTERISTICS:
+Mean annual soil temperature--8 to 12 degrees C
+Soil moisture--dry for 60 to 90 consecutive days following the summer solstice
+Mollic epipedon--25 to 50 cm
+Argillic horizon--64 to 137 cm to base of argillic
+Depth to lithic contact--102 to 152 cm 
+Depth to paralithic contact--greater than 100 cm
+Base saturation (25 to 75 cm - some part)--50 to 75 percent
+
+A horizon 
+*Hue--7.5YR or 10YR
+*Value--3 through 5 dry, 1 through 3 moist
+*Chroma--1 through 3 dry or moist 
+*Fine-earth texture--loam, silt loam, sandy loam
+*Clay--2 to 25 percent 
+*Sand--30 to 50 percent 
+*Organic matter--1 to 5 percent 
+*Total fragments--0 to 15 percent 
+*Gravel--0 to 15 percent (mostly fine gravel)
+*Cobbles--0 to 3 percent 
+*Reaction--5.6 to 7.3
+
+Bt1 horizon 
+*Hue--7.5YR or 10YR
+*Value--4 through 6 dry, 2 through 5 moist
+*Chroma--2 through 4 dry and moist
+*Fine-earth texture--clay loam, sandy clay loam, loam, coarse sandy loam
+*Clay--18 to 35 percent 
+*Sand--50 to 70 percent 
+*Organic matter--1 to 2 percent 
+*Total fragments--0 to 20 percent 
+*Gravel--0 to 20 percent (mostly fine gravel)
+*Cobbles--0 to 3 percent 
+*Reaction--5.6 to 7.3
+*Lamellae--none through common
+
+Bt2 and Bt3 horizons 
+*Hue--5YR through 2.5Y
+*Value--4 through 6 dry, 3 through 5 moist
+*Chroma--2 through 6 dry or moist
+*Fine-earth texture--clay loam, sandy clay loam, loam (more than 25 percent medium, coarse and very coarse sand) 
+*Clay--6 to 30 percent 
+*Sand--40 to 60 percent 
+*Organic matter--1 percent 
+*Total fragments--0 to 25 percent 
+*Gravel--0 to 25 percent (mostly fine gravel)
+*Cobbles--0 to 3 percent 
+*Reaction--5.6 to 7.3
+*Lamellae--few or common
+
+BC Horizon (when present)
+*Hue--5YR through 2.5Y
+*Value--4 through 6 dry, 3 through 5 moist
+*Chroma--2 through 6 dry or moist
+*Fine-earth texture--loamy sand, sandy loam, loam 
+*Clay--5 to 20 percent 
+*Sand--40 to 60 percent 
+*Organic matter--1 percent 
+*Total fragments--0 to 25 percent 
+*Gravel--20 to 50 percent (mostly fine gravel) 
+
+
+
+
+Unweathered granitic rock commonly occurs above 150 cm (below the Cr horizon)
+
+COMPETING SERIES: 
+Annum--dry for 90 to 105 consecutive days, have a mantle of loess, have buried Bt horizons, and have 2Bk or 2BC horizons with a soil reaction of slightly to medium alkaline.
+Chirpchatter--are dry for more than 90 consecutive days, have O horizons, and Bt horizons that extend to depths of 150 cm or more.
+Ebadlow--have silty textures in the upper Bt horizon, are 64 to 91 cm to skeletal material, and dry 90 to 105 consecutive days.
+Felton--have more than 50 percent shale fragments in the C horizons and dry for more than 90 consecutive days.
+Fisherhill--have Bt horizons that extend to depths of 150 cm or more and are dry 90 to 105 consecutive days.
+Goldendale--have Bt horizons that extend to depths of 150 cm or more and less than 25 percent medium sand or coarser in the particle-size control section.
+Hellake--lack Cr horizons, lamellae in the Bt horizon and under native conditions have O horizons.
+Lompico--are 50 to 100 cm deep.
+Lorena-- are 50 to 100 cm deep. 
+Meland-- are 50 to 100 cm deep.
+Mendian (T)--have very gravelly 3Btb horizons at depths of 64 to 100 cm and are dry 90 to 100 consecutive days.
+Meystre--have an O horizon and have less than 25 percent medium sand or coarser in the particle-size control section 
+Quiden--soils have an O horizon, Bt horizons that extend to depths of 150 cm or more and less than 25 percent medium sand or coarser in the particle-size control section. 
+Rehfield--have an aridic moisture regime. 
+Robbscreek--50 to 100 cm deep to a lithic contact.
+Schumacher--100 to 150 cm to a lithic contact (metasediments), have less than 25 percent medium or coarser sand in the particle-size control section and dry 45 to 60 consecutive days. 
+Stacker--50 to 100 cm deep over basalt and dry for 90 to 105 consecutive days.
+Stardust--are greater than 150 cm to bedrock, lack lamellae in the Bt horizons, and have an O horizon.
+Updegraff--are dry more than 90 consecutive days and have an O horizon.
+Van Horn--lack Cr horizons, lamellae in the Bt horizon and under native conditions have O horizons.
+ series. 
+
+GEOGRAPHIC SETTING: 
+Elevation--520 to 1770 m 
+Mean annual precipitation--330 to 580 mm 
+Mean annual air temperature--7 to 11 degrees C 
+Frost-free period--90 to 150 days
+
+GEOGRAPHICALLY ASSOCIATED SOILS: These are the Ola and Rainey series. Ola and Rainey soils lack argillic horizons. Ola soils have a mean annual soil temperature of less than 47 degrees F. Rainey soils are 50 to 100 cm deep. Ola soils are on steep north-facing slopes. Rainey soils are on south-facing slopes.
+
+DRAINAGE AND PERMEABILITY: 
+Saturation during normal years--none
+Flooding--none
+Ponding--none
+Saturated hydraulic conductivity (Ksat)--moderately high to high
+
+USE AND VEGETATION: 
+Use--irrigated or nonirrigated cropland (small grains) and hayland/pasture
+Potential native vegetation-- bluebunch wheatgrass, Idaho fescue, mountain big sagebrush, arrowleaf balsamroot, Thurber needlegrass, antelope bitterbrush, xeric big sagebrush, Oregon princesplume, longleaf hawksbeard, tapertip hawksbeard, lupine, bluebunch wheatgrass, Sandberg bluegrass, bluegrass, needlegrass, big sagebrush, prairie Junegrass, squaw apple, bitter cherry, prairie Junegrass, common snowberry, Great Basin wildrye, bearded wheatgrass, muttongrass
+
+DISTRIBUTION AND EXTENT: 
+Distribution--West-central Idaho, western Montana, northern Utah and eastern Oregon. MLRA 10
+Extent--moderate
+
+MLRA SOIL SURVEY REGIONAL OFFICE (MO) RESPONSIBLE: Portland, Oregon
+
+SERIES ESTABLISHED: Squaw Creek Project, Gem and Boise Counties, Idaho, 1939.
+
+REMARKS: 
+Diagnostic horizons and features recognized in this pedon are- - 
+*Mollic epipedon--0 to 30 cm 
+*Argillic horizon--51 to 107 cm 
+*Particle-size control section--51 to 101 cm
+
+ADDITIONAL DATA: Characterization sample no. 56 Ida 2312 (University of Idaho & SCS Riverside Lab, Bulletin 360, May 1961)
+
+National Cooperative Soil Survey
+U.S.A.

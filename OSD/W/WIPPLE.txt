@@ -1,0 +1,129 @@
+LOCATION WIPPLE                 WA
+
+Established Series
+Rev. JTK/KDPL/KAH/MPR
+09/2019
+
+WIPPLE SERIES
+
+Landscape--hills, canyonlands, plateaus
+Landform--hillslopes, canyons, structural benches, ridges
+Slope--0 to 70 percent
+Parent material--colluvium derived from basalt mixed with loess
+Mean annual precipitation--about 250 mm
+Mean annual air temperature--about 9 degrees C
+Depth class--deep, very deep
+Drainage class--well drained
+Soil moisture regime--aridic (bordering xeric)
+Soil temperature regime--mesic
+Soil moisture subclass--xeric
+
+TAXONOMIC CLASS: Clayey-skeletal, smectitic, mesic Aridic Palexerolls
+
+TYPICAL PEDON: Wipple cobbly clay loam under a cover of grasses, on a 40-percent, southwest-facing slope at an elevation of 730 m (The soil was dry when described.)
+
+ A--0 to 18 cm; cobbly clay loam, brown (10YR 5/3) dry, dark brown (10YR 3/3) moist; moderate fine granular structure; soft, very friable, nonsticky and slightly plastic; many very fine roots; 10 percent gravel and 25 percent cobbles; neutral (pH 7.0); clear wavy boundary
+
+ BA--18 to 28 cm; very gravelly clay loam, brown (10YR 4/3) dry, dark brown (10YR 3/3) moist; weak fine subangular blocky structure; slightly hard, friable, nonsticky and slightly plastic; common very fine and fine roots; few very fine tubular pores; 30 percent gravel and 10 percent cobbles; slightly alkaline (pH 7.5); abrupt smooth boundary
+
+ Bt1--28 to 38 cm; very gravelly clay, dark yellowish brown (10YR 4/4) dry, dark yellowish brown (10YR 3/4) moist; strong medium prismatic structure; very hard, very firm, moderately sticky and very plastic; common very fine and fine roots; few very fine irregular pores; many prominent clay films on faces of peds; 30 percent gravel and 10 percent cobbles; slightly alkaline (pH 7.5); clear wavy boundary
+
+ Bt2--38 to 76 cm; very cobbly clay, brown (7.5YR 4/4) dry, dark brown (7.5YR 3/4) moist; strong coarse prismatic structure; very hard, very firm, moderately sticky and very plastic; common very fine roots; continuous prominent clay films on faces of peds; 30 percent gravel and 25 percent cobbles; moderately alkaline (pH 8.0); clear wavy boundary
+
+ Btk1--76 to 114 cm; very cobbly clay loam, yellowish brown (10YR 5/4) dry, dark yellowish brown (10YR 4/4) moist; moderate fine subangular blocky structure; slightly hard, friable, slightly sticky and slightly plastic; many very fine tubular pores; common faint clay films on faces of peds; slightly effervescent; lime segregated in common fine irregular filaments; 20 percent gravel and 30 percent cobbles; moderately alkaline (pH 8.0); clear wavy boundary
+
+ Btk2--114 to 127 cm; extremely cobbly clay loam, yellowish brown (10YR 5/4) dry, dark yellowish brown (10YR 4/4) moist; weak fine subangular blocky structure; soft, very friable, slightly sticky and slightly plastic; few faint clay films on faces of peds; strongly effervescent, disseminated lime and coatings of lime on rock fragments; 20 percent gravel and 40 percent cobbles; moderately alkaline (pH 8.0); abrupt smooth boundary
+
+ R--127 cm; unweathered basalt
+
+TYPE LOCATION: Kittitas County, Washington, about 3 km east of the confluence of Roza Creek and Yakima River; about 90 m west and 60 m north of the southeast corner of section 14, T. 15 N., R. 19 E.; latitude 46.7815070, longitude -120.4047054, datum WGS 84 (coordinates estimated from section, township, and range)
+
+RANGE IN CHARACTERISTICS:
+Mean annual soil temperature--8 to 12 degrees C
+Soil moisture control section--dry  one-half to three-fourths the time when soil temperature is higher than 5 degrees C (aridic regime)
+Depth to bedrock--100 to 150 cm or more.
+Rock fragment content in particle-size control section--35 to 80 percent
+Clay content in particle-size control section--45 to 60 percent; assumed more than 50 percent montmorillonitic clay, by weight, in fine-earth fraction
+Upper part of argillic horizon--clayey; increase of at least 20 percent clay (absolute) within 8 cm vertically
+Thickness of mollic epipedon--25 to 40 cm
+Depth to free lime--typically 46 to 100 cm; no lime accumulation in some pedons
+
+A horizon
+Value--4 or 5 dry
+Chroma--2 or 3 dry or moist
+Texture of fine-earth fraction--clay loam, silt loam, loam
+Gravel content--0 to 35 percent
+Cobble content--0 to 40 percent
+Thickness--15 to 30 cm
+
+BA horizon (where present)
+Value--4 or 5 dry
+Chroma--2 to 4 dry
+Texture of fine-earth fraction--clay loam, silty clay loam
+Gravel content--15 to 35 percent
+Cobble content--10 to 40 percent
+Thickness--0 to 23 cm
+
+Bt horizon
+Hue--10YR, 7.5YR
+Value--4 to 6 dry, 3 or 4 moist
+Chroma--3 or 4 dry or moist
+Texture of fine-earth fraction--clay, clay loam, silty clay
+Gravel content--15 to 35 percent
+Cobble content--0 to 40 percent
+Stone content--0 to 35 percent
+Structure--subangular blocky, prismatic
+Combined thickness--8 to 71 cm
+
+Btk horizon (where present)
+Value--4 to 6 dry, 3 or 4 moist
+Chroma--3 or 4 dry or moist
+Texture of fine-earth fraction--clay, clay loam
+Gravel content--15 to 35 percent
+Cobble content--15 to 40 percent
+Reaction--7.4 to 8.4
+Combined thickness--43 to 97 cm
+
+COMPETING SERIES:
+Antoken, Tronsen--no lithic contact within 150 cm (very deep)
+Clerf--50 to 100 cm (moderately deep) to a lithic contact (basalt)
+
+GEOGRAPHIC SETTING:
+Elevation--120 to 1025 m
+Climate--semiarid; warm, dry summers; cold, moist winters
+Mean annual precipitation--230 to 330 mm
+Mean January air temperature--about -4 degrees C
+Mean July air temperature--about 21 degrees C
+Mean annual air temperature--about 9 to 11 degrees C
+Frost-free season--130 to 170 days
+
+GEOGRAPHICALLY ASSOCIATED SOILS:
+Bakeoven--on ridgetops and plateaus; 10 to 25 cm deep to a lithic contact; no argillic horizon
+Cheviot--loamy-skeletal; on footslopes and side slopes
+Grinrod--on hillslopes; loamy-skeletal; 50 to 100 cm deep to a lithic contact
+Renslow--on north-facing slopes; coarse-silty; formed in loess
+Vantage--on ridgetops and plateaus; 25 to 50 cm deep to a lithic contact
+
+DRAINAGE AND SATURATED HYDRAULIC CONDUCTIVITY:
+Drainage class--well drained
+Saturated hydraulic conductivity (Ksat)--moderately low
+
+USE AND VEGETATION:
+Use--livestock grazing, wildlife habitat, limited pasture production
+Native vegetation--bluebunch wheatgrass, Sandberg bluegrass, big sagebrush, arrowleaf balsamroot
+
+DISTRIBUTION AND EXTENT: Eastern Kittitas County, Washington; MLRA 8; small extent
+
+SOIL SURVEY REGIONAL OFFICE (SSRO) RESPONSIBLE: Portland, Oregon
+
+SERIES ESTABLISHED: Yakima Training Center, Kittitas County, Washington; 1994
+
+REMARKS:
+Diagnostic horizons and other features recognized in this pedon
+*Mollic epipedon--zone from the surface to a depth of 28 cm
+*Argillic horizon--zone from 28 to 127 cm
+*Argillic horizon--increase in clay of more than 15 percent (absolute) within 8 cm at a depth of about 28 cm
+*Particle-size control section--zone from 28 to 78 cm
+
+National Cooperative Soil Survey
+U.S.A.

@@ -1,0 +1,124 @@
+LOCATION MAREMMA                ID
+
+Established Series
+Rev. RWW/RGK/CBR
+05/2018
+
+MAREMMA SERIES
+
+Landscape--lava fields
+Landform--lava flows
+Slope--0 to 12 percent
+Parent material--loess-influenced alluvium
+Mean annual precipitation--about 400 mm
+Mean annual air temperature--about 4.4 degrees C
+Depth class--very deep
+Drainage class--well drained
+Soil moisture regime--xeric
+Soil temperature regime--frigid
+
+TAXONOMIC CLASS: Fine-loamy, mixed, superactive, frigid Calcic Pachic Haploxerolls
+
+TYPICAL PEDON:  Maremma sandy clay loam in an area of rangeland (Colors are for dry soil unless otherwise noted.)
+
+ A1--0 to 8 cm; dark brown (10YR 3/3) sandy clay loam, very dark brown (10YR 2/2) moist; weak coarse granular structure; soft, very friable, nonsticky and nonplastic; many very fine and fine roots; common very fine tubular pores; 2 percent gravel; slightly acid (pH 6.4); abrupt smooth boundary
+
+ A2--8 to 15 cm; dark brown (10YR 3/3) sandy clay loam, very dark brown (10YR 2/2) moist; weak thick platy structure; slightly hard, friable, slightly sticky and slightly plastic; common very fine roots; many very fine tubular pores; 5 percent gravel; neutral (pH 6.9); clear smooth boundary
+
+ Bt--15 to 61 cm; brown (10YR 5/3) sandy clay loam, dark brown (10YR 3/3) moist; moderate medium prismatic structure parting to weak medium subangular blocky; slightly hard, friable, slightly sticky and slightly plastic; common very fine roots; common very fine tubular pores; few faint clay films; 5 percent gravel; neutral (pH 6.7); abrupt wavy boundary
+
+ Bk1--61 to 76 cm; pale brown (10YR 6/3) very fine sandy loam, brown (10YR 5/3) moist; moderate coarse subangular blocky structure; hard, friable, slightly sticky and slightly plastic; few very fine and fine roots; common very fine and few fine irregular pores; slightly effervescent (12 percent calcium carbonate equivalent); common threadlike calcium carbonate masses throughout; moderately alkaline (pH 7.9); clear wavy boundary
+
+ Bk2--76 to 119 cm; light gray (10YR 7/2) sandy clay loam, pale brown (10YR 6/3) moist; massive; slightly hard, friable, slightly sticky and slightly plastic; few very fine and fine roots; common very fine irregular pores; violently effervescent (35 percent calcium carbonate equivalent); many lime veins and coatings on all sides of rock fragments; many threadlike calcium carbonate masses throughout and many calcium carbonate coatings on rock fragments; 10 percent gravel; moderately alkaline (pH 8.3); gradual wavy boundary
+
+ 2Bk3--119 to 157 cm; light gray (10YR 7/2) extremely cobbly loam, brown (10YR 5/3) moist; massive; slightly hard, friable, slightly sticky and slightly plastic; few very fine roots; common very fine irregular pores; violently effervescent (23 percent calcium carbonate equivalent); many threadlike calcium carbonate masses throughout and many calcium carbonate coatings on rock fragments; 10 percent gravel, 30 percent cobbles, and 20 percent stones; moderately alkaline (pH 8.4)
+
+TYPE LOCATION: Clark County, Idaho; latitude 44.28611 degrees north, longitude 112.11556 degrees west, datum WGS 84
+
+RANGE IN CHARACTERISTICS:
+Mean annual soil temperature--4.4 to 7.2 degrees C
+Thickness of mollic epipedon--50 to 76 cm
+Depth to argillic horizon--10 to 28 cm
+Depth to calcic horizon--64 to 89 cm
+
+Particle-size control section (weighted averages)
+Clay content--20 to 25 percent
+Total rock fragment content--0 to 5 percent
+
+A horizon
+Value--3 or 4 dry, 2 or 3 moist
+Chroma--2 or 3 dry or moist
+Clay content--20 to 25 percent
+Gravel content--0 to 5 percent
+Reaction--pH 6.1 to 7.3
+Thickness--10 to 28 cm
+
+Bt horizon
+Value--4 or 5 dry, 2 or 3 moist
+Chroma--3 or 4 dry, 2 or 3 moist
+Clay content--20 to 25 percent
+Gravel content--0 to 5 percent
+Reaction--pH 6.6 to 7.3
+Thickness--36 to 51 cm
+
+Bk horizon
+Value--6 to 8 dry, 5 to 7 moist
+Chroma--2 or 3 dry or moist
+Texture (less than 2-mm fraction)--fine sandy loam, sandy loam, sandy clay loam
+Clay content--15 to 25 percent
+Gravel content--0 to 10 percent
+Calcium carbonate equivalent--5 to 35 percent
+Reaction--pH 7.9 to 8.4
+Thickness--38 to 73 cm
+
+Bk horizon
+Value--6 to 8 dry, 5 to 7 moist
+Chroma--2 or 3 dry or moist
+Texture (less than 2-mm fraction)--loam, sandy loam
+Clay content--15 to 25 percent
+Total rock fragment content--60 to 85 percent
+Gravel content--10 to 30 percent
+Cobble content--30 to 55 percent
+Stone content--0 to 20 percent
+Calcium carbonate equivalent--15 to 35 percent
+Reaction--pH 7.9 to 8.4
+Thickness--38 to 73 cm
+
+COMPETING SERIES:
+Ricrest--no Bt horizon that has faint clay films
+
+GEOGRAPHIC SETTING:
+Elevation--1660 to 1890 m
+Mean annual precipitation--300 to 525 mm
+Mean annual air temperature--3.3 to 6.1 degrees C
+Frost-free period--70 to 95 days
+
+GEOGRAPHICALLY ASSOCIATED SOILS: None listed
+
+DRAINAGE AND SATURATED HYDRAULIC CONDUCTIVITY:
+Drainage class--well drained
+Saturated hydraulic conductivity (Ksat)--1 to 50 um/sec
+
+USE AND VEGETATION:
+Major use--rangeland
+Potential natural vegetation--mountain big sagebrush, bluebunch wheatgrass, Idaho fescue, arrowleaf balsamroot, thickspike wheatgrass, Letterman's needlegrass
+
+DISTRIBUTION AND EXTENT: Small extent in east-central Idaho; MLRA 13
+
+SOIL SURVEY REGIONAL OFFICE (SSRO) RESPONSIBLE:  Portland, Oregon
+
+SERIES ESTABLISHED:  Clark County, Idaho; 2018
+
+REMARKS:
+Diagnostic horizons and other features recognized in this pedon
+Mollic epipedon--zone from the surface to a depth of 61 cm (A1, A2, and Bt horizons)
+Calcic horizon--zone from 76 to 157 cm (Bk2 and 2Bk3 horizons)
+Particle-size control section--zone from 25 to 100 cm (part of Bt horizon, Bk1 and Bk2 horizons)
+
+Taxonomic version--Twelfth Edition, 2014
+
+ADDITIONAL DATA:
+Laboratory data--pedon number S1993ID033006; Kellogg Soil Survey Laboratory, Lincoln, NE
+
+National Cooperative Soil Survey
+U.S.A.

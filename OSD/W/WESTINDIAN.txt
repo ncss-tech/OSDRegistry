@@ -1,0 +1,120 @@
+LOCATION WESTINDIAN             ID
+
+Established Series
+IRD KA/RGK/CBR/EED
+05/2018
+
+WESTINDIAN SERIES
+
+Landscape--hills, alluvial plains
+Landform--fan remnants
+Slope--0 to 20 percent
+Parent material--loess-influenced mixed alluvium
+Mean annual precipitation--about 360 mm
+Mean annual air temperature--about 5 degrees C
+Depth class--shallow
+Drainage class--well drained
+Soil moisture regime--aridic
+Soil temperature regime--frigid
+
+TAXONOMIC CLASS: Loamy, mixed, superactive, frigid, shallow Xeric Haplodurids
+
+TYPICAL PEDON: Westindian loam on a 4-percent slope in an area of rangeland at an elevation of 1779 m
+
+ Ak1--0 to 5 cm; loam, pale brown (10YR 6/3) dry, brown (10YR 4/3) moist; weak very coarse granular structure; soft, very friable, nonsticky and nonplastic; many very fine and common fine roots; common very fine irregular pores; 12 percent gravel; violently effervescent (9 percent calcium carbonate); moderately alkaline (pH 8.2); abrupt wavy boundary
+
+ Ak2--5 to 25 cm; gravelly loam, brown (10YR 5/3) dry, brown (10YR 4/3) moist; weak fine granular structure; soft, very friable, nonsticky and nonplastic; many very fine and few fine roots; many very fine irregular pores; 20 percent gravel; violently effervescent (12 percent calcium carbonate); moderately alkaline (pH 8.4); clear wavy boundary
+
+ ABk--25 to 39 cm; gravelly silt loam, pale brown (10YR 6/3) dry, dark yellowish brown (10YR 4/4) moist; strong coarse subangular blocky structure; soft, very friable, nonsticky and nonplastic; many very fine and few fine and medium roots; common very fine and fine tubular pores; 30 percent gravel; violently effervescent (21 percent calcium carbonate); moderately alkaline (pH 8.4); abrupt smooth boundary
+
+ 2Bkqm--39 to 57 cm; strongly cemented duripan, light gray (10YR 7/2) dry, yellowish brown (10YR 5/4) moist; massive; extremely hard, extremely firm; mat of very fine roots on surface of pan; violently effervescent; clear smooth boundary
+
+ 2Bk--57 to 87 cm; extremely gravelly loamy fine sand, very pale brown (10YR 7/3) dry, yellowish brown (10YR 5/4) moist; weak fine subangular blocky structure; soft, very friable, nonsticky and nonplastic; many very fine and few fine and medium roots; many very fine interstitial pores; 65 percent gravel; violently effervescent (22 percent calcium carbonate); moderately alkaline (pH 8.4); abrupt smooth boundary
+
+ 3Bkqm--87 to 150 cm; indurated duripan, white (10YR 8/1) dry, light gray (10YR 7/2) moist; massive; extremely hard, extremely firm; violently effervescent
+
+TYPE LOCATION: Clark County, Idaho; latitude 44.19378 degrees north, longitude 112.57969 degrees west, datum WGS 84 (coordinates determined with a GPS)
+
+RANGE IN CHARACTERISTICS:
+Mean annual soil temperature--3 to 8 degrees C
+Depth to duripan--25 to 50 cm
+
+Particle-size control section
+Clay content--5 to 17 percent
+Total rock fragment content--15 to 35 percent
+ 
+Ak1 horizon
+Value--5 or 6 dry, 4 or 5 moist
+Chroma--3 or 4 dry or moist
+Calcium carbonate equivalent--5 to 15 percent
+Gravel content--5 to 15 percent
+Reaction--7.9 to 8.4 (moderately alkaline)
+Thickness--3 to 10 cm
+
+Ak2 horizon
+Value--5 or 6 dry, 4 or 5 moist
+Chroma--3 or 4 dry or moist
+Texture--loam, silt loam
+Calcium carbonate equivalent--5 to 15 percent
+Gravel content--15 to 35 percent
+Reaction--8.0 to 8.4 (moderately alkaline)
+Thickness--10 to 20 cm
+
+ABk horizon
+Value--4 to 6 dry, 3 or 4 moist
+Chroma--3 or 4 dry or moist
+Texture--loam, silt loam
+Calcium carbonate equivalent--15 to 30 percent
+Gravel content--15 to 35 percent
+Reaction--8.0 to 8.4 (moderately alkaline)
+Thickness--10 to 14 cm
+
+2Bk horizon
+Value--7 or 8 dry, 5 to 7 moist
+Chroma--1 to 3 dry, 2 to 4 moist
+Texture--loamy sand, loamy fine sand
+Calcium carbonate equivalent--15 to 30 percent
+Gravel content--45 to 85 percent
+Reaction--8.0 to 8.4 (moderately alkaline)
+Thickness--30 to 36 cm
+
+2Bkqm
+Thickness--13 to 25 cm
+
+COMPETING SERIES:
+Nouque--no rock fragments
+Raz--more than 20 percent clay in particle-size control section
+Umil--more than 18 percent clay in particle-size control section
+Weigle--duripan less than 25 cm from soil surface; bedrock within 200 cm of soil surface
+
+GEOGRAPHIC SETTING:
+Elevation--1500 to 2070 m
+Climate--warm summers, cold winters
+Mean annual precipitation--200 to 410 mm
+Mean annual air temperature--2 to 7 degrees C
+Frost-free period--70 to 90 days
+
+GEOGRAPHICALLY ASSOCIATED SOILS: None
+
+DRAINAGE AND SATURATED HYDRAULIC CONDUCTIVITY:
+Drainage class--well drained
+Saturated hydraulic conductivity (Ksat)--moderately high in upper part, low in lower part
+
+USE AND VEGETATION:
+Major use--livestock grazing
+Potential natural vegetation--low sagebrush, bluebunch wheatgrass, Idaho fescue, Sandberg bluegrass, prairie Junegrass, phlox
+
+DISTRIBUTION AND EXTENT: Snake River Plains of MLRA 11 and Lost River Valleys and Mountains of MLRA 12 in Idaho; small extent
+
+SOIL SURVEY REGIONAL OFFICE (SSRO) RESPONSIBLE: Portland, Oregon
+
+SERIES ESTABLISHED: Clark County, Idaho; 2018
+
+REMARKS:  
+Diagnostic horizons and other features recognized in this pedon
+*Ochric epipedon
+*Duripan--zone from 39 to 57 cm and 87 to 150 cm
+*Particle-size control section--zone from 25 to 39 cm
+
+National Cooperative Soil Survey
+U.S.A.

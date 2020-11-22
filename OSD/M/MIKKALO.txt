@@ -1,0 +1,109 @@
+LOCATION MIKKALO                OR+WA
+
+Established Series
+Rev. TAD/AON/RWL
+09/2019
+
+MIKKALO SERIES
+
+Landscape-- hills, plateaus, canyonlands
+Landform--hillslopes, structural benches, canyons
+Slope--0 to 60 percent
+Parent material--loess and a small amount of volcanic ash in the upper part
+Mean annual precipitation--about 250 mm
+Mean annual air temperature--about 10 degrees C
+Depth class--moderately deep
+Drainage class--well drained
+Soil moisture regime--aridic
+Soil temperature regime--mesic
+Soil moisture subclass--xeric
+
+TAXONOMIC CLASS: Coarse-silty, mixed, superactive, mesic Calcidic Haploxerolls
+
+TYPICAL PEDON: Mikkalo silt loam in an area of grassland
+
+ A1--0 to 8 cm; silt loam, grayish brown (10YR 5/2) dry, dark brown (10YR 3/3) moist; weak medium subangular blocky structure; slightly hard, friable, slightly sticky and slightly plastic; many very fine roots; many very fine tubular pores; neutral (pH 6.8); gradual wavy boundary
+
+ A2--8 to 28 cm; silt loam, grayish brown (10YR 5/2) dry, dark brown (10YR 3/3) moist; weak medium subangular blocky structure; slightly hard, friable, slightly sticky and slightly plastic; many very fine roots; many very fine tubular pores; neutral (pH 6.8); gradual wavy boundary
+
+ Bw1--28 to 41 cm; silt loam, brown (10YR 5/3) dry, dark brown (10YR 3/3) moist; moderate medium subangular blocky structure; slightly hard, friable, slightly sticky and slightly plastic; many very fine roots; many very fine tubular pores; slightly alkaline (pH 7.4); gradual wavy boundary
+
+ Bw2--41 to 69 cm; silt loam, pale brown (10YR 6/3) dry, brown (10YR 4/3) moist; moderate medium subangular blocky structure; slightly hard, friable, slightly sticky and slightly plastic; many very fine roots; many very fine tubular pores; slightly alkaline (pH 7.6); gradual smooth boundary
+
+ Bk1--69 to 89 cm; silt loam, very pale brown (10YR 7/3) dry, brown (10YR 4/3) moist; weak medium subangular blocky structure; slightly hard, friable, slightly sticky and slightly plastic; common very fine roots; many very fine tubular pores; 5 percent gravel 2 to 10 mm in diameter; slightly effervescent; slightly alkaline (pH 7.8); abrupt wavy boundary
+
+ Bk2--89 to 97 cm; silt loam, very pale brown (10YR 8/2) dry, brown (10YR 5/3) moist; massive; slightly hard, friable, slightly sticky and slightly plastic; few very fine roots; few very fine tubular pores; 15 percent gravel 2 to 10 mm in diameter; strongly effervescent; few streaks and splotches of soft powdery lime; moderately alkaline (pH 8.4); gradual wavy boundary
+
+ 2R--97 cm; lime-coated basalt
+
+TYPE LOCATION: Gilliam County, Oregon; about 6 m north of gravel road in the SE1/4SE1/4NE1/4 of section 19, T. 1 S., R. 21 E.
+
+RANGE IN CHARACTERISTICS:
+Mean annual soil temperature--10 to 12 degrees C
+Soil moisture--usually dry in all parts between depths of 10 and 30 cm one-half to three-fourths of the time when soil temperature is above 5 degrees C
+Depth to bedrock--50 to 100 cm
+Thickness of mollic epipedon--18 to 41 cm
+Particle-size control section--silt loam; 8 to 12 percent clay; less than 15 percent material coarser than very fine sand
+Depth to secondary carbonates--41 to 75 cm
+
+A horizon
+Value--4 or 5 dry, 2 or 3 moist
+Chroma--2 or 3 dry or moist
+Structure--granular, platy, subangular blocky
+Reaction--6.1 to 7.3
+Combined thickness--15 to 41 cm
+
+Bw horizon
+Value--5 or 6 dry, 3 or 4 moist
+Chroma--3 or 4 dry or moist
+Structure--subangular blocky, prismatic
+Reaction--6.1 to 8.4
+Combined thickness--10 to 58 cm
+
+Bk horizon
+Value--6 to 8 dry, 4 to 6 moist
+Chroma--2 or 3 dry or moist
+Reaction--7.4 to 9.0
+Calcium carbonate content--5 to 15 percent
+Combined thickness--18 to 56 cm
+
+COMPETING SERIES:
+Ellisforde--no lithic contact within a depth of more than 150 cm; lacustrine sediment at a depth of 50 to 100 cm
+Hodad--calcic horizon and secondary carbonates at a depth of 18 to 51 cm
+Neeley--no lithic contact within a depth of more than 150 cm; calcic horizon and secondary carbonates at a depth of 18 to 66 cm
+Ritzville--no lithic contact within a depth of more than 150 cm
+
+GEOGRAPHIC SETTING:
+Elevation--90 to 850 m
+Climate--semiarid; cool, moist winters; warm, dry summers
+Mean annual precipitation--230 to 310 mm
+Mean January air temperature--about -2 degrees C
+Mean July air temperature--about 22 degrees C
+Mean annual air temperature--about 9 to 12 degrees C
+Frost-free season--115 to 180 days
+
+GEOGRAPHICALLY ASSOCIATED SOILS:
+Ritzville--in similar positions
+
+DRAINAGE AND SATURATED HYDRAULIC CONDUCTIVITY:
+Drainage class--well drained
+Saturated hydraulic conductivity (Ksat)--moderately high
+
+USE AND VEGETATION:
+Use--production of small grain, livestock grazing
+Native vegetation--bluebunch wheatgrass, green rabbitbrush, big sagebrush, balsamroot, yarrow
+
+DISTRIBUTION AND EXTENT: Eastern Oregon and eastern Washington; MLRA 8; moderate extent
+
+SOIL SURVEY REGIONAL OFFICE (SSRO) RESPONSIBLE: Portland, Oregon
+
+SERIES ESTABLISHED: Morrow County, Oregon; 1977
+
+REMARKS:
+Diagnostic horizons and other features in this pedon
+*Mollic epipedon--zone from the surface to a depth of 41 cm
+*Cambic horizon--zone from 41 to 69 cm
+*Secondary carbonates--zone from 69 to 97 cm
+
+National Cooperative Soil Survey
+U.S.A.

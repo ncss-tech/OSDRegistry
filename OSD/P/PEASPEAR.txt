@@ -1,0 +1,122 @@
+LOCATION PEASPEAR               ID
+
+Established Series
+Rev. LAR/RGK/CBR/EED
+05/2018
+
+PEASPEAR SERIES
+
+The Peaspear series consists of very deep, well drained soils that formed in loess-influenced alluvium or colluvium derived from limestone, calcareous siltstone, or calcareous mudstone.  These soils are on fan remnants, hillslopes, and mountain slopes.  Slopes are 1 to 50 percent.  Mean annual precipitation is about 460 mm, and mean annual air temperature is about 3 degrees C.
+
+TAXONOMIC CLASS: Fine, smectitic Vertic Argicryolls
+
+TYPICAL PEDON: Peaspear gravelly silt loam on a 9-percent slope in an area of rangeland at an elevation of 2,207 m
+
+ Ak1--0 to 10 cm; gravelly silt loam, dark grayish brown (10YR 4/2) dry, very dark grayish brown (10YR 3/2) moist; strong fine granular structure; slightly hard, friable, moderately sticky and moderately plastic; common very fine, fine, and medium and few coarse roots; common very fine tubular pores; 20 percent gravel; finely disseminated carbonates and carbonate coatings 1 to 2 mm thick on all rock fragments; strongly effervescent; moderately alkaline (pH 7.9); clear wavy boundary
+
+ Ak2--10 to 18 cm; gravelly silt loam, dark grayish brown (10YR 4/2) dry, very dark grayish brown (10YR 3/2) moist; strong fine granular structure; slightly hard, friable, moderately sticky and moderately plastic; common very fine, fine, and medium and few coarse roots; common very fine tubular pores; 20 percent gravel; finely disseminated carbonates and carbonate coatings 1 to 2 mm thick on all rock fragments; strongly effervescent; moderately alkaline (pH 7.9); clear wavy boundary
+
+ Btk1--18 to 33 cm; gravelly silty clay loam, brown (10YR 5/3) dry, brown (10YR 4/3) moist; moderate fine subangular blocky structure; hard, firm, moderately sticky and moderately plastic; common very fine and fine and few medium and coarse roots; common very fine tubular pores; faint clay films on 35 percent of ped faces; 15 percent gravel; finely disseminated carbonates, carbonate coatings 1 to 2 mm thick on all rock fragments, and 5 percent very fine irregular carbonate masses; strongly effervescent; moderately alkaline (pH 7.9); clear wavy boundary
+
+ Btk2--33 to 74 cm; very cobbly silty clay, light gray (10YR 7/2) dry, very pale brown (10YR 7/3) moist; strong coarse prismatic structure parting to strong medium angular blocky; hard, firm, moderately sticky and moderately plastic; common very fine and fine and few medium roots; few very fine tubular pores; faint clay films on 70 percent of ped faces; 10 percent gravel and 25 percent cobbles; finely disseminated carbonates, carbonate coatings 1 to 2 mm thick on all rock fragments, and 7 percent very fine irregular carbonate masses; strongly effervescent; moderately alkaline (pH 7.9); clear wavy boundary
+
+ Btk3--74 to 97 cm; clay, pale yellow (2.5Y 8/2) dry, pale yellow (2.5Y 7/4) moist; strong coarse prismatic structure parting to strong coarse subangular blocky; hard, firm, moderately sticky and moderately plastic; few very fine and fine roots; few very fine tubular pores; faint clay films on 70 percent of ped faces; 5 percent gravel; finely disseminated carbonates, 25 percent carbonate coatings on ped faces, and 10 percent very fine threadlike carbonate masses; strongly effervescent; moderately alkaline (pH 8.0); gradual wavy boundary
+
+ Btk4--97 to 142 cm; clay, pale yellow (2.5Y 8/2) dry, 40 percent light olive brown (2.5Y 5/4) and 60 percent olive (5Y 5/6) moist; strong medium prismatic structure parting to strong coarse subangular blocky; hard, firm, very sticky and very plastic; few very fine roots; few very fine tubular pores; faint clay films on 35 percent of ped faces; finely disseminated carbonates, 30 percent carbonate coatings on ped faces, and 30 percent very fine threadlike carbonate masses; strongly effervescent; moderately alkaline (pH 7.9); gradual wavy boundary
+
+ Bk--142 to 150 cm; clay, light yellowish brown (2.5Y 6/4) dry, light olive brown (2.5Y 5/4) moist; massive; hard, firm, very sticky and very plastic; finely disseminated carbonates, 20 percent carbonate coatings on ped faces, and 5 percent very fine threadlike carbonate masses; strongly effervescent; moderately alkaline (pH 7.9)
+
+TYPE LOCATION: Clark County, Idaho; latitude 44.25881 degrees north, longitude 112.61847 degrees west, datum WGS 84 (coordinates determined with a GPS)
+
+RANGE IN CHARACTERISTICS:
+Mean annual soil temperature--2.8 to 6 degrees C
+Thickness of mollic epipedon--18 to 23 cm
+Linear extensibility--6 to 9 cm
+
+Particle-size control section
+Clay content--40 to 50 percent
+Total rock fragment content--15 to 35 percent
+
+Ak horizon
+Hue--10YR or 2.5Y dry or moist
+Value--4 or 5 dry, 2 to 4 moist
+Chroma--2 or 3 dry or moist
+Gravel content--15 to 25 percent
+Reaction--7.9 to 8.0 (moderately alkaline)
+Thickness--8 to 20 cm
+
+Btk horizon
+Hue--10YR to 5Y dry or moist
+Value--4 to 8 dry or moist
+Chroma--2 to 4 dry or moist
+Texture--silty clay loam, silty clay, clay
+Clay content--35 to 65 percent
+Gravel content--0 to 25 percent
+Cobble content--0 to 25 percent
+Calcium carbonate equivalent--5 to 40 percent
+Reaction--7.9 to 8.2 (moderately alkaline)
+Thickness--76 to 135 cm
+
+Bk horizon
+Hue--10YR to 5Y dry or moist
+Value--5 to 7 dry or moist
+Chroma--2 to 4 dry or moist
+Texture--silty clay loam, silty clay, clay
+Clay content--35 to 70 percent
+Calcium carbonate equivalent--10 to 30 percent
+Reaction--7.9 to 8.2 (moderately alkaline)
+
+COMPETING SERIES:
+Beaverdam (ID)--no calcium carbonates; udic soil moisture regime
+Buckskin (ID)--no calcium carbonates
+Chicken (MT)--paralithic contact at a depth of 50 to 100 cm (moderately deep); ustic soil moisture regime
+Cimarron (CO+WY)--no calcium carbonates; ustic soil moisture regime
+Cooperwash--slickensides and cracks 5 mm wide or more below a depth of 50 cm
+Cucharas (CO)--paralithic contact at a depth of 50 to 100 cm (moderately deep)
+Gourley (CO)--no calcium carbonates within 50 cm of the soil surface
+Hairpin (MT)--slickensides; ustic soil moisture regime
+Heathcoat (ID+CO)--no calcium carbonates within 20 cm of the soil surface
+Helmet (CO)--no calcium carbonates
+Quakenasp (WY)--udic soil moisture regime
+Slights (ID)--no calcium carbonates
+Sudduth (CO+ID)--slickensides and cracks below a depth of 50 cm
+Sudpeak (ID)--water table within a depth of 100 cm; no calcium carbonates
+Toponce (ID)--no calcium carbonates; udic soil moisture regime
+Wetopa (CO)--no calcium carbonates
+Youman (CO)--no calcium carbonates
+
+GEOGRAPHIC SETTING:
+Landform-- fan remnants, hillslopes, mountain slopes
+Elevation--1,530 to 2,400 m
+Slope--1 to 50 percent
+Climate--warm summers, cold winters
+Mean annual precipitation--300 to 560 mm
+Mean annual air temperature--2 to 6 degrees C
+Frost-free period--30 to 70 days
+
+GEOGRAPHICALLY ASSOCIATED SOILS: None listed
+
+DRAINAGE AND SATURATED HYDRAULIC CONDUCTIVITY: Well drained, 0.1 to 10.0 um/sec
+
+USE AND VEGETATION:  Peaspear soils are primarily used for rangeland.  The potential native vegetation is low sagebrush, bluebunch wheatgrass.
+
+DISTRIBUTION AND EXTENT: Peaspear soils are of small extent in southeastern Idaho; MLRA 12.
+
+SOIL SURVEY REGIONAL OFFICE (SSRO) RESPONSIBLE: Bozeman, Montana
+
+SERIES ESTABLISHED:  Clark County, Idaho; 2018
+
+REMARKS:  Diagnostic horizons and other features recognized in this pedon:
+Mollic epipedon--surface to a depth of 18 cm (Ak1 and Ak2 horizons)
+Argillic horizon--zone from 18 to 142 cm (Btk1, Btk2, Btk3, and Btk4 horizons)
+Calcic horizon--zone from 33 to 97 cm (Btk2 and Btk3 horizons)
+Particle size control section--zone from 18 to 68 cm
+
+3/2008--This official series description was revised to reflect a change in classification from fine, smectitic Xeric Eutrocryepts to fine, smectitic Calcic Haplocryepts due to a revision of the Cryepts great group and subgroups in Soil Taxonomy.
+
+5/2017--This official series description was revised to reflect a change in classification based on a description of the type location that now identifies an argillic horizon.
+
+Taxonomic version: Twelfth Edition, 2014 
+
+National Cooperative Soil Survey
+U.S.A.

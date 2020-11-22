@@ -1,0 +1,122 @@
+LOCATION HANNING                WA
+
+Established Series
+Rev. DDS/TLA/SHB
+06/2016
+
+HANNING SERIES
+
+Landscape--channeled scablands
+Landform--loess hills
+Slope--0 to 60 percent
+Parent material--loess
+Mean annual precipitation--about 410 mm
+Mean annual air temperature--about 9 degrees C
+Depth class--very deep and deep
+Drainage class--well drained
+Soil moisture regime--xeric
+Soil temperature regime--mesic
+Soil moisture subclass--typic
+
+TAXONOMIC CLASS: Fine-silty, mixed, superactive, mesic Pachic Argixerolls
+
+TYPICAL PEDON: Hanning silt loam, cultivated
+
+ Ap1--0 to 10 cm; silt loam, dark grayish brown (10YR 4/2) dry, very dark brown (10YR 2/2) moist; weak very fine granular structure; soft, very friable, slightly sticky and slightly plastic; many very fine and few fine roots; neutral (pH 7.0); abrupt smooth boundary
+
+ Ap2--10 to 28 cm; silt loam, dark grayish brown (10YR 4/2) dry, very dark grayish brown (10YR 3/2) moist; weak fine granular structure; soft, very friable, slightly sticky and slightly plastic; many very fine and few fine roots; many very fine interstitial pores; neutral (pH 7.0); clear smooth boundary
+
+ A--28 to 53 cm; silt loam, brown (10YR 4/3) dry, very dark grayish brown (10YR 3/2) moist; weak medium granular structure; soft, friable, slightly sticky and slightly plastic; many very fine roots; many very fine interstitial pores; slightly alkaline (pH 7.6); clear smooth boundary
+
+ Bt1--53 to 69 cm; silt loam, brown (10YR 5/3) dry, dark brown (10YR 3/3) moist; weak medium prismatic structure parting to weak medium subangular blocky; hard, friable, slightly sticky and slightly plastic; common very fine roots; common very fine interstitial pores; few faint clay films on faces of peds; slightly alkaline (pH 7.6); abrupt smooth boundary
+
+ Bt2--69 to 97 cm; silt loam, yellowish brown (10YR 5/4) dry, dark yellowish brown (10YR 4/4) moist; moderate medium prismatic structure; hard, friable, moderately sticky and moderately plastic; common very fine roots; few very fine pores; common faint clay films on faces of peds; slightly alkaline (pH 7.8); clear smooth boundary
+
+ Bt3--97 to 124 cm; silt loam, light yellowish brown (10YR 6/4) dry, dark yellowish brown (10YR 4/4) moist; moderate medium prismatic structure; hard, friable, slightly sticky and slightly plastic; common very fine roots; common very fine interstitial pores; very few faint clay films on faces of peds; slightly alkaline (pH 7.8); clear smooth boundary
+
+ C--124 to 150 cm; silt loam, pale brown (10YR 6/3) dry, dark yellowish brown (10YR 4/4) moist; massive; soft, friable, slightly sticky and plastic; common very fine roots; common very fine interstitial and tubular pores; slightly alkaline (pH 7.8)
+
+TYPE LOCATION: Lincoln County, Washington, about 10 km southeast of Davenport; about 60 m east and 240 m north of the southwest corner of section 4, T. 24 N., R. 38 E; Omans, Washington, U.S. Geological Survey topographic quadrangle; latitude 47.5974445, longitude -118.0364445, datum WGS 84 (coordinates estimated from PLSS data)
+
+RANGE IN CHARACTERISTICS:
+Thickness of mollic epipedon--50 to 90 cm
+Mean annual soil temperature--8 to 10 degrees C
+Moisture control section--usually moist, but dry in all parts between depths of 10 and 30 cm 70 to 80 consecutive days following summer solstice
+Particle-size control section--18 to 27 percent clay; less than 15 percent fine sand or coarser material throughout
+Depth to cemented pan--100 to 150 cm or more
+Bk horizon--at a depth of more than 110 cm in some pedons
+
+Ap horizon
+Combined thickness--10 to 55 cm
+
+A horizon
+Value--4 or 5 dry, 2 or 3 moist
+Chroma--1 to 3 dry or moist
+Structure--granular, subangular blocky
+Content of clay--10 to 18 percent
+Reaction--5.6 to 7.8
+Thickness--20 to 30 cm
+
+Bt horizon
+Value--4 to 6 dry, 3 or 4 moist
+Chroma--2 to 4 dry or moist
+Structure--prismatic, subangular blocky
+Reaction--6.6 to 8.4
+Combined thickness--60 to 110 cm
+
+C horizon
+Value--5 or 6 dry, 3 or 4 moist
+Chroma--3 or 4 dry or moist
+Reaction--7.4 to 9.0
+
+COMPETING SERIES:
+Hendricks--27 to 35 percent clay throughout particle-size control section
+Mohler--27 to 35 percent clay in particle-size control section; dry 45 to 60 consecutive days
+Van Nostern--50 to 100 cm deep to bedrock
+
+GEOGRAPHIC SETTING:
+Elevation--670 to 910 m
+Climate--mediterranean
+Mean annual precipitation--380 to 460 mm
+Mean January air temperature--about -4 degrees C
+Mean July air temperature--20 degrees C
+Mean annual air temperature--9 degrees C
+Frost-free season--110 to 150 days
+
+GEOGRAPHICALLY ASSOCIATED SOILS:
+Bagdad--mollic epipedon 35 to 45 cm thick; 75 to 110 cm deep to secondary carbonates
+Broadax--mollic epipedon 25 to 50 cm thick; 45 to 90 cm deep to secondary carbonates
+Cheney--underlain by gravelly or cobbly sand at a depth of 50 to 100 cm
+Lance--no mollic epipedon
+Reardan--more than 35 percent clay in particle-size control section
+Tucannon--underlain by basalt at a depth of 75 to 100 cm
+
+DRAINAGE AND SATURATED HYDRAULIC CONDUCTIVITY:
+Drainage class--well drained
+Saturated hydraulic conductivity (Ksat)--moderately high; moderately low through duripan, where present, at a depth of 100 cm or more
+
+USE AND VEGETATION:
+Use--production of small grain and grasses for hay and pasture
+Native vegetation--dominantly bluebunch wheatgrass, Sandberg bluegrass, Idaho fescue, prairie junegrass, lupine, rose, scattered Wyoming big sagebrush
+
+DISTRIBUTION AND EXTENT: Eastern Washington; MLRAs 8 and 9; moderate extent
+
+MLRA SOIL SURVEY REGIONAL OFFICE (MO) RESPONSIBLE: Portland, Oregon
+
+SERIES ESTABLISHED: Lincoln County, Washington; 1978
+
+REMARKS:
+Diagnostic horizons and other features in this pedon
+*Mollic epipedon--zone from surface to a depth of 53 cm
+*Argillic horizon--zone from 53 to 124 cm
+*Particle-size control section--zone from 53 to 104 cm
+
+The Hanning soils in Spokane County may need further investigation regarding the amount and extent of the volcanic ash influence in the upper part to determine whether they meet the criteria for the vitrandic subgroup.
+
+6/2016--This official series description (OSD) was updated as part of the final correlation of the Spokane County, Washington, Soil Survey. The formatting was updated according to SSR1 Technical Note 11--Content and Format of Official Series Descriptions (revised 12/2015).
+
+ADDITIONAL DATA:
+Laboratory data--Kellogg Soil Survey Laboratory pedon number 92P0070, Adams County, Washington, and numbers 05N0553 and 05N0554, Spokane County, Washington
+
+National Cooperative Soil Survey
+U.S.A.

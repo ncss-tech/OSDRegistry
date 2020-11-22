@@ -1,0 +1,134 @@
+LOCATION NAGYAGAT               AK
+
+Established Series
+SAS/ABD/MPR
+03/2019
+
+NAGYAGAT SERIES
+
+Landscape--mountains, hills
+Landform--mountain slopes, hillslopes
+Slope--0 to 25 percent
+Parent material--drift over residuum
+Mean annual precipitation--about 1000 mm
+Mean annual air temperature--about 0 degrees C
+Depth class--moderately deep
+Drainage class--well drained
+Soil moisture regime--udic
+Soil temperature regime--cryic
+Soil moisture subclass--typic
+
+TAXONOMIC CLASS: Loamy-skeletal, isotic Typic Humicryepts
+
+TYPICAL PEDON: Nagyagat very gravelly sandy loam on a northeast-facing, convex, linear mountain summit, on a slope of 3 percent at an elevation of 778 m (The soil was moist throughout when described on July 20, 2012.)
+
+ A--0 to 18 cm; very gravelly sandy loam, dark grayish brown (10YR 4/2) dry, very dark brown (10YR 2/2) moist; weak fine granular structure; soft, very friable, nonsticky and nonplastic; many very fine and common fine and medium roots; 35 percent subangular gravel and 10 percent subangular cobbles; extremely acid (pH 4.4); clear smooth boundary
+
+ BC--18 to 45 cm; very gravelly sandy loam, light yellowish brown (2.5Y 6/4) dry, olive brown (2.5Y 4/4) moist; weak medium subangular blocky structure; slightly hard, friable, nonsticky and nonplastic; common very fine and fine roots; 35 percent subangular gravel and 10 percent subangular cobbles; strongly acid (pH 5.3); abrupt smooth boundary
+
+ 2C--45 to 60 cm; extremely channery coarse sand, pale yellow (2.5Y 7/4) dry, light olive brown (2.5Y 5/4) moist; single grain; loose, nonsticky and nonplastic; common very fine roots; 50 percent angular channers and 35 percent angular flagstones; slightly acid (pH 6.2); clear irregular boundary
+
+ 2R--60 cm; bedrock
+
+TYPE LOCATION: Dillingham Census Area, Alaska, about 135 km north-northwest of the city of Dillingham; latitude 60.0315234 degrees north, longitude 159.8413644 degrees west, datum WGS 84 (coordinates determined with a GPS)
+
+RANGE IN CHARACTERISTICS:
+Mean annual soil temperature--0 to 2 degrees C
+Soil moisture control section--dry less than 45 consecutive days in June through October
+Depth to lithic contact--50 to 100 cm (moderately deep)
+Lithology of rock fragments in lower part--sedimentary, volcanic
+
+Particle-size control section
+*Clay content--1 to 18 percent
+*Sand content--55 to 80 percent
+*Total rock fragment content--35 to 85 percent
+*Content of fine sand or coarser in loamy-skeletal material--more than 50 percent
+*Sodium fluoride pH--8.4 to 11.6
+*Ratio of 1500 kPa water to measured clay--0.6 to 6.0
+
+All mineral horizons
+*Base saturation--0 to 10 percent
+
+A horizon
+Hue--7.5YR, 10YR
+Value--2 or 3 moist, 4 or 5 dry
+Fine-earth texture--silt loam, sandy loam
+Clay content--5 to 20 percent
+Reaction--4.4 to 6.1
+Total rock fragment content--20 to 45 percent
+Gravel content--20 to 40 percent
+Cobble content--0 to 10 percent
+Thickness--18 to 51 cm
+Bulk density--1.1 to 1.5 g/cm3
+
+BC horizon
+Value--3 to 5 moist, 5 to 7 dry
+Chroma--2 to 4 moist
+Clay content--5 to 20 percent
+Reaction--5.0 to 6.5
+Total rock fragment content--35 to 60 percent
+Gravel content--35 to 55 percent
+Cobble content--0 to 10 percent
+Thickness--15 to 30 cm
+Content of fine sand or coarser--more than 50 percent
+
+2C horizon
+Hue--10YR, 2.5Y
+Value--3 or 4 moist, 5 or 6 dry
+Chroma--2 to 4 moist
+Fine-earth texture--coarse sand, loamy sand, sandy loam
+Clay content--1 to 12 percent
+Reaction--5.5 to 6.5
+Total rock fragment content--35 to 85 percent
+Gravel content--0 to 55 percent
+Cobble content--0 to 5 percent
+Channer content--5 to 50 percent
+Flagstone content--5 to 35 percent
+Thickness--2 to 52 cm
+
+COMPETING SERIES:
+Bigelow, Buchia--no lithic contact within a depth of 150 cm
+Causewa--18 to 27 percent clay in particle-size control section
+Crannler--mean annual soil temperature higher than 4 degrees C
+Henline--mean annual soil temperature higher than 6 degrees C
+Hossick, Mirror--no channers or flagstones in particle size control section
+
+GEOGRAPHIC SETTING:
+Elevation--20 to 900 m
+Climate--warm, moist summers; cold, moist winters
+Mean annual precipitation--620 to 2100 mm
+Mean annual air temperature-- -3.6 to 1.8 degrees C
+Frost-free period--70 to 140 days
+
+GEOGRAPHICALLY ASSOCIATED SOILS:
+Mitlak--aquic conditions below a depth of 50 cm; andic soil properties; plains and lower mountain slopes
+Kashaiak--less than 50 cm (shallow) to lithic contact; similar landscape positions
+Klak--more than 150 cm (very deep); andic soil properties; lower mountain slopes
+Buchia--more than 150 cm (very deep); similar landscape positions
+Twin Hills--50 to 100 cm (moderately deep) to paralithic contact; hills
+Nagugun--more than 150 cm (very deep) to lithic contact; spodic horizon; andic soil properties; glaciated plains
+
+DRAINAGE AND SATURATED HYDRAULIC CONDUCTIVITY:
+Drainage class--well drained
+Saturated hydraulic conductivity (Ksat)--moderately high or high in the A and BC horizons, high or very high in the 2C horizon
+
+USE AND VEGETATION:
+Use--wildlife habitat, recreation, subsistence
+Potential natural vegetation--cup lichen, greygreen reindeer lichen, star reindeer lichen, pincushion plant, eightpetal mountain-avens, black crowberry, marsh Labrador tea, arctic willow, snow lichen
+
+DISTRIBUTION AND EXTENT: Ahklun Mountains, Alaska; MLRA 237; moderate extent
+
+SOIL SURVEY REGIONAL OFFICE (SSRO) RESPONSIBLE: Portland, Oregon
+
+SERIES ESTABLISHED: Togiak National Wildlife Refuge, Dillingham Census Area, Alaska; 2019
+
+REMARKS:
+Diagnostic horizons and other features in this pedon
+*Particle-size control section--zone from 25 to 60 cm
+*Umbric epipedon--A horizon
+*Cambic horizon-BC horizon
+*Depth to lithic bedrock--60 cm
+*Depth to lithologic discontinuity-top of 2C horizon
+
+National Cooperative Soil Survey
+U.S.A.

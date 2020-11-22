@@ -1,0 +1,121 @@
+LOCATION CHEVIOT                WA
+
+Established Series
+Rev. JTK/RJE/KWH/RWL
+09/2019
+
+CHEVIOT SERIES
+
+Landscape--canyonlands, hills
+Landform--canyons, hillslopes
+Slope--0 to 90 percent
+Parent material--colluvium derived from basalt mixed with loess
+Mean annual precipitation--about 280 mm
+Mean annual air temperature--about 9 degrees C
+Depth class--very deep
+Drainage class--well drained
+Soil moisture regime--aridic
+Soil temperature regime--mesic
+Soil moisture subclass--xeric
+
+TAXONOMIC CLASS: Loamy-skeletal, mixed, superactive, mesic Aridic Haploxerolls
+
+TYPICAL PEDON: Cheviot very cobbly loam under grasses and sagebrush (The soil was dry when described.)
+
+ A--0 to 25 cm; very cobbly loam, grayish brown (10YR 5/2) dry, very dark grayish brown (10YR 3/2) moist; moderate medium subangular blocky structure; soft, very friable, nonsticky and nonplastic; many very fine and fine roots; common fine and medium interstitial pores; 10 percent gravel, 25 percent cobbles, and 5 percent stones; neutral (pH 7.2); clear wavy boundary
+
+ Bw1--25 to 43 cm; very cobbly silt loam, brown (10YR 5/3) dry, dark brown (10YR 3/3) moist; weak medium subangular blocky structure; slightly hard, friable, nonsticky and nonplastic; common very fine roots; common very fine interstitial pores; 20 percent gravel, 30 percent cobbles, and 5 percent stones; slightly alkaline (pH 7.4); gradual wavy boundary
+
+ Bw2--43 to 81 cm; very cobbly silt loam, yellowish brown (10YR 5/4) dry, dark yellowish brown (10YR 3/4) moist; weak medium subangular blocky structure; slightly hard, friable, nonsticky and slightly plastic; common very fine roots; common very fine interstitial pores; 15 percent gravel, 40 percent cobbles, and 5 percent stones; slightly alkaline (pH 7.4); gradual wavy boundary
+
+ C--81 to 150 cm; extremely cobbly silt loam, yellowish brown (10YR 5/4) dry, dark yellowish brown (10YR 3/4) moist; massive; slightly hard, friable, nonsticky and nonplastic; few very fine roots; common very fine and fine tubular pores; 20 percent gravel, 50 percent cobbles, and 5 percent stones; slightly alkaline (pH 7.4)
+
+TYPE LOCATION: Douglas County, Washington, about 5 km north of Orondo, Washington; about 760 m north and 300 m east of the southwest corner of section 24, T. 25 N., R. 21 E; latitude 47 degrees, 38 minutes, 45 seconds north and longitude 120 degrees, 8 minutes, 10 seconds west
+
+RANGE IN CHARACTERISTICS:
+Mean annual soil temperature--8 to 12 degrees C
+Particle-size control section--averages 12 to 25 percent clay, 20 to 45 percent sand in fine-earth fraction, and 35 to 70 percent rock fragments
+Thickness of mollic epipedon--25 to 43 cm, may include upper part of Bw horizon
+Thickness of solum--64 to 100 cm
+Moisture control section--dry more than half the time when the soil temperature is higher than 5 degrees C
+Base saturation throughout upper 75 cm--assumed more than 75 percent
+Reaction--6.6 to 7.8 throughout
+
+A thin (3 to 13 mm) cap of 1980 Mount St. Helens ash is in some pedons.
+
+A horizon
+Value--4 or 5 dry
+Chroma--2 or 3 moist
+Texture--very cobbly loam or very stony silt loam in upper part; very cobbly silt loam, very gravelly silt loam, or very cobbly loam in lower part
+Organic matter content--assumed more than 1 percent
+Thickness--15 to 43 cm
+
+Bw horizon
+Value--3 or 4 moist
+Chroma--3 or 4 dry or moist
+Texture--very cobbly loam, very cobbly silt loam, extremely cobbly loam, extremely cobbly silt loam, very gravelly silt loam
+Gravel content--15 to 35 percent
+Cobble content--0 to 40 percent
+Stone content--0 to 5 percent
+Combined thickness--25 to 71 cm
+
+C horizon, or BC or BCk horizon (where present)
+Value--5 or 6 dry, 3 or 4 moist
+Chroma--3 or 4 dry or moist
+Texture--extremely cobbly silt loam, extremely cobbly loam, very cobbly loam
+Gravel content--15 to 40 percent
+Cobble content--30 to 50 percent
+Stone content--0 to 5 percent
+Depth to secondary carbonates (where present)--below a depth of 110 cm
+
+COMPETING SERIES:
+Hencratt--60 to 150 cm (moderately deep, deep) to a paralithic contact (tuff)
+Pait--average more than 50 percent sand throughout particle-size control section; 50 to 100 cm deep to lithologic discontinuity
+Redcliff--50 to 100 cm (moderately deep) to a lithic contact (metavolcanic rock)
+Schwalbe--50 to 100 cm (moderately deep) to a lithic contact (andesitic tuff)
+Whichman--100 to 150 cm (deep) to a lithic contact (andesite)
+
+GEOGRAPHIC SETTING:
+Elevation--90 to 1000 m
+Climate--semiarid; warm, dry summers; cold, moist winters
+Mean annual precipitation--230 to 330 mm
+Mean January air temperature--about -4 degrees C
+Mean July air temperature--about 21 degrees C
+Mean annual air temperature--about 8 to 11 degrees C
+Frost-free season--100 to 180 days
+
+GEOGRAPHICALLY ASSOCIATED SOILS:
+Bakeoven--on ridgetops and plateaus; 10 to 25 cm (very shallow) to a lithic contact (basalt)
+Clerf--clayey-skeletal particle-size class; 50 to 100 cm (moderately deep) to a lithic contact (basalt)
+Grinrod--50 to 100 cm (moderately deep) to a lithic contact (basalt)
+Lickskillet--on ridgetops and plateaus; 25 to 50 cm (shallow) to a lithic contact (basalt)
+Renslow--on north-facing slopes; coarse-silty particle-size class
+Vantage--clayey-skeletal particle-size class; 50 to 100 cm (moderately deep) to a lithic contact (basalt)
+Wipple--clayey-skeletal particle-size class
+
+DRAINAGE AND SATURATED HYDRAULIC CONDUCTIVITY:
+Drainage class--well drained
+Saturated hydraulic conductivity (Ksat)--moderately high
+
+USE AND VEGETATION:
+Use--livestock grazing, wildlife habitat
+Native vegetation--bluebunch wheatgrass, Wyoming big sagebrush, Sandberg bluegrass
+
+DISTRIBUTION AND EXTENT: Central and southeastern Washington; MLRA 8; moderate extent
+
+SOIL SURVEY REGIONAL OFFICE (SSRO) RESPONSIBLE: Portland, Oregon
+
+SERIES ESTABLISHED: Douglas County, Washington; 1998
+
+REMARKS:
+Diagnostic horizons and other features recognized in this pedon
+*Mollic epipedon--zone from the surface to a depth of 43 cm
+*Cambic horizon--zone from 43 to 81 cm
+*Particle-size control section--zone from 25 to 100 cm
+
+The Cheviot soils were included in the Kiona series in some older soil surveys.
+
+The official type location has been moved from Kittitas County, Washington, to Douglas County, Washington, because the original pedon of the type location was not in a map unit of Cheviot soils. In addition, secondary carbonates were described as present above a depth of 112 cm.
+
+National Cooperative Soil Survey
+U.S.A.

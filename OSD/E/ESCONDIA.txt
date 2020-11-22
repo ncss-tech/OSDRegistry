@@ -1,0 +1,130 @@
+LOCATION ESCONDIA               OR
+
+Established Series
+IRD RJK/TDT/KMS
+01/2019
+
+ESCONDIA SERIES
+
+Landscape--mountains
+Landform--mountain slopes
+Slope--30 to 60 percent
+Parent material--thick mantle of volcanic ash over colluvium derived from basalt
+Mean annual precipitation--about 630 mm
+Mean annual air temperature--about 4 degrees C
+Depth class--very deep
+Drainage class--well drained
+Soil moisture regime--xeric
+Soil temperature regime--frigid
+Soil moisture subclass--typic
+
+TAXONOMIC CLASS: Ashy-skeletal over loamy-skeletal, glassy over isotic, frigid Alfic Vitrixerands
+
+TYPICAL PEDON: Escondia cobbly ashy fine sandy loam in an area of woodland, on a west-facing, convex, 37-percent slope at an elevation of 1805 m (When described on June 2, 2003, the soil was at field capacity throughout.)
+
+ Oi--0 to 3 cm; slightly decomposed ponderosa pine needles, twigs, bark, cones, and other organic debris
+
+ A--3 to 28 cm; cobbly ashy fine sandy loam, pale brown (10YR 6/3) dry, brown (10YR 4/3) moist; weak fine granular structure; soft, very friable, nonsticky and nonplastic; many fine and medium roots; many very fine and fine interstitial pores; 10 percent gravel, 15 percent cobbles, and 5 percent stones; neutral (pH 7.0); gradual wavy boundary
+
+ AB--28 to 81 cm; extremely gravelly ashy loam, brown (10YR 5/3) dry, brown (10YR 4/3) moist; weak fine granular structure; soft, very friable, slightly sticky and slightly plastic; many very fine, fine, and medium and few coarse roots; many very fine and fine interstitial pores; 50 percent gravel, 10 percent cobbles, and 5 percent stones; neutral (pH 6.8); clear wavy boundary
+
+ 2Bt--81 to 155 cm; extremely gravelly clay loam, brown (10YR 5/3) dry, brown (7.5YR 4/3) moist; weak fine and medium subangular blocky structure; slightly hard, friable, moderately sticky and moderately plastic; few medium and fine roots; few very fine and fine tubular pores; few faint clay films on faces of peds; 45 percent gravel, 10 percent cobbles, and 5 percent stones; neutral (pH 6.8)
+
+TYPE LOCATION: Grant County, Oregon, about 29 km southeast of Prairie City, on a gravel road off Grant County Road 29; about 770 m west and 695 m north of the southeast corner of section 8, T. 15 S., R. 35 E.; Roberts Creek, Oregon, U.S. Geological Survey quadrangle; latitude 44.2833539, longitude -118.5366227, datum WGS 84 (unknown how coordinates were determined but probably with a GPS unit)
+
+RANGE IN CHARACTERISTICS:
+Mean annual soil temperature--6 to 8 degrees C
+Thickness of ash-influenced layers--35 to 90 cm
+
+Estimated properties of layers influenced by volcanic ash
+*Ammonium oxalate extractable Al + 1/2 Fe--0.5 to 1.5 percent
+*Glass content in 0.02- to 2.0-mm fraction--20 to 40 percent
+*Phosphate retention--30 to 65 percent
+
+Particle-size control section
+*Clay content in upper part--5 to 18 percent
+*Clay content in lower part--15 to 30 percent
+
+A horizon
+Value--3 or 4 moist, 6 or 7 dry
+Chroma--3 or 4 moist or dry
+Fine-earth texture--ashy fine sandy loam
+Clay content--5 to 15 percent
+Sand content--30 to 50 percent
+Organic matter content--2 to 4 percent
+Total rock fragment content--20 to 65 percent
+Gravel content--10 to 25 percent
+Cobble content--5 to 25 percent
+Stone content--0 to 15 percent
+Reaction--6.6 to 7.3
+Thickness--18 to 40 cm
+
+AB horizon
+Value--3 or 4 moist, 5 or 6 dry
+Chroma--3 or 4 moist or dry
+Fine-earth texture--ashy fine sandy loam, ashy loam
+Clay content--10 to 18 percent
+Sand content--30 to 65 percent
+Organic matter content--1 to 3 percent
+Total rock fragment content--35 to 65 percent
+Gravel content--10 to 55 percent
+Cobble content--5 to 25 percent
+Stone content--0 to 15 percent
+Reaction--6.6 to 7.3
+Thickness--18 to 55 cm
+
+2Bt horizon
+Hue--10YR, 7.5YR
+Value--3 or 4 moist, 5 or 6 dry
+Chroma--2 or 3 moist or dry
+Fine-earth texture--loam, clay loam
+Clay content--15 to 35 percent
+Sand content--30 to 50 percent
+Organic matter content--0.5 to 1.5 percent
+Total rock fragment content--35 to 70 percent
+Gravel content--25 to 55 percent
+Cobble content--5 to 15 percent
+Stone content--5 to 15 percent
+Reaction--6.6 to 7.3
+
+COMPETING SERIES:
+Simnasho--50 to 100 cm (moderately deep) to weathered andesite; 5 to 15 percent volcanic glass in lower part of control section; dry value of 5 or less in upper part
+
+GEOGRAPHIC SETTING:
+Elevation--1040 to 2190 m
+Climate--cold, wet winters; hot, dry summers
+Mean annual precipitation--410 to 1040 mm
+Mean annual air temperature--1 to 7 degrees C
+Frost-free period--30 to 100 days
+
+GEOGRAPHICALLY ASSOCIATED SOILS:
+Klicker--on adjacent south-facing side slopes; moderately deep to bedrock; vitrandic; loamy-skeletal
+Vester--on adjacent higher north-facing slopes; udic soil moisture regime; cryic soil temperature regime
+Syrupcreek--on north-facing side slopes; ashy over loamy-skeletal
+
+DRAINAGE AND SATURATED HYDRAULIC CONDUCTIVITY:
+Saturation during normal years--none
+Flooding--none
+Ponding--none
+Saturated hydraulic conductivity (Ksat)--moderately high
+
+USE AND VEGETATION:
+Use--mainly timber production
+Native vegetation-- grand fir, ponderosa pine, Douglas-fir, lodgepole pine, western larch, pinegrass, elk sedge, heartleaf arnica, lupine, Virginia strawberry, white hawkweed, common yarrow, woodland strawberry, low Oregon grape, common snowberry
+
+DISTRIBUTION AND EXTENT: Mountain slopes of the Strawberry Mountains in south-central Oregon; MLRA 10; moderate extent (extends into Malheur National Forest)
+
+SOIL SURVEY REGIONAL OFFICE (SSRO) RESPONSIBLE: Portland, Oregon
+
+SERIES ESTABLISHED: Grant County Area, Oregon; 2018
+
+REMARKS:
+Diagnostic horizon and other features recognized in this pedon
+*Ochric epipedon
+*Argillic horizon--zone from 81 to 155 cm
+*Particle-size control section--zone from 3 to 103 cm
+*Volcanic ash--zone from 3 to 81 cm
+*Andic soil properties--zone from 3 to 81 cm
+
+National Cooperative Soil Survey
+U.S.A.

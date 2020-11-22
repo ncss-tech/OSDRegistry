@@ -1,0 +1,141 @@
+LOCATION EKWOK                  AK
+
+Established Series
+SAS/TJR/MPR
+01/2019
+
+EKWOK SERIES
+
+Landscape--plains
+Landform--rises
+Slope--0 to 70 percent
+Parent material--volcanic ash over loess 
+Mean annual precipitation--about 800 mm
+Mean annual air temperature--about 0 degrees C
+Depth class--very deep
+Drainage class--well drained
+Soil moisture regime--udic
+Soil temperature regime--cryic
+Soil moisture subclass--typic
+
+TAXONOMIC CLASS: Coarse-loamy, isotic Typic Haplocryods
+
+TYPICAL PEDON: Ekwok silt loam on a rise of a plain, on a 3-percent slope at an elevation of 31 m (The soil was moist throughout when described on July 31, 2006.)
+
+ Oi--0 to 3 cm; slightly decomposed plant material; many very fine, fine, and medium and few coarse roots; moderately acid (pH 5.8); clear smooth boundary
+
+ E/A--3 to 7 cm; ashy silt loam, matrix color 60 percent light brownish gray (10YR 6/2) dry, dark grayish brown (10YR 4/2) moist, and 40 percent brown (10YR 5/3) dry, dark brown (10YR 3/3) moist; moderate medium subangular blocky structure; slightly hard, friable, nonsticky and nonplastic; many very fine and fine, common medium, and few coarse roots; extremely acid (pH 4.4); clear smooth boundary
+
+ Bhs--7 to 15 cm; medial silt loam, reddish brown (5YR 5/4) dry, dark reddish brown (5YR 3/4) moist; weak medium subangular blocky structure; soft, very friable, nonsticky and nonplastic; common very fine, fine, and medium and few coarse roots; very strongly acid (pH 4.8); abrupt wavy boundary
+
+ 2Bs--15 to 50 cm; silt loam, matrix color 75 percent light brown (7.5YR 6/4) dry, brown (7.5YR 4/4) moist, and 25 percent brown (7.5YR 5/2) dry, dark brown (7.5YR 3/2) moist; weak medium subangular blocky structure; slightly hard, friable, nonsticky and nonplastic; common very fine and fine and few medium and coarse roots; moderately acid (pH 5.6); clear wavy boundary
+
+ 2C--50 to 180 cm; sandy loam, light brown (7.5YR 6/4) dry, brown (7.5YR 4/4) moist; massive; slightly hard, friable, nonsticky and nonplastic; common very fine, fine, and medium and few coarse roots; 5 percent fine masses of oxidized iron, strong brown (7.5YR 4/6) moist, diffuse boundaries; 25 percent mottles, light gray (2.5Y 7/2) dry, grayish brown (2.5Y 5/2) moist; moderately acid (pH 5.6)
+
+TYPE LOCATION: Dillingham Census Area, Alaska, village of Ekwok, on the Nushagak River; about 70 km northeast of Dillingham, Alaska; latitude 59.358611 degrees north, longitude 157.473889 degrees west, datum WGS 84 (coordinates determined with a GPS)
+
+RANGE IN CHARACTERISTICS:
+Mean annual soil temperature--0 to 2 degrees C
+Soil moisture control section--dry less than 45 consecutive days in June through October (udic moisture regime)
+
+Particle-size control section
+*Clay content--1 to 10 percent
+*Sand content--20 to 70 percent
+*Sodium fluoride pH--8.4 to 11.6
+*Ratio of 1500 kPa water to measured clay--0.6 to 6.0
+
+Oi horizon
+Thickness--3 to 18 cm
+
+E/A, A, or E horizon
+Hue--7.5YR, 10YR
+Value--4 or 5 moist, 6 or 7 dry (E part); 2 to 3 moist, 4 or 5 dry (A part)
+Chroma--1 to 2 moist (E part); 1 to 3 moist (A part)
+Fine-earth texture--ashy silt loam, ashy very fine sandy loam
+Clay content--4 to 8 percent
+Reaction--3.7 to 5.6
+Thickness--2 to 15 cm
+Bulk density--0.45 to 0.90 g/cm3
+Phosphorous retention--20 to 50 percent
+Ammonium oxalate Al plus 1/2 Fe--0.2 to 0.4 percent
+Volcanic glass content--20 to 30 percent
+
+Bhs horizon
+Hue--5YR, 7.5YR
+Value--2.5 to 4 moist, 4 to 6 dry
+Chroma--1 to 6
+Clay content--4 to 10 percent
+Reaction--3.7 to 5.6
+Thickness--3 to 9 cm 
+Bulk density--0.45 to 0.9 g/cm3
+Phosphorous retention--85 to 100 percent
+Ammonium oxalate Al plus 1/2 Fe--2 to 4 percent
+Volcanic glass content--5 to 30 percent
+
+2Bs horizon
+Hue--7.5YR, 10YR
+Value--3 to 5 moist, 5 to 7 dry
+Chroma--2 to 4 moist
+Fine-earth texture--silt loam, very fine sandy loam, fine sandy loam
+Clay content--0 to 10 percent
+Reaction--4.8 to 6.0
+Sodium fluoride pH--8.4 to 11.6
+Ratio of 1500 kPa water to measured clay--0.6 to 6.0
+Thickness--5 to 65 cm
+
+2C horizon
+Hue--10YR, 2.5Y
+Value--4 or 5 moist, 6 or 7 dry
+Chroma--2 to 6 moist
+Fine-earth texture--sandy loam, silt loam, very fine sandy loam
+Clay content--0 to 10 percent
+Reaction--5.0 to 6.3
+Sodium fluoride pH--8.4 to 11.6
+Ratio of 1500 kPa water to measured clay--0.6 to 6.0
+Thickness--more than 20 cm
+
+COMPETING SERIES:
+Barlow--no andic soil properties in the spodic horizon; mean annual soil temperature of 4.4 to 8.0 degrees C
+Timberly--no andic soil properties in the spodic horizon
+
+GEOGRAPHIC SETTING:
+Elevation--3 to 300 m
+Climate--warm, moist summers; cold, moist winters
+Mean annual precipitation--600 to 1400 mm
+Mean annual air temperature-- -2 to 1 degree C
+Frost-free period--85 to 140 days
+
+GEOGRAPHICALLY ASSOCIATED SOILS:
+Ekvik--coarse fragments in C material; steep slopes of bluffs
+Kemuk--no spodic horizon; aquic conditions; talfs of plains
+Klutuk--no spodic horizon; similar landform positions
+Kumla--no spodic horizon; aquic conditions; permafrost; talfs of plains
+Pellernarquq--no spodic horizon; aquic conditions; dips and talfs of plains
+Unguiq--aquic conditions; no spodic horizon; drainageways
+
+DRAINAGE AND SATURATED HYDRAULIC CONDUCTIVITY:
+Drainage class--well drained
+Saturated hydraulic conductivity (Ksat)--moderately high or high
+
+USE AND VEGETATION:
+Use--community development, wildlife habitat
+Potential natural vegetation--white spruce, paper birch, lingonberry, dwarf blueberry, crowberry, Labrador tea, feather moss, lichens
+
+DISTRIBUTION AND EXTENT: Bristol Bay Lowlands, Alaska; MLRA 236; moderate extent
+
+SOIL SURVEY REGIONAL OFFICE (SSRO) RESPONSIBLE: Portland, Oregon
+
+SERIES ESTABLISHED: Bristol Bay-Northern Alaska Peninsula, North and Bordering Areas, Alaska; 2016
+
+REMARKS:
+Diagnostic horizons and other features in this pedon
+*Particle-size control section--zone from 28 to 103 cm
+*Ochric epipedon
+*Spodic horizons--Bhs and Bs horizons
+*Albic material--E or E/A horizon
+*Andic soil properties--Bhs horizon
+
+Laboratory pedon number 06N1043
+
+National Cooperative Soil Survey
+U.S.A.

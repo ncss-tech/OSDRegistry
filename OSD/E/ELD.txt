@@ -1,0 +1,121 @@
+LOCATION ELD                    WA
+
+Established Series
+Rev. RFP/DRU/EED
+01/2020
+
+ELD SERIES
+
+Landscape--river valleys
+Landform--alluvial terraces, flood plains
+Slope--0 to 12 percent
+Parent material--alluvium
+Mean annual precipitation--about 1300 mm
+Mean annual air temperature--about 10 degrees C
+Depth class--very deep
+Drainage class--well drained
+Soil moisture regime--xeric
+Soil temperature regime--mesic
+Soil moisture subclass--typic
+
+TAXONOMIC CLASS: Fine-loamy, mixed, superactive, mesic Cumulic Ultic Haploxerolls
+
+TYPICAL PEDON: Eld loam in an area of pasture
+
+ Ap--0 to 18 cm; loam, yellowish red (5YR 4/6) dry, dark reddish brown (5YR 3/3) moist; strong fine granular structure; slightly hard, very friable, slightly sticky and slightly plastic; many fine and very fine roots; common very fine and fine tubular pores; moderately acid (pH 6.0); abrupt smooth boundary
+
+ AB--18 to 56 cm; loam, yellowish red (5YR 5/6) dry, dark reddish brown (5YR 3/3) moist; moderate very fine subangular blocky structure; slightly hard, very friable, slightly sticky and slightly plastic; common very fine roots; few medium and common very fine and fine tubular pores; moderately acid (pH 5.8); gradual wavy boundary
+
+ Bw1--56 to 89 cm; silt loam, strong brown (7.5YR 5/6) dry, dark brown (7.5YR 3/4) moist; moderate fine subangular blocky structure; slightly hard, very friable, slightly sticky and slightly plastic; few very fine roots; common very fine and fine tubular pores; moderately acid (pH 5.8); gradual wavy boundary
+
+ Bw2--89 to 150 cm; silt loam, strong brown (7.5YR 5/6) dry, brown (7.5YR 4/4) moist; moderate medium subangular blocky structure; slightly hard, very friable, slightly sticky and slightly plastic; common very fine and fine tubular pores; moderately acid (pH 5.6)
+
+TYPE LOCATION: Thurston County, Washington, about 2.5 km northeast of Littlerock; aoubt 770 m north and 225 m east of southwest corner of section 35, T. 17 N., R. 3 W., Willamette Meridian; Little Rock, Washington, U.S. Geological Survey quadrangle; latitude 46.9160140 degrees north and longitude 123.0313790 degrees west;, WGS 84 (coordinates estimated from PLSS details)
+
+RANGE IN CHARACTERISTICS:
+Mean annual soil temperature--8 to 13 degrees C
+Soil moisture control section--dry 45 to 75 days following summer solstice
+Thickness of mollic epipedon--50 to 75 cm
+Depth to ultic feature (base saturation (sum) of 75 percent or less)--25 to 75 cm
+Total rock fragment content--0 to 15 percent gravel
+Particle-size control section--18 to 35 percent clay (weighted average); more than 15 percent sand (weighted average)
+
+Ap horizon
+Hue--5YR, 7.5YR, 10YR
+Value--2 to 3 moist, 3 to 5 dry
+Chroma--2 or 3 moist, 2 to 6 dry
+Fine-earth texture--loam, silt loam, silty clay loam
+Reaction (pH)--5.1 to 6.5
+Thickness--15 to 50 cm
+
+AB horizon
+Hue--5YR, 7.5YR, 10YR
+Value--3 to 5 dry
+Chroma--4 to 6 dry
+Fine-earth texture--silt loam, loam, silty clay loam
+Reaction (pH)--5.1 to 6.5
+Thickness--20 to 50 cm
+
+Bw1 horizon
+Hue--5YR, 7.5YR, 10YR
+Value--3 or 4 moist, 3 to 6 dry
+Chroma--3 or 4 moist, 4 to 6 dry
+Fine-earth texture--silt loam, loam, clay loam
+Reaction (pH)--5.6 to 6.5
+Thickness--15 to 55 cm
+
+Bw2 and Bw3 horizons (where present)
+Hue--5YR, 7.5YR, 10YR
+Value--3 or 4 moist, 3 to 6 dry
+Chroma--3 or 4 moist, 4 to 6 dry
+Fine-earth texture--silt loam, loam, clay loam, silty clay loam, fine sandy loam
+Reaction (pH)--5.6 to 7.3
+
+COMPETING SERIES:
+Alsea--aquic conditions at a depth of 75 to 100 cm
+Chapman--hue of 10YR or 7.5YR throughout; as much as 50 percent total silt in particle-size control section; 20 to 50 percent rock fragments in part of C horizon within a depth of 150 cm
+McDoug--aquic conditions at a depth of 75 to 100 cm; frost-free period of 130 to 150 days
+Nook--aquic conditions at a depth of 50 to 100 cm; dry 75 to 90 days following summer solstice in moisture control section
+
+GEOGRAPHIC SETTING:
+Elevation--5 to 75 m
+Mean annual precipitation--1100 to 1800 mm
+Mean annual air temperature--10 to 12 degrees C
+Frost-free period--150 to 200 days
+
+GEOGRAPHICALLY ASSOCIATED SOILS:
+Grove--more than 35 percent rock fragments throughout particle-size control section; on adjacent outwash terraces and drift plains
+Delphi--100 to 150 cm (deep) to densic contact; on adjacent upslope glacially modified hills and uplands
+Olympic, Raught--more than 35 percent clay in particle-size control section; on adjacent upslope foothills and mountain slopes
+Boistfort--andic soil properties; on adjacent upslope foothills and mountain slopes
+Scatter--less than 18 percent clay in particle-size control section; on convex natural levees and alluvial terraces
+Elma--10 percent clay or less in lower part of particle-size control section; on convex natural levees and alluvial terraces
+Chehalis--less than 15 percent silt in particle-size control section; on similar landforms
+Maytown--aquic conditions at a depth of 50 to 75 cm; in concave to linear positions of flood plains
+Rennie, Godfrey--aquic conditions within 30 cm of the soil surface; in oxbows, backswamps, or concave depressions of flood plains
+
+DRAINAGE AND SATURATED HYDRAULIC CONDUCTIVITY:
+Drainage class--well drained
+Flooding--rare or occasional, brief periods in November through March
+Saturated hydraulic conductivity (Ksat)--moderately high or high throughout
+
+USE AND VEGETATION:
+Use--hay production, livestock grazing, and crop production in cleared areas; wildlife habitat
+Native vegetation--Douglas-fir, western redcedar, red alder, black cottonwood, bigleaf maple, vine maple, beaked hazelnut, salal, Cascade Oregon grape, Indian plum, rose, salmonberry, red elderberry, common snowberry, trailing blackberry, western swordfern, brackenfern
+
+DISTRIBUTION AND EXTENT: Western Washington; MLRA 2; small extent
+
+SOIL SURVEY REGIONAL OFFICE (SSRO) RESPONSIBLE: Portland, Oregon
+
+SERIES ESTABLISHED: Reconnaissance of the western part of the Puget Sound Basin, Washington; 1910
+
+REMARKS:
+Diagnostic horizons and other features in this pedon
+*Particle-size control section--zone from 25 to 100 cm
+*Mollic epipedon--zone from the surface to a depth of 56 cm
+*Cambic horizon--zone from 56 to 150 cm
+
+10/2016--The Eld official series description was edited according to SSR01 Technical Note--Content and Format of Official Series Descriptions (revised 12/2015). Further field investigation of the flood plains in MLRA 2 is recommended to determine distribution.
+
+National Cooperative Soil Survey
+U.S.A.

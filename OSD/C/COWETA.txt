@@ -1,0 +1,84 @@
+LOCATION COWETA                 OK+MO
+
+Established Series
+Rev. RTM-JGF-CS
+08/2015
+
+COWETA SERIES
+
+The Coweta series consists of shallow, well drained to somewhat excessively drained soils that formed in material weathered from residuum from sandstone inter-bedded with shale of Pennsylvanian age.  Coweta soils are on uplands in the Cherokee Prairies (MLRA 112).  Slope ranges from 1 to 30 percent.  Mean annual precipitation is about 1040 mm (41 inches).  Mean annual temperature is about 16 degrees C. (61 degrees F.).
+
+TAXONOMIC CLASS: Loamy, siliceous, superactive, thermic, shallow Typic Hapludolls
+
+TYPICAL PEDON:  Coweta loam--rangeland.   (Colors are for moist soil unless otherwise stated.)
+
+     A--0 to 20 centimeters (0 to 8 inches); dark brown (7.5YR 3/2) loam, brown (7.5YR 5/2) dry; moderate fine granular structure; slightly hard, friable; many fine and medium roots; few sandstone fragments; moderately acid; gradual wavy boundary.  [10 to 36 centimeters (4 to 14 inches) thick]
+
+     Bw--20 to 38 centimeters (8 to 15 inches); brown (7.5YR 4/4) gravelly fine sandy loam, brown (7.5YR 5/4) dry; weak fine granular structure; slightly hard, friable; common fine roots; 20 percent by volume of soft sandstone fragments less than 76 mm (3 inches) in diameter; 10 percent sandstone fragments 76 to 250 mm (3 to 10 inches) in diameter; moderately acid; abrupt wavy boundary.  (15 to 30 centimeters (6 to 12 inches) thick)
+
+    Cr--38 to 76 centimeters (15 to 30 inches); strong brown (7.5YR 5/6) and yellowish red (5YR 5/8) soft sandstone interbedded with shale; strongly acid.
+
+TYPE LOCATION:  Wagoner County, Oklahoma; about 18 kilometers (11 miles) northeast of Coweta; 625 meters (2,050 feet) west and 15 meters (50 feet) south of the northeast corner of sec. 29, T. 19 N., R. 15 E.; USGS Oneta, Oklahoma topographic quadrangle; lat. 36 degrees 6 minutes 15.38 seconds N. and long. 95 degrees 44 minutes 5.13 seconds W.; UTM Zone 15, 253819 easting and 3998983 northing, NAD 83.
+
+RANGE IN CHARACTERISTICS:  
+Solum thickness and depth to soft sandstone bedrock: 25 to 51 centimeters (10 to 20 inches)
+
+A horizon:
+Hue: 7.5YR or 10YR
+Value: 3
+Chroma: 2 or 3
+Texture: loam, fine sandy loam, gravelly loam, gravelly fine sandy loam, cobbly loam, cobbly fine sandy loam, stony fine sandy loam or stony loam
+Coarse fragment content: 0 to 35 percent by volume
+Coarse fragments less than 76mm in diameter: 0 to 20 percent by volume
+Coarse fragments 76mm to 250mm in diameter: 0 to 30 percent by volume
+Coarse fragments more than 250mm: 0 to 30 percent by volume
+Reaction: strongly acid to slightly acid
+
+Bw horizon:
+Hue: 5YR to 10YR
+Value: 3 to 5
+Chroma: 2 to 8
+Texture: loam, fine sandy loam, clay loam, gravelly loam, gravelly fine sandy loam, or gravelly clay loam
+Coarse fragments content: 5 to 35 percent by volume
+Coarse fragments less than 76mm in diameter: 5 to 30 percent by volume
+Coarse fragments more than 76mm in diameter: 0 to 15 percent by volume  
+Reaction: strongly acid to slightly acid
+
+Cr horizon:
+Material: soft, acid sandstone usually interbedded with shale
+Hardness: less than 3 (Mohs scale)
+In some pedons, hard sandstone occurs between depths of 61 to 152 centimeters (24 and 60 inches)
+Excavation difficulty: high
+
+COMPETING SERIES:  There are no competing series.
+
+GEOGRAPHIC SETTING:  Coweta soils are on broad smooth upland ridges on plains.  Slope ranges from 1 to 30 percent.  The soils formed in residuum weathered from soft sandstone interbedded with shale of Pennsylvanian age.  Climate is moist subhumid to humid.  Mean annual precipitation ranges from 940 to 1140 mm (37 to 45 inches).  Mean annual air temperature ranges from 14 to 17 degrees C. (57 to 63 degrees F.).  Frost free period is 200 to 225 days.  Elevation is 140 to 340 meters (459 to 1115 feet) above mean sea level.  Thornthwaite P-E index is 64 to 80.
+
+GEOGRAPHICALLY ASSOCIATED SOILS: These are the Bates, Collinsville, Dennis, Eram, Talihina, and Vinita soils.  Bates, Dennis, Eram, and Vinita soils are on lower slopes and they have an argillic horizon and a solum thicker than 51 centimeters (20 inches).  Collinsville soils have a lithic contact within 51 centimeters (20 inches).  Talihina soils have more than 35 percent clay content in the control section.
+
+DRAINAGE AND SATURATED HYDRAULIC CONDUCTIVITY:  Well to somewhat excessively drained.  Potential for surface runoff is medium to very high.  Saturated hydraulic conductivity is moderately high. 
+
+USE AND VEGETATION:  Principal use is for rangeland.  Some areas are used for tame pasture on slopes less than 15 percent.  Small amounts are cultivated on slopes less than 5 percent.  Native vegetation is tall grass prairie.
+
+DISTRIBUTION AND EXTENT:  MLRAs 84A, 112, 117 and 118 in eastern Oklahoma, possibly southeastern Kansas and southwestern Missouri.  The type location is in MLRA 112.  The series is of moderate extent.
+
+MLRA SOIL SURVEY REGIONAL OFFICE (MO) RESPONSIBLE: Indianapolis, Indiana
+
+SERIES ESTABLISHED:  Wagoner County, Oklahoma; 1972.
+
+REMARKS: Diagnostic horizons and features recognized in this soil are: 
+Mollic epipedon: 0 to 20 centimeters (0 to 8 inches) (the A horizon)  
+Cambic horizon: 20 to 38 centimeters (8 to 15 inches) (the Bw horizon) 
+Paralithic control: soft sandstone bedrock at a depth of 38 centimeters (15 inches)
+Moisture Regime: Udic
+
+ADDITIONAL DATA
+User Pedon ID 1972OK145007 represents the typical pedon.
+
+These soils were formerly included in the Collinsville series.   
+Soil Interpretation Record:  Series OK0108; Stony- OK0337; Gravelly- OK0426; Cobbly- OK0427
+
+Modified format by LRM in 1/2006 to include metric conversion and change permeability to saturated hydraulic conductivity.
+
+National Cooperative Soil Survey
+U.S.A.

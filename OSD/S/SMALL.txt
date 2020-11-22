@@ -1,0 +1,117 @@
+LOCATION SMALL                  ID
+
+Established Series
+Rev. KA/RGK/CBR
+09/2018
+
+SMALL SERIES
+
+Landscape--hills, alluvial plains
+Landform--hillslopes
+Slope--1 to 60 percent
+Parent material--loess-influenced colluvium over residuum derived from rhyolite
+Mean annual precipitation--about 325 mm
+Mean annual air temperature--about 4.4 degrees C
+Depth class--moderately deep
+Drainage class--well drained
+Soil moisture regime--xeric
+Soil temperature regime--frigid
+
+TAXONOMIC CLASS: Loamy-skeletal, mixed, superactive, frigid Calcic Argixerolls
+
+TYPICAL PEDON:  Small gravelly silt loam in an area of rangeland (Colors are for dry soil unless otherwise noted.)
+
+ A--0 to 10 cm; dark grayish brown (10YR 4/2) gravelly silt loam, very dark brown (10YR 2/2) moist; moderate medium granular structure; soft, very friable, slightly sticky and slightly plastic; common fine and very fine roots; common very fine tubular pores; 25 percent gravel; neutral (pH 7.2); clear wavy boundary
+
+ Btk1--10 to 18 cm; brown (10YR 4/3) gravelly silt loam, very dark grayish brown (10YR 3/2) moist; moderate medium and fine subangular blocky structure; soft, friable, slightly sticky and slightly plastic; common fine and very fine and few medium roots; common very fine tubular pores; common thin clay films on ped faces and along pores; slightly effervescent (11 percent calcium carbonate equivalent); 25 percent gravel; slightly alkaline (pH 7.4); clear wavy boundary
+
+ Btk2--18 to 38 cm; yellowish brown (10YR 5/4) very gravelly loam, dark brown (10YR 3/3) moist; strong medium and fine subangular blocky structure; soft, friable, slightly sticky and plastic; common fine and very fine and few medium roots; common fine and very fine tubular pores; few thin clay films on ped faces; strongly effervescent (18 percent calcium carbonate equivalent); 40 percent gravel and 5 percent flagstones; slightly alkaline (pH 7.8); abrupt wavy boundary
+
+ Bk--38 to 56 cm; very pale brown (10YR 7/3) extremely gravelly loam, brown (10YR 5/3) moist; massive; soft, very friable, slightly sticky and slightly plastic; few very fine roots; few very fine tubular pores; calcium carbonate coatings on rock fragments; violently effervescent (25 percent calcium carbonate equivalent); 60 percent gravel and 5 percent flagstones; moderately alkaline (pH 8.0)
+
+ 2R--56 cm; rhyolite; calcium carbonate coatings
+
+TYPE LOCATION:  Clark County, Idaho; latitude 44.23203 degrees west, longitude 112.51092 degrees north, datum WGS 84
+
+RANGE IN CHARACTERISTICS:
+Mean annual soil temperature--3.4 to 7.2 degrees C
+Depth to lithic contact--50 to 100 cm
+Thickness of mollic epipedon--20 to 38 cm
+Depth to secondary carbonates--8 to 20 cm
+
+Particle-size control section (weighted averages)
+Clay content--18 to 27 percent
+Total rock fragment content--40 to 70 percent
+
+A horizon
+Value--4 or 5 dry, 2 or 3 moist
+Chroma--2 or 3 dry or moist
+Clay content--5 to 15 percent
+Gravel content--15 to 35 percent
+Reaction--pH 6.8 to 7.4
+Thickness--8 to 13 cm
+
+Btk horizon
+Value--4 or 5 dry, 3 or 4 moist
+Chroma--2 to 4 dry or moist
+Texture (less than 2-mm fraction)--loam, silt loam
+Clay content--18 to 27 percent
+Total rock fragment content--25 to 70 percent
+Gravel content--25 to 65 percent
+Flagstone content--0 to 10 percent
+Calcium carbonate equivalent--10 to 40 percent
+Reaction--pH 7.9 to 8.2
+Thickness--28 to 45 cm
+
+Bk horizon
+Value--7 or 8 dry, 5 or 6 moist
+Chroma--2 or 3 dry or moist
+Clay content--7 to 15 percent
+Total rock fragment content--65 to 85 percent
+Gravel content--60 to 75 percent
+Flagstone content--5 to 10 percent
+Calcium carbonate equivalent--25 to 40 percent
+Reaction--pH 8.0 to 8.4
+Thickness--15 to 43 cm
+
+COMPETING SERIES:
+Amelar, Custco, Dra, Drage, Rawnjay, Remount, Scalfar, Swampydraw--very deep to lithic contact
+Broad--more than 43 cm deep to secondary carbonates
+Milk--more than 35 cm deep to secondary carbonates
+Searla--deep and very deep to lithic contact
+Sheep Creek--no calcic horizon
+
+GEOGRAPHIC SETTING:
+Elevation--1580 to 2280 m
+Mean annual precipitation--200 to 575 mm
+Mean annual air temperature--2.2 to 6.1 degrees C
+Frost-free period--50 to 95 days
+
+GEOGRAPHICALLY ASSOCIATED SOILS:  None listed
+
+DRAINAGE AND SATURATED HYDRAULIC CONDUCTIVITY:
+Drainage class--well drained
+Saturated hydraulic conductivity (Ksat)--5 to 25 um/sec
+
+USE AND VEGETATION:
+Major uses--rangeland, wildlife habitat
+Potential natural vegetation--mountain big sagebrush, low sagebrush, Saskatoon serviceberry, bluebunch wheatgrass, Idaho fescue, arrowleaf balsamroot
+
+DISTRIBUTION AND EXTENT:  Small extent in eastern Idaho; MLRA 12
+
+SOIL SURVEY REGIONAL OFFICE (SSRO) RESPONSIBLE:  Portland, Oregon
+
+SERIES ESTABLISHED:  Clark County, Idaho; 2018
+
+REMARKS:
+Diagnostic horizons and other features recognized in this pedon
+Mollic epipedon--zone from the surface to a depth of 38 cm (A, Btk1, and Btk2 horizons)
+Argillic horizon--zone from 10 to 38 cm (Btk1 and Btk2 horizons)
+Calcic horizon--zone from 38 to 56 cm (Bk horizon)
+Depth to lithic contact--56 cm
+Particle-size control section--zone from 10 to 38 cm (Btk1 and Btk2 horizons)
+
+Taxonomic version--Twelfth Edition, 2014
+
+National Cooperative Soil Survey
+U.S.A.

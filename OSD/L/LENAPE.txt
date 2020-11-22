@@ -1,0 +1,136 @@
+LOCATION LENAPE                 DE+MD
+
+Established Series
+SYD-RBT/Rev. MDJ
+12/2012
+
+LENAPE SERIES
+
+MLRA(s): 149A, 153C, 153D
+Depth Class: Very Deep
+Drainage Class (Agricultural): Very poorly drained
+Internal Free Water Occurrence: Very shallow (< 25 centimeters (10 inches)) and permanent (present continuously) 
+Flooding Frequency and Duration: Very frequent and very brief
+Ponding Frequency and Duration: None
+Index Surface Runoff: Very low
+Saturated Hydraulic Conductivity Class: Moderately high
+Permeability Class (obsolete): Moderately slow and rapid in the 2C horizon 
+Landscape: Coastal plain
+Landform: (closed) depressions, floodplains, swamps
+Parent Material: Organic herbaceous material over silty estuarine sediments 
+Slope: 0 to 1 percent
+Elevation: 0 to 10 meters (0 to 33 feet)
+Frost Free Period: 180 to 220 days
+Mean Annual Air Temperature (type location): 12.8 degrees C. (55 degrees F.)
+Mean Annual Precipitation (type location): 1143 millimeters (45 inches)
+
+TAXONOMIC CLASS: Loamy, mixed, dysic, mesic Terric Haplosaprists
+
+TYPICAL PEDON: Lenape mucky peat, on a smooth 0 percent slope, in wooded flood plain swamp (colors are for a moist, rubbed soil). 
+
+ Oe1--0 to 10 cm (0 to 4 inches); dark brown (7.5YR 3/2) mucky peat, hemic soil material; 60 percent fibers, 30 percent rubbed; 10 percent blackened leaves and twigs; few fine and medium roots; 45 percent organic material; very strongly acid; clear wavy boundary. 
+
+ Oe2--10 to 20 cm (4 to 8 inches); very dark grayish brown (10YR 3/2) mucky peat, hemic soil material; 45 percent fibers, 18 percent rubbed; few fine and medium roots; 50 percent organic material; extremely acid; clear smooth boundary. 
+
+ Oa--20 to 66 cm (8 to 26 inches), very dark brown (10YR 2/2) muck, sapric soil material; 20 percent fibers, 5 percent rubbed; few fine roots; 70 percent organic material; extremely acid; gradual wavy boundary. 
+
+ Cg1--66 to 86 cm (26 to 34 inches); very dark gray (10YR 3/1) loam; massive; friable, slightly sticky, slightly plastic; n-value greater than 1.0, material flows easily between fingers when squeezed; 5 percent organic soil material; very strongly acid; clear smooth boundary. 
+
+ Cg2--86 to 152 cm (34 to 60 inches); dark greenish gray (5GY 4/1) silty clay loam; massive; firm, slightly sticky, plastic; n- value greater than 1.0, material flows easily between fingers when squeezed; strongly acid. 
+
+ 2Cg3--152 to 183 cm (60 to 72 inches); gray (10YR 6/1) and light gray (10YR 7/1) sand; single grain; loose; very strongly acid. 
+
+TYPE LOCATION: Sussex County, Delaware; about 1,200 feet south and 300 feet east of the junction of County Roads 18 and 533, in a wooded floodplain swamp; USGS Seaford East topograhphic quadrangle; latitude 38 degrees, 42 minutes, 17.27 seconds N; longitude 75 degrees, 33 minutes, 34.36 seconds W.; NAD83.
+
+RANGE IN CHARACTERISTICS:
+Thickness of the organic deposits: 41 to 130 cm (16 to 51 inches)
+Electrical Conductivity (saturation extract): < than 4 mmhos/cm throughout the profile. 
+Soil Reaction: Extremely acid to strongly acid
+n-Value: Mineral soil horizons typically have n-value greater than 0.7, but range to less than 0.7.
+
+Range of Individual Horizons:
+Surface tier (Oe and Oa horizons):
+Color--hue of 7.5YR or 10YR, value of 2 to 4, and chroma of 1 to 3
+Texture-- It is hemic and sapric soil materials. The fiber content after rubbing is greater than one-sixth of the soil volume, and less than three quarters. 
+Mineral content (by weight): 20 to 60 percent.
+
+Subsurface tier (Oe and Oa horizons):
+Color--hue of 5YR through 10YR, value of 2 to 4, and chroma of 1 to 4, or is neutral
+Texture--It is typically sapric material but ranges from hemic to sapric. The fiber content after rubbing ranges from one-tenth through one-third of the soil volume. 
+Mineral content (by weight): 25 to 75 percent
+
+Cg horizon:
+Color-- is neutral or has hue of 10YR to 5GY, value of 2 through 4, and chroma of 0 through 2, or is neutral
+
+Texture (fine-earth fraction)--loam, silt loam, or silty clay loam. Some pedons have thin sandy mineral layers stratified within the horizon. 
+
+2Cg horizon:
+Color--hue of 10YR to 5GY, value of 3 to 7, and chroma of 0 to 2
+Texture (fine-earth fraction)--loamy sand, sand or loamy fine sand. In some pedons, the upper boundary of the 2C horizon is below a depth of 72 inches.
+
+COMPETING SERIES:  None. Closely related series include the following:
+Adrian soils-have a sandy or sandy skeletal family particle-size class, and are underlain by sand, on similar landforms
+Linwood soils-have a euic soil reaction class or a pH above 4.5 in 0.01 M CaCl2, formed in depressions and on glacial landforms
+Manahawkin soils-have a sandy or sandy skeletal family particle-size class, and are underlain by sand, on similar landforms
+Palms soils-have a euic soil reaction class or a pH above 4.5 in 0.01 M CaCl2, formed in depressions and glacial landforms
+
+GEOGRAPHIC SETTING:
+Landscape: Coastal plain
+Landform: (closed) Depressions, floodplains, swamps
+Parent Material: Organic herbaceous material over silty estuarine sediments
+Slope: 0 to 10 percent
+Elevation: 0 to 10 meters (0 to 33 feet)
+Frost-free period: 180 to 220 days
+Mean Annual Air Temperature: 11 to 14 degrees C. (52 to 58 degrees F.)
+Mean Annual Precipitation: 1067 to 1219 millimeters (42 to 48 inches)
+ 
+GEOGRAPHICALLY ASSOCIATED SOILS:
+Chicone soils-are mineral soils with a buried organic horizon, on similar landforms
+Hammonton soils-are mineral soils, on higher landforms on adjacent uplands
+Hurlock soils-are mineral soils on slightly higher landforms on adjacent uplands
+Nanticoke soils-are mineral soils on estuarine tidal marches 
+Puckum soils--are organic soils greater than 130 cm (51 inches) thick, on similar landform 
+
+DRAINAGE AND SATURATED HYDRAULIC CONDUCTIVITY:
+Drainage Class (Agricultural): Very poorly drained
+Internal Free Water Occurrence: Very shallow (< 25 centimeters (10 inches)) and permanent (present continuously) 
+Index Surface Runoff: Very low
+Saturated Hydraulic Conductivity Class: Moderately high.  Very high in the 2C horizon
+Permeability Class (obsolete): Moderate to slow and rapid in the 2C horizon
+Flooding Frequency and Duration: Very Frequent and very brief
+Ponding Frequency and Duration: None
+
+USE AND VEGETATION:
+Major Uses: Lenape soils are used mainly for wetland wildlife habitat. 
+Dominant Vegetation: Where wooded-- Native vegetation includes red maple (Acer rubrum), water oak (Quercus nigra), bald cypress (Taxodium distichum) , sweetgum, Atlantic white cedar (Chamaecyparis thyoides), sweetbay (Magnolia virginiana), American holly (Ilex opaca), greenbriar (Smilax), sedges, ferns, and mosses
+
+DISTRIBUTION AND EXTENT:
+Distribution: Maryland and Delaware
+Extent: Small
+
+MLRA SOIL SURVEY REGIONAL OFFICE (MO) RESPONSIBLE:  MORGANTOWN, WEST VIRGINIA
+
+SERIES ESTABLISHED: Aberdeen Proving Grounds, Maryland.
+
+REMARKS:
+Lenape soils were previously mapped as swamp, and tidal marsh, fresh, miscellaneous areas.
+Diagnostic horizons and soil characteristics recognized in this pedon are:
+Hemic soil materials--the zone from 0 to 20 centimeters (0 to 8 inches (Oe1, Oe2 horizons))
+Sapric soil material--the zone from 20 to 66 centimeters (8 to 26 inches (Oa horizon))
+Aquic conditions--the zone from 0 to 183 centimeters (0 to 72 inches)
+Other soil features identified with this pedon:
+Lithologic discontinuity-the zone at 152 centimeters (60 inches)
+
+The following changes have been made (12/2012):
+1)	Revisions to formatting and data consistency with NASIS.
+2)	Revisions made to include NASIS information and laboratory data
+3)	The location was revised from latitude 38 degrees 42 minutes 17.27 seconds N. and 75 degrees 33 minutes 34.36 seconds W. to latitude 38 degrees 42 minutes 17.27 seconds N. and 75 degrees 33 minutes 30.0 seconds W. place the pedon in the proper mapunit
+
+ADDITIONAL DATA: Characterization data is available from the NSSL for the following pedons: 92DE005006 and 92DE005009. 
+Database Information: 
+Typical Pedon Data Mapunit ID: 497075
+OSD User Pedon ID: In Progress
+Previous Revision: 12/2009: CDP-GPD/Rev. DAS
+
+National Cooperative Soil Survey
+U.S.A.

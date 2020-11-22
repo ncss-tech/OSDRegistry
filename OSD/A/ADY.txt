@@ -1,0 +1,143 @@
+LOCATION ADY                    TX
+
+Established Series
+TCB-FBP-SLM
+04/2016
+
+ADY SERIES
+
+The Ady series consists of very deep, well drained, moderately permeable soils derived from loamy sediments from the upper part of the Ogallala Formation of Miocene-Pliocene age.  Ady soils are nearly level to gently sloping interfluves, erosion remnants, and hillslopes.  Slope ranges from 0 to 5 percent.  The mean annual air temperature is 15 degrees C (59 degrees F), and mean annual precipitation is 496 mm (19 in).
+
+TAXONOMIC CLASS: Fine-loamy, mixed, superactive, thermic Aridic Haplustalfs 
+
+TYPICAL PEDON:  Ady fine sandy loam--on a 1.5 percent slope, on an interfluve, in rangeland at an elevation of 899 m (2,950 ft). (Colors are for dry soil unless otherwise noted.)
+
+    A--0 to 25 cm (0 to 10 in); brown (7.5YR 5/2) fine sandy loam, brown (7.5YR 4/2) moist: moderate fine granular structure; slightly hard, very friable; many fine and many very fine roots; many very fine pores; common wormcasts; very slightly effervescent; slightly alkaline, pH 7.6; clear smooth boundary. (Thickness of the A or Ap horizon is 13 to 31 cm [5 to 12 in])
+
+    Bt--25 to 76 cm (10 to 30 in); reddish brown (5YR 5/4) sandy clay loam, reddish brown (5YR 4/4) moist; moderate coarse prismatic structure parting to moderate fine subangular blocky; hard, friable; common very fine roots; many very fine, fine, and medium pores; many wormcasts; few distinct clay films on surfaces of peds; slightly effervescent; slightly alkaline, pH 7.6; gradual smooth boundary. (Thickness of the Bt horizon(s) is 20 to 64 cm [8 to 25 in])
+
+    Btk1--76 to 122 cm (30 to 48 in); reddish brown (5YR 5/4) sandy clay loam, reddish brown (5YR 4/4) moist; moderate coarse prismatic structure parting to weak fine subangular blocky; hard, friable; few very fine roots; common very fine, fine, and medium pores; common wormcasts; few distinct clay films on surfaces of peds; few carbonate coats on faces of peds; few threadlike carbonate masses; strongly effervescent; moderately alkaline, pH 7.9; gradual wavy boundary. 
+
+    Btk2--122 to 165 cm (48 to 65 in); light reddish brown (5YR 6/4) sandy clay loam, reddish brown (5YR 5/4) moist; moderate coarse prismatic structure parting to weak fine subangular blocky; hard, friable; common very fine pores; few wormcasts; few distinct clay films on surfaces of peds; few carbonate coats on faces of peds; common threadlike and irregular carbonate masses; common irregular moderately cemented carbonate concretions; violently effervescent; moderately alkaline, pH 8.3; gradual smooth boundary. (Combined thickness of the Btk horizon is 107 to 170 cm [42 to 67 in])
+
+    Btk3--165 to 203 cm (65 to 80 in); reddish yellow (5YR 6/6) sandy clay loam, yellowish red (5YR 5/6) moist; weak coarse prismatic structure parting to weak fine subangular blocky; hard, friable; few very fine pores; few distinct clay films on surfaces of peds; few carbonate coats on faces of peds; few threadlike and irregular carbonate masses; few irregular moderately cemented carbonate concretions; strongly effervescent; moderately alkaline, pH 8.3.
+
+TYPE LOCATION:  Roberts County, Texas; 0.9 miles north of Gray County line on Farm Road 282, then continue north 11.6 on county road, 0.2 miles east on ranch road, then 300 feet south in rangeland.
+
+USGS topographic quadrangle: Adobe Creek SE, Texas
+Latitude: 35 degrees, 47 minutes, 19.32 seconds N
+Longitude: 101 degrees, 1 minutes, 9.96 seconds W
+Datum: NAD83
+
+Decimal Degrees
+Latitude: 35.78870
+Longitude: -101.019433
+
+UTM Easting:   317497 m
+UTM Northing: 3962394 m
+UTM zone 14S
+
+RANGE IN CHARACTERISTICS: 
+Solum thickness: greater than 203 cm (greater than 80 in)
+Thickness of ochric epipedon: 10 to 30 cm (4 to 12 in)
+Thickness of argillic horizon: 28 to 155 cm (11 to 61 in)
+Depth to secondary carbonates: 61 to 101 cm (24 to 40 in)
+Depth to calcic horizon: 101 to 153 cm (40 to 60 in)
+
+Particle-size control section (weighted average): 
+Silicate clay: 20 to 35 percent 
+
+A or Ap horizon:
+Hue: 5YR or 7.5YR
+Value: 4 to 6 dry, 3 to 5 moist
+Chroma: 3 to 6 moist or dry
+Texture: sandy loam, fine sandy loam, or loam
+Effervescence: none or very slight
+Reaction (pH): neutral or slightly alkaline (6.6-7.8)
+
+Bt horizons:
+Hue: 5YR or 7.5YR
+Value: 4 to 6 dry, 3 to 5 moist
+Chroma: 3 to 6 moist or dry
+Texture: loam, sandy clay loam, or clay loam
+Effervescence: none or very slight
+Reaction (pH): neutral or slightly alkaline (6.6-7.8)
+
+Upper Btk horizons:
+Hue: 5YR or 7.5YR
+Value: 5 to 8, 4 to 7 moist
+Chroma: 4 to 6 moist or dry
+Texture: loam, sandy clay loam, or clay loam
+Identifiable secondary calcium carbonate: amount-3 to 10 percent; kind-films, filaments, masses, nodules, and finely disseminated carbonate
+Calcium carbonate equivalent: 1 to 10 percent
+Effervescence: strong or violent 
+Reaction (pH): moderately alkaline or strongly alkaline (7.9-9.0)
+
+Lower Btk and Btkk, Bk, and Bkk horizons (where present):
+Hue: 5YR or 7.5YR
+Value: 5 to 8, 4 to 7 moist
+Chroma: 4 to 6 moist or dry
+Texture: sandy loam, fine sandy loam, loam, or sandy clay loam
+Identifiable secondary calcium carbonate: amount-3 to 49 percent; kind-filaments, masses, nodules, and finely disseminated carbonate
+Calcium carbonate equivalent: 1 to 49 percent
+Effervescence: strong or violent 
+Reaction (pH): moderately alkaline or strongly alkaline (7.9-9.0)
+
+COMPETING SERIES:  These are the Gardencan (AZ) and Quillian (AZ) series. 
+Gardencan soils: formed in fan alluvium from granite and gneiss and have gravelly and cobbly subsoils
+Quillian soils: formed in alluvium from granite and are moderately deep to granite bedrock
+
+GEOGRAPHIC SETTING: 
+Parent material: loamy sediments from the upper part of the Ogallala Formation of Miocene-Pliocene age 
+Landscape: alluvial plain remnants
+Landform: interfluves, hillslopes, and broad erosion remnants
+Slope: 0 to 5 percent
+Soil moisture: An ustic moisture regime bordering on aridic.  The soil moisture control section is dry in some or all parts for more than 180 but less than 220 days, cumulative, in normal years.  July through August and December through February are the driest months.  These soils are intermittently moist in September through November and March through June.
+Mean annual air temperature: 15 to 17 degrees C (57 to 63 degrees F)
+Mean annual precipitation: 382 to 660 mm (15 to 26 in)
+Frost-free period: 180 to 210 days
+Elevation: 600 to 1500 meters (1968 to 4921 ft)
+Thornthwaite annual P-E Index Values: 25 to 36
+
+GEOGRAPHICALLY ASSOCIATED SOILS:  These are the Alibates, Bippus, Guadalupe, Manson, Mobeetie, Paloduro, Plemons, Potter, Texroy, and Veal series. 
+Alibates soils: occur on similar positions and have a mollic epipedon 
+Bippus soils: occur on flood plains, have a mollic epipedon, and do not have a calcic horizon
+Guadalupe soils: occur on flood plains and do not have an argillic horizon
+Manson soils: occur on similar positions, have a mollic epipedon, a fine-silty particle-size control section, and a calcic horizon at depths of 25 to 60 cm (10 to 24 in)
+Mobeetie soils: occur on hillslopes and do not have an argillic horizon 
+Paloduro soils: occur on slightly lower positions, have a mollic epipedon, and do not have an argillic horizon  
+Plemons soils: occur on similar positions, have a fine-silty particle-size control section, and a calcic horizon at a depth of 10 to 60 cm (4 to 24 in) 
+Potter and Veal soils:  occur on lower shoulder or backslope positions, and have carbonatic mineralogy 
+Texroy soils: occur on stream terraces, have a thick (greater than 50 cm (20 in) mollic epipedon, and do not have a calcic horizon
+
+DRAINAGE AND PERMEABILITY:  
+Drainage class: well drained
+Permeability: moderate
+Runoff: negligible on 0 to 1 percent slopes, low on 1 to 3 percent slopes, and medium on 3 to 5 percent slopes
+
+USE AND VEGETATION:  Mainly used as rangeland, but significant acreage is cropped.  Principal crops grown are wheat and grain sorghum.  Climax vegetation is mainly short and mid grasses, with mid grasses tending to dominate, and a smaller tall grass component.  This site is dominated by blue grama with lesser amounts of sideoats grama, buffalograss, Arizona cottontop, little bluestem, gaura, plains zinnia, prairieclover, bundleflower, wild alfalfa, and ephedra.  Woody plants include catclaw sensitivebrier, yucca, and sand sagebrush.  
+
+DISTRIBUTION AND EXTENT:  LRR-H; Southern High Plains, Breaks (MLRA 77E) of the Texas panhandle, and western Oklahoma.  This soil is extensive. 
+
+MLRA SOIL SURVEY REGIONAL OFFICE (MO) RESPONSIBLE:  Temple, Texas
+
+SERIES ESTABLISHED:  Roberts County, Texas; 1995. 
+
+REMARKS:  These soils were formerly included in the Amarillo and Dalhart series that were previously correlated within the spatial bounds of MLRA 77E.
+
+Diagnostic horizons and features recognized in this pedon:
+Ochric epipedon: 0 to 25 cm (0 to 10 in) (A horizon)
+Argillic horizon: 25 to 122 cm (10 to 48 in) (Bt and Btk1 horizons)
+Calcic horizon: 122 to 203 cm (48 to 80 in) (Btk2 and Btk3 horizons)
+Particle-size family: fine-loamy
+Particle-size control section: 25 to 76 cm (10 to 30 in)
+Secondary carbonates: 76 to 203 cm (30 to 80 in)
+
+User Pedon ID: P1981TX393002
+
+ADDITIONAL DATA: none available
+
+Taxonomic Version: Keys to Soil Taxonomy, Twelfth Edition, 2014.
+
+National Cooperative Soil Survey
+U.S.A.

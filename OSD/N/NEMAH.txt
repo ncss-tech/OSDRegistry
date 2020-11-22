@@ -1,0 +1,140 @@
+LOCATION NEMAH                  WA
+
+Established Series
+Rev. CJM/DRU/EED
+04/2017
+
+NEMAH SERIES
+
+Landscape--drift plains, coastal plains, river valleys
+Landform--depressions, terraces
+Slope--0 to 5 percent
+Parent material--alluvium
+Mean annual precipitation--about 2300 mm
+Mean annual air temperature--about 10 degrees C
+Depth class--very deep
+Drainage class--poorly drained
+Soil moisture regime--aquic
+Soil temperature regime--isomesic
+Soil moisture subclass--typic
+
+TAXONOMIC CLASS: Fine, isotic, acid, isomesic Vertic Endoaquepts
+
+TYPICAL PEDON: Nemah silty clay loam, forested (The soil was wet when described.)
+
+ Oi--0 to 5 cm; peat
+
+ Oa--5 to 10 cm; muck, black (5YR 2/1) moist; many fine roots
+
+ A1--10 to 22 cm; silty clay loam, black (5YR 2/1) moist, very dark gray (N 3/0) dry; weak fine subangular blocky structure; hard, friable, moderately sticky and moderately plastic; many fine and medium roots; many fine tubular and interstitial pores; very strongly acid (pH 4.6); clear smooth boundary
+
+ A2--22 to 30 cm; silty clay, very dark brown (10YR 2/2) moist, dark gray (10YR 4/1) dry; weak fine subangular blocky structure, very hard, firm, very sticky and very plastic; common fine and medium roots; many fine tubular and interstitial pores; 10 percent medium prominent grayish brown (2.5Y 5/2) iron depletions and 10 percent medium prominent yellowish red (5YR 5/8) masses of oxidized iron; very strongly acid (pH 4.6); clear wavy boundary
+
+ Bg1--30 to 43 cm; clay, dark grayish brown (10YR 4/2) moist, light gray (2.5Y 7/2) dry; moderate medium prismatic structure; extremely hard, firm, very sticky and very plastic; few fine roots; many fine tubular and interstitial pores; very dark grayish brown (10YR 3/2) organic stains on vertical faces of peds; 10 percent coarse prominent strong brown (7.5YR 5/8) masses of oxidized iron and 10 percent coarse faint grayish brown (2.5Y 5/2) iron depletions; very strongly acid (pH 4.8); gradual wavy boundary
+
+ Bg2--43 to 76 cm; clay, gray (N 6/0) moist, light gray (2.5Y 7/2) dry; moderate medium prismatic structure; extremely hard, firm, very sticky and moderately plastic; few fine roots; many fine tubular and interstitial pores; very dark grayish brown (10YR 3/2) organic stains on vertical faces of peds; 10 percent coarse prominent strong brown (7.5YR 5/8) masses of oxidized iron ; very strongly acid (pH 4.8); gradual wavy boundary
+
+ Bg3--76 to 101 cm; clay, gray (N 6/0) moist, light gray (2.5Y 7/2) dry; weak medium prismatic structure; extremely hard, firm, very sticky and very plastic; few fine roots; many fine tubular and interstitial pores; 10 percent coarse prominent strong brown (7.5YR 5/8) masses of oxidized iron; extremely acid (pH 4.3); gradual wavy boundary
+
+ 2Cg--101 to 150 cm; very gravelly clay, gray (N 6/0) moist, light gray (2.5Y 7/2) dry; massive; extremely hard, firm, very sticky and very plastic; 10 percent coarse prominent strong brown (7.5YR 5/8) masses of oxidized iron; 40 percent gravel; very strongly acid
+
+TYPE LOCATION: Grays Harbor County, Washington, about 17.5 km north of Montesano on the Wynoochee Valley Road, 0.75 km south of the intersection with Upper School House Road, and 30 m east of road; about 455 m east and 70 m south of the northwest corner of section 23, T. 19 N., R. 8 W., Willamette Meridian; Wynoochee Valley SW, Washington, U.S. Geological Survey quadrangle; latitude 47.1229370 degrees north, longitude 123.6472660 degrees west, WGS 84 (coordinates estimated from PLSS details)
+
+RANGE IN CHARACTERISTICS:
+Mean annual soil temperature--10 to 12 degrees C
+Depth to aquic conditions--0 to 30 cm
+Particle-size control section--35 to 60 percent clay (weighted average); 0 to 25 percent total rock fragments (weighted average); reaction of 3.5 to 5.5
+
+A horizon
+Hue--5YR to 2.5Y, neutral
+Value--2 or 3 moist, 3 or 4 dry
+Chroma--neutral, 1 to 3 moist or dry
+Fine-earth texture--silty clay loam, silty clay, silt loam
+Clay content--20 to 45 percent
+Gravel content--0 to 10 percent
+Reaction (pH)--3.5 to 5.0
+Combined thickness--10 to 20 cm
+
+Bg1 and Bg2 horizons
+Hue--10YR to 2.5Y, neutral
+Value--3 to 6 moist, 6 or 7 dry
+Chroma--neutral, 1 or 2 moist or dry
+Fine-earth texture--clay, silty clay, silty clay loam
+Clay content--35 to 60 percent
+Gravel content--0 to 25 percent
+Reaction (pH)--3.5 to 5.0
+Combined thickness--40 to 60 cm
+
+Bg3 horizon
+Hue--10YR to 2.5Y, neutral
+Value--3 to 6 moist, 4 to 7 dry
+Chroma--neutral, 1 or 2 moist or dry
+Fine-earth texture--clay, silty clay, silty clay loam, clay loam
+Clay content--35 to 60 percent
+Total rock fragment content--0 to 30 percent
+Gravel content--0 to 30 percent
+Cobble content--0 to 5 percent
+Reaction (pH)--3.5 to 5.0
+Thickness--20 to 30 cm
+
+2Cg horizon
+Hue--10YR to 2.5Y, neutral
+Value--3 to 6 moist, 4 to 7 dry
+Chroma--neutral, 1 or 2 moist or dry
+Fine-earth texture--clay, silty clay, silty clay loam, clay loam
+Clay content--27 to 60 percent
+Total rock fragment content--15 to 60 percent
+Gravel content--15 to 60 percent
+Cobble content--0 to 10 percent
+Reaction (pH)--3.5 to 5.5
+
+COMPETING SERIES:
+Tealwhit--no rock fragments and 35 to 50 percent clay in particle-size control section
+
+GEOGRAPHIC SETTING:
+Elevation--5 to 1200 m
+Mean annual precipitation--1800 to 3100 mm
+Mean annual air temperature--9 to 11 degrees C
+Frost-free period--200 to 240 days
+
+GEOGRAPHICALLY ASSOCIATED SOILS:
+Copalis--no aquic conditions within 50 cm of the soil surface; on drift plains, mountain valleys, and mountain slopes
+Hoquiam--no aquic conditions; on hillslopes and moraines
+Willapa--no aquic conditions within 50 cm of the soil surface; on coastal plains
+Skamo--no aquic conditions within 50 cm of the soil surface; on convex to linear alluvial fans and terraces
+
+DRAINAGE AND SATURATED HYDRAULIC CONDUCTIVITY:
+Drainage class--poorly drained
+Depth to apparent seasonal water table--at the surface to a depth of 30 cm at times in October through April, at the surface to a depth of more than 200 cm at times in May through July
+Flooding--none to frequent, brief periods in November through March
+Ponding--frequent, long periods in October through May
+Saturated hydraulic conductivity (Ksat)--low to moderately high in A horizon, very low to moderately high in Bg horizon, very low in 2Cg horizon
+
+Ponding and the seasonal high water table in some pedons may be altered by artificial drainage.
+
+USE AND VEGETATION:
+Use--wildlife habitat, scattered areas of hay production and livestock grazing in cleared and/or artificially drained areas
+Native vegetation--red alder, Sitka spruce, western redcedar, willow, redosier dogwood, Douglas spirea, salmonberry, sedges, grass, rushes, skunk cabbage
+
+DISTRIBUTION AND EXTENT: Coastal areas of western Washington; MLRA 4a; moderate extent
+
+MLRA SOIL SURVEY REGIONAL OFFICE (MO) RESPONSIBLE: Portland, Oregon
+
+SERIES ESTABLISHED: Grays Harbor County (Grays Harbor County Area), Washington; 1970
+
+REMARKS:
+Diagnostic horizons and other features in this pedon
+*Particle-size control section--zone from 25 to 100 cm
+*Ochric epipedon
+*Cambic horizon--zone from 10 to 101 cm
+*Aquic conditions--zone from 5 to 150 cm
+*Endosaturation--zone from 5 to 150 cm
+*Redoximorphic depletions with chroma of 2 or less--zone from 22 to 43 cm
+*Depth to lithologic discontinuity--101 cm
+
+04/1994--Previously classified as fine, mixed, acid, mesic Humic Haplaquepts; classification change based on amendments to Soil Taxonomy.
+
+10/2016--This official series description was edited according to SSR01 Technical Note--Content and Format of Official Series Descriptions (revised 12/2015).
+
+National Cooperative Soil Survey
+U.S.A.

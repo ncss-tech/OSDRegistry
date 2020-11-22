@@ -1,0 +1,112 @@
+LOCATION PATIT CREEK            WA+OR
+
+Established Series
+Rev. RFM/RJE/CSW
+06/2016
+
+PATIT CREEK SERIES
+
+Landscape--Columbia basalt plateau
+Landform--bottomlands
+Slope--0 to 5 percent
+Parent material--recent alluvium derived from loess mixed with basaltic material
+Mean annual precipitation--about 510 mm
+Mean annual air temperature--about 10 degrees C
+Depth class--deep
+Drainage class--well drained
+Soil moisture regime--xeric
+Soil temperature regime--mesic
+Soil moisture subclass--typic
+
+TAXONOMIC CLASS: Coarse-loamy, mixed, superactive, mesic Cumulic Haploxerolls
+
+TYPICAL PEDON: Patit Creek silt loam, cultivated
+
+ Ap--0 to 15 cm; silt loam, dark grayish brown (10YR 4/2) dry, very dark brown (10YR 2/2) moist; moderate fine granular structure; slightly hard, friable, slightly sticky and slightly plastic; many fine and very fine roots; some earthworm channels and casts; neutral (pH 6.8); abrupt smooth boundary
+
+ A2--15 to 30 cm; silt loam, dark grayish brown (10YR 4/2) dry, very dark brown (10YR 2/2) moist; moderate medium and fine granular structure; slightly hard, friable, sticky and plastic; many fine and very fine roots; few fine tubular pores; some earthworm channels and casts; about 5 percent gravel; neutral (pH 6.8); clear wavy boundary
+
+ A3--30 to 61 cm; silt loam, dark grayish brown (10YR 4/2) dry, very dark brown (10YR 2/2) moist; weak medium prismatic structure; hard, friable, sticky and plastic; many fine and very fine roots; few fine tubular pores; some earthworm channels and casts; few faint fine mottles; very few thin patchy clay films on peds; about 5 percent gravel; neutral (pH 6.8); clear wavy boundary
+
+ A4--61 to 91 cm; silt loam, dark grayish brown (10YR 4/2) dry, very dark brown (10YR 2/2) moist; massive; slightly hard, friable, sticky and plastic; few very fine roots; few fine tubular pores; some earthworm channels and casts; about 5 percent gravel; neutral (pH 6.8); clear wavy boundary
+
+ 2C--91 to 168 cm; extremely gravelly sandy loam, brown (10YR 5/3) dry, dark brown (10YR 3/3) moist; massive; soft, friable, nonsticky and nonplastic; few very fine roots; few faint fine mottles; about 65 percent gravel and 5 percent cobbles; neutral (pH 6.8)
+
+TYPE LOCATION: Columbia County, Washington, about 400 m west of Dumas; in the SE1/4NW1/4 of section 4, T. 9 N., R. 38 E; Huntsville, Washington, U.S. Geological Survey 7.5-minute topographic quadrangle; latitude 46.2877870, longitude -118.0665030, datum WGS 84 (coordinates estimated from PLSS details)
+
+RANGE IN CHARACTERISTICS:
+Depth to 2C horizon--50 to 100 cm
+Mean annual soil temperature--10 to 11 degrees C
+Reaction--6.6 to 7.8 throughout
+Moisture control section--dry 60 to 75 consecutive days following summer solstice
+
+Above 2C horizon
+*Content of clay--5 to 15 percent
+*Content of fragments coarser than very fine sand--15 to 50 percent
+
+A horizon
+*Value--4 or 5 dry, 2 or 3 moist
+*Texture--loam, silt loam, gravelly loam, cobbly loam
+*Combined thickness--50 to 100 cm
+
+2C horizon
+*Value--3 or 4 moist, 4 to 6 dry
+*Chroma--2 to 4
+*Texture--very gravelly, very cobbly, extremely gravelly
+
+COMPETING SERIES:
+Coxlake--mottles (assumed to be redoximorphic features as iron masses) at a depth of 74 to 150 cm
+Deerspring--mottles (assumed to be redoximorphic features as iron masses) at a depth of 142 to 165 cm
+Endersby--sandy textures below particle-size control section
+Evans--dry 80 to 100 days; less than 5 percent gravel in lower part of particle-size control section
+Lapwai--secondary carbonates in and below particle-size control section
+Leavenworth--no rock fragments in particle-size control section
+Narcisse--less than 20 percent rock fragments throughout; redoximorphic concentrations in lower part of particle-size control section
+Okanogan--less than 10 percent rock fragments in particle-size control section
+Pleasant View--secondary carbonates in and below particle-size control section
+Plinco--redoximorphic features as iron masses at a depth of 147 to 163 cm
+Porter--aridic moisture regime bordering on xeric
+Poween--dry 75 to 90 consecutive days; less than 15 percent gravel throughout
+Redola--slightly calcareous to strongly calcareous throughout
+Threecreeks--slightly acid or moderately acid throughout
+Tombeall--mottles (assumed to be redoximorphic features as iron masses) at a depth of 43 cm
+
+GEOGRAPHIC SETTING:
+Elevation--360 to 850 m
+Climate--warm, dry summers; cold, wet winters
+Mean annual precipitation--450 to 610 mm
+Mean January air temperature--about -1 degree C
+Mean July air temperature--about 22 degrees C
+Frost-free season--120 to 140 days
+
+GEOGRAPHICALLY ASSOCIATED SOILS:
+Athena, Mondovi, Palouse--no contrasting substratum within a depth of 100 cm
+Gwin, Kuhl--25 to 50 cm deep to bedrock
+
+DRAINAGE AND SATURATED HYDRAULIC CONDUCTIVITY:
+Drainage class--well drained
+Saturated hydraulic conductivity (Ksat)--moderately high or high above 2C horizon, high or very high in 2C horizon
+
+USE AND VEGETATION:
+Use--crop production, livestock grazing
+Crops--asparagus, corn for silage, grasses, legumes, orchard crops (most areas irrigated)
+Native vegetation--bluebunch wheatgrass, Sandberg bluegrass, basin wildrye, black hawthorn, rose, and scattered Douglas-fir, ponderosa pine, black cottonwood, and alder
+
+DISTRIBUTION AND EXTENT: Eastern Washington, eastern Oregon, and possibly northern Idaho; MLRA 9; small extent
+
+MLRA SOIL SURVEY REGIONAL OFFICE (MO) RESPONSIBLE: Portland, Oregon
+
+SERIES ESTABLISHED: Columbia County, Washington; 1938
+
+REMARKS:
+Diagnostic horizons and features recognized in this pedon
+*Mollic epipedon--zone from surface to a depth of 91 cm
+*Organic carbon--irregular decrease with increasing depth (assumed)
+*Lithologic discontinuity--extremely gravelly sandy loam at a depth of 91 cm
+
+05/2016--The Patit Creek official series was used in an update project of some riparian areas southeast of Pendleton in Umatilla County, Oregon. Wide ranges in climate were populated in NASIS due to the nature of the lotic riparian areas along several km of a stream.
+
+6/2016--This official series description was updated according to SSR1 Technical Note 11--Content and Format of Official Series Descriptions (revised 12/2015).
+
+National Cooperative Soil Survey
+U.S.A.

@@ -1,0 +1,81 @@
+LOCATION NIRAC                  NV
+
+Established Series
+Rev. PWB-RLB-JVC-JBF
+09/2019
+
+NIRAC SERIES
+
+The Nirac series consists of moderately deep, well drained soils that formed in residuum and colluvium derived from calcareous sandstone and limestone with a component of loess.  Nirac soils are on hills and mountains.  Slopes are 15 to 75 percent.  The mean annual precipitation is about 300 mm and the mean annual temperature is about 6 degrees C.
+
+TAXONOMIC CLASS: Loamy-skeletal, mixed, superactive, frigid Aridic Calcixerolls
+
+TYPICAL PEDON:  Nirac gravelly silt loam--rangeland.  (Colors are for dry soil unless otherwise noted.)  The soils surface is partially covered with 20 percent gravel.
+
+    A1--0 to 2 cm; brown (10YR 5/3) gravelly silt loam, dark brown (10YR 3/3) moist; weak fine granular structure; soft, very friable, slightly sticky and slightly plastic; many very fine and few fine roots; 15 percent gravel; slightly alkaline (pH 7.8); abrupt wavy boundary.  (2 to 10 cm thick)
+
+    A2--2 to 15 cm; brown (10YR 5/3) gravelly silt loam; dark brown (10YR 3/3) moist; weak medium subangular blocky structure; soft, very friable, slightly sticky and slightly plastic; many very fine and few fine roots; common very fine interstitial pores; 15 percent gravel; violently effervescent; slightly alkaline (pH 7.8); clear wavy boundary.  (8 to 18 cm thick)
+
+    A3--15 to 36 cm; brown (10YR 5/3) gravelly silt loam, dark brown (10YR 3/3) moist; weak medium subangular blocky structure; soft, very friable, slightly sticky and nonplastic; many very fine and few fine roots; few very fine interstitial pores; 15 percent gravel; violently effervescent; moderately alkaline (pH 8.0); clear wavy boundary.  (15 to 25 cm thick)
+
+    Bk1--36 to 56 cm; pale brown (10YR 6/3) very gravelly loam, yellowish brown (10YR 5/4) moist; massive; soft, very friable, slightly sticky and slightly plastic; common very fine and few fine roots; few very fine interstitial pores; 35 percent gravel and 10 percent cobbles; secondary carbonates segregated as few thin coats on rock fragments; violently effervescent; moderately alkaline (pH 8.2); clear wavy boundary.  (13 to 33 cm thick)
+
+    Bk2--56 to 64 cm; very pale brown (10YR 7/3) very gravelly loam, brown (10YR 5/3) moist; massive; soft, very friable, slightly sticky and nonplastic; few very fine roots; few very fine interstitial pores; 45 percent gravel and 10 percent cobbles; secondary carbonates segregated as common thin coats on rock fragments; violently effervescent; moderately alkaline (pH 8.4); abrupt wavy boundary.  (5 to 24 cm thick)
+
+    R--64 cm; hard, unfractured calcareous sandstone.
+
+TYPE LOCATION:  Elko County, Nevada; about 9 miles northeast of Carlin; approximately 10 feet south and 2,000 feet east of the northwest corner of section 24, T. 33 N., R. 53 E.; USGS Grindstone Mountain 7.5 minute topographic quadrangle; latitude 40 degrees 44 minutes 19 seconds N and longitude 115 degrees 57 minutes 47 seconds W; WGS84 Decimal Degrees 40.7386111 latitude, -115.9630556 longitude.
+
+RANGE IN CHARACTERISTICS:
+Soil moisture: Moist in late fall through early summer, dry July through October; aridic moisture regime that borders on xeric.
+Mean annual soil temperature: 7 to 8 degrees C.
+Mollic epipedon thickness: 25 to 43 cm.
+Depth to calcic horizon: 25 to 43 cm.
+Depth to bedrock: 50 to 100 cm to a lithic contact.
+
+Particle-size control section - Clay content: 15 to 25 percent.
+Rock fragments:  35 to 60 percent, mainly gravel.  Lithology of fragments are sedimentary rocks such as sandstone and limestone.
+
+A horizons  
+Value:  4 or 5 dry, 2 or 3 moist.
+Structure:  Granular or subangular blocky.
+Consistence:  Soft or slightly hard.
+Reaction:  Slightly alkaline or moderately alkaline.
+Organic matter content: 2 or 3 percent.
+
+Bk horizons  
+Value:  6 or 7 dry, 3 through 5 moist.
+Chroma:  2 through 4, dry or moist.
+Texture:  Very gravelly loam or very gravelly silt loam.
+Clay content:  15 to 25 percent.
+Rock fragments:  35 to 60 percent gravel and 0 to 10 percent cobbles.
+Structure:  Weak subangular blocky or horizon is massive.
+Calcium carbonate equivalent: 25 to 40 percent.
+Reaction:  Moderately alkaline or strongly alkaline.
+
+COMPETING SERIES:  These are the Becreek, Deecree, Denay, Eenreed, Pamison, Rudeen, Wereld, and Xine series.
+
+Becreek, Deecree, Denay, Eenreed, and Pamison soils are very deep.  Rudeen soils have angular gravel, angular cobbles, channers, flagstones, and stones in the particle-size control section.  Wereld soils are deep to lithic contacts.  Xine soils are moderately deep to paralithic contacts and have 15 to 40 percent cobbles and stones in the particle-size control section.
+
+GEOGRAPHIC SETTING:  Nirac soils are on hills and mountains.  They typically occur on backslope positions.  These soils formed in residuum and colluvium derived from calcareous sandstone or limestone with a component of loess.  Slopes are 15 to 75 percent.  Elevations range from 1,590 to 2,535 meters.  The climate is semiarid with cool, moist winters and warm, dry summers.  The mean annual precipitation is 250 to 360 mm, mean annual temperature is 5 to 7 degrees C, and the frost-free period is 80 to 100 days.
+
+GEOGRAPHICALLY ASSOCIATED SOILS:  These are the Izar, Samor, and Siri soils.  Izar and Samor soils are shallow to lithic contacts and have ochric epipedons.  Siri soils are very deep and have ochric epipedons.
+
+DRAINAGE AND SATURATED HYDRAULIC CONDUCTIVITY:  Well drained; high surface runoff; moderately high saturated hydraulic conductivity.
+
+USE AND VEGETATION:  Nirac soils are used for rangeland and wildlife habitat.  The present vegetation is mainly mountain big sagebrush, serviceberry, Idaho fescue, Thurber's needlegrass, and basin wildrye.
+
+DISTRIBUTION AND EXTENT:  Northeastern Nevada.  These soils are moderately extensive.  MLRA 25 and 28A.
+
+MLRA SOIL SURVEY REGIONAL OFFICE (MO) RESPONSIBLE:  Davis, California.
+
+SERIES ESTABLISHED:  Elko County (Central Part), Nevada, 1986.
+
+REMARKS:  Diagnostic horizons and features recognized in this pedon are:
+Mollic epipedon - The zone from the soil surface to 36 cm (A1, A2, and A3 horizons).
+Calcic horizon - The zone from 36 to 64 cm (Bk1 and Bk2 horizons).
+Lithic contact - The boundary at 64 cm to underlying hard, unfractured bedrock (R layer).
+Particle-size control section - The zone from 25 to 64 cm (Bk1 and Bk2 horizons and part of the A3 horizon).
+
+National Cooperative Soil Survey
+U.S.A.

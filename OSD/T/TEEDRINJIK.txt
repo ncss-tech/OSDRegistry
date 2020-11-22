@@ -1,0 +1,121 @@
+LOCATION TEEDRINJIK             AK
+
+Established Series
+JDP/NR/TJR
+04/2020
+
+TEEDRINJIK SERIES
+
+Landscape--alluvial plains
+Landform--flood plains
+Slope--0 to 3 percent
+Parent material--alluvium
+Mean annual precipitation--about 255 mm
+Mean annual air temperature--about -6 degrees C
+Depth class--very deep
+Drainage class--well drained
+Soil moisture regime--udic
+Soil temperature regime--cryic
+Soil moisture subclass--typic
+
+TAXONOMIC CLASS: Coarse-loamy over sandy or sandy-skeletal, mixed, superactive, nonacid Typic Cryorthents
+
+TYPICAL PEDON: Teedrinjik loam on a forested flood plain with a slope of 1 percent and an elevation of 157 m (The soil was moist throughout when described on August 12, 2012.)
+
+ Oe--0 to 10 cm; moderately decomposed plant material; many medium roots and common coarse roots; neutral (pH 6.7); clear smooth boundary
+
+ A--10 to 25 cm; loam; light brownish gray (2.5Y 6/2) dry, dark grayish brown (2.5Y 4/2) moist; weak fine granular structure; soft, very friable; many fine roots and common medium roots; common fine and medium pores; noneffervescent; neutral (pH 6.6); clear smooth boundary
+
+ C1--25 to 70 cm; stratified fine sandy loam; 60 percent light brownish gray (2.5Y 6/2) dry, dark grayish brown (2.5Y 4/2) moist, and 40 percent very pale brown (10YR 8/3) dry, pale brown (10YR 6/3) moist; massive; soft, very friable; many fine roots; few fine and medium pores; 2 percent gravel; noneffervescent; neutral (pH 7.1); clear wavy boundary
+
+ 2C2--70 to 140 cm; gravelly sand; very pale brown (10YR 8/3) dry, pale brown (10YR 6/3) moist; single grain; loose; 20 percent gravel; noneffervescent; slightly alkaline (pH 7.7)
+
+ 2C3--140 to 150 cm; very gravelly sand; yellowish brown (10YR 5/4) moist; single grain; loose; 45 percent gravel; noneffervescent; slightly alkaline (pH 7.7)
+
+TYPE LOCATION: Yukon-Koyukuk Census Area, Alaska; latitude 66.5149167 degrees, longitude -148.0536111 degrees, datum WGS84 (coordinates determined with a GPS)
+
+RANGE IN CHARACTERISTICS:
+Mean annual soil temperature--0.5 to 2.5 degrees C
+Depth to lithologic discontinuity--50 to 100 cm
+Rock fragment content--0 to 35 percent gravels and cobbles (by weighted average) above the lithologic discontinuity, and 35 to 85 percent gravels and cobbles (by weighted average) below the lithologic discontinuity
+
+Oi horizon (where present)
+Thickness--2 to 12 cm
+Reaction--6.0 to 7.5
+
+Oe horizon
+Thickness--2 to 12 cm
+Reaction--6.0 to 7.5
+
+A horizon
+Hue--10YR, 2.5Y
+Value--2 to 4 moist, 4 to 6 dry
+Chroma--1 or 2 moist
+Fine-earth texture--silt loam, very fine sandy loam, loam
+Clay content--0 to 18 percent
+Reaction--6.5 to 7.5
+Effervescence--none to slight
+Thickness--5 to 15 cm
+
+C1 horizon
+Hue--10YR, 2.5Y
+Value--3 to 6 moist, 5 to 8 dry
+Chroma--1 to 3 moist
+Fine-earth texture--fine sandy loam, loamy sand, fine sand to coarse sand
+Rock fragment content--0 to 50 percent total gravels and cobbles
+Clay content--0 to 10 percent
+Reaction--7.0 to 8.5
+Effervescence--none to strong
+Thickness--40 to 80 cm
+
+2C2 and 2C3 horizons
+Value--3 to 6 moist, 5 to 8 dry
+Chroma--1 to 3 moist
+Fine-earth texture--loamy sand, fine sand to coarse sand
+Rock fragment content--20 to 85 percent total gravels and cobbles
+Clay content--0 to 10 percent
+Reaction--7.0 to 8.5
+Effervescence--none to strong
+Combined thickness--60 to 100 cm
+
+COMPETING SERIES:
+None
+
+GEOGRAPHIC SETTING:
+Elevation--100 to 300 m
+Climate--short, warm summers and long, very cold winters
+Mean annual precipitation--210 to 310 mm
+Mean annual air temperature-- -12 to 0 degrees C
+Frost-free period--45 to 97 days
+
+GEOGRAPHICALLY ASSOCIATED SOILS:
+Hodzana--aquic conditions within 50 cm; lower positions on similar landforms
+Jokinaugh--aquic conditions within 25 cm with frequent ponding; depressions on similar landforms
+
+DRAINAGE AND SATURATED HYDRAULIC CONDUCTIVITY:
+Drainage class--well drained
+Saturation in normal years--none
+Flooding--occasional, brief
+Ponding--none
+Saturated hydraulic conductivity (Ksat)--high or very high in the surface horizons and very high in the subsurface
+
+USE AND VEGETATION:
+Use--wildlife habitat, subsistence, recreation
+Potential natural vegetation--white spruce, balsam poplar, resin birch, prickly rose, squashberry, twinflower, thinleaf alder, field horsetail, tall bluebell, splendid feathermoss
+
+DISTRIBUTION AND EXTENT: Yukon Flats Lowlands, Alaska; MLRA 232; small extent
+
+SOIL SURVEY REGIONAL OFFICE (SSRO) RESPONSIBLE: Portland, Oregon
+
+SERIES ESTABLISHED: Yukon Flats National Wildlife Refuge, Yukon-Koyukuk Census Area, Alaska; 2020
+
+REMARKS:
+Diagnostic horizons and other features in this pedon
+*Particle-size control section--zone from 35 to 110 cm
+*Ochric epipedon
+*Strongly contrasting particle size class
+*Lithologic discontinuity--2C2 horizon
+
+
+National Cooperative Soil Survey
+U.S.A.

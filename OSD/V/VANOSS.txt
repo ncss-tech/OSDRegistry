@@ -1,0 +1,145 @@
+LOCATION VANOSS                 OK+KS
+
+Established Series
+Rev. CRC:CEW:JLD
+03/2016
+
+VANOSS SERIES
+
+The Vanoss series consists of very deep, well drained soils that formed in loamy alluvium of Pleistocene age. These soils occur on treads of stream terraces in the Central Rolling Red Prairies (MLRA 80A). Slope ranges from 0 to 8 percent. Mean annual air temperature is 15 degrees C (60 degrees F), and mean annual precipitation is 920 mm (36 in).
+
+TAXONOMIC CLASS: Fine-silty, mixed, superactive, thermic Udic Argiustolls
+
+TYPICAL PEDON:  Vanoss loam-cultivated, at an elevation of 357 m (1170 ft). (Colors are for dry soil unless otherwise stated.)
+
+  Ap--0 to 18 cm (0 to 7 in); grayish brown (10YR 5/2) loam, very dark grayish brown (10YR 3/2) moist; weak fine granular structure; slightly hard, friable; strongly acid; abrupt smooth boundary. (Thickness of the Ap horizon is 0 to 25 cm [0 to 10 in])
+
+  A--18 to 28 cm (7 to 11 in); grayish brown (10YR 5/2) loam, very dark grayish brown (10YR 3/2) moist; moderate very fine granular structure; slightly hard, friable; strongly acid; clear smooth boundary.  (Thickness of the A horizon is 18 to 46 cm [7 to 18 in])
+
+  BA--28 to 38 cm (11 to 15 in); brown (10YR 5/3) loam, dark brown (10YR 3/3) moist; weak medium subangular blocky structure; slightly hard, friable; moderately acid; clear smooth boundary.  (Thickness of the BA horizon is 0 to 20 cm [0 to 8 in])
+
+  Bt1--38 to 69 cm (15 to 27 in); dark yellowish brown (10YR 4/4) clay loam, dark yellowish brown (10YR 3/4) moist; weak medium prismatic structure parting to moderate medium subangular blocky; very hard, friable; common distinct clay films on faces of peds; moderately acid; clear smooth boundary.  
+
+  Bt2--69 to 94 cm (27 to 37 in); yellowish brown (10YR 5/4) clay loam, dark yellowish brown (10YR 4/4) moist; weak coarse subangular blocky structure; very hard, friable; common distinct clay films on faces of peds; moderately acid; clear smooth boundary.  
+
+  Bt3--94 to 127 cm (37 to 50 in); yellowish brown (10YR 5/4) clay loam, dark yellowish brown (10YR 4/4) moist; weak coarse subangular blocky structure; hard, friable; few distinct clay films on faces of peds; moderately acid; gradual smooth boundary. (Combined thickness of the Bt horizon 41 to 127 cm [16 to 50 in]) 
+
+  C--127 to 241 cm (50 to 95 in); pale brown (10YR 6/3) loam, brown (10YR 4/3) moist; massive; hard, friable; many medium faint grayish brown (10YR 5/2) and brown (10YR 5/3) redox depletions with clear boundaries; few distinct yellowish brown (10YR 5/6) masses of oxidized iron with clear boundaries; moderately acid.
+
+TYPE LOCATION:  Pottawatomie County, Oklahoma; about 1/2 mile west of Shawnee, Oklahoma; 1,400 feet south and 2,200 feet east of the northwest corner of sec. 24, T. 10 N., R. 3 E. 
+
+USGS topographic quadrangle: Vanoss, OK
+Latitude: 35 degrees, 19 minutes, 43 seconds N 
+Longitude: 96 degrees, 56 minutes, 25 seconds W 
+Datum: NAD 83
+
+Decimal Degrees:
+Latitude: 35.3287179
+Longitude: -96.9400695
+
+UTM Easting: 687230.72 m
+UMT Northing: 39011444.39 m
+UTM Zone: 14N
+
+RANGE IN CHARACTERISTICS:
+Depth to bedrock: more than 152 cm (60 in)
+
+Ap or A horizon:
+Hue: 7.5YR or 10YR
+Value: 4 or 5, 2 or 3 moist
+Chroma: 1 to 3 dry or moist
+Texture: loam or silt loam
+Reaction: strongly acid to neutral
+
+AB horizon (where present): 
+Hue: 7.5YR or 10YR
+Value: 4 or 5, 2 or 3 moist
+Chroma: 2 to 3, dry or moist
+Texture: loam, silt loam, silty clay loam or clay loam
+Reaction: strongly acid to neutral
+
+BA horizon:
+Hue: 7.5YR or 10YR
+Value: 4 or 5, 2 or 3 moist
+Chroma: 2 to 3, dry or moist
+Texture: loam, silt loam, silty clay loam or clay loam
+Reaction: strongly acid to neutral
+
+Upper Bt horizons:
+Hue: 7.5YR or 10YR
+Value: 4 or 5, 3 or 4 moist
+Chroma: 3 to 6 dry or moist
+Texture: clay loam or silty clay loam with less than 15 percent fine and coarser sand
+Reaction: strongly acid to neutral
+
+Lower Bt horizons:
+Hue: 5YR to 10YR
+Value: 4 to 6 dry or moist
+Chroma: 3 to 6 dry or moist
+Texture: loam, silt loam, clay loam, or silty clay loam with less than 15 percent fine and coarser sand
+Redox concentrations: amount-few; size-fine; contrast-distinct; kind-ferromanganese concentrations; colors-shades of yellowish red; boundaries-clear; location-in matrix
+Effervescence: none 
+Reaction: moderately acid to slightly alkaline
+
+BC horizon:
+Some pedons have an overlying BC horizon.
+
+C horizon: 
+Hue: 5YR to 10YR
+Value: 4 to 6 dry or moist
+Chroma: 3 to 6 dry or moist
+Texture: loam, silt loam, clay loam, or silty clay loam with less than 15 percent fine and coarser sand
+Other features: some pedons have buried horizons that are fine sandy loam or sandy clay loam  
+Effervescence: none  
+Reaction: moderately acid to slightly alkaline
+
+COMPETING SERIES:  This is the Grant (OK) series in the same family. Similar series are Norge and Pond Creek.
+Grant soils: are 102 to 152 cm (40 to 60 in) to sandstone bedrock
+Norge soils: slightly higher clay content in control section
+Pond Creek soils: have a slightly lower clay content in the control section
+
+GEOGRAPHIC SETTING:
+Parent material: formed in loamy alluvium of Pleistocene age
+Landscape: alluvial plains
+Landform: treads of stream terraces 
+Slope: 0 to 8 percent
+Mean annual precipitation: 840 to 990 mm (33 to 39 in)
+Mean annual air temperature: 14 to 16.9 C degrees (58 to 64 degrees F)
+Frost free days: 190 to 230
+Elevation: 230 to 375 m (755 to 1230 ft)
+Thornthwaite Annual P-E indices: 44 to 64
+
+GEOGRAPHICALLY ASSOCIATED SOILS:  These are the Bethany, Minco Navina, Norge, and Teller series.
+Bethany soils: have more than 35 percent clay in the control section and occur on higher paleoterraces 
+Minco soils: have coarse-silty control section and occur on adjacent slopes closer to the river channel 
+Navina and Teller soils: are fine-loamy and occur on slightly higher terraces
+Norge soils: do not decrease in clay by more than 20 percent within 152 cm (60 in) and occur on similar positions 
+
+DRAINAGE AND PERMEABILITY:
+Drainage: well drained
+Permeability: moderate
+Saturated hydraulic conductivity: moderately high
+Runoff: negligible on 0 to 1 percent slopes, very low on 1 to 3 percent slopes, low on 3 to 5 percent slopes and medium on 5 to 8 percent slopes
+
+USE AND VEGETATION:  Mainly cultivated to cotton, alfalfa, grain sorghum, peanuts, tame pasture, and small grains.  Native vegetation is tall grasses.  
+
+DISTRIBUTION AND EXTENT:  North-central Oklahoma and South-central Kansas; Land Resource Region H; Central Rolling Red Prairies (MLRA 80A); the series is extensive.
+
+MLRA SOIL SURVEY REGIONAL OFFICE (MO) RESPONSIBLE: Temple, Texas 
+
+SERIES ESTABLISHED:  Pontotoc County, Oklahoma; 1936.
+
+REMARKS: 
+
+Diagnostic horizons and features recognized in this pedon are:
+Mollic epipedon: 0 to 38 cm (0 to 15 in). (A and AB horizons)
+Argillic horizon: 38 to 127 cm (15 to 50 in) (Bt horizons)
+
+Updated extensively as a result of the Soil Data Join Recorrelation process (SDJR) by JLD 03/2016
+
+ADDITIONAL DATA:  Pedon No. 68-OK-62-50 by Oklahoma State University, Stillwater, OK. Kellogg Soil Survey Lab no. 91KS155004, Lincoln, NE.
+
+Taxonomic Version: Keys to Soil Taxonomy, Twelfth Edition, 2014
+
+National Cooperative Soil Survey
+U.S.A.

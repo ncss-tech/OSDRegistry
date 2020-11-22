@@ -1,0 +1,127 @@
+LOCATION HAVELOCK               IA+MN
+
+Established Series
+Rev. RDF-JAL-TWN
+09/2007
+
+HAVELOCK SERIES
+
+The Havelock series consists of very deep, poorly drained soils formed in loamy alluvium.  These soils are on floodplains. Slope ranges from 0 to 2 percent. Mean annual air temperature is about 8 degrees C. Mean annual precipitation is about 740 millimeters.
+
+TAXONOMIC CLASS: Fine-loamy, mixed, superactive, calcareous, mesic Cumulic Endoaquolls
+
+TYPICAL PEDON:  Havelock clay loam, on level flood plain, in a cultivated field.  (Colors are for moist soil unless otherwise stated.)
+
+ Ap--0 to 23 centimeters; black (N 2/0) clay loam, very dark gray (N 3/0) dry; cloddy parting to weak fine and very fine subangular blocky structure; friable; few fine fragments of snail shells; slightly effervescent; slightly alkaline; clear smooth boundary.
+
+ A1--23 to 33 centimeters; black (N 2/0) clay loam, very dark gray (N 3/0) dry; weak fine and very fine subangular blocky structure; friable; few fine fragments of snail shells; strongly effervescent; moderately alkaline; gradual smooth boundary.
+
+ A2--33 to 61 centimeters; very dark gray (10YR 3/1) clay loam, dark gray (10YR 4/1) dry; weak fine and very fine subangular blocky structure; friable; few fine fragments of snail shells; strongly effervescent; moderately alkaline; gradual smooth boundary.
+
+ A3--61 to 102 centimeters; very dark gray (5Y 3/1) clay loam, gray (5Y 5/1) dry; weak fine and very fine subangular blocky structure; friable; few fine fragments of snail shells; strongly effervescent; moderately alkaline; clear smooth boundary.  (Combined thickness of the A horizon is 90 to 120 centimeters.)
+
+ Cg1--102 to 135 centimeters; gray (5Y 5/1) loam; massive; friable; few fine fragments of snail shells; strongly effervescent; moderately alkaline; clear smooth boundary.  (20 to 50 centimeters thick)
+
+ Cg2--135 to 152 centimeters; gray (5Y 5/1) and gray (5Y 6/1) sandy loam; massive; friable; many small and medium white (5Y 8/1) calcium carbonate accumulations; common fine prominent yellowish brown (10YR 5/6) redoximorphic concentrations; about 5 percent gravel; strongly effervescent; moderately alkaline.
+
+TYPE LOCATION:  Major Land Resource Area (MLRA) 103-Central Iowa and Minnesota Till Prairies, Pocahontas County, Iowa subset; about 3 miles north and 2 miles east of Laurens; located about 1,800 feet north and 120 feet west of the southeast corner of section 1, T. 93 N., R. 34 W.; USGS Rush Lake East topographic quadrangle; lat. 42 degrees 53 minutes 53 seconds N. and long. 94 degrees 47 minutes 51 seconds W., NAD 83.
+
+RANGE IN CHARACTERISTICS:
+Thickness of the mollic epipedon--more than 90 centimeters
+Clay content of the particle-size control section (weighted average)--27 to 35 percent
+Sand content of the particle-size control section (weighted average)--30 to 50 percent
+Calcium carbonate equivalent--5 to 20 percent
+
+A or Ap horizon:
+Hue--10YR, 5Y, or is neutral
+Value--2 or 3
+Chroma--0 or 1
+Texture--clay loam, silty clay loam, loam, sandy loam, or silt loam
+Clay content--12 to 32 percent
+Sand content--15 to 65 percent
+Rock fragment content--0 percent
+Reaction--slightly alkaline or moderately alkaline
+
+Some pedons have stratified overwash sediments 15 to 46 centimeters thick with hue of 10YR, value of 3 to 5, and chroma of 1 or 2
+
+AC or Bg horizon (if they occur):
+Hue--2.5Y, 5Y, or is neutral
+Value--2 to 5
+Chroma--0 or 1
+Texture--clay loam or loam
+Clay content--12 to 42 percent
+Sand content--12 to 65 percent
+Rock fragment content--0 percent
+Reaction--slightly alkaline or moderately alkaline
+
+Some pedons have thin strata of silty clay to sandy loam
+
+BCg or Cg horizon:
+Hue--2.5Y or 5Y
+Value--4 to 6
+Chroma--1 or 2
+Texture--upper part--loam or clay loam; lower part--sandy loam, loam, sandy clay loam, or clay loam
+Clay content--12 to 35 percent
+Sand content--20 to 70 percent
+Rock fragment content--0 percent, above a depth of 122 centimeters; 0 to 15 percent, below a depth of 122 centimeters
+Reaction--neutral to moderately alkaline
+
+Some pedons have sandy deposits below a depth of 150 centimeters
+
+Some pedons have thin strata of finer textures
+
+Some pedons have thin strata of loamy fine sand, silt loam, or fine sandy loam
+
+COMPETING SERIES:  These are the Bishop, Millington, Riverston, Stearns, and Winner series.
+Bishop--formed in moderately fine textured alluvium of granitic origin and are in areas that have a mean annual precipitation range of 130 to 380 millimeters
+Millington--have a mollic epipedon 60 to 90 centimeters thick
+Riverston--have a clay content of 5 to 12 percent in the lower third of the series control section
+Stearns--have a clay content that averages 18 to 27 percent in the particle-size control section
+Winner--have a rock fragment content of 35 to 60 percent in the lower third of the series control section
+
+GEOGRAPHIC SETTING:
+Parent material--loamy alluvium
+Landform--floodplains
+Slope--0 to 2 percent
+Elevation--300 to 400 meters above sea level
+Mean annual air temperature--6 to 10 degrees C
+Mean annual precipitation--585 to 890 millimeters
+Frost-free period--155 to 200 days
+
+GEOGRAPHICALLY ASSOCIATED SOILS:  These are the Clarion, Coland, and Wadena soils. 
+Clarion--are at higher landscape positions on side slopes and do not have a frequently saturated zone within a depth of 1.2 meters during the wettest periods when precipitation is within one standard deviation of the 30 year mean of annual precipitation
+Coland--are on landscape positions similar to those of the Havelock soils and do not have carbonates within a depth of 122 centimeters
+Wadena--are at higher landscape positions on terraces and have a sand content that averages more than 85 percent at depths between 60 and 100 centimeters
+
+DRAINAGE AND SATURATED HYDRAULIC CONDUCTIVITY:
+Drainage class--poorly drained--a frequently saturated zone occurs at the surface to 0.3 meters below the surface during the wettest periods of years when precipitation is within one standard deviation of the 30 year mean of annual precipitation
+Saturated hydraulic conductivity--1.00 to 10.00 micrometers per second in the upper two thirds of the series control section and 10.00 to 100.00 micrometers per second in the lower third of the series control section
+Flooding--frequently or occasionally flooded for brief duration
+
+USE AND VEGETATION:
+Where drained, most areas are cultivated. The principal crops are corn and soybeans.  Most undrained areas are channeled and are in pasture with trees.  The native vegetation is grasses and sedges tolerant to excessive wetness.
+
+DISTRIBUTION AND EXTENT:
+Physiographic Division--Interior Plains
+Physiographic Province--Central Lowland
+Physiographic section--Western lake section
+MLRA--Central Iowa and Minnesota Till Prairies (103)
+LRR M; north-central Iowa and south-central Minnesota
+Extent--small
+
+MLRA SOIL SURVEY REGIONAL OFFICE (MO) RESPONSIBLE: St. Paul, Minnesota
+
+SERIES ESTABLISHED: Pocahontas County, Iowa, 1982.
+
+REMARKS:
+Particle-size control section--the zone from a depth of 25 to 100 centimeters; 
+series control section--the zone from the surface to a depth of 150 centimeters.
+
+Diagnostic horizons and features recognized in this pedon include:
+mollic epipedon--the zone from the surface to a depth of 102 centimeters (Ap, A1, A2, and A3 horizons);
+aquic moisture regime.
+
+Taxonomy version--Keys to Soil Taxonomy, tenth edition, 2006.
+
+National Cooperative Soil Survey
+U.S.A.

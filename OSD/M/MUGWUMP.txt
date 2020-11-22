@@ -1,0 +1,130 @@
+LOCATION MUGWUMP                OR
+
+Established Series
+IRD. JLW/RJO/DAL/KMS
+02/2019
+
+MUGWUMP SERIES
+
+Landscape--mountains
+Landform--planar and complex terraces on mountain valley floors
+Slope--0 to 30 percent
+Parent material--alluvium derived from mixed sources
+Mean annual precipitation--about 680 mm
+Mean annual air temperature--about 6 degrees C
+Depth class--very deep
+Drainage class--well drained
+Soil moisture regime--udic
+Soil temperature regime--frigid
+Soil moisture subclass--typic
+
+TAXONOMIC CLASS: Loamy-skeletal, mixed, superactive, frigid Cumulic Hapludolls
+
+TYPICAL PEDON: Mugwump sandy loam in an area of woodland, on a 3-percent slope at elevation of 1335 m
+
+ Oi--0 to 5 cm; slightly decomposed plant material consisting of needles and twigs
+
+ Oe--5 to 8 cm; moderately decomposed plant material
+
+ A1--8 to 23 cm; sandy loam, dark brown (7.5YR 3/2) dry, very dark brown (10YR 2/2) moist; weak fine and very fine subangular blocky structure; soft, very friable, nonsticky and nonplastic; common very fine, fine, medium, and coarse roots; few very fine and fine tubular pores; neutral (pH 7.0); clear smooth boundary
+
+ A2--23 to 38 cm; sandy loam, dark brown (10YR 3/3) dry, very dark brown (7.5YR 2.5/2) moist; weak fine and very fine subangular blocky structure; soft, friable, nonsticky and nonplastic; common very fine, fine, and coarse and many medium roots; few very fine and fine tubular pores; 10 percent gravel; slightly acid (pH 6.5); clear smooth boundary
+
+ Bw1--38 to 71 cm; very cobbly sandy loam, brown (10YR 4/3) dry, dark brown (10YR 3/3) moist; weak medium and fine subangular blocky structure; soft, friable, nonsticky and nonplastic; common very fine, fine, and medium and few coarse roots; few very fine, fine, and medium tubular pores; 20 percent gravel, 10 percent cobbles, and 5 percent stones; slightly acid (pH 6.5); gradual, smooth boundary
+
+ Bw2--71 to 135 cm; extremely stony sandy loam, brown (10YR 4/3) dry, dark brown (7.5YR 3/3) moist; weak fine and very fine subangular blocky structure; soft, friable, nonsticky and nonplastic; common very fine and few fine, medium, and coarse roots; few very fine tubular pores; 25 percent gravel, 20 percent cobbles, and 15 percent stones; neutral (pH 6.6); gradual smooth boundary
+
+ BC--135 to 150 cm; extremely stony sandy loam, brown (10YR 4/3) dry, dark brown (10YR 3/3) moist; weak fine subangular blocky structure; soft, friable, nonsticky and nonplastic; common very fine and few fine and medium roots; few very fine tubular pores; 25 percent gravel, 25 percent cobbles, and 20 percent stones and boulders; slightly acid (pH 6.5)
+
+TYPE LOCATION: Union County, Oregon, about 593 m south and 724 m west of the northeast corner of section 6, T. 5 S., R. 42 E.; latitude 45.1603211, longitude -117.6105415, datum WGS 84 (coordinates and PLSS details estimated from point on hard copy map)
+
+RANGE IN CHARACTERISTICS:
+Mean annual soil temperature--6 to 8 degrees C
+Mean summer soil temperature--10 to 13 degrees C
+Mean winter soil temperature--1 to 3 degrees C
+Thickness of mollic epipedon--90 to 150 cm
+Soil moisture--dry 25 to 45 days in summer
+
+Particle-size control section
+*Clay content--3 to 12 percent
+*Total rock fragment content--45 to 80 percent
+
+A horizon
+Moist color--7.5YR 2.5/1, 7.5YR 2.5/2, 7.5YR 3/1, 7.5YR 3/2, 10YR 2/2
+Dry color--7.5YR 3/2, 7.5YR 4/2, 7.5YR 4/3, 10YR 3/3, 10YR 4/3
+Fine-earth texture--loam, sandy loam, loamy sand
+Clay content--2 to 12 percent
+Sand content--10 to 75 percent
+Organic matter content--2 to 6 percent
+Total rock fragment content--0 to 30 percent
+Gravel content--0 to 20 percent
+Cobble content--0 to 10 percent
+Reaction--6.1 to 7.3
+Base saturation--55 to 85 percent (sum of bases)
+Thickness--31 to 66 cm
+
+Bw horizon
+Moist color--7.5YR 2.5/1, 7.5YR 2.5/2, 10YR 3/3
+Dry color--7.5YR 4/1, 7.5YR 4/2, 7.5YR 4/3, 10YR 4/3
+Fine-earth texture--sandy loam
+Clay content--2 to 12 percent
+Sand content--50 to 70 percent
+Organic matter content--0.5 to 1.5 percent
+Total fragment content--35 to 75 percent
+Gravel content--20 to 40 percent
+Cobble content--10 to 20 percent
+Stone content--5 to 20 percent
+Reaction--6.1 to 7.3
+Base saturation--70 to 85 percent (sum of bases)
+Thickness--50 to 100 cm
+
+BC horizon
+Moist color--7.5YR 2.5/2, 7.5YR 3/2, 10YR 2/2, 10YR 3/3
+Dry color--7.5YR 4/1, 7.5YR 4/2, 10YR 4/3, 10YR 4/2
+Fine-earth texture--loamy sand, sand, sandy loam
+Clay content--2 to 6 percent
+Sand content--10 to 75 percent
+Organic matter content--2 to 6 percent
+Total rock fragment content--0 to 15 percent
+Gravel content--0 to 15 percent
+Cobble content--0 to 5 percent
+Reaction--6.1 to 7.3
+Base saturation--70 to 85 percent (sum of bases)
+
+COMPETING SERIES: None
+
+GEOGRAPHIC SETTING:
+Elevation--1140 to 1630 m
+Climate--cold, wet winters; warm, moist summers
+Mean annual precipitation--480 to 1190 mm
+Mean annual air temperature--4 to 7 degrees C
+Frost-free period--40 to 110 days
+
+GEOGRAPHICALLY ASSOCIATED SOILS:
+Dardry--on high terraces of mountain valley floors
+Melloe--on flood plains of mountain valley floors
+Rebarrow--on high terraces of mountain valley floors; thick mantle of volcanic ash
+
+DRAINAGE AND SATURATED HYDRAULIC CONDUCTIVITY:
+Saturation during normal years--none
+Flooding--none
+Ponding--none
+Saturated hydraulic conductivity (Ksat)--high, very high in the lower part
+
+USE AND VEGETATION:
+Use--timber production, watershed, wildlife, recreation, livestock grazing
+Potential native vegetation--grand fir, Douglas-fir, ponderosa pine, Douglas maple, Engelmann spruce, western larch, redosier dogwood, common snowberry, elk sedge, pinegrass, white spirea, blue wildrye, alder, stink currant, prickly currant, American vetch, largeleaf sandwort, low Oregon grape, heartleaf arnica, showy aster, tailcup lupine
+
+DISTRIBUTION AND EXTENT: Blue Mountains of northeastern Oregon; MLRA 10; small extent
+
+SOIL SURVEY REGIONAL OFFICE (SSRO) RESPONSIBLE: Portland, Oregon
+
+SERIES ESTABLISHED: Union County, Oregon; 2018
+
+REMARKS:
+Diagnostic horizons and other features recognized in this pedon
+*Mollic epipedon--zone from 8 to 135 cm
+*Particle-size control section--zone from 33 to 108 cm
+
+National Cooperative Soil Survey
+U.S.A.

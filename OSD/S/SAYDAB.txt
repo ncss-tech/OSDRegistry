@@ -1,0 +1,118 @@
+LOCATION SAYDAB                 WA
+
+Established Series
+Rev. JPE/TDT/KDPL/KH
+09/2019
+
+SAYDAB SERIES
+
+Landscape--mountains
+Landform--smooth summits, side slopes
+Slope--0 to 30 percent
+Parent material--volcanic ash and loess mixed with colluvium and residuum from basalt
+Mean annual precipitation--about 1000 mm
+Mean annual air temperature--about 5 degrees C
+Depth class--moderately deep
+Drainage class--moderately well drained
+Soil moisture regime--xeric
+Soil temperature regime--cryic
+Soil moisture subclass--oxyaquic
+
+TAXONOMIC CLASS: Ashy-skeletal, mixed Oxyaquic Vitricryands
+
+TYPICAL PEDON: Saydab cobbly ashy loam, forested (All textures are apparent field textures.)
+
+ Oe--0 to 3 cm; moderately decomposed forest litter
+
+ A1--3 to 8 cm; cobbly ashy loam, brown (10YR 5/3) dry, very dark grayish brown (10YR 3/2) moist; weak fine subangular blocky structure; soft, very friable, slightly sticky and slightly plastic; weakly smeary; few very fine roots; common very fine irregular pores; 10 percent gravel and 10 percent cobbles; NaF pH 9.5; moderately acid (pH 5.8); abrupt smooth boundary
+
+ A2--8 to 25 cm; gravelly ashy loam, brown (10YR 5/3) dry, very dark grayish brown (10YR 3/2) moist; weak fine subangular blocky structure; soft, very friable, slightly sticky and slightly plastic; weakly smeary; common very fine and few coarse roots; common very fine interstitial pores; 15 percent gravel; NaF pH 9.5; moderately acid (pH 5.6); clear smooth boundary
+
+ Bw1--25 to 43 cm; very gravelly ashy loam, yellowish brown (10YR 5/4) dry, dark brown (10YR 3/3) moist; weak medium subangular blocky structure; soft, very friable, slightly sticky and slightly plastic; weakly smeary; few fine, medium, and coarse roots; many very fine irregular pores; 30 percent gravel and 5 percent cobbles; few fine redoximorphic concentrations, light yellowish brown (10YR 6/4) and yellowish brown (10YR 5/6) moist; NaF pH 8.6; strongly acid (pH 5.5); clear smooth boundary
+
+ Bw2--43 to 69 cm; very cobbly ashy loam, light yellowish brown (10YR 6/4) dry, brown (10YR 4/3) moist; weak medium subangular blocky structure; soft, very friable, slightly sticky and slightly plastic; weakly smeary; few fine and medium and common very fine roots; many very fine irregular pores; 30 percent gravel and 25 percent cobbles; common fine distinct redoximorphic concentrations, brownish yellow (10YR 6/6) and brown (7.5YR 4/4) moist; NaF pH 8.5; strongly acid (pH 5.4); abrupt smooth boundary
+
+ R--69 cm; basalt
+
+TYPE LOCATION: Kittitas County, Washington, about 5 km northwest of Colockum Pass; about 410 m west and 490 m north of the southeast corner of section 15, T. 20 N., R. 20 E.; latitude 47.2236099, longitude -120.3066711, datum WGS 84 (coordinates estimated from section, township, and range)
+
+RANGE IN CHARACTERISTICS:
+Mean annual soil temperature--5 to 7 degrees C
+Soil moisture--usually moist, but dry 45 to 60 consecutive days following summer solstice
+Depth to lithic contact--50 to 100 cm
+Depth to redoximorphic concentrations--23 to 75 cm
+Thickness of umbric epipedon--25 to 50 cm
+
+Andic soil properties in particle-size control section
+*Moist bulk density--0.85 to 1.10 g/cm3
+*Volcanic glass content--20 to 30 percent
+*Acid oxalate aluminum plus one-half iron--1 to 2 percent
+*15-bar water retention (air-dried samples)--5 to 12 percent
+*Rock fragment content--35 to 60 percent
+
+Oe horizon
+Thickness--3 to 8 cm
+
+A horizon
+Hue--10YR, 7.5YR
+Value--4 or 5 dry, 2 or 3 moist
+Chroma--2 or 3 dry or moist
+Texture of A1 horizon--ashy loam, cobbly ashy loam, extremely stony ashy loam
+Texture of A2 horizon--gravelly ashy loam, gravelly ashy silt loam
+Rock fragment content (A1 and A2 combined)--0 to 65 percent
+Reaction--5.6 to 6.5
+Combined thickness--5 to 36 cm
+
+Bw horizon
+Hue--10YR, 7.5YR
+Value--5 to 7 dry, 3 or 4 moist
+Chroma--3 or 4 dry or moist
+Texture of fine-earth fraction--loam, silt loam
+Rock fragment content--15 to 60 percent
+Reaction--5.1 to 6.5
+Combined thickness--30 to 66 cm
+
+C horizon (where present)
+Value--5 to 7 dry, 3 or 4 moist
+Chroma--3 or 4 dry or moist
+
+COMPETING SERIES: None
+
+GEOGRAPHIC SETTING:
+Elevation--1675 to 2125 m
+Climate--dry summers, moist winters
+Mean annual precipitation--510 to 1275 mm
+Mean January air temperature--about -6 degrees C
+Mean July air temperature--about 16 degrees C
+Mean annual air temperature--about 4 to 6 degrees C
+Growing season (-2 degrees C)--80 to 170 days
+Frost-free season--65 to 100 days
+
+GEOGRAPHICALLY ASSOCIATED SOILS:
+Ganis--loamy particle-size class; 41 to 50 cm (shallow) to a lithic contact (basalt)
+Naxing--andic soil material to a depth of 100 cm or more; no lithic contact within a depth of more than 150 cm
+
+DRAINAGE AND SATURATED HYDRAULIC CONDUCTIVITY:
+Drainage class--moderately well drained
+Perched water table--uppermost limit in January through March
+Saturated hydraulic conductivity (Ksat)--moderately high
+
+USE AND VEGETATION:
+Use--livestock grazing, wildlife habitat, recreation, watershed
+Vegetation--lodgepole pine, subalpine fir, Engelmann spruce, western larch, elk sedge, polemonium, huckleberry
+
+DISTRIBUTION AND EXTENT: East slopes of Cascade Mountains in south-central Washington; MLRA 6; small extent
+
+SOIL SURVEY REGIONAL OFFICE (SSRO) RESPONSIBLE: Portland, Oregon
+
+SERIES ESTABLISHED: Yakima County, Washington; 1979
+
+REMARKS:
+Diagnostic horizons and other features recognized in this pedon
+*Umbric epipedon--zone from the mineral soil surface to a depth of 43 cm
+*Cambic horizon--zone from 43 to 69 cm
+*Depth to lithic contact--69 cm
+*Particle-size control section--zone from 3 to 69 cm; zone from 3 to 25 cm qualifies as ashy; zone from 25 to 69 qualifies as ashy-skeletal
+
+National Cooperative Soil Survey
+U.S.A.

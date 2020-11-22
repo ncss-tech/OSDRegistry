@@ -1,0 +1,122 @@
+LOCATION ICKSIX                 WA
+
+Established Series
+Rev. PNP/KDPL/SBC
+09/2019
+
+ICKSIX SERIES
+
+Landscape--mountains
+Landform--mountain slopes, benches
+Slope--2 to 80 percent
+Parent material--volcanic ash and colluvium derived from basalt and andesite
+Mean annual precipitation--about 1150 mm
+Mean annual air temperature--about 6 degrees C
+Depth class--very deep
+Drainage class--well drained
+Soil moisture regime--xeric
+Soil temperature regime--frigid
+Soil moisture subclass--typic
+
+TAXONOMIC CLASS: Ashy-skeletal, mixed, frigid Typic Vitrixerands
+
+TYPICAL PEDON: Icksix ashy fine sand in an area of forestland, on a 39-percent, northeast-facing slope at an elevation of 975 m (All textures are apparent field textures.)
+
+ Oi--0 to 5 cm; slightly decomposed forest litter; abrupt smooth boundary
+
+ C--5 to 10 cm; ashy fine sand (volcanic ash), gray (10YR 6/1) dry, very dark gray (10YR 3/1) moist; single grain; loose, nonsticky and nonplastic; many very fine and fine roots; many very fine irregular pores; slightly acid (pH 6.2); abrupt smooth boundary
+
+ A--10 to 23 cm; gravelly ashy sandy loam, pale brown (10YR 6/3) dry, brown (10YR 4/3) moist; single grain; soft, very friable, nonsticky and nonplastic; common very fine and fine and few medium roots; many very fine and fine irregular pores; 25 percent gravel and 5 percent cobbles; NaF pH 11.5; moderately acid (pH 6.0); gradual smooth boundary
+
+ AB--23 to 33 cm; very gravelly ashy loam, light yellowish brown (10YR 6/4) dry, dark yellowish brown (10YR 4/4) moist; weak medium granular structure; soft, very friable, nonsticky and nonplastic; common very fine, fine, and medium and few coarse roots; many very fine and fine irregular pores; 40 percent gravel and 15 percent cobbles; NaF pH 11.5; slightly acid (pH 6.2); gradual smooth boundary
+
+ Bw1--33 to 61 cm; very gravelly ashy sandy loam, light yellowish brown (10YR 6/4) dry, dark yellowish brown (10YR 4/4) moist; weak fine subangular blocky structure; soft, very friable, nonsticky and nonplastic; common very fine, fine, and medium roots; many very fine and fine irregular pores; 35 percent gravel, 15 percent cobbles, and 1 percent stones; NaF pH 11.5; slightly acid (pH 6.2); gradual smooth boundary
+
+ Bw2--61 to 91 cm; very cobbly ashy sandy loam, light yellowish brown (10YR 6/4) dry, brown (10YR 4/3) moist; weak fine and medium subangular blocky structure; soft, very friable, nonsticky and nonplastic; weakly smeary; common very fine and fine and few medium roots; many very fine and fine irregular pores; 30 percent gravel, 20 percent cobbles, and 2 percent stones; NaF pH 11.0; slightly acid (pH 6.2); gradual smooth boundary
+
+ Bw3--91 to 117 cm; extremely cobbly ashy fine sandy loam, light yellowish brown (10YR 6/4) dry, brown (10YR 4/3) moist; weak fine and medium subangular blocky structure; soft, very friable, nonsticky and nonplastic; weakly smeary; few very fine and fine roots; many very fine and fine irregular pores; 35 percent gravel, 20 percent cobbles, and 10 percent stones; NaF pH 11.0; slightly acid (pH 6.2); gradual smooth boundary
+
+ Bw4--117 to 157 cm; very cobbly ashy fine sandy loam, light yellowish brown (10YR 6/4) dry, brown (10YR 4/3) moist; moderate medium subangular blocky structure; soft, very friable, nonsticky and nonplastic; few very fine and fine roots; common very fine and fine irregular pores; 30 percent gravel, 20 percent cobbles, and 5 percent stones; NaF pH 11.0; slightly acid (pH 6.2)
+
+TYPE LOCATION: Yakima County, Washington, about 11 km west of Tieton Dam; about 140 m south and 45 m west of the northeast corner of section 1, T. 13 N., R. 12 E.; latitude 46.650002, longitude -121.263885, datum WGS 84 (coordinates estimated from original latitude and longitude in degrees, minutes, and seconds)
+
+RANGE IN CHARACTERISTICS:
+Mean annual soil temperature--6 to 7 degrees C
+Moisture control section--usually moist, but dry 45 to 60 consecutive days following summer solstice
+Rock fragment content in particle-size control section--40 to 55 percent total, 15 to 35 percent in upper part, 35 to 70 percent in lower part
+Pararock fragment content in particle-size control section--0 to 30 percent in lower part
+
+Andic soil properties
+*Thickness of andic soil material--76 to 100 cm or more
+*Moist bulk density--0.75 to 1.00 g/cm3
+*Glass content--10 to 30 percent
+*Acid oxalate aluminum plus one-half iron--1 to 3 percent
+*Phosphorus retention--40 to 55 percent
+*15-bar water retention--8 to 12 percent (air-dried samples)
+
+Oi horizon
+Thickness--1 to 5 cm
+
+C horizon
+Thickness--0 to 8 cm
+
+A horizon
+Value--4 to 6 dry, 2 to 4 moist
+Chroma--1 to 4 dry
+Rock fragment content--0 to 30 percent
+Thickness--10 to 20 cm
+
+AB horizon
+Thickness--0 to 15 cm
+
+Bw horizon
+Hue--7.5YR, 10YR
+Value--3 to 6 dry, 3 or 4 moist
+Chroma--1 to 4 moist
+Texture of fine-earth fraction--ashy fine sandy loam, ashy sandy loam
+Rock fragment content--35 to 80 percent
+Reaction--5.6 to 6.5
+Combined thickness--95 to 140 cm
+
+A BC horizon is below the Bw horizon in some pedons.
+
+COMPETING SERIES:
+Badgerflat--50 to 100 cm (moderately deep) to densic contact; dry more than 60 days
+Rivalier--50 to 100 cm (moderately deep) to a lithic contact (tuff); dry in moisture control section 75 to 90 consecutive days
+Sueredo--150 to 200 cm (very deep) to a densic contact; dry more than 60 days
+
+GEOGRAPHIC SETTING:
+Elevation--760 to 1375 m
+Mean annual precipitation--760 to 1275 mm
+Mean January air temperature--about -3 degrees C
+Mean July air temperature--about 18 degrees C
+Mean annual air temperature--6 to 7 degrees C
+Frost-free season--70 to 100 days
+
+GEOGRAPHICALLY ASSOCIATED SOILS:
+Tumac--on mountains; umbric epipedon
+Singh--on mountains; ashy over loamy-skeletal particle-size class
+Terence--on mountains; cryic soil temperature regime
+
+DRAINAGE AND SATURATED HYDRAULIC CONDUCTIVITY:
+Drainage class--well drained
+Saturated hydraulic conductivity (Ksat)--moderately high
+
+USE AND VEGETATION:
+Use--timber production, wildlife habitat, recreation
+Native vegetation--grand fir, Douglas-fir, western larch, elk sedge, vanillaleaf, twinflower, pinegrass, Cascade Oregon grape
+
+DISTRIBUTION AND EXTENT: Eastern slopes of the Cascade Mountains in Yakima County, Washington; MLRAs 6 and 8; small extent
+
+SOIL SURVEY REGIONAL OFFICE (SSRO) RESPONSIBLE: Portland, Oregon
+
+SERIES ESTABLISHED: Wenatchee National Forest, Yakima County, Washington; 2003
+
+REMARKS:
+Diagnostic horizons and other features recognized in this pedon
+*Andic soil properties--zone from 5 to 107 cm
+*Ochric epipedon
+*Cambic horizon--zone from 33 to 157 cm
+
+National Cooperative Soil Survey
+U.S.A.

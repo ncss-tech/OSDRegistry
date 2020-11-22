@@ -1,0 +1,139 @@
+LOCATION YANERT                 AK
+
+Established Series
+JDP/DJM/TJR
+04/2020
+
+YANERT SERIES
+
+Landscape--alluvial plains
+Landform--swales on stream terraces
+Slope--0 to 2 percent
+Parent material--alluvium
+Mean annual precipitation--about 255 mm
+Mean annual air temperature--about -6 degrees C
+Depth class--very deep
+Drainage class--very poorly drained
+Soil moisture regime--aquic
+Soil temperature regime--gelic
+Soil moisture subclass--typic
+
+TAXONOMIC CLASS: Coarse-silty, mixed, superactive, calcareous, subgelic Typic Aquiturbels
+
+TYPICAL PEDON: Yanert silt loam on a scrubland swale with a slope of 0 percent and an elevation of 105 m (The soil was wet throughout when described on August 26, 2015.)
+
+ Oe--0 to 7 cm; mucky peat; common very fine, fine, and medium roots; neutral (pH 7.0)
+
+ A--7 to 10 cm; silt loam; gray (2.5Y 5/1) dry, very dark gray (2.5Y 3/1) moist; weak, coarse subangular blocky structure; slightly hard, friable; common very fine, fine, and medium roots; common fine and medium pores; slightly effervescent; slightly alkaline (pH 7.5)
+
+ Cg1--10 to 25 cm; silt loam; light gray (2.5Y 7/2) dry, grayish brown (2.5Y 5/2) moist; massive; slightly hard, friable; common very fine and fine roots; few fine and medium pores; 20 percent grayish brown (2.5Y 5/2) moist, iron depletions in matrix; slightly effervescent; slightly alkaline (pH 7.5)
+
+ Cg2--25 to 70 cm; silt loam; light gray (2.5Y 7/2) dry, grayish brown (2.5Y 5/2) moist; massive; slightly hard, friable; few fine pores; 15 percent irregular grayish brown (2.5Y 5/2) moist, iron depletions in matrix; slightly effervescent; slightly alkaline (pH 7.5)
+
+ Cjjgf--70 to 100 cm; permanently frozen silt loam; light gray (2.5Y 7/2) dry, grayish brown (2.5Y 5/2) moist; massive; slightly hard, friable; 20 percent grayish brown (2.5Y 5/2) moist, iron depletions in matrix; slightly effervescent; slightly alkaline (pH 7.5)
+
+TYPE LOCATION: Yukon-Koyukuk Census Area, Alaska; latitude 66.3091700 degrees, longitude -148.1386700 degrees, datum WGS84 (coordinates determined with a GPS)
+
+RANGE IN CHARACTERISTICS:
+Mean annual soil temperature-- -4 to 1 degrees C
+Depth to permafrost--50 to 90 cm
+Depth to redoximorphic features--0 to 25 cm
+Other features--cryoturbation within 150 cm
+
+Oe horizon
+Thickness--5 to 15 cm
+Reaction--6.0 to 8.0
+
+Oa horizon (where present)
+Thickness--5 to 15 cm
+Reaction--6.0 to 8.0
+
+A horizon
+Hue--10YR, 2.5Y
+Value--2 or 3 moist, 4 or 5 dry
+Chroma--1 or 2 moist
+Fine-earth texture--silt loam, very fine sandy loam, silt
+Clay content--0 to 18 percent
+Reaction--6.0 to 8.0
+Effervescence--none to strong
+Thickness--1 to 10 cm
+
+AC horizon (where present)
+Hue--10YR, 2.5Y
+Value--2 or 3 moist, 4 or 5 dry
+Chroma--1 or 2 moist
+Fine-earth texture--silt loam, very fine sandy loam, silt
+Clay content--0 to 18 percent
+Reaction--6.0 to 8.0
+Effervescence--none to strong
+Thickness--1 to 10 cm
+
+
+Cg1, Cg2, and Cgjjf horizons
+Value--3 to 5 moist, 5 to 7 dry
+Chroma--1 or 2 moist
+Fine-earth texture--silt loam, very fine sandy loam, silt
+Clay content--0 to 18 percent
+Reaction--6.0 to 8.0
+Effervescence--none to strong
+Combined thickness--125 to 145 cm
+
+Cgf horizon (where present)
+Value--3 to 5 moist, 5 to 7 dry
+Chroma--1 or 2 moist
+Fine-earth texture--silt loam, very fine sandy loam, silt
+Clay content--0 to 18 percent
+Reaction--6.0 to 8.0
+Effervescence--none to strong
+Thickness--125 to 145 cm
+
+COMPETING SERIES: 
+Browne--noncalcareous; reaction does not range above neutral in any horizon
+Chatanika--noncalcareous; reaction does not range above neutral in any horizon
+
+GEOGRAPHIC SETTING:
+Elevation--90 to 300 m
+Climate--short, warm summers and long, very cold winters
+Mean annual precipitation--210 to 310 mm
+Mean annual air temperature-- -12 to 0 degrees C
+Frost-free period--45 to 97 days
+
+GEOGRAPHICALLY ASSOCIATED SOILS:
+Tlozhavun--no aquic conditions within 150 cm; higher positions on similar landforms
+Tajittro--aquic conditions within 100 cm; higher positions on similar landforms
+Nuntragut--aquic conditions within 100 cm; higher positions on similar landforms
+Gushdoiman--aquic conditions within 25 cm; adjacent depressions on similar landforms
+Twin--aquic conditions within 25 cm with rare flooding; higher positions on similar landforms
+Sussaymin--aquic conditions within 25 cm; adjacent bogs on similar landforms
+
+DRAINAGE AND SATURATED HYDRAULIC CONDUCTIVITY:
+Drainage class--very poorly drained
+Saturation in normal years--water table top depth between a depth of 0 to 25 cm in May and June, and saturated below a depth of 25 cm throughout the rest of the year
+Flooding--none
+Ponding--frequent, very long
+Saturated hydraulic conductivity (Ksat)--high throughout
+
+USE AND VEGETATION:
+Use--wildlife habitat, subsistence, recreation
+Potential natural vegetation--white spruce, scrub birch, tealeaf willow, grayleaf willow, littletree willow, shrubby cinquefoil, water sedge, Bigelow's sedge, tussock cottongrass, bluejoint, slimstem reedgrass
+
+DISTRIBUTION AND EXTENT: Yukon Flats Lowlands, Alaska; MLRA 232; moderate extent
+
+SOIL SURVEY REGIONAL OFFICE (SSRO) RESPONSIBLE: Portland, Oregon
+
+SERIES ESTABLISHED: Yukon Flats National Wildlife Refuge, Yukon-Koyukuk Census Area, Alaska; 2020
+
+REMARKS:
+Diagnostic horizons and other features in this pedon
+*Particle-size control section--zone from 32 to 107 cm
+*Ochric epipedon
+*Redoximorphic iron depletions with chroma of 2 or less--Cg1, Cg2, and Cgjjf horizons
+*Reduced matrix--Cg1, Cg2, and Cgjjf horizons
+*Aquic conditions--Cg1, Cg2, and Cgjjf horizons
+*Permafrost--Cgjjf horizon
+*Cryoturbation--Cgjjf horizon
+All horizons within 25 cm of the mineral soil surface must effervesce to meet the calcareous class.
+
+
+National Cooperative Soil Survey
+U.S.A.

@@ -1,0 +1,125 @@
+LOCATION EASTLAKESBASIN         OR
+
+Established Series
+IRD. RJO/DAL/KMS
+11/2018
+
+EASTLAKESBASIN SERIES
+
+Landscape--mountains 
+Landform--mountain slopes 
+Slope--0 to 90 percent 
+Parent material--colluvium derived from basalt mixed with loess and an influence of volcanic ash throughout 
+Mean annual precipitation--about 1150 mm 
+Mean annual air temperature--about 1 degree C 
+Depth class--shallow to lithic bedrock
+Drainage class--well drained 
+Soil moisture regime--xeric 
+Soil temperature regime--cryic 
+Soil moisture subclass--typic
+
+TAXONOMIC CLASS: Loamy-skeletal, isotic Lithic Humicryepts
+
+TYPICAL PEDON: Eastlakesbasin very gravelly ashy silt loam in an area of rangeland, on an 18-percent, convex, east-facing summit at an elevation of 2425 m
+
+ A--0 to 18 cm; very gravelly ashy silt loam, brown (7.5YR 4/3) dry, very dark brown (7.5YR 2.5/3) moist; weak very fine subangular blocky structure; soft, very friable, nonsticky and nonplastic; many very fine and fine and few medium roots; common very fine irregular pores; 45 percent gravel, 5 percent cobbles, and 5 percent stones; slightly acid (pH 6.1); clear wavy boundary
+
+ AB--18 to 30 cm; extremely gravelly ashy silt loam, brown (7.5YR 4/3) dry, very dark brown (7.5YR 2.5/3) moist; weak very fine subangular blocky structure; soft, very friable, nonsticky and nonplastic; common very fine and fine and few medium and coarse roots; common very fine irregular pores; 50 percent gravel, 15 percent cobbles, and 10 percent stones; moderately acid (pH 5.6); abrupt irregular boundary
+
+ R--30 cm; metavolcanic rock
+
+TYPE LOCATION: Wallowa County, Oregon; in the NW1/4SW1/4SE1/4 of section 27, T. 3 S., R. 45 E.; Joseph U.S. Geological Survey quadrangle; latitude 45.2672805, longitude -117.1732962, datum WGS 84 (coordinates estimated from pin prick on hard copy map)
+
+RANGE IN CHARACTERISTICS:
+Mean annual soil temperature--0 to 3 degrees C
+Mean summer soil temperature--4 to 7 degrees C
+Mean winter soil temperature--  -4 to -1 degree C
+Soil moisture--dry 45 to 60 consecutive days in summer
+Thickness of umbric epipedon--25 to 50 cm
+Depth to lithic contact--25 to 50 cm
+
+Estimated properties of layers influenced by volcanic ash
+*Ammonium oxalate extractable Al + 1/2 Fe--0.7 to 1.0 percent 
+*Glass content in 0.02- to 2.0-mm fraction--5 to 25 percent 
+*Phosphate retention--60 to 70 percent 
+*15-bar water retention--10 to 15 percent (dried samples) 
+
+Particle-size control section
+*Clay content--5 to 15 percent 
+*Total rock fragment content--60 to 85 percent
+
+A horizon
+Moist color--7.5YR 2.5/2, 7.5YR 2.5/3, 7.5YR 3/3, 10YR 3/3
+Dry color--7.5YR 4/2, 7.5YR 4/3, 10YR 4/3
+Fine-earth texture--ashy loam, ashy silt loam, ashy sandy loam
+Clay content--2 to 15 percent 
+Sand content--35 to 65 percent 
+Organic matter content--2 to 8 percent 
+Total rock fragment content--45 to 70 percent 
+Gravel content--25 to 60 percent 
+Cobble content--0 to 15 percent 
+Stone content--0 to 15 percent 
+Reaction--5.6 to 6.5
+Thickness--8 to 30 cm
+
+AB horizon
+Moist color--7.5YR 2.5/3, 7.5YR 3/3, 10YR 3/3
+Dry color--7.5YR 4/3, 10YR 3/4, 10YR 4/3, 10YR 5/3
+Fine-earth texture--ashy loam, ashy silt loam, ashy sandy loam
+Clay content--4 to 12 percent 
+Sand content--30 to 55 percent 
+Organic matter content--1 to 5 percent 
+Total rock fragment content--65 to 70 percent 
+Gravel content--40 to 75 percent 
+Cobble content--0 to 20 percent 
+Stone content--0 to 15 percent 
+Reaction--5.6 to 6.5
+Thickness--13 to 35 cm
+
+COMPETING SERIES:
+Burgerbutte--formed in colluvium derived from basalt
+Crawfish--very shallow (10 to 25 cm) to lithic contact; formed in colluvium and residuum derived from basalt or andesitic basalt
+Goodnews--no volcanic glass
+Snowtell--very shallow (10 to 25 cm) to lithic contact; formed in reworked till derived from volcanic rock; no cambic horizon; xeric soil moisture regime; 60 to 75 consecutive dry days
+Telluride--no volcanic ash
+
+GEOGRAPHIC SETTING:
+Elevation--1610 to 2480 m 
+Climate--cold, wet winters; cool, moist summers
+Mean annual precipitation--730 to 1680 mm
+Mean annual air temperature--about 0 to 4 degrees C
+Frost free period--15 to 40 days
+
+GEOGRAPHICALLY ASSOCIATED SOILS:
+Angelpeak--on concave to planar backslopes; under closed-canopy subalpine fir forest; volcanic ash mantle; deep to bedrock
+Bordengulch--on concave or planar backslopes; under closed-canopy subalpine fir forest; thin volcanic ash mantle; moderately deep
+Clarkscreek--on planar to convex glaciated backslopes; under grassland and scattered forested areas; mixed volcanic ash mantle; moderately deep to bedrock
+Fruitcreek (T)--on planar backslopes; under mountain shrub and widely scattered forested areas; minor influence of volcanic ash; moderately deep to bedrock
+Towermountain (T)--on planar or concave backslopes and in basins; under closed-canopy subalpine fir forest; volcanic ash mantle; moderately deep to bedrock
+
+DRAINAGE AND SATURATED HYDRAULIC CONDUCTIVITY:
+Saturation during normal years--none 
+Flooding--none
+Ponding--none
+Saturated hydraulic conductivity (Ksat)--moderately high or high
+
+USE AND VEGETATION:
+Use--watershed, recreation, timber production, wildlife habitat
+Native vegetation--greenleaf fescue, lupine, grand fir, Engelmann spruce, western larch, Douglas-fir, western needlegrass, white hawkweed, aster, weevil microseris, big huckleberry, grouse huckleberry, common yarrow, mountain big sagebrush, northern twinflower, Idaho fescue, singleleaf pinyon, bluebunch wheatgrass, bearded wheatgrass, Hood sedge, Ross' sedge, heartleaf arnica, Sandberg bluegrass, elk sedge, pinegrass, baldhip rose, Columbia brome, northwestern sedge, prince's pine
+
+DISRIBUTION AND EXTENT: Wallowa and Blue Mountains of northeastern Oregon; MLRA 10; small extent
+
+SOIL SURVEY REGIONAL OFFICE (SSRO) RESPONSIBLE: Portland, Oregon
+
+SERIES ESTABLISHED: Wallowa-Whitman National Forest, Oregon; 2018
+
+REMARKS:
+Diagnostic horizons and other features recognized in this pedon
+*Umbric epipedon--zone from the surface to a depth of 30 cm
+*Volcanic glass--zone from the surface to a depth of 30 cm
+*Particle-size control section--zone from the surface to a depth of 30 cm
+*High base saturation (eutric)--zone from 8 to 30 cm
+
+
+National Cooperative Soil Survey
+U.S.A.

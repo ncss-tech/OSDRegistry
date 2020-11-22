@@ -1,0 +1,111 @@
+LOCATION YASUDA                 AK
+
+Established Series
+JDP/DJM/TJR
+04/2020
+
+YASUDA SERIES
+
+Landscape--alluvial plains
+Landform--depressions on stream terraces
+Slope--0 to 3 percent
+Parent material--alluvium
+Mean annual precipitation--about 255 mm
+Mean annual air temperature--about -6 degrees C
+Depth class--very deep
+Drainage class--very poorly drained
+Soil moisture regime--aquic
+Soil temperature regime--cryic
+Soil moisture subclass--typic
+
+TAXONOMIC CLASS: Coarse-silty, mixed, superactive, calcareous Typic Halaquepts
+
+TYPICAL PEDON: Yasuda silt loam on a grassland terrace depression with a slope of 1 percent and an elevation of 110 m (The soil was moist throughout when described on August 28, 2015.)
+
+ Oe--0 to 7 cm; mucky peat; few very fine, fine and medium roots; strongly alkaline (pH 8.5); clear smooth boundary
+
+ Bng1--7 to 28 cm; silt loam; light gray (5Y 7/2) dry, olive gray (5Y 5/2) moist; massive; slightly hard, friable, slightly sticky and slightly plastic; few very fine, fine, and medium roots; few fine and medium pores; 15 percent strong brown (7.5YR 4/6) moist, masses of oxidized iron in matrix and 20 percent gray (N 5/) moist, iron depletions in matrix; strongly effervescent; strongly alkaline (pH 8.9); clear smooth boundary
+
+ Bng2--28 to 43 cm; very fine sandy loam; gray (N 6/) dry, dark gray (N 4/) moist; massive; soft, very friable, nonsticky and nonplastic; few very fine and fine roots; few fine and medium pores; 15 percent strong brown (7.5YR 4/6) moist, masses of oxidized iron in matrix; strongly effervescent; strongly alkaline (pH 8.7); clear smooth boundary
+
+ Bng3--43 to 150 cm; very fine sandy loam; light gray (N 7/) dry, gray (N 5/) moist; massive; soft, very friable, nonsticky and nonplastic; slightly effervescent; moderately alkaline (pH 8.4)
+
+TYPE LOCATION: Yukon-Koyukuk Census Area, Alaska; latitude 66.3829700 degrees, longitude -147.6571000 degrees, datum WGS84 (coordinates determined with a GPS)
+
+RANGE IN CHARACTERISTICS:
+Mean annual soil temperature--0.5 to 2.5 degrees C
+Depth to redoximorphic features--0 to 25 cm
+Other features--exchangeable sodium percentage of 15 or more in 50 percent of the layers between the mineral soil surface and a depth of 50 cm
+
+Oe horizon
+Thickness--5 to 15 cm
+Reaction--6.5 to 9.0
+
+A horizon (where present)
+Hue--10YR, 2.5Y
+Value--2 to 5 moist, 4 to 7 dry
+Chroma--1 or 2 moist
+Fine-earth texture--silt loam, very fine sandy loam, loam
+Clay content--0 to 18 percent
+Reaction--7.5 to 9.0
+Effervescence--slight to violent
+Thickness--2 to 15 cm
+
+Bng1, Bng2, and Bng3 horizons
+Hue--N, 5Y, 2.5Y
+Value--3 to 5 moist, 4 to 7 dry
+Chroma--0 to 2 moist
+Fine-earth texture--silt loam, very fine sandy loam, silt
+Clay content--0 to 18 percent
+Reaction--7.5 to 9.0
+Effervescence--slight to violent
+Combined thickness--120 to 145 cm
+
+COMPETING SERIES: 
+None
+
+GEOGRAPHIC SETTING:
+Elevation--90 to 300 m
+Climate--short, warm summers and long, very cold winters
+Mean annual precipitation--210 to 310 mm
+Mean annual air temperature-- -12 to 0 degrees C
+Frost-free period--45 to 97 days
+
+GEOGRAPHICALLY ASSOCIATED SOILS:
+Pitka--aquic conditions within 25 cm with occasional ponding; depression edges on similar landforms
+Tlozhavun--no aquic conditions within 150 cm; higher positions on similar landforms
+Tajittro--aquic conditions within 100 cm; higher positions on similar landforms
+Gwichin--aquic conditions within 100 cm with rare flooding; higher positions on similar landforms
+Nuntragut--aquic conditions within 100 cm with rare flooding; higher positions on similar landforms
+
+DRAINAGE AND SATURATED HYDRAULIC CONDUCTIVITY:
+Drainage class--very poorly drained
+Saturation in normal years--water table top depth between a depth of 0 to 25 cm in June, saturated below a depth of 25 cm throughout the rest of the year
+Flooding--none
+Ponding--frequent, brief and long
+Saturated hydraulic conductivity (Ksat)--high throughout
+
+USE AND VEGETATION:
+Use--wildlife habitat, subsistence, recreation
+Potential natural vegetation--slimstem reedgrass, foxtail barley, arctic rush, slender wheatgrass, Nuttall's alkaligrass, bluejoint, water sedge, wheat sedge, common yarrow, great burnet, largeleaf avens, marsh felwort, redwool plantain, silvery primrose, northern bog aster
+
+DISTRIBUTION AND EXTENT: Yukon Flats Lowlands, Alaska; MLRA 232; moderate extent
+
+SOIL SURVEY REGIONAL OFFICE (SSRO) RESPONSIBLE: Portland, Oregon
+
+SERIES ESTABLISHED: Yukon Flats National Wildlife Refuge, Yukon-Koyukuk Census Area, Alaska; 2020
+
+REMARKS:
+Diagnostic horizons and other features in this pedon
+*Particle-size control section--zone from 32 to 107 cm
+*Ochric epipedon
+*Redoximorphic iron concentrations--Bng1 and Bng2 horizons
+*Redoximorphic iron depletions with chroma of 2 or less--Bng1 horizon
+*Reduced matrix--Bng1, Bng2, Bng3 horizons
+*Aquic conditions--Bng1, Bng2, Bng3 horizons
+At least one horizon between 20 to 50 cm depth must have less than 8 percent clay, or have an n value of 0.7 or less.
+Exchangeable sodium percentage of 15 or more in Bng1 and Bng2 horizons are inferred from reaction over 8.5 and lab data from similar pedons; see user pedon IDs S2014AK290010, S2014AK2903052, and S2015AK290009 in the NCSS database for supporting chemical data.
+
+
+National Cooperative Soil Survey
+U.S.A.

@@ -1,0 +1,163 @@
+LOCATION VICI                   OK+KS TX
+
+Established Series
+SLM-CPH
+09/2018
+
+VICI SERIES
+
+The Vici series consists of very deep, excessively drained, rapidly permeable soils that formed in sandy eolian deposits derived from sandy alluvium from the Laverne Member, Ogallala Formation of Miocene-Pliocene age.  These soils are on undulating to rolling dunes and sandsheets emplaced over hillslopes of the Southern High Plains, Breaks (MLRA 77E).  Slope ranges from 0 to 15 percent.  Mean annual precipitation is about 530 mm (21 in), and mean annual temperature is about 15 degrees C (59 degrees F).
+
+TAXONOMIC CLASS: Mixed, thermic Psammentic Haplustalfs
+
+TYPICAL PEDON:  Vici sand--on a 2 percent convex slope in improved pasture rangeland at approximately 735 m (2411 ft) elevation.
+     (Colors are for dry soil unless otherwise stated.)
+
+    Ap--0 to 25 cm (0 to 10 in); brown (10YR 5/3) sand, brown (10YR 4/3), moist; weak fine granular structure; soft, very friable; common fine and few medium roots; 4 percent nonflat rounded indurated 2 to 5 mm Quartzite fragments; noneffervescent; strongly acid (pH 5.3); clear smooth boundary.  (Thickness is 13 to 56 cm (5 to 22 in)
+
+    Bt--25 to 59 cm (10 to 23 in); brown (7.5YR 5/4) loamy sand, brown (7.5YR 4/4), moist; weak medium subangular blocky parts to weak fine subangular blocky structure; soft, very friable; few fine roots; few faint clay films on vertical faces of peds; noneffervescent; moderately acid (pH 5.6); gradual smooth boundary. (Combined thickness of the Bt horizons is 23 to 135 cm [9 to 53 in])
+
+    C1--59 to 113 cm (23 to 45 in); brownish yellow (10YR 6/6) sand, yellowish brown (10YR 5/6), moist; structureless single grain; loose, loose; very few fine roots; noneffervescent; slightly acid (pH 6.1); gradual smooth boundary. 
+
+    C2--113 to 180 cm (45 to 63 in); brownish yellow (10YR 6/8) sand, yellowish brown (10YR 5/8), moist; 90 percent sand; 2 percent clay; structureless single grain; loose, loose; noneffervescent; neutral (pH 6.8).
+
+TYPE LOCATION:  
+Roger Mills County, Oklahoma; From the intersection of Oklahoma Highway 33 and Oklahoma Highway 30; 1750 ft (533 m) west and 725 ft (221 m) south of the northeast corner of Section 2, Township 15N, Range 26W (Indian meridian).
+
+USGS topographic quadrangle: Mutual, Oklahoma
+Latitude: 35 degrees 48 minutes 39.85 seconds N
+Longitude: 99 degrees 55 minutes 53.43 seconds W
+Datum WGS84
+
+Decimal Degrees
+  Latitude: 35.8110705
+  Longitude: -99.9315079
+
+UTM Northing: 3963394
+UTM Easting:   415844
+UTM zone 14S
+
+RANGE IN CHARACTERISTICS:
+Soil moisture: An ustic moisture regime bordering on aridic. The soil moisture control section is dry in some or all parts for more than 180 but less than 220 days, cumulative, in normal years.
+Solum thickness: 41 to more than 152 cm (16 to more than 60 in)
+Thickness of ochric epipedon: 13 to 56 cm (5 to 22 in)
+Thickness of the argillic horizon: 23 to 135 cm (9 to 53 in)
+Depth to Lithologic discontinuity (where present): typically more than 102 cm (40 in) but ranges up to 71 cm (28 in)
+Surface fragments: 0 to 5 percent; fine and medium gravel; rounded or subrounded indurated quartzite
+
+Particle-size control section (weighted average):  
+  Total clay content: 5 to 13 percent 
+  Silicate clay content: 5 to 13 percent
+  Total sand content: 75 to 90 percent
+
+A, or Ap horizons:
+Hue: 7.5YR, 10YR
+Value: 4 or 5, 3 or 4 moist
+Chroma: 2 to 4 moist or dry
+Texture: sand, fine sand, loamy fine sand, loamy sand
+Total clay content: 2 to 6 percent 
+Rock fragments: 0 to 5 percent; fine gravel; rounded or subrounded indurated quartzite
+Effervescence: none
+Reaction (pH): strongly acid to slightly acid (5.1-6.5)
+
+Bt horizons:
+Hue: 7.5YR, 10YR
+Value: 4 or 5, 3 or 4 moist
+Chroma: 2 to 6 moist or dry
+Texture: sand, loamy sand, loamy fine sand that contains more than 3 percent (absolute) clay than the A horizon
+Total clay content: 5 to 13 percent 
+Rock fragments: 0 to 5 percent; fine gravel; rounded or subrounded indurated quartzite
+Effervescence: none
+Reaction (pH): strongly acid to slightly acid (5.1-6.5)
+
+BC horizons (where present):
+Depth to top of horizon: 80 to 188 cm (32 to 74 in)
+Thickness: 18 to 81 cm (7 to 32 in)
+Hue: 7.5YR, 10YR
+Value: 5 to 7, 4 to 6 moist
+Chroma: 4 to 8 moist or dry
+Texture: sand, fine sand, loamy fine sand, loamy sand
+Total clay content: 1 to 6 percent 
+Rock fragments: 0 to 5 percent; fine gravel; rounded or subrounded indurated quartzite
+Effervescence: none 
+Reaction (pH): slightly acid to neutral (6.1-7.3)
+
+C horizons:
+Hue: 7.5YR, 10YR
+Value: 5 to 7, 4 to 6 moist
+Chroma: 4 to 8 moist or dry
+Texture: sand, fine sand, loamy fine sand, loamy sand
+Total clay content: 1 to 6 percent 
+Rock fragments: 0 to 5 percent; fine gravel; rounded or subrounded indurated quartzite
+Effervescence: none 
+Reaction (pH): slightly acid to neutral (6.1-7.3)
+
+2B and 2C horizons (where present):
+Hue: 7.5YR, 10YR
+Value: 5 to 7, 4 to 6 moist
+Chroma: 2 to 6 moist or dry
+Texture: sand, fine sand, loamy sand, fine sandy loam, sandy loam, sandy clay loam, or clay
+Rock fragments: 0 to 5 percent; fine gravel; rounded or subrounded indurated quartzite
+Visible secondary calcium carbonates: 0 to 5 percent; masses and nodules
+Calcium carbonate equivalent:  0 to 5 percent
+Effervescence: none to slight 
+Reaction (pH): slightly acid to slightly alkaline (6.1-7.8)
+
+COMPETING SERIES: 
+There are no other series in the same family. Similar soils are the Eda, Derby, Pratt, and Turon series.
+Eda and Derby soils: have lamellae in their B horizons, but do not qualify as an argillic horizon, and occur in a more moist climeate.
+Pratt and Turon soils: have sandy argillic horizons formed from lamellae and occur in a mesic temp regime.
+
+GEOGRAPHIC SETTING:
+Parent Material: Sandy eolian sediments derived from the Laverne Member of the Ogallala Formation of Miocene-Pliocene age.
+Landscape: Dissected high plains
+Landform: summit, shoulder, and backslopes of dunes and sandsheets
+Slope: 0 to 15 percent
+Precipitation Pattern: These soils are intermittently moist in September through November and March through June. July through August and December through February are the driest months. 
+Mean annual precipitation: 508 to 660 mm (20 to 26 in)
+Thornthwaite annual P-E Index: 32 to 40
+Mean annual air temperature: 13.3 to 15.0 degrees C (56 to 59 degrees F)
+Frost-free period: 180 to 210 days
+Elevation: 609.6 to 914.4 m (2,000 to 3,000 ft)
+
+GEOGRAPHICALLY ASSOCIATED SOILS: 
+These are the Ady, Delwin, Dreyfoos, Lipscomb(T), and Nobscot series.
+Ady and Delwin soils: occur on slightly lower positions and have a fine-loamy argillic horizon.
+Lipscomb soils: occur on similar positions and have a coarse-loamy argillic horizon
+Dreyfoos soils: occur on larger dunes and do not have a diagnostic argillic horizon.
+Nobscot soils: occur on adjacent areas with cover sands more than 50 cm (20 in) thick over a coarse-loamy argillic horizon.
+
+DRAINAGE AND PERMEABILITY:
+Drainage class: somewhat excessively
+Permeability class: rapid
+Runoff: negligible on 0 to 5 percent slopes, and very low on 5 to 15 percent slopes
+
+USE AND VEGETATION:
+Steeper sloping areas are mainly used for rangeland and less sloping areas are sometimes cultivated to wheat, grain sorghum, or hay. 
+Native vegetation is predominantly, little bluestem, purple threeawn silver bluestem, side oats grama, sand bluestem, blue grama, and broom snakeweed. Sand Sagebrush is the major woody species along with lesser amounts of Chickasaw sandplum and yucca.
+Ecological sites assigned to phases and components of this series are listed below. Current ecological site assignments are in Web Soil Survey. Components of this series include the following ecological sites: Sandy 16-24"PZ
+
+DISTRIBUTION AND EXTENT:
+General area: Texas and Oklahoma Panhandles, northwestern Oklahoma and southwestern Kansas
+Land Resource Region: H - Central Great Plains Winter Wheat and Range Region
+MLRA 77E - Southern High Plains, Breaks
+Extent: Moderate
+
+MLRA SOIL SURVEY REGIONAL OFFICE (MO) RESPONSIBLE:  Temple, Texas
+
+SERIES ESTABLISHED:  Dewey, Ellis, Roger Mills, and Woodward Counties, OK 2018 during the "MLRA 77E - Pratt (Eda) loamy fine sand, 0 to 3 percent slopes" project. The name of the series is from a community in Dewey County, OK. The series name is pronounced using the long "I" for both vowels, as used in pronouncing the words high or sigh (i.e. "Vigh-Sigh").
+
+REMARKS:
+These soils were formerly included in the Pratt and Eda series.
+
+Diagnostic horizons and features in this pedon are:
+  Particle-size control section: 25 to 59 cm (10 to 23 in) (Bt horizon)
+  Ochric epipedon: 0 to 25 cm (0 to 10 in) (Ap horizon)
+  Argillic horizon: 25 to 59 cm (10 to 23 in) (Bt horizon)
+
+ADDITIONAL DATA:  None
+
+Taxonomic Version:  Keys to Soil Taxonomy, Twelfth Edition, 2014.
+
+National Cooperative Soil Survey
+U.S.A.

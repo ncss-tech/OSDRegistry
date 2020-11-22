@@ -1,0 +1,160 @@
+LOCATION FERNVIEW               OR
+
+Tentative Series
+DRJ/KMS
+01/2017
+
+FERNVIEW SERIES
+
+Landscape--western Cascade Mountains
+Landform--glacially influenced structural benches
+Slope--0 to 30 percent
+Parent material--colluvium derived from hard extrusive igneous rock mixed with till and volcanic ash throughout
+Mean annual precipitation--about 2100 mm
+Mean annual air temperature--about 7 degrees C
+Depth class--very deep
+Drainage class--well drained
+Soil moisture regime--udic
+Soil temperature regime--frigid
+Soil moisture subclass--typic
+
+TAXONOMIC CLASS: Medial-skeletal, amorphic, frigid Humic Udivitrands
+
+TYPICAL PEDON: Fernview gravelly medial loam on a forested, 55-percent slope at an elevation of 1065 m
+
+ Oi--0 to 13 cm; slightly decomposed plant material; abrupt wavy boundary
+
+ A--13 to 50 cm; very gravelly medial loam, brown (7.5YR 5/2) dry, dark brown (7.5YR 3/2) moist; moderate medium granular structure; loose, very friable, nonsticky and nonplastic; 30 percent andesite gravel, 5 percent andesite cobbles, and 1 percent andesite stones; strongly acid (pH 5.2); gradual wavy boundary
+
+ AB--50 to 80 cm; very gravelly medial sandy loam, brown (7.5YR 5/3) dry, dark brown (7.5YR 3/3) moist; moderate medium granular structure; loose, very friable, nonsticky and nonplastic; 30 percent andesite gravel, 10 percent andesite cobbles, and 1 percent andesite stones; strongly acid (pH 5.5); abrupt wavy boundary
+
+ Bw1--80 to 115 cm; very gravelly medial loam, brown (7.5YR 5/4) dry, dark brown (7.5YR 3/4) moist; moderate fine subangular blocky structure; soft, very friable, nonsticky and nonplastic; 25 percent andesite gravel and 15 percent andesite cobbles; moderately acid (pH 5.6); gradual wavy boundary
+
+ Bw2--115 to 140 cm; very cobbly medial loam, brown (7.5YR 5/4) dry, dark brown (7.5YR 3/4) moist; moderate fine subangular blocky structure; soft, very friable, nonsticky and nonplastic; 25 percent andesite gravel and 20 percent andesite cobbles; moderately acid (pH 5.7); clear wavy boundary
+
+ BC--140 to 200 cm; very cobbly medial loam, brown (7.5YR 5/3) dry, dark brown (7.5YR 3/3) moist; weak fine subangular blocky structure; soft, very friable, nonsticky and nonplastic; 25 percent andesite gravel and 15 percent andesite cobbles, moderately acid (pH 5.9)
+
+TYPE LOCATION: Linn County, Oregon, about 45 km from Sweet Home; about 760 m west and 245 m south of the northeast corner of section 1, T. 14 S., R. 5 E.; latitude 44.386583 degrees, longitude -122.157833 degrees, datum WGS 84 (coordinates determined with a GPS)
+
+RANGE IN CHARACTERISTICS:
+Dry days--less than 45 consecutive days following summer solstice
+Mean annual soil temperature--5 to 7 degrees C
+Thickness of umbric epipedon--25 to 100 cm (below mineral soil surface)
+Thickness of andic soil properties--greater than 200 cm (below mineral soil surface)
+
+Estimated properties of layers with andic soil properties
+*1/3-bar bulk density--0.6 to 0.9 g/cm3
+*Ammonium oxalate extractable Al +  Fe--2.0 to 4.0 percent
+*Phosphate retention--greater than 85 percent
+*0.02- to 2.0-mm fraction--greater than 30 percent
+*Volcanic glass content in 0.02- to 2.0-mm fraction--5 to 30 percent
+*15-bar water retention--less than 30 percent (undried samples), 12 to 15 percent (dried samples)
+
+Particle-size control section
+*Clay content--10 to 18 percent
+*Total fragment content--35 to 65 percent
+
+O horizon
+*Thickness--1 to 10 cm
+
+A horizon
+*Hue--10YR, 7.5 YR
+*Value--2 or 3 moist, 3 to 5 dry
+*Chroma--2 moist, 2 or 3 dry
+*Clay content--10 to 18 percent
+*Sand content--35 to 50 percent
+*Total fragment content--35 to 55 percent
+*Gravel content--15 to 35 percent
+*Cobble content--0 to 20 percent
+*Stone content--0 to 10 percent
+*Reaction--4.5 to 5.5
+*Thickness--10 to 40 cm
+
+AB horizon, and BA horizon (where present)
+*Hue--10YR, 7.5YR
+*Value--3 or 4 moist, 3 to 5 dry
+*Chroma--2 to 4 moist, 3 to 6 dry
+*Fine-earth texture--medial loam, medial sandy loam
+*Clay content--10 to 18 percent
+*Sand content--35 to 60 percent
+*Total fragment content--35 to 60 percent
+*Gravel content--15 to 35 percent
+*Cobble content--0 to 20 percent
+*Stone content--0 to 10 percent
+*Reaction--5.1 to 6.0
+*Thickness--0 to 50 cm
+
+Bw horizon
+*Hue--10YR to 7.5YR
+*Value--3 to 5 moist, 4 to 6 dry
+*Chroma--3 to 6 moist, 4 to 6 dry
+*Fine-earth texture--medial loam, medial sandy loam
+*Clay content--10 to 18 percent
+*Sand content--35 to 60 percent
+*Total fragment content--35 to 65 percent
+*Gravel content--25 to 50 percent
+*Cobble content--5 to 25 percent
+*Stone content--0 to 10 percent
+*Boulder content--0 to 10 percent
+*Reaction--5.1 to 6.0
+*Thickness--50 to 175 cm
+
+BC horizon, and C horizon (where present)
+*Hue--10YR, 7.5YR, 2.5Y
+*Value--3 to 6 moist, 4 to 6 dry
+*Chroma--3 to 6 moist or dry
+*Fine-earth texture--medial loam, medial sandy loam
+*Clay content--10 to 18 percent
+*Sand content--35 to 60 percent
+*Total fragment content--45 to 70 percent
+*Gravel content--25 to 55 percent
+*Cobble content--10 to 25 percent
+*Stone content--0 to 15 percent
+*Boulder content--0 to 10 percent
+*Reaction--5.1 to 6.0
+
+COMPETING SERIES: None
+
+GEOGRAPHIC SETTING:
+Elevation--700 to 1100 m
+Climate--warm, dry summers; cool, wet winters
+Mean annual precipitation--1900 to 2300 mm
+Mean annual air temperature--6 to 8 degrees C
+Frost-free period--90 to 120 days
+
+GEOGRAPHICALLY ASSOCIATED SOILS:
+Uppersoda--less than 35 percent rock fragments; interspersed with Fernview soils, commonly in more concave positions
+
+DRAINAGE AND SATURATED HYDRAULIC CONDUCTIVITY:
+Drainage class--well drained
+Saturation in normal years--none in profile
+Flooding--none
+Ponding--none
+Saturated hydraulic conductivity (Ksat)--high
+
+USE AND VEGETATION:
+Use--watershed, recreation, wildlife habitat, timber production
+Potential natural vegetation--Douglas-fir, western hemlock, Pacific rhododendron, Cascade Oregon grape, twinflower, prince's pine (pipsissewa), little prince's pine, salal
+
+DISTRIBUTION AND EXTENT: Western Cascade Mountains, Oregon; MLRA 3; small extent
+
+MLRA SOIL SURVEY REGIONAL OFFICE (MO) RESPONSIBLE: Portland, Oregon
+
+SERIES PROPOSED: Willamette National Forest, Linn County, Oregon; name from recreational site in Linn County
+
+REMARKS:
+Diagnostic horizons and other features in this pedon
+*Umbric epipedon--zone from 13 to 80 cm
+*Cambic horizon--zone from 80 to 200 cm
+*Andic soil properties--zone from 13 to 200 cm
+*Volcanic glass--zone from 13 to 200 cm
+*Particle-size control section--zone from 13 to 113 cm
+
+06/2016--Assumed to meet criteria 2 (no ash required) for andic soil properties, in the 12th edition of Keys to Soil Taxonomy. It is also assumed that enough ash is present for the soils to meet criteria 3. Additional lab data is needed to confirm the degree of ash influence.
+
+In some areas, the soils may have dense till at a depth of 100 to 150 cm.
+
+ADDITIONAL DATA: Type location user site ID--2013OR043006
+
+National Cooperative Soil Survey
+U.S.A.

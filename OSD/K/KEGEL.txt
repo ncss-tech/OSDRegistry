@@ -1,0 +1,94 @@
+LOCATION KEGEL                  WA
+
+Established Series
+Rev. RAK-BDG-RJS
+04/2017
+
+KEGEL SERIES
+
+The Kegel series consists of very deep, somewhat poorly drained soils formed in alluvium of mixed mineralogy. Kegel soils are in narrow stream flood plains, alluvial fans, and depressions. Slopes are 0 to 3 percent.  The mean annual precipitation is about 675 mm, and the mean annual air temperature is about 6.7 degrees C.
+
+TAXONOMIC CLASS: Coarse-loamy, mixed, superactive, frigid Fluvaquentic Haploxerolls
+
+TYPICAL PEDON:  Kegel loam, forested. (Colors are for dry soil unless otherwise stated)
+
+     0e--0 to 3 cm; Decomposing needles, leaves, bark and cones; abrupt smooth boundary. (2 to 5 cm thick)
+
+     A1--3 to 23 cm; dark gray (10YR 4/1) loam, black (10YR 2/1) moist; moderate fine and medium granular structure; soft, very friable, slightly sticky and slightly plastic; many medium and fine roots; common fine pores; slightly acid (pH 6.5); clear wavy boundary. (15 to 30 cm thick)
+
+     A2--23 to 38 cm; grayish brown (10YR 5/2) loam, very dark grayish brown (10YR 3/2) moist; weak fine granular structure; soft, friable, slightly sticky and slightly plastic; common medium and fine roots; common fine pores; about 4 percent gravel; neutral (pH 6.8); clear smooth boundary. (10 to 23 cm thick)
+
+     C--38 to 51 cm; brown (7.5YR 5/2) very gravelly loamy sand, dark brown (7.5YR 3/2) moist; single grain; loose; few fine roots; 45 percent gravel; neutral (pH7.0); abrupt smooth boundary. (10 to 15 cm thick)
+
+     Ab1--51 to 69 cm; grayish brown (2.5Y 5/2) sandy loam, very dark grayish brown (2.5Y 3/2) moist; many large distinct dark yellowish brown (10YR 4/4) moist redox concentrations; bands of olive brown (2.5Y 4/4) moist loam; matrix is massive and bands have moderate medium subangular blocky structure; soft, friable, slightly sticky and slightly plastic; few fine roots; 10 percent gravel; slightly acid (pH 6.5); abrupt wavy boundary. (25 to 40 cm thick)
+
+     Ab2--69 to 99 cm; grayish brown (2.5Y 5/2) sandy loam, very dark grayish brown (2.5Y 3/2) moist; many large distinct dark yellowish brown (10YR 4/4) moist redox concentrations; bands of olive brown (2.5Y 4/4) moist loam; matrix is massive and bands have moderate medium subangular blocky structure; soft, friable, slightly sticky and slightly plastic; few fine roots; 10 percent gravel; slightly acid (pH 6.5); abrupt wavy boundary. (25 to 40 cm thick)
+
+     C'--99 to 152 cm; light olive brown (2.5Y 5/4) very gravelly loamy coarse sand, olive brown (2.5Y 4/4); single grain; loose; 40 percent gravel; slightly alkaline (pH 7.5).
+
+TYPE LOCATION:  Stevens County, Washington; along Hande Creek, Colville National Forest; southeast 1/4 northwest 1/4 sec. 13 T. 36 N., R. 41 E., WM. Latitude - 48 degrees, 37 minutes, 26.53 seconds, North; Latitude - 117 degrees, 34 minutes, 42.72 seconds, West; WGS84; USGS Lake Gillette Quadrangle.
+
+RANGE IN CHARACTERISTICS:  The mean annual soil temperature at a depth of 50 cm ranges from 6.0 to 7.8 degrees C. The soils are usually moist and are saturated during winter and early spring but are dry for 45 to 60 consecutive days following summer solstice. The soil is slightly acid to moderately alkaline.  The control section averages 15 to 35 percent rock fragments.
+
+A1, A2 horizons
+Value: 3 to 5 dry; 2 or 3 moist 
+Chroma: 1 or 2 dry or moist
+Clay content: 8 to 12 percent
+Rock fragments: 3 to 9 percent gravel
+Reaction: pH 6.1 to 8.4
+
+C horizon
+Hue: 7.5YR, 10YR or 2.5Y dry or moist
+Value: 5 to 7 dry; 3 to 6 moist 
+Chroma: 2 to 4 dry or moist  
+Texture (less than 2mm fraction): sandy loam or loamy sand
+Clay content: 1 to 10 percent
+Rock fragments: 20 to 45 percent gravel; 0 to 4 percent cobbles
+Reaction: pH 6.1 to 8.4
+
+Ab1, Ab2 horizons
+Hue: 10YR or 2.5Y dry or moist
+Value: 5 to 7 dry; 3 to 6 moist
+Chroma: 2 or 3 dry or moist
+Texture (less than 2mm fraction): silt loam, loam or sandy loam
+Clay content: 8 to 12 percent
+Rock fragments: 3 to 12 percent gravel
+Reaction: pH 6.1 to 8.4
+
+C' horizon 
+Hue: 2.5Y or 5Y dry or moist
+Value: 5 or 6 dry; 3 or 4 moist 
+Chroma: 3 or 4 dry or moist
+Texture (less than 2mm fraction): sandy loam or loamy coarse sand
+Clay content: 1 to 3 percent
+Rock fragment: 20 to 50 percent gravel; 0 to 4 percent cobbles
+Reaction: pH 6.1 to 8.4
+
+COMPETING SERIES:  
+Bloomcreek (ID): does not have an O horizon
+Cubcreek (WA): are dry for 60 to 75 days following the summer solstice 
+Omahaling (OR): do not have a buried A horizon
+
+GEOGRAPHIC SETTING: Kegel soils are on bottom lands incised by intermittent or perennial streams at elevations of 750 to 1,225 meters.  Slopes are 0 to 3 percent. These soils formed in recent alluvium derived from granitic and metasedimentary rocks and volcanic ash. These soils are in a continental climate with warm dry summers and cool moist winters. Mean annual temperature ranges from 6.1 to 7.2 degrees C. The frost-free season is 80 to 100 days. Mean annual precipitation ranges from 500 to 900 mm.
+
+GEOGRAPHICALLY ASSOCIATED SOILS: These are the Aits, Bonner, Chamokane, Martella, Narcisse, and Newbell soils. Aits, Banner, Martella and Newbell soils have a ochric epipedon and have a regular decrease in organic carbon. Chamokane and Narcisse soils also have a mesic soil temperature regime.
+
+DRAINAGE AND SATURATED HYDRAULIC CONDUCTIVITY: Somewhat poorly drained; very slow runoff or ponded; moderate saturated hydraulic conductivity. A high water table is near the surface during the winter and spring.
+
+USE AND VEGETATION: Used for grazable woodland, wildlife habitat, watershed, recreation, and dryland cropland. Dominant vegetation is Douglas-fir, grand fir, western larch and Engelman spruce with an understory of spirea, common snowberry, sedge, Kentucky bluegrass, Oregon-grape, strawberry, longtube twinflower, queencup beadlily, Solomon's seal and devil's club.
+
+DISTRIBUTION AND EXTENT: Northeastern Washington. Series is small in extent. MLRA 43A.
+
+MLRA SOIL SURVEY REGIONAL OFFICE (MO) RESPONSIBLE: Bozeman, Montana
+
+SERIES ESTABLISHED: Stevens County, Washington, 1978
+
+REMARKS: Diagnostic horizons and features recognized in this pedon are:
+Mollic epipedon: from 3 to 38 cm (A1, A2 horizons)
+Buried mollic epipedon: from 51 to 99 cm (Ab1, Ab2 horizons)
+Particle size control section: from 28 to 103 cm (part of A2, C, Ab1, Ab2, part of C' horizons).
+
+Kegel soils have a frigid temperature regime and a xeric moisture regime.
+
+National Cooperative Soil Survey
+U.S.A.

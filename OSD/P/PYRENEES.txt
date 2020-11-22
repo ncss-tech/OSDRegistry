@@ -1,0 +1,107 @@
+LOCATION PYRENEES               ID
+
+Established Series
+Rev. RWW/ RGK/CBR
+05/2018
+
+PYRENEES SERIES
+
+Landscape--lava fields
+Landform--lava flows
+Slope--0 to 12 percent
+Parent material--alluvium derived from basalt
+Mean annual precipitation--about 400 mm
+Mean annual air temperature--about 4.4 degrees C
+Depth class--moderately deep
+Drainage class--well drained
+Soil moisture regime--xeric
+Soil temperature regime--frigid
+
+TAXONOMIC CLASS: Loamy-skeletal, mixed, superactive, frigid Typic Calcixerolls
+
+TYPICAL PEDON:  Pyrenees extremely cobbly loam in an area of rangeland (Colors are for dry soil unless otherwise noted.)
+
+ A1--0 to 8 cm; grayish brown (10YR 5/2) extremely cobbly loam, very dark grayish brown (10YR 3/2) moist; moderate very fine and fine granular structure; soft, friable, slightly sticky and slightly plastic; many very fine and fine and common medium and coarse roots; many very fine tubular pores; 25 percent gravel, 40 percent cobbles, and 10 percent stones; neutral (pH 7.2); clear wavy boundary
+
+ A2--8 to 18 cm; grayish brown (10YR 5/2) extremely cobbly loam, dark brown (10YR 3/3) moist; strong fine and medium subangular blocky structure; slightly hard, friable, slightly sticky and slightly plastic; many very fine and fine and common medium and coarse roots; many very fine tubular pores; finely disseminated calcium carbonate; slightly effervescent; 30 percent gravel, 40 percent cobbles, and 10 percent stones; slightly alkaline (pH 7.4); gradual wavy boundary
+
+ Bk1--18 to 30 cm; pale brown (10YR 6/3) extremely cobbly loam, brown (10YR 5/3) moist; common medium subangular blocky structure; slightly hard, friable, slightly sticky and slightly plastic; common very fine and fine roots; many very fine tubular pores; calcium carbonate coatings on rock fragments; 30 percent gravel, 40 percent cobbles, and 10 percent stones; violently effervescent; slightly alkaline (pH 7.7); gradual wavy boundary
+
+ Bk2--30 to 53 cm; very pale brown (10YR 7/3) extremely cobbly loam, pale brown (10YR 6/3) moist; moderate medium subangular blocky structure; slightly hard, friable, slightly sticky and slightly plastic; few very fine and fine roots; few very fine irregular pores; calcium carbonate coats on rock fragments; 40 percent gravel, 35 percent cobbles and 5 percent stones; violently effervescent; moderately alkaline (pH 7.9); abrupt irregular boundary
+
+ R--53 cm; basalt
+
+TYPE LOCATION:  Clark County, Idaho; latitude 44.24333 degrees north, longitude 112.17167 degrees west, datum WGS 84
+
+RANGE IN CHARACTERISTICS:
+Mean annual soil temperature--3.9 to 7.2 degrees C
+Depth to lithic contact--50 to 100 cm
+Thickness of mollic epipedon--18 to 25 cm
+Depth to calcic horizon--18 to 25 cm
+
+Particle-size control section (weighted averages)
+Clay content--10 to 18 percent
+Total rock fragment content--65 to 85 percent
+
+A horizon
+Value--4 or 5 dry, 2 or 3 moist
+Chroma--2 or 3 dry or moist
+Clay content--10 to 18 percent
+Total rock fragment content--60 to 80 percent
+Gravel content--20 to 30 percent
+Cobble content--35 to 40 percent
+Stone content--5 to 10 percent
+Reaction--pH 6.6 to 7.6
+Thickness--13 to 28 cm
+
+Bk horizon
+Value--5 to 8 dry, 3 to 7 moist
+Chroma--2 or 3 dry or moist
+Texture (less than 2-mm fraction)--loam, sandy loam
+Clay content--10 to 18 percent
+Total rock fragment content--65 to 85 percent
+Gravel content--30 to 45 percent
+Cobble content--30 to 40 percent
+Stone content--5 to 10 percent
+Calcium carbonate equivalent--15 to 25 percent
+Reaction--pH 7.9 to 8.2
+Thickness--23 to 76 cm
+
+COMPETING SERIES:
+Bezzant, Cedarhill, Dennot, Georgecanyon--very deep to lithic contact
+Eaglecone--deep to lithic contact
+Ricafied--more than 18 percent clay in particle-size control section
+
+GEOGRAPHIC SETTING:
+Elevation--1610 to 1860 m
+Mean annual precipitation--300 to 525 mm
+Mean annual air temperature--2.2 to 6.1 degrees C
+Frost-free period--70 to 100 days
+
+GEOGRAPHICALLY ASSOCIATED SOILS:  None listed
+
+DRAINAGE AND SATURATED HYDRAULIC CONDUCTIVITY:
+Drainage class--well drained
+Saturated hydraulic conductivity (Ksat)--5 to 25 um/sec
+
+USE AND VEGETATION:
+Major use--rangeland
+Potential natural vegetation--Wyoming sagebrush, threetip sagebrush, bluebunch wheatgrass, Sandberg bluegrass, tapertip hawksbeard, horsebrush, rabbitbrush, buckwheat
+
+DISTRIBUTION AND EXTENT:  Small extent in eastern Idaho; MLRA 11
+
+SOIL SURVEY REGIONAL OFFICE (SSRO) RESPONSIBLE:  Portland, Oregon
+
+SERIES ESTABLISHED:  Clark County, Idaho; 2018
+
+REMARKS:
+Diagnostic horizons and other features recognized in this pedon
+Mollic epipedon--zone from the surface to a depth of 18 cm (A1 and A2 horizons)
+Calcic horizon--zone from 18 to 53 cm (Bk1 and Bk2 horizons)
+Depth to lithic contact--53 cm
+Particle-size control section--zone from 25 to 53 cm (part of Bk1 horizon, Bk2 horizon)
+
+Taxonomic version--Twelfth Edition, 2014
+
+National Cooperative Soil Survey
+U.S.A.

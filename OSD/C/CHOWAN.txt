@@ -1,0 +1,115 @@
+LOCATION CHOWAN                 NC+FL
+
+Established Series
+PLT-RHR-ENH/Rev. JAK
+04/2000
+
+CHOWAN SERIES
+
+MLRA(s): 153A, 153B
+MLRA SOIL SURVEY REGIONAL OFFICE (MO) RESPONSIBLE: Raleigh, North Carolina
+Depth Class: Very deep
+Drainage Class: Poorly drained
+Permeability: Moderately slow in the mineral horizons and moderately rapid to moderately slow in the organic horizons 
+Surface Runoff: Very slow
+Parent Material: Loamy marine sediments over highly decomposed organic material
+Slope: 0 to 2 percent
+Mean Annual Air Temperature (type location): 61 degrees F.
+Mean Annual Precipitation (type location): 49 inches
+
+TAXONOMIC CLASS: Fine-silty, mixed, active, nonacid, thermic Thapto-Histic Fluvaquents
+
+TYPICAL PEDON: Chowan silt loam--forested. (Colors are for moist soil unless otherwise stated.)
+
+     A--0 to 6 inches; dark grayish brown (10YR 4/2) silt loam; massive; friable; slightly sticky; common medium and coarse roots; moderately acid; gradual wavy boundary.  (5 to 12 inches thick)
+
+     Cg1--6 to 20 inches; gray (10YR 5/1) silty clay loam; massive; friable; moderately sticky; common coarse roots; moderately acid; gradual wavy boundary.
+
+     Cg2--20 to 27 inches; dark grayish brown (10YR 4/2) silt loam; massive; friable; slightly sticky; few coarse roots; moderately acid; gradual wavy boundary.  (Combined thickness of the Cg horizon is 15 to 32 inches.)
+
+     2Oa--27 to 80 inches; black (5YR 2/1) sapric material; about 30 percent fibers, less than 10 percent rubbed, massive; very friable; common logs and stumps; extremely acid. 
+
+TYPE LOCATION: Chowan County, North Carolina; approximately 2 miles east of Edenton, 0.4 mile north of intersection of State Road 1103 and North Carolina Highway 32, 150 feet west of State Road 1103 in a creek bottom.
+
+RANGE IN CHARACTERISTICS:
+Horizon Thickness: The surface mineral horizons range from 16 to 40 inches thick.  The underlying organic horizons range from 16 to more than 80 inches thick 
+Depth to Bedrock: Greater than 60 inches
+Depth to Seasonal High Water Table: 0 to 6 inches, November to May
+Soil Reaction: Extremely acid to moderately acid in the mineral horizons and extremely acid or very strongly acid in the organic horizons
+Other Features: Stumps and logs are common throughout the Oa horizon of most pedons
+
+A horizon:
+Color--hue of 10YR to 5Y, value of 2 to 5, and chroma of 1 or 2.  Pedons with a horizon that have value less than 3 are less than 10 inches thick.
+Texture--silt loam, loam, or silty clay loam
+
+Cg horizon:
+Color--hue of 10YR to 5Y, value of 2 to 5, and chroma of 1 or 2
+Texture--loam, silt loam, silty clay loam, mucky silt loam, or mucky loam
+
+2Oa horizon:
+Color--hue of 5YR to 2.5Y, value of 2 or 3, and chroma of 1 to 3
+Texture--sapric material 16 inches to several feet thick. 
+
+COMPETING SERIES: There are no known competing series.
+
+GEOGRAPHIC SETTING:
+Landscape: Coastal Plain
+Landform: Floodplains
+Elevation: 2 to 15 feet above mean sea level 
+Parent Material: loamy marine sediments
+Mean Annual Air Temperature: 61 to 70 degrees
+Mean Annual Precipitation: 44 to 51 inches
+Frost Free Period: 220 to 280 days
+
+GEOGRAPHICALLY ASSOCIATED SOILS: 
+Altavista soils--moderately well drained soils (seasonal high water table 18 to 30 inches) in fine-loamy family on higher adjacent landscapes
+Bertie soils--Somewhat poorly drained soils (seasonal high water table 12 to 18 inches) in fine-loamy on higher adjacent landscapes
+Chapanoke soils--somewhat poorly drained soils (seasonal high water table 12 to 18 inches) on higher adjacent landscapes
+Dogue soils--moderately well drained soils (seasonal high water table 18 to 30 inches) in fine family on higher adjacent landscapes 
+Dorovan soils--very poorly drained organic soils (seasonal high water table 0 to 12 inches) with organic layers greater than 51 inches thick on similar landscapes
+Perquimans--poorly drained soils (seasonal high water table 0 to 12 inches) on slightly higher adjacent landscapes 
+Roanoke soils--poorly drained soils (seasonal high water table 0 to 12 inches) in fine family on slightly higher adjacent landscapes 
+State soils--well drained soils (seasonal high water table 48 to 72 inches) in fine-loamy family on higher adjacent landscapes
+Wahee soils--somewhat poorly drained soils (seasonal high water table 12 to 18 inches) in fine family on higher adjacent landscapes
+Yeopim soils--moderately well drained soils (seasonal high water table 18 to 36 inches) on higher adjacent landscapes
+
+DRAINAGE AND PERMEABILITY:
+Agricultural Drainage Class: Poorly drained
+Permeability: Moderately slow in the mineral horizons and moderately rapid to moderately slow in the organic horizons. Water covers the surface for six months during most years 
+
+USE AND VEGETATION:
+Major Uses: Mostly woodland
+Dominant Vegetation: Where wooded--green ash (Fraxinus pennsylvanica), baldcypress (Taxodium distichum), sweetgum (Liquidambar styraviflua), red maple (Acer rubrum), water tupelo (Nyssa aquatica), pond pine (Pinus serotina), and Atlantic white-cedar (Chamaecyparis thyoides). Cattails (Typha) and Big Cordgrass (Spartina Cynosuroid) are common in cleared fields.
+
+DISTRIBUTION AND EXTENT:
+Distribution: Lower Coastal Plain of North Carolina and Florida, and possibly Virginia, Mississippi, Georgia, and Louisiana.
+Extent: Small
+
+MLRA SOIL SURVEY REGIONAL OFFICE (MO) RESPONSIBLE: Raleigh, North Carolina
+
+SERIES ESTABLISHED: Chowan County, North Carolina; 1982.
+
+REMARKS: The nonacid condition is attributed to surface runoff and erosion of soil this pedon.
+
+ADDITIONAL DATA: None
+
+TABULAR SERIES DATA:
+
+SOI-5   Soil Name   Slope   Airtemp   FrFr/Seas   Precip   Elevation
+NC0146   CHOWAN      0-2     61-70     220-280    44-51      2-15 
+
+SOI-5    FloodL FloodH Watertable    Kind      Months   Bedrock 
+NC0146   FREQ            0-0.5     APPARENT   NOV-MAY   60-60        
+
+SOI-5    Depth    Texture          3-Inch   No-10   Clay%    CEC
+NC0146   0-6    L SIL SICL          0-0    100-100   5-25    3-9
+NC0146   6-27   L SIL SICL          0-0    100-100  18-35    4-11
+NC0146  27-80       SP                               2-12   20-85
+
+SOI-5  Depth   -pH-O.M.  Salin  Permeab   Shnk-Swll
+NC0146  0-6  3.5-6.0  2.-4.  0-0   2.0-6.0  LOW      
+NC0146  6-27  3.5-6.0  1.-4.  0-0   0.2-0.6  LOW      
+NC0146 27-80  3.5-5.0  20-80  0-0   0.2-6.0  LOW      
+
+National Cooperative Soil Survey
+U.S.A.

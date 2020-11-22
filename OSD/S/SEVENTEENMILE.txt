@@ -1,0 +1,136 @@
+LOCATION SEVENTEENMILE          AK
+
+Established Series
+JDP/NR/TJR
+04/2020
+
+SEVENTEENMILE SERIES
+
+Landscape--alluvial plains
+Landform--stream terraces
+Slope--0 to 3 percent
+Parent material--alluvium
+Mean annual precipitation--about 255 mm
+Mean annual air temperature--about -6 degrees C
+Depth class--very deep
+Drainage class--well drained
+Soil moisture regime--udic
+Soil temperature regime--cryic
+Soil moisture subclass--typic
+
+TAXONOMIC CLASS: Coarse-silty over sandy or sandy-skeletal, mixed, superactive Typic Haplocryepts
+
+TYPICAL PEDON: Seventeenmile silt loam on a forested terrace with a slope of 1 percent and an elevation of 183 m (The soil was moist throughout when described on August 15, 2014.)
+
+ Oe--0 to 2 cm; moderately decomposed plant material; few medium and coarse roots; slightly acid (pH 6.1); abrupt smooth boundary
+
+ A--2 to 10 cm; silt loam; brownish yellow (10YR 6/6) dry, dark yellowish brown (10YR 4/6) moist; weak fine granular structure; soft, very friable, nonsticky and nonplastic; common fine and coarse roots, and few medium roots; few fine and medium pores; noneffervescent; slightly acid (pH 6.5); clear wavy boundary
+
+ Bw--10 to 30 cm; silt loam; brownish yellow (10YR 6/6) dry, yellowish brown (10YR 5/6) moist; weak medium subangular blocky structure; soft, very friable, nonsticky and nonplastic; common fine and medium roots; few fine and medium pores; noneffervescent; neutral (pH 7.1); clear smooth boundary
+
+ 2C1--30 to 39 cm; very gravelly loamy sand; very pale brown (10YR 7/4) dry, yellowish brown (10YR 5/4) moist; single-grain structure; loose, nonsticky and nonplastic; common fine and medium roots; noneffervescent; neutral (pH 7.1); clear smooth boundary
+
+ 2C2--39 to 150 cm; extremely gravelly sand; light brownish gray (10YR 6/2) dry, dark grayish brown (10YR 4/2) moist; single grain structure; loose, nonsticky and nonplastic; few very fine roots; very slightly effervescent; slightly alkaline (pH 7.5)
+
+TYPE LOCATION: Yukon-Koyukuk Census Area, Alaska; latitude 66.8741209 degrees, longitude -143.5697769 degrees, datum WGS84 (coordinates determined with a GPS)
+
+RANGE IN CHARACTERISTICS:
+Mean annual soil temperature--0.5 to 2.5 degrees C
+Base saturation--greater than 50 percent in all layers within 50 cm of the mineral soil surface
+Depth to sandy or sandy-skeletal substratum--25 to 95 cm
+
+Oe horizon
+Thickness--5 to 15 cm
+Reaction--6.0 to 7.5
+
+A horizon
+Hue--2.5Y to 7.5YR
+Value--2 or 3 moist, 4 or 5 dry
+Chroma--2 or 3 moist
+Fine-earth texture--silt loam, very fine sandy loam, loam
+Clay content--0 to 18 percent
+Reaction--6.0 to 7.5
+Effervescence--none to slight
+Thickness--5 to 15 cm
+
+Bw horizon
+Hue--2.5Y to 7.5YR
+Value--3 to 5 moist, 5 to 7 dry
+Chroma--2 to 6 moist
+Fine-earth texture--silt loam, very fine sandy loam
+Clay content--0 to 18 percent
+Reaction--6.0 to 8.0
+Effervescence--none to strong
+Thickness--15 to 50 cm
+
+BC horizon (where present)
+Hue--2.5Y to 7.5YR
+Value--3 to 5 moist, 5 to 7 dry
+Chroma--2 to 6 moist
+Fine-earth texture--silt loam, very fine sandy loam, fine sandy loam
+Clay content--0 to 18 percent
+Reaction--6.0 to 8.0
+Effervescence--none to strong
+Thickness--10 to 60 cm
+
+2C1 and 2C2 horizons
+Hue--10YR, 2.5Y
+Value--3 to 5 moist, 5 to 7 dry
+Chroma--1 to 4 moist
+Fine-earth texture--sand, loamy sand, coarse sand
+Rock fragment content--0 to 85 percent
+Clay content--0 to 8 percent
+Reaction--6.0 to 8.5
+Effervescence--none to slight
+Combined thickness--75 to 125 cm
+
+COMPETING SERIES: 
+Gulkana-- these soils have finer textures in the loess mantle and do not include coarse sand in the substratum
+Knik--these soils have finer textures in the loess mantle and do not range above neutral in the substratum
+Nenana--these soils have a loess mantle containing substantial amounts of mica
+Yensus--these soils have at least 60 cm of loess mantle overlying alluvium, and do not range above neutral in the substratum
+
+GEOGRAPHIC SETTING:
+Elevation--90 to 300 m
+Climate--short, warm summers and long, very cold winters
+Mean annual precipitation--210 to 310 mm
+Mean annual air temperature-- -12 to 0 degrees C
+Frost-free period--45 to 97 days
+
+GEOGRAPHICALLY ASSOCIATED SOILS:
+Tajittro--aquic conditions within 100 cm; lower positions on similar landforms; permafrost within 1 m
+Chissovun--aquic conditions within 50 cm; lower positions similar landforms; permafrost within 1 m
+Yanert--aquic conditions within 25 cm; swales on similar landforms
+Gushdoiman--aquic conditions within 25 cm; tussock scrub depressions on similar landforms; permafrost within 1 m
+Choonjik--no aquic conditions within 150 cm; calcareous; similar landforms
+Yasuda--aquic conditions within 25 cm; sodic properties; grassland depressions on similar landforms
+
+DRAINAGE AND SATURATED HYDRAULIC CONDUCTIVITY:
+Drainage class--well drained
+Saturation in normal years--none
+Flooding--none
+Ponding--none
+Saturated hydraulic conductivity (Ksat)--high throughout
+
+USE AND VEGETATION:
+Use--wildlife habitat, subsistence, recreation
+Potential natural vegetation--White spruce, quaking aspen, russet buffaloberry, prickly rose, grayleaf willow, twinflower, lingonberry, purple reedgrass, false toadflax, tall bluebells, Jakutsk snowparsley, sidebells wintergreen, eastern pasqueflower, splendid feather moss, Ptilidium liverwort, greygreen reindeer lichen, felt lichen, cup lichen
+
+DISTRIBUTION AND EXTENT: Yukon Flats Lowlands, Alaska; MLRA 232; moderate extent
+
+SOIL SURVEY REGIONAL OFFICE (SSRO) RESPONSIBLE: Portland, Oregon
+
+SERIES ESTABLISHED: Yukon Flats National Wildlife Refuge, Yukon-Koyukuk Census Area, Alaska; 2020
+
+REMARKS:
+Diagnostic horizons and other features in this pedon
+*Particle-size control section--zone from 27 to 102 cm
+*Ochric epipedon
+*Cambic horizon--Bw horizon
+*Free carbonates--2C2 horizon
+Soils in this series may sometimes meet the criteria for a folistic epipedon, but this horizon is not diagnostic within the Haplocryepts great group.
+Soils in this series do not have identifiable secondary carbonates within 100 cm of the mineral soil surface, though some horizons may effervesce.
+
+
+National Cooperative Soil Survey
+U.S.A.

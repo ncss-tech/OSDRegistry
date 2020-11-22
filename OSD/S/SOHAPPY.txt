@@ -1,0 +1,113 @@
+LOCATION SOHAPPY                WA
+
+Established Series
+Rev. EER/KWH/KDPL/KH
+09/2019
+
+SOHAPPY SERIES
+
+Landscape--plateaus
+Landform--structural benches
+Slope--2 to 60 percent
+Parent material--loess over colluvium derived from basalt and interbedded sedimentary material
+Mean annual precipitation--about 200 mm
+Mean annual air temperature--about 10 degrees C
+Depth class--deep
+Drainage class--well drained
+Soil moisture regime--aridic
+Soil temperature regime--mesic
+Soil moisture subclass--xeric
+
+TAXONOMIC CLASS: Coarse-loamy, mixed, superactive, mesic Duric Xeric Haplocalcids
+
+TYPICAL PEDON: Sohappy silt loam in an area of rangeland, on a 3-percent slope at an elevation of 550 m
+
+ A--0 to 15 cm; silt loam, pale brown (10YR 6/3) dry, dark brown (10YR 3/3) moist; moderate thin and medium platy structure parting to weak fine subangular blocky; soft, very friable, nonsticky and nonplastic; common fine and medium and few coarse roots; many very fine and fine irregular pores; neutral (pH 7.0); clear smooth boundary
+
+ Bw1--15 to 46 cm; silt loam, pale brown (10YR 6/3) dry, dark brown (10YR 3/3) moist; weak medium prismatic structure parting to weak medium subangular blocky; soft, very friable, nonsticky and nonplastic; common fine and medium and few coarse roots; many very fine and fine irregular pores; moderately alkaline (pH 8.0); clear smooth boundary
+
+ Bw2--46 to 86 cm; silt loam, light yellowish brown (10YR 6/4) dry, brown (10YR 4/3) moist; weak medium prismatic structure parting to weak medium subangular blocky; slightly hard, firm, nonsticky and nonplastic; few fine, medium, and coarse roots; many very fine and fine irregular pores; 5 percent basalt gravel; moderately alkaline (pH 8.0); abrupt wavy boundary
+
+ 2Bk--86 to 114 cm; gravelly fine sandy loam, light brownish gray (10YR 6/2) dry, brown (10YR 4/3) moist; massive; slightly hard, friable, nonsticky and nonplastic; common fine roots, matted on pan fragments at a depth of 114 cm; common fine irregular pores; 10 percent basalt gravel and 5 percent basalt cobbles; strongly effervescent; abrupt smooth boundary
+
+ 2Bkqm1--114 to 132 cm; fractured lime-silica pan; 20 percent gravel and 5 percent cobbles; clear smooth boundary
+
+ 2Bkqm2--132 cm; indurated lime-silica duripan
+
+TYPE LOCATION: Yakima County, Washington, about 19 km south of Toppenish, off Sohappy Road; about 30 m north and 90 m west of the southeast corner of section 7, T. 8 N., R. 20 E.; latitude 46.1859360, longitude -120.3467636, datum WGS 84 (coordinates estimated from section, township, and range)
+
+RANGE IN CHARACTERISTICS:
+Mean annual air temperature at a depth of 50 cm--10 to 13 degrees C
+Soil moisture control section--dry more than one-half the time the soil temperature at a depth of 50 cm is higher than 5 degrees C
+Sand content in particle-size control section--more than 15 percent particles larger than very fine sand
+Depth to secondary carbonates--60 to 110 cm
+Depth to discontinuity (2Bk horizon)--65 to 95 cm
+Depth to indurated duripan (where present)--more than 110 cm
+
+A horizon
+Value--5 or 6 dry, 3 or 4 moist
+Chroma--3 or 4 dry or moist
+Thickness--8 to 15 cm
+
+Bw horizon
+Value--6 or 7 dry
+Chroma--3 or 4 dry or moist
+Texture--silt loam, loam
+Clay content--10 to 18 percent
+Combined thickness--51 to 112 cm
+
+2Bk horizon
+Hue--7.5YR, 10YR
+Value--6 or 7 dry, 3 or 4 moist
+Texture of fine-earth fraction--fine sandy loam, silt loam, loam, clay loam
+Rock fragment content--10 to 30 percent
+Structure--massive, subangular blocky
+Calcium carbonate content (where structured)--surfaces of peds coated with lime; interior of peds in some pedons does not effervesce with 10 percent HCl
+Thickness--23 to 51 cm
+
+2Bkqm1 horizon
+Thickness--13 to 25 cm
+
+COMPETING SERIES: None
+
+GEOGRAPHIC SETTING:
+Elevation--150 to 670 m
+Climate--semiarid; warm, dry summers; cool, moist winters
+Mean annual precipitation--150 to 230 mm
+Mean January air temperature--about -1 degrees C
+Mean July air temperature--about 22 degrees C
+Mean annual air temperature--about 9 to 11 degrees C
+Frost-free season--135 to 170 days
+
+GEOGRAPHICALLY ASSOCIATED SOILS:
+Bakeoven--on uplands; loamy-skeletal particle-size class; 10 to 25 cm (very shallow) to a lithic contact (basalt)
+Kiona--on hillsides; loamy-skeletal particle-size class
+Prosser--on hillslopes; 50 to 100 cm (moderately deep) to a lithic contact (basalt)
+Shano--coarse-silty particle-size class
+
+DRAINAGE AND SATURATED HYDRAULIC CONDUCTIVITY:
+Drainage class--well drained
+Saturated hydraulic conductivity (Ksat)--moderately high
+
+USE AND VEGETATION:
+Use--domestic livestock grazing
+Native vegetation--Wyoming big sagebrush, Sandberg bluegrass, bluebunch wheatgrass
+
+DISTRIBUTION AND EXTENT: Klickitat and Yakima Counties, Washington; MLRA 8; moderate extent
+
+SOIL SURVEY REGIONAL OFFICE (SSRO) RESPONSIBLE: Portland, Oregon
+
+SERIES ESTABLISHED: Yakima Training Center, Yakima County, Washington; 1994
+
+REMARKS:
+Diagnostic horizons and other features recognized in this pedon
+*Ochric epipedon
+*Cambic horizon--zone from 15 to 61 cm
+*Calcic horizon--zone from 86 to 114 cm
+*Petrocalcic horizon--zone from 114 to 132 cm
+*Duripan--zone from 114 to 132 cm
+*Depth to lithologic discontinuity--86 cm; secondary lime in horizon below discontinuity
+*Particle-size control section--zone from 25 to 100 cm
+
+National Cooperative Soil Survey
+U.S.A.

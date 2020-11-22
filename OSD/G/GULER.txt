@@ -1,0 +1,121 @@
+LOCATION GULER                  WA
+
+Established Series
+Rev. JDC/RWL/KDPL
+09/2019
+
+GULER SERIES
+
+Landscape--mountain valleys
+Landform--valley sides
+Slope--0 to 20 percent
+Parent material--volcanic ash and colluvium derived from basalt
+Mean annual precipitation--about 890 mm
+Mean annual air temperature--about 8 degrees C
+Depth class--very deep
+Drainage class--well drained
+Soil moisture regime--xeric
+Soil temperature regime--mesic
+Soil moisture subclass--typic
+
+TAXONOMIC CLASS: Ashy-skeletal, amorphic, mesic Humic Vitrixerands
+
+TYPICAL PEDON: Guler ashy sandy loam under a ponderosa pine forest, on a 9-percent, southwest-facing slope at an elevation of 575 m (All textures are apparent field textures.)
+
+ Oi--0 to 3 cm; undecomposed needles, leaves, and twigs
+
+ A1--3 to 15 cm; ashy sandy loam, very dark grayish brown (10YR 3/2) dry, very dark brown (10YR 2/2) moist; weak very fine and fine granular structure; soft, very friable, nonsticky and nonplastic; weakly smeary; many very fine and fine and few medium roots; many very fine and fine irregular pores; 10 percent gravel; NaF pH 10.5; moderately acid (pH 5.8); clear wavy boundary
+
+ A2--15 to 30 cm; gravelly ashy sandy loam, brown (10YR 4/3) dry, dark brown (10YR 3/3) moist; weak very fine and fine granular structure; soft, very friable, nonsticky and nonplastic; weakly smeary; many very fine and fine and few medium roots; many very fine and fine irregular pores; 15 percent gravel; NaF pH 10.5, slightly acid (pH 6.5); clear smooth boundary
+
+ Bw--30 to 66 cm; gravelly ashy fine sandy loam, yellowish brown (10YR 5/4) dry, dark yellowish brown (10YR 3/4) moist; weak fine and very fine subangular blocky structure; soft, friable, nonsticky and nonplastic; very fine and fine irregular pores; 15 percent gravel and 5 percent cobbles; NaF pH 10.5, slightly acid (pH 6.5); clear wavy boundary
+
+ BC--66 to 155 cm; extremely gravelly ashy fine sandy loam, yellowish brown (10YR 5/6) dry, dark yellowish brown (10YR 4/6) moist; weak fine and very fine subangular blocky structure; soft, very friable, nonsticky and nonplastic; common very fine and few medium roots; many very fine and fine irregular pores; 50 percent gravel, 10 percent cobbles, and 10 percent stones; slightly acid (pH 6.2)
+
+TYPE LOCATION: Klickitat County, Washington, about 5 km southwest of Glenwood; about 300 m north and 610 m west of the southeast corner of section 19, T. 6 N., R. 12 E.; latitude 45.989144, longitude -121.352729, datum WGS 84 (coordinates estimated from section, township, and range)
+
+RANGE IN CHARACTERISTICS:
+Mean annual soil temperature--8 to 10 degrees C
+Soil moisture control section--usually moist, but dry in all parts 75 to 90 consecutive days following summer solstice
+Thickness of umbric epipedon--25 to 40 cm
+Percentage of surface covered with stones--0 to 15 percent
+
+Andic soil properties in particle-size control section (estimated)
+*Moist bulk density--0.65 to 0.90 g/cm3
+*Volcanic glass content--30 to 60 percent
+*Acid oxalate aluminum plus one-half iron--1 to 2 percent
+*Phosphorus retention--75 to 98 percent
+*15-bar water retention--8 to 12 percent
+
+A horizon
+Hue--7.5YR, 10YR
+Value--3 or 4 dry, 2 or 3 moist
+Chroma--2 or 3 dry or moist
+Texture modifier--gravelly in some pedons
+Reaction--5.6 to 6.5
+Combined thickness--23 to 51 cm
+
+Bw horizon
+Hue--7.5YR, 10YR
+Value--4 to 6 dry, 3 to 5 moist
+Chroma--4 to 6 dry or moist
+Texture of fine-earth fraction--ashy fine sandy loam, ashy sandy loam
+Gravel content--15 to 30 percent
+Cobble content--0 to 5 percent
+Reaction--6.1 to 7.3
+Thickness--30 to 38 cm
+
+BC horizon
+Hue--7.5YR, 10YR
+Value--4 to 6 dry, 3 to 5 moist
+Chroma--4 to 6 dry or moist
+Texture of fine-earth fraction--ashy fine sand, ashy fine sandy loam
+Gravel content--40 to 60 percent
+Cobble content--5 to 10 percent
+Stone content--0 to 10 percent
+Reaction--6.1 to 7.3
+
+COMPETING SERIES: None
+
+GEOGRAPHIC SETTING:
+Elevation--550 to 610 m
+Climate--warm, dry summers; cool, moist winters; snow cover in December through March
+Mean annual precipitation--840 to 1000 mm
+Mean January air temperature--about -3 degrees C
+Mean July air temperature--19 degrees C
+Mean annual air temperature--46 to 48 degrees F
+Frost-free season--75 to 95 days
+
+GEOGRAPHICALLY ASSOCIATED SOILS:
+Conboy, Segidal--aquic soil moisture regime
+Firoke, McCumber--frigid soil temperature regime
+Glen--ashy particle-size class
+
+DRAINAGE AND SATURATED HYDRAULIC CONDUCTIVITY:
+Drainage class--well drained
+Saturated hydraulic conductivity (Ksat)--high
+
+USE AND VEGETATION:
+Use--timber production, livestock grazing, wildlife habitat; small areas of hay and pasture production
+Vegetation--mainly ponderosa pine and an understory of antelope bitterbrush, Idaho fescue, elk sedge, hawkweed, rabbitbrush, goldenweed, snowbrush ceanothus, mountain brome, and needlegrass
+
+DISTRIBUTION AND EXTENT: Klickitat County, Washington; MLRA 6; small extent
+
+SOIL SURVEY REGIONAL OFFICE (SSRO) RESPONSIBLE: Portland, Oregon
+
+SERIES ESTABLISHED: Yakama Nation, Klickitat County, Washington; 2014
+
+REMARKS:
+Diagnostic horizons and other features recognized in this pedon
+*Umbric epipedon--zone from 3 to 30 cm
+*Cambic horizon--zone from 30 to 155 cm
+*Particle-size control section--zone from 3 to 104 cm
+*Andic soil properties--zone from 3 to 155 cm
+
+12/2005--The Guler series originally was within the boundary of the Klickitat County soil survey area. In 2003, the boundary was changed so that the series is now in the Yakama Nation, Closed Area Soil Survey.
+
+ADDITIONAL DATA:
+Partial laboratory data--National Soil Survey Laboratory pedon number 87P0064 
+
+National Cooperative Soil Survey
+U.S.A.

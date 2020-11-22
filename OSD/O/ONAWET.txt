@@ -1,0 +1,128 @@
+LOCATION ONAWET                 NE+KS
+
+Established Series
+Rev. GAB-PTC-JFH
+06/2007
+
+ONAWET SERIES
+
+The Onawet series consists of very deep, very poorly drained soils formed in alluvium on flood plains. Slope ranges from 0 to 1 percent. The mean annual precipitation is about 740 millimeters and the mean annual air temperature is about 11 degrees C.
+
+TAXONOMIC CLASS: Clayey over loamy, smectitic over mixed, superactive, calcareous, mesic Aeric Fluvaquents
+
+TYPICAL PEDON: Onawet silty clay loam with a slope of nearly 0 percent on a nearly level flood plain; cultivated. (Colors are for moist soil unless otherwise stated.)
+
+  Ap--0 to 18 centimeters; very dark grayish brown (10YR 3/2) silty clay loam, dark grayish brown (10YR 4/2) dry; weak fine granular structure; friable; slightly effervescent; slightly alkaline; abrupt smooth boundary. (15 to 25 centimeters thick)
+
+  Cg1--18 to 40 centimeters; dark grayish brown (2.5Y 4/2) silty clay, grayish brown (2.5Y 5/2) dry; moderate fine angular blocky structure; firm; common medium distinct dark reddish brown (5YR 3/3) redox concentrations; strongly effervescent; slightly alkaline; clear wavy boundary.
+
+  Cg2--40 to 61 centimeters; dark grayish brown (2.5Y 4/2) silty clay, grayish brown (2.5Y 5/2) dry; massive; firm; common medium distinct dark yellowish brown (10YR 4/4) redox concentrations; strongly effervescent; slightly alkaline; abrupt wavy boundary. (Combined thickness of the Cg horizons is 30 to 64 centimeters)
+
+  2Cg3--61 to 81 centimeters; dark grayish brown (2.5Y 4/2) silt loam, grayish brown (2.5Y 5/2) dry and thin strata of light brownish gray (2.5Y 6/2) dry; massive; friable; common fine distinct reddish brown (5YR 4/4) redox concentrations; strongly effervescent; slightly alkaline; clear wavy boundary.
+
+  2Cg4--81 to 99 centimeters; dark grayish brown (2.5Y 4/2) very fine sandy loam, grayish brown (2.5Y 5/2) dry and thin strata of light brownish gray (2.5Y 6/2) dry; massive; very friable; common fine distinct yellowish brown (10YR 5/6) redox concentrations; violently effervescent; slightly alkaline; clear wavy boundary.
+
+  2Cg5--99 to 142 centimeters; dark grayish brown (2.5Y 4/2) silt loam, grayish brown (2.5Y 5/2) dry; massive; friable; common fine distinct yellowish brown (10YR 5/6) redox concentrations; strongly effervescent; slightly alkaline; clear wavy boundary.
+
+  3Cg6--142 to 203 centimeters; dark grayish brown (2.5Y 4/2) loamy fine sand, grayish brown (2.5Y 5/2) dry; massive; very friable; common medium distinct yellowish brown (10YR 5/6) redox concentrations; strongly effervescent; slightly alkaline.
+
+TYPE LOCATION: Major Land Resource Area 107B - Iowa and Missouri Deep Loess Hills, Washington County Nebraska Subset; about 4 1/2 miles east of Herman; 1800 feet east and 825 feet south of the northwest corner of sec. 25, T. 20 N., R. 11 E.; USGS Herman, Nebraska Topographic Quadrangle; latitude 41 degrees 40 minutes 51 seconds N. and longitude 96 degrees 7 minutes 41 seconds W. NAD 27.
+
+RANGE IN CHARACTERISTICS: 
+Depth to lithologic discontinuity - 45 to 90 centimeters
+Thickness of the solum - Less that 30 centimeters
+Particle-size control section clay percents (weighted average) - 50 to 60 percent (with silty clay or clay textures) above the discontinuity, and 12 to 18 percent (with silt loam, loam, or very fine sandy loam textures) below the discontinuity.
+
+A horizon:
+Hue: 10YR or 2.5Y
+Value: 3 or 4 
+Chroma: 1 or 2
+Texture: silty clay loam, silty clay or silt loam
+Clay content: 15 to 55 percent
+Calcium carbonate equivalent: 5 to 30 percent
+Reaction: slightly to moderately alkaline  
+
+Some pedons have an AC horizon.
+
+Cg horizon:
+Hue: 5Y, 2.5Y or 10YR
+Value: 3 to 5
+Chroma: 0 to 2
+Texture: silty clay or clay
+Clay content: 50 to 60 percent
+Calcium carbonate equivalent: 5 to 30 percent
+Reaction: slightly to moderately alkaline
+
+2Cg horizon:
+Hue: 5Y, 2.5Y or 10YR
+Value: 4 or 5 
+Chroma: 0 to 2
+Texture: silt loam, very fine sandy loam, or loam 
+Clay content: 12 to 18 percent
+Calcium carbonate equivalent: 5 to 30 percent
+Reaction: slightly to moderately alkaline
+
+3Cg horizon:
+Hue: 5Y, 2.5Y or 10YR 
+Value: 4 or 5 
+Chroma: 0 to 2
+Texture: loamy fine sand, loamy sand or fine sand 
+Calcium carbonate equivalent: 5 to 30 percent
+Reaction: slightly to moderately alkaline
+
+COMPETING SERIES: There are no competing series.
+
+GEOGRAPHIC SETTING: 
+Parent material - calcareous alluvium
+Landform - ephemeral oxbow lakes on floodplains of the Missouri River
+Slopes - 0 to 1 percent
+Elevation - 275 to 335 meters
+Mean annual air temperature - 9 to 13 degrees C
+Mean annual precipitation - 610 to 910 millimeters
+Frost-free period - 150 to 175 days
+
+GEOGRAPHICALLY ASSOCIATED SOILS:
+Albaton - are on similar topography and in the fine particle-size class.
+Blake - are on slightly higher topography and in the fine-silty particle-size class.
+Onawa - are on slightly higher topography and in the Aquertic Udifluvents Subgroup.
+Percival - are on slightly higher topography and are somewhat poorly drained.
+Grable - are on higher landscape positions, in the coarse-silty over sandy or sandy-skeletal particle size class, and in the Mollic Udifluvents Subgroup.
+Haynie - are on higher landscape positions, in the coarse-silty particle-size class, and in the Mollic Udifluvents Subgroup.
+Sarpy  are on higher landscape positions, and in the Typic Udipsamments Subgroup.
+Wathena - are on higher landscape positions, in the sandy particle-size class, and in the Mollic Udifluvents Subgroup.
+
+DRAINAGE AND SATURATED HYDRAULIC CONDUCTIVITY: 
+Drainage - 15 centimeters above the surface to 30 centimeters below the surface all year (very poorly drained)
+Runoff - Very slow
+Saturated Hydraulic Conductivity: Slow in the upper part and moderate or moderately rapid in the lower part
+Flooding: Occasional to frequent, and duration is brief to long
+
+USE AND VEGETATION: Most areas are cropped to corn and soybeans. Native vegetation is tall, water tolerant prairie grasses, and cottonwood and willow trees.
+
+DISTRIBUTION AND EXTENT:
+Physiographic Division  Interior Plains
+Physiographic Province  Central Lowland
+Physiographic Section  Dissected Till Plains
+Local Physiographic Area - Flood plain of the Missouri River
+Land Resource Region  Central Feed Grains and Livestock Region (LRR M)
+Major Land resource Area  Iowa and Missouri Deep Loess Hills (MLRA 107B)
+
+Onawet soils are of small extent;  to date, 2,473 acres are correlated.
+
+MLRA SOIL SURVEY REGIONAL OFFICE (MO) RESPONSIBLE: Indianapolis, Indiana
+
+SERIES ESTABLISHED: Washington County, Nebraska, 2003. The named is coined.
+
+REMARKS: 
+Diagnostic horizons and features recognized in the typical pedon are:
+Particle-size control section - 25 to 100 centimeters (Cg1, Cg2, 2Cg3, 2Cg4 horizons)
+Ochric epipedon - 0 to 18 centimeters (Ap horizon)
+Other features - strongly contrasting particle size classes within the control section.
+Soil moisture regime: Aquic
+
+Remarks: These soils were originally mapped as Rauville in the previous Washington County Nebraska soil survey. The Rauville soils are frigid.
+
+The assignment of the cation-exchange activity class is inferred from lab data from similar soils in the surrounding area.
+
+National Cooperative Soil Survey
+U.S.A.

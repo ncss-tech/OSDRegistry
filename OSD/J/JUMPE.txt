@@ -1,0 +1,148 @@
+LOCATION JUMPE                  WA
+
+Established Series
+Rev. PNP/KDPL/SBC
+09/2019
+
+JUMPE SERIES
+
+Landscape--mountains
+Landform--mountain slopes, summits, ridges
+Slope--0 to 90 percent
+Parent material--residuum and colluvium derived from Yakima basalt with an influence of volcanic ash and loess in upper part
+Mean annual precipitation--about 760 mm
+Mean annual air temperature--about 7 degrees C
+Depth class--very deep
+Drainage class--well drained
+Soil moisture regime--xeric
+Soil temperature regime--frigid
+Soil moisture subclass--typic
+
+TAXONOMIC CLASS: Loamy-skeletal, isotic, frigid Vitrandic Haploxerepts
+
+TYPICAL PEDON: Jumpe cobbly ashy loam, extremely stony, under a coniferous forest on a 40-percent, concave, northeast-facing slope at an elevation of 1470 m (All textures are apparent field textures.)
+
+ Oe--0 to 5 cm; partially decomposed forest litter
+
+ A--5 to 10 cm; cobbly ashy loam, brown (10YR 5/3) dry, very dark grayish brown (10YR 3/2) moist; weak very fine granular structure; slightly hard, very friable, nonsticky and nonplastic; many fine and medium roots; many fine irregular pores; 10 percent angular gravel and 10 percent angular cobbles; NaF pH 8.8; moderately acid (pH 6.0); abrupt smooth boundary
+
+ Bw1--10 to 30 cm; cobbly ashy loam, yellowish brown (10YR 5/4) dry, dark yellowish brown (10YR 4/4) moist; weak medium and fine subangular blocky structure; slightly hard, friable, slightly sticky and slightly plastic; many fine and medium roots; many fine tubular pores; 10 percent angular gravel and 20 percent angular cobbles; NaF pH 8.5; slightly acid (pH 6.2); abrupt smooth boundary
+
+ Bw2--30 to 71 cm; very cobbly ashy loam, yellowish brown (10YR 5/4) dry, brown (7.5YR 4/4) moist; weak medium and fine subangular blocky structure; slightly hard, friable, slightly sticky and moderately plastic; common fine and medium roots; many fine tubular pores; 25 percent angular gravel and 25 percent angular cobbles; NaF pH 8.8; slightly acid (pH 6.2); clear smooth boundary
+
+ 2BC--71 to 150 cm; extremely cobbly loam, light yellowish brown (10YR 6/4) dry, dark yellowish brown (10YR 3/4) moist; massive; hard, firm, slightly sticky and slightly plastic; common fine and medium roots; many coarse irregular pores; 20 percent angular gravel and 50 percent angular cobbles; slightly acid (pH 6.2)
+
+TYPE LOCATION: Kittitas County, Washington, about 7 km southwest of Colockum Pass; about 490 m north and 730 m east of the southwest corner of section 31, T. 20 N., R. 20 E.; Naneum Canyon, Washington, U.S. Geological Survey quadrangle; latitude 47.180089, longitude -120.377076, datum WGS 84 (coordinates estimated from section, township, and range)
+
+RANGE IN CHARACTERISTICS:
+Mean annual air temperature--6 to 8 degrees C
+Moisture control section--usually moist, but dry 60 to 75 consecutive days following summer solstice
+Percentage of surface covered with stones--0.01 to 5 percent
+
+Particle-size control section
+*Content of clay--15 to 27 percent
+*Content of sand--20 to 50 percent
+*Content of rock fragments--35 to 70 percent basaltic gravel, cobbles, and stones
+
+Vitrandic soil properties (upper 64 to 114 cm of solum)
+*Estimated moist bulk density--1.15 to 1.35 g/cm3
+*Volcanic glass content--6 to 20 percent
+*Acid oxalate Al plus 1/2 Fe--0.4 to 1.0 percent
+*15-bar water retention (air-dried samples)--5 to 10 percent
+
+Oe horizon
+Thickness--3 to 8 cm
+
+A horizon
+Hue--10YR, 7.5YR
+Value--4 to 6 dry, 3 to 5 moist
+Chroma--1 to 4 dry or moist
+Reaction--5.1 to 6.5
+Thickness--3 to 15 cm
+
+Bw horizon
+Hue--10YR, 7.5YR
+Value--4 to 6 dry, 3 or 4 moist
+Chroma--3 or 4 dry or moist
+Texture of fine-earth fraction--ashy loam, ashy silt loam
+Rock fragment content--35 to 70 percent
+Base saturation--60 to 90 percent
+Reaction--5.1 to 6.5
+Combined thickness--50 to 99 cm
+
+2BC horizon
+Hue--10YR, 7.5YR
+Value--5 or 6 dry, 3 or 4 moist
+Chroma--3 or 4 dry or moist
+Texture of fine-earth fraction--loam, silt loam
+Rock fragment content--35 to 75 percent
+Reaction--5.1 to 6.5
+
+COMPETING SERIES:
+Analulu, Huntrock--50 to 100 cm (moderately deep) to a lithic contact (argillite)
+Ardenvoir--100 to 150 cm (deep) to a paralithic contact (metasedimentary rock)
+Ardtoo--100 to 150 cm (deep) to a paralithic contact (gneiss); dry less than 60 days
+Blackprince--50 to 100 cm (moderately deep) to a paralithic contact (granitic rock)
+Blinn, Kamela--50 to 100 cm (moderately deep) to a lithic contact (basalt)
+Brevco--50 to 100 cm (moderately deep) to a lithic contact (granite)
+Coxit--more than 50 percent sand; sandy loam in particle-size control section
+Daxty--50 to 100 cm (moderately deep) to a lithic contact (tuff)
+Easte--100 to 150 cm (deep) to a paralithic contact (andesite)
+Highhorn--100 to 150 cm (deep) to a lithic contact (argillite)
+Jimbluff--2 to 6 percent clay; sandy loam and coarse sandy loam in particle-size control section
+Lekrem--3 to 8 percent clay; sandy loam in particle-size control section
+Lemoncreek--50 to 100 cm (moderately deep) to a lithic contact (metavolcanic rock); dry less than 60 days
+Longort--64 to 100 cm (moderately deep) to densic contact
+Minaloosa--dry less than 60 days; Bt horizon that has clay films
+Noil--100 to 150 cm (deep) to a paralithic contact (schist)
+Ontrail--5 to 12 percent clay in particle-size control section; hue of 5YR or 7.5YR throughout
+Radercreek--100 to 150 cm (deep) to a lithic contact (sandstone)
+Redpeak, Santop--50 to 100 cm (moderately deep) to a lithic contact (sandstone)
+Seeburg--4 to 7 percent clay in particle-size control section; 5 to 15 percent pumice fragments in upper part of solum
+Thout--50 to 100 cm (moderately deep) to a lithic contact (andesite)
+Threecabin--100 to 150 cm (deep) to a lithic contact (basalt); dry less than 60 days
+Warfield--100 to 150 cm or more (deep, very deep) to a lithic contact (granite); dry less than 60 days
+
+GEOGRAPHIC SETTING:
+Elevation--850 to 1775 m
+Climate--warm, moderately dry summers; cool, moist winters
+Mean annual precipitation--460 to 1140 mm
+Mean January air temperature--about -4 degrees C
+Mean July air temperature--about 18 degrees C
+Mean annual air temperature--about 6 to 7 degrees C
+Frost-free season--70 to 115 days
+Growing season (-2 degrees C)--135 to 170 days
+
+GEOGRAPHICALLY ASSOCIATED SOILS:
+Bocker--on plateaus; less than 25 cm (very shallow) to a lithic contact (basalt)
+Loneridge--on ridges; clayey-skeletal particle-size class; argillic horizon
+Sapkin--on mountainsides; 50 to 100 cm (moderately deep) to a lithic contact (basalt); mollic epipedon
+Stemilt--on mountains; mollic epipedon; argillic horizon
+Sutkin--on mountainsides; mollic epipedon
+
+DRAINAGE AND SATURATED HYDRAULIC CONDUCTIVITY:
+Drainage class--well drained
+Saturated hydraulic conductivity (Ksat)--moderately high
+
+USE AND VEGETATION:
+Use--timber production, wildlife habitat, recreation, watershed
+Vegetation--Douglas-fir, western larch, ponderosa pine, lodgepole pine, grand fir, pinegrass, elk sedge, lupine, ceanothus, Oregon grape
+
+DISTRIBUTION AND EXTENT: East slopes of Cascade Mountains in north-central Washington; MLRAs 3 and 6; moderate extent
+
+SOIL SURVEY REGIONAL OFFICE (SSRO) RESPONSIBLE: Portland, Oregon
+
+SERIES ESTABLISHED: Chelan County Area, Washington; 1971
+
+REMARKS:
+Diagnostic horizons and other features in this pedon
+*Ochric epipedon
+*Cambic horizon--zone from 10 to 71 cm
+*Vitrandic subgroup feature--zone from 5 to 71 cm
+*Particle-size control section--zone from 30 to 105 cm
+
+ADDITIONAL DATA:
+Characterization data--sample numbers S76WA-037-3-1, 2, and 3, Riverside Soil Survey Laboratory, Riverside, California; sample numbers S90WA-077-005, S90WA-077-006 (taxadjunct), S90WA-077-008, and S80WA-037-008, Kellogg Soil Survey Laboratory, Lincoln, Nebraska
+
+National Cooperative Soil Survey
+U.S.A.

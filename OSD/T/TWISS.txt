@@ -1,0 +1,109 @@
+LOCATION TWISS                  WY
+
+Tentative Series
+DPG/DJP/CBR
+05/2020
+
+TWISS SERIES
+
+The Twiss series consists of very deep, somewhat poorly drained soils that formed in alluvium derived from interbedded sedimentary rocks. These soils are on floodplain steps. Slopes are 0 to 4 percent. Mean annual precipitation is about 280 mm and mean annual air temperature is about 4.0 degrees C.
+
+TAXONOMIC CLASS: Loamy-skeletal, mixed, superactive, frigid Cumulic Haploxerolls
+
+TYPICAL PEDON: Twiss silt loam on irrigated hayland. (Colors are for moist soil unless otherwise noted.)
+
+ A--0 to 10 cm; dark brown (7.5YR 3/2) silt loam, brown (7.5YR 4/3) dry; weak medium granular structure; soft, friable, slightly sticky, slightly plastic; many very fine, fine, and medium roots; many very fine and fine and common medium tubular pores; very slightly effervescent; slightly alkaline (pH 7.8); clear smooth boundary. (6 to 12 cm thick)
+
+ Bw1--10 to 25 cm; dark brown (7.5YR 3/2) silt loam, brown (7.5YR 4/3) dry; moderate medium subangular blocky structure; slightly hard, friable, slightly sticky, slightly plastic; many very fine and fine and common medium roots; many very fine and fine and common medium tubular pores; very slightly effervescent; slightly alkaline (pH 7.8); clear smooth boundary.
+
+ Bw2--25 to 43 cm; dark brown (7.5YR 3/2) silt loam, brown (7.5YR 4/3) dry; weak medium subangular blocky structure; slightly hard, friable, slightly sticky, slightly plastic; common very fine and fine roots; many very fine and fine and common medium tubular pores; very slightly effervescent; slightly alkaline (pH 7.8); clear smooth boundary.  (Combined thickness of the Bw horizons is 30 to 60 cm)
+
+ C1--43 to 57 cm; dark brown (7.5YR 3/3) silt loam, brown (7.5YR 4/3) dry; massive; slightly hard, friable, slightly sticky, slightly plastic; few very fine and fine roots; common very fine, fine and medium pores; 10 percent gravel; 10 percent common fine distinct yellowish red (5YR 4/6) masses of oxidized iron in the matrix; very slightly effervescent; slightly alkaline (pH 7.8); clear smooth boundary. (0 to 20 centimeters thick).
+
+ C2--57 to 200 cm; dark brown (10YR 3/3) extremely gravelly loam, brown (10YR 4/3) dry; single grain; loose, slightly sticky, slightly plastic; few very fine and fine roots; 70 percent gravel; 10 percent common fine distinct yellowish red (5YR 4/6) masses of oxidized iron in the matrix; very slightly effervescent; slightly alkaline (pH 7.8).
+
+TYPE LOCATION: Lincoln County, Wyoming; USGS Nugent Park topographic quadrangle; latitude 42 degrees 15minutes 25.60 seconds north, longitude 110 degrees 8 minutes 35.61 seconds west, datum WGS84.
+
+RANGE IN CHARACTERISTICS:
+Mean annual soil temperature--3.0 to 7.0 degrees C
+Thickness of mollic epipedon--50 to 100 centimeters
+Depth to water table--45 to 90 centimeters
+
+Particle-size control section (weighted averages):
+Clay content--16 to 24 percent
+Total rock fragments--35 to 48 percent
+
+A horizon
+Hue--7.5YR or 10YR
+Value--2 to 3 moist, 3 or 4 dry
+Chroma--2 or 3
+Clay content--13 to 20 percent
+Rock fragments--0 to 5 percent gravel
+Reaction--pH 7.4 to 8.0
+
+Bw horizons
+Hue--7.5YR or 10YR
+Value--2 to 3 moist, 3 or 4 dry
+Chroma-- 2 or 3 
+Texture (less than 2 mm fraction)--silt loam, loam, sandy clay loam
+Clay content--14 to 26 percent
+Rock fragments--0 to 10 percent gravel
+Reaction--pH 7.8 to 8.2
+
+C1 horizon (when present)
+Hue--7.5YR or 10YR
+Value--2 to 4 moist, 3 to 5 dry
+Chroma--2 to 3 moist, 2 to 5 dry 
+Clay content--16 to 25 percent
+Rock fragments--5 to 12 percent gravel
+Reaction--pH 7.6 to 8.4
+
+C2 horizon
+Hue--7.5YR to 10YR
+Value--2 to 4 moist, 3 to 5 dry
+Chroma--2 to 3 moist, 2 to 5 dry 
+Texture (less than 2 mm fraction)--loam, sandy clay loam
+Clay content--16 to 23 percent
+Rock fragments--60 to 80 percent-60 to 65 percent gravel and 0 to 15 percent cobbles
+Reaction--pH 7.6 to 8.0
+
+COMPETING SERIES:
+Ripcon (NV)--soils have greater than 35 percent rock fragments in the A
+Steptoe (NV)--soils have greater than 35 percent rock fragments in the A
+Tierney (NV)--soils have greater than 15 percent rock fragments in the A
+
+GEOGRAPHIC SETTING:
+Landform--floodplain steps
+Elevation--1,900 to 2,110 meters
+Slope--0 to 4 percent
+Parent material--alluvium derived from interbedded sedimentary rock
+Climate--long, cold winters; cool, moist springs; short, cool summers
+Mean annual precipitation--225 to 375 mm
+Mean annual air temperature--2.0 to 6.0 degrees C
+Frost-free period--40 to 90 days
+
+GEOGRAPHICALLY ASSOCIATED SOILS:  None listed.
+
+DRAINAGE AND SATURATED HYDRAULIC CONDUCTIVITY: somewhat poorly drained, 5 to 15 um/sec
+ 
+USE AND VEGETATION: Twiss soils are primarily used for irrigated pasture and hayland. The potential native vegetation is mainly basin wildrye, willow, western wheatgrass, shrubby cinquefoil, Nebraska sedge and other sedges, rushes, and forbs.
+
+DISTRIBUTION AND EXTENT: Twiss soils are of small extent in western Wyoming; MLRA 13.
+
+SOIL SURVEY REGIONAL OFFICE (SSRO) RESPONSIBLE: Bozeman, Montana 
+
+SERIES PROPOSED: Lincoln County, Wyoming, 2020.  The Twiss series name is derived from a local landmark.
+
+REMARKS: Diagnostic horizons and features recognized in this pedon:
+Mollic epipedon--0 to 57 cm (A , Bw1, Bw2 and C1 horizons)
+Irregular decrease in organic carbon--57 to 125 cm (Part of the C2 horizon)
+Redoximorphic features--43 to 200 cm (C1 and C2 horizons)
+
+Particle-size control section--25 to 100 cm
+
+Twiss soils have a frigid temperature regime and a xeric moisture regime.
+
+Taxonomic version: Twelfth Edition, 2014
+
+National Cooperative Soil Survey
+U.S.A.

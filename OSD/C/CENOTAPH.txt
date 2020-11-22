@@ -1,0 +1,119 @@
+LOCATION CENOTAPH               AK
+
+Tentative Series
+IRD. TD/NDP/SCD
+06/2020
+
+CENOTAPH SERIES
+
+Landscape--till plains
+Landform--crag and tail
+Slope--0 to 5 percent
+Parent material--organic material over till
+Mean annual precipitation--about 1400 mm
+Mean annual air temperature--about 5 degrees C
+Depth class--very deep
+Drainage class--poorly drained
+Soil moisture regime--aquic
+Soil temperature regime--cryic
+Soil moisture subclass--typic
+
+TAXONOMIC CLASS: Coarse-loamy, mixed, superactive, calcareous Typic Cryaquents
+
+TYPICAL PEDON: Cenotaph fine sandy loam on a crag and tail, on a slope of 2 percent at an elevation of 79 m (When described on September 25, 2013, the soil was moist from the surface to a depth of 25 cm and wet from a depth of 25 to 150 cm.)
+
+ Oe--0 to 17 cm; moderately decomposed plant material; slightly acid (pH 6.4); clear smooth boundary
+
+ A--17 to 25 cm; gravelly fine sandy loam, 60 percent light yellowish brown (2.5Y 6/3) dry and olive brown (2.5Y 4/3) moist, 40 percent dark gray (2.5Y 4/1) dry and greenish gray (10GY 6/1) moist; weak fine subangular blocky structure; slightly hard, friable, slightly sticky and slightly plastic; common very fine, fine, and medium roots throughout; common very fine and fine interstitial pores; 5 percent cobbles and 20 percent medium gravel; slightly effervescent (HCL, 1N); moderately alkaline (pH 7.9); clear irregular boundary
+
+ Cg1--25 to 100 cm; gravelly fine sandy loam, 85 percent gray (2.5Y 5/1) dry and greenish gray (10GY 6/1) moist, 15 percent dark grayish brown (10YR 4/2) dry and very dark brown (10YR 2/2) moist; massive; slightly hard, friable, slightly sticky and slightly plastic; common fine roots throughout; common very fine and fine interstitial pores; 5 percent masses of oxidized iron, light olive brown (2.5Y 5/6) moist; 5 percent cobbles and 20 percent medium gravel; strongly effervescent (HCL, 1N); moderately alkaline (pH 7.9); gradual smooth boundary
+
+ Cg2--100 to 150 cm; gravelly loamy fine sand, gray (2.5Y 5/1) dry, greenish gray (10GY 6/1) moist; massive; slightly hard, friable, nonsticky and nonplastic; few very fine interstitial pores; 15 percent coarse gravel; violently effervescent (HCL, 1N); moderately alkaline (pH 8.0)
+
+TYPE LOCATION: Glacier Bay National Park and Preserve-Gustavus Area, Alaska; Hoonah-Angoon Census Area, Alaska; latitude 58.6446330, longitude -136.2226592, datum WGS84 (coordinates determined by a GPS unit)
+
+RANGE IN CHARACTERISTICS:
+Mean annual soil temperature--1 to 7 degrees C
+Soil moisture control section--normally saturated below a depth of 25 cm year round
+Depth to redoximorphic iron concentrations--25 cm or more
+
+Particle-size control section
+*Clay content--3 to 12 percent
+*Total rock fragment content--10 to 30 percent
+
+Oe horizon
+Thickness--15 to 23 cm
+
+A horizon
+Hue--10YR to 2.5Y or 10GY moist or dry
+Value--3 to 6 moist, 5 to 7 dry
+Chroma--1 to 4 moist or dry
+Fine-earth texture--fine sandy loam, sandy loam, silt loam
+Clay content--10 to 12 percent
+Gravel content--15 to 30 percent
+Cobble content--0 to 8 percent
+Reaction (pH)--7.5 to 7.9
+Thickness--5 to 15 cm
+
+Cg1 horizon
+Hue--10YR or 2.5Y moist or dry, neutral to 5GY wet
+Value--2 to 4 moist or dry, 2.5 to 5 wet
+Chroma--1 to 3 moist or dry, 0 or 1 wet
+Fine-earth texture--fine sandy loam, sandy loam, silt loam
+Clay content--8 to 12 percent
+Gravel content--15 to 30 percent
+Cobble content--0 to 8 percent
+Reaction (pH)--7.5 to 8.0
+Thickness--65 to 90 cm
+
+Cg2 horizon
+Hue--2.5Y or 5Y moist or dry, neutral to 10GY wet
+Value--3 to 6 moist, dry, or wet
+Chroma--1 to 3 moist or dry, 0 or 1 wet
+Fine-earth texture--loamy fine sand, loamy sand, sandy loam
+Clay content--3 to 7 percent
+Gravel content--15 to 25 percent
+Reaction (pH)--7.6 to 8.0
+Thickness--45 to 60 cm
+
+COMPETING SERIES:
+Beartrack--lacks a folistic epipedon
+
+GEOGRAPHIC SETTING:
+Elevation--0 to 100 m
+Climate--cool, moist summers; mild, wet winters
+Mean annual precipitation--850 to 1850 mm
+Mean annual air temperature--1 to 9 degrees C
+Frost-free period--90 to 154 days
+
+GEOGRAPHICALLY ASSOCIATED SOILS:
+Fossil--more than 35 percent rock fragments in particle-size control section; on similar landforms
+Lituya--more than 65 percent rock fragments in particle-size control section; on adjacent landforms
+Tyeen--free carbonates throughout particle-size control section; on similar landforms
+
+DRAINAGE AND SATURATED HYDRAULIC CONDUCTIVITY:
+Drainage class--poorly drained
+Depth to saturation in normal years--more than 25 cm year round
+Saturated hydraulic conductivity (Ksat)--high in A and Cg1 horizons, very high in Cg2 horizon
+
+USE AND VEGETATION:
+Use--wildlife habitat, recreation
+Potential natural vegetation--Sitka alder, common ladyfern, spreading woodfern, devilsclub, Sitka spruce, balsam poplar, salmonberry, Sitka willow, western hemlock, Schreber's big red stem moss, spreading woodfern, fireweed, oval-leaf blueberry, mountain hemlock
+
+DISTRIBUTION AND EXTENT: Alexander Archipelago-Gulf of Alaska Coast, Alaska; MLRA 220; moderate extent
+
+SOIL SURVEY REGIONAL OFFICE (SSRO) RESPONSIBLE: Portland, Oregon
+
+SERIES PROPOSED: Glacier Bay National Park and Preserve-Gustavus Area, Alaska; 2020; name from Cenotaph Island in Glacier Bay National Park and Preserve
+
+REMARKS:
+Diagnostic horizons and other features in this pedon
+*Ochric epipedon
+*Folistic epipedon--zone from the surface to a depth of 17 cm
+*Aquic conditions--zone from 25 to 150 cm
+*Redoximorphic concentrations--zone from 25 to 100 cm
+*Free carbonates--zone from 17 to 150 cm
+*Particle-size control section--zone from 42 to 117 cm
+
+National Cooperative Soil Survey
+U.S.A.

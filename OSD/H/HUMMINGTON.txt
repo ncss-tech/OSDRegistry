@@ -1,0 +1,149 @@
+LOCATION HUMMINGTON             OR
+
+Established Series
+Rev. PRS/JGM/KMS
+01/2017
+
+HUMMINGTON SERIES
+
+Landscape--western Cascade Mountains
+Landform--mountain slopes, coastal mountains
+Slope--5 to 90 percent
+Parent material--colluvium derived from hard igneous extrusive rock; volcanic ash mixed throughout in Willamette National Forest
+Mean annual precipitation--2100 mm
+Mean annual air temperature--6 degrees C
+Depth class--moderately deep
+Drainage class--well drained
+Soil moisture regime--udic
+Soil temperature regime--cryic
+Soil moisture subclass--typic
+
+TAXONOMIC CLASS: Medial-skeletal, amorphic Typic Haplocryands
+
+TYPICAL PEDON: Hummington gravelly medial loam, forested
+
+ Oi--0 to 4 cm; loose litter of undecomposed and partially decomposed needles, twigs, and leaves
+
+ A1--4 to 14 cm; gravelly medial loam, dark grayish brown (10YR 4/2) dry, very dark brown (10YR 2/2) moist; moderate fine and very fine granular structure; soft, friable, nonsticky and nonplastic; many very fine to medium roots; many very fine irregular pores; 10 percent gravel and 5 percent cobbles; strongly acid (pH 5.4); clear wavy boundary
+
+ A2--14 to 29 cm; gravelly medial loam, dark grayish brown (10YR 4/2) dry, very dark grayish brown (10YR 3/2) moist; moderate fine and medium granular structure; soft, friable, nonsticky and nonplastic; many very fine to medium roots; many very fine irregular pores; 15 percent gravel and 5 percent cobbles; strongly acid (pH 5.4); gradual wavy boundary
+
+ Bw1--29 to 52 cm; very gravelly medial loam, brown (10YR 5/3) dry, dark brown (10YR 3/3) moist; massive; soft, friable, nonsticky and nonplastic; many very fine to medium roots; many very fine irregular pores; 25 percent gravel and 10 percent cobbles; strongly acid (pH 5.5); gradual wavy boundary
+
+ Bw2--52 to 83 cm; extremely cobbly medial loam, brown (10YR 5/3) dry, dark brown (10YR 3/3) moist; massive; soft, friable, slightly sticky and slightly plastic; few very fine to medium roots; many very fine irregular pores; 40 percent cobbles and 35 percent gravel; strongly acid (pH 5.2); abrupt irregular boundary
+
+ R--83 cm; basalt
+
+TYPE LOCATION: Douglas County, Oregon; in the NE1/4SE1/4 of section 30, T. 27 S., R. 3 E., Willamette Meridian
+
+RANGE IN CHARACTERISTICS:
+Dry days--less than 45 consecutive days following summer solstice
+Mean annual soil temperature--5 to 8 degrees C
+Mean summer soil temperature--less than 8 degrees C
+Thickness of umbric epipedon--50 to 75 cm
+Depth to bedrock--50 to 100 cm below mineral soil surface
+Ash and pumice content--appreciable amount in upper 25 to 38 cm
+Thickness of andic soil properties--50 to 100 cm (below mineral soil surface)
+Reaction--4.5 to 6.0 throughout all mineral horizons
+
+Estimated properties of layers with andic soil properties
+*1/3-bar bulk density--0.50 to 0.90 g/cm3
+*Phosphate retention--greater than 85 percent
+*Ammonium oxalate extractable Al +  Fe--2 to 4 percent
+*15-bar water retention--30 to 70 percent (undried samples), greater than 15 percent (dried samples)
+*0.02- to 2.0-mm fraction--greater than 30 percent
+*Volcanic glass content in 0.02- to 2.0-mm fraction--5 to 30 percent
+
+Particle-size control section
+*Total clay content--7 to 18 percent
+*Total fragment content--35 to 75 percent
+
+A horizon
+*Hue--10YR, 7.5YR
+*Value--2 or 3 moist
+*Chroma--2 or 3 moist or dry
+*Clay content--7 to 18 percent
+*Total fragment content--15 to 50 percent
+*Gravel content--10 to 40 percent
+*Cobble content--5 to 15 percent
+*Structure--granular, subangular blocky
+*Organic matter content--3 to 8 percent
+*Combined thickness--15 to 51 cm
+
+Bw horizon
+*Hue--10YR, 7.5YR
+*Value--3 or 4 moist, 4 or 5 dry
+*Chroma--2 to 4 moist or dry
+*Clay content--7 to 18 percent
+*Total fragment content--35 to 75 percent
+*Gravel content--15 to 45 percent
+*Cobble content--5 to 45 percent
+*Stone content--0 to 10 percent
+*Structure--structureless, granular, subangular blocky
+*Combined thickness--35 to 66 cm
+
+COMPETING SERIES:
+Divers--greater than 150 cm deep to bedrock
+Highcamp--greater than 100 cm deep to bedrock
+Holderman--ochric epipedon
+Icecap--umbric epipedon less than 50 cm thick
+Kinzel, Oatman--greater than 150 cm deep to bedrock
+Ohana--moderately deep to dense till
+Otwin--ochric epipedon
+
+GEOGRAPHIC SETTING:
+Elevation--900 to 1800 m
+Climate--cold, wet winters; cool, moist summers
+Mean annual precipitation--1250 to 2900 mm
+Mean annual air temperature--4 to 7 degrees C
+Mean January temperature--about -4 degrees C
+Mean July temperature--about 10 degrees C
+Frost-free period--40 to 100 days
+
+GEOGRAPHICALLY ASSOCIATED SOILS:
+Cruiser--greater than 100 cm deep to bedrock; less than 35 percent rock fragments in particle-size control section
+Holderman--ochric epipedon
+Keel--umbric epipedon less than 50 cm thick; less than 35 percent rock fragments in particle-size control section
+Oneonta--greater than 100 cm deep to bedrock; less than 35 percent rock fragments in particle-size control section
+Snowlin--less than 35 percent rock fragments in particle-size control section; commonly on slopes of less than 40 percent
+Whitehorse--medial over loamy
+Winberry, Yellowstone--less than 50 cm deep to bedrock
+
+DRAINAGE AND SATURATED HYDRAULIC CONDUCTIVITY:
+Drainage class--well drained
+Saturation in normal years--none within profile
+Flooding--none
+Ponding--none
+Saturated hydraulic conductivity (Ksat)--high
+
+USE AND VEGETATION:
+Use--timber production, wildlife habitat, recreation
+Vegetation--Douglas-fir, noble fir, mountain hemlock, Pacific silver fir, vine maple, Pacific rhododendron, big huckleberry, oxalis
+
+DISTRIBUTION AND EXTENT: West side of central and southern Cascade Range, Oregon; MLRA 3; moderate extent
+
+MLRA SOIL SURVEY REGIONAL OFFICE (MO) RESPONSIBLE: Portland, Oregon
+
+SERIES ESTABLISHED: Douglas County, Oregon; 1974
+
+REMARKS:
+Classification changed based on 1998 Keys to Soil Taxonomy
+
+Diagnostic horizons and features recognized in this pedon
+*Umbric epipedon--zone from 4 to 83 cm
+*Particle-size control section--zone from 4 to 83 cm
+*Andic soil properties--zone from 4 to 83 cm
+*Volcanic glass--zone from 4 to 83 cm
+*Depth to lithic contact--83 cm
+
+06/2016--Assumed to meet criteria 2 (no ash required) for andic soil properties, in the 12th edition of Keys to Soil Taxonomy. It is also assumed that in the Willamette National Forest enough ash is present for the soils to meet criteria 3. The amount of ash in the soils in Douglas, Linn, and Lane Counties is unknown. Additional lab data is needed to confirm the degree of ash influence.
+
+08/2016--This series was reclassified from Dystric Cryandepts to Typic Fulvicryands when the Andisol soil order was established in the 4th edition of Soil Taxonomy. The organic matter content is too low in the data for the Hummington soils in NASIS, in the Hummington soils in the Douglas County soil survey manuscript, and in the Hummington sample pedon to support the Fulvicryand great group. The Hummington soils need to be investigated further; however, given observations in the Willamette National Forest, it is believed that they will not meet the criteria for Fulvicryands. These soils were reclassified as Typic Haplocryands.
+
+More investigation is needed to confirm that the zone from 25 to 50 cm has 2.0 cmol of Al (1n KCL).
+
+ADDITIONAL DATA: 
+Characterization data--pedon S75OR-39-11(1-5), Kellogg Soil Survey Laboratory, Lincoln, Nebraska; partial characterization data by Oregon State University reported in the Soil Survey of South Umpqua Area, Oregon, and sample RZ91-OR077-247, 248 from Douglas County, Oregon, Kellogg Soil Survey Laboratory, Lincoln, Nebraska, 6/1991
+
+National Cooperative Soil Survey
+U.S.A.

@@ -1,0 +1,186 @@
+LOCATION GORE                   LA+AR
+
+Established Series
+Rev. JLD:JJD:MJB
+01/2017
+
+GORE SERIES
+
+The Gore series consists of very deep, moderately well drained, very slowly permeable soils that formed in thick clayey fluvial sediments on Pleistocene age terraces.  Slope is dominantly 1 to 5 percent, but ranges to as much as 20 percent near escarpments that are adjacent to drainageways. Mean annual air temperature is about 17.0 degrees C (63 degrees F), and mean annual precipitation is about 1303 mm (51.3 in). 
+
+TAXONOMIC CLASS: Fine, mixed, active, thermic Vertic Paleudalfs
+
+TYPICAL PEDON:  Gore silt loam, on a smooth 4 percent side slope, in woodland at an elevation of 68.5 m (225 ft). (Colors are for moist soil unless otherwise stated.)
+
+     A--0 to 5 cm (0 to 2 in); dark grayish brown (10YR 4/2) silt loam; weak fine and medium subangular blocky structure; friable; many fine and medium roots; moderately acid; clear wavy boundary.  (Thickness of the A horizon is 3 to 15 cm [1 to 6 in])
+
+     E--5 to 13 cm (2 to 5 in); brown (10YR 5/3) silt loam; weak coarse platy structure; friable; common fine and medium roots; common fine pores; few medium faint grayish brown (10YR 5/2) masses of reduced iron with diffuse boundaries; moderately acid; clear wavy boundary.  (Thickness of the E horizon is 0 to 13 cm [0 to 5 in])
+
+     BE--13 to 18 cm (5 to 7 in); brown (7.5YR 5/4) loam; weak medium and coarse subangular blocky structure; friable; few fine roots; few fine pores; few medium distinct pale brown (10YR 6/3) masses of oxidized iron with sharp boundaries in matrix; few fine prominent black (10YR 2/1) concretions; strongly acid; clear wavy boundary.  (Thickness of the BE horizon is 0 to 10 cm [0 to 4 in])
+
+     Bt1--18 to 41 cm (7 to 16 in); red (2.5YR 4/6) silty clay; moderate fine and medium subangular blocky structure; firm; few fine roots; few fine pores; few faint clay films on faces of peds; few fine prominent pale brown (10YR 6/3) masses of oxidized iron with sharp boundaries in matrix; strongly acid; gradual wavy boundary.  
+
+     Bt2--41 to 61 cm (16 to 24 in); yellowish red (5YR 5/6) clay; few fine prominent light brownish gray (10YR 6/2) relict mottles; moderate fine and medium subangular blocky structure; firm; few fine roots; few fine pores; few faint clay films on faces of peds and in pores; very strongly acid; gradual wavy boundary.  
+
+     Bt3--61 to 76 cm (24 to 30 in); light brownish gray (10YR 6/2) clay; many medium prominent dark red (2.5YR 3/6) lithochromic mottles; moderate fine and medium subangular blocky structure; firm; few faint clay films on faces of peds; very strongly acid; gradual wavy boundary.  (Combined thickness of the Bt horizon is 41 to 119 cm [16 to 47 in]) 
+
+     BC--76 to 122 cm (30 to 48 in); gray (10YR 6/1) silty clay; many medium prominent red (2.5YR 4/6) and strong brown (7.5YR 5/6) lithochromic mottles; weak coarse subangular blocky structure; firm; few pockets of very fine sandy loam and silty clay loam in lower part of horizon; very strongly acid; abrupt wavy boundary.  (Thickness of the BC horizon is 0 to 61 cm [0 to 24 in])
+
+     Bss--122 to 147 (48 to 58 in); yellowish red (5YR 5/6) clay; moderate fine subangular blocky structure; firm; few distinct slickensides that do not intersect; moderately acid; clear wavy boundary.  (Thickness of the Bss horizon is 0 to 36 cm [0 inch to 14 in])
+
+     C--147 to 203 (58 to 80 in); reddish brown (2.5YR 4/4) clay; massive; firm; few distinct slickensides; few medium prominent grayish brown (2.5Y 5/2) iron depletions with diffuse boundaries; moderately acid.
+
+TYPE LOCATION:  Rapides Parish, Louisiana; 1.1 miles west of Otis; 38 yards north of road; sec. 26, T. 3 N., R. 4 W PLSS.
+
+USGS Topographic Quadrangle: Sieper, LA 
+Latitude: 31 degrees, 12 minutes, 42.25 seconds N 
+Longitude: 92 degrees, 44 minutes, 57.81 seconds W 
+
+Decimal Degrees: 
+Latitude: 31.21173611 degrees 
+Longitude: -92.74938889 degrees 
+Datum: WGS84 
+
+UTM Easting: 523871.71 m 
+UTM Northing: 3453095.12 m 
+UTM Zone: 15N
+
+RANGE IN CHARACTERISTICS:  
+Solum thickness: 102 to 152 cm (40 to 60 in)
+Depth to argillic horizon: 8 to 38 cm (3 to 15 in)
+Depth to redox depletions: 5.1 cm (2 in)
+Vertic features: 31 to 203 cm (12 to 80 in)
+
+Particle-size control section (weighted average):
+Clay content: 40 to 59 percent
+
+A or Ap horizon:
+Hue: 10YR
+Value: 3 to 5
+Chroma: 1 to 3
+Texture: very fine sandy loam, silt loam, or loam 
+Reaction: very strongly acid to moderately acid
+
+E horizon: 
+Hue: 10YR
+Value: 5 to 7
+Chroma: 1 to 3
+Texture: very fine sandy loam, silt loam, or loam 
+Redox depletions: amount-few; size-fine or medium; contrast-faint; color-shades of gray; boundary-diffuse; location-throughout  
+Reaction: very strongly acid to moderately acid
+
+BE or EB horizon (where present):
+Hue: 5YR to 10YR
+Value: 4 to 6 
+Chroma: 4 to 8
+Texture: very fine sandy loam, silt loam, loam, or silty clay loam
+Clay content: 15 to 40 percent
+Sand content: 30 to 50 percent
+Redox concentrations: amount-none or few; size-medium; contrast-distinct; color-shades of brown; boundary-sharp; location-throughout 
+Reaction: very strongly acid to moderately acid
+
+Bt horizon (upper part):
+Hue: 2.5YR or 5YR
+Value: 3 to 5
+Chroma: 4 to 8
+Texture: silty clay loam, silty clay, or clay 
+Clay content: 40 to 60 percent
+Sand content: 10 to 40 percent, but dominantly 10 to 20 percent
+Clay films: distinctness-faint to distinct; location-on ped faces and in pores 
+Redox concentrations: amount-few to common; size-fine or medium; contrast-faint to prominent; color-shades of red to brown; boundary-sharp; location-throughout  
+Reaction: very strongly acid to neutral
+
+Bt horizon (lower part):
+Hue: 2.5YR to 2.5Y
+Value: 3 to 6
+Chroma: 4 to 8; and 1 or 2 with hue of 10YR or 2.5Y
+Texture: clay or silty clay
+Clay content: 40 to 60 percent
+Sand content: 10 to 20 percent
+Clay films: distinctness-faint to distinct; location-on ped faces and in pores;
+Mottles (lithochromic): amount-few to many; size-fine or medium; contrast-faint to prominent; color-shades of red, brown or gray; boundary-sharp; location-throughout 
+Reaction: very strongly acid to neutral
+
+BC horizon: 
+Hue: 2.5YR to 2.5Y
+Value: 3 to 6
+Chroma: 1 to 8
+Texture: clay or silty clay
+Clay content: 40 to 70 percent
+Sand content: 10 to 20 percent
+Other features: Some pedons have pockets of very fine sandy loam, silt loam or silty clay loam 
+Mottles (lithochromic): amount-few to many; size-fine or medium; contrast-faint to prominent; color-shades of red, brown or gray; boundary-sharp; location-throughout 
+Reaction: very strongly acid to neutral
+
+Bss horizon: 
+Hue: 2.5YR or 5YR
+Value: 4 to 6
+Chroma: 4 to 6
+Texture: clay
+Clay content: 60 to 80 percent
+Slickensides and pressure faces: amount-few; distinctness-distinct or prominent
+Identifiable secondary carbonates: amount-none to common; size-fine or medium; kind-masses; location-throughout
+Effervescence: none to slight
+Reaction: very strongly acid to moderately alkaline
+
+C horizon:
+Hue: 2.5YR or 5YR
+Value: 3 to 6
+Chroma: 4 or 6
+Texture: clay or silty clay
+Clay content: 40 to 80 percent 
+Slickensides and pressure faces: amount-few; distinctness-distinct or prominent
+Identifiable secondary carbonates: amount-none to common; size-fine or medium; kind-masses; location-throughout
+Effervescence: none to slight
+Reaction: moderately acid to moderately alkaline
+
+COMPETING SERIES:  These are the Acadiana (LA), Boswell (MS) series in the same family and the Acadia (LA), Annona (TX), Forbing (LA), McKamie (LA), and Susquehanna (MS) series.
+Acadiana soils: have browner colors in the argillic horizon and have glossic features  
+Acadia soils: have 1 or 2 chroma in the argillic horizon  
+Annona, Forbing, and Susquehanna soils: have smectitic clay mineralogy  
+Boswell soils: do not have the reddish clays in the Bss and C horizons  McKamie soils: do not have 2 chroma mottles in the argillic horizon and are underlain with stratified loamy sediments
+
+GEOGRAPHIC SETTING:  
+Parent Material: Red clayey alluvium most likely washed from Permian Red Beds and associated sediments
+Landscape: Coastal Plains
+Landform: stream terrace of Pleistocene age
+Slope: 1 to 20 percent, but dominantly 1 to 5 percent
+Mean annual precipitation: 1069 to 1537 mm (42 to 60.5 in)
+Mean annual air temperature: 12 to 21.1 degrees C (54 to 70 degrees F)
+Mean annual soil temperature: 13.3 to 22.2 degrees C (56 to 72 degrees F)
+Frost-free period: 200 to 276 
+Elevation: 18.3 to 76.2 m (60 to 250 ft)
+
+GEOGRAPHICALLY ASSOCIATED SOILS:  These are the competing Acadia (LA), Ashford (LA), Forbing (LA), Kolin (LA) and McKamie (LA) series and Morse (LA), and Muskogee (OK) series.  
+Acadia and Ashford soils: are on lower, level or nearly level areas  
+Forbing and McKamie soils: are on the slightly lower and steeper side slopes 
+Morse soils: are on adjacent lower slopes, are calcareous throughout, and do not have 2 chroma mottles  
+McKamie soils: are in lower areas and have a thinner solum
+
+DRAINAGE AND PERMEABILITY:  
+Drainage: well drained
+Permeability:  very slow
+Runoff: very high
+  
+USE AND VEGETATION:  The major use is timber production.  Principal vegetation is mixed hardwood and pine forest.  A small acreage is used as cropland or pastureland.
+
+DISTRIBUTION AND EXTENT:  Louisiana and southern Arkansas.  LRR P; MLRA 133B. This series is of large extent.
+
+MLRA SOIL SURVEY REGIONAL OFFICE (MO) RESPONSIBLE: Temple, Texas
+
+SERIES ESTABLISHED:  Bossier Parish, Louisiana; 1959.
+
+REMARKS:
+Diagnostic horizons and features recognized in this pedon are:
+Ochric epipedon: 0 to 13 cm (0 to 5 in) (A, E horizons)
+Albic horizon: 5 to 13 cm (2 to 5 in) (E horizon)
+Argillic horizon: 18 to 76 cm (7 to 30 in) (Bt horizons)
+Vertic properties and slickensides: 122 to 203 cm (48 to 80 in) (Bss and C horizon)
+
+Edited 01/2017 (JAD-MJB) Changed to tabular format. Added metric measurements. Updated pedon description, range in characteristics, competing series, geographic setting, geographically associated soils, and other sections.
+
+ADDITIONAL DATA: none
+
+Taxonomic Version: Keys to Soil Taxonomy, Twelfth Edition, 2014
+National Cooperative Soil Survey
+U.S.A.

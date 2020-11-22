@@ -1,0 +1,158 @@
+LOCATION NORTHSPIT              AK
+
+Established Series
+SAS/NDP/MPR
+03/2019
+
+NORTHSPIT SERIES
+
+Landscape--mountains
+Landform--mountain slopes
+Slope--20 to 40 percent
+Parent material--volcanic ash over residuum
+Mean annual precipitation--about 1500 mm
+Mean annual air temperature--about 0 degrees C
+Depth class--shallow
+Drainage class--well drained
+Soil moisture regime--udic
+Soil temperature regime--cryic
+Soil moisture subclass--typic
+
+TAXONOMIC CLASS: Medial, ferrihydritic Lithic Haplocryods
+
+TYPICAL PEDON: Northspit medial sandy loam on a west-facing, linear, convex mountain backslope, on a slope of 32 percent at an elevation of 86 m (The soil was moist throughout when described on August 31, 2012.)
+
+ Oe--0 to 5 cm; moderately decomposed plant material; common very fine to medium roots; extremely acid (pH 3.8); clear smooth boundary
+
+ A--5 to 9 cm; medial sandy loam, dark grayish brown (10YR 4/2) dry, very dark brown (10YR 2/2) moist; weak fine granular structure; soft, very friable, nonsticky and nonplastic; common very fine to very coarse roots; extremely acid (pH 4.1); abrupt smooth boundary
+
+ E--9 to 13 cm; medial sandy loam, very pale brown (10YR 8/2) dry, light brownish gray (10YR 6/2) moist; weak fine subangular blocky structure; soft, very friable, nonsticky and nonplastic; common very fine to medium roots; very strongly acid (pH 4.5); abrupt wavy boundary
+
+ Bhs--13 to 19 cm; medial sandy loam, brown (7.5YR 4/2) dry, very dark brown (7.5YR 2.5/2) moist; moderate medium subangular blocky structure; slightly hard, friable, nonsticky and nonplastic; common fine and medium roots; very strongly acid (pH 4.9); clear wavy boundary
+
+ Bs--19 to 32 cm; medial sandy loam, reddish yellow (7.5YR 6/6) dry, strong brown (7.5YR 4/6) moist; moderate medium subangular blocky structure; slightly hard, friable, nonsticky and nonplastic; common very fine to coarse roots; 5 percent gravel; strongly acid (pH 5.3); clear irregular boundary
+
+ R--32 cm; bedrock
+
+TYPE LOCATION: Dillingham Census Area, Alaska, about 95 km north-northwest of the city of Dillingham; latitude 59.6899702 degrees north, longitude 159.5440259 degrees west, datum WGS 84 (coordinates determined with a GPS)
+
+RANGE IN CHARACTERISTICS:
+Mean annual soil temperature--0 to 3 degrees C
+Soil moisture control section--dry less than 45 consecutive days in June through October (udic moisture regime)
+Lithology of rock fragments--sedimentary, volcanic
+Depth to lithic contact--25 to 50 cm (shallow)
+
+Layers influenced by volcanic ash
+*Thickness--25 to 50 cm
+*Phosphorous retention--85 to 100 percent
+*Bulk density--0.45 to 0.9 g/cm3
+*Ammonium oxalate Al plus 1/2 Fe--2.0 to 4.0 percent
+*Volcanic glass content--10 to 60 percent
+
+Particle-size control section
+*Clay content--3 to 10 percent
+*Sand content--35 to 65 percent
+*Total rock fragment content--0 to 30 percent
+*Ammonium oxalate Si--0.2 to 0.5 percent
+*Ammonium oxalate Fe--0.9 to 2.1 percent
+
+Oe horizon
+Thickness--2 to 10 cm
+
+A horizon
+Hue--7.5YR, 10YR
+Value--2 or 3 moist, 4 or 5 dry
+Chroma--1 or 2 moist
+Fine-earth texture--medial sandy loam, medial silt loam
+Clay content--3 to 10 percent
+Reaction--4.0 to 5.0
+Gravel content--0 to 5 percent
+Thickness--2 to 8 cm
+Bulk density--0.60 to 0.80 g/cm3
+Phosphorous retention--85 to 100 percent
+Volcanic glass content--10 to 50 percent
+
+E or E/A horizon
+Value--4 to 6 moist, 6 to 8 dry
+Chroma--1 or 2 moist
+Fine-earth texture--medial sandy loam, medial silt loam
+Clay content--3 to 10 percent
+Reaction--4.0 to 5.0
+Gravel content--0 to 5 percent
+Thickness--2 to 6 cm
+Bulk density--0.70 to 0.85 g/cm3
+Phosphorous retention--85 to 100 percent
+Volcanic glass content--10 to 50 percent
+
+Bhs horizon
+Hue--5YR, 7.5YR
+Value--2.5 or 3 moist, 4 or 5 dry
+Chroma--2 or 3 moist
+Fine-earth texture--medial sandy loam, medial silt loam
+Clay content--3 to 10 percent
+Reaction--4.5 to 5.5
+Total rock fragment content--0 to 15 percent
+Gravel content--0 to 15 percent
+Cobble content--0 to 5 percent
+Thickness--3 to 9 cm
+Bulk density--0.50 to 0.60 g/cm3
+Phosphorous retention--85 to 100 percent
+Volcanic glass content--10 to 50 percent
+Organic carbon content--6 to 15 percent
+
+Bs horizon
+Hue--5YR, 7.5YR
+Value--3 or 4 moist, 5 or 6 dry
+Chroma--4 to 6 moist
+Clay content--3 to 10 percent
+Reaction--5.0 to 5.9
+Total rock fragment content--0 to 35 percent
+Gravel content--0 to 30 percent
+Cobble content--0 to 10 percent
+Thickness--10 to 30 cm
+Bulk density--0.75 to 0.80 g/cm3
+Phosphorous retention--85 to 100 percent
+Volcanic glass content--10 to 50 percent
+Organic carbon content--less than 6 percent
+
+COMPETING SERIES: None
+
+GEOGRAPHIC SETTING:
+Elevation--65 to 350 m
+Climate--warm, moist summers; cold, moist winters
+Mean annual precipitation--1300 to 2000 mm
+Mean annual air temperature-- -1.8 to 0.9 degrees C
+Frost-free period--75 to 130 days
+
+GEOGRAPHICALLY ASSOCIATED SOILS:
+Awayak--no spodic material; no andic soil properties; flood plains
+Nagugun--more than 150 cm (very deep) to lithic bedrock; glaciated plains
+Sundaycreek--more than 150 cm (very deep) to lithic bedrock; paralithic contact; alluvial fans on mountains
+
+DRAINAGE AND SATURATED HYDRAULIC CONDUCTIVITY:
+Drainage class--well drained
+Saturated hydraulic conductivity (Ksat)--moderately high or high throughout
+
+USE AND VEGETATION:
+Use--wildlife habitat, recreation, subsistence
+Potential natural vegetation--Sitka alder, Kenai birch, bluejoint, spreading woodfern, western oakfern, splendid feather moss, Schreber's big red stem moss, Greene's mountain ash, beauverd spirea
+
+DISTRIBUTION AND EXTENT: Ahklun Mountains, Alaska; MLRA 237; small extent
+
+SOIL SURVEY REGIONAL OFFICE (SSRO) RESPONSIBLE: Portland, Oregon
+
+SERIES ESTABLISHED: Togiak National Wildlife Refuge, Dillingham Census Area, Alaska; 2019
+
+REMARKS:
+Diagnostic horizons and other features in this pedon
+*Particle-size control section--zone from 5 to 32 cm
+*Ochric epipedon
+*Andic soil properties--A, E, Bhs, and Bs horizons
+*Albic horizon--E horizon
+*Spodic horizon--Bhs and Bs horizons
+*Depth to lithic bedrock--32 cm
+
+Laboratory pedon number 13N0048
+
+National Cooperative Soil Survey
+U.S.A.

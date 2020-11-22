@@ -1,0 +1,135 @@
+LOCATION CANALSCHOOL            CA
+
+Established Series
+Rev: DWH/JTB/SAA/ET
+07/2016
+
+CANALSCHOOL SERIES
+
+The Canalschool series consists of very deep, somewhat poorly drained soils on high flood-plain steps on alluvial plains. These soils formed in mixed alluvium. Slopes range from 0 to 2 percent. Mean annual precipitation is about 1015 millimeters. Mean annual temperature is about 11 degrees C.
+
+TAXONOMIC CLASS: Fine-silty, mixed, superactive, nonacid, mesic Fluvaquentic Endoaquepts
+
+TYPICAL PEDON: Canalschool silt loam on a 1 percent slope under pasture grasses, clover, and scattered thistle at an elevation of 5 meters. (Colors are for moist soil unless otherwise noted. When described on August 10, 2001 the soil was moist throughout.)
+
+	Ap--0 to 26 centimeters; very dark grayish brown (10YR 3/2) silt loam, light brownish gray (10YR 6/2) dry; moderate fine and medium subangular blocky structure; moderately hard, friable, slightly sticky, moderately plastic; many very fine and fine roots throughout and many very fine to medium roots in mat at top of horizon; many fine and medium dendritic tubular and irregular pores; slightly acid (pH 6.2); clear wavy boundary. (15 to 43 centimeters thick)
+
+	Bw--26 to 40 centimeters; very dark grayish brown (2.5Y 3/2) silt loam, light brownish gray (2.5Y 6/2) dry; strong medium subangular blocky structure; moderately hard, friable, slightly sticky, moderately plastic; common very fine and fine roots; many very fine, fine and common medium dendritic tubular pores; slightly acid (pH 6.2); gradual wavy boundary. (0 to 83 centimeters thick)
+
+	Bg--40 to 66 centimeters; very dark grayish brown (2.5Y 3/2) silt loam, light brownish gray (2.5Y 6/2) dry; strong medium and coarse subangular blocky structure; moderately hard, friable, slightly sticky, moderately plastic; common very fine and fine roots; many very fine, fine and common medium dendritic tubular pores; common fine prominent dark yellowish brown (10YR 4/6) iron-manganese masses; 20 percent krotovina, 10YR 3/2; neutral (pH 6.8); gradual wavy boundary. (15 to 38 centimeters thick)
+
+	Ab--66 to 140 centimeters; very dark gray (5Y 3/1) silty clay loam, gray (5Y 6/1) dry; strong medium and coarse subangular blocky structure; moderately hard, friable, slightly sticky, moderately plastic; common very fine and fine roots, common coarse and very coarse relict spruce roots; common very fine dendritic tubular pores; many medium prominent dark yellowish brown (10YR 4/4) iron-manganese masses; neutral (pH 7.0); gradual wavy boundary. (0 to 74 centimeters thick)
+
+	Bg--140 to 152 centimeters; dark gray (5Y 4/1) silty clay loam, gray (5Y 6/1) dry; weak coarse subangular blocky structure; moderately hard, friable, slightly sticky, moderately plastic; few very fine roots; few very fine irregular pores; many medium prominent dark yellowish brown (10YR 4/6) iron manganese masses; neutral (pH 7.0). (0 to 84 centimeters thick)
+
+TYPE LOCATION: Humboldt County, California; about 1.6 kilometers northeast of Arcata, 1 kilometers west of Alliance Road on Upper Bay Road, 1 kilometer north on Mad River Road, 26 meters east; 580 meters south, 370 meters west of the northeast corner Section 18, T.6N, R.1E HB&M; Arcata North Quadrangle (7.5 minute series); WGS84 Decimal Degrees 40.9072222 latitude and -124.1051111longitude; UTM Zone 10 4529046mN, 406927mE, NAD 83.
+
+RANGE IN CHARACTERISTICS: 
+
+Soil Moisture: The soil is moist in the lower part of the soil moisture control section (13 to 40 centimeters) and saturated for some time in most years. The soils have an aquic moisture regime.
+
+Soil Temperature: The mean annual soil temperature at 50 centimeters is 12 to 15 degrees C. The average summer soil temperature is about 18 degrees C and the average winter soil temperature is about 9 degrees C. The difference between average summer and winter soil temperatures is about 6 to 9 degrees C.
+
+Endosaturation: The water table is at a depth of 25 to 50 centimeters from about January through February, between 50 and 150 centimeters March through May, falls below 150 centimeters from June through November and rises again to between 50 and 150 centimeters in December.
+
+Depth to Redoximorphic features: 25 and 50 centimeters
+
+Particle-size control section (weighted average): 
+Clay content: 20 to 30 percent
+
+A horizon
+	Hue: 10YR or 2.5Y
+	Value: 3 or 4 moist, 5 or 6 dry
+	Chroma: 2 or 3, moist or dry 
+	Clay: 15 to 27 percent
+	Reaction: Moderately acid to slightly acid
+
+Bw horizon
+	Hue: 10 YR or 2.5 Y
+	Value: 3 or 4
+	Chroma: 2 or 3, moist or dry 
+	Clay: 18 to 27 percent
+	Reaction: moderately acid to neutral
+
+Bg horizon
+	Hue: 10YR, 2.5Y, or 5Y
+	Value: 3 or 4 moist or dry
+	Chroma: 1 or 2 moist or dry
+	Texture of fine earth: silt loam or silty clay loam
+	Clay: 20 to 34 percent
+	Reaction: slightly acid to slightly alkaline
+
+	Redoximorphic features: fine and medium iron-manganese masses
+	Quantity: few to many
+	Hue: 10YR or 2.5Y
+	Value: 3 or 4
+	Chroma: 3 to 6
+
+	Redoximorphic features: fine and medium iron depletions
+	Quantity: none to common
+	Hue: 10YR, 2.5Y, or 5Y
+	Value: 4 or 5
+	Chroma: 1 or 2
+
+Ab horizon
+	Hue: 10YR, 2.5Y or 5Y
+	Value: 5 or 6 dry
+	Chroma: 1 to 3 moist, 1 or 2 dry
+	Texture of fine earth: silt loam or silty clay loam
+	Clay: 20 to 34 percent
+	Reaction: slightly acid to slightly alkaline
+
+	Redoximorphic features: fine and medium iron-manganese masses
+	Quantity: none to many
+	Chroma: 3 or 4
+
+Bg horizon
+	Hue: 2.5Y or 5Y
+	Chroma: 1 or 2 moist or dry
+	Texture of fine earth: silt loam or silty clay loam
+	Clay: 20 to 35 percent
+	Reaction: slightly acid to slightly alkaline
+
+	Redoximorphic features: fine and medium iron-manganese masses 
+	Quantity: few to many
+	Hue: 7.5YR, 10YR, 2.5Y
+	Value: 3 or 4
+	Chroma: 4 or 6
+
+	Redoximorphic features: fine and medium iron depletions
+	Quantity: none to common
+	Hue: 10YR, 2.5Y, or 5Y
+	Value: 4 or 5
+	Chroma: 1 or 2
+
+COMPETING SERIES: These are the Aetna, Nookachamps, Petrolia, Puget, Rafton, Skagit, and Wick series.  Aetna soils formed in silty alluvium over glaciolacustrine deposits. Nookachamps, Petrolia, Puget, Rafton, Skagit, and Wick soils do not have a buried Mollic epipedon within the series control section. 
+Skagit soils also have volcanic ash with glass content in the series control section. 
+
+GEOGRAPHIC SETTING: The Canalschool soils are on low flood-plain steps on alluvial plains near the Pacific Ocean. Slopes are 0 to 2 percent. These soils formed in mixed alluvium. Elevation is 3 to 50 meters. The climate is humid with cool, foggy summers and cool, rainy winters. Mean annual precipitation is 890 to 2030 millimeters. The mean January temperature is about 9 degrees C. The mean July temperature is about 14 degrees C. The mean annual air temperature is 10 to 13 degrees C. The frost free season is about 275 to 330 days.
+
+GEOGRAPHICALLY ASSOCIATED SOILS: These are the Ferndale, Jollygiant, Madriver, Russ, Swainslough, and Weott series. Ferndale soils have redoximorphic features at depths greater than 100 centimeters and are on high flood-plain steps.  Jollygiant soils have mollic epipedons and are on low flood-plain steps. Madriver soils are coarse-loamy, have redoximorphic features at 50 to 100 centimeters, and are on natural levees. Russ soils are coarse-loamy, have redoximorphic features at below 100 centimeters, and are on natural levees. Swainslough soils average more than 35 percent clay, have redoximorphic features at 0 to 10 centimeters, and are on backswamps, depressions, and on low flood-plain steps. Weott soils are fine-silty, have redoximorphic features at 0 to 10 centimeters, and are on backswamps, depressions, and low flood-plain steps.
+
+DRAINAGE AND SATURATED HYDRAULIC CONDUCTIVITY: Somewhat poorly drained; low runoff; moderately slow permeability, moderately high saturated hydraulic conductivity. The soils are rarely flooded for brief periods December through February.
+
+USE AND VEGETATION: These soils are used for pasture, hay, and occasionally for truck garden produce. Nearly all areas of this soil have had the native vegetation removed. The native vegetation is estimated to be a variable canopy of red alder, Sitka spruce, and black cottonwood with scattered willow and redwood, with an understory of blackberry, ferns, and grasses.
+
+DISTRIBUTION AND EXTENT: California Coastal Redwood Belt; MLRA 4B. The series is not extensive.
+
+MLRA SOIL SURVEY REGIONAL OFFICE (MO) RESPONSIBLE: Davis, California
+
+SERIES PROPOSED: Humboldt County, California, 2001. Name is from a former school located north of the town of Arcata.
+
+REMARKS: Diagnostic horizons and features recognized in this pedon are:
+1. Ochric epipedon - 0 to 26 centimeters (Ap).
+2. Cambic horizon - 26 to 152 centimeters (Bw, Bg horizons, Ab).
+3. Particle-size control section - the zone from 25 to 100 centimeters averages 26 percent clay and 2.1 percent fine sand or coarser (Ap, Bw, Bg, Ab).
+
+ADDITIONAL DATA: Pedon number S01CA-023-019 analyzed by the National Soil Survey Laboratory. 
+
+Soil classified using Keys to Soil Taxonomy, 12th edition.
+
+Lab Pedon Number - 02N0787
+NASIS pedon number -- 01CA60014P
+
+National Cooperative Soil Survey
+U.S.A.

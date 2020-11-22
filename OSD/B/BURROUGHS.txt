@@ -1,0 +1,160 @@
+LOCATION BURROUGHS              WA
+
+Established Series
+Rev. TMR/MPR
+07/2017
+
+BURROUGHS SERIES
+
+Landscape--Cascade Mountains
+Landform--ridges, cirques, glacial-valley walls
+Slope--15 to 100 percent
+Parent material--volcanic ash and colluvium over andesite
+Mean annual precipitation--about 2500 mm
+Mean annual air temperature--about 2 degrees C
+Depth class--moderately deep
+Drainage class--well drained
+Soil moisture regime--udic
+Soil temperature regime--cryic
+Soil moisture subclass--typic
+
+TAXONOMIC CLASS: Medial, glassy Humic Vitricryands
+
+TYPICAL PEDON:  Burroughs medial fine sandy loam in a meadow on a west-facing valley wall with a slope of 65 percent and at an elevation of 1835 m (The soil was slightly moist throughout when described on July 31, 2012.)
+
+ Oi--0 to 2 cm; slightly decomposed plant material derived from grasses and forbs; common very fine and fine roots; many fine interstitial pores; very strongly acid (pH 4.5); abrupt wavy boundary
+
+ A1--2 to 16 cm; medial fine sandy loam, grayish brown (10YR 5/2) dry, very dark brown (10YR 2/2) moist; weak fine subangular blocky structure; soft, very friable, nonsticky and nonplastic; many very fine and fine and few medium and coarse roots; common very fine and fine interstitial pores; 5 percent fine pumice paragravel and 5 percent medium and coarse pumice paragravel; strongly acid (pH 5.2); clear wavy boundary
+
+ A2--16 to 50 cm; medial sandy loam, grayish brown (10YR 5/2) dry, black (10YR 2/1) moist; weak fine subangular blocky structure; soft, very friable, nonsticky and nonplastic; few very fine to medium roots; common very fine and fine interstitial pores; 5 percent fine pumice paragravel and 5 percent medium and coarse pumice paragravel; strongly acid (pH 5.2); clear wavy boundary
+
+ A3--50 to 68 cm; gravelly medial sandy loam, grayish brown (10YR 5/2) dry, very dark brown (10YR 2/2) moist; moderate fine subangular blocky structure; soft, very friable, nonsticky and nonplastic; common very fine and fine and few medium roots; common very fine and fine interstitial pores; 5 percent fine subangular andesite gravel, 15 percent medium and coarse subangular andesite gravel, and 5 percent subangular andesite cobbles; strongly acid (pH 5.2); clear irregular boundary
+
+ A4--68 to 80 cm; gravelly medial sandy loam, brown (10YR 5/3) dry, dark brown (10YR 3/3) moist; moderate fine subangular blocky structure; soft, very friable, nonsticky and nonplastic; few very fine and fine roots; common very fine and fine irregular pores; 5 percent fine subangular andesite gravel, 15 percent medium and coarse subangular andesite gravel, and 5 percent subangular andesite cobbles; strongly acid (pH 5.4); abrupt irregular boundary
+
+ 2R--80 cm; fractured andesite
+
+TYPE LOCATION: Pierce County, Washington, about 8 km north of Chinook Pass, along the west slope of Crystal Mountain in Mount Rainier National Park; about 610 m south and 750 m east of the northwest corner of section 23, T. 17 N., R. 10 E., Willamette Meridian; White River Park, Washington, U.S. Geological Survey quadrangle; latitude 46.943841 degrees north, longitude -121.503829 degrees west, datum WGS 84 (coordinates determined with a GPS)
+
+RANGE IN CHARACTERISTICS:
+Mean annual soil temperature--1 to 5 degrees C
+Soil moisture control section--dry less than 45 consecutive days in June through October
+Depth to lithic contact--50 to 100 cm
+Thickness of umbric epipedon--25 to 100 cm
+
+All mineral horizons
+*Organic carbon content--greater than 3 percent
+*Volcanic glass content--50 to 75 percent
+*Ammonium oxalate Al plus 1/2 Fe--greater than 1 percent
+
+Particle-size control section
+*Clay content--1 to 10 percent
+*Total rock fragment content--5 to 35 percent
+*Pumice paragravel--typically in upper part of profile
+*Subangular andesite gravel and cobbles--typically in lower part of profile
+
+Oi horizon (where present in areas near subalpine coniferous canopies)
+Thickness--0 to 4 cm
+
+Oe horizon
+Thickness--0 to 2 cm
+
+A1 horizon
+Hue--10YR, 7.5YR
+Value--2 or 3 moist, 3 to 5 dry
+Chroma--1 or 2 moist or dry
+Fine-earth texture--medial fine sandy loam, medial sandy loam
+Content of clay--1 to 10 percent
+Content of pararock fragments--0 to 15 percent fine to coarse pumice paragravel
+Reaction--4.5 to 5.5
+Thickness--10 to 20 cm
+
+A2 horizon
+Hue--10YR, 7.5YR
+Value--2 or 3 moist, 3 to 5 dry
+Chroma--1 or 2 moist or dry
+Fine-earth texture--medial sandy loam, medial coarse sandy loam, medial loamy sand
+Content of clay--1 to 10 percent
+Content of pararock fragments--5 to 35 percent fine to coarse pumice paragravel
+Reaction--4.5 to 5.5
+Thickness--15 to 35 cm
+
+A3 horizon
+Hue--10YR, 7.5YR
+Value--2 or 3 moist, 3 to 5 dry
+Chroma--1 to 3 moist or dry
+Fine-earth texture--medial sandy loam, medial loam, medial coarse sandy loam
+Content of clay--1 to 10 percent
+Total content of pararock and rock fragments--15 to 35 percent
+Content of fine to coarse pumice paragravel--0 to 5 percent
+Content of fine to coarse subangular andesite gravel--15 to 35 percent
+Content of subangular andesite cobbles--0 to 15 percent
+Reaction--4.5 to 5.5
+Thickness--15 to 30 cm
+
+A4 horizon
+Hue--10YR, 7.5YR
+Value--2 to 4 moist, 4 or 5 dry
+Chroma--2 to 4 moist or dry
+Fine-earth texture--medial sandy loam, medial loam, medial fine sandy loam
+Content of clay--1 to 10 percent
+Total content of rock fragments--15 to 35 percent
+Content of fine to coarse subangular andesite gravel--15 to 35 percent
+Content of subangular andesite cobbles--0 to 15 percent
+Reaction--4.5 to 5.5
+Thickness--10 to 30 cm
+
+Bw1 horizon (where present)
+Hue--10YR, 7.5YR
+Value--4 to 6 moist, 5 or 6 dry
+Chroma--2 to 6 moist or dry
+Fine-earth texture--medial sandy loam, medial loam, medial fine sandy loam
+Content of clay--1 to 10 percent
+Total content of rock fragments--15 to 35 percent
+Content of fine to coarse subangular andesite gravel--15 to 35 percent
+Content of subangular andesite cobbles--0 to 15 percent
+Reaction--4.5 to 5.5
+
+COMPETING SERIES:
+Littletahoma--no lithic contact within 150 cm (very deep); lithologic discontinuity within 100 cm of mineral soil surface
+
+GEOGRAPHIC SETTING:
+Elevation--1400 to 2200 m
+Climate--cool, dry summers; cold, wet winters
+Mean annual precipitation--1700 to 3300 mm
+Mean annual air temperature--0 to 4 degrees C
+Frost-free period--30 to 60 days
+
+GEOGRAPHICALLY ASSOCIATED SOILS:
+Littletahoma--no lithic contact within 150 cm (very deep); in similar landform positions
+Tatoosh--lithic contact within 50 cm (shallow); in similar landform positions
+Mountwow--aquic conditions with an upper limit of 25 cm from soil surface; in concave areas of similar landforms that receive water from adjacent slopes
+Ipsut, Owyhigh, Tipsoo--ochric epipedon; albic and spodic horizons; in similar forested landform positions
+
+DRAINAGE AND SATURATED HYDRAULIC CONDUCTIVITY:
+Drainage class--well drained
+Saturated hydraulic conductivity (Ksat)--high or very high throughout
+
+USE AND VEGETATION:
+Use--wildlife habitat, recreation
+Potential natural vegetation--subalpine and alpine meadows composed of Columbia brome, alpine aster, leafy aster, western columbine, arctic lupine, Sitka valerian, common yarrow, and smooth woodrush; scattered subalpine fir and mountain hemlock
+
+DISTRIBUTION AND EXTENT: Central Cascade Mountains, Washington; MLRA 3; moderate extent
+
+SOIL SURVEY REGIONAL OFFICE (SSRO) RESPONSIBLE: Portland, Oregon
+
+SERIES ESTABLISHED: Mount Rainier National Park, Pierce County, Washington; 2014; name from Burroughs Mountain in Mount Rainier National Park
+
+REMARKS:
+Diagnostic horizons and other features in this pedon
+*Particle-size control section--zone from 2 to 80 cm
+*Umbric epipedon--zone from 2 to 80 cm
+*Andic soil properties--zone from 2 to 80 cm
+*Volcanic glass--zone from 2 to 80 cm
+*Depth to lithic contact--80 cm
+*Distinguishable tephra layers--Mount St. Helens Wn tephra (A1 horizon), Mount Rainier C tephra (mixed in A1 and A2 horizons), Mount St. Helens Yn tephra (A3 horizon)
+
+5/2017--This official series description was updated according to SSR1 Technical Note 11--Content and Format of Official Series Descriptions (revised 12/2015). Most of the changes were in formatting; no major technical changes were made.
+
+National Cooperative Soil Survey
+U.S.A.

@@ -1,0 +1,142 @@
+LOCATION GHOST                  WA
+
+Established Series
+IRD. PHR/TMR/MPR
+07/2017
+
+GHOST SERIES
+
+Landscape--Cascade Mountains
+Landform--depressions and swales of terraces and cirques
+Slope--0 to 10 percent
+Parent material--decomposing organic material and bands of volcanic ash
+Mean annual precipitation--about 2000 mm
+Mean annual air temperature--about 5 degrees C
+Depth class--very deep
+Drainage class--very poorly drained
+Soil temperature regime--aquic
+Soil temperature regime--cryic
+Soil moisture subclass--typic
+
+TAXONOMIC CLASS: Euic Fluvaquentic Cryosaprists
+
+TYPICAL PEDON: Ghost muck in a depression on a south-facing, 0-percent slope of a terrace at an elevation of 675 m (When described on October 20, 2011, the soil was wet throughout.)
+
+ Oa1--0 to 38 cm; muck, brown (10YR 5/3) dry, dark brown (10YR 3/3) moist; many very fine and fine roots; few very fine and fine irregular pores; strongly acid (pH 5.4); abrupt smooth boundary
+
+ Oa2--38 to 90 cm; muck, dark grayish brown (10YR 4/2) dry, very dark brown (10YR 2/2) moist; many very fine and fine roots; few very fine and fine irregular pores; strongly acid (pH 5.4); gradual wavy boundary
+
+ Oa3--90 to 110 cm; muck, dark grayish brown (10YR 4/2) dry, very dark brown (10YR 2/2) moist; many very fine and fine roots; few very fine and fine irregular pores; 1 percent fine distinct greenish gray (10Y 5/1) masses of reduced iron with sharp boundaries in matrix; strongly acid (pH 5.5); abrupt smooth boundary
+
+ Bg1--110 to 120 cm; ashy loamy sand, brown (10YR 5/3) dry, dark brown (10YR 3/3) moist; weak fine subangular blocky structure; soft, very friable, nonsticky and nonplastic; common very fine and few fine roots; few very fine and fine interstitial pores; 10 percent fine distinct dark gray (10YR 4/1) masses of reduced iron with clear boundaries in matrix; moderately acid (pH 5.6); abrupt smooth boundary
+
+ O'a1--120 to 130 cm; muck, brown (10YR 5/3) dry, dark brown (10YR 3/3) moist; many very fine and common fine roots; few very fine and fine irregular pores; 10 percent fine distinct greenish gray (10Y 5/1) masses of reduced iron with clear boundaries in matrix; moderately acid (pH 5.6); gradual wavy boundary
+
+ O'a2--130 to 145 cm; muck, brown (10YR 5/3) dry, dark brown (10YR 3/3) moist; many very fine and common fine roots; few very fine and fine irregular pores; 20 percent coarse distinct greenish gray (5GY 6/1) masses of reduced iron with clear boundaries in matrix; moderately acid (pH 5.6); abrupt smooth boundary
+
+ B'g--145 to 150 cm; ashy loamy coarse sand, light greenish gray (5GY 8/1) dry, greenish gray (5GY 6/1) moist; weak fine subangular blocky structure; soft, very friable, nonsticky and nonplastic; few very fine roots; few very fine and fine interstitial pores; 10 percent pumice paragravel; moderately acid (pH 5.7)
+
+TYPE LOCATION: Pierce County, Washington, southwest of Tumtum Peak, between Kautz and Tahoma Creeks, about 3 km east of the Nisqually Entrance Ranger Station in Mount Rainier National Park; about 225 m north and 190 m west of the southeast corner of section 35, T. 15 N., R. 7 E., Willamette Meridian; Sawtooth Ridge, Washington, U.S. Geological Survey quadrangle; latitude 46.737748 degrees north, longitude -121.879029 degrees west, datum WGS 84 (coordinates determined with a GPS)
+
+RANGE IN CHARACTERISTICS:
+Mean annual soil temperature--3 to 8 degrees C
+Soil moisture control section--saturated more than 30 days
+Depth to mineral soil material--30 to 125 cm
+
+Oa1 horizon
+Hue--10YR, 7.5YR
+Value--2 to 3 moist, 4 or 5 dry
+Chroma--1 to 3 moist or dry
+Fiber content--less than one-third unrubbed, less than one-sixth rubbed
+Coarse woody fragment content--0 to 15 percent
+Reaction--4.5 to 5.5
+Thickness--5 to 40 cm
+
+Oa2 and Oa3 horizons
+Hue--10YR, 7.5YR
+Value--2 to 3 moist, 4 or 5 dry
+Chroma--1 to 3 moist or dry
+Fiber content--less than one-third unrubbed, less than one-sixth rubbed
+Total coarse woody fragment content--0 to 20 percent
+Reaction--5.0 to 6.0
+Combined thickness--25 to 85 cm
+
+Bg horizon
+Hue--10YR, 7.5YR
+Value--2 to 4 moist, 4 or 5 dry
+Chroma--1 to 3 moist or dry
+Fine-earth texture--ashy loamy sand, ashy sandy loam, ashy coarse sandy loam
+Clay content--1 to 10 percent
+Pararock fragment content--0 to 20 percent pumice paragravel
+Volcanic glass content--50 to 75 percent
+Ammonium oxalate Al plus 1/2 Fe--greater than 0.4 percent
+Reaction--5.0 to 6.0
+Thickness--5 to 20 cm
+
+O'a1 and O'a2 horizons
+Hue--10YR, 7.5YR
+Value--2 to 3 moist, 4 or 5 dry
+Chroma--1 to 3 moist or dry
+Fiber content--less than one-third unrubbed, less than one-sixth rubbed
+Total coarse woody fragment content--0 to 20 percent
+Reaction--5.0 to 6.0
+Combined thickness--20 to 40 cm
+
+B'g horizon
+Hue--5GY, 10Y, 2.5Y
+Value--4 to 6 moist, 6 to 8 dry
+Chroma--1 to 4 moist or dry
+Fine-earth texture--ashy loamy coarse sand, ashy loamy sand, ashy sandy loam
+Clay content--1 to 10 percent
+Volcanic glass content--50 to 75 percent
+Ammonium oxalate Al plus 1/2 Fe--greater than 0.4 percent
+Pararock fragment content--0 to 30 percent pumice paragravel
+Reaction--5.0 to 6.0
+
+COMPETING SERIES:
+Anipash--lower horizons formed in alluvium derived from basalt; no andic soil properties below a depth of 100 cm
+Chichantna, Tyonek--fibric and hemic material in surface tier
+
+GEOGRAPHIC SETTING:
+Elevation--650 to 2000 m
+Climate--cool, dry summers; cold, wet winters
+Mean annual precipitation--1,600 to 3,000 mm
+Mean annual air temperature--0 to 7 degrees C
+Frost-free period--30 to 90 days
+
+GEOGRAPHICALLY ASSOCIATED SOILS:
+Frogheaven--andic soil properties throughout profile; saturated in normal years below a depth of 20 cm in June through September; mineral soil profile; in similar landform positions
+Laughingwater, Unicornpeak--aquic conditions between depths of 50 and 75 cm from the mineral soil surface; in similar landform positions; forested plant communities
+Mountwow--aquic conditions with an upper limit of 25 cm from the mineral soil surface; mineral soil profile; in similar landform positions
+Vantrump--aquic conditions with an upper limit of 25 cm from the mineral soil surface; in similar landform positions; forested plant communities
+Williwakas--andic soil properties throughout profile; saturated in normal years below a depth of 20 cm in June through September; in similar landform positions; no accumulations of organic material
+
+DRAINAGE AND SATURATED HYDRAULIC CONDUCTIVITY:
+Drainage class--very poorly drained
+Saturation in normal years--within 15 cm of soil surface in all months
+Saturated hydraulic conductivity (Ksat)--high in O horizon, very high in B horizon
+
+USE AND VEGETATION:
+Use--wildlife habitat, nonforested wetland
+Potential natural vegetation--bluejoint, black alpine sedge, white marsh marigold, mountain sedge, tufted hairgrass, subalpine spirea, willows
+
+DISTRIBUTION AND EXTENT: Central Cascade Mountains, Washington; MLRA 3; small extent
+
+MLRA SOIL SURVEY REGIONAL OFFICE (MO) RESPONSIBLE: Portland, Oregon
+
+SERIES ESTABLISHED: Mount Rainier National Park, Pierce County, Washington; 2014; name from Ghost Lake in Mount Rainier National Park
+
+REMARKS:
+Diagnostic horizons and other features in this pedon
+*Particle-size control section--zone from the surface to a depth of 130 cm
+*Aquic conditions--zone from the surface to a depth of 150 cm
+*Sapric soil material--zone from the surface to a depth of 110 cm and from 120 to 145 cm
+*Redoximorphic iron depletions with chroma of 2 or less--zone from 90 to 145 cm
+*Reduced matrix--zone from 145 to 150 cm
+*Volcanic glass--zone from 110 to 120 cm and from 145 to 150 cm
+*Distinguishable tephra layers--Mount St. Helens Wn tephra (Bg horizon), Mount St. Helens Yn tephra (B'g horizon)
+
+03/2017--This official series description was updated according to SSR1 Technical Note 11--Content and Format of Official Series Descriptions (revised 12/2015). Most of the changes were in formatting; no major technical changes were made.
+
+National Cooperative Soil Survey
+U.S.A.

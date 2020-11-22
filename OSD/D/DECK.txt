@@ -1,0 +1,156 @@
+LOCATION DECK                   OR
+
+Established Series
+Rev. JLW/RAW/TLC/DAL
+10/2012
+
+DECK SERIES
+
+The Deck series consists of moderately deep, well-drained soils on plateau benches and mountain slopes. Deck soils formed in a mantle of mixed volcanic ash and loess over metavolcanic colluvium. Slopes are 0 to 90 percent. Mean annual precipitation is about 37 inches and mean annual temperature about 42 degrees F.
+
+TAXONOMIC CLASS: Loamy-skeletal, isotic, frigid Vitrandic Haploxerolls
+
+TYPICAL PEDON: Deck very gravelly ashy silt loam - forested, on a 57 percent southfacing slope at an elevation of 4,920 feet. (Colors are for moist soil unless otherwise noted. Soil textures are apparent field textures.)
+
+ Oi--0 to 1 inch; slightly decomposed needles, twigs and grasses
+
+ A--1 to 4 inches; dark reddish brown (5YR 2.5/2) very gravelly ashy silt loam, brown (7.5YR 4/3) dry; weak very fine and fine granular structure; soft, very friable, nonsticky and nonplastic; many very fine and common fine roots throughout; common very fine irregular pores; 40 percent gravel and 5 percent cobbles; neutral (pH 7.2); clear wavy boundary. (3 to 4 inches thick)
+
+ AB--4 to 12 inches; dark reddish brown (5YR 3/3) extremely cobbly ashy loam, brown (7.5YR 5/4) dry; weak fine granular and subangular blocky structure; soft, very friable, slightly sticky and slightly plastic; common very fine, and few fine and medium roots throughout; common very fine and few fine irregular, and few very fine tubular pores; 40 percent gravel and 30 percent cobbles; neutral (pH 7.0); abrupt irregular boundary. (6 to 11 inches thick)
+
+ 2Bwb--12 to 22 inches; dark brown (7.5YR 3/4) extremely cobbly loam, brown (7.5YR 5/4) dry; weak fine subangular blocky structure; soft, very friable, slightly sticky and slightly plastic; common very fine, and few fine and medium roots throughout; common very fine irregular and few very fine tubular pores; 40 percent gravel and 30 percent cobbles; slightly acid (pH 6.5); abrupt, irregular boundary. (10 to 16 inches thick)
+
+ 2R--22 inches, metavolcanic rock
+
+TYPE LOCATION: Grant County, Oregon
+Section 35 (SE , NE , SE ), T. 11 S., R. 33 E.
+Latitude: 44 degrees, 34 minutes, 03 seconds N.
+Longitude: 118 degrees, 42 minutes, 02 seconds W.
+UTM zone 11; north 4,936,090 meters; east 364,950 meters; NAD27
+USGS Quadrangle: Dixie Meadow
+
+RANGE IN CHARACTERISTICS:
+Soil Temperature: frigid regime
+  Mean Annual Soil Temperature: 40 to 46 degrees F
+  Mean Summer Soil Temperature: 49 to 54 degrees F
+  Mean Winter Soil Temperature: 30 to 35 degrees F
+Soil Moisture: xeric regime, dry 60 to 75 consecutive days in summer
+
+Particle-size Control Section: from 10 inches below mineral soil surface to a lithic contact:
+  clay content, average: 20 to 35 percent
+  rock fragment content, average: 55 to 70 percent
+
+Diagnostic Horizons and Features:
+vitrandic soil properties: upper boundary at the mineral surface; 7 to 14 inches thick
+  Al+1/2Fe (ammonium oxalate): 0.4 to 1.2 percent
+  P retention: 30 to 55 percent
+  0.02-2.0 mm fraction: 30 to 40 percent of fine earth
+  glass content in the 0.02-2.0mm fraction: 30 to 55 percent
+mollic epipedon: 10 to 14 inches thick
+cambic horizon: 10 to 16 inches thick
+ultic subgroup feature: base saturation (sum of cations) less than 75 percent throughout
+lithic contact, depth from mineral soil surface: 20 to 40 inches
+
+A horizon:
+color, moist: 5YR 2.5/2; 7.5YR 2/2, 2.5/1, 3/2; 10YR 3/2
+color, dry: 7.5YR 4/2, 4/3; 10YR 4/2
+texture: GRV-ASHY-SIL, GR-ASHY-L
+clay content: 8 to 20 percent
+rock fragment content:  15 to 45 percent
+  gravel: 15 to 40 percent
+  cobbles: 0 to 5 percent
+reaction: slightly acid to neutral; pH: 6.1 to 7.3
+base saturation: 65 to 75 percent
+
+AB horizon:
+color, moist: 5YR 3/3; 7.5YR 2.5/1, 3/2, 3/3
+color, dry: 7.5YR 4/2, 4/3; 5/3, 5/4
+texture: CBX-ASHY-L, GRV-ASHY-SIL, GR-ASHY-L
+clay content: 10 to 24 percent
+rock fragment content:  15 to 60 percent
+  gravel: 10 to 40 percent
+  cobbles: 5 to 20 percent
+reaction: slightly acid to neutral; pH: 6.1 to 7.3
+base saturation: 65 to 75 percent
+
+2Bwb horizon:
+color, moist: 2.5Y 4/2; 7.5YR 3/4, 4/2, 4/3; 10YR 4/3
+color, dry: 2.5YR 6/2; 7.5YR 5/3, 5/4; 10YR 5/3, 6/2
+texture: CBX-L, GRX-L, GRV-L, CBV-L
+clay content: 19 to 26 percent
+rock fragment content:  50 to 70 percent
+  gravel: 20 to 55 percent
+  cobbles: 15 to 40 percent
+reaction: slightly acid; pH: 6.1 to 6.5
+base saturation: 65 to 75 percent
+
+COMPETING SERIES:
+Bearspring: very deep (>60 inches) in granitic colluvium; minor volcanic ash influence (glass content 5 to 20 percent);  particle-size control section averages 7 to 15 percent clay and 35 to 50 percent rock fragments;
+Bigelk: very deep (>60 inches) in mixed till; particle-size control section averages 7 to 17 percent clay; dry 45 to 60 consecutive days in summer
+Cassal: deep (40 to 60 inches) to densic contact (dense till); volcanic ash influenced layer (glass content 5 to 20 percent), 12 to 18 inches thick, with discontinuity between ashy layer and till substratum; distinct redoximorphic features at 30 to 45 inches
+Cherrycreek: deep (40 to 60 inches) to a lithic contact (basalt); does not have an organic (O) horizon above surface of mineral soil (not forested); mollic epipedon is 20 to 35 inches thick; particle-size control section averages 12 to 18 percent clay
+Eastpine: moderately deep (20 to 40 inches) to a lithic contact (metasedimentary rock); minor volcanic ash influence (glass content 5 to 15 percent); dry 45 to 60 consecutive days in summer
+Egyptcreek: moderately deep (20 to 40 inches) to a lithic contact (welded tuff); dry 75 to 90 consecutive days in summer
+Fredonyer: moderately deep (20 to 40 inches) to lithic contact (andesite or basalt); does not have organic horizon above surface of mineral soil (not forested); mollic epipedon is 20 to 40 inches thick; dry more than 90 consecutive days in summer
+Golfer: moderately deep (20 to 40 inches) to a paralithic contact (weathered granite); minor influence of volcanic ash (glass content 5 to 15 percent); particle-size control section averages 2 to 10 percent clay
+Grubcreek: moderately deep (20 to 40 inches) to a lithic contact (andesite, andesitic basalt or basalt); minor volcanic ash influence (glass content 5 to 15 percent)
+Kettlecreek: deep (40 to 60 inches) to a lithic contact (argillite); minor volcanic ash influence (glass content 5 to 15 percent)
+Longs: deep (40 to 60 inches) to a lithic contact (basalt); mollic epipedon is 20 to 45 inches thick dry 45 to 75 consecutive days in summer
+Midpeak:  moderately deep (20 to 40 inches) to a lithic contact (breccia); mixed volcanic ash mantle (glass content 5 to 20 percent) with discontinuity between mantle and buried cambic horizon; particle-size control section averages 5 to 15 percent clay
+Mineral: moderately deep (20 to 40 inches) to a lithic contact (granitic rocks); volcanic ash influence (glass content 5 to 20 percent)
+Peahke: moderately deep (20 to 40 inches) to a paralithic contact; particle-size control section has 60 to 70 percent channers; dry 45 to 60 consecutive days in summer
+Piersonte: very deep (>60 inches) in colluvium from shale; mollic epipedon is 20 to 35 inches thick; particle-size control section rock fragments are mostly shale channers; dry 60 to 90 consecutive days in summer
+Porch: moderately deep (20 to 40 inches) to lithic contact (argillite); particle-size control section averages 10 to 17 percent clay
+Scoap:  very deep (>60 inches) in mixed till or outwash materials; mollic epipedon is 20 to 30 inches thick; particle-size control section averages 8 to 12 percent clay
+Shalrock: moderately deep (20 to 40 inches) to a lithic contact (sandstone); mixed volcanic ash mantle (glass content 5 to 15 percent); with discontinuity between mantle and substratum; particle-size control section averages 5 to 12 percent clay, and has 25 to 50 percent medium and coarse sand
+Shilling: very deep (greater than 60 inches) in colluvium from basalt; dry 45 to 75 consecutive days in summer
+Umatilla: very deep (> 60 inches) in colluvium from basalt; mollic epipedon is 20 to 30 inches thick (mollic colors throughout)
+Webbgulch: moderately deep (20 to 40 inches) to a lithic contact (andesitic basalt or basalt); particle-size control section averages 11 to 17 percent clay
+Yellcreek: very deep (>60 inches) in mixed colluvium; particle-size control section averages 5 to 15 percent clay and 50 to 80 percent rock fragments
+
+GEOGRAPHIC SETTING:
+Landform: gently sloping plateau surfaces to steeply sloping hillslopes
+Slope gradient: Slopes are 0 to 90 percent
+Parent material: volcanic ash mixed with loess overlying colluvium
+Lithology: metavolcanic or metasedimentary rock
+Elevation: 3,600 to 5,400 feet
+Climate: cold, wet winters and warm, dry summers
+Mean annual precipitation: 22 to 37 inches
+Mean annual air temperature: 39 to 44 degrees F
+Frost-free period: 35 to 110 days
+
+GEOGRAPHICALLY ASSOCIATED SOILS:
+Blackgulch: on moderately dissected backslopes, shallow to bedrock with a mollic epipedon, minor influence of volcanic ash under ponderosa pine or Douglas-fir forest with elk sedge or common snowberry understory;
+Eastpine: on ridges, shoulders and backslopes; moderately deep to metasedimentary rock; mollic epipedon with small amount of volcanic ash and loamy-skeletal cambic horizon; under grand fir, Douglas-fir, western larch, Rocky Mountain maple, birchleaf spiraea and pinegrass
+Hondu: on concave backslopes and footslopes, very deep soil with a thin volcanic ash mantle over loamy-skeletal colluvium and residuum from argillite; under grand fir, Douglas-fir, curlleaf mountain mahogany, heartleaf arnica, pinegrass and elk sedge
+Kettlecreek: on backslopes; deep to argillite bedrock; loamy-skeletal colluvium with a minor amount of volcanic ash in surface horizons; under Douglas-fir, ponderosa pine, birchleaf spiraea and common snowberry
+Lemoncreek: on eroding backslopes; moderately deep to metavolcanic bedrock with mixed mantle of ash and colluvium over loamy-skeletal colluvium; under grand fir forest with pinegrass or elk sedge in the understory
+Lemonex: on mountain footslopes and backslopes; moderately deep to serpentine bedrock, with a mollic epipedon and argillic horizon; under ponderosa pine, elk sedge and Idaho fescue
+Slaughterhouse: on backslopes and summits, deep to bedrock with a thick volcanic ash mantle and argillic horizon with 18 to 27 percent clay under grand fir forest
+Wintercanyon: on convex summits and shoulders; shallow to metasedimentary rock under open canopy Douglas-fir, and ponderosa pine with common snowberry, elk sedge and pinegrass
+
+DRAINAGE AND PERMEABILITY:
+Drainage: well drained
+Permeability: moderate
+
+USE AND VEGETATION:
+Use: timber production, watershed, wildlife habitat, recreation, livestock grazing
+Native vegetation: Douglas-fir, ponderosa pine, western larch, birchleaf spiraea, common snowberry, baldhip rose, curlleaf mountain mahogany, western serviceberry, mallow ninebark, low Oregongrape, woods strawberry, mountain sweet-cicely, Sierra peavine, sticky cinquefoil, silky lupine, stonecrop, pinegrass, elk sedge, mountain brome, and western fescue.
+Plant Associations: PSME/SYAL (Douglas-fir/common snowberry); may include: PSME/CARU (Douglas-fir/pinegrass), PSME/CAGE (Douglas-fir/elk sedge), and PSME/PHMA (Douglas-fir / mallow ninebark)
+
+DISTRIBUTION AND EXTENT:
+Distribution: MLRA 10; Central Rocky and Blue Mountain Foothills
+Extent: small
+
+MLRA SOIL SURVEY REGIONAL OFFICE (MO) RESPONSIBLE: Portland, Oregon
+
+SERIES ESTABLISHED: Wallowa-Whitman National Forests, Oregon, 2012
+
+REMARKS: Diagnostic horizons and features recognized in this pedon are:
+mollic epipedon: 1 to 12 inches; A, AB horizons
+cambic horizon: 12 to 22 inches; 2Bwb horizon
+vitrandic subgroup properties: 1 to 12 inches; A, AB horizons
+particle-size control section: 11 to 22 inches; AB, 2Bwb horizons
+
+National Cooperative Soil Survey
+U.S.A.

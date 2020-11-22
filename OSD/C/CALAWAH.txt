@@ -1,0 +1,148 @@
+LOCATION CALAWAH                WA
+
+Established Series
+REV. NRM/EED/
+02/2017
+
+CALAWAH SERIES
+
+Landscape--coastal plains, till plains
+Landform--terraces, terrace escarpments
+Slope--0 to 65 percent
+Parent material--loess, stratified marine deposits, glacial outwash
+Mean annual precipitation--2550 mm
+Mean annual air temperature--9 degrees C
+Depth class--very deep
+Drainage class--well drained
+Soil moisture regime--udic
+Soil temperature regime--isomesic
+Soil moisture subclass--typic
+
+TAXONOMIC CLASS: Medial, ferrihydritic, isomesic Typic Fulvudands
+
+TYPICAL PEDON: Calawah medial silt loam on a forested, southwest-facing slope of 25 percent at an elevation of about 185 m (When described, the soil was moist throughout.)
+
+ Oi--0 to 5 cm; slightly decomposed needles, leaves, and twigs
+
+ A1--5 to 15 cm; medial silt loam, brown (10YR 4/3) dry, very dark grayish brown (10YR 3/2) moist; weak very fine and fine granular structure; slightly hard, very friable, slightly sticky and slightly plastic; weakly smeary; many very fine, fine, and medium roots; many very fine and fine irregular pores; very strongly acid (pH 5.0); clear smooth boundary
+
+ A2--15 to 30 cm; medial loam, brown (10YR 4/3) dry, dark brown (10YR 3/3) moist; weak very fine and fine subangular blocky structure; slightly hard, friable, slightly sticky and slightly plastic; weakly smeary; many very fine and fine and common medium roots; many very fine irregular pores and many very fine and fine tubular pores; very strongly acid (pH 5.0); clear smooth boundary
+
+ AB--30 to 51 cm; medial silty clay loam, yellowish brown (10YR 5/4) dry, dark brown (10YR 3/3) moist; moderate very fine and fine subangular blocky structure; slightly hard, friable, moderately sticky and moderately plastic; weakly smeary; many very fine and fine and common medium roots; many very fine irregular pores and many very fine and fine tubular pores; strongly acid (pH 5.2); clear smooth boundary
+
+ Bw1--51 to 81 cm; medial silty clay loam, light yellowish brown (10YR 6/4) dry, dark yellowish brown (10YR 4/4) moist; moderate very fine and fine subangular blocky structure; slightly hard, friable, moderately sticky and moderately plastic; weakly smeary; common very fine and fine and few medium roots; many very fine irregular pores and many very fine and fine tubular pores; strongly acid (pH 5.4); clear smooth boundary
+
+ Bw2--81 to 122 cm; medial silty clay loam, very pale brown (10YR 7/4) dry, yellowish brown (10YR 5/6) moist; moderate very fine and fine angular blocky structure; slightly hard, friable, moderately sticky and moderately plastic; weakly smeary; few very fine, fine, and medium roots; many very fine irregular and tubular pores; strongly acid (pH 5.4); gradual smooth boundary
+
+ 2Bw3--122 to 150 cm; gravelly silty clay loam, very pale brown (10YR 7/4) dry, yellowish brown (10YR 5/6) moist; moderate very fine and fine angular blocky structure; slightly hard, friable, moderately sticky and moderately plastic; weakly smeary; few very fine and fine roots; many very fine irregular and tubular pores; 15 percent gravel and 5 percent cobbles; strongly acid (pH 5.4)
+
+TYPE LOCATION: Clallam County, Washington, about 365 m west-southwest of the Third Beach parking lot on State Route 110, in Olympic National Park; about 650 m south and 415 m east of the northwest corner of section 35, T. 28 N., R. 15 W., Willamette Meridian; latitude 47.8897233 degrees north, longitude -124.6053778 degrees west, WGS 84 (GPS coordinates)
+
+RANGE IN CHARACTERISTICS:
+Mean annual soil temperature--8 to 11 degrees C
+
+Control section
+*Rock fragment content--0 to 15 percent gravel
+*Bulk density--0.70 to 0.90 g/cm3
+*Ammonium oxalate extractable aluminum plus one-half iron--2 to 5 percent
+*Phosphate retention--85 to 100 percent
+
+Oi horizon
+*Thickness--3 to 10 cm
+
+A horizon
+*Hue--7.5YR, 10YR
+*Value--2 to 3 moist, 3 to 5 dry
+*Chroma--2 or 3 moist, 2 to 4 dry
+*Organic matter content--10 to 20 percent
+*Clay content--18 to 25 percent (field estimate)
+*Fine-earth texture--medial silt loam, medial loam
+*Reaction--4.5 to 5.5
+*Thickness--10 to 15 cm
+
+AB horizon
+*Hue--7.5YR, 10YR
+*Value--2 to 3 moist, 3 to 5 dry
+*Chroma--2 or 3 moist, 2 to 4 dry
+*Organic matter content--7 to 15 percent
+*Clay content--20 to 35 percent (field estimate)
+*Fine-earth texture--medial silt loam, medial silty clay loam
+*Reaction--4.5 to 5.5
+*Thickness--10 to 20 cm
+
+Bw horizon
+*Hue--7.5YR, 10YR, 2.5YR
+*Value--3 to 6 moist, 5 to 8 dry
+*Chroma--3 to 6 moist, 3 or 4 dry
+*Organic matter content--1 to 3 percent
+*Clay content--20 to 35 percent (field estimate)
+*Fine-earth texture--medial silt loam, medial silty clay loam
+*Reaction--4.5 to 5.5
+*Combined thickness--50 to 100 cm
+
+2Bw horizon
+*Organic matter content--0 to 1 percent
+*Clay content--20 to 35 percent (field estimate)
+*Bulk density--0.90 to 1.20 g/cm3
+*Total rock fragment content--15 to 35 percent
+*Gravel content--15 to 35 percent
+*Cobble content--0 to 10 percent
+*Fine-earth texture--silt loam, silty clay loam
+*Reaction--4.5 to 5.5
+
+COMPETING SERIES: 
+Bullman--paralithic contact 50 to 100 cm from the soil surface
+Ilwaco--parafragments and less than 27 percent clay in control section
+Klootchie, Knappton--lithic contact 100 to 150 cm from the soil surface
+Lint--mean annual soil temperature higher than 10 degrees C; bulk density ranges to below 0.70 g/cm3 in control section
+Mopang, Narel--densic contact 100 to 150 cm from the soil surface
+Neotsu--densic contact 50 to 100 cm from the soil surface
+Neskowin--lithic contact 50 to 100 cm from the soil surface
+Newskah--10 to 15 percent clay in control section
+Palix--paralithic contact 100 to 150 cm from the soil surface
+Queets--10 to 18 percent clay in control section; rare flooding
+Salander--mean annual soil temperature higher than 10 degrees C; bulk density ranges to below 0.70 g/cm3; more than 20 percent sand in control section
+
+GEOGRAPHIC SETTING:
+Elevation--5 to 185 m
+Climate--marine; cool, moist summers; cool, wet winters
+Mean annual precipitation--2000 to 3300 mm
+Mean annual air temperature--7 to 10 degrees C
+Frost-free period--160 to 220 days
+
+GEOGRAPHICALLY ASSOCIATED SOILS:
+Hoquiam--no aquic conditions; on similar landforms
+Klone--more than 35 percent coarse fragments in control section; on similar landforms
+Hoquiam--densic contact 100 to 150 cm from the soil surface; on adjacent ground moraines
+Ilwaco--parafragments and less than 27 percent clay in control section; on adjacent hills
+Newskah--10 to 15 percent clay in control section; on similar landforms
+Ozette--densic contact 100 to 150 cm from the soil surface; on nearby glacially modified hills
+Snahopish--more than 35 percent coarse fragments in control section; on nearby mountain slopes
+Tealwhit--aquic conditions within 25 cm of the soil surface; in depressions and drainageways
+
+DRAINAGE AND SATURATED HYDRAULIC CONDUCTIVITY:
+Drainage class--well drained
+Saturation in normal years--none
+Flooding--none
+Ponding--none
+Saturated hydraulic conductivity (Ksat)--moderately high
+
+USE AND VEGETATION:
+Use--wildlife habitat, recreation, timber production, homesite development
+Potential natural vegetation--Sitka spruce, western hemlock, evergreen huckleberry, red huckleberry, vine maple, red elderberry, western swordfern, Oregon oxalis
+
+DISTRIBUTION AND EXTENT: Olympic Peninsula coast, Washington; MLRA 4; small extent
+
+MLRA SOIL SURVEY REGIONAL OFFICE (MO) RESPONSIBLE: Portland, Oregon 
+
+SERIES ESTABLISHED: Jefferson County, Washington; 1970
+
+REMARKS:
+Diagnostic horizons and other features in this pedon
+*Umbric epipedon--zone from 5 to 51 cm
+*Cambic horizon--zone from 51 to 150
+*Particle-size control section--zone from 5 to 105 cm
+*Andic soil properties--zone from 5 to 105 cm
+
+National Cooperative Soil Survey
+U.S.A.

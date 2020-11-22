@@ -1,0 +1,122 @@
+LOCATION YAMASH                 WA
+
+Established Series
+Rev. PNP/KDPL/SBC
+09/2019
+
+YAMASH SERIES
+
+Landscape--mountains, plateaus, canyonlands
+Landform--mountain slopes, structural benches, canyons
+Slope--0 to 60 percent
+Parent material--volcanic ash over colluvium and residuum derived from basalt
+Mean annual precipitation--about 760 mm
+Mean annual air temperature--about 6 degrees C
+Depth class--moderately deep
+Drainage class--well drained
+Soil moisture regime--xeric
+Soil temperature regime--frigid
+Soil moisture subclass--typic
+
+TAXONOMIC CLASS: Loamy-skeletal, isotic, frigid Andic Haploxeralfs
+
+TYPICAL PEDON: Yamash ashy fine sandy loam in an area of forestland, on a 3-percent, east-facing slope at an elevation of 1500 m (All textures are apparent field textures.)
+
+ Oi--0 to 5 cm; slightly decomposed forest litter
+
+ A--5 to 15 cm; ashy fine sandy loam, very dark grayish brown (10YR 3/2) dry, very dark brown (10YR 2/2) moist; weak fine granular structure; soft, very friable, nonsticky and nonplastic, weakly smeary; common fine and medium roots; few fine irregular pores; moderately acid (pH 6.0), NaF pH 10.0; abrupt wavy boundary
+
+ Bw--15 to 33 cm; ashy fine sandy loam, brown (7.5YR 4/4) dry, dark brown (7.5YR 3/4) moist; weak fine subangular blocky structure; slightly hard, friable, slightly sticky and nonplastic; weakly smeary; many medium and coarse and common fine roots; common fine irregular pores; 10 percent weathered basalt paragravel; moderately acid (pH 6.0), NaF pH 9.8; gradual wavy boundary
+
+ 2Bt1--33 to 48 cm; very cobbly loam, dark yellowish brown (10YR 4/4) dry, dark brown (7.5YR 3/4) moist; weak medium subangular blocky structure; slightly hard, firm, moderately sticky and moderately plastic; common medium and coarse and few fine roots; common very fine and few fine tubular pores; common distinct clay films on faces of peds and in pores; 15 percent gravel, 20 percent cobbles, and 1 percent stones; 10 percent weathered basalt paragravel and 15 percent paracobbles; moderately acid (pH 6.0), NaF pH 9.6; clear irregular boundary
+
+ 2Bt2--48 to 66 cm; very cobbly loam, dark yellowish brown (10YR 4/4) dry, dark brown (7.5YR 3/4) moist; moderate medium subangular blocky structure; slightly hard, firm, moderately sticky and moderately plastic; few fine and medium roots; common fine and few medium tubular pores; many distinct clay films on faces of peds and in pores; 10 percent gravel, 25 percent cobbles, and 10 percent stones; 10 percent weathered basalt paragravel and 20 percent paracobbles; slightly acid (pH 6.5), NaF pH 9.6; abrupt irregular boundary
+
+ 2Cr--66 cm; highly weathered basalt
+
+TYPE LOCATION: Yakama Nation, Yakima County, Washington, about 400 m south of Olney Corral; about 430 m west and 110 m south of the northeast corner of section 21, T. 10 N., R. 14 E., Willamette Meridian; latitude 46.3467642, longitude -121.0683820, datum WGS 84 (coordinates estimated from section, township, and range)
+
+RANGE IN CHARACTERISTICS:
+Mean annual soil temperature at a depth of 50 cm--6 to 8 degrees C
+Moisture control section--usually moist, but dry in all parts 45 to 60 consecutive days following summer solstice
+Depth to paralithic contact--50 to 100 cm
+Particle-size control section (argillic horizon)--35 to 60 percent hard rock fragments; 15 to 60 percent soft basalt pararock fragments; 18 to 35 percent clay
+
+Volcanic ash mantle (A and Bw horizons)
+*Thickness--20 to 35 cm
+*Moist bulk density--0.75 to 0.9 g/cm3
+*Glass content--5 to 30 percent
+*Ammonium oxalate aluminum plus one-half iron--2 to 3 percent
+*15-bar water retention--12 to 15 percent (air-dried samples)
+
+Oi horizon
+Thickness--0 to 8 cm
+
+A horizon
+Value--3 to 5 dry, 2 or 3 moist
+Chroma--2 to 4 dry or moist
+Thickness--5 to 10 cm
+
+Bw horizon
+Hue--7.5YR, 10YR
+Value--4 or 5 dry, 3 or 4 moist
+Chroma--3 or 4 dry or moist
+Texture--ashy fine sandy loam, gravelly ashy fine sandy loam, ashy sandy loam
+Thickness--13 to 23 cm
+
+2Bt horizon
+Hue--7.5YR, 10YR
+Value--4 to 6 dry, 3 or 4 moist
+Chroma--4 to 6 dry or moist
+Texture--very gravelly loam, very cobbly loam, very cobbly clay loam
+Hard rock fragment content--35 to 60 percent
+Soft basalt pararock fragments--15 to 60 percent
+Combined thickness--15 to 50 cm
+
+COMPETING SERIES:
+Baileycreek--15-bar water retention of 20 to 25 percent (air-dried samples) in surface horizons (medial textural modifiers)
+Goshawk--50 to 100 cm (moderately deep) to a lithic contact (andesite); dry in moisture control section 60 to 75 days
+Jorge--no paralithic contact within a depth of 127 cm or more; dry in moisture control section 60 to 75 days
+McDanielake, Nebopeak, Payraise, Ranes--no paralithic or lithic contact within a depth of more than 150 cm
+Pinuscreek--100 to 150 cm (deep) to a lithic contact (andesitic basalt, andesite)
+Satus--no paralithic or lithic contact within a depth of more than 150 cm; dry in moisture control section 60 to 75 days
+Weste--50 to 100 cm (moderately deep) to a lithic contact (basalt); dry in moisture control section 90 days or more
+
+GEOGRAPHIC SETTING:
+Elevation--910 to 1525 m
+Mean annual precipitation--640 to 890 mm
+Mean annual air temperature--6 to 7 degrees C
+Frost-free season--70 to 110 days
+
+GEOGRAPHICALLY ASSOCIATED SOILS:
+Adamslake--on benches and side slopes; no paralithic or lithic contact within a depth of more than 150 cm; volcanic ash mantle 36 to 65 cm thick
+Bocker--on ridges and side slopes; 10 to 25 cm (very shallow) to a lithic contact (basalt)
+Singh--on benches and side slopes; no lithic contact within a depth of more than 150 cm; volcanic ash mantle 36 to 65 cm thick
+
+DRAINAGE AND SATURATED HYDRAULIC CONDUCTIVITY:
+Drainage class--well drained
+Saturated hydraulic conductivity (Ksat)--moderately high
+
+USE AND VEGETATION:
+Use--dominantly timber production, livestock grazing, and wildlife habitat
+Native vegetation--Douglas-fir, grand fir, ponderosa pine, pinegrass, common snowberry, skunkleaf polemonium, pinemat manzanita
+
+DISTRIBUTION AND EXTENT: East slopes of Cascade Mountains in Washington, Yakima County, Yakama Nation; MLRA 6; small extent
+
+SOIL SURVEY REGIONAL OFFICE (SSRO) RESPONSIBLE: Portland, Oregon
+
+SERIES ESTABLISHED: Yakama Nation, Yakima County, Washington; 2014
+
+REMARKS:
+Diagnostic horizons and other features recognized in this pedon
+*Andic soil properties--zone from 5 to 33 cm
+*Ochric epipedon
+*Cambic horizon--zone from 15 to 33 cm
+*Argillic horizon--zone from 33 to 66 cm
+*Particle-size control section--zone from 33 to 66 cm
+*Depth to paralithic contact--66 cm
+
+Yamash is a Yakama word for deer. White Deer Creek is near the type location for this series. In 2004, the series originally was named the Whitedeer series.
+
+National Cooperative Soil Survey
+U.S.A.

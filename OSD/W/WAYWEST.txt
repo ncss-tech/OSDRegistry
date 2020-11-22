@@ -1,0 +1,124 @@
+LOCATION WAYWEST                ID
+
+Tentative Series
+Rev. BAG/CBR/DJP
+11/2017
+
+WAYWEST SERIES
+
+The Waywest series consists of very deep, well drained soils that formed in loess influenced alluvium derived from mixed sources. Waywest soils are on valley floors and alluvial fans. Slopes range from 1 to 25 percent. Mean annual precipitation is about 500 mm, and mean annual air temperature is about 2.0 degrees C.
+
+TAXONOMIC CLASS: Coarse-loamy, mixed, superactive Pachic Haplocryolls
+
+TYPICAL PEDON: Waywest silt loam, in rangeland (colors are for dry soil unless otherwise noted).
+
+     A1--0 to 6 cm; dark grayish brown (10YR 4/2) silt loam, very dark brown (10YR 2/2), moist; moderate fine granular structure; soft, very friable, nonsticky, nonplastic; many very fine and fine roots throughout; many very fine and fine interstitial pores; neutral (pH 6.6); clear smooth boundary.                                                        
+
+     A2--6 to 22 cm; grayish brown (10YR 5/2) silt loam, very dark grayish brown (10YR 3/2), moist; moderate fine subangular blocky structure; slightly hard, friable, slightly sticky, slightly plastic; common very fine and fine roots throughout; common very fine and fine tubular and irregular pores; slightly acid (pH 6.5); gradual smooth boundary. 
+
+     AB--22 to 45 cm; brown (10YR 4/3) silt loam, dark brown (10YR 3/3), moist; strong fine subangular blocky structure; moderately hard, friable, slightly sticky, slightly plastic; common very fine and fine roots throughout; common very fine and fine tubular and irregular pores; 2 percent gravel; neutral (pH 6.6); gradual smooth boundary. 
+
+     Bw1--45 to 60 cm; pale brown (10YR 6/3) loam, brown (10YR 4/3), moist; strong medium subangular blocky structure; moderately hard, friable, moderately sticky, moderately plastic; common very fine and fine roots throughout; common very fine and fine tubular and irregular pores; 5 percent gravel; neutral (pH 6.7); gradual wavy boundary. 
+
+     Bw2--60 to 110 cm; light yellowish brown (10YR 6/4) fine sandy loam, dark yellowish brown (10YR 4/4), moist; moderate coarse subangular blocky structure; slightly hard, friable, slightly sticky, nonplastic; few very fine roots throughout; few very fine and fine irregular and interstitial pores; 10 percent gravel; neutral (pH 6.8); gradual wavy boundary. 
+
+     Bw3--110 to 150 cm; light yellowish brown (10YR 6/4) gravelly loamy fine sand, dark yellowish brown (10YR 4/4), moist; weak coarse subangular blocky structure; soft, very friable, nonsticky, nonplastic; common very fine and fine interstitial pores; 25 percent gravel; neutral (pH 6.8). 
+
+TYPE LOCATION: Caribou County, Idaho; 42 degrees 56 minutes 16.67 seconds north latitude and 111 degrees 28 minutes 50.92 seconds west longitude, WGS84. 
+
+RANGE IN CHARACTERISTICS:
+Mean annual soil temperature - 2.0 to 5.0 degrees C.
+Mollic epipedon thickness - 40 to 75 cm
+
+Particle-size control section (weighted average):
+Clay content - 10 to 18 percent
+Rock fragments - 5 to 30 percent
+
+A1, A2 horizons
+Value: 4 or 5 dry; 2 or 3 moist
+Chroma: 2 or 3; dry or moist
+Texture (less than 2 mm fraction): silt loam, loam
+Clay content: 10 to 18 percent
+Reaction: pH 6.4 to 7.0
+Thickness: 20 to 45 cm
+
+AB horizon
+Value: 4 or 5 dry; 2 or 3 moist
+Chroma: 2 or 3; dry or moist
+Texture (less than 2 mm fraction): silt loam, loam
+Clay content: 10 to 18 percent
+Rock fragments: 0 to 5 percent gravel
+Reaction: pH 6.4 to 7.2
+Thickness: 0 to 40 cm     
+
+Bw1 horizon 
+Hue: 7.5YR or 10YR; dry or moist
+Value: 4 to 6 dry; 3 or 4 moist
+Chroma: 3 or 4; dry or moist
+Texture (less than 2 mm fraction): silt loam, loam 
+Clay content: 10 to 18 percent
+Rock fragments: 2 to 10 percent gravel
+Reaction: pH 6.4 to 7.2
+Thickness: 10 to 50 cm
+
+Bw2 and Bw3 horizons
+Hue: 7.5YR or 10YR; dry or moist
+Value: 4 to 6 dry; 3 or 4 moist
+Chroma: 3 or 4; dry or moist
+Texture (less than 2 mm fraction): loamy fine sand, fine sandy loam 
+Clay content: 6 to 15 percent
+Rock fragments: 5 to 30 percent gravel
+Reaction: pH 6.4 to 7.2
+Thickness: 40 to 70 cm
+
+COMPETING SERIES:
+Aycab - is moderately deep to a paralithic contact
+Brownsgulch - has an ustic moisture regime
+Coffepot -is deep to a paralithic contact
+Coutis - has an ustic moisture regime
+Earcree - does not have a cambic horizon 
+Fleecer - has an ustic moisture regime
+Foxvire - has a xeric moisture regime bordering on aridic
+Gardners Fork - has an udic moisture regime
+Grayhead - has an ustic moisture regime
+Hailman - is deep to a paralithic contact
+Moonlight - has an udic moisture regime
+Naz - has an udic moisture regime
+Razorba - has an ustic moisture regime
+Shook - has an ustic moisture regime
+Skyway -is moderately deep to a lithic contact
+Taral - has an udic moisture regime
+Tosp - has an udic moisture regime
+
+GEOGRAPHIC SETTING:
+Landform - valley floors and alluvial fans
+Elevation - 1,890 to 2,010 meters
+Slope - 1 to 25 percent
+Parent material - loess influenced alluvium derived from mixed sources
+Mean annual precipitation - 450 to 550 mm 
+Mean annual air temperature - 0.6 to 3.0 degrees C.
+Frost-free period - 30 to 65 days
+
+GEOGRAPHICALLY ASSOCIATED SOILS: None listed.
+
+DRAINAGE AND SATURATED HYDRAULIC CONDUCTIVITY: Well drained, 5.0 - 200.0 um/sec.
+
+USE AND VEGETATION: Waywest soils are primarily used for rangeland. The potential native vegetation is mountain big sagebrush, rabbitbrush, Idaho fescue, and bluebunch wheatgrass. 
+
+DISTRIBUTION AND EXTENT: Waywest soils are of small extent in southeast Idaho; MLRA 43B.
+
+SOIL SURVEY REGIONAL OFFICE (SSRO) RESPONSIBLE: Bozeman, Montana
+
+SERIES PROPOSED: Caribou County, Idaho, Caribou County Area, Soil Survey, 2017. The series name is derived from the USGS Wayan West, Idaho topographic quadrangle. 
+
+REMARKS: Diagnostic horizons and features recognized in this pedon are: 
+Mollic epipedon - 0 to 45 cm (A1, A2, and AB horizons)
+Cambic horizon - 45 to 150 cm (Bw1, Bw2, and Bw3 horizons) 
+Particle-size control section - 25 to 100 cm (part of AB, Bw1, and part of Bw2 horizons)
+
+Waywest soils have a cryic temperature regime and a xeric moisture regime.
+
+Taxonomic version: Twelfth Edition, 2014 
+
+National Cooperative Soil Survey
+U.S.A.

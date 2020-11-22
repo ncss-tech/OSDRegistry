@@ -1,0 +1,131 @@
+LOCATION STEMILT                WA
+
+Established Series
+Rev. VB/RJE/TLA/RWL
+09/2019
+
+STEMILT SERIES
+
+Landscape--mountains, plateaus, canyonlands
+Landform--mountain slopes, structural benches, ridges, canyons
+Slope--0 to 75 percent
+Parent material--ash and loess over material derived dominantly from basalt or andesite and some sandstone
+Mean annual precipitation--about 640 mm
+Mean annual air temperature--about 7 degrees C
+Depth class--very deep, deep
+Drainage class--well drained
+Soil moisture regime--xeric
+Soil temperature regime--frigid
+Soil moisture subclass--typic
+
+TAXONOMIC CLASS: Loamy-skeletal, isotic, frigid Vitrandic Argixerolls
+
+TYPICAL PEDON: Stemilt ashy silt loam, forested
+
+ O--0 to 3 cm; moderately decomposed organic litter of needles, twigs, and leaves
+
+ A--3 to 15 cm; ashy silt loam, dark grayish brown (10YR 4/2) dry, very dark grayish brown (10YR 3/2) moist; moderate thin platy structure; slightly hard, friable, slightly sticky and slightly plastic; many fine roots; many very fine tubular pores; 5 percent cobbles; NaF pH 8.8; neutral (pH 6.8); clear smooth boundary
+
+ AB--15 to 46 cm; ashy silt loam, brown (10YR 5/3) dry, dark brown (10YR 3/3) moist; weak fine granular structure; slightly hard, friable, slightly sticky and slightly plastic; many fine roots; many very fine tubular pores; 10 percent cobbles and gravel; NaF pH 8.6; neutral (pH 6.8); clear wavy boundary
+
+ 2Bt1--46 to 97 cm; very cobbly silty clay loam, brown (10YR 5/3) dry, dark yellowish brown (10YR 3/4) moist; moderate fine subangular blocky structure; hard, firm, moderately sticky and very plastic; common fine roots; many very fine tubular pores; 60 percent cobbles and gravel; few faint clay films in pores and very few faint clay films on surfaces of peds; neutral (pH 6.8); gradual wavy boundary
+
+ 2Bt2--97 to 150 cm; very cobbly silty clay loam, pale brown (10YR 6/3) dry, dark yellowish brown (10YR 4/4) moist; massive; very hard, firm, very sticky and very plastic; 60 percent cobbles and gravel; few faint clay films in pores; few clay bridges between sand grains; neutral (pH 6.8)
+
+TYPE LOCATION: Chelan County, Washington, along Stemilt Hill Road; about 180 m east and 150 m north of the southwest corner of section 13, T. 21 N., R. 20 E.
+
+RANGE IN CHARACTERISTICS:
+Mean annual soil temperature--7 to 8 degrees C
+Soil moisture--usually moist, but dry 60 to 75 consecutive days in all parts between depths of 10 and 30 cm
+Thickness of mollic epipedon--25 to 46 cm
+Upper 50 cm of argillic horizon--averages 35 to 65 percent rock fragments and 18 to 35 percent clay
+Depth to bedrock and thickness of solum--100 to 150 cm or more
+Reaction--6.1 to 7.3
+Base saturation--less than 75 percent in some part between depths of 25 and 75 cm
+
+Upper 25 to 55 cm
+*Moist bulk density--0.85 to 1.30 g/cm3
+*Volcanic glass content--5 to 20 percent
+*Acid oxalate aluminum plus one-half iron--0.4 to 1.0 percent
+*15-bar water retention--5 to 10 percent (air-dried samples)
+
+A horizon
+Value--4 or 5 dry, 1 to 3 moist
+Chroma--2 or 3 dry or moist
+Texture of fine-earth fraction--ashy silt loam, ashy loam, ashy sandy loam
+Gravel content--0 to 20 percent
+Cobble content--0 to 5 percent
+Stone content--0 to 30 percent
+Thickness--5 to 30 cm
+
+AB horizon, and Bw horizon (where present)
+Value--4 or 6 dry
+Chroma--2 to 4 moist or dry
+Texture of fine-earth fraction--ashy silt loam, ashy sandy loam, ashy loam
+Gravel content--5 to 45 percent
+Cobble content--0 to 20 percent
+Thickness of AB horizon--0 to 51 cm
+
+2Bt horizon
+Hue--10YR, 7.5YR
+Value--4 to 6 dry, 3 or 4 moist
+Chroma--2 to 6 dry or moist
+Texture of fine-earth fraction--loam, sandy clay loam, silty clay loam, clay loam
+Gravel content--15 to 55 percent
+Cobble content--5 to 45 percent
+Stone content--0 to 10 percent
+Thickness of 2Bt1 horizon--25 to 61 cm
+
+COMPETING SERIES:
+Barneycreek--vitrandic material 18 to 25 cm thick
+Getaway--mollic epipedon 50 to 90 cm thick
+Klicker, Larabee--50 to 100 cm (moderately deep) to a lithic contact (basalt)
+Klickson, Millerflat, Ryespur--dry 45 to 60 consecutive days following summer solstice
+Southworth--50 to 100 cm (moderately deep) to a lithic contact (shale)
+Sycreek--90 to 115 cm (moderately deep, deep) to a densic contact
+Wileyflat--50 to 100 cm (moderately deep) to a lithic contact (rhyolitic tuff)
+
+GEOGRAPHIC SETTING:
+Elevation--610 to 1650 m
+Climate--warm, dry summers; moist, cold winters
+Mean annual precipitation--410 to 1000 mm
+Mean January air temperature--about -4 degrees C
+Mean July air temperature--about 20 degrees C
+Mean annual air temperature--about 4 to 8 degrees C
+Frost-free season--70 to 125 days
+Growing season (-2 degrees C)--145 to 170 days
+
+GEOGRAPHICALLY ASSOCIATED SOILS:
+Anatone--25 to 50 cm (shallow) to a lithic contact (basalt); on plateaus and mountain slopes
+Bocker--10 to 25 cm (very shallow) to a lithic contact (basalt); on plateaus and mountain slopes
+Clint--mesic soil temperature regime; no argillic horizon; on mountain slopes
+Colockum--mesic soil temperature regime; fine-loamy particle-size class; on mountain slopes
+Loneridge, Tekison--clayey-skeletal particle-size class; on mountain slopes
+Tronsen--mesic soil temperature regime; clayey-skeletal particle-size class; on mountain slopes
+
+DRAINAGE AND SATURATED HYDRAULIC CONDUCTIVITY:
+Drainage class--well drained
+Saturated hydraulic conductivity (Ksat)--moderately high
+
+USE AND VEGETATION:
+Use--livestock grazing, timber production, recreation, watershed
+Native vegetation--ponderosa pine, Douglas-fir, pinegrass, arrowleaf balsamroot, elk sedge, bluebunch wheatgrass, Idaho fescue
+
+DISTRIBUTION AND EXTENT: Central and north-central Washington; MLRA 6; moderate extent
+
+SOIL SURVEY REGIONAL OFFICE (SSRO) RESPONSIBLE: Portland, Oregon
+
+SERIES ESTABLISHED: Chelan County, Washington; 1969
+
+REMARKS:
+Diagnostic horizons and other features recognized in this pedon
+*Mollic epipedon--zone from 3 to 46 cm
+*Argillic horizon--zone from 46 to 155 cm
+*Vitrandic feature--zone from 3 to 46 cm
+*Particle-size control section--zone from 46 to 96 cm
+
+ADDITIONAL DATA:
+Laboratory data--pedon numbers 90P722 and 92P019 (taxadjunct); National Soil Survey Laboratory, Lincoln, Nebraska
+
+National Cooperative Soil Survey
+U.S.A.

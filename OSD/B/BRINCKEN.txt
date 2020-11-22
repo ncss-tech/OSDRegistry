@@ -1,0 +1,160 @@
+LOCATION BRINCKEN               WA
+
+Established Series
+IRD.  TJR/SHB
+06/2016
+
+BRINCKEN SERIES
+
+Landscape--Columbia basalt plateau
+Landform--outwash plains and treads of terraces adjacent to loess hills
+Slope--0 to 25 percent
+Parent material--recent loess mixed with a minor amount of volcanic ash over sandy and gravelly glaciofluvial deposits over older loess
+Mean annual precipitation--about 430 mm
+Mean annual air temperature--about 10 degrees C
+Depth class--very deep
+Drainage class--well drained
+Soil moisture regime--xeric
+Soil temperature regime--mesic
+Soil moisture subclass--typic
+
+TAXONOMIC CLASS: Loamy-skeletal, mixed, superactive, mesic Vitrandic Argixerolls
+
+TYPICAL PEDON: Brincken ashy silt loam, cultivated, on a 2-percent slope at an elevation of 760 m (When described on August 29, 2006, the soil was dry to a depth of 50 cm and moist below. All textures are apparent field textures.)
+
+ Ap--0 to 18 cm; ashy silt loam, grayish brown (10YR 5/2) dry, very dark brown (10YR 2/2) moist; weak medium subangular blocky structure parting to moderate medium granular; slightly hard, very friable, moderately sticky and slightly plastic; many very fine and few fine roots throughout; few fine and common very fine irregular pores; 1 percent fine gravel; slightly alkaline (pH 7.6); abrupt smooth boundary
+
+ A--18 to 33 cm; ashy silt loam, grayish brown (10YR 5/2) dry, very dark grayish brown (10YR 3/2) moist; moderate coarse subangular blocky structure; slightly hard, friable, slightly sticky and slightly plastic; many very fine and few fine roots; few fine and common very fine irregular pores; 2 percent fine gravel; slightly alkaline (pH 7.6); abrupt smooth boundary
+
+ AB--33 to 48 cm; ashy silt loam, brown (10YR 5/3) dry, dark brown (10YR 3/3) moist; weak medium subangular blocky structure; soft, very friable, slightly sticky and slightly plastic; many very fine roots throughout; few fine and common very fine tubular pores; 2 percent fine gravel; slightly alkaline (pH 7.5); abrupt smooth boundary
+
+ Bw--48 to 74 cm; ashy silt loam, pale brown (10YR 6/3) dry, dark brown (10YR 3/3) moist; weak medium and coarse subangular blocky structure; soft, very friable, slightly sticky and slightly plastic; common very fine roots throughout; few to many fine and very fine dendritic tubular pores and common very fine irregular pores; 5 percent fine gravel; slightly alkaline (pH 7.5); gradual smooth boundary
+
+ Bt1--74 to 104 cm; extremely gravelly loam, pale brown (10YR 6/3) dry, dark yellowish brown (10YR 3/4) moist; weak medium subangular blocky structure; soft, very friable, slightly sticky and slightly plastic; few very fine roots throughout; many fine and medium interstitial pores; 80 percent distinct clay films on rock fragments and 10 percent distinct clay films on surfaces along root channels; 45 percent gravel and 15 percent cobbles; neutral (pH 7.3); clear wavy boundary
+
+ Bt2--104 to 145 cm; very gravelly sandy clay loam, very pale brown (10YR 7/3) dry, yellowish brown (10YR 5/4) moist; moderate medium subangular blocky structure; slightly hard, friable, slightly sticky and slightly plastic; few very fine roots throughout; many very fine and medium interstitial pores; 60 percent distinct clay bridges between sand grains, 20 percent faint clay films on surfaces along root channels, and 15 percent distinct clay bodies that are yellowish brown (10YR 5/4) when moist and are around rock fragments; 45 percent gravel and 10 percent cobbles; neutral (pH 7.3); gradual wavy boundary
+
+ 2Btb--145 to 150 cm; silty clay loam, light yellowish brown (10YR 6/4) dry, dark yellowish brown (10YR 3/6) moist; moderate coarse subangular blocky structure; slightly hard, friable, slightly sticky and slightly plastic; few very fine roots throughout; few very fine and common fine and medium dendritic tubular pores; 23 percent clay films lining pores and root channels and 12 percent clay films on faces of peds; 5 percent fine gravel; neutral (pH 6.9)
+
+TYPE LOCATION: Spokane County, Washington, about 8 km southeast of Reardan, Washington; about 545 m east and 435 m south of the northwest corner of section 21, T. 25 N., R. 40 E.; Reardan East, Washington, U.S. Geological Survey topographic quadrangle; latitude 47.6542511, longitude -117.7698364, datum WGS 84 (coordinates measured with GPS)
+
+RANGE IN CHARACTERISTICS:
+Mean annual soil temperature at a depth of 50 cm--10 to 12 degrees C
+Thickness of mollic epipedon--25 to 50 cm
+Moisture control section--dry 60 to 90 consecutive days in July through September
+Rock fragment content in particle-size control section--averages 35 to 70 percent
+Depth to older loess--100 to 150 cm
+Thickness of volcanic ash influence--50 to 75 cm
+
+Estimated properties of layers influenced by volcanic ash
+*Content of volcanic glass--5 to 20 percent
+*Acid oxalate Al plus Fe--0.4 to 1.0 percent
+*Moist bulk density--1.10 to1.40 g/cm3
+*15-bar water retention--5 to 10 percent (air-dried samples)
+
+Ap horizon
+*Value--3 to 5 dry, 2 or 3 moist
+*Chroma--1 to 3 dry or moist
+*Content of clay--10 to 20 percent
+*Content of gravel--0 to 5 percent
+*Reaction--6.1 to 7.8
+*Thickness--15 to 25 cm
+
+A and AB horizons
+*Value--3 to 5 dry, 2 or 3 moist
+*Chroma--1 to 3 dry or moist
+*Texture--ashy silt loam, ashy very fine sandy loam, ashy loam
+*Content of clay--10 to 20 percent
+*Content of gravel--0 to 5 percent
+*Reaction--6.1 to 7.8
+*Thickness of A horizon--10 to 25 cm
+*Thickness of AB horizon--5 to 20 cm
+
+Bw horizon (where present)
+*Value--3 to 6 dry, 3 or 4 moist
+*Chroma--3 to 5 dry, 2 to 4 moist
+*Texture--ashy silt loam, ashy sandy loam, loam
+*Content of clay--5 to 20 percent
+*Content of gravel--0 to 30 percent
+*Reaction--6.1 to 7.8
+*Thickness--15 to 50 cm
+
+Bt horizon
+*Hue--10YR, variegated in some pedons
+*Value--5 to 7 dry, 3 to 5 moist
+*Chroma--3 to 6 dry or moist
+*Texture--silt loam, loam, or clay loam in upper part; silty clay loam, sandy loam, or sandy clay loam in lower part
+*Content of clay--15 to 30 percent
+*Content of gravel--35 to 70 percent
+*Content of cobbles--0 to 15 percent
+*Total content of rock fragments--35 to 80 percent
+*Reaction--5.6 to 7.3
+*Combined thickness--15 to 75 cm
+
+C horizon (where present, above 2Btb horizon)
+*Texture--sand, loamy sand
+
+2Btb horizon
+*Hue--10YR, 7.5YR
+*Value--5 or 6 dry, 3 or 4 moist
+*Chroma--4 to 6 dry or moist
+*Texture--silt loam, silty clay loam, silty clay
+*Content of clay--18 to 45 percent
+*Content of gravel--0 to 5 percent
+*Reaction--5.6 to 7.3
+
+A 2Btkb or 2Bkqb horizon is in some pedons.
+
+COMPETING SERIES: 
+Ackna, Brysill--sandy-skeletal at a depth of 100 to 150 cm
+Blint, Hehe, Hovelton, Leidl, Nint, Norod, Tekoa--less than 100 cm to lithic contact
+Cubhill--formed in glacial till; no 2Btb horizon with as much as 45 percent clay
+Bunselmeier--100 to 150 cm deep to cinders
+Lainand--100 to 150 deep to lithic contact
+McDaniel--formed in basalt colluvium; 2Bt horizon with very cobbly and extremely cobbly textures
+Millhouse--sandy-skeletal at a depth of 50 to 100 cm
+Skooker--100 to 150 cm to paralithic contact
+
+GEOGRAPHIC SETTING:
+Elevation--550 to 795 m
+Climate--warm, dry summers; cool, moist winters
+Mean annual precipitation--380 to 635 mm
+Mean annual air temperature--7 to 11 degrees C
+Frost-free period--100 to 140 days
+
+GEOGRAPHICALLY ASSOCIATED SOILS:
+Alecanyon--sandy-skeletal; on outwash plains
+Athena, Broadax--fine-silty; on loess hills
+Cheney--underlain by sand, gravel, and cobbles at a depth of 50 to 100 cm; on outwash plains
+Cocolalla--ashy; in poorly drained depressions of channeled scablands
+Reardan--fine; on loess hills
+Tucannon--fine-silty; on benches and plateaus of channeled scablands
+Uhlig--coarse-loamy; on outwash plains and terraces
+
+DRAINAGE AND SATURATED HYDRAULIC CONDUCTIVITY:
+Drainage class--well drained
+Saturated hydraulic conductivity (Ksat)--moderately high
+
+USE AND VEGETATION:
+Use--mainly crop and forage production
+Principal crop--small grain
+Potential natural vegetation--Idaho fescue, bluebunch wheatgrass, scattered ponderosa pine, lupine, arrowleaf balsamroot, rose, common snowberry, phlox, Nevada birdsfoot trefoil, biscuitroot, basin wildrye, rough fescue, buckwheat, milkvetch, threetip sagebrush, needlegrass
+
+DISTRIBUTION AND EXTENT: Eastern Washington; MLRA 9; moderate extent
+
+MLRA SOIL SURVEY REGIONAL OFFICE (MO) RESPONSIBLE: Portland, Oregon
+
+SERIES ESTABLISHED: Spokane County, Washington; 2012; name chosen to honor service of career soil scientist, Ed Brincken, and his local farming family
+
+REMARKS:
+Diagnostic horizons and other features in this pedon
+*Mollic epipedon--zone from surface to a depth of 48 cm
+*Argillic horizon--zone from 74 to 150 cm with oriented clay that has a 20 percent relative increase from that of overlying horizon
+*Particle-size control section--zone from 74 to 124 cm
+*Vitrandic feature--zone from surface to 74 cm
+*Discontinuity in 2Btb horizon represents contact point of original loess (pre-Missoula flood)
+
+6/2016--This official series description was updated as part of the final correlation of the Spokane County, Washington, soil survey. The formatting was updated according to SSR1 Technical Note 11--Content and Format of Official Series Descriptions (revised 12/2015).
+
+National Cooperative Soil Survey
+U.S.A.

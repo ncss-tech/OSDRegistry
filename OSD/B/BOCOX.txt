@@ -1,0 +1,153 @@
+LOCATION BOCOX                  OK
+
+Established Series
+Rev. CFW:JGF:AMS
+08/2017
+
+BOCOX SERIES
+
+The Bocox series consists of very deep, poorly drained, moderately permeable soils. These level to very gently sloping soils formed in loamy alluvium or eolian sediments of Pleistocene age. These soils occur on depressional areas on alluvial plains of the Central Rolling Red Prairies (MLRA 80A). Slope ranges from 0 to 3 percent. Mean annual air temperature is about 16.1 degrees C (61 degrees F), and mean annual precipitation is about 838 mm (33 in).
+
+TAXONOMIC CLASS: Loamy, mixed, active, thermic Aquic Arenic Hapludalfs 
+
+TYPICAL PEDON: Bocox loamy fine sand, in rangeland, at an elevation of 352 m (1155 ft). (Colors are for dry soil unless other stated.) 
+
+    A--0 to 28 cm (0 to 11 in); yellowish brown (10YR 5/4) loamy fine sand, dark yellowish brown (10YR 4/4) moist; moderate medium granular structure; soft, very friable; common very fine and few fine and medium roots; few fine pores; few medium distinct very dark grayish brown (10YR 3/2) redox depletions with clear boundaries in matrix; common brown (7.5YR 5/4) rhizospheres; neutral; clear smooth boundary. (Thickness of the A horizon is 10 to 30 cm [4 to 12 in]) 
+
+    E1--28 to 51 cm (11 to 20 in); light yellowish brown (10YR 6/4) loamy fine sand, yellowish brown (10YR 5/4) moist; weak medium granular structure; soft, very friable; common very fine and few fine and medium roots; few fine pores; common strong brown (7.5YR 4/6) rhizospheres; slightly_ effervescent; slightly alkaline; water table at 41 cm (16 in); gradual smooth boundary. 
+
+    E2--51 to 84 cm (20 to 33 in); yellowish brown (10YR 5/6) loamy fine sand, dark yellowish brown (10YR 4/6) moist; weak medium granular structure; soft, very friable; common very fine and few fine and medium roots; few fine pores; slightly_ effervescent; slightly alkaline; clear smooth boundary. (Combined thickness of the E horizon is 13 to 107 cm [5 to 42 in]) 
+
+    Btl--84 to 132 cm (33 to 52 in); reddish yellow (7.5YR 6/6) sandy clay loam strong brown (7.5YR 5/6) moist; moderate medium subangular blocky structure; very hard, very firm; few very fine roots, few fine pores; common medium and coarse distinct strong brown (7.5YR 5/8) moist, masses of oxidized iron with clear boundaries in matrix; common medium and coarse distinct brown (7.5YR 4/2) moist, masses of oxidized iron with clear boundaries in matrix; few medium prominent very dark grayish brown (10YR 3/2) moist, iron depletions with prominent boundaries in matrix; few fine black concretions; slightly effervescent; slightly alkaline; gradual smooth boundary. (Thickness of the Bt1 is 15 to 86 cm [6 to 34 in]) 
+
+    Bt2--132 to 165 cm (52 to 65 in); variegated with reddish yellow (7.5YR 6/6), pink (7.5YR 7/3), pinkish gray (5YR 7/2), and white (5YR 8/1), fine sandy loam; strong brown (7.5YR 5/6) moist, light brown (7.5YR 6/3) moist, pinkish gray (5YR 6/2) moist, light gray (5YR 7/1) moist; the gray colors are masses of iron depletions; moderate medium subangular blocky; hard, firm; few very fine roots; few fine pores; slightly effervescent; slightly alkaline; gradual smooth boundary. (Combined thickness of the Bt horizon is 25 to 137 cm [10 to 54 in]) 
+
+    Bt3--165 to 203 cm (65 to 80 in); variegated with reddish yellow (7.5YR 6/6), pink (7.5YR 7/3), pinkish gray (5YR 7/2), and white (5YR 8/1), fine sandy loam; strong brown (7.5YR 5/6) moist, light brown (7.5YR 6/3) moist, pinkish gray (5YR 6/2) moist, light gray (5YR 7/1) moist; the gray colors are masses of iron depletions; moderate medium subangular blocky structure; hard, firm; few very fine roots; few fine pores; slightly effervescent; slightly alkaline. 
+
+TYPE LOCATION: Logan County, Oklahoma; 3.35 miles west and 0.75 miles north of Crescent; 500 feet west and 1900 feet south of the northeast corner of Sec. 7, T. 17 N., R. 4 W. 
+
+USGS Topographic Quadrangle: Crescent NW, OK 
+Latitude: 35 degrees, 57 minutes, 57.077 seconds N 
+Longitude: 97 degrees, 39 minutes, 34.288 seconds W 
+
+Decimal Degrees: 
+Latitude: 35.96583_degrees 
+Longitude: -97.6594 degrees 
+Datum: NAD 83 
+
+UTM Easting: 620880.69 m 
+UTM Northing: 3980985.82 m 
+UTM Zone: 14S
+
+RANGE IN CHARACTERISTICS: 
+Solum thickness: greater than 150 cm (60 in) 
+Depth to water table: ranges from +30 to 46 cm (+1.0 to 1.5 ft) from October to June 
+
+A horizon:
+Hue: 7.5YR or 10YR
+Value: 5 or 6
+Chroma: 1 to 4
+Texture: loamy fine sand or fine sandy loam
+Redox concentrations: amount-0 to 2 percent; size-2 to 5 mm; contrast-distinct; color-shades of brown; boundary-clear; location-matrix
+Effervescence: none to slight
+Reaction: slightly acid to slightly alkaline 
+
+E horizon: 
+Hue: 7.5YR or 10YR
+Value: 5 or 6
+Chroma: 3 to 6
+Texture: loamy fine sand
+Redox concentrations: amount-2 to 20 percent; size-2 to 5 mm; contrast-faint; color-shades of brown; boundary-clear; location-matrix
+Other features: some pedons may only have one E horizon
+Effervescence: none to slight
+Reaction: neutral or slightly alkaline 
+
+Btl horizon:
+Hue: 5YR to 10YR
+Value: 5 or 6
+Chroma: 4 to 6
+Texture: fine sandy loam or sandy clay loam
+Redox concentrations: amount-2 to 20 percent; size-2 to 5 mm; contrast-clear; color-shades of brown; boundary-distinct; location-matrix
+Redox depletions: amount-0 to 2 percent; size-2 to 5 mm; contrast-sharp; color-shades of brown; boundary-prominent; location-matrix
+Effervescence: none to slight
+Reaction: neutral or slightly alkaline 
+
+Bt2 and Bt3 horizons: 
+Hue: 5YR to 10YR
+Value: 5 to 8
+Chroma: 1 to 6, with chromas of less than 2 present in each horizon
+Other color features: variegated with redox concentrations and depletions
+Texture: fine sandy loam or sandy clay loam
+Effervescence: none to slight
+Reaction: neutral or slightly alkaline 
+
+Bt4 or BC horizons (where present):
+Hue: 5YR to 10YR
+Value: 5 to 8
+Chroma: 1 to 6, with chromas of less than 2 present in each horizon
+Other color features: variegated with redox concentrations and depletions
+Texture: fine sandy loam or sandy clay loam
+Other horizon features: some pedons have Bt4 or BC horizons that are similar to the Bt2 or Bt3 horizons
+Effervescence: none to slight
+Reaction: neutral or slightly alkaline 
+
+COMPETING SERIES: There are no competing series in this family. Similar soils are the Dougherty and Meno series. 
+Dougherty soils: do not have wetness features within 76 cm (30 in) of the surface 
+Meno soils: have a different moisture regime 
+
+GEOGRAPHIC SETTING: 
+Parent material: formed in loamy alluvium or eolian sediments of Pleistocene age
+Landscape: paleoterraces
+Landform: depressions 
+Slope: 0 to 3 percent
+Mean annual precipitation: 660 to 1016 mm (26 to 40 in) 
+Thornthwaite Annual P-E indices: 44 to 64
+Precipitation Pattern: mostly uniform throughout the year with slight peaks in the spring and fall months 
+Mean annual air temperature: 14.4 to 17.8 degrees C (58 to 64 degrees F) 
+Frost-free period: 200 to 220 days 
+Elevation: 274 to 396 m (900 to 1300 ft)
+
+GEOGRAPHICALLY ASSOCIATED SOILS: These soils are Bathel, Derby, Dougherty, Konawa and Navina Series. 
+Bathel soils: have sandy surface textures less than 50 cm (20 in) thick 
+Derby, Dougherty, Konawa and Navina soils: do not have wetness features within 75 cm (30 in) of the soil surface
+Derby soils: are on dunes
+Dougherty and Konawa soils: are on slightly higher areas
+Navina soils: have a mollic epipedon and are on slightly higher areas 
+
+DRAINAGE AND PERMEABILITY: 
+Drainage: poorly
+Permeability: moderate
+Runoff: negligible
+Seasonal water table: +30 to 46 cm (+1.0 to 1.5 ft) from October to June
+Ponding: frequently ponded to a depth of 30 cm (12 in) for long durations, and exhibits redox features associated with episaturation
+
+USE AND VEGETATION: The principle use is for rangeland. The main native species are sand bluestem, little bluestem, and switchgrass. Common introduced species are bermudagrass and weeping lovegrass. Common invaders are smartweed, sedges, and cattails. 
+
+DISTRIBUTION AND EXTENT: 
+General area: Oklahoma and possibly Kansas and Texas 
+Land Resource Region H--Central Great Plains Winter Wheat Range
+MLRA 80A-Central Rolling Red Prairies 
+Extent: small 
+
+MLRA SOIL SURVEY REGIONAL OFFICE (MO) RESPONSIBLE: Temple, Texas 
+
+SERIES ESTABLISHED: Logan County, Oklahoma; 1994 
+
+REMARKS: 
+These soils were formerly mapped as Dougherty and Vanoss. 
+
+Diagnostic horizons and features associated with this pedon are: 
+Ochric epipedon: 0 to 28 cm (0 to 11 in) (A horizon) 
+Albic horizon: 28 to 84 cm (11 to 33 in) (E horizons) 
+Argillic horizon: 84 to 200 cm (33 to 80 in) (Bt horizons)
+
+Soil Interpretation Record OK0402 Bocox Series 
+
+Edited 08/2017 (JAD-AMS) Changed to tabular format. Updated pedon description, range in characteristics, and other sections.
+
+ADDITIONAL DATA: none
+
+TAXONOMIC VERSION: Keys to Soil Taxonomy, Twelfth Edition, 2014
+
+National Cooperative Soil Survey
+U.S.A.

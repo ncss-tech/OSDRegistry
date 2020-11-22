@@ -1,0 +1,120 @@
+LOCATION ELIHILL                WY
+
+Tentative Series
+IRD DJP/CBR
+04/2020
+
+ELIHILL SERIES
+
+The Elihill series consists of very deep, well drained soils that formed in colluvium and slope alluvium derived from sedimentary rock and calcareous conglomerate. These soils are on hillslopes and fan remnants. Slopes range from 2 to 20 percent. Mean annual precipitation is about 280 mm and the mean annual air temperature is about 4.0 degrees C.
+
+TAXONOMIC CLASS: Fine-loamy, mixed, superactive, frigid Calcic Haploxeralfs
+
+TYPICAL PEDON: Elihill sandy clay loam in rangeland. (Colors are for dry soil unless otherwise noted).
+
+ A--0 to 7 cm; dark yellowish brown (10YR 4/4) sandy clay loam, very dark brown (10YR 2/2) moist; weak fine granular structure; soft, very friable, moderately sticky, moderately plastic; many very fine, fine, and few medium roots throughout; common very fine dendritic tubular pores; 10 percent gravel; slightly effervescent; moderately alkaline (pH 8.0); clear smooth boundary.  (5 to 12 cm thick)
+
+ Bt1--7 to 26 cm; brown (10YR 5/3) sandy clay loam, brown (10YR 4/3) moist; moderate medium subangular blocky structure; soft, very friable, moderately sticky, moderately plastic; common fine and medium roots throughout; common fine dendritic tubular pores; 10 percent gravel; 15 percent distinct clay films on all faces of peds; strongly effervescent; moderately alkaline (pH 8.0); clear wavy boundary.
+
+ Bt2--26 to 40 cm; pale brown (10YR 6/3) sandy clay loam, brown (10YR 4/3) moist; moderate medium subangular blocky structure; moderately hard, firm, moderately sticky, moderately plastic; few fine roots throughout; few fine dendritic tubular pores; 10 percent gravel; 18 percent distinct clay films on all faces of peds; strongly effervescent; moderately alkaline (pH 8.0); gradual wavy boundary. (combined thickness of Bt horizons is 28 to 40 cm)                                         
+
+ Btk--40 to 97 cm; pale brown (10YR 6/3) sandy clay loam, brown (10YR 4/3) moist; strong coarse subangular blocky structure; moderately hard, firm, moderately sticky, moderately plastic; few fine roots throughout; few fine dendritic tubular pores; 10 percent gravel; 20 percent distinct clay films on all faces of peds; 20 percent carbonate concretions on bottom of rock fragments and 5 percent fine carbonate masses in matrix; violently effervescent; strongly alkaline (pH 8.6); gradual wavy boundary. (50 to 62 cm thick)
+
+ Bk--97 to 145 cm; very pale brown (10YR 7/3) very gravelly sandy loam, light yellowish brown (10YR 6/4) moist; weak medium subangular blocky structure; slightly hard, friable, slightly sticky, slightly plastic; common fine interstitial pores; 40 percent gravel; 40 percent carbonate concretions on bottom of rock fragments and 5 percent fine carbonate masses in matrix; violently effervescent; strongly alkaline (pH 8.6); abrupt smooth boundary.  (45 to 52 cm thick)
+
+ C--145 to 155 cm; white (10YR 8/1) gravelly sandy loam, pale brown (10YR 6/3) moist; massive; soft, very friable, slightly sticky, slightly plastic; common fine interstitial pores; 25 percent gravel; 15 percent carbonate concretions on bottom of rock fragments and finely disseminated carbonate; strongly effervescent; moderately alkaline (pH 8.4).
+
+TYPE LOCATION: Lincoln County, Wyoming; USGS Leefe, WY topographic quadrangle; 41 degrees 47 minutes 56.00 seconds north latitude and 111 degrees 1 minute 23.45 seconds west longitude, datum WGS84.
+
+RANGE IN CHARACTERISTICS:
+Mean annual soil temperature--3.0 to 7.0 degrees C
+Depth to argillic--22 to 32 cm
+Depth to calcic horizon--33 to 52 cm
+
+Particle-size control section (weighted averages)
+Clay content--23 to 28 percent
+Total rock fragments--5 to 20 percent 
+
+A horizon
+Value--4 or 5 dry, 2 to 4 moist
+Chroma--2 to 4
+Texture (less than 2 mm fraction)--fine sandy loam, sandy clay loam
+Clay content--10 to 24 percent
+Rock fragments--0 to 12 percent gravel
+Reaction--pH 7.4 to 8.2
+
+Bt horizons
+Value--4 to 6 dry, 3 or 4 moist
+Chroma--3 or 4
+Texture (less than 2 mm fraction)--loam, sandy clay loam, clay loam
+Clay content--20 to 34 percent
+Rock fragments--0 to 20 percent gravel
+Reaction--pH 7.6 to 8.2 
+
+Btk horizon
+Value--5 or 6 dry, 4 or 5 moist
+Chroma--3 to 6
+Texture (less than 2 mm fraction)--loam, sandy clay loam, clay loam
+Clay content--22 to 34 percent
+Rock fragments--0 to 20 percent gravels
+Calcium carbonate equivalent--15 to 25 percent
+Reaction--pH 7.9 to 8.8
+
+Bk horizon
+Value--4 to 7 dry, 3 to 6 moist
+Chroma--3 to 6
+Texture (less than 2 mm fraction)--sandy loam, sandy clay loam
+Clay content--16 to 22 percent
+Rock fragments--30 to 50 percent gravel
+Calcium carbonate equivalent--15 to 25 percent
+Reaction--pH 8.2 to 8.8
+
+C horizon
+Value--6 to 8 dry, 5 or 6 moist
+Chroma--1 to 6
+Texture (less than 2 mm fraction)--sandy loam, sandy clay loam, loam
+Clay content--14 to 30 percent
+Rock fragments--0 to 30 percent gravel
+Calcium carbonate equivalent--5 to 15 percent
+Reaction--pH 7.8 to 8.6
+
+COMPETING SERIES:
+Cokeville (ID)-- soils are deep to paralithic contact
+Covey (WY)-- soils have less than 10 percent rock fragments throughout
+Slan (ID)-- soils are moderately deep to paralithic contact 
+
+GEOGRAPHIC SETTING:
+Landform--hillslopes and fan remnants
+Elevation--1,890 to 2,150 meters
+Slope--2 to 20 percent
+Parent material--slope alluvium and colluvium derived from sedimentary rock and calcareous conglomerate
+Climate--long, cold winters; cool moist springs; short, cool summers
+Mean annual precipitation--225 to 350 mm
+Mean annual air temperature--2.0 to 6.0 degrees C
+Frost-free period--40 to 90 days
+
+GEOGRAPHICALLY ASSOCIATED SOILS: None listed.
+
+DRAINAGE AND SATURATED HYDRAULIC CONDUCTIVITY: Well drained; 1.5 to 15 um/sec
+
+USE AND VEGETATION: Elihill soils are primarily used for wildlife habitat and grazing. The potential native vegetation is basin big sagebrush, Wyoming big sagebrush, thickspike wheatgrass, needle and thread, and bottlebrush squirreltail.
+
+DISTRIBUTION AND EXTENT: Elihill soils are of small extent in southwestern Wyoming; MLRA 13.
+
+SOIL SURVEY REGIONAL OFFICE (SSRO) RESPONSIBLE: Bozeman, Montana
+
+SERIES PROPOSED: Lincoln County, Wyoming, 2020. Elihill series is derived from the USGS Leefe, WY topographic quadrangle.
+
+REMARKS: Diagnostic horizons and features recognized in this pedon:
+Ochric epipedon--0 to 7 cm (A horizon)
+Argilic horizon--26 to 97 cm (Bt2 and Btk horizons)
+Calcic horizon--40 to 145 cm (Btk and Bk horizons)
+
+Particle-size control section--26 to 76 cm
+
+Elihill soils have a frigid temperature regime and a xeric moisture regime.
+
+Taxonomic version: Twelfth Edition, 2014
+
+National Cooperative Soil Survey
+U.S.A.

@@ -1,0 +1,154 @@
+LOCATION SUNDAYCREEK            AK
+
+Established Series
+SAS/ABD/MPR
+03/2019
+
+SUNDAYCREEK SERIES
+
+Landscape--mountains
+Landform--alluvial fans
+Slope--5 to 20 percent
+Parent material--volcanic ash over colluvium
+Mean annual precipitation--about 1550 mm
+Mean annual air temperature--about 0 degrees C
+Depth class--very deep
+Drainage class--somewhat excessively drained
+Soil moisture regime--udic
+Soil temperature regime--cryic
+Soil moisture subclass--typic
+
+TAXONOMIC CLASS: Sandy-skeletal, mixed Typic Humicryods
+
+TYPICAL PEDON: Sundaycreek medial fine sandy loam on a north-facing, linear and convex rise of an alluvial fan on the lower third of a mountain, on a slope of 10 percent at an elevation of 93 m (The soil was moist throughout when described on August 31, 2012.)
+
+ Oa--0 to 4 cm; highly decomposed plant material; many very fine and fine and common medium roots; very strongly acid (pH 4.6); clear smooth boundary
+
+ E--4 to 9 cm; medial fine sandy loam, very pale brown (10YR 8/2) dry, light brownish gray (10YR 6/2) moist; weak medium granular structure; soft, very friable, nonsticky and nonplastic; many very fine and fine and common medium and coarse roots; very strongly acid (pH 4.5); abrupt irregular boundary
+
+ Bhs--9 to 25 cm; medial fine sandy loam, dark gray (7.5YR 4/1) dry, black (7.5YR 2.5/1) moist; moderate medium granular structure; slightly hard, friable, nonsticky and nonplastic; common very fine to medium roots; very strongly acid (pH 5.0); clear smooth boundary
+
+ 2BC--25 to 55 cm; very gravelly sandy loam, pale yellow (2.5Y 7/4) dry, light olive brown (2.5Y 5/4) moist; weak medium subangular blocky structure; slightly hard, friable, nonsticky and nonplastic; common very fine and fine roots; 45 percent gravel; strongly acid (pH 5.2); clear smooth boundary
+
+ 2C--55 to 150 cm; extremely gravelly loamy coarse sand, grayish brown (2.5Y 5/2) dry, very dark grayish brown (2.5Y 3/2) moist; single grain; soft, very friable, nonsticky and nonplastic; common fine roots; 75 percent gravel; strongly acid (pH 5.4)
+
+TYPE LOCATION: Dillingham Census Area, Alaska, about 85 km northeast of the village of Togiak; latitude 59.7053388 degrees north, longitude 159.5427355 degrees west, datum WGS 84 (coordinates determined with a GPS)
+
+RANGE IN CHARACTERISTICS:
+Mean annual soil temperature--0 to 3 degrees C
+Soil moisture control section--dry less than 45 consecutive days in June through October (udic moisture regime)
+Lithology of rock fragments--sedimentary, volcanic
+
+Layers influenced by volcanic ash
+*Thickness--12 to 24 cm
+*Phosphorous retention--85 to 100 percent
+*Bulk density--0.45 to 0.9 g/cm3
+*Ammonium oxalate Al plus 1/2 Fe--2 to 4 percent
+*Volcanic glass content--5 to 75 percent
+
+Particle-size control section
+*Clay content--0 to 12 percent
+*Sand content--45 to 75 percent
+*Total rock fragment content--35 to 80 percent
+
+Oa horizon
+Thickness--2 to 10 cm
+
+E horizon
+Hue--7.5YR, 10YR
+Value--4 to 6 moist, 6 to 8 dry
+Chroma--1 or 2 moist
+Fine-earth texture--medial silt loam, medial fine sandy loam
+Clay content--3 to 10 percent
+Reaction--4.5 to 5.9
+Thickness--2 to 14 cm
+Organic carbon content--5 to 15 percent
+Bulk density--0.4 to 0.8 g/cm3
+Phosphorous retention--85 to 90 percent
+Volcanic glass content--40 to 75 percent
+
+Bhs horizon
+Hue--5YR, 7.5YR
+Value--2.5 or 3 moist, 4 or 5 dry
+Chroma--1 to 3 moist
+Clay content--3 to 10 percent
+Reaction--4.5 to 5.9
+Total rock fragment content--0 to 15 total
+Gravel content--0 to 15 percent
+Cobble content--0 to 5 percent
+Thickness--10 to 22 cm
+Organic carbon content--5 to 15 percent
+Bulk density--0.6 to 0.9 g/cm3
+Phosphorous retention--95 to 100 percent
+Volcanic glass content--10 to 50 percent
+
+2BC horizon
+Hue--10YR, 2.5Y
+Value--3 to 5 moist, 5 to 7 dry
+Chroma--3 or 4 moist
+Clay content--3 to 12 percent
+Reaction--5.0 to 6.0
+Total rock fragment content--35 to 65 percent
+Gravel content--10 to 60 percent
+Cobble content--0 to 10 percent
+Stone content--0 to 10 percent
+Thickness--10 to 53 cm
+
+2C horizon
+Hue--10YR, 2.5Y
+Value--3 or 4 moist, 5 or 6 dry
+Chroma--2 to 4 moist
+Fine earth texture--coarse sand, loamy coarse sand
+Clay content--0 to 8 percent
+Reaction--5.0 to 6.0
+Total rock fragment content--35 to 80 percent
+Gravel content--35 to 80 percent
+Cobble content--0 to 20 percent
+Stone content--0 to 10 percent
+Thickness--more than 60 cm
+
+COMPETING SERIES:
+Blashke--no andic soil properties
+Baranof--no andic soil properties; aquic conditions
+Krubate--no andic soil properties
+Jakolof--mean annual soil temperature of 2.8 to 4.4 degrees C
+
+GEOGRAPHIC SETTING:
+Elevation--70 to 370 m
+Climate--warm, moist summers; cold, moist winters
+Mean annual precipitation--1300 to 2000 mm
+Mean annual air temperature-- -1.8 to 0.9 degrees C
+Frost-free period--75 to 130 days
+
+GEOGRAPHICALLY ASSOCIATED SOILS:
+Nagugun--no albic horizon; glaciated plains
+Awayak--no spodic horizon; no andic soil properties; frequent flooding; flood plains
+Northspit--less than 50 cm (shallow) to lithic contact; mountain slopes
+
+DRAINAGE AND SATURATED HYDRAULIC CONDUCTIVITY:
+Drainage class--somewhat excessively drained
+Saturated hydraulic conductivity (Ksat)--moderately high or high in the E and Bhs horizons, very high in the 2BC and 2C horizons
+
+USE AND VEGETATION:
+Use--wildlife habitat, recreation, subsistence
+Potential natural vegetation--Sitka alder, Kenai birch, bluejoint, spreading woodfern, western oakfern, splendid feather moss, Schreber's big red stem moss, Greene's mountain ash, beauverd spirea
+
+DISTRIBUTION AND EXTENT: Ahklun Mountains, Alaska; MLRA 237; small extent
+
+SOIL SURVEY REGIONAL OFFICE (SSRO) RESPONSIBLE: Portland, Oregon
+
+SERIES ESTABLISHED: Togiak National Wildlife Refuge, Dillingham Census Area, Alaska; 2019
+
+REMARKS:
+Diagnostic horizons and other features in this pedon
+*Particle-size control section--zone from 29 to 104 cm
+*Ochric epipedon
+*Albic horizon--E horizon
+*Spodic horizon--Bhs horizon
+*Andic soil properties--E and Bhs horizons
+*Depth to lithologic discontinuity--top of 2BC horizon
+
+See laboratory pedon number 13N0048 for properties of spodic horizon.
+
+National Cooperative Soil Survey
+U.S.A.

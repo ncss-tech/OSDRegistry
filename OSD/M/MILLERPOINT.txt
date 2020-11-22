@@ -1,0 +1,117 @@
+LOCATION MILLERPOINT            WA
+
+Established Series
+Rev. CSM/KDPL/TDT
+09/2019
+
+MILLERPOINT SERIES
+
+Landscape--plateaus, mountains
+Landform--ridges, mountain slopes, broad valleys
+Slope--0 to 60 percent
+Parent material--volcanic ash over colluvium derived from andesite, mudflow deposits, or block-and-ash flow deposits
+Mean annual precipitation--about 1800 mm
+Mean annual air temperature--about 4 degrees C
+Depth class--very deep
+Drainage class--well drained
+Soil moisture regime--udic
+Soil temperature regime--cryic
+Soil moisture subclass--typic
+
+TAXONOMIC CLASS: Ashy, mixed Typic Vitricryands
+
+TYPICAL PEDON: Millerpoint ashy sandy loam in an area of forestland, on a 12-percent, east-facing slope at an elevation of 1775 m (All textures are apparent field textures.)
+
+ Oi--0 to 3 cm; slightly decomposed forest litter; abrupt smooth boundary
+
+ C--3 to 8 cm; ashy loamy sand, light gray (10YR 7/1) dry, gray (10YR 5/1) moist; single grain; loose, very friable, nonsticky and nonplastic; many very fine and fine and few medium and coarse roots; many very fine and fine and few medium and coarse irregular pores; 50 percent pumice fragments less than 2 mm in size; NaF pH 9.2; slightly acid (pH 6.4); abrupt smooth boundary
+
+ A1--8 to 13 cm; ashy sandy loam, pale brown  (10YR 6/3) dry, brown (10YR 4/3) moist; weak fine and medium granular structure; loose, very friable, nonsticky and nonplastic; weakly smeary; many very fine and fine and few medium and coarse roots; many very fine and fine irregular pores; 20 percent pumice fragments less than 2 mm in size; NaF pH 11.2; slightly acid (pH 6.4); clear smooth boundary
+
+ A2--13 to 36 cm; ashy sandy loam, pale brown (10YR 6/3) dry, brown (10YR 4/3) moist; weak fine and medium subangular blocky structure; soft, very friable, nonsticky and nonplastic; weakly smeary; many very fine and fine and few medium and coarse roots; many very fine and fine irregular pores; 10 percent pumice fragments less than 2 mm in size; 5 percent gravel; NaF pH 11.2; slightly acid (pH 6.4); gradual smooth boundary
+
+ Bw1--36 to 61 cm; gravelly ashy fine sandy loam, light yellowish brown (10YR 6/4) dry, dark yellowish brown (10YR 3/6) moist; moderate medium subangular blocky structure; soft, very friable, nonsticky and nonplastic; weakly smeary; common fine and few medium and coarse roots; many very fine and fine irregular pores; 10 percent gravel and 5 percent cobbles; NaF 10.6; slightly acid (pH 6.2); gradual smooth boundary
+
+ Bw2--61 to 107 cm; gravelly ashy fine sandy loam, very pale brown (10YR 7/4) dry, yellowish brown (10YR 5/6) moist; moderate medium subangular blocky structure; soft, very friable, nonsticky and nonplastic; weakly smeary; few very fine and fine roots; many very fine and fine irregular pores; 10 percent gravel and 5 percent cobbles; NaF pH 10.6; moderately acid (pH 6.0); gradual smooth boundary
+
+ 2Bw3--107 to 160 cm; fine sandy loam, very pale brown (10YR 7/4) dry, yellowish brown (10YR 5/6) moist; moderate coarse subangular blocky structure; soft, very friable, nonsticky and nonplastic; weakly smeary; few very fine and fine irregular pores; 5 percent gravel; NaF pH 9.6; moderately acid (pH 6.0); gradual smooth boundary
+
+TYPE LOCATION: Yakima County, Washington, about 13 km southeast of White Pass; about 460 m east and 550 m south of the northwest corner of section 3, T. 12 N., R. 12 E.; latitude 46 degrees, 33 minutes, 46 seconds north and longitude 121 degrees, 18 minutes, 10 seconds west
+
+RANGE IN CHARACTERISTICS:
+Mean annual soil temperature at a depth of 50 cm--4 to 7 degrees C
+Estimated mean summer soil temperature--6 to 7 degrees C
+Moisture control section--usually moist, but dry in all parts 25 to 45 consecutive days following summer solstice
+Andic soil material--91 to 100 cm thick or more; estimated moist bulk density of 0.65 to 0.85 g/cm3, glass content of 5 to 30 percent, acid oxalate aluminum plus one-half iron of 2 to 5 percent, phosphorus retention of 50 to 65 percent, and 15-bar water retention of 8 to 12 percent (air-dried samples)
+Rock fragment content in lower part of particle-size control section--15 to 35 percent
+
+Oi horizon
+Thickness--1 to 5 cm
+
+C horizon
+Thickness--0 to 5 cm
+
+A horizon
+Hue--7.5YR, 10YR
+Value--3 or 4 moist, 5 or 6 dry
+Chroma--3 to 6 moist or dry
+Combined thickness--20 to 35 cm
+
+Bw horizon
+Value--3 to 5 moist, 5 to 7 dry
+Chroma--3 to 6 moist or dry
+Texture--ashy sandy loam, gravelly ashy sandy loam, gravelly ashy fine sandy loam
+Average rock fragment content--0 to 30 percent
+Reaction--5.6 to 6.5
+Combined thickness--70 to 120 cm
+
+2Bw horizon
+Hue--7.5YR, 10YR
+Value--3 to 5 moist, 5 to 7 dry
+Chroma--4 to 6 moist or dry
+Texture--fine sandy loam, gravelly fine sandy loam
+Rock fragment content--2 to 35 percent
+Thickness--25 to 55 cm
+
+A 2C horizon that is 20 to 35 percent rock fragments is in some pedons.
+
+COMPETING SERIES: None
+
+GEOGRAPHIC SETTING:
+Elevation--1200 to 1975 m
+Climate--warm, dry summers; cold, wet winters
+Mean annual precipitation--1300 to 2000 mm
+Mean January air temperature--about -6 degrees C
+Mean July air temperature--about 16 degrees C
+Mean annual air temperature--about 3 to 6 degrees C
+Frost-free season--35 to 75 days
+
+GEOGRAPHICALLY ASSOCIATED SOILS:
+Littlebald--on plateaus, ridges, and mountain side slopes; umbric epipedon
+Nomlas--on mountain side slopes; ashy-skeletal particle-size class
+
+DRAINAGE AND SATURATED HYDRAULIC CONDUCTIVITY:
+Drainage class--well drained
+Saturated hydraulic conductivity (Ksat)--moderately high
+
+USE AND VEGETATION:
+Use--mainly timber production, recreation, and wildlife habitat
+Native vegetation--mountain hemlock, Pacific silver fir, subalpine fir, Engelmann spruce, Alaska yellow cedar, whitebark pine, beargrass, big huckleberry, Cascade azalea, sidebells pyrola, grouse huckleberry
+
+DISTRIBUTION AND EXTENT: Yakima County, Washington; MLRAs 3 and 6; small extent
+
+SOIL SURVEY REGIONAL OFFICE (SSRO) RESPONSIBLE: Portland, Oregon
+
+SERIES ESTABLISHED: Wenatchee National Forest, Naches Ranger District, Yakima County, Washington; 2003
+
+REMARKS:
+Diagnostic horizons and other features recognized in this pedon
+*Ochric epipedon
+*Andic soil properties--zone from 3 to 107 cm
+*Cambic horizon--zone from 36 to 160 cm
+*Particle-size control section--zone from 3 to 104 cm
+
+The mineralogy is based on laboratory data from the associated Littlebald series.
+
+National Cooperative Soil Survey
+U.S.A.

@@ -1,0 +1,99 @@
+LOCATION TANJOGA                AK
+
+Established Series
+JDP/TJR
+04/2020
+
+TANJOGA SERIES
+
+Landscape--alluvial plains
+Landform--stream terraces
+Slope--0 to 3 percent
+Parent material--organic material over alluvium
+Mean annual precipitation--about 255 mm
+Mean annual air temperature--about -6 degrees C
+Depth class--very deep
+Drainage class--very poorly drained
+Soil moisture regime--aquic
+Soil temperature regime--cryic
+Soil moisture subclass--typic
+
+TAXONOMIC CLASS: Coarse-loamy, mixed, superactive, nonacid Histic Cryaquepts
+
+TYPICAL PEDON: Tanjoga stratified peat, mucky peat on a scrubland terrace with a slope of 1 percent and an elevation of 100 m (The soil was wet throughout when described on August 31, 2015.)
+
+ Oe/Oa1--0 to 9 cm; stratified peat to mucky peat; common very fine, fine, and medium roots; noneffervescent; slightly acid (pH 6.1); abrupt smooth boundary
+
+ Oa2--9 to 25 cm; muck; common very fine and fine roots; noneffervescent; slightly acid (pH 6.3); abrupt smooth boundary
+
+ Cg1--25 to 45 cm; silt loam; gray (2.5Y 6/1) dry, dark gray (2.5Y 4/1) moist; massive; moderately hard, firm, nonsticky and slightly plastic; common fine roots; few fine and medium pores; 20 percent strong brown (7.5YR 4/6) moist, masses of oxidized iron in matrix; noneffervescent; slightly acid (pH 6.4); clear smooth boundary
+
+ Cg2--45 to 65 cm; very fine sandy loam; 50 percent gray (10YR 5/1) dry, very dark gray (10YR 3/1) moist and 50 percent grayish brown (10YR 5/2) dry, very dark grayish brown (10YR 3/2) moist; massive; moderately hard, firm, nonsticky and moderately plastic; few fine pores; 5 percent dark gray (2.5Y 4/1) moist, iron depletions in matrix and 10 percent brown (7.5YR 4/4) moist, masses of oxidized iron in matrix; noneffervescent; neutral (pH 6.6); clear smooth boundary
+
+ Cg3--65 to 95 cm; very fine sandy loam; 50 percent grayish brown (10YR 5/2) dry, very dark grayish brown (10YR 3/2) moist and 50 percent light brownish gray (10YR 6/2) dry, dark grayish brown (10YR 4/2) moist; massive; moderately hard, firm, nonsticky and moderately plastic; few fine pores; 5 percent dark gray (2.5Y 4/1) moist, iron depletions in matrix and 5 percent dark brown (7.5YR 3/4) moist, masses of oxidized iron in matrix; noneffervescent; neutral (pH 7.0)
+
+TYPE LOCATION: Yukon-Koyukuk Census Area, Alaska; latitude 66.2194990 degrees, longitude -149.1231880 degrees, datum WGS84 (coordinates determined with a GPS)
+
+RANGE IN CHARACTERISTICS:
+Mean annual soil temperature--0.5 to 2.5 degrees C
+
+Oe and Oa horizons
+Combined thickness--20 to 35 cm
+Reaction--6 to 8
+
+Cg1, Cg2, and Cg3 horizons
+Hue--10YR, 2.5Y
+Value--2 to 4 moist, 4 to 6 dry
+Chroma--1 or 2 moist
+Fine-earth texture--silt loam, very fine sandy loam
+Clay content--0 to 18 percent
+Reaction--6 to 8
+Effervescence--none to slight
+Combined thickness--115 to 130 cm
+
+COMPETING SERIES: 
+Fishnet--frequent flooding; adjacent low energy floodplains
+Disappear--these soils are very strongly acid to strongly acid in the solum
+Liscum--these soils have a water table higher than 50 cm in summer months
+
+GEOGRAPHIC SETTING:
+Elevation--90 to 300 m
+Climate--short, warm summers and long, very cold winters
+Mean annual precipitation--210 to 310 mm
+Mean annual air temperature-- -12 to 0 degrees C
+Frost-free period--45 to 97 days
+
+GEOGRAPHICALLY ASSOCIATED SOILS:
+Fishnet--aquic conditions within 50 cm with frequent flooding; adjacent low energy floodplains
+Nuntragut--aquic conditions within 100 cm; adjacent terraces; forested
+Jokinaugh--aquic conditions within 25 cm; depressions on adjacent distal floodplains; grassland vegetation
+
+DRAINAGE AND SATURATED HYDRAULIC CONDUCTIVITY:
+Drainage class--very poorly drained
+Saturation in normal years--water table top depth between a depth of 0 to 25 cm in June, and saturated below a depth of 25 cm throughout the rest of the year
+Flooding--occasional, brief
+Ponding--frequent, long
+Saturated hydraulic conductivity (Ksat)--high throughout
+
+USE AND VEGETATION:
+Use--wildlife habitat, subsistence, recreation
+Potential natural vegetation--white spruce, tealeaf willow, littletree willow, Bebb willow, sweetgale, Siberian alder, bluejoint, water sedge, field horsetail, sidebells wintergreen
+
+DISTRIBUTION AND EXTENT: Yukon Flats Lowlands, Alaska; MLRA 232; small extent
+
+SOIL SURVEY REGIONAL OFFICE (SSRO) RESPONSIBLE: Portland, Oregon
+
+SERIES ESTABLISHED: Yukon Flats National Wildlife Refuge, Yukon-Koyukuk Census Area, Alaska; 2020
+
+REMARKS:
+Diagnostic horizons and other features in this pedon
+*Particle-size control section--zone from 50 to 125 cm
+*Histic epipedon--Oe/Oa1 and Oa2 horizons
+*Redoximorphic iron concentrations--Cg1, Cg2, Cg3 horizons
+*Redoximorphic iron depletions with chroma of 2 or less--Cg2, Cg3 horizons
+*Reduced matrix--Cg1, Cg2, Cg3 horizons
+*Aquic conditions--Cg1, Cg2, Cg3 horizons
+
+
+National Cooperative Soil Survey
+U.S.A.

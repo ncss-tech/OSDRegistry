@@ -1,0 +1,131 @@
+LOCATION YATAMA                 WA
+
+Established Series
+Rev. SDH/SMR/SBC
+09/2019
+
+YATAMA SERIES
+
+Landscape--mountains
+Landform--benches, mountain slopes
+Slope--0 to 60 percent
+Parent material--volcanic ash over block-and-ash flow deposits
+Mean annual precipitation--about 890 mm
+Mean annual air temperature--about 6 degrees C
+Depth class--very deep
+Drainage class--well drained
+Soil moisture regime--xeric
+Soil temperature regime--frigid
+Soil moisture subclass--typic
+
+TAXONOMIC CLASS: Ashy, mixed, frigid Humic Vitrixerands
+
+TYPICAL PEDON: Yatama ashy sandy loam in an area of forestland, on an 8-percent, northeast-facing toeslope at an elevation of 895 m (All textures are apparent field textures.)
+
+ Oi--0 to 8 cm; slightly decomposed grasses, needles, and twigs; abrupt smooth boundary
+
+ A1--8 to 20 cm; ashy sandy loam, dark brown (10YR 3/3) dry, very dark brown (10YR 2/2) moist; weak fine subangular blocky structure; soft, very friable, nonsticky and nonplastic; weakly smeary; many very fine and fine and few medium roots; common very fine irregular pores; moderately acid (pH 6.0), NaF pH 10.6; gradual smooth boundary
+
+ A2--20 to 33 cm; ashy sandy loam, dark grayish brown (10YR 4/2) dry, very dark grayish brown (10YR 3/2) moist, weak fine subangular blocky structure; soft, very friable, nonsticky and nonplastic; weakly smeary; common very fine, fine, and medium roots; common very fine irregular pores; 10 percent gravel; slightly acid (pH 6.1), NaF pH 10.6; clear smooth boundary
+
+ Bw1--33 to 76 cm; ashy sandy loam, brown (10YR 4/3) dry, dark brown (7.5YR 3/2) moist; weak fine subangular blocky structure; soft, very friable, nonsticky and nonplastic; weakly smeary; many very fine, fine, medium, and coarse roots; common fine and few medium irregular pores; 10 percent gravel; neutral (pH 6.8), NaF pH 10.8; gradual smooth boundary
+
+ 2Bw2--76 to 102 cm; extremely stony ashy fine sandy loam, yellowish brown (10YR 5/4) dry, dark yellowish brown (10YR 3/4) moist; weak fine and medium subangular blocky structure; slightly hard, friable, nonsticky and nonplastic; weakly smeary; few fine and common medium and coarse roots; few fine and medium irregular pores; 10 percent gravel, 15 percent cobbles, and 40 percent stones; neutral (pH 6.6), NaF pH 10.6; abrupt smooth boundary
+
+ 2BC--102 to 165 cm; extremely gravelly ashy loamy sand, grayish brown (10YR 5/2) dry, very dark grayish brown (10YR 3/2) moist; massive; slightly hard, friable, nonsticky and nonplastic; few fine and very fine roots; few fine irregular pores; 40 percent gravel, 10 percent cobbles, and 10 percent stones; slightly acid (pH 6.1), NaF pH 9.8
+
+TYPE LOCATION: Yakama Nation, Yakima County, Washington, about 2.4 km northeast of Soda Springs; about 730 m south and 170 m west of the northeast corner of section 23, T. 9 N., R. 12 E.; latitude 46.252224, longitude -121.272224, datum WGS 84
+
+RANGE IN CHARACTERISTICS:
+Mean annual soil temperature at a depth of 50 cm--7 to 8 degrees C
+Soil moisture--usually moist, but dry 45 to 60 consecutive days following summer solstice
+Thickness of umbric epipedon--50 to 100 cm
+Rock fragments in particle-size control section--0 to 15 percent subrounded fragments in upper part; 35 to 80 percent subrounded fragments in lower part; 10 to 30 percent weighted average
+
+Estimated andic soil properties
+*Moist bulk density--0.75 to 0.90 g/cm3
+*Glass content--5 to 30 percent
+*Ammonium oxalate extractable aluminum plus one-half iron--2 to 3 percent
+*15-bar water retention (air-dried samples)--5 to 12 percent
+
+Oi horizon
+Thickness--3 to 10 cm
+
+A horizon
+Hue--7.5YR, 10YR
+Value--3 to 5 dry, 2 to 4 moist
+Chroma--2 or 3 moist or dry
+Texture--ashy sandy loam, ashy loamy sand
+Reaction--5.6 to 6.5
+Combined thickness--23 to 91 cm
+
+Bw horizon
+Hue--7.5YR, 10YR
+Value--4 or 5 dry, 3 or 4 moist
+Chroma--3 or 4 dry, 2 to 4 moist
+Texture of fine-earth fraction--ashy sandy loam, ashy loamy sand
+Gravel content--0 to 15 percent
+Cobble content--0 to 5 percent
+Stone content--0 to 20 percent
+Reaction--6.1 to 7.3
+Thickness--25 to 75 cm
+
+2Bw horizon
+Hue--7.5YR, 10YR
+Value--4 to 6 dry, 3 or 4 moist
+Chroma--3 to 6 dry or moist
+Texture of fine-earth fraction--sandy loam, ashy fine sandy loam
+Gravel content--5 to 15 percent
+Cobble content--10 to 25 percent
+Stone content--5 to 45 percent
+Reaction--6.1 to 7.3
+Thickness--28 to 71 cm
+
+2BC horizon
+Hue--7.5YR, 10YR
+Value--4 or 5 dry, 3 or 4 moist
+Chroma--1 to 4 dry or moist
+Texture of fine-earth fraction--ashy loamy sand, ashy sandy loam
+Gravel content--25 to 50 percent
+Cobble content--5 to 25 percent
+Stone content--5 to 25 percent
+Reaction--6.1 to 7.3
+
+COMPETING SERIES:
+Kakyawala--0 to 10 percent rock fragments throughout particle-size control section
+Watergate--umbric epipedon 25 to 50 cm thick
+
+GEOGRAPHIC SETTING:
+Elevation--760 to 1375 m
+Mean annual air temperature--about 6 to 7 degrees C
+Mean annual precipitation--about 760 to 1025 mm
+Frost-free season--70 to 100 days
+
+GEOGRAPHICALLY ASSOCIATED SOILS:
+Nank--on benches, plateaus, and side slopes; ashy over loamy; argillic horizon
+Singh--on benches and side slopes; ashy over loamy-skeletal; argillic horizon
+Yikwil--on plateaus and side slopes; ashy over loamy-skeletal; argillic horizon
+
+DRAINAGE AND SATURATED HYDRAULIC CONDUCTIVITY:
+Drainage class--well drained
+Saturated hydraulic conductivity (Ksat)--high
+
+USE AND VEGETATION:
+Use--timber production, livestock grazing, wildlife habitat, watershed
+Native vegetation--grand fir, western larch, ponderosa pine, Douglas-fir, California hazel, white spirea, pinegrass, elk sedge, creeping snowberry, prince's pine, rose
+
+DISTRIBUTION AND EXTENT: Eastern slopes of the Cascade Mountains, Yakama Nation, Yakima County, Washington; MLRA 6; small extent
+
+SOIL SURVEY REGIONAL OFFICE (SSRO) RESPONSIBLE: Portland, Oregon
+
+SERIES ESTABLISHED: Yakama Nation, Yakima County, Washington; 2014
+
+REMARKS:
+Diagnostic horizons and other features recognized in this pedon
+*Umbric epipedon--zone from 8 to 76 cm
+*Andic soil properties--zone from 8 to 165 cm
+*Cambic horizon--zone from 33 to 102 cm
+*Particle-size control section--zone from 8 to 108 cm
+
+National Cooperative Soil Survey
+U.S.A.

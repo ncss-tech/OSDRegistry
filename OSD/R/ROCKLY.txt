@@ -1,0 +1,106 @@
+LOCATION ROCKLY                 OR+ID+WA
+
+Established Series
+Rev. REH/RWL/SBC
+09/2019
+
+ROCKLY SERIES
+
+Landscape--Mountains, hills, plateaus, canyonlands
+Landform--mountain slopes, hillslopes, ridges, structural benches, canyons
+Slope--0 to 120 percent
+Parent material--residuum and colluvium derived from basalt with an influence of loess and volcanic ash
+Mean annual precipitation--about 460 mm
+Mean annual air temperature--about 9 degrees C
+Depth class--shallow, very shallow
+Drainage class--well drained
+Soil moisture regime--xeric
+Soil temperature regime--mesic
+Soil moisture subclass--typic
+
+TAXONOMIC CLASS: Loamy-skeletal, mixed, superactive, mesic Lithic Haploxerolls
+
+TYPICAL PEDON: Rockly very gravelly loam in an area of rangeland
+
+ A--0 to 5 cm; very gravelly loam, grayish brown (10YR 5/2) dry, very dark grayish brown (10YR 3/2) moist; weak fine granular structure; slightly hard, friable, slightly sticky and slightly plastic; many roots; many very fine pores; 45 percent gravel and 5 percent cobbles; neutral (pH 6.8); clear wavy boundary
+
+ Bw1--5 to 15 cm; extremely gravelly loam, brown (10YR 5/3) dry, very dark grayish brown (10YR 3/2) moist; weak medium subangular blocky structure; slightly hard, friable, slightly sticky and slightly plastic; many roots; many very fine tubular pores; 55 percent gravel and 5 percent cobbles; neutral (pH 6.6); clear wavy boundary
+
+ Bw2--15 to 23 cm; extremely gravelly loam, brown (10YR 5/3) dry, dark brown (10YR 3/3) moist; weak medium subangular blocky structure; slightly hard, friable, slightly sticky and slightly plastic; many roots; many very fine tubular pores; 65 percent gravel and 5 percent cobbles; slightly acid (pH 6.4); abrupt wavy boundary
+
+ 2R--23 cm; basalt
+
+TYPE LOCATION: Morrow County, Oregon, about 27 km southeast of Heppner; in the SW1/4SE1/4SW1/4 of section 35, T. 3 S., R. 28 E. Willamette Meridian
+
+RANGE IN CHARACTERISTICS:
+Soil moisture--usually moist, but dry 60 to 80 consecutive days in all parts between depths of 10 and 30 cm or to a lithic contact
+Mean annual soil temperature at lithic contact--8 to 12 degrees C
+Depth to bedrock--10 to 30 cm
+Thickness of mollic epipedon--10 to 30 cm
+Reaction--6.1 to 7.3
+Hue--10YR to 5YR
+Particle-size control section--loam, silt loam, clay loam, or silty clay loam; about 10 to 30 percent clay; 35 to 75 percent rock fragments consisting of gravel, cobbles, or stones
+Percentage of surface covered with stones or cobbles--0 to 15 percent
+Faint clay films--lining pores in thin layer above bedrock in some pedons
+
+A horizon
+Value--2 or 3 moist, 4 or 5 dry
+Chroma--2 or 3 moist or dry
+Texture--extremely stony loam, very cobbly loam, very gravelly loam, gravelly loam, very stony silt loam, extremely gravelly silt loam
+Clay content--10 to 27 percent
+Thickness--3 to 13 cm
+
+Bw horizon
+Value--2 to 4 moist, 4 or 5 dry
+Chroma--2 to 4 moist or dry
+Texture--very gravelly, extremely gravelly, very cobbly, extremely cobbly, or very stony loam, silt loam, clay loam, or silty clay loam
+Clay content--10 to 30 percent
+Combined thickness--5 to 36 cm
+
+COMPETING SERIES:
+Bodacious--30 to 50 cm (shallow) to a lithic contact (igneous or metamorphic rock)
+Bodell--30 to 50 cm (shallow) to a lithic contact (basalt); 10 to 30 percent volcanic glass and 0.4 to 1.0 percent acid oxalate aluminum plus one-half iron (vitrandic feature) in upper 10 to 15 cm
+Johntom--5 to 20 percent volcanic glass, and 0.10 to 0.25 percent acid oxalate aluminum plus one-half iron (vitrandic feature) in particle-size control section
+Limekiln--18 to 30 cm deep to calcic horizon
+Plaskett--35 to 75 percent rock fragments, dominantly channers and flagstones, in particle-size control section; mean annual soil temperature of 13 to 14 degrees C
+Sanikara--textures coarser than loam in fine-earth fraction
+Venator--30 to 50 cm (shallow) to a lithic contact (shale); 40 to 80 percent rock fragments, dominantly channers, in particle-size control section
+
+GEOGRAPHIC SETTING:
+Elevation--90 to 1525 m
+Climate--cool, wet winters; hot, dry summers
+Mean winter air temperature--about -1 to 2 degrees C
+Mean summer air temperature--about 16 to 18 degrees C
+Mean annual air temperature--about 7 to 11 degrees C
+Mean annual precipitation--typically 360 to 760 mm, but may range to 310 mm in some areas
+Frost-free period--60 to 170 days
+
+GEOGRAPHICALLY ASSOCIATED SOILS:
+Ginser--50 to 100 cm (moderately deep) to a paralithic contact (clayey sediment); on mountains and foothills
+Gwin--argillic horizon; on basalt plateaus
+Morrow--50 to 100 cm (moderately deep) to a lithic contact (basalt); Bk horizon; on uplands and plateaus
+Waha--50 to 100 cm (moderately deep) to a lithic contact (basalt); argillic horizon; on foothills, mountains, and canyon walls
+Watama--50 to 100 cm (moderately deep) to a lithic contact (basalt); Pachic subgroup; on ridges and plateaus
+
+DRAINAGE AND SATURATED HYDRAULIC CONDUCTIVITY:
+Drainage class--well drained
+Saturated hydraulic conductivity (Ksat)--moderately high
+
+USE AND VEGETATION:
+Use--livestock grazing, wildlife habitat, water supply
+Native vegetation--mainly stiff sagebrush, lomatium, bluebunch wheatgrass, and Sandberg bluegrass.
+
+DISTRIBUTION AND EXTENT: North-central Oregon, eastern and central Washington, and west-central Idaho; MLRAs 8, 9, 10, and 43C; large extent
+
+SOIL SURVEY REGIONAL OFFICE (SSRO) RESPONSIBLE: Portland, Oregon
+
+SERIES ESTABLISHED: Grant County, Oregon; 1975
+
+REMARKS:
+Diagnostic horizons and other features in this pedon
+*Mollic epipedon--zone from the surface to a depth of 23 cm
+*Depth to lithic contact--23 cm
+*Particle-size control section--zone from the surface to a depth of 23 cm
+
+National Cooperative Soil Survey
+U.S.A.

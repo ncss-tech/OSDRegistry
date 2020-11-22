@@ -1,0 +1,69 @@
+LOCATION TURUPAH                NV
+
+Established Series
+Rev. SCH-JVC-JBF
+05/2016
+
+TURUPAH SERIES
+
+The Turupah series consists of very deep, somewhat poorly drained soils that formed in alluvium and lacustrine deposits derived from mixed sources.  Turupah soils are on delta plains, lake plains, and alluvial flats.  Slopes are 0 to 1 percent.  The mean annual precipitation is about 125 mm and the mean annual temperature is about 12 degrees C.
+
+TAXONOMIC CLASS:  Fine-loamy, mixed, superactive, nonacid, mesic Typic Halaquepts
+
+TYPICAL PEDON:  Turupah clay loam--rangeland.  (Colors are for dry soil unless otherwise noted.)
+
+    A--0 to 5 cm; dark grayish brown (10YR 4/2) clay loam, very dark grayish brown (10YR 3/2) moist; weak fine angular blocky structure parting to weak fine granular; slightly hard, friable, moderately sticky and moderately plastic; many medium and many coarse roots; many very fine and fine tubular pores; moderately alkaline (pH 8.2); abrupt smooth boundary.  (2 to 10 cm thick)
+
+    Bw--5 to 22 cm; grayish brown (10YR 5/2) clay loam, dark grayish brown (10YR 4/2) moist; moderate medium and coarse subangular blocky structure; hard, firm, moderately sticky and moderately plastic; many fine and many medium roots; many very fine and many fine tubular pores; few fine distinct brown (7.5YR 4/4) masses of iron accumulation; slightly effervescent; strongly alkaline (pH 8.6); abrupt wavy boundary.  (15 to 25 cm thick)
+
+    Czg--22 to 61 cm; light brownish gray (2.5Y 6/2) clay loam, dark grayish brown (2.5Y 4/2) moist; massive; hard, firm, moderately sticky and moderately plastic; common fine roots; common fine tubular pores; common fine and medium prominent brown (7.5YR 4/4) masses of iron accumulation; few fine distinct salt accumulations; strongly alkaline (pH 9.0); clear wavy boundary.  (25 to 50 cm thick)
+
+    Cg--61 to 152 cm; light brownish gray (2.5Y 6/2) stratified sandy loam to clay, dark grayish brown (2.5Y 4/2) moist; massive; hard, firm, moderately sticky and moderately plastic; common fine tubular pores; common fine and medium prominent brown (7.5YR 4/4) masses of iron accumulation; moderately alkaline (pH 8.2).
+
+TYPE LOCATION:  Churchill County, Nevada; in the Lahontan Valley within the boundaries of Carson Lake Pasture; along the Rice Ditch south of the intersection of A Line Canal and the East Lee Drain; USGS Carson Lake 7.5 minute quadrangle; latitude 39 degrees 21 minutes 20.7 seconds N and longitude 118 degrees 41 minutes 18.8 seconds W; WGS84 Decimal Degrees 39.3558611 latitude, -118.6896667 longitude.
+
+RANGE IN CHARACTERISTICS:
+Soil moisture: Saturated in some horizon between 46 and 76 cm for at least one month during normal years; seasonal periods of aquic moisture regime.
+
+Particle-size control section - Clay content:  25 to 35 percent.
+
+A horizon
+Hue:  10YR or 2.5Y.
+Value:  4 or 5 dry, 3 or 4 moist.
+Chroma:  2 or 3, dry or moist.
+Reaction:  Moderately alkaline or strongly alkaline.
+
+Cg horizons
+Value:  5 or 6 dry, 4 or 5 moist.
+Chroma:  1 or 2, dry or moist.
+Texture:  Stratified sandy loam to clay.
+Reaction:  Moderately alkaline or strongly alkaline.
+Salinity (EC):  25 to 50 mmhos/cm.
+Sodicity (SAR):  13 to 70.
+Other features: There is typically a salic horizon present in zones more than 15 cm thick when electrical conductivity is more than 30 mmhos/cm.
+
+COMPETING SERIES:  There are currently no other series in this family.
+
+GEOGRAPHIC SETTING:  Turupah soils are on delta plains, lake plains, and alluvial flats.  These soils formed in alluvium and lacustrine deposits derived from mixed sources.  Slopes are 0 to 1 percent.  Elevations range from 1128 to 1300 meters.  The climate is arid with cool, moist winters and hot, dry summers.  The mean annual precipitation is 100 to 150 mm, the mean annual temperature is 11 to 13 degrees C, and the frost-free period is 120 to 140 days.
+
+GEOGRAPHICALLY ASSOCIATED SOILS:  These are Carson, Stillwater, Mackerlake, Lahontan, and Pelic soils.  Carson soils are very-fine, have mollic epipedons, and have horizons with slickensides and high linear extensibility.  Stillwater soils have mollic epipedons.  Mackerlake soils have mollic epipedons.  Lahontan soils are fine textured and have an aridic (torric) moisture regime.  Pelic soils are sandy.
+
+DRAINAGE AND SATURATED HYDRAULIC CONDUCTIVITY:  Somewhat poorly drained; negligible surface runoff;  moderately low saturated hydraulic conductivity.  Endosaturation is present with an apparent seasonal high water table between 46 and 76 cm (shallow to moderately deep free water occurrence classes) between April and July.  Cumulative annual duration class is Common.
+
+USE AND VEGETATION:  Turupah soils are used for rangeland and wildlife habitat.  The present vegetation is mainly inland saltgrass, iodine bush, lemon alkaligrass, and Baltic rush.
+
+DISTRIBUTION AND EXTENT:  Western Nevada.  These soils are not extensive.  MLRA 27.
+
+MLRA SOIL SURVEY REGIONAL OFFICE (MO) RESPONSIBLE:  Davis, California.
+
+SERIES ESTABLISHED:  Churchill County, Nevada, (established during update of NV603 Fallon-Fernley Area, NV), 1/2009.
+
+REMARKS:  Diagnostic horizons and features recognized in this pedon are:
+Ochric epipedon - The zone from the soil surface to 18 cm (A horizon and part of the Bw horizon).
+Cambic horizon - The zone from 5 to 22 cm (Bw horizon).
+Salic horizon - The zone from 22 to 61 cm (Czg horizon).
+Aquic conditions - The conditions of endosaturation, reduction, and redoximorphic features between 46 and 152 cm at certain times during normal years (parts of the Czg and Cg horizons).
+Particle-size control section - The zone from 25 to 100 cm (parts of the Czg and Cg horizons).
+
+National Cooperative Soil Survey
+U.S.A.

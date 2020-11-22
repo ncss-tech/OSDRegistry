@@ -1,0 +1,118 @@
+LOCATION PATUWATAM              WA
+
+Established Series
+Rev. CBM/JMB/SBC
+09/2019
+
+PATUWATAM SERIES
+
+Landscape--mountains
+Landform--plateaus, mountain slopes
+Slope--5 to 60 percent
+Parent material--volcanic ash over mudflows or block-and-ash flows
+Mean annual precipitation--about 1300 mm
+Mean annual air temperature--about 4 degrees C
+Depth class--deep
+Drainage class--well drained
+Soil moisture regime--xeric
+Soil temperature regime--cryic
+Soil moisture subclass--typic
+
+TAXONOMIC CLASS: Ashy, mixed Xeric Vitricryands
+
+TYPICAL PEDON: Patuwatam ashy sandy loam in an area of forestland, on a 4-percent slope at an elevation of 1400 m (All textures are apparent field textures.)
+
+ Oi--0 to 5 cm; slightly decomposed needles and twigs; clear smooth boundary
+
+ A--5 to 13 cm; ashy sandy loam, yellowish brown (10YR 5/4) dry, dark brown (10YR 3/3) moist; weak medium and fine subangular blocky structure; soft, very friable, nonsticky and nonplastic; common fine, medium, and coarse roots; common fine irregular pores; strongly acid (pH 5.5), NaF pH 11.0; clear smooth boundary
+
+ Bw1--13 to 66 cm; ashy sandy loam, yellowish brown (10YR 5/6) dry, dark yellowish brown (10YR 3/4) moist; weak medium and fine subangular blocky structure; soft, very friable, nonsticky and nonplastic; common fine, medium, and coarse roots; common fine irregular pores; 5 percent gravel; moderately acid (pH 6.0), NaF pH 11.0; clear wavy boundary
+
+ 2Bw2--66 to 107 cm; very cobbly ashy sandy loam, light yellowish brown (10YR 6/4) dry, dark yellowish brown (10YR 3/6) moist; weak fine and medium subangular blocky structure; slightly hard, very friable, nonsticky and nonplastic; common fine and medium and few coarse roots; common fine and medium irregular pores; 25 percent gravel, 20 percent cobbles, and 5 percent stones; strongly acid (pH 5.5), NaF pH 10.5; gradual wavy boundary
+
+ 2Bw3--107 to 150 cm; very cobbly ashy fine sandy loam, light yellowish brown (10YR 6/4) dry, very dark yellowish brown (10YR 3/6) moist; weak fine and medium subangular blocky structure; slightly hard, friable, nonsticky and nonplastic; common fine and few medium roots; few fine and medium irregular pores; 25 percent gravel, 20 percent cobbles, and 5 percent stones; strongly acid (pH 5.2), NaF pH 10.0; gradual wavy boundary
+
+ 2R--150 cm; basalt
+
+TYPE LOCATION: Yakama Nation, Yakima County, Washington, about 2 km southwest of Mount Adams Lake; about 400 m east and 240 m north of the southwest corner of section 28, T. 9 N., R. 12 E.; latitude 46.2318764, longitude -121.3276410, datum WGS 84 (coordinates estimated from section, township, and range)
+
+RANGE IN CHARACTERISTICS:
+Mean annual soil temperature at a depth of 50 cm--5 to 6 degrees C
+Mean summer soil temperature--7 to 8 degrees C
+Moisture control section--usually moist, but dry in all parts 45 to 60 consecutive days following summer solstice
+Depth to bedrock--100 to 150 cm
+Rock fragment content in particle-size control section--0 to 25 percent in upper part, 35 to 60 percent in lower part, 15 to 35 percent weighted average
+
+Andic soil properties
+*Moist bulk density--0.75 to 0.85 g/cm3
+*Glass content--5 to 25 percent
+*Acid oxalate aluminum plus one-half iron--2 to 3 percent
+*15-bar water retention (air-dried samples)--8 to 12 percent
+
+Oi horizon
+Thickness--3 to 8 cm
+
+A horizon
+Value--5 or 6 dry, 3 or 4 moist
+Chroma--2 to 4 dry or moist
+Reaction--5.1 to 6.0
+Thickness--5 to 20 cm
+
+Bw horizon
+Value--5 or 6 dry, 3 or 4 moist
+Chroma--3 to 6 dry or moist
+Texture of fine-earth fraction--ashy sandy loam, ashy fine sandy loam
+Gravel content--5 to 25 percent
+Reaction--5.1 to 6.0
+Thickness--18 to 50 cm
+
+2Bw horizon
+Value--5 or 6 dry, 3 or 4 moist
+Chroma--4 to 6 dry or moist
+Texture of fine-earth fraction--ashy sandy loam, ashy fine sandy loam
+Gravel content--15 to 35 percent
+Cobble content--15 to 35 percent
+Stone content--5 to 15 percent
+Reaction--5.1 to 6.0
+Combined thickness--56 to 89 cm
+
+COMPETING SERIES: None
+
+GEOGRAPHIC SETTING:
+Elevation--1150 to 1675 m
+Climate--warm, dry summers; cool, moist winters
+Mean annual precipitation--890 to 1525 mm
+Mean annual air temperature--3 to 4 degrees C
+Frost-free season--50 to 80 days
+
+GEOGRAPHICALLY ASSOCIATED SOILS:
+Fiscus--on plateaus and side slopes of mountains; argillic horizon
+Nank--on benches, plateaus, and side slopes; frigid soil temperature regime
+Anipash--in drainageways and depressions; histic epipedon
+Watergate--on side slopes of mountains; frigid soil temperature regime
+
+DRAINAGE AND SATURATED HYDRAULIC CONDUCTIVITY:
+Drainage class--well drained
+Saturated hydraulic conductivity (Ksat)--high
+
+USE AND VEGETATION:
+Use--timber production, wildlife habitat, recreation, watershed
+Vegetation--subalpine fir, grand fir, Douglas-fir, pinegrass
+
+DISTRIBUTION AND EXTENT: East slopes of Cascade Mountains in south-central Washington; MLRA 6; small extent
+
+SOIL SURVEY REGIONAL OFFICE (SSRO) RESPONSIBLE: Portland, Oregon
+
+SERIES ESTABLISHED: Yakama Nation, Yakima County, Washington; 2014
+
+REMARKS:
+Diagnostic horizons and other features recognized in this pedon
+*Ochric epipedon
+*Cambic horizon--zone from 13 to 150 cm
+*Andic soil properties--zone from 5 to 150 cm
+*Particle-size control section--zone from 5 to 107 cm
+
+Patu is the Yakama word for Mount Adams, and watam is the Yakama word for lake. Mount Adams Lake is about 2 km southwest of the type location for this series. The series originally was named the Crestway series.
+
+National Cooperative Soil Survey
+U.S.A.

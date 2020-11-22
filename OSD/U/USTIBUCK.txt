@@ -1,0 +1,119 @@
+LOCATION USTIBUCK               OK
+
+Established Series
+Rev. JFH:CRC:JLD
+02/2016
+
+USTIBUCK SERIES
+
+The Ustibuck series consists of very deep, poorly drained, very slowly permeable soils that formed in clayey and loamy alluvium derived from the red beds of Permian Age. These nearly level to slightly concave soils are on backswamps on flood plains of large streams, in the North Cross Timbers (MLRA 84A). Slope ranges from 0 to 1 percent.  Mean annual precipitation is 910 mm (36 in), and mean annual air temperature is 16 degrees C (60 degrees F).
+
+TAXONOMIC CLASS: Fine, smectitic, thermic Ustic Epiaquerts
+
+TYPICAL PEDON:  Ustibuck silty clay under forest vegetation, at an elevation of 210 m (690 ft). (Colors are for dry soil unless otherwise stated.)
+
+  A--0 to 25 cm (0 to 10 in); reddish brown (5YR 4/3) silty clay, dark reddish brown (5YR 3/3) moist; strong fine angular blocky structure; hard, firm; medium pressure faces along surfaces of cracks; common medium distinct dark reddish gray (5YR 4/2) iron depletions with diffuse boundaries; common fine very dark gray (N 3/) iron-manganese nodules; noneffervescent; slightly alkaline; clear smooth boundary. (Thickness of the A horizon is 20 to 58 cm [8 to 23 in])
+
+  Bss--25 to 79 cm (10 to 31 in); reddish brown (5YR 5/3) clay, reddish brown (5YR 4/3) moist; strong fine angular blocky structure; very hard, firm; few slickensides; common medium distinct dark reddish gray (5YR 4/2) iron depletions with diffuse boundaries; common fine very dark gray (N 3/) iron-manganese nodules; cracks 5 cm (2 in) wide; noneffervescent; slightly alkaline; gradual smooth boundary. (Thickness of the Bss horizon is 18 to 104 cm [7 to 41 in])
+
+  C--79 to 124 (31 to 49 in); reddish brown (5YR 5/4) and reddish gray (5YR 5/2)  silty clay; reddish brown (5YR 4/4) and dark reddish gray (5YR 4/2) moist; massive; very hard, firm; common fine very dark gray (N 3/) iron-manganese nodules; noneffervescent; moderately alkaline; gradual smooth boundary. (Thickness of the C horizon is 0 to 135 cm [0 to 53 in])
+
+  Ab--124 to 203 (49 to 80 in); dark gray (5YR 4/1) silty clay; very dark gray (5YR 3/1) moist; massive; noneffervescent; moderately alkaline. (0 to 76 cm [0 to 30 in] thick)
+
+TYPE LOCATION:  Okfuskee County, Oklahoma; about 2 miles northwest of Haydenville; about 1250 feet east and 1950 feet north of the southwest corner of sec. 7, T. 13 N., R. 10 E.    
+
+USGS topographic quadrangle: Mason, OK
+Latitude: 35 degrees, 36 minutes, 56 seconds N
+Longitude: 96 degrees, 17 minutes, 55 seconds W
+Datum: NAD 83
+
+Decimal Degrees:
+Latitude: 35.6155556 
+Longitude: -96.2986111 
+
+UTM Easting: 744675 m
+UTM Northing: 3944669 m
+UTM Zone: 14
+
+RANGE IN CHARACTERISTICS:
+Depth to bedrock: more than 203 cm (80 in)
+Depth to secondary carbonates: more than 102 cm (40 in)
+
+Particle-size control section (weighted average):
+Clay content: 35 to 60 percent
+
+A horizon:
+Hue: 5YR to 7.5YR
+Value: 3 or 4 dry, 2 or 3 moist
+Chroma: 1 to 6 dry or moist
+Texture: silty clay loam, clay loam, silty clay or clay
+Redox concentrations: amount-few; size-fine; contrast-distinct; colors-shades of red or brown; boundaries-clear; location-in matrix
+Redox depletions: amount-common; size-medium; contrast-distinct; colors-shades of gray; boundaries-diffuse; location-in matrix  
+Effervescence: none to 
+Reaction: slightly acid to moderately alkaline
+
+Bss horizon:
+Hue: 5YR or 7.5YR
+Value: 4 or 5 dry, 3 or 4 moist
+Chroma: 1 to 4 dry or moist
+Texture: silty clay, silty clay loam, or clay
+Redox concentrations: amount-few; size-fine; contrast-distinct; colors-shades of red or brown; boundaries-clear; location-in matrix
+Redox depletions: amount-common; size-medium; contrast-distinct; colors-shades of gray; boundaries-diffuse; location-in matrix  
+Secondary carbonates: Some pedons have carbonates within 102 cm (40 in) of the surface
+Effervescence: none to slight
+Reaction: slightly acid to moderately alkaline
+
+Ab horizon:
+Hue: 5YR or 7.5YR
+Value: 3 to 4 dry, 2 or 3 moist
+Chroma: 1 to 2 dry or moist 
+Texture: silty clay loam, silty clay, or clay. 
+Other features: Some pedons are stratified with thin layers of silt loam
+Effervescence: none to slight
+Reaction: slightly acid to moderately alkaline
+
+COMPETING SERIES: These are the Eastall, Ranco, Randall, and Rosston series in the same family. These soils formed in clayey lacustrine sediments on alluvial plains.
+
+GEOGRAPHIC SETTING:
+Parent material: formed in clayey and loamy alluvium derived from the red beds of Permian Age
+Landscape: Flood plains
+Landform: backswamps on large streams
+Slope: 0 to 1 percent
+Flooding: occasional and frequent flooding for brief to very long periods during the months of January through July
+Mean annual precipitation: 760 to 1020 mm (30 to 40 in)
+Mean annual temperature: 14 to 17 degrees C (57 to 63 degrees F)
+Frost-free period: 181 to 240 days
+Elevation: 183 to 305 meters (600 to 1000 ft)
+Thornthwaite annual P-E index: 56 to 64
+
+GEOGRAPHICALLY ASSOCIATED SOILS: These are the Pulaski and Tribbey series.  
+These soils are coarser textured and occur on higher positions on flood plains. 
+
+DRAINAGE AND PERMEABILITY:
+Drainage: poorly drained
+Permeability: very slow
+Runoff: low or negligible
+Flooding: occasional and frequent flooding for brief to very long periods during the months of January through July
+Episaturation: water from flooding and ponding for a period of time.
+
+USE AND VEGETATION:  Used as cropland for growing cotton, soybeans, wheat, grain sorghum, and tame pasture however most fields have been abandoned. Some areas are used for grazing livestock or as a habitat for wildlife. Native vegetation is bottomland hardwoods with an understory of grasses.
+
+DISTRIBUTION AND EXTENT: Central Oklahoma; LRR J, North Cross Timbers MLRA 84A; moderately. The series is of small extent.
+
+MLRA SOIL SURVEY REGIONAL OFFICE (MO) RESPONSIBLE: Temple, Texas
+
+SERIES ESTABLISHED: Okfuskee County, Oklahoma; 1995.
+
+REMARKS:  
+Updated extensively as a result of the SDJR Initiative (JLD 02/2016).
+
+Diagnostic horizons and features recognized in this series are:
+Slickensides: 18 to 104 cm (7 to 41 in thick) (Bss horizon)
+Moisture regime: Udic-Ustic
+
+ADDITIONAL DATA: None
+
+Taxonomic Version: Keys to Soil Taxonomy, Twelfth Edition, 2014
+
+National Cooperative Soil Survey
+U.S.A.

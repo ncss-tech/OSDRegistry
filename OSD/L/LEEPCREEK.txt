@@ -1,0 +1,141 @@
+LOCATION LEEPCREEK              OR
+
+Established Series
+Rev. RLW/KMS
+11/2018
+
+LEEPCREEK SERIES
+
+Landscape--mountains
+Landform--mountain slopes
+Slope--15 to 60 percent
+Parent material--colluvium derived from limestone and an influence of volcanic ash mixed with loess in the upper part
+Mean annual precipitation--about 300 mm
+Mean annual air temperature--about 12 degrees C
+Depth class--deep to lithic bedrock
+Drainage class--well drained
+Soil moisture regime--aridic
+Soil temperature regime--mesic
+Soil moisture subclass--xeric
+
+TAXONOMIC CLASS: Fine, smectitic, mesic Vertic Argixerolls
+
+TYPICAL PEDON: Leepcreek ashy silt loam in an area of rangeland, on a 21-percent slope at an elevation of 999 m
+
+ A--0 to 23 cm; ashy silt loam, brown (7.5YR 5/4) dry, dark brown (7.5YR 3/3) moist; moderate fine subangular blocky structure; slightly hard, friable, slightly sticky and slightly plastic; common very fine, fine, and medium roots throughout; few very fine, fine, and medium tubular pores and fine interstitial pores; neutral (pH 6.7); clear wavy boundary
+
+ AB--23 to 43 cm; ashy clay loam, reddish brown (5YR 4/4) dry, dark reddish brown (5YR 3/3) moist; moderate medium subangular blocky structure; slightly hard, friable, moderately sticky and moderately plastic; few very fine, fine, medium, and coarse roots throughout; few very fine and fine tubular pores; neutral (pH 6.7); gradual smooth boundary
+
+ 2Bt1--43 to 69 cm; clay loam, yellowish red (5YR 4/6) dry, dark reddish brown (5YR 3/4) moist; weak medium subangular blocky structure; slightly hard, friable, moderately sticky and moderately plastic; few very fine and fine roots throughout; few very fine and fine tubular pores; 75 percent faint clay films on all faces of peds; slightly acid (pH 6.5); gradual smooth boundary
+
+ 2Bt2--69 to 109 cm; gravelly clay loam, yellowish red (5YR 4/6) dry, dark reddish brown (5YR 3/4) moist; weak fine subangular blocky structure; very hard, very firm, very sticky and very plastic; few very fine roots throughout; very fine tubular pores; 40 percent faint clay films on all faces of peds; 10 percent gravel and 5 percent cobbles; slightly acid (pH 6.5); gradual smooth boundary
+
+ 2Bt3--109 to 122 cm; cobbly clay, dark reddish brown (5YR 3/4) dry, dark reddish brown (5YR 3/4) moist; moderate fine angular blocky structure; very hard, very firm, very sticky and very plastic; 65 percent distinct clay films on all faces of peds; 15 percent gravel and 10 percent cobbles; slightly acid (pH 6.5); abrupt irregular boundary
+
+ 2R--122 cm; limestone
+
+TYPE LOCATION: Wallowa County, Oregon; about 670 m east and 375 m south of the northwest corner of section 19, T. 5 S., R. 49 E., latitude 45.1191636, longitude -116.7711161, datum WGS 84 (coordinates from unknown source)
+
+RANGE IN CHARACTERISTICS: 
+Mean annual soil temperature--8 to 16 degrees C
+Soil moisture--usually dry in all parts for one-half to three-fourths of the time when the soil temperature is higher than 5 degrees C
+Depth to lithic contact--100 to 150 cm
+Thickness of mollic epipedon--25 to 50 cm
+Thickness of layers influenced by volcanic ash--18 to 35 cm
+
+Estimated properties of layers influenced by volcanic ash
+*Ammonium oxalate extractable Al + 1/2 Fe--0.3 to 0.5 percent
+*0.02- to 2.0-mm fraction--more than 30 percent
+*Volcanic glass in 0.02- to 2.0-mm fraction--5 to 15 percent
+
+Particle-size control section
+*Clay content--35 to 60 percent
+*Total rock fragment content--less than 35 percent
+
+A horizon
+Fine-earth texture--ashy silt loam
+Clay content--10 to 20 percent 
+Sand content--25 to 35 percent 
+Organic matter content--2 to 5 percent 
+Reaction--6.1 to 7.3
+
+AB horizon
+Fine-earth texture--ashy clay loam 
+Clay content--27 to 35 percent 
+Sand content--30 to 40 percent 
+Organic matter content--1 to 3 percent 
+Reaction--6.6 to 7.3
+
+2Bt1 horizon
+Fine-earth texture--clay loam 
+Clay content--27 to 40 percent 
+Sand content--30 to 40 percent 
+Organic matter content--0.5 to 1.5 percent 
+Total rock fragment content--0 to 5 percent 
+Gravel content--0 to 5 percent 
+Reaction--6.1 to 6.5
+
+2Bt2 horizon
+Fine-earth texture--clay loam, clay
+Clay content--35 to 50 percent 
+Sand content--35 to 45 percent 
+Organic matter content--0.5 to 1.5 percent 
+Total rock fragment content--5 to 15 percent 
+Gravel content--5 to 20 percent 
+Cobble content--0 to 10 percent 
+Reaction--6.1 to 6.5
+
+2Bt3 horizon
+Fine-earth texture--clay
+Clay content--40 to 60 percent
+Sand content--35 to 45 percent
+Organic matter content--0.5 to 1.5 percent
+Total rock fragment content--15 to 35 percent
+Gravel content--5 to 25 percent
+Cobble content--5 to 15 percent
+Reaction--6.1 to 6.5
+
+COMPETING SERIES:
+Adaboi, Hann, Montour, Tub--no lithic contact within a depth of 150 cm
+Ayette, Forsgren--paralithic contact at a depth of 100 to 150 cm (deep)
+Darow, Gimmi, Karney, Kuck, Ukiah--paralithic contact at a depth of 50 to 100 cm (moderately deep)
+McDesh--lithic contact at a depth of 50 to 100 cm (moderately deep)
+
+GEOGRAPHIC SETTING:
+Elevation--780 to 1040 m
+Mean annual precipitation--250 to 450 mm
+Mean annual temperature--8 to 14 degrees C
+Frost-free season--60 to 150 days
+
+GEOGRAPHICALLY ASSOCIATED SOILS: None given
+
+DRAINAGE AND SATURATED HYDRAULIC CONDUCTIVITY:
+Saturation during normal years--none
+Flooding--none
+Ponding--none
+Saturated hydraulic conductivity (Kstat)--moderately high over moderately low
+
+USE AND VEGETATION:
+Use--livestock grazing, wildlife habitat
+Potential natural vegetation--bluebunch wheatgrass-Sandberg bluegrass-shaggy fleabane plant association
+
+DISTRIBUTION AND EXTENT: Eastern Oregon; MLRA 9; small extent
+
+SOIL SURVEY REGIONAL OFFICE (SSRO) RESPONSIBLE: Portland, Oregon
+
+SERIES ESTABLISHED: Wallowa-Whitman National Forest, Oregon; 2018
+
+REMARKS:
+Diagnostic horizons and other features recognized in this pedon
+*Mollic epipedon--zone from the surface to a depth of 43 cm
+*Argillic horizon--zone from 43 to 122 cm
+*Volcanic glass--zone from the surface to a depth of 43 cm (meets criteria for vitritorrandic great group)
+*Depth to lithologic discontinuity--43 cm
+*Particle-size control section--zone from 43 to 93 cm
+
+7/7/2017--Precipitation estimated based on observed vegetative communities. Climate models indicate higher precipitation in mapped areas of the Leepcreek soils. The soils are mapped along the southeast-facing flank of Hells Canyon, in areas where precipitation changes rapidly over a small geographical extent; therefore, the climate models may be incorrect.
+
+A moist phase that has a xeric soil moisture regime was included in Wallowa-Whitman National Forest. It is dominantly on north-facing slopes.
+
+National Cooperative Soil Survey
+U.S.A.

@@ -1,0 +1,140 @@
+LOCATION AHKLUN                 AK
+
+Established Series
+SAS/TJR/MPR
+03/2019
+
+AHKLUN SERIES
+
+Landscape--mountains, hills
+Landform--mountain slopes, hillslopes
+Slope--20 to 90 percent
+Parent material--volcanic ash influenced colluvium over residuum
+Mean annual precipitation--about 1300 mm
+Mean annual air temperature--about 0 degrees C
+Depth class--moderately deep
+Drainage class--well drained
+Soil moisture regime--udic
+Soil temperature regime--cryic
+Soil moisture subclass--typic
+
+TAXONOMIC CLASS: Loamy-skeletal, isotic Andic Humicryepts
+
+TYPICAL PEDON: Ahklun very gravelly medial sandy loam on a west facing, linear backslope of the upper third of a mountain, on a slope of 60 percent at an elevation of 433 m (The soil was moist throughout when described on August 17, 2011.)
+
+ Oi--0 to 9 cm; slightly decomposed plant material; many very fine and fine and common medium roots; very strongly acid (pH 4.5); clear smooth boundary
+
+ A1--9 to 22 cm; very gravelly medial sandy loam, dark gray (10YR 4/1) dry, black (10YR 2/1) moist; weak fine granular structure; soft, very friable, nonsticky and nonplastic; many very fine and fine and common medium and coarse roots; 40 percent gravel and 10 percent cobbles; strongly acid (pH 5.3); gradual smooth boundary
+
+ 2A2--22 to 50 cm; very gravelly sandy loam, grayish brown (10YR 5/2) dry, very dark grayish brown (10YR 3/2) moist; weak fine granular structure; slightly hard, friable, nonsticky and nonplastic; many fine and common very fine and medium roots; 45 percent gravel and 10 percent cobbles; strongly acid (pH 5.4); gradual smooth boundary
+
+ 2Bw--50 to 85 cm; extremely gravelly sandy loam, yellowish brown (10YR 5/4) dry, dark yellowish brown (10YR 3/4) moist; weak fine subangular blocky structure; slightly hard, friable, nonsticky and nonplastic; many fine and common very fine and medium roots; 55 percent gravel and 10 percent cobbles; moderately acid (pH 5.9); abrupt smooth boundary
+
+ 2R--85 cm; bedrock
+
+TYPE LOCATION: Dillingham Census Area, Alaska, about 40 km north of the Village of Togiak; latitude 59.4083333 degrees, longitude -160.3636111 degrees, datum WGS84 (coordinates determined with a GPS)
+
+RANGE IN CHARACTERISTICS:
+Mean annual soil temperature--0 to 3 degrees C
+Soil moisture control section--dry less than 45 consecutive days in June through October
+Depth to lithic contact--50 to 100 cm (moderately deep)
+Lithology of rock fragments--sedimentary, volcanic
+
+Particle-size control section
+*Clay content--4 to 12 percent
+*Sand content--35 to 70 percent
+*Total rock fragment content--35 to 70 percent
+*Sodium fluoride pH--8.4 to 11.6
+*Ratio of 1500 kPa water to measured clay--0.6 to 6.0
+
+Oi horizon
+Thickness--2 to 12 cm
+
+A1 horizon
+Hue--7.5YR or 10YR
+Value--2 or 3 moist, 4 or 5 dry
+Chroma--1 to 3 moist
+Fine-earth texture--medial sandy loam, medial loam, medial silt loam
+Clay content--4 to 8 percent
+Reaction--4.0 to 5.5
+Total rock fragment content--0 to 55
+Gravel content--0 to 45 percent
+Cobble content--0 to 15 percent
+Stone content--0 to 15 percent
+Thickness--5 to 20 cm
+Bulk density--0.4 to 0.9 g/cm3
+Al plus 1/2 Fe--1 to 4 percent
+Phosphorous retention--85 to 100 percent
+Organic carbon content--5 to 15 percent
+Volcanic glass content--10 to 50 percent
+Base saturation--0 to 20 percent
+
+2A2 horizon
+Hue--7.5YR or 10YR
+Value--2 or 3 moist, 4 or 5 dry
+Chroma--2 or 3 moist
+Clay content--5 to 10 percent
+Reaction--4.0 to 5.5
+Total rock fragment content--35 to 70
+Gravel content--10 to 55 percent
+Cobble content--5 to 55 percent
+Thickness--0 to 40 cm
+Bulk density--0.5 to 1.0 g/cm3
+Al plus 1/2 Fe--1 to 4 percent
+Organic carbon content--5 to 15 percent
+Volcanic glass content--0 to 5 percent
+Base saturation--0 to 20 percent
+
+2Bw horizon
+Hue--10YR or 2.5Y
+Value--3 to 5 moist, 5 to 7 dry
+Chroma--2 to 4 moist
+Clay content--5 to 12 percent
+Reaction--5.0 to 6.0
+Total rock fragment content--35 to 85
+Gravel content--25 to 55 percent
+Cobble content--5 to 40 percent
+Stone content--0 to 20
+Thickness--25 to 50 cm
+
+COMPETING SERIES:
+Goodlow-no lithic contact within a depth of 150 cm (very deep)
+Muddycreek-- no lithic contact within a depth of 150 cm (very deep)
+
+GEOGRAPHIC SETTING:
+Elevation--10 to 920 m
+Climate--warm, moist summers; cold, moist winters
+Mean annual precipitation--620 to 2100 mm
+Mean annual air temperature-- -3.4 to 1.8 degrees C
+Frost-free period--70 to 140 days
+
+GEOGRAPHICALLY ASSOCIATED SOILS:
+Mitlak--aquic conditions below a depth of 50 cm; andic soil properties; plains, lower mountain slopes
+Klak--no lithic contact within a depth of 150 cm (very deep); lower mountain slopes
+Buchia--no lithic contact within a depth 150 cm (very deep); no andic soil properties; similar landscape positions
+Kashaiak--no andic soil properties; similar landscape positions
+
+DRAINAGE AND SATURATED HYDRAULIC CONDUCTIVITY:
+Drainage class--well drained
+Saturated hydraulic conductivity (Ksat)--moderately high or high in the upper part of the profile, high or very high in the lower part
+
+USE AND VEGETATION:
+Use--wildlife habitat, recreation, subsistence
+Potential natural vegetation--alder, bluejoint, arctic starflower, spreading woodfern, common ladyfern
+
+DISTRIBUTION AND EXTENT: Ahklun Mountains, Alaska; MLRA 237; large extent
+
+SOIL SURVEY REGIONAL OFFICE (SSRO) RESPONSIBLE: Portland, Oregon
+
+SERIES ESTABLISHED: Togiak National Wildlife Refuge, Dillingham Census Area, Alaska; 2019
+
+REMARKS:
+Diagnostic horizons and other features in this pedon
+*Particle-size control section--zone from 34 to 85 cm
+*Umbric epipedon--A1 and 2A2 horizons
+*Andic soil properties-A1 horizon
+*Depth to lithic contact--85 cm
+*Lab pedon number--12N0018
+
+National Cooperative Soil Survey
+U.S.A.

@@ -1,0 +1,116 @@
+LOCATION FORGOTTEN              CA
+
+Tentative Series
+JBB/CES/JTW
+10/2019
+
+FORGOTTEN SERIES
+
+The Forgotten series consists of very deep, moderately well drained soils formed in alluvium, colluvium, and till derived from granitic rocks. The Forgotten soils are on high gradient drainageways on mountain slopes, moraines, and glacial valley walls of the Sierra Nevada Mountains. Slopes range from 10 to 35 percent. The mean annual precipitation is about 860 mm and the mean annual air temperature is about 1 degree C.
+
+TAXONOMIC CLASS: Sandy-skeletal, isotic Oxyaquic Humicryepts
+
+TYPICAL PEDON: Forgotten gravelly sandy loam on a west-facing (245 degree), 18 percent slope under Sierra willow at an elevation of 3347 meters. (Colors are for dry soils unless otherwise noted. When described on July 24, 2013 the soil was moist to 80 cm and wet to 150 cm.)
+
+ A1--0 to 4 cm; very dark gray (10YR 3/1) gravelly sandy loam, black (10YR 2/1) moist; 15 percent clay; strong very fine granular structure; soft, very friable, slightly sticky, nonplastic; common very fine, fine, and coarse roots throughout; common very fine irregular pores; 15 percent indurated granite gravel; NaF pH 8.0; slightly acid (pH 6.2); abrupt smooth boundary.
+
+ A2--4 to 22 cm; brown (7.5YR 4/2) very cobbly loamy sand, very dark brown (7.5YR 2/3) moist; 8 percent clay; strong fine granular structure; soft, very friable, slightly sticky, nonplastic; common very fine, fine, medium, and coarse roots throughout; common very fine irregular pores; 20 percent indurated granite gravel, 20 percent indurated granite cobbles; NaF pH 9.0; slightly acid moderately acid (pH 5.7); abrupt smooth boundary. (combined thickness of A horizons is 4 to 30 cm)
+
+ Bw1--22 to 45 cm; reddish brown (5YR 5/4) cobbly loamy sand, dark reddish brown (5YR 3/4) moist; 5 percent clay; strong fine granular structure; soft, very friable, nonsticky, nonplastic; common very fine, fine, and medium roots throughout; common very fine irregular pores; 20 percent indurated granite gravel, 15 percent indurated granite cobbles; NaF pH 10.5; slightly acid strongly acid (pH 5.4); abrupt smooth boundary.
+
+ Bw2--45 to 67 cm; light brown (7.5YR 6/4) sandy loam, brown (7.5YR 4/4) moist; 70 percent sand; 17 percent silt; 13 percent clay; moderate fine subangular blocky structure; soft, very friable, slightly sticky, nonplastic; common very fine and medium roots throughout; common very fine irregular pores; 25 percent indurated granite gravel, 10 percent indurated granite cobbles; NaF pH 10.5; very strongly acid (pH 5.0); abrupt smooth boundary. (combined thickness of Bw horizons is 20 to 60 cm)
+
+ CB--67 to 150 cm; pinkish gray (7.5YR 6/2) very stony loamy sand, brown (7.5YR 4/3) moist; 85 percent sand; 9 percent silt; 6 percent clay; weak fine subangular blocky structure; soft, very friable, nonsticky, nonplastic; common very fine roots throughout; common very fine irregular pores; 15 percent indurated granite gravel, 8 percent indurated granite cobbles, 30 percent indurated granite stones; NaF pH 10.0; strongly acid (pH 5.4).
+
+TYPE LOCATION: Fresno County, California, below Taboose Pass in Kings Canyon National Park; USGS 7.5 minute topographic quadrangle: Mount Pinchot, California; WGS84 36.977634 latitude and -118.422499 longitude;  UTM zone 11 4093336 meters N 373392 meters E NAD83.
+
+RANGE IN CHARACTERISTICS:
+Soil temperature: The mean annual soil temperature at 50 cm is 0 to 6 degrees C and the difference between mean summer and mean winter soil temperature is more than 6 degrees C. The soils have a cryic temperature regime.
+
+Soil moisture: The soils have a xeric soil moisture regime. The soil moisture control section is dry in all parts from about September to October (about 60 days). The soils contain a seasonal water table as high as 50 cm during the winter, spring and early summer months, falling to below 100 cm during late summer and fall.
+
+Diagnostic Feature(s):
+  Umbric epipedon thickness:  18 to 70 cm
+  Cambic horizon thickness:  0 to 40 cm
+
+Base saturation: Less than 50 percent (by ammonium acetate)
+
+Depth to redoximorphic features:  50 to 100 cm. Most pedons have sandy textures and fast-moving, oxygenated water, and do not display redox features.
+
+Particle size control section weighted average:
+  Rock fragments: 35 to 60 percent, with 15 to 60 percent gravel, 0 to 25 percent cobbles, 0 to 20 percent stones and 0 to 5 percent boulders.
+  Clay content: 3 to 12 percent
+  NaF pH: 9.0 to 11.0
+
+A horizons
+  Hue: 7.5YR, 10YR
+  Value: 3 to 5 dry, 2 or 3 moist
+  Chroma: 1 to 3, dry or moist
+  Texture: sandy loam, loamy sand
+  Clay content: 5 to 15 percent
+  Rock fragments: 10 to 50 percent
+	0 to 40 percent gravel
+	0 to 20 percent cobbles
+	0 to 10 percent stones
+	0 to 5 percent boulders
+  Reaction: very strongly to moderately acid
+
+Bw horizons
+  Hue: 5YR, 7.5YR, 10YR
+  Value: 4 to 6 dry, 2 to 4 moist
+  Chroma: 3 or 4 dry, 2 to 4 moist
+  Texture: sandy loam, loamy sand, loamy coarse sand
+  Clay content: 5 to 15 percent
+  Rock fragments: 30 to 60 percent
+	15 to 40 percent gravel
+	0 to 20 percent cobbles
+	0 to 15 percent stones
+	0 to 5 percent boulders
+  Reaction: strongly to moderately acid
+
+C horizons (or CB horizons, where present)
+  Hue: 7.5YR, 10YR, 2.5Y
+  Value: 4 to 7 dry, 3 to 6 moist
+  Chroma: 1 to 3 dry, 2 to 4 moist
+  Texture: loamy sand, loamy coarse sand, coarse sand
+  Clay content: 2 to 8 percent
+  Rock fragments: 35 to 75 percent
+	15 to 60 percent gravel
+	0 to 25 percent cobbles
+	0 to 25 percent stones
+	0 to 5 percent boulders
+  Reaction: strongly to moderately acid
+  Redoximorphic Features: 
+	Oxidized iron and iron-manganese masses in matrix
+		Quantity: none to common
+		Size: fine and medium
+
+COMPETING SERIES: There are no other series in this family at this time.
+
+GEOGRAPHIC SETTING: The Forgotten soils are on linear to concave positions; they form in channels and floodplain steps of high-gradient drainageways on mountain slopes, glacial valley walls, and moraines. Slopes range from 10 to 35 percent. These soils formed in alluvium, colluvium, and till derived from granite and granodiorite. Elevation is 2570 to 3955 meters. The climate is Mediterranean with warm, dry summers and cool, moist winters. The mean annual precipitation is 550 to 1505 mm and the mean annual air temperature is -1 to 5 degrees C. The frost free season is 45 to 95 days.
+
+GEOGRAPHICALLY ASSOCIATED SOILS: These are the Evolution soils. The Evolution soils are on concave positions on moraines and glacial valley floors.
+
+DRAINAGE AND PERMEABILITY: Moderately well drained, high to very high saturated hydraulic conductivity. Occasional flooding for very brief (4 to 48 hours) duration in April through June, no ponding. Seasonal high water table between 50 to 100 cm.
+
+USE AND VEGETATION: This soil is used for recreation, wildlife habitat, and watershed. Vegetation is Sierra willow, shootingstar, shorthair reedgrass, purple mountainheath, dwarf bilberry, and carex species.
+
+DISTRIBUTION AND EXTENT: Sierra Nevada Mountains of California; MLRA 22A. These soils are of limited extent.
+
+SOIL SURVEY REGIONAL OFFICE (SSRO) RESPONSIBLE: Davis, California
+
+SERIES PROPOSED: Fresno County, California in Sequoia and Kings Canyon National Parks. Source of name from Forgotten Creek in Sequoia National Park. 
+
+REMARKS: 
+  Particle Size Control Section for this pedon: 25 to 100 cm
+  Diagnostic horizons and features recognized in this pedon are:
+     Umbric Epipedon            0 to 22 cm
+     Cambic Horizon              45 to 67 cm
+
+ADDITIONAL DATA: 
+  NASIS User Pedon ID: 2013CA7921049
+
+Soil classified using the 12th Edition of the Keys to Soil Taxonomy.
+
+National Cooperative Soil Survey
+U.S.A.

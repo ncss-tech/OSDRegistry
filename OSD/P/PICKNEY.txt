@@ -1,0 +1,134 @@
+LOCATION PICKNEY                SC+FL GA VA
+
+Established Series
+RLV-VAR, Rev. MHC
+05/2003
+
+PICKNEY SERIES
+
+MLRA(s): 153a, 153B
+MLRA SOIL SURVEY REGIONAL OFFICE (MO) RESPONSIBLE: Raleigh, North Carolina
+Depth Class: very deep
+Drainage Class (Agricultural): very poorly drained
+Internal Free Water Occurrence: very shallow, persistent
+Index Surface Runoff: negligible
+Permeability: rapid
+Landscape: lower coastal plain
+Landform: flats, depressions, stream terraces, and flood plains
+Geomorphic Component: dips, talfs, treads
+Parent Material: marine or fluvial sediments
+Slope: 0 to 2 percent
+Elevation (type location): 
+Mean Annual Air Temperature (type location): 65 degrees F.
+Mean Annual Precipitation (type location): 45 inches
+
+TAXONOMIC CLASS: Sandy, siliceous, thermic Cumulic Humaquepts
+
+TYPICAL PEDON:  Pickney loamy fine sand--forested. (Colors are for moist soil.)
+
+     A1--0 to 10 inches; black (N 2/0) loamy fine sand; weak fine granular structure; very friable; common clean sand grains; many fine and medium roots; few fine pores; extremely acid; clear smooth boundary.
+
+     A2--10 to 24 inches; black (N 2/0) loamy fine sand; weak fine granular structure; very friable; common clean sand grains; common fine and medium roots; few fine pores; extremely acid; clear smooth boundary.
+
+     A3--24 to 34 inches; black (10YR 2/1) loamy fine sand; weak fine granular structure; very friable; common clean sand grains; common fine and medium roots; very strongly acid; clear smooth boundary.  (The combined thickness of the A horizon is 24 to 60 inches)
+
+     Cg1--34 to 69 inches; dark gray (10YR 4/1) fine sand; common medium faint white (10YR 8/1) mottles; single grained; loose; few fine roots; strongly acid; clear smooth boundary.  (10 to 36 inches thick)
+
+     Cg2--69 to 80 inches; dark gray (10YR 4/1) fine sand; single grained; loose; moderately acid.
+
+TYPE LOCATION:  Berkeley County, South Carolina; 6.5 miles northwest of Huger; 0.5 miles from intersection of S-08-171 and FS-137 on FS-137; site is 200 feet west of road.
+
+RANGE IN CHARACTERISTICS:
+inches
+Depth to Bedrock: Greater than 60 inches
+Depth to Seasonal High Water Table: 0 to 12 inches, November to May
+Soil Reaction: extremely acid to moderately acid 
+
+RANGE OF INDIVIDUAL HORIZONS:
+
+A horizon:
+Color--hue of 5YR to 2.5Y or neutral, value of 2 or 3, and chroma of 1 or 2
+Texture (fine-earth fraction)-- sand, fine sand, loamy sand or loamy fine sand. Some pedons have mucky analogs of these textures 
+
+Cg horizon:
+Color--hue of 10YR to 5Y or neutral, value of 3 to 7, and chroma of 1 or 2
+Texture (fine-earth fraction)-- coarse sand, sand, fine sand, loamy sand, or loamy fine sand 
+Redoximorphic features (if they occur)--iron masses in shade of red, yellow, or brown 
+
+COMPETING SERIES:
+Hosford soils-- toe slopes and lower side slopes of lower coastal plain uplands
+Naconiche soils-have buried A horizons
+
+GEOGRAPHIC SETTING:
+Landscape: Coastal plain
+Landform: depressions, drainageways, stream terraces, and flood plains
+Geomorphic Component: dips, talfs, treads
+Parent Material: marine or fluvial sediments
+Elevation: 20 to 150 feet
+Mean Annual Air Temperature: 59 to 70 degrees
+Mean Annual Precipitation: 38 to 52 inches
+Frost Free Period: 190 to 275 days 
+
+GEOGRAPHICALLY ASSOCIATED SOILS:
+Chipley soils-- are on higher elevations of the landscape and are better drained 
+Echaw soils-- are on higher elevations of the landscape and are better drained 
+Ocilla soils-- are on higher elevations of the landscape and are better drained 
+Osier soils-- do not have an umbric epipedon 
+Pamlico soils-- have 16 to 51 inches of organic matter
+Paxville soils-- are on higher elevations of the landscape and are better drained 
+Pelham soils-- are on higher elevations of the landscape and are better drained 
+Rutlege soils-have an umbric epipedon less than 24 inches thick
+Witherbee soils-- are on higher elevations of the landscape and are better drained 
+
+DRAINAGE AND PERMEABILITY:
+Drainage Class (Agricultural): very poorly drained
+Internal Free Water Occurrence: very shallow, persistent. The water table occurs at depths of less than 10 inches below the soil surface for more than 8 months during most years.  During the drier seasons the water table may recede to a depth of 20 inches.
+Index Surface Runoff: negligible
+Permeability: rapid
+
+USE AND VEGETATION:
+  Major Uses: Most of the areas are in native vegetation 
+  Dominant Vegetation: pond pine, baldcypress, sweetgum, water tupelo, black tupelo, water oak, ;and an undergrowth of waxmyrtle, fern, maiden cane, and large gallberry. Cleared and drained areas are used principally for growing lobolly pine and pasture grasses.
+
+DISTRIBUTION AND EXTENT:
+  Distribution: Georgia, Florida and South Carolina 
+  Extent: moderate
+
+MLRA SOIL SURVEY REGIONAL OFFICE (MO) RESPONSIBLE: Raleigh, North Carolina
+
+SERIES ESTABLISHED:  Berkeley County, South Carolina; 1974.
+
+REMARKS:  Diagnostic horizons and features recognized in this pedon are:
+Umbric epipedon - the zone from the surface of the soil to 34 inches (A1, A2, and A3 horizons)
+Aquic features - chroma of 1 or less immediately beneath the umbric epipedon (Cg1 horizon)
+
+ADDITIONAL DATA:
+
+TABULAR SERIES DATA:
+
+SOI-5  Soil Name   Slope  Airtemp FrFr/Seas Precip  Elevation
+SC0027 PICKNEY     0-  2   59- 70  190-275  38- 52    20- 150 
+SC0131 PICKNEY     0-  2   50- 70  190-275  38- 52    20- 100 
+
+SOI-5  FloodL FloodH Watertable Kind   Months  Bedrock Hardness
+SC0027 NONE             -     APPARENT    -     60-60        
+SC0131 COMMON           -     APPARENT    -     60-60        
+
+SOI-5  Depth  Texture                3-Inch  No-10  Clay%   -CEC-
+SC0027  0-34  LFS LS                  0-  0 100-100  2-10   7- 16
+SC0027  0-34  S FS                    0-  0 100-100  1-10   6- 15
+SC0027 34-80  LFS LS FS               0-  0 100-100  1-10   2-  8
+SC0131  0-34  LFS LS                  0-  0 100-100  2-10   7- 16
+SC0131  0-34  S FS                    0-  0 100-100  2-10   6- 15
+SC0131 34-80  LFS LS FS               0-  0 100-100  1-10   2-  8
+
+SOI-5  Depth    -pH-     O.M.  Salin  Permeab   Shnk-Swll
+SC0027  0-34  3.6- 6.0  3.-15  0- 0   6.0-  20  LOW      
+SC0027  0-34  3.6- 6.0  3.-15  0- 0   6.0-  20  LOW      
+SC0027 34-80  3.6- 6.0  2.-6.  0- 0   6.0-  20  LOW      
+SC0131  0-34  3.6- 5.5  3.-15  0- 0   6.0-  20  LOW      
+SC0131  0-34  3.6- 5.5  3.-15  0- 0   6.0-  20  LOW      
+SC0131 34-80  3.6- 6.0  2.-6.  0- 0   6.0-  20  LOW
+
+National Cooperative Soil Survey
+U.S.A.

@@ -1,0 +1,166 @@
+LOCATION PEGATI                 AK
+
+Established Series
+SAS/TJR/MR
+01/2019
+
+PEGATI SERIES
+
+Landscape--mountains, drift plains
+Landform--swales and valley sides
+Slope--2 to 40 percent
+Parent material--colluvium with volcanic ash influence in the upper part
+Mean annual precipitation--about 1200 mm
+Mean annual air temperature--about 0 degrees C
+Depth class--very deep
+Drainage class--somewhat poorly drained
+Soil moisture regime--aquic
+Soil temperature regime--cryic
+Soil moisture subclass--typic
+
+TAXONOMIC CLASS: Medial over loamy, amorphic over isotic, nonacid Typic Cryaquands
+
+TYPICAL PEDON: Pegati medial sandy loam on a north-northeast-facing, linear and concave swale of a mountain, on a slope of 17 percent at an elevation of 156 m (When described on August 7, 2013, the soil was moist to a depth of 61 cm and saturated throughout the rest of the profile.)
+
+ Oi--0 to 2 cm; slightly decomposed plant material; many very fine and fine and common medium to very coarse roots; very strongly acid (pH 4.7); clear irregular boundary
+
+ A--2 to 13 cm; medial sandy loam, dark reddish gray (5YR 4/2) dry, dark reddish brown (5YR 2.5/2) moist; weak fine granular structure; soft, very friable, nonsticky and nonplastic; many very fine and common fine to very coarse roots; strongly acid (pH 5.1); clear irregular boundary
+
+ AB1--13 to 26 cm; medial sandy loam, matrix color 60 percent brown (7.5YR 5/3) dry, dark brown (7.5YR 3/3) moist, 20 percent pale brown (10YR 6/3) dry, brown (10YR 4/3) moist, and 20 percent grayish brown (10YR 5/2) dry, very dark grayish brown (10YR 3/2) moist; weak medium subangular blocky structure; soft, very friable, nonsticky and nonplastic; common very fine and fine roots; moderately acid (pH 5.7); clear smooth boundary
+
+ AB2--26 to 38 cm; medial sandy loam, brown (7.5YR 5/3) dry, dark brown (7.5YR 3/3) moist; weak medium granular structure; slightly hard, friable, nonsticky and nonplastic; common very fine and fine roots; 10 percent very coarse iron depletions, dark grayish brown (10YR 4/2) moist, clear boundaries, and 20 percent very coarse masses of oxidized iron, dark reddish brown (5YR 3/4) moist, clear boundaries; 1 percent gravel; moderately acid (pH 6.0); clear smooth boundary
+
+ Bg--38 to 60 cm; gravelly medial loam, yellowish brown (10YR 5/4) dry, dark yellowish brown (10YR 3/4) moist; moderate fine granular structure; slightly hard, friable, slightly sticky and nonplastic; common very fine and fine roots; 35 percent iron depletions, brown (10YR 4/3) moist, diffuse boundaries, and 5 percent medium masses of oxidized iron, brown (7.5YR 4/4) moist, diffuse boundaries; 18 percent gravel; slightly acid (pH 6.1); clear smooth boundary
+
+ 2Cg--60 to 150 cm; gravelly sandy loam, light yellowish brown (10YR 6/4) dry, dark yellowish brown (10YR 4/4) moist; massive; soft, very friable, moderately sticky and nonplastic; 30 percent very coarse iron depletions, olive brown (2.5Y 4/3) moist, clear boundaries, and 3 percent medium masses of oxidized iron, strong brown (7.5YR 4/6) moist, clear boundaries; 25 percent gravel; moderately acid (pH 5.9)
+
+TYPE LOCATION: Dillingham Census Area, Alaska, about 50 km west-northwest of the city of Dillingham; latitude 59.2353398, longitude -159.2148575, datum WGS 84 (coordinates determined with a GPS)
+
+RANGE IN CHARACTERISTICS:
+Mean annual soil temperature--0 to 3 degrees C
+Soil moisture control section--saturated in some part during much of the growing season (aquic moisture regime)
+Depth to aquic conditions--25 to 50 cm below the mineral soil surface
+Lithology of rock fragments--sedimentary, volcanic
+Other features--lithologic discontinuity; andic soil properties; umbric epipedon; cambic horizon; redoximorphic concentrations and depletions
+
+Layers influenced by volcanic ash
+*Thickness--36 to 90 cm
+*Phosphorous retention--70 to 100 percent
+*Bulk density--0.45 to 0.9 g/cm3
+*Ammonium oxalate Al plus 1/2 Fe--2 to 6 percent
+*Volcanic glass content--5 to 50 percent
+*Ammonium oxalate Si--0.5 to 1.0 percent
+*Ammonium oxalate Fe--0.5 to 2.1 percent
+
+Loamy part of particle-size control section
+*Clay content--10 to 22 percent
+*Sand content--50 to 75 percent
+*Total rock fragment content--0 to 35 percent
+*Sodium fluoride pH--8.4 to 11.6
+*Ratio of 1500 kPa water to measured clay--0.6 to 6.0
+
+Oi horizon
+Thickness--2 to 14 cm
+
+A horizon
+Hue--5YR, 7.5YR, 10YR
+Value--2 or 2.5 moist, 4 or 5 dry
+Chroma--1 or 2 moist
+Fine-earth texture--medial sandy loam, sandy loam
+Clay content--5 to 10 percent
+Reaction--5.0 to 6.0
+Gravel content--0 to 20 percent
+Thickness--2 to 15 cm
+Bulk density--0.45 to 0.9 g/cm3
+Phosphorous retention--70 to 100 percent
+Volcanic glass content--0 to 20 percent
+Base saturation--0 to 30 percent
+
+AB horizon
+Hue--7.5YR, 10YR
+Value--2 or 3 moist, 4 or 5 dry
+Chroma--2 or 3 moist
+Fine-earth texture--medial sandy loam, medial silt
+Clay content--5 to 10 percent
+Reaction--4.9 to 6.0
+Gravel content--0 to 15 percent
+Combined thickness--20 to 60 cm
+Bulk density--0.5 to 0.9 g/cm3
+Phosphorous retention--70 to 100 percent
+Volcanic glass content--5 to 40 percent
+Ammonium oxalate Al plus 1/2 Fe--2 to 6 percent
+Base saturation--0 to 30 percent
+
+Bg horizon
+Hue--2.5Y, 10YR
+Value--3 or 4 moist, 5 or 6 dry
+Chroma--2 to 4 moist
+Fine-earth texture--medial silt loam, medial sandy loam, medial loam
+Clay content--5 to 10 percent
+Reaction--5.0 to 6.5
+Total rock fragment content--5 to 35 percent
+Gravel content--0 to 35 percent
+Cobble content--0 to 10 percent
+Thickness--15 to 30 cm
+Bulk density--0.5 to 0.9 g/cm3
+Phosphorous retention--70 to 100 percent
+Volcanic glass content--5 to 40 percent
+Ammonium oxalate Al plus 1/2 Fe--2 to 6 percent
+
+2Cg horizon
+Hue--10YR, 2.5Y
+Value--3 to 5 moist, 5 to 7 dry
+Chroma--3 or 4 moist
+Fine-earth texture--sandy loam, sandy clay loam, very fine sandy loam
+Clay content--10 to 22 percent
+Reaction--5.5 to 6.5
+Total rock fragment content--0 to 35 percent
+Gravel content--0 to 35 percent
+Cobble content--0 to 10 percent
+Thickness--more than 50 cm
+
+COMPETING SERIES: None
+
+GEOGRAPHIC SETTING:
+Elevation--10 to 700 m
+Climate--warm, moist summers; cold, moist winters
+Mean annual precipitation--620 to 2100 mm
+Mean annual air temperature-- -3.4 to 1.8 degrees C
+Frost-free period--70 to 140 days
+
+GEOGRAPHICALLY ASSOCIATED SOILS:
+Klak--no aquic conditions; mountain slopes
+Nagugun--no aquic conditions; glaciated plains
+Awayak--frequent flooding; no andic soil properties; no cambic horizon; flood plains
+Pungokepuk--spodic horizon; ochric epipedon; swales of plains
+Ungalikthluck--occasional flooding; no andic soil properties; no cambic horizon; flood plains
+
+DRAINAGE AND SATURATED HYDRAULIC CONDUCTIVITY:
+Drainage class--somewhat poorly drained
+Saturation in normal years--below a depth of 0 to 25 cm in April through June, below a depth of 25 to 65 cm throughout the rest of the year
+Saturated hydraulic conductivity (Ksat)--moderately high to very high in the A, AB, and Bg horizons, moderately low to high in the 2Cg horizon
+
+USE AND VEGETATION:
+Use--wildlife habitat, recreation, subsistence
+Potential natural vegetation--bluejoint, fireweed, field horsetail, woolly geranium, western oakfern, splendid feather moss, Barclay's willow, Canadian burnet, tealeaf willow, beauverd spirea
+
+DISTRIBUTION AND EXTENT: Ahklun Mountains, Alaska; MLRA 237; moderate extent
+
+SOIL SURVEY REGIONAL OFFICE (SSRO) RESPONSIBLE: Portland, Oregon
+
+SERIES ESTABLISHED: Togiak National Wildlife Refuge-Ahklun Mountains Area, Alaska; 2019
+
+REMARKS:
+Diagnostic horizons and other features in this pedon
+*Particle-size control section--zone from 2 to 102 cm
+*Umbric epipedon--A and AB horizons
+*Andic soil properties--zone from 2 to 60 cm
+*Cambic horizon--Bg horizon
+*Redoximorphic depletions--AB2, Bg, and 2Cg horizons
+*Redoximorphic iron concentrations--zone from 26 to 150 cm
+*Aquic conditions--zone from 26 to 150 cm
+
+See laboratory pedon number 13N0049, layer 13N00125, for Bw horizon that has andic soil properties and amorphic mineralogy.
+
+National Cooperative Soil Survey
+U.S.A.

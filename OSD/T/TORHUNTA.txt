@@ -1,0 +1,85 @@
+LOCATION TORHUNTA               NC+GA SC VA
+
+Established Series
+HJB-DLN/Rev. JAK
+07/1999
+
+TORHUNTA SERIES
+
+The Torhunta series consist of very poorly drained soils in upland bays and on stream terraces in Coastal Plain.  Slopes range from 0 to 2 percent.
+
+TAXONOMIC CLASS: Coarse-loamy, siliceous, active, acid, thermic Typic Humaquepts
+
+TYPICAL PEDON:  Torhunta fine sandy loam--cultivated.
+(Colors are for moist soil unless otherwise stated.)
+
+     Ap--0 to 9 inches; black (10YR 2/1) fine sandy loam; weak medium granular structure; friable; many fine roots; strongly acid; abrupt wavy boundary.  (0 to 12 inches thick.)
+
+     A--9 to 15 inches; very dark gray (10YR 3/1) loamy sand; weak medium granular structure; very friable; many fine roots; thin coats of organic matter on grains; very strongly acid; gradual wavy boundary.  (4 to 15 inches thick.)
+
+     Bg--15 to 40 inches; dark grayish brown (10YR 4/2) fine sandy loam; weak fine subangular blocky structure; friable; slightly sticky and slightly plastic; many fine roots in upper part; thin silt coatings on sand grains; few loamy sand and sand pockets; extremely acid; gradual wavy boundary.  (10 to 25 inches thick.)
+
+     Cg1--40 to 48 inches; dark grayish brown (10YR 4/2) loamy sand; common medium faint gray (10YR 5/1) and brown (10YR 5/3) mottles; single grained; very friable; few sand pockets; extremely acid; diffuse wavy boundary.  (0 to 10 inches thick.)
+
+     Cg2--48 to 80 inches; grayish brown (10YR 5/2) sand; single grained; loose; uncoated sand grains; very strongly acid.
+
+TYPE LOCATION: Wayne County, North Carolina; 1.5 miles south of New Hope; 0.4 mile northeast of intersection of Roads 1712 and 1713, 50 feet south of Road 1713 and 50 feet northeast of power line poles.
+
+RANGE IN CHARACTERISTICS:  Torhunta soil has loamy textured horizons that range from 20 to 50 inches thick.  The soil reaction ranges from extremely acid through strongly acid, unless the surface has been limed.
+
+The Ap or A horizon has hue of 10YR, 2.5Y, or it is neutral, value of 2 or 4, and chroma of 0 to 2.  It is sandy loam, fine sandy loam, loam, loamy sand or their mucky analogues.
+
+The Bg horizon has hue of 10YR, 2.5Y, or it is neutral, value of 4 to 6, and chroma of 0 to 2.  Mottles are in shades of brown or yellow.  It is sandy loam or fine sandy loam.
+
+The BCg horizon, where present, has hue of 10YR, 2.5Y, or it is neutral, value of 4 to 7, and chroma of 0 to 2.  Mottles are in shades of yellow or brown.  It is sandy loam, fine sandy loam, loamy sand, or sand.
+
+The Cg horizon has colors of the BCg horizon and in addition, has hue of 5GY or 5G, value of 4 to 6, and chroma of 1.  It is loamy sand, loamy fine sand, sand, or sandy loam.
+
+COMPETING SERIES:  There are no other series in the same family.  Arapahoe, Johnston, Mullica, Pickney, Pocomoke, Portsmouth, Rutlege, Weeksville, and Weston series are in closely related families.  Arapahoe and Mullica have mixed mineralogy.  Arapahoe is also nonacid.  Johnston and Pickney soils have an umbric epipedon more than 24 inches thick.  Pocomoke, Portsmouth, and Weston soils have argillic horizons.  Rutlege soils are sandy throughout.  Weeksville soils are coarse-silty.
+
+GEOGRAPHIC SETTING:  Torhunta soils are on nearly level stream terraces and upland bay areas in the Coastal Plain.  Slope gradients are less than 2 percent.  The soil formed in coarse to medium textured, marine or fluvial deposits.  At the type location, mean annual temperature is 63 degrees F. and mean annual rainfall is about 48 inches.
+
+GEOGRAPHICALLY ASSOCIATED SOILS:  In addition to the Rutlege series, these include Johns, Lumbee, Lynchburg, and Rains series. Johns, Lumbee, Lynchburg, and Rains soils have more than 18 percent clay in the Bt horizons and lack the thick, dark colored A horizons.
+
+DRAINAGE AND PERMEABILITY:  Very poorly drained; slow runoff; moderately rapid permeability.  The water table is at or near the surface 2 to 6 months annually.
+
+USE AND VEGETATION:  Approximately 2/3 of these soils are in pine forest with pond and loblolly being the principal species.  About 1/3 of the soil area has been drained and is used for growing corn, soybeans, small grain, and pasture grasses.
+
+DISTRIBUTION AND EXTENT:  Widely distributed over the Coastal Plain of Florida, Georgia, North Carolina, South Carolina, and Virginia.  The series is extensive.
+
+MLRA SOIL SURVEY REGIONAL OFFICE (MO) RESPONSIBLE: Raleigh, North Carolina
+
+SERIES ESTABLISHED:  Robeson County, North Carolina; 1972.
+
+REMARKS:  Torhunta soils were formerly included in the Pocomoke series.  CEC activity class added 4/99 by JAK.
+
+Diagnostic horizons and features recognized in this pedon are:
+
+Umbric epipedon - the zone drom the surface to a depth of 15 inches.  (The Ap and A horizons)
+Cambic horizon - the zone between a depth of 15 to 40 inches.
+(The Bg horizon)
+Aquic moisture regime - chromas of 2 or less below a depth of 9 inches.
+
+TABULAR SERIES DATA:
+
+SOI-5  Soil Name   Slope  Airtemp FrFr/Seas Precip  Elevation
+NC0067 TORHUNTA    0-  2   59- 70  210-250  42- 60    25- 170 
+
+SOI-5  FloodL FloodH Watertable Kind   Months  Bedrock Hardness
+NC0067 NONE   COMMON 0.5-1.5  APPARENT NOV-MAY  60-60        
+
+SOI-5  Depth  Texture                3-Inch  No-10  Clay%   -CEC-
+NC0067  0-15  MK-L MK-FSL MK-SL       0-  0  95-100  5-18  10- 17
+NC0067  0-15  FSL L LFS               0-  0  95-100  5-18   3- 12
+NC0067 15-40  SL FSL                  0-  0  95-100  5-18   1-  4
+NC0067 40-80  LS S SL                 0-  0  95-100  2-18   1-  3
+
+SOI-5  Depth    -pH-     O.M.  Salin  Permeab   Shnk-Swll
+NC0067  0-15  3.5- 5.5  10-15  0- 0   0.6- 2.0  LOW      
+NC0067  0-15  3.5- 5.5  3.-10  0- 0   2.0- 6.0  LOW      
+NC0067 15-40  3.5- 5.5  .5-2.  0- 0   2.0- 6.0  LOW      
+NC0067 40-80  3.5- 6.5  .5-1.  0- 0   6.0-  20  LOW      
+
+
+National Cooperative Soil Survey
+U.S.A.

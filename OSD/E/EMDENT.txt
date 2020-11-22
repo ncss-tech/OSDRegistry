@@ -1,0 +1,130 @@
+LOCATION EMDENT                 WA
+
+Established Series
+Rev. CDL/JJR/TLA/SHB
+08/2020
+
+EMDENT SERIES
+
+Landscape--channeled scablands
+Landform--depressions, drainageways, flood plains
+Slope--0 to 5 percent
+Parent material--silty alluvium derived from volcanic ash mixed with a minor amount of loess in upper part
+Mean annual precipitation--about 330 mm
+Mean annual air temperature--about 9 degrees C
+Depth class--very deep
+Drainage class--somewhat poorly drained, poorly drained
+Soil moisture regime--aquic
+Soil temperature regime--mesic
+Soil moisture subclass--typic
+
+TAXONOMIC CLASS: Ashy, glassy, calcareous, mesic Aquandic Endoaquolls
+
+TYPICAL PEDON: Emdent ashy silt loam in an area of grassland
+
+ Aknz1--0 to 13 cm; ashy silt loam, gray (10YR 5/1) dry, very dark gray (10YR 3/1) moist; moderate thin platy structure; slightly hard, friable, slightly sticky and slightly plastic; many roots; violently effervescent; very strongly alkaline (pH 9.2); abrupt smooth boundary
+
+ Aknz2--13 to 41 cm; ashy silt loam, gray (10YR 5/1) dry, very dark gray (10YR 3/1) moist; weak medium subangular blocky structure; slightly hard, friable, slightly sticky and slightly plastic; common roots; common fine and very fine tubular pores; violently effervescent; very strongly alkaline (pH 9.2); gradual wavy boundary
+
+ Bknz--41 to 53 cm; ashy silt loam, gray (10YR 6/1) dry, dark gray (10YR 4/1) moist; massive; slightly hard, friable, slightly sticky and slightly plastic; few roots; many very fine tubular pores; violently effervescent; moderately alkaline (pH 8.4); gradual wavy boundary
+
+ C1--53 to 66 cm; ashy silt loam, light gray (10YR 7/1) dry, grayish brown (10YR 5/2) moist; massive; slightly hard, friable, slightly sticky and slightly plastic; few roots; many very fine tubular pores; slightly effervescent; moderately alkaline (pH 8.2); gradual wavy boundary
+
+ C2--66 to 132 cm; ashy very fine sandy loam, white (10YR 8/1) dry, light brownish gray (10YR 6/2) moist; massive; soft, very friable, nonsticky and nonplastic; few roots; few very fine tubular pores; slightly effervescent; moderately alkaline (pH 8.0); clear wavy boundary
+
+ C3--132 to 150 cm; ashy silt loam, gray (10YR 6/1) dry, dark gray (10YR 4/1) moist; massive; slightly hard, friable, slightly sticky and slightly plastic; few very fine pores; noneffervescent; moderately alkaline (pH 8.4)
+
+TYPE LOCATION: Adams County, Washington, about 13 km north of the town of Benge; about 305 m north of the southeast corner of section 30, T. 18 N., R. 38 E.; Willamette Meridian; latitude 47.0195799, longitude -118.0669211, datum WGS 84 (coordinates estimated from PLSS data)
+
+RANGE IN CHARACTERISTICS:
+Mean annual soil temperature at a depth of 50 cm--8 to 11 degrees C
+Depth to bedrock--more than 150 cm
+Thickness of mollic epipedon--25 to 50 cm
+Sodium saturation--more than 15 percent in more than one-half of upper 50 cm of soil, decreasing as depth increases to more than 50 cm
+
+Estimated properties of layers influenced by volcanic ash
+*Content of volcanic glass in 0.02- to 2-mm fraction--more than 60 percent
+*Acid oxalate Al plus 1/2 Fe--less than 0.4 percent
+*Moist bulk density--0.75 to 1.15 g/cm3
+
+Aknz horizon
+*Value--4 or 5 dry, 2 or 3 moist
+*Chroma--1 to 3 dry or moist
+*Effervescence--strongly effervescent, violently effervescent
+*Reaction--8.5 to more than 9.0
+*Combined thickness--20 to 50 cm
+
+Bknz horizon
+*Hue--10YR, 2.5Y
+*Value--5 to 7 dry, 3 to 5 moist
+*Chroma--1 to 4 dry or moist
+*Texture--ashy silt loam, ashy loam, ashy very fine sandy loam
+*Effervescence--slightly effervescent to violently effervescent
+*Reaction--7.9 to more than 9.0
+*Thickness--10 to 25 cm
+
+A Bkg horizon is in some pedons.
+
+C horizon (where present)
+*Value--6 to 8 dry, 5 to 7 moist
+*Chroma--2 or 3 moist, 1 or 2 dry
+*Texture--ashy silt loam, ashy loam, ashy very fine sandy loam, ashy silt
+*Content of gravel--0 to 5 percent
+*Effervescence--none to violently effervescent
+*Reaction--7.9 to more than 9.0 in upper part; 7.4 to 8.4 in lower part
+*Combined thickness--60 to 140 cm or more
+
+COMPETING SERIES: None
+
+GEOGRAPHIC SETTING:
+Elevation--275 to 795 m
+Climate--continental; warm, dry summers; cool, moist winters
+Mean annual precipitation--230 to 460 mm
+Mean January air temperature--about -2 degrees C
+Mean July air temperature--20 degrees C
+Mean annual air temperature--9 degrees C
+Frost-free season--110 to 150 days
+
+GEOGRAPHICALLY ASSOCIATED SOILS:
+Ahtanum--50 to 100 cm deep to duripan
+Anders--lithic contact at a depth of 50 to 100 cm
+Bakeoven--lithic contact at a depth of less than 30 cm
+Benge, Stratford--coarse-loamy over sandy or sandy-skeletal
+Conconully, Poween, Timentwa--coarse-loamy
+Duleylake--fine-loamy
+Nespelem, Walla Walla--coarse-silty
+
+DRAINAGE AND SATURATED HYDRAULIC CONDUCTIVITY:
+Drainage class--somewhat poorly drained, poorly drained
+Saturated hydraulic conductivity (Ksat)--moderately high
+Seasonal high water table--uppermost limit in January through April
+Flooding and ponding in Spokane County--winter, spring
+
+USE AND VEGETATION:
+Use--livestock grazing, wildlife habitat, crop production
+Common crops--hay, pasture
+Native vegetation--basin wildrye, alkali cordgrass, inland saltgrass, Baltic rush, alkali bluegrass, clustered field sedge, woods rose
+
+DISTRIBUTION AND EXTENT: Eastern and north-central Washington; MLRAs 8 and 9; moderate extent
+
+MLRA SOIL SURVEY REGIONAL OFFICE (MO) RESPONSIBLE: Portland, Oregon
+
+SERIES ESTABLISHED: Adams County, Washington; 1965
+
+REMARKS:
+Diagnostic horizons and other features in this pedon
+*Mollic epipedon--zone from surface to a depth of 41 cm
+*Aquic conditions--zone from 41 to 150 cm
+*Effervescence--all parts of zone from 25 to 100 cm
+*Exchangeable sodium percentage--more than 15 percent in upper 50 cm, decreases as depth increases
+*Particle-size control section--zone from 25 to 100 cm
+
+The classification was changed from ashy, glassy, calcareous, mesic Typic Vitriaquands to ashy, glassy, calcareous, mesic Aquandic Endoaquolls based on laboratory data. The ash in the Emdent soils is from the eruption of Mount Mazama. The content of ash is very high, but because of the sustained water table it is not weathered enough to meet the acid oxalate Al plus 1/2 Fe criteria for andic soil properties.
+
+6/2016--This official series description (OSD) was updated as part of the final correlation of the Spokane County, Washington, soil survey. The PLSS details place the location of the pedon in an area of Anders silt loam, 0 to 5 percent slopes. The type location should be investigated and potentially moved to a more appropriate location. The formatting of this OSD was updated according to SSR1 Technical Note 11--Content and Format of Official Series Descriptions (revised 12/2015).
+
+ADDITIONAL DATA:
+Kellogg Soil Survey Laboratory data--sample number S05WA063-006, Spokane County, Washington, pedon number 06N0193
+
+National Cooperative Soil Survey
+U.S.A.

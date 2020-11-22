@@ -1,0 +1,118 @@
+LOCATION BELLWOOD               LA
+
+Established Series
+Rev.JDS; CLB:JPE, MJB
+06/2020
+
+BELLWOOD SERIES
+
+The Bellwood series consists of very deep, somewhat poorly drained, very slowly permeable soils that formed in acid, clayey Tertiary age sediments. These nearly level to steep soils occur on  Coastal Plain uplands. Mean annual precipitation is about 1403 mm (55.23 in)and the mean annual temperature is about 19 degrees C (65.5 degrees F). Slopes are 1 to 20 percent.
+
+TAXONOMIC CLASS: Very-fine, smectitic, thermic Aquic Dystruderts
+
+TYPICAL PEDON: Bellwood clay on a 4 percent slope in a micro low position in pine woodland at an elevation of 61.3 m (203 ft). (Colors are for moist soil unless otherwise stated.)
+
+    A--0 to 3 (0 to 1 in); reddish brown (5YR 4/3) silty clay loam; weak fine granular structure; friable; many fine roots; very strongly acid; abrupt irregular boundary. (Thickness of the A horizon is 0 to 8 cm [0 to 3 in])
+
+    Bw--3 to 18 cm (1 to 7 in); yellowish red (5YR 4/6) clay; moderate, medium subangular blocky structure; firm; many fine and medium roots; continuous shiny pressure faces on surfaces of peds; very strongly acid; clear smooth boundary. (Thickness of the Bw horizon is 10 to 38 cm [4 to 15 in])
+
+    Bss1--18 to 53 cm (7 to 21 in); gray (10YR 6/1) clay; moderate medium angular blocky structure; very firm, very plastic, very sticky; common fine roots; continuous shiny pressure faces on surfaces of peds and common intersecting slickensides; many medium prominent red (2.5YR 4/6) masses of iron accumulation; very strongly acid; gradual wavy boundary. 
+
+    Bss2--53 to 104 cm (21 to 41 in); light brownish gray (10YR 6/2) clay; moderate medium angular blocky structure; very firm, very sticky, very plastic; common fine roots; discontinuous shiny pressure faces on surfaces of peds and many intersecting slickensides; common medium prominent red (2.5YR 4/6) masses of iron accumulation; few fine distinct iron depletions around roots;  very strongly acid; clear smooth boundary. (Combined thickness of the Bss horizons is 33 to 104 cm [13 to 41in])
+
+    BCss1--104 to 140 cm (41 to 55 in); pale brown (10YR 6/3) clay; weak coarse and medium angular blocky structure; very firm, very sticky, very plastic; discontinuous shiny pressure faces on surfaces of peds and common intersecting slickensides; common medium prominent strong brown (7.5YR 5/6) and a few fine distinct yellowish red (5YR 5/6) iron accumulations; very strongly acid; clear smooth boundary. (Combined thickness of the BCss horizons is 25 to 56 cm [10 to 22 in])
+
+    BCss2--140 to 152 cm (55 to 60 in); pale brown (10YR 6/3) clay; common fine faint yellowish brown mottles; weak coarse angular blocky structure; weak coarse angular blocky structure; very firm; shiny pressure faces and few slickensides on surfaces of most peds; very strongly acid.
+
+TYPE LOCATION: Natchitoches Parish, Louisiana; located approximately 0.8 mile north west of Provencal on parish road, 0.45 miles east of Shiloh Cemetery, 200 feet south of parish road, NE1/4, SW1/4, Sec. 20, T. 8 N., R. 8 W.
+
+USGS topographic quad: Provencal, LA
+Latitude: 31 degrees 39 minutes 39.85 seconds N
+Longitude: 93 degrees 12 minutes 39.98 seconds W
+
+Decimal Degrees:
+Latitude: 31.66107 N
+Longitude: 93.2111 W
+Datum: WGS84
+
+RANGE IN CHARACTERISTICS: The gilgai relief consist of microknolls and microdepressions with a relief of 5 to 20 cm (2 to 8 in) and distances of 2,4 to 4.6 m (8 to 15 ft) between centers of knolls and depressions. Depth to intersecting slickensides ranges from 18 to 53 cm (7 to 21 in). Solum thickness ranges from 127 to 203 cm (50 to 80 in) or more. Reaction ranges from extremely acid to strongly acid throughout the solum.  It is extremely acid or very strongly acid in more than half the thickness of the upper 51 cm (20 in). Base saturation ranges from 10 to 30 percent throughout the B and BC horizons.
+
+A horizon
+Hue: 5YR to 10YR
+Value: 3 or 4
+Chroma: 1 to 4
+Texture: is very fine sandy loam, loam, silt loam, silty clay loam, clay loam, silty clay, or clay
+Reaction (ph): extremely acid to strongly acid (3.5 to 5.5)
+
+Bw horizon
+Hue: 10R to 5YR
+Value: 4 or 5
+Chroma: 4 to 8
+Texture: silty clay or clay
+Clay content: 40 to 70 percent
+Slicknesides/Pressure faces: amount-none to many; distinctness-faint to distinct
+Redox concentrations: amount-none to few; size-fine to medium; contrast-faint to distinct; color-shades of red to yellow; boundary-clear; location-throughout matrix
+Redox depletions: amount-none to few; size-fine; contrast-faint to distinct; color-shades of gray; boundary-diffused; location-throughout matrix
+Reaction (ph): extremely acid to strongly acid (3.5 to 5.5)
+Bss and BCss horizons
+Hue: 10YR to 2.5Y
+Value: 5 or 7
+Chroma: 1 to 3
+Texture: silty clay or clay
+Clay content: 40 to 70 percent
+Slicknesides/Pressure faces: amount-few to many; distinctness-faint to distinct
+Redox concentrations: amount-none to few; size-fine to medium; contrast-faint to distinct; color-shades of red to yellow; boundary-clear; location-throughout matrix
+Redox depletions: amount-none to few; size-fine; contrast-faint to distinct; color-shades of gray; boundary-diffused; location-throughout matrix
+Reaction (ph): extremely acid to strongly acid (3.5 to 5.5)
+
+COMPETING SERIES: There are the Bayoudan(LA) and Vaiden(AL) series in the same family, and the Brooksville(MS), Burkville(IL), Lacerda(TX), Lebeau(LA), Louin(MS), Morse(LA), Naclina(TX), Redco(TX), Tahoula(TX), Terouge(AR), Vamont(TX), and Zilaboy(TX) series in related families. Bayoudan soils are moderately well drained and have gypsum crystals in the lower part of the solum. 
+Vaiden soils have an argillic horizon and formed over weathered chalk or calcareous clay.  
+Burkville and Redco soils have a yellower hue in the upper part of the control section and do not have aquic conditions in the upper 40 inches of the solum. 
+Lacerda soils do not have red mottles within a depth of 20 inches. 
+Lebeau soils are slightly acid to moderately alkaline throughout the solum. 
+Brooksville, Terouge, and Zilaboy soils have lower value colors in the upper part of the solum. 
+Morse and Tahoula soils have a less acid control section and are better drained. 
+Louin, Naclina, and Vamont soils have 35 to 60 percent clay in the control sections.
+
+GEOGRAPHIC SETTING: 
+Parent Material: acid clayey Tertiary age sediments
+Landscape: uplands
+Landform: coastal plains
+Slope: 1 to 20 percent
+Mean annual precipitation: 1184 to 1611 mm (46.5 to 63.5 in)
+Mean annual air temperature: 13 to 25 degrees C (55 to 77 degrees F)
+Frost-free period: 228 to 289 days
+Elevation: 36.0 to 85 m (118 to 280 ft)
+
+GEOGRAPHICALLY ASSOCIATED SOILS: These are the Keithville(LA), Natchitoches(LA), and Sacul(AR) series. 
+Keithville and Sacul soils have less than 60 percent clay in the control sections, do not have vertic properties, and are on slightly higher elevations. 
+Natchitoches soils have glauconitic sand in the B horizons and are on higher elevations.
+
+DRAINAGE AND PERMEABILITY: Bellwood soils are somewhat poorly drained; runoff is medium to high; permeability is very slow. They have an apparent water table at depths of 2 to 4 feet below the surface during winter and early spring.
+
+USE AND VEGETATION: The major use is timber production. The plant community is loblolly pine, short leaf pine and mixed hardwoods. A few small areas are cleared for pasture. 
+
+DISTRIBUTION AND EXTENT: Coastal plains of Louisiana and possibly Mississippi, Arkansas, and east Texas.
+Extent: Moderate
+
+SOIL SURVEY REGIONAL OFFICE (SSRO) RESPONSIBLE: Temple, Texas
+
+SERIES ESTABLISHED: Natchitoches Parish, Louisiana: 1985.
+
+REMARKS: Bellwood soils were formerly included in the Susquehanna series.
+
+Diagnostic horizons and features recognized in this pedon include:
+
+Ochric epipedon-- 0 to 18 cm (0 to 7 in) (A and Bw1 horizons)
+Cambic horizon---2.5 to 152 cm (1 to 60 in) (Bw, Bss, and BC horizons)
+Slickensides-----18 to 152 cm (7 to 60 in) (Bss and BCss horizons)
+Aquic conditions-53 to 104 cm (21 to 41 in) (Bss2 horizon)
+Redoximorphic concentrations: 18 to 152 cm (7 to 60 in) (Bss and BCss horizons)
+Redoximorphic depletions: 46 to 104 cm (21 to 41 in) (Bss horizons)
+
+Additional Data: S81LA069-1, S81LA069-2 Soil characterization Laboratory, Louisiana Agricultural Experiment Station
+
+TAXONOMIC VERSION: Keys to Soil Taxonomy, Twelfth Edition, 2014
+
+National Cooperative Soil Survey
+U.S.A.

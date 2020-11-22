@@ -1,0 +1,112 @@
+LOCATION NAFF                   WA+ID
+
+Established Series
+Rev. TLA/CLM/TJR
+06/2016
+
+NAFF SERIES
+
+Landscape--Columbia basalt plateau
+Landform--loess hills
+Slope--0 to 40 percent
+Parent material--Holocene and late Pleistocene loess deposits
+Mean annual precipitation--about 510 mm
+Mean annual air temperature--about 9 degrees C
+Depth class--very deep
+Drainage class--well drained
+Soil moisture regime--xeric
+Soil temperature regime--mesic
+Soil moisture subclass--typic
+
+TAXONOMIC CLASS: Fine-silty, mixed, superactive, mesic Typic Argixerolls
+
+TYPICAL PEDON: Naff silt loam in a cultivated area, on a 10-percent, northwest-facing slope at an elevation of 800 m
+
+ Ap--0 to 20 cm; silt loam, dark grayish brown (10YR 4/2) dry, very dark brown (10YR 2/2) moist; weak thick platy structure and moderate fine granular; slightly hard, friable, slightly sticky and slightly plastic; many very fine and fine roots; neutral (pH 6.6); abrupt smooth boundary
+
+ A--20 to 43 cm; silt loam, dark grayish brown (10YR 4/2) dry, very dark brown (10YR 2/2) moist; weak coarse prismatic structure and moderate fine granular; hard, friable, slightly sticky and plastic; many very fine and fine roots; many very fine pores; slightly acid (pH 6.4); clear wavy boundary
+
+ BA--43 to 66 cm; silt loam, brown (10YR 5/3) dry, brown (10YR 4/3) moist; moderate fine prismatic structure; hard, firm, sticky and plastic; many very fine and fine roots; many very fine pores; coatings of clean very fine sand and silt grains on peds and in pores; few thin clay films visible below coatings on peds; neutral (pH 6.6); gradual wavy boundary
+
+ Bt1--66 to 155 cm; silty clay loam, pale brown (10YR 6/3) dry, brown (10YR 4/3) moist; moderate medium prismatic structure parting to moderate fine subangular blocky; very hard, firm, very sticky and very plastic; common fine roots; many very fine pores; thin clay films on peds and in some pores; coatings of clean silt or very fine sand on prism faces; few black (10YR 2/1) manganese coatings and very fine concretions; neutral (pH 6.8); gradual wavy boundary
+
+ Bt2--155 to 203 cm; silty clay loam, pale brown (10YR 6/3) dry, brown (10YR 5/3) moist; moderate medium prismatic structure parting to moderate fine subangular blocky; hard, firm, sticky and plastic; few very fine roots; many very fine pores; thin continuous clay films on peds and in pores; common black (10YR 2/1) manganese coatings and very fine concretions; neutral (pH 6.8)
+
+TYPE LOCATION: Spokane County, Washington, about 9 km southeast of Fairfield, Washington; about 245 m south and 25 m west of the northeast corner of section 2, T. 21 N., R. 45 E.; Willamette Meridian; Tekoa Mountain, Washington, U.S. Geological Survey topographic quadrangle; latitude 47.3452988, longitude -117.0673828, datum WGS 84 (coordinates estimated from PLSS details)
+
+RANGE IN CHARACTERISTICS:
+Mean annual soil temperature--8 to 11 degrees C
+Moisture control section--usually moist, but dry in all parts between depths of 10 and 30 cm 60 to 75 consecutive days following summer solstice
+Thickness of mollic epipedon--10 to 20 inches
+Average content of clay in particle-size control section--30 to 35 percent
+
+Ap horizon
+Thickness--15 to 25 cm
+
+A horizon
+Value--4 or 5 dry, 1 to 3 moist
+Chroma--1 or 2 moist or dry
+Reaction--5.6 to 7.3
+Thickness--13 to 25 cm
+
+BA horizon
+Value--5 or 6 dry, 3 or 4 moist
+Chroma--2 to 4 moist or dry
+Texture--silt loam, silty clay loam
+Reaction--6.1 to 7.3
+Thickness--20 to 50 cm
+
+Bt horizon
+Hue--10YR, 7.5YR
+Value--5 or 6 dry, 3 to 5 moist
+Chroma--3 to 6 moist or dry
+Texture--silt loam, silty clay loam
+Reaction--6.1 to 7.8
+Combined thickness--115 to 180 cm
+
+In some pedons, the peds in the upper part of the Bt horizon are coated with light gray very fine sand and silt from a few grains to 1 mm thick.
+
+COMPETING SERIES:
+Darrah--Btb horizon; 35 to 50 percent clay in lower part of control section; as much as 5 percent gravel and cobbles
+Uhlorn--lithologic discontinuity in lower part of control section; as much as 10 percent gravel and veins of lime in lower part of some pedons
+
+GEOGRAPHIC SETTING:
+Elevation--550 to 975 m
+Mean annual precipitation--460 to 635 mm
+Climate--warm, dry summers; cool, moist winters
+Mean annual air temperature--8 to 10 degrees C
+Frost-free season--110 to 160 days
+
+GEOGRAPHICALLY ASSOCIATED SOILS:
+Caldwell, Latah, Latahco--on bottomland
+Garfield--ochric epipedon; on eroded ridgetops
+Palouse--no argillic horizon; mollic epipedon more than 50 cm thick
+Thatuna--seasonal perched water table at a depth of 60 to 120 cm from mineral soil surface
+Larkin--base saturation less than 75 percent between depths of 25 and 75 cm; lithologic discontinuity in areas that consist of residuum underlain by basalt
+
+DRAINAGE AND SATURATED HYDRAULIC CONDUCTIVITY:
+Drainage class--well drained
+Saturated hydraulic conductivity (Ksat)--moderately high
+
+USE AND VEGETATION:
+Use--dominantly crop production
+Common crops--small grain, dry peas and lentils, hay, forage
+Natural vegetation--Idaho fescue, bluebunch wheatgrass, Sandberg bluegrass, arrowleaf balsamroot, common snowberry, wild rose
+
+DISTRIBUTION AND EXTENT: Eastern Washington and northwest Idaho; MLRA 9; large extent
+
+MLRA SOIL SURVEY REGIONAL OFFICE (MO) RESPONSIBLE: Portland, Oregon
+
+SERIES ESTABLISHED: Spokane, Washington; 1961
+
+REMARKS:
+Diagnostic horizons and other features in this pedon
+*Mollic epipedon--zone from surface to a depth of 43 cm
+*Argillic horizon--zone from 66 to 203 cm
+
+6/2016--This official series description (OSD) was updated as part of the final correlation of the Spokane County, Washington, soil survey. The formatting was updated according to SSR1 Technical Note 11--Content and Format of Official Series Descriptions (revised 12/2015).
+
+ADDITIONAL DATA: NSSL pedon numbers 86P0073, 86P0068, 85P0245, and 99P0330
+
+National Cooperative Soil Survey
+U.S.A.

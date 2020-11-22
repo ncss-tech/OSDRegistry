@@ -1,0 +1,107 @@
+LOCATION ABYSS                  AK
+
+Established Series
+IRD SMC/NDP/SCD
+08/2020
+
+ABYSS SERIES
+
+Landscape--valley of drift plain
+Landform--high flood plains
+Slope--0 to 5 percent
+Parent material--sandy alluvium
+Mean annual precipitation--about 1400 mm
+Mean annual air temperature--about 5 degrees C
+Depth class--very deep
+Drainage class--somewhat poorly drained
+Soil moisture regime--aquic
+Soil temperature regime--cryic
+Soil moisture subclass--typic
+
+TAXONOMIC CLASS: Sandy, mixed Typic Cryaquents
+
+TYPICAL PEDON: Abyss loam on a high flood plain, on a slopes of 1 percent at sea level (When described on June 6, 2015, the soil was moist to a depth of 30 cm and wet below that depth.)
+
+ C1--0 to 13 cm; loam, light brownish gray (10YR 6/2) dry, dark grayish brown (10YR 4/2) moist; 25 percent medium dark yellowish brown (10YR 4/6) mottles; massive; slightly hard, friable, slightly sticky and slightly plastic; common very fine, fine, and medium roots throughout; common very fine and fine interstitial pores; slightly alkaline (pH 7.5); gradual wavy boundary
+
+ C2--13 to 30 cm; sand, light gray (5Y 7/1) dry, gray (5Y 5/1) moist; massive; soft, very friable, nonsticky and nonplastic; common very fine and medium roots throughout; common very fine and fine interstitial pores; slightly alkaline (pH 7.6); diffuse irregular boundary
+
+ Cg--30 to 150 cm; sand, dark gray (2.5Y 4/1) dry, very dark gray (N 3/0) moist; massive; soft, very friable, nonsticky and nonplastic; common fine and medium roots throughout; few fine interstitial pores; slightly alkaline (pH 7.7)
+
+TYPE LOCATION: Hoonah-Angoon Census Area, Alaska; latitude 58.4102570, longitude -135.6592080, datum WGS84 (coordinates determined by a GPS unit)
+
+RANGE IN CHARACTERISTICS:
+Mean annual soil temperature--1 to 7 degrees C
+Soil moisture control section--dry less than 45 consecutive days in June through October (udic)
+Depth to redoximorphic features--25 to 50 cm
+Clay content in particle-size control section--0 to 3 percent
+
+C1 horizon
+Hue--10YR, 2.5Y; variegated
+Value--4 to 5 moist or dry
+Chroma--2 to 3 moist, 3 to 4 dry
+Fine-earth texture--loam, sandy loam, loamy sand
+Clay content--0 to 3 percent
+Reaction (pH)--7.1 to 7.7
+Thickness--13 to 21 cm
+
+C2 horizon
+Hue--5Y; variegated
+Value--3 to 5 moist or dry
+Chroma--1 to 3 moist or dry
+Fine-earth texture--sand, coarse sand
+Clay content--0 to 2 percent
+Reaction (pH)--7.6 to 7.9
+Thickness--17 to 49 cm
+
+Cg horizon
+Hue--neutral to 5GY moist, 2.5Y or 5Y dry
+Value--2.5 to 4 moist, 3 or 4 dry
+Chroma--0 to 2 moist, 1 or 2 dry
+Clay content--0 to 2 percent
+Reaction (pH)--7.7 to 8.1
+Thickness--82 to 122 cm
+
+COMPETING SERIES:
+Ashmun--aquic conditions within 25 cm of soil surface; lithologic discontinuity
+Chilkoot--aquic conditions within 25 cm of soil surface; stratified sandy textures; as much as 20 percent coarse fragments in lower part
+Monashka--aquic conditions within 10 cm of soil surface; free carbonates throughout particle-size control section
+Perouse--aquic conditions within 10 cm of soil surface; free carbonates throughout particle-size control section
+Stave (T)--aquic conditions at or near the soil surface (poorly defined series)
+Topsy--lithologic discontinuity; aquic conditions within 20 cm of soil surface
+
+GEOGRAPHIC SETTING:
+Elevation--0 to 6 m
+Climate--cool, moist summers; mild, wet winters
+Mean annual precipitation--850 to 1850 mm
+Mean annual air temperature--1 to 7 degrees C
+Frost-free period--90 to 154 days
+
+GEOGRAPHICALLY ASSOCIATED SOILS:
+Scidmore--cambic horizon; not subject to flooding; on adjacent landforms
+Sitakaday--aquic conditions within 20 cm of soil surface; on similar landforms
+
+DRAINAGE AND SATURATED HYDRAULIC CONDUCTIVITY:
+Drainage class--somewhat poorly drained
+Saturated hydraulic conductivity (Ksat)--high in C1 horizon, very high in C2 and Cg horizons
+Flooding--occasional, very brief periods
+Saturation in normal years--between depths of 30 and 150 cm
+
+USE AND VEGETATION:
+Use--wildlife habitat, recreation
+Potential natural vegetation--seacoast angelica, marsh grass of Parnassus, little yellow rattle, goose neck moss, Barclay's willow, common cow parsnip, red fescue, common yarrow, Lyngbye's sedge, Nootka lupine
+
+DISTRIBUTION AND EXTENT: Alexander Archipelago-Gulf of Alaska Coast, Alaska; MLRA 220; small extent
+
+SOIL SURVEY REGIONAL OFFICE (SSRO) RESPONSIBLE: Portland, Oregon
+
+SERIES ESTABLISHED: Glacier Bay National Park and Preserve-Gustavus Area, Alaska; 2020; name from Abyss Lake in Glacier Bay National Park and Preserve
+
+REMARKS:
+Diagnostic horizons and other features in this pedon
+*Reduced matrix--zone from 30 to 150 cm
+*Aquic conditions--zone from 30 to 150 cm
+*Particle-size control section--zone from 25 to 100 cm
+
+National Cooperative Soil Survey
+U.S.A.

@@ -1,0 +1,107 @@
+LOCATION COSH                   TX
+
+Established Series
+Rev. ALN-ERB-JCW
+01/2017
+
+COSH SERIES
+
+The Cosh series consists of shallow, well drained, moderately permeable soils that formed in weakly cemented sandstone. These soils are on gently sloping to sloping uplands.  Slope ranges from 1 to 8 percent. Mean annual precipitation is about 635 mm (25 in), and mean annual air temperature is about 17.2 degrees C (63 degrees F).
+
+TAXONOMIC CLASS: Loamy, mixed, active, thermic, shallow Typic Rhodustalfs
+
+TYPICAL PEDON:  Cosh fine sandy loam--rangeland.
+     (Colors are for dry soil unless otherwise stated.)
+
+     A1--0 to 15 cm (0 to 6 in); reddish brown (2.5YR 5/4) fine sandy loam, dark reddish brown (2.5YR 3/4) moist; weak very fine granular structure and single grained; hard, very friable; many grass roots; many very fine and few fine pores; neutral clear smooth boundary.  Thickness is 10 to 25 cm (4 to 10 in)
+
+     Bt--15 to 41 cm (6 to 16 in); reddish brown (2.5YR 4/4) sandy clay loam, dark reddish brown (2.5YR 3/4) moist; moderate coarse prismatic structure, parting to fine and very fine subangular blocky structure; very hard, friable; many grass roots; many fin and very fine pores; few wormcasts; few faint clay films on prism faces; neutral; abrupt smooth boundary.  Thickness is 15 to 36 cm (6 to 14 in)
+
+     Cr--41 to 61 cm (16 to 24 in); red (2.5YR 4/6) weakly cemented sandstone; massive; extremely hard; neutral.
+
+TYPE LOCATION:  Hardeman County, Texas; from the intersection of U.S. Highway 287 and Texas Highway 6 in Quanah, about 10 miles south on Texas Highway 6, then about 3.5 miles east on county road, then about 0.65 mile south on county road, 100 feet west of county road in rangeland. 
+USGS topographic quadrangle: Big Mound, Texas;
+Latitude: 34 degrees, 07 minutes, 58.6 seconds N;
+Longitude: 99 degrees, 40 minutes, 46.8 seconds W;
+Datum: WGS84
+
+RANGE IN CHARACTERISTICS:  
+Depth to paralithic bedrock: 30 to 51 cm (12 to 20 in)
+Rock fragments: 0 to 5 percent gravel; 0 to 2 percent cobbles; strongly to very strongly cemented sandstone; in the soil and on the surface
+
+Particle-size control section (weighted average)
+   Clay content: 18 to 35 percent
+
+A Horizon
+Hue: 2.5YR to 7.5YR
+Value: 4 to 5
+Chroma: 3 to 4
+Texture: mostly fine sandy loam, but varies to loamy fine sand in some pedons that are winnowed
+Organic Matter: less than 1 percent
+Effervescence: none
+Reaction (pH): slightly acid to slightly alkaline (6.1 - 7.8)
+
+Bt Horizon
+Hue: 10R to 2.5YR
+Value: 3 to 5
+Chroma: 4 to 6
+Texture: sandy clay loam, fine sandy loam
+Clay content: 18 to 35 percent
+Calcium carbonate equivalent: 0 to 2 percent
+Effervescence: none to slight
+Reaction (pH): neutral to slightly alkaline (6.6 - 7.8)
+
+Cr Horizon
+Color: red to reddish brown
+Texture: weakly consolidated to hard sandstone with a hardness of about 2 on Moh's scale
+Cementation: extremely weakly to moderately
+Identifiable secondary carbonate: typically none, but in a few places thin calcium carbonate coats occur in cracks and fractures
+Effervescence: typically noncalcareous
+
+COMPETING SERIES: There are no series in the same family. Similar soils are the Cobb, Dill, Jolly, Latom, Oben,  Quinlan, and Spikebox series.
+Cobb and Dill soils: are more than 51 cm (20 in) deep to bedrock and Dill soils do not have an argillic horizon
+Latom, Quinlan, and Spikebox soils: do not have an argillic horizon  
+Oben soils: have argillic horizons in hues of 5YR or yellower
+
+GEOGRAPHIC SETTING:
+Parent material: typically noncalcareous, medium-grained sandstone of the San Angelo Sandstone of Permian age that are interbedded in places with calcareous clayey and silty redbeds, but is also mapped in Triassic age sandstone
+Landscape: dissected plain
+Landform: convex to plane interfluves and side slopes of hillslopes
+Slope: 1 to 8 percent, but are mostly about 1 to 4 percent
+Mean annual precipitation: 559 to 711 mm (22 to 28 in)
+Thornthwaite P-E Index: 28 to about 40
+Mean annual air temperature: 15.6 to 17.8 degrees C (60 to 64 degrees F)
+Frost-free period: 210 to 240 days
+Elevation: 304.8 to 762.0 m (1000 to 2500 ft)
+
+GEOGRAPHICALLY ASSOCIATED SOILS:  These are the Cobb, Decobb, Latom, and Spikebox series.
+Cobb soils: occur on similar to slightly lower positions
+Decobb soils: are deep to bedrock and occur on lower less sloping areas
+Latom and Spikebox soils: occur on similar to slightly higher positions
+
+DRAINAGE AND PERMEABILITY:  Well drained.  Runoff is slow to rapid. Permeability is moderate.
+
+USE AND VEGETATION:  Dominantly used for rangeland.  About 40 percent of these soils are in cultivation.  Native grasses consist mainly of buffalograss, blue grama, sideoats grama, little bluestem, and threeawn.  Mesquite trees occur in some areas.
+
+DISTRIBUTION AND EXTENT:  Western Texas and southwestern Oklahoma. Land Resource Region H - Central Great plains Winter Wheat and Range Region. The Central Rolling Red Plains (MLRA 78). The series is of small extent.
+
+MLRA SOIL SURVEY REGIONAL OFFICE (MO) RESPONSIBLE: Temple, Texas
+
+SERIES ESTABLISHED:  Hardeman County, Texas; 1966.
+
+REMARKS:  These soils were formerly classified in the Reddish Chestnut great soil group.
+
+Edited 01/2017 (RFG-ROG): Changed to tabular format. Added metric measurements. Updated competing series, geographic setting, and associated soils sections.
+
+Diagnostic horizons and features recognized in this pedon are:
+Particle size control section: 15 to 41 cm (6 to 16 in). (Bt horizon) 
+Ochric epipedon: 0 to 15 cm (0 to 6 in). (A horizon) 
+Argillic horizon: 15 to 41 cm (6 to 16 in). (Bt horizon)
+Paralithic contact: The contact with weakly cemented sandstone at 41 cm (16 in). (Cr horizon)
+
+ADDITIONAL DATA: None 
+
+Taxonomic Version: Keys to Soil Taxonomy, Twelfth Edition, 2014
+
+National Cooperative Soil Survey
+U.S.A.

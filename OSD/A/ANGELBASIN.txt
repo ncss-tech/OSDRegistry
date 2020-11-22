@@ -1,0 +1,175 @@
+LOCATION ANGELBASIN             OR
+
+Established Series
+REV. RJO/JLW/DAL
+11/2018
+
+ANGELBASIN SERIES
+
+Landscape--mountains
+Landform--mountain slopes
+Slope--0 to 90 percent
+Parent material--thin mantle of volcanic ash over till derived from granite
+Mean annual precipitation--about 990 mm
+Mean annual air temperature--about 2 degrees C
+Depth class--moderately deep to lithic bedrock
+Drainage class--well drained
+Soil moisture regime--udic
+Soil temperature regime--cryic
+Soil moisture subclass--typic
+
+TAXONOMIC CLASS: Loamy-skeletal, isotic Andic Dystrocryepts
+
+TYPICAL PEDON: Angelbasin ashy silt loam in an area of woodland, on a 25-percent, concave, northeast-facing slope at an elevation of 1900 m
+
+ Oi--0 to 3 cm; slightly decomposed needles and moss
+
+ A--3 to 18 cm; ashy silt loam, light yellowish brown (10YR 6/4) dry, brown (10YR 4/3) moist; weak medium subangular blocky structure; loose, very friable, nonsticky and nonplastic; common fine, medium, and coarse roots; common fine tubular pores; 5 percent gravel; moderately acid (pH 6.0); clear wavy boundary
+
+ Bw--18 to 33 cm; ashy silt loam, yellow (10YR 7/6) dry, yellowish brown (10YR 5/6) moist; weak medium and fine angular blocky structure; soft, very friable, nonsticky and nonplastic; common fine, medium, and coarse roots; few fine and common medium tubular pores; 5 percent gravel and 5 percent cobbles; moderately acid (pH 6.0); abrupt wavy boundary
+
+ 2Bw--33 to 69 cm; extremely stony sandy loam, light yellowish brown (10YR 6/4) dry, dark yellowish brown (10YR 4/4) moist; weak medium subangular blocky structure; soft, very friable, nonsticky and nonplastic; few fine and common medium and coarse roots; few fine tubular pores; 25 percent gravel, 20 percent cobbles, and 20 percent stones; moderately acid (pH 6.0); gradual smooth boundary
+
+ 2C--69 to 99 cm; extremely stony loamy sand, very pale brown (10YR 7/4) dry, light yellowish brown (10YR 6/4) moist; single grain; loose, nonsticky and nonplastic; few fine, medium, and coarse roots; common fine irregular pores; 45 percent gravel, 20 percent cobbles, and 20 percent stones; moderately acid (pH 6.0); abrupt irregular boundary
+
+ 2R--99 cm; granitic rock
+
+TYPE LOCATION: Baker County, Oregon; in the NE1/4SW1/4NW1/4 of section 10, T. 7 S., R. 37 E.; latitude 44.9723511, longitude -118.1754913, datum WGS 84 (unknown how coordinates were determined)
+
+RANGE IN CHARACTERISTICS:
+Mean annual soil temperature--0 to 5 degrees C
+Mean summer soil temperature--about 3 to 9 degrees C
+Mean winter soil temperature--about -4 to 2 degrees C
+Soil moisture--dry 30 to 45 consecutive days in summer
+Depth to lithic contact--50 to 100 cm
+Thickness of ash-influenced layers--18 to 36 cm
+
+Estimated properties of layers influenced by volcanic ash
+*Ammonium oxalate extractable Al + Fe--1.5 to 3.0 percent
+*0.02- to 2.0-mm fraction--40 to 60 percent
+*Volcanic ash content in 0.02- to 2.0-mm fraction--50 to 75 percent
+*1/3-bar bulk density--0.75 to 1.00 g/cm3
+*Phosphate retention--60 to 90 percent
+*15-bar water retention--5 to 10 percent (dried samples)
+*8 x Si plus 2 x Fe--5 to 10 percent
+
+Particle-size control section
+*Clay content--5 to 10 percent
+*Total rock fragment content--35 to 75 percent
+
+A horizon
+Hue--7.5YR, 10YR
+Value--3 or 4 dry, 4 to 6 moist
+Chroma--3 or 4, dry or moist
+Fine-earth texture--ashy silt loam
+Clay content--4 to 6 percent
+Sand content--30 to 40 percent
+Organic matter content--1.0 to 4.5 percent
+Total rock fragment content--5 to 35 percent
+Gravel content--5 to 20 percent
+Cobble content--0 to 10 percent
+Stone content--0 to 10 percent
+Reaction--5.1 to 6.0
+Base saturation (NH4OAc)--15 to 35 percent
+Thickness--8 to 15 cm
+
+Bw horizon
+Hue--7.5YR, 10YR
+Value--5 to 7 dry, 3 to 5 moist
+Chroma--4 to 6 dry or moist
+Fine-earth texture--ashy silt loam
+Clay content--2 to 6 percent
+Sand content--40 to 50 percent
+Organic matter content--0.5 to 2.5 percent
+Total rock fragment content--10 to 35 percent
+Gravel content--5 to 20 percent
+Cobble content--5 to 10 percent
+Stone content--0 to 10 percent
+Reaction--5.6 to 7.3
+Base saturation (NH4OAc)--15 to 35 percent
+Thickness--15 to 28 cm
+
+2Bw horizon
+Value--5 or 6 dry, 3 or 4 moist
+Chroma--3 or 4 dry or moist
+Fine-earth texture--sandy loam, loamy sand
+Clay content--5 to 10 percent
+Sand content--60 to 85 percent
+Organic matter content--2.5 to 4.0 percent
+Total rock fragment content--35 to 65 percent
+Gravel content--10 to 30 percent
+Cobble content--10 to 25 percent
+Stone content--10 to 20 percent
+Reaction--5.1 to 7.3
+Base saturation (NH4OAc)--20 to 40 percent
+Thickness--15 to 36 cm
+
+2C horizon
+Value--5 to 7 dry, 3 or 4 moist
+Chroma--3 or 4 dry or moist
+Fine-earth texture--sandy loam, loamy sand
+Clay content--0 to 5 percent
+Sand content--60 to 85 percent
+Organic matter content--0 to 2 percent
+Total rock fragment content--45 to 85 percent
+Gravel content--10 to 45 percent
+Cobble content--15 to 25 percent
+Stone content--15 to 25 percent
+Reaction--5.6 to 7.3
+Base saturation (NH4OAc)--20 to 40 percent
+Thickness--13 to 46 cm
+
+COMPETING SERIES:
+McCay--deep to paralithic contact (weathered granite)
+Prouty--moderately deep to paralithic contact (weathered granite)
+Skinwood--medial andic soil properties; dry 0 to 30 consecutive days
+Smokejump--ashy sandy loam in ash mantle
+Tepeh--no lithic contact in the upper 150 cm
+Twentymile--moderately deep to densic contact
+Venson--sandy loam throughout
+
+GEOGRAPHIC SETTING:
+Lithology--granite
+Elevation--1720 to 2380 m
+Climate--cold, moist winters; cool, moist summers
+Mean annual precipitation--680 to 1650 mm
+Mean annual air temperature--1 to 4 degrees C
+Frost-free period--10 to 65 days
+
+GEOGRAPHICALLY ASSOCIATED SOILS:
+Hoffer--mantle of volcanic ash more than 35 cm thick; associated with more gently sloping, mid to lower, concave to planar slopes
+Marblepoint--very deep; associated with slopes of glacial moraines
+Muddycreek--layer of volcanic ash less than 18 cm thick; associated with steep, planar to convex slopes in forested areas
+Mudlakebasin--mantle of volcanic ash more than 35 cm thick; on heavily forested glacial benches
+Rockcreekbutte--layer of volcanic ash less than 18 cm thick; associated with steep, planar to convex slopes in forested areas
+Pattenbutte--shallow; associated with moderately steep, south-facing slopes
+
+DRAINAGE AND SATURATED HYDRAULIC CONDUCTIVITY:
+Saturation during normal years--none
+Flooding--none
+Ponding--none
+Saturated hydraulic conductivity (Ksat)--moderately high over high
+
+USE AND VEGETATION:
+Use--watershed, recreation, timber production, wildlife habitat
+Native vegetation--subalpine fir, Engelmann spruce, lodgepole pine, Douglas-fir, western larch, grouse huckleberry, heartleaf arnica, darkwoods violet, big huckleberry, pinegrass, prince's pine, Utah honeysuckle, sweetcicely, sidebells wintergreen, elk sedge, lupine, pink mountain-heather, Sitka valerian, sickletop lousewort, skunkleaf polemonium, western meadow-rue, Ross' sedge
+
+DISTRIBUTION AND EXTENT: Elkhorn and Wallowa Mountain Ranges of northeastern Oregon; MLRA 43C; moderate extent
+
+SOIL SURVEY REGIONAL OFFICE (SSRO) RESPONSIBLE: Portland, Oregon
+
+SERIES ESTABLISHED: Wallowa-Whitman National Forest, Oregon; 2012
+
+REMARKS:
+Diagnostic horizons and other features in this pedon
+*Ochric epipedon
+*Cambic horizon--zone from 18 to 69 cm
+*Volcanic glass--zone from 3 to 33 cm
+*Andic soil properties--zone from 3 to 33 cm
+*Depth to lithologic discontinuity--33 cm
+*Particle-size control section--zone from 28 to 99 cm
+
+5/2016--This official series description was updated according to SSR1 Technical Note 11--Content and Format of Official Series Descriptions (revised 12/2015). Most of the changes were in formatting; no major technical changes were made.
+
+National Cooperative Soil Survey
+U.S.A.

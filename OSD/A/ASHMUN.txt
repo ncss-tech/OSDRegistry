@@ -1,0 +1,124 @@
+LOCATION ASHMUN                 AK
+
+Established Series
+Rev. JWM/NDP/SCD
+05/2020
+
+ASHMUN SERIES
+
+Landscape--mountain valleys
+Landform--flood plains, outwash plains
+Slope--0 to 5 percent
+Parent material--loess over alluvium
+Mean annual precipitation--about 3600 mm
+Mean annual air temperature--about 4 degrees C
+Depth class--very deep
+Drainage class--very poorly drained
+Soil moisture regime--aquic
+Soil temperature regime--cryic
+Soil moisture subclass--typic
+
+TAXONOMIC CLASS: Sandy, mixed Typic Cryaquents
+
+TYPICAL PEDON: Ashmun silt loam under forest vegetation, on a nearly level flood plain at an elevation of 12 m (When described on June 3, 1982, the soil was moist from the surface to a depth of 38 cm and wet below that depth.)
+
+ Oi--0 to 5 cm; slightly decomposed plant material; moderately acid (pH 6.0); abrupt smooth boundary
+
+ A--5 to 8 cm; silt loam, dark grayish brown (10YR 4/2) dry, very dark brown (10YR 2/2) moist; weak fine granular structure; soft, very friable, nonsticky and nonplastic; many very fine, fine, medium, and coarse roots; slightly acid (pH 6.4); abrupt smooth boundary
+
+ 2Cg1--8 to 23 cm; loamy fine sand, grayish brown (2.5Y 5/2) dry, very dark grayish brown (2.5Y 3/2) moist; single grain; loose, nonsticky and nonplastic; 5 percent medium distinct dark brown (10YR 3/3) redoximorphic concentrations; many very fine, fine, medium, and coarse roots; neutral (pH 6.8); gradual wavy boundary
+
+ 2Cg2--23 to 58 cm; sand, gray (7.5YR 5/1) dry, very dark gray (7.5YR 3/1) moist; single grain; loose, nonsticky and nonplastic; 1 percent fine faint dark brown (10YR 3/3) redoximorphic concentrations; common fine and medium roots; slightly effervescent; slightly alkaline (pH 7.4); abrupt wavy boundary
+
+ 2Cg3--58 to 150 cm; sand, gray (7.5YR 5/1) dry, very dark gray (7.5YR 3/1) moist; single grain; loose, nonsticky and nonplastic; common fine and medium roots decreasing to few fine roots as depth increases; strongly effervescent; slightly alkaline (pH 7.4)
+
+TYPE LOCATION: Haines Borough Census Area, Alaska; in the SE1/4NW 1/4 of section 31 T. 30 S., R. 59 E., Copper River Meridian (coordinates estimated from PLSS details)
+
+RANGE IN CHARACTERISTICS:
+Mean annual soil temperature--1 to 7 degrees C
+Soil moisture control section--normally saturated at or near the soil surface year round
+Depth to redoximorphic iron concentrations--8 to 150 cm
+
+Particle-size control section
+*Clay content--0 to 5 percent
+*Total rock fragment content--0 to 25 percent
+
+Oi horizon
+Thickness--3 to 8 cm
+
+A horizon
+Hue--7.5YR to 2.5Y moist or dry
+Value--2 to 5 moist, 4 to 7 dry
+Chroma--1 to 4 moist or dry
+Fine-earth texture--silt loam, fine sandy loam
+Clay content--0 to 5 percent
+Sand content--25 to 45 percent
+Total rock fragment content--0 to 10 percent
+Gravel content--0 to 10 percent
+Cobble content--0 to 5 percent
+Reaction (pH)--6.1 to 7.8
+Thickness--0 to 8 cm
+
+2Cg1, 2Cg2, and 2Cg3 horizons
+Hue--10YR to 5Y moist or dry
+Value--3 to 5 moist, 5 to 7 dry
+Chroma--1 to 3 moist or dry
+Fine-earth texture--sand, loamy fine sand
+Clay content--0 to 5 percent
+Sand content--70 to 95 percent
+Total rock fragment content--0 to 25 percent
+Gravel content--0 to 25 percent
+Cobble content--0 to 5 percent
+Reaction (pH)--6.6 to 8.4
+Effervescence--noneffervescent to strongly effervescent
+Thickness--0 to 150 cm
+
+COMPETING SERIES:
+Abyss--aquic conditions below a depth of 30 to 150 cm (somewhat poorly drained); occasional flooding
+Chilkoot--pH of 5.1 to 6.5 in control section
+Monashka, Perouse--no lithologic discontinuity
+Topsy--no flooding; aquic conditions within 25 cm of soil surface (poorly drained)
+
+GEOGRAPHIC SETTING:
+Elevation--0 to 305 m
+Climate--cool, moist summers; mild, wet winters
+Mean annual precipitation--530 to 6360 mm
+Mean annual air temperature--0 to 8 degrees C
+Frost-free period--90 to 150 days
+
+GEOGRAPHICALLY ASSOCIATED SOILS:
+Hollow--aquic conditions below a depth of 25 to 50 cm (somewhat poorly drained); on similar landforms
+Lutak--spodic horizon; on adjacent alluvial terraces and moraines
+Skagway--aquic conditions below a depth of 25 to 50 cm (somewhat poorly drained); on similar landforms
+Tsirku--aquic conditions below a depth of 25 to 50 cm (somewhat poorly drained); on similar landforms
+
+DRAINAGE AND SATURATED HYDRAULIC CONDUCTIVITY:
+Drainage class--very poorly drained
+Depth to saturation in normal years--8 to 150 cm
+Flooding--frequent, long periods in some areas
+Ponding--frequent, very long periods in some areas
+Saturated hydraulic conductivity (Ksat)--moderately high or high in A horizon, high or very high in 2Cg horizon
+
+USE AND VEGETATION:
+Use--wildlife habitat, recreation, subsistence
+Potential native vegetation--cottonwood, Sitka alder, devilsclub, mosses
+
+DISTRIBUTION AND EXTENT: Alexander Archipelago-Gulf of Alaska Coast, Alaska; MLRA 220; moderate extent
+
+SOIL SURVEY REGIONAL OFFICE (SSRO) RESPONSIBLE: Portland, Oregon
+
+SERIES ESTABLISHED: Haines Area, Alaska; 1985
+
+REMARKS:
+Diagnostic horizons and other features recognized in this pedon
+*Ochric epipedon
+*Aquic conditions--zone from 8 to 150 cm
+*Reduced matrix--zone from 8 to 150 cm
+*Free carbonates--zone from 23 to 150 cm
+*Lithologic discontinuity--zone from 8 to 150 cm
+*Particle-size control section--zone from 30 to 105 cm
+
+5/2020--A frequently ponded phase is mapped in Glacier Bay National Park and Preserve. The Ashmun series includes the concepts of the former Stave series that was poorly defined. This official series description was updated according to SSR01 Technical Note-Content and Format of Official Series Descriptions (revised 12/2015). Most of the changes were in formatting, but the Glacier Bay National Park and Preserve area was included.
+
+National Cooperative Soil Survey
+U.S.A.

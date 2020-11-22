@@ -1,0 +1,123 @@
+LOCATION SAGEHILL               WA+OR
+
+Established Series
+Rev. HRG/RJE/TLA/RWL
+09/2019
+
+SAGEHILL SERIES
+
+Landscape--valleys
+Landform--terraces, terrace escarpments
+Slope--0 to 60 percent
+Parent material--lacustrine deposits with a mantle of loess or eolian deposits
+Mean annual precipitation--about 180 mm
+Mean annual air temperature--about 10 degrees C
+Depth class--very deep, deep
+Drainage class--well drained
+Soil moisture regime--aridic
+Soil temperature regime--mesic
+Soil moisture subclass--xeric
+
+TAXONOMIC CLASS: Coarse-loamy, mixed, superactive, mesic Xeric Haplocalcids
+
+TYPICAL PEDON: Sagehill very fine sandy loam, cultivated (All textures are apparent field textures.)
+
+ Ap--0 to 20 cm; very fine sandy loam, brown (10YR 5/3) dry, dark brown (10YR 3/3) moist; very weak fine granular structure; soft, very friable, nonsticky and nonplastic; common very fine roots; many very fine and fine irregular pores; slightly alkaline (pH 7.6); abrupt smooth boundary
+
+ Bw--20 to 48 cm; very fine sandy loam, brown (10YR 5/3) dry, dark brown (10YR 3/3) moist; weak very coarse prismatic structure; soft, very friable, nonsticky and nonplastic; common very fine roots; many very fine and fine irregular pores; slightly alkaline (pH 7.8); abrupt wavy boundary
+
+ 2Bk1--48 to 76 cm; very fine sandy loam, pale brown (10YR 6/3) dry, grayish brown (2.5Y 5/2) moist; weak very coarse prismatic structure; slightly hard, friable, nonsticky and nonplastic; common very fine roots; common very fine and fine irregular pores; few spheroidal secondary lime aggregates; strongly effervescent; moderately alkaline (pH 8.4); abrupt wavy boundary
+
+ 2Bk2--76 to 99 cm; silt loam, light brownish gray (2.5Y 6/2) dry, grayish brown (2.5Y 5/2) moist; massive; hard, firm, slightly sticky and slightly plastic; few very fine roots; common very fine and fine irregular pores; secondary lime in seams; violently effervescent; moderately alkaline (pH 8.4); abrupt wavy boundary
+
+ 2Bk3--99 to 132 cm; very fine sandy loam, light brownish gray (2.5Y 6/2) dry, grayish brown (2.5Y 5/2) moist, massive; slightly hard, friable, nonsticky and nonplastic; few very fine roots; common very fine irregular pores; common secondary lime aggregates; violently effervescent; strongly alkaline (pH 8.6); abrupt smooth boundary
+
+ 2Bk4--132 to 150 cm; very fine sandy loam, light brownish gray (2.5Y 6/2) dry, grayish brown (2.5Y 5/2) moist; massive; slightly hard, friable, nonsticky and nonplastic; few very fine roots; common very fine irregular pores; few spheroidal secondary lime aggregates; strongly effervescent; strongly alkaline (pH 8.6)
+
+TYPE LOCATION: Grant County, Washington; about 3 km north of Warden; 770 m north and  660 m east of the northwest corner of section 32, T. 18 N., R. 30 E.
+
+RANGE IN CHARACTERISTICS:
+Mean annual soil temperature--10 to 13 degrees C
+Soil moisture--usually dry in all parts between depths of 20 and 60 cm
+Depth to calcium carbonate (calcic horizon)--38 to 76 cm
+Calcium carbonate equivalent in calcic horizon--5 to 35 percent
+Depth to lime- and silica-indurated duripan in some pedons--100 to 150 cm
+
+Ap horizon
+Value--5 or 6 dry, 3 or 4 moist
+Chroma--2 or 3 dry or moist
+Texture--very fine sandy loam, fine sandy loam
+Reaction--6.6 to 8.4
+Thickness--10 to 25 cm
+
+Bw horizon
+Value--5 or 6 dry, 3 or 4 moist
+Chroma--2 or 3 dry or moist
+Texture--very fine sandy loam, silt loam, loamy very fine sand, fine sandy loam
+Reaction--6.6 to 8.4
+Thickness--23 to 50 cm
+
+2Bk horizon
+Hue--2.5Y, 10YR
+Value--4 or 5 moist, 6 or 7 dry
+Chroma--2 or 3 dry or moist
+Texture--stratified silt loam, very fine sandy loam, or fine sandy loam; gravelly coarse sand or very gravelly coarse sand at a depth of 100 to 150 cm in some pedons
+Reaction--7.4 to 9.0
+Combined thickness--greater than 75 cm
+
+COMPETING SERIES:
+Adkins--no calcium secondary calcium carbonate within a depth of 61 cm
+Atlanta--A horizon that has 15 to 25 percent calcium carbonate equivalent
+Bertelson--no cambic horizon
+Briabbit--50 to 100 cm (moderately deep) to a paralithic contact (tuff)
+Crestline--15 to 35 percent gravel in particle-size control section
+Declo--8 to 18 percent clay in particle-size control section; 8 to 46 cm deep to calcic horizon; laminated sediment below a depth of 64 to 100 cm
+Eoyote--8 to 12 percent clay in particle-size control section; 20 to 30 cm deep to calcic horizon
+Escalante--8 to 18 percent clay and 0 to 35 percent gravel in particle-size control section; 15 to 40 percent calcium carbonate equivalent in calcic horizon
+Kecko--10 to 18 percent clay in particle-size control section; 50 to 100 cm deep to calcic horizon
+Somsen--50 to 100 cm (moderately deep) to a lithic contact (basalt); 8 to 18 percent clay and 15 to 35 percent rock fragments in particle-size control section; 18 to 41 cm deep to calcic horizon
+Strevell--10 to 15 percent clay and 5 to 30 percent rock fragments in particle-size control section; 25 to 50 cm deep to calcic horizon
+
+GEOGRAPHIC SETTING:
+Elevation--90 to 400 m in Washington, ranges to 790 m in MLRA 11 in Oregon
+Climate--arid; warm, dry summers; cool, moist winters
+Mean annual precipitation--150 to 250 mm
+Mean January air temperature--about -3 degrees C
+Mean July air temperature--about 22 degrees C
+Mean annual air temperature--about 10 to 12 degrees C
+Frost-free season--135 to 200 days
+
+GEOGRAPHICALLY ASSOCIATED SOILS:
+Hezel--on terraces; coarse texture in upper part of particle-size control section
+Kennewick--on terraces; no cambic horizon; calcareous throughout
+Nyssa--on terraces; silt loam in particle-size control section; duripan
+Quincy--on dunes; sandy
+Owyhee--coarse-silty, laminated, slowly permeable, calcareous sediment at a depth of 50 to 89 cm
+Royal--no calcic horizon
+Sagemoor, Warden--on terraces; coarse-silty
+Shano--on hills; coarse-silty
+Scooteney--averages 20 to 35 percent gravel in particle-size control section
+
+DRAINAGE AND SATURATED HYDRAULIC CONDUCTIVITY:
+Drainage class--well drained
+Saturated hydraulic conductivity (Ksat)--moderately high
+
+USE AND VEGETATION:
+Use-nonirrigated wheat and rye production, livestock grazing, irrigated crop production
+Native vegetation--bluebunch wheatgrass, Sandberg bluegrass, Thurber needlegrass, needle and thread, Wyoming big sagebrush
+
+DISTRIBUTION AND EXTENT: South-central Washington and eastern Oregon; MLRAs 7 and 11; moderate extent
+
+SOIL SURVEY REGIONAL OFFICE (SSRO) RESPONSIBLE: Portland, Oregon
+
+SERIES ESTABLISHED: Malheur County, Oregon; 1975
+
+REMARKS:
+Diagnostic horizons and other features recognized in this pedon
+*Ochric epipedon
+*Cambic horizon--zone from 20 to 48 cm
+*Calcic horizon--zone from 48 to 150 cm
+*Particle-size control section--zone from 25 to 100 cm
+
+National Cooperative Soil Survey
+U.S.A.

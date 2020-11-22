@@ -1,0 +1,130 @@
+LOCATION KONAWA                 OK+KS TX
+
+Established Series
+Rev CEW:CS:JLD
+03/2016
+
+KONAWA SERIES
+
+The Konawa series consists of very deep, well drained soils that formed in sandy and loamy alluvium of Pleistocene age  They are on treads and risers of low stream terraces in the North Cross Timbers (MLRA 84A). Slopes range from 0 to 20 percent. Mean annual precipitation is 914 mm (36 in) and mean annual air temperature is 16 degrees C (61 degrees F).
+
+TAXONOMIC CLASS: Fine-loamy, mixed, active, thermic Ultic Haplustalfs
+
+TYPICAL PEDON: Konawa fine sandy loam in a bermudagrass pasture, at an elevation of 284 m (930 ft).  (Colors are for dry soil unless otherwise stated)
+
+  Ap--0 to 23 cm (0 to 9 in); brown (7.5YR 5/2) fine sandy loam, dark brown (7.5YR 3/2) moist; weak fine granular structure; slightly hard, very friable; slightly acid; clear smooth boundary.  (Thickness of the A horizon is 10 to 25 cm [4 to 10 in])
+
+  E--23 to 43 cm (9 to 17 in); light reddish brown (5YR 6/4) fine sandy loam, reddish brown (5YR 4/4) moist; weak fine granular structure; slightly hard, very friable; slightly acid; clear smooth boundary.  (Thickness of the E horizon is 0 to 43 cm [0 to 17 in])
+
+  Bt--43 to 135 cm (17 to 53 in); red (2.5YR 4/6) sandy clay loam, dark red (2.5YR 3/6) moist; moderate medium subangular blocky structure; very hard, friable; few faint clay films on peds; moderately acid; gradual smooth boundary.  (Thickness of the Bt horizon is 25 to 91 cm [10 to 36 in])
+
+  BC--135 to 183 (53 to 72 in); red (2.5YR 5/6) fine sandy loam, red (2.5YR 4/6) moist; weak coarse subangular blocky structure; very hard, friable; neutral.
+
+TYPE LOCATION: Payne County, Oklahoma; about 8 miles west and 1 mile south of Perkins; about 2000 ft north and 200 ft west of the southeast corner of sec. 10, T. 17 N., R. 1 E.  
+
+USGS Topographic Quadrangle: Coyle, OK
+Latitude: 35 degrees, 57 minutes, 42 seconds N
+Longitude: 97 degrees, 10 minutes, 35 seconds W
+
+Decimal Degrees:
+Latitude: 35.9616667 degrees
+Longitude: -097.1763889 degrees
+Datum: NAD 83
+
+UTM Easting: 664445 m 
+UTM Northing: 3981233 m
+UTM Zone: 14N
+
+RANGE IN CHARACTERISTICS:
+Depth to bedrock: more than 203 cm (80 in)
+Thickness of the A and E horizon: less than 51 cm (20 in)
+
+A horizon: 
+Hue: 5YR to 10YR
+Value: 4 to 7 dry, 3 to 5 moist 
+Chroma: 2 to 6 dry or moist 
+Texture: fine sand, loamy fine sand, or fine sandy loam 
+Other features: thickness of the A horizon is less than 25 cm (10 in) where the organic matter is 1 percent or more
+Cation exchange capacity (CEC, meq/100 gm): 2 to 12 
+Reaction: strongly acid to slightly acid, except where limed  
+
+
+E horizon:
+Hue: 5YR to 10YR 
+Value: 5 to 8 dry, 4 to 7 moist 
+Chroma: 2 to 6 dry or moist  
+Texture: fine sand, loamy fine sand, or fine sandy loam 
+Cation exchange capacity (CEC, meq/100 gm):  2 to 10 
+Reaction: strongly acid to slightly acid, except where limed  
+
+Bt horizon:
+Hue: 2.5YR to 7.5YR 
+Value: 4 to 7 dry, 3 to 5 moist 
+Chroma: 4 to 8 dry or moist  
+Texture: fine sandy loam or sandy clay loam
+Clay content: 18 to 30 percent   
+Coarse fragments: amount-0 to 5 percent by volume; size-gravel, from 2 mm to 10 mm in diameter; kind- sandstone 
+Base saturation: ranges 50 to 70 percent  
+Cation exchange capacity (CEC, meq/100 gm):  16 to 23
+Reaction: strongly acid to neutral  
+
+BC horizon:
+Hue: 2.5YR to 7.5YR 
+Value: 5 to 7 dry, 4 to 6 moist 
+Chroma: 4 to 8 dry or moist
+Texture: loamy fine sand, fine sandy loam, or sandy clay loam 
+Coarse fragments: amount-0 to 5 percent by volume; size-gravel from 2 mm to 10 mm in diameter; kind- sandstone
+Base saturation: 50 to 70 percent   
+Cation exchange capacity (CEC, meq/100 gm):  4 to 20
+Reaction: strongly acid to neutral  
+
+COMPETING SERIES: There are no other series in this family. Similar soils are the Harrah, Littleaxe, Stephenville, and Weatherford soils.
+Harrah soils: argillic horizon increases clay content by more than 20 percent with depth
+Littleaxe, Stephenville, and Weatherford soils: all have a siliceous mineralogy 
+Littleaxe and Stephenville soils: less than 150 cm (60 in) to paralithic sandstone
+
+GEOGRAPHIC SETTING: 
+Parent material: loamy and sandy alluvium of Pleistocene age 
+Landscape: hills
+Landform: treads and risers of low stream terraces 
+Slope: 0 to 20 percent  
+Soil Moisture Regime: Udic-Ustic 
+Mean annual precipitation: 787 to 1092 mm (31 to 43 in) 
+Mean annual air temperature: 15 to 17.2 degrees C (59 to 63 degrees F) 
+Frost-free period: 181 to 240 days 
+Elevation: 183 to 534 meters (600 to 1750 ft)
+Thornthwaite Annual P-E indices: 48 to 64 
+
+GEOGRAPHICALLY ASSOCIATED SOILS:  These are the Bastrop, Dougherty, Eufaula, Stidham, and Teller series.  
+Bastrop soils: have thicker argillic horizon that does not decrease in clay content and occur on slightly higher positions
+Dougherty and Stidham soils:  have a loamy particle-size control section and occur on similar to slightly higher positions  
+Eufaula soils:  have a sandy control section and occur on slightly higher positions adjacent Konawa soils  
+Teller soils: have mollic epipedon and occur on similar positions further back from the stream channel
+
+DRAINAGE AND PERMEABILITY:  
+Drainage: well drained 
+Permeability: moderate
+Saturated hydraulic conductivity: moderately high  
+Runoff: negligible on 0 to 1 percent slopes, low on 1 to 5 percent slopes, and medium on 5 to 20 percent slopes
+
+USE AND VEGETATION:  These soils are mainly cultivated to small grain, sorghum, and peanuts. Some areas are used for tame pasture or range. Native vegetation is mainly post oak, blackjack oak, and hickory with an understory of grasses   
+
+DISTRIBUTION AND EXTENT:  LRR J; North Cross Timbers (MLRA 84A) of Oklahoma, Kansas, and Texas. The series is extensive.
+
+MLRA SOIL SURVEY REGIONAL OFFICE (MO) RESPONSIBLE: Temple, Texas
+
+SERIES ESTABLISHED:  Pottawatomie County, Oklahoma; 1965
+
+REMARKS: 
+Konawa soils were formerly included with the Dougherty series. OSD updated extensively as a result of the SDJR Initiative. (JLD 03/2016)
+
+Diagnostic horizons and features recognized for this series:
+Ochric horizon: 0 to 43 cm (0 to 17 in) (A and E horizons)
+Argillic horizon: 43 to 135 cm (17 to 53 in) (Bt horizon)
+
+ADDITIONAL DATA:  Oklahoma State University mineralogy data: 69-OK-60-2, Stillwater, OK; Soil Survey Laboratory, Beltsville, MD mineralogy data: 65-OK-63-51;  Oklahoma State University data: 80-OK-49-2-(1-4), 80-OK-49-3-(1-4), 73-OK-57-15-(1-5), 80-OK-49-1-(1-4), 80-OK-49-21-(1-6), and 80-OK-49-20-(1-6), Stillwater, OK
+
+Taxonomic Version: Keys to Soil Taxonomy, Twelfth Edition, 2014
+
+National Cooperative Soil Survey
+U.S.A.

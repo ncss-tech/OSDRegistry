@@ -1,0 +1,187 @@
+LOCATION SHIPS                  TX+OK
+
+Established Series
+Rev. GLL-SEB-ACT-HLH
+10/2020
+
+SHIPS SERIES
+
+The Ships series consists of soils that are very deep to clayey alluvium derived from calcareous shale formed from Permian age red bed sediments. They are moderately well drained and very slowly permeable.   These soils are nearly level to gently sloping and occur on flood plains of river valleys.  The slope range is 0 to 5 percent.  Mean annual precipitation is about 1006 mm (40.0 in) and the mean annual air temperature is about 18.7 degrees C (66.0 degrees F).
+
+TAXONOMIC CLASS:  Very-fine, mixed, active, thermic Chromic Hapluderts
+
+TYPICAL PEDON:  Ships clay--cultivated.  (Colors are for moist soil unless otherwise stated.)
+
+    Ap--0 to 15 cm (0 to 6 in); reddish brown (5YR 4/3) clay, reddish brown (5YR 4/3) dry; weak fine angular blocky structure; very hard, firm, very sticky and very plastic; common fine roots; very slight effervescence; moderately alkaline; clear smooth boundary.
+
+    A--15 to 36 cm (6 to 14 in); dark reddish brown (5YR 3/3) clay, reddish brown (5YR 4/3) dry; moderate fine angular blocky structure; very hard, very firm, very sticky and very plastic; common fine roots; few pressure faces; very slight effervescence; moderately alkaline; gradual wavy boundary.  (the combined A subhorizons are 15 to 56 cm [6 to 22 in]thick)
+
+    Bss1--36 to 86 cm (14 to 34 in); dark reddish brown (5YR 3/3) clay reddish brown (5YR 4/3) dry; moderate fine angular blocky structure; very hard, very firm, very sticky and very plastic; common fine roots; common large slickensides; common pressure faces; very slight effervescence; moderately alkaline; gradual wavy boundary.
+
+    Bss2--86 to 137 cm (34 to 54 in); dark red (2.5YR 3/6) clay, red (2.5YR 4/6) dry; moderate fine angular blocky structure; very hard, very firm, very sticky and very plastic; few fine roots; many large grooved slickensides; common pressure faces; vertical cracks filled with darker soil from above; few fine calcium carbonate concretions; moderately alkaline; diffuse wavy boundary. (combined Bss subhorizons are 76 to 172 cm [30 to 68 in] thick).
+
+    Bkss--137 to 203 cm (54 to 80 in); dark reddish brown (2.5YR 3/4) clay, reddish brown (2.5YR 4/4) dry; weak coarse angular blocky structure; very hard, very firm, very sticky and very plastic; few fine roots; common slickensides; common pressure faces; few threads and masses of calcium carbonate; few calcium carbonate concretions; slight effervescence; moderately alkaline.
+
+TYPE LOCATION:  Falls County, Texas; from the intersection of Texas Highway 7 and Texas Highway 6 in Marlin; 0.8 mile west on Texas Highway 7; 315 feet north in cultivated field.
+
+USGS topographic quad: Marlin, TX 
+Latitude: 31 degrees, 18 minutes, 18.30 seconds N 
+Longitude: 96 degrees, 54 minutes, 44.73 seconds W 
+
+Decimal Degrees
+Latitude: 31.3050833
+Longitude: -96.9124250
+Datum: WGS84
+
+RANGE IN CHARACTERISTICS:    
+
+Soil Moisture: Udic soil moisture regime.  The soil moisture control section is 10 to 30 cm. Soil is not dry in any part of the soil moisture control section for more than 90 cumulative days in normal years. 
+Mean annual soil temperature: 19.8 to 21.6 degrees C (65_to 71_degrees F)
+Soil Depth: very deep, greater than 203 cm (80 in)
+Thickness of ochric epipedon: 15 to 76 cm (6 to 30 in)
+Depth to secondary carbonates: 38 to 107 cm (15 to 42 in)
+Vertic features: 5 to 50 percent slickensides starting at a depth of 15 to 61 cm (6 to 24 in); cracks at least 1 cm (0.4 in) wide extend from the surface to a depth of more than 20 inches when the soil is dry.  Cracks are open for 60 to 90 cumulative days during most years.  
+COLE: 0.05 to 0.11
+
+Particle-size control section (weighted average)
+   Clay content: 60 to 70 percent 
+   Rock fragments: 0 to 1 percent siliceous pebbles
+   Exchangeable sodium: 2 to 8 percent 
+   Base Saturation: 100 percent
+
+A horizon (horizons with value of 3 and chroma of 2 are less than 12 inches thick in 50 percent or more of the pedon)
+Hue: 5YR to 10YR dry or moist
+Value: 2 to 4 moist, 3 to 5 dry
+Chroma: 1 to 4 moist or dry
+Texture: SICL, SIC, C
+Total clay content: 30 to 70 percent
+Pressure faces: 0 to 30 percent
+Rock fragments: 0 to 1 percent siliceous pebbles 
+Identifiable secondary carbonates: concretions of calcium carbonate range from 0 to 1 percent 
+Base saturation: 100 percent
+Calcium carbonate equivalent: 5 to 15 percent
+Electrical conductivity (dS/m): 0.0 to 2.0
+Sodium Adsorption Ratio: 0 to 2
+Effervescence: very slight to violent
+Reaction (pH): neutral to moderately alkaline (6.6-8.4)
+
+Bss horizon
+Hue: 2.5YR to 10YR dry or moist
+Value: 3 to 6 dry, 2 to 5 moist
+Chroma: 1 to 6 dry or moist
+Texture: SIC, C (may contain thin discontinuous strata of SICL, SIL, L)
+Total clay content: 55 to 70 percent
+Slickensides/Pressure faces: 5 to 50 percent/0 to 30 percent
+Mottles: (crack fill from above horizons) value 3 or 4, chroma 2 range from 2 to 20 percent
+Iron-manganese concentrations: 0 to 1 percent
+Rock fragments: 0 to 1 percent siliceous pebbles
+Identifiable secondary carbonates: concretions of calcium carbonate range from 0 to 1 percent 
+Base saturation: 100 percent
+Calcium carbonate equivalent: 5 to 15 percent
+Electrical conductivity (dS/m): 0.0 to 2.0
+Sodium Adsorption Ratio: 2 to 7 
+Effervescence: very slight to violent
+Reaction (pH): slightly alkaline to moderately alkaline (7.4-8.4)
+
+Bkss, BCkss (where present) horizon
+Hue: 2.5YR to 7.5YR dry or moist
+Value: 4 or 5 dry, 3 to 5 moist
+Chroma: 2 or 4 dry, 2 to 4 moist 
+Texture: SIC, C (may contain thin discontinuous strata of SICL, SIL, L)
+Total clay content: 45 to 70 percent
+Slickensides/Pressure faces: 5 to 50 percent/0 to 50 percent
+Mottles: (crack fill from above horizons) value 3 or 4, chroma 2 range from 2 to 20 percent
+Iron-manganese concentrations: 0 to 1 percent
+Rock fragments: 0 to 1 percent siliceous pebbles
+Identifiable secondary carbonates: calcium carbonate threads, masses, and concretions range 1 to 10 percent
+Base saturation: 100 percent
+Calcium carbonate equivalent: 1 to 15 percent
+Electrical conductivity (dS/m): 0.0 to 2.0
+Sodium Adsorption Ratio: 2 to 9
+Effervescence: slight to violent
+Reaction (pH): moderately alkaline (7.4-8.4)
+
+2C horizon (where present)
+Hue: 5YR dry or moist
+Value: 5 to 6 dry, 4 to 5 moist
+Chroma: 4 dry or moist
+Texture: VFSL, SIL, CL, SICL
+
+2Ab horizon(where present is within 150 cm [60 in] of surface)
+Hue: 10YR or N
+Value: 4 dry, 2 to 3 moist
+Chroma: 1 dry, 0 to 1 moist
+Texture: SICL, SIC, C
+
+COMPETING SERIES:  There are no completing series.  Similar soils are the Brazoria, Burkeville, Dylan, Miller, Moreland, Redco, Roetex, and Tahoula series.  
+
+Brazoria and Dylan soils: are in the hyperthermic family  
+Burkeville, Redco, and Tahoula soils: have smectitic mineralogy
+Burkeville, Dylan, Redco, and Tahoula soils:  have hue yellower than 7.5YR  
+Miller and Moreland soils: have a fine particle-size control section  Roetex soils: have redox depletions due to wetness within a depth of 45 to 75 cm (18 to 30 in) of the surface
+
+GEOGRAPHIC SETTING:  
+
+Parent Material: clayey alluvium derived from calcareous shale formed from Permian age red bed sediments
+Landscape: river valley
+Landform: flood plains
+Microrelief: on subdued gilgai in undisturbed areas with microknolls 5 to 15 cm (2 to 6 in) higher than microdepressions
+Slope: mainly less than 1 percent but range to 5 percent
+Slope shape: smooth to slightly concave
+Mean annual precipitation: 787 to 1295 mm (31 to 51 in)
+Precipitation pattern: mostly even throughout the year with the majority of precipitation occurring between September and May
+Mean annual air temperature: 17.2 to 20.6 degrees C (63 to 69 degrees F)
+Frost-free period: 240 to 270 days for most areas
+Elevation:  44.6 to 232.3 m (150 to 800 ft)
+Thornthwaite P-E Index: 44 to 64 
+
+GEOGRAPHICALLY ASSOCIATED SOILS:  These are the similar Roetex series, and the Highbank, Weswood, and Yahola series.  
+
+Roetex soils: have iron depletions within 75 cm (30 in) of the surface layer and are similar positions to Ships but in depressed, concave areas  
+Weswood soils: have a coarse-silty control section and are on lower floodplain positions on migrating meander scrolls 
+Coarsewood soils: have a coarse-silty control section and are on lower positions than Weswood on broad, smooth areas and very gently sloping areas along drainageways on the floodplain
+Highbank soils: have a loamy surface layer and are adjacent to the main channel on current natural levees
+Yahola soils: have a coarse-loamy control section and are on lower positions than Weswood, next to the  stream channel and mainly on point bar features
+
+DRAINAGE AND PERMEABILITY:  
+
+Drainage class: moderately well  
+Permeability class: very slow  
+Runoff: high for all slopes less than 1 percent and very high for slopes greater than 1 percent  
+Flooding: rare to frequent frequency, occurs at intervals of once in 1 to more than 20 years except where protected
+
+USE AND VEGETATION:  Mainly used as cropland.  Crops include cotton, corn, grain sorghum, small grain, and some improved pastures of bermudagrass, johnsongrass, or small grain.  Native vegetation includes big bluestem, little bluestem, Indiangrass, switchgrass, Virginia wildrye, and beaked panicum.  Adjacent to stream channels ash, elm, and pecan are the dominant trees.
+
+SOIL SURVEY REGIONAL OFFICE (SSRO) RESPONSIBLE: Temple, Texas
+
+DISTRIBUTION AND EXTENT:  
+
+General area: South Central Texas (mainly along the Colorado and Brazos 
+Rivers)
+Land Resource Region: J - Southwestern Prairies Cotton and Forage Region
+Major Land Resource Area: 86A - Texas Blackland Prairie, Northern Part
+Extent: moderate 
+
+SERIES ESTABLISHED:  Bastrop County, Texas, 1973.
+
+REMARKS:  These soils were formerly included in the Miller series.  NSSL data is available from the type location of this series (74L351-74L354).   Other data in Washington County (NSSL 76P0733-76P0735), Falls County (NSSL 78P0057-78P0065), and Burleson County (TAMU S86TX-051-005).
+
+Particle-size control section: 25 to 100 cm (10 to 40 in)
+
+Diagnostic horizons and features recognized in this pedon are:
+
+Ochric epipedon - 0 to 36 cm (0 to 14 in) (Ap and A horizons)
+
+Cambic horizon - 36 to 203 cm (14 to 80 in)(Bss and Bkss horizons)
+
+Vertic properties - slickensides from 36 to 203 cm (14 to 80 in) (A, Bss and Bkss horizons); when dry, cracks at least a centimeter wide extend from the surface to a depth of more than 50 cm (20 in).
+
+Identifiable secondary calcium carbonate: 86 to 203 cm (34 to 80 in) (Bss and Bkss horizons)
+
+Additional comments: Active cation-exchange capacity activity class
+Soil Interpretation Record No.: TX0288
+
+TAXONOMIC VERSION: Keys to Soil Taxonomy, 12th_Edition, 2014__
+
+National Cooperative Soil Survey
+U.S.A.

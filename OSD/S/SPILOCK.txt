@@ -1,0 +1,79 @@
+LOCATION SPILOCK                NV
+
+Established Series
+Rev. PWB-GJS-JVC-JBF
+11/2019
+
+SPILOCK SERIES
+
+The Spilock series consists of shallow to a petrocalcic horizon, well drained soils that formed in alluvium derived from limestone and conglomerate.  Spilock soils are on fan remnants.  Slopes are 15 to 50 percent.  The mean annual precipitation is about 250 mm and the mean annual temperature is about 9 degrees C.
+
+TAXONOMIC CLASS:  Loamy-skeletal, mixed, active, mesic, shallow Xeric Petrocalcids
+
+TYPICAL PEDON:  Spilock very gravelly loam--forestland.  (Colors are for dry soil unless otherwise noted).  The soil surface is partially covered with 45 percent gravel and 5 percent with cobbles.
+
+    A1--0 to 5 cm; light brownish gray (10YR 6/2) very gravelly loam, dark grayish brown (10YR 4/2) moist; weak very thin platy structure; slightly hard, very friable, slightly sticky and slightly plastic; many very fine roots; many very fine and common fine vesicular pores; 40 percent gravel; violently effervescent; moderately alkaline (pH 8.0); abrupt smooth boundary.  (2 to 10 cm thick)
+
+    A2--5 to 10 cm; light brownish gray (10YR 6/2) very gravelly loam, very dark grayish brown (10YR 3/2) moist; weak very fine subangular blocky structure; soft, very friable, slightly sticky and slightly plastic; many very fine and few fine roots; common very fine interstitial pores; 50 percent gravel; violently effervescent; moderately alkaline (pH 8.0); abrupt smooth boundary.  (2 to 10 cm thick)
+
+    Bk--10 to 25 cm; pale brown (10YR 6/3) very gravelly loam, brown (10YR 4/3) moist; massive; soft, very friable, slightly sticky and slightly plastic; many fine, common medium and few coarse roots; common very fine interstitial pores; 50 percent gravel and petrocalcic horizon fragments; violently effervescent; moderately alkaline (pH 8.2); abrupt wavy boundary.  (10 to 20 cm thick)
+
+    Bkm--25 to 76 cm; very pale brown (10YR 8/2) cemented material; indurated by secondary calcium carbonate; slightly fractured, with a 0.5 to 1 mm discontinuous laminar cap; roots matted on the top of the horizon; violently effervescent; strongly alkaline (pH 8.5).
+
+TYPE LOCATION:  Elko County, Nevada; about 7 miles southwest of Elko; approximately 800 feet west and 2,250 feet south of the northeast corner of section 18, T. 33 N., R. 55 E.; USGS White Flats 7.5 minute topographic quadrangle; latitude 40 degrees 44 minutes 49 seconds N and longitude 115 degrees 48 minutes 58 seconds W; WGS84 Decimal Degrees 40.7469444 latitude, -115.8161111 longitude.
+
+RANGE IN CHARACTERISTICS:
+Soil moisture: Usually moist in winter and spring, dry in summer and fall; aridic moisture regime that borders on xeric.
+Mean annual soil temperature: 8 to 10 degrees C.
+Depth to petrocalcic horizon: 20 to 36 cm.
+Calcium carbonate content: 15 to 25 percent for the fine-earth fraction; 25 to 35 percent for the fraction less than 20 mm.
+
+Particle-size control section - Clay content:  18 to 25 percent.
+Rock fragments:  50 to 60 percent, mainly limestone gravel and indurated detached fragments of petrocalcic horizon.
+
+A horizons 
+Value: 3 or 4 moist.
+Chroma: 2 or 3, dry or moist.
+Structure:  Platy in the upper subhorizon and subangular blocky or granular in the lower subhorizons.
+
+Bk horizon  
+Hue: 10YR or 7.5YR.
+Value:  4 or 5 moist.
+Chroma:  2 or 3 dry, 3 or 4 moist.
+Texture:  Very gravelly loam or extremely gravelly loam.
+Clay content:  18 to 25 percent.
+Rock fragments:  50 to 70 percent, mainly gravel with some petrocalcic horizon fragments.
+Other features: It is assumed that this horizon does not have enough volume of identifiable secondary carbonates to qualify as a calcic horizon when the horizon is 15 to 20 cm thick.
+
+Bkm horizon  
+Hue:  7.5YR or 10YR.
+Reaction:  Moderately alkaline or strongly alkaline.
+Other features:  0.5 to 2 mm thick discontinuous silica laminar cap present in most pedons.
+
+COMPETING SERIES:  There are currently no other series in this family.
+
+GEOGRAPHIC SETTING:  Spilock soils are on fan remnants.  They typically occur on backslopes.  These soils formed in alluvium derived from limestone and conglomerate.  Slopes are 15 to 50 percent.  Elevations range from 1,620 to 1,770 meters.  The climate is semiarid with cool, moist winters and warm, dry summers.  The mean annual precipitation is 230 to 280 mm, mean annual temperature is 8 to 10 degrees C, and the frost-free period is 100 to 120 days.
+
+GEOGRAPHICALLY ASSOCIATED SOILS:  These are the Chiara, Gochea, and Kelk soils.  
+
+Chiara soils have less than 15 percent rock fragments in the particle-size control section.  Gochea soils are very deep, and have moderately fine textured argillic horizons.  Kelk soils are very deep and do not have rock fragments in the particle-size control section.
+
+DRAINAGE AND SATURATED HYDRAULIC CONDUCTIVITY:  Well drained; very high surface runoff; moderately high saturated hydraulic conductivity.
+
+USE AND VEGETATION:  Spilock soils are used for forestland, rangeland, and wildlife habitat.  The present vegetation is mainly a sparse forest canopy of Utah juniper with an understory of black sagebrush, basin wildrye, and cheatgrass.
+
+DISTRIBUTION AND EXTENT:  Northeastern Nevada.  These soils are not extensive.  MLRA 25.
+
+MLRA SOIL SURVEY REGIONAL OFFICE (MO) RESPONSIBLE:  Davis, California.
+
+SERIES ESTABLISHED:  Elko County (Central Part), Nevada, 1986.
+
+REMARKS:  Diagnostic horizons and features recognized in this pedon are:
+Ochric epipedon - The zone from the soil surface to 18 cm (A1, A2 and part of the Bk horizons).
+Petrocalcic horizon - The zone from 25 to 76 cm (Bkm horizon).
+Particle-size control section - The zone from the soil surface to 25 cm (A1, A2, and Bk horizons).
+
+The active cation exchange activity class was added to the taxonomic classification in December 2002 based on soil property data.
+
+National Cooperative Soil Survey
+U.S.A.

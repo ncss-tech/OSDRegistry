@@ -1,0 +1,107 @@
+LOCATION TOGIAK                 AK
+
+Established Series
+SAS/TJR/MPR
+03/2019
+
+TOGIAK SERIES
+
+Landscape--shore complexes
+Landform--beach berms
+Slope--0 to 20 percent
+Parent material-beach sand and gravel
+Mean annual precipitation--about 760 mm
+Mean annual air temperature--about 1 degrees C
+Depth class--very deep
+Drainage class--somewhat excessively drained
+Soil moisture regime--udic
+Soil temperature regime--cryic
+Soil moisture subclass--typic
+
+TAXONOMIC CLASS: Sandy-skeletal, mixed Typic Cryofluvents
+
+TYPICAL PEDON: Togiak very gravelly coarse sand on a southeast-facing, convex berm, on a slope of 3 percent at an elevation of 4 m (When described on July 25, 2013, the soil was dry to a depth of 35 cm and moist throughout the rest of the profile.)
+
+ Oi--0 to 4 cm; slightly decomposed plant material; many medium and common very fine roots; neutral (pH 7.0)
+
+ C1--4 to 47 cm; very gravelly coarse sand, gray (10YR 6/1) dry, very dark gray (10YR 3/1) moist; single grain; loose, nonsticky and nonplastic; many very fine to medium roots; 50 percent gravel; neutral (pH 7.0); gradual smooth boundary
+
+ C2--47 to 150 cm; very gravelly coarse sand, gray (10YR 6/1) dry, very dark gray (10YR 3/1) moist; single grain; loose, nonsticky and nonplastic; common very fine and fine roots; 50 percent gravel; slightly alkaline (pH 7.4)
+
+TYPE LOCATION: Dillingham Census Area, Alaska, about 0.5 km southwest of the village of Togiak; latitude 59.0547927 degrees north, longitude 160.3855428 degrees west, datum WGS 84 (coordinates determined with a GPS)
+
+RANGE IN CHARACTERISTICS:
+Mean annual soil temperature--1 to 4 degrees C
+Soil moisture control section--dry less than 45 consecutive days in June through October (udic moisture regime)
+
+Particle-size control section
+*Clay content--0 to 3 percent
+*Sand content--85 to 100 percent
+*Total rock fragment content--35 to 75 percent
+
+Oi horizon
+Thickness 2 to 10 cm
+
+C1 horizon
+Value--2 or 3 moist, 6 dry
+Chroma--2 or 3 moist
+Fine-earth texture--coarse sand, sand
+Clay content--0 to 3 percent
+Reaction--6.5 to 7.5
+Gravel content--0 to 60 percent
+Thickness--20 to 50 cm
+
+C2 horizon
+Hue--10YR, 2.5Y
+Value--3 or 4 moist, 6 dry
+Chroma--2 or 3 moist
+Fine-earth texture--coarse sand, loamy sand
+Clay content--0 to 3 percent
+Reaction--7.0 to 8.0
+Total rock fragment content--35 to 75 percent
+Gravel content--35 to 75 percent
+Cobble content--0 to 10 percent
+Thickness--more than 90 cm
+Organic carbon content--0.2 to 1.0 percent
+
+COMPETING SERIES:
+Chenega--extremely acid to moderately acid
+Fubar--stratified silt loam and fine sandy loam
+Hollow--saturated to within a depth of 50 cm more than 2 weeks during the growing season
+Kidazqeni--stratified silt loam textures in the upper part
+Malmesbury--irregular decrease in organic carbon content as depth increases
+
+GEOGRAPHIC SETTING:
+Elevation--0 to 5 m
+Climate--warm, moist summers; cold, moist winters
+Mean annual precipitation--700 to 800 mm
+Mean annual air temperature--0.9 to 1.7 degrees C
+Frost-free period--85 to 140 days
+
+GEOGRAPHICALLY ASSOCIATED SOILS:
+Anchor--histic epipedon; aquic conditions throughout; tidal flats
+Ekiligamut--thick organic upper layer; aquic conditions throughout; depressions in tidal marshes
+
+DRAINAGE AND SATURATED HYDRAULIC CONDUCTIVITY:
+Drainage class--somewhat excessively drained
+Flooding--rare
+Saturated hydraulic conductivity (Ksat)--very high throughout the profile
+
+USE AND VEGETATION:
+Use--wildlife habitat, recreation, subsistence, community development
+Potential natural vegetation--common yarrow, bluejoint, fireweed, Pacific hemlockparsley, beach pea, American dunegrass
+
+DISTRIBUTION AND EXTENT: Ahklun Mountains, Alaska; MLRA 237; small extent
+
+SOIL SURVEY REGIONAL OFFICE (SSRO) RESPONSIBLE: Portland, Oregon
+
+SERIES ESTABLISHED: Togiak National Wildlife Refuge, Dillingham Census Area, Alaska; 2019
+
+REMARKS:
+Diagnostic horizons and other features in this pedon
+*Particle-size control section--zone from 29 to 104 cm
+*Ochric epipedon
+*Coarse fragment content in particle-size control section--35 percent or more (weighted average)
+
+National Cooperative Soil Survey
+U.S.A.

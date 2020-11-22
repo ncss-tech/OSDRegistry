@@ -1,0 +1,106 @@
+LOCATION SHAR                   ID
+
+Established Series
+Rev. RWW/TDT/CBR
+05/2018
+
+SHAR SERIES
+
+Landscape--lava fields
+Landform--lava flows
+Slope--0 to 12 percent
+Parent material--loess-influenced alluvium over residuum derived from basalt
+Mean annual precipitation--about 350 mm
+Mean annual air temperature--about 5 degrees C
+Depth class--shallow to a duripan
+Drainage class--well drained
+Soil moisture regime--xeric
+Soil temperature regime--frigid
+
+TAXONOMIC CLASS: Fine, smectitic, frigid Pachic Argixerolls
+
+TYPICAL PEDON: Shar silt loam in an area of rangeland. (Colors are for dry soil unless otherwise noted.)
+
+ A--0 to 10 cm; grayish brown (10YR 5/2) silt loam, very dark brown (10YR 2/2) moist; weak thin platy structure; soft, very friable, slightly sticky and slightly plastic; many very fine and fine and common coarse roots; many very fine tubular pores; slightly acid (pH 6.4); clear smooth boundary
+
+ Bt1--10 to 20 cm; grayish brown (10YR 5/2) silty clay loam, very dark grayish brown (10YR 3/2) moist; strong very fine angular blocky structure; slightly hard, firm, moderately sticky and moderately plastic; many very fine and fine and common medium and coarse roots; many very fine tubular pores; few distinct clay films on faces of peds and in pores; slightly acid (pH6.2); gradual wavy boundary
+
+ Bt2--20 to 33 cm; grayish brown (10YR 5/2) silty clay loam, dark brown (10YR 3/3) moist; strong coarse columnar structure; very hard, very firm, very sticky and very plastic; common very fine and fine roots; few very fine irregular pores; common distinct clay films on faces of peds and surfaces along pores; slightly acid (pH 6.4); gradual wavy boundary
+
+ Btss1--33 to 69 cm; brown (10YR 5/3) silty clay, dark brown (10YR 3/3) moist; strong coarse columnar structure; very hard, very firm, very sticky and very plastic; common very fine and fine roots; few very fine irregular pores; many prominent clay films on faces of peds and surfaces along pores; many prominent slickensides; slightly acid (pH 6.4); clear wavy boundary
+
+ Btss2--69 to 89 cm; grayish brown (10YR 5/2) silty clay, dark brown (10YR 3/3) moist; strong medium angular blocky structure; very hard, very firm, very sticky and very plastic; few very fine and fine roots; few very fine irregular pores; common distinct clay films on faces of peds and surfaces along pores; many prominent slickensides; neutral (pH 7.1)
+
+ R--89 cm; basalt
+
+TYPE LOCATION: Clark County, Idaho; latitude 44.25377 degrees north, longitude 112.15941 degrees west, datum WGS 84
+
+RANGE IN CHARACTERISTICS:
+Mean annual soil temperature--5.0 to 7.2 degrees C
+Thickness of mollic epipedon--64 to 100 cm
+Depth to argillic horizon--30 to 46 cm
+Depth to bedrock--50 to 100 cm
+
+Particle-size control section (weighted averages)
+Total clay content--35 to 45 percent
+
+A horizon
+Value--4 or 5 dry, 2 or 3 moist
+Chroma--2 or 3 dry or moist
+Clay content--18 to 22 percent
+Reaction--pH 6.1 to 7.3
+Thickness--5 to 15 cm
+
+Bt horizon
+Value--4 or 5 dry, 2 or 3 moist
+Chroma--2 or 3 dry or moist
+Clay content--30 to 35 percent
+Reaction--pH 6.1 to 7.3
+Thickness-15 to 25 cm
+
+Btss horizon
+Value--4 or 5 dry, 2 or 3 moist
+Chroma--2 or 3 dry or moist
+Texture (less than 2-mm fraction)--silty clay, silty clay loam
+Clay content--35 to 45 percent
+Reaction--pH 6.1 to 7.3
+Thickness--30 to 60 cm
+
+COMPETING SERIES:
+Arva, Rugar, Schnipps--deep to paralithic contact
+Broadhead, Henefer, Lostpepper--very deep
+Bumpheads--more than 15 percent coarse fragments in particle-size control section
+Cristo--moderately deep to paralithic contact; more than 15 percent coarse fragments in particle-size control section
+Herberger--moderately deep to densic contact
+Sweitberg--10 to 35 percent rock fragments in upper part of argillic horizon, more than 35 percent rock fragments in lower part of argillic horizon
+
+GEOGRAPHIC SETTING:
+Elevation--1,610 to 1,720 m
+Mean annual precipitation--300 to 400 mm
+Mean annual air temperature--3.9 to 6.1 degrees C
+Frost-free period--70 to 120 days
+
+GEOGRAPHICALLY ASSOCIATED SOILS: None listed
+
+DRAINAGE AND PERMEABILITY:
+Drainage class--well drained
+Saturated hydraulic conductivity (Ksat)--0.1 to 10.0 um/sec
+
+USE AND VEGETATION:
+Major use--rangeland
+Potential natural vegetation--threetip sagebrush, bluebunch wheatgrass
+
+DISTRIBUTION AND EXTENT: Small extent in southeast Idaho; MLRAs 11 and 13
+
+SOIL SURVEY REGIONAL OFFICE (SSRO) RESPONSIBLE: Portland, Oregon
+
+SERIES ESTABLISHED: Clark County, Idaho; 2018
+
+REMARKS:
+Diagnostic horizons and other features recognized in this pedon
+Mollic epipedon (pachic)--zone from the surface to a depth of 89 cm (A, Bt1, Bt2, Btss1, and Btss2 horizons)
+Argillic horizon--zone from 10 to 89 cm (Bt1, Bt2, Btss1, and Btss2 horizons)
+Particle-size control section--zone from 10 to 60 cm (Bt1 and Bt2 horizons, part of Btss1 horizon)
+
+National Cooperative Soil Survey
+U.S.A.

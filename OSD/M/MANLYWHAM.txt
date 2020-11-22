@@ -1,0 +1,156 @@
+LOCATION MANLYWHAM              WA
+
+Established Series
+Rev. PHR/JGM/KMS
+01/2017
+
+MANLYWHAM SERIES
+
+Landscape--western Cascade Mountains, valleys
+Landform--flood plains, depressions, flood plains in U-shaped valleys, channels of flood plains
+Slope--0 to 8 percent
+Parent material--alluvium
+Mean annual precipitation--about 2000 mm
+Mean annual air temperature--about 7 degrees C
+Depth class--very deep
+Drainage class--poorly drained
+Soil moisture regime--aquic
+Soil temperature regime--frigid
+Soil moisture subclass--typic
+
+TAXONOMIC CLASS: Coarse-loamy over sandy or sandy-skeletal, isotic, acid, frigid Humic Endoaquepts
+
+TYPICAL PEDON: Manlywham mucky fine sandy loam on a nonforested, south-facing flood plain with a slope of 1 percent and at an elevation of 500 m (When described on July 7, 2009, the soil was wet throughout.)
+
+ A1--0 to 6 cm; mucky fine sandy loam, dark gray (10YR 4/1) dry, black (10YR 2/1) moist; weak fine subangular blocky structure; soft, very friable, nonsticky and nonplastic; many very fine and fine roots; moderately acid (pH 6.0); clear smooth boundary
+
+ A2--6 to 24 cm; sandy loam, gray (5Y 5/1) dry, very dark gray (5Y 3/1) moist; weak fine subangular blocky structure; soft, very friable, nonsticky and nonplastic; common very fine and fine roots; 2 percent dark reddish brown (5YR 3/3) masses of oxidized iron; 5 percent fine gravel; moderately acid (pH 6.0); clear smooth boundary
+
+ C1--24 to 60 cm; gravelly sandy loam, light yellowish brown (10YR 6/4) dry, dark yellowish brown (10YR 4/4) moist; single grain; loose, nonsticky and nonplastic; few very fine to coarse roots; 15 percent distinct strong brown (7.5YR 5/8) masses of oxidized iron along root channels and 15 percent distinct grayish brown (10YR 5/2) iron depletions in matrix; 10 percent fine gravel and 5 percent medium to coarse gravel; strongly acid (pH 5.5); gradual wavy boundary
+
+ C2--60 to 104 cm; cobbly loamy coarse sand, light yellowish brown (2.5Y 6/3) dry, olive brown (2.5Y 4/3) moist; single grain; loose, nonsticky and nonplastic; few very fine and fine roots; 15 percent distinct strong brown (7.5YR 4/6) masses of oxidized iron along root channels and 15 percent distinct grayish brown (10YR 5/2) iron depletions in matrix; 5 percent fine gravel, 10 percent medium to coarse gravel, and 15 percent cobbles; very strongly acid (pH 5.0); gradual wavy boundary
+
+ C3--104 to 150 cm; very cobbly loamy coarse sand, light yellowish brown (2.5Y 6/3) dry, olive brown (2.5Y 4/3) moist; single grain; loose, nonsticky and nonplastic; 15 percent distinct light yellowish brown (2.5Y 6/3) iron depletions in matrix; 5 percent fine gravel, 15 percent medium to coarse gravel, and 15 percent cobbles; very strongly acid (pH 5.0)
+
+TYPE LOCATION: Whatcom County, Washington, approximately 18 km northeast of the town of Newhalem along the Big Beaver Creek trail, in the North Cascades National Park Complex; 85 m east and 125 m south of the northwest corner of section 10, T. 38 N., R. 13 E.; Pumpkin Mountain, Washington, U.S. Geological Survey quadrangle; latitude 48.7988892, longitude -121.1055527, datum WGS 84 (coordinates determined with a GPS)
+
+RANGE IN CHARACTERISTICS:
+Mean annual soil temperature--6 to 8 degrees C
+Moisture control section--seasonal high water table at soil surface more than 30 consecutive days
+
+Particle-size control section 
+*Clay content--0 to 5 percent
+*Fragment content, coarse-loamy portion--5 to 30 percent total, 5 to 30 percent gravel
+*Fragment content, sandy or sandy-skeletal portion--15 to 35 percent total, 15 to 25 percent fine to coarse gravel, 5 to 15 percent cobbles
+
+A1 horizon
+Hue--10YR, 2.5Y
+Value--2 to 4 moist, 4 to 6 dry
+Chroma--1 to 2 moist or dry
+Fine-earth texture--mucky fine sandy loam, mucky sandy loam, sandy loam
+Clay content--1 to 5 percent
+Sand content--55 to 70 percent
+Total fragment content--0 to 10 percent
+Gravel content--0 to 10 percent
+Reaction--5.6 to 6.5
+Thickness--5 to 15 cm
+
+A2 horizon
+Hue--5Y, 2.5Y, 10YR
+Value--3 to 4 moist, 5 to 6 dry
+Chroma--1 to 2 moist or dry
+Fine-earth texture--sandy loam, fine sandy loam, loamy sand
+Clay content--1 to 5 percent
+Sand content--55 to 70 percent
+Total fragment content--5 to 30 percent
+Gravel content--5 to 30 percent
+Cobble content--0 to 15 percent
+Reaction--5.6 to 6.5
+Thickness--5 to 20 cm
+
+C1 horizon
+Hue--10YR, 2.5Y
+Value--3 to 5 moist, 5 to 7 dry
+Chroma--2 to 4 moist or dry
+Fine-earth texture--sandy loam, loamy coarse sand, coarse sand
+Clay content--1 to 5 percent
+Sand content--55 to 85 percent
+Total fragment content--15 to 35 percent
+Gravel content--10 to 30 percent
+Cobble content--0 to 10 percent
+Reaction--5.1 to 6.0
+Thickness--30 to 65 cm
+
+C2 horizon
+Hue--2.5Y, 10YR
+Value--3 to 5 moist, 5 to 7 dry
+Chroma--2 to 4 moist or dry
+Fine-earth texture--loamy coarse sand, coarse sand, sand
+Clay content--1 to 5 percent
+Sand content--70 to 85 percent
+Total fragment content--15 to 35 percent
+Gravel content--10 to 30 percent
+Cobble content--0 to 15 percent
+Reaction--4.5 to 5.5
+Thickness--30 to 65 cm
+
+C3 horizon
+Hue--2.5Y, 10YR
+Value--3 to 5 moist, 5 to 7 dry
+Chroma--2 to 4 moist or dry
+Fine-earth texture--loamy coarse sand, coarse sand, sand
+Clay content--1 to 5 percent
+Sand content--70 to 85 percent
+Total fragment content--15 to 35 percent
+Gravel content--15 to 30 percent
+Cobble content--0 to 15 percent
+Reaction--4.5 to 5.5
+Thickness--30 to 65 cm
+
+COMPETING SERIES: None
+
+GEOGRAPHIC SETTING:
+Elevation--100 to 900 m
+Climate--cool, dry summers; cold, wet winters
+Mean annual precipitation--625 to 2550 mm
+Mean annual air temperature--5 to 8 degrees C
+Frost-free period--60 to 120 days
+
+GEOGRAPHICALLY ASSOCIATED SOILS:
+Deerlick--redoximorphic features below a depth of 50 cm; andic soil properties greater than 35 cm in upper part
+Nohokomeen--redoximorphic features below a depth of 25 cm; no contrasting particle-size class; andic soil properties 18 to 35 cm thick in upper part
+Roland--redoximorphic features below a depth of 25 cm; no contrasting particle-size class
+Skymo--redoximorphic features below a depth of 50 cm; no contrasting particle-size class
+
+DRAINAGE AND SATURATED HYDRAULIC CONDUCTIVITY:
+Drainage class--poorly drained
+Saturation in normal years--endosaturation to soil surface in November through May and below a depth of 20 cm in June through October
+Flooding--frequent, very long periods in December through April; frequent, brief periods in May, June, October, and November (only in Willamette National Forest)
+Ponding--frequent, very long periods in December through April; frequent, brief periods in May, June, October, and November
+Saturated hydraulic conductivity (Ksat)--high in upper part, very high in lower part
+
+USE AND VEGETATION:
+Use--wildlife habitat, recreation, watershed
+Potential natural vegetation--western redcedar, red alder, Scouler's willow, redosier dogwood, Douglas spirea, grasses
+
+DISTRIBUTION AND EXTENT: North Cascades Mountains, Washington, and Willamette National Forest, Oregon; MLRA 3; small extent
+
+MLRA SOIL SURVEY REGIONAL OFFICE (MO) RESPONSIBLE: Portland, Oregon
+
+SERIES ESTABLISHED: North Cascades National Park Complex, Chelan County, Washington; 2011
+
+REMARKS:
+Diagnostic horizons and other features recognized in this pedon
+*Particle-size control section--zone from 25 to 100 cm
+*Ochric epipedon
+*Cambic horizon--zone from 6 to 24 cm
+*Depth to endosaturation--24 cm
+*Redoximorphic concentrations--zone from 6 to 150 cm
+*Redoximorphic depletions with chroma of 2 or less--zone from 24 to 104 cm
+
+8/2016--Changed Cg horizon to C horizon due to chroma being higher than 2 throughout the horizon; changed subgroup from Typic Humaquepts to Humic Endoaquepts because the soils do not have an umbric epipedon
+
+ADDITIONAL DATA: Type location user site ID--09-PHR-017
+
+National Cooperative Soil Survey
+U.S.A.

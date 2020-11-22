@@ -1,0 +1,123 @@
+LOCATION BACKBONE               IA+IL MN
+
+Established Series
+Rev. RJK-SRS-TWN
+10/2012
+
+BACKBONE SERIES
+
+The Backbone series consists of moderately deep, well drained soils formed in moderately coarse or coarse textured eolian material, with or without a thin layer of residuum overlying limestone bedrock at a depth of 50 to 100 centimeters. Backbone soils are on convex ridges and back slopes on uplands. Slope ranges from 2 to 18 percent. Mean annual air temperature is about 8 degrees C. Mean annual precipitation is about 850 millimeters.
+
+TAXONOMIC CLASS: Coarse-loamy, mixed, superactive, mesic Mollic Hapludalfs
+
+TYPICAL PEDON: Backbone sandy loam, on a west-facing, convex slope of 4 percent, in a cultivated field. (Colors are for moist soil unless otherwise stated.)
+
+ Ap--0 to 20 centimeters; very dark gray (10YR 3/1) sandy loam, gray (10YR 5/1) dry; weak fine granular structure; very friable; neutral; abrupt smooth boundary. (15 to 23 centimeters thick)
+
+ BE--20 to 43 centimeters; brown (10YR 4/3) and dark grayish brown (10YR 4/2) sandy loam; few streaks of very dark gray (10YR 3/1) from the Ap horizon; weak fine subangular blocky structure; very friable; neutral; clear smooth boundary. (15 to 25 centimeters thick)
+
+ Bt1--43 to 61 centimeters; brown (10YR 4/3) and dark yellowish brown (10YR 4/4) sandy loam; weak fine prismatic structure parting to weak fine and very fine subangular blocky; very friable; few distinct dark brown (10YR 3/3) clay films on faces of peds; neutral; clear wavy boundary. (15 to 40 centimeters thick) 
+
+ 2Bt2--61 to 76 centimeters; brown (10YR 4/3) and dark yellowish brown (10YR 3/4) clay loam; moderate fine subangular blocky structure; very firm; common distinct dark brown (7.5YR 3/2) clay films on faces of peds; about 5 percent small chert fragments; neutral; abrupt wavy boundary. (0 to 25 centimeters thick) 
+
+ 2R--76 centimeters; hard, fractured, limestone bedrock.
+
+TYPE LOCATION: Major Land Resource Area (MLRA) 105-Northern Mississippi Valley Loess Hills, Winneshiek County, Iowa subset; about 1/2 mile north of Spillville; located about 1,700 feet west and 1,140 feet north of the southeast corner of section 18, T. 97 N., R. 9 W.; USGS Fort Atkinson topographic quadrangle; lat. 43 degrees 12 minutes 55.2 seconds N. and long. 91 degrees 56 minutes 56.8 seconds W., NAD 83.
+
+RANGE IN CHARACTERISTICS:
+Depth to bedrock--50 to 100 centimeters
+Clay content in the particle-size control section (weighted average)--12 to 18 percent
+Sand content in the particle-size control section (weighted average)--55 to 80 percent
+
+A or Ap horizon:
+Hue--10YR
+Value--3
+Chroma--1 or 2
+Texture--sandy loam, fine sandy loam, or loamy sand
+Clay content--5 to 18 percent
+Reaction--moderately acid to neutral
+
+BE or E horizon:
+Hue--10YR
+Value--4 or 5
+Chroma--2 or 3
+Texture--sandy loam, fine sandy loam, or loamy sand
+Clay content--5 to 18 percent
+Reaction--strongly acid to neutral
+
+Bt horizon:
+Hue--10YR
+Value--3 to 5
+Chroma--3 to 5
+Texture--sandy loam
+Clay content--12 to 18 percent
+Reaction--strongly acid to neutral
+
+2Bt horizon:
+Hue--5YR, 7.5YR, or 10YR
+Value--3 to 5
+Chroma--3 to 6
+Texture--clay loam, sandy clay loam, or clay
+Clay content--32 to 42 percent
+Rock fragment content--0 to 10 percent, mostly chert or limestone fragments
+Reaction--moderately acid to neutral
+
+Some pedons have a 2BC horizon that is very channery, very flaggy, extremely channery, or extremely flaggy. It is loam, clay loam, or sandy clay loam in the fine-earth fraction. This horizon is 0 to 25 centimeters thick.
+
+COMPETING SERIES:  These are the Billet, Brownchurch, Desker, Kingsley, Oronoco, and Ulster series.
+Billett--do not have bedrock within 100 centimeters
+Brownchurch--do not have bedrock within 100 centimeters 
+Desker--do not have bedrock within 100 centimeters 
+Kingsley--do not have bedrock within 100 centimeters 
+Oronoco--do not have bedrock within 100 centimeters 
+Ulster--do not have bedrock within 100 centimeters 
+
+GEOGRAPHIC SETTING:
+Parent material--moderately coarse or coarse textured eolian material, with or without a thin layer of residuum overlying limestone bedrock at a depth of 50 to 100 centimeters
+Landform--convex ridges and back slopes on uplands
+Slope--2 to 18 percent
+Elevation--200 to 400 meters above sea level
+Mean annual air temperature--6 to 10 degrees C
+Mean annual precipitation--735 to 965 millimeters
+Frost-free period--145 to 205 days
+
+GEOGRAPHICALLY ASSOCIATED SOILS:  These are the Marlean, Nordness, Rockton, and Winneshiek soils.
+Marlean--are in landscape positions similar to those of the Backbone soils and have a rock fragment content of more than 35 percent in the particle-size control section
+Nordness--are on shoulder slopes and have limestone bedrock within 50 centimeters
+Rockton--are in landscape positions similar to those of the Backbone soils and have a clay content that averages more than 18 percent in the particle-size control section
+Winneshiek--are in landscape positions similar to those of the Backbone soils and have a clay content that averages more than 18 percent in the particle-size control section
+
+DRAINAGE AND SATURATED HYDRAULIC CONDUCTIVITY:
+Drainage class--well drained--a frequently saturated zone does not occur within a depth of 1.8 meters during the wettest periods of years when precipitation is within one standard deviation of the 30 year mean of annual precipitation
+Saturated hydraulic conductivity--10 to 100 micro meters per second in the eolian material and 1.0 to 10 micrometers per second in the residuum
+
+USE AND VEGETATION:
+More gently sloping areas are cultivated. Corn, small grains, and legume hay are the principal crops. Land use of more strongly sloping areas consists of permanent pasture or woodland. The native vegetation is oak savanna, deciduous trees (oak and hickory) and big bluestem, little bluestem, switchgrass, and other grasses of the tall grass prairie.
+
+DISTRIBUTION AND EXTENT:
+Physiographic Division--Interior Plains
+Physiographic Province--Central Lowland
+Physiographic sections--Dissected till plains, Till plains, and Wisconsin driftless section
+MLRAs--Southern Wisconsin and Northern Illinois Drift Plain (95B), Eastern Iowa and Minnesota Till Prairies (104), and Northern Mississippi Valley Loess Hills (105)
+LRRs M and K; northeastern Iowa, northern Illinois, and southern Minnesota
+Extent--small
+
+MLRA SOIL SURVEY REGIONAL OFFICE (MO) RESPONSIBLE: Indianapolis, Indiana
+
+SERIES ESTABLISHED: Bremer County, Iowa, 1965
+
+REMARKS:
+Particle-size control section--the zone from a depth of 43 to 76 centimeters;
+series control section--the zone from the surface to a depth of 76 centimeters.
+
+Diagnostic horizons and features recognized in this pedon include:
+ochric epipedon--the zone from the surface to a depth of 43 centimeters (Ap and BE horizons);
+argillic horizon--the zone from a depth of 43 to 76 centimeters (Bt1 and 2Bt2 horizons);
+udic moisture regime.
+
+Cation-exchange class is inferred from lab data from similar soils in the surrounding area.
+
+Taxonomy version--Keys to Taxonomy, tenth edition, 2006.
+
+National Cooperative Soil Survey
+U.S.A.

@@ -1,0 +1,84 @@
+LOCATION BECKHAM                VA
+
+Established Series
+Rev. WFK,HTS,MHC
+07/1999
+
+BECKHAM SERIES
+
+The Beckham series consists of very deep, well drained, moderately permeable soils that formed in residuum from marble. These soils are on nearly level to strongly sloping uplands.  Mean annual precipitation is about 42 inches.  Mean annual temperature is about 60 degrees F.  Slopes range from 2 to 25 percent.
+
+TAXONOMIC CLASS: Fine, kaolinitic, thermic Rhodic Paleudults
+
+TYPICAL PEDON:  Beckham clay loam, on a 4 percent slope, in pasture.  (Colors are for moist soil)
+
+     Ap--0 to 7 inches; very dusky red (2.5YR 2.5/2) clay loam; dusky red (2.5YR 3/2) dry; strong  medium granular structure; friable, sticky, plastic; many fine roots; few, fine manganese concretions;  2 percent angular gravel; moderately acid; clear smooth boundary.  (3 to 9 inches thick)
+
+     Bt1--7 to 27 inches; dark reddish brown (2.5YR 2.5/4) clay; dark reddish brown (2.5YR 3/4) dry; moderate medium subangular blocky structure; friable, sticky, plastic; common fine roots; few, fine manganese concretions; many prominent clay films on faces of peds; 2 percent angular gravel; moderately acid; gradual smooth boundary.
+
+     Bt2--27 to 47 inches; dark reddish brown (2.5YR 2.5/4) clay; dark reddish brown (2.5YR 3/4) dry; moderate medium subangular blocky structure; friable, sticky, plastic; common fine roots; few, fine manganese concretions; many prominent clay films on faces of peds; 2 percent angular gravel; very strongly acid; gradual smooth boundary.
+
+     Bt3--47 to 60 inches; dark reddish brown (2.5YR 2.5/4) clay; dark reddish brown (2.5YR 3/4) dry; moderate medium subangular blocky structure; friable, sticky, plastic; few fine roots; few, fine manganese concretions; many prominent clay films on faces of peds; 2 percent angular gravel; very strongly acid; gradual smooth boundary.
+
+     Bt4--60 to 72 inches; dark reddish brown (2.5YR 2.5/4) clay; dark reddish brown (2.5YR 3/4) dry; moderate medium subangular blocky structure; friable, sticky, plastic; few fine roots; few, fine manganese concretions; many prominent clay films on faces of peds; 5 percent angular gravel; very strongly acid. (Combined thickness of Bt horizon is greater than 65 inches)
+
+TYPE LOCATION:  Appomattox County, Virginia; about .6 mile west northwest 290 degrees of the junction of highways VA-667 and VA-605 and 1.3 miles north northwest 322 degrees of junction of highways VA-611 and VA-667.
+
+RANGE IN CHARACTERISTICS:  Solum thickness is more than 72 inches. Depth to bedrock is more than 72 inches.  Reaction is very strongly acid through slightly acid throughout.  Rock fragments range from 0 to 15 percent in the A, Ap, and Bt horizons.  Manganese concretions are few to common in the A, Ap, and Bt horizons, and generally are less than .10 inch in diameter.  Base saturation at 50 inches below the top of the argillic by sum of cations is less than 15 percent.
+
+The A horizon, where present, has hue of 2.5YR or 5YR, value of 2.5 or 3 and chroma of 2 through 6.  It is loam or clay loam.
+
+The Ap horizon, where present, has hue of 2.5YR or 5YR, value of 2 or 3 and chroma of 2 through 4.  It is loam or clay loam.
+
+The Bt horizon has hue of 10R or 2.5YR, value of 2.5 or 3, and chroma of 3 through 6.  It is clay loam or clay.  The particle size control section averages less than 30 percent silt and more than 20 percent sand.
+
+The BC horizon, where present, has hue of 10R or 2.5YR, value of 2.5 or 3, and chroma of 3 through 6.  It is clay loam or clay.
+
+COMPETING SERIES:  Anniston and Decatur are the only series in the same family.  Anniston soils have greater than 15 percent base saturation by sum of cations at 50 inches below the top of the argillic.  Decatur soils have less than 20 percent sand in the particle-size control section.
+
+GEOGRAPHIC SETTING:  Beckham soils are on nearly level to moderately steep uplands in limestone valleys at elevations ranging from about 500 to 1400 feet. Slope gradients are commonly from 2 to 10 percent but range from 2 to 25 percent.  The soil formed in residuum from marble.  The climate is warm and humid. Mean annual precipitation ranges from 38 to 48 inches.  Mean annual temperature ranges from 59 to 62 degrees F.
+
+GEOGRAPHICALLY ASSOCIATED SOILS:  These are the Mayodan and Louisburg soils on nearby similar landscape positions.  Mayodan soils have a clay decrease within the Bt horizon.  Louisburg soils have less clay in the Bt horizon and have a paralithic contact at 20 to 40 inches.
+
+DRAINAGE AND PERMEABILITY:  Well drained.  Runoff is medium, and permeability is moderate.
+
+USE AND VEGETATION:  These soils are used for hay, pasture, and woodland.
+
+DISTRIBUTION AND EXTENT:  Virginia. The series is of small extent.
+
+MLRA SOIL SURVEY REGIONAL OFFICE (MO) RESPONSIBLE: Raleigh, North Carolina
+
+SERIES ESTABLISHED:  Appomattox County, Virginia, 1993.
+
+REMARKS:  Soils originally mapped as Decatur soils.
+
+Diagnostic horizons and features recognized in this pedon are: 1.  Ochric epipedon-zone from 0 to 7 inches (Ap horizon). 2.  Argillic horizon-zone from 7 to 72 inches (Bt horizon).
+
+SIR = VA0351
+MLRA = 136
+REVISED = 9/28/93, MHC
+
+LABORATORY DATA: 7 pedons sampled in Appomattox County, VA with chemical and particle size analyses completed by VPI&SU.  Four support the palic requirements.  Six support base saturation of less than 15 percent.
+
+TABULAR SERIES DATA:
+
+SOI-5  Soil Name   Slope  Airtemp FrFr/Seas Precip  Elevation
+VA0351 BECKHAM     2- 25   59- 62  175-225  38- 48   500-1400 
+
+SOI-5  FloodL FloodH Watertable Kind   Months  Bedrock Hardness
+VA0351 NONE          6.0-6.0              -     60-60        
+
+SOI-5  Depth  Texture                3-Inch  No-10  Clay%   -CEC-
+VA0351  0- 7  CL                      0-  0  80-100 27-40   5- 15
+VA0351  0- 7  L                       0-  0  80-100 15-27   5- 15
+VA0351  7-27  C CL                    0-  0  80-100 35-60   5- 15
+VA0351 27-72  C CL                    0-  0  80-100 35-50   5- 15
+
+SOI-5  Depth    -pH-     O.M.  Salin  Permeab   Shnk-Swll
+VA0351  0- 7  4.5- 6.5  1.-3.  0- 0   0.6- 2.0  LOW      
+VA0351  0- 7  4.5- 6.5  1.-4.  0- 0   0.6- 2.0  LOW      
+VA0351  7-27  4.5- 6.5  .5-1.  0- 0   0.6- 2.0  MODERATE 
+VA0351 27-72  4.5- 6.5  .1-.5  0- 0   0.6- 2.0  MODERATE  
+
+National Cooperative Soil Survey
+U.S.A.

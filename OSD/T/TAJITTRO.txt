@@ -1,0 +1,136 @@
+LOCATION TAJITTRO               AK
+
+Established Series
+JDP/NR/TJR
+04/2020
+
+TAJITTRO SERIES
+
+Landscape--alluvial plains
+Landform--stream terraces
+Slope--0 to 3 percent
+Parent material--alluvium
+Mean annual precipitation--about 255 mm
+Mean annual air temperature--about -6 degrees C
+Depth class--very deep
+Drainage class--moderately well drained
+Soil moisture regime--udic
+Soil temperature regime--gelic
+Soil moisture subclass--typic
+
+TAXONOMIC CLASS: Coarse-silty, mixed, superactive, nonacid, subgelic Aquic Haploturbels
+
+TYPICAL PEDON: Tajittro silt loam on a forested terrace with a slope of 2 percent and an elevation of 128 m (The soil was moist throughout when described on July 11, 2014.)
+
+ Oi--0 to 6 cm; slightly decomposed plant material; common medium roots; slightly alkaline (pH 7.4); abrupt smooth boundary
+
+ Oe--6 to 11 cm; moderately decomposed plant material; common medium and coarse roots; moderately acid (pH 5.8); abrupt smooth boundary
+
+ A--11 to 18 cm; silt loam; brown (10YR 5/3) dry, dark brown (10YR 3/3) moist; weak fine granular structure; soft, very friable; common fine and medium roots; common fine and medium pores; noneffervescent; slightly alkaline (pH 7.6); clear wavy boundary
+
+ Bw--18 to 28 cm; silt loam; light brownish gray (2.5Y 6/2) dry, dark grayish brown (2.5Y 4/2) moist; weak medium subangular blocky structure; soft, very friable; common fine and medium roots; few fine and medium pores; 5 percent light olive brown (2.5Y 5/6) moist, mottles in matrix; strongly effervescent; moderately alkaline (pH 8.3); clear smooth boundary
+
+ Bwjj--28 to 75 cm; silt loam; 50 percent light yellowish brown (2.5Y 6/3) dry, olive brown (2.5Y 4/3) moist, and 50 percent light yellowish brown (10YR 6/4) dry, dark yellowish brown (10YR 3/4) moist; moderate thin platy structure; slightly hard, friable; common fine roots; few fine and medium pores; 10 percent light olive brown (2.5Y 5/6) moist, masses of oxidized iron in matrix; violently effervescent; moderately alkaline (pH 8.3); clear smooth boundary
+
+ Cf--75 to 100 cm; stratified permanently frozen very fine sandy loam to permanently frozen silt loam; light yellowish brown (2.5Y 6/3) dry, olive brown (2.5Y 4/3) moist; weak thin platy structure; 20 percent light olive brown (2.5Y 5/6) moist, masses of oxidized iron in matrix; very slightly effervescent; moderately alkaline (pH 8.0)
+
+TYPE LOCATION: Yukon-Koyukuk Census Area, Alaska; latitude 66.2784700 degrees, longitude -148.0753589 degrees, datum WGS84 (coordinates determined with a GPS)
+
+RANGE IN CHARACTERISTICS:
+Mean annual soil temperature-- -4 to 1 degrees C
+Depth to permafrost--60 to 100 cm
+Depth to redoximorphic features--75 cm or more below the mineral soil surface
+Other features--cryoturbation within 150cm
+
+Oi and Oe horizons
+Combined thickness--5 to 15 cm
+Reaction--5.5 to 7.5
+
+A horizon
+Hue--10YR, 2.5Y
+Value--2 to 4 moist, 4 to 6 dry
+Chroma--1 to 3 moist
+Fine-earth texture--silt loam, very fine sandy loam, loam
+Clay content--0 to 18 percent
+Reaction--6.5 to 8.0
+Effervescence--none to slight
+Thickness--5 to 15 cm
+
+Bw and Bwjj horizons
+Hue--10YR, 2.5Y
+Value--2 to 5 moist, 4 to 7 dry
+Chroma--2 to 4 moist
+Fine-earth texture--silt loam, very fine sandy loam
+Clay content--0 to 18 percent
+Reaction--6.5 to 9.0
+Effervescence--none to violent
+Combined thickness--15 to 80 cm
+
+BC horizon
+Hue--10YR, 2.5Y
+Value--2 to 5 moist, 4 to 7 dry
+Chroma--2 to 4 moist
+Fine-earth texture--silt loam, very fine sandy loam
+Clay content--0 to 18 percent
+Reaction--6.5 to 9.0
+Effervescence--none to violent
+Thickness--15 to 80 cm
+
+Cf horizons
+Value--2 to 4 moist, 4 to 6 dry
+Chroma--1 to 3 moist
+Fine-earth texture--silt loam, very fine sandy loam
+Clay content--0 to 18 percent
+Reaction--6.5 to 8.5
+Effervescence--none to strong
+Thickness--50 to 125 cm
+
+COMPETING SERIES: 
+None
+
+GEOGRAPHIC SETTING:
+Elevation--90 to 300 m
+Climate--short, warm summers and long, very cold winters
+Mean annual precipitation--210 to 310 mm
+Mean annual air temperature-- -12 to 0 degrees C
+Frost-free period--45 to 97 days
+
+GEOGRAPHICALLY ASSOCIATED SOILS:
+Tlozhavun--no aquic conditions within 150 cm; higher positions on similar landforms
+Chissovun--aquic conditions within 50 cm; lower positions similar landforms
+Yanert--aquic conditions within 25 cm; swales on similar landforms
+Gushdoiman--aquic conditions within 25 cm; tussock scrub depressions on similar landforms
+Choonjik--no aquic conditions within 150 cm; calcareous; higher positions on similar landforms
+Yasuda--aquic conditions within 25 cm; sodic properties; grassland depressions on similar landforms
+
+DRAINAGE AND SATURATED HYDRAULIC CONDUCTIVITY:
+Drainage class--moderately well drained
+Saturation in normal years--water table top depth between a depth of 50 to 100 cm in June, July, and August
+Flooding--none
+Ponding--none
+Saturated hydraulic conductivity (Ksat)--moderately high to high throughout
+
+USE AND VEGETATION:
+Use--wildlife habitat, subsistence, recreation
+Potential natural vegetation--White spruce, black spruce, quaking aspen, red fruit bearberry, grayleaf willow, prickly rose, lingonberry, twinflower, russet buffaloberry, shrubby cinquefoil, littletree willow, reedgrass, false toadflax, dwarf scouringrush, field horsetail, stairstep moss, Tomentypnum moss, felt lichen, greygreen reindeer lichen
+
+DISTRIBUTION AND EXTENT: Yukon Flats Lowlands, Alaska; MLRA 232; moderate extent
+
+SOIL SURVEY REGIONAL OFFICE (SSRO) RESPONSIBLE: Portland, Oregon
+
+SERIES ESTABLISHED: Yukon Flats National Wildlife Refuge, Yukon-Koyukuk Census Area, Alaska; 2020
+
+REMARKS:
+Diagnostic horizons and other features in this pedon
+*Particle-size control section--zone from 36 to 111 cm
+*Ochric epipedon
+*Redoximorphic iron concentrations--Bwjj, and Cf horizons
+*Aquic conditions--Bwjj, and Cf horizons
+*Permafrost--Cf horizon
+*Cryoturbation--Bwjj horizon
+*Cambic horizon--Bw and Bwjj horizons
+Organic horizons are saturated for more than 30 days (cumulative) in normal years, and do not meet the criteria for a folistic epipedon.
+
+
+National Cooperative Soil Survey
+U.S.A.

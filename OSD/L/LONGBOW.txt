@@ -1,0 +1,160 @@
+LOCATION LONGBOW                OR
+
+Tentative Series
+DRJ/KMS
+01/2017
+
+LONGBOW SERIES
+
+Landscape--western Cascade Mountains
+Landform--glacially influenced structural benches, cirque floors
+Slope--0 to 60 percent
+Parent material--colluvium derived from igneous rock mixed with till and volcanic ash throughout
+Mean annual precipitation--about 2600 mm
+Mean annual air temperature--about 6 degrees C
+Depth class-very deep
+Drainage class--well drained
+Soil moisture regime--udic
+Soil temperature regime--cryic
+Soil moisture subclass--typic
+
+TAXONOMIC CLASS: Medial, amorphic Typic Haplocryands
+
+TYPICAL PEDON: Longbow gravelly medial loam on a 13-percent, forested slope at an elevation of 1140 m
+
+ Oi--0 to 2 cm; slightly decomposed plant material; abrupt wavy boundary
+
+ A--2 to 35 cm; gravelly medial loam, brown (7.5YR 4/2) dry, dark brown (7.5YR 3/2) moist; moderate fine granular structure; very friable, loose, slightly sticky and nonplastic; many very fine, common medium and coarse, and few fine roots; many very fine and fine irregular pores and common medium and coarse tubular pores; 20 percent basalt gravel and 5 percent basalt cobbles; strongly acid (pH 5.3); clear wavy boundary
+
+ AB--35 to 59 cm; gravelly medial silt loam, yellowish brown (10YR 5/4) dry, brown (10YR 4/3) moist; moderate very fine and fine subangular blocky structure; very friable, loose, slightly sticky and slightly plastic; many very fine, common medium, and few fine and coarse roots; many very fine dendritic tubular and irregular pores and common fine, medium, and coarse tubular pores; 20 percent basalt gravel and 5 percent basalt cobbles; strongly acid (pH 5.5); clear wavy boundary
+
+ Bw1--59 to 82 cm; gravelly medial silt loam, light yellowish brown (10YR 6/4) dry, brown (10YR 4/3) moist; moderate fine subangular blocky structure; friable, slightly hard, slightly sticky and slightly plastic; common very fine and few fine and medium roots; common very fine and fine dendritic tubular pores and common very fine and fine and few medium tubular pores; 20 percent basalt gravel and 10 percent basalt cobbles; moderately acid (pH 5.7); gradual wavy boundary
+
+ Bw2--82 to 150 cm; cobbly medial silt loam, light yellowish brown (10YR 6/4) dry, dark yellowish brown (10YR 4/4) moist; moderate fine and medium subangular blocky structure; friable, slightly hard, slightly sticky and slightly plastic; few very fine and fine roots; common very fine and fine dendritic tubular pores and common very fine and fine and few medium tubular pores; 15 percent basalt gravel and 15 percent basalt cobbles; moderately acid (pH 5.8)
+
+TYPE LOCATION: Linn County, Oregon, about 36 km east of Sweet Home and 7.5 km northeast of the junction of Upper Soda Fork Road and OR Highway 20; about 255 m south and 335 m east of the northwest corner of section 9, T. 13 S., R. 5 E.; latitude 44.4582500, longitude -122.2226944, datum WGS 84 (coordinates determined with a GPS)
+
+RANGE IN CHARACTERISTICS:
+Dry days--less than 45 consecutive days following summer solstice
+Mean annual soil temperature--4 to 6 degrees C
+Thickness of umbric epipedon--25 to 50 cm (below mineral soil surface)
+Thickness of cambic horizon--50 to 150 cm (below mineral soil surface)
+Reaction--5.0 to 6.0
+Thickness of andic soil properties--greater than 150 cm (below mineral soil surface)
+
+Estimated properties of layers with andic soil properties
+*1/3-bar bulk density--0.6 to 0.9 g/cm3
+*Phosphate retention--greater than 85 percent
+*Ammonium oxalate extractable Al +  Fe--2 to 4 percent
+*15-bar water retention--30 to 70 percent (undried samples), greater than 15 percent (dried samples)
+*0.02- to 2.0-mm fraction--greater than 30 percent
+*Volcanic glass content in 0.02- to 2.0-mm fraction--5 to 30 percent
+
+Particle-size control section
+*Clay content--18 to 27 percent
+*Total rock fragment content--15 to 35 percent
+*Total pararock fragment content--0 to 5 percent
+
+Oi horizon
+*Thickness--1 to 10 cm
+
+A horizon
+*Hue--7.5YR, 10YR
+*Value--2 to 3 moist, 3 to 5 dry
+*Chroma--2 or 3 moist or dry
+*Clay content--15 to 20 percent
+*Sand content--30 to 45 percent
+*Total fragment content--15 to 35 percent
+*Gravel content--15 to 35 percent
+*Cobble content--0 to 10 percent
+*Stone content--0 to 5 percent
+*Thickness--20 to 36 cm
+
+AB horizon, and BA horizon (where present)
+*Hue--10YR, 7.5YR
+*Value--3 or 4 moist, 4 to 6 dry
+*Chroma--3 or 4 moist or dry
+*Fine-earth texture--medial silt loam, medial loam
+*Clay content--18 to 27 percent
+*Sand content--20 to 40 percent
+*Total fragment content--10 to 35 percent
+*Gravel content--10 to 30 percent
+*Cobble content--0 to 10 percent
+*Stone content--0 to 5 percent
+*Thickness--0 to 30 cm
+
+Bw1 horizon
+*Hue--2.5Y, 10YR, 7.5YR
+*Value--3 or 4 moist, 5 or 6 dry
+*Chroma--3 or 4 moist, 3 to 6 dry
+*Fine-earth texture--medial silt loam, medial loam
+*Clay content--18 to 27 percent
+*Sand content--20 to 35 percent
+*Total fragment content--10 to 35 percent
+*Gravel content--10 to 30 percent
+*Cobble content--0 to 15 percent
+*Stone content--0 to 10 percent
+
+Bw2 horizon
+*Hue--2.5Y, 10YR, 7.5YR
+*Value--3 to 5 moist, 5 to 7 dry
+*Chroma--3 or 4 moist, 3 to 6 dry
+*Fine-earth texture--medial silt loam, medial loam
+*Clay content--18 to 27 percent
+*Sand content--20 to 35 percent
+*Total fragment content--15 to 50 percent
+*Gravel content--15 to 35 percent
+*Cobble content--0 to 20 percent
+*Stone content--0 to 10 percent
+
+*Combined thickness of Bw horizon--50 to 150 cm
+
+COMPETING SERIES:
+Cruiser--ochric epipedon
+Keel--50 to 100 cm deep to lithic contact
+Molawa--ochric epipedon
+Oneonta--umbric epipedon greater than 50 cm thick
+Soosap--50 to 100 cm deep to paralithic contact
+
+GEOGRAPHIC SETTING:
+Elevation--1100 to 1800 m
+Climate--cool, dry summers; cold, wet winters
+Mean annual precipitation--2300 to 2900 mm
+Mean annual air temperature--5.0 to 7.5 degrees C
+Frost-free period--60 to 105 days
+
+GEOGRAPHICALLY ASSOCIATED SOILS:
+Icecap--50 to 100 cm deep to lithic contact; greater than 35 percent rock fragments; in convex positions
+Kinzel--greater than 35 percent rock fragments; in linear and slightly convex positions
+
+DRAINAGE AND SATURATED HYDRAULIC CONDUCTIVITY:
+Drainage class--well drained
+Saturation in normal years--none within profile
+Flooding--none
+Ponding--none
+Saturated hydraulic conductivity (Ksat)--moderately high
+
+USE AND VEGETATION:
+Use--watershed, recreation, wildlife habitat, timber production
+Potential natural vegetation--Douglas-fir, western hemlock, Pacific silver fir, noble fir, Pacific rhododendron, Cascade Oregon grape, Alaska blueberry, bunchberry dogwood, starry false lily of the valley, prince's pine, twinflower
+
+DISTRIBUTION AND EXTENT: Central western Cascade Mountains, Oregon; MLRA 3; small extent
+
+MLRA SOIL SURVEY REGIONAL OFFICE (MO) RESPONSIBLE: Portland, Oregon
+
+SERIES PROPOSED: Willamette National Forest, Linn County, Oregon; name from a group camp area in Linn County
+
+REMARKS:
+Diagnostic horizons and other features recognized in this pedon
+*Particle-size control section--zone from 2 to 102 cm
+*Umbric epipedon--zone from 2 to 35 cm
+*Cambic horizon--zone from 35 to 150 cm
+*Andic soil properties--zone from 2 to 150 cm
+*Volcanic glass--zone from 2 to 150 cm
+
+06/2016--Assumed to meet criteria 2 (no ash required) for andic soil properties, in the 12th edition of Keys to Soil Taxonomy. It is also assumed that enough ash is present for the soils to meet criteria 3. Additional lab data is needed to confirm the degree of ash influence.
+
+ADDITIONAL DATA: Type location user site ID--2013OR043024
+
+National Cooperative Soil Survey
+U.S.A.

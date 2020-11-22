@@ -1,0 +1,107 @@
+LOCATION LONGARM                AK
+
+Established Series
+SAS/ABD/MPR
+03/2019
+
+LONGARM SERIES
+
+Landscape--mountain valleys
+Landform--flood plains
+Slope--0 to 5 percent
+Parent material--alluvium
+Mean annual precipitation--about 1000 mm
+Mean annual air temperature--about 1 degree C
+Depth class--very deep
+Drainage class--poorly drained
+Soil moisture regime--aquic
+Soil temperature regime--cryic
+Soil moisture subclass--typic
+
+TAXONOMIC CLASS: Sandy-skeletal, mixed Typic Cryaquents
+
+TYPICAL PEDON: Longarm gravelly silt on a linear flood plain, on a slope of 0 percent at an elevation of 128 m (When described on August 15, 2011, the soil was moist to a depth of 14 cm and saturated throughout the rest of the profile.)
+
+ Oa--0 to 14 cm; highly decomposed plant material; many very fine to coarse roots; moderately acid (pH 6.0); clear smooth boundary
+
+ Cg1--14 to 38 cm; gravelly silt, light gray (5Y 7/2) dry, olive gray (5Y 5/2) moist; massive; slightly hard, friable, nonsticky and nonplastic; many very fine to coarse roots; 15 percent medium masses of oxidized iron, strong brown (7.5YR 4/6) moist; 30 percent gravel and 4 percent cobbles; slightly acid (pH 6.3); clear smooth boundary
+
+ 2Cg2--38 to 150 cm; extremely gravelly coarse sand, grayish brown (2.5Y 5/2) dry, very dark grayish brown (2.5Y 3/2) moist; single grain; loose, nonsticky and nonplastic; common very fine roots; 70 percent gravel and 15 percent cobbles; slightly acid (pH 6.5)
+
+TYPE LOCATION: Bethel Census Area, Alaska, about 50 km north-northwest of the village of Togiak; latitude 59.4894444 degrees north, longitude 160.6613889 degrees west, datum WGS 84 (coordinates determined with a GPS)
+
+RANGE IN CHARACTERISTICS:
+Mean annual soil temperature--0 to 3 degrees C
+Soil moisture control section--dry less than 45 consecutive days in June through October (udic moisture regime)
+
+Particle-size control section
+*Clay content--0 to 5 percent
+*Sand content--85 to 100 percent
+*Total rock fragment content--50 to 89 percent
+
+Oa horizon
+Thickness--2 to 14 cm
+
+Cg1 horizon
+Hue--2.5Y, 5Y
+Value--4 or 5 moist, 6 or 7 dry
+Chroma--1 to 2 moist
+Fine-earth texture--silt, silt loam, sandy loam
+Clay content--3 to 10 percent
+Reaction--5.5 to 6.5
+Thickness--5 to 34 cm
+
+2Cg2 horizon
+Hue--5Y, 2.5Y, 10YR
+Value--2 to 5 moist, 4 to 7 dry
+Chroma--1 to 2 moist
+Fine-earth texture--coarse sand, loamy sand, loamy coarse sand
+Clay content--0 to 5 percent
+Reaction--5.5 to 6.5
+Total rock fragment content--50 to 89 percent
+Gravel content--50 to 89 percent
+Cobble content--0 to 35 percent
+Thickness--more than 102 cm
+
+COMPETING SERIES:
+Anan--mean annual soil temperature greater than 3 degrees C
+Eachusto--base saturation is greater than 80 percent
+Jurvannah--mean annual soil temperature greater than 4 degrees C
+Ustiugof--pH is greater than 6.5 in A horizons
+
+GEOGRAPHIC SETTING:
+Elevation--0 to 670 m
+Climate--warm, moist summers; cold, moist winters
+Mean annual precipitation--580 to 2000 mm
+Mean annual air temperature-- -2.5 to 1.6 degrees C
+Frost-free period--75 to 140 days
+
+GEOGRAPHICALLY ASSOCIATED SOILS:
+Awayak--no aquic conditions; frequent flooding; similar landscape positions
+Atayak--umbric epipedon; lithic contact; not subject to flooding; escarpments
+Ongivinuck--umbric epipedon; andic soil properties; rare flooding; similar landscape positions
+
+DRAINAGE AND SATURATED HYDRAULIC CONDUCTIVITY:
+Drainage class--poorly drained
+Flooding--occasional, long
+Saturation in normal years--below a depth of 5 to 14 cm in May through October, below a depth of 50 to 75 cm in November through April
+Saturated hydraulic conductivity (Ksat)--moderately high or high in the Cg horizon, high or very high in the 2C horizon
+
+USE AND VEGETATION:
+Use--wildlife habitat, recreation, subsistence
+Potential natural vegetation--bluejoint, fireweed, field horsetail, woolly geranium, splendid feather moss, Schreber's big red stem moss, arctic raspberry, Barclay's willow, Canadian burnet, tealeaf willow
+
+DISTRIBUTION AND EXTENT: Ahklun Mountains, Alaska; MLRA 237; moderate extent
+
+SOIL SURVEY REGIONAL OFFICE (SSRO) RESPONSIBLE: Portland, Oregon
+
+SERIES ESTABLISHED: Togiak National Wildlife Refuge, Bethel Census Area, Alaska; 2019
+
+REMARKS:
+Diagnostic horizons and other features in this pedon
+*Particle-size control section--zone from 39 to 114 cm
+*Ochric epipedon
+*Aquic conditions--Cg1 and 2Cg2 horizons horizon
+
+National Cooperative Soil Survey
+U.S.A.

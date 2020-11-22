@@ -1,0 +1,175 @@
+LOCATION HOLCOMB                OR
+
+Established Series
+Rev. AON/JGM/EED
+12/2017
+
+HOLCOMB SERIES
+
+Landscape--Willamette Valley
+Landform--broad valley terraces
+Slope--0 to 3 percent
+Parent material--alluvium over stratified glaciolacustrine deposits from the Missoula Floods
+Mean annual precipitation--about 1150 mm
+Mean annual air temperature--about 11 degrees C
+Depth class--very deep
+Drainage class--somewhat poorly drained
+Soil moisture regime--aquic
+Soil temperature regime--mesic
+Soil moisture subclass--xeric
+
+TAXONOMIC CLASS: Fine, smectitic, mesic Xeric Argialbolls
+
+TYPICAL PEDON: Holcomb silt loam, cultivated
+
+ Ap--0 to 15 cm; silt loam, grayish brown (10YR 5/2) dry, very dark brown (10YR 2/2) moist; weak coarse subangular blocky structure parting to moderate fine granular; slightly hard, friable, slightly sticky and slightly plastic; many very fine roots; many very fine pores; moderately acid (pH 5.6); clear smooth boundary
+
+ A--15 to 24 cm; silt loam, grayish brown (10YR 5/2) dry, very dark grayish brown (10YR 3/2) moist; weak coarse subangular blocky structure parting to moderate fine subangular blocky; slightly hard, friable, moderately sticky and slightly plastic; many very fine roots; many very fine pores; 1 percent fine and medium black (10YR 2/1) iron-manganese concretions; moderately acid (pH 5.8); clear smooth boundary
+
+ E--24 to 61 cm; silty clay loam, light brownish gray (10YR 6/2) dry, very dark grayish brown (10YR 3/2) moist; moderate fine subangular blocky structure; hard, firm, moderately sticky and moderately plastic; common very fine roots; common very fine pores; 30 percent silt and sand coatings on faces of peds; 15 percent fine distinct yellowish brown (10YR 5/6) masses of oxidized iron on faces of peds and 1 percent fine and medium black (10YR 2/1) iron-manganese concretions; slightly acid (pH 6.2); abrupt smooth boundary
+
+ 2Btg--61 to 86 cm; clay, grayish brown (2.5Y 5/2) dry, dark grayish brown (10YR 4/2) moist; weak coarse angular blocky structure parting to strong fine angular blocky; very hard, very firm, very sticky and very plastic; few very fine roots; few very fine pores; 35 percent faint clay films on faces of peds; 15 percent fine distinct yellowish brown (10YR 5/6) masses of oxidized iron and 4 percent fine and medium very dark brown (10YR 2/2) iron-manganese concretions; neutral (pH 6.6); clear smooth boundary
+
+ 2BCtg--86 to 127 cm; silty clay, grayish brown (10YR 5/2) dry, dark grayish brown (10YR 4/2) moist; weak fine angular blocky structure; very hard, firm, very sticky and very plastic, common very fine pores; 35 percent faint clay films on faces of peds; 3 percent medium black (10YR 2/1) iron-manganese concretions; neutral (pH 6.6); clear smooth boundary
+
+ 3Cg--127 to 150 cm; silt loam, grayish brown (10YR 5/2) dry, dark grayish brown (10YR 4/2) moist; massive; hard, firm, moderately sticky and slightly plastic; few fine pores; neutral (pH 6.6)
+
+TYPE LOCATION: Marion County, Oregon; about 820 m east and 150 m north of the southwest corner of section 4, T. 9 S., R. 2 W.; latitude 44.8111444, longitude -122.9374278, datum NAD 83 (coordinates estimated from PLSS details)
+
+RANGE IN CHARACTERISTICS:
+Mean annual soil temperature--11 to 13 degrees C
+Moisture control section--seasonal high water table within 30 to 50 cm of the surface in January through March, dry 45 to 60 consecutive days following summer solstice
+Thickness of mollic epipedon--25 to 55 cm
+Thickness of albic horizon--7 to 38 cm
+Depth to aquic conditions--30 to 50 cm
+Depth to argillic horizon--38 to 75 cm
+
+Particle-size control section
+*Clay content--40 to 50 percent
+*Total fragment content--0 to 15 percent
+
+Ap horizon
+Hue--10YR, 7.5YR
+Value--2 or 3 moist, 4 or 5 dry
+Chroma--2 moist, 2 or 3 dry
+Fine-earth texture--silt loam, silty clay loam
+Clay content--20 to 30 percent
+Sand content--2 to 15 percent
+Total fragment content--0 to 5 percent
+Gravel content--0 to 5 percent
+Reaction--5.6 to 6.5
+Thickness--8 to 23 cm
+
+A horizon
+Hue--10YR, 7.5YR
+Value--2 or 3 moist, 4 or 5 dry
+Chroma--2 moist, 2 or 3 dry
+Fine-earth texture--silt loam, silty clay loam
+Clay content--20 to 30 percent
+Sand content--2 to 15 percent
+Total fragment content--0 to 5 percent
+Gravel content--0 to 5 percent
+Reaction--5.6 to 6.5
+Thickness--13 to 38 cm
+
+E horizon
+Hue--10YR, 2.5Y
+Value--3 or 4 moist, 5 to 7 dry
+Fine-earth texture--silt loam, silty clay loam
+Clay content--20 to 30 percent
+Sand content--2 to 15 percent
+Total fragment content--0 to 5 percent
+Gravel content--0 to 5 percent
+Reaction--5.6 to 6.5
+Thickness--8 to 38 cm
+
+2Btg horizon
+Hue--10YR, 2.5Y, 5Y
+Value--3 to 5 moist, 4 to 6 dry
+Chroma--1 or 2 moist or dry
+Fine-earth texture--silty clay, clay
+Clay content--40 to 50 percent
+Sand content--5 to 15 percent
+Reaction--6.1 to 7.3
+Thickness--20 to 91 cm
+
+2BCtg horizon
+Hue--10YR, 2.5Y, 5Y
+Value--4 or 5 moist, 5 or 6 dry
+Chroma--2 to 4 moist or dry
+Fine-earth texture--silty clay, clay
+Clay content--40 to 50 percent
+Sand content--5 to 15 percent
+Total fragment content--0 to 15 percent
+Gravel content--0 to 15 percent
+Reaction--6.1 to 7.3
+Thickness--0 to 46 cm
+
+3Cg horizon (where present)
+Hue--10YR, 2.5Y, 5Y
+Value--4 or 5 moist, 5 or 6 dry
+Chroma--2 to 4 moist or dry
+Fine-earth texture--silt loam, silty clay loam, clay loam
+Clay content--25 to 40 percent
+Sand content--10 to 35 percent
+Total fragment content--0 to 15 percent
+Gravel content--0 to 15 percent
+Reaction--6.1 to 7.3
+
+COMPETING SERIES:
+Chicane--mollic epipedon 50 to 80 cm thick; slickensides in argillic horizon
+Kooskia--23 to 30 percent clay in upper argillic horizon; buried horizons
+Nez Perce--identifiable secondary carbonates and free carbonates below a depth of 75 cm
+Shebang--identifiable secondary carbonates and free carbonates below a depth of 50 cm
+
+GEOGRAPHIC SETTING:
+Elevation--40 to 200 m
+Climate--warm, dry summers; cool, moist winters
+Mean annual precipitation--1000 to 1300 mm
+Mean annual air temperature--10 to 12 degrees C
+Mean January air temperature--4 degrees C
+Mean July air temperature--19 degrees C
+Frost-free period--165 to 210 days
+
+GEOGRAPHICALLY ASSOCIATED SOILS:
+Amity--27 to 35 percent clay in particle-size control section; no abrupt textural change; on adjacent terraces
+Concord--ochric epipedon; no abrupt textural change; aquic conditions at the surface to a depth of 25 cm; on lower terraces
+Dayton--ochric epipedon; aquic conditions at the surface to a depth of 25 cm; on lower terraces
+Willamette--20 to 35 percent clay in particle-size control section, no abrupt textural change; on broad valley terraces
+Woodburn--20 to 35 percent clay in particle-size control section; no abrupt textural change; no aquic conditions above a depth of 50 cm; on broad valley terraces
+
+DRAINAGE AND SATURATED HYDRAULIC CONDUCTIVITY:
+Drainage class--somewhat poorly drained
+Saturation in normal years--apparent high water table at a depth of 25 to 50 cm below the surface in November through April; perched water table on top of abrupt textural change
+Flooding--none
+Ponding--none
+Saturated hydraulic conductivity--very low
+
+USE AND VEGETATION:
+Use--production of pasture, grass seed, hay, and small grain
+Potential natural vegetation--Oregon white oak, baldhip rose, trailing blackberry, grasses
+
+DISTRIBUTION AND EXTENT: Willamette Valley, Oregon; MLRA 2; moderate extent
+
+SOIL SURVEY REGIONAL OFFICE (SSRO) RESPONSIBLE: Portland, Oregon
+
+SERIES ESTABLISHED: Clackamas County, Oregon; 1921
+
+REMARKS:
+Diagnostic horizons and other features in this pedon
+*Particle-size control section--zone from 61 to 111 cm
+*Mollic epipedon--zone from the surface to a depth of 46 cm
+*Albic horizon--zone from 46 to 61 cm
+*Argillic horizon-- zone from 61 to 127 cm
+*Depth to abrupt textural change--61 cm
+*Depth to lithologic discontinuity--61 cm to 127 cm
+
+The Holcomb soils are on the Senecal geomorphic surface in the Willamette Valley of Oregon. The first lithologic discontinuity represents a change in parent material from alluvium deposited by local drainageways to Missoula Flood sediment.
+
+11/2017--This official series description was updated according to SSR01 Technical Note 11--Content and Format of Official Series Descriptions (revised 11/2017). The classification was changed from Typic Argialbolls to Xeric Argialbolls based on recognition of a period of dryness following the summer solstice that has been consistently recognized throughout the Willamette Valley. The twelfth edition of the Keys to Soil Taxonomy was used for this reclassification. The competing series were updated also. Most of the other changes were in formatting.
+
+ADDITIONAL DATA:
+Laboratory data--sample number S96OR-043-002, National Soil Survey Laboratory, Lincoln, NE; 2/1999; type location user site ID 1966OR047006
+
+National Cooperative Soil Survey
+U.S.A.

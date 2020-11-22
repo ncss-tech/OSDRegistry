@@ -1,0 +1,126 @@
+LOCATION TWIN                   AK
+
+Established Series
+JDP/NDP/TJR
+04/2020
+
+TWIN SERIES
+
+Landscape--alluvial plains
+Landform--stream terraces
+Slope--0 to 3 percent
+Parent material--alluvium
+Mean annual precipitation--about 255 mm
+Mean annual air temperature--about -6 degrees C
+Depth class--very deep
+Drainage class--poorly drained
+Soil moisture regime--aquic
+Soil temperature regime--gelic
+Soil moisture subclass--typic
+
+TAXONOMIC CLASS: Coarse-silty, mixed, superactive, nonacid, subgelic Typic Aquorthels
+
+TYPICAL PEDON: Twin silt loam on a woodland terrace with a slope of 1 percent and an elevation of 105 m (The soil was moist throughout when described on August 31, 2015.)
+
+ Oi--0 to 5 cm; slightly decomposed plant material; many very fine and medium roots, common fine, coarse, and very coarse roots; strongly acid (pH 5.5); abrupt smooth boundary
+
+ Oa--5 to 11 cm; highly decomposed plant material; common very fine, fine, medium and coarse roots; slightly acid (pH 6.3); abrupt smooth boundary
+
+ C--11 to 40 cm; silt loam; 75 percent light brownish gray (2.5Y 6/2) dry, dark grayish brown (2.5Y 4/2) moist and 25 percent grayish brown (10YR 5/2) dry, very dark grayish brown (10YR 3/2) moist; weak thick platy structure; slightly hard, friable, nonsticky and nonplastic; common very fine, fine, and medium roots; few fine and medium pores; 15 percent yellowish brown (10YR 5/6) moist, masses of oxidized iron in matrix; noneffervescent; slightly alkaline (pH 7.7); clear irregular boundary
+
+ Cg--40 to 62 cm; silt loam; gray (2.5Y 6/1) dry, dark gray (2.5Y 4/1) moist; massive; slightly hard, friable, nonsticky and nonplastic; 25 percent gray (2.5Y 5/1) moist, iron depletions in matrix and 40 percent light olive brown (2.5Y 5/6) moist, masses of oxidized iron in matrix; strongly effervescent; slightly alkaline (pH 7.8); clear smooth boundary
+
+ Cgf--62 to 100 cm; silt loam; gray (5Y 6/1) dry, dark gray (5Y 4/1) moist; massive; moderately hard, firm, nonsticky and nonplastic; strongly effervescent; slightly alkaline (pH 7.7)
+
+TYPE LOCATION: Yukon-Koyukuk Census Area, Alaska; latitude 66.3095500 degrees, longitude -148.1398800 degrees, datum WGS84 (coordinates determined with a GPS)
+
+RANGE IN CHARACTERISTICS:
+Mean annual soil temperature-- -4 to 1 degrees C
+Depth to permafrost--50 to 90 cm
+Depth to redoximorphic features--15 to 50 cm
+
+Oi and Oa horizons
+Combined thickness--10 to 18 cm
+Reaction--5.5 to 7.5
+
+Oe horizon (where present)
+Combined thickness--10 to 18 cm
+Reaction--5.5 to 7.5
+
+A horizon (where present)
+Hue--10YR, 2.5Y
+Value--2 to 4 moist, 4 to 6 dry
+Chroma--1 or 2 moist
+Fine-earth texture--silt loam, very fine sandy loam, silt
+Clay content--0 to 18 percent
+Reaction--6.0 to 7.5
+Effervescence--none
+Thickness--5 to 15 cm
+
+C and Cg horizons
+Hue--10YR, 2.5Y
+Value--3 or 4 moist, 5 or 6 dry
+Chroma--1 or 2 moist
+Fine-earth texture--silt loam, very fine sandy loam
+Clay content--0 to 18 percent
+Reaction--7.0 to 8.5
+Effervescence--none to strong
+Combined thickness--40 to 80 cm
+
+Cgf horizon
+Value--2 to 4 moist, 4 to 6 dry
+Chroma--1 or 2 moist
+Fine-earth texture--silt loam, very fine sandy loam
+Clay content--0 to 18 percent
+Reaction--7.0 to 8.5
+Effervescence--none to strong
+Thickness--60 to 100 cm
+
+COMPETING SERIES:
+Chetlechak--occasional flooding; lower positions on similar landforms
+Pitka--no flooding; scrubland depressions on adjacent terraces
+Dotlake--interdunes with sandy substrata; higher mean annual precipitation
+
+GEOGRAPHIC SETTING:
+Elevation--90 to 300 m
+Climate--short, warm summers and long, very cold winters
+Mean annual precipitation--210 to 310 mm
+Mean annual air temperature-- -12 to 0 degrees C
+Frost-free period--45 to 97 days
+
+GEOGRAPHICALLY ASSOCIATED SOILS:
+Jokinaugh--aquic conditions within 25 cm with frequent ponding; no permafrost; depressions on similar landforms
+Theodore--aquic conditions within 100 cm; no permafrost; adjacent flood plains
+Kingslough--no aquic conditions within 150 cm; adjacent flood plains
+Chetlechak--aquic conditions within 50 cm with occasional flooding; depressions on similar landforms
+
+DRAINAGE AND SATURATED HYDRAULIC CONDUCTIVITY:
+Drainage class-- poorly drained
+Saturation in normal years--water table top depth between a depth of 13 to 50 cm in June, and saturated below a depth of 50 cm throughout the rest of the year
+Flooding--rare
+Ponding--none
+Saturated hydraulic conductivity (Ksat)--high throughout
+
+USE AND VEGETATION:
+Use--wildlife habitat, subsistence, recreation
+Potential natural vegetation--white spruce, black spruce, resin birch, lingonberry, grayleaf willow, red fruit bearberry, prickly rose, black crowberry, bog blueberry, bog Labrador tea, littletree willow, shrubby cinquefoil, shrub birch, sedge, bluejoint, dwarf scouringrush, felt lichen, greygreen reindeer lichen, cup lichen, stairstep moss
+
+DISTRIBUTION AND EXTENT: Yukon Flats Lowlands, Alaska; MLRA 232; moderate extent
+
+SOIL SURVEY REGIONAL OFFICE (SSRO) RESPONSIBLE: Portland, Oregon
+
+SERIES ESTABLISHED: Yukon Flats National Wildlife Refuge, Yukon-Koyukuk Census Area, Alaska; 2020
+
+REMARKS:
+Diagnostic horizons and other features in this pedon
+*Particle-size control section--zone from 36 to 111 cm
+*Ochric epipedon
+*Redoximorphic iron concentrations--C and Cg horizons
+*Redoximorphic iron depletions with chroma of 2 or less--C and Cg horizons
+*Reduced matrix--Cg and Cgf horizons
+*Aquic conditions--C, Cg, and Cgf horizons
+*Permafrost--Cgf horizon
+
+
+National Cooperative Soil Survey
+U.S.A.

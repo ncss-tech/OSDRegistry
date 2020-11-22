@@ -1,0 +1,117 @@
+LOCATION CASTELL                TX
+
+Established Series
+Rev. HCD-CLG-WCC
+10/2016
+
+CASTELL SERIES
+
+The Castell series consists of soils that are well drained, and moderately deep to gneiss bedrock. These soils formed in residuum weathered from gneiss of pre-Cambrian age. These nearly level to gently sloping soils are on footslopes of ridges and hills on dissected plains of the Central Basin.  Slopes are 0 to 5 percent. Mean annual precipitation is about 686 mm (27 in) and mean annual temperature is about 19 degrees C (66 degrees F).
+
+TAXONOMIC CLASS: Fine, mixed, semiactive, thermic Typic Paleustalfs
+
+TYPICAL PEDON: Castell sandy loam, in rangeland.
+     (Colors are for dry soil unless otherwise stated.)
+
+    A--0 to 20 cm (0 to 8 in); brown (10YR 5/3) sandy loam, dark brown (10YR 3/3) moist; very hard and massive when dry, very hard, friable; common fine roots; common fine pores; 2 percent, 2 to 5 mm, quartz gravel, non-flat, subangular, indurated; slightly acid; clear smooth boundary. (Thickness of the A horizon is 15 to 48 cm [6 to 19 in])
+
+    Bt1--20 to 43 cm (8 to 17 in); yellowish brown (10YR 5/4) sandy clay, dark yellowish brown (10YR 4/4) moist; moderate medium subangular blocky structure; very hard, firm; common fine roots; common fine pores; 10 percent clay films on faces of peds; 2 percent, 2 to 20 mm, quartz gravel, non-flat, subangular, indurated; slightly acid; clear smooth boundary. 
+
+    Bt2--43 to 76 cm (17 to 30 in); strong brown (7.5YR 4/6) sandy clay, strong brown (7.5YR 4/6) moist; 10 percent fine distinct reddish yellow (7.5YR 6/6) and yellowish brown (10YR 5/6) mottles; moderate medium subangular block structure; very hard, firm, few fine roots; few fine pores; 30 percent clay films on faces of peds; 2 percent, 2 to 5 mm, quartz gravel, non-flat, subangular, indurated; moderately acid; abrupt smooth boundary. (Combined thickness of the Bt horizon is 20 to 85 cm [8 to 33 in])
+
+    Cr--76 to 107 cm (30 to 42 in); moderately cemented, weathered pinkish gneiss, that becomes harder with depth.
+
+TYPE LOCATION: Llano County, Texas; From the intersection of Highway 29 and County Road 102, approximately 10 miles west of Llano; 0.6 mile west on Highway 29, and 250 feet south in rangeland. 
+USGS topographic quadrangle: Scotts Crossing, Texas; 
+Latitude: 30 degrees, 44 minutes, 56.4 seconds N; 
+Longitude: 98 degrees, 49 minutes, 54.5 seconds W; 
+Datum: NAD83
+
+RANGE IN CHARACTERISTICS:
+Soil moisture: A typic ustic moisture regime
+Depth to bedrock: 50 to 100 cm (20 to 40 in)
+
+Particle-size control section (weighted average):
+   Clay content: 35 to 50 percent
+   Rock fragments: 0 to 30 percent by volume, feldspar, gneiss, and quartz gravel
+   Base saturation: 75 to 100 percent
+
+A horizon
+Hue: 5YR to 10YR
+Value: 4 to 5, 2 to 4 moist
+Chroma: 2 to 4, dry and moist
+Other features: In pedons where moist value and chroma are 3 or less, the epipedon is not thick enough for a mollic epipedon.
+Texture: Loamy coarse sand, loamy sand, coarse sandy loam, sandy loam, or fine sandy loam; and the gravelly phases
+Clay content: 6 to 20 percent
+Rock fragments: 0 to 30 percent by volume, feldspar, gneiss, and quartz gravel
+Reaction: Moderately acid to neutral
+
+Bt horizon
+Hue: 7.5YR or 10YR
+Value: 4 to 6, 3 to 6 moist
+Chroma: 3 to 6, dry and moist 
+Texture: Clay loam, clay, or sandy clay; and the gravelly phases 
+Clay content: 35 to 50 percent
+Rock fragments: 0 to 30 percent by volume, feldspar, gneiss, and quartz gravel
+Relict mottles: none to common, fine and medium; red or brown
+Reaction: Moderately acid to slightly alkaline
+
+Cr layer
+Kind: weathered gneiss (saprolitic) to unweathered and finely fractured gneiss bedrock
+Cementation: Extremely weakly cemented to moderately cemented
+Vertical fractures: Greater than 10 cm (4 in) apart horizontally
+
+COMPETING SERIES: The only series in the same family is Weswind. Similar soils are Hamby (TX), Katemcy (TX), Ligon (TX), Pedernales (TX), Shatruce (TX), Voca (TX), Wichita (TX), and Winters (TX).
+These soils, except Shatruce soils, have solum thicker than 100 cm (40 in), and all of these soils formed in parent material from other than gneiss bedrock.
+Katemcy soils: do not have an abrupt texture change.
+Ligon and Shatruce soils: have hues of 5YR or redder in the argillic horizon.
+Pedernales and Winters soils: have identifiable secondary carbonates at depths of 72 to 127 cm (28 to 50 in).
+Voca soils: are greater than 150 cm (60 in) to bedrock.
+Weswind soils: are greater than 150 cm (60 in) to claystone bedrock or dense clay.
+Wichita soils: have secondary carbonates within 72 cm (28 in) and have a calcic horizon within 100 to 150 cm (40 to 60 in).
+
+GEOGRAPHIC SETTING: 
+Parent material: Residuum weathered from pre-Cambrian gneiss bedrock. 
+Landscape: Dissected plains
+Landform: undulating plains and footslopes of ridges and hills
+Slope: 0 to 5 percent
+Precipitation Pattern: The majority of the yearly amount occurs during the fall and spring months. The winter and summer months are normally drier.
+Mean annual precipitation: 686 to 838 mm (27 to 33 in)
+Thornthwaite P-E Index: 37 to about 44
+Mean annual air temperature: 18.3 to 19.4 degrees C (65 to 67 degrees F)
+Frost free days: 210 to 240
+Elevation: 243.8 to 579.1 m (800 to 1,900 ft)
+
+GEOGRAPHICALLY ASSOCIATED SOILS: These are the Keese and the competing Katemcy, Ligon, and Voca series.
+Katemcy and Voca soils: occur on similar positions.
+Keese soils: Do not have an argillic horizon, are shallow to granite bedrock, and occur on backslopes, shoulders, and summits of hills and ridges.
+Ligon soils: occur on summits, shoulders, and backslopes of hills and ridges. 
+
+DRAINAGE AND PERMEABILITY: Well drained. Permeability is moderately slow to slow. Runoff is low on slopes less than 1 percent and medium on 1 to 5 percent slopes.
+
+USE AND VEGETATION: Used mainly for rangeland. Small areas farmed to small grain and sorghums for grazing and hay. Native vegetation consists of little bluestem, purpletop, sand lovegrass, and sideoats grama grasses with scattering of post oak and live oak trees. In many places the vegetation is mesquite trees, whitebrush, Texas persimmon trees, tasajillo, grasses such as threeawn, sand dropseed, fringeleaf paspalum, and numerous forbs.
+
+DISTRIBUTION AND EXTENT: Central Texas; Southwest Plateaus and Plains Range and Cotton Region, LLR I; MLRA 82A-Texas Central Basin. This series is extensive with about 100,000 acres. 
+
+MLRA SOIL SURVEY REGIONAL OFFICE (MO) RESPONSIBLE: Temple, Texas
+
+SERIES ESTABLISHED: Gillespie County, Texas; 1970
+
+REMARKS: 
+Edited 10/2016 (RFG-THW): Updated geographic setting section and a few format edits.
+
+Diagnostic horizons and features recognized in pedon are:
+Particle-size control section: 20 to 70 cm (8 to 28 in) (Bt horizon)
+Ochric epipedon: 0 to 20 cm (0 to 8 in). (A horizon)
+Argillic horizon: 20 to 76 cm (8 to 30 in). (Bt horizon)
+Paralithic contact: The contact with gneiss bedrock at 76 cm (30 in). (Cr horizon)
+Pale feature: Abrupt texture change between surface layer and argillic horizon.
+
+ADDITIONAL DATA: Lab data available from the National Soil Survey Laboratory on pedon numbers 82TX299003 (samples 82P04363-82P04368), 87TX299003 (samples 87P02424-87P02427), and S11TX299004 (samples 12N01288-12N01291) from Llano County, TX. 
+
+Stahnke, Clyde, 1965, A Study of Mineral Transformations and Weathering Processes Occurring during the Genesis of Two Soils developed from Gneiss and Schist in Llano County, Texas; May 1965, Masters thesis, Texas Technological College, Lubbock, Texas.
+
+TAXONOMIC VERSION: Keys to Soil Taxonomy, 12th Edition, 2014.
+
+National Cooperative Soil Survey
+U.S.A.

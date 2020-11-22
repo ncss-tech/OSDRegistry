@@ -1,0 +1,107 @@
+LOCATION COZAD                  NE+KS
+
+Established Series
+Rev. LGR,DLH RRZ
+10/2005
+
+COZAD SERIES
+
+The Cozad series consists of very deep, well drained soils that formed in silty alluvium on stream terraces along the Platte River system in Nebraska.  Slope is typically 0 to 5 percent, but ranges up to 11 percent on the terrace riser.  Mean annual precipitation is 58 centimeters (23 inches) at the type location.   Mean annual temperature is 11 degrees C (51 degrees F).
+
+TAXONOMIC CLASS: Coarse-silty, mixed, superactive, mesic Typic Haplustolls
+
+TYPICAL PEDON:  Cozad silt loam on a 1 percent slope in a cultivated field.  When described, the soil was moist throughout.  (Colors are for dry soil unless otherwise stated.)
+
+  Ap--0 to 20 centimeters (0 to 8 inches); gray (10YR 5/1) silt loam, very dark grayish brown (10YR 3/2) moist; weak medium granular structure; slightly hard, very friable; neutral; abrupt smooth boundary.
+
+  A--20 to 30 centimeters (8 to 12 inches); gray (10YR 5/1) silt loam, very dark grayish brown (10YR 3/2) moist; moderate medium granular structure; slightly hard, very friable; neutral; abrupt smooth boundary.  (Combined thickness of A horizon ranges from 7 to 20 inches.)
+
+  Bw--30 to 46 centimeters (12 to 18 inches); grayish brown (10YR 5/2) silt loam, dark grayish brown (10YR 4/2) moist; moderate fine and medium subangular blocky structure; slightly hard, very friable; neutral; clear smooth boundary.  (5 to 12 inches thick)
+
+  C1--46 to 122 centimeters (18 to 48 inches); light brownish gray (10YR 6/2) very fine sandy loam, grayish brown (10YR 5/2) moist; massive; slightly hard, very friable; thin stratification; neutral; gradual smooth boundary.
+
+  C2--122 to 203 centimeters (48 to 80 inches); light brownish gray (10YR 6/2) very fine sandy loam, grayish brown (10YR 5/2) moist; massive; slightly hard, very friable; thin stratification; slight effervescence; slightly alkaline.
+
+TYPE LOCATION:  Buffalo County, Nebraska; one mile north and one mile west of Odessa, Nebraska; 30 meters (100 feet) west and 64 meters (210 feet) north of the southeast corner, sec. 29, T. 9 N., R. 17 W.
+
+RANGE IN CHARACTERISTICS:
+Soil moisture: The soil moisture control section is moist in some part from April to September;
+Moisture regime: ustic
+Depth to secondary carbonates: 25 to 122 centimeters (10 to 48 inches)
+Thickness of mollic epipedon: 18 to 51 centimeters (7 to 20 inches)
+Thickness of solum: 36 to 81 centimeters (14 to 32 inches)
+Comment: buried soils are common
+
+Particle size control section (weighted average)
+Clay: 10 to 18 percent
+
+A horizon:
+Hue; 10YR
+Value: 3 to 5 dry, 2 or 3 moist
+Chroma: 1 or 2
+Texture: typically is silt loam, but range from loam, fine sandy loam, silty clay loam, or very fine sandy loam
+Reaction: slightly acid or neutral
+
+Bw horizon: (BC horizon if present)
+Hue of 10YR
+Value: 4 to 6 dry, 3 to 5 moist
+Chroma: 2 or 3
+Texture: silt loam, loam, or very fine sandy loam
+Reaction: slightly acid to slightly alkaline
+
+C horizon:
+Hue of 10YR
+Value: 5 to 7 dry, 4 or 5 moist
+Chroma: 2 or 3
+Texture: silt loam or very fine sandy loam stratified with coarser and finer textured material.  Some pedons have layers of stratified clayey to sandy material below a depth of 40 inches
+Reaction: neutral to moderately alkaline
+
+COMPETING SERIES: These are the Kenesaw and Lowry soils.   
+Kenesaw and Lowry soils are on uplands and formed in loess.
+
+GEOGRAPHIC SETTING:  
+Parent Material: alluvium 
+Landform: stream terraces typically along streams or drains which have received recent sediments.  Slopes: 0 to 5 percent, but the extreme range is 0 to 11 percent.  
+Mean annual precipitation: 48 to 74 centimeters (19 to 29 inches).
+Mean annual temperature: 10 to 13 degrees C (49 degrees to 56 degrees F).
+
+GEOGRAPHICALLY ASSOCIATED SOILS:  These are the Gosper, Hall, Hobbs, Hord, and Wood River soils.  
+Gosper soils have a fine-loamy control section and an argillic horizon.  
+Hall and Hord soils have a thicker mollic epipedon.  
+Gosper, Hall, and Hord soils occur at a higher elevation.  
+Hobbs soils are stratified above a depth of 10 inches and occur at a lower elevation.  
+Wood River soils have a fine control section and an argillic horizon and occur at a lower elevation.
+
+DRAINAGE AND SATURATED HYDRAULIC CONDUCTIVITY:  
+Drainage: well  
+Runoff: low or moderate  
+Saturated Hydraulic Conductivity: moderately high
+
+USE AND VEGETATION:  Most areas are cultivated and much of it is irrigated.  
+The main crops are corn, alfalfa, and sorghums.  
+The native grasses are big bluestem, switchgrass, little bluestem, and western wheatgrass.
+
+DISTRIBUTION AND EXTENT:  Central Nebraska and north central Kansas.  The series is moderately extensive.  
+
+MLRA SOIL SURVEY REGIONAL OFFICE (MO) RESPONSIBLE: Denver, Colorado
+
+SERIES ESTABLISHED:  Buffalo County, Nebraska, June 1970.
+
+REMARKS:  
+The diagnostic horizons and characteristics recognized in this soil are:  
+Mollic epipedon: 0 to 30 centimeters (0 to 12 inches) (Ap and A horizons). 
+Cambic horizon: 30 to 46 centimeters (12 to 18 inches) (Bw horizon). 
+Organic carbon: irregular decrease in content.
+OSD Modification: C horizon some pedons have layers of stratified clayey to sandy material below 102 centimeters (40 inches). 
+
+Phases of this series that have been correlated include saline-alkali and wet substratum.  
+Cozad was in the fine-silty family, but laboratory data showed it to be coarse-silty.  
+
+10/3/02 PRF
+Modified the classification to "Typic".  This soil formed on stable stream terraces and no evidence of stratification is identified.  Lab data supports a "regular" decrease in organic matter.
+
+10/21/05 JCR
+Changed permeability to KSAT
+
+National Cooperative Soil Survey
+U.S.A.

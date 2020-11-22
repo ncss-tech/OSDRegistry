@@ -1,0 +1,121 @@
+LOCATION CHAMATE                OR
+
+Established Series
+Rev. DRJ/JGM/KMS
+01/2017
+
+CHAMATE SERIES
+
+Landscape--western Cascade Mountains
+Landform--mountain slopes, some of which are south-facing; footslopes
+Slope--3 to 90 percent
+Parent material--colluvium derived from welded tuff
+Drainage class--well drained
+Depth class--very deep
+Mean annual precipitation--1500 mm
+Mean annual air temperature--10 degrees C
+Soil moisture regime--udic
+Soil temperature regime--mesic
+Soil temperature subclass--typic
+
+TAXONOMIC CLASS: Loamy-skeletal, isotic, mesic Typic Dystrudepts
+
+TYPICAL PEDON: Chamate extremely gravelly loam in a forested area on a northwest-facing, 55-percent slope at an elevation of 536 mm
+
+ Oi--0 to 3 cm; slightly decomposed plant material consisting of needles, cones, mosses, and lichens
+
+ A--3 to 20 cm; extremely gravelly loam, light brownish gray (10YR 6/2) dry, dark grayish brown (10YR 4/2) moist; single grain; loose, nonsticky and nonplastic; many very fine and fine and few medium roots; 80 percent gravel; slightly acid (pH 6.4); abrupt smooth boundary
+
+ AB--20 to 41 cm; very gravelly loam, light gray (10YR 7/2) dry, brown (10YR 4/3) moist; moderate medium granular structure; soft, friable, nonsticky and nonplastic; many very fine and fine roots; common very fine tubular pores; 45 percent gravel; neutral (pH 6.6); clear smooth boundary
+
+ Bw1--41 to 86 cm; very gravelly loam, light gray (10YR 7/2) dry, brown (10YR 4/3) moist; weak medium subangular blocky structure parting to weak medium granular; slightly hard, friable, slightly sticky and slightly plastic; common very fine and medium roots; many very fine, fine, and medium tubular pores; 45 percent gravel; neutral (pH 6.6); gradual wavy boundary
+
+ Bw2--86 to 145 cm; very gravelly loam, very pale brown (10YR 7/3) dry, brown (10YR 5/3) moist; weak medium and coarse subangular blocky structure; slightly hard, friable, slightly sticky and slightly plastic; few fine roots; many very fine and fine tubular pores; 55 percent gravel; neutral (pH 6.8); clear wavy boundary
+
+ C--145 to 170 cm; extremely gravelly loam, very pale brown (10YR 7/3) dry, brown (10YR 5/3) moist; massive; soft, very friable, nonsticky and nonplastic; common very fine, fine, and medium roots; many very fine and fine tubular pores; 65 percent gravel and 10 percent cobbles; neutral (pH 6.8)
+
+TYPE LOCATION: Douglas County, Oregon, about 4 km southeast of the community of Peel; about 490 m west and 150 m south of the northeast corner of section 13, T. 27 S., R. 3 W.; latitude 43.2274819, longitude -122.9967457, datum WGS 84 (coordinates estimated from PLSS details)
+
+RANGE IN CHARACTERISTICS:
+Dry days--30 to 45 consecutive days following summer solstice
+Mean annual soil temperature--9 to 12 degrees C
+Thickness of cambic horizon--100 to 150 cm
+Reaction--5.5 to 7.3
+
+Particle-size control section
+*Clay content--8 to 18 percent
+*Total fragment content--40 to 70 percent
+
+O horizon
+*Thickness--1 to 8 cm
+
+A and AB horizons
+*Hue--10YR, 7.5YR
+*Value--3 to 5 moist, 5 to 7 dry
+*Chroma--2 to 4 moist, 2 or 3 dry
+*Fine-earth texture--loam, sandy loam
+*Clay content--8 to 18 percent
+*Sand content--40 to 55 percent
+*Total fragment content--40 to 80 percent
+*Gravel content--40 to 80 percent
+*Cobble content--0 to 15 percent
+*Thickness--10 to 45 cm
+
+Bw and C horizons
+*Hue--10YR, 7.5YR
+*Value--4 or 5 moist, 6 to 8 dry
+*Chroma--3 or 4 moist, 2 or 3 dry
+*Fine-earth texture--loam, sandy loam
+*Clay content--8 to 18 percent
+*Sand content--40 to 60 percent
+*Total fragment content--40 to 75 percent
+*Gravel content--40 to 65 percent
+*Cobble content--0 to 20 percent
+*Stone content--0 to 5 percent
+*Combined thickness of Bw horizon--100 to 150 cm
+
+COMPETING SERIES:
+Piperock--50 to 100 cm deep to lithic contact
+Remote--50 to 100 cm deep to paralithic contact; 15 to 35 percent clay in particle-size control section
+
+GEOGRAPHIC SETTING:
+Elevation--200 to 1070 m
+Climate--warm, wet winters; hot, moist summers
+Mean annual precipitation--1050 to 1900 mm
+Mean annual air temperature--8 to 11 degrees C
+Frost-free period--100 to 165 days
+
+GEOGRAPHICALLY ASSOCIATED SOILS:
+Gustin--fine particle-size class; somewhat poorly drained to moderately well drained; on concave side slopes and in swales
+Harrington--50 to 100 cm deep to lithic contact; on convex side slopes
+Honeygrove--fine particle-size class; on concave side slopes and broad ridges
+Kinney--less than 35 percent rock fragments; umbric epipedon; andic soil properties in upper part; on side slopes
+Klickitat--umbric epipedon; on side slopes
+Orford--fine particle-size class; broad ridges
+Vena--50 to 100 cm deep to lithic bedrock; xeric soil moisture regime; on convex side slopes
+
+DRAINAGE AND PERMEABILITY:
+Drainage class--well drained
+Saturation during normal years--none
+Flooding--none
+Ponding--none
+Saturated hydraulic conductivity (Ksat)--high
+
+USE AND VEGETATION:
+Use--timber production, wildlife habitat, road surfacing material
+Potential natural vegetation--Douglas-fir, incense cedar, Pacific madrone, salal, Cascade Oregon grape, western fescue
+
+DISTRIBUTION AND EXTENT: Cascade Mountains in southwestern Oregon; MLRA 3; small extent
+
+MLRA SOIL SURVEY REGIONAL OFFICE (MO) RESPONSIBLE: Portland, Oregon
+
+SERIES ESTABLISHED: Douglas County, Oregon; 1994
+
+REMARKS:
+Diagnostic horizons and features recognized in this pedon
+*Ochric epipedon
+*Cambic horizon--zone from 20 to 145
+*Particle-size control section--zone from 28 to 103 cm
+
+National Cooperative Soil Survey
+U.S.A.

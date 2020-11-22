@@ -1,0 +1,150 @@
+LOCATION SHARP                  AK
+
+Established Series
+SAS/ABD/MPR
+03/2019
+
+SHARP SERIES
+
+Landscape--hills, mountains
+Landform--hillslopes, mountain slopes
+Slope--0 to 50 percent
+Parent material--colluvium, residuum
+Mean annual precipitation--about 1000 mm
+Mean annual air temperature--about 0 degrees C
+Depth class--deep
+Drainage class--well drained
+Soil moisture regime--udic
+Soil temperature regime--cryic
+Soil moisture subclass--typic
+
+TAXONOMIC CLASS: Loamy-skeletal, isotic Typic Dystrocryepts
+
+TYPICAL PEDON: Sharp silt loam on a northeast-facing, convex shoulder on the center third of a mountain, on a slope of 12 percent at an elevation of 442 m (The soil was moist throughout when described on July 31, 2008.)
+
+ Oe--0 to 2 cm; moderately decomposed plant material; many very fine, common fine, and few medium roots; very strongly acid (pH 4.6); clear smooth boundary
+
+ A--2 to 6 cm; silt loam, brown (7.5YR 4/2) dry, very dark brown (7.5YR 2.5/2) moist; weak fine granular structure; slightly hard, friable, nonsticky and nonplastic; common very fine to medium roots; 10 percent gravel; very strongly acid (pH 4.9); clear wavy boundary
+
+ Bw1--6 to 28 cm; gravelly silt loam, pale brown (10YR 6/3) dry, brown (10YR 4/3) moist; weak medium subangular blocky structure; slightly hard, friable, nonsticky and nonplastic; common very fine to medium roots; 25 percent gravel and 5 percent cobbles; strongly acid (pH 5.4); clear wavy boundary
+
+ Bw2--28 to 69 cm; very gravelly silt loam, pale brown (10YR 6/3) dry, dark brown (10YR 3/3) moist; weak medium subangular blocky structure; slightly hard, friable, nonsticky and nonplastic; common very fine to medium roots; 40 percent gravel and 15 percent cobbles; slightly acid (pH 6.1); gradual wavy boundary
+
+ Bw3--69 to 140 cm; extremely gravelly silt loam, yellowish brown (10YR 5/4) dry, dark yellowish brown (10YR 3/4) moist; weak fine subangular blocky structure; slightly hard, friable, nonsticky and nonplastic; few very fine and fine roots; 25 percent gravel, 25 percent cobbles, and 20 percent stones; moderately acid (pH 6.0); very abrupt irregular boundary
+
+ 2R--140 cm; bedrock
+
+TYPE LOCATION: Dillingham Census Area, Alaska, about 150 km northeast of the city of Dillingham; latitude 59.8188889 degrees north, longitude 156.3266667 degrees west, datum WGS 84 (coordinates determined with a GPS)
+
+RANGE IN CHARACTERISTICS:
+Mean annual soil temperature--0 to 2 degrees C
+Soil moisture control section--dry less than 45 consecutive days in June through October (udic soil moisture regime)
+Depth to lithic contact--100 to 150 cm (deep)
+
+Particle-size control section
+*Clay content--2 to 18 percent
+*Sand content--20 to 75 percent
+*Total rock fragment content--35 to 80 percent
+*Sodium fluoride pH--8.4 to 11.6
+*Ratio of 1500 kPa water to measured clay--0.6 to 6.0
+
+Oe horizon
+Thickness--2 to 6 cm
+
+A horizon
+Hue--7.5YR, 10YR
+Value--2 to 3 moist, 4 or 5 dry
+Chroma--2 to 4 moist
+Fine-earth texture--silt loam, silt
+Clay content--2 to 12 percent
+Reaction--4.4 to 5.8
+Total rock fragment content--5 to 50 percent
+Gravel content--0 to 50 percent
+Cobble content--0 to 15 percent
+Base saturation--0 to 50 percent
+Thickness--2 to 15 cm
+
+Bw1 horizon
+Hue--7.5YR, 10YR
+Value--2.5 to 4 moist, 4 to 6 dry
+Chroma--2 to 4 moist
+Clay content--2 to 15 percent
+Reaction--4.9 to 5.7
+Total rock fragment content--15 to 60 percent
+Gravel content--15 to 45 percent
+Cobble content--0 to 15 percent
+Stone content--0 to 5 percent
+Base saturation--0 to 50 percent
+Thickness--15 to 60 cm
+
+Bw2 horizon
+Hue--10YR, 2.5Y
+Value--3 or 4 moist, 5 or 6 dry
+Chroma--2 to 4 moist
+Clay content--2 to 15 percent
+Reaction--5.4 to 6.1
+Total rock fragment content--35 to 70 percent
+Gravel content--30 to 55 percent
+Cobble content--0 to 25 percent
+Stone content--0 to 15 percent
+Base saturation--0 to 50 percent
+Thickness--15 to 60 cm
+
+Bw3 horizon
+Hue--10YR, 2.5Y
+Value--3 to 5 moist, 5 or 7 dry
+Chroma--2 to 4 moist
+Fine-earth texture--silt loam, sandy loam, very fine sandy loam, loam
+Clay content--2 to 15 percent
+Reaction--5.1 to 6.5
+Total rock fragment content--35 to 85 percent
+Gravel content--5 to 85 percent
+Cobble content--0 to 75 percent
+Stone content--0 to 35 percent
+Base saturation--40 to 90 percent
+Thickness--more than 48 cm
+
+COMPETING SERIES:
+Stuyahok--no lithic contact
+Bensley--no lithic contact; mean annual soil temperature of 3 to 7 degrees C
+Endlich--lithic contact at a depth of 50 to 100 cm
+Fallriver--albic horizon; 15 to 30 percent mica in the particle-size control section
+Henson--18 to 35 percent clay in the particle-size control section
+
+GEOGRAPHIC SETTING:
+Elevation--25 to 1000 m
+Climate--warm, moist summers; cold, moist winters
+Mean annual precipitation--580 to 1800 mm
+Mean annual air temperature-- -3.7 to 0.9 degrees C
+Frost-free period--80 to 135 days
+
+GEOGRAPHICALLY ASSOCIATED SOILS:
+Cranberrycreek--andic soil properties; less than 25 percent rock fragments in the particle-size control section; similar landscape positions
+Stuyahok--no lithic contact; plains
+Tikchik--no lithic contact; umbric epipedon; hillslopes
+
+DRAINAGE AND SATURATED HYDRAULIC CONDUCTIVITY:
+Drainage class--well drained
+Saturated hydraulic conductivity (Ksat)--moderately high or high throughout
+
+USE AND VEGETATION:
+Use--wildlife habitat, recreation, subsistence
+Potential natural vegetation--bog blueberry, black crowberry, alpine azalea, lingonberry, dwarf birch, marsh Labrador tea, alpine bearberry, arctic willow, Bering Sea sedge, lichens
+
+DISTRIBUTION AND EXTENT: Bristol Bay Lowlands, Alaska; MLRA 236; small extent
+
+SOIL SURVEY REGIONAL OFFICE (SSRO) RESPONSIBLE: Portland, Oregon
+
+SERIES ESTABLISHED: Togiak National Wildlife Refuge, Ahklun Mountains Area, Alaska; 2019
+
+REMARKS:
+Diagnostic horizons and other features in this pedon
+*Particle-size control section--zone from 27 to 102 cm
+*Ochric epipedon
+*Cambic horizon--Bw horizon
+*Depth to lithic contact--140 cm
+
+Laboratory pedon number 09N0085
+
+National Cooperative Soil Survey
+U.S.A.

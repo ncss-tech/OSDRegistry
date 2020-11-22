@@ -1,0 +1,122 @@
+LOCATION NOLITNA                AK
+
+Established Series
+JDP/NR/TJR
+04/2020
+
+NOLITNA SERIES
+
+Landscape--alluvial plains
+Landform--sand dunes on terraces
+Slope--1 to 10 percent
+Parent material--eolian deposits
+Mean annual precipitation--about 255 mm
+Mean annual air temperature--about -6 degrees C
+Depth class--very deep
+Drainage class--well drained
+Soil moisture regime--udic
+Soil temperature regime--cryic
+Soil moisture subclass--typic
+
+TAXONOMIC CLASS: Mixed Typic Cryopsamments
+
+TYPICAL PEDON: Nolitna stratified very fine sand-loamy very fine sand on a woodland dune with a slope of 2 percent and an elevation of 135 m (The soil was moist throughout when described on August 28, 2014.)
+
+ Oe--0 to 2 cm; moderately decomposed plant material; moderately acid (pH 6.0); clear smooth boundary
+
+ A/E--2 to 15 cm; stratified very fine sand, loamy very fine sand; 80 percent very pale brown (10YR 7/3) dry, brown (10YR 5/3) moist, and 20 percent light yellowish brown (2.5Y 6/4) dry, olive brown (2.5Y 4/4) moist; weak, fine granular structure; loose; 5 percent strong brown (7.5YR 5/6) moist, mottles in matrix and 10 percent light gray (10YR 7/2) moist, mottles in matrix; noneffervescent; slightly acid (pH 6.2); clear wavy boundary
+
+ AC--15 to 32 cm; stratified very fine sand, loamy very fine sand; yellow (10YR 7/6) dry, yellowish brown (10YR 5/6) moist; weak, fine granular structure; loose; 5 percent yellowish brown (10YR 5/6) moist, mottles in matrix; noneffervescent; neutral (pH 6.8); diffuse smooth boundary
+
+ C1--32 to 100 cm; stratified fine sand, loamy fine sand; pale brown (10YR 6/3) dry, brown (10YR 4/3) moist; single grain; loose; noneffervescent; neutral (pH 7.3)
+
+ C2--100 to 150 cm; stratified fine sand, loamy fine sand; light brownish gray (10YR 6/2) dry, dark grayish brown (10YR 4/2) moist; single grain; loose; noneffervescent; slightly alkaline (pH 7.8)
+
+TYPE LOCATION: Yukon-Koyukuk Census Area, Alaska; latitude 66.5103061 degrees, longitude -146.0315031 degrees, datum WGS84 (coordinates determined with a GPS)
+
+RANGE IN CHARACTERISTICS:
+Mean annual soil temperature--0.5 to 2.5 degrees C
+
+Oi horizons (where present)
+Thickness--1 to 10 cm
+Reaction--6.0 to 7.5
+
+Oe horizons
+Thickness--1 to 10 cm
+Reaction--6.0 to 7.5
+
+A horizons (where present)
+Hue--2.5Y to 7.5YR
+Value--3 to 5 moist, 5 to 7 dry
+Chroma--2 to 4 moist
+Fine-earth texture--loamy very fine sand to loamy sand, very fine sand to sand
+Clay content--0 to 10 percent
+Reaction--6.0 to 8.0
+Effervescence--none to slight
+Thickness--3 to 35 cm
+
+AC and A/E horizons 
+Hue--2.5Y to 7.5YR
+Value--3 to 5 moist, 5 to 7 dry
+Chroma--2 to 4 moist
+Fine-earth texture--loamy very fine sand to loamy sand, very fine sand to sand
+Clay content--0 to 10 percent
+Reaction--6.0 to 8.0
+Effervescence--none to slight
+Combined thickness--3 to 35 cm
+
+C horizons
+Hue--10YR, 2.5Y
+Value--3 to 5 moist, 5 to 7 dry
+Chroma--2 to 4 moist
+Fine-earth texture--loamy very fine sand to loamy sand, very fine sand to sand
+Clay content--0 to 10 percent
+Reaction--7.0 to 8.5
+Effervescence--none to slight
+Combined thickness--110 to 140 cm
+
+COMPETING SERIES: 
+Lukanin--reaction does not range above neutral in any horizon
+Skagway--aquic conditions between 50 and 75 cm during the growing season
+Teklanika--reaction does not range above neutral in any horizon 
+
+GEOGRAPHIC SETTING:
+Elevation--90 to 300 m
+Climate--short, warm summers and long, very cold winters
+Mean annual precipitation--210 to 310 mm
+Mean annual air temperature-- -12 to 0 degrees C
+Frost-free period--45 to 97 days
+
+GEOGRAPHICALLY ASSOCIATED SOILS:
+Tlozhavun--no aquic conditions within 150 cm; similar landforms
+Tajittro--aquic conditions within 100 cm; similar landforms
+Yasuda--aquic conditions within 25 cm; depressions on similar landforms
+Choonjik--no aquic conditions within 150 cm; calcareous; similar landforms
+
+DRAINAGE AND SATURATED HYDRAULIC CONDUCTIVITY:
+Drainage class--well drained
+Saturation in normal years--none
+Flooding--none
+Ponding--none
+Saturated hydraulic conductivity (Ksat)--high or very high throughout
+
+USE AND VEGETATION:
+Use--wildlife habitat, subsistence, recreation
+Potential natural vegetation--white spruce, quaking aspen, kinnikinnick, lingonberry, purple reedgrass, false toadflax, flavo lichen, greygreen reindeer lichen, star reindeer lichen, quill lichen, cup lichen
+
+DISTRIBUTION AND EXTENT: Yukon Flats Lowlands, Alaska; MLRA 232; small extent
+
+SOIL SURVEY REGIONAL OFFICE (SSRO) RESPONSIBLE: Portland, Oregon
+
+SERIES ESTABLISHED: Yukon Flats National Wildlife Refuge, Yukon-Koyukuk Census Area, Alaska; 2020
+
+REMARKS:
+Diagnostic horizons and other features in this pedon
+*Particle-size control section--zone from 27 to 102 cm
+*Ochric epipedon
+The A/E and AC horizons do not meet the organic carbon content required for an umbric epipedon when mixed to a depth of 18 cm.
+Inclusions of albic materials with high value, low chroma colors may be present in A/E horizons.
+
+
+National Cooperative Soil Survey
+U.S.A.

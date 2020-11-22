@@ -1,0 +1,159 @@
+LOCATION BORDAS                 TX
+
+Established Series
+DNB-ROG-CLN
+11/2007
+
+BORDAS SERIES
+
+The Bordas series consists of very deep, very poorly drained, moderately slow permeable soils.  These nearly level soils formed in sandy eolian deposits over loamy sediments in depressions of the Sandsheet Prairie of the South Texas Coastal Plain.  Slope ranges from 0 to 1 percent.  Mean annual air temperature is about 22 degrees C (72 degrees F), and mean annual precipitation is about 660 mm (26 in).
+
+TAXONOMIC CLASS: Fine-loamy, mixed, active, hyperthermic Typic Albaqualfs
+
+TYPICAL PEDON:  Bordas loamy fine sand--in a slightly concave depression with a 0 to 1 percent slope in rangeland at an elevation of 5.2 m (17 ft). (Colors are for dry soil unless otherwise stated.)
+
+    A1--0 to 20 cm (0 to 8 in); gray (10YR 6/1) loamy fine sand, dark gray (10YR 4/1) moist; weak fine subangular blocky structure parting to weak fine granular; soft, very friable; 5 percent fine distinct yellowish brown (10YR 5/4) masses of oxidized iron; moderately acid; clear smooth boundary. 
+
+    A2--20 to 28 cm (8 to 11 in) inches; gray (10YR 6/1) loamy fine sand, dark grayish brown (10YR 4/2) moist; weak fine subangular blocky structure parting to weak fine granular; soft, very friable; 3 percent fine distinct yellowish brown (10YR 5/4) masses of oxidized iron; slightly acid; abrupt smooth boundary. (combined thickness of the A horizon is 15 to 46 cm [6 to 18 in])
+
+    Btg1--28 to 46 cm (11 to 18 in); dark grayish brown (10YR 4/2) sandy clay loam, very dark gray (10YR 3/1); moderate coarse prismatic structure parting to moderate fine and medium angular blocky; many distinct clay films on vertical surfaces of peds; 5 percent fine and medium prominent yellowish brown (10YR 5/8) masses of oxidized iron; neutral; clear smooth boundary.
+
+    Btg2--46 to 66 cm (18 to 26 in); light gray (10YR 7/2) sandy clay loam, light brownish gray (10YR 6/2); moderate coarse prismatic structure parting to moderate fine and medium angular blocky; very dark gray (10YR 3/1) organic stains on vertical surfaces of peds; many distinct clay films on vertical faces of peds; 5 percent fine and medium prominent yellowish brown (10YR 5/8) masses of oxidized iron; neutral; clear smooth boundary.
+
+    Btg3--66 to 104 cm (26 to 41 in); very pale brown (10YR 8/2) sandy clay loam, light gray (10YR 7/2); moderate coarse prismatic structure parting to moderate fine and medium angular blocky; common distinct clay films on vertical faces of peds; dark gray (10YR 4/1) organic stains on vertical surfaces of peds; 5 percent fine and medium prominent brownish yellow (10YR 6/8) and 2 percent fine and medium prominent brownish yellow (10YR 6/6) masses of oxidized iron; 1 percent calcium carbonate masses; 1 percent iron manganese nodules; moderately alkaline; clear smooth boundary.
+
+    Btg4--104 to 178 cm (41 to 70 in); very pale brown (10YR 8/3) sandy clay loam, light gray (10YR 7/2); moderate fine and medium subangular blocky; common distinct clay films on vertical surfaces of peds; 5 percent iron manganese nodules; 5 percent fine and medium prominent yellowish brown (10YR 5/8) masses of oxidized iron; 1 percent calcium carbonate masses; strongly alkaline; gradual smooth boundary. (combined thickness of the Btg horizons is 102 to 203 cm [40 to 80 in])
+
+    Btg5--178 to 203 cm (70 to 80 in); pale yellow (5Y 8/3) sandy clay loam, light gray (5Y 7/2); moderate fine and medium subangular blocky; few faint clay films on vertical surfaces of peds; 4 percent iron-manganese nodules; 5 percent medium prominent greenish gray (10Y 5/1) iron depletions; 1 percent calcium carbonate masses; strongly alkaline.
+
+TYPE LOCATION:  Kenedy County, Texas; from the intersection of La Parra Avenue and U.S. Highway 77 in Sarita; 30.15 miles south on U.S. Highway 77 to the ranch gate of the Norias Division of the King Ranch; 0.25 east on ranch road; 2.8 miles southeast on ranch road; 1.25 miles east on ranch road; 1,600 feet north on ranch road; 100 feet west in depression in rangeland. Saltillo Well, Texas USGS topographic quadrangle; Latitude: 26 degrees; 45 minutes; 02 seconds N. and Longitude: 97 degrees, 43 minutes, 17 seconds W., NAD 83.
+
+RANGE IN CHARACTERISTICS:
+Soil Moisture: The soil has an aquic soil moisture regime.  The ground water fluctuates with the seasons, May through October are the wettest months, and November through April the driest months.
+Depth to argillic horizon: 13 to 48 cm (5 to 19 in) 
+Depth to secondary calcium carbonate: 89 to great than 203 cm (35 to greater than 80 in)
+Depth to redox concentrations: 0 to 48 cm (0 to 19 in)
+Depth to redox depletions or depleted matrix: 28 to 86 cm (11 to 34 in)
+
+Particle-size control section (weighted average)
+Clay content: 22 to 33 percent
+Sand content: 60 to 79 percent
+CEC/clay ratio: 0.40 to 0.60
+
+A horizon
+Hue: 10YR
+Value: 4 to 6
+Chroma: 1 or 2
+Texture: fine sand, loamy fine sand, or fine sandy loam
+Clay content: 3 to 16 percent
+Redox concentrations: amount- none to common, size- fine, contrast- faint or distinct, and boundary- clear or distinct.
+EC (dS/m): 0 to 2
+SAR: 0 to 4
+Reaction: strongly acid to slightly acid
+
+E horizons (where present)
+Hue: 10YR
+Value: 5 or 6
+Chroma: 1 or 2
+Texture: loamy fine sand, fine sandy loam, or less commonly fine sand
+Clay content: 3 to 16 percent
+Redox concentrations:  amount-none to common, size- fine, contrast-faint or distinct, and boundary- clear or distinct.
+EC (dS/m): 0 to 2
+SAR: 0 to 4
+Reaction: strongly acid to neutral
+
+Btg1 horizon
+Hue: 10YR
+Value: 3 to 6
+Chroma: 1 or 2
+Texture: sandy clay loam or less commonly fine sandy loam
+Clay content: 18 to 35 percent
+Redox concentrations: amount- few to common, size- fine or medium, contrast- faint to prominent, and boundary- clear or distinct.
+Redox depletions: amount- none to common, size- fine or medium, contrast- faint or distinct, and boundary- clear or diffuse.
+EC (dS/m): 0 to 2
+SAR: 0 to 8
+Reaction: slightly acid to moderately alkaline
+
+Btg2 horizon
+Hue: 10YR or 2.5Y
+Value: 5 to 7
+Chroma: 1 or 2
+Texture: sandy clay loam
+Clay content: 22 to 35 percent
+Redox concentrations: amount- few to many, size- fine to coarse, contrast- distinct or prominent, boundary- clear or distinct.
+Redox depletions: amount- none to common, size- fine or medium, contrast- faint or distinct, boundary- clear or diffuse.
+EC (dS/m): 0 to 2
+SAR: 0 to 8
+Reaction: neutral to moderately alkaline
+
+Lower Btg horizons (Btg3, Btg4, and Btg5)
+Hue: 10YR, 2.5Y or 5Y
+Value: 6 to 8
+Chroma: 2 or 3
+Texture: sandy clay loam
+Clay content: 22 to 35 percent
+Redox concentrations: amount- few to many, size- fine or medium, contrast- distinct or prominent, and boundary- clear or distinct.
+Redox depletions: amount- none to common, size- fine or medium, contrast- faint or distinct, and boundary- clear or diffuse.
+EC (dS/m): 0 to 2
+SAR: 0 to 8
+Reaction: slightly alkaline to strongly alkaline
+
+BCt horizon (where present)
+Hue: 10YR, 2.5Y or 5Y
+Value: 6 to 8
+Chroma: 2 or 3
+Texture: fine sandy loam or sandy clay loam
+Clay content: 16 to 30 percent
+Redox concentrations:  amount- few to many, size- fine or medium, contrast- distinct or prominent, and boundary- clear or distinct.
+Redox depletions: amount- none to common, size- fine or medium, contrast- faint or distinct, and boundary- clear or diffuse.
+EC (dS/m): 0 to 2
+SAR: 0 to 8
+Reaction: moderately alkaline or strongly alkaline
+
+COMPETING SERIES:  There are no competing series.  Similar soils include the Candelero (PR), Jarron (TX), Opelika (TX), Orelia (TX), Papagua (TX), and Rio (TX) series.
+Candelero soils: have an isohyperthermic temperature regime
+Jarron soils: have a natric horizon
+Opelika and Rio soils: have a mollic epipedon and are somewhat poorly drained
+Orelia soils: do not have an abrupt textural change and are not in depressions
+Papagua soils: are in the fine family
+
+GEOGRAPHIC SETTING:
+Parent material: sandy eolian deposits of Holocene age over loamy Quaternary age alluvium
+Landform: depressions in the Sandsheet Prairie
+Slope: 0 to 1 percent
+Mean annual air temperature: 22 to 23 degrees C (72 to 74 degrees F)
+Mean annual precipitation: 610 to 711 mm (24 to 28 in)
+Frost-free period: 300 to 341 days
+Elevation: 1.5 to 12 m (5 to 40 ft)
+Thornthwaite P-E Index: 19 to 44
+
+GEOGRAPHICALLY ASSOCIATED SOILS:  These are the Nueces, Padrones, Palobia, Ramita, and Quiteria series.
+Nueces and Padrones soils: have a sandy surface 51 to 102 cm (20 to 40 in) thick and are on higher, convex positions
+Palobia and Quiteria soils: have a natric horizon, are on planar to slightly convex positions
+Ramita soils: have a natric horizon, are somewhat poorly drained and are on slightly higher positions
+
+DRAINAGE AND PERMEABILITY:  Very poorly drained.  Moderately slow permeability. Runoff is negligible.  The soil is occasionally ponded and saturated intermittently for periods of two weeks or more between the months of May through October after heavy rains.
+
+USE AND VEGETATION:  Used for livestock grazing and wildlife habitat.  Native vegetation consists of sedges, saltmarsh bullrush, bermudagrass, hartweg paspalum, and knotroot bristlegrass.  The ecological site is Lakebed, PE 19-44 (R083EY721TX).
+
+DISTRIBUTION AND EXTENT: Sandsheet Prairie (MLRA 83E in LRR I) of southern Texas.  The series is of small extent.
+
+MLRA SOIL SURVEY REGIONAL OFFICE (MO) RESPONSIBLE:  Temple, Texas
+
+SERIES ESTABLISHED:  Kenedy County, Texas, 2007.  The name is from an artesian well in Kenedy County.
+
+REMARKS:  Diagnostic horizons and features recognized in this pedon are:
+
+Particle size control section: 28 to 79 cm (11 to 31 in). (Btg1, Btg2 and Btg3 horizons)
+Ochric epipedon: 0 to 28 cm (0 to 11 in). (A1 and A2 horizons)
+Argillic horizon: 28 to 203 cm (11 to 80 in). (Btg horizons)
+Redoximorphic concentrations: 0 to 203 cm (0 to 80 in). (A and Btg horizons) 
+Redoximorphic depletions (depleted matrix): 28 to 104 cm (11 to 41 in). (Btg1, Btg2 and Btg3 horizons)
+Episaturation: The zone of saturation either ponded or to a depth of 46 cm (18 in), in most years from September to April.
+
+ADDITIONAL DATA: none
+
+TAXONOMIC VERSIONS: Keys to Soil Taxonomy, Tenth Edition, 2006.
+
+National Cooperative Soil Survey
+U.S.A.

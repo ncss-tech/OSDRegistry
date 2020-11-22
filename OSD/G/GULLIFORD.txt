@@ -1,0 +1,116 @@
+LOCATION GULLIFORD              OR
+
+Established Series
+IRD. JLW/RAW/DAL/KMS
+01/2019
+
+GULLIFORD SERIES
+
+Landscape--mountains
+Landform--flood plains and low terraces of mountain valleys, drainageways of mountain slopes
+Slope--0 to 5 percent
+Parent material--alluvium derived from mixed sources
+Mean annual precipitation--about 700 mm
+Mean annual air temperature--about 6 degrees C
+Depth class--very deep
+Drainage class--poorly drained
+Soil moisture regime--udic
+Soil temperature regime--frigid
+Soil moisture subclass--oxyaquic
+
+TAXONOMIC CLASS: Sandy-skeletal, mixed, frigid Oxyaquic Udorthents
+
+TYPICAL PEDON: Gulliford very gravelly loamy sand, moist meadow, on a 0-percent slope at an elevation of 1408 m
+
+ A--0 to 13 cm; very gravelly loamy sand, grayish brown (10YR 5/2) dry, dark grayish brown (10YR 4/2) moist; weak fine subangular blocky structure; loose, very friable, nonsticky and nonplastic; many fine and common very fine roots throughout; few fine irregular pores; 45 percent gravel; moderately alkaline (pH 8.0); clear wavy boundary
+
+ AC--13 to 30 cm; extremely gravelly loamy sand, grayish brown (10YR 5/2) dry, dark grayish brown (10YR 4/2) moist; weak fine subangular blocky structure; loose, very friable, nonsticky and nonplastic; common fine roots throughout; common fine irregular pores; 60 percent gravel and 10 percent cobbles, slightly alkaline (pH 7.8); gradual wavy to smooth boundary
+
+ C--30 to 155 cm; extremely gravelly sand, grayish brown (10YR 5/2) dry, grayish brown (10YR 5/2) moist; single grain; loose, nonsticky and nonplastic; common fine roots above water; many fine irregular pores; 65 percent gravel, 10 percent cobbles, and 5 percent stones; slightly alkaline (pH 7.5)
+
+TYPE LOCATION: Baker County, Oregon; in the NW1/4NE1/4NW1/4 of section 16, T. 14 S., R. 37 E.; Rastis Mountain Peak U.S. Geological Survey quadrangle; latitude 44.3573126, longitude -118.1864289, datum WGS 84 (coordinates estimated from a point on a hard copy map)
+
+RANGE IN CHARACTERISTICS:
+Mean annual soil temperature--6 to 7 degrees C
+Mean summer soil temperature--8 to 11 degrees C
+Mean winter soil temperature--1 to 3 degrees C
+Oxyaquic conditions--saturated with water, without reduction, within 30 cm of the soil surface 30 days or more during spring runoff
+
+Particle-size control section:
+*Clay content--2 to 5 percent
+*Total rock fragment content--70 to 85 percent
+
+A horizon
+Fine-earth texture--loamy sand, sandy loam
+Clay content--3 to 15 percent
+Sand content--50 to 80 percent
+Organic matter content--2 to 4 percent
+Total rock fragment content--40 to 80 percent
+Gravel content--30 to 50 percent
+Cobble content--0 to 30 percent
+Stone content--0 to 10 percent
+Reaction--7.9 to 8.4
+Thickness--3 to 20 cm
+
+AC horizon
+Moist color--7.5YR 2.5/2, 7.5YR 3/2, 10YR 2/1, 10YR 3/2, 10YR 4/2
+Dry color--7.5YR 4/2, 7.5YR 5/3, 7.5YR 6/2, 10YR 4/2, 10YR 4/3, 10YR 5/2, 10YR 5/3
+
+C horizon
+Moist color--7.5YR 3/2, 7.5YR 3/3, 10YR 2/1, 10YR 3/2, 10YR 4/2
+Dry color--7.5YR 5/2, 7.5YR 6/3, 10YR 4/2, 10YR 5/2, 10YR 5/3, 10YR 6/3
+Fine-earth texture--loamy sand, sandy loam, sand
+Clay content--0 to 2 percent
+Sand content--85 to 100 percent
+Organic matter content--0 to 0.1 percent
+Total rock fragment content--75 to 85 percent
+Gravel content--30 to 80 percent
+Cobble content--5 to 30 percent
+Stone content--0 to 20 percent
+Reaction--6.6 to 7.8
+
+COMPETING SERIES:
+Bursaw--gravelly sandy loam dense till substratum; free carbonates at a depth of 8 to 50 cm; redoximorphic features at a depth of 50 to 100 cm
+Skog--eluvial E horizon and Bt horizon that have distinct clay bridges between sand grains
+
+GEOGRAPHIC SETTING:
+Elevation--980 to 1630 m
+Climate--cold, wet winters; warm, moist summers
+Mean annual precipitation--430 to 1190 mm
+Mean annual air temperature--5 to 7 degrees C
+Frost-free period--40 to 125 days
+
+GEOGRAPHICALLY ASSOCIATED SOILS:
+Bullroar--well drained; on high terraces; thick volcanic ash mantle; ashy over loamy-skeletal particle-size control section; udic soil moisture regime; under moist grand fir forest
+Mugwump--on terraces; mollic epipedon; loamy-skeletal particle-size control section; under fir and spruce forest; udic soil moisture regime
+Terrodd--somewhat poorly drained; on flood plains; cumulic mollic epipedon; fine-loamy particle-size control section; under conifer forest
+Tertoo--well drained; on relict high terraces and toeslope fans; thick ash mantle over loamy-skeletal material; xeric soil moisture regime; under grand fir and ponderosa pine forest
+Tovame--somewhat poorly drained; on terraces; cumulic mollic epipedon; coarse-loamy particle-size control; under moist meadow vegetation
+Witknee--somewhat poorly drained; on alluvial terraces; aquic conditions at a depth of 50 to 75 cm; thick mollic epipedon; coarse-loamy particle-size control section; under wet meadow vegetation
+
+DRAINAGE AND SATURATED HYDRAULIC CONDUCTIVITY:
+Saturation during normal years--saturated at a depth of 30 to 155 cm in all months
+Flooding--frequent, brief periods in all months
+Ponding--none
+Saturated hydraulic conductivity (Ksat)--high in upper part, very high in lower part
+
+USE AND VEGETATION:
+Use--watershed, wildlife habitat, livestock grazing, recreation
+Native vegetation--gray alder, Kentucky bluegrass, starry false Solomon's seal, Cusick's sedge, Scouler's willow, blue wildrye, Northwest Territory sedge, water sedge, cowparsnip, woolly sedge, butterweed groundsel, stinging nettle, largeleaf avens, common yarrow, timothy, sweet-scented bedstraw, Virginia strawberry, prickly currant, western meadow-rue, sedge
+Plant association--dominantly POPR (Kentucky bluegrass); may include ALIN2 (mountain alder) and JUBA2 (Baltic rush)
+
+DISTRIBUTION AND EXTENT: Blue Mountains of northeastern Oregon; MLRA 43C; small extent
+
+SOIL SURVEY REGIONAL OFFICE (SSRO) RESPONSIBLE: Portland, Oregon
+
+SERIES ESTABLISHED: Wallowa-Whitman National Forest, Oregon; 2018
+
+REMARKS:
+Diagnostic horizons and other features recognized in this pedon
+*Ochric epipedon
+*Particle size control section--zone from 25 to 100 cm
+
+The Gulliford soils are saturated with flowing water, without reduction, within 30 cm of the soil surface 30 days or more during spring runoff. The depth of the water fluctuates with streamflow. Although the soils consist of fluvial material, the sand and rock fragments in the lower part are thought to be void of the organic carbon needed to meet the criteria for a Fluvent.
+
+National Cooperative Soil Survey
+U.S.A.

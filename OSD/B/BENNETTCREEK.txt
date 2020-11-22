@@ -1,0 +1,164 @@
+LOCATION BENNETTCREEK           OR
+
+Established Series
+Rev. RJO/JLW/DAL
+11/2018
+
+BENNETTCREEK SERIES
+
+Landscape--plateaus, mountains
+Landform--plateaus, mountain slopes
+Slope--0 to 60 percent
+Parent material--thin mantle of mixed volcanic ash over colluvium derived from hard igneous extrusive rock
+Mean annual precipitation--about 600 mm
+Mean annual air temperature--about 5 degrees C
+Depth class--moderately deep to lithic bedrock
+Drainage class--well drained
+Soil moisture regime--xeric
+Soil temperature regime--frigid
+Soil moisture subclass--typic
+
+TAXONOMIC CLASS: Loamy-skeletal, isotic, frigid Vitrandic Haploxeralfs
+
+TYPICAL PEDON: Bennettcreek ashy silt loam, forested, on a 20-percent, planar, south-facing slope at an elevation of 1575 m
+
+ Oi--0 to 3 cm; slightly decomposed needles and twigs
+
+ A--3 to 10 cm; ashy silt loam, light brownish gray (10YR 6/2) dry, dark brown (10YR 3/3) moist; weak fine subangular blocky structure; soft, friable, nonsticky and nonplastic; many very fine and fine and few medium roots; common fine irregular pores; 3 percent gravel, 3 percent cobbles, and 3 percent stones; slightly acid (pH 6.5); clear wavy boundary
+
+ Bw--10 to 28 cm; ashy silt loam, pale brown (10YR 6/3) dry, brown (10YR 4/3) moist; weak fine subangular blocky structure; soft, friable, nonsticky and nonplastic; common very fine, fine, medium, and coarse roots; few fine irregular pores; 3 percent gravel, 3 percent cobbles, and 3 percent stones; slightly acid (pH 6.1); clear wavy boundary
+
+ 2Eb--28 to 46 cm; gravelly silt loam, pale brown (10YR 6/3) dry, yellowish brown (10YR 5/4) moist; weak medium and fine subangular blocky structure; soft, friable, slightly sticky and slightly plastic; common fine and medium and few coarse roots; few fine tubular pores; 10 percent gravel, 3 percent cobbles, and 3 percent stones; slightly acid (pH 6.5); clear smooth wavy boundary
+
+ 2Btb--46 to 79 cm; very gravelly silt loam, very pale brown (10YR 7/4) dry, yellowish brown (10YR 5/4) moist; moderate medium and fine subangular blocky structure; very hard, firm, moderately sticky and moderately plastic; common fine and few medium and coarse roots; few fine tubular pores; common faint clay films on faces of peds; 30 percent gravel, 10 percent cobbles, and 3 percent stones; slightly acid (pH 6.5); clear smooth boundary
+
+ 2R--79 cm; andesitic rock
+
+TYPE LOCATION: Baker County, Oregon; in the NW1/4SW1/4NW1/4 of section 24, T. 10 S., R. 35 E.; Greenhorn U.S. Geological Survey quadrangle; latitude 44.6869444, longitude -118.4500003, datum WGS 84 (coordinates determined from a GPS)
+
+RANGE IN CHARACTERISTICS:
+Mean annual soil temperature--3 to 7 degrees C
+Soil moisture--dry 45 to 60 consecutive days in summer
+Thickness of cambic horizon--13 to 33 cm
+Thickness of argillic horizon--13 to 43 cm
+Thickness of eluvial horizon--13 to 28 cm
+Depth to lithic contact--50 to 100 cm
+Thickness of ash-influenced layers--20 to 40 cm
+
+Estimated properties of layers influenced by volcanic ash
+*Ammonium oxalate extractable Al + 1/2 Fe--0.6 to 1.2 percent
+*0.02- to 2.0-mm fraction--30 to 40 percent
+*Volcanic ash content in 0.02- to 2.0-mm fraction--30 to 60 percent
+*Phosphate retention--30 to 50 percent
+
+Particle-size control section
+*Clay content--18 to 30 percent
+*Total rock fragment content--45 to 80 percent
+
+A horizon
+Moist color--7.5YR 3/2, 10YR 3/2, 10YR 3/3
+Dry color--7.5YR 5/4, 10YR 5/2, 10YR 5/3, 10YR 6/2
+Fine-earth texture--ashy silt loam, ashy loam
+Clay content--5 to 10 percent
+Total rock fragment content--5 to 30 percent
+Gravel content--3 to 10 percent
+Cobble content--0 to 10 percent
+Stone content--0 to 15 percent
+Reaction--6.1 to 7.3
+Thickness--5 to 25 cm
+
+Bw horizon
+Moist color--7.5YR 4/4, 10YR 4/3, 10YR 4/4
+Dry color--7.5YR 5/4, 10YR 5/3, 10YR 5/4, 10YR 6/3
+Texture--ashy silt loam, cobbly ashy silt loam, stony ashy silt loam, stony ashy loam
+Clay content--5 to 10 percent
+Total rock fragment content--9 to 30 percent
+Gravel content--3 to 10 percent
+Cobble content--3 to 10 percent
+Stone content--0 to 15 percent
+Reaction--6.1 to 7.3
+Thickness--15 to 35 cm
+
+2Eb horizon
+Moist color--7.5YR 4/4, 10YR 4/3, 10YR 4/4, 10YR 5/4
+Dry color--7.5YR 6/4, 10YR 5/3, 10YR 5/4, 10YR 6/3
+Fine-earth texture--silt loam, loam
+Clay content--12 to 20 percent
+Total rock fragment content--16 to 55 percent
+Gravel content--10 to 15 percent
+Cobble content--3 to 20 percent
+Stone content--0 to 20 percent
+Reaction--6.1 to 7.3
+Thickness--15 to 30 cm
+
+2Btb horizon
+Moist color--7.5YR 4/4, 10YR 4/3, 10YR 5/4
+Dry color--7.5YR 6/4, 10YR 5/3, 10YR 5/4, 10YR 6/3, 10YR 6/4, 10YR 7/4
+Fine-earth texture--silt loam, loam
+Clay content--12 to 26 percent
+Total rock fragment content--45 to 80 percent
+Gravel content--15 to 45 percent
+Cobble content--10 to 30 percent
+Stone content--0 to 20 percent
+Reaction--6.1 to 7.3
+Thickness--15 to 45 cm
+
+COMPETING SERIES:
+Agatha--100 to 150 cm (deep) to lithic contact; mixed volcanic ash mantle 18 to 25 cm thick that has vitrandic subgroup properties of 0.4 to 0.8 percent Al plus 1/2 Fe and 5 to 20 percent glass
+Jummer--50 to 100 cm (moderately deep) to lithic contact; minor amount of volcanic ash in upper 25 to 56 cm that has vitrandic subgroup properties of 0.3 to 1.0 percent Al plus 1/2 Fe and 7 to 20 percent glass
+Outland--50 to 100 cm (moderately deep) to paralithic contact; 45 to 75 percent pararock fragments in lower part of argillic horizon; dry 90 to 110 consecutive days in summer
+Rasser--more than 150 cm (very deep) to lithic contact; formed in loess mixed with a minor amount of volcanic ash over relict mudflows; ash influence in upper 18 to 36 cm of mineral soil that has vitrandic subgroup properties of 0.4 to 1.0 percent Al plus 1/2 Fe and 5 to 20 percent glass; very strongly acid throughout subsoil
+Stevensgulch--more than 150 cm (very deep) to lithic contact; formed in colluvium and residuum derived from relict alluvial and lacustrine deposits; minor amount of volcanic ash in upper 18 to 46 cm that has vitrandic subgroup properties of 0.3 to 0.8 percent Al plus 1/2 Fe and 5 to 15 percent glass; as much as 34 percent clay in particle-size control section; dry 60 to 75 consecutive days in summer
+
+GEOGRAPHIC SETTING:
+Elevation--1230 to 1850 m
+Climate--cold, wet winters; cool to warm, dry summers
+Mean annual precipitation--430 to 750 mm
+Mean annual air temperature--2 to 6 degrees C
+Frost-free period--25 to 80 days
+
+GEOGRAPHICALLY ASSOCIATED SOILS:
+Anatone--on plateaus, ridgetops, and south- or west-facing slopes; shallow; no argillic horizon; loamy-skeletal particle-size control section; minor ash influence; under sagebrush, Idaho fescue, and bluebunch wheatgrass
+Bigcow--on planar to concave backslopes underlain by deep colluvium; thin volcanic ash mantle; loamy-skeletal particle-size control section; under lodgepole pine and grand fir
+Bocker--on shoulders and summits of plateaus; very shallow; no argillic horizon; minor ash influence; under sagebrush, Idaho fescue, and bluebunch wheatgrass
+Crackercreek--on planar to concave backslopes; deep to bedrock; thick volcanic ash mantle over a loamy-skeletal argillic horizon; under Douglas-fir, ponderosa pine, grand fir, western larch, pinegrass, elk sedge, and common snowberry
+Fivebit--on plateaus and backslopes; shallow to bedrock; minor influence of volcanic ash in loamy-skeletal colluvium; under scattered ponderosa pine, Douglas-fir, western juniper, big sagebrush, and Idaho fescue
+Klickson--on north-facing scarp slopes, structural benches, and lower mountain slopes; deep to bedrock; skeletal particle-size control section; mixed volcanic ash mantle; under Douglas-fir, ponderosa pine, ninebark, and oceanspray
+Larabee--on backslopes and shoulders of hills and in canyons of dissected basalt plateaus; mollic epipedon and argillic horizon; under Douglas-fir, ponderosa pine, mallow ninebark, common snowberry, and elk sedge
+Limberjim--on stable ridgetops and side slopes of mountains and plateaus; deep to basalt; thick volcanic ash mantle over buried loamy-skeletal argillic horizon; under grand fir, Douglas-fir, western larch, twinflower, big huckleberry, and round-leaved violet
+McWillis--on planar to concave, lower backslopes; deep to bedrock; thick volcanic ash mantle and argillic horizon; under grand fir, Douglas-fir, and birchleaf spirea
+Olot--on plateaus and side slopes of mountains; moderately deep; thick volcanic ash mantle over loamy-skeletal material; under Douglas-fir forest
+Pinuscreek--on planar to concave backslopes; deep to basalt; thin undisturbed ash mantle over loamy-skeletal argillic horizon; under grand fir, Douglas-fir, western larch, lodgepole pine, grouse whortleberry, pinegrass, and Ross' sedge
+Wonder--on ridges and shoulder slopes; moderately deep to bedrock; thin volcanic ash mantle; loamy-skeletal particle size-control section; under grand fir and Douglas-fir forest
+
+DRAINAGE AND SATURATED HYDRAULIC CONDUCTIVITY:
+Saturation during normal years--none
+Flooding--none
+Ponding--none
+Saturated hydraulic conductivity (Ksat)--moderately high
+
+USE AND VEGETATION:
+Use--timber production, livestock grazing, wildlife habitat, watershed, recreation
+Potential natural vegetation--ponderosa pine, Douglas-fir, grand fir, western larch, lodgepole pine, subalpine fir, western juniper, pinegrass, elk sedge, heartleaf arnica, white spirea, common snowberry, northwestern sedge, big huckleberry, Virginia strawberry, sagebrush rockcress, woodland strawberry, baldhip rose, tailcup lupine, grouse huckleberry, white hawkweed, low Oregon grape, common yarrow, birchleaf spirea, myrtle pachystima, prince's pine, Scouler's willow, Ross' sedge, pinemat manzanita, Wheeler bluegrass
+
+DISTRIBUTION AND EXTENT: Blue Mountains in northeastern Oregon; MLRA 10; small extent
+
+SOIL SURVEY REGIONAL OFFICE (SSRO) RESPONSIBLE: Portland, Oregon
+
+SERIES ESTABLISHED: Wallowa-Whitman National Forest, Oregon; 2012
+
+REMARKS:
+Diagnostic horizons and other features recognized in this pedon
+*Ochric epipedon
+*Cambic horizon--zone from 10 to 28 cm
+*Eluvial horizon--zone from 28 to 46 cm
+*Argillic horizon--zone from 46 to 79 cm
+*Volcanic glass (mixed ash mantle)--zone from 3 to 28 cm
+*Depth to lithologic discontinuity--28 cm
+*Particle-size control section--zone from 46 to 79 cm
+
+ADDITIONAL DATA: 
+Laboratory data--pedon number 97OR023004, Kellogg Soil Survey Laboratory
+
+National Cooperative Soil Survey
+U.S.A.

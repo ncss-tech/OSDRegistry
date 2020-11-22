@@ -1,0 +1,147 @@
+LOCATION KWETHLUK               AK
+
+Established Series
+SAS/TJR
+03/2019
+
+KWETHLUK SERIES
+
+Landscape--mountain valleys
+Landform--drift plains
+Slope--0 to 15 percent
+Parent material--volcanic ash over drift and/or outwash
+Mean annual precipitation--about 1100 mm
+Mean annual air temperature--about 0 degrees C
+Depth class--very deep
+Drainage class--somewhat excessively drained
+Soil moisture regime--udic
+Soil temperature regime--cryic
+Soil moisture subclass--typic
+
+TAXONOMIC CLASS: Sandy-skeletal, mixed Andic Dystrocryepts
+
+TYPICAL PEDON: Kwethluk gravelly medial silt loam on a north-facing, convex, linear rise of a glaciated plain, on a slope of 11 percent at an elevation of 96 m (The soil was moist throughout when described on September 2, 2012.)
+
+ Oe--0 to 4 cm; moderately decomposed plant material; common fine and very fine roots; extremely acid (pH 4.4); clear smooth boundary
+
+ A--4 to 17 cm; gravelly medial silt loam, brown (7.5YR 4/2) dry, very dark brown (7.5YR 2.5/2) moist; weak fine granular structure; slightly hard, friable, slightly sticky and slightly plastic; common fine and many very fine roots; 20 percent gravel and 5 percent cobbles; moderately acid (pH 5.8); clear wavy boundary
+
+ Bw--17 to 25 cm; gravelly medial silt loam, reddish yellow (7.5YR 6/6) dry, strong brown (7.5YR 4/6) moist; weak fine subangular blocky structure; slightly hard, friable, slightly sticky and slightly plastic; common fine and many very fine roots; 20 percent gravel and 2 percent cobbles; slightly acid (pH 6.3); clear smooth boundary
+
+ 2C--25 to 150 cm; extremely cobbly coarse sand, gray (2.5Y 5/1) dry, very dark gray (2.5Y 3/1) moist; massive; loose, nonsticky and nonplastic; common very fine roots; 35 percent gravel, 20 percent cobbles, and 10 percent stones; slightly acid (pH 6.5)
+
+TYPE LOCATION: Dillingham Census Area, Alaska, about 85 km northwest of the city of Dillingham; about 1 m north and 115 m west of the northeast corner of section 33, T. 7 S., R. 61 W., Seward Meridian; Goodnews Bay C-2 U.S. Geological Survey quadrangle; latitude 59.5339200 degrees north, longitude 159.6553200 degrees west, datum WGS 84 (coordinates determined with a GPS)
+
+RANGE IN CHARACTERISTICS:
+Mean annual soil temperature--0 to 2 degrees C
+Soil moisture control section--dry less than 45 consecutive days in June through October
+Depth to lithologic discontinuity--20 to 40 cm
+Thickness of andic soil properties--18 to 34 cm
+Thickness of cambic horizon--15 to 34 cm
+
+All mineral horizons
+*Base saturation--0 to 10 percent
+
+Layers influenced by volcanic ash
+*Phosphorous retention--50 to 100 percent
+*Bulk density--0.45 to 0.9 g/cm3
+*Ammonium oxalate Al plus 1/2 Fe--0.75 to 4.0 percent
+*Volcanic glass content--5 to 50 percent
+
+Particle-size control section
+*Clay content--0 to 7 percent
+*Sand content--75 to 95 percent
+*Total rock fragment content--35 to 80 percent
+
+Oe horizon
+Thickness--2 to 6 cm
+
+A horizon
+Hue--7.5YR, 10YR
+Value--2 or 3 moist, 4 or 5 dry
+Chroma--2 or 3 moist
+Fine-earth texture--medial silt loam, medial fine sandy loam, sandy loam
+Clay content--6 to 10 percent
+Reaction--5.0 to 5.9
+Total rock fragment content--10 to 30
+Gravel content--10 to 30 percent
+Cobble content--0 to 10 percent
+Thickness--5 to 17 cm
+Bulk density--0.5 to 0.8 g/cm3
+Phosphorous retention--85 to 95 percent
+Volcanic glass content--5 to 20 percent
+
+Bw horizon
+Hue--7.5YR, 10YR
+Value--3 or 4 moist, 4 to 6 dry
+Chroma--3 to 6 moist
+Fine-earth texture--medial silt loam, medial sandy loam
+Clay content--5 to 10 percent
+Reaction--5.8 to 6.4
+Total rock fragment content--10 to 35 percent
+Gravel content--10 to 35 percent
+Cobble content--0 to 15 percent
+Thickness--6 to 19 cm
+Bulk density--0.6 to 0.9 g/cm3
+Phosphorous retention--90 to 100 percent
+Volcanic glass content--10 to 40 percent
+
+2C horizon
+Hue--10YR, 2.5Y
+Value--3 or 4 moist, 5 or 6 dry
+Chroma--1 to 4 moist
+Fine earth texture--coarse sand, loamy coarse sand, sand
+Clay content--0 to 10 percent
+Reaction--5.8 to 6.5
+Total rock fragment content--35 to 80 percent
+Gravel content--10 to 60 percent
+Cobble content--0 to 30 percent
+Stone content--0 to 10 percent
+
+COMPETING SERIES:
+Roman--mean annual soil temperature 4 to 6 degrees C
+
+GEOGRAPHIC SETTING:
+Elevation--5 to 820 m
+Climate--warm, moist summers; cold, moist winters
+Mean annual precipitation--600 to 1700 mm
+Mean annual air temperature-- -3.2 to 1.8 degrees C
+Frost-free period--70 to 140 days
+
+GEOGRAPHICALLY ASSOCIATED SOILS:
+Nagugun--spodic horizon; linear slope shape
+Klak--spodic horizon; mountain slopes
+Goodnews--25 to 50 cm (shallow) to lithic contact; no andic soil properties; similar landforms
+Pungokepuk--spodic horizon; redoximorphic concentrations; swales of plains
+Ongivinuck--umbric epipedon; redoximorphic concentrations; stream terraces
+Narogurum--aquic conditions throughout; dips of plains
+Mitlak--spodic horizon; aquic conditions below a depth of 50 cm; mountain slopes and linear to concave plains
+Kanoktok--umbric epipedon; outwash terraces only; earth hummocks
+Pegati--aquic conditions; swales of mountains
+
+DRAINAGE AND SATURATED HYDRAULIC CONDUCTIVITY:
+Drainage class--somewhat excessively drained
+Saturated hydraulic conductivity (Ksat)--moderately high or high in the upper part of the profile, high or very high in the lower part
+
+USE AND VEGETATION:
+Use--wildlife habitat, recreation, subsistence
+Potential natural vegetation--red fruit bearberry, dwarf birch, cup lichen, greygreen reindeer lichen, star reindeer lichen, black crowberry, marsh Labrador tea, snow lichen, bog blueberry, lingonberry
+
+DISTRIBUTION AND EXTENT: Ahklun Mountains, Alaska; MLRA 237; large extent
+
+SOIL SURVEY REGIONAL OFFICE (SSRO) RESPONSIBLE: Portland, Oregon
+
+SERIES ESTABLISHED: Togiak National Wildlife Refuge, Dillingham Census Area, Alaska; 2019
+
+REMARKS:
+Diagnostic horizons and other features in this pedon
+*Particle-size control section--zone from 29 to 104 cm
+*Ochric epipedon
+*Cambic horizon--A and Bw horizons
+*Andic soil properties--A and Bw horizons
+*Depth to lithologic discontinuity--top of 2C horizon
+
+See laboratory pedon number 12N0020 for Bw horizon that has andic soil properties.
+
+National Cooperative Soil Survey
+U.S.A.

@@ -1,0 +1,135 @@
+LOCATION DOUGHERTY              OK+TX
+
+Established Series
+Rev. CRC:WJG:JLD
+04/2018
+
+DOUGHERTY SERIES
+
+The Dougherty series consists of very deep, well drained soils that formed in sandy and loamy sediments on terraces of Pleistocene age. These soils are on stabilized dunes on reworked stream terraces in the Central Red Rolling Prairies (MLRA 80A) and Northern Cross Timbers (MLRA 84A). Slopes are dominantly 0 to 8 percent, but range to 20 percent. Mean annual air temperature is about 15 degrees C (59 degrees F), and mean annual precipitation is about 860 mm (34 in).
+
+TAXONOMIC CLASS: Loamy, mixed, active, thermic Arenic Haplustalfs
+
+TYPICAL PEDON: Dougherty loamy fine sand-cultivated, at an elevation of 308 m (1010 ft). (Colors are for dry soil unless otherwise stated.)
+
+    Ap--0 to 15 cm (0 to 6 in); grayish brown (10YR 5/2) loamy fine sand, dark grayish brown (10YR 4/2) moist; weak fine granular structure; soft, very friable; slightly acid; clear smooth boundary. (Thickness of the A horizon is 0 to 23 cm [0 to 9 in])
+
+    E--15 to 66 cm (6 to 26 in); very pale brown (10YR 7/3) loamy fine sand, brown (10YR 5/3) moist; single grain; soft, very friable; moderately acid; clear smooth boundary. (Thickness of the E horizon is 33 to 91 cm [13 to 36 in])
+
+    Bt--66 to 107 cm (26 to 42 in); yellowish red (5YR 5/6) sandy clay loam, yellowish red (5YR 4/6) moist; moderate coarse prismatic structure parting to weak medium subangular blocky; very hard, friable; few distinct clay films on faces of peds; few bridging between sand grains; moderately acid; diffuse smooth boundary. (Thickness of the Bt horizon is 25 to 64 cm [10 to 25 in])
+
+    BC--107 to 137 cm (42 to 54 in); yellowish red (5YR 5/6) fine sandy loam, yellowish red (5YR 4/6) moist; weak coarse prismatic structure; hard, friable; moderately acid; diffuse smooth boundary. (Thickness of the BC horizon is 25 to 76 cm [10 to 30 in])
+
+    C--137 to 178 (54 to 70 in); yellowish red (5YR 5/8) loamy fine sand, yellowish red (5YR 4/6) moist; massive; slightly hard, friable; moderately acid.
+
+TYPE LOCATION: Payne County, Oklahoma; about 9 miles south and 8 miles west of Stillwater on State Highway 33; 2,375 feet west and 50 feet south of the northeast corner of sec. 3, T. 17 N., R. 1 E. 
+
+USGS topographic quadrangle: Coyle, OK
+Latitude 35 degrees, 59 minutes, 7 seconds N 
+Longitude 97 degrees, 11 minutes, 4 seconds W 
+Datum: NAD 83 
+
+Decimal Degrees:
+Latitude: 35.9846
+Longitude: -97.18449
+
+UTM Easting: 663667 m
+UTM Northing: 3983764 m
+UTM Zone: 14N
+
+RANGE IN CHARACTERISTICS: 
+Thickness of solum: 114 to 183 cm (45 to 72 in)
+Depth of soil: more than 152 cm (60 in)
+Thickness of the A and E horizons: 51 to 102 cm (20 to 40 in) 
+
+Ap or A horizon:
+Hue: 7.5YR or 10YR
+Value: 5 to 7 dry, 4 to 6 moist
+Chroma: 2 to 4 dry or moist
+Texture: fine sand or loamy fine sand
+Reaction: strongly acid to slightly acid
+
+E horizon:
+Hue: 7.5YR or 10YR
+Value: 6 to 8 dry, 5 to 7
+Chroma: 2 to 4 dry or moist
+Texture: fine sand or loamy fine sand
+Reaction: strongly acid to slightly acid
+
+Bt horizon:
+Hue: 2.5YR to 7.5YR
+Value: 5 to 7 dry, 4 to 6 moist
+Chroma: 4 to 8 dry or moist
+Texture: fine sandy loam or sandy clay loam 
+Clay content: 18 to 35 percent
+Reaction: strongly acid to slightly acid
+
+BC horizon:
+Hue: 2.5YR to 7.5YR
+Value: 5 to 7 dry, 4 to 6 moist
+Chroma: 4 to 8 dry or moist
+Texture: loamy fine sand, fine sandy loam, or sandy clay loam 
+Reaction: strongly acid to slightly acid
+
+C horizon:
+Hue: 2.5YR to 7.5YR
+Value: 4 to 7
+Chroma: 4 to 8
+Texture: loamy fine sand or fine sandy loam
+Reaction: strongly acid to neutral 
+
+COMPETING SERIES: This is the Stidham series.
+Stidham soils: have an argillic horizon with hues of 7.5YR to 10YR 
+
+GEOGRAPHIC SETTING:
+Parent material: formed in sandy and loamy sediments on terraces of Pleistocene age
+Landscape: dune fields
+Landform: stabilized dunes on reworked stream terraces 
+Slope: 0 to 20 percent 
+Climate: dry subhumid or moist subhumid
+Mean Annual Precipitation: 787 to 1092 mm (31 to 43 in)
+Mean Annual Air Temperature: 15 to 17.2 degrees C (59 to 63 degrees F)
+Frost-free days: 181 to 240
+Elevation: 229 to 373 m (750 to 1220 ft) 
+
+GEOGRAPHICALLY ASSOCIATED SOILS: These are the Bastrop, Derby, Eufaula, Konawa, Larton, Slaughterville, Stidham, and Teller series. 
+Bastrop, Larton, and Stidham soils: are on higher terraces; in addition Bastrop soils have an argillic horizon that does not decrease by 20 percent from the maximum within a depth of 152 cm (60 in) of the surface 
+Eufaula soils: are on slightly higher positions and have a sandy particle-size control section
+Konawa and Teller soils: are in slightly lower positions and are on more stable landscapes; in addition, Teller soils have a mollic epipedon Konawa soils: have a fine-loamy particle-size control section and an ochric epipedon
+Derby and Slaughterville soils: formed from recent eolian sediments, do not have an argillic horizon; in addition Derby soils have a sandy particle-size control section
+
+DRAINAGE AND SATURATED HYDRAULIC CONDUCTIVITY:
+Drainage: Well drained
+Saturated hydraulic conductivity: moderately high
+Runoff: negligible on 0 to 1 percent slopes, very low on 1 to 5 percent slopes, and low on 5 to 20 percent slopes 
+
+USE AND VEGETATION: Large areas are cultivated to sorghums, small grains, and peanuts. Some areas are used for improved pastures. Native vegetation is mainly post oak, blackjack, and hickory savannah with considerable understory of little bluestem, big bluestem, sand bluestem, Indiangrass, and switchgrass.  
+
+DISTRIBUTION AND EXTENT: 
+General area: Central Oklahoma and Texas 
+Land Resource Region H-Central Great Plains Winter Wheat and Range Region, and J-Southwestern Prairies Cotton and Forage Region 
+MLRA 80A-Central Rolling Red Prairies, MLRA 84A-North Cross Timbers 
+Extent: large 
+
+MLRA SOIL SURVEY REGIONAL OFFICE (MO) RESPONSIBLE: Temple, Texas 
+
+SERIES ESTABLISHED: Murray County, Oklahoma; 1935 
+
+REMARKS: 
+Dougherty soils were formerly classified in the Red Podzolic great soil group.
+
+Updated competing series, taxonomic version, saturated hydraulic conductivity, and formatting. (01/2016 JLD) Added MLRA 80A to OSD. (07/2017)
+
+Diagnostic horizons and features recognized in the pedon are:
+Ochric epipedon: 0 to 15 cm (0 to 6 in) (A horizon)
+Arenic feature: sandy material thickness 66 cm (27 in)
+Argillic horizon: 66 to 107 cm (26 to 42 in) (Bt horizon) 
+
+Edited 03/2018 (JAD-JLD) Updated other sections.
+
+ADDITIONAL DATA: Kellog Soil Survey Lab No. 40A4703 and 93P0400
+
+TAXONOMIC VERSION: Keys to Soil Taxonomy, Twelfth Edition, 2014
+
+National Cooperative Soil Survey
+U.S.A.

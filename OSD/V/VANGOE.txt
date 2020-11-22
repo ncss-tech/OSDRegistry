@@ -1,0 +1,120 @@
+LOCATION VANGOE                 WA
+
+Established Series
+Rev. PNP/KDPL/SBC
+09/2019
+
+VANGOE SERIES
+
+Landscape--valleys
+Landform--stream terraces
+Slope--0 to 20 percent
+Parent material--volcanic ash over alluvium and residuum derived from basalt
+Mean annual precipitation--about 1000 mm
+Mean annual air temperature--about 6 degrees C
+Depth class--deep
+Drainage class--well drained
+Soil moisture regime--xeric
+Soil temperature regime--frigid
+Soil moisture subclass--typic
+
+TAXONOMIC CLASS: Fine-loamy, isotic, frigid Vitrandic Argixerolls
+
+TYPICAL PEDON: Vangoe ashy loam in a forest meadow, on an 8-percent, south-facing slope at an elevation of 1350 m (All textures are apparent field textures.)
+
+ A--0 to 18 cm; ashy loam, dark brown (10YR 3/3) dry, very dark grayish brown (10YR 3/2) moist; moderate fine and medium granular structure; slightly hard, friable, slightly sticky and nonplastic; many very fine and fine and few medium roots; common very fine irregular pores; 5 percent gravel; slightly acid (pH 6.5), NaF pH 9.3; clear smooth boundary
+
+ AB--18 to 35 cm; ashy loam, brown (10YR 4/3) dry, very dark grayish brown (10YR 3/2) moist; weak medium prismatic structure parting to moderate fine subangular blocky; slightly hard, friable, slightly sticky and slightly plastic; many very fine and fine and common medium roots; common very fine irregular pores; 10 percent gravel; slightly acid (pH 6.5), NaF pH 9.2; clear smooth boundary
+
+ 2Bt1--35 to 84 cm; stony clay loam, brown (10YR 4/3) dry, dark brown (10YR 3/3) moist; moderate coarse prismatic structure parting to moderate medium subangular blocky; hard, firm, moderately sticky and moderately plastic; common fine and medium roots; common very fine and fine tubular pores; many prominent clay films on faces of peds and in pores; 15 percent gravel, 5 percent cobbles, and 10 percent stones; slightly acid (pH 6.5), NaF pH 9.2; clear wavy boundary
+
+ 2Bt2--84 to 104 cm; stony loam, dark yellowish brown (10YR 4/4) dry, dark yellowish brown (10YR 3/4) moist; moderate medium subangular blocky structure; hard, friable, moderately sticky and moderately plastic; few very fine and fine roots; common fine and few medium tubular pores; many prominent clay films on faces of peds; 5 percent gravel, 5 percent cobbles, and 15 percent stones; slightly acid (pH 6.5), NaF pH 9.2; clear smooth boundary
+
+ 2BCt--104 to 122 cm; stony loam, brown (10YR 4/3) dry, dark brown (10YR 3/3) moist; weak medium subangular blocky structure; slightly hard, friable, slightly sticky and nonplastic; few fine roots; few fine tubular pores; common distinct clay films on faces of peds; 20 percent stones; slightly acid (pH 6.5), NaF pH 9.2; gradual smooth boundary
+
+ 2R--122 cm; basalt
+
+TYPE LOCATION: Yakama Nation, Yakima County, Washington, about 6.5 km northwest of Signal Peak Ranger Station; about 975 m north and 490 m west of the southeast corner of section 4, T. 9 N., R. 13 E., Willamette Meridian; latitude 46.2958835, longitude -121.1947448, datum WGS 84 (coordinates estimated from section, township, and range)
+
+RANGE IN CHARACTERISTICS:
+Mean annual soil temperature at a depth of 50 cm--7 to 8 degrees C
+Moisture control section--usually moist, but dry in all parts 45 to 60 consecutive days following summer solstice
+Particle-size control section--18 to 35 percent clay; 0 to 35 percent rock fragments
+Depth to bedrock--100 to 150 cm
+Thickness of mollic epipedon--51 to 84 cm (includes upper part of argillic horizon)
+
+Volcanic ash mantle (A and AB horizons)
+*Thickness--18 to 35 cm
+*Moist bulk density--0.75 to 0.85 g/cm3
+*Glass content--5 to 30 percent
+*Acid oxalate aluminum plus one-half iron--0.1 to 1.0 percent
+
+A and AB horizons
+Value--3 or 4 dry, 2 or 3 moist
+Chroma--2 or 3 dry or moist
+Rock fragment content--0 to 10 percent
+Thickness of A horizon--8 to 30 cm
+Thickness of AB horizon--8 to 18 cm
+
+2Bt horizon
+Hue--10YR, 7.5YR
+Value--3 to 5 dry, 2 or 3 moist
+Chroma--2 to 4 moist or dry
+Texture--clay loam, gravelly clay loam, stony clay loam, stony loam
+Rock fragment content--0 to 35 percent
+Combined thickness--25 to 97 cm
+
+2BCt horizon
+Hue--10YR, 7.5YR
+Value--4 or 5 dry, 3 or 4 moist
+Chroma--2 to 6 dry or moist
+Texture--gravelly clay loam, stony loam, loam
+Rock fragment content--5 to 35 percent
+Thickness--13 to 51 cm
+
+COMPETING SERIES:
+Bly--100 to 150 cm (deep) to a duripan
+Bolobin, Bolony, Spartabutte--50 to 100 cm (moderately deep) to a lithic contact (basalt)
+Burntcabin, Forbord, Forshey--no lithic contact within a depth of more than 150 cm (very deep)
+Hess--mollic epipedon 25 to 50 cm thick; 5 to 50 percent pararock fragments in lower part of particle-size control section
+Lidos, Melhorn, Salcreek--mollic epipedon 25 to 50 cm thick; no lithic contact within a depth of more than 150 cm (very deep)
+Nibolob--dry 60 to 75 consecutive days following summer solstice
+Raycreek--50 to 100 cm (moderately deep) to a lithic contact (tuff)
+Spartabutte--50 to 100 cm (moderately deep) to a lithic contact (granitic rock)
+
+GEOGRAPHIC SETTING:
+Slopes are 0 to 20 percent
+Elevation--760 to 1375 m
+Climate--warm, dry summers; cool, moist winters
+Mean annual precipitation--890 to 1300 mm
+Mean annual air temperature--6 to 7 degrees C
+Frost-free season--70 to 100 days
+
+GEOGRAPHICALLY ASSOCIATED SOILS:
+Patu--on ridges, shoulders, and side slopes; loamy-skeletal particle-size class; no mollic epipedon; 60 to 100 cm (moderately deep) to a paralithic contact (basalt)
+Singh--on benches and side slopes; ashy over loamy-skeletal particle-size class; no mollic epipedon
+Wanaishchit--on plateaus and side slopes; ashy over loamy particle-size class; no mollic epipedon
+
+DRAINAGE AND SATURATED HYDRAULIC CONDUCTIVITY:
+Drainage class--well drained
+Saturated hydraulic conductivity (Ksat)--moderately high
+
+USE AND VEGETATION:
+Use--dominantly livestock grazing, wildlife habitat, and recreation
+Native vegetation--pinegrass, yarrow, fescue, and false hellebore; scattered ponderosa pine, lodgepole pine, and grand fir
+
+DISTRIBUTION AND EXTENT: Eastern slopes of Cascade Mountains, Yakama Nation, Yakima County, Washington; MLRA 6; small extent
+
+SOIL SURVEY REGIONAL OFFICE (SSRO) RESPONSIBLE: Portland, Oregon
+
+SERIES ESTABLISHED: Yakama Nation, Yakima County, Washington; 2014
+
+REMARKS:
+Diagnostic horizons and other features recognized in this pedon
+*Mollic epipedon--zone from the surface to a depth of 84 cm
+*Argillic horizon--zone from 35 to 104 cm
+*Vitrandic subgroup feature--zone from the surface to a depth of 35 cm
+*Particle-size control section--zone from 35 to 85 cm
+
+National Cooperative Soil Survey
+U.S.A.

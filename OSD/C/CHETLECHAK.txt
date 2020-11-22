@@ -1,0 +1,124 @@
+LOCATION CHETLECHAK             AK
+
+Established Series
+JDP/DLM/TJR
+04/2020
+
+CHETLECHAK SERIES
+
+Landscape--alluvial plains
+Landform--depressions on flood plains
+Slope--0 to 3 percent
+Parent material--alluvium
+Mean annual precipitation--about 255 mm
+Mean annual air temperature--about -6 degrees C
+Depth class--very deep
+Drainage class--somewhat poorly drained
+Soil moisture regime--aquic
+Soil temperature regime--gelic
+Soil moisture subclass--typic
+
+TAXONOMIC CLASS: Coarse-silty, mixed, superactive, nonacid, subgelic Typic Aquorthels
+
+TYPICAL PEDON: Chetlechak silt loam on a mixed shrub and grassland flood plain depression with a slope of 0 percent and an elevation of 100 m (The soil was moist throughout when described on July 19, 2008.)
+
+ Oe--0 to 8 cm; moderately decomposed plant material; black (7.5YR 2.5/1) moist; many fine roots, common medium and coarse roots; slightly acid (pH 6.4); clear smooth boundary
+
+ A--8 to 25 cm; silt loam; dark grayish brown (10YR 4/2) dry, very dark brown (10YR 2/2) moist; moderate medium subangular blocky structure; slightly hard, friable, nonsticky and nonplastic; many fine roots, common medium roots; common fine and medium pores; neutral (pH 6.8); clear irregular boundary
+
+ C--25 to 70 cm; silt loam; light brownish gray (2.5Y 6/2) dry, dark grayish brown (2.5Y 4/2) moist; strong medium platy structure; slightly hard, friable, nonsticky and nonplastic; common fine roots; few fine and medium pores; 5 percent gray (2.5Y 5/1) moist, iron depletions, and 5 percent brown (7.5YR 4/4) moist, masses of oxidized iron; slightly alkaline (pH 7.6); clear smooth boundary
+
+ Cf--70 to 100 cm; permanently frozen silt loam; light brownish gray (2.5Y 6/2) dry, dark grayish brown (2.5Y 4/2) moist; slightly alkaline (pH 7.6)
+
+TYPE LOCATION: Yukon-Koyukuk Census Area, Alaska; latitude 66.0216667 degrees, longitude -149.1105556 degrees, datum WGS84 (coordinates determined with a GPS)
+
+RANGE IN CHARACTERISTICS:
+Mean annual soil temperature-- -4 to 1 degrees C
+Depth to permafrost--50 to 90 cm
+Depth to redoximorphic features--25 to 50 cm
+
+Oe horizon
+Thickness--5 to 15 cm
+Reaction--5.5 to 7.5
+
+Oa horizon (where present)
+Thickness--5 to 15 cm
+Reaction--5.5 to 7.5
+
+A horizon
+Hue--10YR, 2.5Y
+Value--2 or 3 moist, 4 or 5 dry
+Chroma--1 or 2 moist
+Fine-earth texture--silt loam, very fine sandy loam, silt
+Clay content--0 to 18 percent
+Reaction--6.5 to 7.5
+Effervescence--none
+Thickness--5 to 25 cm
+
+C horizon
+Hue--10YR, 2.5Y
+Value--2 to 4 moist, 4 to 6 dry
+Chroma--1 or 2 moist
+Fine-earth texture--silt loam, very fine sandy loam, silt
+Clay content--0 to 18 percent
+Reaction--7.0 to 8.5
+Effervescence--none to strong
+Thickness--30 to 70 cm
+
+Cf horizon
+Value--2 to 4 moist, 4 to 6 dry
+Chroma--1 or 2 moist
+Fine-earth texture--silt loam, very fine sandy loam, silt
+Clay content--0 to 18 percent
+Reaction--7.0 to 8.5
+Effervescence--none to strong
+Thickness--60 to 100 cm
+
+COMPETING SERIES: 
+Twin--rare flooding; higher positions on similar landforms
+Pitka--no flooding; scrubland depressions on adjacent terraces
+Dotlake--interdunes with sandy substrata; higher mean annual precipitation
+
+GEOGRAPHIC SETTING:
+Elevation--90 to 300 m
+Climate--short, warm summers and long, very cold winters
+Mean annual precipitation--210 to 310 mm
+Mean annual air temperature-- -12 to 0 degrees C
+Frost-free period--45 to 97 days
+
+GEOGRAPHICALLY ASSOCIATED SOILS:
+Jokinaugh--aquic conditions within 25 cm with frequent ponding; no permafrost; similar landforms
+Theodore--aquic conditions within 100 cm; no permafrost; adjacent flood plains
+Kingslough--no aquic conditions within 150 cm; adjacent flood plains
+Twin--aquic conditions within 25 cm with rare flooding; adjacent terraces
+
+DRAINAGE AND SATURATED HYDRAULIC CONDUCTIVITY:
+Drainage class--somewhat poorly drained
+Saturation in normal years--water table top depth between a depth of 25 to 50 cm in June, and between a depth of 50 to 75 cm in July and August
+Flooding--occasional, brief
+Ponding--occasional, brief
+Saturated hydraulic conductivity (Ksat)--high in the surface horizons and high or very high in the subsurface
+
+USE AND VEGETATION:
+Use--wildlife habitat, subsistence, recreation
+Potential natural vegetation--White spruce, littletree willow, Bebb willow, prickly rose, redosier dogwood, thinleaf alder, bluejoint, water sedge, wheat sedge, fireweed, field horsetail, and Pohlia moss
+
+DISTRIBUTION AND EXTENT: Yukon Flats Lowlands, Alaska; MLRA 232; small extent
+
+SOIL SURVEY REGIONAL OFFICE (SSRO) RESPONSIBLE: Portland, Oregon
+
+SERIES ESTABLISHED: Yukon Flats National Wildlife Refuge, Yukon-Koyukuk Census Area, Alaska; 2020
+
+REMARKS:
+Diagnostic horizons and other features in this pedon
+*Particle-size control section--zone from 33 to 108 cm
+*Ochric epipedon
+*Redoximorphic iron concentrations--C horizon
+*Redoximorphic iron depletions with chroma of 2 or less--C horizon
+*Permafrost--Cf horizon
+*Aquic conditions--C horizon
+Soils in this series may sometimes meet the criteria for a mollic epipedon, but this horizon is not diagnostic within the Aquorthels great group.
+
+
+National Cooperative Soil Survey
+U.S.A.

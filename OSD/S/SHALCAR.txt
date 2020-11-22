@@ -1,0 +1,126 @@
+LOCATION SHALCAR                WA
+
+Established Series
+Rev. AG/DRU/EED
+04/2017
+
+SHALCAR SERIES
+
+Landscape--drift plains, river valleys
+Landform--depressions of stream terraces and outwash terraces, oxbows, backswamps
+Slope--0 to 3 percent
+Parent material--organic deposits over alluvium, glacial outwash, or glaciomarine material
+Mean annual precipitation--about 1100 mm
+Mean annual air temperature--about 10 degrees C
+Depth class--very deep
+Drainage class--very poorly drained
+Soil moisture regime--aquic
+Soil temperature regime--mesic
+Soil moisture subclass--typic
+
+TAXONOMIC CLASS: Loamy, mixed, euic, mesic Terric Haplosaprists
+
+TYPICAL PEDON: Shalcar muck in an area of pasture, on a 1-percent slope at an elevation of 23 m
+
+ Oa1--0 to 15 cm; muck, black (10YR 2/1) moist, black (N 2/0) dry; moderate medium granular structure; slightly hard, very friable, nonsticky and nonplastic; 15 percent fiber, 3 percent rubbed; many very fine roots; very strongly acid (pH 4.7); CaCl2 pH (4.0); abrupt irregular boundary
+
+ Oa2--15 to 66 cm; muck, black (10YR 2/1) moist, dark brown (7.5YR 3/2) dry; moderate medium granular structure; slightly hard, very friable, nonsticky and nonplastic; 30 percent fiber, 5 percent rubbed; common very fine roots; very strongly acid (pH 4.8); CaC12 pH (5.0); clear wavy boundary
+
+ Oa3--66 to 94 cm; muck, black (10YR 2/1) moist, very dark grayish brown (10YR 3/2) dry; moderate medium granular structure; slightly hard, very friable, nonsticky and nonplastic; 20 percent fiber, 5 percent rubbed; common very fine roots; intermittent layer of fine sandy loam volcanic ash, strong brown (7.5YR 4/6) moist, reddish yellow (7.5YR 6/6) dry; very strongly acid (pH 4.9); CaC12 pH (4.7); abrupt smooth boundary
+
+ 2Bg--94 to 132 cm; loam, very dark grayish brown (10YR 3/2) moist, grayish brown (2.5Y 5/2) dry; massive; slightly hard, friable, slightly sticky and slightly plastic; common fine irregular pores; 5 percent gravel; slightly acid (pH 6.3); abrupt smooth boundary
+
+ 2Cg--132 to 152 cm; gravelly sand, dark gray (N 4/0) moist, gray (N 6/0) dry; single grain; loose; many fine irregular pores; 15 percent gravel; moderately acid (pH 6.0)
+
+TYPE LOCATION: Whatcom County, Washington, about 1.5 km east of Lynden; 300 m north and 900 m west of the southeast corner of section 16, T. 40 N., R. 3 E., Willamette Meridian; Lynden NE U.S. Geological Survey quarter quadrangle; latitude 48.9529990 degrees north, longitude 122.4130000 degrees west, WGS 84 (coordinates estimated from PLSS details)
+
+RANGE IN CHARACTERISTICS:
+Mean annual soil temperature--10 to 12 degrees C
+Mean January soil temperature--2 degrees C
+Mean July soil temperature--17 degrees C
+Depth to mineral soil--40 to 130 cm
+Fiber content--5 to 40 percent (2 to 15 percent rubbed)
+Depth to lenses of volcanic ash and/or diatomaceous earth (where present)--60 to 120 cm
+Particle-size control section--less than 35 percent clay (weighted average); less than 35 percent total rock fragments (weighted average)
+
+Oa horizon
+Hue--2.5YR to 2.5Y, or neutral
+Value--2 to 4 moist, 2 to 5 dry
+Chroma--neutral, 1 to 3 moist or dry
+Reaction (pH)--3.5 to 6.0
+Wood fragment content--0 to 10 percent
+Combined thickness--40 to 130 cm
+
+2Bg horizon
+Hue--10YR to 5Y, 5GY, neutral
+Value--3 to 5 moist, 5 to 8 dry
+Chroma--neutral, 1 or 2 moist or dry
+Reaction (pH)--5.1 to 6.5
+Texture--silt loam, sandy loam, loam, sandy clay loam, silty clay loam
+Thickness--10 to 110 cm
+
+2Cg horizon
+Hue--2.5Y, 5Y, 5GY, neutral
+Value--3 to 5 moist, 5 to 7 dry
+Chroma--neutral, 1 or 2 moist or dry
+Reaction (pH)--5.1 to 7.3
+Texture--sand, loamy sand, sandy loam, loam, silt loam, silty clay loam, clay
+Gravel content--0 to 60 percent
+
+COMPETING SERIES:
+Klossner--pH of 5.6 to 8.4 in mineral horizons; carbonates present; less than 25 percent coarse fragments in particle-size control section
+Linwood--less than 15 percent rock fragments throughout, pH of 4.5 to 7.8 in organic horizons and 5.6 to 8.4 in mineral horizons
+Medo--pH of 6.1 to 7.8 in organic horizons; 0 to 25 percent coarse fragments in mineral horizons
+Natchaug--hue ranges to 5YR in mineral horizons; 0 to 30 percent coarse fragments and less than 60 percent clay in mineral horizons
+Palms--0 to 30 percent coarse fragments and less than 60 percent clay in mineral horizons; pH of 5.1 to 7.8 in organic horizons and 5.6 to 8.4 in mineral horizons
+Philbon--pH of 6.1 to 8.4 in organic horizons and 6.6 to 8.4 in mineral horizons; no coarse fragments throughout
+
+GEOGRAPHIC SETTING:
+Elevation--0 to 215 m
+Mean annual precipitation--450 to 1800 mm
+Mean annual air temperature--9 to 11 degrees C
+Frost-free period--150 to 240 days
+
+GEOGRAPHICALLY ASSOCIATED SOILS:
+Bellingham, Norma--mineral soils; in depressions of drift plains
+Fishtrap--loamy sand or sand with less than 10 percent clay in particle-size control section; in similar positions of outwash terraces
+Kickerville--no aquic conditions; on outwash terraces and drift plains
+Pangborn, Seattle--no mineral soil material within 130 cm of the soil surface; in similar positions and landscapes
+Sumas, Rennie--mineral soils; on flood plains
+Salzer--mineral soils; on similar landforms of river valleys
+
+DRAINAGE AND SATURATED HYDRAULIC CONDUCTIVITY:
+Drainage class--very poorly drained
+Depth to apparent seasonal water table--0 to 30 cm at times from October through May, 0 to 100 cm or more in June through September
+Flooding--none to frequent, brief to long periods in October through June
+Ponding--none to frequent, very long periods in October through July
+Saturated hydraulic conductivity (Ksat)--moderately high or high in Oa horizon, low to very high in 2Bg and 2Cg horizons
+
+Ponding and the seasonal high water table in some pedons may be altered by artificial drainage.
+Flooding in some pedons may be altered by flood protection structures.
+
+USE AND VEGETATION:
+Use--livestock grazing, hay production, and crop production in cleared and/or artificially drained or protected areas; wildlife habitat
+Native vegetation--Douglas spirea, redosier dogwood, willow, skunk cabbage, slough sedge, and bulrush; some areas have an overstory of red alder, Sitka spruce, western redcedar, and lodgepole pine
+
+DISTRIBUTION AND EXTENT: Western Washington, west of the Cascade Mountains; MLRA 2; moderate extent
+
+MLRA SOIL SURVEY REGIONAL OFFICE (MO) RESPONSIBLE: Portland, Oregon
+
+SERIES ESTABLISHED: Grays Harbor Area, Washington; 1970
+
+REMARKS:
+Diagnostic horizons and other features in this pedon
+*Particle-size control section--zone from 94 to 130 cm
+*Histic epipedon--zone from the surface to a depth of 94 cm
+*Terric feature--zone from 94 cm to 150 cm
+*Histosols control section--zone from the surface to a depth of 130 cm
+*Aquic conditions--zone from the surface to a depth of 150 cm
+*Endosaturation--zone from the surface to a depth of 150 cm
+
+11/2016--The official series description was edited according to SSR01 Technical Note--Content and Format of Official Series Descriptions (revised 12/2015).
+
+ADDITIONAL DATA: Characterization data--number 04N0410 (user pedon ID 03WA055010)
+
+National Cooperative Soil Survey
+U.S.A.

@@ -1,0 +1,115 @@
+LOCATION PIRD                   WA
+
+Established Series
+Rev. KDV/KDPL/SBC
+09/2019
+
+PIRD SERIES
+
+Landscape--mountains
+Landform--mountain slopes
+Slope--0 to 60 percent
+Parent material--volcanic ash mixed with residuum and colluvium derived from basalt
+Mean annual precipitation--about 890 mm
+Mean annual air temperature--about 3 degrees C
+Depth class--very deep
+Drainage class--well drained
+Soil moisture regime--xeric
+Soil temperature regime--cryic
+Soil moisture subclass--typic
+
+TAXONOMIC CLASS: Ashy-skeletal, amorphic Humic Xeric Vitricryands
+
+TYPICAL PEDON: Pird gravelly ashy loam, forested, on a 43-percent, southeast-facing backslope at an elevation of 1425 m (All textures are apparent field textures.)
+
+ Oi--0 to 3 cm; slightly decomposed needles and twigs
+
+ A1--3 to 15 cm; gravelly ashy loam, brown (7.5YR 4/2) dry, dark reddish brown (5YR 3/2) moist; weak very fine granular structure; soft, friable, slightly sticky and slightly plastic; weakly smeary; many very fine roots; many very fine irregular pores; 20 percent gravel; moderately acid (pH 5.8); clear wavy boundary
+
+ A2--15 to 25 cm; gravelly ashy loam, brown (7.5YR 4/2) dry, dark reddish brown (5YR 3/2) moist; weak very fine granular structure; soft, friable, slightly sticky and slightly plastic; weakly smeary; many very fine and few medium roots; many very fine irregular pores; 25 percent gravel; moderately acid (pH 6.0); clear wavy boundary
+
+ AB--25 to 64 cm; very gravelly ashy loam, brown (10YR 5/3) dry, dark brown (7.5YR 3/2) moist; weak very fine subangular blocky structure; slightly hard, friable, slightly sticky and slightly plastic; weakly smeary; many very fine and fine roots; many very fine irregular pores; 40 percent gravel; moderately acid (pH 5.6); clear wavy boundary
+
+ Bw--64 to 107 cm; very gravelly ashy loam, light yellowish brown (10YR 6/4) dry, brown (7.5YR 4/4) moist; weak very fine subangular blocky structure; slightly hard, friable, slightly sticky and slightly plastic; weakly smeary; many very fine and fine roots; many very fine irregular pores; 40 percent gravel; slightly acid (pH 6.2); clear wavy boundary
+
+ BC--107 to 155 cm; very gravelly ashy loam, light yellowish brown (10YR 6/4) dry, dark yellowish brown (10YR 4/4) moist; weak very fine granular structure; slightly hard, friable, slightly sticky and slightly plastic; many fine roots; many very fine irregular pores; 40 percent gravel and 5 percent cobbles; slightly acid (pH 6.2)
+
+TYPE LOCATION: Klickitat County, Washington, about 18 km north of Goldendale; about 760 m south of the northeast corner of section 28, T. 6 N., R. 16 E.; latitude 45.9766249, longitude  120.8013718, datum WGS 84 (coordinates estimated from section, township, and range)
+
+RANGE IN CHARACTERISTICS:
+Mean annual soil temperature--3 to 6 degrees C
+Soil moisture control section--usually moist, but dry 45 to 60 consecutive days following summer solstice
+Particle-size control section--7 to 20 percent clay; average of 35 to 60 percent rock fragments
+
+Andic soil properties in particle-size control section
+*Moist bulk density--0.65 to 0.90 g/cm3
+*Volcanic glass content--5 to 30 percent
+*Acid oxalate aluminum plus one-half iron--2 to 3 percent
+*Phosphorus retention--50 to 75 percent
+*15-bar water retention (air-dried samples)--8 to 12 percent
+
+A horizon
+Hue--5YR, 7.5YR
+Value--3 to 5 dry, 2 or 3 moist
+Chroma--2 to 4 dry or moist
+Reaction--5.6 to 6.5
+Combined thickness--8 to 25 cm
+
+AB horizon
+Thickness--23 to 39 cm
+
+Bw horizon
+Hue--5YR to 10YR
+Value--4 to 6 dry, 2 to 4 moist
+Chroma--2 to 4 dry or moist
+Texture of fine-earth fraction--ashy sandy loam, ashy loam
+Rock fragment content--35 to 60 percent
+Reaction--5.1 to 6.5
+Thickness--43 to 71 cm
+
+BC horizon
+Hue--5YR to 10YR
+Value--4 to 6 dry, 2 to 4 moist
+Chroma--2 to 4 dry or moist
+Texture of fine-earth fraction--ashy sandy loam, ashy loam
+Rock fragment content--35 to 75 percent
+Reaction--5.1 to 6.5
+
+COMPETING SERIES: None
+
+GEOGRAPHIC SETTING:
+Elevation--1150 to 2050 m
+Climate--cool, dry summers; cold, wet winters; snow cover in November through May
+Mean annual precipitation--760 to 1000 mm
+Mean January air temperature--about -7 degrees C
+Mean July air temperature--about 13 degrees C
+Mean annual air temperature--about 2 to 6 degrees C
+Frost-free season--40 to 70 days
+
+GEOGRAPHICALLY ASSOCIATED SOILS:
+Grandpon, Satus--on mountains; frigid soil temperature regime
+Milling--25 to 50 cm (shallow) to a lithic contact (basalt); on mountains
+
+DRAINAGE AND SATURATED HYDRAULIC CONDUCTIVITY:
+Drainage class--well drained
+Saturated hydraulic conductivity (Ksat)--moderately high
+
+USE AND VEGETATION:
+Use--timber production, livestock grazing, wildlife habitat
+Vegetation--subalpine fir, lodgepole pine, Engelmann spruce, grand fir, elk sedge, huckleberry, strawberry, lupine, Hitchcock's smooth woodrush, northwestern sedge, rabbitbush goldenweed
+
+DISTRIBUTION AND EXTENT: Klickitat and Yakima Counties, Washington; MLRA 6; moderate extent
+
+SOIL SURVEY REGIONAL OFFICE (SSRO) RESPONSIBLE: Portland, Oregon
+
+SERIES ESTABLISHED: Klickitat County, Washington; 2003
+
+REMARKS:
+Diagnostic horizon and other features recognized in this pedon
+*Umbric epipedon--zone from 3 to 64 cm
+*Cambic horizon--zone from 64 to 107 cm
+*Andic soil properties--zone from 3 to 155 cm
+*Particle-size control section--zone from 3 to 103 cm
+
+National Cooperative Soil Survey
+U.S.A.

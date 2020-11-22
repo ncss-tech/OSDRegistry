@@ -1,0 +1,110 @@
+LOCATION LANCE                  WA
+
+Established Series
+Rev. KMS/CSM/SHB/SBC
+06/2016
+
+LANCE SERIES
+
+Landscape--Columbia basalt plateau
+Landscape--convex summits and shoulders of loess hills
+Slope--5 to 60 percent, commonly south facing
+Parent material--young loess mixed with a minor amount of volcanic ash over older calcareous loess
+Mean annual precipitation--about 430 mm
+Mean annual air temperature--about 8 degrees C
+Depth class--very deep
+Drainage class--well drained
+Soil moisture regime--xeric
+Soil temperature regime--mesic
+Soil moisture subclass--typic
+
+TAXONOMIC CLASS: Fine-silty, mixed, superactive, mesic Calcic Haploxerepts
+
+TYPICAL PEDON: Lance silt loam, cultivated
+
+ Ap--0 to 23 cm; silt loam, light brownish gray (10YR 6/2) dry, dark grayish brown (10YR 4/2) moist; weak fine and medium granular structure; slightly hard, friable, slightly sticky and slightly plastic; common fine roots; many very fine interstitial pores; 5 percent hard, brittle durinodes in lower part; violently effervescent; moderately alkaline (pH 8.4); abrupt smooth boundary
+
+ Bkq1--23 to 36 cm; extremely parachannery silt loam weakly cemented with silica, light gray (10YR 7/2) dry, brown (10YR 5/3) moist; moderate medium platy structure; very hard, firm, slightly sticky and slightly plastic; few very fine roots; common very fine tubular pores; about 75 percent extremely hard, brittle durinodes 1 cm in diameter and discontinuous lenses 3 mm thick; violently effervescent with many very pale brown (10YR 8/2) lime coatings on durinodes and lenses and clay threads in matrix; strongly alkaline (pH 8.6); clear wavy boundary
+
+ Bkq2--36 to 56 cm; extremely parachannery silt loam, light gray (10YR 7/2) dry, brown (10YR 4/3) moist; weak fine and medium subangular blocky structure; hard, firm, slightly sticky and slightly plastic; few very fine roots; common very fine tubular pores; 50 percent extremely hard, brittle durinodes 1 cm in diameter; noneffervescent matrix, many very pale brown (10YR 8/2) coatings of lime on durinodes; strongly alkaline (pH 8.6); clear wavy boundary
+
+ Bkq3--56 to 102 cm; silt loam, light brown (7.5YR 6/4) dry, brown (7.5YR 4/4) moist; moderate fine and medium angular blocky structure; hard, firm, slightly sticky and slightly plastic; few very fine roots; common very fine tubular pores; common black (10YR 2/1) coatings on peds; common thin discontinuous silica films on peds and in pores; noneffervescent matrix, common very pale brown (10YR 8/2) lime in seams; strongly alkaline (pH 8.6); clear wavy boundary
+
+ Bkq4--102 to 150 cm; silt loam, light yellowish brown (10YR 6/4) dry, dark yellowish brown (10YR 4/4) moist; massive; hard, firm, slightly sticky and slightly plastic; few very fine roots; few very fine tubular pores; few thin silica films in tubular pores and as bridges between sand grains; slightly effervescent, lime in seams and pores; moderately alkaline (pH 8.2)
+
+TYPE LOCATION: Spokane County, Washington, about 645 m north and 135 m east of the southwest corner of section 14, T. 23 N., R. 41 E., Willamette Meridian; Cheney, Washington, U.S. Geological Survey topographic quadrangle; latitude 47.4842597, longitude -117.6056792, datum WGS 84 (coordinates estimated from PLSS data)
+
+RANGE IN CHARACTERISTICS:
+Mean annual soil temperature--9 to 11 degrees C
+Moisture control section--dry 75 to 90 consecutive days after summer solstice (July through September); moist in October through June
+Content of clay in particle-size control section--18 to 27 percent
+Depth to Bkq horizon--15 to 30 cm
+Calcium carbonate equivalent--less than 15 percent throughout, by weight
+
+Ap horizon
+Value--5 to 7 dry, 3 or 4 moist; never both 5 dry and 3 moist
+Chroma--2 or 3 dry or moist
+Content of durinodes--0 to 20 percent; weakly cemented to strongly cemented
+Thickness--15 to 30 cm
+
+Bkq horizon
+Hue--7.5YR, 10YR
+Value--6 or 7 dry, 3 or 4 moist
+Chroma--2 to 4 dry or moist
+Structure--subangular blocky, angular blocky, prismatic, massive
+Content of durinodes--25 to 80 percent in upper part; 0 to 50 percent in lower part; weakly cemented to strongly cemented
+Reaction--7.9 to 9.0
+Combined thickness--60 to 190 cm
+
+A weak duripan is below a depth of 100 cm in some pedons.
+
+COMPETING SERIES:
+Hans--no durinodes
+
+GEOGRAPHIC SETTING:
+Elevation--550 to 850 m
+Climate--warm, relatively dry summers; cool, moist winters
+Mean annual precipitation--dominantly 380 to 510 mm; ranges to as low as 305 mm in Garfield County, Washington
+Mean annual air temperature--about 8 to 11 degrees C
+Mean January air temperature--about -4 degrees C
+Mean July air temperature--about 20 degrees C
+Frost-free season--about 110 to 155 days
+
+GEOGRAPHICALLY ASSOCIATED SOILS:
+Athena--mollic epipedon; on all positions of loess hills; no accumulation of silica or carbonates above a depth of 110 cm
+Reardan, Broadax--mollic epipedon; on all positions of loess hills; argillic horizon
+Staley--mollic epipedon; on convex summits; no accumulation of silica
+
+DRAINAGE AND SATURATED HYDRAULIC CONDUCTIVITY:
+Drainage class--well drained
+Saturated hydraulic conductivity (Ksat)--moderately high
+
+USE AND VEGETATION:
+Use--production of small grain, alfalfa, and grass
+Native vegetation--dominantly Idaho fescue and bluebunch wheatgrass
+
+DISTRIBUTION AND EXTENT: Eastern Washington; MLRA 9; moderate extent
+
+MLRA SOIL SURVEY REGIONAL OFFICE (MO) RESPONSIBLE: Portland, Oregon
+
+SERIES ESTABLISHED: Spokane County, Washington; 1964
+
+REMARKS:
+Diagnostic horizon and other features in this pedon
+*Ochric epipedon
+*Cambic horizon--23 to 102 cm
+*Secondary carbonates--zone from 23 to 150 cm
+*Silica accumulation--zone from 23 to 150 cm
+*Particle-size control section--zone from 25 to 100 cm
+
+12/2006--Classification changed from fine-silty, mixed, superactive, calcareous, mesic Durinodic Xerorthents to fine-silty, mixed, superactive, mesic Calcic Haploxerepts because of the presence of a cambic horizon.
+
+The criteria for the calcic subgroup was met by the presence of identifiable secondary carbonates within a depth of 112 cm and the absence of a calcic horizon.
+
+6/2016--This official series description (OSD) was updated as part of the final correlation of the Spokane County, Washington, soil survey. The formatting was updated according to SSR1 Technical Note 11--Content and Format of Official Series Descriptions (revised 12/2015).
+
+ADDITIONAL DATA
+Laboratory data--Kellogg Soil Survey Laboratory, Lincoln, Nebraska; sample number 05N0555, pedon number S05WA-063-002, and sample number 86P0077, pedon number 85WA075015
+
+National Cooperative Soil Survey
+U.S.A.

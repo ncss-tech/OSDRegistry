@@ -1,0 +1,121 @@
+LOCATION PIPEROCK               OR
+
+Tentative Series
+JGM/KMS
+01/2017
+
+PIPEROCK SERIES
+
+Landscape--western Cascade Mountains
+Landform--mountain slopes
+Slope--45 to 90 percent
+Parent material--colluvium derived from hard extrusive igneous rock and/or welded tuff
+Mean annual precipitation--1700 mm
+Mean annual air temperature--about 10 degrees C
+Depth class--moderately deep to lithic contact
+Drainage class--well drained
+Soil moisture regime--udic
+Soil temperature regime--mesic
+Soil moisture subclass--typic
+
+TAXONOMIC CLASS: Loamy-skeletal, isotic, mesic Typic Dystrudepts
+
+TYPICAL PEDON: Piperock gravelly loam on a forested, southeast-facing, 53-percent slope at an elevation of 649 m
+
+ Oi--0 to 2 cm; slightly decomposed plant material; common coarse roots; 10 percent welded tuff gravel; abrupt smooth boundary
+
+ A--2 to 11 cm; gravelly loam, brown (10YR 5/3) dry, dark brown (10YR 3/3) moist; weak fine granular structure; soft, very friable, nonsticky and nonplastic; common very fine to coarse roots; common fine and medium irregular pores and many very fine interstitial pores; 20 percent welded tuff gravel; moderately acid (pH 5.6); clear smooth boundary
+
+ BA--11 to 22 cm; very gravelly loam, brown (10YR 4/3) dry, very dark grayish brown (10YR 3/2) moist; weak fine subangular blocky structure; soft, very friable, nonsticky and nonplastic; common very fine, fine, and coarse and many medium roots; many very fine and common fine and medium irregular pores; 40 percent welded tuff gravel; moderately acid (pH 5.6); clear smooth boundary
+
+ Bw1--22 to 40 cm; very gravelly loam, yellowish brown (10YR 5/4) dry, brown (7.5YR 4/4) moist; weak fine subangular blocky structure; soft, friable, nonsticky and nonplastic; common very fine and fine and many medium roots; many very fine and common fine and medium irregular pores; 45 percent welded tuff gravel and 5 percent welded tuff cobbles; moderately acid (pH 5.8); clear wavy boundary
+
+ Bw2--40 to 80 cm; extremely cobbly loam, yellowish brown (10YR 5/4) dry, brown (7.5YR 4/4) moist; weak fine subangular blocky structure; soft, friable, nonsticky and nonplastic; common very fine and fine and many medium roots; many very fine to medium irregular pores; 20 percent welded tuff gravel, 40 percent welded tuff cobbles, and 5 percent welded tuff stones; moderately acid (pH 5.8); abrupt wavy boundary
+
+ R--80 cm; very strongly cemented welded tuff
+
+TYPE LOCATION: Linn County, Oregon, about 3.3 km north-northwest of White Bull Mountain; 300 m north and 150 m west of the southeast corner of section 10, T. 11 S., R. 4 E.; latitude 44.6196390, longitude -122.3075560, datum WGS 84 (coordinates determined with a GPS)
+
+RANGE IN CHARACTERISTICS:
+Dry days--30 to 45 consecutive days following summer solstice
+Mean annual soil temperature--8 to 10 degrees C
+Depth to lithic contact--50 to 100 cm below mineral soil surface
+Reaction--5.6 to 6.5 throughout all mineral horizons
+
+Particle-size control section
+*Clay content--8 to 18 percent
+*Total fragment content--40 to 70 percent
+
+O horizon
+*Thickness--1 to 8 cm
+
+A and BA horizons
+*Hue--10YR, 7.5YR
+*Value--3 to 5 moist, 4 to 7 dry
+*Chroma--2 to 4 moist, 2 or 3 dry
+*Fine-earth texture--loam, sandy loam
+*Clay content--8 to 18 percent
+*Sand content--40 to 60 percent
+*Total fragment content--15 to 60 percent
+*Gravel content--15 to 50 percent
+*Cobble content--0 to 20 percent
+*Thickness--10 to 24 cm
+
+Bw horizon
+*Hue--10YR, 7.5YR
+*Value--4 or 5 moist, 5 to 8 dry
+*Chroma--3 or 4 moist, 2 to 4 dry
+*Fine-earth texture--loam, sandy loam
+*Clay content--8 to 18 percent
+*Sand content--35 to 60 percent
+*Total fragment content--40 to 70 percent
+*Gravel content--20 to 55 percent
+*Cobble content--5 to 40 percent
+*Stone content--0 to 10 percent
+
+COMPETING SERIES:
+Chamate--greater than 150 cm deep to lithic contact
+Remote--50 to 100 cm deep to paralithic contact; 15 to 35 percent clay in particle-size control section
+
+GEOGRAPHIC SETTING:
+Elevation--200 to 800 m
+Climate--warm, wet winters; hot, moist summers
+Mean annual precipitation--1500 to 1900 mm
+Mean annual air temperature--9 to 11 degrees C
+Frost-free period--135 to 165 days
+
+GEOGRAPHICALLY ASSOCIATED SOILS:
+Aschoff--umbric epipedon; andic soil properties in upper part; on side slopes of mountains with interbedded soft tuff and hard extrusive igneous rock
+Chamate--greater than 150 cm deep to lithic contact; on similar landforms
+Kinney--umbric epipedon; andic soil properties in upper part; less than 35 percent rock fragments in particle-size control section; on side slopes of mountains with interbedded soft tuff and hard extrusive igneous rock
+
+DRAINAGE AND PERMEABILITY:
+Drainage class--well drained
+Saturation during normal years--none
+Flooding--none
+Ponding--none
+Saturated hydraulic conductivity (Ksat)--high
+
+USE AND VEGETATION:
+Use--timber production, wildlife habitat, recreation
+Potential natural vegetation--Douglas-fir, western hemlock, salal, dwarf Oregon grape, western swordfern, trailing blackberry
+
+DISTRIBUTION AND EXTENT: Western Cascade Mountains in Oregon; MLRA 3; small extent
+
+MLRA SOIL SURVEY REGIONAL OFFICE (MO) RESPONSIBLE: Portland, Oregon
+
+SERIES PROPOSED: Willamette National Forest, Linn County, Oregon; name from local bedrock pillar referred to as Pipe Rock
+
+REMARKS:
+Diagnostic horizons and other features recognized in this pedon
+*Ochric epipedon
+*Cambic horizon--zone from 22 to 80 cm
+*Depth to lithic contact--80 cm
+*Particle-size control section--zone from 26 to 80 cm
+
+08/2016--Some investigation should be done to determine whether the soils have an ash influence, given the levels of ash in nearby soils.
+
+ADDITIONAL DATA: Type location user site ID--2014OR043862
+
+National Cooperative Soil Survey
+U.S.A.

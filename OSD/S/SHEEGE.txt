@@ -1,0 +1,102 @@
+LOCATION SHEEGE                 ID+MT NV UT WY
+
+Established Series
+Rev. RAS/ CBR/RGK
+05/2018
+
+SHEEGE SERIES
+
+Landscape--mountains, hills
+Landform--mountain slopes, ridges, hillslopes
+Slope--0 to 70 percent
+Parent material--loess-influenced colluvium over limestone
+Mean annual precipitation--about 525 mm
+Mean annual air temperature--about 5 degrees C
+Depth class--shallow
+Drainage class--well drained
+Soil moisture regime--xeric
+Soil temperature regime--cryic
+
+TAXONOMIC CLASS:  Loamy-skeletal, carbonatic Lithic Cryrendolls
+
+TYPICAL PEDON:  Sheege very stony loam in an area of rangeland (Colors are for dry soil unless otherwise noted.)
+
+ A1--0 to 15 cm; dark grayish brown (10YR 4/2) very stony loam, very dark brown (10YR 2/2) moist; moderate very fine granular structure; slightly hard, friable, slightly sticky and slightly plastic; common very fine and fine roots; many very fine interstitial pores; 15 percent gravel, 15 percent cobbles, and 20 percent stones; calcium carbonate coatings on bottom of rock fragments; slightly effervescent; slightly alkaline (pH 7.8); gradual wavy boundary
+
+ A2--15 to 43 cm; grayish brown (10YR 5/2) very stony loam, dark brown (10YR 3/3) moist; weak very fine granular structure; slightly hard, very friable, slightly sticky and slightly plastic; common very fine and fine roots; many very fine and fine pores; 20 percent gravel, 15 percent cobbles, and 15 percent stones; calcium carbonate coatings 0.5 to 3.0 mm thick and pendular calcium carbonate nodules on bottom of rock fragments; violently effervescent; moderately alkaline (pH 8.0); abrupt broken boundary
+
+ R--43 cm; dark gray (N 4/0) limestone; somewhat fractured; little soil material in cracks; calcium carbonate coatings 0.5 to 2.0 mm thick on bedrock
+
+TYPE LOCATION:  Bingham County, Idaho; latitude 43.19094 degrees north, longitude 111.71564 degrees west, datum WGS 84
+
+RANGE IN CHARACTERISTICS:
+Mean annual soil temperature--3.3 to 5.6 degrees C
+Depth to bedrock--25 to 50 cm
+Thickness of mollic epipedon--15 to 46 cm
+Percentage of surface covered with stones--0 to 15 percent
+
+Particle-size control section (weighted averages)
+Clay content--8 to 27 percent
+Total rock fragment content--35 to 60 percent
+Calcium carbonate equivalent--40 to 60 percent
+
+A horizon
+Value--4 or 5 dry, 2 or 3 moist
+Chroma--1 to 3 dry or moist
+Texture (less than 2-mm fraction)--loam, sandy loam
+Clay content--5 to 27 percent
+Total rock fragment content--25 to 55 percent
+Gravel content--5 to 35 percent
+Cobble content--3 to 25 percent
+Stone content--0 to 33 percent
+Calcium carbonate equivalent--0 to 60 percent (upper 5 or 8 cm noncalcareous in some pedons)
+Reaction--pH 7.4 to 8.4
+Thickness--25 to 56 cm
+
+C horizon (where present)
+Hue--10YR, 2.5Y
+Value--5 to 8 dry, 4 to 7 moist
+Chroma--2 to 4 dry or moist
+Total rock fragment content--35 to 60 percent
+Gravel content--0 to 30 percent
+Cobble content--15 to 30 percent
+Calcium carbonate equivalent--40 to 50 percent
+Reaction--pH 7.4 to 8.4
+Thickness--0 to 35 cm
+
+COMPETING SERIES:
+Halacan--cambic horizon; loam throughout
+Haunchee--cambic horizon; mean annual soil temperature of 6 to 7 degrees C
+
+GEOGRAPHIC SETTING:
+Elevation--1981 to 3048 m
+Mean annual air temperature--2 to 7 degrees C
+Mean annual precipitation--381 to 686 mm
+Frost-free period--50 to 90 days
+
+GEOGRAPHICALLY ASSOCIATED SOILS:  None listed
+
+DRAINAGE AND SATURATED HYDRAULIC CONDUCTIVITY:
+Drainage class--well drained
+Saturated hydraulic conductivity (Ksat)--5 to 25 um/sec
+
+USE AND VEGETATION:
+Major use--rangeland
+Potential native vegetation--big sagebrush, snowberry, western wheatgrass, yarrow, and wyethia; ponderosa pine, Douglas-fir, white fir, timber pine, creeping juniper, slender wheatgrass, manzanita, Rocky Mountain juniper, and Oregon grape in some areas
+
+DISTRIBUTION AND EXTENT:  Moderate extent in southern Idaho, southern Utah, and central Nevada; MLRAs 12, 13, and 43B
+
+SOIL SURVEY REGIONAL OFFICE (SSRO) RESPONSIBLE:  Portland, Oregon
+
+SERIES ESTABLISHED:  Paunsaugunt Area, Utah; 1969
+
+REMARKS:
+Diagnostic horizons and other features recognized in this pedon
+Mollic epipedon--zone from the surface to a depth of 43 cm (A1 and A2 horizons)
+Depth to lithic contact--43 cm
+Particle-size control section--zone from 25 to 43 cm (part of A1 horizon, A2 horizon)
+
+The Sheege soils formerly were classified as Lithosols.
+
+National Cooperative Soil Survey
+U.S.A.

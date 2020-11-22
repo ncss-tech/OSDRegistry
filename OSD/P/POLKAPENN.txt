@@ -1,0 +1,116 @@
+LOCATION POLKAPENN              AK
+
+Tentative Series
+IRD. ATD/NDP/SCD
+05/2020
+
+POLKAPENN SERIES
+
+Landscape--glaciated hills and mountains
+Landform--hillslopes, mountain slopes
+Slope--20 to 95 percent
+Parent material--till over residuum
+Mean annual precipitation--about 1400 mm
+Mean annual air temperature--about 5 degrees C
+Depth class--shallow
+Drainage class--well drained
+Soil moisture regime--udic
+Soil temperature regime--cryic
+Soil moisture subclass--typic
+
+TAXONOMIC CLASS: Loamy-skeletal, mixed, superactive, nonacid Lithic Cryorthents
+
+TYPICAL PEDON: Polkapenn coarse sandy loam, forested, on a hillslope of 20 percent at an elevation of 44 m (When described on August 31, 2013, the soil was moist from the surface to a depth of 42 cm.)
+
+ Oi--0 to 10 cm; slightly decomposed plant material; moderately acid (pH 5.6); clear smooth boundary
+
+ A--10 to 22 cm; extremely cobbly coarse sandy loam, grayish brown (2.5Y 5/2) dry, very dark grayish brown (2.5Y 3/2) moist; weak fine granular structure; slightly hard, friable, nonsticky and nonplastic; many very fine and common fine and medium roots throughout; common very fine and fine irregular pores; 20 percent gravel and 45 percent cobbles; noneffervescent (HCL, 1N); slightly acid (pH 6.3); gradual smooth boundary
+
+ C--22 to 42 cm; very cobbly coarse sandy loam, light grayish green (5GY 6/2) dry, grayish green (5GY 5/2) moist; massive; slightly hard, friable, nonsticky and nonplastic; common very fine, fine, and medium roots throughout; common very fine and few fine irregular pores; 5 percent medium dark yellowish brown (10YR 4/6) mottles; 15 percent gravel and 30 percent cobbles; noneffervescent (HCL, 1N); neutral (pH 6.9); abrupt smooth boundary
+
+ 2R--42 cm; bedrock
+
+TYPE LOCATION: Glacier Bay National Park and Preserve-Gustavus Area, Alaska; Hoonah-Angoon Census Area; latitude 58.7408444, longitude -136.5051581, datum WGS84 (coordinates determined by a GPS unit)
+
+RANGE IN CHARACTERISTICS:
+Mean annual soil temperature--1 to 7 degrees C
+Soil moisture control section--dry less than 45 consecutive days in June through October (udic)
+Depth to lithic contact--25 to 50 cm (shallow)
+Other features--lithologic discontinuity
+
+Particle-size control section
+*Clay content--4 to 6 percent
+*Total rock fragment content--35 to 65 percent
+
+Oi horizon
+Thickness--0 to 12 cm
+
+A horizon
+Hue--10YR or 2.5Y moist or dry
+Value--2 or 3 moist, 4 or 5 dry
+Chroma--2 to 4 moist or dry
+Fine-earth texture--coarse sandy loam, sandy loam
+Clay content--4 to 6 percent
+Total rock fragment content--35 to 65 percent
+Gravel content--5 to 25 percent
+Cobble content--3 to 45 percent
+Reaction (pH)--5.8 to 6.3
+Thickness--5 to 17 cm
+
+C horizon
+Hue--10YR to 5GY moist or dry
+Value--3 to 5 moist, 5 or 7 dry
+Chroma--2 to 6 moist or dry
+Fine-earth texture--coarse sandy loam, sandy loam
+Clay content--4 to 6 percent
+Total rock fragment content--35 to 65 percent
+Gravel content--5 to 25 percent
+Cobble content--5 to 40 percent
+Reaction (pH)--6.0 to 6.9
+Thickness--10 to 25 cm
+
+COMPETING SERIES:
+Escures--50 to 100 cm (moderately deep) to a lithic contact
+Larkspur--15 to 25 cm (very shallow) to a lithic contact (rhyolitic tuff); elevation of more than 1500 m
+
+GEOGRAPHIC SETTING:
+Elevation--20 to 280 m
+Climate--cool, moist summers; mild, wet winters
+Mean annual precipitation--850 to 1850 mm
+Mean annual air temperature--0 to 9 degrees C
+Frost-free period--90 to 154 days
+
+GEOGRAPHICALLY ASSOCIATED SOILS:
+Bearisland--no lithic contact within a depth of more than 150 cm (very deep); on similar landforms
+Dagelet--50 to 100 cm (moderately deep) to a lithic contact; on similar landforms
+Enigma--50 to 100 cm (moderately deep) to a lithic contact; in avalanche chutes of adjacent landforms
+Kadachan--no lithic contact within a depth of more than 150 cm (very deep); in drainageways of similar landforms
+Nunatak--cambic horizon; on similar landforms
+Skarn--100 to 150 cm (deep) to a lithic contact; on similar landforms
+
+DRAINAGE AND SATURATED HYDRAULIC CONDUCTIVITY:
+Drainage class--well drained
+Depth to saturation in normal years--more than 42 cm year round
+Flooding--none
+Ponding--none
+Saturated hydraulic conductivity (Ksat)--very high in A and C horizons
+
+USE AND VEGETATION:
+Use--wildlife habitat, recreation, subsistence
+Potential native vegetation--Sitka alder, bride's feathers, common ladyfern, spreading woodfern, heartleaf twayblade, devilsclub, Sitka spruce, balsam poplar, salmonberry, western hemlock
+
+DISTRIBUTION AND EXTENT: Alexander Archipelago-Gulf of Alaska Coast, Alaska; MLRA 220; moderate extent
+
+SOIL SURVEY REGIONAL OFFICE (SSRO) RESPONSIBLE: Portland, Oregon
+
+SERIES PROPOSED:  Glacier Bay National Park and Preserve-Gustavus Area, Alaska; 2020; name from Polka Peninsula in Glacier Bay National Park and Preserve
+
+REMARKS:
+Diagnostic horizons and other features recognized in this pedon
+*Ochric epipedon
+*Depth to lithologic discontinuity--42 cm
+*Depth to lithic contact--42 cm
+*Particle-size control section--zone from 10 to 42 cm
+
+National Cooperative Soil Survey
+U.S.A.

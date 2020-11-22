@@ -1,0 +1,114 @@
+LOCATION VICKTON                ID
+
+Established Series
+Rev. RG/HBM/RGK
+05/2018
+
+VICKTON SERIES
+
+Landscape--lava fields, plains
+Landform--lava flows, depressions
+Slope--0 to 12 percent
+Parent material--loess or loess-influenced alluvium over basalt
+Mean annual precipitation--about 350 mm
+Mean annual air temperature--about 5 degrees C
+Depth class--deep
+Drainage class--well drained
+Soil moisture regime--xeric
+Soil temperature regime--frigid
+
+TAXONOMIC CLASS:  Fine-loamy, mixed, superactive, frigid Calcic Argixerolls
+
+TYPICAL PEDON:  Vickton loam in an area of rangeland (Colors are for dry soil unless otherwise noted.)
+
+ A--0 to 10 cm; brown (10YR 5/3) loam, very dark grayish brown (10YR 3/2) moist; moderate medium and thick platy structure parting to moderate medium granular; slightly hard, very friable, slightly sticky and slightly plastic; many very fine and fine and few medium roots; many fine tubular pores; neutral (pH 7.2); clear smooth boundary
+
+ Bt--10 to 25 cm; brown (10YR 5/3) loam, dark brown (10YR 3/3) moist; moderate medium prismatic structure parting to moderate medium and coarse subangular blocky; slightly hard, friable, slightly sticky and slightly plastic; many very fine and fine and few medium roots; many fine tubular pores; many thin clay films on ped faces and in pores; slightly alkaline (pH 7.6); clear smooth boundary
+
+ Bk1--25 to 61 cm; pale brown (10YR 6/3) loam, brown (10YR 5/3) moist; moderate fine and medium subangular blocky structure; hard, firm, slightly sticky and slightly plastic; many very fine and few medium roots; many fine tubular pores; 5 percent insect casts weakly cemented with calcium carbonate; violently effervescent (13 percent calcium carbonate equivalent); slightly alkaline (pH 7.8); clear smooth boundary
+
+ Bk2--61 to 99 cm; light gray (10YR 7/2) loam, brown (10YR 5/3) moist; massive; hard, friable, slightly sticky and slightly plastic; common very fine and fine roots; many very fine tubular pores; 5 percent insect casts weakly cemented with calcium carbonate; violently effervescent (21 percent calcium carbonate equivalent); moderately alkaline (pH 8.0); clear smooth boundary
+
+ Bk3--99 to 119 cm; white (10YR 8/1) cobbly fine sandy loam, very pale brown (10YR 7/3) moist; massive; slightly hard, very friable, slightly sticky and slightly plastic; common very fine roots; common fine tubular pores; 5 percent gravel and 15 percent cobbles; calcium carbonate coatings on bottom of rock fragments; violently effervescent (30 percent calcium carbonate equivalent); strongly alkaline (pH 8.6); smooth abrupt boundary
+
+ 2R--119 cm; unweathered vesicular basalt
+
+TYPE LOCATION:  Clark County, Idaho; latitude 44.21320 degrees north, longitude 112.10350 degrees west, datum WGS 84
+
+RANGE IN CHARACTERISTICS:
+Mean annual soil temperature--3.9 to 6.7 degrees C
+Depth to bedrock--100 to 150 cm
+Thickness of mollic epipedon--25 to 50 cm
+Depth to secondary calcium carbonates--25 to 56 cm
+
+Particle-size control section (weighted averages)
+Clay content--23 to 34 percent
+Total rock fragment content--0 to 14 percent
+
+A horizon
+Value--4 or 5 dry, 2 or 3 moist
+Chroma--1 to 3 dry, 2 or 3 moist
+Texture (less than 2-mm fraction)--silt loam, loam
+Clay content--16 to 26 percent
+Gravel content--0 to 14 percent
+Reaction--pH 6.6 to 7.8
+Thickness--8 to 30 cm
+
+Bt horizon
+Value--4 or 5 dry, 2 or 3 moist
+Chroma--2 or 3 dry or moist
+Texture (less than 2-mm fraction)--silt loam, loam, silty clay loam
+Clay content--23 to 35 percent
+Gravel content--0 to 14 percent
+Reaction--pH 7.4 to 7.8
+Thickness--8 to 25 cm
+
+Bk horizon
+Value--6 to 8 dry, 5 to 7 moist
+Chroma--1 to 3 dry or moist
+Texture (less than 2-mm fraction)--silt loam, loam, silty clay loam, fine sandy loam
+Clay content--16 to 30 percent
+Total rock fragment content--0 to 30 percent
+Gravel content--0 to 30 percent
+Cobble content--0 to 30 percent
+Calcium carbonate equivalent--10 to 35 percent
+Reaction--pH 7.4 to 8.4
+
+COMPETING SERIES:
+Bess, Cedarpoint, Chesnimnus, Fewkes, Jestesen, Pegram, Swisbob, Vicking--very deep to lithic contact
+McCarey, Pinehollow, Redpine--moderately deep to paralithic contact
+
+GEOGRAPHIC SETTING:
+Elevation--1430 to 1980 m
+Mean annual precipitation--300 to 525 mm
+Mean annual air temperature--2.8 to 7.2 degrees C
+Frost-free period--70 to 100 days
+
+GEOGRAPHICALLY ASSOCIATED SOILS:  None listed
+
+DRAINAGE AND SATURATED HYDRAULIC CONDUCTIVITY:
+Drainage class--well drained
+Saturated hydraulic conductivity (Ksat)--1 to 50 um/sec
+
+USE AND VEGETATION:
+Major use--rangeland
+Potential natural vegetation--mountain big sagebrush, antelope bitterbrush, bluebunch wheatgrass, Idaho fescue, arrowleaf balsamroot, prairie Junegrass, thickspike wheatgrass, western wheatgrass, Nevada bluegrass, Letterman's needlegrass
+
+DISTRIBUTION AND EXTENT:  Small extent in southeastern Idaho; MLRAs 11 and 13
+
+SOIL SURVEY REGIONAL OFFICE (SSRO) RESPONSIBLE:  Portland, Oregon
+
+SERIES ESTABLISHED:  Butte County, Idaho; 1997
+
+REMARKS:
+Diagnostic horizons and other features recognized in this pedon
+Mollic epipedon--zone from the surface to a depth of 25 cm (A and Bt horizons)
+Argillic horizon--zone from 10 to 25 cm (Bt horizon)
+Calcic horizon--zone from 25 to 119 cm (Bk horizon)
+Depth to lithic contact--119 cm
+Particle-size control section--zone from 10 to 25 cm (Bt horizon)
+
+Taxonomic version--Twelfth Edition, 2014
+
+National Cooperative Soil Survey
+U.S.A.

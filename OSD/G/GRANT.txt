@@ -1,0 +1,156 @@
+LOCATION GRANT                  OK+KS 
+
+Established Series
+Rev. GFS:AMS:JLD
+08/2017
+
+GRANT SERIES
+
+The Grant series consist of deep, well drained, moderately permeable soils. They formed in material weathered predominantly from siltstone or silty shale of Permian age. These nearly level to moderately steep soils are on treads and risers of paleoterraces in the Central Rolling Red Prairies (MLRA 80A). Slope ranges from 0 to 20 percent. Mean annual precipitation is 813 mm (32 in) and mean annual air temperature is 16 degrees C (61 degrees F). 
+
+TAXONOMIC CLASS: Fine-silty, mixed, superactive, thermic Udic Argiustolls 
+
+TYPICAL PEDON: Grant silt loam-cultivated, at an elevation of 397 m (1310 ft).  (Colors are for dry soil unless otherwise stated.) 
+
+    Ap--0 to 18 cm (0 to 7 in); brown (7.5YR 5/2) silt loam, dark brown (7.5YR 3/2) moist; weak fine granular structure; slightly hard, very friable; many fine roots; slightly acid; clear smooth boundary. 
+
+    A--18 to 30 cm (7 to 12 in); brown (7.5YR 4/2) silt loam, dark brown (7.5YR 3/2) moist; moderate fine granular structure; slightly hard, very friable; many fine roots; slightly acid; gradual smooth boundary. (Combined thickness of the A horizon is 10 to 50 cm [4 to 25 inches]) 
+
+    BA--30 to 41 cm (12 to 16 in); reddish brown (5YR 4/3) silt loam, dark reddish brown (5YR 3/3) moist; moderate medium granular structure; slightly hard, friable; many fine roots; neutral; gradual smooth boundary. (Thickness of the BA horizon is 0 to 33 cm [0 to 13 inches]) 
+
+    Bt--41 to 81 cm (16 to 32 in); reddish brown (5YR 5/4) silty clay loam, reddish brown (5YR 4/4) moist; moderate medium subangular blocky structure; hard, friable; common fine roots; common clay films on faces of peds; neutral; gradual smooth boundary. (Thickness of the Bt horizon is 38 to 76 cm [15 to 30 inches]) 
+
+    BC--81 to 119 cm (32 to 47 in); yellowish red (5YR 5/6) silt loam, yellowish red (5YR 4/6) moist; weak medium subangular blocky structure; hard, friable; few fine roots; slightly alkaline; gradual smooth boundary. (Thickness of the BC horizon is 0 to 76 cm [0 to 30 inches]) 
+
+    C--119 to 150 cm (47 to 59 in); yellowish red (5YR 5/6) silt loam, yellowish red (5YR 4/6) moist; massive; hard, friable; few fine roots; common medium fragments of sandstone; calcareous; strongly effervescent; moderately alkaline; clear smooth boundary. (Thickness of the C horizon is 0 to 76 cm (0 to 30 in)) 
+
+    Cr--150 to 183 cm (59 to 72 in); red (2.5YR 5/6) weakly consolidated siltstone, red (2.5YR 4/6) moist; calcareous in seams; strongly effervescent; moderately alkaline. 
+
+TYPE LOCATION: Garfield County, Oklahoma; about 2 miles north and 6 1/2 miles west of Hillsdale, Oklahoma; 500 feet south and 100 feet east of the northwest corner of sec. 6, T. 24 N., R. 8 W. 
+
+USGS Topographic Quadrangle: Jet SE, OK 
+Latitude: 36 degrees, 36 minutes, 31.56 seconds N 
+Longitude: 98 degrees, 06 minutes, 13.68 seconds W 
+
+Decimal Degrees: 
+Latitude: 36.5921 degrees 
+Longitude: -98.1038 degrees 
+Datum: WGS 84 
+
+UTM Easting: 580165.2 m 
+UTM Northing: 4049998 m 
+UTM Zone: 14N
+
+RANGE IN CHARACTERISTICS: 
+Depth to paralithic contact: 102 to 152 cm (40 to 60 in) to siltstone or silty shale 
+Depth to secondary carbonates: 76 to 152 cm (30 to 60 in) 
+
+Particle-size control section:
+Clay content: 18 to 35 percent
+Sand content: 0 to 15 percent
+
+A and Ap horizons: 
+Hue: 5YR to 10YR 
+Value: 2 or 3 moist, 4 or 5 dry 
+Chroma: 2 or 3 moist or dry 
+Texture: very fine sandy loam, silt loam, or loam 
+Effervescence: none to slight
+Reaction: slightly acid to slightly alkaline 
+
+BA horizon:  
+Hue: 2.5YR to 7.5YR 
+Value: 2 or 3 moist, 4 or 5 dry 
+Chroma: 2 to 4 moist or dry 
+Texture: very fine sandy loam, silt loam, or loam 
+Effervescence: none to slight
+Reaction: slightly acid to slightly alkaline 
+
+Bt horizon: 
+Hue: 2.5YR to 7.5YR 
+Value: 4 or 5 moist, 5 or 6 dry 
+Chroma: 2 to 8 moist or dry 
+Texture: very fine sandy loam, silt loam, loam, silty clay loam, or clay loam 
+Clay content: 22 to 28 percent, but ranges from 18 to 35 percent 
+Sand content: less than 15 percent fine sand and coarser sand 
+Effervescence: slight to strong
+Reaction: slightly acid to moderately alkaline 
+
+BC horizon:  
+Hue: 2.5YR or 5YR 
+Value: 4 to 6 moist, 5 to 7 dry 
+Chroma: 4 to 8 moist or dry 
+Texture: silt loam or loam, but includes very fine sandy loam, silty clay loam 
+Effervescence: none to strong
+Reaction: neutral to moderately alkaline 
+
+C horizon:  
+Hue: 2.5YR or 5YR 
+Value: 4 to 7 moist, 5 to 8 dry 
+Chroma of 4 to 8 moist or dry 
+Texture: very fine sandy loam, silt loam, or loam 
+Fragments: amount-0 to 20 percent by volume; size-5 to 30 mm; kind-sandstone 
+Effervescence: slight to strong 
+Reaction: slightly alkaline or moderately alkaline 
+
+Cr horizon 
+Paralithic contact: siltstone or silty shale; the material is dense enough to be root restrictive
+Fractures: are greater than 10 cm (4 in) apart 
+Excavation difficulty: low to moderate 
+Cementation: slakes in water in less than 15 hours 
+Other features: calcareous in some pedons 
+
+COMPETING SERIES: This is the Vanoss series in the same family. 
+Vanoss soils: solum is more than 152 cm (60 in) to bedrock 
+
+GEOGRAPHIC SETTING: 
+Parent Material: weathered from siltstone or silty shale, some areas are covered with a thin mantle of loess 
+Landscape: hills 
+Landform: paleoterraces 
+Hillslope position: summits and backslopes 
+Slope: 0 to 20 percent 
+Mean annual air temperature: 14 to 17 degrees C (57 to 63 degrees F) 
+Thornthwaite annual P-E indices: 44 to 64 
+Mean annual precipitation: 660 to 970 mm (26 to 38 in) 
+Frost-free period: 190 to 220 days 
+Elevation: 213 to 457 m (700 to 1500 ft) 
+
+GEOGRAPHICALLY ASSOCIATED SOILS: These are the Bethany, Lucien), Nash, Nashville , Norge , and Pond Creek series. 
+Bethany soils: have greater than 35 percent clay in the particle-size control section, and are on risers of paleoterraces 
+Lucien soils: are 25 to 50 cm (10 to 20 in) to paralithic contact, and on adjacent low hills 
+Nash and Nashville soils: are 50 to 100 cm (20 to 40 in)to bedrock, and occur on adjacent low hills 
+Norge and Pond Creek soils: are more than 203 cm (80 in) to paralithic contact, and are in lower positions 
+
+DRAINAGE AND PERMEABILITY: 
+Drainage: well  
+Permeability: moderate  
+Saturated hydraulic conductivity: moderately low 
+Runoff: negligible on 0 to 1 percent slopes, low on 1 to 5 percent slopes, and medium on 5 to 20 percent slopes 
+
+USE AND VEGETATION: Used for cropland. Some areas are in native grassland. Cultivated crops are wheat and other small grains. Native vegetation is tall and mid grasses. 
+
+DISTRIBUTION AND EXTENT: 
+General area: Oklahoma and south-central Kansas 
+Land Resource Region: H-Central Great Plains Winter Wheat and Range 
+MLRA 80A-Central Rolling Red Prairies 
+Extent: large 
+
+MLRA SOIL SURVEY REGIONAL OFFICE (MO) RESPONSIBLE: Temple, Texas 
+
+SERIES ESTABLISHED: Grant County, Oklahoma; 1931. 
+
+REMARKS: 
+Major changes in the OSD were made by Walt Schaefer, as a result of the Soil Data Join Recorrelation Initiative (SDJR) in 06/2013. 
+
+Diagnostic horizons and features recognized in this pedon are: 
+Mollic epipedon: 0 to 41 cm (0 to 16 in) (Ap, A, and BA horizons) 
+Argillic horizon: 41 to 81 cm (16 to 32 in) (Bt horizon) 
+Paralithic contact: siltstone at a depth 150 cm (59 in) (Cr horizon) 
+
+Edited 08/2017 (JAD-JLD) Changed to tabular format. Updated pedon description, range in characteristics, and other sections.
+
+ADDITIONAL DATA: Soil Survey Investigations Report No. 11, May 1967. Lab Nos. 5480-5487. 
+
+TAXONOMIC VERSION: Keys to Soil Taxonomy, Twelfth Edition, 2014
+
+National Cooperative Soil Survey
+U.S.A.

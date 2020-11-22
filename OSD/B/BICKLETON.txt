@@ -1,0 +1,119 @@
+LOCATION BICKLETON              WA
+
+Established Series
+Rev. CDL/RJE/KWH
+09/2019
+
+BICKLETON SERIES
+
+Landscape--plateaus, hills
+Landform--structural benches, hillslopes
+Slope--0 to 45 percent
+Parent material--loess and some volcanic ash and basalt
+Mean annual precipitation--about 330 mm
+Mean annual air temperature--about 8 degrees C
+Depth class--deep
+Drainage class--well drained
+Soil moisture regime--xeric
+Soil temperature regime--mesic
+Soil moisture subclass--typic
+
+TAXONOMIC CLASS: Fine-loamy, mixed, superactive, mesic Calcic Haploxerolls
+
+TYPICAL PEDON: Bickleton silt loam, cultivated (All textures are apparent field textures.)
+
+ Ap--0 to 13 cm; silt loam, dark grayish brown (10YR 4/2) dry, very dark brown (10YR 2/2) moist; moderate fine granular structure; slightly hard, friable, slightly sticky and slightly plastic; many very fine roots; many very fine and fine irregular pores; neutral (pH 7.3); abrupt smooth boundary
+
+ A--13 to 25 cm; silt loam, dark grayish brown (10YR 4/2) dry, very dark brown (10YR 2/2) moist; weak angular blocky structure; slightly hard, friable, slightly sticky and slightly plastic; common very fine roots; common very fine irregular pores; neutral (pH 7.2); abrupt smooth boundary
+
+ AB--25 to 48 cm; silt loam, brown (10YR 4/3) dry, dark brown (10YR 3/3) moist; moderate coarse prismatic structure; slightly hard, firm, slightly sticky and slightly plastic; common very fine roots; common very fine irregular pores; slightly alkaline (pH 7.8); abrupt smooth boundary
+
+ BA--48 to 66 cm; silt loam, brown (10YR 5/3) dry, dark brown (10YR 3/3) moist; moderate coarse prismatic structure parting to medium prismatic; slightly hard, firm, slightly sticky and slightly plastic; common very fine roots; common very fine irregular pores; slightly alkaline (pH 7.8); abrupt smooth boundary
+
+ Bw--66 to 89 cm; silt loam, pale brown (10YR 6/3) dry, dark brown (10YR 3/3) moist; massive; slightly hard, friable, slightly sticky and slightly plastic; common very fine roots; common very fine irregular pores; 10 percent gravel; slightly effervescent; moderately alkaline (pH 8.2); abrupt wavy boundary
+
+ 2Bk--89 to 107 cm; extremely gravelly silty clay loam, brown (10YR 5/3) dry, brown (10YR 4/3) moist; massive; hard, friable, moderately sticky and moderately plastic; few roots; few irregular pores; 60 percent gravel and 10 percent cobbles; lime splotches, violently effervescent; moderately alkaline (pH 8.4); abrupt smooth boundary
+
+ 2R--107 cm; basalt
+
+TYPE LOCATION: Yakima County, Washington; about 700 m west and 340 m north of the southeast corner of section 35, T. 7 N., R. 20 E., Willamette Meridian
+
+RANGE IN CHARACTERISTICS:
+Mean annual soil temperature--8 to 10 degrees C
+Soil moisture--usually moist, but dry in all parts 75 to 90 days between depths of 10 and 30 cm following summer solstice
+Thickness of solum--65 to 95 cm
+Depth to bedrock--100 to 150 cm
+Depth to 2Bk horizon--65 to 100 cm
+Particle-size control section--averages more than 15 percent particles coarser than very fine sand and less than 30 percent rock fragments
+Content of clay--18 to 25 percent
+Thickness of mollic epipedon--25 to 40 cm
+
+Ap and A horizons
+Value--4 or 5 dry, 2 or 3 moist
+Chroma--2 or 3 moist or dry
+Reaction--6.6 to 7.8
+Combined thickness of Ap and A horizons--25 to 40 cm
+
+AB and BA horizons
+Value--4 or 5 dry, 3 moist
+Chroma--2 or 3 moist or dry
+Texture--silt loam
+Reaction--6.6 to 7.8
+Thickness of AB horizon--23 to 33 cm
+Thickness of BA horizon--0 to 20 cm
+
+Bw horizon
+Value--5 or 6 dry, 4 or 5 moist
+Texture--silt loam, silty clay loam
+Reaction--6.6 to 8.4
+Thickness--0 to 25 cm
+
+2Bk horizon
+Value--6 or 7 dry, 4 or 5 moist
+Chroma--2 to 4 moist or dry
+Texture--extremely gravelly silty clay loam, very gravelly silty clay loam
+Reaction--7.9 to 9.0
+Thickness--18 to 50 cm
+
+COMPETING SERIES:
+Almota, Nims--50 to 100 cm (moderately deep) to a lithic contact (basalt)
+Highcreek--stratified; no lithic contact within more than 150 cm
+Lebec--calcareous throughout; 50 to 100 cm (moderately deep) to a lithic contact (limestone)
+
+GEOGRAPHIC SETTING:
+Elevation--730 to 1075 m
+Mean annual precipitation--280 to 410 mm
+Mean annual air temperature--8 to 9 degrees C
+Frost-free season--120 to 160 days
+
+GEOGRAPHICALLY ASSOCIATED SOILS:
+Onyx--on bottomland; mollic epipedon more than 50 cm thick
+Rock Creek--on ridgetops and plateaus; 20 to 50 cm (very shallow and shallow) to a lithic contact (basalt)
+Renslow--on plateaus; usually dry; less than 18 percent clay in particle-size control section; argillic horizon
+
+DRAINAGE AND SATURATED HYDRAULIC CONDUCTIVITY:
+Drainage class--well drained
+Saturated hydraulic conductivity (Ksat)--moderately high
+
+USE AND VEGETATION:
+Use--mainly nonirrigated crop production and domestic livestock grazing
+Common crops--winter wheat and barley in summer fallow system
+Native vegetation--mainly Idaho fescue, bluebunch wheatgrass, and antelope bitterbrush
+
+DISTRIBUTION AND EXTENT: South-central Washington; MLRA 8; moderate extent
+
+SOIL SURVEY REGIONAL OFFICE (SSRO) RESPONSIBLE: Portland, Oregon
+
+SERIES ESTABLISHED: Yakima County, Washington; 1947
+
+REMARKS:
+Diagnostic horizons and other features recognized in this pedon
+*Mollic epipedon--zone from the surface to a depth of 48 cm
+*Cambic horizon--zone from 36 to 89 cm
+*Carbonate accumulation--zone from 89 to 107 cm
+*Particle-size control section--zone from 25 to 100 cm
+
+Further study of the zone from 48 to 66 cm is needed to determine whether it is part of the mollic epipedon.
+
+National Cooperative Soil Survey
+U.S.A.

@@ -1,0 +1,107 @@
+LOCATION RAFTRIVER              UT+ID
+
+Established Series
+REV:  VLP/JCL/RLT
+02/2009
+
+RAFTRIVER SERIES
+
+The Raftriver series consists of moderately deep, well drained soils formed in alluvium and colluvium from schist, quartzite, and volcanic ash on dissected fan terraces. Slopes are 2 to 20 percent. The average annual precipitation is about 355 mm and the mean annual temperature is about 6 degrees C.
+
+TAXONOMIC CLASS: Coarse-loamy, mixed, superactive, frigid Xereptic Haplodurids
+
+TYPICAL PEDON: Raftriver loam--rangeland. (Colors are for air-dry soil unless otherwise stated.)
+
+    A--0 to 8 cm; pale brown (10YR 6/3) loam, dark brown (10YR 3/3) moist; weak thin platy structure parting to weak very fine granular; slightly hard, friable, slightly sticky and slightly plastic; many very fine and fine roots; many very fine and few fine vesicular pores; 5 percent pebbles; slightly alkaline (pH 7.6); clear smooth boundary. (3 to 5 inches thick)
+
+    Bw--8 to 30 cm; pale brown (10YR 6/3) loam, dark brown (10YR 3/3) moist; weak medium subangular blocky structure parting to weak fine granular; slightly hard, friable, slightly sticky and slightly plastic; many very fine and fine roots; few very fine interstitial and few very fine tubular pores; 5 percent pebbles; moderately alkaline (pH 8.0); gradual wavy boundary. (0 to 25 cm thick)
+
+    Bqk--30 to 61 cm; very pale brown (10YR 7/3) sandy loam, yellowish brown (10YR 5/4) moist; moderate thick platy structure parting to moderate fine angular blocky; very hard, very firm; few very fine and fine tubular pores; weakly cemented; moderately calcareous (11 percent calcium carbonate), carbonates are disseminated and in soft powdery masses; moderately alkaline (pH 8.3); abrupt smooth boundary. (25 to 61 cm thick)
+
+    Bqkm--61 to 81 cm; very pale brown (10YR 7/3) weakly cemented duripan, yellowish brown (10YR 5/4) moist; massive; extremely hard, very firm; thin laminar cap; strongly calcareous (18 percent calcium carbonate), carbonates are disseminated and in visible masses; strongly alkaline (pH 8.6); gradual smooth boundary. (12 to 41 cm thick)
+
+    B'qk--81 to 152 cm; very pale brown (10YR 7/3) sandy loam, yellowish brown (10YR 5/4) moist; massive; hard, firm and brittle; 5 percent durinodes; moderately calcareous (8 percent calcium carbonate), carbonates are disseminated; strongly alkaline (pH 8.6).
+
+TYPE LOCATION: Box Elder County, Utah; about 7 miles north of Lynn; 1,600 feet north and 2,400 feet east of the southwest corner of sec. 36, T. 15 N., R. 17 W.; latitude 41 degrees 58 minutes 42.6 seconds N and longitude 113 degrees 44 minutes 45.9 seconds W; NAD 83.
+
+RANGE IN CHARACTERISTICS: 
+Soil moisture: Usually dry, but is moist in some part 25 to 35 percent of the time the soil temperature is above 41 degrees F. It is dry in all parts for 45 to 60 consecutive days following the summer solstice. Aridic bordering xeric soil moisture regime.
+Soil temperature: 6.5 to 8.0 degrees C. 
+Depth to the duripan: 50 to 100 cm.
+
+Control section -
+Clay content: 10 to 18 percent.
+Rock fragments: Averages 0 to 15 percent, mainly pebbles.
+
+A horizon -
+Value: 4 to 6 dry, 3 or 4 moist.
+Chroma: 2 to 4.
+Calcium carbonate equivalent: 1 to 15 percent.
+Reaction: Slightly alkaline or moderately alkaline.
+
+Bw horizon -
+Value: 5 or 6 dry, 3 to 5 moist.
+Chroma: 3 or 4.
+Texture: Loam or sandy loam. 
+Sodicity: SAR 0 to 10.
+Salinity: EC 0 to 2 mmho/cm.
+Calcium carbonate equivalent: 1 to 15 percent.
+Reaction: Moderately alkaline or strongly alkaline.
+
+Bqk horizon -
+Hue: 7.5YR to 2.5Y.
+Value: 6 to 8 dry, 4 to 7 moist.
+Chroma: 2 to 4.
+Texture: Loam or sandy loam.
+Cementation: Parts of the Bqk horizon are weakly cemented by silica and carbonates.
+Sodicity: SAR 10 to 25.
+Salinity: EC 8 to 16 mmho/cm.
+Calcium carbonate equivalent: 10 to 30 percent.
+Reaction: Moderately alkaline or strongly alkaline.
+
+Bqkm horizon -
+Hue: 7.5YR to 2.5Y.
+Value: 7 or 8 dry and 5 to 7 moist.
+Chroma: 2 to 4.
+Cementation: Weakly cemented to strongly cemented; commonly has a thin laminar cap.
+Structure: Massive or platy.
+Reaction: Moderately alkaline to very strongly alkaline.
+
+B'qk horizon -
+Texture: Sandy loam.
+Clay content: 6 to 18 percent.
+Rock fragments: 0 to 15 percent, mainly pebbles.
+Sodicity: SAR 10 to 35.
+Salinity: EC 8 to 16 mmho/cm.
+Calcium carbonate equivalent: 5 to 30 percent.
+Reaction: Slightly alkaline to strongly alkaline.
+
+COMPETING SERIES: This is the Dahar series. Dahar soils have 15 to 35 percent rock fragments in the particle-size control section.
+ 
+GEOGRAPHIC SETTING: Raftriver soils are on dissected fan terraces at elevations of 1,640 to 1,890 meters. Slopes are 2 to 20 percent. These soils formed in alluvium and colluvium from schist, quartzite, and volcanic ash. The average annual precipitation is 300 to 410 mm. The mean annual temperature is 5.5 to 7.0 degrees C., and the freeze-free period is 80 to 100 days.
+
+GEOGRAPHICALLY ASSOCIATED SOILS: These are the Acord, Rodrof, and Solak soils. The Acord soils are higher on fan terraces and hillsides, are loamy-skeletal, and have an argillic horizon. The Rodrof soils are on hillsides and are loamy-skeletal. The Solak soils are on hillsides and are shallow to bedrock.
+
+DRAINAGE AND SATURATED HYDRAULIC CONDUCTIVITY: Well drained; medium runoff; moderately high saturated hydraulic conductivity class; moderate permeability.
+
+USE AND VEGETATION: These soils are mainly used for rangeland. The potential vegetation is Wyoming big sagebrush, bluebunch wheatgrass, western wheatgrass, and Nevada bluegrass. Many areas have been seeded to crested wheatgrass. A few areas are used for irrigated cropland.
+
+DISTRIBUTION AND EXTENT: Raftriver soils are in northwest Utah and southern Idaho, and are of moderate extent, with 17,454 acres mapped to date. MLRA 25.
+
+MLRA SOIL SURVEY REGIONAL OFFICE (MO) RESPONSIBLE: Phoenix, Arizona
+
+SERIES ESTABLISHED: Box Elder County, Utah (Box Elder County - Western Part Soil Survey) 1985.
+
+REMARKS: 
+
+Diagnostic horizons and features recognized in this pedon are:
+
+Ochric epipedon - the zone from the surface of the soil to approximately 30 cm (A and Bw horizons).
+Cambic horizon - the zone from 8 to 30 cm (Bw horizon).
+Calcic horizon - the zone from 30 to 61 cm (Bqk horizon).
+Duripan - the zone from 61 to 81 cm (Bqkm horizon).
+Xereptic feature - the duripan is not indurated in any subhorizon and the moisture regime is aridic but borders on xeric.
+Particle-size control section - the zone from 25 to 61 cm (Part of the Bw and Bqk horizons).
+
+National Cooperative Soil Survey
+U.S.A.

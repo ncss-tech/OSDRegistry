@@ -1,0 +1,135 @@
+LOCATION TRUBLE                 ID
+
+Established Series
+Rev. KA/RGK/CBR
+05/2018
+
+TRUBLE SERIES
+
+Landscape--hills
+Landform--fan remnants
+Slope--1 to 8 percent
+Parent material--loess-influenced alluvium over rhyolite
+Mean annual precipitation--about 300 mm
+Mean annual air temperature--about 4.4 degrees C
+Depth class--moderately deep
+Drainage class--well drained
+Soil moisture regime--xeric
+Soil temperature regime--frigid
+
+TAXONOMIC CLASS: Loamy-skeletal over fragmental, mixed, superactive, frigid Calcic Argixerolls
+
+TYPICAL PEDON:  Truble channery silt loam in an area of rangeland (Colors are for dry soil unless otherwise noted.)
+
+ A--0 to 8 cm; dark grayish brown (10YR 4/2) channery silt loam, very dark brown (10YR 2/2) moist; moderate medium and coarse granular structure; soft, very friable, slightly sticky and slightly plastic; many very fine and common fine and medium roots; common very fine tubular pores; 20 percent channers; slightly alkaline (pH 7.4); clear wavy boundary
+
+ Bt--8 to 18 cm; brown (10YR 4/3) loam, very dark grayish brown (10YR 3/2) moist; moderate medium and fine subangular blocky structure; slightly hard, friable, slightly sticky and moderately plastic; many very fine and common fine, medium, and coarse roots; common very fine tubular pores; few thin clay films on ped faces; 10 percent channers; neutral (pH 7.2); clear wavy boundary
+
+ Btk--18 to 23 cm; brown (10YR 5/3) channery loam, dark brown (10YR 3/3) moist; moderate medium subangular blocky structure; slightly hard, friable, slightly sticky and moderately plastic; common fine and very fine roots; common fine and very fine tubular pores; common thin clay films on ped faces and in pores; 25 percent channers; strongly effervescent (5 percent calcium carbonate equivalent); slightly alkaline (pH 7.8); abrupt wavy boundary
+
+ Bk1--23 to 53 cm; light gray (10YR 7/2) very channery loam, light yellowish brown (10YR 6/4) moist; moderate medium subangular blocky structure; soft, friable, slightly sticky and slightly plastic; few very fine roots; few very fine tubular pores; 45 percent channers and 5 percent flagstones; calcium carbonate coatings on bottom of rock fragments; violently effervescent (35 percent calcium carbonate); moderately alkaline (pH 8.2); abrupt wavy boundary
+
+ 2Bk2--53 to 71 cm; light gray (10YR 7/2) extremely flaggy sandy loam, light yellowish brown (10YR 6/4) moist; weak medium subangular blocky structure; soft, very friable, nonsticky and nonplastic; few very fine roots; common medium interstices larger than 1 mm partially filled with fines; 10 percent channers and 70 percent flagstones; calcium carbonate coatings on bottom of rock fragments; violently effervescent (25 percent calcium carbonate); moderately alkaline (pH 8.2); abrupt wavy boundary
+
+ 2Bk3--71 to 91 cm; flagstones; few very fine roots; many coarse interstices larger than 1 mm not filled with fines; 15 percent channers and 80 percent flagstones; calcium carbonate coatings on bottom of rock fragments; violently effervescent (20 percent calcium carbonate); strongly alkaline (pH 8.6); abrupt wavy boundary
+
+ 3R--91 cm; rhyolite; calcium carbonate coatings
+
+TYPE LOCATION:  Clark County, Idaho; latitude 44.24746 degrees north, longitude 112.49059 degrees west, datum WGS 84
+
+RANGE IN CHARACTERISTICS:
+Mean annual soil temperature--3.3 to 7.2 degrees C
+Depth to bedrock--50 to 100 cm
+Thickness of mollic epipedon--20 to 25 cm
+Depth to argillic horizon--5 to 10 cm
+Depth to secondary calcium carbonates--15 to 30 cm
+Depth to lithologic discontinuity--50 to 85 cm
+
+Particle-size control section (weighted averages)
+Upper part (includes argillic horizon)--5 to 27 percent clay; 35 to 85 percent total rock fragments
+Lower part--90 to 100 percent total rock fragments
+
+A horizon
+Value--3 to 5 dry, 2 or 3 moist
+Chroma--2 or 3 dry or moist
+Clay content--5 to 10 percent
+Channer content--15 to 30 percent
+Reaction--pH 6.8 to 7.6
+Thickness--5 to 10 cm
+
+Bt horizon, and Btk horizon (where present)
+Value--4 or 5 dry, 2 or 3 moist
+Chroma--2 or 3 dry or moist
+Texture (less than 2-mm fraction)--loam, silt loam
+Clay content--21 to 27 percent
+Channer content--10 to 30 percent
+Reaction--pH 6.8 to 7.9
+Thickness--10 to 20 cm
+
+Bk1 horizon
+Value--6 or 7 dry, 5 or 6 moist
+Chroma--2 to 4 dry or moist
+Texture (less than 2-mm fraction)--loam, sandy loam
+Clay content--7 to 15 percent
+Total rock fragment content--40 to 60 percent
+Channer content--35 to 55 percent
+Flagstone content--5 to 10 percent
+Calcium carbonate equivalent--20 to 35 percent
+Reaction--pH 7.9 to 8.4
+Thickness--20 to 30 cm
+
+2Bk2 horizon
+Value--6 to 8 dry or moist
+Chroma--2 to 4 dry or moist
+Texture (less than 2-mm fraction)--loam, sandy loam
+Clay content--5 to 10 percent
+Total rock fragment content--65 to 85 percent
+Channer content--5 to 10 percent
+Flagstone content--60 to 80 percent
+Calcium carbonate equivalent--20 to 35 percent
+Reaction--pH 7.9 to 8.4
+Thickness--15 to 25 cm
+
+2Bk3 horizon
+Value--6 to 8 dry or moist
+Chroma--2 to 4 dry or moist
+Total rock fragment content--90 to 100 percent
+Channer content--15 to 20 percent
+Flagstone content--75 to 85 percent
+
+COMPETING SERIES: None
+
+GEOGRAPHIC SETTING:
+Elevation--1700 to 2100 m
+Mean annual precipitation--225 to 575 mm
+Mean annual air temperature--2.2 to 6.1 degrees C
+Frost-free period--65 to 85 days
+
+GEOGRAPHICALLY ASSOCIATED SOILS:  None listed
+
+DRAINAGE AND SATURATED HYDRAULIC CONDUCTIVITY:
+Drainage class--well drained
+Saturated hydraulic conductivity (Ksat)--5 to 100 um/sec in upper part, 600 to 700 um/sec in lower fragmental part
+
+USE AND VEGETATION:
+Major uses--rangeland, wildlife habitat
+Potential natural vegetation--low sagebrush, bluebunch wheatgrass, Idaho fescue, Sandberg bluegrass, prairie Junegrass, phlox
+
+DISTRIBUTION AND EXTENT:  Small extent in southeastern Idaho; MLRA 12
+
+SOIL SURVEY REGIONAL OFFICE (SSRO) RESPONSIBLE:  Portland, Oregon
+
+SERIES ESTABLISHED:  Clark County, Idaho; 2018
+
+REMARKS:
+Diagnostic horizons and other features recognized in this pedon
+Mollic epipedon--zone from the surface to a depth of 25 cm (A, Bt, and Btk horizons)
+Argillic horizon--zone from 8 to 25 cm (Bt and Btk horizons)
+Calcic horizon--zone from 23 to 91 cm (Bk1, 2Bk2, and 2Bk3 horizons)
+Depth to lithic contact--91 cm
+Particle-size control section--zone from 8 to 91 cm (Bt, Btk, and Bk horizons)
+
+Taxonomic version--Twelfth Edition, 2014
+
+National Cooperative Soil Survey
+U.S.A.

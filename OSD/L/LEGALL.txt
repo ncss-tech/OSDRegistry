@@ -1,0 +1,106 @@
+LOCATION LEGALL                 WA
+
+Established Series
+Rev. EH/RJE/RWL
+09/2019
+
+LEGALL SERIES
+
+Landscape--canyonlands, hills
+Landform--canyon slopes with a south aspect, hillslopes
+Slope--5 to 75 percent
+Parent material--colluvium derived from basalt mixed with loess
+Mean annual precipitation--about 580 mm
+Mean annual air temperature--about 11 degrees C
+Depth class--very deep
+Drainage class--well drained
+Soil moisture regime--xeric
+Soil temperature regime--mesic
+Soil moisture subclass--typic
+
+TAXONOMIC CLASS: Loamy-skeletal, mixed, superactive, mesic Ultic Argixerolls
+
+TYPICAL PEDON: Legall cobbly loam, forested, on a 25-percent, southwest-facing side slope at an elevation of 240 m
+
+ A1--0 to 20 cm; cobbly loam, brown (7.5YR 5/3) dry, dark brown (7.5YR 3/2) moist; moderate fine subangular blocky structure; soft, friable, nonsticky and nonplastic; common very fine and fine roots; many fine irregular pores; 15 percent gravel and 15 percent cobbles; moderately acid (pH 5.8); clear wavy boundary
+
+ A2--20 to 46 cm; very cobbly loam, brown (7.5YR 5/3) dry, dark brown (7.5YR 3/2) moist; moderate fine subangular blocky structure; slightly hard, friable, slightly sticky and slightly plastic; many very fine and fine and common medium and coarse roots; common fine tubular pores; 15 percent gravel and 25 percent cobbles; moderately acid (pH 6.0); gradual irregular boundary
+
+ Bt1--46 to 102 cm; very cobbly clay loam, brown (7.5YR 5/4) dry, dark brown (7.5YR 3/4) moist; moderate medium subangular blocky structure; hard, firm, slightly sticky and moderately plastic; common fine and medium roots; common fine tubular pores; common distinct clay films on faces of peds; 20 percent gravel and 30 percent cobbles; slightly acid (pH 6.2); gradual wavy boundary
+
+ Bt2--102 to 150 cm; very cobbly clay loam, light brown (7.5YR 6/4) dry, brown (7.5YR 4/4) moist; moderate medium subangular blocky structure; slightly hard, firm, moderately sticky and moderately plastic; few fine and medium roots; few fine tubular pores; common distinct clay films on faces of peds; 15 percent gravel and 40 percent cobbles; slightly acid (pH 6.4)
+
+TYPE LOCATION: Klickitat County, Washington, about 6.5 km north of Wahkiacus; about 30 m north and 490 m east of the southwest corner of section 30, T. 5 N., R. 14 E.; latitude 45 degrees, 53 minutes, 6 seconds north and longitude 121 degrees, 53 minutes, and 24 seconds west
+
+RANGE IN CHARACTERISTICS:
+Moisture control section--usually moist, but dry 75 to 90 consecutive days following summer solstice
+Mean annual soil temperature--10 to 12 degrees C
+Particle-size control section--35 to 65 percent rock fragments (weighted average)
+Thickness of mollic epipedon--40 to 50 cm
+Particle-size control section--18 to 35 percent clay
+
+A horizon
+Hue--7.5YR, 10YR
+Value--4 or 5 dry, 2 or 3 moist
+Chroma--2 or 3 dry or moist
+Reaction--5.6 to 6.5
+Combined thickness--33 to 48 cm
+
+Bt horizon
+Hue--7.5YR, 10YR
+Value--5 or 6 dry, 3 or 4 moist
+Texture--very cobbly loam, very cobbly clay loam
+Reaction--5.6 to 6.5
+Combined thickness--greater than 102 cm
+
+COMPETING SERIES:
+Balake--dry 60 to 75 consecutive days following summer solstice; mollic epipedon 25 to 38 cm thick; 35 to 55 percent conglomerate fragments in particle-size control section
+Beezee--dry 60 to 75 consecutive days following summer solstice; 20 to 40 percent parafragments in particle-size control section
+Bluesprin--50 to 100 cm (moderately deep) to a lithic contact (basalt)
+Fordice--mean annual soil temperature of 11 to 14 degrees C; 20 to 50 percent subrounded and rounded gravel and 20 to 40 percent rounded and subrounded cobbles of mixed alluvial origin in particle-size control section
+Hunsinger--100 to 150 cm (deep) to a paralithic contact (basalt); dry more than 90 consecutive days following summer solstice
+Jebe--dry 45 to 60 consecutive days following summer solstice; mollic epipedon 25 to 41 cm thick
+Jellico--50 to 100 cm (moderately deep) to a lithic contact (basalt); dry 110 to 130 consecutive days following summer solstice
+Keuterville--dry 45 to 60 consecutive days following summer solstice
+Nashmead--100 to 150 cm (deep) to a lithic contact (sandstone); dry more than 90 consecutive days following summer solstice; mean annual soil temperature of 12 to 15 degrees C
+Riverpoint--mollic epipedon 25 to 38 cm thick; mean annual soil temperature of 8 to 10 degrees C; 64 to 102 cm deep to base of argillic horizon
+Sauter--dry 60 to 75 consecutive days following summer solstice; mean annual soil temperature of 8 to 10 degrees C
+Shanks--50 to 100 cm (moderately deep) to a lithic contact (granodiorite); mollic epipedon 18 to 36 cm thick
+Sienna--50 to 100 cm (moderately deep) to a lithic contact (basalt); 35 to 60 percent rounded quartzitic rock fragments (Ellensburg Formation) in particle-size control section
+
+GEOGRAPHIC SETTING:
+Elevation--60 to 1075 m
+Climate--warm, dry summers; cool, moist winters
+Mean annual precipitation--460 to 640 mm
+Mean January air temperature--about -1 degrees C
+Mean July air temperature--about 20 degrees C
+Mean annual air temperature--9 to 11 degrees C
+Frost-free season--110 to 150 days
+
+GEOGRAPHICALLY ASSOCIATED SOILS:
+Dillcourt, Oreoke--Pachic subgroup; on canyon side slopes
+Gunn--no mollic epipedon; on hillslopes and plateaus
+Leidl--50 to 100 cm (moderately deep) to a lithic contact (basalt); ash influence in upper part; on canyon side slopes
+
+DRAINAGE AND SATURATED HYDRAULIC CONDUCTIVITY:
+Drainage class--well drained
+Saturated hydraulic conductivity (Ksat)--moderately high
+
+USE AND VEGETATION:
+Use--mainly livestock grazing, wildlife habitat, and recreation
+Native vegetation--ponderosa pine, Oregon white oak, scattered Douglas-fir, deerbrush ceanothus, western hazel, common snowberry, rose, elk sedge
+
+DISTRIBUTION AND EXTENT: Klickitat County, Washington; MLRA 6; small extent
+
+SOIL SURVEY REGIONAL OFFICE (SSRO) RESPONSIBLE: Portland, Oregon
+
+SERIES ESTABLISHED: Klickitat County, Washington; 2003
+
+REMARKS:
+Diagnostic horizons and other features recognized in this pedon
+*Mollic epipedon--zone from the surface to a depth of 46 cm
+*Argillic horizon--zone from 46 to 150 cm
+*Particle-size control section--zone from 46 to 97 cm
+
+National Cooperative Soil Survey
+U.S.A.

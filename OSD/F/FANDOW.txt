@@ -1,0 +1,133 @@
+LOCATION FANDOW                 ID
+
+Established Series
+Rev. GPB/RGK/CBR
+05/2018
+
+FANDOW SERIES
+
+Landscape--plains, valleys, alluvial plains
+Landform--fan remnants
+Slope--2 to 20 percent
+Parent material--alluvium derived from limestone
+Mean annual precipitation--about 250 mm
+Mean annual air temperature--about 3 degrees C
+Depth class--shallow to a duripan
+Drainage class--well drained
+Soil moisture regime--aridic
+Soil temperature regime--cryic
+
+TAXONOMIC CLASS: Loamy-skeletal, carbonatic, shallow Xereptic Petrocryids
+
+TYPICAL PEDON: Fandow gravelly loam in an area of rangeland (Colors are for dry soil unless otherwise stated.)
+
+ A--0 to 8 cm; pale brown (10YR 6/3) gravelly loam, brown (10YR 4/3) moist; weak fine granular structure; soft, very friable, nonsticky and nonplastic; many very fine and fine and few medium and coarse roots; many very fine and fine irregular pores; 20 percent gravel; strongly effervescent (25 percent calcium carbonate equivalent); slightly alkaline (pH 7.8); abrupt smooth boundary
+
+ Bk--8 to 23 cm; light yellowish brown (10YR 6/4) very gravelly silt loam, brown (10YR 5/3) moist; weak medium and fine subangular blocky structure parting to weak fine subangular blocky; slightly hard, friable; nonsticky and nonplastic; many very fine and fine and few medium and coarse roots; many very fine and fine irregular pores; 40 percent gravel; calcium carbonate coatings on bottom of rock fragments; violently effervescent (40 percent calcium carbonate equivalent); moderately alkaline (pH 8.0); clear wavy boundary
+
+ Bkq--23 to 30 cm; pale brown (10YR 6/3) very gravelly loam, brown (10YR 5/3) moist; weak fine subangular blocky structure; slightly hard, friable, nonsticky and nonplastic; common very fine and few fine and medium roots; many very fine and fine irregular pores; 50 percent gravel; calcium carbonate and silica coatings on bottom of rock fragments; violently effervescent (60 percent calcium carbonate equivalent); strongly alkaline (pH 8.5); abrupt wavy boundary
+
+ 2Bknqm--30 to 36 cm; very pale brown (10YR 7/3) weakly cemented duripan and extremely gravelly coarse sandy loam, gray (10YR 6/1) moist; massive; 70 percent very hard and 30 percent hard, 70 percent very firm and 30 percent firm, nonsticky and nonplastic; few very fine dead roots; common fine and medium irregular pores; continuous laminar cap less than 1 mm thick at a depth of 30 cm; 70 percent gravel; calcium carbonate and silica coatings on bottom of rock fragments; violently effervescent (80 percent calcium carbonate equivalent); strongly alkaline (pH 9.0); clear wavy boundary
+
+ 2Bknq1--36 to 66 cm; very pale brown (10YR 7/3) extremely gravelly loamy coarse sand, gray (10YR 6/1) moist; massive; hard, firm, nonsticky and nonplastic; few very fine dead roots; many very fine and few fine and medium irregular pores; 70 percent gravel; calcium carbonate coatings, silica coatings, and pendular silica nodules 2 to 4 mm thick on bottom of rock fragments; violently effervescent (75 percent calcium carbonate equivalent); very strongly alkaline (pH 9.3); clear wavy boundary
+
+ 2Bknq2--66 to 150 cm; very pale brown (10YR 7/3) extremely gravelly loamy coarse sand, gray (10YR 6/1) moist; single grain; loose; few very fine dead roots; common fine and medium irregular pores; 70 percent gravel and 10 percent cobbles; calcium carbonate coatings, silica coatings, and pendular silica nodules 1 to 4 mm thick on bottom of rock fragments; violently effervescent (75 percent calcium carbonate equivalent); very strongly alkaline (pH 9.3)
+
+TYPE LOCATION: Lemhi County, Idaho; latitude 44.27361 degrees north, longitude 113.01333 degrees west, datum WGS 84
+
+RANGE IN CHARACTERISTICS:
+Mean annual soil temperature--2.8 to 4.4 degrees C
+Depth to weakly cemented duripan--25 to 41 cm
+Depth to calcic horizon--8 to 18 cm
+
+Particle-size control section (weighted averages)
+Clay content--12 to 20 percent
+Carbonate-free clay content--5 to 10 percent
+Total rock fragment content--35 to 85 percent
+Calcium carbonate equivalent--40 to 80 percent
+
+A or Ak horizon
+Value--5 or 6 dry, 3 or 4 moist
+Chroma--2 or 3 dry or moist
+Clay content--12 to 20 percent
+Total rock fragment content--15 to 35 percent
+Gravel content--15 to 35 percent
+Cobble content--0 to 10 percent
+Reaction--pH 7.4 to 8.4
+Calcium carbonate equivalent--10 to 40 percent
+Thickness--5 to 15 cm
+
+Bk and Bkq horizons
+Value--6 or 7 dry, 3 to 5 moist
+Chroma--3 or 4 dry or moist
+Texture (less than 2-mm fraction)--loam, sandy loam, silt loam
+Clay content--12 to 20 percent
+Total rock fragment content--35 to 55 percent
+Gravel content--23 to 55 percent
+Cobble content--0 to 10 percent
+Reaction--pH 7.9 to 8.6
+Calcium carbonate equivalent--15 to 70 percent
+Sodium adsorption ration--0 to 10
+Thickness--13 to 38 cm
+
+2Bknqm horizon
+Value--6 or 7 dry or moist
+Chroma--1 to 3 dry or moist
+Texture (less than 2-mm fraction)--coarse sandy loam, loamy coarse sand, coarse sand
+Clay content--5 to 10 percent
+Gravel content--60 to 80 percent
+Reaction--pH 8.8 to 9.6
+Calcium carbonate equivalent--40 to 80 percent
+Sodium adsorption ratio--13 to 20
+Thickness--3 to 23 cm
+
+2Bknq horizon
+Value--5 to 8 dry, 5 to 7 moist
+Chroma--1 to 4 dry or moist
+Texture (less than 2-mm fraction)--loamy coarse sand, coarse sand, loamy sand
+Clay content--5 to 8 percent
+Total rock fragment content--60 to 85 percent
+Gravel content--30 to 80 percent
+Cobble content--0 to 25 percent 
+Reaction--pH 8.8 to 9.6
+Calcium carbonate equivalent--40 to 80 percent
+Sodium adsorption ration--13 to 30
+
+COMPETING SERIES: None
+
+GEOGRAPHIC SETTING: 
+Elevation--1820 to 2170 m
+Mean annual precipitation--200 to 300 mm
+Mean annual air temperature--1.7 to 3.3 degrees C
+Frost-free period--30 to 60 days
+
+GEOGRAPHICALLY ASSOCIATED SOILS: None listed
+
+SATURATED HYDRAULIC CONDUCTIVITY:
+Drainage class--well drained
+Saturated hydraulic conductivity (Ksat)--5 to 25 um/sec above the duripan, 0.01 to 1.00 um/sec in the duripan
+
+USE AND VEGETATION:
+Major use--rangeland
+Potential natural vegetation--low sagebrush, black sagebrush, bluebunch wheatgrass
+
+DISTRIBUTION AND EXTENT: Moderate extent in southeastern Idaho; MLRA 12
+
+SOIL SURVEY REGIONAL OFFICE (SSRO) RESPONSIBLE: Portland, Oregon
+
+SERIES ESTABLISHED: Lemhi County, Idaho; 1999
+
+REMARKS: 
+Diagnostic horizons and other features recognized in this pedon
+Ochric epipedon
+Duripan--zone from 30 to 36 cm (2Bknqm horizon)
+Calcic horizon--zone from 8 to 150 cm (Bk, Bkq, 2Bknqm, 2Bknq1, and 2Bknq2 horizons)
+Particle-size control section--zone from the surface to a depth of 30 cm (A, Bk, and Bkq horizons)
+
+Taxonomic version--Twelfth Edition, 2014
+
+ADDITIONAL DATA: 
+Characterization data--pedon number 82P0688; Kellogg Soil Survey Laboratory, Lincoln, NE
+
+National Cooperative Soil Survey
+U.S.A.

@@ -1,0 +1,154 @@
+LOCATION HABENOME               OR
+
+Established Series
+IRD. RAW/RJO/DAL/KMS
+01/2019
+
+HABENOME SERIES
+
+Landscape--mountains
+Landform--basins and benches on glaciated mountain slopes
+Slope--0 to 30 percent
+Parent material--alluvium, lacustrine deposits, and till derived from granite
+Mean annual precipitation--about 990 mm
+Mean annual air temperature--about 3 degrees C
+Depth class--very deep
+Drainage class--poorly drained
+Soil moisture regime--aquic
+Soil temperature regime--cryic
+Soil moisture subclass--typic
+
+TAXONOMIC CLASS: Coarse-loamy, mixed, superactive Typic Cryaquolls
+
+TYPICAL PEDON: Habenome silt loam in a wet meadow, on a 7-percent, northeast-facing slope at an elevation of 2301 m
+
+ A--0 to 28 cm; silt loam, brown (10YR 5/3) dry, dark brown (7.5YR 3/3) moist; weak fine and medium subangular blocky structure; slightly hard, friable, slightly sticky and slightly plastic; common fine and few medium roots; few fine tubular pores; strongly acid (pH 5.5); clear smooth boundary
+
+ AC--28 to 36 cm; sandy loam, yellowish brown (10YR 5/4) dry, very dark grayish brown (10YR 3/2) moist; many coarse prominent strong brown (7.5YR 5/6) redoximorphic concentrations; single grain; slightly hard, very friable, slightly sticky and slightly plastic; few fine and medium roots; few very fine irregular pores; moderately acid (pH 5.7); clear smooth boundary
+
+ C--36 to 43 cm; silt loam, light yellowish brown (10YR 6/4) dry, dark yellowish brown (10YR 4/4) moist; common medium distinct light gray (7.5YR 7/1) redoximorphic depletions; massive; slightly hard, friable, slightly sticky and slightly plastic; few fine and medium roots; moderately acid (pH 5.7); clear smooth boundary
+
+ Ab--43 to 56 cm; silt loam, brown (10YR 4/3) dry, very dark brown (10YR 2/2) moist; massive; hard, firm, slightly sticky and slightly plastic; few fine and medium roots; moderately acid (pH 5.7); clear smooth boundary
+
+ C1b--56 to 71 cm; sandy loam, brown (7.5YR 5/4) dry, dark brown (7.5YR 3/4) moist; many coarse prominent yellowish red (5YR 5/6) redoximorphic concentrations; single grain; slightly hard, very friable, nonsticky and nonplastic; few fine and medium roots; few very fine irregular pores; moderately acid (pH 5.7); clear smooth boundary
+
+ C2b--71 to 89 cm; silt loam, brown (7.5YR 4/3) dry, dark brown (10YR 3/3) moist; many coarse prominent light gray (5Y 7/1) redoximorphic depletions; massive; hard, very firm, slightly sticky and slightly plastic; few fine roots; moderately acid (pH 5.7); clear smooth boundary
+
+ Ab--89 to 114 cm; silt loam, very dark grayish brown (10YR 3/2) dry, very dark brown (10YR 2/2) moist; massive grading to weak medium subangular blocky structure; hard, friable, slightly sticky and nonplastic; few fine roots; common fine irregular pores; 10 percent partially decomposed wood fragments; sulfur odor; moderately acid (pH 5.7); gradual wavy boundary
+
+ Cb--114 to 155 cm; silt loam, dark grayish brown (10YR 4/2) dry, very dark grayish brown (10YR 3/2) moist; massive; hard, firm, slightly sticky and nonplastic; few fine roots; moderately acid (pH 5.7)
+
+TYPE LOCATION: Union County, Oregon, about 820 m east and 425 m north of the southwest corner of section 12, T. 5 S., R. 42 E.; latitude 45.1409796, longitude -117.5094522, datum WGS 84 (coordinates and PLSS details estimated from a point on a hard copy map)
+
+RANGE IN CHARACTERISTICS:
+Mean annual soil temperature--about 1 to 6 degrees C
+Mean summer soil temperature--about 4 to 10 degrees C
+Mean winter soil temperature--about -3 to 2 degrees C
+Thickness of mollic epipedon--25 to 40 cm
+Depth to aquic conditions and distinct or prominent redoximorphic concentrations and depletions--25 to 35 cm
+Organic carbon content--irregular decrease as depth increases
+
+Particle-size control section
+*Clay content--5 to 10 percent
+*Total rock fragment content--0 to 25 percent
+
+A horizon
+Moist color--7.5YR 3/2, 7.5YR 3/3, 10YR 2/2
+Dry color--7.5YR 4/2, 10YR 3/2, 10YR 4/3, 10YR 4/4, 10YR 5/3
+Fine-earth texture--silt loam, sandy loam
+Clay content--5 to 10 percent
+Sand content--20 to 60 percent
+Organic matter content--2.5 to 8.0 percent
+Total rock fragment content--0 to 10 percent
+Gravel content--0 to 10 percent
+Reaction--5.1 to 6.5
+Thickness--25 to 35 cm
+
+AC horizon
+Moist color--7.5YR 3/2, 10YR 2/2
+Dry color--7.5YR 4/2, 10YR 3/2, 10YR 4/3, 10YR 4/4, 10YR 5/3, 10YR 5/4
+Fine-earth texture--silt loam, sandy loam
+Clay content--5 to 10 percent
+Sand content--20 to 60 percent
+Organic matter content--2.5 to 8.0 percent
+Total rock fragment content--0 to 10 percent
+Gravel content--0 to 10 percent
+Reaction--5.1 to 6.5
+Thickness --5 to 15 cm
+
+C horizon
+Moist color--10YR 3/4, 10YR 4/4
+Dry color--10YR 5/4, 10YR 6/4
+Fine-earth texture--silt loam, sandy loam
+Clay content--5 to 12 percent
+Sand content--20 to 60 percent
+Organic matter content--0 to 1 percent
+Total rock fragment content--0 to 30 percent
+Gravel content--0 to 30 percent
+Reaction--5.1 to 7.3
+Thickness--8 to 35 cm
+
+Ab and Ab horizons
+Moist color--7.5YR 3/2, 10YR 2/1, 10YR 2/2, 10YR 3/2
+Dry color--7.5YR 4/2, 10YR 3/2, 10YR 5/2
+Fine-earth texture--silt loam, sandy loam
+Clay content--5 to 12 percent
+Sand content--20 to 65 percent
+Organic matter content--2.5 to 4.0 percent
+Total rock fragment content--0 to 5 percent
+Gravel content--0 to 5 percent
+Reaction--5.1 to 6.1
+Thickness--0 to 25 cm
+
+Cb horizon
+Moist color--7.5YR 3/2, 7.5YR 3/4, 10YR 2/1, 10YR 2/2, 10YR 3/2, 10YR 3/3, 10YR 4/2, 10YR 4/3
+Dry color--7.5YR 4/2, 7.5YR 5/2, 7.5YR 5/4, 10YR 3/2, 10YR 5/3, 10YR 6/3, 10YR 6/4
+Fine-earth texture--silt loam, sandy loam
+Clay content--3 to 10 percent
+Sand content--15 to 70 percent
+Organic matter content--0 to 1 percent
+Total rock fragment content--0 to 30 percent
+Gravel content--0 to 30 percent
+Reaction--5.1 to 6.5
+
+COMPETING SERIES:
+Bandarrow--regular decrease in organic carbon content as depth increases; 65 to 90 cm deep to loamy-skeletal material
+Fourlog--mollic epipedon 50 to 150 cm thick; regular decrease in organic carbon content as depth increases
+Rosane--60 to 100 cm deep to contrasting sand and gravel that is 35 to 70 percent rock fragments
+Venapass--mollic epipedon 40 to 60 cm thick; neutral or slightly alkaline
+
+GEOGRAPHIC SETTING:
+Elevation--1220 to 2270 m
+Climate--cold, wet winters; warm, moist summers
+Mean annual precipitation--800 to 1540 mm
+Mean annual air temperature--  -1 to 5 degrees C
+Frost-free period--10 to 75 days
+
+GEOGRAPHICALLY ASSOCIATED SOILS:
+Bycracky--on benches and basins of glacially scoured mountains; organic soil material more than 150 cm deep; under wet meadow vegetation
+Rockcreekbutte--on steep, convex backslopes and shoulders; under an open canopy of subalpine fir and whitebark pine; moderately deep to bedrock
+
+DRAINAGE AND SATURATED HYDRAULIC CONDUCTIVITY:
+Saturation during normal years--saturated at a depth of 25 to 51 cm in April and May and at a depth of 30 to 152 cm in June
+Flooding--very brief, occasional periods in April through June
+Ponding--brief, occasional periods in April through June
+Saturated hydraulic conductivity (Ksat)--moderately high
+
+USE AND VEGETATION:
+Use--watershed, wildlife habitat, livestock grazing, recreation
+Native vegetation--subalpine fir, Engelmann spruce, quaking aspen, Northwest Territory sedge, undergreen willow, stink currant, prickly currant, western meadow-rue, arrowleaf ragwort, mountain willow, minerslettuce, tufted hairgrass, water sedge, smallflower miterwort, baldhip rose, sedge, rose angelica, tall mannagrass, cowparsnip, northern twinflower, claspleaf twistedstalk
+Plant association--high-elevation, wet meadow sedge communities and some scattered spruce or aspen
+
+DISTRIBUTION AND EXTENT: Blue Mountains of northeastern Oregon; MLRA 43C; small extent
+
+SOIL SURVEY REGIONAL OFFICE (SSRO) RESPONSIBLE: Portland, Oregon
+
+SERIES ESTABLISHED: Wallowa-Whitman National Forest, Oregon; 2018
+
+REMARKS:
+Diagnostic horizons and other features recognized in this pedon
+*Mollic epipedon--zone from the surface to a depth of 36 cm
+*Aquic conditions--zone from 28 to 155 cm
+
+National Cooperative Soil Survey
+U.S.A.

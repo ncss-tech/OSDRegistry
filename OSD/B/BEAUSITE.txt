@@ -1,0 +1,128 @@
+LOCATION BEAUSITE               WA
+
+Established Series
+Rev. FRM/CRF/EED
+02/2019
+
+BEAUSITE SERIES
+
+Landscape--glaciated mountains, foothills
+Landform--hillslopes
+Slope--0 to 90 percent
+Parent material--glacial drift mixed with colluvium and/or residuum derived from sandstone or conglomerate
+Mean annual precipitation--about 1000 mm
+Mean annual temperature--about 10 degrees C
+Depth class--moderately deep to lithic contact
+Drainage class--well drained 
+Soil moisture regime--xeric
+Soil temperature regime--mesic
+Soil moisture subclass--typic
+
+TAXONOMIC CLASS: Loamy-skeletal, isotic, mesic Typic Dystroxerepts
+
+TYPICAL PEDON: Beausite gravelly sandy loam, forested
+
+ Oi--0 to 5 cm; slightly decomposed plant material; abrupt wavy boundary
+
+ Oe--5 to 8 cm; moderately decomposed plant material; abrupt wavy boundary
+
+ A--8 to 13 cm; sandy loam, brown (7.5YR 5/2) dry, dark brown (7.5YR 3/2) moist; weak fine and medium granular structure; slightly hard, very friable, nonsticky and nonplastic; many fine roots; 30 percent gravel; moderately acid (pH 5.9); clear wavy boundary
+
+ Bw1--13 to 23 cm; very gravelly sandy loam, light brown (7.5YR 6/3) dry, brown (7.5YR 4/3) moist; weak medium and coarse subangular blocky structure; slightly hard, very friable, nonsticky and nonplastic; many fine and medium roots; 40 percent gravel; moderately acid (pH 6.0); gradual wavy boundary
+
+ Bw2--23 to 43 cm; very gravelly sandy loam, pale brown (10YR 6/3) dry, brown (10YR 4/3) moist; weak coarse subangular blocky structure; slightly hard, friable, nonsticky and nonplastic; many fine and medium roots; common fine and medium tubular pores; 40 percent gravel; moderately acid (pH 6.0); gradual wavy boundary
+
+ Bw3--43 to 64 cm; very gravelly sandy loam, light yellowish brown (10YR 6/4) dry, dark yellowish brown (10YR 4/4) moist; massive; hard, firm, nonsticky and nonplastic; common small and medium roots; 45 percent gravel; slightly acid (pH 6.1); gradual irregular boundary
+
+ C--64 to 91 cm; very gravelly sandy loam, grayish brown (10YR 5/2) dry, brown (10YR 5/3) moist; massive; very hard, very firm, nonsticky and nonplastic; few fine roots; 55 percent gravel; slightly acid (pH 6.1); clear irregular boundary
+
+ 2R--91 cm; indurated conglomerate
+
+TYPE LOCATION: Jefferson County, Washington, about 4 km south of Discovery Bay; about 130 m north and 190 m east of the southwest corner of section 36, T. 29 N., R. 2 W., Willamette Meridian; Olala, Washington, U.S. Geological Survey quadrangle; latitude 47.956 north, longitude 122.4756 degrees west, WGS 84 (coordinates estimated from PLSS details)
+
+RANGE IN CHARACTERISTICS:
+*Mean annual soil temperature--9 to 12 degrees C
+*Soil moisture control section--dry 60 to 75 days following the summer solstice
+*Depth to restriction--60 to 100 cm
+*Reaction (pH)--5.6 to 6.5
+
+Particle size control section (weighted average) 
+*Clay content--5 to 15 percent 
+*Total rock fragment content--35 to 75 percent
+
+O horizon
+Thickness--0 to 10 cm
+
+A horizon
+Hue--5YR, 7.5YR, 10YR
+Value--2 to 4 moist or dry
+Chroma--1 to 4 moist or dry
+Fine-earth texture--sandy loam, loam
+Total rock fragment content--15 to 35 percent
+Gravel content--15 to 35 percent 
+Cobble content--0 to 5 percent
+Thickness--5 to 15 cm
+
+Bw horizon
+Hue--7.5YR, 10YR, 2.5Y
+Value--3 or 4 moist, 4 to 6 dry
+Chroma--3 or 4 moist, 2 to 4 dry
+Total rock fragment content--35 to 75 percent
+Gravel content--35 to 75 percent
+Cobble content--0 to 25 percent
+Thickness--40 to 75 cm
+
+C horizon
+Hue--10YR, 2.5Y
+Value--5 to 8 dry
+Chroma--2 to 4 moist, 2 or 4 dry
+Total rock fragment content--35 to 75 percent
+Gravel content--35 to 75 percent
+Cobble content--0 to 25 percent
+Thickness--5 to 30 cm
+
+COMPETING SERIES:
+Billscabin--paralithic contact at a depth of more than 150 cm from the soil surface
+Half Dome--more than 150 cm to restrictive layer
+Inskip--mean annual soil temperature of 12 to 14 degrees C; pH of 6.6 to 7.3 throughout
+
+GEOGRAPHIC SETTING: 
+Elevation--0 to 570 m 
+Mean annual precipitation--760 to 1300 mm
+Mean annual air temperature--9 to 11 degrees C
+Frost-free period--160 to 220 days
+
+GEOGRAPHICALLY ASSOCIATED SOILS:
+Blethen--more than 150 cm to restrictive layer; on similar landforms and escarpments of drift plains 
+Alderwood--aquic conditions within 75 cm of the soil surface; on adjacent glaciated hills and drift plains 
+Chuckanut--paralithic contact at a depth of more than 100 cm from the soil surface; on similar landforms 
+Everett--more than 150 cm to restrictive layer; on adjacent glaciated hills and drift plains 
+Hoodsport--densic contact at a depth of 50 to 100 cm from the soil surface; on adjacent glaciated hills and drift plains
+
+DRAINAGE AND SATURATED HYDRAULIC CONDUCTIVITY: 
+*Drainage class--well drained
+*Saturated hydraulic conductivity (Ksat)--moderately high or high throughout
+
+USE AND VEGETATION:
+*Use--timber production, wildlife habitat, recreation
+*Potential natural vegetation--Douglas-fir, western hemlock, western red cedar, and red alder, salal, Oregon grape, oceanspray, red huckleberry, Cascade bilberry, western swordfern
+
+DISTRIBUTION AND EXTENT: Western Washington; MLRA 2; moderate extent
+
+SOIL SURVEY REGIONAL OFFICE (SSRO) RESPONSIBLE: Portland, Oregon
+
+SERIES ESTABLISHED: Jefferson County, Washington; 1968
+
+REMARKS--
+Diagnostic horizons and other features recognized in this pedon 
+*Ochric epipedon
+*Particle size control section--zone from 33 to 91 cm
+*Cambic horizon--zone from 8 to 64 cm
+*Depth to lithologic discontinuity--91 cm
+*Depth to lithic contact--91 cm
+
+06/2018--Changed from previous classification of loamy-skeletal, isotic, mesic Vitrandic Dystroxerepts. Existing laboratory data does not reflect the presence of adequate quantities of volcanic glass to support the Vitrandic subgroup. This OSD was edited according to SSR01 Technical Note--Content and Format of Official Series Descriptions (revised 11/2017).
+
+
+National Cooperative Soil Survey
+U.S.A.

@@ -1,0 +1,78 @@
+LOCATION POLAWANA               VA
+
+Established Series
+Rev. CDP/WJE/MHC
+07/1999
+
+POLAWANA SERIES
+
+The Polawana series consists of deep, very poorly drained, rapidly permeable, sandy soils that formed in marine sediments. The water table is near or above the surface for as much as 6 months during most years.  Slopes are less than 2 percent.
+
+TAXONOMIC CLASS: Sandy, mixed, thermic Cumulic Humaquepts
+
+TYPICAL PEDON:  Polawana mucky sandy loam--mixed hardwood forest.  (Colors are for moist soil.)
+
+    A1--0 to 22 inches; very dark brown (10YR 2/2) mucky sandy loam; weak coarse granular structure; very friable; many fine, medium, and coarse roots; very strongly acid; clear smooth boundary.
+
+     A2--22 to 32 inches; very dark gray (10YR 3/1) loamy fine sand; many medium distinct gray (10YR 5/1) mottles; single grain; loose; few fine roots; strongly acid; clear smooth boundary. (Combined thickness of the A horizons is 24 to 40 inches)
+
+     Cg--32 to 85 inches; dark gray (10YR 4/1) sand; many medium distinct very pale brown (10YR 7/4) mottles; single grain; loose; moderately acid.
+
+TYPE LOCATION:  Accomack County, Virginia; 800 yards south southeast of the junction of highways VA-605 and VA-648, and 1.2 miles north northeast of the junction of highways VA-605 and VA-647, near Daugherty.
+
+RANGE IN CHARACTERISTICS:  The soil is very strongly acid to neutral throughout the profile.
+
+The A horizon has hue of 5YR to 5Y, or it is neutral, value of 2 or 3, and chroma of 0 to 2.  It is loam, fine sandy loam, sandy loam, silt loam, loamy fine sand, loamy sand, sand, or fine sand, or their mucky analogues.  Horizons with texture of loam, fine sandy loam, sandy loam, or silt loam are less than 24 inches thick.
+
+The C horizon commonly has hue of 7.5YR to 5Y or it is neutral, value of 3 to 7, and chroma of 0 to 2.  Some pedons have a value of 2 or 3 with chroma of 2 or 4.  The C horizon is loamy fine sand, loamy sand, sand, or fine sand; and in the upper part of the horizon mucky analogues of these textures is permitted.
+
+COMPETING SERIES:  There are no other known series in this family.
+
+GEOGRAPHIC SETTING:  Polawana soils are on nearly level areas adjacent to drainageways, streams, and on depressional areas in the Lower Coastal Plain. Slopes are less than 2 percent.  These soils formed in sandy marine sediments.  Mean annual temperature ranges from 59 to 68 degrees F., mean annual precipitation ranges from 40 to 54 inches, and the freeze-free season ranges from 190 to 290 days.
+
+GEOGRAPHICALLY ASSOCIATED SOILS:  These are the similar Rosedhu series plus the Baratari, Deloss, Ridgeland, Rosedhu, Seabrook, Seewee, Stono, Wando, and Yemassee series.  Baratari, Ridgeland, and Seewee soils have a Bh horizon.  Seabrook soils do not have a cumulic epipedon.  Deloss and Stono soils have textures finer than loamy fine sand.  Wando soils do not have wetness mottles of chroma 2 or less to a depth of 40 inches.  Yemassee soils have an argillic horizon.
+
+DRAINAGE AND PERMEABILITY:  Very poorly drained; ponded or very slow runoff; rapid permeability.  The water table is at depths of less than 6 inches for about 6 months during most years.
+
+USE AND VEGETATION:  Cleared and drained areas are used for corn, soybeans, small grain, vegetables, and pasture.  Most of the areas are in native vegetation consisting of blackgum, sweetgum, tupelo gum, pond pine, cypress, water oak, and an undergrowth of bay myrtle, fern, maidencane, and gallberry.
+
+DISTRIBUTION AND EXTENT: Delmarva Peninsula in Virginia, and Lower Coastal Plain of South Carolina and North Carolina.  The series is of small extent.
+
+MLRA SOIL SURVEY REGIONAL OFFICE (MO) RESPONSIBLE: Raleigh, North Carolina
+
+SERIES ESTABLISHED:  Beaufort County, South Carolina; 1975.
+
+REMARKS:  South Carolina transferred responsibility for the series 5/90 because of mineralogy differences.
+
+Diagnostic characteristics and features of this pedon are:
+
+1.  Umbric epipedon-the zone from the surface to 32 inches (A horizons) 2.  Aquic moisture regime 3.  Irregular decrease in organic matter
+
+SIR = VA0356
+
+MLRA = 153A, 153B
+
+REVISED = 10/11/90
+
+TABULAR SERIES DATA:
+
+SOI-5  Soil Name   Slope  Airtemp FrFr/Seas Precip  Elevation
+VA0356 POLAWANA    0-  2   59- 68  190-290  40- 54     5-  50 
+
+SOI-5  FloodL FloodH Watertable Kind   Months  Bedrock Hardness
+VA0356 COMMON           -     APPARENT    -     60-60        
+
+SOI-5  Depth  Texture                3-Inch  No-10  Clay%   -CEC-
+VA0356  0-22  MK-SL FSL SIL           0-  0  98-100  2-12    -   
+VA0356  0-22  LS S                    0-  0  98-100  2-12    -   
+VA0356  0-22  LFS FS                  0-  0  98-100  2-12    -   
+VA0356 22-80  LFS LS MK-LFS           0-  0  98-100  2-12    -   
+
+SOI-5  Depth    -pH-     O.M.  Salin  Permeab   Shnk-Swll
+VA0356  0-22  4.5- 7.3  3.-18  0- 0   6.0-  20  LOW      
+VA0356  0-22  4.5- 7.3  3.-18  0- 0   6.0-  20  LOW      
+VA0356  0-22  4.5- 7.3  3.-18  0- 0   6.0-  20  LOW      
+VA0356 22-80  4.5- 7.3  .5-18  0- 0   6.0-  20  LOW       
+
+National Cooperative Soil Survey
+U.S.A.

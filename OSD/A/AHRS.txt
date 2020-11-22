@@ -1,0 +1,118 @@
+LOCATION AHRS                   ID
+
+Established Series
+Rev. CJW-BDG-RJS
+06/2016
+
+AHRS SERIES
+
+The Ahrs series consists of very deep, well drained soils on mountain slopes. They formed in volcanic ash and loess over material weathered from metasedimentary rocks such as siltite and argillite. Slopes range from 15 to 75 percent. Average annual precipitation is about 915 mm and average annual air temperature is about 6.1 degrees C.
+
+TAXONOMIC CLASS: Ashy-skeletal over loamy-skeletal, amorphic over isotic, frigid Typic Udivitrands
+
+TYPICAL PEDON: Ahrs gravelly ashy silt loam, forest; on an east facing convex slope of 58 percent at an elevation of 1,270 meters. When described on August 3, 1981, the soil was dry throughout. (Colors are for dry soil unless otherwise stated.)
+
+    Oi--0 to 3 cm; slightly decomposed needles, leaves, and twigs.
+
+    Oe--3 to 5 cm; decomposed organic matter mixed with Mt. St. Helens volcanic ash. (combined thickness of O horizons - 2 to 10 cm)
+
+    A--5 to 20 cm; grayish brown (10YR 5/2) gravelly ashy silt loam, very dark grayish brown (10YR 3/2) moist; weak fine granular structure; soft, very friable, slightly sticky and slightly plastic; many very fine and fine, common medium, and few coarse roots; many very fine and common fine tubular and irregular pores; 20 percent gravel and 5 percent cobbles; neutral (pH 7.0); clear wavy boundary. (5 to 15 cm thick)
+
+    Bw1--20 to 51 cm; yellowish brown (10YR 5/4) very cobbly ashy silt loam, dark yellowish brown (10YR 3/4) moist; weak fine and medium subangular blocky structure; soft, very friable, slightly sticky and slightly plastic; many very fine and fine, common medium, and few coarse roots; common very fine and fine tubular and irregular pores; 20 percent gravel and 20 percent cobbles; neutral (pH 6.8); clear wavy boundary. (30 to 46 cm thick)
+
+    2Bw2--51 to 81 cm; light yellowish brown (10YR 6/4) extremely cobbly loam, dark yellowish brown (10YR 4/4) moist; weak fine and medium subangular blocky structure; slightly hard, friable, slightly sticky and slightly plastic; common very fine, fine, medium, and few coarse roots; common very fine and fine, and few medium tubular and irregular pores; 20 percent gravel, 30 percent cobbles, and 15 percent stones; slightly acid (pH 6.5); clear wavy boundary. (30 to 50 cm thick)
+
+    2C1--81 to 122 cm; very pale brown (10YR 7/4) extremely cobbly loam, yellowish brown (10YR 5/4) moist; massive; slightly hard, friable, slightly sticky and slightly plastic; common very fine and fine, few medium and coarse roots; common very fine, fine, and few medium tubular and irregular pores; 20 percent gravel, 30 percent cobbles, and 15 percent stones; slightly acid (pH 6.5); gradual wavy boundary. (38 to 50 cm thick)
+
+    2C2--122 to 150 cm; very pale brown (10YR 7/4) extremely cobbly loam, yellowish brown (10YR 5/4) moist; massive; slightly hard, friable, slightly sticky and slightly plastic; few very fine and fine roots; common very fine and fine tubular and irregular pores; 35 percent gravel, 35 percent cobbles, and 15 percent stones; slightly acid (pH 6.4); gradual wavy boundary. (12 to 46 cm thick)
+
+    2C3--150 to 157 cm; very pale brown (10YR 7/4) extremely cobbly loam, yellowish brown (10YR 5/4) moist; massive; slightly hard, friable, slightly sticky and slightly plastic; few very fine roots; common very fine and fine tubular pores; 35 percent gravel, 40 percent cobbles, and 15 percent stones; slightly acid (pH 6.4).
+
+TYPE LOCATION: Benewah County, Idaho; about 1.5 miles southeast of St. Joe Baldy, 610 meters east and 305 meters south of the northwest corner of section 7, T. 46 N., R. 1 E. Latitude  47 degrees, 21 minutes, 11 seconds N., Longitude  116 degrees, 23 minutes, 08 seconds W.; NAD 83; USGS St. Joe Baldy quadrangle.
+
+RANGE IN CHARACTERISTICS:
+Depth to bedrock - greater than 150 cm
+Solum thickness - 65 to 110 cm
+Moisture control section - dry, August to September (20 to 40 days) moist, September through July
+Average annual soil temperature - 6.1 to 8.0 degrees C.
+Average summer soil temperature - 8.0 to 13.3 degrees C with an O horizon 
+Volcanic ash mantle - 35 to 60 cm thick
+Volcanic glass content in the 0.02 to 2 mm fraction - 30 to 65 percent 
+Acid-oxalate extractable Al + 1/2 Fe - 1.0 to 3.0 percent
+Phosphate retention - 55 to 90 percent
+15 bar water retention on air dried samples - 7 to 12 percent
+
+A horizon
+Value - 4 to 6 dry, 2 to 4 moist
+Chroma - 2 or 3 dry or moist
+Texture (less than 2mm) - ashy silt loam or ashy loam
+Rock fragment content - 5 to 30 percent
+Bulk density - 0.65 to 0.85 g/cc
+Clay content - 3 to 8 percent
+Reaction - pH 5.1 to 7.3
+
+Bw1 horizon
+Hue - 10YR or 7.5YR dry or moist
+Value - 5 to 7 dry, 3 to 5 moist
+Texture (less than 2mm) - ashy silt loam or ashy loam 
+Rock fragment content - 25 to 65 percent 
+Bulk density - 0.65 to 0.85 g/cc
+Clay content - 3 to 8 percent
+Reaction - pH 5.6 to 7.3
+
+
+2Bw2 horizon (2BC horizon if present)
+Hue - 10YR or 7.5YR dry or moist
+Value - 6 or 7 dry, 4 or 5 moist
+Texture (less than 2mm) - silt loam or loam 
+Rock fragment content - 35 to 80 percent
+Clay content - 3 to 16 percent
+Reaction - pH 5.6 to 7.3
+
+Note: 2BC horizon may be present in some pedons.
+
+2C1, 2C2, 2C3 horizons
+Hue - 10YR or 7.5YR dry or moist
+Value - 6 or 7 dry, 4 to 6 moist
+Chroma - 3 to 6, dry or moist
+Texture (less than 2mm) - silt loam or loam
+Rock fragment content - 60 to 90 percent
+Clay content - 3 to 16 percent
+Reaction - pH 5.1 to 7.3
+
+COMPETING SERIES: 
+Harl (OR) - have buried horizons with 10 to 18 percent clay in the loamy-skeletal part
+Lakefork (OR) - formed in volcanic ash over till
+
+GEOGRAPHIC SETTING: 
+Landform - mountain slopes
+Elevation - 650 to 1,525 meters
+Aspect - all aspects, but mainly southerly at high elevations
+Slopes - 15 to 75 percent
+Parent material - volcanic ash and loess over material weathered from metasedimentary rocks such as siltite and argillite
+Mean annual precipitation - 700 to 1,150 mm.
+Mean annual temperature - 5.5 to 7.5 degrees C.
+Frost-free period - 90 to 115 days
+
+GEOGRAPHICALLY ASSOCIATED SOILS: These are the Honeyjones, Latour, Lotuspoint, Pinecreek, and Tigley soils. The Honeyjones soils have less than 35 percent coarse fragments in the ash mantle and are on cooler, north-facing slopes. The Tigley soils are on adjacent foothills and have argillic horizons. The Latour soils are cryic and are located at higher elevations. The Lotuspoint soils are mesic and are on south-facing ridges. The Pinecreek soils are on south-facing mountain slopes and have umbric epipedons.
+
+DRAINAGE AND SATURATED HYDRAULIC CONDUCTIVITY: Well drained; medium to rapid runoff; moderately high saturated hydraulic conductivity.
+
+USE AND VEGETATION: These soils are used for timber production, livestock grazing, wildlife habitat, recreation, and watershed. Potential natural vegetation is mainly grand fir, Douglas-fir, western white pine, and western larch, with an understory of Columbia brome, common snowberry, creambush oceanspray, goldthread, myrtle pachystima, longtube twinflower, starry false-Solomon's seal, queencup beadlily, piper anemone, sedge, and American trailplant.
+
+DISTRIBUTION AND EXTENT: This soil is moderately extensive. MLRA 43A.
+
+MLRA SOIL SURVEY REGIONAL OFFICE (MO) RESPONSIBLE: Bozeman, Montana
+
+SERIES ESTABLISHED: St. Joe Area, Shoshone County, Idaho, 1993.
+
+REMARKS: Diagnostic horizons and features recognized in this pedon are:
+Ochric epipedon - from 0 to 20 cm (Oi, Oe, A horizon)
+Cambic horizon - from 20 to 81 cm (Bw1, 2Bw2 horizons)
+Volcanic ash mantle - from 5 to 51 cm (A, Bw1 horizons)
+Particle-size control section - from 5 to 105 cm (A, Bw1, 2Bw2, part of 2C1 horizons)
+
+ADDITIONAL DATA: Laboratory data available for Soil Survey Sample Number: 89ID079003, NSSL Pedon Number: 89P0747, Shoshone County, Idaho.
+
+National Cooperative Soil Survey
+U.S.A.

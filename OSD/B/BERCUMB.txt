@@ -1,0 +1,130 @@
+LOCATION BERCUMB                WA
+
+Established Series
+Rev. JDC/KL/KMS
+09/2019
+
+BERCUMB SERIES
+
+Landscape-canyonlands, hills, mountains
+Landform-canyons, hillslopes, mountain slopes
+Slope--5 to 75 percent
+Parent material--residuum and colluvium derived from basalt with a thin mantle of volcanic ash
+Mean annual precipitation--about 1200 mm
+Mean annual air temperature--about 6 degrees C
+Depth class--very deep
+Drainage class--well drained
+Soil moisture regime--xeric
+Soil temperature regime--frigid
+Soil moisture subclass--typic
+
+TAXONOMIC CLASS: Coarse-loamy, isotic, frigid Andic Humixerepts
+
+TYPICAL PEDON: Bercumb cobbly ashy loam, forested, on a 20-percent, south-facing footslope at an elevation of 790 m (All textures are apparent field textures.)
+
+ Oi--0 to 3 cm; partially decomposed needles, leaves, and twigs
+
+ A1--3 to 13 cm; cobbly ashy loam, brown (7.5YR 4/3) dry, dark reddish brown (5YR 3/2) moist; weak very fine granular structure; soft, very friable, slightly sticky and nonplastic; weakly smeary; many very fine and fine and few medium roots; many fine irregular pores; 10 percent gravel and 10 percent cobbles; neutral (pH 6.6); clear smooth boundary
+
+ A2--13 to 28 cm; gravelly ashy loam, brown (7.5YR 5/3) dry, dark reddish brown (5YR 3/3) moist; weak very fine subangular blocky structure parting to weak fine granular; soft, friable, slightly sticky and nonplastic; weakly smeary; many very fine and fine and few medium roots; many fine irregular pores and many very fine tubular pores; 20 percent gravel; slightly acid (pH 6.2); clear smooth boundary
+
+ BA--28 to 51 cm; gravelly loam, strong brown (7.5YR 5/6) dry, dark reddish brown (5YR 3/4) moist; weak very fine and fine subangular blocky structure; slightly hard, friable, slightly sticky and slightly plastic; many very fine, common fine, and few medium roots; many very fine irregular pores and many very fine and fine tubular pores; 25 percent gravel; slightly acid (pH 6.2); gradual smooth boundary
+
+ Bw1--51 to 76 cm; gravelly loam, strong brown (7.5YR 5/6) dry, dark reddish brown (5YR 3/4) moist; moderate very fine and fine subangular blocky structure; slightly hard, friable, slightly sticky and slightly plastic; many very fine and few fine and medium roots; many very fine irregular and tubular pores; 15 percent gravel and 5 percent cobbles; slightly acid (pH 6.4); gradual smooth boundary
+
+ Bw2--76 to 137 cm; very gravelly loam, strong brown (7.5YR 5/6) dry, dark reddish brown (5YR 3/4) moist; moderate very fine and fine subangular blocky structure; hard, firm, moderately sticky and moderately plastic; few very fine and fine roots; many fine irregular pores and common very fine and fine tubular pores; 35 percent gravel and 5 percent cobbles; neutral (pH 6.6); clear smooth boundary
+
+ BC--137 to 155 cm; very cobbly loam, strong brown (7.5YR 5/6) dry, reddish brown (5YR 4/4) moist; moderate fine and medium subangular blocky structure; hard, firm, moderately sticky and moderately plastic; few very fine roots; common very fine irregular and tubular pores; 20 percent gravel, 15 percent cobbles, and 20 percent pararock fragments; neutral (pH 6.8)
+
+TYPE LOCATION: Klickitat County, Washington, about 10 km west of Glenwood; about 700 m south and 210 m west of the northeast corner of section 28, T. 6 N., R. 11 E.; latitude 45.9796260, longitude -121.4300970, datum WGS 84 (coordinates estimated from PLSS details)
+
+RANGE IN CHARACTERISTICS:
+Mean annual soil temperature--6 to 8 degrees C
+Moisture control section--usually moist, but dry 60 to 75 consecutive days following summer solstice
+Rock fragment content in particle-size control section--averages 15 to 35 percent
+Clay content in particle-size control section--averages 7 to 12 percent
+Thickness of umbric epipedon--25 to 30 cm
+Depth to bedrock--150 cm or more
+
+Volcanic ash influence
+*Thickness--20 to 30 cm
+*Estimated moist bulk density--0.75 to 0.90 g/cm3
+*Volcanic glass content--5 to 30 percent
+*Acid oxalate Al plus one-half Fe--1 to 2 percent
+*Phosphorus retention--50 to 75 percent
+*15-bar water retention--8 to 12 percent (air-dried samples)
+
+A horizon
+Hue--5YR to 10YR
+Value--4 or 5 dry, 2 or 3 moist
+Chroma--2 or 3 dry or moist
+Texture of fine-earth fraction--ashy loam, ashy sandy loam
+Gravel content--10 to 25 percent (increases as depth increases)
+Cobble content--0 to 15 percent (decreases as depth increases)
+Combined thickness--25 to 30 cm
+
+BA and Bw horizons
+Hue--5YR to 10YR
+Value--4 to 6 dry, 3 or 4 moist
+Chroma--4 to 6 dry or moist
+Texture of fine-earth fraction--loam, sandy loam
+Gravel content--10 to 25 percent
+Cobble content--0 to 15 percent
+Thickness of BA horizon--20 to 25 cm
+Combined thickness of Bw horizon--58 to 99 cm
+
+BC horizon
+Hue--5YR to 10YR
+Value--4 to 6 dry, 4 or 5 moist
+Chroma--4 to 6 dry or moist
+Texture of fine-earth fraction--loam, sandy loam, clay loam
+Gravel content--10 to 40 percent
+Cobble content--0 to 15 percent
+
+COMPETING SERIES:
+Puuywala--less than 15 percent coarse fragments in the particle size control section; umbric epipedon more than 50 cm thick
+
+GEOGRAPHIC SETTING:
+Elevation--typically 550 to 1225 m, but ranges to as low as 425 m on north aspects
+Climate--cool, dry summers; cold, wet winters; snow cover in December through April
+Mean annual precipitation--970 to 1400 mm
+Mean January air temperature--about -5 degrees C
+Mean July air temperature--about 17 degrees C
+Mean annual air temperature--4 to 7 degrees C
+Frost-free season--70 to 95 days
+
+GEOGRAPHICALLY ASSOCIATED SOILS:
+Beezee, Jebe, Panak--argillic horizon
+Kingtain--ashy-skeletal particle-size class
+Flotag--coarse-loamy particle-size class
+Trouter--50 to 100 cm (deep) to a lithic contact (basalt)
+
+DRAINAGE AND SATURATED HYDRAULIC CONDUCTIVITY:
+Drainage class--well drained
+Saturated hydraulic conductivity (Ksat)--moderately high
+
+USE AND VEGETATION:
+Use--timber production, livestock grazing, wildlife habitat, recreation
+Native vegetation--Douglas-fir, grand fir, ponderosa pine, vine maple, western hazel, Pacific dogwood, prince's pine, cascade Oregon grape, sweet-scented bedstraw, creambush oceanspray, trailing blackberry, longtube twinflower, elk sedge, pinegrass, common snowberry
+
+DISTRIBUTION AND EXTENT: East slopes of Cascade Mountains in Yakima and Klickitat Counties, Washington; MLRA 6; small extent
+
+SOIL SURVEY REGIONAL OFFICE (SSRO) RESPONSIBLE: Portland, Oregon
+
+SERIES ESTABLISHED: Klickitat County, Washington; 2003
+
+REMARKS:
+Diagnostic horizons and other features recognized in this pedon
+*Umbric epipedon--zone from 3 to 28 cm
+*Cambic horizon--zone from 28 to 155 cm
+*Andic subgroup feature--zone from 3 to 28 cm
+*Particle-size control section--zone from 28 to 103 cm
+
+3/1999--Classification changed based on addition of cation-exchange capacity classes in the seventh edition of Keys to Soil Taxonomy.
+
+3/2011--Classification changed based on eleventh edition of Keys to Soil Taxonomy.
+
+11/2017--This official series description was updated according to SSR1 Technical Note 11--Content and Format of Official Series Descriptions (revised 12/2015). Most of the changes were in formatting; no major technical changes were made.
+
+National Cooperative Soil Survey
+U.S.A.

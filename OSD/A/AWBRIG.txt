@@ -1,0 +1,149 @@
+LOCATION AWBRIG                 OR
+
+Established Series
+Rev. WRP/JGM/EED
+12/2017
+
+AWBRIG SERIES
+
+Landscape--Willamette Valley
+Landform--depressions and drainageways of stream terraces
+Slope--0 to 2 percent
+Parent material--mixed alluvium derived from volcanic and sedimentary rock over glaciolacustrine deposits from the Missoula Floods
+Mean annual precipitation--about 1150 mm
+Mean annual air temperature--about 11 degrees C
+Depth class--very deep
+Drainage class--poorly drained
+Soil moisture regime--aquic
+Soil temperature regime--mesic
+Soil moisture subclass--typic
+
+TAXONOMIC CLASS: Fine, smectitic, mesic Chromic Vertic Albaqualfs
+
+TYPICAL PEDON: Awbrig silty clay loam in an area of pasture
+
+ Ap1--0 to 5 cm; silty clay loam, light brownish gray (10YR 6/2) dry, very dark grayish brown (10YR 3/2) moist; moderate very fine subangular blocky and fine granular structure; hard, friable, moderately sticky and moderately plastic; many very fine roots; many fine irregular pores; 1 percent fine prominent yellowish brown (10YR 5/6) masses of oxidized iron on surfaces along root channels; strongly acid (pH 5.4); clear smooth boundary
+
+ Ap2--5 to 18 cm; silty clay loam, light brownish gray (10YR 6/2) dry, very dark grayish brown (10YR 3/2) moist; moderate fine subangular blocky structure; hard, friable, moderately sticky and moderately plastic; many very fine and common fine roots; many very fine tubular and irregular pores; 10 percent fine faint and distinct brown (10YR 4/3) and dark yellowish brown (10YR 4/4) masses of iron accumulation and 3 percent fine spherical black (10YR 2/1) iron-manganese concretions throughout; slightly acid (pH 6.5); abrupt irregular boundary
+
+ 2Btssg1--18 to 46 cm; clay, gray (10YR 5/1) dry, very dark gray (10YR 3/1) moist; weak coarse prismatic structure with vertical cracks 1 cm wide or more when dry, but appears massive when wet; extremely hard, very firm, very sticky and very plastic; few very fine and fine roots; few very fine tubular pores; common distinct slickensides (pedogenic) and pressure faces and common faint clay films on faces of peds; 1 percent fine yellowish brown (10YR 5/6) masses of oxidized iron on surfaces along pores and 1 percent fine spherical black (10YR 2/1) iron-manganese concretions throughout; slightly acid (pH 6.3); clear wavy boundary
+
+ 2Btssg2--46 to 74 cm; silty clay, dark grayish brown (10YR 4/2) dry, very dark grayish brown (10YR 3/2) moist; moderate medium and coarse prismatic structure parting to weak medium and fine subangular blocky; extremely hard, firm, very sticky and very plastic; few very fine roots; common very fine tubular pores; few faint slickensides (pedogenic), many pressure faces, and 75 percent faint and distinct clay films on all faces of peds; 40 percent medium distinct irregular yellowish brown (10YR 5/4) masses of oxidized iron on faces of peds; slightly acid (pH 6.5); gradual irregular boundary
+
+ 2Btg--74 to 122 cm; silty clay loam, pale brown (10YR 6/3) dry, grayish brown (10YR 5/2) moist; weak medium prismatic structure; hard, firm, moderately sticky and moderately plastic; many very fine tubular pores; 60 percent distinct very dark grayish brown (10YR 3/2) clay films on faces of peds and on surfaces along pores; 40 percent fine prominent irregular yellowish brown (10YR 5/6) and brown (7.5YR 4/4) masses of oxidized iron on faces of peds and 20 percent fine distinct irregular light gray (10YR 7/2) iron depletions on faces of peds; 3 percent gravel; neutral (pH 6.6); abrupt smooth boundary
+
+ 2Cg--122 to 152 cm; clay loam, pale brown (10YR 6/3) dry, brown (10YR 4/3) moist; massive; hard, firm, moderately sticky and moderately plastic; common very fine tubular pores; 20 percent fine distinct irregular dark gray (10YR 4/1) iron depletions on faces of peds; neutral (pH 7.0)
+
+TYPE LOCATION: Lane County, Oregon, about 12 km northwest of Eugene; about 12 m north and 640 m west of the southeast corner of section 32, T. 16 S. R. 4 W.; latitude 44.1280531, longitude -123.1955537, datum WGS 84 (coordinates estimated from PLSS details)
+
+RANGE IN CHARACTERISTICS:
+Mean annual soil temperature--11 to 13 degrees C
+Moisture control section--seasonal high water table within 15 to 30 cm of soil surface during the growing season
+Depth to top of argillic horizon--13 to 30 cm
+Depth to slickensides--13 to 30 cm
+Depth to bottom of cracks when dry--more than 50 cm
+
+Particle-size control section
+*Clay content--50 to 60 percent
+*Total fragment content--0 to 5 percent
+
+Ap horizon
+Hue--7.5YR to 2.5Y
+Value--3 or 5 moist, 6 or 7 dry
+Chroma--2 or less moist or dry
+Clay content--27 to 30 percent
+Sand content--5 to 20 percent
+Total fragment content--0 to 5 percent
+Reaction--5.1 to 6.5
+Thickness--13 to 30 cm
+
+2Btssg horizon
+Hue--7.5YR to 2.5Y
+Value--3 or 4 moist, 5 or 6 dry
+Chroma--1 or 2 moist or dry
+Fine-earth texture--clay, silty clay
+Clay content--50 to 60 percent
+Sand content--2 to 15 percent
+Total fragment content--0 to 5 percent
+Reaction--6.1 to 7.3
+Thickness--20 to 100 cm
+
+2Btg horizon
+Hue--10YR, 2.5Y
+Value--4 or 5 moist, 6 dry
+Chroma--1 to 4 moist and dry
+Fine-earth texture--clay loam, silty clay loam
+Clay content--27 to 40 percent
+Sand content--2 to 25 percent
+Total fragment content--0 to 5 percent
+Reaction--6.6 to 7.3
+Thickness--0 to 56 cm
+
+2C horizon
+Hue--10YR, 2.5Y
+Value--4 or 5 moist, 6 dry
+Chroma--1 to 4 moist or dry
+Fine-earth texture--clay loam, silty clay loam
+Clay content--27 to 40 percent
+Sand content--2 to 25 percent
+Total fragment content--0 to 5 percent
+Reaction--6.6 to 7.3
+
+COMPETING SERIES:
+Beckwith--less than 10 percent sand throughout profile, including the particle-size control section; only hue of 10YR in A or Ap horizon
+Floraville--less than 7 percent sand and 35 to 48 percent clay in particle-size control section; mean annual soil temperature 13 to 15 degrees C; only hue of 10YR in A or Ap horizon
+Mariosa--brittleness (fragipan) from 50 to 100 cm; only hue of 10YR in A or Ap horizon
+Okaw--less than 15 percent sand throughout profile, including particle-size control section; only hue of 10YR in A or Ap horizon
+
+GEOGRAPHIC SETTING:
+Elevation--55 to 185 m
+Climate--warm, dry summers; cool, moist winters
+Mean annual precipitation--1000 to 1300 mm
+Mean annual air temperature--10 to 12 degrees C
+Mean January air temperature--4 to 5 degrees C
+Mean July air temperature--18 to 19 degrees C
+Frost-free period--165 to 210 days
+
+GEOGRAPHICALLY ASSOCIATED SOILS:
+Bashaw--no abrupt textural change; in similar positions
+Clackamas--fine-loamy; somewhat poorly drained; in convex positions
+Coburg--mollic epipedon; moderately well drained; in linear positions
+Conser--no abrupt textural change; in similar positions
+Courtney--very gravelly or extremely gravelly C horizon within a depth of 100 cm; in similar positions
+
+DRAINAGE AND SATURATED HYDRAULIC CONDUCTIVITY:
+Drainage class--poorly drained
+Saturation in normal years--apparent water table at a depth of 15 cm above the surface to a depth of 45 cm below the surface in December through April
+Flooding--rare
+Ponding--frequent, long periods in December through April
+Saturated hydraulic conductivity (Ksat)--low
+
+USE AND VEGETATION:
+Use--production of spring grain, grass seed, hay, and pasture
+Potential natural vegetation--grasses, sedges, rushes, hawthorn, rose, Oregon ash
+
+DISTRIBUTION AND EXTENT: Willamette Valley, Oregon; MLRA 2; moderate extent
+
+SOIL SURVEY REGIONAL OFFICE (SSRO) RESPONSIBLE: Portland, Oregon
+
+SERIES ESTABLISHED: Lane County Area, Oregon; 1981
+
+REMARKS:
+Diagnostic horizons and other features in this pedon
+*Particle-size control section--zone from 18 to 68 cm
+*Ochric epipedon
+*Argillic horizon--zone from 18 to 122 cm
+*Aquic conditions--zone from 5 to 152 cm
+*Depth to abrupt textural change--18 cm
+*Depth to lithologic discontinuity--18 cm
+*Slickensides--zone from 18 to 74 cm
+
+The Awbrig soils are on the Winkle geomorphic surface in the Willamette Valley of Oregon. The lithologic discontinuity represents a change in parent material from alluvium deposited by the Willamette River and its tributaries to Missoula Flood sediment.
+
+8/2017--This official series description was updated according to SSR01 Technical Note 11--Content and Format of Official Series Descriptions (revised 11/2017). Most of the changes were in formatting. The competing series were updated, and the classification was updated from Vertic Albaqualfs to Chromic Vertic Albaqualfs. The high value of the Ap horizon when dry meets the criteria for Chromic Vertic Albaqualfs in the twelfth edition of the Keys to Soil Taxonomy.
+
+ADDITIONAL DATA:
+Characterization data--pedon number S65-Oreg-20-1, Oregon State University, unpublished; soil survey sample number S99OR-043-004, Kellogg Soil Survey Laboratory
+
+National Cooperative Soil Survey
+U.S.A.

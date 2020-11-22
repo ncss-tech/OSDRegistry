@@ -1,0 +1,166 @@
+LOCATION FRIZZELCREEK           OR
+
+Established Series
+IRD. JLW/DAL/RWL/KMS
+01/2019
+
+FRIZZELCREEK SERIES
+
+Landscape--mountains
+Landform- mountain slopes
+Slope--15 to 30 percent
+Parent material--thick mantle of volcanic ash mixed with loess over residuum derived from granite and granodiorite
+Mean annual precipitation--about 770 mm
+Mean annual air temperature--about 4 degrees C
+Depth class--moderately deep to paralithic contact
+Drainage class--well drained
+Soil moisture regime--xeric
+Soil temperature regime--frigid
+Soil moisture subclass--typic
+
+TAXONOMIC CLASS: Coarse-loamy, isotic Andic Humicryepts
+
+TYPICAL PEDON: Fourthcreek ashy silt loam in an area of woodland, on a 15-percent, convex, northeast-facing slope at an elevation of 1463 m
+
+ Oi--0 to 3 cm; needles
+
+ Oe--3 to 5 cm; decomposed organic matter
+
+ A--5 to 10 cm; ashy silt loam, grayish brown (10YR 5/2) dry, very dark grayish brown (10YR 3/2) moist; weak medium subangular blocky structure parting to weak very fine and fine subangular blocky; soft, very friable, nonsticky and nonplastic; few fine and common medium roots; common fine irregular pores; slightly acid (pH 6.5); clear wavy boundary
+
+ Bw1--10 to 28 cm; ashy silt loam, very pale brown (10YR 7/4) dry, yellowish brown (10YR 5/4) moist; weak fine and medium subangular blocky structure; soft, very friable, nonsticky and nonplastic; common fine and medium and few coarse roots; few fine irregular pores; slightly acid (pH 6.5); clear wavy boundary
+
+ Bw2--28 to 53 cm; ashy silt loam, very pale brown (10YR 7/4) dry, yellowish brown (10YR 5/6) moist; massive parting to weak very fine subangular blocky structure; loose, very friable, nonsticky and nonplastic; common fine, many medium, and few coarse roots; few fine tubular pores; slightly acid (pH 6.5); clear wavy boundary
+
+ 2EBb--53 to 71 cm; sandy loam, light gray (2.5Y 7/2) dry, olive brown (2.5Y 4/4) moist; weak fine subangular blocky structure; soft, very friable, nonsticky and nonplastic; few fine and medium roots; few fine tubular pores; slightly acid (pH 6.5); gradual smooth boundary
+
+ 2Bwb--71 to 97 cm; sandy loam, light gray (2.5Y 7/2) dry, olive brown (2.5Y 4/4) moist; weak fine subangular blocky structure; soft, friable, nonsticky and nonplastic; few fine roots; 5 percent gravel; slightly acid (pH 6.5); clear smooth boundary
+
+ 2Cr--97 to 104 cm; granitic grus
+
+ 2R--104 cm; hard granodiorite
+
+TYPE LOCATION: Baker County, Oregon; in the NE1/4SW1/4SW1/4 of section 16, T. 10 S., R. 37 E.; Sumpter U.S. Geological Survey quadrangle; longitude -118.1915194, latitude 44.6893493, datum WGS 84 (coordinates estimated from PLSS details)
+
+RANGE IN CHARACTERISTICS:
+Mean annual soil temperature--5 to 6 degrees C
+Mean summer soil temperature--9 to 11 degrees C
+Mean winter soil temperature--1 to 2 degrees C
+Soil moisture control section--dry 45 to 60 days in summer
+Depth to paralithic contact--50 to 100 cm
+Depth to lithic contact--60 to 110 cm
+Thickness of ash-influenced layers--40 to 75 cm
+
+Estimated properties of layers influenced by volcanic ash
+*Ammonium oxalate extractable Al + 1/2 Fe--1.0 to 2.5 percent
+*0.02- to 2.0-mm fraction--40 to 60 percent
+*Glass content in 0.02- to 2.0-mm fraction--60 to 90 percent
+*1/3-bar bulk density--0.65 to 1.0 g/cm3
+*Phosphate retention--40 to 90 percent
+*15-bar water retention--5 to 12 percent (dried samples)
+*8 x Si plus 2 x Fe--5 to 12 percent
+
+Particle-size control section
+*Ashy upper part--40 to 50 cm thick; 3 to 8 percent clay (weighted average); 0 percent rock fragments
+*Loamy lower part--10 to 50 cm thick; 1 to 10 percent clay (weighted average); 3 to 25 percent rock fragments (weighted average)
+
+A horizon
+Moist color--10YR 3/2, 10YR 3/4, 10YR 4/2, 10YR 4/3, 10YR 5/2
+Dry color--10YR 5/2, 10YR 5/4, 10YR 6/2, 10YR 6/4, 10YR 7/2
+Fine-earth texture--ashy sandy loam, ashy silt loam
+Clay content--4 to 10 percent
+Sand content--35 to 65 percent
+Organic matter content--2 to 6 percent
+Reaction--5.6 to 7.3
+Thickness--5 to 25 cm
+
+Bw1 horizon
+Moist color--10YR 4/4, 10YR 5/3, 10YR 5/4
+Dry color--10YR 6/4, 10YR 7/2, 10YR 7/3, 10YR 7/4
+Fine-earth texture--ashy sandy loam, ashy silt loam
+Clay content--3 to 10 percent
+Sand content--35 to 65 percent
+Organic matter content--1 to 2 percent
+Reaction--5.6 to 6.5
+Thickness--8 to 30 cm
+
+Bw2 horizon
+Moist color--10YR 5/3, 10YR 5/4, 10YR 5/6
+Dry color--10YR 7/3, 10YR 7/4, 10YR 8/3, 10YR 8/4
+Fine-earth texture--ashy sandy loam, ashy silt loam
+Clay content--2 to 3 percent
+Sand content--45 to 65 percent
+Organic matter content--0.5 to 1.5 percent
+Reaction--5.6 to 7.3
+Thickness--5 to 25 cm
+
+2EBb horizon
+Moist color--2.5Y 4/4, 2.5Y 5/2, 10YR 3/3, 10YR 5/3
+Dry color--2.5Y 7/2, 10YR 5/3, 10YR 7/3
+Fine-earth texture--loamy sand, sandy loam
+Clay content--2 to 10 percent
+Sand content--60 to 85 percent
+Organic matter content--1 to 2 percent
+Total rock fragment content--0 to 25 percent
+Gravel content--0 to 25 percent
+Cobble content--0 to 5 percent
+Reaction--5.6 to 7.3
+Thickness--13 to 20 cm
+
+2Bwb horizon
+Moist color--2.5Y 4/4, 2.5Y 5/2, 10YR 5/2
+Dry color--2.5Y 7/2
+Fine-earth texture--loamy sand, sandy loam
+Clay content--0 to 4 percent
+Sand content--60 to 80 percent
+Organic matter content--0.5 to 1.5 percent
+Total rock fragment content--5 to 20 percent
+Gravel content--5 to 15 percent
+Cobble content--0 to 10 percent
+Reaction--5.6 to 7.3
+Thickness--13 to 40
+
+2Cr horizon
+Thickness--7 to 20 cm
+
+COMPETING SERIES: None
+
+GEOGRAPHIC SETTING:
+Elevation--1450 to 1840 m
+Climate--cool, wet winters; warm, moist summers
+Mean annual precipitation--610 to 930 mm
+Mean annual air temperature--3 to 5 degrees C
+Frost-free period--35 to 65 days
+
+GEOGRAPHICALLY ASSOCIATED SOILS:
+Roundmeadow--on steeper slopes; 50 to 100 cm to paralithic contact; ash layer less than 35 cm thick
+
+DRAINAGE AND SATURATED HYDRAULIC CONDUCTIVITY:
+Saturation during normal years--none
+Flooding--none
+Ponding--none
+Saturated hydraulic conductivity (Ksat)--high
+
+USE AND VEGETATION:
+Use--timber production, watershed, recreation, wildlife habitat
+Native vegetation--grand fir, Douglas-fir, western larch, Engelmann spruce, big huckleberry, pathfinder, pinegrass, heartleaf arnica, smallflower miterwort, largeleaf sandwort, sidebells wintergreen, baldhip rose, western meadow-rue, Columbia brome, elk sedge, Ross' sedge, woodland strawberry, sweetcicely, currant, white spirea
+U.S. Forest Service plant association--dominantly ABGR/VAME; may include PICO(ABGR)/VASC and ABGR/VASC
+
+DISTRIBUTION AND EXTENT: Blue Mountains of northeastern Oregon; MLRA 43C; small extent
+
+SOIL SURVEY REGIONAL OFFICE (SSRO) RESPONSIBLE: Portland, Oregon
+
+SERIES ESTABLISHED: Wallowa-Whitman National Forest, Oregon; 2018
+
+REMARKS:
+Diagnostic horizons and other features recognized in this pedon
+*Ochric epipedon
+*Cambic horizon--zone from 10 to 97 cm
+*Volcanic glass--zone from 5 to 53 cm
+*Andic soil properties--zone from 5 to 53 cm
+*Particle-size control section--zone from 5 to 97 cm
+*Depth to paralithic contact--97 cm
+*Depth to lithic contact--104 cm
+
+National Cooperative Soil Survey
+U.S.A.

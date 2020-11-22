@@ -1,0 +1,135 @@
+LOCATION GEIKIE                 AK
+
+Tentative Series
+IRD. DKM/NDP/SCD
+05/2020
+
+GEIKIE SERIES
+
+Landscape--outwash plains
+Landform--outwash deltas
+Slope--0 to 15 percent
+Parent material--outwash
+Mean annual precipitation--about 1400 mm
+Mean annual air temperature--about 5 degrees C
+Depth class--very deep
+Drainage class--well drained
+Soil moisture regime--udic
+Soil temperature regime--cryic
+Soil moisture subclass--typic
+
+TAXONOMIC CLASS: Coarse-loamy over sandy or sandy-skeletal, mixed, superactive Typic Haplocryepts
+
+TYPICAL PEDON: Geikie loam on an outwash delta, on a slope of 1 percent at an elevation of 19 m (When described on August 2, 2014, the soil was moist throughout.)
+
+ A--0 to 7 cm; loam, brown (10YR 5/3) dry, dark brown (10YR 3/3) moist; 5 percent fine strong brown (7.5YR 5/6) mottles; strong medium granular structure; soft, very friable, slightly sticky and slightly plastic; common very fine, fine, and medium roots throughout; common very fine and fine irregular pores; strongly acid (pH 5.3); clear smooth boundary
+
+ Bw--7 to 32 cm; loam, light olive brown (2.5Y 5/3) dry, dark olive brown (2.5Y 3/3) moist; moderate fine subangular blocky structure; slightly hard, friable, slightly sticky and slightly plastic; common very fine, fine, medium, and coarse roots; common very fine and fine irregular pores; strongly acid (pH 5.5); clear smooth boundary
+
+ C--32 to 48 cm; silt loam, pale yellow (2.5Y 8/3) dry, light yellowish brown (2.5Y 6/3) moist; moderate medium subangular blocky structure; moderately hard, firm, slightly sticky and slightly plastic; common medium and fine roots; common very fine and fine irregular pores; moderately acid (pH 5.6); clear smooth boundary
+
+ 2C1--48 to 120 cm; variegated sand; massive; soft, very friable, nonsticky and nonplastic; few very fine and fine irregular pores; 5 percent gravel; strongly effervescent; strongly alkaline (pH 8.5); gradual wavy boundary
+
+ 2C2--120 to 150 cm; variegated gravelly sand; single grain; loose, nonsticky and nonplastic; few very fine irregular pores; 25 percent gravel; violently effervescent; strongly alkaline (pH 8.6)
+
+TYPE LOCATION: Glacier Bay National Park and Preserve-Gustavus Area, Alaska; Hoonah-Angoon Census Area; latitude 58.4132791, longitude -135.7280414, datum WGS84 (coordinates determined by a GPS unit)
+
+RANGE IN CHARACTERISTICS:
+Mean annual soil temperature--1 to 7 degrees C
+Soil moisture control section--dry less than 45 consecutive days in June through October (udic)
+Other features--free carbonates
+
+Particle-size control section
+*Clay content--0 to 20 percent
+*Total rock fragment content--0 to 45 percent
+
+A horizon
+Value--3 to 5 moist, 5 to 7 dry
+Chroma--3 to 6 moist or dry
+Fine-earth texture--loam, silt loam
+Clay content--8 to 12 percent
+Reaction (pH)--5.3 to 5.8
+Thickness--5 to 15 cm
+
+Bw horizon
+Hue--10YR to 5Y moist or dry
+Value--3 to 5 moist, 5 to 6 dry
+Chroma--3 to 6 moist or dry
+Fine-earth texture--loam, silt loam
+Clay content--8 to 15 percent
+Reaction (pH)--5.3 to 6.2
+Thickness--15 to 45 cm
+
+C horizon
+Hue--10YR to 5Y moist or dry; variegated
+Value--3 to 6 moist, 5 to 7 dry
+Chroma--3 to 6 moist or dry
+Fine-earth texture--silt loam, loam
+Clay content--12 to 20 percent
+Reaction (pH)--5.5 to 7.0
+Thickness--15 to 45 cm
+
+2C1 horizon
+Hue--10YR to 5Y moist or dry, variegated
+Value--3 to 5 moist, 5 to 7 dry
+Chroma--3 to 6 moist or dry
+Fine-earth texture--sand, fine sand
+Clay content--0 to 2 percent
+Gravel content--0 to 10 percent
+Reaction (pH)--7.0 to 8.7
+Thickness--60 to 90 cm
+
+2C2 horizon
+Hue--10YR to 5Y moist or dry, variegated
+Value--3 to 5 moist, 5 to 7 dry
+Chroma--3 to 6 moist or dry
+Fine-earth texture--sand, coarse sand, fine sand
+Clay content--0 to 2 percent
+Gravel content--15 to 35 percent
+Reaction (pH)--7.0 to 8.7
+Thickness--20 to 40 cm
+
+COMPETING SERIES:
+Lupine--pH of 5.6 to 6.0 throughout particle-size control section; no free carbonates
+Maclaren--pH of 5.6 to 6.5 throughout particle-size control section; no free carbonates
+Sawmill Creek--60 to 90 percent rock fragments in lower part of particle-size control section
+
+GEOGRAPHIC SETTING:
+Elevation--1 to 45 m
+Climate--cool, moist summers; mild, wet winters
+Mean annual precipitation--850 to 1850 mm
+Mean annual air temperature--1 to 9 degrees C
+Frost-free period--90 to 154 days
+
+GEOGRAPHICALLY ASSOCIATED SOILS:
+Bartlettcove--spodic horizon; on adjacent landforms
+Gustavus--100 to 150 cm (well drained) to aquic conditions; on similar landforms
+Ibach--umbric epipedon; on adjacent landforms
+Lamplugh, Perouse--saturation and aquic conditions within 25 cm of soil surface; on similar landforms
+Scidmore--redoximorphic features within 25 cm of soil surface; on similar landforms
+
+DRAINAGE AND SATURATED HYDRAULIC CONDUCTIVITY:
+Drainage class--well drained
+Depth to saturation in normal years--more than 150 cm year round
+Saturated hydraulic conductivity (Ksat)--high in A and Bw horizons, moderately high in C horizon, very high in 2C horizon
+
+USE AND VEGETATION:
+Use--wildlife habitat, recreation
+Potential natural vegetation--Sitka alder, rattlesnake plantain, splendid feather moss, heartleaf twayblade, sidebells wintergreen, Schreber's big red stem moss, Alaska huckleberry, Sitka spruce, western hemlock
+
+DISTRIBUTION AND EXTENT: Alexander Archipelago-Gulf of Alaska Coast, Alaska; MLRA 220; moderate extent
+
+SOIL SURVEY REGIONAL OFFICE (SSRO) RESPONSIBLE: Portland, Oregon
+
+SERIES PROPOSED: Glacier Bay National Park and Preserve-Gustavus Area, Alaska; 2020; name from Geikie Inlet in Glacier Bay National Park and Preserve
+
+REMARKS:
+Diagnostic horizons and other features in this pedon
+*Ochric epipedon
+*Cambic horizon--zone from 7 to 32 cm
+*Free carbonates--zone from 48 to 150 cm
+*Lithologic discontinuity--zone from 48 to 150 cm
+*Particle-size control section--zone from 25 to 100 cm
+
+National Cooperative Soil Survey
+U.S.A.

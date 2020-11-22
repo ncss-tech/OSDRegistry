@@ -1,0 +1,100 @@
+LOCATION WAITS                  WA+MT
+
+Established Series
+Rev. NCD/BDG/RJS
+01/2016
+
+WAITS SERIES
+
+The Waits series consists of very deep, well drained soils that formed in calcareous glacial till with a mantle of volcanic ash and loess. These soils are on moraines and have slopes of 0 to 65 percent. The mean annual precipitation is about 700 mm, and the mean annual temperature is about 6.7 degrees C.
+
+TAXONOMIC CLASS: Coarse-loamy, mixed, superactive, frigid Vitrandic Haploxerepts 
+
+TYPICAL PEDON: Waits ashy loam - forested. (Colors are for dry soil unless otherwise noted.)
+
+    Oe--0 to 4 cm; loose, partially decomposed organic litter composed of needles, leaves, and twigs; slightly acid (pH 6.2); abrupt smooth boundary. (3 to 10 cm thick)
+
+    E--4 to 5 cm; light gray (10YR 7/2) ashy very fine sandy loam, grayish brown (10YR 5/2) moist; weak very fine granular structure; soft, very friable, nonsticky and nonplastic; neutral (pH 6.8); abrupt wavy boundary. (.3 to 3 cm thick)
+
+    Bw1--5 to 22 cm; light brown (7.5YR 6/4) ashy loam, brown (7.5YR 4/4) moist; weak medium subangular blocky structure; soft, very friable, slightly sticky and slightly plastic; many fine and medium, and few coarse roots; many fine pores; 5 percent gravel; neutral (pH 7.2); clear wavy boundary. (15 to 25 cm thick)
+
+    Bw2--22 to 47 cm; light brown (7.5YR 6/4) ashy loam, brown (7.5YR 4/4) moist; weak medium subangular blocky structure; soft, very friable, slightly sticky and slightly plastic; many fine and medium, and few coarse roots; many fine pores; 10 percent gravel; neutral (pH 7.2); clear wavy boundary. (15 to 30 cm thick)
+
+    2BC--47 to 62 cm; pale brown (10YR 6/3) gravelly loam, brown (10YR 4/3) moist; weak medium subangular blocky structure; slightly hard, very friable, slightly sticky and slightly plastic; many fine and medium, and few coarse roots; many fine pores; 15 percent gravel; strongly effervescent; moderately alkaline (pH 8.2); clear wavy boundary. (10 to 28 cm thick)
+
+    2C1--62 to 95 cm; light gray (2.5Y 7/2) gravelly loam, light olive brown (2.5Y 5/4) moist; massive; hard, friable, slightly sticky and slightly plastic; common fine and medium, and few coarse roots; common fine pores; 20 percent gravel; strongly effervescent; moderately alkaline (pH 8.2); clear wavy boundary. (25 to 38 cm thick)
+
+    2C2--95 to 152 cm; light gray (2.5Y 7/2) gravelly loam, light olive brown (2.5Y 5/4) moist; massive; very hard, firm, slightly sticky and slightly plastic; few fine and medium roots; few fine pores; 25 percent gravel; strongly effervescent; moderately alkaline (pH 8.2)
+
+TYPE LOCATION: Stevens County, Washington; about 4 miles NW of Colville; 1,300 feet (395 m) north and 1,300 feet (395 m) east of the southwest corner of section 20, T. 36 N., R. 40 E., WM.
+
+RANGE IN CHARACTERISTICS: 
+Moisture regime - xeric (These soils are usually moist but are dry in all parts between depths of 10 and 30 cm from 45 to 60 consecutive days following the summer solstice.) 
+Mean annual soil temperature - 6.7 to 7.8 degrees C. 
+Vitrandic material*
+ *Thickness - 18 to 45 cm
+ * 30 to 60 percent volcanic glass
+ *acid-oxalate extractable aluminum plus one-half of the acid-oxalate extractable iron - 0.4 to 1.0 percent
+ *15-bar water retention of less than 12 percent (air dried samples)
+
+E horizon
+Value - 6 or 7 dry, 4 or 5 moist
+Chroma - 1 or 2 dry or moist
+
+Bw1, Bw2 horizons
+Hue - 10YR or 7.5YR dry or moist
+Value - 5 to 7 dry, 3 or 4 moist
+Chroma - 3 or 4 dry or moist
+Texture - ashy very fine sandy loam, ashy loam, or ashy silt loam
+Rock fragment content - gravel 5 to 15 percent; cobbles and stones 0 to 5 percent
+Reaction - 6.6 to 7.8
+
+2BC horizon
+Value - 6 or 7 dry, 4 or 5 moist
+Chroma - 3 or 4 dry or moist
+Texture - loam or sandy loam
+Rock fragment content - gravel 15 to 30 percent; cobbles and stones 0 to 5 percent 
+Reaction - 7.6 to 8.4
+
+2C1, 2C2 horizons
+Value - 6 or 7 dry, 4 or 5 moist
+Chroma - 2 or 4 dry or moist
+Texture - loam or sandy loam 
+Rock fragment content - gravel 15 to 32 percent; cobbles and stones 0 to 5 percent
+Reaction - 7.6 to 8.4
+
+COMPETING SERIES: 
+Leadpoint (WA) - moderately deep to a paralithic contact
+
+GEOGRAPHIC SETTING: 
+Landforms - moraines 
+Elevations - 610 to 1,245 meters
+Slopes - 0 to 65 percent
+Parent material - formed in calcareous glacial till with a mantle of volcanic ash and loess
+Climate - warm, dry summers and cool, moist winters
+Mean annual precipitation - 500 to 900 mm
+Mean January temperature - about -5.0 degrees C.
+Mean July temperature - about 18.9 degrees C.
+Mean annual air temperature - 6.1 to 7.2 degrees C.  
+Frost-free season - 90 to 115 days
+
+GEOGRAPHICALLY ASSOCIATED SOILS: These are the Ahren, Belzar, Bonner, Donavan, Eloika, Nevine, Smackout, and the competing Aits soils. Ahren and Smackout soils are fine-loamy. Belzar and Nevine soils are loamy-skeletal. Bonner soils are coarse-loamy over sandy or sandy-skeletal. Donavan soils have a mollic epipedon and a mesic soil temperature regime. Eloika soils are medial over loamy and a mesic soil temperature regime.
+
+DRAINAGE AND SATURATED HYDRAULIC CONDUCTIVITY: Well drained; slow to very rapid runoff; moderate saturated hydraulic conductivity.
+
+USE AND VEGETATION: Mostly timber with cleared areas used for hay, pasture, and grain. Native vegetation is Douglas-fir, lodgepole pine, western larch, grand fir, quaking aspen, Rocky Mountain maple, kinnikinnick, strawberry, redstem ceanothus, pinegrass, wild rose, hazelnut, Oregon-grape, and mallow ninebark.
+
+DISTRIBUTION AND EXTENT: Northeastern Washington and Northwestern Montana. The series is of moderate extent. MLRAs - 43A, 44A
+
+MLRA SOIL SURVEY REGIONAL OFFICE (MO) RESPONSIBLE: Bozeman, Montana
+
+SERIES ESTABLISHED: Stevens County, Washington, l913.
+
+REMARKS: Diagnostic horizons and features recognized in this pedon:
+Ochric epipedon - from 0 to 5 cm (Oe, E horizons)
+Vitrandic feature - from 4 to 47 cm (E, Bw1, Bw2)
+Cambic horizon - from 5 to 62 cm (Bw1, Bw2, 2BC horizons)
+Particle size control section - from 29 to 104 cm (part of Bw2, 2BC, 2C1, part of 2C2 horizons)
+
+National Cooperative Soil Survey
+U.S.A.

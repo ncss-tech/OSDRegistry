@@ -1,0 +1,144 @@
+LOCATION MITLAK                 AK
+
+Established Series
+SAS/TJR
+03/2019
+
+MITLAK SERIES
+
+Landscape--mountains, mountain valleys
+Landform--mountain slopes, drift plains
+Slope--5 to 35 percent
+Parent material--colluvium influenced by volcanic ash over drift
+Mean annual precipitation--about 1100 mm
+Mean annual air temperature--about 1 degree C
+Depth class--very deep
+Drainage class--somewhat poorly drained
+Soil moisture regime--aquic
+Soil temperature regime--cryic
+Soil moisture subclass--typic
+
+TAXONOMIC CLASS: Medial over loamy, ferrihydritic over isotic, nonacid Typic Cryaquands
+
+TYPICAL PEDON: Mitlak medial silt on an east-facing, linear and concave plain, on a slope of 20 percent at an elevation of 74 m (When described on August 8, 2013, the soil was moist to a depth of 39 cm, saturated between depths of 39 and 50 cm, and moist throughout the rest of the profile.)
+
+ Oe--0 to 5 cm; moderately decomposed plant material; nonsticky and nonplastic; common very fine, fine, and very coarse roots; extremely acid (pH 4.4); clear smooth boundary
+
+ A--5 to 11 cm; medial silt, dark reddish gray (5YR 4/2) dry, dark reddish brown (5YR 2.5/2) moist; weak medium granular structure; soft, very friable, nonsticky and nonplastic; common fine and many very fine roots; extremely acid (pH 4.0); clear smooth boundary
+
+ Bhs1--11 to 30 cm; medial silt, 60 percent dark gray (5YR 4/1) dry, black (5YR 2.5/1) moist, and 40 percent dark gray (2.5Y 4/1) dry, black (2.5Y 2.5/1) moist; weak thick platy structure; slightly hard, friable, nonsticky and nonplastic; common very fine roots; extremely acid (pH 4.3); clear smooth boundary
+
+ Bhs2--30 to 50 cm; medial silt, dark reddish gray (5YR 4/2) dry, dark reddish brown (5YR 2.5/2) moist; massive; slightly hard, friable, nonsticky and nonplastic; common very fine roots; 3 percent gravel; moderately acid (pH 5.9); clear smooth boundary
+
+ 2Cg--50 to 150 cm; gravelly silt loam, pale brown (10YR 6/3) dry, brown (10YR 4/3) moist; massive; soft, very friable, moderately sticky and nonplastic; common very fine and fine roots; 3 percent coarse iron concentrations, yellowish red (5YR 5/6) moist, clear boundaries, and 15 percent coarse iron depletions, light olive brown (2.5Y 5/3) moist; 30 percent gravel; neutral (pH 7.0)
+
+TYPE LOCATION: Dillingham Census Area, Alaska, about 45 km west-southwest of the city of Dillingham; latitude 59.2079939 degrees north, longitude 159.1680593 degrees west, datum WGS 84 (coordinates determined with a GPS)
+
+RANGE IN CHARACTERISTICS:
+Mean annual soil temperature--0 to 3 degrees C
+Soil moisture control section--saturated in some part more than two consecutive weeks in June through October (aquic moisture regime)
+Depth to aquic conditions--within 50 cm of the mineral soil surface
+Other features--lithologic discontinuity
+
+Layers influenced by volcanic ash
+*Thickness--36 to 65 cm
+*Phosphorous retention--70 to 100 percent
+*Bulk density--0.45 to 0.9 g/cm3
+*Ammonium oxalate Al plus 1/2 Fe--2 to 6 percent
+*Ammonium oxalate Si--0.2 to 0.5
+*Ammonium oxalate Fe--0.9 to 2.0
+*Volcanic glass content--5 to 50 percent
+
+Particle-size control section
+*Clay content--5 to 20 percent
+*Sand content--25 to 65 percent
+*Total rock fragment content--0 to 30 percent
+
+Oe horizon
+Thickness--2 to 14 cm
+
+A horizon
+Hue--7.5YR, 5YR
+Value--2.5 moist, 4 or 5 dry
+Chroma--1 or 2 moist
+Fine-earth texture--medial silt loam, medial silt
+Clay content--5 to 12 percent
+Reaction--3.5 to 4.5
+Gravel content--0 to 5 percent
+Thickness--2 to 15 cm
+Bulk density--0.45 to 0.90 g/cm3
+Phosphorous retention--70 to 100 percent
+Volcanic glass content--10 to 50 percent
+
+Bhs horizon
+Hue--2.5YR, 5YR, 7.5YR
+Value--2.5 to 4 moist, 4 to 6 dry
+Chroma--1 to 4 moist
+Fine-earth texture--medial silt loam, medial silt
+Clay content--5 to 12 percent
+Reaction--4.0 to 5.9
+Total rock fragment content--0 to 20 percent
+Gravel content--0 to 20 percent
+Cobble content--0 to 10 percent
+Combined thickness--10 to 50 cm
+Organic carbon content--5 to 15 percent
+Bulk density--0.5 to 0.9 g/cm3
+Phosphorous retention--70 to 100 percent
+Volcanic glass content--5 to 40 percent
+Ammonium oxalate Al plus 1/2 Fe--2 to 6 percent
+
+2Cg horizon
+Value--3 or 4 moist, 5 or 6 dry
+Chroma--3 or 4 moist
+Fine-earth texture--silt loam, sandy loam
+Clay content--5 to 20 percent
+Reaction--5.5 to 7.0
+Total rock fragment content--0 to 30 percent
+Gravel content--0 to 30 percent
+Cobble content--0 to 15 percent
+Sodium fluoride pH--8.4 to 11.6
+Ratio of 1500 kPa water to measured clay--0.6 to 6.0
+Thickness--more than 46 cm
+
+COMPETING SERIES: None
+
+GEOGRAPHIC SETTING:
+Elevation--10 to 300 m
+Climate--warm, moist summers; cold, moist winters
+Mean annual precipitation--640 to 1900 mm
+Mean annual air temperature-- -1.9 to 1.8 degrees C
+Frost-free period--80 to 140 days
+
+GEOGRAPHICALLY ASSOCIATED SOILS:
+Klak--no aquic conditions; mountain slopes
+Nagugun--no aquic conditions; glaciated plains
+Kwethluk--no aquic conditions; cambic horizon; outwash terraces and glaciated plains
+Narogurum--occasional ponding; aquic conditions throughout; no andic soil properties; dips of plains
+Kashaiak--shallow to lithic bedrock; no andic soil properties; no aquic conditions; mountain slopes
+
+DRAINAGE AND SATURATED HYDRAULIC CONDUCTIVITY:
+Drainage class--somewhat poorly drained
+Saturation in normal years--below a depth of 0 to 25 cm in April, below a depth of 27 to 64 cm throughout the rest of the year
+Saturated hydraulic conductivity (Ksat)--moderately high or high throughout the profile
+
+USE AND VEGETATION:
+Use--wildlife habitat, recreation, subsistence
+Potential natural vegetation--Sitka alder, common ladyfern, bluejoint, spreading woodfern, claspleaf twistedstalk, green false hellebore
+
+DISTRIBUTION AND EXTENT: Ahklun Mountains, Alaska; MLRA 237; moderate extent
+
+SOIL SURVEY REGIONAL OFFICE (SSRO) RESPONSIBLE: Portland, Oregon
+
+SERIES ESTABLISHED: Togiak National Wildlife Refuge, Dillingham Census Area, Alaska; 2019
+
+REMARKS:
+Diagnostic horizons and other features in this pedon
+*Particle-size control section--zone from 5 to 105 cm
+*Umbric epipedon--A and Bhs horizons
+*Andic soil properties-- A and Bhs horizons
+*Redoximorphic iron concentrations, redoximorphic depletions, aquic conditions--2Cg horizon
+
+See laboratory pedon number 13N44525, layer 13N04798, for a Bhs horizon that has ferrihydritic mineralogy.
+
+National Cooperative Soil Survey
+U.S.A.

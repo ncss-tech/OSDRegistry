@@ -1,0 +1,137 @@
+LOCATION VERLAND                TX
+
+Established Series
+Rev. LCB-KBH-AKS
+07/2019
+
+VERLAND SERIES
+
+The Verland series consists of very deep, somewhat poorly drained, very slowly permeable soils.  These nearly level to very gently sloping soils formed in clayey and loamy sediments of the Beaumont Formation of Pleistocene age.  Slopes range from 0 to 3 percent.
+
+TAXONOMIC CLASS: Fine, smectitic, hyperthermic Oxyaquic Vertic Hapludalfs
+
+TYPICAL PEDON: Verland silty clay loam--pasture. (Colors are for moist soil unless otherwise stated.)
+
+    A--0 to 15 cm (0 to 6 in); dark gray (10YR 4/1) silty clay loam, gray (10YR 5/1) dry; weak medium subangular blocky structure; hard, firm, slightly sticky and slightly plastic; common fine roots; common fine pores; few worm casts; few strong brown organic stains; slightly acid; clear smooth boundary. (8 to 41 cm [3 to 16 in])
+
+    Bt1--15 to 76 cm (6 to 30 in); gray (10YR 5/1) clay, gray (10YR 6/1) dry; moderate medium subangular blocky structure; very hard, very firm, very sticky and plastic; few fine roots; common fine distinct yellowish brown (10YR 5/6) and few fine distinct brown (10YR 5/3) iron concentrations; few pressure surfaces; thin clay films on surfaces of peds; few dark concretions 2 to 5mm across; few brown organic stains; moderately acid; gradual smooth boundary. (15 to 102 cm [6 to 40 in])
+
+    Bt2--76 to 132 cm (30 to 52 in); gray (10YR 6/1) clay, light gray (10YR 7/1) dry; moderate medium subangular blocky structure; very hard, very firm, very sticky and plastic; few fine roots; few fine distinct dark gray (10YR 4/1) and common fine distinct yellowish brown (10YR 5/6) redox features; few pressure surfaces; few medium pitted concretions of calcium carbonate 5 to 10 mm across; thin clay films on surfaces of peds slightly alkaline; gradual wavy boundary. Combined thickness of lower Bt's (20 to 152 cm [8 to 60 in])
+
+    Bt3--132 to 152 cm (52 to 60 in); gray (5Y 6/1) clay, light gray (5Y 7/1) dry; moderate fine blocky structure; very hard, very firm, very sticky and plastic; few fine roots; common fine distinct yellowish brown (10YR 5/6) iron concentrations; few medium dark concretions; 10 to 20 mm across; thin clay films on surfaces of peds; moderately alkaline.
+
+TYPE LOCATION: Galveston County, Texas; from Interstate 45 in Dickinson, 1.0 mile west on Farm Road 517, 750 feet south of Farm Road 646, and 50 feet east in pasture.
+
+USGS topographic quadrangle: Dickinson, TX
+Latitude: N 29 26 23.50
+Longitude: W 95 5 31.47
+
+Decimal Degrees: 
+Std Latitude: 29.4398613
+Std Longitude: -95.0920715
+Datum: WGS84
+
+UTM Easting: 29.7077.17
+UTM Northing 3258541.44
+UTM Zone: 15
+
+RANGE IN CHARACTERISTICS:
+Thickness of the solum is more than 203 cm (80 in).
+COLE values are more than 0.09 throughout the B horizon.
+The particle-size control section is 35 to 60 percent clay
+
+A horizon
+Hue: 10YR
+Value: 4 or 5
+Chroma: 1 or 2
+Texture: silty clay loam, loam, sandy clay loam, or clay loam
+Reaction (pH): strongly acid to slightly alkaline. (5.1 to 7.8)
+
+BA horizon (where present) is less than 25 cm (10 in)thick.
+Hue: 10YR or 2.5Y
+Value: 4 to 6
+Chroma: 1 or 2
+Texture: clay loam, silty clay loam, and sandy clay loam
+Redox features in shades of yellow, brown, or gray range from none to common.
+Reaction (pH):  moderately acid to slightly alkaline. (5.6 to 7.8)
+
+Upper Bt horizon
+Hue: 10YR, 2.5Y, or 5Y
+Value: 4 to 6
+Chroma: 1 or 2
+Redox features in shades of yellow, brown, or gray range from few to many.
+Most pedons contain a layer that has few concretions of pitted calcium carbonate in the lower part.  Reaction (pH): moderately acid to moderately alkaline. (5.6 to 8.4)
+Texture: clay, clay loam, silty clay, sandy clay, sandy clay loam, or silty clay loam
+
+Lower Bt horizon
+Texture:  clay, clay loam, silty clay, sandy clay, sandy clay loam, or silty clay loam.
+Slickensides and pressure surfaces occur at 25 to 76 cm (10 to 30 in) below the surface and range from few to common.
+Reaction (pH): moderately acid to moderately alkaline. (5.6 to 8.4)
+
+C horizon, (where present),
+Hue: 10YR or 2.5Y
+Value: 5 to 7
+Chroma: 1 or 2
+Texture: clay, clay loam, silty clay, sandy clay loam, sandy clay, or silty clay loam.
+Redox features in shades of yellow, brown, or red range from none to common.
+Pitted concretions of calcium carbonate range from none to few.
+Reaction (pH): slightly acid to moderately alkaline. (6.1 to 8.4)
+
+COMPETING SERIES: 
+These are the Baldwin and Viterbo series in the same family and the closely similar Dacosta series.
+Baldwin soils: have a lithological discontinuity, are poorly drained, receive more rainfall and formed in Mississippi River alluvial deposits.
+Viterbo soils: receive more rainfall and are more acid.
+Dacosta soils: have a mollic epipedon.
+
+GEOGRAPHIC SETTING:
+Parent material: loamy fluviomarine deposits in the Beaumont Formation of the Pleistocene age
+Landscape: coastal plains
+Landform: flats
+Slope: less than 1 percent, but range from 0 to 3 percent
+Mean annual precipitation: 1016 to 1245 mm (40 to 49 in)
+Precipitation pattern: 
+Mean annual air temperature: 19.4 to 21.1 degrees C (67 to 70 degrees F)
+Frost-free period: 265 to 335 days
+Thornthwaite P-E Index: 56 to 76
+Elevation: 4.6 to 30.5 m (15 to 100 ft)
+
+GEOGRAPHICALLY ASSOCIATED SOILS: 
+These are the Bacliff, Beaumont, Bernard, Edna, and Lake Charles series.
+Bernard soils: have mollic epipedons
+Bacliff, Beaumont, and Lake Charles soils: are clayey throughout.
+Edna soils: have an abrupt texture change between the surface layer and the argillic horizon.
+
+DRAINAGE AND PERMEABILITY:
+Drainage class: Somewhat poorly
+Permeability class: very slow
+Runoff: high on 0 to less than 1 percent slopes and very high on 1 to 3 percent slopes.
+
+USE AND VEGETATION:
+Major uses: pasture or for growing rice and soybeans.
+Native vegetation: tall prairie grasses consisting primarily of Andropogons, Paspalums, switchgrass, and Indiangrass.  Various species of trees have encroached on some areas.
+Ecological sites assigned to phases and components of this series are listed below. Current ecological site assignments are in Web Soil Survey. Components of this series include the following ecological sites: Blackland 
+
+DISTRIBUTION AND EXTENT:
+General area: Upper and middle Gulf Coast Prairies of Texas.  
+Land Resource Region: T- Atlantic and Gulf Coast Lowland Forest and Crop Region.
+Major Land Resource Area: 150A- (Gulf Coast Prairies)
+Extent: moderate
+
+SOIL SURVEY REGIONAL OFFICE (SSRO) RESPONSIBLE: Temple, Texas.
+
+SERIES ESTABLISHED: Galveston County, Texas; 1985. The name is coined.
+
+REMARKS: These soils formerly were included with the Midland series.  Classification changed from Vertic Ochraqualfs to Chromic Vertic Epiaqualfs 11/2000 based on typifying pedon description. Another classification change from Chromic Vertic Epiaqualfs to Oxyaquic Vertic Hapludalfs based on new version of Keys to Soil Taxonomy. Further study and characterization data of the series is needed to verify hydrology and classification.
+
+Diagnostic horizons and features recognized in this pedon are:
+
+Ochric epipedon: 0 to 15 cm (0 to 6 in) (A horizon)
+Argillic Horizon: 15 to 152 cm (6 to 60 in) (Btg horizons)
+Vertic features: COLE more than 0.09 in upper 102 cm (40 in)
+
+ADDITIONAL DATA: none
+
+TAXONOMIC VERSION: Soil Taxonomy, Twelfth Edition, 2014.
+
+National Cooperative Soil Survey
+U.S.A.

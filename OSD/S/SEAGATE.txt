@@ -1,0 +1,151 @@
+LOCATION SEAGATE                NC+SC VA
+
+Established Series
+RAG/Rev. JAK
+02/2008
+
+SEAGATE SERIES
+
+MLRA(s): 153A-Atlantic Coast Flatwoods, 153B-Tidewater Area
+Depth Class: Very deep
+Drainage Class (Agricultural): Moderately well drained or somewhat poorly drained
+Internal Free Water Occurrence: Moderately deep, persistent
+Flooding Frequency and Duration: None
+Ponding Frequency and Duration: None
+Slowest Saturated Hydraulic Conductivity: Moderately high (4.23 to 10.00 micrometers per second)
+Landscape: Lower Coastal plain
+Landform: Marine terraces, flats, flatwoods
+Geomorphic Component: Talfs and dips
+Hillslope Profile Position: Not assigned
+Parent Material: Sandy and loamy marine deposits
+Slope: 0 to 3 percent
+Elevation (type location): 7.6 meters (about 25 feet)
+Frost Free Period (type location): 217 days
+Mean Annual Air Temperature (type location): 17.2 degrees C. (about 63 degrees F.)
+Mean Annual Precipitation (type location): 1350 millimeters (about 53 inches)
+
+TAXONOMIC CLASS: Sandy over loamy, siliceous, active, thermic Typic Haplohumods
+
+TYPICAL PEDON: Seagate fine sand, cultivated. (Colors are for moist soil unless otherwise stated.)
+
+Ap--0 to 20 centimeters (about 0 to 8 inches); dark gray (10YR 4/1) fine sand; single grained; loose; many fine roots; many clean sand grains; slightly acid; abrupt smooth boundary. (8 to 20 centimeters thick, about 3 to 8 inches thick)
+
+E--20 to 30 centimeters (about 8 to 12 inches); light gray (10YR 7/1) fine sand; single grained; loose; few medium roots; moderately acid; clear wavy boundary. (0 to 30 centimeters thick, about 0 to 12 inches)
+
+Bh--30 to 58 centimeters (about 12 to 23 inches); dark brown (7.5YR 3/2) fine sand; massive; friable; many weakly cemented nodules; many sand grains coated with organic matter; few clean sand grains; strongly acid; abrupt irregular boundary. (5 to 65 centimeters thick, about 2 to 25 inches)
+
+BE--58 to 71 centimeters (about 23 to 28 inches); brown (10YR 5/3) fine sand; single grained; loose; few fine weakly cemented concretions; many sand grains coated with organic matter; common clean sand grains; strongly acid; clear wavy boundary. (0 to 25 centimeters thick, about 0 to 10inches)
+
+E'--71 to 91 centimeters (about 28 to 36 inches); light gray (10YR 7/2) fine sand; single grained; loose; few fine and medium brown (10YR 5/3) concretions; moderately acid; clear smooth boundary. (0 to 25 centimeters thick, about 0 to 10 inches)
+
+Bt--91 to 102 centimeters (about 36 to 40 inches); brownish yellow (10YR 6/6) sandy loam; weak medium subangular blocky structure; friable; many medium distinct light gray (10YR 7/2) iron depletions; sand grains are coated and bridged with clay; few faint discontinuous clay films on faces of peds; strongly acid; clear wavy boundary (0 to 20 centimeters thick, about 0 to 8 inches)
+
+Btg--102 to 200 centimeters (about 40 to 78 inches); light gray (10YR 7/1) clay loam; weak medium subangular blocky structure; firm; plastic; sticky; very strongly acid. (12 to 100 centimeters thick, about 5 to 40 inches)
+
+TYPE LOCATION: New Hanover County, North Carolina; 0.4 mile north of junction of North Carolina Highway 132 and U.S. Highway 421, 300 yards west of U.S. Highway 421, 20 feet north of field road; USGS Wilmington, NC topographic quadrangle; lat. 34 degrees 08 minutes 33 seconds N. and long. 77 degrees 53 minutes 50 seconds W., NAD 83.
+
+RANGE IN CHARACTERISTICS:
+Depth to top of spodic horizon: 25 to 50 centimeters (about 10 to 20 inches)
+Depth to loamy horizons: Greater than 50 centimeters (about 20 inches)
+Depth to bedrock: Greater than 200 centimeters (about 78 inches)
+Depth to seasonal high water table: 50 to 75 centimeters (about 20 to 30 inches), November to April (originally, 1.5 to 2.5 feet)
+Thickness of the A and B horizons: 90 to more than 150 centimeters (about 36 to more than 60 inches)
+(Effective) Cation Exchange Capacity: 1 to 5 milliequivalents per 100 grams of soil in the A horizon; 1 to 2 in E horizon; 2 to 7 in the Bh horizon, and 4 to 8 in the Bt horizon
+Shrink-swell potential: Low
+Organic matter content: 0.0 to 0.5 percent in the A and E horizon; 0.5 to 2.0 in the Bh horizon; and 0.0 to 0.2 in the Bt and C horizon
+Soil Reaction: Extremely acid (3.5) to moderately acid (6.0), unless limed
+Other Soil Features: The Bh horizon contains 0 to 50 percent, by volume extremely weakly to moderately cemented nodules
+
+RANGE OF INDIVIDUAL HORIZONS:
+
+Ap or A horizon:
+Color--hue of 10YR or 2.5Y, value of 3 to 6, chroma of 1 to 3
+Texture--sand or fine sand
+Clay content: 0 to 3 percent
+
+E horizon (where present):
+Color--hue of 10YR to 5Y, value of 5 to 8, and chroma of 1 to 3, or is neutral with value of 5 to 8
+Texture--sand or fine sand
+Clay content: 0 to 3 percent
+
+Bh horizon:
+Color--hue of 5YR to 10YR, value of 2 to 5, chroma of 1 to 4
+Texture--sand, fine sand, or loamy fine sand
+Special Features--This horizon is friable to firm, most sand grains are coated with organic materials; clean sand grains range from few to common.
+Clay content: 1 to 5 percent
+
+E' horizon (where present):
+Color--hue of 10YR or 2.5Y, value of 5 to 7, chroma of 1 to 4
+Texture--sand or fine sand
+Redoximorphic features (where present)--iron depletions in shades of brown, yellow, or gray and masses of oxidized iron in shades of red, yellow, or brown
+Clay content: 1 to 3 percent
+
+Bt horizon (where present):
+Color--hue of 10YR or 2.5Y, value of 5 to 7, chroma of 3 to 8
+Texture--sandy loam or sandy clay loam
+Redoximorphic features (where present)--iron depletions in shades of brown, yellow, or gray and masses of oxidized iron in shades of red, yellow, or brown
+Clay content: 10 to 35 percent
+
+Btg horizon:
+Color--hue of 10YR to 5Y, value of 5 to 7, and chroma of 1 or 2, or is neutral with value of 4 to 8
+Texture--sandy clay loam or clay loam
+Clay content: 10 to 35 percent
+Redoximorphic features (where present)--iron depletions in shades of brown, yellow, or gray and masses of oxidized iron in shades of red, yellow, or brown
+
+COMPETING SERIES: None
+
+GEOGRAPHIC SETTING:
+Landscape: Lower Coastal plain
+Landform: Marine terraces, flats, flatwoods
+Geomorphic Component: Talfs and dips
+Hillslope Profile Position: Not assigned
+Parent Material: Sandy and loamy marine deposits
+Slope: 0 to 3 percent
+Elevation (type location): 7.6 meters (about 25 feet)
+Frost Free Period: 190 to 240 days
+Mean Annual Air Temperature (type location): 14.4 to 18.3 degrees C. (about 58 to 65 degrees F.)
+Mean Annual Precipitation (type location): 1015 to 1475 millimeters (about 40 to 58 inches)
+
+GEOGRAPHICALLY ASSOCIATED SOILS:
+Baymeade soils--do not have a continuous spodic horizon; on higher parts of the landscape
+Kureb soils--do not have a continuous spodic horizon and have less than 5 percent fines to a depth of 2 meters; on higher parts of the landscape
+Leon soils--are poorly or very poorly drained, on lower parts of the landscape
+Lynn Haven soils--do not have an underlying argillic horizon and are poorer drained, on lower parts of the landscape
+Mascotte soils--are poorly or very poorly drained, on lower parts of the landscape
+Murville soils--do not have an underlying argillic horizon and are very poorly drained, on lower parts of the landscape
+Olustee soils--are poorly drained, on lower parts of the landscape
+Onslow soils--have thinner sandy surface layers
+Ridgeland soils--do not have underlying loamy B horizons
+
+DRAINAGE AND PERMEABILITY:
+Drainage Class (Agricultural): Moderately well drained or somewhat poorly drained
+Internal Free Water Occurrence: Moderately deep, persistent
+Flooding Frequency and Duration: None
+Ponding Frequency and Duration: None
+Slowest Saturated Hydraulic Conductivity: Moderately high (4.23 to 10.00 micrometers per second)
+
+USE AND VEGETATION:
+Major uses: Woodland or urban development
+Dominant vegetation: Where cultivated--corn, soybeans, peanuts, and blueberries Where wooded--turkey oak, post oak, red oak, longleaf pine, and loblolly pine. Some native understory plants are wax myrtle, pineland threeawn, bushy beard grass, little bluestem, bitter gallberry, large gallberry, and dwarf huckleberry
+
+DISTRIBUTION AND EXTENT:
+Distribution: North Carolina and possibly South Carolina, Georgia, and Florida. Extent: Moderate, about 15,000 acres.
+
+MLRA SOIL SURVEY REGIONAL OFFICE (MO) RESPONSIBLE: Raleigh, North Carolina
+
+SERIES ESTABLISHED: New Hanover County, North Carolina; 1974.
+
+REMARKS: 08/1985. The classification of the Seagate series is revised to comply with the addition of Cation-exchange activity classes in Soil Taxonomy.
+02/2008. Seagate soils typically do not have sufficient organic carbon content in the spodic horizon for classification in the Humod suborder. Additional information is needed to determine the correct taxonomic placement. The most likely classification is Oxyaquic Alorthods; however, the Alorthods great group is being studied and major revision is anticipated. Seagate soils will remain as historically classified until a future investigation can be completed.
+
+Diagnostic horizons and soil characteristics recognized in this pedon:
+Ochric epipedon--the zone from the surface to a depth of 30 centimeters (Ap and E horizons)
+Albic horizon--the zone from 20 to 30 centimeters (E horizon)
+Spodic horizon--the zone between depths of 30 and 58 centimeters (Bh horizon)
+Argillic horizon--the zone between depths of 71 to 168 centimeters (Bt and Btg horizons)
+Series control section--the zone from 0 to 200 centimeters
+
+ADDITIONAL DATA: N.C. State University Soils Department Laboratory Data.
+
+National Cooperative Soil Survey
+U.S.A.

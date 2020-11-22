@@ -1,0 +1,148 @@
+LOCATION BOLOBIN                OR
+
+Established Series
+Rev. RJO/DAL/KMS
+11/2018
+
+BOLOBIN SERIES
+
+Landscape--plateaus, mountains 
+Landform--plateaus, mountain slopes 
+Slope--0 to 60 percent 
+Parent material--thin mantle of mixed volcanic ash and loess over colluvium derived from basalt 
+Mean annual precipitation--about 460 mm 
+Mean annual air temperature--about 6 degrees C 
+Depth class--moderately deep to lithic bedrock 
+Drainage class--well drained 
+Soil moisture regime--xeric 
+Soil temperature regime--frigid 
+Soil moisture subclass--typic
+
+TAXONOMIC CLASS: Fine-loamy, isotic, frigid Vitrandic Argixerolls 
+
+TYPICAL PEDON: Bolobin ashy silt loam, forested, on a 20-percent, south facing slope at an elevation of 1256 m
+
+ Oi--0 to 3 cm; slightly decomposed needles, grasses, and woody debris 
+
+ Oe--3 to 5 cm; moderately decomposed organic matter 
+
+ A--5 to 25 cm; ashy silt loam, brown (10YR 5/3) dry, black (7.5YR 2.5/1) moist; weak fine granular structure; slightly hard, friable, nonsticky and nonplastic; common very fine and fine and few medium roots; common very fine irregular and tubular pores; 5 percent gravel; slightly acid (pH 6.3); clear smooth boundary 
+
+ ABt--25 to 36 cm; ashy silt loam, brown (7.5YR 4/2) dry, black (7.5YR 2.5/1) moist; moderate medium subangular blocky structure parting to weak fine granular; slightly hard, friable, slightly sticky and nonplastic; few faint clay films on ped faces; common very fine and few fine and medium roots; common very fine irregular and tubular pores and few fine tubular pores; 5 percent gravel; slightly acid (pH 6.5); clear smooth boundary
+
+ 2Bt--36 to 79 cm; cobbly silt loam, brown (7.5YR 4/3) dry, dark brown (7.5YR 3/2) moist; moderate medium subangular blocky structure parting to weak fine subangular blocky; hard, firm, moderately sticky and slightly plastic; common faint clay films on ped faces; few fine and medium roots; common very fine irregular and tubular pores; 5 percent gravel and 20 percent cobbles; slightly acid (pH 6.5); abrupt wavy boundary 
+
+ 2R--79 cm; basalt 
+
+TYPE LOCATION: Grant County, Oregon, about 755 m west and 985 m south of the northeast corner of section 14 , T. 9 S., R. 32 E.; latitude 44.7876265, longitude -118.8284725, datum WGS 84 (coordinates determined with a GPS)
+
+RANGE IN CHARACTERISTICS: 
+Mean annual soil temperature--6 to 8 degrees C 
+Soil moisture--dry 60 to 90 consecutive days in summer 
+Thickness of mollic epipedon--50 to 75 cm 
+Depth to lithic contact--50 to 100 cm
+Thickness of ash-influenced layers--18 to 48 cm
+
+Estimated properties of layers influenced by volcanic ash
+*Ammonium oxalate extractable Al + 1/2 Fe--0.2 to 0.7 percent 
+*0.02- to 2.0-mm fraction--30 to 50 percent 
+*Glass content in 0.02- to 2.0-mm fraction--15 to 30 percent 
+*Phosphate retention--25 to 45 percent 
+*8 x Si plus 2 x Fe--1 to 6 percent
+
+Particle-size control section
+*Clay content--23 to 30 percent 
+*Total rock fragment content--10 to 25 percent
+
+A horizon
+Hue--5YR, 7.5YR, 10YR
+Value--2.5 or 3 moist, 3 to 5 dry
+Chroma--1 to 3 moist, 2 or 3 dry
+Fine-earth texture--ashy loam, ashy silt loam
+Clay content--8 to 18 percent 
+Sand content--35 to 40 percent 
+Organic matter content--3 to 12 percent 
+Total rock fragment content--0 to 5 percent 
+Gravel content--0 to 5 percent 
+Reaction--5.6 to 7.3
+Thickness--18 to 23 cm
+
+ABt horizon
+Hue--5YR, 7.5YR, 10YR
+Value--2.5 or 3 moist, 3 to 5 dry 
+Chroma--1 to 3 moist, 2 or 3 dry
+Fine-earth texture--ashy loam, ashy silt loam
+Clay content--18 to 25 percent 
+Sand content--25 to 40 percent 
+Organic matter content--1 to 3 percent 
+Total rock fragment content--0 to 10 percent 
+Gravel content--0 to 10 percent 
+Reaction--6.1 to 6.5
+Thickness--10 to 25 cm
+
+2Bt horizon
+Hue--5YR, 7.5YR, 10YR
+Value--2.5 to 4 moist, 3 to 5 dry 
+Chroma--2 to 4 moist, 3 or 6 dry
+Fine-earth texture--loam, silt loam
+Clay content--25 to 35 percent 
+Sand content--25 to 40 percent 
+Organic matter content--1 to 2 percent 
+Total rock fragment content--0 to 30 percent 
+Gravel content--0 to 20 percent 
+Cobble content--0 to 20 percent 
+Reaction--6.1 to 6.5
+Thickness--15 to 53 cm
+
+COMPETING SERIES: 
+Bly--more than 100 cm to a duripan
+Bolony--5 to 15 percent volcanic glass in surface layer
+Forbord, Forshey, Lidos, Melhorn, Salcreek--no restriction in upper 150 cm 
+Hess, Nibolob, Vangoe--lithic contact at a depth of 100 to 150 cm
+Raycreek--less than 15 percent rock fragments throughout argillic horizon 
+Spartabutte--more than 40 percent sand in substratum
+
+GEOGRAPHIC SETTING: 
+Elevation--930 to 1700 m 
+Climate--cold, wet winters; cool, dry summers
+Mean annual precipitation--370 to 740 mm 
+Mean annual air temperature--4 to 7 degrees C 
+Frost-free period--45 to 120 days 
+
+GEOGRAPHICALLY ASSOCIATED SOILS: 
+Fivebit--on plateaus and backslopes; shallow to bedrock; minor influence of volcanic ash in loamy-skeletal colluvium; under scattered ponderosa pine, Douglas-fir, or western juniper and big sagebrush and Idaho fescue
+Klickson--on north-facing scarp slopes, structural benches, and lower mountain slopes; deep to bedrock; skeletal particle-size control section; mixed ash mantle; under Douglas-fir, ponderosa pine, ninebark, and oceanspray
+Nibolob--on gently sloping areas of plateaus; deep to bedrock; mixed ash mantle; under Douglas-fir or ponderosa pine forest 
+Anatone--on plateaus, ridgetops, and south- or west-facing slopes; shallow; no argillic horizon; skeletal particle-size control section; minor ash influence; under sagebrush, Idaho fescue, and bluebunch wheatgrass
+Melhorn--on backslopes and footslopes; very deep; mixed ash mantle; under Douglas-fir, ponderosa pine, or grand fir forest 
+
+DRAINAGE AND SATURATED HYDRAULIC CONDUCTIVITY: 
+Saturation during normal years--none 
+Flooding--none
+Ponding--none
+Saturated hydraulic conductivity (Ksat)-moderately high
+
+USE AND VEGETATION: 
+Use--timber production, watershed, wildlife habitat, recreation, livestock grazing
+Potential native vegetation--ponderosa pine, Douglas-fir, grand fir, western juniper, lodgepole pine, western larch, pinegrass, elk sedge, heartleaf arnica, tailcup lupine, Idaho fescue, common snowberry, northwestern sedge, bluebunch wheatgrass, common yarrow, Virginia strawberry, white spirea, low Oregon grape, white hawkweed, baldhip rose, onespike oatgrass, western fescue, cheatgrass, Sandberg bluegrass, arrowleaf balsamroot
+
+DISTRIBUTION AND EXTENT: Foothills of central Rocky Mountains and Blue Mountains; MLRA 10; small extent
+
+SOIL SURVEY REGIONAL OFFICE (SSRO) RESPONSIBLE: Portland, Oregon 
+
+SERIES ESTABLISHED: Grant County, Oregon; 2012
+
+REMARKS: 
+Diagnostic horizons and other features recognized in this pedon
+*Mollic epipedon--zone from 5 to 79 cm
+*Argillic horizon--zone from 25 to 79 cm 
+*Volcanic glass--zone from 5 to 36 cm
+*Depth to lithologic discontinuity--36 cm
+*Particle-size control section--zone from 25 to 79 cm
+
+10/2018--OSD reformatted according to SSR 1 Technical Note 11.
+
+ADDITIONAL DATA: National Soil Survey Laboratory pedon number 99OR023006
+
+National Cooperative Soil Survey
+U.S.A.

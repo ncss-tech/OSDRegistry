@@ -1,0 +1,116 @@
+LOCATION TOPSY                  AK
+
+Tentative Series
+IRD. NDP/SCD
+06/2020
+
+TOPSY SERIES
+
+Landscape--mountain valleys
+Landform--pitted outwash plains
+Slope--0 to 5 percent
+Parent material--glaciolacustrine deposits over outwash
+Mean annual precipitation--about 1400 mm
+Mean annual air temperature--about 5 degrees C
+Depth class--very deep
+Drainage class--poorly drained
+Soil moisture regime--aquic
+Soil temperature regime--cryic
+Soil moisture subclass--typic
+
+TAXONOMIC CLASS: Sandy, mixed Typic Cryaquents
+
+TYPICAL PEDON: Topsy very fine sandy loam, forested, on an outwash plain, on a slope of 3 percent at an elevation of 12 m (When described on June 19, 2015, the soil was moist from the surface to a depth of 14 cm and wet from a depth of 14 to 150 cm.)
+
+ Oi--0 to 3 cm; slightly decomposed plant material; neutral (pH 6.7); clear smooth boundary
+
+ A--3 to 14 cm; very fine sandy loam, light brownish gray (2.5Y 6/2) dry, dark grayish brown (2.5Y 4/2) moist; moderate medium granular structure; slightly hard, friable, nonsticky and nonplastic; common very fine, fine, coarse, and very coarse and many medium roots throughout; common very fine and fine irregular pores; noneffervescent; slightly acid (pH 6.3); clear smooth boundary
+
+ Cg1--14 to 27 cm; silty clay loam, gray (2.5Y 6/1) dry, dark gray (2.5Y 4/1) moist; massive; slightly hard, friable, moderately sticky and moderately plastic; common very fine, fine, and medium roots throughout; common very fine and fine irregular pores; 15 percent fine masses of oxidized iron, olive (5Y 5/6) moist, and 20 percent medium masses of reduced iron, gray (5Y 5/1) moist; noneffervescent; neutral (pH 6.6); abrupt smooth boundary
+
+ 2Cg2--27 to 150 cm; sand, light gray (5Y 7/1) dry, gray (5Y 5/1) moist; single grain; loose, nonsticky and nonplastic; many very fine and common fine interstitial pores; slightly effervescent (HCL, 1N); neutral (pH 7.0)
+
+TYPE LOCATION: Glacier Bay National Park and Preserve-Gustavus Area, Alaska; Hoonah-Angoon Census Area; latitude 58.4202200, longitude -135.7586110, datum WGS84 (coordinates determined by a GPS unit)
+
+RANGE IN CHARACTERISTICS:
+Mean annual soil temperature--1 to 7 degrees C
+Soil moisture control section--saturated below a depth of 10 cm (aquic)
+Depth to redoximorphic features--at the surface to a depth of 25 cm below the surface
+Clay content in particle-size control section--1 to 2 percent
+
+Oi horizon
+Thickness--0 to 8 cm
+
+A horizon
+Hue--10YR or 2.5Y moist or dry
+Value--2 to 4 moist, 4 to 6 dry
+Chroma--2 to 6 moist or dry
+Fine-earth texture--very fine sandy loam, fine sandy loam, sandy loam
+Clay content--5 to 10 percent
+Reaction (pH)--6.3 to 6.7
+Thickness--2 to 15 cm
+
+Cg1 horizon
+Hue--10YR or 2.5Y moist or dry
+Value--2 to 5 moist, 4 to 7 dry
+Chroma--1 or 2 moist or dry
+Clay content--28 to 30 percent
+Reaction (pH)--6.3 to 7.0
+Thickness--10 to 20 cm
+
+2Cg2 horizon
+Hue--10YR to 5Y moist or dry
+Value--2 to 5 moist, 4 to 7 dry
+Chroma--1 or 2 moist or dry
+Clay content--1 to 2 percent
+Fine-earth texture--sand, fine sand, coarse sand
+Reaction (pH)--6.6 to 7.0
+Effervescence--very slightly effervescent, slightly effervescent
+Thickness--100 to 130 cm
+
+COMPETING SERIES:
+Abyss--25 to 50 cm (somewhat poorly drained) to aquic conditions
+Ashmun--not calcareous in particle-size control section
+Chilkoot--pH of 5.6 to 6.0 in particle-size control section
+Monashka, Perouse--no lithologic discontinuity
+Stave--redder 5YR colors throughout
+
+GEOGRAPHIC SETTING:
+Elevation--0 to 20 m
+Climate--cool, moist summers; mild, wet winters
+Mean annual precipitation--850 to 1850 mm
+Mean annual air temperature--0 to 9 degrees C
+Frost-free period--90 to 154 days
+
+GEOGRAPHICALLY ASSOCIATED SOILS:
+Excursion--histic epipedon; on similar landforms
+
+DRAINAGE AND SATURATED HYDRAULIC CONDUCTIVITY:
+Drainage class--poorly drained
+Depth to saturation in normal years--more than 14 cm year round
+Flooding--none
+Ponding--none
+Saturated hydraulic conductivity (Ksat)--high in A horizon, moderately high in C horizon, very high in 2Cg horizon
+
+USE AND VEGETATION:
+Use--wildlife habitat, recreation, subsistence
+Potential native vegetation--Sitka alder, kinnikinnick, bunchberry dogwood, black crowberry, splendid feather moss, heartleaf twayblade, sidebells wintergreen, lodgepole pine, Schreber's big red stem moss, oval-leaf blueberry
+
+DISTRIBUTION AND EXTENT: Alexander Archipelago-Gulf of Alaska Coast, Alaska; MLRA 220; small extent
+
+SOIL SURVEY REGIONAL OFFICE (SSRO) RESPONSIBLE: Portland, Oregon
+
+SERIES PROPOSED: Glacier Bay National Park and Preserve-Gustavus Area, Alaska; 2020; name from Topsy Creek
+
+REMARKS:
+Diagnostic horizons and other features in this pedon
+*Ochric epipedon
+*Redoximorphic features--zone from 14 to 27 cm
+*Reduced matrix--zone from 27 to 150 cm
+*Aquic conditions--zone from 27 to 150 cm
+*Depth to lithologic discontinuity--27 cm
+*Free carbonates--zone from 27 to 150 cm
+*Particle-size control section--zone from 28 to 103 cm
+
+National Cooperative Soil Survey
+U.S.A.

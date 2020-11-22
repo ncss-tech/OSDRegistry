@@ -1,0 +1,119 @@
+LOCATION BLACKGULCH             OR
+
+Established Series
+Rev. JLW/RJO/KMS
+11/2018
+
+BLACKGULCH SERIES
+
+Landscape--mountains
+Landform--mountain slopes
+Slope--0 to 90 percent
+Parent material--colluvium and residuum derived from serpentine with an influence of volcanic ash in the upper part
+Mean annual precipitation--about 650 mm
+Mean annual air temperature--about 4 degrees C
+Depth class--shallow to lithic bedrock
+Drainage class--well drained
+Soil moisture regime--xeric
+Soil temperature regime--frigid
+Soil moisture subclass--typic
+
+TAXONOMIC CLASS: Loamy-skeletal, magnesic, frigid Lithic Ultic Haploxerolls
+
+TYPICAL PEDON: Blackgulch very gravelly ashy silt loam, forested, on a 58-percent, south-facing slope at an elevation of 1925 m (Soil textures are apparent field textures.)
+
+ Oi--0 to 1 cm; slightly decomposed needles and twigs
+
+ A--1 to 15 cm; very gravelly ashy silt loam, brown (7.5YR 4/3) dry, very dark brown (7.5YR 2.5/2) moist; weak very fine granular structure; soft, friable, nonsticky and nonplastic; many very fine, common fine, and few medium roots; common very fine irregular pores; 35 percent gravel, 5 percent cobbles, and 5 percent stones; neutral (pH 7.0); clear irregular boundary
+
+ Bw--15 to 46 cm; extremely cobbly ashy loam, brown (7.5YR 5/3) dry, dark brown (7.5YR 3/2) moist; weak fine granular structure and weak fine subangular blocky; slightly hard, friable, slightly sticky and slightly plastic; common very fine and fine and few medium roots; few very fine irregular pores; 35 percent gravel, 25 percent cobbles, and 10 percent stones; neutral (pH 6.9); abrupt irregular boundary
+
+ 2R--46 cm; hard, metavolcanic rock (serpentine)
+
+TYPE LOCATION: Grant County, Oregon; in the NW1/4NW1/4NE1/4 of section 36, T. 11 S., R. 33 E.; Dixie Meadows U.S. Geological Survey quadrangle; latitude 44.5758346, longitude -118.6827778, datum WGS 84 (coordinates from unknown source)
+
+RANGE IN CHARACTERISTICS:
+Mean annual soil temperature--4 to 7 degrees C
+Soil moisture--dry 60 to 75 consecutive days in summer
+Depth to lithic contact--25 to 50 cm
+Thickness of mollic epipedon--18 to 60 cm
+Thickness of ash-influenced layers--18 to 50 cm
+
+Estimated properties of layers influenced by volcanic ash
+*Ammonium oxalate extractable Al + 1/2 Fe--0.3 to 0.9 percent
+*Volcanic ash content in 0.02- to 2.0-mm fraction--5 to 15 percent
+*Phosphate retention--20 to 40 percent
+
+Particle-size control section
+*Clay content--18 to 27 percent
+*Total rock fragment content--35 to 70 percent
+
+A horizon
+Moist color--7.5YR 2.5/1, 7.5YR 2.5/2, 7.5YR 3/2, 10YR 2/2
+Dry color--7.5YR 4/2, 7.5YR 4/3, 7.5YR 5/3; 10YR 4/2, 10YR 5/3
+Texture--ashy silt loam, ashy loam
+Clay content--14 to 18 percent
+Total rock fragment content--35 to 55 percent
+Gravel content--25 to 40 percent
+Cobble content--5 to 10 percent
+Stone content--0 to 5 percent
+Reaction--6.1 to 7.3
+Thickness--13 to 30 cm
+
+Bw horizon
+Moist color--7.5YR 3/2, 7.5YR 4/4, 10YR 2/2
+Dry color--7.5YR 5/3, 7.5YR 5/4, 10YR 4/2, 10YR 5/3
+Texture--ashy loam
+Clay content--19 to 26 percent
+Total rock fragment content--60 to 80 percent
+Gravel content--30 to 45 percent
+Cobble content--20 to 50 percent
+Stone content--0 to 10 percent
+Reaction--6.1 to 7.3
+Thickness--13 to 30 cm
+
+COMPETING SERIES:  None
+
+GEOGRAPHIC SETTING:
+Elevation--570 to 2150 m
+Climate--cold, wet winters; warm, dry summers
+Mean annual precipitation--340 to 940 mm
+Mean annual air temperature--2 to 6 degrees C
+Frost-free period--20 to 85 days
+
+GEOGRAPHICALLY ASSOCIATED SOILS:
+Angelpeak--on concave to planar backslopes; deep to bedrock; thick volcanic ash mantle; under a closed-canopy subalpine fir forest
+Bordengulch--on concave or planar backslopes; moderately deep to bedrock; thin volcanic ash mantle; under a closed-canopy subalpine fir forest
+Cotay--on backslopes; moderately deep to bedrock (serpentine); mantle of mixed ash and loess over a buried clayey-skeletal argillic horizon; under grand fir, Douglas-fir, birchleaf spirea, and pinegrass
+Deck--on crests and backslopes of plateaus; moderately deep to a lithic contact; mollic epipedon; mixed mantle of volcanic ash; loamy-skeletal cambic horizon; under Douglas-fir, ponderosa pine, common snowberry, mallow ninebark, pinegrass, and elk sedge
+Hondu--on concave backslopes and footslopes; very deep; thin volcanic ash mantle over loamy-skeletal colluvium and residuum derived from argillite; under grand fir, Douglas-fir, curl-leaf mountain mahogany, heartleaf arnica, pinegrass, and elk sedge
+Kettlecreek--on backslopes; deep to argillite; loamy-skeletal colluvium with a minor amount of volcanic ash in upper part; under Douglas-fir, ponderosa pine, birchleaf spirea, and common snowberry
+Kingbolt--on ridges, benches, and shoulder slopes; moderately deep to bedrock; thick volcanic ash mantle; under grand fir and Douglas-fir forest
+Lemonex--on footslopes and in concave positions; moderately deep to bedrock (serpentine); small amount of volcanic ash in mollic epipedon; 35 to 60 percent clay and 15 to 35 percent rock fragments in argillic horizon; under ponderosa pine, Douglas-fir, elk sedge, and pinegrass
+Slaughterhouse--on backslopes and summits; deep to bedrock; thick volcanic ash mantle; argillic horizon; 18 to 27 percent clay in particle-size control section; under grand fir forest
+
+DRAINAGE AND SATURATED HYDRAULIC CONDUCTIVITY:
+Saturation during normal years--none
+Flooding--none
+Ponding--none
+Saturated hydraulic conductivity (Ksat)--moderately high
+
+USE AND VEGETATION:
+Use--timber production, watershed, wildlife habitat, recreation, livestock grazing
+Potential native vegetation--ponderosa pine, Douglas-fir, grand fir, western juniper, lodgepole pine, western larch, elk sedge, pinegrass, Idaho fescue, common snowberry, bluebunch wheatgrass, heartleaf arnica, Wheeler bluegrass, tailcup lupine, curl-leaf mountain mahogany, white spirea, common yarrow, Virginia strawberry, low Oregon grape, prairie Junegrass, American vetch, baldhip rose, Sandberg bluegrass, blue wildrye, wax currant, western needlegrass
+
+DISTRIBUTION AND EXTENT: Foothills of central Rocky Mountains and Blue Mountains in northeastern Oregon; MLRA 10; small extent
+
+SOIL SURVEY REGIONAL OFFICE (SSRO) RESPONSIBLE: Portland, Oregon
+
+SERIES ESTABLISHED: Wallowa-Whitman National Forest, Oregon; 2012
+
+REMARKS:
+Diagnostic horizons and other features recognized in this pedon
+*Mollic epipedon--zone from 1 to 46 cm
+*Volcanic glass--zone from 1 to 46 cm
+*Particle-size control section--zone from 25 to 46 cm
+*Magnesium-silicate mineral content--40 to 60 percent in particle-size control section (inferred from serpentine and laboratory data from similar Lemonex series)
+
+National Cooperative Soil Survey
+U.S.A.

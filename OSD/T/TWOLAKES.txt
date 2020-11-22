@@ -1,0 +1,121 @@
+LOCATION TWOLAKES               WA
+
+Established Series
+Rev. CSM/RWL/KDPL/KH
+09/2019
+
+TWOLAKES SERIES
+
+Landscape--mountains
+Landform--mountain slopes, ridges
+Slope--5 to 65 percent
+Parent material--volcanic ash over mudflow and ashflow deposits or colluvium derived from andesite or basalt
+Mean annual precipitation--about 1800 mm
+Mean annual air temperature--about 4 degrees C
+Depth class--deep, very deep
+Drainage class--well drained
+Soil moisture regime--udic
+Soil temperature regime--cryic
+Soil moisture subclass--typic
+
+TAXONOMIC CLASS: Ashy-skeletal over loamy-skeletal, amorphic over isotic Ultic Vitricryands
+
+TYPICAL PEDON: Twolakes ashy sandy loam in an area of forestland, on a 45-percent, west-facing slope at an elevation of 1200 m (All textures are apparent field textures.)
+
+ Oi--0 to 5 cm; slightly decomposed forest litter mixed with a small amount 1980 Mount St. Helens volcanic ash
+
+ C--5 to 8 cm; ashy sandy loam, light gray (10YR 7/1) dry, brown (10YR 5/3) moist; weak fine granular structure; soft, very friable, nonsticky and nonplastic; many very fine and fine and common medium roots; many very fine and fine irregular pores; NaF pH 10.1; moderately acid (pH 6.0); clear smooth boundary
+
+ AB--8 to 20 cm; gravelly ashy sandy loam, gray (10YR 6/1) dry, brown (10YR 4/3) moist; weak fine and medium granular structure; soft, very friable, nonsticky and nonplastic; many very fine and fine and common medium and coarse roots; many very fine and fine irregular pores; 20 percent gravel and 5 percent cobbles; NaF pH 11.5; slightly acid (pH 6.2); clear smooth boundary
+
+ Bw--20 to 46 cm; very gravelly ashy sandy loam, pale brown (10YR 6/3) dry, brown (10YR 4/3) moist; weak fine and medium subangular blocky structure; soft, very friable, nonsticky and nonplastic; common very fine and fine and few medium and coarse roots; many very fine and fine irregular pores; 35 percent gravel and 10 percent cobbles; NaF pH 11.0; slightly acid (pH 6.3); clear smooth boundary
+
+ 2Bt1--46 to 81 cm; extremely gravelly loam, light yellowish brown (10YR 6/4) dry, dark yellowish brown (10YR 4/4) moist; weak fine and medium subangular blocky structure; soft, very friable, nonsticky and nonplastic; few very fine, fine, medium, and coarse roots; many very fine and fine irregular pores and few fine tubular pores; common distinct brown (10YR 4/3) clay films lining pores and on faces of peds; 45 percent gravel and 20 percent cobbles; NaF pH 10.1; slightly acid (pH 6.2); clear smooth boundary
+
+ 2Bt2--81 to 124 cm; extremely gravelly loam, light yellowish brown (10YR 6/4) dry, dark yellowish brown (10YR 4/4) moist; moderate fine and medium subangular blocky structure; slightly hard, very friable, slightly sticky and slightly plastic; few very fine, fine, medium, and coarse roots; common very fine and fine irregular pores and few medium and coarse tubular pores; common distinct brown (10YR 4/3) clay films lining pores and on faces of peds; 50 percent gravel and 25 percent cobbles; NaF pH 9.4; slightly acid (6.2 pH); gradual wavy boundary
+
+ 2Bt3--124 to 168 cm; extremely gravelly loam, light yellowish brown (10YR 6/4) dry, brown (10YR 4/3) moist; weak medium prismatic structure parting to weak fine and medium subangular blocky; slightly hard, very friable, slightly sticky and slightly plastic; few very fine, fine, medium, and coarse roots; few medium and coarse tubular pores; few faint clay films lining pores and on faces of peds; 45 percent gravel and 25 percent cobbles; slightly acid (pH 6.4)
+
+TYPE LOCATION: Yakima County, Washington, about 19 km northwest of Cliffdell; about 60 m north and 760 m west of the southeast corner of section 2, T. 18 N., R. 12 E.; latitude 47.069496, longitude -121.311183, datum WGS 84 (coordinates estimated from section, township, and range)
+
+RANGE IN CHARACTERISTICS:
+Mean annual soil temperature--3 to 7 degrees C
+Summer soil temperature--6 to 7 degrees C
+Rock fragment content in andic soil material--35 to 50 percent
+Rock fragment content in argillic horizon--40 to 75 percent
+Clay content in argillic horizon--18 to 27 percent
+
+Andic soil properties
+*Thickness--36 to 65 cm
+*Moist bulk density--0.65 to 1.0 g/cm3
+*Glass content--30 to 70 percent
+*Acid oxalate aluminum plus one-half iron--0.5 to 1.0 percent
+*Phosphorus retention--50 to 70 percent
+*15-bar water retention (air-dried samples)--8 to 12 percent
+
+Oi horizon
+Thickness--3 to 6 cm
+
+C horizon (where present)
+Chroma--1 or 2 moist
+Thickness--0 to 8 cm
+
+AB horizon
+Hue--7.5YR, 10YR
+Value--5 or 6 dry, 3 or 4 moist
+Chroma--1 to 6 moist
+Thickness--3 to 13 cm
+
+Bw horizon
+Hue--7.5YR, 10YR
+Value--4 or 5 moist
+Chroma--2 to 4 moist or dry
+Rock fragment content--35 to 60 percent
+Thickness--23 to 43 cm
+
+2Bt horizon
+Hue--7.5YR, 10YR
+Value--4 to 6 dry or moist
+Chroma--3 or 4 dry or moist
+Rock fragment content--40 to 75 percent
+Combined thickness--more than 80 cm
+
+COMPETING SERIES: None
+
+GEOGRAPHIC SETTING:
+Elevation--1075 to 1825 m
+Climate--cool, wet winters; warm, dry summers
+Mean annual precipitation--1525 to 2300 mm
+Mean January air temperature--about -6 degrees C
+Mean July air temperature--about 16 degrees C
+Mean annual air temperature--about 3 to 6 degrees C
+Frost-free season--35 to 75 days
+
+GEOGRAPHICALLY ASSOCIATED SOILS:
+Foggyflat--on benches, plateaus, and side slopes; ashy particle-size class
+Ravensroost--on ridges; 50 to 100 cm (moderately deep) to a paralithic contact (andesite)
+Walupt--on ridges and mountain slopes; ashy over loamy-skeletal particle-size class
+
+DRAINAGE AND SATURATED HYDRAULIC CONDUCTIVITY:
+Drainage class--well drained
+Saturated hydraulic conductivity (Ksat)--high over moderately high
+
+USE AND VEGETATION:
+Use--mainly timber production, wildlife habitat, and recreation
+Native vegetation--Pacific silver fir, mountain hemlock, subalpine fir, Engelmann spruce, Cascade azalea, big huckleberry, queencup beadlily, beargrass, smooth woodrush
+
+DISTRIBUTION AND EXTENT: Wenatchee National Forest, Naches Area, Kittitas and Yakima Counties, Washington; MLRA 3; small extent
+
+SOIL SURVEY REGIONAL OFFICE (SSRO) RESPONSIBLE: Portland, Oregon
+
+SERIES ESTABLISHED: Wenatchee National Forest, Yakima County, Washington; 2003
+
+REMARKS:
+Diagnostic horizons and other features recognized in this pedon
+*Ochric epipedon
+*Argillic horizon--zone from 46 to 157 cm
+*Andic soil properties--zone from 5 to 46 cm
+*Particle-size control section--zone from 5 to 105 cm
+
+National Cooperative Soil Survey
+U.S.A.

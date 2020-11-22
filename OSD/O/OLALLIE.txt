@@ -1,0 +1,124 @@
+LOCATION OLALLIE                OR
+
+Established Series
+Rev. GDM/KMS/CSW
+06/2016
+
+OLALLIE SERIES
+
+Landscape--Columbia basalt plateau
+Landform--flood plains
+Slope--0 to 3 percent
+Parent material--alluvium derived from mixed sources
+Mean annual precipitation--360 mm
+Mean annual air temperature--about 9 degrees C
+Depth class--very deep
+Drainage class--poorly drained
+Soil moisture regime--aquic
+Soil temperature regime--mesic
+Soil moisture subclass--typic
+
+TAXONOMIC CLASS: Loamy-skeletal, mixed, superactive, mesic Cumulic Endoaquolls
+
+TYPICAL PEDON:  Olallie clay loam in an area of pasture, on a 1-percent slope at an elevation of 790 m
+
+ Ap1--0 to 8 cm; clay loam, very dark grayish brown (10YR 3/2) dry, black (10YR 2/1) moist; many fine distinct brown (7.5YR 4/4) redoximorphic concentrations; weak medium platy structure parting to weak fine granular; slightly hard, very friable, slightly sticky and slightly plastic; many very fine and fine roots; many very fine and fine tubular pores; 5 percent gravel; slightly acid (pH 6.4); gradual smooth boundary
+
+ Ap2--8 to 33 cm; clay loam, very dark grayish brown (10YR 3/2) dry, black (10YR 2/1) moist; many fine distinct brown (7.5YR 4/4) redoximorphic concentrations; moderate medium subangular blocky structure; slightly hard, friable, slightly sticky and slightly plastic; common very fine and fine roots; common very fine and fine tubular pores; 5 percent gravel; slightly acid (pH 6.4); clear wavy boundary
+
+ Bg--33 to 58 cm; very gravelly clay loam, dark grayish brown (10YR 4/2) dry, very dark brown (10YR 2/2) moist; many fine distinct reddish brown (5YR 4/4) redoximorphic concentrations; black (10YR 2/1) organic stains; moderate medium subangular blocky structure; hard, firm, slightly sticky and slightly plastic; common very fine and fine roots; many very fine and fine tubular pores; 30 percent gravel and 5 percent cobbles; neutral (pH 6.6); clear smooth boundary
+
+ 2C1--58 to 84 cm; extremely gravelly fine sandy loam, brown (10YR 5/3) dry, dark brown (10YR 3/3) moist; many fine distinct reddish brown (5YR 4/4) redoximorphic concentrations; massive; hard, friable, nonsticky and nonplastic; common very fine and fine roots; many very fine and fine tubular pores; 60 percent gravel and 10 percent cobbles; neutral (pH 6.8); clear smooth boundary
+
+ 2C2--84 to 112 cm; extremely gravelly fine sandy loam, brown (10YR 5/3) dry, brown (10YR 4/3) moist; many fine distinct reddish brown (5YR 4/4) redoximorphic concentrations; massive; slightly hard, friable, nonsticky and nonplastic; few fine roots; common fine tubular pores; 50 percent gravel and 20 percent cobbles; neutral (pH 7.0); clear smooth boundary
+
+ 3C--112 to 150 cm; extremely gravelly loamy sand, pale brown (10YR 6/3) dry, brown (10YR 5/3) moist; many fine distinct reddish brown (5YR 4/4) redoximorphic concentrations; massive; hard, friable, nonsticky and nonplastic; 70 percent gravel and 15 percent cobbles; neutral (pH 7.0)
+
+TYPE LOCATION:  Warm Springs Indian Reservation, Wasco County, Oregon; about 460 m east and 670 m south of the northwest corner of section 5, T. 8 S., R. 11 E.; Hehe Butte, Oregon, U.S. Geological Survey 7.5-minute topographic quadrangle; latitude 44.904377, longitude -121.447712, datum WGS 84 (coordinates estimated from PLSS details)
+
+RANGE IN CHARACTERISTICS:
+Aquic conditions--saturated with water from soil surface to within 15 cm of surface at some period of year; short, dry period in summer
+Redoximorphic features--common fine distinct to many fine prominent concentrations as masses throughout
+Mean annual soil temperature--10 to 11 degrees C
+Depth to bedrock--greater than 150 cm
+Thickness of solum--50 to 100 cm
+Thickness of mollic epipedon--50 to 100 cm
+
+Particle-size control section
+*Clay content--16 to 35 percent
+*Rock fragment content--35 to 55 percent
+
+A horizon
+*Value--2 or 3 moist, 3 or 4 dry
+*Chroma--1 or 2 moist or dry
+*Rock fragment content--0 to 10 percent gravel
+*Reaction--6.1 to 7.3
+*Combined thickness--25 to 38 cm
+
+Bg horizon
+*Value--2 or 3 moist, 4 or 5 dry
+*Chroma--2 moist or dry
+*Texture--clay loam, silty clay loam, loam
+*Rock fragment content--25 to 45 percent gravel, 5 to 10 percent cobbles
+*Combined thickness--20 to 64 cm
+
+2C horizon
+*Value--2 to 4 moist, 3 to 6 dry
+*Chroma--2 to 4 moist or dry
+*Texture--fine sandy loam, coarse sandy loam, loam
+*Clay content--10 to 20 percent
+*Rock fragment content--40 to 60 percent gravel, 5 to 20 percent cobbles
+*Combined thickness--38 to 64
+
+3C horizon
+*Value--4 or 5 moist, 4 to 6 dry
+*Chroma--3 or 4 moist or dry
+*Texture--sandy loam, coarse sandy loam, loamy sand
+*Clay content--5 to 15 percent
+*Rock fragment content--45 to 70 percent gravel, 5 to 20 percent cobbles
+
+COMPETING SERIES: None
+
+GEOGRAPHIC SETTING:
+Elevation--790 to 910 m
+Climate--hot, dry summers; cool, wet winters
+Mean annual precipitation--300 to 400 mm
+Mean annual air temperature--9 to 10 degrees C
+Frost-free period--100 to 140 days
+
+GEOGRAPHICALLY ASSOCIATED SOILS:
+Milldam--on outwash plains; fine-loamy; well drained; duripan at a depth of 75 to 100 cm
+Kahneeta--in concave areas of outwash plains; clayey-skeletal; somewhat poorly drained; duripan at a depth of 50 to 75 cm
+Tenwalter--on outwash plains; clayey-skeletal; well drained; duripan at a depth of 25 to 50 cm
+
+DRAINAGE AND SATURATED HYDRAULIC CONDUCTIVITY:
+Drainage class--poorly drained
+Saturated hydraulic conductivity (Ksat)--moderately high in solum, high in substratum
+Flooding--rare, very brief periods in March through June
+Water table--at surface to a depth of 15 cm in March through June
+
+USE AND VEGETATION:
+Use---livestock grazing, wildlife habitat, recreation
+Native vegetation--sedges, rushes, tufted hairgrass
+
+DISTRIBUTION AND EXTENT: North-central Oregon; MLRAs 9 and 10; small extent
+
+MLRA SOIL SURVEY REGIONAL OFFICE (MO) RESPONSIBLE: Portland, Oregon
+
+SERIES ESTABLISHED: Warm Springs Indian Reservation, Wasco County, Oregon; 1993
+
+REMARKS:
+Diagnostic horizons and features recognized in this pedon
+*Mollic epipedon--zone from 0 to 58 cm
+*Particle-size control section--zone from 25 to 100 cm; 54 percent rock fragments, weighted average
+*Aquic conditions--zone of saturation from surface to a depth of 150 cm; redoximorphic concentrations as soft masses
+*Aquoll feature--zone from 33 to 58 cm, representing part of lower portion of mollic epipedon; chroma of 2; distinct redoximorphic concentrations
+
+05/2016--Changed the Bw horizon to Bg horizon due to chroma of less than 2, which is assumed to be from wetness. The drainage class should be reviewed also, because the water table is at the surface in spring; very poorly drained might be more appropriate.
+
+The Olallie official series was used in an update project of some riparian areas southeast of Pendleton in Umatilla County, Oregon. In drainageways of dissected foothills in the Blue Mountains, flooding occurs in December through April as a result of snowmelt and seasonal springs and seeps when the water table is highest. Wide ranges in climate were populated in NASIS due to the nature of the lotic riparian areas along several km of a stream. Small areas of Olallie soils near seeps and springs may have an overstory of alder, ponderosa pine, and black cottonwood.
+
+6/2016--This official series description was updated according to SSR1 Technical Note 11--Content and Format of Official Series Descriptions (revised 12/2015).
+
+National Cooperative Soil Survey
+U.S.A.

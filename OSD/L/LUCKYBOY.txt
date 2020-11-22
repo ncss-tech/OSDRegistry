@@ -1,0 +1,133 @@
+LOCATION LUCKYBOY               OR
+
+Tentative Series
+JGM/KMS
+01/2017
+
+LUCKYBOY SERIES
+
+Landscape--western Cascade Mountains
+Landform--mountain slopes, structural benches
+Slope--10 to 90 percent
+Parent material--colluvium derived from igneous rock mixed with volcanic ash in upper part
+Mean annual precipitation--about 2100 mm
+Mean annual air temperature--about 6 degrees C
+Depth class--moderately deep
+Drainage class--well drained
+Soil moisture regime--udic
+Soil temperature regime--frigid
+Soil moisture subclass--typic
+
+TAXONOMIC CLASS: Loamy-skeletal, isotic, frigid Andic Humudepts
+
+TYPICAL PEDON: Luckyboy very gravelly medial loam on a forested, north-facing, 75-percent slope at an elevation of 1036 m (The soil was dry throughout when observed on August 9, 2012.)
+
+ Oi--0 to 5 cm; slightly decomposed plant material; clear smooth boundary
+
+ A--5 to 36 cm; very gravelly medial loam, dark grayish brown (10YR 4/2) dry, very dark grayish brown (10YR 3/2) moist; moderate fine granular structure; slightly hard, very friable, slightly sticky and slightly plastic; moderately smeary; many very fine and fine and common medium roots; many fine irregular and tubular pores; 30 percent andesite gravel and 10 percent andesite cobbles; moderately acid (pH 5.8); clear smooth boundary
+
+ 2Bw--36 to 64 cm; extremely gravelly loam, pale brown (10YR 6/3) dry, brown (10YR 5/3) moist; moderate medium and fine subangular blocky structure; slightly hard, friable, slightly sticky and slightly plastic; weakly smeary; many very fine and fine and common medium roots; many fine irregular and tubular pores; 50 percent andesite gravel and 15 percent andesite cobbles; moderately acid (pH 5.6); clear wavy boundary
+
+ 2R--64 cm; andesitic bedrock
+
+TYPE LOCATION: Linn County, Oregon, about 28 km east-southeast of Sweet Home; about 650 m north and 705 m west of the southeast corner of section 32, T. 14 S., R. 4 E.; latitude 44.3151670, longitude -122.3548890, datum WGS 84 (coordinates determined with a GPS)
+
+RANGE IN CHARACTERISTICS:
+Dry days--less than 45 consecutive days following summer solstice
+Mean annual soil temperature--5 to 8 degrees C
+Thickness of umbric epipedon--25 to 50 cm (below mineral soil surface)
+Depth to lithic contact--50 to 100 cm
+Reaction--5.1 to 6.0 throughout all mineral horizons
+Thickness of andic soil properties--18 to 34 cm (below mineral soil surface)
+
+Estimated properties of layers with andic soil properties
+*1/3-bar bulk density--0.70 to 0.90 g/cm3
+*Phosphate retention--greater than 85 percent
+*Ammonium oxalate extractable Al +  Fe--2.0 to 4.0 percent
+*15-bar water retention--30 to 70 percent (undried samples), greater than 15 percent (dried samples)
+*0.02- to 2.0-mm fraction--greater than 30 percent
+*Volcanic glass content in 0.02- to 2.0-mm fraction--5 to 30 percent
+
+Particle-size control section
+*Clay content--18 to 27 percent
+*Total fragment content--35 to 75 percent
+
+O horizon
+*Thickness--1 to 8 cm
+
+A horizon
+*Hue--7.5YR, 10YR
+*Value--2 or 3 moist, 3 to 5 dry
+*Chroma--2 or 3 moist or dry
+*Fine-earth texture--medial loam
+*Clay content--18 to 27 percent
+*Sand content--30 to 50 percent
+*Total fragment content--35 to 60 percent
+*Gravel content--20 to 40 percent
+*Cobble content--5 to 25 percent
+*Stone content--0 to 5 percent
+*Thickness--18 to 34 cm
+
+2Bw horizon
+*Hue--7.5YR, 10YR
+*Value--3 to 5 moist, 4 to 6 dry
+*Chroma--3 or 4 moist or dry
+*Clay content--18 to 27 percent
+*Sand content--30 to 50 percent
+*Total fragment content--45 to 75 percent
+*Gravel content--20 to 50 percent
+*Cobble content--15 to 40 percent
+*Stone content--0 to 10 percent
+*Thickness--25 to 75 cm
+
+COMPETING SERIES:
+Cadenza--greater than 150 cm deep to bedrock
+Dougan--less than 18 percent clay in particle-size control section
+Fernwood--volcanic ash influence throughout profile
+Zygore--greater than 150 cm deep to bedrock; less than 18 percent clay in particle-size control section
+
+GEOGRAPHIC SETTING:
+Elevation--700 to 1200 m
+Climate--cool, wet winters; warm, moist summers
+Mean annual precipitation--1900 to 2300 mm
+Mean annual air temperature--6 to 9 degrees C
+Frost-free period--90 to 135 days
+
+GEOGRAPHICALLY ASSOCIATED SOILS:
+Browder--less than 35 percent fragments in particle-size control section; greater than 150 cm deep to bedrock; on linear slopes and complex landslides
+Cadenza--greater than 150 cm deep to bedrock; on linear slopes and in draws of mountain slopes
+Cascadia--mesic soil temperature regime; in similar landform positions
+
+DRAINAGE AND SATURATED HYDRAULIC CONDUCTIVITY:
+Drainage class--well drained
+Saturation during normal years--none
+Flooding--none
+Ponding--none
+Saturated hydraulic conductivity (Ksat)--high
+
+USE AND VEGETATION:
+Use--timber production, wildlife habitat, recreation
+Potential natural vegetation--Douglas-fir, western hemlock, vine maple, Oregon grape, salal, red huckleberry, western swordfern
+
+DISTRIBUTION AND EXTENT: Western Cascade Mountains in northwestern Oregon; MLRA 3; small extent
+
+MLRA SOIL SURVEY REGIONAL OFFICE (MO) RESPONSIBLE: Portland, Oregon
+
+SERIES PROPOSED: Willamette National Forest, Linn County, Oregon; 2016; name from nearby mining claim
+
+REMARKS:
+Diagnostic horizons and other features recognized in this pedon
+*Particle-size control section--zone from 30 to 64 cm
+*Umbric epipedon--zone from 5 to 36 cm
+*Cambic horizon--zone from 36 to 64 cm
+*Depth to lithic contact--64 cm
+*Andic soil properties--zone from 5 to 36 cm
+*Volcanic glass--zone from 5 to 36 cm
+*Depth to lithologic discontinuity--36 cm
+
+8/2016--Layers with andic soil properties assumed to meet criteria 2 (no ash required) in the 12th edition of Keys to Soil Taxonomy. It is also assumed that enough ash is present in those layers to meet criteria 3. Additional lab data is needed to confirm the degree of ash influence.
+
+ADDITIONAL DATA: Type location user site ID--2012OR043219
+
+National Cooperative Soil Survey
+U.S.A.

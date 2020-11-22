@@ -1,0 +1,136 @@
+LOCATION NUNATAK                AK
+
+Tentative Series
+IRD. NDP/SCD
+05/2020
+
+NUNATAK SERIES
+
+Landscape--mountains
+Landform--mountain slopes
+Slope--25 to 70 percent
+Parent material--colluvium over residuum
+Mean annual precipitation--about 1400 mm
+Mean annual air temperature--about 5 degrees C
+Depth class--deep
+Drainage class--well drained
+Soil moisture regime--udic
+Soil temperature regime--cryic
+Soil moisture subclass--typic
+
+TAXONOMIC CLASS: Loamy-skeletal, mixed, superactive Typic Haplocryepts
+
+TYPICAL PEDON: Nunatak cobbly sandy loam, forested, on a mountain slope of 60 percent at an elevation of 264 m (When described on July 23, 2013, the soil was moist throughout.)
+
+ Oe--0 to 3 cm; moderately decomposed plant material; strongly acid (pH 5.3); clear smooth boundary
+
+ A--3 to 10 cm; gravelly sandy loam, gray (10YR 5/1) dry, very dark gray (10YR 3/1) moist; moderate fine granular structure; soft, very friable, nonsticky and nonplastic; many very fine, fine, medium, and coarse and common very coarse roots throughout; common very fine and fine irregular pore s; 20 percent gravel and 10 percent cobbles; noneffervescent; moderately acid (pH 5.7); clear smooth boundary
+
+ Bw--10 to 36 cm; very gravelly coarse sandy loam, reddish yellow (7.5YR 6/6) dry, strong brown (7.5YR 4/6) moist; moderate medium subangular blocky structure; slightly hard, friable, nonsticky and nonplastic; common very fine, fine, medium, coarse, and very coarse roots throughout; common very fine and fine irregular pores; 5 percent cobbles and 50 percent gravel; noneffervescent; slightly acid (pH 6.4); clear wavy boundary
+
+ C--36 to 113 cm; very gravelly coarse sandy loam, light gray (2.5Y 7/2) dry, grayish brown (2.5Y 5/2) moist; massive; slightly hard, friable, nonsticky and nonplastic; common fine, medium, and coarse roots in upper part; common very fine and fine irregular pores; 18 percent cobbles and 40 percent gravel; noneffervescent; neutral (pH 7.3); abrupt wavy boundary
+
+ 2R--113 cm; bedrock
+
+TYPE LOCATION: Glacier Bay National Park and Preserve-Gustavus Area, Alaska; Hoonah-Angoon Census Area; latitude 58.5537575, longitude -136.4776079, datum WGS84 (coordinates determined by a GPS unit)
+
+RANGE IN CHARACTERISTICS:
+Mean annual soil temperature--1 to 7 degrees C
+Soil moisture control section--dry less than 45 consecutive days in June through October (udic)
+Thickness of cambic horizon--15 to 35 cm 
+Depth to lithic contact--100 to 150 cm
+
+Particle-size control section
+*Clay content--5 to 10 percent
+*Total rock fragment content--35 to 65 percent
+
+Oe horizon
+Thickness--0 to 8 cm
+
+A horizon
+Value--2 to 4 moist, 4 to 6 dry
+Chroma--2 to 6 moist or dry
+Fine-earth texture--coarse sandy loam, sandy loam
+Clay content--6 to 10 percent
+Total rock fragment content--13 to 35 percent
+Gravel content--16 to 32 percent
+Cobble content--8 to 13 percent
+Reaction (pH)--5.2 to 5.7
+Thickness--5 to 15 cm
+
+Bw horizon
+Hue--7.5YR or 10YR moist or dry
+Value--3 or 4 moist, 5 or 6 dry
+Chroma--4 or 6 moist or dry
+Fine-earth texture--coarse sandy loam, sandy loam
+Clay content--5 to 10 percent
+Total rock fragment content--35 to 65 percent
+Gravel content--30 to 65 percent
+Cobble content--3 to 7 percent
+Reaction (pH)--5.3 to 6.7
+Thickness--15 to 35 cm
+
+C horizon
+Hue--10YR to 5Y moist or dry
+Value--3 to 5 moist, 5 to 7 dry
+Chroma--2 to 6 moist or dry
+Fine-earth texture--coarse sandy loam, sandy loam
+Clay content--5 to 10 percent
+Total rock fragment content--35 to 65 percent
+Gravel content--30 to 65 percent
+Cobble content--15 to 35 percent
+Reaction (pH)--6.3 to 7.3
+Thickness--55 to 80 cm
+
+COMPETING SERIES:
+Basaltlake, Butchlake--lithologic discontinuity; no lithic contact within a depth of more than 150 cm (very deep)
+Cuberant--50 to 100 cm (moderately deep) to a lithic contact
+Enentah--albic and spodic horizons
+Garlet--albic horizon; pedogenic accumulations of calcium carbonate
+Gromes, Kegsprings--no lithic contact within a depth of more than 150 cm (very deep)
+Mountedith--albic horizon
+Nooney--elevation of more than 1600 m
+Soakpak--mean annual soil temperature below 0 degrees C
+Storm--albic horizon; no lithic contact within a depth of more than 150 cm (very deep)
+Targhee--50 to 100 cm (moderately deep) to a lithic contact
+Telay--no lithic contact within a depth of more than 150 cm (very deep)
+
+GEOGRAPHIC SETTING:
+Elevation--20 to 280 m
+Climate--cool, moist summers; mild, wet winters
+Mean annual precipitation--850 to 1850 mm
+Mean annual air temperature--0 to 9 degrees C
+Frost-free period--90 to 154 days
+
+GEOGRAPHICALLY ASSOCIATED SOILS:
+Dagelet--50 to 100 cm (moderately deep) to a lithic contact; on similar landforms
+Escures--50 to 100 cm (moderately deep) to a lithic contact; on adjacent escarpments
+Polkapenn--25 to 50 cm (shallow) to a lithic contact; on adjacent hills
+
+DRAINAGE AND SATURATED HYDRAULIC CONDUCTIVITY:
+Drainage class--well drained
+Depth to saturation in normal years--more than 100 cm year round
+Flooding--none
+Ponding--none
+Saturated hydraulic conductivity (Ksat)--high or very high in A, Bw, and C horizons
+
+USE AND VEGETATION:
+Use--wildlife habitat, recreation, subsistence
+Potential native vegetation--Sitka alder, western rattlesnake plantain, splendid feather moss, heartleaf twayblade, sidebells wintergreen, Sitka spruce, Schreber's big red stem moss, goose neck moss, strawberryleaf raspberry, western hemlock, Alaska blueberry, oval-leaf blueberry
+
+DISTRIBUTION AND EXTENT: Alexander Archipelago-Gulf of Alaska Coast, Alaska; MLRA 220; moderate extent
+
+SOIL SURVEY REGIONAL OFFICE (SSRO) RESPONSIBLE: Portland, Oregon
+
+SERIES PROPOSED: Glacier Bay National Park and Preserve-Gustavus Area, Alaska; 2020; name from Nunatak mountain or knob in Glacier Bay National Park and Preserve
+
+REMARKS: 
+Diagnostic horizons and other features recognized in this pedon
+*Ochric epipedon
+*Cambic horizon--zone from 10 to 36 cm
+*Depth to lithologic discontinuity--113 cm
+*Depth to lithic contact--113 cm
+*Particle-size control section--zone from 28 to 103 cm
+
+National Cooperative Soil Survey
+U.S.A.

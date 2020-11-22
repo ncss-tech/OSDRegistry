@@ -1,0 +1,85 @@
+LOCATION HULETT                 AL+GA NC
+
+Established Series 
+Rev. GWH 
+07/1999
+
+HULETT SERIES
+
+The Hulett series consists of very deep, well drained, moderately permeable soils that formed in residuum weathered from acid micaceous metamorphic rock.  These soils are on uplands of the Piedmont Plateau.  Slopes range from 2 to 15 percent.
+
+TAXONOMIC CLASS: Fine, kaolinitic, thermic Typic Hapludults
+
+TYPICAL PEDON:  Hulett gravelly fine sandy loam--forested. 
+(Colors are for moist soil.)
+
+      A--0 to 2 inches; black (10YR 2/1) gravelly fine sandy loam; weak fine granular structure; very friable; about 25 percent by volume of quartz gravel; strongly acid; abrupt smooth boundary. (1 to 4 inches thick.)
+
+     E1--2 to 8 inches; light yellowish brown (2.5Y 6/4) gravelly fine sandy loam; weak fine granular structure; very friable; about 20 percent by volume of quartz gravel; strongly acid; gradual smooth boundary.
+
+     E2--8 to 13 inches; light olive brown (2.5Y 5/4) fine sandy loam; weak fine granular structure; very friable; about 2 percent by volume of quartz gravel; strongly acid; clear wavy boundary.  (Combined thickness of the E horizon is 0 to 14 inches.)
+
+     Bt--13 to 24 inches; yellowish brown (10YR 5/4) clay; moderate medium subangular blocky structure; friable; distinct continuous clay films on faces of peds; many fine flakes of mica; very strongly acid; gradual smooth boundary. (10 to 24 inches thick.)
+
+     BC--24 to 36 inches; yellowish brown (10YR 5/6) clay; few medium yellowish red (5YR 4/8) mottles; moderate medium subangular blocky structure; friable; many fine flakes of mica; percent mica increases with depth; very strongly acid; abrupt wavy boundary. (3 to 16 inches thick.)
+
+     C--36 to 60 inches; saprolite of weathered graphitic schist that crushes to sandy loam; friable; strongly acid.
+
+Type Location:  Randolph County, Alabama; 0.4 miles southeast of Gold Ridge Church on west side of road in NE 1/4SE1/4, Section 4, T. 18 S., R. 12 E.
+
+RANGE IN CHARACTERISTICS:  Solum thickness ranges from 20 to 40 inches.  Depth to bedrock is more than 5 feet.  The soil is very strongly acid to moderately acid in the A horizon and very strongly acid to strongly acid in the B and C horizons.  Content of coarse fragments ranges from 0 to 25 percent by volume in the A horizon and from 0 to 15 percent by volume in the B horizon.
+
+The A or Ap horizon of most pedons has hue of 7.5YR to 2.5Y, value of 2 to 5, and chroma of 1 to 4.  In eroded pedons the chroma ranges to 8.  The A horizon is sandy loam, fine sandy loam, or loam; or their gravelly analogs.  In eroded pedons the A horizon is clay loam or sandy clay loam.
+
+The E horizon, where present, has hue of 7.5YR to 2.5Y, value of 4 to 6, and chroma of 3 to 8.  It is sandy loam, fine sandy loam, or loam; or their gravelly analogs.
+
+The BA or BE horizon, where present, has hue of 7.5YR or 10YR, value of 4 to 6, and chroma of 4 to 8.  It is sandy clay loam or clay loam.
+
+The Bt horizon has hue of 7.5YR or 10YR, value of 4 to 6, and chroma of 4 to 8.  It is clay loam or clay.  Many fine to medium flakes of mica are in the Bt horizon.
+
+The BC horizon has the same hue, value, chroma, and texture as the Bt horizon and, in addition, hue of 5YR.  The BC horizon of some pedons is mottled in shades of red, brown, or yellow.  Many fine to medium flakes of mica are in the BC horizon.
+
+The C horizon is saprolite of highly weathered granite, gneiss, or schist that can be crushed to loamy texture.  The C horizon has as much as 20 percent by volume of clay loam, sandy clay loam, or loam soil material.
+
+COMPETING SERIES:  (not updated) Competing series are the Appling, Aragon, Cecil, Chestatee, Georgeville, Herndon, Madison, Mayodan, Nankin, Pacolet, Spotsylvania, and Wedowee series.  Appling, Aragon, Cecil, Georgeville, Herndon, Mayodan, and Nankin soils have sola more than 40 inches thick.  Chestatee soils have more coarse fragments throughout the solum.  Madison and Pacolet soils have a Bt horizon with hue of 5YR or redder.  Spotsylvania soils have a lithologic discontinuity.  Wedowee soils lack a high content of mica.
+
+GEOGRAPHIC SETTING:  Hulett soils are on gently sloping to strongly sloping Piedmont uplands.  The soils formed in material weathered from acid metamorphic rocks, chiefly graphitic schists, slates, and quartzite.  Near the type location, the mean annual precipitation is about 52 inches and the mean annual temperature is about 63 degrees F.
+
+GEOGRAPHICALLY ASSOCIATED SOILS:  These are the competing Appling, Cecil, Madison, Pacolet, and Wedowee series on similar land forms and the Louisa and Tallapoosa series on adjacent side slopes. Louisa soils have discontinuous Bt horizons and Tallapoosa soils have Bt horizons less than 10 inches thick.
+
+DRAINAGE AND PERMEABILITY:  Well drained; runoff is medium; permeability is moderate.
+
+USE AND VEGETATION:  Most areas were once cleared and used for cultivated crops; however, most areas are presently in forest of pine and mixed hardwoods.
+
+DISTRIBUTION AND EXTENT:  The Piedmont plateau of Alabama, Georgia and North Carolina.  The series is of small extent.
+
+MLRA SOIL SURVEY REGIONAL OFFICE (MO) RESPONSIBLE: Raleigh, North Carolina
+
+SERIES ESTABLISHED:  Randolph County, Alabama, 1965.
+
+REMARKS:  Description was modernized only from 1981 revision.
+
+TABULAR SERIES DATA:
+
+SOI-5  Soil Name   Slope  Airtemp FrFr/Seas Precip  Elevation
+AL0067 HULETT      2- 15   58- 65  190-220  48- 56   800-1800 
+
+SOI-5  FloodL FloodH Watertable Kind   Months  Bedrock Hardness
+AL0067 NONE          6.0-6.0              -     60-60        
+
+SOI-5  Depth  Texture                3-Inch  No-10  Clay%   -CEC-
+AL0067  0-13  FSL SL L                0-  3  80-100  7-20    -   
+AL0067  0-13  GR-FSL GR-SL GR-L       3- 10  65- 85  7-20    -   
+AL0067  0-13  SCL CL                  0-  3  85-100 20-35    -   
+AL0067 13-36  CL C                    0-  3  85-100 35-60    -   
+AL0067 36-60  SL FSL L                0-  3  70-100 10-25    -   
+
+SOI-5  Depth    -pH-     O.M.  Salin  Permeab   Shnk-Swll
+AL0067  0-13  4.5- 6.0  .5-2.  0- 0   2.0- 6.0  LOW      
+AL0067  0-13  4.5- 6.0  .5-2.  0- 0   6.0-  20  LOW      
+AL0067  0-13  4.5- 6.0  .5-1.  0- 0   0.6- 2.0  LOW      
+AL0067 13-36  4.5- 5.5  0.-.5  0- 0   0.6- 2.0  LOW      
+AL0067 36-60  4.5- 5.5  0.-.2  0- 0  0.06- 0.6  LOW      
+
+National Cooperative Soil Survey
+U.S.A.

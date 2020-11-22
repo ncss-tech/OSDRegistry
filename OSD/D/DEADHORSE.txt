@@ -1,0 +1,136 @@
+LOCATION DEADHORSE              ID
+
+Established Series
+IRD. KA/RGK/CBR/EED
+05/2018
+
+DEADHORSE SERIES
+
+Landscape--hills, alluvial plains
+Landform--fan remnants
+Slope--1 to 50 percent
+Parent material--loess-influenced alluvium
+Mean annual precipitation--about 350 mm
+Mean annual air temperature--about 5 degrees C
+Depth class--moderately deep
+Drainage class--well drained
+Soil moisture regime--xeric
+Soil temperature regime--frigid
+
+TAXONOMIC CLASS: Loamy-skeletal, mixed, superactive, frigid Typic Durixerolls
+
+TYPICAL PEDON: Deadhorse silt loam in an area of rangeland (Colors are for dry soil unless otherwise noted.)
+
+ A1--0 to 10 cm; dark grayish brown (10YR 4/2) silt loam, dark brown (10YR 3/3) moist; weak fine subangular blocky structure parting to moderate medium granular; soft, very friable, slightly sticky and slightly plastic; common fine and very fine and few medium roots; common very fine tubular pores; 10 percent gravel; slightly alkaline (pH 7.8); clear wavy boundary
+
+ Bt--10 to 20 cm; grayish brown (10YR 5/2) gravelly silt loam, dark brown (10YR 3/3) moist; weak medium and fine subangular blocky structure; slightly hard, firm, slightly sticky and plastic; common fine and very fine and few medium roots; common very fine tubular pores; 30 percent thin clay films on ped faces and in pores; 25 percent gravel; moderately alkaline (pH 8.0); abrupt wavy boundary
+
+ Btk--20 to 33 cm; brown (10YR 5/3) very gravelly silt loam, brown (10YR 4/3) moist; moderate medium subangular blocky structure; slightly hard, firm, slightly sticky and plastic; common fine and very fine and few medium roots; common fine and very fine tubular pores; 15 percent thin clay films on ped faces; 45 percent gravel; strongly effervescent (17 percent calcium carbonate equivalent); moderately alkaline (pH 8.0); abrupt wavy boundary
+
+ Bk--33 to 53 cm; very pale brown (10YR 8/2) extremely gravelly loam, yellowish brown (10YR 5/4) moist; massive; slightly hard, firm, slightly sticky and slightly plastic; few fine and very fine roots; few very fine tubular pores; finely disseminated calcium carbonates; 60 percent gravel and 10 percent cobbles; violently effervescent (50 percent calcium carbonate equivalent); moderately alkaline (pH 8.2); abrupt wavy boundary
+
+ 2Bkqm--53 to 97 cm; very pale brown (10YR 8/2) indurated duripan, light yellowish brown (10YR 6/4) moist; massive; extremely hard, extremely firm; violently effervescent; 40 percent gravel; strongly alkaline (pH 8.6); abrupt wavy boundary
+
+ 3Bk--97 to 152 cm; very pale brown (10YR 8/4) very gravelly loamy sand, very pale brown (10YR 7/4) moist; massive; soft, very friable; finely disseminated carbonates; violently effervescent; 40 percent gravel and 5 percent cobbles; strongly alkaline (pH 8.8)
+
+TYPE LOCATION: Clark County, Idaho; latitude 44.29750 degrees north, longitude 112.42667 west, datum WGS 84
+
+RANGE IN CHARACTERISTICS:
+Mean annual soil temperature--3.3 to 7.2 degrees C
+Thickness of mollic epipedon--20 to 38 cm
+Depth to argillic horizon--10 to 13 cm
+Depth to carbonates--33 to 48 cm
+Depth to duripan--53 to 86 cm
+Thickness of duripan--10 to 43 cm
+
+Particle-size control section (weighted averages)
+Clay content--18 to 27 percent
+Total rock fragment content--35 to 55 percent
+
+A horizon
+Value--3 to 5 dry, 2 or 3 moist
+Chroma--2 or 3 dry or moist
+Clay content--9 to 12 percent
+Gravel content--0 to 15 percent
+Reaction--pH 7.4 to7.8
+Thickness--10 to 13 cm
+
+Bt horizon
+Value-- 3 to 5 dry, 3 or 4 moist
+Chroma--2 or 3 dry or moist
+Texture (less than 2-mm fraction)--loam, silt loam
+Clay content--18 to 24 percent
+Gravel content--15 to 35 percent
+Reaction--pH 7.4 to 7.8
+Thickness--10 to 18 cm
+
+Btk horizon (where present)
+Value--4 or 5 dry, 3 or 4 moist
+Texture (less than 2-mm fraction)--loam, silt loam
+Clay content--18 to 24 percent
+Gravel content--35 to 65 percent
+Reaction--pH 7.9 to 8.4
+Thickness--13 to 18 cm
+
+Bk horizon
+Hue--7.5YR or 10YR dry or moist
+Value--6 to 8 dry, 5 to 8 moist
+Chroma--2 to 6 dry or moist
+Texture (less than 2-mm fraction)--silt loam, loam
+Clay content--18 to 24 percent
+Total rock fragment content--40 to 75 percent
+Gravel content--35 to 60 percent
+Cobble content--5 to 15 percent
+Reaction--pH 7.9 to 8.4
+Thickness--20 to 38 cm
+
+2Bkqm horizon
+Value--6 to 8 moist
+Chroma--2 to 4 dry or moist
+Gravel content--40 to 90 percent
+
+3C horizon
+Value--7 or 8 dry
+Chroma--2 to 4 dry or moist
+Texture (less than 2-mm fraction)--loamy sand, sand
+Clay content--4 to 13 percent
+Total rock fragment content--40 to 80 percent
+Gravel content--35 to 65 percent
+Cobble content--5 to 15 percent
+Reaction--pH 8.0 to 8.6
+
+COMPETING SERIES: None
+
+GEOGRAPHIC SETTING:
+Elevation--1630 to 2100 m
+Mean annual precipitation--300 to 425 mm
+Mean annual air temperature--2.2 to 6.1 degrees C
+Frost-free period--50 to 95 days
+
+GEOGRAPHICALLY ASSOCIATED SOILS: None listed
+
+DRAINAGE AND SATURATED HYDRAULIC CONDUCTIVITY:
+Drainage class--well drained
+Saturated hydraulic conductivity (Ksat)--5 to 25 um/sec above the duripan, 0.01 to 0.10 in the duripan
+
+USE AND VEGETATION:
+Major uses--rangeland, wildlife habitat
+Potential natural vegetation--low sagebrush, Idaho fescue, bluebunch wheatgrass
+
+DISTRIBUTION AND EXTENT: Small extent in southeastern Idaho; MLRA 12
+
+SOIL SURVEY REGIONAL OFFICE (SSRO) RESPONSIBLE: Portland, Oregon
+
+SERIES ESTABLISHED: Clark County, Idaho; 2018; name from nearby stream
+
+REMARKS:
+Diagnostic horizons and other features in this pedon
+Mollic epipedon--zone from the surface to a depth of 20 cm
+Argillic horizon--zone from 10 to 33 cm
+Duripan--zone from 53 to 97 cm
+Particle-size control section--zone from 10 to 33 cm
+
+Taxonomic version--Twelfth Edition, 2014
+
+National Cooperative Soil Survey
+U.S.A.

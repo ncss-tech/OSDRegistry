@@ -1,0 +1,152 @@
+LOCATION ONGIVINUCK             AK
+
+Established Series
+SAS/TJR/MPR
+03/2019
+
+ONGIVINUCK SERIES
+
+Landscape--mountain valleys
+Landform--stream terraces
+Slope--0 to 2 percent
+Parent material--alluvium with volcanic ash influence in the upper part
+Mean annual precipitation--about 1100 mm
+Mean annual air temperature--about 0 degrees C
+Depth class--very deep
+Drainage class--well drained
+Soil moisture regime--udic
+Soil temperature regime--cryic
+Soil moisture subclass--typic
+
+TAXONOMIC CLASS: Sandy-skeletal, isotic Andic Humicryepts
+
+TYPICAL PEDON: Ongivinuck silt on a 1-percent slope of a terrace tread at an elevation of 266 m (The soil was moist throughout when described on July 24, 2012.)
+
+ Oe--0 to 5 cm; moderately decomposed plant material; nonsticky and nonplastic; common fine and many very fine roots; strongly acid (pH 5.4); clear smooth boundary
+
+ A--5 to 15 cm; silt, matrix color 89 percent dark gray (7.5YR 4/1) dry, black (7.5YR 2.5/1) moist, and 10 percent brown (7.5YR 5/2) dry, dark brown (7.5YR 3/2) moist; weak medium granular structure; slightly hard, friable, nonsticky and nonplastic; many very fine and common fine, medium, and coarse roots; 1 percent medium masses of oxidized iron, dark brown (7.5YR 3/4) moist; 5 percent gravel; strongly acid (pH 5.1); clear wavy boundary
+
+ Bw--15 to 39 cm; medial silt loam, matrix color 75 percent brown (10YR 5/3) dry, dark brown (10YR 3/3) moist, and 25 percent reddish yellow (7.5YR 6/6) dry, strong brown (7.5YR4/6) moist; weak thick platy structure; soft, very friable, nonsticky and nonplastic; common very fine to medium roots; 5 percent gravel; moderately acid (pH 5.7); clear wavy boundary
+
+ 2BC--39 to 66 cm; extremely gravelly coarse sandy loam, brown (10YR 5/3) dry, dark brown (10YR 3/3) moist; weak fine granular structure; soft, very friable, nonsticky and nonplastic; common very fine roots; 65 percent gravel; strongly acid (pH 5.5); gradual smooth boundary
+
+ 2C--66 to 150 cm; extremely gravelly coarse sand, brown (10YR 5/3) dry, dark brown (10YR 3/3) moist; single grain; loose, nonsticky and nonplastic; 75 percent gravel; strongly acid (pH 5.5)
+
+TYPE LOCATION: Dillingham Census Area, Alaska, about 115 km north-northwest of the city of Dillingham; latitude 59.9171422 degrees north, longitude 159.5024662 degrees west, datum WGS 84 (coordinates determined with a GPS)
+
+RANGE IN CHARACTERISTICS:
+Mean annual soil temperature--0 to 3 degrees C
+Soil moisture control section--dry less than 45 consecutive days in June through October (udic moisture regime)
+Other features--umbric epipedon; andic soil properties; cambic horizon; lithologic discontinuity
+
+Layers that have andic soil properties
+*Thickness--18 to 29 cm
+*Phosphorous retention--85 to 100 percent
+*Bulk density--0.45 to 0.9 g/cm3
+*Ammonium oxalate Al plus 1/2 Fe--2 to 4 percent
+*Volcanic glass content--10 to 50 percent
+
+Particle-size control section
+*Clay content--0 to 5 percent
+*Sand content--85 to 100 percent
+*Total rock fragment content--35 to 85 percent
+*Sodium fluoride pH--8.4 to 11.6
+*Ratio of 1500 kPa water to measured clay--0.6 to 6.0
+
+Oe horizon
+Thickness--2 to 10 cm
+
+A horizon
+Hue--7.5YR, 10YR
+Value--2 to 4 moist, 4 to 6 dry
+Chroma--1 to 3 moist
+Fine-earth texture--silt, sandy loam, very fine sandy loam
+Clay content--4 to 10 percent
+Reaction--5.0 to 6.0
+Gravel content--0 to 5 percent
+Thickness--5 to 14 cm
+Base saturation--0 to 25 percent
+
+Bw horizon
+Hue--7.5YR, 10YR
+Value--3 to 5 moist, 5 to 7 dry
+Chroma--3 to 8 moist
+Fine-earth texture--medial silt loam, medial very fine sandy loam, medial fine sandy loam
+Clay content--3 to 10 percent
+Reaction--5.0 to 6.3
+Gravel content--0 to 15 percent
+Thickness--18 to 34 cm
+Bulk density--0.6 to 0.9 g/cm3
+Phosphorous retention--95 to 100 percent
+Base saturation--0 to 25 percent
+Volcanic glass content--10 to 40 percent
+
+2BC horizon
+Chroma--1 to 4
+Fine earth texture--coarse sandy loam, coarse sand, sandy loam
+Clay content--0 to 5 percent
+Reaction--5.8 to 6.5
+Total rock fragment content--60 to 89 percent
+Gravel content--60 to 85 percent
+Cobble content--0 to 10 percent
+Thickness--5 to 45 cm
+
+2C horizon
+Hue--2.5Y, 10YR
+Value--1 to 4 moist, 3 to 6 dry
+Chroma--3 or 4 moist
+Clay content--0 to 5 percent
+Reaction--5.8 to 6.5
+Total rock fragment content--60 to 85 percent
+Gravel content--60 to 85 percent
+Cobble content--0 to 10 percent
+Thickness--more than 71 cm
+
+COMPETING SERIES:
+None
+
+GEOGRAPHIC SETTING:
+Elevation--5 to 560 m
+Climate--warm, moist summers; cold, moist winters
+Mean annual precipitation--580 to 2000 mm
+Mean annual air temperature-- -2.5 to 1.6 degrees C
+Frost-free period--75 to 140 days
+
+GEOGRAPHICALLY ASSOCIATED SOILS:
+Nimgun--aquic conditions throughout; fens on plains
+Nolake--aquic conditions throughout; dips on plains
+Kanektok--andic soil properties more than 35 cm thick; outwash terraces
+Longarm--aquic conditions below a depth of 14 cm; ochric epipedon; flood plains
+Awayak--frequent flooding; ochric epipedon; flood plains
+Ungalikthluk--occasional flooding; ochric epipedon; flood plains
+Aukamunuk--aquic conditions throughout; flood plains
+
+DRAINAGE AND SATURATED HYDRAULIC CONDUCTIVITY:
+Drainage class--well drained
+Saturation in normal years--below a depth of 150 cm, except between depths of 2 and 21 cm during spring melt, usually in April
+Flooding--rare
+Ponding--none
+Saturated hydraulic conductivity (Ksat)--moderately high or high in the A and Bw horizons; high or very high in the 2BC and 2C horizons
+
+USE AND VEGETATION:
+Use--wildlife habitat, recreation, subsistence
+Potential natural vegetation--bluejoint, fireweed, field horsetail, woolly geranium, splendid feather moss, Schreber's big red stem moss, arctic raspberry, Barclay's willow, Canadian burnet, tealeaf willow
+
+DISTRIBUTION AND EXTENT: Ahklun Mountains, Alaska; MLRA 237; moderate extent
+
+SOIL SURVEY REGIONAL OFFICE (SSRO) RESPONSIBLE: Portland, Oregon
+
+SERIES ESTABLISHED: Togiak National Wildlife Refuge, Dillingham Census Area, Alaska; 2019
+
+REMARKS:
+Diagnostic horizons and other features in this pedon
+*Particle-size control section--zone from 30 to 105 cm
+*Umbric epipedon--zone from 5 to 39 cm
+*Andic soil properties--Bw horizon
+*Cambic horizon--Bw horizon
+*Redoximorphic concentrations--A horizon
+
+See laboratory pedon number 13N0047, layer 13N00122, for a Bw horizon that has andic soil properties.
+
+National Cooperative Soil Survey
+U.S.A.

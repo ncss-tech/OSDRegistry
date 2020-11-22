@@ -1,0 +1,109 @@
+LOCATION SHANO                  WA+ID+OR
+
+Established Series
+Rev. CDL/KWH/RWL
+09/2019
+
+SHANO SERIES
+
+Landscape--plateaus, hills
+Landform--terraces, hillslopes
+Slope--0 to 65 percent
+Parent material--loess
+Mean annual precipitation--about 205 mm
+Mean annual air temperature--about 10 degrees F
+Depth class--very deep
+Drainage class--well drained
+Soil moisture regime--aridic (bordering xeric)
+Soil temperature regime--mesic
+Soil moisture subclass--xeric
+
+TAXONOMIC CLASS: Coarse-silty, mixed, superactive, mesic Xeric Haplocambids
+
+TYPICAL PEDON: Shano silt loam, cultivated (All textures are apparent field textures.)
+
+ Ap--0 to 20 cm; silt loam, pale brown (10YR 6/3) dry, dark grayish brown (10YR 4/2) moist; weak fine granular structure; soft, very friable, slightly sticky and slightly plastic; many fine roots; many very fine and fine irregular pores; slightly alkaline (pH 7.6); abrupt smooth boundary
+
+ Bw1--20 to 48 cm; silt loam, pale brown (10YR 6/3) dry, brown (10YR 4/3) moist; weak coarse and medium prismatic structure; soft, very friable, slightly sticky and slightly plastic; common fine roots; common very fine tubular pores; slightly alkaline (pH 7.6); gradual wavy boundary
+
+ Bw2--48 to 84 cm; silt loam, pale brown (10YR 6/3) dry, brown (10YR 4/3) moist; massive; soft, very friable, slightly sticky and slightly plastic; common fine roots; common very fine tubular pores; moderately alkaline (pH 8.0); clear wavy boundary
+
+ Bk1--84 to 107 cm; silt loam, pale brown (10YR 6/3) dry, dark grayish brown (10YR 4/2) moist; massive; slightly hard, friable, slightly sticky and slightly plastic; few roots; common very fine tubular pores; violently effervescent; moderately alkaline (pH 8.2); common concentric hard (cicada) nodules; gradual wavy boundary
+
+ Bk2--107 to 145 cm; silt loam, pale brown (10YR 6/3) dry, brown (10YR 5/3) moist; massive; slightly hard, friable, slightly sticky and slightly plastic; few roots; common very fine tubular pores; few concentric hard (cicada) nodules; strongly effervescent; strongly alkaline (pH 8.6); gradual wavy boundary
+
+ Bk3--145 to 170 cm; silt loam, pale brown (10YR 6/3) dry, dark grayish brown (10YR 4/2) moist; massive; hard, firm, slightly sticky and slightly plastic; few roots; few very fine tubular pores; strongly effervescent; pockets of soft, very friable material; strongly alkaline (pH 9.0)
+
+TYPE LOCATION: Grant County, Washington; 45 m south and 305 m east of the northwest corner of section 19, T. 19 N., R. 30 E.
+
+RANGE IN CHARACTERISTICS:
+Mean annual soil temperature--10 to 13 degrees C
+Moisture control section--continuously dry in all parts between depths of 10 and 30 cm from about May 1 to October 1
+Depth to calcium carbonate--30 to 115 cm
+Particle-size control section--5 to 10 percent clay; less than 15 percent sand coarser than very fine sand
+Content of organic matter in upper 20 cm--less than 1 percent when mixed
+Depth to stratification in some pedons--100 to 150 cm
+
+Ap horizon
+Value--4 to 6 dry, 3 to 5 moist
+Chroma--2 to 4 moist or dry
+Reaction--6.6 to 8.4
+Thickness--10 to 20 cm
+
+Bw horizon
+Value--5 or 6 dry, 3 or 4 moist
+Chroma--2 to 4 moist or dry
+Reaction--7.4 to 8.4
+Combined thickness--41 to 91 cm
+
+Bk horizon
+Value--5 to 8 dry, 4 to 6 moist
+Chroma--2 to 4 moist or dry
+Texture--silt loam, very fine sandy loam
+Calcium carbonate equivalent--2 to 15 percent
+Reaction--7.4 to 9.0
+Combined thickness of Bk1 and Bk2 horizons--greater than 39 cm
+
+COMPETING SERIES:
+Bedground--100 to 150 cm (deep) to a lithic contact (basalt)
+Sagemoor--carbonates at a depth of 35 to 60 cm; laminae at a depth of 40 to 75 cm (2C horizon)
+Warden--stratified silt loam or stratified silt loam and very fine sandy loam in lower part of particle-size control section (2Bk horizon); stratified 2C horizon at a depth of 100 to 150 cm or more; duripan at a depth of 100 to 150 cm or more
+
+GEOGRAPHIC SETTING:
+Elevation--dominantly 150 to 700 m, 890 to 1275 m in Idaho
+Climate--semiarid; warm, dry summers; cool, moist winters
+Mean annual precipitation--150 to 255 mm
+Mean January air temperature--about -2 degrees C
+Mean July air temperature--about 22 degrees C
+Mean annual air temperature--about 8 to 12 degrees C
+Frost-free season--120 to 200 days
+
+GEOGRAPHICALLY ASSOCIATED SOILS:
+Burke--on uplands; 50 to 100 cm (moderately deep) to a duripan
+Esquatzel--on bottomlands; mollic epipedon
+Prosser--on plateaus; 50 to 100 cm (moderately deep) to a lithic contact (basalt)
+Scooteney--on alluvial fans; coarse-loamy particle-size class
+
+DRAINAGE AND SATURATED HYDRAULIC CONDUCTIVITY:
+Drainage class--well drained
+Saturated hydraulic conductivity (Ksat)--moderately high
+
+USE AND VEGETATION:
+Use--nonirrigated wheat production, livestock grazing, irrigated crop production
+Native vegetation--bluebunch wheatgrass, beardless wheatgrass, Sandberg bluegrass, Cusick's bluegrass, Wyoming big sagebrush
+
+DISTRIBUTION AND EXTENT: Central Washington, eastern Oregon, and southern Idaho; MLRAs 7 and 8; large extent
+
+SOIL SURVEY REGIONAL OFFICE (SSRO) RESPONSIBLE: Portland, Oregon
+
+SERIES ESTABLISHED: Adams County, Washington; 1966
+
+REMARKS:
+Diagnostic horizons and other features in this pedon
+*Ochric epipedon
+*Cambic horizon--zone from 20 to 48 cm
+*Carbonate accumulation--zone from 84 to 170 cm
+*Particle-size control section--zone from 25 to 100 cm
+
+National Cooperative Soil Survey
+U.S.A.

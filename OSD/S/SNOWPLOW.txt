@@ -1,0 +1,129 @@
+LOCATION SNOWPLOW               WA
+
+Established Series
+Rev. CSM/AFW/TDT
+09/2019
+
+SNOWPLOW SERIES
+
+Landscape--mountains
+Landform--mountain slopes, ridges
+Slope--5 to 45 percent
+Parent material--volcanic ash mixed with colluvium derived from basalt or andesite
+Mean annual precipitation--about 1300 mm
+Mean annual air temperature--about 5 degrees C
+Depth class--very deep
+Drainage class--well drained
+Soil moisture regime--xeric
+Soil temperature regime--cryic
+Soil moisture subclass--typic
+
+TAXONOMIC CLASS: Ashy, mixed Humic Xeric Vitricryands
+
+TYPICAL PEDON: Snowplow ashy fine sandy loam in an area of forestland, on an 8-percent, east-facing slope at an elevation of 1775 m (All textures are apparent field textures.)
+
+ Oi--0 to 5 cm; slightly decomposed needles and twigs and a small amount of 1980 Mount St. Helens volcanic ash
+
+ A1--5 to 15 cm; ashy fine sandy loam, brown (10YR 5/3) dry, very dark grayish brown (10YR 3/2) moist; weak fine and medium granular structure; soft, very friable, nonsticky and nonplastic; many very fine and fine, common medium, and few coarse roots; many very fine and fine irregular pores; 10 percent gravel; NaF pH 9.9; moderately acid (pH 5.6); clear smooth boundary
+
+ A2--15 to 30 cm; ashy fine sandy loam, brown (10YR 5/3) dry, very dark grayish brown (10YR 3/2) moist; weak fine subangular blocky structure; soft, very friable, nonsticky and nonplastic; many very fine and common fine and medium roots; many very fine and fine irregular pores; 10 percent gravel; NaF pH 9.9; strongly acid (pH 5.5); gradual smooth boundary
+
+ AB--30 to 46 cm; ashy fine sandy loam, brown (10YR 5/3) dry, dark brown (10YR 3/3) moist; weak fine and medium subangular blocky structure; soft, very friable, nonsticky and nonplastic; common very fine and fine and few medium and coarse roots; many very fine and fine irregular pores; 10 percent gravel; NaF pH 10.1; strongly acid (pH 5.5); gradual smooth boundary
+
+ Bw1--46 to 61 cm; ashy fine sandy loam, light yellowish brown (10YR 6/4) dry, brown (10YR 4/3) moist; weak fine and medium subangular blocky structure; soft, very friable, nonsticky and nonplastic; common very fine and fine and few medium roots; many very fine and fine irregular pores; 10 percent gravel; NaF pH 10.3; strongly acid (pH 5.3); clear smooth boundary
+
+ 2Bw2--61 to 91 cm; very gravelly ashy fine sandy loam, brown (7.5YR 5/4) dry, brown (7.5YR 4/4) moist; weak medium and coarse subangular blocky structure; soft, very friable, nonsticky and nonplastic; common very fine and few fine and medium roots; many very fine and fine irregular pores; 35 percent gravel; NaF pH 10.3; strongly acid (pH 5.4); gradual smooth boundary
+
+ 2Bw3--91 to 117 cm; very gravelly ashy fine sandy loam, light brown (7.5YR 6/4) dry, brown (7.5YR 4/4) moist; weak medium and coarse subangular blocky structure; soft, very friable, nonsticky and nonplastic; few fine, medium, and coarse roots; many very fine and fine irregular pores; 50 percent gravel; NaF pH 10.5; moderately acid (pH 5.6); gradual smooth boundary
+
+ 3BC--117 to 157 cm; very gravelly loam, light brown (7.5YR 6/4) dry, brown (7.5YR 4/4) moist; weak medium and coarse subangular blocky structure; soft, very friable, nonsticky and nonplastic; few fine, medium, and coarse roots; few very fine and fine irregular pores and common fine tubular pores; 35 percent gravel; NaF pH 9.0; moderately acid (pH 6.0)
+
+TYPE LOCATION: Yakima County, Washington, about 8 km northeast of the Tieton Guard Station; about 670 m south and 110 m west of the northeast corner of section 2, T. 14 N., R. 14 E.; latitude 46 degrees, 40 minutes, 1 second north and longitude 121 degrees, 2 minutes, 8 seconds west
+
+RANGE IN CHARACTERISTICS:
+Mean annual soil temperature--5 to 7 degrees C
+Mean summer soil temperature--6 to 8 degrees C
+Moisture control section--usually moist, but dry 45 to 60 consecutive days following summer solstice
+Rock fragment content in particle-size control section--5 to 10 percent in upper part, 35 to 60 percent in lower part
+Thickness of umbric epipedon--25 to 50 cm
+
+Andic soil properties
+*Thickness--100 to 150 cm
+*Moist bulk density--0.75 to 1.00 g/cm3
+*Glass content--10 to 30 percent
+*Acid oxalate aluminum plus one-half iron--1 to 2 percent
+*Phosphorus retention--40 to 60 percent
+*15-bar water retention--less than 12 percent (air-dried samples)
+
+Oi horizon
+Thickness--3 to 8 cm
+
+A horizon
+Combined thickness--18 to 36 cm
+
+AB horizon
+Thickness--13 to 23 cm
+
+Bw1 horizon
+Hue--7.5YR, 10YR
+Value--5 or 6 dry, 4 or 5 moist
+Chroma--2 to 4 dry
+Texture--ashy fine sandy loam, ashy sandy loam
+Rock fragment content--5 to 10 percent
+Reaction--5.1 to 6.0
+Thickness--15 to 20 cm
+
+2Bw horizon
+Hue--7.5YR, 10YR
+Value--5 or 6 dry, 4 or 5 moist
+Chroma--2 to 4 dry
+Texture--very gravelly ashy fine sandy loam, very gravelly ashy sandy loam, very cobbly ashy sandy loam
+Rock fragment content--35 to 60 percent
+Reaction--5.1 to 6.0
+Combined thickness--51 to 76 cm
+
+BC horizon (where present)
+Texture--very gravelly loam, gravelly sandy loam
+Reaction--5.6 to 6.5
+
+COMPETING SERIES:
+Waaw--umbric epipedon 63 to 97 cm thick
+
+GEOGRAPHIC SETTING:
+Elevation--1300 to 1925 m
+Mean annual precipitation--1000 to 1400 mm
+Mean January air temperature--about -4 degrees C
+Mean July air temperature--about 17 degrees C
+Mean annual air temperature--about 4 to 6 degrees C
+Frost-free season--30 to 60 days
+
+GEOGRAPHICALLY ASSOCIATED SOILS:
+Fiscus--on mountain slopes and ridges; ashy over loamy-skeletal particle-size class; argillic horizon
+Naxing--on plateaus, benches, and side slopes; ashy-skeletal particle-size class
+
+DRAINAGE AND SATURATED HYDRAULIC CONDUCTIVITY:
+Drainage class--well drained
+Saturated hydraulic conductivity (Ksat)--moderately high
+
+USE AND VEGETATION:
+Use--timber production, wildlife habitat, recreation
+Native vegetation--subalpine fir, grand fir, lodgepole pine, Engelmann spruce, Douglas-fir, western larch, elk sedge, big huckleberry, Jacob's ladder, beargrass, prince's pine
+
+DISTRIBUTION AND EXTENT: Eastern slopes of Cascade Mountains in Yakima County, Washington; MLRA 6; small extent
+
+SOIL SURVEY REGIONAL OFFICE (SSRO) RESPONSIBLE: Portland, Oregon
+
+SERIES ESTABLISHED: Wenatchee National Forest, Naches Area; Yakima County, Washington; 2003
+
+REMARKS:
+Diagnostic horizons and other features recognized in this pedon
+*Umbric epipedon--zone from 5 to 46 cm
+*Cambic horizon--zone from 46 to 117 cm
+*Andic soil properties--zone from 5 to 117 cm
+*Particle-size control section--zone from 5 to 105 cm; ashy in zone from 5 to 61 cm; ashy-skeletal in zone from 61 to 105 cm
+
+ADDITIONAL DATA:
+National Soil Survey Laboratory pedon number 92P0017
+
+National Cooperative Soil Survey
+U.S.A.

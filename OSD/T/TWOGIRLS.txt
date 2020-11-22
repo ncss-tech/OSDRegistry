@@ -1,0 +1,143 @@
+LOCATION TWOGIRLS               OR
+
+Tentative Series
+JGM/KMS
+01/2017
+
+TWOGIRLS SERIES
+
+Landscape--western Cascade Mountains
+Landform--mountain slopes
+Slope--45 to 90 percent
+Parent material--colluvium derived from welded tuff
+Drainage class--well drained
+Depth class--very deep
+Mean annual precipitation--2100 mm
+Mean annual air temperature--7 degrees C
+Soil moisture regime--udic
+Soil temperature regime--frigid
+Soil temperature subclass--typic
+
+TAXONOMIC CLASS: Loamy-skeletal, isotic, frigid Typic Dystrudepts
+
+TYPICAL PEDON: Twogirls gravelly silt loam on a forested, west-facing, 48-percent slope at an elevation of 940 m
+
+ Oi--0 to 3 cm; slightly decomposed plant material; abrupt smooth boundary
+
+ A--3 to 13 cm; gravelly silt loam, pale brown (10YR 6/3) dry, brown (10YR 4/3) moist; weak fine subangular blocky structure; slightly hard, friable, nonsticky and nonplastic; common very fine, fine, and coarse and many medium roots; many very fine and common fine and medium irregular pores; 15 percent welded tuff gravel and 2 percent welded tuff cobbles; moderately acid (pH 5.6); clear wavy boundary
+
+ Bw1--13 to 32 cm; gravelly silt loam, light gray (10YR 7/2) dry, brown (10YR 5/3) moist; weak fine subangular blocky structure; soft, very friable, nonsticky and nonplastic; common very fine, fine, and coarse and many medium roots; many very fine and common fine and medium irregular pores; 25 percent welded tuff gravel; moderately acid (pH 5.6); gradual wavy boundary
+
+ Bw2--32 to 86 cm; very gravelly silt loam, light gray (10YR 7/2) dry, brown (10YR 5/3) moist; weak fine subangular blocky structure; soft, very friable, nonsticky and nonplastic; common very fine and fine and many medium roots; many very fine, fine, and medium irregular pores; 35 percent welded tuff gravel and 15 percent welded tuff cobbles; moderately acid (pH 5.8); gradual wavy boundary
+
+ BC--86 to 150 cm; very cobbly silt loam, very pale brown (10YR 7/3) dry, brown (10YR 5/3) moist; weak medium subangular blocky structure; slightly hard, friable, nonsticky and nonplastic; common fine and medium roots; common very fine and many fine and medium irregular pores; 25 percent welded tuff gravel, 25 percent welded tuff cobbles, and 5 percent welded tuff stones; moderately acid (pH 5.8)
+
+TYPE LOCATION: Linn County, Oregon, about 21.5 km south of Detroit; 630 m south and 575 m east of the northwest corner of section 8, T. 12 S., R. 6 E.; latitude 44.6112778, longitude -122.2863889, datum WGS 84 (coordinates determined with a GPS)
+
+RANGE IN CHARACTERISTICS:
+Dry days--30 to 45 consecutive days following summer solstice
+Mean annual soil temperature--5 to 7 degrees C
+Reaction--5.5 to 6.5
+
+Particle-size control section
+*Clay content--8 to 18 percent
+*Total fragment content--35 to 70 percent
+
+O horizon
+*Thickness--1 to 8 cm
+
+A horizon
+*Value--4 or 5 moist, 5 to 7 dry
+*Chroma--2 to 4 moist, 2 or 3 dry
+*Fine-earth texture--silt loam
+*Clay content--8 to 18 percent
+*Sand content--20 to 50 percent
+*Total fragment content--15 to 35 percent
+*Gravel content--15 to 35 percent
+*Cobble content--0 to 10 percent
+*Thickness--10 to 20 cm
+
+Bw1 horizon
+*Hue--10YR, 2.5Y
+*Value--4 to 6 moist, 5 to 7 dry
+*Chroma--2 or 3 moist or dry
+*Fine-earth texture--silt loam, loam
+*Clay content--10 to 18 percent
+*Sand content--20 to 50 percent
+*Total fragment content--20 to 50 percent
+*Gravel content--20 to 40 percent
+*Cobble content--0 to 25 percent
+*Stone content--0 to 5 percent
+*Thickness--10 to 30 cm
+
+Bw2 horizon
+*Hue--10YR, 2.5Y
+*Value--4 to 6 moist, 5 to 7 dry
+*Chroma--2 or 3 moist or dry
+*Fine-earth texture--silt loam, loam
+*Clay content--10 to 18 percent
+*Sand content--20 to 50 percent
+*Total fragment content--35 to 60 percent
+*Gravel content--25 to 45 percent
+*Cobble content--10 to 25 percent
+*Stone content--0 to 10 percent
+*Thickness--40 to 100 cm
+
+BC horizon
+*Hue--10YR, 2.5Y
+*Value--4 to 6 moist, 5 to 7 dry
+*Chroma--2 or 3 moist or dry
+*Fine-earth texture--silt loam, loam
+*Clay content--8 to 18 percent
+*Sand content--20 to 50 percent
+*Total fragment content--45 to 75 percent
+*Gravel content--20 to 50 percent
+*Cobble content--15 to 40 percent
+*Stone content--0 to 15 percent
+
+COMPETING SERIES:
+Eveleth--dense glacial till within 100 cm of mineral soil surface
+Owlridge, Rilea--lithic contact within 100 cm of mineral soil surface
+Shagawa--E horizon; lithologic discontinuity; material below lithologic discontinuity greater than 50 percent sand
+
+GEOGRAPHIC SETTING:
+Elevation--800 to 1200 m
+Climate--warm, dry summers; cool, wet winters
+Mean annual precipitation--1900 to 2300 mm
+Mean annual air temperature--6 to 8 degrees C
+Frost-free period--90 to 120 days
+
+GEOGRAPHICALLY ASSOCIATED SOILS:
+Chamate--mesic soil temperature regime; in similar landform and slope positions
+Flimflam--25 to 50 cm deep to lithic contact (shallow); on shoulders of associated slopes
+Owlridge--50 to 100 cm deep to lithic contact (moderately deep); on backslopes and nose slopes of associated slopes and steeper slopes
+
+DRAINAGE AND SATURATED HYDRAULIC CONDUCTIVITY:
+Drainage class--well drained
+Saturation during normal years--none
+Flooding--none
+Ponding--none
+Saturated hydraulic conductivity (Ksat)--moderately high or high
+
+USE AND VEGETATION:
+Use--watershed, recreation, timber production, wildlife habitat
+Potential natural vegetation--western hemlock, Douglas-fir, Pacific rhododendron, beargrass, salal, dwarf Oregon grape, red huckleberry; commonly supports a western hemlock/rhododendron-beargrass (CHS357) plant association (Field Guide to the Forested Plant Associations of the Westside Central Cascades of Northwest Oregon)
+
+DISTRIBUTION AND EXTENT: Western slopes of the central Cascade Mountains, Oregon; MLRA 3; small extent
+
+MLRA SOIL SURVEY REGIONAL OFFICE (MO) RESPONSIBLE: Portland, Oregon
+
+SERIES PROPOSED: Willamette National Forest, Lane County, Oregon; 2013; name from Two Girls Falls, a landform in Willamette National Forest
+
+REMARKS:
+Diagnostic horizons and other features in this pedon
+*Ochric epipedon
+*Particle-size control section--zone from 28 to 103 cm
+*Cambic horizon--zone from 13 to 86 cm
+
+08/2016--Some investigation is needed to determine whether the soils have an ash influence, given the levels of ash in nearby soils.
+
+ADDITIONAL DATA: Type location user site ID--2014OR043868
+
+National Cooperative Soil Survey
+U.S.A.

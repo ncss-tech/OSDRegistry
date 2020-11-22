@@ -1,0 +1,122 @@
+LOCATION NIIPTIT                WA
+
+Established Series
+Rev. PNP/KDPL/SBC
+09/2019
+
+NIIPTIT SERIES
+
+Landscape--mountains, plateaus
+Landform--benches, ridgetops, mountain slopes
+Slope--0 to 35 percent
+Parent material--volcanic ash over mixed volcanic ash and residuum derived from basalt or ashflow and mudflow deposits
+Mean annual precipitation--about 1500 mm
+Mean annual air temperature--about 5 degrees C
+Depth class--very deep
+Drainage class--well drained
+Soil moisture regime--xeric
+Soil temperature regime--cryic
+Soil moisture subclass--typic
+
+TAXONOMIC CLASS: Ashy over loamy, mixed over isotic Humic Xeric Vitricryands
+
+TYPICAL PEDON: Niiptit ashy sandy loam in an area of forestland, on a 4-percent slope at an elevation of 1375 m (All textures are apparent field textures.)
+
+ Oi--0 to 3 cm; slightly decomposed needles and twigs
+
+ A--3 to 18 cm; ashy sandy loam, dark brown (10YR 3/3) dry, very dark grayish brown (10YR 3/2) moist; weak medium subangular blocky structure parting to moderate medium granular; soft, very friable, nonsticky and nonplastic; many very fine and fine and common medium roots; common fine irregular pores; 5 percent gravel; slightly acid (pH 6.5), NaF pH 10.0; clear wavy boundary
+
+ Bw--18 to 53 cm; ashy sandy loam, brown (10YR 4/3) dry, dark brown (10YR 3/3) moist; weak and moderate medium subangular blocky structure parting to weak and moderate medium granular; soft, very friable, nonsticky and nonplastic; common very fine, fine, and medium and few coarse roots; common fine irregular pores; 5 percent gravel; slightly acid (pH 6.5), NaF pH 10.0; gradual wavy boundary
+
+ 2Bt1--53 to 99 cm; loam, yellowish brown (10YR 5/4) dry, brown (10YR 4/3) moist; moderate medium subangular blocky structure; slightly hard, friable, slightly sticky and nonplastic; few very fine and fine and common medium and coarse roots; common very fine and few fine tubular pores; 5 percent gravel; few distinct clay films on faces of peds and in openings of pores; neutral (pH 6.8), NaF pH 9.7; gradual wavy boundary
+
+ 2Bt2--99 to 160 cm; gravelly loam, light yellowish brown (10YR 6/4) dry, dark yellowish brown (10YR 4/4) moist; some oxidized iron stains on rock fragments; moderate medium subangular blocky structure; slightly hard, friable, slightly sticky and nonplastic; few fine and coarse and common medium roots; common very fine and few medium tubular pores; common distinct clay films on faces of peds, in openings of pores, and on rock fragments; 15 percent gravel and 5 percent cobbles; slightly acid (pH 6.5), NaF pH 9.7
+
+TYPE LOCATION: Yakama Nation, Yakima County, Washington; about 70 m south and 760 m east of the northwest corner of section 29, T. 9 N., R. 12 E.; latitude 46.2436111, longitude  121.3433333, datum WGS 84 (coordinates estimated from section, township, and range)
+
+RANGE IN CHARACTERISTICS:
+Mean annual soil temperature at a depth of 50 cm--4 to 7 degrees C
+Mean summer soil temperature--7 to 8 degrees C
+Moisture control section--usually moist, but dry in all parts 45 to 60 consecutive days following summer solstice
+Thickness of umbric epipedon--25 to 65 cm
+
+Volcanic ash mantle
+*Thickness--36 to 65 cm
+*Moist bulk density--0.75 to 0.90 g/cm3
+*Glass content--5 to 30 percent
+*Acid oxalate aluminum plus one-half iron--2 to 3 percent
+*15-bar water retention--5 to 12 percent (air-dried samples)
+*Rock fragment content--0 to 10 percent
+
+Oi horizon
+Thickness--0 to 5 cm
+
+A horizon
+Hue--10YR, 7.5YR
+Value--3 to 5 dry, 2 to 4 moist
+Chroma--2 or 3 dry or moist
+Thickness--10 to 23 cm
+
+Bw horizon
+Hue--10YR, 7.5YR
+Value--3 or 4 dry, 2 or 3 moist
+Chroma--2 or 3 moist or dry
+Texture--ashy sandy loam, ashy loam
+Reaction--6.1 to 7.3
+Thickness--25 to 41 cm
+
+2Bt horizon
+Hue--10YR, 7.5YR, 2.5YR
+Value--4 to 7 dry, 3 to 6 moist
+Chroma--3 or 4 dry or moist
+Texture of fine-earth fraction--sandy loam, loam, clay loam
+Clay content--18 to 35 percent clay
+Rock fragment content--5 to 25 percent
+Pararock fragment content--0 to 45 percent
+Reaction--6.1 to 7.3
+Combined thickness--81 to 122 cm
+
+2BC horizon (where present)
+Rock fragment content--10 to 20 percent
+Basalt pararock fragment content--15 to 40 percent
+Clay content--30 to 38 percent
+Texture--gravelly clay loam, paragravelly clay loam
+
+COMPETING SERIES: None
+
+GEOGRAPHIC SETTING:
+Elevation--1025 to 1700 m
+Mean annual precipitation--1300 to 1800 mm
+Mean annual air temperature--4 to 6 degrees C
+Frost-free season--40 to 80 days
+
+GEOGRAPHICALLY ASSOCIATED SOILS:
+Fiscus--on plateaus and mountain side slopes; ashy-skeletal over loamy-skeletal particle-size class
+Waaw--on mountain side slopes; dominantly ashy, but ashy-skeletal in lower part of particle-size control section
+Tnuun--on plateaus, benches, and side slopes; ashy-skeletal particle-size class
+
+DRAINAGE AND SATURATED HYDRAULIC CONDUCTIVITY:
+Drainage class--well drained
+Saturated hydraulic conductivity (Ksat)--moderately high
+
+USE AND VEGETATION:
+Use--dominantly timber production, wildlife habitat, livestock grazing, and recreation
+Native vegetation--lodgepole pine, subalpine fir, Engelmann spruce, western larch, grand fir, elk sedge, pinegrass, big huckleberry
+
+DISTRIBUTION AND EXTENT: East slopes of Cascade Mountains in south-central Washington; MLRA 6; small extent
+
+SOIL SURVEY REGIONAL OFFICE (SSRO) RESPONSIBLE: Portland, Oregon
+
+SERIES ESTABLISHED: Yakama Nation, Yakima County, Washington; 2014
+
+REMARKS:
+Diagnostic horizons and other features recognized in this pedon
+*Umbric epipedon--zone from 3 to 53 cm
+*Andic soil properties--zone from 3 to 53 cm
+*Argillic horizon--zone from 53 to 160 cm
+*Particle-size control section--zone from 3 to 104 cm
+
+Niiptit is the Yakama word for twenty. This series originally was named the Twentyday series in 2004.
+
+National Cooperative Soil Survey
+U.S.A.

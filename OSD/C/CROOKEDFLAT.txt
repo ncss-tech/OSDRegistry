@@ -1,0 +1,111 @@
+LOCATION CROOKEDFLAT            ID
+
+Tentative Series
+NHK/BAG/DJP
+02/2020
+
+CROOKEDFLAT SERIES
+
+The Crookedflat series consists of very deep, well drained soils that formed in loess and loess influenced slope alluvium. These soils are on hillslopes. Slopes range from 0 to 4 percent. Mean annual precipitation is about 525 mm and the mean annual air temperature is about 2.0 degrees C.
+
+TAXONOMIC CLASS: Fine-silty, mixed, superactive Calcic Pachic Argicryolls
+
+TYPICAL PEDON: Crookedflat silt loam in rangeland. (Colors are for dry soil unless otherwise noted).
+
+    A1--0 to 8 cm; grayish brown (10YR 5/2) silt loam, very dark grayish brown (10YR 3/2) moist; weak fine granular structure; slightly hard, very friable, nonsticky, slightly plastic; common very fine and fine roots; common very fine irregular pores; slightly acid (pH 6.2); abrupt smooth boundary. 
+
+    A2--8 to 33 cm; grayish brown (10YR 5/2) silt loam, very dark grayish brown (10YR 3/2) moist; moderate coarse subangular blocky structure; slightly hard, very friable, slightly sticky, slightly plastic; common very fine and fine roots; common very fine irregular pores; slightly acid (pH 6.2); abrupt wavy boundary. 
+
+    Bt--33 to 41 cm; brown (10YR 5/3) silty clay loam, dark brown (10YR 3/3) moist; strong medium angular blocky structure; moderately hard, friable, moderately sticky, moderately plastic; few very fine roots; common very fine tubular pores; 50 percent distinct clay films on all faces of peds; neutral (pH 7.0); clear wavy boundary. 
+
+    Btk1--41 to 63 cm; pale brown (10YR 6/3) silt loam, brown (10YR 5/3) moist; strong medium subangular blocky structure; hard, friable, moderately sticky, moderately plastic; very few very fine roots; common very fine dendritic tubular pores; 20 percent faint clay films on all faces of peds; 5 percent fine threadlike calcium carbonate masses in the matrix; finely disseminated calcium carbonates throughout; violent effervescence; moderately alkaline (pH 8.2); gradual wavy boundary. 
+
+    Btk2--63 to 105 cm; light gray (10YR 7/2) silt loam, brown (10YR 5/3) moist; strong coarse subangular blocky structure; hard, friable, moderately sticky, moderately plastic; many very fine dendritic tubular pores; 10 percent faint clay films on all faces of peds; 10 percent fine threadlike calcium carbonate in the matrix; finely disseminated calcium carbonates throughout; violent effervescence; moderately alkaline (pH 8.3); gradual wavy boundary. 
+
+    Bk--105 to 150 cm; light gray (10YR 7/2) silt loam, brown (10YR 5/3) moist; moderate coarse subangular blocky structure; moderately hard, very friable, slightly sticky, slightly plastic; common very fine tubular pores; 10 percent fine threadlike and irregular shaped calcium carbonate masses in the matrix; finely disseminated calcium carbonates throughout; violent effervescence; moderately alkaline (pH 8.2). 
+
+TYPE LOCATION: Caribou County, Idaho; USGS Henry, ID topographic quadrangle; latitude 42.992569 degrees north, longitude 111.545411 degrees west, datum WGS84.
+
+RANGE IN CHARACTERISTICS:
+Mean annual soil temperature--1.7 to 5.0 degrees C
+Thickness of mollic epipedon--40 to 76 cm
+Depth to calcic horizon--40 to 76 cm
+Depth to argillic--32 to 47 cm
+
+Particle-size control section (weighted averages)
+Clay content--18 to 27 percent
+
+A horizons
+Hue--7.5YR or 10YR
+Value--2 or 3 moist
+Chroma--2 or 3 dry, 1 or 2 moist
+Clay content--12 to 20 percent
+Reaction--pH 6.1 to 6.8
+Thickness--32 to 47 cm
+
+Bt horizon
+Hue--7.5YR or 10YR
+Value--4 or 5 dry, 3 or 4 moist
+Chroma--2 or 3 dry or moist
+Texture (less than 2 mm fraction)--silt loam or silty clay loam
+Clay content--18 to 30 percent
+Sand content--less than 15 percent fine sand or coarser
+Reaction--pH 6.1 to 7.3 
+Thickness--8 to 35 cm
+
+Btk horizons
+Hue--7.5YR or 10YR
+Value--6 or 7 dry, 4 or 5 moist
+Chroma--2 or 3 dry or moist
+Texture (less than 2 mm fraction)--silt loam or silty clay loam
+Clay content--22 to 30 percent
+Sand content--less than 15 percent fine sand or coarser
+Calcium carbonate equivalent--15 to 25 percent
+Reaction--pH 7.9 to 8.4
+Thickness--36 to 74 cm
+
+Bk horizon
+Value--6 or 7 dry, 4 or 5 moist
+Chroma--2 or 3 dry or moist
+Clay content--20 to 27 percent
+Sand content--less than 20 percent fine sand or coarser
+Calcium carbonate equivalent--15 to 25 percent
+Reaction--pH 7.9 to 8.4
+
+COMPETING SERIES:
+Halfcircle(ID)--soils are deep to paralithic contact.
+
+GEOGRAPHIC SETTING:
+Landform--hillslopes
+Elevation--1,850 to 1,920 meters
+Slope--0 to 4 percent
+Parent material--loess, and loess influenced slope alluvium
+Climate--long, cold winters; cool moist springs; short, cool summers
+Mean annual precipitation--475 to 600 mm
+Mean annual air temperature--0.6 to 3.3 degrees C
+Frost-free period--30 to 65 days
+
+GEOGRAPHICALLY ASSOCIATED SOILS: None listed.
+
+DRAINAGE AND SATURATED HYDRAULIC CONDUCTIVITY: Well drained; 5 to 15 um/sec
+
+USE AND VEGETATION: Crookedflat soils are primarily used for wildlife habitat and grazing. The potential native vegetation is mountain big sagebrush, bluebunch wheatgrass, and Idaho fescue.
+
+DISTRIBUTION AND EXTENT: Crookedflat soils are of small extent in southeastern Idaho; MLRA 43B.
+
+SOIL SURVEY REGIONAL OFFICE (SSRO) RESPONSIBLE: Bozeman, Montana
+
+SERIES PROPOSED: Caribou County, Idaho, 2019. Crookedflat series is derived from the USGS Henry, ID topographic quadrangle.
+
+REMARKS: Diagnostic horizons and features recognized in this pedon:
+Mollic epipedon--0 to 41 cm (A and Bt horizons)
+Calcic horizon--41 to 150 cm (Btk and Bk horizons)
+
+Particle-size control section--33 to 83 cm
+
+Crookedflat soils have a cryic temperature regime and a xeric moisture regime.
+
+Taxonomic version: Twelfth Edition, 2014
+
+National Cooperative Soil Survey
+U.S.A.

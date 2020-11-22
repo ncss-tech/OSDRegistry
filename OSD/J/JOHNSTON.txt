@@ -1,0 +1,138 @@
+LOCATION JOHNSTON               NC+AL FL GA MS SC VA
+
+Established Series
+CMO/Rev. JAK
+10/2008
+
+JOHNSTON SERIES
+
+MLRA(s): 133A-Southern Coastal Plain, 153A-Atlantic Coast Flatwoods, 153B-Tidewater Area
+MLRA SOIL SURVEY REGIONAL OFFICE (MO) RESPONSIBLE: Raleigh, North Carolina
+Depth Class: Very deep
+Drainage Class (Agricultural): Very poorly drained
+Flooding Frequency and Duration: Frequent or occasional for very brief to long periods
+Ponding Frequency and Duration: None
+Internal Free Water Occurrence: Shallow, common
+Permeability: Moderately rapid
+Landscape: Lower to upper coastal plain
+Landform: Flood plain, swamp
+Geomorphic Component: Tread
+Parent Material: Alluvium
+Slope: 0 to 2 percent
+Elevation (type location): Unknown
+Mean Annual Air Temperature (type location): 63 degrees F.
+Mean Annual Precipitation (type location): 46 inches 
+
+TAXONOMIC CLASS: Coarse-loamy, siliceous, active, acid, thermic Cumulic Humaquepts 
+
+TYPICAL PEDON: Johnston mucky loam--forested. (Colors are for moist soil unless otherwise stated.) 
+
+A--0 to 30 inches; black (10YR 2/1) mucky loam; massive; friable; very strongly acid; abrupt smooth boundary. (24 to 48 inches thick) 
+
+Cg1--30 to 34 inches; dark gray (10YR 4/1) loamy fine sand; single grained; loose; very strongly acid; abrupt smooth boundary. 
+
+Cg2--34 to 60 inches; gray (10YR 5/1) fine sandy loam; lenses and pockets of loamy sand and sand; massive; very friable; dark colored loam in old root channels; very strongly acid. 
+
+TYPE LOCATION: Scotland County, North Carolina; 3 miles south of Wagram; 50 feet west of Shoe Heel Creek; 1.5 miles north of Lee's pond; 25 feet south of a paved road. 
+
+RANGE IN CHARACTERISTICS:
+Depth to Bedrock: Greater than 80 inches
+Depth to Seasonal High Water Table: 0 to 12 inches, November to May
+Rock fragment content: Below 40 inches, 0 to 35 percent, by volume, mostly rounded quartz gravel
+Soil Reaction: Extremely acid to strongly acid
+Other Features: Some pedons have a few inches of recent alluvium deposited over the dark colored A horizon or thin (less than 8 inches thick) organic layers. 
+
+RANGE OF INDIVIDUAL HORIZONS: 
+
+Oa horizon (where present):
+Color--hue of 10YR, value of 2 or 3, chroma of 1 or 2, hue of 2.5Y, value of 2.5 or 3, chroma of 1 or 2, or is neutral with value of 2.5 or 3
+Texture--muck 
+
+A horizon:
+Color--hue of 10YR, value of 2 or 3, chroma of 1 or 2, hue of 2.5Y or 5Y, value of 2.5 or 3, chroma of 1 or 2, or is neutral with value of 2.5 or 3
+Texture (fine-earth fraction)--coarse sandy loam, sandy loam, fine sandy loam, or loam and may include the mucky texture modifier.
+Redoximorphic features (where present)--masses of oxidized iron in shades of red, yellow, or brown and iron depletions in shades of gray
+Other features--Organic matter content of the A horizon ranges from 3 to about 20 percent 
+
+Cg horizon:
+Color--hue of 10YR to 5Y, value of 4 to 8, chroma of 1 to 2, or is neutral with value of 4 to 7
+Texture (fine-earth fraction)--coarse sand, sand, fine sand, loamy coarse sand, loamy sand, loamy fine sand, coarse sandy loam, sandy loam, fine sandy loam, or loam. Some pedons have thin strata of sandy clay loam.
+Redoximorphic features (where present)--masses of oxidized iron in shades of red, yellow, or brown and iron depletions in shades of gray 
+
+COMPETING SERIES:
+There are no other known series in this family. 
+
+GEOGRAPHIC SETTING:
+Landscape: Lower to upper coastal plain
+Landform: Flood plain, swamp
+Geomorphic Component: Tread
+Parent Material: Alluvium
+Elevation: 20 to 450 feet
+Mean Annual Air Temperature: 59 to 70 degrees F.
+Mean Annual Precipitation: 38 to 52 inches
+Frost Free Period: 190 to 245 days 
+
+GEOGRAPHICALLY ASSOCIATED SOILS:
+Bibb soils--poorly drained, on similar landforms
+Johns soils--somewhat poorly drained, on adjacent stream terraces
+Kalmia soils--well drained, on adjacent stream terraces
+Kenansville soils--well drained, on adjacent stream terraces
+Kinston soils--poorly drained, on similar landforms
+Lumbee soils--poorly drained, on adjacent stream terraces
+Murville soils--have spodic materials
+Osier soils--poorly drained, on adjacent stream terraces
+Pamlico soils--organic soils
+Paxville soils--have a fine-loamy particle-size control section, on adjacent stream terraces and drainageways
+Pocomoke soils--have thicker surface layers, on adjacent stream terraces and drainageways
+Rutlege soils--have a sandy particle-size control section, on similar landforms
+Torhunta soils--have an umbric horizon, on similar landforms 
+
+DRAINAGE AND PERMEABILITY:
+Depth Class: Very deep
+Drainage Class (Agricultural): Very poorly drained
+Internal Free Water Occurrence: Shallow, common
+Flooding Frequency and Duration: Frequent or occasional for very brief to long periods
+Ponding Frequency and Duration: None
+Permeability: Moderately rapid 
+
+USE AND VEGETATION:
+Major Uses: Woodland
+Dominant Vegetation: Where wooded--water tupelo, swamp tupelo, sweetgum, yellow poplar, green ash, water oak, and baldcypress. Also, loblolly pine grows in areas that have been drained. Understory plants include inkberry (bitter gallberry), American holly, greenbrier, switchcane, blueberry, honeysuckle, and poison ivy. Where cultivated--corn, soybeans, and pasture. 
+
+DISTRIBUTION AND EXTENT:
+
+Distribution: South Atlantic and Gulf Coastal Plain in Alabama, Florida, Georgia, Mississippi, North Carolina, South Carolina, and Virginia
+Extent: Moderate
+
+MLRA SOIL SURVEY REGIONAL OFFICE (MO) RESPONSIBLE: Raleigh, North Carolina
+
+SERIES ESTABLISHED: Johnston County, North Carolina; 1911.
+
+REMARKS: Diagnostic horizons and features recognized in this pedon are:
+
+Umbric epipedon--the zone from the surface to a depth of 30 inches (A horizon) 
+
+ADDITIONAL DATA: 
+
+TABULAR SERIES DATA: 
+
+SOI-5   Soil Name   Slope   Airtemp  FrFr/Seas  Precip  Elevation
+NC0043  JOHNSTON    0-2     57-70    190-245    38-52   20-450
+
+SOI-5   FloodL  FloodH  Watertable  Kind      Months   Bedrock Hardness
+NC0043  COMMON          0-1.0       APPARENT  NOV-MAY  >80     -
+
+SOI-5   Depth   Texture            3-Inch   No-10    Clay%  -CEC-
+NC0043   0-30   MK-L               0-0     100-100   7-18    9-22
+NC0043   0-30   L SL FSL           0-0     100-100   5-18    4-12
+NC0043  30-34   SR LS S            0-0     100-100   2-12    1-5
+NC0043  34-60   SR FSL SL          0-0     100-100   5-20    1-6
+
+SOI-5    Depth    -pH-    O.M.     Salin  Permeab   Shnk-Swll
+NC0043   0-30   3.5- 5.5  8.0-15   0-0    2.0-6.0   LOW
+NC0043   0-30   3.5- 5.5  3.0-8.0  0-0    2.0-6.0   LOW
+NC0043  30-34   3.5- 5.5  0.5-3.0  0-0    6.0-20    LOW
+NC0043  34-60   3.5- 5.5  0.0-2.0  0-0    6.0-20    LOW
+
+National Cooperative Soil Survey
+U.S.A.

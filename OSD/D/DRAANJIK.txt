@@ -1,0 +1,149 @@
+LOCATION DRAANJIK               AK
+
+Established Series
+JDP/NR/TJR
+04/2020
+
+DRAANJIK SERIES
+
+Landscape--alluvial plains
+Landform--stream terraces
+Slope--0 to 3 percent
+Parent material--alluvium
+Mean annual precipitation--about 255 mm
+Mean annual air temperature--about -6 degrees C
+Depth class--very deep
+Drainage class--well drained
+Soil moisture regime--udic
+Soil temperature regime--cryic
+Soil moisture subclass--typic
+
+TAXONOMIC CLASS: Coarse-silty over sandy or sandy-skeletal, mixed, superactive Typic Calcicryepts
+
+TYPICAL PEDON: Draanjik very fine sandy loam on a forested terrace with a slope of 1 percent and an elevation of 168 m (The soil was moist throughout when described on August 17, 2014.)
+
+ Oe--0 to 4 cm; moderately decomposed plant material; few medium and coarse roots; slightly acid (pH 6.3); abrupt smooth boundary
+
+ E--4 to 20 cm; stratified loam and silt loam; light brownish gray (10YR 6/2) dry, yellowish brown (10YR 5/4) moist; weak fine granular structure; soft, very friable, nonsticky and nonplastic; few coarse roots, common medium roots, and many fine roots; few fine and medium pores; very strongly acid (pH 5.0); clear smooth boundary
+
+ Bw--20 to 31 cm; silt loam; light yellowish brown (10YR 6/4) dry, yellowish brown (10YR 5/6) dry; moderate medium subangular blocky structure; soft, very friable, nonsticky and nonplastic; common fine and medium roots; few fine and medium pores; slightly effervescent; moderately alkaline (pH 7.9); clear smooth boundary
+
+ Bkn1--31 to 40 cm; silt loam; light brownish gray (2.5Y 6/2) dry, grayish brown (2.5Y 5/2) moist; weak fine granular structure; soft, very friable, nonsticky and nonplastic; common fine and medium roots; few fine and medium pores; violently effervescent; moderately alkaline (pH 8.3); diffuse smooth boundary
+
+ Bkn2--40 to 80 cm; silt loam; light brownish gray (2.5Y 6/2) dry, light olive brown (2.5Y 5/3) moist; moderate thin platy structure; soft, very friable, nonsticky and nonplastic; common fine roots, and few medium roots; few fine and medium pores; strongly effervescent; moderately alkaline (pH 8.2); clear smooth boundary
+
+ 2C1--80 to 90 cm; stratified gravelly loam and gravelly fine sandy loam; light brownish gray (2.5Y 6/2) dry, olive brown (2.5Y 4/3) moist; massive structure; soft, very friable, nonsticky and nonplastic; few fine pores; slightly effervescent; moderately alkaline (pH 8.3)
+
+ 2C2--90 to 105 cm; extremely gravelly sand; light brownish gray (2.5Y 6/2) dry, dark grayish brown (2.5Y 4/2) moist; single grain structure; loose, nonsticky and nonplastic; few fine pores; slightly effervescent; moderately alkaline (pH 8.3)
+
+ 2C3--105 to 150 cm; extremely gravelly sand; light brownish gray (2.5Y 6/2) dry, dark grayish brown (2.5Y 4/2) moist; single grain structure; loose, nonsticky and nonplastic; few fine pores; slightly effervescent; moderately alkaline (pH 8.3)
+
+TYPE LOCATION: Yukon-Koyukuk Census Area, Alaska; latitude 66.8574820 degrees north, longitude 143.9676460 degrees west, datum WGS 84 (coordinates determined with a GPS)
+
+RANGE IN CHARACTERISTICS:
+Mean annual soil temperature--0.5 to 2.5 degrees C
+Rock fragment content--35 to 85 percent gravels (by weighted average) in the substratum
+
+Oe horizon
+Thickness--3 to 15 cm
+Reaction--4.5 to 7.0
+
+E horizon
+Hue--10YR, 2.5Y
+Value--3 to 5 moist, 5 or 6 dry
+Chroma--2 to 4 moist
+Fine-earth texture--silt loam, loam, very fine sandy loam
+Clay content--0 to 18 percent
+Reaction--4.5 to 7.5
+Effervescence--none
+Thickness--5 to 17 cm
+
+Bw horizon
+Hue--7.5YR, 10YR, 2.5Y
+Value--3 or 4 moist, 5 or 6 dry
+Chroma--3 or 4 moist
+Fine-earth texture--silt loam, very fine sandy loam
+Clay content--0 to 18 percent
+Reaction--7.5 to 8.5
+Effervescence--slight to strong
+Thickness--5 to 25 cm
+
+Bkn1 and Bkn2 horizons
+Hue--10YR, 2.5Y
+Value--4 to 6 moist, 6 to 8 dry
+Chroma--2 or 3 moist
+Fine-earth texture--silt loam, very fine sandy loam
+Clay content--0 to 18 percent
+Reaction--7.5 to 9.5
+Effervescence--strong to violent
+Other features--15 percent or more (by weight, fine-earth fraction) calcium carbonate
+Thickness--20 to 60 cm
+
+2C1 horizon
+Hue--10YR, 2.5Y, 5Y
+Value--3 to 5 moist, 5 to 7 dry
+Chroma--1 or 4 moist
+Fine-earth texture--silt loam, loam, fine sandy loam
+Rock fragment content--20 to 35 percent
+Clay content--0 to 18 percent
+Reaction--7.5 to 9.0
+Effervescence--slight to strong
+Thickness--10 to 20 cm
+
+2C2 and 2C3 horizons
+Hue--10YR, 2.5Y, 5Y
+Value--3 to 5 moist, 5 to 7 dry
+Chroma--1 or 4 moist
+Fine-earth texture--silt loam, very fine sandy loam
+Rock fragment content--20 to 85 percent
+Clay content--0 to 18 percent
+Reaction--7.5 to 9.0
+Effervescence--slight to strong
+Thickness--70 to 100 cm
+
+COMPETING SERIES: 
+None
+
+GEOGRAPHIC SETTING:
+Elevation--100 to 300 m
+Climate--warm, moist, short summers; very cold, dry, long winters
+Mean annual precipitation--210 to 310 mm
+Mean annual air temperature-- -12 to 0 degrees C
+Frost-free period--45 to 97 days
+
+GEOGRAPHICALLY ASSOCIATED SOILS:
+Tlozhavun--no aquic conditions within 150 cm; no calcic horizons or sodic properties; similar landforms
+Tajittro--aquic conditions within 100 cm; permafrost within 1 m; no calcic horizons or sodic properties; similar landforms
+Yasuda--aquic conditions within 25 cm; adjacent terrace depressions; sodic properties
+
+DRAINAGE AND SATURATED HYDRAULIC CONDUCTIVITY:
+Drainage class--well drained
+Saturation in normal years--none
+Flooding--none
+Ponding--none
+Saturated hydraulic conductivity (Ksat)--high throughout
+
+USE AND VEGETATION:
+Use--wildlife habitat, subsistence, recreation
+Potential natural vegetation--White spruce, quaking aspen, russet buffaloberry, prickly rose, grayleaf willow, twinflower, lingonberry, purple reedgrass, false toadflax, tall bluebells, Jakutsk snowparsley, sidebells wintergreen, eastern pasqueflower, splendid feather moss, Ptilidium liverwort, greygreen reindeer lichen, felt lichen, cup lichen
+
+DISTRIBUTION AND EXTENT: Yukon Flats Lowlands, Alaska; MLRA 232; moderate extent
+
+SOIL SURVEY REGIONAL OFFICE (SSRO) RESPONSIBLE: Portland, Oregon
+
+SERIES ESTABLISHED: Yukon Flats National Wildlife Refuge, Yukon-Koyukuk Census Area, Alaska; 2020
+
+REMARKS:
+Diagnostic horizons and other features in this pedon
+*Particle-size control section--zone from 29 to 104 cm
+*Ochric epipedon
+*Albic materials--E horizon
+*Calcic horizon--Bkn1 and Bkn2 horizons
+*Free carbonates--Bw, Bkn1, Bkn2, 2C1, 2C2, and 2C3 horizons
+Soils in this series do not meet the criteria for a mollic epipedon due to thickness.
+Where secondary carbonates are not visible, pedogenic accumulation of carbonates is inferred from increase in effervescence and pH compared to surrounding horizons. See pedon IDs S2014AK290001 and S2014AK290002 in the NCSS database for supporting calcium carbonate data.
+Sodic properties may be present in some horizons with an exchangeable sodium percentage of more than 15 percent, but these horizons do not meet diagnostic criteria for a natric horizon. See pedon IDs S2014AK290001 and S2014AK290002 in the NCSS database for supporting chemical data.
+
+
+National Cooperative Soil Survey
+U.S.A.

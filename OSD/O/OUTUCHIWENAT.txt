@@ -1,0 +1,122 @@
+LOCATION OUTUCHIWENAT           AK
+
+Established Series
+SAS/ABD/TJR
+03/2019
+
+OUTUCHIWENAT SERIES
+
+Landscape--mountains
+Landform--mountain slopes
+Slope--10 to 60 percent
+Parent material--colluvium over residuum
+Mean annual precipitation--about 1250 mm
+Mean annual air temperature--about 0 degrees C
+Depth class--moderately deep
+Drainage class--well drained
+Soil moisture regime--udic
+Soil temperature regime--gelic
+Soil moisture subclass--typic
+
+TAXONOMIC CLASS: Loamy-skeletal, isotic, acid, subgelic Typic Humigelepts
+
+TYPICAL PEDON: Outuchiwenat gravelly sandy loam on a south-southwest-facing, linear, concave mountain backslope, on a slope of 48 percent at an elevation of 764 m (The soil was moist throughout when described on July 18, 2012.)
+
+ A1--0 to 7 cm; gravelly sandy loam, grayish brown (10YR 5/2) dry, very dark grayish brown (10YR 3/2) moist; weak fine granular structure; soft, very friable, nonsticky and nonplastic; common very fine and fine roots; 20 percent gravel; very strongly acid (pH 4.5); clear smooth boundary
+
+ A2--7 to 60 cm; very gravelly sandy loam, brown (10YR 5/3) dry, dark brown (10YR 3/3) moist; weak medium granular structure; slightly hard, friable, nonsticky and nonplastic; common very fine and many fine roots; 35 percent gravel and 10 percent cobbles; very strongly acid (pH 5.0); clear smooth boundary
+
+ 2Bw--60 to 78 cm; extremely gravelly sandy loam, light yellowish brown (10YR 6/4) dry, dark yellowish brown (10YR 4/4) moist; weak medium subangular blocky structure; slightly hard, friable, nonsticky and nonplastic; common very fine and fine roots; 60 percent gravel and 10 percent cobbles; moderately acid (pH 5.7); clear wavy boundary
+
+ 2Cr--78 cm; paralithic bedrock
+
+TYPE LOCATION: Dillingham Census Area, Alaska, about 125 km northwest of the city of Dillingham; latitude 59.7507375 degrees north, longitude 160.2224320 degrees west, datum WGS 84 (coordinates determined with a GPS)
+
+RANGE IN CHARACTERISTICS:
+Mean annual soil temperature-- -1 to 0 degrees C
+Soil moisture control section--dry less than 45 consecutive days in June through October (udic moisture regime)
+Depth to paralithic contact--50 to 100 cm (moderately deep) below the soil surface
+Lithology of rock fragments--sedimentary, volcanic
+Other features--lithologic discontinuity; umbric epipedon
+
+All mineral horizons
+*Base saturation--0 to 20 percent
+
+Particle-size control section
+*Clay content--3 to 15 percent
+*Sand content--50 to 75 percent
+*Total rock fragment content--35 to 85 percent
+*Sodium fluoride pH--8.4 to 11.6
+*Ratio of 1500 kPa water to measured clay-- 0.6 to 6.0
+
+A1 horizon
+Value--2 or 3 moist, 4 or 5 dry
+Chroma--1 to 3 moist
+Fine-earth texture--sandy loam, loam
+Clay content--4 to 12 percent
+Reaction--4.5 to 6.0
+Gravel content--15 to 30 percent
+Thickness--7 to 15 cm
+Organic carbon content--2 to 4 percent
+
+A2 horizon
+Value--2 or 3 moist, 4 or 5 dry
+Chroma--2 or 3 moist
+Fine-earth texture--sandy loam, loam
+Clay content--3 to 15 percent
+Reaction--4.8 to 6.0
+Total rock fragment content--35 to 85 percent
+Gravel content--35 to 85 percent
+Cobble content--0 to 15 percent
+Thickness--12 to 53 cm
+Organic carbon content--1 to 4 percent
+
+2Bw or 2C horizon
+Hue--7.5YR to 5Y
+Value--2 to 4 moist, 4 to 6 dry
+Chroma--3 or 4 moist
+Clay content--3 to 15 percent
+Reaction--5.0 to 6.0
+Total rock fragment content--40 to 85 percent
+Gravel content--40 to 85 percent
+Cobble content--0 to 15 percent
+Thickness--11 to 38 cm
+
+COMPETING SERIES: None
+
+GEOGRAPHIC SETTING:
+Elevation--200 to 1250 m
+Climate--warm, moist summers; cold, moist winters
+Mean annual precipitation--620 to 2200 mm
+Mean annual air temperature-- -3.6 to 0.3 degrees C
+Frost-free period--60 to 125 days
+
+GEOGRAPHICALLY ASSOCIATED SOILS:
+Kashaiak--lithic contact; similar landscape positions
+Buchia--more than 150 cm (very deep) to lithic bedrock; similar landscape positions
+
+DRAINAGE AND SATURATED HYDRAULIC CONDUCTIVITY:
+Drainage class--well drained
+Saturated hydraulic conductivity (Ksat)--high throughout
+
+USE AND VEGETATION:
+Use--wildlife habitat, recreation, subsistence
+Potential natural vegetation--alpine sweetgrass, dwarf birch, variegated sedge, greygreen reindeer lichen and other reindeer lichens, cup lichens, black crowberry, Alaska bellheather, felt lichen, beauverd spirea, bog blueberry, lingonberry
+
+DISTRIBUTION AND EXTENT: Ahklun Mountains, Alaska; MLRA 237; moderate extent
+
+SOIL SURVEY REGIONAL OFFICE (SSRO) RESPONSIBLE: Portland, Oregon
+
+SERIES ESTABLISHED: Togiak National Wildlife Refuge, Dillingham Census Area, Alaska; 2019
+
+REMARKS:
+Diagnostic horizons and other features in this pedon
+*Particle-size control section--zone from 25 to 78 cm
+*Umbric epipedon--A horizon
+*Cambic horizon--2Bw horizon
+*Depth to paralithic contact--78 cm
+
+See laboratory pedon number 13N44525 for loamy-skeletal material that has isotic mineralogy.
+
+National Cooperative Soil Survey
+U.S.A.

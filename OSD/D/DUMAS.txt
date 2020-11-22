@@ -1,0 +1,141 @@
+LOCATION DUMAS                  TX+NM
+
+Established Series
+Rev. ERB-CPH-SLM
+04/2016
+
+DUMAS SERIES
+
+The Dumas series consists of very deep, well drained, moderately permeable soils that formed in loamy eolian sediments of Pleistocene age.  These soils are on nearly level to gently sloping plains of the Southern High Plains, Northern part (MLRA 77A).  Slope ranges from 0 to 5 percent.  Mean annual temperature is 13 degrees C (55 degrees F), and mean annual precipitation is about 460 mm (18 in).
+
+TAXONOMIC CLASS: Fine-loamy, mixed, superactive, mesic Aridic Paleustolls
+
+TYPICAL PEDON:  Dumas loam--on a 0.5 percent slope in rangeland at an elevation of 1053 m (3455 ft). (Colors are for dry soil unless otherwise noted.)
+
+    A--0 to 18 cm (0 to 7 in); brown (10YR 5/3) loam, dark brown (10YR 3/3) moist; moderate fine granular structure; hard, friable; few very fine pores; noneffervescent; neutral, pH 7.0; abrupt smooth boundary. (Thickness of the A or Ap horizon(s) is 15 to 30 cm [6 to 12 in])
+
+    Bt1--18 to 38 cm (7 to 15 in); brown (10YR 4/3) clay loam, dark brown (10YR 3/3) moist; moderate coarse prismatic structure parting to moderate fine and very fine subangular blocky; hard, friable; common medium and fine pores; few wormcasts; few distinct clay films on ped surfaces; noneffervescent; neutral, pH 7.2; gradual smooth boundary.
+
+    Bt2--38 to 56 cm (15 to 22 in); brown (7.5YR 4/4) clay loam, dark brown (7.5YR 3/4) moist; moderate coarse prismatic structure parting to moderate medium and fine subangular blocky; very hard, firm; few fine pores; few distinct clay films on ped surfaces; noneffervescent; neutral, pH 7.3; clear wavy boundary. (Combined thickness of the Bt horizon is 15 to 71 cm [6 to 28 in]) 
+
+    Btk1--56 to 86 cm (22 to 34 in); yellowish red (5YR 5/6) clay loam, yellowish red (5YR 4/6) moist; moderate coarse prismatic parting to moderate medium and fine subangular blocky structure; hard, friable; few distinct clay films on ped surfaces; few distinct carbonate coats on ped surfaces; few very fine threadlike and irregular carbonate masses and concretions; strongly effervescent; moderately alkaline, pH 7.8; clear wavy boundary. 
+
+    Btk2--86 to 114 cm (34 to 45 in); reddish yellow (7.5YR 6/6) clay loam, strong brown (7.5YR 4/6) moist; moderate coarse prismatic parting to moderate fine subangular blocky structure; hard, friable; few distinct clay films on ped surfaces; common distinct carbonate coats on ped surfaces; common fine threadlike and irregular carbonate masses and concretions; violently effervescent; moderately alkaline, pH 8.2; gradual wavy boundary. (Combined thickness of the Btk horizon is 38 to 114 cm [15 to 45 in])
+
+    Bk1--114 to 170 cm (45 to 67 in); light brown (7.5YR 6/4) clay loam, brown (7.5YR 4/4) moist; moderate fine subangular blocky structure; hard; friable; common fine pores; mane fine and medium threadlike and irregular carbonate masses and concretions; violently effervescent; moderately alkaline, pH 8.2; gradual wavy boundary. (Combined thickness of the Bk horizons 69 to 135 cm [27 to 53 in])
+
+    Bk2--170 to 203 cm (67 to 80 in); reddish yellow (7.5YR 7/6) clay loam, strong brown (7.5YR 5/6) moist; weak medium subangular blocky structure; hard, friable; many medium and fine pores; common fine and medium threadlike and irregular carbonate masses and concretions; violently effervescent; moderately alkaline, pH 8.2.
+
+TYPE LOCATION:  Sherman County, Texas; from the intersection of East St. and Highway 95 (Texas Street)on the east side of Texhoma, 1.5 miles east on Highway 95, then 1.6 miles south on Farm to Market Road 1290; 30 ft (9m) east into pasture.
+
+USGS topographic quadrangle: Sunray 1 NW, Texas
+Latitude: 36 degrees, 28 minutes, 38.07 seconds N
+Longitude: 101 degrees, 45 minutes, 0.68 seconds W
+Datum: WGS84
+
+Decimal degrees:
+Latitude: 36.4772415 
+Longitude: -101.7501907
+
+UTM Easting: 253606 m
+UTM Northing: 4040400 m
+Datum: UTM Zone 14S
+
+RANGE IN CHARACTERISTICS:
+Solum thickness: more than 203 cm (80 in)
+Thickness of mollic epipedon: 25 to 46 cm (10 to 18 in)
+Thickness of argillic horizon: 25 to 173 cm (10 to 68 in)
+Depth to secondary carbonates: 50 to 86 cm (20 to 34 in)
+Depth to calcic horizon: 76 to 127 cm (30 to 50 in)
+
+Particle-size control section (weighted average):
+Silicate clay: 18 to 35 percent
+
+A horizon:
+Hue: 7.5YR or 10YR
+Value: 4 or 5, 2 or 3 moist
+Chroma: 2 or 3 moist or dry
+Texture: loam, clay loam, or sandy clay loam
+Effervescence: none
+Reaction (pH): neutral or slightly alkaline (6.6-7.8)
+
+Bt horizon:
+Hue: 7.5YR or 10YR
+Value: 4 or 5, 3 to 4 moist 
+Chroma: 2 to 4 moist or dry
+Texture: clay loam or sandy clay loam
+Effervescence: none
+Reaction (pH): neutral or slightly alkaline (6.6-7.8)
+
+Btk horizon:
+Hue: 5YR or 7.5YR
+Value: 5 to 8, 4 to 7 moist 
+Chroma: 4 to 6 moist or dry
+Texture: loam, clay loam or sandy clay loam
+Identifiable secondary carbonate: amount-3 to 25 percent; size- very fine to coarse; kind-films, filaments, masses, nodules, and concretions 
+Effervescence: strong or violent 
+Reaction (pH): moderately alkaline or strongly alkaline (7.9-9.0)
+
+Bk horizons (and Bkk or Btkk horizons where present):
+Hue: 5YR or 7.5YR
+Value: 5 to 8, 4 to 7 moist 
+Chroma: 3 to 6 moist or dry
+Texture: loam, clay loam or sandy clay loam
+Visible calcium carbonate: amount-50 to 70 percent; size-very fine to coarse; kind-films, filaments, masses, nodules, and finely disseminated carbonates 
+Effervescence: violent 
+Reaction (pH): moderately alkaline or strongly alkaline (7.9-9.0)
+
+COMPETING SERIES: There are no competing series. Similar soils include the Acuff (TX) and Estacado (TX) soils.
+Acuff and Estacado soils: formed in the Blackwater Draw Formation, and have mean annual soil temperatures of 15 to 18 degrees C (59 to 64 degrees F)
+
+GEOGRAPHIC SETTING: 
+Parent material: loamy eolian sediments of Pleistocene age
+Landscape: Tablelands
+Landform: Plains 
+Slope: 0 to 5 percent
+Soil moisture:  An ustic moisture regime bordering on aridic.  The soil moisture control section is dry in some or all parts for more than 180 but less than 205 days, cumulative, in normal years.  July through August and December through February are the driest months.  These soils are intermittently moist in September through November and March through June.
+Mean annual soil temperature: 13 to 15 degrees C (55 to 59 degrees F)
+Mean annual air temperature: 12 to 14 degrees C (53 to 57 degrees F)
+Mean annual precipitation: 381 to 584 mm (15 to 23 in)
+Frost Free Period: 170 to 200 days
+Elevation: 750 to 1250 m (2460 to 4100 ft)
+Thornthwaite annual P-E Index Values: 25 to 36
+
+GEOGRAPHICALLY ASSOCIATED SOILS: These are the Conlen, Dalhart, Dallam, Gruver, Hansford, Knoblaw, Lautz, Oslo, Perico, Perryton, Plack, Rickmore, Sherm, Sunray, and Texline soils.
+Conlen soils: occur in lower positions and have carbonatic mineralogy 
+Gruver, Perryton, and Sherm soils: occur on similar positions, and have greater than 35 percent clay in the particle-size control section
+Oslo soils: occur on similar positions, and have a fine-silty particle-size class
+Texline soils: occur on similar positions, and have a calcic horizon within 40 to 76 cm (16 to 30 in) of the soil surface 
+Dalhart and Dallam soils: occur on slightly higher positions and have an ochric epipedon
+Hansford, Knoblaw, and Lautz soils: occur in lower playa positions and have greater than 35 percent clay in the particle-size control section 
+Perico and Rickmore soils: occur on similar positions and have an ochric epipedon
+Plack soils: occur in lower positions and have a petrocalcic horizon within 50 cm (20 in) of the soil surface
+Sunray soils: are on similar positions and have a calcic horizon within 60 cm (24 in) of the soil surface
+
+DRAINAGE AND PERMEABILITY:  
+Drainage class: well drained
+Permeability: moderate 
+Runoff: negligible on slopes less than 1 percent, low on 1 to 3 percent slopes, and medium on 3 to 5 percent slopes.
+
+USE AND VEGETATION:  These soils are mainly cultivated with corn, soybeans, grain sorghum, and winter wheat.  A considerable amount of acreage is irrigated.  Climax vegetation is dominantly short grasses with a few mid-grasses, including blue grama and buffalograss, with lesser amounts of vine-mesquite, western wheatgrass, sideoats grama, galleta, or tobosa, silver bluestem, wild alfalfa, and prairie clover.  
+
+DISTRIBUTION AND EXTENT:  LRR-H; Southern High Plains, Northern Part (MLRA 77A) of the Texas Panhandle.  The soil is also correlated outside MLRA 77A in portions of eastern New Mexico.  This soil is extensive.
+
+MLRA SOIL SURVEY REGIONAL OFFICE (MO) RESPONSIBLE:  Temple, Texas
+
+SERIES ESTABLISHED:  Sherman County, Texas; 1970.
+
+REMARKS:  Series revised as part of the SDJR initiative, 2016.  The pedon description was updated to agree with the original pedon description. Range in characteristics and horizon data were updated.  
+
+Diagnostic horizons and features recognized in this pedon:
+Mollic epipedon: 0 to 38 cm (0 to 15 in) (A and Bt1 horizons)
+Argillic horizon: 18 to 86 cm (7 to 34 in) (Bt1, Bt2, Btk1 horizons)
+Calcic horizon: 86 to 203 cm (34 to 80 in) (Btk2, Bk1, Bk2 horizons)
+User Pedon ID: P1975TX421005
+
+ADDITIONAL DATA:  none available
+
+Taxonomic Version:  Keys to Soil Taxonomy, Twelfth Edition, 2014.
+
+National Cooperative Soil Survey
+U.S.A.

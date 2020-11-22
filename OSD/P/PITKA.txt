@@ -1,0 +1,132 @@
+LOCATION PITKA                  AK
+
+Established Series
+JDP/BB/TJR
+04/2020
+
+PITKA SERIES
+
+Landscape--alluvial plains
+Landform--depressions on stream terraces
+Slope--0 to 3 percent
+Parent material--alluvium
+Mean annual precipitation--about 255 mm
+Mean annual air temperature--about -6 degrees C
+Depth class--very deep
+Drainage class--poorly drained
+Soil moisture regime--aquic
+Soil temperature regime--gelic
+Soil moisture subclass--typic
+
+TAXONOMIC CLASS: Coarse-silty, mixed, superactive, nonacid, subgelic Typic Aquorthels
+
+TYPICAL PEDON: Pitka silt loam on a scrubland terrace depression with a slope of 1 percent and an elevation of 133 m (The soil was moist throughout when described on August 12, 2011.)
+
+ Oi--0 to 10 cm; slightly decomposed plant material; common fine and medium roots, and many very fine roots; slightly acid (pH 6.5)
+
+ Oa--10 to 14 cm; highly decomposed plant material; common fine and medium roots, and many very fine roots; strongly acid (pH 5.4); abrupt wavy boundary
+
+ A--14 to 19 cm; silt loam; dark grayish brown (10YR 4/2) dry, very dark brown (10YR 2/2) moist; weak very fine granular structure; soft, very friable, nonsticky and nonplastic; common fine and very fine roots; common fine and medium pores; noneffervescent; slightly acid (pH 6.2); clear wavy boundary
+
+ C--19 to 74 cm; silt loam; 50 percent light yellowish brown (2.5Y 6/3) dry, olive brown (2.5Y 4/3) moist and 50 percent light brownish gray (2.5Y 6/2) dry, dark grayish brown (2.5Y 4/2) moist; weak thin platy structure; soft, very friable, nonsticky and nonplastic; few fine pores; 10 percent iron depletions in matrix and 40 percent dark yellowish brown (10YR 4/6) moist, masses of oxidized iron in matrix; noneffervescent; slightly acid (pH 6.5); clear wavy boundary
+
+ Cf--74 to 100 cm; permanently frozen silt loam; light brownish gray (2.5Y 6/2) dry, dark grayish brown (2.5Y 4/2) moist; massive; nonsticky and nonplastic; noneffervescent; slightly acid (pH 6.1); clear wavy boundary
+
+TYPE LOCATION: Yukon-Koyukuk Census Area, Alaska; latitude 66.7113889 degrees, longitude -145.7150000 degrees, datum WGS84 (coordinates determined with a GPS)
+
+RANGE IN CHARACTERISTICS:
+Mean annual soil temperature-- -4 to 1 degrees C
+Depth to permafrost--60 to 100 cm
+Depth to redoximorphic features--25 to 50 cm
+
+Oi horizons
+Thickness--5 to 15 cm
+Reaction--5.0 to 8.0
+
+Oe horizons (where present)
+Thickness--5 to 15 cm
+Reaction--5.0 to 8.0
+
+Oa horizons
+Thickness--5 to 15 cm
+Reaction--5.0 to 8.0
+
+A horizon
+Hue--10YR, 2.5Y
+Value--2 or 3 moist, 4 or 5 dry
+Chroma--1 or 2 moist
+Fine-earth texture--silt loam, loam
+Clay content--0 to 18 percent
+Reaction--6.0 to 8.5
+Effervescence--none to strong
+Thickness--5 to 15 cm
+
+Bw horizons (where present)
+Hue--2.5Y to 7.5YR
+Value--4 or 5 moist, 6 or 7 dry
+Chroma--2 to 4 moist
+Fine-earth texture--silt loam, loam, very fine sandy loam
+Clay content--0 to 18 percent
+Reaction--6.0 to 8.5
+Effervescence--none to strong
+Thickness--5 to 20 cm
+
+C and Cf horizons
+Hue--10YR, 2.5Y
+Value--3 or 4 moist, 5 or 6 dry
+Chroma--1 to 3 moist
+Fine-earth texture--silt loam, very fine sandy loam
+Clay content--0 to 18 percent
+Reaction--6.0 to 8.5
+Effervescence--none to strong
+Combined thickness--100 to 125 cm
+
+COMPETING SERIES:
+Twin--rare flooding; higher positions on similar landforms, forested
+Chetlechak--occasional flooding; similar positions on adjacent floodplains
+Dotlake--interdunes with sandy substrata; higher mean annual precipitation
+
+GEOGRAPHIC SETTING:
+Elevation--90 to 300 m
+Climate--short, warm summers and long, very cold winters
+Mean annual precipitation--210 to 310 mm
+Mean annual air temperature-- -12 to 0 degrees C
+Frost-free period--45 to 97 days
+
+GEOGRAPHICALLY ASSOCIATED SOILS:
+Yasuda--aquic conditions within 25 cm  with frequent ponding; lower positions on similar landforms; sodic properties
+Tlozhavun--no aquic conditions within 150 cm; higher positions on similar landforms
+Tajittro--aquic conditions within 100 cm; higher positions on similar landforms
+Choonjik--no aquic conditions within 150 cm; calcareous; higher positions on similar landforms
+Gwichin--aquic conditions within 100 cm with rare flooding; higher positions on similar landforms
+
+DRAINAGE AND SATURATED HYDRAULIC CONDUCTIVITY:
+Drainage class--poorly drained
+Saturation in normal years--water table top depth between a depth of 10 to 25 cm in June, and between a depth of 25 to 75 cm in July and August
+Flooding--none
+Ponding--occasional, brief
+Saturated hydraulic conductivity (Ksat)--high throughout
+
+USE AND VEGETATION:
+Use--wildlife habitat, subsistence, recreation
+Potential natural vegetation--white spruce, tealeaf willow, false mountain willow, littletree willow, grayleaf willow, water sedge, bluejoint, and arctic raspberry
+
+DISTRIBUTION AND EXTENT: Yukon Flats Lowlands, Alaska; MLRA 232; moderate extent
+
+SOIL SURVEY REGIONAL OFFICE (SSRO) RESPONSIBLE: Portland, Oregon
+
+SERIES ESTABLISHED: Yukon Flats National Wildlife Refuge, Yukon-Koyukuk Census Area, Alaska; 2020
+
+REMARKS:
+Diagnostic horizons and other features in this pedon
+*Particle-size control section--zone from 39 to 114 cm
+*Ochric epipedon
+*Aquic conditions--C horizon
+*Redoximorphic iron concentrations--C horizon
+*Redoximorphic iron depletions--C horizon
+*Permafrost--Cf horizon
+Organic horizons are saturated for more than 30 days (cumulative) in normal years, and do not meet the criteria for a folistic epipedon.
+
+
+National Cooperative Soil Survey
+U.S.A.

@@ -1,0 +1,140 @@
+LOCATION STUYAHOK               AK
+
+Established Series
+SAS/MPR
+03/2019
+
+STUYAHOK SERIES
+
+Landscape--plains, hills
+Landform--rises, hillslopes
+Slope--0 to 15 percent
+Parent material--drift
+Mean annual precipitation--about 900 mm
+Mean annual air temperature--about 0 degrees C
+Depth class--very deep
+Drainage class--well drained
+Soil moisture regime--udic
+Soil temperature regime--cryic
+Soil moisture subclass--typic
+
+TAXONOMIC CLASS: Loamy-skeletal, isotic Typic Dystrocryepts
+
+TYPICAL PEDON: Stuyahok silt on a south-southeast-facing, convex rise of a glaciated plain, on a slope of 6 percent at an elevation of 129 m (The soil was moist throughout when described on September 15, 2012.)
+
+ A--0 to 2 cm; silt, grayish brown (10YR 5/2) dry, very dark grayish brown (10YR 3/2) moist; weak fine granular structure; slightly hard, friable, slightly sticky and slightly plastic; common very fine and fine roots; 2 percent gravel; extremely acid (pH 4.4); clear smooth boundary
+
+ Bw1--2 to 5 cm; silt loam, brown (7.5YR 5/4) dry, dark brown (7.5YR 3/4) moist; weak fine granular structure; slightly hard, friable, nonsticky and nonplastic; common very fine and fine roots; 2 percent gravel; very strongly acid (pH 4.9); clear wavy boundary
+
+ Bw2--5 to 17 cm; silt loam, light yellowish brown (10YR 6/4) dry, dark yellowish brown (10YR 4/4) moist; weak coarse subangular blocky structure; slightly hard, friable, nonsticky and nonplastic; common very fine and fine roots; 1 percent gravel; strongly acid (pH 5.2); clear smooth boundary
+
+ BC--17 to 38 cm; very gravelly sandy loam, pale brown (10YR 6/3) dry, brown (10YR 4/3) moist; moderate fine subangular blocky structure; moderately hard, firm, slightly sticky and slightly plastic; few very fine and fine roots; 45 percent gravel; strongly acid (pH 5.4); clear smooth boundary
+
+ C--38 to 180 cm; extremely gravelly sandy loam, light yellowish brown (10YR 6/4) dry, dark yellowish brown (10YR 4/4) moist; massive; hard, very firm, slightly sticky and slightly plastic; 70 percent gravel; moderately acid (pH 5.8)
+
+TYPE LOCATION: Dillingham Census Area, Alaska, about 70 km northeast of the city of Dillingham; latitude 59.5080556 degrees north, longitude 157.6708333 degrees west, datum WGS 84 (coordinates determined with a GPS)
+
+RANGE IN CHARACTERISTICS:
+Mean annual soil temperature--0 to 2 degrees C
+Soil moisture control section--dry less than 45 consecutive days in June through October (udic soil moisture regime)
+Thickness of cambic horizon--15 to 76 cm
+
+Particle-size control section
+*Clay content--0 to 15 percent
+*Sand content--18 to 75 percent
+*Total rock fragment content--35 to 80 percent
+*Sodium fluoride pH--8.4 to 11.6
+*Ratio of 1500 kPa water to measured clay--0.6 to 6.0
+
+A horizon
+Hue--7.5YR, 10YR
+Value--2 to 3 moist, 4 or 5 dry
+Chroma--1 to 3 moist
+Fine-earth texture--silt loam, silt
+Clay content--2 to 12 percent
+Reaction--3.8 to 4.8
+Gravel content--0 to 30 percent
+Thickness--2 to 17 cm
+
+Bw1 horizon
+Hue--7.5YR, 10YR
+Value--3 to 5 moist, 5 to 7 dry
+Chroma--1 to 4 moist
+Fine-earth texture--silt loam, sandy loam
+Clay content--2 to 12 percent
+Reaction--4.0 to 5.0
+Total rock fragment content--0 to 30 percent
+Thickness--2 to 30 cm
+
+Bw2 horizon
+Value--3 or 4 moist, 5 or 6 dry
+Chroma--3 to 5 moist
+Fine-earth texture--silt loam, sandy loam
+Clay content--2 to 12 percent
+Reaction--5.2 to 5.8
+Total rock fragment content--0 to 30 percent
+Thickness--2 to 30 cm
+
+BC horizon
+Hue--10YR, 2.5Y
+Value--3 or 4 moist, 5 or 6 dry
+Chroma--3 to 5 moist
+Fine earth texture--sandy loam, loam
+Clay content--0 to 15 percent
+Reaction--4.4 to 6.0
+Total rock fragment content--15 to 70 percent
+Thickness--5 to 100 cm
+
+C horizon
+Hue--10YR, 2.5Y
+Value--4 or 5 moist, 6 or 7 dry
+Chroma--3 or 4 moist
+Fine earth texture--fine sandy loam, sandy loam
+Clay content--0 to 15 percent
+Reaction--5.5 to 6.0
+Total rock fragment content--35 to 80 percent
+Gravel content--35 to 80 percent
+Cobble content--0 to 10 percent
+Thickness--more than 5 cm
+
+COMPETING SERIES:
+Sharp--100 to 150 cm (deep) to lithic contact
+Bensley--no lithic contact; mean annual soil temperature of 3 to 7 degrees C
+Endlich--50 to 100 cm (moderately deep) to lithic contact
+Fallriver--albic horizon; 15 to 30 percent mica in the particle-size control section
+Henson--18 to 35 percent clay in the particle-size control section
+
+GEOGRAPHIC SETTING:
+Elevation--2 to 625 m
+Climate--warm, moist summers; cold, moist winters
+Mean annual precipitation--550 to 1600 mm
+Mean annual air temperature-- -3.6 to 1.1 degrees C
+Frost-free period--80 to 140 days
+
+GEOGRAPHICALLY ASSOCIATED SOILS:
+Cranberrycreek--andic soil properties; less than 25 percent rock fragments in the particle-size control section; similar landscape positions
+Sharp--100 to 150 cm (deep) to lithic bedrock; hillslopes
+Tikchik--no lithic contact; umbric epipedon; hillslopes
+
+DRAINAGE AND SATURATED HYDRAULIC CONDUCTIVITY:
+Drainage class--well drained
+Saturated hydraulic conductivity (Ksat)--moderately high or high throughout
+
+USE AND VEGETATION:
+Use--wildlife habitat, recreation, subsistence
+Potential natural vegetation--dwarf birch, marsh Labrador tea, black crowberry, lingonberry, alpine azalea, alpine bearberry, snow lichen, reindeer lichens
+
+DISTRIBUTION AND EXTENT: Bristol Bay Lowlands, Alaska; MLRA 236; small extent
+
+SOIL SURVEY REGIONAL OFFICE (SSRO) RESPONSIBLE: Portland, Oregon
+
+SERIES ESTABLISHED: Togiak National Wildlife Refuge-Ahklun Mountains Area, Alaska; 2019
+
+REMARKS:
+Diagnostic horizons and other features in this pedon
+*Particle-size control section--zone from 25 to 100 cm
+*Ochric epipedon
+*Cambic horizon--Bw and BC horizons
+
+National Cooperative Soil Survey
+U.S.A.

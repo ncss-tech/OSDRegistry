@@ -1,0 +1,104 @@
+LOCATION LAWNES                 VA
+
+Established Series
+RLH-WJE, Rev MHC
+08/2009
+
+LAWNES SERIES
+
+The Lawnes series consists of very deep, very poorly drained, moderately permeable soils on tidal marshes. The soils formed in alluvial sediments. Slopes range from 0 to 2 percent. Mean annual precipitation is about 42 inches, and mean annual temperature is about 59 degrees F.
+
+TAXONOMIC CLASS: Coarse-loamy, mixed, superactive, nonacid, thermic Typic Sulfaquents
+
+TYPICAL PEDON: Lawnes mucky sandy loam - in a brackish marsh wildlife area.
+
+  A--0 to 13 inches, dark gray (10YR 4/1) mucky sandy loam; common medium distinct dark yellowish brown (10YR 4/4) accumulations; massive, weak fine granular structure when dry; slightly sticky, slightly plastic; many fine and medium fibrous roots; herbaceous plant material; soil flows easily between fingers when squeezed; n-value greater than 1.0; 0.115 percent sulfur; SAR 7.2 cmol/liter; moderately acid, extremely acid upon drying and moist incubation; clear smooth boundary. (8 to 24 inches thick)
+
+  Cg1--13 to 26 inches, dark gray (5Y 4/1) mucky sandy loam; common medium prominent dark yellowish brown (10YR 4/4) accumulations; massive; slightly sticky, slightly plastic; few fine and medium roots; herbaceous plant material; soil flows easily between fingers when squeezed; n-value greater than 1.0; 0.078 percent sulfur; SAR 5.2 cmol/liter; moderately acid, extremely acid upon drying and moist incubation; diffuse smooth boundary.
+
+  Cg2--26 to 40 inches, dark gray (5Y 4/1) sandy loam; common medium prominent dark yellowish brown (10YR 4/4) accumulations; massive; slightly sticky, slightly plastic; few fine roots; soil flows between fingers with some difficulty; n-value between 0.7 and 1.0; 0.064 percent sulfur; SAR 12.5 cmol/liter; moderately acid, extremely acid upon drying and moist incubation; diffuse smooth boundary.
+
+  Cg3--40 to 80 inches, dark gray (5Y 4/1) stratified coarse sand and sandy loam; massive; nonsticky, nonplastic; moderately acid, extremely acid upon drying.
+
+TYPE LOCATION: Surry County, Virginia; 1.1 miles southwest of the junction of VA-31 and VA-637, and 3.0 miles southeast of the junction of VA-610 and VA-618, at Scotland, along Grays Creek in Grays Creek Marsh.
+
+RANGE IN CHARACTERISTICS: 
+Thickness: Depth to bedrock is more than 60 inches.  
+Reaction: Strongly acid through neutral, extremely acid upon drying and moist incubation.
+Electrical conductivity: less than 8 dS/m.
+Soluble Ca, Mg, K, and Na: less than 80 cmol/liter of saturation extract in more than half upper 1 meter of soil.
+N-value: greater than 0.7 to a depth of 20 inches.
+Jarosite mottles: Throughout the profile of some pedons after a moist incubation period.
+Organic surface layers: less than 16 inches thick in some pedons.
+
+O horizon, (where present):
+Color--hue of 10YR to 5GY, or is neutral, value of 2 to 4, and chroma of 0 to 2
+Organic materials: Sapric, hemic
+
+A horizon:
+Color--hue of 10YR to 5Y, value of 3 or 4, and chroma of 1 or 2
+Texture (fine-earth fraction)--sandy loam, fine sandy loam, loam, or silt loam
+
+Cg horizon:
+Color--hue of 10YR to 5GY, or is neutral, value of 2 to 5,and chroma of 0 to 2
+Texture: (fine-earth fraction)--Stratified and variable; clay content less than 18 percent. Below 40 inches, thin layers of mucky sandy clay loam, mucky silty clay loam, mucky clay 
+loam, or buried organic material are in some pedons.
+
+COMPETING SERIES:  
+This is the Axis series is in the same family. Axis soils have a SAR greater than 13.
+
+GEOGRAPHIC SETTING: Lawnes soils are along rivers and creeks in brackish tidal marshes, and are alternately inundated by fresh water and brackish water. The soils formed in alluvial sediments. Slopes range from 0 to 2 percent. Mean annual precipitation ranges from about 38 to 46 inches, and mean annual 
+temperature ranges from about 57 to 60 degrees F.
+
+GEOGRAPHICALLY ASSOCIATED SOILS: These are the saline Bohicket soils on nearby salt marshes; the organic Lanexa and clayey Levy soils on nearby freshwater marshes; and nontidal Bibb, Mattan, and Nawney soils on adjacent flood plains.
+
+DRAINAGE AND PERMEABILITY: Very poorly drained; very slow runoff; moderate permeability.
+
+USE AND VEGETATION: Wetland wildlife habitat. Vegetation includes northern wild rice, arrow arum, pickerel weed, water hemp, beggar tick, cattail, spike rush, marsh habiscus, and ironweed.
+
+DISTRIBUTION AND EXTENT: Virginia. The series is of small extent.
+
+MLRA SOIL SURVEY REGIONAL OFFICE (MO) RESPONSIBLE: Raleigh, North Carolina
+
+SERIES ESTABLISHED: Charles City County, Virginia, 1993. Lawnes is named for a Creek in Surry County.
+
+REMARKS: Lawnes soils were included with Lanexa series and fresh water and salt water tidal marshes in the past.
+
+Diagnostic horizons and features recognized in this pedon are:
+1) Ochric epipedon - the zone from the surface to 13 inches.
+2) Electrical conductivity less than 8 dS/m in more than half the upper 1 meter of soil.
+3) Less than 80 cmol of soluble Ca, Mg, K, and Na per liter of saturation extract in more than half the upper 1 meter of soil.
+4) Less than 0.75 percent sulfur in the upper 20 inches of the soil.
+The diagnostic features recognized may be submitted for a proposed Fluvic Sulfaquent subgroup. Typic subgroup requires sulfur to be greater than 0.75 percent. Diagnostic features will be recognized as series criteria.
+
+SIR = VA0347
+MLRA = 133A, 153A, 153B
+REVISED = 1/18/91
+
+ADDITIONAL DATA: Chesapeake Bay Tidal Wetland Soils in Virginia: A Pilot Characterization, Edmonds, W. J., R. L. Hodges, and C. D. Peacock, Jr., VAES Bulletin 89-x, Department of Agronomy, Virginia Agricultural Experiment Station, Blacksburg, Virginia.
+
+TABULAR SERIES DATA:
+
+SOI-5  Name     Slope  Airtemp FrFr/Seas  Precip  Elevation
+VA0347 LAWNES   0-2    57-60   200-250    38-46   0-5 
+
+SOI-5  FloodL FloodH Watertable Kind    Months  Bedrock Hardness
+VA0347 FREQ          0-0      APPARENT  JAN-DEC >60        
+
+SOI-5  Depth  Texture             3-Inch  No-10   Clay%  -CEC-
+VA0347  0-13  MK-SL MK-FSL MK-L   0-0    100-100  5-18   20-50
+VA0347  0-13  L SIL               0-0    100-100  5-18   20-50
+VA0347  0-13  MUCK MPT            0-0       -     0- 5   20-50
+VA0347 13-40  SL L COS            0-0    100-100  5-18   10-30
+VA0347 40-80  MK-SL L COS         0-0    100-100  5-18   10-30
+
+SOI-5  Depth    -pH-     O.M.  Salin  Permeab   Shnk-Swll
+VA0347  0-13  5.1-7.3   5.-15  1-8   0.6-2.0     LOW      
+VA0347  0-13  5.1-7.3   4.-8.  1-8   0.6-2.0     LOW      
+VA0347  0-13  5.1-7.3   20-90  1-8   0.6-2.0     LOW      
+VA0347 13-40  5.1-7.3   .5-8.  1-8   0.6-2.0     LOW      
+VA0347 40-80  5.1-7.3   .5-15  1-8   0.6-2.0     LOW       
+
+
+National Cooperative Soil Survey
+U.S.A.

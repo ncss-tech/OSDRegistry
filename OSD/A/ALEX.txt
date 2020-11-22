@@ -1,0 +1,130 @@
+LOCATION ALEX                   ID
+
+Established Series
+Rev. WJ/RGK/CBR/EED
+05/2018
+
+ALEX SERIES
+
+Landscape--alluvial plains
+Landform--stream terraces
+Slope--0 to 4 percent
+Parent material--alluvium derived from rhyolite
+Mean annual precipitation--about 600 mm
+Mean annual air temperature--about 3 degrees C
+Depth class--very deep
+Drainage class--somewhat poorly drained
+Soil moisture regime--xeric
+Soil temperature regime--cryic
+
+TAXONOMIC CLASS: Fine-loamy over sandy or sandy-skeletal, mixed, superactive Aquic Haplocryolls
+
+TYPICAL PEDON: Alex silty clay loam on a 1-percent slope in an area of rangeland at an elevation of 1918 m
+
+ A1--0 to 13 cm; silty clay loam, dark gray (10YR 4/1) dry, black (10YR 2/1) moist; moderate fine subangular blocky structure; hard, friable, slightly sticky and slightly plastic; many very fine roots; many very fine tubular pores; 3 percent gravel; slightly alkaline (pH 7.8); clear smooth boundary
+
+ A2--13 to 43 cm; silty clay loam, very dark gray (10YR 3/1) dry, black (10YR 2/1) moist; strong fine subangular blocky structure; hard, very friable, slightly sticky and slightly plastic; many very fine roots; many very fine tubular pores; 2 percent gravel; slightly alkaline (pH 7.8); clear smooth boundary
+
+ AB--43 to 58 cm; silty clay loam, pale brown (10YR 6/3) dry, brown (10YR 5/3) moist; strong medium subangular blocky structure; hard, friable, moderately sticky and moderately plastic; common very fine and fine roots; common very fine and few fine tubular pores; slightly alkaline (pH 7.8); clear smooth boundary
+
+ Bg--58 to 71 cm; sandy clay loam, light gray (10YR 7/2) dry, dark grayish brown (2.5Y 4/2) moist; moderate medium subangular blocky structure; slightly hard, very friable, slightly sticky and slightly plastic; few very fine and fine roots; common very fine and few fine tubular pores; 1 percent medium prominent iron concentrations, olive brown (2.5Y 4/4) moist; 2 percent gravel; slightly alkaline (pH 7.7); abrupt smooth boundary
+
+ 2Cg--71 to 84 cm; gravelly sandy clay loam, strong brown (7.5YR 5/6) dry, brown (7.5YR 4/4) moist; massive; slightly hard, very friable, slightly sticky and slightly plastic; few very fine roots; common very fine and few fine tubular pores; 1 percent medium prominent iron depletions, dark greenish gray (5G 4/1) moist; 25 percent gravel; slightly alkaline (pH 7.7); clear smooth boundary
+
+ 3Cg2--84 to 124 cm; extremely gravelly sand, light gray (10YR 7/2) dry, dark yellowish brown (10YR 4/4) moist; single grain; loose; few very fine roots; many fine interstitial pores; 1 percent fine prominent iron depletions, dark greenish gray (5G 4/1) moist; 70 percent gravel; slightly alkaline (pH 7.8); gradual wavy boundary
+
+ 3Cg3--124 to 150 cm; extremely gravelly sand, light olive gray (5Y 6/2) dry, olive gray (5Y 5/2) moist; single grain; loose; many fine interstitial pores; 85 percent gravel; slightly alkaline (pH 7.8)
+
+TYPE LOCATION: Clark County, Idaho, about 3.7 km southwest of Kilgore, Idaho; about 350 m south and 164 m east of the northwest corner of section 18, T. 12 N., R. 39 E.; Idmon U.S. Geological Survey quadrangle; latitude 44.37201 degrees north, longitude 111.90984 degrees west, datum WGS 84 (coordinates determined with a GPS)
+
+RANGE IN CHARACTERISTICS:
+Mean annual soil temperature--3 to 6 degrees C
+Thickness of mollic epipedon--41 to 64 cm
+Depth to redoximorphic features--45 to 76 cm
+Depth to sandy-skeletal material--50 to 100 cm
+
+Particle-size control section
+Clay content--20 to 34 percent in upper part, 2 to 5 percent in lower part
+Total rock fragment content--0 to 30 percent gravel in upper part, 60 to 85 percent gravel in lower part
+
+A horizon
+Value--3 to 5 dry, 2 or 3 moist
+Chroma--1 to 3 dry or moist
+Gravel content--0 to 5 percent
+Reaction--7.2 to 7.8 (neutral or slightly alkaline)
+Combined thickness--25 to 46 cm
+
+AB horizon
+Value--4 to 6 dry, 3 to 5 moist
+Chroma--1 to 3 dry or moist
+Texture--loam, silt loam, silty clay loam
+Gravel content--0 to 5 percent
+Reaction--7.2 to 7.8 (neutral or slightly alkaline)
+Thickness--15 to 23 cm
+
+Bg horizon
+Hue--10YR, 2.5Y
+Value--4 to 7 dry, 2 to 4 moist
+Chroma--1 to 2 dry or moist
+Texture--loam, sandy clay loam
+Gravel content--2 to 30 percent
+Reaction--7.2 to 7.8 (neutral or slightly alkaline)
+Thickness--8 to 41 cm
+
+2Cg horizon
+Hue--10YR, 7.5YR, 2.5Y
+Value--4 to 7 dry, 2 to 4 moist
+Chroma--1 to 6 dry, 1 to 4 moist
+Texture--loam, sandy clay loam
+Gravel content--2 to 30 percent
+Reaction--7.2 to 7.8 (neutral or slightly alkaline)
+Thickness--8 to 23 cm
+
+3Cg horizon
+Hue--10YR, 2.5Y, 5Y
+Value--6 or 7 dry, 4 or 5 moist
+Chroma--2 to 4 dry or moist
+Texture--loamy sand, sand
+Gravel content--60 to 85 percent
+Reaction--7.2 to 7.8 (neutral or slightly alkaline)
+
+COMPETING SERIES: None
+
+GEOGRAPHIC SETTING:
+Elevation--1800 to 2050 m
+Climate--warm summers, cold winters
+Mean annual precipitation--405 to 610 mm
+Mean annual air temperature--1 to 4 degrees C
+Frost-free period--30 to 60 days
+
+GEOGRAPHICALLY ASSOCIATED SOILS:
+Fourme--loamy-skeletal family particle-size class; in higher landscape positions
+Idmonton--seasonal high water table at a depth of 50 to 100 cm (somewhat poorly drained); in lower landform positions
+Kilgore--seasonal high water table at a depth of 50 to 100 cm (poorly drained); in lower landform positions
+Longway--argillic horizon; in higher landform positions
+Seemore--seasonal high water table at a depth of 50 to 100 cm (poorly drained); in lower landform positions
+Sudpeak--more than 35 percent clay in particle-size control section; in similar positions
+
+DRAINAGE AND SATURATED HYDRAULIC CONDUCTIVITY:
+Drainage class--somewhat poorly drained
+Depth to endosaturation in normal years--45 to 76 cm in May and June
+Saturated hydraulic conductivity (Ksat)--moderately high in upper part, very high in lower part
+
+USE AND VEGETATION:
+Major uses--production of hay, wildlife habitat
+Potential natural vegetation--Nevada bluegrass, alpine timothy, meadow barley, Baltic rush
+
+DISTRIBUTION AND EXTENT:  Lost River Valleys and Mountains of MLRA 12, Eastern Idaho Plateaus of MLRA 13, and Central Rocky Mountains of MLRA 43B in Idaho; small extent
+
+SOIL SURVEY REGIONAL OFFICE (SSRO) RESPONSIBLE:  Portland, Oregon
+ 
+SERIES ESTABLISHED:  Clark County, Idaho; 2018
+
+REMARKS:
+Diagnostic horizons and features recognized in this pedon
+*Mollic epipedon--zone from the surface to a depth of 43 cm
+*Aquic conditions--zone below 58 cm
+*Particle size control section--zone from 25 to 100 cm
+
+National Cooperative Soil Survey
+U.S.A.

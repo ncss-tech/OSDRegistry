@@ -1,0 +1,138 @@
+LOCATION OSTERMAYER             TX
+
+Established Series
+JKW-KBH-AKS
+09/2020
+
+OSTERMAYER SERIES
+
+The Ostermayer series consists of very deep, poorly drained, moderately high saturated hydraulic conductivity (moderately permeable) soils that formed in eolian deposits over loamy and clayey fluviomarine deposits. These nearly level soils occur on tidal flats on barrier islands. Slope ranges from 0 to 1 percent. Mean annual precipitation is about 1245 mm (49 in) and mean annual air temperature is about 21 degrees C (70 degrees F).
+
+TAXONOMIC CLASS: Coarse-loamy, mixed, active, nonacid, hyperthermic Sodic Endoaquents
+
+TYPICAL PEDON: Ostermayer very fine sandy loam, on a bare tidal flat; 0.3 m elevation (Colors are for moist soil unless otherwise stated.)
+
+    Ag--0 to 13 cm (0 to 5 in); greenish gray (10Y 5/1) very fine sandy loam; massive; friable; nonsticky, nonplastic; nonfluid; very few very fine vesicular pores; electrical conductivity of 52.0 dS/m by ec meter, saturated paste; moderately alkaline; abrupt smooth boundary. (9 to 13 cm [3 to 5 in] thick)
+
+    Cg1--13 to 72 cm (5 to 28 in); greenish gray (10Y 5/1) very fine sandy loam; massive; friable; nonsticky, nonplastic; nonfluid; 4 percent fine prominent yellowish brown (10YR 5/6) masses of oxidized iron; electrical conductivity of 71.0 dS/m by ec meter, saturated paste; moderately alkaline; clear smooth boundary.
+
+    Cg2--72 to 115 cm (28 to 45 in); greenish gray (10GY 6/1) very fine sandy loam;  massive; friable; nonsticky, nonplastic; nonfluid; 7 percent medium prominent yellowish brown (10YR 5/6) masses of oxidized iron; electrical conductivity of 62.0 dS/m by ec meter, saturated paste; moderately alkaline; clear smooth boundary. (combined thickness of the Cg horizons is 87 to 117 cm [34 to 46 in])
+
+    2Cg1--115 to 152 cm (45 to 60 in); greenish gray (5GY 5/1) sandy clay loam; massive; firm; very sticky, very plastic; nonfluid; 10 percent medium prominent yellowish brown (10YR 5/6) masses of oxidized iron; electrical conductivity of 51.0 dS/m by ec meter, saturated paste; moderately alkaline; gradual smooth boundary. (combined thickness of the 2Cg horizons is 80 to 103 cm [31 to 41 in])
+
+    2Cg2--152 to 203 cm (60 t 80 in); gray (N 5/), sandy clay loam; massive; firm; very sticky, very plastic; nonfluid; electrical conductivity of 70.0 dS/m by ec meter, saturated paste; moderately alkaline.
+
+TYPE LOCATION: 
+Brazoria County, TX; from the intersection of Texas Highway 332 and the Bluewater Highway (County Road 257) on Follets Island, 4,8 miles northeast on the Bluewater Highway to dirt road on the northwest side of the road; 0.10 mile northwest on dirt road; 50 feet north on a bare tidal flat. 
+
+USGS topographic quadrangle: Christmas Point, TX 
+Latitude: 28 degrees 59 minutes 58.99 seconds north
+Longitude: 95 degrees 13 minutes 49.01 seconds west
+Datum: WGS84 
+
+UTM Easting: 282713 meters
+UTM Northing: 3209984 meters
+UTM Zone: 15
+
+RANGE IN CHARACTERISTICS:
+
+Soil moisture:  A peraquic soil moisture regime. 
+
+Particle-size control section (weighted average):
+Total clay content: 8 to 17 percent
+
+Ag horizon:
+Hue: 10YR to 10Y
+Value: 5 to 7
+Chroma: 1 or 2
+Texture: fine sand, loamy fine sand, fine sandy loam, or very fine sandy loam
+Total clay content: 7 to 13 percent
+Electrical conductivity (dS/m): 19 to 52
+Reaction (pH): slightly or moderately alkaline (7.4 to 8.4)
+
+Cg horizon:
+Hue: N, 10Y, 5G, or 10GY
+Value: 4 or 6
+Chroma: 0 to 2
+Texture: loamy fine sand, fine sandy loam or very fine sandy loam
+Total clay content: 8 to 14 percent
+Redox concentrations: amount-0 to 15 percent; color-shades of brown, yellow, or red
+Shell fragments: amount-0 to 2 percent; size- 2 to 75 mm
+Electrical conductivity (dS/m): 22 to 75
+Reaction (pH): slightly or moderately alkaline (7.4 to 8.4)
+
+2Cg horizon:
+(This horizon is absent in some pedons)
+Hue: N, 10Y, or 5GY
+Value: 4 to 6
+Chroma: 0 or 1
+Texture: sandy clay loam or clay loam, or clay
+Total clay content: 20 to 55 percent
+Redox concentrations: amount-0 to 15 percent; color-shades of brown, yellow, or red
+Shell fragments: amount-0 to 10 percent; size- 2 to 75 mm
+Electrical conductivity (dS/m): 50 to 120
+Reaction (pH): slightly or moderately alkaline (7.4 - 8.4)
+
+COMPETING SERIES: 
+These are the Freeportand Karankawa series in the same family. Similar soils are Nass, Madre, Mustang, Satatton, and Tatton series. 
+Freeport soils: remain saturated to the surface after low tide; have vegetation
+Karankawa soils: submerged for longer periods; have mucky surface textures
+Nass soils: very poorly drained; have electrical conductivity values less than 25 dS/m throughoutlower electrical conductivity values throughout.
+Madre, Mustang, Satatton, and Tatton soils: sandy particle-size control section; siliceous mineralogy
+
+GEOGRAPHIC SETTING:
+Parent material: eolian deposits over loamy and clayey fluviomarine deposits derived from igneous, metamorphic, and sedimentary rock
+Landscape: barrier island
+Landform: tidal flats 
+Slope: 0 to 1 percent but mostly less than 0.5 percent
+Precipitation Pattern: Precipitation is generally uniform throughout the year with slight peaks in the spring and fall months
+Mean annual precipitation: 1143 to 1295 mm (45 to 51 in)
+Mean annual air temperature: 20.6 to 21.7 C (69 to 71 degrees F)
+Frost-free period: 275 to 300 days
+Elevation: 0 to 0.5 m (0 to 20 in)
+
+GEOGRAPHICALLY ASSOCIATED SOILS: 
+These are the Brazosport, Freeport, Galveston, and Karankawa series.
+Brazosport soils: remnant back-barrier flats
+Freeport soils: same landform but have vegetation
+Galveston soils: on a back-barrier flat landform
+Karankawa soils: on a submerged tidal flat
+
+DRAINAGE AND PERMEABILITY: 
+Drainage class: poor 
+Permeability class: moderate (moderately high saturated hydraulic conductivity)
+Runoff: high 
+Flooding: very frequent frequency from daily tides, for very brief (4 to 48 hours) duration
+Seasonal water table: Endosaturation occurs from 15 cm to 2 m (0.5 to 8 feet) throughout the year. As high tides recede, these areas remain saturated throughout. 
+
+USE AND VEGETATION: 
+Major uses: wildlife habitat
+Native vegetation: these areas do not have vegetation and some areas have an algal mat
+Ecological sites assigned to phases and components of this series are listed below. Current ecological site assignments are in Web Soil Survey. Components of this series include the following ecological sites: Wind Tidal FlatSalt Flat (R150BY651TX)
+
+DISTRIBUTION AND EXTENT: 
+General area: The upper Texas Gulf Coast mostly on Galveston and Follets Island
+Land Resource Region: Atlantic and Gulf Coast Lowland Forest and Crop Region(T) 
+Major Land Resource Areas:MLRA 150B - Gulf Coast Saline Prairies 
+Extent: small
+
+SOIL SURVEY REGIONAL OFFICE (SSRO) RESPONSIBLE: Temple, Texas
+
+SERIES PROPOSED: Galveston County, Texas, 2020. The name is from a cove near the type location.
+
+REMARKS: The series was formerly included in the Mustang series. The series was separated based on differences in water table depth, salinity, and vegetation.
+
+Diagnostic horizons and features recognized in this pedon are:
+Particle-size control section: 25 to 100 cm (10 to 40 in) 
+Ochric epipedon: 0 to 13 cm (0 to 5 in) (Ag horizon) 
+Endosaturation and aquic conditions: 0 to 203 cm (0 to 80 in) (Ag, Cg1, Cg2,2Cg1 and 2Cg2 horizons)
+Lithologic discontinuity: 115 to 203 cm (45 to 80 in). 
+
+Additional Comments: The lithologic discontinuity is evident as an increase in clay due to the Beaumont Formation and ancient Brazos River. This paleo-surface is deeper in pedons on Galveston Island and shallower on the southwest end of Follets Island. Some areas are firm enough during low tide to allow light vehicular traffic.
+
+ADDITIONAL DATA: MLRA Soil Survey Office data are available on S2020TX0397171 at the series type location.
+
+TAXONOMIC VERSION: Keys to Soil Taxonomy, Twelfth Edition, 2014.
+
+National Cooperative Soil Survey
+U.S.A.

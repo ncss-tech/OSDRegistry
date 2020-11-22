@@ -1,0 +1,141 @@
+LOCATION TLOZHAVUN              AK
+
+Established Series
+JDP/NDP/TJR
+04/2020
+
+TLOZHAVUN SERIES
+
+Landscape--alluvial plains
+Landform--stream terraces
+Slope--0 to 3 percent
+Parent material--alluvium
+Mean annual precipitation--about 255 mm
+Mean annual air temperature--about -6 degrees C
+Depth class--very deep
+Drainage class--well drained
+Soil moisture regime--udic
+Soil temperature regime--cryic
+Soil moisture subclass--typic
+
+TAXONOMIC CLASS: Coarse-silty, mixed, superactive Typic Haplocryepts
+
+TYPICAL PEDON: Tlozhavun silt loam on a forested terrace with a slope of 3 percent and an elevation of 105 m (The soil was moist throughout when described on August 25, 2015.)
+
+ Oi--0 to 9 cm; slightly decomposed plant material; common very fine, fine, and coarse roots, and many medium roots; neutral (pH 6.6); abrupt smooth boundary
+
+ Bw--9 to 27 cm; silt loam; reddish yellow (7.5YR 6/6) dry, strong brown (7.5YR 4/6) moist; moderate medium subangular blocky structure; slightly hard, friable, slightly sticky and nonplastic; common very fine, fine, coarse, and very coarse roots, and many medium roots; few fine and medium pores; noneffervescent; moderately acid (pH 6.0); clear smooth boundary
+
+ BC--27 to 50 cm; silt loam; reddish yellow (7.5YR 7/6) dry, strong brown (7.5YR 5/6) moist; weak thin platy structure; slightly hard, friable, slightly sticky and nonplastic; common fine, medium, and coarse roots; few fine and medium pores; slightly effervescent; slightly alkaline (pH 7.5); clear smooth boundary
+
+ C--50 to 106 cm; very fine sandy loam; pale yellow (2.5Y 7/3) dry, light olive brown (2.5Y 5/3) moist; massive; soft, very friable, nonsticky and nonplastic; common fine and medium roots; few fine and medium pores; strongly effervescent; moderately alkaline (pH 8.0)
+
+ Cf--106 to 131 cm; permanently frozen very fine sandy loam; pale yellow (2.5Y 7/3) dry, light olive brown (2.5Y 5/3) moist; massive; slightly effervescent; slightly alkaline (pH 7.5)
+
+TYPE LOCATION: Yukon-Koyukuk Census Area, Alaska; latitude 66.3438623 degrees, longitude -148.7570622 degrees, datum WGS84 (coordinates determined with a GPS)
+
+RANGE IN CHARACTERISTICS:
+Mean annual soil temperature--0.5 to 2.5 degrees C
+Depth to permafrost--100 to 150 cm
+Base saturation--greater than 50 percent in all layers within 50 cm of the mineral soil surface
+
+Oi horizon
+Combined thickness--5 to 15 cm
+Reaction--6.0 to 7.5
+
+Oe horizon (where present)
+Combined thickness--5 to 15 cm
+Reaction--6.0 to 7.5
+
+A horizon (where present)
+Hue--2.5Y to 7.5YR
+Value--2 or 3 moist, 4 or 5 dry
+Chroma--2 or 3 moist
+Fine-earth texture--silt loam, very fine sandy loam, loam
+Clay content--0 to 18 percent
+Reaction--6.0 to 7.5
+Effervescence--none to slight
+Thickness--5 to 15 cm
+
+Bw horizon
+Hue--2.5Y to 7.5YR
+Value--3 to 5 moist, 5 to 7 dry
+Chroma--2 to 6 moist
+Fine-earth texture--silt loam, very fine sandy loam
+Clay content--0 to 18 percent
+Reaction--6.0 to 8.0
+Effervescence--none to strong
+Thickness--15 to 50 cm
+
+BC horizon
+Hue--2.5Y to 7.5YR
+Value--3 to 5 moist, 5 to 7 dry
+Chroma--2 to 6 moist
+Fine-earth texture--silt loam, very fine sandy loam, fine sandy loam
+Clay content--0 to 18 percent
+Reaction--6.0 to 8.0
+Effervescence--none to strong
+Thickness--10 to 60 cm
+
+C and Cf horizons
+Hue--10YR, 2.5Y
+Value--3 to 5 moist, 5 to 7 dry
+Chroma--1 to 3 moist
+Fine-earth texture--silt loam, very fine sandy loam, silt
+Clay content--0 to 18 percent
+Reaction--7.0 to 8.5
+Effervescence--none to strong
+Combined thickness--75 to 125 cm
+
+COMPETING SERIES: 
+Bodenburg--these soils have sandy substrata within the series control section
+Fairbanks--these soils contain substantial mica and are formed in eolian parent materials
+Fairless--these soils contain substantial mica and are formed in eolian parent materials
+Koyukuk--these soils contain substantial mica and have sandy and gravelly substrata within the series control section
+Nunaniq--these soils are acidic throughout the series control section
+Toghotthele--these soils have sandy substrata within the series control section
+
+GEOGRAPHIC SETTING:
+Elevation--90 to 300 m
+Climate--short, warm summers and long, very cold winters
+Mean annual precipitation--210 to 310 mm
+Mean annual air temperature-- -12 to 0 degrees C
+Frost-free period--45 to 97 days
+
+GEOGRAPHICALLY ASSOCIATED SOILS:
+Tajittro--aquic conditions within 100 cm; lower positions on similar landforms; permafrost within 1 m
+Chissovun--aquic conditions within 50 cm; lower positions similar landforms; permafrost within 1 m
+Yanert--aquic conditions within 25 cm; swales on similar landforms
+Gushdoiman--aquic conditions within 25 cm; tussock scrub depressions on similar landforms; permafrost within 1 m
+Choonjik--no aquic conditions within 150 cm; calcareous; similar landforms
+Yasuda--aquic conditions within 25 cm; sodic properties; grassland depressions on similar landforms
+
+DRAINAGE AND SATURATED HYDRAULIC CONDUCTIVITY:
+Drainage class--well drained
+Saturation in normal years--none
+Flooding--none
+Ponding--none
+Saturated hydraulic conductivity (Ksat)--high throughout
+
+USE AND VEGETATION:
+Use--wildlife habitat, subsistence, recreation
+Potential natural vegetation--White spruce, quaking aspen, russet buffaloberry, prickly rose, grayleaf willow, twinflower, lingonberry, purple reedgrass, false toadflax, tall bluebells, Jakutsk snowparsley, sidebells wintergreen, eastern pasqueflower, splendid feather moss, Ptilidium liverwort, greygreen reindeer lichen, felt lichen, cup lichen
+
+DISTRIBUTION AND EXTENT: Yukon Flats Lowlands, Alaska; MLRA 232; large extent
+
+SOIL SURVEY REGIONAL OFFICE (SSRO) RESPONSIBLE: Portland, Oregon
+
+SERIES ESTABLISHED: Yukon Flats National Wildlife Refuge, Yukon-Koyukuk Census Area, Alaska; 2020 
+
+REMARKS:
+Diagnostic horizons and other features in this pedon
+*Particle-size control section--zone from 34 to 109 cm
+*Ochric epipedon
+*Cambic horizon--Bw horizon
+*Permafrost--Cf horizon
+Soils in this series may sometimes meet the criteria for a folistic epipedon, but this horizon is not diagnostic within the Haplocryepts great group.
+Soils in this series do not have identifiable secondary carbonates within 100 cm of the mineral soil surface, though some horizons may effervesce.
+
+
+National Cooperative Soil Survey
+U.S.A.

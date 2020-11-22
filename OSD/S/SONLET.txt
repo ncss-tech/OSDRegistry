@@ -1,0 +1,88 @@
+LOCATION SONLET                 UT+ID
+
+Established Series
+Rev. JCL-MJD-JVC
+02/2000
+
+SONLET SERIES
+
+The Sonlet series consists of shallow, well drained soils that formed in colluvium and residuum derived from chert, limestone, sandstone, and dolostone.  Sonlet soils are on hills, mountains, and ridges.  Slopes are 4 to 60 percent.  The mean annual precipitation is about 14 inches and the mean annual temperature is about 43 degrees F.
+
+TAXONOMIC CLASS:  Loamy-skeletal, mixed, superactive, frigid Lithic Calcixerepts
+
+TYPICAL PEDON:  Sonlet very gravelly loam--rangeland.  (Colors are for dry soil unless otherwise noted.)
+
+    A--0 to 2 inches; brown (10YR 5/3) very gravelly loam, very dark grayish brown (10YR 3/2) moist; weak medium platy structure parting to moderate very fine and fine granular; soft, very friable, slightly sticky and slightly plastic; many very fine and fine roots; many very fine and fine interstitial and tubular pores; 35 percent pebbles; slightly effervescent; slightly alkaline (pH 7.8); clear smooth boundary.  (2 to 4 inches thick)
+
+    Bkq1--2 to 10 inches; light yellowish brown (10YR 6/4) very gravelly sandy loam, brown (10YR 4/3) moist; weak medium subangular blocky structure; soft, very friable, slightly sticky and slightly plastic; many very fine and fine, common medium and few coarse roots; many very fine and fine discontinuous tubular pores; 40 percent pebbles; strongly effervescent; secondary carbonates are segregated throughout matrix on mineral grains and as few coats on bottoms of rock fragments; secondary silica coats bottoms of rock fragments; moderately alkaline (pH 8.2); clear wavy boundary.  (3 to 9 inches thick)
+
+    Bkq2--10 to 19 inches; very pale brown (10YR 7/3) extremely gravelly sandy loam, light yellowish brown (10YR 6/4) moist; massive; soft, very friable, slightly sticky and slightly plastic; common very fine, and few fine and medium roots; common very fine discontinuous tubular pores; 60 percent pebbles and 5 percent cobbles; strongly effervescent; secondary carbonates are segregated throughout matrix on mineral grains and as common coats on rock fragments; secondary silica coats rock fragments; moderately alkaline (pH 8.4); abrupt irregular boundary.  (3 to 9 inches thick)
+
+    R--19 inches; fractured chert and limestone.
+
+TYPE LOCATION:  Box Elder County, Utah; 6 miles southwest of the town of Lucin; 2,200 feet south and 100 feet east of the northwest corner of section 26, T. 7 N., R. 19 W.
+
+RANGE IN CHARACTERISTICS:
+
+Soil moisture - Usually dry, moist in winter and early spring, dry in summer and fall; xeric moisture regime that borders on aridic.
+
+Mean annual soil temperature - 42 to 46 degrees F.
+ 
+Depth to calcic horizon - 2 to 4 inches.
+
+Depth to bedrock - 10 to 20 inches to a lithic contact.
+
+Particle-size control section - Clay content: 12 to 24 percent; Rock fragments: 35 to 65 percent, mainly pebbles.  Lithology of fragments are chert, limestone, dolostone, and sandstone.
+
+
+A horizon - Value: 5 through 7 dry, 3 through 5 moist.  When the upper 7 inches of the soil is mixed, the value is 6 or 7 dry and/or 4 or 5 moist.
+
+Chroma: 2 through 4, dry or moist.
+
+Reaction: Slightly alkaline or moderately alkaline.
+
+Calcium carbonate equivalent: 3 to 30 percent.
+
+
+Bkq horizons - Value: 6 through 8 dry, 4 through 6 moist.
+
+Chroma: 3 or 4, dry or moist.
+
+Texture: Very gravelly loam, very gravelly sandy loam, extremely gravelly loam, or extremely gravelly sandy loam.  Some pedons have very stony loam, very cobbly loam, very cobbly loam, or extremely cobbly loam.
+
+Reaction: Slightly alkaline to strongly alkaline.
+
+Identifiable secondary carbonates: Occurs as coats on mineral grains, faces of peds, and rock fragments.
+
+Calcium carbonate equivalent: 15 to 40 percent.
+
+Secondary silica: Occurs as coats on rock fragments.
+
+COMPETING SERIES:  At present, there are no other series in this family.
+
+GEOGRAPHIC SETTING:  Sonlet soils are on hills, mountains, and ridges.  They typically occur on backslope positions.  These soils formed in colluvium and residuum derived from chert, limestone, dolostone, and sandstone.  Slopes are 4 to 60 percent.  Elevation ranges from 5,200 to 7,200 feet.  The mean annual precipitation is l2 to l8 inches, mean annual temperature is 4l to 45 degrees F., and the frost-free period is 80 to l00 days.
+
+GEOGRAPHICALLY ASSOCIATED SOILS:  These are the Hiko Peak, Lundy, and Scalade soils.  Lundy soils have mollic epipedons and are on similar slope positions.  Hiko Peak and Scalade soils have mesic temperature regime and are lower in the landscape on fan remnants.
+
+DRAINAGE AND PERMEABILITY:  Well drained; very high surface runoff; moderate permeability.
+
+USE AND VEGETATION:  Sonlet soils are used for rangeland.  The potential vegetation is mainly black sagebrush, bluebunch wheatgrass, Nevada bluegrass, needleandthread, and Hooker's balsamroot.  One phase has a forest community of Utah juniper and singleleaf pinyon with an understory of bluebunch wheatgrass, black sagebrush, Mexican cliffrose, antelope bitterbrush, and birchleaf mountainmahogany.
+
+DISTRIBUTION AND EXTENT:  Northwestern Utah and southeastern Idaho.  These soils are moderately extensive.  MLRAs 11, 25, and 28A.
+
+MLRA SOIL SURVEY REGIONAL OFFICE (MO) RESPONSIBLE:  Phoenix, Arizona.
+
+SERIES ESTABLISHED:  Box Elder County (Western Part), Utah, 1985.
+
+REMARKS:  Diagnostic horizons and features recognized in this pedon are:
+
+Ochric epipedon - The zone from the soil surface to 2 inches (A horizon).
+
+Calcic horizon - The zone from 2 to 19 inches (Bkq1 and Bkq2 horizons).
+
+Lithic contact - The boundary 19 inches to underlying hard bedrock (R layer).
+
+Particle-size control section - The zone from 10 to 19 inches (Bkq2 horizon).
+
+National Cooperative Soil Survey
+U.S.A.

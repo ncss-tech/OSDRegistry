@@ -1,0 +1,166 @@
+LOCATION DEEPWOOD               OK+KS TX
+
+Established Series
+RFG-CDS-TLC
+12/2018
+
+DEEPWOOD SERIES
+
+The Deepwood series consists of very deep, well drained, moderately permeable soils that formed in unconsolidated material and local alluvial-colluvial valley fill that weathered from sandstone of Permian age. These soils occur on very gently sloping to steep side slopes and base slopes of the Central Rolling Red Plains (MLRA 78). Slope ranges from 1 to 30 percent. Mean annual temperature is about 16.1 degrees C (61 degrees F), and the mean annual precipitation is 635 mm (25 in).
+
+TAXONOMIC CLASS: Coarse-silty, mixed, superactive, thermic Typic Haplustepts
+
+TYPICAL PEDON: Deepwood loam, on a 4 percent slope in rangeland, at an elevation of 534 m (1,752 ft).
+     (Colors are for dry soil unless otherwise stated.)
+
+   A--0 to 28 cm (0 to 11 in); reddish brown (5YR 4/4) loam, dark reddish brown (5YR 3/4) moist; weak fine granular structure; soft, very friable; many very fine and fine roots; common worm casts; very slightly effervescent; moderately alkaline; clear smooth boundary. Thickness is 10 to 46 cm (4 to 18 in)
+
+   Bk1--28 to 53 cm (11 to 21 in); reddish brown (5YR 5/4) loam, reddish brown (5YR 4/4) moist; weak coarse prismatic structure parting to weak fine and medium subangular blocky; slightly hard, friable; common very fine and fine roots; common worm casts; common fine concretions of calcium carbonate; strongly effervescent; moderately alkaline; clear smooth boundary. 
+
+    Bk2--53 to 119 cm (21 to 47 in); yellowish red (5YR 5/6) loam, yellowish red (5YR 4/6) moist; weak medium prismatic structure parting to weak fine subangular blocky; slightly hard, friable; few very fine and fine roots; common worm casts; common fine concretions of calcium carbonate; common fine threads of calcium carbonate; strongly effervescent; moderately alkaline; clear smooth boundary. Combined thickness of the Bk horizon is 38 to 135 cm thick (15 to 53 in)
+
+  C--119 to 203 cm (47 to 80 in); yellowish red (5YR 5/6) loam, yellowish red (5YR 4/6) moist; massive; slightly hard, friable; few very fine roots; slightly effervescent; moderately alkaline.
+
+TYPE LOCATION: 
+Woods County, Oklahoma; about 8 miles north and 4 miles west of Freedom, Oklahoma; about 200 feet north and 650 feet east of the southwest corner of sec. 24, T. 28 N., R. 19 W.
+
+USGS topographic quadrangle: Freedom NW, OK
+Latitude: 36 degrees, 53 minutes, 7.19 seconds N 
+Longitude: 99 degrees, 12 minutes, 10.7 seconds W
+Datum: NAD83 
+
+Decimal Degrees
+  Std Latitude: 36.8853305
+  Std Longitude: -99.2029722
+
+UTM Northing: 481910 m
+UTM Easting: 4082173 m
+UTM Zone: 14
+
+RANGE IN CHARACTERISTICS: 
+Soil Moisture: Typic ustic soil moisture regime.
+Solum thickness: 76 to 152 cm (30 to 60 in) 
+Depth to densic bedrock: Typically greater than 203 cm, but some pedons have noncemented sandstone below 165 cm (65 in)
+Thickness of the ochric epipedon: 10 to 46 cm (4_to 18 in)
+Depth to identifiable secondary carbonate: 0 to 91 cm (0 to 36 in). 
+Effervescence: Typically the soil is calcareous throughout.
+
+Particle-size control section (weighted average):
+   Total clay content: 10 to 18 percent
+   Carbonate clay content: 0 to 2 percent
+   Sand content: less than 15 percent fine sand or coarser
+
+A horizon: 
+Hue: 2.5YR, 5YR, 7.5YR
+Value: 4 to 6 dry, 3 to 5 moist
+Chroma: 3 to 6
+Other feature: The epipedon is less than 18 cm thick when the moist value and chroma is less than 3.5. 
+Texture: very fine sandy loam, loam, silt loam 
+Total clay content: 7 to 18 percent
+Calcium carbonate equivalent: 0 to 5 percent
+Effervescence: none to slight
+Reaction (pH):  neutral to moderately alkaline (6.6-8.4)
+
+Bw horizon (where present):
+Hue: 2.5YR, 5YR, 7.5YR
+Value:  4 to 6 dry, 3 to 6 moist
+Chroma: 3 to 8
+Texture: very fine sandy loam, loam, silt loam 
+Total clay content: 10 to 18 percent
+Identifiable secondary carbonate: 0 to 1 percent; nodules, masses, and/or threads
+Calcium Carbonate Equivalent: 1 to 10 percent
+Effervescence: very slight to strong
+Reaction (pH):  slightly alkaline or moderately alkaline (7.4-8.4)
+
+Bk horizon: 
+Hue: 2.5YR, 5YR, 7.5YR
+Value:  4 to 6 dry, 3 to 6 moist
+Chroma: 3 to 8
+Texture: very fine sandy loam, loam, silt loam 
+Total clay content: 10 to 18 percent
+Identifiable secondary carbonate: 1 to 10 percent; nodules, masses, and/or threads
+Calcium Carbonate Equivalent: 1 to 15 percent
+Effervescence: slight or strong
+Reaction (pH):  slightly alkaline or moderately alkaline (7.4-8.4)
+
+BCk Horizon (where present):
+Hue: 2.5YR, 5YR, 7.5YR
+Value:  4 to 6 dry, 3 to 6 moist
+Chroma: 3 to 8
+Texture: very fine sandy loam, loam, silt loam 
+Total clay content: 7 to 18 percent
+Identifiable secondary carbonate: 0 to 10 percent; nodules, masses, and/or threads
+Calcium Carbonate Equivalent: 1 to 15 percent
+Effervescence: slight or strong
+Reaction (pH): slightly alkaline or moderately alkaline (7.4-8.4)
+
+C horizon:
+Hue of 2.5YR, 5YR
+Value: 4 to 6 dry, 3 to 5 moist
+Chroma: 4 to 8
+Texture: very fine sandy loam, loam, silt loam
+Total clay content: 5 to 20 percent
+Other feature: Some pedons have soft sandstone below 178 cm (70 in)
+Calcium Carbonate Equivalent: 1 to 10 percent
+Effervescence: slight or strong
+Reaction (pH): slightly alkaline or moderately alkaline (7.4-8.4)
+
+COMPETING SERIES: 
+These are the Enterprise, Gotebo, and Woodward series in the same family. 
+Enterprise soils: formed from eolian material along major streams 
+Gotebo soils: have hues of 10YR or yellower throughout the B and C horizons 
+Woodward soils: have soft sandstone (densic bedrock) within 100 cm (40 in) of the surface
+
+GEOGRAPHIC SETTING: 
+Parent Material: The soil formed in local alluvial-colluvial valley fill that weathered from sandstone of Permian age.
+Landscape: Dissected plains
+Landform: Very gently sloping to steep side slopes and base slopes of hillslopes and ridges
+Slope: 1 to 30 percent
+Mean annual precipitation: 508 to 710 mm (20 to 28 in)
+Thornthwaite Annual P-E Index: 28 to 44
+Mean annual air temperature: 13.9 to 17.8 degrees C (57 to 64 degrees F)
+Frost-free period: 180 to 230
+Elevation: 304.8 to 792.5 m (1000 to 2600 ft)
+
+GEOGRAPHICALLY ASSOCIATED SOILS: 
+These are the competing Gotebo and Woodward series, and Aspermont, Carey, Dill, Enterprise, Hardeman, Obaro, Selman, and Quinlan series.
+Aspermont and Obaro soils: occur on nearby slopes and have a fine-silty control section 
+Carey and Selman soils: occur on nearby slopes and have an argillic horizon, a mollic epipedon, and a fine-silty control section 
+Dill soils: occur on higher elevations and have a coarse-loamy control section.
+Hardeman and Enterprise soils: occur on similar positions and formed in eolian material along streams, and in addition Hardeman soils have a coarse-loamy control section.
+Gotebo soils: occur on similar positions but have hue of 10YR or yellower throughout the B and C horizons 
+Quinlan soils: occur on nearby summits and back slopes and are less than 50 cm (20 in) to sandstone 
+Woodward soils: occur on similar positions but are less than 100 cm (40 in) to sandstone
+
+DRAINAGE AND PERMEABILITY: 
+Drainage: well drained 
+Permeability: moderate 
+Runoff: very low on slopes less than 5 percent, and medium on slopes over 5 percent
+
+USE AND VEGETATION: 
+Major uses: mostly livestock grazing but a considerable acreage on lesser slopes is used for crop production
+Native vegetation: mainly little bluestem and grama grasses
+Ecological sites assigned to phases and components of this series are listed below. Current ecological site assignments are in Web Soil Survey. Components of this series include the following ecological sites:     Loamy Upland
+
+DISTRIBUTION AND EXTENT: 
+General area: Western Oklahoma, a few counties in southern Kansas, and northwestern Texas
+Land Resource Region: H - Central Great Plains Winter Wheat and Range Region
+MLRA 78B & 78C - Central Rolling Red Plains, Western and Eastern Parts
+Extent: Large
+
+MLRA SOIL SURVEY REGIONAL OFFICE (MO) RESPONSIBLE: Temple, Texas
+
+SERIES ESTABLISHED: Woods County, Oklahoma; 1995.
+
+REMARKS:
+These soils were formerly included with the Woodward series.
+
+Diagnostic horizons and features recognized in this pedon are:
+  Particle-size control section: 25 to 102 cm (10 to 40_in)
+  Ochric epipedon: 0 to 28 cm (0 to 11 in) (A horizon) 
+  Cambic horizon: 28 to 119 cm (11 to 47 in) (B horizons)
+
+Taxonomic version: Keys to Soil Taxonomy, Twelfth Edition, 2014.
+
+National Cooperative Soil Survey
+U.S.A.

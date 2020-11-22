@@ -1,0 +1,119 @@
+LOCATION GUSHDOIMAN             AK
+
+Established Series
+JDP/NDP/TJR
+04/2020
+
+GUSHDOIMAN SERIES
+
+Landscape--alluvial plains
+Landform--depressions on stream terraces
+Slope--0 to 3 percent
+Parent material--organic material over alluvium
+Mean annual precipitation--about 255 mm
+Mean annual air temperature--about -6 degrees C
+Depth class--very deep
+Drainage class--very poorly drained
+Soil moisture regime--aquic
+Soil temperature regime--gelic
+Soil moisture subclass--typic
+
+TAXONOMIC CLASS: Coarse-silty, mixed, superactive, nonacid, subgelic Typic Histoturbels
+
+TYPICAL PEDON: Gushdoiman mucky peat on a tussock-scrub terrace depression with a slope of 0 percent and an elevation of 110 m (The soil was wet throughout when described on August 30, 2015.)
+
+ Oe--0 to 14 cm; mucky peat; many medium roots and common very fine to very coarse roots; slightly acid (pH 6.3); clear smooth boundary
+
+ Oa--14 to 30 cm; muck; many medium roots, and common very fine to very coarse roots; neutral (pH 6.7); abrupt smooth boundary
+
+ Cg--30 to 50 cm; silt loam; gray (2.5Y 5/1) dry, very dark gray (2.5Y 3/1) moist; massive; slightly hard, friable, slightly sticky and nonplastic; common very fine and fine roots; few fine and medium pores; noneffervescent; moderately acid (pH 6.0); gradual smooth boundary 
+
+ Cgjjf--50 to 100 cm; permanently frozen silt loam; light brownish gray (2.5Y 6/2) dry, dark grayish brown (2.5Y 4/2) moist; massive; very hard, extremely firm, slightly sticky and nonplastic; few fine pores; noneffervescent; neutral (pH 7.1)
+
+TYPE LOCATION: Yukon-Koyukuk Census Area, Alaska; latitude 66.1404839 degrees, longitude -147.7262149 degrees, datum WGS84 (coordinates determined with a GPS)
+
+RANGE IN CHARACTERISTICS:
+Mean annual soil temperature-- -4 to 1 degrees C
+Depth to permafrost--30 to 65 cm
+Depth to redoximorphic features--25 to 50 cm
+Other features--cryoturbation within 150 cm
+
+Oe and Oa horizons
+Combined thickness--20 to 35 cm
+Reaction--5.5 to 7.0
+
+Cg horizon
+Value--2 to 4 moist, 4 to 6 dry
+Chroma--1 or 2 moist
+Fine-earth texture--silt loam, very fine sandy loam, loam
+Clay content--0 to 18 percent
+Reaction--6.0 to 7.5
+Combined thickness--10 to 30 cm
+
+Cgf horizon (where present)
+Value--2 to 4 moist, 4 to 6 dry
+Chroma--1 or 2 moist
+Fine-earth texture--silt loam, very fine sandy loam, loam
+Clay content--0 to 18 percent
+Reaction--6.0 to 8.0
+Combined thickness--85 to 120 cm
+
+Cgjjf horizon
+Value--2 to 4 moist, 4 to 6 dry
+Chroma--1 or 2 moist
+Fine-earth texture--silt loam, very fine sandy loam, loam
+Clay content--0 to 18 percent
+Reaction--6.0 to 8.0
+Combined thickness--85 to 120 cm
+
+COMPETING SERIES: 
+Chissovun--occasionally ponded, with woodland vegetation
+Goldstream--strongly to very strongly acid mineral horizons
+Saulich--pedogenic B horizons; moderately acid to neutral mineral horizons
+Strelna--no aquic conditions
+Turbellina--strongly acid to extremely acid mineral horizons
+Windy Creek--pedogenic B horizons; moderately acid to neutral mineral horizons
+
+GEOGRAPHIC SETTING:
+Elevation--90 to 300 m
+Climate--short, warm summers and long, very cold winters
+Mean annual precipitation--210 to 310 mm
+Mean annual air temperature-- -12 to 0 degrees C
+Frost-free period--45 to 97 days
+
+GEOGRAPHICALLY ASSOCIATED SOILS:
+Sussaymin--aquic conditions within 25 cm; bogs on similar landforms; woodland vegetation
+Twin--aquic conditions within 25 cm and rare flooding; higher positions on similar landforms; woodland vegetation
+Chissovun--aquic conditions within 50 cm with occasional ponding; higher positions on similar landforms; woodland vegetation
+Tajittro--aquic conditions within 100 cm; higher positions on similar landforms; forested
+Yanert--aquic conditions within 25 cm with frequent ponding; adjacent swales on similar landforms
+
+DRAINAGE AND SATURATED HYDRAULIC CONDUCTIVITY:
+Drainage class--very poorly drained
+Saturation in normal years--saturated between a depth of 0 and 25 cm from May through September, and below a depth of 40 cm throughout the rest of the year
+Flooding--none
+Ponding--frequent, very long
+Saturated hydraulic conductivity (Ksat)--high throughout
+
+USE AND VEGETATION:
+Use--wildlife habitat, subsistence, recreation
+Potential natural vegetation--white spruce, black spruce, little tree willow, tealeaf willow, grayleaf willow, shrub birch, leatherleaf, bog blueberry, bog Labrador tea, shrubby cinquefoil, Bigelow's sedge, tussock cottongrass, horsetail
+
+DISTRIBUTION AND EXTENT: Yukon Flats Lowlands, Alaska; MLRA 232; large extent
+
+SOIL SURVEY REGIONAL OFFICE (SSRO) RESPONSIBLE: Portland, Oregon
+
+SERIES ESTABLISHED: Yukon Flats National Wildlife Refuge, Yukon-Koyukuk Census Area, Alaska; 2020
+
+REMARKS:
+Diagnostic horizons and other features in this pedon
+*Particle-size control section--zone from 55 to 130 cm
+*Histic epipedon--Oe and Oa horizons
+*Reduced matrix--Cg and Cgjjf horizons
+*Permafrost--Cgjjf horizon
+*Cryoturbation--Cgjjf horizon
+*Aquic conditions--Oa, Cg and Cgjjf horizons
+
+
+National Cooperative Soil Survey
+U.S.A.

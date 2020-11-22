@@ -1,0 +1,141 @@
+LOCATION ALDERWOOD              WA
+
+Established Series
+Rev. AD/CRF/EED
+10/2018
+
+ALDERWOOD SERIES
+
+Landscape--glacial drift plains
+Landform--glacially modified hills and ridges
+Slope--0 to 65 percent
+Parent material-- glacial drift and outwash over dense glaciomarine deposits
+Mean annual precipitation--about 1000 mm
+Mean annual temperature--about 10 degrees C
+Depth class--moderately deep to densic contact
+Drainage class--moderately well drained 
+Soil moisture regime--xeric
+Soil temperature regime--mesic
+Soil moisture subclass--aquic
+
+TAXONOMIC CLASS: Loamy-skeletal, isotic, mesic Aquic Dystroxerepts
+
+TYPICAL PEDON: Alderwood gravelly sandy loam, forested
+
+ A--0 to 18 cm; gravelly sandy loam, brown (10YR 5/3) dry, very dark grayish brown (10YR 3/2) moist; moderate fine granular structure; slightly hard, very friable, slightly sticky and slightly plastic; many fine roots; few fine irregular pores; 20 percent gravel; moderately acid (pH 5.8); abrupt smooth boundary
+
+ Bw1--18 to 53 cm; very gravelly sandy loam, yellowish brown (10YR 5/4) dry, dark yellowish brown (10YR 4/4) moist; weak medium subangular blocky structure; slightly hard, very friable, nonsticky and nonplastic; many fine roots; many fine tubular and irregular pores; 35 percent gravel; moderately acid (pH 5.8); gradual smooth boundary; 
+
+ Bw2--53 to 75 cm; very gravelly sandy loam, pale brown (10YR 6/3) dry, brown (10YR 4/3) moist; weak medium subangular blocky structure; slightly hard, very friable, nonsticky and nonplastic; common fine roots; few very fine tubular pores; 40 percent gravel; moderately acid (pH 5.8); clear wavy boundary 
+
+ Bg--75 to 89 cm; very gravelly sandy loam, light yellowish brown (2.5Y 6/4) dry, olive brown (2.5Y 4/4) moist, and light brownish gray (2.5Y 6/2) dry, dark grayish brown (2.5Y 4/2) moist; massive; slightly hard, very friable, nonsticky and nonplastic; few fine roots; common fine tubular and interstitial pores; reddish yellow  (7.5YR 6/6) dry, strong brown (7.5YR 5/6) moist, masses of oxidized iron around rock fragments; 45 percent gravel; moderately acid (pH 6.0); abrupt wavy boundary
+
+ 2Cd1--89 to 109 cm; very gravelly sandy loam, light brownish gray (2.5Y 6/2) dry, dark grayish brown (2.5Y 4/2) moist; massive; extremely hard; extremely firm, nonsticky and nonplastic; few fine roots; few fine tubular pores; dark yellowish brown (10YR 4/4) moist, olive (5Y 4/4) moist, yellowish red (5YR 4/6) and strong brown (7.5YR 5/6) moist iron-manganese masses and masses of oxidized iron in cracks; 40 percent gravel; moderately acid (pH 6.0); abrupt irregular boundary
+
+ 2Cd2--109 to 150 cm; dense glacial till that breaks to very gravelly sandy loam, light gray (2.5Y 7/2) dry grayish brown (2.5Y 5/2) moist; massive; extremely hard, extremely firm, nonsticky and nonplastic; 40 percent gravel; moderately acid (pH 6.0)
+
+TYPE LOCATION: Snohomish County, Washington; about 8 km east of Lynnwood on Maltby road; 61 m south and 122 m east of the center of sec. 28, T. 27 N., R. 5 E., Willamette Meridian; Bothell, Washington, U.S. Geological Survey quadrangle; latitude: 47.798000, longitude: 122.176000 degrees west, WGS84 (coordinates estimated from PLSS details)
+
+RANGE IN CHARACTERISTICS:
+*Mean annual soil temperature--10 to 12 degrees C
+*Soil moisture control section--dry 60 to 75 consecutive days following the summer solstice 
+*Depth to densic contact--50 to 100 cm
+*Depth to redoximorphic features with chroma of 2 or less--45 to 75 cm 
+*Reaction (pH)--5.1 to 6.5
+
+Particle-size control section (weighted average):
+*Clay content: 5 to 15 percent 
+*Rock fragments: 35 to 65 percent 
+
+A horizon 
+Hue--10YR or 7.5YR 
+Value--2 or 3 moist, 3 to 5 dry 
+Chroma--2 to 4, moist or dry 
+Total fragments--15 to 65 percent 
+Gravel content--15 to 65 percent 
+Cobble content--0 to 5 percent 
+Stone content--0 to 5 percent 
+Thickness--5 to 20 cm
+
+Bw horizon 
+Hue--10YR or 7.5YR 
+Value--2 to 6, dry or moist 
+Chroma--2 to 6, dry or moist 
+Fine earth texture--sandy loam, coarse sandy loam, or loam 
+Total fragments--15 to 65 percent 
+Gravel content--15 to 65 percent 
+Cobble content--0 to 15 percent 
+Stone content--0 to 5 percent 
+Thickness--20 to 75 cm
+
+Bg horizon 
+Hue--10YR or 2.5Y 
+Value--5 to 7 dry 
+Chroma--2 to 4, moist or dry 
+Fine earth texture--sandy loam, coarse sandy loam, or loam 
+Redox concentrations--beginning within 75 cm of the surface 
+Total fragments--35 to 85 percent
+Gravel content--35 to 85 percent 
+Cobble content--0 to 25 percent 
+Stone content--0 to 5 percent 
+Thickness--5 to 50 cm
+
+2Cd horizon 
+Hues-- 10YR or 2.5Y 
+Value--4 to 8 dry 
+Chroma--1 to 3, moist or dry 
+Fine earth texture--sandy loam, fine sandy loam, coarse sandy loam, or loamy sand
+Total fragments--15 to 45 percent 
+Gravel content--15 to 45 percent 
+Cobble content--0 to 10 percent 
+Stone content--0 to 5 percent 
+
+An E horizon less than 5 cm thick is sometimes present 
+
+COMPETING SERIES: 
+Whidbey--dry 75 to 90 consecutive days following the summer solstice; less than 15 percent coarse fragments in the surface horizon
+
+GEOGRAPHIC SETTING:
+Elevation--0 to 250 m
+Mean annual precipitation--410 to 1500 mm
+Mean annual air temperature--9 to 11 C
+Frost free period--180 to 240
+
+GEOGRAPHICALLY ASSOCIATED SOILS:
+Everett, Indianola--lack a densic layer, no aquic conditions within 30 cm of the soil surface, on adjacent glacial outwash or glacial drift plains 
+McChord--depth to densic contact is between 100 and 150 cm from the soil surface, on similar landforms
+Mckenna--on adjacent hillslopes and glacial drift plains
+
+DRAINAGE AND SATURATED HYDRAULIC CONDUCTIVITY:
+*Drainage class--moderately well drained
+*Depth to perched seasonal water table--30 to 90 cm at times in December through April
+*Flooding--none
+*Ponding--none
+*Saturated hydraulic conductivity (Ksat)--high saturated hydraulic conductivity above the densic contact and low saturated hydraulic conductivity in the densic material
+
+USE AND VEGETATION: 
+*Use--timber production, crop production, wildlife habitat, watershed
+*Potential natural vegetation-- Douglas-fir, western hemlock, western redcedar, red alder with an understory of salal, Oregon-grape, western brackenfern, western swordfern, Pacific rhododendron, red huckleberry, evergreen huckleberry, and orange honeysuckle
+
+DISTRIBUTION AND EXTENT: Western Washington; MLRA 2. The series is extensive 
+
+SOIL SURVEY REGIONAL OFFICE (SSRO) RESPONSIBLE: Portland, Oregon 
+
+SERIES ESTABLISHED: Snohomish County, Washington 1936 
+
+REMARKS: Diagnostic horizons and features recognized in this soil: 
+*Particle-size control section--25 to 89 cm 
+*Ochric epipedon
+*Cambic horizon--from 0 to 89 cm 
+*Episaturation--zone from 75 to 89 cm
+*Aquic conditions--zone from 75 to 89 cm
+*Depth to densic contact--89 cm
+*Depth to lithologic discontinuity--89 cm
+*Redoximorphic depletions with chroma of 2 or less--zone from 75 cm to 89 cm
+
+06/2018--Changed from previous 2011 classification of loamy-skeletal, isotic, mesic, Vitrandic Dystroxerepts. Existing laboratory data for this series and other geographically associated soils does not reflect the presence of adequate quantities of volcanic glass to support the Vitrandic subgroup. This OSD was edited according to SSR01 Technical Note--Content and Format of Official Series Descriptions (revised 11/2017).
+
+ADDITIONAL DATA: Partial data available for this series. Sample # S71WA033002, 71WA033003, S04WA061002, and S09WA053098
+
+National Cooperative Soil Survey
+U.S.A.

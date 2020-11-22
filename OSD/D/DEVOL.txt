@@ -1,0 +1,130 @@
+LOCATION DEVOL                  OK+TX
+
+Established Series
+Rev. RFG-CRC-TGM
+09/2016
+
+DEVOL SERIES
+
+The Devol series consists of very deep, well drained, moderately rapidly permeable soils that formed in loamy and sandy eolian sediments of Pleistocene age. These soils are on nearly level to moderately steep dunes and wind reworked sandsheets on terraces of the Central Rolling Red Plains (MLRA 78B, 78C). Slope ranges from 0 to 20 percent. Mean annual precipitation is about 635 mm (25 in) and the mean annual temperature is about 16 degrees C (61 degrees F).
+
+TAXONOMIC CLASS: Coarse-loamy, mixed, superactive, thermic Typic Haplustalfs 
+
+TYPICAL PEDON: Devol loamy fine sand - cultivated, at an elevation of 399 m (1310 ft). (Colors are for dry soil unless otherwise stated.) 
+
+    Ap--0 to 36 cm (0 to 14 in); light brown (7.5YR 6/4) dry, loamy fine sand; brown (7.5YR 4/4) moist; single grain; soft, very friable; the upper 20 cm (8 in) is a plowed layer that does not differ appreciably from the rest of the horizon; neutral; gradual smooth boundary. (Thickness of the A horizon is 0 to 51 cm [0 to 20 in])
+
+    Bt--36 to 69 cm (14 to 27 in); reddish brown (5YR 5/4) dry, fine sandy loam, reddish brown (5YR 4/4) moist; weak medium prismatic structure; slightly hard, very friable; few faint clay bridges between sand grains; few distinct clay films on prism faces; noneffervescent; slightly alkaline; gradual smooth boundary. (Thickness of the Bt horizon is 20 to 51 cm [8 to 20 in])
+
+    BC--69 to 102 cm (27 to 40 in); yellowish red (5YR 5/6) dry; fine sandy loam; yellowish red (5YR 4/6) moist; weak coarse prismatic structure; slightly hard, very friable; noneffervescent; slightly alkaline; gradual smooth boundary. (Thickness of the BC horizon is 25 to 40 cm [10 to 16 in])
+
+    C--102 to 163 cm (40 to 64 in); brown (7.5YR 5/4) loamy fine sand; brown (7.5YR 4/4) moist; massive; slightly hard, very friable; noneffervescent; moderately alkaline.
+
+TYPE LOCATION: Tillman County, Oklahoma; about 3 miles north and 1 mile east of Tipton; 300 ft (91 m) south and 150 ft (46 m) east of the northwest corner of the northeast 1/4 of sec. 20, T. 1 N., R. 18 W.
+
+USGS topographic quadrangle: Tipton SE, OK
+Latitude: 34 degrees, 33 minutes, 0.310 seconds N
+Longitude: 99 degrees, 6 minutes, 51.779 seconds W
+
+
+UTM Easting: 489506 m
+UTM Northing: 3823157 m
+UTM Zone: 14N
+
+RANGE IN CHARACTERISTICS: 
+Solum thickness: 76 to 152 cm (30 to 60 in) 
+Depth to carbonates: greater than 76 cm (30 in)
+
+Particle-size control section (weighted average): 
+Clay content: 8 to 18 percent 
+
+A horizon:
+Hue: 5YR to 10YR
+Value: 4 to 6, 3 to 5 moist
+Chroma: 2 to 6
+Texture: loamy sand, loamy fine sand or fine sandy loam
+Rock fragments: amount-less than 2 percent; size-gravel; kind-quartzite
+Effervescence: none or very slight  
+Reaction: moderately acid to slightly alkaline 
+
+Bt horizon:
+Hue: 2.5YR to 10YR
+Value: 4 to 6, 3_to 5 moist
+Chroma: 4 to 6
+Texture: loamy fine sand, sandy loam, or fine sandy loam
+Rock fragments: amount-less than 2 percent; size-gravel; kind-quartzite
+Effervescence: none or very slight  
+Reaction: slightly acid to moderately alkaline
+
+BC horizon:
+Hue: 2.5YR to 10YR
+Value: 4 to 7, 3 to 6 moist
+Chroma: 4 to 6
+Texture: loamy sand, loamy fine sand, sandy loam, or fine sandy loam
+Rock fragments: amount-less than 2 percent; size-gravel; kind-quartzite
+Effervescence: none or very slight  
+Reaction: neutral to moderately alkaline 
+
+C horizon:
+Hue: 2.5YR to 10YR
+Value: 4 to 7, 3 to 6 moist
+Chroma: 4 to 8
+Texture: fine sand, loamy sand, loamy fine sand, sandy loam or fine sandy loam 
+Rock fragments: amount-less than 2 percent; size-gravel; kind-quartzite
+Effervescence: none or very slight  
+Reaction: neutral to moderately alkaline 
+
+COMPETING SERIES: This is the Fortyone (OK) series in the same family. Similar soils are the Cobb (TX), Grandfield (OK), May (TX), Miles (TX), Nobscot (OK), and Springer (TX) series. 
+Cobb, Grandfield, May, and Miles soils: have fine-loamy particle-size control sections 
+Fortyone soils: contain between 2 and 15 percent rounded gravel throughout the solum 
+Nobscot soils: have sandy surface layers more than 50 cm (20 in) thick
+Springer soils: have a bisequal solum and are more clayey in the lower part
+
+GEOGRAPHIC SETTING: 
+Parent material: formed in loamy and sandy sediments of Pleistocene age
+Landscape: Alluvial plains
+Landform: nearly level to moderately steep dunes and wind reworked sandsheets 
+Slopes: 0 to 20 percent
+Soil moisture: A Typic Ustic moisture regime. The soil moisture control section is dry in some part or all parts for more than 180 but less than 225 cumulative days in normal years. The soil is intermittently moist in some part from December to March; intermittently moist from July to September; and typically the driest in January to February.
+Mean annual soil temperature: 15 to 22 degrees C (59 to 72 degrees F)
+Mean annual air temperature: 14 to 18 degrees C (57 to 64 degrees F)
+Mean annual precipitation: 508 to 762 mm (20 to 30 in)
+Frost-free period: 185 to 230 days
+Elevation: 305 to 671 m (1,000 to 2,200 ft)
+Thornthwaite annual P-E Index Values: 32 to 44
+
+GEOGRAPHICALLY ASSOCIATED SOILS: These are the Carwile, Springer, Eda, Grandfield, Grandmore, Miles, Nobscot, Tipton, and Tivoli series.
+Eda soils: have a loamy fine sand argillic horizon and are on slightly more undulating topography
+Carwile soils: have fine control sections
+Grandfield, Grandmore, and Tipton soils: have fine-loamy control sections; in addition Tipton soils have mollic surfaces
+Miles soils: have fine-loamy control sections and do not decrease in clay content within 152 cm (60 in)
+Nobscot soils: have sandy surface layers greater than 50 cm (20 in) thick and are on slightly higher convex ridges and side slopes
+Springer soils: occur on similar positions, have a bisequal solum, and are more clayey in the lower part
+Tivoli soils: do not have an argillic horizon and are on dune or hummocky areas
+
+DRAINAGE AND PERMEABILITY: 
+Drainage class: Well drained 
+Permeability: Moderately rapid 
+Runoff: negligible on 0 to 1 percent slopes, very low on slopes of 1 to 5 percent, and low on 5 to 20 percent slopes
+
+USE AND VEGETATION: The undulating slopes are used mainly for growing wheat, sorghums and cotton. The hummocky slopes are used for native range. The native vegetation includes tall grasses such as sand bluestem, Indiangrass, little bluestem and shrubs such as sand sagebrush. 
+
+DISTRIBUTION AND EXTENT: LRR H-Central Great Plains Winter Wheat and Range Region; Central Rolling Red Plains (MLRA-78B, 78C) of Oklahoma and Texas. The series is moderately extensive. 
+
+MLRA SOIL SURVEY REGIONAL OFFICE (MO) RESPONSIBLE: Temple, Texas 
+
+SERIES ESTABLISHED: Stonewall County, Texas; 1970.
+
+REMARKS: 
+Devol soils were updated as part of a progressive update project in 2012. 
+
+Diagnostic horizons and features recognized in this pedon are: 
+Ochric Epipedon: 0 to 36 cm (0 to 14 in) (A horizon) 
+Argillic Horizon: 36 to 67 cm (14 to 27 in) (Bt horizon) 
+
+This series was updated extensively for SDJR (09/2016 TGM)
+
+Taxonomic version: Keys to Soil Taxonomy, Twelfth Edition, 2014
+
+National Cooperative Soil Survey
+U.S.A.

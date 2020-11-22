@@ -1,0 +1,93 @@
+LOCATION MUIRKIRK               MD
+
+Established Series
+Rev. EAW
+11/2002
+
+MUIRKIRK SERIES
+
+The Muirkirk series consists of very deep, well drained to somewhat excessively drained, moderately slow to slowly permeable soils on uplands.  They formed in a coarse textured mantle and the underlying older clayey sediments. Slopes range from 0 to 40 percent. Mean annual temperature is 55 degrees F., and mean annual precipitation is inches.
+
+TAXONOMIC CLASS: Clayey, kaolinitic, mesic Arenic Paleudults
+
+TYPICAL PEDON:  Muirkirk loamy sand - idle field
+
+    Ap -- 0 to 8 inches; olive brown (2.5Y 4/4) loamy sand; weak fine
+
+granular structure; loose; medium acid; abrupt smooth boundary.  (8 to 10 inches thick).
+
+    E -- 8 to 18 inches; yellowish brown (10YR 5/4) loamy sand; weak fine
+
+granular structure and single grain; very friable; strongly acid; gradual smooth boundary.  (8 to 10 inches thick).
+
+    EB -- 18 to 23 inches; yellowish brown (10YR 5/4) loamy sand; weak
+
+medium subangular blocky structure and single grain; firm in place but friable in hand; strongly acid; gradual irregular boundary.  (3 to 8 inches thick).
+
+    BE -- 23 to 28 inches; strong brown (7.5YR 5/6) heavy loamy sand;
+
+weak medium subangular blocky structure; firm in place but friable in hand; strongly acid; abrupt irregular boundary.  (3 to 8 inches thick).
+
+    Bt -- 28 to 36 inches; red (2.5YR 4/8) sandy loam; weak medium angu-
+
+lar blocky structure; slightly hard, friable, slightly sticky, slightly plastic; few faint clay films; few ironstone fragments; strongly acid; abrupt smooth boundary.  (8 to 10 inches thick).
+
+    2Bt -- 36 to 60 inches; red (2.5YR 4/6) clay; strong fine and medium
+
+angular blocky structure; very hard, sticky, plastic; many prominent yellowish red (5YR 4/6) clay films, thickness decreases with depth; some inclusions of reddish yellow (5YR 6/6) massive clay in lower part; very strongly acid.
+
+TYPE LOCATION:  Prince Georges County, Maryland, 0.1 mile south of Telegraph Road and 0.5 mile west of Beltsville Airport Road.
+
+RANGE IN CHARACTERISTICS:  The thickness of the solum ranges from 40 to more than 60 inches.  Coarse fragments range from 0 to 15 percent in the upper solum.  The 2Bt horizon does not contain coarse fragments.  Soil reaction ranges from very strongly acid to medium acid in the A, E, and BE horizons and from very strongly acid to strongly acid in the Bt and 2Bt horizons.
+
+The A horizon has hue of 10YR or 2.5YR, value of 3 to 5 and chroma
+f 1 to 4 . Texture is loamy sand or sand.
+
+
+The E horizon has hue of 10YR or 2.5Y, value of 4 to 6 and chroma of 3 through 5.  Texture is loamy sand or sand.
+
+The Bt horizon has hue of 2.5YR to 10R, value of 3 to 5 and chroma of 6 to 8.  Texture is  sandy loam or sandy clay loam.
+
+The 2Bt horizon has hue of 2.5YR to 10R, value of 4 or 5 and chroma of 6 to 8.  The 2Bt horizon grades, either gradually or abruptly, and irregularly into a massive, red, yellow, brown, pink and white clays.
+
+COMPETING SERIES  Muirkirk is the only series in this family.  Wicks- burg is a similar soil with mean annual soil temperature greater than 59 degrees F.
+
+GEOGRAPHIC SETTING:  Muirkirk soils are on dissected to rolling uplands.  They formed in a thin sandy mantle overlying old Cretaceous clays.  Slope gradient ranges from 0 to 40 percent.  Slopes are smooth to complex and concave to convex.  Mean annual temperature ranges from 50 to 57 degrees F., and mean annual precipitation ranges from 39 to 47 inches.
+
+ASSOCIATED SOILS:  These are the Christiana, Sunnyside, Aura, Croom, Keyport, Beltsville, Chillum and Sassafras series.  All the associated soils do not have the thick sandy layer above the Bt horizon.
+
+DRAINAGE AND PERMEABILITY:  Well drained to somewhat excessively drained.  Surface runoff is medium.  Permeability above the Bt horizon is rapid, permeability in the Bt horizon is moderate to moderately rapid and in the 2Bt is moderate to slow.
+
+USE AND VEGETATION:  Mostly wooded or idle; small areas are used for general crops or tobacco.  Wooded areas are mostly Virginia pine, post oak, scrub oak and blackjack oak.  The clays are a source of clay for bricks.  Some areas are in urban uses.
+
+DISTRIBUTION AND EXTENT:  Maryland, the District of Columbia, Delaware, the series is of small extent.
+
+MLRA SOIL SURVEY REGIONAL OFFICE (MO) RESPONSIBLE: Morgantown, West Virginia
+
+SERIES ESTABLISHED:  Prince Georges County, Maryland, 1941.
+
+REMARKS:  Diagnostic horizons and features recognized in this pedon are:
+  Ochric epipedon - The zone from the surface to 8 inches.  (Ap hori- zon).
+  Albic horizon - The zone from 8 to 23 inches (E and EB horizons).
+  Argillic horizon - The zone from 38 to 60 inches (Bt and 2Bt hori- zon).
+  Arenic Feature - They have loamy sand textures to a depth of 28 inches.
+  Paleudult feature - No part of the moisture control section is dry for as long as 90 consecutive days.  The Bt and 2Bt horizons have less than 10 percent weatherable minerals and clay does not decrease by more than 20 percent of its maximum within a depth of 60 inches from the surface.
+
+SOI-5  Soil Name   Slope  Airtemp FrFr/Seas Precip  Elevation
+MD0054 MUIRKIRK    0- 40     -        -       -         -     
+
+SOI-5  FloodL FloodH Watertable Kind   Months  Bedrock Hardness
+MD0054 NONE          6.0-6.0              -     60-60        
+
+SOI-5  Depth  Texture                3-Inch  No-10  Clay%   -CEC-
+MD0054  0-28  LS S SL                 0-  0  85-100   -      -   
+MD0054 28-36  SL SCL                  0-  0  85-100   -      -   
+MD0054 36-60  C SIC                   0-  0 100-100   -      -   
+
+SOI-5  Depth    -pH-     O.M.  Salin  Permeab   Shnk-Swll
+MD0054  0-28  4.5- 6.0    -     -     6.0-  20  LOW      
+MD0054 28-36  4.5- 5.5    -     -     0.6- 6.0  LOW      
+MD0054 36-60  4.5- 5.5    -     -    0.06- 0.6  MODERATE  
+
+National Cooperative Soil Survey
+U.S.A.

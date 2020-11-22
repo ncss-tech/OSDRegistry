@@ -1,0 +1,108 @@
+LOCATION CLEMAN                 WA
+
+Established Series
+Rev. TER/CDL/RJE/RWL
+09/2019
+
+CLEMAN SERIES
+
+Landscape--valleys
+Landform--alluvial fans, flood plains
+Slope--0 to 15 percent
+Parent material--alluvium
+Mean annual precipitation--about 250 mm
+Mean annual air temperature--about 10 degrees C
+Depth class--very deep
+Drainage class--well drained
+Soil moisture regime--aridic
+Soil temperature regime--mesic
+Soil moisture subclass--xeric
+
+TAXONOMIC CLASS: Coarse-loamy, mixed, superactive, mesic Torrifluventic Haploxerolls
+
+TYPICAL PEDON: Cleman very fine sandy loam in an area of irrigated cropland
+
+ Ap--0 to 25 cm; very fine sandy loam, grayish brown (10YR 5/2) dry, dark brown (10YR 3/3) moist; weak fine granular structure; soft, very friable, slightly sticky and slightly plastic; few very fine roots; common fine pores; slightly alkaline (pH 7.4); clear wavy boundary
+
+ C1--25 to 64 cm; fine sandy loam, brown (10YR 5/3) dry, dark brown (10YR 3/3) moist; massive; soft, very friable, nonsticky and nonplastic; few medium roots; slightly alkaline (pH 7.6); abrupt wavy boundary
+
+ C2--64 to 71 cm; silt loam, brown (10YR 5/3) dry, dark brown (10YR 3/3) moist; massive; soft, very friable, nonsticky and nonplastic; slightly alkaline (pH 7.6); abrupt wavy boundary
+
+ C3--71 to 102 cm; sandy loam, yellowish brown (10YR 5/4) dry, dark yellowish brown (10YR 3/4) moist; massive; soft, very friable, nonsticky and nonplastic; slightly alkaline (pH 7.6) clear wavy boundary
+
+ C4--102 to 114 cm; fine sandy loam, brown (10YR 5/3) dry, dark brown (10YR 3/3) moist; massive; soft, very friable, nonsticky and nonplastic; slightly alkaline (pH 7.8); clear wavy boundary
+
+ C5--114 to 140 cm; sandy loam, yellowish brown (10YR 5/4) dry, dark yellowish brown (10YR 3/4) moist; single grain; loose; slightly alkaline (pH 7.8) abrupt wavy boundary
+
+ C6--140 to 150 cm; very fine sandy loam, yellowish brown (10YR 5/4) dry, dark yellowish brown (10YR 3/4) moist; massive; soft, very friable, slightly sticky and nonplastic; slightly alkaline (pH 7.8)
+
+TYPE LOCATION: Yakima County, Washington, about 9.5 km southeast of Moxee; about 210 m west and 30 m north of the southeast corner of section 13, T. 12 N., R. 20 E., Willamette Meridian
+
+RANGE IN CHARACTERISTICS:
+Mean annual soil temperature at a depth of 50 cm--9 to 12 degrees C
+Soil moisture--dry in all parts between depths of 10 and 35 cm more than half the time the soil temperature is higher than 5 degrees C (105 to 115 days)
+Thickness of mollic epipedon--25 to 50 cm
+Rock fragment content in particle-size control section--0 to 5 percent
+
+Ap horizon
+Value--4 or 5 dry, 2 or 3 moist
+Chroma--2 or 3 moist or dry
+Reaction--6.6 to 7.8
+Thickness--25 to 50 cm
+
+Some pedons have a thin B horizon.
+
+C horizon
+Hue--10YR, 2.5Y
+Value--5 or 6 dry, 3 or 4 moist
+Chroma--2, 3, or 4 moist or dry
+Texture--stratified silt loam to loamy fine sand above a depth of 100 cm; stratified silt loam to sand and 0 to 40 percent rock fragments below a depth of 100 cm
+Reaction--6.6 to 7.8 above a depth of 100 cm; 6.6 to 8.4 below a depth of 100 cm
+Combined thickness--100 cm or more
+
+COMPETING SERIES:
+Beetville--redoximorphic features within a depth of 100 to 183 cm
+Circlevalley--calcareous throughout particle-size control section
+Dressler--redoximorphic features within a depth of 76 to 127 cm
+Kimberly--slightly calcareous or moderately calcareous throughout particle-size control section
+Kodak--calcareous throughout particle-size control section; 50 to 100 cm deep to a buried A horizon; shell fragments throughout
+Ravendog--secondary carbonates and 5 to 15 percent durinodes within a depth of 50 to 100 cm
+Sheepskin--20 to 35 percent rock fragments in particle-size control section
+
+GEOGRAPHIC SETTING:
+Elevation--120 to 610 m
+Climate--dry, semiarid
+Mean annual precipitation--200 to 300 mm
+Mean January air temperature--about -3 degrees C
+Mean July air temperature--about 22 degrees C
+Mean annual air temperature--9 to 12 degrees C
+Frost-free season--135 to 200 days
+
+GEOGRAPHICALLY ASSOCIATED SOILS:
+Ashue--more than 18 percent clay; on low terraces
+Roza--more than 18 percent clay; on alluvial fans
+
+DRAINAGE AND SATURATED HYDRAULIC CONDUCTIVITY:
+Drainage class--well drained
+Saturated hydraulic conductivity (Ksat)--high
+Flooding--none to rare
+
+USE AND VEGETATION:
+Use--mainly production of irrigated orchard crops and hay and pasture; some livestock grazing and nonirrigated crop production
+Native vegetation--bluebunch wheatgrass, Wyoming big sagebrush
+
+DISTRIBUTION AND EXTENT: South-central Washington; MLRAs 7 and 8; small extent
+
+SOIL SURVEY REGIONAL OFFICE (SSRO) RESPONSIBLE: Portland, Oregon
+
+SERIES ESTABLISHED: Yakima County, Washington; 1947
+
+REMARKS:
+Diagnostic horizons and other features recognized in this pedon
+*Mollic epipedon--zone from the surface to a depth of 25 cm
+*Particle-size control section--zone from 25 to 100 cm
+
+It is assumed that these soils have an irregular decrease in organic carbon content as depth increases.
+
+National Cooperative Soil Survey
+U.S.A.

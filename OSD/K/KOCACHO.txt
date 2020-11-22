@@ -1,0 +1,115 @@
+LOCATION KOCACHO                AK
+
+Established Series
+JDP/BA/TJR
+04/2020
+
+KOCACHO SERIES
+
+Landscape--alluvial plains
+Landform--depressions on stream terraces
+Slope--0 to 3 percent
+Parent material--alluvium
+Mean annual precipitation--about 255 mm
+Mean annual air temperature--about -6 degrees C
+Depth class--very deep
+Drainage class--somewhat poorly drained
+Soil moisture regime--udic
+Soil temperature regime--cryic
+Soil moisture subclass--aquic
+
+TAXONOMIC CLASS: Sandy-skeletal, mixed Oxyaquic Cryorthents
+
+TYPICAL PEDON: Kocacho gravelly silt loam on a woodland terrace with a slope of 0 percent and an elevation of 279 m (The soil was moist to a depth of 60 cm and wet below a depth of 60 cm when described on July 28, 2013.)
+
+ Oi--0 to 8 cm; slightly decomposed plant material; common very fine to coarse roots; moderately acid (pH 6.0); abrupt smooth boundary
+
+ A--8 to 12 cm; gravelly silt loam; yellowish brown (10YR 5/4) dry, dark yellowish brown (10YR 3/4) moist; weak medium subangular blocky structure; slightly hard, friable, slightly sticky and slightly plastic; common very fine to very coarse roots; common fine and medium pores; 15 percent gravel; noneffervescent; strongly acid (pH 5.4); clear smooth boundary
+
+ AC--12 to 22 cm; very gravelly silt loam; very pale brown (10YR 7/4) dry, yellowish brown (10YR 5/4) moist; weak medium subangular blocky structure; slightly hard, friable, slightly sticky and nonplastic; common fine and very fine roots; common fine and medium pores; 40 percent gravel; noneffervescent; moderately acid (pH 5.9); clear smooth boundary
+
+ C1--22 to 35 cm; extremely gravelly loamy sand; very pale brown (10YR 7/3) dry, brown (10YR 5/3) moist; massive; loose; common very fine roots; few fine and medium pores; 65 percent gravel; noneffervescent; neutral (pH 7.0); clear smooth boundary
+
+ C2--35 to 150 cm; extremely gravelly loamy sand; light brownish gray (10YR 6/2) dry, dark grayish brown (10YR 4/2) moist; massive; loose; common very fine roots; few fine and medium pores; 75 percent gravel; strongly effervescent; slightly alkaline (pH 7.8)
+
+TYPE LOCATION: Yukon-Koyukuk Census Area, Alaska; latitude 67.3805560 degrees, longitude -144.1419170 degrees, datum WGS84 (coordinates determined with a GPS)
+
+RANGE IN CHARACTERISTICS:
+Mean annual soil temperature--0.5 to 2.5 degrees C
+Rock fragment content--35 to 85 percent gravels and cobbles (by weighted average) in the zone from 25 to 100 cm
+
+Oi horizon
+Thickness--1 to 10 cm
+Reaction--5.5 to 7.5
+
+Oe horizon (where present)
+Thickness--1 to 10 cm
+Reaction--5.5 to 7.5
+
+A and AC horizons
+Value--2 to 5 moist, 4 to 7 dry
+Chroma--2 to 4 moist
+Fine-earth texture--silt loam, loam, very fine sandy loam, fine sandy loam, fine sand to coarse sand 
+Rock fragment content--5 to 50 percent total gravels
+Clay content--0 to 18 percent
+Reaction--5.0 to 7.5
+Effervescence--none to slight
+Combined thickness--5 to 15 cm
+
+C1 and C2 horizons
+Hue--10YR, 2.5Y
+Value--3 to 5 moist, 5 to 7 dry
+Chroma--1 to 3 moist
+Fine-earth texture--fine sandy loam, loamy sand, sand to coarse sand
+Rock fragment content--20 to 85 percent total gravels and cobbles
+Clay content--0 to 10 percent
+Reaction--6.0 to 8.0
+Effervescence--none to strong
+Combined thickness--125 to 145 cm
+
+COMPETING SERIES: 
+Alsek----GLACIER BAY SURVEY ONGOING 
+Fingers----GLACIER BAY SURVEY ONGOING
+Puffin----GLACIER BAY SURVEY ONGOING
+Tangoe--these soils do not allow sandy textures in the surface horizons and are subject to flooding
+
+GEOGRAPHIC SETTING:
+Elevation--100 to 300 m
+Climate--short, warm summers and long, very cold winters
+Mean annual precipitation--210 to 310 mm
+Mean annual air temperature-- -12 to 0 degrees C
+Frost-free period--45 to 97 days
+
+GEOGRAPHICALLY ASSOCIATED SOILS:
+Venetie--dry longer than 90 days during the growing season; higher positions on similar landforms
+Tlozhavun (gravelly taxadjuncts)--no aquic conditions within 150 cm; higher positions on similar landforms
+Choonjik (gravelly taxadjuncts)-- no aquic conditions within 150 cm; calcareous; higher positions on similar landforms
+Yasuda--aquic conditions within 25 cm with frequent ponding; depressions on similar landforms
+
+DRAINAGE AND SATURATED HYDRAULIC CONDUCTIVITY:
+Drainage class--somewhat poorly drained
+Saturation in normal years--saturated between a depth of 25 to 50 cm in May through July, and between a depth of 50 to 75 cm in August and September; saturated below a depth of 100 cm throughout the rest of the year
+Flooding--none
+Ponding--none
+Saturated hydraulic conductivity (Ksat)--high in the surface horizons and high or very high in the subsurface
+
+USE AND VEGETATION:
+Use--wildlife habitat, subsistence, recreation
+Potential natural vegetation--black spruce, white spruce, quaking aspen, grayleaf willow, entireleaf mountain-avens, red fruit bearberry, lingonberry, bog Labrador tea, dwarf scouringrush, greygreen reindeer lichen, star reindeer lichen, stairstep moss, Tomentypnum moss, Aulacomnium moss
+
+DISTRIBUTION AND EXTENT: Yukon Flats Lowlands, Alaska; MLRA 232; small extent
+
+SOIL SURVEY REGIONAL OFFICE (SSRO) RESPONSIBLE: Portland, Oregon
+
+SERIES ESTABLISHED: Yukon Flats National Wildlife Refuge, Yukon-Koyukuk Census Area, Alaska; 2020
+
+REMARKS:
+Diagnostic horizons and other features in this pedon
+*Particle-size control section--zone from 33 to 108 cm
+*Ochric epipedon
+Redoximorphic features are generally not visible in the coarse parent material; classified as a somewhat poorly drained soil due to observed water tables and as evidenced by wetland vegetation.
+Combined A and AC horizons do not meet criteria for mollic epipedons after mixing the upper 18 cm of mineral soil.
+
+
+National Cooperative Soil Survey
+U.S.A.

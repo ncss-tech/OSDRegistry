@@ -1,0 +1,98 @@
+LOCATION STAAD                  MT 
+
+Established Series
+Rev. BDD-JAL
+05/2003
+
+STAAD SERIES 
+
+The Staad series consists of very deep, well drained soils that formed in alluvium.  These soils are on alluvial fans, drainageways, and swales. Slopes are 0 to 25 percent.  Mean annual precipitation is about 17 inches, and mean annual air temperature is about 43 degrees F. 
+
+TAXONOMIC CLASS: Fine-loamy, mixed, superactive, frigid Cumulic Haplustolls
+
+TYPICAL PEDON:  Staad silty clay loam, cultivated. (Colors are for dry soil unless otherwise noted) 
+
+    Ap--0 to 6 inches; dark grayish brown (10YR 4/2) silty clay loam, very dark grayish brown (10YR 3/2) moist; moderate medium subangular blocky structure parting to moderate medium granular; slightly hard, friable, slightly sticky and moderately plastic; many very fine and fine and common medium roots; few very fine tubular and many discontinuous pores; 5 percent cobbles; slightly alkaline; gradual wavy boundary.  (4 to 8 inches thick)
+
+    A2--6 to 16 inches; dark grayish brown (10YR 4/2) clay loam, very dark grayish brown (10YR 3/2) moist; moderate medium subangular blocky structure parting to moderate medium granular; slightly hard, friable, slightly sticky and moderately plastic; common very fine, fine and medium roots; few very fine tubular and many discontinuous pores; 5 percent cobbles; slightly alkaline; clear wavy boundary.  (8 to 12 inches thick)
+
+    Bw1--16 to 23 inches; grayish brown (10YR 5/2) loam, dark grayish brown (10YR 4/2) moist; moderate medium subangular blocky structure; slightly hard, friable, slightly sticky and slightly plastic; common very fine, fine and medium roots; common very fine and fine and many discontinuous pores; 5 percent cobbles; slightly effervescent; moderately alkaline; gradual wavy boundary.  (6 to 10 inches thick)
+
+    Bw2--23 to 60 inches; grayish brown (10YR 5/2) clay loam, dark grayish brown (10YR 4/2) moist; weak medium subangular blocky structure; slightly hard, friable, slightly sticky and slightly plastic; common very fine, fine and medium roots; common very fine, fine and medium discontinuous pores; 5 percent cobbles; slightly effervescent; moderately alkaline.
+
+TYPE LOCATION:  Granite County, Montana; 1100 feet south and 1700 feet east of the NW corner of sec. 36, T. 10 N., R. 13 W.
+ 
+RANGE IN CHARACTERISTICS:
+
+Soil temperature: 41 to 47 degrees F.
+Moisture control section: between 4 and 12 inches
+Mollic epipedon thickness: 16 to 25 inches
+
+Ap horizon:
+Hue: 10YR or 2.5Y
+Value: 3, 4 or 5 dry; 2 or 3 moist
+Chroma: 2 or 3
+Texture: Silty clay loam or loam
+Clay content: 20 to 35 percent
+Content of rock fragments: 0 to 10 percent pebbles or cobbles
+Reaction: pH 6.6 to 7.8
+
+A2 horizon:
+Hue: 10YR or 2.5Y
+Value: 3, 4 or 5 dry; 2 or 3 moist
+Chroma: 2 or 3
+Texture: Loam or clay loam
+Clay content: 20 to 32 percent
+Content of rock fragments: 0 to 10 percent pebbles or cobbles
+Reaction: pH 6.6 to 7.8
+
+Bw horizons:
+Hue: 10YR or 2.5Y
+Value: 4, 5 or 6 dry; 3, 4 or 5 moist
+Chroma: 2, 3 or 4
+Texture: Loam or clay loam
+Clay content: 22 to 35 percent
+Content of rock fragments: 0 to 10 percent pebbles or cobbles
+Calcium carbonate equivalent: 0 to 10 percent
+Reaction: pH 7.8 to 8.4
+
+COMPETING SERIES: 
+
+Brycan (UT) - has horizon of secondary carbonate accumulation.
+Cordeston (WY) - does not have carbonates above a depth of 60 inches. 
+Dalmation (CO) - has redoximorphic concentrations at 12 to 24 inches.
+Enbar (MT) - has redoximorphic features in the particle-size control section. 
+Jodero (CO) - has a mollic epipedon more than 40 inches thick; has redoximorphic concentrations in the series control section; receive less than 14 inches of precipitation. 
+McGaffey (NM) - has hues of 7.5YR and redder throughout the profile. 
+Nutrioso (AZ) - has a lithologic discontinuity above 40 inches. 
+Pinridge (CO) - is dry in all parts of the moisture control section for 60 or more days following July 1. 
+Polich (NM) - has horizon of secondary carbonate accumulation; is somewhat poorly drained.
+Straw (MT) - does not have cobbles in the particle-size control section; has a C horizon; allows Bk and 2C horizons.
+
+GEOGRAPHIC SETTING: 
+
+Landform - alluvial fans, drainageways and swales. 
+Elevation - 3,800 to 6,900 feet. 
+Slope - 0 to 25 percent. 
+Parent material - alluvium. 
+Climate - long, cold winters; moist springs; warm summers. 
+Mean annual precipitation - 15 to 19 inches. 
+Mean annual air temperature - 39 to 45 degrees F. 
+Frost-free period - 70 to 90 days. 
+
+GEOGRAPHICALLY ASSOCIATED SOILS: This is the Martinsdale series. Martinsdale soils are on alluvial fans and stream terraces. They have an argillic horizon and a mollic epipedon 7 to 16 inches thick.
+
+DRAINAGE AND PERMEABILITY:  Well drained; moderate permeability. 
+
+USE AND VEGETATION:  Staad soils are used mainly for dryland cropland, irrigated cropland, and range.  Potential native vegetation is mainly rough fescue, western wheatgrass, needleandthread, little bluestem, bluebunch wheatgrass, green needlegrass, forbs, and shrubs. 
+
+DISTRIBUTION AND EXTENT:  Staad soils are of small extent in southwestern Montana.  MLRA 44. 
+
+MLRA SOIL SURVEY REGIONAL OFFICE (MO) RESPONSIBLE:  Bozeman, Montana
+
+SERIES ESTABLISHED: Deer Lodge County, Montana, 2003.
+
+REMARKS:  Diagnostic horizons and features recognized in this pedon are:  a mollic epipedon from the soil surface to 16 inches (Ap and A2 horizons); a cambic horizon from 16 to 60 inches (Bw horizons); particle-size control section from 10 to 40 inches (part of the A2, Bw1 and part of the Bw2 horizons).  Staad soils have a frigid temperature regime and an ustic moisture regime. 
+
+National Cooperative Soil Survey
+U.S.A.

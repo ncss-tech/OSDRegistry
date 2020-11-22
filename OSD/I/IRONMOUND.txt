@@ -1,0 +1,116 @@
+LOCATION IRONMOUND              OK
+
+Established Series
+Rev. JGF:RCW:JLD
+03/2016
+
+IRONMOUND SERIES
+
+The Ironmound series consists of shallow, well drained soils that formed in material weathered from sandstone, or sandstone interbedded with siltstone or shale, of Permian age. These soils are on crests and side slopes of low hills in the Central Rolling Red Prairies (MLRA 80A). Slope ranges from 1 to 40 percent. Mean annual air temperature is about 16.1 degrees C (61 degrees F), mean annual precipitation is about 914 mm (36 in). 
+
+TAXONOMIC CLASS: Loamy, mixed, active, thermic, shallow Udic Haplustepts 
+
+TYPICAL PEDON: Ironmound loam under tame pasture, at an elevation of 305 m (1000 ft). (Colors are for dry soil unless otherwise stated).
+
+   Ap--0 to 18 cm (0 to 7 in); reddish brown (5YR 4/4) loam, dark reddish brown (5YR 3/4) moist; moderate medium subangular blocky structure parting to moderate medium granular; hard, friable; many very fine and fine roots; common very fine and fine pores; slightly acid; clear smooth boundary.  (Thickness of the A horizon is 10 to 20 cm [4 to 8 in]) 
+
+   Bw--18 to 41 cm (7 to 16 in); red (2.5YR 4/6) loam, dark red (2.5YR 3/6) moist; moderate medium subangular blocky structure; hard, friable; common very fine and fine roots; common very fine and fine pores; neutral; clear smooth boundary. (Thickness of the Bw horizon is 13 to 36 cm [5 to 14 in]) 
+
+   Cr--41 to 102 cm (16 to 40 in); red (2.5YR 4/6) weathered sandstone, dark red (2.5YR 3/6) moist; neutral. 
+
+TYPE LOCATION: Logan County, Oklahoma; 1 mile west and 2 miles north of Lovell; 500 feet west and 1300 feet north of the southeast corner of Sec. 30, T. 19 N., R. 4 W 
+
+USGS topographic quadrangle: Lovell, OK 
+Latitude: 36 degrees 5 minutes 27.24 seconds north
+Longitude: 97 degrees 41 minutes 45.24 seconds west
+Datum: NAD 83
+
+Decimal degrees:
+Latitude: 36.0909  
+Longitude: -97.6590 
+
+UTM Easting: 620731 m 
+UTW Northing: 3994840 m 
+UTM Zone: 14N
+
+RANGE IN CHARACTERISTICS: 
+Depth to bedrock: 25 to 51 cm (10 to 20 in) 
+
+Ap horizon:
+Hue: 2.5YR or 5YR
+Value: 3 to 5, 4 to 6 dry
+Chroma: 2 to 6 dry or moist
+Texture: fine sandy loam, very fine sandy loam, loam or silt loam 
+Coarse fragments: amount-0 to 10 percent by volume; size- less than 76 mm (3 in); kind-sandstone fragments  
+Effervescence: none
+Reaction: moderately acid to moderately alkaline 
+
+Bw horizon:
+Hue: 10R to 2.5YR
+Value: 3 to 5, 4 to 6 dry
+Chroma: 4 to 6 dry or moist
+Texture: fine sandy loam, loam, or sandy clay loam 
+Coarse fragments: amount-0 to 10 percent by volume; size- less than 76 mm (3 in); kind-sandstone fragments  
+Effervescence: none
+Reaction: slightly acid to moderately alkaline
+
+Cr horizon:
+Hue: 10R to 2.5YR
+Value: 5 to 6, 3 to 5 moist
+Chroma: 4 to 8 dry or moist
+Bedrock: weathered sandstone or shale, or sandstone interbedded with siltstone or shale. This material is root restrictive.
+Effervescence: none
+Reaction: neutral to moderately alkaline 
+
+COMPETING SERIES: There are no competing series in this family. Soils in similar families are Darnell, Dill, Loco, and Lucien. 
+Darnell soils: have siliceous mineralogy
+Dill soils: have bedrock deeper than 51 cm (20 in) 
+Loco and Lucien soils: have mollic epipedons
+
+GEOGRAPHIC SETTING: 
+Parent Material: sandstone interbedded with siltstone or shale of Permian age 
+Landscape: hills
+Landform: low hills
+Geomorphic Component: crests and side slopes
+Hillslope Position: summits, shoulders, and backslopes
+Slope: 1 to 40 percent
+Mean annual precipitation: 787 to 991 mm (31 to 39 in)
+Mean annual air temperature: 15 to 17.2 degrees C (59 to 63 degrees F)
+Frost-Free Period: 181 to 240 days
+Elevation: 320 to 488 m (1050 to 1600 ft) 
+Thornthwaite Annual P-E indices: 44 to 64
+
+GEOGRAPHICALLY ASSOCIATED SOILS: These are the Coyle, Grainola, Kingfisher, Masham, Piedmont, and Zaneis soils, all of which are greater than 51 cm (20 in) to bedrock. 
+Coyle and Kingfisher soils: occur on similar positions
+Grainola, Masham, and Piedmont soils: occur on lower side slopes 
+Zaneis soils: occur on higher crests and upper side slopes 
+
+DRAINAGE AND PERMEABILITY:
+Drainage: well drained
+Permeability: high
+Saturated hydraulic conductivity: moderately rapid
+Runoff: negligible on 1 to 3 percent slopes, very low on 3 to 5 percent slopes, low on 5 to 10 percent slopes, medium on 10 to 20 percent slopes, and high on slopes greater than 20 percent
+
+USE AND VEGETATION: Used for livestock grazing. Some of the less sloping areas are cultivated to small grains or tame pasture. Native vegetation consists of short to tall prairie grasses. 
+
+DISTRIBUTION AND EXTENT: Central Oklahoma; Land Resource Region H; MLRA 80A. The soil is of moderate extent. 
+
+MLRA SOIL SURVEY REGIONAL OFFICE (MO) RESPONSIBLE: Temple, Texas 
+
+SERIES ESTABLISHED: Logan County, Oklahoma, 1994. 
+
+REMARKS: 
+
+These soils were formerly mapped as Lucien. Extensive revisions by due to the Soil Data Join Recorrelation Imitative (SDJR) by JLD 03/2016
+
+Diagnostic horizons and features in this pedon are: 
+Ochric epipedon: 0 to 18 cm (0 to 7 in) (Ap horizon) 
+Cambic horizon: 18 to 41 cm (7 to 16 in) (Bw horizon) 
+Paralithic contact: at a depth of 41 cm (16 inches) (Cr horizon) 
+
+ADDITIONAL DATA: None
+
+Taxonomic Version: Keys to Soil Taxonomy, Twelfth Edition, 2014
+
+National Cooperative Soil Survey
+U.S.A.

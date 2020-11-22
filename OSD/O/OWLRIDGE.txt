@@ -1,0 +1,120 @@
+LOCATION OWLRIDGE               OR
+
+Tentative Series
+Rev. JGM/KMS
+01/2017
+
+OWLRIDGE SERIES
+
+Landscape--western Cascade Mountains
+Landform--mountain slopes
+Slope--45 to 90 percent
+Parent material--colluvium derived from hard extrusive igneous rock and/or welded tuff
+Mean annual precipitation--2100 mm
+Mean annual air temperature--about 7 degrees C
+Depth class--moderately deep
+Drainage class--well drained
+Soil moisture regime--udic
+Soil temperature regime--frigid
+Soil moisture subclass--typic
+
+TAXONOMIC CLASS: Loamy-skeletal, isotic, frigid Typic Dystrudepts
+
+TYPICAL PEDON: Owlridge extremely gravelly loam on a forested, southwest-facing, 78-percent mountain slope at an elevation of 1100 m (When described on August 8, 2012, the soil was moist throughout)
+
+ Oi--0 to 3 cm; slightly decomposed plant material; abrupt smooth boundary
+
+ A--3 to 15 cm; extremely gravelly loam, light olive brown (2.5Y 5/3) dry, dark brown (10YR 3/3) moist; weak very fine and fine granular structure; very friable, slightly hard, slightly sticky and slightly plastic; common fine and few very fine, medium, and coarse roots throughout; common fine tubular pores and many medium irregular pores; 60 percent gravel and 10 percent cobbles; strongly acid (pH 5.2); clear smooth boundary
+
+ AB--15 to 23 cm; extremely gravelly loam, light yellowish brown (2.5Y 6/3) dry, dark yellowish brown (10YR 3/4) moist; weak fine subangular blocky structure; friable, slightly hard, slightly sticky and slightly plastic; common fine and few very fine, medium, and coarse roots throughout; common fine tubular pores and many medium irregular pores; 60 percent gravel and 10 percent cobbles; strongly acid (pH 5.2); clear smooth boundary
+
+ Bw1--23 to 41 cm; extremely gravelly sandy loam, light yellowish brown (2.5Y 6/4) dry, dark yellowish brown (10YR 4/4) moist; weak fine and medium subangular blocky structure; friable, slightly sticky and slightly plastic; few very fine, fine, medium, and coarse roots throughout; common fine tubular pores and many medium irregular pores; 50 percent gravel and 20 percent cobbles; strongly acid (pH 5.4); clear smooth boundary
+
+ Bw2--41 to 69 cm; extremely cobbly sandy loam, olive yellow (2.5Y 6/6) dry, dark yellowish brown (10YR 4/6) moist; weak medium subangular blocky structure; very friable, slightly hard, nonsticky and nonplastic; few fine, medium, and coarse roots throughout; common fine tubular pores and many medium irregular pores; 40 percent gravel and 35 percent cobbles; strongly acid (pH 5.4); abrupt smooth boundary
+
+ 2R--69 cm; fractured andesite
+
+TYPE LOCATION: Willamette National Forest, Lane County, Oregon, about 7.7 km north of Blue River; 245 m south and 90 m east of the northwest corner of section 34, T. 15 S., R. 4 E.; latitude 44.2225278, longitude -122.3228611, datum WGS 84 (coordinates determined with a GPS)
+
+RANGE IN CHARACTERISTICS:
+Dry days--less than 45 consecutive days following summer solstice
+Mean annual soil temperature at a depth of 50 cm--5 to 7 degrees C
+Depth to cambic horizon--15 to 25 cm below mineral soil surface
+Depth to lithic contact--50 to 100 cm below mineral soil surface
+Reaction--pH 5.0 to 6.0 throughout all mineral horizons
+
+O horizon
+*Thickness--0 to 8 cm
+
+A and AB horizons
+*Hue--7.5YR to 2.5Y
+*Value--3 to 5 moist, 5 or 6 dry
+*Chroma--3 or 4 moist or dry
+*Fine-earth texture--loam, sandy loam
+*Clay content--10 to 18 percent
+*Sand content--40 to 65 percent
+*Total fragment content--55 to 80 percent
+*Gravel content--50 to 65 percent
+*Cobble content--5 to 15 percent
+*Stone content--0 to 5 percent
+*Thickness--15 to 25 cm
+
+Bw horizon
+*Hue--7.5 YR to 2.5Y
+*Value--4 to 6 moist, 6 to 8 dry
+*Chroma--3 or 4 moist or dry
+*Fine-earth texture--sandy loam, loam
+*Clay content--8 to 18 percent
+*Sand content--45 to 75 percent
+*Total fragment content--55 to 85 percent
+*Gravel content--20 to 60 percent
+*Cobble content--10 to 45 percent 
+*Stone content--0 to 5 percent
+*Thickness--35 to 65 cm
+
+COMPETING SERIES:
+Eveleth--no lithic contact
+Rilea--sand content less than 45 percent in particle-size control section
+Shagawa--no lithic contact
+
+GEOGRAPHIC SETTING:
+Elevation--800 to 1200 m
+Climate--warm, dry summers; cool, wet winters
+Mean annual precipitation--1900 to 2300 mm
+Mean annual air temperature--6 to 8 degrees C
+Frost-free period--90 to 120 days
+
+GEOGRAPHICALLY ASSOCIATED SOILS:
+Flimflam--25 to 50 cm deep to lithic contact (shallow); on shoulders of similar slopes
+Twogirls--no lithic contact (very deep); in concave positions and on shallower slopes
+
+DRAINAGE AND SATURATED HYDRAULIC CONDUCTIVITY:
+Drainage class--well drained
+Saturation during normal years--none
+Flooding--none
+Ponding--none
+Saturated hydraulic conductivity (Ksat)--moderately high to very high
+
+USE AND VEGETATION:
+Use--watershed, recreation, timber production, wildlife habitat
+Potential natural vegetation--western hemlock, Douglas-fir, Pacific rhododendron, dwarf Oregon grape, red huckleberry, western swordfern, twinflower; commonly support a western hemlock/rhododendron-dwarf Oregon grape-Northwest Oregon Cascades (CHS356) plant association (Field Guide to the Forested Plant Associations of the Westside Central Cascades of Northwest Oregon)
+
+DISTRIBUTION AND EXTENT: Western slopes of central Cascade Mountains, Oregon; MLRA 3; small extent
+
+MLRA SOIL SURVEY REGIONAL OFFICE (MO) RESPONSIBLE: Portland, Oregon
+
+SERIES PROPOSED: Willamette National Forest, Lane County, Oregon; 2013; name from Owl Ridge, a landform in Willamette National Forest
+
+REMARKS:
+Diagnostic horizons and other features recognized in this pedon
+*Ochric epipedon
+*Particle-size control section--zone from 28 to 69 cm
+*Cambic horizon--zone from 23 to 69 cm
+*Depth to lithic contact--69 cm
+
+08/2016--Some investigation should be done to determine whether the soils have an ash influence, given the levels of ash in nearby soils.
+
+ADDITIONAL DATA: Type location user site ID--2012OR039113
+
+National Cooperative Soil Survey
+U.S.A.

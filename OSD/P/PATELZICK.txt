@@ -1,0 +1,121 @@
+LOCATION PATELZICK              ID
+
+Established Series
+Rev. DJJ/RGK/CBR/EED
+09/2018
+
+PATELZICK SERIES
+
+Landscape--alluvial plains
+Landform--fan remnants
+Slope--1 to 12 percent
+Parent material--loess-influenced alluvium over rhyolite
+Mean annual precipitation--about 350 mm
+Mean annual air temperature--about 4 degrees C
+Depth class--shallow
+Drainage class--well drained
+Soil moisture regime--xeric
+Soil temperature regime--frigid
+
+TAXONOMIC CLASS: Loamy-skeletal, mixed, superactive, frigid, shallow Typic Durixerolls
+
+TYPICAL PEDON: Patelzick stony loam on a 10-percent slope in an area of rangeland at an elevation of 1778 m
+
+ A--0 to 8 cm; stony loam, grayish brown (10YR 5/2) dry, very dark grayish brown (10YR 3/2) moist; weak thin platy structure; slightly hard, very friable, slightly sticky and slightly plastic; common very fine roots; common very fine irregular pores; 10 percent gravel, 3 percent flagstones, and 3 percent stones; slightly alkaline (pH 7.4); clear smooth boundary
+
+ Bt--8 to 20 cm; very gravelly clay loam, grayish brown (10YR 5/2) dry, very dark grayish brown (10YR 3/2) moist; moderate medium subangular blocky structure; slightly hard, very friable, slightly sticky and moderately plastic; many very fine and fine roots; common very fine tubular pores; few thin clay films on ped faces; 25 percent gravel and 10 percent flagstones; slightly alkaline (pH 7.4); clear wavy boundary
+
+ Bk1--20 to 36 cm; very gravelly loam, pale brown (10YR 6/3) dry, brown (10YR 4/3) moist; moderate fine subangular blocky structure; slightly hard, very friable, slightly sticky and slightly plastic; common very fine and fine roots; few very fine tubular pores; 30 percent gravel, 15 percent flagstones, and 3 percent stones; strongly effervescent; slightly alkaline (pH 7.6); clear irregular boundary
+
+ Bk2--36 to 43 cm; very gravelly sandy loam, very pale brown (10YR 7/3) dry, brown (10YR 5/3) moist; weak very fine subangular blocky structure; soft, very friable, nonsticky and nonplastic; common very fine roots; few very fine tubular pores; 40 percent gravel, 5 percent flagstones, and 2 percent stones; carbonate coatings on bottom of rock fragments; violently effervescent; moderately alkaline (pH 8.2); abrupt wavy boundary
+
+ Bkqm--43 to 48 cm; moderately cemented duripan, very pale brown (10YR 8/2) dry, pale brown (10YR 6/3) moist; abrupt smooth boundary
+
+ R--48 cm; rhyolite
+
+TYPE LOCATION: Clark County, Idaho; about 8.9 km southwest of Spencer, Idaho; about 553 m north and 356 m east of the southwest corner of section 36, T. 12 N., R. 35 E.; Thunder Gulch U.S. Geological Survey quadrangle; latitude 44.32489 degrees north, longitude 112.28835 degrees west, datum WGS 84 (coordinates determined with a GPS)
+
+RANGE IN CHARACTERISTICS:
+Mean annual soil temperature--3 to 6 degrees C
+Depth to bedrock--46 to 50 cm
+Percentage of surface covered with stones--0.1 to 3.0 percent
+Thickness of mollic epipedon--20 to 36 cm
+Depth to argillic horizon--5 to 20 cm
+Depth to secondary carbonates--20 to 30 cm
+Depth to a duripan--25 to 50 cm
+
+Particle-size control section
+Clay content--28 to 35 percent
+Total rock fragment content--35 to 50 percent
+
+A horizon
+Value--4 or 5 dry, 2 or 3 moist
+Chroma--2 or 3 dry or moist
+Reaction--7.2 to 7.6 (neutral or slightly alkaline)
+Total rock fragment content--15 to 20 percent
+Gravel content--10 to 20 percent
+Flagstone content--0 to 5 percent
+Stone content--0 to 5 percent
+Thickness--5 to 10 cm
+
+Bt horizon
+Value--4 or 5 dry, 2 or 3 moist
+Chroma--2 or 3 dry or moist
+Texture--clay loam
+Total rock fragment content--35 to 50 percent
+Gravel content--20 to 35 percent
+Flagstone content--0 to 15 percent
+Reaction--7.2 to 7.6 (neutral or slightly alkaline)
+Thickness--10 to 28 cm
+
+Bk horizon
+Value--6 to 8 dry, 4 or 5 moist
+Chroma--2 or 3 dry or moist
+Texture--loam, sandy loam
+Total rock fragment content--35 to 60 percent
+Gravel content--30 to 50 percent
+Flagstone content--5 to 20 percent
+Stone content--0 to 10 percent
+Reaction--7.4 to 8.4 (slightly alkaline or moderately alkaline)
+Thickness--20 to 50 cm
+
+Bkqm
+Cementation--weakly cemented to strongly cemented
+Thickness--1 to 5 cm
+
+COMPETING SERIES: None
+
+GEOGRAPHIC SETTING:
+Elevation--1700 to 2100 m
+Climate--warm summers, cold winters
+Mean annual precipitation--300 to 400 mm
+Mean annual air temperature--3 to 6 degrees C
+Frost-free period--70 to 90 days
+
+GEOGRAPHICALLY ASSOCIATED SOILS:  None listed
+
+DRAINAGE AND SATURATED HYDRAULIC CONDUCTIVITY:
+Drainage class--well drained
+Saturated hydraulic conductivity (Ksat)--high in upper part, low in lower part above lithic contact
+
+USE AND VEGETATION:
+Major use--rangeland
+Potential natural vegetation--low sagebrush, bluebunch wheatgrass, Idaho fescue, Sandberg bluegrass
+
+DISTRIBUTION AND EXTENT: Lost River Valleys and Mountains, Idaho; MLRA 12; small extent
+
+SOIL SURVEY REGIONAL OFFICE (SSRO) RESPONSIBLE: Portland, Oregon
+
+SERIES ESTABLISHED: Clark County, Idaho; 2018
+
+REMARKS:
+Diagnostic horizons and other features recognized in this pedon
+*Mollic epipedon--zone from the surface to a depth of 20 cm
+*Argillic horizon--zone from 8 to 20 cm
+*Duripan--zone from 43 to 48 cm
+*Petrocalcic horizon--zone from 43 to 48 cm
+*Depth to lithic contact--48 cm
+*Particle-size control section--zone from 8 to 20 cm
+
+National Cooperative Soil Survey
+U.S.A.

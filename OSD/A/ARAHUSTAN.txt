@@ -1,0 +1,135 @@
+LOCATION ARAHUSTAN              WA
+
+Established Series
+Rev. TMR/MPR
+07/2017
+
+ARAHUSTAN SERIES
+
+Landscape--Cascade Mountains
+Landform--debris aprons, bedrock benches, ridges, glacial valley walls
+Slope--5 to 100 percent
+Parent material--volcanic ash and colluvium over andesite
+Mean annual precipitation--about 2000 mm
+Mean annual air temperature--about 5 degrees C
+Depth class--moderately deep
+Drainage class--well drained
+Soil moisture regime--udic
+Soil temperature regime--cryic
+Soil moisture subclass--typic
+
+TAXONOMIC CLASS: Ashy, amorphic Andic Haplocryods
+
+TYPICAL PEDON: Arahustan ashy loamy sand on a forested, west-facing glacial valley wall with a slope of 50 percent and at an elevation of 1225 m (When described on May 23, 2012, the soil was moist throughout.)
+
+ Oi--0 to 2 cm; slightly decomposed plant material from deciduous shrubs, conifer needles, and twigs; many fine interstitial pores; very strongly acid (pH 4.5); abrupt smooth boundary
+
+ Oe--2 to 8 cm; moderately decomposed plant material; common very fine and fine and few medium roots; many fine interstitial pores; very strongly acid (pH 4.5); abrupt wavy boundary
+
+ E--8 to 20 cm; ashy loamy sand, gray (10YR 6/1) dry, gray (10YR 5/1) moist; weak fine subangular blocky structure; soft, very friable, nonsticky and nonplastic; common very fine and fine and few medium and coarse roots; common very fine and fine interstitial pores; strongly acid (pH 5.2); abrupt wavy boundary
+
+ Bs1--20 to 36 cm; paragravelly ashy loamy sand, brown (7.5YR 5/2) dry, dark brown (7.5YR 3/2) moist; weak fine subangular blocky structure; soft, very friable, nonsticky and nonplastic; common very fine and fine and few medium to very coarse roots; many very fine and fine interstitial pores; 20 percent pumice paragravel; moderately acid (pH 5.7); clear irregular boundary
+
+ Bs2--36 to 60 cm; ashy sandy loam, brown (7.5YR 5/3) dry, dark brown (7.5YR 3/3) moist; weak fine subangular blocky structure; soft, very friable, nonsticky and nonplastic; few very fine to medium roots; common very fine and fine interstitial pores; 10 percent pumice paragravel; moderately acid (pH 5.7); clear wavy boundary
+
+ 2Bw--60 to 70 cm; very gravelly ashy sandy loam, brown (10YR 5/3) dry, brown (10YR 4/3) moist; weak fine subangular blocky structure; slightly hard, friable, nonsticky and nonplastic; few very fine to medium roots; common very fine and fine irregular pores; 35 percent andesite gravel and 5 percent andesite cobbles; moderately acid (pH 5.9); abrupt irregular boundary
+
+ 2R--70 cm; fractured andesite
+
+TYPE LOCATION: Pierce County, Washington, upslope from Washington State Route 410, adjacent to Deadwood Creek, about 1 km northeast of the White River Ranger Station in Mount Rainier National Park; 100 m south and 700 m west of the northeast corner of section 3, T. 16 N., R. 10 E., Willamette Meridian; White River Park, Washington, U.S. Geological Survey quadrangle; latitude 46.905801 degrees north, longitude -121.538617 degrees west, datum WGS 84 (coordinates determined with a GPS)
+
+RANGE IN CHARACTERISTICS:
+Mean annual soil temperature--4 to 8 degrees C
+Soil moisture control section--dry less than 45 consecutive days in June through October
+Depth to lithologic discontinuity--45 to 90 cm
+Depth to lithic contact--50 to 100 cm
+
+All mineral horizons
+*Volcanic glass content--50 to 75 percent
+*Ammonium oxalate Al plus 1/2 Fe--greater than 0.5 percent
+*Organic carbon content--less than 6 percent
+
+Particle-size control section
+*Clay content--1 to 10 percent
+*Total rock fragment content--5 to 35 percent
+
+Pumice paragravel is typically in the upper part of the profile, and andesite gravel or cobbles may be in the lower part.
+
+O horizon
+*In lieu of texture--slightly decomposed plant material, moderately decomposed plant material
+*Thickness--0 to 8 cm
+
+E horizon
+*Hue--7.5YR, 10YR
+*Value--3 to 5 moist, 5 to 7 dry
+*Chroma--1 or 2 moist or dry
+*Fine-earth texture--ashy loamy sand, ashy sandy loam
+*Pararock fragment content--0 to 10 percent fine to coarse pumice paragravel
+*Reaction--4.5 to 5.5
+*Thickness--5 to 15 cm
+
+Bs horizon
+*Hue--7.5YR, 5YR, 10YR
+*Value--2 to 4 moist, 4 to 6 dry
+*Chroma--2 to 4 moist or dry
+*Fine-earth texture--ashy loamy sand, ashy sandy loam, ashy fine sandy loam
+*Pararock and rock fragment content--5 to 35 percent total, including 5 to 30 percent pumice paragravel and 0 to 10 percent gravel
+*Reaction--5.1 to 6.0
+*Combined thickness--35 to 60 cm
+
+2Bw horizon
+*Hue--7.5YR, 10YR
+*Value--3 to 5 moist, 4 to 6 dry
+*Chroma--2 to 6 moist or dry
+*Fine-earth texture--ashy sandy loam, ashy coarse sandy loam, ashy fine sandy loam
+*Rock fragment content--15 to 45 percent total, including 15 to 35 percent gravel and 0 to 10 percent cobbles
+*Reaction--5.1 to 6.0
+*Thickness--5 to 20 cm
+
+COMPETING SERIES:
+Longmire, Moolack--more than 150 cm to lithic contact (very deep)
+
+GEOGRAPHIC SETTING:
+Elevation--650 to 1500 m
+Climate--cool, dry summers; cold, wet winters
+Mean annual precipitation--1600 to 2700 mm
+Mean annual air temperature--3 to 7 degrees C
+Frost-free period--60 to 90 days
+
+GEOGRAPHICALLY ASSOCIATED SOILS:
+Ohanapecosh--25 to 50 cm to lithic contact (shallow), in similar landform positions
+Longmire--more than 150 cm to lithic contact (very deep), similar landform positions
+Frogheaven--aquic conditions within 25 cm of the soil surface; in depressions and swales that are subject to prolonged periods of saturation
+Vantrump--aquic conditions with an upper limit of 25 cm from the soil surface; on gentler slopes of debris aprons and glacial valley walls that receive upslope runoff
+Laughingwater--aquic conditions with an upper limit of 50 cm from the soil surface; on gentler slopes of similar landforms that receive upslope runoff
+Summerland--umbric epipedon; no albic horizon; associated with deciduous forests in active avalanche paths
+
+DRAINAGE AND SATURATED HYDRAULIC CONDUCTIVITY:
+Drainage--well drained
+Saturated hydraulic conductivity (Ksat)--high or very high throughout
+
+USE AND VEGETATION:
+Use--wildlife habitat, recreation
+Potential natural vegetation--Pacific silver fir, noble fir, Douglas-fir, western hemlock, vine maple, Pacific yew, Cascade Oregon grape, red huckleberry, bunchberry dogwood, twinflower, vanillaleaf, salal, prince's pine, pachistima, beargrass
+
+DISTRIBUTION AND EXTENT: Central Cascade Mountains, Washington; MLRA 3; moderate extent
+
+MLRA SOIL SURVEY REGIONAL OFFICE (MO) RESPONSIBLE: Portland, Oregon
+
+SERIES ESTABLISHED: Mount Rainier National Park, Pierce County, Washington; 2014
+
+REMARKS:
+Diagnostic horizons and other features in this pedon
+*Particle-size control section--zone from 33 to 70 cm
+*Ochric epipedon
+*Albic horizon--zone from 8 to 20 cm
+*Spodic horizon--zone from 20 to 60 cm
+*Andic soil properties--zone from 8 to 70 cm
+*Depth to lithologic discontinuity--60 cm
+*Depth to lithic contact--70 cm
+*Distinguishable tephra layers--Mount St. Helens Wn tephra (E horizon), Mount Rainier C tephra (Bs1 horizon), Mount St. Helens Yn tephra (Bs2 horizon)
+
+7/2017--This official series description was updated according to SSR1 Technical Note 11--Content and Format of Official Series Descriptions (revised 12/2015). Most of the changes were in formatting; no major technical changes were made.
+
+National Cooperative Soil Survey
+U.S.A.

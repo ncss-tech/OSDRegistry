@@ -1,0 +1,132 @@
+LOCATION HOXIE                  OR
+
+Established Series
+Rev. DKS/TDT/CEG/JTW
+01/2020
+
+HOXIE SERIES
+
+Landscape--Intermontane Basin
+Landform--lake terraces, lake beds, basin floors, drainageways, mountain valleys
+Slope--0 to 1
+Parent material--lacustrine material, including diatomaceous sediments, mixed with volcanic ash
+Mean annual precipitation--about 890 mm
+Mean annual air temperature--about 5.6 degrees C
+Depth class--very deep
+Drainage class--poorly drained
+Soil moisture regime--aquic
+Soil temperature regime--cryic
+Soil moisture subclass--typic
+
+TAXONOMIC CLASS: Fine-silty, mixed, superactive, nonacid Humic Cryaquepts
+
+TYPICAL PEDON: Hoxie silt loam in a meadow under controlled drainage, with a slope of less than 1 percent, at an elevation of 1507 m
+
+ A--0 to 25 cm; silt loam, gray (10YR 5/1) dry, black (10YR 2/1) moist; moderate very fine subangular blocky structure; soft, friable, slightly sticky and plastic; many fine and very fine roots; many very fine, fine, and medium irregular pores; organic carbon is 6.7 percent, percent diatoms is 83; moderately acid (pH 5.8); abrupt smooth boundary
+
+ BA--25 to 36 cm; silt loam, gray (10YR 5/1) dry, black (10YR 2/1) moist; few fine prominent yellowish brown (10YR 5/6), moist, iron-manganese masses in root channels; moderate coarse and medium prismatic structure; slightly hard, firm, slightly sticky and plastic; common medium and fine roots; common very fine and fine discontinuous pores; moderately acid (pH 5.8); abrupt smooth boundary
+
+ Bg1--36 to 53 cm; silt loam, light gray (10YR 7/2) dry, grayish brown (2.5Y 5/2) moist; common medium prominent brown (7.5YR 4/4), strong brown (7.5YR 4/6), and strong brown (7.5YR 5/6), moist, iron-manganese masses; moderate coarse prismatic structure; hard, firm, slightly sticky and plastic; common medium and fine roots; few very fine discontinuous pores; organic carbon is 5.0 percent, percent diatoms is 10 percent; moderately acid (pH 5.9); clear smooth boundary
+
+ Bg2--53 to 71 cm; silt loam, light gray (10YR 7/2) dry, grayish brown (2.5Y 5/2) moist; common medium prominent brown (7.5YR 4/4), strong brown (7.5YR 5/6), and strong brown (7.5YR 5/8), moist, iron-manganese masses;  moderate coarse prismatic structure; hard, friable, sticky and plastic; common medium and fine roots; few very fine and fine discontinuous pores; iron accumulation on pore walls and in root channels; strongly acid (pH 5.4); clear smooth boundary
+
+ BCg1--71 to 86 inches; very fine sandy loam, light gray (10YR 7/2) dry, grayish brown (10YR 5/2) moist; common medium prominent and distinct brown (7.5YR 4/4), strong brown (7.5YR 5/6), and dark reddish brown (5YR 3/3), moist, iron-manganese masses; weak medium and fine subangular blocky structure; slightly hard, friable, nonsticky and slightly plastic; common medium and fine roots; common very fine discontinuous pores; iron accumulation on pore walls and in root channels; 3 percent gravel; strongly acid (pH 5.4); clear smooth boundary
+
+ BCg2--86 to 112 cm; silt loam, light gray (10YR 7/2) dry, grayish brown (10YR 5/2) moist; common medium prominent strong brown (7.5YR 5/8), reddish brown (5YR 4/4), and yellowish red (5YR 5/6), moist, iron-manganese masses; massive to weak coarse prismatic structure; hard, friable, slightly sticky and plastic; common medium and fine roots; few very fine and fine discontinuous pores; iron accumulation on pore walls and in root channels; strongly acid (pH 5.4); gradual smooth boundary
+
+ Cg--112 to 165 cm; silt loam, light gray (10YR 7/2) dry, grayish brown (10YR 5/2) moist; variegated strong brown (7.5YR 4/6), strong brown (7.5YR 5/8), and yellowish red (5YR 4/6), moist, iron-manganese masses; massive; hard, friable, slightly sticky and plastic; few fine and very fine roots; few very fine and fine discontinuous pores; common discontinuous iron cementation; 3 percent gravel; strongly acid (pH 5.4)
+
+TYPE LOCATION: Klamath County, Oregon; on Buck Lake approximately 747 m east and 15 m north of the southwest corner of sec. 12, T. 38 S., R. 5 E., Willamette Meridian; Lake of the Woods South, Oregon, U.S. Geological Survey quadrangle; Latitude 42.27122 degrees, Longitude -122.1797, datum WGS 84 (coordinates determined from legal description)
+
+RANGE IN CHARACTERISTIC:
+
+*Mean annual soil temperature--5.5 to 8.3 degrees C
+*Mean summer soil temperature--11.1 to 12.8 degrees C
+*Moisture control section--water table occurs at depths of 0 to 90 cm from March through June
+*Depth to restriction--over 200 cm
+*Thickness of the mollic epipedon--25 to 46 cm
+*1/3-bar bulk density within the mollic epipedon--0.60 to 0.85 g/cm3, due to high amounts of organic carbon and diatomaceous sediments
+*Base Saturation (by NH4OAc)--over 50 percent in the A and BA horizons, decreasing with depth to less than 50 percent within 150 cm of the mineral soil surface
+*Organic carbon--over 1 percent in the A and BA horizons
+
+
+Particle size control section
+*Clay content--18 to 30 percent, field estimated
+*Sand content--less than 15 percent sand that is coarser than very fine sand
+*Gravel content--0 to 10 percent
+
+A horizon
+*Value--2 or 3 moist; 4 or 5 dry in the upper part and 6 or 7 dry in the lower part
+*Chroma--1 or 2 moist and dry
+*Fine earth texture--silt loam
+*Reaction--5.6 to 6.0 (moderately acid)
+*Gravel content--0 to 6 percent
+*Thickness--15 to 30 cm
+
+BA horizon
+Absent in some pedons
+*Gravel content--0 to 6 percent
+*Thickness--8 to 15 cm
+
+Bg and BCg horizons
+*Hue--10YR or 2.5Y
+*Value--3 to 5 moist and 5 to 8 dry
+*Chroma--1 or 2 moist and 1 to 4 dry
+*Fine earth texture--very fine sandy loam, silt loam, silty clay loam
+*Reaction--5.1 to 6.5 (strongly acid to slightly acid)
+*Gravel content--0 to 8 percent
+*Thickness--40 to 100 cm
+
+Cg horizon
+*Hue--10YR or 2.5Y
+*Value--3 to 5 moist and 5 to 8 dry
+*Chroma--1 or 2 moist and 1 to 4 dry
+*Fine earth texture--loamy fine sand, very fine sandy loam, silt loam, silty clay loam
+*Reaction--5.1 to 6.5 (strongly acid to slightly acid)
+*Gravel content--0 to 8 percent
+
+COMPETING SERIES:
+Clam Gulch--umbric epipedon; A horizon is extremely acid to strongly acid (pH 3.5 to 5.5); not influenced by volcanic ash; do not contain diatomaceous sediments
+
+GEOGRAPHIC SETTING:
+Elevation--1310 to 1545 m
+Slope--0 to 1 percent
+Climate--precipitation occurs mainly in winter and spring
+Mean annual precipitation--760 to 1090 mm
+Mean annual air temperature--4.4 to 7.2 degrees C
+Frost-free period--5 to 35 days
+
+GEOGRAPHICALLY ASSOCIATED SOILS:
+Oatman--loamy-skeletal; ochric epipedon
+Otwin--loamy-skeletal; ochric epipedon; 50 to 100 cm (moderately deep) to lithic (andesite) contact
+
+DRAINAGE AND SATURATED HYDRAULIC CONDUCTIVITY: 
+Drainage class--Poorly drained
+Water Table--occurs at depths of 0 to 90 cm from March through June
+Saturated hydraulic conductivity (Ksat)--moderately high in A horizons; moderately low to moderately high in Bg and BCg horizons; moderately low to very high in Cg horizons
+
+USE AND VEGETATION:
+Use--native meadow pasture, irrigated pasture
+Vegetation--tufted hairgrass, mat muhly, spikerush, sedges
+
+DISTRIBUTION AND EXTENT: Klamath and Shasta Valleys and Basins, Southwestern Oregon; MLRA 21; inextensive
+
+MLRA SOIL SURVEY REGIONAL OFFICE (MO) RESPONSIBLE: Davis, California
+
+SERIES ESTABLISHED: Jackson County Area, Oregon, 1988 (Klamath Part).
+
+REMARKS:
+Diagnostic horizons and other features in this pedon
+*Mollic epipedon--zone from 0 to 36 cm 
+*Cambic horizon--zone from 36 to 71 cm
+*Aquic conditions--zone from 0 to 165 cm;depleted matrix with chroma of 2 or less and redox concentrations at 36 cm; water table at 0 to 90 cm from March to June
+
+ADDITIONAL DATA:
+*NASIS Site ID--S1986OR035004
+*NASIS Pedon ID--1988OR0350001
+*Laboratory sample numbers 87P-2206-2207; Pedon number 87P-422.
+*1/3-bar bulk density numbers based on laboratory data from other diatomaceous-influenced soils--Chinchallo (lab sample number 06N0135, userpedon ID S2005OR035001); Hoxie taxadjunct (lab sample number 06N0136, userpedon ID S2005OR035002); and Cosbie (lab sample number 06N0137, userpedon ID S2005Or035003).
+
+
+National Cooperative Soil Survey
+U.S.A.

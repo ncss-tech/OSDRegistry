@@ -1,0 +1,164 @@
+LOCATION MARBLEPOINT            OR
+
+Established Series
+IRD. RJO/JLW/DAL/KMS
+02/2019
+
+MARBLEPOINT SERIES
+
+Landscape--mountains
+Landform--mountain slopes
+Slope--0 to 90 percent
+Parent material--thin mantle of volcanic ash over till derived from mixed sources
+Mean annual precipitation--about 1030 mm
+Mean annual air temperature--about 2 degrees C
+Depth class--very deep
+Drainage class--well drained
+Soil moisture regime--udic
+Soil temperature regime--cryic
+Soil moisture subclass--typic
+
+TAXONOMIC CLASS: Loamy-skeletal, isotic Andic Haplocryepts
+
+TYPICAL PEDON: Marblepoint stony ashy silt loam in an area of woodland, on a 45-percent, planar, southeast-facing slope at an elevation of 2185 m
+
+ Oi--0 to 5 cm; slightly decomposed needles and twigs
+
+ A--5 to 15 cm; stony ashy silt loam, brown (10YR 4/3) dry, very dark brown (10YR 2/2) moist; weak fine granular structure; soft, very friable, slightly sticky and slightly plastic; common fine and few medium and coarse roots; few fine irregular pores; 10 percent gravel, 10 percent cobbles, and 10 percent stones; very strongly acid (pH 4.7); clear wavy boundary
+
+ Bw--15 to 30 cm; very stony ashy silt loam, dark yellowish brown (10YR 4/4) dry, dark yellowish brown (10YR 3/4) moist; weak very fine subangular blocky structure; slightly hard, friable, slightly sticky and slightly plastic; common fine, medium, and coarse roots; few fine irregular pores; 20 percent gravel, 10 percent cobbles, and 15 percent stones; strongly acid (pH 5.5); gradual smooth boundary
+
+ 2Bwb--30 to 66 cm; extremely stony loam, yellowish brown (10YR 5/4) dry, dark yellowish brown (10YR 3/4) moist; weak fine and medium subangular blocky structure; soft, friable, slightly sticky and slightly plastic; common fine, medium, and coarse roots; few fine irregular pores; 25 percent gravel, 20 percent cobbles, and 15 percent stones; slightly acid (pH 6.4); gradual smooth boundary
+
+ 2BC--66 to 102 cm; extremely stony loam, pale brown (10YR 6/3) dry, dark yellowish brown (10YR 3/4) moist; weak fine and medium subangular blocky structure; slightly hard, friable, slightly sticky and slightly plastic; common fine and few medium and coarse roots; 25 percent gravel, 25 percent cobbles, and 20 percent stones; slightly acid (pH 6.5); gradual smooth boundary
+
+ 2C--102 to 155 cm; extremely stony loam, pale brown (10YR 6/3) dry, dark yellowish brown (10YR 3/4) moist; massive; soft, friable, slightly sticky and slightly plastic; few fine and medium roots; 25 percent gravel, 25 percent cobbles, and 20 percent stones; slightly acid (pH 6.4)
+
+TYPE LOCATION: Baker County, Oregon, about 385 m west and 510 m south of the northeast corner of section 7, T. 6 S., R. 44 E., latitude 45.0609661, longitude -117.3687215, datum WGS 84 (coordinates and PLSS details estimated from point on hard copy map)
+
+RANGE IN CHARACTERISTICS:
+Mean annual soil temperature--about 2 to 5 degrees C
+Mean summer soil temperature--about 5 to 9 degrees C
+Mean winter soil temperature--about -2 to 2 degrees C
+Soil moisture--dry 30 to 45 consecutive days in summer
+Thickness of ash-influenced layers--23 to 35 cm
+
+Estimated properties of layers influenced by volcanic ash
+*Ammonium oxalate extractable Al + 1/2 Fe--1.5 to 3.0 percent
+*0.02- to 2.0-mm fraction--40 to 60 percent
+*Glass content in 0.02- to 2.0-mm fraction--60 to 90 percent
+*1/3-bar bulk density--0.65 to 1.00 g/cm3
+*Phosphate retention--60 to 90 percent
+*15-bar water retention--5 to 12 percent (dried samples)
+*8 x Si plus 2 x Fe--5 to 12 percent
+
+Particle-size control section
+*Clay content--5 to 15 percent
+*Total rock fragment content--60 to 70 percent
+
+A horizon
+Moist color--7.5YR 3/3, 10YR 2/2, 10YR 3/3, 10YR 3/4
+Dry color--7.5YR 5/4, 10YR 4/3, 10YR 5/3, 10YR 5/6, 10YR 6/3
+Fine-earth texture--ashy silt loam
+Clay content--3 to 8 percent
+Sand content--20 to 40 percent
+Organic matter content--2 to 6 percent
+Total rock fragment content--15 to 35 percent
+Gravel content--0 to 15 percent
+Cobble content--0 to 10 percent
+Stone content--0 to 20 percent
+Reaction--4.5 to 6.0
+Thickness--8 to 13 cm
+
+Bw horizon
+Moist color--10YR 3/4, 10YR 4/4, 10YR 4/6, 10YR 5/4
+Dry color--10YR 4/4, 10YR 6/4, 10YR 7/4
+Fine-earth texture--ashy silt loam
+Clay content--3 to 8 percent
+Sand content--35 to 40 percent
+Organic matter content--1 to 3 percent
+Total rock fragment content--35 to 55 percent
+Gravel content--5 to 20 percent
+Cobble content--5 to 15 percent
+Stone content--0 to 20 percent
+Reaction--5.1 to 6.5
+Thickness--15 to 25 cm
+
+2Bwb horizon, or 2Ab or 2AEb horizon (where present)
+Moist color--10YR 3/4, 10YR 5/2, 10YR 5/3, 10YR 5/6
+Dry color--10YR 6/2, 10YR 6/3, 10YR 6/4, 10YR 6/6, 2.5Y 5/4
+Fine-earth texture--sandy loam, loam, loamy sand, silt loam
+Clay content--3 to 16 percent
+Sand content--35 to 75 percent
+Organic matter content--0.5 to 3.5 percent
+Total rock fragment content--35 to 70 percent
+Gravel content--20 to 50 percent
+Cobble content--5 to 25 percent
+Stone content--5 to 30 percent
+Reaction--5.1 to 6.5
+Thickness--13 to 36 cm
+
+2BC and 2C horizons
+Moist color--10YR 3/4, 2.5Y 3/2, 2.5Y 5/6
+Dry color--10YR 6/3, 2.5Y 5/4
+Fine-earth texture--sandy loam, loam, loamy sand
+Clay content--3 to 18 percent
+Sand content--40 to 80 percent
+Organic matter content--0.3 to 2.0 percent
+Total rock fragment content--65 to 75 percent
+Gravel content--20 to 50 percent
+Cobble content--10 to 25 percent
+Stone content--10 to 30 percent
+Reaction--5.1 to 6.5
+Thickness of 2BC horizon--30 to 40 cm
+
+COMPETING SERIES:
+Bearpawmeadow--50 to 100 cm (moderately deep) to lithic contact (andesite, basalt)
+Bordengulch--50 to 100 cm (moderately deep) to lithic contact (argillite, sandstone)
+Monumentrock--100 to 150 cm (deep) to lithic contact (andesitic basalt, basalt)
+Risingwolf--medial texture modifiers in upper part
+Vandamine--formed in material derived from argillite or metavolcanic rock; rock fragments dominantly angular or subangular gravel
+
+GEOGRAPHIC SETTING:
+Elevation--1500 to 2600 m
+Climate--cold, wet winters; cool, moist summers
+Mean annual precipitation--about 760 to 1680 mm
+Mean annual air temperature--about 0 to 4 degrees C
+Frost-free period--15 to 65 days
+
+GEOGRAPHICALLY ASSOCIATED SOILS:
+Angelbasin--on glacially scoured mountain backslopes; 50 to 100 cm (moderately deep) to lithic contact (granite)
+Bucketlake--on footslopes and glacial valley floors; mantle of volcanic ash more than 35 cm thick
+Burgerbutte--on backslopes, shoulders, and ridges of glacially scoured mountains; 35 to 50 cm (shallow) to lithic contact (basalt)
+Elkhorncrest--on glacially scoured trough walls and valley floors; 25 to 50 cm (shallow) to lithic contact (granite)
+Moodybasin--on lateral moraines in glaciated mountain valleys; 50 to 100 cm (moderately deep) to densic contact
+Mudlakebasin--on heavily forested glacial benches and valley floors; 50 to 100 cm (moderately deep) to lithic contact (granitic rock)
+Pattenbutte--on moderately steep, south-facing slopes under an open forest canopy; 35 to 50 cm (shallow) to lithic contact (granite)
+
+DRAINAGE AND SATURATED HYDRAULIC CONDUCTIVITY:
+Saturation during normal years--none
+Flooding--none
+Ponding--none
+Saturated hydraulic conductivity (Ksat)--moderately high, high
+
+USE AND VEGETATION:
+Use--timber production, watershed, recreation, wildlife habitat
+Potential native vegetation--subalpine fir, Engelmann spruce, lodgepole pine, grand fir, Douglas-fir, western larch, grouse huckleberry, big huckleberry, heartleaf arnica, darkwoods violet, sidebells wintergreen, lupine, sweetcicely, Utah honeysuckle, prince's pine, pinegrass, Sitka valerian, sickletop lousewort, skunkleaf polemonium, western meadow-rue, elk sedge
+
+DISTRIBUTION AND EXTENT: Blue Mountains of northeastern Oregon; MLRA 10; small extent
+
+SOIL SURVEY REGIONAL OFFICE (SSRO) RESPONSIBLE: Portland, Oregon
+
+SERIES ESTABLISHED: Wallowa-Whitman National Forest, Oregon; 2018
+
+REMARKS:
+Diagnostic horizons and other features recognized in this pedon
+*Ochric epipedon
+*Upper cambic horizon--zone from 15 to 30 cm
+*Buried cambic horizon--zone from 30 to 66 cm
+*Volcanic glass--zone from 5 to 30 cm
+*Andic soil properties--zone from 5 to 30 cm
+*Particle-size control section--zone from 30 to 107 cm
+
+National Cooperative Soil Survey
+U.S.A.

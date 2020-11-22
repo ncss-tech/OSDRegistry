@@ -1,0 +1,117 @@
+LOCATION INGRAHAM               WA
+
+Established Series
+IRD. PHR/MPR
+07/2017
+
+INGRAHAM SERIES
+
+Landscape--Cascade Mountains
+Landform--bedrock benches, glacial valley walls, ridges
+Slope--5 to 100 percent
+Parent material--volcanic ash over andesite
+Mean annual precipitation--about 1800 mm
+Mean annual air temperature--about 6 degrees C
+Depth class--shallow
+Drainage class--well drained
+Soil moisture regime--udic
+Soil temperature regime--frigid
+Soil moisture subclass--typic
+
+TAXONOMIC CLASS: Ashy, amorphic, frigid Lithic Haplorthods
+
+TYPICAL PEDON: Ingraham paragravelly ashy sandy loam on a southwest-facing, 10-percent slope of a forested bedrock bench at an elevation of 785 m (When described on August 3, 2012, the soil was moist throughout.)
+
+ Oi--0 to 2 cm; slightly decomposed plant material; very strongly acid (pH 4.5); clear wavy boundary
+
+ Oe--2 to 4 cm; moderately decomposed plant material; common fine roots and few very fine and medium roots; very strongly acid (pH 4.5); clear wavy boundary
+
+ E--4 to 7 cm; paragravelly ashy sandy loam, gray (10YR 6/1) dry, very dark gray (10YR 3/1) moist; weak fine subangular blocky structure; soft, very friable, nonsticky and nonplastic; few very fine to medium roots; common very fine and fine interstitial pores; 15 percent fine pumice paragravel and 5 percent medium and coarse pumice paragravel; strongly acid (pH 5.2); clear irregular boundary
+
+ Bs--7 to 25 cm; paragravelly ashy loamy coarse sand, light brown (7.5YR 6/4) dry, brown (7.5YR 4/4) moist; weak fine subangular blocky structure; soft, very friable, nonsticky and nonplastic; few very fine to coarse roots; common very fine and fine interstitial pores; 20 percent fine pumice paragravel and 5 percent medium and coarse pumice paragravel; moderately acid (pH 5.7); abrupt wavy boundary
+
+ 2R--25 cm; fractured andesite
+
+TYPE LOCATION: Pierce County, Washington, about 600 m north of the Nisqually Entrance to Mount Rainier National Park; about 640 m south and 10 m east of the northwest corner of section 34, T. 15 N., R. 7 E., Willamette Meridian; Sawtooth Ridge, Washington, U.S. Geological Survey quadrangle; latitude 46.74440 degrees north, longitude -121.91799 degrees west, datum WGS 84 (coordinates determined with a GPS)
+
+RANGE IN CHARACTERISTICS:
+Mean annual soil temperature--6 to 8 degrees C
+Soil moisture control section--dry less than 45 consecutive days in June through October
+Depth to lithic contact--25 to 50 cm
+
+All mineral horizons
+*Volcanic glass content--50 to 75 percent
+*Ammonium oxalate Al plus 1/2 Fe--greater than 0.4 percent
+
+Particle-size control section
+*Clay content--1 to 7 percent
+*Pararock and rock fragment content--0 to 35 percent pumice paragravel throughout profile, 0 to 5 percent subangular andesite gravel in lower part of profile
+
+O horizon
+*In lieu of texture--slightly decomposed plant material, moderately decomposed plant material
+*Thickness--0 to 5 cm
+
+E horizon
+*Hue--10YR, 7.5YR
+*Value--3 to 6 moist, 5 to 8 dry
+*Chroma--1 or 2 moist or dry
+*Fine-earth texture--ashy sandy loam, ashy loamy sand
+*Clay content--1 to 7 percent
+*Pararock fragment content--0 to 35 percent pumice paragravel
+*Reaction--4.5 to 5.5
+*Thickness--2 to 10 cm
+
+Bs horizon:
+*Hue--7.5YR, 5YR
+*Value--2.5 to 5 moist, 4 to 7 dry
+*Chroma--1 to 4 moist or dry
+*Fine-earth texture--ashy loamy coarse sand, ashy sandy loam, ashy loamy sand
+*Clay content--1 to 7 percent
+*Pararock and rock fragment content--5 to 35 percent total, including 5 to 35 percent pumice paragravel and 0 to 5 percent andesite gravel
+*Reaction--5.1 to 6.0
+*Thickness--10 to 35 cm
+
+COMPETING SERIES: None
+
+GEOGRAPHIC SETTING:
+Elevation--600 to 1400 m
+Climate--warm, dry summers; cool, wet winters
+Mean annual precipitation--1600 to 2000 mm
+Mean annual air temperature--5 to 7 degrees C
+Frost-free period--90 to 130 days
+
+GEOGRAPHICALLY ASSOCIATED SOILS:
+Goldenlakes--lithic contact at a depth of 50 to 100 cm (moderately deep); on steeper adjacent bedrock-controlled landforms
+Kautz--greater than 150 cm deep to lithic contact (very deep)
+Sunbeam--aquic conditions within 25 cm of the soil surface; in adjacent positions with gentler slopes that receive runoff
+Tokaloo--aquic conditions 25 to 50 cm from the soil surface; in adjacent positions with gentler slopes that receive runoff
+
+DRAINAGE AND SATURATED HYDRAULIC CONDUCTIVITY:
+Drainage class--well drained
+Saturated hydraulic conductivity (Ksat)--high, very high
+
+USE AND VEGETATION:
+Use--wildlife habitat, recreation
+Potential natural vegetation--Douglas-fir, western hemlock, western swordfern, Cascade Oregon grape, vine maple, vanillaleaf, salal, beargrass, prince's pine, myrtle pachistima, black huckleberry
+
+DISTRIBUTION AND EXTENT: Central Cascade Mountains, Washington; MLRA 3; small extent
+
+MLRA SOIL SURVEY REGIONAL OFFICE (MO) RESPONSIBLE: Portland, Oregon
+
+SERIES ESTABLISHED: Mount Rainier National Park, Pierce County, Washington; 2014; name from Ingraham Glacier in Mount Rainier National Park
+
+REMARKS:
+Diagnostic horizons and other features in this pedon
+*Particle-size control section--zone from 4 to 25 cm
+*Ochric epipedon
+*Albic horizon--zone from 4 to 7 cm
+*Spodic horizon--zone from 7 to 25 cm
+*Andic soil properties--zone from 4 to 25 cm
+*Volcanic glass--zone from 4 to 25 cm
+*Depth to lithic contact--25 cm
+*Distinguishable tephra layers--Mount St. Helens Wn tephra (E horizon), Mount St. Helens Yn tephra (Bs horizon)
+
+7/2017--This official series description was updated according to SSR1 Technical Note 11--Content and Format of Official Series Descriptions (revised 12/2015). Most of the changes were in formatting; no major technical changes were made.
+
+National Cooperative Soil Survey
+U.S.A.

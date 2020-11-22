@@ -1,0 +1,133 @@
+LOCATION GOLDENDALE             WA
+
+Established Series
+Rev. PNP/KDPL/SBC
+09/2019
+
+GOLDENDALE SERIES
+
+Landscape--plateaus, hills
+Landform--structural benches, hillslopes
+Slope--2 to 65 percent
+Parent material--loess mixed with colluvium and residuum derived from basalt with a minor amount of volcanic ash
+Mean annual precipitation--about 430 mm
+Mean annual air temperature--about 9 degrees C
+Depth class--deep, very deep
+Drainage class--well drained
+Soil moisture regime--xeric
+Soil temperature regime--mesic
+Soil moisture subclass--typic
+
+TAXONOMIC CLASS: Fine-loamy, mixed, superactive, mesic Ultic Argixerolls
+
+TYPICAL PEDON: Goldendale silt loam, cultivated, on a 5-percent, southeast-facing slope at an elevation 630 m
+
+ Ap--0 to 18 cm; silt loam, dark grayish brown (10YR 4/2) dry, very dark brown (10YR 2/2) moist; weak fine and medium granular structure; slightly hard, friable, slightly sticky and slightly plastic; many very fine and fine roots; common fine irregular pores and common fine tubular pores; moderately acid (pH 6.0); abrupt smooth boundary
+
+ A--18 to 36 cm; silt loam, dark grayish brown (10YR 4/2) dry, very dark brown (10YR 2/2) moist; moderate medium granular structure; hard, friable, moderately sticky and moderately plastic; many very fine and fine roots; many fine irregular pores and common very fine and fine tubular pores; slightly acid (pH 6.2); clear wavy boundary
+
+ BA--36 to 51 cm; silt loam, brown (10YR 4/3) dry, dark brown (10YR 3/3) moist; moderate fine prismatic structure; very hard, firm, moderately sticky and moderately plastic; many very fine and fine roots; many fine tubular pores; faint patchy clay films; slightly acid (pH 6.4); clear wavy boundary
+
+ Bt1--51 to 69 cm; silt loam, yellowish brown (10YR 5/4) dry, dark yellowish brown (10YR 3/4) moist; moderate fine prismatic structure; very hard, firm, moderately sticky and moderately plastic; common very fine and fine roots; many fine tubular pores; faint patchy clay films; slightly acid (pH 6.4); gradual wavy boundary
+
+ Bt2--69 to 109 cm; silt loam, yellowish brown (10YR 5/4) dry, dark yellowish brown (10YR 3/4) moist; moderate fine and medium prismatic structure; extremely hard, firm, moderately sticky and moderately plastic; common very fine and fine roots; many fine tubular pores; continuous distinct clay films; slightly acid (pH 6.5); gradual wavy boundary
+
+ Bt3--109 to 150 cm; clay loam, brown (10YR 4/3) dry, dark yellowish brown (10YR 3/4) moist; weak subangular blocky structure; hard, firm, moderately sticky and moderately plastic; few very fine and fine roots; many fine tubular pores; continuous faint clay films; neutral (pH 6.6)
+
+TYPE LOCATION: Klickitat County, Washington, about 6.5 km east of Goldendale; about 15 m north and 150 m west of the southeast corner of section 18, T. 4 N., R. 17 E.
+
+RANGE IN CHARACTERISTICS:
+Moisture control section--usually moist, but dry 75 to 90 consecutive days following solstice
+Mean annual soil temperature--9 to 11 degrees C
+Depth to bedrock--100 to 150 cm or more
+Particle-size control section--18 to 35 percent clay; 0 to 5 percent gravel
+Thickness of mollic epipedon--25 to 50 cm
+
+Combined thickness of Ap and A horizons--25 to 41 cm
+
+A horizon
+Hue--5YR to 10YR
+Value--4 or 5 dry, 2 or 3 moist
+Chroma--2 or 3 moist or dry
+Reaction--5.6 to 6.5
+
+BA horizon
+Hue--7.5YR, 10YR
+Value--4 to 6 dry
+Chroma--2 to 4 dry or moist
+Texture--silt loam, loam
+Clay content--10 to 25 percent
+Gravel content--0 to 3 percent
+Reaction--6.1 to 7.3
+Thickness--15 to 23 cm
+
+Bt horizon
+Hue--7.5YR, 10YR
+Value--4 or 5 dry, 2 to 4 moist
+Chroma--3 or 4 dry or moist
+Texture--silt loam, silty clay loam, clay loam
+Reaction--6.1 to 7.3
+Combined thickness--more than 86 cm
+
+COMPETING SERIES:
+Annum--100 to 150 cm (deep) to a paralithic contact (granodiorite); dry 90 to 105 consecutive days following summer solstice
+Brownlee--more than 25 percent medium and coarser sand in particle-size control section
+Chirpchatter--dry more than 90 consecutive days following summer solstice
+Ebadlow--dry 90 to 105 consecutive days following summer solstice
+Felton--dry more than 90 consecutive days following summer solstice; mean annual soil temperature higher than 12 degrees C
+Fisherhill--dry 90 to 105 consecutive days following summer solstice
+Hellake--pH below 6.0 in argillic horizon
+Lompico--50 to 100 cm (moderately deep) to a paralithic contact (sandstone); dry more than 90 consecutive days following summer solstice
+Lorena, Meland--50 to 100 cm (moderately deep) to a lithic contact (basalt)
+Mendian--50 to 70 percent sand in particle-size control section; dry 90 to 100 consecutive days following summer solstice; mean annual soil temperature of 11 to 12 degrees C
+Meystre--dry 60 to 75 consecutive days following summer solstice
+Quiden--dry 60 to 75 consecutive days following summer solstice
+Rehfield--dry 90 to 120 consecutive days following summer solstice; more than 45 percent sand coarser than very fine sand
+Robbscreek--50 to 100 cm (moderately deep) to a lithic contact (granodiorite)
+Schumacher--dry 45 to 60 consecutive days following summer solstice
+Stacker--50 to 100 cm (moderately deep) to a lithic contact (basalt); dry 90 to 105 consecutive days following summer solstice
+Stardust--more than 5 percent rock fragments in particle-size control section
+Updegraff--dry more than 90 consecutive days following summer solstice
+Van Horn--texture in C horizon coarser than clay loam
+
+GEOGRAPHIC SETTING:
+Elevation--240 to 1075 m
+Climate--warm, dry summers; cool, moist winters
+Mean annual precipitation--380 to 460 mm
+Mean January air temperature--about -2 degrees C
+Mean July air temperature--about 19 degrees C
+Mean annual air temperature--about 8 to 10 degrees C
+Frost-free season--90 to 150 days
+
+GEOGRAPHICALLY ASSOCIATED SOILS:
+Blockhouse--on alluvial plains; mollic epipedon 50 to 100 cm thick; moderately well drained
+Gunn--on plateaus and side slopes; no mollic epipedon
+Konert--on flood plains; aquic soil moisture regime; more than 35 percent clay in argillic horizon
+Lorena--on plateaus and side slopes; 50 to 100 cm (moderately deep) to a lithic contact (basalt)
+
+DRAINAGE AND SATURATED HYDRAULIC CONDUCTIVITY:
+Drainage class--well drained
+Saturated hydraulic conductivity (Ksat)--moderately high
+
+USE AND VEGETATION:
+Use--mainly crop production; limited livestock grazing
+Principal crops--small grain, hay and pasture
+Native vegetation--Oregon white oak, antelope bitterbrush, bluebunch wheatgrass, Idaho fescue, Sandberg bluegrass, eriogonum
+
+DISTRIBUTION AND EXTENT: Klickitat County, Washington; MLRA 8; moderate extent
+
+SOIL SURVEY REGIONAL OFFICE (SSRO) RESPONSIBLE: Portland, Oregon
+
+SERIES ESTABLISHED: Klickitat County, Washington; 2003
+
+REMARKS:
+Diagnostic horizons and other features recognized in this pedon
+*Mollic epipedon--zone from the surface to a depth of 51 cm
+*Argillic horizon--zone from 51 to 150 cm
+*Particle-size control section--zone from 51 to 101 cm
+
+ADDITIONAL DATA:
+Laboratory data--National Soil Survey Laboratory pedon numbers 58WA039003, 58WA039004, 58WA039005, 82WA039001, and 82WA039003
+
+National Cooperative Soil Survey
+U.S.A.

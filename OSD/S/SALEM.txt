@@ -1,0 +1,145 @@
+LOCATION SALEM                  OR
+
+Established Series
+Rev. AON/JGM/EED
+12/2017
+
+SALEM SERIES
+
+Landscape--Willamette Valley
+Landform--stream terraces
+Slope--0 to 12 percent
+Parent material--loamy alluvium over sandy and gravelly alluvium
+Mean annual precipitation--about 1300 mm
+Mean annual air temperature--about 11 degrees C
+Depth class--very deep
+Drainage class--well drained
+Soil moisture regime--xeric
+Soil temperature regime--mesic
+Soil moisture subclass--typic
+
+TAXONOMIC CLASS: Fine-loamy over sandy or sandy-skeletal, mixed, superactive, mesic Pachic Ultic Argixerolls 
+
+TYPICAL PEDON: Salem gravelly silt loam, cultivated 
+
+ Ap--0 to 23 cm; gravelly silt loam, dark grayish brown (10YR 4/2) dry, very dark brown (10YR 2/2) moist; weak medium and fine subangular blocky structure; slightly hard, friable, slightly sticky and slightly plastic; many roots; many very fine tubular pores; 15 percent gravel; slightly acid (pH 6.2); gradual smooth boundary 
+
+ Bt1--23 to 46 cm; gravelly silty clay loam, brown (10YR 4/3) dry, very dark brown (10YR 2/2) moist; moderate medium subangular blocky structure; hard, friable, moderately sticky and moderately plastic; many roots; many fine and very fine tubular pores; few faint and distinct clay films; 15 percent gravel; slightly acid (pH 6.4); abrupt smooth boundary 
+
+ Bt2--46 to 76 cm; very gravelly clay loam, brown (10YR 5/3) dry, dark brown (10YR 3/3) moist; weak coarse subangular blocky structure; hard, firm, slightly sticky and moderately plastic; common roots; common fine and very fine irregular pores; faint clay coatings on sand grains; 45 percent gravel; neutral (pH 6.6); clear smooth boundary 
+
+ 2C--76 to 152 cm; stratified extremely gravelly sand to very gravelly loamy sand, pale brown (10YR 6/3) dry, grayish brown (10YR 5/2) moist; single grain; loose; few roots; many irregular pores; 55 percent gravel; slightly acid (pH 6.2) 
+
+TYPE LOCATION: Marion County, Oregon, about 8.1 km west of Stayton; about 490 m north and 625 m east of the southwest corner of section 14, T. 9 S., R. 2 W.; latitude 44.7847239, longitude -122.8994382, datum WGS 84 (coordinates estimated from PLSS details)
+
+RANGE IN CHARACTERISTICS:
+Mean annual soil temperature--11 to 13 degrees C
+Moisture control section-- dry 45 to 60 consecutive days following summer solstice
+Thickness of mollic epipedon--50 to 80 cm
+Depth to top of argillic horizon--15 to 40 cm
+Depth to lithologic discontinuity--50 to 90 cm
+Base saturation (by sum of cations) in argillic horizon--50 to 75 percent
+
+Particle-size control section
+*Clay content--25 to 35 percent
+*Total fragment content--15 to 60 percent; weighted average less than 35 percent
+
+A horizon
+Hue--10YR, 7.5YR
+Value--2 or 3 moist, 4 or 5 dry
+Chroma--2 or 3 moist or dry
+Clay content--15 to 20 percent
+Sand content--15 to 35 percent
+Total fragment content--0 to 35 percent
+Gravel content--0 to 35 percent
+Cobble content--0 to 5 percent
+Reaction--5.6 to 6.5
+Thickness--15 to 40 cm
+
+Bt1 horizon
+Hue--10YR, 7.5YR
+Value--2 or 3 moist, 4 or 5 dry
+Chroma--2 or 3 moist or dry
+Fine-earth texture--silty clay loam, clay loam
+Clay content--27 to 35 percent
+Sand content--15 to 40 percent
+Total fragment content--15 to 35 percent
+Gravel content--15 to 35 percent
+Cobble content--0 to 5 percent
+Reaction--6.1 to 7.3
+Thickness--15 to 50 cm
+
+Bt2 horizon (where present)
+Hue--10YR, 7.5YR
+Value--3 or 4 moist, 4 to 6 dry
+Chroma--3 or 4 moist or dry
+Fine-earth texture--clay loam, sandy clay loam
+Clay content--25 to 35 percent
+Sand content--30 to 60 percent
+Total fragment content--20 to 60 percent
+Gravel content--20 to 50 percent
+Cobble content--0 to 10 percent
+Reaction--6.1 to 7.3
+Thickness--0 to 35 cm
+
+2C horizon
+Hue--10YR, 7.5YR, 2.5Y
+Value--3 or 4 moist, 5 or 6 dry
+Chroma--2 to 4 moist or dry
+Fine-earth texture--sand, loamy sand; typically stratified
+Clay content--0 to 10 percent
+Sand content--80 to 100 percent
+Total fragment content--40 to 70 percent
+Gravel content--35 to 65 percent
+Cobble content--0 to 10 percent
+Reaction--6.1 to 7.3
+
+COMPETING SERIES: None
+
+GEOGRAPHIC SETTING:
+Elevation--30 to 245 m
+Climate--warm, dry summers; cool, moist winters
+Mean annual precipitation--1000 to 1500 mm
+Mean annual air temperature--10 to 12 degrees C
+Mean January air temperature--4 to 5 degrees C
+Mean July air temperature--18 to 19 degrees C
+Frost-free period--165 to 210 days
+
+GEOGRAPHICALLY ASSOCIATED SOILS:
+Coburg--seasonal high water table at a depth of 70 to 100 cm from the surface; greater than 40 percent clay in particle-size control section; in similar positions
+Courtney--aquic conditions to the surface; greater than 40 percent clay in particle-size control section; in depressions of terraces
+Clackamas--aquic conditions at a depth of 15 to 45 cm from the surface; in similar positions
+
+DRAINAGE AND SATURATED HYDRAULIC CONDUCTIVITY:
+Drainage class--well drained
+Saturation in normal years--none
+Flooding--none
+Ponding--none
+Saturated hydraulic conductivity (Ksat)--moderately high over very high
+
+USE AND VEGETATION:
+Use--production of commodity crops, berries, orchard crops, pasture, and hay
+Potential natural vegetation--ponderosa pine, Douglas-fir, Oregon white oak, bigleaf maple, baldhip rose, annual and perennial grasses 
+
+DISTRIBUTION AND EXTENT: Willamette Valley, Oregon; MLRA 2; moderate extent 
+
+SOIL SURVEY REGIONAL OFFICE (SSRO) RESPONSIBLE: Portland, Oregon 
+
+SERIES ESTABLISHED: Marion County, Oregon; 1903 
+
+REMARKS:
+Diagnostic horizons and other features in this pedon 
+*Particle-size control section--zone from 23 to 73 cm
+*Mollic epipedon--zone from the surface to a depth of 76 cm
+*Argillic horizon--zone from 23 to 76 cm
+*Depth to lithologic discontinuity--76 cm
+
+The Salem soils are on the Winkle geomorphic surface in the Willamette Valley.
+
+8/2017-- This official series description was updated according to SSR1 Technical Note 11--Content and Format of Official Series Descriptions (revised 12/2015).
+
+ADDITIONAL DATA:
+Characterization data--soil survey sample number 03OR047002; National Soil Survey Laboratory
+
+National Cooperative Soil Survey
+U.S.A.

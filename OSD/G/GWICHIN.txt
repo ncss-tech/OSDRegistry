@@ -1,0 +1,135 @@
+LOCATION GWICHIN                AK
+
+Established Series
+JDP/DLM/TJR
+04/2020
+
+GWICHIN SERIES
+
+Landscape--alluvial plains
+Landform--stream terraces
+Slope--0 to 3 percent
+Parent material--alluvium
+Mean annual precipitation--about 255 mm
+Mean annual air temperature--about -6 degrees C
+Depth class--very deep
+Drainage class--moderately well drained
+Soil moisture regime--udic
+Soil temperature regime--gelic
+Soil moisture subclass--typic
+
+TAXONOMIC CLASS: Coarse-loamy, mixed, superactive, nonacid, subgelic Fluventic Haplorthels
+
+TYPICAL PEDON: Gwichin silt loam on a forested terrace with a slope of 1 percent and an elevation of 128 m (The soil was moist throughout when described on June 24, 2010.)
+
+ Oi--0 to 10 cm; slightly decomposed plant material; many fine and medium roots; moderately acid (pH 6.0); clear smooth boundary 
+
+ C1--10 to 17 cm; stratified silt loam; light brownish gray (2.5Y 6/2) dry, dark grayish brown (2.5Y 4/2) moist; weak fine granular structure; soft, very friable, nonsticky and nonplastic; many fine and medium roots, and common coarse roots; few fine and medium pores; neutral (pH 6.8); clear smooth boundary 
+
+ A/C2--17 to 50 cm; stratified silt loam; 50 percent grayish brown (10YR 5/2) dry, very dark grayish brown (10YR 3/2) moist, and 50 percent grayish brown (2.5Y 5/2) dry, very dark grayish brown (2.5Y 3/2) moist; moderate medium subangular blocky structure; soft, very friable, nonsticky and nonplastic; common fine to coarse roots; common fine and medium pores; moderately alkaline (pH 8.3); clear smooth boundary
+
+ 2C3--50 to 67 cm; stratified very fine sandy loam; light brownish gray (2.5Y 6/2) dry, dark grayish brown (2.5Y 4/2) moist; weak thin platy structure; soft, very friable, nonsticky and nonplastic; common fine roots; few fine and medium pores; 2 percent strong brown (7.5YR 4/6) moist, masses of oxidized iron throughout; strongly alkaline (pH 8.7); diffuse smooth boundary
+
+ 2C4--67 to 78 cm; very fine sandy loam; light brownish gray (2.5Y 6/2) dry, dark grayish brown (2.5Y 4/2) moist; moderate thin platy structure; slightly hard, friable, nonsticky and nonplastic; 20 percent strong brown (7.5YR 4/6) moist, masses of oxidized iron throughout; strongly alkaline (pH 8.7); clear smooth boundary
+
+ 2Cf--78 to 103 cm; permanently frozen very fine sandy loam; light brownish gray (2.5Y 6/2) dry, dark grayish brown (2.5Y 4/2) moist; massive; slightly hard, friable, nonsticky and nonplastic; 5 percent dark yellowish brown (10YR 4/6) moist, masses of oxidized iron throughout; strongly alkaline (pH 8.8)
+
+TYPE LOCATION: Yukon-Koyukuk Census Area, Alaska; latitude 66.5508333 degrees, longitude -145.4575000 degrees, datum WGS84 (coordinates determined with a GPS)
+
+RANGE IN CHARACTERISTICS:
+Mean annual soil temperature-- -4 to 1 degrees C
+Depth to permafrost--70 to 100 cm
+Depth to redoximorphic features--50 to 100 cm
+
+Oi horizons
+Thickness--5 to 10 cm
+Reaction--6.0 to 7.5
+
+Oe horizons (where present)
+Thickness--5 to 10 cm
+Reaction--6.0 to 7.5
+
+A and A/C horizons (where present)
+Hue--10YR, 7.5YR
+Value--2 or 3 moist, 4 or 5 dry
+Chroma--1 or 2 moist
+Fine-earth texture--silt loam, very fine sandy loam, loam
+Clay content--0 to 18 percent
+Reaction--6.0 to 8.5
+Effervescence--none to slight
+Thickness--5 to 15 cm
+
+BC horizons (where present)
+Hue--10YR, 2.5Y
+Value--2 to 4 moist, 4 to 6 dry
+Chroma--1 or 2 moist
+Fine-earth texture--silt loam, very fine sandy loam, fine sandy loam
+Clay content--0 to 18 percent
+Reaction--7.0 to 9.0
+Effervescence--none to slight
+Thickness--10 to 30 cm
+
+C1, C2, 2C2, 2C3, and 2C4 horizons
+Hue--10YR, 2.5Y
+Value--2 to 4 moist, 4 to 6 dry
+Chroma--1 or 2 moist
+Fine-earth texture--silt loam, very fine sandy loam, fine sandy loam
+Clay content--0 to 18 percent
+Reaction--7.0 to 9.0
+Effervescence--none to slight
+Combined thickness--35 to 80 cm
+
+2Cf horizon
+Value--2 to 4 moist, 4 to 6 dry
+Chroma--1 or 2 moist
+Fine-earth texture--silt loam, very fine sandy loam, fine sandy loam
+Clay content--0 to 18 percent
+Reaction--7.0 to 9.0
+Effervescence--none to strong
+Thickness--50 to 80 cm
+
+COMPETING SERIES: 
+None
+
+GEOGRAPHIC SETTING:
+Elevation--90 to 300 m
+Climate--short, warm summers and long, very cold winters
+Mean annual precipitation--210 to 310 mm
+Mean annual air temperature-- -12 to 0 degrees C
+Frost-free period--45 to 97 days
+
+GEOGRAPHICALLY ASSOCIATED SOILS:
+Nuntragut--aquic conditions within 100 cm; similar landforms
+Yasuda--aquic conditions within 25 cm; adjacent depressions on similar landforms; grassland vegetation
+Tlozhavun--no aquic conditions within 150 cm; older surfaces on similar landforms
+Tajittro--aquic conditions within 100 cm (moderately well drained); older surfaces on similar landforms
+
+DRAINAGE AND SATURATED HYDRAULIC CONDUCTIVITY:
+Drainage class--moderately well drained
+Saturation in normal years--water table top depth between a depth of 50 to 75 cm in June 
+Flooding--rare
+Ponding--none
+Saturated hydraulic conductivity (Ksat)--high throughout
+
+USE AND VEGETATION:
+Use--wildlife habitat, subsistence, recreation
+Potential natural vegetation--White spruce, quaking aspen, russet buffaloberry, prickly rose, grayleaf willow, twinflower, lingonberry, purple reedgrass, false toadflax, tall bluebells, Jakutsk snowparsley, sidebells wintergreen, eastern pasqueflower, splendid feather moss, Ptilidium liverwort, greygreen reindeer lichen, felt lichen, cup lichen
+
+DISTRIBUTION AND EXTENT: Yukon Flats Lowlands, Alaska; MLRA 232; moderate extent
+
+SOIL SURVEY REGIONAL OFFICE (SSRO) RESPONSIBLE: Portland, Oregon
+
+SERIES ESTABLISHED: Yukon Flats National Wildlife Refuge, Yukon-Koyukuk Census Area, Alaska; 2020
+
+REMARKS:
+Diagnostic horizons and other features in this pedon
+*Particle-size control section--zone from 35 to 110 cm
+*Ochric epipedon
+*Redoximorphic iron concentrations--2C3, 2C4, 2Cf horizons
+*Permafrost--2Cf horizon
+*Irregular decrease in organic carbon content--zone from 25 to 45 cm
+A horizons may be thicker than 15 cm when buried, stratified, or otherwise mixed with B or C horizons; in these cases surface horizons do not meet criteria for mollic epipedons after mixing the upper 18 cm of mineral soil.
+
+
+National Cooperative Soil Survey
+U.S.A.

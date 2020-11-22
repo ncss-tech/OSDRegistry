@@ -1,0 +1,151 @@
+LOCATION TOKALOO                WA
+
+Established Series
+IRD. SMB/PHR/MPR
+01/2019
+
+TOKALOO SERIES
+
+Landscape--Cascade Mountains, valleys
+Landform--depressions and stream channels of terraces, debris aprons, valley walls
+Slope--0 to 35 percent
+Parent material--volcanic ash over colluvium derived from andesite
+Mean annual precipitation--about 1800 mm
+Mean annual air temperature--about 6 degrees C
+Depth class--very deep
+Drainage class--somewhat poorly drained
+Soil moisture regime--aquic
+Soil temperature regime--frigid
+Soil moisture subclass--typic
+
+TAXONOMIC CLASS: Ashy, amorphic, nonacid, frigid Typic Vitraquands
+
+TYPICAL PEDON: Tokaloo paragravelly ashy sandy loam on a northwest-facing, forested terrace with a slope of 15 percent and an elevation of 690 m (The soil was moist throughout when described on August 3, 2012.)
+
+ Oi--0 to 2 cm; slightly decomposed plant material; very strongly acid (pH 4.5); clear wavy boundary
+
+ Oe--2 to 5 cm; moderately decomposed plant material; common very fine and fine and few medium roots; very strongly acid (pH 4.5); clear wavy boundary
+
+ A--5 to 10 cm; paragravelly ashy sandy loam, dark gray (10YR 4/1) dry, black (10YR 2/1) moist; weak fine subangular blocky structure; soft, very friable, nonsticky and nonplastic; common very fine and fine and few medium and coarse roots; common very fine and fine interstitial pores; 10 percent fine pumice paragravel and 5 percent medium and coarse pumice paragravel; very strongly acid (pH 4.9); abrupt wavy boundary
+
+ Bw--10 to 25 cm; paragravelly ashy coarse sandy loam, brown (7.5YR 5/3) dry, dark brown (7.5YR 3/3) moist; weak fine subangular blocky structure; soft, very friable, nonsticky and nonplastic; few very fine, common fine, and few medium to very coarse roots; common very fine and fine interstitial pores; 15 percent fine pumice paragravel and 5 percent medium and coarse pumice paragravel; strongly acid (pH 5.4); clear irregular boundary
+
+ Bg1--25 to 74 cm; paragravelly ashy loamy coarse sand, pinkish gray (7.5YR 6/2) dry, brown (7.5YR 4/2) moist; weak fine subangular blocky structure; soft, very friable, nonsticky and nonplastic; few very fine to coarse roots; common very fine and fine interstitial pores; 10 percent yellowish red (5YR 4/6) masses of oxidized iron with diffuse boundaries along root channels and 2 percent grayish brown (10YR 5/2) iron depletions in matrix; 15 percent fine pumice paragravel and 10 percent medium and coarse pumice paragravel; strongly acid (pH 5.4); clear wavy boundary
+
+  2Bg2--74 to 90 cm; very gravelly ashy sandy loam, grayish brown (10YR 5/2) dry, very dark grayish brown (10YR 3/2) moist; weak fine subangular blocky structure; soft, very friable, nonsticky and nonplastic; few very fine to medium roots; common very fine and fine interstitial pores; 5 percent yellowish red (5YR 4/6) masses of oxidized iron with diffuse boundaries along root channels and 3 percent grayish brown (10YR 5/2) iron depletions in matrix; 10 percent fine andesite gravel, 15 percent medium and coarse andesite gravel, and 15 percent andesite cobbles; strongly acid (pH 5.4); clear wavy boundary
+
+ 2Bg3--90 to 150 cm; very cobbly ashy sandy loam, grayish brown (10YR 5/2) dry, very dark grayish brown (10YR 3/2) moist; weak fine subangular blocky structure; soft, very friable, nonsticky and nonplastic; few very fine to medium roots; common very fine and fine interstitial pores; 5 percent yellowish red (5YR 4/6) masses of oxidized iron with diffuse boundaries along root channels and 5 percent grayish brown (10YR 5/2) iron depletions in matrix; 10 percent fine andesite gravel, 10 percent medium and coarse andesite gravel, and 20 percent andesite cobbles; moderately acid (pH 5.6)
+
+TYPE LOCATION: Pierce County, Washington, at the junction of the Nisqually House boundary trail and the south bank of Tenas Creek, in Mount Rainier National Park; 180 m south and 10 m west of the northeast corner of section 33, T. 15 N., R. 7 E., Willamette Meridian; Sawtooth Ridge, Washington, U.S. Geological Survey quadrangle; latitude 46.74859, longitude -121.91832, datum WGS 84 (coordinates determined with a GPS)
+
+RANGE IN CHARACTERISTICS:
+Mean annual soil temperature--6 to 8 degrees C
+Depth to redoximorphic iron depletions--25 to 50 cm below the mineral soil surface
+Rock fragments--pumice paragravel in upper part of profile; andesite gravel, cobbles, and stones in
+lower part of profile in some areas
+Other features--lithologic discontinuity
+
+All mineral horizons
+*Volcanic glass content--50 to 75 percent
+*Ammonium oxalate Al plus 1/2 Fe--greater than 0.4 percent
+
+Particle-size control section
+*Clay content--1 to 7 percent
+*Total rock fragment content--0 to 35 percent
+
+Oi horizon
+Thickness--1 to 4 cm
+
+Oe horizon
+Thickness--2 to 6 cm
+
+A horizon
+Value--1 to 3 moist, 3 to 5 dry
+Chroma--1 to 3 moist or dry
+Fine-earth texture--ashy sandy loam, ashy loamy sand
+Clay content--1 to 7 percent
+Reaction--4.5 to 5.5
+Rock fragment content--0 to 15 percent pumice paragravel
+Thickness--3 to 15 cm
+
+Bw horizon
+Hue--7.5YR, 10YR
+Value--2 or 3 moist, 4 or 5 dry
+Chroma--1 to 3 moist or dry
+Fine-earth texture--ashy coarse sandy loam, ashy sandy loam, ashy loamy sand
+Clay content--1 to 7 percent
+Reaction--5.1 to 6.0
+Rock fragment content--0 to 25 percent pumice paragravel
+Thickness--10 to 35 cm
+
+Bg1 horizon
+Hue--7.5YR, 10YR
+Value--2.5 to 5 moist, 4 to 7 dry
+Chroma--1 to 4 moist or dry
+Fine-earth texture--ashy loamy coarse sand, ashy sandy loam, ashy loamy sand
+Clay content--1 to 7 percent
+Reaction--5.1 to 6.0
+Total rock fragment content--5 to 30 percent
+Pumice paragravel content--5 to 30 percent
+Andesite gravel content--0 to 5 percent
+Thickness--40 to 60 cm
+
+2Bg2 and 2Bg3 horizons
+Hue--7.5YR, 10YR
+Value--2.5 to 5 moist, 4 to 7 dry
+Chroma--1 to 4 moist or dry
+Fine-earth texture--ashy sandy loam, ashy loamy sand, ashy coarse sandy loam
+Clay content--1 to 7 percent
+Reaction--5.1 to 6.0
+Total rock fragment content--5 to 40 percent
+Andesite gravel content--5 to 30 percent
+Andesite cobble content--0 to 20 percent
+Combined thickness--30 to 80 cm
+
+COMPETING SERIES: None
+
+GEOGRAPHIC SETTING:
+Elevation--500 to 1100 m
+Climate--warm, dry summers; cool, wet winters
+Mean annual precipitation--1600 to 2000 mm
+Mean annual air temperature--5 to 7 degrees C
+Frost-free period--90 to 130 days
+
+GEOGRAPHICALLY ASSOCIATED SOILS:
+Sunbeam--aquic conditions within 25 cm of soil surface; similar landforms
+Ingraham--lithic contact within 50 cm of soil surface (shallow); steeper adjacent bedrock-controlled landforms
+Goldenlakes--lithic contact within 50 to 100 cm of soil surface (moderately deep); steeper adjacent bedrock-controlled landforms
+Kautz--no aquic conditions; albic and spodic horizons; similar landforms
+
+DRAINAGE AND SATURATED HYDRAULIC CONDUCTIVITY:
+Drainage class--somewhat poorly drained
+Saturation in normal years--below a depth of 30 to 80 cm in March through June; below a depth of 100 to 180 cm in July through February
+Flooding--none, rare
+Ponding--none, rare
+Saturated hydraulic conductivity (Ksat)--high or very high throughout
+
+USE AND VEGETATION:
+Use--wildlife habitat, recreation
+Potential natural vegetation--Douglas-fir, western hemlock, western redcedar, grand fir, bigleaf maple, red alder, vine maple, thimbleberry, devils club, salmonberry, Oregon oxalis, deer fern, western swordfern, oak fern, twinflower, cascade Oregongrape
+
+DISTRIBUTION AND EXTENT: Central Cascade Mountains, Washington; MLRA 3; small extent
+
+SOIL SURVEY REGIONAL OFFICE (SSRO) RESPONSIBLE: Portland, Oregon
+
+SERIES ESTABLISHED: Mount Rainier National Park, Pierce County, Washington; 2014; name from Tokaloo Rock in Mount Rainier National Park
+
+REMARKS:
+Diagnostic horizons and other features in this pedon
+*Particle-size control section--zone from 5 to 105 cm
+*Ochric epipedon
+*Andic soil properties--zone from 5 to 150 cm
+*Volcanic glass--zone from 5 to 150 cm
+*Depth to lithologic discontinuity--74 cm
+*Redoximorphic iron concentrations--zone from 25 to 150 cm
+*Redoximorphic iron depletions with chroma of 2 or less--zone from 25 to 150 cm
+*Distinguishable tephra layer--Mount St. Helens Wn and Yn tephra; zone from 10 to 74 cm
+
+5/2017--This official series description was updated according to SSR01 Technical Note-Content and Format of Official Series Descriptions (revised 12/2015). Most of the changes were in formatting; no major technical changes were made.
+
+National Cooperative Soil Survey
+U.S.A.

@@ -1,0 +1,137 @@
+LOCATION LITTLETAHOMA           WA
+
+Established Series
+IRD. TMR/MPR
+07/2017
+
+LITTLETAHOMA SERIES
+
+Landscape--Cascade Mountains
+Landform--mountain slopes, glacial valley walls, cirques, ridges, parklands
+Slope--10 to 100 percent
+Parent material--volcanic ash over colluvium derived from andesite
+Mean annual precipitation--about 2500 mm
+Mean annual air temperature--about 3 degrees C
+Depth class--very deep
+Drainage class--well drained
+Soil moisture regime--udic
+Soil temperature regime--cryic
+Soil moisture subclass--typic
+
+TAXONOMIC CLASS: Medial, glassy Humic Vitricryands
+
+TYPICAL PEDON: Littletahoma paragravelly medial sandy loam on a north-facing, 45-percent slope of a ridge at an elevation of 1905 m (When described on October 27, 2011, the soil was frozen at the surface and moist throughout.)
+
+ A1--0 to 12 cm; paragravelly medial sandy loam, very dark gray (10YR 3/1) dry, black (10YR 2/1) moist; moderate medium granular structure; soft, very friable, nonsticky and nonplastic; many very fine and fine and few medium roots; many very fine and fine interstitial pores; 15 percent pumice paragravel; strongly acid (pH 5.2); clear wavy boundary
+
+ A2--12 to 70 cm; very paragravelly medial sandy loam, very dark grayish brown (10YR 3/2) dry, very dark brown (10YR 2/2) moist; moderate fine subangular blocky structure; soft, very friable, nonsticky and nonplastic; common very fine and fine and few medium roots; many very fine and fine interstitial pores; 20 percent pumice paragravel; strongly acid (pH 5.2); clear wavy boundary
+
+ A3--70 to 90 cm; paragravelly medial sandy loam, brown (10YR 4/3) dry, dark brown (10YR 3/3) moist; moderate medium subangular blocky structure; soft, very friable, nonsticky and nonplastic; common very fine and fine and few medium roots; many very fine and fine interstitial pores; 20 percent pumice paragravel; strongly acid (pH 5.2); clear irregular boundary
+
+ Bw1--90 to 110 cm; paragravelly medial fine sandy loam, yellowish brown (10YR 5/4) dry, dark yellowish brown (10YR 3/4) moist; moderate coarse subangular blocky structure; soft, very friable, nonsticky and nonplastic; few very fine to medium roots; common very fine and fine irregular pores; 20 percent pumice paragravel; strongly acid (pH 5.4); clear wavy boundary
+
+ 2Bw2--110 to 150 cm; gravelly medial sandy loam, yellowish brown (10YR 5/6) dry, dark yellowish brown (10YR 3/6) moist; moderate medium subangular blocky structure; soft, very friable, nonsticky and nonplastic; few very fine roots; common very fine and fine irregular pores; 20 percent andesite gravel and 10 percent andesite cobbles; strongly acid (pH 5.4)
+
+TYPE LOCATION: Pierce County, Washington, on a ridge north of the White River in the Yakima Park area, about 1.5 km southeast of the Sunrise Ranger Station in Mount Rainier National Park; about 450 m north and 90 m west of the southeast corner of section 35, T. 17 N., R. 9 E., Willamette Meridian; White River Park, Washington, U.S. Geological Survey quadrangle; latitude 46.911726 degrees north, longitude -121.621874 degrees west, datum WGS 84 (coordinates determined with a GPS)
+
+RANGE IN CHARACTERISTICS:
+Mean annual soil temperature--2 to 7 degrees C
+Soil moisture control section--dry less than 45 consecutive days in June through October
+Depth to lithologic discontinuity--70 to 120 cm
+Thickness of umbric epipedon--25 to 100 cm
+Pararock and rock fragments--pumice paragravel typically in upper part of profile, andesite gravel and cobbles typically in lower part of profile
+
+All mineral horizons
+*Reaction--4.5 to 5.5
+*Volcanic glass content--50 to 75 percent
+*Ammonium oxalate Al plus 1/2 Fe--greater than 1.0 percent
+
+Particle-size control section
+*Clay content--1 to 10 percent
+*Total rock fragment content--5 to 35 percent
+
+A thin O horizon may be in some pedons near areas that have a subalpine coniferous canopy.
+
+A1 horizon
+*Hue--10YR, 7.5YR
+*Value--2 to 3 moist, 3 to 5 dry
+*Chroma--1 or 2 moist or dry
+*Fine-earth texture--medial sandy loam, medial coarse sandy loam
+*Pararock fragment content--10 to 30 percent pumice paragravel
+*Thickness--10 to 20 cm
+
+A2 horizon
+*Hue--10YR, 7.5YR
+*Value--2 to 3 moist, 3 to 5 dry
+*Chroma--1 or 2 moist or dry
+*Fine-earth texture--medial sandy loam, medial coarse sandy loam, medial loam
+*Pararock fragment content--5 to 30 percent pumice paragravel
+*Thickness--20 to 60 cm
+
+A3 horizon
+*Hue--10YR, 7.5YR
+*Value--2 to 3 moist, 3 to 5 dry
+*Chroma--1 to 3 moist or dry
+*Fine-earth texture--medial sandy loam, medial loamy sand, medial coarse sandy loam
+*Pararock fragment content--5 to 30 percent pumice paragravel
+*Thickness--20 to 40 cm
+
+Bw1 horizon
+*Hue--10YR, 7.5YR
+*Value--3 or 4 moist, 4 to 6 dry
+*Chroma--2 to 6 moist or dry
+*Fine-earth texture--medial fine sandy loam, medial sandy loam, medial loam
+*Pararock and rock fragment content--15 to 35 percent total, including 10 to 30 percent pumice paragravel, 0 to 10 percent andesite gravel, and 0 to 5 andesite cobbles
+*Thickness--20 to 40 cm
+
+2Bw2 horizon
+*Hue--10YR, 7.5YR
+*Value--3 or 4 moist, 4 to 6 dry
+*Chroma--2 to 6 moist or dry
+*Fine-earth texture--medial sandy loam, medial loam, medial coarse sandy loam
+*Rock fragment content--15 to 60 percent total, including 15 to 40 percent andesite gravel, 0 to 20 percent andesite cobbles, and 0 to 10 percent andesite stones
+
+COMPETING SERIES:
+Burroughs--lithic contact within 100 cm of the surface (moderately deep)
+
+GEOGRAPHIC SETTING:
+Elevation--1150 to 2125 m
+Climate--cool, dry summers; cold, wet winters
+Mean annual precipitation--1550 to 3430 mm
+Mean annual air temperature--1 to 6 degrees C
+Frost-free period--30 to 60 days
+
+GEOGRAPHICALLY ASSOCIATED SOILS:
+Burroughs--lithic contact within 50 to 100 cm of the surface (moderately deep); in similar landform positions
+Tatoosh--lithic contact within 25 to 50 cm of the surface (shallow); in similar landform positions
+Mountwow--aquic conditions with an upper limit of 25 cm from the mineral soil surface; in concave areas of similar landforms that receive water from adjacent slopes
+Ipsut, Owyhigh, Tipsoo--ochric epipedon; albic and spodic horizons; on similar forested landforms
+
+DRAINAGE AND SATURATED HYDRAULIC CONDUCTIVITY:
+Drainage class--well drained
+Saturated hydraulic conductivity (Ksat)--high or very high throughout
+
+USE AND VEGETATION:
+Use--wildlife habitat, recreation
+Potential natural vegetation--subalpine and alpine meadows composed of Columbia brome, alpine aster, leafy aster, western columbine, arctic lupine, Sitka valerian, common yarrow, smooth woodrush, and occasional scattered subalpine fir and mountain hemlock
+
+DISTRIBUTION AND EXTENT: Central Cascade Mountains, Washington; MLRA 3; moderate extent
+
+MLRA SOIL SURVEY REGIONAL OFFICE (MO) RESPONSIBLE: Portland, Oregon
+
+SERIES ESTABLISHED: Mount Rainier National Park, Pierce County, Washington; 2014; name from Little Tahoma Peak in Mount Rainier National Park
+
+REMARKS:
+Diagnostic horizons and other features in this pedon
+*Particle-size control section--zone from the surface to a depth of 100 cm
+*Umbric epipedon--zone from the surface to a depth of 90 cm
+*Cambic horizon--zone from 90 to 150 cm
+*Andic soil properties--zone from the surface to a depth of 150 cm
+*Volcanic glass--zone from the surface to a depth of 150 cm
+*Depth to lithologic discontinuity--110 cm
+*Distinguishable tephra layers--Mount Rainier X and Mount St. Helens Wn tephra (A1 horizon), Mount Rainier C tephra (A2 horizon), Mount St. Helens Yn tephra (A3 horizon), Mount Rainier F tephra (Bw1 horizon)
+
+7/2017--This official series description was updated according to SSR1 Technical Note 11--Content and Format of Official Series Descriptions (revised 12/2015). Most of the changes were in formatting; no major technical changes were made.
+
+National Cooperative Soil Survey
+U.S.A.

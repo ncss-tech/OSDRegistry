@@ -1,0 +1,165 @@
+LOCATION FERRIS                 TX+OK
+
+Established Series
+Rev. CLN-CMR-RMR
+08/2017
+
+FERRIS SERIES
+
+The Ferris series consists of deep to mudstone, well drained, very slowly permeable soils that formed in clayey residuum weathered from calcareous mudstone. These gently sloping to moderately steep soils occur on backslopes of side slopes of ridges on dissected plains. Slopes range from 1 to 20 percent. Mean annual precipitation is about 889 mm (35 in) and the mean annual temperature is about 20 degrees C (68 degrees F).
+
+TAXONOMIC CLASS: Fine, smectitic, thermic Chromic Udic Haplusterts
+
+TYPICAL PEDON: Ferris clay, on a south-facing, convex, 7 percent slope in pasture at an elevation of 148 m (486 ft). (Colors are for dry soil unless otherwise stated.)
+
+    Ap--0 to 20 cm (0 to 8 in); olive (5Y 5/3) clay, olive (5Y 4/3) moist; weak medium angular blocky parts to weak fine angular blocky structure; extremely hard, very firm, very sticky, very plastic; many fine roots; few fine carbonate concretions; surface has a mulch about 1 cm (0.5 in) thick of fine extremely hard discrete aggregates; strong effervescence; moderately alkaline; gradual smooth boundary. (Thickness is 8 to 30 cm [3 to 12 in])
+
+    Bk--20 to 61 cm (8 to 24 in); pale olive (5Y 6/3) clay; olive (5Y 5/3) moist; moderate fine angular blocky structure; extremely hard, very firm, very sticky, very plastic; few fine roots; common distinct pressure faces; few fine carbonate concretions and few fine carbonate masses; strong effervescence; moderately alkaline; gradual smooth boundary. (Thickness is 15 to 51 cm [6 to 20 in])
+
+    Bkss--61 to 102 cm (24 to 40 in); pale olive (5Y 6/3) clay; olive (5Y 5/3) moist; common fine faint brownish yellow (10YR 6/6) mottles; moderate medium wedge parts to moderate fine angular blocky structure; extremely hard, very firm, very sticky, very plastic; few fine roots; few fine pores; 3 cm (1 to 5 cm) wide and 46 cm (18 in) spacing, vertical, transient (commonly seasonal, close when rewetted), cracks that extend to the adjoining horizon or to the surface; distinct pressure faces and common prominent slickensides (pedogenic); few fine calcium carbonate concretions and few fine carbonate masses; violent effervescence; moderately alkaline; diffuse wavy boundary. (Thickness is 46 to 76 cm [18 to 30 in])
+
+    Cdk--102 to 203 cm (40 to 80 in); pale olive (5Y 6/3) and yellow (2.5Y 7/8), noncemented calcareous mudstone bedrock; structureless massive; extremely hard, very firm; few fine roots in cracks; few distinct slickensides (geogenic); common fine carbonate masses and common fine carbonate concretions; violent effervescence; moderately alkaline. 
+
+TYPE LOCATION: Navarro County, Texas; about 15 miles west of Corsicana; From the intersection of State Highway 22 and County Road 1420 in Blooming Grove, approximately 3.3 miles northeast on County Road 1420, 190 ft east in pasture. 
+USGS topographic quadrangle: Cryer Creek, TX; 
+Latitude: 32 degrees, 8 minutes, 13 seconds N; 
+Longitude: 96 degrees 42 minutes 51 seconds W;
+Datum: WGS84.
+UTM Easting: 715603 m,
+UTM Northing: 3557910 m,
+UTM Zone 14N. 
+
+RANGE IN CHARACTERISTICS:
+Depth of solum: 100 to 150 cm (40 to 60 in)
+Soil moisture: Udic ustic soil moisture regime. The soil moisture control section is dry in some or all parts for more than 90 and less than 150 cumulative days in normal years.
+Cracks in normal years are 1 to 8 cm (0.5 to 3 in) wide, through a thickness of 30 cm (12 in) or more within 50 cm of the mineral soil surface, for 120 to 150 cumulative days per year.
+Depth to densic bedrock: 100 to 150 cm (40 to 60 in)
+Depth to slickensides (pedogenic): 8 to 81 cm (3 to 32 in)
+Depth to cambic horizon: 8 to 30 cm (3 to 12 in)
+Surface rock fragments: 0 to 15 percent, 2 to 75-mm quartzite fragments 
+
+Particle-size control section (weighted average):
+Clay content: 40 to 60 percent
+Calcium carbonate equivalent: 2 to 30 percent
+
+A or Ap horizon
+Hue: 10YR to 5Y
+Value: 3 to 6
+Chroma: 2 to 4
+Texture: clay or silty clay
+Other features: The lower value and chroma occur where the A horizon is thickest in the pedon. In pedons where the moist color value of the A horizon is less than 3.5, the thickness of the horizon is less than 30 cm (12 in).
+Effervescence: slight to strong
+Reaction: moderately alkaline
+
+Bw or Bk horizon (where present)
+Hue: 10YR to 5Y
+Value: 4 to 7
+Chroma: 2 to 6
+Texture: clay or silty clay
+Other features: If present, gray mottles are inherited from the parent material (lithochromic).
+Identifiable secondary carbonate: amount-0 to 4 percent; size-fine to coarse; kind-carbonate masses and carbonate concretions
+Calcium carbonate equivalent: 2 to 30 percent
+Effervescence: strong to violent
+Reaction: moderately alkaline
+
+Bss or Bkss horizon (where present)
+Hue: 10YR to 5Y
+Value: 4 to 7
+Chroma: 2 to 6
+Texture: clay, silty clay
+Other features: If present, gray mottles are inherited from the parent material (lithochromic).
+Identifiable secondary carbonate: amount-0 to 4 percent; size-fine to coarse; kind-carbonate masses and carbonate concretions
+Calcium carbonate equivalent: 2 to 30 percent
+Effervescence: strong to violent
+Reaction: moderately alkaline
+
+CB, BC, CBk, or BCk horizon (where present)
+Hue: 10YR to 5Y
+Value: 5 to 7
+Chroma: 1 to 8
+Texture: clay, silty clay
+Other features: Most pedons have variegated colors consisting of common to many coarse, prominent mottles.
+Identifiable secondary carbonate: amount-0 to 4 percent; size-fine to coarse; kind-carbonate masses and carbonate concretions
+Calcium carbonate equivalent: 2 to 30 percent
+Gypsum: 0 to 5 percent
+Effervescence: strong to violent
+Reaction: moderately alkaline
+
+Cd, Cdk, or Cdy horizon
+Hue: 10YR to 5Y
+Value: 5 to 7
+Chroma: 1 to 8
+Texture: bedrock with texture of clay or silty clay
+Rupture resistance: noncemented
+Bedrock: slightly to strongly weathered calcareous mudstone
+Other features: Most pedons have variegated colors consisting of common to many coarse, prominent mottles.
+Identifiable secondary carbonate: amount-0 to 4 percent; size-fine to coarse; kind-carbonate masses and carbonate concretions
+Calcium carbonate equivalent: 2 to 30 percent
+Gypsum: 0 to 5 percent
+Effervescence: strong to violent
+Reaction: moderately alkaline
+
+COMPETING SERIES: These are the Depalt, Medlin, and Tamford series.  Similar soils are the Deport, Ellis, Heiden, Frelsburg, and Latium series.
+Depalt soils: do not have a densic contact within 150 cm (59 in) depth
+Medlin soils: contain more than 30 percent calcium carbonate equivalent in the lower part of the subsoil
+Tamford soils: have hue redder than 10YR
+
+Deport soils: do not have free carbonates in the epipedon
+Ellis soils: have a densic contact within 100 cm (40 in) depth
+Heiden soils: have moist color value of 3.5 or less and chroma of 2.5 or less in the upper epipedon in most pedons
+Frelsburg and Latium soils: do not have a densic contact within 150 cm (59 in) depth
+
+GEOGRAPHIC SETTING:
+Parent material: clayey residuum weathered from calcareous mudstone
+Landscape: dissected plains
+Landform: backslopes of side slopes of ridges
+Microfeature: gilgai or linear gilgai
+Slope: 1 to 20 percent
+Mean annual precipitation: 711 to 1067 mm (28 to 42 in)
+Precipitation pattern: Precipitation is mostly even throughout the year with the exception of May, June, and October being the wettest months.  July and August are the driest months.
+Thornthwaite P-E index: 44 to 66
+Mean annual air temperature: 17 to 21 degrees C (63 to 70 degrees F)
+Frost-free period: 224 to 260 days
+Elevation: 98 to 305 m (322 to 1,000 ft)
+
+GEOGRAPHICALLY ASSOCIATED SOILS: These are the Altoga, Ellis, Heiden, Houston Black, Lamar, and McLennan series.
+Altoga, Lamar and McLennan soils: do not have slickensides and occur on similar positions
+Ellis soils: occur on similar positions
+Heiden soils: occur on similar less sloping positions
+Houston Black soils: have moist value of 3.5 or less and chroma of 1.5 or less in the epipedon and occur on less sloping positions
+
+DRAINAGE AND PERMEABILITY: 
+Drainage class: Well. 
+Permeability class: Very slow. 
+Runoff: very high on slopes of 1 to 20 percent. 
+Infiltration is rapid when the soil is dry and cracked, but very slow when the soil is wet.
+
+USE AND VEGETATION: The major uses are livestock grazing and hay production. The native plant community is a fire-influenced mosaic of tallgrass and midgrass plant communities dominated by little bluestem, other important grasses are Indiangrass, big bluestem, switchgrass, vine mesquite, silver bluestem, tall dropseed, and Texas wintergrass. Improper grazing will result in a reduction of tall grass dominance and an increase in composition of mid-grasses, unpalatable forbs, and woody species. Most areas have been cultivated, eroded and are now in grass. 
+
+DISTRIBUTION AND EXTENT: East Central Texas; Land Resource Region J; MLRA 86A. The series is extensive.
+
+SOIL SURVEY REGIONAL OFFICE (SSRO) RESPONSIBLE: Temple, Texas
+
+SERIES ESTABLISHED: Travis County, Texas; 1969. The name "Ferris" is from the Ferris community in northeastern Ellis County.
+
+REMARKS: Diagnostic horizons and features recognized in this pedon are:
+Particle size control section: 25 to 100 cm (10 to 40 in) [Bk and Bkss horizons]
+
+Ochric epipedon: 0 to 20 cm (0 to 8 in) [Ap horizon]
+Cambic horizon: 20 to 102 cm (8 to 40 in) [Bk and Bkss horizons]
+Densic Contact: The contact with noncemented calcareous mudstone at 102 cm (40 in) [Cdk horizon]
+Slickensides: 61 to 102 cm (24 to 40 in) [Bkss horizon]
+Free carbonates: 0 to 203 cm (0 to 80 in) [Ap, Bk, Bkss, and Cdk horizons]
+Secondary carbonates: 20 to 203 cm (8 to 80 in) [Bk, Bkss, and Cdk horizons]
+Other features: High shrink-swell potential and cracks that are 1 to 8 cm (0.5 to 3 in) wide at a depth of 30 cm (12 in) or more.
+Pedon described above is an equal distance between its deep and shallow extremes.
+
+Additional comments:
+Soil Interpretation Record Number: TX0296, TX1150 (Cool)
+
+ADDITIONAL DATA: KSSL Data: Hopkins County, 68TX223001 (40A35020-40A35024).
+
+Taxonomic Version: Keys to Soil Taxonomy, Twelfth Edition, 2014.
+
+National Cooperative Soil Survey
+U.S.A.

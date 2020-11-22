@@ -1,0 +1,102 @@
+LOCATION LITTLEGRAY             ID
+
+Tentative Series
+BAG/NHK/DJP
+02/2020
+
+LITTLEGRAY SERIES
+
+The Littlegray series consists of moderately deep, well drained soils that formed in loess influenced slope alluvium over basalt. These soils are on hillslopes. Slopes range from 2 to 8 percent. Mean annual precipitation is about 525 mm and the mean annual air temperature is about 2.0 degrees C.
+
+TAXONOMIC CLASS: Coarse-loamy, mixed, superactive Xeric Argicryolls
+
+TYPICAL PEDON: Littlegray loam in rangeland; (Colors are for dry soil unless otherwise noted.)
+
+    A--0 to 3 cm; dark grayish brown (10YR 4/2) loam, very dark brown (10YR 2/2) moist; weak very fine granular structure; soft, very friable, nonsticky, nonplastic; 2 percent gravel; slightly acid (pH 6.2); clear wavy boundary. 
+
+    BA--3 to 19 cm; grayish brown (10YR 5/2) sandy loam, very dark gray (10YR 3/1) moist; weak medium subangular blocky structure; soft, very friable, nonsticky, nonplastic; 2 percent gravel; moderately acid (pH 6.0); clear wavy boundary. 
+
+    Bt1--19 to 38 cm; brown (10YR 5/3) sandy loam, dark brown (10YR 3/3) moist; weak medium subangular blocky structure; slightly hard, very friable, nonsticky, nonplastic; 10 percent faint clay films on all faces of peds and clay bridges between sand grains; 2 percent gravel; moderately acid (pH 6.0); clear wavy boundary. 
+
+    Bt2--38 to 56 cm; yellowish brown (10YR 5/4) sandy loam, dark yellowish brown (10YR 3/4) moist; weak medium subangular blocky structure; slightly hard, very friable, nonsticky, nonplastic; 10 percent faint clay films on all faces of peds and clay bridges between sand grains; 10 percent gravel; moderately acid (pH 5.6); abrupt irregular boundary. 
+
+    R--56 cm; basalt
+
+TYPE LOCATION: Caribou County, Idaho; USGS Wayan West topographic quadrangle; latitude 42.9428680 degrees north, longitude 111.4858066 degrees west, datum WGS84.
+
+RANGE IN CHARACTERISTICS:
+Mean annual soil temperature--1.7 to 5.0 degrees C
+Thickness of mollic epipedon--24 to 39 cm
+Depth to argillic--4 to 19 cm
+Depth to bedrock--50 to 100 cm
+
+Particle-size control section (weighted averages)
+Clay content--14 to 18 percent
+Total rock fragments--2 to 15 percent
+
+A horizon
+Hue--7.5YR to 10YR
+Value--4 or 5 dry, 2 or 3 moist
+Chroma--2 or 3 dry, 1 or 2 moist
+Clay content--8 to 12 percent
+Total rock fragments--2 to 5 percent
+Reaction--pH 5.6 to 6.5
+Thickness--3 to 5 cm
+
+AB or BA horizon
+Hue--7.5YR or 10YR
+Value--4 or 5 dry, 2 or 3 moist
+Chroma--2 or 3 dry, 1 to 3 moist
+Texture (less than 2 mm fraction)--sandy loam or loam
+Clay content--9 to 16 percent
+Total rock fragments--2 to 5 percent
+Reaction--pH 5.6 to 6.5
+Thickness--14 to 22 cm
+
+Bt horizons
+Hue--7.5YR or 10YR
+Value--4 or 5 dry, 3 or 4 moist
+Chroma--3 or 4 dry, 2 to 4 moist
+Texture (less than 2 mm fraction)--sandy loam, silt loam, or loam
+Clay content--13 to 20 percent
+Total rock fragments--2 to 15 percent
+Reaction--pH 5.6 to 6.5
+Thickness--33 to 73 cm
+
+COMPETING SERIES: There are no competing series.
+
+GEOGRAPHIC SETTING:
+Landform--hillslopes
+Elevation--1,890 to 2025 meters
+Slope--2 to 8 percent
+Parent material--loess influenced slope alluvium over basalt
+Climate--long, cold winters; cool, moist springs; short, cool summers
+Mean annual precipitation--475 to 600 mm
+Mean annual air temperature--0.6 to 3.3 degrees C
+Frost-free period--30 to 65 days
+
+GEOGRAPHICALLY ASSOCIATED SOILS: None listed
+
+DRAINAGE AND SATURATED HYDRAULIC CONDUCTIVITY: Well drained; 5 to 50 um/sec
+
+USE AND VEGETATION: Littlegray soils are primarily used for wildlife habitat and grazing. The potential native vegetation is mountain big sagebrush and Idaho fescue.
+
+DISTRIBUTION AND EXTENT: Littlegray soils are of small extent in southeastern Idaho; MLRA 43B.
+
+SOIL SURVEY REGIONAL OFFICE (SSRO) RESPONSIBLE: Bozeman, Montana
+
+SERIES PROPOSED:  Caribou County, Idaho, 2019. Littlegray series is derived from a nearby landmark.
+
+REMARKS: Diagnostic horizons and features recognized in this pedon:
+Mollic epipedon--0 to 38 cm (A, BA, and Bt1 horizons)
+Argillic horizon--19 to 56 cm (Bt1 and Bt2 horizons)
+Lithic contact--56 cm (R horizon)
+
+Particle-size control section--19 to 56 cm
+
+Littelgray soils have a cryic temperature regime and a xeric moisture regime.
+
+Taxonomic version: Twelfth Edition, 2014
+
+National Cooperative Soil Survey
+U.S.A.

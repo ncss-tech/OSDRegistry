@@ -1,0 +1,144 @@
+LOCATION FOURMOUND              WA
+
+Established Series
+Rev. EMM/SHB/SBC
+06/2016
+
+FOURMOUND SERIES
+
+Landscape--channeled scablands
+Landform--mounds on basalt plateaus
+Slope--0 to 15 percent
+Parent material--loess mixed with volcanic ash in upper part over basalt; minor amount of glaciofluvial deposits in lower part of some pedons
+Mean annual precipitation--about 460 mm
+Mean annual air temperature--about 8 degrees C
+Depth class--deep
+Drainage class--well drained
+Soil moisture regime--xeric
+Soil temperature regime--mesic
+Soil moisture subclass--typic
+
+TAXONOMIC CLASS: Coarse-loamy, isotic, mesic Vitrandic Haploxerolls
+
+TYPICAL PEDON: Fourmound gravelly ashy silt loam in an area of ponderosa pine forest, on a northwest-facing, convex slope at an elevation of 740 m (When described on August 10, 2000, the soil was dry to a depth of 110 cm and slightly moist below. All textures are apparent field textures.)
+
+ A1--0 to 10 cm; gravelly ashy silt loam, brown (10YR 4/3) dry, very dark grayish brown (10YR 3/2) moist; strong fine and medium granular structure; soft, very friable, slightly sticky and slightly plastic; many very fine and few fine and medium roots; many very fine, fine, and medium irregular pores; 15 percent subangular basalt gravel; slightly acid (pH 6.5); diffuse smooth boundary
+
+ A2--10 to 23 cm; ashy silt loam, brown (10YR 5/3) dry, very dark grayish brown (10YR 3/2) moist; weak fine and medium subangular blocky structure; soft, very friable, slightly sticky and slightly plastic; many very fine and few fine and medium roots; many very fine irregular pores and few fine tubular pores; 10 percent subangular basalt gravel; slightly acid (pH 6.4); gradual smooth boundary
+
+ A3--23 to 38 cm; ashy silt loam, yellowish brown (10YR 5/4) dry, dark brown (10YR 3/3) moist; weak fine and medium subangular blocky structure; slightly hard, very friable, slightly sticky and slightly plastic; common very fine and few fine, medium, and coarse roots; many very fine irregular pores and few fine and medium tubular pores; 10 percent subangular basalt gravel; slightly acid (pH 6.2); gradual wavy boundary
+
+ Bw1--38 to 76 cm; silt loam, yellowish brown (10YR 5/4) dry, brown (10YR 4/3) moist; weak fine and medium subangular blocky structure; slightly hard, very friable, slightly sticky and slightly plastic; few very fine, fine, and coarse and common medium roots; many very fine irregular pores and few fine and medium tubular pores; 10 percent subangular basalt gravel; slightly acid (pH 6.1); gradual wavy boundary
+
+ Bw2--76 to 109 cm; silt loam, light yellowish brown (10YR 6/4) dry, dark yellowish brown (10YR 4/4) moist; weak fine and medium subangular blocky structure; moderately hard, friable, slightly sticky and slightly plastic; few very fine, fine, medium, and coarse roots; many very fine irregular pores and few very fine and fine tubular pores; 2 percent patchy faint organic stains; 10 percent subangular basalt gravel; moderately acid (pH 5.8); diffuse wavy boundary
+
+ 2BC--109 to 119 cm; extremely gravelly silt loam, light yellowish brown (10YR 6/4) dry, yellowish brown (10YR 5/4) moist; weak fine subangular blocky structure; slightly hard, very friable, nonsticky and nonplastic; few very fine and common fine roots matted around gravel; many very fine irregular pores and few fine tubular pores; 70 percent subangular basalt gravel; moderately acid (pH 5.8); diffuse wavy boundary
+
+ 2R--119 cm; unweathered basalt
+
+TYPE LOCATION: Spokane County, Washington; about 510 m south and 235 m east of the northwest corner of section 16, T. 26 N., R. 41 E., Willamette Meridian; Four Mound Prairie, Washington, U.S. Geological Survey topographic quadrangle; latitude 47.7544174, longitude -117.6440582, datum WGS 84 (coordinates measured with GPS)
+
+RANGE IN CHARACTERISTICS:
+Depth to diagnostic horizons and other features are measured from the top of the first mineral layer.
+
+Mean annual soil temperature--9 to 11 degrees C
+Moisture control section--dry 60 to 75 days after summer solstice (July to mid-September); moist in October through June
+Depth to basalt--100 to 150 cm
+Thickness of mollic epipedon--25 to 50 cm
+Content of clay in particle-size control section--4 to 18 percent
+Content of gravel in particle-size control section--0 to 20 percent
+Base saturation--less than 75 percent, by sum of cations, in one horizon or more between 25 and 75 cm
+Thickness of volcanic ash influence--25 to 50 cm
+
+Estimated properties of layers influenced by volcanic ash
+*Content of volcanic glass in 0.02- to 2-mm fraction--5 to 20 percent
+*Acid oxalate Al plus 1/2 Fe--0.4 to 1.0 percent
+*Moist bulk density--1.15 to 1.35 g/cm3
+
+An O horizon is in some pedons.
+
+A horizon
+*Hue--7.5YR, 10YR
+*Value--4 or 5 dry, 2 or 3 moist
+*Chroma--1 to 3 moist, 3 or 4 dry
+*Texture--ashy silt loam, ashy loam
+*Content of clay--4 to 18 percent
+*Content of gravel--0 to 20 percent
+*Combined thickness--25 to 50 cm
+
+Bw horizon
+*Hue--7.5YR, 10YR, 2.5Y
+*Value--5 or 6 dry, 4 or 5 moist
+*Chroma--3 or 4 dry or moist
+*Texture--loam, silt loam
+*Content of clay--4 to 18 percent
+*Content of gravel--0 to 20 percent
+*Reaction--5.6 to 6.5
+*Combined thickness--50 to 75 cm
+
+2BC horizon (where present)
+*Hue--7.5YR, 10YR, 2.5YR
+*Value--5 or 6 dry, 4 or 5 moist
+*Chroma--3 or 4 dry or moist
+*Texture--loam, silt loam
+*Content of clay--5 to 15 percent
+*Content of gravel--35 to 80 percent
+*Content of cobbles--0 to 20 percent
+*Reaction--5.6 to 6.5
+*Thickness--0 to 15 cm
+
+COMPETING SERIES:
+Donovan--moderately deep to densic horizon
+Goldlake--deep to densic horizon
+Monkeycreek--very deep
+Seaboldt--lithic contact at a depth of 50 to 100 cm
+Spokane, Usk--paralithic contact at a depth of 50 to 100 cm
+
+GEOGRAPHIC SETTING:
+Elevation--550 to 790 m
+Climate--warm, relatively dry summers; cool, moist winters
+Mean annual air temperature--8 to 11 degrees C
+Mean annual precipitation--380 to 560 mm
+Frost-free period--100 to 140 days
+
+GEOGRAPHICALLY ASSOCIATED SOILS:
+Alecanyon--sandy-skeletal; on outwash plains
+Cheney--coarse-loamy over sandy or sandy-skeletal; on outwash plains
+Gibbs--moderately deep to bedrock; on outwash plains and basalt plateaus
+Northstar--loamy-skeletal; moderately deep to basalt; on basalt plateaus
+Rockly--shallow to bedrock; on outwash plains and basalt plateaus
+Stutler--loamy-skeletal; on outwash plains and basalt plateaus
+
+DRAINAGE AND PERMEABILITY:
+Drainage class--well drained
+Saturated hydraulic conductivity (Ksat)--moderately high
+
+USE AND VEGETATION:
+Use--dominantly homesite development, crop production, and grazeable woodland; some areas of wildlife habitat and watershed
+Common crops--small grain, hay, pasture
+Potential natural vegetation--ponderosa pine, Idaho fescue, bluebunch wheatgrass, Sandberg bluegrass, Wyeth eriogonum, arrowleaf balsamroot, common yarrow, lupine, common snowberry, common chokecherry, Saskatoon serviceberry, rose, pinegrass
+
+DISTRIBUTION AND EXTENT: Eastern Washington; MLRA 9; small extent
+
+MLRA SOIL SURVEY REGIONAL OFFICE (MO) RESPONSIBLE: Portland, Oregon
+
+SERIES ESTABLISHED: Spokane County, Washington; 2012
+
+REMARKS:
+Diagnostic horizons and other features in this pedon
+*Mollic epipedon--zone from surface to a depth of 38 cm
+*Cambic horizon--zone from 38 to 109 cm
+*Vitrandic feature--zone from surface to a depth of 38 cm
+*Ultic feature--base saturation (sum) less than 75 percent in zone from 25 to 76 cm
+*Depth to lithic contact--119 cm
+*Particle-size control section--zone from 25 to 100 cm
+
+In Spokane County, this series is correlated to the ponderosa pine/common snowberry (PIPO/SYAL) habitat type.
+
+6/2016--This official series description (OSD) was updated as part of the final correlation of the Spokane County, Washington, soil survey. The formatting was updated according to SSR1 Technical Note 11--Content and Format of Official Series Descriptions (revised 12/2015).
+
+ADDITIONAL DATA:
+Laboratory data available--sample number 00WA063-002; Spokane County, Washington; Kellogg Soil Survey Laboratory pedon number 01P0251
+
+National Cooperative Soil Survey
+U.S.A.

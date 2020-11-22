@@ -1,0 +1,134 @@
+LOCATION CALIRALLS              WA
+
+Established Series
+Rev. PNP/KDPL/SBC
+09/2019
+
+CALIRALLS SERIES
+
+Landscape--plateaus, hills
+Landform--structural benches, hillslopes
+Slope--0 to 65 percent
+Parent material--loess and colluvium derived from basalt
+Mean annual precipitation--about 280 mm
+Mean annual air temperature--about 9 degrees C
+Depth class--deep, very deep
+Drainage class--well drained
+Soil moisture regime--aridic
+Soil temperature regime--mesic
+Soil moisture subclass--xeric
+
+TAXONOMIC CLASS: Fine-loamy, mixed, superactive, mesic Calciargidic Argixerolls
+
+TYPICAL PEDON: Caliralls silt loam in an area of rangeland, on a 23-percent, southwest-facing slope at an elevation of 775 m (All textures are apparent field textures.)
+
+ A--0 to 8 cm; silt loam, brown (10YR 5/3) dry, dark brown (10YR 3/3) moist; weak very thick platy structure; slightly hard, very friable, slightly sticky and slightly plastic; many very fine roots; many very fine vesicular and tubular pores; 5 percent gravel; neutral (pH 6.8); abrupt smooth boundary
+
+ AB--8 to 20 cm; silt loam, brown (10YR 5/3) dry, dark brown (10YR 3/3) moist; moderate coarse subangular blocky structure parting to weak very thick platy; slightly hard, friable, slightly sticky and slightly plastic; common very fine roots; common very fine tubular pores; 5 percent gravel; neutral (pH 6.8); clear wavy boundary
+
+ Bt1--20 to 33 cm; silt loam, yellowish brown (10YR 5/4) dry, dark brown (10YR 3/3) moist; moderate fine and medium subangular blocky structure; hard, firm, slightly sticky and slightly plastic; common very fine roots; common fine tubular pores; few faint clay films lining pores; 10 percent gravel; neutral (pH 7.0); clear wavy boundary
+
+ Bt2--33 to 58 cm; gravelly silt loam, yellowish brown (10YR 5/4) dry, brown (10YR 4/3) moist; moderate medium prismatic structure parting to moderate medium subangular blocky; hard, firm, slightly sticky and slightly plastic; common very fine roots; common fine tubular pores; common distinct pressure faces on peds and few patchy faint clay films lining pores; 20 percent gravel; neutral (pH 7.2); clear wavy boundary
+
+ Bt3--58 to 76 cm; gravelly silt loam, yellowish brown (10YR 5/4) dry, brown (10YR 4/3) moist; moderate medium prismatic structure parting to moderate medium subangular blocky; hard, firm, slightly sticky and slightly plastic; common very fine roots; common fine tubular pores; few prominent clay films lining pores; 20 percent gravel; slightly alkaline (pH 7.6); clear wavy boundary
+
+ Btk1--76 to 91 cm; gravelly silt loam, yellowish brown (10YR 5/4) dry, brown (10YR 4/3) moist; moderate fine and medium subangular blocky structure; hard, firm, slightly sticky and slightly plastic; common very fine roots; common fine tubular pores; few prominent clay films on faces of peds; few faint light gray (10YR 7/2) lime coatings in root channels; 20 percent gravel; strongly effervescent; slightly alkaline (pH 7.8); abrupt wavy boundary
+
+ Btk2--91 to 107 cm; gravelly silt loam, yellowish brown (10YR 5/4) dry, brown (10YR 4/3) moist; moderate fine and medium subangular blocky structure; hard, firm, slightly sticky and slightly plastic; few very fine roots; common fine tubular pores; common distinct clay films lining pores; few light gray (10YR 7/2) lime coatings in root channels; 20 percent gravel and 10 percent cobbles; strongly effervescent; moderately alkaline (pH 8.0); clear wavy boundary
+
+ Btk3--107 to 150 cm; gravelly clay loam, yellowish brown (10YR 5/4) dry, dark brown (7.5YR 3/3) exterior of peds, brown (10YR 4/3) moist; moderate fine and medium angular blocky structure; hard, firm, moderately sticky and moderately plastic; few very fine roots; common fine tubular pores; common distinct clay films lining pores; few light gray (10YR 7/2) lime coatings in root channels; common distinct pressure faces on peds; few fine rounded lime nodules; 25 percent gravel and 5 percent cobbles; strongly effervescent; moderately alkaline (pH 8.0)
+
+TYPE LOCATION: Kittitas County, Washington, about 14.5 km south of Kittitas; 75 m south and 300 m west of northeast corner of section 29, T. 16 N., R. 20 E.; Badger Gap U.S. Geological Survey topographic quadrangle; latitude 46.851841, longitude -120.343464; datum WGS 84 (coordinates estimated from section, township, and range)
+
+RANGE IN CHARACTERISTICS:
+Mean annual soil temperature at a depth of 50 cm--8 to 12 degrees C
+Soil moisture control section--dry more than one-half the time when the soil temperature at a depth of 50 cm is higher than 4 degrees C
+Rock fragment content in particle-size control section--15 to 25 percent
+Clay content in particle-size control section--25 to 33 percent
+Depth to lithic contact--more than 100 cm
+Depth to secondary carbonates--65 to 110 cm
+
+A horizon
+Value--4 to 6 dry, 2 or 3 moist
+Thickness--5 to 50 cm
+
+AB horizon
+Value--4 or 5 dry, 3 or 4 moist
+Chroma--3 or 4 dry or moist
+Gravel content--0 to 10 percent
+Thickness--0 to 15 cm
+
+Bt horizon
+Value--4 to 6 dry, 3 or 4 moist
+Chroma--3 or 4 dry or moist
+Texture of fine-earth fraction--clay loam, silt loam
+Gravel content--0 to 35 percent
+Reaction--6.1 to 7.3
+Combined thickness--50 to 76 cm
+
+Btk horizon
+Value--5 or 6 dry, 4 or 5 moist
+Upper part of fine-earth fraction--loam, silt loam, clay loam; 15 to 35 percent gravel
+Lower part of fine-earth fraction--clay loam, silt loam; 15 to 50 percent gravel and 0 to 15 percent cobbles
+Reaction--7.9 to 9.0
+Estimated organic matter content--1 to 2 percent
+Combined thickness--greater than 41 cm
+
+Ck horizon (where present)
+Texture of fine-earth fraction--sandy loam
+Gravel content--15 to 65 percent
+
+COMPETING SERIES:
+Axford--100 to 150 cm (deep) to a paralithic contact (basalt)
+Babbington--no calcic horizon; less than 15 percent calcium carbonate equivalent
+Bamos--50 to 100 cm (moderately deep) to a lithic contact (igneous rock)
+Benwy--less than 15 percent rock fragments in particle-size control section
+Brogan--no calcic horizon; less than 15 percent calcium carbonate equivalent
+Drybed--25 to 50 cm to secondary carbonates
+Haw--less than 15 percent rock fragments in particle-size control section
+Polly--40 to 65 cm to calcium carbonate accumulation
+Zen--50 to 100 cm (moderately deep) to a lithic contact (basalt)
+
+GEOGRAPHIC SETTING:
+Elevation--460 to 1075 m
+Climate--semiarid; warm, dry summers; cold, moist winters
+Mean annual precipitation--230 to 310 mm
+Mean January air temperature--about -4 degrees C
+Mean July air temperature--about 21 degrees C
+Mean annual air temperature--9 to 10 degrees C
+Frost-free season--100 to 170 days
+
+GEOGRAPHICALLY ASSOCIATED SOILS:
+Cheviot--on footslopes and side slopes; loamy-skeletal particle-size class
+Clerf--on hillslopes; clayey-skeletal particle-size class; 50 to 100 cm (moderately deep) to a lithic contact (basalt)
+Grinrod--on hillslopes; loamy-skeletal particle-size class; 50 to 100 cm (moderately deep) to a lithic contact (basalt)
+Horseflat--on hillslopes; loamy-skeletal particle-size class; 30 to 50 cm (shallow) to a lithic contact (basalt)
+Kimama--in drainageways and depressions; fine-silty particle-size class
+Laric--on ridgetops; loamy particle-size class; 15 to 30 cm (very shallow, shallow) to a lithic contact (basalt)
+Vantage--on ridgetops; clayey-skeletal particle-size class; 30 to 50 cm (shallow) to a lithic contact (basalt)
+Wipple--on hillslopes and footslopes; clayey-skeletal particle-size class
+Zen--on ridgetops; 50 to 100 cm (moderately deep) to a lithic contact (basalt)
+
+DRAINAGE AND SATURATED HYDRAULIC CONDUCTIVITY:
+Drainage class--well drained
+Saturated hydraulic conductivity (Ksat)--moderately high
+
+USE AND VEGETATION:
+Use--livestock grazing, wildlife habitat
+Vegetation--bluebunch wheatgrass, Sandberg bluegrass, Wyoming big sagebrush
+
+DISTRIBUTION AND EXTENT: Eastern Kittitas and Yakima Counties, Washington; MLRA 8; moderate extent
+
+SOIL SURVEY REGIONAL OFFICE (SSRO) RESPONSIBLE: Portland, Oregon
+
+SERIES ESTABLISHED: Yakima Training Center, Kittitas County, Washington; 1994
+
+REMARKS:
+Diagnostic horizons and other features recognized in this pedon
+*Mollic epipedon--zone from the surface to a depth of 33 cm
+*Argillic horizon--zone from 20 to 150 cm
+*Calcic horizon--zone from 76 to 150 cm
+*Particle-size control section--zone from 20 to 71 cm
+
+National Cooperative Soil Survey
+U.S.A.

@@ -1,0 +1,143 @@
+LOCATION HUBERLY                OR
+
+Established Series
+Rev. GLG/JGM/EED
+12/2017
+
+HUBERLY SERIES
+
+Landscape--Willamette Valley
+Landform--concave swales of terraces
+Slope--0 to 3 percent
+Parent material--stratified glaciolacustrine deposits from the Missoula Floods
+Mean annual precipitation--about 1150 mm
+Mean annual air temperature--about 11 degrees C
+Depth class--very deep
+Drainage class--poorly drained
+Soil moisture regime--aquic
+Soil temperature regime--mesic
+Soil moisture subclass--typic
+
+TAXONOMIC CLASS: Fine-silty, mixed, superactive, mesic Typic Fragiaqualfs
+
+TYPICAL PEDON: Huberly silt loam in an area of pasture
+
+ A--0 to 20 cm; silt loam, gray (10YR 6/1) dry, very dark gray (10YR 3/1) moist; strong fine subangular blocky structure; slightly hard, friable, nonsticky and slightly plastic; many fine and very fine roots; many very fine irregular pores; 2 percent faint irregular dark gray (10YR 4/1) clay depletions lining pores; moderately acid (pH 6.0); abrupt smooth boundary
+
+ BAg--20 to 38 cm; silt loam, light gray (10YR 7/2) dry, grayish brown (10YR 5/2) moist; moderate medium and fine subangular blocky structure; slightly hard, friable, nonsticky and slightly plastic; common fine roots; many medium to very fine tubular pores; 25 percent fine prominent cylindrical reddish brown (5YR 4/4) iron-manganese masses on surfaces along root channels and 25 percent fine faint irregular dark gray (10YR 4/1) iron depletions lining pores; moderately acid (pH 5.8); clear smooth boundary
+
+ Btg--38 to 64 cm; silt loam, light gray (10YR 7/2) dry, grayish brown (10YR 5/2) moist; moderate coarse subangular blocky structure and moderate medium subangular blocky; hard, friable, slightly sticky and slightly plastic; common fine roots; many fine and very fine tubular pores; 5 percent continuous faint clay films on surfaces along root channels; 25 percent fine prominent cylindrical yellowish red (5YR 4/6) iron-manganese masses on surfaces along root channels and 25 percent fine faint irregular brown (7.5YR 4/2) iron depletions lining pores; moderately acid (pH 5.7); clear smooth boundary
+
+ 2Btxg1--64 to 97 cm; silt loam, light brownish gray (10YR 6/2) dry, dark grayish brown (10YR 4/2) moist; weak coarse subangular blocky structure; hard, firm, nonsticky and slightly plastic; brittle; few very fine roots in cracks; many fine and very fine tubular pores; 10 percent faint clay films on surfaces along pores and root channels and 10 percent faint grayish brown (10YR 5/2) silt and sand coatings on top faces of peds; 15 percent fine distinct cylindrical weak red (7.5R 4/4) iron-manganese masses lining pores; moderately acid (pH 5.6); clear smooth boundary
+
+ 2Btxg2--97 to 150 cm; silt loam, brown (10YR 5/3 and 10YR 4/3) moist; massive with bleached fracture planes that form polygons; hard, firm, slightly sticky and moderately plastic; brittle; few very fine roots in cracks; many medium and fine tubular pores; 5 percent faint clay films on surfaces along root channels; 20 percent medium distinct gray (10YR 5/1) and dark grayish brown (10YR 4/2) iron depletions lining pores; moderately acid (pH 5.6)
+
+TYPE LOCATION: Washington County, Oregon, about 8 m north from the end of Swank Road; in the NW1/4SW1/4 of section 15, T. 2 S., R. 2 W.; latitude 45.3951733, longitude -122.9149393, datum WGS 84 (coordinates estimated from PLSS details)
+
+RANGE IN CHARACTERISTICS:
+Mean annual soil temperature--12 to 13 degrees C
+Moisture control section--seasonal high water table at the surface to a depth of 20 cm below the surface in January through March
+Depth to aquic conditions--at the surface to a depth of 20 cm
+Depth to the argillic horizon--30 to 45 cm
+Depth to the fragipan--50 to 75 cm
+
+Particle-size control section
+*Clay content--22 to 35 percent
+*Sand content--less than 15 percent fine sand or coarser 
+*Total fragment content--0 percent
+
+A horizon
+Hue--10YR, 2.5Y
+Value--3 or 4 moist, 5 or 6 dry
+Chroma--1 or 2 moist or dry
+Clay content--15 to 20 percent
+Sand content--5 to 20 percent; less than 15 percent fine sand or coarser
+Reaction--5.6 to 6.0
+Thickness--18 to 23 cm
+
+BAg horizon
+Hue--10YR, 2.5Y
+Value--4 or 5 moist, 6 or 7 dry
+Chroma--1 or 2 moist or dry
+Clay content--15 to 20 percent
+Sand content--5 to 20 percent; less than 15 percent fine sand or coarser
+Reaction--5.6 to 6.0
+Thickness--13 to 25 cm
+
+Btg horizon
+Hue--10YR, 2.5Y, 5Y
+Value--3 to 5 moist, 5 to 7 dry
+Chroma--2 to 4 moist or dry
+Fine-earth texture--silt loam, silty clay loam
+Clay content--22 to 35 percent
+Sand content--5 to 20 percent; less than 15 percent fine sand or coarser
+Reaction--5.6 to 6.0
+Thickness--15 to 40 cm
+
+2Btxg1 horizon
+Hue--10YR, 2.5Y, 5Y
+Value--3 to 5 moist, 5 to 7 dry
+Chroma--2 to 4 moist or dry
+Clay content--10 to 25 percent
+Sand content--5 to 20 percent; less than 15 percent fine sand or coarser
+Reaction--5.6 to 6.0
+Thickness--10 to 38 cm
+
+2Btxg2 horizon
+Hue--10YR, 2.5Y
+Value--3 to 5 moist, 4 to 6 dry
+Chroma--1 to 4 moist or dry
+Clay content--10 to 25 percent
+Sand content--5 to 20 percent; less than 15 percent fine sand or coarser
+Reaction--5.6 to 6.0
+
+COMPETING SERIES:
+Brinkerton--10 to 80 percent coarse fragments below argillic horizon; prismatic structure in series control section; no lithologic discontinuity
+
+GEOGRAPHIC SETTING:
+Elevation--45 to 80 m
+Climate--warm, dry summers; cool, moist winters
+Mean annual precipitation--1000 to 1300 mm
+Mean annual air temperature--11 to 12 degrees C
+Mean January air temperature--3 degrees C
+Mean July air temperature--19 degrees C
+Frost-free period--165 to 210 days
+
+GEOGRAPHICALLY ASSOCIATED SOILS:
+Aloha--no fragipan; 30 to 60 cm to aquic conditions; in linear positions
+Quatama--no fragipan; 40 to 75 cm to aquic conditions; in linear positions and on short terrace risers
+Woodburn--no fragipan; 50 to 75 cm to aquic conditions; in linear positions
+Verboort--no fragipan; 35 to 55 percent clay in particle-size control section; in similar positions on lower landforms
+
+DRAINAGE AND SATURATED HYDRAULIC CONDUCTIVITY:
+Drainage class--poorly drained
+Saturation in normal years--apparent high water table at the surface to a depth of 20 cm below the surface in January through March; perched water table on top of fragipan
+Flooding--none
+Ponding--none
+Saturated hydraulic conductivity (Ksat)--low
+
+USE AND VEGETATION:
+Use--production of pasture, grass and legume seed, and small grain
+Potential natural vegetation--Oregon ash, willow, California hazel, sedges, grasses
+
+DISTRIBUTION AND EXTENT: Tualatin Valley and northern Willamette Valley, Oregon; MLRA 2; small extent
+
+SOIL SURVEY REGIONAL OFFICE (SSRO) RESPONSIBLE: Portland, Oregon
+
+SERIES ESTABLISHED: Washington County, Oregon; 1975
+
+REMARKS:
+Diagnostic horizons and other features in this pedon
+*Particle-size control section--zone from 38 to 64 cm
+*Ochric epipedon
+*Aquic conditions--zone from 20 to 150 cm
+*Argillic horizon--zone from 38 to 64 cm
+*Fragipan--zone from 97 to 150 cm
+*Depth to lithologic discontinuity--64 cm
+
+This soil is on the Senecal surface as recognized in the Willamette Valley.
+
+8/2017--This official series description was updated according to SSR01 Technical Note 11--Content and Format of Official Series Descriptions (revised 12/2015). The classification was changed from Typic Fragiaquepts to Typic Fragiaqualfs based on recognition of the Bt horizon as argillic.
+
+National Cooperative Soil Survey
+U.S.A.

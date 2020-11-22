@@ -1,0 +1,120 @@
+LOCATION SITAKADAY              AK
+
+Tentative Series
+IRD. DKM/NDP/SCD
+06/2020
+
+SITAKADAY SERIES
+
+Landscape--shore complexes
+Landform--low flood plains
+Slope--0 to 3 percent
+Parent material--alluvium
+Mean annual precipitation--about 1400 mm
+Mean annual air temperature--about 5 degrees C
+Depth class--very deep
+Drainage class--very poorly drained
+Soil moisture regime--aquic
+Soil temperature regime--cryic
+Soil moisture subclass--typic
+
+TAXONOMIC CLASS: Sandy-skeletal, mixed Aquic Cryorthents
+
+TYPICAL PEDON: Sitakaday fine sandy loam on an herbaceous low flood plain, on a slope of 3 percent at an elevation of 1 m (When described on August 10, 2013, the soil was moist throughout.)
+
+ C1--0 to 16 cm; fine sandy loam and lenses of loamy sand, reddish brown (2.5YR 5/3) dry, dark reddish brown (2.5YR 3/3) moist; structureless massive structure; slightly hard, friable, nonsticky and nonplastic; common very fine to medium roots; common very fine and fine interstitial pores; 7 percent masses of oxidized iron, yellowish red (5YR 4/6) moist, and 10 percent iron depletions, olive (5Y 4/3) moist; slightly acid (pH 6.2); strongly saline (electrical conductivity more than 16 dS/m); clear wavy boundary
+
+ C2--16 to 45 cm; variegated very gravelly coarse sand; single grain; loose, nonsticky and nonplastic; common medium roots; common very fine and fine interstitial pores; 12 percent iron depletions, dark gray (5Y 4/1) moist; 50 percent gravel; slightly effervescent (HCL, 1N); neutral (pH 7.2); strongly saline (electrical conductivity more than 16 dS/m); gradual smooth boundary
+
+ C3--45 to 83 cm; variegated extremely gravelly coarse sand; single grain; loose, nonsticky and nonplastic; few very fine and fine interstitial pores; 65 percent gravel; slightly effervescent (HCL, 1N); slightly alkaline (pH 7.6); strongly saline (electrical conductivity more than 16 dS/m); gradual smooth boundary
+
+ C4--83 to 150 cm; variegated extremely gravelly coarse sand; single grain; loose, nonsticky and nonplastic; few very fine interstitial pores; 70 percent gravel; slightly effervescent (HCL, 1N); moderately alkaline (pH 7.9); strongly saline (electrical conductivity more than 16 dS/m)
+
+TYPE LOCATION: Glacier Bay National Park and Preserve-Gustavus Area, Alaska; Hoonah-Angoon Census Area, Alaska; latitude 58.406657, longitude -135.7397508, datum WGS84 (coordinates determined by a GPS unit)
+
+RANGE IN CHARACTERISTICS:
+Mean annual soil temperature--1 to 7 degrees C
+Soil moisture control section--aquic conditions within 25 cm of the soil surface
+Depth to redoximorphic iron concentrations and depletions--within 25 cm of the soil surface
+Other features--free carbonates
+
+Particle-size control section
+*Clay content--0 to 3 percent
+*Total rock fragment content--35 to 85 percent
+
+C1 horizon
+Hue--10YR, 2.5YR, or variegated moist or dry
+Value--3 to 5 moist, 5 to 7 dry
+Chroma--3 to 6 moist or dry
+Fine-earth texture--fine sandy loam, sandy loam
+Clay content--3 to 8 percent
+Reaction (pH)--6.2 to 7.6
+Thickness--15 to 30 cm
+
+C2 horizon
+Hue--10YR, 2.5YR, or variegated moist or dry
+Value--3 to 5 moist, 5 to 7 dry
+Chroma--3 to 6 moist or dry
+Fine-earth texture--coarse sand, sand
+Clay content--1 to 3 percent
+Reaction (pH)--7.2 to 7.9
+Effervescence--very slightly effervescent, slightly effervescent
+Gravel content--35 to 65 percent
+Thickness--25 to 80 cm
+
+C3 and C4 horizons
+Hue--10YR, 2.5YR, or variegated moist or dry
+Value--3 to 5 moist, 5 to 7 dry
+Chroma--3 to 6 moist or dry
+Fine-earth texture--coarse sand, sand
+Clay content--0 to 3 percent
+Reaction (pH)--7.6 to 8.0
+Effervescence--very slightly effervescent to strongly effervescent
+Gravel content--35 to 85 percent
+Combined thickness--35 to 100 cm
+
+COMPETING SERIES:
+Shagcove--25 to 50 cm (somewhat poorly drained) to saturation and aquic conditions
+
+GEOGRAPHIC SETTING:
+Elevation--1 to 20 m
+Climate--cool, moist summers; mild, wet winters
+Mean annual precipitation--850 to 1850 mm
+Mean annual air temperature--1 to 9 degrees C
+Frost-free period--90 to 154 days
+
+GEOGRAPHICALLY ASSOCIATED SOILS:
+Abyss--100 to 150 cm (well drained) to aquic conditions; rarely flooded; on similar landforms
+Excursion--saturation and aquic conditions within 25 cm of soil surface; frequently ponded; on adjacent landforms
+Icy--saturation and aquic conditions within 25 cm of soil surface; frequently ponded; on adjacent landforms
+Murkbay--saturation and aquic conditions below a depth of 150 cm (well drained); not subject to flooding; on similar landforms
+Scidmore--cambic horizon; not subject to flooding; on adjacent landforms
+Strawberry--50 to 100 cm (moderately well drained) to aquic conditions; not subject to flooding; on similar landforms
+
+DRAINAGE AND SATURATED HYDRAULIC CONDUCTIVITY:
+Drainage class--very poorly drained
+Saturated hydraulic conductivity (Ksat)--very high throughout
+Flooding--very frequent, very brief periods; influenced by tides twice daily
+Depth to saturation in normal years--within 25 cm of soil surface, year round 
+
+USE AND VEGETATION:
+Use--wildlife habitat, recreation
+Potential natural vegetation--sea milkwort, silverweed cinquefoil, goose tongue, spike bentgrass, cinquefoil, seacoast angelica, tufted hairgrass, water sedge, red fescue, beach pea, American dunegrass
+
+DISTRIBUTION AND EXTENT: Alexander Archipelago-Gulf of Alaska Coast, Alaska; MLRA 220; small extent
+
+SOIL SURVEY REGIONAL OFFICE (SSRO) RESPONSIBLE: Portland, Oregon
+
+SERIES PROPOSED: Glacier Bay National Park and Preserve-Gustavus Area, Alaska; 2020; name from Sitakaday Narrows in Glacier Bay National Park and Preserve
+
+REMARKS:
+Diagnostic horizons and other features in this pedon
+*Ochric epipedon
+*Redoximorphic iron concentrations--zone from the surface to a depth of 16 cm
+*Redoximorphic iron depletions that have chroma of 2 or less--zone from 16 to 45 cm
+*Aquic conditions--zone from 16 to 150 cm
+*Free carbonates--zone from 16 to 150 cm
+*Particle-size control section--zone from 25 to 100 cm
+
+National Cooperative Soil Survey
+U.S.A.

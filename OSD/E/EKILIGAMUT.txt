@@ -1,0 +1,118 @@
+LOCATION EKILIGAMUT             AK
+
+Established Series
+SAS/TJR/MPR
+03/2019
+
+EKILIGAMUT SERIES
+
+Landscape--shore complex
+Landform--tidal marsh depressions
+Slope--0 to 2 percent
+Parent material--organic material over marine deposits
+Mean annual precipitation--about 760 mm
+Mean annual air temperature--about 1 degree C
+Depth class--very deep
+Drainage class--very poorly drained
+Soil moisture regime--peraquic
+Soil temperature regime--cryic
+Soil moisture subclass--typic
+
+TAXONOMIC CLASS: Euic Typic Cryohemists
+
+TYPICAL PEDON: Ekiligamut mucky peat in a concave depression of a tidal flat, on a slope of 0 percent at an elevation of 5 m (The soil was wet throughout the profile when described on July 26, 2013.)
+
+ Oe--0 to 110 cm; mucky peat, brown (10YR 5/3) dry, dark brown (10YR 3/3) moist; many very fine and fine roots; moderately acid (pH 5.8); gradual smooth boundary
+
+ Oa--110 to 132 cm; muck, grayish brown (10YR 5/2) dry, very dark grayish brown (10YR 3/2) moist; slightly acid (pH 6.1); abrupt smooth boundary
+
+ Cg--132 to 150 cm; silt, 90 percent gray (2.5Y 6/1) dry, dark gray (2.5Y 4/1) moist, and 10 percent brown (10YR 5/3) dry, dark brown (10YR 3/3) moist; massive; moderately hard, firm, slightly sticky and slightly plastic; slightly acid (pH 6.2)
+
+TYPE LOCATION: Dillingham Census Area, Alaska, about 6 km north-northeast of the village of Togiak; latitude 59.1156885 degrees north, longitude 160.3297222 degrees west, datum WGS 84 (coordinates determined with a GPS)
+
+RANGE IN CHARACTERISTICS:
+Mean annual soil temperature--1 to 4 degrees C
+Soil moisture control section--saturated all days during the growing season (peraquic moisture regime)
+Aquic conditions--throughout all horizons
+Other features--reduced matrix
+Thickness of hemic soil material--70 to 140 cm
+Combined thickness of organic soil layers--130 to 145 cm
+
+Oe horizon
+Hue--10YR, 2.5Y
+Value--2 to 4 moist, 4 to 6 dry
+Chroma--2 to 3 moist
+Reaction--5.5 to 7.0
+Organic matter content--60 to 100 percent
+Rubbed fiber content--17 to 40 percent
+Thickness--70 to 140 cm
+
+Oa horizon
+Hue--10YR, 2.5Y
+Value--2 to 3 moist, 4 or 5 dry
+Chroma--2 or 3 moist
+Reaction--6.0 to 7.5
+Organic matter content--40 to 80 percent
+Rubbed fiber content--0 to 17 percent
+Sodium pyrophosphate color value and chroma-when chroma is 2, value is 5 or less; when chroma is 3, value is 6 or less
+Thickness--5 to 60 cm
+
+Cg horizon
+Hue--10YR, 2.5Y, 5Y
+Value--3 to 6 moist, 5 to 8 dry
+Chroma--1 to 3 moist
+Fine-earth texture--silt, very fine sandy loam
+Clay content--2 to 10 percent
+Reaction--6.0 to 7.5
+Electrical conductivity--0 to 4 ds/m
+Thickness--more than 5 cm
+
+COMPETING SERIES:
+Aukamunuk--no reduced matrix; no mineral soil layers; soil reaction ranges to 6.0
+Nolake--no reduced matrix; no mineral soil layers; soil reaction ranges to 6.5
+Grayslake--no reduced matrix; no mineral soil layers
+Koyuktolik--no reduced matrix; mineral soil layer of loam or sandy loam that has 20 to 45 percent coarse fragments; soil reaction ranges to 6.0
+Mariel--no reduced matrix; no mineral soil layers; soil reaction ranges to 6.0
+Snakeriver--no reduced matrix; no mineral soil layers; soil reaction ranges to 6.1
+Wocus--limnic diatomaceous material at a depth of 140 cm or more
+
+GEOGRAPHIC SETTING:
+Elevation--0 to 15 m
+Climate--warm, moist summers; cold, moist winters
+Mean annual precipitation--760 to 780 mm
+Mean annual air temperature--0.9 to 1.7 degrees C
+Frost-free period--85 to 140 days
+
+GEOGRAPHICALLY ASSOCIATED SOILS:
+Nimgun--no silty marine deposits; soil reaction ranges to 6.5; fens on plains
+Kipnuktuli--combined thickness of organic soil layers ranges to less than 130 cm; similar landscape positions
+Anchor--histic epipedon; no hemic soil material; similar landscape positions
+
+DRAINAGE AND SATURATED HYDRAULIC CONDUCTIVITY:
+Drainage class--very poorly drained
+Flooding--very frequent, very brief
+Saturation in normal years--at the surface during all months
+Saturated hydraulic conductivity (Ksat)--moderately high or high in the organic soil material, moderately high in the Cg horizon
+
+USE AND VEGETATION:
+Use--wildlife habitat, recreation, subsistence
+Potential natural vegetation--bog rosemary, bog blueberry, water sedge and other sedges, tall cottongrass, red cottongrass, tufted bulrush, purple marshlocks, buckbean, sphagnum mosses
+
+DISTRIBUTION AND EXTENT: Ahklun Mountains, Alaska; MLRA 237; small extent
+
+SOIL SURVEY REGIONAL OFFICE (SSRO) RESPONSIBLE: Portland, Oregon
+
+SERIES ESTABLISHED: Togiak National Wildlife Refuge, Dillingham Census Area, Alaska; 2019
+
+REMARKS:
+Diagnostic horizons and other features in this pedon
+*Control section--zone from 0 to 130 cm
+*Surface tier--zone from 0 to 30 cm
+*Subsurface tier--zone from 30 to 90 cm
+*Bottom tier--zone from 90 to 130 cm
+*Hemic soil material--zone from 0 to 110 cm
+*Reduced matrix--Cg horizon
+*Aquic condition--0 to 150 cm
+
+National Cooperative Soil Survey
+U.S.A.

@@ -1,0 +1,97 @@
+LOCATION ISOSCELES              CA
+
+Tentative Series
+JBB/CES/JTW
+10/2019
+
+ISOSCELES SERIES
+
+The Isosceles series consists of very shallow and shallow, well drained soils formed in residuum weathered from granitic rocks. The Isosceles soils are on structural benches on cirques and mountain slopes of the Sierra Nevada Mountains. Slopes range from 2 to 30 percent. The mean annual precipitation is about 1075 mm and the mean annual air temperature is about 2 degrees C.
+
+TAXONOMIC CLASS: Loamy, isotic Lithic Humicryepts
+
+TYPICAL PEDON: Isosceles flaggy sandy loam on a southwest-facing (215 degree), 6 percent slope under threadleaf sedge and scattered whitebark pine at an elevation of 3354 meters. (Colors are for dry soils unless otherwise noted. When described on August 12, 2013 the soil was dry to 8 cm.)
+
+ A1--0 to 8 cm; very dark grayish brown (10YR 3/2) flaggy sandy loam, very dark brown (10YR 2/2) moist; 5 percent clay; moderate very fine granular structure; soft, very friable, nonsticky, nonplastic; many very fine and common fine roots throughout; common very fine irregular pores; 5 percent indurated granite gravel, 5 percent indurated granite channers, 15 percent indurated granite flagstones; NaF pH 10.5; very strongly acid (pH 4.6); gradual smooth boundary.
+
+ A2--8 to 19 cm; brown (10YR 4/3) sandy loam, very dark brown (10YR 2/2) moist; 7 percent clay; moderate fine granular structure; soft, very friable, nonsticky, nonplastic; common very fine and fine roots throughout; common very fine irregular pores; 5 percent indurated granite gravel, 2 percent indurated granite channers, 5 percent indurated granite flagstones; NaF pH 10.5; very strongly acid (pH 4.6); clear smooth boundary.
+
+ A3--19 to 40 cm; brown (10YR 4/3) sandy loam, dark brown (10YR 3/3) moist; 6 percent clay; weak fine granular structure; soft, very friable, slightly sticky, nonplastic; few very fine and fine roots throughout; common very fine irregular pores; 5 percent indurated granite gravel, 2 percent indurated granite channers; NaF pH 10.5; very strongly acid (pH 4.8); abrupt smooth boundary. (combined thickness of A horizons is 10 to 40 cm)
+
+ R--40 cm; Indurated granite bedrock, fractured at intervals of <200 cm.
+
+TYPE LOCATION: Fresno County, California, near Twin Lakes in Kings Canyon National Park;  USGS 7.5 minute topographic quadrangle: Mount Pinchot, California;  WGS84 36.917828 latitude and -118.392931 longitude;  UTM zone 11 4086663 meters N 375926 meters E NAD83.
+
+RANGE IN CHARACTERISTICS:
+Soil temperature: The mean annual soil temperature at 50 cm is -1 to 5 degrees C and the difference between mean summer and mean winter soil temperature is greater than 6 degrees C. The soils have a cryic temperature regime.
+
+Soil moisture: The soils have a xeric soil moisture regime. The soil moisture control section is dry in all parts from about August to October (about 90 days).
+
+Diagnostic Feature(s):
+  Umbric epipedon thickness:  10 to 40 cm
+  Depth to lithic contact:  10 to 50 cm
+
+Organic matter: 1 to 5 percent in the epipedon
+
+Base saturation: less than 50 percent (by ammonium acetate).
+
+Particle size control section weighted average:
+  Rock fragments: 0 to 35 percent, with 0 to 25 percent gravel, 0 to 15 percent cobbles, 0 to 5 percent stones, 0 to 15 percent channers, and 0 to 15 percent flagstones.
+  Clay content: 4 to 12 percent
+  NaF pH: 10.0 to 11.0
+
+A horizons
+  Hue: 7.5YR, 10YR
+  Value: 4 or 5 dry, 2 or 3 moist
+  Chroma: 2 or 3, dry or moist
+  Texture: sandy loam, fine sandy loam
+  Clay content: 2 to 12 percent
+  Rock fragments: 0 to 35 percent
+	0 to 25 percent gravel
+	0 to 15 percent cobbles
+	0 to 5 percent stones
+	0 to 15 percent channers
+	0 to 15 percent flagstones
+  Reaction: very strongly to moderately acid
+
+Bw horizons (where present)
+  Hue: 7.5YR, 10YR
+  Value: 4 or 5 dry, 2 or 3 moist
+  Chroma: 3 or 4 dry, 2 to 4 moist
+  Texture: sandy loam, fine sandy loam
+  Clay content: 5 to 12 percent
+  Rock fragments: 10 to 35 percent
+	10 to 30 percent gravel
+	0 to 15 percent cobbles
+	0 to 5 percent stones
+  Reaction: extremely to moderately acid
+
+COMPETING SERIES: These are the Meiss soils. Meiss soils formed in andesitic rock and have ashy textures.
+
+GEOGRAPHIC SETTING: The Isosceles soils are on structural benches of cirques and mountain slopes. Slopes range from 2 to 30 percent. These soils formed in colluvium and residuum weathered from granite and granodiorite, often in narrow bedrock fractures and fissures. Elevation is 2420 to 4135 meters. The climate is Mediterranean with warm, dry summers and cool, moist winters. The mean annual precipitation is 610 to 1505 mm and the mean annual air temperature is -2 to 4 degrees C. The frost free season is 40 to 90 days.
+
+GEOGRAPHICALLY ASSOCIATED SOILS: Isosceles soils are typically associated with granitic, glacially scoured rock outcrop, and with the Langille soils. Langille soils are 50 to 100 cm to lithic contact and are found in similar landscape positions.
+
+DRAINAGE AND PERMEABILITY: Well drained, high saturated hydraulic conductivity. Saturated hydraulic conductivity of the bedrock is very low to high.
+
+USE AND VEGETATION: This soil is used for recreation, wildlife habitat, and watershed. Vegetation is whitebark pine, western needlegrass, threadleaf sedge, mountain pride, Ross sedge, bottlebrush squirreltail,and Parry's rush. Sierra juniper may be present in some areas.
+
+DISTRIBUTION AND EXTENT: Sierra Nevada Mountains of California; MLRA 22A. These soils are of moderate extent.
+
+SOIL SURVEY REGIONAL OFFICE (SSRO) RESPONSIBLE: Davis, California
+
+SERIES PROPOSED: Fresno County, California in Sequoia and Kings Canyon National Parks. Source of name from Isosceles Peak in Kings Canyon National Park.
+
+REMARKS: 
+  Particle Size Control Section for this pedon: 25 to 40 cm.
+  Diagnostic horizons and features recognized in this pedon are: 
+     Umbric Epipedon            0 to 40 cm
+     Lithic Contact                  40 cm
+
+ADDITIONAL DATA: 
+  NASIS User Pedon ID: 2013CA7927511
+
+Soil classified using the 12th Edition of the Keys to Soil Taxonomy.
+
+National Cooperative Soil Survey
+U.S.A.

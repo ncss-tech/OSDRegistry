@@ -1,0 +1,122 @@
+LOCATION FANAL                  WA
+
+Established Series
+Rev. JDC/MEH/RJE/RWL
+09/2019
+
+FANAL SERIES
+
+Landscape--hills
+Landform--hillslopes
+Slope--2 to 8 percent
+Parent material--alluvium and colluvium derived from basalt with an influence of volcanic ash in upper part
+Mean annual precipitation--about 890 mm
+Mean annual air temperature--about 8 degrees C
+Depth class--very deep
+Drainage class--moderately well drained
+Soil moisture regime--xeric
+Soil temperature regime--mesic
+Soil moisture subclass--typic
+
+TAXONOMIC CLASS: Coarse-loamy, mixed, superactive, mesic Vitrandic Haploxerolls
+
+TYPICAL PEDON: Fanal ashy sandy loam in an area of pasture, on a 4-percent, northwest-facing toeslope at an elevation of 560 m
+
+ A1--0 to 10 cm; ashy sandy loam, brown (10YR 4/3) dry, dark brown (10YR 3/3) moist; weak very fine granular structure; slightly hard, friable, slightly sticky and slightly plastic; many very fine and common fine roots; many very fine irregular pores; 10 percent gravel; NaF pH 8.0; moderately acid (pH 6.0); clear smooth boundary
+
+ A2--10 to 30 cm; gravelly ashy sandy loam, brown (10YR 4/3) dry, dark brown (7.5YR 3/2) moist; weak very fine subangular blocky structure; slightly hard, friable, slightly sticky and slightly plastic; common very fine and fine roots; many very fine irregular pores and few very fine tubular pores; 20 percent gravel; NaF pH 8.0; moderately acid (pH 6.0); clear smooth boundary
+
+ Bw1--30 to 79 cm; sandy loam, brown (10YR 4/3) dry, dark brown (7.5YR 3/4) moist; weak very fine and fine subangular blocky structure; slightly hard, friable, slightly sticky and slightly plastic; common very fine and fine roots; many very fine irregular pores and few very fine tubular pores; 10 percent gravel; NaF pH 7.9; slightly acid (pH 6.2); abrupt wavy boundary
+
+ Bw2--79 to 112 cm; sandy loam, yellowish brown (10YR 5/4) dry, brown (7.5YR 4/4) moist; few fine distinct redoximorphic concentrations, brownish yellow (10YR 6/6) dry, yellowish red (5YR 5/6) moist; weak very fine subangular blocky structure; hard, friable, slightly sticky and slightly plastic; common very fine roots; many very fine irregular pores; 10 percent gravel; NaF pH 8.0; slightly acid (pH 6.4); clear wavy boundary
+
+ C--112 to 150 cm; sandy loam, light brown (7.5YR 6/4) dry, dark brown (7.5YR 3/4) moist; common fine distinct redoximorphic concentrations, reddish yellow (5YR 6/6) dry, yellowish red (5YR 5/6) moist; massive; slightly hard, friable, slightly sticky and slightly plastic; few very fine roots; common very fine and fine irregular pores; 10 percent gravel; NaF pH 8.0; neutral (pH 6.6)
+
+TYPE LOCATION: Klickitat County, Washington, about 6.5 km south of Glenwood; about 300 m north and 610 m west of the southeast corner of section 34, T. 6 N., R. 12 E.
+
+RANGE IN CHARACTERISTICS:
+Moisture control section--usually moist, but dry 45 to 60 consecutive days
+Mean annual soil temperature--8 to 9 degrees C
+Particle-size control section--averages 10 to 18 percent clay and 5 to 15 percent rock fragments
+Upper 25 to 35 cm--5 to 10 percent volcanic glass; acid oxalate aluminum plus one-half iron of 0.4 to 1.0 percent
+Thickness of solum--100 to 150 cm
+Depth to redoximorphic concentrations--75 to 100 cm
+
+A horizon
+Hue--5YR, 10YR
+Value--4 or 5 dry
+Chroma--2 or 3 moist
+Texture--ashy sandy loam in upper part, ashy loam or gravelly ashy sandy loam in lower part
+Reaction--5.6 to 6.5
+Combined thickness--23 to 43 cm
+
+Bw horizon
+Hue--7.5YR, 10YR
+Value--4 to 6 dry, 3 or 4 moist
+Chroma--2 to 4 dry or moist
+Texture--sandy loam, loam, gravelly sandy loam
+Reaction--5.6 to 6.5
+Combined thickness--64 to 114 cm
+
+C horizon
+Hue--7.5YR, 10YR
+Value--4 to 7 dry, 3 or 4 moist
+Chroma--2 to 4 dry or moist
+Color of redoximorphic concentrations--hue of 5YR to 10YR; value of 5 to 7 dry, 4 to 6 moist; chroma of 4 to 6 dry or moist
+Texture--sandy loam, loam, sandy clay loam
+Reaction--5.6 to 7.3
+
+COMPETING SERIES:
+Cabincreek--100 to 150 cm (deep) to a lithic contact (metavolcanic rock)
+Conconully--50 to 100 cm (moderately deep) to dense glacial till; dry 90 to 105 consecutive days following summer solstice
+Deno--100 to 150 cm (deep) to a lithic contact (basalt); dry 60 to 90 consecutive days following summer solstice
+Doublecreek--dry 90 to 120 consecutive days following summer solstice
+Phoebe--dry 60 to 90 consecutive days following summer solstice
+Safety--50 to 100 cm (moderately deep) to a paralithic contact (granite); dry 75 to 90 consecutive days following summer solstice
+Stevens--64 to 100 cm (moderately deep) to densic material; dry 60 to 90 consecutive days following summer solstice
+Uhlig--dry 60 to 75 consecutive days following summer solstice
+
+GEOGRAPHIC SETTING:
+Elevation--550 to 760 m
+Climate--warm, dry summers; cool, wet winters; intermittent snow cover in December through March
+Mean annual precipitation--760 to 1000 mm
+Mean January air temperature--about -3 degrees C
+Mean July air temperature--about 19 degrees C
+Mean annual air temperature--about 7 to 9 degrees C
+Frost-free season--60 to 90 days, but damaging frost may occur any month of the year
+
+GEOGRAPHICALLY ASSOCIATED SOILS:
+Conboy--aquic soil moisture regime; in lake basins
+Grayland--aquic soil moisture regime; on lacustrine terraces
+Kaiders--loamy-skeletal particle-size class; on foothills
+McGowan, Para, Tigit--argillic horizon; on plateaus
+
+DRAINAGE AND SATURATED HYDRAULIC CONDUCTIVITY:
+Drainage class--moderately well drained
+Saturated hydraulic conductivity (Ksat)--moderately high
+Saturation in normal years--below a depth of 100 cm in February and March, below a depth of 147 cm in January and April
+Flooding--occasional, brief
+
+USE AND VEGETATION:
+Use--mainly pasture production; some timber production
+Introduced species--tall fescue, bulbous bluegrass
+Native vegetation--mainly ponderosa pine and some Douglas-fir and Oregon white oak and an understory of common snowberry, woods rose, Canada bluegrass, tufted hairgrass, and spirea
+
+DISTRIBUTION AND EXTENT: Klickitat County, Washington; MLRA 6; small extent
+
+SOIL SURVEY REGIONAL OFFICE (SSRO) RESPONSIBLE: Portland, Oregon
+
+SERIES ESTABLISHED: Klickitat County, Washington; 1976
+
+REMARKS:
+Diagnostic horizons and other features recognized in this pedon
+*Mollic epipedon--zone from the surface to a depth of 30 cm
+*Cambic horizon--zone from 30 to 112 cm
+*Particle-size control section--zone from 25 to 100 cm
+*Vitrandic feature--zone from the surface to a depth of 30 cm
+
+ADDITIONAL DATA:
+Partial laboratory data--sample number 78WA-039-006
+
+National Cooperative Soil Survey
+U.S.A.

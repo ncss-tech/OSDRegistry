@@ -1,0 +1,129 @@
+LOCATION LONERIDGE              WA+OR
+
+Established Series
+Rev. SP/KDPL/KMS
+09/2019
+
+LONERIDGE SERIES
+
+Landscape--mountains
+Landform--mountain slopes, ridges, benches, summits
+Slope--0 to 65 percent
+Parent material--residuum and colluvium derived from basalt or andesite with a mantle of mixed loess and volcanic ash
+Mean annual precipitation--about 760 mm
+Mean annual air temperature--about 7 degrees C
+Depth class--very deep
+Drainage class--well drained
+Soil moisture regime--xeric
+Soil temperature regime--frigid
+Soil moisture subclass--typic
+
+TAXONOMIC CLASS: Clayey-skeletal, smectitic, frigid Vertic Palexeralfs
+
+TYPICAL PEDON: Loneridge stony ashy loam, forested (Textures are based on apparent field textures.)
+
+ Oi--0 to 3 cm; slightly decomposed fir needles, leaves, and twigs
+
+ A--3 to 13 cm; ashy loam, brown (10YR 5/3) dry, dark brown (10YR 3/3) moist; weak fine granular structure; soft, very friable, nonsticky and slightly plastic; many very fine and fine and common medium roots; few very fine irregular pores; 2 percent cobbles; NaF pH 8.5; moderately acid (pH 6.0); abrupt smooth boundary
+
+ E--13 to 30 cm; very gravelly ashy loam, pale brown (10YR 6/3) dry, brown (10YR 4/3) moist; weak fine subangular blocky structure; slightly hard, very friable, slightly sticky and slightly plastic; common fine, medium, and coarse roots; common very fine irregular pores; 30 percent gravel and 10 percent cobbles; NaF pH 8.5; moderately acid (pH 6.0); abrupt wavy boundary
+
+ BE--30 to 51 cm; very cobbly ashy loam, light brown (7.5YR 6/4) dry, brown (7.5YR 4/4) moist; moderate medium subangular blocky structure; slightly hard, friable, slightly sticky and slightly plastic; common fine and medium and few coarse roots; few very fine irregular pores; 25 percent gravel and 25 percent cobbles; slightly acid (pH 6.2); abrupt smooth boundary
+
+ 2Bt1--51 to 79 cm; very cobbly clay, light yellowish brown (10YR 6/4) dry, dark yellowish brown (10YR 4/4) moist; strong fine subangular blocky structure; hard, very firm, moderately sticky and moderately plastic; few fine and medium roots; few very fine irregular pores; many distinct clay films on faces of peds; common distinct clay films on rock fragments; 30 percent gravel and 20 percent cobbles; slightly acid (pH 6.2); abrupt smooth boundary
+
+ 2Bt2--79 to 119 cm; very cobbly clay, yellowish brown (10YR 5/4) dry, dark yellowish brown (10YR 3/4) moist; strong medium subangular blocky structure; very hard, extremely firm, very sticky and very plastic; few fine roots; continuous prominent clay films on faces of peds and many prominent clay films on rock fragments; 20 percent gravel and 20 percent cobbles; slightly acid (pH 6.2); abrupt smooth boundary
+
+ 2Bt3--119 to 155 cm; extremely gravelly clay, pale brown (10YR 6/3) dry, brown (10YR 4/3) moist; moderate medium subangular blocky structure; very hard, very firm, moderately sticky and moderately plastic; many distinct clay films on faces of peds and rock fragments; 50 percent gravel and 20 percent cobbles; moderately acid (pH 6.0)
+
+TYPE LOCATION: Kittitas County, Washington, about 1 km southeast of Walter Flat, in Naneum Basin; about 670 m north and 240 m east of the southwest corner of section 23, T. 20 N., R. 19 E., Willamette Meridian; latitude 47.2105942, longitude -120.4253998, datum WGS 84 (coordinates estimated from section, township, and range)
+
+RANGE IN CHARACTERISTICS:
+Mean annual soil temperature--6 to 8 degrees C
+Clay content in particle-size control section--35 to 55 percent
+Percentage of surface covered with stones--0 to 3 percent
+Rock fragment content in particle-size control section--35 to 75 percent
+Base saturation--55 to 65 percent (sum)
+Reaction--5.6 to 7.3
+
+Vitrandic soil properties in upper 20 to 50 cm
+*Moist bulk density--0.85 to 1.10 g/cm3
+*Volcanic glass content--5 to 20 percent
+*Acid oxalate aluminum plus one-half iron--0.4 to 1.0 percent
+*15-bar water retention (air-dried samples)--5 to 12 percent
+
+A horizon
+Hue--7.5YR, 10YR
+Value--4 to 6 dry, 2 to 4 moist
+Chroma--2 to 4 dry or moist
+Gravel content--0 to 20 percent
+Cobbles content--0 to 20 percent
+Thickness--8 to 25 cm
+
+A2 horizon (where present)
+Texture of fine-earth fraction--ashy sandy loam
+Gravel content--15 to 25 percent
+Cobbles content--15 to 25 percent
+
+E and BE horizons (where present)
+Hue--7.5YR, 10YR
+Value--4 to 6 dry, 3 or 4 moist
+Chroma--3 or 4 dry or moist
+Texture of fine-earth fraction--ashy sandy loam, ashy loam, ashy silt loam
+Gravel content--15 to 40 percent
+Cobbles content--15 to 35 percent
+Thickness of E horizon--0 to 30 cm
+Thickness of BE horizon--0 to 38 cm
+
+2Bt horizon
+Hue--7.5YR, 10YR
+Value--4 to 6 dry, 3 or 4 moist
+Chroma--3 to 5 dry or moist
+Texture of fine-earth fraction--clay, clay loam, silty clay loam
+Clay content--35 to 50 percent
+Gravel content--15 to 60 percent
+Cobbles content--15 to 35 percent
+Thickness of 2Bt1 horizon--20 to 46 cm
+Thickness of 2Bt2 horizon--23 to 51 cm
+
+COMPETING SERIES: None
+
+GEOGRAPHIC SETTING:
+Elevation--730 to 1650 m
+Climate--warm, dry summers; cool, moist winters
+Mean annual precipitation--510 to 1150 mm
+Mean January air temperature--about -4 degrees C
+Mean July air temperature--about 19 degrees C
+Mean annual air temperature--6 to 7 degrees C
+Growing season (at -2 degrees C)--125 to 170 days in Washington, 75 to 100 days in Oregon
+Frost-free season--70 to 110 days in Washington, 50 to 90 days in Oregon
+
+GEOGRAPHICALLY ASSOCIATED SOILS:
+Jumpe, Sutkin--loamy-skeletal; no argillic horizon
+Stemilt--loamy-skeletal
+Sapkin--loamy-skeletal; 50 to 100 cm (moderately deep) to a lithic contact (basalt)
+
+DRAINAGE AND SATURATED HYDRAULIC CONDUCTIVITY:
+Drainage class--well drained
+Saturated hydraulic conductivity (Ksat)--moderately low
+
+USE AND VEGETATION:
+Use--timber production, livestock grazing, recreation, wildlife habitat, watershed
+Native vegetation--Douglas-fir, ponderosa pine, grand fir, western larch, pinegrass, elk sedge, Oregon grape, ceanothus, creambush oceanspray, lupine, common snowberry, pinemat manzanita
+
+DISTRIBUTION AND EXTENT: Central Washington and northeastern Oregon; MLRA 6; moderate extent
+
+SOIL SURVEY REGIONAL OFFICE (SSRO) RESPONSIBLE: Portland, Oregon
+
+SERIES ESTABLISHED: Chelan County Area, Washington; 1969
+
+REMARKS:
+Diagnostic horizons and other features recognized in this pedon
+*Ochric epipedon
+*Argillic horizon--zone from 48 to 155 cm; abrupt clay increase of more than 15 percent (absolute) at top; little, if any, clay decrease to a depth of 155 cm
+*Vitrandic feature--zone from the surface to a depth of 48 cm
+*Ultic feature--zone from 48 to 155 cm; estimated base saturation (sum) of 55 to 65 percent
+*Particle-size control section--zone from 50 to 100 cm
+
+National Cooperative Soil Survey
+U.S.A.

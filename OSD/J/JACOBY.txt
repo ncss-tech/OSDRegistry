@@ -1,0 +1,130 @@
+LOCATION JACOBY                 ID
+
+Established Series
+Rev. RG/WGH/RGK/CBR
+05/2018
+
+JACOBY SERIES
+
+Landscape--lava fields
+Landform--lava flows
+Slope--0 to 8 percent
+Parent material--eolian deposits over basalt
+Mean annual precipitation--about 350 mm
+Mean annual air temperature--about 5.6 degrees C
+Depth class--deep
+Drainage class--well drained
+Soil moisture regime--xeric
+Soil temperature regime--frigid
+
+TAXONOMIC CLASS: Coarse-loamy, mixed, superactive, frigid Calcic Haploxerolls
+
+TYPICAL PEDON: Jacoby fine sandy loam under shrubs (Colors are for dry soil unless otherwise noted.)
+
+ A1--0 to 5 cm; brown (10YR 4/3) fine sandy loam, very dark grayish brown (10YR 3/2) moist; weak fine granular structure; soft, very friable, nonsticky and nonplastic; common very fine and fine roots; few very fine and fine vesicular pores; 5 percent gravel; slightly acid (pH 6.4); clear smooth boundary
+
+ A2--5 to 15 cm; brown (10YR 4/3) fine sandy loam, dark brown (10YR 3/3) moist; weak fine and medium subangular blocky structure; soft, very friable, nonsticky and nonplastic; common very fine and fine and few medium roots; few very fine and fine vesicular pores; 5 percent gravel; neutral (pH 7.3); abrupt smooth boundary
+
+ ABk--15 to 28 cm; brown (10YR 4/3) fine sandy loam, dark brown (10YR 3/3) moist; weak medium subangular blocky structure; soft, very friable, slightly sticky and slightly plastic; many very fine and fine roots; common very fine and fine vesicular pores; finely disseminated calcium carbonate throughout and 1 percent fine weakly cemented calcium carbonate nodules in matrix; slightly effervescent (11 percent calcium carbonate equivalent); 10 percent gravel; slightly alkaline (pH 7.6); abrupt smooth boundary
+
+ Bk1--28 to 41 cm; brown (10YR 5/3) loam, brown (10YR 4/3) moist; moderate medium subangular blocky structure parting to strong fine subangular blocky; soft, very friable, slightly sticky and slightly plastic; many very fine and fine roots; few very fine and fine vesicular pores; finely disseminated calcium carbonate throughout and 9 percent fine, medium, and coarse moderately cemented calcium carbonate nodules in matrix; violently effervescent (28 percent calcium carbonate equivalent); 12 percent gravel; slightly alkaline (pH 7.7); clear wavy boundary
+
+ Bk2--41 to 102 cm; light gray (10YR 7/2) gravelly loam, pale brown (10YR 6/3) moist; moderate medium subangular blocky structure; slightly hard, firm, slightly sticky and slightly plastic; few very fine and fine roots; few very fine and fine vesicular pores; finely disseminated calcium carbonate throughout, calcium carbonate coatings less than 1 mm thick on faces of peds and around rock fragments, and 9 percent fine, medium, and coarse moderately cemented calcium carbonate nodules in matrix; violently effervescent (30 percent calcium carbonate equivalent); 18 percent gravel; slightly alkaline (pH 7.7); clear wavy boundary
+
+ Bkq--102 to 150 cm; light gray (10YR 7/2) extremely gravelly sandy loam, pale brown (10YR 6/3) moist; massive; slightly hard, friable, slightly sticky and slightly plastic; few very fine roots; few very fine vesicular pores; calcium carbonate and silica coatings 1 to 3 mm thick around rock fragments and 30 percent fine, medium, and coarse irregular moderately cemented calcium carbonate nodules in matrix; violently effervescent (27 percent calcium carbonate equivalent); 50 percent gravel and 20 percent cobbles; strongly alkaline (pH 8.8); gradual wavy boundary
+
+ 2R--150 cm; vesicular basalt
+
+TYPE LOCATION: Clark County, Idaho; latitude 44.18478 degrees north, longitude 112.03478 degrees west, datum WGS 84
+
+RANGE IN CHARACTERISTICS:
+Mean annual soil temperature--5.0 to 7.2 degrees C
+Depth to bedrock--100 to 150 cm
+Thickness of mollic epipedon--28 to 36 cm
+Depth to calcic horizon--5 to 20 cm
+
+Particle-size control section (weighted averages)
+Total clay content--15 to 20 percent
+Carbonate clay content--2 to 10 percent
+Non-carbonate clay content--8 to 12 percent
+Total rock fragment content--5 to 20 percent
+
+A horizon
+Value--4 or 5 dry
+Chroma--2 or 3 dry or moist
+Total clay content--12 to 16 percent
+Gravel content--0 to 5 percent
+Reaction--pH 6.3 to 7.3
+Thickness--5 to 20 cm
+
+ABk horizon
+Value--4 to 7 dry, 3 or 4 moist
+Chroma--2 or 3 moist
+Texture (less than 2-mm fraction)--fine sandy loam, loam
+Gravel content--0 to 10 percent
+Calcium carbonate equivalent--5 to 15 percent
+Content of weakly cemented cicada nodules--5 to 10 percent
+Reaction--pH 7.9 to 8.4
+Thickness--13 to 18 cm
+
+Bk horizon
+Value--5 to 8 dry, 4 to 7 moist
+Chroma--2 or 3 dry or moist
+Total clay content--12 to 18 percent
+Gravel content--0 to 20 percent
+Calcium carbonate equivalent--15 to 50 percent, weighted average of 25 to 40 percent
+Content of moderately cemented cicada nodules--5 to 10 percent
+Reaction--pH 7.9 to 8.4
+Thickness--47 to 99 cm
+
+Bkq horizon
+Hue--2.5Y or 10YR dry or moist
+Value--6 or 7 dry or moist
+Chroma--2 or 3 dry or moist
+Total rock fragment content--5 to 70 percent
+Gravel content--0 to 50 percent
+Cobble content--5 to 20 percent
+Content of moderately cemented cicada nodules--25 to 45 percent
+Calcium carbonate equivalent--15 to 50 percent, weighted average of 25 to 40 percent
+Reaction--pH 8.2 to 8.4
+Thickness--35 to 48 cm
+
+COMPETING SERIES:
+Arbone, Blacknoll--very deep
+Kackley, Kearl--moderately deep to lithic contact
+
+GEOGRAPHIC SETTING:
+Elevation--1550 to 1770 m
+Mean annual precipitation--300 to 425 mm
+Mean annual air temperature--3.9 to 6.7 degrees C
+Frost-free period--70 to 100 days
+
+GEOGRAPHICALLY ASSOCIATED SOILS: None listed
+
+DRAINAGE AND SATURATED HYDRAULIC CONDUCTIVITY:
+Drainage class--well drained
+Saturated hydraulic conductivity (Ksat)--5 to 50 um/sec
+
+USE AND VEGETATION:
+Major uses--rangeland, wildlife habitat
+Potential natural vegetation--threetip sagebrush, Wyoming big sagebrush, twisted leaf rabbitbrush, antelope bitterbrush, bluebunch wheatgrass, Nevada bluegrass, Sandberg bluegrass, needle and thread, prairie Junegrass, Hood's phlox, bushy bird's-beak, horsebrush
+
+DISTRIBUTION AND EXTENT: Moderate extent in eastern Idaho; MLRA 11
+
+SOIL SURVEY REGIONAL OFFICE (SSRO) RESPONSIBLE: Portland, Oregon
+
+SERIES ESTABLISHED: Clark County, Idaho; 1959
+
+REMARKS:
+Diagnostic horizons and other features in this pedon
+Mollic epipedon--zone from the surface to a depth of 28 cm (A1, A2, and ABk horizons)
+Calcic horizon--zone from 15 to 150 cm (ABk, Bk1, Bk2, and Bkq horizons)
+Depth to lithic contact--150 cm (2R horizon)
+Particle-size control section-- zone from 25 to 100 cm
+
+Based on the final mapping extent, the type location was moved in 2008 from north of Dubois to the current location. This location better reflects the concept of the series, which includes a profile that is deep to basalt and has carbonate nodules.
+
+Taxonomic version--Twelfth Edition, 2014
+
+National Cooperative Soil Survey
+U.S.A.

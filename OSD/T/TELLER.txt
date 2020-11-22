@@ -1,0 +1,132 @@
+LOCATION TELLER                 OK+TX
+
+Established Series
+Rev. ELG:GFS:JLD
+03/2016
+
+TELLER SERIES
+
+The Teller series consists of very deep, well drained, moderately permeable soils that formed in loamy sediments of Pleistocene age. These nearly level to sloping soils are on treads and risers of stream terraces in the Central Rolling Red Prairies (MLRA 80A). Slope ranges from 0 to 8 percent. Mean annual air temperature is 16 degrees C (61 degrees F), and mean annual precipitation is 953 mm (37 in).
+
+TAXONOMIC CLASS: Fine-loamy, mixed, active, thermic Udic Argiustolls
+
+TYPICAL PEDON:  Teller fine sandy loam in a cultivated field. 280 m (920 ft) (Colors are for dry soil unless otherwise stated.)
+
+  Ap--0 to 15 cm (0 to 6 in); brown (10YR 5/3) fine sandy loam, dark brown (10YR 3/3) moist; weak fine and medium granular structure; slightly hard, very friable; moderately acid; clear smooth boundary. (Thickness of the Ap horizon is 0 to 28 cm [0 to 11 in])
+
+  A--15 to 38 cm (6 to 15 in); brown (10YR 4/3) fine sandy loam, dark brown (10YR 3/3) moist; moderate medium and fine granular structure; slightly hard, friable; moderately acid; gradual smooth boundary. (Thickness of the A horizon is 0 to 38 cm [0 to 15 in])
+
+  BA--38 to 51 cm (15 to 20 in); brown (7.5YR 4/4) fine sandy loam, dark brown (7.5YR 3/4) moist; weak medium subangular blocky structure parting to moderate medium granular; hard, friable; moderately acid; gradual smooth boundary. (Thickness of the BA horizon is 0 to 20 cm [0 to 8 in])
+
+  Bt1--51 to 81 cm (20 to 32 in); yellowish red (5YR 5/6) sandy clay loam, yellowish red (5YR 4/6) moist; weak coarse prismatic structure parting to moderate medium subangular blocky; hard, firm; few distinct clay films on faces of peds; moderately acid; gradual smooth boundary. 
+
+  Bt2--81 to 107 cm (32 to 42 in); yellowish red (5YR 5/6) sandy clay loam, yellowish red (5YR 4/6) moist; weak coarse prismatic structure parting to weak medium subangular blocky; hard, firm; few faint clay films on faces of peds; moderately acid; gradual smooth boundary. 
+
+  Bt3--107 to 152 cm (42 to 60 in); yellowish red (5YR 5/6) fine sandy loam, yellowish red (5YR 4/6) moist; weak coarse prismatic structure; hard, friable; few faint clay films on faces of peds; moderately acid; diffuse smooth boundary. (Combined thickness of the Bt horizon is 73 to 127 cm [30 to 50 in])
+
+  C--152 to 203 cm (60 to 80 in); yellowish red (5YR 5/6) fine sandy loam, yellowish red (5YR 4/6) moist; massive; slightly hard, friable; moderately acid.
+
+TYPE LOCATION: Payne County, Oklahoma; about 1 mile west and 1 mile north of Perkins; about 2,100 feet north and 80 feet east of the southwest corner of sec. 36, T. 18 N., R. 2 E.  
+
+USGS Topographic Quadrangle: Perkins, OK
+Latitude: 35 degrees, 59 minutes, 28 seconds N
+Longitude: 97 degrees, 3 minutes, 2 seconds W
+Datum: NAD 83
+
+Decimal Degrees:
+Latitude: 35.9911111 
+Longitude: -097.0505556 
+
+UTM Easting: 675729 m
+UTM Northing: 3984719 m
+UTM Zone: 14N
+
+RANGE IN CHARACTERISTICS:
+Depth to bedrock: more than 203 cm (80 in) 
+Thickness of mollic epipedon: less than 51 cm (20 in) 
+
+Ap or A horizon:
+Hue 5YR to 10YR
+Value: 4 or 5 dry, 2 or 3 moist
+Chroma: 2 to 4 dry or moist
+Texture: fine sandy loam, very fine sandy loam, silt loam, or loam 
+Reaction: moderately acid or slightly acid. Some pedons that have been limed are neutral in reaction.
+
+BA horizon:
+Hue: 5YR or 7.5YR
+Value: 4 or 5 dry, 3 or 4 moist
+Chroma: 2 to 4 dry
+Texture: fine sandy loam, very fine sandy loam, silt loam, or loam 
+Reaction: moderately acid or slightly acid
+
+Bt horizon (upper part):
+Hue: 2.5YR or 5YR
+Value: 5 or 6 dry, 4 or 5 moist
+Chroma: 4 to 8 dry or moist
+Texture: sandy clay loam or clay loam 
+Other features: the upper 51 cm (20 in) of the argillic horizon averages 18 to 30 percent clay, 15 to 45 percent material coarser than very fine sand, and less than 20 percent material coarser than fine sand
+Reaction: moderately acid to neutral
+
+Bt horizon (lower part):
+Hue: 2.5YR to 7.5YR
+Value: 5 or 6 dry, 4 or 5 moist
+Chroma: 4 to 8 dry or moist
+Texture: loam, sandy clay loam, or clay loam
+Reaction: moderately acid to neutral
+
+C horizon:
+Hue of 2.5YR to 7.5YR
+Value: 4 to 6 dry, 4 or 5 moist
+Chroma: 4 to 8 dry or moist
+Texture: fine sandy loam, very fine sandy loam, or loam
+
+COMPETING SERIES:  These are the Chickasha, Navina, Stoneburg, and Teval series.
+Chickasha and Stoneburg soils: have bedrock above a depth of 203 cm (80 in).
+Navina soils: have Bt horizons with hue of 7.5YR or browner
+Teval soils: have more than 20 percent fragments 2 to 76 mm (3 in) within a depth of 152 cm (60 in) 
+
+GEOGRAPHIC SETTING:
+Parent material: formed in loamy sediments of Pleistocene age
+Landscape: alluvial plains
+Landform: treads and risers of stream terraces
+Slope: 0 to 8 percent
+Mean annual precipitation: 838 to 1092 millimeters (33 to 43 in)
+Mean annual air temperature: 14 to 17.2 degrees C (58 to 63 degrees F)
+Frost-free period: 180 to 240 days
+Elevation: 213 to 550 m (700 to 1805 ft)
+Thornthwaite annual PE indices: 44 to 64
+
+GEOGRAPHICALLY ASSOCIATED SOILS:  These are the competing Navina series, and the Dougherty, Konawa, Minco, Norge, Pond Creek, Slaughterville, and Vanoss series.
+Dougherty and Konawa soils: do not have a mollic epipedon and occur on slightly higher positions 
+Minco soils: do not have an argillic horizon and are on higher positions or in areas between terraces
+Norge, Pond Creek, and Vanoss soils: have fine-silty control section and are on slightly lower positions 
+Navina soils: are on similar positions
+Slaughterville: do not have an argillic horizons and are on slightly lower positions nearer major streams
+
+DRAINAGE AND PERMEABILITY:
+Drainage: well drained.
+Permeability: moderate
+Runoff: negligible on 0 to 1 percent slopes, medium on 1 to 5 percent slopes, and high on 5 to 8 percent slopes.
+
+USE AND VEGETATION:  Mainly used as cropland. Main crops include small grains, sorghums, peanuts, and cotton. Lesser amounts are used for grazing livestock. The native vegetation is tall prairie grasses. 
+
+DISTRIBUTION AND EXTENT: LRR H; Central Rolling Red Prairies (MLRA 80A) of Oklahoma and Texas. The series is of moderate extent.
+
+MLRA SOIL SURVEY REGIONAL OFFICE (MO) RESPONSIBLE: Temple, Texas
+
+SERIES ESTABLISHED: Johnston County, Oklahoma; 1906.
+
+REMARKS: 
+OSD updated extensively as a result of the SDJR Initiative. (JLD 03/2016)
+
+Diagnostic horizons and features recognized in the pedon are:
+Mollic epipedon: 0 to 38 cm (0 to 15 in) (Ap and A horizons)
+Argillic horizon:  51 to 152 cm (20 to 60 in) (Bt horizons)
+Soil moisture regime: Udic-Ustic
+
+ADDITIONAL DATA:  KSSL sample number S90OK-083-006; Lincoln, Nebraska
+
+Taxonomic Version: Keys to Soil Taxonomy, Twelfth Edition, 2014
+
+National Cooperative Soil Survey
+U.S.A.

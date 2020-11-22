@@ -1,0 +1,148 @@
+LOCATION VERBOORT               OR
+
+Established Series
+Rev. GEO/JGM/EED
+12/2017
+
+VERBOORT SERIES
+
+Landscape--Willamette Valley
+Landform--terraces
+Slope--0 to 3 percent
+Parent material-- alluvium over glaciolacustrine deposits
+Mean annual precipitation--about 1150 mm
+Mean annual air temperature--about 11 degrees C
+Depth class--very deep
+Drainage class--poorly drained
+Soil moisture regime--aquic
+Soil temperature regime--mesic
+Soil moisture subclass--xeric
+
+TAXONOMIC CLASS: Fine, mixed, superactive, mesic Xerertic Argialbolls 
+
+TYPICAL PEDON: Verboort silty clay loam, cultivated 
+
+ Ap--0 to 20 cm; silty clay loam, grayish brown (10YR 5/2) dry, very dark brown (10YR 2/2) moist; strong fine subangular blocky structure; hard, friable, moderately sticky and moderately plastic; many very fine roots; many very fine pores; moderately acid (pH 5.8); abrupt smooth boundary
+
+ A--20 to 30 cm; silty clay loam, grayish brown (10YR 5/2) dry, very dark brown (10YR 2/2) moist; moderate fine subangular blocky structure; hard, firm, moderately sticky and moderately plastic; many very fine roots; common very fine pores; moderately acid (pH 5.8); clear smooth boundary
+
+ E--30 to 48 cm; silty clay loam, gray (10YR 6/1) dry, very dark gray (10YR 3/1) moist; moderate fine subangular blocky structure; hard, firm, moderately sticky and moderately plastic; common very fine roots; common very fine pores; 30 percent fine distinct irregular dark reddish brown (5YR 3/2) masses of oxidized iron on faces of peds; moderately acid (pH 6.0); abrupt smooth boundary
+
+ 2Btg--48 to 71 cm; clay, grayish brown (2.5Y 5/2) dry, very dark gray (N 3/0), moist; weak medium prismatic structure parting to weak medium subangular blocky; very hard, very firm, very sticky and very plastic; common fine roots in cracks and few fine roots throughout; few very fine tubular pores; pressure faces on vertical faces of peds and 70 percent faint clay films on vertical faces of peds and on surfaces along pores; slightly acid (pH 6.4); abrupt smooth boundary
+
+ 2BCtg--71 to 84 cm; silty clay, light brownish gray (2.5Y 6/2) dry, dark grayish brown (2.5Y 4/2) moist; weak fine prismatic structure parting to weak fine subangular blocky; very hard, very firm, moderately sticky and very plastic; few very fine roots in cracks; common very fine tubular pores; 70 percent faint very dark gray (N 3/0) clay films on vertical faces of peds; neutral (pH 6.6); gradual smooth boundary
+
+ 2Cg--84 to 150 cm; silty clay loam, light gray (2.5Y 7/2) dry, dark grayish brown (2.5Y 4/2) moist; massive; hard, firm, moderately sticky and moderately plastic; few very fine roots; few fine and medium pores; 5 percent very dark gray (N 3/0) clay films on surfaces along pores; 25 percent medium distinct irregular brown (7.5YR 4/2) masses of oxidized iron throughout; neutral (pH 6.6)
+
+TYPE LOCATION: Washington County, Oregon, about 0.4 km south of the community of Helvetia; 6 m west of the intersection of Helvetia Road and Phillips Road; about 825 m west and 610 m south of the northeast corner of section 10, T. 1 N., R. 2 W.; latitude 45.5866389, longitude -122.9193611, datum NAD 83 (coordinates estimated from PLSS details)
+
+RANGE IN CHARACTERISTICS:
+Mean annual soil temperature--11 to 13 degrees C
+Moisture control section--dry in all parts 45 consecutive days or more following summer solstice
+Thickness of the mollic epipedon--25 to 43 cm
+Depth to aquic conditions--at the surface to a depth of 25 cm
+Depth to lithologic discontinuity--41 to 66 cm
+Estimated coefficient of linear extensibility (COLE) from the surface to a depth of 100 cm--greater than 6.0
+
+Particle-size control section
+*Clay content--35 to 55 percent
+*Total fragment content--0 percent
+
+A horizon
+Hue--10YR, 2.5Y
+Value--2 or 3 moist, 4 or 5 dry
+Chroma--1 or 2 moist or dry
+Clay content--27 to 35 percent
+Sand content--5 to 15 percent
+Reaction--5.1 to 6
+Thickness--25 to 43 cm
+
+E horizon
+Hue--10YR, neutral
+Value--3 or 4 moist, 5 to 7 dry
+Chroma--1 or less
+Fine-earth texture--silt loam, silty clay loam
+Clay content--25 to 35 percent
+Sand content--5 to 15 percent
+Reaction--5.1 to 6
+Thickness--15 to 23 cm
+
+2Bt horizon
+Hue--2.5Y, 5Y, neutral
+Value--3 or 4 moist, 5 or 6 dry
+Chroma--2 or less
+Fine-earth texture--clay, silty clay
+Clay content--40 to 55 percent
+Sand content--2 to 10 percent
+Reaction--5.6 to 7.3
+Thickness--15 to 76 cm
+
+2BCt horizon
+Hue--2.5Y, 5Y
+Value--4 or 5 moist, 6 or 7 dry
+Chroma--2 or 3 moist or dry
+Fine-earth texture--clay, silty clay, silty clay loam
+Clay content--35 to 50 percent
+Sand content--2 to 10 percent
+Reaction--5.6 to 7.3
+Thickness--0 to 38 cm
+
+2C horizon
+Hue--2.5Y, 5Y
+Value--4 or 5 moist, 6 or 7 dry
+Chroma--2 or 3 moist or dry
+Fine earth texture--silt loam, silty clay loam
+Clay content--25 to 35 percent
+Sand content--5 to 25 percent
+Reaction--6.1 to 7.3
+
+COMPETING SERIES: None
+
+GEOGRAPHIC SETTING:
+Elevation--45 to 100 m
+Climate--warm, dry summers; cool, moist winters
+Mean annual precipitation--1000 to 1300 mm
+Mean annual air temperature--10 to 12 degrees C
+Mean January air temperature--4 degree C
+Mean July air temperature--19 degrees C
+Frost-free period--165 to 210 days
+
+GEOGRAPHICALLY ASSOCIATED SOILS:
+Aloha--aquic conditions at a depth of 25 to 50 cm, fine-silty; in similar positions
+Dayton--ochric epipedon; in depressions of higher terraces
+Huberly--fragipan; less than 35 percent clay in particle-size control section; in depressions of terraces
+Quatama--less than 35 percent clay in particle-size control section; aquic conditions at a depth of 40 to 75 cm; on risers and in convex positions
+Willamette--less than 35 percent clay in particle-size control section; on higher terraces
+Woodburn--less than 35 percent clay in particle-size control section; on higher terraces
+
+DRAINAGE AND SATURATED HYDRAULIC CONDUCTIVITY:
+Drainage class--poorly drained
+Saturation in normal years--apparent high water table at the surface to a depth of 25 cm below the surface in November through April
+Flooding--frequent, brief periods in December through April
+Ponding--none
+Saturated hydraulic conductivity (Ksat)--low
+
+USE AND VEGETATION:
+Use--production of spring grain, hay, pasture, and vegetable crops
+Potential natural vegetation--Oregon ash, willow, sedges, grass
+
+DISTRIBUTION AND EXTENT: Willamette Valley, Oregon; MLRA 2; small extent
+
+SOIL SURVEY REGIONAL OFFICE (SSRO) RESPONSIBLE: Portland, Oregon
+
+SERIES ESTABLISHED: Washington County, Oregon; 1975
+
+REMARKS:
+Diagnostic horizons and other features in this pedon
+*Particle-size control section--zone from 48 to 84 cm
+*Mollic epipedon--zone from the surface to a depth of 30 cm
+*Albic horizon--zone from 30 to 48 cm
+*Argillic horizon--zone from 48 to 84 cm
+*Aquic conditions--zone from 30 to 150 cm
+
+08/2017--This official series description was updated according to SSR01 Technical Note 11--Content and Format of Official Series Descriptions (revised 12/2015). Most of the changes were in formatting; no major technical changes were made.
+
+02/2000--Classification revised from Typic Argialbolls to Xerertic Argialbolls based on the estimate of COLE and addition of Vertic subgroup to Soil Taxonomy.
+
+National Cooperative Soil Survey
+U.S.A.

@@ -1,0 +1,133 @@
+LOCATION PAINT                  ID
+
+Established Series
+Rev. GAH/HBM/CBR
+05/2018
+
+PAINT SERIES
+
+Landscape--plains, alluvial plains, hills, valleys
+Landform--fan remnants, outwash fans
+Slope--0 to 25 percent
+Parent material--alluvium derived from limestone
+Mean annual precipitation--about 240 mm
+Mean annual air temperature--about 4 degrees C
+Depth class--shallow to a duripan
+Drainage class--well drained
+Soil moisture regime--aridic (torric)
+Soil temperature regime--frigid
+
+TAXONOMIC CLASS: Loamy-skeletal, carbonatic, frigid, shallow Xereptic Haplodurids
+
+TYPICAL PEDON:  Paint gravelly loam in an area of rangeland (Colors are for dry soil unless otherwise noted.)
+
+ A--0 to 8 cm; pale brown (10YR 6/3) gravelly loam, dark brown (10YR 3/3) moist; weak very fine and fine granular structure; slightly hard, very friable, slightly sticky and slightly plastic; common very fine and few fine and medium roots; many very fine and few fine irregular pores; 25 percent gravel and 5 percent cobbles; calcium carbonate and silica coatings less than 2 mm thick on bottom of rock fragments; slightly effervescent (60 percent calcium carbonate equivalent); moderately alkaline (pH 8.2); clear wavy boundary
+
+ Bkq1--8 to 18 cm; brown (10YR 5/3) very gravelly loam, dark brown (10YR 3/3) moist; weak very fine and fine subangular blocky structure; slightly hard, very friable, slightly sticky and slightly plastic; common very fine and few fine, medium, and coarse roots; many very fine irregular pores; 30 percent gravel and 5 percent cobbles; calcium carbonate and silica coatings less than 2 mm thick on bottom of rock fragments; strongly effervescent (50 percent calcium carbonate equivalent); moderately alkaline (pH 7.9); clear wavy boundary
+
+ Bkq2--18 to 30 cm; pale brown (10YR 6/3) very cobbly loam, dark brown (10YR 3/3) moist; weak very fine and fine subangular blocky structure; slightly hard, very friable, slightly sticky and slightly plastic; common very fine and few fine, medium, and coarse roots; many very fine irregular pores; 20 percent gravel and 15 percent cobbles; calcium carbonate and silica coatings less than 3 mm thick on bottom of rock fragments; violently effervescent (70 percent calcium carbonate equivalent); slightly alkaline (pH 7.8); abrupt wavy boundary
+
+ 2Bkqm--30 to 40 cm; light gray (10YR 7/2) strongly cemented duripan that has a continuous laminar cap 1 to 2 mm thick, dark grayish brown (10YR 4/2) moist; massive; 50 percent gravel and 5 percent cobbles; calcium carbonate and silica coatings less than 2 mm thick on bottom of rock fragments; violently effervescent; strongly alkaline (pH 8.5); clear wavy boundary
+
+ 2Bkqn1--40 to 64 cm; light gray (10YR 7/2) extremely gravelly loamy coarse sand, dark grayish brown (10YR 4/2) moist; single grain; loose; many very fine and few fine interstitial pores; 70 percent gravel; calcium carbonate and silica coatings on bottom of rock fragments that cement gravel and sand to coarse fragments; violently effervescent; strongly alkaline (pH 8.5); gradual wavy boundary
+
+ 2Bkqn2--64 to 150 cm; light brownish gray (10YR 6/2) extremely gravelly loamy coarse sand, dark grayish brown (10YR 4/2) moist; single grain; loose; many very fine and few fine and medium interstitial pores; 60 percent gravel and 10 percent cobbles; calcium carbonate and silica coatings less than 2 mm thick on bottom of rock fragments; violently effervescent; strongly alkaline (pH 8.8)
+
+TYPE LOCATION:  Lemhi County, Idaho; latitude 44.28866 degrees north, longitude 112.97202 degrees west, datum WGS 84
+
+RANGE IN CHARACTERISTICS:
+Mean annual soil temperature--3.9 to 7.8 degrees C
+Depth to duripan--30 to 46 cm
+
+Particle-size control section (weighted averages)
+Total clay content--12 to 18 percent
+Carbonate-free clay content--2 to 10 percent
+Total rock fragment content--35 to 55 percent
+Calcium carbonate equivalent--25 to 39 percent
+
+A or Ak horizon
+Value--5 or 6 dry, 3 or 4 moist
+Chroma--3 or 4 dry
+Clay content--12 to 19 percent
+Gravel content--15 to 35 percent
+Calcium carbonate equivalent--25 to 70 percent
+Reaction--pH 7.4 to 9.0
+Thickness--5 to 13 cm
+
+Bkq horizon
+Value--5 or 6 dry, 3 or 4 moist
+Chroma--3 or 4 dry
+Clay content--12 to 19 percent
+Total rock fragment content--35 to 55 percent
+Gravel content--15 to 55 percent
+Cobble content--0 to 20 percent
+Calcium carbonate equivalent--40 to 70 percent
+Reaction--pH 7.4 to 9.0
+Thickness--15 to 36 cm
+
+2Bkqm horizon (where present)
+Value--4 to 7 dry or moist
+Chroma--2 to 4 dry or moist
+Clay content--0 to 6 percent
+Total rock fragment content--50 to 55 percent
+Gravel content--20 to 55 percent
+Cobble content--0 to 6 percent
+Calcium carbonate equivalent--0 to 10 percent
+Reaction--pH 7.9 to 8.4
+Thickness--0 to 25 cm
+
+2Bkqmn horizon (where present)
+Value--4 to 7 dry or moist
+Chroma--2 to 4 dry or moist
+Clay content--5 to 10 percent
+Gravel content--50 to 55 percent
+Calcium carbonate equivalent--50 to 70 percent
+Sodium adsorption ratio--5 to 15
+Reaction--pH 8.5 to 9.0
+Thickness--0 to 11 cm
+
+2Bkqn horizon
+Value--6 or 7 dry
+Chroma--1 to 4 moist
+Texture (less than 2-mm fraction)--loamy coarse sand, sand, sandy loam
+Clay content--2 to 19 percent
+Total rock fragment content--40 to 85 percent
+Gravel content--25 to 85 percent
+Cobble content--0 to 15 percent
+Calcium carbonate equivalent--35 to 70 percent
+Sodium adsorption ratio--5 to 15
+Reaction--pH 7.9 to 9.0
+
+COMPETING SERIES:  None
+
+GEOGRAPHIC SETTING:
+Elevation--1540 to 2200 m
+Mean annual precipitation--200 to 400 mm
+Mean annual air temperature--2.8 to 7.2 degrees C
+Frost-free period--30 to 100 days
+
+GEOGRAPHICALLY ASSOCIATED SOILS:  None listed
+
+DRAINAGE AND PERMEABILITY:
+Drainage class--well drained
+Saturated hydraulic conductivity (Ksat)--5 to 25 um/sec above the duripan, 0.1 to 1.0 um/sec in the duripan, 50 to 200 um/sec below the duripan
+
+USE AND VEGETATION:
+Major use--rangeland
+Potential natural vegetation--Wyoming big sagebrush, bluebunch wheatgrass
+
+DISTRIBUTION AND EXTENT: Small extent in southeast Idaho; MLRA 12
+
+SOIL SURVEY REGIONAL OFFICE (SSRO) RESPONSIBLE:  Portland, Oregon
+
+SERIES ESTABLISHED:  Lemhi County, Idaho; 1999
+
+REMARKS:
+Diagnostic horizons and other features recognized in this pedon
+Ochric epipedon
+Calcic horizon
+Duripan--zone from 30 to 40 cm (2Bkqm horizon)
+Particle-size control section--zone from the surface to a depth of 30 cm (A, Bkq1, and Bkq2 horizons)
+
+National Cooperative Soil Survey
+U.S.A.

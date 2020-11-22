@@ -1,0 +1,161 @@
+LOCATION PUNGOKEPUK             AK
+
+Established Series
+SAS/TJR
+03/2019
+
+PUNGOKEPUK SERIES
+
+Landscape--mountains, mountain valleys, valleys, drift plains
+Landform--swales, outwash plains
+Slope--0 to 25 percent
+Parent material--colluvium influenced by volcanic ash over drift
+Mean annual precipitation--about 1100 mm
+Mean annual air temperature--about 0 degrees C
+Depth class--very deep
+Drainage class--well drained
+Soil moisture regime--udic
+Soil temperature regime--cryic
+Soil moisture subclass--typic
+
+TAXONOMIC CLASS: Medial over loamy-skeletal, amorphic over isotic Alic Haplocryands
+
+TYPICAL PEDON: Pungokepuk medial silt loam on a south-facing, linear and concave swale, on a slope of 3 percent at an elevation of 105 m (The soil was moist throughout when described on August 10, 2013.)
+
+ Oa--0 to 2 cm; highly decomposed plant material; nonsticky and nonplastic; common very fine to coarse roots; moderately acid (pH 5.8); clear smooth boundary
+
+ A/E--2 to 13 cm; medial silt loam, matrix color 90 percent brown (7.5YR 4/2) dry, very dark brown (7.5YR 2.5/2) moist, and 10 percent brown (7.5YR 5/2) dry, dark brown (7.5YR 3/2) moist; weak fine granular structure; soft, very friable, nonsticky and nonplastic; common very fine to coarse roots; moderately acid (pH 6.0); clear smooth boundary
+
+ Bs--13 to 51 cm; medial silt loam, matrix color 75 percent brown (7.5YR 5/4) dry, dark brown (7.5YR 3/4) moist, 15 percent brownish yellow (10YR 6/6) dry, dark yellowish brown (10YR 4/6) moist, 5 percent reddish yellow (7.5YR 6/6) dry, strong brown (7.5YR 4/6) moist, and 5 percent brown (7.5YR 5/2) dry, dark brown (7.5YR 3/2) moist; weak coarse subangular blocky structure; slightly hard, friable, nonsticky and nonplastic; common very fine to medium roots; 3 percent gravel; neutral (pH 7.0); abrupt smooth boundary
+
+ 2BC--51 to 74 cm; very gravelly sandy loam, brown (10YR 5/3) dry, dark brown (10YR 3/3) moist; weak fine granular structure; soft, very friable, nonsticky and nonplastic; common very fine roots; 5 percent fine masses of oxidized iron, dark brown (7.5YR 3/4) moist, clear boundaries; 35 percent gravel and 15 percent cobbles; neutral (pH 7.0); clear smooth boundary
+
+ 3C--74 to 150 cm; very gravelly sandy loam, dark grayish brown (10YR 4/2) dry, very dark brown (10YR 2/2) moist; massive; soft, very friable, nonsticky and nonplastic; 35 percent gravel; neutral (pH 7.0)
+
+TYPE LOCATION: Dillingham Census Area, Alaska, about 55 km west-northwest of the city of Dillingham; latitude 59.2676965 degrees north, longitude 159.2753120 degrees west, datum WGS 84 (coordinates determined with a GPS)
+
+RANGE IN CHARACTERISTICS:
+Mean annual soil temperature--0 to 3 degrees C
+Soil moisture control section--dry less than 45 consecutive days in June through October (udic moisture regime)
+
+Layers influenced by volcanic ash
+*Thickness--36 to 90 cm
+*Phosphorous retention--70 to 100 percent
+*Bulk density--0.45 to 0.9 g/cm3
+*Ammonium oxalate Al plus 1/2 Fe--3 to 6 percent
+*Volcanic glass content--5 to 50 percent
+
+Medial part of particle-size control section
+*Ammonium oxalate Si--0.5 to 1.0 percent
+*Ammonium oxalate Fe--0.5 to 2.1 percent
+
+Loamy-skeletal part of particle-size control section
+*Clay content--2 to 12 percent
+*Sand content--25 to 70 percent
+*Total rock fragment content--35 to 75 percent
+*Sodium fluoride pH--8.4 to 11.6
+*Ratio of 1500 kPa water to measured clay--0.6 to 6.0
+
+Oa horizon
+Thickness--2 to 10 cm
+
+A/E horizon
+Hue--7.5YR, 10YR
+Value--2 or 3 moist, 4 or 5 dry
+Chroma--1 to 3 moist
+Fine-earth texture--medial silt loam, medial silt
+Clay content--2 to 12 percent
+Reaction--4.5 to 6.0
+Total rock fragment content--0 to 30 percent
+Gravel content--0 to 30 percent
+Cobble content--0 to 10 percent
+Thickness--2 to 15 cm
+Bulk density--0.45 to 0.9 g/cm3
+Phosphorous retention--70 to 100 percent
+Volcanic glass content--30 to 60 percent
+
+Bs horizon
+Hue--5YR, 7.5YR
+Value--3 or 4 moist, 5 or 6 dry
+Chroma--4 to 6 moist
+Fine-earth texture--medial silt loam, medial very fine sandy loam
+Clay content--2 to 12 percent
+Reaction--4.5 to 5.9
+Total rock fragment content--0 to 30 percent
+Gravel content--0 to 30 percent
+Cobble content--0 to 10 percent
+Thickness--21 to 60 cm
+Bulk density--0.5 to 0.9 g/cm3
+Phosphorous retention--70 to 100 percent
+Volcanic glass content--5 to 40 percent
+Extractable aluminum by 1 N KCl--2 to 25 cmol(+)/kg Al3+
+Ammonium oxalate Al plus 1/2 Fe--3 to 6 percent
+
+2BC horizon
+Hue--10YR, 2.5Y
+Value--3 or 4 moist, 5 or 6 dry
+Chroma--3 or 4 moist
+Fine-earth texture--silt loam, loamy fine sand, sandy loam
+Clay content--2 to 12 percent
+Reaction--5.0 to 6.5
+Total rock fragment content--0 to 50 percent
+Gravel content--0 to 50 percent
+Cobble content--0 to 20 percent
+Thickness--15 to 45 cm
+
+3C horizon
+Hue--10YR, 2.5Y
+Value--3 or 4 moist, 5 or 6 dry
+Chroma--3 or 4 moist
+Fine earth texture--sandy loam, silt loam, coarse sandy loam
+Clay content--0 to 12 percent
+Reaction--5.5 to 7.0
+Total rock fragment content--35 to 75 percent
+Gravel content--30 to 75 percent
+Cobble content--0 to 20 percent
+Thickness--more than 5 cm
+
+COMPETING SERIES: None
+
+GEOGRAPHIC SETTING:
+Elevation--0 to 900 m
+Climate--warm, moist summers; cold, moist winters
+Mean annual precipitation--620 to 2100 mm
+Mean annual air temperature-- -3.6 to 1.8 degrees C
+Frost-free period--70 to 140 days
+
+GEOGRAPHICALLY ASSOCIATED SOILS:
+Klak--no redoximorphic features; mountain slopes
+Pegati--redoximorphic depletions; aquic conditions; swales of mountains
+Nagugun--no redoximorphic features; glaciated plains
+Kwethluk--no redoximorphic features; outwash terraces and glaciated plains
+Narogurum--occasional ponding; aquic conditions throughout; no andic soil properties; dips of plains
+Nigag--no redoximorphic features; mountain slopes
+
+DRAINAGE AND SATURATED HYDRAULIC CONDUCTIVITY:
+Drainage class--well drained
+Saturation in normal years--below a depth of 50 to 75 cm in April through May, below a depth of 150 cm throughout the rest of the year
+Saturated hydraulic conductivity (Ksat)--moderately high or high in the AE and Bs horizons, high or very high in the 2BC and 3C horizons
+
+USE AND VEGETATION:
+Use--wildlife habitat, recreation, subsistence
+Potential natural vegetation--bluejoint, fireweed, field horsetail, woolly geranium, western oakfern, splendid feather moss, Barclay's willow, Canadian burnet, tealeaf willow, beauverd spirea
+
+DISTRIBUTION AND EXTENT: Ahklun Mountains, Alaska; MLRA 237; large extent
+
+SOIL SURVEY REGIONAL OFFICE (SSRO) RESPONSIBLE: Portland, Oregon
+
+SERIES ESTABLISHED: Togiak National Wildlife Refuge, Dillingham Census Area, Alaska; 2019
+
+REMARKS:
+Diagnostic horizons and other features in this pedon
+*Particle-size control section--zone from 2 to 102 cm
+*Ochric epipedon
+*Cambic horizon--Bs horizon
+*Andic soil properties--zone from 2 to 51 cm
+*Redoximorphic iron concentrations--2BC horizon
+
+See laboratory pedon number 13N44524, layer 13N04793, and number 13N0048, layer 13N00124, for Bs horizons that have andic soil properties and amorphic mineralogy.
+
+National Cooperative Soil Survey
+U.S.A.

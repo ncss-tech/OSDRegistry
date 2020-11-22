@@ -1,0 +1,121 @@
+LOCATION LYNCHLAKE              MT
+
+Tentative Series
+Rev: CRS-RJS
+09/2008
+
+LYNCHLAKE SERIES 
+
+The Lynchlake series consists of very deep, well drained soils on lake terraces and moraines. They formed in glaciolacustrine sediments or till with minor amounts of volcanic ash mixed in the surface layers. Permeability is moderately slow. Slopes range from 2 to 30 percent. The average annual air temperature is about 42 degrees F. and average annual precipitation is about 28 inches. 
+
+TAXONOMIC CLASS: Fine-silty, mixed, active, frigid Vitrandic Hapludalfs 
+
+TYPICAL PEDON: Lynchlake ashy silt loam, in forest, (Colors are for moist soil unless otherwise stated.) 
+
+    Oi--0 to 3 inches; undecomposed and slightly decomposed forest litter.
+
+    E--3 to 9 inches; brown (10YR 5/3) ashy silt loam, very pale brown (10YR 7/3) dry; weak medium subangular blocky structure parting to weak fine subangular blocky; soft, very friable, slightly sticky and nonplastic; common very fine, fine, medium, coarse, and very coarse roots; moderately acid (pH 5.8); clear wavy boundary. (1 to 9 inches thick) 
+
+    Bw--9 to 15 inches; yellowish brown (10YR 5/4) ashy silt loam, very pale brown (10YR 7/4) dry;  weak medium subangular blocky structure parting to weak very fine and fine subangular blocky; soft, very friable, slightly sticky and nonplastic; common very fine,  fine, medium, coarse, and very coarse roots; moderately acid  (pH 5.8); gradual wavy boundary. (5 to 9 inches thick) 
+
+    2E/Bt--15 to 23 inches; E part (75 percent) is light olive brown (2.5Y 5/3) silt loam, pale yellow (2.5Y 7/3) dry; B part (25 percent) is light olive brown (2.5Y 5/4) silty clay loam,  light yellowish brown (2.5Y 6/4) dry; moderate medium subangular blocky structure; slightly hard, friable, slightly sticky and slightly plastic; common very fine, fine and medium roots; few distinct clay films on faces of peds; slightly acid (pH 6.2); gradual wavy boundary. ( 5 to 15 inches thick) 
+
+    2Bt--23 to 41 inches; light olive brown (2.5Y 5/4) silty clay loam,  light yellowish brown (2.5Y 6/4) dry; moderate medium and coarse subangular blocky structure; hard, firm, moderately sticky and moderately plastic; common very fine, fine, and medium roots; common distinct clay films on faces of peds;  slightly acid (pH 6.4); clear wavy boundary. ( 9 to 23 inches thick) 
+
+    2Bk--41 to 60 inches; light olive brown (2.5Y 5/3) silt loam, pale yellow  (2.5Y 7/3) dry; moderate medium subangular blocky structure; slightly hard, friable, slightly sticky and slightly plastic; few very fine, fine, and medium roots; 10 percent fine and medium soft masses of lime in matrix; strongly effervescent; moderately alkaline (pH 8.0)
+
+TYPE LOCATION: Flathead County, Montana; 500 feet north and 1200 feet east of the southwest corner of section 36, T. 28 N., R. 26 W. Lynch Lake topographic quadrangle.UTM zone 11: Northing 5333873, Easting 650894
+
+RANGE IN CHARACTERISTICS: 
+Average annual soil temperature - 42 to 46 degrees F.
+Depth to secondary calcium carbonate - 35 to 60 inches
+Volcanic glass content - 5 to 20 percent
+Acid-oxalate extractable Al + 1/2 Fe - 0.4 to 1.0 percent
+Moist bulk density - 1.0 to 1.2 g/cc
+Some pedons have a 2E horizon between the Bw and 2E/Bt horizons.
+
+
+E horizon:
+Hue - 10YR
+Value  5, 6, or 7 dry, 4, 5, or 6 moist
+Chroma - 2 or 3
+Texture - ashy silt loam
+Clay content - 10 to 18 percent
+Bulk density - 1.0 to 1.2 g/cm3
+Volcanic glass - 5 to 20 percent
+Acid oxalate extractable Al + 1/2Fe - 0.4 to 1.0 percent
+Reaction - pH 5.6 to 6.8 
+
+Bw horizon:
+Hue - 10YR
+Value  5, 6, or 7 dry, 4, 5, or 6 moist
+Chroma - 3 or 4
+Texture - ashy silt loam
+Clay content - 10 to 18 percent
+Bulk density - 1.0 to 1.2 g/cm3
+Volcanic glass - 5 to 20 percent
+Acid oxalate extractable Al + 1/2Fe - 0.4 to 1.0 percent
+Reaction - pH 5.6 to 6.8
+
+2E/Bt horizon:
+Hue - 10YR or 2.5Y
+Value  E part: 7 or 8 dry, 5, 6 or 7 moist; B part: 6 or 7 dry, 5 or 6 moist
+Chroma - E part: 2, 3, or 4; B part: 2, 3, or 4
+Texture  E part: silt loam or very fine sandy loam; B part: silty clay loam or silt loam
+Clay content - E part: 14 to 22 percent; B part: 18 to 30 percent
+Reaction - pH 5.6 to 7.2
+
+2Bt horizon: 
+Hue - 10YR or 2.5Y
+Value  5, 6, or 7 dry, 4, 5, or 6 moist
+Chroma  2, 3, or 4
+Texture  silty clay loam or silt loam
+Clay content  22 to 34 percent
+Reaction - pH 6.4 to 7.4
+
+2Bk horizon:
+Hue - 2.5Y or 5Y
+Value  6 or 7 dry, 5 or 6 moist
+Chroma  2 or 3
+Texture  silt loam or silty clay loam
+Clay content  20 to 30 percent
+Calcium carbonate equivalent - 5 to 10 percent
+Reaction - pH 7.8 to 8.4
+
+COMPETING SERIES:
+Statemeadow (ID)  Has fragic soil characteristics; formed in reworked loess and material weathered from basalt.
+
+GEOGRAPHIC SETTING: 
+Landform - lake terraces and moraines
+Elevation - 3450 to 4200 feet. 
+Slope - 2 to 30 percent. 
+Parent material - volcanic ash over mixed glaciolacustrine sediments or till. 
+Climate - long, cold winters; moist springs; warm, dry summers. 
+Mean annual effective precipitation - 22 to 34 inches, much of which falls as snow and spring rain. 
+Mean annual air temperature - 38 to 44 degrees F. 
+Frost-free period - 70 to 90 days.
+
+GEOGRAPHICALLY ASSOCIATED SOILS:
+These are the Half Moon, Tallcreek, Courville, and Rumblecreek soils. Half Moon soils are on similar positions and have less volcanic ash in the surface layers. Tallcreek soils are on similar positions, are coarse-silty, and do not have argillic horizons. Courville soils are on moraines, are loamy-skeletal, do not have argillic horizons, and formed in glacial till. Rumblecreek soils are on moraines, have less volcanic ash in the surface layer, are loamy-skeletal, and formed in glacial till.
+
+DRAINAGE AND PERMEABILITY: Well drained, moderately slow permeability. 
+
+USE AND VEGETATION: Lynchlake soils are used mainly for timber production, woodland grazing, and as wildlife habitat. The potential native vegetation is coniferous forest consisting mainly of grand fir, lodgepole pine,  Engelmann spruce, Douglas-fir, and western larch with an understory of twinflower, queencup beadlily, bunchberry dogwood, dwarf huckleberry, pinegrass, kinnikinnick, common snowberry, white spirea, Oregon grape, and elk sedge.
+
+DISTRIBUTION AND EXTENT: Lynchlake soils are of limited extent in northwest Montana. MLRA 44A.
+
+MLRA SOIL SURVEY REGIONAL OFFICE (MO) RESPONSIBLE: Bozeman, Montana 
+
+SERIES PROPOSED: Flathead County, Montana, 2004. The named is coined from Lynch Lake in Flathead County, Montana.
+
+REMARKS: Diagnostic horizons and features recognized in this pedon are: 
+Ash influenced layer - 3 to 15 inches (E and Bw horizons)
+Ochric epipedon - 0 to 7 inches  (Oi and E horizons)
+Cambic horizon  9 to 15 inches (Bw horizon)
+Argillic horizon - 23 to 41 inches (2Bt horizon) 
+Particle-size control section - 23 to 41 inches (2Bt horizon) 
+
+Lynchlake soils have a frigid temperature regime and a udic moisture regime.
+
+National Cooperative Soil Survey
+U.S.A.

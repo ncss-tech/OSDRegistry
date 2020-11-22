@@ -1,0 +1,165 @@
+LOCATION SAUCEL                 TX
+
+Established Series
+JKW-KBH-AKS
+07/2019
+
+SAUCEL SERIES
+
+The Saucel series consists of very deep, poorly drained, moderately permeable, saline soils that formed in loamy eolian deposits derived from Holocene age sediments.  These nearly level soils are on the coastal plain adjacent to the tidal flats.  Slope ranges from 0 to 1 percent, but mainly less than 0.5 percent.  Mean annual air temperature is about 23 degrees C (73 degrees F), and mean annual precipitation is about 686 mm (27 in).
+
+TAXONOMIC CLASS: Coarse-loamy, mixed, active, calcareous, hyperthermic Typic Halaquepts
+
+TYPICAL PEDON:  Saucel fine sandy loam--on nearly level area of 0.3 percent slope in rangeland at an elevation of 1.5 meters (4 ft). (Colors are for moist soil unless otherwise stated.)
+
+    Anz--0 to 10 cm (0 to 4 in); grayish brown (2.5Y 5/2) fine sandy loam, light brownish gray (10YR 6/2) dry; weak fine platy structure; slightly hard, friable, slightly sticky, slightly plastic; many fine roots; strongly saline; strongly effervescent, strongly alkaline; abrupt wavy boundary. (Thickness of the Az horizon is 3 to 38 cm [1 to 15 in].)
+
+    Bnz1--10 to 43 cm (4 to 17 in); grayish brown (2.5Y 5/2) fine sandy loam, light gray (2.5Y 7/2) dry; moderate medium prismatic structure parting to weak medium subangular blocky; hard, friable, slightly sticky, slightly plastic; common fine roots; few fine salt crystals; few fine prominent strong brown (7.5YR 5/6) masses of iron accumulation with diffuse boundaries; strongly saline; strongly effervescent; strongly alkaline; gradual smooth boundary. (Combined thickness of the Bnz horizons is 51 to 102 cm [20 to 40in].)
+
+   Bnz2--43 to 86 cm (17 to 34 in); light brownish gray (2.5Y 6/2) fine sandy loam, light gray (2.5Y 7/2) dry; weak medium prismatic structure parting to weak medium subangular blocky; hard, friable, slightly sticky, slightly plastic; few fine roots; common fine salt crystals; common fine prominent dark brown (7.5YR 3/2) masses of iron accumulation with diffuse boundaries; strongly saline; strongly effervescent; strongly alkaline; gradual smooth boundary. 
+
+   Bngz--86 to 112 cm (34 to 44 in); gray (5Y 5/1) fine sandy loam, light gray (5Y 7/1) dry; weak medium subangular blocky structure; hard, friable, slightly sticky, slightly plastic; strongly saline; strongly effervescent; strongly alkaline; gradual smooth boundary. (Thickness of the Bgz horizon is 15 to 36 cm [6 to 14 in].)
+
+    2Cngz--112 to 132 cm (44 to 52 in); dark gray (5YR 4/1) loamy fine sand, gray (5Y 5/1) dry; massive; slightly hard, friable, slightly sticky, nonplastic; strongly saline; strongly effervescent; strongly alkaline; clear smooth boundary. (Thickness of the 2Cgz horizon is 0 to 105 cm [0 to 42 in].)
+
+    3Cngz--132 to 203 cm (52 to 62 in); olive gray (5Y 5/2) sandy clay loam, light olive gray (5Y 6/2) dry; massive; very hard, firm, sticky and plastic; few fine crystalline masses of salt; few fine calcium carbonate concretions; many coarse prominent light olive brown (2.5Y 5/4) masses of iron accumulation with diffuse boundaries; strongly saline; strongly effervescent; strongly alkaline.
+
+TYPE LOCATION:
+Willacy County, Texas; from the intersection of U.S. Highway 77 and Texas Highway 186 on the east side of Raymondville; 18.0 miles east on Texas Highway 186 to the intersection of Texas Highway 497; 4.8 miles east on Texas Highway 497; 0.7 mile north in range.
+
+USGS topographic quadrangle: Port Mansfield, Texas;
+Latitude: 26 degrees, 33 minutes, 8.35 seconds N;
+Longitude: 97 degrees, 26 minutes, 28.6 seconds W.
+
+Decimal Degrees
+Latitude: 26.8763889
+Longitude: -97.574444
+Datum: WGS 84
+
+RANGE IN CHARACTERISTICS:
+Soil Moisture: An aquicsoil moisture regime.
+
+Mean annual soil temperature: 26 to 27 degrees C (78 to 80 degrees F)
+Electrical conductivity  ranges from 16 to 70 dS/m or more and increases with depth.
+
+Particle-size control section (weighted average)
+Clay content: 10 to 18 percent
+CEC/clay ratio: 0.40 to 0.60
+
+Anz horizon
+Hue: 2.5Y or 10 YK
+Value: 4 to 6
+Chroma: 1 or 2
+Texture: loamy fine sand or fine sandy loam
+Effervescence: strong
+Reaction (pH): moderately alkaline to strongly alkaline (7.9 to 9.0)
+
+Bnz horizon (upper)
+Hue: 2.5Y or 5Y
+Value: 5 to 7
+Chroma: 1 or 2
+Texture: loamy fine sand or fine sandy loam
+Redox accumulations: amount-few or common, contrast-faint to prominent
+Effervescence: strong
+Reaction (pH): moderately alkaline to strongly alkaline (7.9 to 9.0)
+
+Bnz horizon (lower)
+Hue: 2.5Y, 5Y, or N/
+Value: 5 to 7
+Chroma: 0 to 2
+Texture: fine sandy loam
+Clay content: 10 to 18 percent
+Redox accumulations: amount-few to many; color-shades of brown, yellow or red
+Redox depletions: amount-few to many; color-shades of gray
+Effervescence: strong
+Reaction (pH): moderately alkaline to strongly alkaline (7.9 to 9.0)
+
+Bngz horizon (where present)
+Hue: 2.5Y or 5Y
+Value: 4 to 7
+Chroma: 1 or 2
+Texture: fine sandy loam
+Redox accumulations: amount-none to common; color-shades of brown, yellow or red
+Redox depletions: amount-none to common; shades of gray contrast-faint
+Effervescence: strong
+Reaction (pH): moderately alkaline to strongly alkaline (7.9 to 9.0)
+
+2Cngz and 3C horizons
+Hue: 2.5Y or 5Y
+Value: 4 to 6
+Chroma: 1 or 2
+Texture: loamy sand, loamy fine sand, fine sandy loam or sandy clay loam
+Redox accumulations: amount-few to many; color-shades of brown, yellow, or red
+Redox depletions: amount-few to many; color-shades of grayt
+Identifiable salts: amount few to many, kind-masses and concretions
+Effervescence: strong
+Reaction (pH): moderately alkaline to strongly alkaline (7.9 to 9.0)
+
+COMPETING SERIES:  
+There are no series in the same family.  Similar soils are the Arrada (TX), Barrada(TX), Cedarlake (TX), Feps (AZ), Topo (TX), Vanguard (CA) series.
+Arrada soils: are in a fine-loamy particle size family.
+Barrada soils: are in a fine particle size family.
+Cedarlake and Feps soils: are in a fine-loamy particle size family and are in a thermic temperature regime.
+Topo soils: have EC values less than 16 dS/m in the particle size control section.
+Vanguard series: are in a thermic temperature regime.
+
+GEOGRAPHIC SETTING:
+Parent material: loamy eolian deposits derived from Holocene age sediments.
+Landform: low flats adjacent to tidal flats
+Landscape: low coastal plains
+Slope: 0 to 1 percent but mainly less than 0.5 percent
+Mean annual air temperature range: 22 to 24 degrees C (72 to 75 degrees F)
+Mean annual precipitation range: 508 to762 mm (20 to 30 in)
+Precipitation Pattern: Typically, May, June, and September are the wettest months.  The driest months are December through March.
+Frost-free period: 306 to 350 days
+Elevation: 1.5 to7.6 m (5 to 25 ft) 
+Thornthwaite P-E Index: 31 to 36
+
+GEOGRAPHICALLY ASSOCIATED SOILS:
+These are the Barrada, Latina, Mustang, Point Isabel, and Satatton series.
+Barrada soils: are in a fine particle size family, at a slightly lower landform, and are affected by storm tides.
+Latina soils: have calcic horizons and are at slightly higher landforms.
+Mustang soils: are on a similar landform but have less than 10 percent clay.
+Point Isabel soils: are on a higher landform and are in a fine particle size family.
+Satatton soils: are on a slightly lower landform and have less than 10 percent silt plus clay.
+
+DRAINAGE AND PERMEABILITY:
+Drainage class: Poor
+Permeability class: moderate
+Runoff: negligible
+Ponding: these soils occasionally pond for long periods from March to November and during cyclonic storms and receive salt water spray during periods of high wind velocity.
+Seasonal water table: a water table occurs at the surface to a depth of 0.9 meters (3 ft) during most of the year.
+
+USE AND VEGETATION:
+Major uses: livestock grazing and wildlife habitat.
+Native vegetation: seashore saltgrass, pickleweed, bushy sea-oxeye, and gulf cordgrass.
+Ecological sites assigned to phases and components of this series are listed below.  Current ecological site assignments are in Web Soil Survey.  Components of this series include the following ecological sites:  Salt Flat
+
+DISTRIBUTION AND EXTENT: 
+General area: Gulf Coast in southern Texas 
+Land Resource Region: T- Atlantic and Gulf Coast Lowland Forest and Crop Region. 
+Major Land Resource Region: 150B- Gulf Coast Saline Prairies
+Extent: The series is of minor extent.
+
+SOIL SURVEY REGIONAL OFFICE (SSRO) RESPONSIBLE: Temple, Texas.
+
+SERIES ESTABLISHED:  Willacy County, Texas; 1980.
+
+REMARKS:  Classification change from Typic Salorthids to Typic Halaquepts based on application of Keys to Soil Taxonomy, Eighth Edition, 1998.
+
+Diagnostic horizons and features recognized in this pedon are:
+
+Particle size control section: 25 to 102 cm (10 to 40 in). (Bnz1, Bnz2, and Bngz horizons) 
+Ochric epipedon: 0 to 10 cm (0 to 4 in). (Anz horizon)
+Salic horizon: 10 to 157 cm (4 to 62 in). (Bnz, Bngz, 2Cngz, and 3Cngz horizons)
+Natric horizon: 10 to 157 cm (4 to 62 in). (Bnz, Bngz, 2Cngz, and 3Cngz horizons)
+
+Aquic feature: Saturated with water and reducing conditions within 102 cm (40 in) of the surface for one month or more in 6 out of 10 years.
+Lithologic discontinuity: At the upper boundary of the 2Cnzg horizon and at the upper boundary of the 3Cnzg horizon.
+
+ADDITIONAL DATA:  none
+
+Taxonomic Version: Keys to Soil Taxonomy, Twelfth Edition, 2014.
+
+National Cooperative Soil Survey
+U.S.A.

@@ -1,0 +1,81 @@
+LOCATION TUCKAHOE               VA
+
+Established Series
+DCH-DDR
+07/1999
+
+TUCKAHOE SERIES
+
+Soils of the Tuckahoe series are deep and well drained.  They
+formed in recent alluvium sediment on nearly level flood plains in the Piedmont and upper Coastal Plain.  Slopes range from 0 to 2 percent.  Mean annual temperature is about 60 degrees F and mean annual precipitation is about 42 inches.
+
+TAXONOMIC CLASS: Fine-loamy, mixed, active, thermic Dystric Fluventic Eutrudepts
+
+TYPICAL PEDON:  Tuckahoe loam - in a cultivated area.
+(Colors are for moist soil.)
+
+     Ap--0 to 10 inches; dark brown (10YR 4/3) loam; moderate fine granular structure; very friable, nonsticky, slightly plastic; common fine roots; common fine pores; few fine flakes of mica; few worm casts; neutral; clear smooth boundary.  (0 to 10 inches
+thick)
+
+     BA--10 to 17 inches; brown (10YR 4/3) loam; weak fine subangular blocky structure; friable; nonsticky, slightly plastic; common fine roots; common fine pores; few fine flakes of mica; neutral; clear wavy boundary.  (0 to 14 inches thick)
+
+     Bwl--17 to 30 inches; brown (10YR 4/3) clay loam; moderate fine subangular blocky structure; friable; slightly sticky, slightly plastic; few fine roots; few fine pores; few fine flakes of mica; slightly acid; clear wavy boundary.  (10 to 25 inches thick)
+
+     Bw2--30 to 43 inches; dark yellowish brown (10YR 4/4) silty clay loam; moderate fine subangular blocky structure; friable, slightly sticky, slightly plastic; few fine roots; few fine pores; few fine flakes of mica; slightly acid; clear wavy boundary.  (8 to 20 inches thick)
+
+     Bw3--43 to 61 inches; brown (7.5YR 5/4) loam; weak medium subangular blocky structure; friable, slightly sticky, slightly plastic few fine roots; few distinct light yellowish brown (10YR 6/4) sand coatings; few fine flakes of mica; slightly acid; gradual wavy boundary.  (0 to 20 inches thick)
+
+     C--61 to 68 inches; brown (7.5YR 5/4) silt loam; massive; friable, nonsticky, slightly plastic; few fine roots; few dark oxide stains; few fine flakes of mica; slightly acid.
+
+TYPE LOCATION:  Goochland County, Virginia; 1.7 miles southeast of intersection of Highways 600 and 627 and 50 feet east of the James River.
+
+RANGE IN CHARACTERISTICS:  The solum ranges from 40 to 65 inches.  Depth to bedrock is greater than 60 inches.  Rock fragments, where present, are less than 5 percent by volume at depths of less than 40 inches.  Content of flakes of mica ranges from none to many.  A buried horizon is in some pedons in the lower part of the solum.  The soil ranges from strongly acid through neutral throughout the solum.
+
+The A horizon has hue of 7.5YR or 10YR, value of 4, and chroma of 2 to 4.  It is fine sandy loam, loam, or silt loam.
+
+The B horizon has hue of 7.5YR or 10YR, value of 3 through 5, and chroma of 3 through 6.  Mottles are in some pedons, but mottles with chroma of 2 or less are below 24 inches.  The B horizon is loam, silt loam, clay loam, or silty clay loam.  Sand content is less than 45 percent.
+
+The C horizon is stratified, and is variable in color and texture.
+
+COMPETING SERIES:  The Hannahatchee and Ocana soils are the only series in the same family.  The Hannahatchee soils have greater than 45 percent sand in the B horizon.  The Ocana soils are formed in alluvium weathered from limestone and have 15 to 35 percent chert in the control section.
+
+GEOGRAPHIC SETTING:  Tuckahoe soils formed in recent alluvium on nearly level flood plains in the Piedmont and upper Coastal Plain.  Slopes are commonly less than 2 percent.  The loamy sediments are largely derived from soils formed in material weathered from
+schist, gneiss, granite, phyllite, and other metamorphic and
+igneous rocks.  Slopes range from 0 to 2 percent.  Mean annual precipitation ranges from 38 to 45 inches and mean annual
+temperature ranges from 59 to 62 degrees F.
+
+GEOGRAPHICALLY ASSOCIATED SOILS:  These are Monacan, Toccoa,
+Bolling, Buncombe, Fork, Pamunkey, and Wehadkee soils.  Bolling, Fork, and Pamunkey soils are Alfisols.  Buncombe soils are in a sandy family.  Wehadkee soils are Fluvaquents.  Monacan soils are aquentic and Toccoa soils are coarse loamy.
+
+DRAINAGE AND PERMEABILITY:  Well drained, slow runoff; moderate permeability.
+
+USE AND VEGETATION:  Most areas of this soil are cleared and used for crops or pasture.  Corn, soybeans, small grains, and hay are the principal crops.  A few small areas are in woodland consisting of yellow-poplar, loblolly pine and white oak.
+
+DISTRIBUTION AND EXTENT:  Virginia, North Carolina, and possibly Georgia.  This series is of small extent.
+
+MLRA SOIL SURVEY REGIONAL OFFICE (MO) RESPONSIBLE: Raleigh, North Carolina
+
+SERIES ESTABLISHED:  Goochland County, Virginia, 1976.
+
+REMARKS:  Tuckahoe soils were formerly included in the Congaree and Riverview series.
+
+TABULAR SERIES DATA:
+
+SOI-5  Soil Name   Slope  Airtemp FrFr/Seas Precip  Elevation
+VA0103 TUCKAHOE    0-  2   59- 62  190-220  38- 45    25- 700 
+
+SOI-5  FloodL FloodH Watertable Kind   Months  Bedrock Hardness
+VA0103 COMMON        6.0-6.0              -     60-60        
+
+SOI-5  Depth  Texture                3-Inch  No-10  Clay%   -CEC-
+VA0103  0-10  L FSL SIL               0-  0  95-100 10-25    -   
+VA0103 10-61  L CL SICL               0-  0  95-100 18-35    -   
+VA0103 61-68  SR GR-SL SICL           0- 15  45-100 10-35    -   
+
+SOI-5  Depth    -pH-     O.M.  Salin  Permeab   Shnk-Swll
+VA0103  0-10  5.6- 7.3  2.-4.  0- 0   0.6- 6.0  LOW      
+VA0103 10-61  5.6- 7.3  .5-1.  0- 0   0.6- 2.0  LOW      
+VA0103 61-68  5.6- 7.3  .5-1.  0- 0   0.6- 2.0  LOW      
+
+National Cooperative Soil Survey
+U.S.A.

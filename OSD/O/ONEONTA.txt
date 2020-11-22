@@ -1,0 +1,136 @@
+LOCATION ONEONTA                OR
+
+Established Series
+Rev. DRJ/JGM/KMS
+01/2017
+
+ONEONTA SERIES
+
+Landscape--western Cascade Mountains
+Landform--sides slopes and broad ridges of mountains, earthflows with some on complex landslides
+Slope--0 to 60 percent
+Parent material--earthflow deposits, colluvium, and residuum derived from basalt, andesite, and welded tuff; volcanic ash mixed throughout in Willamette National Forest
+Mean annual precipitation--2300 mm
+Mean annual air temperature--6 degrees C
+Depth class--very deep
+Drainage class--well drained
+Soil moisture regime--udic
+Soil temperature regime--cryic
+Soil moisture subclass--typic
+
+TAXONOMIC CLASS: Medial, amorphic Typic Haplocryands
+
+TYPICAL PEDON: Oneonta gravelly medial loam on a forested, southwest-facing, 14-percent slope at an elevation of 4240 feet
+
+ Oi--0 to 5 cm; partially decomposed leaves and twigs
+
+ A1--5 to 18 cm; gravelly medial loam, dark brown (10YR 3/3) dry, very dark brown (10YR 2/2) moist; strong very fine granular structure; slightly hard, very friable, slightly sticky and slightly plastic; many very fine and medium and common fine and coarse roots; many very fine irregular pores; 10 percent gravel and 5 percent cobbles; strongly acid (pH 5.4); clear wavy boundary
+
+ A2--18 to 33 cm; medial loam, brown (10YR 4/3) dry; very dark brown (10YR 2/2) moist; strong fine and medium granular structure; slightly hard, very friable, slightly sticky and slightly plastic; common very fine and few fine, medium, and coarse roots; many very fine irregular pores; 3 percent gravel and 2 percent cobbles; strongly acid (pH 5.4); clear wavy boundary
+
+ AB--33 to 51 cm; medial loam, brown (10YR 4/3) dry, dark brown (7.5YR 3/2) moist; moderate very fine and fine subangular blocky structure; slightly hard, very friable, slightly sticky and slightly plastic; common very fine and few fine, medium, and coarse roots; common very fine tubular pores; 3 percent gravel; strongly acid (pH 5.4); clear wavy boundary
+
+ Bw1--51 to 91 cm; medial loam, yellowish brown (10YR 5/4) dry, dark brown (7.5YR 3/3) moist; moderate very fine and fine subangular blocky structure; slightly hard, friable, slightly hard and slightly plastic; few very fine, fine, and medium roots; common very fine tubular pores; 3 percent gravel; very strongly acid (pH 4.8); clear wavy boundary
+
+ Bw2--91 to 160 cm; very paragravelly medial loam, light yellowish brown (10YR 6/4) dry, dark yellowish brown (10YR 4/4) moist; weak medium subangular blocky structure; slightly hard, friable, slightly sticky and slightly plastic; few very fine roots; common very fine tubular pores; 35 percent paragravel; very strongly acid (pH 4.6)
+
+TYPE LOCATION: Douglas County, Oregon, about 3 km west of Huckleberry Mountain, on the Calapooya Divide; 610 m north and 30 m west of the southeast corner of section 35, T. 23 S., R. 2 W.; latitude 43.5279801, longitude -122.8931013, datum WGS 84 (coordinates estimated from PLSS details)
+
+RANGE IN CHARACTERISTICS:
+Dry days--less than 45 consecutive days following summer solstice
+Mean annual soil temperature--4.5 to 8.0 degrees C
+Mean summer soil temperature--less than 8 degrees C in areas with an O horizon
+Thickness of umbric epipedon--50 to 125 cm
+Reaction--4.5 to 6.0
+Thickness of andic soil properties--greater than 150 cm
+
+Estimated properties of layers with andic soil properties
+*1/3-bar bulk density--0.60 to 0.90 g/cm3
+*Phosphate retention--greater than 85 percent
+*Ammonium oxalate extractable Al +  Fe--2.0 to 4.0 percent
+*15-bar water retention--30 to 70 percent (undried samples), greater than 15 percent (dried samples)
+*Volcanic ash content in 0.02- to 2.0-mm fraction--5 to 20 percent in Willamette National Forest, unknown in Douglas County
+
+A horizon
+*Hue--10YR, 7.5YR
+*Value--2 or 3 moist, 3 to 5 dry
+*Chroma--2 or 3 moist or dry
+*Clay content--15 to 27 percent
+*Sand content--25 to 45 percent
+*Total fragment content--5 to 35 percent
+*Gravel content--5 to 30 percent
+*Cobble content--0 to 5 percent
+*Organic matter content--5 to 10 percent, with less than 7 percent decrease below a depth of 30 cm
+*Combined thickness--20 to 60 cm
+
+AB horizon
+*Thickness--0 to 30 cm
+
+Bw horizon
+*Hue--10YR, 7.5YR
+*Value--3 or 4 moist, 5 to 7 dry
+*Chroma--3 or 4 moist or dry
+*Fine-earth texture--medial loam, medial clay loam
+*Clay content--18 to 35 percent
+*Sand content--20 to 45 percent
+*Total fragment content--5 to 35 percent
+*Gravel content--5 to 30 percent
+*Paragravel content--0 to 50 percent in lower part
+*Cobble content--0 to 10 percent
+*Combined thickness--75 to 150 cm
+
+COMPETING SERIES:
+Cruiser--no umbric epipedon
+Keel--lithic contact at a depth of 50 to 100 cm
+Longbow--umbric epipedon less than 50 cm thick
+Molawa--no umbric epipedon
+Soosap--paralithic contact at a depth of 50 to 100 cm
+
+GEOGRAPHIC SETTING:
+Elevation--1100 to 1500 m
+Climate--cold, wet winters; cool, moist summers
+Mean annual precipitation--1650 to 2900 mm
+Mean annual air temperature--4 to 7 degrees C
+Frost-free period--50 to 100 days
+
+GEOGRAPHICALLY ASSOCIATED SOILS:
+Hummington--more than 35 percent rock fragments in control section; 50 to 100 cm deep to bedrock; in convex or more steeply sloping positions
+Illahee--frigid soil temperature regime; more than 35 percent rock fragments in control section; in convex or more steeply sloping positions
+Keel--hard bedrock at a depth of 50 to 100 cm; in convex or more steeply sloping positions
+Lempira--frigid soil temperature regime; in similar landform positions
+Mellowmoon--frigid soil temperature regime; umbric epipedon less than 50 cm thick; in similar landform positions
+Scaredman--frigid soil temperature regime; more than 35 percent rock fragments in control section; in convex or more steeply sloping positions
+Longbow--umbric epipedon 25 to 50 cm thick; on glacially modified structural benches and mountain slopes
+
+DRAINAGE AND PERMEABILITY:
+Drainage class--well drained
+Saturation in normal years--below a depth of 200 cm in all horizons
+Flooding--none
+Ponding--none
+Saturated hydraulic conductivity (Ksat)--moderately high throughout
+
+USE AND VEGETATION:
+Use--recreation, wildlife habitat, timber production
+Potential natural vegetation--Douglas-fir, Pacific silver fir, western hemlock, Pacific rhododendron, golden chinkapin, dwarf Oregon grape, common beargrass, white-veined shinleaf, vine maple, American twinflower, western swordfern, big huckleberry, feather Solomon's seal
+
+DISTRIBUTION AND EXTENT: Western Cascade Mountains, Oregon; MLRA 3; small extent
+
+MLRA SOIL SURVEY REGIONAL OFFICE (MO) RESPONSIBLE: Portland, Oregon
+
+SERIES ESTABLISHED: Multnomah County, Oregon (Bull Run-Sandy Area); 1976
+
+REMARKS:
+Diagnostic horizons and other features recognized in this pedon
+*Particle-size control section--zone from 5 to 105 cm
+*Umbric epipedon--zone from mineral soil surface to a depth of 91 cm
+*Cambic horizon--zone from 51 to 160 cm
+*Andic soil properties--throughout profile (based on data from associated Keel and Lempira series)
+
+The Haplocryands classification is based on the soils not meeting the organic carbon content/thickness requirement for melanic/fulvic; below a depth of 30 cm, the organic carbon content is less than 4 percent. The type location was moved from Multnomah County to Douglas County. The date of this move is unknown. The classification was changed from medial Andic Cryumbrepts to Typic Haplocryands in a previous draft.
+
+06/2016--Additional samples of Oneonta soils from Douglas County and the Willamette National Forest should be collected to determine if the criteria for the Alic Haplocryands subgroup is met and if volcanic ash is present in Douglas County. Strong consideration should be given to the Alic subgroup. The soils are assumed to meet criteria 2 (no ash required) for andic soil properties, in the 12th edition of Keys to Soil Taxonomy. It is also assumed that enough ash is present for the soils to meet criteria 3. Additional lab data is needed to confirm the degree of ash influence.
+
+ADDITIONAL DATA: Characterization data--pedon number FS62Ore-045-16-1-7, Oregon State University
+
+National Cooperative Soil Survey
+U.S.A.

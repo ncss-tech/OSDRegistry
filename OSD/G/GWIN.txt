@@ -1,0 +1,101 @@
+LOCATION GWIN                   WA+ID OR
+
+Established Series
+Rev. PNP/KDPL/SBC
+09/2019
+
+GWIN SERIES
+
+Landscape--basalt plateaus, hills, canyonlands
+Landform--structural benches, ridgetops, hillslopes, canyons
+Slope--0 to 90 percent
+Parent material--colluvium and residuum derived from basalt mixed with loess
+Mean annual precipitation--about 510 mm
+Mean annual air temperature--about 9 degrees C
+Depth class--shallow
+Drainage class--well drained
+Soil moisture regime--xeric
+Soil temperature regime--mesic
+Soil moisture subclass--typic
+
+TAXONOMIC CLASS: Loamy-skeletal, mixed, superactive, mesic Lithic Argixerolls
+
+TYPICAL PEDON: Gwin cobbly silt loam in an area of rangeland
+
+ A--0 to 13 cm; cobbly silt loam, dark grayish brown (10YR 4/2) dry, very dark brown (10YR 2/2) moist; moderate to strong granular structure and weak thin platy; slightly hard, friable, slightly sticky and slightly plastic; many roots; 20 percent angular rock fragments; neutral (pH 6.6); clear smooth boundary
+
+ Bt1--13 to 30 cm; very cobbly silty clay loam, dark grayish brown (10YR 4/2) dry, very dark brown (10YR 2/2) moist; moderate coarse prismatic structure and moderate coarse subangular blocky; hard, firm, moderately sticky and moderately plastic; many roots; many fine continuous tubular pores; few faint clay films on vertical and horizontal faces of peds; 55 percent angular rock fragments; neutral (pH 6.6); gradual wavy boundary
+
+ Bt2--30 to 43 cm; extremely cobbly silty clay loam, brown (7.5YR 4/2) dry, dark brown (7.5YR 3/2) moist; moderate medium subangular blocky structure; hard, firm, moderately sticky and moderately plastic; few roots; few faint black (10YR 2/1) clay films on faces of peds and rock fragments; 60 percent angular rock fragments; neutral (pH 6.6); gradual wavy boundary
+
+ R--43 cm; basalt
+
+TYPE LOCATION: Walla Walla County, Washington, on Black Snake Ridge; in the SW1/4SW1/4 of section 3, T. 7 N., R. 38 E.
+
+RANGE IN CHARACTERISTICS:
+Mean annual soil temperature--about 8 to 12 degrees C
+Moisture control section--usually moist; typically dry 45 to 75 consecutive days following summer solstice
+Depth to bedrock--25 to 50 cm
+Particle-size control section--40 to 90 percent gravel, cobbles, and stones; 15 to 35 percent clay
+Reaction--6.1 to 7.8
+Hue--10YR or 7.5YR throughout
+
+A horizon
+Value--3 to 5 dry, 2 or 3 moist
+Chroma--1 to 6 dry, 1 to 3 moist
+Thickness--5 to 20 cm
+
+Bt horizon
+Value--3 to 6 dry, 2 to 4 moist
+Chroma--1 to 6 dry, 1 to 4 moist
+Texture--silt loam, loam, clay loam, silty clay loam
+Rock fragment content--35 to 90 percent
+Combined thickness--10 to 45 cm
+
+COMPETING SERIES:
+Canfire, Chinabutte--dry 75 to 90 consecutive days following summer solstice
+Clovercreek--dominantly greenstone gravel
+Shepridge--formed in colluvium or alluvium over residuum derived from quartzite
+Stepmount--secondary carbonates at a depth of 25 to 45 cm
+Windry--dry 90 to 100 consecutive days following summer solstice
+
+GEOGRAPHIC SETTING:
+Elevation--490 to 1375 cm in Washington, 240 to 1900 cm in Oregon and Idaho; highest elevations on south aspects only
+Climate--cool, wet winters; hot, dry summers
+Mean annual precipitation--360 to 840 mm
+Mean January air temperature--about -4 to -2 degrees C
+Mean July air temperature--about 19 to 22 degrees C
+Mean annual air temperature--about 6 to 11 degrees C
+Frost-free season--90 to 180 days
+
+GEOGRAPHICALLY ASSOCIATED SOILS:
+Athena--no lithic contact within a depth of 150 cm or more
+Balder--no argillic horizon; 25 to 50 cm (shallow) to a paralithic contact (volcanic tuff)
+Couse--no lithic contact within a depth of more than 150 cm
+Klicker--50 to 100 cm (moderately deep) to a lithic contact (basalt)
+Palouse--no lithic contact within a depth of 100 to 150 cm or more
+Rockly--argillic horizon; 10 to 30 cm (very shallow, shallow) to a lithic contact (basalt)
+
+DRAINAGE AND SATURATED HYDRAULIC CONDUCTIVITY:
+Drainage class--well drained
+Saturated hydraulic conductivity (Ksat)--moderately high
+
+USE AND VEGETATION:
+Use--livestock grazing, wildlife habitat
+Native vegetation--mainly bluebunch wheatgrass, Idaho fescue, and Sandberg bluegrass
+
+DISTRIBUTION AND EXTENT: Eastern and central Washington, eastern Oregon, and western Idaho; MLRAs 8, 9, and 10; large extent
+
+SOIL SURVEY REGIONAL OFFICE (SSRO) RESPONSIBLE: Portland, Oregon
+
+SERIES ESTABLISHED: Walla Walla County, Washington; 1960
+
+REMARKS:
+Diagnostic horizons and other features recognized in this pedon
+*Mollic epipedon--zone from the surface to a depth of 43 cm
+*Argillic horizon--zone from 13 to 43 cm
+*Depth to lithic contact--43 cm
+*Particle-size control section--zone from 13 to 43 cm
+
+National Cooperative Soil Survey
+U.S.A.

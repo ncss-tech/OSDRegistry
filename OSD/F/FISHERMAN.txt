@@ -1,0 +1,71 @@
+LOCATION FISHERMAN              VA
+
+Established Series
+Rev. CDP-PRC-WJE
+07/1999
+
+FISHERMAN SERIES
+
+Soils of the Fisherman series are very deep and moderately well drained.  They formed in sandy sediments.  They are in depressions and on undulating areas associated with dunes and salt marshes.  Permeability is very rapid. Slopes range from 0 to 6 percent.  Mean annual precipitation is 42 inches, and mean annual air temperature is 58 degrees F.
+
+TAXONOMIC CLASS: Mixed, thermic Aquic Udipsamments
+
+TYPICAL PEDON:  Fisherman fine sand--forested on 2 percent concave slope.  (Colors are for moist soil.)
+
+    A--0 to 6 inches; grayish brown (2.5Y 5/2) fine sand; single grain; loose; common fine and medium roots; very strongly acid; clear wavy boundary.
+
+    C1--6 to 14 inches; light yellowish brown (2.5Y 6./4) fine sand; common fine distinct yellowish brown (10YR 5/6) mottles; single grain; loose; few fine and medium roots; moderately acid; clear wavy boundary.
+
+    C2--14 to 25 inches; light yellowish brown (10YR 6/4) fine sand; single grain; loose; few fine roots; moderately acid; gradual wavy boundary. (Combined thickness of the C horizon is 14 to 35 inches.)
+
+    Cg--25 to 85 inches; grayish brown (2.5Y 5/2) sand; common fine distinct yellowish brown (10YR 5/6) mottles; single grain; loose; few fine roots; moderately acid.
+
+TYPE LOCATION:  Northampton County, Virginia; approximately 0.6 mile south of the Chesapeake Bay Bridge Toll Plaza and 165 yards east of Highway US-13, at Wise Point.
+
+RANGE IN CHARACTERISTICS:  Thickness of the sandy A and C horizon is greater than 80 inches.  Reaction ranges from very strongly acid through mildly alkaline.  Shell fragments are usually absent, but content ranges to 15 percent.  Silt plus clay in the control section is less than 5 percent.
+
+The 0 horizon, where present, is neutral or has hue of 7.5YR through 5Y, value of 2 or 3, and chroma of 0 through 3.
+
+The A horizon has hue of 10YR or 2.5Y, value of 2 through 6, and chroma of 1 through 3.  It is coarse sand, sand, or fine sand.
+
+The upper part of the C horizon has hue of 10YR or 2.5Y, value of 4 through 7, and chroma of 4 or 6.  The lower part of the C horizon has hue of 10YR through 5Y or is neutral, value of 2 through 8, and chroma of 0 through 4.  Low chroma mottles are between depths of 20 and 40 inches.  It is coarse sand, sand, or fine sand.
+
+Buried horizons are in some pedons below a depth of 40 inches.
+
+COMPETING SERIES:  These are the Clana, Felicity, Seabrook, and Voss series.  Clana, Seabrook and Voss soils are not inundated by salt water.  Felicity and Seabrook soils have more than 5 percent silt plus clay in the control section.
+
+GEOGRAPHIC SETTING:  Fisherman soils are on nearly level and gently sloping areas associated with dunes and salt marshes.  Elevations are generally less than 15 feet.  Slopes range from 0 to 6 percent.  Mean annual precipitation ranges from 25 to 60 inches, and mean annual air temperature ranges from 57 to 65 degrees F.
+
+GEOGRAPHICALLY ASSOCIATED SOILS:  These are the Assateague, Bojac, Carteret, Chincoteague, Magotha, and Molena soils.  Assateague, Bojac, and Molena soils are better drained and occupy higher landscape positions.  Carteret, Chincoteague, and Magotha soils are wetter and occupy lower landscape positions in marshes.
+
+DRAINAGE AND PERMEABILITY:  Moderately well drained; slow runoff; very rapid permeability.  Depth to the seasonal water table is 18 to 36 inches.
+
+USE AND VEGETATION:  Fisherman soils are used mainly for wildlife habitat and recreation.  The natural plant community consists of marshhay cordgrass, coastal or seashore saltgrass, wax myrtle or southern bayberry, loblolly pine, eastern red cedar, beachgrass, and sea rocket.
+
+DISTRIBUTION AND EXTENT:  Virginia, and possibly North Carolina, Georgia, and Florida.  The series is of moderate extent.
+
+MLRA SOIL SURVEY REGIONAL OFFICE (MO) RESPONSIBLE: Raleigh, North Carolina
+
+SERIES ESTABLISHED:  Northampton County, Virginia, 1985.  The name is from a barrier island.
+
+REMARKS:  In the past, Fisherman soils have been included in the Corolla soils, Dune land, Coastal beach, and Norfolk fine sand.  The absence of pedogenic subsurface horizons, the presence of a udic moisture regime, sandy particle size class to a depth of one meter, and mixed mineralogy are the main diagnostic features of these soils.
+
+ADDITIONAL DATA:  Virginia Polytechnic Institute and State University soil survey laboratory data shows less than 5 percent silt plus clay and mixed mineralogy for the typical pedon and 6 other profiles.
+
+TABULAR SERIES DATA:
+SOI-5  Soil Name   Slope  Airtemp FrFr/Seas Precip  Elevation
+VA0224 FISHERMAN   0-  6   57- 65  200-240  25- 60     0-  25 
+
+SOI-5  FloodL FloodH Watertable Kind   Months  Bedrock Hardness
+VA0224 RARE   COMMON 1.5-3.0  APPARENT JAN-DEC  60-60        
+
+SOI-5  Depth  Texture                3-Inch  No-10  Clay%   -CEC-
+VA0224  0- 6  COS S FS                0-  0  75-100  0-10    -   
+VA0224  6-85  COS S FS                0-  0  75-100  0- 5    -   
+
+SOI-5  Depth    -pH-     O.M.  Salin  Permeab   Shnk-Swll
+VA0224  0- 6  4.5- 7.8  0.-1.  0- 0    20-  20  LOW      
+VA0224  6-85  4.5- 7.8  0.-.5  0- 0    20-  20  LOW       
+
+National Cooperative Soil Survey
+U.S.A.

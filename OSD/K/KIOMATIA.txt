@@ -1,0 +1,117 @@
+LOCATION KIOMATIA               TX+AR LA OK
+
+Established Series
+Rev. JRT:GRT:MJB
+01/2017
+
+KIOMATIA SERIES
+
+The Kiomatia series consists of well drained, rapidly permeable soils that formed in sandy alluvium with thin strata of finer materials.  These soils are on flood plains.  Slope ranges from 0 to 5 percent, but is typically less than 2 percent. Mean annual air temperature is about 17.8 degrees C (64 degrees F) and the mean annual precipitation is about 1118 mm (44 in).
+
+TAXONOMIC CLASS: Sandy, mixed, thermic Typic Udifluvents
+
+TYPICAL PEDON: Kiomatia loamy fine sand, in a pasture at an elevation of 85 m (280 ft).  (Colors are for moist soil unless otherwise stated.)
+
+	A--0 to 10 cm (0 to 4 in); brown (7.5YR 5/4) loamy fine sand; single grain; slightly hard, very friable; few fine roots; contains few fine strata of reddish brown (5YR 5/4) fine sandy loam; calcareous; moderately alkaline; abrupt smooth boundary.  (Thickness of the A horizon is 5 to 25 cm [2 to 10 in])
+
+	C1--10 to 23 cm (4 to 9 in); light brown (7.5YR 6/4) fine sand; single grain; loose; common fine and medium strata of reddish brown (2.5YR 5/4) loamy fine sand and fine sandy loam; calcareous; moderately alkaline; abrupt smooth boundary.  
+
+	C2--23 to 38 cm (9 to 15 in); brown (7.5YR 5/4) very fine sandy loam; single grain; soft, very friable; few fine and medium strata of dark grayish brown (10YR 4/2) fine sandy loam; calcareous; moderately alkaline; abrupt smooth boundary.   (Combined thickness of the C horizon is greater than 152 cm {60 in])
+
+	C3--38 to 203 cm (15 to 80 in); stratified light brown (7.5YR 6/4) fine sand, reddish brown (5YR 5/4), very fine sandy loam, fine sandy loam, and pale brown (10YR6/3) loamy fine sand; single grain; loose; calcareous; moderately alkaline.
+
+TYPE LOCATION: Red River County, Texas; about 15 miles northeast of Clarksville, 1 mile east of Clarksville on Highway 82 to intersection of Farm Road 114, east on 114 to English, then north on Farm Road 1699 to Martin Shiloh Church, north on county road to Chapman Ranch and continue north on private road 3 miles.  Site is in pasture about 200 yards south of the Red River. 
+
+USGS Topographic Quadrangle: English, TX 
+Latitude: 33 degrees, 44 minutes, 21.124 seconds N 
+Longitude: 94 degrees, 47 minutes, 19.674 seconds W 
+
+Decimal Degrees: 
+Latitude: 33.73920111 degrees 
+Longitude: -94.78879833 degrees 
+Datum: WGS84 
+
+UTM Easting: 334256.74 m 
+UTM Northing: 3734632.75 m 
+UTM Zone: 15N
+
+RANGE IN CHARACTERISTICS: 
+Solum thickness: 152 to 203 (60 to 80 in)
+Reaction: slightly acid to moderately alkaline 
+Effervescence: slight to violent; these soils are calcareous below 25 cm (10 in) and are calcareous to noncalcareous to the surface
+
+Particle-size control section (weighted average):
+Clay content: 5 to 18 percent 
+Sand content: 60 to 92 percent
+
+A or Ap horizon:
+Hue: 5YR or 7.5YR
+Value: 4 to 7
+Chroma: 3 to 6
+Texture: loamy fine sand, fine sandy loam, very fine sandy loam, silt loam or silty clay loam
+Effervescence: none to strong
+Reaction: slightly acid to moderately alkaline (6.1 to 8.4)
+
+C or Ck horizon:
+Hue: 5YR to 10YR
+Value: 4 to 8
+Chroma: 4 to 8
+Texture: stratified fine sand, loamy fine sand, fine sandy loam, very fine sandy loam, or silt loam 
+Other features: some pedons have thin strata of finer textured material throughout the horizon 
+Effervescence: slight to strong
+Reaction: neutral to moderately alkaline (6.6 to 8.4)
+
+COMPETING SERIES: Bruno (TN) is the only competing series in this family.  Closely similar soils include the Buncombe (NC), Crevasse (MS), Idabel (OK), Lincoln (OK), Ochlockonee (AL), Oklared (OK), Robinsonville (MS), Toccoa (NC), Vicksburg (MS), and Yahola (OK) series. 
+Bruno and Crevasse soils: have hues yellower than 7.5YR; in addition, Crevasse soils are not stratified with textures finer than loamy fine sand  
+Buncombe soils: are strongly acid to moderately acid throughout and do not have strata finer than loamy fine sand to depths of 100 cm (40 in)  
+Idabel, Oklared, and Yahola soils: have an average texture finer than loamy fine sand in the control section; in addition, Idabel soils have a cambic horizon and Yahola soils are dry for longer periods of time  
+Lincoln soils: are dry for longer periods  
+Ochlockonee, Robinsonville, and Toccoa soils: have coarse-loamy control sections  
+Vicksburg soils: have coarse-silty control sections
+
+GEOGRAPHIC SETTING: 
+Parent Material: sandy alluvial sediments with thin strata of finer material from the Permian Red Beds
+Landscape: flood plain
+Landform: natural levee
+Slope: 0 to 5 percent
+Mean annual air temperature: 14 to 21 degrees C (58 to 70 degrees F)
+Mean annual precipitation: 1016 to 1219 mm (40 to 48 in)
+Mean annual soil temperature: 16 to 22 degrees C (61 to 72 degrees F)
+Frost-free period: 200 to 280 days
+Elevation: 23 to 122 m (75 to 400 ft)
+Thornthwaite P-E index: 80
+
+GEOGRAPHICALLY ASSOCIATED SOILS: These are the competing Idabel (OK) and Oklared (OK) series and the Redlake (OK) and Roebuck (OK)  soils. 
+Idabel and Oklared soils: are on similar to slightly higher positions 
+Redlake and Roebuck soils: are on lower positions and are clayey throughout; in addition Roebuck soils are in depressions
+
+DRAINAGE AND PERMEABILITY: 
+Drainage: well drained
+Permeability: rapid
+Runoff: negligible on slopes less than 5 percent and very low on slopes 5 percent of more 
+Seasonal high water table: a fluctuating water table occurs between 107 to 152 cm (42 and 60 in) of the surface during the months January through July in most years
+Flooding frequency: frequently flooded for brief periods during most years where it is unprotected
+
+USE AND VEGETATION: Most areas are used for bermudagrass pasture.  Natural vegetation is cottonwood and willow.
+
+DISTRIBUTION AND EXTENT: Red River Alluvium of Texas, Oklahoma, Arkansas, and Louisiana; LRR J, MLRA 87; LRR O, MLRA 131C and 133B.  The soil is extensive.
+
+MLRA SOIL SURVEY REGIONAL OFFICE (MO) RESPONSIBLE: Temple, Texas
+
+SERIES ESTABLISHED: Haskell County, Oklahoma; 1972.
+
+REMARKS: 
+The Kiomatia series was formerly classified in the Alluvial great soil group.
+
+Diagnostic horizons and features recognized in this pedon are:
+Ochric epipedon: 0 to 10 cm (0 to 4 in) (A horizon)
+Stratified sandy soil materials throughout.
+
+Edited 01/2017 (JAD-MJB) Changed to tabular format. Added metric measurements. Updated pedon description, range in characteristics, competing series, geographic setting, geographically associated soils, and other sections.
+
+ADDITIONAL DATA: none
+
+TAXONOMIC VERSION: Keys to Soil Taxonomy, Twelfth Edition, 2014
+
+National Cooperative Soil Survey
+U.S.A.

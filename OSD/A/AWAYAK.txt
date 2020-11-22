@@ -1,0 +1,105 @@
+LOCATION AWAYAK                 AK
+
+Established Series
+SAS/ABD/MPR
+03/2019
+
+AWAYAK SERIES
+
+Landscape--mountain valleys
+Landform--flood plains
+Slope--0 to 5 percent
+Parent material--alluvium
+Mean annual precipitation--about 1300 mm
+Mean annual air temperature--about 0 degrees C
+Depth class--very deep
+Drainage class--moderately well drained
+Soil moisture regime--udic
+Soil temperature regime--cryic
+Soil moisture subclass--oxyaquic
+
+TAXONOMIC CLASS: Sandy-skeletal, mixed Oxyaquic Cryofluvents
+
+TYPICAL PEDON: Awayak silt loam on a 1-percent slope of a linear flood plain at an elevation of 336 m (When described on July 21, 2012, the soil was moist to a depth of 55 cm and wet and satiated throughout the rest of the profile.)
+
+ A--0 to 8 cm; silt loam, light brownish gray (10YR 6/2) dry, dark grayish brown (10YR 4/2) moist; weak fine granular structure; soft, very friable, nonsticky and nonplastic; many fine and common very fine and medium roots; neutral (pH 7.1); abrupt smooth boundary
+
+ 2C--8 to 150 cm; extremely gravelly coarse sand, gray (2.5Y 5/1) dry, very dark gray (2.5Y 3/1) moist; single grain; loose, nonsticky and nonplastic; common very fine to medium roots; 65 percent gravel and 20 percent cobbles; neutral (pH 6.9)
+
+TYPE LOCATION: Dillingham Census Area, Alaska, about 105 km north-northeast of the village of Togiak; latitude 59.9955588 degrees north, longitude 159.8350059 degrees west, datum WGS 84 (coordinates determined with a GPS)
+
+RANGE IN CHARACTERISTICS:
+Mean annual soil temperature--0 to 3 degrees C
+Soil moisture control section--dry less than 45 consecutive days in June through October (udic moisture regime)
+
+Particle-size control section
+*Clay content--0 to 5 percent
+*Sand content--90 to 100 percent
+*Total rock fragment content--35 to 85 percent
+
+A horizon
+Value--2 to 4 moist, 4 to 6 dry
+Chroma--2 or 3 moist, 4 or 5 dry
+Fine-earth texture--silt loam, sandy loam
+Clay content--5 to 12 percent
+Reaction--5.5 to 7.1
+Thickness--2 to 17 cm
+
+2C horizon
+Hue--5Y, 2.5Y, 10YR
+Value--3 or 4 moist, 5 or 6 dry
+Chroma--1 to 4 moist, 3 to 6 dry
+Fine-earth texture--coarse sand, sand
+Clay content--0 to 3 percent
+Reaction--6.0 to 7.0
+Total rock fragment content--50 to 85 percent
+Gravel content--50 to 85 percent
+Cobble content--0 to 35 percent
+Thickness--more than 148 cm
+
+COMPETING SERIES:
+Beehive--ustic soil moisture regime
+Jonescreek--pH of 7.6 to 8.4
+
+GEOGRAPHIC SETTING:
+Elevation--5 to 700 m
+Climate--warm, moist summers; cold, moist winters
+Mean annual precipitation--580 to 2000 mm
+Mean annual air temperature-- -2.6 to 1.8 degrees C
+Frost-free period--70 to 140 days
+
+GEOGRAPHICALLY ASSOCIATED SOILS:
+Longarm--aquic conditions; reduced matrix; similar landscape positions
+Atayak--umbric epipedon; lithic contact; not subject to flooding; escarpments
+Ongivinuck--rare flooding; similar landscape positions
+Klak--not subject to flooding; mountain slopes
+Nagugun--not subject to flooding; glaciated plains
+Pegati--not subject to flooding; swales on mountains
+Pungokepuk--not subject to flooding; swales on plains
+North--not subject to flooding; mountain slopes
+Sundaycreek--not subject to flooding; alluvial fans
+
+DRAINAGE AND SATURATED HYDRAULIC CONDUCTIVITY:
+Drainage class-moderately well drained
+Flooding--frequent, very brief
+Saturation in normal years--below a depth of 0 to 25 cm in May, September, and October; below a depth of 50 to 100 cm during the rest of the year
+Saturated hydraulic conductivity (Ksat)--moderately high or high in the A horizon, very high in the 2C horizon
+
+USE AND VEGETATION:
+Use--wildlife habitat, recreation, subsistence
+Potential natural vegetation--bluejoint, fireweed, shrubby cinquefoil, field horsetail, woolly geranium, Schreber's big red stem moss, tall Jacob's-ladder, ledge stonecrop, Barclay's willow, Bebb willow, Canadian burnet, grayleaf willow, tealeaf willow
+
+DISTRIBUTION AND EXTENT: Ahklun Mountains, Alaska; MLRA 237; moderate extent
+
+SOIL SURVEY REGIONAL OFFICE (SSRO) RESPONSIBLE: Portland, Oregon
+
+SERIES ESTABLISHED: Togiak National Wildlife Refuge, Dillingham Census Area, Alaska; 2019
+
+REMARKS:
+Diagnostic horizons and other features in this pedon
+*Particle-size control section--zone from 25 to 100 cm
+*Ochric epipedon
+*Depth to lithologic discontinuity--top of 2C horizon
+
+National Cooperative Soil Survey
+U.S.A.

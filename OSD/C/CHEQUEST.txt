@@ -1,0 +1,148 @@
+LOCATION CHEQUEST               IA+MO
+
+Established Series
+Rev. JAL-SRS-RJB
+01/2016
+
+CHEQUEST SERIES
+
+The Chequest series consists of very deep, poorly drained soils formed in alluvium. These soils are on flood plains. Slopes range from 0 to 2 percent. Mean annual air temperature is about 10 degrees C (50 degrees F). Mean annual precipitation is about 81 centimeters (32 inches).
+
+TAXONOMIC CLASS: Fine, smectitic, mesic Vertic Endoaquolls
+
+TYPICAL PEDON: Chequest silty clay loam, with a slope of about 1 percent, in a cultivated field, at an elevation of 835 feet above sea level.  (Colors are for moist soil unless otherwise stated.)
+
+ Ap--0 to 18 centimeters (0 to 7 inches); very dark gray (10YR 3/1) silty clay loam, gray (10YR 5/1) dry; weak fine granular structure; friable; many pores; slightly acid; abrupt smooth boundary.
+
+ A--18 to 30 centimeters (7 to 12 inches); very dark gray (10YR 3/1) silty clay loam, dark gray (10YR 4/1) dry; moderate very fine subangular blocky structure; firm; many roots; many pores; slightly acid; gradual smooth boundary. [Combined thickness of the A horizon is 25 to 46 centimeters (10 to 18 inches).]
+
+ Btg1--30 to 46 centimeters (12 to 18 inches); dark gray (10YR 4/1) silty clay loam, gray (10YR 6/1) dry; moderate fine subangular blocky structure; firm; common fine roots; common fine pores; few distinct black (10YR 2/1) clay films on faces of peds; few distinct silt and very fine sand coats on faces of peds; common fine distinct dark brown (7.5YR 3/2) redoximorphic concentrations; moderately acid; gradual smooth boundary.
+
+ Btg2--46 to 64 centimeters (18 to 25 inches); dark gray (10YR 4/1) silty clay loam, gray (10YR 6/1) dry; moderate fine and medium subangular blocky structure; firm; common fine roots; common fine pores; few distinct black (10YR 2/1) clay films on faces of peds; few distinct gray (10YR 6/1) dry silt and very fine sand coats on faces of peds; few accumulations (oxides); many medium faint dark brown (7.5YR 3/2) and few fine faint brown (7.5YR 4/2) redoximorphic concentrations; moderately acid; gradual smooth boundary.
+
+ Btg3--64 to 89 centimeters (25 to 35 inches); dark gray (10YR 4/1) silty clay loam; faces of peds are black (10YR 2/1), very dark gray (10YR 3/1) and dark gray (10YR 4/1); moderate fine and medium subangular blocky structure; firm; common fine roots; common fine black (10YR 2/1) accumulations (oxides); common distinct black (10YR 2/1) clay films on faces of peds; few distinct silt and very fine sand coats on faces of peds; many fine faint olive brown (2.5Y 4/4) redoximorphic concentrations and common fine faint dark brown (7.5YR 3/2) and brown (7.5YR 4/2) redoximorphic concentrations; strongly acid; gradual smooth boundary.
+
+ Btg4--89 to 117 centimeters (35 to 46 inches); mixed very dark gray (10YR 3/1) and gray (2.5Y 5/1) and gray (10YR 6/1) silty clay loam; weak medium subangular blocky structure; firm; common fine roots; common distinct black (10YR 2/1) clay films mostly on surfaces along root channels; common fine black (10YR 2/1) accumulations (oxides); many medium prominent olive brown (2.5Y 4/4) redoximorphic concentrations; strongly acid; gradual smooth boundary.
+
+ Btg5--117 to 152 centimeters (46 to 60 inches); mixed dark gray (10YR 4/1) and gray (5Y 5/1) silty clay loam; weak medium subangular blocky structure; firm; common distinct black (10YR 2/1) clay films on faces of peds and along surface of root channels and pores; common fine prominent brown (7.5YR 4/4), few fine prominent olive brown (2.5Y 4/4), and few fine faint brown (7.5YR 4/2) redoximorphic concentrations; moderately acid. [Combined thickness of the Btg horizon is 61 to 132 centimeters (32 to 52 inches).]
+
+TYPE LOCATION: Major Land Resource Area (MLRA) 109-Iowa and Missouri Heavy Till Plain, Appanoose County, Iowa subset; about 1 mile north and 4 miles west of Moulton; about 1,700 feet west and 1,285 feet south of the northeast corner of section 13, T. 68 N., R. 17 W.; USGS Centerville East quadrangle; lat. 40 degrees 41 minutes 35 seconds N. and long. 92 degrees 45 minutes 33 seconds W., NAD83.
+
+RANGE IN CHARACTERISTICS:
+Thickness of mollic epipedon--25 to 60 centimeters (10 to 24 inches)
+Depth to carbonates--greater than 152 centimeters (60 inches)
+Content of clay in the particle-size control section (weighted average)--35 to 42 percent
+Content of sand in the particle-size control section (weighted average)--5 to 15 percent
+
+Ap or A horizon:
+Hue--10YR
+Value--2 or 3
+Chroma--1
+Texture--silty clay loam
+Clay content--27 to 40 percent
+Sand content--5 to 15 percent
+Reaction--moderately acid to neutral
+
+Overwash phase:
+Hue--10YR
+Value--2 or 3
+Chroma--1 or 2
+Texture--silt loam or silty clay loam
+Clay content--20 to 30 percent
+Sand content--15 to 35 percent
+Reaction--moderately acid to neutral
+Thickness--15 to 46 centimeters (6 to 18 inches)
+
+Btg horizon:
+Hue--10YR, 2.5Y, or 5Y
+Value--4 to 6
+Chroma--1
+Texture--silty clay loam or silty clay
+Clay content--30 to 55 percent
+Sand content--5 to 15 percent
+Reaction--strongly acid or moderately acid
+
+Cg horizon (if present):
+Hue--10YR, 2.5Y, or 5Y
+Value--4 to 6
+Chroma--1 or 2
+Texture--silty clay loam, silt loam, loam, or clay loam
+Clay content--24 to 40 percent
+Sand content--5 to 50 percent
+Reaction--moderately acid to neutral
+
+COMPETING SERIES: These are the Carlow, Cove, Fults, Kalona, Kings, Marna, Moline, Rosedell, Streator, Titus, Waldorf, and Woodbury series.
+Carlow--have a clay content of 45 to 60 percent in the particle-size control section
+Cove--have a clay content of 50 to 60 percent in the particle-size control section
+Fults--have a clay content of 5 to 30 percent and a sand content of 10 to 95 percent in lower third of the series control section
+Kalona--have a sand content of less than 5 percent in the particle-size control section
+Kings--have carbonates within depths of 91 to 142 centimeters (36 to 50 inches)
+Marna--have carbonates within depths of 66 to 122 centimeters (26 to 48 inches)
+Moline--have a clay content of 45 to 60 percent in the particle-size control section and have carbonates within depths of 51 to 142 centimeters (20 to 50 inches)
+Rosedell--have carbonates within depths of 30 to 71 centimeters (12 to 28 inches)
+Streator--have a sand content of less than 5 percent in the particle-size control section
+Titus--have a clay content of 20 to 30 percent and have a sand content of 15 to 30 percent in the lower third of the series control section
+Waldorf--have a clay content of 40 to 50 percent in the particle-size control section and have carbonates within depths of 66 to 140 centimeters (26 to 55 inches)
+Woodbury--have a clay content of 40 to 50 percent in the particle-size control section and have carbonates within depths of 91 to 152 centimeters (36 to 60 inches)
+
+GEOGRAPHIC SETTING:
+Parent material--alluvium
+Landform--flood plains
+Slopes--0 to 2 percent
+Elevation--152 to 305 meters (500 to ,1000 feet) above sea level
+Mean annual air temperature--8 to 12 degrees C (47 to 54 degrees F)
+Mean annual precipitation--76 to 86 centimeters (30 to 34 inches)
+Frost-free period--165 to 180 days
+
+GEOGRAPHICALLY ASSOCIATED SOILS: These are the Amana, Carlow, Coppock, and Wabash soils.
+Amana--are at slightly higher elevations on floodplains and have a clay content of 18 to 30 percent in the particle-size control section
+Coppock--are at slightly higher elevations on floodplains and have a clay content of 27 to 35 percent in the particle-size control section epipedon
+Carlow--are in landscape positions similar to those of the Chequest soils and have a clay content of 45 to 60 percent in the particle-size control section
+Wabash--are in landscape positions similar to those of the Chequest soils and have a mollic epipedon 91 to 112 centimeters (36 to 44 inches) thick
+
+DRAINAGE AND PERMEABILITY:
+Drainage class--poorly drained--saturation occurs within a depth of 0.3 meters (1 foot) during March to June in normal years and is considered apparent
+Saturated hydraulic conductivity--moderately high
+Surface runoff potential--negligible to low
+Flooding--occasional for brief periods during the months of February to November from precipitation events and snowmelt
+
+USE AND VEGETATION:
+Most areas are cultivated. The principal crops are corn, soybeans, small grains, and legume hays. Some small areas are forested and pastured. The native vegetation is big bluestem, western wheatgrass, sedges, blue grama, other species of the tall grass prairie that are tolerant of excessive wetness, and scattered deciduous trees. See Additional Data section for native vegetative cover in Iowa.
+
+DISTRIBUTION AND EXTENT:
+Physiographic Division--Interior Plains
+Physiographic Province--Central Lowland
+Physiographic section(s)--Dissected till plains, Till plains
+MLRA(s)--Illinois and Iowa Deep Loess and Drift (108), Iowa and Missouri Heavy Till Plain (109), Central Claypan Areas (113), Central Mississippi Valley Wooded Slopes (115)
+LRR M; southern Iowa and northern Missouri
+Extent--moderate
+
+MLRA SOIL SURVEY REGIONAL OFFICE (MO) RESPONSIBLE: Indianapolis, Indiana
+
+SERIES ESTABLISHED: Van Buren County, Iowa, 1960
+
+REMARKS:
+Particle-size control section--the zone from a depth of 30 to 80 centimeters (12 to 31 inches) (Btg1, Btg2, and Btg3 horizons);
+series control section--the zone from the surface to a depth of 152 centimeters (0 to 60 inches) (Ap, A, Btg1, Btg2, Btg3, Btg4, and Btg5 horizons).
+
+Diagnostic horizons and features recognized in this pedon:
+mollic epipedon--the zone from the surface to a depth of 30 centimeters (0 to 12 inches) (Ap and A horizons);
+cambic horizon--the zone from 30 to 152 centimeters (12 to 60 inches) (Btg1, Btg2, Btg3, Btg4, and Btg5 horizons);
+aquic conditions--redoximorphic depletions and accumulations within in a depth of 51 centimeters (20 inches).
+
+Vertic subgroup based on linear extensibility greater than 6.0 centimeters between the surface and a depth of 100 centimeters, and presence of cracks 5 millimeters or more wide through a thickness of 30 centimeters or more for some time in normal years.
+
+The silt coats, clay films, and acid reaction in the Btg horizon are features similar to those of the Alfisols order. It is thought that these soils have a regular decrease in organic matter with increasing depth, but some may be marginal to Fluvaquentic Endoaquolls.
+
+The Btg horizon has some discontinuous clay films, but the increase in clay from the A to the B horizon is not great enough nor does the clay increase occur within a short enough distance to qualify as an argillic horizon.
+
+Taxonomy version--Keys to Soil Taxonomy, ninth edition, 2003.
+
+ADDITIONAL DATA:
+Laboratory data--National Soil Survey Laboratory, Lincoln, Nebraska--pedon numbers 71IA007002 and 85MO127001 (http://ssldata.sc.egov.usda.gov/).
+Laboratory data--Iowa State University, Ames, IA--pedon number 571Iowa-4-2.
+
+In Iowa, the native vegetative cover is a herbaceous wetland community commonly inhabited with Bluejoint Grasses, White Cutgrasses, Fox Sedges, Oval Sedges, Inland Rushes, Torreys Rushes, Dark Green Bulrushes, Flatstem Spikerushes, Blue Vervains, Indian Hemps, Winged Loosestrifes, Wild Mints, and Water Horehounds. Source: Iowa State Office, Natural Resources Conservation Service, Des Moines, IA.
+
+National Cooperative Soil Survey
+U.S.A.

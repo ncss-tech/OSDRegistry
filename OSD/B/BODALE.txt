@@ -1,0 +1,130 @@
+LOCATION BODALE                 OR
+
+Established Series
+IRD. RJO/DAL/KMS
+11/2018
+
+BODALE SERIES
+
+Landscape--mountains
+Landform--high terraces on mountain valleys
+Slope--0 to 30 percent 
+Parent material--alluvium derived from mixed sources 
+Mean annual precipitation--about 790 mm 
+Mean annual air temperature--about 4 degrees C 
+Depth class--very deep 
+Drainage class--moderately well drained 
+Soil moisture regime--udic 
+Soil temperature regime--cryic 
+Soil moisture subclass--typic
+
+TAXONOMIC CLASS: Coarse-loamy, mixed, superactive Cumulic Haplocryolls
+
+TYPICAL PEDON: Bodale loam under subalpine fir and Engelmann spruce forest, on 0-percent slope at an elevation of 1285 m (Soil textures are apparent field textures.)
+
+ Oi--0 to 3 cm; slightly decomposed plant material consisting of needles and twigs
+
+ Oe--3 to 8 cm; moderately decomposed plant material
+
+ A1--8 to 38 cm; loam, brown (7.5YR 4/3) dry, dark brown (7.5YR 3/2) moist; weak medium subangular blocky structure parting to moderate medium granular; slightly hard, friable, slightly sticky and slightly plastic; common very fine, fine, and medium roots; common medium and coarse tubular pores; neutral (pH 7.0); clear wavy boundary
+
+ A2--38 to 66 cm; sandy loam, brown (7.5YR 4/2) dry, dark brown (7.5YR 3/2) moist; moderate medium subangular blocky structure parting to moderate fine subangular blocky structure; slightly hard, friable, slightly sticky and slightly plastic; common very fine, fine, medium, and coarse roots; common very fine and fine irregular pores and common fine and medium tubular pores; neutral (pH 7.0); clear wavy boundary
+
+ AC--66 to 89 cm; sandy clay loam, brown (7.5YR 4/2) dry, dark brown (7.5YR 3/2) moist; weak fine subangular blocky structure; slightly hard, friable, slightly sticky and slightly plastic; common very fine, fine, medium, and coarse roots; common very fine irregular and tubular pores; 10 percent gravel; slightly acid (pH 6.5); clear smooth boundary
+
+ C1--89 to 117 cm; very gravelly sandy loam, brown (7.5YR 4/3) dry, dark brown (7.5YR 3/3) moist; massive; slightly hard, friable, nonsticky and nonplastic; common very fine and fine roots; common very fine irregular pores; 45 percent gravel; slightly acid (pH 6.5); clear smooth boundary
+
+ C2--117 to 152 cm; extremely cobbly sand, brown (7.5YR 4/3) dry, dark brown (7.5YR 3/3) moist; single grain; loose, very friable, nonsticky and nonplastic; common very fine roots; common very fine and fine irregular pores; 15 percent stones, 20 percent cobbles, and 25 percent gravel; slightly acid (pH 6.5)
+
+TYPE LOCATION: Wallowa County, Oregon; in the SE1/4SE1/4NW1/4 of section 36, T. 3 N., R. 44 E.; latitude 45.6981926, longitude -117.2607574, datum WGS 84 (coordinates from unknown source)
+
+RANGE IN CHARACTERISTICS:
+Mean annual soil temperature--3 to 7 degrees C
+Mean summer soil temperature--6 to 12 degrees C
+Mean winter soil temperature--0 to 3 degrees C
+Soil moisture--dry 25 to 45 days in summer
+Depth to seasonal water table--100 to 200 cm
+
+Particle-size control section (25 to 100 cm from the mineral soil surface)
+*Clay content--5 to 15 percent
+*Total rock fragment content--10 to 20 percent
+
+A and AC horizons
+Hue--7.5YR, 10YR
+Value--2 to 3 moist, 3 to 5 dry
+Chroma--2 or 3
+Fine-earth texture--loam, silt loam, sandy loam, sandy clay loam
+Clay content--1 to 23 percent
+Sand content--20 to 60 percent 
+Organic matter content--2.5 to 8 percent 
+Total rock fragment content--0 to 15 percent 
+Gravel content--0 to 15 percent 
+Reaction--6.1 to 7.3 
+
+C1 horizon 
+Hue--7.5YR, 10YR
+Value--3 moist, 4 or 5 dry
+Chroma--2 to 4 moist or dry
+Fine-earth texture--loam, sandy loam
+Clay content--6 to 10 percent 
+Sand content--45 to 70 percent 
+Organic matter content--0 to 1 percent 
+Total rock fragment content--45 to 80 percent 
+Gravel content--25 to 45 percent 
+Cobble content--0 to 20 percent 
+Stone content--0 to 25 percent 
+Reaction--6.1 to 7.3 
+
+C2 horizon 
+Hue--7.5YR, 10YR
+Value--3 moist, 4 or 5 dry
+Chroma--2 to 4 moist or dry
+Fine-earth texture--loam, sandy loam
+Clay content--2 to 10 percent 
+Sand content--55 to 90 percent 
+Organic matter content--0 to 1 percent 
+Total rock fragment content--60 to 80 percent 
+Gravel content--25 to 30 percent 
+Cobble content--20 to 25 percent 
+Stone content--15 to 25 percent 
+Reaction--6.1 to 6.5 
+
+COMPETING SERIES: 
+Tosina--less than 35 percent subangular rock fragments in the lower part of the particle-size control section; formed in loess over loamy till; on till plains in areas where permafrost has melted due to disturbance
+
+GEOGRAPHIC SETTING: 
+Elevation--1210 to 1800 m 
+Climate--cold, wet winters; cool, moist summers
+Mean annual precipitation--480 to 1110 mm 
+Mean annual air temperature--2 to 6 degrees C 
+Frost-free period--20 to 80 days
+
+GEOGRAPHICALLY ASSOCIATED SOILS: 
+Bandarrow--on wet mountain meadows and flood plains of broad mountain valley floors
+Broadycreek--on low terraces of mountain valley floors; under subalpine fir
+Bucketlake--on moraines of mountain valley floors; thick mantle of volcanic ash
+Digit (T)--on high alluvial terraces; thick mantle of volcanic ash; under grand fir
+
+DRAINAGE AND SATURATED HYDRAULIC CONDUCTIVITY:
+Saturation during normal years--saturated at a depth of 109 to 183 cm in April through June
+Flooding--very rare, very brief
+Ponding--none
+Saturated hydraulic conductivity (Ksat)--moderately high or high over high or very high
+
+USE AND VEGETATION: 
+Use--timber production, watershed, wildlife habitat, recreation, livestock grazing
+Native vegetation--Engelmann spruce, grand fir, subalpine fir, lodgepole pine, gray alder, western larch, Douglas-fir, ponderosa pine, big huckleberry, heartleaf arnica, grouse huckleberry, queencup bead lily, skunkleaf polemonium, northern twinflower, baldhip rose, singleleaf pinyon, Columbia brome, prickly currant, sticky currant, elk sedge, pinegrass, prince's pine
+
+DISTRIBUTION AND EXTENT: Blue Mountains of northeastern Oregon; MLRA 10; small extent
+
+SOIL SURVEY REGIONAL OFFICE (SSRO) RESPONSIBLE: Portland, Oregon
+
+SERIES ESTABLISHED: Wallowa County, Oregon; 2018
+
+REMARKS:
+Diagnostic horizons and other features recognized in this pedon
+*Mollic epipedon--zone from 8 to 89 cm
+*Particle-size control section--zone from 33 to 103 cm
+
+National Cooperative Soil Survey
+U.S.A.

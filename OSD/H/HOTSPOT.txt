@@ -1,0 +1,101 @@
+LOCATION HOTSPOT                ID
+
+Established Series
+IRD RWW/RGK/CBR
+05/2018
+
+HOTSPOT SERIES
+
+Landscape--lava fields
+Landform--lava flows
+Slope--0 to 12 percent
+Parent material--alluvium derived from basalt
+Mean annual precipitation--about 350 mm
+Mean annual air temperature--about 5 degrees C
+Depth class--shallow
+Drainage class--well drained
+Soil moisture regime--xeric
+Soil temperature regime--frigid
+
+TAXONOMIC CLASS: Loamy-skeletal, mixed, superactive, frigid Lithic Calcixerolls
+
+TYPICAL PEDON: Hotspot very gravelly loam in an area of rangeland (Colors are for dry soil unless otherwise noted.)
+
+ A--0 to 13 cm; grayish brown (10YR 5/2) very gravelly loam, very dark grayish brown (10YR 3/2) moist; weak very fine granular structure; slightly hard, very friable, slightly sticky and slightly plastic; many very fine and fine roots; many very fine interstitial pores; finely disseminated calcium carbonate; 25 percent gravel, 10 percent cobbles, and 5 percent stones; slightly effervescent; slightly alkaline (pH 7.4); clear wavy boundary
+
+ Bk1--13 to 25 cm; dark grayish brown (10YR 4/2) very gravelly loam, very dark grayish brown (10YR 3/2) moist; weak very fine and fine subangular blocky structure; slightly hard, very friable, slightly sticky and slightly plastic; many very fine and fine roots; many very fine tubular pores; 30 percent gravel, 15 percent cobbles, and 5 percent stones; strongly effervescent, common threadlike and irregular masses of calcium carbonate throughout; slightly alkaline (pH 7.4); clear wavy boundary
+
+ Bk2--25 to 41 cm; grayish brown (10YR 5/2) very cobbly loam, dark grayish brown (10YR 4/2) moist; weak very fine and fine subangular blocky structure; slightly hard, very friable, slightly sticky and slightly plastic; many very fine and fine roots; many very fine tubular pores, 30 percent gravel, 15 percent cobbles, and 5 percent stones; violently effervescent, many threadlike and irregular masses of calcium carbonate throughout; slightly alkaline (pH 7.8)
+
+ R--41 cm; basalt
+
+TYPE LOCATION: Clark County, Idaho; latitude 44.25230 degrees north, longitude 112.22289 degrees west, datum WGS 84
+
+RANGE IN CHARACTERISTICS:
+Mean annual soil temperature--3.9 to 7.2 degrees C
+Depth to lithic contact--25 to 50 cm
+Thickness of mollic epipedon--18 to 30 cm
+Depth to calcic horizon--8 to 15 cm
+
+Particle-size control section (weighted averages)
+Clay content--15 to 25 percent
+Total rock fragment content--35 to 60 percent
+
+A horizon
+Value--4 or 5 dry, 2 or 3 moist
+Chroma--2 or 3 dry or moist
+Clay content--11 to 25 percent
+Total rock fragment content--35 to 60 percent
+Gravel content--15 to 25 percent
+Cobble content--0 to 40 percent
+Stone content--0 to 5 percent
+Reaction--pH 7.4 to 7.8
+Thickness--8 to 15 cm
+
+Bk horizon
+Value--4 to 7 dry, 3 to 5 moist
+Chroma--2 or 3 dry or moist
+Clay content--15 to 25 percent
+Total rock fragment content--25 to 60 percent
+Gravel content--25 to 40 percent
+Cobble content--10 to 35 percent
+Stone content--0 to 15 percent
+Reaction--pH 7.9 to 8.4
+Thickness--18 to 35 cm
+
+COMPETING SERIES:
+Lilcan--8 to 15 percent clay in particle-size control section
+
+GEOGRAPHIC SETTING:
+Elevation--1540 to 1820 m
+Mean annual precipitation--300 to 525 mm
+Mean annual air temperature--2.8 to 6.1 degrees C
+Frost-free period--70 to 100 days
+
+GEOGRAPHICALLY ASSOCIATED SOILS: None listed
+
+DRAINAGE AND SATURATED HYDRAULIC CONDUCTIVITY:
+Drainage class--well drained
+Saturated hydraulic conductivity (Ksat)--5 to 25 um/sec
+
+USE AND VEGETATION:
+Major use--rangeland
+Potential natural vegetation--Wyoming big sagebrush, threetip sagebrush, bluebunch wheatgrass, Sandberg bluegrass, Nevada bluegrass, tapertip hawksbeard
+
+DISTRIBUTION AND EXTENT:  Small extent in eastern Idaho; MLRAs 11 and 13
+
+SOIL SURVEY REGIONAL OFFICE (SSRO) RESPONSIBLE:  Portland, Oregon
+
+SERIES ESTABLISHED: Clark County, Idaho; 2018
+
+REMARKS:
+Diagnostic horizons and other features in this pedon
+Mollic epipedon--zone from the surface to a depth of 25 cm (A and Bk1 horizons)
+Calcic horizon--zone from 13 to 41 cm (Bk1 and Bk2 horizons)
+Depth to lithic contact--41 cm
+Particle-size control section--zone from 25 to 41 cm
+
+Taxonomic version--Twelfth Edition, 2014
+
+National Cooperative Soil Survey
+U.S.A.

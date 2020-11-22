@@ -1,0 +1,117 @@
+LOCATION BEEZEE                 WA
+
+Established Series
+Rev. EH/RJE/RWL
+09/2019
+
+BEEZEE SERIES
+
+Landscape--canyonlands
+Landform--canyons
+Slope--30 to 75 percent
+Parent material--colluvium derived from basalt mixed with loess
+Mean annual precipitation--about 1000 mm
+Mean annual air temperature--about 10 degrees C
+Depth class--very deep
+Drainage class--well drained
+Soil moisture regime--xeric
+Soil temperature regime--mesic
+Soil moisture subclass--typic
+
+TAXONOMIC CLASS: Loamy-skeletal, mixed, superactive, mesic Ultic Argixerolls
+
+TYPICAL PEDON: Beezee cobbly loam, forested, on a 35-percent, southeast-facing side slope at an elevation of 380 m
+
+ A--0 to 25 cm; cobbly loam, brown (7.5YR 4/3) dry, dark brown (7.5YR 3/2) moist; weak fine granular structure; soft, very friable, nonsticky and nonplastic; many very fine and fine roots; common fine tubular pores; 10 percent gravel and 15 percent cobbles; moderately acid (pH 6.0); gradual wavy boundary
+
+ AB--25 to 46 cm; very cobbly loam, brown (7.5YR 5/3) dry, dark brown (7.5YR 3/3) moist; weak fine subangular blocky structure; soft, friable, nonsticky and nonplastic; many fine tubular pores; 20 percent gravel and 25 percent cobbles; slightly acid (pH 6.2); clear wavy boundary
+
+ Bt1--46 to 84 cm; extremely cobbly loam, brown (7.5YR 5/4) dry, dark brown (7.5YR 3/4) moist; weak fine and medium subangular blocky structure; slightly hard, friable, nonsticky and nonplastic; common fine and medium roots; common fine tubular pores; common distinct clay films on faces of peds and in pores; 30 percent gravel and 30 percent cobbles; slightly acid (pH 6.2); clear wavy boundary
+
+ Bt2--84 to 150 cm; cobbly loam, light brown (7.5YR 6/4) dry, dark brown (7.5YR 3/4) moist; weak fine and medium subangular blocky structure; slightly hard, friable, slightly sticky and slightly plastic; common fine and medium roots; common fine tubular pores; many distinct clay films on faces of peds and in pores; 10 percent gravel, 10 percent cobbles, and 20 percent basalt pararock fragments; slightly acid (pH 6.4)
+
+TYPE LOCATION: Klickitat County, Washington, about 8 km northeast of Husum; about 30 m north and 90 m east of the southwest corner of section 2, T. 4 N., R. 11 E.; latitude 45.85564, longitude -121.403921, datum WGS 84 (coordinates estimated from section, township, and range)
+
+RANGE IN CHARACTERISTICS:
+Mean annual soil temperature--10 to 12 degrees C
+Soil moisture--usually moist, but dry in moisture control section 60 to 75 consecutive days following summer solstice
+Rock fragment content in particle-size control section--20 to 60 percent; weighted average of more than 35 percent
+Pararock fragment content in particle-size control section--20 to 40 percent
+Thickness of mollic epipedon--40 to 50 cm
+
+A horizon
+Hue--5YR, 7.5YR
+Value--3 to 5 moist
+Chroma--2 or 3 dry or moist
+Reaction--5.6 to 6.5
+Thickness--20 to 30 cm
+
+AB horizon
+Hue--5YR, 7.5YR
+Value--3 to 5 moist
+Gravel content--15 to 30 percent
+Cobble content--15 to 60 percent
+Reaction--5.6 to 6.5
+Thickness--18 to 25 cm
+
+Bt horizon
+Hue--5YR to 10YR
+Value--5 or 6 dry, 3 to 6 moist
+Texture of fine-earth fraction--loam, clay loam
+Gravel content--15 to 30 percent (decreases as depth increases)
+Cobble content--15 to 60 percent (decreases as depth increases)
+Reaction--5.6 to 6.5
+Combined thickness--102 to 112 cm
+
+COMPETING SERIES:
+Balake--mollic epipedon 25 to 40 cm thick
+Bluesprin--50 to 100 cm (moderately deep) to a lithic contact (basalt); no pararock fragments in particle-size control section
+Fordice--no influence of loess; subrounded or rounded alluvial rock fragments throughout; pH of 5.1 to 5.5 in A horizon
+Hunsinger--100 to 150 cm (deep) to a paralithic contact (weathered basalt); dry more than 100 consecutive days following summer solstice
+Jebe--dry 45 to 60 consecutive days following summer solstice
+Jellico--50 to 100 cm (moderately deep) to a lithic contact (basalt); dry more than 100 consecutive days following summer solstice
+Keuterville--dry 45 to 60 consecutive days following summer solstice
+Legall--dry 75 to 90 consecutive days following summer solstice
+Nashmead--100 to 150 cm (deep) to a lithic contact (sandstone); dry more than 90 consecutive days following summer solstice; mean annual soil temperature of 12 to 15 degrees C
+Riverpoint--mollic epipedon 25 to 40 cm thick; mean annual soil temperature of 8 to 10 degrees C; 40 to 100 cm deep to a discontinuity
+Sauter--mean annual soil temperature of 8 to 10 degrees C; no pararock fragments in particle-size control section
+Shanks--50 to 100 cm (moderately deep) to a lithic contact (granodiorite)
+Sienna--50 to 100 cm (moderately deep) to a lithic contact (basalt); dry 75 to 90 consecutive days following summer solstice
+
+GEOGRAPHIC SETTING:
+Elevation--275 to 925 m
+Climate--warm, dry summers; cool, moist winters
+Mean January air temperature--about -1 degree C
+Mean July air temperature--about 19 degrees C
+Mean annual air temperature--about 9 to 11 degrees C
+Mean annual precipitation--640 to 1150 mm
+Frost-free season--100 to 130 days
+
+GEOGRAPHICALLY ASSOCIATED SOILS:
+Panak, Para--fine-loamy particle-size class
+Oreoke--mollic epipedon more than 50 cm thick
+
+DRAINAGE AND SATURATED HYDRAULIC CONDUCTIVITY:
+Drainage class--well drained
+Saturated hydraulic conductivity (Ksat)--moderately high
+
+USE AND VEGETATION:
+Use--mainly timber production, livestock grazing, wildlife habitat, and recreation
+Native vegetation--ponderosa pine, Douglas-fir, Oregon white oak, common snowberry, deerbrush, western hazel, creambush oceanspray, elk sedge
+
+DISTRIBUTION AND EXTENT: Klickitat County, Washington; MLRA 6; small extent
+
+SOIL SURVEY REGIONAL OFFICE (SSRO) RESPONSIBLE: Portland, Oregon
+
+SERIES ESTABLISHED: Klickitat County, Washington; 2003
+
+REMARKS:
+Diagnostic horizons and other features recognized in this pedon
+*Mollic epipedon--zone from the mineral soil surface to a depth of 46 cm
+*Argillic horizon--zone from 46 to 150 cm
+*Particle-size control section--zone from 46 to 96 cm
+
+9/2017--This official series description was updated according to SSR1 Technical Note 11--Content and Format of Official Series Descriptions (revised 12/2015). Most of the changes were in formatting; no major technical changes were made.
+
+National Cooperative Soil Survey
+U.S.A.

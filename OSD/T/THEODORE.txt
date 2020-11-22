@@ -1,0 +1,98 @@
+LOCATION THEODORE               AK
+
+Established Series
+JDP/SAS/TJR
+04/2020
+
+THEODORE SERIES
+
+Landscape--alluvial plains
+Landform--flood plains
+Slope--0 to 3 percent
+Parent material--alluvium
+Mean annual precipitation--about 255 mm
+Mean annual air temperature--about -6 degrees C
+Depth class--very deep
+Drainage class--moderately well drained 
+Soil moisture regime--udic
+Soil temperature regime--cryic
+Soil moisture subclass--typic
+
+TAXONOMIC CLASS: Coarse-loamy, mixed, superactive, calcareous Aquic Cryofluvents
+
+TYPICAL PEDON: Theodore very fine sandy loam on a scrubland flood plain with a slope of 1 percent and an elevation of 177 m (The soil was moist throughout when described on September 15, 2012.)
+
+ C1--0 to 5 cm; very fine sandy loam; gray (10YR 5/1) dry, very dark gray (10YR 3/1) moist; massive; soft, very friable, nonsticky and nonplastic; many fine roots, and common very fine and medium roots; few fine and medium pores; slightly effervescent; moderately alkaline (pH 7.9); clear smooth boundary
+
+ C2--5 to 62 cm; very fine sandy loam; gray (2.5Y 5/1) dry, very dark gray (2.5Y 3/1) moist; weak coarse subangular blocky structure; slightly hard, friable, nonsticky and nonplastic; common very fine and fine roots; few fine and medium pores; 10 percent dark yellowish brown (10YR 4/6) moist, mottles; slightly effervescent; moderately alkaline (pH 8.0); clear smooth boundary
+
+ C3--62 to 90 cm; very fine sandy loam; gray (2.5Y 5/1) dry, very dark gray (2.5Y 3/1) moist; weak thick platy structure; soft, very friable, nonsticky and nonplastic; common very fine and fine roots; few fine and medium pores; 10 percent dark yellowish brown (10YR 4/6) moist, masses of oxidized iron; very slightly effervescent; moderately alkaline (pH 7.9); gradual smooth boundary
+
+ C4--90 to 150 cm; silt loam; gray (2.5Y 5/1) dry, very dark gray (2.5Y 3/1) moist; weak coarse subangular blocky structure; slightly hard, friable, nonsticky and nonplastic; common fine roots; few fine and medium pores; 20 percent dark reddish brown (5YR 3/4) moist, masses of oxidized iron and 25 percent dark gray (2.5Y 4/1) moist, iron depletions; strongly effervescent; moderately alkaline (pH 7.9); gradual smooth boundary
+
+TYPE LOCATION: Yukon-Koyukuk Census Area, Alaska; latitude 65.9496070 degrees, longitude -144.0393935 degrees, datum WGS84 (coordinates determined with a GPS)
+
+RANGE IN CHARACTERISTICS:
+Mean annual soil temperature--0.5 to 2.5 degrees C
+Depth to redoximorphic iron depletions--75 cm or more
+Other features--at least one horizon between 25 to 125 cm (shallow to deep) must have an irregular decrease in organic carbon
+
+Oi, Oe, and Oa horizons (where present)
+Combined thickness--1 to 10 cm
+Reaction--6.0 to 8.5
+
+C1, C2, C3, and C4 horizons
+Hue--10YR, 2.5Y
+Value--2 to 4 moist, 4 to 6 dry
+Chroma--1 or 2 moist
+Fine-earth texture--silt loam, very fine sandy loam, silt
+Clay content--0 to 18 percent
+Reaction--7.0 to 8.5
+Effervescence--none to strong
+Combined thickness--140 to 150 cm
+
+COMPETING SERIES: 
+None
+
+GEOGRAPHIC SETTING:
+Elevation--90 to 300 m
+Climate--short, warm summers and long, very cold winters
+Mean annual precipitation--210 to 310 mm
+Mean annual air temperature-- -12 to 0 degrees C
+Frost-free period--45 to 97 days
+
+GEOGRAPHICALLY ASSOCIATED SOILS:
+Jokinaugh--aquic conditions within 25 cm with frequent ponding; depressions on similar landforms
+Kingslough--no aquic conditions within 150 cm with occasional flooding; permafrost; higher positions on similar landforms
+Twin--aquic conditions within 25 cm with rare flooding; adjacent terraces
+
+DRAINAGE AND SATURATED HYDRAULIC CONDUCTIVITY:
+Drainage class--moderately well drained
+Saturation in normal years--water table top depth between a depth of 75 to 100 cm in June, and saturated below a depth of 175 cm throughout the rest of the year
+Flooding--occasional and frequent, long
+Ponding--none
+Saturated hydraulic conductivity (Ksat)--high throughout
+
+USE AND VEGETATION:
+Use--wildlife habitat, subsistence, recreation
+Potential natural vegetation--balsam poplar, feltleaf willow, littletree willow, Bebb willow, prickly rose, thinleaf alder, redosier dogwood, field horsetail
+
+DISTRIBUTION AND EXTENT: Yukon Flats Lowlands, Alaska; MLRA 232; moderate extent
+
+SOIL SURVEY REGIONAL OFFICE (SSRO) RESPONSIBLE: Portland, Oregon
+
+SERIES ESTABLISHED: Yukon Flats National Wildlife Refuge, Yukon-Koyukuk Census Area, Alaska; 2020
+
+REMARKS:
+Diagnostic horizons and other features in this pedon
+*Particle-size control section--zone from 25 to 100 cm
+*Ochric epipedon
+*Redoximorphic iron concentrations--C2, C3, and C4 horizons
+*Redoximorphic iron depletions--C4 horizon
+*Irregular decrease in organic carbon content--C2, C3, and C4 horizons
+All horizons within 25 cm of the mineral soil surface effervesce with 1N HCl.
+Occasional flooding is the dominant condition for this series.
+A positive reaction to alpha-alpha dipyridyl is assumed below 75cm in June.
+
+National Cooperative Soil Survey
+U.S.A.

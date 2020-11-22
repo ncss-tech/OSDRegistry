@@ -1,0 +1,134 @@
+LOCATION MOSQUITOPOINT          AK
+
+Established Series
+SAS/TJR/MPR
+03/2019
+
+MOSQUITOPOINT SERIES
+
+Landscape--drift plains, mountain valleys
+Landform--depressions
+Slope--0 to 5 percent
+Parent material--organic material over alluvium or glaciolacustrine deposits
+Mean annual precipitation--about 1000 mm
+Mean annual air temperature--about 0 degrees C
+Depth class--very deep
+Drainage class--very poorly drained
+Soil moisture regime--peraquic
+Soil temperature regime--cryic
+Soil moisture subclass--typic
+
+TAXONOMIC CLASS: Loamy, isotic, euic Terric Cryohemists
+
+TYPICAL PEDON: Mosquitopoint peat in a depression of a plain, on a slope of 1 percent at an elevation of 37 m (The soil was saturated throughout the profile when described on July 13, 2011.)
+
+ Oi--0 to 20 cm; peat, brown (7.5YR 5/3) dry, dark brown (7.5YR 3/3) moist; nonsticky and nonplastic; many very fine and fine and common medium roots; very strongly acid (pH 4.6); clear smooth boundary
+
+ Oe--20 to 95 cm; mucky peat, brown (7.5YR 4/3) dry, very dark brown (7.5YR 2.5/3) moist; nonsticky and nonplastic; many very fine and fine and few medium roots; moderately acid (pH 5.9); clear smooth boundary
+
+ Ag--95 to 105 cm; silt loam, brown (7.5YR 4/2) dry, very dark brown (7.5YR 2.5/2) moist; weak medium granular structure; soft, very friable, nonsticky and nonplastic; many very fine and fine roots; slightly acid (pH 6.5); gradual smooth boundary
+
+ Cg--105 to 180 cm; loam, gray (N 6/0) dry, dark gray (N 4/0) moist; massive; moderately hard, firm, nonsticky and nonplastic; 8 percent gravel; neutral (pH 7.3)
+
+TYPE LOCATION: Dillingham Census Area, Alaska, about 3 km north of the village of Aleknagik; latitude 59.303333 degrees north, longitude 158.6244444 degrees west, datum WGS 84 (coordinates determined with a GPS)
+
+RANGE IN CHARACTERISTICS:
+Mean annual soil temperature--0 to 3 degrees C
+Soil moisture control section--saturated in all parts during the growing season (peraquic moisture regime)
+Aquic conditions--throughout the profile
+Thickness of hemic soil material--30 to 100 cm
+
+Organic soil layers
+*CaCl pH--4.5 or more in at least one organic soil layer
+
+Particle-size control section
+*Clay content--3 to 40 percent
+*Sand content--20 to 70 percent
+*Gravel content--0 to 25 percent
+*Sodium fluoride pH--greater than or equal to 8.4
+*Ratio of 1500 kPa water to measured clay--greater than or equal to 0.6
+
+Oi horizon
+Hue--10YR, 7.5YR
+Value--2 to 4 moist, 4 or 6 dry
+Chroma--2 to 4 moist
+Reaction--3.7 to 5.8
+Organic matter content--80 to 100 percent
+Sodium pyrophosphate color--10YR 8/1, 10YR 8/2, 10YR 8/3
+Volume of unrubbed fibers--92 to 98 percent
+Volume of rubbed fibers--74 to 80 percent
+Thickness--10 to 50 cm
+
+Oe horizon
+Hue--10YR, 7.5YR
+Value--2 to 3 moist, 4 or 5 dry
+Chroma--2 or 3 moist
+Reaction--3.9 to 6.5
+Organic matter content--50 to 90 percent
+Sodium pyrophosphate color--10YR 6/4, 10YR 7/3 
+Volume of unrubbed fibers--40 to 64 percent 
+Volume of rubbed fibers--17 to 50 percent 
+Thickness--30 to 100 cm
+
+Ag horizon 
+Hue--10YR, 2.5Y, 2.5YR, 7.5YR
+Value--2.5 to 6 moist, 4 to 8 dry
+Chroma--1 to 3 moist
+Fine-earth texture--silt loam, sandy loam
+Gravel content--0 to 10 percent
+Clay content--3 to 10 percent
+Reaction--5.5 to 6.5
+Thickness--5 to 60 cm
+
+Cg horizon
+Hue--10YR, 2.5Y, 5Y, neutral
+Value--2 to 6 moist, 4 to 8 dry
+Chroma--0 to 4 moist
+Fine-earth texture--sandy loam, sandy clay loam, loam, silt loam, clay loam
+Gravel content--0 to 25 percent
+Clay content--3 to 40 percent
+Reaction--5.5 to 7.3
+Thickness--more than 30 cm
+
+COMPETING SERIES: None
+
+GEOGRAPHIC SETTING:
+Elevation--5 to 820 m
+Climate--warm, moist summers; cold, moist winters
+Mean annual precipitation--600 to 1700 mm
+Mean annual air temperature-- -3.2 to 1.8 degrees C
+Frost-free period--75 to 140 days
+
+GEOGRAPHICALLY ASSOCIATED SOILS:
+Mitlak--umbric epipedon; cambic horizon; andic soil properties; aquic conditions below a depth of 50 cm; talfs of plains
+Nagugun--ochric epipedon; andic soil properties; spodic horizon; no aquic conditions; rises on glaciated plains
+Pungokepuk--ochric epipedon; andic soil properties; spodic horizon; no aquic conditions; swales
+
+DRAINAGE AND SATURATED HYDRAULIC CONDUCTIVITY:
+Drainage class--very poorly drained
+Ponding--occasional or brief, frequent or long
+Saturation in normal years--at the surface throughout the year
+Saturated hydraulic conductivity (Ksat)--moderately high or high throughout
+
+USE AND VEGETATION:
+Use--wildlife habitat, recreation, subsistence
+Potential natural vegetation--bog rosemary, dwarf birch, water sedge, looseflower alpine sedge, roundleaf sundew, black crowberry, marsh Labrador tea, sweetgale, cloudberry, alpine bulrush, tufted bulrush, bog blueberry, white cottongrass, water horsetail, sphagnum moss, manyflower sedge
+
+DISTRIBUTION AND EXTENT: Southwest Alaska; MLRAs 237 and 236; moderate extent 
+
+SOIL SURVEY REGIONAL OFFICE (SSRO) RESPONSIBLE: Portland, Oregon
+
+SERIES ESTABLISHED: Togiak National Wildlife Refuge-Ahklun Mountains Area, Alaska; 2019
+
+REMARKS:
+Diagnostic horizons and other features in this pedon
+*Control section--zone from 0 to 130 cm
+*Particle-size control section--zone from 95 to 130 cm
+*Surface tier--zone from 0 to 30 cm
+*Subsurface tier--zone from 30 to 90 cm
+*Bottom tier--zone from 90 to 130 cm
+*Hemic soil material--zone from 20 to 95 cm
+*Aquic conditions--zone from 0 to 180 cm
+
+National Cooperative Soil Survey
+U.S.A.

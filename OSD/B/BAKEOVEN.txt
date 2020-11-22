@@ -1,0 +1,113 @@
+LOCATION BAKEOVEN               OR+ID WA
+
+Established Series
+Rev. AON/TDT/RWL
+09/2019
+
+BAKEOVEN SERIES
+
+Landscape--mountains, hills, plateaus
+Landform--mountain slopes, ridgetops, hillslopes, mesas, structural benches
+Slope--dominantly 2 to 20 percent, but ranges from 0 to 90 percent
+Parent material--mixed colluvium, loess, and residuum derived from basalt
+Mean annual precipitation--about 330 mm
+Mean annual air temperature--about 9 degrees C
+Depth class--very shallow
+Drainage class--well drained
+Soil moisture regime--aridic
+Soil temperature regime--mesic
+Soil moisture subclass--xeric
+
+TAXONOMIC CLASS: Loamy-skeletal, mixed, superactive, mesic Aridic Lithic Haploxerolls
+
+TYPICAL PEDON: Bakeoven very cobbly loam in an area of rangeland
+
+ A--0 to 5 cm; very cobbly loam, brown (7.5YR 5/3) dry, dark brown (7.5YR 3/2) moist; weak thin platy structure and weak fine granular; slightly hard, friable, slightly sticky and slightly plastic; common very fine roots; many very fine irregular pores; 40 percent rock fragments; slightly acid (pH 6.5); abrupt smooth boundary
+
+ Bw1--5 to 10 cm; very gravelly loam, brown (7.5YR 5/3) dry, dark brown (7.5YR 3/3) moist; weak thin platy structure and weak fine and medium granular; slightly hard, friable, moderately sticky and moderately plastic; common very fine roots; common very fine irregular pores; 60 percent rock fragments; neutral (pH 6.8); abrupt smooth boundary
+
+ Bw2--10 to 18 cm; very gravelly clay loam, brown (10YR 5/3) dry, dark brown (10YR 3/3) moist; moderate fine subangular blocky structure; hard, friable, moderately sticky and moderately plastic; common very fine roots; common very fine tubular pores; 60 percent rock fragments; neutral (pH 6.9); abrupt wavy boundary
+
+ 2R--18 cm; basalt
+
+TYPE LOCATION: Wasco County, Oregon; about 370 m south and 30 m east of the center of section 7; in the NW1/4SE1/4 of section 7, T. 8 S., R. 15 E.
+
+RANGE IN CHARACTERISTICS:
+Moisture control section--usually dry; dry throughout more than 50 percent of the time (cumulative) when the soil temperature is higher than 5 degrees C
+Mean annual soil temperature--8 to 13 degrees C
+Depth to bedrock--10 to 25 cm
+Content of rock fragments--40 to 90 percent
+Content of organic matter--1 to 2 percent
+
+A horizon
+Hue--10YR, 7.5YR, 5YR
+Value--4 or 5 dry, 2 or 3 moist
+Chroma--2 or 3 moist, 2 to 4 dry
+Reaction--6.1 to 7.8
+Thickness--0 to 15 cm
+
+Bw horizon
+Hue--10YR, 7.5YR, 5YR
+Value--4 or 5 dry, 2 or 3 moist
+Chroma--2 or 3 in upper part, 3 or 4 below a depth of 15 to 18 cm in sola more than 18 cm thick
+Texture--loam, clay loam, silt loam
+Average content of clay--18 to 35 percent
+Reaction--6.1 to 7.8
+Combined thickness--8 to 25 cm
+
+COMPETING SERIES:
+Aldax--25 to 50 cm (shallow) to a lithic contact (basalt, andesite); less than 18 percent clay in particle-size control section
+Borid--25 to 50 cm (shallow) to a lithic contact (granitic rock) 10 to 15 percent clay in particle-size control section
+Couleedam--25 to 50 cm (shallow) to a lithic contact (granitic rock); 5 to 15 percent clay in particle-size control section
+Cox--25 to 50 cm (shallow) to a lithic contact (basalt); 8 to 15 percent clay in particle-size control section
+Hendap--25 to 50 cm (shallow) to a lithic contact (granitic rock); 6 to 12 percent clay in particle-size control section
+Lickskillet--30 to 50 cm (shallow) to a lithic contact (basalt)
+Puderbaughridge--25 to 50 cm (shallow) to a lithic contact (limestone)
+
+GEOGRAPHIC SETTING:
+Elevation--90 to 1450 m
+Climate--semiarid
+Mean annual precipitation--230 to 410 mm
+Mean annual air temperature--7 to 12 degrees C
+Mean winter air temperature--about -0.5 to 1.5 degrees C
+Mean summer air temperature--17 to 19 degrees C
+Frost-free period--100 to 180 days
+
+GEOGRAPHICALLY ASSOCIATED SOILS:
+Anderly, Condon--50 to 100 cm (moderately deep) to a lithic contact (basalt); formed in loess over bedrock; occur as "biscuits" associated with Bakeoven soils in many areas
+Agency--56 to 100 cm (moderately deep) to a lithic contact (tuff); less than 35 percent rock fragments; on plateaus
+Cantala--fine-silty particle-size class; 100 cm or more (deep, very deep) to a lithic contact (basalt)
+Gem, Morrow--argillic horizon; 50 to 100 cm (moderately deep) to a lithic contact (basalt)
+Maupin--50 to 100 cm (moderately deep) to a duripan; fine-loamy particle-size class
+Reywat--25 to 50 cm (shallow) to a lithic contact (basalt); skeletal argillic horizon
+Ritzville, Walla Walla--100 cm or more (deep, very deep) to a lithic contact (basalt); formed in loess; no rock fragments
+Ruckles--very stony argillic horizon
+Starbuck--steep, south-facing slopes; no mollic epipedon; formed dominantly in loess; less than 35 percent rock fragments
+Wapinitia--100 to 150 cm (deep) to a lithic contact (basalt); argillic horizon
+Watama--50 to 100 cm (moderately deep) to a lithic contact (basalt); fine-loamy particle-size class
+Wrentham--steep, north-facing slopes; 50 to 100 cm (moderately deep) to a lithic contact (basalt)
+
+DRAINAGE AND SATURATED HYDRAULIC CONDUCTIVITY:
+Drainage class--well drained
+Saturated hydraulic conductivity (Ksat)--moderately high
+Ponding--short periods in a few areas
+
+USE AND VEGETATION:
+Use--livestock grazing, wildlife habitat
+Native vegetation--Sandberg bluegrass, stiff sagebrush
+
+DISTRIBUTION AND EXTENT: North-central Oregon, eastern Washington, southwestern Idaho; MLRAs 8 and 10; large extent
+
+SOIL SURVEY REGIONAL OFFICE (SSRO) RESPONSIBLE: Portland, Oregon
+
+SERIES ESTABLISHED: Sherman County, Oregon; 1962
+
+REMARKS:
+Diagnostic horizons and other features in this pedon
+*Mollic epipedon--zone from the surface to a depth of 18 cm
+*Particle-size control section--zone from the surface to a depth of 18 cm
+
+1/2016--This official series description was updated according to SSR1 Technical Note 11--Content and Format of Official Series Descriptions (revised 12/2015). Most of the changes were in formatting; no major technical changes were made.
+
+National Cooperative Soil Survey
+U.S.A.

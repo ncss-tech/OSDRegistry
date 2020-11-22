@@ -1,0 +1,133 @@
+LOCATION JUMPSTART              ID
+
+Established Series
+Rev. JFD-JAL
+03/2002
+
+JUMPSTART SERIES
+
+ The Jumpstart series consists of very deep, moderately well drained soils on foothills and mountains. These soils formed in local alluvium , colluvium or residuum derived from shale. Slopes are 30 to 50 percent. Jumpstart soils have slow permeability. Mean annual precipitation is about 27 inches. Mean annual air temperature is about 37 degrees F.
+
+TAXONOMIC CLASS: Fine, mixed, active Mollic Haplocryalfs 
+
+TYPICAL PEDON: Jumpstart silt loam, on a 43 percent slope with north aspect at 7200 feet elevation, forested (colors are for dry soil unless otherwise noted).
+
+    0i--0 to 1 inch; forest litter of grass leaves and stems; abrupt smooth boundary. (1/2 to 4 inches thick)
+
+    A1--1 to 3 inches; dark grayish brown (10YR 4/2) silt loam, very dark grayish brown (10YR 3/2) moist; moderate very fine granular structure; soft, very friable, nonsticky and nonplastic; many very fine and fine roots, common medium and few coarse roots; many very fine irregular pores; trace pebbles and cobbles; neutral (pH 6.8); abrupt smooth boundary.
+
+    A2--3 to 10 inches; reddish brown (5YR 5/3) silt loam, dark reddish brown (5YR 3/3) moist; moderate medium subangular blocky structure parting to moderate fine granular; slightly hard, very friable, slightly sticky and slightly plastic; many very fine and fine roots, common medium and coarse roots; many very fine and fine irregular pores; trace pebbles and cobbles; slightly acid (pH 6.2); clear smooth boundary. (Combined thickness of A horizons - 6 to 10 inches.) 
+
+    E--10 to 16 inches; light reddish brown (5YR 6/3) loam, reddish brown (5YR 4/3) moist; moderate medium subangular blocky structure; hard, very friable, slightly sticky and slightly plastic; common very fine, fine, medium and coarse roots; many very fine and fine tubular pores; trace pebbles and cobbles; slightly acid (pH 6.5); clear smooth boundary. (2 to 14 inches thick)
+
+    Bt1--16 to 21 inches; reddish brown (5YR 5/3) clay loam, dark reddish brown (5YR 3/3) moist; moderate medium subangular blocky structure; hard, very friable, moderately sticky and moderately plastic; common very fine, fine medium and coarse roots; many very fine and fine tubular pores; few faint clay films on faces of peds and lining pores; trace pebbles and cobbles; slightly acid (pH 6.5); clear smooth boundary. (4 to 8 inches thick)
+
+    Bt2--21 to 26 inches; reddish brown (5YR 5/4) silty clay, dark reddish brown (5YR 3/4) moist; strong coarse subangular blocky structure; very hard, very firm, moderately sticky and very plastic; common very fine and fine roots, few medium and coarse roots; few very fine tubular pores; many faint clay films on faces of peds and lining pores; trace pebbles and cobbles; neutral (pH 6.7); gradual smooth boundary. (4 to 12 inches thick)
+
+    Bt3--26 to 44 inches; light reddish brown (5YR 6/4) silty clay loam, reddish brown (5YR 5/4) moist; strong coarse subangular blocky structure; very hard, very firm, moderately sticky and very plastic; few very fine, fine and medium roots; common very fine and fine tubular pores; continuous faint clay films on faces of peds and lining pores; many coarse distinct gray (5YR 6/1) relict Fe/Mn depletions in matrix, gray (5YR 5/1) moist; trace pebbles and cobbles; neutral (pH 7.3); abrupt smooth boundary. (15 to 25 inches thick)
+
+    Bk--44 to 60 inches; red (2.5YR 5/6) silty clay loam, dark red (2.5YR 3/6) moist; moderate fine subangular blocky structure; hard, firm, slightly sticky and moderately plastic; few very fine roots, common very fine and fine tubular pores; strongly effervescent (13 percent CaC03 equivalent); 5 percent cobbles, 5 percent stones; slightly alkaline (pH 7.8).  
+
+TYPE LOCATION: Bonneville County, Idaho, about 12 miles south of Swan Valley; about 2560 feet south and 15 feet west of the northeast corner of section 33, T. 1 S., R. 43 E.; Latitude - 43 degrees North, 17 minutes, 20 seconds; Longitude - 111 degrees West, 24 minutes, 37 seconds.
+
+RANGE IN CHARACTERISTICS:
+
+Mean annual soil temperature - 37 to 41 degrees F.
+Mean summer soil temperature - 42 to 46 degrees F.
+Moisture control section - between 4 and 12 inches; dry throughout the moisture control section for less than 30 consecutive days during the four months following the summer solstice.
+Depth to argillic horizon - 8 to 24 inches.
+Depth to Bk horizon - 40 to 60 inches.
+Base saturation - less than 50 percent in part of the argillic horizon within 50 inches.
+
+A horizons - Hue: 5YR, 7.5YR or 10YR
+Value: 3, 4 or 5 dry; 2 or 3 moist
+Chroma: 2 or 3
+Clay content: 12 to 27 percent
+Rock fragment content: 0 to 15 percent
+Pebbles: 0 to 10 percent
+Cobbles: 0 to 10 percent
+Stones: 0 to 5 percent
+Reaction: pH 6.1 to 7.3
+
+E horizon - Hue: 5YR, 7.5YR, or 10YR
+Value: 6 or 7 dry, 4 or 5 moist
+Chroma: 2 or 3
+Texture: loam or silt loam
+Clay content: 18 to 27 percent
+Rock fragment content: 0 to 15 percent
+Pebbles: 0 to 10 percent
+Cobbles: 0 to 10 percent
+Stones: 0 to 5 percent
+Reaction: pH 6.1 to 7.3
+
+Bt horizons - Hue: 2.5YR, 5YR, 7.5YR or 10YR
+Value: 4, 5 or 6 dry; 3, 4 or 5 moist 
+Chroma: 3 or 4
+Texture: clay loam, silty clay loam or silty clay
+Clay content: 35 to 55 percent
+Rock fragment content: 0 to 15 percent
+Pebbles: 0 to 10 percent
+Cobbles: 0 to 10 percent
+Stones: 0 to 5 percent
+Reaction: pH 5.6 to 7.3
+
+Bk horizon - Hue: 2.5YR, 5YR or 7.5YR
+Value: 5, 6 or 7 dry; 3, 4 or 5 moist 
+Chroma: 2, 3, 4 or 6
+Texture: silty clay loam, silty clay or clay loam
+Clay content: 30 to 45 percent
+Rock fragment content: 0 to 15 percent
+Pebbles: 0 to 10 percent
+Cobbles: 0 to 10 percent
+Stones: 0 to 5 percent
+Soft shale fragments: 0 to 60 percent
+Effervescence: slightly or strongly
+Calcium carbonate equivalent: 5 to 20 percent in the less than 2 mm size fraction
+Reaction: pH 7.4 to 8.4 
+
+COMPETING SERIES:
+There are no competing series.
+
+GEOGRAPHIC SETTING:
+
+Landform - foothills and mountains.
+Elevation - 5600 to 8000 feet.
+Slope - 30 to 50 percent.
+Parent material - local alluvium, colluvium or residuum derived from shale.
+Climate - Precipitation is evenly distributed throughout the year. A winter snowpack of 3 to 7 feet in depth and lasting through May is common. 
+Mean annual temperature - 35 to 39 degrees F.
+Mean annual precipitation - 24 to 30 inches.
+Frost free period - 30 to 50 days.
+
+GEOGRAPHICALLY ASSOCIATED SOILS: These are the Nearl and Sedgway series. Nearl soils are in nearby basins. They are 12 to 30 inches deep to layers that have cracks, slickensides and redox accumulations and depletions. Sedgway soils are on nearby summits and sideslopes. They average less than 35 percent clay and greater than 35 percent rock fragments in the particle- size control section. 
+
+DRAINAGE AND PERMEABILITY: Moderately well drained, slow to medium runoff, slow permeability.
+
+USE AND VEGETATION: Jumpstart soils are used for timber production, livestock grazing, recreation and wildlife habitat. The potential natural vegetation is the subalpine fir/western meadowrue plant association. The subalpine fir/western meadowrue p.a. and subalpine fir/Columbian brome community are commonly supported.  
+
+DISTRIBUTION AND EXTENT: Southeastern Idaho. They are of moderate extent.
+
+MLRA SOIL SURVEY REGIONAL OFFICE (MO) RESPONSIBLE: Bozeman, Montana.
+
+SERIES ESTABLISHED: Targhee National Forest, Bonneville County, Idaho, 1997.
+
+REMARKS:
+
+Diagnostic horizons and features recognized in this pedon are:
+
+Ochric epipedon - the zone from the mineral soil surface to 16 inches (A1, A2 and E horizons)
+
+Argillic horizon - the zone from 16 to 44 inches (Bt1, Bt2 and Bt3 horizons)
+
+Particle-size control section - the zone from 16 to 36 inches (Bt1, Bt2 and part of the Bt3 horizons)
+
+Moisture regime - udic
+
+ADDITIONAL DATA: 
+Grab Sample Data (10/10/90) NSSL, Lincoln, NE. 
+Client-Assigned Laboratory Number - S89ID-019-001 
+Project File Numbers - 90P 88
+Laboratory-Assigned Numbers - Pedon 90P 528, Samples 90P3002-3007
+
+National Cooperative Soil Survey
+U.S.A.

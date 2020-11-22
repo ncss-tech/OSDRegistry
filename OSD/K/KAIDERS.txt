@@ -1,0 +1,127 @@
+LOCATION KAIDERS                WA
+
+Established Series
+Rev. JDC/TLA/RJE/RWL
+09/2019
+
+KAIDERS SERIES
+
+Landscape--mountains, hills
+Landform--mountain slopes, hillslopes
+Slope--5 to 45 percent
+Parent material--colluvium derived from basalt and a minor amount of volcanic ash and loess
+Mean annual precipitation--about 760 mm
+Mean annual air temperature--about 7 degrees C
+Depth class--very deep
+Drainage class--well drained
+Soil moisture regime--xeric
+Soil temperature regime--frigid
+Soil moisture subclass--typic
+
+TAXONOMIC CLASS: Fine-loamy, mixed, superactive, frigid Ultic Haploxeralfs
+
+TYPICAL PEDON: Kaiders cobbly loam, forested, on a 15-percent, south-facing backslope at an elevation of 740 m
+
+ Oi--0 to 3 cm; slightly decomposed needles and twigs
+
+ A--3 to 18 cm; cobbly loam, reddish brown (5YR 5/4) dry, dark reddish brown (2.5YR 3/3) moist; weak fine granular structure; slightly hard, friable, slightly sticky and slightly plastic; many very fine and few fine roots; many very fine irregular pores; 10 percent gravel and 20 percent cobbles; neutral (pH 6.6); clear smooth boundary
+
+ BA--18 to 53 cm; gravelly loam, reddish brown (5YR 5/4) dry, dark reddish brown (2.5YR 3/4) moist; weak fine subangular blocky structure; slightly hard, friable, slightly sticky and slightly plastic; many fine and few very fine roots; many very fine irregular pores; 15 percent gravel, 5 percent cobbles, and 20 percent basalt paragravel; neutral (pH 6.6); gradual smooth boundary
+
+ Bt1--53 to 81 cm; gravelly loam, yellowish red (5YR 5/6) dry, dark red (2.5YR 3/6) moist; weak fine subangular blocky structure; slightly hard, friable, slightly sticky and slightly plastic; few fine and medium roots; many very fine irregular pores and common fine tubular pores; few faint clay films lining pores; 20 percent gravel and 10 percent basalt paragravel; slightly acid (pH 6.4); gradual smooth boundary
+
+ Bt2--81 to 109 cm; gravelly loam, yellowish red (5YR 5/6) dry, dark red (2.5YR 3/6) moist; weak fine subangular blocky structure; slightly hard, friable, slightly sticky and slightly plastic; few very fine and fine roots; many very fine irregular pores and common fine tubular pores; few faint clay films on faces of peds and lining pores; 15 percent gravel, 5 percent cobbles, and 20 percent basalt paragravel; slightly acid (pH 6.2); clear smooth boundary
+
+ BCt--109 to 155 cm; very gravelly loam, yellowish red (5YR 5/6) dry, red (2.5YR 4/6) moist; weak very fine subangular blocky structure; slightly hard, friable, slightly sticky and slightly plastic; few fine roots; many very fine irregular pores; few faint clay films on faces of peds and lining pores; 40 percent gravel, 10 percent cobbles, and 20 percent basalt paragravel; moderately acid (pH 6.0)
+
+TYPE LOCATION: Klickitat County, Washington, about 24 km northwest of Goldendale; about 760 m north and 910 m west of the southeast corner of section 33, T. 6 N., R. 14 E.
+
+RANGE IN CHARACTERISTICS:
+Mean annual soil temperature--7 to 8 degrees C
+Soil moisture control section--usually moist, but dry in all parts 60 to 75 consecutive days following summer solstice
+Particle-size control section--10 to 30 percent clay; 15 to 35 percent rock fragments; 10 to 25 percent pararock fragments
+Rock fragment content below particle-size control section--35 to 70 percent, including 0 to 15 percent cobbles
+
+A horizon
+Hue--2.5YR to 7.5YR
+Value--4 or 5 dry
+Chroma--2 to 4 dry or moist
+Texture--stony loam, cobbly loam
+Reaction--6.1 to 7.3
+Thickness--8 to 15 cm
+
+BA horizon
+Hue--2.5YR to 7.5YR
+Value--3 or 4 moist
+Chroma--3 to 6 dry or moist
+Reaction--6.1 to 7.3
+Thickness--15 to 36 cm
+
+Bt horizon
+Hue--2.5YR to 7.5YR
+Value--5 or 6 dry, 3 or 4 moist
+Chroma--3 to 6 dry or moist
+Texture--gravelly loam, gravelly clay loam
+Reaction--5.6 to 7.3
+Combined thickness--25 to 86 cm
+
+BCt horizon
+Hue--5YR, 7.5YR
+Value--5 or 6 dry
+Chroma--4 to 6 dry or moist
+Texture--very gravelly loam, extremely gravelly loam
+Reaction--5.6 to 7.3
+
+COMPETING SERIES:
+Cavendish--100 to 150 cm (deep) to a paralithic contact (basalt); dry 45 to 60 consecutive days following summer solstice
+Martis--dry more than 75 consecutive days following summer solstice; umbric epipedon 25 to 51 cm thick
+Teanaway--glossic epipedon (E/Bt horizon); perched water table at a depth of 75 to 125 cm; buried  2Btb horizon at a depth of 100 to 150 cm
+Ubaj--50 to 100 cm (moderately deep) to lacustrine sediment (2C horizon); perched water table within a depth of 50 to 100 cm; less than 15 percent rock fragments in particle-size control section
+Wafla--dry more than 75 days following summer solstice
+Wintoner--less than 15 percent rock fragments in particle-size control section
+
+GEOGRAPHIC SETTING:
+Elevation--550 to 1000 m
+Climate--warm, dry summers; cold, moist winters
+Mean annual precipitation--640 to 890 mm
+Mean January air temperature--about -3 degrees C
+Mean July air temperature--about 18 degrees C
+Mean annual air temperature--about 6 to 8 degrees C
+Frost-free season--90 to 130 days
+
+GEOGRAPHICALLY ASSOCIATED SOILS:
+Dalig--mesic soil temperature regime; on hillslopes, plateaus, and benches
+Fanal--coarse-loamy particle-size class; on hillslopes
+Gunn--mesic soil temperature regime; on plateaus, benches, hillslopes, and ridgetops
+Para--mesic soil temperature regime; on plateaus
+Presher--on plateaus and mountain slopes
+Quiden--mesic soil temperature regime; on plateaus and benches
+Tigit--mesic soil temperature regime; on plateaus
+Wahoo--25 to 50 cm (shallow) to a lithic contact (basalt); on plateaus and canyons
+Yedlick--mesic soil temperature regime; on mountain slopes
+
+DRAINAGE AND SATURATED HYDRAULIC CONDUCTIVITY:
+Drainage class--well drained
+Saturated hydraulic conductivity (Ksat)--moderately high
+
+USE AND VEGETATION:
+Use--mainly timber production, livestock grazing, and wildlife habitat
+Vegetation--Douglas-fir, ponderosa pine, Oregon white oak, western hazel, deerbrush ceanothus, redstem ceanothus, Oregon grape, elk sedge, Idaho fescue, squawcarpet
+
+DISTRIBUTION AND EXTENT: Klickitat County, Washington; MLRA 6; moderate extent
+
+SOIL SURVEY REGIONAL OFFICE (SSRO) RESPONSIBLE: Portland, Oregon
+
+SERIES ESTABLISHED: Klickitat County, Washington; 2003
+
+REMARKS:
+Diagnostic horizons and other features recognized in this pedon
+*Ochric epipedon
+*Argillic horizon--zone from 53 to 155 cm
+*Particle-size control section--zone from 53 to 103 cm
+
+ADDITIONAL DATA:
+Partial laboratory data--sample number S76WA-039-1
+
+National Cooperative Soil Survey
+U.S.A.

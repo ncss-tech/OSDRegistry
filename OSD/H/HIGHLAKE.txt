@@ -1,0 +1,109 @@
+LOCATION HIGHLAKE               AK
+
+Established Series
+SAS/NDP/MPR
+03/2019
+
+HIGHLAKE SERIES
+
+Landscape--mountains
+Landform--mountain slopes
+Slope--30 to 90 percent
+Parent material--colluvium or drift over residuum
+Mean annual precipitation--about 1600 mm
+Mean annual air temperature--about -2 degrees C
+Depth class--shallow
+Drainage class--well drained
+Soil moisture regime--udic
+Soil temperature regime--gelic
+Soil moisture subclass--typic
+
+TAXONOMIC CLASS: Loamy-skeletal, mixed, superactive, acid, subgelic, shallow Typic Gelorthents
+
+TYPICAL PEDON: Highlake very gravelly coarse sandy loam on a west-northwest facing, convex, linear backslope of the upper third of a mountain, on a slope of 73 percent at an elevation of 752 m (The soil was moist throughout when described on July 24, 2012.)
+
+ A--0 to 10 cm; very gravelly coarse sandy loam, dark grayish brown (10YR 4/2) dry, very dark brown (10YR 2/2) moist; weak fine granular structure; soft, very friable, nonsticky and nonplastic; common very fine, many fine, and common medium to coarse roots; 50 percent gravel and 5 percent channers; very strongly acid (pH 4.9); gradual wavy boundary
+
+ C--10 to 50 cm; extremely gravelly coarse sandy loam, brown (10YR 5/3) dry, dark brown (10YR 3/3) moist; single grain; loose, nonsticky and nonplastic; common very fine, many fine, and common medium to coarse roots; 65 percent gravel, 5 percent channers, and 5 percent cobbles; strongly acid (pH 5.2); abrupt wavy boundary
+
+ R--50 cm; bedrock
+
+TYPE LOCATION: Dillingham Census Area, Alaska, about 110 km north-northwest of the city of Dillingham; latitude 59.9101557 degrees north, longitude 159.4630687 degrees west, datum WGS 84 (coordinates determined with a GPS)
+
+RANGE IN CHARACTERISTICS:
+Mean annual soil temperature-- -1 to 0 degrees C
+Soil moisture control section--dry less than 45 consecutive days in June through October (udic moisture regime)
+Depth to lithic contact--25 to 50 cm
+Lithology of rock fragments--sedimentary, volcanic
+Other features--ochric epipedon
+
+Particle-size control section
+*Clay content--2 to 12 percent
+*Sand content--30 to 70 percent
+*Total rock fragment content--35 to 89 percent
+
+A horizon
+Hue--10YR, 2.5Y
+Value--2 to 4 moist, 4 to 6 dry
+Chroma--1 to 3 moist
+Fine-earth texture--coarse sandy loam, sandy loam, silt loam
+Clay content--4 to 12 percent
+Reaction--4.5 to 5.5
+Total rock fragment content--35 to 85 percent
+Gravel content--35 to 85 percent
+Channer content--0 to 15 percent
+Cobble content--0 to 15 percent
+Stone content--0 to 15 percent
+Thickness--2 to 18 cm
+Organic carbon content--1 to 4 percent
+Base saturation--0 to 20 percent
+
+C horizon
+Hue--7.5YR, 10YR, 2.5Y
+Value--3 to 5 moist, 5 to 7 dry
+Chroma--1 to 3 moist
+Fine-earth texture--coarse sandy loam, sandy loam, silt loam
+Clay content--2 to 12 percent
+Reaction--5.0 to 5.5
+Total rock fragment content--40 to 89 percent
+Gravel content--40 to 89 percent
+Channer content--0 to 30 percent
+Cobble content--0 to 30 percent
+Thickness--2 to 48 cm
+Organic matter content-0.25 to 0.75 percent
+
+COMPETING SERIES: None
+
+GEOGRAPHIC SETTING:
+Elevation--200 to 1400 m
+Climate--cool, moist summers; cold, moist winters
+Mean annual precipitation--1000 to 2300 mm
+Mean annual air temperature-- -3.8 to 0.9 degrees C
+Frost-free period--60 to 115 days
+
+GEOGRAPHICALLY ASSOCIATED SOILS:
+Kashaiak--umbric epipedon; slope of 4 to 40 percent; convex landscape positions
+Buchia--more than 150 cm (very deep) to lithic bedrock; similar landscape positions
+
+DRAINAGE AND SATURATED HYDRAULIC CONDUCTIVITY:
+Drainage class--somewhat excessively drained
+Saturated hydraulic conductivity (Ksat)--moderately high or high throughout
+
+USE AND VEGETATION:
+Use--wildlife habitat, recreation, subsistence
+Potential natural vegetation--narcissus anemone, hairgrass, eightpetal mountain-avens, black crowberry, heartleaf saxifrage
+
+DISTRIBUTION AND EXTENT: Ahklun Mountains, Alaska; MLRA 237; moderate extent
+
+SOIL SURVEY REGIONAL OFFICE (SSRO) RESPONSIBLE: Portland, Oregon
+
+SERIES ESTABLISHED: Togiak National Wildlife Refuge, Dillingham Census Area, Alaska; 2019
+
+REMARKS:
+Diagnostic horizons and other features in this pedon
+*Particle-size control section--zone from 25 to 50 cm
+*Ochric epipedon
+*Depth to lithic bedrock--50 cm
+
+National Cooperative Soil Survey
+U.S.A.

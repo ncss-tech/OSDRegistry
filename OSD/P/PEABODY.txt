@@ -1,0 +1,126 @@
+LOCATION PEABODY                WV
+
+Established Series
+DJB-SLH/Rev. MDJ
+09/2015
+
+PEABODY SERIES
+
+TAXONOMIC CLASS:  Fine, mixed, active, mesic Ultic Hapludalfs
+
+TYPICAL PEDON:  Peabody silty clay loam on a 40 percent northeast facing slope under mixed hardwoods at an elevation of 421 meters (1380 feet).  (Colors are for moist soils unless otherwise indicated.)
+
+ Oi--0 to 3 cm (0 to 1 inch); slightly decomposed organic material.
+
+ A--3 to 8 cm (1 to 3 inches); brown (7.5YR 4/4) silty clay loam; weak fine granular structure; very friable, slightly sticky, non-plastic; many very fine and fine roots; very strongly acid; clear wavy boundary.  (5 to 15 cm (2 to 6 inches) thick)
+
+ Bt1--8 to 28 cm (3 to 11 inches); reddish brown (5YR 4/4) silty clay loam; moderate medium and coarse subangular blocky structure; friable, moderately sticky, moderately plastic; many fine and medium roots; common distinct clay films on faces of peds; very strongly acid; clear wavy boundary.
+
+ Bt2--28 to 58 cm (11 to 23 inches); dark reddish brown (2.5YR 3/4) silty clay; moderate medium and coarse subangular blocky structure; friable, moderately sticky, moderately plastic; few fine roots; common distinct clay films on faces of peds; very strongly acid; clear wavy boundary.  (Combined thickness of the Bt horizon is 30 to 97 cm (12 to 38 inches))
+
+ C--58 to 71 cm (23 to 28 inches); dark reddish brown (2.5YR 3/4) parachannery silty clay; massive; firm, slightly sticky, slightly plastic; 30 percent shale and siltstone fragments; very strongly acid; clear wavy boundary.  (0 to 23 cm (0 to 9 inches) thick)
+
+ Cr--71 cm (28 inches); weathered red clay shale and siltstone.
+
+TYPE LOCATION:
+County:  Wetzel
+State:  West Virginia
+USGS Quadrangle:  Big Run, West Virginia
+Latitude (Decimal Degrees, NAD 83):  39.5624056
+Longitude (Decimal Degrees, NAD 83):  -80.5873083
+Directions to the pedon:  About 91 meters (100 yards) northwest of the intersection of Lowman Ridge Road and the north fork of Richwood Run Road near Chutes Cemetery, 2 kilometers (1-1/4 miles) south of Kingston.
+
+RANGE IN CHARACTERISTICS:
+Depth to the top of the Argillic:  5 to 18 cm (2 to 7 inches)
+Depth to the base of the Argillic:  35 to 102 cm (14 to 40 inches)
+Solum Thickness:  51 to 102 cm (20 to 40 inches)
+Depth to Bedrock:  51 to 102 cm (20 to 40 inches)
+Depth Class:  Moderately deep
+Rock Fragment content:  0 to 15 percent, by volume, in the A, Ap, BA, and Bt1 horizons, 0 to 25 percent, by volume, in the Bt2 and Bt3 horizons, 0 to 45 percent, by volume, in the BC horizon, and 15 to 70 percent, by volume, in the C horizon
+Soil Reaction:  Very strongly acid to strongly acid in the A, Ap, BA, Bt, and BC horizons, and very strongly acid to neutral in the C horizon, except where limed
+Fine-Earth Fraction:  Averages 35 to 50 percent clay and less than 20 percent sand in the particle size control section
+
+Range of Individual Horizons:
+A or Ap horizon:
+Color--hue of 10YR, 7.5YR, or 5YR, value of 2 through 4, and chroma of 2 through 4
+Texture (fine-earth fraction)--silt loam or silty clay loam
+
+BA horizon (if it occurs):
+Color--hue of 7.5YR or 5YR, value of 4 or 5, and chroma of 4 through 6
+Texture (fine-earth fraction)--silt loam
+Thickness--10 to 15 cm
+
+Bt horizon:
+Color--hue of 5YR or 2.5YR, value of 3 or 4, and chroma of 3 through 6
+Texture (fine-earth fraction)--silty clay loam, silty clay, or clay
+
+BC horizon (if it occurs):
+Color--hue of 5YR or 7.5YR, value of 3 or 4, and chroma of 3 through 6
+Texture (fine-earth fraction)--silty clay or silty clay loam
+Thickness--10 to 23 cm
+
+C horizon:
+Color--hue of 5YR or 2.5YR, value of 3 or 4, and chroma of 3 through 6
+Texture (fine-earth fraction)--silty clay loam or silty clay
+
+COMPETING SERIES:
+Fauquier soils--have lithic/paralithic materials below the 152 cm depth
+Needmore soils--have hue of 5YR or yellower in the solum and substratum
+Oak Level soils--have lithic/paralithic materials below the 152 cm depth
+Orenda soils--have lithic/paralithic materials below the 152 cm depth
+Rasalo soils--have lithic/paralithic materials below the 152 cm depth
+Spray soils--have lithic/paralithic materials below the 152 cm depth
+
+GEOGRAPHIC SETTING:
+Landscape:  Hills
+Landform:  Hillslope
+MLRA(s):  126, 127
+Geomorphic Component:  Side slope, nose slope, or head slope
+Hillslope Profile Position:  Backslope or shoulder
+Parent Material:  Residuum derived from interbedded clay shale and siltstone
+Slope:  3 to 70 percent
+Elevation:  143 to 515 meters (469 to 1690 feet)
+Frost-free period:  134 to 192 days
+Mean Annual Air Temperature:  10 to 12.8 degrees C. (50 to 55 degrees F.)
+Mean Annual Precipitation:  1041 to 1219 millimeters (41 to 48 inches)
+
+GEOGRAPHICALLY ASSOCIATED SOILS:
+Gilpin soils--occur on similar portions of the landform
+Sensabaugh soils--occur lower on the landscape, on colluvial footslopes, drainageways, or alluvial fans
+Skidmore soils--occur lower on the landscape, along drainageways or floodplains
+Upshur soils--occur on similar landforms, but where slope gradient is lower
+Vandalia soils--occur on colluvial footslopes, lower on the landscape
+
+DRAINAGE AND SATURATED HYDRAULIC CONDUCTIVITY:
+Drainage Class (Agricultural):  Well
+Internal Free Water Occurrence:  None
+Index Surface Runoff:  Medium through very high
+Saturated Hydraulic Conductivity Class:  Moderately low or moderately high
+Permeability Class (obsolete):  Moderately slow or slow
+Shrink-swell Potential:  High
+Flooding Frequency and Duration:  None
+Ponding Frequency and Duration:  None
+
+USE AND VEGETATION:
+Major Uses:  Woodland, pasture, hayland, and some cropland
+Dominant Vegetation:  Where cultivated--Hay, corn, soybeans, and small grains.  Where wooded--Mixed hardwoods; mainly oak, yellow-poplar, and hickory.
+
+DISTRIBUTION AND EXTENT:
+Distribution:  Western West Virginia, and possibly Pennsylvania, Ohio, and Kentucky
+Extent:  Large, approximately 280,000 acres at the time of this revision
+
+MLRA SOIL SURVEY REGIONAL OFFICE (MO) RESPONSIBLE:  MORGANTOWN, WEST VIRGINIA
+
+SERIES ESTABLISHED:  Wetzel County, West Virginia, 1988.
+
+REMARKS:  
+Peabody soils have previously been included in the Upshur series.
+Diagnostic horizons and features recognized in this pedon are:
+
+Ochric epipedon--the zone from 0 to 8 cm (0 to 3 inches) (Oi, A horizons)
+Argillic horizon--the zone from 8 to 58 cm (3 to 23 inches) (Bt1, Bt2 horizons)
+Paralithic contact--71cm (28 inches) (Cr horizon)
+Series control section--the zone from 0 to 96 cm (0 to 38 inches)
+
+National Cooperative Soil Survey
+U.S.A.

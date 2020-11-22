@@ -1,0 +1,131 @@
+LOCATION FLAGLER                IA+IL MN
+
+Established Series
+Rev. JRC-JDH-TWN
+10/2008
+
+FLAGLER SERIES
+
+The Flagler series consists of very deep, somewhat excessively drained soils that formed in 50 to 100 centimeters of moderately coarse-textured alluvium and the underlying coarse-textured alluvium. These soils occur on treads and risers on stream terraces in river valleys. Slope ranges from 0 to 9 percent. Mean annual air temperature is about 9 degrees C. Mean annual precipitation is about 775 millimeters.
+
+TAXONOMIC CLASS: Coarse-loamy, mixed, superactive, mesic Pachic Hapludolls
+
+TYPICAL PEDON:  Flagler fine sandy loam, on a west-facing slope of less than 1 percent, in a pasture.  (Colors are for moist soil unless otherwise stated.)
+
+ Ap--0 to 20 centimeters; black (10YR 2/1) fine sandy loam, very dark brown (10YR 2/2) dry; weak very fine granular structure; very friable; neutral; clear smooth boundary.
+
+ A1--20 to 38 centimeters; very dark grayish brown (10YR 3/2) fine sandy loam, dark grayish brown (10YR 4/2) dry; very dark brown (10YR 2/2) coats on peds; weak medium subangular blocky structure parting to weak fine and very fine granular; very friable; slightly acid; gradual smooth boundary.
+
+ A2--38 to 56 centimeters; very dark grayish brown (10YR 3/2) sandy loam, dark grayish brown (10YR 4/2) dry; weak medium subangular blocky structure parting to weak very fine granular; friable; slightly acid; gradual smooth boundary.  (Combined thickness of the A horizon is 30 to 60 centimeters.)
+
+ Bw--56 to 84 centimeters; brown (7.5YR 4/3) sandy loam; weak coarse subangular blocky structure parting to moderate fine granular; friable; few small pebbles; moderately acid; abrupt smooth boundary.  (20 to 50 centimeters thick)
+
+ 2C--84 to 165 centimeters; dark yellowish brown (10YR 4/4) loamy sand; single grain; loose; stratified in lower part with thin strata (2 to 20 millimeters in thickness) of brown (7.5YR 4/2) fine sand; about 12 percent gravel; slightly acid.
+
+TYPE LOCATION:  Major Land Resource Area (MLRA) 108C-Illinois and Iowa Deep Loess and Drift, West Central Part, Mahaska County, Iowa subset; about 1/4 mile north of the town of Eddyville; located about 155 feet east and 1,920 feet north of southwest corner of section 31, T. 74 N., R. 15 W.; USGS Eddyville topographic quadrangle; lat. 41 degrees 09 minutes 59 seconds N. and long. 92 degrees 38 minutes 23 seconds W., NAD 83.
+
+RANGE IN CHARACTERISTICS:
+Thickness of the mollic epipedon--40 to 60 centimeters
+Depth to loamy sand, gravelly sand, gravelly loamy sand, fine sand, or sand--50 to 100 centimeters and is quite variable within short distances
+Depth to carbonates--more than 200 centimeters
+Clay content of the particle-size control section (weighted average)--5 to 12 percent
+Sand content of the particle-size control section (weighted average)--60 to 80 percent
+
+A or Ap horizon:
+Hue--10YR
+Value--2 or 3
+Chroma--1 or 2
+Texture--sandy loam or fine sandy loam
+Clay content--5 to 15 percent
+Sand content--60 to 80 percent
+Reaction--strongly acid to slightly acid
+
+Bw horizon:
+Hue--10YR or 7.5YR
+Value--3 to 5
+Chroma--3 to 6
+Texture--sandy loam
+Clay content--5 to 15 percent
+Sand content--60 to 70 percent
+Reaction--strongly acid to slightly acid
+
+BC horizon (when present):
+Hue--7.5YR or 10YR
+Value--4 or 5
+Chroma--4 to 6
+Texture--sandy loam
+Clay content--5 to 15 percent
+Sand content--60 to 80 percent
+Reaction--strongly acid to slightly acid
+
+Some pedons have clay films or bridging of sand grains
+
+2C horizon:
+Hue--10YR
+Value--4 to 6
+Chroma--4 to 6
+Texture--loamy sand, sand, stratified with these textures or the gravelly or very gravelly analogs of these textures
+Clay content--1 to 10 percent
+Sand content--80 to 95 percent
+Rock fragment content--5 to 50 percent
+Reaction--strongly acid to neutral
+
+Some pedons have bedrock below a depth of 150 centimeters
+
+COMPETING SERIES: These are the Becker, Carmi, and Disco series.
+Becker--have a mollic epipedon 50 to 100 centimeters thick and have a clay content of 5 to 18 percent and a sand content of 35 to 80 percent in the upper half of the series control section
+Carmi--have a clay content that averages 12 to 18 percent in the particle-size control section
+Disco--have a clay content that averages 12 to 18 percent in the particle-size control section
+
+GEOGRAPHIC SETTING: 
+Parent material--50 to 100 centimeters of moderately coarse-textured alluvium and the underlying coarse-textured alluvium
+Landform--treads and risers on stream terraces in river valleys
+Slope--0 to 9 percent
+Elevation--155 to 400 meters above sea level
+Mean annual air temperature--6 to 11 degrees C
+Mean annual precipitation--585 to 965 millimeters
+Frost free period--145 to 205 days
+
+GEOGRAPHICALLY ASSOCIATED SOILS: These are the Lawler, Marshan, Saude, and Waukee soils.
+Lawler--are on slightly lower landscape positions and have a frequently saturated zone within depths of 0.3 to 1 meter during the wettest period of years when precipitation is within one standard deviation of the 30 year mean of annual precipitation
+Marshan--are on lower landscape positions and have are frequently saturated from the surface of the soil to a depth of 0.3 meter during the wettest periods of years when precipitation is within one standard deviation of the 30 year mean of annual precipitation
+Saude--are on landscape positions similar to those of the Flagler soils and have a sand content of 70 to 90 percent in the lower third of the particle-size control section
+Waukee--are on landscape positions similar to those of the Flagler soils and have a clay content of 15 to 24 percent in the upper third of the particle-size control section
+
+DRAINAGE AND SATURATED HYDRAULIC CONDUCTIVITY:
+Drainage class--somewhat excessively drained--a frequently saturated zone does not occur within a depth of 1.8 meters during the wettest period of years when precipitation is within one standard deviation of the 30 year mean of annual precipitation
+Saturated hydraulic conductivity--10.0 to 100.0 micrometers per second in the moderately coarse-textured alluvium and 100.0 to 705.0 micrometers per second in the underlying coarse-textured alluvium
+Flooding--very rarely or rarely flooded for brief to very brief duration
+
+USE AND VEGETATION: 
+Most areas are cultivated. The principal crops are corn, legume hay, small grains, and soybeans. The native vegetation is big bluestem, indiangrass, switchgrass, and other grasses of the tall grass prairie.
+
+DISTRIBUTION AND EXTENT:
+Physiographic Division--Interior Plains
+Physiographic Province--Central Lowland
+Physiographic section--Dissected till plains, Eastern lake section, Western lake section, and Wisconsin driftless section
+MLRAs--Southern Wisconsin and Northern Illinois Drift Plain (95B), Central Iowa and Minnesota Till Prairies (103), Eastern Iowa and Minnesota Till Prairies (104), Northern Mississippi Valley Loess Hills (105), and Illinois and Iowa Deep Loess and Drift, West Central Part (108C)
+LRR M--central and northeastern Iowa, north central Illinois, and southeastern Minnesota
+Extent--moderate
+
+MLRA SOIL SURVEY REGIONAL OFFICE (MO) RESPONSIBLE: Indianapolis, Indiana
+
+SERIES ESTABLISHED: Linn County, Iowa, 1970.
+
+REMARKS:
+Particle-size control section--the zone from a depth of 25 to 100 centimeters;
+series control section--the zone from the surface to a depth of 150 centimeters.
+
+Diagnostic horizons and features recognized in this pedon include:
+mollic epipedon--the zone from the surface to a depth of 56 centimeters (Ap, A1, and A2 horizons);
+cambic horizon--the zone from a depth of 56 centimeters to 84 centimeters (Bw horizon);
+udic moisture regime.
+
+Cation exchange class is inferred from lab data from similar soils in the surrounding area. 
+
+Taxonomy version--Keys to Soil Taxonomy, tenth edition, 2006.
+
+Field documentation supports classification change to Pachic subgroup.
+
+National Cooperative Soil Survey
+U.S.A.

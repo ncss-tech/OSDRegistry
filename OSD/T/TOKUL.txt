@@ -1,0 +1,159 @@
+LOCATION TOKUL                  WA
+
+Established Series
+Rev. MK/AD/RJE
+05/2017
+
+TOKUL SERIES
+
+Landscape--hills
+Landform--till plains, hillslopes
+Slope--0 to 90 percent
+Parent material--loess and volcanic ash over dense glacial till cemented with iron and manganese
+Mean annual precipitation--about 1500 mm
+Mean annual air temperature--about 9 degrees C
+Depth class--moderately deep
+Drainage class--moderately well drained
+Soil moisture regime--xeric
+Soil temperature regime--mesic
+Soil moisture subclass--aquic
+
+TAXONOMIC CLASS: Medial, amorphic, mesic Aquic Vitrixerands
+
+TYPICAL PEDON: Tokul gravelly medial loam, forested (All textures are apparent field textures.)
+
+ Oi--0 to 3 cm; forest litter consisting of leaves and twigs.
+
+ Oa--3 to 5 cm; black (10YR 2/1) decomposed litter.
+
+ A--5 to 15 cm; gravelly medial loam, yellowish brown (10YR 5/4) dry, dark brown (7.5YR 3/2) moist; moderate medium granular structure; soft, very friable, slightly sticky and nonplastic, weakly smeary; common very fine, fine, and medium and few coarse roots; common very fine discontinuous pores; 5 percent medium rounded concretions; 15 percent gravel; moderately acid (pH 5.8); abrupt wavy boundary
+
+ Bs1--15 to 23 cm; gravelly medial loam, light brown (7.5YR 6/4) dry, brown (7.5YR 4/4) moist; weak medium subangular blocky structure; slightly hard, very friable, slightly sticky and slightly plastic, weakly smeary; common very fine, fine, and medium and few coarse roots; common very fine discontinuous pores; 5 percent fine and medium rounded concretions; 15 percent gravel; slightly acid (pH 6.2); clear smooth boundary
+
+ Bs2--23 to 43 cm; gravelly medial loam, light yellowish brown (10YR 6/4) dry, strong brown (7.5YR 5/6) moist; weak medium subangular blocky structure; slightly hard, very friable, slightly sticky and slightly plastic, weakly smeary; common very fine, fine, and medium and few coarse roots; common very fine discontinuous pores; 5 percent fine and medium rounded concretions; 15 percent gravel; slightly acid (pH 6.2); clear smooth boundary
+
+ Bs3--43 to 61 cm; gravelly medial loam, very pale brown (10YR 7/4) dry, dark yellowish brown (10YR 4/4) moist; common medium distinct yellowish brown (10YR 5/8) redoximorphic concentrations; weak medium subangular blocky structure; slightly hard, friable, slightly sticky and slightly plastic, weakly smeary; few very fine, fine, medium, and coarse roots; common very fine discontinuous pores; 3 percent fine rounded concretions; 20 percent gravel and 10 percent cobbles; slightly acid (pH 6.2); abrupt smooth boundary
+
+ BC--61 to 84 cm; gravelly medial fine sandy loam, pale yellow (2.5Y 8/4) dry, light olive brown (2.5Y 5/4) moist; common fine distinct yellowish brown (10YR 5/8) redoximorphic concentrations; massive; slightly hard, friable, slightly sticky and nonplastic; weakly smeary; few very fine, fine, medium, and coarse roots; common very fine discontinuous pores; 1 percent fine irregularly shaped concretions; 25 percent gravel and 5 percent cobbles; moderately acid (pH 6.0); abrupt smooth boundary
+
+ 2Bsm--84 to 157 cm; very gravelly sandy loam, light gray (2.5Y 7/2) dry, dark grayish brown (2.5Y 4/2) moist; common medium distinct yellowish brown (10YR 5/8) redoximorphic concentrations; massive; hard, extremely firm, weakly cemented, extremely hard in places; 35 percent gravel; very thin (0.55 mm) discontinuous indurated layer on surface of horizon; moderately acid (pH 6.0)
+
+TYPE LOCATION: Snohomish County, Washington; about 670 m east and 320 m north of the southwest corner section 6, T. 28 N., R. 7 E.; latitude 47.9380, longitude -121.9610, datum WGS 84 (coordinates estimated from PLSS details)
+
+RANGE IN CHARACTERISTICS:
+Mean annual soil temperature--8 to 10 degrees C
+Moisture control section--dry 45 to 60 consecutive days following summer solstice in most years
+Depth to densic horizon--50 to 100 cm
+Depth to cemented horizon--50 to 100 cm
+Depth to redoximorphic concentrations--43 to 100 cm
+
+Particle-size control section (weighted average)
+*Clay content--2 to 15 percent
+*Rock fragment content--15 to 35 percent total, including 10 to 30 percent gravel and 0 to 15 percent cobbles
+
+Estimated properties of layers influenced with volcanic ash
+*Volcanic glass content in 0.02 to 2.0 mm fraction--5 to 20 percent
+*Ammonium oxalate extractable Al + 1/2 Fe--2 to 4 percent
+*Phosphate retention--85 to 90 percent
+*1/3-bar bulk density--0.6 to 0.9 g/cm3
+*1500 kPa water (air-dried samples)--12 to 15 percent
+
+A horizon
+Hue--10YR, 7.5YR
+Value--2 to 4 moist, 4 to 6 dry
+Chroma--1 to 3 moist or dry
+Fine-earth texture--medial loam, medial fine sandy loam, medial sandy loam
+Clay content--5 to 20 percent
+Total rock fragment content--10 to 30 percent
+Gravel content--10 to 30 percent
+Cobble content--0 to 5 percent
+Reaction--5.1 to 6.5
+Thickness--3 to 10 cm
+
+Some pedons have an E horizon.
+
+Bs horizon (sometimes described as Bw horizon)
+Hue--10YR, 7.5YR
+Value--3 to 6 moist, 4 to 7 dry
+Chroma--4 to 6 moist or dry
+Fine-earth texture--medial loam, medial fine sandy loam, medial sandy loam, medial coarse sandy loam
+Clay content--2 to 15 percent
+Total rock fragment content--10 to 35 percent
+Gravel content--10 to 30 percent
+Cobble content--0 to 15 percent
+Concretion content--0 to 10 percent
+Reaction--5.1 to 6.5
+Combined thickness--29 to 104 cm
+
+BC horizon
+Hue--2.5Y, 5Y
+Value--4 to 6 moist, 5 to 8 dry
+Chroma--2 to 4 moist or dry
+Fine-earth texture--medial fine sandy loam, medial loam, medial sandy loam, medial coarse sandy loam
+Clay content--1 to 15 percent
+Total rock fragment content--20 to 60 percent
+Gravel content--20 to 50 percent
+Cobble content--0 to 15 percent
+Reaction--5.1 to 6.5
+Thickness--13 to 36 cm
+
+2Bsm horizon
+Value--4 or 5 moist, 6 or 7 dry
+Chroma--2 or 3 moist or dry
+Fine-earth fraction--sandy loam, fine sandy loam, coarse loamy sand
+Clay content--1 to 15 percent
+Total rock fragment content--30 to 60 percent
+Gravel content--30 to 50 percent
+Cobble content--0 to 15 percent
+Reaction--5.1 to 6.5
+
+COMPETING SERIES: None
+
+GEOGRAPHIC SETTING:
+Elevation--50 to 450 m
+Mean annual precipitation--1100 to 1800 mm
+Mean January air temperature--1 degree C
+Mean July air temperature--15 degrees C
+Mean annual air temperature--8 to 11 degrees C
+Frost-free period--140 to 200 days
+
+GEOGRAPHICALLY ASSOCIATED SOILS: 
+Barneston--no ortstein layer; more than 150 cm thick; sandy-skeletal
+Pastik--no ortstein layer; more than 150 cm thick; coarse-silty
+Ragnar--no ortstein layer; more than 150 cm thick
+Winston--no ortstein layer; more than 150 cm thick
+
+DRAINAGE AND SATURATED HYDRAULIC CONDUCTIVITY:
+Drainage class--moderately well drained
+Saturated hydraulic conductivity (Ksat)--moderately low or moderately high above ortstein layer, very low in densic layer
+Depth to perched water table--46 to 100 cm at times in November through May
+
+USE AND VEGETATION:
+Use--mostly timber production and pasture
+Native vegetation--Douglas-fir, western hemlock, western redcedar, bigleaf maple, red alder, western swordfern, salal, vine maple, red huckleberry, trailing blackberry, Pacific trillium, western brackenfern, salmonberry, deer fern, ladyfern, Oregongrape
+
+DISTRIBUTION AND EXTENT: West slopes of Cascade Mountains in northwestern Washington; large extent
+
+SOIL SURVEY REGIONAL OFFICE (SSRO) RESPONSIBLE: Portland, Oregon
+
+SERIES ESTABLISHED: King County, Washington; 1943
+
+REMARKS:
+Diagnostic horizons and other features in this pedon
+*Ochric epipedon
+*Cambic horizon--zone from 15 to 61 cm
+*Redoximorphic concentrations--zone from 43 to 157 cm
+*Andic soil properties--zone from 5 to 84 cm
+*Particle-size control section--zone from 5 to 84 cm
+*Depth to dense glacial till cemented with iron and manganese--84 to 157 cm
+
+This series is the designated state soil for Washington State.
+
+7/2013--The Tokul official series description (OSD) was updated as part of a soil data join recorrelation project. The classification was not changed, but the OSD was reformatted and English units were converted to metric units. Laboratory data indicates that the andic soil properties may not always extend to the cemented till and a strongly contrasting particle-size class may be warranted. Further field investigation and laboratory sampling is recommended. The cementing agents in the 2Bsm horizon also require additional investigation. In some historic surveys that included the Tokul series, this material was recognized as ortstein.
+
+12/2015--This OSD was updated according to SSR01 Technical Note--Content and Format of Official Series Descriptions (revised 12/2015). Most of the changes were in formatting; no major technical changes were made.
+
+ADDITIONAL DATA: S98WA-061-001
+
+National Cooperative Soil Survey
+U.S.A.

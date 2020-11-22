@@ -1,0 +1,207 @@
+LOCATION KOLIN                  LA+MS
+
+Established Series
+JPE Rev. JDS-MJB
+01/2017
+
+KOLIN SERIES
+
+The Kolin series consists of very deep, somewhat poorly drained, very slowly permeable soils that formed in loamy alluvial sediments overlying clayey sediments. These soils are on stream terraces of Pleistocene Age. Slope ranges from 1 to 5 percent. Mean annual air temperature is about 19 degrees C (66 degrees F) and the mean annual precipitation is about 1448 cm (57 in). 
+
+TAXONOMIC CLASS: Fine-silty, siliceous, active, thermic Glossaquic Paleudalfs
+
+TYPICAL PEDON: Kolin silt loam in a pine plantation, at an elevation of 36.6 m (120 ft). (Colors are for moist soil.)
+
+    A--0 to 13 cm (0 to 5 in); dark grayish brown (10YR 4/2) silt loam; weak fine granular structure; friable; many coarse, medium, and fine roots; slightly acid; clear wavy boundary. (Thickness of the A horizon is 8 to 17 cm [3 to 7 in])
+
+    E--13 to 20 cm (5 to 8 in); pale brown (10YR 6/3) silt loam; weak medium subangular blocky structure; friable; many medium and fine roots; moderately acid; clear smooth boundary. (Thickness of the E horizon is 0 to 15 cm [0 to 6 in])
+
+    Bt1--20 to 36 cm (8 to 14 in); strong brown (7.5YR 5/6) silty clay loam; moderate medium subangular blocky structure; firm; few fine roots; few fine pores; few distinct clay films on faces of peds; few fine faint light reddish brown (5YR 6/4) masses of oxidized iron with clear boundaries in matrix; strongly acid; clear wavy boundary.
+
+    Bt2--36 to 48 cm (14 to 19 in); strong brown (7.5YR 5/6) silty clay loam; moderate medium subangular blocky structure; firm; few fine roots; few fine pores; few distinct clay films on faces of peds; common fine distinct yellowish red (5YR 5/6) and light reddish brown (5YR 6/4) masses of oxidized iron with clear boundaries in matrix; gray (10YR 5/1) clay depletions up to 1 mm thick on faces of peds in lower part of horizon; strongly acid; abrupt irregular boundary. (Combined thickness of Bt horizon is 25 to 51 cm [10 to 20 in])
+
+    Bt/E--48 to 61 cm (19 to 24 in); 80 percent strong brown (7.5YR 5/6) silty clay loam (Bt); 20 percent light gray (10YR 7/1) albic materials (E) and clay depletions 2 to 10 mm thick surrounding peds; strong moderate and coarse subangular blocky structure; firm; few fine roots; few fine pores; few distinct clay films on faces of peds; many coarse faint light brown (7.5YR 6/4) and few fine distinct red (2.5YR 5/6) masses of oxidized iron with clear boundaries in matrix; strongly acid; clear irregular boundary. (Thickness of the Bt/E horizon is 13 to 38 cm [5 to 15 in])
+
+    2Bt1--61 to 94 cm (24 to 37 in); strong brown (7.5YR 5/6) silty clay; strong medium subangular blocky structure; very firm; few thin distinct clay films on vertical and horizontal faces of peds; many coarse prominent red (2.5YR 5/6) masses of oxidized iron with clear boundaries in matrix; common coarse distinct light gray (10YR 7/2) iron depletions with diffuse boundaries in matrix; very strongly acid; gradual wavy boundary. 
+
+     2Bt2--94 to 168 cm (37 to 66 in); red (2.5YR 5/6) clay; moderate medium subangular blocky structure; firm; light yellowish brown (10YR 6/4) silt coats up to 1 mm thick on some peds; few thin distinct clay films on faces of peds; common medium prominent light gray (10YR 7/2) iron depletions with diffuse boundaries in matrix; slightly acid; gradual wavy boundary. (Combined thickness of the 2Bt horizon is 61 to 137 cm [24 to 54 in])
+
+    2Bt3--168 to 203 cm (66 to 80 in); yellowish red (5YR 5/6) clay; moderate coarse subangular blocky structure; very firm; few thin distinct clay films on faces of peds; many coarse distinct pinkish gray (5YR 7/2) iron depletions with diffuse boundaries in matrix; slightly acid.
+
+TYPE LOCATION: Rapides Parish, Louisiana; 1.5 miles north of Kolin, Louisiana from the intersection of LA107 and parish road, 66 feet west of ditch embankment; SE 1/4, NE 1/4, sec. 30, T4N, R1E. 
+
+USGS Topographic Quadrangle: Libuse, LA 
+Latitude: 31 degrees, 17 minutes, 45 seconds N 
+Longitude: 92 degrees, 18 minutes, 49 seconds W 
+
+Decimal Degrees: 
+Latitude: 31.29583334 degrees 
+Longitude: -92.31361111 degrees 
+Datum: WGS84 
+
+UTM Easting: 565324.41 m 
+UTM Northing: 3462591.78 m 
+UTM Zone: 15N
+
+RANGE IN CHARACTERISTICS: 
+Solum thickness: 152 to 203 cm (60 to 80 in)
+Depth to argillic horizon:  7.6 to 32 cm (3 to 12.5 in)
+Depth to 2Bt horizon: 51 to 102 cm (20 to 40 in)
+
+Particle-size control section (weighted average):
+Clay content: 27 to 40 percent
+
+A or Ap horizon: 
+Hue: 10YR
+Value: 3 or 4 
+Chroma: 1 or 2
+Other color features: some pedons have value of 4 and chroma of 3,
+Thickness features: where the value is 3, the A horizon is less than 15 cm (6 in) thick
+Texture: silt loam or loam
+Reaction: strongly to slightly acid (except where limed) 
+
+E horizon: 
+Hue: 10YR
+Value: 5 or 6
+Chroma: 1 to 4
+Texture: silt loam or loam
+Clay content: 12 to 27 percent
+Reaction: very strongly acid to slightly acid 
+
+BE horizon (where present):
+Hue: 7.5YR or 10YR
+Value: 5 or 6
+Chroma: 6
+Texture: silt loam, loam, or silty clay loam
+Redox concentrations: amount-0 to 5 percent; size-fine; contrast-faint or distinct; color-red, pink, or brown; boundary-clear; location-throughout
+Redox depletions: amount-few to many; size-fine; contrast-faint or distinct; color-gray; boundary-diffuse; location-throughout
+Reaction: very strongly acid to moderately acid 
+
+Bt horizon:
+Hue: 7.5YR to 10YR
+Value: 5 or 6
+Chroma: 4 to 8
+Texture: silty clay loam or silt loam
+Clay content: 20 to 40 percent
+Clay films: location-ped faces; distinctness-faint or distinct
+Redox concentrations: amount-few to many; size-fine or medium; contrast-faint or distinct; color-shades of red, pink, or brown; boundary-clear; location-throughout
+Redox depletions: amount-few to many; size-fine or medium; contrast-faint or distinct; color-gray; boundary-diffuse; location-throughout
+Reaction: very strongly acid to moderately acid
+
+Bt/E horizon:
+Bt part
+Hue: 7.5YR or 10YR 
+Value: 4 or 5 
+Chroma: 4 to 8
+Texture: silty clay loam or silt loam
+Clay content: 20 to 40 percent
+
+E part
+Kind-silt coatings and clay depletions that are vertical intrusions between structural units
+Hue: 10YR or 2.5Y
+Value: 5 to 7
+Chroma: 1 or 2
+Texture: silt loam 
+Clay content: less than 15 percent
+Clay films: location-on ped faces; distinctness-faint or distinct
+Redox concentrations: amount-none to many; size-fine or medium; contrast-faint or distinct; color-red, brown, or yellow; boundary-clear; location-throughout
+Redox depletions: amount-none to many; size-fine or medium; contrast-faint or distinct; color-gray; boundary-diffuse; location-throughout
+Reaction: very strongly acid to moderately acid
+
+2Bssg horizon (where present):
+Hue: 7.5YR to 2.5Y
+Value: 4 or 5
+Chroma: 2 
+Texture: clay or silty clay
+Clay content: 40 to 70 percent
+Slickensides/pressure faces: amount-0 to 10 percent; distinctness-distinct
+Skelatans: amount-0 to 10 percent; distinctness-distinct or prominent; color-shades of gray; location-between peds 
+Redox concentrations: amount-none to many; size-fine or medium; contrast-faint or distinct; color-red, brown, or yellow; boundary-clear; location-throughout
+Effervescence: none
+Reaction: very strongly acid to moderately alkaline
+
+2Bt or 2Btg horizon:
+Hue: 2.5YR to 2.5Y
+Value: 4 or 5
+Chroma: 4 to 8
+Other color features: some pedons are variegated with these colors and shades of gray
+Texture: clay or silty clay
+Effervescence: none to slight
+Reaction: very strongly acid to moderately alkaline
+
+2Btg horizon:
+Hue: 2.5YR to 2.5Y
+Value: 4 or 5
+Chroma: 2 
+Texture: clay or silty clay
+Clay content: 40 to 70 percent
+Slickensides/pressure faces: amount-0 to 10 percent; distinctness-distinct
+Redox concentrations: amount-none to many; size-fine or medium; contrast-faint or distinct; color-red, brown, or yellow; boundary-clear; location-throughout
+Redox depletions: amount-none to many; size-fine or medium; contrast-faint or distinct; color-gray; boundary-diffuse; location-throughout
+Reaction: very strongly acid to moderately alkaline
+
+2C horizon (where present):
+Color: Variegated in shades of red, brown, and gray
+Texture: clay or silty clay
+Effervescence: none to slight
+Reaction: very strongly acid to moderately alkaline 
+
+COMPETING SERIES: These are the Abita (LA) and Glenmora (LA) series in the same family. Other series in closely related families are the Beauregard (LA), Elysian (TX), Evangeline (LA), Keithville (LA), Metcalf (LA), Muskogee (AR), and Timpson (TX) soils. 
+Abita and Glenmora soils: do not have a clayey discontinuity within a depth of 100 cm (40 in); in addition, Glenmora soils do not have a glossic horizon 
+Beauregard soils: have 5 to 30 percent plinthite in the B horizon 
+Elysian and Timpson soils: have less than 18 percent clay in the particle-size control section 
+Evangeline soils: do not have aquic conditions within a depth of 100 cm (40 in)
+Metcalf soils: formed in alluvial sediments over Tertiary age clayey deposits that do not have reddish matrix color, and have a semiactive activity class 
+Muskogee soils: do not have intrusions of albic materials (E) within the argillic horizon 
+Keithville soils: contain more than 25 percent total sand in the argillic horizon
+
+GEOGRAPHIC SETTING: 
+Parent Material: loamy alluvium overlying clayey alluvium derived from sedimentary rock
+Landscape: coastal plain
+Landform: stream terraces of Pleistocene age
+Slope: 1 to 8 percent, but are dominantly 1 to 5 percent
+Mean annual air temperature: 15 to 22 degrees C (59 to 71.6 degrees F)
+Mean annual precipitation: 1118 to 1726 mm (44 to 68 in)
+Mean annual soil temperature: 17 to 24 degrees C (62.6 to 75.2 degrees F)
+Frost-free period: 200 to 291 days
+Elevation: 19 to 61 m (62 to 200 ft) 
+
+GEOGRAPHICALLY ASSOCIATED SOILS: These are the competing Beauregard (LA) and Glenmora (LA) series and the Acadia (LA), Crowley (LA), Gore (LA), Libuse (LA), Lorman (MS), and Wrightsville (AR) series. 
+Acadia, Crowley, Gore, Lorman, and Wrightsville soils: have fine-textured control sections and are on similar positions 
+Libuse soils: have a fragipan and are on similar positions
+
+DRAINAGE AND PERMEABILITY: 
+Drainage:  somewhat poorly drained
+Permeability: moderately slow permeability in the Bt horizon and very slow in the 2Bt horizon
+Runoff:  very high
+Seasonal high water table: the soil is wet in the layers below 46 to 91 cm (1.5 to 3 ft) and above the clayey 2Bt horizon during December through April in normal years
+
+USE AND VEGETATION: Most of the areas of this soil is in mixed hardwood and pine woodland. A small acreage is used for pasture and cultivated crops.
+
+DISTRIBUTION AND EXTENT: Arkansas, Louisiana, Mississippi, and possibly Oklahoma; LRR-P; MLRA 133A and MLRA 133B. Extent is large.
+
+MLRA SOIL SURVEY REGIONAL OFFICE (MO) RESPONSIBLE: Temple, Texas
+
+SERIES ESTABLISHED: Rapides Parish, Louisiana, 1972.
+
+REMARKS: 
+The Kolin series was first proposed as fine-silty, siliceous, thermic Glossaquic Paleudalfs and submitted for review in 1972 with change in the definition of "a glossic horizon". With further examination of pedons the concept was changed to a fine-silty, siliceous thermic Haplic Glossudalf.  The series was updated in 2004 to change the classification back to a Glossaquic Paleudalf based on changes made to the 9th ed. Keys to Taxonomy which places Paleudalfs higher on the key than Glossudalfs, and on water monitoring data at a site in Bossier Parish, Louisiana.  Further study is still needed to verify that the correct mineralogy class for Kolin soils is siliceous. Some data from Bossier Parish indicate that it may be mixed.  The series was also updated in 2004 to allow 2.5Y hue in the Glossic horizon and in the 2Bt horizon, and to allow a gray matrix in the parts of the subsoil just below the discontinuity.  
+
+Diagnostic horizons and features in this pedon:
+Ochric epipedon: 0 to 20 cm (0 to 8 in) (A and E horizons)
+Albic horizon (E): 13 to 20 cm (5 to 8 in) (E horizon)
+Argillic horizon: 20 to 203 cm (8 to 80 in) (Bt1, Bt2, B1E, 2Bt1, 2Bt2, and 2Bt3 horizons)
+Glossic horizon: 48 to 61 cm (19 to 24 in) (Bt/E horizon)
+Redoximorphic concentrations: 20 to 203 cm (8 to 80 in) (Bt1, Bt2, Bt/E, 2Bt1, 2Bt2 and 2Bt3 horizons)
+Redoximorphic depletions: 61 to 203 cm (24 to 80 in) (2Bt1, 2Bt2, 2Bt3 horizons)
+Episaturation: 48 to 61 cm (19 to 24 in) (Bt/E horizon)
+Lithological Discontinuity: 61 to 203 cm (24 to 80 in) (2Bt horizon)
+
+Edited 01/2017 (JAD-MJB) Changed to tabular format. Added metric measurements. Updated pedon description, range in characteristics, geographic setting, geographically associated soils, and other sections.
+
+ADDITIONAL DATA: None
+
+TAXONOMIC VERSION: Keys to Soil Taxonomy, Twelfth Edition, 2014
+
+National Cooperative Soil Survey
+U.S.A.

@@ -1,0 +1,122 @@
+LOCATION YIKWIL                 WA
+
+Established Series
+Rev. PNP/KDPL/SBC
+09/2019
+
+YIKWIL SERIES
+
+Landscape--mountains, plateaus
+Landform--mountain slopes, benches
+Slope--0 to 60 percent
+Parent material--volcanic ash over colluvium and residuum derived from basalt
+Mean annual precipitation--about 1000 mm
+Mean annual air temperature--about 6 degrees C
+Depth class--very deep
+Drainage class--well drained
+Soil moisture regime--udic
+Soil temperature regime--frigid
+Soil moisture subclass--typic
+
+TAXONOMIC CLASS: Ashy over loamy-skeletal, mixed over isotic, frigid Alfic Udivitrands
+
+TYPICAL PEDON: Yikwil ashy sandy loam in an area of forestland, on a 6-percent, southeast-facing plateau at an elevation of 1300 m (All textures are apparent field textures.)
+
+ Oi--0 to 3 cm; slightly decomposed needles, cones, and twigs mixed with a small amount of 1980 Mount St. Helens ash
+
+ A--3 to 28 cm; ashy sandy loam, brown (10YR 4/3) dry, dark brown (7.5YR 3/2) moist; weak fine granular structure; soft, very friable, nonsticky and nonplastic; weakly smeary; many very fine and fine and common medium and coarse roots; common fine irregular pores; 5 percent gravel; slightly acid (pH 6.5); clear smooth boundary
+
+ Bw--28 to 86 cm; ashy sandy loam, brown (7.5YR 4/4) dry, dark brown (7.5YR 3/4) moist; weak fine subangular blocky structure; soft, very friable, nonsticky and nonplastic; weakly smeary; few very fine and common fine, medium, and coarse roots; common fine irregular pores; 5 percent cobbles and 5 percent stones; slightly acid (pH 6.3); abrupt smooth boundary
+
+ 2Bt1--86 to 109 cm; very stony loam, brown (10YR 5/3) dry, dark brown (10YR 3/3) moist; weak medium subangular blocky structure; slightly hard, friable, slightly sticky and nonplastic; common fine, medium, and coarse roots; common very fine and few fine tubular pores; common distinct clay films on faces of peds and in pores; 5 percent gravel, 15 percent cobbles, and 20 percent stones; slightly acid (pH 6.1); clear smooth boundary
+
+ 2Bt2--109 to 160 cm; very stony loam, yellowish brown (10YR 5/4) dry, dark yellowish brown (10YR 3/4) moist; weak coarse subangular blocky structure; slightly hard, friable, moderately sticky and slightly plastic; few fine and medium roots; few fine and medium tubular pores; common distinct clay films on faces of peds and lining pores; 10 percent gravel, 10 percent cobbles, 25 percent stones, and 10 to 15 percent soft basalt paragravel; moderately acid (pH 5.6)
+
+TYPE LOCATION: Yakama Nation, Yakima County, Washington, about 640 m south and 610 m west of the northeast corner of section 16, T. 9 N., R. 13 E.; latitude 46.2665100, longitude -121.1961822, datum WGS 84 (coordinates estimated from section, township, and range)
+
+RANGE IN CHARACTERISTICS:
+Mean annual soil temperature at a depth of 50 cm--7 to 8 degrees C
+Moisture control section--usually moist, but dry in all parts 30 to 45 consecutive days following summer solstice
+Thickness of umbric epipedon--25 to 55 cm
+Lower part of particle-size control section--argillic horizon; 18 to 30 percent clay; 35 to 65 percent rock fragments; 0 to 35 percent soft basalt pararock fragments
+
+Volcanic ash mantle
+*Thickness--65 to 95 cm
+*Moist bulk density--0.75 to 0.90 g/cm3
+*Glass content--5 to 30 percent
+*Ammonium oxalate aluminum plus one-half iron--2 to 3 percent
+*15-bar water retention--5 to 12 percent (air-dried samples)
+*Rock fragment content--0 to 20 percent
+
+Oi horizon
+Thickness--0 to 8 cm
+
+A horizon
+Hue--7.5YR, 10YR
+Value--3 to 5 dry, 2 or 3 moist
+Chroma--2 to 4 dry, 1 to 3 moist
+Reaction--slightly acid or moderately acid
+Thickness--25 to 56 cm
+
+Bw horizon
+Hue--7.5YR, 10YR
+Value--4 or 5 dry, 3 or 4 moist
+Chroma--2 to 4 dry or moist
+Texture--ashy sandy loam, gravelly ashy sandy loam, cobbly ashy sandy loam
+Reaction--5.6 to 6.5
+Thickness--38 to 56 cm
+
+2Bt horizon
+Hue--7.5YR, 10YR
+Value--4 or 5 dry, 3 or 4 moist
+Chroma--3 to 6 dry, 3 or 4 moist
+Texture--very gravelly loam, very cobbly loam, very stony loam, extremely gravelly loam, very gravelly clay loam
+Reaction--5.1 to 6.5
+Combined thickness--greater than 30 cm
+
+COMPETING SERIES: None
+
+GEOGRAPHIC SETTING:
+Elevation--790 to 1475 m
+Climate--warm, dry summers; cool, moist winters
+Mean annual precipitation--890 to 1300 mm, dominantly snow
+Mean annual air temperature--6 to 7 degrees C
+Frost-free season--70 to 100 days
+
+GEOGRAPHICALLY ASSOCIATED SOILS:
+Kakyawala--on benches and side slopes; no argillic horizon
+Nank--on mountain benches, plateaus and side slopes; volcanic ash mantle 36 to 64 cm thick; ashy over loamy particle-size class
+Nchitaak--on mountain benches, plateaus, and side slopes; ashy-skeletal over loamy-skeletal particle-size class
+Wanaishchit--on plateaus and side slopes; ashy over loamy particle-size class
+
+DRAINAGE AND SATURATED HYDRAULIC CONDUCTIVITY:
+Drainage class--well drained
+Saturated hydraulic conductivity (Ksat)--moderately high
+
+USE AND VEGETATION:
+Use--timber production, livestock grazing, watershed, wildlife habitat, recreation
+Native vegetation--grand fir, Douglas-fir, western larch, vine maple, California hazel, creeping snowberry, queencup beadlily, broadleaf starflower, false Solomon's seal, northern twinflower, tall Oregon grape
+
+DISTRIBUTION AND EXTENT: Eastern slopes of Cascade Mountains in Washington, Yakama Nation, Yakima County; MLRA 6; small extent
+
+SOIL SURVEY REGIONAL OFFICE (SSRO) RESPONSIBLE: Portland, Oregon
+
+SERIES ESTABLISHED: Yakama Nation, Yakima County, Washington; 2014
+
+REMARKS:
+Diagnostic horizons and other features recognized in this pedon
+*Umbric epipedon--zone from 3 to 28 cm
+*Cambic horizon--zone from 28 to 86 cm
+*Argillic horizon--zone from 86 to 160 cm
+*Andic soil properties--zone from 3 to 86 cm
+*Particle-size control section--zone from 3 to 103 cm
+
+Values for andic soil properties, including glass content, acid oxalate aluminum and iron, and 15-bar water retention, were estimated based on laboratory data from similar soils.
+
+Yikw'il is the Yakama word for muddy. The type location for this series is in the vicinity of Swamp Creek. In 2004, the series originally was named the Pulu series.
+
+ADDITIONAL DATA:
+Partial laboratory data--sample number 56B-16-3; Yakama Nation Soils Laboratory, Toppenish, Washington
+
+National Cooperative Soil Survey
+U.S.A.

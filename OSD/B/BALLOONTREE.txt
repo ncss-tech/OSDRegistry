@@ -1,0 +1,158 @@
+LOCATION BALLOONTREE            OR
+
+Established Series
+Rev. RAW/JLW/DAL/KMS
+11/2018
+
+BALLOONTREE SERIES
+
+Landscape--mountains
+Landform--drainageways of mountain slopes, plateaus
+Slope--0 to 15 percent
+Parent material--thick mantle of volcanic ash over colluvium derived from basalt mixed with loess
+Mean annual precipitation--about 1190 mm
+Mean annual air temperature--about 4 degrees C
+Depth class--very deep
+Drainage class--somewhat poorly drained
+Soil moisture regime--udic
+Soil temperature regime--cryic
+Soil moisture subclass--aquic
+
+TAXONOMIC CLASS: Ashy over loamy, amorphic over isotic Aquic Vitricryands
+
+TYPICAL PEDON: Balloontree ashy silt loam, forested, on a 5-percent, linear, north-facing slope at an elevation of 1550 m
+
+ Oi--0 to 3 cm; slightly decomposed needles and twigs
+
+ A--3 to 10 cm; ashy silt loam, brown (7.5YR 4/2) dry, very dark brown (7.5YR 2.5/2) moist; weak fine subangular blocky structure; soft, very friable, nonsticky and nonplastic; common very fine and fine roots throughout; few very fine irregular pores; moderately acid (5.7 pH); abrupt wavy boundary
+
+ Bw1--10 to 41 cm; ashy silt loam, brown (7.5YR 5/3) dry, dark brown (7.5YR 3/4) moist; weak fine subangular blocky structure; soft, very friable, nonsticky and nonplastic; common very fine and fine and few medium roots throughout; few very fine irregular pores; slightly acid (6.5 pH); abrupt wavy boundary
+
+ Bw2--41 to 64 cm; ashy sandy loam, very pale brown (10YR 7/3) dry, dark yellowish brown (10YR 4/4) moist; weak fine subangular blocky structure; slightly hard, very friable, nonsticky and nonplastic; few very fine, fine, and medium roots throughout; few very fine irregular pores; neutral (6.8 pH); abrupt wavy boundary
+
+ 2ABb--64 to 84 cm; silt loam, brown (7.5YR 5/3) dry, brown (7.5YR 4/3) moist; common fine distinct redoximorphic concentrations, reddish yellow (5YR 6/8) moist; weak fine subangular blocky structure; slightly hard, friable, slightly sticky and slightly plastic; few fine roots throughout; common fine and very fine tubular pores; moderately acid (pH 5.6); clear wavy boundary
+
+ 2Bwb1--84 to 117 cm; silt loam, brown (7.5YR 5/4) dry, brown (7.5YR 4/3) moist; common fine faint redoximorphic concentrations, reddish yellow (5YR 6/8) moist; moderate fine subangular blocky structure; slightly hard, friable, moderately sticky and moderately plastic; few fine roots throughout; common very fine tubular pores; moderately acid (pH 5.6); clear wavy boundary
+
+ 2Bwb2--117 to 160 cm; silt loam, light brown (7.5YR 6/3) dry, brown (7.5YR 4/3) moist; weak fine subangular blocky structure; slightly hard, friable, moderately sticky and moderately plastic; common very fine tubular pores and few fine irregular pores; moderately acid (pH 5.6)
+
+TYPE LOCATION: Union County, Oregon; about 110 m north and 450 m west of the southeast corner of section 27, T. 3 N., R. 38 E; Andies Prairie U.S. Geological Survey quadrangle; latitude 45.7037799, longitude -118.0411094, datum WGS 84 (coordinates estimated from PLSS details)
+
+RANGE IN CHARACTERISTICS:
+Mean annual soil temperature--3 to 6 degrees C
+Mean summer soil temperature--7 to 8 degrees C
+Mean winter soil temperature--0 to 2 degrees C
+Soil moisture--dry 30 to 45 days
+Depth to redoximorphic features--50 to 75 cm
+Thickness of ash-influenced layers--50 to 90 cm
+
+Estimated properties of layers influenced by volcanic ash
+*Ammonium oxalate extractable Al + 1/2 Fe--1.5 to 3.0 percent
+*0.02- to 2.0-mm fraction--50 to 70 percent
+*Volcanic ash content in 0.02- to 2.0-mm fraction--60 to 90 percent
+*1/3-bar bulk density--0.65 to 1.00 g/cm3
+*Phosphate retention--60 to 90 percent
+*15-bar water retention--5 to 12 percent (dried samples)
+*8 x Si plus 2 x Fe--5 to 12 percent
+*8 x Si minus 2 x Fe--4 to 8 percent
+
+Particle-size control section (ashy part)
+*Clay content--5 to 7 percent
+*Total rock fragment content--0 to 1 percent
+
+Particle-size control section (loamy part)
+*Clay content--18 to 23 percent
+*Total rock fragment content--0 to 28 percent
+
+A horizon
+Hue--5YR, 7.5YR
+Value--2.5 moist
+Chroma--1 or 2 moist or dry
+Fine-earth texture--ashy silt loam
+Clay content--6 to 9 percent
+Sand content--30 to 40 percent
+Organic matter content--1.0 to 4.5 percent
+Total rock fragment content--0 to 1 percent
+Gravel content--0 to 1 percent
+Reaction--5.6 to 6.5
+Thickness--3 to 13 cm
+
+Bw horizon
+Hue--7.5YR, 10YR
+Value--2 to 4 moist, 5 to 7 dry
+Chroma--4 to 6 moist, 3 or4 dry
+Fine-earth texture--ashy silt loam, ashy sandy loam
+Clay content--2 to 7 percent
+Sand content--20 to 60 percent
+Organic matter content--0.5 to 2.5 percent
+Total rock fragment content--0 to 1 percent
+Gravel content--0 to 1 percent
+Reaction--5.6 to 7.3
+Thickness--38 to 85 cm
+
+2ABb horizon
+Hue--7.5YR, 10YR
+Value--3 or 4 moist
+Fine-earth texture--silt loam
+Clay content--10 to 20 percent
+Sand content--10 to 25 percent
+Organic matter content--2.5 to 4.0 percent
+Total rock fragment content--1 to 30 percent
+Gravel content--1 to 30 percent
+Reaction--5.6 to 6.5
+Thickness--10 to 35 cm
+
+2Bwb horizon
+Hue--7.5YR, 10YR
+Value--4 or 5 moist
+Fine-earth texture--silt loam, loam
+Clay content--16 to 24 percent
+Sand content--10 to 40 percent
+Organic matter content--0 to 2 percent
+Total rock fragment content--1 to 45 percent
+Gravel content--1 to 40 percent
+Cobble content--0 to 5 percent
+Reaction--5.6 to 6.5
+
+COMPETING SERIES: None
+
+GEOGRAPHIC SETTING:
+Elevation--1220 to 1950 m
+Climate--cold, wet winters; cool, moist summers
+Mean annual precipitation--940 to 1400 mm
+Mean annual air temperature--2 to 6 degrees C
+Frost-free period--25 to 70 days
+
+GEOGRAPHICALLY ASSOCIATED SOILS:
+Mountemily--on gently sloping, linear mountain backslopes and plateaus; well drained; skeletal subsoil
+Mountireland--on gently sloping, linear to concave mountain backslopes and plateaus; well drained; argillic horizon
+
+DRAINAGE AND SATURATED HYDRAULIC CONDUCTIVITY:
+Saturation during normal years--saturated within a depth of 84 cm of the surface in February, 64 cm in March through May, and 117 cm in June
+Flooding--none
+Ponding--rare in April and May
+Saturated hydraulic conductivity (Ksat)--moderately high
+
+USE AND VEGETATION:
+Use--watershed, wildlife habitat, limited timber production
+Native vegetation--Engelmann spruce, subalpine fir, lodgepole pine, Sitka alder, grand fir, prickly currant, western bugbane, grouse huckleberry, meadow-rue, violet, Piper's anemone, big huckleberry, heartleaf arnica, Columbia brome, largeleaf sandwort, pyrola, prince's pine
+
+DISTRIBUTION AND EXTENT: Blue Mountains of northeastern Oregon; MLRA 10; small extent
+
+MLRA SOIL SURVEY REGIONAL OFFICE (MO) RESPONSIBLE: Portland, Oregon
+
+SERIES ESTABLISHED: Umatilla National Forest, Oregon; 2012
+
+REMARKS:
+Diagnostic horizons and other features recognized in this pedon
+*Ochric epipedon
+*Cambic horizon--zone from 10 to 64 cm
+*Volcanic glass--zone from 3 to 54 cm
+*Redoximorphic concentrations--zone from 64 to 117 cm
+*Depth to lithologic discontinuity--64 cm
+*Particle-size control section--zone from 3 to 103 cm
+
+7/2016--This official series description was updated according to SSR1 Technical Note 11--Content and Format of Official Series Descriptions (revised 12/2015). Most of the changes were in formatting; no major technical changes were made.
+
+National Cooperative Soil Survey
+U.S.A.

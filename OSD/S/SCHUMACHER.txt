@@ -1,0 +1,141 @@
+LOCATION SCHUMACHER             WA+ID
+
+Established Series
+Rev. NCD/HRG/RJE
+06/2016
+
+SCHUMACHER SERIES
+
+Landscape--hills, mountains
+Landform--hillslopes, mountain slopes, buttes
+Slope--0 to 65 percent
+Parent material--loess and residuum derived from quartzite, sandstone, or intrusive igneous rock
+Mean annual precipitation--about 535 mm
+Mean annual air temperature--about 8 degrees C
+Depth class--deep
+Drainage class--well drained
+Soil moisture regime--xeric
+Soil temperature regime--mesic
+Soil moisture subclass--typic
+
+TAXONOMIC CLASS: Fine-loamy, mixed, superactive, mesic Ultic Argixerolls
+
+TYPICAL PEDON: Schumacher silt loam, cultivated
+
+ Ap--0 to 15 cm; silt loam, dark grayish brown (10YR 4/2) dry, very dark brown (10YR 2/2) moist; weak fine granular structure; slightly hard, friable, slightly sticky and slightly plastic; many fine roots; neutral (pH 6.8); abrupt smooth boundary
+
+ A--15 to 30 cm; silt loam, dark grayish brown (10YR 4/2) dry, very dark brown (10YR 2/2) moist; moderate medium subangular blocky structure; slightly hard, friable, slightly sticky and slightly plastic; many roots; many fine pores; neutral (pH 6.8); gradual wavy boundary
+
+ AB--30 to 48 cm; silt loam, grayish brown (10YR 5/2) dry, very dark grayish brown (10YR 3/2) moist; moderate coarse subangular blocky structure; slightly hard, friable, slightly sticky and slightly plastic; common roots; many fine pores; 5 percent quartzite gravel; neutral (pH 6.8); abrupt wavy boundary
+
+ Bt1--48 to 79 cm; silty clay loam, brown (7.5YR 4/4) dry, dark brown (7.5YR 3/4) moist; strong fine and medium angular blocky structure; very hard, very firm, sticky and plastic; few roots; few medium pores; thick continuous clay films on peds; 15 percent quartzite gravel; neutral (pH 6.8); clear wavy boundary
+
+ Bt2--79 to 94 cm; silty clay loam, brown (7.5YR 5/4) dry, brown (7.5YR 4/4) moist; strong fine and medium blocky structure; very hard, very firm, sticky and plastic; few fine roots; few medium pores; thick continuous clay films on peds; 10 percent quartzite gravel; neutral (pH 6.6); clear wavy boundary
+
+ Bt3--94 to 109 cm; silty clay loam, brown (7.5YR 5/4) dry, brown (7.5YR 4/4) moist; moderate fine subangular blocky structure; very hard, very firm, sticky and plastic; very few fine roots; many very fine pores; thin continuous clay films on peds; 12 percent quartzite gravel; neutral (pH 6.6)
+
+ R--109 cm; metasediment
+
+TYPE LOCATION: Whitman County, Washington; about 460 m south and 550 m east of the northwest corner of section 19, T. 19 N., R. 44 E.; latitude 47.1337500, longitude -117.3151540, datum WGS 84 (coordinates estimated from PLSS details)
+
+RANGE IN CHARACTERISTICS: 
+Mean annual soil temperature--8 to 11 degrees C
+Depth to lithic contact--100 to 150 cm
+Moisture control section--usually moist, but dry 45 to 60 consecutive days following summer solstice
+Content of clay in particle-size control section--25 to 35 percent
+Content of rock fragments in particle-size control section--5 to 30 percent
+Thickness of mollic epipedon--25 to 50 cm
+Features of peds and void surfaces (Bt horizon)--thin to thick, continuous clay films; graying or striping on some peds; few relict manganese shot or coatings on some peds
+
+Ap and A horizons
+Value--4 or 5 dry, 2 or 3 moist
+Chroma--1 or 2 moist or dry
+Content of clay--10 to 25 percent
+Content of gravel--0 to 20 percent
+Reaction--6.6 to 7.8
+Thickness of Ap horizon--15 to 25 cm
+Thickness of A horizon--0 to 25 cm
+
+AB horizon, or BA horizon (where present)
+Hue--10YR
+Value--4 or 5 dry, 2 or 3 moist
+Chroma--2 or 3 moist or dry
+Content of clay--13 to 25 percent
+Texture--silt loam, loam
+Content of gravel--0 to 25 percent
+Content of cobbles--0 to 15 percent
+Total content of rock fragments--0 to 30 percent
+Reaction--6.1 to 7.8
+Thickness of AB horizon--0 to 30 cm
+
+Bt1 and Bt2 horizons
+Hue--7.5YR, 10YR
+Value--4 to 6 dry, 3 or 4 moist
+Chroma--3 or 4 moist or dry
+Content of clay--18 to 35 percent
+Texture--silty clay loam, clay loam, silt loam, loam
+Content of gravel--0 to 30 percent
+Content of cobbles--0 to 15 percent
+Total content of rock fragments--0 to 30 percent
+Reaction--6.1 to 7.8
+Combined thickness of Bt1 and Bt2 horizons--35 to 50 cm
+
+Bt3 horizon
+Hue--7.5YR, 10YR
+Value--4 to 7 dry, 3 to 5 moist
+Chroma--3 or 4 moist or dry
+Content of clay--15 to 35 percent
+Texture--silty clay loam, loam, clay loam, silt loam
+Content of gravel--10 to 35 percent
+Content of cobbles--0 to 25 percent
+Total content of rock fragments--10 to 45 percent
+Reaction--6.1 to 7.8
+
+COMPETING SERIES:
+Annum--deep to paralithic contact; buried Bt horizon; 2Bk or 2BC horizon that is slightly alkaline or moderately alkaline
+Brownlee, Felton--deep to paralithic contact
+Chirpchatter, Ebadlow, Fisherhill, Hellake, Mendian (T), Meystre, Quiden, Rehfield, Stardust, Van Horn--very deep
+Goldendale--Bt horizon that extends to a depth of 150 cm or more; less than 25 percent medium sand or coarser material in particle-size control section
+Lompico, Lorena, Meland, Robbscreek, Stacker--50 to 100 cm deep
+Updegraff--dry more than 60 consecutive days; O horizon; no silty clay loam in subsoil
+
+GEOGRAPHIC SETTING: 
+Elevation--670 to 1225 m
+Mean annual precipitation--455 to 710 mm
+Mean January air temperature--about -3 degrees C
+Mean July air temperature--about 19 degrees C
+Mean annual air temperature--about 8 degrees C
+Frost-free period--100 to 140 days
+
+GEOGRAPHICALLY ASSOCIATED SOILS:
+Garfield--ochric epipedon; fine
+Larkin, Naff, Palouse, Thatuna--fine-silty
+Speigle--loamy-skeletal; cambic horizon
+Tekoa--50 to 100 cm deep to bedrock
+Tilma--fine
+
+DRAINAGE AND PERMEABILITY:
+Drainage class--well drained
+Saturated hydraulic conductivity (Ksat)--moderately high
+
+USE AND VEGETATION:
+Use--production of small grain, peas, alfalfa, and grass in cultivated areas
+Native vegetation--Idaho fescue, bluebunch wheatgrass, Sandberg bluegrass, common snowberry, arrowleaf balsamroot, prairie junegrass, scattered ponderosa pine
+
+DISTRIBUTION AND EXTENT: Eastern Washington and northern Idaho; MLRA 9; moderate extent
+
+MLRA SOIL SURVEY REGIONAL OFFICE (MO) RESPONSIBLE: Portland, Oregon 
+
+SERIES ESTABLISHED: Whitman County, Washington; 1942
+
+REMARKS:
+Diagnostic horizons and other features in this pedon
+*Mollic epipedon--zone from surface to a depth of 48 cm
+*Argillic horizon--zone from 48 to 109 cm
+*Depth to lithic contact--109 cm
+*Particle-size control section--zone from 48 to 99 cm
+
+6/2016--This official series description (OSD) was updated as part of the final correlation of the Spokane County, Washington, soil survey. The formatting was updated according to SSR1 Technical Note 11--Content and Format of Official Series Descriptions (revised 12/2015).
+
+National Cooperative Soil Survey
+U.S.A.

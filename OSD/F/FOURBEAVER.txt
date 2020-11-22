@@ -1,0 +1,120 @@
+LOCATION FOURBEAVER             OR
+
+Established Series
+Rev. RLW/KMS
+11/2018
+
+FOURBEAVER SERIES
+
+Landscape--mountains
+Landform--mountain slopes
+Slope--0 to 60 percent
+Parent material--colluvium and residuum derived from hard igneous extrusive rock with a minor influence of volcanic ash in the upper part
+Mean annual precipitation--about 510 mm
+Mean annual air temperature--about 5 degrees C
+Depth class--shallow to lithic bedrock
+Drainage class--well drained
+Soil moisture regime--xeric
+Soil temperature regime--frigid
+Soil moisture subclass--typic
+
+TAXONOMIC CLASS: Clayey-skeletal, smectitic, frigid Lithic Ultic Argixerolls
+
+TYPICAL PEDON: Fourbeaver ashy loam, forested, on a 2-percent slope at an elevation of 1393 m
+
+ Oi--0 to 1 cm; slightly decomposed plant material
+
+ A--1 to 11 cm; very cobbly ashy loam, brown (7.5YR 4/3) dry, black (7.5YR 2.5/1) moist; moderate medium subangular blocky structure; slightly hard, firm, slightly sticky and nonplastic; very few very fine and fine and moderately few medium roots throughout; common medium tubular pores; 15 percent gravel, 30 percent cobbles, and 10 percent stones; slightly acid (pH 6.5); clear wavy boundary
+
+ 2Bt--11 to 32 cm; very cobbly clay loam, brown (7.5YR 4/2) dry, dark brown (7.5YR 3/2) moist; strong medium subangular blocky structure; very hard, very firm, moderately sticky and slightly plastic; very few very fine and fine and moderately few medium roots throughout; common medium tubular pores; 60 percent clay films on all faces of peds; 25 percent gravel, 25 percent cobbles, and 5 percent stones; slightly acid (pH 6.4); abrupt wavy boundary
+
+ 2Bt--32 to 46 cm; very cobbly clay, brown (7.5YR 5/2) dry, brown (7.5YR 4/2) moist; moderate medium prismatic structure; extremely hard, very firm, very sticky and very plastic; very few fine and moderately few medium roots throughout; common medium and fine tubular pores; 60 percent clay films on all faces of peds; 20 percent gravel, 30 percent cobbles, and 5 percent stones; slightly acid (pH 6.4); abrupt irregular boundary
+
+ 2R--46 cm; andesite
+
+TYPE LOCATION: Grant County, Oregon; in the NE1/4NW1/4SW1/4 of section 30, T. 9 S., R. 33 E., latitude 44.7563040, longitude -118.7942260, datum WGS 84 (source of coordinates unknown, but may have been manually estimated from a pin prick on a hard copy map)
+
+RANGE IN CHARACTERISTICS: 
+Mean annual soil temperature--4 to 8 degrees C
+Soil moisture--dry 60 to 90 consecutive days following summer solstice
+Depth to lithic contact--25 to 50 cm
+Thickness of mollic epipedon--18 to 50 cm
+Base saturation--65 to 75 percent (by sum of cations) in at least one mineral horizon
+Thickness of layers influenced by volcanic ash--5 to 15 cm
+
+Estimated properties of layers influenced by volcanic ash
+*Ammonium oxalate extractable Al +  Fe--0.4 to 1.0 percent
+*0.02- to 2.0-mm fraction--more than 30 percent
+*Volcanic glass in the 0.02- to 2.0-mm fraction--5 to 20 percent
+
+Particle-size control section
+*Clay content--35 to 55 percent
+*Total rock fragment content--35 to 75 percent
+
+A horizon
+Hue--7.5YR or 10YR dry or moist
+Value--2.5 to 4 moist, 4 or 5 dry
+Chroma--1 or 2 moist, 2 or 3 dry
+Fine-earth texture--ashy loam
+Clay content--15 to 27 percent
+Sand content--25 to 50 percent
+Organic matter content--4 to 8 percent
+Total rock fragment content--15 to 60 percent
+Gravel content--5 to 40 percent
+Cobble content--10 to 35 percent
+Stone content--0 to 15 percent
+Reaction--5.6 to 6.5
+
+2Bt horizon
+Hue--7.5YR or 10YR dry or moist
+Value--3 to 4 moist, 4 or 5 dry
+Chroma--2 to 4 moist or dry
+Fine-earth texture--clay, clay loam
+Clay content--30 to 60 percent
+Sand content--25 to 45 percent
+Organic matter content--1 to 4 percent
+Total rock fragment content--35 to 90 percent
+Gravel content--15 to 50 percent
+Cobble content--15 to 50 percent
+Stone content--5 to 20 percent
+Reaction--5.6 to 6.5
+
+COMPETING SERIES:
+Hafmau--sandy loam ash-influenced layers; ash influence more than 18 cm thick in upper part
+Polecreek--no volcanic ash in upper part
+
+GEOGRAPHIC SETTING:
+Elevation--1170 to 1650 m
+Climate--cool, wet winters; hot, dry summers
+Mean annual precipitation--420 to 680 mm
+Mean annual temperature--2 to 7 degrees C
+Frost-free season--25 to 130 days
+
+GEOGRAPHICALLY ASSOCIATED SOILS: None given
+
+DRAINAGE AND SATURATED HYDRAULIC CONDUCTIVITY:
+Saturation during normal years--none
+Flooding--none
+Ponding--none
+Saturated hydraulic conductivity (Ksat)--moderately high over moderately low
+
+USE AND VEGETATION:
+Use--recreation, timber production, livestock grazing, wildlife habitat
+Potential natural vegetation--ponderosa pine, common snowberry, pinegrass, Idaho fescue, elk sedge, heartleaf arnica, white spirea, American vetch, Wheeler bluegrass, baldhip rose, western juniper, blue wildrye, Douglas-fir, tailcup lupine, Saskatoon serviceberry, mountain brome, bluebunch wheatgrass, common yarrow, low Oregon grape
+
+DISTRIBUTION AND EXTENT: Eastern Oregon; MLRA 10; small extent
+
+SOIL SURVEY REGIONAL OFFICE (SSRO) RESPONSIBLE: Portland, Oregon
+
+SERIES ESTABLISHED: Malheur National Forest, Oregon; 2018
+
+REMARKS:
+Diagnostic horizons and other features recognized in this pedon
+*Mollic epipedon--zone from 1 to 46 cm
+*Argillic horizon--zone from 11 to 46 cm
+*Volcanic glass--zone from 1 to 11 cm
+*Particle-size control--zone from 11 to 46 cm
+*Depth to lithologic discontinuity--11 cm
+
+National Cooperative Soil Survey
+U.S.A.

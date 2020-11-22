@@ -1,0 +1,166 @@
+LOCATION FORSHEY                OR
+
+Established Series
+IRD. RJO/JLW/KMS
+01/2019
+
+FORSHEY SERIES
+
+Landscape--mountains
+Landform--mountain slopes
+Slope--0 to 60 percent
+Parent material--thin mantle of mixed volcanic ash over colluvium derived from granite
+Mean annual precipitation--about 830 mm
+Mean annual air temperature--about 5 degrees C
+Depth class--very deep
+Drainage class--well drained
+Soil moisture regime--xeric
+Soil temperature regime--frigid
+Soil moisture subclass--typic
+
+TAXONOMIC CLASS: Fine-loamy, isotic, frigid Vitrandic Argixerolls
+
+TYPICAL PEDON: Forshey ashy loam, forested, on a 28-percent, southwest-facing slope at an elevation of 1335 m
+
+ Oi--0 to 5 cm; slightly decomposed needles and twigs
+
+ A--5 to 20 cm; ashy loam, dark brown (7.5YR 3/4) dry, dark brown (7.5YR 3/2) moist; weak fine granular structure; soft, very friable, slightly sticky and slightly plastic; many very fine and fine and few medium roots; few fine irregular pores; 5 percent gravel; neutral (pH 7.0); clear wavy boundary
+
+ AB--20 to 43 cm; ashy sandy clay loam, dark yellowish brown (10YR 4/4) dry, dark brown (7.5YR 3/2) moist; weak fine and very fine subangular blocky structure; hard, friable, slightly sticky and slightly plastic; many very fine and fine, common medium, and few coarse roots; few fine tubular pores; 10 percent gravel; slightly acid (pH 6.5); clear wavy boundary
+
+ 2Eb--43 to 66 cm; gravelly sandy clay loam, brown (7.5YR 5/4) dry, brown (7.5YR 4/4) moist; moderate fine and medium subangular blocky structure; hard, friable, slightly sticky and slightly plastic; common fine and few medium roots; common very fine and fine tubular pores; 30 percent gravel; moderately acid (pH 6.0); gradual smooth boundary
+
+ 2Btb--66 to 114 cm; gravelly clay loam, strong brown (7.5YR 5/6) dry, strong brown (7.5YR 4/6) moist; moderate fine and medium subangular blocky structure; very hard, firm, slightly sticky and plastic; many thin clay films on ped faces; few fine and medium roots; few very fine and fine tubular pores; 30 percent gravel; moderately acid (pH 6.0); gradual smooth boundary
+
+ 2BCb--114 to 155 cm; gravelly clay loam, strong brown (7.5YR 5/6) dry, strong brown (7.5YR 4/6) moist; moderate fine and medium subangular blocky structure; very hard, firm, slightly sticky and plastic; common thin clay films on ped faces; few fine roots throughout; few fine tubular pores; 25 percent gravel; strongly acid (pH 5.5)
+
+TYPE LOCATION: Baker County, Oregon, in section 22, T. 7 S., R. 43 E.; Balm Creek Reservoir U.S. Geological Survey quadrangle; latitude 44.9397675, longitude -117.4272071, datum WGS84 (source of coordinates unknown but probably estimated from point on hard copy map)
+
+RANGE IN CHARACTERISTICS:
+Mean annual soil temperature--6 to 7 degrees C
+Mean summer soil temperature--11 to 12 degrees C
+Mean winter soil temperature--1 to 3 degrees C
+Soil moisture control section--dry 60 to 75 consecutive days in summer
+Thickness of mollic epipedon--25 to 40 cm
+Thickness of argillic horizon--45 to 90 cm
+Thickness of ash-influenced layers--25 to 40 cm
+
+Estimated properties of layers influenced by volcanic ash
+*Ammonium oxalate extractable Al + 1/2 Fe--0.2 to 0.8 percent
+*0.02- to 2.0-mm fraction--30 to 50 percent
+*Glass content in 0.02- to 2.0-mm fraction--15 to 30 percent
+
+Particle-size control section
+*Clay content--24 to 35 percent
+*Total rock fragment content--5 to 30 percent
+
+A horizon
+Moist color--7.5YR 3/2, 10YR 3/2, 10YR 3/3
+Dry color--7.5YR 3/4, 10YR 4/3, 10YR 4/4, 10YR 5/3
+Fine-earth texture--ashy loam, ashy silt loam
+Clay content--12 to 18 percent
+Sand content--20 to 35 percent
+Organic matter content--3 to 10 percent
+Total rock fragment content--0 to 5 percent
+Gravel content--0 to 5 percent
+Reaction--6.1 to 7.3
+
+AB horizon
+Moist color--7.5YR 3/2, 10YR 3/3
+Dry color--10YR 4/4, 10YR 5/4
+Fine-earth texture--ashy sandy clay loam, ashy silt loam
+Clay content--18 to 25 percent
+Sand content--20 to 50 percent
+Organic matter content--2 to 6 percent
+Total rock fragment content--0 to 10 percent
+Gravel content--0 to 10 percent
+Reaction--5.6 to 6.5
+Combined thickness of A and AB horizons--25 to 40 cm
+
+2Eb horizon
+Moist color--7.5YR 4/4, 10YR 3/4
+Dry color--7.5YR 4/6, 7.5YR 5/4, 10YR 5/4
+Fine-earth texture--sandy clay loam, silt loam
+Clay content--20 to 30 percent
+Sand content--20 to 50 percent
+Organic matter content--1 to 2 percent
+Total rock fragment content--5 to 30 percent
+Gravel content--5 to 30 percent
+Reaction--5.6 to 6.5
+Thickness--20 to 30 cm
+
+2Btb horizon
+Moist color--7.5YR 4/4, 7.5YR 4/6, 10YR 4/4, 10YR 4/6
+Dry color--5YR 4/6, 7.5YR 4/6, 7.5YR 5/4, 7.5YR 5/6, 10YR 5/4, 10YR 6/4
+Fine-earth texture--clay loam
+Clay content--30 to 35 percent
+Sand content--22 to 40 percent
+Organic matter content--0.5 to 2 percent
+Total rock fragment content--5 to 30 percent
+Gravel content--5 to 30 percent
+Reaction--5.6 to 6.5
+Thickness--20 to 30 cm
+
+2BCb horizon
+Moist color--7.5YR 4/4, 7.5YR 4/6, 10YR 4/6, 10YR 6/6
+Dry color--7.5YR 5/6, 10YR 5/6, 10YR 7/3
+Fine-earth texture--clay loam, silty clay loam, loam
+Clay content--22 to 30 percent
+Sand content--18 to 50 percent
+Organic matter content--0.3 to 1.5 percent
+Total rock fragment content--20 to 35 percent
+Gravel content--20 to 35 percent
+Reaction--5.6 to 6.5
+
+COMPETING SERIES:
+Bly--100 to 150 cm or more (deep, very deep) to a duripan; dry 60 to 90 consecutive days in summer
+Bolobin--50 to 100 cm (moderately deep) to lithic contact (basalt); formed in a mixed mantle of volcanic ash and loess over colluvium derived from basalt; mollic epipedon more than 50 cm thick
+Bolony--50 to 100 cm (moderately deep) to lithic contact (basalt); formed in loess with a minor influence of volcanic ash over colluvium derived from basalt; 5 to 15 percent volcanic glass in upper part; mollic epipedon more than 50 cm thick
+Forbord--150 to 200 cm (very deep) to lithic contact; formed in a mixed mantle of volcanic ash and loess over colluvium derived from basalt, rhyolite, tuff, or marine sediment; mixed mantle 18 to 25 cm thick; andic soil properties; 30 to 50 percent volcanic glass; mollic epipedon 50 to 100 cm thick; dry 75 to 90 consecutive days in summer
+Hess--100 to 150 cm (deep) to lithic contact (tuff, basalt); 0 to 15 percent rock fragments and 5 to 50 percent pararock fragments in particle-size control section; dry 45 to 75 consecutive days in summer
+Lidos--more than 150 cm thick; formed in colluvium derived from basalt with an influence of volcanic ash in upper part of solum over alluvium derived from pyroclastic material; 5 to 20 percent glass in mantle influenced by volcanic ash; dry 45 to 75 consecutive days in summer
+Melhorn--more than 150 cm thick; formed in a mixed mantle of volcanic ash and loess over colluvium derived from basalt; angular or subangular rock fragments, including cobbles, in subsoil; dry 45 to 75 consecutive days in summer
+Nibolob--100 to 150 cm (deep) to lithic contact (basalt); formed in a mixed mantle of volcanic ash and loess over colluvium derived from basalt; mollic epipedon 50 to 75 cm thick
+Raycreek--50 to 100 cm (moderately deep) to lithic contact (tuff); formed in a mantle of colluvium mixed with volcanic ash over residuum derived from metasedimentary rock; mollic epipedon 50 to 75 cm thick; less than 15 percent rock fragments in argillic horizon; dry 60 to 90 consecutive days in summer
+Salcreek--more than 150 cm thick; formed in medisedimentary till with a minor influence of volcanic ash above the till; 5 to 20 percent volcanic glass in ash-influenced upper part; more than 50 percent sand in particle-size control section
+Spartabutte--50 to 100 cm (moderately deep) to lithic contact (granite); formed in loess with a minor influence of volcanic ash over colluvium derived from granitic rock; 5 to 15 percent volcanic glass in upper part
+Vangoe--100 to 150 cm (deep) to lithic contact (basalt); mollic epipedon 50 to 75 cm thick; dry 45 to 60 consecutive days in summer
+
+GEOGRAPHIC SETTING:
+Elevation--1210 to 1470 m
+Climate--cold, wet winters; warm, dry summers
+Mean annual precipitation--720 to 920 mm
+Mean annual air temperature--5 to 6 degrees C
+Frost-free period--25 to 80 days
+
+GEOGRAPHICALLY ASSOCIATED SOILS:
+Golfer--on steep, convex backslopes; moderately deep; mollic epipedon; loamy-skeletal; minor amount of volcanic ash; under Douglas-fir, ponderosa pine, pinegrass, mallow ninebark, and elk sedge
+Sixdollar--on north-facing slopes; deep; mollic epipedon; thick volcanic ash mantle; under Douglas-fir, ponderosa pine, grand fir, birchleaf spirea, common snowberry, and pinegrass
+Spartabutte--on backslopes; moderately deep; mollic epipedon; argillic horizon; minor influence of volcanic ash; under Douglas-fir, ponderosa pine, grand fir, common snowberry, birchleaf spirea, mountain snowberry, elk sedge, and pinegrass
+
+DRAINAGE AND SATURATED HYDRAULIC CONDUCTIVITY:
+Saturation during normal years--none
+Flooding--none
+Ponding--none
+Saturated hydraulic conductivity (Ksat)--moderately high
+
+USE AND VEGETATION:
+Use--watershed, wildlife habitat, timber production, livestock grazing, recreation
+Native vegetation-- Douglas-fir, ponderosa pine, pinegrass, heartleaf arnica, woodland strawberry, Virginia strawberry, common snowberry, white spirea, lupine, baldhip rose, elk sedge, low Oregon grape
+Plant association--dominantly PSME/SYAL (Douglas-fir/common snowberry); may include PSME/CAGE (Douglas-fir/elk sedge) or PSME/PBE (Douglas-fir/birchleaf spirea)
+
+DISTRIBUTION AND EXTENT: Blue Mountains of eastern Oregon; MLRA 43C; small extent
+
+SOIL SURVEY REGIONAL OFFICE (SSRO) RESPONSIBLE: Portland, Oregon
+
+SERIES ESTABLISHED: Wallowa-Whitman National Forest, Oregon; 2018
+
+REMARKS:
+Diagnostic horizons and other features recognized in this pedon
+*Mollic epipedon--zone from 5 to 43 cm
+*Argillic horizon--zone from 66 to 155 cm
+*Volcanic glass--zone from the mineral soil surface to a depth of 43 cm
+*Particle-size control section--zone from 66 to 117 cm
+
+National Cooperative Soil Survey
+U.S.A.

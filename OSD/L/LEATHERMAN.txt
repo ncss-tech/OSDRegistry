@@ -1,0 +1,113 @@
+LOCATION LEATHERMAN             ID
+
+Established Series
+Rev. GAH/DJJ/CLM
+05/2018
+
+LEATHERMAN SERIES
+
+Landscape--plains, alluvial plains, valleys
+Landform--fan remnants, outwash fans
+Slope--2 to 25 percent
+Parent material--alluvium derived from limestone
+Mean annual precipitation--about 250 mm
+Mean annual air temperature--about 3 degrees C
+Depth class--shallow to a duripan
+Drainage class--well drained
+Soil moisture regime--aridic
+Soil temperature regime--cryic
+
+TAXONOMIC CLASS:  Loamy-skeletal, carbonatic, shallow Duric Xeric Petrocryids
+
+TYPICAL PEDON:  Leatherman very gravelly loam in an area of rangeland (Colors are for dry soil unless otherwise noted.)
+
+ A--0 to 13 cm; pale brown (10YR 6/3) very gravelly loam, dark brown (10YR 3/3) moist; weak very fine and fine subangular blocky structure; slightly hard, very friable, slightly sticky and slightly plastic; common very fine and few fine roots; many very fine tubular and irregular pores; 35 percent gravel; calcium carbonate and silica coatings on bottom of rock fragments; strongly effervescent (50 percent calcium carbonate equivalent); slightly alkaline (pH 7.8); clear wavy boundary
+
+ Bk--13 to 28 cm; yellowish brown (10YR 5/4) very gravelly loam, brown (10YR 4/3) moist; weak very fine and fine subangular blocky structure; soft, loose, slightly sticky and slightly plastic; common very fine and fine roots; common very fine irregular pores and few very fine tubular pores; 55 percent gravel; calcium carbonate and silica coatings on bottom of rock fragments; violently effervescent (60 percent calcium carbonate equivalent); moderately alkaline (pH 8.0); abrupt wavy boundary
+
+ 2Bkqm--28 to 41 cm; light brownish gray (10YR 6/2) indurated duripan that has a laminar cap less than 2 mm thick, dark grayish brown (10YR 4/2) moist; massive; 70 percent gravel and 5 percent cobbles; violently effervescent; moderately alkaline (pH 8.2); clear wavy boundary
+
+ 2Bkq--41 to 150 cm; light gray (10YR 7/2) extremely gravelly loamy sand, pale brown (10YR 6/3) moist; single grain; loose; many very fine and fine irregular pores; 65 percent gravel and 15 percent cobbles; calcium carbonate and silica coatings on bottom of rock fragments; violently effervescent (50 percent calcium carbonate equivalent); moderately alkaline (pH 8.4)
+
+TYPE LOCATION:  Custer County, Idaho; latitude 44.33722 degrees north, longitude 113.78111 degrees west, datum WGS 84
+
+RANGE IN CHARACTERISTICS:
+Mean annual soil temperature--2.8 to 6.1 degrees C
+Depth to duripan--25 to 50 cm
+Depth to calcic horizon--10 to 25 cm
+
+Particle-size control section (weighted averages)
+Clay content--12 to 20 percent
+Total rock fragment content--35 to 55 percent
+Calcium carbonate equivalent--40 to 65 percent
+
+A horizon
+Value--5 or 6 dry, 3 to 5 moist
+Chroma--2 to 4 dry, 3 or 4 moist
+Clay content--12 to 27 percent
+Total rock fragment content--20 to 45 percent
+Gravel content--10 to 45 percent
+Cobble content--0 to 5 percent
+Reaction--pH 7.4 to 9.0
+Thickness--8 to 20 cm
+
+Bk horizon
+Value--5 or 6 dry, 3 or 4 moist
+Chroma--3 or 4 dry or moist
+Clay content--12 to 26 percent
+Total rock fragment content--30 to 60 percent
+Gravel content--30 to 60 percent
+Cobble content--0 to 5 percent
+Reaction--pH 7.9 to 9.0
+Thickness--10 to 23 cm
+
+Bkqm horizon
+Value--6 or 7 dry, 3 to 5 moist
+Chroma--2 to 4 dry or moist
+Thickness--13 to 38 cm
+
+Bkq horizon
+Value--6 or 8 dry, 5 or 6 moist
+Chroma--2 or 3 dry or moist
+Texture (less than 2-mm fraction)--loamy coarse sand, loamy sand, sandy loam
+Clay content--3 to 10 percent
+Total rock fragment content--60 to 85 percent
+Gravel content--45 to 70 percent
+Cobble content--5 to 25 percent
+Reaction--pH 7.9 to 9.0
+
+COMPETING SERIES: None
+
+GEOGRAPHIC SETTING:
+Elevation--1820 to 2450 m
+Mean annual precipitation--200 to 425 mm
+Mean annual air temperature--1.7 to 5.6 degrees C
+Frost-free period--30 to 60 days
+
+GEOGRAPHICALLY ASSOCIATED SOILS:  None listed
+
+DRAINAGE AND SATURATED HYDRAULIC CONDUCTIVITY:
+Drainage class--well drained
+Saturated hydraulic conductivity (Ksat)--5 to 25 um/sec above the duripan, 0.01 to 0.10 um/sec in the duripan
+
+USE AND VEGETATION:
+Major use--rangeland
+Potential natural vegetation--low sagebrush, black sagebrush, bluebunch wheatgrass
+
+DISTRIBUTION AND EXTENT:  Small extent in east-central Idaho; MLRAs 11, 12, and 13
+
+SOIL SURVEY REGIONAL OFFICE (SSRO) RESPONSIBLE:  Portland, Oregon
+
+SERIES ESTABLISHED:  Custer County, Idaho; 1999
+
+REMARKS:
+Diagnostic horizons and other features recognized in this pedon
+Ochric epipedon
+Calcic horizon--zone from 13 to 28 cm (Bk horizon)
+Duripan--zone from 28 to 41 cm (2Bkqm horizon)
+Particle-size control section--zone from the surface to a depth of 28 cm (A and Bk horizons)
+
+Taxonomic version--Twelfth Edition, 2014
+
+National Cooperative Soil Survey
+U.S.A.

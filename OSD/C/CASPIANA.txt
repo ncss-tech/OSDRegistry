@@ -1,0 +1,166 @@
+LOCATION CASPIANA               LA+AR OK TX 
+
+Established Series
+Rev. JLD:MJB
+01/2017
+
+CASPIANA SERIES
+
+The Caspiana series consists of very deep, well drained, soils that formed in calcareous, silty alluvium. These nearly level soils are on natural levees of the Arkansas and Red Rivers and their distributaries. Slope ranges from 0 to 2 percent. Mean annual air temperature is about 19 degrees C (66 degrees F), and mean annual precipitation is about 1270 mm (50 in). 
+
+TAXONOMIC CLASS: Fine-silty, mixed, active, thermic Typic Argiudolls 
+
+TYPICAL PEDON: Caspiana silt loam, 0.5 percent slope in a cultivated field; elevation is about 40 m (135 ft). (Colors are for moist soil unless otherwise stated.) 
+
+    Ap--0 to 15 cm (0 to 6 in); dark brown (7.5YR 3/2) silt loam; weak very fine granular structure; friable; few fine distinct reddish brown (5YR 5/3) masses of oxidized iron with sharp boundaries in matrix; slightly acid; clear smooth boundary. 
+
+    A--15 to 28 cm (6 to 11 in); very dark brown (10YR 2/2) silt loam; weak fine granular structure; firm; neutral; clear smooth boundary. (Combined thickness of the A horizon is 18 to 50 cm [7 to 20 in]) 
+
+    AB--28 to 38 cm (11 to 15 in); very dark grayish brown (10YR 3/2) and reddish brown (5YR 4/4) silt loam, crushed color dark brown (7.5YR 3/2); weak coarse subangular blocky structure parting to weak fine subangular blocky; friable; neutral; gradual smooth boundary.  (Thickness of the AB horizon is 0 to 15 cm [0 to 6 in]) 
+
+    Bt1--38 to 53 cm (15 to 21 in); reddish brown (5YR 4/4) silty clay loam weak coarse subangular blocky structure parting to moderate medium subangular blocky; firm; 20 percent distinct clay films on faces of peds; few dark reddish brown (5YR 3/4) ped coatings; few dark brown (7.5YR 3/2) streaks; neutral; gradual smooth boundary. 
+
+    Bt2--53 to 69 cm (21 to 27 in); reddish brown (5YR 4/4) silt loam; moderate medium prismatic structure parting to weak medium subangular blocky; firm, hard; 30 percent distinct clay films on faces of peds; few dark brown (7.5YR 3/2) coatings on prisms; neutral; gradual smooth boundary. (Combined thickness of the Bt horizon is 13 to 89 cm [5 to 35 in]) 
+
+    BC--69 to 122 cm (27 to 48 in); reddish brown (5YR 4/4) silt loam; few medium distinct dark brown (7.5YR 3/2) mottles; weak coarse prismatic structure parting to weak coarse subangular blocky structure; firm, hard, neutral; abrupt wavy boundary. (Thickness of the BC horizon is 25 to 75 cm [10 to 30 in]) 
+
+    Ck--122 to 203 cm (48 to 80 in); reddish brown (5YR 4/4) silt loam; few medium distinct dark brown (7.5YR 3/2) mottles; massive; firm, hard; common fine carbonate concretions; calcareous; moderately alkaline. 
+
+TYPE LOCATION: Red River Parish, Louisiana; 1.7 miles southwest of Gahagan on Louisiana Highway 177; 580 feet northwest of center of Louisiana Highway 177 in SE1/4SE1/4 sec. 18, T. 12 N., R 10 W.
+
+USGS Topographic Quadrangle: Clear Lake, LA 
+Latitude: 32 degrees, 01 minutes, 20.75 seconds N 
+Longitude: 93 degrees, 25 minutes, 37.19 seconds W 
+
+Decimal Degrees: 
+Latitude: 32.02243055 degrees 
+Longitude: -93.42699722 degrees 
+Datum: NAD83 
+
+UTM Easting: 459677.5 m 
+UTM Northing: 3543001.6 m 
+UTM Zone: 15N
+
+RANGE IN CHARACTERISTICS: 
+Solum thickness: 75 to 152 cm (30 to 60 in) 
+Thickness of the mollic epipedon: 25 to 50 cm (10 to 20 in) 
+Depth to argillic horizon: 18 to 66 cm (7 to 26 in) 
+Depth to secondary carbonate: 100 to 150 cm (40 to 60 in) 
+Depth to redox concentrations: 25 to 203 (10 to 80 in): 
+
+Particle-size control section (weighted average): 
+Clay content: 20 to 34 percent 
+Sand content: 10 to 50 percent 
+CEC/clay ratio: 0.40 to 0.60 
+
+A or Ap horizon: 
+Hue: 5YR to 10YR 
+Value: 2 or 3 
+Chroma: 1 to 3 
+Texture: silt loam or silty clay loam 
+Clay content: 12 to 34 percent 
+Redox concentrations: amount-none to few; size-fine; contrast-distinct; color-shades of brown; boundary-sharp; location-in matrix
+Effervescence: none
+Reaction: moderately acid to moderately alkaline 
+
+AB horizon (where present): 
+Hue: 5YR to 10YR 
+Value: 2 or 3 
+Chroma: 1 to 3 
+Texture: silt loam or silty clay loam 
+Clay content: 12 to 34 percent 
+Redox concentrations: amount-none to common; size-medium; contrast-distinct; colors-in shades of brown; boundary-diffuse; location-throughout 
+Effervescence: none
+Reaction: moderately acid to moderately alkaline
+
+Bt horizon (below the mollic epipedon): 
+Hue: 2.5YR or 5YR 
+Value: 4 or 5 
+Chroma: 3 to 6 
+Texture: silt loam or silty clay loam 
+Clay content: 20 to 34 percent 
+Redox concentrations: amount-none to common; size-medium; contrast-distinct; color-shades of brown; boundary-diffuse; location-throughout 
+Other features: dark ped coatings are common but not diagnostic 
+Effervescence: none
+Reaction: moderately acid to moderately alkaline 
+
+BC horizon: 
+Hue: 2.5YR or 5YR 
+Value: 4 or 5 
+Chroma: 3 to 6 
+Texture: silt loam, very fine sandy loam, loam or silty clay loam 
+Clay content: 5 to 30 percent 
+Mottles: amount-none to common; size-fine or medium; contract-distinct; color-shades of brown; boundary-sharp; location-throughout 
+Redox concentrations: amount-none to common; size-medium; contrast-distinct; color-shades of red or brown; boundary-diffuse; location-throughout
+Iron-manganese concentrations: amount-none to common; size-fine or medium; contrast-distinct; colors-in shades of black or brown; boundary-diffuse; location-throughout matrix 
+Effervescence: none to very slight
+Reaction: slightly acid to moderately alkaline 
+
+C or Ck horizon:
+Hue: 2.5YR or 5YR 
+Value: 4 to 6 
+Chroma: 3 to 6 
+Texture: silt loam, very fine sandy loam, loam or silty clay loam 
+Clay content: 5 to 30 percent 
+Redox concentrations: amount-none to common; size-medium; contrast-distinct; boundary-diffuse; location-throughout; color-shades of brown 
+Iron-manganese concentrations: amount-none to common; size-fine or medium contrast-distinct; boundary-diffuse; location-throughout matrix; colors-in shades of black and very dark brown 
+Effervescence: none to slight
+Other features: In some pedons this horizon is effervescent 
+Reaction: slightly acid to moderately alkaline 
+
+COMPETING SERIES: This is the Lula (OK) series. Similar soils are the Benklin (TX), Catoosa (OK), Dardanelle (AR), Deepwater (MO), Fitzhugh (OK), Mason (OK), Mer Rouge (LA), Newtonia (OK), Okay (OK), Reelfoot (TN) and Tiptonville (TN). 
+Benklin, Reelfoot and Tiptonville soils: have redoximorphic features within 40 cm (15 in) of the surface and have a superactive activity class 
+Catoosa, Deepwater, Mer Rouge and Newtonia soils: have a superactive activity class. 
+Dardanelle soils: have mollic epipedons over 50 cm (20 in) thick and a superactive activity class. 
+Fitzhugh and Okay soils: have fine-loamy control sections 
+Lula soils: have limestone bedrock within 150 cm (60 in) of the surface 
+Mason soils: have mollic epipedons over 50 cm (20 in) thick 
+
+GEOGRAPHIC SETTING: 
+Parent material: calcareous, Holocene loamy alluvium derived from Arkansas River and Red River sediments 
+Landscape: alluvial plain 
+Landform: natural levees 
+Slope: 0 to 1 percent 
+Soil Moisture: Udic soil moisture regime 
+Mean annual soil temperature: 17.6 to 21.4 degrees C (63.5 to 70.5 degrees F) 
+Mean annual air temperature range: 15 to 19 degrees C (59 to 67 degrees F) 
+Mean annual precipitation range: 1143 to 1499 cm (45 to 59 in) 
+Precipitation Pattern: The soil moisture control section is not dry in any part for more than 90 days in normal years. July through October are the driest months, while November through June are the wettest months. 
+Frost-free period: 219 to 293 days 
+Elevation: 33.5 to 91 meters (110 to 300 ft) 
+Thornthwaite annual P-E indices: 81 to 128 
+
+GEOGRAPHICALLY ASSOCIATED SOILS: These include the Buxin (LA), Gallion (LA), Latanier (LA), and Moreland (LA) series. 
+Buxin and Moreland soils: are clayey throughout the control section and are on lower flood plains 
+Gallion soils: have an ochric epipedon and are on similar positions on the natural levee 
+Latanier soils: have clayey over loamy control sections and are lower on the natural levee 
+
+DRAINAGE AND PERMEABILITY: 
+Drainage: well drained
+Permeability: moderate
+Runoff: negligible on slopes less than one percent and low on slopes of one percent
+Seasonal high water table: An apparent seasonal high water table is at a depth of 122 cm to more than 183 cm (4 ft to more than 6 ft) below the surface from December through April 
+
+USE AND VEGETATION: Mainly cultivated crops. Principal crops are cotton, soybeans, corn, and small grain. 
+
+DISTRIBUTION AND EXTENT: The Red and Arkansas River Valleys in Arkansas and the Red River Valley in Louisiana, Oklahoma, and Texas; Land Resource Region O; MLRA 131B and 131C; the series is of moderate extent . 
+
+MLRA SOIL SURVEY REGIONAL OFFICE (MO) RESPONSIBLE: Temple, Texas 
+
+SERIES ESTABLISHED: McCurtain County; Oklahoma; 1970. 
+
+REMARKS: 
+Diagnostic horizons and features recognized in this pedon are: 
+Particle-size control section: 38 to 69 cm (15 to 27 in) (Bt horizons) 
+Mollic epipedon: 0 to 38 (0 to 15 in) (Ap, A and AB horizons). 
+Argillic horizon: 38 to 69 cm (15 to 27 in) (Bt1 and Bt2 horizons) 
+
+Additional comments: The assignment of the cation-exchange activity class is supported by Louisiana Agricultural Experiment Station laboratory data number S65LA-41-6 from Red River Parish, Louisiana. 
+
+Edited 01/2017 (JAD-MJB) Changed to tabular format. Updated pedon description, range in characteristics, and other sections.
+
+ADDITIONAL DATA: Partial Louisiana Agricultural Experiment Station data from type location S65LA-41-6 in Red River Parish, Louisiana. KSSL data on a similar soil from Caddo Parish, Louisiana sample number 92LA017001. 
+
+Taxonomic Version: Keys to Soil Taxonomy, Twelfth Edition, 2014 
+National Cooperative Soil Survey
+U.S.A.

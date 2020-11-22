@@ -1,0 +1,132 @@
+LOCATION HACKERS                WV+OH
+
+Established Series
+RDJ, SLH/Rev. MDJ
+09/2014
+
+HACKERS SERIES
+
+TAXONOMIC CLASS: Fine-silty, mixed, superactive, mesic Typic Hapludalfs
+
+TYPICAL PEDON:  Hackers silt loam - on a 2 percent slope in a meadow at an elevation of about 650 feet. (Colors are for moist soil unless otherwise indicated.)
+
+    Ap--0 to 20 cm (0 to 8 inches); brown (7.5YR 4/2) silt loam; moderate medium granular structure; friable; many roots; slightly acid; clear smooth boundary. (13 to 28 cm thick (5 to 11 inches)) 
+
+    BA--20 to 38 cm (8 to 15 inches); reddish brown (5YR 4/4) silt loam; weak medium subangular blocky structure; friable; many roots; slightly acid; gradual wavy boundary. (0 to 25 cm thick (0 to 10 inches))
+
+    Bt--38 to 97 cm (15 to 38 inches); reddish brown (5YR 4/4) silty clay loam; weak medium and coarse prismatic structure parting to moderate medium subangular blocky; firm; few roots; common discontinuous clay films on faces of peds; moderately acid; gradual wavy boundary. (38 to 102 cm thick (15 to 40 inches)) 
+
+    BC--97 to 124 cm (38 to 49 inches); reddish brown (5YR 4/4) silt loam; weak medium subangular blocky structure; friable; few roots; moderately acid; gradual wavy boundary. (0 to 61 cm thick (0 to 24 inches))
+
+    C--124 to 165 cm (49 to 65 inches); reddish brown (5YR 4/4) silt loam; massive; friable; moderately acid. (25 to 61 cm thick (10 to 24 inches)) 
+
+TYPE LOCATION:
+County:  Ritchie County
+State:  West Virginia
+USGS Quadrangle:  Petroleum, West Virginia
+Latitude (Decimal Degrees, NAD83):  39.118412
+Longitude (Decimal Degrees, NAD83):  -81.276227
+Directions to the pedon:  near Cisco; about 30 yards east of West Virginia Route 47 and 100 yards south of bridge across North Fork of Hughes River
+
+RANGE IN CHARACTERISTICS:
+Depth to the top of the Argillic:  20 to 51 cm (8 to 20 inches)
+Depth to the base of the Argillic:  79 to 132 cm (31 to 52 inches)
+Solum Thickness:  89 to 165 cm (35 to 65 inches)
+Depth to Bedrock:  Greater than 152 cm (60 inches)
+Rock Fragment Content:  0 to 10 percent, by volume, throughout the solum; 0 to 30 percent, by volume, in the substratum.  Fragments are dominantly siltstone and shale.
+Soil Reaction:  Strongly acid through slightly acid throughout
+
+Range of Individual Horizons
+Ap or A horizon:
+Color--hue of 10YR through 5YR, value of 3 or 4, and chroma of 2 through 4
+Texture (fine-earth fraction)--silt loam
+
+BA horizon (where present):
+Color--hue of 7.5YR or 5YR, value of 4, and chroma of 4 through 6
+Texture (fine-earth fraction)--silt loam
+
+Bt horizon:
+Color--hue of 2.5YR through 7.5YR, value of 3 through 5, and chroma of 3 through 8
+Texture (fine-earth fraction)--silt loam or silty clay loam
+
+BC horizon (where present):
+Color--hue of 5YR, value of 3 or 4, and chroma of 4 through 6
+Texture (fine-earth fraction)--silt loam, loam, clay loam, or silty clay loam
+
+C horizon:
+Color--hue of 5YR or 2.5YR, value of 3 or 4, and chroma of 3 or 4
+Texture (fine-earth fraction)--loam, silt loam, or silty clay loam, and may be stratified with clay loam, sandy loam, or fine sandy loam in some pedons
+
+COMPETING SERIES:
+Rush soils--formed in calcareous, stratified sandy and gravelly outwash on outwash plains, kames, and eskers and have hues of 7.5YR through 2.5Y in the subsoil and have a rock fragment content of 15 to 75 percent in the lower third of the series control section
+Russell soils--formed in loess and underlying dense loamy till on till plains and have carbonates within a depth of 102 to 152 centimeters
+
+GEOGRAPHIC SETTING:
+MLRA(s) using this series:  124 (Western Allegheny Plateau) and 126 (Central Allegheny Plateau)
+Landscape:  Alluvial plains and valleys
+Landform:  Flood plains and low stream terraces
+Hillslope Profile Position:  Not applicable
+Geomorphic Component:  Treads and risers
+Parent Material Origin:  Weathered, interbedded red clay shale and siltstone
+Parent Material Kind:  Alluvium
+Slope:  0 to 30 percent
+Elevation:  164 to 356 meters
+Frost free period:  171 to 209 days
+Mean Annual Air Temperature:  10.2 to 12.5 degrees C. (50 to 55 degrees F.)
+Mean Annual Precipitation:  1016 to 1295 millimeters (40 to 51 inches)
+
+GEOGRAPHICALLY ASSOCIATED SOILS:
+Allegheny soils--occur at higher elevations on stream and river terraces and have lower base saturation in the subsoil
+Chavies soils--occur at similar landscape positions and have more sand in the subsoil
+Gallia soils--occur in preglacial valleys at higher elevations
+Gilpin soils--occur on ridges and side slopes where bedrock is moderately deep
+Kanawha soils--occur at similar landscape positions and have more sand in the subsoil
+Melvin soils--occur in depressions on uplands and flood plains that are wetter
+Monongahela soils--occur at higher elevations on terraces that are wetter and have a fragipan
+Moshannon soils--occur at lower elevations on flood plains and lack an argillic horizon
+Omulga soils--occur on preglacial valley fill terraces and have a fragipan
+Peabody soils--occur on ridges and side slopes where bedrock is moderately deep
+Senecaville soils--occur at lower elevations on flood plains that are wetter and lack an argillic horizon
+Upshur soils--occur on ridges and side slopes and have more clay in the subsoil
+Vandalia soils--occur on foot slopes and colluvial fans and have more clay in the subsoil
+Vincent soils--occur at higher elevations on terraces that are wetter
+Woodsfield soils--occur on ridges and side slopes and have more clay in the subsoil
+
+DRAINAGE AND SATURATED HYDRAULIC CONDUCTIVITY:
+Drainage Class (Agricultural):  Well drained
+Internal Free Water Occurrence:  Very deep (Greater than 150 cm), and very transitory (present <1 month)
+Index Surface Runoff:  Very low through medium
+Saturated Hydraulic Conductivity Class:  Moderately high or high
+Permeability Class (obsolete):  Moderate
+Shrink-Swell Class:  Moderate
+Flooding Frequency and Duration:  None through occasional; very brief or brief duration
+Ponding Frequency and Duration:  None
+
+USE AND VEGETATION:
+Major Uses:  Hayland, cropland, and pasture
+Dominant Vegetation:  Where cultivated--Grass-legume hay, corn, oats, and tobacco.  Where wooded--chiefly mixed hardwoods, dominated by oak and poplar.
+
+DISTRIBUTION AND EXTENT:
+Distribution:  West Virginia and Ohio
+Extent:  Moderate, approximately 18,000 acres at the time of this revision
+
+MLRA SOIL SURVEY REGIONAL OFFICE (MO) RESPONSIBLE:  MORGANTOWN, WEST VIRGINIA
+
+SERIES ESTABLISHED:  West Fork Soil Conservation District, West Virginia, 1940.
+
+REMARKS:
+Diagnostic horizons and features recognized in this pedon are:
+Ochric epipedon--the zone from 0 to 38 cm (Ap and BA horizons)
+Argillic horizon--the zone from 38 to 97 cm (Bt horizon)
+Series control section-- the zone from 0 to 150 cm
+
+This edit updates the previous format to semi-tabular and updates the Range of Individual Horizons, RANGE IN CHARACTERISTICS, COMPETING SERIES, GEOGRAPHIC SETTING, GEOGRAPHICALLY ASSOCIATED SOILS, USE AND VEGETATION, DISTRIBUTION AND EXTENT, DRAINAGE AND SATURATED CONDUCTIVITY, and REMARKS sections.
+
+Previous revisions:  07/2001-ART, WFH, WJE
+
+ADDITIONAL DATA:
+The Ohio State University characterization data pedons are:  AT-007, WS-019, LG-022, LG 023
+The Pennsylvania State University characterization pedons are:  69PA009005
+
+National Cooperative Soil Survey
+U.S.A.

@@ -1,0 +1,107 @@
+LOCATION BIGPINEY               WY
+
+Tentative Series
+DPG/DJP/CBR
+05/2020
+
+BIGPINEY SERIES
+
+The Bigpiney series consists of very deep, somewhat poorly drained soils that formed in alluvium derived from sandstone and shale. These soils are on floodplains. Slopes are 0 to 2 percent. Mean annual precipitation is about 205 mm and mean annual air temperature is about 4.5 degrees C.
+
+TAXONOMIC CLASS: Fine, smectitic, frigid Ustic Aquicambids
+
+TYPICAL PEDON: Bigpiney clay loam in irrigated hayland. (Colors are for moist soil unless otherwise noted).
+
+ Oe--0 to 6 cm; moderately decomposed plant material; clear smooth boundary (0 to 8 cm thick)
+
+ A--6 to 10 cm; brown (7.5YR 4/2) clay loam, brown (7.5YR 5/2), dry; weak fine subangular blocky structure; friable, slightly hard, moderately sticky, moderately plastic; many very fine and fine roots; many fine tubular pores; finely disseminated carbonate; slightly effervescent; moderately alkaline (pH 8.2); clear smooth boundary. (4 to 12 cm thick)
+
+ Bk--10 to 43 cm; brown (7.5YR 4/3) clay, brown (7.5YR 5/3), dry; moderate medium prismatic structure; very firm, hard, very sticky, very plastic; many very fine and fine roots; many fine tubular pores; 5 percent fine distinct dark yellowish brown (10YR 4/6) moist redox concentrations; finely disseminated carbonate; electrical conductivity 2 to 4 mmol/L; slightly effervescent; moderately alkaline (pH 8.4); gradual wavy boundary. (8 to 33 cm thick)
+
+ Bkz--43 to 93 cm; brown (7.5YR 4/4) clay, brown (7.5YR 5/4), dry; moderate coarse prismatic structure; extremely firm, very hard, very sticky, very plastic; common fine roots; common fine tubular pores; 5 percent fine distinct dark yellowish brown (10YR 4/6) moist redox concentrations; finely disseminated carbonate; 10 percent irregular salt masses in matrix; electrical conductivity 8 to 16 mmol/L; strongly effervescent; strongly alkaline (pH 8.8); gradual wavy boundary. (20 to 50 cm thick)
+
+ BCkz--93 to 200 cm; brown (7.5YR 4/4) clay, brown (7.5YR 5/4), dry; strong coarse prismatic structure; extremely firm, very hard, very sticky, very plastic; finely disseminated carbonates; electrical conductivity 8 to 16 mmol/L; strongly effervescent; moderately alkaline (pH 8.4).
+
+TYPE LOCATION: Sublette County, Wyoming; USGS La Barge, Wyoming topographic quadrangle; 42 degrees 19 minutes 4.00 seconds north latitude and 110 degrees 9 minutes 38 seconds west longitude, datum WGS84.
+RANGE IN CHARACTERISTICS:
+Mean annual soil temperature--3.5 to 8.0 degrees C
+Depth to salt accumulation--12 to 53 cm
+Depth to water table--45 to 90 cm
+
+Particle-size control section (weighted averages)
+Clay content--38 to 45 percent
+Total rock fragments--0 to 5 percent
+
+Oe (when present)
+Texture--moderately decomposed plant material
+Reaction--pH 4.5 to 5.5
+Organic matter content--55 to 90 percent
+
+A horizon
+Hue--7.5YR or 10YR
+Value--4 or 5
+Chroma--2 to 4 dry, 2 or 3 moist
+Texture (less than 2 mm fraction)--clay loam, silty clay loam
+Clay content--27 to 40 percent
+Rock fragments--0 to 5 percent paragravel
+Calcium carbonate equivalent--3 to 14 percent
+Reaction--pH 7.6 to 8.4
+
+Bk horizon
+Hue--7.5YR or 10YR
+Value--4 or 5
+Chroma--2 to 4
+Texture (less than 2 mm fraction)--clay, clay loam, silty clay
+Clay content--35 to 45 percent
+Rock fragments--0 to 5 percent paragravel
+Calcium carbonate equivalent--3 to 14 percent
+Electrical conductivity--2 to 4 dS/m 
+Reaction--pH 7.9 to 8.4
+
+Bkz, BCkz horizons
+Hue--7.5YR or 10YR
+Value--4 or 5
+Chroma--2 to 4
+Texture (less than 2 mm fraction)--clay, clay loam, silty clay
+Clay content--38 to 55 percent
+Rock fragments--0 to 5 percent paragravel
+Calcium carbonate equivalent--3 to 14 percent
+Electrical conductivity--8 to 16 dS/m
+Reaction--pH 7.9 to 9.0
+
+COMPETING SERIES:
+There are no competing series.
+
+GEOGRAPHIC SETTING:
+Landform--Floodplains
+Elevation--1,950 to 2,160 meters
+Slope--0 to 2 percent
+Parent material--alluvium derived from sandstone, shale, and interbedded sedimentary rock
+Climate--long, cold winters; cool, moist springs; short, warm summers 
+Mean annual precipitation--175 to 250 mm
+Mean annual air temperature--2.5 to 7.0 degrees C
+Frost-free period--50 to 100 days
+
+GEOGRAPHICALLY ASSOCIATED SOILS: None listed.
+
+DRAINAGE AND SATURATED HYDRAULIC CONDUCTIVITY: somewhat poorly drained, 0.5 to 1.5 um/sec.
+
+USE AND VEGETATION: Bigpiney soils are primarily used for irrigated hay land. The potential native vegetation is greasewood, western wheatgrass, bottlebrush squirreltail, alkali sacaton and other sedges, rushes, and forbs.
+DISTRIBUTION AND EXTENT: Bigpiney soils are of small extent in western Wyoming; MLRA 34A.
+
+SOIL SURVEY REGIONAL OFFICE (SSRO) RESPONSIBLE: Bozeman, Montana
+
+SERIES PROPOSED: Sublette County, Wyoming 2020. Bigpiney series is derived from a local landmark.
+
+REMARKS: Diagnostic horizons and features recognized in this pedon:
+Ochric epipedon--6 to 10 cm (A horizon)
+Cambic horizon--10 to 93 cm (Bw, Bz horizons)
+Redoximorphic features--10 to 93cm (Bw, Bz horizons)
+Salt accumulations--43 to 93 cm (Bz horizon)
+Particle-size control section--31 to 106 cm
+
+Bigpiney soils have a frigid temperature regime and an aridic moisture regime bordering on ustic.
+
+Taxonomic version: Twelfth Edition, 2014
+National Cooperative Soil Survey
+U.S.A.

@@ -1,0 +1,113 @@
+LOCATION WINDICREEK             ID
+
+Established Series
+Rev. KA/MD/WGH
+05/2018
+
+WINDICREEK SERIES
+
+Landscape--hills
+Landform--fan remnants, alluvial fans
+Slope--1 to 75 percent
+Parent material--alluvium derived from conglomerate
+Mean annual precipitation--about 450 mm
+Mean annual air temperature--about 3.3 degrees C
+Depth class--very deep
+Drainage class--well drained
+Soil moisture regime--xeric
+Soil temperature regime--cryic
+
+TAXONOMIC CLASS: Loamy-skeletal, mixed, superactive Calcic Haplocryolls
+
+TYPICAL PEDON:  Windicreek very gravelly loam in an area of rangeland (Colors are for dry soil unless otherwise noted.)
+
+ A--0 to 8 cm; dark grayish brown (10YR 4/2) very gravelly loam, very dark brown (10YR 2/2) moist; weak fine subangular blocky structure parting to weak fine granular; soft, very friable, slightly sticky and slightly plastic; common very fine and fine and few medium roots; few very fine tubular pores; 40 percent gravel and 5 percent cobbles; neutral (pH 7.2); clear wavy boundary
+
+ Bw--8 to 23 cm; brown (10YR 4/3) gravelly loam, dark brown (10YR 3/3) moist; weak fine subangular blocky structure parting to weak fine granular; soft, very friable, slightly sticky and slightly plastic; common very fine and fine and few medium roots; few very fine tubular pores; 15 percent gravel and 5 percent cobbles; slightly alkaline (pH 7.4); clear smooth boundary
+
+ Bk1--23 to 53 cm; yellowish brown (10YR 5/4) gravelly sandy loam, dark yellowish brown (10YR 4/4) moist; weak very fine subangular blocky structure parting to weak fine granular; soft, friable, slightly sticky and slightly plastic; common very fine and fine roots; few very fine tubular pores; violently effervescent (15 percent calcium carbonate equivalent); finely disseminated calcium carbonates and few calcium carbonate coatings on rock fragments; 25 percent gravel and 5 percent cobbles; slightly alkaline (pH 7.8); abrupt wavy boundary
+
+ Bk2--53 to 127 cm; very pale brown (10YR 8/2) extremely gravelly sandy loam, grayish brown (2.5Y 5/2) moist; massive; soft, very friable, nonsticky and nonplastic; few very fine and fine roots; few very fine tubular pores; violently effervescent (25 percent calcium carbonate equivalent); finely disseminated calcium carbonates and many calcium carbonate coatings on rock fragments; 70 percent gravel and 10 percent cobbles; moderately alkaline (pH 8.4); clear wavy boundary
+
+ Bk3--127 to 157 cm; very pale brown (10YR 8/2) extremely gravelly sandy loam, light brownish gray (2.5Y 6/2) moist; massive; soft, very friable, nonsticky and nonplastic; few very fine and fine roots; few very fine tubular pores; violently effervescent (18 percent calcium carbonate equivalent); finely disseminated calcium carbonates throughout soil matrix and common calcium carbonate coatings on rock fragments; 60 percent gravel and 5 percent cobbles; strongly alkaline (pH 8.6)
+
+TYPE LOCATION:  Clark County, Idaho; latitude 44.37656 degrees north, longitude 112.41361 degrees west; datum WGS 84
+
+RANGE IN CHARACTERISTICS:
+Mean annual soil temperature--2.2 to 6.1 degrees C
+Thickness of mollic epipedon--23 to 40 cm
+Depth to calcic horizon--23 to 40 cm
+
+Particle-size control section (weighted averages)
+Clay content--9 to 15 percent
+Total rock fragment content--45 to 70 percent
+Calcium carbonate equivalent--15 to 35 percent
+
+A horizon
+Value--3 to 5 dry, 2 or 3 moist
+Chroma--2 or 3 dry or moist
+Clay content--8 to 18 percent
+Total rock fragment content--35 to 55 percent
+Gravel content--35 to 45 percent
+Cobble content--0 to 10 percent
+Reaction--pH 6.6 to 7.8
+Thickness--8 to 10 cm
+
+Bw horizon
+Value--4 to 5 dry, 2 or 3 moist
+Chroma--2 or 3 dry or moist
+Texture (less than 2-mm fraction)--loam, sandy loam
+Clay content--11 to 18 percent
+Total rock fragment content--15 to 55 percent
+Gravel content--15 to 45 percent
+Cobble content--0 to 10 percent
+Reaction--pH 7.0 to 7.8
+Thickness--15 to 25 cm
+
+Bk horizon
+Hue--10YR or 2.5Y dry or moist
+Value--5 to 8 dry, 2 to 4 moist
+Chroma--2 to 4 dry or moist
+Texture (less than 2-mm fraction)--loam, sandy loam
+Clay content--6 to 18 percent
+Total rock fragment content--25 to 85 percent
+Gravel content--20 to 55 percent
+Cobble content--5 to 10 percent
+Reaction--pH 7.9 to 8.4
+
+COMPETING SERIES:
+Farlow--deep to lithic contact
+McNinch, Rockisland, Silvercliff--ustic soil moisture regime
+
+GEOGRAPHIC SETTING:
+Elevation--1670 to 2740 m
+Mean annual precipitation--300 to 575 mm
+Mean annual air temperature--1.1 to 5.6 degrees C
+Frost-free period--30 to 60 days
+
+GEOGRAPHICALLY ASSOCIATED SOILS:  None listed
+
+DRAINAGE AND SATURATED HYDRAULIC CONDUCTIVITY:
+Drainage class--well drained
+Saturated hydraulic conductivity (Ksat)--5 to 100 um/sec
+
+USE AND VEGETATION:
+Major uses--rangeland, wildlife habitat
+Potential natural vegetation--mountain big sagebrush, Idaho fescue, bluebunch wheatgrass, rabbitbrush, lupine
+
+DISTRIBUTION AND EXTENT: Small extent in east-central Idaho; MLRA 12
+
+SOIL SURVEY REGIONAL OFFICE (SSRO) RESPONSIBLE: Portland, Oregon
+
+SERIES ESTABLISHED:  Clark County Area, Idaho; 2018
+
+REMARKS:
+Diagnostic horizons and other features recognized in this pedon
+Mollic epipedon--zone from the surface to a depth of 23 cm
+Calcic horizon--zone from 23 to 157 cm
+Particle-size control section--zone from 25 to 100 cm
+
+Taxonomic version--Twelfth Edition, 2014
+
+National Cooperative Soil Survey
+U.S.A.

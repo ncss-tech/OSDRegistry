@@ -1,0 +1,119 @@
+LOCATION SUTKIN                 WA+ID
+
+Established Series
+Rev. JTK/HRG/RWL
+09/2019
+
+SUTKIN SERIES
+
+Landscape--mountains, plateaus, hills
+Landform--mountain slopes, structural benches, ridges, hillslopes
+Slope--0 to 65 percent
+Parent material--colluvium and residuum derived from basalt with an influence of loess in the upper part
+Mean annual precipitation--about 510 cm
+Mean annual air temperature--about 6 degrees C
+Depth class--very deep
+Drainage class--well drained
+Soil moisture regime--xeric
+Soil temperature regime--frigid
+Soil moisture subclass--typic
+
+TAXONOMIC CLASS: Loamy-skeletal, mixed, superactive, frigid Ultic Haploxerolls
+
+TYPICAL PEDON: Sutkin stony loam, forested
+
+ Oi--0 to 3 cm; partially decomposed forest litter
+
+ A--3 to 28 cm; stony loam, dark brown (10YR 3/3) dry, very dark brown (10YR 2/2) moist; weak fine granular structure; soft, very friable, nonsticky and nonplastic; many fine and common coarse roots; 5 percent surface stones, 5 percent cobbles, and 5 percent gravel; slightly acid (pH 6.4); clear wavy boundary
+
+ Bw1--28 to 53 cm; very cobbly loam, dark yellowish brown (10YR 4/4) dry, dark brown (7.5YR 3/2) moist; weak medium subangular blocky structure; slightly hard, friable, slightly sticky and slightly plastic; common coarse and many fine roots; 30 percent gravel and 20 percent cobbles; neutral (pH 6.6); clear irregular boundary
+
+ Bw2--53 to 99 cm; extremely cobbly loam, dark yellowish brown (10YR 4/4) dry, dark brown (7.5YR 3/4) moist; moderate medium subangular blocky structure; slightly hard, friable, slightly sticky and moderately plastic; common coarse and many fine roots; 35 percent gravel and 35 percent cobbles; neutral (pH 6.6); clear wavy boundary
+
+ C--99 to 150 cm; extremely cobbly loam, dark yellowish brown (10YR 4/4) dry, dark yellowish brown (10YR 3/4) moist; massive; slightly hard, friable, slightly sticky and moderately plastic; common fine and coarse roots; 30 percent gravel and 40 percent cobbles; neutral (pH 6.6)
+
+TYPE LOCATION: Yakima County, Washington, about 43.5 km west of Yakima; about 340 m west and 700 m south of the northeast corner of section 14, T. 12 N., R. 14 E.; Foundation Ridge, Washington, U.S. Geological Survey topographic quadrangle; latitude 46 degrees, 31 minutes, 48 seconds north and longitude 121 degrees, 1 minute, 41 seconds west; NAD 27
+
+RANGE IN CHARACTERISTICS:
+Mean annual soil temperature--7 to 8 degrees C
+Thickness of mollic epipedon--25 to 45 cm
+Average clay content in particle-size control section--18 to 30 percent
+Reaction--6.1 to 7.3
+
+Oi horizon
+Thickness--1 to 5 cm
+
+A horizon
+Value--3 to 5 dry, 2 or 3 moist
+Chroma--3 or 4 dry, 1 to 3 moist
+Gravel content--5 to 10 percent
+Cobble content--0 to 10 percent
+Stone content--0 to 5 percent
+Thickness--25 to 46 cm
+
+Bw horizon
+Hue--10YR, 7.5YR
+Value--4 to 6 dry, 3 to 5 moist
+Chroma--2 to 4 moist
+Texture--very gravelly loam, very cobbly loam, extremely cobbly loam
+Total rock fragment content--40 to 70 percent
+Gravel content--10 to 45 percent
+Cobble content--10 to 35 percent
+Stone content--0 to 5 percent
+Combined thickness--48 to 94 cm
+
+C horizon
+Hue--10YR, 7.5YR
+Value--3 or 4 moist
+Chroma--3 or 4 moist
+Texture--very cobbly loam, extremely cobbly loam, very cobbly clay loam
+Total rock fragment content--40 to 80 percent
+Gravel content--10 to 35 percent
+Cobble content--30 to 50 percent
+Stone content--0 to 5 percent
+
+COMPETING SERIES:
+Eagleson--50 to 100 cm (moderately deep) to a lithic contact (granitic rock)
+Grousecreek, Zeb--less than 18 percent clay in particle-size control section
+Patio--50 to 100 cm (moderately deep) to a lithic contact (phyllite and argillite)
+Rogger--50 to 100 cm (moderately deep) to a paralithic contact (basalt)
+Terracecreek--50 to 100 cm (moderately deep) to a lithic contact (tuff)
+
+GEOGRAPHIC SETTING:
+Elevation--550 to 1475 m
+Climate--warm, dry summers; cool, moist winters; snowpack in December through March
+Mean annual precipitation--460 to 560 mm
+Mean January air temperature--about -4 degrees C
+Mean July air temperature--about 19 degrees C
+Mean annual air temperature--about 6 to 7 degrees C
+Growing season (at -2 degrees C)--145 to 170 days
+Frost-free season--70 to 130 days
+
+GEOGRAPHICALLY ASSOCIATED SOILS:
+Bocker--10 to 25 cm (very shallow) to a lithic contact (basalt)
+Jumpe--ochric epipedon
+Loneridge--argillic horizon
+Sapkin--50 to 100 cm (moderately deep) to a lithic contact (basalt)
+
+DRAINAGE AND SATURATED HYDRAULIC CONDUCTIVITY:
+Drainage class--well drained
+Saturated hydraulic conductivity (Ksat)--moderately high
+
+USE AND VEGETATION:
+Use--commercial timber production, livestock grazing, recreation, wildlife habitat, watershed
+Vegetation--ponderosa pine, scattered Douglas-fir, snowberry, pinegrass
+
+DISTRIBUTION AND EXTENT: Foothills of Cascade Mountains in Yakima and Kittitas Counties, Washington; MLRA 6; small extent
+
+SOIL SURVEY REGIONAL OFFICE (SSRO) RESPONSIBLE: Portland, Oregon
+
+SERIES ESTABLISHED: Kittitas County, Washington; 1979
+
+REMARKS:
+Diagnostic horizons and other features recognized in this pedon
+*Mollic epipedon--zone from 3 to 53 cm
+*Cambic horizon--zone from 53 to 99 cm
+*Particle-size control section--zone from 28 to 103 cm
+
+National Cooperative Soil Survey
+U.S.A.

@@ -1,0 +1,115 @@
+LOCATION WASKU                  WA
+
+Established Series
+Rev. PNP/KDPL/SBC
+09/2019
+
+WASKU SERIES
+
+Landscape--mountains, plateaus
+Landform--mountain slopes, ridgetops
+Slope--0 to 60 percent
+Parent material--volcanic ash mixed with colluvium and residuum derived from basalt
+Mean annual precipitation--about 1650 mm
+Mean annual air temperature--about 6 degrees C
+Depth class--very deep
+Drainage class--well drained
+Soil moisture regime--udic
+Soil temperature regime--cryic
+Soil moisture subclass--typic
+
+TAXONOMIC CLASS: Ashy-skeletal over loamy-skeletal, amorphic over isotic Alfic Vitricryands
+
+TYPICAL PEDON: Wasku gravelly ashy sandy loam in an area of forestland, on a 20-percent, northwest-facing side slope at an elevation of 1550 m (All textures are apparent field textures.)
+
+ Oi--0 to 3 cm; slightly decomposed forest litter mixed with 1980 Mount St. Helens volcanic ash 6 mm thick
+
+ A--3 to 28 cm; gravelly ashy sandy loam, yellowish brown (10YR 5/4) dry, dark yellowish brown (10YR 3/4) moist; weak fine subangular blocky structure; soft, very friable, nonsticky and nonplastic; common fine and coarse roots; few fine irregular pores; 15 percent gravel and 5 percent cobbles; slightly acid (pH 6.5), NaF pH 11.5; gradual wavy boundary
+
+ Bw--28 to 58 cm; very gravelly ashy sandy loam, yellowish brown (10YR 5/4) dry, dark yellowish brown (10YR 3/4) moist; weak fine subangular blocky structure; soft, very friable, nonsticky and nonplastic; common fine and coarse roots; few fine irregular pores; 35 percent gravel and 15 percent cobbles; moderately acid (pH 6.0), NaF pH 10.5; clear wavy boundary
+
+ 2Bt--58 to 163 cm; very gravelly loam, yellowish brown (10YR 5/4) dry, dark yellowish brown (10YR 4/4) moist; moderate fine and medium subangular blocky structure; hard, friable, slightly sticky and plastic; common fine and medium roots; common very fine and fine tubular pores; common distinct clay films on faces of peds and in pores; 40 percent gravel and 10 percent cobbles; slightly acid (pH 6.5), NaF pH 9.5
+
+TYPE LOCATION: Yakama Nation, Yakima County, Washington; about 610 m west and 180 m south of the northeast corner of section 25, T. 11 N., R. 13 E.; latitude 46.4152448, longitude -121.1330289, datum WGS 84 (coordinates estimated from section, township, and range)
+
+RANGE IN CHARACTERISTICS:
+Mean annual soil temperature at a depth of 50 cm--4 to 7 degrees C
+Mean summer soil temperature--6 to 8 degrees C
+Upper part of particle size-control section--6 to 8 percent clay; 35 to 50 percent basalt fragments by weighted average, generally increasing in abundance as depth increases
+Lower part of particle-size control section--argillic horizon; 20 to 27 percent clay; 35 to 70 percent basalt fragments
+
+Volcanic ash mantle
+*Thickness--40 to 75 cm
+*Moist bulk density--0.75 to 0.9 g/cm3
+*Volcanic glass content--5 to 30 percent
+*Acid oxalate aluminum plus 1/2 iron--2 to 3 percent
+*15-bar water retention--12 to 15 percent (air-dried samples)
+
+A horizon
+Hue--10YR, 7.5YR
+Value--5 or 6 dry
+Chroma--3 or 4 dry or moist
+Rock fragment content--15 to 25 percent
+Thickness--15 to 36 cm
+
+Bw horizon
+Hue--10YR, 7.5YR
+Value--5 or 6 dry, 3 or 4 moist
+Chroma--4 dry or moist
+Texture--very gravelly ashy sandy loam, very gravelly ashy loam, very cobbly ashy loam
+Rock fragment content--35 to 60 percent
+Reaction--5.6 to 6.5
+Thickness--25 to 38 cm
+
+2Bt horizon
+Hue--10YR, 7.5YR
+Value--5 or 6 dry, 3 or 4 moist
+Chroma--3 or 4 dry or moist
+Texture--very gravelly loam, very cobbly loam, extremely cobbly loam
+Rock fragment content--35 to 70 percent
+Reaction--5.6 to 6.5
+
+COMPETING SERIES:
+Hasshollow--the upper part of the control section is finer than ashy sandy loam
+Vester--the upper part of the control section is finer than ashy sandy loam
+
+GEOGRAPHIC SETTING:
+Elevation--1200 to 1850 m
+Climate--cool, wet winters; relatively warm, dry summers
+Mean annual precipitation--1300 to 2000 mm
+Mean annual air temperature--3 to 7 degrees C
+Frost-free season--35 to 75 days
+
+GEOGRAPHICALLY ASSOCIATED SOILS:
+Foggyflat--on mountain benches, plateaus, and side slopes; ashy particle-size class
+Milling--on mountain side slopes and ridgetops; loamy-skeletal particle-size class
+Pird--on mountains; ashy-skeletal particle-size class
+Satus--on mountain side slopes; loamy-skeletal particle-size class
+Wakshum--on mountain ridgetops, plateaus, and side slopes; ashy over loamy-skeletal particle-size class
+
+DRAINAGE AND SATURATED HYDRAULIC CONDUCTIVITY:
+Drainage class--well drained
+Saturated hydraulic conductivity (Ksat)--high
+
+USE AND VEGETATION:
+Use--dominantly timber production, wildlife habitat, and watershed
+Native vegetation--subalpine fir, mountain hemlock, Pacific silver fir, Engelmann spruce, elk sedge, Cascade azalea, big huckleberry, queencup beadlily, beargrass, smooth woodrush
+
+DISTRIBUTION AND EXTENT: East slopes of Cascade Mountains, in south-central Washington; MLRA 6; small extent
+
+SOIL SURVEY REGIONAL OFFICE (SSRO) RESPONSIBLE: Portland, Oregon
+
+SERIES ESTABLISHED: Yakama Nation, Yakima County, Washington; 2014
+
+REMARKS:
+Diagnostic horizons and other features recognized in this pedon
+*Ochric epipedon
+*Cambic horizon--zone from 28 to 58 cm
+*Argillic horizon--zone from 58 to 163 cm
+*Particle-size control section--3 to 103 cm
+*Andic soil properties--zone from 3 to 58 cm
+
+Wasku is the Yakama word for grass. The type location for this series is southwest of an area referred to as Brush Corral. The grass in this area is grazed by wild and domestic animals. This series originally was named the Ritaclair series.
+
+National Cooperative Soil Survey
+U.S.A.

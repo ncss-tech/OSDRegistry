@@ -1,0 +1,108 @@
+LOCATION YAHOLA                 OK+KS TX
+
+Established Series
+Rev. JGF:JFH:JLD
+03/2016
+
+YAHOLA SERIES
+
+The Yahola series consists of very deep, well drained, moderately rapidly permeable soils formed in calcareous loamy alluvium of Permian and Pleistocene age. These soils are on nearly level flood plains of major streams in the Central Rolling Red Prairies (MLRA 80A). Slope ranges from 0 to 2 percent. Mean annual air temperature is 16 degrees C (61 degrees F), and mean annual precipitation is 790 mm (31 in). 
+
+TAXONOMIC CLASS: Coarse-loamy, mixed, superactive, calcareous, thermic Udic Ustifluvents
+
+TYPICAL PEDON:  Yahola fine sandy loam, in cultivated field, at an elevation of 256 m (840 ft). (Colors are for dry soil unless otherwise stated.)
+
+  Ap--0 to 28 cm (0 to 11 in); reddish brown (5YR 5/4) fine sandy loam; reddish brown (5YR 4/4) moist; weak fine granular structure; soft, very friable; very slightly effervescent; moderately alkaline; gradual smooth boundary. (Thickness of the Ap horizon is 10 to 51 cm [4 to 20 in])
+
+  C1--28 to 102 cm (11 to 40 in); reddish yellow (5YR 6/6) fine sandy loam; yellowish red (5YR 5/6) moist; massive; slightly hard, very friable; thin strata of loamy fine sandy and silt loam in the lower part; slightly effervescent; moderately alkaline; gradual smooth boundary. 
+
+  C2--102 to 142 cm (40 to 56 in); reddish brown (5YR 5/4) loam; reddish brown (5YR 4/4) moist; massive; slightly hard, friable; slightly effervescent; moderately alkaline; gradual smooth boundary. (Combined thickness of the C horizon is 152 to 193 cm [60 to 76 in])
+
+  C3--142 to 183 cm (56 to 72 in); yellowish red (5YR 5/6) stratified loamy fine sand through loam, yellowish red (5YR 4/6) moist; massive; slightly hard, very friable; slightly effervescent; moderately alkaline. 
+
+TYPE LOCATION:  Jefferson County, Oklahoma; about 7 miles west and 1 mile north of Ryan; about 1,989 feet north and 800 feet east of the southwest corner of sec. 18, T. 6 S., R. 8 W .  
+
+USGS Topographic Quadrangle: Irving, OK 
+Latitude: 34 degrees, 2 minutes, 4 seconds N 
+Longitude: 98 degrees, 5 minutes, 2 seconds W 
+Datum: NAD 83
+
+Decimal Degrees:
+Latitude: 34.0344444 
+Longitude: -98.083991 
+
+UTM Easting: 584362 m 
+UTM Northing: 3766351 m
+UTM Zone: 14N
+
+RANGE IN CHARACTERISTICS:
+Depth to bedrock: more than 203 cm (80 in)
+Depth of buried soils: greater than 77 cm (30 in) in some areas
+
+Ap horizon:
+Hue: 2.5YR to 7.5YR
+Value: 5 to 7 dry, 4 to 6 moist
+Chroma: 2 to 6 dry or moist
+Other features: where the A horizon moist value is 5 or less, and chroma is 3 or less, and thickness is more than 25 cm (10 in), organic matter content is less than 1 percent
+Texture: loamy fine sand, fine sandy loam, very fine sandy loam, or loam 
+Textures features: where the loamy fine sand occurs, it is less than 30 cm (12 in) thick
+Effervescence: none to slight
+Reaction: slightly alkaline or moderately alkaline in the upper 25 cm (10 in) and moderately alkaline below 25 cm (10 in)
+
+C horizon:
+Hue: 2.5YR to 7.5YR
+Value: 6 or 7 dry, 5 or 6 moist
+Chroma: 3 to 8 dry or moist
+Texture above 102 cm (40 in): fine sandy loam, very fine sandy loam, or loam with 5 to 18 percent clay
+Texture below 102 cm (40 in): loamy fine sand, fine sandy loam, loam, or silt loam
+Stratification: thin strata of coarser or finer materials occur throughout the C horizon
+Effervescence: none to slight
+Reaction: moderately alkaline 
+
+COMPETING SERIES:  There are no other series in the same family. Similar soils are the Gaddy and Gracemont.
+Gaddy soils: have a sandy textural control section
+Gracemont soils: have redoximorphic features in the upper part of the profile
+
+GEOGRAPHIC SETTING:
+Parent material: formed in calcareous loamy alluvium 
+Landscape: alluvial plains
+Landform: flood plains along major streams 
+Slope: 0 to 2 percent
+Mean annual precipitation: 533 to 1041 mm (26 to 40 in)
+Mean annual air temperature: 13.9 to 17.2 degrees C (57 to 63 degrees F)
+Frost-free period: 190 to 230 days
+Elevation: 280 to 525 meters (920 to 1720 ft)
+Thornthwaite Annual P-E indices: 44 to 64
+
+GEOGRAPHICALLY ASSOCIATED SOILS:  These are the Canadian, Dale, Gaddy, Gracemont, Gracemore, and Reinach series.
+Canadian and Dale soils: have a mollic epipedon and are on slightly higher positons
+Gaddy soils: have a sandy control section and are in slightly lower positions Gracemont and Gracemore soils: have a water table within 102 cm (40 in) of the soil surface and are in slightly lower positions
+Reinach soils: have a coarse-silty control section and are on higher positions
+
+DRAINAGE AND PERMEABILITY:
+Drainage: well drained
+Permeability: moderately rapid 
+Runoff: negligible on 0 to 1 percent slopes and very low on 1 to 2 percent slopes 
+Flooding: rarely to frequently flooded for very brief to brief periods during April to October
+
+USE AND VEGETATION:  These soils are mainly cropped to alfalfa, peanuts, cotton, small grains, tame pasture, and grain sorghum. The native vegetation is tall and mid grasses with eastern cottonwood, pecan, tamarisk, and American elm. 
+
+DISTRIBUTION AND EXTENT:  Oklahoma, Kansas, and Texas; LRR H; Central Rolling Red Prairies, MLRA 80A. The series is extensive.
+
+MLRA SOIL SURVEY REGIONAL OFFICE (MO) RESPONSIBLE: Temple, Texas
+
+SERIES ESTABLISHED:  Muskogee County, Oklahoma; 1913.
+
+REMARKS: 
+Updated extensively as a result of the SDJR Initiative (JLD 03/2016). 
+
+Diagnostic horizons and features recognized in the pedon are:
+Ochric epipedon: 0 to 28 cm (0 to 11 in) (Ap horizon)
+Moisture regime: Udic-Ustic
+
+ADDITIONAL DATA: none
+
+Taxonomic Version: Keys to Soil Taxonomy, Twelfth Edition, 2014
+
+National Cooperative Soil Survey
+U.S.A.

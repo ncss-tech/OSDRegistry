@@ -1,0 +1,130 @@
+LOCATION LITTLETABLE            MT
+
+Established Series
+REV. KTS-RJS 
+01/2012
+
+LITTLETABLE SERIES
+
+The Littletable series consists of very deep, well drained soils that formed in sodium affected lacustrine deposits.  These soils occur on lakebeds.  Slopes are 0 to 4 percent.  Mean annual precipitation is about 410 mm, and the mean annual air temperature is about 3 degrees C.
+
+TAXONOMIC CLASS: Fine, smectitic Ustic Haplocryalfs
+
+TYPICAL PEDON: Littletable silt loam, in rangeland on a 1 percent slope at an elevation of 2021 meters (colors are for dry soil unless otherwise noted).
+
+   A--0 to 11 cm; grayish brown (10YR 5/2) silt loam, very dark grayish brown (10YR 3/2) moist; weak fine and medium granular structure; soft, very friable, nonsticky and nonplastic; many very fine, fine and medium roots; many very fine and fine irregular pores; neutral (pH 7.0); clear smooth boundary. (0 to 15 cm thick)
+
+   E--11 to 20 cm; light brownish gray (10YR 6/2) fine sandy loam, dark grayish brown (10YR 4/2) moist; moderate medium and thick platy structure; slightly hard, very friable, nonsticky and nonplastic; common very fine, fine and medium roots; many very fine and fine irregular pores; strongly alkaline (pH 8.8); abrupt wavy boundary. (4 to 15 cm thick)
+
+   Btn--20 to 33 cm; brown (10YR 5/3) silty clay, dark brown (10YR 3/3) moist; strong fine and medium columnar structure; extremely hard, extremely firm, very sticky and very plastic; few very fine and fine roots; common fine tubular pores; 60 percent prominent continuous clay films on all faces of peds; very strongly alkaline (pH 9.4); gradual wavy boundary. (12 to 35 cm thick)
+
+   Btkn--33 to 59 cm; light gray (10YR 7/2) silty clay loam, pale brown (10YR 6/3) moist; moderate medium and fine subangular blocky structure; hard, firm, very sticky and very plastic; few very fine roots; 5 percent faint patchy clay films on all faces of peds; finely disseminated calcium carbonate and 5 percent fine, distinct, irregular soft masses of calcium carbonate; strongly effervescent; very strongly alkaline (pH 9.6); gradual wavy boundary.  (8 to 30 cm thick)
+
+   C--59 to 152 cm; very pale brown (10YR 7/3) silty clay loam, brown (10YR 4/3) moist; common, medium, distinct, brownish yellow (10YR 6/6) mottles; massive; hard, firm, moderately sticky and moderately plastic; finely disseminated calcium carbonate; slightly effervescent; strongly alkaline (pH 8.8).
+
+TYPE LOCATION: Beaverhead County, Montana; located about 95 meters east and 375 meters north of the southwest corner of sec. 14, T. 14S., R. 5W; Corral Creek topographic quadrangle; UTM 12T, 405853e, 4941039n, NAD 83.
+
+RANGE IN CHARACTERISTICS: 
+Mean annual soil temperature - 2 to 5 degrees C.
+Depth to natric horizon - 10 to 20 cm
+Depth to secondary calcium carbonates - 20 to 40 cm 
+Mottles - relic redoximorphic features
+Particle size control section clay content - averages 35 to 50 percent clay
+
+Note: Some pedons may have a Bk or BC horizon.
+
+A horizon
+Value: 4 or 5 dry; 2 or 3 moist 
+Chroma: 2 or 3; dry or moist
+Clay content: 15 to 25 percent
+Rock fragments: 0 to 15 percent gravel
+Calcium carbonate equivalent: 0 to 1 percent
+Electrical conductivity: 0 to 1 mmhos/cm
+Sodium adsorption ratio: 0 to 8
+Reaction: pH 6.8 to 7.4
+
+E horizon
+Value: 6 or 7 dry; 4 or 5 moist 
+Chroma: 2 or 3; dry or moist
+Texture: fine sandy loam or loam
+Clay content: 12 to 25 percent
+Rock fragments: 0 to 15 percent gravel
+Calcium carbonate equivalent: 0 to 1 percent
+Electrical conductivity: 0 to 1 mmhos/cm
+Sodium adsorption ratio: 8 to 20
+Reaction: pH 7.9 to 9.0
+
+Btn horizon
+Hue: 10YR or 2.5Y; dry or moist
+Value: 4 to 6 dry; 3 to 5 moist
+Chroma: 2 to 4; dry or moist
+Texture: clay loam, silty clay loam, silty clay or clay
+Clay content: 35 to 50 percent
+Rock fragments: 0 to 15 percent gravel
+Calcium carbonate equivalent: 0 to 1 percent 
+Electrical conductivity: 0 to 4 mmhos/cm
+Sodium adsorption ratio: 25 to 75
+Reaction: pH 9.0 to 11.0
+
+Btkn horizon
+Hue: 10YR or 2.5Y; dry or moist
+Value: 6 or 7 dry; 5 or 6 moist
+Chroma: 2 to 4; dry or moist
+Texture: clay loam, silty clay loam, silty clay or clay
+Clay content: 27 to 45 percent
+Rock fragments: 0 to 15 percent gravel
+Calcium carbonate equivalent: 3 to 15 percent
+Electrical conductivity: 0 to 4 mmhos/cm
+Sodium adsorption ratio: 25 to 75
+Reaction: pH 9.0 to 11.0
+
+C horizon
+Hue: 10YR or 2.5Y; dry or moist
+Value: 6 or 7 dry; 4 to 6 moist
+Chroma: 2 or 3; dry or moist
+Texture: clay loam, silty clay loam, silty clay or clay
+Clay content: 27 to 45 percent
+Rock fragments: 0 to 15 percent gravel
+Calcium carbonate equivalent: 1 to 5 percent
+Electrical conductivity: 0 to 4 mmhos/cm
+Sodium adsorption ratio: 13 to 25
+Reaction: pH 8.5 to 9.6
+
+COMPETING SERIES:
+Asperson (WY) - do not have a natric horizon
+Goldpark (CO) - do not have a natric horizon
+Hatch (UT) - do not have a natric horizon
+
+GEOGRAPHIC SETTING:
+Landform - lakebeds
+Elevation - 1980 to 2135 meters
+Slope - 0 to 4 percent
+Parent material - sodium affected lacustrine deposits
+Climate - long, cold winters; moist springs; short warm summers
+Mean annual precipitation - 380 to 485 mm
+Mean annual air temperature - 1 to 4 degrees C.
+Frost-free period - 50 to 70 days
+
+GEOGRAPHICALLY ASSOCIATED SOILS: None listed.
+
+DRAINAGE AND PERMEABILITY: Well drained; slow permeability.
+
+USE AND VEGETATION: Littletable soils are used mainly for rangeland.  The vegetation is mainly greasewood, threetip sagebrush, rubber rabbitbrush, inland saltgrass, mat muhly, squirreltail, basin wildrye, thickspike wheatgrass, POA (species) and miscellaneous forbs.
+
+DISTRIBUTION AND EXTENT: Littletable soils are of small extent in southwestern Montana.  MLRA - 44B.
+
+MLRA SOIL SURVEY REGIONAL OFFICE (MO) RESPONSIBLE: Bozeman, Montana.
+
+SERIES ESTABLISHED: Horse Prairie-South Valley Area - Part of Beaverhead County, Montana, 2011; proposed in Beaverhead County, Montana, 2010.
+
+REMARKS:  Diagnostic horizons and features recognized in this pedon are:
+Ochric epipedon - from 0 to 20 cm (A, E horizons)
+Natric horizon - from 20 to 59 cm (Btn, Btkn horizons)
+Particle-size control section - from 20 to 59 cm (Btn, Btkn horizons)
+
+Littletable soils have a cryic temperature regime and an ustic moisture regime.
+
+Taxonomic version: Eleventh Edition, 2010.
+
+National Cooperative Soil Survey
+U.S.A.

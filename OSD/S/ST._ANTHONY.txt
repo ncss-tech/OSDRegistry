@@ -1,0 +1,124 @@
+LOCATION ST. ANTHONY            ID+WY
+
+Established Series
+Rev. RG/ RGK/CBR
+05/2018
+
+ST. ANTHONY SERIES
+
+Landscape--plains, alluvial plains, outwash plains, lava fields
+Landform--stream terraces, swales of fan remnants
+Slope--0 to 12 percent
+Parent material--alluvium
+Mean annual precipitation--about 375 mm
+Mean annual air temperature--about 6.1 degrees C
+Depth class--very deep
+Drainage class--well drained
+Soil moisture regime--xeric
+Soil temperature regime--frigid
+
+TAXONOMIC CLASS:  Loamy-skeletal, mixed, superactive, frigid Calcic Pachic Haploxerolls
+
+TYPICAL PEDON:  St. Anthony gravelly sandy loam in a cultivated field (Colors are for dry soil unless otherwise noted.)
+
+ Ap--0 to 18 cm; brown (10YR 4/3) gravelly sandy loam, very dark grayish brown (10YR 3/2) moist; weak fine subangular blocky structure parting to moderate very fine granular; slightly hard, very friable, slightly sticky and slightly plastic; few fine and medium and common very fine roots; many very fine and few fine irregular pores; few pressure faces against gravel; 20 percent gravel; neutral (pH 7.0); abrupt smooth boundary
+
+ Bw--18 to 30 cm; brown (10YR 5/3) gravelly sandy loam, very dark grayish brown (10YR 3/2) moist; weak fine subangular blocky structure parting to moderate very fine and fine granular; slightly hard, very friable, slightly sticky and slightly plastic; common very fine roots; many very fine and few fine irregular pores; 25 percent gravel; few pressure faces against gravel; neutral (pH 7.0); clear wavy boundary
+
+ Bk--30 to 53 cm; brown (10YR 5/3) very gravelly sandy clay loam, dark brown (10YR 3/3) moist; weak fine granular structure; hard, very friable, slightly sticky and slightly plastic; common very fine roots; many very fine tubular and irregular pores; 50 percent gravel; many pressure faces against gravel; discontinuous calcium carbonate coatings on bottom of rock fragments; strongly effervescent; neutral (pH 7.2); gradual wavy boundary
+
+ 2Bk--53 to 150 cm; dark gray (10YR 4/1) extremely gravelly coarse sand; single grain; loose; few very fine roots; 70 percent gravel; discontinuous calcium carbonate coatings on bottom of rock fragments; strongly effervescent; neutral (pH 7.2)
+
+TYPE LOCATION:  Fremont County, Idaho; latitude 43.94310 degrees north, longitude 111.67966 degrees west, datum WGS 84
+
+RANGE IN CHARACTERISTICS:
+Mean annual soil temperature--5.0 to 7.2 degrees C
+Thickness of mollic epipedon--50 to 100 cm
+Depth to secondary carbonates--20 to 50 cm
+
+Particle-size control section (weighted averages)
+Clay content--8 to 18 percent
+Total rock fragment content--35 to 65 percent
+
+Ap or A (when present) horizons
+Hue--10YR, 7.5YR
+Value--4 or 5 dry, 2 or 3 moist
+Chroma--2 or 3 dry or moist
+Texture (less than 2 mm fraction)--loam, sandy loam
+Clay content--10 to 24 percent
+Total rock fragment content--5 to 35 percent
+Gravel content--15 to 35 percent
+Cobble content--0 to 6 percent
+Reaction--pH 6.6 to 7.8
+Thickness--15 to 36 cm
+
+Bw horizon
+Hue--10YR, 7.5YR
+Value--4 or 5 dry, 2 or 3 moist
+Chroma--2 or 3 dry or moist
+Texture (less than 2 mm fraction)--sandy loam, sandy clay loam
+Clay content--13 to 28 percent
+Total rock fragment content--15 to 75 percent
+Gravel content--8 to 50 percent
+Cobble content--0 to 10 percent
+Reaction--pH 6.6 to 7.8
+Thickness--8 to 36 cm
+
+Bk horizon
+Hue--10YR, 7.5YR
+Value--4 or 5 dry, 2 or 3 moist
+Chroma--2 or 3 dry or moist
+Clay content--20 to 23 percent
+Total rock fragment content--20 to 75 percent
+Gravel content--35 to 45 percent
+Cobble content--0 to 6 percent
+Calcium carbonate equivalent--less than 5 percent
+Reaction--pH 6.6 to 7.8
+Thickness--0 to 38 cm
+
+2Bk horizon
+Value--4 or 5 dry
+Chroma--1 to 4 dry
+Texture (less than 2-mm fraction)--coarse sand, loamy coarse sand, loamy sand
+Clay content--3 to 10 percent
+Total rock fragment content--50 to 85 percent
+Gravel content--45 to 70 percent
+Cobble content--5 to 20 percent
+Calcium carbonate equivalent--1 to 10 percent
+Reaction--pH 7.9 to 8.0
+
+COMPETING SERIES:
+Calpac--calcic horizon; more than 18 percent clay in particle-size control section
+Jimsage--no sandy-skeletal discontinuity in lower part of particle-size control section
+
+GEOGRAPHIC SETTING:
+Elevation--1370 to 1980 m
+Mean annual precipitation--300 to 575 mm
+Mean annual air temperature--3.3 to 8.0 degrees C
+Frost-free period--50 to 100 days
+
+GEOGRAPHICALLY ASSOCIATED SOILS:  None listed
+
+DRAINAGE AND SATURATED HYDRAULIC CONDUCTIVITY:
+Drainage class--well drained (subject to irrigation-induced water table)
+Saturated hydraulic conductivity (Ksat)--1 to 50 um/sec in upper part of particle-size control section, 150 to 600 um/sec below the discontinuity
+
+USE AND VEGETATION:
+Major use--production of irrigated hay, wheat, barley, oats, pasture, and some potatoes
+Potential natural vegetation--mountain big sagebrush, bluebunch wheatgrass, Idaho fescue
+
+DISTRIBUTION AND EXTENT:  Small extent in southeastern Idaho; MLRAs 13 and 11
+
+SOIL SURVEY REGIONAL OFFICE (SSRO) RESPONSIBLE:  Portland, Oregon
+
+SERIES ESTABLISHED:  Fremont County, Idaho; 1989
+
+REMARKS:
+Diagnostic horizons and other features recognized in this pedon
+Mollic epipedon--zone from the surface to a depth of 53 cm (Ap, Bw, and Bk horizons)
+Particle-size control section--zone from 25 to 100 cm (part of Bw horizon, Bk horizon, part of 2Bk horizon)
+
+Taxonomic version--Twelfth Edition, 2014
+
+National Cooperative Soil Survey
+U.S.A.

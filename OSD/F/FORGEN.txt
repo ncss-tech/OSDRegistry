@@ -1,0 +1,99 @@
+LOCATION FORGEN                 WY
+
+Tentative Series
+Rev. KCC-DJP-RJS
+05/2017
+
+FORGEN SERIES
+
+The Forgen series consists of very deep, somewhat poorly drained soils that formed in alluvium. These soils are on stream terraces. Slopes are 0 to 2 percent. Mean annual precipitation is about 280 mm, and annual air temperature is about 4.0 degrees C.
+
+TAXONOMIC CLASS: Fine-loamy, mixed, superactive, frigid Oxyaquic Argixerolls
+
+TYPICAL PEDON: Forgen peaty silt loam, in pasture (colors are for dry soil unless otherwise noted).
+
+       A--0 to 6 cm; dark brown (10YR 3/3) peaty silt loam, very dark brown (10YR 2/2) moist; weak medium granular structure; soft, very friable, moderately sticky, moderately plastic; many very fine and fine, and common medium roots; many irregular pores; very slightly effervescent; very strongly alkaline (pH 9.4); abrupt smooth boundary. (4 to 8 cm thick)                                                                                        
+
+       Btn1--6 to 28 cm; brown (10YR 4/3) clay loam, very dark grayish brown (10YR 3/2) moist; weak coarse subangular blocky structure; moderately hard, firm, very sticky, very plastic; many very fine and fine, and common medium roots; many irregular pores; 10 percent faint clay films on all faces of peds and surfaces along root channels; very slightly effervescent; very strongly alkaline (pH 9.2); clear smooth boundary.  
+
+       Btn2--28 to 61 cm; light yellowish brown (10YR 6/4) clay loam, brown (10YR 5/3) moist; 10 percent, medium, faint, irregular, very dark grayish brown (10YR 3/2) moist, redoximorphic feature; weak coarse subangular blocky structure; moderately hard, firm, very sticky, very plastic; few fine roots; many irregular pores; 10 percent faint clay films on all faces of peds; very slightly effervescent; strongly alkaline (pH 9.0); clear smooth boundary. (combined thickness of Btn1, Btn2 -- 30 to 65 cm)                                   
+
+       C1--61 to 99 cm; light yellowish brown (10YR 6/4) sandy clay loam, brown (10YR 5/3) moist; 10 percent, fine, prominent, irregular, 7.5YR (4/6) moist, masses of oxidized iron in matrix; massive; moderately hard, firm, moderately sticky, moderately plastic; few fine roots; common interstitial pores; very slightly effervescent; moderately alkaline (pH 8.2); clear smooth boundary. 
+
+       C2--99 to 119 cm; yellowish brown (10YR 5/4) sandy clay loam, brown (10YR 4/3) moist; 10 percent fine distinct irregular 7.5YR (4/6), moist, masses of oxidized iron in matrix; massive; moderately hard, firm, very sticky, very plastic; few fine roots; common interstitial pores; very slightly effervescent; moderately alkaline (pH 8.2); clear smooth boundary.  
+
+       C3--119 to 150 cm; yellowish brown (10YR 5/4) sandy clay loam, brown (10YR 4/3) moist; 30 percent, coarse, prominent, irregular, 7.5YR (4/6) moist, masses of oxidized iron in matrix; massive; moderately hard, firm, very sticky, very plastic; few fine roots; few interstitial pores; very slightly effervescent; moderately alkaline (pH 8.2). (combined thickness of C1, C2, C3 -- greater than 80 cm)
+
+TYPE LOCATION: Lincoln County, Wyoming; USGS Beckwith, Wyoming topographic quadrangle; 41 degrees 57 minutes 21.80 seconds north latitude and 110 degrees 57 minutes 21.14 seconds west longitude. 
+
+RANGE IN CHARACTERISTICS:
+Mean annual soil temperature -- 3.0 to 7.0 degrees C.
+Mollic epipedon thickness -- 18 to 36 cm
+Depth to argillic horizon -- 4 to 8 cm
+Depth to a seasonally high water table and redoximorphic features -- 45 to 90 cm
+	
+A horizon
+Hue: 10YR or 7.5YR dry or moist  
+Value: 2 to 3 dry or moist
+Chroma: 2 or 3 moist
+Texture (less than 2 mm): silt loam, loam 
+Clay content: 15 to 25 percent
+Calcium carbonate equivalent: 0 to 3 percent
+Sodium adsorption ratio: 8 to 15
+Reaction: pH 8.8 to 9.4
+
+Btn1, Btn2 horizons 
+Hue: 10YR or 7.5YR dry or moist
+Value: 2.5 to 6 dry; 2.5 to 5 moist 
+Chroma: 3 or 4 dry; 2 or 3 moist
+Clay content: 28 to 34 percent
+Calcium carbonate equivalent: 0 to 3 percent
+Sodium adsorption ratio: 8 to 15
+Reaction: pH 8.8 to 9.2
+
+C horizons
+Hue: 10YR or 7.5YR dry or moist 
+Value: 5 to 8 dry; 4 to 6 moist 
+Chroma: 3 to 5 dry; 3 or 4 moist
+Texture (less than 2 mm): clay loam, sandy clay loam
+Clay content: 21 to 34 percent
+Calcium carbonate equivalent: 0 to 3 percent
+Sodium adsorption ratio: 0 to 3
+Reaction: pH 8.0 to 8.4
+
+COMPETING SERIES:
+TWINROVA (WY) - have sodium absorption ratio less than 3 throughout the soil profile
+
+GEOGRAPHIC SETTING:
+Landform: stream terraces
+Elevation: 1,850 to 1,900 meters
+Slope: 0 to 2 percent
+Parent Material: alluvium 
+Climate: long, cold winters; cool, moist springs; short, cool summers.
+Mean annual precipitation: 225 to 350 mm with peak periods of precipitation occurring during the winter
+Mean annual air temperature: 3.0 to 6.0 degrees C.
+Frost-free period: 40 to 90 days
+
+GEOGRAPHICALLY ASSOCIATED SOILS: None listed.
+
+DRAINAGE AND SATURATED HYDRAULIC CONDUCTIVITY: Somewhat poorly drained; 0.5 - 15.0 um/sec.
+
+USE AND VEGETATION: Forgen soils are primarily used for irrigated hayland and irrigated pasture. The vegetation is mainly Garrison creeping meadow foxtail, timothy, tufted hairgrass, and other sedges, rushes, and forbs.
+
+DISTRIBUTION AND EXTENT: Forgen soils are of small extent in southwestern Wyoming. MLRA 13.
+
+SOIL SURVEY REGIONAL OFFICE (SSRO) RESPONSIBLE: Bozeman, Montana
+
+SERIES PROPOSED: Lincoln County, Wyoming, 2017. The series name is derived from a local landmark.
+
+REMARKS: Diagnostic horizons and features recognized in this pedon are:
+Mollic epipedon -- 0 to 28 cm (A, Bt1 horizons);
+Argillic horizon -- 6 to 61 cm (Btn1, Btn2 horizons);
+Particle-size control section -- from 6 to 56 cm (Btn1, part of Btn2 horizons).
+
+Forgen soils have a frigid temperature regime and a xeric moisture regime and an oxyaquic moisture subclass.
+
+Taxonomic version: Keys to Soil Taxonomy, Twelfth Edition, 2014.
+
+National Cooperative Soil Survey
+U.S.A.

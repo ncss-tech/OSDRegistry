@@ -1,0 +1,165 @@
+LOCATION KLICKSON               ID+OR+WA
+
+Established Series
+Rev. RJB/SMM/RWL
+05/2017
+
+KLICKSON SERIES
+
+Landscape--plateaus, mountains
+Landform--north-facing side slopes of canyons, escarpments of hills, backslopes of basalt plateaus, structural benches, lower slopes of mountains
+Slope--0 to 90 percent
+Parent material--loess mixed with volcanic ash over colluvium and residuum derived from basalt
+Mean annual precipitation--about 660 mm
+Mean annual air temperature--about 6 degrees C
+Depth class--deep, very deep
+Drainage class--well drained
+Soil moisture regime--xeric
+Soil temperature regime--frigid
+Soil moisture subclass--typic
+
+TAXONOMIC CLASS: Loamy-skeletal, isotic, frigid Vitrandic Argixerolls
+
+TYPICAL PEDON: Klickson ashy silt loam in a forested area, on a 61-percent, northeast-facing slope at an elevation of 975 m (The soil was described on July 26, 1973.)
+
+ Oi--0 to 1 cm; decomposed litter underlain by moss
+
+ A1--1 to 15 cm; cobbly ashy silt loam, dark grayish brown (10YR 4/2) dry, very dark brown (10YR 2/2) moist; strong medium and coarse granular structure; slightly hard, very friable, slightly sticky and slightly plastic; many very fine, medium, and coarse roots; many fine irregular pores; 5 percent cobbles and 5 percent gravel; slightly acid (pH 6.4); clear wavy boundary
+
+ A2--15 to 38 cm; cobbly ashy silt loam, brown (10YR 4/3) dry, dark brown (7.5YR 3/2) moist; weak medium and coarse subangular blocky structure; slightly hard, very friable, slightly sticky and slightly plastic; few very fine and many coarse roots; many very fine tubular pores; large piece of charcoal; 5 percent gravel and 10 percent cobbles; slightly acid (pH 6.4); gradual wavy boundary
+
+ BA--38 to 53 cm; cobbly ashy silt loam, brown (10YR 5/3) dry, dark yellowish brown (10YR 3/4) moist; weak fine and medium subangular blocky structure; slightly hard, friable, slightly sticky and slightly plastic; few very fine and medium roots; many very fine tubular pores; 10 percent gravel and 15 percent cobbles; slightly acid (pH 6.4); gradual wavy boundary
+
+ Bt1--53 to 130 cm; very cobbly loam, brown (7.5YR 5/4) dry, dark brown (7.5YR 3/4) moist; moderate fine and medium subangular blocky structure; hard, friable, moderately sticky and moderately plastic; few very fine, fine, and coarse roots; many very fine and fine tubular pores; few faint clay films on faces of peds; several clayey bands 5 to 10 mm thick; few clean silt grains; 20 percent gravel and 20 percent cobbles; slightly acid (pH 6.2); clear wavy boundary
+
+ Bt2--130 to 150 cm; very cobbly clay, brown (7.5YR 5/3) dry, brown (7.5YR 4/3) moist; moderate medium angular blocky structure; very hard, firm, moderately sticky and moderately plastic; few very fine roots; common very fine tubular pores; many faint nearly continuous clay films on all faces; few pressure faces; 20 percent gravel and 30 percent cobbles; slightly acid (pH 6.4)
+
+TYPE LOCATION: Idaho County, Idaho, about 6 km south of Cottonwood; about 110 m south and 245 m west of the northwest corner of the NE1/4SE1/4 of section 30, T. 31 N., R. 1 E.; Fenn U.S. Geological Survey topographic quadrangle; latitude 45.9975222, longitude -116.3719333, datum WGS 84 (coordinates measured with GPS)
+
+RANGE IN CHARACTERISTICS:
+Thickness of mollic epipedon--25 to 50 cm
+Estimated base saturation--less than 75 percent, by sum of cations, in one horizon or more between depths of 25 and 75 cm
+Depth to bedrock--more than 100 cm
+Soil moisture control section--dry 45 to 60 consecutive days
+Mean annual soil temperature--5 to 8 degrees C
+Mean summer soil temperature in areas that do not have an O horizon--15 to 17 degrees C
+Thickness of layers influenced by volcanic ash--25 to 75 cm
+
+Particle-size control section
+*Content of clay--18 to 35 percent
+*Content of rock fragments--35 to 80 percent
+
+Estimated properties of layers influenced by volcanic ash
+*Content of volcanic glass in 0.02- to 2.0-mm fraction--5 to 20 percent
+*Acid oxalate Al plus 1/2 Fe--0.4 to 1.0 percent
+*Moist bulk density--1.15 to 1.35 g/cm3
+
+A horizon
+Hue--7.5YR, 10YR
+Value--3 to 6 dry, 2 or 3 moist
+Chroma--2 or 3 dry, 1 to 3 moist
+Texture--ashy silt loam, ashy loam
+Content of clay--10 to 25 percent
+Content of rock fragments--0 to 40 percent
+Reaction--strongly acid to neutral
+Combined thickness--10 to 50 cm
+
+BA and AB horizons (where present)
+Hue--10YR, 7.5YR
+Value--4 to 7 dry, 2 or 3 moist
+Chroma--2 to 6 dry, 2 to 4 moist
+Texture-ashy silt loam, ashy loam
+Content of clay--12 to 27 percent
+Total content of rock fragments--0 to 50 percent
+Content of gravel--0 to 30 percent
+Content of cobbles--0 to 25 percent
+Reaction--5.6 to 7.3
+Thickness of BA horizon--0 to 65 cm
+
+Bt horizon
+Hue--7.5YR, 10YR
+Value--4 to 6 dry, 3 to 5 moist
+Chroma--2 to 4 dry or moist
+Reaction--5.6 to 7.3
+Combined thickness--10 to 120 cm or more
+
+Upper part of Bt horizon
+Texture--clay loam, loam, silt loam, silty clay loam
+Content of clay--18 to 35 percent
+Total content of rock fragments--35 to 80 percent
+Content of gravel---10 to 70 percent
+Content of cobbles--0 to 35 percent
+Content of stones--0 to 10 percent
+
+Lower part of Bt horizon
+Texture--clay loam, loam, silt loam, silty clay loam
+Content of clay--18 to 40 percent
+Total content of rock fragments--40 to 90 percent
+Content of gravel--20 to 65 percent
+Content of cobbles--10 to 65 percent
+Content of stones--0 to 50 percent
+
+BC or 2C horizon (where present)
+Value--3 to 5 moist, 4 to 6 dry
+Chroma--3 or 4 moist
+Content of clay--12 to 23 percent
+Total content of rock fragments--70 to 90 percent
+Content of gravel--20 to 35 percent
+Content of cobbles--40 to 55 percent
+Content of stones--10 to 50 percent
+Reaction--5.6 to 7.3
+
+2Bt horizon (where present)
+Texture--very cobbly clay, very cobbly silty clay, extremely gravelly silty clay, cobbly clay
+
+COMPETING SERIES: 
+Barneycreek--mollic epipedon 50 to 90 cm thick
+Getaway--lithic contact at a depth of 100 to 150 cm
+Klicker, Larabee--50 to 100 cm deep to bedrock
+Millerflat--mollic epipedon 50 to 75 cm thick; redoximorphic features with chroma of 2 or less at a depth of 50 to 75 cm
+Ryespur--mollic epipedon at a depth of 40 to 75 cm
+Stemilt--dry 60 to 75 days late in summer and in fall
+Sycreek--dry 60 to 75 days late in summer and in fall; 2CBd horizon at a depth of 90 to 115 cm
+Wileyflat--50 to 100 cm deep to lithic contact
+
+GEOGRAPHIC SETTING:
+Elevation--305 to 1625 m in Idaho; as high as 1825 m in Oregon
+Mean annual precipitation--typically 460 to 890 mm, but as low as 430 mm in Oregon
+Mean annual air temperature--4 to 10 degrees C
+Frost-free period--70 to 130 days
+
+GEOGRAPHICALLY ASSOCIATED SOILS:
+Bluesprin, Keuterville, Speigle--mesic soil temperature regime; on canyonsides
+Suloaf--fine-loamy; on canyonsides and mountainsides
+Wapshilla--cryic soil temperature regime; ochric epipedon; on mountainsides and canyonsides
+
+DRAINAGE AND PERMEABILITY:
+Drainage class--well drained
+Saturated hydraulic conductivity (Ksat)--moderately high
+
+USE AND VEGETATION:
+Use--timber production
+Potential natural vegetation--dominantly Douglas-fir, ponderosa pine, mallow ninebark, creambush oceanspray, and common snowberry
+
+DISTRIBUTION AND EXTENT: North-central Idaho, northeastern and central Oregon, eastern Washington; MLRAs 9 and 10; moderate extent
+
+SOIL SURVEY REGIONAL OFFICE (SSRO) RESPONSIBLE: Portland, Oregon
+
+SERIES ESTABLISHED: Idaho County, Idaho; 1976
+
+REMARKS:
+Diagnostic horizons and other features in this pedon (depths measured from top of first mineral layer)
+*Mollic epipedon--zone from 1 to 38 cm
+*Argillic horizon--zone from 53 to 150 cm
+*Particle-size control section--zone from 53 to 104 cm
+*Vitrandic feature--zone from 1 to 53 cm
+
+2/2004--The Klickson series was revised to remove the discontinuity in the Bt1 horizon based on the highly mixed influence of ash and lack of a mantle of ash.
+
+6/2016--This official series description (OSD) was updated as part of the final correlation of the Spokane County, Washington, soil survey. The formatting was updated according to SSR1 Technical Note 11--Content and Format of Official Series Descriptions (revised 12/2015).
+
+ADDITIONAL DATA:
+Partial laboratory data--Kellogg Soil Survey Laboratory pedon number 93P-583 and sample number S93ID-049-004
+
+National Cooperative Soil Survey
+U.S.A.

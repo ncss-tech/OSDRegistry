@@ -1,0 +1,113 @@
+LOCATION TAHKEAL                WA
+
+Established Series
+Rev. RWL/PNP/KDPL/SBC
+09/2019
+
+TAHKEAL SERIES
+
+Landscape--mountains
+Landform--mountain slopes, terraces, benches
+Slope--2 to 35 percent
+Parent material--volcanic ash over block-and-ash flow or mudflow deposits
+Mean annual precipitation--890 mm
+Mean annual air temperature--about 6 degrees C
+Depth class--very deep
+Drainage class--well drained
+Soil moisture regime--xeric
+Soil temperature regime--frigid
+Soil moisture subclass--typic
+
+TAXONOMIC CLASS: Ashy, amorphic, frigid Typic Vitrixerands
+
+TYPICAL PEDON: Tahkeal ashy sandy loam in an area of forestland, on a 2-percent slope at an elevation of 850 m (All textures are apparent field textures.)
+
+ Oi--0 to 8 cm; forest litter of slightly decomposed needles, leaves, and twigs
+
+ A--8 to 25 cm; ashy sandy loam, dark yellowish brown (10YR 4/4) dry, dark brown (10YR 3/3) moist; weak fine granular structure; soft, very friable, nonsticky and nonplastic; many very fine, fine, and medium roots; common very fine irregular pores; 5 percent gravel; slightly acid (pH 6.5), NaF pH 10.7; clear smooth boundary
+
+ Bw1--25 to 74 cm; ashy sandy loam, yellowish brown (10YR 5/4) dry, dark yellowish brown (10YR 3/4) moist; weak fine granular structure; soft, very friable, nonsticky and nonplastic; common fine, medium, and coarse and few very fine roots; common very fine and fine irregular pores; 5 percent gravel; slightly acid (pH 6.5), NaF pH 11.0; clear smooth boundary
+
+ 2Bw2--74 to 102 cm; very cobbly ashy sandy loam, yellowish brown (10YR 5/4) dry, dark yellowish brown (10YR 3/4) moist; weak fine and medium subangular blocky structure; slightly hard, friable, nonsticky and nonplastic; many medium and coarse roots; common fine and medium irregular pores; 10 percent gravel and 25 percent cobbles; neutral (pH 7.0), NaF pH 11.0; gradual smooth boundary
+
+ 2BC--102 to 165 cm; very stony ashy sandy loam, yellowish brown (10YR 5/6) dry, dark yellowish brown (10YR 3/6) moist; moderate medium and fine subangular blocky structure; slightly hard, friable, slightly sticky and nonplastic; few medium and coarse roots; few fine irregular pores; 5 percent gravel, 30 percent cobbles, and 15 percent stones; neutral (pH 7.0), NaF pH 11.0
+
+TYPE LOCATION: Yakama Nation, Yakima County, Washington, about 3 km southwest of Castile Falls, along the Klickitat River; about 670 m east and 105 m north of the southwest corner of section 25, T. 9 N., R. 12 E.; latitude 46.2306531, longitude -121.2613639, datum WGS 84
+
+RANGE IN CHARACTERISTICS:
+Mean annual soil temperature at a depth of 50 cm--7 to 8 degrees C
+Moisture control section--usually moist, but dry 45 to 60 consecutive days following summer solstice
+Depth to ashy-skeletal mudflow deposits (2Bw horizon)--65 to 100 cm
+
+Particle-size control section
+*Moist bulk density--0.65 to 0.90 g/cm3
+*Volcanic glass content--5 to 30 percent
+*Ammonium oxalate aluminum plus one-half iron--more than 2 percent
+*15-bar water retention--less than 12 percent (air-dried samples)
+*Rock fragment content--0 to 25 percent in upper part, 35 to 80 percent in lower part
+
+Oi horizon
+Thickness--3 to 8 cm
+
+A horizon
+Value--4 or 5 dry, 3 or 4 moist
+Chroma--2 to 4 dry or moist
+Reaction--5.6 to 6.5
+Thickness--8 to 25 cm
+
+Bw horizon
+Hue--7.5YR, 10YR
+Value--4 to 6 dry, 3 or 4 moist
+Chroma--4 to 6 dry or moist
+Texture--ashy sandy loam, gravelly ashy sandy loam
+Rock fragment content--0 to 25 percent
+Reaction--5.6 to 6.5
+Thickness--41 to 76 cm
+
+2Bw and 2BC horizons
+Hue--7.5YR, 10YR
+Value--4 to 6 dry, 3 or 4 moist
+Chroma--2 to 6 dry or moist
+Texture--very cobbly sandy loam, very stony sandy loam, very gravelly sandy loam, extremely gravelly sandy loam, extremely cobbly sandy loam
+Rock fragment content--35 to 80 percent
+Reaction--6.1 to 7.3
+Thickness of 2Bw horizon--20 to 36 cm
+
+COMPETING SERIES:
+Bigwall--dry 60 to 90 days following summer solstice; 60 to 90 percent volcanic glass
+
+GEOGRAPHIC SETTING:
+Elevation--790 to 1225 m
+Mean annual precipitation--760 to 1000 mm
+Mean annual air temperature--6 to 7 degrees C
+Frost-free period--70 to 100 days
+
+GEOGRAPHICALLY ASSOCIATED SOILS:
+Singh--on benches and side slopes; loamy-skeletal; argillic horizon
+Yatama--on mountain benches and side slopes; umbric epipedon
+
+DRAINAGE AND SATURATED HYDRAULIC CONDUCTIVITY:
+Drainage class--well drained
+Saturated hydraulic conductivity (Ksat)--moderately high
+
+USE AND VEGETATION:
+Use--mainly timber production, livestock grazing, wildlife habitat, recreation, watershed
+Vegetation--ponderosa pine, grand fir, Douglas-fir, elk sedge, trailing snowberry, common prince's pine, pinegrass, sidebells pyrola
+
+DISTRIBUTION AND EXTENT: Eastern slopes of Cascade Mountains in south-central Washington; MLRA 3; small extent
+
+SOIL SURVEY REGIONAL OFFICE (SSRO) RESPONSIBLE: Portland, Oregon
+
+SERIES ESTABLISHED: Yakama Nation, Yakima County, Washington; 2014
+
+REMARKS:
+Diagnostic horizons and other features recognized in this pedon
+*Ochric epipedon
+*Cambic horizon--zone from 25 to 102 cm
+*Andic soil properties--zone from 8 to 165 cm
+*Particle-size control section--zone from 8 to 108 cm
+
+Tahkeal is the name of an original signer of the Yakama Treaty. It is a surname used by the Yakama Nation. The spelling is not consistent with the Yakama orthography; however, it is allowed as a show of respect to the Tahkeal family.
+
+National Cooperative Soil Survey
+U.S.A.

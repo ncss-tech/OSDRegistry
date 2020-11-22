@@ -1,0 +1,176 @@
+LOCATION KINNEY                 OR+WA
+
+Established Series
+Rev. WRP/JGM/KMS
+01/2017
+
+KINNEY SERIES
+
+Landscape--western Cascade Mountains
+Landform--ridges, uplands, mountain slopes, complex landslides, earthflows, structural benches
+Slope--0 to 90 percent
+Parent material--colluvium, earthflow deposits, or residuum derived from hard extrusive igneous rock and soft tuff mixed with volcanic ash in upper part
+Mean annual precipitation--1900 mm
+Mean annual air temperature--about 9 degrees C
+Depth class--deep, very deep
+Drainage class--well drained
+Soil moisture regime--udic
+Soil temperature regime--mesic
+Soil moisture subclass--typic
+
+TAXONOMIC CLASS: Fine-loamy, isotic, mesic Andic Humudepts
+
+TYPICAL PEDON: Kinney cobbly medial loam, forested
+
+ Oi--0 to 3 cm; slightly decomposed plant material consisting of ferns, fir needles, leaves, and twigs
+
+ Oa--3 to 5 cm; highly decomposed plant material, black (10YR 2/1) moist
+
+ A1--5 to 15 cm; cobbly medial loam, brown (10YR 4/3) dry, very dark brown (10YR 2/2) moist; moderate fine granular structure; slightly hard, friable, slightly sticky and slightly plastic; many fine and medium roots; many very fine irregular pores; many medium and fine shot; 15 percent gravel and 10 percent cobbles; strongly acid (pH 5.3); clear smooth boundary
+
+ A2--15 to 30 cm; cobbly medial loam, brown (10YR 4/3) dry, very dark brown (10YR 2/2) moist; moderate medium and fine granular structure; slightly hard, friable, slightly sticky and slightly plastic; many fine and very fine roots; many very fine irregular pores; many medium and fine shot; 15 percent gravel and 10 percent cobbles; strongly acid (pH 5.1); abrupt wavy boundary
+
+ 2BA--30 to 43 cm; cobbly clay loam, brown (10YR 4/3) dry, dark brown (10YR 3/3) moist; weak fine subangular blocky structure; slightly hard, friable, slightly sticky and slightly plastic; many medium to very fine roots; many very fine tubular pores; few thin darker colored coatings on surface of peds; many medium and fine shot; 15 percent gravel and 15 percent cobbles; strongly acid (pH 5.3); clear wavy boundary
+
+ 2Bw1--43 to 56 cm; very cobbly clay loam, brown (7.5YR 5/4) dry, dark brown (7.5YR 3/4) moist; weak medium subangular blocky structure; slightly hard, friable, moderately sticky and moderately plastic; common roots; many very fine tubular pores; thin continuous slightly darker coatings on peds; many coarse sand-sized particles of quartzlike material; 15 percent gravel and 15 percent cobbles; strongly acid (pH 5.3); gradual smooth boundary
+
+ 2Bw2--56 to 107 cm; very cobbly clay loam, yellowish brown (10YR 5/4) dry, dark yellowish brown (10YR 4/4) moist; weak coarse and medium subangular blocky structure; slightly sticky and slightly plastic; common roots; many very fine tubular pores; common coarse sand-sized particles of quartzlike material; 20 percent gravel and 15 percent cobbles; very strongly acid (pH 5.0); clear wavy boundary
+
+ 2C--107 to 140 cm; very cobbly loam, light yellowish brown (10YR 6/4) dry, dark yellowish brown (10YR 4/4) moist; massive; slightly hard, friable, slightly sticky and slightly plastic; few roots; many very fine pores; many coarse sand-sized particles of quartzlike material; 20 percent gravel and 15 percent cobbles; very strongly acid (pH 4.8); abrupt irregular boundary
+
+ 2Cr--140 cm; partially weathered basic igneous agglomerate, variegated light olive brown (2.5Y 5/4) dry, pale yellow (2.5Y 7/4), yellow (2.5Y 7/6), and dark red (2.5YR 3/6) moist; very strongly acid (pH 4.8)
+
+TYPE LOCATION: Marion County, Oregon, about 5 km southeast of the South Burn Guard Station, 18 m north of South Burn Road; in the NW1/4NE1/4SW1/4 of section 31, T. 8 S., R. 2 E; latitude 44.8336531, longitude -122.6163120, datum WGS 84 (coordinates estimated from PLSS details)
+
+RANGE IN CHARACTERISTICS:
+Dry days--less than 45 consecutive days following summer solstice
+Mean annual soil temperature--7 to 11 degrees C
+Thickness of umbric epipedon--25 to 50 cm (below mineral soil surface)
+Depth to paralithic contact--100 to 150 cm or more
+Thickness of andic soil properties--18 to 34 cm (below mineral soil surface)
+
+Estimated properties of zone with andic soil properties
+*1/3-bar bulk density--0.70 to 0.90 g/cm3
+*Phosphate retention--greater than 85 percent
+*Ammonium oxalate extractable Al +  Fe--2 to 4 percent
+*15-bar water retention--30 to 70 percent (undried samples), greater than 15 percent (dried samples)
+*0.02- to 2.0-mm fraction--greater than 30 percent
+*Volcanic glass content in 0.02- to 2.0-mm fraction--5 to 30 percent in Willamette National Forest; unknown in Douglas, Lane, Linn, Marion, Clackamas, Clark, and Skamania Counties
+
+Particle-size control section
+*Clay content--18 to 35 percent
+*Content of sand coarser than very fine sand--more than 15 percent
+*Total fragment content--0 to 35 percent
+
+O horizon
+*Thickness--3 to 10 cm
+
+A horizon
+*Hue--7.5YR, 10YR
+*Value--2 or 3 moist, 3 to 5 dry
+*Chroma--2 to 4 dry or moist
+*Fine-earth texture--medial loam, medial silt loam
+*Clay content--18 to 27 percent
+*Sand content--30 to 50 percent
+*Total fragment content--0 to 35 percent
+*Gravel content--0 to 25 percent
+*Cobble content--0 to 20 percent
+*Reaction--4.5 to 6.5
+*Thickness--18 to 36 cm
+
+2BA horizon
+*Hue--7.5YR, 10YR
+*Value--2 or 3 moist, 3 to 5 dry
+*Chroma--2 to 4 dry or moist
+*Fine-earth texture--loam, silt loam, clay loam
+*Clay content--18 to 30 percent
+*Sand content--30 to 50 percent
+*Total fragment content--0 to 35 percent
+*Gravel content--0 to 20 percent
+*Cobble content--0 to 20 percent
+*Reaction--4.5 to 6.5
+*Thickness--0 to 20 cm
+
+2Bw horizon
+*Hue--5YR to 10YR
+*Value--3 to 6 moist, 4 to 6 dry
+*Chroma--2 to 4 dry or moist
+*Fine-earth texture--loam, silt loam, clay loam
+*Clay content--18 to 35 percent
+*Sand content--20 to 50 percent
+*Total fragment content--0 to 35 percent
+*Gravel content--0 to 25 percent
+*Cobble content--0 to 20 percent
+*Stone content--0 to 5 percent
+*Reaction--4.5 to 6.0
+*Thickness--50 to 150 cm
+
+2C horizon
+*Hue--5YR to 10YR
+*Value--3 to 6 moist, 4 to 6 dry
+*Chroma--4 to 8 dry or moist
+*Fine-earth texture--loam, silt loam, clay loam
+*Clay content--18 to 40 percent
+*Sand content--20 to 50 percent
+*Total fragment content--0 to 45 percent
+*Gravel content--0 to 25 percent
+*Cobble content--0 to 20 percent
+*Stone content--0 to 5 percent
+*Reaction--3.5 to 6.0
+
+COMPETING SERIES:
+Bohannon--moderately deep to paralithic contact
+Gobar--less than 10 percent lithic fragments
+Hembre, Preacher--no volcanic glass in layers with andic soil properties
+
+GEOGRAPHIC SETTING:
+Elevation--200 to 1200 m
+Climate--warm, wet winters; hot, moist summers
+Mean annual precipitation--1400 to 2300 mm
+Frost-free period--100 to 200 days
+
+GEOGRAPHICALLY ASSOCIATED SOILS:
+Blachly--ochric epipedon; fine particle-size class; hue of 5YR or redder
+Harrington--skeletal; moderately deep to lithic bedrock
+Kilchis--skeletal; shallow to lithic bedrock
+McCully--fine particle-size class; hue of 5YR or redder
+Minniece--fine particle-size class; poorly drained or somewhat poorly drained
+Quartzville--fine particle-size class
+
+DRAINAGE AND SATURATED HYDRAULIC CONDUCTIVITY:
+Drainage class--well drained
+Saturation in normal years--none
+Flooding--none
+Ponding--none
+Saturated hydraulic conductivity (Ksat)--moderately high
+
+USE AND VEGETATION:
+Use--timber production, wildlife habitat, recreation
+Potential natural vegetation--Douglas-fir, western hemlock, vine maple, salal, swordfern, brackenfern
+
+DISTRIBUTION AND EXTENT: Foothills of western Cascade Mountains in Oregon and Washington; MLRA 3; large extent
+
+MLRA SOIL SURVEY REGIONAL OFFICE (MO) RESPONSIBLE: Portland, Oregon
+
+SERIES ESTABLISHED: Marion County, Oregon; 1974
+
+REMARKS:
+Diagnostic horizons and features recognized in this pedon
+*Umbric epipedon--zone from 5 to 43 cm
+*Cambic horizon--zone from 43 to 107 cm
+*Andic soil properties--zone from 5 to 30 cm
+*Volcanic glass--zone from 5 to 30 cm
+*Depth to lithologic discontinuity--30 cm
+*Depth to paralithic contact--140 cm
+
+7/2016--Assumed layers with andic soil properties meet criteria 2 (no ash required) in the 12th edition of Keys to Soil Taxonomy. It is also assumed that enough ash is present for those layers to meet criteria 3. Additional lab data is needed to confirm the degree of ash influence. The Kinney series has been mapped in Clackamas, Clark, Douglas, Lane, Linn, Marion, and Skamania Counties. Ash influence has been recognized in some of these counties, but not in all of them. The series has also been mapped on granodiorite in Skamania County and as formed in till in Lane and Marion Counties. Future investigation is needed to confirm the extent of the volcanic ash influence and to determine the correct parent material.
+
+Climate and elevation data suggest that the Kinney series has been mapped across both mesic and frigid temperature regimes. Further investigation is needed to determine if the soils at the higher elevations should be correlated to the similar Browder series in the frigid zone.
+
+The Gobar series is similar to the Kinney series; it should be reviewed for potential correlation into the Kinney series.
+
+ADDITIONAL DATA: 
+Characterization data--two profiles (S60 Oregon 24-1) for soil sampled in Marion County, Oregon; Riverside Soil Survey Laboratory; 1960
+
+National Cooperative Soil Survey
+U.S.A.

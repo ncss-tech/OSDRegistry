@@ -1,0 +1,138 @@
+LOCATION BANDARROW              OR
+
+Established Series
+Rev. JLW/RJO/DAL/KMS
+11/2018
+
+BANDARROW SERIES
+
+Landscape--mountains
+Landform--flood plains and meadows of mountain valleys, plateaus
+Slope--0 to 30 percent
+Parent material--alluvium derived from mixed sources
+Mean annual precipitation--about 860 mm
+Mean annual air temperature--about 4 degrees C
+Depth class--very deep
+Drainage class--poorly drained
+Soil moisture regime--aquic
+Soil temperature regime--cryic
+Soil moisture subclass--typic
+
+TAXONOMIC CLASS: Coarse-loamy, mixed, superactive Typic Cryaquolls
+
+TYPICAL PEDON: Bandarrow silt loam in a wet meadow, on a 0-percent slope at an elevation of 1500 m (Soil textures are apparent field textures.)
+
+ A--0 to 25 cm; silt loam, brown (7.5YR 5/2) dry, very dark grayish brown (10YR 3/2) moist; moderate fine granular structure; hard, friable, slightly sticky and slightly plastic; common very fine, fine, and medium roots; common very fine, fine, and medium tubular pores; strongly acid (pH 5.5); clear wavy boundary
+
+ AC--25 to 48 cm; silt loam, pinkish gray (7.5YR 6/2) dry, brown (7.5YR 4/2) moist; coarse faint dark gray (10YR 4/1) mottles; moderate very fine and fine subangular blocky structure; slightly hard, friable, slightly sticky and slightly plastic; common very fine, fine, and medium roots; common very fine and fine tubular pores; moderately acid (pH 6.0); clear wavy boundary
+
+ C1--48 to 76 cm; loam, pinkish gray (7.5YR 7/2) dry, brown (7.5YR 4/2) moist; weak medium angular blocky structure parting to weak fine angular blocky; hard, firm, slightly sticky and slightly plastic; common very fine roots; fine distinct reddish brown (5YR 4/4) mottles; slightly acid (pH 6.5); clear smooth boundary
+
+ C2--76 to 150 cm; very gravelly loamy sand, pinkish gray (7.5YR 6/2) dry, brown (7.5YR 4/3) moist; single grain; soft, loose, nonsticky and nonplastic; 10 percent cobbles and 40 percent gravel, by volume; slightly acid (pH 6.3)
+
+TYPE LOCATION: Umatilla County, Oregon; in the SE1/4NW1/4NW1/4 of section 32, T. 6 S., R. 34 E.; latitude 45.0099053, longitude -118.6557751, datum WGS 84 (coordinates estimated from PLSS details)
+
+RANGE IN CHARACTERISTICS:
+Mean annual soil temperature--3 to 6 degrees C
+Mean summer soil temperature--7 to 11 degrees C
+Mean winter soil temperature--0 to 2 degrees C
+Soil moisture--dry less than 25 days in summer
+Thickness of mollic epipedon--25 to 40 cm
+Depth to aquic conditions--25 to 40 cm
+Organic carbon content--regular decrease as depth increases
+
+Particle-size control section
+*Clay content--3 to 15 percent
+*Total rock fragment content--5 to 20 percent
+
+A horizon
+Hue--7.5YR, 10YR
+Value--2 to 3 moist, 3 to 5 dry
+Chroma--1 or 2 moist or dry
+Fine-earth texture--silt, silt loam
+Clay content--1 to 22 percent
+Sand content--5 to 35 percent
+Organic matter content--2.5 to 8.0 percent
+Reaction--5.1 to 6.0
+
+AC horizon
+Hue--7.5YR, 10YR
+Value--2 to 3 moist, 4 to 5 dry
+Fine-earth texture--silt loam, sandy loam
+Clay content--2 to 22 percent
+Sand content--20 to 60 percent
+Organic matter content--2.5 to 8.0 percent
+Reaction--5.6 to 6.5
+
+C1 horizon
+Hue--7.5YR, 10YR
+Value--3 or 4 moist
+Chroma--2 or 3 moist or dry
+Fine-earth texture--silt loam, sandy loam
+Clay content--3 to 18 percent
+Sand content--35 to 60 percent
+Organic matter content--0 to 1 percent
+Reaction--6.1 to 7.3
+
+C2 horizon
+Hue--7.YR, 10YR
+Value--3 or 4 moist
+Chroma--2 or 3 moist or dry
+Fine-earth texture--sandy loam, loamy sand
+Clay content--2 to 17 percent
+Sand content--65 to 80 percent
+Organic matter content--0 to 1 percent
+Total rock fragment content--30 to 55 percent
+Gravel content--25 to 40 percent
+Cobble content--5 to 15 percent
+Stone content--0 to 4 percent
+Reaction--6.1 to 7.3
+
+COMPETING SERIES: 
+Fourlo--mollic epipedon 50 to 150 cm thick
+Habenome--irregular decrease in organic carbon content as depth increases
+Rosane--hue of 5Y or 2.5Y; sandy-skeletal material at a depth of 60 to 100 cm
+Venapass--mollic epipedon 40 to 60 cm thick; neutral or slightly alkaline
+
+GEOGRAPHIC SETTING: 
+Elevation--1190 to 2290 m
+Climate--cold, wet winters; cool, moist summers
+Mean annual precipitation--390 to 1430 mm
+Mean annual air temperature--1 to 7 degrees C
+Frost-free period--15 to 75 days
+
+GEOGRAPHICALLY ASSOCIATED SOILS: 
+Bodale--on high terraces of narrow mountain valley floors; under subalpine fir
+Broadycreek--on low terraces of mountain valley floors
+Bucketlake--on moraines of mountain valley floors; thick mantle of volcanic ash
+Digit--on high alluvial terraces; thick mantle of volcanic ash; under grand fir
+Icedee--on mountain slopes; thick ash mantle; under lodgepole pine or subalpine fir
+Melloe--on wet mountain meadows and flood plains of broad mountain valley floors
+Tamara--on mountain slopes; thick mantle of volcanic ash
+Troutmeadows--on mountain slopes and dissected plateaus; thick mantle of volcanic ash
+
+DRAINAGE AND SATURATED HYDRAULIC CONDUCTIVITY:
+Saturation during normal years--at a depth of 76 cm or more in February, July, and August; at a depth of 23 cm or more in March through June
+Flooding--occasional, brief periods in February through August
+Ponding--none
+Saturated hydraulic conductivity (Ksat)--moderately high over high or very high
+
+USE AND VEGETATION:
+Use--watershed, wildlife habitat, recreation, livestock grazing
+Potential native vegetation--Engelmann spruce, subalpine fir, lodgepole pine, grand fir, western larch, whitebark pine, tufted hairgrass, Cusick's sedge, meadow foxtail, sedge, beaked sedge, Columbia brome, water sedge, blister sedge, Ross' sedge, American bistort, western Jacob's-ladder, Kentucky bluegrass, camas, horsetail, buttercup, western needlegrass, sandwort, Hood sedge, reedgrass
+
+DISTRIBUTION AND EXTENT: Blue Mountains of northeastern Oregon; MLRA 10; small extent
+
+SOIL SURVEY REGIONAL OFFICE (SSRO) RESPONSIBLE: Portland, Oregon
+
+SERIES ESTABLISHED: Wallowa-Whitman National Forest, Oregon; 2012
+
+REMARKS: 
+Diagnostic horizons and other features recognized in this pedon
+*Mollic epipedon--zone from the surface to a depth of 25 cm
+*Cambic horizon--zone from 25 to 76 cm
+*Particle-size control section--zone from 25 to 100 cm
+*Depth to aquic conditions--25 cm
+
+National Cooperative Soil Survey
+U.S.A.

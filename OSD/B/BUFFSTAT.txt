@@ -1,0 +1,188 @@
+LOCATION BUFFSTAT               VA
+
+Established Series
+SKT-WJE-MHC/Rev.DTA
+03/2008
+
+BUFFSTAT SERIES
+
+MLRA(s): 136, 148
+MLRA SOIL SURVEY REGIONAL OFFICE (MO) RESPONSIBLE: Raleigh, North Carolina
+Depth Class: Deep
+Drainage Class (Agricultural): Well drained
+Internal Free Water Occurrence: Very deep
+Index Surface Runoff: Low to high
+Permeability: Moderate
+Landscape: Piedmont
+Landform: Hill, ridge
+Hillslope Profile Position: Summitt, shoulder, back slope
+Geomorphic Component: Interfluve, side slope
+Parent Material: Residuum, sericite schist. graphitic schist, or phyllite 
+Slope: 0 to 60 percent
+Elevation (type location): 400 to 1400 feet
+Mean Annual Air Temperature (type location): 55 degrees F.
+Mean Annual Precipitation (type location): 42 inches 
+
+TAXONOMIC CLASS: Fine, mixed, semiactive, mesic Typic Hapludults 
+
+TYPICAL PEDON: Buffstat silt loam - on a 11 percent slope in a loblolly pine plantation. (Colors are for moist soil.) 
+
+  Ap--0 to 4 inches; dark yellowish brown (10YR 4/4) silt loam; weak fine granular structure; friable, slightly sticky, slightly plastic; many fine, medium, and coarse roots; 10 percent gravel; few fine flakes of mica; strongly acid; clear smooth boundary. (0 to 7 inches thick.) 
+
+  Bt1--4 to 8 inches; reddish yellow (7.5YR 6/6) silty clay loam; weak fine subangular blocky structure; friable, slightly sticky, slightly plastic; many fine, medium, and coarse roots; 10 percent gravel; common fine flakes of mica; many distinct clay films on faces of peds; strongly acid; clear wavy boundary. 
+
+  Bt2--8 to 28 inches; strong brown (7.5YR 5/8) silty clay loam; moderate fine and medium subangular blocky structure; friable, slightly sticky, slightly plastic; common fine, medium, and coarse roots; 10 percent gravel; common fine flakes of mica; many distinct clay films on faces of peds; strongly acid; clear wavy boundary. 
+
+  Bt3--28 to 42 inches; reddish yellow (7.5YR 6/8) channery clay; weak medium subangular blocky structure; firm, slightly sticky, slightly plastic; 30 percent channers; clay films on vertical faces of peds; many fine flakes of mica; strongly acid; abrupt smooth boundary. (Combined thickness of the Bt horizons is 20 to 45 inches). 
+
+  Cr--42 to 58 inches; slightly weathered sericite schist. 
+
+  R--58 inches; unweatherd sericite schist. 
+
+TYPE LOCATION: Nelson County, Virginia; about 0.8 miles northwest (294 degrees) of the intersection of Highways VA-626 and VA-56, and 1.4 miles south (160 degrees) of the intersection of Highways VA-56 and VA-646.
+ 
+RANGE IN CHARACTERISTICS: 
+Depth to Soft Bedrock: 40 to 60 inches
+Depth to Hard Bedrock: 40 to 60 inches
+Depth to Seasonal High Water Table: Greater than 60 inches
+Rock Fragment content: Schist or quartz gravel or channers, 0 to 35 percent, by volume, in the A, Ap, E, and Bt horizons; 0 to 50 percent in the BC and C horizons
+Soil Reaction: Very strongly acid or strongly acid, except where limed
+Other Features: Finely divided mica flakes are common to many throughout the soil 
+
+RANGE OF INDIVIDUAL HORIZONS: 
+A horizon (if it occurs):
+Color--hue of 7.5YR or 10YR, value of 2 through 5, and chroma of 2 through 4 
+Texture (fine-earth fraction)--silt loam, loam or fine sandy loam 
+
+Ap horizon:
+Color--hue of 7.5YR or 10YR, value of 4 or 5, and chroma of 2 through 6 
+Texture (fine-earth fraction)--silt loam, loam, or fine sandy loam 
+
+E horizon (if it occurs):
+Color--hue of 7.5YR or 10YR, value of 4 through 6, and chroma of 4 through 6 
+Texture (fine-earth fraction)--silt loam, loam, or fine sandy loam 
+Mottles (if they occur)--red, yellow, or brown 
+
+Bt horizon:
+Color--hue of 5YR through 10YR, value of 4 through 6, and chroma of 4 through 8 
+Texture (fine-earth fraction)--clay loam, silty clay loam, silty clay, or clay; more than 30 percent silt in particle-size control section 
+
+BC horizon (if it occurs):
+Color--hue of 2.5YR through 10YR, value of 4 through 6, and chroma of 4 through 8 
+Texture (fine-earth fraction)--loam, silt loam, silty clay loam, or clay loam 
+
+C horizon (it it occurs):
+Color--hue of 10R through 10YR, value of 3 or 4, and chroma of 4 through 6 
+Texture (fine-earth fraction)--loam, silt loam, silty clay loam, or clay loam saprolite 
+
+Cr horizon:
+Type of bedrock--weathered, fractured schist
+
+R horizon:
+Type of bedrock--unweathered schist 
+
+COMPETING SERIES:
+Braddock soils-very deep and formed in colluvium and alluvium from crystalline rocks
+Buckhall soils-very deep and formed in residuum from granite gneiss and schist of the Northern Piedmont Plateau.
+Casville soils-very deep and formed in residuum from felsic or intermediate igneous and metamorphic rock of the mesic Southern Piedmont.
+Clifton soils-very deep and formed in residuum in low mountains of the Blue Ridge
+Clover soils-very deep and formed in residuum from Triassic rock materials
+Danripple soils-very deep and formed in old alluvium on stream terraces of the Piedmont
+Goresville soils-very deep and formed in old alluvium and the underlying red siltstone, shale, or fine-grained sandstone residuum, on high stream terraces
+Mount Rush soils-moderately deep and formed in residuum from mixed felsic and mafic metamorphic and igneous rocks
+Spears Mountain soils-moderately deep
+Totier soils-formed in residuum from Triassic red shale
+Unison soils-very deep and formed in colluvium and alluvium from crystalline rocks on footslopes, alluvial fans, or stream terraces
+Yellowbottom-Very deep 
+
+GEOGRAPHIC SETTING:
+Landscape: Piedmont
+Landform: Hill, ridge
+Hillslope Profile Position: Summitt, shoulder, back slope
+Geomorphic Component: Interfluve, side slope
+Parent Material: Residuum, sericite schist or graphitic schist 
+Elevation: 400 to 1400 feet
+Mean Annual Air Temperature: 52 to 57 degrees
+Mean Annual Precipitation: 36 to 45 inches
+Frost Free Period: 150 to 200 days 
+
+GEOGRAPHICALLY ASSOCIATED SOILS:
+Appomattox soils-very deep, moderately slow permeability
+Bentley soils-very deep, moderately slow to slow permeability
+Bugley soils-shallow to same bedrock
+Penhook soils-very deep
+Littlejoe soils-deep to same bedrock, redder hues
+Strawfield soils-moderately deep to same bedrock 
+
+DRAINAGE AND PERMEABILITY:
+Drainage class (Agricultural): Well drained
+Index Surface Runoff: Slow to high
+Internal Free Water Occurrence: Very deep
+Permeability: Moderate 
+
+USE AND VEGETATION:
+Major Uses: Hay, pasture, and woodland
+Dominant Vegetation: Where cultivated--Hay. Where wooded-Northern red oak, scarlet oak, chestnut oak. 
+
+DISTRIBUTION AND EXTENT:
+Distribution: Virginia
+Extent: Moderate 
+
+MLRA SOIL SURVEY REGIONAL OFFICE (MO) RESPONSIBLE: Raleigh, North Carolina 
+
+SERIES ESTABLISHED: Nelson County, Virginia, 1988. 
+
+REMARKS: Buffstat soils were previously mapped as Nason, a thermic counterpart. 
+
+Diagnostic horizons and soil characteristics recognized in this pedon are:
+Ochric epipedon--the zone from 0 to 4 inches (Ap horizon)
+Argillic horizon--the zone from 4 to 42 inches (Bt horizons)
+Paralithic contact-42 inches
+Lithic contact-58 inches
+Series control section--the zone from 0 to 52 inches 
+
+ADDITIONAL DATA: Ranges for morphology, chemistry, particle-size distribution, and mineralogy are based on 2 pedons and the thermic counterpart to this soil 
+Data Map Unit ID (type location): 00000 
+
+TABULAR SERIES DATA: 
+SOI-5  Soil Name   Slope  Airtemp  FrFr/Seas Precip  Elevation
+VA0329 BUFFSTAT    0-60   52-57    180-210   36-45   350-1000
+VA0330 BUFFSTAT    0-60   52-57    180-210   36-45   350-1000
+
+SOI-5  FloodL FloodH Watertable Kind   Months  Bedrock Hardness 
+VA0329 NONE          >6.0                -     40-60   HARD
+VA0330 NONE          >6.0                -     40-60   HARD
+
+SOI-5  Depth  Texture                3-Inch  No-10  Clay%   -CEC-
+VA0329  0- 4  L SIL VFSL              0-  5  75-100 10-27    -
+VA0329  0- 4  FSL                     0-  5  75-100  5-20    -
+VA0329  0- 4  SICL CL                 0-  5  75-100 27-40    -
+VA0329  4-42  SICL C GR-SIC           0-  5  50-100 35-50    -
+VA0329 42-58  WB                       -       -      -      -
+VA0329 58-68  UWB                      -       -      -      -
+
+VA0330  0- 4  CN-L CN-SIL CN-VFSL     0- 10  55- 75  6-12    -
+VA0330  0- 4  CN-FSL                  0- 10  55- 75  6-12    -
+VA0330  0- 4  CN-SICL                 0- 10  55- 75 28-35    -
+VA0330  4-42  SICL SIC C              0-  5  75-100 28-53    -
+VA0330 42-58  WB                       -       -      -      -
+VA0330 58-68  UWB                      -       -      -      -
+
+SOI-5  Depth    -pH-     O.M.  Salin  Permeab   Shnk-Swll
+VA0329  0- 4  4.5- 6.5  1.-2.  0- 0   0.6- 2.0  LOW
+VA0329  0- 4  4.5- 6.5  1.-2.  0- 0   0.6- 2.0  LOW
+VA0329  0- 4  4.5- 6.5  .5-1.  0- 0   0.6- 2.0  LOW
+VA0329  4-42  4.5- 5.5  0.-.5  0- 0   0.6- 2.0  MODERATE
+VA0329 42-58     -        -     -    0.00-0.06
+VA0329 58-68     -        -     -    0.00-0.01
+
+VA0330  0- 4  4.5- 6.5  1.-2.  0- 0   0.6- 2.0  LOW
+VA0330  0- 4  4.5- 6.5  1.-2.  0- 0   0.6- 2.0  LOW
+VA0330  0- 4  4.5- 6.5  .5-1.  0- 0   0.6- 2.0  LOW
+VA0330  4-42  4.5- 5.5  0.-0.  0- 0   0.6- 2.0  MODERATE
+VA0330 42-58     -        -     -    0.00-0.06
+VA0330 58-68     -        -     -        -
+
+
+National Cooperative Soil Survey
+U.S.A.

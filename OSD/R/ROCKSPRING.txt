@@ -1,0 +1,114 @@
+LOCATION ROCKSPRING             WA
+
+Established Series
+IRD. SDH/TLS/JMB/SBC
+09/2019
+
+ROCKSPRING SERIES
+
+Landscape--plateaus, hills
+Landform--mesas, structural benches, hillslopes
+Slope--0 to 12 percent
+Parent material--loess over basalt
+Mean annual precipitation--about 230 to 310 mm
+Mean annual air temperature--about 9 degrees C
+Depth class--moderately deep
+Drainage class--well drained
+Soil moisture regime--aridic
+Soil temperature regime--mesic
+Soil moisture subclass--xeric
+
+TAXONOMIC CLASS: Fine-silty, mixed, superactive, mesic Calciargidic Argixerolls
+
+TYPICAL PEDON: Rockspring silt loam in an area of rangeland, on a 3-percent, north-facing slope
+
+ A1--0 to 8 cm; silt loam, brown (10YR 5/3) dry, dark brown (10YR 3/3) moist; moderate very thin and thin platy structure; soft, very friable, nonsticky and nonplastic; common fine and medium roots; common very fine and fine pores; neutral (pH 7.0); clear smooth boundary
+
+ A2--8 to 18 cm; silt loam, brown (10YR 5/3) dry, dark brown (10YR 3/3) moist; moderate thin and medium platy structure; soft, very friable, nonsticky and nonplastic; common fine and medium roots; common very fine and fine pores; neutral (pH 7.0); clear smooth boundary
+
+ AB--18 to 30 cm; silt loam, brown (10YR 5/3) dry, dark brown (10YR 3/3) moist; moderate medium prismatic structure parting to weak medium subangular blocky; soft, friable, nonsticky and nonplastic; common fine and medium roots; common very fine and fine pores; neutral (pH 7.0); abrupt smooth boundary
+
+ Bt1--30 to 56 cm; silty clay loam, brown (10YR 5/3) dry, dark brown (10YR 3/3) moist; strong fine and medium subangular blocky structure; hard, very firm, sticky and plastic; common fine and medium roots; common very fine and fine pores; common moderately thick clay films on faces of peds and in pores; slightly alkaline (pH 7.6); gradual wavy boundary
+
+ Bt2--56 to 71 cm; silt loam, brown (10YR 5/3) dry, brown (10YR 4/3) moist; moderate medium subangular blocky structure; slightly hard, firm, slightly sticky and slightly plastic; few thin clay films on faces of peds and in pores; common fine and medium roots; common very fine and fine pores; slightly alkaline (pH 7.6); abrupt smooth boundary
+
+ 2Bk--71 to 91 cm; extremely cobbly clay loam, very pale brown (10YR 7/3) dry, brown (10YR 5/3) moist; strong medium angular blocky structure; hard, very firm, sticky and plastic; common fine and medium roots; common very fine and fine pores; 30 percent gravel and 50 percent cobbles; violently effervescent on faces of peds, strongly effervescent in interior of peds; coatings of soft carbonates on faces of peds; moderately alkaline (pH 8.2); abrupt smooth boundary
+
+ 2R--91 cm; fractured basalt
+
+TYPE LOCATION: Yakama Nation, Yakima County, Washington, about 27 km southwest of Toppenish; about 610 m west and 180 m north of the southeast corner of section 35, T. 8 N., R. 19 E.; latitude 46.1302778, longitude -120.3955556, datum WGS 84 (coordinates estimated from section, township, and range)
+
+RANGE IN CHARACTERISTICS:
+Mean annual soil temperature at a depth of 50 cm--9 to 13 degrees C
+Soil moisture--dry more than one-half the time the soil temperature is 5 degrees C or higher (about 105 to 120 consecutive days), moist in winter and early in spring in most years
+Depth to secondary carbonates--38 to 97 cm
+Depth to basalt--50 to 100 cm
+Thickness of mollic epipedon--18 to 50 cm
+Organic matter content--less than 1 percent in areas where mollic colors extend below a depth of 100 cm
+Clay content in argillic horizon--18 to 35 percent
+
+A horizon
+Value--4 or 5 dry, 2 or 3 moist
+Chroma--2 or 3 dry or moist
+Reaction--6.6 to 7.8
+Combined thickness--18 to 36 cm
+
+AB horizon
+Thickness--10 to 15 cm
+
+Bt horizon
+Value--5 or 6 dry, 3 or 4 moist
+Chroma--2 or 3 dry or moist
+Texture--silty clay loam, silt loam
+Reaction--7.4 to 8.4
+Combined thickness--33 to 53 cm
+
+2Bk horizon
+Value--5 to 7 dry, 3 or 4 moist
+Chroma--3 or 4 dry or moist
+Texture--loam, clay loam, silt loam, silty clay loam
+Rock fragment content--20 to 80 percent gravel and cobbles
+Calcium carbonate equivalent--15 to 35 percent
+Reaction--7.9 to 9.0
+Thickness--13 to 20 cm
+
+COMPETING SERIES:
+Hamrub--100 to 125 cm (deep) to a duripan
+Kimama--no lithic contact within a depth of more than 150 cm
+Marley--104 to 150 cm (deep) to a duripan
+Polecat--100 to 150 cm (deep) to a paralithic contact (lacustrine deposits); 0 to 5 percent rock fragments throughout
+
+GEOGRAPHIC SETTING:
+Elevation--460 to 875 m
+Mean annual precipitation--230 to 310 mm
+Mean annual air temperature--8 to 9 degrees C
+Frost-free season--100 to 145 days
+
+GEOGRAPHICALLY ASSOCIATED SOILS:
+Caliralls--no lithic contact within a depth of 100 cm or more
+Prosser--coarse-loamy; no mollic epipedon or argillic horizon
+Zen--fine-loamy; no lithologic discontinuity above lithic contact
+
+DRAINAGE AND SATURATED HYDRAULIC CONDUCTIVITY:
+Drainage class--well drained
+Saturated hydraulic conductivity (Ksat)--moderately high
+
+USE AND VEGETATION:
+Use--livestock grazing, wildlife habitat
+Vegetation--bluebunch wheatgrass, Sandberg bluegrass, Wyoming big sagebrush
+
+DISTRIBUTION AND EXTENT: South-central Washington in Yakima County, Washington; MLRA 8; small extent
+
+SOIL SURVEY REGIONAL OFFICE (SSRO) RESPONSIBLE: Portland, Oregon
+
+SERIES ESTABLISHED: Yakama Nation, Yakima County, Washington; 2014
+
+REMARKS:
+Diagnostic horizons and other features recognized in this pedon
+*Mollic epipedon--zone from the surface to a depth of 30 cm
+*Argillic horizon and particle-size control section--zone from 30 to 71 cm
+*Calcic horizon--zone from 71 to 91 cm
+*Depth to lithic contact--91 cm
+
+National Cooperative Soil Survey
+U.S.A.

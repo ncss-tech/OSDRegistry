@@ -1,0 +1,128 @@
+LOCATION HORSEFLAT              WA
+
+Established Series
+Rev. HRG/TFC/KWH/RWL
+09/2019
+
+HORSEFLAT SERIES
+
+Landscape--plateaus, hills, canyonlands
+Landform--structural benches, hillslopes, ridges, canyons
+Slope--0 to 65 percent
+Parent material--colluvium and residuum derived from loess and basalt
+Mean annual precipitation--about 250 mm
+Mean annual air temperature--about 9 degrees C
+Depth class--shallow
+Drainage class--well drained
+Soil moisture regime--aridic
+Soil temperature regime--mesic
+Soil moisture subclass--xeric
+
+TAXONOMIC CLASS: Loamy-skeletal, mixed, superactive, mesic Aridic Lithic Argixerolls
+
+TYPICAL PEDON: Horseflat very cobbly loam in an area of rangeland, on a 38-percent, north-facing slope at an elevation of 610 m (All textures are apparent field textures.)
+
+ A--0 to 10 cm; very cobbly loam, brown (10YR 5/3) dry, dark brown (10YR 3/3) moist; moderate fine and medium granular structure; soft, friable, nonsticky and nonplastic; many very fine roots; few very fine irregular pores; 20 percent gravel and 25 percent cobbles; slightly alkaline (pH 7.4); clear smooth boundary
+
+ AB--10 to 23 cm; very gravelly loam, brown (10YR 5/3) dry, dark brown (10YR 3/3) moist; moderate fine and medium subangular blocky structure; slightly hard, friable, slightly sticky and slightly plastic; common very fine roots; few very fine irregular pores; 30 percent gravel and 10 percent cobbles; slightly alkaline (pH 7.4); clear wavy boundary
+
+ Bt--23 to 41 cm; extremely gravelly loam, brown (10YR 5/3) dry, dark brown (10YR 3/3) moist; moderate medium subangular blocky structure; hard, firm, slightly sticky and slightly plastic; few very fine roots; few very fine tubular pores; common distinct clay films on faces of peds; 50 percent gravel and 15 percent cobbles; slightly alkaline (pH 7.4); abrupt irregular boundary
+
+ R--41 cm; basalt; silica coatings on 30 percent of surface area
+
+TYPE LOCATION: Kittitas County, Washington, about 370 m south and 880 m east of the northwest corner of section 31, T. 16 N., R. 23 E.; Beverly U.S. Geological Survey topographic quadrangle; latitude 46.837087, longitude -119.989732, datum WGS 84 (coordinates estimated from section, township, and range)
+
+RANGE IN CHARACTERISTICS:
+Mean annual soil temperature--8 to 12 degrees C
+Soil moisture control section--dry more than one-half the time when the soil temperature at the lithic contact is higher than 4 degrees C
+Clay content in particle-size control section--23 to 33 percent
+Rock fragment content in particle-size control section--35 to 85 percent
+Depth to bedrock--30 to 50 cm
+Thickness of mollic epipedon--20 to 45 cm; includes all or part of argillic horizon
+Estimated organic matter content--1 to 2 percent
+Reaction--6.6 to 7.8 throughout
+
+A horizon
+Hue--10YR, 7.5YR
+Value--4 or 5 dry, 2 or 3 moist
+Chroma--2 to 4 dry, 2 or 3 moist
+Thickness--5 to 13 cm
+
+AB horizon
+Hue--10YR, 7.5YR
+Value--4 to 6 dry, 2 to 4 moist
+Chroma--2 to 4 dry or moist
+Texture of fine-earth fraction--clay loam, cobbly loam
+Gravel content--15 to 35 percent
+Cobble content--0 to 20 percent
+Thickness--10 to 20 cm
+
+Bt horizon
+Hue--10YR, 7.5YR
+Value--3 to 6 dry
+Chroma--2 to 4 dry or moist
+Texture of fine-earth fraction--loam, clay loam
+Gravel content--25 to 60 percent
+Cobble content--10 to 25 percent
+Thickness--8 to 25 cm
+
+C horizon (where present)
+Hue--10YR, 7.5YR
+Value--3 to 6 dry
+Chroma--2 to 4 dry or moist
+Texture of fine-earth fraction--loam, clay loam
+Gravel content--25 to 60 percent
+Cobble content--10 to 25 percent
+
+COMPETING SERIES:
+Argabak--10 to 30 cm (very shallow, shallow) to a lithic contact (basalt)
+Bellehelen--dry in summer and fall except 10 to 20 days cumulatively in July through October due to convection storms
+Brier--dry in summer and fall except 10 to 20 days cumulatively in July through October due to convection storms
+Duco--fractured andesitic or rhyolitic rock with illuvial clay; no secondary silica coatings on 30 percent of surface of bedrock; no transitional AB horizon; 35 percent rock fragments or less in upper part of argillic horizon
+Nuhelen--15 to 30 percent volcanic glass throughout
+Ocud--no secondary silica coatings in fractures of bedrock
+Orhood--no secondary silica coatings in fractures of bedrock; mean annual soil temperature higher than 5 degrees C from March 15 through December; 5 to 10 percent stones throughout
+Reywat--dry less than 80 consecutive days following summer solstice
+Upatad--5 to 15 percent silica concretions and lime coatings on rock fragments in 2Btk horizon
+
+GEOGRAPHIC SETTING:
+Elevation--75 to 1000 m
+Mean annual precipitation--230 to 360 mm
+Mean January air temperature--about -4 degrees C
+Mean July air temperature--about 21 degrees C
+Mean annual air temperature--about 8 to 11 degrees C
+Frost-free season--120 to 180 days
+
+GEOGRAPHICALLY ASSOCIATED SOILS:
+Argabak--on ridges and benches; 10 to 30 cm (very shallow, shallow) to a lithic contact (basalt)
+Benwy--on old alluvial fans
+Grinrod--on footslopes and side slopes
+Norod--on hillslopes; 65 to 100 cm (moderately deep) to a lithic contact (basalt)
+Ralls, Ralock--on hillslopes; fine-loamy particle-size class; no lithic contact within a depth of more than 150 cm
+Vantage--on plateaus and ridgetops; clayey-skeletal particle-size class; 28 to 50 cm (shallow) to a lithic contact (basalt)
+Winblow--50 to 100 cm (moderately deep) to a lithic contact (basalt); ashy particle-size class; on mounds
+Zen--on hillslopes; 50 to 100 cm (moderately deep) to a lithic contact (basalt)
+
+DRAINAGE AND SATURATED HYDRAULIC CONDUCTIVITY:
+Drainage class--well drained
+Saturated hydraulic conductivity (Ksat)--moderately high
+
+USE AND VEGETATION:
+Use--mainly livestock grazing and wildlife habitat
+Native vegetation--Sandberg bluegrass, bluebunch wheatgrass, rock eriogonum, Wyoming big sagebrush
+
+DISTRIBUTION AND EXTENT: Central Washington; MLRA 8; small extent
+
+SOIL SURVEY REGIONAL OFFICE (SSRO) RESPONSIBLE: Portland, Oregon
+
+SERIES ESTABLISHED: Yakima Training Center, Kittitas County, Washington; 1994
+
+REMARKS:
+Diagnostic horizons and other features recognized in this pedon
+*Mollic epipedon--zone from the surface to a depth of 41 cm
+*Argillic horizon--zone from 23 to 41 cm
+*Depth to lithic contact--41 cm
+*Particle-size control section--zone from 23 to 41 cm (argillic horizon)
+
+National Cooperative Soil Survey
+U.S.A.

@@ -1,0 +1,131 @@
+LOCATION MOCCASINHILL           CA
+
+Established Series
+SMM/JBB/TKK/JW
+09/2018
+
+MOCCASINHILL SERIES
+
+The Moccasinhill series consists of moderately deep, well drained soils formed in colluvium and residuum weathered from phyllite, slate, schist, or other metasedimentary rocks. The Moccasinhill soils are on canyons and hills. Slopes range from 30 to 90 percent. The mean annual precipitation is about 830 mm and the mean annual air temperature is about 15 degrees C.
+
+TAXONOMIC CLASS: Loamy-skeletal, mixed, active, thermic Humic Haploxerepts
+
+TYPICAL PEDON: Moccasinhill silt loam on a west facing, 56 percent, convex slope under interior live oak, buckeye, toyon, and poison oak at an elevation of 793 meters. (Colors are for dry soils unless otherwise noted. When described on June 1st, 2007 the soil was dry throughout.)
+
+ Oi--0 to 2 cm; slightly decomposed plant material; very strongly acid (pH 5.0); abrupt smooth boundary. (0 to 2 centimeters thick)
+
+ A--2 to 10 cm; brown (7.5YR 5/4) silt loam, dark brown (7.5YR 3/4) moist; moderate fine granular structure; slightly hard, friable, slightly sticky, slightly plastic; common very fine roots throughout; few very fine and common fine tubular pores; 3 percent subangular very strongly cemented metasedimentary gravel; slightly acid (pH 6.2); clear smooth boundary. (4 to 14 cm thick)
+
+ Bw1--10 to 20 cm; brown (7.5YR 5/4) loam, dark brown (7.5YR 3/4) moist; moderate fine subangular blocky structure; slightly hard, friable, slightly sticky, slightly plastic; common very fine roots throughout; few very fine and common fine tubular pores; 3 percent angular very strongly cemented metasedimentary channers; moderately acid (pH 5.9); clear smooth boundary. (10 to 20 cm thick)
+
+ Bw2--20 to 41 cm; brown (7.5YR 5/4) channery loam, reddish brown (5YR 4/3) moist; moderate medium subangular blocky structure; slightly hard, friable, slightly sticky, slightly plastic; common very fine and few fine roots throughout; few very fine and fine tubular pores; 15 percent angular very strongly cemented metasedimentary channers; moderately acid (pH 5.9); clear smooth boundary. (15 to 35 cm thick)
+
+ Bw3--41 to 59 cm; brown (7.5YR 5/4) channery loam, reddish brown (5YR 4/3) moist; moderate medium subangular blocky structure; slightly hard, friable, slightly sticky, slightly plastic; common very fine and few fine roots throughout; few very fine and fine tubular pores; 30 percent angular very strongly cemented metasedimentary channers, 5 percent angular very strongly cemented metasedimentary flagstones; strongly acid (pH 5.4); clear wavy boundary.
+
+ Bw4--59 to 79 cm; brown (7.5YR 5/4) very flaggy loam, reddish brown (5YR 4/4) moist; moderate medium subangular blocky structure; slightly hard, friable, slightly sticky, slightly plastic; common fine and few medium and coarse roots throughout; few fine tubular pores; 35 percent angular very strongly cemented metasedimentary channers, 30 percent angular very strongly cemented metasedimentary flagstones, 5 percent subangular very strongly cemented metasedimentary stones; strongly acid (pH 5.4); abrupt irregular boundary. (combined thickness of the lower Bw horizons is 12 to 35 cm)
+
+ R--79 to 200 cm; very strongly cemented phyllite bedrock, fractured at intervals of 10 to <45 cm.
+
+TYPE LOCATION: Tuolumne County, California, USGS 7.5 minute topographic quadrangle: Moccasin, California; WGS84 37.806667 latitude and -120.253052 longitude; UTM zone 10 741821 meters E 4187914 meters N NAD83.
+
+RANGE IN CHARACTERISTICS:
+Soil temperature: The mean annual soil temperature at 50 cm is 14 to 17 degrees C and the difference between mean summer and mean winter soil temperature is greater than 6 degrees C. The soils have a thermic temperature regime.
+
+Soil moisture: The soil moisture control section is dry in all parts from about May to October The soils have a xeric soil moisture regime.
+
+Diagnostic Feature(s):
+  Ochric epipedon thickness:  18 cm
+  Cambic horizon thickness:  30 to 70 cm
+  Depth to lithic contact:  50 to 100 cm
+
+Reaction: strongly acid to neutral
+
+Base saturation: greater than 60 percent in all horizons from a depth of 25 to 75 cm from the mineral soil surface (by sum of cations).
+
+Particle size control section weighted average:
+  Rock fragments: 35 to 85 percent, with 0 to 15 percent gravel, 0 to 15 percent cobbles, 0 to 70 percent channers and 0 to 40 percent flagstones.
+  Clay content: averages 12 to 27 percent clay
+
+A horizon
+  Hue: 7.5YR, 10YR
+  Value: 5 dry, 3 moist
+  Chroma: 2 to 4 dry, 2 or 3 moist
+  Texture: loam, silt loam
+  Clay content: 10 to 22 percent
+  Rock fragments: 0 to 50 percent
+	0 to 10 percent gravel
+	0 to 5 percent cobbles
+	0 to 50 percent channers
+	0 to 5 percent flagstones
+  Reaction: slightly acid to neutral
+
+Bw1 horizon
+  Hue: 7.5YR, 10YR
+  Value: 5 or 6 dry, 3 to 5 moist
+  Chroma: 3 or 4, dry or moist
+  Texture: loam, silt loam, sandy loam
+  Clay content: 10 to 25 percent
+  Rock fragments: 0 to 70 percent
+	0 to 15 percent gravel
+	0 to 15 percent cobbles
+	0 to 60 percent channers
+	0 to 25 percent flagstones
+  Reaction: strongly acid to neutral
+
+Bw2 horizon
+  Hue: 5YR, 7.5YR, 10YR 
+  Value: 5 or 6 dry, 3 to 5 moist
+  Chroma: 3 or 4 dry, 3 to 6 moist
+  Texture: loam, sandy loam, silt loam
+  Clay content: 10 to 25 percent
+  Rock fragments: 0 to 85 percent
+	0 to 15 percent gravel
+	0 to 15 percent cobbles
+	0 to 80 percent channers
+	0 to 40 percent flagstones
+  Reaction: strongly acid to neutral
+
+Lower Bw horizons (Bw3, Bw4 where present)
+  Hue: 5YR, 7.5YR, 10YR 
+  Value: 5 or 6 dry, 3 to 5 moist
+  Chroma: 3 or 4 dry, 3 to 6 moist
+  Texture: loam, sandy loam
+  Clay content: 12 to 27 percent
+  Rock fragments: 0 to 85 percent
+	0 to 25 percent gravel
+	0 to 30 percent cobbles
+	0 to 80 percent channers
+	0 to 45 percent flagstones
+  Reaction: strongly acid to neutral
+
+COMPETING SERIES: There are no other series in this family at this time.
+
+GEOGRAPHIC SETTING: The Moccasinhill soils are on canyons and hills. Slopes range from 30 to 90 percent. These soils formed in colluvium and/or residuum weathered from phyllite, slate, schist, or other metasedimentary rocks. Elevation is 300 to 915 meters. The climate is Mediterranean with warm, dry summers and cool, moist winters. The mean annual precipitation is 650 to 1000 mm and the mean annual air temperature is 13 to 16 degrees C. The frost free season is 180 to 295 days.
+
+GEOGRAPHICALLY ASSOCIATED SOILS: These are the Copperopolis, Sanguinetti, Millvilla, and Deerflat soils. The Copperopolis soils are on - hills, andhave a lithic contact within 50 cm of the mineral soil surface. The Sanguinetti soils are on sideslopes of canyons and hills and are 50 to 100cm to a lithic contact. Millvilla (sideslopes) and Deerflat (footslopes) occupy hills and have less than 35 percent rock fragments in the particle size control section.
+
+DRAINAGE AND PERMEABILITY: Well drained, moderately high to high saturated hydraulic conductivity, medium to very high runoff.
+
+USE AND VEGETATION: This soil is used for recreation, wildlife habitat, and watershed. Vegetation is chamise, foothill pine, toyon, whiteleaf manzanita, buckbrush, Pacific poison oak, soft chess, wild oat and California poppy.
+
+DISTRIBUTION AND EXTENT: Sierra Nevada Foothills of California; MLRA 18. These soils are moderately extensive.
+
+SOIL SURVEY REGIONAL OFFICE (SSRO) RESPONSIBLE: Davis, California
+
+SERIES PROPOSED: Tuolumne County, California. Source of name from Moccasin Hill on the Moccasin, CA 7.5 minute USGS quadrangle.
+
+REMARKS:
+  Diagnostic horizons and features recognized in this pedon are:
+     Ochric Epipedon            0 to 18 cm
+     Cambic Horizon            10 to 79 cm
+     Lithic Contact                79 cm
+  Particle Size Control Section for this pedon: 27 to 79 cm.
+
+ADDITIONAL DATA:
+  NASIS User Pedon ID: 07RJV034
+No certified lab data exist for this pedon.
+
+Soil classified using the 12th Edition of the Keys to Soil Taxonomy.
+
+National Cooperative Soil Survey
+U.S.A.

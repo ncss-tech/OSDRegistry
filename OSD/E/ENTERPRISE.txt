@@ -1,0 +1,104 @@
+LOCATION ENTERPRISE             TX+OK
+
+Established Series
+Rev. RFG:DDR:TMK
+09/2016
+
+ENTERPRISE SERIES
+
+The Enterprise series consists of very deep, well drained, moderately rapidly permeable soils that formed in loamy eolian sediments. These soils are on nearly level to moderately steep plains on terrace pediments in the Central Rolling Red Plains (MLRA 78B, 78C). Slopes range from 0 to 20 percent. Mean annual air temperature is 16 degrees C (61 degrees F), and the mean annual precipitation is 635 mm (25 in).
+
+TAXONOMIC CLASS: Coarse-silty, mixed, superactive, thermic Typic Haplustepts
+
+TYPICAL PEDON: Enterprise very fine sandy loam, in cropland, at an elevation of 457 m (1,500 ft). (Colors are for dry soil unless otherwise stated.)
+
+  Ap--0 to 25 cm (0 to 10 in); reddish brown (5YR 5/4) very fine sandy loam, dark reddish brown (5YR 3/4) moist; structureless; soft, very friable; common fine roots; slightly alkaline; abrupt smooth boundary. 
+
+  A--25 to 46 cm (10 to 18 in); reddish brown (5YR 5/4) very fine sandy loam, dark reddish brown (5YR 3/4) moist; weak medium subangular blocky and granular structure; soft, very friable; few fine roots; few fine pores; slightly alkaline; gradual smooth boundary. (Combined thickness of the A horizon is 18 to 91 cm [7 to 36 in])
+
+  Bk--46 to 102 cm (18 to 40 in); reddish brown (5YR 5/4) very fine sandy loam, reddish brown (5YR 4/4) moist; weak medium subangular blocky structure; slightly hard, friable; few fine roots; few fine pores; common white threads and films of calcium carbonate; violently effervescent, moderately alkaline; gradual smooth boundary. (Thickness of the Bk horizon is 31 to 91 cm [12 to 36 in])
+
+  BCk--102 to 152 cm (40 to 60 in); reddish brown (5YR 5/4) very fine sandy loam, yellowish red (5YR 4/6) moist; weak medium and coarse subangular blocky structure; slightly hard, friable; few fine pores; few faint films and threads of calcium carbonate in upper part; violently effervescent; moderately alkaline.
+
+TYPE LOCATION: Cottle County, Texas; from the village of Chalk; 1.9 miles west on Farm Road 1278; 0.8 mile north on county road; 50 feet west in a cultivated field.
+
+USGS Quad: Chalk, TX
+Latitude: 33 degrees, 53 minutes, 30.4 seconds N 
+Longitude: 100 degrees, 15 minutes, 12.8 seconds W
+Datum: NAD83 
+
+UTM Northing: 3750864 m
+UTM Easting: 384088 m
+UTM Zone: 14
+
+RANGE IN CHARACTERISTICS: 
+Depth to carbonates: 0 to 76 cm (0 to 30 in)
+
+A horizon: 
+Hue: 5YR or 7.5YR
+Value: 4 to 6 dry, 3 to 5 moist
+Chroma: 3 to 6
+Texture: very fine sandy loam, loam or silt loam
+Calcium Carbonate Equivalent: 0 to 5 percent
+Effervescence: very slight to strong
+Reaction: neutral to moderately alkaline
+
+Bk horizon:
+Hue: 2.5YR to 7.5YR
+Value: 5 or 6 dry, 3 to 5 moist
+Chroma: 3 to 8
+Texture: very fine sandy loam, loam or silt loam
+Calcium Carbonate Equivalent: 5 to 20 percent
+Effervescence: slight to violent 
+Reaction: slightly alkaline or moderately alkaline
+
+BCk horizon:
+Hue: 2.5YR to 7.5YR
+Value: 5 or 6 dry, 3 to 5 moist
+Chroma: 3 to 8
+Texture: very fine sandy loam, loam or silt loam
+Other feature: some pedons have soft sandstone that occurs at depths of 127 to 203 cm (50 to 80 in) 
+Calcium Carbonate Equivalent: 5 to 20 percent
+Effervescence: slight to violent 
+Reaction: slightly alkaline or moderately alkaline
+
+COMPETING SERIES: These are the Deepwood (OK), Gotebo (OK), and Woodward (OK) series. Deepwood soils: derived from materials weathered from Permian age sediments.
+Gotebo and Woodward soils: have soft bedrock at a depth of 50 to 100 cm (20 to 40 in)
+
+GEOGRAPHIC SETTING: 
+Parent Material: formed in alluvial and loamy eolian sediments 
+Landscape: Plains
+Landform: Terraces
+Slope: 1 to 20 percent
+Mean annual precipitation: 508 to 710 mm (20 to 28 in)
+Mean annual air temperature: 14 to 18 degrees C (57 to 64 degrees F)
+Frost-free period: 180 to 230 days
+Elevation: 305 to 823 m (1,000 to 2,700 ft)
+
+GEOGRAPHICALLY ASSOCIATED SOILS: These are the Hardeman (TX), Jester (OK), Miles (TX), and Springer (TX) series. 
+Hardeman soils: have a coarse-loamy particle-size control section and are on similar positons 
+Miles and Springer soils: have an argillic horizon and are on slightly higher positions
+Jester soils: have textures coarser than loamy very fine sand throughout and are on slightly lower positions
+
+DRAINAGE AND PERMEABILITY: 
+Drainage: Well drained 
+Permeability: moderately rapid 
+Runoff: negligible on slopes less than 1 percent, very low on 1 to 5 percent slopes, and low on 5 to 20 percent slopes
+
+USE AND VEGETATION: Used mostly for cropland; sorghum, cotton, and wheat are the main crops. Native vegetation is mainly grama and bluestem grasses.
+
+DISTRIBUTION AND EXTENT: LRR H; Central Rolling Red Plains (MLRA 78B, 78C) and Rolling Limestone Prairie (MLRA 78D) of Texas and Oklahoma adjacent to large streams. The soil is extensive.
+
+MLRA SOIL SURVEY REGIONAL OFFICE (MO) RESPONSIBLE: Temple, Texas
+
+SERIES ESTABLISHED: Wichita County, Texas; 1924.
+
+REMARKS: 
+
+Diagnostic horizons and features recognized in this pedon are:
+Ochric epipedon:  0 to 46 cm (0 to 18 in) (Ap and A horizons)
+Cambic horizon: 46 to 102 cm (18 to 40 in) (Bk horizon)
+Taxonomic version: Keys to Soil Taxonomy, Twelfth Edition, 2015.
+
+National Cooperative Soil Survey
+U.S.A.

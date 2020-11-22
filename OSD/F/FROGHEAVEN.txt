@@ -1,0 +1,156 @@
+LOCATION FROGHEAVEN             WA
+
+Established Series
+IRD. TMR/MPR
+07/2017
+
+FROGHEAVEN SERIES
+
+Landscape--Cascade Mountains
+Landform--depressions, swales, terraces, debris aprons
+Slope--0 to 10 percent
+Parent material--volcanic ash
+Mean annual precipitation--about 2000 mm
+Mean annual air temperature--about 5 degrees C
+Depth class--very deep
+Drainage class--poorly drained
+Soil moisture regime--aquic
+Soil temperature regime--cryic
+Soil moisture subclass--typic
+
+TAXONOMIC CLASS: Ashy, amorphic, acid Typic Cryaquands
+
+TYPICAL PEDON: Frogheaven mucky ashy fine sandy loam on a forested, north-facing, 15-percent slope of a debris apron at an elevation of 1158 m (When described on July 16, 2013, the soil was moist to a depth of 34 cm and saturated below that depth.)
+
+ Oe--0 to 6 cm; moderately decomposed plant material; common very fine and fine and few medium and coarse roots; common fine interstitial pores; very strongly acid (pH 4.5); clear wavy boundary
+
+ A1--6 to 19 cm; mucky ashy fine sandy loam, very dark gray (10YR 3/1) dry, black (10YR 2/1) moist; weak medium subangular blocky structure; soft, very friable, nonsticky and nonplastic; many very fine and fine and common medium and coarse roots; common very fine and fine irregular pores; strongly acid (pH 5.2); abrupt irregular boundary
+
+ A2--19 to 24 cm; ashy sandy loam, dark grayish brown (10YR 4/2) dry, very dark grayish brown (10YR 3/2) moist; weak medium subangular blocky structure; soft, very friable, nonsticky and nonplastic; common very fine and fine and few medium roots; common very fine and fine interstitial pores; 20 percent medium faint irregular dark gray (7.5YR 4/1) iron depletions with clear boundaries in matrix and 30 percent medium distinct irregular dark brown (7.5YR 3/4) masses of oxidized iron with clear boundaries in matrix; strongly acid (pH 5.2); abrupt irregular boundary
+
+ Bg1--24 to 34 cm; ashy fine sandy loam, brown (10YR 5/3) dry, dark brown (10YR 3/3) moist; moderate medium subangular blocky structure; soft, very friable, slightly sticky and nonplastic; few very fine to medium roots; common very fine and fine irregular pores; 20 percent medium distinct irregular dark gray (7.5YR 4/1) iron depletions with clear boundaries in matrix and 20 percent medium faint irregular dark brown (7.5YR 3/4) masses of oxidized iron with clear boundaries in matrix; 5 percent pumice paragravel; strongly acid (pH 5.2); clear wavy boundary
+
+ Bg2--34 to 60 cm; paragravelly ashy sandy loam, brown (7.5YR 4/2) dry, very dark brown (7.5YR 2.5/2) moist; weak fine subangular blocky structure; soft, very friable, slightly sticky and nonplastic; few very fine to medium roots; common very fine and fine interstitial pores; 5 percent fine distinct irregular dark grayish brown (10YR 4/2) iron depletions with clear boundaries in matrix and 20 percent medium distinct irregular dark reddish brown (5YR 3/4) masses of oxidized iron with clear boundaries in matrix; 30 percent pumice paragravel; strongly acid (pH 5.4); clear wavy boundary
+
+ Bg3--60 to 75 cm; ashy fine sandy loam, brown (10YR 5/3) dry, dark brown (10YR 3/3) moist; moderate medium subangular blocky structure; soft, very friable, slightly sticky and nonplastic; few very fine roots; few very fine and fine irregular pores; 25 percent medium faint irregular dark grayish brown (10YR 4/2) iron depletions with clear boundaries in matrix and 20 percent medium faint irregular dark brown (7.5YR 3/4) masses of oxidized iron with clear boundaries in matrix; 5 percent pumice paragravel; strongly acid (pH 5.4); clear wavy boundary
+
+ Bg4--75 to 90 cm; ashy sandy loam, yellowish brown (10YR 5/4) dry, dark yellowish brown (10YR 4/4) moist; moderate medium subangular blocky structure; soft, very friable, slightly sticky and nonplastic; few very fine roots; few very fine and fine irregular pores; 10 percent medium distinct irregular dark grayish brown (10YR 4/2) iron depletions with clear boundaries in matrix and 20 percent medium faint irregular dark brown (7.5YR 3/4) masses of oxidized iron with clear boundaries in matrix; 5 percent pumice paragravel; strongly acid (pH 5.4); clear wavy boundary
+
+ Bg5--90 to 150 cm; ashy sandy loam, brown (7.5YR 5/2) dry, dark brown (7.5YR 3/2) moist; moderate medium subangular blocky structure; slightly hard, friable, nonsticky and nonplastic; few very fine roots; few very fine and fine irregular pores; 10 percent fine faint irregular very dark grayish brown (10YR 3/2) iron depletions with clear boundaries in matrix and 10 percent fine distinct irregular dark brown (7.5YR 3/4) masses of oxidized iron with clear boundaries in matrix; 5 percent pumice paragravel and 5 percent andesite gravel; strongly acid (pH 5.4)
+
+TYPE LOCATION: Pierce County, Washington, between Fryingpan Creek and Shaw Creek, upslope from the road to Sunrise, about 4 km southwest of White River Ranger Station in Mount Rainier National Park; about 485 m north and 695 m west of the southeast corner of section 7, T. 16 N., R. 10 E.; Willamette Meridian; White River Park, Washington, U.S. Geological Survey quadrangle; latitude 46.889218 degrees north, longitude -121.601889 degrees west, datum WGS 84 (coordinates determined with a GPS)
+
+RANGE IN CHARACTERISTICS:
+Mean annual soil temperature--4 to 8 degrees C
+Depth to redoximorphic iron depletions--0 to 25 cm below the soil surface
+Pararock and rock fragments--pumice paragravel typically in upper part of profile, andesite gravel may be in lower part of profile
+
+All mineral horizons
+*Volcanic glass content--50 to 75 percent
+*Ammonium oxalate Al plus 1/2 Fe--greater than 0.4 percent
+
+Particle-size control section
+*Clay content--1 to 10 percent
+*Total pararock and rock fragment content--0 to 35 percent
+
+O horizon
+*In lieu of texture--slightly decomposed plant material, moderately decomposed plant material
+*Thickness--0 to 10 cm
+
+A1 horizon
+*Hue--10YR, 7.5YR
+*Value--2 to 3 moist, 3 to 5 dry
+*Chroma--1 to 2 moist or dry
+*Reaction--4.5 to 5.5
+*Fine-earth texture--mucky ashy fine sandy loam, mucky ashy sandy loam
+*Pararock fragment content--0 to 15 percent pumice paragravel
+*Thickness--10 to 20 cm
+
+A2 horizon
+*Hue--10YR, 7.5YR
+*Value--2 to 3 moist, 3 to 5 dry
+*Chroma--1 to 2 moist or dry
+*Reaction--5.0 to 5.5
+*Fine-earth texture--ashy sandy loam, ashy loamy sand
+*Pararock fragment content--0 to 15 percent pumice paragravel
+*Thickness--5 to 15 cm
+
+Bg1 horizon
+*Hue--10YR, 7.5YR
+*Value--3 or 4 moist, 4 to 6 dry
+*Chroma--1 to 4 moist or dry
+*Reaction--5.0 to 5.5
+*Fine-earth texture--ashy fine sandy loam, ashy loamy sand, ashy sandy loam
+*Pararock fragment content--0 to 25 percent pumice paragravel
+*Thickness--10 to 20 cm
+
+Bg2 horizon
+*Hue--10YR, 7.5YR
+*Value--2.5 to 4 moist, 4 to 6 dry
+*Chroma--1 to 4 moist or dry
+*Reaction--5.0 to 5.5
+*Fine-earth texture--ashy sandy loam, ashy loamy sand, ashy coarse sandy loam
+*Pararock fragment content--0 to 35 percent pumice paragravel
+*Thickness--15 to 30 cm
+
+Bg3, Bg4, and Bg5 horizons
+*Hue--10YR, 7.5YR
+*Value--3 to 5 moist, 4 to 6 dry
+*Chroma--2 to 4 moist or dry
+*Organic carbon content--decreases regularly as depth increases
+*Reaction--5.0 to 5.5
+*Fine-earth texture--ashy fine sandy loam, ashy sandy loam, ashy loamy sand
+*Pararock and rock fragment content--0 to 35 percent total, including 0 to 30 percent pumice paragravel and 0 to 10 percent andesite gravel
+*Combined thickness--50 to 110 cm
+
+COMPETING SERIES:
+Vantrump--aquic conditions below a depth of 25 cm; lithologic discontinuity within 100 cm of the soil surface
+
+GEOGRAPHIC SETTING:
+Elevation--550 to 1730 m
+Climate--cool, dry summers; cold, wet winters
+Mean annual precipitation--1295 to 2870 mm
+Mean annual air temperature--3 to 7 degrees C
+Frost-free period--60 to 90 days
+
+GEOGRAPHICALLY ASSOCIATED SOILS:
+Vantrump--aquic conditions with an upper limit of 25 cm from mineral soil surface; in similar landform positions
+Ghost--formed in organic material with bands of volcanic ash; on similar low-lying landforms; no coniferous overstory
+Laughingwater--aquic conditions within 50 to 75 cm of mineral soil surface; on steeper slopes of debris aprons and glacial-valley walls
+Ohanapecosh--lithic contact at a depth of 25 to 50 cm (shallow); on steeper adjacent bedrock-controlled landforms
+Arahustan--lithic contact at a depth of 50 to 100 cm (moderately deep); on steeper adjacent bedrock-controlled landforms
+Longmire--no aquic conditions; albic and spodic horizons; on steeper slopes of debris aprons and glacial-valley walls
+Summerland--greater than 35 percent rock fragments in particle-size control section; in active avalanche paths with deciduous forests
+
+DRAINAGE AND SATURATED HYDRAULIC CONDUCTIVITY:
+Drainage class--poorly drained
+Saturation in normal years--at surface in November through May, below a depth of 20 cm in August through October
+Flooding--none
+Frequency of ponding--rare
+Saturated hydraulic conductivity (Ksat)--high or very high throughout
+
+USE AND VEGETATION:
+Use--wildlife habitat
+Potential natural vegetation--western hemlock, western redcedar, red alder, vine maple, thimbleberry, devils club, salmonberry, skunkcabbage, deerfern, western swordfern, oakfern, twinflower
+
+DISTRIBUTION AND EXTENT: Central Cascade Mountains, Washington; MLRA 3; small extent
+
+MLRA SOIL SURVEY REGIONAL OFFICE (MO) RESPONSIBLE: Portland, Oregon
+
+SERIES ESTABLISHED: Mount Rainier National Park, Pierce County, Washington; 2014; name from Frogheaven Swamp in Mount Rainier National Park
+
+REMARKS:
+Diagnostic horizons and other features in this pedon
+*Particle-size control section--zone from 6 to 106 cm
+*Umbric epipedon--zone from 6 to 75 cm
+*Cambic horizon--zone from 75 to 150 cm
+*Andic soil properties--zone from 6 to 150 cm
+*Volcanic glass--zone from 6 to 150 cm
+*Redoximorphic iron depletions with chroma of 2 or less--zone from 19 to 150 cm
+*Redoximorphic iron concentrations--zone from 19 to 150 cm
+*Distinguishable tephra layers--Mount St. Helens Wn tephra (A2 horizon), Mount Rainier C tephra (Bg1 and Bg2 horizons), Mount St. Helens Yn tephra (Bg4)
+
+3/2017--This official series description was updated according to SSR1 Technical Note 11--Content and Format of Official Series Descriptions (revised 12/2015). Most of the changes were in formatting; no major technical changes were made.
+
+National Cooperative Soil Survey
+U.S.A.

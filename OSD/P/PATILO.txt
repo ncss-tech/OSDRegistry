@@ -1,0 +1,163 @@
+LOCATION PATILO                 TX
+
+Established Series
+Rev. JDM-JCW-LAD-CMR
+06/2020
+
+PATILO SERIES
+
+The Patilo series consists of very deep, well drained , moderately slowly permeable soils that formed in locally reworked eolian sands over residuum weathered from sandstone and siltstone. These nearly level to strongly sloping soils occur on interfluves and side slopes of low ridges on hills. Slope range is 0 to 12 percent. Mean annual precipitation is about 800 mm (31 in) and the mean annual air temperature is about 17.6 degrees C (64 degrees F).
+
+TAXONOMIC CLASS: Loamy, siliceous, semiactive, thermic Grossarenic Paleustalfs
+
+TYPICAL PEDON: Patilo fine sand, on a north-facing, convex, 4 percent slope in pastureland at an elevation of 380 m (1,247 ft). (Colors are for dry soil unless otherwise stated.)
+
+     A--0 to 10 cm (0 to 4 in); light brownish gray (10YR 6/2) fine sand, dark grayish brown (10YR 4/2), moist; structureless single grain; loose, loose; common fine roots; neutral; clear smooth boundary. (Thickness is 5 to 50 cm [2 to 20 in].)
+
+     E--10 to 127 cm (4 to 50 in); white (10YR 8/2) fine sand, light gray (10YR 7/2), moist; structureless single grain; loose, loose; common fine roots in upper part, few fine roots in lower part; slightly acid; clear wavy boundary. (Thickness is 50 to 183 cm [20 to 72 in].)
+
+     Btg1--127 to 178 cm (50 to 70 in); light gray (10YR 7/1) sandy clay loam, light gray (10YR 6/1), moist; weak coarse angular blocky structure; very hard, very firm; few very fine roots; few very fine pores; common distinct clay films on surfaces of peds; many coarse and medium prominent red (2.5YR 4/6) masses of oxidized iron and few fine distinct brownish yellow (10YR 6/6) masses of oxidized iron; strongly acid; gradual smooth boundary.
+
+     Btg2--178 to 188 cm (70 to 74 in); white (10YR 8/1) sandy clay loam, light gray (10YR 7/1), moist; weak coarse angular blocky structure; hard, firm; few distinct clay films on ped faces many coarse and medium prominent red (2.5YR 5/8) masses of oxidized iron and very few fine brownish yellow (10YR 6/6) masses of oxidized iron; strongly acid. (Combined thickness is 8 to 100 cm [3 to 40 in].)
+
+TYPE LOCATION: Erath County, Texas; about 7.5 miles northeast of Stephenville; located about 1.1 miles southeast of Pilot Knob Church to intersection of private road and county road; 0.5 mile northeast of intersection and 40 yards northwest of private road in pastureland.
+
+USGS topographic quadrangle: Bluff Dale, Texas
+Latitude: 32 degrees, 15 minutes, 9.3 seconds N
+Longitude: 98 degrees, 5 minutes, 49.7 seconds W
+
+Decimal Degrees
+Latitude: 32.2525826 degrees
+Longitude: -98.0971375 degrees
+Datum: WGS84
+
+UTM Easting: 585046.92 m
+UTM Northing: 3568790.78 m
+UTM Zone: 14
+
+RANGE IN CHARACTERISTICS:
+Soil Moisture: typic ustic soil moisture regime
+Depth to abrupt textural change: 100 to 192 cm (40 to 76 in)
+Depth to albic materials: 5 to 50 cm (2 to 20 in)
+Depth to albic horizon: 5 to 50 cm (2 to 20 in)
+Depth to argillic horizon: 100 to 192 cm (40 to 76 in)
+Depth to redox concentrations: 100 to 192 cm (40 to 76 in)
+Depth to episaturation: 100 to 192 cm (40 to 76 in) from October to May
+Thickness of the solum: 165 to 200 cm (65 to 80 in)
+
+Particle-size control section (weighted average):
+Clay content: 18 to 35 percent
+Sand content: 50 to 72 percent
+Base saturation: 40 to 75 percent
+
+A horizon
+Hue: 10YR
+Value: 4 to 8
+Chroma: 2 to 4
+Texture: fine sand
+Clay content: 0 to 10 percent
+Sand content: 85 to 95 percent
+Reaction (pH): moderately acid to neutral (5.6 - 7.3)
+
+E horizon
+Hue: 7.5YR or 10YR
+Value: 5 to 8
+Chroma: 2 to 6
+Texture: fine sand or loamy fine sand
+Clay content: 0 to 12 percent
+Sand content: 75 to 98 percent
+Reaction (pH): moderately acid to neutral (5.6 - 7.3)
+
+Btg or Bt horizons
+Hue: 5YR to 5Y
+Value: 5 to 7
+Chroma: 1 to 8
+Texture: sandy clay loam or sandy loam
+Clay content: 18 to 35 percent
+Sand content: 50 to 72 percent
+Redox concentration: varied size and amount in shades of red and yellow
+Redox depletion: varied size and amount in shades of gray and yellow
+Base saturation: 40 to 75 percent
+Reaction (pH): strongly acid to slightly acid (5.1 - 6.5)
+
+Cd layer or C horizon (where present)
+Hue: 10R to 10YR
+Value: 3 to 8
+Chroma: 1 to 8
+Texture: fine sand, loamy fine sand, loamy sand, fine sandy loam, sandy clay loam, or loam
+Clay content: 1 to 25 percent
+Sand content: 45 to 95 percent
+Reaction (pH): strongly acid to slightly alkaline (5.1 - 7.8)
+
+COMPETING SERIES:
+There are no competing series in the same family. Similar soils are the Aquilla, Arenosa, Desan, Eufaula, Heaton, and Nimrod series. 
+Aquilla and Eufaula soils: have an argillic horizon that consists entirely of lamellae
+Arenosa soils: do not have an argillic horizon
+Desan soils: do not have gleyed horizons and do not have many redox depletions with chroma 2 or less in the upper part of the argillic horizon
+Heaton and Nimrod soils: have an argillic horizon within 100 cm (40 in)
+
+GEOGRAPHIC SETTING:
+Parent material: locally reworked eolian sands over residuum weathered from sandstone and siltstone
+Landscape: hills
+Landform: interfluves and side slopes of low ridges
+Slope: 0 to 12 percent
+Mean annual precipitation: 648 to 953 mm (26 to 38 in)
+Thornthwaite P-E Index: 26 to 48
+Mean annual air temperature: 17.2 to 18.8 degrees C (63 to 66 degrees F)
+Frost-free period: 217 to 243 days
+Elevation: 200 to 628 m (656 to 2,060 ft)
+
+GEOGRAPHICALLY ASSOCIATED SOILS:
+These are the Arenosa, Brackett, Bunyan, Duffau, Dugout, May, Nimrod, Purves, Selden, and Windthorst series.
+Arenosa and Nimrod soils: occur on similar undulating sandy interfluves
+Brackett, Dugout, and Purves soils: less than 50 cm (20 in) to limestone bedrock and occur on limestone ridges
+Bunyan soils: do not have argillic horizons and occur on flood plains
+Duffau and Windthorst soils: less than 50 cm (20 in) to argillic horizon and occur on crests and side slopes
+May and Selden soils: less than 50 cm (20 in) to argillic horizon and occur on base slopes, drainageways, and stream terraces
+
+DRAINAGE AND PERMEABILITY:
+Drainage class: well
+Permeability class: moderately slow
+Runoff: negligible on slopes less than 5 percent, very low on 5 to 12 percent slopes
+Seasonal water table: episaturation occurs between depths of 107 to 183 cm (3.5 to 6 ft) for short periods following heavy rainfall during the months of October to May in most years
+
+USE AND VEGETATION:
+Major uses: livestock grazing and wildlife habitat with a few areas cultivated to peanuts and watermelon in the past
+Native vegetation: sand post oak and blackjack oak with greenbrier, forbs, and mid-tall grasses in the openings and beneath the tree cover.
+Ecological site: Deep Sand 29-33" PZ (R084BY169TX)
+
+DISTRIBUTION AND EXTENT:
+General location: north-central Texas
+Land Resource Region: J-Southwestern Prairies Cotton and Forage
+Major Land Resource Area: 84B-West Cross Timers
+Extent: moderate
+
+SOIL SURVEY REGIONAL OFFICE (SSRO) RESPONSIBLE: Temple, Texas
+
+SERIES ESTABLISHED: Erath County, Texas; 1970. The name "Patilo" comes from a community in northeastern Erath County. The community of Patillo established in 1890 was named for pioneer area rancher John Patillo, but the post office name was recorded as "Patilo". 
+
+REMARKS: These soils were formerly included with the Nimrod series. The series was separated based on depth to the argillic horizon.
+
+Diagnostic horizons and features recognized in this pedon are:
+Particle-size control section: 127 to 177 cm (50 to 74 in) (Btg horizons)
+
+Ochric epipedon: 0 to 10 cm (0 to 4 in) (A horizon)
+Albic horizon: 10 to 127 cm (4 to 50 in) (E horizon)
+Argillic horizon: 127 to 188 cm (50 to 74 in) (Btg horizons)
+Redox concentrations: 127 to 188 cm (50 to 74 in) (Btg horizons)
+Episaturation: 127 to 188 cm (50 to 74 in) (Btg horizons)
+Abrupt textural change: 127 cm (50 in) (top of Btg horizon)
+Albic materials: 10 to 127 cm (4 to 50 in) (E horizon)
+Aquic conditions: 127 to 188 cm (50 to 74 in) (Btg horizons)
+
+Additional comments: The subsoil is either gleyed (Btg horizons) or coarsely mottled with many prominent redox depletions with chroma 2 or less.
+
+The assignment of the cation-exchange activity class is inferred from lab data from similar soils in the surrounding area.
+
+ADDITIONAL DATA:
+Texas Highway Department Data from TUD Pedon S75TX-059-003.
+
+TAXONOMIC VERSION: Keys to Soil Taxonomy, Twelfth Edition, 2014
+
+National Cooperative Soil Survey
+U.S.A.

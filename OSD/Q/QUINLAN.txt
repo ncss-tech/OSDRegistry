@@ -1,0 +1,142 @@
+LOCATION QUINLAN                OK+KS TX
+
+Established Series
+Rev. ELC-JWF-JGF
+12/2018
+
+QUINLAN SERIES
+
+The Quinlan series consists of shallow, well drained, moderately rapid to moderately permeable soils that formed in loamy residuum weathered from noncemented, calcareous sandstone bedrock of Permian age. These soils occur on nearly level to very steep interfluves and side slopes of hillslopes, ridges, and escarpments in the Central Rolling Red Plains. Slope ranges from 1 to 50 percent. Mean annual precipitation is 635 mm (25 in) and mean annual temperature is 16.1 degrees C (61 degrees F).
+
+TAXONOMIC CLASS: Loamy, mixed, superactive, thermic, shallow Typic Haplustepts
+
+TYPICAL PEDON: Quinlan loam, northeast-facing, convex, 9 percent slope in rangeland at an elevation of about 534 m (1,751 feet).
+     (Colors are for dry soil unless otherwise stated.)
+
+    A--0 to 20 cm (0 to 8 in); reddish brown (5YR 5/4) loam, reddish brown (5YR 4/4) moist; weak medium granular structure; slightly hard, friable; many fine roots; slightly effervescent; moderately alkaline; gradual wavy boundary.  Thickness of the A horizon is 10 to 30 cm (4 to 12 in)
+
+    Bw--20 to 33 cm (8 to 13 in); red (2.5YR 4/6) loam, dark red (2.5YR 3/6) moist; weak medium granular structure; slightly hard, friable; many fine roots; less than 2 percent of 2 to 10 mm in diameter pararock fragments consisting of very weakly cemented sandstone; strongly effervescent; moderately alkaline; gradual wavy boundary.  Thickness of the Bw horizon is 5 to 30 cm (2 to 12 in)
+
+    Cd--33 to 163 cm (13 to 64 in); red (2.5YR 5/6) noncemented, calcareous sandstone bedrock, red (2.5YR 4/6) moist; strongly effervescent; moderately alkaline.
+
+TYPE LOCATION: 
+Woodward County, Oklahoma; About 1.5 miles west of Quinlan; 2,300 feet east and 2,100 feet south of the northwest corner of sec. 24, T. 23 N., R. 18 W. 
+
+USGS topographic quadrangle: Quinlan, OK
+Latitude: 36 degrees, 27 minutes, 29 seconds N 
+Longitude: 99 degrees, 04 minutes, 38 seconds W
+Datum: NAD83
+
+Decimal Degrees:
+  Latitude: 36.4580556
+  Longitude: -99.0772222
+
+UTM Easting: 493080 m
+UTM Northing: 4034758 m
+UTM Zone: 14N
+
+RANGE IN CHARACTERISTICS: 
+Soil moisture: A typic-ustic soil moisture regime.
+Thickness of the ochric epipedon: 10 to 30 cm (4_to 12 in)
+Depth to densic bedrock: 25 to 50 cm (10 to 20 in)
+
+Particle-size control section (weighted average): 
+  Total clay content: 10 to 30 percent 
+
+A horizon:
+Hue: 2.5YR, 5YR, 7.5YR
+Value: 4 to 6 dry, 3 to 5 moist
+Chroma: 3 to 6
+Other color features: Epipedons with moist value and chroma less than 3.5 are less than 18 cm (7 in) thick or have less than 0.6 percent organic carbon.
+Texture: very fine sandy loam, fine sandy loam, loam, silt loam 
+Identifiable secondary carbonate: 0 to 5 percent; threads, masses, and/or nodules
+Calcium carbonate equivalent: 0 to 10 percent
+Effervescence: none to violent
+Reaction (pH): slightly alkaline to moderately alkaline (7.4-8.4)
+
+Bw horizon:
+Hue: 2.5YR, 5YR, 7.5YR
+Value: 4 to 6 dry, 3 to 5 moist
+Chroma: 4 to 6
+Texture: very fine sandy loam, fine sandy loam, loam, silt loam
+Total clay content: dominantly 10 to 20 percent, but ranges from 5 to 27 percent
+Pararock fragments: 0 to 15 percent; 2 to 10 mm;  very weakly to moderately cemented sandstone or siltstone
+Identifiable secondary carbonate: 0 to 15 percent; threads, masses, and/or nodules
+Calcium carbonate equivalent: 2 to 15 percent
+Effervescence: slight to violent
+Reaction (pH): slightly alkaline to moderately alkaline (7.4-8.4)
+
+Cd horizon:
+Hue: 2.5YR, 5YR
+Value: 4 to 6 dry, 3 to 5 moist
+Chroma: 6 to 8
+Texture: Permian age sandstone or siltstone that breaks down to very fine sandy loam, loam, or silt loam; bulk density is high enough to be root-restrictive
+Cementation: Noncemented, most of this material slakes in water within 1 hour
+Other features: Some pedons contain thin seams of gypsum or sandstone that are cemented  
+Fractures: cracks and fractures that roots can enter are greater than 10 cm (4 in) apart
+Identifiable secondary carbonate: 0 to 15 percent, threads, masses, and/or nodules occur in cracks and fractures
+Calcium carbonate equivalent: 0 to 15 percent
+Effervescence: slight to violent
+Reaction (pH): slightly alkaline to moderately alkaline (7.4-8.4)
+
+COMPETING SERIES: 
+There are no series in the same family. Similar series are the Cordell, Darnell, Ironmound, Keese, Lucien, Pixlee, and Spikebox series. 
+Cordell soils: have a lithic contact within 50 cm (20 in) of the soil surface 
+Darnell and Ironmound soils: have a paralithic contact and are moist in the control section for longer periods
+Keese soils: has a paralithic contact with weathered granite 
+Lucien soils: have a mollic epipedon and are moist in the control section for longer periods
+Spikebox soils: have paralithic sandstone bedrock that is extremely weakly to moderately cemented and occurs mainly in the San Angelo formation of Permian age or equivalent units
+
+GEOGRAPHIC SETTING:
+Parent material: loamy residuum weathered from noncemented, calcareous sandstone or siltstone of Permian age
+Landscape: Dissected plains
+Landform: interfluves and side slopes of hillslopes, ridges and escarpments 
+Slopes: 1 to 50 percent 
+Mean annual precipitation: 508 to 762 mm (20 to 30 in) 
+Thornthwaite annual P-E Index Values: 32 to 44
+Mean annual air temperature: 13.9 to 17.8 degrees C (57 to 64 degrees F)
+Frost-free period: 185 to 230 days 
+Elevation: 396.2 to 792.5 m (1,300 to 2,600 ft)
+
+GEOGRAPHICALLY ASSOCIATED SOILS: 
+These are the Aspermont, Carey, Cordell, Dill, Obaro, and Woodward series. 
+Aspermont soils: occur on lower positions, have a calcic horizon, and are more than 50 cm (20 in) deep to bedrock
+Carey soils: occur on slightly higher less sloping positions, have an argillic horizon, and a mollic epipedon
+Cordell soils: occur on similar positions and have a lithic contact with siltstone
+Dill soils: occur on similar positions, are more than 50 cm (20 in) deep to bedrock, and are noncalcareous in the control section 
+Obaro and Woodward soils: occur on similar positions and are more than 50 cm (20 in) deep to bedrock
+
+DRAINAGE AND PERMEABILITY: 
+Drainage class: well drained
+Permeability class: moderate in the solum and moderately slow in the bedrock
+Runoff class: medium on 1 to 5 percent slopes, high on 5 to 20 percent slopes, and very high on greater than 20 percent slopes
+
+USE AND VEGETATION: 
+Major uses: mostly livestock grazing but a considerable acreage on lesser slopes is used for crop production
+Native vegetation: mainly little bluestem and grama grasses
+Ecological sites assigned to phases and components of this series are listed below. Current ecological site assignments are in Web Soil Survey. Components of this series include the following ecological sites:     Shallow, Shallow Upland, Loamy Breaks
+
+DISTRIBUTION AND EXTENT: 
+General area: Western Oklahoma, a few counties in southern Kansas, and northwestern Texas
+Land Resource Region: H - Central Great Plains Winter Wheat and Range Region
+MLRA 78B & 78C - Central Rolling Red Plains, Western and Eastern Parts
+Extent: Large
+
+MLRA SOIL SURVEY REGIONAL OFFICE (MO) RESPONSIBLE: Temple, Texas
+
+SERIES ESTABLISHED: Woodward County, Oklahoma; 1932.
+
+REMARKS: 
+Diagnostic horizons and features recognized in this pedon are:
+  Particle-size control section: 0 to 33 cm (0 to 13_in)
+  Ochric epipedon: 0 to 20 cm (0 to 8 in) (A horizon)
+  Cambic horizon: 20 to 33 cm (8 to 13 in) (B horizon)
+  Densic contact: at 33 cm (13 in), the top of the Cd layer
+  Densic material: 33 to 163 cm (13 to 64 in), the Cd layer
+
+ADDITIONAL DATA: Oklahoma State University - Lab sample 75-OK-75-3-(1-3); KSSL Lab sample 87P-2277-2282
+
+Taxonomic version: Keys to Soil Taxonomy, Twelfth Edition, 2014.
+
+National Cooperative Soil Survey
+U.S.A.

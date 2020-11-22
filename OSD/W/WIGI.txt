@@ -1,0 +1,98 @@
+LOCATION WIGI                   CA
+
+Established Series
+Rev. DWH/JJJ/SAA/ET/KP
+03/2017
+
+WIGI SERIES
+
+
+The Wigi consists of very deep, very poorly drained soils on tidal marshes and salt marshes of alluvial plains. These soils formed in mixed alluvium. Slope ranges from 0 to 2 percent. Mean annual precipitation is about 1015 millimeters. Mean annual temperature is about 11 degrees C.
+
+TAXONOMIC CLASS: Fine, mixed, superactive, nonacid, isomesic Typic Halaquepts
+
+TYPICAL PEDON: Wigi silty clay loam on a less than 1 percent slope under salt tolerant grasses and forbs, at an elevation of 2 meters. (Colors are for moist soil unless otherwise stated. When described on April 5, 2001 the soil was moist throughout with a water table at 8 centimeters.)
+
+	Oi--0 to 2 centimeters; 100 percent intact stems and roots, 90 percent rubbed, abrupt wavy boundary. (0 to 5 centimeters)
+
+	Az--2 to 18 centimeters; dark grayish brown (2.5Y 4/2) silt loam, light brownish gray (2.5Y 6/2) dry; weak fine subangular blocky structure; soft, very friable, slightly sticky, nonplastic; many fine and common very fine roots throughout; common fine and very fine irregular pores; common medium prominent brownish yellow (10YR 6/8) iron manganese masses in the matrix; EC 37 dS/m; slightly acid (pH 6.2); abrupt wavy boundary. (5 to 16 centimeters thick)
+
+	Bzg1--18 to 54 centimeters; dark gray (5Y 4/1) silty clay loam, gray (2.5Y 6/1) dry; moderate fine and medium subangular blocky structure; hard, very firm, slightly sticky, slightly plastic; many fine, very fine, and common medium roots throughout; common very fine irregular pores; many medium prominent yellowish brown (10YR 5/6) iron manganese masses in the matrix; EC 38 dS/m; neutral (pH 6.6); abrupt wavy boundary. (11 to 36 centimeters thick)
+
+	Bzg2--54 to 102 centimeters; dark gray (5Y 4/1) silty clay loam, gray (5Y 6/1) dry; moderate medium subangular blocky structure; hard, very firm, slightly sticky, slightly plastic; common very fine, few fine and medium roots throughout; common very fine tubular pores; many medium prominent yellowish brown (10YR 5/6) iron manganese masses in the matrix; EC 32 dS/m; neutral (pH 7.0). (11 to 48 centimeters thick)
+
+	Bzg3--102 to 160 centimeters; dark gray (5Y 4/1) silty clay loam, gray (2.5Y 6/1) dry; moderate medium subangular blocky structure; very hard, very firm, moderately sticky, moderately plastic; common very fine and few medium roots throughout; few very fine tubular pores; common prominent olive brown (2.5Y 4/4) iron manganese masses in the matrix; EC 37 dS/m; neutral (pH 7.0). (11 to 35 centimeters thick)
+
+TYPE LOCATION: Humboldt County, California; about 6.1 kilometers west of Loleta on Senestraro Road, 1 kilometer North of intersection with Cannibal Island Road, nonsectionized area, T.3N. R.2W. HBM. Cannibal Island Quadrangle (7.5 minutes series); WGS84 Decimal degrees 40.6524611 latitude, and -124.2931111 longitude, UTM Zone 10 390673nE, 4500982mN. NAD 83.  
+
+RANGE IN CHARACTERISTICS:
+
+Soil Moisture: The soil is usually moist in all parts in the soil moisture control section (between the depths 15 and 45 centimeters) in most years, and is saturated in some part during the months of December through April.  The soils have an aquic soil moisture regime.
+
+Soil Temperature: The mean annual soil temperature at 50 centimeters is 12 to 14 degrees C. The average summer soil temperature is about 16 degrees C and the average winter soil temperature is about 10 degrees C. The difference between average summer and winter soil temperatures is 6 or less degrees C.
+
+Particle Size Control Section: (weighted average) 35 to 45 percent
+
+Depth to redoximorphic features: 0 to 10 centimeters
+
+Endosaturation:  The water table is at a depth of 0 to 10 centimeters from December through April, between 15 to 90 centimeters in May, between 30 to 90 centimeters from June through July, and 90 to greater than 183 centimeters from August through November.
+
+Electrical conductivity:  strongly saline (greater than 30 dS/m). 
+
+Az horizon
+       Hue: 10YR, 2.5Y, or 5Y moist or dry
+       Value:  4 or 5 moist, 6 or 7 dry
+       Chroma: 1 or 2, moist or dry.
+       Clay content: 20 to 27 percent
+       Reaction: slightly acid to neutral
+
+       Redoximorphic features: fine and medium iron-manganese masses
+       Quantity: few to many
+       Hue: 7.5YR, 10YR
+       Value: 3 to 6
+       Chroma: 4 to 6	
+
+Bzg horizon
+       Hue: 2.5Y, 5Y, or N, moist or dry
+       Value: 4 or 5 moist, 5 to 7 dry
+       Texture of fine earth: silty clay loam, silty clay
+       Clay content: 27 to 45 percent
+       Reaction: neutral to moderately alkaline
+
+Redoximorphic features: common to many iron-manganese masses in the matrix
+       Quantity: few to many
+       Hue: 7.5YR, 10YR, 2.5y
+       Value: 3 to 6
+       Chroma: 4 to 6
+
+Some pedons have buried A horizons.
+
+COMPETING SERIES: There are no other series in this family. 
+
+GEOGRAPHIC SETTING: Wigi soils are on tidal marshes and salt marshes on alluvial plains near the Pacific Ocean and are influenced by its tidal fluctuations. Slopes are 0 to 2 percent. These soils formed in mixed alluvium. Elevation is 0 to 5 meters. The climate is humid with cool, foggy summers and cool, rainy winters. Mean annual precipitation is 890 to 2030 millimeters.  The mean January temperature is about 9 degrees C. The mean July temperature is about 14 degrees C. The mean annual air temperature is 10 to 13 degrees C. Frost free season is about 275 to 330 days.
+
+GEOGRAPHICALLY ASSOCIATED SOILS: These are the Arlynda, Fluvaquentic Endoaquolls, Occidental, Swainslough, and Weott soils.  Arlynda, Fluvaquentic Endoaquolls, Swainslough, and Weott soils are in backswamps, depressions, and low floodplain steps on alluvial plains above the influence of tidal fluctuations. Occidental soils are on reclaimed salt marshes and tidal marshes on alluvial plains farther from the Pacific Ocean and less influenced by its tidal fluctuations.
+
+DRAINAGE AND PERMEABILITY: Very poorly drained; moderate runoff; slow permeability.  The soils are occasionally flooded for brief periods December through February. The soils are frequently ponded 1 to 60 centimeters deep for long periods December through March. 
+
+USE AND VEGETATION: These soils are used for pasture, hay, wetland wildlife habitat and recreation. Nearly all areas of this soil have been cleared.  Natural vegetation is assumed to have been perennial salt tolerant grasses, rushes, and sedges.
+
+DISTRIBUTION AND EXTENT: California Coastal Redwood Belt.  MLRA 4B. The series is not extensive. 
+
+MLRA SOIL SURVEY REGIONAL OFFICE (MO) RESPONSIBLE: Davis, California
+
+SERIES ESTABLISHED: Humboldt County, California, 2012.  Proposed 2005.  Name is the Wiyot language reference for (Humboldt) Bay. Source Nina Hapner, Environmental Director for Table Bluff Reservation - Wiyot Tribe.
+
+REMARKS:  Diagnostic horizons and features recognized in this pedon are:
+1. Ochric epipedon - the zone from 0 to 18 centimeters. (Az horizon)
+2. Cambic horizon - the zone from 18 to 160 centimeters. (Bng1, Bng2, Bng3 horizons)
+3. Salic horizon the zone from 0 to 160 has an electrical conductivity of greater than 37 throughout, and the product of the dS/m and thickness in centimeters, is equal to 5748. (Az, Bzg1, Bzg2, Bzg3 horizons)
+4. Particle-size control section - the zone between 25 and 100 centimeters averages 35 percent clay. (Bzg1, Bzg2 horizons)
+
+ADDITIONAL DATA: NASIS User Pedon ID: 01CA600010. 
+Electrical Conductivity values from Typical pedon samples analyzed at Humboldt State University Soil Lab by Soil Survey staff in 2001. 
+
+Soil classified using Keys to Soil Taxonomy, 12th edition.  In May 2016 the n designation suffix was removed due to lack of definitive proof of sodium and replaced with z in the Az, Bzg1, Bzg2, Bzg3 horizons, as is documented. 
+
+National Cooperative Soil Survey
+U.S.A.

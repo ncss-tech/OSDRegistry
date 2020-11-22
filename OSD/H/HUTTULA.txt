@@ -1,0 +1,126 @@
+LOCATION HUTTULA                WA
+
+Established Series
+Rev. DRU/EED
+04/2017
+
+HUTTULA SERIES
+
+Landscape--river valleys, outwash plains
+Landform--outwash terraces
+Slope--0 to 5 percent
+Parent material--alluvium over glacial outwash
+Mean annual precipitation--about 1500 mm
+Mean annual air temperature--about 11 degrees C
+Depth class--very deep
+Drainage class--somewhat poorly drained
+Soil moisture regime--aquic
+Soil temperature regime--mesic
+Soil moisture subclass--xeric
+
+TAXONOMIC CLASS: Loamy-skeletal, isotic, nonacid, mesic Aquandic Humaquepts
+
+TYPICAL PEDON: Huttula gravelly loam, forested (When described on August 24, 2015, the soil was moist throughout.)
+
+ A1--0 to 17 cm; gravelly loam, very dark brown (7.5YR 2.5/2) moist, brown (7.5YR 4/2) dry; moderate fine granular structure; soft, very friable, slightly sticky and slightly plastic; many very fine roots; common fine and few medium irregular pores and common very fine tubular pores; 30 percent gravel; strongly acid (pH 5.3); abrupt smooth boundary
+
+ A2--17 to 44 cm; very gravelly sandy loam, very dark brown (7.5YR 2.5/2) moist, brown (7.5YR 4/3) dry; weak very fine subangular blocky structure; slightly hard, friable, nonsticky and slightly plastic; common very fine roots; few fine and medium irregular pores and few very fine tubular pores; 40 percent gravel; strongly acid (pH 5.3); clear wavy boundary
+
+ Bg--44 to 79 cm; very gravelly sandy loam, very dark grayish brown (10YR 3/2) moist, grayish brown (10YR 5/2) dry; weak very fine subangular blocky structure; slightly hard, friable, nonsticky and nonplastic; few very fine roots; common very fine interstitial and few medium irregular pores; 5 percent medium prominent strong brown (7.5YR 4/6) masses of oxidized iron around rock fragments; 45 percent gravel; moderately acid (pH 5.8); abrupt smooth boundary
+
+ 2Cg--79 to 150 cm; extremely gravelly loamy sand, very dark grayish brown (2.5Y 3/2) moist, grayish brown (2.5Y 5/2) dry; single grain; loose, nonsticky and nonplastic; common very fine interstitial pores; 5 percent medium prominent strong brown (7.5YR 4/6) masses of oxidized iron around rock fragments; 65 percent gravel; moderately acid (pH 6.0)
+
+TYPE LOCATION: Thurston County, Washington; about 755 m north and 390 m west of the southeast corner of section 35, T. 17 N., R. 3 W, Willamette Meridian; Little Rock, Washington, U.S. Geological Survey Quadrangle; latitude 46.9159140 degrees north, longitude 123.0185150 degrees west, WGS 84 (coordinates determined with a GPS)
+
+RANGE IN CHARACTERISTICS:
+Mean annual soil temperature--10 to 12 degrees C
+Umbric epipedon thickness--50 to 90 cm
+Depth to aquic conditions--30 to 50 cm
+Sodium fluoride pH--greater than 10.0
+Ratio of clay to 1500 kPa water--greater than 0.8
+Particle-size control section--5 to 18 percent clay (weighted average); 35 to 55 percent rock fragments (weighted average)
+
+A horizon
+Hue--10YR, 7.5YR
+Value--2 or 2.5 moist, 2 to 4 dry
+Chroma--1 or 2 moist, 1 to 3 dry
+Content of coarse silt to very coarse sand in fine-earth fraction--30 percent or more
+Volcanic glass content--5 to 15 percent
+Ammonium oxalate extractable Al plus 1/2 Fe times 60 plus volcanic glass--30 or more
+1/3-bar bulk density--0.90 to 1.20 g/cm3
+Fine-earth texture--loam, sandy loam
+Total rock fragment content--10 to 55 percent
+Gravel content--10 to 55 percent
+Cobble content--0 to 10 percent
+Reaction (pH)--5.1 to 6.0
+Thickness--35 to 75 cm
+
+Bg horizon
+Value--3 to 5 moist, 3 to 6 dry
+Chroma--2 or 3, moist or dry
+Content of coarse silt to very coarse sand in fine-earth fraction--30 percent or more
+Volcanic glass content--5 to 15 percent
+Ammonium oxalate extractable Al plus 1/2 Fe times 60 plus volcanic glass--30 or more
+1/3-bar bulk density--0.90 to 1.20 g/cm3
+Fine earth texture--loam, sandy loam
+Total rock fragment content--35 to 55 percent
+Gravel content--35 to 55 percent
+Cobble content--0 to 10 percent
+Reaction (pH)--5.1 to 6.5
+Thickness--15 to 45 cm
+
+2Cg horizon
+Hue--10YR, 2.5Y
+Value--3 to 5 moist, 4 to 7 dry
+Chroma--2 to 4 moist or dry
+Fine earth texture--sandy loam, loamy sand
+Total rock fragment content--40 to 85 percent
+Gravel content--40 to 80 percent
+Cobble content--0 to 25 percent
+Reaction (pH)--5.6 to 7.3
+
+COMPETING SERIES: None
+
+GEOGRAPHIC SETTING:
+Elevation--5 to 55 m
+Mean annual precipitation--1200 to 1800 mm
+Mean annual air temperature--10 to 11 degrees C
+Frost-free period--150 to 200 days
+
+GEOGRAPHICALLY ASSOCIATED SOILS:
+Eld--less than 15 percent rock fragments in particle-size control section; occasionally flooded; in slightly convex to linear positions of flood plains lower on the landscape
+Daviscreek--andic soil properties; no aquic conditions within 200 cm of the soil surface; in convex to linear positions of outwash terraces
+Gate--less than 15 percent rock fragments in particle-size control section; aquic conditions at a depth of 75 to 100 cm from the soil surface; on convex to linear alluvial fans and terraces
+Grandmound--less than 15 percent clay in particle-size control section; no aquic conditions within 200 cm of the soil surface; in convex to linear positions of outwash terraces
+Nemah--greater than 35 percent clay in particle-size control section; aquic conditions to the soil surface; in concave depressions
+Roundtree--less than 15 percent rock fragments in particle-size control section; aquic conditions to the soil surface; frequently flooded; frequently ponded; in concave depressions and overflow stream channels
+
+DRAINAGE AND SATURATED HYDRAULIC CONDUCTIVITY:
+Drainage class--somewhat poorly drained
+Depth to apparent seasonal water table--30 to 50 cm at times in November through April, 50 to 100 cm in May
+Flooding--occasional, brief periods in November through March
+Saturated hydraulic conductivity (Ksat)--moderately high or high in A and Bg horizons, high or very high in 2Cg horizon
+
+USE AND VEGETATION:
+Use--livestock grazing and hay production in cleared areas, wildlife habitat
+Native vegetation--Douglas-fir, western redcedar, red alder, bigleaf maple, black cottonwood, salmonberry, common snowberry, salal, willow, red elderberry, vine maple, swordfern
+
+DISTRIBUTION AND EXTENT: Western Washington; MLRA 2; small extent
+
+MLRA SOIL SURVEY REGIONAL OFFICE (MO) RESPONSIBLE: Portland, Oregon
+
+SERIES PROPOSED: Grays Harbor County, Washington; 2016; name from Huttula Lake near Elma, Washington
+
+REMARKS:
+Diagnostic horizons and other features in this pedon
+*Particle-size control section--zone from 25 to 100 cm
+*Umbric epipedon--zone from the surface to a depth of 79 cm
+*Redoximorphic concentrations--zone from 44 to 150 cm
+*Aquic conditions--zone from 44 to 150 cm
+*Endosaturation--zone from 44 to 150 cm
+*Depth to lithologic discontinuity--79 cm
+
+11/2016--The Huttula series was established as part of an update project. The official series description was developed according to SSR01 Technical Note--Content and Format of Official Series Descriptions (revised 12/2015). Further field investigation and laboratory sampling in the glacially modified river valleys and on outwash plains of MLRA 2 is recommended to determine the distribution.
+
+National Cooperative Soil Survey
+U.S.A.

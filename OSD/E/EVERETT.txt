@@ -1,0 +1,122 @@
+LOCATION EVERETT                WA
+
+Established Series
+Rev. DES/CAB/CRF/EED
+10/2018
+
+EVERETT SERIES
+
+Landscape--glacial drift plains
+Landform--outwash terraces and escarpments, kames, moraines, eskers
+Slope--0 to 65 percent
+Parent material--glacial outwash
+Mean annual precipitation--about 1050 mm
+Mean annual temperature--about 10 degrees C
+Depth class--very deep
+Drainage class--somewhat excessively drained
+Soil moisture regime--xeric
+Soil temperature regime--mesic
+Soil moisture subclass--typic
+
+TAXONOMIC CLASS: Sandy-skeletal, isotic, mesic Humic Dystroxerepts
+
+TYPICAL PEDON: Everett very gravelly sandy loam on a forested north-facing slope of 3 percent at 150 meters elevation. When described on October 21, 2009, the soil was slightly moist throughout. 
+
+ Oi--0 to 3 cm; slightly decomposed plant material consisting of leaves, needles, and twigs 
+
+ A--3 to 8 cm; very gravelly sandy loam, brown (7.5YR 4/3) dry, very dark brown (7.5YR 2.5/2) moist; weak fine subangular blocky structure; soft, very friable, nonsticky and nonplastic; many very fine and fine roots; common medium and fine tubular pores; 35 percent gravel, 10 percent cobbles; strongly acid (pH 5.3); clear smooth boundary
+
+ Bw--8 to 60 cm; very gravelly sandy loam, brown (7.5YR 5/4) dry, dark brown (7.5YR 3/4) moist; weak fine subangular blocky structure; soft, very friable, nonsticky and nonplastic; many very fine to medium roots; common fine tubular pores; 35 percent gravel, 10 percent cobbles; strongly acid (pH 5.5); clear wavy boundary 
+
+ C1--60 to 90 cm; very gravelly loamy sand, yellowish brown (10YR 5/4) dry, dark yellowish brown (10YR 4/4) moist; single grain; loose, nonsticky and nonplastic; common medium and few coarse roots; many very fine interstitial pores; 40 percent gravel, 10 percent cobbles; strongly acid (pH 5.5); gradual wavy boundary 
+
+ C2--90 to 150 cm; extremely cobbly sand, yellowish brown (10YR 5/4) dry, dark yellowish brown (10YR 4/4) moist; single grain; loose, nonsticky and nonplastic; few coarse roots; many very fine interstitial pores; 40 percent gravel, 35 percent cobbles; moderately acid (pH 5.6) 
+
+TYPE LOCATION: Thurston County, Washington; Joint Base Lewis-McChord; about 629m  east and 566m south of NW corner of sec. 3, T. 17 N., R. 1 E., Willamette Meridian; Tenalquot Prairie, Washington, U.S. Geological Survey quadrangle; latitude: 46.99097 north, longitude: 122.66686 degrees west, WGS84 (coordinates estimated from PLSS details)
+
+RANGE IN CHARACTERISTICS: 
+*Mean annual soil temperature--9 to 12 degrees C 
+*Soil Moisture control section--dry 60 to 75 days following the summer solstice 
+*Reaction (pH)-- 4.5 to 6.0
+*Base Saturation (by NH4OAc)--less than 60 percent in all horizons at a depth between 25 and 75 cm from the mineral soil surface
+
+Particle size control section (weighted average): 
+* Clay content--2 to 10 percent 
+*Rock fragments: 
+*Total--35 to 85 percent 
+
+A horizon 
+Hue--10YR, 7.5YR, or 5YR 
+Value--2 or 3 moist, 4 or 5 dry 
+Chroma--1 to 3, moist or dry
+Fine-earth texture--sandy loam, fine sandy loam, sandy loam, or loam
+Total fragments--0 to 65 percent 
+Gravel content--0 to 45 percent 
+Cobble content--0 to 15 percent 
+Stone content--0 to 5 percent
+Thickness--3 to 15 cm
+
+Bw horizon 
+Hue--10YR or 7.5YR 
+Value--3 to 6, moist or dry 
+Chroma--2 to 6, moist or dry 
+Fine-earth texture--sandy loam, silt loam, coarse sand, loamy sand, or loamy coarse sand 
+Total fragments--35 to 85 percent 
+Gravel content--35 to 85 percent 
+Cobble content--0 to 40 percent 
+Stone content--0 to 5 percent 
+Thickness--15 to 55 cm
+
+C horizon 
+Hue--7.5YR to 5Y 
+Value--3 or 6 moist, 4 to 6 dry 
+Chroma--1 to 6, moist or dry 
+Fine-earth texture--sand, loamy sand, loamy coarse sand, or coarse sandy loam
+Total fragments--35 to 85 percent 
+Gravel content--35 to 85 percent 
+Cobble content--0 to 40 percent 
+Stone content--0 to 5 percent
+Thickness--15 to 50 cm
+
+COMPETING SERIES: There are no competing series 
+
+GEOGRAPHIC SETTING:
+Elevation--10 to 280 m
+Mean annual precipitation--900 to 1800 mm
+Mean annual air temperature--10 C
+Frost free period--180 to 240
+
+GEOGRAPHICALLY ASSOCIATED SOILS: 
+Alderwood, Kapowsin--densic contact at a depth of 50 to 100 cm from the soil surface; on adjacent hills and ridges
+Baldhill--textures of loamy very fine sand, very fine sand, or finer with less than 35 percent clay in the fine earth fraction of the particle size control section; on terminal moraines 
+Indianola--less than 15 percent coarse fragments in the particle size control section; on adjacent hills, and terrace escarpments 
+
+DRAINAGE AND SATURATED HYDRAULIC CONDUCTIVITY: 
+*Drainage class--somewhat excessively drained
+*Flooding--none
+*Ponding--none
+*Saturated hydraulic conductivity (Ksat)--high in the A horizon and high to very high in the Bw and C horizons
+
+USE AND VEGETATION:
+*Use--livestock grazing, timber production, urban development
+*Potential natural vegetation-- bigleaf maple, red alder, Douglas-fir, western redcedar, western hemlock, salal, hairy brackenfern, red huckleberry, Nootka rose, oceanspray, Cascade Oregongrape, and orange honeysuckle
+
+DISTRIBUTION AND EXTENT: Northwest Washington; MLRA 2; large extent
+
+SOIL SURVEY REGIONAL OFFICE (SSRO) RESPONSIBLE: Portland, Oregon 
+
+SERIES ESTABLISHED: 1910 Reconnaissance Survey of Eastern Puget Sound Basin, Washington
+
+REMARKS:
+Diagnostic horizons and features in this pedon
+*Particle-size control section--zone from 28 to 103 cm
+*Ochric epipedon
+*Cambic horizon--zone from 3 to 60 cm
+
+2010--Changed from previous classification of sandy-skeletal, isotic, mesic Vitrandic Dystroxerepts. Existing laboratory data does not reflect the presence of adequate quantities of volcanic glass to support the Vitrandic subgroup. Humic subgroup criteria is met using the twelfth edition of Keys to Soil Taxonomy. 
+04/2018--The official series description was edited according to SSR01 Technical Note--Content and Format of Official Series Descriptions (revised 11/2017).
+
+ADDITIONAL DATA: Laboratory data is available for this series. National Soil Survey Laboratory S09WA067069, S09WA053124, S09WA-053-001
+
+National Cooperative Soil Survey
+U.S.A.

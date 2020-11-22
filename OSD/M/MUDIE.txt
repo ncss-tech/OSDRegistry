@@ -1,0 +1,124 @@
+LOCATION MUDIE                  AK
+
+Established Series
+SAS/TJR/MPR
+03/2019
+
+MUDIE SERIES
+
+Landscape--shore complexes
+Landform--tidal flats
+Slope--0 to 3 percent
+Parent material--marine deposits
+Mean annual precipitation--about 600 mm
+Mean annual air temperature--about 1 degree C
+Depth class--very deep
+Drainage class--very poorly drained
+Soil moisture regime--peraquic
+Soil temperature regime--cryic
+Soil moisture subclass--typic
+
+TAXONOMIC CLASS: Coarse-silty, isotic, nonacid Typic Cryaquents
+
+TYPICAL PEDON: Mudie silt loam on a linear tidal flat, on a slope of 1 percent at an elevation of 3 m (The soil was saturated throughout the profile when described on September 18, 2007.)
+
+ ACg--0 to 13 cm; silt loam, gray (5Y 6/1) dry, dark gray (5Y 4/1) moist; weak fine subangular blocky structure; soft, friable, slightly sticky and nonplastic; many very fine, fine, and medium roots; neutral (pH 7.3); gradual smooth boundary
+
+ Cg1--13 to 29 cm; silt loam, light gray (2.5Y 7/1) dry, gray (2.5Y 5/1) moist; massive; slightly hard, friable slightly sticky and slightly plastic; common very fine, fine, and medium roots; 25 percent medium masses of oxidized iron, strong brown (7.5YR 4/6) moist, clear boundaries; neutral (pH 6.9); gradual smooth boundary
+
+ Cg2--29 to 60 cm; silt loam, gray (2.5Y6/1) dry, dark gray (2.5Y 4/1) moist; massive; slightly hard, friable, slightly sticky and nonplastic; 45 percent medium masses of oxidized iron, yellowish red (5YR 4/6) moist, sharp boundaries; neutral (pH 6.8); gradual smooth boundary
+
+ Cg3--60 to 180 cm; silt loam, gray (N 5/0) dry, very dark gray (N 3/0) moist; massive; slightly hard, friable, nonsticky and slightly plastic; neutral (pH 6.9)
+
+TYPE LOCATION: Dillingham Census Area, Alaska, in the village of Ekuk; latitude 58.813056 degrees north, longitude 158.5547222 degrees west, datum WGS 84 (coordinates determined with a GPS)
+
+RANGE IN CHARACTERISTICS:
+Mean annual soil temperature--1 to 4 degrees C
+Soil moisture control section--saturated in all parts during the growing season (peraquic moisture regime)
+Aquic conditions--throughout profile
+Reduced matrix--throughout profile
+
+Particle-size control section
+*Clay content--3 to 10 percent
+*Coarse fragment content--0 to 3 percent
+*Particles that have a diameter of 0.1 to 77 mm (fine sand or coarser)--0 to 15 percent
+*Sodium fluoride pH--greater than or equal to 8.4
+*Ratio of 1500 kPa water to measured clay--greater than or equal to 0.6
+
+ACg horizon
+Hue--2.5Y, 5Y
+Value--4 or 5 moist, 6 or 7 dry
+Chroma--1 or 2 moist
+Fine-earth texture--silt loam, silt
+Clay content--3 to 10 percent
+Reaction--6.0 to 7.3
+Electrical conductivity--4 to 8 ds/m
+Thickness--2 to 15 cm
+
+Cg1 horizon
+Hue--2.5Y, 10B
+Value--2.5 or 5 moist, 4 to 7 dry
+Clay content--3 to 10 percent
+Reaction--6.1 to 6.9
+Electrical conductivity--4 to 8 ds/m
+Thickness--15 to 75 cm 
+
+Cg2 horizon
+Hue---2.5Y, 10Y, neutral
+Value--3 or 4 moist, 5 or 6 dry
+Chroma--1 or 0 moist
+Fine-earth texture--silt, silt loam
+Clay content--3 to 10 percent
+Reaction--6.4 to 6.8
+Electrical conductivity--4 to 8 ds/m
+Rock fragment content--0 to 3 percent gravel
+Thickness--15 to 45 cm
+
+Cg3 horizon
+Hue--neutral, 5B
+Value--2.5 or 3 moist, 4 or 5 dry
+Chroma--1 or 0 moist
+Fine-earth texture--silt, silt loam
+Clay content--3 to 10 percent
+Reaction--6.7 to 7.2
+Electrical conductivity--4 to 8 ds/m
+Thickness--45 to 148 cm 
+
+COMPETING SERIES: None
+
+GEOGRAPHIC SETTING:
+Elevation--0 to 15 m
+Climate--warm, moist summers; cold, moist winters
+Mean annual precipitation--520 to 720 mm
+Mean annual air temperature--0.3 to 0.9 degree C
+Frost-free period--85 to 140 days
+
+GEOGRAPHICALLY ASSOCIATED SOILS:
+Sheepisland-organic soil material; similar landscape positions
+Flounder--no aquic conditions at surface; 40 to 70 percent slopes; coarse-loamy particle size class; bluffs
+Picnicpoint-organic soil material; similar landscape positions
+
+DRAINAGE AND SATURATED HYDRAULIC CONDUCTIVITY:
+Drainage class--very poorly drained
+Flooding--very frequent, extremely brief
+Saturation in normal years--at the soil surface and throughout the profile during all months
+Saturated hydraulic conductivity (Ksat)--Moderately high throughout, except moderately high or high in the Cg2 horizon
+
+USE AND VEGETATION:
+Use--wildlife habitat, recreation, subsistence
+Potential natural vegetation--bluejoint, Lyngbye's sedge, American dunegrass, purple marshlocks, marsh pea, marsh willowherb
+
+DISTRIBUTION AND EXTENT: Bristol Bay Lowlands, Alaska; MLRA 236; small extent
+
+SOIL SURVEY REGIONAL OFFICE (SSRO) RESPONSIBLE: Portland, Oregon
+
+SERIES ESTABLISHED: Togiak National Wildlife Refuge, Ahklun Mountains Area, Dillingham Census Area, Alaska, 2019
+
+REMARKS:
+Diagnostic horizons and other features in this pedon
+*Particle-size control section--zone from 25 to 100 cm
+*Aquic conditions--throughout the profile
+*Reduced matrix--all horizons
+
+National Cooperative Soil Survey
+U.S.A.

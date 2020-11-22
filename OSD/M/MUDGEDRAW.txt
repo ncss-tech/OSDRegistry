@@ -1,0 +1,146 @@
+LOCATION MUDGEDRAW              TX
+
+Established Series
+THW-AKN-RM
+03/2018
+
+MUDGEDRAW SERIES
+
+The Mudgedraw series consists of deep, well drained, very slowly permeable soils formed in slope alluvium derived from limestone. These nearly level to gently sloping soils occur on footslopes of ridges on dissected plateaus. Slope ranges from 0 to 5 percent. Mean annual precipitation is about 787 mm (31 in), and mean annual air temperature is about 18.3 degrees C (65 degrees F).
+
+TAXONOMIC CLASS: Fine, smectitic, thermic Typic Haplusterts
+
+TYPICAL PEDON: Mudgedraw gravelly clay loam, 3 percent slope in rangeland; elevation is 678.2 m (2225 ft) (Colors are for dry soil unless otherwise stated.)
+
+     A--0 to 15 cm, (0 to 6 in); very dark grayish brown (10YR 3/2) gravelly clay loam, very dark brown (10YR 2/2), moist; moderate fine subangular blocky structure; slightly hard, firm, moderately sticky, moderately plastic; common very fine roots throughout and common coarse roots throughout and common medium roots throughout and common fine roots throughout; 20 percent nonflat subangular indurated 2 to 75 mm limestone fragments; neutral; clear smooth boundary. (Thickness is 10 to 28 cm [4 to 11 in]).
+
+    Btss1--15 to 41 cm, (6 to 16 in); dark brown (7.5YR 3/2) clay, very dark brown (7.5YR 2.5/2), moist; strong coarse subangular blocky structure; hard, very firm, very sticky, very plastic; common very fine roots throughout and common coarse roots throughout and common medium roots throughout and common fine roots throughout; 25 percent slickensides (pedogenic) on bottom faces of peds and distinct clay films on all faces of peds; 5 percent nonflat subangular indurated 2 to 75 mm limestone fragments;  slightly alkaline; clear smooth boundary.
+
+     Btss2--41 to 89 cm, (16 to 35 in); dark brown (7.5YR 3/3) clay, very dark brown (7.5YR 2.5/3), moist; strong coarse subangular blocky structure; hard, very firm, very sticky, very plastic; common medium roots throughout and common fine roots throughout; 20 percent distinct slickensides (pedogenic) on bottom faces of peds and prominent clay films on all faces of peds; 5 percent nonflat subangular indurated 2 to 75 mm limestone fragments; slightly alkaline; clear smooth boundary. (Combined thickness is 71 to 142 cm [28 to 56 in]).
+
+    Btss3--89 to 119 cm, (35 to 47 in); reddish brown (5YR 4/4) clay, dark reddish brown (5YR 3/4), moist; strong coarse subangular blocky structure; hard, very firm, very sticky, very plastic; common fine roots throughout; 15 percent distinct slickensides (pedogenic) on bottom faces of peds and prominent clay films on all faces of peds; 5 percent nonflat subangular indurated 2 to 75 mm limestone fragments; slightly alkaline.
+
+    Cr--119 to 137 cm, (47 to 54 in); 70 percent strong brown (7.5YR 5/6) and 30 percent white (2.5Y 8/1), moderately cemented limestone bedrock, 70 percent strong brown (7.5YR 5/6) and 30 percent white (2.5Y 8/1), moist; strong effervescence; moderately alkaline; abrupt wavy boundary. (Thickness is 0 to 25 cm [0 to 10 in]).
+
+     R--137 to 160 cm, (54 to 63 in); strongly cemented limestone bedrock; strong effervescence.   
+
+TYPE LOCATION: Kerr County, TX; from the intersection of Interstate 10 and State Highway 41 about 23.5 miles southwest on State Highway 41 to US Highway 83; 4.6 miles south on US Highway 83 to private road; 2.4 miles east on private road; 0.8 miles north in rangeland.
+
+USGS topographic quadrangle: Garven Store, Texas
+Latitude: 30 degrees, 0 minutes, 59.1 seconds N 
+Longitude: 99 degrees, 39 minutes, 11.5 seconds W
+
+Decimal Degrees
+Latitude: 30.0164141
+Longitude: -99.6532073
+Datum: WGS84
+
+UTM Easting 437009.35 m
+UTM Northing 3320783.79 m
+UTM Zone 14
+
+RANGE IN CHARACTERISTICS:
+The surface is covered by about 10 percent limestone fragments 2 to 75 mm (1/8 to 3 in) in diameter.
+
+Soil Moisture: Typic ustic soil moisture regime. 
+Depth to argillic horizon: 10 to 28 cm (4 to 11 in)
+Depth to slickensides: 9 to 28 cm (3.5 to 11 in)
+Vertic features: The soil is usually moist, but when dry it has cracks ranging from 0.5 to 4 cm (0.5 to 1.5 in) wide extend from the surface to a depth of 50 to 98 cm (19.5 to 38.5 in). Cracks remain open for 90 to 210 cumulative days in most years
+Thickness of the mollic epipedon: 50 to 99 cm (19.5 to 39 in)
+
+Particle-size control section (weighted average)
+   Clay content: 40 to 60 percent
+   Rock fragments: 0 to 25 percent
+
+A Horizon
+Hue: 7.5YR or 10YR
+Value: 3 or 4, 2 or 3 moist
+Chroma: 1 or 2
+Texture: silty clay loam, clay loam, silty clay, or clay or their gravelly phase
+Clay content: 28 to 50 percent 
+Rock fragments: 1 to 25 percent by volume; gravel; limestone
+Electrical conductivity (dS/m): 0 to 2
+Effervescence: noneffervescent
+Reaction (pH): slightly acid to slightly alkaline (6.2 to 7.8)
+
+Btss Horizon (upper)
+Hue: 5YR or 7.5YR
+Value: 3 or 4, 2.5 to 3 moist
+Chroma: 2 to 4
+Texture: clay or its gravelly phase
+Clay content: 40 to 60 percent
+Rock fragments: 0 to 25 percent by volume; gravel; limestone
+Electrical conductivity (dS/m): 0 to 2
+Effervescence: noneffervescent
+Reaction (pH): neutral to moderately alkaline (6.8 to 8.4)
+
+Btss Horizon (lower)
+Hue: 5YR to 10YR
+Value: 3 or 4, 3 to 4 moist
+Chroma: 2 to 4
+Texture: clay or its gravelly or very gravelly phase
+Clay content: 40 to 65 percent
+Rock fragments: 0 to 55 percent by volume total; 0 to 50 percent gravel, 0 to 5 percent cobbles; limestone
+Electrical conductivity (dS/m): 0 to 2
+Effervescence: noneffervescent to slight
+Reaction (pH): neutral to moderately alkaline (6.8 to 8.4)
+
+Cr Horizon
+Weakly to moderately cemented limestone bedrock
+
+R Horizon
+Strongly cemented to indurated limestone bedrock
+
+COMPETING SERIES: These are the Campwood, Hollister, Indiahoma, Irion, Lockney, Roscoe, and Teagard series in the same family. 
+Campwood, Hollister, Irion, Lockney, and Roscoe Teagard soils: do not have an argillic horizon and are very deep.
+Indianola soils: are deep to weakly stratified clays of Permian age.
+Teagard soils: are moderately deep to sandstone.
+
+GEOGRAPHIC SETTING:
+Parent material: slope alluvium derived from limestone over residuum derived from limestone 
+Landscape: dissected plateaus
+Landform: footslopes
+Slope: 0 to 5 percent
+Mean annual precipitation: 711 to 864 mm (28 to 34 in)
+Precipitation Pattern: Bimodal rainfall with May, June, September, and October being the wettest months.
+Thornthwaite P-E Index: 35 to 45
+Mean annual air temperature: 17.8 to 19.4 degrees C (64 to 67 degrees F)
+Frost-free period: 220 to 240 days
+Elevation: 525.8 to 693.4 m (1725 to 2275 ft)
+
+GEOGRAPHICALLY ASSOCIATED SOILS: These are the Eckrant, Harper, Krum, Prade, Tarpley, and the tentative Bonedraw series. 
+Eckrant, Harper, and Tarpley soils: occur on interfluves and side slopes and are shallow to a lithic contact
+Krum soils: occur in similar locations but do not have an argillic horizon
+Prade soils: occur on side slopes and are shallow to a petrocalcic horizon
+Bonedraw soils: occur in draws and have a clay-skeletal particle size control section
+
+DRAINAGE AND PERMEABILITY: 
+Drainage class: Well. 
+Permeability class: very slow. 
+Runoff: high on slopes less than 1 percent and very high on 1 to 5 percent slopes. 
+
+USE AND VEGETATION: Used for livestock grazing and wildlife habitat. Native vegetation consists of little bluestem, Indiangrass, big bluestem, sideoats grama, buffalograss, Texas wintergrass, maximilian sunflower, orange zexmania, Engelmann's daisy, live oak, elm, and hackberry. 
+
+DISTRIBUTION AND EXTENT: Land Resource Region I - Southwest Plateaus and Plains Range and Cotton Region; MLRA 81B; the series is of moderate extent.
+
+SOIL SURVEY REGIONAL OFFICE (SSRO) RESPONSIBLE: Temple, Texas
+
+SERIES ESTABLISHED: Kerr County, Texas, 2017, Kerr County soil survey area, Texas, 2017. The name is from a USGS topographic quadrangle name Mudge Draw, Texas.
+
+REMARKS: The series was formerly included in the Barbarosa series. The series was separated based on the presence of slickensides.
+
+Diagnostic horizons and features recognized in this pedon are:
+
+Particle size control section: 15 to 64 cm (6 to 25 in.) (Bss1 and Bss2 horizons)
+Mollic epipedon: 0 to 89 cm (0 to 35 in). (A, Bss1, and Bss2 horizons)
+Argillic horizon: 14 to 120 cm (5.5 to 47.2 in). (Btss1, Btss2, and Btss3 horizons) 
+Slickensides: 15 to 119 cm (6 to 47 in). (Bss1, Bss2, and Bss3 horizons)
+Paralithic contact: 119 to 137 cm (47 to 54 in). (Cr horizon)
+Lithic contact: 137 to 160 cm (54 to 63 in). (R horizon)
+
+ADDITIONAL DATA: None
+
+Taxonomic Version: Keys to Soil Taxonomy, Twelfth Edition, 2014
+
+National Cooperative Soil Survey
+U.S.A.

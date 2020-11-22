@@ -1,0 +1,136 @@
+LOCATION ATAYAK                 AK
+
+Established Series
+SAS/TJR/MPR
+03/2019
+
+ATAYAK SERIES
+
+Landscape--plains
+Landform--escarpments
+Slope--45 to 85 percent
+Parent material--colluvium over drift over residuum
+Mean annual precipitation--about 1100 mm
+Mean annual air temperature--about 0 degrees C
+Depth class--deep
+Drainage class--well drained
+Soil moisture regime--udic
+Soil temperature regime--cryic
+Soil moisture subclass--typic
+
+TAXONOMIC CLASS: Loamy-skeletal, mixed, superactive Typic Humicryepts
+
+TYPICAL PEDON: Atayak very cobbly sandy loam on an east-northeast-facing, linear backslope of an escarpment, on a slope of 58 percent at an elevation of 341 m (The soil was moist throughout when described on July 21, 2012.)
+
+ A1--0 to 9 cm; very cobbly sandy loam, dark grayish brown (10YR 4/2) dry, very dark brown (10YR 2/2) moist; weak fine granular structure; soft, very friable, nonsticky and nonplastic; common very fine, many fine, and common medium and coarse roots; 20 percent gravel and 20 percent cobbles; extremely acid (pH 3.9); clear smooth boundary
+
+ A2--9 to 20 cm; very cobbly sandy loam, brown (10YR 5/3) dry, dark brown (10YR 3/3) moist; weak medium granular structure; slightly hard, friable, nonsticky and nonplastic; common very fine to coarse roots; 25 percent gravel and 20 percent cobbles; extremely acid (pH 4.3); clear smooth boundary
+
+ Bw--20 to 43 cm; very gravelly sandy loam, light yellowish brown (2.5Y 6/3) dry, olive brown (2.5Y 4/3) moist; weak medium subangular blocky structure; slightly hard, friable, nonsticky and nonplastic; many very fine and fine and common medium and coarse roots; 30 percent gravel and 20 percent cobbles; strongly acid (pH 5.1); gradual smooth boundary
+
+ 2C--43 to 120 cm; extremely cobbly sandy loam, pale yellow (5Y 7/3) dry, olive (5Y 5/3) moist; massive; slightly hard, friable, slightly sticky and slightly plastic; common very fine to medium roots; 40 percent gravel and 40 percent cobbles; moderately acid (pH 5.8)
+
+ 2R--120 cm; bedrock
+
+TYPE LOCATION: Dillingham Census Area, Alaska, about 105 km north northeast of the village of Togiak; latitude 59.9932254 degrees north, longitude 159.8362831 degrees west, datum WGS 84 (coordinates determined with a GPS)
+
+RANGE IN CHARACTERISTICS:
+Mean annual soil temperature--0 to 3 degrees C
+Soil moisture control section--dry less than 45 consecutive days in June through October (udic moisture regime)
+Depth to lithic contact--100 to 150 cm below the soil surface (deep)
+Lithology of rock fragments--sedimentary, volcanic
+Other features--umbric epipedon; lithologic discontinuity
+
+Particle-size control section
+*Clay content--5 to 20 percent
+*Sand content--25 to 75 percent
+*Total rock fragment content--35 to 85 percent
+
+A horizon
+Hue--7.5YR or 10YR
+Value--2 or 3 moist, 4 or 5 dry
+Chroma--1 to 3 moist
+Clay content--4 to 10 percent
+Reaction--3.7 to 5.5
+Total rock fragment content--20 to 50 percent
+Gravel content--10 to 45 percent
+Cobble content--5 to 20 percent
+Stone content--0 to 5 percent
+Combined thickness--18 to 30 cm
+Organic carbon content--2 to 5 percent
+Base saturation--0 to 20 percent
+
+BC horizon
+Hue--10YR or 2.5Y
+Value--3 or 4 moist, 5 or 6 dry
+Chroma--2 or 3 moist
+Fine-earth texture--sandy loam, coarse sandy loam
+Clay content--4 to 10 percent
+Reaction--5.0 to 6.0
+Total rock fragment content--35 to 75 percent
+Gravel content--30 to 70 percent
+Cobble content--0 to 20 percent
+Stone content--0 to 10 percent
+Thickness--10 to 60 cm
+Organic carbon content--1.0 to 2.5 percent
+
+2C horizon
+Hue--10YR to 5Y
+Value--3 to 5 moist, 5 to 7 dry
+Chroma--2 or 3 moist
+Fine-earth texture--sandy loam, silt loam
+Clay content--4 to 20 percent
+Reaction--5.0 to 6.0
+Total rock fragment content--40 to 85 percent
+Gravel content--30 to 80 percent
+Cobble content--5 to 40 percent
+Stone content--0 to 5 percent
+Thickness--10 to 122 cm
+Organic carbon content--0 to 1 percent
+
+COMPETING SERIES:
+Buell--more than 150 cm (very deep) to lithic bedrock; mean annual soil temperature of 4 degrees C
+McCall--more than 150 cm (very deep) to lithic bedrock; mean annual soil temperature higher than 4 degrees C
+Moran--more than 150 cm (very deep) to lithic bedrock
+Walcott--more than 150 cm (very deep) to lithic bedrock
+
+GEOGRAPHIC SETTING:
+Elevation--5 to 820 m
+Climate--warm, moist summers; cold, moist winters
+Mean annual precipitation--620 to 2000 mm
+Mean annual air temperature-- -3.2 to 1.8 degrees C
+Frost-free period--75 to 135 days
+
+GEOGRAPHICALLY ASSOCIATED SOILS:
+Klak--ochric epipedon; andic soil properties; spodic horizon; lower mountain slopes
+Nagugun--ochric epipedon; andic soil properties; spodic horizon; glaciated plains
+Goodnews--ochric epipedon; cambic horizon; shallow; glaciated plains
+Awayak--ochric epipedon, frequent flooding; flood plains
+Longarm--ochric epipedon; aquic conditions; occasional flooding; flood plains
+Pegati--andic soil properties; swales
+Kwethluk--ochric epipedon; andic soil properties; glaciated plains and outwash terraces
+Pungokepuk--ochric epipedon; andic soil properties; spodic horizon; redoximorphic concentrations; swales
+
+DRAINAGE AND SATURATED HYDRAULIC CONDUCTIVITY:
+Drainage class--well drained
+Saturated hydraulic conductivity (Ksat)--high in the A and Bw horizons; moderately high or high in the 2C horizon
+
+USE AND VEGETATION:
+Use--wildlife habitat, recreation, subsistence
+Potential natural vegetation--alder, bluejoint, spreading woodfern, western oakfern, red elderberry, claspleaf twistedstalk
+
+DISTRIBUTION AND EXTENT: Ahklun Mountains, Alaska; MLRA 237; small extent
+
+SOIL SURVEY REGIONAL OFFICE (SSRO) RESPONSIBLE: Portland, Oregon
+
+SERIES ESTABLISHED: Togiak National Wildlife Refuge, Dillingham Census Area, Alaska; 2019
+
+REMARKS:
+Diagnostic horizons and other features in this pedon
+*Particle-size control section--zone from 25 to 100 cm
+*Umbric epipedon--A horizon
+*Cambic horizon--Bw horizon
+*Depth to lithic bedrock--120 cm below the soil surface
+
+National Cooperative Soil Survey
+U.S.A.

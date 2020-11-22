@@ -1,0 +1,147 @@
+LOCATION COURTNEY               OR
+
+Established Series
+Rev. AON/JGM/EED
+12/2017
+
+COURTNEY SERIES
+
+Landscape--Willamette Valley
+Landform--depressions and drainageways of stream terraces
+Slope--0 to 3 percent
+Parent material--mixed alluvium
+Mean annual precipitation--about 1300 mm
+Mean annual air temperature--about 11 degrees C
+Depth class--very deep
+Drainage class--poorly drained
+Soil moisture regime--aquic
+Soil temperature regime--frigid
+Soil moisture subclass--typic
+
+TAXONOMIC CLASS: Fine, smectitic, mesic Abruptic Argiaquolls
+
+TYPICAL PEDON: Courtney gravelly silty clay loam, cultivated
+
+ A1--0 to 20 cm; gravelly silty clay loam, dark grayish brown (10YR 4/2) dry, very dark brown (10YR 2/2) moist; moderate fine subangular blocky structure; slightly hard, friable, moderately sticky and moderately plastic; many very fine roots; few fine tubular pores; 1 percent fine distinct yellowish brown (10YR 5/6) masses of oxidized iron; 20 percent gravel; moderately acid (pH 5.6); clear smooth boundary
+
+ A2--20 to 43 cm; gravelly silty clay loam, dark grayish brown (10YR 4/2) dry, very dark brown (10YR 2/2) moist; moderate medium subangular blocky structure; hard, firm, moderately sticky and moderately plastic; many fine roots; few fine tubular pores; 6 percent medium distinct yellowish brown (10YR 5/6) masses of oxidized iron; 25 percent gravel; moderately acid (pH 5.8); abrupt smooth boundary
+
+ 2Btg1--43 to 60 cm; gravelly clay, grayish brown (10YR 5/2) dry, very dark grayish brown (10YR 3/2) moist; strong medium subangular blocky structure; hard, firm, moderately sticky and moderately plastic; many fine roots; few fine tubular pores; 15 percent clay films on all faces of peds; 1 percent medium distinct yellowish brown (10YR 5/6) masses of oxidized iron; 25 percent gravel; moderately acid (pH 5.8); abrupt smooth boundary
+
+ 2Btg2--60 to 84 cm; gravelly clay, grayish brown (10YR 5/2) dry, very dark grayish brown (10YR 3/2) moist; moderate medium subangular blocky structure; hard, firm, very sticky and very plastic; few fine roots; many fine tubular pores; 25 percent clay films on all faces of peds; 1 percent medium distinct yellowish brown (10YR 5/6) masses of oxidized iron; 30 percent indurated mixed gravel; moderately acid (pH 5.8); clear smooth boundary
+
+ 3Cg--84 to 122 cm; very gravelly clay loam, brown (7.5YR 5/4) dry, brown (7.5YR 4/4) moist; massive; hard, firm, moderately sticky and moderately plastic; many coarse tubular pores; 1 percent medium distinct yellowish brown (10YR 5/6) masses of oxidized iron; 50 percent gravel and 5 percent cobbles; moderately acid (pH 5.8); clear smooth boundary
+
+ 4C--122 to 150 cm; extremely gravelly sand, brown (7.5YR 5/4) dry, brown (7.5YR 4/4) moist; massive; soft, friable, nonsticky and nonplastic; many fine irregular pores; 70 percent indurated mixed gravel and 10 percent indurated mixed cobbles; moderately acid (pH 5.8)
+
+TYPE LOCATION: Linn County, Oregon, about 8 km east of Albany; about 100 m north and 60 m east of the southwest corner of section 6, T. 11 S., R. 2 W.; latitude 44.6363870, longitude -122.9870215, datum WGS 84 (coordinates estimated from PLSS details)
+
+RANGE IN CHARACTERISTICS:
+Mean annual soil temperature--11 to 13 degrees C
+Moisture control section--seasonal high water table at the soil surface more than 30 consecutive days
+Depth to aquic conditions--0 to 30 cm
+Thickness of mollic epipedon--25 to 49 cm
+Thickness of argillic horizon--25 to 70 cm
+
+Particle-size control section
+Clay content--50 to 60 percent
+Total fragment content--15 to 35 percent
+
+A horizon
+Hue--10YR, neutral
+Value--2 or 3 moist, 4 or 5 dry
+Chroma--0 to 2 moist or dry
+Fine-earth texture--silty clay loam, clay loam
+Clay content--27 to 35 percent
+Sand content--10 to 30 percent
+Total fragment content--15 to 30 percent
+Gravel content--15 to 30 percent
+Cobble content--0 to 3 percent
+Reaction--5.1 to 6.0
+Thickness--25 to 49 cm
+
+2Btg horizon
+Hue--10YR, neutral
+Value--3 or 4 moist, 5 or 6 dry
+Chroma--0 to 2 moist or dry
+Fine-earth texture--clay, silty clay
+Clay content--50 to 60 percent
+Sand content--5 to 25 percent
+Total fragment content--15 to 35 percent
+Gravel content--15 to 35 percent
+Cobble content--0 to 3 percent
+Reaction--5.6 to 6.5
+Thickness--25 to 70 cm
+
+3Cg horizon
+Hue--7.5YR, 10YR
+Value--4 or 5 moist, 5 to 7 dry
+Chroma--4 to 6 moist or dry
+Fine-earth texture--clay loam, sandy clay loam
+Clay content--27 to 35 percent
+Sand content--30 to 50 percent
+Total fragment content--35 to 60 percent
+Gravel content--32 to 55 percent
+Cobble content--3 to 6 percent
+Reaction--5.6 to 6.5
+
+4C horizon
+Hue--7.5YR, 10YR
+Value--4 or 5 moist, 5 to 7 dry
+Chroma--4 to 6 moist or dry
+Fine-earth texture--sand, coarse sand
+Clay content--0 to 5 percent
+Sand content--85 to 100 percent
+Total fragment content--50 to 85 percent
+Gravel content--45 to 80 percent
+Cobble content--0 to 10 percent
+Reaction--5.6 to 7.3
+
+COMPETING SERIES: None
+
+GEOGRAPHIC SETTING:
+Elevation--50 to 245 m
+Climate--dry, warm summers; wet, cool winters
+Mean annual precipitation--1000 to 1500 mm
+Mean annual air temperature--10 to 12 degrees C
+Mean July air temperature--19 degrees C
+Mean January air temperature--4 degrees C
+Frost-free period--165 to 210 days
+
+GEOGRAPHICALLY ASSOCIATED SOILS:
+Awbrig--cracks on the surface in summer; in similar positions
+Bashaw--cracks on the surface in summer; slickensides; in similar positions
+Clackamas--less than 35 percent clay in particle-size control section; in similar positions
+Conser--cracks on the surface in summer; in similar positions
+Salem--well drained; less than 35 percent clay in particle-size control section; in convex positions
+
+DRAINAGE AND SATURATED HYDRAULIC CONDUCTIVITY:
+Drainage class--poorly drained
+Saturation in normal years--apparent water table at a depth of 15 cm above the surface to a depth of 45 cm below the surface in November through May
+Flooding--none
+Ponding--frequent, long periods in November through May
+Saturated hydraulic conductivity (Ksat)--low
+
+USE AND VEGETATION:
+Use--production of spring grain and grass seed; production of hay and pasture in artificially drained areas
+Potential natural vegetation--annual and perennial grasses, wild rose brush, Oregon ash
+
+DISTRIBUTION AND EXTENT: Willamette Valley, Oregon; MLRA 2; moderate extent
+
+SOIL SURVEY REGIONAL OFFICE (SSRO) RESPONSIBLE: Portland, Oregon
+
+SERIES ESTABLISHED: Linn County, Oregon; 1924
+
+REMARKS:
+Diagnostic horizons and other features in this pedon
+*Particle-size control section--zone from 43 to 84 cm
+*Aquic conditions-zone from the surface to a depth of 150 cm
+*Mollic epipedon--zone from the surface to a depth of 43 cm
+*Argillic horizon--zone from 43 to 84 cm
+
+The Courtney soils are on the Winkle geomorphic surface in the Willamette Valley of Oregon.
+
+7/2017--The type location of this official series description was changed from Marion County, Oregon, in the NW1/4SE1/4 of section 6, T. 8 S., R. 2 W., to reflect more recent data and a more geographically central location. The competing series were updated also. The description was updated according to SSR01 Technical Note 11--Content and Format of Official Series Descriptions (revised 11/2017). Most of the changes were in formatting. No major technical changes were made.
+
+National Cooperative Soil Survey
+U.S.A.

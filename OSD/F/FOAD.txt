@@ -1,0 +1,148 @@
+LOCATION FOAD                   AK
+
+Established Series
+Rev. JPM/NDP/SCD
+05/2020
+
+FOAD SERIES
+
+Landscape--mountains
+Landform--hills, mountain slopes
+Slope--5 to 120 percent
+Parent material--residuum and colluvium
+Mean annual precipitation--about 3556 mm
+Mean annual air temperature--about 5 degrees C
+Depth class--moderately deep
+Drainage class--well drained
+Soil moisture regime--udic
+Soil temperature regime--cryic
+Soil moisture subclass--typic
+
+TAXONOMIC CLASS: Loamy-skeletal, mixed, superactive Typic Humicryods
+
+TYPICAL PEDON: Foad silt loam, forested, on a south-facing mountain slope of 8 percent at an elevation of 91 m (When described in 1983, the soil was moist to a depth of 64 cm.)
+
+ Oe--0 to 5 cm; moderately decomposed plant material; clear smooth boundary
+
+ E--5 to 10 cm; silt loam, gray (10YR 6/1) dry, dark gray (10YR 4/1) moist; weak fine subangular blocky structure; slightly hard, friable, nonsticky and nonplastic; common very fine, fine, medium, and coarse roots; common very fine and fine irregular pores; strongly acid (pH 5.4); clear smooth boundary
+
+ Bhs1--10 to 15 cm; fine sandy loam, light yellowish brown (10YR 6/4) dry, dark yellowish brown (10YR 4/4) moist; weak fine subangular blocky structure; slightly hard, friable, nonsticky and nonplastic; common very fine, fine, medium, and coarse roots; common very fine and fine irregular pores; strongly acid (pH 5.4); clear smooth boundary
+
+ Bhs2--15 to 25 cm; gravelly fine sandy loam, light brown (7.5YR 6/4) dry, brown (7.5YR 4/4) moist; weak fine subangular blocky structure; slightly hard, friable, nonsticky and nonplastic; common very fine, fine, medium, and coarse roots; common very fine and fine irregular pores; 15 percent gravel; moderately acid (pH 5.6); clear smooth boundary
+
+ C--25 to 63 cm; very gravelly fine sandy loam, light yellowish brown (2.5Y 6/4) dry, olive brown (2.5Y 4/4) moist; massive; soft, very friable, nonsticky and nonplastic; common very fine, fine, medium, and coarse roots decreasing to few fine roots as depth increases; common very fine and fine irregular pores; 30 percent gravel and 10 percent cobbles; moderately acid (pH 6.0); clear smooth boundary
+
+ R--63 cm; fractured schist over consolidated schist
+
+TYPE LOCATION: Haines Borough Census Area, Alaska; in the SE1/4SW1/4 of section 3, T. 29 S., R. 56 E., Copper River Meridian (coordinates estimated from PLSS details)
+
+RANGE IN CHARACTERISTICS:
+Mean annual soil temperature--2 to 8 degrees C
+Soil moisture control section--dry less than 45 consecutive days in June through October (udic)
+Depth to lithic contact--50 to 100 cm (moderately deep)
+Organic carbon content--6 to 15 percent in upper 10 cm of spodic horizon
+
+Particle-size control section
+*Clay content--0 to 10 percent
+*Total rock fragment content--35 to 70 percent
+*Gravel content--25 to 70 percent
+*Cobble content--5 to 65 percent
+
+Oi, Oe, or Oa horizon
+Thickness--0 to 13 cm
+
+A horizon (where present)
+Hue--5YR to 2.5Y moist or dry
+Value--2 to 5 moist, 4 to 7 dry
+Chroma--1 or 2 moist or dry
+Fine-earth texture--silt loam, sandy loam, fine sandy loam
+Clay content--0 to 5 percent
+Reaction (pH)--5.1 to 6.0
+Thickness--0 to 8 cm
+
+E or EA horizon
+Hue--7.5YR to 5Y moist or dry
+Value--3 to 5 moist, 5 to 7 dry
+Chroma--1 to 3 moist or dry
+Fine-earth texture--silt loam, sandy loam, fine sandy loam
+Clay content--0 to 10 percent
+Total rock fragment content--0 to 45 percent
+Gravel content--0 to 30 percent
+Cobble content--0 to 40 percent
+Reaction (pH)--3.6 to 5.9
+Thickness--1 to 10 cm
+
+Bhs and Bs horizons
+Hue--2.5YR to 10YR moist or dry
+Value--2 to 5 moist, 4 to 7 dry
+Chroma--1 to 4 moist or dry
+Fine-earth texture--silt loam, fine sandy loam
+Clay content--0 to 10 percent
+Total rock fragment content--0 to 65 percent
+Gravel content--0 to 55 percent
+Cobble content--0 to 40 percent
+Reaction (pH)--4.9 to 6.0
+Thickness--15 to 70 cm
+
+C horizon
+Hue--7.5YR to 2.5Y moist or dry
+Value--2 to 5 moist, 4 to 7 dry
+Chroma--1 to 4 moist or dry
+Fine-earth texture--silt loam, sandy loam, fine sandy loam
+Clay content--0 to 5 percent
+Total rock fragment content--35 to 60 percent
+Gravel content--0 to 55 percent
+Cobble content--0 to 40 percent
+Reaction (pH)--5.1 to 6.0
+Thickness--20 to 45 cm
+
+COMPETING SERIES:
+Deming, Hinker--volcanic ash in control section
+Karta--50 to 100 cm (moderately deep) to a paralithic contact (compact till)
+Kupreanof, Mitkof--no lithic contact within a depth of more than 150 cm (very deep)
+Saar, Shuksan--volcanic ash in control section
+Thader--basalt and andesite coarse fragments in control section
+
+GEOGRAPHIC SETTING:
+Elevation--0 to 915 m
+Climate--cool, moist summers; mild, wet winters
+Mean annual precipitation--530 to 9140 mm
+Mean annual air temperature--2 to 8 degrees C
+Frost-free period--45 to 154 days
+
+GEOGRAPHICALLY ASSOCIATED SOILS:
+Kupreanof--no lithic contact within a depth of more than 150 cm (very deep); on similar landforms
+Ferebee--18 to 36 cm (very shallow, shallow) to a lithic contact (metamorphic rock); on similar landforms
+Krubate, Lutak--sand and gravel in lower part; on adjacent landforms
+Nataga--no lithic contact within a depth of more than 150 cm (very deep); on adjacent landforms
+Tolstoi--36 to 50 cm (shallow) to a lithic contact (sandstone); on similar landforms
+
+DRAINAGE AND SATURATED HYDRAULIC CONDUCTIVITY:
+Drainage class--well drained
+Depth to saturation in normal years--more than 63 cm year round
+Flooding--none
+Ponding--none
+Saturated hydraulic conductivity (Ksat)--moderately high or high in E, Bhs, and Bs horizons, high in C horizon, very low in R horizon
+
+USE AND VEGETATION:
+Use--wildlife habitat, recreation, subsistence
+Potential native vegetation--Sitka spruce, western hemlock, devilsclub, Sitka alder, rusty menziesia, mosses
+
+DISTRIBUTION AND EXTENT: Alexander Archipelago-Gulf of Alaska Coast, Alaska; MLRA 220; moderate extent
+
+SOIL SURVEY REGIONAL OFFICE (SSRO) RESPONSIBLE: Portland, Oregon
+
+SERIES ESTABLISHED: Haines Area, Alaska; 1985
+
+REMARKS:
+Diagnostic horizons and other features recognized in this pedon
+*Ochric epipedon
+*Albic horizon--zone from 5 to 10 cm
+*Spodic horizon--zone from 10 to 25 cm
+*Depth to lithic contact--63 cm
+*Particle-size control section--zone from 30 to 63 cm
+
+05/2020--This official series description was updated according to SSR13 Technical Note--Content and Format of Official Series Descriptions (revised 03/2019). Most of the changes were in formatting and recognizing the series as mapped in the Glacier Bay National Park and Preserve.
+
+National Cooperative Soil Survey
+U.S.A.

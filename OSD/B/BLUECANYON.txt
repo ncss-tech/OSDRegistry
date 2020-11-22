@@ -1,0 +1,131 @@
+LOCATION BLUECANYON             OR
+
+Established Series
+Rev. AEK/RJO/RWL
+04/2019
+
+BLUECANYON SERIES
+
+Landscape--mountains
+Landform--mountain slopes; south-facing, narrow, convex backslopes of mountains
+Slope--0 to 90 percent
+Parent material--colluvium and residuum derived from metasedimentary rock, metavolcanic rock, or sandstone with an influence of volcanic ash in the upper part
+Mean annual air temperature--about 5 degrees C
+Depth class--shallow to lithic bedrock
+Drainage class--well drained 
+Soil moisture regime--xeric
+Soil temperature regime--frigid
+Soil moisture subclass--typic
+
+TAXONOMIC CLASS: Loamy-skeletal, mixed, superactive, frigid Lithic Haploxerolls
+
+TYPICAL PEDON: Bluecanyon very gravelly silt loam in an area of rangeland, on a 50-percent, convex, northeast-facing slope at an elevation of 1800 m
+
+ A--0 to 20 cm; very gravelly ashy silt loam, very dark grayish brown (10YR 3/2) dry, very dark gray (10YR 3/1) moist; weak very fine and fine subangular blocky structure; soft, very friable, nonsticky and nonplastic; many very fine and fine roots; common fine and few medium irregular pores; 40 percent gravel and 5 percent cobbles; neutral (pH 7.0); clear wavy boundary
+
+ 2AB--20 to 33 cm; very gravelly silt loam, yellowish brown (10YR 5/4) dry, dark brown (10YR 3/3) moist; weak very fine and fine subangular blocky structure; soft, very friable, slightly sticky and slightly plastic; many very fine and fine and few medium roots; few fine and medium irregular pores; 50 percent gravel and 5 percent cobbles; neutral (pH 7.0); clear wavy boundary
+
+ 2Bw--33 to 43 cm; extremely gravelly silt loam, yellowish brown (10YR 5/4) dry, dark yellowish brown (10YR 4/4) moist; weak very fine subangular blocky structure; soft, very friable, slightly sticky and slightly plastic; common very fine and fine roots; few fine irregular pores; 60 percent gravel and 10 percent cobbles; neutral (pH 7.0); abrupt irregular boundary
+
+ 2R--43 cm; fractured argillite
+
+TYPE LOCATION: Baker County, Oregon, about 690 m east and 230 m south of the northwest corner of section 7, T. 14 S., R. 37 E.; latitude: 44.3703252, longitude -118.2230242, datum WGS 84 (coordinates estimated from PLSS details)
+
+RANGE IN CHARACTERISTICS:
+Soil moisture--dry 75 to 90 consecutive days in summer
+Mean annual soil temperature--about 4 to 8 degrees C
+Thickness of mollic epipedon--20 to 40 cm
+Depth to lithic contact--25 to 50 cm
+Thickness of ash-influenced layers--18 to 25 cm
+
+Estimated properties of layers influenced by volcanic ash
+*Ammonium oxalate extractable Al + 1/2 Fe--0.4 to 0.8 percent
+*Volcanic ash in 0.02- to 2.0-mm fraction--5 to 15 percent
+
+A horizon
+Hue--10YR
+Value--2 or 3 moist, 4 or 5 dry
+Chroma--2 or 3 moist or dry
+Fine-earth texture--ashy silt loam
+Clay content--10 to 18 percent
+Total rock fragment content--35 to 55 percent
+Gravel content--25 to 55 percent
+Cobble content--0 to 10 percent
+Stone content--0 to 5 percent
+Boulder content--0 to 5 percent
+Reaction--6.1 to 7.3
+Thickness--18 to 25 cm
+
+2AB horizon
+Hue--10YR
+Value--2 or 3 moist, 4 or 5 dry
+Chroma--2 or 3 moist or dry
+Fine-earth texture--silt loam, loam
+Clay content--10 to 18 percent
+Total rock fragment content--35 to 60 percent
+Gravel content--30 to 50 percent
+Cobble content--0 to 10 percent
+Reaction--6.1 to 7.3
+Thickness--10 to 28 cm
+
+2Bw horizon
+Hue--10YR
+Value--3 or 4 moist, 4 or 5 dry
+Chroma--3 or 4 moist or dry
+Fine-earth texture--silt loam, loam
+Clay content--10 to 18 percent
+Total rock fragment content--45 to 75 percent
+Gravel content--40 to 70 percent
+Cobble content--0 to 10 percent
+Reaction--6.1 to 7.3
+Thickness--8 to 20 cm
+
+COMPETING SERIES:
+Agazziz, Anatone, Dipcreek, Foxol, Gomine, Kenypeak, Laschance, Little Pole, Nayrib, Onaqui, Rexmont, Van Wagoner--no volcanic glass
+Bocker--10 to 25 cm (very shallow) to lithic contact; no volcanic glass
+Falula--secondary carbonate accumulation at a depth of 18 to 30 cm; no volcanic glass
+Grink--calcic horizon; no volcanic glass
+Hogsby--ustic soil moisture regime
+Starglade--10 to 25 cm (very shallow) to lithic contact
+Swanner--calcic horizon; no volcanic glass
+
+GEOGRAPHIC SETTING:
+Elevation--950 to 1960 m
+Climate--cold, moist winters; hot, dry summers
+Mean annual precipitation--380 to 1290 mm
+Mean annual air temperature--3 to 7 degrees C
+Frost-free period--45 to 85 days 
+
+GEOGRAPHICALLY ASSOCIATED SOILS:
+Analulu--moderately deep; volcanic ash influence; on side slopes of mountains
+Koski--moderately deep; on side slopes of mountains
+Vogel--on forested side slopes of mountains; no mollic epipedon
+
+DRAINAGE AND SATURATED HYDRAULIC CONDUCTIVITY:
+Saturation during normal years--none
+Flooding--none
+Ponding--none
+Saturated hydraulic conductivity (Ksat)--moderately high
+
+USE AND VEGETATION:
+Use--livestock grazing, wildlife habitat, watershed, recreation
+Potential native vegetation--bluebunch wheatgrass, Sandberg bluegrass, Idaho fescue, prairie Junegrass, Wyeth buckwheat, common yarrow,  biscuitroot, brome, lupine, phlox, serrate balsamroot, mountain big sagebrush
+
+DISTRIBUTION AND EXTENT: Northeastern Oregon; MLRA 9; small extent
+
+SOIL SURVEY REGIONAL OFFICE (SSRO) RESPONSIBLE: Portland, Oregon
+
+SERIES ESTABLISHED: Wallowa County, Oregon; 1998
+
+REMARKS:
+Diagnostic horizons and other features recognized in this pedon
+*Mollic epipedon--zone from 0 to 33 cm
+*Cambic horizon--zone from 33 to 43 cm
+*Volcanic glass--zone from 0 to 20 cm
+*Depth to lithologic discontinuity--20 cm
+*Particle-size control section--zone from 25 to 43 cm
+
+08/2018-OSD reformatted to new Soil Survey Region 1 standards. Volcanic glass and ashy modifier added to the A horizon, which reflects the concept as mapped in the Blue Mountains. Samples should be collected from representative sites to confirm the presence of a Vitrandic subgroup feature. Most shallow and very shallow rangeland soils in Eastern Oregon do not recognize significant ash in the surface layer, so the Bluecanyon series stands out as an outlier.
+
+National Cooperative Soil Survey
+U.S.A.

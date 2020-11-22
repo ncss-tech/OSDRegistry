@@ -1,0 +1,108 @@
+LOCATION VOATS                  OR
+
+Established Series
+Rev. CTH/RWL/CSW
+06/2016
+
+VOATS SERIES
+
+Landscape--Columbia basalt plateau
+Landform--flood plains
+Slope--0 to 5 percent
+Parent material--alluvium
+Mean annual precipitation--460 mm
+Mean annual air temperature--about 9 degrees C
+Depth class--very deep
+Drainage class--well drained
+Soil moisture regime--xeric
+Soil temperature regime--mesic
+Soil moisture subclass--typic
+
+TAXONOMIC CLASS: Sandy-skeletal, mixed, mesic Fluventic Haploxerolls
+
+TYPICAL PEDON: Voats fine sandy loam in an area of idle land, on a 0.5-percent slope at an elevation of 830 m
+
+ A1--0 to 5 cm; fine sandy loam, grayish brown (10YR 5/2) dry, very dark grayish brown (10YR 3/2) moist; moderate medium granular structure; soft, friable, slightly sticky and slightly plastic; common very fine and few fine roots; common very fine tubular pores; 10 percent fine gravel; neutral (pH 7.0); abrupt wavy boundary
+
+ A2--5 to 13 cm; fine sandy loam, brown (10YR 4/3) dry, very dark brown (10YR 2/2) moist; strong thin platy structure; slightly hard, friable, slightly sticky and slightly plastic; few very fine roots; common very fine and few coarse tubular pores; neutral (pH 7.2); abrupt wavy boundary
+
+ A3--13 to 25 cm; fine sandy loam, dark grayish brown (10YR 4/2) dry, very dark brown (10YR 2/2) moist; moderate coarse subangular blocky structure; slightly hard, friable, slightly sticky and slightly plastic; few very fine roots; common very fine and few coarse tubular pores; neutral (pH 7.2); abrupt wavy boundary
+
+ AC--25 to 41 cm; sandy loam, brown (10YR 5/3) dry, dark brown (10YR 3/3) moist; weak medium subangular blocky structure; slightly hard, very friable, nonsticky and nonplastic; few very fine roots; slightly alkaline (pH 7.4); abrupt wavy boundary
+
+ 2C--41 to 150 cm; very gravelly sand, grayish brown (10YR 5/2) dry, very dark grayish brown (10YR 3/2) moist; single grain; loose; few very fine roots in upper 25 cm; many pores; 35 percent gravel and 10 percent cobbles; neutral (pH 7.2)
+
+TYPE LOCATION: Union County, Oregon, about 800 m east of Island City, on the bank of the Grande Ronde River; about 105 m north of the southwest corner of section 35, T. 2 S., R. 38 E.; La Grande, Oregon, U.S. Geological Survey 7.5-minute topographic quadrangle; latitude 45.3413889, longitude -118.0336111, datum WGS 84 (coordinates estimated from PLSS details)
+
+RANGE IN CHARACTERISTICS:
+Mean annual soil temperature--8 to 12 degrees C
+Soil moisture--usually moist, but dry between depths of 30 and 90 cm 60 consecutive days or more following summer solstice
+Thickness of mollic epipedon--25 to 50 cm
+Depth to stratified loamy sand and sand--25 to 50 cm
+Depth to bedrock--150 cm or more
+Reaction--6.6 to 7.8
+
+Particle-size control section
+*Content of rock fragments--more than 35 percent
+*Content of very fine sand--less than 50 percent
+
+A horizon
+*Value--2 or 3 moist, 3 to 5 dry
+*Chroma--1 to 3 moist or dry
+*Content of rock fragments--0 to 30 percent gravel, 0 to 10 percent cobbles
+*Combined thickness--13 to 51 cm
+
+AC horizon, or 2AC horizon (where present)
+*Value--2 or 3 moist, 3 to 5 dry
+*Chroma--2 or 3 moist or dry
+*Structure--subangular blocky, massive
+*Content of rock fragments--0 to 40 percent gravel, 0 to 10 percent cobbles
+*Combined thickness--0 to 20 cm
+
+2C horizon
+*Texture--stratified sand and loamy sand
+*Content of rock fragments--0 to 10 percent stones, 0 to 30 percent cobbles, and 10 to 45 percent gravel
+
+COMPETING SERIES:
+Camas--mean annual precipitation of 1000 mm; slightly acid or moderately acid in C horizon; 20 to 50 percent rock fragments in upper 38 cm of profile
+Freewater--loamy in upper part; mean annual soil temperature of about 13 degrees C
+
+GEOGRAPHIC SETTING:
+Elevations--490 to 1220 m
+Climate--cool, wet winters; hot, dry summers
+Mean annual air temperature--7 to 11 degrees C
+Mean annual precipitation--300 to 640 mm
+Frost-free period--50 to 120 days
+
+GEOGRAPHICALLY ASSOCIATED SOILS:
+Catherine, La Grande--fine-silty
+Umapine--coarse-silty; somewhat poorly drained; salt affected
+Veazie--contrasting textures; more than 50 cm deep to stratified sand and very gravelly sand; mollic epipedon more than 50 cm thick
+
+DRAINAGE AND SATURATED HYDRAULIC CONDUCTIVITY:
+Drainage class--well drained
+Saturated hydraulic conductivity (Ksat)--moderately high over very high
+Flooding--frequent or occasional, brief periods during snowmelt and spring runoff; rare periods in areas protected by manmade structures
+
+USE AND VEGETATION:
+Use--livestock grazing, wildlife habitat, recreation
+Potential native vegetation--bluebunch wheatgrass, basin wildrye, timothy, Kentucky bluegrass, sedges, rushes, and scattered willow, alder, hawthorn, and rose
+
+DISTRIBUTION AND EXTENT: Upland valleys of northeastern Oregon; MLRAs 9, 10, and 43; small extent
+
+MLRA SOIL SURVEY REGIONAL OFFICE (MO) RESPONSIBLE: Portland, Oregon
+
+SERIES ESTABLISHED:  Union County, Oregon; 1978
+
+REMARKS:
+Diagnostic horizons and features recognized in this pedon
+*Mollic epipedon--zone from surface to a depth of 41 cm
+*Particle-size control section--zone from 25 to 100 cm
+*Fluventic feature--mollic epipedon 41 cm thick; irregular decrease in organic carbon with increasing depth, based on parent material
+
+05/2016--The Voats official series was used in an update project of some riparian areas southeast of Pendleton in Umatilla County, Oregon. Wide ranges in climate were populated in NASIS due to the nature of the lotic riparian areas along several km of a stream. Flooding is rare in incised stream channels in the project areas.
+
+6/2016--This official series description was updated according to SSR1 Technical Note 11--Content and Format of Official Series Descriptions (revised 12/2015).
+
+National Cooperative Soil Survey
+U.S.A.

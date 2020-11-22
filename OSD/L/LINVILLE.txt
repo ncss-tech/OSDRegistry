@@ -1,0 +1,119 @@
+LOCATION LINVILLE               WA+ID OR
+
+Established Series
+Rev. PNP/KDPL/SBC
+09/2019
+
+LINVILLE SERIES
+
+Landscape-plateaus, canyonlands, hills
+Landform--north- and east-facing hillslopes, ridges, canyon walls
+Slope--0 to 90 percent
+Parent material--slope alluvium and colluvium derived from basalt and loess with a minor amount of volcanic ash
+Mean annual precipitation--about 430 mm
+Mean annual air temperature--about 9 degrees C
+Depth class--deep, very deep
+Drainage class--well drained
+Soil moisture regime--xeric
+Soil temperature regime--mesic
+Soil moisture subclass--typic
+
+TAXONOMIC CLASS: Fine-loamy, mixed, superactive, mesic Pachic Haploxerolls
+
+TYPICAL PEDON: Linville silt loam in an area of rangeland
+
+ A1--0 to 30 cm; silt loam, very dark grayish brown (10YR 3/2) dry, very dark brown (10YR 2/2) moist; weak medium subangular blocky structure; slightly hard, friable, slightly sticky and slightly plastic; many roots; common very fine tubular pores; few angular basalt gravel-sized fragments and cobbles; neutral (pH 7.2); gradual wavy boundary
+
+ A2--30 to 64 cm; silt loam, dark grayish brown (10YR 4/2) dry, very dark brown (10YR 2/2) moist; weak medium prismatic structure; slightly hard, friable, slightly sticky and slightly plastic; many roots; few medium and common very fine tubular pores; few angular basalt gravel-sized fragments and cobbles; neutral (pH 7.2); clear wavy boundary
+
+ A3--64 to 75 cm; silt loam, dark grayish brown (10YR 4/2) dry, very dark grayish brown (10YR 3/2) moist; weak medium prismatic structure; slightly hard, friable, slightly sticky and slightly plastic; many roots; few coarse and medium and common very fine tubular pores; few angular basalt gravel-sized fragments and cobbles; slightly alkaline (pH 7.4); abrupt wavy boundary
+
+ Bw1--75 to 109 cm; cobbly silt loam, brown (10YR 5/3) dry, dark grayish brown (10YR 4/2) moist; moderate coarse prismatic structure; hard, friable, moderately sticky and moderately plastic; common roots; few very coarse and many medium and very fine tubular pores; thin patchy siliceous coatings on peds; 15 percent cobbles and 10 percent gravel; slightly alkaline (pH 7.5); gradual wavy boundary
+
+ Bw2--109 to 137 cm; cobbly silt loam, pale brown (10YR 6/3) dry, brown (10YR 4/3) moist; moderate medium prismatic structure; hard, friable, moderately sticky and moderately plastic; common roots; few very coarse and many medium and very fine tubular pores; thin patchy siliceous coatings on peds; 20 percent cobbles and 10 percent gravel; slightly alkaline (pH 7.7); gradual wavy boundary
+
+ BC--137 to 160 cm; cobbly silt loam, pale brown (10YR 6/3) dry, brown (10YR 4/3) moist; massive; hard, friable, moderately sticky and moderately plastic; common roots; few medium and many very fine tubular pores; 20 percent cobbles and 10 percent gravel; slightly alkaline (pH 7.8)
+
+ 2R--160 cm; basalt
+
+TYPE LOCATION: Garfield County, Washington; about 280 m west and 110 m south of the northeast corner of section 2, T. 13 N., R. 42 E.
+
+RANGE IN CHARACTERISTICS:
+Mean annual soil temperature--8 to 10 degrees C
+Soil moisture--usually moist, but dry in all parts 75 to 90 consecutive days between depths of 10 and 30 cm in summer and fall
+Depth to basalt and thickness of solum--100 to 150 cm or more
+Particle-size control section--averages 18 to 27 percent clay and 5 to 30 percent angular basalt fragments, by volume
+Thickness of mollic epipedon--51 to 122 cm
+
+A1 and A2 horizons
+Hue--7.5YR, 10YR
+Value--3 to 5 dry, 2 or 3 moist
+Chroma--1 to 3 dry or moist
+Thickness of A1 horizon--25 to 36 cm
+Thickness of A2 horizon--25 to 36 cm
+
+A3 horizon, and AB horizon (where present)
+Value--3 or 4 dry, 2 or 3 moist
+Chroma--2 or 3 dry or moist
+Texture--silt loam, cobbly silt loam
+Thickness of A3 horizon--10 to 20 cm
+
+Bw horizon
+Hue--7.5YR, 10YR
+Value--4 to 6 dry, 2 to 4 moist
+Chroma--2 to 4 dry or moist
+Texture--silt loam, cobbly silt loam, very cobbly loam, gravelly silt loam
+Reaction--6.6 to 8.4
+Combined thickness--48 to 69 cm
+
+A Bt horizon is in some pedons.
+
+BC horizon
+Value--4 to 6 dry, 3 or 4 moist
+Chroma--3 or 4 dry
+Texture--cobbly silt loam, very cobbly loam, cobbly loam
+Reaction--7.4 to 8.4
+
+COMPETING SERIES:
+Alicel--no rock fragments in particle-size control section; clay loam or sandy clay loam in cambic horizon
+Calimus, Chalkford, Sinamox--dry more than 90 consecutive days
+Jamescanny--aridic soil moisture regime
+Sweeney--fine sandy loam in lower part of particle-size control section; mean annual soil temperature of about 14 degrees C
+Watama--50 to 100 cm (moderately deep) to a lithic contact (basalt)
+
+GEOGRAPHIC SETTING:
+Elevation--240 to 1075 m
+Climate--warm, dry summers; cool, moist winters
+Mean annual precipitation--360 to 460 mm
+Mean January air temperature--about -2 to 0 degrees C
+Mean July air temperature--20 to 22 degrees C
+Mean annual air temperature--8 to 10 degrees C
+Frost-free season--80 to 160 days
+
+GEOGRAPHICALLY ASSOCIATED SOILS:
+Gwin, Kuhl, Laufer--25 to 50 cm (shallow) to a lithic contact (basalt)
+Matheny--loamy-skeletal particle-size class
+Rockly--10 to 30 cm (very shallow, shallow) to a lithic contact (basalt); loamy-skeletal particle-size class
+Tucannon, Thiessen--50 to 100 cm (moderately deep) to a lithic contact (basalt)
+
+DRAINAGE AND SATURATED HYDRAULIC CONDUCTIVITY:
+Drainage class--well drained
+Saturated hydraulic conductivity (Ksat)--moderately high
+
+USE AND VEGETATION:
+Use--livestock grazing, wildlife habitat
+Native vegetation--mainly Idaho fescue, bluebunch wheatgrass, rose, common snowberry, and hawthorn
+
+DISTRIBUTION AND EXTENT: Eastern and central Washington, northeastern Oregon, Idaho; MLRAs 8 and 9; moderate extent
+
+SOIL SURVEY REGIONAL OFFICE (SSRO) RESPONSIBLE: Portland, Oregon
+
+SERIES ESTABLISHED: Garfield County, Washington; 1970
+
+REMARKS:
+Diagnostic horizons and other features recognized in this pedon
+*Mollic epipedon--at the surface to a depth of 75 cm
+*Cambic horizon--75 to 137 cm
+
+National Cooperative Soil Survey
+U.S.A.

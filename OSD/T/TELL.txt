@@ -1,0 +1,166 @@
+LOCATION TELL                   WI+IA IL MN
+
+Established Series
+Rev. PHC-TAM-TWN
+06/2009
+
+TELL SERIES
+
+The Tell series consists of very deep, well drained soils that formed in 50 to 100 centimeters of loess or other silty deposits and in the underlying sandy deposits. These soils are on treads and risers on stream terraces in river valleys and on outwash plains. Slope ranges from 0 to 40 percent. Mean annual precipitation is about 910 millimeters. Mean annual air temperature is about 9 degrees C.
+
+TAXONOMIC CLASS: Fine-silty over sandy or sandy-skeletal, mixed, superactive, mesic Typic Hapludalfs
+
+TYPICAL PEDON: Tell silt loam, on a 2 to 6 percent slope, in a cultivated field, at an elevation of about 290 meters above sea level.  (Colors are for moist soil unless otherwise stated.)
+
+ Ap--0 to 20 centimeters; dark grayish brown (10YR 4/2) silt loam; weak very fine granular structure; friable; neutral; abrupt smooth boundary.
+
+ E--20 to 25 centimeters; brown (10YR 5/3) silt loam; weak thin and medium platy structure; friable; neutral; clear smooth boundary.
+
+ BE--25 to 36 centimeters; yellowish brown (10YR 5/4) silt loam; weak fine subangular blocky structure; friable; neutral; clear smooth boundary.
+
+ Bt1--36 to 76 centimeters; dark yellowish brown (10YR 4/4) silt loam; moderate medium subangular blocky structure; firm; thin continuous clay films on faces of peds; strongly acid; clear smooth boundary.
+
+ Bt2--76 to 86 centimeters; brown (7.5YR 4/4) loam; moderate medium subangular blocky structure; friable; thin patchy clay films on vertical faces of peds; strongly acid; clear smooth boundary.
+
+ 2C--86 to 152 centimeters; yellowish brown (10YR 5/4) medium and fine sand; single grain; loose; moderately acid.
+
+TYPE LOCATION: Major Land Resource Area (MLRA) 105-Northern Mississippi Valley Loess Hills, Eau Claire County, Wisconsin subset; about 3.5 miles southeast of Fall Creek; located about 350 feet north and 1,150 feet east of the southwest corner of section 9, T. 26 N., R. 7 W.; USGS Augusta West topographic quadrangle; lat. 44 degrees 44 minutes 36 seconds N. and long. 91 degrees 14 minutes 33 seconds W., NAD 83.
+
+RANGE IN CHARACTERISTICS:
+Depth to horizons with more than 15 percent sand--50 to 100 centimeters
+Depth to carbonates--more than 150 centimeters
+Clay content in the particle-size control section (weighted average)--20 to 28 percent
+Sand content in the particle-size control section (weighted average)--less than 15 percent fine sand and sand coarser than fine sand
+
+A or Ap horizon:
+Hue--10YR
+Value--2 to 5
+Chroma--2 to 5
+Texture--silt loam
+Clay content--10 to 20 percent
+Sand content--5 to 25 percent
+Rock fragment content--0 percent
+Reaction--pH 5.1 to 7.3
+Thickness--12 to 24 centimeters
+
+E horizon (when present):
+Hue--10YR
+Value--4 or 5
+Chroma--2 to 4
+Texture--silt loam
+Clay content--14 to 20 percent
+Sand content--less than 15 percent
+Rock fragment content--0 percent
+Reaction--pH 5.1 to 7.3
+Thickness--0 to 13 centimeters
+
+BE horizon:
+Hue--10YR
+Value--3 to 5
+Chroma--3 or 4
+Texture--silt loam
+Clay content--15 to 25 percent
+Sand content--less than 15 percent
+Rock fragment content--0 percent
+Reaction--pH 5.1 to 7.3
+Thickness--8 to 18 centimeters
+
+Bt horizon:
+Hue--7.5YR or 10YR
+Value--4 or 5
+Chroma--3 or 4
+Texture--silt loam, loam, or silty clay loam
+Clay content--20 to 30 percent
+Sand content--less than 15 percent in the upper part
+Rock fragment content--0 percent
+Reaction--pH 5.1 to 6.5
+Thickness--20 to 45 centimeters
+
+2Bt or 2BC (when present) horizon:
+Hue--7.5YR or 10YR
+Value--3 to 5
+Chroma--3 to 6
+Texture--sandy loam or sandy clay loam
+Clay content--10 to 25 percent
+Sand content--30 to 65 percent
+Rock fragment content--0 to 5 percent
+Reaction--pH 5.1 to 6.5
+Thickness--5 to 12 centimeters
+
+2C horizon:
+Hue--7.5YR or 10YR
+Value--4 or 5
+Chroma--4 to 8
+Texture--sand or loamy sand
+Clay content--2 to 10 percent
+Sand content--80 to 95 percent, dominantly medium sand and fine sand
+Rock fragment content--0 to 5 percent
+Reaction--pH 5.1 to 6.5
+
+COMPETING SERIES:  This is the Gale series.
+Gale--have a paralithic contact with siliceous sandstone within a depth of 102 centimeters
+
+GEOGRAPHIC SETTING:
+Parent material--50 to 100 centimeters of loess or other silty deposits and in the underlying sandy deposits
+Landform--treads and risers on stream terraces in river valleys and on outwash plains
+Slope--0 to 40 percent
+Elevation--130 to 425 meters above sea level
+Mean annual air temperature--6 to 13 degrees C
+Mean annual precipitation--735 to 1,090 millimeters
+Frost-free period--135 to 215 days
+
+GEOGRAPHICALLY ASSOCIATED SOILS:  These are the Dells, Seaton, Seaton, benches, and Seaton, moderately well drained soils near the type location.
+Dells--are in lower landscape positions and have a frequently saturated zone between depths of 0.3 and 1 meter during the wettest periods of years when precipitation is within one standard deviation of the 30 year mean of annual precipitation
+Seaton--are in higher landscape positions on hills and have a sand content of less than 15 percent in the lower third of the series control section
+Seaton, benches--are on landscape positions similar to those of the Tell soils and are underlain by sand at depths of 102 to 152 centimeters
+Seaton, moderately well drained--are on landscape positions similar to those of the Tell soils or on slightly lower or more concave landscape positions, have a frequently saturated zone between depths of 1.0 and 1.8 meters during the wettest periods of years when precipitation is within one standard deviation of the 30 year mean of annual precipitation, and have a sand content of less than 15 percent in the lower third of the series control section
+
+DRAINAGE AND SATURATED HYDRAULIC CONDUCTIVITY:
+Drainage class--well drained--a frequently saturated zone does not occur within a depth of 1.8 meters during the wettest periods of years when precipitation is within one standard deviation of the 30 year mean of annual precipitation
+Saturated hydraulic conductivity--1.00 to 10.00 micrometers per second in the loess or silty deposits and 10.00 to 100.00 micrometers per second in the sandy deposits
+Flooding--rarely or very rarely flooded for brief or very brief duration
+
+USE AND VEGETATION:
+Most areas are cultivated or pastured. The principal crops are corn, small grain, and forage. The native vegetation consisted of mixed hardwoods with oak predominant.
+
+DISTRIBUTION AND EXTENT:
+Physiographic division--Interior Plains
+Physiographic province--Central Lowland
+Physiographic sections--Eastern lake section, Western lake section, Wisconsin driftless section, Dissected till plains, Till plains 
+MLRAs--Wisconsin Central Sands (89),
+ Southern Wisconsin and Northern Illinois Drift Plain (95B),
+ Eastern Iowa and Minnesota Till Prairies (104),
+ Northern Mississippi Valley Loess Hills (105),
+ Illinois and Iowa Deep Loess and Drift, Eastern Part (108A),
+ Illinois and Iowa Deep Loess and Drift, East-Central Part (108B),
+ Illinois and Iowa Deep Loess and Drift, West-Central Part (108C), and 
+ Central Mississippi Valley Wooded Slopes, Northern Part (115C)
+LRR M and LRR K; southwestern Wisconsin, southeastern Minnesota, northern Illinois, and eastern Iowa
+Extent--moderate
+
+MLRA SOIL SURVEY REGIONAL OFFICE (MO) RESPONSIBLE: St. Paul, Minnesota; MLRA SSO 10-10 (La Crosse, Wisconsin).
+
+SERIES ESTABLISHED:  Trempealeau County, Wisconsin, 1940.
+
+REMARKS:
+Particle-size control section--the zone from a depth of 36 to 86 centimeters;
+series control section--the zone from the surface of the soil to a depth of 150 centimeters.
+
+Diagnostic horizons recognized in this pedon include:
+ochric epipedon--the zone from the surface of the soil to a depth of 36 centimeters (Ap, E, and BE horizons);
+argillic horizon--the zone from a depth of 36 to 86 centimeters (Bt1 and Bt2 horizons);
+udic moisture regime;
+mesic temperature regime.
+
+The type location was moved to Eau Claire County after the recorrelation of Crawford County, Wisconsin.  The former OSD Type Location in Crawford County is from a landscape and parent material that will no longer be a part of the Tell concept. The Tell series in the initial Crawford County soil survey has been re-correlated to three existing series. The current type location polygon and all polygons in this same landscape will be mapped as the Nuxmaruhanixete series, polygons mapped where the underlying material is outwash sand and gravel will be mapped as the Meridian series, and other polygons underlain by siliceous sand (no gravel) will be mapped as the Merit series. 
+
+It is suspected that Tell may become an inactive series eventually as SSAs are re-correlated and series updated. The Nuxmaruhanixete series was established in nearby Richland County for a fine loamy Argiudoll and underlain by outwash parent material found on an older high strath terrace along the Wisconsin River which is unique to this part of the Driftless Area. The Merit series was established for a similar concept of a mollic intergrade, fine-loamy over ssk, and underlying siliceous sand. The Meridian series is an established series for a similar concept of a mollic intergrade, fine-loamy over ssk, and underlying outwash sand and gravel. It is unclear whether the Tell series concept will remain unique, mappable, and contrasting to these other concepts on these same landform positions where it is currently mapped. 
+
+It is my belief that this concept and landscape position, where soils are moderately deep to siliceous sand or outwash, is better defined as being intergrade" alfisols to mollisols rather than typic" alfisols. These profiles tend to be droughty in dry years and fire undoubtedly played an important role in their pre-settlement history. Original vegetation maps indicate that savanna or open oak woods predominated. The more sloping areas tend to be eroded any may presently exhibit ochric epipedon colors but the predominant slopes are 1-6% and these typic profiles would be considered similar" soils.  T.Meyer.
+
+Cation-exchange activity class is inferred from lab data from similar soils in the surrounding area.
+
+Taxonomy version--Keys to Soil Taxonomy, tenth edition, 2006.
+
+National Cooperative Soil Survey
+U.S.A.

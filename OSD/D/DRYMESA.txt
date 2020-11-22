@@ -1,0 +1,120 @@
+LOCATION DRYMESA                UT
+
+Established Series
+Rev. CSW/JWB
+03/2011
+
+DRYMESA SERIES
+
+The Drymesa series consists of shallow, well drained soils that formed in slope alluvium and eolian deposits over residuum weathered from calcareous sandstone and shale.  Drymesa soils are on structural benches.  Slopes range from 3 to 15 percent.  Mean annual precipitation is about 267 mm and the mean annual temperature is about 8.5 degrees C.
+
+TAXONOMIC CLASS: Loamy, mixed, superactive, mesic Lithic Ustic Haplocalcids
+
+TYPICAL PEDON:  Drymesa fine sandy loam, on a southeast facing, concave, 6 percent slope in rangeland at an elevation of 1,646 meters.  (Colors are for dry soil unless otherwise noted.) The surface is covered by 5 percent gravel.
+
+    A--0 to 8 cm; light brown (7.5YR 6/4) fine sandy loam, brown (7.5YR 4/4) moist; weak fine granular structure; very friable, soft, slightly sticky, nonplastic; few coarse and medium and common fine and very fine roots; many very fine interstitial pores; 2 percent channers; very slightly effervescent (2 percent carbonate equivalent), carbonates are finely disseminated; moderately alkaline (pH 8.0); clear wavy boundary.  (5 to 8 cm thick)
+
+    Bw--8 to 15 cm; light brown (7.5YR 6/4) fine sandy loam, strong brown (7.5YR 4/6), moist; weak fine subangular blocky structure; very friable, soft, slightly sticky, slightly plastic; few coarse and medium and common fine and very fine roots; few fine and many very fine tubular pores; very slightly effervescent (4 percent carbonate equivalent), carbonates are finely disseminated; moderately alkaline (pH 8.1); clear wavy boundary.  (7 to 15 cm thick)
+
+    Bk--15 to 31 cm; light brown (7.5YR 6/4) fine sandy loam, brown (7.5YR 5/4) moist; weak medium and fine subangular blocky structure; friable, slightly hard, slightly sticky, slightly plastic; few coarse, medium and fine and common very fine roots; common very fine tubular pores; 5 percent channers; strongly effervescent (14 percent carbonate equivalent), common pinkish white (7.5YR 8/2) dry, threadlike carbonate masses and carbonate coats on bottom surfaces of rock fragments, carbonates are finely disseminated in matrix; moderately alkaline (pH 8.4); clear wavy boundary.
+
+    BCk--31 to 35 cm; pink (7.5YR 7/3) gravelly fine sandy loam, brown (7.5YR 5/3) moist; weak fine subangular blocky structure; very friable, slightly hard, slightly sticky, slightly plastic; few coarse, medium and fine and common very fine roots; common very fine tubular pores; 20 percent channers and 2 percent gravel; violently effervescent (25 percent carbonate equivalent), many very pale brown (10YR 8/2) dry, threadlike carbonate masses and carbonate coats on rock fragments, carbonates are finely disseminated in matrix; moderately alkaline (pH 8.4); abrupt smooth boundary.
+
+    R--35 to 45 cm; sandstone bedrock.
+
+TYPE LOCATION:  Emery County, Utah; located about 800 feet north and 2,200 feet east of the SW corner of sec. 32, T. 18 S., R. 13E.; Dry Mesa, Utah USGS quad; lat. 39 degrees 12 minutes 21.00 seconds N. and long. 110 degrees 29 minutes 9.00 seconds W., NAD 83
+
+RANGE IN CHARACTERISTICS:
+Soil moisture:  The soil moisture control section is usually dry, but intermittently moist during late summer and early fall.  Aridic moisture regime bordering on Ustic. 
+
+Mean annual soil temperature:  8 to 11 degrees C.
+Depth to lithic contact:  25 to 51 cm to bedrock, lithic
+Depth to calcic horizon:  15 to 20 cm
+Thickness of calcic horizon:  15 to 20 cm
+
+Particle-size control section (weighted averages):  
+  Clay content:  5 to 18 percent
+  Rock fragment content:  0 to 20 percent 
+
+A horizon:
+Hue:  5YR or 7.5YR
+Value:  5 to 7 dry; 4 or 5 moist
+Chroma:  3 to 6 dry or moist
+Texture:  loamy fine sand, fine sandy loam
+Clay content:  4 to 16 percent
+Carbonate clay content: 0 to 1 percent
+Rock fragments:  0 to 15 percent total; 0 to 15 percent channers, 0 to 15 percent gravel
+Calcium carbonate equivalent:  1 to 10 percent
+EC (mmhos/cm):  0 to 2
+Reaction:  pH 7.4 to 8.4
+
+Bw horizon:
+Hue:  5YR or 7.5YR
+Value:  5 to 7 dry; 4 to 6 moist
+Chroma:  4 to 6 dry or moist
+Texture:  fine sandy loam
+Clay content:  5 to 18 percent
+Carbonate clay content: 0 to 1 percent
+Rock fragments:  0 to 15 percent channers
+Calcium carbonate equivalent:  1 to 10 percent
+EC (mmhos/cm):  0 to 2
+Reaction:  pH 7.4 to 9.0
+
+BCk, Bk horizons:
+Hue:  2.5YR or 7.5YR
+Value:  5 to 8 dry; 4 to 6 moist
+Chroma:  4 to 6 dry or moist
+Texture:  gravelly fine sandy loam, channery fine sandy loam, fine sandy loam
+Clay content:  8 to 18 percent
+Carbonate clay content: 0 to 6 percent
+Rock fragments:  0 to 35 percent total; 0 to 35 percent channers, 0 to 15 percent gravel
+Calcium carbonate equivalent:  5 to 35 percent
+EC (mmhos/cm):  0 to 2
+SAR:  0 to 2
+Gypsum content: 0 to 1 percent
+Reaction:  pH 7.9 to 9.0
+
+Some pedons have loamy fine sand in the Bk horizon.
+
+COMPETING SERIES:  These are the Pacon(T) (UT) Petaca (NM), Pinon (NM), Shalako (UT), and Wayneco (UT)series. 
+Pacon:  averages greater than 18 percent clay in the particle-size control section
+Petaca:  has hue yellower than 7.5YR
+Pinon:  averages greater than 18 percent clay in the particle-size control section
+Shalako:  has hue yellower than 7.5YR
+Wayneco:  has mean annual soil temperature higher than 11 degrees C. (52 degrees F.)
+
+GEOGRAPHIC SETTING:
+Parent material:  slope alluvium and eolian deposits over residuum derived from calcareous sandstone and shale, principally from the Jurassic-age Entrada and Curtis Formations.
+Landform:  structural benches
+Slopes:  3 to 15 percent
+Elevation:  1,524 to 2,225 meters
+Mean annual temperature:  7.0 to 10.0 degrees C
+Mean annual precipitation:  229 to 305 mm
+Precipitation pattern:  The soil moisture control section is affected by precipitation that peaks from July to October and the driest months are December and June.
+Frost-free period:  120 to 150 days.
+
+GEOGRAPHICALLY ASSOCIATED SOILS:  These are the Anasazi, Mido and Smithpond (T) series.  The Anasazi soils are moderately deep over a lithic contact.  The Mido soils are very deep, have a sandy particle-size control section and are on dunes.  The Smithpond soils are very deep over a lithic contact.  All of these soils occur under fourwing saltbush and other shrubs and grasses.
+
+DRAINAGE AND PERMEABILITY:  Well drained, medium runoff, moderately rapid permeability, high saturated hydraulic conductivity.
+
+USE AND VEGETATION:  Grazing and wildlife habitat.  Native vegetation consists of Utah juniper, pinyon pine, Mormon-tea, fourwing saltbush, Indian ricegrass, blue grama and salina wildrye.  Utah correlates this soil to Semidesert Shallow Sandy Loam (Utah Juniper-Pinyon) RO34XY239UT ecological site.
+
+DISTRIBUTION AND EXTENT:  Central Utah, Warm Central Desertic Basins and Plateaus; LRR D, MLRA 34B; small extent; about 1,172 hectares (2,896 acres) in Sevier and Emery counties, Utah.
+
+MLRA SOIL SURVEY REGIONAL OFFICE (MO) RESPONSIBLE:  Bozeman, Montana
+
+SERIES ESTABLISHED:  Emery County, Utah, Emery Area, Utah, 2011.  Parts of Emery, Carbon, Grand, and Sevier soil survey area.   Named for Dry Mesa, about 3 miles southeast of the type location. This series was proposed as a cooler counterpart to the Wayneco series.
+
+REMARKS: 
+Diagnostic horizons and features recognized in this pedon are:
+Series control section:  The zone from 0 to 35 cm.
+Particle-size control section:  The zone from 0 to 35 cm.  (A, Bw, Bk and BCk horizons)
+Calcic horizon:  The zone from 15 to 35 cm (Bk and BCk horizons)
+Lithic contact:  The contact with sandstone at 35 cm.  (R horizon)
+
+The assignment of the cation-exchange activity class is inferred from lab data from similar soils in the surrounding area.
+
+Taxonomic Version:  Classified according to Keys to Soil Taxonomy, Eleventh Edition, 2010.
+
+National Cooperative Soil Survey
+U.S.A.

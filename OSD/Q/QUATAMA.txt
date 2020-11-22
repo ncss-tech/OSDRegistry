@@ -1,0 +1,130 @@
+LOCATION QUATAMA                OR
+
+Established Series
+Rev. CTH/JGM/EED
+12/2017
+
+QUATAMA SERIES
+
+Landscape--Willamette Valley
+Landform--terrace steps and risers
+Slope--0 to 30 percent
+Parent material--stratified glaciolacustrine deposits from the Missoula Floods
+Mean annual precipitation--about 1150 mm
+Mean annual air temperature--about 11 degrees C
+Depth class--very deep
+Drainage class--moderately well drained
+Soil moisture regime--xeric
+Soil temperature regime--mesic
+Soil moisture subclass--aquic
+
+TAXONOMIC CLASS: Fine-loamy, mixed, superactive, mesic Aquultic Haploxeralfs 
+
+TYPICAL PEDON: Quatama loam, cultivated 
+
+ Ap--0 to 23 cm; loam, brown (10YR 5/3) dry, dark brown (10YR 3/3) moist; moderate fine and very fine subangular blocky structure; slightly hard, friable, nonsticky and slightly plastic; common very fine roots; many fine and very fine tubular pores; moderately acid (pH 5.6); abrupt smooth boundary
+
+ Bt1--23 to 38 cm; loam, pale brown (10YR 6/3) dry, dark yellowish brown (10YR 3/4) moist; weak coarse subangular blocky structure; hard, firm, slightly sticky and moderately plastic; few very fine roots; many medium to very fine tubular pores; 5 percent continuous faint clay films on surfaces along pores and 2 percent patchy faint clay films on vertical faces of peds; moderately acid (pH 5.8); clear smooth boundary
+
+ Bt2--38 to 53 cm; clay loam, pale brown (10YR 6/3) dry, dark yellowish brown (10YR 3/4) moist; moderate fine subangular blocky structure; hard, firm, slightly sticky and moderately plastic; few very fine roots; many very fine tubular pores; 5 percent continuous faint clay films on surfaces along pores and 2 percent patchy faint clay films on vertical faces of peds; moderately acid (pH 5.8); clear smooth boundary 
+
+ Btg1--53 to 76 cm; clay loam, pale brown (10YR 6/3) dry, dark yellowish brown (10YR 3/4) moist; weak medium subangular blocky structure; hard, firm, slightly sticky and moderately plastic; few very fine roots; many medium to very fine tubular pores; 5 percent continuous faint clay films on surfaces along pores and 2 percent patchy faint clay films on vertical faces of peds; 2 percent fine distinct reddish brown (5YR 4/3) masses of oxidized iron, 2 percent fine distinct light brownish gray (10YR 6/2) iron depletions, and 5 percent fine distinct manganese coatings on surfaces along pores; moderately acid (pH 5.9); gradual wavy boundary
+
+ Btg2--76 to 109 cm; loam, pale brown (10YR 6/3) dry, dark yellowish brown (10YR 3/4) moist; weak coarse subangular blocky structure; slightly hard, firm, slightly sticky and slightly plastic; common medium to very fine tubular pores; 25 percent faint clay films on all faces of peds; 10 percent fine distinct dark grayish brown (10YR 4/2) iron depletions on surfaces along pores; moderately acid (pH 6.0); gradual wavy boundary
+
+ Cg--109 to 160 cm; loam, yellowish brown (10YR 5/4) dry, dark yellowish brown (10YR 3/4) moist; massive; hard, firm, slightly sticky and slightly plastic; common very fine tubular pores; 10 percent medium distinct grayish brown (10YR 5/2) and light brownish gray (10YR 6/2) iron depletions on surfaces along pores and 10 percent fine distinct yellowish red (5YR 4/6 and 5YR 5/8) masses of oxidized iron on surfaces along pores; moderately acid (pH 6.0)
+
+TYPE LOCATION: Washington County, Oregon; about 30 m east of the road in the southeast corner of the SW1/4NW1/4NE1/4 of section 9, T. 2 S., R. 2 W.; latitude 45.4089317, longitude -122.9468801, datum WGS 84 (coordinates estimated from PLSS details)
+
+RANGE IN CHARACTERISTICS:
+Mean annual soil temperature--12 to 13 degrees C
+Moisture control section--dry 45 to 60 consecutive days following summer solstice
+Depth to the argillic horizon--18 to 23 cm
+Depth to aquic conditions--40 to 75 cm
+
+Particle-size control section
+*Clay content--27 to 35 percent
+*Total fragment content--0 percent
+
+A horizon
+Hue--10YR, 7.5YR
+Value--3 or 4 moist, 5 or 6 dry
+Chroma--2 or 3 moist or dry
+Fine-earth texture--loam, silt loam
+Clay content--18 to 27 percent
+Sand content--20 to 40 percent
+Reaction--5.6 to 6.0
+Thickness--18 to 23 cm
+
+Bt and Btg horizons
+Hue--10YR, 7.5YR
+Value--3 or 4 moist, 5 or 6 dry
+Chroma--3 or 4 moist or dry
+Fine-earth texture--clay loam, silty clay loam
+Clay content--27 to 35 percent
+Sand content--25 to 45 percent; greater than 15 percent fine sand or coarser
+Reaction--5.6 to 6.0
+Thickness--85 to 130 cm
+
+Cg horizon
+Hue--10YR, 7.5YR, 2.5Y
+Value--3 to 5 moist, 4 to 6 dry
+Chroma--4 or 6 moist or dry
+Fine-earth texture--loam, sandy loam
+Clay content--12 to 18 percent
+Sand content--40 to 70 percent
+Reaction--5.6 to 6.0
+
+COMPETING SERIES:
+Deadmanbay--densic contact at a depth of 100 to 150 cm
+Doolyville--greater than 10 percent rock fragments in particle-size control section; aquic conditions 30 cm from the soil surface
+Killebrew, Mitchellbay, Sucia--densic contact at a depth of 50 to 100 cm
+Stockel--aquic conditions 40 cm from the soil surface; sand fraction ranges to more than 45 percent in the particle-size control section 
+
+GEOGRAPHIC SETTING:
+Elevation--30 to 125 m
+Climate--warm, dry summers; cool, moist winters
+Mean annual precipitation--1000 to 1300 mm
+Mean annual air temperature--11 to 12 degrees C
+Mean January air temperature--3 degrees C
+Mean July air temperature--19 degrees C
+Frost-free period--165 to 210 days
+
+GEOGRAPHICALLY ASSOCIATED SOILS:
+Aloha--no argillic horizon; in similar positions
+Hillsboro--mollic epipedon; no aquic conditions within a depth of 150 cm; less than 15 percent sand in the particle-size control section; in similar positions
+Huberly-- fragipan; less than 15 percent sand in the particle-size control section; aquic conditions within 20 cm of the soil surface; in depressions of terraces
+Verboort--mollic epipedon; greater than 35 percent clay in the particle-size control section; cracks at surface in normal years; in depressions of terraces
+
+DRAINAGE AND PERMEABILITY:
+Drainage class--moderately well drained
+Saturation in normal years--apparent high water table at a depth of 40 to 75 cm below the surface in January through March
+Flooding--none
+Ponding--none
+Saturated hydraulic conductivity (Ksat)--moderately high
+
+USE AND VEGETATION:
+Use--production of berries, row crops, orchard crops, nursery stock, grain, seed crops, hay, and pasture
+Potential natural vegetation--Douglas-fir, western redcedar, Oregon white oak, Oregon ash, Oregon grape, grasses
+
+DISTRIBUTION AND EXTENT: Tualatin Valley and northern Willamette Valley, Oregon; MLRA 2; small extent
+
+SOIL SURVEY REGIONAL OFFICE (SSRO) RESPONSIBLE: Portland, Oregon 
+
+SERIES ESTABLISHED: Washington County, Oregon; 1975 
+
+REMARKS: 
+Diagnostic horizons and other features in this pedon
+*Ochric epipedon
+*Argillic horizon--zone from 23 to 109 cm
+*Aquic conditions--zone from 53 to 160 cm
+
+The Quatama soils are mapped on the Senecal geomorphic surface as recognized in the Willamette Valley.
+
+8/2017-- This official series description was updated according to SSR01 Technical Note 11--Content and Format of Official Series Descriptions (revised 12/2015). Most of the changes made were in formatting. No major technical changes were made.
+
+ADDITIONAL DATA: 
+Characterization data--pedon number S68 Oreg 34- 1, sample number S99OR-067-001, Riverside Soil Survey Laboratory; Lincoln, NE; 5/01; unpublished 
+
+National Cooperative Soil Survey
+U.S.A.

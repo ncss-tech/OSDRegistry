@@ -1,0 +1,134 @@
+LOCATION GOLDENLAKES            WA
+
+Established Series
+IRD. PHR/MPR
+07/2017
+
+GOLDENLAKES SERIES
+
+Landscape--Cascade Mountains
+Landform--debris aprons, bedrock benches, glacial valley walls
+Slope--5 to 100 percent
+Parent material--volcanic ash over andesite residuum
+Mean annual precipitation--about 1800 mm
+Mean annual air temperature--about 6 degrees C
+Depth class--moderately deep
+Drainage class--well drained
+Soil moisture regime--udic
+Soil temperature regime--frigid
+Soil moisture subclass--typic
+
+TAXONOMIC CLASS: Ashy, amorphic, frigid Andic Haplorthods
+
+TYPICAL PEDON: Goldenlakes paragravelly ashy sandy loam on a west-facing, 10-percent slope of a706 forested bedrock bench at an elevation of 795 m (When described on May 8, 2013, the soil was moist throughout.)
+
+ Oi--0 to 2 cm; slightly decomposed plant material; few fine roots; very strongly acid (pH 4.5); abrupt smooth boundary
+
+ Oe--2 to 5 cm; moderately decomposed plant material; common fine and medium roots; very strongly acid (pH 4.5); clear smooth boundary
+
+ E--5 to 20 cm; paragravelly ashy sandy loam, light brownish gray (10YR 6/2) dry, dark grayish brown (10YR 4/2) moist; weak fine subangular blocky structure; soft, very friable, nonsticky and nonplastic; few very fine and common fine to coarse roots; common very fine and fine interstitial pores; 10 percent fine pumice paragravel and 5 percent medium and coarse pumice paragravel; strongly acid (pH 5.2); clear irregular boundary
+
+ Bs--20 to 63 cm; paragravelly ashy loamy sand, light brown (7.5YR 6/3) dry, brown (7.5YR 4/3) moist; weak fine subangular blocky structure; soft, very friable, nonsticky and nonplastic; common very fine to medium and few coarse and very coarse roots; common very fine and fine interstitial pores; 15 percent fine pumice paragravel and 5 percent medium and coarse pumice paragravel; moderately acid (pH 5.7); clear smooth boundary
+
+ 2Bw--63 to 88 cm; very stony ashy sandy loam, brown (7.5YR 5/4) dry, dark brown (7.5YR 3/4) moist; moderate medium subangular blocky structure; slightly hard, friable, nonsticky and nonplastic; few very fine to very coarse roots; common very fine and fine interstitial pores; 10 percent fine andesite gravel, 10 percent medium and coarse andesite gravel, 10 percent andesite cobbles, and 10 percent andesite stones; moderately acid (pH 5.7); abrupt irregular boundary
+
+ 2R--88 cm; fractured andesite
+
+TYPE LOCATION: Pierce County, Washington, about 500 m north of the junction of Washington State Route 706 and West Side Road in Mount Rainier National Park; about 365 m south and 105 m west of the northeast corner of section 34, T. 15 N., R. 7 E., Willamette Meridian; Sawtooth Ridge, Washington, U.S. Geological Survey quadrangle; latitude 46.82778 degrees north, longitude -121.832963 degrees west, datum WGS 84 (coordinates determined with a GPS)
+
+RANGE IN CHARACTERISTICS:
+Mean annual soil temperature--6 to 8 degrees C
+Soil moisture control section--dry less than 45 consecutive days in June through October
+Depth to lithologic discontinuity--45 to 75 cm
+Depth to lithic contact--50 to 100 cm
+Pararock and rock fragments--pumice paragravel typically in upper part of profile; andesite gravel, cobbles, and stones may be in lower part of profile
+
+All mineral horizons
+*Volcanic glass content--50 to 75 percent
+*Ammonium oxalate Al plus 1/2 Fe--greater than 0.4 percent
+
+Particle-size control section
+*Clay content--1 to 7 percent
+*Total pararock and rock fragment content--5 to 35 percent
+
+O horizon
+*In lieu of texture--slightly decomposed plant material, moderately decomposed plant material
+*Thickness--0 to 7 cm
+
+E horizon
+*Hue--10YR
+*Value--3 to 6 moist, 5 to 8 dry
+*Chroma--1 or 2 moist or dry
+*Fine-earth texture--ashy sandy loam, ashy loamy sand
+*Clay content--1 to 5 percent
+*Pararock fragment content--0 to 35 percent pumice paragravel
+*Reaction--4.5 to 5.5
+*Thickness--5 to 20 cm
+
+Bs horizon
+*Hue--7.5YR, 5YR
+*Value--2.5 to 5 moist, 4 to 7 dry
+*Chroma--1 to 4 moist or dry
+*Fine-earth texture--ashy loamy sand, ashy sandy loam, ashy loamy coarse sand
+*Clay content--1 to 7 percent
+*Pararock and rock fragment content--15 to 35 percent total, including 15 to 35 percent pumice paragravel and 0 to 5 percent andesite gravel
+*Reaction--5.1 to 6.0
+*Thickness--40 to 70 cm
+
+2Bw horizon
+*Hue--7.5YR, 10YR
+*Value--2.5 to 4 moist, 4 to 6 dry
+*Chroma--2 to 4 moist or dry
+*Fine-earth texture--ashy sandy loam, ashy coarse sandy loam, ashy loamy sand
+*Clay content--1 to 7 percent
+*Rock fragment content--20 to 50 percent total, including 15 to 45 percent andesite gravel, 0 to 20 percent andesite cobbles, and 0 to 15 percent andesite stones
+*Reaction--5.1 to 6.0
+*Thickness--15 to 40 cm
+
+COMPETING SERIES:
+Kautz--greater than 150 cm to lithic contact (very deep)
+
+GEOGRAPHIC SETTING:
+Elevation--600 to 1400 m
+Climate--warm, dry summers; cool, wet winters
+Mean annual precipitation--1600 to 2000 mm
+Mean annual air temperature--5 to 7 degrees C
+Frost-free duration--90 to 130 days
+
+GEOGRAPHICALLY ASSOCIATED SOILS:
+Ingraham--lithic contact at a depth of 25 to 50 cm from the soil surface (shallow)
+Kautz--lithic contact at a depth of greater than 150 cm from the soil surface (very deep)
+Sunbeam--aquic conditions within 25 cm of the soil surface; in adjacent positions with gentler slopes that receive runoff
+Tokaloo--aquic conditions at a depth of 25 to 50 cm from the soil surface; in adjacent positions with gentler slopes that receive runoff
+
+DRAINAGE AND SATURATED HYDRAULIC CONDUCTIVITY:
+Drainage class--well drained
+Saturated hydraulic conductivity (Ksat)--high, very high
+
+USE AND VEGETATION:
+Use--wildlife habitat, recreation
+Potential natural vegetation--western hemlock, western redcedar, Douglas-fir, vine maple, western swordfern, Cascade Oregon grape, vanillaleaf, salal, beargrass, prince's pine, myrtle pachistima, red huckleberry, black huckleberry
+
+DISTRIBUTION AND EXTENT: Central Cascade Mountains, Washington; MLRA 3; small extent
+
+MLRA SOIL SURVEY REGIONAL OFFICE (MO) RESPONSIBLE: Portland, Oregon
+
+SERIES ESTABLISHED: Mount Rainier National Park, Pierce County, Washington; 2014; name from Golden Lakes basin area in Mount Rainier National Park
+
+REMARKS:
+Diagnostic horizons and other features in this pedon
+*Particle-size control section--zone from 30 to 88 cm
+*Ochric epipedon
+*Albic horizon--zone from 5 to 20 cm
+*Spodic horizon--zone from 20 to 63 cm
+*Cambic horizon--zone from 63 to 88 cm
+*Andic soil properties--zone from 5 to 88 cm
+*Volcanic glass content--zone from 5 to 88 cm
+*Depth to lithologic discontinuity--63 cm
+*Depth to lithic contact--88 cm
+*Distinguishable tephra layers--Mount St. Helens Wn tephra (E horizon), Mount St. Helens Yn tephra (Bs horizon)
+
+3/2017--This official series description was updated according to SSR1 Technical Note 11--Content and Format of Official Series Descriptions (revised 12/2015). Most of the changes were in formatting; no major technical changes were made.
+
+National Cooperative Soil Survey
+U.S.A.

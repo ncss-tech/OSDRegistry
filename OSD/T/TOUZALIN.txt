@@ -1,0 +1,141 @@
+LOCATION TOUZALIN               OK+KS TX
+
+Tentative Series
+JTB-SLM
+03/2017
+
+TOUZALIN SERIES
+
+The Touzalin series consists of very deep, somewhat poorly drained, rapidly permeable soils formed in sandy fluvial sediments of Holocene age.  These soils occur on nearly level to undulating flood plains in the Southern High Plains, Breaks (MLRA-77E).  The slope ranges from 0 to 3 percent.  Mean annual precipitation is about 530 mm (21 inches), and mean annual air temperature is about 15 degrees C (59 degrees F).  
+
+TAXONOMIC CLASS: Sandy, mixed, thermic Oxyaquic Ustifluvents
+
+TYPICAL PEDON: Touzalin loam - on a less than 1 percent linear slope in native rangeland at approximately 750 meters (2475 feet) elevation. When described, a seasonal water table was present at 91 centimeters (36 inches). 
+     (Colors are for moist soil unless otherwise stated.)
+
+  A--0 to 20 cm (0 to 8 in); light yellowish brown (10YR 6/4), loam, very pale brown (10YR 7/4), dry; very friable, slightly hard; common very fine and common fine roots throughout; very slightly effervescent; moderately alkaline; clear smooth boundary. (10 to 76 cm thick [4 to 30 in])
+
+  C1--20 to 41 cm (8 to 16 in); very pale brown (10YR 7/3), stratified fine sand, very pale brown (10YR 8/3), dry; massive; loose, soft; common very fine and common fine roots throughout; strongly effervescent; moderately alkaline; abrupt smooth boundary.
+
+  C2--41 to 76 cm (16 to 30 in); very pale brown (10YR 7/4), stratified loamy fine sand, very pale brown (10YR 8/4), dry; massive; loose, soft; few very fine and few fine roots throughout; very slightly effervescent; moderately alkaline; clear smooth boundary.
+
+  C3--76 to 203 cm (30 to 80 in); reddish yellow (7.5YR 6/6), stratified sand reddish yellow (7.5YR 7/6), dry; massive; loose, soft; very slightly effervescent; moderately alkaline. (46 to 183 cm thick [18 to 72 in])
+
+TYPE LOCATION: Beaver County, Oklahoma; from the south side of Beaver, 8 miles west, 1 mile south, 2 miles west, and 2 miles north; then 200 ft (61 m) south and 400 ft (121 m) east of the northwest corner of Section 16, Township 4N, Range 22E (Cimarron meridian).   
+
+USGS topographic quadrangle: Floris, Oklahoma
+Latitude: 36 degrees 49 minutes 10.45 seconds N
+Longitude: 100 degrees 42 minutes 5.71 seconds W
+Datum WGS84
+
+Decimal Degrees
+Latitude: 36.819572
+Longitude: -100.701589
+
+UTM Northing: 4076208
+UTM Easting:   348236 
+UTM zone 14S
+
+RANGE IN CHARACTERISTICS: 
+Solum thickness: 10 to 76 cm (4 to 30 in) 
+Thickness of ochric epipedon: 18 to 43 cm (7 to 17 in)	
+Saturation (water table): endosaturated within 60 to 100 cm (24 to 40 in) of the soil surface more than 30 cumulative days of the year, with seasonal fluctuations from 50 to 180 cm (20 to 71 in) to free water
+Depth to redoximorphic features: 23 cm (9 in) 
+
+Particle-size control section (weighted average):
+Section range: 25 to 100 cm (10 to 40 in)
+Silicate clay: 0 to 15 percent
+Clay-sized carbonate: 0 to 1 percent
+Coarse-fragments: amount-0 to 10 percent; size-fine to coarse gravels; kind-indurated well-rounded quartzite, feldspar, ironstone, and sandstone 
+Salinity: nonsaline to moderately saline (electrical conductivity 0 to 16 deciSiemens per meter)  
+Stratification: Stratified fluvial bedding may be present throughout the profile
+
+Surface Fragments: amount-0 to 5 percent; size-fine to coarse gravels; kind-indurated well-rounded quartzite, feldspar, ironstone, and sandstone
+
+A horizons:
+Hue: 7.5YR or 10YR
+Value: 4 to 6 dry, 3 to 5 moist
+Chroma: 2 to 4 moist or dry
+Note: Where the moist color value and chroma are less than 3.5, the thickness is less than 10 inches
+Texture: sand, loamy sand, loamy fine sand, sandy loam, fine sandy loam, very fine sandy loam, loam, clay loam
+Coarse fragments: amount-0 to 5 percent; size-fine to coarse gravels; kind-indurated well-rounded quartzite, feldspar, ironstone, and sandstone, or strongly cemented caliche fragments
+Calcium carbonate equivalent: 0 to 8 percent 
+Effervescence: none to strong
+Reaction (pH): slightly alkaline to strongly alkaline (7.4-9.0)
+Electrical Conductivity: 0 to 16 dS/m
+
+AC horizons, where present:
+Hue: 5YR to 10YR
+Value: 5 to 8 dry, 3 or 6 moist
+Chroma: 2 to 6 moist or dry
+Texture: sand, loamy sand, loamy fine sand, sandy loam, fine sandy loam, very fine sandy loam
+Coarse fragments: amount-0 to 10 percent; size-fine to coarse gravels; kind-indurated well-rounded quartzite, feldspar, ironstone, and sandstone, or strongly cemented caliche fragments
+Calcium carbonate equivalent: 0 to 3 percent
+Effervescence: none to strong
+Reaction (pH): slightly alkaline to strongly alkaline (7.4-9.0)
+Electrical Conductivity: 0 to 16 dS/m
+
+C horizons:
+Hue: 5YR to 10YR
+Value: 5 to 8 dry, 3 or 6 moist
+Chroma: 2 to 6 moist or dry
+Texture: loamy fine sand, loamy sand, fine sand, coarse sand, sand
+Coarse fragments: amount-0 to 10 percent; size-fine to coarse gravels; kind-indurated well-rounded quartzite, feldspar, ironstone, and sandstone, or strongly cemented caliche fragments
+Calcium carbonate equivalent: 0 to 3 percent
+Effervescence: none to strong
+Reaction (pH): slightly alkaline to strongly alkaline (7.4-9.0)
+Electrical Conductivity: 0 to 16 dS/m
+
+COMPETING SERIES:  There are no competing series.  Similar soils are the Gracemore(OK), Calamus(NE), Fredburrs(MT), Handke(MT), and Yaggy(KS) series.
+Gracemore soils: are moist in the control section for longer periods 
+Calamus and Yaggy soils: have a cooler mesic soil temperature regime
+Fredburrs and Handke soils: have a cooler frigid soil temperature regime
+
+GEOGRAPHIC SETTING:
+Parent Material: Sandy fluvial sediments of Holocene age
+Landscape: alluvial plain remnant, river valley
+Landform: floodplains 
+Soil moisture: An ustic moisture regime bordering on udic. The soil moisture control section is dry in some or all parts for more than 180 but less than 220 days, cumulative, in normal years. July through August and December through February are the driest months. These soils are intermittently moist in September through November and March through June.
+Mean annual air temperature: 14 to 16 degrees C (57 to 61 degrees F)
+Mean annual precipitation: 382 to 660 millimeters (15 to 26 inches)
+Frost-free period: 180 to 210 days
+Elevation: 550 to 1500 m (1850 to 4921 ft
+Thornthwaite annual P-E Index: 25 to 36
+
+GEOGRAPHICALLY ASSOCIATED SOILS:  These are the Duckpond(T), Gilhula(T), Guadalupe, Persimmon(T), Sweetwater, and Wespur(T) series on similar landscape positions.
+Duckpond soils: have a mollic epipedon greater than 50 cm (40 in) thick, a fine-silty particle-size class, and do not have free water within the soil profile
+Giluha soils: have a mollic epipedon, a coarse-loamy particle-size class, and do not have free water within the soil profile
+Guadalupe soils: have a coarse-loamy particle-size class, and do not have free water within the soil profile
+Persimmon soils: have a coarse loamy particle size class
+Sweetwater soils: have a mollic epipedon, and a fine-loamy over sandy strongly contrasting particle-size class
+Wespur soils: have a mollic epipedon, a fine-loamy particle size class, and do not have free water within the soil profile
+
+DRAINAGE AND PERMEABILITY:
+Drainage: somewhat poorly
+Permeability: rapid
+Runoff: negligible on 0 to 1 percent slopes and very low on 1 to 3 percent slopes
+Flooding: frequency-frequent to rare; duration-extremely brief to very brief during the spring and summer months
+Saturation (water table): endosaturation within 100 cm (40 in) of the surface most of the year and within 50 cm (20 in) from November through May
+
+USE AND VEGETATION: Used mainly for rangeland.  Native vegetation is tall grasses with small percent of trees, mainly eastern cottonwood and tamarisk.  Some areas are cultivated to bermudagrass, weeping lovegrass, winter wheat, and forage sorghums.  
+
+DISTRIBUTION AND EXTENT:  Southern High Plains, Breaks (MLRA-77E in LRR H) of northwestern Oklahoma, the Texas and Oklahoma Panhandles, and adjacent areas of Southwestern Kansas.  This soil is moderately extensive.
+
+MLRA SOIL SURVEY REGIONAL OFFICE (MO) RESPONSIBLE: Temple, Texas 
+
+SERIES PROPOSED: Beaver County, Oklahoma, 2008. The Touzalin name comes an old community in Ellis County, Oklahoma.
+
+REMARKS: 
+Series proposed as a replacement for soils in MLRA-77E previously mapped as Las Animas, Elsmere, and Lincoln soils with a described water table within 150 cm (59 in) of the soil surface.
+
+Diagnostic horizons and features in this pedon:
+Ochric epipedon: 0 to 20 cm (0 to 8 in) (A horizon)
+Fluventic feature: 20 to 203 cm (8 to 80 in) (C1, C2, and C3 horizons)
+Pedon ID:  P1999OK007031
+
+ADDITIONAL DATA: KSSL data available. S2009OK007003 (Beaver County, Oklahoma).
+
+TAXONOMIC VERSION: Keys to Soil Taxonomy, Twelfth Edition, 2014. 
+
+National Cooperative Soil Survey
+U.S.A.

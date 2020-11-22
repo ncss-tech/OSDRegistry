@@ -1,0 +1,103 @@
+LOCATION ANCHOR                 AK
+
+Established Series
+SAS/MHC/MPR
+03/2019
+
+ANCHOR SERIES
+
+Landscape--shore complexes
+Landform--tidal flats
+Slope--0 to 2 percent
+Parent material--organic material over silty marine deposits
+Mean annual precipitation--about 760 mm
+Mean annual air temperature--about 1 degree C
+Depth class--very deep
+Drainage class--very poorly drained
+Soil moisture regime--peraquic
+Soil temperature regime--cryic
+Soil moisture subclass--typic
+
+TAXONOMIC CLASS: Coarse-silty, isotic, nonacid Histic Cryaquepts
+
+TYPICAL PEDON: Anchor peat on a linear tidal flat, on a slope of 0 percent at an elevation of 0 m (The soil was saturated throughout the profile when described on July 24, 2010.)
+
+ Oi1--0 to 18 cm; peat, brown (10YR 5/3) dry, dark brown (10YR 3/3) moist; many very fine and fine and common medium roots; slightly acid (pH 6.2); clear smooth boundary
+
+ Oi2--18 to 39 cm; peat, gray (2.5Y 6/1) dry, dark gray (2.5Y 4/1) moist; many very fine and fine roots; neutral (pH 6.6); clear smooth boundary
+
+ Cg--39 to 150 cm; silt, gray (5Y 6/1) dry, dark gray (5Y 4/1) moist; massive; moderately hard, firm, slightly sticky and nonplastic; many very fine and common fine roots; neutral (pH 6.7)
+
+TYPE LOCATION: Dillingham Census Area, Alaska, about 2 km west of the village of Twin Hills; latitude 59.0752778 degrees north, longitude 160.3163889 degrees west, datum WGS 84 (coordinates determined with a GPS)
+
+RANGE IN CHARACTERISTICS:
+Mean annual soil temperature--1 to 4 degrees C
+Soil moisture control section--saturated in all parts during the growing season (peraquic moisture regime)
+Aquic conditions--present throughout the profile
+Combined thickness of organic soil layers--20 to 40 cm
+
+Particle-size control section
+*Clay content--5 to 15 percent
+*Sand content--0 to 20 percent
+*Content of particles that are 0.1 to 77.0 mm in diameter (fine sand or coarser)--0 to 15 percent
+*Sodium fluoride pH--greater than or equal to 8.4
+*Ratio of 1500 kPa water to measured clay--greater than or equal to 0.6
+
+Oi1 horizon
+Thickness--5 to 30 cm
+Rubbed fiber content--75 to 100 percent
+
+Oi2 horizon
+Thickness--5 to 30 cm
+Rubbed fiber content--40 to 75 percent
+Color value and chroma  of sodium pyrophosphate--7/1, 7/2, 8/1, 8/2, 8/3
+
+Cg horizon
+Hue--5Y
+Value--4 or 5 moist, 6 or 7 dry
+Chroma--1 or 2 moist
+Fine-earth texture--silt, silt loam
+Clay content--5 to 15 percent
+Reaction--6.0 to 7.5
+Electrical conductivity--4 to 8 ds/m
+Thickness--greater than 110 cm
+
+COMPETING SERIES: None
+
+GEOGRAPHIC SETTING:
+Elevation--0 to 15 m
+Climate--warm, moist summers; cold, moist winters
+Mean annual precipitation--760 to 780 mm
+Mean annual air temperature--0.9 to 1.7 degrees C
+Frost-free period--85 to 140 days
+
+GEOGRAPHICALLY ASSOCIATED SOILS:
+Longarm--ochric epipedon; coarse fragments present; no ponding; moderately acid or slightly acid
+Ekiligamut--organic soil material more than 130 cm thick; rare flooding
+Kipnuktuli--hemic soil material 40 to 130 cm thick; frequent flooding; no ponding
+
+DRAINAGE AND SATURATED HYDRAULIC CONDUCTIVITY:
+Drainage class--very poorly drained
+Flooding--very frequent, very brief periods
+Saturation in normal years--at the soil surface and throughout the profile during all months
+Saturated hydraulic conductivity (Ksat)--moderately high or high throughout the profile
+
+USE AND VEGETATION:
+Use--wildlife habitat, recreation, subsistence
+Potential natural vegetation--water sedge, Lyngbye's sedge, mare's-tail, purple marshlocks, western water hemlock
+
+DISTRIBUTION AND EXTENT: Ahklun Mountains, Alaska; MLRA 237; small extent
+
+SOIL SURVEY REGIONAL OFFICE (SSRO) RESPONSIBLE: Portland, Oregon
+
+SERIES ESTABLISHED: Togiak National Wildlife Refuge, Bethel Census Area, Alaska; 2019
+
+REMARKS:
+Diagnostic horizons and other features in this pedon
+*Particle-size control section--zone from 64 to 139 cm
+*Histic epipedon--Oi horizon
+*Aquic conditions--throughout the profile
+*Reduced matrix-Cg horizon
+
+National Cooperative Soil Survey
+U.S.A.

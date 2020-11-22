@@ -1,0 +1,107 @@
+LOCATION OREOKE                 WA
+
+Established Series
+Rev. EH/RJE/RWL
+09/2019
+
+OREOKE SERIES
+
+Landscape--canyonlands, hills
+Landform--canyons, hillslopes
+Slope--15 to 75 percent
+Parent material--colluvium derived from basalt mixed with loess
+Mean annual precipitation--about 460 mm
+Mean annual air temperature--about 9 degrees C
+Depth class--very deep
+Drainage class--well drained
+Soil moisture regime--xeric
+Soil temperature regime--mesic
+Soil moisture subclass--typic
+
+TAXONOMIC CLASS: Loamy-skeletal, mixed, superactive, mesic Pachic Ultic Argixerolls
+
+TYPICAL PEDON: Oreoke stony silt loam, forested, on a 65-percent, southeast-facing slope at an elevation of 370 m
+
+ A1--0 to 13 cm; stony silt loam, brown (7.5YR 4/2) dry, dark brown (7.5YR 3/2) moist; weak fine granular structure; soft, very friable, nonsticky and slightly plastic; many very fine and fine roots; many fine irregular pores; 15 percent gravel and 5 percent surface stones; slightly acid (pH 6.4); clear smooth boundary
+
+ A2--13 to 38 cm; gravelly silt loam, brown (7.5YR 5/2) dry, dark brown (7.5YR 3/2) moist; weak fine subangular blocky structure; soft, friable, slightly sticky and slightly plastic; many very fine and fine roots; common fine irregular pores and common fine tubular pores; 15 percent gravel and 5 percent cobbles; slightly acid (pH 6.4); clear wavy boundary
+
+ AB--38 to 56 cm; very gravelly silt loam, brown (7.5YR 5/3) dry, dark brown (7.5YR 3/3) moist; weak fine subangular blocky structure; slightly hard, friable, slightly sticky and slightly plastic; common very fine and few fine and medium roots; common fine and medium tubular pores; 40 percent gravel and 10 percent cobbles; slightly acid (pH 6.2); clear wavy boundary
+
+ Bt1--56 to 107 cm; very gravelly clay loam, brown (7.5YR 5/4) dry, dark brown (7.5YR 3/4) moist; moderate fine and medium subangular blocky structure; slightly hard, friable, moderately sticky and moderately plastic; common very fine, fine, and medium roots; common fine and medium tubular pores; common faint clay films on faces of peds and in pores; 45 percent gravel, 10 percent cobbles, and 5 percent stones; slightly acid (pH 6.2); clear wavy boundary
+
+ Bt2--107 to 150 cm; extremely gravelly clay loam, dark yellowish brown (10YR 4/4) dry, dark yellowish brown (10YR 3/4) moist; moderate medium subangular blocky structure; hard, firm, moderately sticky and moderately plastic; common fine and medium roots; few fine tubular pores; common distinct clay films on faces of peds and in pores; 50 percent gravel, 20 percent cobbles, and 5 percent stones; moderately acid (pH 6.0)
+
+TYPE LOCATION: Klickitat County, Washington, about 3 km southwest of Klickitat; about 790 m south and 60 m east of the northwest corner of section 28, T. 4 N., R. 13 E.; latitude 45 degrees, 48 minutes, 15 seconds north and longitude 121 degrees, 11 minutes, 36 seconds west
+
+RANGE IN CHARACTERISTICS:
+Mean annual soil temperature--9 to 11 degrees C
+Moisture control section--usually moist, but dry 75 to 90 consecutive days following summer solstice
+Particle-size control section--25 to 35 percent clay; average of 50 to 75 percent rock fragments
+Thickness of mollic epipedon--50 to 75 cm; includes A and AB horizons
+
+A horizon
+Hue--7.5YR, 10YR
+Value--4 or 5 dry, 2 or 3 moist
+Chroma--2 or 3 dry or moist
+Reaction--5.6 to 6.5
+Combined thickness--30 to 50 cm
+
+AB horizon
+Hue--7.5YR, 10YR
+Value--4 or 5 dry
+Texture of fine-earth fraction--loam, silt loam
+Rock fragment content--35 to 60 percent
+Reaction--5.6 to 6.5
+Thickness--15 to 25 cm
+
+Bt horizon
+Hue--7.5YR, 10YR
+Value--4 to 6 dry
+Chroma--3 to 6 dry or moist
+Texture of fine-earth fraction--loam, clay loam
+Rock fragment content--35 to 80 percent
+Reaction--5.6 to 7.3
+Combined thickness--greater than 75 cm
+
+COMPETING SERIES:
+Badgermont--50 to 100 cm (moderately deep) to a lithic contact (basalt); dry 90 to 105 consecutive days following summer solstice
+Lawyer--dry 60 to 75 consecutive days following summer solstice; pH of 6.6 to 7.3 in A horizon; secondary carbonates below a depth of 109 cm in some pedons
+Tamming--100 to 150 cm (deep) to a lithic contact (basalt); dry 60 to 75 consecutive days following summer solstice
+
+GEOGRAPHIC SETTING:
+Elevation--240 to 850 m
+Mean annual precipitation--380 to 640 mm
+Mean January air temperature--about -2 degrees C
+Mean July air temperature--about 20 degrees C
+Mean annual air temperature--about 8 to 10 degrees F
+Frost-free season--120 to 150 days
+
+GEOGRAPHICALLY ASSOCIATED SOILS:
+Dillcourt--base saturation of more than 75 percent; on canyon side slopes
+Gunn--ochric epipedon; on plateaus and hillslopes
+Legall--mollic epipedon less than 50 cm thick; on canyon side slopes
+Leidl--mollic epipedon less than 50 cm thick; on canyon side slopes; 50 to 100 cm (moderately deep) to a lithic contact (basalt)
+
+DRAINAGE AND SATURATED HYDRAULIC CONDUCTIVITY:
+Drainage class--well drained
+Saturated hydraulic conductivity (Ksat)--moderately high
+
+USE AND VEGETATION:
+Use--mainly livestock grazing
+Native vegetation--scattered Oregon white oak, antelope bitterbrush, bluebunch wheatgrass, Idaho fescue, elk sedge, lupine, eriogonum
+
+DISTRIBUTION AND EXTENT: Klickitat County, Washington; MLRAs 6 and 8; small extent
+
+SOIL SURVEY REGIONAL OFFICE (SSRO) RESPONSIBLE: Portland, Oregon
+
+SERIES ESTABLISHED: Klickitat County, Washington; 2003
+
+REMARKS:
+Diagnostic horizons and other features recognized in this pedon
+*Mollic epipedon--zone from the surface to a depth of 56 cm
+*Argillic horizon--zone from 56 to 150 cm
+*Particle-size control section--zone from 56 to 107 cm; 60 percent rock fragments
+
+National Cooperative Soil Survey
+U.S.A.

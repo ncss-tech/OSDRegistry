@@ -1,0 +1,127 @@
+LOCATION SPARKY                 ID
+
+Established Series
+IRD CBR/EED
+05/2018
+
+SPARKY SERIES
+
+Landscape--mountains, hills
+Landform--mountain slopes, hillslopes, swales
+Slope--1 to 70 percent
+Parent material--loess-influenced colluvium derived from mixed sources
+Mean annual precipitation--about 900 mm
+Mean annual air temperature--about 1.7 degrees C
+Depth class--very deep
+Drainage class--well drained
+Soil moisture regime--udic
+Soil temperature regime--cryic
+
+TAXONOMIC CLASS: Loamy-skeletal, mixed, superactive Pachic Haplocryolls
+
+TYPICAL PEDON: Sparky silt loam in an area of forestland (Colors are for dry soil unless otherwise noted.)
+
+ Oi--0 to 5 cm; slightly decomposed plant material; diffuse wavy boundary
+
+ A--5 to 13 cm; very dark brown (10YR 2/2) silt loam, black (10YR 2/1) moist; moderate fine granular structure; very friable, nonsticky and nonplastic; common fine and very fine roots throughout; 5 percent gravel; neutral (pH 6.6); abrupt wavy boundary
+
+ AB--13 to 79 cm; very dark grayish brown (10YR 3/2) gravelly silt loam, very dark brown (10YR 2/2) moist; moderate fine subangular blocky structure; friable, slightly sticky and slightly plastic; common very fine and fine roots throughout; 20 percent gravel and 5 percent cobbles; slightly acid (pH 6.5); clear wavy boundary
+
+ Bw1--79 to 150 cm; pale brown (10YR 6/3) very gravelly loam, brown (10YR 4/3) moist; moderate medium subangular blocky structure; friable, slightly sticky and slightly plastic; few very fine roots throughout; 50 percent gravel and 5 percent cobbles; slightly acid (pH 6.4)
+
+TYPE LOCATION: Bannock County, Idaho; latitude 42.78133 degrees north, longitude 112.15617 west, datum WGS 84
+
+RANGE IN CHARACTERISTICS:
+Soil moisture control section--dry less than 45 consecutive days during the 4 months following summer solstice
+Mean annual soil temperature--2.8 to 6.1 degrees C
+Thickness of mollic epipedon--50 to 80 cm
+Depth to cambic horizon--20 to 80 cm
+
+Particle-size control section (weighted averages)
+Clay content--15 to 22 percent
+Total rock fragment content--35 to 60 percent
+
+Oi horizon
+Reaction--pH 4.0 to 5.5
+Organic matter content--60 to 95 percent
+Thickness--3 to 8 cm
+
+A horizon
+Value--2 or 3 moist
+Chroma--2 to 4 dry, 1 or 2 moist
+Texture (less than 2-mm fraction)--loam, silt loam
+Clay content--12 to 18 percent
+Sand content--30 to 41 percent
+Gravel content--3 to 10 percent
+Reaction--pH 6.4 to 6.8
+Thickness--5 to 80 cm
+
+AB horizon (where present)
+Value--2 to 4 moist
+Chroma--2 to 4 moist
+Clay content--16 to 22 percent
+Sand content--20 to 30 percent
+Total rock fragment content--10 to 25 percent
+Gravel content--10 to 25 percent
+Cobble content--0 to 10 percent
+Reaction--pH 6.4 to 6.8
+Thickness--0 to 34 cm
+
+Bw horizon
+Value--3 to 6 dry, 3 or 4 moist
+Chroma--2 to 4 dry, 2 to 4 moist
+Clay content--15 to 22 percent
+Sand content--20 to 46 percent
+Texture (less than 2-mm fraction)--loam, silt loam
+Total rock fragment content--50 to 80 percent
+Gravel content--50 to 70 percent
+Cobble content--0 to 10 percent
+Reaction--pH 6.2 to 6.5
+
+COMPETING SERIES:
+Baconcamp--moderately deep to a lithic contact
+Badgerton, Badhap, Boydhollow, Busterback, Hapgood, Harcany, Lionhead, Povey, Snacreek, Snopoc--xeric soil moisture regime
+Behanco, Poleline, Tonigut--deep to lithic contact
+Behanin--clay films in Bw horizon; silt loam in particle-size control section
+Belsac--moderately deep to paralithic contact
+Boatman--more than 40 percent sand in particle-size control section (weighted average)
+Bullrey, Hobacker, Lolon, Marcetta, Mundos--ustic soil moisture regime
+Croesus, Goodski, Nagitsy, Namela, Splitbutte--moderately deep to lithic contact
+Dressel--albic horizon
+Gateview--no cambic horizon
+Nazaton--45 to 100 frost-free days; no silt loam in A horizon; massive Bw2 and C horizons
+Papaspila--no cambic horizon
+Parkcity, Sweethollow--less than 18 percent clay in particle-size control section
+
+GEOGRAPHIC SETTING:
+Elevation--1700 to 2870 m
+Mean annual precipitation--550 to 1250 mm
+Mean annual air temperature--0.6 to 5.6 degrees C
+Frost-free period--20 to 60 days
+
+GEOGRAPHICALLY ASSOCIATED SOILS:  None listed
+
+DRAINAGE AND SATURATED HYDRAULIC CONDUCTIVITY:
+Drainage class--well drained
+Saturated hydraulic conductivity (Ksat)--5 to 15 um/sec
+
+USE AND VEGETATION:
+Major uses--wood products, livestock grazing, wildlife habitat
+Potential natural vegetation--Douglas-fir, pinegrass, Rocky Mountain maple, mountain snowberry, heartleaf arnica
+
+DISTRIBUTION AND EXTENT:  Small extent in southeastern Idaho; MLRAs 13, 43B, and 47
+
+SOIL SURVEY REGIONAL OFFICE (SSRO) RESPONSIBLE: Portland, Oregon
+
+SERIES ESTABLISHED:  Clark County, Idaho; 2018
+
+REMARKS:
+Diagnostic horizons and other features in this pedon
+Mollic epipedon--zone from 5 to 79 cm
+Cambic horizon--zone from 79 to 150 cm
+Particle-size control section--zone from 30 to 105 cm
+
+Taxonomic version--Twelfth Edition, 2014
+
+National Cooperative Soil Survey
+U.S.A.

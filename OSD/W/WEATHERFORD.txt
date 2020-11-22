@@ -1,0 +1,150 @@
+LOCATION WEATHERFORD            TX+OK
+
+Established Series
+Rev. CRC-BJW-GLL
+09/2020
+
+WEATHERFORD SERIES
+
+The Weatherford series consists of deep, well drained, moderately permeable soils that formed in sandy and loamy residuum weathered from sandstone and siltstone of Cretaceous age. These very gently sloping to strongly sloping soils occur mainly on convex ridges on hills. Slope range is 1 to 12 percent. Mean annual precipitation is about 910 mm (36 in) and the mean annual temperature is about 17 degrees C (63 degrees F).
+
+TAXONOMIC CLASS: Fine-loamy, siliceous, active, thermic Ultic Haplustalfs
+
+TYPICAL PEDON: Weatherford fine sandy loam, on a north-facing, linear, 5 percent slope in rangeland at an elevation of 342 m (1,122 ft). (Colors are for dry soil unless otherwise noted.)
+
+  A--0 to 10 cm (0 to 4 in); brown (7.5YR 5/2) fine sandy loam, brown (7.5YR 4/2) moist; weak medium granular structure; slightly hard, very friable; many fine roots; many fine pores; slightly acid; clear smooth boundary.  Thickness is 8 to 20 cm (3 to 8 in)
+
+  E--10 to 25 cm (4 to 10 in); light brown (7.5YR 6/4) fine sandy loam, brown (7.5YR 5/4) moist; weak fine subangular blocky structure; slightly hard, very friable; common fine roots; common fine pores; slightly acid; clear wavy boundary.  Thickness is 5 to 25 cm (2 to 10 in)
+
+  Bt1--25 to 71 cm (10 to 28 in); yellowish red (5YR 5/6) sandy clay loam, yellowish red (5YR 4/6) moist; moderate medium subangular blocky structure; very hard, friable; common fine roots; common fine pores; common distinct clay films on all faces of peds; moderately acid; gradual wavy boundary.  Thickness is 20 to 76 cm (8 to 30 in)
+
+  Bt2--71 to 114 cm (28 to 45 in); reddish yellow (5YR 6/8) sandy clay loam, yellowish red (5YR 5/8) moist; weak coarse subangular blocky structure; very hard, friable; few fine roots; few fine pores; few faint clay films on all faces of peds; moderately acid; clear wavy boundary.  Thickness is 20 to 51 cm (8 to 20 in)
+
+  Cd--114 to 203 (45 to 80 in); pink (7.5YR 8/4) noncemented sandstone bedrock, pink (7.5YR 7/4) moist; massive; slightly acid.
+
+TYPE LOCATION: Parker County, Texas; from the Parker County Courthouse in Weatherford, Texas, go west on U.S. Highway 180, 7.5 miles; south on McCarthy Drive for 0.1 mile; site is west of road, 10 feet west of road fence.
+
+USGS topographic quadrangle: Garner, Texas
+Latitude: 32 degrees, 46 minutes, 55.86 seconds N
+Longitude: 97 degrees, 55 minutes, 10.28 seconds W
+
+Decimal Degrees:
+Latitude: 32.7821833 degrees
+Longitude: -97.9195222 degrees
+Datum: WGS84
+
+RANGE IN CHARACTERISTICS: 
+Soil Moisture: udic ustic soil moisture regime. The soil moisture control section is dry in some or all parts for 100 to 145 cumulative days and from 5 to 22 consecutive days in June, July, and August in normal years.
+Mean annual soil temperature: 19 to 21 degrees C (66 to 70 degrees F)
+Depth to densic bedrock: 100 to 150 cm (40 to 60 in)
+Depth to argillic horizon: 13 to 45 cm (in)
+
+Particle-size control section (weighted average):
+Clay content: 18 to 35 percent
+Base saturation: 50 to 75 percent
+
+A Horizon: 
+Hue: 7.5YR to 10YR 
+Value: 4 to 7 
+Chroma: 2 to 4 
+Texture: fine sandy loam, very fine sandy loam, or loamy fine sand
+Rock fragments: 0 to 2 percent by volume; sandstone or ironstone gravel
+Soil reaction (pH): strongly acid to neutral (5.1 to 7.3)
+
+E Horizon: 
+Hue: 7.5YR to 10YR 
+Value: 5 to 8 
+Chroma: 3 to 6 
+Texture: fine sandy loam, very fine sandy loam, or loamy fine sand
+Rock fragments: 0 to 2 percent by volume; quartz gravel
+Soil reaction (pH): strongly acid to neutral (5.1 to 7.3)
+
+Bt Horizon: 
+Hue: 2.5YR to 7.5YR 
+Value: 4 to 6 
+Chroma: 4 to 8 
+Texture: sandy clay loam, loam, clay loam or very fine sandy loam
+Rock fragments: 0 to 2 percent by volume; quartz gravel
+Soil reaction (pH): strongly acid to moderately acid (5.1 - 6.0)
+
+BC Horizon (where present): 
+Hue: 5YR to 10YR 
+Value: 5 to 8 
+Chroma: 3 to 6 
+Texture: fine sandy loam, very fine sandy loam, or sandy clay loam; some pedons have thin strata of noncemented sandstone
+Rock fragments: 0 to 2 percent by volume; sandstone or ironstone gravel; 
+Soil reaction (pH): strongly acid to slightly acid (5.1 - 6.5)
+
+Cd Horizon: 
+Hue: 7.5YR to 5Y 
+Value: 5 to 8 
+Chroma: 2 to 6
+Texture: sandstone or interbedded siltstone with textures ranging from loamy sand to silty clay loam
+Cementation: noncemented
+Excavation difficulty: very to extremely high when dry
+Soil reaction (pH): moderately acid to neutral (5.6 - 7.3)
+
+COMPETING SERIES:
+These are the Littleaxe and Stephenville series in the same family. Similar soils are the Konawa series.
+Littleaxe and Stephenville soils: have mean annual soil temperature of less than 19 degrees C (66 degrees F) and have a paralithic contact with sandstone of Permian age
+Konawa soils: do not have bedrock within 150 cm (60 in)
+
+GEOGRAPHIC SETTING: 
+Parent material: sandy and loamy residuum weathered from sandstone and siltstone of Lower Cretaceous age
+Landscape: Hills
+Landform: Ridges
+Slope: 1 to 12 percent 
+Mean annual precipitation: 800 to 1,000 mm (31 to 39 in) 
+Annual potential evapotranspiration: 912 to 970 mm (36 to 38 in)
+Annual water balance: -150 to 75 mm (-6 to 3 in)
+Summer water deficit: 250 to 290 mm (10 to 11 in)
+Thornthwaite P-E Index: 49 to 65 
+Mean annual air temperature: 16.7 to 18.9 degrees C (62 to 66 degrees F) 
+Frost-free period: 197 to 263 days 
+Elevation: 198.1 to 487.7 m (650 to 1600 ft)
+
+GEOGRAPHICALLY ASSOCIATED SOILS:
+These are Duffau, Keeter, May, Nimrod, Selden, and Windthorst series.
+Duffau and May soils: do not have densic bedrock within 150 cm (60 in) and occur on lower positions
+Keeter soils: have a sola less than 100 cm (40 in) and occur on higher positions
+Nimrod soils: have a sandy epipedon greater than 50 cm (20 in) in thickness and occur on higher positions
+Selden soils: have redoxomorphic features with chroma 2 or less within 75 cm (30 in) and occur on lower positions
+Windthorst soils: have a fine textured control section and occur on similar positions
+
+DRAINAGE AND PERMEABILITY:
+Drainage class: well
+Permeability class: moderate
+Runoff: low on 1 to 5 percent slopes and medium on 5 to 12 percent slopes
+
+USE AND VEGETATION:
+The major uses are livestock grazing and hay production. Where cultivated, crops are mainly small grain, forage sorghum, and peanuts. The native plant community is post oak and blackjack oak, with an understory of little bluestem, indiangrass, greenbrier, and annual grasses.
+
+DISTRIBUTION AND EXTENT:
+General location: north-central Texas and south-central Oklahoma
+Land Resource Region: J-Southwestern Prairies Cotton and Forage Region
+Major Land Resource Area: 84B-West Cross Timbers
+Extent: moderate
+
+SOIL SURVEY REGIONAL OFFICE (SSRO) RESPONSIBLE: Temple, Texas
+
+SERIES ESTABLISHED: Parker County, Texas, 1973. The name "Weatherford" comes from the seat of government in Parker County, Texas.
+
+REMARKS:
+These soils were formerly included in the Stephenville series.
+
+Edited 08/2017 - LAD-CMR: Added soil moisture statements developed using the Java Newhall Simulation Model to the range in characteristics. Added similar climatic statements to geographic setting. Removed references to weakly cemented sandstone in favor of noncemented sandstone.
+
+Edited 11/2014 - RFG/SCP: Converted to tabular format. Updated competing series, associated soils, and geographic setting sections.
+
+Diagnostic horizons and features recognized in this pedon:
+Particle-size control section: 25 to 75 cm (10 to 30 in) (Bt1 and Bt2 horizons)
+Ochric epipedon: 0 to 25 cm (0 to 10 in) (A and E horizons)
+Argillic horizon: 25 to 114 cm (10 to 45 in) (Bt horizons)
+Densic contact: sandstone at 114 cm (45 in) (top of Cd horizon)
+
+ADDITIONAL DATA: Profile No. 44, Soil Survey Laboratory Memorandum No. 2, is of the Weatherford series.
+
+TAXONOMIC VERSION: Keys to Soil Taxonomy, Twelfth Edition, 2014
+
+National Cooperative Soil Survey
+U.S.A.

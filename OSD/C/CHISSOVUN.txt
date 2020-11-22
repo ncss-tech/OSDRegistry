@@ -1,0 +1,140 @@
+LOCATION CHISSOVUN              AK
+
+Established Series
+JDP/SAS/TJR
+04/2020
+
+CHISSOVUN SERIES
+
+Landscape--alluvial plains
+Landform--stream terraces
+Slope--0 to 3 percent
+Parent material--organic material over alluvium
+Mean annual precipitation--about 255 mm
+Mean annual air temperature--about -6 degrees C
+Depth class--very deep
+Drainage class--poorly drained
+Soil moisture regime--aquic
+Soil temperature regime--gelic
+Soil moisture subclass--typic
+
+TAXONOMIC CLASS: Coarse-silty, mixed, superactive, nonacid, subgelic Typic Histoturbels
+
+TYPICAL PEDON: Chissovun mucky peat on a woodland terrace with a slope of 2 percent and an elevation of 130 m (The soil was moist throughout when described on September 13, 2015.)
+
+ Oe--0 to 11 cm; mucky peat; dark reddish brown (5YR 2.5/2) moist; many very fine roots, and common fine to very coarse roots; very strongly acid (pH 5.0); clear smooth boundary
+
+ Oa--11 to 22 cm; muck; black (5YR 2.5/1) moist; common very fine to very coarse roots; strongly acid (pH 5.5); clear irregular boundary
+
+ Cg--22 to 38 cm; silt loam; 50 percent gray (2.5Y 6/1) dry, dark gray (2.5Y 4/1) moist, and 50 percent light gray (2.5Y 7/1) dry, gray (2.5Y 5/1) moist; massive; slightly hard, friable, slightly sticky and slightly plastic; common very fine and fine roots; few fine and medium pores; 30 percent strong brown (7.5YR 4/6) moist, masses of oxidized iron in matrix; noneffervescent; neutral (pH 7.2); clear wavy boundary
+
+ Cg/Oajj--38 to 67 cm; silt loam; 90 percent light brownish gray (2.5Y 6/2) dry, dark grayish brown (2.5Y 4/2) moist, and 10 percent dark grayish brown (10YR 4/2) dry, very dark brown (10YR 2/2) moist; massive; moderately hard, firm, slightly sticky and nonplastic; common fine roots; few fine and medium pores; 10 percent strong brown (7.5YR 4/6) moist, masses of oxidized iron in matrix; slightly effervescent; slightly alkaline (pH 7.5); abrupt wavy boundary
+
+ Cgf/Oajjf--67 to 100 cm; silt loam; 90 percent light brownish gray (2.5Y 6/2) dry, dark grayish brown (2.5Y 4/2) moist, and 10 percent dark grayish brown (10YR 4/2) dry, very dark brown (10YR 2/2) moist; massive; hard, very firm, slightly sticky and nonplastic; 7 percent strong brown (7.5YR 4/6) moist, masses of oxidized iron in matrix; slightly effervescent; slightly alkaline (pH 7.6)
+
+TYPE LOCATION: Yukon-Koyukuk Census Area, Alaska; latitude 66.2911480 degrees, longitude -146.9064470 degrees, datum WGS84 (coordinates determined with a GPS)
+
+RANGE IN CHARACTERISTICS:
+Mean annual soil temperature-- -4 to 1 degrees C
+Depth to permafrost--45 to 75 cm
+Other features--cryoturbation in the substratum
+
+Oa horizons
+Thickness--10 to 20 cm
+Reaction--3.5 to 7.0
+
+Oe horizons
+Thickness--10 to 20 cm
+Reaction--3.5 to 7.0
+
+A horizon (where present)
+Hue--10YR, 2.5Y
+Value--2 or 3 moist, 4 or 5 dry
+Chroma--1 or 2 moist
+Fine-earth texture--silt loam, very fine sandy loam, silt
+Clay content--0 to 18 percent
+Reaction--6.0 to 8.0
+Thickness--5 to 20 cm
+
+Cg and Cg/Oajj horizons
+Hue--10YR, 2.5Y
+Value--2 to 5 moist, 4 to 7 dry
+Chroma--1 or 2 moist
+Fine-earth texture--silt loam, very fine sandy loam
+Clay content--0 to 18 percent
+Reaction--6.5 to 8.0
+Effervescence--none to slight
+Combined thickness--20 to 60 cm
+
+Cgf horizon (where present)
+Hue--10YR, 2.5Y
+Value--2 to 4 moist, 4 to 6 dry
+Chroma--1 or 2 moist
+Fine-earth texture--silt loam, very fine sandy loam
+Clay content--0 to 18 percent
+Reaction--6.5 to 8.0
+Effervescence--none to slight
+Thickness--75 to 105 cm
+
+Cgf and Cgf/Oajjf horizons
+Hue--10YR, 2.5Y
+Value--2 to 4 moist, 4 to 6 dry
+Chroma--1 or 2 moist
+Fine-earth texture--silt loam, very fine sandy loam
+Clay content--0 to 18 percent
+Reaction--6.5 to 8.0
+Effervescence--none to slight
+Thickness--75 to 105 cm
+
+COMPETING SERIES:
+Gushdoiman--frequent ponding, tussock tundra vegetation
+Goldstream--strongly to very strongly acid mineral horizons
+Saulich--pedogenic B horizons; moderately acid to neutral mineral horizons
+Strelna--no aquic conditions
+Turbellina--strongly acid to extremely acid mineral horizons
+Windy Creek--pedogenic B horizons; moderately acid to neutral mineral horizons
+
+GEOGRAPHIC SETTING:
+Elevation--100 to 300 m
+Climate--short, warm summers and long, very cold winters
+Mean annual precipitation--210 to 310 mm
+Mean annual air temperature-- -12 to 0 degrees C
+Frost-free period--45 to 97 days
+
+GEOGRAPHICALLY ASSOCIATED SOILS:
+
+Tlozhavun--no aquic conditions within 150 cm; drier positions on similar landforms
+Tajittro--aquic conditions within 100 cm; drier positions on similar landforms
+Yanert--aquic conditions within 25 cm; adjacent swales on terraces
+Gushdoiman--aquic conditions within 25 cm; wetter positions on similar landforms
+
+DRAINAGE AND SATURATED HYDRAULIC CONDUCTIVITY:
+Drainage class--somewhat poorly drained
+Saturation in normal years--water table top depth between a depth of 25 to 50 cm in June, and between a depth of 50 to 75 cm in July and August
+Flooding--none
+Ponding--occasional, long
+Saturated hydraulic conductivity (Ksat)--moderately high or high throughout
+
+USE AND VEGETATION:
+Use--wildlife habitat, subsistence
+Potential natural vegetation--white spruce, black spruce, resin birch, lingonberry, grayleaf willow, red fruit bearberry, prickly rose, black crowberry, bog blueberry, bog Labrador tea, littletree willow, shrubby cinquefoil, shrub birch, sedge, bluejoint, dwarf scouringrush, felt lichen, greygreen reindeer lichen, cup lichen, stairstep moss
+
+DISTRIBUTION AND EXTENT: Yukon Flats Lowlands, Alaska; MLRA 232; moderate extent
+
+SOIL SURVEY REGIONAL OFFICE (SSRO) RESPONSIBLE: Portland, Oregon
+
+SERIES ESTABLISHED: Yukon Flats National Wildlife Refuge, Yukon-Koyukuk Census Area, Alaska; 2020
+
+REMARKS:
+Diagnostic horizons and other features in this pedon
+*Particle-size control section--zone from 47 to 122 cm
+*Histic epipedon--Oe and Oa horizons
+*Aquic conditions--Cg and Cg/Oajj horizons
+*Reduced matrix--Cg, Cg/Oajj, and Cgf/Oajjf horizons
+*Redoximorphic iron concentrations--Cg, Cg/Oajj, and Cgf/Oajjf horizons
+*Permafrost--Cgf/Oajjf horizon
+*Cryoturbation--Cg/Oajj, and Cgf/Oajjf horizons
+
+
+National Cooperative Soil Survey
+U.S.A.

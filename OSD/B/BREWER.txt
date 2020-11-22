@@ -1,0 +1,152 @@
+LOCATION BREWER                 OK+KS TX 
+
+Established Series
+Rev. ELC:CS:AMS
+08/2017
+
+BREWER SERIES
+
+The Brewer series consists of very deep, moderately well drained, slowly permeable soils. These nearly level soils formed in loamy and clayey alluvium material of Pleistocene age. Brewer soils are on flood plains subject to rare flooding in the Central Rolling Red Prairies (MLRA 80A). Slope ranges from 0 to 1 percent. Mean annual air temperature is about 16 degrees C (60 degrees F) and mean annual precipitation is about 813 mm (32 in). 
+
+TAXONOMIC CLASS: Fine, mixed, superactive, thermic Pachic Udertic Argiustolls 
+
+TYPICAL PEDON: Brewer silty clay loam-pasture, at an elevation of 253.9 m (833 ft). (Colors are for dry soil unless otherwise stated.) 
+
+    A--0 to 30 cm (0 to 12 in); very dark grayish brown (10YR 3/2) silty clay loam, very dark brown (10YR 2/2) moist; moderate medium granular structure; hard, friable; slightly acid; gradual smooth boundary. (Thickness of the A horizon is 20 to 41 cm [8 to 16 in]) 
+
+    Bt1--30 to 76 cm (12 to 30 in); very dark grayish brown (10YR 3/2) silty clay loam, very dark brown (10YR 2/2) moist; moderate medium and fine subangular blocky structure; very hard, firm; common distinct clay films on ped faces; neutral; gradual smooth boundary. 
+
+    Bt2--76 to 127 cm (30 to 50 in); brown (7.5YR 4/2) silty clay, dark brown (7.5YR 3/2) moist; moderate medium blocky structure; very hard, firm; many prominent clay films on ped faces; slightly effervescent; moderately alkaline; gradual smooth boundary. (Combined thickness of the Bt horizon is 55 to 122 cm [22 to 48 in]) 
+
+    BC--127 to 193 cm (50 to 80 in); reddish brown (5YR 4/3) silty clay loam; dark reddish brown (5YR 3/3) moist; weak coarse blocky structure; very hard, firm; none to slightly effervescent; moderately alkaline; gradual smooth boundary. (Thickness of the BC horizon is 38 to 89 cm [15 to 35 in]) 
+
+    Ck--193 to 228 cm (80 to 90 in); reddish brown (5YR 4/4) silty clay loam; dark reddish brown (5YR 3/4) moist; massive; very hard, firm; common fine concretions of calcium carbonate, the fine-earth fraction is mostly noncalcareous; noneffervescent; moderately alkaline. 
+
+TYPE LOCATION: Pawnee County, Oklahoma; about 0.5 mile north of Pawnee on east side of Oklahoma Highway 18; 200 feet east and 900 feet north of the southwest corner of sec. 29, T. 22 N., R. 5 E. 
+
+USGS Topographic Quadrangle: Pawnee, OK 
+Latitude: 36 degrees, 21 minutes, 1 second N 
+Longitude: 96 degrees, 47 minutes, 57 seconds W 
+
+Decimal Degrees: 
+Latitude: 36.350277778 degrees 
+Longitude: -96.79916666 degrees 
+Datum: NAD 83 
+
+UTM Easting: 697489.6 m 
+UTM Northing: 4025049.3 m 
+UTM Zone: 14S
+
+RANGE IN CHARACTERISTICS: 
+Solum thickness: 153 to 229 cm (60 to 90 in) 
+Thickness of mollic epipedon: 18 to 127 cm (7 to 50 in)
+Pachic feature: thickness at least 50 cm (20 inches)
+Depth to argillic horizon: 20 to 48 cm (8 to 19 in) 
+Depth to secondary calcium carbonate: 25 to 229 cm (10 to 90 in) 
+
+Particle-size control section (weighted average): 
+Clay content: 40 to 55 percent 
+Sand Content: 1 to 15 percent 
+
+A horizon: 
+Hue: 7.5YR or 10YR 
+Value: 3 to 5 dry, 2 to 5 moist
+Chroma: 1 or 2 dry, moist
+Texture: silt loam, clay loam, or silty clay loam 
+Reaction: moderately acid to neutral 
+
+Bt horizon: 
+Hue: 7.5YR or 10YR  
+Value: 3 to 5 dry or moist
+Chroma: 1 or 2 dry or moist
+Texture: clay loam, silty clay loam, silty clay, or clay 
+Secondary carbonates: amount-0 to 15 percent; size-medium; contrast-distinct; kind-masses; location-below a depth of 71 cm (28 in) 
+Salt or sodium accumulations (where present): below a depth of 127 cm (50 in) 
+Effervescence: none to slight
+Reaction: slightly acid to moderately alkaline 
+
+Btk horizon (where present): 
+Hue: 7.5YR or 10YR 
+Value: 4 or 5 dry or moist
+Chroma: 3 or 4 dry or moist
+Texture: silty clay loam, silty clay, or clay 
+Effervescence: none to slight 
+Reaction: slightly alkaline or moderately alkaline 
+
+BC horizon: 
+Hue: 5YR to 10YR 
+Value: 4 or 5 dry, 3 moist
+Chroma: 2 to 4 dry, 3 moist 
+Texture: loam, silty clay loam, clay loam, or clay 
+Effervescence: none to slight 
+Reaction: neutral to moderately alkaline 
+
+C horizon:
+Hue: 5YR to 10YR dry, 5YR moist 
+Value: 4 or 5 dry, 3 moist
+Chroma: 2 to 4 dry, 4 moist
+Texture: loam, silty clay loam, clay loam, or clay 
+Effervescence: none to strong
+Reaction: neutral to moderately alkaline 
+
+COMPETING SERIES: This is the Brewless series. Similar soils are the Dilworth, Piedmont, Renthin, Tabler, and Wetbeth series. 
+Brewless soils: have secondary calcium carbonates within 31 to 61 cm (12 to 24 in), and a decrease in clay content with depth 
+Dilworth and Piedmont soils: have shale bedrock within 100 cm (40 in) 
+Piedmont and Renthin soils: have hue of 5YR or redder throughout
+Renthin soils: are deeper than 100 cm (40 in) to shale 
+Tabler soils: are on paleoterraces and have episaturation (perched water table) at a depth of 18 to 30 cm (7 to 12 in) in winter and early in spring 
+Wetbeth soils: have an apparent water table within 150 cm (60 in) of the soil surface 
+
+GEOGRAPHIC SETTING: 
+Parent material: loamy and clayey alluvium of Pleistocene age 
+Landscape: alluvial plain
+Landform: plane to slightly concave nearly level flood plains that are rarely flooded 
+Mean annual precipitation: 660 to 1016 mm (26 to 40 in) 
+Thornthwaite Annual P-E indices: 44 to 64 
+Precipitation Pattern: mostly uniform throughout the year with slight peaks in the spring and fall months
+Mean annual air temperature: 14.4 to 17.8 degrees C (58 to 64 degrees F) 
+Frost-free period: 181 to 240 days
+Elevation: 253 to 260 m (830 to 850 ft)
+
+GEOGRAPHICALLY ASSOCIATED SOILS: These soils are McLain, Port, and Reinach series. 
+McLain, Port, and Reinach soils: are on flood plains
+Port and Reinach soils: have less than 35 percent clay in the control section 
+McLain soils: have upper Bt horizons with hues of 5YR or redder 
+
+DRAINAGE AND PERMEABILITY: 
+Drainage: moderately well 
+Permeability: slow
+Saturated hydraulic conductivity: moderately low 
+Runoff: slow 
+
+USE AND VEGETATION: The principle use is cropland. Alfalfa and small grains are the principal crops. The main native vegetation species are tall prairie grasses, mainly big bluestem, little bluestem, Indiangrass, and switchgrass. 
+
+DISTRIBUTION AND EXTENT: 
+General area: Central Oklahoma, and southern Kansas 
+Land Resource Region: H-Central Great Plains Winter Wheat and Range Region 
+MLRA 80A-Central Rolling Red Prairies of Oklahoma 
+Extent: moderate 
+
+MLRA SOIL SURVEY REGIONAL OFFICE (MO) RESPONSIBLE: Temple, Texas 
+
+SERIES ESTABLISHED: Muskogee County, Oklahoma; 1913
+
+REMARKS: 
+Series Subgroup modifier changed from Pachic to Vertic (1995 CS) 
+Series Subgroup modifier changed from Vertic to Udertic (1999 CS) 
+Series Subgroup modifier changed from Udertic to Pachic Udertic (2008 JBB)
+
+Diagnostic horizons and features recognized in this pedon are: 
+Pachic Mollic epipedon: 0 to 76 cm (0 to 30 in) (A and Bt1 horizon) 
+Argillic horizon: 30 to 127 cm (12 to 50 in) (Bt horizons) 
+
+Updated competing series, taxonomic version, saturated hydraulic conductivity, and formatting. JBB 6/2008 
+
+Edited 08/2017 (JAD-AMS) Changed to tabular format. Updated pedon description, range in characteristics, and other sections.
+
+ADDITIONAL DATA: Soil Interpretation Record: Series OK0131 
+
+TAXONOMIC VERSION: Keys to Soil Taxonomy, Twelfth Edition, 2014 
+
+National Cooperative Soil Survey
+U.S.A.

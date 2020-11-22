@@ -1,0 +1,98 @@
+LOCATION FISHNET                AK
+
+Established Series
+JDP/TJR
+04/2020
+
+FISHNET SERIES
+
+Landscape--alluvial plains
+Landform--low energy flood plains
+Slope--0 to 3 percent
+Parent material--organic material over alluvium
+Mean annual precipitation--about 255 mm
+Mean annual air temperature--about -6 degrees C
+Depth class--very deep
+Drainage class--poorly drained
+Soil moisture regime--aquic
+Soil temperature regime--cryic
+Soil moisture subclass--typic
+
+TAXONOMIC CLASS: Coarse-loamy, mixed, superactive, nonacid Histic Cryaquepts
+
+TYPICAL PEDON: Fishnet peat on a boreal flood plain with a slope of 1 percent and an elevation of 100 m (The soil was moist throughout when described on September 1, 2015.)
+
+ Oi--0 to 14 cm; peat; many very fine roots, common fine roots; neutral (pH 6.8); clear wavy boundary
+
+ Oe/Oa--14 to 26 cm; stratified mucky peat and muck; 50 percent very dark brown (10YR 2/2) moist and 50 percent black (10YR 2/1) moist; common very fine and fine roots; neutral (pH 7.3); abrupt wavy boundary
+
+ Cg1--26 to 54 cm; very fine sandy loam; grayish brown (10YR 5/2) dry, very dark grayish brown (10YR 3/2) moist; massive; slightly hard, friable, slightly sticky and slightly plastic; common very fine roots; few fine and medium pores; 10 percent brown (7.5YR 4/4) moist, masses of oxidized iron in matrix and 20 percent dark gray (2.5Y 4/1) moist, iron depletions in matrix; noneffervescent; slightly alkaline (pH 7.8); clear smooth boundary
+
+ Cg2--54 to 150 cm; very fine sandy loam; grayish brown (2.5Y 5/2) dry, very dark grayish brown (2.5Y 3/2) moist; massive; slightly hard, friable; few fine pores; 2 percent brown (7.5YR 4/4) moist, masses of oxidized iron in matrix and 2 percent dark gray (2.5Y 4/1) moist, iron depletions in matrix; noneffervescent; slightly alkaline (pH 7.6)
+
+TYPE LOCATION: Yukon-Koyukuk Census Area, Alaska; latitude 66.2150500 degrees, longitude -149.0394000 degrees, datum WGS84 (coordinates determined with a GPS)
+
+RANGE IN CHARACTERISTICS:
+Mean annual soil temperature--0.5 to 2.5 degrees C
+Depth to redoximorphic features--25 to 50 cm
+
+Oi, Oe, and Oa horizons
+Combined thickness--20 to 35 cm
+Reaction--6 to 8
+
+Cg1 and Cg2 horizons
+Hue--10YR, 2.5Y
+Value--2 to 4 moist, 4 to 6 dry
+Chroma--1 or 2 moist
+Fine-earth texture--silt loam, very fine sandy loam
+Clay content--0 to 18 percent
+Reaction--6 to 8
+Effervescence--none to slight
+Combined thickness--115 to 130 cm
+
+COMPETING SERIES: 
+Tanjoga--occasional flooding; adjacent terraces
+Disappear--these soils are very strongly acid to strongly acid in the solum
+Liscum--these soils have a water table higher than 50 cm in summer months
+
+GEOGRAPHIC SETTING:
+Elevation--90 to 300 m
+Climate--short, warm summers and long, very cold winters
+Mean annual precipitation--210 to 310 mm
+Mean annual air temperature-- -12 to 0 degrees C
+Frost-free period--45 to 97 days
+
+GEOGRAPHICALLY ASSOCIATED SOILS:
+Tanjoga--aquic conditions within 25 cm; adjacent terraces of low energy floodplains; scrub vegetation
+Nuntragut--aquic conditions within 100 cm; adjacent terraces; forested
+Jokinaugh--aquic conditions within 25 cm; depressions on adjacent distal floodplains; grassland vegetation
+
+DRAINAGE AND SATURATED HYDRAULIC CONDUCTIVITY:
+Drainage class--poorly drained
+Saturation in normal years--water table top depth between a depth of 0 to 25 cm in May and June; saturated below a depth of 50 cm throughout the rest of the year
+Flooding--frequent, long
+Ponding--none
+Saturated hydraulic conductivity (Ksat)--high throughout
+
+USE AND VEGETATION:
+Use--wildlife habitat, subsistence, recreation
+Potential natural vegetation--Bluejoint, water sedge, field horsetail, bog yellowcress
+
+DISTRIBUTION AND EXTENT: Yukon Flats Lowlands, Alaska; MLRA 232; small extent
+
+SOIL SURVEY REGIONAL OFFICE (SSRO) RESPONSIBLE: Portland, Oregon
+
+SERIES ESTABLISHED: Yukon Flats National Wildlife Refuge, Yukon-Koyukuk Census Area, Alaska; 2020
+
+REMARKS:
+Diagnostic horizons and other features in this pedon
+*Particle-size control section--zone from 51 to 126 cm
+*Histic epipedon-Oi, Oe, and Oa horizons
+*Redoximorphic iron concentrations--Cg1 and Cg2 horizons
+*Redoximorphic iron depletions with chroma of 2 or less--Cg1 and Cg2 horizons
+*Reduced matrix--Cg1 and Cg2 horizons
+*Aquic conditions--Cg1 and Cg2 horizons
+
+
+National Cooperative Soil Survey
+U.S.A.

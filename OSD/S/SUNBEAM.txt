@@ -1,0 +1,128 @@
+LOCATION SUNBEAM                WA
+
+Established Series
+IRD. PHR/TMR/MPR
+07/2017
+
+SUNBEAM SERIES
+
+Landscape--Cascade Mountains and valleys
+Landform--depressions, swales, terraces, debris aprons
+Slope--0 to 10 percent
+Parent material--volcanic ash
+Mean annual precipitation--about 1980 mm
+Mean annual air temperature--about 6 degrees C
+Depth class--very deep
+Drainage class--poorly drained
+Soil moisture regime--aquic
+Soil temperature regime--frigid
+Soil moisture subclass--typic
+
+TAXONOMIC CLASS: Ashy, amorphic, nonacid, frigid Typic Vitraquands
+
+TYPICAL PEDON: Sunbeam mucky ashy sandy loam on a forested, south-facing debris apron with a slope of 2 percent and at an elevation of 750 m (When described on May 9, 2013, the soil was moist to a depth of 37 cm and saturated below that depth.)
+
+ Oi--0 to 3 cm; slightly decomposed plant material; many fine interstitial pores; very strongly acid (pH 4.5); clear wavy boundary
+
+ A--3 to 15 cm; mucky ashy sandy loam, very dark gray (10YR 3/1) dry, black (10YR 2/1) moist; weak medium subangular blocky structure; slightly hard, friable, nonsticky and nonplastic; few very fine and common fine to coarse roots; common very fine and fine irregular pores; 2 percent fine faint irregular dark grayish brown (10YR 4/2) iron depletions with clear boundaries in matrix and 5 percent fine distinct irregular dark yellowish brown (10YR 3/4) masses of oxidized iron with clear boundaries in matrix; 5 percent pumice paragravel; strongly acid (pH 5.4); clear wavy boundary
+
+ Bg1--15 to 32 cm; paragravelly ashy sandy loam, brown (7.5YR 5/4) dry, brown (7.5YR 4/4) moist; weak medium subangular blocky structure; soft, very friable, nonsticky and nonplastic; common very fine to coarse roots; common very fine and fine interstitial pores; 5 percent fine faint irregular grayish brown (10YR 5/2) iron depletions with clear boundaries in matrix and 10 percent fine distinct irregular dark yellowish brown (10YR 4/6) masses of oxidized iron with clear boundaries in matrix; 20 percent pumice paragravel; strongly acid (pH 5.4); abrupt wavy boundary
+
+ Bg2--32 to 52 cm; paragravelly ashy sandy loam, light brown (7.5YR 6/4) dry, brown (7.5YR 4/4) moist; moderate medium subangular blocky structure; soft, very friable, nonsticky and nonplastic; common very fine to coarse and few very coarse roots; common very fine and fine irregular pores; 5 percent fine distinct irregular dark grayish brown (10YR 4/2) iron depletions with clear boundaries in matrix and 10 percent fine distinct irregular dark yellowish brown (10YR 4/6) masses of oxidized iron with clear boundaries in matrix; 10 percent pumice paragravel and 5 percent andesite gravel; moderately acid (pH 5.6); abrupt wavy boundary
+
+ Bg3--52 to 80 cm; ashy sandy loam, brown (7.5YR 5/2) dry, dark brown (7.5YR 3/2) moist; moderate medium subangular blocky structure; slightly hard, friable, nonsticky and nonplastic; common very fine to coarse roots; common very fine and fine irregular pores; 5 percent fine faint irregular dark grayish brown (10YR 4/2) iron depletions with clear boundaries in matrix and 20 percent fine faint irregular dark brown (10YR 3/3) masses of oxidized iron with clear boundaries in matrix; 5 percent pumice paragravel; moderately acid (pH 5.6); clear wavy boundary
+
+ Bg4--80 to 150 cm; ashy fine sandy loam, yellowish brown (10YR 5/4) dry, dark yellowish brown (10YR 3/4) moist; moderate medium subangular blocky structure; slightly hard, friable, nonsticky and nonplastic; common very fine to medium roots; few very fine and fine irregular pores; 20 percent fine distinct irregular very dark grayish brown (10YR 3/2) iron depletions with clear boundaries in matrix and 20 percent fine distinct irregular dark yellowish brown (10YR 4/6) masses of oxidized iron with clear boundaries in matrix; 5 percent andesite gravel; moderately acid (pH 5.8)
+
+TYPE LOCATION: Pierce County, Washington, near Tenas Creek on a slope between the Nisqually River and Mount Wow, about 790 m northeast of the Nisqually Entrance to Mount Rainier National Park; about 720 m south and 730 m east of the northwest corner of section 34, T. 15 N., R. 7 E., Willamette Meridian; Sawtooth Ridge, Washington, U.S. Geological Survey quadrangle; latitude 46.743664 degrees north, longitude -121.908498 degrees west, datum WGS 84 (coordinates determined with a GPS)
+
+RANGE IN CHARACTERISTICS:
+Mean annual soil temperature--6 to 8 degrees C
+Depth to redoximorphic iron depletions--0 to 25 cm below the soil surface
+
+All mineral horizons
+*Volcanic glass content--50 to 75 percent
+*Ammonium oxalate Al plus 1/2 Fe--greater than 0.4 percent
+
+Particle-size control section
+*Clay content--1 to 10 percent
+*Pararock and rock fragment content--0 to 35 percent total, with pumice paragravel typically in upper part of profile and andesite gravel in lower part in some areas
+
+O horizon
+*In lieu of texture--slightly decomposed plant material, moderately decomposed plant material
+*Thickness--0 to 10 cm
+
+A horizon
+*Hue--10YR, 7.5YR
+*Value--2 to 3 moist, 3 to 5 dry
+*Chroma--1 to 2 moist or dry
+*Reaction--4.5 to 5.5
+*Fine-earth texture--mucky ashy sandy loam, mucky ashy loamy sand
+*Pararock fragment content--0 to 15 percent pumice paragravel
+*Thickness--10 to 25 cm
+
+Bg1 horizon
+*Hue--10YR, 7.5YR
+*Value--3 or 4 moist, 4 to 6 dry
+*Chroma--1 to 4 moist or dry
+*Reaction--5.0 to 5.5
+*Fine-earth texture--ashy sandy loam, ashy loamy sand, ashy fine sandy loam
+*Pararock fragment content--0 to 30 percent pumice paragravel
+*Thickness--10 to 30 cm
+
+Bg2, Bg3, and Bg4 horizons
+*Hue--10YR, 7.5YR
+*Value--3 to 5 moist, 4 to 6 dry
+*Chroma--2 to 4 moist or dry
+*Reaction--5.5 to 6.0
+*Fine-earth texture--ashy sandy loam, ashy fine sandy loam, ashy loamy sand
+*Pararock and rock fragment content--0 to 35 percent total, including 0 to 30 percent pumice paragravel and 0 to 10 percent andesite gravel
+*Combined thickness--80 to 120 cm
+
+COMPETING SERIES:
+Tokaloo--no redoximorphic features within 25 cm of the mineral soil surface; lithologic discontinuity (influence of andesite colluvium) within 100 cm of the soil surface
+
+GEOGRAPHIC SETTING:
+Elevation--495 to 1415 m
+Climate--warm, dry summers; cool, wet winters
+Mean annual precipitation--1805 to 2110 mm
+Mean annual air temperature--5 to 7 degrees C
+Frost-free period--90 to 130 days
+
+GEOGRAPHICALLY ASSOCIATED SOILS:
+Tokaloo--no redoximorphic features within 25 cm of the mineral soil surface; lithologic discontinuity (influence of andesite colluvium) within 100 cm of the soil surface; in similar landform positions
+Ingraham--lithic contact within 25 to 50 cm (shallow); in steeper adjacent bedrock-controlled landform positions
+Goldenlakes--lithic contact within 50 to 100 cm (moderately deep); in steeper adjacent bedrock-controlled landform positions
+Kautz--no aquic conditions; albic and spodic horizons; on steeper slopes of debris apron and glacial valley walls
+
+DRAINAGE AND SATURATED HYDRAULIC CONDUCTIVITY:
+Drainage class--poorly drained
+Saturation in normal years--at the surface in November through May, below a depth of 20 cm in August through October
+Flooding--none
+Frequency of ponding--rare
+Saturated hydraulic conductivity (Ksat)--high or very high throughout
+
+USE AND VEGETATION:
+Use--wildlife habitat
+Potential natural vegetation--western hemlock, western redcedar, red alder, vine maple, thimbleberry, devils club, salmonberry, skunkcabbage, deer fern, western swordfern, oakfern, twinflower
+
+DISTRIBUTION AND EXTENT: Central Cascade Mountains, Washington; MLRA 3; small extent
+
+MLRA SOIL SURVEY REGIONAL OFFICE (MO) RESPONSIBLE: Portland, Oregon
+
+SERIES ESTABLISHED: Mount Rainier National Park, Pierce County, Washington; 2014; name from Sunbeam Falls in Mount Rainier National Park
+
+REMARKS:
+Diagnostic horizons and other features in this pedon
+*Particle-size control section--zone from 3 to 103 cm
+*Ochric epipedon
+*Cambic horizon--zone from 3 to 150 cm
+*Andic soil properties--zone from 3 to 150 cm
+*Volcanic glass--zone from 3 to 150 cm
+*Redoximorphic iron depletions with chroma of 2 or less--zone from 3 to 150 cm
+*Redoximorphic iron concentrations--zone from 3 to 150 cm
+
+3/2017--This official series description was updated according to SSR1 Technical Note 11--Content and Format of Official Series Descriptions (revised 12/2015). Most of the changes were in formatting; no major technical changes were made.
+
+National Cooperative Soil Survey
+U.S.A.

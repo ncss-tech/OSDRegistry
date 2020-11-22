@@ -1,0 +1,185 @@
+LOCATION LONGMIRE               WA
+
+Established Series
+IRD. SMB/PHR/MPR
+07/2017
+
+LONGMIRE SERIES
+
+Landscape--Cascade Mountains
+Landform--debris aprons, glacial valley walls
+Slope--5 to 100 percent
+Parent material--volcanic ash over colluvium derived from andesite
+Mean annual precipitation--about 2000 mm
+Mean annual air temperature-about 5 degrees C
+Depth class--very deep
+Drainage class--well drained
+Soil moisture regime--udic
+Soil temperature regime--cryic
+Soil moisture subclass--typic
+
+TAXONOMIC CLASS: Ashy, amorphic Andic Haplocryods
+
+TYPICAL PEDON: Longmire ashy sandy loam on a forested, southwest-facing, 20-percent slope of a debris apron at an elevation of 910 m (When described on October 26, 2011, the soil was moist throughout.)
+
+ Oi--0 to 2 cm; slightly decomposed plant material; very strongly acid (pH 4.5); clear wavy boundary
+
+ Oe--2 to 4 cm; moderately decomposed plant material; common very fine and few fine to coarse roots; very strongly acid (pH 4.5); abrupt wavy boundary
+
+ E--4 to 7 cm; ashy sandy loam, gray (10YR 5/1) dry, very dark gray (10YR 3/1) moist; weak fine subangular blocky structure; soft, very friable, nonsticky and nonplastic; few very fine to medium roots; common fine interstitial pores; 5 percent fine pumice paragravel and 5 percent medium and coarse pumice paragravel; strongly acid (pH 5.2); abrupt irregular boundary
+
+ Bs1--7 to 19 cm; ashy loamy sand, brown (7.5YR 5/2) dry, dark brown (7.5YR 3/2) moist; weak fine subangular blocky structure; soft, very friable, nonsticky and nonplastic; common very fine and few fine to coarse roots; common fine interstitial pores; 5 percent fine pumice paragravel; moderately acid (pH 5.7); clear wavy boundary
+
+ Bs2--19 to 35 cm; paragravelly ashy sandy loam, brown (7.5YR 5/2) dry, dark brown (7.5YR 3/2) moist; weak fine subangular blocky structure; soft, very friable, nonsticky and nonplastic; common very fine and fine and few medium roots; common fine interstitial pores; 5 percent fine pumice paragravel and 15 percent medium and coarse pumice paragravel; moderately acid (pH 5.7); clear irregular boundary
+
+ Bs3--35 to 52 cm; ashy loamy coarse sand, brown (10YR 5/3) dry, dark brown (10YR 3/3) moist; weak fine subangular blocky structure; soft, very friable, nonsticky and nonplastic; few very fine and very coarse and common fine and medium roots; common fine interstitial pores; 10 percent fine pumice paragravel; moderately acid (pH 5.7); clear wavy boundary
+
+ 2Bw1--52 to 96 cm; gravelly ashy sandy loam, brown (7.5YR 5/3) dry, dark brown (7.5YR 3/3) moist; weak fine subangular blocky structure; soft, very friable, nonsticky and nonplastic; few very fine to medium roots; common fine interstitial pores; 5 percent fine andesite gravel, 15 percent medium and coarse andesite gravel, and 5 percent andesite cobbles; moderately acid (pH 5.9); clear wavy boundary
+
+ 2Bw2--96 to 111 cm; very gravelly ashy coarse sandy loam, brown (7.5YR 5/4) dry, dark brown (7.5YR 3/4) moist; weak fine subangular blocky structure; soft, very friable, nonsticky and nonplastic; few very fine roots; common fine interstitial pores; 10 percent fine andesite gravel, 20 percent medium and coarse andesite gravel, and 10 percent andesite cobbles; moderately acid (pH 5.9); clear wavy boundary
+
+ 2Bw3--111 to 150 cm; very cobbly ashy coarse sandy loam, brown (7.5YR 5/4) dry, dark brown (7.5YR 3/4) moist; weak fine subangular blocky structure; soft, very friable, nonsticky and nonplastic; few very fine roots; common fine irregular pores; 10 percent fine andesite gravel, 20 percent medium and coarse andesite gravel, 15 percent andesite cobbles, and 5 percent andesite stones; moderately acid (pH 5.9)
+
+TYPE LOCATION: Lewis County, Washington, about 1750 m southeast of the Box Canyon overlook and 150 m east of Stevens Canyon Road in Mount Rainier National Park; about 85 m south and 555 m west of the northeast corner of section 36, T. 15 N., R. 9 E., Willamette Meridian; Chinook Pass, Washington, U.S. Geological Survey topographic quadrangle; latitude 46.75394 degrees north, longitude -121.62027 degrees west, datum WGS 84 (coordinates determined with a GPS)
+
+RANGE IN CHARACTERISTICS:
+Mean annual soil temperature--4 to 8 degrees C
+Soil moisture control section--dry less than 45 consecutive days in June through October
+Depth to lithologic discontinuity--50 to 90 cm
+Depth to lithic contact--greater than 150 cm (very deep)
+Pararock and rock fragments--pumice paragravel typically in upper part of profile; andesite gravel, cobbles, and stones may be in lower part of profile
+
+All mineral horizons
+*Organic carbon content--less than 6.0 percent
+*Volcanic glass content--50 to 75 percent
+
+Particle-size control section
+*Clay content--1 to 7 percent
+*Pararock and rock fragment content--5 to 35 percent
+
+O horizon
+*In lieu of texture--slightly decomposed plant material, moderately decomposed plant material
+*Combined thickness--3 to 12 cm
+
+E horizon
+*Hue--10YR, 7.5YR
+*Value--3 to 6 moist, 5 to 8 dry
+*Chroma--1 or 2 moist or dry
+*Fine-earth texture--ashy sandy loam, ashy loamy sand
+*Clay content--1 to 5 percent
+*Pararock fragment content--0 to 15 percent fine to coarse pumice paragravel
+*Reaction--4.5 to 5.5
+*Thickness--3 to 15 cm
+
+Bs1 horizon
+*Hue--7.5YR, 10YR
+*Value--2.5 to 5 moist, 4 to 7 dry
+*Chroma--1 to 4 moist or dry
+*Fine-earth texture--ashy loamy sand, ashy sandy loam, ashy coarse sandy loam, ashy fine sandy loam
+*Clay content--1 to 5 percent
+*Pararock fragment content--0 to 25 percent fine to coarse pumice paragravel
+*Ammonium oxalate Al plus 1/2 Fe--greater than 1 percent
+*Reaction--5.1 to 6.0
+*Thickness--10 to 30 cm
+
+Bs2 horizon
+*Hue--7.5YR, 10YR
+*Value--2.5 to 5 moist, 4 to 7 dry
+*Chroma--1 to 4 moist or dry
+*Fine-earth texture--ashy sandy loam, ashy loamy sand, ashy loamy coarse sand
+*Clay content--1 to 5 percent
+*Pararock fragment content--0 to 25 percent fine to coarse pumice paragravel
+*Ammonium oxalate Al plus 1/2 Fe--greater than 1 percent
+*Reaction--5.1 to 6.0
+*Thickness--15 to 30 cm
+
+Bs3 horizon
+*Hue--7.5YR, 10YR
+*Value--2.5 to 5 moist, 4 to 7 dry
+*Chroma--1 to 4 moist or dry
+*Fine-earth texture--ashy loamy coarse sand, ashy loamy sand, ashy sandy loam
+*Clay content--1 to 5 percent
+*Pararock and rock fragment content--0 to 25 percent total, including 0 to 25 percent fine to coarse pumice paragravel and 0 to 5 percent fine to coarse andesite gravel
+*Ammonium oxalate Al plus 1/2 Fe--greater than 1 percent
+*Reaction--5.1 to 6.0
+*Thickness--15 to 30 cm
+
+2Bw1 horizon
+*Hue--7.5YR, 10YR
+*Value--2.5 to 4 moist, 4 to 6 dry
+*Chroma--2 to 4 moist or dry
+*Fine-earth texture--ashy sandy loam, ashy coarse sandy loam
+*Clay content--1 to 7 percent
+*Rock fragment content--15 to 35 percent total, including 5 to 30 percent fine to coarse andesite gravel, 0 to 15 percent andesite cobbles, and 0 to 10 percent andesite stones
+*Reaction--5.1 to 6.0
+*Thickness--40 to 60 cm
+
+2Bw2 horizon
+*Hue--7.5YR, 10YR
+*Value--2.5 to 4 moist, 4 to 6 dry
+*Chroma--2 to 4 moist or dry
+*Fine-earth texture--ashy coarse sandy loam, ashy sandy loam
+*Clay content--1 to 7 percent
+*Rock fragment content--15 to 45 percent total, including 5 to 35 percent fine to coarse andesite gravel, 0 to 20 percent andesite cobbles, and 0 to 10 percent andesite stones
+*Reaction--5.1 to 6.0
+*Thickness--15 to 35 cm
+
+2Bw3 horizon
+*Hue--7.5YR, 10YR
+*Value--2.5 to 4 moist, 4 to 6 dry
+*Chroma--2 to 4 moist or dry
+*Fine-earth texture--ashy coarse sandy loam, ashy sandy loam
+*Clay content--1 to 7 percent
+*Rock fragment content--35 to 60 percent total, including 15 to 35 percent fine to coarse andesite gravel, 0 to 20 percent andesite cobbles, and 0 to 15 percent andesite stones
+*Reaction--5.1 to 6.0
+
+COMPETING SERIES:
+Arahustan--lithic contact at a depth of 50 to 100 cm (moderately deep)
+Moolack--sand below spodic horizon
+
+GEOGRAPHIC SETTING:
+Elevation--510 to 1500 m
+Climate--cool, dry summers; cold, wet winters
+Mean annual precipitation--1600 to 2700 mm
+Mean annual air temperature--3 to 7 degrees C
+Frost-free period--60 to 90 days
+
+GEOGRAPHICALLY ASSOCIATED SOILS:
+Ohanapecosh--less than 50 cm deep to lithic contact (shallow); on similar landforms
+Arahustan--50 to 100 cm deep to lithic contact (moderately deep); on similar landforms
+Frogheaven--aquic conditions within 25 cm of the soil surface
+Vantrump--aquic conditions with an upper limit of 25 cm from the soil surface; on similar landforms
+Laughingwater--aquic conditions with an upper limit of 50 cm from the soil surface; on similar landforms
+Summerland--no albic horizon; umbric epipedon; associated with deciduous forests in active avalanche paths
+Ghost--formed in organic material; in closed depressions with prolonged periods of saturation
+Flett--formed in alluvium derived from andesite and volcanic ash; on flood plains and terraces
+
+DRAINAGE AND SATURATED HYDRAULIC CONDUCTIVITY:
+Drainage--well drained
+Saturated hydraulic conductivity (Ksat)--high, very high
+
+USE AND VEGETATION:
+Use--wildlife habitat, recreation
+Potential natural vegetation--Pacific silver fir, noble fir, Engelmann spruce, western hemlock, western redcedar, Douglas-fir, vine maple, western swordfern, vanillaleaf, beargrass, prince's pine, pachistima, red huckleberry, black huckleberry
+
+DISTRIBUTION AND EXTENT: Central Cascade Mountains, Washington; MLRA 3; moderate extent
+
+MLRA SOIL SURVEY REGIONAL OFFICE (MO) RESPONSIBLE: Portland, Oregon
+
+SERIES ESTABLISHED: Mount Rainier National Park, Lewis County, Washington; 2014
+
+REMARKS:
+Diagnostic horizons and other features in this pedon
+*Particle-size control section--zone from 29 to 104 cm
+*Ochric epipedon
+*Albic horizon--zone from 4 to 7 cm
+*Spodic horizon--zone from 7 to 52 cm
+*Andic soil properties--zone from 4 to 150 cm
+*Volcanic glass--zone from 4 to 150 cm
+*Depth to lithologic discontinuity--52 cm
+*Distinguishable tephra layers--Mount St. Helens Wn tephra (E horizon), Mount St. Helens Yn tephra (Bs horizon)
+
+3/2017--This official series description was updated according to SSR1 Technical Note 11--Content and Format of Official Series Descriptions (revised 12/2015). Most of the changes were in formatting; no major technical changes were made.
+
+National Cooperative Soil Survey
+U.S.A.

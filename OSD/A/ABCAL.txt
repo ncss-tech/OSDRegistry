@@ -1,0 +1,78 @@
+LOCATION ABCAL                  UT
+
+Established Series
+Rev. JVC/JBF
+03/2010
+
+ABCAL SERIES
+
+The Abcal series consists of very deep, poorly drained soils that formed in alluvium derived from shale, limestone, and sandstone. Abcal soils are on flood plains.  Slopes are 0 to 2 percent. The mean annual precipitation is about 250 mm and the mean annual temperature is about 9 degrees C.
+
+TAXONOMIC CLASS: Fine, mixed, active, calcareous, mesic Vertic Endoaquepts
+
+TYPICAL PEDON: Abcal peaty silty clay loam--rangeland. (Colors are for dry soil unless otherwise noted.)
+
+    A1--0 to 10 cm; gray (10YR 5/1) peaty silty clay loam, very dark gray (10YR 3/1) moist; massive; slightly hard, very friable, slightly sticky and slightly plastic; many very fine and fine grass roots; many very fine and fine pores, few medium pores; strongly effervescent; moderately alkaline (pH 8.0); clear smooth boundary. (0 to 13 cm thick)
+
+    A2--10 to 18 cm; light brownish gray (2.5Y 6/2) silty clay loam, grayish brown (2.5Y 5/2) moist; massive; hard, firm, slightly sticky and moderately plastic; many fine and very fine and medium roots; many very fine and fine pores, common medium pores; strongly effervescent; moderately alkaline (pH 8.0); clear smooth boundary. (8 to 15 cm thick)
+
+    Cg1--18 to 33 cm; light gray (2.5Y 7/1) silty clay loam, gray (5Y 6/1) moist; massive; very hard, very firm, moderately sticky and very plastic; many very fine and fine roots; many very fine and fine pores, few medium pores; strongly effervescent; moderately alkaline (pH 8.0); clear smooth boundary. (15 to 28 cm thick)
+
+    Cg2--33 to 99 cm; white (2.5Y 8/1) clay, light gray (5Y 7/1) moist; massive; extremely hard, extremely firm, very sticky and very plastic; few very fine roots; many very fine and fine pores, few medium pores; strongly effervescent; very strongly alkaline (pH 9.1); gradual wavy boundary. (50 to 100 cm thick)
+
+    Cg3--99 to 152 cm; white (2.5Y 8/1) silty clay, light gray (5Y 7/1) moist; massive; extremely hard, very firm, very sticky and very plastic; few very fine roots; common very fine and fine pores, few medium pores; strongly effervescent; very strongly alkaline (pH 9.1).
+
+TYPE LOCATION: Sanpete County, Utah; in the Sanpete Valley about 2 miles southwest of Manti and 1 mile south of Crystle Springs; approximately 1,815 feet south and 2,145 feet west of the northeast corner of section 23, T. 18 S., R. 2 E.; Manti USGS 7.5 minute topographic quadrangle; latitude 39 degrees 14 minutes 18 seconds N and longetude 111 degrees 39 minutes 38 seconds W; NAD 83.
+
+RANGE IN CHARACTERISTICS:
+Soil moisture:  Usually wet in some part of the moisture control section; aquic moisture regime.
+Mean annual soil temperature: 8.5 to 12.0 degrees C. 
+Linear extensibility (LE): 6 to 9 cm.
+Calcium carbonate equivalent: 15 to 30 percent.
+Reaction: Moderately alkaline through very strongly alkaline.
+Other features: Organic carbon content decreases irregularly with depth below 10 cm or remains above 0.2 percent to a depth of 56 cm.
+
+Particle-size control section - Average clay content: 35 to 55 percent
+
+A horizon
+Hue: 10YR through 2.5Y.
+Value: 5 through 8 dry, 3 through 6 moist; the upper 10 cm may have dry value of less than 6 and moist value of less than 4
+Chroma: 1 or 2, dry or moist.
+Electrical conductivity (EC): 4 to 32 mmhos/cm.
+
+Cg horizons:
+Hue: 10YR through 5Y.
+Value: 6 through 8 dry, 4 through 7 moist.
+Chroma: 1 or 2, dry or moist.
+Texture: Silty clay loam, clay, or silty clay.
+Electrical conductivity (EC): 4 to 32 mmhos/cm.
+
+COMPETING SERIES: There are currently no other series in this family.
+
+GEOGRAPHIC SETTING: Abcal soils are on flood plains. They formed in alluvium derived from limestone, sandstone and shale. Slopes are 0 to 2 percent. Elevations range from 1,550 to 1,800 meters. The climate is semiarid and the mean annual precipitation is 200 to 300 mm. The mean annual temperature is 7 to 10.5 degrees C. The frost-free period is 100 to 140 days.
+
+GEOGRAPHICALLY ASSOCIATED SOILS: These are the Cache, Ephraim, Kjar, and Woodrow soils. Cache soils have salic horizons. Ephraim and Kjar soils have carbonatic mineralogy. Woodrow soils are fine-silty.
+
+DRAINAGE AND PERMEABILITY: Poorly drained; very high surface runoff; slow or very slow permeability; moderately low saturated hydraulic conductivity. Endosaturation is present with an apparent seasonal high water table between the soil surface and 30 cm year-round or between 15 and 50 cm between April and September (very shallow or shallow free water occurrence classes). Cumulative annual duration class is Persistent. These soils are susceptible to occasional flooding for very long periods between April and June.
+
+USE AND VEGETATION: Abcal soils are used for hayland and pasture. The present vegetation is wiregrass and sedges with inland saltgrass and black greasewood in saline areas.
+
+DISTRIBUTION AND EXTENT: West-central Utah. These soils are of small extent with less than 10,000 acres of the series mapped to date. MLRA 28A.
+
+MLRA SOIL SURVEY REGIONAL OFFICE (MO) RESPONSIBLE: Phoenix, Arizona.
+
+SERIES ESTABLISHED: Sanpete Soil Survey Area, Utah, 1971.
+
+REMARKS:  
+Diagnostic horizons and features recognized in this pedon are:
+Ochric epipedon: The zone from the soil surface to 18 cm. (A1 and A2 horizons)
+Cambic horizon: The zone from 18 to 150 cm. (Cg1, Cg2, and Cg3 horizons)
+Aquic conditions: The conditions of endosaturation, reduction, and redoximorphic features between the soil surface and 20 cm at certain times during normal years. (Parts of the A1, A2, Cg1, and Cg2 horizons)
+Particle-size control section: The zone from 25 to 100 cm. (Cg2 horizon and parts of the Cg1 and Cg3 horizons)
+
+The revision of April 2006 updates the taxonomic class from Fine, mixed, superactive, calcareous, mesic Typic Fluvaquents based on the recognition of a cambic horizon, the estimated CEC/clay ratio, and the linear extensibility (LE) as populated in the NASIS database.
+
+ADDITIONAL DATA: Previous authors and editors include JLS-AJE-MJD. 
+
+National Cooperative Soil Survey
+U.S.A.

@@ -1,0 +1,112 @@
+LOCATION CHIPS                  ID
+
+Established Series
+RGK/CBR/EED
+05/2018
+
+CHIPS SERIES
+
+Landscape--mountains
+Landform--stream terraces, fan remnants
+Slope--1 to 4 percent
+Parent material--alluvium derived from limestone
+Mean annual precipitation--about 430 mm
+Mean annual air temperature--about 4 degrees C
+Depth class--very deep
+Drainage class--well drained
+Soil moisture regime--xeric
+Soil temperature regime--cryic
+
+TAXONOMIC CLASS: Fine-loamy, mixed, superactive Calcic Haplocryolls
+
+TYPICAL PEDON: Chips silt loam on a 2-percent slope in an area of rangeland at an elevation of 1984 m
+
+ A--0 to 25 cm; silt loam, very dark grayish brown (10YR 3/2) dry, black (10YR 2/1) moist; strong very coarse granular structure; slightly hard, friable, slightly sticky and moderately plastic; common very fine, fine, and medium and few coarse roots; common fine irregular pores; finely disseminated calcium carbonate throughout; 2 percent gravel; slightly effervescent; moderately alkaline (pH 7.9); clear smooth boundary
+
+ Bk1--25 to 38 cm; clay loam, dark grayish brown (2.5Y 4/2) dry, very dark grayish brown (2.5Y 3/2) moist; moderate fine subangular blocky structure parting to strong very coarse granular; slightly hard, friable, moderately sticky and moderately plastic; common very fine, fine, and medium and few coarse roots; common fine and medium and few coarse tubular pores; carbonate coatings on bottom surfaces of rock fragments; 10 percent gravel; strongly effervescent; moderately alkaline (pH 7.9); clear smooth boundary
+
+ Bk2--38 to 56 cm; gravelly clay loam, grayish brown (2.5Y 5/2) dry, dark grayish brown (2.5Y 4/2) moist; moderate fine subangular blocky structure parting to strong very coarse granular; slightly hard, friable, moderately sticky and moderately plastic; common very fine and fine and few medium and coarse roots; common fine and medium and few coarse tubular pores; carbonate coatings on bottom surfaces of rock fragments; 18 percent gravel; violently effervescent; moderately alkaline (pH 8.0); clear smooth boundary
+
+ Bk3--56 to 89 cm; very gravelly loam, pale brown (10YR 6/3) dry, dark grayish brown (10YR 4/2) moist; moderate fine subangular blocky structure; slightly hard, friable, slightly sticky and slightly plastic; common very fine and fine and few medium roots; common fine and medium and few coarse tubular pores; carbonate coatings on bottom surfaces of rock fragments; 35 percent gravel; violently effervescent; moderately alkaline (pH 8.0); clear smooth boundary
+
+ Bk4--89 to 119 cm; very gravelly loam, pale brown (10YR 6/3) dry, dark grayish brown (10YR 4/2) moist; moderate fine subangular blocky structure; slightly hard, friable, slightly sticky and slightly plastic; few very fine, fine, and medium roots; common fine tubular pores; carbonate coatings on bottom surfaces of rock fragments; 45 percent gravel; violently effervescent; moderately alkaline (pH 8.0); clear smooth boundary
+
+ Bk5--119 to 150 cm; very gravelly sand, light gray (10YR 7/2) dry, brown (10YR 5/3) moist; single grain; loose, nonsticky, nonplastic; few very fine and fine roots; common fine interstitial pores; carbonate coats on bottom surfaces of rock fragments; 45 percent gravel and 5 percent cobbles; violently effervescent; moderately alkaline (pH 8.0)
+
+TYPE LOCATION: Clark County, Idaho, about 33 km west and 20 km north of Dubois, Idaho; about 150 m south and 685 m east of the northwest corner of section 24, T. 12 N., R. 32 E.; Heart Mountain U.S. Geological Survey quadrangle; latitude 44.35908 degrees north, longitude 112.64636 degrees west, datum WGS 84 (coordinates determined with a GPS)
+
+RANGE IN CHARACTERISTICS:
+Mean annual soil temperature--4 to 6 degrees C
+Thickness of mollic epipedon--25 to 38 cm
+Depth to calcic horizon--25 to 38 cm
+
+Particle-size control section
+Total clay content--18 to 35 percent
+Carbonate clay content--1 to 8 percent
+Total rock fragment content--5 to 35 percent
+
+A horizon
+Value--2 to 4 dry, 2 or 3 moist
+Chroma--2 or 3 dry, 1 or 2 moist
+Gravel content--0 to 10 percent
+Reaction--7.6 to 8.2 (slightly alkaline or moderately alkaline)
+Thickness--10 to 38 cm
+
+Bk1, Bk2, Bk3, and Bk4 horizons
+Hue--10YR, 2.5Y
+Value--3 to 7 dry, 1 to 5 moist
+Chroma--1 to 3 dry or moist
+Texture--clay loam, loam, sandy loam
+Gravel content--5 to 45 percent
+Reaction--7.8 to 8.4 (slightly alkaline or moderately alkaline)
+Thickness--51 to 97 cm
+
+Bk5 horizon
+Hue--10YR, 2.5Y
+Value--3 to 7 dry, 1 to 5 moist
+Chroma--1 to 3 dry or moist
+Texture--sand, loamy sand
+Total rock fragment content--40 to 55 percent
+Gravel content--40 to 45 percent
+Cobble content--0 to 10 percent
+Reaction--7.8 to 8.4 (slightly alkaline or moderately alkaline)
+
+COMPETING SERIES:
+Babb--cambic horizon; frost-free period 50 to 70 days
+Prudy--indurated duripan at a depth of 100 to 122 cm
+
+GEOGRAPHIC SETTING:
+Elevation--1700 to 2200 m
+Climate--warm summers, cold winters
+Mean annual precipitation-- 400 to 600 mm
+Mean annual air temperature--3 to 5 degrees C
+Frost-free period--30 to 60 days
+
+GEOGRAPHICALLY ASSOCIATED SOILS:
+Medlo--fine particle-size class; on stream terraces and fan remnants
+Raynoldson--loamy-skeletal particle-size class; on stream terraces and lower fan remnants
+Sawtelpeak--seasonal high water table at a depth of 25 to 50 cm (poorly drained); on flood plains and stream terraces
+Sudpeak--redoximorphic features; on stream terraces and flood plains
+
+DRAINAGE AND SATURATED HYDRAULIC CONDUCTIVITY:
+Drainage class--well drained
+Saturated hydraulic conductivity (Ksat)--moderately high, high
+
+USE AND VEGETATION:
+Major uses--production of pasture and hay, wildlife habitat
+Potential natural vegetation--mountain big sagebrush, antelope bitterbrush, Idaho fescue, bluebunch wheatgrass, lupine, bluegrass, horsebrush, sedges, cinquefoil
+
+DISTRIBUTION AND EXTENT: Lost River Valleys and Mountains of MLRA 12 and Central Rocky Mountains of MLRA 43B in Idaho; small extent
+
+SOIL SURVEY REGIONAL OFFICE (SSRO) RESPONSIBLE: Portland, Oregon
+
+SERIES ESTABLISHED: Clark County, Idaho; 2018
+
+REMARKS:
+Diagnostic horizons and features recognized in this pedon
+*Mollic epipedon--zone from the surface to a depth of 38 cm
+*Calcic horizon--zone from 25 to 150 cm
+*Particle size control section--zone from 25 to 100 cm
+
+National Cooperative Soil Survey
+U.S.A.

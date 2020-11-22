@@ -1,0 +1,159 @@
+LOCATION ALOHA                  OR
+
+Established Series
+Rev. GEO/JGM/EED
+12/2017
+
+ALOHA SERIES
+
+Landscape--Willamette Valley
+Landform--terraces
+Slope--0 to 8 percent
+Parent material--stratified glaciolacustrine deposits from the Missoula Floods
+Mean annual precipitation--about 1300 mm
+Mean annual air temperature--about 11 degrees C
+Depth class--very deep
+Drainage class--somewhat poorly drained
+Soil moisture regime--xeric
+Soil temperature regime--mesic
+Soil moisture subclass--aquic
+
+TAXONOMIC CLASS: Fine-silty, mixed, superactive, mesic Aquic Haploxerepts
+
+TYPICAL PEDON: Aloha silt loam, cultivated
+
+ Ap--0 to 20 cm; silt loam, pale brown (10YR 6/3) dry, dark brown (10YR 3/3) moist; moderate fine subangular blocky structure; slightly hard, friable, nonsticky and slightly plastic; common very fine roots; common fine irregular pores; common fine shot; moderately acid (pH 6.0); abrupt smooth boundary
+
+ BAg--20 to 38 cm; silt loam, light yellowish brown (10YR 6/4) dry, brown (10YR 4/3) moist; moderate fine subangular blocky structure; moderately hard, friable, slightly sticky and slightly plastic; common fine roots; many very fine tubular pores; 5 percent medium faint dark brown (7.5YR 3/2) masses of oxidized iron on surfaces along pores and 10 percent medium faint brown (10YR 5/3) and dark grayish brown (10YR 4/2) iron depletions on surfaces along pores; moderately acid (pH 5.8); clear smooth boundary
+
+ Btg--38 to 56 cm; silt loam, pale brown (10YR 6/3) dry, dark yellowish brown (10YR 4/4) moist; moderate fine subangular blocky structure; hard, firm, slightly sticky and slightly plastic; common fine roots; many very fine to medium tubular pores; 2 percent faint clay films on surfaces along pores and 2 percent faint organic stains on vertical faces of peds; 5 percent fine faint dark brown (7.5YR 3/2) masses of oxidized iron on surfaces along pores and 10 percent fine faint brown (10YR 5/3) and dark grayish brown (10YR 4/2) iron depletions on surfaces along pores; few medium shot; moderately acid (pH 5.8); clear wavy boundary
+
+ Bg1--56 to 79 cm; silt loam, pale brown (10YR 6/3) dry, dark yellowish brown (10YR 4/4) moist; weak medium subangular blocky structure parting to moderate fine subangular blocky; hard, firm, slightly sticky and slightly plastic; brittle; few very fine roots; many very fine and few fine tubular pores; 10 percent distinct organic stains on vertical faces of peds and surfaces along pores; 10 percent medium distinct dark yellowish brown (10YR 3/4) masses of oxidized iron on surfaces along pores and 15 percent medium distinct dark gray (10YR 4/1) and brown (7.5YR 4/2) iron depletions on surfaces along pores; common fine shot; moderately acid (pH 5.8); gradual wavy boundary
+
+ Bg2--79 to 117 cm; silt loam, pale brown (10YR 6/3) dry, variegated brown (10YR 5/3) and brown (10YR 4/3) moist; weak coarse subangular blocky structure; hard, firm, slightly sticky and slightly plastic; brittle; few very fine roots; many very fine and few fine tubular pores; 5 percent distinct organic stains on vertical faces of peds and 60 percent faint sand and silt coatings on all faces of peds; 15 percent fine distinct reddish brown (5YR 4/4) masses of oxidized iron on surfaces along pores and 20 percent medium faint dark grayish brown (10YR 4/2) iron depletions on surfaces along pores; common fine shot; common micaceous fragments; moderately acid (pH 5.8); gradual wavy boundary
+
+ Bg3--117 to 152 cm; silt loam, pale brown (10YR 6/3) and yellowish brown (10YR 5/4) dry, dark yellowish brown (10YR 3/4) moist; massive; hard, firm, slightly sticky and slightly plastic; brittle; many fine and very fine tubular pores and few coarse irregular pores; 2 percent distinct organic stains on vertical faces of peds; 10 percent coarse distinct dark grayish brown (10YR 4/2) iron depletions infused into matrix adjacent to pores; moderately acid (pH 6.0); gradual irregular boundary
+
+ 2C--152 to 165 cm; light yellowish brown (10YR 6/4) very fine sandy loam, dark yellowish brown (10YR 4/4) moist; massive; slightly hard, friable, nonsticky and nonplastic; many very fine irregular pores; common firm nodules; moderately acid (pH 6.0)
+
+TYPE LOCATION: Washington County, Oregon, about 60 m south of 12 m east of the end of the country road; NW1/4SW1/4NW1/4 of section 16, T. 1 S., R. 2 W.; latitude 45.4808205, longitude -122.9482947, datum WGS 84 (coordinates estimated from PLSS coordinates)
+
+RANGE IN CHARACTERISTICS:
+Mean annual soil temperature--11 to 13 degrees C
+Moisture control section--dry 45 to 60 consecutive days following summer solstice
+Depth to aquic conditions--20 to 50 cm
+Depth to fragic soil properties (see Remarks)--50 to 100 cm
+
+Particle-size control section
+*Clay content--18 to 27 percent
+*Total fragment content--0 to 5 percent
+
+A horizon
+Hue--10YR, 7.5YR
+Value--3 moist, 5 or 6 dry
+Chroma--2 or 3 moist or dry
+Fine-earth texture--silt loam
+Clay content--15 to 20 percent
+Sand content--5 to 25 percent
+Total fragment content--0 to 5 percent
+Reaction--5.6 to 6.0
+Thickness--15 to 23 cm
+
+BAg horizon
+Hue--10YR, 7.5YR
+Value--3 or 4 moist, 5 or 6 dry
+Chroma--3 or 4 moist or dry
+Fine-earth texture--silt loam, loam
+Clay content--15 to 25 percent
+Sand content--15 to 30 percent
+Total fragment content--0 to 5 percent
+Reaction--5.6 to 6.5
+Thickness--0 to 23 cm
+
+Btg horizon
+Hue--10YR, 7.5YR
+Value--4 or 5 moist, 6 dry
+Chroma--3 or 4 moist or dry
+Fine-earth texture--silt loam, loam
+Clay content--18 to 27 percent
+Sand content--15 to 35 percent, less than 15 percent fine sand or coarser
+Total fragment content--0 percent
+Reaction--5.6 to 6.5
+Thickness--13 to 23 cm
+
+Bg horizon
+Hue--10YR, 7.5YR
+Value--4 or 5 moist, 6 dry
+Chroma--3 or 4 moist or dry to a depth of 50 cm, 2 to 4 moist or dry below a depth of 50 cm
+Fine-earth texture--silt loam, loam
+Clay content--18 to 27 percent to a depth of 100 cm; 10 to 25 percent below a depth of 100 cm
+Sand content--15 to 35 percent, less than 15 percent fine sand or coarser
+Total fragment content--0 percent
+Reaction--5.6 to 6.5
+Thickness--65 to 115 cm
+
+2C horizon
+Hue--10YR, 7.5YR, 2.5Y
+Value--3 to 5 moist, 4 to 6 dry
+Chroma--2 to 4 moist or dry
+Fine-earth texture--loam, silt loam, very fine sandy loam
+Clay content--10 to 25 percent
+Sand content--25 to 65 percent
+Total fragment content--0 percent
+Reaction--5.6 to 6.5
+
+COMPETING SERIES: None
+
+GEOGRAPHIC SETTING:
+Elevation--30 to 110 m
+Climate--warm, dry summers; cool, moist winters
+Mean annual precipitation--1000 to 1500 mm
+Mean annual air temperature--10 to 12 degrees C
+Mean January air temperature--3 degrees C
+Mean July air temperature--19 degrees C
+Frost-free period--165 to 210 days
+
+GEOGRAPHICALLY ASSOCIATED SOILS:
+Amity--mollic epipedon; argillic horizon; in similar positions of slightly higher terraces
+Dayton--argillic horizon; fine texture; poorly drained; in concave positions of slightly higher terraces
+Huberly--fragipan; poorly drained; in concave positions
+Quatama--argillic horizon that is more than 27 percent clay; in similar positions
+Willamette--mollic epipedon; argillic horizon; on slightly higher terraces
+Woodburn--mollic epipedon; argillic horizon; on slightly higher terraces
+
+DRAINAGE AND SATURATED HYDRAULIC CONDUCTIVITY:
+Drainage class--somewhat poorly drained
+Saturation in normal years--apparent perched water table at a depth of 30 to 60 cm below the surface
+Flooding--none
+Ponding--none
+Saturated hydraulic conductivity (Ksat)--moderately low
+
+USE AND VEGETATION:
+Use--production of orchard crops, berries, grain, hay, and pasture
+Potential natural vegetation--Douglas-fir, Oregon white oak, Oregon grape, California hazel, red alder
+
+DISTRIBUTION AND EXTENT: Along the southern part of the Tualatin Valley and northern part of the Willamette Valley in northwestern Oregon; MLRA 2; moderate extent
+
+SOIL SURVEY REGIONAL OFFICE (SSRO) RESPONSIBLE: Portland, Oregon
+
+SERIES ESTABLISHED: Washington County, Oregon, 1974
+
+REMARKS:
+Diagnostic horizons and other features in this pedon
+*Ochric epipedon
+*Aquic conditions--zone from 20 to 152 cm
+*Cambic horizon--zone from 38 to 152 cm
+*Fragic soil properties--zone from 56 to 152 cm
+*Lithologic discontinuity--152 cm
+
+Fragic soil properties make up less than 60 percent of the horizons that have fragic properties.
+
+The Aloha soils are on the Senecal surface, as recognized in the Willamette Valley.
+
+8/2017--This official series description was updated according to SSR01 Technical Note 11--Content and Format of Official Series Descriptions (revised 11/2017). Most of the changes were in formatting. No major technical changes were made.
+
+ADDITIONAL DATA:
+Characterization data--user pedon ID numbers 91OR-067-005, 91OR-067-006, and 04OR-047-001
+
+National Cooperative Soil Survey
+U.S.A.

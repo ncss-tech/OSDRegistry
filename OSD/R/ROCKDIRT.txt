@@ -1,0 +1,133 @@
+LOCATION ROCKDIRT               OR
+
+Tentative Series
+JGM/KMS
+06/2017
+
+ROCKDIRT SERIES
+
+Landscape--western Cascade Mountains
+Landform--structural benches
+Slope--10 to 30 percent
+Parent material--colluvium derived from hard extrusive igneous rock mixed with volcanic ash throughout
+Mean annual precipitation--about 2600 mm
+Mean annual air temperature--about 6 degrees C
+Depth class--shallow to lithic bedrock
+Drainage class--well drained
+Soil moisture regime--udic
+Soil temperature regime--cryic
+Soil moisture subclass--typic
+
+TAXONOMIC CLASS: Medial-skeletal, amorphic Lithic Vitricryands
+
+TYPICAL PEDON: Rockdirt stony medial loam on a south-facing, 10-percent slope of a forested mountaintop at an elevation of 1364 m (The soil was dry throughout when observed on October 3, 2012.)
+
+ Oi--0 to 3 cm; slightly decomposed plant material; abrupt smooth boundary
+
+ A--3 to 23 cm; stony medial loam, brown (7.5YR 4/2) dry, dark brown (7.5YR 3/2) moist; moderate fine granular structure; soft, friable, nonsticky and nonplastic; common very fine, fine, medium, and coarse roots; 10 percent gravel, 10 percent cobbles, and 10 percent stones; clear smooth boundary
+
+ AC--23 to 30 cm; very stony medial sandy loam, brown (7.5YR 5/3) dry, dark brown (7.5YR 3/3) moist; weak fine subangular blocky structure; soft, friable, nonsticky and nonplastic; common very fine, fine, medium, and coarse roots; 15 percent gravel, 10 percent cobbles, and 15 percent stones; abrupt wavy boundary
+
+ C--30 to 41 cm; extremely stony medial sandy loam, brown (7.5YR 5/4) dry, brown (7.5YR 4/4) moist; massive; loose, friable, nonsticky and nonplastic; common medium and coarse roots; 20 percent gravel, 20 percent cobbles, and 30 percent stones; abrupt wavy boundary
+
+ 2R--41 cm; fractured andesite
+
+TYPE LOCATION: Lane County, Oregon, about 7.4 km north of the town of Blue River; 425 m south and 245 m west of the northeast corner of section 32, T. 15 S., R. 4 E., Willamette Meridian; latitude 44.220799, longitude -122.347245, datum WGS 84 (coordinates determined with a GPS)
+
+RANGE IN CHARACTERISTICS:
+Dry days--30 to 45 consecutive days following summer solstice
+Mean annual soil temperature--4 to 7 degrees C
+Depth to lithic contact--25 to 50 cm below mineral soil surface
+Reaction--5.1 to 6.0 throughout all mineral horizons
+Thickness of andic soil properties--25 to 50 cm (below mineral soil surface)
+
+Estimated properties of layers with andic soil properties
+*1/3-bar bulk density--0.65 to 0.9 g/cm3
+*Phosphate retention--greater than 85 percent
+*Ammonium oxalate extractable Al + 1/2 Fe--2 to 4 percent
+*15 bar water retention--less than 30 percent (undried samples), 12 to 15 percent (dried samples)
+*0.02- to 2.0-mm fraction--greater than 30 percent
+*Volcanic glass content in 0.02- to 2.0-mm fraction--5 to 30 percent
+
+Particle-size control section
+*Clay content--8 to 18 percent
+*Total fragment content--35 to 75 percent
+
+Oi horizon
+*Thickness--3 to 8 cm
+
+A horizon
+*Hue--7.5YR, 10YR
+*Value--2 to 4 moist, 4 to 6 dry
+*Chroma--2 or 3 moist or dry
+*Fine-earth texture--medial loam
+*Clay content--10 to 18 percent
+*Sand content--40 to 50 percent
+*Total fragment content--15 to 35 percent
+*Gravel content--5 to 15 percent
+*Cobble content--5 to 15 percent
+*Stone content--5 to 10 percent
+*Thickness--0 to 20 cm
+
+AC and C horizons
+*Hue--7.5YR, 10YR, 2.5Y
+*Value--3 to 5 moist, 4 to 7 dry
+*Chroma--2 to 4 moist or dry
+*Fine-earth texture--medial loam, medial sandy loam
+*Clay content--8 to 18 percent
+*Sand content--40 to 70 percent
+*Total fragment content--35 to 75 percent
+*Gravel content--10 to 30 percent
+*Cobble content--10 to 30 percent
+*Stone content--10 to 35 percent
+*Thickness--5 to 30 cm
+
+COMPETING SERIES:
+Coerock--silt loam textures; no sandy loam textures; less than 21 percent sand in surface layer; less than 45 percent sand in subsurface layer
+
+GEOGRAPHIC SETTING:
+Elevation--1200 to 1500 m
+Climate--cold, wet winters; cool, moist summers
+Mean annual precipitation--2300 to 2900 mm
+Mean annual air temperature--5.5 to 7.5 degrees C
+Frost-free period--75 to 105 days
+
+GEOGRAPHICALLY ASSOCIATED SOILS:
+Holderman--moderately deep to lithic bedrock; on shoulders of mountaintops and in convex positions of mountain slopes
+Kinzel--very deep; on glacially influenced structural benches and north-facing mountain slopes
+Longbow--very deep; not skeletal; on glacially influenced structural benches
+Marten--moderately deep; spodic horizon; on similar landforms with a cooler climate
+
+DRAINAGE AND SATURATED HYDRAULIC CONDUCTIVITY:
+Drainage class--well drained
+Saturation in normal years--none within profile
+Flooding--none
+Ponding--none
+Saturated hydraulic conductivity (Ksat)--very high
+
+USE AND VEGETATION:
+Use--wildlife habitat, watershed, recreation
+Potential natural vegetation--Pacific silver fir, Douglas-fir, western hemlock, Pacific rhododendron, dwarf Oregon grape, Alaska huckleberry, salal, beargrass
+
+DISTRIBUTION AND EXTENT: Western Cascade Mountains, Oregon; MLRA 3; small extent
+
+MLRA SOIL SURVEY REGIONAL OFFICE (MO) RESPONSIBLE: Portland, Oregon
+
+SERIES PROPOSED: Willamette National Forest, Lane County, Oregon; 2016; coined name
+
+REMARKS:
+Diagnostic horizons and other features in this pedon
+*Particle-size control section--zone from 3 to 41 cm
+*Umbric epipedon--zone from 3 to 30 cm
+*Andic soil properties--zone from 3 to 41 cm
+*Volcanic glass--zone from 3 to 41 cm
+*Depth to lithic contact--41 cm
+
+06/2016--Assumed to meet criteria 2 (no ash required) for andic soil properties, in the 12th edition of Keys to Soil Taxonomy. It is also assumed that enough ash is present for the soils to meet criteria 3. Additional lab data is needed to confirm the degree of ash influence.
+
+Reaction data was not collected with this observation. Further investigation is needed.
+
+ADDITIONAL DATA: Type location user site ID--2012OR039128
+
+National Cooperative Soil Survey
+U.S.A.

@@ -1,0 +1,157 @@
+LOCATION GRANDFIELD             OK+TX
+
+Established Series
+Rev. DDR:CLN:CRC:TGM
+09/2016
+
+GRANDFIELD SERIES
+
+The Grandfield series consists of very deep, well drained, moderately permeable soils that formed in loamy and sandy alluvium, and eolian sediments of Pleistocene age. These nearly level to moderately steep soils occur on stream terraces on alluvial plains in the Central Rolling Red Plains (MLRA 78B, 78C) and Central Limestone Prairies (MLRA 78A). Slope ranges from 0 to 15 percent. Mean annual air temperature is about 16 degrees C (61 degrees F), and mean annual precipitation is about 660 mm (26 in). 
+
+TAXONOMIC CLASS: Fine-loamy, mixed, superactive, thermic Typic Haplustalfs 
+
+TYPICAL PEDON: Grandfield fine sandy loam-cultivated, at an elevation of 458 m (1500 ft). (Colors are for dry soil unless otherwise stated.) 
+
+   Ap--0 to 15 cm (0 to 6 in); reddish brown (5YR 5/4) fine sandy loam, reddish brown (5YR 4/4) moist; weak fine granular structure; slightly hard, friable; neutral; abrupt smooth boundary. (Thickness of the Ap horizon is 12 to 23 cm [5 to 9 in]) 
+
+   A--15 to 25 cm (6 to 10 in); reddish brown (5YR 4/4) fine sandy loam, dark reddish brown (5YR 3/4) moist; moderate fine granular structure; slightly hard, friable; few fine pores; neutral; gradual smooth boundary. (Thickness of the A horizon is 0 to 36 cm [0 to 14 in]) 
+
+   BA--25 to 46 cm (10 to 18 in); reddish brown (5YR 4/4) fine sandy loam, dark reddish brown (5YR 3/4) moist; weak coarse prismatic structure; hard, friable; few fine pores; neutral; gradual smooth boundary. (Thickness of the BA horizon is 0 to 30 cm [0 to 12 in]) 
+
+   Bt1--46 to 71 cm (18 to 28 in); yellowish red (5YR 5/6) fine sandy loam, yellowish red (5YR 4/6) moist; weak coarse prismatic structure parting to weak medium subangular blocky; hard, friable; few medium pores; common distinct clay films on faces of peds; slightly effervescent; slightly alkaline; gradual smooth boundary. 
+
+   Bt2--71 to 122 cm (28 to 48 in); reddish brown (2.5YR 5/4) sandy clay loam, reddish brown (2.5YR 4/4) moist; weak medium subangular blocky structure; hard, friable; few very fine pores; common faint clay films on faces of peds; slightly effervescent; slightly alkaline; gradual smooth boundary. (Combined thickness of the Bt horizon is 56 to 100 cm [22 to 40 in] thick) 
+
+   BC--122 to 203 cm (48 to 80 in); yellowish red (5YR 5/6) fine sandy loam, yellowish red (5YR 4/6) moist; weak coarse prismatic structure; hard, friable; few very fine pores; slightly effervescent; moderately alkaline. 
+
+TYPE LOCATION: Tillman County, Oklahoma; about 3 miles west and 1 mile north of Frederick; 200 feet south and 400 feet east of the northwest corner of the northeast 1/4 of sec. 10, T. 2 S., R. 18 W. 
+
+USGS topographic quadrangle: Frederick, OK
+Latitude: 34 degrees, 24 minutes, 21.56 seconds N
+Longitude: 99 degrees, 4 minutes, 12.65 seconds W
+Datum: NAD83
+
+Decimal Degrees
+Latitude: 34.4059887
+Longitude: -99.0701819
+
+UTM Easting: 493549.85 m
+UTM Northing: 3807174.93 m
+UTM Zone: 14
+
+RANGE IN CHARACTERISTICS: 
+Solum thickness: 125 to more than 200 cm (50 to more than 80 in) 
+Coarse fragments: amount-0 to 1 percent by volume; size-2 to 5 mm; kind- quartzite
+CEC/clay ratio: more than 0.6 
+Depth to secondary calcium carbonate: typically more than 75 cm (30 in)
+
+Particle-size control section (weighted average)
+Clay content: 18 to 30 percent
+Sand content: 45 to 85 percent
+
+A horizon: 
+Hue: 5YR to 10YR
+Value: 4 to 6, 3 to 5 moist
+Chroma: 2 to 4
+Texture: loamy sand, loamy fine sand, or fine sandy loam
+Clay content: 3 to 18 percent
+Effervescence: none
+Reaction: slightly acid to slightly alkaline (6.1-7.8) 
+
+BA or AB horizon: 
+Hue: 2.5YR to 7.5YR
+Value: 4 or 5, 3 or 4 moist
+Chroma: 3 to 6
+Texture: fine sandy loam or sandy clay loam 
+Clay content: 10 to 30 percent
+Effervescence: none
+Reaction: slightly acid to slightly alkaline (6.1-7.8) 
+
+Upper Bt horizon: 
+Hue: 2.5YR to 7.5YR
+Value: 4 or 5, 3 or 4 moist
+Chroma: 3 to 6
+Texture: fine sandy loam or sandy clay loam 
+Clay content: 18 to 30 percent
+Effervescence: none
+Reaction: slightly acid to slightly alkaline (6.1-7.8) 
+
+Lower Bt horizon: 
+Hue: 2.5YR to 7.5YR
+Value: 4 to 6, 3 to 5 moist
+Chroma: 4 to 8
+Texture: fine sandy loam, or sandy clay loam; rarely clay loam below 100 cm (40 in)
+Clay content: typically 13 to 30 percent, but ranges to 35 percent
+Calcium carbonate equivalent: typically 0 percent, but ranges to 5 percent
+Effervescence: typically none, but ranges to strong 
+Reaction: neutral to moderately alkaline (6.6-8.4) 
+
+BC horizon: 
+Hue: 2.5YR to 7.5YR
+Value: 4 to 6, 3 to 5 moist
+Chroma: 4 to 8
+Texture: loamy sand, fine sandy loam, sandy clay loam, or occasionally clay loam
+Clay content: typically 5 to 25 percent, but ranges to 35 percent
+Calcium carbonate equivalent: 0 to 5 percent
+Effervescence: none to strong 
+Reaction: neutral to moderately alkaline (6.6-8.4) 
+
+C horizon (where present): 
+Hue: 2.5YR to 7.5YR
+Value: 4 to 6, 3 to 5 moist
+Chroma: 4 to 8
+Texture: sand, loamy sand, loamy fine sand, fine sandy loam, and some pedons are stratified with coarser and finer material as thin, widely spaced lamellae
+Clay content: typically 3 to 20 percent
+Calcium carbonate equivalent: 0 to 5 percent
+Effervescence: none to strong 
+Reaction: neutral to moderately alkaline (6.6-8.4) 
+
+COMPETING SERIES: These are the Honeycreek (TX), Hye (TX), Rochelle (TX) and Seagraves (TX).
+Honeycreek and Hye soils: have bedrock within 150 cm (60 in) of the soil surface
+Rochelle soils: have free carbonates within 75 cm (30 in) and contain more than 5 percent coarse fragments in the solum
+Seagraves soils: are moderately well drained, slowly permeable soils that formed in loamy wind reworked lacustrine sediments that occur on the floor of playa basins 
+
+GEOGRAPHIC SETTING:
+Parent material: loamy and sandy alluvium and eolian sediments of Pleistocene age
+Landscape: alluvial plains 
+Landform: treads and dunes on sand sheets of stream terraces 
+Slope: 0 to 15 percent
+Mean annual air temperature range: 14 to 18 degrees C (57 to 64 degrees F)
+Mean annual precipitation range: 533 to 710 mm (21 to 28 in)
+Frost-free period: 185 to 230 days
+Elevation: 305 to 670 m (1,000 to 2,200 ft)
+Thornthwaite annual P-E indices: 32 to 44 
+
+GEOGRAPHICALLY ASSOCIATED SOILS: These are the Altus, Devol, Eda, Grandmore, Headrick, Nobscot, Springer, and Tipton series. 
+Altus soils: occur in lower slightly concave areas and have mollic surfaces
+Devol, Nobscot, and Springer soils: occur on slightly higher convex ridges and dunes, and have a coarse-loamy particle-size class
+Eda soils: occur on higher convex ridges and dunes, and have a sandy particle-size class
+Grandmore soils: occur on similar or slightly lower areas, are moderately well drained, and have a discontinuity with a clay increase in the lower part of the solum
+Headrick soils: occur in lower areas, are somewhat poorly drained, and have a discontinuity with a clay increase in the lower part of the solum
+Tipton soils: occur on lower broad terrace treads and have mollic surfaces 
+
+DRAINAGE AND PERMEABILITY: 
+Drainage class: well drained
+Permeability: moderate 
+Runoff: negligible on slopes of less than 1 percent, low on 1 to 5 percent slopes and medium on 5 to 15 percent slopes 
+
+USE AND VEGETATION: Mainly cultivated to cotton, grain sorghums, and wheat. Native vegetation includes sand bluestem, Indiangrass, little bluestem, sideoats grama, and blue grama. Juniper and mesquite have invaded some areas. 
+
+DISTRIBUTION AND EXTENT: LRR H; Central Rolling Red Plains (MLRA 78B, 78C) and Central Limestone Prairies (MLRA 78A) of Oklahoma and Texas. The series is moderately extensive. 
+
+MLRA SOIL SURVEY REGIONAL OFFICE (MO) RESPONSIBLE: Temple, Texas 
+
+SERIES ESTABLISHED: Wheeler County, Texas; 1970. 
+
+REMARKS: 
+
+Diagnostic horizons and features recognized in this pedon are: 
+Ochric epipedon:-0 to 45 cm (0 to 18 in) (A horizon) 
+Argillic horizon: 45 to 122 cm (18 to 48 in) (Bt1, Bt2 horizons) 
+
+ADDITIONAL DATA: Oklahoma State University Lab No. 75-OK-75-2 and 72-OK-05-2; Stillwater, OK; and S04-OK-141-003 KSSL, Lincoln, Nebraska. 
+
+Taxonomic version: Keys to Soil Taxonomy, Twelfth Edition, 2014.
+
+National Cooperative Soil Survey
+U.S.A.

@@ -1,0 +1,159 @@
+LOCATION HOLDERMAN              OR
+
+Established Series
+Rev. WRP/JGM/KMS
+01/2017
+
+HOLDERMAN SERIES
+
+Landscape--western Cascade Mountains
+Landform--mountains, structural benches
+Slope--0 to 90 percent
+Parent material--colluvium derived from andesite and light-colored tuff and breccia; volcanic ash mixed throughout in Willamette National Forest
+Mean annual precipitation--about 2400 mm
+Mean annual air temperature--about 6 degrees C
+Depth class--moderately deep to lithic contact
+Drainage class--well drained
+Soil moisture regime--udic
+Soil temperature regime--cryic
+Soil moisture subclass--typic
+
+TAXONOMIC CLASS: Medial-skeletal, amorphic Typic Haplocryands
+
+TYPICAL PEDON: Holderman extremely cobbly medial loam on a forested, 35-percent mountain slope at an elevation of 1036 m
+
+ Oi--0 to 8 cm; litter of charred and partially decomposing needles and twigs
+
+ A--8 to 20 cm; extremely cobbly medial loam, light brownish gray (10YR 6/2) dry, brown (10YR 4/3) and dark yellowish brown (10YR 4/4) moist; moderate fine granular structure; slightly hard, friable, nonsticky and nonplastic; many very fine to coarse roots; many very fine and fine irregular pores; 40 percent gravel and 30 percent cobbles; black organic coatings and charcoal chips: strongly acid (pH 5.2); clear wavy boundary
+
+ Bw1--20 to 41 cm; extremely cobbly medial loam, light gray (10YR 7/2) dry, dark yellowish brown (10YR 4/4) and yellowish brown (10YR 5/6) moist; moderate fine granular structure; slightly hard, friable, slightly sticky and nonplastic; many very fine to coarse roots; many very fine irregular pores; 40 percent gravel and 30 percent cobbles; strongly acid (pH 5.4); gradual wavy boundary
+
+ Bw2--41 to 61 cm; extremely cobbly medial loam, very pale brown (10YR 7/3) dry, brown (7.5YR 5/4) moist; moderate fine subangular blocky and granular structure; slightly hard, friable, slightly sticky and slightly plastic; many very fine to coarse roots; many very fine and common fine irregular pores; 30 percent gravel and 30 percent cobbles; moderately acid (pH 5.6); clear wavy boundary
+
+ C--61 to 89 cm; extremely cobbly medial loam, light gray (10YR 7/2) dry, light yellowish brown (10YR 6/4) moist; massive; slightly hard, friable, slightly sticky and slightly plastic; many very fine and common coarse roots; many very fine and common fine irregular pores; 35 percent gravel, 30 percent cobbles, and 10 percent stones; strongly acid (pH 5.4); abrupt irregular boundary
+
+ R--89 cm; fractured rhyolitic welded tuff
+
+TYPE LOCATION: Lane County, Oregon, from a cutbank on a fire trail near the new Holderman Mountain Road; in the NW1/4NW1/4 of section 27, T. 23 S., R. 1 W.; latitude 43.5498161, longitude -122.7972641, datum WGS 84 (coordinates estimated from PLSS details)
+
+RANGE IN CHARACTERISTICS:
+Dry days--less than 45 consecutive days following summer solstice
+Mean annual soil temperature--4.5 to 8.0 degrees C
+Mean summer soil temperature--less than 8 degrees C in areas where an O horizon is present
+Thickness of cambic horizon--25 to 55 cm
+Depth to bedrock--50 to 100 cm below the mineral soil surface
+Thickness of andic soil properties--50 to 100 cm (below the mineral soil surface)
+
+Estimated properties of layers with andic soil properties
+*1/3-bar bulk density--0.65 to 0.90 g/cm3
+*Phosphate retention--greater than 85 percent
+*Ammonium oxalate extractable Al +  Fe--2 to 4 percent
+*15-bar water retention--30 to 70 percent (undried samples), greater than 15 percent (dried samples)
+*0.02- to 2.0-mm fraction--greater than 30 percent
+*Volcanic glass content in 0.02- to 2.0-mm fraction--5 to 30 percent in Willamette National Forest, unknown in Lane County
+
+Particle-size control section
+*Clay content--18 to 27 percent
+*Total fragment content--50 to 80 percent
+
+Oi horizon
+*Thickness--3 to 8 cm
+
+A horizon
+*Hue--10YR, 7.5YR
+*Value--2 to 4 moist, 4 to 6 dry
+*Chroma--3 or 4 moist or dry
+*Clay content--18 to 27 percent
+*Sand content--30 to 50 percent
+*Total fragment content--35 to 75 percent
+*Gravel content--25 to 50 percent
+*Cobble content--10 to 35 percent
+*Organic matter content--5 to 10 percent
+*Reaction--5.0 to 6.0
+*Thickness--8 to 18 cm
+
+Bw horizon
+*Hue--10YR, 7.5YR
+*Value--4 or 5 moist, 6 or 7 dry
+*Chroma--3 or 4 moist or dry
+*Clay content--18 to 27 percent
+*Sand content--30 to 50 percent
+*Total fragment content--35 to 75 percent
+*Gravel content--25 to 50 percent
+*Cobble content--10 to 40 percent
+*Organic matter content--2 to 5 percent
+*Reaction--5.0 to 6.0
+*Thickness--25 to 55 cm
+
+C horizon
+*Hue--10YR, 7.5YR
+*Value--4 to 6 moist, 6 to 8 dry
+*Chroma--2 to 4 moist or dry
+*Clay content--18 to 27 percent
+*Sand content--30 to 50 percent
+*Total fragment content--35 to 80 percent
+*Gravel content--20 to 50 percent
+*Cobble content--15 to 40 percent
+*Stone content--0 to 15 percent
+*Organic matter content--0.5 to 2.0 percent
+*Reaction--5.0 to 6.0
+
+COMPETING SERIES:
+Battleax--greater than 150 cm deep to bedrock
+Divers--greater than 150 cm deep to bedrock; less than 18 percent clay in control section
+Highcamp--100 to 150 cm deep to bedrock; less than 18 percent clay in control section
+Icecap--umbric epipedon
+Kinzel--greater than 150 cm deep to bedrock; umbric epipedon
+Oatman--greater than 150 cm deep to bedrock
+Ohana--densic contact within 100 cm of surface; pumice fragments in upper part
+Otwin--bulk density of 0.85 to 1.00 g/cm3; 30 to 60 percent volcanic ash throughout
+
+GEOGRAPHIC SETTING:
+Elevation--975 to 1600 m
+Climate--cold, wet winters; cool, moist summers
+Mean annual precipitation--1600 to 2900 mm, mostly as snowfall in November through May
+Mean annual air temperature--5.5 to 7.5 degrees C
+Frost-free period--70 to 105 days
+
+GEOGRAPHICALLY ASSOCIATED SOILS:
+Cruiser--greater than 100 cm deep to bedrock; less than 35 percent rock fragments in particle-size control section; in concave or steep linear positions
+Hummington--umbric epipedon; on north-facing slopes and cirque walls
+Keel--umbric epipedon; on north-facing slopes
+Rockdirt, Winberry--less than 50 cm deep to bedrock; in convex positions and on ridgetops
+
+DRAINAGE AND SATURATED HYDRAULIC CONDUCTIVITY:
+Drainage class--well drained
+Saturation in normal years--none within profile
+Flooding--none
+Ponding--none
+Saturated hydraulic conductivity (Ksat)--high
+
+USE AND VEGETATION:
+Use--timber production
+Potential natural vegetation--Douglas-fir, mountain hemlock, noble fir, Pacific silver fir, tall blue huckleberry, common beargrass, Pacific rhododendron, widely spaced western white pine
+
+DISTRIBUTION AND EXTENT: Western Cascade Mountains; MLRA 3; small extent
+
+MLRA SOIL SURVEY REGIONAL OFFICE (MO) RESPONSIBLE: Portland, Oregon
+
+SERIES ESTABLISHED: Lane County Area, Oregon; 1981
+
+REMARKS:
+Classification was changed from medial-skeletal Andic Cryochrepts to medial-skeletal, amorphic Typic Haplocryands after the Andisols soil order was added to Soil Taxonomy
+
+Diagnostic horizons and features recognized in this pedon
+*Ochric epipedon
+*Cambic horizon--zone from 20 to 61 cm
+*Andic soil properties--zone from 8 to 89 cm
+*Volcanic glass--zone from 8 to 89 cm
+*Particle-size control section--zone from 8 to 89 cm
+*Depth to lithic contact--89 cm
+
+07/2016--Assumed to meet criteria 2 (no ash required) for andic soil properties, in the 12th edition of Keys to Soil Taxonomy. It is also assumed enough ash is present in the soils in Willamette National Forest for them to meet criteria 3. Additional samples of the Holderman soils from Douglas County and the Willamette National Forest should be collected to determine whether the soils meet the criteria for the Alic subgroup and whether volcanic ash is in the soils in Lane County.
+
+ADDITIONAL DATA:
+Type location user site ID--S1975OR039005
+Characterization data for Lane County--S75OR-39-5 and S75OR-39-6, Kellogg Soil Survey Laboratory, Lincoln, Nebraska
+
+National Cooperative Soil Survey
+U.S.A.

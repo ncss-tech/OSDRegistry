@@ -1,0 +1,138 @@
+LOCATION TIPTON                 OK+TX
+
+Established Series
+Rev. CRC:TLC:TMK
+09/2016
+
+TIPTON SERIES
+
+The Tipton series consists of very deep, well drained, moderately permeable soils. These soils formed in calcareous loamy and silty alluvium of late Pleistocene or Holocene age on nearly level to moderately sloping upland terraces in the Central Rolling Red Plains (MLRA 78C). Slope ranges from 0 to 8 percent. Mean annual precipitation is 660 mm (26 in) and mean annual temperature is 17 degrees C (62 degrees F). 
+
+TAXONOMIC CLASS: Fine-loamy, mixed, superactive, thermic Pachic Argiustolls 
+
+TYPICAL PEDON: Tipton loam-cropland, at an elevation of 427 m (1400 feet). (Colors are for dry soil unless otherwise stated.) 
+
+    Ap--0 to 23 cm (0 to 9 in); grayish brown (10YR 5/2) loam, very dark grayish brown (10YR 3/2) moist; weak fine granular structure; soft, very friable; neutral; abrupt smooth boundary 
+
+    A--23 to 33 cm (9 to 13 in); dark grayish brown (10YR 4/2) loam, very dark grayish brown (10YR 3/2) moist; moderate medium granular structure; slightly hard, friable; neutral; clear smooth boundary. (Combined thickness of the A horizon is 25 to 43 cm [10 to 17 in]) 
+
+    BA--33 to 53 cm (13 to 21 in); brown (7.5YR 4/3) loam, dark brown (7.5YR 3/3) moist; moderate fine subangular blocky structure; slightly hard, friable; many fine pores; many wormcasts; slightly alkaline; clear smooth boundary. (Thickness of the BA horizon is 10 to 41 cm [4 to 10 in]) 
+
+    Bt1--53 to 86 cm (21 to 34 in); brown (7.5YR 4/3) clay loam, dark brown (7.5YR 3/3) moist; moderate medium subangular blocky structure; hard, firm; many fine pores; many distinct clay films on surfaces of peds; very slightly effervescent; moderately alkaline; gradual smooth boundary. 
+
+    Bt2--86 to 102 cm (34 to 40 in); brown (7.5YR 5/3) clay loam, brown (7.5YR 4/3) moist; moderate medium subangular blocky structure; hard, firm; many fine pores; many distinct clay films on surfaces of peds; very slightly effervescent; moderately alkaline; gradual smooth boundary. (Combined thickness of the Bt horizon is 36 to 71 cm [14 to 28 in]) 
+
+    BC--102 to 168 cm (40 to 66 in); reddish yellow (7.5YR 6/6) loam, strong brown (7.5YR 5/6) moist; weak coarse prismatic structure; slightly hard, friable; few masses of calcium carbonate; strongly effervescent; moderately alkaline; gradual smooth boundary. (Thickness of the BC horizon is 50 to 75 cm [20 to 30 in]) 
+
+    Ck--168 to 183 cm (66 to 72 in); reddish yellow (5YR 6/6) loam, yellowish red (5YR 5/6) moist; massive; slightly hard, friable; many masses of calcium carbonate; strongly effervescent; moderately alkaline. 
+
+TYPE LOCATION: Tillman County, Oklahoma; about 2-1/2 miles south of Tipton; 1,650 feet south and 150 feet west of the northeast corner of sec. 24, T. 1 S., R. 19 W. 
+
+USGS topographic quadrangle: White Lake, OK 
+Latitude: 34 degrees, 27 minutes, 30.30 seconds N 
+Longitude: 99 degrees, 8 minutes, 12.80 seconds W 
+Datum: NAD83 
+
+Decimal Degrees:
+Latitude: 34.4584167
+Longitude: -99.1368889
+
+UTM Easting: 487427 m 
+UTM Northing: 3812995 m 
+UTM Zone 14N 
+
+RANGE IN CHARACTERISTICS: 
+Thickness of mollic epipedon: 53 to 152 cm (21 to 60 in) 
+Depth to argillic horizon: 25 to 66 cm (10 to 26 in) 
+Depth to secondary carbonates: 53 to 152 cm (21 to 60 in) 
+
+A or Ap horizon: 
+Hue: 5YR to 10YR 
+Value: 3 to 5, 2 to 3 moist 
+Chroma: 2 or 3 dry or moist 
+Texture: fine sandy loam, loam, or silt loam 
+Reaction: slightly acid to slightly alkaline 
+
+BA horizon: 
+Hue: 5YR to 10YR 
+Value: 3 to 5, 2.5 or 3 moist 
+Chroma: 2 or 3 dry or moist 
+Texture: loam, sandy clay loam, or clay loam 
+Reaction: neutral or slightly alkaline 
+
+Bt horizon: 
+Hue: 5YR to 10YR 
+Value: 3 to 6, 2.5 to 5 moist 
+Chroma: 2 to 6 dry or moist 
+Texture: loam, sandy clay loam, or clay loam 
+Clay content: 20 to 35 percent 
+Effervescence: very slight or slight 
+Reaction: neutral to moderately alkaline 
+
+BC horizon: 
+Hue: 5YR or 7.5YR 
+Value: 4 to 7, 4 or 5 moist 
+Chroma: 2 to 6 dry or moist 
+Texture: sandy loam, loam, sandy clay loam, or clay loam 
+Effervescence: very slight or slight
+Reaction: slightly alkaline or moderately alkaline 
+
+Ck or C horizon: 
+Hue: 5YR or 7.5YR 
+Value: 5 to 7, 4 to 6 moist 
+Chroma: 2 to 8 dry or moist 
+Texture: sandy loam, loam, sandy clay loam, or clay loam 
+Mottles: some pedons have a few faint medium mottles of low chroma in the B and C horizons below depths of 102 cm (40 in)
+Other features: some pedons have buried horizons between depths of 91 to 152 cm (36 and 60 in) 
+Effervescence: very slight or slight
+Reaction: moderately alkaline 
+
+COMPETING SERIES: These are the Altus (OK), Cuero (TX), Smithville (TX), and Texroy (TX) series. 
+Altus soils: have fine sandy loam textures in the particle-size control section 
+Cuero and Texroy soils: have a calcic horizon 
+Smithville soils: have mean annual air temperatures greater than 18.8 degrees C (66 F)
+
+GEOGRAPHIC SETTING: 
+Parent material: calcareous loamy and silty alluvium 
+Landscape: river valleys 
+Landform: nearly level to moderately sloping stream terraces 
+Slope: 0 to 8 percent 
+Mean annual precipitation range: 559 to 813 (22 to 32 in) 
+Mean annual temperature range: 14 to 18 C (57 to 64 degrees F) 
+Frost-free period: 185 to 230 days
+Elevation: 305 to 610 m (1000 to 2000 ft) 
+Thornthwaite annual P-E indices: 32 to 44 
+
+GEOGRAPHICALLY ASSOCIATED SOILS: These are the competing Altus soils and the Grandfield, Guadalupe, and Hardeman soils. 
+Altus soils: occur on higher older terraces 
+Grandfield soils: have an ochric epipedon and occur on convex areas 
+Guadalupe soils: have an ochric epipedon and occur in slightly lower areas 
+Hardeman soils: have an ochric epipedon and occur in slightly lower areas near drainageways 
+
+DRAINAGE AND PERMEABILITY: 
+Drainage class: well drained 
+Permeability: moderate 
+Runoff: negligible on 0 to 1 percent slopes, low on 1 to 5 percent, and medium on 5 to 8 percent slopes 
+
+USE AND VEGETATION: Mostly used for cropland. Cotton, alfalfa, and sorghum are the principal crops grown. Native vegetation is grasses, mainly little bluestem, sand bluestem, Indiangrass, switchgrass, sideoats grama, and other grasses. 
+
+DISTRIBUTION AND EXTENT: LRR-H; Central Great Plains Winter Wheat and Range
+Region; Central Rolling Red Plains of Oklahoma, Texas, and Kansas (MLRA 78B, 78C). The series is extensive. 
+
+MLRA SOIL SURVEY REGIONAL OFFICE (MO) RESPONSIBLE: Temple, Texas 
+
+SERIES ESTABLISHED: Tillman County, Oklahoma; 1930. 
+
+REMARKS: 
+Series revised as part of the SDJR initiative, (TMK 2016)
+
+Diagnostic horizons and features recognized in this pedon are: 
+Mollic epipedon: 0 to 86 cm (0 to 34 in) (A, BA, and Bt1 horizons) 
+Argillic horizon: 53 to 102 cm (21 to 40 in) (Bt horizons) 
+
+ADDITIONAL DATA: KSSL data from Tillman County, OK (S67OK-071-001), Lincoln, NE. OSU lab data for Harmon County, OK (80-OK-29-14), Stillwater, OK. 
+
+Taxonomic Version: Keys to Soil Taxonomy, Twelfth, 2014. 
+
+National Cooperative Soil Survey
+U.S.A.

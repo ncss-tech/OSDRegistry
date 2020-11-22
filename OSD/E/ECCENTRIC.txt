@@ -1,0 +1,108 @@
+LOCATION ECCENTRIC              UT
+
+Tentative Series
+SAC/SJJ
+02/2016
+
+ECCENTRIC SERIES
+
+The Eccentric series consists of very deep, excessively drained soils that formed in colluvium or slope alluvium derived from metamorphic and sedimentary rocks.  Eccentric soils are on mountain slopes.  Slopes range from 5 to 70 percent.  Mean annual precipitation is about 660 mm (26 in) and the mean annual temperature is about 6 degrees C. (43 F)
+
+TAXONOMIC CLASS:  Sandy-skeletal, siliceous Ustic Haplocryepts
+
+TYPICAL PEDON:  Eccentric very cobbly loam, on a southwest facing mountain slope, 44 percent slope, in lodgepole pine forestland at an elevation of 2,355 meters (7,725 ft.).  The surface is covered by 25 percent cobbles and 15 percent stones. (Colors are for dry soil unless otherwise noted.)  
+
+    Oi--0 to 5 cm; slightly decomposed needles, twigs and pine cones. (1 to 5 cm thick)
+
+    Oe--5 to 10 cm; moderately decomposed needles and twigs. (1 to 5 cm thick)
+
+    A--10 to 18 cm; brown (7.5YR 4/2) very cobbly loam, dark reddish brown (5YR 2.5/2) moist; moderate very fine granular structure; soft, very friable, non-sticky and non-plastic; common very fine, fine, medium and coarse roots; common very fine and fine tubular pores; 20 percent gravel, 20 percent cobbles, and 5 percent stones; slightly acid (pH 6.3); abrupt irregular boundary.  (3 to 9 cm thick)
+
+    E1--18 to 41 cm; pinkish gray (7.5YR 6/2) extremely cobbly sandy loam, brown (10YR 4/3) moist; moderate fine and very fine subangular blocky structure; slightly hard, very friable, slightly sticky and slightly plastic; many very fine and fine, and common medium roots; common very fine, fine and few medium tubular pores; 35 percent gravel, 20 percent cobbles, and 10 percent stones; slightly acid (pH 6.2); clear wavy boundary. (15 to 23 cm thick) 
+
+    E2--41 to 84 cm; pink (7.5YR 7/4) extremely cobbly loamy sand, strong brown (7.5YR 4/6) moist; massive; soft, very friable, non-sticky and non-plastic; common very fine and fine, and few medium roots; common very fine and fine tubular pores; 35 percent gravel, 20 percent cobbles, and 10 percent stones; slightly acid (pH 6.4); clear wavy boundary. (0 to 26 cm thick) 
+
+    E/Bt--84 to 152 cm; (E part 90%) light brown (7.5YR 6/4) extremely stony sand, strong brown (7.5YR 5/6) moist; massive; soft, very friable, non-sticky and non-plastic; common very fine and few fine roots; few very fine and fine interstitial pores; 15 percent gravel, 20 percent cobbles, and 40 percent stones; neutral (pH 6.6); (Bt part 10%) reddish yellow (5YR 6/6) extremely stony sandy clay loam, yellowish red (5YR 5/8) moist; moderate fine subangular blocky structure; very hard, friable, slightly sticky and slightly plastic; common very fine and few fine roots; common very fine and few fine tubular pores; common distinct clay films on the faces of peds; 15 percent gravel, 20 percent cobbles, and 40 percent stones; neutral (pH 6.6).  (48 to 70 cm thick)
+
+TYPE LOCATION:  Duchesne County, Utah; about 27 kilometers (17 miles)northeast of Altamont, Utah; located about 500 feet N. and 1,030 feet E. of the SW corner of sec. 7, T. 2 N., R. 2 W.; Uintah Meridian; USGS Heller Lake quad; lat. 40 degrees 34 minutes 43 seconds N. and long. 110 degrees 9 minutes 35 seconds W., WGS 84
+
+RANGE IN CHARACTERISTICS:
+The soil moisture regime is Udic, bordering on Ustic. (ustic udic subclass).
+Mean annual soil temperature:  4.5 to 6.5 degrees C (40 to 44 degrees F).
+Thickness of the Ochric epipedon:  43 to 84 cm.
+Thickness of the Cambic horizon (E/Bt): 65 to 106 cm
+
+Particle-size control section: 
+  PSCS Depth: 25 to 100 cm below the mineral soil surface.
+  Weighted Average Clay content:  1 to 7 percent
+  Weighted Average Rock fragments: 60 to 75 percent total; rounded gravel, cobbles, and stones
+
+A horizon:
+Hue:  5YR or 7.5YR 
+Value:  4 to 7 dry, 2.5 to 4 moist
+Chroma:  2 or 3 
+Texture:  very cobbly loam, very cobbly sandy loam, or very cobbly loamy fine sand
+Clay content:  7 to 14 percent
+Rock fragments:  10 to 20 percent gravel, 15 to 25 percent cobbles, and 5 to 15 percent stones
+Reaction:  slightly acid or neutral (pH 6.1 to 6.8)
+
+E horizon:
+Hue:  7.5YR or 10YR 
+Value:  5 to 7 dry, 4 or 5 moist
+Chroma:  2 to 6 
+Texture:  extremely cobbly sand, extremely cobbly loamy sand, very gravelly loamy sand, very cobbly loamy fine sand, and extremely cobbly sandy loam.
+Clay content:  1 to 8 percent
+Rock fragments:  25 to 45 percent gravel, 15 to 20 percent cobbles, and 5 to 10 percent stones
+Reaction:  moderately acid to neutral (pH 5.9 to 6.8)
+
+E/Bt horizon:
+Hue:  5YR or 7.5YR
+Value:  5 to 8 dry, 4 or 5 moist
+Chroma: 4 to 6 
+Texture (E part): extremely stony sand, extremely stony loamy sand, extremely cobbly loamy sand, or extremely cobbly sand.
+Texture (Bt part): extremely stony sandy loam, extremely cobbly sandy clay loam, and extremely stony sandy clay loam. 
+The (E part) of this horizon occupies 85-90 percent of the matrix volume.
+The (Bt part) of this horizon occupies 10-15 percent of the matrix volume.
+Clay content (weighted average): 2 to 9 percent
+Rock fragments:  20 to 35 percent gravel, 15 to 30 percent cobbles, and 5 to 15 percent stones
+Reaction:  neutral (pH 6.6 to 7.0)
+This horizon, when averaged, does not have the absolute percentage clay increase required to qualify as an argillic horizon.  The Bt parts occur in scattered pockets and areas under rock fragments.  By default, this horizon meets the definition of a cambic horizon.
+
+COMPETING SERIES:  This is the Howardsville series.
+Howardsville soils have volcanic parent materials and do not have E/Bt horizons. 
+
+GEOGRAPHIC SETTING:
+Parent material:  colluvium or slope alluvium derived from metamorphic and sedimentary rocks 
+Landform: mountain slopes
+Slopes:  5 to 70 percent
+Elevation:  2,450 to 3,150 meters (8,035 to 10,335 feet)
+Mean annual temperature:  3.5 to 5.5 degrees C (38 to 42 degrees F)
+Mean annual precipitation:  610 to 710 mm (24 to 28 in)
+Precipitation pattern:  Wettest months are October to May and driest months are June to September.  
+Frost-free period:  50 to 70 days.
+
+GEOGRAPHICALLY ASSOCIATED SOILS:  These are the Dromedary, Dokie, and Ledgefork series.  The Dromedary and Duchesne soils are on similar positions and have an argillic horizon.  The Ledgefork soils are on similar positions and have a mollic epipedon.  
+
+DRAINAGE AND PERMEABILITY:  Excessively drained, medium runoff, moderately rapid (15-50 um/sec) over rapid permeability (50-150 um/sec).
+
+USE AND VEGETATION: Eccentric soils are used mainly for forestland and wildlife habitat.  Native vegetation is Lodgepole pine, Letterman needlegrass, Elk sedge, Grouse whortleberry, Mountain lover, and Creeping barberry. 
+
+DISTRIBUTION AND EXTENT:  Central Utah mountains; LRR E, MLRA 47; LRU 47C.  The Series is of small extent.
+
+MLRA SOIL SURVEY REGIONAL OFFICE (MO) RESPONSIBLE:  Bozeman, Montana
+
+SERIES PROPOSED:  Uintah and Ouray Indian Reservation, Utah, 2016.  The name is taken from a local mountain summit, Eccentric Peak.
+
+REMARKS: 
+Diagnostic horizons and features recognized in this pedon are:
+PSCS depth: The zone from 35 to 110 cm. (part of E1, E2 and E/Bt horizon)
+Ochric epipedon:  The zone from 0 to 84 cm.  (Oi, Oe, A, E1, E2)
+Cambic horizon:  The zone from 84 to 152 cm. (E/Bt horizon)
+The E/Bt horizon has a weighted average clay content of 2 to 9 percent, and does not meet the 3 percent absolute clay increase requirement for an argillic horizon.  
+Depending on the clay content in the Bt part, the Bt part would likely need to occupy 25 percent or more by volume of the E/Bt horizon matrix, in order to have the weighted average clay increase needed to qualify as an argillic horizon.
+
+Taxonomic Version:  Classified according to Keys to Soil Taxonomy, Twelfth Edition, 2014.
+
+
+National Cooperative Soil Survey
+U.S.A.

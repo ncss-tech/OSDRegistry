@@ -1,0 +1,127 @@
+LOCATION GEEBARC                OR
+
+Established Series
+IRD. RJO/DAL/KMS
+01/2019
+
+GEEBARC SERIES
+
+Landscape--mountain
+Landform--gravel bars and flood plains of mountain valleys
+Slope--0 to 5 percent
+Parent material--alluvium derived from mixed sources
+Mean annual precipitation--about 790 mm
+Mean annual air temperature--about 5 degrees C
+Depth class--very deep
+Drainage class--somewhat poorly drained
+Soil moisture regime--udic
+Soil temperature regime--cryic
+Soil moisture subclass--oxyaquic
+
+TAXONOMIC CLASS: Sandy-skeletal, mixed Oxyaquic Haplocryolls
+
+TYPICAL PEDON: Geebarc silt loam under conifer forest, on a 0-percent slope at an elevation of 1262 m (Soil textures are apparent field textures.)
+
+ A--0 to 15 cm; silt loam, brown (7.5YR 4/2) dry, very dark brown (7.5YR 2.5/2) moist; moderate medium and fine subangular blocky structure; slightly hard, friable, nonsticky and nonplastic; common very fine and fine and few medium roots; common fine and few medium tubular pores; slightly acid (pH 6.3); clear wavy boundary
+
+ AB--15 to 30 cm; gravelly loamy sand, brown (7.5YR 4/3) dry, very dark brown (7.5YR 2.5/3) moist; weak medium and fine subangular blocky structure; soft, very friable, nonsticky and nonplastic; common very fine and few fine and medium roots; few fine tubular pores; 10 percent gravel and 5 percent cobbles; slightly acid (pH 6.3); clear wavy boundary
+
+ C1--30 to 94 cm; very cobbly loamy sand, brown (7.5YR 4/3) dry, very dark brown (7.5YR 2.5/2) moist; single grain; loose, nonsticky and nonplastic; common very fine and few fine roots; common very fine interstitial pores; 25 percent gravel, 15 percent cobbles, 5 percent stones, and 1 percent boulders; slightly acid (pH 6.5); gradual smooth boundary
+
+ C2--94 to 155 cm; extremely stony loamy sand, brown (7.5YR 4/2) dry, very dark brown (7.5YR 2.5/2) moist; single grain; loose, nonsticky and nonplastic; few very fine and fine roots; many very fine interstitial pores; 30 percent gravel, 25 percent cobbles, 20 percent stones, and 10 percent boulders; slightly acid (pH 6.5)
+
+TYPE LOCATION: Union County, Oregon, in the SW1/4NW1/4SE1/4 of section 3, T. 2 S., R. 40 E.; Gasset Bluff U.S. Geological Survey quadrangle; latitude 45.4179158, longitude - 117.7988201, datum WGS 84 (source of coordinates unknown but most likely estimated from a point on a map)
+
+RANGE IN CHARACTERISTICS:
+Mean annual soil temperature--about 4 to 6 degrees C
+Mean summer soil temperature--about 8 degrees C
+Mean winter soil temperature--about 1 to 3 degrees C
+Soil moisture--dry 25 to 45 consecutive days in summer
+Thickness of mollic epipedon--25 to 40 cm
+
+Particle-size control section
+*Clay content--2 to 6 percent
+*Total rock fragment content--45 to 75 percent
+
+A horizon
+Moist color--7.5YR 2.5/1, 7.5YR 2.5/2, 7.5YR 3/2, 10YR 2/2
+Dry color--7.5YR 4/2, 7.5YR 5/3, 10YR 3/2, 10YR 5/3
+Fine-earth texture--silt loam, sandy loam
+Clay content--5 to 12 percent
+Sand content--30 to 60 percent
+Organic matter content--2 to 6 percent
+Total rock fragment content--0 to 25 percent
+Gravel content--0 to 25 percent
+Cobble content--0 to 10 percent
+Reaction--6.1 to 7.3
+Thickness--8 to 15 cm
+
+AB horizon
+Moist color--7.5YR 2.5/3, 7.5YR 3/2, 10YR 3/2, 10YR 3/3
+Dry color--7.5YR 4/2, 7.5YR 4/3, 7.5YR 5/3, 10YR 4/3, 10YR 5/3
+Fine-earth texture--sandy loam, loamy sand
+Clay content--3 to 10 percent
+Sand content--60 to 85 percent
+Organic matter content--1.5 to 3.5 percent
+Total rock fragment content--15 to 55 percent
+Gravel content--10 to 35 percent
+Cobble content--0 to 15 percent
+Stone content--0 to 5 percent
+Reaction--6.1 to 7.3
+Thickness--15 to 30 cm
+
+C horizon
+Moist color--7.5YR 2.5/2, 7.5YR 3/2, 7.5YR 3/3, 10YR 3/3, 10YR 4/3
+Dry color--7.5YR 4/2, 7.5YR 4/3, 7.5YR 4/4, 7.5YR 5/3, 10YR 5/3, 10YR 6/3
+Fine-earth texture--loamy sand, sand
+Clay content--1 to 5 percent
+Sand content--80 to 95 percent
+Organic matter content--0.3 to 1.0 percent
+Total rock fragment content--45 to 85 percent
+Gravel content--25 to 50 percent
+Cobble content--15 to 30 percent
+Stone content--0 to 30 percent
+Reaction--6.1 to 7.3
+Thickness of C1 horizon--20 to 65 cm
+
+COMPETING SERIES:
+Shewag--ustic soil moisture regime
+
+GEOGRAPHIC SETTING:
+Elevation--1380 to 1620 m
+Climate--cold, wet winters; cool, moist summers
+Mean annual precipitation--480 to 1110 mm
+Mean annual air temperature--4 to 6 degrees C
+Frost-free period--40 to 75 days
+
+GEOGRAPHICALLY ASSOCIATED SOILS:
+Bandarrow--poorly drained; on wet mountain meadows and flood plains; aquic conditions within a depth of 25 to 45 cm; aquic soil moisture regime
+Bodale--well drained; on high terraces of narrow valley floors; cumulic mollic epipedon; less than 15 percent rock fragments in particle-size control section; under subalpine fir and Engelmann spruce forest
+Bucketlake--well drained; on high terraces; thick volcanic ash mantle; udic soil moisture regime; under moist grand fir forest
+
+DRAINAGE AND SATURATED HYDRAULIC CONDUCTIVITY:
+Saturation during normal years--saturated with water, without reduction, within 50 cm of the soil surface 30 days or more during spring runoff
+Flooding--none
+Ponding--none
+Saturated hydraulic conductivity (Ksat)--high in upper part, very high in lower part
+
+USE AND VEGETATION:
+Use--timber production, watershed, wildlife habitat, recreation, livestock grazing
+Native vegetation--Engelmann spruce, subalpine fir, lodgepole pine, gray alder, grand fir, redosier dogwood, prickly currant, sticky currant, baldhip rose, miner's lettuce, drooping woodreed, aster, sweet-scented bedstraw, rose angelica, queencup bead lily, cowparsnip, arrowleaf ragwort, claspleaf twistedstalk
+Plant association--dominantly PIEN/SETR (Engelmann spruce/arrowleaf groundsel); may include PIEN/COST4 (Engelmann spruce/redosier dogwood) and PIEN/EQAR (Engelmann spruce/common horsetail)
+
+DISTRIBUTION AND EXTENT: Wallowa Mountains and central Blue Mountains, Oregon; MLRA 43C; small extent
+
+SOIL SURVEY REGIONAL OFFICE (SSRO) RESPONSIBLE: Portland, Oregon
+
+SERIES ESTABLISHED: Wallowa-Whitman National Forest, Oregon; 2018
+
+REMARKS:
+Diagnostic horizons and other features recognized in this pedon
+*Mollic epipedon--zone from the surface to a depth of 30 cm
+*Particle-size control section--zone from 25 to 100 cm
+
+The Geebarc soils are saturated with water, without reduction, within 50 cm of the soil surface 30 days or more during spring runoff. Although the soils consist of fluvial material, the sand and rock fragments in the lower part are thought to be void of the organic carbon needed to meet the criteria for the fluventic subgroup. Rapid streamflow has removed volcanic glass from the fluvial material.
+
+National Cooperative Soil Survey
+U.S.A.

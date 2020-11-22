@@ -1,0 +1,159 @@
+LOCATION LATIWI                 OR
+
+Tentative Series
+DRJ/KMS
+01/2017
+
+LATIWI SERIES
+
+Landscape--western Cascade Mountains
+Landform--glacially influenced structural benches
+Slope--0 to 60 percent
+Parent material--colluvium derived from igneous rock mixed with till and volcanic ash throughout
+Mean annual precipitation--about 2600 mm
+Mean annual air temperature--about 6 degrees C
+Depth class--very deep
+Drainage class--well drained
+Soil moisture regime--udic
+Soil temperature regime--cryic
+Soil moisture subclass--typic
+
+TAXONOMIC CLASS: Medial-skeletal, amorphic Humic Vitricryands
+
+TYPICAL PEDON: Latiwi gravelly medial loam on a forested, 18-percent slope at an elevation of 1250 m
+
+ Oi--0 to 4 cm; slightly decomposed plant material; clear smooth boundary
+
+ A--4 to 16 cm; gravelly medial loam, dark grayish brown (10YR 4/2) dry, very dark grayish brown (10YR 3/2) moist; moderate medium granular structure; loose, very friable, nonsticky and nonplastic; many very fine, fine, medium, coarse, and very coarse roots; many very fine, fine, medium, coarse, and very coarse pores; 30 percent scoria gravel; strongly acid (pH 5.1); clear wavy boundary
+
+ AB--16 to 39 cm; very cobbly medial sandy loam, brown (10YR 5/3) dry, dark brown (10YR 3/3) moist; moderate medium subangular blocky structure; loose, very friable, nonsticky and nonplastic; many very fine, fine, medium, coarse, and very coarse roots; many very fine, fine, medium, coarse, and very coarse pores; 30 percent andesite gravel, 15 percent andesite cobbles, and 5 percent andesite stones; strongly acid (pH 5.4); gradual wavy boundary
+
+ Bw1--39 to 61 cm; very gravelly medial sandy loam, yellowish brown (10YR 5/4) dry, dark yellowish brown (10YR 3/4) moist; moderate fine subangular blocky structure; soft, very friable, nonsticky and nonplastic; common very fine and fine and many medium, coarse, and very coarse roots; common very fine and fine and many medium, coarse, and very coarse pores; 25 percent andesite gravel, 10 percent andesite cobbles, and 5 percent andesite stones; moderately acid (pH 5.7); gradual wavy boundary
+
+ Bw2--61 to 111 cm; very gravelly medial sandy loam, light yellowish brown (10YR 6/4) dry, dark yellowish brown (10YR 4/4) moist; moderate medium subangular blocky structure; soft, very friable, nonsticky and nonplastic; few very fine and fine, common medium, and many coarse and very coarse roots; common very fine and fine dendritic tubular pores and common very fine and fine and few medium tubular pores; 30 percent andesite gravel and 10 percent andesite cobbles; moderately acid (pH 5.8); diffuse wavy boundary
+
+ BC--111 to 200 cm; very gravelly medial sandy loam, light brown (7.5YR 6/4) dry, brown (7.5YR 4/4) moist; weak medium subangular blocky structure; soft, very friable, nonsticky and nonplastic; few very fine and fine and common medium, coarse, and very coarse roots; ; common very fine, fine, medium, coarse, and very coarse pores; 25 percent andesite gravel and 10 percent andesite cobbles; moderately acid (pH 5.9)
+TYPE LOCATION: Linn County, Oregon, about 47 km east of Sweet Home and 2 km south of the junction of Forest Service Road 15 and OR Highway 20; 135 m south and 230 m east of the northwest corner of section 6, T. 14 S., R. 6 E.; latitude 44.3875556, longitude -122.1455000, datum WGS 84 (coordinates determined with a GPS)
+
+RANGE IN CHARACTERISTICS:
+Dry days--less than 45 consecutive days
+Mean annual soil temperature--4 to 6 degrees C
+Thickness of umbric epipedon--25 to 100 cm (below mineral soil surface)
+Thickness of andic soil properties--greater than 200 cm (below mineral soil surface)
+
+Estimated properties of layers with andic soil properties
+*1/3-bar bulk density--0.6 to 0.9 g/cm3
+*Ammonium oxalate extractable Al +  Fe--2 to 4 percent
+*Phosphate retention--greater than 85 percent
+*0.02- to 2.0-mm fraction--greater than 30 percent
+*Volcanic glass content in 0.02- to 2.0-mm fraction--5 to 30 percent
+*15-bar water retention--less than 30 percent (undried samples), 12 to 15 percent (dried samples)
+
+Particle-size control section
+*Clay content--10 to 18 percent
+*Total fragment content--35 to 60 percent
+
+O horizon
+*Thickness--1 to 10 cm
+
+A horizon
+*Hue--7.5YR, 10YR
+*Value--2 to 3 moist, 3 to 5 dry
+*Chroma--2 or 3 moist or dry
+*Clay content--10 to 18 percent
+*Sand content--35 to 50 percent
+*Total fragment content--15 to 35 percent
+*Gravel content--15 to 35 percent
+*Cobble content--0 to 15 percent
+*Stone content--0 to 5 percent
+*Reaction--4.5 to 5.5
+*Thickness--20 to 36 cm
+
+AB horizon
+*Hue--10YR, 7.5YR
+*Value--3 or 4 moist, 3 to 5 dry
+*Chroma--2 to 4 moist, 3 to 6 dry
+*Fine-earth texture--medial sandy loam, medial loam
+*Clay content--10 to 18 percent
+*Sand content--35 to 60 percent
+*Total fragment content--20 to 50 percent
+*Gravel content--15 to 35 percent
+*Cobble content--5 to 15 percent
+*Stone content--0 to 5 percent
+*Reaction--5.1 to 6.0
+*Thickness--20 to 30 cm
+
+Bw horizon
+*Hue--10YR, 7.5YR
+*Value--3 to 5 moist, 4 to 6 dry
+*Chroma--3 to 6 moist, 4 to 6 dry
+*Fine-earth texture--medial sandy loam, medial loam
+*Clay content--10 to 18 percent
+*Sand content--35 to 60 percent
+*Total fragment content--35 to 60 percent
+*Gravel content--15 to 40 percent
+*Cobble content--10 to 40 percent
+*Stone content--0 to 20 percent
+*Boulder content--0 to 10 percent
+*Reaction--5.1 to 6.0
+*Thickness--50 to 100 cm
+
+BC horizon, and C horizon (where present)
+*Hue--2.5Y, 10YR, 7.5YR
+*Value--4 to 6 moist or dry
+*Chroma--3 to 6 moist, 4 to 6 dry
+*Fine-earth texture--medial sandy loam, medial loam
+*Clay content--10 to 18 percent
+*Sand content--35 to 60 percent
+*Total fragment content--35 to 65 percent
+*Gravel content--20 to 45 percent
+*Cobble content--10 to 40 percent
+*Stone content--0 to 20 percent
+*Boulder content--0 to 10 percent
+*Reaction--5.0 to 6.0
+
+COMPETING SERIES: None
+
+GEOGRAPHIC SETTING:
+Elevation--1100 to 1500 m
+Climate--cool, dry summers; cold, wet winters
+Mean annual precipitation--2300 to 2900 mm
+Mean annual air temperature--5.0 to 7.5 degrees C
+Frost-free period--60 to 105 days
+
+GEOGRAPHICALLY ASSOCIATED SOILS:
+Soapgrass--less than 35 percent rock fragments; in concave positions
+Fernview--frigid soil temperature regime; in similar positions
+
+DRAINAGE AND SATURATED HYDRAULIC CONDUCTIVITY:
+Drainage class--well drained
+Saturation during normal years--none within profile
+Flooding--none
+Ponding--none
+Saturated hydraulic conductivity (Ksat)--high
+
+USE AND VEGETATION:
+Use--watershed, recreation, wildlife habitat, timber production
+Potential natural vegetation--Douglas-fir, western hemlock, Pacific silver fir, noble fir, Pacific rhododendron, Cascade Oregon grape, Alaska blueberry, bunchberry dogwood, starry false lily of the valley, beargrass, twinflower
+
+DISTRIBUTION AND EXTENT: Central western Cascade Mountains, Oregon; MLRA 3; small extent
+
+MLRA SOIL SURVEY REGIONAL OFFICE (MO) RESPONSIBLE: Portland, Oregon
+
+SERIES PROPOSED: Willamette National Forest, Linn County, Oregon; name from Latiwi Mountain in Linn County
+
+REMARKS:
+Diagnostic horizons and other features recognized in this pedon
+*Particle-size control section--zone from 4 to 104 cm
+*Umbric epipedon--zone from 4 to 39 cm
+*Cambic horizon--zone from 39 to 200 cm
+*Andic soil properties--zone from 4 to 200 cm
+*Volcanic glass--zone from 4 to 200 cm
+
+06/2016--Assumed to meet criteria 2 (no ash required) for andic soil properties, in the 12th edition of Keys to Soil Taxonomy. It is also assumed that enough ash is present for the soils to meet criteria 3. Additional lab data is needed to confirm the degree of ash influence.
+Some areas of Latiwi soils may have dense till at a depth of 100 to 150 cm.
+
+ADDITIONAL DATA: Type location user site ID--2013OR043009
+
+National Cooperative Soil Survey
+U.S.A.

@@ -1,0 +1,120 @@
+LOCATION ELKHORNCREST           OR
+
+Established Series
+IRD. RJO/DAL/KMS
+01/2019
+
+ELKHORNCREST SERIES
+
+Landscape--mountains
+Landform--ridges, mountain slopes
+Slope--0 to 90 percent
+Parent material--colluvium derived from granite with an influence of volcanic ash throughout Mean annual precipitation--about 960 mm
+Mean annual air temperature--about 2 degrees C
+Depth class--shallow to lithic bedrock
+Drainage class--well drained
+Soil moisture regime--udic
+Soil temperature regime--cryic
+Soil moisture subclass--typic
+
+TAXONOMIC CLASS: Loamy-skeletal, isotic Lithic Dystrocryepts
+
+TYPICAL PEDON: Elkhorncrest very cobbly ashy sandy loam in an area of woodland, on a 55-percent, north-facing slope at an elevation of 2243 m
+
+ A--0 to 13 cm; very cobbly ashy sandy loam, brown (10YR 4/3) dry, very dark brown (10YR 2/2) moist; weak fine granular structure; soft, very friable, nonsticky and nonplastic; many fine and very fine and few medium roots throughout; common very fine and few fine irregular pores; 25 percent gravel, 20 percent cobbles, and 10 percent stones; strongly acid (pH 5.5); clear wavy boundary
+
+ Bw--13 to 38 cm; extremely stony ashy sandy loam, yellowish brown (10YR 5/4) dry, dark yellowish brown (10YR 3/4) moist; weak very fine subangular blocky structure; loose, very friable; nonsticky and nonplastic; common very fine and fine and few medium roots throughout; common very fine irregular pores; 30 percent gravel, 25 percent cobbles, and 20 percent stones; moderately acid (pH 5.8); abrupt irregular boundary
+
+ 2R--38 cm; granite
+
+TYPE LOCATION: Union County, Oregon; in the NE1/4NW1/4SE1/4 of section 11, T. 5 S., R. 42 E.; China Cap U.S. Geological Survey quadrangle; latitude 45.1435058, longitude -117.5271715, datum WGS84 (coordinates estimated from a point on hard copy map)
+
+RANGE IN CHARACTERISTICS:
+Mean annual soil temperature--about 1 to 2 degrees C
+Mean summer soil temperature--about 4 to 5 degrees C
+Mean winter soil temperature--about -3 to -1 degree C
+Soil moisture control section--dry 30 to 45 consecutive days in summer
+Depth to lithic contact--25 to 50 cm
+Thickness of ash-influenced layers--25 to 50 cm
+
+Estimated properties of layers influenced by volcanic ash
+*Ammonium oxalate extractable Al + 1/2 Fe--0.7 to 1.0 percent
+*Glass content in 0.02- to 2.0-mm fraction--5 to 25 percent
+
+Particle-size control section
+*Clay content--3 to 10 percent
+*Total rock fragment content--60 to 85 percent
+
+A horizon
+Moist color--7.5YR 3/2, 10YR 2/2, 10YR 3/3
+Dry color--7.5YR 4/2, 10YR 4/3, 10YR 4/4
+Fine-earth texture--ashy sandy loam
+Clay content--4 to 10 percent
+Sand content--60 to 70 percent
+Organic matter content--2 to 4 percent
+Total rock fragment content--55 to 85 percent
+Gravel content--20 to 35 percent
+Cobble content--15 to 35 percent
+Stone content--5 to 25 percent
+Reaction--5.1 to 6.0
+Thickness--8 to 18 cm
+
+Bw horizon
+Moist color--7.5YR 3/4, 10YR 3/4
+Dry color--10YR 4/4, 10YR 5/3, 10YR 5/4
+Fine-earth texture--ashy sandy loam, ashy loamy sand
+Clay content--3 to 10 percent
+Sand content--60 to 80 percent
+Organic matter content--0.5 to 2 percent
+Total rock fragment content--60 to 85 percent
+Gravel content--20 to 35 percent
+Cobble content--40 to 40 percent
+Stone content--10 to 30 percent
+Reaction--5.1 to 6.0
+Thickness--18 to 35 cm
+
+COMPETING SERIES:
+Discovery--andic subgroup properties in upper 10 to 25 cm of solum; dry 0 to 30 days in summer (udic bordering on perudic soil moisture regime)
+Luckiamute--18 to 35 percent clay in particle-size control section
+Shanty--xeric soil moisture regime; dry 45 to 60 days in summer
+Whitecross--10 to 18 percent clay in particle-size control section; no vitrandic properties
+Winberry--10 to 18 percent clay in particle-size control section
+
+GEOGRAPHIC SETTING:
+Elevation--1720 to 2380 m
+Climate--cold, wet winters; cool, moist summers
+Mean annual precipitation--650 to 1440 mm
+Mean annual air temperature--  -1 to 5 degrees C
+Frost-free period--10 to 50 days
+
+GEOGRAPHICALLY ASSOCIATED SOILS:
+Mudlakebasin--on glacial valley floors and in cirque basins; moderately deep; ash mantle more than 35 cm thick
+Prouty--on planer to concave backslopes; under subalpine fir forest; moderately deep to paralithic contact
+
+DRAINAGE AND SATURATED HYDRAULIC CONDUCTIVITY:
+Saturation during normal years--none
+Flooding--none
+Ponding--none
+Saturated hydraulic conductivity (Ksat)--high
+
+USE AND VEGETATION:
+Use--timber production, watershed, wildlife habitat, livestock grazing, recreation
+Potential native vegetation--subalpine fir, Engelmann spruce, lodgepole pine, whitebark pine, lupine, grouse huckleberry, elk sedge, mountain big sagebrush, heartleaf arnica, western needlegrass, darkwoods violet, woolly sunflower, sidebells wintergreen, Utah honeysuckle, sweetcicely, skunk-leaved polemonium, prince's pine
+Plant association--dominantly ABLA/VASC/POPU3 (subalpine fir/grouse huckleberry/skunk-leaved polemonium); may include ABLA-PIAL/POPU3 (subalpine fir-whitebark pine/skunk-leaved polemonium)
+
+DISTRIBUTION AND EXTENT: Blue Mountains of northeastern Oregon; MLRA 43C; small extent
+
+SOIL SURVEY REGIONAL OFFICE (SSRO) RESPONSIBLE: Portland, Oregon
+
+SERIES ESTABLISHED: Wallowa-Whitman National Forest, Oregon; 2018
+
+REMARKS:
+Diagnostic horizons and other features recognized in this pedon
+*Ochric epipedon
+*Cambic horizon--zone from 13 to 38 cm
+*Volcanic glass--zone from the surface to a depth of 38 cm
+*Particle-size control section--zone from 25 to 38 cm
+*Depth to lithic contact--38 cm
+
+National Cooperative Soil Survey
+U.S.A.

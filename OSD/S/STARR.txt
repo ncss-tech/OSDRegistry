@@ -1,0 +1,76 @@
+LOCATION STARR                  SC+AL GA NC VA
+
+Established Series
+Rev. BNS
+07/1999
+
+STARR SERIES
+
+The Starr series consists of very deep, well drained, moderately permeable, loamy soils that formed in Piedmont alluvium.  Slopes range from 0 to 8 percent.
+
+TAXONOMIC CLASS: Fine-loamy, mixed, semiactive, thermic Fluventic Dystrudepts
+
+TYPICAL PEDON:  Starr loam--forested.  (Colors are for moist soil.)
+
+     Ap--0 to 10 inches; dark reddish brown (5YR 3/4) loam; moderate medium granular structure; very friable; many coarse and medium roots; many large pores; slightly acid; abrupt smooth boundary.  (6 to 10 inches thick)
+
+     Bw1--10 to 30 inches; dark red (2.5YR 3/6) clay loam; weak medium subangular blocky structure; friable; many fine roots; many fine and medium pores; few fine flakes of mica; moderately acid; clear wavy boundary.  (5 to 30 inches thick)
+
+   Bw2--30 to 42 inches; dark red (2.5YR 3/6) clay loam; weak medium subangular blocky structure; friable; few fine roots; few medium pores; few fine flakes of mica; moderately acid; clear wavy boundary.  (5 to 15 inches thick)
+
+   Bw3--42 to 53 inches; yellowish red (5YR 4/8) clay loam; weak medium subangular blocky structure; friable; few fine roots; few fine and medium pores; slightly acid; gradual wavy boundary.  (6 to 16 inches thick)
+
+   2C--53 to 70 inches; red (2.5YR 4/6) and yellowish red (5YR 4/8) gravelly sandy loam, 30 percent pebbles, 0.2 to 3 inches; massive; friable; slightly acid.
+
+TYPE LOCATION:  Pickens County, South Carolina; 5 miles northwest of Clemson, 800 feet southwest of Lawrence Chapel Church.
+
+RANGE IN CHARACTERISTICS:  Solum thickness ranges from 30 to more than 60 inches.  The soil is strongly acid to slightly acid throughout the profile.  Some pedons have a lithologic discontinuity or a buried horizon at depths of 40 inches or more that commonly is separated from the overlying horizon by a stone line.  Content of rock fragments ranges from 0 to 7 percent in the A and B horizons and to as much as 35 percent in the C or 2C horizon.
+
+The A or Ap horizon has hue of 2.5YR to 10YR, value of 3 to 5, and chroma of 2 to 6.  It is loam, silt loam, silty clay loam, fine sandy loam, sandy loam, or sandy clay loam.
+
+The Bw horizon has hue of 2.5YR to 7.5YR, value of 3 to 5, and chroma of 3 to 8.  It is clay loam, sandy clay loam, silty clay loam, or loam.
+
+The 2C horizon or, where present, the C horizon has hue in shades of red to brown or it is mottled in these colors.  It is sandy loam, sandy clay loam, clay loam, in the fine-earth fraction.
+
+COMPETING SERIES:  Riverview series is the only other known series in this family.  Riverview soils have a browner or yellower hue.  Cartecay, Chewacla, Congaree, Ochlockonee, and Toccoa series are similar soils in other families.  Cartecay and Chewacla soils have wetness mottles of chroma 2 or less.  Congaree soils do not have a cambic horizon.  Ochlockonee and Toccoa soils have a coarse-loamy particle-size control section.
+
+GEOGRAPHIC SETTING:  Starr soils are in slight depressions, around drain heads, on terraces and on foot slopes or fans.  The soils receive runoff from adjacent higher slopes.  Slopes are commonly 0 to 8 percent.  Most areas are 1 to 20 acres  in size.  The soil formed in recent local alluvium eroded mostly from upland residual Piedmont soils.  Average annual precipitation is about 50 inches, average annual air temperature is about 61 degrees F. and the freeze-free season is 200 to 240 days.
+
+GEOGRAPHICALLY ASSOCIATED SOILS:  These are Cecil, Davidson, Gwinnett, Lloyd, Mecklenburg, Musella, and Pacolet series.  All of these associated soils are on surrounding uplands, have argillic horizons, and are not subject to flooding.
+
+DRAINAGE AND PERMEABILITY:  Well drained; slow runoff; moderate permeability.
+
+USE AND VEGETATION:  Mostly cleared and used for growing cotton, corn, small grain, soybeans, and pasture.  Some areas are in pine with scattered hardwood.
+
+DISTRIBUTION AND EXTENT:  Piedmont of South Carolina, North Carolina, Virginia, Georgia, and Alabama.  The series is of small extent.
+
+MLRA SOIL SURVEY REGIONAL OFFICE (MO) RESPONSIBLE: Raleigh, North Carolina
+
+SERIES ESTABLISHED:  Green County, Georgia; 1939.
+
+REMARKS:  These soils are presently Fluventic Dystrochrepts.  The landform position where these soils have been correlated has been dominantly foot slopes and upland depressions.  The material washed from surrounding uplands has the clay increase that qualifies as an argillic horizon.  The original type location from Pickens County, South Carolina was described in 1963 as having clay films in the B horizon.
+
+TABULAR SERIES DATA:
+
+SOI-5  Soil Name   Slope  Airtemp FrFr/Seas Precip  Elevation
+SC0072 STARR       0-  8   59- 63  200-240  48- 52   400-1400 
+
+SOI-5  FloodL FloodH Watertable Kind   Months  Bedrock Hardness
+SC0072 RARE   OCCAS  6.0-6.0              -     60-60        
+
+SOI-5  Depth  Texture                3-Inch  No-10  Clay%   -CEC-
+SC0072  0-10  SL FSL                  0-  0  90-100  8-20  17- 22
+SC0072  0-10  L                       0-  0  90-100 10-25  17- 22
+SC0072  0-10  SIL SICL SCL            0-  0  90-100 15-35  17- 22
+SC0072 10-53  CL SCL SICL             0-  0  95-100 18-35  15- 20
+SC0072 53-70  GR-SL SCL CL            0- 10  50- 70 10-35   9- 14
+
+SOI-5  Depth    -pH-     O.M.  Salin  Permeab   Shnk-Swll
+SC0072  0-10  5.1- 6.5  .5-2.  0- 0   2.0- 6.0  LOW      
+SC0072  0-10  5.1- 6.5  .5-2.  0- 0   2.0- 6.0  LOW      
+SC0072  0-10  5.1- 6.5  .5-2.  0- 0   0.6- 2.0  MODERATE 
+SC0072 10-53  5.1- 6.5  .5-1.  0- 0   0.6- 2.0  MODERATE 
+SC0072 53-70  5.1- 6.5  .5-1.  0- 0   0.6- 2.0  LOW      
+
+National Cooperative Soil Survey
+U.S.A.

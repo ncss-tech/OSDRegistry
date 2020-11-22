@@ -1,0 +1,137 @@
+LOCATION LEESPEAK               OR
+
+Established Series
+IRD. RJO/JLW/DAL/KMS
+01/2019
+
+LEESPEAK SERIES
+
+Landscape--mountains
+Landform--mountain slopes
+Slope--60 to 90 percent
+Parent material--colluvium derived from granite with an influence of volcanic ash in the upper part
+Mean annual precipitation--about 880 mm
+Mean annual air temperature--about 2 degrees C
+Depth class--moderately deep to lithic bedrock
+Drainage class--well drained
+Soil moisture regime--xeric
+Soil temperature regime--cryic
+Soil moisture subclass--typic
+
+TAXONOMIC CLASS: Loamy-skeletal, isotic Vitrixerandic Humicryepts
+
+TYPICAL PEDON: Leespeak gravelly ashy sandy loam in an area of rangeland, on a 65-percent, south-facing slope at an elevation of 2100 m (Soil textures are apparent field textures.)
+
+ A--0 to 25 cm; gravelly ashy sandy loam, brown (10YR 4/3) dry, very dark brown (10YR 2/2) moist; weak very fine granular structure; loose, very friable, nonsticky and nonplastic; many very fine and fine and few medium roots; common fine and few medium irregular pores; 25 percent gravel; slightly acid (pH 6.3); gradual smooth boundary
+
+ AB--25 to 41 cm; very gravelly ashy sandy loam, brown (10YR 4/3) dry, dark brown (10YR 3/3) moist; weak medium and fine granular structure; soft, very friable, nonsticky and nonplastic; common very fine, fine, and medium roots throughout; few fine irregular and tubular pores; 35 percent gravel; slightly acid (pH 6.4); gradual smooth boundary
+
+ 2Bw--41 to 94 cm; very gravelly sandy loam, brown (10YR 5/3) dry, dark brown (10YR 3/3) moist; weak very fine subangular blocky structure; soft, very friable, nonsticky and nonplastic; common very fine and few fine roots throughout; few fine tubular pores; 45 percent gravel and 5 percent cobbles; slightly acid (pH 6.4); abrupt irregular boundary
+
+ 2R--94 cm; granite
+
+TYPE LOCATION: Baker County, Oregon, about 58 m north and 233 m west of the southeast corner of section 1, T. 6 S., R. 43 E.; Bennett Peak U.S. Geological Survey quadrangle; latitude 45.0651721, longitude -117.3848511, datum WGS 84 (coordinates and PLSS details estimated from a point on a hard copy map)
+
+RANGE IN CHARACTERISTICS:
+Mean annual soil temperature--about 1 to 4 degrees C
+Mean summer soil temperature--about 4 to 8 degrees C
+Mean winter soil temperature--about -3 to 2 degrees C
+Soil moisture--dry 45 to 60 consecutive days in summer
+Thickness of umbric epipedon--50 to 100 cm
+Depth to lithic contact--50 to 100 cm
+Thickness of ash-influenced layers--35 to 70 cm
+
+Estimated properties of layers influenced by volcanic ash
+*Ammonium oxalate extractable Al + 1/2 Fe--0.7 to 1.0 percent
+*Glass content in 0.02- to 2.0-mm fraction--5 to 25 percent
+
+Particle-size control section
+*Clay content--3 to 10 percent
+*Total rock fragment content--35 to 55 percent
+
+A horizon
+Moist color--7.5YR 3/2, 7.5YR 3/3, 10YR 2/2, 10YR 3/2, 10YR 3/3
+Dry color--7.5YR 5/4, 10YR 4/3, 10YR 5/3
+Fine-earth texture--ashy silt loam, ashy sandy loam, ashy loam
+Clay content--2 to 10 percent
+Sand content--35 to 60 percent
+Organic matter content--2 to 6 percent
+Total rock fragment content--25 to 50 percent
+Gravel content--15 to 50 percent
+Cobble content--0 to 15 percent
+Stone content--0 to 10 percent
+Reaction--5.6 to 6.5
+Base saturation (NH4OAc)--40 to 50 percent
+Thickness--18 to 35 cm
+
+AB horizon
+Moist color--7.5YR 3/3, 10YR 2/2, 10YR 3/3
+Dry color--7.5YR 3/2, 7.5YR 4/4, 7.5YR 5/4, 10YR 4/3, 10YR 4/4, 10YR 5/3, 10YR 5/4
+Fine-earth texture--ashy silt loam, ashy sandy loam, ashy loam
+Clay content--3 to 10 percent
+Sand content--35 to 70 percent
+Organic matter content--1 to 3 percent
+Total rock fragment content--35 to 55 percent
+Gravel content--15 to 40 percent
+Cobble content--0 to 20 percent
+Stone content--0 to 20 percent
+Reaction--5.6 to 6.5
+Base saturation (NH4OAc)--40 to 50 percent
+Thickness--15 to 40 cm
+
+Bw horizon, or BA horizon (where present)
+Moist color--7.5YR 3/3, 10YR 3/3
+Dry color--7.5YR 5/4, 10YR 4/4, 10YR 5/4
+Fine-earth texture--sandy loam, loamy sand
+Clay content--3 to 8 percent
+Sand content--70 to 85 percent
+Organic matter content--0.5 to 2.0 percent
+Total rock fragment content--35 to 55 percent
+Gravel content--25 to 45 percent
+Cobble content--0 to 15 percent
+Stone content--0 to 15 percent
+Reaction--5.6 to 6.5
+Base saturation (NH4OAc)--25 to 50 percent
+Thickness--13 to 45 cm
+
+COMPETING SERIES:
+Dollarlake--no lithic contact within a depth of more than 150 cm; base saturation (NH4OAc) 50 percent or more in more than one-half of thickness between depths of 25 and 75 cm (eutric); rounded or subrounded basalt till fragments
+Fruitcreek (T)--base saturation (NH4OAc) 50 percent or more in more than one-half of thickness between depths of 25 and 75 cm (eutric); angular argillite and metasedimentary colluvium fragments
+Granitemountain (T)--no lithic contact within a depth of more than 150 cm
+
+GEOGRAPHIC SETTING:
+Elevation--2170 to 2460 m
+Climate--cold, wet winters; cool, dry summers
+Mean annual precipitation--770 to 990 mm
+Mean annual air temperature--0 to 3 degrees C
+Frost-free period--20 to 60 days
+
+GEOGRAPHICALLY ASSOCIATED SOILS:
+Rockcreekbutte--on steep, convex backslopes and shoulders; under open subalpine fir and whitebark pine forest
+
+DRAINAGE AND SATURATED HYDRAULIC CONDUCTIVITY:
+Saturation during normal years--none
+Flooding--none
+Ponding--none
+Saturated hydraulic conductivity (Ksat)--high
+
+USE AND VEGETATION:
+Use--watershed, wildlife habitat, recreation, livestock grazing
+Native vegetation-- elk sedge, mountain big sagebrush, phlox, sandwort, western needlegrass, buckwheat, white hawkweed, mountain brome, common yarrow, mountain snowberry
+Plant association--dominantly FEVI/LULA2; may include ARTRV/CAGE and ARTRV/FEID
+
+DISTRIBUTION AND EXTENT: Blue Mountains of northeastern Oregon; MLRA 43C; small extent
+
+SOIL SURVEY REGIONAL OFFICE (SSRO) RESPONSIBLE: Portland, Oregon
+
+SERIES ESTABLISHED: Wallowa-Whitman National Forest, Oregon; 2018
+
+REMARKS:
+Diagnostic horizons and other features recognized in this pedon
+*Umbric epipedon--zone from the surface to a depth of 94 cm
+*Particle-size control section--zone from 25 to 94 cm
+*Volcanic glass--zone from the surface to a depth of 41 cm
+*Low base saturation (dystric)--zone from the surface to a depth of 94 cm; less than 50 percent throughout profile
+
+National Cooperative Soil Survey
+U.S.A.

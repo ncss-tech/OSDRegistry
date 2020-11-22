@@ -1,0 +1,136 @@
+LOCATION ELBOWCREEK             OR
+
+Established Series
+Rev. RLW/KMS
+11/2018
+
+ELBOWCREEK SERIES
+
+Landscape--mountains
+Landform--plateaus
+Slope--0 to 15 percent
+Parent material--thick mantle of volcanic ash over lacustrine deposits
+Mean annual precipitation--about 730 mm
+Mean annual air temperature--about 6 degrees C
+Depth class--very deep
+Drainage class--well drained
+Soil moisture regime--udic
+Soil temperature regime--frigid
+Soil moisture subclass--typic
+
+TAXONOMIC CLASS: Ashy over loamy, amorphic over isotic, frigid Alfic Udivitrands
+
+TYPICAL PEDON: Elbowcreek ashy silt loam, forested
+
+ Oi--0 to 3 cm
+
+ A--3 to 15 cm; ashy silt loam, brown (7.5YR 5/3) dry, dark brown (7.5YR 3/3) moist; weak medium subangular blocky structure parting to weak fine subangular blocky; soft, friable, nonsticky and nonplastic; common very fine and fine roots throughout; common very fine and fine irregular pores; 1 percent gravel; neutral (pH 6.7); clear wavy boundary
+
+ Bw1--15 to 43 cm; ashy silt loam, light brown (7.5YR 6/3) dry, brown (7.5YR 4/3) moist; weak fine subangular blocky structure; soft, very friable, nonsticky and nonplastic; common very fine, fine, and medium roots throughout; common very fine irregular pores; 1 percent gravel; slightly acid (pH 6.5); clear wavy boundary
+
+ Bw2--43 to 58 cm; ashy silt loam, light yellowish brown (10YR 6/4) dry, dark yellowish brown (10YR 4/4) moist; weak fine subangular blocky structure; soft, very friable, nonsticky and nonplastic; common very fine, fine, medium, and coarse roots throughout; common very fine interstitial pores; 1 percent gravel; slightly acid (pH 6.4); abrupt wavy boundary 
+
+ 2Bwb--58 to 76 cm; silt loam, light brown (7.5YR 6/3) dry, brown (7.5YR 4/3) moist; weak medium subangular blocky structure; slightly hard, friable, slightly sticky and slightly plastic; common very fine, fine, and medium roots throughout; common very fine interstitial and tubular pores; 3 percent gravel; slightly acid (pH 6.1); clear wavy boundary
+
+ 2Btb1--76 to 119 cm; silt loam, pale brown (10YR 6/3) dry, brown (10YR 4/3) moist; moderate medium subangular blocky structure; moderately hard, friable, moderately sticky and moderately plastic; common fine and medium roots throughout; common very fine tubular and irregular pores; 1 percent faint clay bodies on faces of peds; slightly acid (pH 6.1); clear smooth boundary 
+
+ 2Btb2--119 to 386 cm; silty clay loam, pale brown (10YR 6/3) dry, brown (10YR 4/3) moist; moderate medium angular blocky structure; moderately hard, firm, moderately sticky and moderately plastic; common fine roots between peds; common very fine tubular and irregular pores; 15 percent distinct clay bodies on faces of peds; slightly acid (pH 6.1)
+
+TYPE LOCATION: Wallowa County, Oregon; about 675 m west and 440 m south of the northeast corner of section 1, T. 5 N., R. 41 E., latitude 45.9444695, longitude -117.6340942, datum WGS 84 (source of coordinates unknown but most likely determined from a GPS)
+
+RANGE IN CHARACTERISTICS: 
+Mean annual soil temperature--4 to 8 degrees C
+Soil moisture--dry 30 to 45 consecutive days following summer solstice
+Layers influenced by volcanic ash--36 to 75 cm below mineral soil surface
+
+Estimated properties of layers influenced by volcanic ash
+*Ammonium oxalate extractable Al + 1/2 Fe--0.4 to 1.0 percent
+*Phosphate retention--25 to 50 percent
+*15-bar water retention--less than 30 percent (undried samples), 5 to 10 percent (dried samples)
+*0.02- to 2.0-mm fraction--60 to 80 percent
+*Glass content in 0.02- to 2.0-mm fraction--25 to 45 percent
+
+Particle-size control section
+*Upper part--4 to 8 percent clay; 1 percent total rock fragments
+*Lower part--15 to 30 percent clay; 0 to 5 percent total rock fragments
+
+A horizon
+Fine-earth texture--ashy silt loam
+Clay content--4 to 9 percent
+Sand content--30 to 40 percent
+Organic matter content--1.0 to 4.5 percent
+Total rock fragment content--1 percent
+Gravel content--1 percent 
+Reaction--6.1 to 7.3
+
+Bw horizon
+Fine-earth texture--ashy silt loam
+Clay content--5 to 8 percent
+Sand content--30 to 40 percent
+Organic matter content--0.5 to 2.5 percent
+Total rock fragment content--1 percent
+Gravel content--1 percent
+Reaction--6.1 to 7.3
+
+2Bwb horizon
+Fine-earth texture--silt loam
+Clay content--15 to 19 percent
+Sand content--3 to 15 percent
+Total rock fragment content--1 to 5 percent
+Gravel content--1 to 5 percent
+Organic matter content--0 to 2 percent
+Reaction--6.1 to 7.3
+
+2Btb horizon
+Fine-earth texture--silt loam, silty clay loam
+Clay content--18 to 28 percent
+Sand content--5 to 10 percent
+Total rock fragment content--0 to 10 percent
+Gravel content--0 to 10 percent
+Organic matter content--0 to 2 percent
+Reaction--6.1 to 7.3
+
+COMPETING SERIES:
+Dowper--0 to 75 percent pararock fragments in substratum
+Jacot--loamy sand and sand in substratum
+Mackatie--paralithic contact at a depth of 100 to 150 cm (deep)
+Secunda--loamy sand and sand in substratum
+Tamara--as much as 30 percent rock fragments in substratum
+Tomodo--fragic properties in substratum
+Turpentine--paralithic contact at a depth of 100 to 150 cm (deep)
+
+GEOGRAPHIC SETTING:
+Elevation--850 to 1520 m
+Climate--cool, wet winters; hot, dry summers
+Mean annual precipitation--530 to 990 mm
+Mean annual temperature--5 to 7 degrees C
+Frost-free season--40 to 150 days
+
+GEOGRAPHICALLY ASSOCIATED SOILS: None given
+
+DRAINAGE AND SATURATED HYDRAULIC CONDUCTIVITY:
+Saturation during normal years--none
+Flooding--none
+Ponding--none
+Saturated hydraulic conductivity (Ksat)--moderately high
+
+USE AND VEGETATION:
+Use--timber production, wildlife habitat, water supply, livestock grazing
+Potential natural vegetation--grand fir, northern twinflower, big huckleberry, Engelmann spruce, Douglas-fir, queencup bead lily, pathfinder, heartleaf arnica, starry false Solomon's seal, darkwoods violet, western meadow-rue, prince's pine, western larch, Utah honeysuckle, sweetcicely, baldhip rose, Columbia brome, Ross' sedge, roughfruit fairybells, woodland strawberry
+
+DISTRIBUTION AND EXTENT: Blue Mountains in eastern Oregon; MLRA 10; small extent
+
+SOIL SURVEY REGIONAL OFFICE (SSRO) RESPONSIBLE: Portland, Oregon
+
+SERIES ESTABLISHED: Wallowa-Whitman National Forest, Oregon; 2018
+
+REMARKS:
+Diagnostic horizons and other features recognized in this pedon
+*Argillic horizon--zone from 76 to 386 cm
+*Volcanic glass--zone from 3 to 58 cm
+*Andic soil properties--zone from 3 to 58 cm
+*Particle-size control section--zone from 3 to 103 cm
+*Depth to lithologic discontinuity--58 cm
+
+National Cooperative Soil Survey
+U.S.A.

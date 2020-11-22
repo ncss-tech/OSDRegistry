@@ -1,0 +1,127 @@
+LOCATION MELFA                  VA
+
+Established Series
+Rev. CDP-RLH
+07/1999
+
+MELFA SERIES
+
+The Melfa series consists of very deep, very poorly drained soils with moderately rapid permeability on brackish marshes.  The soils formed in loamy and sandy alluvial sediments.  Slopes range from 0 to 2 percent.  Mean annual precipitation is about 42 inches, and mean annual temperature is about 59 degrees F.
+
+TAXONOMIC CLASS: Coarse-loamy, mixed, active, nonacid, thermic Mollic Fluvaquents
+
+TYPICAL PEDON:  Melfa sandy loam - on a 1 percent slope in a black needlerush marsh.
+
+    Oe--0 to 6 inches, black (10YR 2/1 broken face and rubbed) hemic material; massive; estimated 30 percent fiber, 20 percent rubbed; massive; mostly herbaceous fiber; about 60 percent mineral matter; n- value > 0.7 (flows easily through fingers when squeezed); EC 25 dS/m; Soluble cations 277 cmol(+)/liter; SAR 45; many fine and medium roots; moderately acid; abrupt smooth boundary. (1 to 7 inches thick)
+
+    A--6 to 13 inches, very dark gray (10YR 3/1) sandy loam; weak fine granular structure; slightly sticky, slightly plastic; n-value > 0.7 (flows with difficulty through fingers when squeezed); EC 25 dS/m; Soluble cations 277 cmol (+)/liter; SAR 45; many fine and medium roots; moderately acid; clear smooth boundary.  (6 to 10 inches thick)
+
+    Cg1--13 to 26 inches, dark gray (5Y 4/1) sandy loam; massive; slightly sticky, slightly plastic; n-value < 0.7 (does not flow through fingers when squeezed); EC 23 dS/m; Soluble cations 252 cmol (+)/liter; SAR 48; few fine and medium roots; slightly acid; diffuse smooth boundary.
+
+    Cg2--26 to 40 inches, gray (5Y 5/1) sandy loam; massive; slightly sticky, slightly plastic; n-value < 0.7 (does not flow through fingers when squeezed); EC 19 dS/m; Soluble cations 209 cmol (+)/liter; SAR 42; few fine and medium roots; strongly acid; gradual smooth boundary.
+
+    Cg3--40 to 50 inches, dark gray (5Y 4/1) sandy loam; massive; slightly sticky, slightly plastic; n-value < 0.7 (does not flow through fingers when squeezed); few fine and medium roots; 5 percent gravel; strongly acid; diffuse smooth boundary.
+
+    Cg4--50 to 85 inches, light gray (5Y 6/1) coarse sand; common medium prominent light yellowish brown (2.5Y 6/4) mottles; massive; nonsticky, nonplastic; n-value < 0.7 (does not flow through fingers when squeezed); few fine and medium roots; 10 percent gravel; strongly acid.
+
+TYPE LOCATION:  Accomack County, Virginia; In Guilford Creek Marsh about 0.7 miles northwest 310 degrees of the junction of Highways VA-682 and VA-675 and about 1.2 miles north 350 degrees of the junction of VA-676 and VA-675 at Clam along Guilford Creek.
+
+RANGE IN CHARACTERISTICS:
+
+Thickness: Depth to bedrock is more than 60 inches.
+
+Reaction: Strongly acid through mildly alkaline throughout.
+
+Coarse fragments: 0 to 15 percent throughout.
+
+Electrical conductivity: More than 7 dS per meter.
+
+Soluble Ca, Mg, K, and Na: 80 centimoles or more per liter of saturation extract in more than half the upper 1 meter of soil.
+
+*O horizon*
+
+OHue: 10YR, 2.5Y, 5Y, neutral
+
+OValue: 2, 3
+
+OChroma: 0, 1, 2
+
+OOrganic material: Hemic, sapric
+
+*A horizon*
+
+AHue: 10YR, 2.5Y, 5Y, neutral
+
+AValue: 2, 3, 4, 5
+
+AChroma: 0, 1, 2
+
+ATexture: Sandy loam, fine sandy loam, or loam
+
+*Cg horizon*
+
+CgHue: 10YR, 2.5Y, 5Y, neutral
+
+CgValue: 2, 3, 4, 5, 6, 7
+
+CgChroma: 0, 1, 2
+
+CgTexture: Sandy loam, fine sandy loam, or loam above 40 inches, and coarse sand through loam below 50 inches
+
+COMPETING SERIES:  There are no other series in the same family.
+
+GEOGRAPHIC SETTING: Melfa soils are on brackish marshes. The soils formed in loamy and sandy alluvium.  Slopes range from 0 to 2 percent.  Mean annual precipitation ranges from about 38 to 46 inches, and mean annual temperature ranges from about 57 to 60 degrees.
+
+GEOGRAPHICALLY ASSOCIATED SOILS:  These are the Arapahoe, Hobucken, Nimmo, and Polawana soils.  Arapahoe, Nimmo, and Polawana soils are associated with fresh water on nearby uplands.  Hobucken is associated with brackish water on the same landscape.  Hobucken soils are Hydraquents.
+
+DRAINAGE AND PERMEABILITY: Very poorly drained; very slow runoff; moderately rapid permeability.
+
+USE AND VEGETATION:  Melfa soils are used mainly for wildlife habitat and recreation.  The native plant community consists of black needlerush, saltmarsh cordgrass, saltmeadow hay, salt grass, marsh elder,  groundsel tree, saltwort, and glasswort.
+
+DISTRIBUTION AND EXTENT:  Virginia.  The series is of moderate extent.
+
+MLRA SOIL SURVEY REGIONAL OFFICE (MO) RESPONSIBLE: Raleigh, North Carolina
+
+SERIES PROPOSED:  Accomack County, Virginia. 1989.  The name is a community in Accomack County.
+
+REMARKS:  Melfa soils were included in Tidal Marshes in the past.
+
+Diagnostic horizons and features recognized in this pedon are:
+1)  Histic epipedon (except for thickness), the layer from 0 to 6 inches (Oe horizon).
+2)  Mollic epipedon (except for thickness), the layer from 6 to 13 inches (A horizon)
+3)  Irregular decrease in organic carbon or more than 0.2 percent organic carbon to a depth of 50 inches.
+4)  Base saturation by NH4OAc of 50 percent or more throughout.
+5)  n-value less than 0.7 above 20 inches.
+
+The diagnostic features recognized may be proposed for a Halmyric-Mollic Fluvaquent subgroup. Classification as Mollic Fluvaquent is tentative.  Diagnostic features will be used as series criteria.
+
+SIR = VA0341
+
+MLRA = 133A, 153A, 153B
+
+REVISED = 5/14/90
+
+ADDITIONAL DATA:  Virginia Polytechnic Institute and State University soil survey laboratory data show more than 7 dS/m electrical conductivity per meter and 80 centimoles or more of soluble Ca, Mg, K, and Na per liter of saturation extract in more than half the upper 1 m of soil for the typical pedon and 3 other profiles.
+
+TABULAR SERIES DATA:
+
+SOI-5  Soil Name   Slope  Airtemp FrFr/Seas Precip  Elevation
+VA0341 MELFA       0-  2   57- 60  180-250  38- 46     0-   5 
+
+SOI-5  FloodL FloodH Watertable Kind   Months  Bedrock Hardness
+VA0341 FREQ            0-1.0  APPARENT JAN-DEC  60-60        
+
+SOI-5  Depth  Texture                3-Inch  No-10  Clay%   -CEC-
+VA0341  0- 6  MUCK MPT                0-  0    -     0- 0  10- 30
+VA0341  6-13  SL FSL L                0-  0  95-100  5-18  10- 30
+VA0341 13-50  SL FSL L                0-  0  75-100  5-18  15- 45
+VA0341 50-65  COS SL L                0-  0  75-100  2-18  20- 55
+
+SOI-5  Depth    -pH-     O.M.  Salin  Permeab   Shnk-Swll
+VA0341  0- 6  5.1- 7.8  20-90  7-32   2.0- 6.0  LOW      
+VA0341  6-13  5.1- 7.8  4.-8.  7-32   2.0- 6.0  LOW      
+VA0341 13-50  5.1- 7.8  4.-8.  7-32   2.0- 6.0  LOW      
+VA0341 50-65  5.1- 7.8  2.-8.  7-32   2.0- 6.0  LOW       
+
+National Cooperative Soil Survey
+U.S.A.

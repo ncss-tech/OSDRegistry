@@ -1,0 +1,129 @@
+LOCATION ANCON                  AK
+
+Established Series
+IRD NDP/SCD
+08/2020
+
+ANCON SERIES
+
+Landscape--drift plain
+Landform--glaciated plains
+Slope--0 to 25 percent
+Parent material--till over residuum
+Mean annual precipitation--about 2500 mm
+Mean annual air temperature--about 6 degrees C
+Depth class--deep to bedrock
+Drainage class--moderately well drained
+Soil moisture regime--udic
+Soil temperature regime--cryic
+Soil moisture subclass--aquic
+
+TAXONOMIC CLASS: Coarse-loamy, mixed, superactive Aquic Haplocryods
+
+TYPICAL PEDON: Ancon fine sandy loam on a glaciated plain, on a slope of 23 percent at an elevation of 30 m (When described on August 10, 2013, the soil was moist throughout.)
+
+ Oe--0 to 8 cm; moderately decomposed plant material; extremely acid (pH 4.1); clear smooth boundary
+
+ A--8 to 21 cm; fine sandy loam, dark grayish brown (10YR 4/2) dry, very dark brown (10YR 2/2) moist; moderate medium granular structure; soft, very friable, nonsticky and nonplastic; common very fine and very coarse and many fine, medium, and coarse roots throughout; common very fine and fine interstitial pores; extremely acid (pH 4.4); abrupt wavy boundary
+
+ E--21 to 24 cm; fine sandy loam, very pale brown (10YR 8/3) dry, pale brown (10YR 6/3) moist; moderate medium subangular blocky structure; soft, very friable, nonsticky and nonplastic; common very fine, fine, medium, and coarse roots throughout; common very fine and fine interstitial pores; very strongly acid (pH 4.5); abrupt broken boundary
+
+ Bs/Bhs--24 to 53 cm; fine sandy loam, 75 percent light brown (7.5YR 6/4) and 25 percent dark grayish brown (10YR 4/2) dry, 75 percent brown (7.5YR 4/4) and 25 percent very dark brown (10YR 2/2) moist; weak medium angular blocky structure; slightly hard, friable, nonsticky and nonplastic; few coarse and common very fine, fine, medium, and very coarse roots throughout; common very fine and fine interstitial pores; 1 percent medium masses of oxidized iron, dark yellowish brown (10YR 4/6) moist; very strongly acid (pH 4.8); clear wavy boundary
+
+ Bs--53 to 103 cm; coarse sandy loam, reddish yellow (7.5YR 6/6) dry, strong brown (7.5YR 4/6) moist; weak medium subangular blocky structure; slightly hard, friable, nonsticky and nonplastic; common very fine and fine roots; common very fine and fine interstitial pores; 15 percent coarse masses of oxidized iron, strong brown (7.5YR 5/6) moist, and 25 percent medium masses of reduced iron, dark gray (10YR 4/1) moist; 8 percent gravel; moderately acid (pH 5.9); abrupt smooth boundary
+
+ 2R--103 cm; bedrock
+
+TYPE LOCATION: Glacier Bay National Park and Preserve-Gustavus Area, Alaska; Hoonah-Angoon Census Area; latitude 58.2452325, longitude -136.5805850, datum WGS84 (coordinates determined by a GPS unit)
+
+RANGE IN CHARACTERISTICS:
+Mean annual soil temperature--1 to 7 degrees C
+Depth to lithic contact--100 to 150 cm (deep)
+Soil moisture control section--dry less than 45 consecutive days in June through October (udic)
+Depth to redoximorphic iron concentrations and depletions--50 to 100 cm
+
+Particle-size control section
+*Clay content--5 to 14 percent
+*Total rock fragment content--0 to 10 percent
+
+Oe
+Thickness--2 to 10 cm
+
+A horizon
+Value--2 or 3 moist, 3 or 4 dry
+Chroma--1 or 2 moist or dry
+Clay content--5 to 8 percent
+Reaction (pH)--4.2 to 4.5
+Thickness--8 to 15 cm
+
+E horizon
+Hue--10YR, 2.5Y
+Value--6 to 8 moist or dry
+Chroma--1 to 3 moist or dry
+Clay content--5 to 8 percent
+Reaction (pH)--4.2 to 4.5
+Thickness--1 to 3 cm
+
+Bs/Bhs horizon
+Hue--5YR, 7.5YR
+Value--2.5 to 4 moist, 3 to 6 dry
+Chroma--3 to 6 moist or dry
+Clay content--5 to 10 percent
+Reaction (pH)--4.3 to 4.9
+Thickness--9 to 35 cm
+
+Bs horizon
+Hue--5YR, 7.5YR
+Value--3 or 4 moist, 4 to 6 dry
+Chroma--3 to 6 moist or dry
+Clay content--5 to 14 percent
+Rock fragment content--0 to 8 percent
+Reaction (pH)--5.0 to 5.5
+Thickness--40 to 55 cm
+
+COMPETING SERIES:
+Matsu--no lithic contact within a depth of more than 150 cm (very deep)
+Pioneerpeak--no lithic contact within a depth of more than 150 cm (very deep); skeletal below particle-size control section
+
+GEOGRAPHIC SETTING:
+Elevation--5 to 130 m
+Climate--cool, moist summers; mild, wet winters
+Mean annual precipitation--1780 to 3350 mm
+Mean annual air temperature--3 to 7 degrees C
+Frost-free period--90 to 154 days
+
+GEOGRAPHICALLY ASSOCIATED SOILS:
+Annoksek--25 to 50 cm (shallow) to a lithic contact; on similar landforms
+Fingers--25 to 50 cm (somewhat poorly drained) to aquic conditions; on adjacent dissected landforms
+Kashoto--organic (muck); on similar landforms
+
+DRAINAGE AND SATURATED HYDRAULIC CONDUCTIVITY:
+Drainage class--moderately well drained
+Depth to saturation in normal years--53 cm or more
+Saturated hydraulic conductivity (Ksat)--high throughout
+
+USE AND VEGETATION:
+Use--subsistence, recreation, wildlife habitat
+Potential natural vegetation--moss, Alaska cedar, fernleaf goldthread, bunchberry dogwood, Lapland cornel, dicranum moss, splendid feather moss, heartleaf twayblade, American skunkcabbage, rusty menziesia, sidebells wintergreen, Schreber's big red stem moss, Alaska blueberry
+
+DISTRIBUTION AND EXTENT: Alexander Archipelago-Gulf of Alaska Coast, Alaska; MLRA 220; small extent
+
+SOIL SURVEY REGIONAL OFFICE (SSRO) RESPONSIBLE: Portland, Oregon
+
+SERIES ESTABLISHED: Glacier Bay National Park and Preserve-Gustavus Area, Alaska; 2020; name from Ancon Glacier at Glacier Bay National Park and Preserve
+
+REMARKS:
+Diagnostic horizons and other features in this pedon
+*Ochric epipedon
+*Albic material--zone from 21 to 24 cm
+*Albic horizon--zone from 21 to 24 cm
+*Aquic conditions--zone from 53 to 103 cm
+*Redoximorphic iron concentrations--zone from 24 to 103 cm
+*Redoximorphic iron depletions that have chroma of 2 or less--zone from 53 to 103 cm
+*Spodic horizon--zone from 24 to 103 cm
+*Spodic material--zone from 24 to 103 cm
+*Depth to lithological discontinuity (lithic contact)--103 cm
+*Particle-size control section--zone from 33 to 103 cm
+
+National Cooperative Soil Survey
+U.S.A.

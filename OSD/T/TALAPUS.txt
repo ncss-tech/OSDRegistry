@@ -1,0 +1,144 @@
+LOCATION TALAPUS                OR
+
+Established Series
+Rev. AON/JGM/RWL
+01/2017
+
+TALAPUS SERIES
+
+Landscape--western Cascade Mountains
+Landform--mountains, cirque floors
+Slope--2 to 60 percent
+Parent material--colluvium derived from hard extrusive igneous rock mixed with till and volcanic ash throughout
+Mean annual precipitation--about 2600 mm
+Mean annual air temperature--about 6 degrees C
+Depth class--very deep
+Drainage class--well drained
+Soil moisture regime--udic
+Soil temperature regime--cryic
+Soil moisture subclass--typic
+
+TAXONOMIC CLASS: Medial-skeletal, amorphic Typic Fulvicryands
+
+TYPICAL PEDON: Talapus very gravelly medial silt loam, forested
+
+ Oi--0 to 8 cm; slightly decomposed plant material consisting of needles, twigs, leaves, and cones
+
+ A1--8 to 15 cm; very gravelly medial silt loam, dark grayish brown (10YR 4/2) dry, black (10YR 2/1) moist; moderate medium granular structure; slightly hard, friable, slightly sticky and slightly plastic; many very fine and fine roots; many very fine and fine irregular pores; 30 percent gravel and 10 percent cobbles; strongly acid (pH 5.2); clear wavy boundary
+
+ A2--15 to 41 cm; very gravelly medial silt loam, brown (10YR 4/3) dry, very dark brown (10YR 2/2) moist; moderate very fine subangular blocky structure; slightly hard, friable, slightly sticky and slightly plastic; many very fine and fine roots; many very fine tubular pores; 45 percent gravel and 10 percent cobbles; strongly acid (pH 5.4); clear wavy boundary
+
+ Bw1--41 to 53 cm; very gravelly medial loam, brown (10YR 5/3) dry, dark brown (7.5YR 3/2) moist; moderate medium subangular blocky structure; slightly hard, friable, slightly sticky and slightly plastic; many very fine roots; many very fine tubular pores; 45 percent gravel and 5 percent cobbles; strongly acid (pH 5.4); clear wavy boundary
+
+ Bw2--53 to 66 cm; extremely gravelly medial loam, brown (10YR 5/3) dry, dark brown (7.5YR 3/3) moist; weak fine subangular blocky structure; slightly hard, friable, slightly sticky and slightly plastic; many very fine roots; many very fine tubular pores; 70 percent gravel and 10 percent cobbles; strongly acid (pH 5.5); gradual wavy boundary
+
+ BC--66 to 89 cm; extremely gravelly medial loam, yellowish brown (10YR 5/4) dry, brown (7.5YR 4/4) moist; weak fine subangular blocky structure; slightly hard, friable, slightly sticky and slightly plastic; common very fine roots; many very fine tubular pores; 70 percent gravel and 10 percent cobbles; strongly acid (pH 5.5); gradual wavy boundary
+
+ 2C--89 to 160 cm; extremely gravelly medial loam, light yellowish brown (10YR 6/4) dry, dark reddish brown (5YR 3/4) moist; massive; hard, firm, slightly sticky and slightly plastic; few fine and medium roots; many very fine tubular pores; 70 percent gravel and 10 percent cobbles; strongly acid (pH 5.2)
+
+TYPE LOCATION: Multnomah County, Oregon, about 875 m south of Mount Talapus; in the SW1/4NE1/4SW1/4 of section 20, T. 1 N., R. 7 E.; latitude 45.5515825, longitude -121.9728704, datum WGS 84 (coordinates estimated from PLSS details)
+
+RANGE IN CHARACTERISTICS:
+Dry days--less than 45 consecutive days following summer solstice
+Mean annual soil temperature--4 to 7 degrees C
+Reaction--4.5 to 5.5 throughout all mineral horizons
+Thickness of umbric epipedon--50 to 100 cm
+Depth to lithic contact--greater than 150 cm
+Depth to firm glacial till--75 to 150 cm
+Thickness of andic soil properties--greater than 150 cm (below mineral soil surface)
+
+Estimated properties of layers with andic soil properties
+*1/3-bar bulk density--0.65 to 0.90 g/cm3
+*Phosphate retention--greater than 85 percent
+*Ammonium oxalate extractable Al +  Fe--2 to 4 percent
+*15-bar water retention--30 to 70 percent (undried samples), 15 to 30 percent (dried samples)
+*0.02- to 2.0-mm fraction--greater than 30 percent
+*Volcanic glass in 0.02- to 2.0-mm fraction--5 to 30 percent
+
+Particle-size control section
+*Clay content--10 to 18 percent
+*Total fragment content--35 to 80 percent
+
+O horizon
+*Thickness--5 to 15 cm
+
+A horizon
+*Hue--10YR, 7.5YR
+*Value--2 or 3 moist, 3 or 4 dry
+*Chroma--1 or 2 moist, 1 to 3 dry
+*Fine-earth texture--medial loam, medial silt loam
+*Clay content--10 to 18 percent
+*Total fragment content--35 to 60 percent
+*Gravel content--30 to 45 percent
+*Cobble content--5 to 15 percent
+*Organic matter content--5 to 15 percent
+
+Bw horizon
+*Hue--10YR, 7.5YR
+*Value--3 or 4 moist, 4 or 5 dry
+*Chroma--3 or 4 moist or dry
+*Fine-earth texture--medial loam, medial silt loam
+*Clay content--10 to 18 percent
+*Total fragment content--40 to 80 percent
+*Gravel content--45 to 70 percent
+*Cobble content--5 to 15 percent
+*Organic matter content--0.2 to 5.0 percent
+
+2C horizon
+*Hue--5YR to 10YR
+*Value--3 to 5 moist, 4 to 6 dry
+*Chroma--4 to 6 moist or dry
+*Clay content--10 to 18 percent
+*Total fragment content--35 to 80 percent
+*Gravel content--35 to 70 percent
+*Cobble content--10 to 45 percent
+*Organic matter content--0.2 to 5.0 percent
+
+COMPETING SERIES:
+Kinzel--no firm till within 150 cm of mineral soil surface
+Stahl--50 to 100 cm deep to lithic bedrock
+
+GEOGRAPHIC SETTING:
+Elevation--1000 to 1800 m
+Climate--cold, wet winters; cool, moist summers
+Mean annual precipitation--2300 to 3700 mm
+Mean annual air temperature--3 to 6 degrees C
+Frost-free period--10 to 75 days
+
+GEOGRAPHICALLY ASSOCIATED SOILS:
+Lastance--spodic horizon; on side slopes in glaciated valleys
+Dinzer--spodic horizon; on ridges and side slopes in glaciated valleys
+
+DRAINAGE AND PERMEABILITY:
+Drainage class--well drained
+Saturation during normal years--none within profile
+Flooding--none
+Ponding--none
+Saturated hydraulic conductivity (Ksat)--moderately high, high
+
+USE AND VEGETATION:
+Use--timber, watershed protection, wildlife habitat, recreation
+Potential natural vegetation--Pacific silver fir, Douglas-fir, mountain hemlock, Cascade azalea, dwarf bramble, blue huckleberry, queencup beadlily, beargrass, coolwort foamflower; commonly supports a Pacific silver fir/Cascade azalea/queencup beadlily (CFS552) plant association (Field Guide to the Forested Plant Associations of the Westside Central Cascades of Northwest Oregon)
+
+DISTRIBUTION AND EXTENT: Cascade Mountains of northwestern Oregon; MLRA 3; small extent
+
+MLRA SOIL SURVEY REGIONAL OFFICE (MO) RESPONSIBLE: Portland, Oregon
+
+SERIES ESTABLISHED: Clackamas County, Oregon (Bull Run, Sandy Area); 1976
+
+REMARKS:
+Diagnostic horizons and other features recognized in this pedon
+*Umbric epipedon--zone from 8 to 66 cm
+*Cambic horizon--zone from 66 to 89 cm
+*Particle-size control section--zone from 8 to 108 cm
+*Andic soil properties--zone from 8 to 160 cm
+*Volcanic glass--zone from 8 to 160 cm
+
+08/2016--Assumed to meet criteria 2 (no ash required) for andic soil properties, in the 12th edition of Keys to Soil Taxonomy. It is also assumed that enough ash is present for the soils to meet criteria 3. Additional lab data is needed to confirm the degree of ash influence.
+
+11/2001--More investigation is needed to determine whether the zone from 25 to 50 cm has less than 2.0 cmol Al (1N KCL).
+
+ADDITIONAL DATA: Type location user site ID--1983OR051001
+
+National Cooperative Soil Survey
+U.S.A.

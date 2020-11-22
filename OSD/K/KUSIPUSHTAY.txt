@@ -1,0 +1,113 @@
+LOCATION KUSIPUSHTAY            WA
+
+Established Series
+Rev. PNP/KDPL/KMS
+09/2019
+
+KUSIPUSHTAY SERIES
+
+Landscape--plateaus, hills
+Landform--ridges, structural benches, canyon side slopes, hillslopes
+Slope--0 to 60 percent
+Parent material--colluvium and residuum derived from basalt mixed with some loess
+Mean annual precipitation--380 to 460 mm
+Mean annual air temperature--about 9 degrees C
+Depth class--deep
+Drainage class--well drained
+Soil moisture regime--xeric
+Soil temperature regime--mesic
+Soil moisture subclass--typic
+
+TAXONOMIC CLASS: Clayey-skeletal, smectitic, mesic Vertic Palexerolls
+
+TYPICAL PEDON: Kusipushtay very cobbly silt loam, very stony, 30 percent slopes, on a southeast-facing side slope, under scattered white oak in an area of rangeland
+
+ A--0 to 8 cm; very cobbly silt loam, brown (10YR 5/3) dry, very dark grayish brown (10YR 3/2) moist; strong fine granular structure; slightly hard, very friable, nonsticky and nonplastic; common very fine and fine roots; few very fine and fine interstitial pores; 20 percent cobbles and 15 percent gravel; 10 percent surface stones and cobbles; slightly acid (pH 6.4); clear smooth boundary
+
+ BA--8 to 15 cm; very gravelly loam, brown (10YR 5/3) dry, dark brown (10YR 3/3) moist; moderate fine subangular blocky structure; slightly hard, very friable, nonsticky and nonplastic; common very fine and fine and few medium roots; common very fine irregular pores; 30 percent gravel and 10 percent cobbles; neutral (pH 6.8); abrupt smooth boundary
+
+ Bt1--15 to 36 cm; very gravelly clay loam, brown (7.5YR 5/3) dry, dark brown (7.5YR 3/2) moist; moderate medium subangular blocky structure; slightly hard, friable, slightly sticky and slightly plastic; few very fine, fine, and medium roots; common very fine tubular and irregular pores; 30 percent distinct clay films on faces of peds; 35 percent gravel and 10 percent cobbles; neutral (pH 7.0); clear smooth boundary
+
+ Bt2--36 to 64 cm; very gravelly clay, brown (7.5YR 5/3) dry, dark brown (7.5YR 3/4) moist; strong fine angular blocky structure; hard, firm, moderately sticky and moderately plastic; few very fine, fine, and medium roots; common fine pores; 30 percent continuous clay films on faces of peds; 40 percent gravel and 15 percent cobbles; neutral (pH 7.0); gradual smooth boundary
+
+ Bt3--64 to 76 cm; extremely gravelly clay, brown (7.5YR 5/3) dry, brown (7.5YR 4/4) moist; moderate medium angular blocky structure; hard, firm, moderately sticky and moderately plastic; few medium roots; common fine irregular pores; 30 percent distinct clay films on faces of peds; 45 percent gravel and 20 percent cobbles; neutral (pH 6.8); abrupt irregular boundary
+
+ Bt4--76 to 122 cm; extremely cobbly clay, brown (7.5YR 5/3) dry, brown (7.5YR 4/4) moist; moderate medium angular blocky structure; hard, firm, moderately sticky and moderately plastic; few very fine roots; common fine irregular pores; 15 percent distinct clay films on faces of peds; 45 percent gravel and 20 percent cobbles; neutral (pH 7.0); abrupt smooth boundary
+
+ R--122 cm; indurated basalt
+
+TYPE LOCATION: Yakama Nation, Yakima County, Washington, about 6.5 km northeast of Old Maid Canyon Guard Station; about 100 m east and 400 m north of section 3, T. 11 N., R. 15 E.; latitude 46.4669444, longitude -120.9422222, datum WGS 84 (coordinates estimated from section, township, and range)
+
+RANGE IN CHARACTERISTICS:
+Mean annual soil temperature at a depth of 50 cm--9 to 10 degrees C
+Soil moisture control section--usually moist, but dry 75 to 90 consecutive days in most years
+Clay content in particle-size control section--35 to 60 percent
+Rock fragment content in particle-size control section--35 to 85 percent
+Depth to bedrock--100 to 150 cm
+Kind of bedrock--commonly basalt, but some pedons are underlain by siltstone or sandstone
+
+A horizon
+Hue--7.5YR, 10YR
+Value--4 or 5 dry, 2 or 3 moist
+Chroma--1 to 3 when dry or moist
+Thickness--5 to 20 cm
+
+BA horizon (where present)
+Hue--7.5YR, 10YR
+Value--4 or 5 dry, 2 or 3 moist
+Chroma--2 or 3 dry or moist
+Texture of fine-earth fraction--loam, silt loam, silty clay loam, clay loam
+Gravel content--0 to 40 percent
+Cobble content--0 to 20 percent
+Thickness--5 to 20 cm
+
+Bt horizon
+Hue--7.5YR, 10YR
+Value--3 to 6 dry, 2 to 4 moist
+Chroma--2 to 4 dry or moist
+Texture of fine-earth fraction--silty clay loam, clay loam, clay
+Gravel content--20 to 55 percent
+Cobble content--5 to 35 percent
+Combined thickness--112 to 137 cm
+
+COMPETING SERIES:
+Tekison--no lithic contact within a depth of more than 150 cm
+Wipple--dry more than 90 days following summer solstice
+
+GEOGRAPHIC SETTING:
+Elevation--610 to 1150 m
+Climate--semiarid; warm, dry summers; cool, moist winters
+Mean annual precipitation--380 to 460 mm
+Mean annual air temperature--about 9 degrees C
+Frost-free season--80 to 130 days
+
+GEOGRAPHICALLY ASSOCIATED SOILS:
+Camaspatch--30 to 50 cm (shallow) to a lithic contact (basalt)
+McDaniel--loamy-skeletal particle-size class
+Pushtay--fine-loamy particle-size class
+Thiessen--50 to 100 cm (moderately deep) to a lithic contact (basalt)
+
+DRAINAGE AND SATURATED HYDRAULIC CONDUCTIVITY:
+Drainage class--well drained
+Saturated hydraulic conductivity (Ksat)--moderately low
+
+USE AND VEGETATION:
+Use--livestock grazing
+Vegetation--Idaho fescue, bluebunch wheatgrass, Sandberg bluegrass, balsamroot, big sagebrush, antelope bitterbrush, widely scattered Oregon white oak and ponderosa pine
+
+DISTRIBUTION AND EXTENT: Yakima County, south-central Washington; MLRA 8; small extent
+
+SOIL SURVEY REGIONAL OFFICE (SSRO) RESPONSIBLE: Portland, Oregon
+
+SERIES ESTABLISHED: Yakama Nation, Yakima County, Washington; 2014
+
+REMARKS:
+Diagnostic horizons and other features recognized in this pedon
+*Mollic epipedon--zone from the surface to a depth of 36 cm
+*Argillic horizon--zone from 15 to 122 cm
+*Depth to lithic contact--122 cm
+
+The Kusipushtay series originally was named the Tomith series. Kusi pushtay translates to horse hills in Yakama. The type location for this series is in the Horse Heaven Hills.
+
+National Cooperative Soil Survey
+U.S.A.

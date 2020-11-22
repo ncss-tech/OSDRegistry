@@ -1,0 +1,113 @@
+LOCATION TULEBAGH               AK
+
+Established Series
+JDP/TJR
+04/2020
+
+TULEBAGH SERIES
+
+Landscape--alluvial plains
+Landform--interdune depressions on terraces
+Slope--0 to 3 percent
+Parent material--organic material over eolian deposits
+Mean annual precipitation--about 255 mm
+Mean annual air temperature--about -6 degrees C
+Depth class--very deep
+Drainage class--poorly drained
+Soil moisture regime--aquic
+Soil temperature regime--gelic
+Soil moisture subclass--typic
+
+TAXONOMIC CLASS: Coarse-loamy, mixed, superactive, nonacid, subgelic Typic Histoturbels
+
+TYPICAL PEDON: Tulebagh mucky peat on a woodland interdune depression with a slope of 1 percent and an elevation of 160 m (The soil was wet throughout when described on September 14, 2015.)
+
+ Oe--0 to 10 cm; mucky peat; many very fine roots, common fine, medium, and coarse roots; slightly acid (pH 6.2); clear irregular boundary
+
+ Oa--10 to 35 cm; muck; common very fine, fine, and medium roots; slightly alkaline (pH 7.5); abrupt irregular boundary
+
+ Cg/Oajj--35 to 62 cm; very fine sandy loam; 40 percent gray (2.5Y 6/1) dry, dark gray (2.5Y 4/1) moist, and 40 percent light brownish gray (2.5Y 6/2) dry, dark grayish brown (2.5Y 4/2) moist, and 20 percent dark grayish brown (10YR 4/2) dry, very dark brown (10YR 2/2) moist; massive; slightly hard, friable, nonsticky and slightly plastic; common very fine and fine roots; few fine and medium pores; 10 percent strong brown (7.5YR 4/6) moist, masses of oxidized iron in matrix and 20 percent gray (2.5Y 5/1) moist, iron depletions in matrix; noneffervescent; slightly alkaline (pH 7.7); abrupt wavy boundary
+
+ Cgf/Oajjf--62 to 100 cm; permanently frozen very fine sandy loam; 40 percent gray (2.5Y 6/1) dry, dark gray (2.5Y 4/1) moist, 40 percent light brownish gray (2.5Y 6/2) dry, dark grayish brown (2.5Y 4/2) moist, and 20 percent dark grayish brown (10YR 4/2) dry, very dark brown (10YR 2/2) moist; massive; moderately hard, firm, nonsticky and slightly plastic; 10 percent strong brown (7.5YR 4/6) moist, masses of oxidized iron in matrix and 20 percent gray (2.5Y 5/1) moist, iron depletions in matrix; noneffervescent; slightly alkaline (pH 7.7)
+
+TYPE LOCATION: Yukon-Koyukuk Census Area, Alaska; latitude 66.3701720 degrees, longitude -144.1611610 degrees, datum WGS84 (coordinates determined with a GPS)
+
+RANGE IN CHARACTERISTICS:
+Mean annual soil temperature-- -4 to 1 degrees C
+Depth to permafrost--40 to 90 cm
+Depth to redoximorphic features--20 to 50 cm
+Other features--cryoturbation within 150 cm
+
+Oe, and Oa horizons
+Combined thickness--20 to 38 cm
+Reaction--6.0 to 7.5
+
+Cg and Cgf horizons (where present)
+Hue--10YR, 2.5Y
+Value--2 to 5 moist, 4 to 7 dry
+Chroma--1 or 2 moist
+Fine-earth texture--silt loam, very fine sandy loam, very fine sand
+Clay content--0 to 18 percent
+Reaction--7.0 to 8.5
+Effervescence--none to strong
+Combined thickness--112 to 130 cm
+
+Cg/Oajj and Cgf/Oajjf horizons
+Hue--10YR, 2.5Y
+Value--2 to 5 moist, 4 to 7 dry
+Chroma--1 or 2 moist
+Fine-earth texture--silt loam, very fine sandy loam, very fine sand
+Clay content--0 to 18 percent
+Reaction--7.0 to 8.5
+Effervescence--none to strong
+Combined thickness--112 to 130 cm
+
+COMPETING SERIES: 
+Tanacross--visible mica in substratum; reaction does not range above neutral in any horizon; flood plains
+Teggiuq--reaction does not range above neutral in any horizon; mountain slopes
+
+GEOGRAPHIC SETTING:
+Elevation--100 to 300 m
+Climate--short, warm summers and long, very cold winters
+Mean annual precipitation--210 to 310 mm
+Mean annual air temperature-- -12 to 0 degrees C
+Frost-free period--45 to 97 days
+
+GEOGRAPHICALLY ASSOCIATED SOILS:
+Nolitna--dry longer than 90 days during the growing season; adjacent dunes
+Tlozhavun--no aquic conditions within 150 cm; adjacent terraces
+Tajittro--aquic conditions within 100 cm; permafrost within 1 m; adjacent terraces
+Choonjik--no aquic conditions within 150 cm; calcareous; adjacent terraces
+Yasuda--aquic conditions within 25 cm; sodic properties; grassland depressions on adjacent terraces
+
+DRAINAGE AND SATURATED HYDRAULIC CONDUCTIVITY:
+Drainage class--poorly drained
+Saturation in normal years--water table top depth between a depth of 0 to 50 cm in May and June, and saturated below a depth of 25 cm throughout the rest of the year
+Flooding--none
+Ponding--occasional, long
+Saturated hydraulic conductivity (Ksat)--high throughout
+
+USE AND VEGETATION:
+Use--wildlife habitat, subsistence, recreation
+Potential natural vegetation--white spruce, black spruce, resin birch, lingonberry, grayleaf willow, red fruit bearberry, prickly rose, black crowberry, bog blueberry, bog Labrador tea, littletree willow, shrubby cinquefoil, shrub birch, sedge, bluejoint, dwarf scouringrush, felt lichen, greygreen reindeer lichen, cup lichen, stairstep moss
+
+DISTRIBUTION AND EXTENT: Yukon Flats Lowlands, Alaska; MLRA 232; small extent
+
+SOIL SURVEY REGIONAL OFFICE (SSRO) RESPONSIBLE: Portland, Oregon
+
+SERIES ESTABLISHED: Yukon Flats National Wildlife Refuge, Yukon-Koyukuk Census Area, Alaska; 2020
+
+REMARKS:
+Diagnostic horizons and other features in this pedon
+*Particle-size control section--zone from 60 to 135 cm
+*Histic epipedon--Oe and Oa horizons
+*Redoximorphic iron concentrations--Cg/Oajj and Cgf/Oajjf horizons
+*Redoximorphic iron depletions with chroma of 2 or less--Cg/Oajj and Cgf/Oajjf horizons
+*Reduced matrix--Cg/Oajj and Cgf/Oajjf horizons
+*Aquic conditions--Cg/Oajj and Cgf/Oajjf horizons
+*Permafrost--Cgf/Oajjf horizon
+*Cryoturbation--Cg/Oajj and Cgf/Oajjf horizons
+
+
+National Cooperative Soil Survey
+U.S.A.

@@ -1,0 +1,113 @@
+LOCATION MUNSET                 WA
+
+Established Series
+Rev. KDV/MEH/RWL
+09/2019
+
+MUNSET SERIES
+
+Landscape--plateaus
+Landform--depressions
+Slope--0 to 10 percent
+Parent material--alluvium mixed with loess and residuum derived from basalt and an influence of quartzitic gravel
+Mean annual precipitation--about 510 mm
+Mean annual air temperature--about 9 degrees C
+Depth class--moderately deep
+Drainage class--poorly drained
+Soil moisture regime--aquic
+Soil temperature regime--mesic
+Soil moisture subclass--typic
+
+TAXONOMIC CLASS: Fine, mixed, superactive, mesic Typic Albaqualfs
+
+TYPICAL PEDON: Munset stony silt loam in an area of rangeland on a 1-percent, south-facing slope at an elevation of 750 m
+
+ A--0 to 5 cm; stony silt loam, grayish brown (10YR 5/2) dry, dark brown (7.5YR 3/2) moist; weak medium platy structure and weak fine granular; slightly hard, friable, slightly sticky and moderately plastic; many very fine roots; common very fine irregular and tubular pores; 15 percent stones and 3 percent gravel; slightly acid (pH 6.2); clear smooth boundary
+
+ E1--5 to 25 cm; silty clay loam, light brownish gray (10YR 6/2) dry, dark grayish brown (10YR 4/2) moist; weak thin and medium platy structure; hard, friable, moderately sticky and moderately plastic; many very fine roots; common very fine irregular and tubular pores; 3 percent gravel; slightly acid (pH 6.2); clear smooth boundary
+
+ E2--25 to 41 cm; clay loam, light brownish gray (10YR 6/2) dry, dark grayish brown (10YR 4/2) moist; weak thin platy structure and weak fine subangular blocky; very hard, friable, moderately sticky and moderately plastic; few fine roots; common very fine irregular and tubular pores; 3 percent gravel; slightly acid (pH 6.2); clear smooth boundary
+
+ Bt--41 to 56 cm; gravelly clay, brown (7.5YR 5/4) dry, brown (7.5YR 4/4) moist; few fine distinct reddish yellow (7.5YR 6/6) redoximorphic concentrations; weak medium subangular blocky structure; very hard, very firm, very sticky and very plastic; few fine roots; few very fine irregular pores; common moderately thick clay films on faces of peds; 15 percent gravel; moderately acid (pH 6.0); clear smooth boundary
+
+ C--56 to 64 cm; extremely gravelly sandy clay loam, reddish yellow (7.5YR 6/6) and pinkish gray (7.5YR 6/2) dry, strong brown (7.5YR 5/6) and brown (7.5YR 4/2) moist; massive; very hard, firm, moderately sticky and moderately plastic; few very fine roots; few very fine irregular pores; 65 percent gravel; moderately acid (pH 5.9); abrupt smooth boundary
+
+ R--64 cm; fractured basalt
+
+TYPE LOCATION: Klickitat County, Washington, about 13 km northeast of Goldendale; about 300 m south and 300 m east of the northwest corner of section 26, T. 5 N., R. 17 E.; latitude 45 degrees, 53 minutes, 40 seconds north and longitude 120 degrees, 39 minutes, 0 seconds west
+
+RANGE IN CHARACTERISTICS:
+Mean annual soil temperature--8 to 11 degrees C
+Soil moisture control section--dry in all parts 75 to 90 consecutive days during the 4 months following summer solstice
+Depth to bedrock--commonly 50 to 75 cm, but ranges to 100 cm
+Argillic horizon--averages 5 to 30 percent rock fragments and 50 to 60 percent clay
+
+A horizon
+Hue--7.5YR, 10YR
+Reaction--5.6 to 6.5
+Thickness--5 to 10 cm
+
+E horizon
+Hue--7.5YR, 10YR
+Value--6 or 7 dry
+Texture--silty clay loam, clay loam
+Reaction--5.6 to 6.5
+Combined thickness--20 to 41 cm
+
+Bt horizon
+Hue--7.5YR, 10YR
+Value--5 or 6 dry, 3 or 4 moist
+Chroma--2 to 4 dry or moist
+Texture--gravelly clay, clay
+Rock fragment content--5 to 30 percent gravel
+Thickness--15 to 30 cm
+
+C horizon
+Texture--very gravelly sandy clay loam, extremely gravelly sandy clay loam
+Rock fragment content--40 to 65 percent gravel
+Thickness--0 to 8 cm
+
+COMPETING SERIES: None
+
+GEOGRAPHIC SETTING:
+Elevation--340 to 880 m
+Climate--warm, dry summers; cool, moist winters
+Mean annual precipitation--380 to 640 mm
+Mean January air temperature--about -3 degrees C
+Mean July air temperature--about 18 degrees C
+Mean annual air temperature--about 8 to 10 degrees C
+Frost-free season--110 to 150 days
+
+GEOGRAPHICALLY ASSOCIATED SOILS:
+Gunn--100 to 150 cm or more (deep, very deep) to a lithic contact (basalt); on hills and plateaus
+Itat--no lithic contact within a depth of more than 150 cm; on hills and plateaus
+Kiakus--no argillic horizon; on plateaus
+Wahoo--no argillic horizon; on plateaus; 25 to 50 cm (shallow) to a lithic contact (basalt)
+
+DRAINAGE AND SATURATED HYDRAULIC CONDUCTIVITY:
+Drainage class--poorly drained
+Saturated hydraulic conductivity (Ksat)--low
+Episaturation--present in November through June, highest water table at a depth of 13 cm from the surface in December through March
+Ponding--frequent, very long periods in March and April
+
+USE AND VEGETATION:
+Use--livestock grazing
+Vegetation--mainly camas, onespike catgrass, tufted hairgrass, biscuitroot, and sedge
+
+DISTRIBUTION AND EXTENT: Klickitat County, Washington; MLRA 8; small extent
+
+SOIL SURVEY REGIONAL OFFICE (SSRO) RESPONSIBLE: Portland, Oregon
+
+SERIES ESTABLISHED: Klickitat County, Washington; 2003
+
+REMARKS:
+Diagnostic horizons and other features recognized in this pedon
+*Ochric epipedon
+*Albic horizon--zone from 5 to 41 cm
+*Argillic horizon--zone from 41 to 56 cm; more than 20 percent (absolute) more clay than in albic horizon
+*Depth to lithic contact--64 cm
+*Particle-size control section--zone from 41 to 64 cm
+*Coefficient of linear extensibility in upper 64 cm--3.8
+
+National Cooperative Soil Survey
+U.S.A.

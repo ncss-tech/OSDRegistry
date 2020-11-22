@@ -1,0 +1,153 @@
+LOCATION CANVASBACK             AK
+
+Established Series
+JDP/NDP/TJR
+04/2020
+
+CANVASBACK SERIES
+
+Landscape--alluvial plains
+Landform--stream terraces
+Slope--0 to 3 percent
+Parent material--alluvium
+Mean annual precipitation--about 255 mm
+Mean annual air temperature--about -6 degrees C
+Depth class--very deep
+Drainage class--moderately well drained
+Soil moisture regime--udic
+Soil temperature regime--cryic
+Soil moisture subclass--aquic
+
+TAXONOMIC CLASS: Coarse-loamy over sandy or sandy-skeletal, mixed, superactive Aquic Haplocryepts
+
+TYPICAL PEDON: Canvasback silt loam on a forested fan remnant with a slope of 2 percent and an elevation of 126 m (The soil was moist throughout when described on August 25, 2014.)
+
+ Oi--0 to 3 cm; slightly decomposed plant material; very dark grayish brown (10YR 3/2) moist; common very fine to medium roots; moderately acid (pH 5.6); abrupt wavy boundary
+
+ E/Bw--3 to 29 cm; silt loam; 85 percent light gray (10YR 7/2) dry, grayish brown (10YR 5/2) moist, and 15 percent light brown (7.5YR 6/4) dry, brown (7.5YR 4/4) moist; moderate medium subangular blocky structure; slightly hard, friable, nonsticky and nonplastic; common very fine to very coarse roots; few fine and medium pores; 10 percent strong brown (7.5YR 5/6) moist, mottles in matrix; 3 percent gravels; noneffervescent; slightly acid (pH 6.2); clear wavy boundary
+
+ BC--29 to 53 cm; gravelly silt loam; 80 percent pale yellow (2.5Y 7/3) dry, light olive brown (2.5Y 5/3) moist, and 20 percent light brownish gray (10YR 6/2) dry, dark grayish brown (10YR 4/2) moist; weak medium subangular blocky structure; soft, very friable, nonsticky and nonplastic; common very fine to very coarse roots; few fine and medium pores; 15 percent yellowish brown (10YR 5/6) moist, mottles in matrix; 16 percent gravel; noneffervescent; neutral (pH 6.7); clear smooth boundary
+
+ C1--53 to 76 cm; gravelly fine sandy loam; pale yellow (2.5Y 7/4) dry, light olive brown (2.5Y 5/4) moist; massive; soft, very friable, nonsticky and nonplastic; common fine and medium roots, few fine and medium pores; 15 percent olive brown (2.5Y 4/4) moist, masses of oxidized iron in matrix and 25 percent dark gray (10YR 4/1) moist, iron depletions in matrix; 25 percent gravel; strongly effervescent; slightly alkaline (pH 7.5); gradual wavy boundary
+
+ 2C2--76 to 150 cm; very gravelly loamy fine sand; light yellowish brown (2.5Y 6/3) dry, olive brown (2.5Y 4/3) moist; massive; soft, very friable, nonsticky and nonplastic; common fine roots; few fine and medium pores; 15 percent olive brown (2.5Y 4/4) moist, masses of oxidized iron in matrix; 38 percent gravel; slightly effervescent; slightly alkaline (pH 7.5)
+
+TYPE LOCATION: Yukon-Koyukuk Census Area, Alaska; latitude 66.4500343 degrees, longitude -147.436000 degrees, datum WGS84 (coordinates determined with a GPS)
+
+RANGE IN CHARACTERISTICS:
+Mean annual soil temperature--0.5 to 2.5 degrees C
+Depth to lithologic discontinuity--50 to 100 cm
+Depth to redoximorphic iron depletions--50 to 75 cm below the mineral soil surface
+Rock fragment content--0 to 35 percent gravels (by weighted average) above the lithologic discontinuity, and 35 to 85 percent gravels (by weighted average) below the lithologic discontinuity
+Base saturation--greater than 50 percent in all layers within 50 cm of the mineral soil surface
+
+Oi horizon
+Thickness--3 to 18 cm
+Reaction--5 to 7.0
+
+Oe horizon (where present)
+Thickness--3 to 18 cm
+Reaction--5 to 7.0
+
+A horizon (where present)
+Hue--2.5Y, 10YR, 7.5YR
+Value--2 to 4 moist, 4 to 6 dry
+Chroma--1 and 2 moist
+Fine-earth texture--silt loam, silt
+Clay content--0 to 18 percent
+Reaction--6.0 to 8.0
+Rock fragment content--0 to 5 percent gravel
+Effervescence--none
+Thickness--3 to 15 cm
+
+E/Bw horizon
+Hue--10YR, 7.5YR
+Value--3 to 5 moist, 5 to 7 dry
+Chroma--2 to 4 moist
+Fine-earth texture--silt loam, very fine sandy loam, fine sandy loam
+Clay content--0 to 18 percent
+Reaction--6.0 to 8.0
+Effervescence--none
+Rock fragment content--0 to 5 percent gravel
+Thickness--15 to 30 cm
+
+BC horizon (where present)
+Hue--2.5Y, 10YR
+Value--3 to 5 moist, 5 to 7 dry
+Chroma--1 to 3 moist
+Fine-earth texture--silt loam, very fine sandy loam, fine sandy loam
+Clay content--0 to 18 percent clay
+Reaction--6.0 to 8.0
+Effervescence--none to strong
+Rock fragment content--0 to 20 percent gravel
+Thickness--20 to 60 cm
+
+C, C1, and C2 horizons
+Hue--2.5Y, 10YR
+Value--3 to 5 moist, 5 to 7 dry
+Chroma--1 to 4 moist
+Fine-earth texture--silt loam, very fine sandy loam, fine sandy loam
+Clay content--0 to 10 percent clay
+Reaction--6.0 to 8.5
+Effervescence--none to strong
+Rock fragment content--15 to 85 percent gravel
+Combined thickness--20 to 70 cm
+
+2C2 and 2C3 horizons
+Value--3 to 5 moist, 5 to 7 dry
+Chroma--1 to 4 moist
+Fine-earth texture--sand, coarse sand, loamy sand, loamy fine sand
+Clay content--0 to 10 percent clay
+Reaction--6.0 to 8.5
+Effervescence--none to strong
+Rock fragment content--35 to 85 percent gravel
+Combined thickness--50 to 100 cm
+
+COMPETING SERIES: 
+Faa--these soils have a substratum of eolian sands with fewer than 35 percent gravels (by weighted average)
+
+GEOGRAPHIC SETTING:
+Elevation--100 to 300 m
+Climate--short, warm summers and long, very cold winters
+Mean annual precipitation--210 to 310 mm
+Mean annual air temperature-- -12 to 0 degrees C
+Frost-free period--45 to 97 days
+
+GEOGRAPHICALLY ASSOCIATED SOILS:
+Tlozhavun (gravelly taxadjuncts)--no aquic conditions within 150 cm; similar landforms
+Venetie--dry longer than 90 days during the growing season; sandy-skeletal throughout entire profile; similar landforms
+Kocacho--aquic conditions within 50 cm; sandy-skeletal throughout entire profile; depressions on similar landforms
+Choonjik (gravelly phases)-- no aquic conditions within 150 cm; diagnostic calcic horizon in profile; similar landforms
+Yasuda--aquic conditions within 25 cm; horizons with high exchangeable sodium percentages; in depressions on similar landforms
+
+DRAINAGE AND SATURATED HYDRAULIC CONDUCTIVITY:
+Drainage class--moderately well drained
+Saturation in normal years--water table top depth between a depth of 50 to 75 cm in June, and between a depth of 50 to 100 cm in July and August; saturated below a depth of 100 cm throughout the rest of the year
+Flooding--none
+Ponding--none
+Saturated hydraulic conductivity (Ksat)--high in the upper profile and very high in the skeletal substratum
+
+USE AND VEGETATION:
+Use--wildlife habitat, subsistence
+Potential natural vegetation--White spruce, black spruce, quaking aspen, red fruit bearberry, grayleaf willow, prickly rose, lingonberry, twinflower, russet buffaloberry, shrubby cinquefoil, littletree willow, reedgrass, false toadflax, dwarf scouringrush, field horsetail, stairstep moss, Tomentypnum moss, felt lichen, greygreen reindeer lichen
+
+DISTRIBUTION AND EXTENT: Yukon Flats Lowlands, Alaska; MLRA 232; small extent
+
+SOIL SURVEY REGIONAL OFFICE (SSRO) RESPONSIBLE: Portland, Oregon
+
+SERIES ESTABLISHED: Yukon Flats National Wildlife Refuge, Yukon-Koyukuk Census Area, Alaska; 2020
+
+REMARKS:
+Diagnostic horizons and other features in this pedon
+*Particle size control section--28 to 103 cm 
+*Ochric epipedon
+*Cambic horizon--Bw horizon
+*Redoximorphic iron concentrations--Bw, BC, C1, and 2C2 horizons
+*Redoximorphic iron depletions with chroma of 2 or less--C1 horizon
+*Aquic conditions--C1 horizon
+*Strongly contrasting particle size
+*Lithologic discontinuity--top of 2C horizon
+
+
+National Cooperative Soil Survey
+U.S.A.

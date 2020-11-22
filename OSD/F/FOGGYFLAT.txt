@@ -1,0 +1,113 @@
+LOCATION FOGGYFLAT              WA
+
+Established Series
+IRD TLS/PNP/KDPL/SBC
+09/2019
+
+FOGGYFLAT SERIES
+
+Landscape--plateaus, hills
+Landform--structural benches, hillslopes
+Slope--0 to 60 percent
+Parent material--mantle of volcanic ash over volcanic ash mixed with basalt residuum and colluvium or ashflow deposits
+Mean annual precipitation--about 1800 mm
+Mean annual air temperature--about 4 degrees C
+Depth class--deep
+Drainage class--well drained
+Soil moisture regime--udic
+Soil temperature regime--cryic
+Soil moisture subclass--typic
+
+TAXONOMIC CLASS: Ashy, amorphic Typic Vitricryands
+
+TYPICAL PEDON: Foggyflat ashy sandy loam in an area of forestland, on a 13-percent, east-facing, undulating slope at an elevation of 1225 m (All textures are apparent field textures.)
+
+ Oi--0 to 8 cm; slightly decomposed needles, twigs, and wood
+
+ A--8 to 28 cm; ashy sandy loam, yellowish brown (10YR 5/4) dry, dark brown (10YR 3/3) moist; weak fine subangular blocky structure; slightly hard, very friable, nonsticky and nonplastic; common fine and coarse roots; few fine irregular pores; 5 percent gravel; moderately acid (pH 6.0), NaF pH 11.5; clear smooth boundary
+
+ Bw1--28 to 46 cm; ashy sandy loam, yellowish brown (10YR 5/6) dry, dark yellowish brown (10YR 3/4) moist; weak fine and medium subangular blocky structure; slightly hard, very friable, nonsticky and nonplastic; common fine and coarse roots; common fine irregular pores; 10 percent gravel; moderately acid (pH 6.0), NaF pH 11.5; gradual wavy boundary
+
+ 2Bw2--46 to 81 cm; very gravelly ashy fine sandy loam, yellowish brown (10YR 5/6) dry, dark yellowish brown (10YR 3/4) moist; weak fine and medium subangular blocky structure; slightly hard, very friable, nonsticky and nonplastic, weakly smeary; common fine and coarse roots; few very fine and common fine irregular pores; 40 percent gravel and 10 percent cobbles; slightly acid (pH 6.2), NaF pH 12.0; clear wavy boundary.
+
+ 2Bw3--81 to 130 cm; very gravelly ashy fine sandy loam, yellowish brown (10YR 5/4) dry, dark brown (10YR 3/3) moist; weak fine subangular blocky structure; slightly hard, very friable, nonsticky and nonplastic; weakly smeary; common fine and medium and few coarse roots; few fine irregular pores; 40 percent gravel and 10 percent cobbles; slightly acid (pH 6.2), NaF pH 12.0; abrupt smooth boundary
+
+ 2R--130 cm; fractured basalt
+
+TYPE LOCATION: Yakama Indian Reservation, Yakima County, Washington, about 8 km east of Potato Hill; about 410 m east and 430 m south of the northwest corner of section 24, T. 10 N., R. 11 E.; latitude 46.3410348, longitude -121.3893999, datum WGS 84 (coordinates estimated from section, township, and range)
+
+RANGE IN CHARACTERISTICS:
+Mean annual soil temperature at a depth of 50 cm--4 to 7 degrees C
+Mean summer soil temperature--6 to 8 degrees C
+Depth to lithic contact--100 to 150 cm
+Volcanic ash mantle--36 to 64 cm thick; moist bulk density of 0.75 to 0.90 g/cm3; glass content of 5 to 30 percent; ammonium oxalate aluminum plus 1/2 iron of 2 to 4 percent
+15-bar water retention--8 to 12 percent (air-dried samples)
+Reaction--5.6 to 6.5 throughout
+
+Weathered (saprolitic) basalt fragments are above the bedrock in some pedons.
+
+A horizon
+Hue--10YR, 7.5YR
+Value--3 or 4 moist, 4 or 5 dry
+Chroma--2 or 3 moist, 3 or 4 dry
+Rock fragment content--0 to 10 percent
+Thickness--8 to 23 cm
+
+Bw horizon
+Hue--10YR, 7.5YR
+Value--3 or 4 moist, 5 or 6 dry
+Chroma--4 to 6 moist or dry
+Texture--ashy sandy loam, ashy loam
+Rock fragment content--0 to 10 percent
+Thickness--13 to 53 cm
+
+2Bw horizon
+Hue--10YR, 7.5YR
+Value--3 or 4 moist, 3 to 5 dry
+Chroma--3 to 6 moist or dry
+Texture of fine-earth fraction--ashy fine sandy loam, ashy sandy loam; 35 to 60 percent rock fragments
+Combined thickness--43 to 117 cm
+
+COMPETING SERIES:
+Castlecrest, Huston, Taaax--no lithic contact within a depth of more than 150 cm (very deep)
+Wawukyataak, Winegar--50 to 100 cm (moderately deep) to a densic layer
+
+GEOGRAPHIC SETTING:
+Elevation--1225 to 1825 m
+Climate--cool, wet winters; relatively warm, dry summers
+Mean annual precipitation--1300 to 2300 mm
+Mean annual air temperature--3 to 7 degrees C
+Frost-free season--35 to 75 days
+
+GEOGRAPHICALLY ASSOCIATED SOILS:
+Twolakes--on benches, plateaus, and side slopes; ashy over loamy-skeletal particle-size class; argillic horizon
+Walupt--on plateaus, ridges, and side slopes; ashy over loamy particle-size class; argillic horizon
+
+DRAINAGE AND SATURATED HYDRAULIC CONDUCTIVITY:
+Drainage class--well drained
+Saturated hydraulic conductivity (Ksat)--moderately rapid
+
+USE AND VEGETATION:
+Use--timber production, wildlife habitat, watershed
+Native vegetation--mountain hemlock, Pacific silver fir, subalpine fir, grand fir, Engelmann spruce, Cascade azalea, big huckleberry, queencup beadlily, beargrass, smooth woodrush
+
+DISTRIBUTION AND EXTENT: Yakama Indian Reservation, Yakima County, Washington; MLRAs 3 and 6; small extent
+
+SOIL SURVEY REGIONAL OFFICE (SSRO) RESPONSIBLE: Portland, Oregon
+
+SERIES ESTABLISHED: Yakama Nation, Yakima County, Washington; 2014
+
+REMARKS:
+Diagnostic horizons and other features recognized in this pedon
+*Ochric epipedon
+*Cambic horizon--zone from 28 to 46 cm
+*Andic soil properties--zone from 8 to 130 cm
+*Particle-size control section--zone from 8 to 109 cm; 30 percent rock fragments (weighted average)
+
+The soils in the Foggyflat series would classify as ashy over ashy-skeletal family if it was an option in Soil Taxonomy.
+
+ADDITIONAL DATA:
+Partial laboratory data--sample number 70D-24-1, Yakama Nation Soil Laboratory, Toppenish, Washington
+
+National Cooperative Soil Survey
+U.S.A.

@@ -1,0 +1,117 @@
+LOCATION MOGG                   ID
+
+Established Series
+Rev. GAH/DJJ/CLM/RGK
+05/2018
+
+MOGG SERIES
+
+Landscape--hills, foothills, mountains
+Landform--hillslopes, mountain slopes, ridges
+Slope--1 to 40 percent
+Parent material--colluvium derived from igneous rock
+Mean annual precipitation--about 250 mm
+Mean annual air temperature--about 5 degrees C
+Depth class--shallow
+Drainage class--well drained
+Soil moisture regime--aridic
+Soil temperature regime--frigid
+
+TAXONOMIC CLASS: Loamy-skeletal, mixed, superactive, frigid Lithic Xeric Haplocalcids
+
+TYPICAL PEDON: Mogg very gravelly loam in an area of rangeland (Colors are for dry soil unless otherwise noted.)
+
+ A--0 to 5 cm; pale brown (10YR 6/3) very gravelly loam, dark brown (10YR 3/3) moist; moderate very fine and fine granular structure; soft, very friable, slightly sticky and slightly plastic; many very fine and few fine roots; many very fine irregular and vesicular pores; 25 percent gravel, 10 percent cobbles, and 10 percent flagstones; slightly alkaline (pH 7.4); clear wavy boundary
+
+ Bw--5 to 13 cm; pale brown (10YR 6/3) very gravelly loam, dark brown (10YR 3/3) moist; weak very fine subangular blocky structure parting to moderate fine and medium granular; slightly hard, very friable, slightly sticky and slightly plastic; common very fine roots; many very fine irregular pores; 35 percent gravel; slightly alkaline (pH 7.8); abrupt wavy boundary
+
+ Bk1--13 to 23 cm; pale brown (10YR 6/3) very gravelly loam, brown (10YR 4/3) moist; moderate very fine and fine subangular blocky structure; slightly hard, very friable, slightly sticky and slightly plastic; common very fine roots; common very fine irregular pores; common calcium carbonate and silica coatings on rock fragments; 35 percent gravel and 10 percent cobbles; strongly effervescent; moderately alkaline (pH 8.0); clear wavy boundary
+
+ Bk2--23 to 36 cm; light yellowish brown (10YR 6/4) extremely gravelly loam, brown (10YR 4/3) moist; moderate very fine and fine subangular blocky structure; slightly hard, very friable, slightly sticky and slightly plastic; common very fine roots; common very fine irregular pores; common calcium carbonate and silica coatings on rock fragments; 55 percent gravel and 15 percent cobbles; violently effervescent; moderately alkaline (pH 8.2); abrupt wavy boundary
+
+ R--36 cm; extrusive igneous rock
+
+TYPE LOCATION:  Custer County, Idaho; latitude 44.73522 degrees north, longitude 114.049832 degrees west, datum WGS 84
+
+RANGE IN CHARACTERISTICS:
+Mean annual soil temperature--4.4 to 7.8 degrees C
+Depth to bedrock--30 to 50 cm
+Depth to calcic horizon--5 to 20 cm
+
+Particle-size control section (weighted averages)
+Clay content--8 to 20 percent
+Total rock fragment content--45 to 70 percent
+
+A horizon
+Value--5 or 6 dry, 3 or 4 moist
+Chroma--2 or 3 dry or moist
+Texture (less than 2-mm fraction)--loam, silt loam
+Clay content--10 to 20 percent
+Total rock fragment content--20 to 50 percent
+Gravel content--20 to 45 percent
+Cobble or channer content--0 to 15 percent
+Stone or flagstone content--0 to 10 percent
+Calcium carbonate equivalent--0 to 10 percent
+Reaction--pH 7.4 to 8.4
+Thickness--5 to 10 cm
+
+Bw horizon
+Value--5 or 6 dry, 3 or 4 moist
+Chroma--2 or 3 dry or moist
+Clay content--15 to 25 percent
+Total rock fragment content--20 to 55 percent
+Gravel content--20 to 45 percent
+Cobble or channer content--2 to 15 percent
+Stone or flagstone content--2 to 10 percent
+Calcium carbonate equivalent--0 to 10 percent
+Reaction--pH 7.4 to 8.4
+Thickness--0 to 10 cm
+
+Bk or Bkq horizon
+Value--5 to 8 dry, 3 to 6 moist
+Chroma--3 or 4 dry or moist
+Clay content--8 to 25 percent
+Total rock fragment content--35 to 85 percent
+Gravel content--20 to 75 percent
+Cobble or channer content--0 to 35 percent
+Stone or flagstone content--3 to 35 percent
+Calcium carbonate equivalent--5 to 35 percent
+Reaction--pH 7.9 to 8.4
+Thickness--16 to 31 cm
+
+COMPETING SERIES:
+Mullhop--weighted average of less than 15 percent calcium carbonate equivalent in Bk horizon
+
+GEOGRAPHIC SETTING:
+Elevation--1370 to 2290 m
+Mean annual precipitation--200 to 425 mm
+Mean annual air temperature--3.3 to 7.0 degrees C
+Frost-free period--60 to 100 days
+
+GEOGRAPHICALLY ASSOCIATED SOILS:  None listed
+
+DRAINAGE AND SATURATED HYDRAULIC CONDUCTIVITY:
+Drainage class--well drained
+Saturated hydraulic conductivity (Ksat)--5 to 50 um/sec
+
+USE AND VEGETATION:
+Major use--rangeland
+Potential natural vegetation--Wyoming big sagebrush, black sagebrush, bluebunch wheatgrass, Salmon wildrye, needle and thread, phlox, prickly pear cactus
+
+DISTRIBUTION AND EXTENT:  Small extent in east-central Idaho; MLRAs 12 and 13
+
+SOIL SURVEY REGIONAL OFFICE (SSRO) RESPONSIBLE:  Portland, Oregon
+
+SERIES ESTABLISHED:  Custer County, Idaho; 1999
+
+REMARKS:
+Diagnostic horizons and other features recognized in this pedon
+Ochric epipedon
+Calcic horizon--zone from 13 to 36 cm (Bk1 and Bk2 horizons)
+Depth to lithic contact--36 cm
+Particle-size control section--zone from the surface to a depth of 36 cm (A, Bw, Bk1, and Bk2 horizons)
+
+Taxonomic version--Twelfth Edition, 2014
+
+National Cooperative Soil Survey
+U.S.A.

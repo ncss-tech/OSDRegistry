@@ -1,0 +1,127 @@
+LOCATION ALBEE                  OR+ID
+
+Established Series
+Rev. DRJ/WEL/KMS
+11/2018
+
+ALBEE SERIES
+
+Landscape--mountains, plateaus, ridges on plateaus
+Landform--mountain slopes, plateaus, biscuits on patterned ground, mounds on summits of plateaus and structural benches
+Slope--2 to 60 percent
+Parent material--colluvium derived from basalt mixed with loess and an influence of volcanic ash in the upper part
+Mean annual precipitation--about 570 mm
+Mean annual air temperature--about 6 degrees C
+Depth class--moderately deep to lithic bedrock
+Drainage class--well drained
+Soil moisture regime--xeric
+Soil temperature regime--frigid
+Soil moisture subclass--typic
+
+TAXONOMIC CLASS: Fine-loamy, mixed, superactive, frigid Vitrandic Haploxerolls
+
+TYPICAL PEDON: Albee ashy silt loam in an area of rangeland
+
+ A--0 to 25 cm; ashy silt loam, grayish brown (10YR 5/2) dry, very dark grayish brown (10YR 3/2) moist; moderate fine and medium subangular blocky structure; slightly hard, friable, slightly sticky and slightly plastic; common very fine roots; 5 percent gravel; neutral (pH 7.0); clear smooth boundary
+
+ 2Bw1--25 to 48 cm; silt loam, brown (10YR 5/3) dry, dark brown (7.5YR 3/3) moist; moderate medium and coarse subangular blocky structure; slightly hard, friable, slightly sticky and slightly plastic; few very fine roots; 5 percent gravel; neutral (pH 7.0); clear wavy boundary
+
+ 2Bw2--48 to 71 cm; silt loam, yellowish brown (10YR 5/4) dry, dark brown (7.5YR 3/4) moist; moderate medium subangular blocky structure; slightly hard, friable, slightly sticky and slightly plastic; few very fine roots; 10 percent gravel; neutral (pH 7.2); abrupt smooth boundary
+
+ 2R--71 cm; basalt
+
+TYPE LOCATION: Umatilla County, Oregon; in the NE1/4NW1/4NW1/4 of section 35, T. 1 N., R. 35 E.; latitude 45.5287673, longitude -118.4106594, Datum WGS84 (Coordinates estimated from PLSS details)
+
+RANGE IN CHARACTERISTICS:
+Soil moisture--usually moist, but dry in all parts 60 to 80 consecutive days between depths of 10 and 30 cm in summer
+Mean annual soil temperature--about 6 to 8 degrees C
+Depth to lithic contact--50 to 100 cm
+Hue--10YR, 7.5YR
+Thickness of mollic epipedon--25 to 50 cm
+Thickness of ash-influenced layers--20 to 40 cm
+
+Estimated properties of layers influenced by volcanic ash
+*Ammonium oxalate extractable Al + Fe--0.4 to 0.8 percent
+*Volcanic ash content in 0.02- to 2.0-mm fraction--5.0 to 15 percent
+
+Particle-size control section
+*Clay content--18 to 27 percent
+*Content of fine sand or coarser material--more than 15 percent
+
+A horizon
+Value--2 or 3 moist, 4 or 5 dry
+Chroma--2 or 3 moist or dry
+Fine-earth texture--ashy silt loam
+Clay content--15 to 25 percent
+Sand content--15 to 30 percent
+Organic matter content--2 to 5 percent
+Total rock fragment content--0 to 5 percent
+Gravel content--0 to 5 percent
+Reaction--5.6 to 7.3
+Thickness--10 to 40 cm
+
+Bw horizons
+Value--3 or 4 moist, 4 to 6 dry
+Chroma--3 or 4 moist or dry
+Fine-earth texture--silt loam
+Clay content--15 to 25 percent
+Sand content--15 to 30 percent
+Organic matter content--0.5 to 2.0 percent
+Total rock fragment content--0 to 25 percent
+Gravel content--0 to 25 percent
+Cobble content--0 to 10 percent
+Reaction--5.6 to 7.3
+Combined thickness--15 to 75 cm
+
+COMPETING SERIES:
+Chug, Goodalfs--no lithic contact in upper 150 cm
+Izee--channers throughout
+Utley--no lithic contact in upper 100 cm
+Wallowa, Wrightman--mollic epipedon 50 to 75 cm thick
+
+GEOGRAPHIC SETTING:
+Elevation--930 to 1640 m
+Climate--cold, wet winters; hot, dry summers
+Mean annual precipitation--350 to 890 mm
+Mean annual air temperature--5.0 to 7.2 degrees C
+Mean January air temperature--about -5 degrees C
+Mean July air temperature--about 17 degrees C
+Frost-free period--50 to 110 days
+
+GEOGRAPHICALLY ASSOCIATED SOILS:
+Anatone, Bocker--lithic contact at a depth of 25 to 50 cm
+Klicker--argillic horizon; skeletal
+Tolo, Helter--mantle of volcanic ash more than 50 cm thick
+
+DRAINAGE AND SATURATED HYDRAULIC CONDUCTIVITY:
+Saturation during normal years--none
+Flooding--none
+Ponding--none
+Saturated hydraulic conductivity (Ksat)--moderately high throughout
+
+USE AND VEGETATION:
+Use--livestock grazing, wildlife habitat, recreation, grain production in some areas
+Potential native vegetation--Idaho fescue, bluebunch wheatgrass, Sandberg bluegrass, brome, parsnipflower buckwheat, prairie Junegrass, lupine, phlox, serrate balsamroot, common yarrow, desertparsley, pale agoseris, arrowleaf balsamroot
+
+DISTRIBUTION AND EXTENT: Uplands of Blue Mountains in eastern Oregon and northwestern Idaho; MLRA 9; moderate extent
+
+MLRA SOIL SURVEY REGIONAL OFFICE (MO) RESPONSIBLE: Portland, Oregon
+
+SERIES ESTABLISHED: Umatilla County, Oregon; 1985
+
+REMARKS:
+Diagnostic horizons and other features in this pedon
+*Mollic epipedon--zone from the surface to a depth of 48 cm
+*Cambic horizon--zone from 48 to 71 cm
+*Volcanic glass--zone from the surface to a depth of 25 cm
+*Depth to lithologic discontinuity--25 cm
+*Particle-size control section--zone from 25 to 71 cm
+*Ultic feature--base saturation less than 75 percent (sum) in zone from 25 to 71 cm
+
+5/2016--This official series description was updated according to SSR1 Technical Note 11--Content and Format of Official Series Descriptions (revised 12/2015). Most of the changes were in formatting; no major technical changes were made.
+
+ADDITIONAL DATA:
+Partial laboratory data--reference sample numbers S92OR-063-008 and 009; Wallowa County, Oregon; Kellogg Soil Survey Laboratory, Lincoln, Nebraska; 1/1994
+
+National Cooperative Soil Survey
+U.S.A.

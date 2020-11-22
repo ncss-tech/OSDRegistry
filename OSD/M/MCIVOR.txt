@@ -1,0 +1,112 @@
+LOCATION MCIVOR                 MI
+
+Established Series
+Rev. EPJ-WEF-MLK
+08/2012
+
+MCIVOR SERIES
+
+The McIvor series consists of very deep, somewhat poorly drained soils formed in sandy lacustrine deposits overlying clayey lacustrine deposits on lake plains. Slope ranges from 0 to 3 percent. Mean annual precipitation is about 762 mm (30 inches), and the mean annual air temperature is about 6.7 degrees C (44 degrees F).
+
+TAXONOMIC CLASS: Sandy, mixed, frigid, shallow, ortstein Typic Duraquods
+
+TYPICAL PEDON: McIvor sand, on a 1 percent slope in woodland. (Colors are for moist soil unless otherwise stated.)
+
+ Oi--0 to 5 cm (2 inches); slightly decomposed hardwood leaf litter.
+
+ A--5 to 10 cm (2 to 4 inches); dark gray (10YR 4/1) sand, gray (10YR 5/1) dry; weak fine granular structure; very friable; many fine to coarse roots; very strongly acid; abrupt smooth boundary. [0 to 5 cm (2 inches) thick]
+
+ E1--10 to 25 cm (4 to 10 inches); pinkish gray (7.5YR 7/2) sand, pinkish gray (7.5YR 7/2) dry; weak medium subangular blocky structure; very friable; many fine to coarse roots; very strongly acid; clear wavy boundary.
+
+ E2--25 to 33 cm (10 to 13 inches); pinkish gray (7.5YR 7/2) sand, pinkish gray (7.5YR 7/2) dry; weak medium subangular blocky structure; very friable; many fine to coarse roots; few fine and medium faint light brownish gray (10YR 6/2) iron depletions throughout; very strongly acid; clear wavy boundary.
+
+ E3--33 to 51 cm (13 to 20 inches); very pale brown (10YR 8/2) sand, very pale brown (10YR 8/2) dry; weak medium subangular blocky structure; very friable; few fine to coarse roots; many medium and coarse distinct light yellowish brown (10YR 6/4) masses of oxidized iron throughout; strongly acid; clear smooth boundary. [Combined thickness of the E horizon is 20 to 46 cm (8 to 18 inches).]
+
+ Bhsm--51 to 66 cm (20 to 26 inches); 60 percent dark reddish brown (5YR 3/3) and 40 percent yellowish brown (10YR 5/6) sand; massive; very hard; ortstein occupies 90 percent of horizon and is strongly cemented; few fine prominent light brownish gray (10YR 6/2) and many medium and coarse prominent grayish brown (10YR 5/2) iron depletions throughout; strongly acid; clear smooth boundary. [15 to 41 cm (6 to 16 inches) thick]
+
+ BC--66 to 79 cm (26 to 31 inches); dark yellowish brown (10YR 4/4) sand; single grain; loose; many medium and coarse distinct brownish yellow (10YR 6/6) masses of oxidized iron throughout; strongly acid; clear smooth boundary. [10 to 51 cm (4 to 20 inches) thick]
+
+ C--79 to 147 cm (31 to 58 inches); pale brown (10YR 6/3) sand; single grain; loose; strongly acid; abrupt smooth boundary. [0 to 76 cm (30 inches) thick]
+
+ 2C--147 to 203 cm (58 to 80 inches); reddish brown (5YR 5/4) silty clay; massive; firm; strongly effervescent; slightly alkaline. [61 to 96 cm (24 to 38 inches) thick]
+
+TYPE LOCATION: Iosco County, Michigan; about 7 miles southwest of Tawas City; 2,130 feet south and 520 feet east of the northwest corner of sec. 18, T. 21 N., R. 7 E.
+
+RANGE IN CHARACTERISTICS: 
+Thickness of the sandy material: 132 to 152 cm (52 to 60 inches)
+Depth to carbonates: 132 to 152 cm (52 to 60 inches)
+
+A horizon:
+Hue: 10YR or is neutral
+Value: 2 to 4
+Chroma: 0 to 1
+Reaction: very strongly acid
+
+E horizon:
+Hue: 7.5YR or 10YR
+Value: 5 to 8
+Chroma: 1 to 3
+Reaction: very strongly acid or strongly acid
+
+Bhsm or Bsm horizon:
+Hue: 10YR to 2.5YR
+Value: 2 to 5
+Chroma: 2 to 6
+Ortstein content: greater than 90 percent of the horizon is cemented; cementation ranges from weak to strong 
+Reaction: strongly acid
+
+Bs horizon, where present:
+Hue: 7.5YR
+Value: 5
+Chroma: 6
+Ortstein content: greater than 50 percent of the horizon is cemented
+
+BC horizon:
+Hue: 10YR
+Value: 4 or 5
+Chroma: 3 to 8
+Reaction: strongly acid
+
+C horizon:
+Hue: 10YR or 2.5Y
+Value: 5 or 6
+Chroma: 3 or 4
+Reaction: strongly acid
+
+Some pedons have an Ab horizon above the 2C horizon.
+
+2C horizon:
+Hue: 5YR or 7.5YR
+Value: 5 
+Chroma: 4
+Texture: silty clay
+Clay content: averages 40 to 60 percent
+Reaction: slightly alkaline
+
+COMPETING SERIES: These are the Finch, Spot, and Whittemore series. Finch and Spot soils do not have textures that average more than 40 percent clay in the lower part of the series control section. Whittemore soils have less than 132 cm (52 inches) of sandy material in the upper part of the series control section.
+
+GEOGRAPHIC SETTING: McIvor soils are on lake plains. Slope ranges from 0 to 3 percent. The McIvor soils formed in sandy lacustrine deposits overlying clayey lacustrine deposits. Mean annual precipitation ranges from 711 to 813 mm (28 to 32 inches). Mean annual air temperature ranges from 6.1 to 7.2 degrees C (43 to 45 degrees F).
+
+GEOGRAPHICALLY ASSOCIATED SOILS: These are the Proper, Pullup, Wabun, and Kanotin. The moderately well drained Proper and somewhat excessively drained Pullup soils are on higher landform positions. The poorly drained or very poorly drained Wabun and Kanotin soils are on lower landscape positions.
+
+DRAINAGE AND SATURATED HYDRAULIC CONDUCTIVITY: Somewhat poorly drained. Depth to the top of an apparent seasonal high water ranges from 15 to 46 cm (.5 to 1.5 feet) between November and May in normal years. Potential for surface runoff is negligible to low. Saturated hydraulic conductivity is moderately high or high in the ortstein material, low in the silty clay substratum, and high or very high throughout the rest of the pedon. Permeability is moderate or moderately rapid in the ortstein material, very slow in the silty clay substratum, and rapid throughout the rest of the pedon.
+
+USE AND VEGETATION: This soil is predominantly wooded, with red maple, paper birch, quaking aspen, red pine and jack pine being the principal species.
+
+DISTRIBUTION AND EXTENT: MLRA 94A in the northeastern lower peninsula of Michigan. The series is of small extent.
+
+MLRA SOIL SURVEY REGIONAL OFFICE (MO) RESPONSIBLE: AMHERST, MASSACHUSETTS
+
+SERIES ESTABLISHED: Iosco County, Michigan, 1994. 
+
+REMARKS: Diagnostic horizons and features recognized in this pedon are: 
+Ochric epipedon: from the surface to a depth of 51 cm (20 inches) (Oi, A, and E horizons).
+Albic horizon: from a depth of 10 to 51 cm (4 to 20 inches) (E horizon).
+Spodic horizon: from a depth of 51 to 66 cm (20 to 26 inches) (Bhsm horizon).
+Lithologic discontinuity: from sand to silty clay at 147 cm (58 inches (top of the2C horizon). 
+Aquic conditions: redoximorphic features present in horizons between 25 and 79 cm (10 and 31 inches).
+
+ADDITIONAL DATA: Soil Interpretation Record No.: MI0119.
+
+National Cooperative Soil Survey
+U.S.A.
