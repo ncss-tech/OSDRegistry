@@ -24,7 +24,7 @@ refresh_registry <- function() {
   if(!requireNamespace("RSelenium"))
     stop("package `RSelenium` is required to download ZIP files")
   
-  rD <- RSelenium::rsDriver()
+  rD <- RSelenium::rsDriver(browser = "chrome")
   remDr <- rD[["client"]]
   # this relies on MO responsible codes 1:12
   for(i in 1:12) {
