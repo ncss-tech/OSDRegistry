@@ -24,10 +24,11 @@ jobs:
         path: ~/.local/share/renv
         key: ${{ runner.os }}-renv-${{ hashFiles('**/renv.lock') }}
         restore-keys: ${{ runner.os }}-renv-
-    - run: sudo apt install libcurl4-openssl-dev 
+    - run: sudo apt install -y libcurl4-openssl-dev firefox-geckodriver
     - uses: r-lib/actions/setup-r@v1
     - run: Rscript -e 'install.packages(c("devtools"))'
     - run: Rscript -e 'saveRDS(remotes::dev_package_deps(dependencies = TRUE), ".github/depends.Rds", version = 2)'
+    - run: Rscript -e 'remotes::install_github("ropensci/RSelenium")'
     - run: Rscript -e 'writeLines(sprintf("R-%i.%i", getRversion()$major, getRversion()$minor), ".github/R-version")'
     - run: Rscript -e 'remotes::install_deps(dependencies = TRUE)'
     - run: |
