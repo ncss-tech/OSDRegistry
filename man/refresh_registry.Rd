@@ -4,7 +4,10 @@
 \alias{refresh_registry}
 \title{Automatic update by regional queries to NASIS soil series server}
 \usage{
-refresh_registry()
+refresh_registry(test = FALSE)
+}
+\arguments{
+\item{test}{Default: \code{FALSE}; run on a pair of small regions (MO 3, 7)}
 }
 \value{
 \code{0} if function completes.

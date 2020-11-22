@@ -1,6 +1,6 @@
 #' Regional Soil Series Data Download
 #' 
-#' @description Download ZIP files containing multiple (>1000) Official Series Descriptions (OSDs) into local Downloads folder. Files matching "osddwn.*zip$" are moved to the package raw directory. The function will wait up to 10 minutes for the server to complete the ZIP file result, but will complete as soon as the result is detected.
+#' @description Download ZIP files containing multiple (>1000) Official Series Descriptions (OSDs) into local Downloads folder. Files matching "osddwn.*zip$" are moved to the package raw directory. The function will wait up to 2 minutes for the server to complete the ZIP file result, but will complete as soon as the result is detected.
 #' 
 #' @param remDr RSelenium Client
 #' @param x A value
@@ -55,25 +55,35 @@
     remDr$open()
     remDr$navigate(osd_result3$url)
     
-    target_dir <- file.path(getwd(),'raw')
-    default_dir <- file.path("/home", Sys.info()[["user"]], "Downloads")
+    target_dir <- file.path(getwd(), 'raw')
+    if (!dir.exists(target_dir)) 
+      dir.create(target_dir, recursive = TRUE)
     
-    # file.remove(list.files(default_dir, "osddwn.*zip$", full.names = TRUE))
-    file_name <- list.files(default_dir, "osddwn.*zip$")
+    # default_dir <- file.path("/home", Sys.info()[["user"]], "Downloads")
+    # if (!dir.exists(default_dir)) 
+    #   dir.create(default_dir, recursive = TRUE)
+    
+    file_name <- list.files(target_dir, "osddwn.*zip$")
     
     webElem <- remDr$findElement("id", "download")
     webElem$clickElement()
     
-    file_name_orig <- file_name
+    orig_file_name <- file_name
     ncycle <- 0
-    while(length(file_name) == length(file_name_orig)) {
-      file_name <- list.files(default_dir, "osddwn.*zip$")
+    while(length(file_name) <= length(orig_file_name)) {
+      file_name <- list.files(target_dir, "osddwn.*zip$")
       Sys.sleep(1)
       ncycle <- ncycle + 1
-      if(ncycle > 500)
+      if(ncycle > 120)
         break;
     }
-    file.rename(file.path(default_dir, file_name), file.path(target_dir, file_name))
+    
+    new_file_name <- file_name[!file_name %in% orig_file_name]
+    if(file.rename(file.path(target_dir, new_file_name), 
+                   file.path(target_dir, paste0(sprintf("r%s_",x), new_file_name))))
+      message(sprintf("Downloaded: %s", new_file_name))
+    else
+      warning(sprintf("Failed to relocate file: %s", file_name))
   }
   
   remDr$close()
