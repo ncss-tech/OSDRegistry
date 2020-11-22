@@ -28,7 +28,6 @@ refresh_registry <- function() {
                             extraCapabilities = list(chromeOptions = list(
                              args = c('--headless', '--disable-gpu', '--window-size=1280,800')
                             )))
-  rD <- rsDriver(extraCapabilities = eCaps)
   remDr <- rD[["client"]]
   # this relies on MO responsible codes 1:12
   for(i in 1:12) {
