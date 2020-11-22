@@ -24,10 +24,10 @@ refresh_registry <- function() {
   
   if(!requireNamespace("RSelenium"))
     stop("package `RSelenium` is required to download ZIP files")
-  available.versions <- binman::list_versions("chromedriver") 
-  latest.version <- available.versions$linux64[length(available.versions)] 
-  rD <- RSelenium::rsDriver(browser = "chrome", chromever = latest.version,
-                            geckover = NULL, iedrver = NULL,
+  # available.versions <- binman::list_versions("chromedriver") 
+  # latest.version <- available.versions$linux64[length(available.versions)] 
+  rD <- RSelenium::rsDriver(browser = "chrome", #chromever = latest.version,
+                            geckover = NULL, #iedrver = NULL,
                             extraCapabilities = list(chromeOptions = list(
                              args = c('--headless', '--disable-gpu', '--window-size=1280,800')
                             )))
