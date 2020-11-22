@@ -38,16 +38,26 @@ jobs:
     - run: R CMD build --no-manual ../OSDRegistry
     - run: Rscript -e 'system2("R", paste0(sprintf("CMD INSTALL OSDRegistry_%s.tar.gz", read.dcf("DESCRIPTION")[,"Version"])))'
     - run: Rscript -e 'OSDRegistry::refresh_registry()'
-    - run: Rscript -e 'system(sprintf("tar -czvf OSDSnapshot_%s.tar.gz OSD", Sys.Date()))'
+    - run: Rscript -e 'system(sprintf("zip OSD_%s.zip OSD/*/*", Sys.Date()))'
+    - run: zip OSD-data-snapshot.zip OSD_*.zip
     - uses: actions/upload-artifact@v2
       with:
         name: OSD-data-snapshot
-        path: "OSDSnapshot_*.tar.gz"
+        path: "OSD-data-snapshot.zip"
     - run: git config user.email github-actions@github.com
     - run: git config user.name SeriesCuratorBot
     - run: git add OSD/*/*.txt
-    - run: Rscript -e 'system(sprintf("git commit -am \"OSD Data Refresh - %s\"", Sys.time()))'
+    - run: Rscript -e 'system(sprintf("git commit -am \"OSD Data Refresh - %s\"", Sys.Date()))'
     - run: git push
+    - name: Upload snapshot to release
+      uses: svenstaro/upload-release-action@v2
+      with:
+        repo_token: ${{ secrets.GITHUB_TOKEN }}
+        file: OSD-data-snapshot.zip
+        asset_name: OSD-data-snapshot.zip
+        tag: ${{ github.ref }}
+        overwrite: true
+        body: "Download the complete Official Series Description weekly snapshot as a ZIP file."
 env:
   DEFAULT_BRANCH: main
   GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
