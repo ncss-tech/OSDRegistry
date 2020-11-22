@@ -40,7 +40,8 @@ refresh_registry <- function(test = FALSE) {
                       "download.prompt_for_download" = FALSE,
                       "directory_upgrade" = TRUE,
                       "download.default_directory" = target_dir
-                    )
+                    ), 
+                    args = c('--headless', '--disable-gpu', '--window-size=1280,800')
                   ))
   
   rD <- RSelenium::rsDriver(browser = "chrome", geckover = NULL,
