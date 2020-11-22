@@ -17,6 +17,7 @@
 #' 
 #' @importFrom utils unzip
 #' @importFrom RSelenium rsDriver
+#' @importFrom binman list_versions
 refresh_registry <- function() {
   
   message("Refreshing OSDs...")

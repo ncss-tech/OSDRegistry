@@ -2,6 +2,7 @@
 
 export(refresh_registry)
 importFrom(RSelenium,rsDriver)
+importFrom(binman,list_versions)
 importFrom(rvest,html_form)
 importFrom(rvest,html_session)
 importFrom(rvest,set_values)
