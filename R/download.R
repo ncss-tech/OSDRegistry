@@ -1,0 +1,81 @@
+#' Regional Soil Series Data Download
+#' 
+#' @description Download ZIP files containing multiple (>1000) Official Series Descriptions (OSDs) into local Downloads folder. Files matching "osddwn.*zip$" are moved to the package raw directory. The function will wait up to 10 minutes for the server to complete the ZIP file result, but will complete as soon as the result is detected.
+#' 
+#' @param remDr RSelenium Client
+#' @param x A value
+#' @param start_year Optional: Start of target "origin" year interval
+#' @param end_year Optional: End of target "origin" year interval
+#' 
+#' @details Need to maintain a single session throughout a sequence of horrid ASPX form steps. Individual sessions maintained via __VIEWSTATE, __EVENTVALIDATION and other "secret" fields.
+#'
+#' @return A Zip File containing series from the selected region.
+#' @author Andrew G. Brown
+#'
+#' @importFrom rvest html_session html_form submit_form set_values
+#' @importFrom RSelenium rsDriver
+.query_series_by_region <- function(remDr, x, start_year = NULL, end_year = NULL) {
+  
+  if(!requireNamespace("RSelenium"))
+    stop("package `RSelenium` is required to download ZIP files")
+  
+  ## -- STEP 1 - SUBMIT query 
+  url1 <- "https://soilseries.sc.egov.usda.gov/osdquery.aspx"
+  osd_session <- html_session(url1)
+  osd_query <- html_form(osd_session)[[1]]
+  
+  # modify request
+  osd_request1 <- set_values(osd_query, ddl_resp_mo = as.character(x), 
+                                        estab_year1 = as.character(start_year),
+                                        estab_year2 = as.character(end_year))
+  
+  osd_result1 <- submit_form(osd_session, osd_request1, "submit_query")
+  Sys.sleep(0.5)
+  
+  osd_request2 <- html_form(osd_result1)[[1]]
+  osd_result2 <- try(submit_form(osd_session, osd_request2, "view"))
+  Sys.sleep(0.5)
+  
+  ## -- STEP 2 - VIEW results (in separate window for "big" queries)
+  if(inherits(osd_result2, 'try-error')) {
+    osd_result2 <- try(submit_form(osd_session, osd_request2, "download"))
+    
+    # Sys.sleep(sleep_time)
+    # stop('This utility only works with queries that require a separate page for viewing.')
+  } else {
+    osd_hidden_report <- html_form(osd_result2)[[1]]$fields$hidden_report_filename
+    url2 <- sprintf("https://soilseries.sc.egov.usda.gov/osdquery_view.aspx?query_file=%s&", 
+                    osd_hidden_report$value)
+    osd_session2 <- html_session(url2) 
+    osd_query2 <- html_form(osd_session2)[[1]]
+    osd_request3 <- osd_query2  
+    
+    ## -- STEP 3 - DOWNLOAD
+    osd_result3 <- submit_form(osd_session2, osd_request3, submit = "download")
+    remDr$open()
+    remDr$navigate(osd_result3$url)
+    
+    target_dir <- file.path(getwd(),'raw')
+    default_dir <- file.path("/home", Sys.info()[["user"]], "Downloads")
+    
+    # file.remove(list.files(default_dir, "osddwn.*zip$", full.names = TRUE))
+    file_name <- list.files(default_dir, "osddwn.*zip$")
+    
+    webElem <- remDr$findElement("id", "download")
+    webElem$clickElement()
+    
+    file_name_orig <- file_name
+    ncycle <- 0
+    while(length(file_name) == length(file_name_orig)) {
+      file_name <- list.files(default_dir, "osddwn.*zip$")
+      Sys.sleep(1)
+      ncycle <- ncycle + 1
+      if(ncycle > 500)
+        break;
+    }
+    file.rename(file.path(default_dir, file_name), file.path(target_dir, file_name))
+  }
+  
+  remDr$close()
+  return(0)
+}

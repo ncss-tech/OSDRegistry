@@ -1,17 +1,41 @@
-#' Refresh the repository/package data by automating regional queries to soil series server
-#' @description Thank goodness we don't need to read .doc files... the server delivers .txt masquerading as .doc.
-#' @return Text files written to alphabetical folders containing raw Official Series Description (OSD) text. For use in automatic pipeline to regularly commit changes across the entire set of OSDs.
+#' Automatic update by regional queries to NASIS soil series server
+#' 
+#' @description Text files are written to alphabetical (first letter) folders containing raw Official Series Descriptions (OSDs). This method is for use in automatic pipeline (e.g. a GitHub action) to regularly replicate changes that occur across the entire set of series for commit.
+#' 
+#' There is an assumption that the files are downloaded to a Linux-like default \code{"Downloads"} folder \code{"~/Downloads"} or \code{"/home/user/Downloads"} which are standard on \code{"ubuntu-latest"} where these actions are typically run. The files matching the path \code{"osddwn.*zip$"} get moved to the repository "raw" folder.
+#' 
+#' @return \code{0} if function completes.
+#' @details Thank goodness we don't need to read .doc files... the server delivers .txt masquerading as .doc. Queries that error are re-tried after splitting in half (established year before or after 1980).
+#' 
 #' @export
+#' 
+#' @author Andrew G. Brown
+#' 
+#' @examples 
+#' 
+#' # refresh_registry()
+#' 
 #' @importFrom utils unzip
+#' @importFrom RSelenium rsDriver
 refresh_registry <- function() {
   
-  # message("Downloading data...")
-  
-  # TODO: download ZIPs (pain in the butt; automate ASPX form submission by region?)
   message("Refreshing OSDs...")
   
-  # unzip to single directory of .doc files
+  if(!requireNamespace("RSelenium"))
+    stop("package `RSelenium` is required to download ZIP files")
   
+  rD <- RSelenium::rsDriver()
+  remDr <- rD[["client"]]
+  # this relies on MO responsible codes 1:12
+  for(i in 1:12) {
+    res <- .query_series_by_region(remDr, i)
+    if(inherits(res, 'try-error')) {
+      try(.query_series_by_region(remDr, i, start_year = 1800, end_year = 1980))
+      try(.query_series_by_region(remDr, i, start_year = 1980, end_year = format(Sys.Date(),"%Y")))
+    }
+  }
+  
+  # unzip to single directory of .doc files
   lapply(file.path("raw", 
                    list.files("raw", "zip", 
                               recursive = TRUE, 
@@ -19,7 +43,6 @@ refresh_registry <- function() {
          unzip, exdir = "raw/doc")
   
   # read .doc files
-  
   docfiles <-  list.files("raw/doc", "doc$", recursive = TRUE)
   docletters <- toupper(substr(basename(docfiles), 0, 1))
   
