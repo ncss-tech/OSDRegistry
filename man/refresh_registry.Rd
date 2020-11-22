@@ -22,6 +22,7 @@ Thank goodness we don't need to read .doc files... the server delivers .txt masq
 }
 \examples{
 
+## note: takes several minutes to run and downloads ~100MB .ZIP data
 # refresh_registry()
 
 }

@@ -16,8 +16,7 @@
 #' @importFrom RSelenium rsDriver
 .query_series_by_region <- function(remDr, x, start_year = NULL, end_year = NULL) {
   
-  if(!requireNamespace("RSelenium"))
-    stop("package `RSelenium` is required to download ZIP files")
+  stopifnot(requireNamespace("RSelenium"))
   
   ## -- STEP 1 - SUBMIT query 
   url1 <- "https://soilseries.sc.egov.usda.gov/osdquery.aspx"
@@ -38,10 +37,8 @@
   
   ## -- STEP 2 - VIEW results (in separate window for "big" queries)
   if(inherits(osd_result2, 'try-error')) {
-    osd_result2 <- try(submit_form(osd_session, osd_request2, "download"))
-    
-    # Sys.sleep(sleep_time)
-    # stop('This utility only works with queries that require a separate page for viewing.')
+    # osd_result2 <- try(submit_form(osd_session, osd_request2, "download"))
+    stop('This utility only works with queries that require a separate page for viewing.')
   } else {
     osd_hidden_report <- html_form(osd_result2)[[1]]$fields$hidden_report_filename
     url2 <- sprintf("https://soilseries.sc.egov.usda.gov/osdquery_view.aspx?query_file=%s&", 

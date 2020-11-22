@@ -16,6 +16,7 @@
 #' 
 #' @examples 
 #' 
+#' ## note: takes several minutes to run and downloads ~100MB .ZIP data
 #' # refresh_registry()
 #' 
 #' @importFrom utils unzip
