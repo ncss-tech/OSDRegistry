@@ -1,13 +1,11 @@
 on:
   push:
-    tags:
-      - 'OSD Data Refresh*' 
 
 name: Upload OSD Snapshot
 
 jobs:
   build:
-    name: Upload Release Asset
+    name: Upload Latest OSD Snapshot as Release Asset
     runs-on: ubuntu-latest
     steps:
       - name: Checkout code
@@ -21,8 +19,8 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
-          tag_name: ${{ github.ref }}
-          release_name: Release ${{ github.ref }}
+          tag_name: OSD-data-snapshot
+          release_name: OSD-data-snapshot
           draft: false
           prerelease: false
       - name: Upload Release Asset
