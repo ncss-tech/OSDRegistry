@@ -33,6 +33,10 @@ jobs:
     steps:
       - uses: actions/checkout@v2
 
+      - run: sudo apt install -y libcurl4-openssl-dev chromium-chromedriver
+      - run: wget https://dl.google.com/linux/direct/google-chrome-stable_current_amd64.deb
+      - run: sudo apt install ./google-chrome-stable_current_amd64.deb
+      
       - uses: r-lib/actions/setup-r@v1
         with:
           r-version: ${{ matrix.config.r }}
