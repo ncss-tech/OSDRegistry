@@ -45,8 +45,30 @@ refresh_registry <- function(test = FALSE) {
                     args = c('--headless', '--disable-gpu', '--window-size=1280,800')
                   ))
   
-  rD <- RSelenium::rsDriver(browser = "chrome", geckover = NULL,
-                            extraCapabilities = eCaps)
+  gcv <- trimws(gsub("Google Chrome ","\\1",
+                     system("google-chrome --version", intern = TRUE)))
+                
+  res <- try(rD <- RSelenium::rsDriver(browser = "chrome", 
+                            chromever = gcv,
+                            geckover = NULL,
+                            extraCapabilities = eCaps))
+  
+  if(inherits(res, 'try-error')) {
+    gcv.split <- strsplit(gsub("\\n", "", 
+                               gsub(".* = (.*)", "\\1", 
+                                    as.character(res))), ",")[[1]]
+    
+    # get the latest chrome version without going newer
+    idx.cv <- which.max(cumsum(gcv.split <= gcv))
+    res <- try(rD <- RSelenium::rsDriver(browser = "chrome", 
+                                         chromever = gcv.split[idx.cv],
+                                         geckover = NULL,
+                                         extraCapabilities = eCaps))
+    
+    if(inherits(res, 'try-error'))
+      stop("Cannot get latest Selenium driver")
+  }
+  
   remDr <- rD[["client"]]
 
   message("Refreshing OSDs...")
