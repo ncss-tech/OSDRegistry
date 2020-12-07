@@ -2,7 +2,7 @@ LOCATION BATES                  KS+MO OK
 
 Established Series
 Rev. PRF-JGF-RGC
-12/2015
+12/2020
 
 BATES SERIES
 
@@ -22,7 +22,7 @@ TYPICAL PEDON: Bates loam, on a convex, 3 percent slope in rangeland, on a summi
 
  Cr--84 to 94 cm (33 to 37 inches); fine-grained sandstone containing thin beds of silty shale.
 
-TYPE LOCATION: Crawford County, Kansas; 2 miles northwest of Farlington; 3300 feet west and l600 feet south of the northeast corner of sec. 1, T. 28 S., R. 23 E.; USGS Hiattville, Kansas topographic quadrangle; lat. 37 degrees 38 minutes 27 seconds N. and long. 94 degrees 50 minutes 35 seconds W.; UTM Zone 15, 337391 easting and 4167563 northing; NAD 83.
+TYPE LOCATION: Crawford County, Kansas; 2 miles northwest of Farlington; 3300 feet west and 1600 feet south of the northeast corner of sec. 1, T. 28 S., R. 23 E.; USGS Hiattville, Kansas topographic quadrangle; lat. 37 degrees 38 minutes 27 seconds N. and long. 94 degrees 50 minutes 35 seconds W.; UTM Zone 15, 337391 easting and 4167563 northing; NAD 83.
 
 RANGE IN CHARACTERISTICS:
 Depth to paralithic contact (sandstone or shale): 51 to 102 cm (20 to 40 inches)
@@ -35,17 +35,26 @@ Value: 2, 2.5, or 3, 3 to 5 dry
 Chroma: 2 or 3 moist or dry
 Texture: loam, fine sandy loam, or clay loam
 Clay content: 5 to 35 percent
-Sand content: 20 to 70 percent
+Sand content: 20 to 75 percent
 Pararock fragment content: 0 to 14 percent sandstone fragments less than 75 mm (3 inches) in diameter 
+
+BA horizon, where present:
+Hue: 7.5YR or 10YR
+Value: 2, 2.5 or 3, 3 to 5 dry
+Chroma: 2 or 3 moist or dry
+Texture: loam, fine sandy loam, clay loam, or sandy loam
+Clay content: 5 to 35 percent
+Sand content: 20 to 80 percent
+Pararock fragment content: 0 to 14 percent sandstone fragments less than 75 mm (3 inches) in diameter
 
 Bt horizon:
 Hue: 7.5YR or 10YR
 Value: 3 to 5, 4 to 6 dry
 Chroma: 3 to 6 moist or dry
+Texture: loam, sandy clay loam, or clay loam
 Clay content: 8 to 35 percent
-Sand content: 20 to 70 percent
-Texture: loam, sandy clay loam, or clay loam.  
-Paraock fragment content: 0 to 14 percent sandstone fragments less than 75 mm (3 inches) in diameter
+Sand content: 20 to 80 percent
+Pararock fragment content: 0 to 14 percent sandstone fragments less than 75 mm (3 inches) in diameter
 
 BC horizon, where present:
 Hue: 7.5YR or 10YR
@@ -53,8 +62,8 @@ Value: 4 or 5, 5 to 7 dry
 Chroma: 4 to 6 moist or dry
 Texture: loam, sandy clay loam, clay loam, or sandy loam, or their gravelly analogues
 Clay content: 5 to 35 percent
-Sand content: 20 to 70 percent
-Paraock fragment content: 0 to 34 percent sandstone fragments less than 75 mm (3 inches) in diameter
+Sand content: 20 to 80 percent
+Pararock fragment content: 0 to 34 percent sandstone fragments less than 75 mm (3 inches) in diameter
 Other feature: in some pedons this horizon has streaks or mottles with value of 4 or higher and chroma of 2 or less
 
 COMPETING SERIES: This is the Portersprings series. Portersprings soils have sola more than 152 cm (60 inches) in thickness.
@@ -63,21 +72,19 @@ GEOGRAPHIC SETTING: Bates soils are on interfluves and hillslopes on plains. Slo
 
 GEOGRAPHICALLY ASSOCIATED SOILS: These are the Aliceville, Collinsville, Coweta, Dennis, Eram, and Lula soils. Aliceville and Lula soils are on adjacent areas underlain by limestone. Collinsville and Coweta soils are typically steeper and are less than 51 cm (20 inches) to bedrock. Dennis and Eram soils are on similar topographic positions as Bates soils, but have a fine-textured argillic horizon. 
 
-DRAINAGE AND SATURATED HYDRAULIC CONDUCTIVITY: Well drained. Potential for surface runoff is low or medium. Saturated hydraulic conductivity is moderately high or high. Permeability is moderate.
+DRAINAGE AND SATURATED HYDRAULIC CONDUCTIVITY: Well drained. Potential for surface runoff is low or medium. Saturated hydraulic conductivity is moderately high (1.4 to 14 micrometers per second) or high (14 to 42 micrometers per second). Permeability is moderate.
 
 USE AND VEGETATION: About equally divided between grassland and cultivated crops. Principal crops are wheat, soybeans, and grain sorghum. Native vegetation is prairie grasses, mainly big bluestem, little bluestem, and Indiangrass.
 
-DISTRIBUTION AND EXTENT: Mostly in MLRAs 76 and 112 and LRUs 84A, with lesser extent in LRUs 116A and 118B, in southeastern Kansas, eastern Oklahoma, and southwestern Missouri. The type location is in MLRA 112. The series is extensive.
+DISTRIBUTION AND EXTENT: MLRAs 76, 84A, 85, 87B, 118B and 112 in southeastern Kansas, eastern Oklahoma, and southwestern Missouri. The type location is in MLRA 112. The series is extensive.
 
-MLRA SOIL SURVEY REGIONAL OFFICE (MO) RESPONSIBLE: Indianapolis, Indiana.
+SOIL SURVEY REGIONAL OFFICE (SSRO) RESPONSIBLE: Indianapolis, Indiana.
 
 SERIES ESTABLISHED: Bates County, Missouri, 1908.
 
 REMARKS: Diagnostic horizons and features recognized in this pedon are: Mollic epipedon: from the surface to a depth of 41 cm (16 inches) (A and BA horizons). 
 Argillic horizon: from a depth of 41 to 58 cm (16 to 23 inches) (Bt horizon). 
 Paralithic contact: Cr horizon at 84 cm (33 inches).
-
-12/2015 revision: added metric units, updated redox terminology in profile, added geographic coordinates, changed RIC format to semi-tabular, added Portersprings as competing series, added Aliceville as a geographically associated soil; added LRUs 116A and 118B to extent.
 
 ADDITIONAL DATA: Lab data is available for the typical pedon (User Pedon ID 1973KS037001 or Lab Pedon Number 40A1828) from the Kellogg Soil Survey Laboratory, Lincoln, NE. Soil Interpretation Record: Series KS0007.
 

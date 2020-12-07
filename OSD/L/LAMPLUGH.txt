@@ -2,7 +2,7 @@ LOCATION LAMPLUGH               AK
 
 Tentative Series
 IRD. JDP/NDP/SCD
-05/2020
+12/2020
 
 LAMPLUGH SERIES
 
@@ -18,7 +18,7 @@ Soil moisture regime--aquic
 Soil temperature regime--cryic
 Soil moisture subclass--typic
 
-TAXONOMIC CLASS: Coarse-loamy, mixed, superactive, nonacid Typic Cryaquepts
+TAXONOMIC CLASS: Fine-loamy, mixed, superactive, nonacid Typic Cryaquepts
 
 TYPICAL PEDON: Lamplugh sandy loam, forested, on an outwash delta, on a slope of 2 percent at an elevation of 20 m (When described on June 23, 2014, the soil was moist from the surface to a depth of 21 cm and wet from a depth of 21 to 150 cm.)
 
@@ -79,7 +79,8 @@ Reaction (pH)--6.1 to 7.2
 Effervescence--noneffervescent to slightly effervescent
 Thickness--15 to 90 cm
 
-COMPETING SERIES: None
+COMPETING SERIES: 
+Ewan--glacial lacustrine and alluvium derived fine earth fraction without an Albic horizon
 
 GEOGRAPHIC SETTING:
 Elevation--0 to 20 m

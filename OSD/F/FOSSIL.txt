@@ -2,7 +2,7 @@ LOCATION FOSSIL                 AK
 
 Tentative Series
 IRD. TDM/NDP/SCD
-05/2020
+12/2020
 
 FOSSIL SERIES
 
@@ -18,7 +18,7 @@ Soil moisture regime--udic
 Soil temperature regime--cryic
 Soil moisture subclass--typic
 
-TAXONOMIC CLASS: Sandy-skeletal, mixed Typic Cryorthents
+TAXONOMIC CLASS: Sandy, mixed Typic Cryorthents
 
 TYPICAL PEDON: Fossil sand on a pitted outwash plain, on a slope of 1 percent at an elevation of 4 m (When described on June 09, 2013, the soil was moist throughout.)
 
@@ -94,14 +94,7 @@ Reaction (pH)--7.1 to 8.7
 Thickness--35 to 60 cm
 
 COMPETING SERIES:
-Bearisland--derived from drift; on moraines of mountains
-Chena--substantial amount of mica throughout
-Drybay--lithologic discontinuity; free carbonates only in lower part
-Eklutna--dry in soil moisture control section more than 45 days in June through October
-Ekuk--dry in some parts of soil moisture control section more than 45 days in June through October; pH of 6.1 to 7.3
-Lituya--O horizon consisting of herbaceous litter; derived from marine deposits
-Muirpoint--derived from glaciofluvial sediment
-Nataga, Nizina--dry in some parts of soil moisture control section more than 45 consecutive days in June through October
+None
 
 GEOGRAPHIC SETTING:
 Elevation--8 to 70 m

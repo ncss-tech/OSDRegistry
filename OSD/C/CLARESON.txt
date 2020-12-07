@@ -2,7 +2,7 @@ LOCATION CLARESON               KS+AR MO
 
 Established Series
 Rev. JMA-LEB-RGC
-08/2015
+12/2020
 
 CLARESON SERIES
 
@@ -16,13 +16,13 @@ TYPICAL PEDON:  Clareson stony silty clay loam, convex, 2 percent slope in nativ
 
    BA--20 to 36 cm (8 to 14 inches); very dark brown (10YR 2/2) silty clay loam, brown (7.5YR 4/2) dry; moderate medium granular structure; hard, firm; common fine roots; 5 percent limestone channers; moderately acid; gradual smooth boundary. [0 to 20 centimeters (0 to 8 inches) thick]
 
-   Bt--36 to 64 cm (14 to 25 inches); dark reddish brown (5YR 3/3) very flaggy silty clay, reddish brown (5YR 4/3) dry; moderate medium subangular blocky structure; very hard, very firm; few fine roots;  few fine iron-manganese concretions; 15 percent limestone channers and 30 percent flagstones; moderately acid; gradual wavy boundary. [15 to 43 centimeters (6 to 17 inches) thick]
+   Bt--36 to 64 cm (14 to 25 inches); dark reddish brown (5YR 3/3) very flaggy silty clay, reddish brown (5YR 4/3) dry; moderate medium subangular blocky structure; very hard, very firm; few fine roots; few fine iron-manganese concretions; 15 percent limestone channers and 30 percent flagstones; moderately acid; gradual wavy boundary. [15 to 43 centimeters (6 to 17 inches) thick]
 
    BC--64 to 76 cm (25 to 30 inches); dark reddish brown (5YR 3/3) very flaggy silty clay, reddish brown (5YR 4/3) dry; weak medium subangular blocky structure; very hard, very firm; common medium distinct strong brown (7.5YR 5/8) iron-manganese masses; common small black concretions; flaggy limestone fragments comprise 55 percent of volume; neutral; abrupt wavy boundary. [0 to 30 centimeters (0 to 12 inches) thick]
 
    R--76 cm (30 inches); hard limestone bedrock.
 
-TYPE LOCATION:  Crawford County, Kansas; about 6.4 kilometers (4 miles) west and 2.8 kilometers (l 3/4 miles) south of Arcadia; 335 meters (1,100 feet north) and 45 meters (150 feet) east of the southwest corner of sec. 8, T. 28 S., R. 25 E; USGS Arma, Kansas topographic quadrangle; lat. 37 degrees 38 minutes 32.50 seconds N. and long. 94 degrees 48 minutes 15.36 seconds W.; UTM Zone 15, 340811 easting and 4167666 northing, NAD 83.
+TYPE LOCATION:  Crawford County, Kansas; about 4 miles west and l 3/4 miles south of Arcadia; 1,100 feet north and 150 feet east of the southwest corner of sec. 8, T. 28 S., R. 25 E; USGS Arma, Kansas topographic quadrangle; lat. 37 degrees 38 minutes 32.50 seconds N. and long. 94 degrees 48 minutes 15.36 seconds W.; UTM Zone 15, 340811 easting and 4167666 northing, NAD 83.
 
 RANGE IN CHARACTERISTICS:
 Depth to bedrock: ranges from 51 to 102 centimeters (20 to 40 inches).
@@ -36,8 +36,19 @@ A horizon:
 Hue: 7.5YR or 10YR
 Value: 2 or 3 and 3 to 5 dry
 Chroma: 2 or 3
-Texture: silt loam, silty clay loam, stony silty clay loam, stony silt loam, flaggy silt loam, flaggy silty clay loam.
-Clay content: 20 to 38 percent
+Texture: silt loam, silty clay loam, or their channery, flaggy, or stony analogues.
+Clay content: 20 to 39 percent
+Sand content: 0 to 20 percent
+Rock fragment content: 0 to 20 percent
+Reaction: moderately acid to neutral
+
+BA horizon:
+Hue: 7.5YR or 10YR
+Value: 2 or 3 and 3 to 5 dry
+Chroma: 2 or 3
+Texture: silt loam, silty clay loam, silty clay, clay, or their channery, flaggy, or stony analogues
+Clay content: 20 to 55 percent
+Sand content: 0 to 20 percent
 Rock fragment content: 0 to 20 percent
 Reaction: moderately acid to neutral
 
@@ -45,8 +56,9 @@ Bt horizon:
 Hue: 2.5YR to 7.5YR
 Value: 2 to 4 and 4 or 5 dry
 Chroma: 2 to 6
-Texture: very or extremely stony or flaggy silty clay, clay or silty clay loam
+Texture: very or extremely channery, flaggy, or stony silty clay, clay or silty clay loam
 Clay content: 38 to 70 percent
+Sand content: 0 to 25 percent
 Rock fragment content: 35 to 85 percent limestone channers or flagstones.
 Reaction: moderately acid to neutral
 
@@ -54,26 +66,27 @@ BC horizon: (when present)
 Hue: 2.5YR to 7.5YR
 Value: 2 to 4 and 4 or 5 dry
 Chroma: 2 to 6
-Texture: very or extremely stony or flaggy silty clay or clay
+Texture: very or extremely channery, flaggy, or stony silty clay or clay
 Clay content: 40 to 70 percent
+Sand content: 0 to 20 percent
 Rock fragment content: 35 to 85 percent limestone channers or flagstones.
 Reaction: moderately acid to neutral
 
 COMPETING SERIES:  There are no competing series.
 
-GEOGRAPHIC SETTING:  Clareson soils are on uplands that have a convex surface.  Slope ranges from 0 to 15 percent.  The soils formed in material weathered from hard limestone that is jointed and thinly bedded.  Mean annual precipitation ranges from 890 to 1140 mm (35 to 45 inches).  Mean annual temperature ranges from 14 to 17 degrees C (57 to 63 degrees F).  Frost-free period is 185 to 255 days.  Elevation is 244 to 457 meters (800 to 1499 feet) above mean sea level.
+GEOGRAPHIC SETTING:  Clareson soils are on uplands that have a convex surface.  Slope ranges from 0 to 15 percent.  The soils formed in material weathered from hard limestone that is jointed and thinly bedded.  Mean annual precipitation ranges from 940 to 1200 mm (37 to 47 inches).  Mean annual temperature ranges from 14 to 17 degrees C (57 to 63 degrees F).  Frost-free period is 175 to 255 days.  Elevation is 230 to 395 meters (755 to 1295 feet) above mean sea level.
 
 GEOGRAPHICALLY ASSOCIATED SOILS:  These are the Catoosa, Aliceville (Lula), Ringo, Sogn, Summit, and Zaar soils.  Catoosa, Aliceville (Lula), and Sogn are on similar topographic positions as Clareson soils.  Aliceville, Ringo and Summit are moderately well drained.  Sogn is somewhat excessively drained and Zaar is somewhat poorly drained or moderately well drained.  Ringo, Summit, and Zaar soils contain less than 15 percent coarse fragments and are below Clareson soils in the landscape.
 
-DRAINAGE AND SATURATED HYDRAULIC CONDUCTIVITY:  Well drained.  Potential for surface runoff is high to very high.  Saturated hydraulic conductivity is moderately high or moderately low.  Permeability is moderately slow or slow.
+DRAINAGE AND SATURATED HYDRAULIC CONDUCTIVITY:  Well drained.  Potential for surface runoff is high to very high.  Saturated hydraulic conductivity is moderately high (1 to 4 micrometers per second) in the surface and moderately low (0.4 to 1.4 micrometers per second) in the subsoil.  Permeability is moderately slow or slow.
 
 USE AND VEGETATION:  Soils are mostly in native grass pasture.  Most common grasses are big bluestem, little bluestem, switchgrass, indiangrass, and sideoats grama.
 
-DISTRIBUTION AND EXTENT:  MLRA 112 in southeastern Kansas and possibly southwestern Missouri.  The series is of moderate extent.
+DISTRIBUTION AND EXTENT:  MLRA 76, MLRA 84A, MLRA 112, and MLRA 116A in southeastern Kansas, southwestern Missouri and northwestern Arkansas.  The series is of large extent.
 
-MLRA SOIL SURVEY REGIONAL OFFICE (MO) RESPONSIBLE: Indianapolis, Indiana
+SOIL SURVEY REGIONAL OFFICE (SSRO) RESPONSIBLE: Indianapolis, Indiana
 
-SERIES ESTABLISHED:  Crawford County, Kansas, l969.
+SERIES ESTABLISHED:  Crawford County, Kansas, 1969.
 
 REMARKS:  Diagnostic horizons and features recognized in this pedon are:
 Mollic epipedon: from the surface to a depth of 36 cm (14 inches) (A and BA horizons).
@@ -82,8 +95,8 @@ Argillic horizon: from a depth of 36 to 64 cm (14 to 25 inches) (Bt horizon).
 
 NASIS data mapunit ID 745328 represents the typical pedon.  Other NASIS DMU ID's are 745325, 745326, 745327 and 745330.
 
-ADDITIONAL DATA: Lab data is available for the series (User Pedon ID 1969KS037016 and 69KS037016 or Lab Number 69KS037016 and 83P0731from KSSL.
-National Soil Survey Laboratory, Lincoln, Nebraska 83KS121001.
+ADDITIONAL DATA:
+Laboratory data--Kellogg Soil Survey Laboratory, Lincoln, Nebraska. - user pedon IDs 1969KS037016 and 83KS121001.
 
 National Cooperative Soil Survey
 U.S.A.

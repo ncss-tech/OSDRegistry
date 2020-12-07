@@ -2,7 +2,7 @@ LOCATION BEARTRACK              AK
 
 Tentative Series
 IRD. JP/NDP/SCD
-05/2020
+12/2020
 
 BEARTRACK SERIES
 
@@ -18,7 +18,7 @@ Soil moisture regime--aquic
 Soil temperature regime--cryic
 Soil moisture subclass--typic
 
-TAXONOMIC CLASS: Coarse-loamy, mixed, superactive, calcareous Typic Cryaquents
+TAXONOMIC CLASS: Coarse-silty, mixed, superactive, calcareous Typic Cryaquents
 
 TYPICAL PEDON: Beartrack silt loam on a fluviomarine bottom, on a slope of 3 percent at sea level (When described on August 1, 2014, the soil was wet throughout.)
 
@@ -75,7 +75,7 @@ Electrical conductivity--8 to 15 dS/m
 Thickness--60 to 120 cm
 
 COMPETING SERIES:
-Vivid--skeletal below a depth of 25 cm; no saltwater influence; electrical conductivity of less than 2 dS/m
+None
 
 GEOGRAPHIC SETTING:
 Elevation--0 to 20 m
@@ -114,7 +114,7 @@ Diagnostic horizons and other features in this pedon
 *Sodium adsorption ratio--more than 8 throughout
 *Electrical conductivity--4 to 7 dS/m in Cg1 horizon, 8 to 15 dS/m in Cg2 and Cg3 horizons
 *Redoximorphic concentrations--zone from 2 to 40 cm
-*Particle-size control section--zone from 25 to 100 cm
+*Particle-size control section--zone from 27 to 102 cm
 
 National Cooperative Soil Survey
 U.S.A.

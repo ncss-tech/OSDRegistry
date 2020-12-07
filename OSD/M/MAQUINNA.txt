@@ -2,7 +2,7 @@ LOCATION MAQUINNA               AK
 
 Tentative Series
 IRD. NDP/SCD
-05/2020
+12/2020
 
 MAQUINNA SERIES
 
@@ -18,7 +18,7 @@ Soil moisture regime--udic
 Soil temperature regime--cryic
 Soil moisture subclass--typic
 
-TAXONOMIC CLASS: Loamy-skeletal, mixed, superactive Typic Humicryepts
+TAXONOMIC CLASS: Coarse-loamy, mixed, superactive Typic Humicryepts
 
 TYPICAL PEDON: Maquinna gravelly silt loam, forested, on a mountain slope of 46 percent at an elevation of 144 m (When described on July 31, 2014, the soil was moist to a depth of 107 cm.)
 
@@ -70,9 +70,7 @@ Reaction (pH)--4.6 to 5.3
 Thickness--20 to 55 cm
 
 COMPETING SERIES:
-Atayak--cobbles in profile; cambic horizon
-Bergbay--50 to 100 cm (moderately deep) to a lithic contact; no folistic epipedon
-Ibach--no lithic contact within a depth of more than 150 cm (very deep); no folistic epipedon
+Blaquirre--Moderately deep to lithic bedrock
 
 GEOGRAPHIC SETTING:
 Elevation--30 to 250 m
