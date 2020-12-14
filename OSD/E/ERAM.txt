@@ -2,11 +2,11 @@ LOCATION ERAM                   OK+KS MO
 
 Established Series
 Rev. JFH-CRC-JCP
-10/2017
+12/2020
 
 ERAM SERIES
 
-The Eram series consists of moderately deep, moderately well drained soils that formed from shale interbedded with thin layers of sandstone of Pennsylvanian age.  Slope ranges from 1 to 20 percent.  Mean annual precipitation is about 990 mm (39 inches) and Mean annual air temperature is about 13 degrees C (56 degrees F).
+The Eram series consists of moderately deep, moderately well drained soils on interfluves and hillslopes. They formed from shale interbedded with thin layers of sandstone of Pennsylvanian age.  Slope ranges from 1 to 20 percent.  Mean annual precipitation is about 1045 mm (41 inches) and Mean annual air temperature is about 15 degrees C (59 degrees F).
 
 TAXONOMIC CLASS: Fine, mixed, active, thermic Aquic Argiudolls
 
@@ -31,7 +31,9 @@ Hue: 7.5YR to 5Y
 Value: 2 or 3
 Chroma: 2 or 3
 Texture: silt loam, clay loam, silty clay loam, or silty clay
-Sandstone fragments: less than 3 inches in diameter make up 0 to 15 percent by volume
+Clay content: 18 to 55 percent
+Sand content: 0 to 45 percent
+Rock fragment content: Sandstone less than 75 millimeters (3 inches) in diameter make up 0 to 14 percent by volume
 Reaction: moderately acid or slightly acid
 
 Bt horizon:
@@ -41,6 +43,8 @@ Chroma: 2 to 4
 Pedons with value of 4 or 5 and chroma of 3 or 4 have redoximorphic depletions with value of 4 or more and chroma of 2 or less.
 Texture: clay loam, silty clay loam, silty clay, or clay
 Clay content: 35 to 55 percent
+Sand content: 0 to 40 percent
+Rock fragment content: Shale less than 75 millimeters (3 inches) in diameter make up 0 to 14 percent by volume
 Reaction: strongly acid to moderately alkaline
 
 BC horizon:
@@ -49,6 +53,9 @@ Value: 4 to 7
 Chroma: 2 to 6
 Redoximorphic features are in shades of gray, brown, and red.
 Texture: clay loam, silty clay loam, silty clay, or clay
+Clay content: 35 to 55 percent
+Sand content: 0 to 40 percent
+Rock fragment content: Shale less than 75 millimeters (3 inches) in diameter make up 0 to 14 percent by volume
 Reaction: strongly acid to moderately alkaline
 
 Cr horizon:
@@ -59,7 +66,7 @@ Reaction: slightly acid to moderately alkaline
 COMPETING SERIES:  These are the Dennis and the Garton series.  
 Dennis and Garton soils have a solum more than 152 cm (60 inches) thick.
 
-GEOGRAPHIC SETTING:  Eram soils are on very gently sloping to moderately steep ridges and sideslopes of hills. Slope ranges from 1 to 20 percent. The soils formed in shales interbedded with thin layers of sandstone of Pennsylvanian age. Mean annual precipitation ranges from 483 to 1702 mm (19 to 67 inches). Mean annual temperature ranges from 7 to 19 degrees C (45 to 66 degrees F). Frost-free period is 185 to 245 days. Elevation is 175 to 427 meters (575 to 1400 feet) above mean sea level. Thornthwaite annual P-E indices is 64 to 80.
+GEOGRAPHIC SETTING:  Eram soils are on very gently sloping to moderately steep ridges and sideslopes of hills. Slope ranges from 1 to 20 percent. The soils formed in shales interbedded with thin layers of sandstone of Pennsylvanian age. Mean annual precipitation ranges from 890 to 1200 mm (35 to 47 inches). Mean annual temperature ranges from 13 to 17 degrees C (55 to 63 degrees F). Frost-free period is 175 to 255 days. Elevation is 140 to 445 meters (460 to 1460 feet) above mean sea level. Thornthwaite annual P-E indices is 64 to 80.
 
 GEOGRAPHICALLY ASSOCIATED SOILS: These are the Collinsville, Coweta, Dennis, Kenoma, Okemah, Talihina, Lebo and Woodson series.
 Dennis, Kenoma, and Okemah soils occur on lower broad smooth slopes.
@@ -72,7 +79,7 @@ DRAINAGE AND SATURATED HYDRAULIC CONDUCTIVITY:  Moderately well drained. Depth t
 
 USE AND VEGETATION:  Used mainly for range.  Native vegetation is tall grass prairie.  Some areas are cultivated to small grains, grain sorghums, soybeans, alfalfa, and tame pasture.
 
-DISTRIBUTION AND EXTENT:  Cherokee Prairies (MLRA 112) of Oklahoma, Kansas, and Missouri.  The series is moderately extensive.
+DISTRIBUTION AND EXTENT:  MLRAs 76, 84A, 112, 118B and 119) of Oklahoma, Kansas, and Missouri.  The series is moderately extensive.
 
 MLRA SOIL SURVEY REGIONAL OFFICE (MO) RESPONSIBLE: Indianapolis, Indiana
 
