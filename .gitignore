@@ -6,3 +6,6 @@
 *.html
 raw/doc/*
 raw/*
+tests/testthat/raw/*
+tests/testthat/OSD/*
+tests/testthat/inst/*

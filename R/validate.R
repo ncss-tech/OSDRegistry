@@ -1,8 +1,20 @@
+#' Validate OSD using NSSH standards
+#' @param filepath Path to a single plain text file containing OSD narrative
+#'
+#' @return A nested list containing OSD structure for specified file path
+#' @export
+#' @importFrom stringi stri_trans_general
 validateOSD <- function(filepath) {
+
+  if (!file.exists(filepath))
+    return(FALSE)
+
+  raw <- scan(file = filepath,
+              what = character(), 
+              sep = "\n", quiet = TRUE)
+  raw <- stringi::stri_trans_general(raw, "Latin-ASCII")
   
-  raw <- readLines(filepath)
   raw <- trimws(raw[trimws(raw) != ""])
-  
   x <- trimws(raw[-grep("^([A-Z '`]{2}[A-Z .`']+)", raw, invert = TRUE)])
   
   loc.idx <- grep("^LOCATION", x)[1]
@@ -26,8 +38,9 @@ validateOSD <- function(filepath) {
   marker_self2 <- trimws(gsub("([A-Z .`']) SERIES", "\\1", x[ser.idx]))
   
   if (marker_self1[1] != marker_self2) {
-    print(marker_self1[1])
-    print(marker_self2)
+    # print(marker_self1[1])
+    # print(marker_self2)
+    print(sprintf("Check Line 1 LOCATION: %s", filepath))
     
     # three series in california have established dates before the state
     marker_self1[1] <- trimws(gsub("[0-9]|/","",marker_self1[1]))
@@ -129,13 +142,13 @@ validateOSD <- function(filepath) {
         if (length(lpartc) > 0)
           return(as.list(apply(do.call(rbind, lpartc), 2, paste, collapse = " & ")))
       }
-      # print(parts)
-      # return(list(section = markheaders[parts],
-      #             content = NA))
     })))
   
   
-  present_idx <- apply(sapply(headerpatterns, function(y) grepl(y, sapply(rez, function(x) x$section))), 2, which)
+  present_idx <- apply(sapply(headerpatterns, function(y) {
+      grepl(y, sapply(rez, function(x) x$section))
+    }), 2, which)
+  
   missing_idx <- which(!(sapply(present_idx, length) > 0))
   
   if (length(missing_idx) > 0) {
@@ -169,9 +182,9 @@ validateOSD <- function(filepath) {
 #' @param output_dir Default: \code{'inst/extdata'}; folder to create alphabetical folder structure with JSON files
 #' @param osd_files Default \code{NULL}; Optional over-ride vector of file names for testing
 #'
-#' @return A list result with one element per input file; \code{TRUE} or \code{try-error}
+#' @return A logical vector equal in length to the number of input files.
 #' @export
-#'
+#' @importFrom jsonlite toJSON
 osd_to_json <- function(input_dir = 'OSD', 
                         pattern = "txt", 
                         output_dir = "inst/extdata",
@@ -183,30 +196,25 @@ osd_to_json <- function(input_dir = 'OSD',
     all_osds <- list.files(input_dir, pattern = pattern,
                            full.names = TRUE, recursive = TRUE)
   }
-  res <- lapply(seq_along(all_osds), function(i) {
-    x <- try(validateOSD(all_osds[i]))
-    
-    if (inherits(x, 'try-error'))
-      print(i)
-    
-    # if ((i %% 100) == 0)
-    #   print(i)
-    
-    return(x)
-  })
   
-  lapply(seq_along(res), function(i) {
-    x <- res[[i]]
+  res <- sapply(1:length(all_osds), function(i) {
+    filepath <- all_osds[[i]]
+    x <- validateOSD(filepath)
+     
+    if (is.logical(x))
+      if (!x) return(FALSE)
+    
     fld <- file.path(output_dir, substr(x$SERIES, 1, 1))
     
-    # if ((i %% 100) == 0)
-    #   print(i)
-    
     if (!dir.exists(fld))
-      dir.create(fld)
+      dir.create(fld, recursive = TRUE)
     
-    res <- try(write(SoilKnowledgeBase::list_to_json(x), 
-                     file = sprintf("%s/%s.json", fld, x$SERIES)))
-    ifelse(inherits(res, 'try-error'), res, TRUE)
+    fn <- gsub("\\.txt", "\\.json", basename(all_osds[[i]]))
+    
+    write(jsonlite::toJSON(x, pretty = TRUE, auto_unbox = TRUE), 
+          file = file.path(fld, fn))
+    return(TRUE)
   })
+  names(res) <- all_osds
+  return(res)
 }
