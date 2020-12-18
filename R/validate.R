@@ -51,8 +51,12 @@ validateOSD <- function(filepath) {
       return(FALSE)
   }
   
-  # for now, just check that at least one valid state code is used
-  all_states <- c("AS","PB","PR","VI","HT","PW","FM",state.abb)
+  # for now, just check that at least one valid state code is used (dput(datasets::state.abb)); check these against metadata
+  all_states <- c("AS","PB","PR","VI","HT","PW","FM", c("AL", "AK", "AZ", "AR", "CA", "CO", "CT", "DE", "FL", "GA", 
+                                                        "HI", "ID", "IL", "IN", "IA", "KS", "KY", "LA", "ME", "MD", "MA", 
+                                                        "MI", "MN", "MS", "MO", "MT", "NE", "NV", "NH", "NJ", "NM", "NY", 
+                                                        "NC", "ND", "OH", "OK", "OR", "PA", "RI", "SC", "SD", "TN", "TX", 
+                                                        "UT", "VT", "VA", "WA", "WV", "WI", "WY"))
   n_states <- sum(unlist(lapply(all_states, function(x) sum(grepl(x, marker_self1[2])))))
   if (n_states < 1)
     print(marker_self1[2])
