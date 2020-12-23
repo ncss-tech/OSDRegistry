@@ -3,3 +3,7 @@
 ^\.github$
 ^OSD$
 ^raw$
+^inst$
+^test/OSD$
+^test/inst/extdata$
+^misc$

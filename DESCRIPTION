@@ -1,11 +1,11 @@
 Package: OSDRegistry
 Type: Package
 Title: Official Series Description (OSD) Registry
-Version: 0.3.0
+Version: 0.4.0
 Author: Andrew G. Brown
 Maintainer: Andrew G. Brown <andrew.g.brown@usda.gov>
 Description: Version control solution for Official Series Descriptions (OSDs; <https://soilseries.sc.egov.usda.gov/>). Official "series" are soil types used by the USDA-NRCS and the National Cooperative Soil Survey program.
-Imports: rvest, RSelenium, binman
+Imports: stringi, jsonlite, rvest, RSelenium, binman
 Suggests: testthat
 License: GPL-3
 Encoding: UTF-8
