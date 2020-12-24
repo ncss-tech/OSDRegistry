@@ -29,7 +29,7 @@ validateOSD <- function(filepath) {
   
   if (length(rem.idx) == 0) {
     # these have some sort of malformed series status 
-    print(sprintf("Check Section Headings: %s", filepath))
+    message(sprintf("Check Section Headings: %s", filepath))
     rem.idx <- length(x)
   } 
   
@@ -40,7 +40,7 @@ validateOSD <- function(filepath) {
   if (marker_self1[1] != marker_self2) {
     # print(marker_self1[1])
     # print(marker_self2)
-    print(sprintf("Check Line 1 LOCATION: %s", filepath))
+    message(sprintf("Check Line 1 LOCATION: %s", filepath))
     
     # three series in california have established dates before the state
     marker_self1[1] <- trimws(gsub("[0-9]|/","",marker_self1[1]))
@@ -58,8 +58,9 @@ validateOSD <- function(filepath) {
                                                         "NC", "ND", "OH", "OK", "OR", "PA", "RI", "SC", "SD", "TN", "TX", 
                                                         "UT", "VT", "VA", "WA", "WV", "WI", "WY"))
   n_states <- sum(unlist(lapply(all_states, function(x) sum(grepl(x, marker_self1[2])))))
+  
   if (n_states < 1)
-    print(marker_self1[2])
+    message(sprintf("Unknown state marker: %s", marker_self1[2]))
   
   markheaders <- trimws(gsub(marker_self2, "", markers))
   
