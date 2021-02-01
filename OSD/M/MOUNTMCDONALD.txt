@@ -1,0 +1,124 @@
+LOCATION MOUNTMCDONALD          AK
+
+Tentative Series
+SAS/MPS
+01/2021
+
+MOUNTMCDONALD SERIES
+
+Landscape--mountains
+Landform--ridges, mountain slopes
+Slope--0 to 40 percent
+Parent material--colluvium over residuum
+Mean annual precipitation--about 545 mm
+Mean annual air temperature--about -4 degrees C
+Depth class--shallow
+Drainage class--well drained
+Soil moisture regime--udic
+Soil temperature regime--cryic
+Soil moisture subclass--typic
+
+TAXONOMIC CLASS: Loamy-skeletal, mixed, superactive, shallow Typic Humicryepts
+
+TYPICAL PEDON: MountMcDonald loam on a south southwest facing convex, convex upper third of a mountainflank, on a shoulder, on a slope of 7 percent at an elevation of 563 m (The soil was moist throughout the profile when described on August 8, 2019.)
+
+ Oe--0 to 2 cm; gravelly moderately decomposed plant material, dark gray (7.5YR 4/1) dry, black (7.5YR 2.5/1) moist; common very fine, few medium, and common fine roots throughout; 25 percent angular gravel; extremely acid (pH 4.0); abrupt irregular boundary
+
+ A1--2 to 10 cm; very gravelly loam, brown (10YR 5/3) dry, dark brown (10YR 3/3) moist; weak medium granular structure; friable, nonsticky, nonplastic; weakly smeary; many very fine and common fine roots throughout; very fine irregular pores; 5 percent angular cobbles, 45 percent angular gravel; moderately acid (pH 5.8); clear irregular boundary
+
+ A2--10 to 32 cm; extremely gravelly silt loam, brown (10YR 5/3) dry, dark brown (10YR 3/3) moist; weak medium granular structure; friable, nonsticky, nonplastic; weakly smeary; few very fine roots throughout and few fine roots throughout; fine irregular pores; 30 percent angular cobbles, 45 percent angular gravel; moderately acid (pH 5.6); very abrupt irregular boundary
+
+ Cr--32 to 150 cm;
+
+TYPE LOCATION: Nome Census Area, Alaska, latitude 63.7219539 longitude -160.1234501 degrees, datum WGS84 (Coordinates determined with a GPS unit)
+
+RANGE IN CHARACTERISTICS:
+Mean annual soil temperature-- -1 to 3 degrees C
+Soil moisture control section--dry less than 45 consecutive days in June through October (udic soil moisture regime)
+Thickness of umbric epipedon--18 to 43 cm
+Depth to paralithic contact--25 to 50 cm
+
+Particle Size Control Section:
+*Clay--8 to 16 percent
+*Total fragments--50 to 85 percent gravels, channers, and cobbles
+
+Oe horizon
+Total rock fragment content--0 to 30 percent subangular to angular gravel
+Thickness--2 to 7 cm
+
+A1 horizon
+Hue--7.5YR or 10YR
+Value--2 to 3 moist, 4 or 5 dry
+Chroma--2 or 3
+Fine-earth texture--silt loam, loam
+Clay--6 to 12 percent
+Sand--15 to 45 percent
+Organic carbon--5 to 12 percent
+Total rock fragment content--25 to 60 percent
+Total gravel content--25 to 60 percent
+Total cobble content--0 to 10 percent
+n value--0.3 to 0.7
+Reaction--4.9 to 6.0
+Thickness--5 to 22 cm
+
+A2 horizon
+Hue--7.5YR or 10YR
+Value--2 to 3 moist, 4 or 5 dry
+Chroma--2 or 3
+Fine-earth texture--silt loam, loam
+Clay--6 to 16 percent
+Sand--15 to 50 percent
+Organic carbon--5 to 8 percent
+Total rock fragment content--50 to 85 percent
+Total gravel content--35 to 65 percent
+Total channer content--0 to 25 percent
+Total cobble content--0 to 40 percent
+n value--0.3 to 0.7
+Reaction--5.1 to 6.3
+Thickness--8 to 26 cm
+
+Cr horizon
+
+COMPETING SERIES: None
+
+GEOGRAPHIC SETTING:
+*Elevation--30 to 1050 m
+*Climate--warm, moist summers; cold, dry winters
+*Mean annual precipitation--305 to 745 mm
+*Mean annual air temperature-- -6 to -2 degrees C
+*Frost-free period--45 to 80 days
+
+GEOGRAPHICALLY ASSOCIATED SOILS:
+*Kanguq--moderately deep to paralithic contact, ochric epipedon, cambic horizon; hillslopes and mountain slopes
+*Paugna--gelic soil temperature regime, hillslopes and mountain slopes
+*Myoukchuk--deep to paralithic contact, ochric epipedon, fragmental particle-size class, hillslopes and mountain slopes
+*Bonasila--gelic soil temperature regime, gelic materials, cambic horizon, isotic mineralogy; hillslopes and mountain slopes
+*Iprugalet--deep to lithic bedrock; mountain slopes
+*Akiuk--ochric epipedon, cambic horizon, ridges on mountains
+*Nuvuk--gelic soil temperature regime, folistic epipedon; hillslopes and mountain slopes
+*Oliverhill--ochric epipedon, shallow to lithic contact, textures range to sandy loam; similar landscape position
+*Iiguk--very deep, ochric epipedon, redox concentrations present; broad hillslopes and mountain slopes
+*Casacadecreek--ochric epipedon, cambic horizon, isotic mineralogy class, hillslopes, mountain slopes
+
+DRAINAGE AND SATURATED HYDRAULIC CONDUCTIVITY:
+*Drainage class--well drained
+*Saturation during normal years--none
+*Saturated hydraulic conductivity (Ksat)--very high in the surface organic layer, high to moderately high throughout the profile
+
+USE AND VEGETATION:
+Use--wildlife habitat, recreation, subsistence
+Potential native vegetation--eightpetal mountain-avens, skeletonleaf willow, locoweed, bryocaulon lichen, witch's hair lichen, snow lichen, globe ball lichen, reindeer lichen, greygreen reindeer lichen, asahinea lichen, alpine sweetgrass, crustose lichen, Bigelow's sedge, white arctic mountain heather, cup lichen, star reindeer lichen, pincushion plant, alpine azalea, blue mountainheath, whiteworm lichen, lingonberry, dwarf birch, Bering Sea sedge, black crowberry, marsh Labrador tea, tomentose lichen, narrowleaf arnica, arctic stitchwort, willow, Moss, golden asahinea lichen, birch, white spruce, Siberian alder, sedge, island cetraria lichen, brackish oxytrope, foliose lichen
+
+DISTRIBUTION AND EXTENT: Nulato Hills-Southern Seward Peninsula Highlands, Alaska; MLRA 240; moderate extent
+
+SOIL SURVEY REGIONAL OFFICE (SSRO) RESPONSIBLE: Portland, Oregon
+
+SERIES PROPOSED: Nulato Hills BLM area, Nome Census Area, Alaska; 2020
+
+REMARKS:
+Diagnostic horizons and features recognized in this pedon
+*Particle-size control section--zone from 2 to 32 cm
+*Umbric epipedon--zone from 2 to 32 cm
+*Paralithic contact--at 32 cm
+National Cooperative Soil Survey
+U.S.A.

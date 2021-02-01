@@ -1,0 +1,133 @@
+LOCATION NORTHRIVER             AK
+
+Tentative Series
+MPS/SAS
+01/2021
+
+NORTHRIVER SERIES
+
+Landscape--hills, low mountains
+Landform--hillslopes, mountain slopes
+Slope--10 to 65 percent
+Parent material--gravelly colluvium
+Mean annual precipitation--about 495 mm
+Mean annual air temperature--about -3 degrees C
+Depth class--very deep
+Drainage class--well drained
+Soil moisture regime--udic
+Soil temperature regime--cryic
+Soil moisture subclass--typic
+
+TAXONOMIC CLASS: Loamy-skeletal, mixed, superactive Typic Dystrocryepts
+
+TYPICAL PEDON: Northriver silt on an east southeast facing convex, linear backslope, on a slope of 40 percent at an elevation of 292 m (The soil was moist throughout when described on July 30, 2019.)
+
+ Oe--0 to 10 cm; moderately decomposed plant material, brown (7.5YR 4/3) dry, very dark brown (7.5YR 2.5/3) moist; many very fine, medium, and coarse, and common fine roots; extremely acid (pH 4.2); abrupt smooth boundary
+
+ A--10 to 19 cm; silt, dark gray (7.5YR 4/1) dry, black (7.5YR 2.5/1) moist; very coarse, subangular blocky structure; very friable, nonsticky, nonplastic; common very fine, fine, and medium roots; very strongly acid (pH 4.6); abrupt smooth boundary
+
+ 2Bw--19 to 35 cm; very channery silt loam, yellowish brown (10YR 5/4) dry, dark yellowish brown (10YR 3/4) moist; weak fine subangular blocky structure; very friable, nonsticky, nonplastic; common fine roots; common very fine pores; 50 percent channers; extremely acid (pH 4.4); clear smooth boundary
+
+ 2C--35 to 150 cm; extremely channery silt loam, light brownish gray (2.5Y 6/2) dry, dark grayish brown (2.5Y 4/2) moist; massive; very friable, nonsticky, nonplastic; 80 percent channers; very strongly acid (pH 5.0)
+
+TYPE LOCATION: Nome Census Area, Alaska, latitude 63.6557310 longitude -160.5242510 degrees, datum WGS84 (Coordinates determined with a GPS unit)
+
+RANGE IN CHARACTERISTICS:
+Mean annual soil temperature--0 to 3 degrees C
+Soil moisture control section--dry less than 45 consecutive days in June through October (udic soil moisture regime)
+Thickness of ochric epipedon--10 to 25 cm
+Depth to lithologic discontinuity--10 to 25 cm
+Thickness of cambic horizon--25 to 45 cm
+
+Particle Size Control Section:
+*Clay--8 to 14 percent
+*Total fragments--40 to 80 percent gravels, channers, cobbles
+
+Oe horizon
+Thickness--5 to 15 cm
+
+A horizon
+Hue--7.5YR or 10YR
+Value--2 to 3 moist, 4 or 5 dry
+Chroma--1 or 2
+Fine-earth texture--silt, silt loam
+Clay--5 to 10 percent
+Sand--5 to 30 percent
+Organic carbon--8 to 12 percent
+Sodium fluoride pH--8.4 to 11.6
+Ratio of 1500 kPa water to measured clay--0.6 to 3.0
+Reaction--4.0 to 5.2
+Thickness-- 5 to 25 cm
+
+2Bw horizon
+Hue--10YR or 2.5Y
+Value--3 or 4 moist, 5 or 6 dry
+Chroma--2 to 4
+Fine-earth texture--silt loam, sandy loam, loam
+Clay--5 to 16 percent
+Sand--5 to 50 percent
+Organic carbon--3 to 5 percent
+Total rock fragment content--30 to 50 percent
+Total channer content--0 to 50 percent
+Total gravel content--0 to 35 percent
+Reaction--4.4 to 5.4
+Thickness--15 to 35 cm
+
+2C horizon
+Hue--10YR or 2.5Y
+Value--3 or 4 moist, 5 or 6 dry
+Chroma--2 to 4
+Fine-earth texture--silt loam, fine sandy loam, loam
+Clay--7 to 15 percent
+Sand--15 to 55 percent
+Organic carbon--1 to 2 percent
+Total rock fragment content--40 to 80 percent
+Total channer content--0 to 80 percent
+Total gravel content--0 to 35 percent
+Total cobble content--0 to 45 percent
+Reaction--4.6 to 5.6
+
+COMPETING SERIES:
+*Angel--shallow to paralithic contact, backslopes, shoulder, and summits of hills and low mountains, slope range is 0 to 60 percent
+*Brigadier--shallow to paralithic contact, north facing hill and mountain sideslopes, slope range is 0 to 70 percent
+*Gilmore--very shallow or shallow to paralithic contact, crests and hillslopes on hillsides, mountainsides and ridgetops, slope range is 0 to 70 percent
+*Leighcan--albic horizon, mountain slopes, slope range is 0 to 70 percent
+*Klootch--moderately deep to bedrock, mountains
+*Jeru--volcanic ash mantle, mountains, slope range is 5 to 75 percent
+*Blacksnag--mountain slopes, mesas, and structural benches, slope range is 2 to 30 percent
+*Afley--moderately deep to bedrock, mesa summits, alpine mountain slopes, and alpine basins, slope range is 0 to 70 percent
+
+GEOGRAPHIC SETTING:
+*Elevation--100 to 600 m
+*Climate--warm, moist summers; cold, dry winters
+*Mean annual precipitation--415 to 640 mm
+*Mean annual air temperature-- -5 to -1 degrees C
+*Frost-free period--55 to 90 days
+
+GEOGRAPHICALLY ASSOCIATED SOILS:
+*Kanguq--isotic mineralogy, moderately deep to paralithic contact; hillslopes and mountain slopes on hills and mountains
+
+DRAINAGE AND SATURATED HYDRAULIC CONDUCTIVITY:
+*Drainage class--well drained
+*Saturation during normal years--none
+*Saturated hydraulic conductivity (Ksat)--very high in the surface organic layer, high to moderately high throughout the rest of the profile
+
+USE AND VEGETATION:
+Use--wildlife habitat, recreation, subsistence
+Potential native vegetation--black spruce, resin birch, bog blueberry, lingonberry, black crowberry, marsh Labrador tea, green alder, tealeaf willow, splendid feather moss, sphagnum, white spruce, Siberian alder, beaverd spirea, dwarf birch, woodland horsetail, dwarf raspberry, Bigelow's sedge, bluejoint, Moss, Schreber's big red stem moss, juniper polytrichum moss, quaking aspen, grayleaf willow, greygreen reindeer lichen, reindeer lichen, star reindeer lichen, common ladyfern, Alaska wild rhubarb
+
+DISTRIBUTION AND EXTENT: Nulato Hills-Southern Seward Peninsula Highlands, Alaska; MLRA 240; moderate extent
+
+SOIL SURVEY REGIONAL OFFICE (SSRO) RESPONSIBLE: Portland, Oregon
+
+SERIES PROPOSED: Nulato Hills BLM area, Nome Census Area, Alaska; 2020
+
+REMARKS:
+Diagnostic horizons and features recognized in this pedon
+*Particle-size control section--zone from 35 to 110 cm
+*Ochric epipedon--zone from 0 to 19 cm
+*Lithologic discontinuity--zone from 19 to 150 cm
+*Cambic horizon--zone from 10 to 35 cm
+
+National Cooperative Soil Survey
+U.S.A.

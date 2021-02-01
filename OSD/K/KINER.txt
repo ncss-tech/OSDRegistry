@@ -1,0 +1,130 @@
+LOCATION KINER                  AK
+
+Tentative Series
+SAS/MPS
+01/2021
+
+KINER SERIES
+
+Landscape--hills and mountains
+Landform--ridges
+Slope--0 to 20 percent
+Parent material--gravelly colluvium over residuum
+Mean annual precipitation--about 495 mm
+Mean annual air temperature--about -3 degrees C
+Depth class--shallow
+Drainage class--somewhat excessively drained
+Soil moisture regime--udic
+Soil temperature regime--cryic
+Soil moisture subclass--typic
+
+TAXONOMIC CLASS: Loamy-skeletal, mixed, superactive, shallow Typic Dystrocryepts
+
+TYPICAL PEDON: Kiner very gravelly sandy loam on a south facing convex, convex shoulder, on a slope of 15 percent at an elevation of 302 m (The soil was dry throughout the profile when described on September 5, 2019.)
+
+ A--0 to 3 cm; very gravelly sandy loam, dark brown (10YR 3/3) dry, very dark brown (10YR 2/2) moist; weak fine granular structure; very friable, very sticky, nonplastic; nonsmeary; common very fine, fine, and medium roots; 5 percent angular cobbles, 45 percent angular gravel; very strongly acid (pH 4.8); clear irregular boundary
+
+ Bw1--3 to 19 cm; extremely gravelly sandy loam, yellowish brown (10YR 5/6) dry, dark yellowish brown (10YR 3/4) moist; weak very fine granular structure; very friable, very sticky, nonplastic; nonsmeary; common very fine and fine roots; 15 percent angular cobbles, 45 percent angular gravel; moderately acid (pH 5.6); abrupt irregular boundary
+
+ Bw2--19 to 40 cm; extremely gravelly sandy loam, dark yellowish brown (10YR 4/6) dry, dark yellowish brown (10YR 3/4) moist; weak very fine granular structure; very friable, very sticky, nonplastic; nonsmeary; common very fine and fine roots; 15 percent angular cobbles, 70 percent angular gravel; strongly acid (pH 5.4); very abrupt irregular boundary
+
+ 2Cr--40 to 150 cm;
+
+TYPE LOCATION: Yukon-Koyukuk Census Area, Alaska, latitude 63.1091655 longitude -160.3655243 degrees, datum WGS84 (Coordinates determined with a GPS unit)
+
+RANGE IN CHARACTERISTICS:
+Mean annual soil temperature--0 to 4 degrees C
+Soil moisture control section--dry less than 45 consecutive days in June through October (udic soil moisture regime
+Thickness of ochric epipedon--2 to 16 cm
+Thickness of cambic horizon--25 to 50 cm
+Depth to paralithic contact--25 to 50 cm
+
+Particle Size Control Section:
+*Clay--5 to 13 percent
+*Total fragments--70 to 85 percent gravel and cobbles
+
+A horizon
+Hue--7.5YR or 10YR
+Value--2 or 2.5 moist, 3 to 5 dry
+Chroma--1 to 3
+Fine-earth texture--silt loam, sandy loam
+Clay--3 to 8 percent
+Sand--30 to 65 percent
+Organic carbon--5 to 8 percent
+Total rock fragment content--20 to 50 percent
+Total gravel content--20 to 45 percent
+Total cobble content--0 to 5 percent
+Reaction--4.4 to 5.0
+Thickness--2 to 16 cm
+
+Bw1 horizon
+Hue--7.5YR or 10YR
+Value--2.5 or 3 moist, 4 to 6 dry
+Chroma--2 to 6
+Fine-earth texture--sandy loam, loam
+Clay--4 to 10 percent
+Sand--40 to 60 percent
+Organic carbon--1 to 3 percent
+Total rock fragment content--25 to 60 percent
+Total gravel content--25 to 45 percent
+Total cobble content--0 to 15 percent
+Reaction--4.8 to 5.6
+Thickness--5 to 10 cm
+
+Bw2 horizon
+Hue--7.5YR or 10YR
+Value--2.5 or 3 moist, 4 or 5 dry
+Chroma--3 to 6
+Fine-earth texture--sandy loam, loam
+Clay--4 to 13 percent
+Sand--45 to 70 percent
+Organic carbon--1 to 2 percent
+Total rock fragment content--75 to 85 percent
+Total gravel content--65 to 70 percent
+Total cobble content--10 to 15 percent
+Reaction--4.3 to 5.4
+Thickness--10 to 25 cm
+
+2Cr horizon
+
+COMPETING SERIES:
+*Akiuk--well drained, channers present; ridges on mountains
+*Gilmore--very shallow or shallow to bedrock, parent material is silty micaceous loess over weathered schist bedrock; hillsides, mountainsides, and ridgetops
+*Brigadier--micaceous loess mantle present, organic surface layer present, paralithic material is schist bedrock; hills and mountain slopes
+*Angel--well drained, organic layers present, loess mantle present textures range to loamy coarse sand, loess over weathered granite residuu;, hillsides, mountainsides, and ridgetops
+
+GEOGRAPHIC SETTING:
+*Elevation--50 to 600 m
+*Climate--warm, moist summers; cold, dry winters
+*Mean annual precipitation--410 to 555 mm
+*Mean annual air temperature-- -5 to -1 degrees C
+*Frost-free period--55 to 90 days
+
+GEOGRAPHICALLY ASSOCIATED SOILS:
+*Myoukchuk--deep to paralithic contact, fragmental particle-size class, hillslopes and mountain slopes
+*Chiroskey--umbric epipedon, isotic mineralogy, hillslopes and mountain slopes
+*Iitruk--very deep, isotic mineralogy, evidence of illuvial sesquioxides and organic matter; saddles on mountains
+
+DRAINAGE AND SATURATED HYDRAULIC CONDUCTIVITY:
+*Drainage class--somewhat excessively drained
+*Saturation during normal years--none
+*Saturated hydraulic conductivity (Ksat)--high to moderately high throughout the profile
+
+USE AND VEGETATION:
+Use--wildlife habitat, recreation, subsistence
+Potential native vegetation--Quaking aspen, ehite spruce, lingonberry, dwarf birch, black crowberry, alpine bearberry, cup lichen, reindeer lichen, crustose lichen, greygreen reindeer lichen, witch's hair lichen, snow lichen, bryocaulon lichen, star reindeer lichen, Moss, alpine sweetgrass, running clubmoss, beautiful sandwort, alpine azalea, tomentose snow lichen, polytrichum moss, Siberian alder, grayleaf willow, kenai birch, fireweed, Schreber's big red stem moss, nodding arnica, whiteworm lichen, racomitrium moss
+
+DISTRIBUTION AND EXTENT: Yukon-Kuskokwim Highlands, Alaska; MLRA 230; small extent
+
+SOIL SURVEY REGIONAL OFFICE (SSRO) RESPONSIBLE: Portland, Oregon
+
+SERIES PROPOSED: Nulato Hills BLM area, Yukon-Koyukuk Census Area, Alaska; 2020
+
+REMARKS:
+Diagnostic horizons and features recognized in this pedon
+*Particle-size control section--zone from 25 to 40 cm
+*Ochric epipedon--zone from 0 to 3 cm
+*Cambic horizon--zone from 0 to 40 cm
+*Paralithic contact--at 40 cm
+National Cooperative Soil Survey
+U.S.A.

@@ -1,0 +1,165 @@
+LOCATION WAGONBOXCREEK          AK
+
+Tentative Series
+MPS/SAS
+01/2021
+
+WAGONBOXCREEK SERIES
+
+Landscape--lava field
+Landform--swales
+Slope--0 to 25 percent
+Parent material--volcanic ash and basalt over colluvium
+Mean annual precipitation--about 475 mm
+Mean annual air temperature--about -3 degrees C
+Depth class--very deep
+Drainage class--well drained
+Soil moisture regime--udic
+Soil temperature regime--cryic
+Soil moisture subclass--typic
+
+TAXONOMIC CLASS: Medial over loamy, amorphic over isotic Typic Fulvicryands
+
+TYPICAL PEDON: Wagonboxcreek medial silt loam on a west southwest facing linear, linear on a swale, on a slope of 22 percent at an elevation of 177 m (The soil was moist throughout when described on June 20, 2016.)
+
+ Oi--0 to 9 cm; slightly decomposed plant material, reddish yellow (7.5YR 6/6) dry, strong brown (7.5YR 4/6) moist; nonsticky, nonplastic; common very fine, coarse, and very coarse and many medium and fine roots throughout; extremely acid (pH 3.9); clear smooth boundary 
+
+ A--9 to 21 cm; medial silt loam, dark gray (7.5YR 4/1) dry, black (7.5YR 2.5/1) moist; moderate fine granular structure; friable, slightly sticky, nonplastic; common very fine, fine, and very coarse and many medium roots throughout; common fine irregular pores; extremely acid (pH 4.4); abrupt smooth boundary 
+
+ Bhs--21 to 40 cm; gravelly medial silt loam, brown (7.5YR 4/2) dry, very dark brown (7.5YR 2.5/2) moist; moderate medium angular blocky structure; friable, slightly sticky, nonplastic; common very fine, fine, medium, and coarse roots throughout; common fine irregular pores; 2 percent subangular cobbles by volume, 4 percent subrounded fine gravel by volume, 9 percent subrounded gravel by volume; strongly acid (pH 5.5); clear wavy boundary 
+
+ Bw--40 to 66 cm; gravelly medial very fine sandy loam, brown (7.5YR 5/3) dry, dark brown (7.5YR 3/3) moist; moderate fine subangular blocky structure; very friable, nonsticky, nonplastic; common fine and medium roots throughout; few fine irregular pores; 5 percent subrounded fine gravel by volume, 10 percent subangular cobbles by volume, 15 percent subrounded gravel by volume; moderately acid (pH 6.0); clear wavy boundary 
+
+ 2C--66 to 150 cm; gravelly very fine sandy loam, grayish brown (10YR 5/2) dry, very dark grayish brown (10YR 3/2) moist; structureless massive; very friable, nonsticky, nonplastic; 2 percent subangular cobbles by volume, 6 percent subrounded fine gravel by volume, 10 percent subrounded gravel by volume; slightly acid (pH 6.3)
+
+TYPE LOCATION: Nome Census Area County, Alaska, latitude 63.3415300, longitude -161.9753700 degrees, datum WGS84 (Coordinates determined with a GPS unit)
+
+RANGE IN CHARACTERISTICS:
+Mean annual soil temperature--1 to 3 degrees C
+Soil moisture control section--dry less than 45 consecutive days in June through October
+Umbric epipedon thickness--25 to 57cm
+Cambic horizon thickness--15 to 45 cm
+Thickness of zone with andic soil properties--36 to 57cm
+
+Layers influenced by volcanic ash
+*Thickness--36 to 57 cm
+*Phosphorous retention--85 to 100 percent
+*Bulk density--0.45 to 0.9 g/cm3
+*Ammonium oxalate Al plus 1/2 Fe--2.0 to 4.0 percent
+*Volcanic glass content--1 to 20 percent
+*8 x Si plus 2 x Fe--5 to 10 percent
+
+Particle Size Control Section:
+*Clay--3 to 12 percent
+*Total fragments--0 to 35 percent gravels, cobbles, or stones
+
+Oi horizon
+Thickness--7 to 14 cm
+
+A horizon
+Hue--7.5YR, or 10YR
+Value--2.5 to 3 moist, 4 to 5 dry
+Chroma--1 to 2
+Fine-earth texture--silt or silt loam
+Clay--3 to 10 percent
+Sand--8 to 45 percent
+Organic carbon--5 to 12 percent
+Total rock fragment content--0 to 35 percent cobbles
+Bulk density--0.5 to 0.9 g/cm3 
+Al plus 1/2 Fe--2 to 4 percent 
+Volcanic glass content--0 to 20 percent 
+Phosphorous retention--85 to 100 percent
+Reaction--4.4 to 5.5
+Thickness-- 10 to 37cm 
+
+Bhs horizon
+Hue--5YR or 7.5YR
+Value--2.5 to 3 moist, 4 to 5 dry
+Chroma--2 or 3
+Fine-earth texture--silt, silt loam
+Clay--5 to 10 percent
+Sand--10 to 45 percent
+Organic carbon--3 to 5 percent
+Total rock fragment content--0 to 20 percent
+Total gravel content--0 to 15 percent
+Total cobble content--0 to 5 percent
+Bulk density--0.5 to 0.9 g/cm3 
+Al plus 1/2 Fe--2 to 4 percent 
+Volcanic glass content--0 to 5 percent 
+Phosphorous retention--85 to 100 percent
+Reaction--5.3 to 5.8
+Thickness--5 to 19 cm
+
+Bw horizon
+Hue--7.5YR or 10YR
+Value--3 to 5 moist, 5 to 7 dry
+Chroma--3 to 4
+Fine-earth texture--silt, silt loam, very fine sandy loam
+Clay--5 to 12 percent
+Sand--10 to 60 percent
+Organic carbon--1 to 3 percent
+Total rock fragment content--15 to 35 percent
+Total gravel content--0 to 20 percent
+Total cobble content--0 to 15 percent
+Total stone content--0 to 35 percent
+Bulk density--0.5 to 0.9 g/cm3 
+Al plus 1/2 Fe--2 to 4 percent 
+Volcanic glass content--0 to 5 percent 
+Phosphorous retention--85 to 100 percent
+Reaction--5.1 to 6.0
+Thickness--10 to 30 cm
+
+2C horizon
+Hue-- 10YR or 2.5Y
+Value--3 to 4 moist, 5 to 6 dry
+Chroma--2 to 3
+Fine-earth texture--silt, silt loam, very fine sandy loam
+Clay--5 to 12 percent
+Sand--10 to 65 percent
+Organic carbon--0.5 to 1.5 percent
+Total rock fragment content--10 to 35 percent
+Total gravel content--0 to 25 percent
+Total cobble content--0 to 35 percent
+Sodium fluoride pH--greater than or equal to 8.4
+Ratio of 1500 kPa water to measured clay--greater than or equal to 0.6
+Reaction--5.4 to 6.3
+Thickness-75 to 90 cm
+
+COMPETING SERIES: none
+
+GEOGRAPHIC SETTING:
+*Elevation--100 to 400 m
+*Climate--warm, moist summers; cold, dry winters
+*Mean annual precipitation--400 to 550 mm
+*Mean annual air temperature-- -5 to -1 degrees C
+*Frost-free period--55 to 90 days
+
+GEOGRAPHICALLY ASSOCIATED SOILS:
+*Nunaruk-- folistic epipedon, no cambic horizon, no andic soil properties, greater than 90 percent coarse fragments in particle size control section, north-facing backslopes on volcanic cones
+*Penguq--ochric epipedon, no andic soil properties, greater than 35 percent coarse fragments in the particle size control section; south-facing backslopes on volcanic cones
+*Akpik--ochric epipedon, greater than 35 percent coarse fragments in the particle size control section, aquic conditions between 0 to 25cm (poorly drained); lava plains
+*Apun--histic epipedon, depth to permafrost contact 35 to 70cm, no andic soil properties, lava plains
+
+DRAINAGE AND SATURATED HYDRAULIC CONDUCTIVITY:
+*Drainage class--well drained
+*Saturated hydraulic conductivity (Ksat)--very high in the surface organic layer, high or very high throughout the rest of the profile 
+
+USE AND VEGETATION:
+Use--wildlife habitat, recreation, subsistence
+Potential native vegetation--Siberian alder, bluejoint, spreading woodfern, woodland horsetail, arctic raspberry, fireweed, beauverd spirea, wideleaf polargrass, shortstalk sedge, stiff clubmoss, bluegrass, ledge stonecrop, cloudberry, feltleaf willow, Barclay's willow, tealeaf willow, arctic starflower, dwarf marsh violet
+
+DISTRIBUTION AND EXTENT: Nulato Hills-Southern Seward Peninsula Highlands, Alaska; MLRA 240; small extent
+
+SOIL SURVEY REGIONAL OFFICE (SSRO) RESPONSIBLE: Portland, Oregon 
+
+SERIES PROPOSED: Nulato Hills BLM area, Nome Census Area, Alaska; 2020
+
+REMARKS:
+Diagnostic horizons and features recognized in this pedon
+*Particle-size control section--zone from 9 to 109 cm
+*Umbric epipedon--zone from 9 to 40 cm
+*Cambic horizon--zone from 40 to 66 cm
+*Andic soil properties-- zone from 9 to 66 cm
+
+National Cooperative Soil Survey
+U.S.A.

@@ -1,0 +1,133 @@
+LOCATION EIDERDUCK              AK
+
+Tentative Series
+MPS/SAS
+01/2021
+
+EIDERDUCK SERIES
+
+Landscape--coastal plain
+Landform--floodplains, depressions 
+Slope--0 to 1 percent
+Parent material--mossy and grassy organic material over loamy alluvium with stratified organics
+Mean annual precipitation--about 300 mm
+Mean annual air temperature--about -3 degrees C
+Depth class--very deep
+Drainage class--poorly drained
+Soil moisture regime--peraquic
+Soil temperature regime--cryic
+Soil moisture subclass--typic
+
+TAXONOMIC CLASS: Loamy, isotic, euic Terric Sulfihemists
+
+TYPICAL PEDON: Eiderduck peat on a linear, linear depression on a slope of 1 percent at an elevation of 3 m (The soil was wet, nonsatiatied from 0 to 25 cm and wet, satiated throughout the rest of the profile when described on July 12, 2015.)
+
+ Oi--0 to 20 cm; peat, grayish brown (10YR 5/2) dry, very dark grayish brown (10YR 3/2) moist; many very fine, moderately few medium and coarse, and common fine roots throughout; slightly acid (pH 6.4); abrupt smooth boundary
+
+ Oe1--20 to 25 cm; mucky peat, reddish yellow (7.5YR 6/6) dry, strong brown (7.5YR 4/6) moist; common very fine, very few medium, and moderately few fine roots throughout; moderately acid (pH 5.8); abrupt smooth boundary
+
+ Cg/Oe--25 to 68 cm; stratified silt loam, gray (N 5/), dry, very dark gray (N 3/), moist; structureless massive; very friable, slightly sticky, nonplastic; common very fine, few medium, and common fine roots throughout; neutral (pH 6.6); clear smooth boundary
+
+ Oe2--68 to 92 cm; mucky peat, dark gray (N 4/), dry, black (N 2.5/), moist; very few very fine and moderately few fine roots throughout; neutral (pH 6.9); Odor, pH after H2O2=5.7 clear smooth boundary
+
+ Cg/Oa--92 to 150 cm; stratified silt loam, gray (N 5/), dry, very dark gray (N 3/), moist; structureless massive; very friable, slightly sticky, nonplastic; neutral (pH 6.9); Odor, pH after H2O2=5.7
+
+TYPE LOCATION: Nome Census Area County, Alaska, latitude 63.8927290 longitude -160.7918530 degrees, datum WGS84 (Coordinates determined with a GPS unit)
+
+RANGE IN CHARACTERISTICS:
+Mean annual soil temperature--0 to 3 degrees C
+Soil moisture control section--saturated within 25 cm of the soil surface during much of the growing season
+Thickness of histic epipedon--20 to 40cm
+Aquic conditions--throughout the profile
+Total thickness of organic soil layers--40 to 70 cm
+Total thickness of hemic soil material--25 to 60 cm
+Bulk density--greater than 0.1 g/cm3
+Depth to sulfidic materials--0 to 100 cm
+
+Particle Size Control Section:
+*Clay--1 to 8 percent
+
+Oi horizon
+Chroma--2 or 3 moist
+Reaction--5.7 to 6.6
+Rubbed fiber content--40 to 75 percent
+Color value and chroma of sodium pyrophosphate--7/1, 7/2, 8/1, 8/2, 8/3
+Thickness--15 to 25cm
+
+Oe horizon
+Hue--7.5YR or 10YR
+Value--2 to 4 moist, 4 to 6 dry
+Chroma--3 to 6 moist
+Reaction--5.5 to 6.5
+Rubbed fiber content--17 to 40 percent
+Thickness--5 to 20 cm
+
+Cg/Oe horizon (Cg portion)
+Hue--2.5Y or N
+Value--2.5 or 3 moist, 4 or 5 dry
+Chroma--0 or 1
+Fine-earth texture--silt loam, silt
+Clay--2 to 8 percent
+Sand--10 to 40 percent
+Organic carbon--5 to 12 percent
+Reaction--6.1 to 6.9
+Electrical conductivity--2 to 4 ds/m 
+Thickness--20 to 40 cm
+
+Oe horizon
+Value--3 or 4 moist, 5 or 6 dry
+Chroma--3 to 6
+Reaction--5.8 to 6.9
+Rubbed fiber content--17 to 40 percent
+Thickness--25 to 45cm
+
+Cg/Oa horizon (Cg portion)
+Fine-earth texture--silt loam, silt
+Clay--2 to 8 percent
+Sand--15 to 40 percent
+Organic carbon--1 to 4 percent
+Reaction--6.5 to 7.0
+Electrical conductivity--2 to 4 ds/m
+
+COMPETING SERIES: none
+
+GEOGRAPHIC SETTING:
+*Elevation--0 to 15 m
+*Climate--warm, moist summers; cold, dry winters
+*Mean annual precipitation--295 to 305 mm
+*Mean annual air temperature-- -5 to -1 degrees C
+*Frost-free period--55 to 90 days
+
+GEOGRAPHICALLY ASSOCIATED SOILS:
+*Ryanlake--permafrost, no sulfidic materials present
+
+DRAINAGE AND SATURATED HYDRAULIC CONDUCTIVITY:
+*Drainage class-poorly drained
+*Saturation during normal years--saturated within 25 cm of the soil surface during the growing season
+*Flooding--frequent, brief
+*Saturated hydraulic conductivity (Ksat)--moderately high or high in the organic soil horizons, moderately high in the mineral soil horizons
+
+USE AND VEGETATION:
+Use--wildlife habitat, recreation, subsistence
+Potential native vegetation--American dunegrass, bluegrass, narrowleaf saw-wort, looseflower alpine sedge, arctic daisy, mouse-ear chickweed, silverweed cinquefoil, Alaska bog willow, starwort, Port Clarence Indian paintbrush, sedge, beachhead iris, Lyngbye's sedge, alpine bluegrass, willow, red fescue
+
+DISTRIBUTION AND EXTENT: Nulato Hills-Southern Seward Peninsula Highlands, Alaska; MLRA 240; small extent
+
+SOIL SURVEY REGIONAL OFFICE (SSRO) RESPONSIBLE: Portland, Oregon
+
+SERIES PROPOSED: Nulato Hills BLM area, Nome Census Area, Alaska; 2020
+
+REMARKS:
+Diagnostic horizons and features recognized in this pedon
+*Surface tier--zone from 0 to 30 cm
+*Subsurface tier--zone from 30 to 90 cm
+*Bottom tier--zone from 90 to 130 cm
+*Combined thickness of organic layers--49 cm
+*Aquic conditions--present throughout the profile
+*Fibric soil materials--zone from 0 to 20 cm
+*Hemic soil materials--zone from 20 to 25 cm and 68 to 92 cm
+*Reduced matrix color--zone from 25 to 68 cm and 92 to 150 cm
+*Sulfidic materials- zone from 68 to 150 cm
+
+National Cooperative Soil Survey
+U.S.A.

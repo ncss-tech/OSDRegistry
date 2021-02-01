@@ -1,0 +1,126 @@
+LOCATION QUEKILOK               AK
+
+Tentative Series
+TJR/MPS/SAS
+01/2021
+
+QUEKILOK SERIES
+
+Landscape--valleys
+Landform--depressions, floodplains
+Slope--0 to 10 percent
+Parent material--grassy organic material over coarse-loamy alluvium over sandy and gravelly alluvium
+Mean annual precipitation--about 430 mm
+Mean annual air temperature--about -3 degrees C
+Depth class--very deep
+Drainage class--very poorly drained
+Soil moisture regime--aquic
+Soil temperature regime--cryic
+Soil moisture subclass--typic
+
+TAXONOMIC CLASS: Coarse-loamy, mixed, superactive, nonacid Histic Cryaquepts
+
+TYPICAL PEDON: Quekilok peat on a south southeast facing concave, linear depression on a slope of 1 percent at an elevation of 5 m (The soil was wet from 0 to 120 cm and 160 to 183 cm and moist from 120 to 160 cm when described on July 19, 2015.)
+
+ Oi--0 to 30 cm; peat, dark grayish brown (10YR 4/2) dry, very dark brown (10YR 2/2) moist; moderately few very fine and coarse, many medium, and very few fine roots throughout; strongly acid (pH 5.4); clear wavy boundary
+
+ C--30 to 90 cm; silt loam, 60 percent gray (7.5YR 5/1) and 40 percent dark grayish brown (10YR 4/2) dry, 60 percent very dark gray (7.5YR 3/1) and 40 percent very dark brown (10YR 2/2) moist; structureless massive; firm, slightly sticky, slightly plastic; few very fine and fine and moderately few medium roots throughout; few fine tubular pores; moderately acid (pH 6.0); clear smooth boundary; positive reaction to alpha alpha Di
+
+ Cg1--90 to 160 cm; silt loam, 80 percent gray (2.5Y 6/1) and 20 percent dark grayish brown (10YR 4/2) dry, 80 percent dark gray (2.5Y 4/1) and 20 percent very dark brown (10YR 2/2) moist; structureless massive; firm, moderately sticky, moderately plastic; slightly acid (pH 6.1); clear smooth boundary
+
+ 2Cg2--160 to 183 cm; gravelly coarse sand, dark greenish gray (10Y 4/1) dry, greenish black (10Y 2.5/1) moist; structureless single grain; loose, nonsticky, nonplastic; 25 percent gravel; slightly acid (pH 6.2)
+
+TYPE LOCATION: Nome Census Area, Alaska, latitude 63.9000063 longitude -160.6360645 degrees, datum WGS84 (Coordinates determined with a GPS unit)
+
+RANGE IN CHARACTERISTICS:
+Mean annual soil temperature--0 to 3 degrees C
+Soil moisture control section--saturated at a depth of between 0 and 15 cm during much of the growing season (aquic moisture regime)
+Thickness histic epipedon--20 to 40 cm
+Depth to reduced matrix--65 to 100 cm
+Depth to aquic conditions--0 to 10 cm
+
+Particle Size Control Section:
+*Clay--8 to 18 percent
+*Total rock fragment content--0 to 5 percent gravel
+
+Oi horizon
+Thickness--20 to 40 cm
+
+C horizon
+Hue--7.5YR or 10YR
+Value--2 to 3 moist, 4 to 5 dry
+Chroma--1 or 2
+Fine-earth texture--silt, silt loam
+Clay--4 to 15 percent
+Sand--5 to 25 percent
+Organic carbon--1 to 3 percent
+Reaction--5.7 to 6.4
+Thickness--45 to 60 cm
+
+Cg1 horizon
+Hue--10YR or 2.5Y
+Value--2  to 4 moist, 4 or 6 dry
+Chroma--1 or 2
+Fine-earth texture--silt, silt loam
+Clay--5 to 25  percent
+Sand--10 to 40 percent
+Organic carbon--1 to 2 percent
+Total rock fragment content--0 to 5 percent gravel
+Reaction--5.6 to 6.3
+Thickness--40 to 75 cm
+
+2Cg2 horizon
+Hue--10Y or 2.5Y
+Value--2.5 to 4 moist, 4 to 6 dry
+Fine-earth texture--sand, loamy fine sand, coarse sand
+Clay--0 to 10 percent
+Sand--75 to 100 percent
+Organic carbon--0.2 to 1 percent
+Total rock fragment content--15 to 30 percent gravel
+Reaction--5.9 to 6.3
+
+COMPETING SERIES:
+*Tanjoga--no lithologic discontinuity present, no sandy substratum present, clay does not range above 18 percent; stream terraces on alluvial plains
+*Disappear--cambic horizon present; depressions on outwash plains and drainageways
+*Fishnet--clay content does not range above 18 percent, no coarse fragments present, no sandy and gravely substratum present; floodplains on alluvial plains
+*Liscum--A horizon and Bg horizons present, no coarse fragments present, no sandy and gravely substratum present; alluvial plains in valleys
+
+GEOGRAPHIC SETTING:
+*Elevation--5 to 450 m
+*Climate--warm, moist summers; cold, dry winters
+*Mean annual precipitation--305 to 530 mm
+*Mean annual air temperature-- -5 to -1 degrees C
+*Frost-free period--55 to 90 days
+
+GEOGRAPHICALLY ASSOCIATED SOILS:
+*Coalminecreek--somewhat poorly drained, coarse-silty particle-size class, umbric epipedon, floodplains in valleys
+*Rabbit--somewhat poorly drained, umbric epipedon, floodplains in valleys
+*Southriver--sandy skeletal substratum, ochric epipedon, udic soil moisture regime; floodplains in valleys
+
+DRAINAGE AND SATURATED HYDRAULIC CONDUCTIVITY:
+*Drainage class--very poorly drained
+*Flooding--occasional, brief
+*Ponding--frequent, long
+*Saturation during normal years--saturated at a depth of between 0 and 10 cm during the growing season (aquic moisture regime)
+*Saturated hydraulic conductivity (Ksat)--high in the histic epipedon, very high in the sandy and gravely substratum, moderately high throughout the rest of the profile 
+
+USE AND VEGETATION:
+Use--wildlife habitat, recreation, subsistence
+Potential native vegetation--moss, dwarf birch, bluejoint, lakeshore sedge, pointed sandmat, purple marshlocks, water horsetail, tall cottongrass, Alaska bog willow, tealeaf willow, bog blueberry, leatherleaf, tussock cottongrass
+
+DISTRIBUTION AND EXTENT: Nulato Hills-Southern Seward Peninsula Highlands, Alaska; MLRA 240; small extent
+
+SOIL SURVEY REGIONAL OFFICE (SSRO) RESPONSIBLE: Portland, Oregon 
+
+SERIES PROPOSED: Nulato Hills BLM area, Nome Census Area, Alaska; 2020
+
+REMARKS:
+Diagnostic horizons and features recognized in this pedon
+*Particle-size control section--zone from 55 to 130 cm
+*Histic epipedon--zone from 0 to 30 cm
+*Aquic conditions--zone from 0 to 183 cm
+*Reduced matrix--zone from 90 to 183 cm
+*Lithological discontinuity--zone from 160 to 183 cm
+
+National Cooperative Soil Survey
+U.S.A.

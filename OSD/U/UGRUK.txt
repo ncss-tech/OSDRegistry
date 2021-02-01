@@ -1,0 +1,123 @@
+LOCATION UGRUK                  AK
+
+Tentative Series
+SAS
+01/2021
+
+UGRUK SERIES
+
+Landscape--plains
+Landform--depressions
+Microrelief--microlow
+Slope--0 to 1 percent
+Parent material--organic material over loess
+Mean annual precipitation--about 500 mm
+Mean annual air temperature--about -3 degrees C
+Depth class--very deep (very shallow to permafrost)
+Drainage class--very poorly drained
+Soil moisture regime--per aquic
+Soil temperature regime--gelic
+Soil moisture subclass--typic
+
+TAXONOMIC CLASS: Loamy, mixed, euic, subgelic Terric Sapristels
+
+TYPICAL PEDON: Ugruk peat on a convex, linear concave microlow in a depression, on a slope of 1 percent at an elevation of 39 m (The soil was moist to 20 cm and wet to 150 cm when described on June 20, 2016.)
+
+ Oi--0 to 9 cm; peat, reddish yellow (7.5YR 6/6) dry, strong brown (7.5YR 4/6) moist; many very fine and fine and common medium roots throughout; strongly acid (pH 5.2); clear wavy boundary
+
+ Oa1--9 to 32 cm; muck, brown (7.5YR 5/4) dry, dark brown (7.5YR 3/4) moist; many very fine roots and common fine and medium roots throughout; strongly acid (pH 5.3); abrupt irregular boundary
+
+ Oa2--32 to 54 cm; muck, brown (7.5YR 5/3) and brown (7.5YR 5/2) dry, dark brown (7.5YR 3/3) and dark brown (7.5YR 3/2) moist; many very fine and common fine roots; strongly acid (pH 5.5); diffuse irregular boundary
+
+ C/Agjj--54 to 65 cm; silt loam, light brownish gray (2.5Y 6/2) and brown (7.5YR 5/2) dry, 80 percent dark grayish brown (2.5Y 4/2) and 20 percent dark brown (7.5YR 3/2) moist; few fine irregular pores; massive; moderately acid (pH 5.6); abrupt irregular boundary
+
+ Cf--65 to 150 cm; silt loam, light brownish gray (2.5Y 6/2) dry, dark grayish brown (2.5Y 4/2) moist; massive; moderately acid (pH 5.7)
+
+TYPE LOCATION: Nome Census Area County, Alaska, latitude 63.8615560, degrees, longitude - 160.4121140degrees, datum WGS84 (Coordinates determined with a GPS unit)
+
+RANGE IN CHARACTERISTICS:
+Mean annual soil temperature-- -2 to -1 degrees C
+Soil moisture control section--saturated at the soil surface during much of the growing season (peraquic moisture regime)
+Thickness of combined organic layers--greater than 40 cm
+Depth to permafrost contact--45 to 75
+Depth to cryoturbation--40 to 70 cm
+Reduced matrix--54 to 65
+
+Particle Size Control Section:
+*Clay--5 to 18 percent
+
+Oi horizon
+Value--3 or 4 moist, 5 or 6 dry
+Chroma--3 to 6
+Reaction--5.0 to 5.5
+Organic carbon content--35 to 55 percent
+Rubbed fiber content--40 to 100 percent
+Sodium pyrophosphate color value and chroma where rubbed fiber content is 40 to 75 percent--7/1, 7/2, 8/1, 8/2, 8/3
+Thickness--5 to 40 cm
+
+Oa1 and Oa2 horizons
+Value--3 to 5 moist, 5 to 7 dry
+Chroma--2 to 4
+Reaction--4.7 to 5.8
+Organic carbon content--35 to 55 percent
+Rubbed fiber content--0 to 17 percent
+Combined thickness--15 to 70 cm
+
+C/Agjj horizon
+Hue--2.5Y or 7.5YR
+Value--2 to 4 moist, 4 to 6 dry
+Fine-earth texture--silt, silt loam
+Clay--8 to 18 percent
+Sand--5 to 40 percent
+Organic carbon--1 to 3 percent
+Reaction--5.5 to 6.0
+Thickness--5 to 35 cm
+
+Cf horizon
+Fine-earth texture--permanently frozen silt, permanently frozen silt loam
+Clay--8 to 18 percent
+Sand--5 to 40 percent
+Organic carbon--0 to 0.5 percent
+Reaction--5.5 to 6.1
+
+COMPETING SERIES: None
+
+GEOGRAPHIC SETTING:
+*Elevation--25 to 400 m
+*Climate--warm, moist summers; cold, dry winters
+*Mean annual precipitation--400 to 600 mm
+*Mean annual air temperature-- -5 to -1 degrees C
+*Frost-free period--55 to 90 days
+
+GEOGRAPHICALLY ASSOCIATED SOILS:
+*Sikinik--coarse fragments present, poorly drained, plains and toeslopes of hills
+*Akpik--total thickness of organic layers less than 40 cm, poorly drained, coarse fragments present, plains
+*Ukpik--total thickness of organic layers less than 40 cm, somewhat poorly drained, swales on plains
+
+DRAINAGE AND SATURATED HYDRAULIC CONDUCTIVITY:
+*Drainage class--very poorly drained
+*Ponding--long, frequent
+*Saturation during normal years--saturated at the soil surface for much of the growing season
+*Saturated hydraulic conductivity (Ksat)--moderately high or high in the upper part of the profile, very low in the permafrost layer
+
+USE AND VEGETATION:
+Use--wildlife habitat, recreation, subsistence
+Potential native vegetation--tussock cottongrass, water sedge, reindeer lichen, dwarf birch
+
+DISTRIBUTION AND EXTENT: Nulato Hills-Southern Seward Peninsula Highlands, Alaska; MLRA 240; moderate extent
+
+SOIL SURVEY REGIONAL OFFICE (SSRO) RESPONSIBLE: Portland, Oregon
+
+SERIES PROPOSED: Nulato Hills BLM area, Nome Census Area, Alaska; 2020
+
+REMARKS:
+Diagnostic horizons and features recognized in this pedon
+*Particle-size control section--zone from 54 to 90 cm
+*Thickness of organic soil material--54 cm
+*Depth to permafrost--65 cm
+*Reduced matric--zone from 54 to 65 cm
+*Reduced matrix--zone from 54 to 65 cm
+*Depth to aquic conditions--0 cm (a positive reaction to alpha-alpha dipyridyl is assumed at and below this depth for much of the growing season)
+
+National Cooperative Soil Survey
+U.S.A.

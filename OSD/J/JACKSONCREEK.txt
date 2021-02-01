@@ -1,0 +1,139 @@
+LOCATION JACKSONCREEK           AK
+
+Tentative Series
+TJR/MPS/SAS
+01/2021
+
+JACKSONCREEK SERIES
+
+Landscape--valleys
+Landform--terraces
+Slope--0 to 3 percent
+Parent material--mossy organic material over eolian deposits
+Mean annual precipitation--about 475 mm
+Mean annual air temperature--about -3 degrees C
+Depth class--very deep
+Drainage class--poorly drained
+Soil moisture regime--aquic
+Soil temperature regime--gelic
+Soil moisture subclass--typic
+
+TAXONOMIC CLASS: Coarse-loamy, isotic, acid, subgelic Histic Gelaquepts
+
+TYPICAL PEDON: Jacksoncreek peat on an east facing convex, convex terrace on a slope of 3 percent at an elevation of 148 m (The soil was moist from 0 to 19 cm, wet from 39 to 150 cm and wet, non-satiated, from 19 to 39 cm when described on June 11, 2019.)
+
+ Oi--0 to 17 cm; peat, yellow (10YR 7/6) dry, yellowish brown (10YR 5/6) moist; nonsticky, nonplastic; nonsmeary; many very fine, fine, and medium roots throughout; extremely acid (pH 3.8); clear smooth boundary
+
+ Oe--17 to 26 cm; mucky peat, brown (7.5YR 4/3) dry, very dark brown (7.5YR 2.5/3) moist; nonsticky, nonplastic; nonsmeary; common very fine, few medium, and many fine roots throughout; extremely acid (pH 4.2); clear wavy boundary
+
+ Bgjj--26 to 45 cm; very fine sandy loam, 95 percent light gray (5Y 7/1) and 5 percent brown (7.5YR 4/2) dry, 95 percent dark greenish gray (10Y 4/1) and 5 percent very dark brown (7.5YR 2.5/2) moist; weak coarse subangular blocky structure; firm, nonsticky, nonplastic; nonsmeary; common very fine and few medium roots throughout; very fine irregular pores; 15 percent medium lenticular strong brown (7.5YR 4/6) masses of oxidized iron; very strongly acid (pH 4.8); clear irregular boundary
+
+ Bg--45 to 110 cm; very fine sandy loam, gray (5Y 6/1) dry, dark greenish gray (10Y 4/1) moist; moderate medium platy parts to moderate medium granular structure; friable, nonsticky, nonplastic; nonsmeary; very fine irregular pores; 25 percent medium lenticular dark yellowish brown (10YR 4/6) masses of oxidized iron; very strongly acid (pH 5.0); clear smooth boundary
+
+ C--110 to 128 cm; very fine sandy loam, olive gray (5Y 5/2) dry, very dark grayish brown (2.5Y 3/2) moist; massive; friable, nonsticky, nonplastic; nonsmeary; very fine irregular pores; 5 percent fine irregular dark gray (5Y 4/1) iron depletions and 10 percent fine irregular strong brown (7.5YR 4/6) masses of oxidized iron; strongly acid (pH 5.2); clear smooth boundary
+
+ Cg--128 to 150 cm; very fine sandy loam, gray (5Y 5/1) dry, dark greenish gray (10Y 3/1) moist; massive; friable, nonsticky, nonplastic; nonsmeary; very fine irregular pores; 5 percent fine irregular strong brown (7.5YR 4/6) masses of oxidized iron; very strongly acid (pH 5.0)
+
+TYPE LOCATION: Yukon-Koyukuk Census Area, Alaska, latitude 63.2621867 longitude -160.7078004 degrees, datum WGS84 (Coordinates determined with a GPS unit)
+
+RANGE IN CHARACTERISTICS:
+Mean annual soil temperature-- -2 to 0 to  degrees C
+Soil moisture control section-- saturated at a depth of between 0 and 25 cm for more than two weeks during the growing season (aquic moisture regime)
+Thickness histic epipedon--20 to 40 cm
+Depth to reduced matrix--20 to 40 cm
+Depth to aquic conditions--0 to 25 cm
+
+Particle Size Control Section:
+*Clay--8 to 18 percent
+*Sodium fluoride pH--8.4 to 11.6
+*Ratio of 1500 kPa water to measured clay--0.6 to 6.0
+
+Oi horizon
+Thickness--14 to 28 cm
+
+Oe horizon
+Thickness--5 to 15 cm
+
+Bgjj horizon
+Hue--7.5YR, 10Y, 2.5Y, or 5Y
+Value--2 to 4 moist, 4 to 6 dry
+Chroma--1 or 2
+Fine-earth texture--very fine sandy loam, silt loam
+Clay--5 to 13 percent
+Sand--30 to 70 percent
+Organic carbon--1.5 to 4 percent
+Reaction--4.3 to 4.9
+Thickness--15 to 25 cm
+
+Bg horizon
+Hue--10Y, 2.5Y, or 5Y
+Value--4 or 5 moist, 6 or 7 dry
+Chroma--1 or 2
+Fine-earth texture--very fine sandy loam, silt loam
+Clay--5 to 13 percent
+Sand--35 to 70 percent
+Organic carbon--1 to 3 percent
+Reaction--4.6 to 5.2
+Thickness--40 to 75 cm
+
+C horizon
+Value--2.5 or 3 moist, 4 or 5 dry
+Chroma--2 or 3
+Fine-earth texture--very fine sandy loam, loam, silt loam
+Clay--5 to 15 percent
+Sand--35 to 70 percent
+Organic carbon--0.5 to 2 percent
+Reaction--4.8 to 5.4
+Thickness--15 to 20 cm
+
+Cg horizon
+Value--3 to 5 moist, 5 or 7 dry
+Fine-earth texture--very fine sandy loam, loam, silt loam
+Clay--10 to 20 percent
+Sand--25 to 65 percent
+Organic carbon--0.5 to 2 percent
+Total rock fragment content--0 to 25 percent gravel
+Reaction--4.6 to 5.2
+
+COMPETING SERIES: None
+
+GEOGRAPHIC SETTING:
+*Elevation--50 to 700 m
+*Climate--warm, moist summers; cold, dry winters
+*Mean annual precipitation--385 to 590 mm
+*Mean annual air temperature-- -5 to -1 degrees C
+*Frost-free period--55 to 90 days
+
+GEOGRAPHICALLY ASSOCIATED SOILS:
+*Sprucecreek--cryic soil temperature regime, well drained, sandy particle-size class, terraces in valleys
+*Ponluktule--permafrost contact at 35 to 70 cm; terraces in valleys, hillslopes
+*Pokercreek--umbric epipedon, no reduced matrix present; loess covered footslopes and toeslopes
+
+DRAINAGE AND SATURATED HYDRAULIC CONDUCTIVITY:
+*Drainage class--poorly drained
+*Saturation during normal years--saturated at a depth of between 0 and 25 cm for more than 2 weeks during the growing season
+*Saturated hydraulic conductivity (Ksat)--high in the histic epipedon, high to moderately high throughout the rest of the profile 
+
+USE AND VEGETATION:
+Use--wildlife habitat, recreation, subsistence
+Potential native vegetation--black spruce, bog blueberry, marsh Labrador tea, dwarf birch, black crowberry, lingonberry, cloudberry, Bigelow's sedge, reindeer lichen, star reindeer lichen, Schreber's big red stem moss, polytrichum moss, sphagnum, Moss, resin birch, barrenground willow, bluejoint, greygreen reindeer lichen, snow lichen, island cetraria lichen
+
+DISTRIBUTION AND EXTENT: Yukon-Kuskokwim Highlands, Alaska; MLRA 230; small extent
+
+SOIL SURVEY REGIONAL OFFICE (SSRO) RESPONSIBLE: Portland, Oregon 
+
+SERIES PROPOSED: Nulato Hills BLM area, Nome Census Area, Alaska; 2020
+
+REMARKS:
+Diagnostic horizons and features recognized in this pedon
+*Particle-size control section--zone from 51 to 126 cm
+*Histic epipedon--zone from 0 to 26 cm
+*Aquic conditions--zone from 0 to 175 cm
+*Cryoturbation--zone from 26 to 45 cm
+*Reduced matrix--zone from 26 to 110 cm and from 128 to 150 cm
+*Cambic horizon--zone from 26 to 110 cm
+*Redoximorphic concentrations--zone from 26 to 150 cm
+*Redoximorphic depletions with a chroma of 2 or less--zone from 110 to 128 cm
+
+National Cooperative Soil Survey
+U.S.A.

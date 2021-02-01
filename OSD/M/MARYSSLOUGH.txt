@@ -1,0 +1,123 @@
+LOCATION MARYSSLOUGH            AK
+
+Tentative Series
+MPS/SAS
+01/2021
+
+MARYSSLOUGH SERIES
+
+Landscape--coastal plain
+Landform--floodplains, leeward side of coastal berms
+Slope--0 to 5 percent
+Parent material--loamy alluvium over sandy and gravelly alluvium
+Mean annual precipitation--about 295 mm
+Mean annual air temperature--about -3 degrees C
+Depth class--very deep
+Drainage class--well drained
+Soil moisture regime--udic
+Soil temperature regime--cryic
+Soil moisture subclass--typic
+
+TAXONOMIC CLASS: Sandy-skeletal, mixed Fluventic Haplocryepts
+
+TYPICAL PEDON: Marysslough silt loam on a west southwest facing linear, convex floodplains, on a slope of 3 percent at an elevation of 4 m (The soil was moist throughout the profile when described on July 12, 2015.)
+
+ Oi--0 to 12 cm; slightly decomposed plant material, grayish brown (10YR 5/2) dry, very dark grayish brown (10YR 3/2) moist; many very fine and medium, common fine, and very few coarse roots throughout; slightly acid (pH 6.4); abrupt smooth boundary
+
+ A--12 to 23 cm; silt loam,85 percent gray (10YR 5/1) and 15 percent dark grayish brown (10YR 4/2) dry, 85 percent very dark gray (10YR 3/1) and 15 percent very dark brown (10YR 2/2) moist; moderate fine granular structure; friable, slightly sticky, nonplastic; moderately few very fine, many fine and medium, and very few coarse roots throughout; 1 percent gravel and 6 percent fine gravel; slightly acid (pH 6.3); clear smooth boundary
+
+ BC--23 to 35 cm; gravelly silt loam,60 percent pale brown (10YR 6/3) and 40 percent pale yellow (2.5Y7/3) dry, 60 percent brown (10YR 4/3) and 40 percent light olive brown (2.5Y 5/3) moist; moderate medium subangular blocky structure; friable, slightly sticky, nonplastic; moderately few very fine, many fine, and very few coarse roots throughout; few fine irregular pores; 5 percent gravel and 15 percent fine gravel; slightly acid (pH 6.2); abrupt wavy boundary
+
+ 2C--35 to 150 cm; extremely gravelly coarse sand, olive gray (5Y 5/2) dry, dark olive gray (5Y 3/2) moist; structureless, single grain; loose, nonsticky, nonplastic; very few very fine and moderately few fine roots top of horizon; 18 percent medium and coarse gravel and 50 percent fine gravel; slightly acid (pH 6.3)
+
+TYPE LOCATION: Nome Census Area, Alaska, latitude 63.8998150 longitude -160.8048040 degrees, datum WGS84 (Coordinates determined with a GPS unit)
+
+RANGE IN CHARACTERISTICS:
+Mean annual soil temperature--0 to 3 degrees C
+Soil moisture control section--dry less than 45 consecutive days in June through October
+Thickness of ochric epipedon--7 to 25 cm
+Thickness of cambic horizon--15 to 30 cm
+
+Particle Size Control Section:
+*Clay--0 to 8 percent
+*Total fragments--60 to 75 percent flat, well rounded beach gravels
+
+Oi horizon
+Thickness--5 to 15 cm
+
+A horizon
+Value--2 or 3 moist, 4 or 5 dry
+Chroma-1 or 2
+Clay--3 to 10 percent
+Sand--20 to 45 percent
+Organic carbon--5 to 12 percent
+Total rock fragment content--0 to 10 percent
+Fine gravel content--0 to 10 percent
+Medium and coarse gravel content--0 to 5 percent
+Reaction--5.1 to 6.3
+Thickness--5 to 15 cm
+
+BC horizon
+Hue--7.5YR, 10YR, or 2.5Y
+Value--2 to 5 moist, 4 or 7 dry
+Chroma--2 to 6
+Fine-earth texture--silt loam, sandy loam
+Clay--3 to 10 percent
+Sand--20 to 65 percent
+Organic carbon--2 to 5 percent
+Total rock fragment content--15 to 40 percent
+Total fine gravel content--15 to 40 percent
+Total gravel content--0 to 5 percent
+Reaction--5.6 to 6.3
+Thickness--5 to 20 cm
+
+2C horizon
+Hue--10YR, 2.5Y or 5Y
+Value--2 or 3 moist, 4 or 5 dry
+Chroma--1 to 3
+Fine-earth texture--coarse sand, loamy coarse sand, sand
+Clay--0 to 3 percent
+Sand--80 to 100 percent
+Organic carbon--0.5 to 2 percent
+Total rock fragment content--60 to 75 percent
+Fine gravel content--25 to 55 percent
+Coarse and medium gravel content--5 to 30 percent
+Reaction--5.6 to 6.6
+
+COMPETING SERIES: none
+
+GEOGRAPHIC SETTING:
+*Elevation--0 to 8 m
+*Climate--warm, moist summers; cold, dry winters
+*Mean annual precipitation--295 to 300 mm
+*Mean annual air temperature-- -5 to -1 degrees C
+*Frost-free period--55 to 90 days
+
+GEOGRAPHICALLY ASSOCIATED SOILS:
+*Grassylake--excessively drained, no cambic horizon, herbaceous organic material over gravelly beach sand; berms on coastal plains
+
+DRAINAGE AND SATURATED HYDRAULIC CONDUCTIVITY:
+*Drainage class--well drained
+*Flooding--occasional, brief
+*Saturation during normal years--none
+*Saturated hydraulic conductivity (Ksat)--very high in the surface organic layer and the substratum, high to moderately high throughout the rest of the profile
+
+USE AND VEGETATION:
+Use--wildlife habitat, recreation, subsistence
+Potential native vegetation--Pacific hemlockparsley, arctic daisy, mouse-ear chickweed, Alaska bog willow, black crowberry, lakeshore sedge, Port clarence Indian paintbrush, beach pea, saw-wort, cup lichen, lyngbye's sedge, smallawned sedge, bluegrass, moss, Scottish licorice-root, circumpolar reedgrass, American dunegrass, beachhead iris, narcissus anemone, red fruit bearberry, dwarf birch, bluejoint, arctic daisy, greygreen reindeer lichen, marsh Labrador tea, common woodrush, whorled lousewort, alpine bistort, bog blueberry, graminoid
+
+DISTRIBUTION AND EXTENT: Nulato Hills-Southern Seward Peninsula Highlands, Alaska; MLRA 240; small extent
+
+SOIL SURVEY REGIONAL OFFICE (SSRO) RESPONSIBLE: Portland, Oregon
+
+SERIES PROPOSED: Nulato Hills BLM area, Nome Census Area, Alaska; 2020
+
+REMARKS:
+Diagnostic horizons and features recognized in this pedon
+*Particle-size control section--zone from 37 to 112 cm
+*Ochric epipedon--zone from 0 to 23 cm
+*Cambic horizon--zone from 12 to 35 cm
+*Lithological discontinuity-- zone from 35 to 150 cm
+
+National Cooperative Soil Survey
+U.S.A.

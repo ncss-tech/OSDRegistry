@@ -1,0 +1,119 @@
+LOCATION NUNAPIK                AK
+
+Tentative Series
+MPS/SAS
+01/2021
+
+NUNAPIK SERIES
+
+Landscape--hills
+Landform--hillslope, saddle
+Microfeature--mounds
+Slope--0 to 15 percent
+Parent material--mossy organic material over loess
+Mean annual precipitation--about 540 mm
+Mean annual air temperature--about -4 degrees C
+Depth class--very deep (shallow to permafrost)
+Drainage class--poorly drained
+Soil moisture regime--aquic
+Soil temperature regimegelic
+Soil moisture subclass--typic
+
+TAXONOMIC CLASS: Fine-loamy, isotic, nonacid, subgelic Typic Historthels
+
+TYPICAL PEDON: Nunapik peat on a west northwest facing convex, linear backslope on a slope of 15 percent at an elevation of 330 m (The soil was wet, non-satiated, from 0 to 9 cm and wet, satiated, from 9 to 22 cm, and dry from 28 to 36 cm and moist from 22 to 28 cm and 36 to 150 cm when described on June 6, 2019.)
+
+ Oi--0 to 8 cm; peat, reddish yellow (7.5YR 7/8) dry, strong brown (7.5YR 5/8) moist; nonsmeary; many very fine and fine roots; very strongly acid (pH 4.5); abrupt broken boundary
+
+ Oa--8 to 22 cm; muck, dark gray (10YR 4/1) dry, black (10YR 2/1) moist; nonsmeary; many very fine and common fine roots; moderately acid (pH 5.8); abrupt smooth boundary
+
+ A--22 to 40 cm; highly organic silt, brown (10YR 5/3) dry, very dark brown (7.5YR 2.5/2) moist; weak granular structure; nonsmeary; many very fine and common fine roots; moderately acid (pH 5.7); abrupt smooth boundary
+
+ Cgf--40 to 150 cm; permanently frozen silt loam, pale brown (10YR 6/3) dry, dark grayish brown (2.5Y 4/2) moist; massive; slightly hard, friable, nonsticky, nonplastic; nonsmeary; common very fine roots; common coarse irregular pores; 2 percent fine reddish yellow (7.5YR 6/8) masses of oxidized iron and 3 percent very fine light olive gray (5Y 6/2) iron depletions; 3 percent medium gravel; moderately acid (pH 6.0)
+
+TYPE LOCATION: Yukon-Koyukuk Census Area County, Alaska, latitude 63.4313850, longitude -160.4594000 degrees, datum WGS84 (Coordinates determined with a GPS unit)
+
+RANGE IN CHARACTERISTICS:
+Mean annual soil temperature-- -2 to 0 degrees C
+Soil moisture control section--saturated at the soil surface for at least two weeks during the growing season
+Thickness of histic epipedon--20 to 40 cm
+Depth to permafrost contact--35 to 50 cm
+Depth to redoximorphic iron depletions--35 to 50 cm
+Depth to redoximorphic iron concentrations--35 to 50 cm
+
+Particle Size Control Section:
+*Clay--18 to 28 percent
+*Total rock fragment content--0 to 3 percent medium gravel
+*Sodium fluoride pH--8.4 to 11.6
+*Ratio of 1500 kPa water to measured clay--0.6 to 6.0
+
+Oi horizon
+Thickness--5 to 20 cm
+
+Oa horizon
+Thickness--10 to 25 cm
+
+A horizon
+Hue--7.5YR or 10YR
+Value--2.5 or 3 moist, 4 or 5 dry
+Chroma--2 or 3
+Fine-earth texture--silt, silt loam
+Clay--6 to 18 percent
+Sand--5 to 40 percent
+Organic carbon--8 to 12 percent
+Reaction--4.7 to 5.7
+Thickness--10 to 20 cm
+
+Cgf horizon
+Hue--10YR or 2.5Y
+Value--2.5 or 4 moist, 4 or 6 dry
+Chroma--1 to 3
+Fine-earth texture--permanently frozen silt loam, permanently frozen loam
+Clay--18 to 26 percent
+Sand--20 to 45 percent
+Organic carbon--1 to 3 percent
+Total rock fragment content--0 to 3 percent medium gravel
+Reaction--5.3 to 6.4
+
+COMPETING SERIES: None
+
+GEOGRAPHIC SETTING:
+*Elevation--100 to 1000 m
+*Climate--warm, moist summers; cold, dry winters
+*Mean annual precipitation--370 to 745 mm
+*Mean annual air temperature-- -6 to -2 degrees C
+*Frost-free period--45 to 80 days
+
+GEOGRAPHICALLY ASSOCIATED SOILS:
+*Iiguk--cryic soil temperature regime, ochric epipedon; shoulders, ridges, and upper backslopes of mountains and hills
+*Nulatohills--no permafrost present, andic soil properties from 18 to 34 cm, mixed minerology, loamy-skeletal particle-size class, cryic soil temperature regime, hillslopes and mountain slopes
+
+DRAINAGE AND SATURATED HYDRAULIC CONDUCTIVITY:
+*Drainage class--poorly drained
+*Ponding--occasional, brief
+*Saturation during normal years--saturated at the soil surface for at least two weeks during the growing season, saturated throughout the profile from a depth of 0 to 25 during the rest of the growing season
+*Saturated hydraulic conductivity (Ksat)--high in the histic epipedon, moderately high in the unfrozen mineral soil layers, very low in the permafrost layer
+
+USE AND VEGETATION:
+Use--wildlife habitat, recreation, subsistence
+Potential native vegetation--Siberian alder, tealeaf willow, black crowberry, bog blueberry, lingonberry, dwarf birch, marsh Labrador tea, tussock cottongrass Bigelow's sedge, knights plume moss, Schreber's big red stem moss, Moss, splendid feather moss, sphagnum, greygreen reindeer lichen, reindeer lichen, cup lichen, 
+
+DISTRIBUTION AND EXTENT: Nulato Hills-Southern Seward Peninsula Highlands, Alaska; MLRA 240; moderate extent
+
+SOIL SURVEY REGIONAL OFFICE (SSRO) RESPONSIBLE: Portland, Oregon
+
+SERIES PROPOSED: Nulato Hills BLM area, Yukon-Koyukuk Census Area, Alaska; 2020
+
+REMARKS:
+Diagnostic horizons and features recognized in this pedon
+*Particle-size control section--zone from 47 to 122 cm
+*Histic epipedon--zone from 0 to 22 cm
+*Aquic conditions--zone from 0 to 150 cm
+*Cambic horizon--zone from 22 to 40 cm
+*Redoximorphic concentrations--zone from 40 to 150 cm
+*Redoximorphic depletions with chroma of 2 or less--zone from 40 to 150 cm
+*Depth to permafrost--40 cm
+*Reduced matrix--zone from 40 to 150cm
+
+National Cooperative Soil Survey
+U.S.A.

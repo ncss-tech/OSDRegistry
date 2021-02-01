@@ -1,0 +1,124 @@
+LOCATION SHORTYCOVE             AK
+
+Tentative Series
+MPS/SAS
+01/2021
+
+SHORTYCOVE SERIES
+
+Landscape--hills, mountains
+Landform--hillslopes, mountain slopes
+Slope--7 to 30 percent
+Parent material--loess over loamy colluvium
+Mean annual precipitation--about 490 mm
+Mean annual air temperature--about -3 degrees C
+Depth class--very deep
+Drainage class--somewhat poorly drained
+Soil moisture regime--aquic
+Soil temperature regime--cryic
+Soil moisture subclass--typic
+
+TAXONOMIC CLASS: Coarse-loamy, isotic, nonacid Aeric Humic Cryaquepts
+
+TYPICAL PEDON: Shortycove silt loam on a southeast facing linear, linear footslope on a slope of 7 percent at an elevation of 313 m (The soil was moist throughout the soil profile when described on September 5, 2019.)
+
+ Oa--0 to 8 cm; highly decomposed plant material, brown (7.5YR 4/2) dry, very dark brown (7.5YR 2.5/2) moist; many very fine and fine roots, and common very coarse, coarse, and medium roots; slightly acid (pH 6.2); abrupt smooth boundary
+
+ A--8 to 30 cm; silt loam, brown (7.5YR 5/2) dry, dark brown (7.5YR 3/2) moist; moderate medium subangular blocky structure; friable; many very fine and common fine, medium, coarse, and very coarse roots; slightly acid (pH 6.2); abrupt wavy boundary
+
+ Bw--30 to 43 cm; silt loam, light yellowish brown (10YR 6/4) dry, dark yellowish brown (10YR 4/4) moist; 5 percent fine strong brown (7.5YR 4/6) masses of oxidized iron; weak fine subangular blocky structure; very friable, nonsticky, slightly plastic; many very fine roots and common fine and medium roots; slightly acid (pH 6.5); clear wavy boundary
+
+ C--43 to 150 cm; silt loam, light yellowish brown (10YR 6/4) dry, dark yellowish brown (10YR 4/4) moist; 1 percent very fine reticulate strong brown (7.5YR 5/8) masses of oxidized iron and 20 percent medium irregular olive gray (5Y 5/2) iron depletions; massive; very firm, nonsticky, slightly plastic; 3 percent subangular gravel; slightly acid (pH 6.4)
+
+TYPE LOCATION: Yukon Koyukuk Census Area, Alaska, latitude 63.2606900 longitude -160.2958180 degrees, datum WGS84 (coordinates determined with a GPS unit)
+
+RANGE IN CHARACTERISTICS:
+Mean annual soil temperature--0 to 3 degrees C
+Soil moisture control section--saturated for about two weeks during the growing season at a depth of 25 to 50 cm (aquic soil moisture regime)
+Thickness umbric epipedon--18 to 30 cm
+
+Particle Size Control Section:
+*Clay--6 to 14 percent
+*Total rock fragment content--0 to 20 percent subangular gravels
+*Sodium fluoride pH--8.4 to 11.6
+*Ratio of 1500 kPa water to measured clay--0.6 to 6.0
+
+Oa horizon
+Thickness--2 to 10 cm
+
+A horizon
+Hue--7.5YR or 10YR
+Value--2.5 or 3 moist, 4 or 5 dry
+Chroma--2 or 3
+Fine-earth texture--silt loam, silt
+Clay--5 to 12 percent
+Sand--5 to 30 percent 
+Organic carbon--5 to 12 percent
+Reaction--4.9 to 6.2
+Thickness--5 to 22 cm
+
+Bw horizon
+Hue--10YR or 7.5YR
+Value--3 or 4 moist, 5 or 6 dry
+Chroma--4 to 6
+Fine-earth texture--silt loam, silt
+Clay--5 to 12 percent
+Sand--15 to 35 percent
+Organic carbon--2 to 5 percent
+Total rock fragment content--0 to 3 percent gravel
+Volcanic ash content--0 to 3 percent
+Reaction--5.0 to 6.5
+Thickness--10 to 45 cm
+
+C horizon
+Hue--10YR or 2.5Y
+Value--4 to 6 moist, 6 to 8 dry
+Chroma--3 to 6
+Fine-earth texture--silt loam, silt, loam
+Clay--8 to 15 percent
+Sand--15 to 50 percent
+Organic carbon--1 to 2 percent
+Total rock fragment content--0 to 20 percent gravel
+Reaction--5.3 to 6.5
+Thickness--95 to 120 cm
+
+COMPETING SERIES: none
+
+GEOGRAPHIC SETTING:
+*Elevation--50 to 600 m
+*Climate--warm, moist summers; cold, dry winters
+*Mean annual precipitation--390 to 640 mm
+*Mean annual air temperature-- -5 to -1 degrees C
+*Frost-free period--55 to 90 days
+
+GEOGRAPHICALLY ASSOCIATED SOILS:
+Blackpoint--coarse fragments range above 35 percent, moderately deep to paralithic contact, soil temperature ranges to 4 degrees C; backslopes of hills and mountains
+Pokercreek--poorly drained, gelic soil temperature regime; similar landscape position
+Cilla--moderately well drained, coarse fragments range above 35 percent, ochric epipedon; hillslopes and lower mountain slopes
+Tuma--folistic epipedon, moderately well drained; nose slopes and shoulders on hills
+
+DRAINAGE AND SATURATED HYDRAULIC CONDUCTIVITY:
+*Drainage class--somewhat poorly drained
+*Saturation during normal years--saturated for about two weeks during the growing season at a depth of 25 to 50 cm
+*Saturated hydraulic conductivity (Ksat)--very high in the organic soil surface layer, moderately high throughout the rest of the profile
+
+USE AND VEGETATION:
+Use--wildlife habitat, recreation, subsistence
+Potential native vegetation--white spruce, Siberian alder, tealeaf willow, Barclay's willow, field horsetail, bunchberry dogwood, running clubmoss, violet, bog blueberry, beaverd spirea, bluejoint, splendid feather moss, polytrichum moss, dwarf birch, fireweed, red currant, dwarf raspberry, common ladyfern
+
+DISTRIBUTION AND EXTENT: Yukon-Kuskokwim Highlands, Alaska; MLRA 230; moderate extent
+
+SOIL SURVEY REGIONAL OFFICE (SSRO) RESPONSIBLE: Portland, Oregon 
+
+SERIES PROPOSED: Nulato Hills BLM area, Yukon Koyukuk Census Area, Alaska; 2020
+
+REMARKS:
+Diagnostic horizons and features recognized in this pedon
+*Particle-size control section--zone from 33 to 108 cm
+*Umbric epipedon--zone from 8 to 30 cm
+*Redoximorphic iron concentrations--zone from 30 to 150 cm
+*Redoximorphic iron depletions--zone from 43 to 150 cm
+*Aquic conditions--zone from 43 to 150 cm
+
+National Cooperative Soil Survey
+U.S.A.

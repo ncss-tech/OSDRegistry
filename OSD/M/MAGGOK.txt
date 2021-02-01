@@ -1,0 +1,126 @@
+LOCATION MAGGOK                 AK
+
+Tentative Series
+SAS/MPS
+01/2021
+
+MAGGOK SERIES
+
+Landscape--hills
+Landform--ridges, hillslopes
+Slope--0 to 30 percent
+Parent material--eolian sands
+Mean annual precipitation--about 320 mm
+Mean annual air temperature--about -3 degrees C
+Depth class--very deep
+Drainage class--well drained
+Soil moisture regime--udic
+Soil temperature regime--cryic
+Soil moisture subclass--typic
+
+TAXONOMIC CLASS: Coarse-loamy, mixed, superactive Spodic Dystrocryepts
+
+TYPICAL PEDON: Maggok silt loam on a west southwest facing convex, linear shoulder on a slope of 3 percent at an elevation of 83 m (The soil was moist throughout when described on August 25, 2019.)
+
+ Oe--0 to 12 cm; moderately decomposed plant material, dark grayish brown (10YR 4/2) dry, very dark brown (10YR 2/2) moist; common very fine, fine, and medium roots throughout; extremely acid (pH 3.8); abrupt smooth boundary
+
+ Ajj--12 to 15 cm; silt loam, brown (7.5YR 5/2) dry, dark brown (7.5YR 3/2) moist; weak, medium, granular structure; very friable, nonsticky, nonplastic; common very fine and fine roots throughout; extremely acid (pH 3.9); abrupt wavy boundary
+
+ Bhsjj--15 to 33 cm; loam, 70 percent dark reddish gray (5YR 4/2) and 30 percent dark gray (5YR 4/1) dry, 70 percent dark reddish brown (5YR 2.5/2) and 30 percent black (5YR 2.5/1) moist; weak, coarse, subangular blocky structure; friable, nonsticky, nonplastic; common very fine and fine roots throughout; very fine irregular and fine irregular pores; extremely acid (pH 4.4); very abrupt irregular boundary
+
+ Bw--33 to 115 cm; fine sandy loam, 70 percent brown (10YR 5/3) and 30 percent pale brown (10YR 6/3) dry, 70 percent dark brown (10YR 3/3) and 30 percent brown (10YR 4/3) moist; weak coarse subangular blocky structure; very friable, nonsticky, nonplastic; common very fine and few fine roots throughout; very fine tubular pores; faint strong brown (7.5YR 4/6) masses of oxidized iron; strongly acid (pH 5.5); clear smooth boundary
+
+ C--115 to 150 cm; fine sandy loam, light olive brown (2.5Y 5/3) dry, dark olive brown (2.5Y 3/3) moist; massive; friable, slightly sticky, nonplastic; common very fine roots throughout; very fine tubular pores; faint strong brown (7.5YR 4/6) masses of oxidized iron; strongly acid (pH 5.3)
+
+TYPE LOCATION: Nome Census Area, Alaska, latitude 63.9187716 longitude -160.6450828 degrees, datum WGS84 (coordinates determined with a GPS unit)
+
+RANGE IN CHARACTERISTICS:
+Mean annual soil temperature--0 to 3 degrees C
+Soil moisture control section--dry less than 45 consecutive days in June through October (udic soil moisture regime)
+Thickness ochric epipedon--13 to 23 cm
+Thickness of cambic horizon--88 to 130 cm
+
+Particle Size Control Section:
+*Clay--8 to 16 percent
+
+Oe horizon
+Thickness--10 to 15 cm
+
+Ajj horizon
+Hue--7.5YR or 10YR
+Value--2 to 3 moist, 4 or 5 dry
+Chroma--1 to 3
+Fine-earth texture--silt loam, fine sandy loam
+Clay--5 to 10 percent
+Sand--35 to 75 percent
+Organic carbon--5 to 12 percent
+Reaction--3.5 to 4.4
+Thickness--3 to 12 cm
+
+Bhsjj horizon
+Hue--5YR or 7.5YR
+Value--2 to 3 moist, 4 or 5 dry
+Chroma--1 to 3
+Fine-earth texture--loam, fine sandy loam
+Clay--5 to 10 percent
+Sand--50 to 70 percent
+Organic carbon--6 to 10 percent
+Al + 1/2Fe--0.5 to 1 percent
+Reaction--4.4 to 5.0
+Thickness--10 to 25 cm
+
+Bw horizon
+Value--3 or 4 moist, 5 or 6 dry
+Chroma--3 or 4
+Clay--8 to 16 percent
+Sand--65 to 80 percent
+Organic carbon--1 to 3 percent
+Reaction--5.0 to 5.5
+Thickness--75 to 100 cm
+
+C horizon
+Value--3 to 5 moist, 5 to 7 dry
+Fine-earth texture--fine sandy loam, loamy fine sand
+Clay--14 to 20 percent
+Sand--65 to 85 percent
+Organic carbon--0.5 to 1.5 percent
+Reaction-4.9 to 5.5
+
+COMPETING SERIES:
+*Jenkins--moderately deep to bedrock, mountainsides and ridges, slope range is 4 to 40 percent
+
+GEOGRAPHIC SETTING:
+*Elevation--10 to 150 m
+*Climate--warm, moist summers; cold, dry winters
+*Mean annual precipitation--315 to 325 mm
+*Mean annual air temperature-- -5 to -1 degrees C
+*Frost-free period--55 to 90 days
+
+GEOGRAPHICALLY ASSOCIATED SOILS:
+*Teacreek--loamy-skeletal particle-size class, aquic conditions and redoximorphic features present, hillslopes and mountain slopes
+
+DRAINAGE AND SATURATED HYDRAULIC CONDUCTIVITY:
+*Drainage class--well drained
+*Saturation during normal years--none
+*Saturated hydraulic conductivity (Ksat)--very high in the surface organic layer, high to moderately high throughout the rest of the profile
+
+USE AND VEGETATION:
+Use--wildlife habitat, recreation, subsistence
+Potential native vegetation--marsh Labrador tea, bog blueberry, dwarf birch, black crowberry, Bigelow's sedge, star reindeer lichen, reindeer lichen, greygreen reindeer lichen, snow lichen, cetraria lichen, lingonberry, Kenai birch, black spruce, white spruce, Siberian alder, woodland horsetail, bluejoint, beaverd spirea, red currant, Schreber's big red stem moss, splendid feather moss
+
+DISTRIBUTION AND EXTENT: Nulato Hills-Southern Seward Peninsula Highlands, Alaska; MLRA 240; small extent
+
+SOIL SURVEY REGIONAL OFFICE (SSRO) RESPONSIBLE: Portland, Oregon 
+
+SERIES PROPOSED: Nulato Hills BLM area, Nome Census Area, Alaska; 2020
+
+REMARKS:
+Diagnostic horizons and features recognized in this pedon
+*Particle-size control section--zone from 37 to 112 cm
+*Ochric epipedon--zone from 0 to 15 cm
+*Cryoturbation--zone from 12 to 33 cm
+*Cambic horizon--zone from 12 to 115 cm
+*Redoximorphic iron concentrations--zone from 33 to 150 cm
+
+National Cooperative Soil Survey
+U.S.A.

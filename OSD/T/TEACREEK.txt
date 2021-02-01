@@ -1,0 +1,150 @@
+LOCATION TEACREEK               AK
+
+Tentative Series
+MPS/SAS
+01/2021
+
+TEACREEK SERIES
+
+Landscape--hills, mountains
+Landform--hillslopes, mountain slopes
+Slope--5 to 45 percent
+Parent material--colluvium
+Mean annual precipitation--about 430 mm
+Mean annual air temperature--about -3 degrees C
+Depth class--very deep
+Drainage class--poorly  drained
+Soil moisture regime--aquic
+Soil temperature regime--cryic
+Soil moisture subclass--typic
+
+TAXONOMIC CLASS: Loamy-skeletal, mixed, superactive Aquic Haplocryepts
+
+TYPICAL PEDON: Teacreek silt loam on a southeast linear, convex on a slope of 24 percent at an elevation of 269 m (The soil was moist from 0 to 150 when described on June 19, 2018.)
+
+ Oa--0 to 4 cm; highly decomposed plant material, brown (7.5YR 4/2) dry, very dark brown (7.5YR 2.5/2) moist; many very fine and common fine and medium roots; very strongly acid (pH 4.5); abrupt smooth boundary
+
+ Bg--4 to 17 cm; silt loam, 70 percent light olive gray (5Y 6/2) and 30 percent light yellowish brown (10YR 6/4) dry, 70 percent olive gray (5Y 4/2) and 30 percent dark yellowish brown (10YR 4/4) moist; weak medium subangular blocky structure; firm, nonsticky, slightly plastic; many very fine roots and common medium and fine roots; common fine irregular pores; 2 percent fine prominent strongly cemented strong brown (7.5YR 4/6) masses of oxidized iron with sharp boundaries between peds; 5 percent gravel; strongly acid (pH 5.5); abrupt wavy boundary
+
+ Bw--17 to 25 cm; gravelly silt loam, yellowish brown (10YR 5/4) dry, dark yellowish brown (10YR 3/4) moist; weak fine granular structure; few very fine irregular pores; very friable, nonsticky, nonplastic; common very fine and fine roots; 2 percent cobbles, 15 percent gravel; moderately acid (pH 6.0); abrupt broken boundary
+
+ Cg--25 to 40 cm; very gravelly silt loam, light brownish gray (2.5Y 6/2) dry, dark grayish brown (2.5Y 4/2) moist; massive; friable, slightly sticky, nonplastic; common very fine and fine roots; 10 percent cobbles, 25 percent gravel; moderately acid (pH 6.0); clear wavy boundary
+
+ C--40 to 150 cm; very cobbly silt loam, light yellowish brown (2.5Y 6/3) dry, olive brown (2.5Y 4/3) moist; massive; friable; 20 percent cobbles, 25 percent gravel; moderately acid (pH 6.0)
+
+TYPE LOCATION: Nome Census Area, Alaska latitude 63.5768010 longitude -160.7349750 degrees, datum WGS84 (coordinates determined with a GPS unit)
+
+RANGE IN CHARACTERISTICS:
+Mean annual soil temperature--0 to 3 degrees C
+Soil moisture control section--saturated for at least two weeks during the growing season from between 0 and 25 cm to between 25 and 50 cm (aquic soil moisture regime)
+Thickness of ochric epipedon--4 to 15 cm
+Thickness of cambic horizon--20 to 30 cm
+Depth to redoximorphic iron concentrations--0 to 60 cm
+Depth to depleted matrix--0 to 25 cm
+Depth to aquic conditions--0 to 25 cm
+
+Particle Size Control Section:
+*Clay--12 to 22 percent
+*Total fragments--35 to 60 percent subangular gravels and cobbles
+
+Oa horizon
+Thickness--2 to 10 cm
+
+Bg horizon
+Hue--10YR or 5Y
+Value--4 or 5 moist, 6 or 7 dry
+Chroma-1 or 2
+Fine-earth texture--silt loam, silt
+Clay--6 to 14 percent
+Sand--5 to 20 percent
+Organic carbon--3 to 5 percent
+Total rock fragment content--0 to 5 percent gravel
+Reaction--4.8 to 5.7
+Thickness--10 to 15 cm
+
+Bw horizon
+Hue--10YR or 2.5Y
+Value--3 to 5 moist. 5 to 7 dry
+Chroma--3 or 4
+Clay--8 to 18 percent
+Sand--8 to 15 percent
+Organic carbon--3 to 5 percent
+Total rock fragment content--0 to 20 percent
+Total gravel content--0 to 20 percent gravel
+Total cobble content--0 to 5 percent cobble
+Reaction--5.0 to 6.0
+Thickness--8 to 20 cm
+
+Cg horizon
+Hue--2.5Y or 5Y
+Value--4 or 5 moist, 6 or 7 dry
+Chroma--1 to 2
+Fine-earth texture--silt loam, loam
+Clay--13 to 22 percent
+Sand--20 to 45 percent
+Organic carbon--1 to 3 percent
+Total rock fragment content--35 to 55 percent
+Total gravel content--25 to 40 percent
+Total cobble content--10 to 15 percent
+Reaction--5.6 to 6.5
+Thickness--10 to 15 cm
+
+C horizon
+Value--3 or 4 moist, 5 or 6 dry
+Chroma--2 or 3
+Fine-earth texture--silt loam, sandy loam
+Clay--10 to 22 percent
+Sand--30 to 75 percent
+Organic carbon--1 to 2 percent
+Total rock fragment content--35 to 55 percent
+Total gravel content--25 to 55 percent
+Total cobble content--0 to 20 percent
+Reaction--5.5 to 6.5
+Thickness--90 to 110 cm
+
+COMPETING SERIES: none
+
+GEOGRAPHIC SETTING:
+*Elevation--5 to 750 m
+*Climate--warm, moist summers; cold, dry winters
+*Mean annual precipitation--300 to 680 mm
+*Mean annual air temperature-- -5 to -1 degrees C
+*Frost-free period--55 to 90 days
+
+GEOGRAPHICALLY ASSOCIATED SOILS:
+*Cranberryslough--permafrost present, histic epipedon, fine-loamy particle-class size, gelic soil temperature regime; hillslopes and saddles
+*Pointcreek--folistic epipedon, no aquic conditions present; footslopes on hills
+*Maggok--coarse loamy particle size class; evidence of illuvial sesquioxides, no aquic conditions present; low ridges and hillslopes
+*Kanguq--isotic mineralogy class, lithological discontinuity, moderately deep to paralithic contact, hillslopes and mountain slopes
+*Apun--permafrost present, histic epipedon, coarse-loamy particle-size class, gelic soil temperature regime; hillslopes and mountain slopes
+*Cascadecreek--isotic mineralogy, well drained; hillslopes, and mountain slopes
+*Golsovia--isotic mineralogy, deep to paralithic contact; hillslopes, valley sides, and escarpments
+*Peke--depth to aquic conditions 25 to 50 cm, coarse loamy particle size class, clay does not range above 16 percent; valleys and headslopes
+*Ottercreek--aquic conditions throughout profile, no cambic horizon present; baseslopes on mountains
+
+DRAINAGE AND SATURATED HYDRAULIC CONDUCTIVITY:
+*Drainage class--poorly drained
+*Saturation during normal years--saturated from a depth of 0 to 25 cm to a depth of 25 to 50 cm for at least two weeks during the growing season
+*Saturated hydraulic conductivity (Ksat)--very high in the organic soil surface, high to moderately high throughout the rest of the profile
+
+USE AND VEGETATION:
+Use--wildlife habitat, recreation, subsistence
+Potential native vegetation--tall bluebells, bluejoint, Altai fescue, Bigelow's sedge, dwarf birch, bog blueberry, tealeaf willow, marsh Labrador tea, black crowberry, lingonberry, arctic raspberry, fireweed, arctic sweet coltsfeet, star reindeer lichen, greygreen reindeer lichen, reindeer lichen, grayleaf willow, tall Jacob's-ladder, knights plume moss, splendid feather moss, Moss, Schreber's big red stem moss, beaverd spirea, Siberian alder, stiff clubmoss, spreading woodfern, currant, common cowparsnip, slimstem reedgrass, 
+
+DISTRIBUTION AND EXTENT: Nulato Hills-Southern Seward Peninsula Highlands, Alaska; MLRA 240; moderate extent
+
+SOIL SURVEY REGIONAL OFFICE (SSRO) RESPONSIBLE: Portland, Oregon
+
+SERIES PROPOSED: Nulato Hills BLM area, Nome Census Area, Alaska; 2020
+
+REMARKS:
+Diagnostic horizons and features recognized in this pedon
+*Particle-size control section--zone from 29 to 104 cm
+*Ochric epipedon--zone from 0 to 4 cm
+*Depleted matrix--zone from 4 to 17 cm and 25 to 40 cm
+*Redoximorphic depletions with chroma of 2 or less--zone from 4 to 17 cm
+*Redoximorphic concentrations--zone from 4 to 17 cm
+*Aquic conditions--zone from 4 to 17 cm and 25 to 40 cm
+*Cambic horizon--zone from 4 to 25 cm
+National Cooperative Soil Survey
+U.S.A.

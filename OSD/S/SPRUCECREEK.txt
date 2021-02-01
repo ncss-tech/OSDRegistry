@@ -1,0 +1,134 @@
+LOCATION SPRUCECREEK            AK
+
+Tentative Series
+MPS/SAS
+01/2021
+
+SPRUCECREEK SERIES
+
+Landscape--valleys
+Landform--terraces
+Slope--0 to 8 percent
+Parent material--organic material over loess over sandy alluvium
+Mean annual precipitation--about 450 mm
+Mean annual air temperature--about -3 degrees C
+Depth class--very deep
+Drainage class--well drained
+Soil moisture regime--udic
+Soil temperature regime--cryic
+Soil moisture subclass--typic
+
+TAXONOMIC CLASS: Sandy, mixed Folistic Dystrocryepts
+
+TYPICAL PEDON: Sprucecreek silt loam on a west facing linear, linear tread, on a slope of 1 percent at an elevation of 146 m (The soil was moist throughout the profile when described on June 9, 2019.)
+
+ Oi--0 to 9 cm; slightly decomposed plant material, reddish yellow (7.5YR 7/6) dry, strong brown (7.5YR 5/6) moist; many very fine, fine, and medium, and common coarse roots; very strongly acid (pH 4.5); abrupt wavy boundary
+
+ Oa--9 to 18 cm; highly decomposed plant material, brown (10YR 5/3) dry, very dark brown (7.5YR 2.5/2) moist; many very fine and common medium, fine, and coarse roots; extremely acid (pH 3.9); abrupt wavy boundary
+
+ A--18 to 28 cm; silt loam, dark yellowish brown (10YR 4/4) dry, dark yellowish brown (10YR 3/4) moist; weak medium subangular blocky structure; slightly hard, friable, nonsticky, nonplastic; nonsmeary; many very fine and common fine and coarse roots; 2 percent very fine irregular dark grayish brown (2.5Y 4/2) iron depletions; 10 percent rounded gravel by volume; strongly acid (pH 5.1); clear wavy boundary
+
+ Bw--28 to 47 cm; silt loam, yellowish brown (10YR 5/4) dry, dark brown (7.5YR 3/4) moist; weak medium subangular blocky structure; soft, very friable, nonsticky, nonplastic; nonsmeary; common very fine, fine,  and coarse roots; 5 percent fine irregular dark reddish brown (5YR 3/3) masses of oxidized iron and 10 percent medium dark grayish brown (2.5Y 4/2) iron depletions; 5 percent rounded gravel; strongly acid (pH 5.1); abrupt smooth boundary
+
+ 2C--47 to 150 cm; very gravelly coarse sand, light gray (2.5Y 7/2) dry, dark brown (10YR 3/3) moist; single grain; nonsticky, nonplastic; nonsmeary; common very fine and fine roots; 10 percent rounded fine and medium gravel, 20 percent rounded coarse gravel; very strongly acid (pH 5.0)
+
+TYPE LOCATION: Nome Census Area, Alaska, latitude 63.3556000 longitude -160.6416490 degrees, datum WGS84 (Coordinates determined with a GPS unit)
+
+RANGE IN CHARACTERISTICS:
+Mean annual soil temperature--0 to 3 degrees C
+Soil moisture control section--dry less than 45 consecutive days in June through October
+Thickness of folistic epipedon--15 to 30 cm
+Thickness of cambic horizon--15 to 40 cm
+
+Particle Size Control Section:
+*Clay--0 to 8 percent
+*Total fragments--0 to 35 percent gravels, cobbles
+
+Oi horizon
+Thickness--5 to 20 cm
+
+Oa horizon
+Thickness--2 to 12 cm
+
+A horizon
+Hue--7.5YR or 10YR
+Value--2 to 4 moist, 4 or 6 dry
+Chroma-2 to 4
+Fine-earth texture--silt, silt loam
+Clay--2 to 10 percent
+Sand--10 to 40 percent
+Organic carbon--5 to 12 percent
+Total rock fragment content--0 to 10 percent gravel
+Reaction--4.8 to 5.8
+Thickness--5 to 30 cm
+
+Bw horizon
+Hue--7.5YR or 10YR
+Value--3 to 5 moist, 5 to 7 dry
+Chroma--3 or 4
+Fine-earth texture--silt loam, loam
+Clay--8 to 22 percent
+Sand--10 to 45 percent
+Organic carbon--2 to 5 percent
+Total rock fragment content--0 to 10 percent gravel
+Reaction--5.1 to 6.5
+Thickness--15 to 40 cm
+
+2C horizon
+Hue--10YR or 2.5Y
+Value--3 to 4 moist, 5 or 6 dry
+Chroma--2 to 4
+Fine-earth texture--coarse sand, sand, loamy sand
+Clay--0 to 8 percent
+Sand--75 to 100 percent
+Organic carbon--0.5 to 2 percent
+Total rock fragment content--15 to 35 percent
+Total gravel content--15 to 35 percent
+Total cobble content--0 to 15 percent
+Reaction--5.3 to 6.4
+
+COMPETING SERIES: none
+
+GEOGRAPHIC SETTING:
+*Elevation--0 to 700 m
+*Climate--warm, moist summers; cold, dry winters
+*Mean annual precipitation--310 to 590 mm
+*Mean annual air temperature-- -5 to -1 degrees C
+*Frost-free period--55 to 90 days
+
+GEOGRAPHICALLY ASSOCIATED SOILS:
+*Oldwomanriver--ochric epipedon, coarse loamy over sandy or sandy skeletal; floodplains
+*Ena--coarse loamy, umbric epipedon; toeslopes
+*Southriver--sandy-skeletal, ochric epipedon; floodplains
+*Nonvalnuk--aquic conditions at the surface, greater than 40 cm of organic soil layers; stream terraces
+*Jessecreek--gelic soil temperature regime, loamy alluvium over sandy and gravelly alluvium; stream terraces
+*Jacksoncreek--gelic soil temperature regime, coarse-loamy; stream terraces
+*Ponluktule--gelic soil temperature regime, permafrost, aquic conditions with in 25 cm of the soil surface; stream terraces
+*Cilla--loamy-skeletal, ochric epipedon; hillslopes
+
+DRAINAGE AND SATURATED HYDRAULIC CONDUCTIVITY:
+*Drainage class--well drained
+*Saturation during normal years--none
+*Saturated hydraulic conductivity (Ksat)--very high in the surface organic layer and the lower part of the profile, high to moderately high throughout the rest of the profile
+
+USE AND VEGETATION:
+Use--wildlife habitat, recreation, subsistence
+Potential native vegetation--white spruce, quaking aspen, resin birch, bog blueberry, lingonberry, arctic raspberry, black crowberry, march Labrador tea, Richardson's willow, least willow, captaite, valerian, bluejoint, sphagnum, dicranum moss, Moss, fireweed, dwarf birch, bunchberry dogwood, field horsetail, splendid feather moss, arctic kidney lichen, Schreber's big red stem moss, polytrichum moss, Barclay's willow, tealeaf willow, beaverd spirea
+
+DISTRIBUTION AND EXTENT: Nulato Hills-Southern Seward Peninsula Highlands, Alaska; MLRA 240; moderate extent
+
+SOIL SURVEY REGIONAL OFFICE (SSRO) RESPONSIBLE: Portland, Oregon
+
+SERIES PROPOSED: Nulato Hills BLM area, Nome Census Area, Alaska; 2020
+
+REMARKS:
+Diagnostic horizons and features recognized in this pedon
+*Particle-size control section--zone from 43 to 118 cm
+*Folistic epipedon--zone from 0 to 18 cm
+*Redoximorphic depletions with chroma of 2 or less--zone from 18 to 47 cm 
+*Cambic horizon--zone from 28 to 47 cm
+*Redoximorphic concentrations--zone from 28 to 47 cm
+*Lithological discontinuity-- zone from 47 to 150 cm
+
+National Cooperative Soil Survey
+U.S.A.

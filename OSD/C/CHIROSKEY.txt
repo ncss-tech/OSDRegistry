@@ -1,0 +1,150 @@
+LOCATION CHIROSKEY              AK
+
+Tentative Series
+MPS/SAS
+01/2021
+
+CHIROSKEY SERIES
+
+Landscape--mountains, hills
+Landform--mountain slopes, hillslopes
+Slope--2 to 65 percent
+Parent material--colluvium
+Mean annual precipitation--about 450 mm
+Mean annual air temperature--about -3 degrees C
+Depth class--very deep
+Drainage class--well drained
+Soil moisture regime--udic
+Soil temperature regime--cryic
+Soil moisture subclass--typic
+
+TAXONOMIC CLASS: Loamy-skeletal, isotic Andic Humicryepts
+
+TYPICAL PEDON: Chiroskey silt loam on a south southeast facing linear, linear backslope, on a slope of 20 percent at an elevation of 294 m (The soil was moist throughout when described on June 7, 2019.)
+
+ Oe--0 to 8 cm; moderately decomposed plant material, brown (7.5YR 4/3) dry, very dark brown (7.5YR 2.5/3) moist; many very fine and medium and common fine and coarse roots; extremely acid (pH 3.7); abrupt wavy boundary
+
+ A--8 to 31 cm; silt loam, 50 percent brown (7.5YR 4/3) and 20 percent dark gray (5YR 4/1) dry, 50 percent dark brown (7.5YR 3/2) and 20 percent black (5YR 2.5/1) moist; weak, very coarse, subangular blocky structure; soft, very friable, nonsticky, nonplastic; common very fine, fine, and medium roots; extremely acid (pH 4.3); abrupt wavy boundary
+
+ Bw--31 to 53 cm; gravelly silt loam, pale brown (10YR 6/3) dry, dark yellowish brown (10YR 4/4) moist; moderate fine subangular blocky, and moderate medium subangular blocky structure; soft, very friable, nonsticky, nonplastic; common very fine, fine, and medium roots; common medium and common fine pores; 5 percent subangular cobbles, 10 percent subangular gravel; very strongly acid (pH 5.0); abrupt smooth boundary
+
+ C1--53 to 60 cm; very gravelly silt loam, 50 percent gray (10YR 5/1) dry, very dark gray (10YR 3/1) moist, 50 percent gray (2.5Y 6/1) dry, dark gray (2.5Y 4/1) moist; structureless massive; soft, very friable, nonsticky, nonplastic; common medium pores; 10 percent dark reddish brown (5YR 3/4) mottles; 10 percent subangular cobbles, 30 percent subangular gravel; strongly acid (pH 5.4); abrupt smooth boundary
+
+ C2--60 to 150 cm; extremely gravelly silt loam, brown (10YR 4/3) dry, very dark grayish brown (10YR 3/2) moist; structureless massive; soft, very friable, nonsticky, nonplastic; 12 percent subangular cobbles, 50 percent subangular gravel; moderately acid (pH 6.0)
+
+TYPE LOCATION: Nome Census Area, Alaska, latitude 63.4355000 longitude -160.5365300 degrees, datum WGS84 (Coordinates determined with a GPS unit)
+
+RANGE IN CHARACTERISTICS:
+Mean annual soil temperature--0 to 3 degrees C
+Soil moisture control section--dry less than 45 consecutive days in June through October
+Umbric epipedon--23 to 70 cm
+Cambic horizon--15 to 60 cm
+
+Particle Size Control Section:
+*Clay--8 to 17 percent
+*Total fragments--35 to 70 percent gravels, cobbles
+*Sodium fluoride pH--8.4 to 11.6
+*Ratio of 1500 kPa water to measured clay--0.6 to 6.0
+
+Oe horizon
+Thickness--5 to 10 cm
+
+A horizon
+Hue--5YR or 7.5YR
+Value--2.5 or 3 moist, 4 or 5 dry
+Chroma--1 to 3
+Fine-earth texture--silt, silt loam
+Clay--2 to 10 percent
+Sand--10 to 40 percent
+Organic carbon--10 to 15 percent
+Total rock fragment content--0 to 5 percent gravel
+Bulk density--0.9 to 1.0 g/cm3
+Al plus 1/2 Fe--1 to 2 percent
+Reaction--4.2 to 5.1
+Thickness--18 to 40 cm
+
+Bw horizon
+Hue--5YR, 7.5YR, or 10YR
+Value--2.5 to 4 moist, 4 to 6 dry
+Chroma--3 to 6
+Fine-earth texture--silt loam, loam, sandy loam
+Clay--5 to 17 percent
+Sand--15 to 65 percent
+Organic carbon--3 to 8 percent
+Total rock fragment content--0 to 30 percent
+Total gravel content--0 to 30 percent
+Total cobble content--0 to 5 percent
+Reaction--4.8 to 5.8
+Thickness--15 to 30 cm
+
+C1 horizon
+Hue--10YR or 2.5Y
+Value--3 or 4 moist, 5 or 6 dry
+Chroma--1 to 4
+Fine-earth texture--silt loam, loam, sandy loam
+Clay--5 to 17 percent
+Sand--20 to 70 percent
+Organic carbon--0.5 to 2 percent
+Total rock fragment content--40 to 70 percent
+Total gravel content--40 to 70 percent
+Total cobble content--0 to 15 percent
+Reaction--5.0 to 6.1
+Thickness--5 to 40 cm
+
+C2 horizon
+Hue--10YR, 2.5Y, 5Y
+Value--3 to 5 moist, 5 to 7 dry
+Chroma--1 to 4
+Fine-earth texture--silt loam, loam, sandy loam
+Clay--5 to 17 percent
+Sand--20 to 70 percent
+Organic carbon--0.5 to 1 percent
+Total rock fragment content--45 to 70 percent
+Total gravel content--45 to 65 percent
+Total cobble content--5 to 20 percent
+Reaction--5.0 to 6.2
+
+COMPETING SERIES:
+*Ahklun--moderately deep to lithic bedrock, colluvium, mountain slopes and hillslopes
+*Goodlow--clay ranges to 35 percent, mean annual soil temperature ranges to 8 degrees C, colluvium weathered from basalt and andesite, mountain slopes
+*Muddycreek--xeric soil moisture regime, clay ranges from 0 to 5 percent, glass content ranges to 20 percent; moraines
+*Nagugun--volcanic glass content ranges to 50 percent, clay content ranges 0 to 12 percent; plains and valleys
+
+GEOGRAPHIC SETTING:
+*Elevation--25 to 550 m
+*Climate--warm, moist summers; cold, dry winters
+*Mean annual precipitation--320 to 555 mm
+*Mean annual air temperature-- -5 to -1 degrees C
+*Frost-free period--55 to 90 days
+
+GEOGRAPHICALLY ASSOCIATED SOILS:
+*Itiruk--bulk density of A horizon greater than 1 g/cm3, clay ranges to 13 percent; saddles on mountains
+*Oliverhill--shallow to lithic contact, textures range to loamy sand; mountain slopes
+*Toik--shallow to bedrock, colluvium over residuum, mountain slopes and hillslopes
+*Tuma--coarse loamy particle size class; similar landscape position
+
+DRAINAGE AND SATURATED HYDRAULIC CONDUCTIVITY:
+*Drainage class--well drained
+*Saturation during normal years--none
+*Saturated hydraulic conductivity (Ksat)--very high in the surface organic layer, high to moderately high throughout the rest of the profile
+
+USE AND VEGETATION:
+Use--wildlife habitat, recreation, subsistence
+Potential native vegetation--white spruce, bog blueberry, dwarf birch, marsh Labrador tea, black crowberry, greygreen reindeer lichen, reindeer lichen, Schreber's big red stem moss, splendid feather moss, sphagnum, black spruce, Kenia birch, Siberian alder, beaverd spirea, woodland horsetail, lingonberry, Lapland cornel, cloudberry, common ladyfern, bluejoint, moss, fireweed, running clubmoss, red currant, quaking aspen, stiff clubmoss, western oakfern, felt lichen, polytrichum moss
+
+DISTRIBUTION AND EXTENT: Yukon-Kuskokwim Highlands, Alaska; MLRA 230; moderate extent
+
+SOIL SURVEY REGIONAL OFFICE (SSRO) RESPONSIBLE: Portland, Oregon
+
+SERIES PROPOSED: Nulato Hills BLM area, Nome Census Area, Alaska; 2020
+
+REMARKS:
+Diagnostic horizons and features recognized in this pedon
+*Particle-size control section--zone from 33 to 108 cm
+*Umbric epipedon--zone from 8 to 31 cm
+*Cambic horizon--zone from 31 to 53 cm
+*redoximorphic concentrations--zone from 53 to 60 cm
+*Lab pedon User site ID--S2019AK290307 
+
+National Cooperative Soil Survey
+U.S.A.

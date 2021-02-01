@@ -1,103 +1,168 @@
 LOCATION WILKES                 NC+AL GA SC VA
 
 Established Series
-RAG-DTA/Rev. RHB
-09/2007
+RAG-DTA/Rev. RBT
+01/2021
 
 WILKES SERIES
 
-The Wilkes series consists of shallow, well drained soils with moderately slow to slow permeability. They formed in residuum weathered from intermediate and mafic crystalline rocks on uplands in the Piedmont. Near the type location, mean annual air temperature is 59 degrees F., and mean annual precipitation is 45 inches. Slopes range from 4 to 60 percent. 
+MLRA(s):  136 
+SSRO Responsible:  Raleigh, North Carolina
+Depth class:  Shallow
+Agricultural Drainage Class:  Well drained
+Permeability:  Moderately slow to slow
+Index Surface Runoff:  High to very high
+Parent Material:  Residuum weathered from intermediate and mafic crystalline rocks
+Shrink-swell potential:  High
+Slope:  4 to 60 percent
 
-TAXONOMIC CLASS: Loamy, mixed, active, thermic, shallow Typic Hapludalfs 
+TAXONOMIC CLASS: Loamy, mixed, active, thermic, shallow Typic Hapludalfs
 
-TYPICAL PEDON: Wilkes sandy loam--wooded. (Colors are for moist soil unless otherwise stated.) 
+TYPICAL PEDON: Wilkes sandy loam--wooded. (Colors are for moist soil unless otherwise stated.)
 
-Oi--3 to 1 inch; slightly decomposed mixed hardwood and pine forest litter.
+ Oi--0 to 2 inches (0 to 5 centimeters); slightly decomposed plant material (mixed hardwood and pine forest litter).
 
-Oe--1 to 0 inch; moderately decomposed forest litter.
+ Oe--2 to 3 inches (5 to 8 centimeters); moderately decomposed plant material.
 
-A--0 to 3 inches; grayish brown (2.5Y 5/2) sandy loam; moderate medium granular structure; very friable; common fine and medium roots; common fine and medium quartz pebbles; strongly acid; abrupt smooth boundary. (2 to 6 inches thick) 
+ A--3 to 6 inches (8 to 15 centimeters); grayish brown (2.5Y 5/2) sandy loam; moderate medium granular structure; very friable; common fine and medium roots; common fine and medium quartz pebbles; strongly acid; abrupt smooth boundary. (2 to 6 inches, 5 to 15 centimeters thick)
 
-E--3 to 6 inches; light brownish gray (2.5Y 6/2) sandy loam; moderate medium and coarse granular structure; very friable; common fine and medium roots; common fine strong brown fragments of weathered rocks; common fine and medium pebbles; strongly acid; abrupt smooth boundary. (0 to 5 inches thick) 
+ E--6 to 9 inches (15 to 23 centimeters); light brownish gray (2.5Y 6/2) sandy loam; moderate medium and coarse granular structure; very friable; common fine and medium roots; common fine strong brown fragments of weathered rocks; common fine and medium pebbles; strongly acid; abrupt smooth boundary. (0 to 5 inches, 0 to 13 centimeters thick)
 
-Bt--6 to 10 inches; yellowish brown (10YR 5/6) clay; common fine prominent black, green, and faint strong brown bodies, all of which are assumed to be partially weathered primary minerals; weak coarse angular blocky structure; firm, sticky, plastic; few fine roots; few fine pores; common faint clay films on faces of peds; few medium pebbles; A horizon material in old root channels; slightly acid; clear wavy boundary. (3 to 8 inches thick) 
+ Bt--9 to 13 inches (23 to 33 centimeters); yellowish brown (10YR 5/6) clay; common fine prominent black, green, and faint strong brown bodies, all of which are assumed to be partially weathered primary minerals; weak coarse angular blocky structure; firm, sticky, plastic; few fine roots; few fine pores; common faint clay films on faces of peds; few medium pebbles; A horizon material in old root channels; slightly acid; clear wavy boundary. (3 to 8 inches, 8 to 20 centimeters thick)
 
-Bt/C--10 to 13 inches; yellowish brown (10YR 5/6) clay loam; weak coarse subangular blocky structure; firm, sticky, plastic; common faint clay films on faces of peds(Bt part); common fine prominent black and few fine distinct gray bodies and common thin green bands of partially weathered primary minerals; relic platy structure (C part); common hard schist fragments; slightly acid; abrupt wavy boundary. (0 to 6 inches thick.) 
+ Bt/C--13 to 16 inches (33 to 41 centimeters); yellowish brown (10YR 5/6) clay loam; weak coarse subangular blocky structure; firm, sticky, plastic; common faint clay films on faces of peds(Bt part); common fine prominent black and few fine distinct gray bodies and common thin green bands of partially weathered primary minerals; relic platy structure (C part); common hard schist fragments; slightly acid; abrupt wavy boundary. (0 to 6 inches, 0 to 15 centimeters thick.)
 
-Cr--13 to 48 inches; soft, yellowish brown, green, black, and gray saprolite which crushes to loam; relic platy rock structure; firm; few fine roots in upper part; few large roots in rock fractures; few distinct clay films line vertical cracks; common fine and medium schist fragments; neutral; abrupt wavy boundary. (24 to 42 inches thick) 
+ Cr--16 to 51 inches (41 to 130 centimeters); soft, yellowish brown, green, black, and gray saprolite which crushes to loam; relic platy rock structure; firm; few fine roots in upper part; few large roots in rock fractures; few distinct clay films line vertical cracks; common fine and medium schist fragments; neutral; abrupt wavy boundary. (24 to 42 inches, 61 to 107 centimeters thick)
 
-R--48 inches; hard schist bedrock.
+ R--51 inches (130 centimeters); hard schist bedrock.
 
-TYPE LOCATION: Durham County, North Carolina; from Durham-Wake County line, 1/2 mile west on N.C. 98, 3.9 miles southeast on SR 1805 and 1901, 100 feet west of road in wooded area. 
+TYPE LOCATION: Durham County, North Carolina; 1,915 feet southeast of the intersection of Route 98 and Boyce Mill Road near the Durham-Wake County line and 2,060 feet northwest of the road intersection of Boyce Mill Road and Old Creedmor Road and 90 feet due east off Boyce Mill Road in a wooded area; USGS Bayleaf topographic quadrangle; Latitude 35 degrees 58 minutes 40.90 seconds N., and Longitude 78 degrees 42 minutes 52.65 seconds W.
 
-RANGE IN CHARACTERISTICS: Solum thickness and depth to weathered bedrock ranges from 10 to 20 inches. Depth to hard rock is 40 to more than 60 inches. Rock fragments of gravel, cobble, and stone size range from 0 to 50 percent in the A horizons and 0 to 35 percent in the B horizon. Dark concretions range from none to common. Soil reaction ranges from strongly acid through slightly acid in the upper horizons and from moderately acid through mildly alkaline in the lower horizon. Clay content averages 18 to 35 percent for the combined A, Bt, and C horizons. 
+RANGE IN CHARACTERISTICS: 
+Solum thickness:  10 to 25 inches (25 to 64 centimeters) 
+Depth to soft bedrock:  10 to 20 inches (25 to 50 centimeters)
+Depth to hard bedrock:  40 to more than 60 inches (100 to 150+ centimeters)
+Content and size of rock fragments:  0 to 50 percent in the A horizon consisting of gravel, cobble and stone size fragments and 0 to 35 percent in the Bt horizons. 
+Dark concretions: none to common. 
+Soil reaction:  strongly acid through slightly acid in the A and E horizons if present, and moderately acid through mildly alkaline in the lower horizons
+Clay content:  averages 18 to 35 percent
 
-The A or Ap horizon has hue of 7.5YR to 2.5Y, value of 3 to 5, and chroma of 2 to 6. The E horizon, where present, has hue of 10YR to 2.5Y, value of 4 to 6, and chroma of 2 to 8. The A and E horizons are sandy loam, fine sandy loam, or loam in the fine earth fraction. The A horizon in eroded phases is sandy clay loam or clay loam. 
+Range of Individual Horizons:
+The A or Ap horizon:
+Color = hue of 7.5YR to 2.5Y, value of 3 to 5, and chroma of 2 to 6
+Texture (fine earth fraction) = sandy loam, fine sandy loam, or loam (some eroded mapunit phases are sandy clay loam or clay loam) 
 
-The Bt horizon has hue of 5YR to 2.5Y, value of 4 to 6, and chroma of 4 to 8. Mottles, bodies, or streaks of black, greenish, grayish, or whitish saprolite or primary minerals are few to common in most pedons. Texture is loam, sandy clay loam, clay loam, or clay in the fine earth fraction. Thin transitional horizons are present in most pedons. 
+E horizon, where present:
+Color = hue of 10YR to 2.5Y, value of 4 to 6, and chroma of 2 to 8
+Texture (fine earth fraction) = sandy loam, fine sandy loam, or loam
 
-The BC or CB horizon has hue of 5YR to 2.5Y, value of 4 to 8, and chroma of 3 to 8. Mottles, bodies, or streaks of black, greenish, grayish, or whitish saprolite or primary minerals are none to common. Texture is loam, sandy clay loam, clay loam, or clay in the fine earth fraction.
+Bt horizon:
+Color = hue of 5YR to 2.5Y, value of 4 to 6, and chroma of 4 to 8.  Mottles, bodies, or streaks of black, greenish, grayish, or whitish saprolite or primary minerals are few to common in most pedons
+Texture (fine earth fraction) = loam, sandy clay loam, clay loam, or clay
+Thin transitional horizons are present in most pedons.
 
-The C horizon, where present, is loamy saprolite of intermediate or mafic crystalline rock. It is black, greenish, brownish, or grayish in color. 
+BC or CB horizon:
+Color = hue of 5YR to 2.5Y, value of 4 to 8, and chroma of 3 to 8. Mottles, bodies, or streaks of black, greenish, grayish, or whitish saprolite or primary minerals are none to common. 
+Texture (fine earth fraction) = loam, sandy clay loam, clay loam, or clay
 
-The Cr layer is soft, weathered intermediate or mafic crystalline rock that can be dug with difficulty with a spade.
+C horizon (if it occurs):
+loamy saprolite of intermediate or mafic crystalline rock. It is black, greenish, brownish, or grayish in color
 
-The R layer (where present) is hard unweathered to slightly weathered intermediate or mafic crystalline rock.
+Cr horizon:
+Type of bedrock - soft, weathered highly fractured intermediate or mafic crystalline rock
 
-COMPETING SERIES: There are no other series in this family. Soils in related families include the Goldston, Louisa, Louisburg, Montevallo, and Poindexter series. Goldston and Montevallo soils have more than 35 percent rock fragments in the control section. Louisa soils have cyclic pedons and contain more mica throughout the sola. Louisburg soils lack continuous Bt horizons. Poindexter soils have a paralithic contact at depths of more than 20 inches. 
+R layer (if it occurs):
+Type of bedrock - hard unweathered to slightly weathered intermediate or mafic crystalline rock
 
-GEOGRAPHIC SETTING: Wilkes soils are on gently sloping narrow ridges and sloping to steep side of ridges between intermittent and permanent streams in the southern Piedmont. Slopes are generally between 10 and 25 percent and range from 4 to 60 percent. The soil formed in residuum weathered from diorite, hornblende, schist, and related rocks that are moderately high in ferromagnesian minerals or from a mixture of felsic and mafic rocks. Mean annual precipitation ranges from 37 to 60 inches, and mean annual air temperature ranges from 58 to 65 degrees F. 
+COMPETING SERIES: 
+There are no known competing series in this family. Similar soils in related families include the Goldston, Louisa, Louisburg, Montevallo, and Poindexter. 
+Goldston soils have more than 35 percent rock fragments in the control section.
+Louisa soils have cyclic pedons, have lower base saturation and contain more mica throughout the solum.
+Louisburg soils are very deep to bedrock.
+Montevallo soils have more than 35 percent rock fragments in the control section.
+Poindexter soils have a paralithic contact at depths of more than 20 inches (50 centimeters).
 
-GEOGRAPHICALLY ASSOCIATED SOILS: These are the Coronaca, Crawfordville (T), Cullen, Enon, Gaston, Iredell, Mecklenburg, Mocksville, Pittsboro, Poindexter, Sedgefield, Virgilina, Winnsboro, and Wynott series. These soils are all deeper to bedrock than Wilkes soils. Coronaca, Cullen, Enon, Gaston, Mecklenburg, Mocksville, Poindexter, and Wynott soils are well drained and in similar landscape positions Crawfordville(T), Iredell, Pittsboro, Sedgefield, and Virgilina soils have redoximorphic features due to wetness, are moderately well to somewhat poorly drained, and are in flats, depressions, and foot slopes. 
+GEOGRAPHIC SETTING:
+Landscape:  Piedmont
+Landform:  Narrow ridges, steep ridge sides, and hills
+Hillslope position:  Summit, shoulder, back slope, and footslope
+Parent Material:  Residuum weathered from diorite, hornblende, schist, and related intermediate and mafic crystalline rocks
+Elevation (type location):  393 feet
+Mean Annual Air Temperature: 58 - 65 degrees F. (14 - 18 degrees C.)
+Mean Annual Precipitation:  37 - 60 inches (94 - 152 centimeters)
+Frost Free period:  180 to 240 days
 
-DRAINAGE AND PERMEABILITY: Well drained; rapid runoff; moderately slow to slow permeability. 
+GEOGRAPHICALLY ASSOCIATED SOILS: 
+Coronaca - are deep soils with 35 to 60 percent clay throughout.
+Crawfordville - are moderately deep soils with clay content of 35 to 60 percent.
+Cullen - have 60 percent or more clay throughout the particle size control section.
+Enon - soils are very deep to weathered bedrock.
+Gaston - soils are very deep to weathered bedrock.
+Iredell - have soils with paralithic contacts 40 inches (100 centimeters) or more deep.
+Mecklenburg - soils are very deep to bedrock and have 35 to 60 percent clay in the particle size control section.
+Mocksville - soils are very deep to bedrock.
+Pittsboro - soils are moderately deep to weathered bedrock.
+Poindexter - soils are moderately deep to weathered bedrock.
+Sedgefield - soils are very deep to bedrock and have 35 to 60 percent clay in the particle size control section.
+Virgilina - have smectitic mineralogy and have 35 to 60 percent clay in the particle size control section.
+Winnsboro - soils have a paralithic contact between 40 to 60 inches (100 to 150 centimeters).
+Wynott - soils have a paralithic contact between 40 to 60 inches (100 to 150 centimeters).
 
-USE AND VEGETATION: About 80 percent of the soil is in trees and pasture. The dominant trees are shortleaf, loblolly, and Virginia pines, eastern red cedar, blackjack oak, and post oak. About 20 percent is cultivated to crops such as small grain, lespedeza, corn, and tobacco. 
+DRAINAGE AND PERMEABILITY:
+Drainage Class (Agricultural):  Well drained
+Surface runoff:  High to very high
+Permeability:  Moderately slow to slow
 
-DISTRIBUTION AND EXTENT: Alabama, North Carolina, Georgia, South Carolina, and Virginia. The series is of moderate extent. 
+USE AND VEGETATION:
+Major Uses:  Woodland, pasture and cropland (mainly small grain, lespedeza, corn and tobacco).
+Dominant trees are shortleaf, loblolly, and Virginia pines, eastern red cedar, blackjack oak, and post oak.
 
-MLRA SOIL SURVEY REGIONAL OFFICE (MO) RESPONSIBLE: Raleigh, North Carolina 
+DISTRIBUTION AND EXTENT: 
+Distribution:  Thermic Piedmont area of Alabama, North Carolina, Georgia, South Carolina, and Virginia.
+Extent:  Moderate The series is of moderate extent.
 
-SERIES ESTABLISHED: Jasper County, Georgia; 1916. 
+SOIL SURVEY REGIONAL OFFICE (SSRO) RESPONSIBLE: Raleigh, North Carolina
 
+SERIES ESTABLISHED: Jasper County, Georgia; 1916.
 REMARKS: Diagnostic horizons and features recognized in the typical pedon are: 
-Ochric epipedon--the zone from the surface to a depth of 6 inches (A and E horizons) 
-Argillic horizon--the zone between depths of 6 and 10 inches (Bt horizon) 
-Paralithic contact--the upper boundary of the Cr horizon at a depth of 13 inches 
+This revision included horizon depth changes to include O horizons for the type location.
+Ochric epipedon-the zone from the soil surface to a depth of 9 inches (0 to 23 centimeters) (O, A, and E horizons).
+Argillic horizon--the zone between depths of 9 and 13 inches (23 to 33 centimeters) (Bt horizon).
+Paralithic contact--the upper boundary of the Cr horizon at a depth of 16 inches (41 centimeters).
 
-ADDITIONAL DATA: 
+ADDITIONAL DATA:
 
-TABULAR SERIES DATA: 
+TABULAR SERIES DATA:
 
-SOI-5  Soil Name   Slope  Airtemp  FrFr/Seas  Precip  Elevation
-NC0031 WILKES      2-60   57-65    180-240    37-60   250-900 
-NC0134 WILKES      2-60   57-65    180-240    37-60   250-900 
+SOI-5 Soil Name Slope Airtemp FrFr/Seas Precip Elevation NC0031 WILKES 2-60 57-65 180-240 37-60 250-900
+NC0134 WILKES 2-60 57-65 180-240 37-60 250-900
 
-SOI-5  FloodL FloodH Watertable Kind   Months   Bedrock   Hardness
-NC0031 NONE          >6.0                -      10-20     SOFT 
-NC0134 NONE          >6.0                -      10-20     SOFT 
+SOI-5 FloodL FloodH Watertable Kind Months Bedrock Hardness NC0031 NONE >6.0 - 10-20 SOFT
+NC0134 NONE >6.0 - 10-20 SOFT
 
-SOI-5  Depth  Texture              3-Inch  No-10   Clay%    -CEC-
-NC0031  0-6   SL L FSL             0-10    80-100   5-20    3-15
-NC0031  0-6   SCL CL               0-10    90-100  20-35   10-25
-NC0031  0-6   GR-SL GR-L GR-FSL    5-15    60- 75   5-20    3-15
-NC0031  6-13  CL C SCL             0-10    80-100  20-45   10-30
-NC0031 13-48  WB                    -        -       -       -   
-NC0134  0-6   STV-SL STV-L         3-15    60-75    5-20    3-15
-NC0134  0-6   STX-SL STX-L        10-20    60-75    5-20    3-15
-NC0134  6-13  SICL ST-C ST-SCL    10-25    80-100   20-45  10-30
-NC0134 13-48  WB                    -       -      -      -   
 
-SOI-5  Depth    -pH-     O.M.   Salin  Permeab   Shnk-Swll
-NC0031  0-6   5.1-6.5  0.5-2.0  0-0   2.0-6.0    LOW      
-NC0031  0-6   5.1-6.5  0.5-1.0  0-0   0.6-2.0    LOW      
-NC0031  0-6   5.1-6.5  0.5-2.0  0-0   2.0-6.0    LOW      
-NC0031  6-13  6.1-7.8  0.0-0.5  0-0   0.2-0.6    MODERATE 
-NC0031 13-48     -        -      -        -               
-NC0134  0-6   5.1-6.5  0.5-2.0  0-0   2.0-6.0    LOW      
-NC0134  0-6   5.1-6.5  0.5-2.0  0-0   2.0-6.0    LOW      
-NC0134  6-13  5.6-7.8  0.0-0.5  0-0   0.2-0.6    MODERATE 
-NC0134 13-48     -        -     -        -               
+SOI-5	Depth	Texture	3-Inch	No-10	Clay%	-CEC-
+NC0031	0-9	SL L FSL	0-10	80-100	5-20	3-15
+NC0031	0-9	SCL CL	0-10	90-100	20-35	10-25
+NC0031	0-9	GR-SL GR-L GR-FSL	5-15	60- 75	5-20	3-15
+NC0031	9-16	CL C SCL	0-10	80-100	20-45	10-30
+NC0031	16-51	WB	-	-	-	-
+NC0134	0-9	STV-SL STV-L	3-15	60-75	5-20	3-15
+NC0134	0-9	STX-SL STX-L	10-20	60-75	5-20	3-15
+NC0134	9-16	SICL ST-C ST-SCL	10-25	80-100	20-45	10-30
+NC0134 16-51 WB - - - -
+
+
+SOI-5	Depth	-pH-	O.M.	Salin	Permeab	Shnk-Swll
+NC0031	0-9	5.1-6.5	0.5-2.0	0-0	2.0-6.0	LOW
+NC0031	0-9	5.1-6.5	0.5-1.0	0-0	0.6-2.0	LOW
+NC0031	0-9	5.1-6.5	0.5-2.0	0-0	2.0-6.0	LOW
+NC0031	9-16	6.1-7.8	0.0-0.5	0-0	0.2-0.6	MODERATE
+NC0031 16-51 - - - -
+NC0134	0-9	5.1-6.5	0.5-2.0	0-0	2.0-6.0	LOW
+NC0134	0-9	5.1-6.5	0.5-2.0	0-0	2.0-6.0	LOW
+NC0134	9-16	5.6-7.8	0.0-0.5	0-0	0.2-0.6	MODERATE
+NC0134	16-51	-	-	-	-	
 
 National Cooperative Soil Survey
 U.S.A.

@@ -1,0 +1,118 @@
+LOCATION APUN                   AK
+
+Tentative Series
+SAS
+01/2021
+
+APUN SERIES
+
+Landscape--mountains, hills
+Landform--mountain slopes, hillslopes
+Slope--4 to 20 percent
+Parent material--mossy organic material over grassy organic material over cryoturbate over loess
+Mean annual precipitation--about 330 mm
+Mean annual air temperature--about -3 degrees C
+Depth class--shallow to permafrost
+Drainage class--poorly drained
+Soil moisture regime--aquic
+Soil temperature regime--gelic
+Soil moisture subclass--typic
+
+TAXONOMIC CLASS: Coarse-loamy, mixed, superactive, nonacid, subgelic Typic Histoturbels
+
+TYPICAL PEDON: Apun peat on a north by northwest facing convex, concave footslope on a hill, on a slope of 8 percent at an elevation of 276 m (The soil was moist throughout when described on June 23, 2016.)
+
+ Oi--0 to 15 cm; peat; common very fine roots and many medium roots and many fine roots; strongly acid (pH 5.4); clear smooth boundary
+
+ Oe--15 to 38 cm; mucky peat; common very fine roots and common fine roots; strongly acid (pH 5.1); clear smooth boundary
+
+ Ajj--38 to 42 cm; silt loam, brown (7.5YR 5/2) dry, very dark brown (7.5YR 2.5/2) moist; weak, coarse, granular structure; friable, nonsticky, nonplastic; common very fine roots; common fine irregular pores; strongly acid (pH 5.3); abrupt irregular boundary
+
+ Cgf--42 to 150 cm; permanently frozen silt loam, light brownish gray (10YR 6/2) dry, dark grayish brown (10YR 4/2) moist; massive; very firm, slightly sticky, nonplastic; common very fine slightly acid (pH 6.1). 2 inch ice lens at top of Cf, thin ice lenses throughout horizon
+
+TYPE LOCATION: Nome Census Area County, Alaska, latitude 63.4516510 degrees, longitude -160.9589380 degrees, datum WGS84 (Coordinates determined with a GPS unit)
+
+RANGE IN CHARACTERISTICS:
+Mean annual soil temperature-- -1 to 0 degrees C
+Soil moisture control section--saturated between 0 and 25 cm for about two months during the growing season (aquic moisture regime)
+Histic epipedon thickness--20 to 40 cm
+Depth to permafrost contact--35 to 70
+Depth to reduced matrix--35 to 70
+Depth to cryoturbation--20 to 40 cm
+
+Particle Size Control Section:
+*Clay--10 to 18 percent
+*Total fragments--0 to 25 percent gravels or channers
+
+Oi horizon
+Thickness--10 to 20 cm
+
+Oe horizon
+Thickness--5 to 30 cm
+
+Ajj horizon
+Hue--7.5YR or 10YR
+Value--2.5 to 4 moist, 3 to 6 dry
+Chroma--1 to 3
+Fine-earth texture--mucky silt, mucky silt loam, silt loam
+Clay--5 to 15 percent
+Sand--8 to 45 percent
+Organic carbon--5 to 15 percent
+Total fragments--0 to 15 percent gravels or channers
+Reaction--4.8 to 5.7
+Thickness--5 to 35 cm
+
+Cgf horizon
+Hue--2.5Y or 10YR
+Value--3 to 5 moist, 5 to 7 dry
+Chroma--1 to 2
+Fine-earth texture--permanently frozen silt loam, permanently frozen loam
+Clay--5 to 18 percent
+Sand--12 to 50 percent
+Organic carbon--2 to 9 percent
+Total fragments--0 to 25 percent gravels or channers
+Reaction--5.5 to 6.1
+
+COMPETING SERIES:
+*Tanacross-no coarse fragments, visible mica, alluvial parent material
+*Tulebagh- no coarse fragments, cryoturbated organic material throughout pedon, pH ranges to 8.5
+
+GEOGRAPHIC SETTING:
+*Elevation--10 to 550 m
+*Climate--warm, moist summers; cold, dry winters
+*Mean annual precipitation--350 to 600 mm
+*Mean annual air temperature-- -5 to -1 degrees C
+*Frost-free period--55 to 90 days
+
+GEOGRAPHICALLY ASSOCIATED SOILS:
+*Willowcreek--aquic conditions at the soil surface, drainageways
+*Nikaat--aquic conditions at the soil surface, plains and toeslopes of hills
+*Piak--aquic conditions below 25 cm, mounds on hillslopes
+
+DRAINAGE AND SATURATED HYDRAULIC CONDUCTIVITY:
+*Drainage class--poorly drained
+*Saturation during normal years--saturated at a depth of between 0 and 25 cm during June, saturated at a depth of 25 to 70 cm for the remainder of the growing season
+*Saturated hydraulic conductivity (Ksat)--moderately high or high in the upper part of the profile, very low in the lower part
+
+USE AND VEGETATION:
+Use--wildlife habitat, recreation, subsistence
+Potential native vegetation--sphagnum moss, marsh Labrador tea, tussock cottongrass, Schreber's big red stem moss, Bigelow's sedge, splendid feather moss, dwarf birch
+
+DISTRIBUTION AND EXTENT: Nulato Hills-Southern Seward Peninsula Highlands, Alaska; MLRA 240; large extent
+
+SOIL SURVEY REGIONAL OFFICE (SSRO) RESPONSIBLE: Portland, Oregon
+
+SERIES PROPOSED: Nulato Hills BLM area, Nome Census Area, Alaska; 2020
+
+REMARKS:
+Diagnostic horizons and features recognized in this pedon
+*Particle-size control section--zone from 63 to 138 cm
+*Histic epipedon--zone from 0 to 38 cm
+*Cryoturbation--zone from 38 to 42 cm
+*Depth to permafrost 42 cm
+*Gelic materials--zone from 42 to 150 cm
+*Aquic conditions--zone from 0 to 150 cm
+*Reduced matrix--zone from 42 to 150
+
+National Cooperative Soil Survey
+U.S.A.

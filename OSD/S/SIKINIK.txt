@@ -1,0 +1,116 @@
+LOCATION SIKINIK                AK
+
+Tentative Series
+SAS
+01/2021
+
+SIKINIK SERIES
+
+Landscape--plains
+Landform--loess covered volcanic field
+Slope--1 to 4 percent
+Parent material--organic material over loess
+Mean annual precipitation- - about 530 mm
+Mean annual air temperature--about -3 degrees C
+Depth class--very deep (moderately deep to permafrost)
+Drainage class--poorly drained
+Soil moisture regime--aquic
+Soil temperature regime--gelic
+Soil moisture subclass--typic
+
+TAXONOMIC CLASS: Coarse-loamy, mixed, superactive, acid, subgelic Typic Historthels
+
+TYPICAL PEDON: Sikinik peat on an east facing linear, linear plain talf, on a slope of 4 percent at an elevation of 394 m (The soil was moist throughout when described on June 20, 2016.)
+
+ Oi--0 to 12 cm; peat, light brown (7.5YR 6/4) dry, brown (7.5YR 4/4) moist; nonsticky, nonplastic; common very fine, fine, and medium roots throughout; extremely acid (pH 3.7); clear smooth boundary
+
+ Oe--12 to 25 cm; mucky peat, brown (7.5YR 5/2) dry, dark brown (7.5YR 3/2) moist; nonsticky, nonplastic; common very fine, fine, and medium roots throughout; extremely acid (pH 4.3); abrupt smooth boundary
+
+ C--25 to 55 cm; silt loam, 90 percent brown (10YR 5/3) dry, dark brown (10YR 3/3) moist and 10 percent reddish yellow (7.5YR 6/6) dry, strong brown (7.5YR 4/6) moist; massive; friable, slightly sticky, nonplastic; common very fine and fine roots throughout; few fine tubular pores; 5 percent subrounded fine gravel; strongly acid (pH 5.3); clear smooth boundary
+
+ Cf--55 to 150 cm; permanently frozen silt loam, brown (10YR 5/3) dry, dark brown (10YR 3/3) moist; massive; very rigid, slightly sticky, nonplastic; 5 percent subrounded fine gravel; strongly acid (pH 5.3)
+
+TYPE LOCATION: Nome Census Area County, Alaska, latitude 63.3111600 degrees, longitude - 161.6264500 degrees, datum WGS84 (Coordinates determined with a GPS unit)
+
+RANGE IN CHARACTERISTICS:
+Mean annual soil temperature-- -2 to -1 degrees C
+Soil moisture control section--saturated between 0 and 25 cm during the growing season (aquic moisture regime)
+Thickness of histic epipedon--20 to 40 cm
+Depth to permafrost contact--50 to 75
+Depth to gelic materials (segregated ice)--20 to 50 cm
+
+Particle Size Control Section:
+*Clay--10 to 18 percent
+*Total fragments--0 to 30 percent basalt gravels, cobbles, and/or stones
+
+Oi horizon
+Thickness--5 to 20 cm
+
+Oe horizon
+Thickness--5 to 30 cm
+
+C horizon
+Hue--10YR or 2.5Y
+Value--3 to 4 moist, 5 to 6 dry
+Chroma--1 to 3
+Fine-earth texture--silt loam, silt
+Clay--10 to 18 percent
+Sand--5 to 20 percent
+Organic carbon--1 to 6 percent
+Total rock fragment content--0 to 15 percent
+Basalt gravel content--0 to 15 percent
+Basalt cobble content--0 to 15 percent
+Basalt stone content--0 to 15 percent
+Reaction--5.0 to 5.5
+Thickness--10 to 55 cm
+
+Cf horizon
+Hue--10YR, 2.5Y, or 5Y
+Value--3 to 5 moist, 5 to 7 dry
+Chroma--1 to 3
+Fine-earth texture--permanently frozen silt loam, permanently frozen silt
+Clay--10 to 18 percent
+Sand--5 to 20 percent
+Organic carbon--0 to 2 percent
+Total rock fragment content--0 to 30 percent
+Basalt gravel content--0 to 30 percent
+Basalt cobble content--0 to 30 percent
+Basalt stone content--0 to 30 percent
+Reaction--5.3 to 6.4
+
+COMPETING SERIES: none
+
+GEOGRAPHIC SETTING:
+*Elevation--50 to 450 m
+*Climate--warm, moist summers; cold, dry winters
+*Mean annual precipitation--400 to 650 mm
+*Mean annual air temperature-- -5 to -1 degrees C
+*Frost-free period--55 to 90 days
+
+GEOGRAPHICALLY ASSOCIATED SOILS:
+*Runkelscreek--aquic conditions at the soil surface, drainageways; organic layers total thickness greater than 40 cm
+*Penguquq--aquic conditions below 50 cm, mounds in drainageways
+
+DRAINAGE AND SATURATED HYDRAULIC CONDUCTIVITY:
+*Drainage class--poorly drained
+*Saturation during normal years--saturated throughout the year beginning at a depth between 0 and 25 cm
+*Saturated hydraulic conductivity (Ksat)--very high in the surface layer, moderately high to high in the unfrozen mineral layers, very low in the permafrost layer
+
+USE AND VEGETATION:
+Use--wildlife habitat, recreation, subsistence
+Potential native vegetation--reindeer lichen, Bigelow's sedge, marsh Labrador tea, dwarf birch, cup lichen, star reindeer lichen, cloudberry, cetraria lichen
+
+DISTRIBUTION AND EXTENT: Nulato Hills-Southern Seward Peninsula Highlands, Alaska; MLRA 240; large extent
+
+SOIL SURVEY REGIONAL OFFICE (SSRO) RESPONSIBLE: Portland, Oregon
+
+SERIES PROPOSED: Nulato Hills BLM area, Nome Census Area, Alaska; 2020
+
+REMARKS:
+Diagnostic horizons and features recognized in this pedon
+*Particle-size control section--zone from 50 to 125 cm
+*Histic epipedon--zone from 0 to 25 cm
+*Depth to permafrost--55 cm
+
+National Cooperative Soil Survey
+U.S.A.

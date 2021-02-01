@@ -1,0 +1,108 @@
+LOCATION RUNKELSCREEK           AK
+
+Tentative Series
+SAS
+01/2021
+
+RUNKELSCREEK SERIES
+
+Landscape--plains, foothills
+Landform--drainageways
+Slope--0 to 2 percent
+Parent material--grassy and/or mossy organic material over alluvium
+Mean annual precipitation--about 530 mm
+Mean annual air temperature--about -3 degrees C
+Depth class--very deep
+Drainage class--very poorly drained
+Soil moisture regime--peraquic
+Soil temperature regime--cryic
+Soil moisture subclass--typic
+
+TAXONOMIC CLASS: Loamy, mixed, euic Terric Cryohemists
+
+TYPICAL PEDON: Runkelscreek mucky peat on a linear, concave drainageway on a plain, on a slope of 1 percent at an elevation of 24 m (The soil was moist throughout when described on June 20, 2016.)
+
+ Oe1--0 to 20 cm; mucky peat, brown (7.5YR 5/4) dry, dark brown (7.5YR 3/4) moist; many very fine roots and common medium roots and common fine roots; moderately acid (pH 5.8); gradual smooth boundary
+
+ Oe2--20 to 60 cm; mucky peat, gray (2.5Y 5/1) dry, very dark gray (2.5Y 3/1) moist; many very fine roots and common fine roots; moderately acid (pH 5.8); clear smooth boundary
+
+ Cg--60 to 150 cm; silt loam, gray (2.5Y 5/1) dry, very dark gray (2.5Y 3/1) moist; massive; friable, nonsticky, slightly plastic; slightly acid (pH 6.2)
+
+TYPE LOCATION: Nome Census Area County, Alaska, latitude 63.8371870 degrees, longitude - 160.6226800 degrees, datum WGS84 (Coordinates determined with a GPS unit)
+
+RANGE IN CHARACTERISTICS:
+Mean annual soil temperature--1 to 3 degrees C
+Soil moisture control section--saturated in all parts during the growing season (peraquic moisture regime)
+Aquic conditions--throughout the profile
+Thickness of hemic soil materials--40 to 75 cm
+Depth to reduced matrix--40 to 75 cm
+
+Particle Size Control Section:
+*Clay--5 to 18 percent
+*Total rock fragment content--0 to 10 percent
+
+Oe horizons
+Hue--7.5YR, 10YR, or 2.5Y
+Value--2 to 4 moist, 4 to 6 dry
+Chroma--1 to 4
+Reaction--5.1 to 6.0
+Organic carbon content--35 to 55 percent
+Rubbed fiber content--17 to 40 percent
+
+*Combined thickness--40 to 75 cm
+
+Cg horizon
+*Hue--2.5Y, 5Y, or N
+*Value--2.5 to 4 moist, 4 to 6 dry
+*Chroma--0 to 2
+*Fine-earth texture--silt loam, loam, very fine sandy loam
+*Clay--5 to 18 percent
+*Sand--10 to 70 percent
+*Organic carbon--0.3 to 1 percent
+*Gravel content--0 to 10 percent
+*Reaction--5.6 to 6.6
+
+COMPETING SERIES:
+*Doroshin-coarse fragment content ranges to 25 percent, pH ranges from 5.1 to 6.0 in mineral soil horizon
+*Hewitt-textures range to clay loam
+*Stanbro-soils formed in glaciofluvial deposits, clay ranges to 35 percent
+*Tepete-clay ranges to 35 percent
+
+GEOGRAPHIC SETTING:
+*Elevation--5 to 550 m
+*Climate--warm, moist summers; cold, dry winters
+*Mean annual precipitation--400 to 650 mm
+*Mean annual air temperature-- -5 to -1 degrees C
+*Frost-free period--55 to 90 days
+
+GEOGRAPHICALLY ASSOCIATED SOILS:
+*Sikinik--depth to aquic conditions 0 to 25 cm, plain talfs
+*Penguquq--depth to aquic conditions below 25 cm, mounds on hillslopes
+
+DRAINAGE AND SATURATED HYDRAULIC CONDUCTIVITY:
+*Drainage class--very poorly drained
+*Saturation during normal years--saturated throughout the profile during the growing season
+*Ponding--frequent, long
+*Saturated hydraulic conductivity (Ksat)--moderately high or high in the organic soil horizons, moderately high in the mineral soil horizons
+
+USE AND VEGETATION:
+Use--wildlife habitat, recreation, subsistence
+Potential native vegetation--carex aquatilis, eriophorum angustifolium, salix fuscescens, comarum palustre, eriophorum vaginatum, sphagnum moss
+
+DISTRIBUTION AND EXTENT: Nulato Hills-Southern Seward Peninsula Highlands, Alaska; MLRA 240; large extent
+
+SOIL SURVEY REGIONAL OFFICE (SSRO) RESPONSIBLE: Portland, Oregon
+
+SERIES PROPOSED: Nulato Hills BLM area, Nome Census Area, Alaska; 2020
+
+REMARKS:
+Diagnostic horizons and features recognized in this pedon
+*Particle-size control section--zone from 60 to 130 cm
+*Surface tier--zone from 0 to 30 cm
+*Subsurface tier--zone from 30 to 90 cm
+*Bottom tier--zone from 90 to 130 cm
+*Thickness of organic layers--60 cm
+*Aquic conditions--present throughout the profile
+
+National Cooperative Soil Survey
+U.S.A.

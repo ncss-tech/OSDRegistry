@@ -1,0 +1,123 @@
+LOCATION BLACKCOVE              AK
+
+Tentative Series
+SAS/MPS
+01/2021
+
+BLACKCOVE SERIES
+
+Landscape--hills, valley
+Landform--depression
+Slope--0 to 5 percent
+Parent material--mossy organic material over loess
+Mean annual precipitation--about 480 mm
+Mean annual air temperature--about -3 degrees C
+Depth class--very deep
+Drainage class--very poorly drained
+Soil moisture regime--peraquic
+Soil temperature regime--cryic
+Soil moisture subclass--typic
+
+TAXONOMIC CLASS: Euic Typic Cryosaprists
+
+TYPICAL PEDON: Blackcove peat on a south southeast facing linear, linear wet meadow on a slope of 1 percent at an elevation of 180 m (The soil was wet throughout the profile when described on June 27, 2018.)
+
+ Oi--0 to 15 cm; peaty slightly decomposed plant material, reddish yellow (7.5YR 7/8) dry, strong brown (7.5YR 5/8) moist; common very fine and fine roots; very strongly acid (pH 5.0); abrupt smooth boundary
+
+ Oe--15 to 25 cm; mucky peat, moderately decomposed plant material, brownish yellow (10YR 6/6) dry, dark yellowish brown (10YR 4/6) moist; many very fine and common fine and medium roots; moderately acid (pH 5.8); abrupt smooth boundary
+
+ Oa--25 to 180 cm; mucky highly decomposed plant material, dark gray (10YR 4/1) dry, black (10YR 2/1) moist; many very fine and common fine roots; slightly acid (pH 6.2); abrupt smooth boundary
+
+ Cg--180 to 200 cm; silt loam, 98 percent greenish gray (10Y 6/1) and 2 percent brownish yellow (10YR 6/6) dry, 98 percent dark greenish gray (10Y 4/1) and 2 percent dark yellowish brown (10YR 4/6) moist; slightly acid (pH 6.2)
+
+TYPE LOCATION: Yukon-Koyukuk Census Area County, Alaska, latitude 63.1355300 longitude -160.8085120 degrees, datum WGS84 (Coordinates determined with a GPS unit)
+
+RANGE IN CHARACTERISTICS:
+Mean annual soil temperature--0 to 3 degrees C
+Soil moisture control section--saturated at the soil surface during much of the growing season
+Aquic conditions--throughout the profile
+Thickness of sapric soil materials--115 to 155 cm
+Total thickness of organic layers--greater than 130 cm
+
+Oi horizon
+Value--3 to 5 moist, 5 to 7 dry
+Chroma--6 to 8 moist
+Reaction--4.5 to 5.5
+Organic matter content--35 to 55 percent
+Rubbed fiber content--40 to 100 percent
+Thickness--10 to 20cm
+
+Oe horizon
+Hue--7.5YR or 10YR
+Value--2 to 4 moist, 4 to 6 dry
+Chroma--2 to 6
+Reaction--5.4 to 6.4
+Organic matter content--35 to 55 percent
+Rubbed fiber content--17 to 40 percent
+Thickness--10 to 35 cm
+
+Oa horizon
+Hue--7.5YR or 10YR
+Value--2 to 3 moist, 4 to 5 dry
+Chroma--1 or 2
+Reaction--5.0 to 6.0
+Organic matter content--35 to 55 percent
+Rubbed fiber content--0 to 17 percent
+Sodium pyrophosphate color value and chroma-when chroma is 2, value is 5 or less; when chroma is 3, value is 6 or less
+Thickness--85 to 155 cm
+
+Cg horizon
+Hue--10Y or 2.5Y
+Value--4 or 5 moist, 6 or 7 dry
+Chroma--1 or 2
+Fine-earth texture--silt, silt loam
+Clay--5 to 13 percent
+Sand--10 to 30 percent
+Organic carbon--1 to 2 percent
+Reaction--5.5 to 6.3
+
+COMPETING SERIES:
+*Yamsay--no mineral soil layers present, winter soil temperature does not range below 0 degrees C, herbaceous organic material; lake beds, channels, valley floors, sag ponds and depressional areas of lava plateaus
+*Stirfry--folistic epipedon, mossy organic material over volcanic ash and pumice; drainageways of a lava plateau
+*Karheen--coarse fragments present; organic material, which is underlain, and intermixed, with beach deposits; uplifted beaches adjacent to tidal water
+
+GEOGRAPHIC SETTING:
+*Elevation--50 to 400 m
+*Climate--warm, moist summers; cold, dry winters
+*Mean annual precipitation--460 to 550 mm
+*Mean annual air temperature-- -5 to -1 degrees C
+*Frost-free period--55 to 90 days
+
+GEOGRAPHICALLY ASSOCIATED SOILS:
+*Nuna--mineral soil layer exists within 130 cm of the surface; thermokarst depressions on terraces
+
+DRAINAGE AND SATURATED HYDRAULIC CONDUCTIVITY:
+*Drainage class--very poorly drained
+*Saturation during normal years--saturated throughout the profile during the growing season
+*Ponding--frequent, very long
+*Saturated hydraulic conductivity (Ksat)--moderately high or high in the organic soil horizons, moderately high in the mineral soil horizons
+
+USE AND VEGETATION:
+Use--wildlife habitat, recreation, subsistence
+Potential native vegetation--boreal bog sedge, water sedge, bog rosemary, dwarf birch, Alaska bog willow, resin birch, black crowberry, water horsetail, purple marshlocks, sphagnum, fewflower sedge, sparseflower sedge, blueberry willow, roundleaf sundew, tall cottongrass, 
+
+DISTRIBUTION AND EXTENT: Nulato Hills-Southern Seward Peninsula Highlands, Alaska; MLRA 240; small extent
+
+SOIL SURVEY REGIONAL OFFICE (SSRO) RESPONSIBLE: Portland, Oregon
+
+SERIES PROPOSED: Nulato Hills BLM area, Nome Census Area, Alaska; 2020
+
+REMARKS:
+Diagnostic horizons and features recognized in this pedon
+*Surface tier--zone from 0 to 30 cm
+*Subsurface tier--zone from 30 to 90 cm
+*Bottom tier--zone from 90 to 130 cm
+*Thickness of organic layers--180 cm
+*Aquic conditions--present throughout the profile
+*Fibric soil materials--0 to 15 cm
+*Hemic soil materials--15 to 25 cm
+*Sapric soil materials--25 to 180 cm
+*Reduced matrix--180-200 cm
+
+National Cooperative Soil Survey
+U.S.A.

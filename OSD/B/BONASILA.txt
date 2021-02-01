@@ -1,0 +1,160 @@
+LOCATION BONASILA               AK
+
+Tentative Series
+SAS/MPS
+01/2021
+
+BONASILA SERIES
+
+Landscape--hills and mountains
+Landform--hillslopes and mountain slopes
+Slope--2 to 50 percent
+Parent material--coarse loamy colluvium over gravelly colluvium
+Mean annual precipitation--about 525 mm
+Mean annual air temperature--about -3.5 degrees C
+Depth class--very deep
+Drainage class--well drained
+Soil moisture regime--udic
+Soil temperature regime--gelic
+Soil moisture subclass--typic
+
+TAXONOMIC CLASS: Loamy-skeletal, isotic, nonacid, subgelic Turbic Humigelepts
+
+TYPICAL PEDON: Bonasila silt on a northwest facing linear, convex backslope, on a slope of 9 percent at an elevation of 352 m (The soil was moist to 120 cm when described on June 22, 2018.)
+
+ Oe--0 to 3 cm; moderately decomposed plant material, brown (7.5YR 4/2) dry, very dark brown (7.5YR 2.5/2) moist; nonsticky, nonplastic; many very fine roots and common fine, medium, and coarse roots; very strongly acid (pH 5.0); clear irregular boundary
+
+ Ajj1--3 to 9 cm; silt, brown (7.5YR 4/2) dry, very dark brown (7.5YR 2.5/2) moist; weak coarse granular structure; friable, nonsticky, nonplastic; weakly smeary; common very fine, fine, medium, and coarse roots; few medium and common fine irregular pores; 2 percent gravel; strongly acid (pH 5.2); clear irregular boundary
+
+ Ajj2--9 to 27 cm; highly organic silt, brown (10YR 5/3) dry, dark brown (10YR 3/3) moist; weak coarse subangular blocky structure; friable, nonsticky, nonplastic; weakly smeary; common very fine and fine roots; common fine irregular pores; 5 percent medium distinct lenticular noncemented strong brown (7.5YR 4/6) masses of oxidized iron with clear boundaries in matrix and 5 percent coarse distinct lenticular noncemented dark grayish brown (2.5Y 4/2) masses of reduced iron with clear boundaries; 5 percent gravel; moderately acid (pH 5.9); gradual irregular boundary
+
+ Bw/Ajj--27 to 60 cm; gravelly very fine sandy loam, 70 percent pale brown (10YR 6/3) and 30 percent brown (10YR 5/3) dry, 70 percent brown (10YR 4/3) and 30 percent dark brown (10YR 3/3) moist; moderate coarse subangular blocky structure; friable, nonsticky, nonplastic; common very fine and fine roots; 15 percent gravel; moderately acid (pH 6.0); clear smooth boundary
+
+ 2BC--60 to 80 cm; extremely gravelly very fine sandy loam, pale brown (10YR 6/3) dry, brown (10YR 4/3) moist; weak medium granular structure; friable, slightly sticky, nonplastic; common very fine roots; 65 percent gravel; moderately acid (pH 5.7); gradual smooth boundary
+
+ 2C--80 to 150 cm; extremely gravelly loam, light brownish gray (2.5Y 6/2) dry, dark grayish brown (2.5Y 4/2) moist; massive; very friable, slightly sticky, nonplastic; common very fine roots; 60 percent gravel; moderately acid (pH 5.6)
+
+TYPE LOCATION: Nome Census Area County, Alaska, latitude 63.3729888, longitude -160.7790615 degrees, datum WGS84 (Coordinates determined with a GPS unit)
+
+RANGE IN CHARACTERISTICS:
+Mean annual soil temperature-- -2 to 0 degrees C
+Soil moisture control section--dry less than 45 consecutive days in June through October
+Thickness of umbric epipedon--18 to 45 cm
+Thickness of cambic horizon--25 to 85 cm
+Thickness of gelic materials--13 to 57 cm
+
+Particle Size Control Section:
+*Clay--2 to 16 percent
+*Total fragments--35 to 65 percent gravels, cobbles
+*Sodium fluoride pH--8.4 to 11.6
+*Ratio of 1500 kPa water to measured clay--0.6 to 6.0
+
+Oe horizon
+Thickness--3 to 14 cm
+
+Ajj1 horizon
+Hue--7.5YR or 10YR
+Value--2 or 2.5 moist, 4 to 6 dry
+Chroma--1 or 2
+Fine-earth texture--silt, silt loam
+Clay--3 to 10 percent
+Sand--10 to 35 percent
+Organic carbon--8 to 12 percent
+Total rock fragment content--0 to 5 percent gravel
+Reaction--4.7 to 5.5
+Thickness--5 to 15 cm
+
+Ajj2 horizon
+Hue--7.5YR or 10YR
+Value--2 to 3 moist, 4 or 5 dry
+Chroma--2 or 3
+Fine-earth texture--silt, silt loam
+Clay--5 to 12 percent
+Sand--10 to 35 percent
+Organic carbon--5 to 9 percent
+Total rock fragment content--0 to 5 percent gravel
+Reaction--4.8 to 5.9
+Thickness--10 to 18 cm
+
+Bw/Ajj horizon
+Hue--7.5YR or 10YR
+Value--2.5 to 4 moist, 4 to 6 dry
+Chroma--2 to 4
+Fine-earth texture--very fine sandy loam, sandy loam, silt loam
+Clay--2 to 12 percent
+Sand--35 to 70 percent
+Organic carbon--3 to 8 percent
+Total rock fragment content--10 to 35 percent
+Total gravel content--10 to 25 percent
+Total cobble content--0 to 10 percent
+Reaction--5.1 to 6.1
+Thickness--10 to 35 cm
+
+2BC horizon
+Hue--10YR or 2.5Y
+Value--4 or 5 moist, 6 or 7 dry
+Chroma--3 or 4
+Fine-earth texture--very fine sandy loam, fine sandy loam, loam
+Clay--5 to 17 percent
+Sand--35 to 55 percent
+Organic carbon--1 to 2 percent
+Total rock fragment content--35 to 70 percent
+Total gravel content--10 to 65 percent
+Total cobble content--0 to 25 percent
+Reaction--5.0 to 6.2
+Thickness--15 to 50 cm
+
+2C horizon
+Hue--10YR or 2.5Y
+Value--3 or 6 moist, 5 or 8 dry
+Chroma--2 to 4
+Fine-earth texture--sandy loam, silt loam, loam
+Clay--8 to 17 percent
+Sand--35 to 60 percent
+Organic carbon--.2 to 1.5 percent
+Total rock fragment content--40 to 80 percent
+Total gravel content--5 to 80 percent
+Total cobble content--0 to 40 percent
+Reaction--5.0 to 6.2
+
+COMPETING SERIES: none
+
+GEOGRAPHIC SETTING:
+*Elevation--5 to 800 m
+*Climate--warm, moist summers; cold, dry winters
+*Mean annual precipitation--350 to 700 mm
+*Mean annual air temperature-- -6 to -1 degrees C
+*Frost-free period--45 to 90 days
+
+GEOGRAPHICALLY ASSOCIATED SOILS:
+*Paugna--no cryoturbation present; organic carbon ranges to 5 percent in umbric epipedon; upper backslopes on mountains
+*Golsovia--cryic soil temperature regime, no cryoturbation present, moderately deep to paralithic contact; backslopes and nose slopes of hills and escarpments
+*MountMcDonald--shallow to lithic bedrock; summits and shoulders of mountains
+
+DRAINAGE AND SATURATED HYDRAULIC CONDUCTIVITY:
+*Drainage class--well drained
+*Saturation during normal years--saturated for less than 2 weeks during June to a depth of above 25 to 50 cm
+*Saturated hydraulic conductivity (Ksat)--very high in the surface organic layer, high to moderately high throughout the rest of the profile
+
+USE AND VEGETATION:
+Use--wildlife habitat, recreation, subsistence
+Potential native vegetation--tealeaf willow, netleaf willow, black crowberry, marsh Labrador tea, bog blueberry, dwarf birch, splendid feather moss, Schreber's big red stem moss, moss, reindeer lichen, star reindeer lichen, greygreen reindeer lichen, beaverd spirea, fescue, lingonberry, polytrichum moss, knights plume moss, abietinella moss, juniper polytrichum moss
+
+DISTRIBUTION AND EXTENT: Nulato Hills-Southern Seward Peninsula Highlands, Alaska; MLRA 240; moderate extent
+
+SOIL SURVEY REGIONAL OFFICE (SSRO) RESPONSIBLE: Portland, Oregon
+
+SERIES PROPOSED: Nulato Hills BLM area, Nome Census Area, Alaska; 2020
+
+REMARKS:
+Diagnostic horizons and features recognized in this pedon
+*Particle-size control section--zone from 28 to 103 cm
+*Umbric epipedon--zone from 3 to 27 cm
+*Cryoturbation--zone from 3 to 60 cm
+*Gelic Materials--zone from 3 to 60 cm
+*Redoximorphic concentrations--zone from 9 to 27 cm
+*Cambic horizon-- zone from 27 to 80 cm
+*Lithological discontinuity-- zone from 60 to 150 cm
+
+National Cooperative Soil Survey
+U.S.A.

@@ -1,0 +1,148 @@
+LOCATION PEKE                   AK
+
+Tentative Series
+SAS/MPS
+01/2021
+
+PEKE SERIES
+
+Landscape--mountains
+Landform--valleys and headslopes
+Microfeature--earth hummock
+Slope--8 to 50 percent
+Parent material--loamy colluvium over gravelly colluvium
+Mean annual precipitation--about 570 mm
+Mean annual air temperature--about -4 degrees C
+Depth class--very deep
+Drainage class--somewhat poorly drained
+Soil moisture regime--aquic
+Soil temperature regime--cryic
+Soil moisture subclass--typic
+
+TAXONOMIC CLASS: Coarse-loamy, isotic, acid Aeric Cryaquepts
+
+TYPICAL PEDON: Peke silt loam on a west southwest facing linear, linear footslope on a slope of 14 percent at an elevation of 481 m (The soil was moist from 0 to 150 cm when described on July 15, 2019.)
+
+ Oi--0 to 2 cm; slightly decomposed plant material, dark grayish brown (10YR 4/2) dry, very dark brown (10YR 2/2) moist; common very fine, fine, medium, coarse, and very coarse roots; strongly acid (pH 5.3); clear smooth boundary
+
+ A--2 to 7 cm; silt loam, brown (10YR 5/3) dry, dark brown (10YR 3/3) moist; weak fine granular structure; very friable, nonsticky, nonplastic; weakly smeary; common very fine, fine, medium, coarse, and very coarse roots; very strongly acid (pH 5.0); clear smooth boundary
+
+ Bwjj--7 to 38 cm; silt loam, 60 percent yellowish brown (10YR 5/4) and 40 percent brown (10YR 5/3) dry, 60 percent dark yellowish brown (10YR 3/4) and 40 percent dark brown (10YR 3/3) moist; moderate coarse subangular blocky structure; friable, nonsticky, nonplastic; nonsmeary; common very fine and fine roots; common fine irregular pores; 1 percent subangular gravel; strongly acid (pH 5.1); clear wavy boundary
+
+ 2Bw--38 to 67 cm; gravelly silt loam, light yellowish brown (10YR 6/4) broken face dry, dark yellowish brown (10YR 4/4) broken face moist; weak thin platy structure; friable, nonsticky, nonplastic; nonsmeary; common very fine and fine roots; common very fine irregular and common fine irregular pores; 10 percent medium strong brown (7.5YR 4/6), moist, masses of oxidized iron and 20 percent coarse brown (10YR 5/3), moist, iron depletions; 15 percent subangular gravel; strongly acid (pH 5.5); clear wavy boundary
+
+ 3C--67 to 150 cm; very gravelly loam, yellowish brown (10YR 5/4) dry, dark yellowish brown  (10YR 3/4) moist; massive; firm, slightly sticky, nonplastic; nonsmeary; common very fine roots; common very fine irregular pores; 5 percent subangular cobbles, 45 percent subangular gravel; strongly acid (pH 5.3)
+
+TYPE LOCATION: Yukon-Koyukuk Census Area, Alaska, latitude 63.2788426 longitude -160.2558410 degrees, datum WGS84 (coordinates determined with a GPS unit)
+
+RANGE IN CHARACTERISTICS:
+Mean annual soil temperature--0 to 3 degrees C
+Soil moisture control section--saturated at a depth of between 50 and 75 cm for greater than two weeks during the growing season (aquic soil moisture regime)
+Thickness ochric epipedon--7 to 25 cm
+Thickness of cambic horizon--25 to 90 cm
+Depth to redoximorphic iron concentrations--7 to 80 cm
+Depth to redoximorphic iron depletions--50 to 100 cm
+Depth to aquic conditions--25 to 50 cm
+
+Particle Size Control Section:
+*Clay--10 to 16 percent
+*Total rock fragment content--0 to 35 percent gravels, cobbles
+*Sodium fluoride pH--8.4 to 11.6
+*Ratio of 1500 kPa water to measured clay--0.6 to 6.0
+
+Oi horizon
+Thickness--2 to 12 cm
+
+A horizon
+Hue--7.5YR or 10YR
+Value--2.5 or 3 moist, 4 or 5 dry
+Chroma--2 or 3
+Fine-earth texture--silt, silt loam
+Clay--2 to 10 percent
+Sand--5 to 20 percent
+Organic carbon--5 to 12 percent
+Reaction--4.5 to 5.0
+Thickness--5 to 12 cm
+
+Bwjj horizon
+Hue--7.5YR or 10YR
+Value--3 or 4 moist, 5 or 6 dry
+Chroma--3 or 4
+Clay--6 to 15 percent
+Sand--15 to 30 percent
+Organic carbon--3 to 5 percent
+Total rock fragment content--0 to 15 percent gravel
+Reaction--4.3 to 5.6
+Thickness--25 to 35 cm
+
+2Bw horizon
+Value--3 or 4 moist, 5 or 6 dry
+Chroma--3 to 6
+Fine-earth texture--silt loam, loam
+Clay--10 to 15 percent
+Sand--20 to 45 percent
+Organic carbon--1 to 3 percent
+Total rock fragment content--15 to 45 percent gravel
+Reaction--4.5 to 5.5
+Thickness--10 to 30 cm
+
+3C horizon
+Hue--10YR or 2.5Y
+Value--3 to 5 moist, 5 to 7 dry
+Chroma--3 or 4
+Fine-earth texture--silt loam, loam
+Clay--10 to 16 percent
+Sand--25 to 45 percent
+Organic carbon--1 to 2 percent
+Total rock fragment content--25 to 50 percent gravel
+Total gravel content--25 to 45 percent
+Total cobble content--0 to 5 percent
+Reaction--5.2 to 6.4
+Thickness--60 to 85 cm
+
+COMPETING SERIES: None
+
+GEOGRAPHIC SETTING:
+*Elevation--200 to 800 m
+*Climate--warm, moist summers; cold, dry winters
+*Mean annual precipitation--460 to 690 mm
+*Mean annual air temperature-- -6 to -2 degrees C
+*Frost-free period--45 to 80 days
+
+GEOGRAPHICALLY ASSOCIATED SOILS:
+*Paugna--umbric epipedon, gelic soil temperature regime, loamy-skeletal particle-size class, mixed mineralogy, hillslopes and mountain slopes
+*Cuyaqsak--umbric epipedon, loamy-skeletal particle-size class, swales on hills and mountains
+*Teacreek--loamy-skeletal particle-size class, mixed mineralogy, hillslopes and mountain slopes
+*Ottercreek--no cambic horizon, mixed mineralogy, mountain slopes
+
+DRAINAGE AND SATURATED HYDRAULIC CONDUCTIVITY:
+*Drainage class--somewhat poorly drained
+*Saturation during normal years---saturated at a depth of between 25 and 50 cm for at least two weeks during the growing season
+*Saturated hydraulic conductivity (Ksat)--very high in the organic surface layer, high to moderately high throughout the rest of the profile
+
+USE AND VEGETATION:
+Use--wildlife habitat, recreation, subsistence
+Potential native vegetation--Barclay's willow, beaverd spirea, tealeaf willow, bluejoint, Altai fescue, black crowberry, lingonberry, fireweed, Rocky Mountain goldenrod, stiff clubmoss, western oakfern, violet, beachead iris, Schreber's big red stem moss, Moss, splendid feather moss, juniper polytrichum moss, 
+common woodrush, larkspurleaf monkshood, groundcedar, arctic sweet coltsfoot, cup lichen, reindeer lichen, greygreen reindeer lichen, seacoast angelica
+
+DISTRIBUTION AND EXTENT: Nulato Hills-Southern Seward Peninsula Highlands, Alaska; MLRA 240; small extent
+
+SOIL SURVEY REGIONAL OFFICE (SSRO) RESPONSIBLE: Portland, Oregon 
+
+SERIES PROPOSED: Nulato Hills BLM area, Nome Census Area, Alaska; 2020
+
+REMARKS:
+Diagnostic horizons and features recognized in this pedon
+*Particle-size control section--zone from 27 to 102 cm
+*Ochric epipedon--zone from 0 to 7 cm
+*Cryoturbation--zone from 7 to 38 cm
+*Andic soil properties--zone from 7 to 38 cm
+*Cambic horizon--zone from 2 to 67 cm
+*Redoximorphic depletions with a chroma of 2 or less--zone from 38 to 67 cm
+*Redoximorphic concentrations--zone from 38 to 67 cm
+*Aquic conditions--zone from 38 to 67 cm
+*Lithological discontinuity--zone from 38 to 67 cm
+*Lithological discontinuity--zone from 67 to 150 cm
+
+National Cooperative Soil Survey
+U.S.A.

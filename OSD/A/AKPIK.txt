@@ -1,0 +1,127 @@
+LOCATION AKPIK                  AK
+
+Tentative Series
+SAS
+01/2021
+
+AKPIK SERIES
+
+Landscape--plains
+Landform--lava plain
+Slope--2 to 5 percent
+Parent material--loess and basalt fragments
+Mean annual precipitation--about 500 mm
+Mean annual air temperature--about -3 degrees C
+Depth class--very deep
+Drainage class--poorly drained
+Soil moisture regime--aquic
+Soil temperature regime--gelic
+Soil moisture subclass--typic
+
+TAXONOMIC CLASS: Loamy-skeletal, isotic, nonacid, subgelic Typic Gelaquents
+
+TYPICAL PEDON: Akpik very cobbly silt loam on an east by southeast facing convex, convex lava plain, on a slope of 3 percent at an elevation of 334 m (The soil was moist to 19 cm and wet from 19 to 150 cm when described on June 27, 2016.)
+
+ Oe--0 to 7 cm; cobbly mucky peat, brown (7.5YR 4/2) dry, very dark brown (7.5YR 2.5/2) moist; many very fine and common fine and medium roots; 20 percent cobble by volume; very strongly acid (pH 4.9); clear wavy boundary
+
+ A--7 to 19 cm; very cobbly silt loam, light yellowish brown (10YR 6/4) dry, dark yellowish brown (10YR 4/4) moist; weak fine granular structure; very friable, slightly sticky, slightly plastic; many very fine and medium and common fine roots; few fine and common medium irregular pores; 15 percent gravel by volume, 35 percent cobble by volume; strongly acid (pH 5.2); clear wavy boundary
+
+ Cg1--19 to 53 cm; cobbly silt loam, light gray (5Y 7/1) and gray (5Y 6/1) dry, 70 percent gray (5Y 5/1) and 30 percent dark gray (5Y 4/1) moist; 25 percent coarse prominent irregular yellowish red (5YR 4/6) mottles; weak medium subangular blocky structure; friable, slightly sticky, slightly plastic; many very fine and common fine and medium roots; common medium irregular and tubular pores; 5 percent fine prominent irregular strongly cemented yellowish red (5YR 4/6) masses of oxidized iron with sharp boundaries; 10 percent gravel by volume, 20 percent cobble by volume; slightly acid (pH 6.4); diffuse wavy boundary
+
+ Cg2--53 to 150 cm; extremely stony silt loam, gray (2.5Y 6/1) dry, dark gray (2.5Y 4/1) moist; 30 percent coarse prominent irregular yellowish red (5YR 4/6) mottles; weak thin platy structure; very firm, slightly sticky, slightly plastic; few medium irregular and tubular pores; 5 percent fine prominent irregular strongly cemented yellowish red (5YR 4/6) masses of oxidized iron with sharp boundaries; 10 percent gravel by volume, 20 percent cobble by volume, 30 percent stone by volume; neutral (pH 6.6)
+
+TYPE LOCATION: Nome Census Area County, Alaska, latitude 63.2748230, longitude -161.7180400 degrees, datum WGS84 (Coordinates determined with a GPS unit)
+
+RANGE IN CHARACTERISTICS:
+Mean annual soil temperature-- -1 to 0 degrees C
+Soil moisture control section--saturated between 0 and 25 cm for at least 30 days during the growing season (aquic moisture regime)
+Thickness of ochric epipedon--10 to 30 cm
+Depth to redoximorphic features--10 to 30
+Depth to aquic conditions--0 to 25 cm
+Depth to reduced matrix--10 to 30 cm
+
+Particle Size Control Section:
+*Clay--15 to 28 percent
+*Total fragments--35 to 70 percent
+*Total gravel--0 to 70 percent
+*Total cobbles--0 to 70 percent
+*Total stones--0 to 70 percent
+*NaF pH--8.4 or greater
+*1500 kPa water to measured clay--0.6 or greater 
+
+Oe horizon
+Hue--10YR, 7.5YR, or 5 YR
+Value--2 to 4 moist, 4 to 6 dry
+Chroma--2 to 4
+Thickness--5 to 15 cm
+
+A horizon
+Hue--10YR, 7.5YR, or 2.5Y
+Value--2 to 4 moist, 4 to 6 dry
+Chroma--1 to 4
+Fine-earth texture--silt loam, loam
+Clay--8 to 18 percent
+Sand--5 to 45 percent
+Organic carbon--5 to 10 percent
+Total rock fragments--15 to 50 percent
+Total fine gravel-0 to 5 percent
+Total gravel--0 to 15 percent
+Total cobbles--0 to 40 percent
+Reaction--5.0 to 6.0
+Thickness--5 to 18 cm
+
+Cg1 or Cg2 horizon
+Hue--2.5Y, 5Y, or 5GY
+Value--4 or 5 moist, 6 or 7 dry
+Chroma--1 or 2
+Fine-earth texture--silt loam, loam, silty clay loam
+Clay--15 to 30 percent
+Sand--5 to 50 percent
+Organic matter--0.1 to 1 to percent
+Total rock fragments--30 to 70 percent
+Total fine gravel-0 to 5 percent
+Total gravel--10 to 50 percent
+Total cobbles--0 to 70 percent
+Total stones--0 to 70 percent
+Reaction--5.6 to 6.7
+
+COMPETING SERIES: None
+
+GEOGRAPHIC SETTING:
+*Elevation--25 to 400 m
+*Climate--warm, moist summers; cold, dry winters
+*Mean annual precipitation--400 to 600 mm
+*Mean annual air temperature-- -5 to -1 degrees C
+*Frost-free period--55 to 90 days
+
+GEOGRAPHICALLY ASSOCIATED SOILS:
+*Sikinik--mixed mineralogy, histic epipedon, plains and toeslopes of hills
+*Ukpik--mixed mineralogy, aquic conditions between 25 and 50 cm (somewhat poorly drained), swales on plains
+*Ugruk--mixed mineralogy, aquic conditions at the surface (very poorly drained), organic surface layers greater than 40 cm thick, depressions on plains
+
+DRAINAGE AND SATURATED HYDRAULIC CONDUCTIVITY:
+*Drainage class--poorly drained
+*Saturation during normal years--saturated between 0 and 25 cm for at least 30 days during the growing season
+*Saturated hydraulic conductivity (Ksat)--moderately high to high in the surface organic layer and moderately high throughout the rest of the profile
+
+USE AND VEGETATION:
+Use--wildlife habitat, recreation, subsistence
+Potential native vegetation--moss, reindeer lichen, greygreen reindeer lichen, sphagnum, Bigelow's sedge, marsh Labrador tea, black crowberry, dwarf birch, cloudberry, cup lichen
+
+DISTRIBUTION AND EXTENT: Nulato Hills-Southern Seward Peninsula Highlands, Alaska; MLRA 240; small extent
+
+SOIL SURVEY REGIONAL OFFICE (SSRO) RESPONSIBLE: Portland, Oregon
+
+SERIES PROPOSED: Nulato Hills BLM area, Nome Census Area, Alaska; 2020
+
+REMARKS:
+Diagnostic horizons and features recognized in this pedon
+*Particle-size control section--zone from 32 to 107 cm
+*Ochric epipedon--zone from 0 to 19 cm
+*Reduced matrix--zone from 19 to 150 cm
+*Aquic conditions--zone from 0 to 150 cm
+*Redoximorphic iron concentrations--zone from 19 to 150 cm
+*Assumed positive reaction to alpha alpha dipyridyl at some point during the growing season--zone from 0 to 19 cm
+
+National Cooperative Soil Survey
+U.S.A.

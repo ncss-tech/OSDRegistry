@@ -1,0 +1,137 @@
+LOCATION IMAK                   AK
+
+Tentative Series
+MPS/SAS
+01/2021
+
+IMAK SERIES
+
+Landscape--hills
+Landform--hillslopes
+Slope--1 to 22 percent
+Parent material--mossy organic material over loess
+Mean annual precipitation--about 445 mm
+Mean annual air temperature--about -3 degrees C
+Depth class--very deep (shallow to permafrost)
+Drainage class--poorly drained
+Soil moisture regime--aquic
+Soil temperature regime--gelic
+Soil moisture subclass--typic
+
+TAXONOMIC CLASS: Loamy, isotic, euic, subgelic Terric Fibristels
+
+TYPICAL PEDON: Imak peat on a north facing convex, linear footslope on a slope of 22 percent at an elevation of 255 m (The soil was moist from 0 to 60 cm and wet from 60 to 150 cm when described on June 5, 2019.)
+
+ Oi--0 to 32 cm; slightly decomposed plant material, reddish yellow (7.5YR 6/6) dry, yellowish red (5YR 4/6) moist; nonsmeary; many very fine roots and common medium and fine roots; very strongly acid (pH 4.8); abrupt wavy boundary
+
+ Oa--32 to 60 cm; muck, gray (10YR 6/1) dry, black (7.5YR 2.5/1) moist; nonsmeary; many very fine and fine, and common medium roots; slightly acid (pH 6.3); abrupt smooth boundary
+
+ A--60 to 70 cm; silt, dark grayish brown (10YR 4/2) dry, very dark brown (10YR 2/2) moist; weak medium subangular blocky structure; soft, very friable, nonsticky, nonplastic; nonsmeary; many very fine and common fine roots; moderately acid (pH 5.8); gradual wavy boundary
+
+ Bw--70 to 80 cm; silt loam, grayish brown (10YR 5/2) dry, very dark grayish brown (10YR 3/2) moist; weak medium subangular blocky structure; soft, very friable, nonsticky, nonplastic; nonsmeary; many very fine and common fine roots; 5 percent angular fine gravel; slightly acid (pH 6.4); abrupt smooth boundary
+
+ Cf--80 to 150 cm; permanently frozen silt loam, olive gray (5Y 5/2) dry, dark olive gray (5Y 3/2) moist; massive; hard, very firm, nonsticky, nonplastic; nonsmeary; 3 percent fine lenticular strong brown (7.5YR 4/6) masses of oxidized iron; 2 percent angular medium gravel; slightly acid (pH 6.5)
+
+TYPE LOCATION: Yukon-Koyukuk Census Area, Alaska, latitude 63.4463840 longitude -160.3843840 degrees, datum WGS84 (Coordinates determined with a GPS unit)
+
+RANGE IN CHARACTERISTICS:
+Mean annual soil temperature-- -2 to 0 degrees C
+Soil moisture control section--saturated at a depth of between 0 and 25 cm during much of the growing season (aquic moisture regime)
+Thickness of organic materials--40 to 90 cm
+Cambic horizon--60 to 80 cm
+Depth to permafrost contact--60 to 100 cm
+Thickness of fibric soil material--20 to 50 cm
+
+Particle Size Control Section:
+*Clay--13 to 20 percent
+*Total rock fragments--0 to 12 percent
+*Sodium fluoride pH--8.4 to 11.6
+*Ratio of 1500 kPa water to measured clay--0.6 to 6.0
+
+Oi horizon
+Hue--5YR or 10YR
+Value--4 to 6 moist, 6 to 8 dry
+Chroma--6 to 8
+Reaction--4.0 to 5.5
+Organic carbon content--80 to 100 percent
+Rubbed fiber content--75 to 100 percent
+Thickness--20 to 50 cm
+
+Oa horizon
+Hue--7.5YR or 10YR
+Value--2 or 2.5 moist, 4 or 6 dry
+Reaction--5.2 to 6.3
+Organic carbon content--75 to 85 percent
+Rubbed fiber content--0 to 17 percent
+Sodium pyrophosphate color value and chroma-when chroma is 2, value is 5 or less; when chroma is 3, value is 6 or less
+Thickness--5 to 50 cm
+
+A horizon
+Value--2 to 3 moist, 4 or 5 dry
+Chroma--2 or 3
+Fine-earth texture--silt, silt loam
+Clay--5 to 10 percent
+Sand--10 to 30 percent
+Organic carbon--5 to 12 percent
+Reaction--5.6 to 6.0
+Thickness--5 to 15 cm
+
+Bw horizon
+Value--3 or 4 moist, 5 or 6 dry
+Chroma--1 or 2
+Clay--8 to 12 percent
+Sand--20 to 35 percent
+Organic carbon--3 to 5 percent
+Total rock fragment content--0 to 5 percent gravel
+Reaction--5.3 to 6.4
+Thickness--5 to 20 cm
+
+Cf horizon
+Hue--10YR, 2.5Y or 5Y
+Value--3 or 4 moist, 5 to 8 dry
+Chroma--1 or 2
+Clay--8 to 20 percent
+Sand--10 to 30 percent
+Organic carbon--1 to 3 percent
+Total rock fragment content--0 to 12 percent gravel
+Reaction--5.6 to 6.6
+
+COMPETING SERIES: None
+
+GEOGRAPHIC SETTING:
+*Elevation--10 to 550 m
+*Climate--warm, moist summers; cold, dry winters
+*Mean annual precipitation--350 to 555 mm
+*Mean annual air temperature-- -5 to -1 degrees C
+*Frost-free period--55 to 90 days
+
+GEOGRAPHICALLY ASSOCIATED SOILS:
+*Pokercreek--no permafrost present, depth to aquic conditions from 22 to 50 cm, acid reaction class; hillslopes
+
+DRAINAGE AND SATURATED HYDRAULIC CONDUCTIVITY:
+*Drainage class--poorly drained
+*Saturation during normal years--saturated at the soil surface for two weeks in spring, saturated at a depth between of 0 and 25 cm to the top of the permafrost for much of the growing season
+*Saturated hydraulic conductivity (Ksat)--high in the organic surface layer, moderately high in the unfrozen mineral soil layers, very low in the permafrost layer
+
+USE AND VEGETATION:
+Use--wildlife habitat, recreation, subsistence
+Potential native vegetation--black spruce, kidney lichen, resin birch, black crowberry, marsh Labrador tea, cloudberry, bog blueberry, sedge, Bigelow's sedge, splendid feather moss, Moss, sphagnum, dwarf birch, lingonberry, woodland horsetail, reindeer lichen, Schreber's big red stem moss, reindeer lichen, 
+
+DISTRIBUTION AND EXTENT: Yukon-Kuskokwim Highlands, Alaska; MLRA 230; moderate extent
+
+SOIL SURVEY REGIONAL OFFICE (SSRO) RESPONSIBLE: Portland, Oregon
+
+SERIES PROPOSED: Nulato Hills BLM area, Yukon-Koyukuk Census Area, Alaska; 2020
+
+REMARKS:
+Diagnostic horizons and features recognized in this pedon
+*Particle-size control section--zone from 60 to 130 cm
+*Fibric soil materials--zone from 0 to 32 cm
+*Sapric soil materials--zone from 32 to 60 cm
+*Cambic horizon--zone from 60 to 80 cm
+*Aquic conditions--zone from 0 to 150 cm
+*Redoximorphic concentrations--zone from 80 to 150 cm
+*Depth to permafrost--80 cm
+
+National Cooperative Soil Survey
+U.S.A.

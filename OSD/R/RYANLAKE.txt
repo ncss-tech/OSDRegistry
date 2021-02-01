@@ -1,0 +1,120 @@
+LOCATION RYANLAKE               AK
+
+Tentative Series
+MPS/SAS
+01/2021
+
+RYANLAKE SERIES
+
+Landscape--coastal plain
+Landform--terrace
+Slope--0 to 3 percent
+Parent material--organic material over cryoturbated silty marine deposits
+Mean annual precipitation--about 300 mm
+Mean annual air temperature--about -3 degrees C
+Depth class--very deep (moderately deep to permafrost)
+Drainage class--poorly drained
+Soil moisture regime--aquic
+Soil temperature regime--gelic
+Soil moisture subclass--typic
+
+TAXONOMIC CLASS: Loamy, isotic, euic, subgelic Terric Hemistels 
+
+TYPICAL PEDON: Ryanlake mucky peat on a west southwest facing linear, linear toeslope on a slope of 1 percent at an elevation of 2 m (The soil was moist from 0 to 33 cm and wet from 33 to 150 cm when described on July 10, 2015.)
+
+ Oi--0 to 20 cm; slightly decomposed plant material, very pale brown (10YR 7/3) dry, brown (10YR 5/3) moist; common very fine, few medium, moderately few fine, and very few coarse roots throughout; strongly acid (pH 5.1); clear smooth boundary
+
+ Oe--20 to 40 cm; mucky peat, brown (10YR 5/3) dry, dark brown (10YR 3/3) moist; moderately few very fine, very few very coarse, many medium, few fine, and moderately few coarse roots; extremely acid (pH 4.4); clear broken boundary
+
+ Oe/Cjj--40 to 60 cm; mucky peat, silt loam, 80 percent yellowish brown (10YR 5/4) and 20 percent light brownish gray (10YR 6/2) dry, 80 percent dark yellowish brown (10YR 3/4) and 20 percent dark grayish brown (10YR 4/2) moist; very few very fine and very fine roots; nonsticky and nonplastic; very strongly acid (pH 4.7);gradual irregular boundary
+
+ C/Oejjf--60 to 150 cm; permanently frozen silt loam, mucky peat, 80 percent light yellowish brown (10YR 6/4) and 20 percent gray (10YR 6/1) dry, 80 percent dark yellowish brown (10YR 4/4) and 20 percent dark gray (10YR 4/1) moist; nonsticky and nonplastic; strongly acid (pH 5.3)
+
+TYPE LOCATION: Nome Census Area County, Alaska, latitude 63.9153350 longitude -160.8157670 degrees, datum WGS84 (Coordinates determined with a GPS unit)
+
+RANGE IN CHARACTERISTICS:
+Mean annual soil temperature-- -2 to 0 degrees C
+Soil moisture control section--saturated at a depth of between 0 and 25 cm during the growing season (aquic moisture regime)
+Thickness of folistic epipedon--15 to 20 cm
+Depth to permafrost contact--40 to 70
+Depth to cryoturbation--25 to 60 cm
+Thickness of hemic soil material--25 to 60
+
+Particle Size Control Section:
+*Clay--2 to 10 percent
+*Sodium fluoride pH--8.4 to 11.6
+*Ratio of 1500 kPa water to measured clay--0.6 to 6.0
+
+Oi horizon
+Hue--7.5YR or 10YR
+Value--2.5 to 5 moist, 4 to 7 dry
+Chroma--2 to 4
+Reaction--4.6 to 6.0
+Organic carbon content--35 to 55 percent
+Rubbed fiber content--40 to 100 percent
+Thickness--15 to 20 cm
+
+Oe horizon
+Value--3 or 4 moist, 5 or 6 dry
+Chroma--2 or 3
+Reaction--4.4to 5.8
+Organic carbon content--35 to 55 percent
+Rubbed fiber content--17 to 40 percent
+Thickness--5 to 25 cm
+
+Oe/Cjj horizon (Oe portion)
+Value--3 or 4 moist, 5 or 6 dry
+Chroma--3 or 4
+Rubbed fiber content--17 to 40 percent
+Reaction--4.7 to 5.3
+Thickness--15 to 30 cm
+
+C/Oejjf horizon (C portion)
+Value--4 or 5 moist, 6 or 7 dry
+Chroma--1 or 2
+Fine-earth texture--permanently frozen silt, permanently frozen silt loam
+Clay--2 to 10 percent
+Sand--5 to 45 percent
+Organic carbon--1 to 3 percent
+Reaction--5.3 to 6.3
+
+COMPETING SERIES:
+Ponluktule--sapric soil material present; stream terraces in valleys 
+
+GEOGRAPHIC SETTING:
+*Elevation--0 to 15 m
+*Climate--warm, moist summers; cold, dry winters
+*Mean annual precipitation--295 to 305 mm
+*Mean annual air temperature-- -5 to -1 degrees C
+*Frost-free period--55 to 90 days
+
+GEOGRAPHICALLY ASSOCIATED SOILS:
+*Eiderduck--histic epipedon, sulfidic materials present, no permafrost, aquic conditions at the soil surface, floodplains and depressions on coastal plains
+
+DRAINAGE AND SATURATED HYDRAULIC CONDUCTIVITY:
+*Drainage class--poorly drained
+*Saturation during normal years--saturated at a depth between of 0 and 25 cm to the top of the permafrost during all months
+*Saturated hydraulic conductivity (Ksat)--very high in the folistic epipedon, moderately high or high in the unfrozen mineral soil layers, very low in the permafrost layer
+
+USE AND VEGETATION:
+Use--wildlife habitat, recreation, subsistence
+Potential native vegetation--dwarf birch, netleaf willow,, cup lichen, lingonberry, marsh Labrador tea, black crowberry, bluegrasss, cloudberry, greygreen reindeer lichen, cetraria lichen, arctic willow, tall cottongrass, bog rosemary, bluejoint, rush, moss, sphagnum, arctic sweet coltsfeet, Labrador lousewort, beach pea
+
+DISTRIBUTION AND EXTENT: Nulato Hills-Southern Seward Peninsula Highlands, Alaska; MLRA 240; small extent
+
+SOIL SURVEY REGIONAL OFFICE (SSRO) RESPONSIBLE: Portland, Oregon
+
+SERIES PROPOSED: Nulato Hills BLM area, Nome Census Area, Alaska; 2020
+
+REMARKS:
+Diagnostic horizons and features recognized in this pedon
+*Particle-size control section--zone from 60 to 130 cm
+*Folistic epipedon--zone from 0 to 20 cm
+*Fibric soil materials--zone from 0 to 20 cm
+*Hemic soil materials--zone from 20 to 60 cm
+*Aquic conditions--zone from 20 to 150 cm
+*Cryoturbation--zone from 40 to 150 cm
+*Depth to permafrost--60 cm
+
+National Cooperative Soil Survey
+U.S.A.

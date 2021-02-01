@@ -1,0 +1,127 @@
+LOCATION TOIK                   AK
+
+Tentative Series
+MPS/SAS
+01/2021
+
+TOIK SERIES
+
+Landscape--hills, mountains
+Landform--hillslopes, mountain slopes
+Slope--10 to 150 percent
+Parent material--colluvium over residuum
+Mean annual precipitation--about 225 mm
+Mean annual air temperature--about -3 degrees C
+Depth class--shallow
+Drainage class--well drained
+Soil moisture regime--udic
+Soil temperature regime--cryic
+Soil moisture subclass--typic
+
+TAXONOMIC CLASS: Loamy-skeletal, isotic Lithic Humicryepts
+
+TYPICAL PEDON: Toik gravelly silt loam on a southeast facing linear, linear backslope, on a slope of 45 percent at an elevation of 210 m (The soil was moist throughout the profile when described on August 8, 2019.)
+
+ Oi--0 to 6 cm; slightly decomposed plant material, light brown (7.5YR 6/4) dry, brown (7.5YR 4/4) moist; many very fine, medium, and coarse roots and common fine roots; very strongly acid (pH 4.5); clear wavy boundary
+
+ Oa--6 to 11 cm; highly decomposed plant material, dark gray (7.5YR 4/1) dry, black (7.5YR 2.5/1) moist; common very fine, fine, and coarse roots and many medium roots; very strongly acid (pH 4.6); abrupt wavy boundary
+
+ A--11 to 30 cm; gravelly silt loam, dark grayish brown (10YR 4/2) dry, very dark brown (10YR 2/2) moist; weak fine subangular blocky structure; very friable, nonsticky, nonplastic; common very fine, fine, and medium roots; common very fine and common fine pores; 5 percent angular cobbles, 15 percent angular gravel; strongly acid (pH 5.4); abrupt wavy boundary
+
+ 2Bw--30 to 60 cm; extremely gravelly sandy loam, light yellowish brown (10YR 6/4) dry, dark yellowish brown (10YR 4/4) moist; weak fine subangular blocky structure; very friable, nonsticky, nonplastic; common very fine roots; 30 percent angular cobbles, 50 percent angular gravel; strongly acid (pH 5.3); abrupt irregular boundary
+
+ 3R--60 cm; bedrock
+
+TYPE LOCATION: Nome Census Area, Alaska, latitude 63.7787660 longitude -160.3521820 degrees, datum WGS84 (Coordinates determined with a GPS unit)
+
+RANGE IN CHARACTERISTICS:
+Mean annual soil temperature--1 to 3 degrees C
+Soil moisture control section--dry less than 45 consecutive days in June through October
+Thickness of umbric epipedon--18 to 30 cm
+Thickness of cambic horizon--25 to 40 cm
+Depth to lithic contact--30 to 50 cm below the mineral soil surface
+
+Particle Size Control Section:
+*Clay--5 to 14 percent
+*Total fragments--50 to 80 percent gravels, cobbles
+*Sodium fluoride pH--8.4 to 11.6
+*Ratio of 1500 kPa water to measured clay--0.6 to 6.0
+
+Oi horizon
+Thickness--2 to 12 cm
+
+Oa horizon
+Thickness--2 to 12 cm
+Combined thickness of organic layers--4 to 15 cm
+
+A horizon
+Value--2 o 3 moist, 4 or 5 dry
+Chroma-2 or 3
+Fine-earth texture--silt loam, sandy loam
+Clay--3 to 8 percent
+Sand--20 to 70 percent
+Organic carbon--5 to 12 percent
+Total rock fragment content--0 to 30 percent
+Total gravel content--0 to 25 percent
+Total cobble content--0 to 5 percent
+Reaction--4.4 to 5.4
+Thickness--18 to 30 cm
+
+2Bw horizon
+Value--4 or 5 moist, 6 or 7 dry
+Chroma--3 to 5
+Fine-earth texture--sandy loam, silt loam
+Clay--4 to 10 percent
+Sand--35 to 70 percent
+Organic carbon--2 to 5 percent
+Total rock fragment content--50 to 80 percent
+Total gravel content--40 to 75 percent
+Total cobble content--0 to 35 percent
+Reaction--4.9 to 5.9
+Thickness--20 to 35 cm
+
+3R horizon
+
+COMPETING SERIES:
+Goodnews--no cambic horizon present
+Burgerbutte--Vitrandic subgroup properties
+Crawfish, Eastlakesbasin--xeric soil moisture regime; Vitrandic subgroup properties
+Snowtell--xeric soil moisture regime
+Telluride--15 to 27 percent clay in the particle-size control section
+Eastlakesbasin--xeric soil moisture regime
+
+GEOGRAPHIC SETTING:
+*Elevation--10 to 300 m
+*Climate--warm, moist summers; cold, dry winters
+*Mean annual precipitation--150 to 350 mm
+*Mean annual air temperature-- -5 to -1 degrees C
+*Frost-free period--55 to 90 days
+
+GEOGRAPHICALLY ASSOCIATED SOILS:
+*Chiroskey--no lithic contact; hillslopes and lower mountain slopes
+
+DRAINAGE AND SATURATED HYDRAULIC CONDUCTIVITY:
+*Drainage class--well drained
+*Saturation during normal years--none
+*Saturated hydraulic conductivity (Ksat)--very high in the surface organic layer, high to moderately high throughout the rest of the profile
+
+USE AND VEGETATION:
+Use--wildlife habitat, recreation, subsistence
+Potential native vegetation--white spruce, resin birch, Siberian alder, beaverd spirea, marsh Labrador tea, bog blueberry, black crowberry, lingonberry, bluejoint, woodland horsetail, dwarf birch, Schreber's big red stem moss, moss, polytrichum moss, splendid feather moss, quaking aspen, black spruce, Kenai birch, bunchberry dogwood, grayleaf willow, greygreen reindeer lichen, reindeer lichen, cup lichen
+
+DISTRIBUTION AND EXTENT: Nulato Hills-Southern Seward Peninsula Highlands, Alaska; MLRA 240; small extent
+
+SOIL SURVEY REGIONAL OFFICE (SSRO) RESPONSIBLE: Portland, Oregon
+
+SERIES PROPOSED: Nulato Hills BLM area, Nome Census Area, Alaska; 2020
+
+REMARKS:
+Diagnostic horizons and features recognized in this pedon
+*Particle-size control section--zone from 36 to 60cm
+*Umbric epipedon--zone from 11 to 30cm
+*Cambic horizon--zone from 30 to 60cm
+*Lithic contact--at 60cm
+*Lithologic discontinuity--30 and 60 cm
+
+National Cooperative Soil Survey
+U.S.A.

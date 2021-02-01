@@ -1,0 +1,120 @@
+LOCATION JESSECREEK             AK
+
+Tentative Series
+MPS/SAS
+01/2021
+
+JESSECREEK SERIES
+
+Landscape--valley
+Landform--terraces
+Slope--0 to 4 percent
+Parent material--organic material over loess over sandy and gravelly alluvium
+Mean annual precipitation--about 450 mm
+Mean annual air temperature--about -3 degrees C
+Depth class--very deep
+Drainage class--poorly drained
+Soil moisture regime--aquic
+Soil temperature regime--gelic
+Soil moisture subclass--typic
+
+TAXONOMIC CLASS: Sandy, mixed, subgelic Fluvaquentic Gelaquepts
+
+TYPICAL PEDON: Jessecreek muck on a slightly convex tread on a slope of 2 percent at an elevation of 156 m (The soil was wet from 0 to 70 cm and wet, satiated, from 70 to 150cm when described on June 10, 2019.)
+
+ Oa--0 to 21 cm; muck, dark gray (10YR 4/1) dry, black (10YR 2/1) moist; many very fine and common fine, medium, and coarse roots; moderately acid (pH 5.8); abrupt irregular boundary
+
+ A/Oa--21 to 40 cm; silt loam, 95 percent yellowish red (5YR 4/6) and 5 percent dark gray (10YR 4/1) dry, 95 percent dark brown (7.5YR 3/3) and 5 percent black (10YR 2/1) moist; weak medium subangular blocky structure; soft, very friable, nonsticky, nonplastic; nonsmeary; many very fine and common fine, medium, and coarse roots; few very fine irregular pores; 15 percent medium irregular yellowish red (5YR 4/6) masses of oxidized iron; moderately acid (pH 5.9); abrupt smooth boundary
+
+ Bw/A--40 to 52 cm; silt loam, 80 percent light brown (7.5YR 6/4) and 20 percent very dark brown (7.5YR 2.5/3) dry, 80 percent brown (7.5YR 4/4) and 20 percent black (10YR 2/1) moist; weak medium granular structure; soft, very friable, nonsticky, nonplastic; nonsmeary; many very fine and common fine roots; few very fine irregular pores; 10 percent medium irregular yellowish red (5YR 4/6) masses of oxidized iron; slightly acid (pH 6.1); abrupt smooth boundary
+
+ 2C--52 to 150 cm; gravelly loamy sand, strong brown (7.5YR 4/6) dry, brown (7.5YR 4/4) moist; single grain; nonsticky, nonplastic; nonsmeary; 20 percent rounded gravel; slightly acid (pH 6.3)
+
+TYPE LOCATION: Nome Census Area, Alaska latitude 63.3259290 longitude -160.6568810 degrees, datum WGS84 (Coordinates determined with a GPS unit)
+
+RANGE IN CHARACTERISTICS:
+Mean annual soil temperature-- -2 to 0 degrees C
+Soil moisture control section--saturated from a depth of 0 to 25 cm for more than two weeks during the growing season
+Thickness of histic epipedon--20 to 30 cm
+Depth to redoximorphic iron concentrations--20 to 30 cm
+Depth to aquic conditions--10 to 25 cm
+
+Particle Size Control Section:
+*Clay--2 to 15 percent
+*Total fragments--15 to 30 percent gravels
+
+Oa horizon
+Thickness--20 to 30 cm
+
+A/Oa horizon
+Hue--7.5YR or 10YR
+Value--2 to 3 moist, 4 or 5 dry
+Chroma-1 to 3
+Fine-earth texture--silt loam
+Clay--5 to 13 percent
+Sand--15 to 30 percent
+Organic carbon--8 to 12 percent
+Reaction--4.8 to 5.9
+Thickness--10 to 25 cm
+
+Bw/A horizon
+Hue--7.5YR or 10YR
+Value--2 to 4 moist. 4 to 6 dry
+Chroma--1 to 4
+Fine-earth texture--silt loam, very fine sandy loam
+Clay--5 to 10 percent
+Sand--15 to 55 percent
+Organic carbon--5 to 8 percent
+Reaction--5.0 to 6.0
+Thickness--10 to 35 cm
+
+2C horizon
+Hue--7.5YR, 10YR, or 2.5Y
+Value--3 or 4 moist, 5 or 6 dry
+Chroma--2 to 4
+Fine-earth texture--loamy sand, sand
+Clay--0 to 8 percent
+Sand--75 to 100 percent
+Organic carbon--0.2 to 1 percent
+Total rock fragment content--15 to 30 percent gravel
+Reaction--5.6 to 6.5
+
+COMPETING SERIES: none
+
+GEOGRAPHIC SETTING:
+*Elevation--15 to 500 m
+*Climate--warm, moist summers; cold, dry winters
+*Mean annual precipitation--340 to 560 mm
+*Mean annual air temperature-- -5 to -1 degrees C
+*Frost-free period--55 to 90 days
+
+GEOGRAPHICALLY ASSOCIATED SOILS:
+*Sprucecreek--cryic soil temperature regime, folistic epipedon, no aquic conditions, terraces in valleys
+*Nonvalnuk--cryic soil temperature regime, thickness of organic soil materials is greater than 100 cm, water table at the surface during the growing season (peraquic moisture regime), swales on terraces
+
+DRAINAGE AND SATURATED HYDRAULIC CONDUCTIVITY:
+*Drainage class--poorly drained
+*Saturation during normal years--saturated from a depth of 0 to 25 cm for more than two weeks during the growing season
+*Saturated hydraulic conductivity (Ksat)--high in the histic epipedon, very high in the sand substratum, moderately high throughout the rest of the profile
+
+USE AND VEGETATION:
+Use--wildlife habitat, recreation, subsistence
+Potential native vegetation--bluejoint, tealeaf willow, dwarf birch, Alaska bog willow, arctic sweet coltsfoot, scouringrush hirsetail, purple marshlocks,  Bigelow's sedge, cetraria lichen, cup lichen, greygreen reindeer lichen, star reindeer lichen, black crowberry, meadow horestail, splendid feather moss, marsh Labrador tea, white spruce, Schreber's big red stem moss, polytrichum moss, knights plume moss, feltleaf willow, sphagnum, beaverd spirea, bog blueberry, lingnberry
+
+DISTRIBUTION AND EXTENT: Yukon-Kuskokwim Highlands, Alaska; MLRA 230; small extent
+
+SOIL SURVEY REGIONAL OFFICE (SSRO) RESPONSIBLE: Portland, Oregon
+
+SERIES PROPOSED: Nulato Hills BLM area, Nome Census Area, Alaska; 2020
+
+REMARKS:
+Diagnostic horizons and features recognized in this pedon
+*Particle-size control section--zone from 46 to 121 cm
+*Histic epipedon--zone from 0 to 21 cm
+*Sapric soil material--zone from 0 to 40 cm
+*Redoximorphic concentrations--zone from 21 to 52 cm
+*Aquic conditions--zone from 21 to 130 cm
+*Lithological discontinuity--zone from 52 to 150 cm
+
+National Cooperative Soil Survey
+U.S.A.
