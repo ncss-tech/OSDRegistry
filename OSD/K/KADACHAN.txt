@@ -2,7 +2,7 @@ LOCATION KADACHAN               AK
 
 Established Series
 IRD. ABD/NDP/SCD
-01/2021
+02/2021
 
 KADACHAN SERIES
 
@@ -18,7 +18,7 @@ Soil moisture regime--udic
 Soil temperature regime--cryic
 Soil moisture subclass--aquic
 
-TAXONOMIC CLASS: Loamy-skeletal, mixed, superactive, nonacid Oxyaquic Cryofluvents
+TAXONOMIC CLASS: Sandy-skeletal, mixed Oxyaquic Cryofluvents
 
 TYPICAL PEDON: Kadachan fine sand in a drainageway of a mountain slope of 15 percent at an elevation of 114 m (When described on August 28, 2013, the soil was moist from the surface to a depth of 65 cm and wet from a depth of 65 to 150 cm.)
 
@@ -26,7 +26,7 @@ TYPICAL PEDON: Kadachan fine sand in a drainageway of a mountain slope of 15 per
 
  C2--11 to 18 cm; very stony fine sand, grayish brown (2.5Y 5/2) dry, very dark grayish brown (2.5Y 3/2) moist; single grain; soft, very friable, nonsticky and nonplastic; many very fine and fine and common medium and coarse roots throughout; common very fine and fine interstitial pores; 10 percent cobbles and 30 percent stones, by volume; noneffervescent; moderately acid (pH 5.6); clear irregular boundary
 
- C3--18 to 150 cm; variegated boulders; single grain; loose, nonsticky and nonplastic; 3 percent gravel, 5 percent cobbles, 10 percent stones, and 72 percent boulders, by volume; noneffervescent; moderately acid (pH 5.7)
+ C3--18 to 150 cm; variegated boulders; single grain; loose, nonsticky and nonplastic; 3 percent gravel, 5 percent cobbles, 10 percent stones, and 70 percent boulders, by volume; noneffervescent; moderately acid (pH 5.7)
 
 TYPE LOCATION: Glacier Bay National Park and Preserve-Gustavus Area, Alaska; Hoonah-Angoon Census Area; latitude 58.8814133, longitude -136.8713993, datum WGS84 (coordinates determined by a GPS unit)
 
@@ -64,21 +64,22 @@ Thickness--5 to 25 cm
 
 C3 horizon
 Clay content--1 to 5 percent (insufficient fine-earth fraction to fill all interstices)
-Total rock fragment content--90 to 94 percent
+Total rock fragment content--80 to 88 percent
 Gravel content--2 to 15 percent
 Cobble content--3 to 10 percent
 Stone content--5 to 25 percent
 Boulder content--60 to 85 percent
 Thickness--90 to 140 cm
 
-COMPETING SERIES: None
+COMPETING SERIES: 
+Awayak--A Lithologic Discontinuity occurs below the surface A horizon and the soil experiences frequent flooding for a very brief duration during part of the growing season.
 
 GEOGRAPHIC SETTING:
 Elevation--20 to 250 m
 Climate--cool, moist summers; mild, wet winters
 Mean annual precipitation--850 to 1850 mm
 Mean annual air temperature--1 to 9 degrees C
-Frost-free period--90 to 154 days
+Frost-free period--90 to 109 days
 
 GEOGRAPHICALLY ASSOCIATED SOILS:
 Bearisland--free carbonates throughout particle-size control section; on moraines of similar landforms

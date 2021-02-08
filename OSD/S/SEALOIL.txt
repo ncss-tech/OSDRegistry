@@ -1,0 +1,130 @@
+LOCATION SEALOIL                AK  
+
+Tentative Series
+MPS/SAS
+02/2021
+
+SEALOIL SERIES
+
+Landscape--hills
+Landform--hillslopes
+Slope--1 to 16 percent
+Parent material--herbaceous organic material over loess
+Mean annual precipitation--about 500 mm
+Mean annual air temperature--about -3 degrees C
+Depth class--very deep
+Drainage class--somewhat poorly drained
+Soil moisture regime--aquic
+Soil temperature regime--cryic
+Soil moisture subclass--typic
+
+TAXONOMIC CLASS: Fine-loamy, isotic, nonacid Typic Cryaquepts
+
+TYPICAL PEDON: Sealoil silt loam on an east-southeast facing concave, linear backslope of a hill on a slope of 9 percent at an elevation of 252 m (The soil was moist from 0 to 150 cm when described on July 31, 2019.)
+
+ Oi--0 to 7 cm; slightly decomposed plant material, light brown (7.5YR 6/4) dry, brown (7.5YR 4/4) moist; many very fine and common fine, medium, and coarse roots; moderately acid (pH 5.6); abrupt smooth boundary
+
+ Oa--7 to 21 cm; highly decomposed plant material, dark grayish brown (10YR 4/2) dry, very dark brown (10YR 2/2) moist; many very fine and common fine and medium roots; strongly acid (pH 5.3); abrupt smooth boundary
+
+ A--21 to 34 cm; silt loam, gray (10YR 5/1) dry, very dark gray (10YR 3/1) moist; weak fine subangular blocky structure; friable, nonsticky, nonplastic; common very fine and fine roots; strongly acid (pH 5.3); abrupt smooth boundary
+
+ C/Bg--34 to 63 cm; silt loam, 60 percent greenish gray (5GY 6/1) and 40 percent light brownish gray (10YR 6/2) dry, 60 percent dark greenish gray (5GY 4/1) and 40 percent dark grayish brown (10YR 4/2) moist; massive, and weak medium subangular blocky; firm, moderately sticky, moderately plastic; common very fine and fine roots; many fine irregular pores; 6 percent medium irregular strong brown (7.5YR 5/8) masses of oxidized iron and 8 percent coarse irregular brown (7.5YR 4/4) masses of oxidized iron; 3 percent gravel; strongly acid (pH 5.5); clear smooth boundary
+
+ Cg--63 to 150 cm; loam, greenish gray (5GY 6/1) dry, dark greenish gray (5GY 4/1) moist; massive; very firm, moderately sticky, moderately plastic; 5 percent medium irregular strong brown (7.5YR 5/8) masses of oxidized iron; 2 percent gravel; moderately acid (pH 5.9)
+
+TYPE LOCATION: Nome Census Area, Alaska, latitude 63.6925060 longitude -160.5174210, datum WGS84 (coordinates determined with a GPS unit)
+
+RANGE IN CHARACTERISTICS:
+Mean annual soil temperature--0 to 3 degrees C
+Soil moisture control section--saturated for more than two weeks during the growing season
+Thickness of folistic epipedon--15 to 25 cm
+Thickness of cambic horizon--25 to 60 cm
+Depth to aquic conditions--25 to 50 cm
+Depth to redoximorphic features--30 to 50 cm
+
+Particle Size Control Section:
+*Clay--18 to 30 percent
+*Total fragments--0 to 10 percent gravels
+*Sodium fluoride pH--8.4 to 11.6
+*Ratio of 1500 kPa water to measured clay--0.6 to 6.0
+
+Oi horizon
+Thickness--4 to 12 cm
+
+Oa horizon
+Thickness--6 to 22 cm
+
+A horizon
+Hue--7.5YR or 10YR
+Value--2 to 3 moist, 4 or 5 dry
+Chroma-1 to 3
+Fine-earth texture--silt, silt loam
+Clay--4 to 14 percent
+Sand--8 to 40 percent
+Organic carbon--5 to 12 percent
+Total rock fragment content--0 to 1 percent gravel
+Reaction--5.3 to 6.6
+Thickness--5 to 20 cm
+
+C/Bg
+Hue--10YR or 5GY
+Value--4 or 5 moist, 6 or 7 dry
+Chroma--1 or 2
+Fine-earth texture--silt loam, clay loam, loam
+Clay--14 to 30 percent
+Sand--10 to 25 percent
+Organic carbon--1 to 5 percent
+Total rock fragment content--0 to 5 percent gravel
+Reaction--5.5 to 6.8
+Thickness--15 to 40 cm
+
+Cg horizon
+Hue--5Y, 5GY or N
+Value--4 or 5 moist, 6 or 7 dry
+Chroma--none or 1
+Fine-earth texture--loam, silt loam, silty clay loam
+Clay--20 to 35 percent
+Sand--15 to 35 percent
+Organic carbon--1 to 2 percent
+Total rock fragment content--0 to 10 percent gravel
+Reaction--5.5 to 6.9
+Thickness--80 to 105 cm
+
+COMPETING SERIES: none
+
+GEOGRAPHIC SETTING:
+*Elevation--100 to 700 m
+*Climate--warm, moist summers; cold, dry winters
+*Mean annual precipitation--430 to 615 mm
+*Mean annual air temperature-- -5 to -1 degrees C
+*Frost-free period--55 to 90 days
+
+GEOGRAPHICALLY ASSOCIATED SOILS:
+*Chiroskey--umbric epipedon, no aquic conditions present, well drained, coarse fragments range to 75 percent in lower part of profile; hillslopes
+
+DRAINAGE AND SATURATED HYDRAULIC CONDUCTIVITY:
+*Drainage class--somewhat poorly drained
+*Saturation during normal years--saturated at a depth of between 25 and 50 cm for more than two weeks during the growing season
+*Saturated hydraulic conductivity (Ksat)--very high in the surface organic layer, high to moderately high throughout the rest of the profile
+
+USE AND VEGETATION:
+Use--wildlife habitat, recreation, subsistence
+Potential native vegetation--white spruce, tealeaf willow, Barclay's willow, black crowberry, dwarf raspberry, cloudberry, field horsetail, woodland horsetail, water sedge, wideleaf polargrass, purple marshlocks, violet, arctic sweet coltsfoot, bog blueberry, beachhead iris
+
+DISTRIBUTION AND EXTENT: Nulato Hills-Southern Seward Peninsula Highlands, Alaska; MLRA 240; small extent
+
+SOIL SURVEY REGIONAL OFFICE (SSRO) RESPONSIBLE: Portland, Oregon
+
+SERIES PROPOSED: Nulato Hills BLM area, Nome Census Area, Alaska; 2020
+
+REMARKS:
+Diagnostic horizons and features recognized in this pedon
+*Particle-size control section--zone from 46 to 121 cm
+*Folistic epipedon--zone from 0 to 21 cm
+*Cambic horizon--zone from 21 to 63 cm
+*Reduced matrix--zone from 34 150 cm
+*Redoximorphic iron concentrations--zone from 34 to 150 cm
+*Aquic conditions--zone from 34 150 cm
+
+National Cooperative Soil Survey
+U.S.A.
