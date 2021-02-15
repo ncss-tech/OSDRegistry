@@ -2,7 +2,7 @@ LOCATION NUNA                   AK
 
 Tentative Series
 MPS/SAS
-01/2021
+02/2021
 
 NUNA SERIES
 
@@ -30,9 +30,9 @@ TYPICAL PEDON: Nuna mucky peat on a linear, linear on a slope of 1 percent at an
 
  Oa3--85 to 115 cm; muck, brown (7.5YR 4/2) dry, very dark brown (7.5YR 2.5/2) moist; extremely acid (pH 4.1); clear smooth boundary
 
- 2A--115 to 122 cm; silt, 50 percent dark gray (10YR 4/1) and 50 percent dark grayish brown (10YR 4/2) dry, 50 percent black (10YR 2/1) and 50 percent very dark brown (10YR 2/2) moist; weak, coarse, granular structure; nonsticky, slightly plastic; very strongly acid (pH 4.7)
+ A--115 to 122 cm; silt, 50 percent dark gray (10YR 4/1) and 50 percent dark grayish brown (10YR 4/2) dry, 50 percent black (10YR 2/1) and 50 percent very dark brown (10YR 2/2) moist; weak, coarse, granular structure; nonsticky, slightly plastic; very strongly acid (pH 4.7)
 
- 2Cg--122 to 180 cm; silt, light greenish gray (10Y 8/1) dry, greenish gray (10Y 6/1) moist; massive; nonsticky, slightly plastic; moderately acid (pH 5.8)
+ Cg--122 to 180 cm; silt, light greenish gray (10Y 8/1) dry, greenish gray (10Y 6/1) moist; massive; nonsticky, slightly plastic; moderately acid (pH 5.8)
 
 TYPE LOCATION: Yukon-Koyukuk Census Area, Alaska, latitude 62.8965900, longitude -160.7383340 degrees, datum WGS84 (Coordinates determined with a GPS unit)
 
@@ -85,7 +85,7 @@ Rubbed fiber content--0 to 17 percent
 Sodium pyrophosphate color value and chroma at or below--5/1, 6/2, and 7/3
 Thickness--20 to 35 cm
 
-2A horizon
+A horizon
 Value--2 or 2.5 moist, 4 or 5 dry
 Chroma--1 or 2
 Fine-earth texture--silt, silt loam
@@ -95,7 +95,7 @@ Organic carbon--8 to 12 percent
 Reaction--4.5 to 5.5
 Thickness--5 to 20 cm
 
-2Cg horizon
+Cg horizon
 Hue--10YR, 2.5Y or 10Y
 Value--2 to 6 moist, 4 or 8 dry
 Chroma--1 or 2
@@ -143,7 +143,7 @@ Diagnostic horizons and features recognized in this pedon
 *Aquic conditions--zone from 0 to 180 cm
 *Fibric soil materials--zone from 0 to 15 cm
 *Sapric soil materials--zone from 15 to 115 cm
-*Lithological discontinuity--zone from 115 to 180 cm
+
 
 National Cooperative Soil Survey
 U.S.A.

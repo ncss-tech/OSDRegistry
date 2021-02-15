@@ -2,7 +2,7 @@ LOCATION KOUWEGOK               AK
 
 Tentative Series
 SAS
-01/2021
+02/2021
 
 KOUWEGOK SERIES
 
@@ -18,7 +18,7 @@ Soil moisture regime--aquic
 Soil temperature regime--cryic
 Soil moisture subclass--typic
 
-TAXONOMIC CLASS: Coarse-loamy over sandy or sandy-skeletal, isotic over mixed, acid Fluvaquentic Cryaquepts
+TAXONOMIC CLASS: Coarse-loamy over sandy or sandy-skeletal, isotic over mixed, superactive, acid Fluvaquentic Cryaquepts
 
 TYPICAL PEDON: Kouwegok stratified sandy loam on a linear, linear floodplain, on the leeward side of a coastal berm, on a slope of 0 percent at an elevation of 3 m (The soil was moist throughout the profile when described on July 12, 2015.)
 
@@ -32,7 +32,7 @@ TYPICAL PEDON: Kouwegok stratified sandy loam on a linear, linear floodplain, on
 
  AB--49 to 80 cm; stratified silt loam, brown (7.5YR 5/3) dry, dark brown (7.5YR 3/3) moist; moderate coarse subangular blocky structure; friable, nonsticky, nonplastic; few very fine roots; strongly acid (pH 5.4); gradual smooth boundary
 
- 2CA--80 to 150 cm; extremely gravelly loamy sand, brown (7.5YR 5/3) dry, very dark brown (7.5YR 2.5/3) moist; massive; very friable, nonsticky, nonplastic; 5 percent fine gravel, 60 percent medium and coarse gravel; moderately acid (pH 5.6)
+ 2CA--80 to 150 cm; extremely channery loamy sand, brown (7.5YR 5/3) dry, very dark brown (7.5YR 2.5/3) moist; massive; very friable, nonsticky, nonplastic; 65 percent channers; moderately acid (pH 5.6)
 
 TYPE LOCATION: Nome Census Area, Alaska, latitude 63.9050870 longitude -160.8098770 degrees, datum WGS84 (Coordinates determined with a GPS unit)
 
@@ -44,7 +44,7 @@ Depth to aquic conditions--0 to 25 cm
 
 Particle Size Control Section:
 *Clay--0 to 12 percent
-*Total fragments--0 percent in the upper part of the control section, 60 to 80 percent rounded beach gravels in the lower part of the control section
+*Total fragments--0 percent in the upper part of the control section, 60 to 85 percent channers in the lower part of the control section
 
 Oe horizon
 Thickness--2 to 5 cm
@@ -90,8 +90,8 @@ Thickness--15 to 30 cm
 Value--2.5 or 3 moist, 4 or 5 dry
 Clay--2 to 10 percent
 Sand--72 to 88 percent
-Organic carbon--1to 2 percent
-Total rock fragment content--60 to 85 percent flat, rounded beach gravels
+Organic carbon--1 to 2 percent
+Total rock fragment content--60 to 85 percent channers
 Reaction--5.4 to 5.8
 
 COMPETING SERIES: none
