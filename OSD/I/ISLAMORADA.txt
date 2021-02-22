@@ -1,48 +1,110 @@
 LOCATION ISLAMORADA             FL
 
 Established Series
-Rev. GWH
+Rev. GWH/CAP/RBT
 02/2021
 
 ISLAMORADA SERIES
 
-The Islamorada Series consists of very poorly drained soils that are moderately deep to rippable coral or oolitic limestone.  Islamorada soils formed in sapric organic material.  They are on tidal areas of the Florida Keys.  Slopes are less than 1 percent.
+MLRA(s): 156A
+Soil Survey Regional Office (SSRO) Responsible: Auburn, Alabama
+Depth Class: Moderately deep
+Drainage Class: Very poorly drained
+Saturated Hydraulic Conductivity:  High to very high in the organic material and negligible in the rock material
+Index Surface Runoff: High to very high
+Parent Material: Organic materials over oolitic limestone bedrock
+Slope: 0 to 1 percent
+Elevation: -1.0 to 3 feet above mean sea level.  
+Mean Annual Air Temperature: 26 degrees C. (78 degrees F.)
+Mean Annual Precipitation: 1143 millimeters (45 inches)
 
 TAXONOMIC CLASS: Euic, isohyperthermic Typic Sulfisaprists
 
-TYPICAL PEDON:  Islamorada muck from a tidal area dominated by red mangroves.
+TYPICAL PEDON:  Islamorada muck in a tidal swamp dominated by red mangroves. (Colors are for moist soil unless otherwise stated.)
 
-     Oa1--0 to 5 inches; black (5YR 2/1) rubbed and unrubbed muck; about, 15 percent unrubbed fiber content, less than 5 percent rubbed; massive; nonsticky; about 40 percent by volume of fine and medium live roots; neutral; clear smooth boundary.
+     Oase1--0 to 13 centimeters (0 to 5 inches); black (5YR 2.5/1) muck, dark gray (5YR 4/1), dry; 20 percent unrubbed fiber content, 5 percent rubbed fiber; moderate sulfurous odor; 40 percent fine and medium live roots; neutral (pH 6.8); clear smooth boundary.
 
-     Oa2--5 to 35 inches; very dark gray (5YR 3/1) rubbed and unrubbed muck; about 35 percent unrubbed fiber content, less than 10 percent rubbed; massive; nonsticky; about 30 percent by volume of fine and medium live roots; neutral; abrupt smooth boundary.  (the Oa horizon is 20 to 50 inches thick).
+     Oase2--13 to 89 centimeters (5 to 35 inches); very dark gray (5YR 3/1) muck; 35 percent unrubbed fiber content, 10 percent rubbed fiber; moderate sulfurous odor; 30 percent by volume of fine and medium live roots; neutral (pH 6.6); abrupt smooth boundary.  [Combined thickness of the Oa horizon is 50 to 100 centimeters (20 to 39 inches thick)]
 
-     2R--35 inches; soft to hard but rippable coral limestone.
+     2R--89 centimeters (35 inches); weakly to strongly cemented oolitic limestone bedrock; solution holes up to 102 centimeters (40 inches) or more deep can be filled with sandy and/or loamy material.
 
-TYPE LOCATION:  Monroe County, Florida; Lower Matecumbe Key; 1 mile SE of Lignum Vitae Channel and 200 feet NW of U. S. Hwy. 1; SE 1/4, NE 1/4, Sec. 15, T. 64 S., R. 36 E.
+TYPE LOCATION:  Monroe County, Florida; Lower Matecumbe Key; about 1.0 mile southwest of Ligum Vitae Channel Bridge to an intersection with US Hwy. 1 and a gravel entrance; about 500 feet northwest of US Hwy. 1 and gravel intersection at about 145 degrees; about 4,710 feet at about 47 degrees northeast of the southwest corner of Sec. 15, T. 64 S., R. 36 E.; latitude 24 degrees 52 minutes 27.65 seconds N longitude, 80 degrees 42 minutes 12.54 seconds W; WSG84; USGS Upper Matecumbe Key, FL quadrangle.
 
-RANGE IN CHARACTERISTICS:  Depth to bedrock is 20 to 50 inches.  Reaction ranges from slightly acid to mildly alkaline.
+RANGE IN CHARACTERISTICS:  
+Solum thickness: 50 to 100 centimeters (20 to 39 inches)
+Depth to seasonally high water table: 0 to 15 centimeters (0 to 6 inches)
+Soil Reaction: Slightly acid to slightly alkaline throughout
+Sulfurous odor: Slight to strong throughout
+Depth of the organic material: 50 to 100 centimeters (20 to 39 inches)
+Depth to limestone bedrock: 50 to 100 centimeters (20 to 39 inches)
+Fiber content: Unrubbed 5 to 50 percent; rubbed less than 17 percent
 
-     The Oa horizon has hue of 5YR to 10 YR, value of 2 or 3,  and chroma of 1 or 2.  Texture is muck with a rubbed fiber content of less than 15 percent and an unrubbed fiber content of 15 to 35 percent.
+Particle-size control section, mineral (weighted averages):  
+Mineral content: 0 to 12 percent
 
-     The 2R horizon is soft to hard but rippable coral or oolitic limestone.
+Range of Individual Horizons:
+Oase horizon: 
+Color: hue of 5YR to 10YR or Neutral, value of 2 or 3, and chroma of 3 or less
+Texture: muck 
+EC (mmhos/cm): 16 to 32 or more
+Exchangeable Sodium: 30 to 60 percent or more
+Sodium Absorption Ratio: 30 to 60 percent or more
 
-COMPETING SERIES:  There are no series in the same family.  Competing series in similar families include the Tavernier and Keylargo Series.  Tavernier soils are shallow to limestone bedrock.  Keylargo soils are deeper to limestone bedrock.
+2R horizon: weakly to strongly cemented oolitic limestone bedrock; solution holes up to 102 centimeters (40 inches) or more deep can be filled with sandy and/or loamy material.
 
-GEOGRAPHIC SETTING:  Islamorada soils are on mangrove swamps subject to daily flooding by tides.  Elevations are dominantly at or below 1929 NGVD.  The mean annual temperature is about 75 degrees F. and the mean annual precipitation is about 50 inches.
+COMPETING SERIES:  This is the Keylargo series.  
+Keylargo soils have bedrock at depths greater than 150 centimeters (59 inches) and occur on similar landforms.
 
-GEOGRAPHICALLY ASSOCIATED SOILS:  These are the competing
-organic Keylargo and Tavernier soils on similar landforms; the poorly drained marly Cudjoe, Lignumvitae, and Keywest soils on slightly higher landforms; and the moderately well
-drained organic  Matecumbe and the somewhat poorly drained marly Saddlebunch soils on significantly higher upland landforms.
+GEOGRAPHIC SETTING:  
+Landscape: Lower Coastal Plain
+Landform(s): marine marshes, swamps, or low broad tidal flats on the Key West Islands and/or along the southern coast of the Florida Peninsula	
+Parent Material: Organic materials over oolitic limestone bedrock
+Mean annual temperature: 25 to 27 degrees C (77 to 81 degrees F)
+Mean annual precipitation: 1067 to 1778 millimeters (42 to 55 inches)
+Frost-free period: 365 days
 
-DRAINAGE AND PERMEABILITY:  These soils are very poorly drained with a highwater table at or near the surface much of the year.  Permeability is moderately rapid.
+GEOGRAPHICALLY ASSOCIATED SOILS:  
+Cudjoe soils - have a marly silt loam particle size control section and have water tables greater than 15 cm (6 inches) on slightly higher landform position
+Keywest soils - have stratification of marl and muck materials over oolitic limestone, have bedrock at depths of more than 100 centimeters (39 inches), and occur in similar landform positions.
+Lignumvitae soils have a marly silt loam particle-size control section and have water tables greater than 15 cm (6 inches) on slightly higher landforms
+Matecumbe soils have bedrock at depths less than 25 centimeters (10 inches) and occur on slightly higher similar landform positions.
+Saddlebunch soils have a marly silt loam particle-size control section, have bedrock at depths less than 50 centimeters (20 inches) and occur on slightly higher landform positions.
+Tavernier soils have bedrock at depths less than 50 centimeters (20 inches) and occur on similar landform positions.
 
-USE AND VEGETATION:  Most areas of the soil are used as wildlife habitat.  The dominate vegetation is black and red mangroves.
+DRAINAGE AND SATURATED HYDRAULIC CONDUCTIVITY:  
+Drainage class: Very poorly drained 
+Saturated hydraulic conductivity (KSAT): High to very high
+Runoff: High to very high
+Depth to seasonal high-water table: 0 to 15 centimeters (0 to 6 inches) 
+Flooding frequency and duration: very frequent and very brief from tides, also subject to flooding by storm surges and hurricanes
 
-DISTRIBUTION AND EXTENT:  Approximately 6000 acres of Islamorada soils are on the Florida Keys.  These soils may occur on other tropical islands.
+USE AND VEGETATION:  
+Major uses: wildlife habitat and water quality.  
+Dominant vegetation: black and red mangroves.
 
-MLRA SOIL SURVEY REGIONAL OFFICE (MO) RESPONSIBLE: Auburn, Alabama
+DISTRIBUTION AND EXTENT:  MLRA 156A Florida Everglades and Associated Areas. 
+Extent: limited
+
+SOIL SURVEY REGIONAL OFFICE (SSRO) RESPONSIBLE: Auburn, Alabama
 
 SERIES ESTABLISHED:  Monroe County, Florida, 1989.
+
+REMARKS: 
+These soils were formerly classified as Lithic Haplosaprists and are revised here to the twelfth edition of the keys (2014).
+Diagnostic horizons and features recognized in this Pedon:
+
+1.	Histic epipedon - 0 to 89 centimeters (0 to 35 inches) (Oase1, Oase2 horizons)
+2.	Peraquic feature - the zone from 0 to 203 centimeters (0 to 80 inches)
+3.	Lithic contact - 89 centimeters (35 inches) (2R horizon)
+4.	Aquic conditions - Endosaturation ranges from 0 to 203 centimeters (0 to 80 inches)
+5.	Sulfidic feature - the zone from 0 to 89 centimeters (0 to 35 inches) contains sulfidic materials.
+
+ADDITIONAL DATA:  
+Laboratory data is available on the National Soil Survey website at: http://ncsslabdatamart.sc.egov.usda.gov/querypage.aspx
+
+OSD User Site ID: S1988FL087007
+
+OSD User Pedon ID: S1988FL087007
 
 National Cooperative Soil Survey
 U.S.A.
