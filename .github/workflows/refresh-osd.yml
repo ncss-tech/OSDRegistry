@@ -14,7 +14,7 @@ on:
 # and: https://github.com/r-lib/actions
 jobs:
   refresh:
-    runs-on: ubuntu-20.04
+    runs-on: ubuntu-20.10
     
     steps:
     - uses: actions/checkout@v2
@@ -37,7 +37,7 @@ jobs:
           while read -r cmd
           do
             eval sudo $cmd
-          done < <(Rscript -e 'writeLines(remotes::system_requirements("ubuntu", "20.04"))')
+          done < <(Rscript -e 'writeLines(remotes::system_requirements("ubuntu", "20.10"))')
     - run: R CMD build --no-manual ../OSDRegistry
     - run: Rscript -e 'system2("R", paste0(sprintf("CMD INSTALL OSDRegistry_%s.tar.gz", read.dcf("DESCRIPTION")[,"Version"])))'
     - run: Rscript -e 'OSDRegistry::refresh_registry()'
