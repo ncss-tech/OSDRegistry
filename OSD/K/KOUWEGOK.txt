@@ -2,7 +2,7 @@ LOCATION KOUWEGOK               AK
 
 Tentative Series
 SAS
-02/2021
+03/2021
 
 KOUWEGOK SERIES
 
@@ -18,7 +18,7 @@ Soil moisture regime--aquic
 Soil temperature regime--cryic
 Soil moisture subclass--typic
 
-TAXONOMIC CLASS: Coarse-loamy over sandy or sandy-skeletal, isotic over mixed, superactive, acid Fluvaquentic Cryaquepts
+TAXONOMIC CLASS: Coarse-loamy over sandy or sandy-skeletal, isotic over mixed, superactive Cumulic Haplocryolls
 
 TYPICAL PEDON: Kouwegok stratified sandy loam on a linear, linear floodplain, on the leeward side of a coastal berm, on a slope of 0 percent at an elevation of 3 m (The soil was moist throughout the profile when described on July 12, 2015.)
 
@@ -126,7 +126,7 @@ SERIES PROPOSED: Nulato Hills BLM area, Nome Census Area, Alaska; 2020
 REMARKS:
 Diagnostic horizons and features recognized in this pedon
 *Particle-size control section--zone from 30 to 105 cm
-*Umbric epipedon--zone from 5 to 80 cm
+*Mollic epipedon--zone from 5 to 80 cm
 *Aquic conditions--zone from 12 to 49 cm
 *Lithological discontinuity--zone from 80 to 150 cm
 
