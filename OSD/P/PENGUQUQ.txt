@@ -1,8 +1,8 @@
 LOCATION PENGUQUQ               AK
 
-Tentative Series
-SAS
-01/2021
+Established Series
+SAS/TJR
+03/2021
 
 PENGUQUQ SERIES
 
@@ -13,7 +13,7 @@ Parent material--mossy organic material over cryoturbated and/or loess
 Mean annual precipitation--about 530 mm
 Mean annual air temperature--about -3 degrees C
 Depth class--very deep (very shallow to permafrost)
-Drainage class--moderately well drained
+Drainage class--moderately well drained  
 Soil moisture regime--udic
 Soil temperature regime--gelic
 Soil moisture subclass--typic
@@ -37,17 +37,17 @@ TYPE LOCATION: Nome Census Area County, Alaska, latitude 63.2821330 degrees, lon
 RANGE IN CHARACTERISTICS:
 Mean annual soil temperature-- -1 to 0 degrees C
 Soil moisture control section--dry less than 45 consecutive days in June through October (udic moisture regime)
-Thickness of folistic epipedon--40 to 75 cm
-Depth to aquic conditions--50 to 100 cm
+Thickness of folistic epipedon--40 to 75 cm 
+Depth to aquic conditions--50 to 100 cm  
 
 Particle Size Control Section:
 *Clay--5 to 18 percent
 
 Oi horizon
 Value--4 to 6 moist, 6 to 8 dry
-Chroma--3 to 8
+Chroma--3 to 8  
 Reaction--3.8 to 4.9
-Organic carbon content--35 to 55 percent
+Organic carbon content --35 to 55 percent
 Rubbed fiber content--40 to 100 percent
 Sodium pyrophosphate color value and chroma where rubbed fiber content is 40 to 75 percent--7/1, 7/2, 8/1, 8/2, 8/3
 Thickness--5 to 25 cm
@@ -105,18 +105,18 @@ GEOGRAPHICALLY ASSOCIATED SOILS:
 
 DRAINAGE AND SATURATED HYDRAULIC CONDUCTIVITY:
 *Drainage class--moderately well drained
-*Saturation during normal years--saturated from a depth of 50 to 100 cm during the growing season
+*Saturation during normal years--saturated from a depth of 50 to 100 cm during the growing season  
 *Saturated hydraulic conductivity (Ksat)--very high in the upper part of the profile, moderately high or high in the unfrozen saturated organic soil horizons, very low in the permafrost soil layers
 
 USE AND VEGETATION:
 Use--wildlife habitat, recreation, subsistence
-Potential native vegetation--dwarf birch, sphagnum moss, marsh Labrador tea, black crowberry, Bigelow's sedge, reindeer lichen, bog blueberry, cup lichen, bog rosemary, water sedge, island cetraria lichen, tussock cottongrass
+Potential native vegetation--dwarf birch, sphagnum moss, marsh Labrador tea, black crowberry, Bigelow's  sedge, reindeer lichen, bog blueberry, cup lichen, bog rosemary, water sedge, island cetraria lichen, tussock cottongrass
 
 DISTRIBUTION AND EXTENT: Nulato Hills-Southern Seward Peninsula Highlands, Alaska; MLRA 240; small extent
 
 SOIL SURVEY REGIONAL OFFICE (SSRO) RESPONSIBLE: Portland, Oregon
 
-SERIES PROPOSED: Nulato Hills BLM area, Nome Census Area, Alaska; 2020
+SERIES ESTABLISHED: Nulato Hills BLM area, Nome Census Area, Alaska; 2021
 
 REMARKS:
 Diagnostic horizons and features recognized in this pedon

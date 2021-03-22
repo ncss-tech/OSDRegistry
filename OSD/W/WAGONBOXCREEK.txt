@@ -1,15 +1,15 @@
 LOCATION WAGONBOXCREEK          AK
 
-Tentative Series
-MPS/SAS
-01/2021
+Established Series
+MPS/SAS/TJR
+03/2021
 
 WAGONBOXCREEK SERIES
 
 Landscape--lava field
 Landform--swales
 Slope--0 to 25 percent
-Parent material--volcanic ash and basalt over colluvium
+Parent material--volcanic ash and basalt over  colluvium
 Mean annual precipitation--about 475 mm
 Mean annual air temperature--about -3 degrees C
 Depth class--very deep
@@ -38,16 +38,16 @@ RANGE IN CHARACTERISTICS:
 Mean annual soil temperature--1 to 3 degrees C
 Soil moisture control section--dry less than 45 consecutive days in June through October
 Umbric epipedon thickness--25 to 57cm
-Cambic horizon thickness--15 to 45 cm
+Cambic horizon thickness--15 to 45 cm  
 Thickness of zone with andic soil properties--36 to 57cm
 
 Layers influenced by volcanic ash
-*Thickness--36 to 57 cm
+*Thickness--36 to 57 cm   
 *Phosphorous retention--85 to 100 percent
 *Bulk density--0.45 to 0.9 g/cm3
 *Ammonium oxalate Al plus 1/2 Fe--2.0 to 4.0 percent
-*Volcanic glass content--1 to 20 percent
-*8 x Si plus 2 x Fe--5 to 10 percent
+*Volcanic glass content--1 to 20 percent  
+*8 x Si plus 2 x Fe--5 to 10 percent   
 
 Particle Size Control Section:
 *Clay--3 to 12 percent
@@ -121,7 +121,7 @@ Total rock fragment content--10 to 35 percent
 Total gravel content--0 to 25 percent
 Total cobble content--0 to 35 percent
 Sodium fluoride pH--greater than or equal to 8.4
-Ratio of 1500 kPa water to measured clay--greater than or equal to 0.6
+Ratio of 1500 kPa water to measured clay--greater than or equal to 0.6 
 Reaction--5.4 to 6.3
 Thickness-75 to 90 cm
 
@@ -152,13 +152,13 @@ DISTRIBUTION AND EXTENT: Nulato Hills-Southern Seward Peninsula Highlands, Alask
 
 SOIL SURVEY REGIONAL OFFICE (SSRO) RESPONSIBLE: Portland, Oregon 
 
-SERIES PROPOSED: Nulato Hills BLM area, Nome Census Area, Alaska; 2020
+SERIES ESTABLISHED: Nulato Hills BLM area, Nome Census Area, Alaska; 2021
 
 REMARKS:
 Diagnostic horizons and features recognized in this pedon
-*Particle-size control section--zone from 9 to 109 cm
+*Particle-size control section--zone from 9 to 109 cm 
 *Umbric epipedon--zone from 9 to 40 cm
-*Cambic horizon--zone from 40 to 66 cm
+*Cambic horizon--zone from 40 to 66 cm 
 *Andic soil properties-- zone from 9 to 66 cm
 
 National Cooperative Soil Survey

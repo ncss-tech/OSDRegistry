@@ -1,8 +1,8 @@
 LOCATION ASULU                  AK
 
-Tentative Series
-SAS
-01/2021
+Established Series
+SAS/TJR
+03/2021
 
 ASULU SERIES
 
@@ -10,10 +10,10 @@ Landscape--valley
 Landform--loess covered terraces and plains
 Microfeature--polygon
 Slope--0 to 2 percent
-Parent material--cryoturbated organic material over cryoturbated loess
+Parent material--cryoturbated organic material over cryoturbated loess 
 Mean annual precipitation--about 450 mm
 Mean annual air temperature--about -3 degrees C
-Depth class--very deep (moderately deep to permafrost)
+Depth class--very deep (moderately deep to permafrost)  
 Drainage class--poorly drained
 Soil moisture regime--aquic
 Soil temperature regime--gelic
@@ -23,7 +23,7 @@ TAXONOMIC CLASS: Loamy, mixed, dysic, subgelic Terric Hemistels
 
 TYPICAL PEDON: Asulu mucky peat on an east by north-east facing convex, linear plain talf, on a slope of 2 percent at an elevation of 16 m (The soil was wet, non-satiated to 15 cm and wet, satiated to 150 cm when described on May 30, 2018.)
 
- Oi/Oajj--0 to 15 cm; peat, 97 percent reddish yellow (7.5YR 7/6) dry, strong brown (7.5YR 5/6) moist, and 3 percent gray (10YR 5/1) dry, black (10YR 2/1) moist; many very fine and common medium and fine roots; extremely acid (pH 3.9); abrupt wavy boundary
+ Oi/Oajj  --0 to 15 cm; peat, 97 percent reddish yellow (7.5YR 7/6) dry, strong brown (7.5YR 5/6) moist, and 3 percent gray (10YR 5/1) dry, black (10YR 2/1) moist; many very fine and common medium and fine roots; extremely acid (pH 3.9); abrupt wavy boundary
 
  Oe1--15 to 35 cm; mucky peat, reddish yellow (7.5YR 6/6) dry, strong brown (7.5YR 4/6) moist; many very fine and common medium and fine roots; very strongly acid (pH 4.6); clear wavy boundary
 
@@ -40,7 +40,7 @@ Mean annual soil temperature-- -2 to -1 degrees C
 Soil moisture control section--saturated between 0 and 25 cm during the growing season (aquic moisture regime)
 Thickness of combined organic layers--greater than 40 cm
 Depth to permafrost contact--50 to 75
-Depth to cryoturbation--0 to 30 cm
+Depth to cryoturbation--0 to 30 cm   
 
 Particle Size Control Section:
 *Clay--5 to 18 percent
@@ -72,7 +72,7 @@ Chroma--1 to 6
 Fine-earth texture--silt, silt loam
 Clay--8 to 18 percent
 Sand--5 to 40 percent
-Organic carbon--7 to 12 percent
+Organic carbon--7 to 12 percent  
 Reaction--4.7 to 5.7
 Thickness--5 to 35 cm
 
@@ -83,7 +83,7 @@ Chroma--1 to 6
 Fine-earth texture--permanently frozen silt, permanently frozen silt loam
 Clay--8 to 18 percent
 Sand--5 to 40 percent
-Organic carbon--7 to 12 percent
+Organic carbon--7 to 12 percent 
 Reaction--4.7 to 5.7
 
 COMPETING SERIES: None
@@ -113,11 +113,11 @@ DISTRIBUTION AND EXTENT: Nulato Hills-Southern Seward Peninsula Highlands, Alask
 
 SOIL SURVEY REGIONAL OFFICE (SSRO) RESPONSIBLE: Portland, Oregon
 
-SERIES PROPOSED: Nulato Hills BLM area, Nome Census Area, Alaska; 2020
+SERIES ESTABLISHED: Nulato Hills BLM area, Nome Census Area, Alaska; 2021
 
 REMARKS:
 Diagnostic horizons and features recognized in this pedon
-*Particle-size control section--zone from 42 to 85 cm
+*Particle-size control section--zone from 42 to 85   cm
 *Thickness of organic soil material--42 cm
 *Cryoturbation--zone from 0 to 15 cm and 42 to 150 cm
 *Depth to permafrost--60 cm

@@ -1,8 +1,8 @@
 LOCATION WILLOWCREEK            AK
 
-Tentative Series
-SAS
-01/2021
+Established Series
+MPS/SAS/TJR
+03/2021
 
 WILLOWCREEK SERIES
 
@@ -13,7 +13,7 @@ Parent material--herbaceous organic material over alluvium
 Mean annual precipitation--about 330 mm
 Mean annual air temperature--about -3 degrees C
 Depth class--very deep
-Drainage class--poorly drained
+Drainage class--poorly drained  
 Soil moisture regime--aquic
 Soil temperature regime--cryic
 Soil moisture subclass--typic
@@ -52,7 +52,7 @@ Bg (or Ag) horizon
 Hue--10YR, 2.5Y, or 5Y
 Value--3 to 5 moist, 5 to 7 dry
 Chroma--1 to 3
-Clay--5 to 12 percent
+Clay--5 to 12 percen t
 Sand--15 to 40 percent
 Organic carbon--3 to 7 percent
 Reaction--5.6 to 7.1
@@ -75,7 +75,7 @@ Hue--2.5Y, 5Y, or N
 Value--3 to 5 moist, 5 to 7 dry
 Chroma--1 to 2
 Fine-earth texture--silt loam, sandy loam, very fine sandy loam
-Clay--10 to 22 percent
+Clay--10 to 22  percent
 Sand--15 to 70 percent
 Organic carbon--0.2 to 2 percent
 Total fragments--0 to 15 percent gravels
@@ -99,8 +99,8 @@ GEOGRAPHICALLY ASSOCIATED SOILS:
 
 DRAINAGE AND SATURATED HYDRAULIC CONDUCTIVITY:
 *Drainage class--poorly drained
-*Saturation during normal years--saturated at the soil surface for at least two weeks during the growing season and saturated at a depth of 0 to 50 cm throughout the remainder of the growing season
-*Flooding--frequent, brief
+*Saturation during normal years--saturated at the soil surface for at least two weeks during the growing season   and saturated at a depth of 0 to 50 cm throughout the remainder of the growing season
+*Flooding--frequent, brief  
 *Ponding--none
 *Saturated hydraulic conductivity (Ksat)--moderately high or high throughout
 
@@ -112,14 +112,14 @@ DISTRIBUTION AND EXTENT: Nulato Hills-Southern Seward Peninsula Highlands, Alask
 
 SOIL SURVEY REGIONAL OFFICE (SSRO) RESPONSIBLE: Portland, Oregon
 
-SERIES PROPOSED: Nulato Hills BLM area, Nome Census Area, Alaska; 2020
+SERIES ESTABLISHED: Nulato Hills BLM area, Nome Census Area, Alaska; 2021
 
-REMARKS:
+REMARKS: 
 Diagnostic horizons and features recognized in this pedon
 *Particle-size control section--zone from 43 to 118 cm
 *Ochric epipedon--zone from 0 to 18 cm
 *Reduced matrix--zones from 18 to 47 cm and 63 to 150 cm
-*Aquic conditions--zone from 0 to 150 cm
+*Aquic conditions--zone from 0 to 150 cm  
 *Redoximorphic iron concentrations--zone from 47 to 150cm
 
 National Cooperative Soil Survey

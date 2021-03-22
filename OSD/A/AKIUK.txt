@@ -1,8 +1,8 @@
 LOCATION AKIUK                  AK
 
-Tentative Series
+Established Series
 SAS/MPS
-01/2021
+03/2021
 
 AKIUK SERIES
 
@@ -28,7 +28,7 @@ TYPICAL PEDON: Akiuk silt loam on a southeast facing convex, convex shoulder, on
 
  Bw--20 to 43 cm; extremely channery silt loam, pale brown (10YR 6/3) dry, brown (10YR 4/3) moist; weak medium granular structure; very friable, nonsticky, nonplastic; common very fine and medium roots; few fine irregular pores; 70 percent channers; strongly acid (pH 5.1); abrupt irregular boundary
 
- Cr--43 to 150 cm; paralithic bedrock
+ 2Cr--43 to 150 cm; paralithic bedrock
 
 TYPE LOCATION: Nome Census Area, Alaska, latitude 63.7479402 longitude -160.4340239 degrees, datum WGS84 (Coordinates determined with a GPS unit)
 
@@ -66,7 +66,7 @@ Total rock fragment content--40 to 80 percent channers
 Reaction--4.4 to 5.4
 Thickness--15 to 45 cm
 
-Cr horizon
+2Cr horizon
 
 COMPETING SERIES:
 *Gilmore--very shallow or shallow to schist paralithic bedrock, silty micaceous loess over weathered schist bedrock, pH ranges above 5.4
@@ -97,13 +97,14 @@ DISTRIBUTION AND EXTENT: Nulato Hills-Southern Seward Peninsula Highlands, Alask
 
 SOIL SURVEY REGIONAL OFFICE (SSRO) RESPONSIBLE: Portland, Oregon
 
-SERIES PROPOSED: Nulato Hills BLM area, Nome Census Area, Alaska; 2020
+SERIES ESTABLISHED: Nulato Hills BLM area, Nome Census Area, Alaska; 2021
 
 REMARKS:
 Diagnostic horizons and features recognized in this pedon
-*Particle-size control section--zone from 28 to 43cm
+*Particle-size control section--zone from 28 to 43 cm
 *Ochric epipedon--zone from 0 to 20 cm
-*Cambic horizon--zone from 20 to 43cm
-*Paralithic contact--at 43cm
+*Cambic horizon--zone from 20 to 43 cm
+*Paralithic contact--at 43 cm
+*Lithological discontinuity--at 43 cm
 National Cooperative Soil Survey
 U.S.A.

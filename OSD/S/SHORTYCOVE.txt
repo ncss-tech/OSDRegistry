@@ -1,8 +1,8 @@
 LOCATION SHORTYCOVE             AK
 
-Tentative Series
+Established Series
 MPS/SAS
-01/2021
+03/2021
 
 SHORTYCOVE SERIES
 
@@ -22,19 +22,19 @@ TAXONOMIC CLASS: Coarse-loamy, isotic, nonacid Aeric Humic Cryaquepts
 
 TYPICAL PEDON: Shortycove silt loam on a southeast facing linear, linear footslope on a slope of 7 percent at an elevation of 313 m (The soil was moist throughout the soil profile when described on September 5, 2019.)
 
- Oa--0 to 8 cm; highly decomposed plant material, brown (7.5YR 4/2) dry, very dark brown (7.5YR 2.5/2) moist; many very fine and fine roots, and common very coarse, coarse, and medium roots; slightly acid (pH 6.2); abrupt smooth boundary
+ Oa--0 to 8 cm; highly decomposed plant material, brown (7.5YR 4/2) dry, very dark brown (7.5YR 2.5/2) moist; many very fine and fine roots, and common very coarse, coarse, and medium roots; slightly strongly acid  (pH 5.3); abrupt smooth boundary
 
- A--8 to 30 cm; silt loam, brown (7.5YR 5/2) dry, dark brown (7.5YR 3/2) moist; moderate medium subangular blocky structure; friable; many very fine and common fine, medium, coarse, and very coarse roots; slightly acid (pH 6.2); abrupt wavy boundary
+ A--8 to 30 cm; silt loam, brown (7.5YR 5/2) dry, dark brown (7.5YR 3/2) moist; moderate medium subangular blocky structure; friable; many very fine and common fine, medium, coarse, and very coarse roots; slightly strongly acid (pH 5.5 ); abrupt wavy boundary
 
- Bw--30 to 43 cm; silt loam, light yellowish brown (10YR 6/4) dry, dark yellowish brown (10YR 4/4) moist; 5 percent fine strong brown (7.5YR 4/6) masses of oxidized iron; weak fine subangular blocky structure; very friable, nonsticky, slightly plastic; many very fine roots and common fine and medium roots; slightly acid (pH 6.5); clear wavy boundary
+ Bw--30 to 43 cm; silt loam, light yellowish brown (10YR 6/4) dry, dark yellowish brown (10YR 4/4) moist; 5 percent fine strong brown (7.5YR 4/6) masses of oxidized iron; weak fine subangular blocky structure; very friable, nonsticky, slightly plastic; many very fine roots and common fine and medium roots; slightly acid (pH 6.2); clear wavy boundary
 
- C--43 to 150 cm; silt loam, light yellowish brown (10YR 6/4) dry, dark yellowish brown (10YR 4/4) moist; 1 percent very fine reticulate strong brown (7.5YR 5/8) masses of oxidized iron and 20 percent medium irregular olive gray (5Y 5/2) iron depletions; massive; very firm, nonsticky, slightly plastic; 3 percent subangular gravel; slightly acid (pH 6.4)
+ C--43 to 150 cm; silt loam, light yellowish brown (10YR 6/4) dry, dark yellowish brown (10YR 4/4) moist; 1 percent very fine reticulate strong brown (7.5YR 5/8) masses of oxidized iron and 20 percent medium irregular olive gray (5Y 5/2) iron depletions; massive; very firm, nonsticky, slightly plastic; 3 percent subangular gravel; slightly acid (pH 6.2)
 
 TYPE LOCATION: Yukon Koyukuk Census Area, Alaska, latitude 63.2606900 longitude -160.2958180 degrees, datum WGS84 (coordinates determined with a GPS unit)
 
 RANGE IN CHARACTERISTICS:
 Mean annual soil temperature--0 to 3 degrees C
-Soil moisture control section--saturated for about two weeks during the growing season at a depth of 25 to 50 cm (aquic soil moisture regime)
+Soil moisture control section--saturated for about two weeks during the growing season at a depth of 25 to 50 cm (udic soil moisture regime)
 Thickness umbric epipedon--18 to 30 cm
 
 Particle Size Control Section:
@@ -54,7 +54,7 @@ Fine-earth texture--silt loam, silt
 Clay--5 to 12 percent
 Sand--5 to 30 percent 
 Organic carbon--5 to 12 percent
-Reaction--4.9 to 6.2
+Reaction--4.9 to 5.8
 Thickness--5 to 22 cm
 
 Bw horizon
@@ -110,7 +110,7 @@ DISTRIBUTION AND EXTENT: Yukon-Kuskokwim Highlands, Alaska; MLRA 230; moderate e
 
 SOIL SURVEY REGIONAL OFFICE (SSRO) RESPONSIBLE: Portland, Oregon 
 
-SERIES PROPOSED: Nulato Hills BLM area, Yukon Koyukuk Census Area, Alaska; 2020
+SERIES ESTABLISHED: Nulato Hills BLM area, Yukon Koyukuk Census Area, Alaska; 2021
 
 REMARKS:
 Diagnostic horizons and features recognized in this pedon

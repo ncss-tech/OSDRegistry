@@ -1,8 +1,8 @@
 LOCATION MOUNTMCDONALD          AK
 
-Tentative Series
+Established Series
 SAS/MPS
-01/2021
+03/2021
 
 MOUNTMCDONALD SERIES
 
@@ -28,7 +28,7 @@ TYPICAL PEDON: MountMcDonald loam on a south southwest facing convex, convex upp
 
  A2--10 to 32 cm; extremely gravelly silt loam, brown (10YR 5/3) dry, dark brown (10YR 3/3) moist; weak medium granular structure; friable, nonsticky, nonplastic; weakly smeary; few very fine roots throughout and few fine roots throughout; fine irregular pores; 30 percent angular cobbles, 45 percent angular gravel; moderately acid (pH 5.6); very abrupt irregular boundary
 
- Cr--32 to 150 cm;
+ 2Cr--32 to 150 cm;
 
 TYPE LOCATION: Nome Census Area, Alaska, latitude 63.7219539 longitude -160.1234501 degrees, datum WGS84 (Coordinates determined with a GPS unit)
 
@@ -77,7 +77,7 @@ n value--0.3 to 0.7
 Reaction--5.1 to 6.3
 Thickness--8 to 26 cm
 
-Cr horizon
+2Cr horizon
 
 COMPETING SERIES: None
 
@@ -113,12 +113,13 @@ DISTRIBUTION AND EXTENT: Nulato Hills-Southern Seward Peninsula Highlands, Alask
 
 SOIL SURVEY REGIONAL OFFICE (SSRO) RESPONSIBLE: Portland, Oregon
 
-SERIES PROPOSED: Nulato Hills BLM area, Nome Census Area, Alaska; 2020
+SERIES ESTABLISHED: Nulato Hills BLM area, Nome Census Area, Alaska; 2021
 
 REMARKS:
 Diagnostic horizons and features recognized in this pedon
 *Particle-size control section--zone from 2 to 32 cm
 *Umbric epipedon--zone from 2 to 32 cm
 *Paralithic contact--at 32 cm
+*Lithilogical discontinuity--at 32 cm
 National Cooperative Soil Survey
 U.S.A.

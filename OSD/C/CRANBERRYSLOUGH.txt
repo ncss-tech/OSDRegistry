@@ -1,8 +1,8 @@
 LOCATION CRANBERRYSLOUGH        AK
 
-Tentative Series
+Established Series
 SAS/MPS
-01/2021
+03/2021
 
 CRANBERRYSLOUGH SERIES
 
@@ -34,7 +34,7 @@ TYPICAL PEDON: Cranberryslough peat on a northwest facing linear, concave should
 TYPE LOCATION: Nome Census Area County, Alaska, latitude 63.9257024 longitude -160.7506424 degrees, datum WGS84 (Coordinates determined with a GPS unit)
 
 RANGE IN CHARACTERISTICS:
-Mean annual soil temperature-- -2 to 0 degrees C
+Mean annual soil temperature-- -2 to -1 degrees C
 Soil moisture control section--saturated at a depth of between 0 and 25 cm during the growing season (aquic moisture regime)
 Thickness of histic epipedon--20 to 40 cm
 Depth to permafrost contact--70 to 100 cm
@@ -53,7 +53,7 @@ Cg horizon
 Hue--5Y or N
 Value--4 or 5 moist, 6 or 7 dry
 Chroma--0 or 1
-Fine-earth texture--loam, silty clay loam, silt loam
+Fine-earth texture--loam, clay loam, silt loam
 Clay--15 to 30 percent
 Sand--10 to 45 percent
 Organic carbon--1 to 3 percent
@@ -99,7 +99,7 @@ DISTRIBUTION AND EXTENT: Nulato Hills-Southern Seward Peninsula Highlands, Alask
 
 SOIL SURVEY REGIONAL OFFICE (SSRO) RESPONSIBLE: Portland, Oregon
 
-SERIES PROPOSED: Nulato Hills BLM area, Nome Census Area, Alaska; 2020
+SERIES ESTABLISHED: Nulato Hills BLM area, Nome Census Area, Alaska; 2021
 
 REMARKS:
 Diagnostic horizons and features recognized in this pedon

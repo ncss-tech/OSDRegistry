@@ -1,15 +1,15 @@
 LOCATION AKPIK                  AK
 
-Tentative Series
-SAS
-02/2021
+Established Series
+SAS/TJR
+03/2021
 
 AKPIK SERIES
 
 Landscape--plains
 Landform--lava plain
 Slope--2 to 5 percent
-Parent material--loess and basalt fragments
+Parent material--loess and/or fragments residuum weathered from basalt
 Mean annual precipitation--about 500 mm
 Mean annual air temperature--about -3 degrees C
 Depth class--very deep
@@ -26,9 +26,9 @@ TYPICAL PEDON: Akpik very cobbly silt loam on an east by southeast facing convex
 
  A--7 to 19 cm; very cobbly silt loam, light yellowish brown (10YR 6/4) dry, dark yellowish brown (10YR 4/4) moist; weak fine granular structure; very friable, slightly sticky, slightly plastic; many very fine and medium and common fine roots; few fine and common medium irregular pores; 15 percent gravel, 33 percent cobble, 2 percent stone; strongly acid (pH 5.2); clear wavy boundary
 
- Cg1--19 to 53 cm; cobbly silt loam, light gray (5Y 7/1) and gray (5Y 6/1) dry, 70 percent gray (5Y 5/1) and 30 percent dark gray (5Y 4/1) moist; 25 percent coarse prominent irregular yellowish red (5YR 4/6) mottles; weak medium subangular blocky structure; friable, slightly sticky, slightly plastic; many very fine and common fine and medium roots; common medium irregular and tubular pores; 5 percent fine prominent irregular strongly cemented yellowish red (5YR 4/6) masses of oxidized iron with sharp boundaries; 10 percent gravel by volume, 20 percent cobble by volume; slightly acid (pH 6.4); diffuse wavy boundary
+ Cg1--19 to 53 cm; cobbly silt loam, light gray (5Y 7/1) and gray (5Y 6/1) dry, 70 percent gray (5Y 5/1) and 30 percent dark gray (5Y 4/1) moist; 25 percent coarse prominent irregular yellowish red (5YR 4/6) mottles; weak medium subangular blocky structure; friable, slightly sticky, slightly plastic; many very fine and common fine and medium roots; common medium irregular and tubular pores; 5 percent fine prominent irregular strongly cemented yellowish red (5YR 4/6) masses of oxidized iron with sharp boundaries; 10 percent gravel, 20 percent cobble; slightly acid (pH 6.4); diffuse wavy boundary
 
- Cg2--53 to 150 cm; extremely stony silt loam, gray (2.5Y 6/1) dry, dark gray (2.5Y 4/1) moist; 30 percent coarse prominent irregular yellowish red (5YR 4/6) mottles; weak thin platy structure; very firm, slightly sticky, slightly plastic; few medium irregular and tubular pores; 5 percent fine prominent irregular strongly cemented yellowish red (5YR 4/6) masses of oxidized iron with sharp boundaries; 10 percent gravel by volume, 20 percent cobble by volume, 30 percent stone by volume; neutral (pH 6.6)
+ Cg2--53 to 150 cm; extremely stony silt loam, gray (2.5Y 6/1) dry, dark gray (2.5Y 4/1) moist; 30 percent coarse prominent irregular yellowish red (5YR 4/6) mottles; weak thin platy structure; very firm, slightly sticky, slightly plastic; few medium irregular and tubular pores; 5 percent fine prominent irregular strongly cemented yellowish red (5YR 4/6) masses of oxidized iron with sharp boundaries; 10 percent gravel, 20 percent cobble, 30 percent stone; neutral (pH 6.6)
 
 TYPE LOCATION: Nome Census Area County, Alaska, latitude 63.2748230, longitude -161.7180400 degrees, datum WGS84 (Coordinates determined with a GPS unit)
 
@@ -112,7 +112,7 @@ DISTRIBUTION AND EXTENT: Nulato Hills-Southern Seward Peninsula Highlands, Alask
 
 SOIL SURVEY REGIONAL OFFICE (SSRO) RESPONSIBLE: Portland, Oregon
 
-SERIES PROPOSED: Nulato Hills BLM area, Nome Census Area, Alaska; 2020
+SERIES ESTABLISHED: Nulato Hills BLM area, Nome Census Area, Alaska; 2021
 
 REMARKS:
 Diagnostic horizons and features recognized in this pedon
