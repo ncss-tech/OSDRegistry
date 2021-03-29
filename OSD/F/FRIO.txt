@@ -2,7 +2,7 @@ LOCATION FRIO                   TX
 
 Established Series
 Rev. GLL-CLN-RM
-10/2020
+03/2021
 
 FRIO SERIES
 
@@ -16,11 +16,11 @@ TYPICAL PEDON:  Frio silty clay-occasionally flooded, wooded.  (Colors are for d
 
     A2--20 to 56 cm (8 to 22 in); dark grayish brown (10YR 4/2) clay loam, very dark grayish brown (10YR 3/2) moist; moderate medium and coarse subangular blocky structure parting to moderate fine subangular blocky; hard, firm; moderately sticky, moderately plastic; many fine, medium, and few coarse roots; few fine shell fragments; strong effervescence; moderately alkaline; clear smooth boundary.
 
-    A3--56 to 74 cm (22 to 29 in); dark grayish brown (10YR 4/2) silty clay loam, very dark grayish brown (10YR 3/2) moist; moderate fine and medium prismatic structure parting to moderate fine and medium subangular blocky; hard, firm; moderately sticky, moderately plastic; common fine, medium, and few coarse roots; common fine films and threads of calcium carbonate; few fine shell fragments; strong effervescence; moderately alkaline; gradual smooth boundary.
+    Bk1--56 to 74 cm (22 to 29 in); dark grayish brown (10YR 4/2) silty clay loam, very dark grayish brown (10YR 3/2) moist; moderate fine and medium prismatic structure parting to moderate fine and medium subangular blocky; hard, firm; moderately sticky, moderately plastic; common fine, medium, and few coarse roots; common fine films and threads of calcium carbonate; few fine shell fragments; strong effervescence; moderately alkaline; gradual smooth boundary.
 
-    A4--74 to 102 cm (29 to 40 in); dark grayish brown (10YR 4/2) silty clay loam, very dark grayish brown (10YR 3/2) moist; moderate fine and medium prismatic structure parting to moderate medium and coarse subangular blocky; hard, firm; moderately sticky, moderately plastic; common fine, medium, and few coarse roots; common fine films and threads of calcium carbonate; strong effervescence; moderately alkaline; gradual smooth boundary.  (Combined thickness of the A horizons is 51 to 152 cm [20 to 60 in]).
+    Bk2--74 to 102 cm (29 to 40 in); dark grayish brown (10YR 4/2) silty clay loam, very dark grayish brown (10YR 3/2) moist; moderate fine and medium prismatic structure parting to moderate medium and coarse subangular blocky; hard, firm; moderately sticky, moderately plastic; common fine, medium, and few coarse roots; common fine films and threads of calcium carbonate; strong effervescence; moderately alkaline; gradual smooth boundary.  (Combined thickness of the A horizons is 51 to 152 cm [20 to 60 in]).
 
-    Bk--102 to 203 cm (40 to 80 in) thick; grayish brown (10YR 5/2) silty clay, dark grayish brown (10YR 4/2) moist; moderate medium and coarse prismatic structure parting to weak coarse blocky; hard, firm; moderately sticky, moderately plastic; few fine, medium, and coarse roots; many fine films and threads and a few soft masses of calcium carbonate; strong effervescence; moderately alkaline.
+    Bk3--102 to 203 cm (40 to 80 in) thick; grayish brown (10YR 5/2) silty clay, dark grayish brown (10YR 4/2) moist; moderate medium and coarse prismatic structure parting to weak coarse blocky; hard, firm; moderately sticky, moderately plastic; few fine, medium, and coarse roots; many fine films and threads and a few soft masses of calcium carbonate; strong effervescence; moderately alkaline.
 
 TYPE LOCATION:  Coryell County, Texas; approximately 18 miles southeast of Gatesville, Texas.  About 5.2 miles northeast of the intersection of Texas Highways 36 and 236, along Texas Highway 236; then 100 ft west of pavement in wooded area.  This site is about 0.28 mile northeast of the north end of the Leon River Bridge in Mother Neff State Park.  
 
@@ -53,13 +53,27 @@ Calcium carbonate equivalent: 15 to 40 percent
 Effervescence: violent or strong
 Reaction (pH): slightly alkaline to moderately alkaline (7.4 - 8.4)
 
-Bk horizons: 
+Bk1 and Bk2 Horizon: 
+Hue: 7.5YR, 10YR 
+Value: 3 to 5 
+Chroma: 2 or 3 
+Texture: clay, silty clay or silty clay loam, or clay loam; Some pedons have discontinuous, light colored, loamy strata less than 8 cm (3 in) thick
+Clay content: 30 to 50 percent
+Rock fragments: 0 to 15 percent by volume; chert or limestone gravel
+Calcium Carbonate masses and concretions; 0 to 5 percent
+Calcium carbonate equivalent: 15 to 40 percent
+Effervescence: violent or strong
+Reaction (pH): slightly alkaline to moderately alkaline (7.4 - 8.4)
+
+
+Bk3 horizons: 
 Hue: 7.5YR, 10YR 
 Value: 4 or 5 
 Chroma: 2 to 4 
 Texture: clay, silty clay or silty clay loam, or clay loam
 Clay content: 30 to 50 percent 
 Rock fragments: 0 to 15 percent by volume; chert or limestone gravel
+Calcium Carbonate masses and concretions; 5 to 30 percent
 Calcium carbonate equivalent: 15 to 40 percent 
 Sodium adsorption ratio: 0 to 2 
 Effervescence: violent or strong
@@ -115,13 +129,15 @@ REMARKS:  The control section averages 34.1 percent silicate clay and 35.6 perce
 
 11/2014 RFG/SCP: Changed to tabular format and included metric values.  Updated competing series, geographic setting, and associated soils sections. 
 
+03/2021 CMR/SCP: Changed A3 and A4 horizons to Bk1 and Bk2 horizons based on the soil structure and secondary carbonates. Added calcic horizon to diagnostic horizons and features based on described carbonate masses and concretions.
+
 Diagnostic horizons and features recognized in this pedon are:
 
-Mollic epipedon: 0 to 102 cm (0 to 40 in). (A1, A2, A3, and A4 horizons)
+Mollic epipedon: 0 to 102 cm (0 to 40 in). (A1, A2, Bk1, and Bk2 horizons)
 
-Cambic horizon: 102 to 203 cm (40 to 80 in). (Bk horizons)
+Calcic horizon: 102 to 203 cm (40 to 80 in). (Bk3 horizon)
 
-Identifiable secondary calcium carbonate:  56 to 203 cm (22 to 80 in) (A3, A4, Bk horizons)
+Identifiable secondary calcium carbonate:  56 to 203 cm (22 to 80 in) (Bk1, Bk2, Bk3 horizons)
 
 ADDITIONAL DATA:  KSSL-Coryell County, Texas; User Pedon ID: 80TX099003, Lab Pedon #: 81P0099 (horizons 510-515).
 

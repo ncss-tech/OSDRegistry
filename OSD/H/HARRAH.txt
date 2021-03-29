@@ -1,14 +1,14 @@
-LOCATION HARRAH                 OK 
+LOCATION HARRAH                 OK
 
 Established Series
 Rev. CRC:CEW:AMS
-04/2018
+03/2021
 
 HARRAH SERIES
 
-The Harrah series consists of spoils that are very deep to sandstone, well drained soils. They formed from sandy and loamy colluvium weathered from sandstone of Permian age. These soils are on backslopes and foot slopes of low hills in the Northern Cross Timbers (MLRA 84A). Slope ranges from 3 to 45 percent. Mean annual air temperature is 15 degrees C (59 degrees F), and mean annual precipitation is 860 mm (34 in). 
+The Harrah series consists of soils that are very deep to sandstone bedrock, well drained soils that formed in sandy and loamy colluvium weathered from sandstone of Permian age. Harrah soils are on backslopes and foot slopes of hillslopes on low hills. The slope range is 3 to 45 percent. Mean annual air temperature is about 15 degrees C (59 degrees F) and mean annual precipitation is about 860 mm (34 in). 
 
-TAXONOMIC CLASS: Fine-loamy, siliceous, active, thermic Ultic Paleustalfs 
+TAXONOMIC CLASS: Fine-loamy, siliceous, active, thermic Ultic Paleustalfs
 
 TYPICAL PEDON: Harrah fine sandy loam, on a 6 percent convex east facing slope, in a severely eroded field reseeded to native grasses, at an elevation of 344 m (1130 ft).  (Colors are for dry soil unless otherwise stated.) 
 
@@ -20,9 +20,9 @@ TYPICAL PEDON: Harrah fine sandy loam, on a 6 percent convex east facing slope, 
 
     Bt2--86 to 132 cm (34 to 52 in); red (2.5YR 5/8) sandy clay loam, red (2.5YR 4/8) moist; moderate medium prismatic structure parting to moderate medium blocky; hard, firm; common distinct clay films on faces of peds; about 5 percent by volume uncoated sand grains on vertical faces of peds and in pores; moderately acid; gradual wavy boundary. (30 to 114 cm [12 to 45 in] thick) 
 
-    Bt3b--132 to 193 cm (52 to 76 in); red (2.5YR 4/6) sandy clay loam, dark red (2.5YR 3/6) moist; moderate medium prismatic structure parting to moderate medium blocky; hard, firm; common distinct clay films on faces of peds; about 20 percent by volume of uncoated sand grains on vertical faces of peds and in pores; moderately acid; gradual wavy boundary. (0 to 71 cm [0 to 28 in] thick) 
+    Btb1--132 to 193 cm (52 to 76 in); red (2.5YR 4/6) sandy clay loam, dark red (2.5YR 3/6) moist; moderate medium prismatic structure parting to moderate medium blocky; hard, firm; common distinct clay films on faces of peds; about 20 percent by volume of uncoated sand grains on vertical faces of peds and in pores; moderately acid; gradual wavy boundary. (0 to 71 cm [0 to 28 in] thick) 
 
-    Bt4b--193 to 218 cm (76 to 86 in); red (2.5YR 4/6) sandy clay loam, dark red (2.5YR 3/6) moist; moderate medium blocky structure; hard, firm; common faint clay films on faces of peds; few fine dark concretions; about 10 percent by volume of uncoated sand grains on vertical faces of peds and in pores; slightly acid. 
+    Btb2--193 to 218 cm (76 to 86 in); red (2.5YR 4/6) sandy clay loam, dark red (2.5YR 3/6) moist; moderate medium blocky structure; hard, firm; common faint clay films on faces of peds; few fine dark concretions; about 10 percent by volume of uncoated sand grains on vertical faces of peds and in pores; slightly acid. 
 
 TYPE LOCATION: Cleveland County, Oklahoma; about 10 miles east and 2.6 miles north of U.S. Highway 77 and Robinson Street intersection in Norman; about 2,350 feet south and 900 feet east of the northwest corner of sec. 12, T. 9 N., R. 1 W. 
 
@@ -111,9 +111,9 @@ Landform: convex hillslopes, backslopes and foot slopes
 Slope: 3 to 45 percent 
 Mean annual temperature: 14 to 18 degrees C (58 to 62 degrees F) 
 Thornthwaite Annual P-E indices: 48 to 64 
-Mean annual precipitation: 760 to 970 mm (30 to 38 in) 
+Mean annual precipitation: 760 to 1,075 mm (30 to 42 in) 
 Frost-free period: 190 to 220 days 
-Elevation: 305 to 396 m (1,000 to 1,300 ft) 
+Elevation: 213 to 457 m (699 to 1,499 ft) 
 
 GEOGRAPHICALLY ASSOCIATED SOILS: These are the similar Littleaxe and Stephenville series and Darnell, Darsil, Newalla, Pulaski, and Tribbey series. 
 Darnell and Darsil soils: are mainly on shoulders of hillslopes, do not have an argillic horizon and are less than 51 cm (20 in) thick over sandstone 
@@ -142,12 +142,8 @@ REMARKS:
 These soils were formerly included in the Dougherty, Konawa, and Stephenville series in earlier surveys. 
 
 Diagnostic horizons and features recognized in this pedon are: 
-Ochric epipedon: 0 to 23 cm (0 to 9 in) (A horizon) 
+Ochric epipedon: 0 to 48 cm (0 to 19 in) (Ap and E horizons) 
 Argillic horizon: 48 to 218 cm (19 to 86 in) (Bt horizons) 
-
-Minor revisions and formatting done by JLD, 05/2007. 
-
-Edited 03/2018 (JAD-AMS) Changed to tabular format. Updated pedon description, range in characteristics, and other sections.
 
 ADDITIONAL DATA: Kellogg Soil Survey Lab. Lab No. 88OK03701 and 88OK03702. Laboratory data is available from Oklahoma State University, Stillwater, Oklahoma. Sample No. 78-OK-14-31 (1-8). 
 
