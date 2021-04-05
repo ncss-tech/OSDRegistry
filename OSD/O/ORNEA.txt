@@ -2,7 +2,7 @@ LOCATION ORNEA                  ID
 
 Established Series
 Rev.  CWT/ALH/CLM
-10/2002
+03/2021
 
 ORNEA SERIES
 
@@ -22,7 +22,7 @@ TYPICAL PEDON:  Ornea gravelly loam -- rangeland; on a 2 percent northwest-facin
 
     2C--26 to 65 inches; variegated extremely gravelly coarse sand; single grain, loose; few very fine roots; 75 percent gravel; slightly effervescent; moderately alkaline (pH 8.2).
 
-TYPE LOCATION:  Owyhee County, Idaho; about 5 miles east of Oreana; about 2,500 feet north and 500 feet west of the southeast corner of section 36, T.4 S., R.1 E.
+TYPE LOCATION:  Elmore County, Idaho; about 5 miles east of Oreana; about 2,500 feet north and 500 feet west of the southeast corner of section 36, T.4 S., R.1 E.
 
 RANGE IN CHARACTERISTICS:
 
@@ -38,13 +38,11 @@ Value - 6 to 8 dry, 5 or 6 moist
 Chroma - 2 to 4 dry or moist
 Texture - GR-SCL, GR-L, or GR-CL
 Reaction (pH) - mildly to strongly alkaline
-Calcium carbonate equivalent in Btk - 15 to 20 percent
 
 2Bk and 2C horizons
 Texture - GRV-LS, GRV-S, GRV-COS, GRX-LS, GRX-S, GRX-COS, CBV-S, or CBX-COS
 Rock fragment content - 35 to 80 percent
 Reaction (pH) - moderately or strongly alkaline
-Calcium carbonate equivalent in 2Bk - 15 to 20 percent
 
 COMPETING SERIES:  These are the Ethete, Garland, Hough, and Sharland series.  Ethete and Garland soils are greater than 20 inches deep to contrasting textures.  Hough soils have less than 35 percent rock fragments within 40 inches.  Sharland soils are moist in the moisture control section for 30 to 60 days in May and June, and are dry the rest of the year.
 
@@ -65,8 +63,6 @@ SERIES ESTABLISHED:  Elmore County Area, Idaho, 1986.
 REMARKS:  Diagnostic horizons and other features recognized in this pedon are:
 
 Argillic horizon - the zone from 5 to 12 inches (Bt and Btk horizons)
-
-Calcic horizon - the zone from 9 to 26 inches (Btk and 2Bk horizons)
 
 Particle-size control section - the zone from 5 to 40 inches (Bt, Btk, 2Bk, and part of 2C horizons)
 
