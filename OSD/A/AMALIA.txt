@@ -1,8 +1,8 @@
 LOCATION AMALIA                 NM+CO
 
 Established Series
-Rev. LWH/AJS/JWB
-04/2009
+Rev. LWH/AJS/SJJ
+04/2021
 
 AMALIA SERIES
 
@@ -26,7 +26,7 @@ TYPE LOCATION:  Taos County, New Mexico, 3.1 miles northeast of Amalia on the no
 
 RANGE IN CHARACTERISTICS:
 
-Soil Moisture:  Intermittently moist December through March and July through October; aridic (torric) moisture regime bordering on ustic.
+Soil Moisture:  Intermittently moist December through March, and July through October; ustic moisture regime, bordering on aridic.
 
 Soil Temperature:  41 to 47 degrees F.
 
@@ -69,7 +69,7 @@ GEOGRAPHICALLY ASSOCIATED SOILS:  These are Manzano and Tenorio soils.  Manzano 
 
 DRAINAGE AND PERMEABILITY:  Well drained; high runoff; moderate permeability.
 
-USE AND VEGETATION:  Used for rangeland and wildlife.  Present vegetation is blue grama, big sagebrush, pinyon pine and juniper.
+USE AND VEGETATION:  Used for rangeland and wildlife.  Present vegetation is bluegrama, big sagebrush, pinyon pine and juniper.
 
 DISTRIBUTION AND EXTENT:  High intermountain valleys of north-central New Mexico and South Central Colorado.  The series is of small extent.
 
@@ -85,9 +85,7 @@ Argillic horizon - the zone from 3 to 17 inches. (Bt horizons)
 
 Calcic Horizon - the zone from 17 to 65 inches. (Bk horizon)
 
-Borollic feature - the soil meets the organic carbon requirements for Borollic, and the soil moisture regime is Aridic bordering on Ustic.
-
-After reviewing the climatic data from Northeast New Mexico and South Central Colorado, the soil moisture regime is aridic ustic, 7/08.  The previous classification was Ustic Calciargids.
+After reviewing the climatic data from Northeast New Mexico and South Central Colorado, the soil is aridic-ustic. 07/2008.  The previous classification was Ustic Calciargids.
 
 National Cooperative Soil Survey
 U.S.A.
