@@ -1,105 +1,62 @@
 LOCATION HUNTINGTON             WV+AL IL IN KY MD MI OH PA TN VA
 
 Established Series
-Rev. MDJ
-02/2009
+Rev. DJB-JRT
+04/2021
 
 HUNTINGTON SERIES
 
-MLRA(s): 111A, 114A, 114B, 115A, 120A, 120B, 120C, 121, 122, 123, 124, 125 126, 128, 147, 148
-Depth Class: Very Deep
-Drainage Class: Well Drained
-Saturated Hydraulic Conductivity: Moderately High to High
-Permeability Class (obsolete): Moderate
-Landscape: Flood Plains
-Parent Material: Alluvium
-Slope: 0 to 15 percent but dominantly 0 to 5 percent
-Mean Annual Air Temperature (type location): 13 degrees C (56 degrees F)
-Mean Annual Precipitation (type location): 990 mm (39 inches)
+The Huntington series consists of very deep, well drained soils that formed in alluvium derived from shale, sandstone, and limestone on river valley flood plains. Saturated hydraulic conductivity is moderately high or high. Slopes range from 0 to 15 percent but are mainly 0 to 5 percent. Mean annual precipitation is about 1300 mm, and mean annual temperature is about 14 degrees C.
 
 TAXONOMIC CLASS: Fine-silty, mixed, active, mesic Fluventic Hapludolls
 
-TYPICAL PEDON:  Huntington silt loam, on a 2 percent slope in a hay field.  (Colors are for moist soil unless otherwise noted)
+TYPICAL PEDON: Huntington silt loam, occasionally flooded on a 1 percent slope in a cultivated field. (Colors are for moist soil unless otherwise noted)
 
- Ap--0 to 27 centimeters (0 to 11 inches); very dark grayish brown (10YR 3/2), (rubbed) silt loam; moderate medium granular structure; friable; many fine roots; moderately acid; abrupt smooth boundary.  (25 to 35 centimeters or 10 to 14 inches thick)
+ Ap--0 to 28 cm; very dark grayish brown (10YR 3/2) silt loam, brown (10YR 5/3) dry; weak fine granular structure; very friable; many medium roots and many fine roots; slightly acid, pH 6.3; clear wavy boundary. (25 to 36 centimeters thick)
 
- Bwl--27 to 50 centimeters (11 to 20 inches; dark grayish brown (10YR 4/2) silt loam; very dark grayish brown (10YR 3/2) ped faces; weak medium subangular blocky structure; friable; many fine roots; slightly acid; gradual wavy boundary.
+ Bw1--28 to 56 cm; brown (10YR 4/3) silty clay loam; weak fine subangular blocky structure; friable; common fine roots; neutral, pH 7.0; clear smooth boundary.
 
- Bw2--50 to 162 centimeters (20 to 64 inches); brown (10YR 4/3) silt loam; dark brown (10YR 3/3) ped faces; weak medium and coarse subangular blocky structure; firm; few fine roots in upper part; slightly acid; gradual wavy boundary.  (combined thickness of Bw horizons is 25 to 150 centimeters or 10 to 50 inches)
+ Bw2--56 to 79 cm; brown (10YR 4/3) silt loam; moderate medium subangular blocky structure; friable; common fine roots; common faint dark grayish brown (10YR 4/2) silt coats on faces of peds; moderately acid, pH 5.8; clear wavy boundary.
 
- C--162 to 175 centimeters (64 to 74 inches); brown (7.5YR 4/4) sandy clay loam; massive; friable; moderately acid.
+ Bw3--79 to 112 cm; dark yellowish brown (10YR 4/4) silt loam; weak coarse subangular blocky structure; friable; few fine roots; common distinct dark grayish brown (10YR 4/2) silt coats on faces of peds; moderately acid, pH 5.8; gradual wavy boundary.
 
-TYPE LOCATION: Wood County, West Virginia; 225 yards south of Belleville, 450 yards west of State Route No. 2
+ Bw4--112 to 152 cm; dark yellowish brown (10YR 4/4) silty clay loam; weak coarse subangular blocky structure; firm; common medium pores; common medium worm casts; moderately acid, pH 5.8; gradual wavy boundary. (Combined thickness of Bw horizons is 25 to 150 centimeters)
 
-RANGE IN CHARACTERISTICS:
+ C--152 to 165 cm; dark yellowish brown (10YR 4/4) loam; massive; friable; thin lenses of fine sandy loam and loamy fine sand; neutral, pH 7.0.
 
-Depth to the top of the Argillic, Cambic, Spodic, Fragipan, etc.: 25 to 67 cm (10 to 24 inches)
-Solum Thickness: 100 to 175 cm (40 to 70 inches)
-Depth to Bedrock: greater than 200 cm (80 inches)
-Depth to Seasonal High Water Table: Greater than 150 cm (60 inches)
-Depth to Lithologic Discontinuity: Greater than 200 centimeters (80 inches)
-Rock Fragment content: Less than 3 percent in the solum.  0 to 30 percent in the C horizon
-Soil Reaction: Moderately acid to moderately alkaline (pH - 5.6 to 7.8)
-Other soil features: Mica flakes are common in many pedons.
+TYPE LOCATION: Mason County, West Virginia; about 5 miles southwest of the intersection of highways  US-35 and  WV-2 and 0.5 mile west of  WV-2; Gallipolis, Ohio USGS topographic quadrangle; lat. 38 degrees 47 minutes 16 seconds N. and long. 82 degrees 12 minutes 51 seconds W., WGS84.
 
-A or Ap horizon
-Color--hue of 10YR or 7.5YR, value of 2 or 3, and chroma of 1, 2, or 3.
-Texture (fine earth fraction)--dominantly silt loam, ranges to silty clay loam and loam.
+RANGE IN CHARACTERISTICS: Thickness of the solum ranges from 100 to 175 cm. Depth to the top of the cambic horizon is 25 to 67 cm. Coarse fragment content is less than 3 percent in the solum and from 0 to 14 percent in the C horizon. Reaction is moderately acid to moderately alkaline throughout.
 
-AB or BA horizon (where present)
-Color--hue of 10YR or 7.5YR, value of 4 or 5, and chroma of 2 or 3 in ped interiors.  Ped surface colors are similar to the matrix colors of the A or Ap horizon.
+The A or Ap horizon has hue of 10YR or 7.5YR, value of 2 or 3 (5 or less dry), and chroma of 1 through 3. It is most commonly silt loam, but the range includes silty clay loam and loam.
 
-Bw horizon
-Color--hue of 10YR or 7.5YR, value of 4 or 5, and chroma of 3 or 4.  Ped coatings commonly have value of 3, but range from 2 through 4.
-Texture (fine earth fraction)--silt loam or silty clay loam.  Clay content averages less than 30 percent.
+The AB or BA horizon (where present) has hue of 10YR or 7.5YR, value of 4 or 5, and chroma of 2 or 3 in ped interiors. Ped surface colors are similar to the matrix colors of the A or Ap horizon.
 
-C horizon
-Color--hue of 10YR or 7.5YR, value of 4 or 5, and chroma of 3 or 4.  Ped coatings commonly have value of 3, but range from 2 through 4.
-Texture (fine earth fraction)--silt loam, fine sandy loam, loam, fine sand, silty clay loam, and sandy clay loam.  Commonly contains more sand than the Bw horizon and is stratified.
+The Bw horizon has hue of 10YR or 7.5YR, value of 4 or 5, and chroma of 3 or 4. Ped coatings commonly have value of 3 but range from 2 through 4. It is silt loam or silty clay loam. Clay content averages less than 30 percent.
 
-COMPETING SERIES:  Dapue is the only other series in this family.  Armiesburg and Omadi are in closely related families.  Dapue soils have a thicker solum.  Armiesburg soils contain more than 30 percent clay in the Bw horizon.  Omadi soils contain free carbonates and have solum thickness of less than 20 inches.
+The C horizon has hue of 10YR or 7.5YR, value of 4 or 5, and chroma of 3 or 4. Ped coatings commonly have value of 3 but range from 2 through 4. It is fine sandy loam, sandy clay loam, loam, silt loam, and silty clay loam, and can include thin lenses of fine sand and loamy fine sand. It can be stratified. The C horizon typically contains more sand than the Bw horizon.
 
-GEOGRAPHIC SETTING:
-Geographic Setting: River Valley
-Landform: Flood plain
-Geomorphic Component: Base slope
-Hillslope Profile Position: Toeslope
-Parent Material: Alluvium washed from shale, sandstone, and limestone
-Slope: 0 to 15 percent
-Elevation: 50 to 550 meters (150 to 1800 feet)
-Frost-free period: 150 to 200 days
-Mean Annual Air Temperature: 8 to 15 degrees C (47 to 59 degrees F)
-Mean Annual Precipitation: 890 to 1400 mm (35 to 55 inches)
+COMPETING SERIES: This is the Dapue series. Dapue soils have a thicker solum and do not have moderately alkaline or slightly alkaline reaction.
 
-GEOGRAPHICALLY ASSOCIATED SOILS:  These are the Allegheny, Ashton, Chagrin, Dunning, Kanawha, Lindside, Melvin, Monongahela, Newark, Sciotoville, and Wheeling soils.  The Allegheny, Monongahela.  Sciotoville, and Wheeling soils have argillic horizons and are on stream terraces.  Ashton and Kanawha soils are well drained and are on low stream terraces on high flood plains.  The Chagrin, Dunning, Lindside, Melvin, and Newark soils are on flood plains.  Chagrin soils are well drained; Lindside soils are moderately well drained; Newark soils are somewhat poorly drained; and Melvin and Dunning soils are poorly drained.
+GEOGRAPHIC SETTING: Huntington soils are on nearly level flood plains of river valleys. Slope gradient is dominantly 0 to 5 percent but ranges up to 15 percent. These soils formed in silty alluvium derived from shale, sandstone, and limestone. Elevations are 50 to 550 meters. Mean annual temperature ranges from 8 to 15 degrees C., and mean annual precipitation ranges from 890 to 1400 mm.
 
-DRAINAGE AND PERMEABILITY:
-Drainage Class (Agricultural): Well
-Internal Free Water Occurrence: Greater than 150 cm (60 inches)
-Index Surface Runoff: Medium
-Saturated Hydraulic Conductivity: moderately high to high
-Permeability Class (obsolete): moderate.
-Flooding Frequency and Duration:  Rare to occasional with brief duration
-Ponding Frequency and Duration:  None
+GEOGRAPHICALLY ASSOCIATED SOILS: These are the Allegheny, Ashton, Chagrin, Dunning, Gallipolis, Kanawha, Lindside, Melvin, Monongahela, Newark, Sciotoville and Wheeling soils. The Allegheny, Gallipolis, Monongahela, Sciotoville, and Wheeling soils have argillic horizons and are on stream terraces above flood plain elevations. Ashton and Kanawha soils have argillic horizons and are on low stream terraces or high flood plains. Occupying similar flood plain levels as the Huntington soils are the poorly drained Dunning and Melvin soils, the moderately well drained Lindside soils, and the somewhat poorly drained Newark soils. The well drained Chagrin soils also occupy similar floodplain levels but have more sand in the subsoil than the Huntington soils and lack a mollic epipedon.
 
-USE AND VEGETATION:
-Major Uses: Most areas are in crops or pasture.
-Original Vegetation: Where cultivated--hay, corn, soybeans.  Where wooded--mixed hardwoods.
+DRAINAGE AND SATURATED HYDRAULIC CONDUCTIVITY: Well drained. Saturated hydraulic conductivity is moderately high or high. Flooding frequency is rare to occasional with brief duration, and typically occurs in winter and/or spring. It is not subject to ponding.
 
-DISTRIBUTION AND EXTENT:
-Distribution: Large (approximately 120,000 ha or 300,000 acres)
-Extent: West Virginia, Alabama, Pennsylvania, Maryland, Virginia, Ohio, Kentucky, Indiana, Illinois, Michigan, and Tennessee.
+USE AND VEGETATION: Huntington soils are mostly used for crops or pasture. Principle crops are corn and soybeans. Native vegetation consisted of flood-tolerant hardwood species such as eastern cottonwood, American sycamore, silver maple, and black willow.
 
-MLRA SOIL SURVEY REGIONAL OFFICE (MO) RESPONSIBLE: Morgantown, West Virginia
+DISTRIBUTION AND EXTENT: West Virginia, Alabama, Illinois, Indiana, Kentucky, Maryland, Michigan, Ohio, Pennsylvania, Tennessee, and Virginia. The series concept was developed in MLRA 126, but it also occurs in MLRAs 111A, 114A, 114B, 115A, 120A, 120B, 120C, 121, 122, 123, 124, 125, 128, 147, and 148. These soils are extensive, with about 290,000 acres of the series mapped. Most areas in Alabama and Tennessee mapped as Huntington were correlated in pre-Soil Taxonomy soil surveys and the series extent will decrease as these areas are updated utilizing thermic series. 
 
-SERIES ESTABLISHED:  Wheeling area, West Virginia, 1906.
+SOIL SURVEY REGIONAL OFFICE (SSRO) RESPONSIBLE: Morgantown, West Virginia
 
-Diagnostic horizons recognized in this profile are:
+SERIES ESTABLISHED: Wheeling area, West Virginia, 1906.
 
-a.  Mollic epipedon - The zone from 0 to 27 cm (0 to 11 inches) (Ap horizon).
-b.  Cambic horizon - The zone from 27 to 162 centimeters (11 to 64 inches) (Bw1 and Bw2 horizons).
-
-REMARKS:  old revision LDS-WFH 12/1999.  2/2009 revision update states where series is mapped and change formatting.
+REMARKS: Diagnostic horizons recognized in this pedon are:
+Mollic epipedon--the zone from 0 to 28 cm (Ap horizon)
+Cambic horizon--the zone from 28 to 152 cm (Bw1, Bw2, Bw3, and Bw4 horizons)
+The 3/2021 revision relocates the type location (previous type location was disturbed due to urbanization), updates the competing series section, and converts units from English to metric.
+Previous revisions: 12/1999-LDS, WFH; 02/2009-MDJ
 
 National Cooperative Soil Survey
 U.S.A.
