@@ -71,7 +71,7 @@
       file_name <- list.files(target_dir, "osddwn.*zip$")
       Sys.sleep(1)
       ncycle <- ncycle + 1
-      if(ncycle > 120)
+      if(ncycle > 240)
         break;
     }
     
