@@ -1,0 +1,160 @@
+LOCATION LEDUMHILL              CA
+
+Established Series
+CES/JBB
+05/2021
+
+LEDUMHILL SERIES
+
+The Ledumhill series consists of very deep, poorly drained soils formed in organic material over alluvium, slope alluvium, and till derived from granitic rocks. The Ledumhill soils are on seeps on glacial valley floors and basins of the Sierra Nevada Mountains. Slopes range from 2 to 20 percent. The mean annual precipitation is about 985 mm and the mean annual air temperature is about 2 degrees C.
+
+TAXONOMIC CLASS: Sandy-skeletal, isotic Aquandic Cryaquepts
+
+TYPICAL PEDON: Ledumhill bouldery loamy sand on a southwest-facing (220 degree), 10 percent slope under Labrador tea and Sierra lodgepole pine at an elevation of 3078 meters. (Colors are for dry soils unless otherwise noted. When described on July 22, 2013 the soil was moist to 45 cm, and wet,satiated from 45 to 150 cm. Water table was observed at 45 cm.)
+
+ Oe--0 to 5 cm; very dark brown (10YR 2/2) mucky peat, black (10YR 2/1) moist; very strongly acid (pH 5.0); clear smooth boundary. (5 to 15 cm thick)
+
+ A--5 to 20 cm; grayish brown (10YR 5/2) bouldery loamy sand, very dark grayish brown (10YR 3/2) moist; 4 percent clay; weak fine granular structure; soft, very friable, nonsticky, nonplastic; common very fine and fine roots throughout; many very fine irregular pores; 5 percent subrounded indurated granite gravel, 1 percent subrounded indurated granite cobbles, 10 percent subrounded indurated granite boulders; NaF pH 8.0; very strongly acid (pH 5.0); clear smooth boundary. (10 to 20 cm thick)
+
+ Bw1--20 to 45 cm; brown (7.5YR 5/3) bouldery sandy loam, dark brown (7.5YR 3/3) moist; 12 percent clay; weak medium angular blocky structure; soft, very friable, slightly sticky, nonplastic; common fine, medium, and coarse roots throughout; many fine irregular pores; 5 percent medium distinct irregular masses of reduced iron and 15 percent medium prominent irregular masses of oxidized iron in matrix; 5 percent subrounded indurated granite gravel, 5 percent subrounded indurated granite cobbles, 10 percent subrounded indurated granite boulders; NaF pH 8.5; very strongly acid (pH 5.0); clear smooth boundary.
+
+ Bw2--45 to 70 cm; brown (7.5YR 5/3) bouldery loamy sand, dark brown (7.5YR 3/3) moist; 5 percent clay; weak medium angular blocky structure; soft, very friable, nonsticky, nonplastic; common fine and medium roots throughout; many fine irregular pores; 10 percent medium distinct irregular masses of reduced iron and 20 percent medium prominent irregular masses of oxidized iron in matrix; 5 percent subrounded indurated granite gravel, 5 percent subrounded indurated granite cobbles, 10 percent subrounded indurated granite boulders; NaF pH 9.5; strongly acid (pH 5.2); clear smooth boundary. (Combined thickness of Bw horizons is 30 to 60 cm)
+
+ C--70 to 85 cm; brown (10YR 5/3) bouldery loamy sand, brown (10YR 4/3) moist; 5 percent clay; structureless single grain; loose, loose, nonsticky, nonplastic; common fine roots throughout; many fine irregular pores; 15 percent medium prominent irregular masses of oxidized iron in matrix; 5 percent subrounded granite gravel, 5 percent subrounded granite cobbles, 20 percent subrounded granite boulders; NaF pH 9.5; strongly acid (pH 5.2); clear smooth boundary. (15 to 60 cm thick)
+
+ Cg--85 to 150 cm; light brownish gray (2.5Y 6/2) extremely bouldery loamy sand, dark gray (2.5Y 4/1) moist; 5 percent clay; structureless single grain; loose, loose, nonsticky, nonplastic; many fine irregular pores; reduced matrix; 10 percent subrounded indurated granite gravel, 20 percent subrounded indurated granite cobbles, 20 percent subrounded indurated granite stones, 20 percent subrounded indurated granite boulders; NaF pH 9.5; strongly acid (pH 5.2).
+
+TYPE LOCATION: Fresno County, California, about 840 m NNW of junction of Taboose Pass Trail and John Muir Trail, 230 m SE of South Fork of Kings River;  USGS 7.5 minute topographic quadrangle: Mount Pinchot, California;  WGS84 36.969212 latitude and -118.441631 longitude;  UTM zone 11 4092427 meters N 371675 meters E WGS84.
+
+RANGE IN CHARACTERISTICS:
+Soil temperature: The mean annual soil temperature at 50 cm is 0 to 6 degrees C and the difference between mean summer and mean winter soil temperature is more than 6 degrees C. The soils have a cryic temperature regime.
+
+Soil moisture: The soil is saturated in some part throughout the year, with a seasonal high water table dropping below 50 cm in late summer and fall. The soils have an aquic soil moisture regime.
+
+Diagnostic Feature(s):
+  Umbric epipedon thickness: 25 to 50 cm
+  Aquic conditions: present within 50 cm of soil surface
+
+Organic matter: 2 to 20 percent in the epipedon
+
+Reaction: moderately to very strongly acid
+
+Base saturation: less than 50 percent in the epipedon (by ammonium acetate)
+
+Depth to redoximorphic features: 10 to 40 cm
+
+
+Particle size control section weighted average:
+
+  Rock fragments: 35 to 60 percent, with 5 to 35 percent gravel, 5 to 35 percent cobbles, 0 to 35 percent stones and 0 to 35 percent boulders.
+  Clay content: 1 to 12 percent 
+  NaF pH: 8.0 to 11.0
+
+Oe horizon
+  Hue: 5YR, 7.5YR, 10YR
+  Value: 2 or 3, dry or moist
+  Chroma: 1 or 2, dry or moist
+  Texture: mucky peat
+  Clay content: 0 to 5 percent
+  Rock fragments: 0 to 15 percent
+	0 to 5 percent gravel
+	0 to 5 percent cobbles
+	0 to 5 percent stones
+	0 to 5 percent boulders
+
+A horizon
+  Hue: 7.5YR, 10YR
+  Value: 4 or 5 dry, 2 or 3 moist
+  Chroma: 2 dry, 1 or 2 moist
+  Texture: sand, loamy sand, sandy loam
+  Clay content: 1 to 6 percent
+  Rock fragments: 5 to 35 percent
+	5 to 15 percent gravel
+	0 to 15 percent cobbles
+	0 to 15 percent stones
+	0 to 15 percent boulders
+
+Bw horizon(s)
+  Hue: 7.5YR, 10YR
+  Value: 4 to 6 dry, 3 to 5 moist
+  Chroma: 3 or 4 dry, 2 or 3 moist
+  Texture: loamy coarse sand, loamy sand, sandy loam
+  Clay content: 1 to 12 percent
+  Rock fragments: 20 to 60 percent
+	5 to 35 percent gravel
+	5 to 15 percent cobbles
+	0 to 15 percent stones
+	0 to 15 percent boulders
+  Redoximorphic Features: 
+	Oxidized iron masses in matrix
+		Quantity: few to many
+		Size: fine and medium
+	Iron depletions in matrix
+		Quantity: few to many
+		Size: medium and coarse
+
+C horizon(s)
+  Hue: 7.5YR, 10YR, 2.5Y
+  Value: 5 dry, 3 or 4 moist
+  Chroma: 2 or 3, dry or moist
+  Texture: loamy coarse sand, loamy sand
+  Clay content: 1 to 8 percent
+  Rock fragments: 30 to 60 percent
+	5 to 35 percent gravel
+	5 to 35 percent cobbles
+	0 to 15 percent stones
+	0 to 20 percent boulders
+  Redoximorphic Features: 
+	Oxidized iron masses in matrix
+		Quantity: few to many
+		Size: fine and medium
+
+Cg horizon(s)
+  Hue: 7.5YR, 10YR, 2.5Y
+  Value: 6 or 8 dry, 4 or 6 moist
+  Chroma: 1 or 2, dry or moist
+  Texture: loamy coarse sand, loamy sand
+  Clay content: 1 to 8 percent
+  Rock fragments: 45 to 70 percent
+	10 to 35 percent gravel
+	10 to 35 percent cobbles
+	15 to 35 percent stones
+	0 to 20 percent boulders
+  Redoximorphic Features: 
+	Oxidized iron masses in matrix
+		Quantity: few to common
+		Size: fine
+Reduced matrix
+
+COMPETING SERIES: There are no other series in this family at this time.
+
+GEOGRAPHIC SETTING: The Ledumhill soils are on seeps on glacial valley floors and basins. Slopes range from 2 to 20 percent. These soils formed in organic material over alluvium, slope alluvium, and till derived from granitic rocks. Elevation is 2570 to 3605 meters. The climate is Mediterranean with warm, dry summers and cool, moist winters. The mean annual precipitation is 635 to 1400 mm and the mean annual air temperature is -1 to 5 degrees C. The frost free season is 50 to 95 days.
+
+GEOGRAPHICALLY ASSOCIATED SOILS: These are the McGee and Siberian soils. The McGee soils are on ground moraines on glacial valley and basin floors, are moderately well drained, are loamy-skeletal, and have a densic layer below 50 cm. Siberian soils are on ground moraines on glacial valley floors, are well drained, and have a densic contact below 100 cm.
+
+DRAINAGE AND PERMEABILITY: Poorly drained, high to very high saturated hydraulic conductivity. Occasional to frequent flooding and ponding for brief (2 to 7 days) duration from May to July. Seasonal high water table at 10 to 40 cm.
+
+USE AND VEGETATION: This soil is used for recreation, wildlife habitat, and watershed. Vegetation is Labrador tea, shootingstar, Carex species, bog blueberry, Lemmon's willow, purple mountainheath, and Sierra lodgepole pine.
+
+DISTRIBUTION AND EXTENT: Sierra Nevada Mountains of California; MLRA 22A. These soils are of limited extent.
+
+SOIL SURVEY REGIONAL OFFICE (SSRO) RESPONSIBLE: Davis, California
+
+SERIES PROPOSED: Fresno County, California in Sequoia and Kings Canyon National Parks. Name is coined.
+
+REMARKS: 
+  Particle Size Control Section for this pedon: 30 to 105 cm
+  Diagnostic horizons and features recognized in this pedon are:
+     Umbric Epipedon                           5 to 45 cm
+     Redox Concentrations                      20 to 85 cm
+     Redox Depletions With Chroma 2 Or Less    20 to 70 cm
+     Aquic Conditions                          20 to 150 cm  
+     Reduced Matrix                            70 to 150 cm
+
+ADDITIONAL DATA: 
+  NASIS User Pedon ID: 2013CA7925004
+
+Soil classified using the 12th Edition of the Keys to Soil Taxonomy.
+
+National Cooperative Soil Survey
+U.S.A.

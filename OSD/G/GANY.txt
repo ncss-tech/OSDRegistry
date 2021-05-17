@@ -1,93 +1,122 @@
 LOCATION GANY                   ID
 
 Established Series
-Rev. JFD-JAL
-03/1999
+Rev. JFD/CBR/DJP
+05/2021
 
 GANY SERIES
 
-The Gany series consists of very deep, well drained, moderately permeable soils on mountains. They formed in slope alluvium or colluvium from limestone. Slopes are 30 to 70 percent. Average annual precipitation is about 24 inches and the average annual temperature is about 36 degrees F.
+The Gany series consists of very deep, well drained soils that formed in loess influenced colluvium derived from limestone. These soils are on mountain slopes. Slopes are 40 to 70 percent. Mean annual precipitation is about 800 mm, and mean annual air temperature is about 3 degrees C.
 
 TAXONOMIC CLASS: Loamy-skeletal, mixed, superactive Typic Calcicryolls
 
-TYPICAL PEDON: Gany gravelly loam, on a 55 percent north-facing slope at 6,600 feet elevation in forestland. (Colors are for dry soil unless otherwise stated. When described on September 18, 1984, the soil was dry to 21 inches and moist below this depth.)
+TYPICAL PEDON: Gany gravelly silt loam in forestland. (Colors are for dry soil unless otherwise noted.) 
 
-    Oi--0.5 to 0 inches; slightly decomposed needles, twigs, leaves, and grass. (0.5 to 3 inches thick)
+  Oi--0 to 3 cm; slightly decomposed plant material
 
-    A--0 to 6 inches; brown (10YR 4/3) gravelly loam, dark brown (10YR 3/3) moist; weak fine granular structure; soft, very friable, slightly sticky and slightly plastic; many very fine and fine and few medium roots; common very fine and fine interstitial and few very fine and fine tubular pores; 30 percent pebbles; 2 percent cobbles; slightly alkaline (pH 7.6); clear smooth boundary. (6 to 15 inches thick)
+  Oe--3 to 5 cm; moderately decomposed plant material
 
-    Bk1--6 to 13 inches; brown (10YR 5/3) very gravelly loam, brown (10YR 4/3) moist; weak medium subangular blocky structure parting to weak fine granular; soft, very friable, slightly sticky and slightly plastic; many very fine and fine and few medium and coarse roots; common very fine and fine interstitial and few very fine and fine tubular pores; 35 percent pebbles, 5 percent cobbles; lime coatings 1/16 inch thick on the undersides of coarse fragments; strongly effervescent; slightly alkaline (pH 7.8); gradual wavy boundary. (4 to 16 inches thick)
+  A1--5 to 10 cm; brown (7.5YR 4/2) extremely gravelly silt loam, dark brown (7.5YR 3/2) moist; weak coarse subangular blocky structure; soft, very friable, slightly sticky and slightly plastic; many very fine roots throughout; many very fine irregular pores; 60 percent by gravel, 5 percent  cobbles, 1 percent stones; slightly effervescent; slightly alkaline (pH 7.7); abrupt wavy boundary.
 
-    Bk2--13 to 21 inches; very pale brown (10YR 7/3) very gravelly loam, yellowish brown (10YR 5/4) moist; weak fine subangular blocky structure; slightly hard, friable, slightly sticky and slightly plastic; common very fine, fine and medium roots; common very fine tubular pores; 35 percent pebbles; lime coatings 1/16 inch thick on the undersides and sides of coarse fragments; violently effervescent (25 percent calcium carbonate equivalent); moderately alkaline (pH 8.0); clear wavy boundary. (6 to 20 inches thick)
+  A2--10 to 36 cm; brown (10YR 5/3) extremely gravelly silt loam, dark brown (7.5YR 3/3) moist; moderate fine granular structure; soft, very friable, slightly sticky and slightly plastic; many very fine, few fine,  common medium, and many coarse roots throughout; many very fine irregular pores; 65 percent gravel, 5 percent cobbles, 1 percent stones; calcium carbonate coats on bottom surfaces of rock fragments; strongly effervescent; slightly alkaline (pH 7.8); clear smooth boundary.
 
-    Bk3--21 to 32 inches; very pale brown (10YR 7/4) extremely gravelly sandy loam, light yellowish brown (10YR 6/4) moist; weak medium subangular blocky structure; slightly hard, friable, nonsticky and slightly plastic; common very fine and fine and few medium roots; common very fine and few fine tubular pores; 35 percent pebbles, 25 percent cobbles, 2 percent stones; lime coatings 1/16 inch thick on all sides of rock fragments; violently effervescent (35 percent calcium carbonate equivalent); moderately alkaline (pH 8.2); gradual wavy boundary. (0 to 15 inches thick).
+  Bk1--36 to 76 cm; yellowish brown (10YR 5/4) extremely gravelly loam, brown (7.5YR 4/3) moist; weak fine subangular blocky structure; soft, very friable, nonsticky and nonplastic; common very fine and fine, and few medium roots throughout; many very fine tubular pores; 60 percent gravel, 5 percent cobbles, 5 percent stones; calcium carbonate coats on bottom surfaces of rock fragments; violently effervescent; moderately alkaline (pH 8.0); gradual smooth boundary.
 
-    Bkq1--32 to 46 inches; very pale brown (10YR 7/4) extremely gravelly sandy loam, brownish yellow (10YR 6/6) moist; single grain; loose; common very fine and fine and few medium roots; few very fine tubular and interstitial pores; 60 percent pebbles, 5 percent cobbles; lime and silica coatings 1/16 to 1/8 inch thick on all sides of coarse fragments; violently effervescent (30 percent calcium carbonate equivalent); moderately alkaline (pH 8.3); gradual wavy boundary. (0 to 16 inches thick).
+  Bk2--76 to 127 cm; light yellowish brown (10YR 6/4) extremely gravelly loam, yellowish brown (10YR 5/4) moist; massive; soft, very friable, nonsticky and slightly plastic; common very fine and few medium roots throughout; many very fine tubular pores; 60 percent gravel, 15 percent cobbles, 5 percent stones; calcium carbonate coats on bottom surfaces of rock fragments; violently effervescent; moderately alkaline (pH 8.0); clear wavy boundary
 
-    Bkq2--46 to 60 inches; very pale brown (10YR 7/4) extremely gravelly sandy loam, light yellowish brown (10YR 6/4) moist; single grain; loose; common very fine and fine and few medium and coarse roots; few very fine tubular and interstitial pores; 45 percent pebbles, 30 percent cobbles; lime and silica coatings 1/16 to 1/8 inch thick on all sides of coarse fragments; strongly effervescent; moderately alkaline (pH 8.2).
+  Bkq--127 to 152 cm; light brownish gray (10YR 6/2) extremely gravelly sandy loam, dark grayish brown (10YR 4/2) moist; weak very fine granular structure; soft, very friable, nonsticky and nonplastic; common very fine roots throughout; many very fine and common fine irregular pores; 80 percent gravel, 5 percent cobbles, 1 percent stones; calcium carbonate coats on bottom surfaces of rock fragments; 30 percent fine irregular calcium carbonate masses throughout; violently effervescent; moderately alkaline (pH 8.0).
 
-TYPE LOCATION: Custer County, Idaho; approximately 1 mile southeast of Bayhorse, Idaho; about 1,750 feet west and 700 feet south of the northeast corner of section 11, T. 12 N., R. 18 E.
+TYPE LOCATION: Teton County, Wyoming; USGS topographic quadrangle Victor; latitude 43.63177 degrees north and longitude 110.98980 degrees west, datum WGS84.
 
 RANGE IN CHARACTERISTICS:
 
-Average annual soil temperature - 35 to 39 degrees F.
-Average summer soil temperature - 44 to 47 degress F.
-Moisture control section - between 8 and 24 inches; dry throughout the moisture control section for 30 to 45 consecutive days during the four months following the summer solstice
-Mollic epipedon thickness - 7 to 15 inches
-Control section percent clay - 10 to 22
-Rock fragments - 40 to 90 percent
-Calcium carbonate equivalent, weighted average - 25 to 40 percent
-Depth to carbonates - 0 to 7 inches
-Depth to calcic horizon - 0 to 15 inches
-Calcareous to the surface after mixing the upper 7 inches
+Mean annual soil temperature--1.0 to 4.0 degrees C.
+Thickness of mollic epipedon--20 to 31 cm
+Depth to calcic horizon--15 to 38 cm
 
-A horizon - Hue: 7.5YR, 10YR or 2.5Y
-Value: 4 or 5 dry, 2, 3, or 4 moist
-Chroma: 2 or 3 dry or moist
-Rock fragments: 15 to 80 percent
-Reaction: slightly alkaline or moderately alkaline
+Particle-size control section (weighted averages)
+Clay content--10 to 22 percent
+Total rock fragments--40 to 85 percent 
+Calcium carbonate equivalent--25 to 40 percent
 
-Bk horizons - Hue: 7.5YR, 10YR, or 2.5Y
-Value: 4 through 7 dry, 4 through 6 moist
-Chroma: 2, 3 or 4 dry or moist
-Texture: GRV-L, GRX-L, GRX-SL, GRX-SIL
-Rock fragments: 35 to 90 percent
-Reaction: slightly alkaline or moderately alkaline
+Oi horizon
+Reaction--pH 6.1 to 7.3
+Organic matter content--60 to 95 percent
+Thickness--2 to 4 cm 
 
-Bkq horizons - Hue: 7.5YR, 10YR, or 2.5Y
-Value: 5, 6 or 7 dry, 4, 5 or 6 moist
-Chroma: 2 through 6 dry or moist
-Texture: GRX-SL, GRX-L
-Rock fragments - 60 to 90 percent
-Reaction: slightly alkaline or moderately alkaline
+Oe horizon (when present)
+Reaction--pH 6.1 to 7.3
+Organic matter content--60 to 95 percent
+Thickness--0 to 2 cm 
 
-COMPETING SERIES: This is Eagar series. Eagar soils do not have Bkq horizons and have a lithologic discontinuity.
+A horizons 
+Hue--7.5YR, 10YR or 2.5Y
+Value--4 or 5 dry, 2 or 3 moist
+Chroma--2 or 3 
+Clay content--12 to 20 percent
+Rock fragments--15 to 65 percent; 15 to 65 percent gravel, 0 to 5 percent cobbles, 0 to 1 percent stones
+Reaction--pH 7.4 to 8.4 
+Thickness--20 to 31 cm
 
-GEOGRAPHIC SETTING: Gany soils are on mountains. These soils formed in slope alluvium or colluvium from limestone. Slopes are 30 to 70 percent. Elevations are 5,200 to 9,800 feet. The climate is cold and moist in winter and spring, and cool and dry in the summer. The average annual precipitation is 18 to 28 inches, average annual temperature is 34 to 39 degrees F., and the frost-free period is 10 to 40 days.
+Bk horizons 
+Hue--7.5YR, 10YR, or 2.5Y
+Value--4 to 7 dry, 4 to 6 moist
+Chroma--2 to 4 
+Texture (less than 2 mm fraction)--loam or silt loam
+Clay content--14 to 22 percent
+Rock fragments--60 to 85 percent; 15 to 70 percent gravel, 0 to 25 percent cobbles; 0 to 5 percent stones; 0 to 9 percent boulders
+Calcium carbonate equivalent--15 to 30 percent
+Reaction--pH 7.4 to 8.4
+Thickness--28 to 92 cm
 
-GEOGRAPHICALLY ASSOCIATED SOILS: These are the Adek(T), Meegernot(T), Nitchly(T), and Zeelnot(T) soils. Adek soils are on windswept ridges and have ochric epipedons. Meegernot soils are on mountains and have pachic epipedons. Nitchly and Zeelnot soils are on mountains and have ochric epipedons.
 
-DRAINAGE AND PERMEABILITY: Well drained; medium runoff; moderate premeability.
+Bkq horizons 
+Hue--7.5YR, 10YR, or 2.5Y
+Value--5 to 7 dry, 4 to 6 moist
+Chroma--2 to 6 
+Texture (less than 2 mm fraction)--loam or sandy loam
+Clay content--10 to 16 percent
+Rock fragments--60 to 85 percent; 15 to 80 percent gravel, 3 to 25 percent cobbles; 0 to 1 percent stones; 0 to 9 percent boulders
+Calcium carbonate equivalent--25 to 60 percent
+Reaction--pH 7.9 to 8.4
 
-USE AND VEGETATION: Forestland. Vegetation is mainly Douglas-fir, common juniper, subalpine fir, mountain snowberry and shrubs.
+COMPETING SERIES: There are no competing series.
 
-DISTRIBUTION AND EXTENT: East-central Idaho. These soils are of moderate extent.
+GEOGRAPHIC SETTING: 
+Landform--mountain slopes
+Elevation--1,590 to 2,990 meters
+Slope--40 to 70 percent
+Parent material--loess influenced colluvium derived from limestone
+Mean annual precipitation--650 to 1,200 mm
+Mean annual air temperature--1.0 to 4.0 degrees C
+Frost-free period--10 to 40 days
 
-MLRA SOIL SURVEY REGIONAL OFFICE (MO) RESPONSIBLE: Bozeman, Montana.
+GEOGRAPHICALLY ASSOCIATED SOILS: None listed
 
+DRAINAGE AND SATURATED HYDRAULIC CONDUCTIVITY: Well drained; 10 to 50 um/sec
+
+USE AND VEGETATION: Gany soils are primarily used for forestland. The potential native vegetation is mainly subalpine fir, Englemann spruce, Rocky Mountain maple, and mallow ninebark.
+
+DISTRIBUTION AND EXTENT: Gany soils are of large extent in Eastern Idaho; MLRA 43B 
+
+SOIL SURVEY REGIONAL OFFICE (SSRO) RESPONSIBLE: Bozeman, Montana.
 SERIES ESTABLISHED: Targhee National Forest, 1997.
 
 REMARKS:
 
 Diagnostic horizons and features recognized in this pedon are:
-   
-Mollic epipedon - The zone from the soil surface to a depth of 7 inches must be mixed to meet mollic requirements (A horizon, upper 1 inch of Bk1 horizon).
 
-Calcic horizon - The zone from 6 to 46 inches (Bk, Bkq horizons)
+Mollic epipedon--20 to 31 cm (A horizons)
 
-Particle-size control section - The zone from 10 to 40 inches (part of Bk1, the Bk2 and Bk3, part of Bkq1).
+Calcic horizon--36 to 152 cm (Bk, Bkq horizons)
 
-Moisture regime - udic
+Particle-size control section--30 to 105 cm (part of A2, Bk1, and part of Bk2 horizons).
+
+Gany soils have cryic temperature regime and udic moisture regime.
+
+Type location moved from Custer County, ID to Teton County, WY 03/2021.
+
+Taxonomic version: Twelfth Edition, 2014
 
 National Cooperative Soil Survey
 U.S.A.
