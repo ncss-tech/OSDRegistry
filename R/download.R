@@ -20,19 +20,19 @@
   
   ## -- STEP 1 - SUBMIT query 
   url1 <- "https://soilseries.sc.egov.usda.gov/osdquery.aspx"
-  osd_session <- html_session(url1)
+  osd_session <- session(url1)
   osd_query <- html_form(osd_session)[[1]]
   
   # modify request
-  osd_request1 <- set_values(osd_query, ddl_resp_mo = as.character(x), 
+  osd_request1 <- html_form_set(osd_query, ddl_resp_mo = as.character(x), 
                                         estab_year1 = as.character(start_year),
                                         estab_year2 = as.character(end_year))
   
-  osd_result1 <- submit_form(osd_session, osd_request1, "submit_query")
+  osd_result1 <- session_submit(osd_session, osd_request1, "submit_query")
   Sys.sleep(0.5)
   
   osd_request2 <- html_form(osd_result1)[[1]]
-  osd_result2 <- try(submit_form(osd_session, osd_request2, "view"))
+  osd_result2 <- try(session_submit(osd_session, osd_request2, "view"))
   Sys.sleep(0.5)
   
   ## -- STEP 2 - VIEW results (in separate window for "big" queries)
@@ -43,12 +43,12 @@
     osd_hidden_report <- html_form(osd_result2)[[1]]$fields$hidden_report_filename
     url2 <- sprintf("https://soilseries.sc.egov.usda.gov/osdquery_view.aspx?query_file=%s&", 
                     osd_hidden_report$value)
-    osd_session2 <- html_session(url2) 
+    osd_session2 <- session(url2) 
     osd_query2 <- html_form(osd_session2)[[1]]
     osd_request3 <- osd_query2  
     
     ## -- STEP 3 - DOWNLOAD
-    osd_result3 <- submit_form(osd_session2, osd_request3, submit = "download")
+    osd_result3 <- session_submit(osd_session2, osd_request3, submit = "download")
     remDr$open()
     remDr$navigate(osd_result3$url)
     
@@ -71,16 +71,21 @@
       file_name <- list.files(target_dir, "osddwn.*zip$")
       Sys.sleep(1)
       ncycle <- ncycle + 1
-      if(ncycle > 120)
+      if(ncycle > 240)
         break;
     }
     
     new_file_name <- file_name[!file_name %in% orig_file_name]
-    if(file.rename(file.path(target_dir, new_file_name), 
-                   file.path(target_dir, paste0(sprintf("r%s_",x), new_file_name))))
-      message(sprintf("Downloaded: %s", new_file_name))
-    else
-      warning(sprintf("Failed to relocate file: %s", file_name))
+    if (length(new_file_name) > 0) {
+      if(file.rename(file.path(target_dir, new_file_name), 
+                     file.path(target_dir, paste0(sprintf("r%s_",x), new_file_name)))) {
+        message(sprintf("Downloaded: %s", new_file_name))
+      } else {
+        warning(sprintf("Failed to relocate file: %s", file_name))
+      }
+    } else {
+      warning(sprintf("Problem with OSD Download for Region %s", x))
+    } 
   }
   
   remDr$close()
