@@ -12,7 +12,7 @@
 #' @return A Zip File containing series from the selected region.
 #' @author Andrew G. Brown
 #'
-#' @importFrom rvest html_session html_form submit_form set_values
+#' @importFrom rvest session html_form session_submit html_form_set
 #' @importFrom RSelenium rsDriver
 .query_series_by_region <- function(remDr, x, start_year = NULL, end_year = NULL) {
   
