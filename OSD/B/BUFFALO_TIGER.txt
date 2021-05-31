@@ -7,7 +7,7 @@ CAP-MFV/JGT
 BUFFALO TIGER SERIES
 
 MLRA(s): 156A
-Soil Survey Regional Office (SSRO) Responsible: Raleigh, North Carolina
+Soil Survey Regional Office (SSRO) Responsible: Auburn, Alabama
 Depth Class: Very deep
 Drainage Class: Very poorly drained
 Saturated Hydraulic Conductivity:  Moderately high to high in the organic material and negligible in the rock material
@@ -71,10 +71,11 @@ Mean annual air temperature: 24 to 26 degrees C (75 to 79 degrees F)
 Mean annual precipitation: 1,118 to 1,600 millimeters (44 to 63 inches) 
 
 GEOGRAPHICALLY ASSOCIATED SOILS: In addition to the competing Loxahatche soils, these are:
-Coopertown soils--have limestone bedrock within 20 to 51 centimeters (8 to 20 inches) of the surface and occur in similar landform positions.
+Coopertown soils--have limestone bedrock within 18 to 50 centimeters (7 to 20 inches) of the surface and occur in similar landform positions.
 Gator Lake soils--have limestone bedrock within 5 to 18 centimeters (2 to 7 inches) of the surface and occur in similar landform positions.
-Macks Camp soils--have bedrock at depths of 100 to less than 150 centimeters (39 to 59 inches) and occur on similar landform positions. 
-Plantation soils--have sandy layers below the organic layer and above the limestone bedrock.Shark Valley soils--have bedrock at depths of 51 to 100 centimeters (20 to 39 inches) and are in similar landform positions.
+Macks Camp soils--have bedrock at depths of 100 to less than 150 centimeters (40 to 59 inches) and occur on similar landform positions. 
+Plantation soils--have sandy layers below the organic layer and above the limestone bedrock.
+Shark Valley soils--have bedrock at depths of 50 to 100 centimeters (20 to 40 inches) and are in similar landform positions.
 Tamiami soils--have subsurface horizons of freshwater marl that compose less than 1/2 the thickness of the control section and occur in similar landform positions.
 
 DRAINAGE AND SATURATED HYDRAULIC CONDUCTIVITY: 
@@ -90,7 +91,7 @@ USE AND VEGETATION:
 Major Uses: Water quality, water storage, and wildlife habitat. 
 Dominant vegetation: sawgrass, sedges, lilies, spikerush, willow, elderberry, pond apple, and cypress. 
 
-SOIL SURVEY REGIONAL OFFICE (SSRO) RESPONSIBLE:  Raleigh, North Carolina. 
+SOIL SURVEY REGIONAL OFFICE (SSRO) RESPONSIBLE: Auburn, Alabama
 
 DISTRIBUTION AND EXTENT: Florida Everglades and associated areas.  This series is of moderate extent
 
@@ -100,10 +101,10 @@ REMARKS: Classification was revised from Lithic Haplosaprists to Typic Haplosapr
 
 Diagnostic horizons and features in this pedon include:
 
-   1. Particle-size control section: 10 to 130 centimeters (4 to 51 inches)
+   1. Particle-size control section: 0 to 130 centimeters (0 to 51 inches)
    2. Histic epipedon: 0 to 79 centimeters (0 to 31 inches), (Oa1, Oa2 and Oa3 horizons)
    3. Lithic contact: 152 centimeters (60 inches) (2R horizon)
-   4. Peraquic conditions - Endosaturation ranges from 130 to 203 centimeters (51 to 80 inches)
+   4. Peraquic conditions - Endosaturation ranges from 0 to 203 centimeters (0 to 80 inches)
 
 This soil was previously mapped as Terra Ceia, limestone substratum, which is in the hyperthermic temperature regime.
 

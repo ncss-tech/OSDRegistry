@@ -2,12 +2,12 @@ LOCATION SHARK VALLEY           FL
 
 Tentative Series
 CAP-MVF/JGT
-01/2020
+05/2021
 
 SHARK VALLEY SERIES
 
 MLRA(s): 156A
-Soil Survey Regional Office (SSRO) Responsible: Raleigh, North Carolina
+Soil Survey Regional Office (SSRO) Responsible: Auburn, Alabama
 Depth Class: Moderately deep
 Drainage Class: Very poorly drained
 Saturated Hydraulic Conductivity:  High in the organic material and negligible in the rock material
@@ -31,11 +31,11 @@ TYPICAL PEDON:  Shark Valley muck on a concave dip in fresh water marsh. (Colors
 TYPE LOCATION:  Broward County, Florida; approximately 3 miles north of I-75; about 13 miles west of the intersection of I-75 and US 29; approximity 825 feet west and 450 feet south of the northeast corner of Sec. 28, T. 48 S., R. 39 E.; latitude 26 degrees, 11 minutes, 20.22 seconds N and longitude 80 degrees, 38 minutes, 52.84 seconds W; WSG84. USGS East of Lone Palm Head, FL quadrangle.
 
 RANGE IN CHARACTERISTICS:  
-Solum thickness: 91 centimeters (36 inches) or less
+Solum thickness: 50 to 100 centimeters (20 to 40)
 Depth to seasonally high water: 0 to 15 centimeters (0 to 6 inches)
 Soil reaction: Moderately acid to moderately alkaline
-Depth of the organic material: 51 to 91 centimeters (20 to 36 inches)
-Depth to bedrock: 51 to 102 centimeters (20 to 40 inches)
+Depth of the organic material: 50 to 100 centimeters (20 to 40 inches)
+Depth to bedrock: 50 to 100 centimeters (20 to 40 inches)
 Fiber content: Un-Rubbed 10 to 70 percent and rubbed less than 17 percent
 
 RANGE IN INDIVIDUAL HORIZONS:
@@ -63,8 +63,8 @@ Weakly to strongly cemented limestone bedrock, with solution holes filled with s
 
 COMPETING SERIES: These are the Islamorada and Macks Camp series, and the Tamiami series in a closely related family.
 Islamorada soils--lack stratification of marly sediments, are in the tidal zone, are very frequently flooded, and occur in marine marshes, swamps, or low broad flats.
-Macks Camp soils--have bedrock at depths of 102 to 152 centimeters (40 to 60 inches) and occur on similar landform positions.
-Tamiami soils--have bedrock at depths less than 102 centimeters (40 inches), are stratified with calcareous silty marl, and are hyperthermic.
+Macks Camp soils--have bedrock at depths of 100 to 150 centimeters (40 to 60 inches) and occur on similar landform positions.
+Tamiami soils--have bedrock at depths less than 100 centimeters (40 inches), are stratified with calcareous silty marl, and are hyperthermic.
 
 GEOGRAPHIC SETTING:
 Landscape: Florida Everglades
@@ -75,7 +75,7 @@ Mean annual precipitation: 112 to 160 centimeters (44 to 63 inches)
 
 GEOGRAPHICALLY ASSOCIATED SOILS:  In addition to the competing Macks Camp and Tamiami soils, these are:
 Buffalo Tiger soils--lack limestone bedrock within 203 centimeters (80 inches) and occur in similar landform positions.
-Coopertown soils--have limestone bedrock within 20 to 51 centimeters (8 to 20 inches) of the surface and occur in similar landform positions.
+Coopertown soils--have limestone bedrock within 18 to 50 centimeters (7 to 20 inches) of the surface and occur in similar landform positions.
 Gator Lake soils--have limestone bedrock within 5 to 18 centimeters (2 to 7 inches) of the surface and occur in similar landform positions.
 Loxahatche soils--are very deep, lack limestone substratum within 203 centimeters (80 inches) and are in similar landform positions.
 Plantation soils--have sandy layers below the organic layer and above the limestone bedrock.
@@ -93,7 +93,7 @@ USE AND VEGETATION:
 Major Uses: Water quality, water storage, and wildlife habitat. 
 Dominant vegetation: sawgrass, sedges, lilies, spikerush, willow, elderberry, pond apple, and cypress. 
 
-SOIL SURVEY REGIONAL OFFICE (SSRO) RESPONSIBLE: Raleigh, North Carolina.
+SOIL SURVEY REGIONAL OFFICE (SSRO) RESPONSIBLE: Auburn, Alabama
 
 DISTRIBUTION AND EXTENT: Florida Everglades and associated areas.  This soil is of moderate extent
 
@@ -101,10 +101,10 @@ SERIES PROPOSED:  Broward County, Florida; 2018.
 
 REMARKS: Diagnostic horizons and features in this pedon include:
 
-1.	Particle size control section:  41 to 91 centimeters (16 to 36 inches)
-2.	Histic epipedon: 0 to 61 centimeters (0 to 24 inches) (Oa1 horizon).
+1.	Particle size control section:  0 to 61 centimeters (0 to 24 inches)
+2.	Histic epipedon: 0 to 61 centimeters (0 to 24 inches) (Oa1 and Oa2 horizons).
 3.	Lithic contact: 61 to 86 centimeters (24 to 34 inches) (2R horizon).
-4.	Aquic Conditions: Endosaturation ranges from 0 to 91 centimeters (0 to 36 inches)
+4.	Peraquic Conditions: Endosaturation ranges from 0 to 86 centimeters (0 to 34 inches)
 
 This soil was previously mapped as Lauderhill, which is in the hyperthermic temperature regime.
 

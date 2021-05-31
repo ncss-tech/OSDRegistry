@@ -2,12 +2,12 @@ LOCATION COOPERTOWN             FL
 
 Tentative Series
 CAP-MVF/JGT
-12/2019
+05/2021
 
 COOPERTOWN SERIES
 
 MLRA(s): 156A
-MLRA Soil Survey Regional Office (SSRO) Responsible: Raleigh, North Carolina
+MLRA Soil Survey Regional Office (SSRO) Responsible: Auburn, Alabama
 Depth Class: Shallow
 Drainage Class: Very poorly drained
 Saturated Hydraulic Conductivity:  Moderately high to high in the organic material and negligible in the rock material
@@ -28,11 +28,11 @@ TYPICAL PEDON:  Coopertown muck, on dip in fresh water marsh. (Colors are for mo
 TYPE LOCATION:  Broward County, Florida; approximately 6.8 miles north of I-75 and 11.7 miles west of the intersection of I-75 and US 29; in the un-sectionized portion of Water Conservation Area 3A; latitude 26 degrees 14 minutes 43.5 seconds N. longitude 80 degrees  38 minutes 10.14 seconds W.; WGS 84; USGS East of Lone Palm Head, FL quadrangle.
 
 RANGE IN CHARACTERISTICS:  
-Solum thickness: 51 centimeters (20 inches) or less
+Solum thickness: 18 to 50 centimeters ( 7 to 20 inches)
 Depth to Seasonally High Water Table:  0 to 15 centimeters (0 to 6 inches) 
 Soil Reaction: Moderately acid to moderately alkaline
-Depth of the organic material: 18 to 51 centimeters (7 to 20 inches)
-Depth to bedrock: 18 to 51 centimeters (7 to 20 inches)
+Depth of the organic material: 18 to 50 centimeters (7 to 20 inches)
+Depth to bedrock: 18 to 50 centimeters (7 to 20 inches)
 Fiber content: Un-Rubbed 10 to 70 percent; Rubbed less than 17 percent
 
 RANGE OF INDIVIDUAL HORIZONS:
@@ -70,9 +70,9 @@ GEOGRAPHICALLY ASSOCIATED SOILS:
 Buffalo Tiger soils-do not have limestone bedrock within 203 centimeters (80 inches) and occur in similar landform positions.
 Gator Lake soils--have limestone bedrock within 5 to 18 centimeters (2 to 7 inches) of the surface and occur in similar landform positions.
 Loxahatche soils--are very deep, lack limestone substratum within 203 centimeters (80 inches) and are in similar landform positions.
-Macks Camp soils--have bedrock at depths of 91 to 130 centimeters (36 to 51 inches) and occur on similar landform positions. 
+Macks Camp soils--have bedrock at depths of 100 to 150 centimeters (40 to 60 inches) and occur on similar landform positions. 
 Plantation soils--have sandy layers below the organic layer and above the limestone bedrock.
-Shark Valley soils--have bedrock at depths of 51 to 91 centimeters (20 to 36 inches) and are in similar landform positions.
+Shark Valley soils--have bedrock at depths of 50 to 100 centimeters (20 to 40 inches) and are in similar landform positions.
 Tamiami soils--have subsurface horizons of freshwater marl that compose less than 1/2 the thickness of the control section and occur in similar landform positions.
 
 DRAINAGE AND SATURATED HYDRAULIC CONDUCTIVITY:
@@ -87,7 +87,7 @@ USE AND VEGETATION:
 Major Uses: Water quality, water storage, and wildlife habitat. 
 Dominant Vegetation: Sawgrass, sedges, lilies, spikerush, willow, elderberry, pond apple, and cypress. 
 
-SOIL SURVEY REGIONAL OFFICE (SSRO) RESPONSIBLE: Raleigh, North Carolina.
+SOIL SURVEY REGIONAL OFFICE (SSRO) RESPONSIBLE: Auburn, Alabama
 
 DISTRIBUTION AND EXTENT:  Florida Everglades and associated areas.
 This series is of moderate extent.
@@ -95,10 +95,10 @@ This series is of moderate extent.
 SERIES PROPOSED:  Broward County, Florida, 2019.
 
 REMARKS:  Diagnostic horizons and features in this pedon include:
-   1. Particle size control section--18 to 76 centimeters (7 to 30 inches)
+   1. Particle size control section--0 to 41 centimeters (0 to 16 inches)
    2. Histic epipedon--0 to 41 centimeters (0 to 16 inches) (Oa1 horizon).
-   3. Lithic contact--41 to 66 centimeters (16 to 26 inches) (2R horizon).
-   4. Aquic features--Endosaturation ranges from 0 to 51 centimeters (0 to 20 inches) during the months of November to April
+   3. Lithic contact--41 centimeters (16 inches) (2R horizon).
+   4. Peraquic features--Endosaturation ranges from 0 to 66 centimeters (0 to 26 inches) during the months of November to April
 
 This soil was previously mapped as Dania, which is in the hyperthermic temperature regime.
 
