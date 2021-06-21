@@ -1,26 +1,28 @@
 LOCATION TIGERLILY              CA
 
-Tentative Series
+Established Series
 CES/JBB
-05/2020
+06/2021
 
 TIGERLILY SERIES
 
 The Tigerlily series consists of very deep, very poorly drained soils formed in organic material over alluvium derived from granitic and metasedimentary rocks. The Tigerlily soils are in drainageways and on discharge slopes of the Sierra Nevada Mountains. Slopes range from 2 to 50 percent. The mean annual precipitation is about 1000 mm and the mean annual air temperature is about 5 degrees C.
 
-TAXONOMIC CLASS:  Loamy-skeletal, isotic, nonacid, frigid Hydraquentic Humaquepts
+TAXONOMIC CLASS: Loamy-skeletal, isotic, nonacid, frigid Hydraquentic Humaquepts
 
-TYPICAL PEDON: Tigerlily muck on a south facing (180 degree), 50 percent slope with a cover of tiger lily, horsetail, corn lily, bigleaf lupine, and sedges at an elevation of 2355 meters. (Colors are for dry soils unless otherwise noted. When described on July 11, 2014 the soil was wet throughout. Seasonal water table was observed at 40 cm.)
+TYPICAL PEDON: Tigerlily muck on an east facing (75 degree), 10 percent slope with a cover of lodgepole pine and willow at an elevation of 2695 meters. (Colors are for dry soils unless otherwise noted. When described on July 8, 2013 the soil was wet throughout. Seasonal water table was observed at 67 cm.)
 
- Oa--0 to 13 cm; black (7.5YR 2.5/1) mucky peat, very dark gray (7.5YR 3/1) moist; structureless massive; hard, very friable, nonsticky, nonplastic; common very fine roots and fine roots throughout; many very fine irregular pores; neutral (pH 6.8); clear smooth boundary. (0 to 25 cm thick)
+ Oe--0 to 15 cm; very dark gray (7.5YR 3/1) mucky peat, black (5YR 2.5/1) moist; common very fine and fine roots throughout; very strongly acid (4.6); clear wavy boundary. (0 to 25 cm thick)
 
- Oe--13 to 42 cm; black (7.5YR 2.5/1) stony mucky peat, very dark gray (7.5YR 3/1) moist; structureless massive; hard, very friable, nonsticky, nonplastic; common very fine, fine, and medium roots throughout; many very fine irregular pores; 5 percent rounded indurated mixed gravel, 10 percent subrounded indurated mixed stones; slightly acid (pH 6.3); abrupt smooth boundary. (0 to 35 cm thick)
+ Oa--15 to 23 cm; dark gray (2.5Y 4/1) muck, black (10YR 2/1) moist; common very fine and fine roots throughout; 5 percent subangular indurated metamorphic gravel; very strongly acid (4.8); clear wavy boundary. (0 to 35 cm thick)
 
- C1--42 to 85 cm; very dark grayish brown (10YR 3/2) very stony loamy sand, very dark gray (10YR 3/1) moist; 2 percent clay; structureless single grain; loose, loose, nonsticky, nonplastic; common very fine, fine, and medium roots throughout; many very fine irregular pores; 20 percent subrounded indurated mixed gravel, 15 percent subrounded indurated mixed cobbles, 15 percent subrounded indurated mixed stones; NaF pH 8.5; slightly acid (pH 6.1); abrupt smooth boundary.(0 to 45 cm thick)
+ A--23 to 30 cm; dark grayish brown (10YR 4/2) very stony sandy loam, very dark brown (10YR 2/2) moist; 5 percent clay; weak fine subangular blocky structure; soft, very friable, slightly sticky, nonplastic; common very fine and fine roots throughout; common very fine irregular pores; 5 percent subangular indurated mixed gravel, 10 percent subangular indurated mixed cobbles, 25 percent subangular indurated mixed stones; NaF pH 9.0; strongly acid (pH 5.4); clear wavy boundary. (0 to 35 cm thick)
 
- C2--85 to 150 cm; dark gray (10YR 4/1) extremely stony sandy loam, black (10YR 2/1) moist; 10 percent clay; structureless massive; loose, loose, nonsticky, nonplastic; common very fine and fine roots throughout; many very fine irregular pores; 20 percent subrounded indurated mixed gravel, 20 percent subrounded indurated mixed cobbles, 20 percent subrounded indurated mixed stones; NaF pH 9.0; strongly acid (pH 5.3).
+ C1--30 to 49 cm; grayish brown (2.5Y 5/2) extremely stony sandy loam, very dark grayish brown (10YR 3/2) moist; 8 percent clay; massive; soft, very friable, nonsticky, nonplastic; common very fine roots throughout; common very fine irregular pores; 20 percent subangular indurated mixed gravel, 30 percent subangular indurated mixed cobbles, 25 percent subrounded indurated mixed stones; NaF pH 9.0; strongly acid (pH 5.4); gradual wavy boundary. (0 to 45 cm thick)
 
-TYPE LOCATION: Tulare County, California, Mineral King Rd;  USGS 7.5 minute topographic quadrangle: Mineral King, California;  WGS84 36.454819 latitude and -118.604072 longitude;  UTM zone 11 4035593 meters N 356258 meters E NAD83.
+ C2--49 to 150 cm; light yellowish brown (2.5Y 6/3) extremely cobbly sandy loam, olive brown (2.5Y 4/3) moist; 8 percent clay; massive; soft, very friable, nonsticky, nonplastic; common very fine roots throughout; common very fine irregular pores; 22 percent subangular indurated mixed gravel, 23 percent subrounded indurated mixed gravel, 25 percent subangular indurated metamorphic cobbles, 5 percent subrounded indurated granite stones; NaF pH 9.0; moderately acid (pH 5.6).
+
+TYPE LOCATION: Fresno County, California, Goddard Canyon, about 1.2 miles south of trail junction of switchbacks to Evolution Valley;  USGS 7.5 minute topographic quadrangle: Mount Henry, California;  WGS84 37.175479 latitude and -118.791404 longitude;  UTM zone 11 4115841 meters N 340969 meters E WGS84.
 
 RANGE IN CHARACTERISTICS:
 Soil temperature: The mean annual soil temperature at 50 cm is 0 to 8 degrees C and the difference between mean summer and mean winter soil temperature is greater than 6 degrees C. The soils have a frigid temperature regime.
@@ -28,7 +30,7 @@ Soil temperature: The mean annual soil temperature at 50 cm is 0 to 8 degrees C 
 Soil moisture: The soil is saturated in some part throughout the year, with a seasonal high water table dropping below 50 cm in late summer and fall. The soils have an aquic soil moisture regime.
 
 Diagnostic Feature(s):
-  Histic epipedon thickness: 20 to 50 cm
+  Histic epipedon thickness: 20 to 40 cm
   Aquic conditions: present within 10 cm
 
 Organic matter: 20 to 60 percent in the epipedon
@@ -40,14 +42,6 @@ Particle size control section weighted average:
   Clay content: 8 to 15 percent 
   NaF pH : 8.5 to 11.0
 
-Oa horizon (where present)
-  Hue: 7.5YR, 10YR, 2.5Y
-  Value: 4 to 6 dry, 2 or 3 moist
-  Chroma: 1 or 2, dry or moist
-  Texture: muck
-  Rock fragments: 0 to 5 percent gravel
-  Reaction: moderately to very strongly acid
-
 Oe horizon (where present)
   Hue: 5YR, 7.5YR, 10YR
   Value: 2 to 4 dry, 2 or 3 moist
@@ -58,6 +52,27 @@ Oe horizon (where present)
 	0 to 15 percent cobbles
 	0 to 15 percent stones
   Reaction: moderately or strongly acid
+
+Oa horizon (where present)
+  Hue: 7.5YR, 10YR, 2.5Y
+  Value: 4 to 6 dry, 2 or 3 moist
+  Chroma: 1 or 2, dry or moist
+  Texture: muck
+  Rock fragments: 0 to 5 percent gravel
+  Reaction: moderately to very strongly acid
+
+A horizon (where present)
+  Hue: 10YR
+  Value: 2 to 5, dry or moist
+  Chroma: 1 or 2, dry or moist
+  Texture: loamy sand, coarse sandy loam, sandy loam
+  Rock fragments: 0 to 60 percent
+	0 to 35 percent gravel
+	0 to 35 percent cobbles
+	0 to 35 percent stones
+  Reaction: moderately to very strongly acid
+
+
 
 Upper C horizon(s), where present
   Hue: 10YR, 2.5Y
@@ -91,7 +106,7 @@ GEOGRAPHICALLY ASSOCIATED SOILS: These are the Lackey and Pigchute soils. The La
 
 DRAINAGE AND PERMEABILITY: Very poorly drained, moderately high to very high saturated hydraulic conductivity, frequent flooding for brief (2 to 7 days) duration from May to July. Seasonal high water table at 0 to 10 cm.
 
-USE AND VEGETATION: This soil is used for recreation, wildlife habitat, and watershed. Vegetation is tiger lily, horsetail, corn lily, bigleaf lupine, Sierra willow, Lemmon's willow, bulrush, wild onion, carex, sedges, and grasses.
+USE AND VEGETATION: This soil is used for recreation, wildlife habitat, and watershed. Vegetation is Sierra lodgepole pine, tiger lily, horsetail, corn lily, bigleaf lupine, Sierra willow, Lemmon's willow, bulrush, wild onion, carex, sedges, and grasses.
 
 DISTRIBUTION AND EXTENT: Sierra Nevada Mountains of California; MLRA 22A. These soils are not extensive.
 
@@ -100,16 +115,15 @@ SOIL SURVEY REGIONAL OFFICE (SSRO) RESPONSIBLE: Davis, California
 SERIES PROPOSED: Tulare County, California in Sequoia and Kings Canyon National Parks. Source of name is coined.
 
 REMARKS: 
-  Particle Size Control Section for this pedon: 67 to 142 cm
+  Particle Size Control Section for this pedon: 48 to 123 cm
   Diagnostic horizons and features recognized in this pedon are: 
-     Histic Epipedon              0 to 42 cm
+     Histic Epipedon              0 to 23 cm
      Aquic Conditions            0 to 150 cm
-     Hemic Soil Materials     13 to 42 cm
-     Sapric Soil Materials      0 to 13 cm
-Some pedons have A horizons between the O and C horizons.
+     Hemic Soil Materials     0 to 15 cm
+     Sapric Soil Materials      15 to 23 cm
 
 ADDITIONAL DATA: 
-  NASIS User Pedon ID: 2014CA7925058
+  NASIS User Pedon ID: 2013CA7921041
 
 Soil classified using the 12th Edition of the Keys to Soil Taxonomy.
 

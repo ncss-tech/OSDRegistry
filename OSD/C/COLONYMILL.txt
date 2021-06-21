@@ -1,8 +1,8 @@
 LOCATION COLONYMILL             CA
 
-Tentative Series
+Established Series
 JBB/CES/JTW
-01/2020
+06/2021
 
 COLONYMILL SERIES
 
@@ -24,9 +24,9 @@ TYPICAL PEDON: Colonymill loam on a southwest-facing (220 degree), 60 percent sl
 
  Bt2--98 to 129 cm; brown (7.5YR 5/4) cobbly clay loam, reddish brown (5YR 4/3) moist; 37 percent clay; moderate medium subangular blocky structure; moderately hard, firm, slightly sticky, moderately plastic; common medium, coarse, and very coarse roots throughout; common very fine irregular and common fine and medium tubular pores; 5 percent faint clay films on surfaces along pores and 10 percent faint clay films on all faces of peds; 10 percent subangular strongly cemented schist gravel, 5 percent subangular very weakly cemented schist paragravel, 15 percent subangular strongly cemented schist cobbles; NaF pH 9.0; moderately acid (pH 5.8); gradual wavy boundary.
 
- Bt3--129 to 160 cm; brown (7.5YR 5/4) very stony clay loam, reddish brown (5YR 4/3) moist; 33 percent clay; moderate medium subangular blocky structure; moderately hard, firm, slightly sticky, moderately plastic; few fine and medium roots throughout and common very coarse roots top of horizon; common fine and medium tubular pores; 5 percent faint clay films on surfaces along pores and 10 percent faint clay films on all faces of peds; 10 percent subangular strongly cemented schist gravel, 25 percent subangular strongly cemented schist cobbles, 10 percent subangular strongly cemented schist stones; NaF pH 9.0; moderately acid (pH 5.8). (combined thickness of the lower Bt horizons is 30 to 100 cm)
+ Bt3--129 to 160 cm; brown (7.5YR 5/4) very cobbly clay loam, reddish brown (5YR 4/3) moist; 33 percent clay; moderate medium subangular blocky structure; moderately hard, firm, slightly sticky, moderately plastic; few fine and medium roots throughout and common very coarse roots top of horizon; common fine and medium tubular pores; 5 percent faint clay films on surfaces along pores and 10 percent faint clay films on all faces of peds; 10 percent subangular strongly cemented schist gravel, 25 percent subangular strongly cemented schist cobbles, 10 percent subangular strongly cemented schist stones; NaF pH 9.0; moderately acid (pH 5.8). (combined thickness of the lower Bt horizons is 30 to 100 cm)
 
-TYPE LOCATION: Tulare County, California, near Crystal Cave parking area in Sequoia National Park;  USGS 7.5 minute topographic quadrangle: Giant Forest, California;  WGS84 36.585556 latitude and -118.826483 longitude;  UTM zone 11 4050452 meters N 336601 meters E NAD83.
+TYPE LOCATION: Tulare County, California, near Crystal Cave parking area in Sequoia National Park; USGS 7.5 minute topographic quadrangle: Giant Forest, California; WGS84 36.585556 latitude and -118.826483 longitude; UTM zone 11 4050452 meters N 336601 meters E NAD83.
 
 RANGE IN CHARACTERISTICS:
 Soil temperature: The mean annual soil temperature at 50 cm is 11 to 15 degrees C and the difference between mean summer and mean winter soil temperature is greater than 6 degrees C. The soils have a mesic temperature regime.
@@ -76,7 +76,7 @@ Bt1 horizon
   Clay content: 18 to 32 percent
   Rock fragments: 0 to 35 percent
 	0 to 30 percent gravel
-	0 to 5 percent cobbles
+	0 to 15 percent cobbles
   Reaction: moderately acid to slightly acid
 
 Lower Bt horizons (Bt2, Bt3)

@@ -1,8 +1,8 @@
 LOCATION ISOSCELES              CA
 
-Tentative Series
+Established Series
 JBB/CES/JTW
-10/2019
+06/2021
 
 ISOSCELES SERIES
 
@@ -10,17 +10,17 @@ The Isosceles series consists of very shallow and shallow, well drained soils fo
 
 TAXONOMIC CLASS: Loamy, isotic Lithic Humicryepts
 
-TYPICAL PEDON: Isosceles flaggy sandy loam on a southwest-facing (215 degree), 6 percent slope under threadleaf sedge and scattered whitebark pine at an elevation of 3354 meters. (Colors are for dry soils unless otherwise noted. When described on August 12, 2013 the soil was dry to 8 cm.)
+TYPICAL PEDON: Isosceles loamy fine sand on a northeast facing (40 degree), 2 percent slope under a cover of threadleaf sedge, Parry's rush, and scattered whitebark pine at an elevation of 3368 meters. (Colors are for dry soils unless otherwise noted. When described on July 21, 2013 the soil was dry throughout.)
 
- A1--0 to 8 cm; very dark grayish brown (10YR 3/2) flaggy sandy loam, very dark brown (10YR 2/2) moist; 5 percent clay; moderate very fine granular structure; soft, very friable, nonsticky, nonplastic; many very fine and common fine roots throughout; common very fine irregular pores; 5 percent indurated granite gravel, 5 percent indurated granite channers, 15 percent indurated granite flagstones; NaF pH 10.5; very strongly acid (pH 4.6); gradual smooth boundary.
+ A--0 to 10 cm; dark grayish brown (10YR 4/2) loamy fine sand, very dark brown (10YR 2/2) moist; 4 percent clay; weak fine granular structure; soft, very friable, nonsticky, nonplastic; many very fine and common fine roots throughout; many very fine irregular pores; 5 percent subangular indurated granite gravel, 1 percent subangular indurated granite cobbles; NaF pH 10.0; strongly acid (pH 5.2); abrupt wavy boundary. (3 to 30 cm thick)
 
- A2--8 to 19 cm; brown (10YR 4/3) sandy loam, very dark brown (10YR 2/2) moist; 7 percent clay; moderate fine granular structure; soft, very friable, nonsticky, nonplastic; common very fine and fine roots throughout; common very fine irregular pores; 5 percent indurated granite gravel, 2 percent indurated granite channers, 5 percent indurated granite flagstones; NaF pH 10.5; very strongly acid (pH 4.6); clear smooth boundary.
+ BA--10 to 24 cm; brown (10YR 5/3) gravelly fine sandy loam, very dark grayish brown (10YR 3/2) moist; 10 percent clay; weak very fine subangular blocky structure; soft, very friable, slightly sticky, nonplastic; many very fine, and common fine and medium roots throughout; common very fine irregular pores; 15 percent subangular indurated granite gravel, 5 percent subangular indurated granite cobbles; NaF pH 10.0; strongly acid (pH 5.2); clear wavy boundary. (0 to 15 cm thick) 
 
- A3--19 to 40 cm; brown (10YR 4/3) sandy loam, dark brown (10YR 3/3) moist; 6 percent clay; weak fine granular structure; soft, very friable, slightly sticky, nonplastic; few very fine and fine roots throughout; common very fine irregular pores; 5 percent indurated granite gravel, 2 percent indurated granite channers; NaF pH 10.5; very strongly acid (pH 4.8); abrupt smooth boundary. (combined thickness of A horizons is 10 to 40 cm)
+ Bw--24 to 44 cm; yellowish brown (10YR 5/4) gravelly fine sandy loam, brown (10YR 4/3) moist; 14 percent clay; weak medium subangular blocky structure; slightly hard, friable, slightly sticky, nonplastic; common fine and medium roots throughout; common very fine and fine tubular pores; 2 percent fine distinct irregular masses of oxidized iron with clear boundaries on surfaces along pores; 10 percent subangular indurated granite gravel, 5 percent subangular indurated granite cobbles; NaF pH 10.0; strongly acid (pH 5.2); very abrupt wavy boundary. (5 to 35 cm thick)
 
- R--40 cm; Indurated granite bedrock, fractured at intervals of <200 cm.
+ R--44 to 200 cm; indurated granite bedrock, fractured at intervals of greater than 200 cm.
 
-TYPE LOCATION: Fresno County, California, near Twin Lakes in Kings Canyon National Park;  USGS 7.5 minute topographic quadrangle: Mount Pinchot, California;  WGS84 36.917828 latitude and -118.392931 longitude;  UTM zone 11 4086663 meters N 375926 meters E NAD83.
+TYPE LOCATION: Fresno County, California, about 0.5 km north of Lake Marjorie, Kings Canyon National Park;  USGS 7.5 minute topographic quadrangle: Mount Pinchot, California;  WGS84 36.951008 latitude and -118.433464 longitude;  UTM zone 11 4090397 meters N 372372 meters E NAD83.
 
 RANGE IN CHARACTERISTICS:
 Soil temperature: The mean annual soil temperature at 50 cm is -1 to 5 degrees C and the difference between mean summer and mean winter soil temperature is greater than 6 degrees C. The soils have a cryic temperature regime.
@@ -44,7 +44,7 @@ A horizons
   Hue: 7.5YR, 10YR
   Value: 4 or 5 dry, 2 or 3 moist
   Chroma: 2 or 3, dry or moist
-  Texture: sandy loam, fine sandy loam
+  Texture: loamy fine sand, sandy loam, fine sandy loam
   Clay content: 2 to 12 percent
   Rock fragments: 0 to 35 percent
 	0 to 25 percent gravel
@@ -54,14 +54,14 @@ A horizons
 	0 to 15 percent flagstones
   Reaction: very strongly to moderately acid
 
-Bw horizons (where present)
+BA or Bw horizons (where present)
   Hue: 7.5YR, 10YR
-  Value: 4 or 5 dry, 2 or 3 moist
+  Value: 4 or 5 dry, 2 to 4 moist
   Chroma: 3 or 4 dry, 2 to 4 moist
   Texture: sandy loam, fine sandy loam
-  Clay content: 5 to 12 percent
-  Rock fragments: 10 to 35 percent
-	10 to 30 percent gravel
+  Clay content: 5 to 15 percent
+  Rock fragments: 0 to 35 percent
+	0 to 30 percent gravel
 	0 to 15 percent cobbles
 	0 to 5 percent stones
   Reaction: extremely to moderately acid
@@ -74,7 +74,7 @@ GEOGRAPHICALLY ASSOCIATED SOILS: Isosceles soils are typically associated with g
 
 DRAINAGE AND PERMEABILITY: Well drained, high saturated hydraulic conductivity. Saturated hydraulic conductivity of the bedrock is very low to high.
 
-USE AND VEGETATION: This soil is used for recreation, wildlife habitat, and watershed. Vegetation is whitebark pine, western needlegrass, threadleaf sedge, mountain pride, Ross sedge, bottlebrush squirreltail,and Parry's rush. Sierra juniper may be present in some areas.
+USE AND VEGETATION: This soil is used for recreation, wildlife habitat, and watershed. Vegetation is whitebark pine, western needlegrass, threadleaf sedge, mountain pride, Ross sedge, bottlebrush squirreltail, and Parry's rush. Sierra juniper may be present in some areas.
 
 DISTRIBUTION AND EXTENT: Sierra Nevada Mountains of California; MLRA 22A. These soils are of moderate extent.
 
@@ -85,11 +85,11 @@ SERIES PROPOSED: Fresno County, California in Sequoia and Kings Canyon National 
 REMARKS: 
   Particle Size Control Section for this pedon: 25 to 40 cm.
   Diagnostic horizons and features recognized in this pedon are: 
-     Umbric Epipedon            0 to 40 cm
-     Lithic Contact                  40 cm
+     Umbric Epipedon            0 to 24 cm
+     Lithic Contact                  44 cm
 
 ADDITIONAL DATA: 
-  NASIS User Pedon ID: 2013CA7927511
+  NASIS User Pedon ID: 2013CA7925002
 
 Soil classified using the 12th Edition of the Keys to Soil Taxonomy.
 

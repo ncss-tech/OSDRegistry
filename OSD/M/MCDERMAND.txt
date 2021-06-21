@@ -1,12 +1,12 @@
 LOCATION MCDERMAND              CA
 
-Tentative Series
+Established Series
 CES/JBB/JTW
-12/2019
+06/2021
 
 MCDERMAND SERIES
 
-The McDermand series consists of moderately deep, moderately well drained soils formed in slope alluvium, colluvium and till over residuum weathered from granite. The McDermand soils are on cirque floors of the Sierra Nevada Mountains. Slopes range from 2 to 15 percent. The mean annual precipitation is about 1075 mm and the mean annual air temperature is about 2 degrees C.
+The McDermand series consists of moderately deep, moderately well drained soils formed in slope alluvium, colluvium and till over residuum weathered from granite. The McDermand soils are in cirques and mountain slopes of the Sierra Nevada Mountains. Slopes range from 2 to 30 percent. The mean annual precipitation is about 1075 mm and the mean annual air temperature is about 2 degrees C.
 
 TAXONOMIC CLASS: Sandy-skeletal, isotic Vitrandic Cryorthents
 
@@ -18,15 +18,13 @@ TYPICAL PEDON: McDermand mucky fine sandy loam on a south-facing (200 degree), 1
 
  A3--15 to 25 cm; grayish brown (10YR 5/2) gravelly coarse sand, dark grayish brown (10YR 4/2) moist; 90 percent sand; 9 percent silt; 1 percent clay; weak fine granular structure; soft, very friable, nonsticky, nonplastic; few very fine and common fine roots throughout; many very fine irregular pores; 20 percent subangular indurated granite gravel, 8 percent subangular indurated granite cobbles, 5 percent subangular indurated granite stones; NaF pH 10.6; strongly acid (pH 5.5); clear smooth boundary. (combined thickness of A horizons is 5 to 30 cm) Lab sample # 13N02216
 
- Bw1--25 to 34 cm; light yellowish brown (2.5Y 6/3) gravelly coarse sand, brown (10YR 5/3) moist; 90 percent sand; 8 percent silt; 2 percent clay; structureless massive; soft, very friable, nonsticky, nonplastic; few very fine and common fine roots throughout; many very fine irregular pores; 22 percent subangular indurated granite gravel, 8 percent subangular indurated granite cobbles; NaF pH 10.3; moderately acid (pH 5.6); gradual smooth boundary. Lab sample # 13N02217
+ C1--25 to 34 cm; light yellowish brown (2.5Y 6/3) gravelly coarse sand, brown (10YR 5/3) moist; 90 percent sand; 8 percent silt; 2 percent clay; structureless massive; soft, very friable, nonsticky, nonplastic; few very fine and common fine roots throughout; many very fine irregular pores; 22 percent subangular indurated granite gravel, 8 percent subangular indurated granite cobbles; NaF pH 10.3; moderately acid (pH 5.6); gradual smooth boundary. Lab sample # 13N02217
 
- Bw2--34 to 49 cm; light yellowish brown (2.5Y 6/3) very gravelly coarse sand, dark yellowish brown (10YR 4/4) moist; 89 percent sand; 10 percent silt; 0 percent clay; structureless massive; soft, very friable, nonsticky, nonplastic; few very fine and fine roots throughout; many very fine irregular pores; 15 percent medium strong brown (7.5YR 5/6) moist, masses of oxidized iron with diffuse boundaries in matrix; 33 percent subangular indurated granite gravel, 7 percent subangular indurated granite cobbles; NaF pH 10.2; strongly acid (pH 5.4); clear wavy boundary. Lab sample # 13N02218
+ C2--34 to 51 cm; light yellowish brown (2.5Y 6/3) very gravelly coarse sand, dark yellowish brown (10YR 4/4) moist; 89 percent sand; 10 percent silt; 0 percent clay; structureless massive; soft, very friable, nonsticky, nonplastic; few very fine and fine roots throughout; many very fine irregular pores; 15 percent medium strong brown (7.5YR 5/6) moist, masses of oxidized iron with diffuse boundaries in matrix; 33 percent subangular indurated granite gravel, 7 percent subangular indurated granite cobbles; NaF pH 10.2; strongly acid (pH 5.4); clear wavy boundary. Lab sample # 13N02218
 
- 2Bw3--49 to 51 cm; very pale brown (10YR 7/3) very gravelly loamy sand, pale yellow (2.5Y 7/4) moist; 75 percent sand; 4 percent clay; structureless massive; soft, friable, nonsticky, nonplastic; few fine roots throughout; few very fine irregular pores; 15 percent medium strong brown (7.5YR 5/8) moist, masses of oxidized iron with clear boundaries in matrix; 40 percent subangular indurated granite gravel; abrupt broken boundary. (combined thickness of Bw horizons is 15 to 50 cm)
+ 2R--51 to 200 cm; Indurated granite bedrock, fractured at intervals of 45 to <100 cm.
 
- 3R--51 to 200 cm; Indurated granite bedrock, fractured at intervals of 45 to <100 cm.
-
-TYPE LOCATION: Fresno County, California, near Sapphire Lake in Evolution Valley in Kings Canyon National Park;  USGS 7.5 minute topographic quadrangle: Mount Darwin, California;  WGS84 37.152236 latitude and -118.693357 longitude;  UTM zone 11 4113103 meters N 349627 meters E NAD83.
+TYPE LOCATION: Fresno County, California, near Sapphire Lake in Evolution Valley in Kings Canyon National Park; USGS 7.5 minute topographic quadrangle: Mount Darwin, California; WGS84 37.152236 latitude and -118.693357 longitude; UTM zone 11 4113103 meters N 349627 meters E NAD83.
 
 RANGE IN CHARACTERISTICS:
 Soil temperature: The mean annual soil temperature at 50 cm is -1 to 5 degrees C and the difference between mean summer and mean winter soil temperature is less than 6 degrees C. The soils have a cryic temperature regime.
@@ -58,7 +56,7 @@ A horizons
   Reaction: very strongly to strongly acid
   NaF pH: 7.0 to 11.0
 
-Bw horizons
+C horizons
   Hue: 10YR, 2.5Y
   Value: 6 or 7 dry, 4 or 5 moist
   Chroma: 2 to 4, dry or moist
@@ -78,7 +76,7 @@ Bw horizons
 
 COMPETING SERIES: These are the Evolution, Lapin, and Siberian soils. Evolution soils have a densic contact within 100 to 150 cm of the mineral soil surface, and redox concentrations within 50 to 100 cm of the mineral soil surface. Lapin soils have a densic contact between 50 and 100 cm of the mineral soil surface. Siberian soils have a densic contact between 100 and 200 cm of the mineral soil surface.
 
-GEOGRAPHIC SETTING: The McDermand soils are in swales on structural benches in cirques. Slopes range from 2 to 15 percent. These soils formed in slope alluvium, colluvium, and till over residuum weathered from granite. Elevation is 2540 to 4140 meters. The climate is Mediterranean with warm, dry summers and cool, moist winters. The mean annual precipitation is 620 to 1505 mm and the mean annual air temperature is -2 to 4 degrees C. The frost free season is 40 to 90 days.
+GEOGRAPHIC SETTING: The McDermand soils are in swales on structural benches in cirques and on mountain slopes. Slopes range from 2 to 30 percent. These soils formed in slope alluvium, colluvium, and till over residuum weathered from granite. Elevation is 2540 to 4140 meters. The climate is Mediterranean with warm, dry summers and cool, moist winters. The mean annual precipitation is 620 to 1505 mm and the mean annual air temperature is -2 to 4 degrees C. The frost free season is 40 to 90 days.
 
 GEOGRAPHICALLY ASSOCIATED SOILS: These are the Forgotten and Langille soils. The Forgotten soils formed in the channels and floodplain steps of high gradient drainageways and do not have a lithic contact.  The Langille soils formed on convex structural benches and are moderately deep, loamy-skeletal, and well drained.
 
@@ -95,13 +93,13 @@ SERIES PROPOSED: Fresno County, California in Sequoia and Kings Canyon National 
 REMARKS: 
   Particle Size Control Section for this pedon: 25 to 51 cm.
   Diagnostic horizons and features recognized in this pedon are: 
-     Ochric Epipedon                 0 to 25 cm
+     Ochric Epipedon                 0 to 18 cm
      Redox Concentrations       5 to 15 cm and 34 to 51 cm
      Lithic Contact                      51 cm
 
 ADDITIONAL DATA: 
   Pedon information for this type location only: 
-  Pedon Type:   representative pedon for component  Lab Source ID:  SSL
+  Pedon Type:   representative pedon for component Lab Source ID:  SSL
   Pedon Purpose:   laboratory sampling site              Lab Pedon #:  13N0502
   NASIS User Pedon ID: S2012CA019003
 

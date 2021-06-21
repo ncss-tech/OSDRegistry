@@ -1,8 +1,8 @@
 LOCATION WHISKEYLOG             CA
 
-Tentative Series
+Established Series
 JBB/CES/JTW
-01/2020
+06/2021
 
 WHISKEYLOG SERIES
 
@@ -10,19 +10,19 @@ The Whiskeylog series consists of very deep, well drained soils formed in colluv
 
 TAXONOMIC CLASS: Fine-loamy, isotic, mesic Ultic Haploxeralfs
 
-TYPICAL PEDON: Whiskeylog gravelly very fine sandy loam on a southeast-facing (163 degree), 36 percent slope under mixed oak woodland at an elevation of 1249 meters. (Colors are for dry soils unless otherwise noted. When described on March 13, 2014 the soil was moist throughout.)
+TYPICAL PEDON: Whiskeylog sandy loam on a southeast-facing (120 degree), 40 percent slope under mixed oak woodland at an elevation of 1469 meters. (Colors are for dry soils unless otherwise noted. When described on June 2, 2014 the soil was dry to 37 cm.)
 
- A1--0 to 6 cm; yellowish brown (10YR 5/4) gravelly very fine sandy loam, dark brown (7.5YR 3/3) moist; 10 percent clay; weak fine granular structure; soft, very friable, nonsticky, nonplastic; many very fine and common fine roots throughout; common very fine irregular pores; 15 percent subangular indurated metavolcanic fine gravel; NaF pH 9.0; slightly acid (pH 6.2); clear smooth boundary. (combined thickness of the A horizons is 5 to 18 cm)
+ Oi--0 to 2 cm; yellowish brown (10YR 5/4) slightly decomposed plant material, dark yellowish brown (10YR 4/4) moist; neutral (pH 6.6); clear smooth boundary. (0 to 5 cm thick)
 
- A2--6 to 17 cm; dark yellowish brown (10YR 4/4) very fine sandy loam, dark brown (7.5YR 3/4) moist; 10 percent clay; weak fine and medium subangular blocky structure; slightly hard, friable, nonsticky, nonplastic; many very fine and few fine roots throughout; common very fine irregular pores; 5 percent subangular indurated metavolcanic fine gravel; NaF pH 9.0; moderately acid (pH 6.0); abrupt smooth boundary.
+ A--2 to 9 cm; brown (7.5YR 5/3) sandy loam, very dark brown (7.5YR 2.5/2) moist; 10 percent clay; weak very fine and fine granular structure; soft, very friable, slightly sticky, nonplastic; many very fine roots throughout; many very fine and fine irregular pores; 10 percent subangular indurated metasedimentary gravel; NaF pH 9.0; neutral (pH 6.8); clear smooth boundary. (5 to 18 cm thick)
 
- Bt1--17 to 46 cm; strong brown (7.5YR 4/6) gravelly very fine sandy loam, dark reddish brown (5YR 3/4) moist; 18 percent clay; moderate medium subangular blocky structure; moderately hard, firm, slightly sticky, slightly plastic; common very fine and few fine roots throughout; common fine and medium dendritic tubular pores; 4 percent clay films on bottom faces of peds; 25 percent subangular indurated metavolcanic gravel, 1 percent subangular indurated metavolcanic cobbles; NaF pH 9.5; moderately acid (pH 5.8); gradual smooth boundary. (combined thickness of the upper Bt horizons is 20 to 75 cm)
+ Bw1--9 to 37 cm; brown (7.5YR 4/4) loam, dark brown (7.5YR 3/3) moist; 16 percent clay; moderate fine subangular blocky structure; slightly hard, very friable, slightly sticky, slightly plastic; common very fine and fine roots throughout; many very fine and common fine irregular pores; 7 percent subangular indurated metasedimentary gravel; NaF pH 9.5; slightly acid (pH 6.4); gradual smooth boundary.
 
- Bt2--46 to 65 cm; reddish brown (5YR 4/4) very gravelly sandy clay loam, dark red (2.5YR 3/6) moist; 25 percent clay; moderate medium subangular blocky structure; moderately hard, firm, slightly sticky, slightly plastic; common very fine and few fine roots throughout; common fine and medium dendritic tubular pores; 15 percent clay films on all faces of peds; 30 percent subangular indurated metavolcanic gravel, 5 percent subangular indurated metavolcanics cobbles; NaF pH 9.5; moderately acid (pH 5.8); clear smooth boundary.
+ Bw2--37 to 86 cm; brown (7.5YR 4/4) loam, dark brown (7.5YR 3/4) moist; 18 percent clay; weak fine subangular blocky structure; slightly hard, friable, moderately sticky, moderately plastic; common very fine, fine, medium, and coarse roots throughout; many very fine and fine irregular, and common medium tubular pores; 2 percent subrounded indurated metasedimentary gravel, 1 percent subrounded indurated metasedimentary cobbles; NaF pH 9.5; slightly acid (pH 6.4); gradual smooth boundary. (combined thickness of Bw horizons is 0 to 75 cm)
 
- Bt3--65 to 134 cm; yellowish red (5YR 5/8) extremely gravelly sandy clay loam, red (2.5YR 4/6) moist; 23 percent clay; moderate medium subangular blocky structure; hard, very firm, slightly sticky, slightly plastic; few very fine roots throughout; common very fine and fine dendritic tubular pores; 7 percent clay films on bottom faces of peds; 55 percent subangular indurated metavolcanics gravel, 15 percent subangular indurated metavolcanics cobbles; NaF pH 9.0; moderately acid (pH 5.6).
+ Bt--86 to 140 cm; strong brown (7.5YR 4/6) loam, reddish brown (5YR 4/4) moist; 22 percent clay; weak fine subangular blocky structure; slightly hard, friable, moderately sticky, moderately plastic; common fine, medium, and coarse roots throughout; many fine irregular and common medium tubular pores; 10 percent faint clay films on all faces of peds; 10 percent subrounded indurated metasedimentary gravel, 3 percent subrounded indurated metasedimentary cobbles; NaF pH 9.0; moderately acid (pH 6.0).
 
-TYPE LOCATION: Tulare County, California, on the Generals Highway;  USGS 7.5 minute topographic quadrangle: Giant Forest, California;  WGS84 36.539353 latitude and -118.779964 longitude;  UTM zone 11 4045248 meters N 340668 meters E WGS84.
+TYPE LOCATION: Tulare County, California, off the Ladybug Trail in the South Fork area of Sequoia National Park; USGS 7.5 minute topographic quadrangle: Moses Mountain, California; WGS84 36.353092 latitude and -118.737902 longitude; UTM zone 11 4024515 meters N 344061 meters E NAD83.
 
 RANGE IN CHARACTERISTICS:
 Soil temperature: The mean annual soil temperature at 50 cm is 10 to 15 degrees C and the difference between mean summer and mean winter soil temperature is greater than 6 degrees C. The soils have a mesic temperature regime.
@@ -31,9 +31,10 @@ Soil moisture: The soils have a xeric soil moisture regime. The soil moisture co
 
 Diagnostic Feature(s):
   Ochric epipedon thickness:  10 to 30 cm
-  Argillic horizon thickness:  60 to 110 cm
+  Cambic horizon thickness:  0 to 75 cm
+  Argillic horizon thickness:  60 to 140 cm
 
-Base saturation35 to 75 percent in one or more subhorizons of the upper 75 cm of the argillic horizon (by sum of cations)
+Base saturation: 35 to 75 percent in one or more subhorizons of the upper 75 cm of the argillic horizon (by sum of cations)
 
 Particle size control section weighted average:
   Rock fragments: 0 to 35 percent, with 0 to 35 percent gravel and 0 to 15 percent cobbles.
@@ -51,11 +52,11 @@ A horizon(s)
 	0 to 5 percent cobbles
   Reaction: slightly acid to neutral
 
-Bw horizon (where present)
+Bw horizon(s) (where present)
   Hue: 7.5YR, 10YR
   Value: 4 to 6 dry, 3 or 4 moist
   Chroma: 4 or 6 dry, 3 or 4 moist
-  Texture: very fine sandy loam, sandy loam, loam
+  Texture: very fine sandy loam, fine sandy loam, sandy loam, loam
   Clay content: 8 to 18 percent
   Rock fragments: 0 to 15 percent
 	0 to 15 percent gravel
@@ -66,14 +67,14 @@ Upper Bt horizon(s)
   Hue: 2.5YR, 5YR, 7.5YR
   Value: 4 or 5 dry, 3 or 4 moist
   Chroma: 4 or 6 dry, 3 to 6 moist
-  Texture: very fine sandy loam, loam, sandy clay loam
+  Texture: very fine sandy loam, fine sandy loam, loam, sandy clay loam
   Clay content: 18 to 27 percent
   Rock fragments: 0 to 35 percent
 	0 to 35 percent gravel
 	0 to 15 percent cobbles
   Reaction: moderately to slightly acid
 
-Lower Bt horizon (Bt3)
+Lower Bt horizon(s) (where present)
   Hue: 2.5YR, 5YR, 7.5YR
   Value: 4 or 5 dry, 3 or 4 moist
   Chroma: 4 to 8 dry, 3 to 6 moist
@@ -86,13 +87,13 @@ Lower Bt horizon (Bt3)
 
 COMPETING SERIES: There are no other series in this family at this time.
 
-GEOGRAPHIC SETTING: The Whiskeylog soils are on linear to convex backslopes of mountain slopes. Slopes range from 30 to 60 percent. These soils formed in colluvium derived from metasedimentary and metavolcanics rock. Elevation is 900 to 1940 meters. The climate is Mediterranean with warm, dry summers and cool, moist winters. The mean annual precipitation is 730 to 1030 mm and the mean annual air temperature is 10 to 15 degrees C. The frost free season is 160 to 245 days.
+GEOGRAPHIC SETTING: The Whiskeylog soils are on linear to convex backslopes of mountain slopes. Slopes range from 30 to 60 percent. These soils formed in colluvium derived from metasedimentary and metavolcanic rock. Elevation is 900 to 1940 meters. The climate is Mediterranean with warm, dry summers and cool, moist winters. The mean annual precipitation is 730 to 1030 mm and the mean annual air temperature is 10 to 15 degrees C. The frost free season is 160 to 245 days.
 
 GEOGRAPHICALLY ASSOCIATED SOILS: These are the Colonymill, Kaweah, and Ladybug soils. The Colonymill soils are on linear backslopes of mountain slopes and have a mollic epipedon. The Kaweah soils are on concave to linear drainages on mountain slopes and have greater than 35 percent rock fragments in the particle size control section. The Ladybug soils are on shoulders of mountain slopes and are 100 to 150 cm to a lithic contact.
 
 DRAINAGE AND PERMEABILITY: Well drained, moderately high saturated hydraulic conductivity.
 
-USE AND VEGETATION: This soil is used for recreation, wildlife habitat, and watershed. Vegetation is black oak, canyon line oak, incense cedar, poison oak, alderleaf mountain mahogany, and annual grasses and forbs.
+USE AND VEGETATION: This soil is used for recreation, wildlife habitat, and watershed. Vegetation is black oak, canyon live oak, incense cedar, poison oak, alderleaf mountain mahogany, and annual grasses and forbs.
 
 DISTRIBUTION AND EXTENT: Sierra Nevada Mountains of California; MLRA 22A. These soils are of limited extent.
 
@@ -101,13 +102,14 @@ SOIL SURVEY REGIONAL OFFICE (SSRO) RESPONSIBLE: Davis, California
 SERIES PROPOSED: Tulare County, California in Sequoia and Kings Canyon National Parks. Source of name from the historic Whiskey Log camp on the South Fork of the Kaweah River in Sequoia National Park.
 
 REMARKS: 
-  Particle Size Control Section for this pedon: 86 to 136 cm.
+  Particle Size Control Section for this pedon: 86 to 136 cm
   Diagnostic horizons and features recognized in this pedon are: 
-     Ochric Epipedon            0 to 17 cm
-     Argillic Horizon              17 to 150 cm
+     Ochric Epipedon            2 to 20 cm
+     Cambic Horizon             9 to 86 cm
+     Argillic Horizon           86 to 150 cm
 
 ADDITIONAL DATA: 
-  NASIS User Pedon ID: 2014CA7927002
+  NASIS User Pedon ID: 2014CA7921001
 
 Soil classified using the 12th Edition of the Keys to Soil Taxonomy.
 

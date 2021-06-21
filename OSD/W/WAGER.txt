@@ -1,6 +1,6 @@
 LOCATION WAGER                  CA
 
-Tentative Series
+Established Series
 CES/JBB
 06/2021
 
@@ -8,13 +8,13 @@ WAGER SERIES
 
 The Wager series consists of very deep, very poorly drained soils formed in organic material over alluvium derived from granitic rocks. The Wager soils are on flood plains of the Sierra Nevada Mountains. Slopes range from 2 to 8 percent. The mean annual precipitation is about 1000 mm and the mean annual air temperature is about 5 degrees C.
 
-TAXONOMIC CLASS:  Sandy or sandy-skeletal, isotic, euic, frigid Terric Haplosaprists
+TAXONOMIC CLASS: Sandy or sandy-skeletal, isotic, euic, frigid Terric Haplosaprists
 
 TYPICAL PEDON: Wager mucky peat on a west-facing (295 degree), 7 percent slope under a cover of shooting star, juncus, bulrush, Sierra willow, and Lemmon's willow at an elevation of 2135 meters. (Colors are for dry soils unless otherwise noted. When described on August 9, 2017 the soil was moist throughout.)
 
  Oe--0 to 18 cm; brown (7.5YR 4/2) mucky peat, very dark brown (10YR 2/2) moist; about 60 percent fiber, 20 percent rubbed; massive; nonsticky, nonplastic; many very fine, fine, and medium roots throughout; many very fine and common fine and medium irregular pores; moderately acid (pH 5.6); clear smooth boundary. (0 to 20 cm thick) Lab sample # 17N04656
 
- Oa--18 to 46 cm; dark grayish brown (10YR 4/2) muck, 20 percent black (10YR 2/1) and 80 percent very dark brown (10YR 2/2) moist; about 15 percent fiber, 5 percent rubbed; weak medium subangular blocky structure; slightly sticky, nonplastic; common very fine and fine roots throughout; many very fine and common fine irregular pores; very strongly acid (pH 5.0); abrupt smooth boundary. (0 to 65 cm thick) Lab sample # 17N04657
+ Oa--18 to 46 cm; dark grayish brown (10YR 4/2) muck, 20 percent black (10YR 2/1) and 80 percent very dark brown (10YR 2/2) moist; about 15 percent fiber, 5 percent rubbed; weak medium subangular blocky structure; slightly sticky, nonplastic; common very fine and fine roots throughout; many very fine and common fine irregular pores; very strongly acid (pH 5.0); abrupt smooth boundary. (0 to 60 cm thick) Lab sample # 17N04657
 
  Cg1--46 to 95 cm; gray (2.5Y 6/1) loamy coarse sand, dark greenish gray (10Y 3/1) moist; 78 percent sand; 16 percent silt; 6 percent clay; massive; moderately hard, firm, slightly sticky, nonplastic; few very fine roots throughout; common very fine irregular pores; NaF pH 8.6; moderately acid (pH 5.7); abrupt smooth boundary. (5 to 60 cm thick) Lab sample # 17N04658
 
@@ -28,12 +28,14 @@ Soil temperature: The mean annual soil temperature at 50 cm is 0 to 8 degrees C 
 Soil moisture: The soil is saturated in some part throughout the year, with a seasonal high water table dropping below 50 cm in late summer and fall. The soils have an aquic soil moisture regime.
 
 Diagnostic Feature(s):
-  Histic epipedon thickness: 20 to 40 cm
+
   Aquic conditions: present within 10 cm
 
-  Organic matter: 20 to 75 percent in the epipedon
+  Organic matter: 20 to 75 percent in the organic horizons
 
   Base saturation: less than 50 percent (by ammonium acetate)
+
+  Depth to redoximorphic features: 25 to 50 cm
 
 Particle size control section weighted average:
   Rock fragments: 0 to 10 percent gravel
@@ -57,7 +59,7 @@ Oa horizon(s)
   Reaction: moderately to very strongly acid
 
 Cg1 horizon
-  Hue: 2.5YR, 10YR
+  Hue: 10YR, 2.5Y
   Value: 4 to 6 dry, 3 or 4 moist
   Chroma: 1 or 2, dry or moist
   Texture: coarse sand, loamy coarse sand, loamy sand
@@ -66,13 +68,13 @@ Cg1 horizon
   Reaction: moderately or strongly acid
 
 Cg2 horizon
-  Hue: 2.5YR, 10YR
+  Hue: 10YR, 2.5Y
   Value: 4 to 7 dry, 3 to 5 moist
   Chroma: 1 or 2, dry or moist
   Texture: coarse sand, loamy coarse sand, loamy sand
   Clay content: 1 to 8 percent
   Rock fragments: 0 to 60 percent gravel
-  Reaction: strongly or very strongly acid
+  Reaction: moderately or strongly acid
 
 COMPETING SERIES: There are no other series in this family at this time.
 
@@ -93,7 +95,6 @@ SERIES PROPOSED: Tulare County, California in Sequoia and Kings Canyon National 
 REMARKS: 
   Particle Size Control Section for this pedon: 46 to 76 cm
   Diagnostic horizons and features recognized in this pedon are: 
-     Histic Epipedon               0 to 40 cm
      Hemic Soil Materials      0 to 18 cm
      Aquic Conditions             0 to 178 cm
      Sapric Soil Materials       18 to 46 cm
