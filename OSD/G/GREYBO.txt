@@ -2,39 +2,57 @@ LOCATION GREYBO                 ID
 
 Established Series
 Rev. WJ/GHL
-06/2011
+08/2021
 
 GREYBO SERIES
 
-The Greybo series consists of very deep, well drained soils that formed in loess.  These soils are on loess plains and have slopes of 2 to 20 percent.  The mean annual precipitation is about 26 inches.
+The Greybo series consists of very deep, well drained soils that formed in loess.  These soils are on loess plains and have slopes of 2 to 20 percent.  The mean annual precipitation is about 660 mm.
 
 TAXONOMIC CLASS: Fine-silty, mixed, superactive Pachic Argicryolls
 
 TYPICAL PEDON:  Greybo silt loam - forested.  (Colors are for dry soil unless otherwise noted.)
 
-    O2--2 inches to 0; black (10YR 2/1) decomposed organic mat.  (0 to 4 inches thick)
+    Oa--0 to 5 cm; black (10YR 2/1) decomposed organic mat.  (0 to 10 cm thick)
 
-    A1--0 to 19 inches; brown (10YR 5/3) silt loam, dark brown (10YR 3/3) moist; weak fine granular structure; slightly hard, friable; many very fine, fine and medium, common coarse and very coarse roots; common very fine and fine tubular pores; neutral (pH 6.8); diffuse wavy boundary.  (8 to 25 inches thick)
+    A1--5 to 48 cm; brown (10YR 5/3) silt loam, dark brown (10YR 3/3) moist; weak fine granular structure; slightly hard, friable; many very fine, fine and medium, common coarse and very coarse roots; common very fine and fine tubular pores; neutral (pH 6.8); diffuse wavy boundary.  (20 to 65 cm thick)
 
-    A2--19 to 37 inches; pale brown (10YR 6/3) silt loam, brown (10YR 4/3) moist; weak medium prismatic that parts to weak medium subangular blocky structure; slightly hard, friable, slightly sticky and slightly plastic; common very fine and fine, few medium and coarse roots; many very fine and fine tubular pores; about 5 percent lamellae up to 3/4 inches wide; neutral (pH 6.8); diffuse wavy boundary.  (0 to 20 inches thick)
+    A2--48 to 94 cm; pale brown (10YR 6/3) silt loam, brown (10YR 4/3) moist; weak medium prismatic that parts to weak medium subangular blocky structure; slightly hard, friable, slightly sticky and slightly plastic; common very fine and fine, few medium and coarse roots; many very fine and fine tubular pores; about 5 percent lamellae up to 3/4 inches wide; neutral (pH 6.8); diffuse wavy boundary.  (0 to 50 cm thick)
 
-    A&B--37 to 58 inches; pale brown (10YR 6/3) silt loam, brown (10YR 4/3) moist; moderate medium prismatic that parts to moderate medium subangular blocky structure; slightly hard, friable; few medium and coarse roots; many very fine and fine tubular pores; 25 percent light yellowish brown (10YR 6/4) silty clay loam lamellae 1/4- to 1-inch thick; strong very fine and fine subangular blocky structure; hard, friable, sticky and plastic; thin patchy clay films on some vertical and pore surfaces, pale brown (10YR 6/3) moist silt coats on faces of peds; neutral (pH 6.8); diffuse wavy boundary.  (12 to 23 inches thick)
+    AB--94 to 147 cm; pale brown (10YR 6/3) silt loam, brown (10YR 4/3) moist; moderate medium prismatic that parts to moderate medium subangular blocky structure; slightly hard, friable; few medium and coarse roots; many very fine and fine tubular pores; 25 percent light yellowish brown (10YR 6/4) silty clay loam lamellae 1/4- to 1-inch thick; strong very fine and fine subangular blocky structure; hard, friable, sticky and plastic; thin patchy clay films on some vertical and pore surfaces, pale brown (10YR 6/3) moist silt coats on faces of peds; neutral (pH 6.8); diffuse wavy boundary.  (30 to 60 cm thick)
 
-    B&A--58 to 60 inches; light yellowish brown (10YR 6/4) silt loam, brown (10YR 4/3) moist; moderate medium prismatic that parts to weak medium subangular blocky structure; slightly hard, friable, slightly sticky and plastic; few medium and coarse roots; many very fine, fine and medium tubular pores; 25 percent tongues of pale brown (10YR 6/3) silt loam A2 material; few lamellae; neutral (pH 6.8).  (10 to 40 inches thick)
+    BA--147 to 150 cm; light yellowish brown (10YR 6/4) silt loam, brown (10YR 4/3) moist; moderate medium prismatic that parts to weak medium subangular blocky structure; slightly hard, friable, slightly sticky and plastic; few medium and coarse roots; many very fine, fine and medium tubular pores; 25 percent tongues of pale brown (10YR 6/3) silt loam A2 material; few lamellae; neutral (pH 6.8).  (25 to 100 cm thick)
 
-TYPE LOCATION:  Jefferson County, Idaho; 1,400 feet south, 1,350 feet east of the northwest corner, section 28, T. 4 N., R. 41 E.
+TYPE LOCATION:  Jefferson County, Idaho; about 425 meters south, 410 meters east of the northwest corner, section 28, T. 4 N., R. 41 E.
 
-RANGE IN CHARACTERISTICS:  Mean annual soil temperature ranges from 38 degrees to 42 degrees F.; mean summer soil temperature at a depth of 20 inches without an O horizon ranges from 53 degrees to 59 degrees F.  Depth to the B&A horizon ranges from 30 to 60 inches.  The profile ranges from slightly acid through neutral.  The soil moisture regime is udic.
+RANGE IN CHARACTERISTICS:
 
-The A1 horizon has value of 4 or 5 dry, 2 or 3 moist, and chroma of 2 or 3.  The A2 horizon has value of 4 through 6 dry, 3 through 5 moist, and chroma of 2 or 3.
+Mean annual soil temperature ranges from 3 degrees to 6 degrees C.
+Mean summer soil temperature at a depth of 50 cm without an O horizon ranges from 12 degrees to 15 degrees C.
+Depth to the B&A horizon ranges from 75 to 150 cm.
+The profile ranges from slightly acid through neutral.
+The soil moisture regime is udic.
 
-The A&B horizon has value of 5 or 6 dry, 3 through 5 moist, and chroma of 2 through 4.  The B&A horizon has value of 5 or 6 dry, 3 or 4 moist, and chroma of 3 or 4.
+A1 horizon
+Value: 4 or 5 dry, 2 or 3 moist
+Chroma of 2 or 3
 
-COMPETING SERIES:  This is the Tularosa series.  Tularosa soils lack O, A2, A&B and B&A horizons.
+A2 horizon
+Value: 4 through 6 dry, 3 through 5 moist
+Chroma: of 2 or 3
 
-GEOGRAPHIC SETTING:  Greybo soils are in loess plains.  Slopes range from 2 to 60 percent.  Elevations range from 6,000 to 7,000 feet.  The annual precipitation is 18 to 35 inches.  The frost-free season is 40 to 70 days.
+AB horizon
+Value: 5 or 6 dry, 3 through 5 moist
+Chroma of 2 through 4
 
-GEOGRAPHICALLY ASSOCIATED SOILS:  These are the Judkins, Tetonia, and Turnerville soils.  Judkins and Turnerville soils have base saturation of less than 50 percent.  Tetonia soils lack O, A2, A&B and B&A horizons, and are coarse-silty.
+BA horizon
+Value: 5 or 6 dry, 3 or 4 moist
+Chroma of 3 or 4
+
+COMPETING SERIES:  This is the Tularosa series.  Tularosa soils lack O, A2, AB and BA horizons.
+
+GEOGRAPHIC SETTING:  Greybo soils are in loess plains.  Slopes range from 2 to 60 percent.  Elevations range from 1830 to 2140 meters.  The annual precipitation is 460 to 890 millimeters.  The frost-free season is 40 to 70 days.
+
+GEOGRAPHICALLY ASSOCIATED SOILS:  These are the Judkins, Tetonia, and Turnerville soils.  Judkins and Turnerville soils have base saturation of less than 50 percent.  Tetonia soils lack O, A2, AB and BA horizons, and are coarse-silty.
 
 DRAINAGE AND PERMEABILITY:  Well drained; slow to very rapid runoff; moderate permeability.
 

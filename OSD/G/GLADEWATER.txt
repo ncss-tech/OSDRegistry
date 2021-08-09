@@ -1,68 +1,163 @@
 LOCATION GLADEWATER             TX+AR
 
 Established Series
-CLN:GLL; Rev.JDS
-10/2004
+CLN-GLL-JCP-HLH
+08/2021
 
 GLADEWATER SERIES
 
-The Gladewater series consists of very deep, somewhat poorly drained, very slowly permeable soils on flood plains. The soils formed in clayey alluvium. Slopes range from 0 to 1 percent.
+The Gladewater series consists of very deep soils that formed in clayey alluvium derived from mudstone. They are somewhat poorly drained and very slowly permeable. These soils occur on broad floodplains of river valleys. The slope range is 0 to 1 percent. Mean annual precipitation is about 1168 mm (46 in) and the mean annual air temperature is about 18.9 degrees C (66 degrees F).
 
 TAXONOMIC CLASS: Very-fine, smectitic, thermic Chromic Epiaquerts
 
 TYPICAL PEDON: Gladewater clay--pasture. (Colors are for moist soil unless otherwise noted.)
 
- A--0 to 8 inches; very dark gray (10YR 3/1) clay; moderate very fine angular blocky structure; extremely hard, very firm; many fine and few medium roots; few coarse faint dark gray (10YR 4/1) iron depletions; slightly acid; abrupt wavy boundary. (4 to 12 inches thick)
+     A--0 to 20 cm (0 to 8 in); very dark gray (10YR 3/1) clay; moderate very fine angular blocky structure; extremely hard, very firm; many fine and few medium roots; few coarse faint dark gray (10YR 4/1) iron depletions; slightly acid; abrupt wavy boundary. (Thickness is 10 to 30 cm [4 to 12 in].)
 
- Bg--8 to 17 inches; dark gray (10YR 4/1) clay; moderate medium and coarse angular blocky structure; extremely hard, very firm; common fine and few medium roots; few fine and medium pores; few small slickensides; common pressure faces; dark yellowish brown (10YR 4/6) redox concentrations in pores and along root channels; few thin very dark gray (10YR 3/1) coatings along cracks; few fine iron-manganese concretions; common fine distinct dark yellowish brown (10YR 4/4) masses of iron accumulation; strongly acid; gradual wavy boundary. (6 to 24 inches thick)
+     Bg--20 to 43 cm (8 to 17 in);; dark gray (10YR 4/1) clay; moderate medium and coarse angular blocky structure; extremely hard, very firm; common fine and few medium roots; few fine and medium pores; few small slickensides; common pressure faces; dark yellowish brown (10YR 4/6) redox concentrations in pores and along root channels; few thin very dark gray (10YR 3/1) coatings along cracks; few fine iron-manganese concretions; common fine distinct dark yellowish brown (10YR 4/4) masses of iron accumulation; strongly acid; gradual wavy boundary. (Thickness is 15 to 61 cm [6 to 24 in].)
 
- Bssg1--17 to 37 inches; dark gray (10YR 4/1) clay; moderate medium and coarse angular blocky structure; extremely hard, very firm; few fine roots; few fine and medium pores; many large intersecting slickensides tilted 45 degrees from horizontal; few thin very dark gray (10YR 3/1) coatings along cracks; common fine iron-manganese concretions; dark yellowish brown (10YR 4/6) masses of iron accumulation in pores and along root channels; few fine distinct dark yellowish brown (10YR 4/4) masses of iron accumulation; very strongly acid; gradual boundary.
+     Bssg1--43 to 94 cm (17 to 37 in); dark gray (10YR 4/1) clay; moderate medium and coarse angular blocky structure; extremely hard, very firm; few fine roots; few fine and medium pores; many large intersecting slickensides tilted 45 degrees from horizontal; few thin very dark gray (10YR 3/1) coatings along cracks; common fine iron-manganese concretions; dark yellowish brown (10YR 4/6) masses of iron accumulation in pores and along root channels; few fine distinct dark yellowish brown (10YR 4/4) masses of iron accumulation; very strongly acid; gradual boundary.
 
- Bssg2--37 to 48 inches; grayish brown (10YR 5/2) clay; moderate medium and coarse angular blocky structure; extremely hard, very firm; few fine roots; few fine and medium pores; many large intersecting slickensides tilted 45 degrees from horizontal; few thin very dark gray (10YR 3/1) coatings along cracks; common fine iron-manganese concretions; few fine distinct dark yellowish brown (10YR 4/4) masses of iron accumulation; dark yellowish brown (10YR 4/6) masses of iron accumulation line some pores and root channels; very strongly acid; gradual boundary.
+     Bssg2--94 to 122 cm (37 to 48 in); grayish brown (10YR 5/2) clay; moderate medium and coarse angular blocky structure; extremely hard, very firm; few fine roots; few fine and medium pores; many large intersecting slickensides tilted 45 degrees from horizontal; few thin very dark gray (10YR 3/1) coatings along cracks; common fine iron-manganese concretions; few fine distinct dark yellowish brown (10YR 4/4) masses of iron accumulation; dark yellowish brown (10YR 4/6) masses of iron accumulation line some pores and root channels; very strongly acid; gradual boundary.
 
- Bssg3--48 to 60 inches; grayish brown (10YR 5/2) clay; weak medium and coarse angular blocky structure; extremely hard, very firm; few fine roots; few fine and medium pores; many large intersecting slickensides tilted 45 degrees from horizontal; common fine iron-manganese concretions; few fine and medium distinct yellowish brown (10YR 5/6) masses of iron accumulation; dark yellowish brown (10YR 4/6) masses of iron accumulation are in some pores and along root channels; very strongly acid; gradual boundary.
+     Bssg3--122 to 152 cm (48 to 60 in); grayish brown (10YR 5/2) clay; weak medium and coarse angular blocky structure; extremely hard, very firm; few fine roots; few fine and medium pores; many large intersecting slickensides tilted 45 degrees from horizontal; common fine iron-manganese concretions; few fine and medium distinct yellowish brown (10YR 5/6) masses of iron accumulation; dark yellowish brown (10YR 4/6) masses of iron accumulation are in some pores and along root channels; very strongly acid; gradual boundary.
 
- Bssg4--60 to 73 inches; light brownish gray (10YR 6/2) clay; weak medium and coarse angular blocky structure; extremely hard, firm; few fine roots; few fine pores; common large intersecting slickensides tilted 45 degrees from horizontal; few fine iron-manganese concretions; few fine clusters of gypsum crystals; common fine and medium distinct yellowish brown (10YR 5/6) masses of iron accumulation; very strongly acid; clear smooth boundary. (combined thickness of the Bgss horizons is 30 to 60 inches)
+     Bssg4--152 to 185 cm (60 to 73 in); light brownish gray (10YR 6/2) clay; weak medium and coarse angular blocky structure; extremely hard, firm; few fine roots; few fine pores; common large intersecting slickensides tilted 45 degrees from horizontal; few fine iron-manganese concretions; few fine clusters of gypsum crystals; common fine and medium distinct yellowish brown (10YR 5/6) masses of iron accumulation; very strongly acid; clear smooth boundary. (Combined thickness of the Bssg horizons is 76 to 152 cm [30 to 60 in].)
 
- BCg--73 to 83 inches; gray (10YR 5/1) clay loam; weak coarse prismatic structure parting to weak medium angular blocky structure; hard, firm; few fine roots; common fine clusters of gypsum crystals; many medium and coarse distinct yellowish brown (10YR 5/6) and few fine prominent yellowish red (5YR 5/8) masses of iron accumulation; very strongly acid.
+     BCgy--185 to 211 cm (73 to 83 in); gray (10YR 5/1) clay loam; weak coarse prismatic structure parting to weak medium angular blocky structure; hard, firm; few fine roots; common fine clusters of gypsum crystals; many medium and coarse distinct yellowish brown (10YR 5/6) and few fine prominent yellowish red (5YR 5/8) masses of iron accumulation; very strongly acid.
 
-TYPE LOCATION: Wood County, Texas; from the intersection of U.S. Highway 69 and U.S. Highway 80 in Mineola; 2.5 miles south on U.S. Highway 69; 300 feet west in Sabine River flood plain. (Latitude: 32N, 37, 39; Longitude: 95W, 27, 58)
+TYPE LOCATION: Wood County, Texas; from the intersection of U.S. Highway 69 and U.S. Highway 80 in Mineola; 2.5 miles south on U.S. Highway 69; 300 feet west in Sabine River flood plain. 
 
-RANGE IN CHARACTERISTICS: Solum thickness is more than 80 inches. The control section has clay content that ranges from 60 to 75 percent. Iron-manganese concretions range from none to common in the A horizon and few to common below. This is a cyclic soil and undisturbed areas have gilgai microrelief with microknolls 6 to 10 inches higher than microdepressions. Distance from the center of the microknoll to the center of the microdepression ranges from about 4 to 12 feet. The microknoll makes up about 20 percent, the intermediate or area between the knoll and depression about 50 percent, and the microdepression about 30 percent. The amplitude of waviness between the A horizon and high value colors in the lower part ranges from about 3 to 16 inches. The chimneys of high value materials on microknolls make up less than 3 percent of the surface area. These areas are mainly 1 to 5 feet long and 1/2 to 2 feet wide. Cracks 1/2 to 2 inches wide extend from the surface to a depth of more than 20 inches when the soil is dry. The cracks remain open for less than 90 cumulative days in most years. Intersecting slickensides begin at a depth of 10 to 24 inches and extend throughout the subsoil.
+USGS topographic quadrangle: Mineola, TX  
+Latitude: 32 degrees, 37 minutes, 38.99 seconds N
+Longitude: 95 degrees, 27 minutes, 57.99 seconds W 
+Datum: WGS84
 
-The A horizon has hue of 10YR, value of 2 to 5, and chroma of 1 or 2. Reaction ranges from moderately acid to neutral.
+Decimal Degrees 
+Latitude: 32.6275000
+Longitude: -95.4661111
+Datum: WGS 84 
 
-The Bg horizon has hue of 10YR or 2.5Y, value of 4 or 5, chroma of 1, or value of 6 with chroma 1 or 2. Redoximorphic features in shades of gray, brown or yellow range from few to many. Reaction ranges from strongly acid to slightly acid.
+UTM Easting: 268632.86 m 
+UTM Northing: 3612678.55 m 
+UTM Zone: 15
 
-The Bssg horizon has hue of 10YR or 2.5Y, value of 3 to 6, and chroma of 1 or 2. Redoximorphic features in shades of gray, brown or yellow range from few to many. Gypsum crystals range from none to common in the lower part. Reaction ranges from very strongly acid to neutral.
+RANGE IN CHARACTERISTICS: 
+Solum thickness: more than 203 cm (80 in). 
+Soil Moisture: Aquic
+Soil Temperature: Thermic and Hyperthermic
+Thickness of Ochric Epipedon: 13 to 30 cm (5 to 12 in)
+Depth to Cambic Horizon: 13 to 30 cm (5 to 12 in)
+Depth to aquic conditions: 13 to 203 cm (5 to 80 in)
+Depth to Episaturation: 13 to 203 cm (5 to 80 in) from May to November
+Depth to redox concentrations: 13 to 203 (5 to 80 in)
+Depth to redox depletions: 0 to 203 cm (0 to 80 in)
+Vertic features: Cracks 1 to 5 cm (1/2 to 2 in) wide extend from the surface to a depth of more than 51 cm (20 in) when the soil is dry. The cracks remain open for less than 90 cumulative days in most years. Intersecting slickensides begin at a depth of 25 to 61 cm (10 to 24 in) and extend throughout the subsoil.
+PSCS: 60 to 70 percent clay
+This is a cyclic soil and undisturbed areas have gilgai microrelief with microknolls 15 to 25 cm (6 to 10 in) higher than microdepressions. Distance from the center of the microknoll to the center of the microdepression ranges from about 122 to 366 cm (48 to 144 in). The microknoll makes up about 20 percent, the intermediate or area between the knoll and depression about 50 percent, and the microdepression about 30 percent. The amplitude of waviness between the A horizon and high value colors in the lower part ranges from about 8 to 41 cm (3 to 16 in). The chimneys of high value materials on microknolls make up less than 3 percent of the surface area. These areas are mainly 30 to 152 cm (12 to 60 in) long and 15 to 61 cm (6 to 24 in) wide.
+These soils occur on circular gilgai on floodplains of inland dissected coastal plains and broad floodplains of river valleys. 
 
-The BCg or BCssg horizon, where present, has matrix color in shades of gray or brown with redoximorphic features in these colors and in shades of yellow or red. Some pedons have a variegated matrix of these colors. The texture is loam, sandy clay loam, or clay loam. Reaction ranges from very strongly acid to slightly alkaline.
+A horizon
+Hue: 10YR
+Value: 2 to 5
+Chroma: 1 or 2 
+Texture: Clay
+Redox depletion: 0 to 2 percent; coarse; faint; dark gray
+Redox concentrations: 0 to 10 percent; fine; faint or distinct; dark yellowish brown to yellowish brown
+Reaction (pH): moderately acid to neutral (5.6-7.3)
 
-COMPETING SERIES: These are the Perry and Sharkey series in the same family, and the Estes, Kaufman, Ozias, Texark, and Trinity series in closely related families. Perry soils formed in Arkansas River alluvium, and have reddish clayey layers in the lower part of the subsoil. Sharkey soils formed in Mississippi River alluvium and have reaction more than 5.0 throughout. Estes and Ozias soils have reaction less than 5.0 in the surface layer, and have higher chroma matrix colors in the subsoil. Kaufman, Texark and Trinity soils do not have aquic conditions within a depth of 20 inches, and have a surface layer thicker than 12 inches with value of 3 or less.
+Bg horizon
+Hue: 10YR or 2.5Y 
+Value: 4, 5, or 6
+Chroma: 1 or 2
+Texture: Clay
+Slickensides: 0 to 5 percent; faint; (where present)
+Pressure faces: 25 to 50 percent; distinct; (where present)
+Iron-manganese concentrations: 1 to 25 percent; 1 to 2 mm; concretions
+Redox concentrations: 1 to 30 percent; brown, or yellow; along pores and root channels 
+Redox depletion: 0 or 2 percent; shades of gray; coatings along cracks
+Reaction: strongly acid to slightly acid (5.1-6.5)
 
-GEOGRAPHIC SETTING: These soils are on flood plains. Slope ranges from 0 to 1 percent. The soil formed in clayey alluvium. The mean annual precipitation ranges from 38 to 46 inches and mean air temperature ranges from 64 to 68 degrees F. Frost free days range from 235 to 275 days and elevation is 200 to 400 feet above sea level. Thornthwaite P-E index ranges from about 62 to 74.
+Bssg horizon:
+Hue: 10YR or 2.5Y
+Value: 3 to 6
+Chroma: 1 or 2
+Texture: Clay
+Slickensides: 50 to 90 percent; prominent
+Iron-manganese concentrations: 25 to 50 percent; 1 to 2 mm; concretions
+Redox concentration: 2 to 30 percent; shades of brown, or yellow 
+Redox depletion: 0 to 2 percent; shades of gray; coatings along cracks
+Gypsum crystals: 0 to 3 percent; in the lower part of horizon 
+Reaction: very strongly acid to neutral (4.5-7.3)
 
-GEOGRAPHICALLY ASSOCIATED SOILS: These are the closely related Kaufman, Texark and Trinity soils, and the Nahatche series. Nahatche soils have a fine-loamy control section. Texark soils are on similar positions on flood plains. Kaufman, Nahatche, and Trinity soils are on similar or slightly higher positions on the flood plain.
+BCg, BCgy or BCssg horizon (where present):
+Hue: 10YR or 2.5Y
+Value: 3 to 6
+Chroma: 1 or 2
+Texture: loam, sandy clay loam, or clay loam
+Slickensides: 0 to 50 percent; faint to distinct
+Redox concentration: 20 to 35 percent, 2 to 20 mm, shades of brown, red or yellow 
+Redox depletion: 0 to 2 percent; shades of gray; coatings along cracks
+Gypsum crystals: 2 to 5 percent
+Reaction: very strongly acid to slightly alkaline (4.5-7.8)
 
-DRAINAGE AND PERMEABILITY: Somewhat poorly drained; runoff is negligible in depressional areas, and high in non-depressional areas; very slow permeability. Depressional areas are very poorly drained.
+COMPETING SERIES: This is the Perry and Sharkey series. Similar soils are the Estes, Kaufman, Ozias, Texark, and Trinity series.
+Perry soils: formed in Arkansas River alluvium, and have reddish clayey layers in the lower part of the subsoil. 
+Sharkey soils: formed in Mississippi River alluvium and have reaction more than 5.0 throughout. 
+Estes and Ozias soils: have a reaction less than 5.0 in the surface layer, and have higher chroma matrix colors in the subsoil. 
+Kaufman, Texark and Trinity soils: do not have aquic conditions within a depth of 51 cm (20 in), and have a surface layer thicker than 30 cm (12 in) with value of 3 or less.
+
+GEOGRAPHIC SETTING: 
+Parent Material: clayey alluvium derived from mudstone
+Microfeature: circular gilgai (where present)
+Landscape: river valleys, inland dissected coastal plains, or dissected plains
+Landform: concave-concave and concave-linear treads on broad floodplains 
+Slope: 0 to 1 percent
+Soil Moisture Regime: Udic and Udic Ustic
+Soil Temperature Regime: Thermic
+Mean annual precipitation: 965 to 1304 mm (38 to 51 in)
+Mean annual air temperature: 17.7 to 20.0 degrees C (63 to 6 degrees F)
+Frost-free period: 235 to 275 days
+Elevation: 39 to 157 m (128 to 515 ft)
+Thornthwaite P-E Index: 62 to 74
+
+GEOGRAPHICALLY ASSOCIATED SOILS: 
+These include the competing Kaufman, Texark, Trinity, and the Nahatche series. 
+Nahatche soils: occur on similar or slightly higher positions on flood plains and have a fine-loamy control section
+Texark soils: occur on similar positions on flood plains, do not have aquic conditions within a depth of 51 cm (20 in) and have a surface layer thicker than 30 cm (12 in)
+Kaufman and Trinity soils: occur on similar or slightly higher positions on flood plains, do not have aquic conditions within a depth of 51 cm (20 in) and have a surface layer thicker than 30 cm (12 in)
+
+DRAINAGE AND PERMEABILITY: 
+Drainage class: Somewhat poorly or very poorly in depressional areas
+Permeability class: very slow  
+Runoff: negligible in depressional areas or high in non-depressional areas
+Flooding: frequent to none, for brief to very long duration, during the months of November to May
+Ponding: none and frequent, for long duration, during the months of November to May
+Seasonal water table: episaturation occurs between the depths of 0 to 107 cm (0 to 3.5 ft) of the surface during the months of November to May in most years
 
 USE AND VEGETATION: Most areas are in pasture or forest. Some areas are used for native pasture or range. Pasture areas are introduced grasses such as dallisgrass and fescue. Forested areas are in mixed hardwoods including water oak, willow oak, cedar elm and black willow.
 
-DISTRIBUTION AND EXTENT: Western Coastal Plain (MLRA 133B) in east and east central Texas and Arkansas. The series is of large extent.
+SOIL SURVEY REGIONAL OFFICE (SSRO) RESPONSIBLE: Temple, Texas
 
-MLRA SOIL SURVEY REGIONAL OFFICE (MO) RESPONSIBLE: Temple, Texas
+DISTRIBUTION AND EXTENT:
+General Area:  East and East Central Texas and Arkansas
+Land Resource Region: Southwestern Prairies Cotton and Forage Region, South Atlantic and Gulf Slope Cash Crops, Forest, and Livestock Region
+Major Land Resource Area: 133B - Western Coastal Plain, 87 - Texas Claypan Area, and 86 - Texas Blackland Prairies
+Extent: large
 
-SERIES ESTABLISHED: Red River County, Texas; 1972.
+SERIES ESTABLISHED: Red River County, Texas; 1972
 
 REMARKS: These soils were previously included in the Navasota and Tuscumbia series. The classification was changed from Vertic Haplaquepts to Entic Pelluderts in November, 1991. In November, 1992, the classsification was changed to Chromic Endoaquerts and from fine to very-fine particle size family.  In October, 2004, the great group classification was changed from Endoaquerts to Epiaquerts based on saturation studies conducted on similar wet vertisols in MLRA's 131 and 150A.
 
 Diagnostic horizons and features recognized in the type location pedon include:
-Ochric epipedon -- 0 to 8 inches (A horizon).
-Cambic horizon --- 8 to 83 inches (Bg, Bssg and BCg horizons).
-Aquic conditions - 8 to 83 inches (Bg, Bssg and BCg horizons).
-Slickensides ----- 17 to 73 inches (Bssg horizons).
-
-ADDITIONAL DATA: NSSL data are available for the type location pedon in Wood County, Texas (S91TX-499-1). Additional NSSL data are available for the survey area typical pedon in Cass County, Texas (S93TX-067-001). 
+Ochric epipedon: 0 to 20 cm (0 to 8 in) (A horizon).
+Redox depletions with chroma 2 or less: 0 to 20 cm (0 to 8 in)(A horizon)
+Cambic horizon: 20 to 211 cm 8 to 83 inches (Bg, Bssg and BCg horizons)
+Aquic conditions: 20 to 211 cm (8 to 83 in) (Bg, Bssg and BCg horizons)
+Episaturation: 20 to 211 cm (8 to 83 in) (Bg, Bssg and BCg horizons)
+Redox concentrations: 20 to 211 cm (8 to 83 in) (Bg, Bssg and BCg horizons)
+Slickensides: 43 to 185 cm (17 to 73 in) (Bssg horizons)
+ADDITIONAL DATA: KSSL data are available for the type location pedon in Wood County, Texas (S91TX-499-1). Additional KSSL data are available for the survey area typical pedon in Cass County, Texas (S93TX-067-001). 
 
 National Cooperative Soil Survey
 U.S.A.
