@@ -1,8 +1,8 @@
 LOCATION LAIDIG                 WV+MD OH PA VA
 
 Established Series
-Rev. ART-WFH-AWD
-08/2003
+ART-WFH-AWD/Rev. JCB, CRS, JRT
+08/2021
 
 LAIDIG SERIES
 
@@ -15,25 +15,35 @@ TYPICAL PEDON: Laidig very channery loam, wooded. (Colors are for moist soil.)
  0e--1 inch to 0; partially decomposed leaves and roots.
 
  A--0 to 3 inches; very dark gray (10YR 3/1) very channery loam; moderate fine granular structure; very friable; many fine and medium roots; 45 percent sandstone fragments; extremely acid; abrupt wavy boundary. (1 to 4 inches thick)
+
  E--3 to 5 inches; dark grayish brown (10YR 4/2) very channery sandy loam; weak medium granular structure; friable; many fine and medium roots; 35 percent sandstone fragments; extremely acid; abrupt wavy boundary. (0 to 8 inches thick)
+
  BE--5 to 14 inches; yellowish brown (10YR 5/6) channery loam; weak fine and medium subangular blocky structure; friable; many fine and medium roots; 25 percent sandstone fragments; extremely acid; clear wavy boundary. (0 to 10 inches thick)
+
  Bt1--14 to 23 inches; yellowish brown (10YR 5/4) very channery loam; weak fine and medium subangular blocky structure; friable, slightly sticky; common medium roots; few distinct clay films on faces of peds; 35 percent sandstone fragments; very strongly acid; clear wavy boundary.
+
  Bt2--23 to 32 inches; yellowish brown (10YR 5/6) channery loam; weak fine and medium subangular blocky structure; friable, slightly sticky; common medium roots; many distinct clay films on faces of peds; 30 percent sandstone fragments; very strongly acid; clear wavy boundary.
+
  Bt3--32 to 36 inches; yellowish brown (10YR 5/6) channery loam; few medium light brownish gray (10YR 6/2) iron depletions; weak fine and medium subangular blocky structure; friable, slightly sticky; few medium roots; common distinct clay films on faces of peds; 25 percent sandstone fragments; very strongly acid; clear wavy boundary. (Combined thickness of the Bt horizon is 12 to 42 inches.)
+
  Btx1--36 to 46 inches; yellowish brown (10YR 5/6) channery sandy loam; common medium distinct light brownish gray (10YR 6/2) iron depletions and yellowish red (5YR 5/8) masses of iron accumulation; weak very coarse prismatic structure parting to weak medium platy; firm to very firm and brittle; few medium roots along faces of prisms; light brownish gray (10YR 6/2) clay films on faces of prisms; 25 percent sandstone fragments; very strongly acid; clear wavy boundary.
+
  Btx2--46 to 61 inches; yellowish brown (10YR 5/4) channery sandy loam; common medium distinct light brownish gray (10YR 6/2) iron depletions and strong brown (7.5YR 5/6) masses of iron accumulation; weak very coarse prismatic structure parting to weak medium platy; very firm and brittle; light brownish gray (10YR 6/2) clay films on faces of prisms; 25 percent sandstone fragments; very strongly acid; clear wavy boundary.(Combined thickness of the Btx horizon 16 to 52 inches.)
+
  C--61 to 72 inches; strong brown (7.5YR 5/6) very channery loam; common medium distinct light brownish gray (10YR 6/2) iron depletions and yellowish red (5YR 5/6) masses of iron accumulation; massive separating to weak medium plates; firm; 35 percent sandstone fragments; very strongly acid. 
 
 TYPE LOCATION: Hardy County, West Virginia; about 30 yards west of Hunkerson Gap Road and 2.3 miles east of its junction with Route 259. 
 
 RANGE IN CHARACTERISTICS: Solum thickness ranges from 50 to 80 inches or more. Depth to the fragipan ranges from 30 to 50 inches. The particle-size control section averages less than 35 percent rock fragments. Rock fragments range from 5 to 50 percent in individual subhorizons of the A, E, BE, BA and Bt horizons; 15 to 70 percent in individual subhorizons of the Btx horizon; and 20 to 70 percent in the C horizon. Rock fragments are mostly sandstone but include siltstone and shale. Rock fragments include channers, cobbles, flagstones, and stones. Unlimed soils range from extremely acid through strongly acid throughout. 
 
-The A horizon has hue of 10YR, value of 2 to 5, and chroma of 1 to 4. The Ap horizon, where present, has chroma of 2 to 8. Texture of the fine earth fraction is loam, sandy loam, fine sandy loam, or silt loam. 
+The A horizon has hue of 10YR, value of 2 to 5, and chroma of 1 to 4. The Ap horizon, where present, has chroma of 2 to 8. Texture of the fine earth fraction is loam, sandy loam, fine sandy loam, loamy fine sand, or silt loam. 
 
-The E horizon has hue of 7.5YR or 10YR, value of 4 to 6, and chroma of 1 to 6. Texture of the fine earth fraction is loam, fine sandy loam, sandy loam, and less commonly silt loam. 
+The E horizon has hue of 7.5YR or 10YR, value of 4 to 6, and chroma of 1 to 6. Texture of the fine earth fraction is loam, fine sandy loam, sandy loam, loamy fine sand, and less commonly silt loam. 
+
 Some pedons have an AB horizon. It has hue of 10YR, value of 4 to 6, and chroma of 3 or 4. Texture of the fine earth fraction is loam, sandy loam, fine sandy loam, or silt loam. 
 
 The BE horizon has hue of 7.5YR or 10YR, value of 4 to 6, and chroma of 3 to 8. Texture of the fine earth fraction is loam, fine sandy loam, sandy loam, or silt loam. 
+
 Some pedons have a BA horizon. It has hue of 10YR, value of 4 to 5, and chroma of 3 to 4. Texture of the fine earth fraction is loam, or silt loam. 
 
 The Bt horizon has hue of 7.5YR or 10YR, value of 4 to 6, and chroma of 3 to 8. Subhorizons immediately above the Btx horizon may have hue of 5YR. It may have redoximorphic features at a depth of 30 inches or more below the soil surface. Texture of the fine earth fraction is loam, sandy clay loam, clay loam, fine sandy loam, sandy loam, or silt loam. The Bt horizon has weak or moderate, fine or medium subangular blocky structure. 
@@ -64,6 +74,8 @@ b. Argillic horizon - the zone from 14 to 61 inches (Bt horizon).
 c. Fragipan - the zone from 36 to 61 inches (Btx horizon). 
 
 ADDITIONAL DATA: A coordinated study between the NENTC and the States of Pennsylvania, Maryland, Virginia, and West Virginia was carried out. All NSSL data analyzed indicated siliceous mineralogy. 
+
+8/2021 revision: added loamy fine sand to the A and E horizons.
 
 National Cooperative Soil Survey
 U.S.A.

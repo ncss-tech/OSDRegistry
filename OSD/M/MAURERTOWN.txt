@@ -1,12 +1,12 @@
-LOCATION MAURERTOWN             VA
+LOCATION MAURERTOWN             VA+PA
 
 Established Series
-Rev. LWH-JHW
-08/2002
+LWH-JHW/Rev. JCB, CRS, JRT
+08/2021
 
 MAURERTOWN SERIES
 
-Soils of the Maurertown series are very deep and poorly drained. They formed in clayey alluvial deposits on low stream terraces and flood plains. Slopes range from 0 to 2 percent.
+Soils of the Maurertown series are very deep and poorly drained. They formed in clayey alluvial deposits on low stream terraces and flood plains. Slopes range from 0 to 3 percent.
 
 TAXONOMIC CLASS: Fine, mixed, semiactive, mesic Typic Endoaqualfs
 
@@ -18,9 +18,7 @@ TYPICAL PEDON:  Maurertown silty clay loam, on a nearly level area in a pasture 
 
     Btg2--13 to 27 inches; dark gray (5Y 4/1) silty clay; many fine prominent strong brown (7.5YR 5/8) mottles; weak medium prismatic structure parting to moderate medium and coarse subangular blocky; firm, sticky, plastic; few fine roots; common fine and few medium discontinuous pores; many distinct clay films on faces of peds; common fine manganese concretions; moderately acid; clear smooth boundary.
 
-    Btg3---27 to 43 inches; dark gray (5Y 4/1) silty clay loam; many medium and coarse prominent olive brown (2.5Y 4/4) and strong brown (7.5YR 5/6) mottles; weak medium prismatic structure parting to moderate medium and coarse subangular blocky; firm, sticky, plastic; few fine roots; common fine and few medium discontinuous pores; many distinct
-
-clay films on faces of peds; common fine manganese concretions; moderately acid; clear smooth boundary.
+    Btg3--27 to 43 inches; dark gray (5Y 4/1) silty clay loam; many medium and coarse prominent olive brown (2.5Y 4/4) and strong brown (7.5YR 5/6) mottles; weak medium prismatic structure parting to moderate medium and coarse subangular blocky; firm, sticky, plastic; few fine roots; common fine and few medium discontinuous pores; many distinct clay films on faces of peds; common fine manganese concretions; moderately acid; clear smooth boundary.
 
     Btg4--43 to 65 inches; gray (5Y 5/1) silty clay; many medium and coarse prominent strong brown (7.5YR 5/6) and olive brown (2.5Y 4/4) mottles; weak fine and medium subangular blocky structure; firm, sticky, plastic; few fine roots; few fine discontinuous pores; many distinct clay films on faces of peds; common fine manganese concretions; moderately acid.  (Combined thickness of the Btg horizon is 20 to 65 inches)
 
@@ -38,7 +36,7 @@ The C horizon has a range for color and texture the same as that given for the B
 
 COMPETING SERIES:  These are the Albano, Pandora, and Watchung series in the same family.   Albano soils have sola 20 to 40 inches thick. Pandora soils have free carbonates.  Watchung soils have moderate to moderately slow permeability and in addition have rock fragments from basic rocks.
 
-GEOGRAPHIC SETTING:  Maurertown soils are on low stream terraces and flood plains of slackwater areas along streams and intermittent drainageways.  Slopes range from 0 to 2 percent. The soils formed in clayey alluvial deposits. Mean annual precipitation ranges from 35 to 40 inches and mean annual temperature ranges from 48 to 56 degrees F.
+GEOGRAPHIC SETTING:  Maurertown soils are on low stream terraces and flood plains of slackwater areas along streams and intermittent drainageways.  Slopes range from 0 to 3 percent. The soils formed in clayey alluvial deposits. Mean annual precipitation ranges from 35 to 40 inches and mean annual temperature ranges from 48 to 56 degrees F.
 
 GEOGRAPHICALLY ASSOCIATED SOILS:  In addition to the competing Toms and Tygart soils, these are the well drained Berks, Gilpin, and Weikert soils on nearby uplands and the Allegheny, Cotaco, and Monongahela soils on adjacent terraces.  Except for Tygart and Toms, all of these soils have less clay and less gray colors throughout than Maurertown soils. In addition, Berks and Weikert soils are shallower to bedrock and have more rock fragments, and Monongahela soils have a fragipan.
 
@@ -63,6 +61,8 @@ MLRA = 147
 REVISED = 4/2/93, MHC
 
 ADDITIONAL DATA:  Particle size, chemical, and clay mineralogy data from the site location are available from Virginia Polytechnic Institute and State University.
+
+8/2021 revision: expands slope gradient range from '0 to 2' percent to '0 to 3'.
 
 National Cooperative Soil Survey
 U.S.A.

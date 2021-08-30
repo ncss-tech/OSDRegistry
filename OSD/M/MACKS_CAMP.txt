@@ -1,8 +1,8 @@
 LOCATION MACKS CAMP             FL
 
 Tentative Series
-CAP-MFV/JGT
-05/2021
+CAP/MFV/RBT
+08/2021
 
 MACKS CAMP SERIES
 
@@ -10,97 +10,99 @@ MLRA(s): 156A
 Soil Survey Regional Office (SSRO) Responsible: Auburn, Alabama
 Depth Class: Deep
 Drainage Class: Very poorly drained
-Saturated Hydraulic Conductivity:  High in the organic material and negligible in the rock material
+Saturated Hydraulic Conductivity:  Moderately high to high in the organic material and negligible in the rock material
 Index Surface Runoff: Negligible
-Parent Material: Organic materials of Holocene age over limestone bedrock
-Slope: 0 to 1 percent
-Elevation: 1 to 7 meters (3 to 25 feet)
+Parent Material:  Organic materials over limestone bedrock
+Slope: 0 to 2 percent
+Elevation: 1 to 7 meters (3 to 23 feet)above mean sea level.
 Mean Annual Air Temperature: 25 degrees C. (77 degrees F.)
-Mean Annual Precipitation: 165 centimeters (65 inches)
+Mean Annual Precipitation: 1397 millimeters (55 inches)
 
 TAXONOMIC CLASS: Euic, isohyperthermic Lithic Haplosaprists
 
 TYPICAL PEDON: Macks Camp muck on a convex rise in fresh water marsh. (Colors are for moist soil unless otherwise stated)
 
-   Oa--0 to 109 centimeters (0 to 44 inches); black (10YR 2/1) muck; about 30 percent fiber unrubbed and about 5 percent fiber rubbed; massive; very friable, soft, nonsticky, nonplastic; many fine and common medium roots throughout and common medium roots throughout; slightly acid; clear wavy boundary. [91 to 130 centimeters (40 to 51 inches) thick]
+ Oa--0 to 109 centimeters (0 to 43 inches); black (10YR 2/1) muck, very dark grayish brown (10YR 3/2), dry; 35 percent fiber un-rubbed, 5 percent rubbed; massive; very friable; nonfluid; many fine and common medium roots throughout; slightly acid, (pH 6.5); clear wavy boundary. [100 to 150 centimeters (40 to 60 inches) thick]
 
-   2R--109 to 134 centimeters (44 to 54 inches); weakly to strongly cemented limestone bedrock; solution holes up to 102 centimeters (40 inches) or more deep can be filled with sandy and/or loamy material.
+ 2R--109 centimeters (43 inches); moderately to very strongly cemented or indurated limestone bedrock; solution holes up to 102 centimeters (40 inches) or more deep can be filled with sandy and/or loamy material.  
 
-TYPE LOCATION: Broward County, Florida; about 7.1 miles north of the intersection of I-75 and US 27; about 1.5 miles northeast of the boat launch; about 825 feet west and 455 feet south of the northeast corner of Sec. 28, T. 47 S., R. 39 E.; latitude 26 degrees, 14 minutes, 47.51 seconds N and longitude 80 degrees, 26 minutes, 42.92 W; WGS84; USGS Andytown, FL quadrangle.
+TYPE LOCATION: Broward County, Florida; about 6.45 miles north of the intersection of US 27 and I75 and 1.45 miles northeast of the Twentysix Mile Bend recreational boat ramp; about 775 feet west and 370 feet south of the northeast corner of Sec. 28, T. 47 S., R. 39 E.; latitude 26 degrees, 14 minutes, 47.51 seconds N and longitude 80 degrees, 26 minutes, 42.90 W; WGS84; USGS Cooper City NE, FL quadrangle.
 
 RANGE IN CHARACTERISTICS: 
-Solum thickness: 100 to 150 centimeters (40 to 60 inches)
+Solum thickness: 100 to 150 centimeters (40 to 60 inches) 
 Depth to seasonally high water: 0 to 15 centimeters (0 to 6 inches)
-Soil Reaction: Moderately acid to moderately alkaline
-Depth of the organic material:  100 to 150 centimeters (40 to 51 inches) 
+Soil Reaction:  moderately acid to moderately alkaline
+Depth of the organic material:  100 to 150 centimeters (40 to 60 inches) 
 Depth to bedrock:  100 to 150 centimeters (40 to 60 inches) 
-Fiber content: Un-Rubbed 10 to 70 percent and rubbed less than 17 percent
+Fiber content: Un-Rubbed: 10 to 70 percent; Rubbed less than 17 percent
 
+Range of Individual Horizons:
 Oa horizon: 
-Color--hue of 5YR, 7.5YR, 10YR, 2.5Y, or neutral, value of 2 to 4, and chroma of 1 to 3 
-Texture--muck 
-EC (mmhos/cm)--0 to 8
-Exchangeable Sodium--0 to 5 percent
-Sodium Absorption Ratio--0 to 8 percent
-Reaction--moderately acid to neutral
-Sodium pyrophosphate extract color--hue of 10YR, value of 6 to 8, and chroma of 1 to 3 
+Color--hue of 5YR, 7.5YR, 10YR, 2.5Y or Neutral, value of 2 to 4, and chroma of 1 to 3
+Texture: muck 
+Reaction: moderately acid to neutral
+EC (mmhos/cm): 0 to 8
+Exchangeable Sodium: 0 to 5 percent
+Sodium Absorption Ratio: 0 to 8 percent
 
-2Cg horizon: (where present)
-Color--hue of 10YR, 2.5Y, or 5Y, value of 4 to 7, and chroma of 1 or 2 
-Texture--(fine earth fraction) marly silt loam, silt, loam, fine sand, sand, loamy fine sand, and loamy sand, or their mucky analogs 
-Reaction--slightly acid to moderately alkaline
-Calcium carbonate equivalence--40 to 80 percent or more in the marly material
-EC (mmhos/cm)--2 to 16 or more
-Exchangeable Sodium--0 to 15 percent or more
-Sodium Absorption Ratio--0 to 13 percent or more
-The C horizon must be less than 25 centimeters (10 inches) thick.
+2C or 2Ckg horizon, (where present):
+Color--Hue of 10YR, 2.5Y, or 5Y, value of 2 to 7, and chroma of 1 to 3
+Texture: marly silt loam, marly silt, marly loam, fine sand, sand, loamy fine sand, and loamy sand, or their mucky analogs 
+Reaction: moderately acid to moderately alkaline
+Calcium carbonate equivalence: 40 to 80 percent or more in the marly sediment
+EC (mmhos/cm): 0 to 16 or more
+Exchangeable Sodium: 0 to 15 percent or more
+Sodium Absorption Ratio: 0 to 13 percent or more
+The C horizon is less than 25 centimeters (10 inches) thick.
 
 2R horizon: 
-Weakly to strongly cemented limestone bedrock, with solution holes filled with sandy and/or marly materials. Solution holes can be up to 102 centimeters (40 inches) or more deep.
+Weakly to very strongly cemented or indurated limestone bedrock, with solution holes filled with sandy and/or marly materials. Solution holes can be up to 102 centimeters (40 inches) or more deep.
 
-COMPETING SERIES: These are the Islamorada and  Shark Valley series, and the Tamiami series in a closely related family.. 
-Islamorada soils--lack stratification of marly sediments, are in the tidal zone, are very frequently flooded, and occur in marine marshes, swamps, or low broad flats.
-Shark Valley soils--have bedrock at depths less than 100 centimeters (40 inches) and occur on similar landform positions.
-Tamiami soils--have bedrock at depths less than 100 centimeters (40 inches), are stratified with calcareous silty marl, and hyperthermic.
+COMPETING SERIES: These are the Cooper Town (FL), Shark Valley (FL), and Tamiami (FL) soils. 
+Cooper Town soils have limestone at depths of 20 to 50 centimeters (8 to 20 inches) and occur in similar landform positions.
+Shark Valley soils have limestone at depths of 50 to 100 centimeters (20 to 40 inches) and occur on similar landform positions.
+Tamiami soils have subsurface horizons of freshwater marl that compose less than 1/2 the thickness of the control section and occur in similar landform positions.
 
 GEOGRAPHIC SETTING: 
-Landscape: Florida Everglades
-Landform(s): Talfs, rises, and/or dips in fresh water marshes and swamps 
-Parent material: organic materials formed from remains of hydrophytic herbaceous plant overlying limestone bedrock. 
-Mean annual air temperature: 24 to 26 degrees C (75 to 79 degrees F)
-Mean annual precipitation: 112 to 160 centimeters (44 to 63 inches) 
+Landscape: Florida Everglades and Lower Coastal Plain
+Landform: Talfs, rises, and/or dips in freshwater marshes and swamps of the Everglades and depressions on flatwoods areas.  
+Parent material: well decomposed organic materials overlying limestone bedrock. 
+Mean annual air temperature: 25 to 27 degrees C. (77 to 81 degrees F.)
+Mean annual precipitation: 1118 to 1651 millimeters (44 to 65 inches) 
 
-GEOGRAPHICALLY ASSOCIATED SOILS: In addition to the competing Shark Valley soils, these are:
-Buffalo Tiger soils--lack limestone bedrock within 203 centimeters (80 inches) and occur in similar landform positions.
-Coopertown soils--have limestone bedrock within 18 to 50 centimeters (7 to 20 inches) of the surface and occur in similar landform positions.
-Gator Lake soils--have limestone bedrock within 5 to 18 centimeters (2 to 7 inches) of the surface and occur in similar landform positions.
-Loxahatche soils--are very deep, lack limestone substratum within 203 centimeters (80 inches) and are in similar landform positions.
-Plantation soils--have sandy layers below the organic layer and above the limestone bedrock.
+GEOGRAPHICALLY ASSOCIATED SOILS: 
+Buffalo Tiger soils have limestone at depths of 150 to 203 centimeters (60 to 80 inches) and occur in similar landform positions.
+Gator Lake soils have limestone within 18 centimeters (7 inches) and occur in similar landform positions.
+Loxahatche soils lack limestone within 203 centimeters (80 inches) of the soil surface and are in similar landform positions.
+Plantation soils have sandy layers more than 25 centimeters (10 inches) thick below the organic layer and above the limestone, and they occur on similar landform positions.
+Shark Valley soils have limestone at depths of 50 to 100 centimeters (20 to 40 inches) and are in similar landform positions.
+Tamiami soils have subsurface horizons of freshwater marl that compose less than 1/2 the thickness of the control section and occur in similar landform positions.
 
 DRAINAGE AND SATURATED HYDRAULIC CONDUCTIVITY: 
 Drainage class: Very poorly drained
-Saturated hydraulic conductivity (Ksat): Very high to high
+Saturated hydraulic conductivity (KSAT): Moderately high to high
+
 Surface runoff: Negligible
-Flooding frequency and duration: None
-Ponding frequency and duration: Under natural conditions the soil is covered by water (ponded) - very frequently for very long duration 9 to 11 months, currently ponding is controlled by anthropogenic activities.
-Hydric Indicators: A1 Histosol, A3 Black Histic, and A8 Muck Presence
+Flooding frequency and duration: Sawgrass plains are very frequently flooded for very long periods, during the dry season or periods of drought there may be no flooding. In natural conditions, flooding occurs for very long duration of 9 to 11 months. Tree Islands are occasionally flooded for brief periods during periods of heavy rainfall, severe storms, and hurricanes. Currently flooding is controlled by anthropogenic activities.
+Ponding frequency and duration: depressions on flatwoods areas are covered by water (ponded) very frequently for very long duration 9 to 11 months.
 
 USE AND VEGETATION: 
 Major Uses: Water quality, water storage, and wildlife habitat. 
 Dominant vegetation: sawgrass, sedges, lilies, spikerush, willow, elderberry, pond apple, and cypress. 
 
-DISTRIBUTION AND EXTENT: Florida Everglades and associated areas.  This soil is of moderate extent
+DISTRIBUTION AND EXTENT: MLRA 156A Florida Everglades and Associated Areas.  This soil is of moderate extent.
 
-SOIL SURVEY REGIONAL OFFICE (SSRO) RESPONSIBLE: Auburn, Alabama
+SOIL SURVEY REGIONAL OFFICE (SSRO) RESPONSIBLE:  Auburn, Alabama
 
 SERIES PROPOSED: Dade County, Florida; 2018.
 
 REMARKS: Diagnostic horizons and features in this pedon include:
 
-1.	Particle-size control section: ranges from 0 to 109 centimeters (0 to 43 inches)
-2.	Histic epipedon: 0 to 109 centimeters (0 to 43 inches), (Oa1 horizon)
-3.     Lithic contact: 109 centimeters (43 inches), (2R horizon)
-4.	Peraquic conditions: Endosaturation ranges 0 to 134 centimeters (0 to 53 inches)
+1.	Histic epipedon: 0 to 109 centimeters (0 to 43 inches), (Oa horizon)
+2.    Lithic contact: 109 centimeters (43 inches), (2R horizon)
+3.	Peraquic conditions: Endosaturation ranges 0 to 203 centimeters (0 to 80 inches)
+
+Hydric Indicators: A1 Histosol, A3 Black Histic, and A8 Muck Presence
 
 This soil was previously mapped as Pahokee, which is in the hyperthermic temperature regime.
 
