@@ -2,7 +2,7 @@ LOCATION SALTPOND               DE
 
 Established Series
 PSK/Rev. JWB
-06/2006
+09/2021
 
 SALTPOND SERIES
 
@@ -16,17 +16,17 @@ Slope: 0 to 2 percent
 Mean Annual Air Temperature (Type Location): 13 degrees C. (56 degrees F.)
 Mean Annual Precipitation (Type Location): 1118 mm (44 inches)
 
-TAXONOMIC CLASS: Sandy, mixed, mesic Haplic Sulfaquents 
+TAXONOMIC CLASS: Sandy, mixed, mesic Haplic Sulfaquents
 
 TYPICAL PEDON: Saltpond mucky sand on a smooth 1 percent slope. (Colors are for a moist soil, unless noted.) 
 
- A--0 to 10 cm (0 to 4 inches); very dark gray (2.5Y 3/1) mucky sand, single grain structure; loose; few medium common fine roots; presence of hydrogen sulfide gas; slightly acid; slightly saline; clear wavy boundary. (2.5 to 15 cm thick) 
+ Ase--0 to 10 cm (0 to 4 inches); very dark gray (2.5Y 3/1) mucky sand, single grain structure; loose; few medium common fine roots; presence of hydrogen sulfide gas; slightly acid; slightly saline; clear wavy boundary. (2.5 to 15 cm thick) 
 
- Cg1--10 to 41 cm (4 to 16 inches); gray (2.5Y 6/1) sand, single grain structure; loose; few fine roots; very dark grayish brown (2.5Y 3/2) organic stains; presence of hydrogen sulfide gas; neutral; moderately saline; gradual wavy boundary. 
+ Cseg1--10 to 41 cm (4 to 16 inches); gray (2.5Y 6/1) sand, single grain structure; loose; few fine roots; very dark grayish brown (2.5Y 3/2) organic stains; presence of hydrogen sulfide gas; neutral; moderately saline; gradual wavy boundary. 
 
- Cg2--41 to 69 cm (16 to 27 inches); light gray (10YR 7/1) sand; single grain loose; few fine roots; few fine distinct brownish yellow (10YR 6/6) iron accumulations with clear boundaries throughout; presence of hydrogen sulfide gas; neutral; moderately saline; clear wavy boundary. 
+ Cseg2--41 to 69 cm (16 to 27 inches); light gray (10YR 7/1) sand; single grain loose; few fine roots; few fine distinct brownish yellow (10YR 6/6) iron accumulations with clear boundaries throughout; presence of hydrogen sulfide gas; neutral; moderately saline; clear wavy boundary. 
 
- Cg3--69 to 89 cm (27 to 35 inches); light gray (5Y 7/1) sand; massive; friable; few fine roots; common medium distinct light olive brown (2.5Y 5/6) iron accumulations with clear boundaries throughout and few fine distinct brown (10YR 5/3) organic coats; presence of hydrogen sulfide gas; neutral; moderately saline; abrupt wavy boundary. 
+ Cseg3--69 to 89 cm (27 to 35 inches); light gray (5Y 7/1) sand; massive; friable; few fine roots; common medium distinct light olive brown (2.5Y 5/6) iron accumulations with clear boundaries throughout and few fine distinct brown (10YR 5/3) organic coats; presence of hydrogen sulfide gas; neutral; moderately saline; abrupt wavy boundary. 
 
  Cg4--89 to 135 cm (35 to 53 inches); light greenish gray (5GY 7/1) coarse sand; single grain; loose; common medium distinct light yellowish brown (2.5Y 6/3) mottles with clear boundaries in the matrix; 5 percent, by volume, fine rounded gravel; neutral; moderately saline; clear wavy boundary. 
 
@@ -49,14 +49,14 @@ O Horizon (if it occurs)
 Color--hue of 7.5 YR to 2.5Y, value 2 to 4, chroma 1 to 3
 Texture--mucky peat or peat 
 
-A horizon:
+Ase horizon:
 Color--hue of 10YR or 2.5Y, value of 2 to 4, chroma of 1 to 4
 Texture--sand, loamy sand, or sandy loam and their mucky analogs 
 
-Cg horizon:
+Cseg or Cg horizon:
 Color--hue of 10YR to 5GY, value of 4 to 7, chroma of 1 or 2, or is neutral with value of 4 to 7
 Texture--sand, loamy sand, or sandy loam 
-Redoximorphic Features--iron depletions in shades of olive, gray, or white and iron accumulations in shades of red, brown, yellow, or olive. Sulphurous (rotten egg) odor present. 
+Redoximorphic Features--iron depletions in shades of olive, gray, or white and iron accumulations in shades of red, brown, yellow, or olive. Sulfurous (rotten egg) odor present. 
 
 Ab horizon (if it occurs):
 Color--hue 10YR or 2.5Y, value 2 to 4, chroma 1 to 3
@@ -104,7 +104,7 @@ USE AND VEGETATION:
 Major Uses--Few areas are cleared and used for recreational purposes such as campsites. Most areas are in a natural vegetated condition for wildlife.
 Dominant Vegetation--Includes sea rocket (Cakile edentula), seaside goldenrod (Solidago sempervires), bayberry (Morella caroliniensis) salt myrtle (Leiophyllum buxifolium), groundsel-tree (Baccharis halimifolia) pine and shore juniper (Juniperus virginiana). In lower lying positions salt hay grass (Spartina patens), smooth cord grass ( Spartina alterniflora), and black needle rush (Juncus roemerianus) can be found. 
 
-DISTRIBUTION AND EXTENT: Distribution: Coastal Plain of Delaware, and possibly Maryland
+SOIL SURVEY REGIONAL OFFICE (SSRO) RESPONSIBLE: RALEIGH, NORTH CAROLINA
 Extent: Small; 2,000 to 5,000 acres 
 
 MLRA SOIL SURVEY REGIONAL OFFICE (MO) RESPONSIBLE: Morgantown, West Virginia 
