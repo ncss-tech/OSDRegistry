@@ -2,13 +2,13 @@ LOCATION WAGER                  CA
 
 Established Series
 CES/JBB
-06/2021
+09/2021
 
 WAGER SERIES
 
-The Wager series consists of very deep, very poorly drained soils formed in organic material over alluvium derived from granitic rocks. The Wager soils are on flood plains of the Sierra Nevada Mountains. Slopes range from 2 to 8 percent. The mean annual precipitation is about 1000 mm and the mean annual air temperature is about 5 degrees C.
+The Wager series consists of very deep, very poorly drained soils formed in organic material over alluvium derived from granitic rocks. The Wager soils are on flood plains and flood-plain steps of the Sierra Nevada Mountains. Slopes range from 2 to 8 percent. The mean annual precipitation is about 1000 mm and the mean annual air temperature is about 5 degrees C.
 
-TAXONOMIC CLASS: Sandy or sandy-skeletal, isotic, euic, frigid Terric Haplosaprists
+TAXONOMIC CLASS:  Sandy or sandy-skeletal, isotic, euic, frigid Terric Haplosaprists
 
 TYPICAL PEDON: Wager mucky peat on a west-facing (295 degree), 7 percent slope under a cover of shooting star, juncus, bulrush, Sierra willow, and Lemmon's willow at an elevation of 2135 meters. (Colors are for dry soils unless otherwise noted. When described on August 9, 2017 the soil was moist throughout.)
 
@@ -35,7 +35,7 @@ Diagnostic Feature(s):
 
   Base saturation: less than 50 percent (by ammonium acetate)
 
-  Depth to redoximorphic features: 25 to 50 cm
+  Depth to redoximorphic features: 50 to 100 cm to reduced matrix
 
 Particle size control section weighted average:
   Rock fragments: 0 to 10 percent gravel
@@ -65,7 +65,7 @@ Cg1 horizon
   Texture: coarse sand, loamy coarse sand, loamy sand
   Clay content: 1 to 8 percent
   Rock fragments: 0 to 5 percent gravel
-  Reaction: moderately or strongly acid
+  Reaction: strongly acid to moderately acid
 
 Cg2 horizon
   Hue: 10YR, 2.5Y
@@ -74,11 +74,13 @@ Cg2 horizon
   Texture: coarse sand, loamy coarse sand, loamy sand
   Clay content: 1 to 8 percent
   Rock fragments: 0 to 60 percent gravel
-  Reaction: moderately or strongly acid
+  Reaction: strongly acid to moderately acid
+  Redoximorphic Features: 
+Reduced matrix
 
 COMPETING SERIES: There are no other series in this family at this time.
 
-GEOGRAPHIC SETTING: The Wager soils are on flood plains. Slopes range from 2 to 8 percent. These soils formed in organic material over alluvium derived from granite and granodiorite. Elevation is 1950 to 2900 meters. The climate is Mediterranean with warm, dry summers and cool, moist winters. The mean annual precipitation is 725 to 1350 mm and the mean annual air temperature is 4 to 7 degrees C. The frost-free season is 85 to 120 days.
+GEOGRAPHIC SETTING: The Wager soils are on flood plains and flood-plain steps. Slopes range from 2 to 8 percent. These soils formed in organic material over alluvium derived from granite and granodiorite. Elevation is 1950 to 3135 meters. The climate is Mediterranean with warm, dry summers and cool, moist winters. The mean annual precipitation is 725 to 1515 mm and the mean annual air temperature is 3 to 7 degrees C. The frost-free season is 75 to 130 days.
 
 GEOGRAPHICALLY ASSOCIATED SOILS: These are the Funston and Pineridge soils. The Funston soils are poorly or very poorly drained soils on flood plains and flood-plain steps, have an ochric epipedon, and have greater than 35 percent rock fragments in the particle size control section. The Pineridge soils are somewhat poorly or poorly drained soils on flood plain steps and have an umbric epipedon.
 

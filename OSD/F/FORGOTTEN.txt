@@ -2,11 +2,11 @@ LOCATION FORGOTTEN              CA
 
 Established Series
 JBB/CES/JTW
-06/2021
+09/2021
 
 FORGOTTEN SERIES
 
-The Forgotten series consists of very deep, moderately well drained soils formed in alluvium, colluvium, and till derived from granitic rocks. The Forgotten soils are on high gradient drainageways on mountain slopes, moraines, and glacial valley walls of the Sierra Nevada Mountains. Slopes range from 10 to 45 percent. The mean annual precipitation is about 860 mm and the mean annual air temperature is about 1 degree C.
+The Forgotten series consists of very deep, moderately well drained soils formed in alluvium, slope alluvium, colluvium, and till derived from granitic rocks. The Forgotten soils are on high gradient drainageways on mountain slopes, moraines, and glacial valley walls of the Sierra Nevada Mountains. Slopes range from 3 to 45 percent. The mean annual precipitation is about 860 mm and the mean annual air temperature is about 1 degree C.
 
 TAXONOMIC CLASS: Sandy-skeletal, isotic Oxyaquic Humicryepts
 
@@ -46,40 +46,40 @@ A horizons
   Hue: 7.5YR, 10YR
   Value: 3 to 5 dry, 2 or 3 moist
   Chroma: 1 to 3, dry or moist
-  Texture: sandy loam, loamy sand
-  Clay content: 5 to 15 percent
-  Rock fragments: 10 to 50 percent
+  Texture: coarse sand, loamy sand, loamy fine sand, sandy loam, fine sandy loam
+  Clay content: 0 to 15 percent
+  Rock fragments: 0 to 70 percent
 	0 to 40 percent gravel
 	0 to 20 percent cobbles
 	0 to 10 percent stones
 	0 to 5 percent boulders
-  Reaction: very strongly to moderately acid
+  Reaction: very strongly to slightly acid
 
 Bw horizons
   Hue: 5YR, 7.5YR, 10YR
   Value: 4 to 6 dry, 2 to 4 moist
   Chroma: 3 or 4 dry, 2 to 4 moist
   Texture: sandy loam, loamy sand, loamy coarse sand
-  Clay content: 5 to 15 percent
-  Rock fragments: 30 to 60 percent
+  Clay content: 3 to 15 percent
+  Rock fragments: 15 to 60 percent
 	15 to 40 percent gravel
 	0 to 20 percent cobbles
 	0 to 15 percent stones
 	0 to 5 percent boulders
-  Reaction: strongly to moderately acid
+  Reaction: very strongly to slightly acid
 
 C horizons (or CB horizons, where present)
   Hue: 7.5YR, 10YR, 2.5Y
   Value: 4 to 7 dry, 3 to 6 moist
   Chroma: 1 to 3 dry, 2 to 4 moist
-  Texture: loamy sand, loamy coarse sand, coarse sand
-  Clay content: 2 to 8 percent
-  Rock fragments: 35 to 75 percent
+  Texture: sand, loamy sand, loamy coarse sand, coarse sand, sandy loam
+  Clay content: 0 to 15 percent
+  Rock fragments: 15 to 75 percent
 	15 to 60 percent gravel
 	0 to 25 percent cobbles
 	0 to 25 percent stones
 	0 to 5 percent boulders
-  Reaction: strongly to moderately acid
+  Reaction: very strongly to slightly acid
   Redoximorphic Features: 
 	Oxidized iron and iron-manganese masses in matrix
 		Quantity: none to common
@@ -87,7 +87,7 @@ C horizons (or CB horizons, where present)
 
 COMPETING SERIES: There are no other series in this family at this time.
 
-GEOGRAPHIC SETTING: The Forgotten soils are on linear to concave positions; they form in channels and floodplain steps of high-gradient drainageways on mountain slopes, glacial valley walls, and moraines. Slopes range from 10 to 45 percent. These soils formed in alluvium, colluvium, and till derived from granite and granodiorite. Elevation is 2570 to 3955 meters. The climate is Mediterranean with warm, dry summers and cool, moist winters. The mean annual precipitation is 550 to 1505 mm and the mean annual air temperature is -1 to 5 degrees C. The frost free season is 45 to 95 days.
+GEOGRAPHIC SETTING: The Forgotten soils are on linear to concave positions; they form in channels and floodplain steps of high-gradient drainageways on basin floors, cirques, talus slopes, mountain slopes, plateaus, glacial-valley walls, and moraines. Slopes range from 3 to 45 percent. These soils formed in alluvium, slope alluvium, colluvium, and till derived from granite, granodiorite. Elevation is 2275 to 4410 meters. The climate is Mediterranean with warm, dry summers and cool, moist winters. The mean annual precipitation is 520 to 1505 mm and the mean annual air temperature is -2 to 5 degrees C. The frost free season is 40 to 100 days.
 
 GEOGRAPHICALLY ASSOCIATED SOILS: These are the Evolution soils. The Evolution soils are on concave positions on moraines and glacial valley floors.
 

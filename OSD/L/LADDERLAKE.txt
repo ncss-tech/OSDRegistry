@@ -2,11 +2,11 @@ LOCATION LADDERLAKE             CA
 
 Established Series
 CES/JBB/JTW
-06/2021
+09/2021
 
 LADDERLAKE SERIES
 
-The Ladderlake series consists of very deep, poorly or very poorly drained soils formed in alluvium and/or till derived from granitic rocks. The Ladderlake soils are on flood-plain steps on glacial valley floors and basin floors of the Sierra Nevada Mountains. Slopes range from 0 to 4 percent. Mean annual precipitation is about 865 mm and the mean annual air temperature is about 1 degree C.
+The Ladderlake series consists of very deep, poorly or very poorly drained soils formed in organic material over alluvium and/or till derived from granitic rocks. The Ladderlake soils are on flood-plain steps on glacial valley floors and cirque floors of the Sierra Nevada Mountains. Slopes range from 0 to 5 percent. Mean annual precipitation is about 865 mm and the mean annual air temperature is about 1 degree C.
 
 TAXONOMIC CLASS: Sandy-skeletal, isotic Histic Cryaquepts
 
@@ -37,13 +37,13 @@ Diagnostic Feature(s):
 
 Organic matter: 20 to 60 percent in the epipedon
 
-Reaction: moderately to strongly acid
+Reaction: moderately to very strongly acid
 
 Depth to redoximorphic features: 10 to 50 cm
 
 Particle size control section weighted average:
   Rock fragments: 35 to 70 percent, with 15 to 50 percent gravel, 5 to 35 percent cobbles, 0 to 35 percent stones and 0 to 15 percent boulders.
-  Clay content: 1 to 6 percent
+  Clay content: 1 to 12 percent
   NaF pH: 8.0 to 11.0
 
 Oa horizon
@@ -78,16 +78,16 @@ Ab horizon (where present)
   Value: 4 or 5 dry, 2 or 3 moist
   Chroma: 1 or 2, dry or moist
   Texture: sandy loam, fine sandy loam
-  Clay content: 2 to 6 percent
-  Rock fragments: 10 to 15 percent gravel
+  Clay content: 0 to 15 percent
+  Rock fragments: 10 to 45 percent gravel
 
 C horizon
   Hue: 10YR, 2.5Y
   Value: 5 to 7 dry, 3 to 5 moist
   Chroma: 1 or 2, dry or moist
-  Texture: coarse sand, sand, loamy sand, loamy coarse sand, sandy loam
-  Clay content: 0 to 10 percent
-  Rock fragments: 35 to 70 percent
+  Texture: coarse sand, sand, loamy sand, loamy coarse sand, sandy loam, fine sandy loam
+  Clay content: 0 to 15 percent
+  Rock fragments: 0 to 70 percent
 	30 to 50 percent gravel
 	5 to 45 percent cobbles
 	0 to 5 percent stones
@@ -104,9 +104,9 @@ Cg horizon
   Hue: 10YR, 2.5Y, 5Y
   Value: 6 to 8 dry, 4 to 6 moist
   Chroma: 1 or 2, dry or moist
-  Texture: silt loam, sandy loam, loam, loamy fine sand
-  Clay content: 5 to 25 percent
-  Rock fragments: 20 to 60 percent
+  Texture: coarse sand, silt loam, sandy loam, fine sandy loam, loam, loamy fine sand
+  Clay content: 0 to 25 percent
+  Rock fragments: 0 to 60 percent
 	15 to 40 percent gravel
 	5 to 20 percent cobbles
 	0 to 20 percent stones
@@ -118,7 +118,7 @@ Reduced iron masses in matrix
 
 COMPETING SERIES: There are no other series in this family at this time.
 
-GEOGRAPHIC SETTING: Ladderlake soils are on flood-plain steps of glacial valley bottoms and basin floors. Slopes range from 0 to 4 percent. These soils formed in alluvium and/or till derived from granite and granodiorite. Elevation is 2500 to 3885 meters. The climate is Mediterranean with warm, dry summers and cool, moist winters. The mean annual precipitation is 505 to 1680 mm and the mean annual air temperature is -2 to 5 degrees C. The frost free season is 40 to 95 days.
+GEOGRAPHIC SETTING: Ladderlake soils are on flood-plain steps of glacial valley floors and cirque floors. Slopes range from 0 to 5 percent. These soils formed in organic material over alluvium and/or till derived from granite and granodiorite. Elevation is 2500 to 3885 meters. The climate is Mediterranean with warm, dry summers and cool, moist winters. The mean annual precipitation is 505 to 1680 mm and the mean annual air temperature is -2 to 5 degrees C. The frost free season is 40 to 95 days.
 
 GEOGRAPHICALLY ASSOCIATED SOILS: These are the Littlepete soils. The Littlepete soils are poorly or very poorly drained soils on floodplains; they lack histic epipedons, and average less than 35 percent rock fragments in the particle size control section.
 

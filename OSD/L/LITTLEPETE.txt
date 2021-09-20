@@ -2,11 +2,11 @@ LOCATION LITTLEPETE             CA
 
 Established Series
 JBB/CES/JTW
-06/2021
+09/2021
 
 LITTLEPETE SERIES
 
-The Littlepete series consists of very deep, poorly drained soils formed in alluvium derived from granitic rocks. Littlepete soils are on floodplains of glacial-valley floors and basin floors of the Sierra Nevada Mountains. Slopes range from 1 to 4 percent. The mean annual precipitation is about 920 mm and the mean annual air temperature is about 3 degrees C.
+The Littlepete series consists of very deep, poorly drained soils formed in alluvium derived from granitic rocks. Littlepete soils are on floodplains of glacial-valley floors and basin floors of the Sierra Nevada Mountains. Slopes range from 0 to 8 percent. The mean annual precipitation is about 920 mm and the mean annual air temperature is about 3 degrees C.
 
 TAXONOMIC CLASS: Sandy, isotic Aquandic Cryaquents
 
@@ -42,14 +42,14 @@ Diagnostic Feature(s):
 Organic matter: 2 to 20 percent in the epipedon
 
 
-Reaction: strongly or very strongly acid
+Reaction: very strongly acid to moderately acid
 
 Base saturation: less than 50 percent in the epipedon (by ammonium acetate)
 
-Depth to redoximorphic features:  10 to 30 cm
+Depth to redoximorphic features:  0 to 30 cm
 
 Particle size control section weighted average:
-  Rock fragments: 0 to 15 percent, with 0 to 15 percent gravel and 0 to 15 percent cobbles
+  Rock fragments: 0 to 25 percent, with 0 to 25 percent gravel and 0 to 15 percent cobbles
   Clay content: 0 to 6 percent 
   NaF pH: 8.0 to 11.0
 
@@ -58,10 +58,10 @@ A horizon
   Value: 4 or 5 dry, 2 or 3 moist
   Chroma: 1 or 2, dry or moist
   Texture: loam, silt loam, very fine sandy loam, fine sandy loam, sandy loam, loamy sand, sand, and their mucky modifiers
-  Clay content: 2 to 10 percent
-  Rock fragments: 0 to 15 percent
+  Clay content: 2 to 15 percent
+  Rock fragments: 0 to 35 percent
 	0 to 15 percent gravel
-	0 to 15 percent cobbles
+	0 to 25 percent cobbles
 Redoximorphic Features: 
 	Oxidized iron in matrix and along linings of pores
 		Quantity: none to common
@@ -69,7 +69,6 @@ Redoximorphic Features:
 Iron depletions in matrix
 		Quantity: none to common
 		Size: fine, medium, and coarse
-
 
 Ab horizon (where present)
   Hue: 10YR, 2.5Y
@@ -94,9 +93,9 @@ C horizon
   Chroma: 1 to 3, dry or moist
   Texture: coarse sand, sand, loamy sand, loamy coarse sand
   Clay content: 0 to 6 percent
-  Rock fragments: 0 to 15 percent
-	0 to 15 percent gravel
-	0 to 15 percent cobbles
+  Rock fragments: 0 to 60 percent
+	0 to 35 percent gravel
+	0 to 35 percent cobbles
 Redoximorphic Features: 
 	Oxidized iron in matrix and along linings of pores
 		Quantity: few to common
@@ -111,9 +110,9 @@ Cg horizon
   Chroma: 1 or 2, dry or moist
   Texture: coarse sand, sand, loamy sand, loamy coarse sand
   Clay content: 0 to 10 percent
-  Rock fragments: 0 to 50 percent
+  Rock fragments: 0 to 60 percent
 	0 to 50 percent gravel
-	0 to 30 percent cobbles
+	0 to 35 percent cobbles
 Redoximorphic Features: 
 	Oxidized iron in matrix and along linings of pores
 		Quantity: none to many
@@ -124,11 +123,11 @@ Iron depletions in matrix
 
 COMPETING SERIES: There are no other series in this family at this time.
 
-GEOGRAPHIC SETTING: The Littlepete soils are on floodplains of glacial-valley bottoms and basin floors. Slopes range from 1 to 4 percent. These soils formed in alluvium. Elevation is 2500 to 3885 meters. The climate is Mediterranean with warm, dry summers and cool, moist winters. The mean annual precipitation is 560 to 1385 mm and the mean annual air temperature is 0 to 5 degrees C. The frost free season is 50 to 95 days.
+GEOGRAPHIC SETTING: The Littlepete soils are on floodplains of glacial-valley bottoms and basin floors. Slopes range from 0 to 8 percent. These soils formed in alluvium. Elevation is 2500 to 3885 meters. The climate is Mediterranean with warm, dry summers and cool, moist winters. The mean annual precipitation is 560 to 1385 mm and the mean annual air temperature is 0 to 5 degrees C. The frost free season is 50 to 95 days.
 
 GEOGRAPHICALLY ASSOCIATED SOILS: These are the Ladderlake soils. The Ladderlake soils are poorly to poorly drained soils on flood-plain steps; they have histic epipedons, and average greater than 35 percent rock fragments in the particle size control section.
 
-DRAINAGE AND PERMEABILITY: Poorly drained, moderate saturated hydraulic conductivity, occasional to frequent flooding for very brief to long(14 hours to 30 days) duration beginning in May, occasional none to frequent ponding for brief (0 to <7 days) duration beginning in May. Seasonal high water table at 10 to 30 cm.
+DRAINAGE AND PERMEABILITY: Poorly drained, moderate saturated hydraulic conductivity, occasional to frequent flooding for very brief to long(14 hours to 30 days) duration beginning in May, occasional none to frequent ponding for brief (0 to <7 days) duration beginning in May. Seasonal high water table at 10 to 50 cm.
 
 USE AND VEGETATION: This soil is used for recreation, wildlife habitat, and watershed. Vegetation is sedge, shorhair reedgrass, spikerush, aster, Sierra and alpine willow, bog laurel, and needlegrass.
 

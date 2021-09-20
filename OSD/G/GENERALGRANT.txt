@@ -2,13 +2,13 @@ LOCATION GENERALGRANT           CA
 
 Established Series
 JBB/CES
-06/2021
+09/2021
 
 GENERALGRANT SERIES
 
-The Generalgrant series consists of very deep, moderately well drained soils formed in slope alluvium derived from granite. The Generalgrant soils are on stream terraces and drainageways on mountain slopes of the Sierra Nevada Mountains. Slopes range from 5 to 45 percent. The mean annual precipitation is about 1050 mm and the mean annual air temperature is about 8 degrees C.
+The Generalgrant series consists of very deep, moderately well drained soils formed in slope alluvium and/or colluvium over residuum derived from granite. The Generalgrant soils are on stream terraces and drainageways on mountain slopes of the Sierra Nevada Mountains. Slopes range from 5 to 45 percent. The mean annual precipitation is about 1050 mm and the mean annual air temperature is about 8 degrees C.
 
-TAXONOMIC CLASS: Sandy, isotic, mesic Vitrandic Humixerepts
+TAXONOMIC CLASS:  Sandy, isotic, mesic Vitrandic Humixerepts
 
 TYPICAL PEDON: Generalgrant gravelly loamy coarse sand on a west facing (304 degree), 18 percent slope under giant sequoia, white fir, sugar pine, and incense cedar forest at an elevation of 1965 meters. (Colors are for dry soils unless otherwise noted. When described on June 29, 2016 the soil was dry to 9 cm, moist to 183 cm, and wet below 183 cm. A water table was observed at 190 cm.)
 
@@ -57,8 +57,8 @@ A horizon
   Hue: 7.5YR, 10YR
   Value: 3 to 5 dry, 2 or 3 moist
   Chroma: 2 or 3 dry, 1 or 2 moist
-  Texture: loamy sand, loamy coarse sand
-  Clay content: 2 to 5 percent
+  Texture: loamy sand, loamy coarse sand, sandy loam
+  Clay content: 2 to 6 percent
   Rock fragments: 0 to 35 percent gravel
   Reaction: slightly acid to neutral
 
@@ -66,10 +66,10 @@ AB horizon (where present)
   Hue: 7.5YR, 10YR
   Value: 3 to 5 dry, 2 or 3 moist
   Chroma: 2 or 3, dry or moist
-  Texture: loamy sand, loamy coarse sand
-  Clay content: 1 to 5 percent
+  Texture: loamy sand, loamy coarse sand, sandy loam
+  Clay content: 1 to 6 percent
   Rock fragments: 0 to 35 percent gravel
-  Reaction: slightly acid to neutral
+  Reaction: moderately acid to neutral
 
 Upper Bw horizon (Bw1)
   Hue: 7.5YR, 10YR
@@ -93,22 +93,33 @@ Lower Bw horizon(s) (Bw2, Bw3)
 	0 to 20 percent cobbles
   Pararock fragments: 0 to 35 percent paragravel
   Reaction: moderately acid to neutral
+  Redoximorphic features: 
+	Masses of oxidized iron in matrix
+		Quantity: few to common
+		Size: fine to coarse
+	Masses of reduced iron in matrix
+		Quantity: few to common
+		Size: fine to coarse
 
 C horizon
   Hue: 10YR, 2.5Y
   Value: 5 to 8 dry, 3 or 4 moist
   Chroma: 3 or 4, dry or moist
-  Texture: sand, coarse sand
+  Texture: sand, coarse sand, loamy coarse sand, loamy sand
   Clay content: 1 to 6 percent
   Rock fragments: 0 to 35 percent
 	0 to 35 percent gravel
 	0 to 20 percent cobbles
-  Pararock fragments: 0 to 35 percent paragravel
+  Pararock fragments: 0 to 45 percent paragravel
   Reaction: strongly acid to neutral
+  Redoximorphic features: 
+	Masses of oxidized iron in matrix
+		Quantity: common to many
+		Size: fine to coarse
 
 COMPETING SERIES: These are the Azalea, Cabincove, and Tharpslog soils. The Azalea soils are on convex shoulders and backslopes of mountain slopes and have a lithic contact between 50 and 100 cm. The Cabincove soils are on linear to convex backslopes of mountain slopes and have a paralithic contact between 50 and 100 cm. The Tharpslog soils are on broadly concave backslopes of mountain slopes and are somewhat excessively drained.
 
-GEOGRAPHIC SETTING: The Generalgrant soils are on concave footslopes of stream terraces and drainageways on mountain slopes. Slopes range from 5 to 30 percent. These soils formed in slope alluvium over residuum weathered from granite. Elevation is 1385 to 2295 meters. The climate is Mediterranean with warm, dry summers and cool, moist winters. The mean annual precipitation is 885 to 1170 mm and the mean annual air temperature is 7 to 13 degrees C. The frost-free season is 105 to 200 days.
+GEOGRAPHIC SETTING: The Generalgrant soils are on concave footslopes of stream terraces and drainageways on mountain slopes. Slopes range from 5 to 45 percent. These soils formed in slope alluvium and/or colluvium over residuum weathered from granite. Elevation is 1385 to 2505 meters. The climate is Mediterranean with warm, dry summers and cool, moist winters. The mean annual precipitation is 885 to 1170 mm and the mean annual air temperature is 7 to 13 degrees C. The frost-free season is 105 to 200 days.
 
 GEOGRAPHICALLY ASSOCIATED SOILS: These are the Tharpslog soils. The Tharpslog soils are on broadly concave backslopes of mountain slopes and are somewhat excessively drained.
 

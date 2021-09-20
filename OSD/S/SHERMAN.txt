@@ -1,14 +1,14 @@
 LOCATION SHERMAN                CA
 
-Tentative Series
+Established Series
 JBB/CES
-05/2020
+09/2021
 
 SHERMAN SERIES
 
-The Sherman series consists of very deep, moderately well drained soils formed in alluvium and slope alluvium derived from granodiorite and schist. The Sherman soils are stream terraces and drainageways on mountain slopes of the Sierra Nevada Mountains. Slopes range from 5 to 30 percent. The mean annual precipitation is about 1110 mm and the mean annual air temperature is about 8 degrees C.
+The Sherman series consists of very deep, moderately well drained soils formed in alluvium and slope alluvium derived from granodiorite, granite, and schist. The Sherman soils are stream terraces and drainageways on mountain slopes of the Sierra Nevada Mountains. Slopes range from 3 to 30 percent. The mean annual precipitation is about 1110 mm and the mean annual air temperature is about 8 degrees C.
 
-TAXONOMIC CLASS:  Coarse-loamy, isotic, mesic Vitrandic Dystroxerepts
+TAXONOMIC CLASS: Coarse-loamy, isotic, mesic Vitrandic Dystroxerepts
 
 TYPICAL PEDON: Sherman coarse sandy loam on a southeast facing (130 degree), 12 percent slope under giant sequoia and white fir forest at an elevation of 2081 meters. (Colors are for dry soils unless otherwise noted. When described on June 28, 2016 the soil was moist to 190 cm and saturated below 190cm.)
 
@@ -58,17 +58,17 @@ A horizon(s)
   Hue: 7.5YR, 10YR
   Value: 3 to 5 dry, 2 or 3 moist
   Chroma: 3 to 6 dry, 2 to 4 moist
-  Texture: coarse sandy loam, sandy loam
-  Clay content: 3 to 12 percent
+  Texture: loamy sand, loamy fine sand, coarse sandy loam, sandy loam
+  Clay content: 3 to 15 percent
   Rock fragments: 0 to 35 percent gravel
-  Reaction: moderately acid to neutral
+  Reaction: strongly acid to neutral
 
 Upper Bw horizon (Bw1)
   Hue: 7.5YR, 10YR
   Value: 4 to 6 dry, 3 or 4 moist
   Chroma: 3 or 4, dry or moist
-  Texture: coarse sandy loam, sandy loam
-  Clay content: 4 to 15 percent
+  Texture: coarse sandy loam, sandy loam, fine sandy loam
+  Clay content: 4 to 16 percent
   Rock fragments: 0 to 35 percent gravel
   Reaction: strongly acid to neutral
 
@@ -76,23 +76,23 @@ Lower Bw horizon(s)
   Hue: 7.5YR, 10YR
   Value: 5 to 7 dry, 3 to 5 moist
   Chroma: 4 or 6 dry, 3 or 4 moist
-  Texture: coarse sandy loam, sandy loam
-  Clay content: 4 to 16 percent
+  Texture: loamy coarse sand, coarse sandy loam, sandy loam
+  Clay content: 3 to 16 percent
   Rock fragments: 0 to 35 percent gravel
-  Reaction: strongly acid to neutral
+  Reaction: very strongly acid to neutral
 
 C horizon
   Hue: 10YR, 2.5Y
   Value: 6 or 7 dry, 4 to 6 moist
   Chroma: 1 to 4, dry or moist
-  Texture: sandy loam, loamy coarse sand, coarse sand, sand
-  Clay content: 2 to 12 percent
+  Texture: sandy loam, coarse sandy loam, loamy sand, loamy coarse sand, coarse sand, sand
+  Clay content: 2 to 15 percent
   Rock fragments: 0 to 35 percent gravel
-  Reaction: strongly to slightly acid
+  Reaction: very strongly acid to slightly acid
 
 COMPETING SERIES: These are the Elcapitan, Gilligan (MLRA 5), Harstine (MLRA 2), Leidig, Poulsbo (MLRA 2), Sentinel, Sulsavar (MLRA 2), Tenino (MLRA 2), and Vader (MLRA 1) soils.  Elcapitan soils are on channels and floodplains and are somewhat poorly drained. Gilligan soils are on stream terraces, are dry for less than 60 days and are well drained. Harstine soils are on ridges and have a densic contact between 50 and 100 cm. Leidig soils are on channels and floodplains and are somewhat poorly drained. Poulsbo soils are on upland till and have a cemented pan between 50 and 100 cm. Sulsavar soils are on alluvial fans and terraces and are well drained. Tenino soils are on terminal moraines and have a cemented pam between 50 and 100 cm. Vader soils formed in sandstone foothills, are dry for less than 60 days, and are well drained.
 
-GEOGRAPHIC SETTING: The Sherman soils are on concave footslopes of stream terraces and drainageways on mountain slopes. Slopes range from 5 to 30 percent. These soils formed in alluvium and slope alluvium derived from granodiorite and schist. Elevation is 1385 to 2295 meters. The climate is Mediterranean with warm, dry summers and cool, moist winters. The mean annual precipitation is 885 to 1170 mm and the mean annual air temperature is 7 to 13 degrees C. The frost-free season is 105 to 200 days.
+GEOGRAPHIC SETTING: The Sherman soils are on concave footslopes of stream terraces and drainageways on mountain slopes. Slopes range from 3 to 30 percent. These soils formed in alluvium and slope alluvium derived from granodiorite, granite, and schist. Elevation is 1385 to 2350 meters. The climate is Mediterranean with warm, dry summers and cool, moist winters. The mean annual precipitation is 885 to 1170 mm and the mean annual air temperature is 7 to 13 degrees C. The frost-free season is 105 to 200 days.
 
 GEOGRAPHICALLY ASSOCIATED SOILS: These are the Gratwell soils. The Gratwell soils are on broadly concave backslopes of mountain slopes and are well drained.
 

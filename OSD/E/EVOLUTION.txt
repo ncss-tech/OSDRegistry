@@ -1,12 +1,12 @@
 LOCATION EVOLUTION              CA
 
-Tentative Series
+Established Series
 CKS/CES/JTW
-01/2020
+09/2021
 
 EVOLUTION SERIES
 
-The Evolution series consists of deep, moderately well drained soils formed in till derived from granitic rocks. The Evolution soils are on ground moraines of the Sierra Nevada Mountains. Slopes range from 2 to 15 percent. The mean annual precipitation is about 985 mm and the mean annual air temperature is about 3 degrees C.
+The Evolution series consists of deep, moderately well drained soils formed in till derived from granitic rocks. The Evolution soils are on moraines of the Sierra Nevada Mountains. Slopes range from 2 to 15 percent. The mean annual precipitation is about 985 mm and the mean annual air temperature is about 3 degrees C.
 
 TAXONOMIC CLASS: Sandy-skeletal, isotic Vitrandic Cryorthents
 
@@ -39,7 +39,7 @@ Diagnostic Feature(s):
   Ochric epipedon thickness:  18 cm
   Densic contact:  100 to 150 cm
 
-Reaction: strongly to moderately acid
+Reaction: very strongly to slightly acid
 
 Depth to redoximorphic features:  50 to 100 cm
 
@@ -49,16 +49,16 @@ Volcanic glass:  5 to 30 percent in the 0.02 to 2.0 mm fraction in an 18 cm thic
 
 Particle size control section weighted average:
   Rock fragments: 35 to 70 percent, with 0 to 45 percent gravel, 15 to 35 percent cobbles, and 0 to 20 percent stones.
-  Clay content: 1 to 5 percent 
+  Clay content: 1 to 8 percent 
   NaF pH: 9.0 to 11.0
 
 A horizon
   Hue: 7.5YR, 10YR
   Value: 4 to 6 dry, 3 or 4 moist
   Chroma: 2 to 4, dry or moist
-  Texture: coarse sandy loam, loamy coarse sand, loamy sand
-  Clay content: 1 to 6 percent
-  Rock fragments: 15 to 75 percent
+  Texture: loamy coarse sand, loamy sand, coarse sandy loam, sandy loam
+  Clay content: 1 to 8 percent
+  Rock fragments: 0 to 75 percent
 	0 to 35 percent gravel
 	0 to 25 percent cobbles
 	0 to 25 percent stones
@@ -67,7 +67,7 @@ Bw horizons (or BA horizons, where present):
   Hue: 7.5YR, 10YR
   Value: 5 to 7 dry, 4 to 6 moist
   Chroma: 4 to 6 dry, 3 to 6 moist
-  Texture: loamy coarse sand, loamy sand
+  Texture: coarse sand, loamy coarse sand, loamy sand, coarse sandy loam
   Clay content: 1 to 6 percent
   Rock fragments: 15 to 75 percent
 	0 to 50 percent gravel
@@ -78,10 +78,10 @@ C horizons (or BC horizons, where present):
   Hue: 7.5YR, 10YR, 2.5Y
   Value: 5 to 7 dry, 4 to 6 moist
   Chroma: 3 to 6 dry, 3 or 4 moist
-  Texture: loamy coarse sand, loamy sand, coarse sand
-  Clay content: 1 to 6 percent
-  Rock fragments: 35 to 75 percent
-	15 to 45 percent gravel
+  Texture: coarse sand, sand, loamy coarse sand, loamy sand,
+  Clay content: 0 to 8 percent
+  Rock fragments: 0 to 75 percent
+	0 to 45 percent gravel
 	0 to 35 percent cobbles
 	0 to 15 percent stones
   Redoximorphic Features: 
@@ -93,8 +93,8 @@ Cd horizons:
   Hue: 10YR, 2.5Y
   Value: 5 to 8 dry, 4 to 6 moist
   Chroma: 2 to 4, dry or moist
-  Texture: loamy coarse sand, loamy sand, coarse sand
-  Clay content: 1 to 5 percent
+  Texture: coarse sand, loamy coarse sand, loamy sand
+  Clay content: 1 to 8 percent
   Rock fragments: 35 to 75 percent
 	15 to 45 percent gravel
 	0 to 35 percent cobbles
@@ -109,7 +109,7 @@ Cd horizons:
 
 COMPETING SERIES: These are the Lapin and Siberian soils. Lapin soils are 50 to 100 cm to a densic contact.  McDermand soils are 50 to 100 cm to a lithic contact  and have redox concentrations at 10 to 50 cm. Siberian soils are well drained, lack a densic contact and redox concentrations or depletions within 100 cm.
 
-GEOGRAPHIC SETTING: The Evolution soils are in concave footslope and toeslope positions of ground moraines on glacial valley floors and cirque floors. Slopes range from 2 to 15 percent. These soils formed in till derived from granite and granodiorite. Elevation is 2660 to 3800 meters. The climate is Mediterranean with warm, dry summers and cool, moist winters. The mean annual precipitation is 560 to 1430 mm and the mean annual air temperature is -1 to 4 degrees C. The frost free season is 45 to 95 days.
+GEOGRAPHIC SETTING: The Evolution soils are in concave footslope and toeslope positions of moraines on glacial-valley floors and basin floors, and seeps on ground moraines.. Slopes range from 2 to 20 percent. These soils formed in till derived from granite and granodiorite. Elevation is 2660 to 3955 meters. The climate is Mediterranean with warm, dry summers and cool, moist winters. The mean annual precipitation is 530 to 1430 mm and the mean annual air temperature is -1 to 4 degrees C. The frost free season is 45 to 95 days.
 
 GEOGRAPHICALLY ASSOCIATED SOILS: These are the Findome and Siberian soils. The competing Siberian soils are on linear to convex backslopes of ground moraines and mountain slopes, and do not have redox features within the series control section. The Findome soils are on linear to convex footslopes of till plains and ground moraines, and have a densic contact between 25 to 50 cm.
 

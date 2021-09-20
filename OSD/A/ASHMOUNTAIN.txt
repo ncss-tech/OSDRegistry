@@ -1,8 +1,8 @@
 LOCATION ASHMOUNTAIN            CA
 
-Tentative Series
+Established Series
 JBB/CES/JTW
-01/2020
+09/2021
 
 ASHMOUNTAIN SERIES
 
@@ -44,11 +44,11 @@ Particle size control section weighted average:
 A horizon
   Hue: 7.5YR, 10YR
   Value: 4 to 6 dry, 3 moist
-  Chroma: 3 or4 dry, 2 to 4 moist
+  Chroma: 3 or 4 dry, 2 to 4 moist
   Texture: sandy loam, fine sandy loam
   Clay content: 8 to 12 percent
   Rock fragments: 0 to 10 percent gravel
-  Reaction: moderately acid
+  Reaction: moderately acid to slightly acid
 
 Upper Bt horizon (Bt1)
   Hue: 7.5YR, 10YR
@@ -57,7 +57,7 @@ Upper Bt horizon (Bt1)
   Texture: sandy loam, fine sandy loam
   Clay content: 10 to 15 percent
   Rock fragments: 0 to 10 percent gravel
-  Reaction: strongly acid to moderately acid
+  Reaction: strongly acid to slightly acid
 
 Lower Bt horizons (Bt2 and Bt3)
   Hue: 7.5YR, 10YR
@@ -65,8 +65,8 @@ Lower Bt horizons (Bt2 and Bt3)
   Chroma: 4 to 6 dry, 3 to 6 moist
   Texture: sandy loam, fine sandy loam
   Clay content: 15 to 20 percent
-  Rock fragments: 0 to 10 percent gravel
-  Reaction: strongly acid to moderately acid
+  Rock fragments: 0 to 15 percent gravel
+  Reaction: strongly acid to slightly acid
 
 BCt horizon
   Hue: 7.5YR, 10YR
@@ -74,8 +74,8 @@ BCt horizon
   Chroma: 3 or 4, dry or moist
   Texture: sandy loam, fine sandy loam
   Clay content: 10 to 15 percent
-  Rock fragments: 0 to 10 percent gravel
-  Reaction: strongly acid to moderately acid
+  Rock fragments: 0 to 15 percent gravel
+  Reaction: strongly acid to slightly acid
 
 C horizon (where present)
   Hue: 7.5YR, 10YR
@@ -83,12 +83,12 @@ C horizon (where present)
   Chroma: 3 or 4, dry or moist
   Texture: loamy sand
   Clay content: 3 to 8 percent
-  Rock fragments: 0 to 10 percent gravel
-  Reaction: strongly acid to moderately acid
+  Rock fragments: 0 to 15 percent gravel
+  Reaction: strongly acid to slightly acid
 
 COMPETING SERIES: There are no other series in this family at this time.
 
-GEOGRAPHIC SETTING: The Ashmountain soils are on linear backslopes of hills and mountain slopes. Slopes are 6 to 30 percent. These soils formed in colluvium over residuum derived from granitic rocks. Elevations are 440 to 990 meters. The climate is Mediterranean with warm, dry summers and cool, moist winters. The mean annual precipitation is 670 to 735 mm and the mean annual air temperature is 15 to 17 degrees C. The frost free season is 240 to 285 days.
+GEOGRAPHIC SETTING: The Ashmountain soils are on linear backslopes of hills and mountain slopes. Slopes are 6 to 30 percent. These soils formed in colluvium over residuum derived from granitic rocks. Elevations are 415 to 1050 meters. The climate is Mediterranean with warm, dry summers and cool, moist winters. The mean annual precipitation is 670 to 735 mm and the mean annual air temperature is 15 to 17 degrees C. The frost free season is 240 to 285 days.
 
 GEOGRAPHICALLY ASSOCIATED SOILS: These are the Andregg and Shepherdsaddle soils. The Andregg soils are on convex backslopes of hills and are 50 to 100 cm to a paralithic contact. Shepherdsaddle soils are fine-loamy and occur on similar landscape positions to Ashmountain.
 

@@ -2,13 +2,13 @@ LOCATION WUKSACHI               CA
 
 Established Series
 JBB/CES
-05/2021
+09/2021
 
 WUKSACHI SERIES
 
 The Wuksachi series consists of very deep, very poorly drained soils formed in organic material over alluvium derived from granitic rocks. The Wuksachi soils are on flood plains and low flood-plain steps of the Sierra Nevada Mountains. Slopes range from 0 to 5 percent. The mean annual precipitation is about 1080 mm and the mean annual air temperature is about 9 degrees C.
 
-TAXONOMIC CLASS: Loamy, isotic, euic, mesic Terric Haplosaprists
+TAXONOMIC CLASS:  Loamy, isotic, euic, mesic Terric Haplosaprists
 
 TYPICAL PEDON: Wuksachi mucky peat on a south facing (165 degree), 3 percent slope under a cover of bulrush, spikerush, and perennial forbs at an elevation of 1943 meters. (Colors are for dry soils unless otherwise noted. When described on May 24, 2013 the soil was wet throughout. A water table was observed at 28 cm.)
 
@@ -56,7 +56,7 @@ Oe or Oa horizon(s)
   Reaction: very strongly to moderately acid
 
 A horizon
-  Hue: 10YR dry, 10YR, 2.5Y, 5Y moist
+  Hue: 10YR dry; 10YR, 2.5Y, 5Y moist
   Value: 3 to 5 dry, 2 or 3 moist
   Chroma: 1 or 2, dry or moist
   Texture: sandy loam, fine sandy loam, coarse sandy loam, loamy sand, loamy coarse sand
@@ -65,23 +65,23 @@ A horizon
   Reaction: very strongly to moderately acid
 
 C horizon
-  Hue: 10YR, 2.5Y dry, 10YR, 2.5Y, 5Y moist
+  Hue: 10YR, 2.5Y dry; 10YR, 2.5Y, 5Y moist
   Value: 4 or 5 dry, 2 to 4 moist
   Chroma: 1 or 2, dry or moist
-  Texture: sandy loam, coarse sandy loam, loamy sand, loamy coarse sand, coarse sand
+  Texture: sandy loam, coarse sandy loam, loamy sand, loamy coarse sand, sand, coarse sand
   Clay content: 1 to 18 percent
   Rock fragments: 0 to 15 percent gravel
-  Reaction: strongly to moderately acid
+  Reaction: very strongly to moderately acid
   Redoximorphic features: 
 	Masses of oxidized iron in matrix
 		Quantity: common to many
 		Size: fine to coarse
 
 Cg horizons
-  Hue: 7.5YR,10YR, 2.5Y, 5Y dry, 2.5Y, 5Y, 10Y, N moist
+  Hue: 7.5YR,10YR, 2.5Y, 5Y dry; 2.5Y, 5Y, 10Y, N moist
   Value: 4 to 7 dry, 2 to 5 moist
   Chroma: 1 or 2 dry, 1 moist
-  Texture: sandy loam, coarse sandy loam, loamy sand, loamy coarse sand, coarse sand
+  Texture: sandy loam, coarse sandy loam, loamy sand, loamy coarse sand, sand, coarse sand
   Clay content: 1 to 18 percent
   Rock fragments: 0 to 15 percent gravel
   Reaction: strongly to moderately acid
@@ -93,7 +93,7 @@ Cg horizons
 
 COMPETING SERIES: There are no other series in this family at this time.
 
-GEOGRAPHIC SETTING: The Wuksachi soils are on concave to linear treads of flood plains and low flood-plain steps. Slopes range from 0 to 5 percent. These soils formed in organic material over alluvium derived from granite and granodiorite. Elevation is 1520 to 2125 meters. The climate is Mediterranean with warm, dry summers and cool, moist winters. The mean annual precipitation is 535 to 1145 mm and the mean annual air temperature is 8 to11 degrees C. The frost free season is 120 to 150 days.
+GEOGRAPHIC SETTING: The Wuksachi soils are on concave to linear treads of flood plains and low flood-plain steps. Slopes range from 0 to 5 percent. These soils formed in organic material over alluvium derived from granite and granodiorite. Elevation is 1520 to 2130 meters. The climate is Mediterranean with warm, dry summers and cool, moist winters. The mean annual precipitation is 535 to 1165 mm and the mean annual air temperature is 7 to11 degrees C. The frost free season is 120 to 155 days.
 
 GEOGRAPHICALLY ASSOCIATED SOILS: These are the Wobonuch soils. The Wobonuch soils are on floodplain steps and are somewhat poorly drained.
 

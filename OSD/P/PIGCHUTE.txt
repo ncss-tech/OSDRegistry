@@ -2,13 +2,13 @@ LOCATION PIGCHUTE               CA
 
 Established Series
 CES/JBB
-06/2021
+09/2021
 
 PIGCHUTE SERIES
 
-The Pigchute series consists of very deep, well drained soils formed in colluvium, residuum, and till derived from granitic and metamorphic rocks. The Pigchute soils are on mountain slopes and lateral moraines of the Sierra Nevada Mountains. Slopes range from 25 to 60 percent. The mean annual precipitation is about 865 mm and the mean annual air temperature is about 5 degrees C.
+The Pigchute series consists of very deep, well drained soils formed in colluvium, residuum, and till derived from granitic and metasedimentary rocks. The Pigchute soils are on mountain slopes, glacial-valley walls, and lateral moraines of the Sierra Nevada Mountains. Slopes range from 15 to 60 percent. The mean annual precipitation is about 865 mm and the mean annual air temperature is about 5 degrees C.
 
-TAXONOMIC CLASS: Loamy-skeletal, isotic, frigid Vitrandic Dystroxerepts
+TAXONOMIC CLASS:  Loamy-skeletal, isotic, frigid Vitrandic Dystroxerepts
 
 TYPICAL PEDON: Pigchute very gravelly sandy loam on an east facing (107 degree), 36 percent slope under a canopy of red fir and white fir at an elevation of 2393 meters. (Colors are for dry soils unless otherwise noted. When described on August 24, 2017 the soil was dry to 59 cm and slightly moist to 163 cm.)
 
@@ -35,7 +35,7 @@ Diagnostic Feature(s):
   Ochric epipedon thickness:  18 cm
   Cambic horizon thickness:  25 to 100 cm
 
-Reaction: very strongly to moderately acid 
+Reaction: very strongly to slightly acid 
 
 Base saturation:  less than 50 percent (by ammonium acetate)
 
@@ -52,8 +52,8 @@ A horizon(s)
   Hue: 7.5YR, 10YR, 2.5Y
   Value: 4 to 6 dry, 2 or 3 moist
   Chroma: 2 or 3 dry, 1 to 3 moist
-  Texture: sandy loam, fine sandy loam, loam
-  Clay content: 4 to 12 percent
+  Texture: loamy sand, sandy loam, fine sandy loam, silt loam, loam
+  Clay content: 3 to 12 percent
   Rock fragments: 0 to 65 percent
 	0 to 35 percent gravel
 	0 to 35 percent cobbles
@@ -64,8 +64,8 @@ Bw horizon(s)
   Value: 5 to 7 dry, 3 to 5 moist
   Chroma: 4 or 6 dry, 2 to 4 moist
   Texture: sandy loam, fine sandy loam, very fine sandy loam, silt loam, loam
-  Clay content: 5 to 18 percent
-  Rock fragments: 35 to 75 percent
+  Clay content: 3 to 18 percent
+  Rock fragments: 15 to 75 percent
 	15 to 35 percent gravel
 	0 to 35 percent cobbles
 	0 to 35 percent stones
@@ -83,7 +83,7 @@ C horizon (where present)
 
 COMPETING SERIES: These are the Merkel and Roop soils. Merkel soils have a densic contact at 50 to 100 cm and have ashy surface horizons. Roop soils have hard andesite bedrock at 50 to 100 cm and have an umbric epipedon.
 
-GEOGRAPHIC SETTING: The Pigchute soils are on linear backslopes of mountain slopes and lateral moraines. Slopes range from 25 to 60 percent. These soils formed in colluvium, residuum, and till derived from granitic and metamorphic rocks. Elevation is 1600 to 3000 meters. The climate is Mediterranean with warm, dry summers and cool, moist winters. The mean annual precipitation is 450 to 1300 mm and the mean annual air temperature is 2 to 9 degrees C. The frost free season is 70 to 165 days.
+GEOGRAPHIC SETTING: The Pigchute soils are on linear backslopes of mountain slopes, lateral moraines, and talus slopes  and colluvial aprons of glacial-valley walls,. Slopes range from 15 to 60 percent. These soils formed in colluvium, residuum, and till derived from granitic and metasedimentary rocks. Elevation is 1600 to 3245 meters. The climate is Mediterranean with warm, dry summers and cool, moist winters. The mean annual precipitation is 450 to 1300 mm and the mean annual air temperature is 2 to 9 degrees C. The frost free season is 70 to 165 days.
 
 GEOGRAPHICALLY ASSOCIATED SOILS: These are the Lackey, Tuohy, and Windowpeak soils. The Lackey soils are on linear backslopes of mountain slopes, have an umbric epipedon, and are sandy-skeletal. The Tuohy soils are on linear to convex backslopes of structural benches and mountain slopes, and are shallow to hard bedrock. Windowpeak soils are on linear backslopes and footslopes of mountain slopes and moraines in glacial valleys, and have an umbric epipedon.
 

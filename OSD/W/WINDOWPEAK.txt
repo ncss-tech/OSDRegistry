@@ -2,11 +2,11 @@ LOCATION WINDOWPEAK             CA
 
 Established Series
 CES/JBB/JTW
-06/2021
+09/2021
 
 WINDOWPEAK SERIES
 
-The Windowpeak series consists of very deep, well or somewhat excessively drained soils formed in colluvium and/or till derived from granite and granodiorite. Windowpeak soils are on moraines and mountain slopes in the Sierra Nevada mountains. Slopes range from 3 to 75 percent. The mean annual precipitation is about 1095 mm and the mean annual air temperature is about 6 degrees C.
+The Windowpeak series consists of very deep, well or somewhat excessively drained soils formed in colluvium and/or till derived from granite and granodiorite. Windowpeak soils are on moraines, mountain slopes, and glacial-valley walls and floors in the Sierra Nevada Mountains. Slopes range from 3 to 60 percent. The mean annual precipitation is about 1095 mm and the mean annual air temperature is about 6 degrees C.
 
 TAXONOMIC CLASS: Sandy-skeletal, isotic, frigid Vitrandic Humixerepts
 
@@ -42,7 +42,7 @@ Volcanic glass:  5 to 30 percent in the 0.02 to 2.0 mm fraction in an 18 cm thic
 
 Particle size control section weighted average:
   Rock fragments: 35 to 70 percent, with 20 to 60 percent gravel, 15 to 35 percent cobbles, 5 to 35 percent stones, and 0 to 15 percent boulders.
-  Clay content: 2 to 10 percent
+  Clay content: 1 to 10 percent
   NaF pH: 9.0 to 11.0 
 
 A horizon
@@ -50,7 +50,7 @@ A horizon
   Value: 3 to 5 dry, 2 or 3 moist
   Chroma: 2 or 3, dry or moist
   Texture: sand, loamy coarse sand, loamy sand, loamy fine sand
-  Clay content: 2 to 6 percent
+  Clay content: 2 to 8 percent
   Rock fragments: 5 to 65 percent
 	5 to 50 percent gravel
 	0 to 30 percent cobbles
@@ -62,7 +62,7 @@ Bw1 horizon
   Value: 4 or 5 dry, 2 or 3 moist
   Chroma: 2 to 4 dry, 2 or 3 moist
   Texture: sand, loamy coarse sand, loamy sand, loamy fine sand
-  Clay content: 2 to 10 percent
+  Clay content: 1 to 10 percent
   Rock fragments: 15 to 70 percent
 	10 to 45 percent gravel
 	5 to 30 percent cobbles
@@ -74,7 +74,7 @@ Bw2 horizon
   Value: 4 or 5 dry, 3 or 4 moist
   Chroma: 3 or 4 dry, 2 to 4 moist
   Texture: sand, loamy coarse sand, loamy sand, loamy fine sand
-  Clay content: 2 to 6 percent
+  Clay content: 1 to 10 percent
   Rock fragments: 30 to 70 percent
 	15 to 45 percent gravel
 	15 to 30 percent cobbles
@@ -86,8 +86,8 @@ C horizon
   Value: 5 or 6 dry, 3 or 4 moist
   Chroma: 2 to 4, dry or moist
   Texture: sand, loamy coarse sand, loamy sand, loamy fine sand
-  Clay content: 1 to 5 percent
-  Rock fragments: 35 to 70 percent
+  Clay content: 1 to 8 percent
+  Rock fragments: 35 to 75 percent
 	15 to 50 percent gravel
 	10 to 30 percent cobbles
 	10 to 30 percent stones
@@ -95,7 +95,7 @@ C horizon
 
 COMPETING SERIES: These are the Doncecil (T), Kanawyer (T), Pajo, and Tripod soils. Doncecil soils formed in colluvium on mountain slopes and have umbric epipedons less than 50 cm thick. Kanawyer soils formed in till and colluvium on moraines and mountain slopes, have umbric epipedons less than 50 cm thick, and have a densic contact between 100 and 150 cm from the mineral soil surface. Pajo soils are 50 to 100 cm to a lithic contact. Tripod soils have ashy textures in the A horizon, and have hues 10YR or yellower throughout the profile.
 
-GEOGRAPHIC SETTING: The Windowpeak soils are on linear backslopes and footslopes on mountain slopes and moraines in glacial valleys. Slopes range from 3 to 75 percent. These soils formed in colluvium and till derived from granite and granodiorite. Elevation is 1980 to 2860 meters. The climate is Mediterranean with warm, dry summers and cool, moist winters. The mean annual precipitation is 445 to 1375 mm and the mean annual air temperature is 4 to 10 degrees C. The frost free season is 75 to 160 days.
+GEOGRAPHIC SETTING: The Windowpeak soils are on linear backslopes and footslopes on mountain slopes, glacial-valley walls, colluvial aprons on glacial-valley floors and cirques, and moraines on plateaus. Slopes range from 3 to 60 percent. These soils formed in colluvium and till derived from granite and granodiorite, and less commonly, metamorphic rocks. Elevation is 1825 to 3235 meters. The climate is Mediterranean with warm, dry summers and cool, moist winters. The mean annual precipitation is 445 to 1515 mm and the mean annual air temperature is 2 to 10 degrees C. The frost free season is 60 to 160 days.
 
 GEOGRAPHICALLY ASSOCIATED SOILS: These are the Beetlerock and Hockett soils. Beetlerock soils average less than 35 percent rock fragments in the particle size control section and are on linear to convex backslopes of mountain slopes. Hockett soils are 50 to 100 cm deep to a lithic contact and are on linear to concave backslopes of structural benches and mountain slopes.
 

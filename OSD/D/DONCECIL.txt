@@ -1,14 +1,14 @@
 LOCATION DONCECIL               CA
 
-Tentative Series
+Established Series
 CES/JBB
-05/2021
+09/2021
 
 DONCECIL SERIES
 
-The Doncecil series consists of very deep, somewhat excessively drained soils formed in colluvium derived from granitic rocks. Doncecil soils are on mountain slopes in the Sierra Nevada mountains. Slopes range from 20 to 60 percent. The mean annual precipitation is about 985 mm and the mean annual air temperature is about 6 degrees C.
+The Doncecil series consists of very deep, somewhat excessively drained soils formed in colluvium and reworked till derived from granitic rocks. Doncecil soils are on mountain slopes and colluvial aprons of glacial-valley walls in the Sierra Nevada mountains. Slopes range from 20 to 60 percent. The mean annual precipitation is about 985 mm and the mean annual air temperature is about 6 degrees C.
 
-TAXONOMIC CLASS:  Sandy-skeletal, isotic, frigid Vitrandic Humixerepts
+TAXONOMIC CLASS: Sandy-skeletal, isotic, frigid Vitrandic Humixerepts
 
 TYPICAL PEDON: Doncecil very stony sand on a north-facing (345 degree), 55 percent slope under a canopy of white fir, sugar pine, and Jeffrey pine at an elevation of 2029 meters. (Colors are for dry soils unless otherwise noted. When described on June 14, 2014 the soil was moist throughout.)
 
@@ -53,8 +53,8 @@ A horizon
   Hue: 10YR, 2.5Y
   Value: 3 to 5 dry, 2 or 3 moist
   Chroma: 2 or 3 dry, 1 to 3 moist
-  Texture: sand, loamy coarse sand, loamy sand
-  Clay content: 3 to 7 percent
+  Texture: sand, loamy coarse sand, loamy sand, loamy fine sand, sandy loam
+  Clay content: 1 to 10 percent
   Rock fragments: 15 to 80 percent
 	0 to 60 percent gravel
 	10 to 35 percent cobbles
@@ -65,8 +65,8 @@ Bw horizon
   Hue: 10YR, 2.5Y
   Value: 4 to 6 dry, 3 or 4 moist
   Chroma: 3 or 4 dry, 2 to 4 moist
-  Texture: sand, loamy coarse sand, loamy sand
-  Clay content: 1 to 7 percent
+  Texture: sand, loamy coarse sand, loamy sand, sandy loam
+  Clay content: 1 to 10 percent
   Rock fragments: 15 to 80 percent
 	5 to 60 percent gravel
 	5 to 35 percent cobbles
@@ -77,8 +77,8 @@ C horizon
   Hue: 10YR, 2.5Y
   Value: 5 to 7 dry, 4 to 7 moist
   Chroma: 2 to 4 dry, 2 or 3 moist
-  Texture: sand, loamy coarse sand, loamy sand
-  Clay content: 1 to 7 percent
+  Texture: coarse sand, sand, loamy coarse sand, loamy sand
+  Clay content: 0 to 8 percent
   Rock fragments: 15 to 80 percent
 	15 to 60 percent gravel
 	0 to 35 percent cobbles
@@ -87,7 +87,7 @@ C horizon
 
 COMPETING SERIES: There are the Kanawyer (T), Pajo, Tripod, and Windowpeak (T), soils. Kanawyer soils have a densic contact at 100 to 150 cm below the mineral soil surface. Pajo soils are 50 to 100 cm to a lithic contact. Tripod soils have ashy textures in the A horizon, and have hues 10YR or yellower throughout the profile. Windowpeak soils have umbric epipedons thicker than 50 cm.
 
-GEOGRAPHIC SETTING: The Doncecil soils are on linear to concave backslopes of mountain slopes. Slopes range from 20 to 60 percent. These soils formed in colluvium derived from granite and granodiorite. Elevation is 1705 to 3180 meters. The climate is Mediterranean with warm, dry summers and cool, moist winters. The mean annual precipitation is 745 to 1265 mm and the mean annual air temperature is 4 to 9 degrees C. The frost free season is 90 to 135 days.
+GEOGRAPHIC SETTING: The Doncecil soils are on linear to concave backslopes of mountain slopes and colluvial aprons of glacial-valley walls. Slopes range from 20 to 60 percent. These soils formed in colluvium and reworked till derived from granite and granodiorite. Elevation is 1705 to 3245 meters. The climate is Mediterranean with warm, dry summers and cool, moist winters. The mean annual precipitation is 400 to 1265 mm and the mean annual air temperature is 3 to 9 degrees C. The frost free season is 70 to 145 days.
 
 GEOGRAPHICALLY ASSOCIATED SOILS: These are the Beetlerock, Hockett, and Windowpeak soils. Beetlerock soils are on linear to convex mountain slopes and average less than 35 percent rock fragments in the particle size control section. Hockett soils are on structural benches and are 50 to 100 cm deep to bedrock. Windowpeak soils are on linear backslopes and footslopes of mountain slopes and have umbric epipedons thicker than 50 cm.
 

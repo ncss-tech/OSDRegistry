@@ -1,12 +1,12 @@
 LOCATION SIBERIAN               CA
 
-Tentative Series
+Established Series
 JBB/CES/JTW
-10/2019
+09/2021
 
 SIBERIAN SERIES
 
-The Siberian series consists of deep or very deep, well drained soils formed in till derived from granitic rocks. The Siberian soils are on ground moraines of the Sierra Nevada Mountains. Slopes range from 5 to 45 percent. The mean annual precipitation is about 985 mm and the mean annual air temperature is about 3 degrees C.
+The Siberian series consists of deep or very deep, well drained soils formed in till and colluvium derived from granitic rocks. The Siberian soils are on ground moraines of the Sierra Nevada Mountains. Slopes range from 3 to 60 percent. The mean annual precipitation is about 985 mm and the mean annual air temperature is about 3 degrees C.
 
 TAXONOMIC CLASS: Sandy-skeletal, isotic Vitrandic Cryorthents
 
@@ -48,22 +48,22 @@ A horizon
   Hue: 10YR
   Value: 3 to 6 dry, 2 to 4 moist
   Chroma: 2 to 4 dry, 2 or 3 moist
-  Texture: sandy loam, coarse sandy loam, loamy sand, loamy coarse sand
-  Clay content: 1 to 8 percent
-  Rock fragments: 10 to 60 percent
-	5 to 45 percent gravel
+  Texture: fine sandy loam, sandy loam, coarse sandy loam, loamy sand, loamy coarse sand
+  Clay content: 1 to 10 percent
+  Rock fragments: 0 to 60 percent
+	0 to 45 percent gravel
 	0 to 35 percent cobbles
 	0 to 15 percent stones
 	0 to 10 percent boulders
-  Reaction: very strongly to slightly acid
+  Reaction: extremely acid to moderately acid
 
 Bw horizon (or BC horizon, where present)
   Hue: 10YR
   Value: 5 to 7 dry, 3 to 5 moist
   Chroma: 3 to 6, dry or moist
-  Texture: loamy sand, loamy coarse sand, coarse sand
-  Clay content: 1 to 8 percent
-  Rock fragments: 20 to 75 percent
+  Texture: sand, coarse sandy loam, loamy sand, loamy coarse sand, coarse sand
+  Clay content: 1 to 12 percent
+  Rock fragments: 15 to 85 percent
 	5 to 50 percent gravel
 	5 to 35 percent cobbles
 	0 to 25 percent stones
@@ -74,9 +74,9 @@ C horizon
   Hue: 10YR, 2.5Y
   Value: 6 or 7 dry, 4 or 5 moist
   Chroma: 2 to 4 dry, 3 or 4 moist
-  Texture: loamy sand, loamy coarse sand, coarse sand
-  Clay content: 0 to 6 percent
-  Rock fragments: 35 to 75 percent
+  Texture: loamy sand, loamy coarse sand, coarse sand, sand
+  Clay content: 0 to 12 percent
+  Rock fragments: 15 to 80 percent
 	15 to 50 percent gravel
 	0 to 35 percent cobbles
 	0 to 25 percent stones
@@ -87,18 +87,18 @@ Cd horizon
   Hue: 10YR, 2.5Y
   Value: 6 to 8 dry, 4 to 6 moist
   Chroma: 3 or 4, dry or moist
-  Texture: loamy sand, loamy coarse sand, coarse sand
-  Clay content: 0 to 6 percent
-  Rock fragments: 35 to 75 percent
+  Texture: sandy loam, loamy sand, loamy coarse sand, coarse sand
+  Clay content: 0 to 8 percent
+  Rock fragments: 35 to 80 percent
 	15 to 50 percent gravel
 	0 to 25 percent cobbles
 	0 to 20 percent stones
 	0 to 10 percent boulders
-  Reaction: strongly to moderately acid
+  Reaction: very strongly to slightly acid
 
-COMPETING SERIES: These are the Evolution,Lapin, and McDermand soils. Evolution soils and have a densic contact and redox concentrations between 100 and 150 cm of the mineral soil surface.  Lapin soils have a densic contact between 50 and 100 cm.. McDermand soils have a lithic contact between 50 and 100 cm.
+COMPETING SERIES: These are the Evolution,Lapin, and McDermand soils. Evolution soils and have a densic contact and redox concentrations between 100 and 150 cm of the mineral soil surface.  Lapin soils have a densic contact between 50 and 100 cm. McDermand soils have a lithic contact between 50 and 100 cm.
 
-GEOGRAPHIC SETTING: The Siberian soils are on backslopes and footslope positions on ground moraines on glacial valley floors, mountain slopes, and basins. Slopes range from 5 to 45 percent. These soils formed in till derived from granite and granodiorite. Elevation is 2550 to 3580 meters. The climate is Mediterranean with warm, dry summers and cool, moist winters. The mean annual precipitation is 510 to 1360 mm and the mean annual air temperature is 1 to 6 degrees C. The frost free season is 55 to 110 days.
+GEOGRAPHIC SETTING: The Siberian soils are on backslopes and footslope positions on ground moraines on glacial valley floors, mountain slopes, plateaus, glacial-valley walls, and basins. Slopes range from 3 to 60 percent. These soils formed in till and colluvium derived from granite, granodiorite, and less commonly metamorphic rocks. Elevation is 2485 to 3760 meters. The climate is Mediterranean with warm, dry summers and cool, moist winters. The mean annual precipitation is 510 to 1360 mm and the mean annual air temperature is -1 to 6 degrees C. The frost free season is 50 to 110 days.
 
 GEOGRAPHICALLY ASSOCIATED SOILS: These are the Canisrocks and the competing Evolution soils. The Canisrocks soils are formed in colluvium on footslope and backslope positions of mountain slopes and do not have a densic contact . The Evolution soils are formed in till in concave footslope and toeslope positions on ground moraines on glacial valley floors and cirque floors, have redoximorphic features, and are moderately well drained.
 

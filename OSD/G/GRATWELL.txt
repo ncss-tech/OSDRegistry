@@ -2,13 +2,13 @@ LOCATION GRATWELL               CA
 
 Established Series
 JBB/CES
-06/2021
+09/2021
 
 GRATWELL SERIES
 
-The Gratwell series consists of very deep, well drained soils formed in colluvium and/or slope alluvium over residuum derived from granodiorite and schist. The Gratwell soils are on mountain slopes of the Sierra Nevada Mountains. Slopes range from 5 to 60 percent. The mean annual precipitation is about 1025 mm and the mean annual air temperature is about 10 degrees C.
+The Gratwell series consists of very deep, well drained soils formed in colluvium and/or slope alluvium over residuum derived from granodiorite and schist. The Gratwell soils are on mountain slopes of the Sierra Nevada Mountains. Slopes range from 3 to 70 percent. The mean annual precipitation is about 1025 mm and the mean annual air temperature is about 10 degrees C.
 
-TAXONOMIC CLASS: Coarse-loamy, isotic, mesic Vitrandic Humixerepts
+TAXONOMIC CLASS:  Coarse-loamy, isotic, mesic Vitrandic Humixerepts
 
 TYPICAL PEDON: Gratwell fine sandy loam on a southwest facing (220 degree), 50 percent slope under giant sequoia and mixed conifer forest at an elevation of 1756 meters. (Colors are for dry soils unless otherwise noted. When described on May 4, 2015 the soil was moist throughout.)
 
@@ -55,11 +55,11 @@ A horizon
   Value: 3 to 5 dry, 2 or 3 moist
   Chroma: 2 or 3, dry or moist
   Texture: fine sandy loam, sandy loam, coarse sandy loam, loamy fine sand, loamy sand
-  Clay content: 4 to 12 percent
+  Clay content: 3 to 12 percent
   Rock fragments: 0 to 35 percent
 	0 to 35 percent gravel
 	0 to 5 percent cobbles
-  Reaction: moderately acid to neutral
+  Reaction: strongly acid to neutral
 
 BA horizon (where present)
   Hue: 7.5YR, 10YR
@@ -70,46 +70,47 @@ BA horizon (where present)
   Rock fragments: 0 to 35 percent
 	0 to 35 percent gravel
 	0 to 5 percent cobbles
-  Reaction: moderately acid to neutral
+  Reaction: strongly acid to neutral
 
 Bw1 horizon
   Hue: 7.5YR, 10YR
   Value: 4 or 5 dry, 3 moist
   Chroma: 3 or 4, dry or moist
   Texture: fine sandy loam, sandy loam, loam
-  Clay content: 5 to 18 percent
-  Rock fragments: 0 to 35 percent
+  Clay content: 2 to 18 percent
+  Rock fragments: 0 to 60 percent
 	0 to 35 percent gravel
-	0 to 5 percent cobbles
-  Reaction: moderately acid to neutral
+	0 to 35 percent cobbles
+	0 to 25 percent stones
+  Reaction: strongly acid to neutral
 
 Bw2 horizon
   Hue: 7.5YR, 10YR
   Value: 4 to 6 dry, 3 or 4 moist
   Chroma: 3 or 4, dry or moist
   Texture: fine sandy loam, sandy loam, loam
-  Clay content: 5 to 18 percent
-  Rock fragments: 0 to 60 percent
-	0 to 35 percent gravel
-	0 to 25 percent cobbles
-	0 to 15 percent stones
+  Clay content: 2 to 18 percent
+  Rock fragments: 0 to 70 percent
+	0 to 50 percent gravel
+	0 to 35 percent cobbles
+	0 to 30 percent stones
   Reaction: strongly to slightly acid
 
 C horizon
   Hue: 7.5YR, 10YR
   Value: 5 to7 dry, 3 to 5 moist
   Chroma: 3 to 6, dry or moist
-  Texture: fine sandy loam, sandy loam, coarse sandy loam, loamy fine sand, loamy coarse sand, sand
-  Clay content: 2 to 15 percent
-  Rock fragments: 0 to 60 percent
+  Texture: fine sandy loam, sandy loam, coarse sandy loam, loamy sand loamy fine sand, loamy coarse sand, sand
+  Clay content: 1 to 18 percent
+  Rock fragments: 0 to 70 percent
 	0 to 35 percent gravel
-	0 to 25 percent cobbles
-	0 to 15 percent stones
-  Reaction: strongly to slightly acid
+	0 to 35 percent cobbles
+	0 to 25 percent stones
+  Reaction: very strongly to slightly acid
 
 COMPETING SERIES: These are the Flotag (MLRA 6) soils. Flotag soils are formed in basaltic and andesitic ash and mudflow deposits, have ashy textures and buried horizons, and are moderately well drained.
 
-GEOGRAPHIC SETTING: The Gratwell soils are on broadly concave backslopes of mountain slopes. Slopes range from 5 to 60 percent. These soils formed in colluvium and/or slope alluvium over residuum derived from granodiorite and schist. Elevation is 1385 to 2295 meters. The climate is Mediterranean with warm, dry summers and cool, moist winters. The mean annual precipitation is 885 to 1170 mm and the mean annual air temperature is 7 to 13 degrees C. The frost-free season is 105 to 200 days.
+GEOGRAPHIC SETTING: The Gratwell soils are on broadly concave backslopes of mountain slopes. Slopes range from 3 to 70 percent. These soils formed in colluvium and/or slope alluvium over residuum derived from granodiorite and schist. Elevation is 1385 to 2505 meters. The climate is Mediterranean with warm, dry summers and cool, moist winters. The mean annual precipitation is 885 to 1170 mm and the mean annual air temperature is 7 to 13 degrees C. The frost-free season is 105 to 200 days.
 
 GEOGRAPHICALLY ASSOCIATED SOILS: These are the Sherman soils. The Sherman soils are on concave stream terraces and footslopes of drainageways on mountain slopes and are moderately well drained.
 

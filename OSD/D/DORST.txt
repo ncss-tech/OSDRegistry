@@ -2,11 +2,11 @@ LOCATION DORST                  CA
 
 Established Series
 CES/JTW
-06/2021
+09/2021
 
 DORST SERIES
 
-The Dorst series consists of shallow, somewhat excessively drained soils formed in colluvium and residuum derived from granitic rocks. Dorst soils are on structural benches and mountain slopes in the Sierra Nevada Mountains. Slopes range from 15 to 60 percent. The mean annual precipitation is about 980 mm and the mean annual air temperature is about 6 degrees C.
+The Dorst series consists of shallow, somewhat excessively drained soils formed in colluvium, slope alluvium, and residuum derived from granitic rocks. Dorst soils are on structural benches and mountain slopes in the Sierra Nevada Mountains. Slopes range from 2 to 90 percent. The mean annual precipitation is about 980 mm and the mean annual air temperature is about 6 degrees C.
 
 TAXONOMIC CLASS: Sandy-skeletal, isotic, frigid Lithic Humixerepts
 
@@ -30,8 +30,7 @@ Soil Moisture: The soils have a xeric soil moisture regime. The soil moisture co
 Diagnostic Feature(s):
   Umbric epipedon thickness:  25 to 40 cm
   Depth to lithic contact:  25 to 50 cm
-
-Reaction: slightly to strongly acid
+Reaction: very strongly to slightly acid
 
 Base saturation: less than 50 percent (by ammonium acetate)
 
@@ -44,9 +43,9 @@ A horizon
   Hue: 7.5YR or 10YR
   Value: 3 to 5 dry, 2 or 3 moist
   Chroma: 2 or 3 dry, 2 moist
-  Texture: coarse sand, loamy coarse sand, loamy sand
-  Clay content: 1 to 6 percent
-  Rock fragments: 15 to 65 percent
+  Texture: coarse sand, sand, loamy coarse sand, loamy sand, loamy fine sand
+  Clay content: 1 to 10 percent
+  Rock fragments: 10 to 70 percent
 	0 to 45 percent gravel
 	0 to 40 percent channers
 	0 to 30 percent cobbles
@@ -57,14 +56,15 @@ Bw horizon
   Hue: 7.5YR or 10YR
   Value: 4 or 5 dry, 2 or 3 moist
   Chroma: 2 or 3 dry, 2 moist
-  Texture: loamy coarse sand, loamy sand
+  Texture: coarse sand, sand, loamy coarse sand, loamy sand
   Clay content: 1 to 6 percent
-  Rock fragments: 35 to 70 percent
+  Rock fragments: 10 to 70 percent
 	0 to 45 percent gravel
 	0 to 40 percent channers
 	0 to 30 percent cobbles
 	0 to 35 percent flagstones
 	0 to 35 percent stones
+
 
 C horizon (when present)
   Hue: 10YR
@@ -72,8 +72,8 @@ C horizon (when present)
   Chroma: 2 or 3, dry or moist
   Texture: sand, loamy sand
   Clay content: 1 to 4 percent
-  Rock fragments: 35 to 70 percent
-	35 to 65 percent gravel
+  Rock fragments: 25 to 70 percent
+	25 to 65 percent gravel
 	0 to 45 percent channers
 	0 to 15 percent cobbles
 	0 to 15 percent flagstones
@@ -81,7 +81,7 @@ C horizon (when present)
 
 COMPETING SERIES: There are no other series in this family at this time.
 
-GEOGRAPHIC SETTING: The Dorst soils are on linear to convex summits and shoulders of structural benches, free faces, and mountain slopes. Slopes range from 15 to 60 percent. These soils formed in in colluvium and residuum derived from granitic rocks. Elevation is 1860 to 2870 meters. The climate is Mediterranean with warm, dry summers and cool, moist winters. The mean annual precipitation is 450 to 1265 mm and the mean annual air temperature is 2 to 9 degrees C. The frost free season is 60 to 150 days.
+GEOGRAPHIC SETTING: The Dorst soils are on linear to convex summits and shoulders of structural benches of glacial-valley walls, cirques, plateaus, and mountain slopes. Slopes range from 2 to 90 percent. These soils formed in in colluvium, slope alluvium, and residuum derived from granitic rocks. Elevation is 1750 to 3225 meters. The climate is Mediterranean with warm, dry summers and cool, moist winters. The mean annual precipitation is 450 to 1515 mm and the mean annual air temperature is 2 to 9 degrees C. The frost free season is 80 to 165 days.
 
 GEOGRAPHICALLY ASSOCIATED SOILS: These are the Hockett and Windowpeak soils. Hockett soils are on linear to concave positions on structural benches and are 50 to 100 cm to a lithic contact. Windowpeak soils are on linear to convex backslopes of mountain slopes, and are greater than 200 cm to a lithic contact.
 

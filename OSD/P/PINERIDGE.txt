@@ -2,13 +2,13 @@ LOCATION PINERIDGE              CA
 
 Established Series
 CES/JBB
-06/2021
+09/2021
 
 PINERIDGE SERIES
 
-The Pineridge series consists of very deep, somewhat poorly or poorly drained soils formed in alluvium derived from granitic rocks. The Pineridge soils are on flood-plain steps on glacial valley floors, mountains, and plateaus of the Sierra Nevada Mountains. Slopes range from 1 to 10 percent. The mean annual precipitation is about 1000 mm and the mean annual air temperature is about 5 degrees C.
+The Pineridge series consists of very deep, somewhat poorly or poorly drained soils formed in alluvium derived from granitic rocks. The Pineridge soils are on flood-plain steps of the Sierra Nevada Mountains. Slopes range from 0 to 10 percent. The mean annual precipitation is about 1000 mm and the mean annual air temperature is about 5 degrees C.
 
-TAXONOMIC CLASS: Sandy, isotic, frigid Hydraquentic Humaquepts
+TAXONOMIC CLASS:  Sandy, isotic, frigid Hydraquentic Humaquepts
 
 TYPICAL PEDON: Pineridge coarse sandy loam on a southwest facing (225 degree), 7 percent slope with a cover of meadow lotus, sneezeweed, and other forbs and grasses at an elevation of 2143 meters. (Colors are for dry soils unless otherwise noted. When described on August 22, 2017 the soil was moist from 0 to 46 cm, and wet from 46 to 174 cm.)
 
@@ -39,7 +39,7 @@ Reaction: slightly to strongly acid
 
 Organic matter: 2 to 10 percent in the epipedon
 
-Depth to redoximorphic features:  20 to 50 cm
+Depth to redoximorphic features:  20 to 100 cm
 
 Base saturation: less than 50 percent (by ammonium acetate)
 
@@ -48,7 +48,7 @@ Particle size control section weighted average:
   Clay content: 2 to 10 percent
   NaF pH: 8.5 to 11.0
 
-A horizon
+A horizon (or AB horizons, where present)
   Hue: 7.5YR, 10YR
   Value: 3 to 5 dry, 2 or 3 moist
   Chroma: 1 to 3, dry or moist
@@ -59,10 +59,10 @@ A horizon
 	0 to 5 percent cobbles
 	0 to 10 percent channers
 
-Bw1 horizon
+Bw or Bg horizons
   Hue: 7.5YR, 10YR, 2.5Y
-  Value: 4 or 5 dry, 3 moist
-  Chroma: 1 to 3, dry or moist
+  Value: 4 to 7 dry, 2 to 5 moist
+  Chroma: 1 to 4, dry or moist
   Texture: loamy coarse sand, loamy sand, coarse sandy loam, sandy loam
   Clay content: 2 to 12 percent
   Rock fragments: 0 to 15 percent
@@ -71,25 +71,10 @@ Bw1 horizon
 	0 to 5 percent stones
   Redoximorphic Features: 
 	Oxidized iron and iron-manganese masses in matrix and along linings of pores
-		Quantity: few to common
-		Size: very fine and fine
+		Quantity: few to many
+		Size: very fine, fine, medium, and coarse
 
-Bw2 horizon
-  Hue: 7.5YR, 10YR, 2.5Y
-  Value: 5 to 7 dry, 2 to 5 moist
-  Chroma: 2 to 4 dry, 1 to 3 moist
-  Texture: loamy coarse sand, loamy sand, coarse sandy loam, sandy loam
-  Clay content: 2 to 8 percent
-  Rock fragments: 0 to 15 percent
-	0 to 5 percent gravel
-	0 to 5 percent cobbles
-	0 to 5 percent stones
-  Redoximorphic Features: 
-	Oxidized iron and iron-manganese masses in matrix and along linings of pores
-		Quantity: common to many
-		Size: fine, medium, and coarse
-
-C horizons
+C or Cg horizons
   Hue: 7.5YR, 10YR, 2.5Y
   Value: 4 to 7 dry, 2 to 5 moist
   Chroma: 1 to 3, dry or moist
@@ -108,7 +93,7 @@ C horizons
 
 COMPETING SERIES: There are no other series in this family at this time.
 
-GEOGRAPHIC SETTING: The Pineridge soils are on flood-plain steps. Slopes range from 1 to 10 percent. These soils formed in alluvium derived from granite and granodiorite. Elevation is 1950 to 2900 meters. The climate is Mediterranean with warm, dry summers and cool, moist winters. The mean annual precipitation is 725 to 1350 mm and the mean annual air temperature is 4 to 7 degrees C. The frost free season is 85 to 120 days.
+GEOGRAPHIC SETTING: The Pineridge soils are on flood-plain steps of glacial valley floors, mountains, and plateaus. Slopes range from01 to 10 percent. These soils formed in alluvium derived from granite and granodiorite. Elevation is 1950 to 3080 meters. The climate is Mediterranean with warm, dry summers and cool, moist winters. The mean annual precipitation is 400 to 1350 mm and the mean annual air temperature is 3 to 9 degrees C. The frost free season is 75 to 145 days.
 
 GEOGRAPHICALLY ASSOCIATED SOILS: These are the Funston and Wager soils. The Funston soils are poorly or very poorly drained soils on flood plains and flood-plain steps, have an ochric epipedon, and have greater than 35 percent rock fragments in the particle size control section. The Wager soils are organic soils on flood plains and are very poorly or poorly drained.
 

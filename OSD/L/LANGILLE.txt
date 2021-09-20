@@ -1,12 +1,12 @@
 LOCATION LANGILLE               CA
 
-Tentative Series
+Established Series
 JBB/CES/JTW
-10/2019
+09/2021
 
 LANGILLE SERIES
 
-The Langille series consists of moderately deep, well drained soils formed in colluvium and till over residuum weathered from granite. The Langille soils are on structural benches of mountain slopes of the Sierra Nevada Mountains. Slopes range from 2 to 50 percent. The mean annual precipitation is about 1000 mm and the mean annual air temperature is about 2 degrees C.
+The Langille series consists of moderately deep, well drained soils formed in colluvium and till over residuum weathered from granite. The Langille soils are on structural benches of mountain slopes, cirques, and glacial-valley walls of the Sierra Nevada Mountains. Slopes range from 2 to 60 percent. The mean annual precipitation is about 1000 mm and the mean annual air temperature is about 2 degrees C.
 
 TAXONOMIC CLASS: Loamy-skeletal, isotic Vitrixerandic Dystrocryepts
 
@@ -49,37 +49,37 @@ A horizons
   Hue: 7.5YR, 10YR
   Value: 4 or 5 dry, 2 or 3 moist
   Chroma: 2 or 3 dry, 1 to 3 moist
-  Texture: sandy loam, fine sandy loam, loamy sand
-  Clay content: 3 to 10 percent
+  Texture: coarse sandy loam, sandy loam, fine sandy loam, loamy sand
+  Clay content: 2 to 12 percent
   Rock fragments: 0 to 80 percent
 	0 to 25 percent gravel
 	0 to 25 percent cobbles
 	0 to 25 percent stones
 	0 to 40 percent channers
 	0 to 30 percent flagstones
-  Reaction: very strongly to strongly acid
+  Reaction: very strongly to slightly acid
 
 Bw horizons
   Hue: 7.5YR, 10YR
   Value: 4 to 6 dry, 3 or 4 moist
   Chroma: 3 to 6 dry, 3 or 4 moist
-  Texture: sandy loam, fine sandy loam
+  Texture: coarse sandy loam, sandy loam, fine sandy loam
   Clay content: 5 to 12 percent
-  Rock fragments: 35 to 75 percent
+  Rock fragments: 15 to 75 percent
 	0 to 45 percent gravel
 	0 to 45 percent cobbles
 	0 to 35 percent stones
 	0 to 15 percent channers
 	0 to 10 percent flagstones
-  Reaction: very strongly to moderately acid
+  Reaction: very strongly to slightly acid
 
 C or BC horizons (where present)
   Hue: 10YR, 2.5Y
   Value: 6 or 7 dry, 4 or 5 moist
   Chroma: 3 or 4, dry or moist
-  Texture: sandy loam, loamy sand, loamy coarse sand
-  Clay content: 2 to 8 percent
-  Rock fragments: 35 to 70 percent
+  Texture: coarse sandy loam, sandy loam, loamy sand, loamy coarse sand
+  Clay content: 1 to 8 percent
+  Rock fragments: 35 to 75 percent
 	0 to 35 percent gravel
 	0 to 25 percent cobbles
 	0 to 35 percent stones
@@ -89,9 +89,9 @@ C or BC horizons (where present)
 
 COMPETING SERIES: These are the Stehekin (MLRA 3) soils. The Stehekin soils formed in mixed ash, till, and colluvium, do not have a lithic contact within 100 cm.
 
-GEOGRAPHIC SETTING: The Langille soils are on structural benches. Slopes range from 2 to 50 percent. These soils formed in colluvium and till over residuum weathered from granite and granodiorite. Elevation is 2340 to 3960 meters. The climate is Mediterranean with warm, dry summers and cool, moist winters. The mean annual precipitation is 505 to 1460 mm and the mean annual air temperature is -1 to 5 degrees C. The frost free season is 45 to 95 days.
+GEOGRAPHIC SETTING: The Langille soils are on structural benches of mountain slopes, cirques, and glacial-valley walls. Slopes range from 2 to 60 percent. These soils formed in colluvium and till over residuum weathered from granite, granodiorite, and less commonly metamorphic rocks. Elevation is 2340 to 4040 meters. The climate is Mediterranean with warm, dry summers and cool, moist winters. The mean annual precipitation is 505 to 1480 mm and the mean annual air temperature is -2 to 5 degrees C. The frost free season is 40 to 95 days.
 
-GEOGRAPHICALLY ASSOCIATED SOILS: These are the Benchlake, Canisrocks, and Isosceles soils. The Bencklake (sandy-skeletal) and Isosceles (loamy) soils are formed in similar landscape positions and have a lithic contact within 50 cm. The Canisrocks soils are formed in colluvium on mountain slopes and do not have a lithic contact within 150 cm of the mineral soil surface.
+GEOGRAPHICALLY ASSOCIATED SOILS: These are the Benchlake, Canisrocks, and Isosceles soils. The Benchlake (sandy-skeletal) and Isosceles (loamy) soils are formed in similar landscape positions and have a lithic contact within 50 cm. The Canisrocks soils are formed in colluvium on mountain slopes and do not have a lithic contact within 150 cm of the mineral soil surface.
 
 DRAINAGE AND PERMEABILITY: Well drained, high saturated hydraulic conductivity.  Saturated hydraulic conductivity of the bedrock is low to high.
 

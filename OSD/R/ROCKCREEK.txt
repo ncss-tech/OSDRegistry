@@ -1,14 +1,14 @@
-LOCATION ROCKCREEK              CA
+LOCATION ROCKCREEK              CA 
 
 Established Series
 CES/JBB
-05/2021
+09/2021
 
 ROCKCREEK SERIES
 
-The Rockcreek series consists of very deep, poorly drained soils formed in organic material over alluvium, slope alluvium, colluvium, and till derived from granitic and metamorphic rocks. The Rockcreek soils are on seeps of mountain slopes and glacial canyon walls of the Sierra Nevada Mountains. Slopes range from 10 to 30 percent. The mean annual precipitation is about 800 mm and the mean annual air temperature is about 3 degrees C.
+The Rockcreek series consists of very deep, poorly drained soils formed in organic material over alluvium, slope alluvium, colluvium, and till derived from granitic and metamorphic rocks. The Rockcreek soils are on seeps of mountain slopes, glacial-valley floors, and glacial-valley walls of the Sierra Nevada Mountains. Slopes range from 5 to 30 percent. The mean annual precipitation is about 800 mm and the mean annual air temperature is about 3 degrees C.
 
-TAXONOMIC CLASS: Sandy-skeletal, isotic Histic Cryaquepts
+TAXONOMIC CLASS:  Sandy-skeletal, isotic Histic Cryaquepts
 
 TYPICAL PEDON: Rockcreek muck on a north-facing (4 degree), 25 percent slope under Lemmon's willow and Sierra lodgepole pine at an elevation of 3063 meters. (Colors are for dry soils unless otherwise noted. When described on July 7, 2015 the soil was wet, nonsatiated to 120 cm, and wet, satiated from 120 to 165 cm. Water table was observed at 120 cm.)
 
@@ -35,7 +35,7 @@ Soil moisture: The soil is saturated in some part throughout the year, with a se
 
 Diagnostic Feature(s):
   Histic epipedon thickness:  20 to 40 cm
-  Aquic conditions: present within 20 cm of soil surface
+  Aquic conditions: present within 25 cm of soil surface
 
 Organic matter: 20 to 60 percent in the epipedon
 
@@ -62,7 +62,7 @@ Oa or Oab horizon(s)
 	0 to 15 percent stones
 	0 to 15 percent flagstones
 	0 to 10 percent boulders
-  Reaction: moderately or strongly acid
+  Reaction: moderately acid to slightly acid
 
 A, Ab, or AC horizon(s)(where present)
   Hue: 10YR
@@ -77,7 +77,7 @@ A, Ab, or AC horizon(s)(where present)
 	0 to 15 percent stones
 	0 to 15 percent flagstones
 	0 to 10 percent boulders
-  Reaction: moderately or strongly acid
+  Reaction: strongly acid to slightly acid
 
 C horizon(s)
   Hue: 10YR
@@ -98,7 +98,8 @@ C horizon(s)
 	Iron depletions in matrix
 		Quantity: none to many
 		Size: fine
-  Reaction: slightly to strongly acid
+  Reaction: strongly acid to slightly acid
+
 
 Cg horizon(s) (where present)
   Hue: 10YR, 2.5Y
@@ -122,11 +123,11 @@ Iron depletions in matrix
 
 COMPETING SERIES: These are the Ladderlake soils. Ladderlake soils have Bw horizons, are on flood-plain steps with 0 to 4 percent slopes, and undergo occasional to frequent ponding for long duration.
 
-GEOGRAPHIC SETTING: The Rockcreek soils are on seeps of mountain slopes and glacial canyon walls. Slopes range from 10 to 30 percent. These soils formed in organic material over alluvium, slope alluvium, colluvium, and till derived from granitic and metamorphic rocks. Elevation is 2450 to 3610 meters. The climate is Mediterranean with warm, dry summers and cool, moist winters. The mean annual precipitation is 550 to 1455 mm and the mean annual air temperature is -1 to 5 degrees C. The frost free season is 50 to 100 days.
+GEOGRAPHIC SETTING: The Rockcreek soils are on seeps of mountain slopes, glacial-valley floors, and glacial -valley walls. Slopes range from 5 to 30 percent. These soils formed in organic material over alluvium, slope alluvium, colluvium, and till derived from granitic and metamorphic rocks. Elevation is 2450 to 3615 meters. The climate is Mediterranean with warm, dry summers and cool, moist winters. The mean annual precipitation is 530 to 1455 mm and the mean annual air temperature is -1 to 5 degrees C. The frost free season is 50 to 100 days.
 
 GEOGRAPHICALLY ASSOCIATED SOILS: These are the Benchlake and Forgotten soils. The Benchlake soils are well drained soils on structural benches of mountain slopes and glacial-valley walls, have an ochric epipedon, and are shallow to lithic contact. The Forgotten soils are moderately well drained soils on high-gradient drainageways on mountain slopes and glacial valley walls, and have an umbric epipedon. 
 
-DRAINAGE AND PERMEABILITY: Poorly drained, high to very high saturated hydraulic conductivity. Occasional flooding for very brief to brief (4 hrs to 7 days) duration from May to July. Seasonal high water table at 25 to 50 cm.
+DRAINAGE AND PERMEABILITY: Poorly drained, high to very high saturated hydraulic conductivity. Occasional flooding for very brief to brief (4 hrs to 7 days) duration from May to July. Seasonal high water table at 25 to 100 cm.
 
 USE AND VEGETATION: This soil is used for recreation, wildlife habitat, and watershed. Vegetation is Sierra and Lemmon's willow, shootingstar, Carex species, assorted perennial grasses, and scattered Sierra lodgepole pine.
 

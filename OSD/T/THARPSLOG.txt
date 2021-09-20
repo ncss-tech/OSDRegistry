@@ -2,13 +2,13 @@ LOCATION THARPSLOG              CA
 
 Established Series
 JBB/CES
-06/2021
+09/2021
 
 THARPSLOG SERIES
 
-The Tharpslog series consists of very deep, somewhat excessively drained soils formed in colluvium over residuum derived from granite. The Tharpslog soils are on mountain slopes of the Sierra Nevada Mountains. Slopes range from 10 to 50 percent. The mean annual precipitation is about 1050 mm and the mean annual air temperature is about 8 degrees C.
+The Tharpslog series consists of very deep, somewhat excessively drained soils formed in colluvium and slope alluvium over residuum derived from granite. The Tharpslog soils are on mountain slopes of the Sierra Nevada Mountains. Slopes range from 10 to 60 percent. The mean annual precipitation is about 1050 mm and the mean annual air temperature is about 8 degrees C.
 
-TAXONOMIC CLASS: Sandy, isotic, mesic Vitrandic Humixerepts
+TAXONOMIC CLASS:  Sandy, isotic, mesic Vitrandic Humixerepts
 
 TYPICAL PEDON: Tharpslog coarse sandy loam on a north facing (345 degree), 36 percent slope under white fir, sugar pine, incense cedar, and Pacific dogwood at an elevation of 1981 meters. (Colors are for dry soils unless otherwise noted. When described on November 11, 2014 the soil was moist to 54 cm.)
 
@@ -56,44 +56,45 @@ A horizon
   Value: 3 to 5 dry, 2 or 3 moist
   Chroma: 2 or 3, dry or moist
   Texture: sandy loam, coarse sandy loam, loamy sand, loamy coarse sand
-  Clay content: 3 to 12 percent
+  Clay content: 1 to 12 percent
   Rock fragments: 0 to 35 percent gravel
-  Reaction: moderately acid to neutral
+  Reaction: strongly acid to neutral
 
 AB horizon (where present)
   Hue: 7.5YR, 10YR
   Value: 3 to 5 dry, 2 or 3 moist
   Chroma: 2 or 3, dry or moist
   Texture: sandy loam, coarse sandy loam, loamy sand, loamy coarse sand
-  Clay content: 3 to 12 percent
+  Clay content: 1 to 12 percent
   Rock fragments: 0 to 35 percent gravel
-  Reaction: moderately acid to neutral
+  Reaction: strongly acid to neutral
 
 Bw horizon(s)
   Hue: 7.5YR, 10YR
   Value: 4 to 6 dry, 3 or 4 moist
   Chroma: 3 or 4, dry or moist
-  Texture: loamy sand, loamy coarse sand
+  Texture: loamy sand, loamy coarse sand, sand
   Clay content: 1 to 10 percent
   Rock fragments: 0 to 35 percent
 	0 to 35 percent gravel
 	0 to 15 percent cobbles
-  Reaction: strongly to slightly acid
+  Reaction: very strongly to neutral
 
 C horizon(s)
   Hue: 10YR, 2.5Y
   Value: 5 to 7 dry, 4 or 5 moist
   Chroma: 2 to 4, dry or moist
-  Texture: loamy sand, loamy coarse sand, sand, coarse sand
+  Texture: loamy sand, loamy coarse sand, sand, coarse sand, sand
   Clay content: 1 to 10 percent
-  Rock fragments: 0 to 35 percent
-	0 to 35 percent gravel
+  Rock fragments: 0 to 50 percent
+	0 to 50 percent gravel
+	0 to 35 percent paragravel
 	0 to 15 percent cobbles
-  Reaction: strongly to slightly acid
+  Reaction: very strongly to slightly acid
 
 COMPETING SERIES: These are the Azalea, Cabincove, and Generalgrant soils. The Azalea soils are on convex shoulders and backslopes of mountain slopes and have a lithic contact between 50 and 100 cm. The Cabincove soils are on linear to convex backslopes of mountain slopes and have a paralithic contact between 50 and 100 cm. The Generalgrant soils are on concave footslopes of stream terraces and drainageways on mountain slopes and are moderately well drained.
 
-GEOGRAPHIC SETTING: The Tharpslog soils are on linear to concave backslopes of mountain slopes. Slopes range from 10 to 50 percent. These soils formed in colluvium over residuum derived from granite. Elevation is 1385 to 2295 meters. The climate is Mediterranean with warm, dry summers and cool, moist winters. The mean annual precipitation is 800 to 1170 mm and the mean annual air temperature is 7 to 13 degrees C. The frost-free season is 105 to 200 days.
+GEOGRAPHIC SETTING: The Tharpslog soils are on linear to concave backslopes of mountain slopes. Slopes range from 10 to 60 percent. These soils formed in colluvium and slope alluvium over residuum derived from granite. Elevation is 1215 to 2600 meters. The climate is Mediterranean with warm, dry summers and cool, moist winters. The mean annual precipitation is 800 to 1170 mm and the mean annual air temperature is 7 to 13 degrees C. The frost-free season is 105 to 200 days.
 
 GEOGRAPHICALLY ASSOCIATED SOILS: These are the Azalea, Canyonview, and Tinybaugh soils. The competing Azalea soils are on convex shoulders and backslopes of mountain slopes and have a lithic contact between 50 and 100 cm. The Canyonview soils are on linear backslopes of mountain slopes and are sandy-skeletal. The Tinybaugh soils are on linear to convex structural benches and mountain slopes and have a lithic contact between 25 and 50 cm.
 

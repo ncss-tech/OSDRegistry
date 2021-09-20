@@ -2,13 +2,13 @@ LOCATION TIGERLILY              CA
 
 Established Series
 CES/JBB
-06/2021
+09/2021
 
 TIGERLILY SERIES
 
-The Tigerlily series consists of very deep, very poorly drained soils formed in organic material over alluvium derived from granitic and metasedimentary rocks. The Tigerlily soils are in drainageways and on discharge slopes of the Sierra Nevada Mountains. Slopes range from 2 to 50 percent. The mean annual precipitation is about 1000 mm and the mean annual air temperature is about 5 degrees C.
+The Tigerlily series consists of very deep, very poorly drained soils formed in organic material over alluvium derived from granitic and metasedimentary rocks. The Tigerlily soils are on seeps in the Sierra Nevada Mountains. Slopes range from 2 to 30 percent. The mean annual precipitation is about 1000 mm and the mean annual air temperature is about 5 degrees C.
 
-TAXONOMIC CLASS: Loamy-skeletal, isotic, nonacid, frigid Hydraquentic Humaquepts
+TAXONOMIC CLASS:  Loamy-skeletal, isotic, nonacid, frigid Hydraquentic Humaquepts
 
 TYPICAL PEDON: Tigerlily muck on an east facing (75 degree), 10 percent slope with a cover of lodgepole pine and willow at an elevation of 2695 meters. (Colors are for dry soils unless otherwise noted. When described on July 8, 2013 the soil was wet throughout. Seasonal water table was observed at 67 cm.)
 
@@ -22,7 +22,7 @@ TYPICAL PEDON: Tigerlily muck on an east facing (75 degree), 10 percent slope wi
 
  C2--49 to 150 cm; light yellowish brown (2.5Y 6/3) extremely cobbly sandy loam, olive brown (2.5Y 4/3) moist; 8 percent clay; massive; soft, very friable, nonsticky, nonplastic; common very fine roots throughout; common very fine irregular pores; 22 percent subangular indurated mixed gravel, 23 percent subrounded indurated mixed gravel, 25 percent subangular indurated metamorphic cobbles, 5 percent subrounded indurated granite stones; NaF pH 9.0; moderately acid (pH 5.6).
 
-TYPE LOCATION: Fresno County, California, Goddard Canyon, about 1.2 miles south of trail junction of switchbacks to Evolution Valley;  USGS 7.5 minute topographic quadrangle: Mount Henry, California;  WGS84 37.175479 latitude and -118.791404 longitude;  UTM zone 11 4115841 meters N 340969 meters E WGS84.
+TYPE LOCATION: Fresno County, California, Goddard Canyon, about 1.2 miles south of trail junction of switchbacks to Evolution Valley;  USGS 7.5 minute topographic quadrangle: Mount Henry, California;  WGS84 37.175479 latitude and -118.791404 longitude;  UTM zone 11 4115841 meters N 340969 meters E NAD83.
 
 RANGE IN CHARACTERISTICS:
 Soil temperature: The mean annual soil temperature at 50 cm is 0 to 8 degrees C and the difference between mean summer and mean winter soil temperature is greater than 6 degrees C. The soils have a frigid temperature regime.
@@ -51,7 +51,7 @@ Oe horizon (where present)
 	0 to 15 percent gravel
 	0 to 15 percent cobbles
 	0 to 15 percent stones
-  Reaction: moderately or strongly acid
+  Reaction: strongly acid to moderately acid
 
 Oa horizon (where present)
   Hue: 7.5YR, 10YR, 2.5Y
@@ -59,20 +59,19 @@ Oa horizon (where present)
   Chroma: 1 or 2, dry or moist
   Texture: muck
   Rock fragments: 0 to 5 percent gravel
-  Reaction: moderately to very strongly acid
+  Reaction: very strongly acid to moderately acid
 
 A horizon (where present)
   Hue: 10YR
   Value: 2 to 5, dry or moist
   Chroma: 1 or 2, dry or moist
-  Texture: loamy sand, coarse sandy loam, sandy loam
+  Texture: loamy sand, coarse sandy loam, sandy loam, silt loam
+  Clay content: 1 to 10 percent
   Rock fragments: 0 to 60 percent
 	0 to 35 percent gravel
 	0 to 35 percent cobbles
 	0 to 35 percent stones
-  Reaction: moderately to very strongly acid
-
-
+  Reaction: moderately acid to very strongly acid
 
 Upper C horizon(s), where present
   Hue: 10YR, 2.5Y
@@ -84,7 +83,7 @@ Upper C horizon(s), where present
 	0 to 65 percent gravel
 	0 to 30 percent cobbles
 	0 to 25 percent stones
-  Reaction: slightly to strongly acid
+  Reaction: strongly acid to slightly acid
 
 Lower C horizon(s)
   Hue: 10YR, 2.5Y
@@ -96,11 +95,11 @@ Lower C horizon(s)
 	0 to 65 percent gravel
 	0 to 30 percent cobbles
 	0 to 25 percent stones
-  Reaction: slightly to strongly acid
+  Reaction: strongly acid to slightly acid
 
 COMPETING SERIES: There are no other series in this family at this time.
 
-GEOGRAPHIC SETTING: The Tigerlily soils are on linear to concave drainageways and discharge slopes. Slopes range from 2 to 50 percent. These soils formed in organic material over alluvium derived from granitic and metasedimentary rocks. Elevation is 1950 to 2900 meters. The climate is Mediterranean with warm, dry summers and cool, moist winters. The mean annual precipitation 725 to 1350 mm and the mean annual air temperature is 4 to 7 degrees C. The frost free season is 85 to 120 days.
+GEOGRAPHIC SETTING: The Tigerlily soils are on linear to concave seeps on mountain slopes, plateaus, glacial-valley walls, moraines, glacial-valley floors, and cirque floors. Slopes range from 2 to 30 percent. These soils formed in organic material over alluvium derived from granitic and metasedimentary rocks. Elevation is 1715 to 3245 meters. The climate is Mediterranean with warm, dry summers and cool, moist winters. The mean annual precipitation 425 to 1515 mm and the mean annual air temperature is 2 to 9 degrees C. The frost free season is 60 to 165 days.
 
 GEOGRAPHICALLY ASSOCIATED SOILS: These are the Lackey and Pigchute soils. The Lackey soils are on linear backslopes of mountain slopes and moraines, are sandy-skeletal, and are somewhat excessively drained. The Pigchute soils are on linear backslopes of mountain slopes and moraines and are well-drained.
 

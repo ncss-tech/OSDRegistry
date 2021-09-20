@@ -1,12 +1,12 @@
 LOCATION POTWISHA               CA
 
-Tentative Series
+Established Series
 JBB/CES/JTW
-06/2021
+09/2021
 
 POTWISHA SERIES
 
-The Potwisha series consists of shallow, well drained soils formed in colluvium over residuum derived from marble. Potwisha soils are on foothills and mountains. Slopes range from 30 to 100 percent. Mean annual precipitation is about 720 mm and the mean annual air temperature is about 16 degrees C.
+The Potwisha series consists of shallow, well drained soils formed in colluvium over residuum derived from marble. Potwisha soils are on hillslopes and canyon walls. Slopes range from 30 to 100 percent. Mean annual precipitation is about 720 mm and the mean annual air temperature is about 16 degrees C.
 
 TAXONOMIC CLASS: Loamy, mixed, superactive, thermic Lithic Ultic Haploxerolls
 
@@ -44,27 +44,28 @@ A horizon
   Value: 4 or 5 dry, 3 moist
   Chroma: 2 to 4 dry, 2 or 3 moist
   Texture: sandy loam, fine sandy loam
-  Clay content: 7 to 10 percent
-  Rock fragments: 10 to 25 percent
-	5 to 20 percent gravel
+  Clay content: 6 to 13 percent
+  Rock fragments: 5 to 50 percent
+	5 to 25 percent gravel
 	0 to 10 percent cobbles
+	0 to 10 percent stones
 
 Bk horizon
   Hue: 7.5YR, 10YR
   Value: 4 or 5 dry, 2 or 3 moist
   Chroma: 3 dry, 2 or 3 moist
   Texture: sandy loam, fine sandy loam
-  Clay content: 9 to 12 percent
-  Rock fragments: 20 to 35 percent
-	15 to 25 percent gravel
-	0 to 10 percent cobbles
-	0 to 5 percent stones
+  Clay content: 7 to 15 percent
+  Rock fragments: 15 to 60 percent
+	15 to 30 percent gravel
+	0 to 30 percent cobbles
+	0 to 40 percent stones
 
 COMPETING SERIES: There are no other series in this family at this time.
 
-GEOGRAPHIC SETTING: The Potwisha soils are on linear to convex backslopes on hills, mountain slopes and canyon walls.  Slopes are 30 to 100 percent. These soils formed in colluvium over residuum derived from marble. Elevations are 595 to 1840 meters. The climate is Mediterranean with warm, dry summers and cool, moist winters. The mean annual precipitation is 695 to 1015 mm and the mean annual air temperature is 13 to 17 degrees C. The frost free season is 200 to 270 days.
+GEOGRAPHIC SETTING: The Potwisha soils are on linear to convex backslopes on hills, mountain slopes and canyon walls.  Slopes are 30 to 100 percent. These soils formed in colluvium over residuum derived from marble. Elevations are 540 to 1840 meters. The climate is Mediterranean with warm, dry summers and cool, moist winters. The mean annual precipitation is 695 to 1015 mm and the mean annual air temperature is 13 to 17 degrees C. The frost free season is 200 to 270 days.
 
-GEOGRAPHICALLY ASSOCIATED SOILS: These are the Andregg, Ashmountain,  and Millvilla soils. Andregg soils are on similar landform positions and have a granitic paralithic contact between 50 and 100 cm. Ashmountain soils are on backslopes of high hills and mountain slopes and do not have bedrock within the series control section.. Millvilla soils are on similar landform positions and are 50 to 100 cm to  a metasedimentary lithic contact.
+GEOGRAPHICALLY ASSOCIATED SOILS: These are the Andregg, Ashmountain,  and Millvilla soils. Andregg soils are on similar landform positions and have a granitic paralithic contact between 50 and 100 cm. Ashmountain soils are on backslopes of high hills and mountain slopes and do not have bedrock within the series control section. Millvilla soils are on similar landform positions and are 50 to 100 cm to  a metasedimentary lithic contact.
 
 DRAINAGE AND PERMEABILITY: Well drained; high saturated hydraulic conductivity throughout the soil profile. Saturated hydraulic conductivity of the bedrock is very low to moderately high.
 

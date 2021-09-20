@@ -1,14 +1,14 @@
 LOCATION SKELLOG                CA
 
-Tentative Series
+Established Series
 JBB/CES
-05/2020
+09/2021
 
 SKELLOG SERIES
 
-The Skellog series consists of very deep, well drained soils formed in colluvium derived from granitic and metasedimentary rocks. The Skellog soils are on mountain slopes of the Sierra Nevada Mountains. Slopes range from 10 to 60 percent. The mean annual precipitation is about 1020 mm and the mean annual air temperature is about 10 degrees C.
+The Skellog series consists of very deep, well drained soils formed in colluvium, alluvium, and till derived from granitic and metasedimentary rocks. The Skellog soils are on mountain slopes and drainageways of the Sierra Nevada Mountains. Slopes range from 5 to 90 percent. The mean annual precipitation is about 1020 mm and the mean annual air temperature is about 10 degrees C.
 
-TAXONOMIC CLASS:  Loamy-skeletal, isotic, mesic Vitrandic Humixerepts
+TAXONOMIC CLASS: Loamy-skeletal, isotic, mesic Vitrandic Humixerepts
 
 TYPICAL PEDON: Skellog sandy loam on a west facing (240 degree), 13 percent slope under white fir, sugar pine, and incense cedar at an elevation of 1662 meters. (Colors are for dry soils unless otherwise noted. When described on May 4, 2015 the soil was slightly moist throughout.)
 
@@ -53,7 +53,7 @@ A horizon (and AB horizon, where present)
   Value: 4 or 5 dry, 2 or 3 moist
   Chroma: 2 to 4 dry, 1 to 3 moist
   Texture: fine sandy loam, sandy loam, loamy fine sand, loamy sand
-  Clay content: 4 to 13 percent
+  Clay content: 3 to 14 percent
   Rock fragments: 0 to 60 percent
 	0 to 35 percent gravel
 	0 to 25 percent cobbles
@@ -65,35 +65,35 @@ Bw1 horizon
   Hue: 7.5YR, 10YR
   Value: 4 to 6 dry, 3 or 4 moist
   Chroma: 3 or 4 dry, 2 to 4 moist
-  Texture: fine sandy loam, sandy loam
-  Clay content: 3 to 15 percent
-  Rock fragments: 25 to 65 percent
+  Texture: fine sandy loam, sandy loam, coarse sandy loam
+  Clay content: 2 to 16 percent
+  Rock fragments: 15 to 75 percent
 	0 to 50 percent gravel
 	0 to 35 percent cobbles
 	0 to 20 percent stones
 	0 to 10 percent boulders
-  Reaction: strongly acid to neutral
+  Reaction: very strongly acid to neutral
 
 Bw2 horizon
   Hue: 5YR, 7.5YR, 10YR
   Value: 4 to 7 dry, 3 or 4 moist
   Chroma: 3 to 8 dry, 3 to 6 moist
-  Texture: fine sandy loam, sandy loam
-  Clay content: 2 to 15 percent
-  Rock fragments: 15 to 65 percent
+  Texture: loam, fine sandy loam, sandy loam
+  Clay content: 2 to 18 percent
+  Rock fragments: 35 to 75 percent
 	0 to 50 percent gravel
 	0 to 35 percent cobbles
 	0 to 30 percent stones
 	0 to 10 percent boulders
-  Reaction: strongly acid to neutral
+  Reaction: very strongly acid to neutral
 
 BC horizon (or C horizon, where present)
   Hue: 7.5YR, 10YR
   Value: 4 or 5 dry, 2 to 4 moist
   Chroma: 3 to 6 dry, 2 to 6 moist
   Texture: fine sandy loam, sandy loam, loamy fine sand, loamy sand
-  Clay content: 2 to 15 percent
-  Rock fragments: 0 to 70 percent
+  Clay content: 2 to 18 percent
+  Rock fragments: 35 to 75 percent
 	0 to 40 percent gravel
 	0 to 35 percent cobbles
 	0 to 25 percent stones
@@ -101,7 +101,7 @@ BC horizon (or C horizon, where present)
 
 COMPETING SERIES: These are the Mazdale (MLRA 6) soils. Mazdale soils contain 16 to 25 percent clay in the particle size control section and have ashy surface textures.
 
-GEOGRAPHIC SETTING: The Skellog soils are on linear to convex backslopes of mountain slopes. Slopes range from 10 to 60 percent. These soils formed in colluvium derived from granite, granodiorite, and schist. Elevation is 1335 to 2185 meters. The climate is Mediterranean with warm, dry summers and cool, moist winters. The mean annual precipitation is 875 to 1120 mm and the mean annual air temperature is 7 to 13 degrees C. The frost-free season is 125 to 205 days.
+GEOGRAPHIC SETTING: The Skellog soils are on linear to convex backslopes of mountain slopes and drainageways. Slopes range from 5 to 90 percent. These soils formed in colluvium, alluvium, and till derived from granite, granodiorite, and schist. Elevation is 1180 to 2600 meters. The climate is Mediterranean with warm, dry summers and cool, moist winters. The mean annual precipitation is 660 to 1140 mm and the mean annual air temperature is 7 to 13 degrees C. The frost-free season is 105 to 205 days.
 
 GEOGRAPHICALLY ASSOCIATED SOILS: These are the Canyonview, Gratwell, and Littlebaugh soils. The Canyonview soils are on convex backslopes of mountain slopes and are sandy-skeletal. The Gratwell soils are on broadly concave backslopes of mountain slopes and are coarse-loamy. The Littlebaugh soils are on convex structural benches on mountain slopes and have a lithic contact between 50 and 100 cm.
 

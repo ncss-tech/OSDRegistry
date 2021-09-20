@@ -2,11 +2,11 @@ LOCATION LADYBUG                CA
 
 Tentative Series
 JBB/CES/JTW
-01/2020
+09/2021
 
 LADYBUG SERIES
 
-The Ladybug series consists of deep, well drained soils formed in colluvium over residuum weathered from metasedimentary rock. The Ladybug soils are on mountain slopes of the Sierra Nevada Mountains. Slopes range from 30 to 60 percent. The mean annual precipitation is about 895 mm and the mean annual air temperature is about 12 degrees C.
+The Ladybug series consists of deep, well drained soils formed in colluvium over residuum weathered from metasedimentary rock. The Ladybug soils are on mountain slopes of the Sierra Nevada Mountains. Slopes range from 30 to 75 percent. The mean annual precipitation is about 895 mm and the mean annual air temperature is about 12 degrees C.
 
 TAXONOMIC CLASS: Fine-loamy, isotic, mesic Ultic Argixerolls
 
@@ -50,18 +50,18 @@ A horizon
   Value: 4 or 5 dry, 2 or 3 moist
   Chroma: 2 to 4 dry, 2 or 3 moist
   Texture: loam, very fine sandy loam, fine sandy loam
-  Clay content: 12 to 24 percent
+  Clay content: 12 to 25 percent
   Rock fragments: 0 to 15 percent
 	0 to 15 percent gravel
 	0 to 5 percent cobbles
-  Reaction: slightly acid
+  Reaction: moderately to slightly acid
 
 BA horizon
   Hue: 5YR, 7.5YR
   Value: 4 dry, 2 or 3 moist
   Chroma: 3 or 4 dry, 2 or 3 moist
   Texture: loam, very fine sandy loam, fine sandy loam
-  Clay content: 12 to 24 percent
+  Clay content: 12 to 25 percent
 	0 to 15 percent gravel
 	0 to 5 percent cobbles
   Rock fragments: 0 to 15 percent
@@ -91,9 +91,9 @@ Lower Bt horizons (Bt2, Bt3 where present)
 
 COMPETING SERIES: There are no other series in this family at this time.
 
-GEOGRAPHIC SETTING: The Ladybug soils are on convex shoulders and backslopes of mountain slopes. Slopes range from 30 to 60 percent. These soils formed in colluvium over residuum weathered from metasedimentary rock. Elevation is 900 to 1800 meters. The climate is Mediterranean with warm, dry summers and cool, moist winters. The mean annual precipitation is 730 to 1030 mm and the mean annual air temperature is 10 to 15 degrees C. The frost free season is 160 to 245 days.
+GEOGRAPHIC SETTING: The Ladybug soils are on convex shoulders and backslopes of mountain slopes. Slopes range from 30 to 75 percent. These soils formed in colluvium over residuum weathered from metasedimentary rock. Elevation is 755 to 1930 meters. The climate is Mediterranean with warm, dry summers and cool, moist winters. The mean annual precipitation is 730 to 1030 mm and the mean annual air temperature is 10 to 15 degrees C. The frost free season is 160 to 245 days.
 
-GEOGRAPHICALLY ASSOCIATED SOILS: These are the Colonymill, Kaweah, and Whiskeylog soils. The Colonymill soils are on broadly convex backslopes of mountain slopes and do not have a lithic contact within 150 cm. The Kaweah soils are on concave to linear backslopes or drainages on mountain slopes and have greater than 35 percent rock fragments in the particle size control section.. The Whiskeylog soils are on convex to linear backslopes of mountain slopes and lack a mollic epipedon (dark surface).
+GEOGRAPHICALLY ASSOCIATED SOILS: These are the Colonymill, Kaweah, and Whiskeylog soils. The Colonymill soils are on broadly convex backslopes of mountain slopes and do not have a lithic contact within 150 cm. The Kaweah soils are on concave to linear backslopes or drainages on mountain slopes and have greater than 35 percent rock fragments in the particle size control section. The Whiskeylog soils are on convex to linear backslopes of mountain slopes and lack a mollic epipedon (dark surface).
 
 DRAINAGE AND PERMEABILITY: Well drained, moderately high saturated hydraulic conductivity.
 

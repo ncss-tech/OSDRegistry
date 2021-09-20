@@ -2,13 +2,13 @@ LOCATION MENDEL                 CA
 
 Established Series
 CES/JBB
-05/2021
+09/2021
 
 MENDEL SERIES
 
-The Mendel series consists of very deep, somewhat poorly drained soils formed in alluvium or alluvium over till derived from granitic rocks. The Mendel soils are on flood plain steps of glacial-valley bottoms and basin floors of the Sierra Nevada Mountains. Slopes range from 0 to 8 percent. The mean annual precipitation is about 920 mm and the mean annual air temperature is about 3 degrees C.
+The Mendel series consists of very deep, somewhat poorly drained soils formed in alluvium or alluvium over till derived from granitic rocks. The Mendel soils are on flood plain steps of glacial-valley bottoms and cirque floors of the Sierra Nevada Mountains. Slopes range from 0 to 8 percent. The mean annual precipitation is about 920 mm and the mean annual air temperature is about 3 degrees C.
 
-TAXONOMIC CLASS: Sandy-skeletal, isotic Vitrandic Cryofluvents
+TAXONOMIC CLASS:  Sandy-skeletal, isotic Vitrandic Cryofluvents
 
 TYPICAL PEDON: Mendel very cobbly coarse sandy loam on a south facing (165 degree), 4 percent slope under a cover of timber oatgrass, dwarf bilberry, and scattered Sierra lodgepole pine at an elevation of 3221 meters. (Colors are for dry soils unless otherwise noted. When described on August 3, 2015 the soil was moist to 66 cm, wet, non-satiated from 66-105 cm, and wet, satiated from 66-150 cm. A water table was observed at 95 cm.)
 
@@ -47,16 +47,16 @@ Depth to redoximorphic features:  25 to 100 cm
 
 Particle size control section weighted average:
   Rock fragments: 35 to 60 percent, with 0 to 60 percent gravel, 0 to 35 percent cobbles, and 0 to 15 percent stones
-  Clay content: 1 to 8 percent
+  Clay content: 1 to 10 percent
   NaF pH: 8.0 to 11.0
 
 A horizon
   Hue: 7.5YR, 10YR
   Value: 3 to 6 dry, 2 to 4 moist
   Chroma: 1 to 3, dry or moist
-  Texture: loamy sand, loamy fine sand, coarse sandy loam, sandy loam, fine sandy loam
-  Clay content: 3 to 10 percent
-  Rock fragments: 0 to 45 percent
+  Texture: loamy sand, loamy fine sand, coarse sandy loam, sandy loam, fine sandy loam, silt loam
+  Clay content: 3 to 12 percent
+  Rock fragments: 0 to 50 percent
 	0 to 35 percent gravel
 	0 to 25 percent cobbles
 	0 to 15 percent stones
@@ -66,10 +66,10 @@ Bw, BC, or Bwb horizons, where present
   Hue: 7.5YR, 10YR, 2.5Y
   Value: 4 to 6 dry, 3 to 5 moist
   Chroma: 2 to 6, dry or moist
-  Texture: coarse sand, loamy coarse sand, coarse sandy loam, sandy loam, fine sandy loam
-  Clay content: 3 to 10 percent
+  Texture: coarse sand, loamy coarse sand, loamy sand, coarse sandy loam, sandy loam, fine sandy loam
+  Clay content: 1 to 10 percent
   Rock fragments: 0 to 60 percent
-	0 to 50 percent gravel
+	0 to 60 percent gravel
 	0 to 25 percent cobbles
 	0 to 25 percent stones
   Reaction: strongly to moderately acid
@@ -86,8 +86,8 @@ C horizons
   Value: 5 to 8 dry, 4 to 6 moist
   Chroma: 2 to 6 dry, 3 to 6 moist
   Texture: coarse sand, sand, loamy coarse sand, loamy sand
-  Clay content: 0 to 5 percent
-  Rock fragments: 35 to 75 percent
+  Clay content: 0 to 10 percent
+  Rock fragments: 0 to 75 percent
 	0 to 75 percent gravel
 	0 to 35 percent cobbles
 	0 to 15 percent stones
@@ -118,8 +118,8 @@ Ab horizon, where present
   Chroma: 2 dry, 1 to 3 moist
   Texture: loamy very fine sand, silt loam, sandy loam, fine sandy loam
   Clay content: 5 to 15 percent
-  Rock fragments: 0 to 15 percent gravel
-  Reaction: strongly to moderately acid
+  Rock fragments: 0 to 60 percent gravel
+  Reaction: very strongly to moderately acid
 Redoximorphic Features: 
 	Oxidized iron and iron-manganese masses in matrix and along linings of pores
 		Quantity: none to few
@@ -130,7 +130,7 @@ Redoximorphic Features:
 
 COMPETING SERIES: There are no other series in this family at this time.
 
-GEOGRAPHIC SETTING: The Mendel soils are on flood plain steps of glacial-valley bottoms and basin floors. Slopes range from 0 to 8 percent. These soils formed in alluvium or alluvium over till, derived from granite and granodiorite. Elevation is 2505 to 3885 meters. The climate is Mediterranean with warm, dry summers and cool, moist winters. The mean annual precipitation is 560 to 1385 mm and the mean annual air temperature is 0 to 4 degrees C. The frost free season is 50 to 90 days.
+GEOGRAPHIC SETTING: The Mendel soils are on flood plain steps of glacial-valley bottoms and cirque floors. Slopes range from 0 to 8 percent. These soils formed in alluvium or alluvium over till, derived from granite and granodiorite. Elevation is 2505 to 3885 meters. The climate is Mediterranean with warm, dry summers and cool, moist winters. The mean annual precipitation is 560 to 1435 mm and the mean annual air temperature is 0 to 4 degrees C. The frost free season is 50 to 95 days.
 
 GEOGRAPHICALLY ASSOCIATED SOILS: These are the Ladderlake and Littlepete soils. Ladderlake soils are poorly or very poorly drained soils on flood-plain steps, with a histic epipedon and aquic conditions within 25 cm of the soil surface. Littlepete soils are poorly drained soils on floodplains with aquic conditions within 50 cm of the soil surface, and average less than 35 percent rock fragments in the particle size control section.
 

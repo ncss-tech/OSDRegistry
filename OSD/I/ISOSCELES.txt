@@ -2,11 +2,11 @@ LOCATION ISOSCELES              CA
 
 Established Series
 JBB/CES/JTW
-06/2021
+09/2021
 
 ISOSCELES SERIES
 
-The Isosceles series consists of very shallow and shallow, well drained soils formed in residuum weathered from granitic rocks. The Isosceles soils are on structural benches on cirques and mountain slopes of the Sierra Nevada Mountains. Slopes range from 2 to 30 percent. The mean annual precipitation is about 1075 mm and the mean annual air temperature is about 2 degrees C.
+The Isosceles series consists of very shallow and shallow, well drained soils formed in colluvium, slope alluvium and residuum weathered from granitic rocks. The Isosceles soils are on structural benches on cirques and mountain slopes of the Sierra Nevada Mountains. Slopes range from 2 to 45 percent. The mean annual precipitation is about 1075 mm and the mean annual air temperature is about 2 degrees C.
 
 TAXONOMIC CLASS: Loamy, isotic Lithic Humicryepts
 
@@ -44,22 +44,22 @@ A horizons
   Hue: 7.5YR, 10YR
   Value: 4 or 5 dry, 2 or 3 moist
   Chroma: 2 or 3, dry or moist
-  Texture: loamy fine sand, sandy loam, fine sandy loam
-  Clay content: 2 to 12 percent
+  Texture: coarse sand, loamy sand, loamy fine sand,  coarse sandy loam, sandy loam, fine sandy loam
+  Clay content: 1 to 13 percent
   Rock fragments: 0 to 35 percent
 	0 to 25 percent gravel
 	0 to 15 percent cobbles
 	0 to 5 percent stones
 	0 to 15 percent channers
 	0 to 15 percent flagstones
-  Reaction: very strongly to moderately acid
+  Reaction: extremely to moderately acid
 
 BA or Bw horizons (where present)
   Hue: 7.5YR, 10YR
   Value: 4 or 5 dry, 2 to 4 moist
   Chroma: 3 or 4 dry, 2 to 4 moist
-  Texture: sandy loam, fine sandy loam
-  Clay content: 5 to 15 percent
+  Texture: loamy sand, coarse sandy loam, sandy loam, fine sandy loam
+  Clay content: 4 to 15 percent
   Rock fragments: 0 to 35 percent
 	0 to 30 percent gravel
 	0 to 15 percent cobbles
@@ -68,7 +68,7 @@ BA or Bw horizons (where present)
 
 COMPETING SERIES: These are the Meiss soils. Meiss soils formed in andesitic rock and have ashy textures.
 
-GEOGRAPHIC SETTING: The Isosceles soils are on structural benches of cirques and mountain slopes. Slopes range from 2 to 30 percent. These soils formed in colluvium and residuum weathered from granite and granodiorite, often in narrow bedrock fractures and fissures. Elevation is 2420 to 4135 meters. The climate is Mediterranean with warm, dry summers and cool, moist winters. The mean annual precipitation is 610 to 1505 mm and the mean annual air temperature is -2 to 4 degrees C. The frost free season is 40 to 90 days.
+GEOGRAPHIC SETTING: The Isosceles soils are on structural benches of cirques, glacial-valley floors, glacial-valley walls, basin floors, and mountain slopes. Slopes range from 2 to 45 percent. These soils formed in colluvium, slope alluvium, and residuum weathered from granite and granodiorite, often in narrow bedrock fractures and fissures. Elevation is 2275 to 4135 meters. The climate is Mediterranean with warm, dry summers and cool, moist winters. The mean annual precipitation is 545 to 1505 mm and the mean annual air temperature is -2 to 5 degrees C. The frost free season is 40 to 100 days.
 
 GEOGRAPHICALLY ASSOCIATED SOILS: Isosceles soils are typically associated with granitic, glacially scoured rock outcrop, and with the Langille soils. Langille soils are 50 to 100 cm to lithic contact and are found in similar landscape positions.
 

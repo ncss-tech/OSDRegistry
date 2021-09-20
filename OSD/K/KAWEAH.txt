@@ -2,11 +2,11 @@ LOCATION KAWEAH                 CA
 
 Established Series
 JBB/CES/JTW
-06/2021
+09/2021
 
 KAWEAH SERIES
 
-The Kaweah series consists of very deep, well drained soils formed in colluvium derived from granitic and metasedimentary rock. The Kaweah soils are on steep mountain slopes of the Sierra Nevada Mountains. Slopes range from 30 to 90 percent. The mean annual precipitation is about 895 mm and the mean annual air temperature is about 12 degrees C.
+The Kaweah series consists of very deep, well drained soils formed in colluvium and residuum derived from metasedimentary and granitic rock. The Kaweah soils are on steep mountain slopes of the Sierra Nevada Mountains. Slopes range from 30 to 100 percent. The mean annual precipitation is about 895 mm and the mean annual air temperature is about 12 degrees C.
 
 TAXONOMIC CLASS: Loamy-skeletal, isotic, mesic Pachic Ultic Haploxerolls
 
@@ -22,7 +22,7 @@ TYPICAL PEDON: Kaweah gravelly loam on a south-facing (180 degree), 75 percent s
 
  C--85 to 150 cm; reddish brown (5YR 4/3) very stony silt loam, dark reddish brown (5YR 3/2) moist; 14 percent clay; structureless massive; slightly hard, friable, nonsticky, nonplastic; common fine, medium, and coarse roots throughout; common fine irregular pores; 20 percent subangular indurated metasedimentary gravel, 20 percent subangular indurated metasedimentary cobbles, 15 percent subangular indurated metasedimentary stones; NaF pH 8.5; slightly acid (pH 6.4).
 
-TYPE LOCATION: Tulare County, California, on the Ladybug Trail from South Fork Rd in Sequoia National Park; USGS 7.5 minute topographic quadrangle: Dennison Peak, California; WGS84 36.348557 latitude and -118.753191 longitude; UTM zone 11 4024037 meters N 342679 meters E NAD83.
+TYPE LOCATION: Tulare County, California, on the Ladybug Trail from South Fork Rd in Sequoia National Park;  USGS 7.5 minute topographic quadrangle: Dennison Peak, California;  WGS84 36.348557 latitude and -118.753191 longitude;  UTM zone 11 4024037 meters N 342679  meters E NAD83.
 
 RANGE IN CHARACTERISTICS:
 Soil temperature: The mean annual soil temperature at 50 cm is 11 to 15 degrees C and the difference between mean summer and mean winter soil temperature is greater than 6 degrees C. The soils have a mesic temperature regime.
@@ -46,20 +46,20 @@ A horizon
   Value: 3 or 4 dry, 2 or 3 moist
   Chroma: 2 to 4 dry, 1 to 3 moist
   Texture: loam, fine sandy loam
-  Clay content: 5 to 14 percent
+  Clay content: 4 to 14 percent
   Rock fragments: 10 to 45 percent
 	5 to 45 percent gravel
 	0 to 15 percent cobbles
 	0 to 5 percent stones
-  Reaction: slightly acid to neutral
+  Reaction: slightly acid to slightly alkaline
 
 Bw1 horizon
   Hue: 7.5YR, 10YR
   Value: 3 to 5 dry, 2 or 3 moist
   Chroma: 2 to 4, dry or moist
   Texture: loam, fine sandy loam
-  Clay content: 5 to 14 percent
-  Rock fragments: 15 to 50 percent
+  Clay content: 5 to 16 percent
+  Rock fragments: 15 to 60 percent
 	15 to 50 percent gravel
 	0 to 15 percent cobbles
 	0 to 15 percent stones
@@ -81,8 +81,8 @@ C horizon
   Hue: 7.5YR, 10YR
   Value: 4 or 5 dry, 2 or 3 moist
   Chroma: 2 to 4, dry or moist
-  Texture: loam, fine sandy loam
-  Clay content: 12 to 20 percent
+  Texture: loam, fine sandy loam, silt loam
+  Clay content: 8 to 20 percent
   Rock fragments: 35 to 80 percent
 	0 to 35 percent gravel
 	0 to 15 percent cobbles
@@ -92,9 +92,9 @@ C horizon
 
 COMPETING SERIES: There are no other series in this family at this time.
 
-GEOGRAPHIC SETTING: The Kaweah soils are on steep linear to concave backslopes of mountain slopes or drainageways. Slopes range from 30 to 90 percent. These soils formed in colluvium derived from granitic and metasedimentary rocks. Elevation is 900 to 1940 meters. The climate is Mediterranean with warm, dry summers and cool, moist winters. The mean annual precipitation is 730 to 1030 mm and the mean annual air temperature is 10 to 15 degrees C. The frost free season is 160 to 245 days.
+GEOGRAPHIC SETTING: The Kaweah soils are on steep linear to concave backslopes of mountain slopes or drainageways. Slopes range from 30 to 100 percent. These soils formed in colluvium and residuum derived from metasedimentary and granitic rock. Elevation is 745 to 2215 meters. The climate is Mediterranean with warm, dry summers and cool, moist winters. The mean annual precipitation is 730 to 1030 mm and the mean annual air temperature is 9 to 15 degrees C. The frost free season is 150 to 255 days.
 
-GEOGRAPHICALLY ASSOCIATED SOILS: These are the Colonymill, Ladybug, and Whiskeylog soils. The Colonymill soils are on broadly convex backslopes of mountain slopes and have an argillic horizon. The Ladybug soils are on shoulders of mountain slopes, have an argillic horizon, and are less than 150 cm to a lithic contact.  The Whiskeylog soils are on convex mountain slopes and have an argillic horizon but lack a mollic epipedon (dark surface).
+GEOGRAPHICALLY ASSOCIATED SOILS: These are the Colonymill, Ladybug, and Whiskeylog soils. The Colonymill soils are on broadly convex, less steep backslopes of mountain slopes and have a clay increase that meets the requirements of an argillic horizon. The Ladybug soils are on shoulders of mountain slopes and are less than 50 cm to a lithic contact.  The Whiskeylog soils are on convex mountain slopes and lack a mollic epipedon (dark surface).
 
 DRAINAGE AND PERMEABILITY: Well drained, moderately high to high saturated hydraulic conductivity.
 
