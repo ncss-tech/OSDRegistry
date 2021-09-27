@@ -78,7 +78,9 @@ REMARKS:  Diagnostic horizons and features recognized in this pedon are:
 Mollic epipedon - The zone from the surface to 70 cm (A, Bt1, and Bt2 horizons).
 Argillic horizon - The zone from 10 to 70 cm (Bt1 and Bt2 horizons).
 Particle-size control section - The zone from 10 to 60 cm (Bt1 and part of the Bt2 horizons).
-Oxyaquic conditions - The zone from 40 to 100 cm (C1 and C2 horizons and part of the Bt2 horizon)
+Oxyaquic conditions - The zone from 40 to 100 cm (C1 and C2 horizons and part of the Bt2 horizon).
+
+Silverstate was established in Elko County, NV on the NV764 survey.
 
 ADDITIONAL DATA: User Pedon ID: 2014NV007204.
 
