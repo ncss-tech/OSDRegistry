@@ -2,7 +2,7 @@ LOCATION UYAGAK                 AK
 
 Established Series
 SAS/MPS/TJR
-03/2021
+10/2021
 
 UYAGAK SERIES
 
@@ -163,7 +163,8 @@ Diagnostic horizons and features recognized in this pedon
 *Particle-size control section--zone from 29 to 95 cm
 *Ochric epipedon--zone from 0 to 8 cm
 *Cambic horizon--zone from 8 to 38 cm
-*Lithological discontinuity--zone from 38 cm to 150 cm
+*Lithologic discontinuity--zone from 38 cm to 150 cm
+*Lithic contact--95 cm
 *Andic soil properties--zone from 4 to 38 cm
 *Andic soil properties and water content at 1500 kPa of less than 30 percent on undried samples --zone from 4 to 38 cm
 

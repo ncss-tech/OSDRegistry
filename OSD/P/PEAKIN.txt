@@ -1,13 +1,13 @@
 LOCATION PEAKIN                 NC
 
-Tentative Series
+Established Series
 STE/DTA
-11/2007
+09/2021
 
 PEAKIN SERIES
 
 MLRA(s): 136
-MLRA SOIL SURVEY REGIONAL OFFICE (MO) RESPONSIBLE: Raleigh, North Carolina
+Soil Survey Regional Office (SSRO) RESPONSIBLE: Raleigh, North Carolina
 Depth Class: Very deep
 Agricultural Drainage Class: Well drained
 Permeability: Slow
@@ -20,7 +20,7 @@ Slope: 0 to 40
 Mean Annual Air Temperature (type location): 60 degrees F.
 Mean Annual Precipitation (type location): 47 inches
 
-TAXONOMIC CLASS: Fine, mixed, semiactive, thermic Typic Hapludults 
+TAXONOMIC CLASS: Fine, mixed, semiactive, thermic Typic Hapludults
 
 TYPICAL PEDON: Peakin sandy loam on a 3 percent slope in a loblolly pine plantation. (Colors are for moist soil.)
 
@@ -34,7 +34,7 @@ TYPICAL PEDON: Peakin sandy loam on a 3 percent slope in a loblolly pine plantat
 
   BCt--53 to 63 inches; reddish brown (2.5YR 4/4) silt loam; weak coarse subangular blocky structure; friable; moderately sticky; plastic; few faint clay films on faces of peds; common medium prominent light gray (10YR 7/2) iron depletions; very strongly acid; gradual wavy boundary. (5 to 25 inches thick)
 
-  C--63-80 inches; reddish brown (2.5YR 4/4) silt loam saprolite; massive, friable, slightly sticky, slightly plastic; common medium prominent light gray (10YR 7/2) iron depletions; very strongly acid.
+  C--63 to 80 inches; reddish brown (2.5YR 4/4) silt loam saprolite; massive, friable, slightly sticky, slightly plastic; common medium prominent light gray (10YR 7/2) iron depletions; very strongly acid.
 
 TYPE LOCATION: Montgomery County, North Carolina; about 10.7 miles east of Mount Gilead on North Carolina Highway 731; 350 feet south of highway in loblolly pine plantation; USGS Harrisville topographic quadrangle; lat. 35 degrees, 12 minutes, 23 seconds N and long. 79 degrees, 49 minutes, 43 seconds W. (NAD 83).
 
@@ -120,11 +120,11 @@ USE AND VEGETATION:
 Major Uses: mixed hardwood and pine forest
 Dominant Vegetation: Where forested--loblolly pine, red maple, sweet gum, black gum, water oak, winged elm, and willow oak.
 
+SOIL SURVEY REGIONAL OFFICE (SSRO) RESPONSIBLE: Raleigh, North Carolina
+
 DISTRIBUTION AND EXTENT:
 Distribution: Thermic region of Piedmont in the Triassic Basin of North Carolina and possibly Virginia
 Extent: Small
-
-MLRA SOIL SURVEY REGIONAL OFFICE (MO) RESPONSIBLE: Raleigh, North Carolina
 
 SERIES PROPOSED: Montgomery County, North Carolina, 2000
 

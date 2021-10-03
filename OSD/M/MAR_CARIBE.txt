@@ -1,71 +1,101 @@
 LOCATION MAR CARIBE             PR
 
-Tentative Series
-ASR; SRT
-09/2021
+Established Series
+ASR/SRT/RBT
+10/2021
 
 MAR CARIBE SERIES
 
- The Mar Caribe series consists of moderately deep, very poorly drained, very rapidly permeable soils on coastal beaches protected by barrier reef of the Semiarid Coastal Plains MLRA. They formed in calcareous sandy and loamy mixed marine deposits. Near the type location, the mean air temperature is about 79 degrees F., and the mean annual precipitation is about 41 inches. Slopes range from 0 to 2 percent.
+MLRA(s): 273
+MLRA Soil Survey Regional Office (SSRO) Responsible:  Raleigh, North Carolina
+Depth Class: Moderately deep
+Drainage Class:  Very poorly drained
+Saturated Hydraulic Conductivity: Very high
+Parent Material: Calcareous sandy and loamy mixed marine deposits
+Slope: 0 to 2 percent
+Mean Annual Air Temperature: 26 degrees C. (79 degrees F.)
+Mean Annual Precipitation: 1041 millimeters (41 inches)
 
 TAXONOMIC CLASS: Coarse-loamy, carbonatic, isohyperthermic Typic Sulfaquents
 
-TYPICAL PEDON: Mar Caribe sandy loam--wildlife habitat (Colors are for moist soil).
+TYPICAL PEDON: Mar Caribe sandy loam--wildlife habitat (Colors are for moist soil unless otherwise stated).
 
- Ase--0 to 4 inches (0 to 9 centimeters); 80 percent very dark gray (2.5Y 3/1) and 20 percent pale yellow (2.5Y 8/2) sandy loam; medium and fine roots; 10 percent fine prominent brownish yellow(10YR 6/8), masses of oxidized iron with clear boundaries infused into matrix adjacent to pores; 2 percent 2 to 75-millimeter shell fragments; moderately alkaline; sulfurous odor(monosulfide prescence). 
+ Ase--0 to 10 centimeters (0 to 4 inches); 80 percent very dark gray (2.5Y 3/1) and 20 percent pale yellow (2.5Y 8/2) sandy loam; medium and fine roots; 10 percent fine prominent brownish yellow(10YR 6/8), masses of oxidized iron with clear boundaries infused into matrix adjacent to pores; 2 percent  shell fragments; moderately alkaline; strong sulfurous odor; clear smooth boundary. 
 
- ACse--4 to 9 inches (9 to 23 centimeters); 90 percent very dark gray (2.5Y 3/1) and 10 percent pale yellow (2.5Y 8/2) loam; medium and fine roots; 10 percent 2 to 75-millimeter shell fragments; moderately alkaline; sulfurous odor (monosulfide prescence). 
+ ACse--10 to 23 centimeters (4 to 9 inches); 90 percent very dark gray (2.5Y 3/1) and 10 percent pale yellow (2.5Y 8/2) loam; medium and fine roots; 10 percent shell fragments; moderately alkaline; strong sulfurous odor; clear smooth boundary. 
 
- Cseg1--9 to 15 inches (23 to 38 centimeters); 95 percent dark olive gray (5Y 3/2) and 5 percent pale yellow (2.5Y 8/2) loam; medium roots and fine roots; 10 percent 2 to 75-millimeter shell fragments; moderately alkaline; sulfurous odor (monosulfide prescence). 
+ Cseg1--23 to 38 centimeters (9 to 15 inches; 95 percent dark olive gray (5Y 3/2) and 5 percent pale yellow (2.5Y 8/2) loam; medium roots and fine roots; 10 percent shell fragments; moderately alkaline; strong sulfurous odor; clear smooth boundary. 
 
- Cseg2--15 to 21 inches (38 to 54 centimeters); 95 percent dark greenish gray (10Y 3/1) and 5 percent pale yellow (2.5Y 8/2) loam; 10 percent 2 to 75-millimeter shell fragments; moderately alkaline; sulfurous odor (monosulfide prescence). 
+ Cseg2--38 to 53 centimeters (15 to 21 inches); 95 percent dark greenish gray (10Y 3/1) and 5 percent pale yellow (2.5Y 8/2) loam; 10 percent shell fragments; moderately alkaline; strong sulfurous odor; abrupt smooth boundary. 
 
- Cseg3--21 to 32 inches (54 to 82 centimeters); 95 percent dark greenish gray (10Y 3/1) and 5 percent pale yellow (2.5Y 8/2) gravelly sandy loam; 20 percent 2 to 75-millimeter coral limestone fragments; moderately alkaline; sulfurous odor (monosulfide prescence). 
+ Cseg3--53 to 81 centimeters (21 to 32 inches); 95 percent dark greenish gray (10Y 3/1) and 5 percent pale yellow (2.5Y 8/2) shelly sandy loam; 20 percent coral limestone fragments; moderately alkaline; strong sulfurous odor; very abrupt wavy boundary. 
 
- R--32 to 80 inches (82 to 203 centimeters); very pale brown (10YR 8/2) coral limestone(reef). 
+ R--81 centimeters (32 inches); very pale brown (10YR 8/2) coral limestone (reef). 
 
-TYPE LOCATION: Guayama municipality, Puerto Rico. Punta Pozuelo.  495.19 meters southwest from salt flat entrance in end of last community road at Pozuelo community at bearing 201.31 degrees. About 1,284.44 meters (0.80 mile) southeast of Club Nautico de Guayama's main building at bearing 169.49 degrees. Can be reached by foot or an ATV.
+TYPE LOCATION: Guayama municipality, Puerto Rico. Punta Pozuelo.  1,625 feet southwest from salt flat entrance at the end of last community road at Pozuelo community at bearing 201.31 degrees. Approximately 0.80 miles south-southeast of Club Nautico de Guayama's main building at bearing 169.49 degrees. Can be reached by foot or ATV.
 Latitude: 17 degrees 55 minutes 47.40 seconds north, Longitude: 66 degrees 12 minutes 0.00 seconds west WGS 84.
 
-RANGE IN CHARACTERISTICS: The thickness of sandy and loamy material varies from 20 to 40 inches. Reaction ranges from slightly alkaline to moderately alkaline throughout. Content of coral and shell fragments range from 0 to around 35 percent, by volume, throughout but mostly increasing with depth. Redox concentrations are typically found at the surface horizon.
+RANGE IN CHARACTERISTICS:
+Solum thickness: 50 to 100 centimeters (20 to 40 inches)
+Depth to Seasonally High Water Table: 0 to 15 centimeters (0 to 6 inches)
+Depth to Redoximorphic features: Concentrations are typically found at the soil surface and consist of oxidized iron masses
+Soil Reaction: Slightly alkaline to moderately alkaline
+Depth to bedrock: 50 to 100 centimeters
+Rock fragments: 0 to 35 percent, by volume, throughout consisting of coral and shell fragments increasing with depth
+Salinity: 32 to 36 ppt
 
-The A horizon has hue of  2.5Y, value of 3 to 8, and chroma of 1 or 3. Texture is sand, loamy sand, or sandy loam.
+RANGE OF INDIVIDUAL HORIZONS:
+Ase horizon:
+Color--hue of 2.5Y, value of 3 to 8, and chroma of 1 to 3
+Texture--sand, loamy sand, or sandy loam.
 
-The AC horizon (can sometimes be surface horizon due to coastal erosion) has hue of 10YR or 2.5Y, value of 3 to 8, and chroma of 1 or 3. Texture is sand, loamy sand, sandy loam, or loam.
+ACse horizon: (sometimes the surface horizon due to coastal erosion).
+Color--hue of 10YR or 2.5Y, value of 3 to 8, and chroma of 1 to 3
+Texture--sand, loamy sand, sandy loam, or loam.
 
-The C horizons have hue of 5Y or 10Y, value of 3 to 8, and chroma of 1 to 2. Texture is sand, loamy sand, sandy loam, or loam or its gravelly (shell and coral) counterparts.
+Cseg horizons:
+Color--hue of 5Y or 10Y, value of 3 to 8, and chroma of 1 to 2 Texture--sand, loamy sand, sandy loam, or loam and its shelly (shell and coral) analogs.
 
-R is the coral limestone bedrock
+R horizon: weakly to very strongly cemented or indurated coral limestone bedrock.
 
 COMPETING SERIES: There are no other known series in the same family.
 
-GEOGRAPHIC SETTING: Mar Caribe soils are on coastal beaches protected by barrier reef of the Semiarid Coastal Plains MLRA of southern Puerto Rico. Slopes range from 0 to 2 percent. They formed in calcareous sandy and loamy marine deposits. The climate is semiarid tropical. The average air temperature ranges from 71 to 88 degrees F., and the average annual precipitation ranges from 20 to 63 inches.
+GEOGRAPHIC SETTING: 
+Landscape: Semiarid coastal plain in southern Puerto Rico (MLRA 273).
+Landform: Coastal beaches protected by barrier reef
+Parent Material: calcareous sandy and loamy mixed marine deposits
+Mean Annual Air Temperature: 22 to 31 degrees C. (71 to 88 degrees F.)
+Mean Annual Precipitation: 508 to 1,600 millimeters (20 to 63 inches)
 
-GEOGRAPHICALLY ASSOCIATED SOILS: These include the El Indio, Manglillo, Jaucas, Mar Negro, and San Felipe series. El Indio series is similar in the control section composition but sandier and deep. Manglillo soils are histosols with the same type of underlying materials that forms the Mar Caribe soils. Manglillo is on similar positions on the landscape and have surface water. Mar Negro and San Felipe are like the prior lower on the landscape and are histosols on the protected areas behind the sand bar on which El Indio occurs. Jaucas soils occur higher on the landscape either transitioning towards the upland or in higher sand bars that are formed by the same calcareous deposits, making these drier. 
+GEOGRAPHICALLY ASSOCIATED SOILS: 
+El Indio series is similar in the control section composition but sandier and bedrock occurs at deeper (greater than 100 centimeters) depths.
+Manglillo soils have thick organic horizons, are very deep (greater than 150 centimeters) to bedrock, and occur in similar landform positions. 
+Mar Negro soils have thick organic horizons, are very deep (greater than 150 centimeters) to bedrock, have subaqueous drainage and occur on similar but lower landscape positions.
+San Felipe soils have thick organic horizons, are very deep (greater than 150 centimeters) to bedrock, and occur on similar landscape positions 
+Jaucas soils are much deeper to water tables, occur considerably higher on the landscape and are very deep (greater than 150 centimeters) to bedrock. 
 
-DRAINAGE AND PERMEABILITY: very poorly drained; rapid permeability.
+DRAINAGE AND SATURATED HYDRAULIC CONDUCTIVITY:
+Drainage class: Very poorly drained
+Saturated hydraulic conductivity (KSAT): Very high
+Flooding frequency and duration: Very frequent for extremely brief duration from tides, subject to flooding by storm surge and hurricanes
 
-USE AND VEGETATION: Most areas of Mar Caribe soils are used for wildlife habitat. The vegetation consists of black and white mangroove, batis, majaguilla and other halophitic herbaceous plants.
-
-DISTRIBUTION AND EXTENT: Southern coastal plains of Puerto Rico. The series is small extent.
+USE AND VEGETATION:
+Major Uses: Wildlife habitat
+Dominant Vegetation: Black and white mangrove, batis, majaguilla and other halophitic herbaceous plants.
 
 SOIL SURVEY REGIONAL OFFICE (SSRO) RESPONSIBLE: Raleigh, North Carolina.
 
-SERIES ESTABLISHED: Guayama Municipality, Puerto Rico; 2020. The name is from the Caribbean Sea which is directly to the south of where this soils form o the beach, where it was originally recognized.
+DISTRIBUTION AND EXTENT: Southern coastal plains of Puerto Rico. This series is of small extent.
+
+SERIES ESTABLISHED: Guayama Municipality, Puerto Rico; 2021. The name is from the Caribbean Sea which is directly to the south of where these soils form on the beach, where it was originally recognized.
 
 REMARKS: Diagnostic horizons and features recognized in this pedon:
+1. Ochric epipedon--0 to 23 centimeters (0 to 9 inches; A and AC horizons).
+2. Lithic (moderately deep) contact-81 centimeters (32 inches; R horizon).
+3. Peraquic features-Endosaturation ranges from 0 to 203 centimeters (0 to 80 inches).
+4. Sulfidic feature-the zone from 0 to 81 centimeters (32 inches) contains sulfidic soil materials.
 
-Ochric epipedon - the zone from 0 to 9 inches (A and AC horizons).
-
-Redox concentrations and aquic feature - starting at the surface, concentrations are mainly oxidized iron masses on the surface horizon.
-
-Sulfidic materials throughout
-
-These soils were formerly included in the Coastal beach, Meros sand or miscellaneous land type.
-
-Mar Caribe soils are in MLRA 273.
-
-
+These soils were formerly included in the coastal beach, Meros sand or miscellaneous land type mapunits.
 
 National Cooperative Soil Survey
 U.S.A.

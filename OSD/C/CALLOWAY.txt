@@ -1,8 +1,8 @@
 LOCATION CALLOWAY               MS+AR KY LA TN
 
 Established Series
-Rev. WAC:WMK:RBH:MAV
-10/2018
+Rev. WAC:WMK:RBH:MAV:DTA
+09/2021
 
 CALLOWAY SERIES
 
@@ -13,19 +13,19 @@ TAXONOMIC CLASS: Fine-silty, mixed, active, thermic Aquic Fraglossudalfs
 
 TYPICAL PEDON: Calloway silt loam on a 1 percent slope in forest of mixed hardwoods. (Colors are for moist soil unless otherwise stated.)
 
-    O--1 to 0 inch; very dark grayish brown (2.5Y 3/2) organic matter and partially decayed leaves and twigs with many fine roots and mycelia.
+    O--0 to 1 inch; very dark grayish brown (2.5Y 3/2) organic matter and partially decayed leaves and twigs with many fine roots and mycelia.
 
-    A--0 to 1 inch; dark grayish brown (10YR 4/2) silt loam; moderate fine granular structure; very friable; many fine roots and worm holes; few black and brown concretions; strongly acid; clear smooth boundary. (0 to 6 inches thick)
+    A--1 to 2 inch; dark grayish brown (10YR 4/2) silt loam; moderate fine granular structure; very friable; many fine roots and worm holes; few black and brown concretions; strongly acid; clear smooth boundary. (0 to 6 inches thick)
 
-    E--1 to 6 inches; grayish brown (10YR 5/2) with pockets of brownish yellow (10YR 6/6) silt loam; weak medium granular structure; very friable; many fine and medium roots; few fine brown and black concretions; strongly acid; gradual wavy boundary. (0 to 8 inches thick)
+    E--2 to 7 inches; grayish brown (10YR 5/2) with pockets of brownish yellow (10YR 6/6) silt loam; weak medium granular structure; very friable; many fine and medium roots; few fine brown and black concretions; strongly acid; gradual wavy boundary. (0 to 8 inches thick)
 
-    Bt/E--6 to 19 inches; Bt portion is yellowish brown (10YR 5/4) silt loam; 20% medium distinct light gray (10YR 7/2) clay depletions in the E part of the horizon; weak fine subangular blocky and  granular structure; friable; few fine roots; few faint clay films on faces of some peds; few fine brown and black concretions; few fine pores; strongly acid; gradual irregular boundary. (8 to 16 inches thick)
+    Bt/E--7 to 20 inches; Bt portion is yellowish brown (10YR 5/4) silt loam; 20% medium distinct light gray (10YR 7/2) clay depletions in the E part of the horizon; weak fine subangular blocky and  granular structure; friable; few fine roots; few faint clay films on faces of some peds; few fine brown and black concretions; few fine pores; strongly acid; gradual irregular boundary. (8 to 16 inches thick)
 
-    E'g--19 to 30 inches; light brownish gray (10YR 6/2) silt loam; many medium distinct brownish yellow (10YR 6/6) masses of oxidized iron; weak medium subangular blocky structure; friable; slightly compact; few fine roots; many fine brown and black concretions; many fine voids; strongly acid; gradual irregular boundary. (0 to 12 inches thick)
+    E'g--20 to 31 inches; light brownish gray (10YR 6/2) silt loam; many medium distinct brownish yellow (10YR 6/6) masses of oxidized iron; weak medium subangular blocky structure; friable; slightly compact; few fine roots; many fine brown and black concretions; many fine voids; strongly acid; gradual irregular boundary. (0 to 12 inches thick)
 
-    Btx1--30 to 53 inches; grayish brown (10YR 5/2) silt loam; many medium and coarse distinct brownish yellow (10YR 6/6) masses of oxidized iron; moderate coarse prismatic parting to moderate medium subangular blocky structure; firm; compact and brittle in about 75 percent of the volume; clay films on faces of peds and in pores; black manganese coatings on some peds; thick friable light brownish gray (10YR 6/2) silt coatings on faces of prisms and thin silt coatings on faces of peds; common fine brown and black concretions; common fine voids; few fine roots along faces of prisms; strongly acid; gradual wavy boundary. (10 to 30 inches thick)
+    Btx1--31 to 54 inches; grayish brown (10YR 5/2) silt loam; many medium and coarse distinct brownish yellow (10YR 6/6) masses of oxidized iron; moderate coarse prismatic parting to moderate medium subangular blocky structure; firm; compact and brittle in about 75 percent of the volume; clay films on faces of peds and in pores; black manganese coatings on some peds; thick friable light brownish gray (10YR 6/2) silt coatings on faces of prisms and thin silt coatings on faces of peds; common fine brown and black concretions; common fine voids; few fine roots along faces of prisms; strongly acid; gradual wavy boundary. (10 to 30 inches thick)
 
-    Btx2--53 to 60 inches; variegated yellowish brown (10YR 5/8), gray (10YR 5/1), and very pale brown (10YR 7/4) silt loam; weak coarse prismatic parting to weak coarse subangular blocky structure; firm; compact and brittle; faint clay films on faces of peds and in pores; few fine voids; friable; light brownish gray (10YR 6/2) silt coatings on faces of prisms; few black and brown concretions; moderately acid.
+    Btx2--54 to 61 inches; variegated yellowish brown (10YR 5/8), gray (10YR 5/1), and very pale brown (10YR 7/4) silt loam; weak coarse prismatic parting to weak coarse subangular blocky structure; firm; compact and brittle; faint clay films on faces of peds and in pores; few fine voids; friable; light brownish gray (10YR 6/2) silt coatings on faces of prisms; few black and brown concretions; moderately acid.
 
 TYPE LOCATION: Madison County, Mississippi; from the intersection of Gluckstadt Road and Old Jackson Road near Gluckstadt, Mississippi, 0.65 mile north on Old Jackson Road to cemetry, then 600 feet north of the cemetery and 180 feet east of Old Jackson Road in woods; NW1/4NW1/4 sec. 22, R. 2 E., T. 8 N; 32 degrees, 31 minutes, 44.82 seconds N. Latitude and 90 degrees, 05 minutes, 19.42 seconds W. Longitude, Canton USGS 7.5 Minute Quadrangle, Mississippi.
 
@@ -53,20 +53,20 @@ USE AND VEGETATION: Most of the Calloway soils are cleared and used for such cro
 
 DISTRIBUTION AND EXTENT: Arkansas, Kentucky, Louisiana, Mississippi, Missouri, and Tennessee. The series is of large extent.
 
-MLRA SOIL SURVEY REGIONAL OFFICE (MO) RESPONSIBLE: Auburn, Alabama
+SOIL SURVEY REGIONAL OFFICE (SSRO) RESPONSIBLE: Auburn, Alabama
 
 SERIES ESTABLISHED: Calloway County, Kentucky; 1937.
 
-REMARKS: The series was reclassified from a Glossaquic Fragiudalf to an Aquic Fragiudalf in 2001 because the former classification was removed from taxonomy.  The classification was changed to an Aquic Fraglossudalf in 2002 based on observations at the type location pedon and other survey area typical pedon sites which indicated these soils typically have a Glossic horizon above the fragipan.
+REMARKS: The series was reclassified from a Glossaquic Fragiudalf to an Aquic Fragiudalf in 2001 because the former classification was removed from taxonomy.  The classification was changed to an Aquic Fraglossudalf in 2002 based on observations at the type location pedon and other survey area typical pedon sites which indicated these soils typically have a Glossic horizon above the fragipan.  The 2021 revision changed the depth of the horizons to allow the O horizon to be the top of the pedon.
 
 Diagnostic horizons and features recognized in this pedon are:
 
-Ochric epipedon - the zone from the surface of the soil to a depth of approximately 6 inches (A, E).
-Fragipan - the zone from 30 to 53 inches (Btx1).
-Albic horizon - the zone from 1 to 6 inches (E) and the zone from 19 to 30 inches (E').
-Glossic Horizon - the zone from 6 to 19 inches (Bt/E horizon)
-Argillic horizon - the zone from 6 to 19 inches (Bt/E) and the zone from 30 to 60 inches.
-Aquic conditions - saturation, reduction and redoximorphic features including iron or clay depletions with chroma 2 or less in the upper 10 inches of the Argillic horizon at 6 to 16 inches deep (Bt/E horizon).
+Ochric epipedon - the zone from the surface of the soil to a depth of approximately 7 inches (A, E).
+Fragipan - the zone from 31 to 54 inches (Btx1).
+Albic horizon - the zone from 2 to 7 inches (E) and the zone from 20 to 31 inches (E').
+Glossic Horizon - the zone from 7 to 20 inches (Bt/E horizon)
+Argillic horizon - the zone from 7 to 20 inches (Bt/E) and the zone from 31 to 61 inches.
+Aquic conditions - saturation, reduction and redoximorphic features including iron or clay depletions with chroma 2 or less in the upper 10 inches of the Argillic horizon at 7 to 20 inches deep (Bt/E horizon).
 
 ADDITIONAL DATA: Physical and chemical analyses for one pedon in Soil Survey of Madison County, Mississippi; Engineering test data for one pedon in Soil Survey of De Soto County, Mississippi.
 

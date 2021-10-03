@@ -2,7 +2,7 @@ LOCATION PEKE                   AK
 
 Established Series
 SAS/MPS
-03/2021
+09/2021
 
 PEKE SERIES
 
@@ -136,13 +136,12 @@ Diagnostic horizons and features recognized in this pedon
 *Particle-size control section--zone from 27 to 102 cm
 *Ochric epipedon--zone from 0 to 7 cm
 *Cryoturbation--zone from 7 to 38 cm
-*Andic soil properties--zone from 7 to 38 cm
 *Cambic horizon--zone from 2 to 67 cm
 *Redoximorphic depletions with a chroma of 2 or less--zone from 38 to 67 cm
 *Redoximorphic concentrations--zone from 38 to 67 cm
 *Aquic conditions--zone from 38 to 67 cm
-*Lithological discontinuity--zone from 38 to 67 cm
-*Lithological discontinuity--zone from 67 to 150 cm
+*Lithological discontinuity--zone from 38 to 67 cm and 67 to 150 cm
+
 
 National Cooperative Soil Survey
 U.S.A.

@@ -2,7 +2,7 @@ LOCATION UGRUK                  AK
 
 Established Series
 SAS/TJR
-03/2021
+10/2021
 
 UGRUK SERIES
 
@@ -15,7 +15,7 @@ Mean annual precipitation--about 500 mm
 Mean annual air temperature--about -3 degrees C
 Depth class--very deep (very shallow to permafrost)
 Drainage class--very poorly drained
-Soil moisture regime--per aquic
+Soil moisture regime--peraquic
 Soil temperature regime--gelic
 Soil moisture subclass--typic
 
@@ -114,9 +114,10 @@ REMARKS:
 Diagnostic horizons and features recognized in this pedon
 *Particle-size control section--zone from 54 to 90 cm
 *Thickness of organic soil material--54 cm
+*Sapric soil materials--9 to 54 cm
 *Depth to permafrost--65 cm
-*Reduced matric--zone from 54 to 65 cm
 *Reduced matrix--zone from 54 to 65 cm
+*Cryoturbation--zone from 54 to 65 cm
 *Depth to aquic conditions--0 cm (a positive reaction to alpha-alpha dipyridyl is assumed at and below this depth for much of the growing season)
 
 National Cooperative Soil Survey

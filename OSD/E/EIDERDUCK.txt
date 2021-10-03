@@ -2,7 +2,7 @@ LOCATION EIDERDUCK              AK
 
 Established Series
 MPS/SAS
-03/2021
+09/2021
 
 EIDERDUCK SERIES
 
@@ -24,9 +24,9 @@ TYPICAL PEDON: Eiderduck peat on a linear, linear depression on a slope of 1 per
 
  Oi--0 to 20 cm; peat, grayish brown (10YR 5/2) dry, very dark grayish brown (10YR 3/2) moist; many very fine, moderately few medium and coarse, and common fine roots throughout; slightly acid (pH 6.4); abrupt smooth boundary
 
- Oe1--20 to 25 cm; mucky peat, reddish yellow (7.5YR 6/6) dry, strong brown (7.5YR 4/6) moist; common very fine, very few medium, and moderately few fine roots throughout; moderately acid (pH 5.8); abrupt smooth boundary
+ Oe1--20 to 35 cm; mucky peat, reddish yellow (7.5YR 6/6) dry, strong brown (7.5YR 4/6) moist; common very fine, very few medium, and moderately few fine roots throughout; moderately acid (pH 5.8); abrupt smooth boundary
 
- Cg/Oe--25 to 68 cm; stratified silt loam, gray (N 5/), dry, very dark gray (N 3/), moist; structureless massive; very friable, slightly sticky, nonplastic; common very fine, few medium, and common fine roots throughout; neutral (pH 6.6); clear smooth boundary
+ Cg/Oe--35 to 68 cm; stratified silt loam, gray (N 5/), dry, very dark gray (N 3/), moist; structureless massive; very friable, slightly sticky, nonplastic; common very fine, few medium, and common fine roots throughout; neutral (pH 6.6); clear smooth boundary
 
  Oe2--68 to 92 cm; mucky peat, dark gray (N 4/), dry, black (N 2.5/), moist; very few very fine and moderately few fine roots throughout; neutral (pH 6.9); Odor, pH after H2O2=5.7 clear smooth boundary
 
@@ -37,7 +37,6 @@ TYPE LOCATION: Nome Census Area County, Alaska, latitude 63.8927290 longitude -1
 RANGE IN CHARACTERISTICS:
 Mean annual soil temperature--0 to 3 degrees C
 Soil moisture control section--saturated within 25 cm of the soil surface during much of the growing season
-Thickness of histic epipedon--20 to 40cm
 Aquic conditions--throughout the profile
 Total thickness of organic soil layers--40 to 70 cm
 Total thickness of hemic soil material--25 to 60 cm
@@ -54,7 +53,7 @@ Rubbed fiber content--40 to 75 percent
 Color value and chroma of sodium pyrophosphate--7/1, 7/2, 8/1, 8/2, 8/3
 Thickness--15 to 25cm
 
-Oe horizon
+Oe1 horizon
 Hue--7.5YR or 10YR
 Value--2 to 4 moist, 4 to 6 dry
 Chroma--3 to 6 moist
@@ -74,7 +73,7 @@ Reaction--6.1 to 6.9
 Electrical conductivity--2 to 4 ds/m 
 Thickness--20 to 40 cm
 
-Oe horizon
+Oe2 horizon
 Value--3 or 4 moist, 5 or 6 dry
 Chroma--3 to 6
 Reaction--5.8 to 6.9
@@ -125,7 +124,8 @@ Diagnostic horizons and features recognized in this pedon
 *Combined thickness of organic layers--49 cm
 *Aquic conditions--present throughout the profile
 *Fibric soil materials--zone from 0 to 20 cm
-*Hemic soil materials--zone from 20 to 25 cm and 68 to 92 cm
+*Hemic soil materials--zone from 20 to 92 cm
+*Sapric soil materials--zone from 92 to 150 cm
 *Reduced matrix color--zone from 25 to 68 cm and 92 to 150 cm
 *Sulfidic materials- zone from 68 to 150 cm
 

@@ -2,7 +2,7 @@ LOCATION KINER                  AK
 
 Established Series
 SAS/MPS
-03/2021
+09/2021
 
 KINER SERIES
 
@@ -125,6 +125,7 @@ Diagnostic horizons and features recognized in this pedon
 *Particle-size control section--zone from 25 to 40 cm
 *Ochric epipedon--zone from 0 to 3 cm
 *Cambic horizon--zone from 0 to 40 cm
+*Lithologic discontinuity--40 to 150 cm
 *Paralithic contact--at 40 cm
 National Cooperative Soil Survey
 U.S.A.
