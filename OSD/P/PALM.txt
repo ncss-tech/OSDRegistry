@@ -2,7 +2,7 @@ LOCATION PALM                   PR
 
 Established Series
 BCD-HRM; Rev. GRB
-06/2002
+10/2021
 
 PALM SERIES
 
@@ -12,15 +12,15 @@ TAXONOMIC CLASS: Clayey-skeletal, isotic, acid, isothermic Aquandic Humaquepts
 
 TYPICAL PEDON:  Palm mucky clay - forested.  (Colors are for moist conditions.)
 
-    Oi--3 to 0 inches; many fine, medium, and coarse roots which form a surface root mat; abrupt smooth boundary. (0 to 6 inches)
+    Oi--0 to 3 inches; many fine, medium, and coarse roots which form a surface root mat; abrupt smooth boundary. (0 to 6 inches)
 
-    A--0 to 7 inches; dark reddish brown (5YR 3/2) mucky clay; weak medium subangular blocky structure parting to weak fine subangular blocky and moderate fine granular; friable; nonsticky, slightly plastic; many very fine and fine roots; few very fine and fine interstitial and tubular pores; few fine distinct dark reddish brown (2.5YR 3/4) masses of iron accumulation and pore linings; strongly acid; clear smooth boundary. (4 to 18 inches)
+    A--3 to 10 inches; dark reddish brown (5YR 3/2) mucky clay; weak medium subangular blocky structure parting to weak fine subangular blocky and moderate fine granular; friable; nonsticky, slightly plastic; many very fine and fine roots; few very fine and fine interstitial and tubular pores; few fine distinct dark reddish brown (2.5YR 3/4) masses of iron accumulation and pore linings; strongly acid; clear smooth boundary. (4 to 18 inches)
 
-    BA--7 to 16 inches; black (5Y 2/2) clay; weak medium subangular blocky structure parting to weak fine subangular blocky; firm; slightly sticky, plastic; common very fine, fine and medium roots; common very fine and fine interstitial and tubular pores; few distinct brown (7.5YR 4/4) coatings on vertical and horizontal faces of peds; common large worm casts with dark yellowish brown(10YR 3/6) coatings and filled with black (N 2/0) material; common distinct dark reddish brown (5YR 3/3) linings along root channels; very strongly acid; clear smooth boundary. (6 to 12 inches)
+    BA--10 to 19 inches; black (5Y 2/2) clay; weak medium subangular blocky structure parting to weak fine subangular blocky; firm; slightly sticky, plastic; common very fine, fine and medium roots; common very fine and fine interstitial and tubular pores; few distinct brown (7.5YR 4/4) coatings on vertical and horizontal faces of peds; common large worm casts with dark yellowish brown(10YR 3/6) coatings and filled with black (N 2/0) material; common distinct dark reddish brown (5YR 3/3) linings along root channels; very strongly acid; clear smooth boundary. (6 to 12 inches)
 
-    Bg--16 to 28 inches; olive gray (5Y 5/2) very cobbly clay; weak coarse angular blocky structure; firm; sticky, plastic; few very fine, fine, and medium roots; few fine interstitial and tubular pores; many distinct brown (7.5YR 4/4) stains on pressure faces and  horizontal faces of peds; about 10 percent, by volume, pebbles, about 20 percent, by volume, cobbles, and about 30 percent, by volume, stones; common coarse distinct very dark grayish brown (10YR 3/2) areas of iron depletions; strongly acid; gradual wavy boundary. (10 to 25 inches)
+    Bg--19 to 31 inches; olive gray (5Y 5/2) very cobbly clay; weak coarse angular blocky structure; firm; sticky, plastic; few very fine, fine, and medium roots; few fine interstitial and tubular pores; many distinct brown (7.5YR 4/4) stains on pressure faces and  horizontal faces of peds; about 10 percent, by volume, pebbles, about 20 percent, by volume, cobbles, and about 30 percent, by volume, stones; common coarse distinct very dark grayish brown (10YR 3/2) areas of iron depletions; strongly acid; gradual wavy boundary. (10 to 25 inches)
 
-    Bw--28 to 60 inches; olive (5Y 5/3) very cobbly clay; weak fine subangular blocky structure; firm; sticky, plastic; few fine interstitial and tubular pores; about 10 percent, by volume, pebbles, about 20 percent, by volume, cobbles, and about 30 percent, by volume, stones; common coarse distinct yellowish red (5YR 4/6) masses of iron accumulation; few medium distinct greenish gray (5GY 5/1) areas of iron depletions; strongly acid. (25 to more than 35 inches)
+    Bw--31 to 63 inches; olive (5Y 5/3) very cobbly clay; weak fine subangular blocky structure; firm; sticky, plastic; few fine interstitial and tubular pores; about 10 percent, by volume, pebbles, about 20 percent, by volume, cobbles, and about 30 percent, by volume, stones; common coarse distinct yellowish red (5YR 4/6) masses of iron accumulation; few medium distinct greenish gray (5GY 5/1) areas of iron depletions; strongly acid. (25 to more than 35 inches)
 
 TYPE LOCATION:  Rio Grande Municipio; Noreste SWCD, Caribbean National Forest, Puerto Rico.  Approximately 30 west of FDR number 10 about 4,300 feet from its junction with RD number 191.  El Yunque topographic quadrangle; lat. 18 degrees 18 minutes 21 seconds N.; long. 65 degrees 47 minutes 45 seconds W.; PRD 1940.
 
@@ -52,9 +52,11 @@ SERIES ESTABLISHED:  Caribbean National Forest, Puerto Rico, 1992.
 
 REMARKS:  Diagnostic horizons and features recognized in this pedon:
 
-Umbric epipedon - zone from 0 to 16 inches (A and BA horizons).
+Umbric epipedon - zone from 0 to 19 inches (O, A and BA horizons).
 
-Cambic horizon - zone from 7 to 60 inches (BA, Bg, and Bw horizons).
+Cambic horizon - zone from 19 to 63 inches (BA, Bg, and Bw horizons).
+
+The soil horizon depths were revised on 10/2021 to ensure the description began at the soil surface.
 
 Acid feature - Reaction less than 5.5 throughout the zone of 10 to 40 inches (BA, Bg, and Bw horizons).
 

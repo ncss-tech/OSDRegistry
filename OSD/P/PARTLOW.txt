@@ -2,7 +2,7 @@ LOCATION PARTLOW                VA
 
 Established Series
 Rev. JHE-WJE-MHC
-07/1999
+10/2021
 
 PARTLOW SERIES
 
@@ -12,19 +12,19 @@ TAXONOMIC CLASS: Fine-loamy, mixed, semiactive, thermic Typic Endoaquults
 
 TYPICAL PEDON:  Partlow sandy loam- on a 2 percent concave slope along a drainageway in a mixed hardwood forest.  (Colors are for moist soil.)
 
-    Oi--1 to 0 inches; undecomposed and partially decomposed leaves and twigs.
+    Oi--0 to 1 inches; undecomposed and partially decomposed leaves and twigs.
 
-    A--0 to 2 inches; very dark grayish brown (10YR 3/2) sandy loam; moderate fine granular structure; very friable; many fine and medium roots; 5 percent angular quartz gravel; strongly acid; clear smooth boundary.  (1 to 4 inches thick)
+    A--1 to 3 inches; very dark grayish brown (10YR 3/2) sandy loam; moderate fine granular structure; very friable; many fine and medium roots; 5 percent angular quartz gravel; strongly acid; clear smooth boundary.  (1 to 4 inches thick)
 
-    E--2 to 14 inches; light brownish gray (10YR 6/2) sandy loam; few fine distinct yellowish red (5YR 4/6) mottles; moderate fine granular structure; very friable; many fine and medium roots; common fine flakes of mica; 5 percent angular quartz gravel; strongly acid; clear smooth boundary.  (0 to 15 inches thick)
+    E--3 to 15 inches; light brownish gray (10YR 6/2) sandy loam; few fine distinct yellowish red (5YR 4/6) mottles; moderate fine granular structure; very friable; many fine and medium roots; common fine flakes of mica; 5 percent angular quartz gravel; strongly acid; clear smooth boundary.  (0 to 15 inches thick)
 
-    Btgl--14 to 20 inches; gray (10YR 5/1) sandy loam; few medium distinct strong brown (7.5YR 5/8) mottles; moderate fine subangular blocky structure; friable; many fine roots; few faint clay films on faces of peds and clay bridges between sand grains; common fine flakes of mica; 2 percent angular quartz gravel; strongly acid; clear smooth boundary.
+    Btgl--15 to 21 inches; gray (10YR 5/1) sandy loam; few medium distinct strong brown (7.5YR 5/8) mottles; moderate fine subangular blocky structure; friable; many fine roots; few faint clay films on faces of peds and clay bridges between sand grains; common fine flakes of mica; 2 percent angular quartz gravel; strongly acid; clear smooth boundary.
 
-    Btg2--20 to 39 inches; light gray (N 7/0) and gray (10YR 6/1) sandy clay loam; few medium distinct brownish yellow (10YR 6/6) mottles; friable, slightly sticky, slightly plastic; common fine roots; few faint clay films on faces of peds; common fine flakes of mica; 2 percent angular quartz gravel; very strongly acid; clear smooth boundary.
+    Btg2--21 to 40 inches; light gray (N 7/0) and gray (10YR 6/1) sandy clay loam; few medium distinct brownish yellow (10YR 6/6) mottles; friable, slightly sticky, slightly plastic; common fine roots; few faint clay films on faces of peds; common fine flakes of mica; 2 percent angular quartz gravel; very strongly acid; clear smooth boundary.
 
-    Btg3-39 to 55 inches; light gray (N 7/0) sandy clay loam; few medium distinct olive yellow (2.5Y 6/6) mottles; moderate medium subangular blocky structure; friable, slightly sticky, slightly plastic; few fine roots; few faint clay films on faces of peds; 3 percent angular quartz gravel; common fine flakes of mica; strongly acid; abrupt smooth boundary.  (Combined thickness of the Bt horizon is 28 to 66 inches.)
+    Btg3--40 to 56 inches; light gray (N 7/0) sandy clay loam; few medium distinct olive yellow (2.5Y 6/6) mottles; moderate medium subangular blocky structure; friable, slightly sticky, slightly plastic; few fine roots; few faint clay films on faces of peds; 3 percent angular quartz gravel; common fine flakes of mica; strongly acid; abrupt smooth boundary.  (Combined thickness of the Bt horizon is 28 to 66 inches.)
 
-    2Cg--55 to 70 inches; light gray (N 7/0) sandy loam; many medium distinct strong brown (7.5YR 5/6) and brownish yellow (10YR 6/6) mottles; massive; firm in place, friable when dug; common medium clay flows in the upper part; strongly acid.
+    2Cg--56 to 71 inches; light gray (N 7/0) sandy loam; many medium distinct strong brown (7.5YR 5/6) and brownish yellow (10YR 6/6) mottles; massive; firm in place, friable when dug; common medium clay flows in the upper part; strongly acid.
 
 TYPE LOCATION: Spotsylvania County, Virginia; 2 1/2 miles south of Chancellor; 330 yards south of the end of VA-625.
 
@@ -56,11 +56,11 @@ MLRA SOIL SURVEY REGIONAL OFFICE (MO) RESPONSIBLE: Raleigh, North Carolina
 
 SERIES ESTABLISHED:  Spotsylvania County, Virginia, 1980.  The name is from the town of Partlow in Spotsylvania County.
 
-REMARKS:  Data from 3 pedons in Spotsylvania County by Virginia Polytechnic Institute and State University supports the classification.  These soils were included with the Worsham soils in the past.  They were correlated as a fine-loamy Variant of the Myatt series (siliceous) in Hanover County, Virginia.
+REMARKS:  Data from 3 pedons in Spotsylvania County by Virginia Polytechnic Institute and State University supports the classification.  These soils were included with the Worsham soils in the past.  They were correlated as a fine-loamy Variant of the Myatt series (siliceous) in Hanover County, Virginia.  The soil horizon depths were revised on 10/2021 to ensure the description began at the soil surface.
 
 Diagnostic horizons and features recognized in this pedon are:
-1.  Ochric epipedon-the zone from 0 to 14 inches (A and E horizons) 
-2.  Argillic horizon-the zone from 14 to 55 inches (Btg horizons)
+1.  Ochric epipedon-the zone from 0 to 15 inches (O, A and E horizons) 
+2.  Argillic horizon-the zone from 15 to 56 inches (Btg horizons)
 3.  Gleyed feature-matrix chroma of 2 or less in the subsoil
 
 SIR = VA0153
@@ -76,18 +76,18 @@ SOI-5  FloodL FloodH Watertable Kind   Months  Bedrock Hardness
 VA0153 NONE   COMMON   0-1.0  APPARENT NOV-MAY  60-60        
 
 SOI-5  Depth  Texture                3-Inch  No-10  Clay%   -CEC-
-VA0153  0-14  L                       0-  0  95-100 10-25    -   
-VA0153  0-14  COSL                    0-  0  80- 95  5-15    -   
-VA0153  0-14  SL FSL                  0-  0  85-100  5-18    -   
-VA0153 14-55  SCL CL SL               0-  0  85-100 18-35    -   
-VA0153 55-70  SL L SCL                0-  0  85-100  5-35    -   
+VA0153  0-15  L                       0-  0  95-100 10-25    -   
+VA0153  0-15  COSL                    0-  0  80- 95  5-15    -   
+VA0153  0-15  SL FSL                  0-  0  85-100  5-18    -   
+VA0153 15-56  SCL CL SL               0-  0  85-100 18-35    -   
+VA0153 56-71  SL L SCL                0-  0  85-100  5-35    -   
 
 SOI-5  Depth    -pH-     O.M.  Salin  Permeab   Shnk-Swll
-VA0153  0-14  4.5- 5.5  .5-2.  0- 0   2.0- 6.0  LOW      
-VA0153  0-14  4.5- 5.5  .5-2.  0- 0   2.0- 6.0  LOW      
-VA0153  0-14  4.5- 5.5  .5-2.  0- 0   2.0- 6.0  LOW      
-VA0153 14-55  4.5- 5.5  0.-.5  0- 0   0.6- 2.0  LOW      
-VA0153 55-70  4.5- 5.5  0.-.5  0- 0   2.0- 6.0  LOW       
+VA0153  0-15  4.5- 5.5  .5-2.  0- 0   2.0- 6.0  LOW      
+VA0153  0-15  4.5- 5.5  .5-2.  0- 0   2.0- 6.0  LOW      
+VA0153  0-15  4.5- 5.5  .5-2.  0- 0   2.0- 6.0  LOW      
+VA0153 15-56  4.5- 5.5  0.-.5  0- 0   0.6- 2.0  LOW      
+VA0153 56-71  4.5- 5.5  0.-.5  0- 0   2.0- 6.0  LOW       
 
 National Cooperative Soil Survey
 U.S.A.

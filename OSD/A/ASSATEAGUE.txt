@@ -2,7 +2,7 @@ LOCATION ASSATEAGUE             VA
 
 Established Series
 Rev. CDP-DWS-WJE
-07/1999
+10/2021
 
 ASSATEAGUE SERIES
 
@@ -12,13 +12,13 @@ TAXONOMIC CLASS: Mixed, thermic Typic Udipsamments
 
 TYPICAL PEDON:  Assateague fine sand - forested on 25 percent convex slope. (Colors are for moist soil.)
 
-    0--1 to 0 inches; undecomposed and partially decomposed pine needles, hardwood leaves, and twigs.
+    Oi--0 to 1 inches; undecomposed and partially decomposed pine needles, hardwood leaves, and twigs.
 
-    A--0 to 2 inches; dark grayish brown (10YR 4/2) fine sand; single grain; loose; few fine roots; very strongly acid; clear smooth boundary.  (0 to 6 inches thick)
+    A--1 to 3 inches; dark grayish brown (10YR 4/2) fine sand; single grain; loose; few fine roots; very strongly acid; clear smooth boundary.  (0 to 6 inches thick)
 
-    C1--2 to 40 inches; pale brown (10YR 6/3) fine sand; single grain; loose; few fine roots; moderately acid; gradual diffuse boundary.
+    C1--3 to 41 inches; pale brown (10YR 6/3) fine sand; single grain; loose; few fine roots; moderately acid; gradual diffuse boundary.
 
-    C2--40 to 85 inches; very pale brown (10YR 7/3) fine sand; single grain; loose; moderately acid.
+    C2--41 to 86 inches; very pale brown (10YR 7/3) fine sand; single grain; loose; moderately acid.
 
 TYPE LOCATION:  Accomack County, Virginia; approximately 1.5 miles south southeast of the junction of Highways VA-2102 and VA-2113 and 1.7 miles north northwest of Tom's Cove Visitors' Center on Assateague Island.
 
@@ -46,7 +46,7 @@ MLRA SOIL SURVEY REGIONAL OFFICE (MO) RESPONSIBLE: Raleigh, North Carolina
 
 SERIES ESTABLISHED:  Northampton County, Virginia, 1985.  The name is from a barrier island.
 
-REMARKS:  In the past, Assateague soils have been included in the Fripp and Newhan soils and in the miscellaneous land class Dune land.  The absence of subsurface pedogenic horizons, mixed mineralogy, and flooding by storm tides are the main diagnostic features of these soils.
+REMARKS:  In the past, Assateague soils have been included in the Fripp and Newhan soils and in the miscellaneous land class Dune land.  The absence of subsurface pedogenic horizons, mixed mineralogy, and flooding by storm tides are the main diagnostic features of these soils.  The soil horizon depths were revised on 10/2021 to ensure the description began at the soil surface.
 
 ADDITIONAL DATA:  Virginia Polytechnic Institute and State University soil survey lab data shows less than 5 percent silt plus clay and less than 95 percent quartz and other heavy minerals for the typical pedon and 5 other profiles.
 
@@ -59,12 +59,12 @@ SOI-5  FloodL FloodH Watertable Kind   Months  Bedrock Hardness
 VA0222 NONE   RARE   6.0-6.0              -     60-60        
 
 SOI-5  Depth  Texture                3-Inch  No-10  Clay%   -CEC-
-VA0222  0- 2  COS S FS                0-  0  75-100  0-10    -   
-VA0222  2-85  COS S FS                0-  0  75-100  0- 5    -   
+VA0222  0- 3  COS S FS                0-  0  75-100  0-10    -   
+VA0222  3-86  COS S FS                0-  0  75-100  0- 5    -   
 
 SOI-5  Depth    -pH-     O.M.  Salin  Permeab   Shnk-Swll
-VA0222  0- 2  4.5- 7.3  0.-.5  0- 0    20-  20  LOW      
-VA0222  2-85  5.6- 7.8  0.-.5  0- 0    20-  20  LOW       
+VA0222  0- 3  4.5- 7.3  0.-.5  0- 0    20-  20  LOW      
+VA0222  3-86  5.6- 7.8  0.-.5  0- 0    20-  20  LOW       
 
 National Cooperative Soil Survey
 U.S.A.

@@ -2,7 +2,7 @@ LOCATION ASHLAR                 VA+GA NC
 
 Established Series
 Rev. DTA
-12/2017
+10/2021
 
 ASHLAR SERIES
 
@@ -20,19 +20,19 @@ TAXONOMIC CLASS: Coarse-loamy, mixed, semiactive, thermic Typic Dystrudepts
 
 TYPICAL PEDON: Ashlar sandy loam - woodland (Colors are for moist soils.)
 
-  Oi--2 to 0 inches; partially decomposed organic material.
+  Oi--0 to 2 inches; partially decomposed organic material.
 
-  A--0 to 3 inches; very dark grayish brown (l0YR3/2) sandy loam; weak very fine granular structure; very friable; many fine roots; few fine flakes of mica; moderately acid; clear smooth boundary. (0 to 10 inches thick)
+  A--2 to 5 inches; very dark grayish brown (l0YR3/2) sandy loam; weak very fine granular structure; very friable; many fine roots; few fine flakes of mica; moderately acid; clear smooth boundary. (0 to 10 inches thick)
 
-  E--3 to 9 inches; grayish brown (l0YR5/2) sandy loam; weak fine granular structure; very friable; many fine roots; common fine and medium pores; 2 percent angular quartz gravel; few fine flakes of mica; moderately acid; abrupt wavy boundary. (0 to 8 inches thick)
+  E--5 to 11 inches; grayish brown (l0YR5/2) sandy loam; weak fine granular structure; very friable; many fine roots; common fine and medium pores; 2 percent angular quartz gravel; few fine flakes of mica; moderately acid; abrupt wavy boundary. (0 to 8 inches thick)
 
-  Bw--9 to 18 inches; yellowish brown (l0YR5/4) sandy loam; weak fine and medium subangular blocky structure parting to moderate fine granular; very friable; many fine and medium roots; few fine and medium pores; few fine flakes of mica; strongly acid; gradual wavy boundary. (8 to 23 inches thick)
+  Bw--11 to 20 inches; yellowish brown (l0YR5/4) sandy loam; weak fine and medium subangular blocky structure parting to moderate fine granular; very friable; many fine and medium roots; few fine and medium pores; few fine flakes of mica; strongly acid; gradual wavy boundary. (8 to 23 inches thick)
 
-  C--18 to 26 inches; brown (l0YR5/3) sandy loam; common medium distinct light brown (7.5YR6/4) mottles; massive; firm in place, very friable when dug out; few hard fragments of rock; few fine flakes of mica; very strongly acid; gradual wavy boundary. (0 to 12 inches thick)
+  C--20 to 28 inches; brown (l0YR5/3) sandy loam; common medium distinct light brown (7.5YR6/4) mottles; massive; firm in place, very friable when dug out; few hard fragments of rock; few fine flakes of mica; very strongly acid; gradual wavy boundary. (0 to 12 inches thick)
 
-  Cr--26 to 34 inches; multicolored in shades of brown, yellow, white and black strongly weathered granite easily crushed to gravelly sandy loam; firm in place; few fine flakes of mica; very strongly acid; diffuse wavy boundary. (0 to 12 inches)
+  Cr--28 to 36 inches; multicolored in shades of brown, yellow, white and black strongly weathered granite easily crushed to gravelly sandy loam; firm in place; few fine flakes of mica; very strongly acid; diffuse wavy boundary. (0 to 12 inches)
 
-  R--34 inches; hard granitic gneiss.
+  R--36 inches; hard granitic gneiss.
 
 TYPE LOCATION: Louisa County, Virginia; 300 yards east of Highway 651 near Ellis Mill Bridge.  On the North Anna River.
 
@@ -111,8 +111,9 @@ SOIL SURVEY REGIONAL OFFICE (SSRO) RESPONSIBLE: Raleigh, North Carolina
 SERIES ESTABLISHED: Stafford County, Virginia, 1971.
 
 REMARKS: Diagnostic horizons and features recognized in this pedon are:
-a. Ochric epipedon - the zone from 0 to 9 inches (Ap and E horizons). 
-b. Cambic horizon - the zone from 9 to 18 inches (Bw horizon).
+a. Ochric epipedon - the zone from 0 to 11 inches (Ap and E horizons). 
+b. Cambic horizon - the zone from 11 to 20 inches (Bw horizon).
+Soil horizon depths were modified on 10/2021 to ensure the description began at the soil surface.
 
 ADDITIONAL DATA:
 
@@ -131,40 +132,40 @@ VA0230 NONE          >6.0                -     20-40   HARD
 VA0237 NONE          >6.0                -     20-40   HARD 
 
 SOI-5  Depth  Texture             3-Inch  No-10    Clay%   -CEC-
-VA0008  0-18  SL FSL               0- 2   75-100   5-15     -   
-VA0008 18-34  SL FSL GR-SL         0- 8   50-100   5-15     -   
-VA0008 34-38  UWB                   -       -       -       -   
+VA0008  0-20  SL FSL               0- 2   75-100   5-15     -   
+VA0008 20-36  SL FSL GR-SL         0- 8   50-100   5-15     -   
+VA0008 36-40  UWB                   -       -       -       -   
 
-VA0123  0-18  ST-SL ST-FSL         0- 5   65- 95   5-15     -   
-VA0123 18-34  SL FSL GR-SL         0-10   50- 90   5-15     -   
-VA0123 34-44  UWB                   -       -       -       -   
+VA0123  0-20  ST-SL ST-FSL         0- 5   65- 95   5-15     -   
+VA0123 20-36  SL FSL GR-SL         0-10   50- 90   5-15     -   
+VA0123 36-46  UWB                   -       -       -       -   
 
-VA0230  0-18  GR-SL GR-FSL         0- 2   50- 75   5-15     -   
-VA0230  0-18  GR-COS GR-LCOS       0- 2   50- 75   2-10     -   
-VA0230 18-34  SL FSL GR-SL         0- 8   50-100   5-15     -   
-VA0230 34-44  UWB                   -       -       -       -   
+VA0230  0-20  GR-SL GR-FSL         0- 2   50- 75   5-15     -   
+VA0230  0-20  GR-COS GR-LCOS       0- 2   50- 75   2-10     -   
+VA0230 20-36  SL FSL GR-SL         0- 8   50-100   5-15     -   
+VA0230 36-46  UWB                   -       -       -       -   
 
-VA0237  0-18  LCOS COS             0- 2   75- 95   5-15     -   
-VA0237 18-34  SL FSL GR-SL         2- 8   50- 90   5-15     -   
-VA0237 34-44  UWB                   -       -       -       -   
+VA0237  0-20  LCOS COS             0- 2   75- 95   5-15     -   
+VA0237 20-36  SL FSL GR-SL         2- 8   50- 90   5-15     -   
+VA0237 36-46  UWB                   -       -       -       -   
 
 SOI-5  Depth     -pH-     O.M    Salin  Permeab    Shnk-Swll
-VA0008  0-18   4.5-6.0   .5-1.   0-0    2.0- 6.0    LOW      
-VA0008 18-34   4.5-5.5   0.-.5   0-0    2.0- 6.0    LOW      
-VA0008 34-38      -        -      -        -               
+VA0008  0-20   4.5-6.0   .5-1.   0-0    2.0- 6.0    LOW      
+VA0008 20-36   4.5-5.5   0.-.5   0-0    2.0- 6.0    LOW      
+VA0008 36-40      -        -      -        -               
 
-VA0123  0-18   4.5-6.0   .5-1.   0-0    2.0- 6.0    LOW      
-VA0123 18-34   4.5-5.5   0.-.5   0-0    2.0- 6.0    LOW      
-VA0123 34-44      -        -      -    0.00-0.01           
+VA0123  0-20   4.5-6.0   .5-1.   0-0    2.0- 6.0    LOW      
+VA0123 20-36   4.5-5.5   0.-.5   0-0    2.0- 6.0    LOW      
+VA0123 36-46      -        -      -    0.00-0.01           
 
-VA0230  0-18   4.5-6.0   .5-1.   0-0    2.0- 6.0    LOW      
-VA0230  0-18   4.5-6.0   .5-1.   0-0    2.0- 6.0    LOW      
-VA0230 18-34   4.5-5.5   0.-.5   0-0    2.0- 6.0    LOW      
-VA0230 34-44      -        -      -        -          
+VA0230  0-20   4.5-6.0   .5-1.   0-0    2.0- 6.0    LOW      
+VA0230  0-20   4.5-6.0   .5-1.   0-0    2.0- 6.0    LOW      
+VA0230 20-36   4.5-5.5   0.-.5   0-0    2.0- 6.0    LOW      
+VA0230 36-46      -        -      -        -          
 
-VA0237  0-18   4.5-6.0   .5-1.   0-0    2.0- 6.0    LOW      
-VA0237 18-34   4.5-5.5   0.-.5   0-0    2.0- 6.0    LOW      
-VA0237 34-44      -        -      -     0.0-0.01            
+VA0237  0-20   4.5-6.0   .5-1.   0-0    2.0- 6.0    LOW      
+VA0237 20-36   4.5-5.5   0.-.5   0-0    2.0- 6.0    LOW      
+VA0237 36-46      -        -      -     0.0-0.01            
 
 National Cooperative Soil Survey
 U.S.A.

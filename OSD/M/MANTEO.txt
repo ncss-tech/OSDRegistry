@@ -2,7 +2,7 @@ LOCATION MANTEO                 VA+GA SC
 
 Established Series
 Rev. DDR
-07/1999
+10/2021
 
 MANTEO SERIES
 
@@ -10,18 +10,17 @@ Soils of the Manteo series are shallow and somewhat excessively drained.  They f
 
 TAXONOMIC CLASS: Loamy-skeletal, mixed, semiactive, thermic Lithic Dystrudepts
 
-TYPICAL PEDON:  Manteo channery silt loam - in a hardwood woodland
-               (Colors are for moist soil.)
+TYPICAL PEDON:  Manteo channery silt loam - in a hardwood woodland.  (Colors are for moist soil.)
 
-    0i--3 to 0 inch; loose leaves, twigs of deciduous trees and black (10YR 2/1) and very dark gray (10YR 3/1) partially decomposed organic matter.
+    0i--0 to 3 inch; loose leaves, twigs of deciduous trees and black (10YR 2/1) and very dark gray (10YR 3/1) partially decomposed organic matter.
 
-    A--0 to 1 inch; very dark grayish brown (10YR 3/2) channery silt loam; weak fine granular structure; very friable; many fine roots; 25 percent channers; very strongly acid; clear smooth boundary. (0 to 4 inches thick)
+    A--3 to 4 inch; very dark grayish brown (10YR 3/2) channery silt loam; weak fine granular structure; very friable; many fine roots; 25 percent channers; very strongly acid; clear smooth boundary. (0 to 4 inches thick)
 
-    AB--1 to 6 inches; brown (10YR 5/3) channery silt loam; weak fine granular structure; very friable; many fine roots; 35 percent channers; very strongly acid; clear smooth boundary. (0 to 10 inches thick)
+    AB--4 to 9 inches; brown (10YR 5/3) channery silt loam; weak fine granular structure; very friable; many fine roots; 35 percent channers; very strongly acid; clear smooth boundary. (0 to 10 inches thick)
 
-    Bw--6 to 15 inches; yellowish brown (10YR 5/4) extremely channery silt loam; weak fine subangular blocky structure; friable; common fine roots; 65 percent channers; very strongly acid; clear smooth boundary.  (7 to 10 inches thick)
+    Bw--9 to 18 inches; yellowish brown (10YR 5/4) extremely channery silt loam; weak fine subangular blocky structure; friable; common fine roots; 65 percent channers; very strongly acid; clear smooth boundary.  (7 to 10 inches thick)
 
-    R--15 inches; serecite schist; partly fragmented, but hard; very strongly acid.
+    R--18 inches; serecite schist; partly fragmented, but hard; very strongly acid.
 
 TYPE LOCATION:  Orange County, Virginia; 100 yards south of junction of VA-612 and VA-631, west of Church Run bridge.
 
@@ -53,9 +52,11 @@ MLRA SOIL SURVEY REGIONAL OFFICE (MO) RESPONSIBLE: Raleigh, North Carolina
 
 SERIES ESTABLISHED:  Culpeper County, Virginia, 1943.
 
-REMARKS:  Diagnostic Horizons and features recognized in this pedon are; Ochric Epipedon :  the zone from 0 to 6 inches (A and AB
-Horizons)
-Cambic Horizon:  the zone between 6 and 15 inches (Bw           horizon) Lithic contact:  Hard bedrock at 15 inches.
+REMARKS:  Diagnostic Horizons and features recognized in this pedon are:
+Ochric Epipedon :  the zone from 0 to 9 inches (A and AB horizons)
+Cambic Horizon:  the zone between 9 and 18 inches (Bw horizon).
+Lithic contact:  Hard bedrock at 18 inches.
+Soil horizon depths were modified 10/2021 to ensure the description began at the soil surface.
 
 MLRA = 136
 SIR = VA0077, VA0317 (CHANNERY)
@@ -72,22 +73,22 @@ VA0077 NONE          6.0-6.0              -     10-20   HARD
 VA0317 NONE          6.0-6.0              -     10-20   HARD 
 
 SOI-5  Depth  Texture                3-Inch  No-10  Clay%   -CEC-
-VA0077  0- 6  CN-SIL CN-L            10- 25  65- 95  7-27    -   
-VA0077  0- 6  CNV-SIL CNV-L          25- 40  40- 65  7-27    -   
-VA0077  6-15  CNV-SIL CN-SIL CN-CL   15- 40  20- 60 10-35    -   
-VA0077 15-25  UWB                      -       -      -      -   
-VA0317  0- 6  SIL                     0-  5  75- 95  7-27    -   
-VA0317  6-15  CNV-SIL CN-SIL CN-CL   15- 40  20- 60 10-35    -   
-VA0317 15-25  UWB                      -       -      -      -   
+VA0077  0- 9  CN-SIL CN-L            10- 25  65- 95  7-27    -   
+VA0077  0- 9  CNV-SIL CNV-L          25- 40  40- 65  7-27    -   
+VA0077  9-18  CNV-SIL CN-SIL CN-CL   15- 40  20- 60 10-35    -   
+VA0077 18-28  UWB                      -       -      -      -   
+VA0317  0- 9  SIL                     0-  5  75- 95  7-27    -   
+VA0317  9-18  CNV-SIL CN-SIL CN-CL   15- 40  20- 60 10-35    -   
+VA0317 18-28  UWB                      -       -      -      -   
 
 SOI-5  Depth    -pH-     O.M.  Salin  Permeab   Shnk-Swll
-VA0077  0- 6  3.6- 5.5  .5-2.  0- 0   2.0- 6.0  LOW      
-VA0077  0- 6  3.6- 5.5  .5-2.  0- 0   2.0- 6.0  LOW      
-VA0077  6-15  3.6- 5.5  0.-.5  0- 0   2.0- 6.0  LOW      
-VA0077 15-25     -        -     -    0.00-0.01           
-VA0317  0- 6  3.6- 5.5  .5-2.  0- 0   2.0- 6.0  LOW      
-VA0317  6-15  3.6- 5.5  0.-.5  0- 0   2.0- 6.0  LOW      
-VA0317 15-25     -        -     -    0.00-0.01            
+VA0077  0- 9  3.6- 5.5  .5-2.  0- 0   2.0- 6.0  LOW      
+VA0077  0- 9  3.6- 5.5  .5-2.  0- 0   2.0- 6.0  LOW      
+VA0077  9-18  3.6- 5.5  0.-.5  0- 0   2.0- 6.0  LOW      
+VA0077 18-28     -        -     -    0.00-0.01           
+VA0317  0- 9  3.6- 5.5  .5-2.  0- 0   2.0- 6.0  LOW      
+VA0317  9-18  3.6- 5.5  0.-.5  0- 0   2.0- 6.0  LOW      
+VA0317 18-28     -        -     -    0.00-0.01            
 
 National Cooperative Soil Survey
 U.S.A.

@@ -2,7 +2,7 @@ LOCATION MURVILLE               NC+FL
 
 Established Series
 Rev. AG
-07/1999
+10/2021
 
 MURVILLE SERIES
 
@@ -12,13 +12,13 @@ TAXONOMIC CLASS: Sandy, siliceous, thermic Umbric Endoaquods
 
 TYPICAL PEDON:  Murville fine sand--on a nearly level slope under pond pine with understory of gallberry, smilax, and canes.  (Colors are for moist soil unless otherwise stated.)
 
-     Oe--2 to 0 inches; partially decayed leaves, moss, and twigs.
+     Oe--0 to 2 inches; partially decayed leaves, moss, and twigs.
 
-     A--0 to 8 inches; black (N 2/) fine sand; weak fine granular structure; very friable; many roots; many clean quartz grains; loamy feel and appearance from organic matter; very strongly acid; clear wavy boundary.  (6 to 11 inches thick)
+     A--2 to 10 inches; black (N 2/) fine sand; weak fine granular structure; very friable; many roots; many clean quartz grains; loamy feel and appearance from organic matter; very strongly acid; clear wavy boundary.  (6 to 11 inches thick)
 
-     Bh--8 to 45 inches; black (10YR 2/1) fine sand; massive; very friable; few roots in upper portion; sand grains mostly have dark films or coatings; few clean quartz grains; loamy feel and appearance from organic matter; very strongly acid; gradual wavy boundary.  (24 to 45 inches thick)
+     Bh--10 to 47 inches; black (10YR 2/1) fine sand; massive; very friable; few roots in upper portion; sand grains mostly have dark films or coatings; few clean quartz grains; loamy feel and appearance from organic matter; very strongly acid; gradual wavy boundary.  (24 to 45 inches thick)
 
-     C--45 to 70 inches; pale brown (10YR 6/3) fine sand with thin strata of sandy loam and sandy clay loam;  single grained; loose; streaks of light gray (10YR 7/1); few old root channels; very strongly acid.
+     C--47 to 72 inches; pale brown (10YR 6/3) fine sand with thin strata of sandy loam and sandy clay loam;  single grained; loose; streaks of light gray (10YR 7/1); few old root channels; very strongly acid.
 
 TYPE LOCATION:  New Hanover County, North Carolina; about 0.5 mile north of junction of U.S.  Highway 421 and N.  C.  Highway 132, along N.  C.  132 and east 1600 feet along canal in wooded area.
 
@@ -50,13 +50,13 @@ MLRA SOIL SURVEY REGIONAL OFFICE (MO) RESPONSIBLE: Raleigh, North Carolina
 
 SERIES ESTABLISHED:  New Hanover County, North Carolina; 1973.
 
-REMARKS:  The Murville soils were formerly included in the Ridgeland series.  However, Ridgeland soils are in a mixed mineralogy family.  The April 1993 revision of this series changed the subgroup classification from Typic Haplaquods to Umbric Endoaquods.
+REMARKS:  The Murville soils were formerly included in the Ridgeland series.  However, Ridgeland soils are in a mixed mineralogy family.  The April 1993 revision of this series changed the subgroup classification from Typic Haplaquods to Umbric Endoaquods.  The soil horizon depths were modified on 10/2021 to make certain the description began at the soil surface.
 
 Diagnostic horizons and soil properties recognized in the typical pedon are:
 
-Umbric epipedon - the zone from the surface of the soil to a depth of 45 inches (A and Bh horizons)
+Umbric epipedon - the zone from the surface of the soil to a depth of 47 inches (A and Bh horizons)
 
-Spodic horizon - the zone from 8 to 45 inches (Bh horizon)
+Spodic horizon - the zone from 10 to 47 inches (Bh horizon)
 
 MLRA(S): 153A, 153B            SIR: NC0085
 
@@ -69,18 +69,18 @@ SOI-5  FloodL FloodH Watertable Kind   Months  Bedrock Hardness
 NC0085 NONE   RARE      -     APPARENT    -     60-60        
 
 SOI-5  Depth  Texture                3-Inch  No-10  Clay%   -CEC-
-NC0085  0- 8  FS S LFS                0-  0 100-100  2- 8   2- 11
-NC0085  0- 8  MK-S MK-LS MK-LFS       0-  0 100-100  2- 8   9- 22
-NC0085  8-45  FS S LFS                0-  0 100-100  2- 8   2- 10
-NC0085 45-56  FS S                    0-  0 100-100  2- 8   0-  4
-NC0085 56-70  VAR                      -       -      -      -   
+NC0085  0- 10  FS S LFS                0-  0 100-100  2- 8   2- 11
+NC0085  0- 10  MK-S MK-LS MK-LFS       0-  0 100-100  2- 8   9- 22
+NC0085  10-47  FS S LFS                0-  0 100-100  2- 8   2- 10
+NC0085 47-58  FS S                    0-  0 100-100  2- 8   0-  4
+NC0085 58-72  VAR                      -       -      -      -   
 
 SOI-5  Depth    -pH-     O.M.  Salin  Permeab   Shnk-Swll
-NC0085  0- 8  3.5- 5.5  2.-9.  0- 0   6.0-  20  LOW      
-NC0085  0- 8  3.5- 5.5  9.-15  0- 0   6.0-  20  LOW      
-NC0085  8-45  3.5- 5.5  2.-8.  0- 0   2.0- 6.0  LOW      
-NC0085 45-56  3.5- 5.5  0.-2.  0- 0   6.0-  20  LOW      
-NC0085 56-70     -        -     -        -                
+NC0085  0- 10  3.5- 5.5  2.-9.  0- 0   6.0-  20  LOW      
+NC0085  0- 10  3.5- 5.5  9.-15  0- 0   6.0-  20  LOW      
+NC0085  10-47  3.5- 5.5  2.-8.  0- 0   2.0- 6.0  LOW      
+NC0085 47-58  3.5- 5.5  0.-2.  0- 0   6.0-  20  LOW      
+NC0085 58-72     -        -     -        -                
 
 National Cooperative Soil Survey
 U.S.A.

@@ -2,7 +2,7 @@ LOCATION CHEAHA                 AL
 
 Established Series
 Rev. LDS:GWH 
-07/1999
+10/2021
 
 CHEAHA SERIES
 
@@ -12,15 +12,15 @@ TAXONOMIC CLASS: Fine-loamy, mixed, semiactive, thermic Typic Hapludults
 
 TYPICAL PEDON:  Cheaha stony silt loam--forested.  (Colors are for moist soil unless otherwise stated.)
 
-     01--1 to 0 inch; pine leaf residue.
+     0i--0 to 1 inch; pine leaf residue.
 
-     A--0 to 4 inches; dark brown (10YR 3/3) stony silt loam; moderate medium granular structure; friable; 25 percent sandstone cobbles and stones; many fine, medium, and large roots; very strongly acid; clear wavy boundary.  (3 to 5 inches thick)
+     A--1 to 5 inches; dark brown (10YR 3/3) stony silt loam; moderate medium granular structure; friable; 25 percent sandstone cobbles and stones; many fine, medium, and large roots; very strongly acid; clear wavy boundary.  (3 to 5 inches thick)
 
-     Bt1--4 to 23 inches; yellowish brown (10YR 5/6) stony silt loam; weak fine subangular blocky structure; friable; 25 percent sandstone cobbles and stones; common fine, medium, and large roots; common fine pores; thin discontinuous clay films on faces of peds; very strongly acid; gradual irregular boundary.  (10 to 20 inches thick)
+     Bt1--5 to 24 inches; yellowish brown (10YR 5/6) stony silt loam; weak fine subangular blocky structure; friable; 25 percent sandstone cobbles and stones; common fine, medium, and large roots; common fine pores; thin discontinuous clay films on faces of peds; very strongly acid; gradual irregular boundary.  (10 to 20 inches thick)
 
-     Bt2--23 to 35 inches; strong brown (7.5YR 5/8) stony clay loam; weak medium subangular blocky structure; friable; 25 percent sandstone cobbles and stones; few fine and medium roots; common fine pores; thin discontinuous clay films on faces of peds; very strongly acid; abrupt irregular boundary.  (7 to 15 inches thick)
+     Bt2--24 to 36 inches; strong brown (7.5YR 5/8) stony clay loam; weak medium subangular blocky structure; friable; 25 percent sandstone cobbles and stones; few fine and medium roots; common fine pores; thin discontinuous clay films on faces of peds; very strongly acid; abrupt irregular boundary.  (7 to 15 inches thick)
 
-     R--35 inches; hard sandstone bedrock.
+     R--36 inches; hard sandstone bedrock.
 
 TYPE LOCATION:  Cleburne County, Alabama; approximately 1/2 mile southeast of Cheaha State Park in the SE1/4SE1/4sec. 9, T. 18 S., R. 8 E.
 
@@ -46,7 +46,7 @@ MLRA SOIL SURVEY REGIONAL OFFICE (MO) RESPONSIBLE: Raleigh, North Carolina
 
 SERIES ESTABLISHED:  Cleburne County, Alabama, 1974.
 
-REMARKS:  Cheaha soils were formerly included in the Clymer series.  Data obtained from Auburn University indicate that Cheaha soils are in a fine-loamy textural family with mixed mineralogy.
+REMARKS:  Cheaha soils were formerly included in the Clymer series.  Data obtained from Auburn University indicate that Cheaha soils are in a fine-loamy textural family with mixed mineralogy.  The soil horizon depths were revised on 10/2021 to ensure the description began at the soil surface.
 
 Rev: RLV 5/97
 
@@ -59,16 +59,16 @@ SOI-5  FloodL FloodH Watertable Kind   Months  Bedrock Hardness
 AL0032 NONE          6.0-6.0              -     20-40   HARD 
 
 SOI-5  Depth  Texture                3-Inch  No-10  Clay%   -CEC-
-AL0032  0- 4  ST-L ST-SIL            19- 42  60- 90  7-20    -   
-AL0032  0- 4  ST-FSL ST-SL           19- 42  55- 85  7-20    -   
-AL0032  4-35  ST-SCL ST-CL ST-SIL    19- 42  60- 90 18-35    -   
-AL0032 35-80  UWB                      -       -      -      -   
+AL0032  0- 5  ST-L ST-SIL            19- 42  60- 90  7-20    -   
+AL0032  0- 5  ST-FSL ST-SL           19- 42  55- 85  7-20    -   
+AL0032  5-36  ST-SCL ST-CL ST-SIL    19- 42  60- 90 18-35    -   
+AL0032 36-81  UWB                      -       -      -      -   
 
 SOI-5  Depth    -pH-     O.M.  Salin  Permeab   Shnk-Swll
-AL0032  0- 4  4.5- 5.5  .5-2.  0- 0   2.0- 6.0  LOW      
-AL0032  0- 4  4.5- 5.5  .5-2.  0- 0   2.0- 6.0  LOW      
-AL0032  4-35  4.5- 5.5  0.-.5  0- 0   0.6- 2.0  LOW      
-AL0032 35-80     -        -     -    0.00- 0.2           
+AL0032  0- 5  4.5- 5.5  .5-2.  0- 0   2.0- 6.0  LOW      
+AL0032  0- 5  4.5- 5.5  .5-2.  0- 0   2.0- 6.0  LOW      
+AL0032  5-36  4.5- 5.5  0.-.5  0- 0   0.6- 2.0  LOW      
+AL0032 36-81     -        -     -    0.00- 0.2           
 
 National Cooperative Soil Survey
 U.S.A.

@@ -2,7 +2,7 @@ LOCATION GOLDSTON               NC+GA SC VA
 
 Established Series
 Rev. DJT:HS:DTA
-11/2007
+10/2021
 
 GOLDSTON SERIES
 
@@ -12,17 +12,17 @@ TAXONOMIC CLASS: Loamy-skeletal, siliceous, semiactive, thermic, shallow Typic D
 
 TYPICAL PEDON: Goldston very channery silt loam--forested.(Colors for moist soil unless otherwise stated.) 
 
-  0i--1 to 0 inch; undecomposed organic litter. 
+  0i--0 to 1 inch; undecomposed organic litter. 
 
-  A--0 to 1 inch; dark grayish brown (10YR 4/2) very channery silt loam; weak medium granular structure; friable; many fine and medium roots; slate fragments 1/4 inch to 3 inches in size comprise 40 percent by volume; very strongly acid; abrupt smooth boundary. (2 to 8 inches thick) 
+  A--1 to 2 inch; dark grayish brown (10YR 4/2) very channery silt loam; weak medium granular structure; friable; many fine and medium roots; slate fragments 1/4 inch to 3 inches in size comprise 40 percent by volume; very strongly acid; abrupt smooth boundary. (2 to 8 inches thick) 
 
-  E--1 to 7 inches; brown (10YR 5/3) very channery silt loam; weak medium granular structure; friable; many fine and medium roots; slate fragments 1/4 inch to 3 inches in size comprise 40 percent by volume; very strongly acid; abrupt wavy boundary. (0 to 8 inches thick) 
+  E--2 to 8 inches; brown (10YR 5/3) very channery silt loam; weak medium granular structure; friable; many fine and medium roots; slate fragments 1/4 inch to 3 inches in size comprise 40 percent by volume; very strongly acid; abrupt wavy boundary. (0 to 8 inches thick) 
 
-  Bw--7 to 16 inches; brownish yellow (10YR 6/6) very channery silt loam; weak medium subangular blocky structure; friable; common fine and medium roots; slate fragments 1/2 inch to 6 inches in size comprise 58 percent by volume; strongly acid; gradual wavy boundary. (6 to 12 inches thick) 
+  Bw--8 to 17 inches; brownish yellow (10YR 6/6) very channery silt loam; weak medium subangular blocky structure; friable; common fine and medium roots; slate fragments 1/2 inch to 6 inches in size comprise 58 percent by volume; strongly acid; gradual wavy boundary. (6 to 12 inches thick) 
 
-  Cr--16 to 36 inches; multicolored, weathered, fractured argillite; few seams of yellowish brown silt loam in cracks. 
+  Cr--17 to 37 inches; multicolored, weathered, fractured argillite; few seams of yellowish brown silt loam in cracks. 
 
-  R--36 inches; hard fractured argillite. 
+  R--37 inches; hard fractured argillite. 
 
 TYPE LOCATION: Stanly County, North Carolina; from intersection of U.S. Highway 52 and NC Highway 49 in Richfield, 2.8 miles southwest on NC Highway 49; 150 feet south of NC 49 and 600 feet east of Big Bear Creek. 
 
@@ -56,10 +56,11 @@ SERIES ESTABLISHED: Chatham County, North Carolina; 1933.
 
 REMARKS: The present concept excludes soils having hard bedrock at depths within 20 inches of the surface. 
 Diagnostic horizons and features recognized in this pedon are:
-Ochric epipedon - the zone from the soil surface to a depth of 7 inches.
-Cambic horizon - the zone between depths of 7 and 16 inches.
-Paralithic contact - the occurrence of weathered, fractured bedrock at a depth of 16 inches.
-Lithic contact - the occurrence of hard fractured bedrock at a depth of 36 inches. 
+Ochric epipedon - the zone from the soil surface to a depth of 8 inches.
+Cambic horizon - the zone between depths of 8 and 17 inches.
+Paralithic contact - the occurrence of weathered, fractured bedrock at a depth of 17 inches.
+Lithic contact - the occurrence of hard fractured bedrock at a depth of 37 inches. 
+Description depths were modified on 10/2021 to begin description at soil surface (O horizon).
 
 ADDITIONAL DATA: 
 
@@ -72,18 +73,18 @@ SOI-5  FloodL FloodH Watertable Kind Months  Bedrock Hardness
 NC0033 NONE          >6.0              -     10-20   SOFT
 
 SOI-5  Depth  Texture            3-Inch  No-10  Clay%  -CEC-
-NC0033  0- 7  CN-SIL CN-VFSL    10-20   50-80   5-27    1-7
-NC0033  0- 7  CNV-SIL CNV-VFSL  20-50   30-80   5-15    1-5
-NC0033  7-16  CNV-SIL CNV-VFSL  20-50   30-80   5-27    1-6
-NC0033 16-36  WB                  -       -      -       -
-NC0033 36-46  UWB                 -       -      -       -
+NC0033  0- 8  CN-SIL CN-VFSL    10-20   50-80   5-27    1-7
+NC0033  0- 8  CNV-SIL CNV-VFSL  20-50   30-80   5-15    1-5
+NC0033  8-17  CNV-SIL CNV-VFSL  20-50   30-80   5-27    1-6
+NC0033 17-37  WB                  -       -      -       -
+NC0033 37-47  UWB                 -       -      -       -
 
 SOI-5  Depth    -pH-     O.M.  Salin  Permeab   Shnk-Swll
-NC0033  0- 7  3.5- 5.5  .5-2.  0- 0   2.0- 6.0  LOW
-NC0033  0- 7  3.5- 5.5  .5-2.  0- 0   2.0- 6.0  LOW
-NC0033  7-16  3.5- 5.5  0.-.5  0- 0   2.0- 6.0  LOW
-NC0033 16-36     -        -     -        -
-NC0033 36-46     -        -     -        -
+NC0033  0- 8  3.5- 5.5  .5-2.  0- 0   2.0- 6.0  LOW
+NC0033  0- 8  3.5- 5.5  .5-2.  0- 0   2.0- 6.0  LOW
+NC0033  8-17  3.5- 5.5  0.-.5  0- 0   2.0- 6.0  LOW
+NC0033 17-37     -        -     -        -
+NC0033 37-47     -        -     -        -
 
 
 National Cooperative Soil Survey

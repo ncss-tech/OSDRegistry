@@ -2,7 +2,7 @@ LOCATION BREMO                  VA+NC
 
 Established Series
 Rev. DCH-JEW
-03/2000
+10/2021
 
 BREMO SERIES
 
@@ -12,17 +12,17 @@ TAXONOMIC CLASS: Loamy-skeletal, mixed, semiactive, mesic Typic Dystrudepts
 
 TYPICAL PEDON:  Bremo gravelly silt loam-forested (Colors are for moist soil.)
 
-    01--3 to 1 inches, forest litter of leaves and twigs.
+    Oi--0 to 2 inches, forest litter of leaves and twigs.
 
-    02--1 to 0 inches, dark gray (5Y 4/1) partially decomposed leaves, twigs, and roots of deciduous trees; medium acid.
+    Oe--2 to 3 inches, dark gray (5Y 4/1) partially decomposed leaves, twigs, and roots of deciduous trees; moderately acid.
 
-    A1--0 to 3 inches, dark yellowish brown (10YR 4/4) silt loam; weak fine granular structure; soft, very friable; many fine roots; few dark colored fragments of schist; medium acid; abrupt smooth boundary.  (1 to 4 inches thick)
+    A--3 to 6 inches, dark yellowish brown (10YR 4/4) silt loam; weak fine granular structure; soft, very friable; many fine roots; few dark colored fragments of schist; moderately acid; abrupt smooth boundary.  (1 to 4 inches thick)
 
-    B--10 to 17 inches, yellowish brown (10YR 5/8) very gravelly silt loam; few fine and medium distinct strong brown (7.5YR 5/6), black (10YR 2/1), and yellowish red (5YR 5/6) mottles and streaks; weak fine subangular blocky structure; slightly friable, slightly sticky, slightly plastic; few roots; few thin lenses of silty clay loam; 60 percent weathered fragments of hornblende schist; strongly acid; gradual irregular boundary.  (5 to 10 inches thick)
+    B--6 to 20 inches, yellowish brown (10YR 5/8) very gravelly silt loam; few fine and medium distinct strong brown (7.5YR 5/6), black (10YR 2/1), and yellowish red (5YR 5/6) mottles and streaks; weak fine subangular blocky structure; slightly friable, slightly sticky, slightly plastic; few roots; few thin lenses of silty clay loam; 60 percent weathered fragments of hornblende schist; strongly acid; gradual irregular boundary.  (5 to 10 inches thick)
 
-    C--17 to 25 inches, strong brown (7.5YR 5/6), yellowish brown (10YR 5/8), yellowish red (5YR 5/6), and green silt loam in crevices between rock fragments; massive; few flakes of mica; few white crystals of feldspar; 80 fragments of hornblende schist; strongly acid; diffuse irregular boundary.  (8 to 16 inches thick)
+    C--20 to 28 inches, strong brown (7.5YR 5/6), yellowish brown (10YR 5/8), yellowish red (5YR 5/6), and green silt loam in crevices between rock fragments; massive; few flakes of mica; few white crystals of feldspar; 80 fragments of hornblende schist; strongly acid; diffuse irregular boundary.  (8 to 16 inches thick)
 
-    R--25 inches, hard, dark colored hornblende schist.
+    R--28 inches, hard, dark colored hornblende schist.
 
 TYPE LOCATION:  Fluvanna County, Virginia; 1/2 mile west of Shepherd's Store, 200 yards north of Highway 27.
 
@@ -44,12 +44,13 @@ DRAINAGE AND PERMEABILITY:  Somewhat excessively drained; medium to high runoff;
 
 USE AND VEGETATION:  About 75 percent of the Bremo soils are forested, 15 percent in pasture land, and 10 percent in crop land.  Principal crops are corn, small grain,  dark tobacco, and mixed hay.  The native vegetation is red, black, white and scarlet oaks, hickory, dogwood, Virginia and shortleaf pines, and redbud.
 
-
 DISTRIBUTION AND EXTENT:  Virginia, Alabama, and possibly South Carolina, and Georgia.  The series is of moderate extent.
 
 MLRA SOIL SURVEY REGIONAL OFFICE (MO) RESPONSIBLE: Raleigh, North Carolina
 
 SERIES ESTABLISHED:  Fluvanna County, Virginia 1949.
+
+REMARKS:  The soil horizon depths were revised on 10/2021 to ensure the description began at the soil surface.
 
 TABULAR SERIES DATA:
 
@@ -62,24 +63,24 @@ VA0041 NONE          6.0-6.0              -     20-40   HARD
 VA0236 NONE          6.0-6.0              -     20-40   HARD 
 
 SOI-5  Depth  Texture                3-Inch  No-10  Clay%   -CEC-
-VA0041  0-10  SIL L                   0-  5  75- 90  5-15    -   
-VA0041 10-17  GRV-SIL GRV-L GR-SIL    0- 15  30- 75  5-18    -   
-VA0041 17-25  GRV-SIL GRV-L GR-SL     0- 25  25- 50  2-15    -   
-VA0041 25-35  UWB                      -       -      -      -   
-VA0236  0-10  GR-SIL GR-L             0-  5  45- 75  5-15    -   
-VA0236 10-17  GRV-SIL GRV-L GR-SIL    0- 15  30- 75  5-18    -   
-VA0236 17-25  GRV-SIL GRV-L GR-SL     0- 25  25- 50  2-15    -   
-VA0236 25-35  UWB                      -       -      -      -   
+VA0041  0-6  SIL L                   0-  5  75- 90  5-15    -   
+VA0041 6-20  GRV-SIL GRV-L GR-SIL    0- 15  30- 75  5-18    -   
+VA0041 20-28  GRV-SIL GRV-L GR-SL     0- 25  25- 50  2-15    -   
+VA0041 28-38  UWB                      -       -      -      -   
+VA0236  0-6  GR-SIL GR-L             0-  5  45- 75  5-15    -   
+VA0236 6-20  GRV-SIL GRV-L GR-SIL    0- 15  30- 75  5-18    -   
+VA0236 20-28  GRV-SIL GRV-L GR-SL     0- 25  25- 50  2-15    -   
+VA0236 28-38  UWB                      -       -      -      -   
 
 SOI-5  Depth    -pH-     O.M.  Salin  Permeab   Shnk-Swll
-VA0041  0-10  5.1- 6.5  .5-1.  0- 0   0.6- 6.0  LOW      
-VA0041 10-17  5.1- 6.5  0.-.5  0- 0   0.6- 6.0  LOW      
-VA0041 17-25  5.1- 6.5  0.-.5  0- 0   0.6- 6.0  LOW      
-VA0041 25-35     -        -     -    0.00-0.01           
-VA0236  0-10  5.1- 6.5  .5-1.  0- 0   0.6- 6.0  LOW      
-VA0236 10-17  5.1- 6.5  0.-.5  0- 0   0.6- 6.0  LOW      
-VA0236 17-25  5.1- 6.5  0.-.5  0- 0   0.6- 6.0  LOW      
-VA0236 25-35     -        -     -    0.00-0.01            
+VA0041  0-6  5.1- 6.5  .5-1.  0- 0   0.6- 6.0  LOW      
+VA0041 6-20  5.1- 6.5  0.-.5  0- 0   0.6- 6.0  LOW      
+VA0041 20-28  5.1- 6.5  0.-.5  0- 0   0.6- 6.0  LOW      
+VA0041 28-38     -        -     -    0.00-0.01           
+VA0236  0-6  5.1- 6.5  .5-1.  0- 0   0.6- 6.0  LOW      
+VA0236 6-20  5.1- 6.5  0.-.5  0- 0   0.6- 6.0  LOW      
+VA0236 20-28  5.1- 6.5  0.-.5  0- 0   0.6- 6.0  LOW      
+VA0236 28-38     -        -     -    0.00-0.01            
 
 National Cooperative Soil Survey
 U.S.A.

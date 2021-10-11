@@ -2,7 +2,7 @@ LOCATION NASON                  VA
 
 Established Series
 Rev. DDR-BES
-03/2000
+10/2021
 
 NASON SERIES
 
@@ -12,23 +12,23 @@ TAXONOMIC CLASS: Fine, mixed, semiactive, thermic Typic Hapludults
 
 TYPICAL PEDON:  Nason silt loam - mixed hardwood forest (Colors are for moist soil)
 
-    Oi-1 to 0 inch, partially decomposed deciduous forest litter of leaves and twigs, and partially decomposed organic matter.
+    Oi--0 to 1 inch, partially decomposed deciduous forest litter of leaves and twigs, and partially decomposed organic matter.
 
-    A--0 to 1 inch, very dark grayish brown (10YR 3/2) silt loam; weak fine granular structure; very friable; many fine roots; strongly acid; abrupt smooth boundary.  (0 to 7 inches thick)
+    A--1 to 2 inch, very dark grayish brown (10YR 3/2) silt loam; weak fine granular structure; very friable; many fine roots; strongly acid; abrupt smooth boundary.  (0 to 7 inches thick)
 
-    E-1 to 9 inches, yellowish brown (10YR 5/4) silt loam; moderate fine granular structure; friable; many fine and medium roots; very strongly acid; clear smooth boundary.  (0 to 9 inches thick)
+    E--2 to 10 inches, yellowish brown (10YR 5/4) silt loam; moderate fine granular structure; friable; many fine and medium roots; very strongly acid; clear smooth boundary.  (0 to 9 inches thick)
 
-    Bt1--9 to 15 inches, yellowish brown (10YR 5/8) silty clay loam; weak fine subangular blocky structure; friable, slightly plastic; slightly sticky; common medium and large roots; few fine faint clay films on faces of peds; 5 percent quartz gravel; very strongly acid; clear smooth boundary.
+    Bt1--10 to 16 inches, yellowish brown (10YR 5/8) silty clay loam; weak fine subangular blocky structure; friable, slightly plastic; slightly sticky; common medium and large roots; few fine faint clay films on faces of peds; 5 percent quartz gravel; very strongly acid; clear smooth boundary.
 
-    Bt2--15 to 20 inches, strong brown (7.5YR 5/8) silty clay; moderate fine medium subangular blocky structure; friable, slightly plastic, slightly sticky; common medium roots; few fine distinct clay films on faces of peds; 5 percent quartz gravel; very strongly acid; gradual wavy boundary.  
+    Bt2--16 to 21 inches, strong brown (7.5YR 5/8) silty clay; moderate fine medium subangular blocky structure; friable, slightly plastic, slightly sticky; common medium roots; few fine distinct clay films on faces of peds; 5 percent quartz gravel; very strongly acid; gradual wavy boundary.  
 
-    Bt3-20 to 28 inches, yellowish red (5YR 4/8) silty clay; few fine faint strong brown (7.5YR 5/6) mottles consisting of highly weathered remnants of parent material; moderate fine and medium subangular blocky structure; friable, slightly plastic, slightly sticky; common medium distinct clay films on faces of peds; 5 percent weathered fragments of schist; very strongly acid; gradual wavy boundary.
+    Bt3--21 to 29 inches, yellowish red (5YR 4/6) silty clay; few fine faint strong brown (7.5YR 5/6) mottles consisting of highly weathered remnants of parent material; moderate fine and medium subangular blocky structure; friable, slightly plastic, slightly sticky; common medium distinct clay films on faces of peds; 5 percent weathered fragments of schist; very strongly acid; gradual wavy boundary.
 
-Bt4-28 to 38 inches, yellowish red (5YR 4/6) channery silty clay loam; few medium distinct strong brown (7.5YR 5/6), reddish yellow (7.5YR 6/6) and red (2.5YR 5/6) mottles consisting of highly weathered remnants of parent material; weak fine subangular blocky structure; friable, slightly plastic, slightly sticky; few medium distinct clay films on faces of peds; 25 percent weathered fragments of schist; very strongly acid; irregular boundary.  (Combined thickness of the Bt horizon ranges from 15 to 45 inches)
+  Bt4--29 to 39 inches, yellowish red (5YR 4/6) channery silty clay loam; few medium distinct strong brown (7.5YR 5/6), reddish yellow (7.5YR 6/6) and red (2.5YR 5/6) mottles consisting of highly weathered remnants of parent material; weak fine subangular blocky structure; friable, slightly plastic, slightly sticky; few medium distinct clay films on faces of peds; 25 percent weathered fragments of schist; very strongly acid; irregular boundary.  (Combined thickness of the Bt horizon ranges from 15 to 45 inches)
 
-    C--38 to 50 inches, mottled yellowish red (5YR 4/6), red (2.5YR 5/6) and strong brown (7.5YR 5/6) channery silt loam saprolite; massive; firm in place; 25 percent weathered fragments of schist; very strongly acid; irregular boundary.  (0 to 20 inches thick)
+    C--39 to 51 inches, mottled yellowish red (5YR 4/6), red (2.5YR 5/6) and strong brown (7.5YR 5/6) channery silt loam saprolite; massive; firm in place; 25 percent weathered fragments of schist; very strongly acid; irregular boundary.  (0 to 20 inches thick)
 
-    Cr--50 to 62 inches, weathered, partially consolidated fractured sericite schist that can be dug with difficulty with a spade.
+    Cr--51 to 63 inches, weathered, partially consolidated fractured sericite schist that can be dug with difficulty with a spade.
 
 TYPE LOCATION:  Orange County, Virginia; 2 miles north of Rhoadesville; east of Highway 621 in hardwood forest. 
 
@@ -68,11 +68,13 @@ SERIES ESTABLISHED:  Orange County, Virginia, 1927.
 
 REMARKS:  Diagnostic horizons and features recognized in this pedon are:
 
-Ochric epipedon - the zone from 0 to 9 inches (A and E horizons) 
+Ochric epipedon - the zone from 0 to 10 inches (A and E horizons) 
 
-Argillic horizon - the zone from 9 to 28 inches (Bt horizons) 
+Argillic horizon - the zone from 10 to 29 inches (Bt horizons) 
 
-Paralithic contact at 50 inches.
+Paralithic contact at 51 inches.
+
+Revised 10/2021 to ensure soil horizons and description began at the soil surface.
 
 SIR = VA0012, VA0144 (GRAVELLY) 
 
@@ -91,30 +93,30 @@ VA0012 NONE          6.0-6.0              -     40-60   SOFT
 VA0144 NONE          6.0-6.0              -     40-60   SOFT 
 
 SOI-5  Depth  Texture                3-Inch  No-10  Clay%   -CEC-
-VA0012  0- 9  L SIL                   0-  5  75-100 10-27    -   
-VA0012  0- 9  VFSL FSL                0-  5  65-100  5-20    -   
-VA0012  0- 9  SICL CL                 0-  5  75-100 27-40    -   
-VA0012  9-38  SICL SIC C              0-  5  75-100 35-50    -   
-VA0012 38-50  CN-SIL SIL L            0-  5  45- 75 10-25    -   
-VA0012 50-60  WB                       -       -      -      -   
-VA0144  0- 9  GR-L GR-SIL GR-FSL      0- 10  55- 75  6-12    -   
-VA0144  0- 9  GR-SICL                 0- 10  55- 75 28-35    -   
-VA0144  9-38  SICL SIC C              0-  5  75-100 28-53    -   
-VA0144 38-50  CN-SIL SIL SICL         0-  5  50- 75 10-35    -   
-VA0144 50-60  WB                       -       -      -      -   
+VA0012  0- 10  L SIL                   0-  5  75-100 10-27    -   
+VA0012  0- 10  VFSL FSL                0-  5  65-100  5-20    -   
+VA0012  0- 10  SICL CL                 0-  5  75-100 27-40    -   
+VA0012  10-39  SICL SIC C              0-  5  75-100 35-50    -   
+VA0012 39-51  CN-SIL SIL L            0-  5  45- 75 10-25    -   
+VA0012 51-63  WB                       -       -      -      -   
+VA0144  0- 10  GR-L GR-SIL GR-FSL      0- 10  55- 75  6-12    -   
+VA0144  0- 10  GR-SICL                 0- 10  55- 75 28-35    -   
+VA0144  10-39  SICL SIC C              0-  5  75-100 28-53    -   
+VA0144 39-51  CN-SIL SIL SICL         0-  5  50- 75 10-35    -   
+VA0144 51-63  WB                       -       -      -      -   
 
 SOI-5  Depth    -pH-     O.M.  Salin  Permeab   Shnk-Swll
-VA0012  0- 9  4.5- 6.5  1.-3.  0- 0   0.6- 2.0  LOW      
-VA0012  0- 9  4.5- 6.5  1.-3.  0- 0   0.6- 2.0  LOW      
-VA0012  0- 9  4.5- 6.5  1.-3.  0- 0   0.6- 2.0  LOW      
-VA0012  9-38  4.5- 5.5  0.-.5  0- 0   0.6- 2.0  MODERATE 
-VA0012 38-50  4.5- 5.5  0.-.5  0- 0   0.6- 2.0  LOW      
-VA0012 50-60     -        -     -    0.00-0.06           
-VA0144  0- 9  4.5- 6.5  2.-5.  0- 0   0.6- 2.0  LOW      
-VA0144  0- 9  4.5- 6.5  2.-5.  0- 0   0.6- 2.0  LOW      
-VA0144  9-38  4.5- 5.5  0.-.5  0- 0   0.6- 2.0  MODERATE 
-VA0144 38-50  4.5- 5.5  0.-.5  0- 0   0.6- 2.0  LOW      
-VA0144 50-60     -        -     -    0.00-0.06            
+VA0012  0- 10  4.5- 6.5  1.-3.  0- 0   0.6- 2.0  LOW      
+VA0012  0- 10  4.5- 6.5  1.-3.  0- 0   0.6- 2.0  LOW      
+VA0012  0- 10  4.5- 6.5  1.-3.  0- 0   0.6- 2.0  LOW      
+VA0012  10-39  4.5- 5.5  0.-.5  0- 0   0.6- 2.0  MODERATE 
+VA0012 39-51  4.5- 5.5  0.-.5  0- 0   0.6- 2.0  LOW      
+VA0012 51-63     -        -     -    0.00-0.06           
+VA0144  0- 10  4.5- 6.5  2.-5.  0- 0   0.6- 2.0  LOW      
+VA0144  0- 10  4.5- 6.5  2.-5.  0- 0   0.6- 2.0  LOW      
+VA0144  10-39  4.5- 5.5  0.-.5  0- 0   0.6- 2.0  MODERATE 
+VA0144 39-51  4.5- 5.5  0.-.5  0- 0   0.6- 2.0  LOW      
+VA0144 51-63     -        -     -    0.00-0.06            
 
 National Cooperative Soil Survey
 U.S.A.

@@ -2,7 +2,7 @@ LOCATION GRANVILLE              NC+VA
 
 Established Series
 Rev. RMK:ENH:DTA
-07/1999
+10/2021
 
 GRANVILLE SERIES
 
@@ -12,21 +12,21 @@ TAXONOMIC CLASS: Fine-loamy, siliceous, semiactive, thermic Typic Hapludults
 
 TYPICAL PEDON:  Granville sandy loam on a SW slope of 2 percent under mixed hardwoods at 325 feet elevation.  (Colors are for moist soil unless otherwise stated.)
 
-     Oe--1 to 0 inches; very dark brown layer of partially decomposed hardwood leaves and mold mixed with small amounts of mineral soil.
+     Oe--0 to 1 inches; very dark brown layer of partially decomposed hardwood leaves and mold mixed with small amounts of mineral soil.
 
-     A--0 to 3 inches; grayish brown (2.5Y 5/2) sandy loam; weak fine granular structure; very friable; many medium and large roots; strongly acid; abrupt smooth boundary.  (1 to 8 inches thick)
+     A--1 to 4 inches; grayish brown (2.5Y 5/2) sandy loam; weak fine granular structure; very friable; many medium and large roots; strongly acid; abrupt smooth boundary.  (1 to 8 inches thick)
 
-     E--3 to 16 inches; light yellowish brown (2.5Y 6/4) sandy loam; weak fine granular structure; very friable; many fine and medium roots; strongly acid; clear smooth boundary.  (0 to 15 inches thick)
+     E--4 to 17 inches; light yellowish brown (2.5Y 6/4) sandy loam; weak fine granular structure; very friable; many fine and medium roots; strongly acid; clear smooth boundary.  (0 to 15 inches thick)
 
-     Bt1--16 to 22 inches; olive yellow (2.5Y 6/6) sandy clay loam; weak medium subangular blocky structure; friable, slightly sticky, slightly plastic; common fine and medium roots; many fine pores; few faint clay films on faces of peds; strongly acid; clear smooth boundary.
+     Bt1--17 to 23 inches; olive yellow (2.5Y 6/6) sandy clay loam; weak medium subangular blocky structure; friable, slightly sticky, slightly plastic; common fine and medium roots; many fine pores; few faint clay films on faces of peds; strongly acid; clear smooth boundary.
 
-     Bt2--22 to 27 inches; brownish yellow (10YR 6/6) sandy clay loam; moderate medium subangular blocky structure; friable, sticky; slightly plastic; common fine and medium roots; common fine pores; few faint clay films on faces of peds; strongly acid; gradual smooth boundary.
+     Bt2--23 to 28 inches; brownish yellow (10YR 6/6) sandy clay loam; moderate medium subangular blocky structure; friable, sticky; slightly plastic; common fine and medium roots; common fine pores; few faint clay films on faces of peds; strongly acid; gradual smooth boundary.
 
-     Bt3--27 to 37 inches; brownish yellow (10YR 6/6) sandy clay loam; common medium faint pale brown (10YR 6/3) and common medium distinct yellowish red (5YR 5/8) mottles; moderate medium subangular blocky structure; friable, sticky, slightly plastic; common fine pores; few faint clay films on faces of peds; few medium quartz pebbles; strongly acid; gradual smooth boundary.
+     Bt3--28 to 38 inches; brownish yellow (10YR 6/6) sandy clay loam; common medium faint pale brown (10YR 6/3) and common medium distinct yellowish red (5YR 5/8) mottles; moderate medium subangular blocky structure; friable, sticky, slightly plastic; common fine pores; few faint clay films on faces of peds; few medium quartz pebbles; strongly acid; gradual smooth boundary.
 
-     Bt4--37 to 45 inches; brownish yellow (10YR 6/6) sandy clay loam; common medium faint pale brown (10YR 6/3) and common medium prominent yellowish red (5YR 5/8) mottles; weak medium subangular blocky structure; friable; sticky; slightly plastic; few medium quartz pebbles; few distinct clay films on faces of peds; strongly acid; gradual smooth boundary.  (Combined thickness of subhorizons of the Bt is 24 to 40 inches.)
+     Bt4--38 to 46 inches; brownish yellow (10YR 6/6) sandy clay loam; common medium faint pale brown (10YR 6/3) and common medium prominent yellowish red (5YR 5/8) mottles; weak medium subangular blocky structure; friable; sticky; slightly plastic; few medium quartz pebbles; few distinct clay films on faces of peds; strongly acid; gradual smooth boundary.  (Combined thickness of subhorizons of the Bt is 24 to 40 inches.)
 
-     C--45 to 60 inches; brownish yellow (10YR 6/6) sandy clay loam saprolite; common coarse faint pale brown (10YR 6/3), common medium prominent yellowish red (5YR 5/8) and red (2.5YR 4/8) mottles; massive; friable; sticky; slightly plastic; few medium quartz gravel; strongly acid.
+     C--46 to 61 inches; brownish yellow (10YR 6/6) sandy clay loam saprolite; common coarse faint pale brown (10YR 6/3), common medium prominent yellowish red (5YR 5/8) and red (2.5YR 4/8) mottles; massive; friable; sticky; slightly plastic; few medium quartz gravel; strongly acid.
 
 TYPE LOCATION:  Durham County, North Carolina; 1.4 miles northeast of Little River, 110 feet east of old North Carolina highway.
 
@@ -64,9 +64,11 @@ REMARKS:  The date of this revision is May, 1988.
 
 Diagnostic horizons recognized in the pedon are:
 
-Ochric epipedon - The zone from the surface of the mineral soil to a depth of 16 inches (A and E horizons).
+Ochric epipedon - The zone from the surface of the mineral soil to a depth of 17 inches (O, A and E horizons).
 
-Argillic horizon - The zone from 16 inches to a depth of 45 inches.
+Argillic horizon - The zone from 17 inches to a depth of 46 inches.
+
+The soil horizon depths were revised to ensure the description began at the soil surface.
 
 ADDITIONAL DATA:  Coleman, N.R.; Weed, S.B.; McCraken, R.J., 1959.  Cation exchange capacity and exchangeable cations in Piedmont soils of North Carolina.  Soil Sci. Soc. Am. Proc. 23:146-149.
 
@@ -78,14 +80,19 @@ NC0081 GRANVILLE   0- 10   58- 65  180-220  42- 55   300- 450
 
 SOI-5  FloodL FloodH Watertable Kind   Months  Bedrock Hardness NC0081 NONE          6.0-6.0              -     60-60
 
-SOI-5  Depth  Texture                3-Inch  No-10  Clay%   -CEC- NC0081  0-16  LS COSL                 0-  3  95-100  4-12   1-  3 NC0081  0-16  SL FSL                  0-  3  89- 99  8-18   2-  6 NC0081  0-16  GR-SL GR-COSL GR-LS     0-  5  60- 80  4-18   1-  5 NC0081 16-45  CL SCL                  0-  3  96-100 18-35   4-  8 NC0081 45-60  SL L SCL                0-  3  80- 98  8-25   2-  6
+SOI-5  Depth  Texture   3-Inch  No-10  Clay%   -CEC
+NC0081  0-17  LS COSL 0-  3  95-100  4-12         1-  3
+NC0081  0-17  SL FSL     0-  3  89- 99  8-18        2-  6
+NC0081  0-17  GR-SL GR-COSL GR-LS  0-  5  60- 80  4-18   1-  5
+NC0081 17-46  CL SCL    0-  3  96-100 18-35     4-  8
+NC0081 46-61  SL L SCL 0-  3  80- 98  8-25   2-  6
 
 SOI-5  Depth    -pH-     O.M.  Salin  Permeab   Shnk-Swll
-NC0081  0-16  4.5- 5.5  .5-1.  0- 0   2.0- 6.0  LOW
-NC0081  0-16  4.5- 5.5  .5-2.  0- 0   2.0- 6.0  LOW
-NC0081  0-16  4.5- 5.5  .5-1.  0- 0   2.0- 6.0  LOW
-NC0081 16-45  4.5- 5.5  0.-.5  0- 0   0.6- 2.0  LOW
-NC0081 45-60  4.5- 5.5  0.-.5  0- 0   0.6- 2.0  LOW
+NC0081  0-17  4.5- 5.5  .5-1.  0- 0   2.0- 6.0  LOW
+NC0081  0-17  4.5- 5.5  .5-2.  0- 0   2.0- 6.0  LOW
+NC0081  0-17  4.5- 5.5  .5-1.  0- 0   2.0- 6.0  LOW
+NC0081 17-46  4.5- 5.5  0.-.5  0- 0   0.6- 2.0  LOW
+NC0081 46-61  4.5- 5.5  0.-.5  0- 0   0.6- 2.0  LOW
 
 National Cooperative Soil Survey
 U.S.A.

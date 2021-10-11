@@ -2,7 +2,7 @@ LOCATION LOUISA                 GA+AL NC SC VA
 
 Established Series
 Rev. LWF: RLV/RHB
-05/2006
+10/2021
 
 LOUISA SERIES
 
@@ -12,19 +12,19 @@ TAXONOMIC CLASS: Loamy, micaceous, thermic, shallow Typic Dystrudepts
 
 TYPICAL PEDON: Louisa gravelly loam--forested. (Colors are for moist soil unless otherwise stated.) 
 
- 0i--3 to 1 inch; fresh hardwood litter. 
+ 0i--0 to 2 inch; fresh hardwood litter. 
 
- 0e--1 to 0 inch; partly decomposed hardwood litter. 
+ 0e--2 to 3 inch; partly decomposed hardwood litter. 
 
- A--0 to 4 inches; very dark grayish brown (10YR 3/2) gravelly loam; weak medium granular structure; very friable; many fine and medium roots; many fine and medium flakes of mica; about 20 percent fragments of quartz and schist; moderately acid; clear smooth boundary. (2 to 6 inches thick) 
+ A--3 to 7 inches; very dark grayish brown (10YR 3/2) gravelly loam; weak medium granular structure; very friable; many fine and medium roots; many fine and medium flakes of mica; about 20 percent fragments of quartz and schist; moderately acid; clear smooth boundary. (2 to 6 inches thick) 
 
- Bw--4 to 8 inches; brown (10YR 4/3) gravelly loam; weak medium granular structure; very friable; many fine and medium roots; few coarse roots; many fine and medium flakes of mica; 20 percent fragments of quartz and schist; strongly acid; clear smooth boundary. 
+ Bw--7 to 11 inches; brown (10YR 4/3) gravelly loam; weak medium granular structure; very friable; many fine and medium roots; few coarse roots; many fine and medium flakes of mica; 20 percent fragments of quartz and schist; strongly acid; clear smooth boundary. 
 
- Bw/Bt--8 to 12 inches; brown (7.5YR 4/4) gravelly loam; weak medium granular and subangular blocky structure; friable; common medium and coarse roots; many fine and medium flakes of mica; about 20 percent fragments of quartz and schist; small pockets of clay loam in lower part between tilted layers of broken schist extending from C horizon, make up about 15 percent by volume; strongly acid; clear wavy boundary.  (The combined thickness of the B horizon is 6 to 15 inches) 
+ Bw/Bt--11 to 15 inches; brown (7.5YR 4/4) gravelly loam; weak medium granular and subangular blocky structure; friable; common medium and coarse roots; many fine and medium flakes of mica; about 20 percent fragments of quartz and schist; small pockets of clay loam in lower part between tilted layers of broken schist extending from C horizon, make up about 15 percent by volume; strongly acid; clear wavy boundary.  (The combined thickness of the B horizon is 6 to 15 inches) 
 
- C--12 to 18 inches; olive gray (5Y 4/2) very channery loam; many fragments of schist have thin discontinuous clay films on surface; few small pockets of clay loam are between tilted layers of schist; very strongly acid; gradual irregular boundary. (0 to 8 inches thick) 
+ C--15 to 21 inches; olive gray (5Y 4/2) very channery loam; many fragments of schist have thin discontinuous clay films on surface; few small pockets of clay loam are between tilted layers of schist; very strongly acid; gradual irregular boundary. (0 to 8 inches thick) 
 
- Cr--18 to 60 inches; weathered olive gray (5Y 4/2) mica schist, with varying degrees of hardness. 
+ Cr--21 to 63 inches; weathered olive gray (5Y 4/2) mica schist, with varying degrees of hardness. 
 
 TYPE LOCATION: Carroll County, Georgia; 1.5 miles north of Temple, on Georgia Highway 113; 50 yards west of highway. 
 
@@ -56,10 +56,11 @@ MLRA SOIL SURVEY REGIONAL OFFICE (MO) RESPONSIBLE: Raleigh, North Carolina
 SERIES ESTABLISHED: Campbell County, Virginia; 1909. 
 
 REMARKS: Diagnostic horizons and features recognized in this pedon are: 
-Ochric epipedon - the zone from the surface to approximately 4 inches (A horizon) 
-Cambic horizon - the zone from approximately 4 to 12 inches (Bw and Bw/Bt horizons) This zone has an argillic horizon in 10 to 40 percent of the pedon. 
-Shallow feature - the paralithic contact at approximately 18 inches (Top of the Cr horizon) 
-Revised 1/93.  2006 revision reclassifies Louisa as Typic Dystrudepts to better fit the central concept of the series..
+Ochric epipedon - the zone from the surface to approximately 7 inches (A horizon) 
+Cambic horizon - the zone from approximately 7 to 15 inches (Bw and Bw/Bt horizons) This zone has an argillic horizon in 10 to 40 percent of the pedon. 
+Shallow feature - the paralithic contact at approximately 21 inches (Top of the Cr horizon) 
+Revised 1/93.  2006 revision reclassifies Louisa as Typic Dystrudepts to better fit the central concept of the series.
+Revised soil horizon depths to ensure description began at the soil surface.
 
 SIR = GA0041 
 
@@ -74,18 +75,18 @@ SOI-5 FloodL FloodH Watertable Kind Months Bedrock Hardness
 GA0041 NONE 	   6.0-6.0    -           10-20   SOFT 
 
 SOI-5 Depth Texture           3-Inch No-10 Clay% -CEC-
-GA0041 0- 4 GR-L GR-SL GR-FSL 0- 5  60- 75 10-25   - 
-GA0041 0- 4 L SL FSL          0- 0  75- 95 10-25   - 
-GA0041 4-12 GR-L GR-SL        0- 5  60- 80 12-27   - 
-GA0041 12-18 CNV-L CN-L      25- 40 60- 70 10-25   - 
-GA0041 18-60 WB                -       -     -     - 
+GA0041 0- 7 GR-L GR-SL GR-FSL 0- 5  60- 75 10-25   - 
+GA0041 0- 7 L SL FSL          0- 0  75- 95 10-25   - 
+GA0041 7-15 GR-L GR-SL        0- 5  60- 80 12-27   - 
+GA0041 15-21 CNV-L CN-L      25- 40 60- 70 10-25   - 
+GA0041 21-63 WB                -       -     -     - 
 
 SOI-5 	Depth 	-pH- 		O.M. 	Salin 	Permeab 	Shnk-Swll
-GA0041 	0- 4 	    4.5- 6.0      .5-2. 0- 0 		2.0- 6.0 	LOW 
-GA0041 	0- 4 	    4.5- 6.0 	.5-2. 0- 0 		2.0- 6.0 	LOW 
-GA0041 	4-12 	    4.5- 6.0 	  - 	0- 0 		2.0- 6.0 	LOW 
-GA0041 	12-18     4.5- 6.0 	  - 	0- 0 		2.0- 6.0 	LOW 
-GA0041 	18-60        -     	  - 	 - 		0.00-0.06 
+GA0041 	0- 7 	    4.5- 6.0      .5-2. 0- 0 		2.0- 6.0 	LOW 
+GA0041 	0- 7 	    4.5- 6.0 	.5-2. 0- 0 		2.0- 6.0 	LOW 
+GA0041 	7-15 	    4.5- 6.0 	  - 	0- 0 		2.0- 6.0 	LOW 
+GA0041 	15-21     4.5- 6.0 	  - 	0- 0 		2.0- 6.0 	LOW 
+GA0041 	21-63        -     	  - 	 - 		0.00-0.06 
 
 National Cooperative Soil Survey
 U.S.A.

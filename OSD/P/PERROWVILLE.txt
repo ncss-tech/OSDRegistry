@@ -2,7 +2,7 @@ LOCATION PERROWVILLE            VA
 
 Tentative Series
 Rev. RJH
-01/2019
+10/2021
 
 PERROWVILLE SERIES 
 
@@ -31,21 +31,21 @@ TAXONOMIC CLASS: Coarse-loamy, micaceous, mesic Typic Dystrudepts
 
 TYPICAL PEDON: Perrowville fine sandy loam on a 25 to 60 percent slope in woodland. (Colors are for moist soil.)
 
-   Oi--3 inches to 0; loose leaves, twigs, and partly decomposed organic material.
+   Oi--0 to 1 inches; loose leaves, twigs, and partly decomposed organic material.
 
-   A1--0 to 2 inches; very dark grayish brown (10YR 3/2) fine sandy loam; moderate fine granular structure; soft, very friable, slightly sticky and nonplastic; many fine and few medium roots; 5 percent quartz gravel; common medium flakes of mica; strongly acid; abrupt wavy boundary.
+   A1--1 to 3 inches; very dark grayish brown (10YR 3/2) fine sandy loam; moderate fine granular structure; soft, very friable, slightly sticky and nonplastic; many fine and few medium roots; 5 percent quartz gravel; common medium flakes of mica; strongly acid; abrupt wavy boundary.
 
-   A2--2 to 5 inches; dark brown (10YR 3/3) fine sandy loam; weak fine granular structure; soft, very friable, slightly sticky and nonplastic; many fine and few medium and coarse roots; 10 percent quartz gravel; common medium flakes of mica; strongly acid; clear wavy boundary.
+   A2--3 to 6 inches; dark brown (10YR 3/3) fine sandy loam; weak fine granular structure; soft, very friable, slightly sticky and nonplastic; many fine and few medium and coarse roots; 10 percent quartz gravel; common medium flakes of mica; strongly acid; clear wavy boundary.
 
-   Bw1--5 to 11 inches; dark yellowish brown (10YR 4/4) fine sandy loam; weak medium subangular blocky structure; soft, very friable, slightly sticky and nonplastic; many fine and few medium and coarse roots; 10 percent quartz gravel; 2 percent quartz cobbles; many medium flakes of mica; strongly acid; clear wavy boundary.
+   Bw1--6 to 12 inches; dark yellowish brown (10YR 4/4) fine sandy loam; weak medium subangular blocky structure; soft, very friable, slightly sticky and nonplastic; many fine and few medium and coarse roots; 10 percent quartz gravel; 2 percent quartz cobbles; many medium flakes of mica; strongly acid; clear wavy boundary.
 
-   Bw2--11 to 17 inches; yellowish brown (10YR 5/4) fine sandy loam; weak fine subangular blocky structure; soft, very friable, slightly sticky and nonplastic; common fine and few medium and coarse roots; 5 percent quartz gravel; 2 percent quartz cobbles; many medium flakes of mica; strongly acid; clear wavy boundary.
+   Bw2--12 to 18 inches; yellowish brown (10YR 5/4) fine sandy loam; weak fine subangular blocky structure; soft, very friable, slightly sticky and nonplastic; common fine and few medium and coarse roots; 5 percent quartz gravel; 2 percent quartz cobbles; many medium flakes of mica; strongly acid; clear wavy boundary.
 
-   C--17 to 39 inches; dark yellowish brown (10YR 4/6) and dark brown (10YR 3/3) saprolite of interbedded mica gneiss and mica schist that crushes to loamy coarse sand; massive; slightly hard, friable, nonsticky and nonplastic; few fine and medium roots; 5 percent quartz gravel; many medium flakes of mica; moderately acid; clear wavy boundary.
+   C--18 to 40 inches; dark yellowish brown (10YR 4/6) and dark brown (10YR 3/3) saprolite of interbedded mica gneiss and mica schist that crushes to loamy coarse sand; massive; slightly hard, friable, nonsticky and nonplastic; few fine and medium roots; 5 percent quartz gravel; many medium flakes of mica; moderately acid; clear wavy boundary.
 
-   Cr--39 to 65 inches; dark brown (10YR 3/3), brown (10YR 4/3), and yellowish brown (10YR 5/6) interbedded mica gneiss and mica schist that crushes to loamy coarse sand; massive; hard, firm, nonsticky and nonplastic; few fine roots between faces of rock; 5 percent quartz gravel; many medium flakes of mica; moderately acid; abrupt wavy boundary.
+   Cr--40 to 66 inches; dark brown (10YR 3/3), brown (10YR 4/3), and yellowish brown (10YR 5/6) interbedded mica gneiss and mica schist that crushes to loamy coarse sand; massive; hard, firm, nonsticky and nonplastic; few fine roots between faces of rock; 5 percent quartz gravel; many medium flakes of mica; moderately acid; abrupt wavy boundary.
 
-   R--65 inches; multicolored, hard mica gneiss bedrock. 
+   R--66 inches; multicolored, hard mica gneiss bedrock. 
 
 TYPE LOCATION: Bedford County, Virginia; 625 feet south and 275 feet west of the intersection of Virginia Secondary Roads 737 and 732.  Moneta USGS topographic quadrangle; lat. 37 degrees 10 minutes 4.22 seconds N. and long. 79 degrees 31 minutes 5.58 seconds W.
 
@@ -125,12 +125,13 @@ Extent: Small
 
 SERIES ESTABLISHED: Bedford County, Virginia; 1989.
 
-REMARKS: These soils were previously mapped as Sweetapple series. The area where Perrowville is mapped was originally mapped as thermic, and later converted to mesic.  These soils feel as if they are higher in silt content than mechanical analysis shows them to be. They have a greasy feel caused by the high mica content. The mica is dominantly soft and mineral structure is destroyed by prolonged rubbing.
+REMARKS: These soils were previously mapped as Sweetapple series. The area where Perrowville is mapped was originally mapped as thermic, and later converted to mesic.  These soils feel as if they are higher in silt content than mechanical analysis shows them to be. They have a greasy feel caused by the high mica content. The mica is dominantly soft and mineral structure is destroyed by prolonged rubbing.  The soil horizon depths were revised on 10/2021 to ensure the description began at the soil surface.
+
 Diagnostic horizons and features recognized in this pedon:
-Ochric epipedon - the zone from the surface to a depth of 5 inches (A1 and A2 horizons) 
-Cambic horizon - the zone from 5 to 17 inches (Bw1 and Bw2 horizons) 
+Ochric epipedon - the zone from the surface to a depth of 6 inches (Oi, A1 and A2 horizons) 
+Cambic horizon - the zone from 6 to 18 inches (Bw1 and Bw2 horizons) 
 High content of flakes of mica in the Bt2, BC, and C horizons
-Paralithic contact - contact with weathered bedrock at 39 inches (upper boundary of the Cr horizon)
+Paralithic contact - contact with weathered bedrock at 40 inches (upper boundary of the Cr horizon)
 
 ADDITIONAL DATA:
 Laboratory Data: No laboratory data available.

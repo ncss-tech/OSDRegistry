@@ -2,7 +2,7 @@ LOCATION MONTONIA               NC
 
 Established Series
 Rev. MKC:AG
-04/2000
+10/2021
 
 MONTONIA SERIES
 
@@ -12,19 +12,19 @@ TAXONOMIC CLASS: Fine-loamy, mixed, semiactive, thermic Typic Hapludults
 
 TYPICAL PEDON:  Montonia very channery silt loam, on a convex 35 percent side slope -- forested. (Colors are for moist soil unless otherwise stated.)
 
-     Oi--2 to 0 inches; loose deciduous leaves and twigs and very dark brown (10YR 2/2) partially decomposed organic matter.
+     Oi--0 to 2 inches; loose deciduous leaves and twigs and very dark brown (10YR 2/2) partially decomposed organic matter.
 
-     A--0 to 3 inches; yellowish brown (10YR 5/4) very channery silt loam; weak fine granular structure; very friable; many fine and medium, and few coarse roots; 45 percent channers and 5 percent flagstones by volume; very strongly acid; abrupt wavy boundary.  (3 to 8 inches thick)
+     A--2 to 5 inches; yellowish brown (10YR 5/4) very channery silt loam; weak fine granular structure; very friable; many fine and medium, and few coarse roots; 45 percent channers and 5 percent flagstones by volume; very strongly acid; abrupt wavy boundary.  (3 to 8 inches thick)
 
-     AB--3 to 8 inches; strong brown (7.5YR 5/6) channery silt loam; moderate medium granular structure; friable; many fine and medium roots; 25 percent channers by volume; very strongly acid; clear wavy boundary.  (0 to 8 inches thick)
+     AB--5 to 10 inches; strong brown (7.5YR 5/6) channery silt loam; moderate medium granular structure; friable; many fine and medium roots; 25 percent channers by volume; very strongly acid; clear wavy boundary.  (0 to 8 inches thick)
 
-     Bt--8 to 19 inches; yellowish red (5YR 5/8) channery clay loam; moderate medium subangular blocky structure; friable; few fine roots; common faint clay films on faces of peds; 15 percent channers by volume; strongly acid; clear wavy boundary.  (10 to 24 inches thick)
+     Bt--10 to 21 inches; yellowish red (5YR 5/8) channery clay loam; moderate medium subangular blocky structure; friable; few fine roots; common faint clay films on faces of peds; 15 percent channers by volume; strongly acid; clear wavy boundary.  (10 to 24 inches thick)
 
-     BC--19 to 29 inches; yellowish red (5YR 5/8) channery loam; weak medium subangular blocky structure; friable; few fine roots; few distinct clay films on faces of peds; 30 percent channers by volume; strongly acid; clear wavy boundary.  (0 to 12 inches thick)
+     BCt--21 to 31 inches; yellowish red (5YR 5/8) channery loam; weak medium subangular blocky structure; friable; few fine roots; few distinct clay films on faces of peds; 30 percent channers by volume; strongly acid; clear wavy boundary.  (0 to 12 inches thick)
 
-     Cr--29 to 42 inches; multicolored weathered sericite schist bedrock.
+     Cr--31 to 44 inches; multicolored weathered sericite schist bedrock.
 
-     R--42 inches; hard unweathered sericite schist bedrock.
+     R--44 inches; hard unweathered sericite schist bedrock.
 
 TYPE LOCATION:  Cleveland County, North Carolina; 1.9 miles south of Kings Mountain on N.C. 161; 1.3 miles on Secondary Road 2289; 100 feet southeast in woods; USGS Kings Mountain topographic quadrangle; lat. 35 degrees 12 minutes 4 seconds N. and long. 81 degrees 21 minutes 13 seconds W.
 
@@ -62,7 +62,7 @@ MLRA SOIL SURVEY REGIONAL OFFICE (MO) RESPONSIBLE: Raleigh, North Carolina
 
 SERIES ESTABLISHED:  Franklin County, North Carolina; 1997.  
 
-REMARKS:  This soil was formerly included in the Badin series.  However, Badin soils are fine.  This soil is in a fine-loamy particle size class because it contains, by weight, more than 15 percent particles that are fine sand or coarser, including fragments up to 7.5 cm in diameter.
+REMARKS:  This soil was formerly included in the Badin series.  However, Badin soils are fine.  This soil is in a fine-loamy particle size class because it contains, by weight, more than 15 percent particles that are fine sand or coarser, including fragments up to 7.5 cm in diameter.  The soil horizon depths were revised on 10/2021 to ensure the description began at the soil surface.
 
 Laboratory Data on particle size distribution and cation exchange capacity from N.C. State University, 1992:
 
@@ -73,11 +73,11 @@ BC		19-29"	39.5	34.2	26.3		16.9
 
 Diagnostic horizons and soil characteristics recognized in this pedon are:
 
-Ochric epipedon - the zone from the surface of the soil to a depth of 8 inches (the A and AB horizons).
+Ochric epipedon - the zone from the surface of the soil to a depth of 10 inches (the Oi, A and AB horizons).
 
-Argillic horizon - the zone from a depth of 8 inches to 29 inches (the Bt and BC horizons).
+Argillic horizon - the zone from a depth of 10 inches to 31 inches (the Bt and BC horizons).
 
-Paralithic contact - the upper boundary of weathered sericite schist bedrock at a depth of 29 inches (the upper boundary of the Cr horizon).
+Paralithic contact - the upper boundary of weathered sericite schist bedrock at a depth of 31 inches (the upper boundary of the Cr horizon).
 
 ADDITIONAL DATA:
 
@@ -90,20 +90,20 @@ SOI-5  FloodL FloodH Watertable Kind   Months  Bedrock Hardness
 NC0288 NONE          6.0-6.0              -     20-40   SOFT 
 
 SOI-5  Depth  Texture                3-Inch  No-10  Clay%   -CEC-
-NC0288  0- 8  CN-SIL CN-L CN-VFSL     5- 15  55- 85  5-20   2-  3
-NC0288  0- 8  CNV-SIL CNV-L          20- 50  30- 80  5-20   1-  3
-NC0288  8-19  CN-CL CN-SIL L          0- 10  60- 90 20-35   3-  5
-NC0288 19-29  CN-L CN-SICL CN-CL      5- 15  50- 80 10-35   1-  5
-NC0288 29-42  WB                       -       -      -      -   
-NC0288 42-52  UWB                      -       -      -      -   
+NC0288  0- 10  CN-SIL CN-L CN-VFSL     5- 15  55- 85  5-20   2-  3
+NC0288  0- 10  CNV-SIL CNV-L          20- 50  30- 80  5-20   1-  3
+NC0288  10-21  CN-CL CN-SIL L          0- 10  60- 90 20-35   3-  5
+NC0288 21-31  CN-L CN-SICL CN-CL      5- 15  50- 80 10-35   1-  5
+NC0288 31-44  WB                       -       -      -      -   
+NC0288 44-54  UWB                      -       -      -      -   
 
 SOI-5  Depth    -pH-     O.M.  Salin  Permeab   Shnk-Swll
-NC0288  0- 8  4.5- 6.0  .5-3.  0- 0   0.6- 2.0  LOW      
-NC0288  0- 8  4.5- 6.0  .5-3.  0- 0   0.6- 2.0  LOW      
-NC0288  8-19  4.5- 6.0  0.-.5  0- 0   0.6- 2.0  LOW      
-NC0288 19-29  4.5- 6.0  0.-.5  0- 0   0.6- 2.0  LOW      
-NC0288 29-42     -        -     -        -               
-NC0288 42-52     -        -     -        -                
+NC0288  0- 10  4.5- 6.0  .5-3.  0- 0   0.6- 2.0  LOW      
+NC0288  0- 10  4.5- 6.0  .5-3.  0- 0   0.6- 2.0  LOW      
+NC0288  10-21  4.5- 6.0  0.-.5  0- 0   0.6- 2.0  LOW      
+NC0288 21-31  4.5- 6.0  0.-.5  0- 0   0.6- 2.0  LOW      
+NC0288 31-44     -        -     -        -               
+NC0288 44-54     -        -     -        -                
 
 National Cooperative Soil Survey
 U.S.A.

@@ -2,7 +2,7 @@ LOCATION HUDDLESTON             VA
 
 Tentative Series
 RJH
-01/2019
+10/2021
 
 HUDDLESTON SERIES
 
@@ -31,19 +31,19 @@ TAXONOMIC CLASS: Fine-loamy, micaceous, mesic Typic Hapludults
 
 TYPICAL PEDON: Huddleston fine sandy loam, 25 to 40 percent slopes in woodland. (Colors are for moist soil).
 
-   Oi--3 inches to 0; loose leaves, twigs, and partly decomposed organic material.
+   Oi--0 to 3; loose leaves, twigs, and partly decomposed organic material.
 
-   A--0 to 2 inches; dark grayish brown (10YR 4/2) fine sandy loam; weak fine granular structure; soft, very friable, slightly sticky and slightly plastic; many fine, and few medium and coarse roots; few medium flakes of mica; neutral; abrupt wavy boundary.
+   A--3 to 5 inches; dark grayish brown (10YR 4/2) fine sandy loam; weak fine granular structure; soft, very friable, slightly sticky and slightly plastic; many fine, and few medium and coarse roots; few medium flakes of mica; neutral; abrupt wavy boundary.
 
-   E--2 to 9 inches; brown (7.5YR 5/4) fine sandy loam; weak fine granular structure; slightly hard, friable, slightly sticky and slightly plastic; common fine, and few medium and coarse roots; 2 percent quartz gravel; few medium flakes of mica; very strongly acid; clear wavy boundary.
+   E--5 to 12 inches; brown (7.5YR 5/4) fine sandy loam; weak fine granular structure; slightly hard, friable, slightly sticky and slightly plastic; common fine, and few medium and coarse roots; 2 percent quartz gravel; few medium flakes of mica; very strongly acid; clear wavy boundary.
 
-   BE--9 to 12 inches; yellowish red (5YR 5/6) sandy clay loam; weak fine subangular blocky structure; slightly hard, friable, slightly sticky and slightly plastic; common fine, and few medium and coarse roots; many faint clay films; common medium flakes of mica; very strongly acid; clear wavy boundary.
+   BE--12 to 15 inches; yellowish red (5YR 5/6) sandy clay loam; weak fine subangular blocky structure; slightly hard, friable, slightly sticky and slightly plastic; common fine, and few medium and coarse roots; many faint clay films; common medium flakes of mica; very strongly acid; clear wavy boundary.
 
-   Bt--12 to 28 inches; yellowish red (5YR 4/6) sandy clay loam; moderate medium subangular blocky structure; slightly hard, friable, slightly sticky and slightly plastic; common fine, and few medium and coarse roots; many faint clay films; many medium flakes of mica; very strongly acid; gradual wavy boundary.
+   Bt--15 to 31 inches; yellowish red (5YR 4/6) sandy clay loam; moderate medium subangular blocky structure; slightly hard, friable, slightly sticky and slightly plastic; common fine, and few medium and coarse roots; many faint clay films; many medium flakes of mica; very strongly acid; gradual wavy boundary.
 
-   BC--28 to 36 inches; reddish brown (5YR 4/4) sandy loam; weak medium subangular blocky structure; slightly hard, friable, slightly sticky and nonplastic; common fine roots; common faint clay films; many medium flakes of mica; 40 percent soft crushable mica schist; very strongly acid; gradual wavy boundary.
+   BC--31 to 39 inches; reddish brown (5YR 4/4) sandy loam; weak medium subangular blocky structure; slightly hard, friable, slightly sticky and nonplastic; common fine roots; common faint clay films; many medium flakes of mica; 40 percent soft crushable mica schist; very strongly acid; gradual wavy boundary.
 
-   C--36 to 72 inches; yellowish red (5YR 4/6), strong brown (7.5YR 5/8), and dark brown (7.5YR 3/2) saprolite of mica schist and mica gneiss that crushes to sandy loam; massive; soft, very friable, nonsticky and nonplastic; common fine roots; many medium flakes of mica; common clay flows coat some rock faces; very strongly acid.
+   C--39 to 75 inches; yellowish red (5YR 4/6), strong brown (7.5YR 5/8), and dark brown (7.5YR 3/2) saprolite of mica schist and mica gneiss that crushes to sandy loam; massive; soft, very friable, nonsticky and nonplastic; common fine roots; many medium flakes of mica; common clay flows coat some rock faces; very strongly acid.
 
 TYPE LOCATION: Bedford County, Virginia; about 4,500 feet south and 1,250 feet east of the intersection of Virginia Route 825 and US Highway 460.  Goode USGS topographic quadrangle; lat. 37 degrees 18 minutes 2 seconds N. and long. 79 degrees 28 minutes 7 seconds W.
 
@@ -130,7 +130,8 @@ Extent: Small
 
 SERIES PROPOSED: Bedford County, Virginia; 2018. 
 
-REMARKS: These soils were previously mapped as Grover series. The area where Huddleston is mapped was originally mapped as thermic, and later converted to mesic.  These soils feel as if they are higher in silt content than mechanical analysis shows them to be. They have a greasy feel caused by the high mica content. The mica is dominantly soft and mineral structure is destroyed by prolonged rubbing.
+REMARKS: These soils were previously mapped as Grover series. The area where Huddleston is mapped was originally mapped as thermic, and later converted to mesic.  These soils feel as if they are higher in silt content than mechanical analysis shows them to be. They have a greasy feel caused by the high mica content. The mica is dominantly soft and mineral structure is destroyed by prolonged rubbing.  The soil horizon depths were revised on 10/2021 to ensure the description began at the soil surface.
+
 Diagnostic horizons and features recognized in this pedon:
 Ochric epipedon - the zone from the surface to a depth of 2 inches (A horizon) 
 Argillic horizon - the zone from 12 to 28 inches (Bt horizon) 

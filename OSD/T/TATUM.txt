@@ -1,13 +1,12 @@
-LOCATION TATUM                  NC+AL GA NC SC
+LOCATION TATUM                  NC+AL GA SC VA
 
 Established Series
 Rev. TPH-PLT: RHB
-05/2006
+10/2021
 
 TATUM SERIES
 
 MLRA(s): 136
-MLRA SOIL SURVEY REGIONAL OFFICE (MO) RESPONSIBLE: Raleigh, North Carolina
 Depth Class: Deep
 Drainage Class: Well drained
 Permeability: Moderate
@@ -21,21 +20,21 @@ TAXONOMIC CLASS: Fine, mixed, semiactive, thermic Typic Hapludults
 
 TYPICAL PEDON: Tatum silt loam - woodland. (Colors are for moist soil.) 
 
- Oe--2 to 0 inches: partially decomposed evergreen litter and twigs. 
+ Oe--0 to 2 inches: partially decomposed evergreen litter and twigs. 
 
- A--0 to 4 inches; brown (7.5YR 4/4) gravelly silt loam; weak moderately granular structure; very friable; many fine and medium roots, few coarse roots; 25 percent quartz pebbles and sericite schist channers, and 5 percent cobbles by volume; very strongly acid; clear wavy boundary. (0 to 8 inches thick) 
+ A--2 to 6 inches; brown (7.5YR 4/4) gravelly silt loam; weak moderately granular structure; very friable; many fine and medium roots, few coarse roots; 25 percent quartz pebbles and sericite schist channers, and 5 percent cobbles by volume; very strongly acid; clear wavy boundary. (0 to 8 inches thick) 
 
- Bt1--4 to 13 inches; yellowish red (5YR 4/6) gravelly silty clay loam; weak moderately subangular blocky structure; friable; slightly sticky; slightly plastic; common fine and moderately roots, few coarse roots; few distinct clay films on faces of peds; 18 percent quartz pebbles and sericite schist channers by volume; very strongly acid; clear wavy boundary. 
+ Bt1--6 to 15 inches; yellowish red (5YR 4/6) gravelly silty clay loam; weak moderately subangular blocky structure; friable; slightly sticky; slightly plastic; common fine and moderately roots, few coarse roots; few distinct clay films on faces of peds; 18 percent quartz pebbles and sericite schist channers by volume; very strongly acid; clear wavy boundary. 
 
- Bt2--13 to 31 inches; red (2.5YR 5/6) silty clay loam; moderate medium subangular blocky structure; firm; sticky; plastic; few fine roots; common distinct clay films on faces of peds; 5 percent quartz pebbles and sericite schist channers by volume; strongly acid; clear wavy boundary. 
+ Bt2--15 to 33 inches; red (2.5YR 5/6) silty clay loam; moderate medium subangular blocky structure; firm; sticky; plastic; few fine roots; common distinct clay films on faces of peds; 5 percent quartz pebbles and sericite schist channers by volume; strongly acid; clear wavy boundary. 
 
- BC--31 to 42 inches; yellowish red (5YR 5/8) silty clay loam; few fine distinct red (2.5YR 5/8) mottles; weak moderately subangular blocky structure; friable; slightly sticky; slightly plastic; very strongly acid; clear wavy boundary. 
+ BC--33 to 44 inches; yellowish red (5YR 5/8) silty clay loam; few fine distinct red (2.5YR 5/8) mottles; weak moderately subangular blocky structure; friable; slightly sticky; slightly plastic; very strongly acid; clear wavy boundary. 
 
- C--42 to 54 inches; light reddish brown (5YR 6/4) and yellowish red (5YR 5/8) channery silt loam saprolite; common fine distinct reddish yellow (7.5YR 7/8) mottles; massive; very friable; 20 percent sericite schist channers by volume; strongly acid; clear wavy boundary. 
+ C--44 to 56 inches; light reddish brown (5YR 6/4) and yellowish red (5YR 5/8) channery silt loam saprolite; common fine distinct reddish yellow (7.5YR 7/8) mottles; massive; very friable; 20 percent sericite schist channers by volume; strongly acid; clear wavy boundary. 
 
- Cr--54 to 62 inches; weathered, highly fractured sericite schist that can be dug with difficulty with a spade; strongly acid; abrupt smooth boundary. 
+ Cr--56 to 64 inches; weathered, highly fractured sericite schist that can be dug with difficulty with a spade; strongly acid; abrupt smooth boundary. 
 
- R--62 inches; unweathered, slightly fractured sericite schist. 
+ R--64 inches; unweathered, slightly fractured sericite schist. 
 
 TYPE LOCATION: Cleveland County, North Carolina; 3.0 miles south of Kings Mountain on North Carolina Highway 161 to Secondary Road 2289; 1.2 miles on Secondary Road 2289; 50 feet east to creek, 450 feet northeast in woods; USGS Kings Mountain topographic quadrangle; latitude 35 degrees 11 minutes 30 seconds north and longitude 81 degrees 21 minutes 30 seconds west 
 
@@ -142,9 +141,10 @@ SERIES ESTABLISHED: Orange County, Virginia, 1927.
 
 REMARKS: Diagnostic horizons and features recognized in this pedon are: 
 a. Ochric epipedon - the zone from 0 to 6 inches (A horizon).
-b. Argillic horizon - the zone from 6 to 44 inches (Bt horizons). 
+b. Argillic horizon - the zone from 6 to 33 inches (Bt horizons). 
 c. Paralithic contact at 44 inches.
-2006 revisions included minor text cleanup. 
+2006 revisions included minor text cleanup.
+Horizon depths were modified to ensure soil description began at soil surface. 
 
 ADDITIONAL DATA: 
 
@@ -180,15 +180,15 @@ VA0013  0- 6  4.5- 5.5  .5-2.  0- 0   0.6- 2.0  LOW
 VA0013  0- 6  4.5- 5.5  .5-2.  0- 0   0.6- 2.0  LOW      
 VA0013  0- 6  4.5- 5.5  0.-2.  0- 0   0.6- 2.0  LOW      
 VA0013  6-44  4.5- 5.5  0.-.5  0- 0   0.6- 2.0  MODERATE 
-VA0013  44-62    -        -     -    0.00-0.06           
+VA0013  44-64    -        -     -    0.00-0.06           
 VA0136  0- 6  4.5- 5.5  .5-2.  0- 0   0.6- 2.0  LOW      
 VA0136  0- 6  4.5- 5.5  .5-2.  0- 0   0.6- 2.0  LOW      
 VA0136  0- 6  4.5- 5.5  .5-2.   -     0.6- 2.0  MODERATE 
 VA0136  6-44  4.5- 5.5  0.-.5  0- 0   0.6- 2.0  MODERATE 
-VA0136  44-62    -        -     -    0.00-0.06           
+VA0136  44-64    -        -     -    0.00-0.06           
 VA0281  0- 6  4.5- 5.5  .5-2.  0- 0   0.6- 2.0  MODERATE 
 VA0281  6-44  4.5- 5.5  0.-.5  0- 0   0.6- 2.0  MODERATE 
-VA0281  44-62    -        -     -    0.00-0.06            
+VA0281  44-64    -        -     -    0.00-0.06            
 
 
 National Cooperative Soil Survey

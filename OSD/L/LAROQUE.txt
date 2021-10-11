@@ -2,7 +2,7 @@ LOCATION LAROQUE                VA
 
 Established Series
 JHE/WJE;NAM
-03/1999
+10/2021
 
 LAROQUE SERIES
 
@@ -12,17 +12,17 @@ TAXONOMIC CLASS: Fine-loamy, mixed, semiactive, thermic Inceptic Hapludults
 
 TYPICAL PEDON:  LaRoque loam on an 18 percent convex, east facing slope in a mixed hardwood and pine forest.  (Colors are for moist soil.)
 
-     0--1 to 0 inches; undecomposed and partially decomposed leaves and twigs.
+     0i--0 to 1 inches; undecomposed and partially decomposed leaves and twigs.
 
-     A--0 to 2 inches; dark grayish brown (10YR 4/2) loam; moderate fine granular structure; very friable; many fine and medium roots; 8 percent angular quartz pebbles 2 to 50 mm in diameter; extremely acid; clear smooth boundary. (1 to 5 inches thick)
+     A--1 to 3 inches; dark grayish brown (10YR 4/2) loam; moderate fine granular structure; very friable; many fine and medium roots; 8 percent angular quartz pebbles 2 to 50 mm in diameter; extremely acid; clear smooth boundary. (1 to 5 inches thick)
 
-     E--2 to 7 inches; light yellowish brown (10YR 6/4) loam; moderate fine granular structure; very friable; many fine and medium roots; 3 percent angular quartz pebbles 2 to 50 mm in diameter; extremely acid; clear smooth boundary.  (3 to 12 inches thick)
+     E--3 to 8 inches; light yellowish brown (10YR 6/4) loam; moderate fine granular structure; very friable; many fine and medium roots; 3 percent angular quartz pebbles 2 to 50 mm in diameter; extremely acid; clear smooth boundary.  (3 to 12 inches thick)
 
-     Bt--7 to 14 inches; reddish yellow (7.5YR 6/6) loam; moderate fine and medium subangular blocky structure; friable, slightly plastic; many fine and medium roots; few thin patchy clay films on faces of peds; 3 percent angular quartz pebbles 2 to 75 mm in diameter; many fine flakes of mica; very strongly acid; clear smooth boundary.  (3 to 10 inches thick)
+     Bt--8 to 15 inches; reddish yellow (7.5YR 6/6) loam; moderate fine and medium subangular blocky structure; friable, slightly plastic; many fine and medium roots; few thin patchy clay films on faces of peds; 3 percent angular quartz pebbles 2 to 75 mm in diameter; many fine flakes of mica; very strongly acid; clear smooth boundary.  (3 to 10 inches thick)
 
-     C--14 to 34 inches; yellowish brown (10YR 5/8) loam; many medium distinct, reddish yellow (7.5YR7/6) and yellowish red (5YR4/8) mottles; massive; very friable; 3 percent angular quartz pebbles 2 to 50 mm in diameter; many very fine flakes of mica; very strongly acid; gradual smooth boundary. (20 to 40 inches thick)
+     C--15 to 35 inches; yellowish brown (10YR 5/8) loam; many medium distinct, reddish yellow (7.5YR7/6) and yellowish red (5YR4/8) mottles; massive; very friable; 3 percent angular quartz pebbles 2 to 50 mm in diameter; many very fine flakes of mica; very strongly acid; gradual smooth boundary. (20 to 40 inches thick)
 
-     Cr--34 to 60 inches; yellowish brown (10YR 5/8), red (2.5YR 4/6), and white (10 YR8/1) weathered mica schist; firm in place, chunks crush with difficulty between the fingers to loam; many very fine flakes of mica; very strongly acid.
+     Cr--35 to 61 inches; yellowish brown (10YR 5/8), red (2.5YR 4/6), and white (10 YR8/1) weathered mica schist; firm in place, chunks crush with difficulty between the fingers to loam; many very fine flakes of mica; very strongly acid.
 
 TYPE LOCATION:  Spotsylvania County, Virginia; 12 miles northwest of Spotsylvania, Virginia; .4 km southeast of Elys Ford, junction of the Rapidan River and Highway 610; 75 meters southwest of Highway 610.
 
@@ -50,7 +50,7 @@ MLRA SOIL SURVEY REGIONAL OFFICE (MO) RESPONSIBLE: Raleigh, North Carolina
 
 SERIES ESTABLISHED:  Spotsylvania County, Virginia, 1980.  Source of name is the LaRoque Run in Spotsylvania County.
 
-REMARKS:  Data from 5 pedons in Spotsylvania County by Virginia Polytechnic Institute and State University supports the classification.
+REMARKS:  Data from 5 pedons in Spotsylvania County by Virginia Polytechnic Institute and State University supports the classification.  The soil horizon depths were revised on 10/2021 to ensure the description began at the soil surface.
 
 TABULAR SERIES DATA:
 
@@ -61,16 +61,16 @@ SOI-5  FloodL FloodH Watertable Kind   Months  Bedrock Hardness
 VA0119 NONE          6.0-6.0              -     20-40   SOFT 
 
 SOI-5  Depth  Texture                3-Inch  No-10  Clay%   -CEC-
-VA0119  0- 7  L SIL                   0-  5  75-100  5-27    -   
-VA0119  7-14  L SIL CL                0-  5  90-100 18-35    -   
-VA0119 14-34  L SIL SL                0-  5  90-100  5-27    -   
-VA0119 34-60  WB                       -       -      -      -   
+VA0119  0- 8  L SIL                   0-  5  75-100  5-27    -   
+VA0119  8-15  L SIL CL                0-  5  90-100 18-35    -   
+VA0119 15-35  L SIL SL                0-  5  90-100  5-27    -   
+VA0119 35-61  WB                       -       -      -      -   
 
 SOI-5  Depth    -pH-     O.M.  Salin  Permeab   Shnk-Swll
-VA0119  0- 7  3.6- 5.5  1.-3.  0- 0   2.0- 6.0  LOW      
-VA0119  7-14  3.6- 5.5  0.-.5  0- 0   0.6- 2.0  LOW      
-VA0119 14-34  3.6- 5.5  0.-.5  0- 0   2.0- 6.0  LOW      
-VA0119 34-60     -        -     -    0.00-0.06           
+VA0119  0- 8  3.6- 5.5  1.-3.  0- 0   2.0- 6.0  LOW      
+VA0119  8-15  3.6- 5.5  0.-.5  0- 0   0.6- 2.0  LOW      
+VA0119 15-35  3.6- 5.5  0.-.5  0- 0   2.0- 6.0  LOW      
+VA0119 35-61     -        -     -    0.00-0.06           
 
 National Cooperative Soil Survey
 U.S.A.

@@ -2,7 +2,7 @@ LOCATION GROVER                 NC+AL GA SC VA
 
 Established Series
 Rev. RHB
-05/2007
+10/2021
 
 GROVER SERIES
 
@@ -14,17 +14,17 @@ TAXONOMIC CLASS: Fine-loamy, micaceous, thermic Typic Hapludults
 
 TYPICAL PEDON: Grover loam--forested. (Colors are for moist soil unless otherwise stated.) 
 
- Oe--1 to 0 inch; brown (10YR 4/3) partially decomposed deciduous organic material. 
+ Oe--0 to 1 inch; brown (10YR 4/3) partially decomposed deciduous organic material. 
 
- A--0 to 6 inches; brown (7.5YR 4/4) loam; weak medium granular structure; very friable; many fine, medium, and coarse roots; common fine and medium flakes of mica; very strongly acid; clear smooth boundary. (1 to 6 inches thick) 
+ A--1 to 7 inches; brown (7.5YR 4/4) loam; weak medium granular structure; very friable; many fine, medium, and coarse roots; common fine and medium flakes of mica; very strongly acid; clear smooth boundary. (1 to 6 inches thick) 
 
- Bt--6 to 20 inches; yellowish red (5YR 5/6) loam; weak medium subangular blocky structure; friable; slightly sticky and slightly plastic; few faint clay films on faces of peds; many fine and medium, and few coarse roots; many fine and medium flakes of mica; very strongly acid; gradual wavy boundary. (10 to 26 inches thick) 
+ Bt--7 to 21 inches; yellowish red (5YR 5/6) loam; weak medium subangular blocky structure; friable; slightly sticky and slightly plastic; few faint clay films on faces of peds; many fine and medium, and few coarse roots; many fine and medium flakes of mica; very strongly acid; gradual wavy boundary. (10 to 26 inches thick) 
 
- BC--20 to 25 inches; yellowish red (5YR 4/6) loam; weak medium subangular blocky structure; very friable; common fine and medium, and few coarse roots; many fine and medium flakes of mica; strongly acid; gradual wavy boundary. (5 to 12 inches thick) 
+ BC--21 to 26 inches; yellowish red (5YR 4/6) loam; weak medium subangular blocky structure; very friable; common fine and medium, and few coarse roots; many fine and medium flakes of mica; strongly acid; gradual wavy boundary. (5 to 12 inches thick) 
 
- C1--25 to 35 inches; strong brown (7.5YR 4/6) biotite gneiss saprolite that has texture of sandy loam; common very dark brown (10YR 2/2) streaks; massive; very friable; few fine and medium roots; many fine and medium flakes of mica; very strongly acid; clear smooth boundary. 
+ C1--26 to 36 inches; strong brown (7.5YR 4/6) biotite gneiss saprolite that has texture of sandy loam; common very dark brown (10YR 2/2) streaks; massive; very friable; few fine and medium roots; many fine and medium flakes of mica; very strongly acid; clear smooth boundary. 
 
- C2--35 to 65 inches; multicolored biotite gneiss saprolite that has texture of sandy loam; massive; very friable; few fine and medium roots; many fine and medium flakes of mica; very strongly acid. 
+ C2--36 to 66 inches; multicolored biotite gneiss saprolite that has texture of sandy loam; massive; very friable; few fine and medium roots; many fine and medium flakes of mica; very strongly acid. 
 
 TYPE LOCATION: Polk County, North Carolina; 0.5 mile northwest of Pea Ridge on NC Highway 108; 0.5 mile north on Secondary Road 1311; 0.3 mile northeast on logging road; 100 feet southeast of road in woods. 
 
@@ -59,12 +59,12 @@ MLRA SOIL SURVEY REGIONAL OFFICE (MO) RESPONSIBLE: Raleigh, North Carolina
 
 SERIES ESTABLISHED: Fulton County, Georgia; 1951. 
 
-REMARKS: These soils feel as if they are higher in silt content than mechanical analysis shows them to be. They have a greasy feel caused by the high mica content. The mica is dominantly soft and mineral structure is destroyed by prolonged rubbing. *Added loamy sand texture. 05/07 RHB.  
+REMARKS: These soils feel as if they are higher in silt content than mechanical analysis shows them to be. They have a greasy feel caused by the high mica content. The mica is dominantly soft and mineral structure is destroyed by prolonged rubbing. *Added loamy sand texture. 05/07 RHB.  Horizon depths in the description were modified 10/2021 to ensure soil began at soil surface.  
 
 Diagnostic horizons and features recognized in this pedon are: 
 
-Ochric epipedon - the zone from the surface to a depth of 6 inches (A horizon) 
-Argillic horizon - the zone from 6 to 20 inches (Bt horizon) 
+Ochric epipedon - the zone from the surface to a depth of 7 inches (A horizon) 
+Argillic horizon - the zone from 7 to 21 inches (Bt horizon) 
 
 MLRA = 136 Rev - RLV 3/19/97 
 
@@ -79,26 +79,26 @@ NC0080 NONE         6.0-6.0           -    60-60
 NC0230 NONE         6.0-6.0           -    60-60 
 
 SOI-5 	Depth Texture 		3-Inch No-10  Clay% -CEC-
-NC0080 0- 6  SL FSL COSL  		0- 5   90-100 4-18  1- 4
-NC0080 0- 6  SCL 			0- 5   90-100 20-35 2- 5
-NC0080 0- 6  L 			0- 5   90-100 7-20  1- 4
-NC0080 6-25  SCL CL L 		0- 5   90-100 18-35 2- 4
-NC0080 25-65 SL L SCL 		0- 5   85-100 4-25  1- 3
-NC0230 0- 6  GR-LS 			2- 10  55- 75 2-15  1- 5
-NC0230 0- 6  GR-SL GR-FSL GR-L 	2- 10  55- 75 7-20  2- 8
-NC0230 6-25  SCL CL L 		0- 5   90-100 18-35 3- 8
-NC0230 25-65 SL L SCL 		0- 5   85-100 10-30 1- 6 
+NC0080 0- 7  SL FSL COSL  		0- 5   90-100 4-18  1- 4
+NC0080 0- 7  SCL 			0- 5   90-100 20-35 2- 5
+NC0080 0- 7  L 			0- 5   90-100 7-20  1- 4
+NC0080 7-26  SCL CL L 		0- 5   90-100 18-35 2- 4
+NC0080 26-66 SL L SCL 		0- 5   85-100 4-25  1- 3
+NC0230 0- 7  GR-LS 			2- 10  55- 75 2-15  1- 5
+NC0230 0- 7  GR-SL GR-FSL GR-L 	2- 10  55- 75 7-20  2- 8
+NC0230 7-26  SCL CL L 		0- 5   90-100 18-35 3- 8
+NC0230 26-66 SL L SCL 		0- 5   85-100 10-30 1- 6 
 
 SOI-5 Depth    -pH-      O.M. 	Salin  Permeab Shnk-Swll
-NC0080 0- 6  4.5- 6.5   .5-2. 	0- 0  2.0- 6.0 LOW 
-NC0080 0- 6  4.5- 6.5   .5-1. 	0- 0  0.6- 2.0 LOW 
-NC0080 0- 6  4.5- 6.5   .5-2. 	0- 0  2.0- 6.0 LOW 
-NC0080 6-25  4.5- 6.0   0.-.5 	0- 0  0.6- 2.0 LOW 
-NC0080 25-65 4.5- 6.0   0.-.5 	0- 0  0.6- 2.0 LOW 
-NC0230 0- 6  4.5- 6.5   .5-2. 	0- 0  2.0- 6.0 LOW 
-NC0230 0- 6  4.5- 6.5   .5-2. 	0- 0  2.0- 6.0 LOW 
-NC0230 6-25  4.5- 6.0   0.-.5 	0- 0  0.6- 2.0 LOW 
-NC0230 25-65 4.5- 6.0   0.-.5 	0- 0  0.6- 2.0 LOW 
+NC0080 0- 7  4.5- 6.5   .5-2. 	0- 0  2.0- 6.0 LOW 
+NC0080 0- 7  4.5- 6.5   .5-1. 	0- 0  0.6- 2.0 LOW 
+NC0080 0- 7  4.5- 6.5   .5-2. 	0- 0  2.0- 6.0 LOW 
+NC0080 7-26  4.5- 6.0   0.-.5 	0- 0  0.6- 2.0 LOW 
+NC0080 26-66 4.5- 6.0   0.-.5 	0- 0  0.6- 2.0 LOW 
+NC0230 0- 7  4.5- 6.5   .5-2. 	0- 0  2.0- 6.0 LOW 
+NC0230 0- 7  4.5- 6.5   .5-2. 	0- 0  2.0- 6.0 LOW 
+NC0230 7-26  4.5- 6.0   0.-.5 	0- 0  0.6- 2.0 LOW 
+NC0230 26-66 4.5- 6.0   0.-.5 	0- 0  0.6- 2.0 LOW 
 
 National Cooperative Soil Survey
 U.S.A.

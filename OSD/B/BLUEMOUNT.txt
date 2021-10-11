@@ -2,7 +2,7 @@ LOCATION BLUEMOUNT              VA
 
 Established Series
 MAV
-02/2005
+10/2021
 
 BLUEMOUNT SERIES
 
@@ -20,17 +20,17 @@ TAXONOMIC CLASS: Fine-loamy, mixed, superactive, mesic Typic Hapludalfs
 
 TYPICAL PEDON: Bluemount silt loam--mixed hardwood and pine forest. (Colors are for moist soil)
 
- Oi--0.5 to 0 inches; loose leaves and twigs.
+ Oi--0 to 1 inches; loose leaves and twigs.
 
- A--0 to 4 inches; brown (10YR 4/3) gravelly silt loam; weak fine granular structure; very friable, nonsticky and nonplastic; many very fine, fine, and medium roots; 11 percent subrounded amphibolite gravel  and 5 percent subrounded amphibolite cobbles; strongly acid (pH 5.4); clear smooth boundary.
+ A--1 to 5 inches; brown (10YR 4/3) gravelly silt loam; weak fine granular structure; very friable, nonsticky and nonplastic; many very fine, fine, and medium roots; 11 percent subrounded amphibolite gravel  and 5 percent subrounded amphibolite cobbles; strongly acid (pH 5.4); clear smooth boundary.
 
- Bt1-- 4 to 9 inches; dark yellowish brown (10YR 4/6) silt loam; weak fine subangular blocky structure; very friable, nonsticky and slightly plastic; common very fine through very coarse roots; few faint clay films on faces of peds; 10 percent subrounded amphibolite cobbles and 3 percent subrounded amphibolite gravel; moderately acid (pH 5.6); clear smooth boundary.
+ Bt1--5 to 10 inches; dark yellowish brown (10YR 4/6) silt loam; weak fine subangular blocky structure; very friable, nonsticky and slightly plastic; common very fine through very coarse roots; few faint clay films on faces of peds; 10 percent subrounded amphibolite cobbles and 3 percent subrounded amphibolite gravel; moderately acid (pH 5.6); clear smooth boundary.
 
- Bt2--9 to 14 inches; dark yellowish brown (10YR 4/6) silt loam; weak medium subangular blocky structure; very friable, slightly sticky and slightly plastic; common very fine, fine and medium roots; common distinct clay films on faces of peds; 10 percent subrounded amphibolite cobbles and 3 percent subrounded amphibolite gravel; moderately acid (pH 5.8); clear smooth boundary.
+ Bt2--10 to 15 inches; dark yellowish brown (10YR 4/6) silt loam; weak medium subangular blocky structure; very friable, slightly sticky and slightly plastic; common very fine, fine and medium roots; common distinct clay films on faces of peds; 10 percent subrounded amphibolite cobbles and 3 percent subrounded amphibolite gravel; moderately acid (pH 5.8); clear smooth boundary.
 
- Bt3--14 to 24 inches; yellowish brown (10YR 5/6) very cobbly clay loam; moderate medium subangular blocky structure; firm, sticky and plastic; few very fine through coarse roots; common distinct clay films on faces of peds and on rock fragments; 40 percent subrounded amphibolite cobbles and 10 percent subrounded amphibolite gravel; moderately acid (pH 5.9); abrupt wavy boundary.
+ Bt3--15 to 25 inches; yellowish brown (10YR 5/6) very cobbly clay loam; moderate medium subangular blocky structure; firm, sticky and plastic; few very fine through coarse roots; common distinct clay films on faces of peds and on rock fragments; 40 percent subrounded amphibolite cobbles and 10 percent subrounded amphibolite gravel; moderately acid (pH 5.9); abrupt wavy boundary.
 
- R--24 inches; hard unweathered amphibolite.
+ R--25 inches; hard unweathered amphibolite.
 
 TYPE LOCATION: Franklin County, Virginia, located 3,700 feet north 25 degrees west of the intersection of State Routes 890 and 882; in woodland; in the southeastern part of Franklin County; USGS Snow Creek topographic Quadrangle; lat. 36 degrees 48 minutes 54.7 seconds N. and long. 79 degrees 49 minutes 8.7 seconds W.
 
@@ -124,21 +124,21 @@ USE AND VEGETATION:
 Major Uses: woodland, some pastureland
   Dominant Vegetation, Where wooded-- eastern white pine, Virginia pine, red oak, white oak, post oak, hickory, blackgum, red maple, and dogwood.
 
+MLRA SOIL SURVEY REGIONAL OFFICE (MO) RESPONSIBLE:  Raleigh, North Carolina
+
 DISTRIBUTION AND EXTENT:
   Distribution: North Carolina and Virginia
   Extent: moderate
 
-MLRA SOIL SURVEY REGIONAL OFFICE (MO) RESPONSIBLE:  Raleigh, North Carolina
-
 SERIES ESTABLISHED: Franklin County, Virginia, 2004
 
-REMARKS: Bluemount soils were formerly recognized in the Spriggs series.  
+REMARKS: Bluemount soils were formerly recognized in the Spriggs series.  The soil horizon depths were revised on 10/2021 to ensure the description began at the soil surface.
 
 Diagnostic horizons and features recognized in this pedon are:
 
-Ochric epipedon - the zone from 0 to 4 inches (A horizon)
-Argillic horizon - the zone from 4 to 24 inches (Bt horizons)
-Lithic contact - 24 inches (R horizon)
+Ochric epipedon - the zone from 0 to 5 inches (Oi and A horizon)
+Argillic horizon - the zone from 5 to 25 inches (Bt horizons)
+Lithic contact - 25 inches (R horizon)
 
 ADDITIONAL DATA: Typical pedon sampled as S98VA-067-002. Additional reference sample is S98VA-067-001.
 
@@ -151,20 +151,20 @@ VA0215 NONE          6.0-6.0              -     20-40   HARD
 VA0344 NONE          6.0-6.0              -     20-40   HARD 
 
 SOI-5  Depth  Texture                3-Inch  No-10  Clay%   -CEC-
-VA0215  0- 4  SIL L                   0-  2  80-100 10-27    -   
-VA0215  0- 4  SL FSL                  0-  2  80-100 10-20    -   
-VA0215  4-24  SIL CL L                0-  2  50-100 20-35    -   
-VA0215 24     UWB                      -       -      -      -   
+VA0215  0- 5  SIL L                   0-  2  80-100 10-27    -   
+VA0215  0- 5  SL FSL                  0-  2  80-100 10-20    -   
+VA0215  5-25  SIL CL L                0-  2  50-100 20-35    -   
+VA0215 25     UWB                      -       -      -      -   
 
-VA0344  0- 4  STV-SIL STV-L           4- 23  50- 95 10-27  35- 60
-VA0344  4-24  SIL CL L                0-  2  85-100 20-35  35- 60
-VA0344 24     UWB                      -       -      -      -   
+VA0344  0- 5  STV-SIL STV-L           4- 23  50- 95 10-27  35- 60
+VA0344  5-25  SIL CL L                0-  2  85-100 20-35  35- 60
+VA0344 25     UWB                      -       -      -      -   
 
 SOI-5  Depth    -pH-     O.M.  Salin  Permeab   Shnk-Swll
-VA0215  0- 4  5.1- 6.5  .5-2.  0- 0   0.6- 2.0  LOW      
-VA0215  0- 4  5.1- 6.5  .5-2.  0- 0   0.6- 2.0  LOW      
-VA0215  4-24  5.1- 6.5  0.-.5  0- 0   0.6- 2.0  MODERATE 
-VA0215 24        -        -     -        -         -
+VA0215  0- 5  5.1- 6.5  .5-2.  0- 0   0.6- 2.0  LOW      
+VA0215  0- 5  5.1- 6.5  .5-2.  0- 0   0.6- 2.0  LOW      
+VA0215  5-25  5.1- 6.5  0.-.5  0- 0   0.6- 2.0  MODERATE 
+VA0215 25        -        -     -        -         -
 
 National Cooperative Soil Survey
 U.S.A.

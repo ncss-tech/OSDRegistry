@@ -2,12 +2,11 @@ LOCATION NAWNEY                 VA+NC
 
 Established Series
 DRH-JHW, Rev PLT
-04/2004
+10/2021
 
 NAWNEY SERIES
 
 MLRA(s): 153A, 153B
-MLRA SOIL SURVEY REGIONAL OFFICE (MO) RESPONSIBLE: Raleigh, North Carolina
 Depth Class: Very Deep
 Drainage Class: Poorly drained
 Permeability: Moderate 
@@ -21,13 +20,13 @@ TAXONOMIC CLASS: Fine-loamy, mixed, active, acid, thermic Typic Fluvaquents
 
 TYPICAL PEDON:  Nawney silt loam - forested. (Colors are for moist soil.)
 
-     Oi--4 to 0 inches; partially decomposed roots, leaves, and twigs and highly decomposed very dark grayish brown (10YR 3/2) organic material; many very fine and medium roots; very strongly acid; abrupt wavy boundary.  (0 to 8 inches thick)
+     Oi--0 to 4 inches; partially decomposed roots, leaves, and twigs and highly decomposed very dark grayish brown (10YR 3/2) organic material; many very fine and medium roots; very strongly acid; abrupt wavy boundary.  (0 to 8 inches thick)
 
-     Ag--0 to 5 inches; dark gray (10YR 4/1) silt loam; few fine prominent yellowish brown (10YR 5/8) masses of iron accumulation; weak fine granular structure; very friable; slightly sticky, slightly plastic; many fine and medium roots; strongly acid; clear wavy boundary.  (4 to 15 inches thick)
+     Ag--4 to 9 inches; dark gray (10YR 4/1) silt loam; few fine prominent yellowish brown (10YR 5/8) masses of iron accumulation; weak fine granular structure; very friable; slightly sticky, slightly plastic; many fine and medium roots; strongly acid; clear wavy boundary.  (4 to 15 inches thick)
 
-     Cg1--5 to 43 inches; gray (10YR 6/1) loam; massive; friable; slightly sticky, slightly plastic; common fine and medium roots; strongly acid; gradual wavy boundary.  (36 to 72 inches thick)
+     Cg1--9 to 47 inches; gray (10YR 6/1) loam; massive; friable; slightly sticky, slightly plastic; common fine and medium roots; strongly acid; gradual wavy boundary.  (36 to 72 inches thick)
 
-     Cg2--43 to 60 inches; gray (10YR 6/1) stratified sand, loamy sand, and sandy loam; massive; slightly sticky, slightly plastic; strongly acid. 
+     Cg2--47 to 64 inches; gray (10YR 6/1) stratified sand, loamy sand, and sandy loam; massive; slightly sticky, slightly plastic; strongly acid. 
 
 TYPE LOCATION:  City of Virginia Beach, Virginia; about 3,200 feet south of junction of Princess Anne Road and Holland Road, or about 4,500 feet southwest of junction of Princess Anne Road and Seaboard Road.
 
@@ -90,12 +89,13 @@ REMARKS:
 1.  These areas have been included with higher order units, swamps, and mixed
     alluvial lands in past mapping.
 2.  Diagnostic horizons and features recognized in this pedon are:
-     a. Ochric epipedon-the zone from the surface to 5 inches (A horizon)
+     a. Ochric epipedon-the zone from the surface to 9 inches (O and A horizon)
      b. Fluventic feature-irregular decrease in organic matter 
      c. Fine-loamy particle size - weighted average clay content from 10 to 40 
         inches ranges from 18 to 34 percent.
      d. Acid family classification - the pH is less than 5.0 in 0.01 M calcium 
         chloride throughout the control section.
+The soil horizon depths were revised on 10/2021 to ensure the soil description began at the soil surface.
 
 MLRA = 153A, 153B
 REVISED = 04/14/04
@@ -113,24 +113,24 @@ VA0199 FREQ            0-0.5  APPARENT JAN-DEC  60-60
 VA0240 FREQ             -     APPARENT    -     60-60        
 
 SOI-5  Depth  Texture                3-Inch  No-10  Clay%   -CEC-
-VA0199  0- 5  SL FSL L                0-  0  98-100  5-18    -   
-VA0199  0- 5  SIL SICL                0-  0  98-100 10-27    -   
-VA0199  5-43  SR SL SICL              0-  0  98-100 18-35    -   
-VA0199 43-60  VAR                      -       -      -      -   
-VA0240  0- 5  SL FSL L                0-  0  98-100  5-18    -   
-VA0240  0- 5  SIL SICL                0-  0  98-100 10-27    -   
-VA0240  5-43  SR SL SICL              0-  0  98-100 18-35    -   
-VA0240 43-60  VAR                      -       -      -      -   
+VA0199  0- 9  SL FSL L                0-  0  98-100  5-18    -   
+VA0199  0- 9  SIL SICL                0-  0  98-100 10-27    -   
+VA0199  9-47  SR SL SICL              0-  0  98-100 18-35    -   
+VA0199 47-64  VAR                      -       -      -      -   
+VA0240  0- 9  SL FSL L                0-  0  98-100  5-18    -   
+VA0240  0- 9  SIL SICL                0-  0  98-100 10-27    -   
+VA0240  9-47  SR SL SICL              0-  0  98-100 18-35    -   
+VA0240 47-64  VAR                      -       -      -      -   
 
 SOI-5  Depth    -pH-     O.M.  Salin  Permeab   Shnk-Swll
-VA0199  0- 5  3.6- 5.5  2.-6.  0- 0   2.0- 6.0  LOW      
-VA0199  0- 5  3.6- 5.5  1.-3.  0- 0   0.6- 2.0  LOW      
-VA0199  5-43  3.6- 5.5  .5-1.  0- 0   0.6- 2.0  MODERATE 
-VA0199 43-60     -        -     -    0.01-  20           
-VA0240  0- 5  3.6- 5.5  2.-6.  0- 0   2.0- 6.0  LOW      
-VA0240  0- 5  3.6- 5.5  1.-3.  0- 0   0.6- 2.0  LOW      
-VA0240  5-43  3.6- 5.5  .5-1.  0- 0   0.6- 2.0  MODERATE 
-VA0240 43-60     -        -     -    0.01-  20            
+VA0199  0- 9  3.6- 5.5  2.-6.  0- 0   2.0- 6.0  LOW      
+VA0199  0- 9  3.6- 5.5  1.-3.  0- 0   0.6- 2.0  LOW      
+VA0199  9-47  3.6- 5.5  .5-1.  0- 0   0.6- 2.0  MODERATE 
+VA0199 47-64     -        -     -    0.01-  20           
+VA0240  0- 9  3.6- 5.5  2.-6.  0- 0   2.0- 6.0  LOW      
+VA0240  0- 9  3.6- 5.5  1.-3.  0- 0   0.6- 2.0  LOW      
+VA0240  9-47  3.6- 5.5  .5-1.  0- 0   0.6- 2.0  MODERATE 
+VA0240 47-64     -        -     -    0.01-  20            
 
 National Cooperative Soil Survey
 U.S.A.

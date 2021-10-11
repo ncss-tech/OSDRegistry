@@ -2,12 +2,11 @@ LOCATION CLIFFSIDE              NC
 
 Established Series
 SCK-RAG-MKC
-04/2003
+10/2021
 
 CLIFFSIDE SERIES
 
 MLRA(s): 136
-MLRA SOIL SURVEY REGIONAL OFFICE (MO) RESPONSIBLE: Raleigh, North Carolina
 Depth Class: Moderately deep to hard bedrock
 Drainage Class (Agricultural): Well drained
 Internal Free Water Occurrence: Very deep
@@ -31,15 +30,15 @@ TAXONOMIC CLASS: Loamy-skeletal, mixed, semiactive, thermic Typic Hapludults
 
 TYPICAL PEDON: Cliffside very cobbly sandy loam--forested.  (Colors are for moist soil unless otherwise stated.)
 
-0i--2 to 0 inches; slightly decomposed leaves and twigs and live roots.
+ 0i--0 to 2 inches; slightly decomposed leaves and twigs and live roots.
 
-A--0 to 7 inches; brown (10YR 4/3) very cobbly sandy loam; weak medium granular structure; very friable; common fine and medium roots; 20 percent pebbles and 15 percent cobbles by volume; few fine flakes of mica; strongly acid; abrupt smooth boundary.  (4 to 10 inches thick)
+ A--2 to 9 inches; brown (10YR 4/3) very cobbly sandy loam; weak medium granular structure; very friable; common fine and medium roots; 20 percent pebbles and 15 percent cobbles by volume; few fine flakes of mica; strongly acid; abrupt smooth boundary.  (4 to 10 inches thick)
 
-AB--7 to 16 inches; strong brown (7.5YR 4/6) very gravelly sandy loam; moderate medium granular structure; very friable; common fine roots; 25 percent pebbles and 10 percent cobbles by volume; common fine flakes of mica; very strongly acid; clear wavy boundary.  (0 to 12 inches thick)
+ AB--9 to 18 inches; strong brown (7.5YR 4/6) very gravelly sandy loam; moderate medium granular structure; very friable; common fine roots; 25 percent pebbles and 10 percent cobbles by volume; common fine flakes of mica; very strongly acid; clear wavy boundary.  (0 to 12 inches thick)
 
-Bt--16 to 30 inches; yellowish red (5YR 4/6) very gravelly sandy clay loam; weak fine subangular blocky structure; friable; few fine roots; 40 percent pebbles by volume; common fine flakes of mica; very strongly acid; clear wavy boundary.  (12 to 24 inches thick)
+ Bt--18 to 32 inches; yellowish red (5YR 4/6) very gravelly sandy clay loam; weak fine subangular blocky structure; friable; few fine roots; 40 percent pebbles by volume; common fine flakes of mica; very strongly acid; clear wavy boundary.  (12 to 24 inches thick)
 
-R--30 to 34 inches; hard fractured mica schist bedrock.
+ R--32 to 36 inches; hard fractured mica schist bedrock.
 
 TYPE LOCATION:  Cleveland County, North Carolina; 4.9 miles south of Boiling Springs on N.C. 150; 0.5 mile east on Secondary Road 1200; 0.4 mile north on Secondary Road 1199; 0.8 mile on Secondary Road 1198; 1.0 mile north on Secondary Road 1197; 0.1 mile north on woods road; 240 feet east in woods.  USGS Boiling Spring South topographic quadrangle; lat. 35 degrees 11 minutes 34 seconds N. and long. 81 degrees 37 minutes 54 seconds W.
 
@@ -69,13 +68,15 @@ USE AND VEGETATION:  Nearly all of this soil is in mixed hardwood and pine.  Com
 
 DISTRIBUTION AND EXTENT:  The Southern Piedmont of North Carolina and possibly South Carolina and Virginia.  The series is of small extent.
 
-MLRA SOIL SURVEY REGIONAL OFFICE (MO) RESPONSIBLE: Raleigh, North Carolina
+SOIL SURVEY REGIONAL OFFICE (SSRO) RESPONSIBLE: Raleigh, North Carolina
 
 SERIES ESTABLISHED:  Polk County, North Carolina; 1995.  The name is from the town of Cliffside in Cleveland County, North Carolina.
 
-REMARKS:  These soils were formerly included in the Hibriten series.  However, Hibriten soils have a paralithic contact at depths of 20 to 40 inches.  Diagnostic horizons and features recognized in this pedon:
-Ochric epipedon--the zone from the surface of the soil to 16 inches (the A and AB horizons)
-Argillic horizont--the zone from 16 to 30 inches (the Bt horizon)
+REMARKS:  These soils were formerly included in the Hibriten series.  However, Hibriten soils have a paralithic contact at depths of 20 to 40 inches.  The soil horizon depths were revised on 10/2021 to ensure the description began at the soil surface.
+
+Diagnostic horizons and features recognized in this pedon:
+Ochric epipedon--the zone from the surface of the soil to 18 inches (the O, A and AB horizons)
+Argillic horizon--the zone from 18 to 32 inches (the Bt horizon)
 Lithic contact--the upper boundary of hard mica schist bedrock (the upper boundary of the R horizon)
 
 ADDITIONAL DATA:
@@ -89,18 +90,18 @@ SOI-5  FloodL FloodH Watertable Kind   Months  Bedrock Hardness
 NC0265 NONE          6.0-6.0              -     20-40   HARD 
 
 SOI-5  Depth  Texture                3-Inch  No-10  Clay%   -CEC-
-NC0265  0-16  CBV-SL CBV-L           20- 40  50- 65  7-20   2-  6
-NC0265  0-16  GRV-SL GRV-L            0- 20  30- 50  7-20   2-  6
-NC0265  0-16  GR-SL GR-L CB-SL        0- 10  60- 75  7-20   2-  6
-NC0265 16-30  CBV-SCL GRV-SCL GRV-C  10- 40  40- 55 10-35   2-  8
-NC0265 30-34  UWB                      -       -      -      -   
+NC0265  0-18  CBV-SL CBV-L           20- 40  50- 65  7-20   2-  6
+NC0265  0-18  GRV-SL GRV-L            0- 20  30- 50  7-20   2-  6
+NC0265  0-18  GR-SL GR-L CB-SL        0- 10  60- 75  7-20   2-  6
+NC0265 18-32  CBV-SCL GRV-SCL GRV-C  10- 40  40- 55 10-35   2-  8
+NC0265 32-36  UWB                      -       -      -      -   
 
 SOI-5  Depth    -pH-     O.M.  Salin  Permeab   Shnk-Swll
-NC0265  0-16  4.5- 5.5  .5-2.  0- 0   2.0- 6.0  LOW      
-NC0265  0-16  4.5- 5.5  .5-2.  0- 0   2.0- 6.0  LOW      
-NC0265  0-16  4.5- 5.5  .5-2.  0- 0   2.0- 6.0  LOW      
-NC0265 16-30  4.5- 5.5  0.-.5  0- 0   0.6- 2.0  LOW      
-NC0265 30-34     -        -     -    0.00- 0.1           
+NC0265  0-18  4.5- 5.5  .5-2.  0- 0   2.0- 6.0  LOW      
+NC0265  0-18  4.5- 5.5  .5-2.  0- 0   2.0- 6.0  LOW      
+NC0265  0-18  4.5- 5.5  .5-2.  0- 0   2.0- 6.0  LOW      
+NC0265 18-32  4.5- 5.5  0.-.5  0- 0   0.6- 2.0  LOW      
+NC0265 32-36     -        -     -    0.00- 0.1           
 
 National Cooperative Soil Survey
 U.S.A.

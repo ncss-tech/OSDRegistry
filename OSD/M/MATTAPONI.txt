@@ -2,12 +2,11 @@ LOCATION MATTAPONI              VA+NC
 
 Established Series
 JHE-BES, Rev.DTA
-11/2007
+10/2021
 
 MATTAPONI SERIES
 
 MLRA(s): 133A, 136
-MLRA SOIL SURVEY REGIONAL OFFICE (MO) RESPONSIBLE: Raleigh, North Carolina
 Depth Class: very deep
 Drainage Class (Agricultural): moderately well drained to well drained
 Internal Free Water Occurrence: moderately deep to deep, common
@@ -25,21 +24,21 @@ TAXONOMIC CLASS: Fine, mixed, subactive, thermic Oxyaquic Hapludults
 
 TYPICAL PEDON: Mattaponi sandy clay loam on a 10 percent convex slope in a naturally reseeded mixed pine and hardwood forests. (Colors are for moist soils.) 
 
-   0i--1 to 0 inch; partially decomposed leaves and twigs. 
+   0i--0 to 1 inch; partially decomposed leaves and twigs. 
 
-   Ap--0 to 8 inches; brown (10YR 4/3) sandy clay loam; moderate fine granular structure; very friable; many fine and medium roots; very strongly acid; abrupt smooth boundary. (0 to 12 inches thick) 
+   Ap--1 to 9 inches; brown (10YR 4/3) sandy clay loam; moderate fine granular structure; very friable; many fine and medium roots; very strongly acid; abrupt smooth boundary. (0 to 12 inches thick) 
 
-   Bt1--8 to 14 inches; brownish yellow (10YR 6/6) sandy clay loam; moderate fine subangular blocky structure; friable, sticky, slightly plastic; common fine roots; few distinct clay films on faces of peds; very strongly acid; clear smooth boundary. 
+   Bt1--9 to 15 inches; brownish yellow (10YR 6/6) sandy clay loam; moderate fine subangular blocky structure; friable, sticky, slightly plastic; common fine roots; few distinct clay films on faces of peds; very strongly acid; clear smooth boundary. 
 
-   Bt2--14 to 29 inches; reddish yellow (7.5YR 6/8) clay; moderate fine and medium subangular blocky structure; firm, sticky, plastic; common fine roots; few distinct clay films on faces of peds; very strongly acid; clear smooth boundary. 
+   Bt2--15 to 30 inches; reddish yellow (7.5YR 6/8) clay; moderate fine and medium subangular blocky structure; firm, sticky, plastic; common fine roots; few distinct clay films on faces of peds; very strongly acid; clear smooth boundary. 
 
-   Bt3--29 to 34 inches; yellowish brown (10YR 5/6) clay; moderate medium and fine subangular blocky structure; firm, sticky, plastic; common fine roots; few distinct clay films on faces of peds; very strongly acid; clear smooth boundary. 
+   Bt3--30 to 35 inches; yellowish brown (10YR 5/6) clay; moderate medium and fine subangular blocky structure; firm, sticky, plastic; common fine roots; few distinct clay films on faces of peds; very strongly acid; clear smooth boundary. 
 
-   Bt4--34 to 44 inches; brownish yellow (10YR 6/6) clay; moderate medium subangular blocky structure; firm, sticky, plastic; few fine roots; common prominent clay films on faces of peds; many medium and coarse red (2.5YR 5/6) areas of iron accumulations and many medium and coarse distinct light gray (10YR 7/1) iron depletions; very strongly acid; clear smooth boundary. (Combined thickness of the Bt horizon is 30 to 60 inches.) 
+   Bt4--35 to 45 inches; brownish yellow (10YR 6/6) clay; moderate medium subangular blocky structure; firm, sticky, plastic; few fine roots; common prominent clay films on faces of peds; many medium and coarse red (2.5YR 5/6) areas of iron accumulations and many medium and coarse distinct light gray (10YR 7/1) iron depletions; very strongly acid; clear smooth boundary. (Combined thickness of the Bt horizon is 30 to 60 inches.) 
 
-   C1--44 to 56 inches; yellowish brown (10YR 5/6) clay; massive; very firm, sticky, very plastic; many medium distinct red (2.5YR 4/6) areas of iron accumulations and white (10YR 8/1) iron depletions; very strongly acid; abrupt smooth boundary. 
+   C1--45 to 57 inches; yellowish brown (10YR 5/6) clay; massive; very firm, sticky, very plastic; many medium distinct red (2.5YR 4/6) areas of iron accumulations and white (10YR 8/1) iron depletions; very strongly acid; abrupt smooth boundary. 
 
-   C2--56 to 68 inches; brownish yellow (10YR 6/6); sandy loam; massive, firm, 6 percent quartz gravel; many medium distinct light gray (10YR 7/2) and white (10YR 8/1) iron depletions; very strongly acid. 
+   C2--57 to 69 inches; brownish yellow (10YR 6/6); sandy loam; massive, firm, 6 percent quartz gravel; many medium distinct light gray (10YR 7/2) and white (10YR 8/1) iron depletions; very strongly acid. 
 
 TYPE LOCATION: Spotsylvania County, Virginia; about one mile east of Spotsylvania; about 500 yards north of Highway 668 and 600 yards northeast of the junction of Highway 668 and the Spotsylvania-Caroline County line. 
 
@@ -123,19 +122,20 @@ USE AND VEGETATION:
 Major Uses: mainly forest, rest cropland
 Dominant Vegetation: Where cultivated-- Corn and soybeans are the principal row crops. Barley, oats, and wheat are the principal small grains. Where woodedmixed hardwoods. 
 
+MLRA SOIL SURVEY REGIONAL OFFICE (MO) RESPONSIBLE: Raleigh, North Carolina 
+
 DISTRIBUTION AND EXTENT:
 Distribution: Atlantic Coastal Plain and Fall Line Region in Virginia, North Carolina, and South Carolina 
 Extent: large 
 
-MLRA SOIL SURVEY REGIONAL OFFICE (MO) RESPONSIBLE: Raleigh, North Carolina 
-
 SERIES ESTABLISHED: Spotsylvania County, Virginia, 1980. 
 
 REMARKS: Diagnostic horizons and soil characteristics recognized in this pedon are:
-Ochric epipedon - The zone between 0 and 8 inches (Ap horizon). 
-Argillic horizon - the zone between 8 and 44 inches (Bt horizon).
+Ochric epipedon - The zone between 0 and 9 inches (Oi and Ap horizons). 
+Argillic horizon - the zone between 9 and 45 inches (Bt horizon).
 Aquic conditions--the soil has redox depletions and concentrations within 40 inches of the soil surface, with periodic saturation and reduction at some time during the year
-Series control section--the zone from 0 to 60 inches 
+Series control section--the zone from 0 to 60 inches
+The soil horizon depths were modified on 10/2021 to ensure the description began at the soil surface. 
 
 ADDITIONAL DATA: Laboratory data from pedons in Spotsylvania and Greensville Counties by the Virginia Polytechnic Institute and State University 
 Data Map Unit ID (type location): 00000 
@@ -148,22 +148,22 @@ FloodL FloodH Watertable Kind   Months  Bedrock Hardness
 NONE          3.0-6.0  PERCHED  DEC-MAR  60-60        
 
 Depth  Texture                3-Inch  No-10  Clay%   -CEC-
- 0- 8  SL FSL                  0-  0  85-100  5-18   4- 10
- 0- 8  L SIL                   0-  0  85-100 10-27   8- 15
- 0- 8  CL SCL                  0-  0  75-100 20-40  10- 20
- 0- 8  GR-SL GR-L GR-SIL       0- 20  35- 75  5-27   4- 10
- 0- 8  GR-SCL GR-CL GR-C       0- 20  35- 75 20-44  10- 20
- 8-44  CL SC C                 0-  0  75-100 35-65  10- 20
-44-68  VAR                      -       -      -      -   
+ 0- 9  SL FSL                  0-  0  85-100  5-18   4- 10
+ 0- 9  L SIL                   0-  0  85-100 10-27   8- 15
+ 0- 9  CL SCL                  0-  0  75-100 20-40  10- 20
+ 0- 9  GR-SL GR-L GR-SIL       0- 20  35- 75  5-27   4- 10
+ 0- 9  GR-SCL GR-CL GR-C       0- 20  35- 75 20-44  10- 20
+ 9-45  CL SC C                 0-  0  75-100 35-65  10- 20
+45-69  VAR                      -       -      -      -   
 
 Depth    -pH-     O.M.  Salin  Permeab   Shnk-Swll
- 0- 8  4.5- 5.5  .5-2.  0- 0   0.6- 6.0  LOW      
- 0- 8  4.5- 5.5  .5-2.  0- 0   0.6- 6.0  LOW      
- 0- 8  4.5- 5.5  .5-2.  0- 0   0.2- 2.0  MODERATE 
- 0- 8  4.5- 5.5  1.-3.  0- 0   2.0- 6.0  LOW      
- 0- 8  4.5- 5.5  .5-1.  0- 0   0.2- 2.0  MODERATE 
- 8-44  4.5- 5.5  0.-.5  0- 0   0.2- 0.6  MODERATE 
-44-68     -        -     -    0.01-  20
+ 0- 9  4.5- 5.5  .5-2.  0- 0   0.6- 6.0  LOW      
+ 0- 9  4.5- 5.5  .5-2.  0- 0   0.6- 6.0  LOW      
+ 0- 9  4.5- 5.5  .5-2.  0- 0   0.2- 2.0  MODERATE 
+ 0- 9  4.5- 5.5  1.-3.  0- 0   2.0- 6.0  LOW      
+ 0- 9  4.5- 5.5  .5-1.  0- 0   0.2- 2.0  MODERATE 
+ 9-45  4.5- 5.5  0.-.5  0- 0   0.2- 0.6  MODERATE 
+45-69     -        -     -    0.01-  20
 
 
 National Cooperative Soil Survey

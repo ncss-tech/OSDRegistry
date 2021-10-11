@@ -2,7 +2,7 @@ LOCATION FEATHERSTONE           VA
 
 Established Series
 Rev. JHE-DDR
-11/2003
+10/2021
 
 FEATHERSTONE SERIES
 
@@ -12,13 +12,13 @@ TAXONOMIC CLASS: Fine-loamy, mixed, active, acid, mesic Typic Hydraquents
 
 TYPICAL PEDON:  Featherstone silt loam on 0 to 1 percent slopes in a marshy wooded area.
 
-    0i--2 to 0 inches; mosses and partially decomposed organic matter.
+    Oi--0 to 2 inches; mosses and partially decomposed organic matter.
 
-    A--0 to 14 inches; very dark grayish brown (10YR 3/2) mucky silt loam; structureless; very friable, slightly sticky, slightly plastic; many fine medium and coarse roots; many decomposing roots and organic debris; 15 percent organic carbon; strongly acid; clear smooth boundary (3 to 16 inches thick).
+    A--2 to 16 inches; very dark grayish brown (10YR 3/2) mucky silt loam; structureless; very friable, slightly sticky, slightly plastic; many fine medium and coarse roots; many decomposing roots and organic debris; 15 percent organic carbon; strongly acid; clear smooth boundary (3 to 16 inches thick).
 
-    Cg--14 to 38 inches; dark grayish brown (10YR 4/2) loam; many medium and coarse prominent very dark gray (10YR 3/1) mottles; structureless; friable, slightly sticky, slightly plastic; common fine roots; 1 percent fine quartz gravel; strongly acid; abrupt smooth boundary.
+    Cg--16 to 40 inches; dark grayish brown (10YR 4/2) loam; many medium and coarse prominent very dark gray (10YR 3/1) mottles; structureless; friable, slightly sticky, slightly plastic; common fine roots; 1 percent fine quartz gravel; strongly acid; abrupt smooth boundary.
 
-    C--38 to 72 inches; dark yellowish brown (10YR 4/4) loam; many medium and fine distinct dark gray (10YR 4/1) mottles; structureless; friable; slightly sticky, slightly plastic; few fine roots; 1 percent; fine quartz gravel; strongly acid.
+    C--40 to 74 inches; dark yellowish brown (10YR 4/4) loam; many medium and fine distinct dark gray (10YR 4/1) mottles; structureless; friable; slightly sticky, slightly plastic; few fine roots; 1 percent; fine quartz gravel; strongly acid.
 
 TYPE LOCATION: Type Location:  Prince William County, Virginia; 1/2 mile south of Va. Route 636 and 300 yards east of R.F.& P. Railroad, near Farm Creek.
 
@@ -38,11 +38,13 @@ DRAINAGE AND PERMEABILITY:  Very poorly drained; very slow to ponded runoff; mod
 
 USE AND VEGETATION:  Dominantly woody species with few larger trees of red maple and sweetgum.  Cattails, skunk cabbage and reeds make up much of the vegetation.  Many areas are partially covered with debris.  Distribution and Extent:  Along the streams flowing into the Chesapeake Bay, Maryland and Virginia.  The series is of small extent.
 
-MLRA SOIL SURVEY REGIONAL OFFICE (MO) RESPONSIBLE: Raleigh, North Carolina
+DISTRIBUTION AND EXTENT:  Coastal plain of Virginia.  The soils are of small extent.
+
+SOIL SURVEY REGIONAL OFFICE (SSRO) RESPONSIBLE: Raleigh, North Carolina
 
 SERIES ESTABLISHED:  Prince William County, Virginia, 1985.
 
-REMARKS:  This soil was previously mapped marsh.  It is classified on the basis of lab data from  Va. Tech.
+REMARKS:  This soil was previously mapped marsh.  It is classified on the basis of lab data from  Va. Tech.  The soil horizon depths were revised on 10/2021 to ensure the description began at the soil surface.
 
 TABULAR SERIES DATA:
 SOI-5  Soil Name   Slope  Airtemp FrFr/Seas Precip  Elevation
@@ -52,12 +54,12 @@ SOI-5  FloodL FloodH Watertable Kind   Months  Bedrock Hardness
 VA0229 FREQ             -     APPARENT    -     60-60        
 
 SOI-5  Depth  Texture                3-Inch  No-10  Clay%   -CEC-
-VA0229  0-14  MK-L MK-SIL             0-  1  90-100 10-27    -   
-VA0229 14-72  L SIL                   0-  1  85- 98 10-27    -   
+VA0229  0-16  MK-L MK-SIL             0-  1  90-100 10-27    -   
+VA0229 16-74  L SIL                   0-  1  85- 98 10-27    -   
 
 SOI-5  Depth    -pH-     O.M.  Salin  Permeab   Shnk-Swll
-VA0229  0-14  4.5- 5.5  10-30  2- 8   0.6- 2.0  LOW      
-VA0229 14-72  4.5- 5.5  2.-5.  2- 8   0.6- 2.0  LOW       
+VA0229  0-16  4.5- 5.5  10-30  2- 8   0.6- 2.0  LOW      
+VA0229 16-74  4.5- 5.5  2.-5.  2- 8   0.6- 2.0  LOW       
 
 National Cooperative Soil Survey
 U.S.A.

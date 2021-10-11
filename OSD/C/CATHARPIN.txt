@@ -2,7 +2,7 @@ LOCATION CATHARPIN              VA
 
 Established Series
 DDR
-07/1999
+10/2021
 
 CATHARPIN SERIES
 
@@ -10,22 +10,21 @@ Soils of the Catharpin series are very deep and well drained.  They formed in mo
 
 TAXONOMIC CLASS: Fine, mixed, semiactive, thermic Typic Hapludults
 
-TYPICAL PEDON:  Catharpin silt loam - on a convex 4 percent slope in a cultivated field.
-(Colors are for moist soil.)
+TYPICAL PEDON:  Catharpin silt loam - on a convex 4 percent slope in a cultivated field.  (Colors are for moist soil.)
 
-    Ap--0 to 9 inches; yellowish brown (lOYR 5/4) silt loam; weak fine granular structure; very friable; many fine roots; 3 percent rounded reddish quartzite gravel moderately acid; abrupt smooth boundary. (4 to 10 inches thick)
+    Ap--0 to 9 inches; yellowish brown (10YR 5/4) silt loam; weak fine granular structure; very friable; many fine roots; 3 percent rounded reddish quartzite gravel moderately acid; abrupt smooth boundary. (4 to 10 inches thick)
 
     Bt1--9 to 17 inches; yellowish red (5YR 5/6) silty clay loam; weak fine subangular blocky structure; friable, sticky, plastic; common fine roots; few faint clay films on faces of peds; 3 percent rounded reddish quartzite; strongly acid; gradual wavy boundary.
 
     Bt2--17 to 26 inches; red (2.5YR 4/6) clay; moderate fine and medium subangular blocky structure; firm, very sticky, plastic; common fine roots; many faint and distinct clay films on faces of peds; 2 percent rounded reddish quartzite gravel; very strongly acid; gradual wavy boundary.
 
-    Bt3--36 to 37 inches; red (2.5YR 4/8) clay; common fine faint yellowish red (5YR 4/6) mottles; moderate medium and fine subangular blocky structure; firm, very sticky, plastic; few fine roots; many distinct clay films on faces of peds; 2 percent rounded reddish quartzite; strongly acid; clear smooth boundary. (Combined thickness of the Bt horizon is 18 to 48 inches.)
+    Bt3--26 to 37 inches; red (2.5YR 4/8) clay; common fine faint yellowish red (5YR 4/6) mottles; moderate medium and fine subangular blocky structure; firm, very sticky, plastic; few fine roots; many distinct clay films on faces of peds; 2 percent rounded reddish quartzite; strongly acid; clear smooth boundary. (Combined thickness of the Bt horizon is 18 to 48 inches.)
 
     2Bt4--37 to 54 inches; red (2.5YR 4/8) clay; moderate fine subangular blocky structure; firm, slightly sticky, slightly plastic; few fine roots; common distinct clay films; 2 percent strongly weathered fragments of schist; common flakes of mica; very strongly acid; gradual smooth boundary.
 
-    2Bt5--54 to 76 inches; red (25YR 4/8) channery clay; many fine distinct yellowish brown (lOYR 5/8), and white (lOYR 8/2) mottles; weak fine subangular blocky structure; friable; common distinct clay films on faces of peds; 25 percent strongly weathered fragments of schist; many flakes of mica; very strongly acid; gradual smooth boundary.  (Combined thickness of the 2B horizon is 12 to 44 inches.)
+    2Bt5--54 to 76 inches; red (2.5YR 4/8) channery clay; many fine distinct yellowish brown (10YR 5/8), and very pale brown (10YR 8/2) mottles; weak fine subangular blocky structure; friable; common distinct clay films on faces of peds; 25 percent strongly weathered fragments of schist; many flakes of mica; very strongly acid; gradual smooth boundary.  (Combined thickness of the 2Bt horizon is 12 to 44 inches.)
 
-    2--76 to 100 inches; brown, yellow, red and white silt loam; massive; friable; highly weathered; micaceous, schist; few distinct clay flows between rock structural planes; very strongly acid.
+    2C--76 to 100 inches; brown, yellow, red and white silt loam; massive; friable; highly weathered; micaceous, schist; few distinct clay flows between rock structural planes; very strongly acid.
 
 TYPE LOCATION:  Spotsylvania County, Virginia; about 11 miles northwest of Spotsylvania, Virginia; 60 feet north of State Highway 611 and about 1 mile west of Parker, Virginia.
 
@@ -53,7 +52,7 @@ MLRA SOIL SURVEY REGIONAL OFFICE (MO) RESPONSIBLE: Raleigh, North Carolina
 
 SERIES ESTABLISHED:  Spotsylvania County, Virginia, 1980.
 
-ADDITIONAL DATA:  Data on particle size and chemical analysis for typifying pedon are available VPI & SU Soil Survey Laboratory 1970 (field name of soil:  Chancellorsville 187BI, Spotsylvania County, Virginia).
+REMARKS:  Data on particle size and chemical analysis for typifying pedon are available VPI & SU Soil Survey Laboratory 1970 (field name of soil:  Chancellorsville 187BI, Spotsylvania County, Virginia).
 
 NOTES:  Diagnostic horizons and features recogized in this pedon.
   Ochric Epipedon - The Ap horizon from 0 to 9 inches.
