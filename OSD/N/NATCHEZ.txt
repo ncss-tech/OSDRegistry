@@ -2,7 +2,7 @@ LOCATION NATCHEZ                MS+AR LA TN
 
 Established Series
 Rev. WMK:RBH
-05/2002
+10/2021
 
 NATCHEZ SERIES
 
@@ -13,19 +13,19 @@ TAXONOMIC CLASS: Coarse-silty, mixed, superactive, thermic Typic Eutrudepts
 
 TYPICAL PEDON: Natchez silt loam - forest. (Colors are for moist soil unless otherwise stated.)
 
-	0i--1 to 0 inches; partially decomposed matted leaves and twigs.
+	0i--0 to 1 inches; partially decomposed matted leaves and twigs.
 
-	A1--0 to 3 inches; dark grayish brown (10YR 4/2) silt loam; weak fine granular structure; very friable; many fine roots; moderately acid; clear smooth boundary.
+	A1--1 to 4 inches; dark grayish brown (10YR 4/2) silt loam; weak fine granular structure; very friable; many fine roots; moderately acid; clear smooth boundary.
 
-	A2--3 to 8 inches; brown (10YR 4/3) silt loam; weak fine granular structure; very friable; many fine roots; moderately acid; clear smooth boundary. (Combined thickness of the A horizon is 4 to 12 inches thick.)
+	A2--4 to 9 inches; brown (10YR 4/3) silt loam; weak fine granular structure; very friable; many fine roots; moderately acid; clear smooth boundary. (Combined thickness of the A horizon is 4 to 12 inches thick.)
 
-	Bw1--8 to 11 inches; yellowish brown (10YR 5/4) silt loam; weak coarse subangular blocky structure; friable; common fine roots; slightly acid; gradual smooth boundary.
+	Bw1--9 to 12 inches; yellowish brown (10YR 5/4) silt loam; weak coarse subangular blocky structure; friable; common fine roots; slightly acid; gradual smooth boundary.
 
-	Bw2--11 to 26 inches; dark yellowish brown (10YR 4/4) silt loam; weak coarse subangular blocky structure; friable; few fine roots; slightly acid; clear smooth boundary. (Combined thickness of the Bw subhorizons is 14 to 38 inches.)
+	Bw2--12 to 27 inches; dark yellowish brown (10YR 4/4) silt loam; weak coarse subangular blocky structure; friable; few fine roots; slightly acid; clear smooth boundary. (Combined thickness of the Bw subhorizons is 14 to 38 inches.)
 
-	C1--26 to 48 inches; yellowish brown (10YR 5/4) silt loam; massive; very friable; few fine roots; few fine calcareous white nodules; few small shell fragments; slightly alkaline; clear smooth boundary.
+	C1--27 to 49 inches; yellowish brown (10YR 5/4) silt loam; massive; very friable; few fine roots; few fine calcareous white nodules; few small shell fragments; slightly alkaline; clear smooth boundary.
 
-	C2--48 to 65 inches; dark yellowish brown (10YR 4/4) silt loam; massive; very friable; few medium roots; few fine white calcareous small shell fragments; moderately alkaline.
+	C2--49 to 66 inches; dark yellowish brown (10YR 4/4) silt loam; massive; very friable; few medium roots; few fine white calcareous small shell fragments; moderately alkaline.
 
 TYPE LOCATION: Tate County, Mississippi; 0.5 mile south of Trusalae Methodist Church; 150 yards east of gravel road across the cemetery; northeast corner SW1/4, sec. 17, R. 9 N., T. 6 S.
 
@@ -55,9 +55,11 @@ SERIES ESTABLISHED: DeSoto County, Mississippi; 1955.
 
 REMARKS: Diagnostic horizons and features recognized in this pedon are:
 
-Ochric epipedon - the zone from the surface of the soil to a depth of approximately 8 inches (A1, A2 horizons)
+Ochric epipedon - the zone from the surface of the soil to a depth of approximately 9 inches (Oi, A1, A2 horizons)
 
-Cambic horizon - the zone from approximately 8 to 26 inches (Bw1, Bw2 horizons)
+Cambic horizon - the zone from approximately 9 to 27 inches (Bw1, Bw2 horizons)
+
+The soil horizon depths were updated on 10/2021 to ensure the description began at the soil surface.
 
 ADDITIONAL DATA: Bureau of Public Roads No. 534056, 534057, 534058, 534059, 534060, 534061, 534062. (Soil Survey Report, Warren County, Mississippi)
 

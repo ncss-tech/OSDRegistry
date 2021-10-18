@@ -2,7 +2,7 @@ LOCATION JUMPER                 FL
 
 Established Series
 Rev. BPT:GWH
-09/2002
+10/2021
 
 JUMPER SERIES
 
@@ -10,20 +10,19 @@ The Jumper series consist of deep, somewhat poorly drained, moderately slowly pe
 
 TAXONOMIC CLASS: Loamy, siliceous, semiactive, hyperthermic Arenic Plinthaquic Paleudults
 
-TYPICAL PEDON:  Jumper fine sand - forested.
-                (Colors are for moist soil.)
+TYPICAL PEDON:  Jumper fine sand - forested. (Colors are for moist soil.)
 
-     Ap--0 to 6 inches; dark gray (lOYR 4/1) fine sand, weak fine granular structure; few fine roots; strongly acid; clear wavy boundary.  (4 to 10 inches thick)
+     Ap--0 to 6 inches; dark gray (10YR 4/1) fine sand, weak fine granular structure; few fine roots; strongly acid; clear wavy boundary.  (4 to 10 inches thick)
 
-     El--6 to 15 inches; very pale brown (lOYR 7/3) sand; few fine distinct (lOYR 4/1), few fine faint light gray (lOYR 7/1), and few fine prominent yellowish red (5YR 5/8) mottles; single grained; loose; few fine medium roots;  yellowish  red  mottles  are  firm;  strongly acid;  gradual  wavy boundary.
+     E1--6 to 15 inches; very pale brown (10YR 7/3) sand; few fine distinct dark gray (10YR 4/1), few fine faint light gray (10YR 7/1), and few fine prominent yellowish red (5YR 5/8) mottles; single grained; loose; few fine medium roots;  yellowish  red  mottles  are  firm;  strongly acid;  gradual  wavy boundary.
 
-     E2--15 to 29 inches; very pale brown (lOYR 7/3) sand; few fine faint white (lOYR 8/1), gray (lOYR 5/1), and yellow (lOYR 7/6) and few fine prominent yellowish red (5YR 5/8) mottles; single grained; loose; yellowish red mottles are firm; strongly acid; clear wavy boundary.  (Thickness of the E horizon is 12 to 36 inches.)
+     E2--15 to 29 inches; very pale brown (10YR 7/3) sand; few fine faint white (10YR 8/1), gray (10YR 5/1), and yellow (10YR 7/6) and few fine prominent yellowish red (5YR 5/8) mottles; single grained; loose; yellowish red mottles are firm; strongly acid; clear wavy boundary.  (Thickness of the E horizon is 12 to 36 inches.)
 
-     Btl--29 to 33 inches; yellowish brown (lOYR 5/4) sandy clay loam; few medium distinct light gray (lOYR 7/1) and strong brown (7.5YR 5/8) and few fine prominent yellowish red (5YR 5/8) mottles; weak medium subangular blocky structure; friable; few fine roots; sand grains located and bridged with clay; yellowish red mottles are firm; strongly acid; gradual wavy boundary.
+     Bt1--29 to 33 inches; yellowish brown (10YR 5/4) sandy clay loam; few medium distinct light gray (10YR 7/1) and strong brown (7.5YR 5/8) and few fine prominent yellowish red (5YR 5/8) mottles; weak medium subangular blocky structure; friable; few fine roots; sand grains located and bridged with clay; yellowish red mottles are firm; strongly acid; gradual wavy boundary.
 
-     Bt2--35 to 53  inches; pale brown  (lOYR 6/3)  sandy clay loam; few medium yellowish red (5YR 5/8), common medium gray (lOYR 6/1), and few fine red (lOR 5/8) mottles; moderate medium subangular blocky structure; few fine roots; thin discontinuous clay films on faces of peds; red mottles are firm; strongly acid; clear wavy boundary.  (Thickness of the Bt horizon is 8 to 40 inches.)
+     Bt2--33 to 53  inches; pale brown  (10YR 6/3)  sandy clay loam; few medium yellowish red (5YR 5/8), common medium gray (10YR 6/1), and few fine red (10R 5/8) mottles; moderate medium subangular blocky structure; few fine roots; thin discontinuous clay films on faces of peds; red mottles are firm; strongly acid; clear wavy boundary.  (Thickness of the Bt horizon is 8 to 40 inches.)
 
-     Btv--53 to 80 inches; mottled gray (lOYR 6/1), yellowish brown (lOYR 5/8), and red (lOYR 4/8) sandy clay loam; weak medium subangular blocky structure; friable; few discontinuous clay films on faces of peds; about 12 percent by volume of nodule plinthite.
+     Btv--53 to 80 inches; mottled gray (10YR 6/1), yellowish brown (10YR 5/8), and dark yellowish brown (10YR 4/6) sandy clay loam; weak medium subangular blocky structure; friable; few discontinuous clay films on faces of peds; about 12 percent by volume of nodule plinthite; strongly acid.
 
 TYPE LOCATION:  Marion County, Florida, about 2 miles east of Fort McCoy on State Road 316, and 1/2 mile south of road; NW1/4NE1/4 sec.  13, T. 13 S., R. 23 E.
 
@@ -49,9 +48,10 @@ DRAINAGE  AND  PERMEABILITY:  Somewhat poorly drained; moderately  slow permeabi
 
 USE AND VEGETATION:  Cleared areas are used for citrus, corn, peanuts, watermelons, tomatoes, and improved pasture.  Native vegetation consists of loblolly, slash, and longleaf pines, water and willow oaks, and sweetbay and  magnolia  with  an  understory  of  bluestem, panicums,  American beautyberry, greenbrier, grapes, and other vines.
 
-MLRA SOIL SURVEY REGIONAL OFFICE (MO) RESPONSIBLE: Auburn, Alabama
-
 DISTRIBUTION AND EXTENT:  Peninsular Florida.  The series is of moderate extent.
+
+SOIL SURVEY REGIONAL OFFICE (SSRO) RESPONSIBLE: Auburn, Alabama
+
 SERIES ESTABLISHED:  Marion County, Florida, 1974.
 
 REMARKS:  Diagnostic horizon and features recognized in this pedon are:
@@ -61,6 +61,4 @@ Ochric epipedon--The zone from 0 to 29 inches;
 Argillic horizon--The zone from 29 to 80 inches.  The argillic horizon has more than 5 percent plinthite in the zone from 53 to 80 inches.
 
 National Cooperative Soil Survey
-U. S. A.
-
-
+U.S.A.

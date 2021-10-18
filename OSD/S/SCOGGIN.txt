@@ -2,7 +2,7 @@ LOCATION SCOGGIN                FL
 
 Established Series
 Rev. RBH:JFB
-10/2018
+10/2021
 
 SCOGGIN SERIES
 
@@ -12,19 +12,19 @@ TAXONOMIC CLASS: Loamy, siliceous, subactive, hyperthermic Arenic Endoaquults
 
 TYPICAL PEDON:  Scoggin muck in a forested area.  (Colors are for moist soil unless otherwise stated.)
 
-     Oa--4 to 0 inches; dark reddish brown (5YR 2/2) well decomposed organic matter (muck); weak fine granular structure; very friable; many fine roots; strongly acid; clear smooth boundary.  (0 to 4 inches thick)
+     Oa--0 to 4 inches; dark reddish brown (5YR 2/2) well decomposed organic matter (muck); weak fine granular structure; very friable; many fine roots; strongly acid; clear smooth boundary.  (0 to 4 inches thick)
 
-     A1--0 to 7 inches; black (10YR 2/1) sand; weak fine granular structure; very friable; common fine and few medium and large roots; strongly acid; clear wavy boundary.  (5 to 9 inches thick)
+     A--4 to 11 inches; black (10YR 2/1) sand; weak fine granular structure; very friable; common fine and few medium and large roots; strongly acid; clear wavy boundary.  (5 to 9 inches thick)
 
-     A21--7 to 17 inches; dark gray (10YR 4/1) sand; single grained; loose; few fine faint black streaks; few fine medium and large roots; strongly acid; gradual wavy boundary.  (6 to 15 inches thick)
+     E1--11 to 21 inches; dark gray (10YR 4/1) sand; single grained; loose; few fine faint black streaks; few fine medium and large roots; strongly acid; gradual wavy boundary.  (6 to 15 inches thick)
 
-     A22--17 to 25 inches; gray (10YR 5/1) sand; common medium distinct very dark gray (10YR 3/1) streaks and grayish brown (10YR 5/2) mottles; single grained; loose; few fine, medium and large roots; strongly acid; gradual wavy boundary.  (5 to 12 inches thick)
+     E2--21 to 29 inches; gray (10YR 5/1) sand; common medium distinct very dark gray (10YR 3/1) streaks and grayish brown (10YR 5/2) mottles; single grained; loose; few fine, medium and large roots; strongly acid; gradual wavy boundary.  (5 to 12 inches thick)
 
-     A23--25 to 36 inches; gray (10YR 6/1) sand; few medium distinct very dark gray (10YR 3/1) mottles; single grained; loose few fine roots; strongly acid; clear wavy boundary.  (0 to 14 inches thick)
+     E3--29 to 40 inches; gray (10YR 6/1) sand; few medium distinct very dark gray (10YR 3/1) mottles; single grained; loose few fine roots; strongly acid; clear wavy boundary.  (0 to 14 inches thick)
 
-     B2tg--36 to 49 inches; dark gray (10YR 4/1) sandy clay loam; few coarse distinct yellowish brown (10YR 5/6) mottles; weak coarse subangular blocky structure; friable, slightly sticky; sand grains coated and bridged with clay; few fine decaying roots; strongly acid; clear wavy boundary.  (10 to 25 inches thick)
+     Btg--40 to 53 inches; dark gray (10YR 4/1) sandy clay loam; few coarse distinct yellowish brown (10YR 5/6) mottles; weak coarse subangular blocky structure; friable, slightly sticky; sand grains coated and bridged with clay; few fine decaying roots; strongly acid; clear wavy boundary.  (10 to 25 inches thick)
 
-     Cg--49 to 54 inches; gray (10YR 5/1) sandy loam; massive; friable; few coarse distinct loamy sand and dark gray sandy clay loam lenses; strongly acid.
+     Cg--53 to 58 inches; gray (10YR 5/1) sandy loam; massive; friable; few coarse distinct loamy sand and dark gray sandy clay loam lenses; strongly acid.
 
 TYPE LOCATION:  Volusia County, Florida; about 4 miles east of Barberville and 0.7 mile east of Plantation Pine Estates along Jack Pine Road.  NW1/4NW1/4 sec. 8, T. 15 S., R. 31 E.
 
@@ -57,7 +57,7 @@ SERIES ESTABLISHED:  Volusia County, Florida; 1977.
 
 REMARKS:
 
-ADDITIONAL DATA:  Data is available on a pedon sampled with number S76FL127-27(1-5).  Characterization data was obtained from the University of Florida and engineering test data from the Florida Department of Transportation.
+ADDITIONAL DATA:  Data is available on a pedon sampled with number S76FL127-27(1-5).  Characterization data was obtained from the University of Florida and engineering test data from the Florida Department of Transportation.  The soil horizon depths were modified on 10/2021 to ensure the description began at the soil surface.  The A2 layers were converted to E horizons.
 
 National Cooperative Soil Survey
 U.S.A.
