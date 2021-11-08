@@ -1,8 +1,8 @@
 LOCATION SCOTT                  NE+CO SD
 
 Established Series
-Rev. RDG, RRH, DJK
-06/2012
+Rev. RDG, DJK, PTC
+11/2021
 
 SCOTT SERIES
 
@@ -49,6 +49,7 @@ Texture: silt loam, silty clay loam
 Clay content: 22 to 32 percent 
 Sand content: 5 to 10 percent
 Reaction: strongly acid to slightly acid
+Thickness: 5 to 15 centimeters
 
 E horizon: 
 Hue: 10YR
@@ -58,6 +59,7 @@ Texture: silt loam
 Clay content: 12 to 22 percent
 Sand content: 6 to 14 percent
 Reaction: strongly acid to slightly acid
+Thickness: 3 to 13 centimeters
 
 Bt horizon:
 Hue: 10YR, 2.5Y, 5Y, N
@@ -68,6 +70,7 @@ Clay content: 35 to 55 percent
 Sand content: 3 to 10 percent
 Redoximorphic concentrations: Hue 5YR to 10YR, value 3 to 5 moist, chroma 4 to 8 moist. 
 Reaction: moderately acid to slightly alkaline 
+Thickness: 41 to 102 centimeters
 
 BC horizon:
 Hue: 10YR or 2.5Y
@@ -78,6 +81,7 @@ Clay content: 32 to 42 percent
 Sand content: 3 to 8 percent
 Redoximorphic concentrations: Hue 5YR to 10YR, value 4 to 6 moist, chroma 4 to 8 moist. 
 Reaction: neutral to moderately alkaline 
+Thickness: 13 to 36 centimeters
 
 C horizon: 
 Hue: 10YR or 2.5Y
@@ -121,7 +125,7 @@ USE AND VEGETATION: Most areas are in pasture or wildlife habitat and used for l
 
 DISTRIBUTION AND EXTENT: Primarily south central, central, and extreme north central Nebraska; LRRs H, G, and M; MLRAs 71, 73, 75, 66, 102C, and 106. The series is moderately extensive. 
 
-MLRA SOIL SURVEY REGIONAL OFFICE (MO) RESPONSIBLE: Denver, Colorado 
+SOIL SURVEY REGIONAL OFFICE (SSRO) RESPONSIBLE: Salina, Kansas 
 
 SERIES ESTABLISHED: Scott County, Kansas, 1910. The Scott series is no longer used in Kansas.
 
@@ -141,7 +145,11 @@ A terrace phase is recognized that has sand or coarse textured material below th
 
 12/2011 DJK: Updated basic formatting to meet MO5 standards. On landform changed depressions to closed depressions. Edited MAP and MAAT in introduction. Added elevation to typical pedon.  Changed Lat/Long to proper location (old put in wrong section about a mile away). Extended C2 horizon on typical pedon to 200 cm. Added clay and sand contents to each horizon in RIC. For textures in RIC deleted loam for E, clay loam and silt loam for BC, and clay loam and loam for the C. Added silty clay as possible texture for BC. Added redoximorphic concentrations for Bt, BC, and C horizons in RIC. Updated the competing series section to better define differences. Added elevation to geomorphic setting. Edited geographically associated soils by eliminating Hastings and adding Massie. In drainage and saturated hydraulic conductivity eliminated occasional in ponding frequency an reworded saturation statement. In distribution and extent deleted the northwest part of northeast NE.
 
+11/2021 PTC: Added wetland vegetation for Nebraska to ADDITIONAL DATA. Updated SSRO statement. Added Thickness to Range in Characteristics.
+
 ADDITIONAL DATA: Data is available from the National Soil Survey Center, Soil Survey Laboratory for Pedon IDs 77NE035001 and 79NE059007. Pedon ID 1978NE061020 represents the Typical Pedon and is in NASIS. 
+
+In Nebraska, the native vegetative cover is an herbaceous wetland community commonly inhabited with: lesser duckweed (Lemna aequinoctialis), turion duckweed (L. turionifera) Herbaceous: river bulrush (Bolboschoenus fluviatilis), largespike spikerush (Eleocharis macrostachya), rice cutgrass (Leersia oryzoides), short-beak arrowhead (Sagittaria brevirostra), duck-potato arrowhead (S. cuneata), swamp smartweed (Persicaria coccinea), large-fruit burred , (Sparganium eurycarpum), narrowleaf cattail (TYPHA ANGUSTIFOLIA), broadleaf cattail (Typha latifolia).  Source: Terrestrial Ecological Systems and Natural Communities of Nebraska, Version IV. S.B. Rolfsmeier and G. Steinauer. Nebraska Natural Heritage Program, Nebraska Game and Parks Commission, 2010.
 
 National Cooperative Soil Survey
 U.S.A.

@@ -2,28 +2,27 @@ LOCATION JUNALUSKA              NC+GA TN VA
 
 Established Series
 Rev. JDV:SAB:AG:MKC
-09/2007
+11/2021
 
 JUNALUSKA SERIES
 
 The Junaluska series consists of moderately deep, well drained, moderately permeable soils on ridges and side slopes of the Southern Appalachian Mountains.  They formed in residuum that is affected by soil creep in the upper part, and is weathered from low grade metasedimentary rocks, such as phyllite, slate, and low grade, thinly bedded metasandstone.  Slope ranges from 3 to 95 percent.  Mean annual temperature is 56 degrees F., and mean annual precipitation is about 60 inches near the type location.
 
-
 TAXONOMIC CLASS: Fine-loamy, mixed, subactive, mesic Typic Hapludults
 
 TYPICAL PEDON:  Junaluska fine sandy loam on a 20 percent, southwest facing mountain side slope--forested. (Colors are for moist soil unless otherwise stated)
 
-     0i--2 to 0 inches; partially decomposed organic matter and deciduous leaves, twigs, and roots.
+ Oi--0 to 2 inches; partially decomposed organic matter and deciduous leaves, twigs, and roots.
 
-     A1--0 to 2 inches; brown (7.5YR 5/4) fine sandy loam; weak medium granular structure; very friable; common fine, medium and coarse roots; 5 percent metasandstone channers by volume; common fine mica flakes; extremely acid; clear wavy boundary.
+ A1--2 to 4 inches; brown (7.5YR 5/4) fine sandy loam; weak medium granular structure; very friable; common fine, medium and coarse roots; 5 percent metasandstone channers by volume; common fine mica flakes; extremely acid; clear wavy boundary.
 
-     A2--2 to 11 inches; strong brown (7.5YR 5/6) fine sandy loam; weak medium granular structure; very friable; common fine, medium and coarse roots; 5 percent metasandstone channers by volume; common fine mica flakes; very strongly acid; clear wavy boundary.  (Combined thickness of the A horizons is 1 to 11 inches thick.)
+ A2--4 to 13 inches; strong brown (7.5YR 5/6) fine sandy loam; weak medium granular structure; very friable; common fine, medium and coarse roots; 5 percent metasandstone channers by volume; common fine mica flakes; very strongly acid; clear wavy boundary. (Combined thickness of the A horizons is 1 to 11 inches thick.)
 
-     Bt--11 to 21 inches; yellowish red (5YR 5/8) sandy clay loam; common coarse distinct red (2.5YR 4/8) mottles; moderate medium subangular blocky structure; friable, slightly sticky, slightly plastic; few medium roots; few faint clay films on faces of peds; 5 percent by volume metasandstone channers; common fine mica flakes; strongly acid; clear wavy boundary.  (10 to 25 inches thick)
+ Bt--13 to 23 inches; yellowish red (5YR 5/8) sandy clay loam; common coarse distinct red (2.5YR 4/8) mottles; moderate medium subangular blocky structure; friable, slightly sticky, slightly plastic; few medium roots; few faint clay films on faces of peds; 5 percent by volume metasandstone channers; common fine mica flakes; strongly acid; clear wavy boundary. (10 to 25 inches thick)
 
-     C/B--21 to 26 inches; thin parallell layers of yellowish red (5YR 5/8) and red (2.5YR 4/8) fine sandy loam saprolite, and sandy clay loam B horizon material; saprolite is massive and the B horizon material has weak medium subangular block structure; friable; 5 percent by volume metasandstone channers; common fine mica flakes; strongly acid; clear irregular boundary.  (0 to 8 inches thick)
+ C/B--23 to 28 inches; thin parallell layers of yellowish red (5YR 5/8) and red (2.5YR 4/8) fine sandy loam saprolite, and sandy clay loam B horizon material; saprolite is massive and the B horizon material has weak medium subangular block structure; friable; 5 percent by volume metasandstone channers; common fine mica flakes; strongly acid; clear irregular boundary. (0 to 8 inches thick)
 
-     Cr--26 to 31 inches; multicolored, weathered, low grade metasandstone; partially consolidated but can be dug with difficulty with a spade.
+ Cr--28 to 33 inches; multicolored, weathered, low grade metasandstone; partially consolidated but can be dug with difficulty with a spade.   
 
 TYPE LOCATION:  Cherokee County, North Carolina; west from Murphy on U.S. Highway 64 to State Road 1301; west to State Road 1302; northwest to State Road 1303; northeast to USFS Road 307; 0.5 mile west of intersection of USFS Road 307 and USFS Road 6068 on USFS Road 307; 0.1 mile S of USFS Road 307 in woods.  (525,880N;465,790E)
 
@@ -64,11 +63,11 @@ Laboratory data from the typifying pedon were obtained from the National Soil Su
 
 This soil has the following diagnostic horizons and features:
 
-Ochric epipedon - the zone from the surface of the soil to a depth of 11 inches (A1 and A2 horizons)
+Ochric epipedon - the zone from the surface of the soil to a depth of 13 inches (Oi, A1 and A2 horizons)
 
-Argillic horizon - the zone from 11 to 21 inches below the surface (Bt horizon)
+Argillic horizon - the zone from 13 to 23 inches below the surface (Bt horizon)
 
-Paralithic contact - the occurrence of weathered bedrock at a depth of 26 inches.  (The upper boundary of the Cr horizon)
+Paralithic contact - the occurrence of weathered bedrock at a depth of 28 inches.  (The upper boundary of the Cr horizon)
 
 MLRA = 130 SIR = NC0181
 

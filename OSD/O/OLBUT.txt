@@ -1,8 +1,8 @@
 LOCATION OLBUT                  NE
 
 Established Series
-Rev. ATL, LGR, DJK
-07/2020
+Rev. LGR, DJK, PTC
+11/2021
 
 OLBUT SERIES
 
@@ -48,6 +48,7 @@ Sand content: 4 to 10 percent
 Ec: 0 to 2 mmhos/cm
 Sar: 2 to 12
 Reaction: slightly acid to slightly alkaline.
+Thickness: 10 to 20 centimeters
 
 Bt horizon:
 Hue: 10YR or 2.5Y
@@ -73,6 +74,7 @@ Ec: 4 to 10 mmhos/cm
 Sar: 6 to 13
 Reaction: slightly alkaline or moderately alkaline  
 Redoximorphic concentrations: Hue, 5YR to 10YR; value, 3 to 5 moist; chroma, 4 to 6 moist 
+Thickness: Combined thickness of Bt is 25 to 66 centimeters
 
 BCz horizon:
 Hue: 10YR to 5Y
@@ -86,6 +88,7 @@ Ec: 4 to 8 mmhos/cm
 Sar: 6 to 13 
 Reaction: slightly alkaline or moderately alkaline
 Redoximorphic concentrations: Hue, 5YR to 10YR; value, 3 to 5 moist; chroma, 4 to 6 moist 
+Thickness: 15 to 25 centimeters
 
 Cz horizon:
 Hue: 10YR to 5Y
@@ -172,7 +175,12 @@ Added in salt accumulation depths to Remarks section.
 Added Additional Data section with NSSL characterization data.
 
 OSD Modification 8/2012 DJK Added soil moisture and temperature to RIC. Lowered sand content for the Ap from 7 to 4 percent. Lowered the sand content for the Bt and Btz horizons from 4 to 2 percent. Increased lower clay content for Bt and PSCS from 40 to 42. Increased the sand content for the Cz from 8 to 10. Added calcium carbonate equivalent to RIC. Updated competing series. Added precipitation pattern to geographic setting. Added linear extensibility to remarks.
+
+11/2021 PTC: Added wetland vegetation for Nebraska to ADDITIONAL DATA.  Added Thickness to Range in Characteristics.
+
 ADDITIONAL DATA: NSSL characterization data available for pedons 79NE059006 and 79NE059010.  
+
+In Nebraska, the native vegetative cover is an herbaceous wetland community commonly inhabited with: shortbeak sedge (Carex brevior (Dewey) Mack.), woolly sedge (Carex pellita), ticklegrass(Agrostis hyemalis), bald spikerush (Eleocharis erythropoda), western wheatgrass (Pascopyrum smithii), and rice cutgrass (Leersia oryzoides). Plains coreopsis (Coreopsis tinctoria), western water clover, (Marsilea vestita), smartweeds (Persicaria spp.), docks (Rumex spp.), and prairie ironweed (Vernonia fasciculata). Source: Terrestrial Ecological Systems and Natural Communities of Nebraska, Version IV. S.B. Rolfsmeier and G. Steinauer. Nebraska Natural Heritage Program, Nebraska Game and Parks Commission, 2010.
 
 National Cooperative Soil Survey
 U.S.A.

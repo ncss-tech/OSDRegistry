@@ -1,8 +1,8 @@
 LOCATION LODGEPOLE              NE
 
 Established Series
-Rev. LGR, JW, JCR
-11/2005
+Rev. LGR, JCR, PTC
+11/2021
 
 LODGEPOLE SERIES
 
@@ -38,6 +38,7 @@ Value: 4 or 5, 2 or 3 moist
 Chroma: 1 or 2
 Texture: silt loam, loam or silty clay loam. 
 Reaction: slightly acid to slightly alkaline 
+Thickness: 5 to 20 centimeters
 
 Pedons in undisturbed areas commonly have a thin E horizon.
 
@@ -47,6 +48,7 @@ Value: 3 to 5, 2 to 4 moist
 Chroma: 1 or 2
 Texture: silty clay, silty clay loam, clay and clay loam
 Reaction: slightly acid to slightly alkaline
+Thickness: 46 to 117 centimeters
 
 Bk horizon: present in some pedons
 
@@ -57,6 +59,7 @@ Chroma: 1 to 4
 Texture: silty clay, silty clay loam, and clay loam (fine sandy loam, sandy loam, loamy very fine sand, loamy fine sand or loamy sand below a depth of 102 centimeters (40 inches) in some pedons)
 Dark organic stains: common on faces of peds 
 Reaction: neutral to moderately alkaline
+Thickness: 0 to 46 centimeters
 
 C horizon:
 Hue: 10YR or 2.5Y
@@ -106,19 +109,24 @@ The ponded phase is mostly in native grass or weeds.
 
 DISTRIBUTION AND EXTENT: Western Nebraska and possibly eastern Wyoming, northeastern Colorado, southwestern South Dakota and northwestern Kansas. The series is of small extent.
 
-MLRA SOIL SURVEY REGIONAL OFFICE (MO) RESPONSIBLE: Denver, Colorado
+SOIL SURVEY REGIONAL OFFICE (SSRO) RESPONSIBLE: Salina, Kansas 
+
 
 SERIES ESTABLISHED: Banner County, Nebraska; 1989.
-
 REMARKS: Diagnostic horizons and features in this pedon are: 
 Mollic epipedon: 0 to 114 centimeters (45 inches) (the Ap, Bt1, Bt2, Bt3 and Bt4 horizons) 
 Argillic horizon:  13 to 114 centimeters (5 to 45 inches) (the Bt horizons)
 Aquic soil conditions/redox features: 23 to 97 centimeters (9 to 38 inches) 
 The Lodgepole soils need to be re-examined for possible inclusion in the "Vertic" subgroup.  Lodgepole soils were previously mapped as variants of the Scott series. They are in a drier climate and typically pond for shorter duration than the Scott soils mapped in eastern and central Nebraska. The ponded phase is similar to the Scott soils but the profile classifies the same as Lodgepole. The ponded phase needs additional study to determine if a new series is needed. 
 
-ADDITIONAL DATA:
-
 Modified format by LRM in 10/2005 to include metric conversion and change permeability to saturated hydraulic conductivity.
+
+11/2021 PTC: Added wetland vegetation for Nebraska to ADDITIONAL DATA. Updated SSRO statement. Added Thickness to Range in Characteristics.
+
+ADDITIONAL DATA:
+In Nebraska, the native vegetative cover is an herbaceous wetland community commonly inhabited with: shortbeak sedge (Carex brevior (Dewey) Mack.), woolly sedge (Carex pellita), ticklegrass(Agrostis hyemalis), bald spikerush (Eleocharis erythropoda), western wheatgrass (Pascopyrum smithii), and rice cutgrass (Leersia oryzoides). Plains coreopsis (Coreopsis tinctoria), western water clover, (Marsilea vestita), smartweeds (Persicaria spp.), docks (Rumex spp.), and prairie ironweed (Vernonia fasciculata). Source: Terrestrial Ecological Systems and Natural Communities of Nebraska, Version IV. S.B. Rolfsmeier and G. Steinauer. Nebraska Natural Heritage Program, Nebraska Game and Parks Commission, 2010.
+
+
 
 National Cooperative Soil Survey
 U.S.A.

@@ -2,7 +2,7 @@ LOCATION PINEVILLE              WV+KY
 
 Established Series
 Rev. BLW-JCL
-07/2003
+11/2021
 
 PINEVILLE SERIES
 
@@ -12,22 +12,19 @@ TAXONOMIC CLASS: Fine-loamy, mixed, active, mesic Typic Hapludults
 
 TYPICAL PEDON:  Pineville loam, very stony, on a 55 percent south facing slope in a hardwood forest.  (Colors are for moist soil).
 
-Oi--1 to 0 inches; undecomposed oak and yellow-poplar leaves.
+ Oi--0 to 1 inch; undecomposed oak and yellow-poplar leaves.
 
-A--0 to 3 inches; dark brown (10YR 3/3) channery loam; moderate
-fine granular structure; very friable; many fine and medium roots; 20 percent rock fragments; very strongly acid; abrupt wavy boundary (2 to 5 inches thick).
+ A--1 to 4 inches; dark brown (10YR 3/3) channery loam; moderate fine granular structure; very friable; many fine and medium roots; 20 percent rock fragments; very strongly acid; abrupt wavy boundary (2 to 5 inches thick).
 
-BA--3 to 10 inches; yellowish brown (10YR 5/6) channery loam;
-weak, fine subangular blocky structure; many fine and medium roots; 20 percent rock fragments; strongly acid; gradual wavy boundary (5 to 10 inches thick).
+ BA--4 to 11 inches; yellowish brown (10YR 5/6) channery loam; weak, fine subangular blocky structure; many fine and medium roots; 20 percent rock fragments; strongly acid; gradual wavy boundary (5 to 10 inches thick).
 
-Btl--10 to 23 inches; brownish yellow (10YR 6/6) channery loam; moderate, medium subangular blocky structure; friable; common fine, medium, and coarse roots; few distinct clay films on faces of peds; 20 percent rock fragments; strongly acid; clear wavy boundary.
+ Btl--11 to 24 inches; brownish yellow (10YR 6/6) channery loam; moderate, medium subangular blocky structure; friable; common fine, medium, and coarse roots; few distinct clay films on faces of peds; 20 percent rock fragments; strongly acid; clear wavy boundary.
 
-Bt2--23 to 33 inches; yellowish brown (10YR 5/6) channery loam; moderate medium subangular blocky structure; friable; common fine and medium roots; common distinct clay films on faces of peds; 20 percent rock fragments; strongly acid; gradual wavy boundary.
+ Bt2--24 to 34 inches; yellowish brown (10YR 5/6) channery loam; moderate medium subangular blocky structure; friable; common fine and medium roots; common distinct clay films on faces of peds; 20 percent rock fragments; strongly acid; gradual wavy boundary.
 
-Bt3--33 to 50 inches; yellowish brown (10YR 5/6) very channery
-loam; weak medium subangular blocky structure; friable; few fine and very fine roots; common distinct clay films on faces of peds; 35 percent rock fragments; strongly acid; gradual wavy boundary (Combined thickness of the Bt horizon is 25 to 53 inches).
+ Bt3--34 to 51 inches; yellowish brown (10YR 5/6) very channery loam; weak medium subangular blocky structure; friable; few fine and very fine roots; common distinct clay films on faces of peds; 35 percent rock fragments; strongly acid; gradual wavy boundary (Combined thickness of the Bt horizon is 25 to 53 inches).
 
-C--50 to 65 inches; yellowish brown (10YR 5/6) very channery loam; massive; firm; 50 percent rock fragments; strongly acid.
+ C--51 to 66 inches; yellowish brown (10YR 5/6) very channery loam; massive; firm; 50 percent rock fragments; strongly acid.
 
 TYPE LOCATION:  Wyoming County, West Virginia; about 1.5 miles northeast of WV Route 54 at Maben.
 
@@ -61,8 +58,8 @@ SERIES ESTABLISHED:  Wyoming County, West Virginia, 1984.
 
 REMARKS:  (1) Mineralogy data from two West Virginia pedons indicate mixed mineralogy, but both are close to siliceous.  (2) These soils were formerly mapped as Jefferson.  (3) In West Virginia, these soils are formed in colluvium from the New River and the lower part of the Kanawha geologic formation.  (4) Diagnostic horizons and features recognized in this pedon are:
 
-a.) Ochric epipedon - 0 to 3 inches (A horizon).
-b.) Argillic horizon - 10 to 50 inches (Bt1, Bt2, and Bt3 horizons).  (5) Additional Data:  Refer to NSSL characterization pedons S86WV-005- 003, S86WV-109-001, S81WV-109-5, S81WV-109-7 for laboratory data.
+a.) Ochric epipedon - 0 to 4 inches (Oi and A horizons).
+b.) Argillic horizon - 11 to 51 inches (Bt1, Bt2, and Bt3 horizons).  (5) Additional Data:  Refer to NSSL characterization pedons S86WV-005- 003, S86WV-109-001, S81WV-109-5, S81WV-109-7 for laboratory data.
 
 National Cooperative Soil Survey
-US.A.
+U.S.A.

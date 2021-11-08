@@ -1,8 +1,8 @@
 LOCATION BONESTEEL              NE SD
 
 Tentative Series
-MBK
-05/2018
+MBK, PTC
+11/2021
 
 BONESTEEL SERIES
 
@@ -45,6 +45,7 @@ Clay content: 20 to 27 percent
 Sand content: 5 to 10 percent
 Redoximorphic features: 0 to 10 percent concentrations and/or depletions 
 Reaction: neutral to slightly alkaline
+Thickness: 5 to 15 centimeters
 
 AB horizon: 
 Hue: 10YR or 2.5Y 
@@ -55,6 +56,7 @@ Clay content: 30 to 43 percent
 Sand content: 5 to 10 percent  
 Redoximorphic features: 5 to 15 percent concentrations and/or depletions 
 Reaction: neutral to slightly alkaline
+Thickness: 10 to 28 centimeters
 Some pedons do not have an AB horizon. 
 
 Bt horizon:
@@ -66,6 +68,7 @@ Clay content: 40 to 60 percent
 Sand content: 5 to 10 percent
 Redoximorphic features: 5 to 15 percent concentrations and/or depletions
 Reaction: neutral to moderately alkaline
+Thickness: 60 to 80 centimeters
 Some pedons contain secondary carbonates.
 
 BC horizon:
@@ -77,6 +80,7 @@ Clay content: 32 to 60 percent
 Sand content: 5 to 10 percent
 Redoximorphic features: 5 to 15 percent concentrations and/or depletions 
 Reaction: neutral to moderately alkaline
+Thickness: 30 to 50 centimeters
 Some pedons contain secondary carbonates. 
 Some pedons do not have a BC horizon. 
 
@@ -131,10 +135,9 @@ USE AND VEGETATION: Most areas are in pasture or wildlife habitat and used for l
 
 DISTRIBUTION AND EXTENT: Primarily south central South Dakota and north central Nebraska; LRRs G and M; MLRAs 63B, 66, and 102C. The series is of small extent. 
 
-MLRA SOIL SURVEY REGIONAL OFFICE (MO) RESPONSIBLE: Salina, Kansas 
+SOIL SURVEY REGIONAL OFFICE (SSRO) RESPONSIBLE: Salina, Kansas 
 
 SERIES ESTABLISHED: Boyd County, Nebraska 2018. This series was created from soils previously mapped as Scott and Fillmore in SD and northern NE.
-
 REMARKS: Diagnostic horizons and features recognized in this pedon are: 
 Particle-size control section: The zone from 15 to 65 centimeters (6 to 26 inches). (AB and Bt horizons)
 Mollic epipedon: 0 to 112 centimeters (0 to 44 inches). (Ap, AB, and Bt horizons)
@@ -143,10 +146,13 @@ Redoximorphic concentrations: In the zone from 15 to 155 centimeters (6 to 61 in
 Linear extensibility: Exceeds 6.0 between the surface and 100 centimeters (39 inches). 
 Episaturation: The zone of saturation at 0 to 43 centimeters (0 to 17 inches). (Ap and AB horizons)
 Some pedons contain silty clay loam in the surface. 
+11/2021 PTC: Added wetland vegetation to ADDITIONAL DATA. Updated SSRO statement.  Added Thickness to Range in Characteristics.
 
 Taxonomic Version: Twelfth Edition, 2014. 
 
 ADDITIONAL DATA: Pedon ID 2017NE015003 represents the Typical Pedon and is in NASIS. 
+
+In Nebraska, the native vegetative cover is an herbaceous wetland community commonly inhabited with: lesser duckweed (Lemna aequinoctialis), turion duckweed (L. turionifera) Herbaceous: river bulrush (Bolboschoenus fluviatilis), largespike spikerush (Eleocharis macrostachya), rice cutgrass (Leersia oryzoides), short-beak arrowhead (Sagittaria brevirostra), duck-potato arrowhead (S. cuneata), swamp smartweed (Persicaria coccinea), large-fruit burred, (Sparganium eurycarpum), narrowleaf cattail (TYPHA ANGUSTIFOLIA), broadleaf cattail (Typha latifolia).  Source: Terrestrial Ecological Systems and Natural Communities of Nebraska, Version IV. S.B. Rolfsmeier and G. Steinauer. Nebraska Natural Heritage Program, Nebraska Game and Parks Commission, 2010.
 
 National Cooperative Soil Survey
 U.S.A.

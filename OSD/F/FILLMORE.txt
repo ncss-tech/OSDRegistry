@@ -1,8 +1,8 @@
 LOCATION FILLMORE               NE
 
 Established Series
-Rev. LGR RRZ DJK
-07/2020
+Rev. LGR RRZ PTC
+11/2021
 
 FILLMORE SERIES
 
@@ -47,6 +47,7 @@ Textures: silt loam or silty clay loam
 Clay content: 18 to 35 percent
 Sand content: 5 to 12 percent
 Reaction: strongly acid to slightly acid
+Thickness: 18 to 43 centimeters
 
 E horizon:
 Hue: 10YR
@@ -56,6 +57,7 @@ Texture: silt loam
 Clay content: 12 to 22 percent
 Sand content: 6 to 14 percent
 Reaction: strongly acid to slightly acid
+Thickness: 8 to 31 centimeters
 Comment:  In farmed areas, the E horizon has generally been destroyed by tillage machinery.  Bt and surface horizon material is mixed with this E horizon.
 
 Bt horizon:
@@ -66,6 +68,7 @@ Texture: silty clay or silty clay loam
 Clay Content: 38 to 50 percent
 Sand content: 2 to 10 percent
 Reaction: slightly acid to slightly alkaline.
+Thickness: 38 to 127 centimeters
 
 BC horizon:
 Hue: 10YR or 2.5Y 
@@ -75,6 +78,7 @@ Texture: silty clay loam or silty clay
 Clay content: 32 to 44 percent
 Sand content: 4 to 8 percent
 Calcium carbonate equivalent: 0 to 1 percent
+Thickness: 13 to 38 centimeters
 Reaction: neutral to slightly alkaline
 
 C horizon:
@@ -156,8 +160,12 @@ Added LRRs and MLRAs to distribution and extent, and change to large extent.
 Added in additional data showing NSSL characterization pedons and typical pedon.
 
 8/2012 DJK Added mean annual soil temperature and horizons where have redox to RIC. Lowered the sand content in PSCS and the Bt horizon from 3 to 2 percent. Removed moderately acid from reaction for the Bt horizon. Removed moderately alkaline from reaction for the BC horizon.  Added CCE to the BC and C horizons in RIC and added statement on now being Bk horizons . Added precipitation pattern to geographic setting. Updated competing series. Removed Hastings from geographically associated soils. Removed statement about changing classification to match Filbert, Massie, and Scott from remarks. 
+11/2021 PTC: Added wetland vegetation for Nebraska to ADDITIONAL DATA. Added Thickness to Range in Characteristics.
 
 ADDITIONAL DATA: National Soil Survey Laboratory data is available for Pedon IDs 79NE059008, 86NE035001, 90NE155033, 90NE155033A, 90NE155033B, and 09NE035001. Pedon ID 1963NE035001 represents the Typical Pedon and is in NASIS.
+
+In Nebraska, the native vegetative cover is an herbaceous wetland community commonly inhabited with: water-hyssop (Bacopa rotundifolia), plains coreopsis (Coreopsis tinctoria), shortpoint flatsedge (Cyperus acuminatus), blunt spikerush (Eleocharis obtusa), barnyard grass
+(Echinochloa spp.), common waterwort (Elatine rubella), mud-plantains (Heteranthera limosa, H. rotundifolia), false pimpernel (Lindernia dubia), carpetweed (Mollugo verticillata), pink smartweed (Persicaria bicornis), nodding smartweed (P. lapathifolia), narrowleaf dock (RUMEX STENOPHYLLUS), hooded arrowhead (Sagittaria calycina).  Source: Terrestrial Ecological Systems and Natural Communities of Nebraska, Version IV. S.B. Rolfsmeier and G. Steinauer. Nebraska Natural Heritage Program, Nebraska Game and Parks Commission, 2010.
 
 National Cooperative Soil Survey
 U.S.A.
