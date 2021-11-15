@@ -2,7 +2,7 @@ LOCATION ARKANA                 AR+MO
 
 Established Series
 Rev. LBW/RLT
-05/2004
+11/2021
 
 ARKANA SERIES 
 
@@ -12,21 +12,21 @@ TAXONOMIC CLASS: Very-fine, mixed, active, mesic Mollic Hapludalfs
 
 TYPICAL PEDON:  Arkana very gravelly silt loam, on a smooth 5 percent slope, in woodland. (Colors are for moist soil unless otherwise stated.) 
 
-   Oi--1 to 0 inches; hardwood leaves and twigs. 
+ Oi--0 to 1 inch; hardwood leaves and twigs.
 
-   A1--0 to 3 inches; very dark grayish brown (10YR 3/2) very gravelly silt loam; weak fine granular structure; friable; about 45 percent angular chert gravel; many fine and medium roots; many fine pores; moderately acid; clear wavy boundary.  (3 to 8 inches thick) 
+ A1--1 to 4 inches; very dark grayish brown (10YR 3/2) very gravelly silt loam; weak fine granular structure; friable; about 45 percent angular chert gravel; many fine and medium roots; many fine pores; moderately acid; clear wavy boundary. (3 to 8 inches thick)
 
-   A2--3 to 7 inches; dark brown (10YR 3/3) very gravelly silt loam; moderate medium granular structure; friable; about 45 percent angular chert gravel; many fine and medium roots; many fine pores; strongly acid; abrupt wavy boundary.  (0 to 5 inches thick) 
+ A2--4 to 8 inches; dark brown (10YR 3/3) very gravelly silt loam; moderate medium granular structure; friable; about 45 percent angular chert gravel; many fine and medium roots; many fine pores; strongly acid; abrupt wavy boundary. (0 to 5 inches thick)
 
-   E--7 to 11 inches; brown (10YR 4/3) very gravelly silt loam; moderate medium granular structure; friable; 55 percent angular chert gravel; many fine and medium roots; common fine pores; strongly acid; clear wavy boundary.  (0 to 8 inches thick) 
+ E--8 to 12 inches; brown (10YR 4/3) very gravelly silt loam; moderate medium granular structure; friable; 55 percent angular chert gravel; many fine and medium roots; common fine pores; strongly acid; clear wavy boundary. (0 to 8 inches thick)
 
-   BE--11 to 15 inches; yellowish red (5YR 4/6) very gravelly silt loam; moderate medium subangular blocky structure; firm; about 50 percent angular chert gravel; common fine roots; common fine pores; strongly acid; clear wavy boundary.  (0 to 6 inches thick) 
+ BE--12 to 16 inches; yellowish red (5YR 4/6) very gravelly silt loam; moderate medium subangular blocky structure; firm; about 50 percent angular chert gravel; common fine roots; common fine pores; strongly acid; clear wavy boundary. (0 to 6 inches thick)
 
-   Bt1--15 to 21 inches; yellowish red (5YR 5/6) gravelly clay; few fine distinct yellowish brown mottles; moderate fine subangular blocky structure; firm; plastic; about 30 percent angular chert gravel; many distinct clay films on faces of peds; few fine roots; few fine pores; few fine dark brown manganese concretions; very strongly acid; clear wavy boundary. 
+ Bt1--16 to 22 inches; yellowish red (5YR 5/6) gravelly clay; few fine distinct yellowish brown mottles; moderate fine subangular blocky structure; firm; plastic; about 30 percent angular chert gravel; many distinct clay films on faces of peds; few fine roots; few fine pores; few fine dark brown manganese concretions; very strongly acid; clear wavy boundary.
 
-   2Bt2--21 to 27 inches; dark yellowish brown (10YR 4/4) clay; moderate medium and coarse blocky structure; very firm; plastic; about 10 percent angular chert gravel; many distinct clay films on faces of peds; few fine roots; few fine pores; few fine dark brown manganese concretions; strongly acid; abrupt smooth boundary.  (Combined thickness of the Bt horizon is 11 to 24 inches thick) 
+ 2Bt2--22 to 28 inches; dark yellowish brown (10YR 4/4) clay; moderate medium and coarse blocky structure; very firm; plastic; about 10 percent angular chert gravel; many distinct clay films on faces of peds; few fine roots; few fine pores; few fine dark brown manganese concretions; strongly acid; abrupt smooth boundary. (Combined thickness of the Bt horizon is 11 to 24 inches thick)
 
-   2R--27 inches; hard, level-bedded dolomite; more than 4 inches between cracks. 
+ 2R--28 inches; hard, level-bedded dolomite; more than 4 inches between cracks.   
 
 TYPE LOCATION:  Baxter County, Arkansas; 5.2 miles northeast of Mountain Home square on Highway 62 then 1.8 miles north on Cranfield Road then 150 feet west in NW1/4SE1/4SE1/4 sec. 13, T. 20 N., R. 13 W. 
 
@@ -61,9 +61,9 @@ MLRA SOIL SURVEY REGIONAL OFFICE (MO) RESPONSIBLE: Morgantown, West Virginia
 SERIES ESTABLISHED:  Randolph County, Arkansas; 1975.
 
 REMARKS: These soils were previously mapped with the Corydon series in Arkansas. Diagnostic horizons and features recognized in this pedon are:
-1) Ochric epipedon - the zone from the surface to a depth of 15 inches (A1, A2, E, and BE horizons)
-2) Argillic horizon - the zone from 15 to 27 inches
-3) Lithic contact - bedrock at 27 inches
+1) Ochric epipedon - the zone from the surface to a depth of 16 inches (Oi, A1, A2, E, and BE horizons)
+2) Argillic horizon - the zone from 16 to 28 inches
+3) Lithic contact - bedrock at 28 inches
 
 ADDITIONAL DATA:  Characterization data is available from the University of Arkansas Soil Characterization Laboratory on the typical pedon. 
 

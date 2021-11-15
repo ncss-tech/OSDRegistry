@@ -1,0 +1,152 @@
+LOCATION HALLSUMMIT             LA+TX
+
+Established Series
+JPE:JDS:TMH
+11/2021
+
+HALLSUMMIT SERIES
+
+The Hallsummit series consists of very deep, well drained, moderately slowly permeable soils that formed in thick loamy and clayey sediments on Tertiary-aged Coastal Plains. These soils are on broad sloping interfluves. Slope is dominantly 1 to 8 but ranges up to 12 percent. Mean annual precipitation is about 1,318 mm (52 in) and mean annual air temperature is about 18 degrees C (65 degrees F).
+
+TAXONOMIC CLASS: Fine, mixed, semiactive, thermic Ultic Hapludalfs
+
+TYPICAL PEDON: Hallsummit fine sandy loam, on a convex 3 percent slope, in pine and mixed hardwood woodland; elevation is 111.5 m (366 ft) (Colors are for moist soil unless otherwise noted.)
+
+  A--0 to 6 cm (0 to 2 in); brown (10YR 4/3) fine sandy loam; weak fine and medium granular structure; very friable; many fine and medium roots; many fine pores; many fragments of ironstone up to 1 cm long; moderately acid; abrupt smooth boundary. (Thickness is 6 to 20 cm [2 to 8 in])
+
+  E--6 to 18 cm (2 to 7 in); brown (7.5YR 5/3) fine sandy loam; weak fine and medium granular structure; very friable; common fine roots; few fine pores and wormcasts; many fragments of ironstone up to 1 cm long; moderately acid; clear wavy boundary. (Thickness is 7 to 49 cm [3 to 19 in])
+
+  Bt--18 to 28 cm (7 to 11 in); red (2.5YR 4/6) sandy clay loam; moderate medium subangular blocky structure; firm; few fine and medium roots; few fine pores; many fragments of ironstone up to 1 cm long; common distinct clay films on faces of peds; strongly acid; gradual wavy boundary.
+
+  Bt--28 to 94 cm (11 to 37 in); red (2.5YR 4/6) clay; common medium and coarse yellowish brown (10YR 5/6) mottles on exteriors of peds; strong medium subangular blocky structure; friable; few fine roots; many fine pores; few medium distinct yellowish brown (10YR 5/6) redox concentrations; common distinct clay films on faces of peds; strongly acid; gradual wavy boundary.
+
+  Bt3--94 to 164 cm (37 to 65 in); red (2.5YR 4/6) sandy clay loam; weak coarse prismatic structure parting to strong medium and coarse subangular blocky; firm and slightly brittle; pale brown coatings on vertical faces of peds; few fine and medium roots; common fine pores; few medium distinct yellowish brown (10YR 5/6) redox concentrations; few medium prominent pale brown (10YR 6/3) redox depletions ;common distinct clay films on faces of peds; pockets of yellowish-brown sandy loam; many sand grains are black; strongly acid; gradual wavy boundary. (Combined thickness of the Bt horizon is 129 to 151 cm [51 to 60 in])
+
+  BtC--164 to 185 cm (65 to 73 in); yellowish red (5YR 5/8) sandy clay loam; weak coarse subangular blocky structure; firm; pockets and streaks of light brownish gray fine sand; few pockets of red sandy loam; many sand grains are black; strongly acid; gradual wavy boundary (Thickness is 11 to 58 cm [4 to 23 in])
+
+  C--185 to 203 cm (73 to 80 in); strong brown (7.5YR 5/8) sandy loam; weak very coarse prismatic structure; firm; pockets and streaks of light brownish gray fine sand; few pockets of red sandy loam; many sand grains are black; strongly acid. (Thickness is 10 to 50 cm [4 to 20 in])
+
+TYPE LOCATION: Caddo Parish, Louisiana; about 1.6 km (1 mi) west of junction of State Highway LA 169 and W. F. Davidson Road; 0.3 km (0.2 mi) northeast of pipeline in a pine plantation.
+
+USGS topographic quadrangle: Keatchie, LA 
+Latitude: 32 degrees, 20 minutes, 55.90 seconds N 
+Longitude: 93 degrees, 59 minutes, 16.00 seconds W 
+Datum: WGS84 
+
+Decimal Degrees
+  Std Latitude: 32.3488611
+  Std Longitude: - 93.9877778
+
+UTM Easting: 407052.12 m 
+UTM Northing: 3579534.18 m 
+UTM Zone: 15
+
+RANGE IN CHARACTERISTICS: 
+Soil Moisture: An udic soil moisture regime. The soil moisture control section is not dry in any part for more than 90 days in normal years.
+Mean annual soil temperature: 12 to 25 degrees C (54 to 77 degrees F)
+Depth to argillic horizon: 13 to 55 cm (5 to 22 in)
+Thickness of the ochric epipedon: 13 to 55 cm (5 to 22 in)
+Thickness of the argillic horizon: 98 to 187 cm (39 to 74 in)
+Particle-size control section (weighted average):
+Total clay content: 25 to 45 percent
+Sand content: 25 to 50 percent
+
+A horizon:
+Hue: 10YR
+Value: 3 to 5
+Chroma: 2 to 4
+Texture: sandy loam, fine sandy loam, very fine sandy loam
+Total clay content: 4 to 19 percent
+Sand content: 53 to 73 percent
+Rock fragments: amount-0 to 10 percent; kind-ironstone; size-gravel
+Reaction (pH): strongly acid to slightly acid (5.1 to 6.5)
+
+E horizon:
+Hue: 5YR or 10YR
+Value: 4 to 6
+Chroma: 2 to 4
+Texture: sandy loam, fine sandy loam, very fine sandy loam
+Total clay content: 4 to 19 percent
+Sand content: 53 to 73 percent
+Rock fragments: amount-0 to 10 percent; kind-ironstone; size-gravel
+Reaction (pH): strongly acid to slightly acid (5.1 to 6.5)
+
+Bt horizon:
+Hue: 2.5YR to 10YR
+Value: 3 to 6
+Chroma: 4 to 8
+Texture: sandy clay loam, clay loam, sandy clay, or clay
+Redox concentrations: amount-few to many, size-fine to coarse, contrast-faint to prominent, boundary-diffuse to clear, shades-red or brown
+Redox depletions: amount-none to common, size-fine to coarse, contrast-faint or distinct boundary-diffuse to clear, shades-brown or gray
+Total clay content: 20 to 45 percent
+Sand content: 25 to 70 percent
+Rock fragments: amount-0 to 10 percent; kind-ironstone; size-gravel
+Reaction (pH): very strongly acid to moderately acid (4.5 to 6.0)
+
+BtC horizon:
+Hue: 2.5 YR to 10YR
+Value: 4 to 6
+Chroma: 4 to 8
+Texture: fine sandy loam, sandy loam, sandy clay loam, or sandy clay
+Total clay content: 10 to 34 percent
+Sand content: 53 to 70 percent
+Reaction (pH): very strongly acid to moderately acid (4.5 to 6.0)
+
+C horizon (where present):
+Hue: 7.5YR to 10YR
+Value: 5 to 8
+Chroma: 6 to 8
+Texture: fine sandy loam, sandy loam, sandy clay loam
+Total clay content: 10 to 34 percent
+Sand content: 53 to 70 percent
+Reaction (pH): extremely acid to neutral (3.5 to 7.3)
+
+COMPETING SERIES: Canton Bend, Gundy, and Skyuka are in the same family.
+Canton Bend soils have more than 30 percent silt in the control section. 
+Gundy soils have a paralithic contact to Carolina slate rock at 102 to 152 cm (40 to 60 in) deep. 
+Skyuka soils formed in old alluvium washed from uplands dominantly underlain by dark colored high grade metamorphic rocks. 
+
+GEOGRAPHIC SETTING: 
+Parent material: loamy and clayey Tertiary-aged sediments
+Landscape: Coastal Plain
+Landform: Interfluve
+Slope: mainly 1 to 8 percent but ranges from 1 to 12 percent
+Mean annual air temperature: 12.1 to 24.7 degrees C (54 to 76 degrees F)
+Mean annual precipitation: 1,204 to 1,534 mm (47 to 60 in)
+Frost-free period: 230 to 255 days
+Elevation: 32.8 to 181.3 m (108 to 595 ft)
+
+GEOGRAPHICALLY ASSOCIATED SOILS: These are Beauregard, Boswell, Eastwood, Guyton, Latex, Keatchie, Keithville, Malbis, Ruston, Sacul, and Tenaha.
+Beauregard soils have plinthite 
+Boswell soils have vertic properties 
+Eastwood soils are slightly lower and have vertic properties
+Guyton soils are in floodplains
+Latex soils have glossic horizons on terraces
+Keatchie soils have glossic horizons and has a fine-loamy control section
+Keithville soils are wetter and has a fine-silty control section
+Malbis soils have plinthite
+Ruston soils are on a slightly higher convex ridge with fine-loamy control section
+Sacul soils have a seasonally high water table
+Tenaha soils are arenic
+
+DRAINAGE AND PERMEABILITY: Hallsummit soils are well drained. Rate of runoff is medium on slopes less than 5 percent, and high on slopes up to 12 percent; permeability is moderately slow.
+
+USE AND VEGETATION: Hallsummit soils are used mainly for woodlands; vegetation is typically shortleaf and loblolly pines, red oak, sweetgum, and other hardwood trees.
+
+DISTRIBUTION AND EXTENT: Southern coastal plain of northwestern Louisiana and eastern Texas. The known extent is moderate.
+
+MLRA SOIL SURVEY REGIONAL OFFICE (MO) RESPONSIBLE: Temple, Texas
+
+SERIES ESTABLISHED: Red River Parish, Louisiana; 1973. The Hallsummit name is derived from a small community in Red River Parish, Louisiana.
+
+REMARKS: The Hallsummit series was updated in 2002 to specify that it must have a clay tuck within a depth of 152 cm (60 in) and cannot have geologic C materials within a depth of 152 cm (60 in). The Hallsummit series was renamed from Meth in 2021. Diagnostic horizons and features in this pedon include:
+
+Ochric epipedon: 0 to 18 cm (0 to 7 in) (A and E horizons)
+Argillic horizon: 18 to 185 cm (7 to 73 in) (Bt horizons)
+
+ADDITIONAL DATA: Characterization data from typifying pedon S75LA-17-11 from Louisiana Agricultural Experiment Station Record: LA0001
+
+KSSL data from 97TX419003 and S2006LA017001.
+
+National Cooperative Soil Survey
+U.S.A.

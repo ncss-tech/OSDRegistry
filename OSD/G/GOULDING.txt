@@ -1,8 +1,8 @@
-LOCATION GOULDING               CA
+LOCATION GOULDING               CA+CT
 
 Established Series
 Rev. SBJ/WCL/DJE/CEJ/SBS
-02/1999
+11/2021
 
 GOULDING SERIES
 
@@ -26,32 +26,30 @@ The A horizon is 10YR 6/3, 6/4, 5/2, 5/4, 5/3, 4/3; 7.5YR 5/3, 5/4, or 6/4.  Moi
 
 The Bt horizon is 10YR 6/2, 6/3, 6/4, 6/6, 5/4, or 4/4; 7.5YR 3/4, 4/4, 4/3, or 5/6. It is 10YR 3/4, 4/4 or 7.5YR 4/4 moist.  It is sandy loam, loam, or clay loam and may be very gravelly, extremely gravelly, very cobbly or very stony.  Clay content averages 1 or 2 percent more than the A horizon, in some pedons.  Not all pedons have clay films. 
 
-COMPETING SERIES: There are no other series in this family.
+COMPETING SERIES:
+Walkermine soils: soil moisture control section is dry in all parts for less than 130 to 150 consecutive days per year.
 
 GEOGRAPHIC SETTING:  Goulding soils are on hills and mountains.   Slopes are 5 to 75 percent.  These soils formed from metavolcanic rocks, mostly greenstone, or metasedimentary rocks.  Elevation ranges from 1,500 to 5,000 feet.  At elevations below 3,500 feet, these soils  are on north or sheltered aspects or have semidense or dense vegetative cover. The climate is subhumid with warm dry summers and cool moist winters. Average annual precipitation is 25 to 60 inches.  Some precipitation occurs as snow on the higher ridges. Seasonal snowfall ranges from a few inches to about 24 inches.  The mean annual temperature is about 46 degrees to 57 degrees F; The average January temperature is about 40 degrees F; and the average July temperature is about 70 degrees F. The frost-free season is about 100 to 235 days. 
 
-GEOGRAPHICALLY ASSOCIATED:  These are the Boomer, Hoosimbim, Marpa, Neuns, Stonyford, Vitzthum, and Vanvor soils.  These soils, except for Vitzthum, are all greater the 20 inches deep.  The Vitzthum soils have argillic horizons. 
+GEOGRAPHICALLY ASSOCIATED SOILS:  These are the Boomer, Hoosimbim, Marpa, Neuns, Stonyford, Vitzthum, and Vanvor soils.  These soils, except for Vitzthum, are all greater the 20 inches deep.  The Vitzthum soils have argillic horizons. 
 
-DRAINAGE AND PERMEABILITY:  Somewhat excessively drained; medium to very rapid runoff; moderate permeability. 
+DRAINAGE AND SATURATED HYDRAULIC CONDUCTIVITY:  Somewhat excessively drained; medium to very rapid runoff; moderate saturated hydraulic conductivity. 
 
-USE AND VEGETATION:  Goulding soils are used for watershed  and wildlife habitat. Natural vegetation is scattered oak, digger pine, brush, grasses and forbs.  Brush species are interior live oak, California scrub oak, scrub canyon live oak, manzanita, and buckbrush. 
+USE AND VEGETATION:  Goulding soils are used for watershed  and wildlife habitat. Natural vegetation is scattered oak, foothill pine, brush, grasses and forbs.  Brush species are interior live oak, California scrub oak, scrub canyon live oak, manzanita, and buckbrush. 
 
-DISTRIBUTION AND EXTENT:  The soils occur in the Coast Range and Klamath Mountains of northern California.  They are moderately extensive.  MLRA is 5.
+DISTRIBUTION AND EXTENT:  The soils occur in the Coast Range and Klamath Mountains of northern California.  They are moderately extensive.  MLRA is 5, 15.
 
-MLRA SOIL SURVEY REGIONAL OFFICE (MO) RESPONSIBLE: Davis, California
+SOIL SURVEY REGIONAL OFFICE (SSRO) RESPONSIBLE: Davis, California
 
 SERIES ESTABLISHED:  Glenn County, California, 1957.  Name from Goulding Creek, Glenn County. 
 
-REMARKS:  Diagnostic horizons and features recognized in this pedon are: 
+REMARKS:  
 
+Diagnostic horizons and features recognized in this pedon are: 
 Ochric epipedon - Zone from the soil surface to 4 inches (A horizon). 
-
 Cambic horizon - Zone from 4 to 17 inches (Bt) horizon characterized by soil structure and clay films. 
-
 Lithic contact - the boundary is at about 17 inches (R). 
-
 CEC class -  assumed, based on near pedons and base saturation.
-
 Base Saturation for Dystric subgroup -  assumed, based on associated soils. Goulding type location in Colusa County had base saturation of 18%.
 
 ADDITIONAL DATA: No pedons sampled as Goulding in NSSL database.
