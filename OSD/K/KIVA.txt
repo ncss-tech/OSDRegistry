@@ -2,7 +2,7 @@ LOCATION KIVA                   MI+WI
 
 Established Series
 Rev. KRW-NWS
-08/2012
+11/2021
 
 KIVA SERIES
 
@@ -12,17 +12,17 @@ TAXONOMIC CLASS: Sandy, mixed, frigid Entic Haplorthods
 
 TYPICAL PEDON: Kiva sandy loam, in a forested area. (Colors are for moist soil unless otherwise stated.)
 
- Oi--2 to 0 cm (1 to 0 inch); mat of leaves, twigs, and other forest debris.
+ Oi--0 to 2 cm (0 to 1 inch); mat of leaves, twigs, and other forest debris.
 
- A--0 to 10 cm (4 inches); very dark brown (10YR 2/2) sandy loam, grayish brown (10YR 5/2) dry; weak medium granular structure; very friable; many roots; slightly acid; clear smooth boundary. [2 to 13 cm (1 to 5 inches) thick]
+ A--2 to 12 cm (1 to 5 inches); very dark brown (10YR 2/2) sandy loam, grayish brown (10YR 5/2) dry; weak medium granular structure; very friable; many roots; slightly acid; clear smooth boundary. [2 to 13 cm (1 to 5 inches) thick]
 
- E--10 to 15 cm (4 to 6 inches); pinkish gray (7.5YR 6/2) sandy loam; weak fine subangular blocky structure; very friable; many roots; slightly acid; abrupt wavy boundary. [0 to 10 cm (4 inches) thick]
+ E--12 to 17 cm (5 to 7 inches); pinkish gray (7.5YR 6/2) sandy loam; weak fine subangular blocky structure; very friable; many roots; slightly acid; abrupt wavy boundary. [0 to 10 cm (4 inches) thick]
 
- Bs1--15 to 28 cm (6 to 11 inches); brown (7.5YR 4/4) sandy loam; weak fine subangular blocky structure; very friable; many roots; slightly alkaline; gradual smooth boundary.
+ Bs1--17 to 30 cm (7 to 12 inches); brown (7.5YR 4/4) sandy loam; weak fine subangular blocky structure; very friable; many roots; slightly alkaline; gradual smooth boundary.
 
- Bs2--28 to 51 cm (11 to 20 inches); reddish brown (5YR 4/4) sandy loam; weak fine subangular blocky structure; friable; few roots; slightly alkaline; abrupt wavy boundary. [Combined thickness of the Bs horizon is 8 to 43 cm (3 to 17 inches).]
+ Bs2--30 to 53 cm (12 to 21 inches); reddish brown (5YR 4/4) sandy loam; weak fine subangular blocky structure; friable; few roots; slightly alkaline; abrupt wavy boundary. [Combined thickness of the Bs horizon is 8 to 43 cm (3 to 17 inches).]
 
- 2C--51 to 152 cm (20 to 60 inches); brown (7.5YR 5/4) very gravelly coarse sand; single grain; loose; 30 percent gravel; 10 percent cobbles; strongly effervescent; moderately alkaline.
+ 2C--53 to 154 cm (21 to 61 inches); brown (7.5YR 5/4) very gravelly coarse sand; single grain; loose; 30 percent gravel; 10 percent cobbles; strongly effervescent; moderately alkaline.
 
 TYPE LOCATION: Leelanau County, Michigan, about 7 miles east of the town of Empire; 75 feet south and 25 feet east of the northwest corner of sec. 28, T. 28 N., R. 13 W.
 
@@ -73,9 +73,9 @@ MLRA SOIL SURVEY REGIONAL OFFICE (MO) RESPONSIBLE: AMHERST, MASSACHUSETTS
 SERIES ESTABLISHED: Delta County, Michigan, 1969.
 
 REMARKS: Diagnostic horizons and features recognized in this pedon are: 
-Ochric epipedon: from the surface to a depth of 10 cm (4 inches) (A horizon).
-Albic horizon: from a depth of 10 to 15 cm (4 to 6 inches) (E horizon).
-Lithologic discontinuity: from sandy loam to very gravelly coarse sand at 51 cm (20 inches) (top of the 2C horizon).
+Ochric epipedon: from the surface to a depth of 12 cm (5 inches) (Oi, A horizons).
+Albic horizon: from a depth of 12 to 17 cm (5 to 7 inches) (E horizon).
+Lithologic discontinuity: from sandy loam to very gravelly coarse sand at 53 cm (21 inches) (top of the 2C horizon).
 
 Classification of this series as a Spodosol needs to be verified using current criteria for a spodic horizon.
 

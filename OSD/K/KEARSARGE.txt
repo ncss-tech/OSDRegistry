@@ -12,23 +12,23 @@ TAXONOMIC CLASS: Loamy, mixed, active, mesic Lithic Dystrudepts
 
 TYPICAL PEDON:  Kearsarge silt loam, wooded on about a 20 percent slope.  (Colors are for moist soil).
 
-    0i---0 to 1 inch; fresh leaves, needles, and twigs.
+ Oi--0 to 1 inch; fresh leaves, needles, and twigs.
 
-    0e---1 inch to 2; partially decomposed leaves, needles, and twigs.
+ Oe--1 to 2 inches; partially decomposed leaves, needles, and twigs.
 
-    A----2 to 6 inches; dark brown (10YR 3/3) silt loam; weak fine granular structure; very friable; many fine and few medium roots; 7 percent rock fragments of mostly channers; very strongly acid; abrupt smooth boundary.  (2 to 8 inches thick).
+ A--2 to 6 inches; dark brown (10YR 3/3) silt loam; weak fine granular structure; very friable; many fine and few medium roots; 7 percent rock fragments of mostly channers; very strongly acid; abrupt smooth boundary.  (2 to 8 inches thick).
 
-    Bw1--6 to 8 inches; dark yellowish brown (10YR 4/4) silt loam; weak fine granular structure; very friable; common fine and few medium roots; 7 percent rock fragments of mostly channers; very strongly acid; clear smooth boundary.
+ Bw1--6 to 8 inches; dark yellowish brown (10YR 4/4) silt loam; weak fine granular structure; very friable; common fine and few medium roots; 7 percent rock fragments of mostly channers; very strongly acid; clear smooth boundary.
 
-    Bw2--8 to 19 inches; light olive brown (2.5Y 5/4) channery silt loam; weak fine granular structure; very friable; few fine and medium roots; 15 percent rock fragments of mostly channers and cobbles; very strongly acid; abrupt smooth boundary.  (Combined thickness of the Bw horizon is 5 to 14 inches thick).
+ Bw2--8 to 19 inches; light olive brown (2.5Y 5/4) channery silt loam; weak fine granular structure; very friable; few fine and medium roots; 15 percent rock fragments of mostly channers and cobbles; very strongly acid; abrupt smooth boundary.  (Combined thickness of the Bw horizon is 5 to 14 inches thick).
 
-    R----19 inches; gray phyllite bedrock.
+ R--19 inches; gray phyllite bedrock.
 
 TYPE LOCATION:  Sullivan County, New Hampshire, town of Unity.  1,600 feet west of the junction of the West Unity Road and County Road.
 
 RANGE IN CHARACTERISTICS:  Solum thickness and depth to bedrock range from 10 to 20 inches.  Rock fragments of gravels, cobbles, and channers make up 5 to 30 percent.  The soil ranges from very strongly acid through slightly acid, where unlimed.  Clay content ranges from 4 to 18 percent.
 
-The 0 horizon ranges from undecomposed forest litter to sapric material.  It ranges from 1 to 3 inches thick in forested areas.
+The O horizon ranges from undecomposed forest litter to sapric material.  It ranges from 1 to 3 inches thick in forested areas.
 
 The Ap horizon, where present, has hue of 7.5YR through 2.5Y, value of 3 or 4, and chroma of 2 through 4.  The A horizon has hue of 10YR or 2.5Y, value of 3 or 4, and chroma of 1 through 3.  The A or Ap horizon is loam or silt loam in the fine-earth fraction.
 
@@ -57,7 +57,7 @@ MLRA SOIL SURVEY REGIONAL OFFICE (MO) RESPONSIBLE: Amherst, Massachusetts
 SERIES ESTABLISHED:  Sullivan County, New Hampshire, 1981.
 REMARKS:  This soil is not considered to be prime farmland.  Diagnostic horizons and features recognized in this pedon are:
 
-1.  Ochric epipedon - the zone from 0 to 6 inches (A horizon).
+1.  Ochric epipedon - the zone from 0 to 6 inches (Oi, Oe, A horizons).
 
 2.  Cambic horizon - the zone from 6 to 19 inches (Bw horizon).
 

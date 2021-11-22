@@ -2,7 +2,7 @@ LOCATION BENDER                 MO
 
 Established Series
 Rev. JDP-SVV-RLT
-05/2004
+11/2021
 
 BENDER SERIES
 
@@ -12,17 +12,17 @@ TAXONOMIC CLASS: Loamy-skeletal, siliceous, active, mesic Typic Hapludults
 
 TYPICAL PEDON: Bender very cobbly fine sandy loam - on a convex sideslope of 8 percent in a hardwood forest at an elevation of 1,150 feet. (Colors are for moist soil unless otherwise stated.)
 
-   Oi--1 to 0 inches; slightly decomposed oak leaf litter.
+   Oi--0 to 1 inch; slightly decomposed oak leaf litter.
 
-   A--0 to 4 inches; brown (10YR 4/3) very cobbly fine sandy loam, yellowish brown (10YR 5/4) dry; weak fine granular structure; very friable; many fine and few medium roots; many very fine irregular pores; 20 percent cobbles and 20 percent gravel; moderately acid (pH 6.0); abrupt smooth boundary. (2 to 6 inches thick)
+   A--1 to 5 inches; brown (10YR 4/3) very cobbly fine sandy loam, yellowish brown (10YR 5/4) dry; weak fine granular structure; very friable; many fine and few medium roots; many very fine irregular pores; 20 percent cobbles and 20 percent gravel; moderately acid (pH 6.0); abrupt smooth boundary. (2 to 6 inches thick)
 
-   Bt1--4 to 12 inches; brown (10YR 5/3) very cobbly fine sandy loam, weak medium subangular blocky structure; friable; common fine and few medium roots; common fine tubular pores; few distinct clay films on faces of peds; 20 percent cobbles and 30 percent gravel; strongly acid (pH 5.4); clear smooth boundary. (0 to 9 inches thick)
+   Bt1--5 to 13 inches; brown (10YR 5/3) very cobbly fine sandy loam, weak medium subangular blocky structure; friable; common fine and few medium roots; common fine tubular pores; few distinct clay films on faces of peds; 20 percent cobbles and 30 percent gravel; strongly acid (pH 5.4); clear smooth boundary. (0 to 9 inches thick)
 
-   Bt2--12 to 15 inches; mixed, yellowish brown (10YR 5/6) and dark yellowish brown (10YR 4/4) extremely cobbly loam; moderate medium subangular blocky structure; friable; common fine and few medium roots; common fine tubular pores; few prominent clay films on faces of peds; 40 percent cobbles and 20 percent gravel; very strongly acid (pH 4.8); clear smooth boundary.
+   Bt2--13 to 16 inches; mixed, yellowish brown (10YR 5/6) and dark yellowish brown (10YR 4/4) extremely cobbly loam; moderate medium subangular blocky structure; friable; common fine and few medium roots; common fine tubular pores; few prominent clay films on faces of peds; 40 percent cobbles and 20 percent gravel; very strongly acid (pH 4.8); clear smooth boundary.
 
-   Bt3--15 to 23 inches; mixed, brown (7.5YR 4/4) and yellowish red (5YR 4/6) extremely gravelly sandy loam; weak fine subangular blocky structure; firm; few fine and medium roots; common fine tubular pores; common prominent clay films on faces of peds and in pores; 70 percent gravel; very strongly acid (pH 4.8); abrupt wavy boundary. (combined thickness of the Bt horizons is 10 to 35 inches)
+   Bt3--16 to 24 inches; mixed, brown (7.5YR 4/4) and yellowish red (5YR 4/6) extremely gravelly sandy loam; weak fine subangular blocky structure; firm; few fine and medium roots; common fine tubular pores; common prominent clay films on faces of peds and in pores; 70 percent gravel; very strongly acid (pH 4.8); abrupt wavy boundary. (combined thickness of the Bt horizons is 10 to 35 inches)
 
-   2R--23 inches; Sandstone bedrock from the Roubidoux formation.
+   2R--24 inches; Sandstone bedrock from the Roubidoux formation.
 
 TYPE LOCATION: Texas County, Missouri; about 5 miles northwest of Houston;  50 feet north and 1,200 feet west of the SE corner of section 23, T. 31 N., R. 10 W; USGS Prescott quadrangle, lat. 37 degrees 29 minutes 08 seconds N. and long. 91 degrees 53 minutes 43 seconds W.
 
@@ -76,9 +76,9 @@ SERIES ESTABLISHED: Texas County, Missouri, 1999.
 
 REMARKS: In Missouri, these soils are mapped primarly in parent material from the Roubidoux formation.
 Diagnostic horizons and features recognized in this pedon are:
-Ochric epipedon - the zone from the surface to a depth of 4 inches (A horizon)
-Argillic horizon - the zone from 4 to 23 inches  (Bt horizons)
-Lithic contact - at 23 inches.
+Ochric epipedon - the zone from the surface to a depth of 5 inches (Oi and A horizons)
+Argillic horizon - the zone from 5 to 24 inches  (Bt horizons)
+Lithic contact - at 24 inches.
 
 Lab Sample Numbers:
 1)  M9021549 (Univ. of Missouri soil characterization lab)

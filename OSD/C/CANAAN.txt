@@ -2,7 +2,7 @@ LOCATION CANAAN                 NH+ME NY
 
 Established Series
 Rev. HRM-SALP
-03/2006
+11/2021
 
 CANAAN SERIES
 
@@ -12,23 +12,23 @@ TAXONOMIC CLASS: Loamy-skeletal, isotic, frigid Lithic Haplorthods
 
 TYPICAL PEDON:  Canaan very gravelly fine sandy loam - forested, rocky.  (Colors are for moist soil.)
 
-    0i--3 to 2 inches; loose litter of leaves and twigs mostly beech, white birch and hemlock.
+ Oi--0 to 1 inch; loose litter of leaves and twigs mostly beech, white birch and hemlock.
 
-    0e--2 to 0 inches; partially decomposed litter.
+ Oe--1 to 3 inches; partially decomposed litter.
 
-    E--0 to 3 inches; light brownish gray (10YR 6/2) very gravelly fine sandy loam; weak fine granular structure; very friable; many fine and medium roots; 45 percent rock fragments; very strongly acid; abrupt broken boundary.  (0 to 5 inches thick)
+ E--3 to 6 inches; light brownish gray (10YR 6/2) very gravelly fine sandy loam; weak fine granular structure; very friable; many fine and medium roots; 45 percent rock fragments; very strongly acid; abrupt broken boundary.  (0 to 5 inches thick)
 
-    Bs1--3 to 9 inches; reddish brown (5YR 4/4) very gravelly fine sandy loam; weak fine granular structure; very friable; many fine roots; 40 percent rock fragments; very strongly acid; abrupt smooth boundary.
+ Bs1--6 to 12 inches; reddish brown (5YR 4/4) very gravelly fine sandy loam; weak fine granular structure; very friable; many fine roots; 40 percent rock fragments; very strongly acid; abrupt smooth boundary.
 
-    Bs2--9 to 17 inches; brown (7.5YR 4/4) extremely gravelly fine sandy loam; weak fine granular structure; very friable; common fine roots; 65 percent rock fragments; very strongly acid; abrupt smooth boundary.  (Combined thickness of the Bs horizon is 6 to 18 inches.)
+ Bs2--12 to 20 inches; brown (7.5YR 4/4) extremely gravelly fine sandy loam; weak fine granular structure; very friable; common fine roots; 65 percent rock fragments; very strongly acid; abrupt smooth boundary.  (Combined thickness of the Bs horizon is 6 to 18 inches.)
 
-    R--17 inches; granite bedrock.
+ R--20 inches; granite bedrock.
 
 TYPE LOCATION:  Carroll County, New Hampshire; Town of Conway, Hurricane Mountain Road, 75 feet east and 60 feet north of vista site on west slope of Hurricane Mountain; about 0.7 mile west of height of land.  USGS North Conway 15 minutes Quadrangle; 44 degrees 04 minutes 31 seconds N and 71 degrees 05 minutes 14 seconds W.
 
 RANGE IN CHARACTERISTICS:  Solum thickness and depth to bedrock range from 10 to 20 inches.  Rock fragments range from 20 to 40 percent in the surface or subsurface and from 30 to 65 percent in the subsoil.  Reaction ranges from very strongly acid through moderately acid throughout the soil.
 
-The 0 horizon is neutral or has hue 2.5YR through 10YR, value of 2 or 3, and chroma of 0 through 2.
+The O horizon is neutral or has hue 2.5YR through 10YR, value of 2 or 3, and chroma of 0 through 2.
 
 Some pedons have an A horizon up to 4 inches thick that has hue of 5YR through 10YR, value of 2 or 3, and chroma or 1 or 2.  It is fine sandy loam or sandy loam in the fine-earth fraction.
 
@@ -61,9 +61,9 @@ SERIES ESTABLISHED:  Grafton County, New Hampshire, 1936.
 
 REMARKS:  1. The classification is updated from Loamy-skeletal, mixed, frigid Lithic Haplorthods to Loamy-skeletal, isotic, frigid Lithic Haplorthods.  Competing series section revised accordingly.
 2. Diagnostic horizons and other features recognized in the typical pedon are:
-a.  Albic horizon - the zone from 0 to 3 inches (E horizon).
-b.  Spodic horizon - the zone from 3 to 17 inches (Bs horizon).
-c.  Lithic contact at 17 inches (R).
+a.  Albic horizon - the zone from 3 to 6 inches (E horizon).
+b.  Spodic horizon - the zone from 6 to 20 inches (Bs horizon).
+c.  Lithic contact at 20 inches (R).
 
 National Cooperative Soil Survey
 U.S.A.

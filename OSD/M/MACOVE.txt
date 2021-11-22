@@ -2,7 +2,7 @@ LOCATION MACOVE                 VA+PA WV
 
 Established Series
 Rev. EPE
-09/2000
+11/2021
 
 MACOVE SERIES
 
@@ -10,21 +10,21 @@ Soils of the Macove series are very deep and well drained.  They formed in collu
 
 TAXONOMIC CLASS: Loamy-skeletal, mixed, active, mesic Typic Hapludults
 
-Typical Pedon: Macove gravelly silt loam - Forested. (Colors are for moist soil.)
+TYPICAL PEDON: Macove gravelly silt loam - Forested. (Colors are for moist soil.)
 
-    Oi--1 to 0 inch; loose leaves and twigs
+    Oi--0 to 1 inch; loose leaves and twigs
 
-    A--0 to 4 inches; very dark grayish brown (10YR 3/2) gravelly silt loam; weak fine granular structure; very friable; many fine and medium roots; 20 percent gravel; strongly acid; abrupt smooth boundary.  (1 to 6 inches thick)
+    A--1 to 5 inches; very dark grayish brown (10YR 3/2) gravelly silt loam; weak fine granular structure; very friable; many fine and medium roots; 20 percent gravel; strongly acid; abrupt smooth boundary.  (1 to 6 inches thick)
 
-    E--4 to 7 inches; yellowish brown (10YR 5/4) gravelly loam; weak fine granular and subangular blocky structure; very friable, nonsticky, nonplastic; common fine and medium roots; 20 percent gravel; strongly acid; clear smooth boundary.  (2 to 10 inches thick)
+    E--5 to 8 inches; yellowish brown (10YR 5/4) gravelly loam; weak fine granular and subangular blocky structure; very friable, nonsticky, nonplastic; common fine and medium roots; 20 percent gravel; strongly acid; clear smooth boundary.  (2 to 10 inches thick)
 
-    BE--7 to 15 inches; yellowish brown (10YR 5/6) very gravelly loam; weak fine subangular blocky structure; friable; nonsticky, nonplastic; common fine and medium roots; 35 percent gravel and channers; very strongly acid; clear smooth boundary.  (0 to 10 inches thick)
+    BE--8 to 16 inches; yellowish brown (10YR 5/6) very gravelly loam; weak fine subangular blocky structure; friable; nonsticky, nonplastic; common fine and medium roots; 35 percent gravel and channers; very strongly acid; clear smooth boundary.  (0 to 10 inches thick)
 
-    Bt1--15 to 23 inches; brown (7.5YR 5/4) very gravelly loam; weak fine subangular blocky structure; friable, nonsticky, nonplastic; few fine roots; few faint discontinuous clay films on ped faces; 40 percent gravel and channers; very strongly acid; gradual boundary.
+    Bt1--16 to 24 inches; brown (7.5YR 5/4) very gravelly loam; weak fine subangular blocky structure; friable, nonsticky, nonplastic; few fine roots; few faint discontinuous clay films on ped faces; 40 percent gravel and channers; very strongly acid; gradual boundary.
 
-    Bt2--23 to 36 inches; brown (7.5YR 5/4) and yellowish red (5YR 4/6) very gravelly silt loam; weak fine and medium subangular blocky structure; friable, nonsticky, nonplastic; few very fine roots; few faint discontinuous clay films on ped faces; 50 percent gravel and channers; very strongly acid; gradual smooth boundary.
+    Bt2--24 to 37 inches; brown (7.5YR 5/4) and yellowish red (5YR 4/6) very gravelly silt loam; weak fine and medium subangular blocky structure; friable, nonsticky, nonplastic; few very fine roots; few faint discontinuous clay films on ped faces; 50 percent gravel and channers; very strongly acid; gradual smooth boundary.
 
-    Bt3--36 to 65 inches; brown (7.5YR 5/4) and yellowish red (5YR 4/6) extremely gravelly silt loam; weak medium subangular blocky structure; friable, nonsticky, non-plastic; few faint discontinuous clay films on ped faces; 60 percent gravel and channers; very strongly acid. (Combined thickness of the Bt horizon is 35 to 60 inches)
+    Bt3--37 to 66 inches; brown (7.5YR 5/4) and yellowish red (5YR 4/6) extremely gravelly silt loam; weak medium subangular blocky structure; friable, nonsticky, non-plastic; few faint discontinuous clay films on ped faces; 60 percent gravel and channers; very strongly acid. (Combined thickness of the Bt horizon is 35 to 60 inches)
 
 TYPE LOCATION:  Roanoke County, Virginia, about .5 mile southwest of intersection of VA-622 and 700; 35 feet west of VA-700.
 
@@ -60,9 +60,9 @@ REMARKS:  Macove soils have been included in the Shelocta series in the past.
 
 Diagnostic horizons and features recognized in this pedon are:
 
-a.  Ochric epipedon - 0 to 15 inches.  (A, and E horizons)
-
-b.  Argillic horizon - 15 to 65 inches.  (Bt horizon) c.  Skeletal - More than 35 percent rock fragments in the textural control section.
+a.  Ochric epipedon - 0 to 16 inches.  (Oi, A, E, and BE horizons)
+b.  Argillic horizon - 16 to 66 inches.  (Bt horizon) 
+c.  Skeletal feature - More than 35 percent rock fragments in the particle-size control section.
 
 Additional Lab Data: Chemical and physical data available for the typical pedon 88-161-17-(3-6) by Virginia Polytechnic Institute and State University.
 

@@ -2,7 +2,7 @@ LOCATION STRATTON               VT+NH
 
 Established Series
 Rev. RLM, SHG
-02/2005
+11/2021
 
 STRATTON SERIES
 
@@ -12,19 +12,19 @@ TAXONOMIC CLASS: Loamy-skeletal, isotic Lithic Humicryods
 
 TYPICAL PEDON:  Stratton silt loam, on a southwest-facing slope of 20 percent, in a very rocky wooded area.  (Colors are for moist soil.)
 
-    Oi--4 to 2 inches; undecomposed needles, leaves, and twigs.
+ Oi--0 to 2 inches; undecomposed needles, leaves, and twigs.
 
-    Oe--2 to 0 inches; partially and well decomposed forest litter.  (Combined thickness of the O horizon is 0 to 8 inches.)
+ Oe--2 to 4 inches; partially and well decomposed forest litter.  (Combined thickness of the O horizon is 0 to 8 inches.)
 
-    A--0 to 2 inches; black (5YR 2.5/1) silt loam; weak fine granular structure; very friable; many roots; 5 percent rock fragments; extremely acid; abrupt smooth boundary.  (0 to 4 inches thick)
+ A--4 to 6 inches; black (5YR 2.5/1) silt loam; weak fine granular structure; very friable; many roots; 5 percent rock fragments; extremely acid; abrupt smooth boundary.  (0 to 4 inches thick)
 
-    E--2 to 4 inches; dark gray (5YR 4/1) fine sandy loam; weak fine granular structure; very friable; many roots; 5 percent rock fragments; very strongly acid; abrupt wavy boundary.  (0 to 10 inches thick)
+ E--6 to 8 inches; dark gray (5YR 4/1) fine sandy loam; weak fine granular structure; very friable; many roots; 5 percent rock fragments; very strongly acid; abrupt wavy boundary.  (0 to 10 inches thick)
 
-    Bh1--4 to 7 inches; black (5YR 2/1) fine sandy loam; weak fine granular structure; friable; many roots; 10 percent rock fragments; strongly smeary; very strongly acid; abrupt wavy boundary.
+ Bh1--8 to 11 inches; black (5YR 2/1) fine sandy loam; weak fine granular structure; friable; many roots; 10 percent rock fragments; strongly smeary; very strongly acid; abrupt wavy boundary.
 
-    Bh2--7 to 16 inches; dark reddish brown (5YR 3/2) very cobbly fine sandy loam; weak fine subangular blocky structure; friable; common roots; 45 percent rock fragments; strongly smeary; strongly acid; abrupt irregular boundary.  (Combined thickness of the Bh horizon is 4 to 14 inches.)
+ Bh2--11 to 20 inches; dark reddish brown (5YR 3/2) very cobbly fine sandy loam; weak fine subangular blocky structure; friable; common roots; 45 percent rock fragments; strongly smeary; strongly acid; abrupt irregular boundary.  (Combined thickness of the Bh horizon is 4 to 14 inches.)
 
-    R--16 inches; slightly weathered mica schist bedrock.
+ R--20 inches; slightly weathered mica schist bedrock.
 
 TYPE LOCATION:  Windham County, Vermont; town of Somerset, 670 feet south of summit of Mt. Snow ski lift and 800 feet west of Dover town line.
 
@@ -66,8 +66,8 @@ SERIES ESTABLISHED:  Lamoille County, Vermont, 1979.
 
 REMARKS:
 1.  The Stratton series was originally classified as Thixotropic-skeletal Humic Lithic Cryorthods.  The classification was changed to conform with The Keys To Soil Taxonomy, 1992 edition.
-2.  The diagnostic horizons and features recognized in this pedon are:   a.  Ochric epipedon - the zone from 0 to 4 inches (A and E horizons).    b.  Spodic horizon - contained in the zone from 4 to 16 inches (Bh horizon).
-  c.  Lithic feature - bedrock is at 16 inches from the soil surface.
+2.  The diagnostic horizons and features recognized in this pedon are:   a.  Ochric epipedon - the zone from 0 to 8 inches (Oi, Oe, A and E horizons).    b.  Spodic horizon - contained in the zone from 8 to 20 inches (Bh horizon).
+  c.  Lithic feature - bedrock is at 20 inches from the soil surface.
 
 ADDITIONAL DATA:  This series is based on field profile descriptions and laboratory data from Vermont.  Pedons are:  (S76VT 19-1), (S77VT 15-1), (S77VT 15-3), and (S77VT 25-3).
 

@@ -2,7 +2,7 @@ LOCATION HESSEL                 MI
 
 Established Series
 Rev. LWB-WEF
-08/2012
+11/2021
 
 HESSEL SERIES
 
@@ -12,15 +12,15 @@ TAXONOMIC CLASS: Coarse-loamy, mixed, semiactive, calcareous, frigid Typic Epiaq
 
 TYPICAL PEDON: Hessel cobbly loam, in a forested area. (Colors are for moist soil unless otherwise stated.)
 
- Oi--5 to 0 cm (2 to 0 inches); mixed hardwood and conifer leaf litter.
+ Oi--0 to 5 cm (0 to 2 inches); mixed hardwood and conifer leaf litter.
 
- A--0 to20 cm (8 inches); very dark brown (10YR 2/2) cobbly loam, grayish brown (10YR 5/2) dry; moderate medium granular structure; friable; about 25 percent rock fragments; slightly alkaline; clear wavy boundary. [13 to 25 cm (5 to 10 inches) thick]
+ A--5 to 25 cm (2 to 10 inches); very dark brown (10YR 2/2) cobbly loam, grayish brown (10YR 5/2) dry; moderate medium granular structure; friable; about 25 percent rock fragments; slightly alkaline; clear wavy boundary. [13 to 25 cm (5 to 10 inches) thick]
 
- Bg--20 to 33 cm (8 to 13 inches); grayish brown (2.5Y 5/2) cobbly loam; weak medium subangular blocky structure; firm; common medium prominent light olive brown (2.5Y 5/6) masses of oxidized iron; about 25 percent rock fragments; slightly effervescent; slightly alkaline; gradual wavy boundary. [2.5 to 30 cm (1 to 12 inches) thick]
+ Bg--25 to 38 cm (10 to 15 inches); grayish brown (2.5Y 5/2) cobbly loam; weak medium subangular blocky structure; firm; common medium prominent light olive brown (2.5Y 5/6) masses of oxidized iron; about 25 percent rock fragments; slightly effervescent; slightly alkaline; gradual wavy boundary. [2.5 to 30 cm (1 to 12 inches) thick]
 
- Cg--33 to 127 cm (13 to 50 inches); light brownish gray (2.5Y 6/2) cobbly loam; weak medium subangular blocky structure; firm; many medium distinct dark yellowish brown (10YR 4/4) masses of oxidized iron; about 30 percent rock fragments; slightly effervescent; slightly alkaline.
+ Cg--38 to 133 cm (15 to 52 inches); light brownish gray (2.5Y 6/2) cobbly loam; weak medium subangular blocky structure; firm; many medium distinct dark yellowish brown (10YR 4/4) masses of oxidized iron; about 30 percent rock fragments; slightly effervescent; slightly alkaline.
 
- 2R--(127 to 137 cm 50 to 54 inches); limestone.
+ 2R--133 to 142 cm (52 to 56 inches); limestone.
 
 TYPE LOCATION: Charlevoix County, Michigan; about 3 miles northeast of Charlevoix; 1,000 feet east and 600 feet north of the southwest corner of sec. 8, T. 34 N., R. 7 W.
 
@@ -69,9 +69,9 @@ MLRA SOIL SURVEY REGIONAL OFFICE (MO) RESPONSIBLE: AMHERST, MASSACHUSETTS
 SERIES ESTABLISHED: Mackinac County, Michigan, 1950.
 
 REMARKS: Diagnostic horizons and features recognized in this pedon are: 
-Mollic epipedon - zone from 0 to 20 cm (8 inches) (A horizon).
+Mollic epipedon - zone from 0 to 25 cm (10 inches) (Oi, A horizons).
 Aquic conditions: redoximorphic features present in all horizons below the mollic epipedon (Bg, Cg horizons).
-Lithic contact: at 127 cm (50 inches) (top of the 2R layer).
+Lithic contact: at 133 cm (52 inches) (top of the 2R layer).
 
 National Cooperative Soil Survey
 U.S.A.
