@@ -2,7 +2,7 @@ LOCATION PEAKS                  VA+NC
 
 Established Series
 Rev. EPE-TWB-MKC
-09/2008
+12/2021
 
 PEAKS SERIES
 
@@ -12,19 +12,19 @@ TAXONOMIC CLASS: Loamy-skeletal, mixed, active, mesic Typic Dystrudepts
 
 TYPICAL PEDON:  Peaks gravelly loam-forested.  (Colors are for moist soil.)
 
-    Oi--1 to 0 inch; loose leaves and twigs
+    Oi--0 to 1 inch; loose leaves and twigs
 
-    A--0 to 1 inch; dark brown (10YR 3/3) gravelly loam; weak very fine granular structure; very friable; many very fine, fine and medium roots; 20 percent gravel; strongly acid; clear smooth boundary.  (0 to 5 inches thick)
+    A--1 to 2 inch; dark brown (10YR 3/3) gravelly loam; weak very fine granular structure; very friable; many very fine, fine and medium roots; 20 percent gravel; strongly acid; clear smooth boundary.  (0 to 5 inches thick)
 
-    E--1 to 3 inches, yellowish brown (10YR 5/4) gravelly loam; weak medium granular structure; very friable; common fine and medium discontinuous pores; common very fine, fine medium, and few coarse roots; 25 percent gravel and channers; strongly acid; clear smooth boundary.  (0 to 8 inches thick)
+    E--2 to 4 inches, yellowish brown (10YR 5/4) gravelly loam; weak medium granular structure; very friable; common fine and medium discontinuous pores; common very fine, fine medium, and few coarse roots; 25 percent gravel and channers; strongly acid; clear smooth boundary.  (0 to 8 inches thick)
 
-    Bw1--3 to 13 inches, yellowish brown (10YR 5/6) gravelly loam; weak fine and medium subangular blocky structure; friable; common fine and medium discontinuous pores; common fine and medium roots; 35 percent gravel and channers; strongly acid; clear smooth boundary.
+    Bw1--4 to 14 inches, yellowish brown (10YR 5/6) gravelly loam; weak fine and medium subangular blocky structure; friable; common fine and medium discontinuous pores; common fine and medium roots; 35 percent gravel and channers; strongly acid; clear smooth boundary.
 
-    Bw2--13 to 24 inches, yellowish brown (10YR 5/6) very gravelly loam; weak medium subangular blocky structure; very friable; common fine and medium discontinuous pores; few fine and medium roots; 45 percent gravel and channers; strongly acid; gradual smooth boundary.  (Combined thickness of the Bw horizon is 12 to 35 inches)
+    Bw2--14 to 25 inches, yellowish brown (10YR 5/6) very gravelly loam; weak medium subangular blocky structure; very friable; common fine and medium discontinuous pores; few fine and medium roots; 45 percent gravel and channers; strongly acid; gradual smooth boundary.  (Combined thickness of the Bw horizon is 12 to 35 inches)
 
-    C--24 to 33 inches, yellowish brown (10YR 5/6) extremely channery loam; massive; very friable; 65 percent channers; strongly acid; clear smooth boundary.  (0 to 20 inches thick)
+    C--25 to 34 inches, yellowish brown (10YR 5/6) extremely channery loam; massive; very friable; 65 percent channers; strongly acid; clear smooth boundary.  (0 to 20 inches thick)
 
-    R--33 inches; moderately hard granite gneiss.
+    R--34 inches; moderately hard granite gneiss.
 
 TYPE LOCATION:  Roanoke County, Virginia, about 200 yards west of the Franklin and Roanoke County line; 4 miles southeast of Simmonds Gap.
 
@@ -49,14 +49,14 @@ The C horizon has hue of 7.5YR or 2.5Y, value of 4 through 6, and chroma of 3 th
 The Cr horizon has hue of 7.5YR or 10YR, value of 4 through 6, and chroma of 4 through 8.  It is slightly weathered gneiss, granite, or granodiorite that crushes to LS, SL, FSL, or L in fine-earth fraction.
 
 COMPETING SERIES:  The Berks, Blasdell, Brownstown, Brownsville, Cadosia, Calvin, Cloverlick, Deadline, Highsplint, Jubin, Judyville, Keyesville, Lippitt, Manlius, Matewan, Nailkeg, Solon, Sylco, Warwick and Wyoming series are in the same family.  Brownsville, Cadosia, Cloverlick, Deadline, Highsplint, Jubin and Warwick soils do not have bedrock within a depth of 40 inches.  Berks and Blasdell soils have coarse fragments dominated by shale.  Judyville, Matewan and Solon soils have coarse fragments dominated by sandstone.  Brownstown soils average more than 40 percent silt in the fine-earth fraction of the control section.  Calvin soils have 5YR hue or redder in the B and C horizon. Keyesville soils have a paralithic contact at depths of 20 to 40 inches.  Nailkeg soils have a mean annual soil temperature less than 54 degrees F.  Wyoming soils have water rounded gravel and do not have bedrock within 40 inches. Lippitt soils are formed in glacial till over weathered gneiss, granite or schist bedrock. Manlius soils formed in glacial till over shaly bedrock. Sylco soils have coarse fragments dominated by phyllite bedrock.  
-	
+
 
 GEOGRAPHIC SETTING: Peaks soils are on nearly level to very steep ridgetops and side slopes in the Blue Ridge province.  Slopes range from 0 to 90 percent.  Peaks soils formed in residumm from crystalline rocks, primarily granite, gneiss, and schist.  Mean annual precipitation ranges from about 38 to 45 inches, and mean annual temperature ranges from about 54 to 57 degrees F.
 
 GEOGRAPHICALLY ASSOCIATED SOILS:  Edneytown and Edneyville soils are on similar adjacent landscape positions on tops and shoulders of ridges.  Thurmont soils are on lower colluvial sideslopes.  Evard and Hayesville soils are on lower associated ridges.
 
 DRAINAGE AND PERMEABILITY:  Somewhat excessively drained. Permeability is rapid or moderately rapid.  Index surface runoff class is very low to medium.
-	
+
 USE AND VEGETATION:  Native vegetation is mixed hardwoods and pines.
 
 DISTRIBUTION AND EXTENT:  Blue Ridge province in Virginia and North Carolina, and possibly Georgia and Tennessee.  The series is of moderate extent.
@@ -76,12 +76,12 @@ a.  Ochric epipedon-0 to 3 inches (A and E horizons).
 b.  Cambic horizon-1 to 24 inches (E and Bw horizons).
 
 c.  Rock fragments-average more than 35 percent in the 10 to 33 inch control section.
+The 11/2021 revision: Oi had 1 to 0 inch depths, corrected to be 0 to 1 in horizon depths then added 1 inch to all horizon depths throughout the typical pedon.
 
 SIR = VA0287, VA0310 (stony)
 
 MLRA=130
 
-Revised: 2/1999-MKC; 9/2005-JAK,DHK; 9/2008-DGF
-
+Revised: 2/1999-MKC; 9/2005-JAK,DHK; 9/2008-DGF; 12/2021 -WJN
 National Cooperative Soil Survey
 U.S.A.

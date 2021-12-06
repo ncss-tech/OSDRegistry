@@ -2,7 +2,7 @@ LOCATION TALLADEGA              GA+AL MD NC SC TN VA
 
 Established Series
 Rev. RR-MES-RLW
-08/2001
+12/2021
 
 TALLADEGA SERIES
 
@@ -12,17 +12,17 @@ TAXONOMIC CLASS: Loamy-skeletal, mixed, semiactive, mesic Lithic-Ruptic-Entic Ha
 
 TYPICAL PEDON:  Talladega channery silt loam - forested.  (Colors are for moist soil.)
 
-     0i--2 to 0 inches; deciduous leaves, twigs, etc.
+     0i--0 to 2 inches; deciduous leaves, twigs, etc.
 
-     A--0 to 2 inches; dark grayish brown (10YR 4/2) channery silt loam; weak medium and fine granular structure; very friable; many medium and fine roots; about 30 percent medium fragments of rock; very strongly acid; clear smooth boundary.  (1 to 7 inches thick)
+     A--2 to 4 inches; dark grayish brown (10YR 4/2) channery silt loam; weak medium and fine granular structure; very friable; many medium and fine roots; about 30 percent medium fragments of rock; very strongly acid; clear smooth boundary.  (1 to 7 inches thick)
 
-     BA--2 to 9 inches; dark yellowish brown (10YR 4/4) channery silt loam; weak medium granular and fine subangular blocky structure; friable; common medium and fine roots and pores; about 40 percent medium fragments of rock; very strongly acid; gradual wavy boundary.  (0 to 8 inches thick)
+     BA--4 to 11 inches; dark yellowish brown (10YR 4/4) channery silt loam; weak medium granular and fine subangular blocky structure; friable; common medium and fine roots and pores; about 40 percent medium fragments of rock; very strongly acid; gradual wavy boundary.  (0 to 8 inches thick)
 
-     Bt--9 to 22 inches; yellowish red (5YR 5/6) channery clay loam; weak medium subangular blocky structure; friable; few fine and medium roots and pores; about 50 percent medium and coarse fragments of rock; very strongly acid; gradual wavy boundary.  (0 to 20 inches thick)
+     Bt--11 to 24 inches; yellowish red (5YR 5/6) channery clay loam; weak medium subangular blocky structure; friable; few fine and medium roots and pores; about 50 percent medium and coarse fragments of rock; very strongly acid; gradual wavy boundary.  (0 to 20 inches thick)
 
-     Cr--22 to 26 inches; thinly bedded and broken bluish-black phyllite rock and yellowish red loamy material; a few tongues of the B2t horizon extend into the rock; about 65 percent slaty fragments; gradual irregular boundary.  (0 to 12 inches thick)
+     Cr--24 to 28 inches; thinly bedded and broken bluish-black phyllite rock and yellowish red loamy material; a few tongues of the B2t horizon extend into the rock; about 65 percent slaty fragments; gradual irregular boundary.  (0 to 12 inches thick)
 
-     R--26 inches; bedrock of slate and argillite; bluish-black interior; brown and reddish coatings along fractures and cleavage planes; breaks with difficulty using hand tools.
+     R--28 inches; bedrock of slate and argillite; bluish-black interior; brown and reddish coatings along fractures and cleavage planes; breaks with difficulty using hand tools.
 
 TYPE LOCATION:  Pickens County, Georgia; one mile west of Whitestone on graded road, then north 300 yards on a trail along ridgecrest - exact site is midslope on eastern aspect.
 
@@ -54,7 +54,7 @@ REMARKS:  Diagnostic horizon and features recognized in this pedon are:
 
 Ochric epipedon - the zone from approximately the surface to approximately 2 inches (A horizon).
 
-Argillic horizon - the zone from approximately 9 to 22 inches (Bt horizon).
+Argillic horizon - the zone from approximately 11 to 24 inches (Bt horizon).
 
 Ruptic-Lithic-Entic features - that part of the pedon where lithic contact is less than 20 inches below the surface interrupting the argillic horizon and the argillic horizon is less than 10 inches thick (Bt horizon).
 

@@ -2,7 +2,7 @@ LOCATION DEALE                  MD
 
 Established Series
 SLD-DRV/Rev. JWB
-11/2015
+11/2021
 
 DEALE SERIES
 
@@ -44,7 +44,7 @@ TYPICAL PEDON: Deale silt loam (in an area of Deale-Shadyoak complex, 0 to 2 per
 
  5Btgb2--168 to 183 cm (66 to 72 inches); very dark grayish brown (10YR 3/2) clay loam; weak coarse prismatic structure parting to weak medium subangular blocky; friable, moderately sticky, moderately plastic; 10 percent distinct gray (10YR 5/1) clay films on faces of peds and 5 percent distinct white (N 8/0) skeletans on all faces of peds; 10 percent fine and medium prominent irregular strong brown (7.5YR 4/6) masses of oxidized iron throughout; extremely acid. 
 
-TYPE LOCATION: Anne Arundel County, Maryland; about 2.4 miles west-southwest of Shady Side, 1.7 miles northwest of the intersection of Maryland Route 468 (Muddy Creek Road) and Maryland Route 256 (Deale-Churchton Road), 2,600 feet north-northeast of the intersection of Maryland Route 468 and Old Sudley Road, 650 feet north of Holly Landing Road; Deale, MD USGS topographic quadrangle; lat. 38 degrees 50 minutes 3 seconds N. and long. 76 degrees 32 minutes 34 seconds W., NAD27. 
+TYPE LOCATION: Anne Arundel County, Maryland; about 2.4 miles west-southwest of Shady Side, 1.7 miles northwest of the intersection of Maryland Route 468 (Muddy Creek Road) and Maryland Route 256 (Deale-Churchton Road), 2,600 feet north-northeast of the intersection of Maryland Route 468 and Old Sudley Road, 650 feet north of Holly Landing Road; Deale, MD USGS topographic quadrangle; lat. 38 degrees 50 minutes 3.41 seconds N. and long. 76 degrees 33 minutes 32.85 seconds W, WGS84. 
 
 RANGE IN CHARACTERISTICS:
 Depth to top of upper Argillic horizon: 10 to 41 cm (4 to 16 inches)
@@ -177,7 +177,8 @@ Database Information: OSD Data Mapunit ID-393710 developed; Data Mapunit ID--104
 
 The 12/2007 revision expands the range of characteristics for the Ap, 2BC, BCg, and 2BCg horizons, adjusts the Ksat class, updates the format, and introduces metric units.
 
-Previous revisions: 2003-DAS-JAK; 8/2005-JWB 
+Previous revisions: 2003-DAS-JAK; 8/2005-JWB
+Location coordinates updated -11/2021. 
 
 
 National Cooperative Soil Survey

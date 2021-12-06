@@ -2,7 +2,7 @@ LOCATION ELLIBER                PA+MD TN VA WV
 
 Established Series
 Rev. GDM-EAW
-06/2001
+12/2021
 
 ELLIBER SERIES
 
@@ -12,21 +12,21 @@ TAXONOMIC CLASS: Loamy-skeletal, mixed, semiactive, mesic Typic Hapludults
 
 TYPICAL PEDON:  Elliber very cherty silt loam - wooded.  (Colors are for moist soil unless otherwise noted.)
 
-    Oe--2 to 0 inches; forest litter in various stages of decomposition.
+    Oe--0 to 2 inches; forest litter in various stages of decomposition.
 
-    A--0 to 3 inches; very dark brown (10YR 2/2) extremely channery silt loam; weak very fine granular structure; very friable, nonsticky, nonplastic; many roots; 75 percent rock fragments; extremely acid; abrupt smooth boundary.  (1 to 5 inches thick)
+    A--2 to 5 inches; very dark brown (10YR 2/2) extremely channery silt loam; weak very fine granular structure; very friable, nonsticky, nonplastic; many roots; 75 percent rock fragments; extremely acid; abrupt smooth boundary.  (1 to 5 inches thick)
 
-    E--3 to 14 inches; light yellowish brown (10YR 6/4) very channery silt loam; weak fine subangular blocky structure; very friable, nonsticky, slightly plastic; many roots; 50 percent rock fragments; very strongly acid; clear wavy boundary.  (0 to 12 inches thick)
+    E--5 to 16 inches; light yellowish brown (10YR 6/4) very channery silt loam; weak fine subangular blocky structure; very friable, nonsticky, slightly plastic; many roots; 50 percent rock fragments; very strongly acid; clear wavy boundary.  (0 to 12 inches thick)
 
-    BE1--14 to 28 inches; brownish yellow (10YR 6/6) extremely channery silt loam; weak medium subangular blocky structure; friable, nonsticky, slightly plastic; common roots; 70 percent rock fragments; very strongly acid; clear wavy boundary.  (4 to 15 inches thick)
+    BE1--16 to 30 inches; brownish yellow (10YR 6/6) extremely channery silt loam; weak medium subangular blocky structure; friable, nonsticky, slightly plastic; common roots; 70 percent rock fragments; very strongly acid; clear wavy boundary.  (4 to 15 inches thick)
 
-    BE2--28 to 35 inches; yellowish brown (10YR 5/6) extremely channery silt loam; weak medium subangular blocky structure; friable, nonsticky, slightly plastic; few roots; few black coatings on face of peds and on chert fragments; 70 percent rock fragments; extremely acid; clear wavy boundary.  (6 to 15 inches thick)
+    BE2--30 to 37 inches; yellowish brown (10YR 5/6) extremely channery silt loam; weak medium subangular blocky structure; friable, nonsticky, slightly plastic; few roots; few black coatings on face of peds and on chert fragments; 70 percent rock fragments; extremely acid; clear wavy boundary.  (6 to 15 inches thick)
 
-    Bt1--35 to 47 inches; yellowish brown (10YR 5/6) extremely channery loam; weak coarse subangular blocky structure; friable, slightly sticky, slightly plastic; few roots; common distinct thick clay films in pores and on chert fragments; many distinct black coatings on peds and fragments; 75 percent rock fragments; extremely acid; gradual wavy boundary.  (7 to 15 inches thick)
+    Bt1--37 to 49 inches; yellowish brown (10YR 5/6) extremely channery loam; weak coarse subangular blocky structure; friable, slightly sticky, slightly plastic; few roots; common distinct thick clay films in pores and on chert fragments; many distinct black coatings on peds and fragments; 75 percent rock fragments; extremely acid; gradual wavy boundary.  (7 to 15 inches thick)
 
-    Bt2--47 to 59 inches; yellowish brown (10YR 5/8) extremely channery clay loam; weak coarse subangular blocky structure; friable, slightly sticky, slightly plastic; few roots; common distinct clay films in pores and on rock fragments; many distinct black coatings; 80 percent rock fragments; very strongly acid; gradual wavy boundary.  (0 to 14 inches thick)
+    Bt2--49 to 61 inches; yellowish brown (10YR 5/8) extremely channery clay loam; weak coarse subangular blocky structure; friable, slightly sticky, slightly plastic; few roots; common distinct clay films in pores and on rock fragments; many distinct black coatings; 80 percent rock fragments; very strongly acid; gradual wavy boundary.  (0 to 14 inches thick)
 
-    Bt3--59 to 70 inches; yellowish brown (10YR 5/8) very channery clay loam; weak coarse subangular blocky structure; firm, slightly sticky, plastic; few roots; common distinct clay films in pores and on rock fragments; many distinct black coatings; 60 percent rock fragments; very strongly acid.
+    Bt3--61 to 72 inches; yellowish brown (10YR 5/8) very channery clay loam; weak coarse subangular blocky structure; firm, slightly sticky, plastic; few roots; common distinct clay films in pores and on rock fragments; many distinct black coatings; 60 percent rock fragments; very strongly acid.
 
 TYPE LOCATION:  Perry County, Pennsylvania; Saville Township, 1.5 miles north of Loysville, 530 feet south of intersection of routes 50010 and 50011, 100 feet east in woods.
 
@@ -57,6 +57,7 @@ MLRA SOIL SURVEY REGIONAL OFFICE (MO) RESPONSIBLE: Morgantown, West Virginia
 SERIES ESTABLISHED:  Hampshire County, West Virginia, 1927.
 
 REMARKS:  Diagnostic horizons and features recognized in this pedon are: 1.  Ochric epipedon - the zone from the surface of the soil to a depth of about 35 inches (A, E, and BE horizons). 2.  Argillic horizon - the zone from 35 inches to a depth of about 70 inches (Bt1, Bt2, and Bt3 horizons).
+11/2021 revision: Oe had 2 to 0 inch depths, corrected to be 0 to 2 in horizon depths then added 2 inches to all horizon depths throughout the typical pedon
 
 ADDITIONAL DATA:  Laboratory data are available for six pedons from Pennsylvania - S70-PA-050-09, S70-PA-050-06, S70-PA-034-12, S70-PA-044-01, and S69-PA-055-01.
 
