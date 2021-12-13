@@ -2,7 +2,7 @@ LOCATION ALTICREST              TN+KY VA
 
 Established Series
 Rev. DLN:RRD
-04/2001
+12/2021
 
 ALTICREST SERIES
 
@@ -12,21 +12,21 @@ TAXONOMIC CLASS: Coarse-loamy, siliceous, semiactive, mesic Typic Dystrudepts
 
 TYPICAL PEDON:  Alticrest sandy loam--forest. (Colors are for moist soil unless otherwise stated.)
 
-     Oe--1 to 0 inches; very dark gray (10YR 3/1) partially decomposed organic mat of pine needles, twigs and hardwood leaves.
+     Oe--0 to 1 inch; very dark gray (10YR 3/1) partially decomposed organic mat of pine needles, twigs and hardwood leaves.
 
-     A--0 to 2 inches; dark brown (l0YR 3/3) sandy loam; weak fine granular structure; very friable; many fine roots; very strongly acid; clear smooth boundary.  (l to 3 inches thick)
+     A--1 to 3 inches; dark brown (10YR 3/3) sandy loam; weak fine granular structure; very friable; many fine roots; very strongly acid; clear smooth boundary.  (l to 3 inches thick)
 
-     E--2 to 10 inches; brown (l0YR 4/3) sandy loam; few fine faint dark brown (l0YR 3/3) organic stains; weak fine granular structure; very friable; many fine and few coarse roots; very strongly acid; clear smooth boundary.  (0 to 9 inches thick)
+     E--3 to 11 inches; brown (10YR 4/3) sandy loam; few fine faint dark brown (10YR 3/3) organic stains; weak fine granular structure; very friable; many fine and few coarse roots; very strongly acid; clear smooth boundary.  (0 to 9 inches thick)
 
-     Bwl--l0 to l5 inches; dark yellowish brown (l0YR 4/4) sandy loam; few fine faint yellowish-brown (l0YR 5/4) and dark yellowish brown (l0YR 3/4) mottles; weak medium subangular blocky structure; very friable; common fine roots; 5 percent fragments of sandstone less than 3 inches in diameter; very strongly acid; gradual smooth boundary.
+     Bw1--11 to 16 inches; dark yellowish brown (10YR 4/4) sandy loam; few fine faint yellowish brown (10YR 5/4) and dark yellowish brown (10YR 3/4) mottles; weak medium subangular blocky structure; very friable; common fine roots; 5 percent fragments of sandstone less than 3 inches in diameter; very strongly acid; gradual smooth boundary.
 
-     Bw2--l5 to 23 inches; strong brown (7.5YR 5/6) loam; weak medium subangular blocky structure; very friable; few fine roots; 5 percent by volume fragments of sandstone less than 3 inches in diameter; very strongly acid; gradual smooth boundary.
+     Bw2--16 to 24 inches; strong brown (7.5YR 5/6) loam; weak medium subangular blocky structure; very friable; few fine roots; 5 percent by volume fragments of sandstone less than 3 inches in diameter; very strongly acid; gradual smooth boundary.
 
-     Bw3--23 to 3l inches; brown (7.5YR 5/4) loam; weak medium subangular blocky structure; very friable; few fine roots; 10 percent by volume fragments of sandstone less than 3 inches in diameter; very strongly acid; clear smooth boundary.  (combined thickness of the Bw horizon is 10 to 34 inches)
+     Bw3--24 to 32 inches; brown (7.5YR 5/4) loam; weak medium subangular blocky structure; very friable; few fine roots; 10 percent by volume fragments of sandstone less than 3 inches in diameter; very strongly acid; clear smooth boundary.  (combined thickness of the Bw horizon is 10 to 34 inches)
 
-     C--3l to 32 inches; pale brown l0YR 6/3) sand; common medium faint brown (l0YR 5/3) and common medium distinct dark brown (l0YR 3/3) mottles; single grain; loose; 10 percent by volume fragments of sandstone less than 3 inches in diameter; very strongly acid.  (0 to 3 inches thick)
+     C--32 to 33 inches; pale brown (10YR 6/3) sand; common medium faint brown (10YR 5/3) and common medium distinct dark brown (10YR 3/3) mottles; single grain; loose; 10 percent by volume fragments of sandstone less than 3 inches in diameter; very strongly acid.  (0 to 3 inches thick)
 
-     R--32 inches; hard sandstone bedrock.
+     R--33 inches; hard sandstone bedrock.
 
 TYPE LOCATION:  Fentress County, Tennessee; l.0 mile east of Jamestown on State Highway 52; left on paved road 2.7 miles; left on gravel road toward city lake 0.8 mile; site on left of road 400 ft. north of Yellow Creek.
 
@@ -58,11 +58,11 @@ SERIES ESTABLISHED:  Fentress County, Tennessee; 1985.
 
 REMARKS:  Diagnostic horizons and features recognized in this pedon are:
 
-Ochric epipedon - from 0 to 10 inches (A and E horizons)
+Ochric epipedon - from 0 to 11 inches (Oe, A, and E horizons)
 
-Cambic horizon - from 10 to 32 inches (Bw horizon)
+Cambic horizon - from 11 to 32 inches (Bw horizon)
 
-Additional remarks - In Tennessee, the Alticrest series was   included with the Ramsey, Crossville, and Lily series.
+Additional remarks - In Tennessee, the Alticrest series was included with the Ramsey, Crossville, and Lily series.
 
 MLRAs used in: 125, 128
 

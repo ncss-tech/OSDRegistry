@@ -2,7 +2,7 @@ LOCATION NONABURG               TN
 
 Established Series
 NTH-RLL-MKC
-04/2001
+12/2021
 
 NONABURG SERIES
 
@@ -12,13 +12,13 @@ TAXONOMIC CLASS: Clayey, mixed, active, thermic, shallow Inceptic Hapludalfs
 
 TYPICAL PEDON:  Nonaburg silty clay loam - forested.  (Colors are for moist soil unless otherwise stated.)
 
- Oi--1 to 0 inches; partially decomposed hardwood litter and twigs.
+ Oi--0 to 1 inches; partially decomposed hardwood litter and twigs.
 
- A--0 to 2 inches; dark brown (10YR 3/3) silty clay loam; moderate medium granular structure; friable; many fine and medium roots; 5 percent shale channers; neutral; abrupt smooth boundary.  (1 to 7 inches thick)
+ A--1 to 3 inches; dark brown (10YR 3/3) silty clay loam; moderate medium granular structure; friable; many fine and medium roots; 5 percent shale channers; neutral; abrupt smooth boundary.  (1 to 7 inches thick)
 
- Bt--2 to 10 inches; dark yellowish brown (10YR 4/4) clay; common medium distinct yellowish brown (10YR 5/8) mottles; moderate medium subangular blocky structure; firm; sticky; plastic; common medium roots; few distinct clay films on faces of peds and in pores; 10 percent shale channers; slightly acid; abrupt wavy boundary.  (5 to 14 inches thick)
+ Bt--3 to 11 inches; dark yellowish brown (10YR 4/4) clay; common medium distinct yellowish brown (10YR 5/8) mottles; moderate medium subangular blocky structure; firm; sticky; plastic; common medium roots; few distinct clay films on faces of peds and in pores; 10 percent shale channers; slightly acid; abrupt wavy boundary.  (5 to 14 inches thick)
 
- Cr--10 to 40 inches; soft, brownish, fractured, tilted calcareous shale.  (12 to more than 40 inches thick)
+ Cr--11 to 40 inches; soft, brownish, fractured, tilted calcareous shale.  (12 to more than 40 inches thick)
 
 TYPE LOCATION: McMinn County, Tennessee; 2.4 miles east of Englewood on State Route 39 to the intersection with County Road 477, 0.1 mile southwest on County Road 477, 0.25 mile southeast of County Road 477 to the lower portion of side slope in a mixed forest; Englewood topographic quadrangle; lat. 35 degrees 24 minutes 8 seconds N. and long. 84 degrees 27 minutes 23 seconds W.
 
@@ -58,6 +58,8 @@ Paralithic Contact: 10 to 40 inches (Cr horizon
 
 Inceptic subgroup feature: Argillic horizon less than 14 inches
 thick (35 cm).
+
+12/2021 revision: Oi had 1 to 0 inch depths, corrected to be 0 to 1 in horizon depths then added 1 inch to all horizon depths throughout the typical pedon. WJN
 
 National Cooperative Soil Survey
 U.S.A.

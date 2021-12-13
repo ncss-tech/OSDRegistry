@@ -2,7 +2,7 @@ LOCATION BRASSTOWN              NC+TN
 
 Established Series
 Rev. DJT-JDV-AG-MKC
-04/2001
+12/2021
 
 BRASSTOWN SERIES
 
@@ -12,19 +12,19 @@ TAXONOMIC CLASS: Fine-loamy, mixed, subactive, mesic Typic Hapludults
 
 TYPICAL PEDON:  Brasstown channery fine sandy loam on a 24 percent south-facing mountain side slope, elevation 1732 feet--forest.  (Colors are for moist soil unless otherwise stated.)
 
-     Oi--1 to 0 inches, partially decomposed deciduous leaves, twigs, and roots.
+     Oi--0 to 1 inches, partially decomposed deciduous leaves, twigs, and roots.
 
-     A--0 to 6 inches, dark brown (7.5YR 4/4) channery fine sandy loam; reddish yellow (7.5YR 6/6) dry; moderate fine granular structure; very friable; common fine and medium roots; 25 percent by volume metasandstone and phyllite channers; few fine flakes of mica; very strongly acid; clear wavy boundary.  (2 to 10 inches thick)
+     A--1 to 7 inches, dark brown (7.5YR 4/4) channery fine sandy loam; reddish yellow (7.5YR 6/6) dry; moderate fine granular structure; very friable; common fine and medium roots; 25 percent by volume metasandstone and phyllite channers; few fine flakes of mica; very strongly acid; clear wavy boundary.  (2 to 10 inches thick)
 
-     BA--6 to 10 inches, yellowish red (5YR 5/6) channery sandy clay loam; weak medium subangular blocky structure; very friable; common fine and medium roots; 20 percent by volume metasandstone and phyllite channers; common fine flakes of mica; very strongly acid; abrupt wavy boundary.  (0 to 8 inches thick)
+     BA--7 to 11 inches, yellowish red (5YR 5/6) channery sandy clay loam; weak medium subangular blocky structure; very friable; common fine and medium roots; 20 percent by volume metasandstone and phyllite channers; common fine flakes of mica; very strongly acid; abrupt wavy boundary.  (0 to 8 inches thick)
 
-     Bt--10 to 29 inches, red (2.5YR 4/8) channery sandy clay loam; moderate medium subangular blocky structure; friable; 25 percent by volume metasandstone and phyllite channers; common fine flakes of mica; few fine and medium roots; strongly acid; gradual wavy boundary.  (10 to 45 inches thick)
+     Bt--11 to 30 inches, red (2.5YR 4/8) channery sandy clay loam; moderate medium subangular blocky structure; friable; 25 percent by volume metasandstone and phyllite channers; common fine flakes of mica; few fine and medium roots; strongly acid; gradual wavy boundary.  (10 to 45 inches thick)
 
-     BC--29 to 37 inches, red (2.5YR 4/6) channery fine sandy loam; weak medium subangular blocky structure; very friable; 25 percent by volume phyllite channers; common fine flakes of mica; strongly acid; gradual wavy boundary.  (0 to 15 inches thick)
+     BC--30 to 38 inches, red (2.5YR 4/6) channery fine sandy loam; weak medium subangular blocky structure; very friable; 25 percent by volume phyllite channers; common fine flakes of mica; strongly acid; gradual wavy boundary.  (0 to 15 inches thick)
 
-     C--37 to 46 inches, multicolored phyllite saprolite that has channery very fine sandy loam texture; massive; very friable; 30 percent by volume phyllite channers; common fine flakes of mica; strongly acid; gradual wavy boundary.
+     C--38 to 47 inches, multicolored phyllite saprolite that has channery very fine sandy loam texture; massive; very friable; 30 percent by volume phyllite channers; common fine flakes of mica; strongly acid; gradual wavy boundary.
 
-     Cr--46 to 60 inches, multicolored, weathered, and fractured interbedded metasandstone and phyllite; partially consolidated but can be dug with difficulty with a spade.
+     Cr--47 to 60 inches, multicolored, weathered, and fractured interbedded metasandstone and phyllite; partially consolidated but can be dug with difficulty with a spade.
 
 TYPE LOCATION:  Cherokee County, North Carolina; west from Murphy on US 64 to SR 1301; west on SR 1301 to SR 1302; northwest on SR 1302 to SR 1303; northeast on SR 1303 to USFS 307; 0.5 mile west of USFS 6068 on USFS 307 in woods.
 
@@ -65,6 +65,7 @@ MLRA SOIL SURVEY REGIONAL OFFICE (MO) RESPONSIBLE:  Morgantown, West Virginia
 SERIES ESTABLISHED:  McDowell County, North Carolina, 1989.  The name is from the community of Brasstown in adjoining Clay County, North Carolina.
 
 REMARKS:  The soils now placed in the Brasstown series were previously included in the Evard series.  However, Brasstown is derived from and has fragments of metasedimentary rocks, and Evard contains fragments of granite, gneiss, or schist.  The 6/99 revision updates the classification to the 8th Edition of Keys to Soil Taxonomy.  The soil is placed in the subactive CEC activity class based upon NSSL lab data from the typifying pedon.
+11/2021 revision: Oi had 1 to 0 inch depths, corrected to be 0 to 1 in horizon depths then added 1 inch to all horizon depths throughout the typical pedon.
 
 Laboratory data from the typifying pedon were obtained from the National Soil Survey Laboratory, sample number S85NC-039-002.
 
