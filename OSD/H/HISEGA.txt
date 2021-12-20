@@ -2,7 +2,7 @@ LOCATION HISEGA                 SD
 
 Established Series
 Rev. ACM-KEC
-07/2010
+12/2021
 
 HISEGA SERIES
 
@@ -12,15 +12,15 @@ TAXONOMIC CLASS: Loamy-skeletal, micaceous, frigid Pachic Hapludolls
 
 TYPICAL PEDON:  Hisega loam - on a 30 percent convex south-facing slope under a ponderosa pine forest at 5800 feet.  When described the soil was dry throughout.  (Colors are for dry soil unless otherwise stated.)
 
-   0i--1 to 0 inch; forest litter and slightly decomposed forest litter.   (1 to 3 inches thick)
+   Oi--0 to 1 inch; forest litter and slightly decomposed forest litter.   (1 to 3 inches thick)
 
-   A--0 to 4 inches; dark grayish brown (10YR 4/2) loam, very dark brown (10YR 2/2) moist; weak medium and coarse subangular blocky structure; soft, very friable; many fine and medium roots; 10 percent by volume fragments of schist; neutral; clear wavy boundary.  (1 to 7 inches thick)
+   A--1 to 5 inches; dark grayish brown (10YR 4/2) loam, very dark brown (10YR 2/2) moist; weak medium and coarse subangular blocky structure; soft, very friable; many fine and medium roots; 10 percent by volume fragments of schist; neutral; clear wavy boundary.  (1 to 7 inches thick)
 
-   Bw--4 to 19 inches; brown (10YR 4/3) channery loam, very dark grayish brown (10YR 3/2) moist; weak fine and medium subangular blocky structure; soft, friable; many fine and medium roots; 20 percent by volume fragments of schist; slightly acid; clear wavy boundary.  (9 to 20 inches thick)
+   Bw--5 to 20 inches; brown (10YR 4/3) channery loam, very dark grayish brown (10YR 3/2) moist; weak fine and medium subangular blocky structure; soft, friable; many fine and medium roots; 20 percent by volume fragments of schist; slightly acid; clear wavy boundary.  (9 to 20 inches thick)
 
-   C1--19 to 30 inches; brown (10YR 5/3) very channery loam, very dark grayish brown (10YR 3/2) moist; massive; soft, very friable; many coarse and medium roots; 50 percent by volume fragments of schist; neutral; gradual wavy boundary.
+   C1--20 to 31 inches; brown (10YR 5/3) very channery loam, very dark grayish brown (10YR 3/2) moist; massive; soft, very friable; many coarse and medium roots; 50 percent by volume fragments of schist; neutral; gradual wavy boundary.
 
-   C2--30 to 60 inches; grayish brown (2.5Y 5/2) extremely flaggy loam, dark grayish brown (2.5Y 4/2) moist; massive; soft, very friable; common medium roots along fractures and cleavage planes of the bedrock; 80 percent by volume fragments of schist oriented toward the northwest at about 65 degrees; neutral.
+   C2--31 to 60 inches; grayish brown (2.5Y 5/2) extremely flaggy loam, dark grayish brown (2.5Y 4/2) moist; massive; soft, very friable; common medium roots along fractures and cleavage planes of the bedrock; 80 percent by volume fragments of schist oriented toward the northwest at about 65 degrees; neutral.
 
 TYPE LOCATION:  Lawrence County, South Dakota; about 1 mile east and 12 miles south of Lead; 660 feet east and 1240 feet south of the northwest corner of sec. 34, T. 3 N., R. 3 E.
 
@@ -44,7 +44,7 @@ USE AND VEGETATION:  Used for timber production, for recreation and wildlife, an
 
 DISTRIBUTION AND EXTENT:  Black Hills in western South Dakota.  Hisega series is of small extent.
 
-MLRA SOIL SURVEY REGIONAL OFFICE (MO) RESPONSIBLE: Denver, Colorado
+SOIL SURVEY REGIONAL OFFICE (SSRO) RESPONSIBLE: Salina, Kansas
 
 SERIES ESTABLISHED:  Lawrence County, South Dakota, 1977.
 
@@ -54,7 +54,7 @@ ADDITIONAL DATA:  NSSL Sample Nos. 76PO688-91 from type location.
 
 
 
-The mineralogy class was changed from paramicaceous to micaceous in 07/2010 by the National Soil Survey Center on request of the responsible MLRA regional office.  The change was necessary based on the eleventh edition of the Keys to Soil Taxonomy, 2010.
+The mineralogy class was changed from paramicaceous to micaceous in 07/2010 by the National Soil Survey Center on request of the responsible MLRA regional office.  The change was necessary based on the eleventh edition of the Keys to Soil Taxonomy, 2010. Depths were adjusted to account for the current standard of measuring O horizons. JCW 12/21.
 
 National Cooperative Soil Survey
 U.S.A.

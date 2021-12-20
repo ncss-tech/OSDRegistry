@@ -2,7 +2,7 @@ LOCATION CATOCTIN               VA+MD PA
 
 Established Series
 Rev. JHW-NAM-HS
-10/2003
+12/2021
 
 CATOCTIN SERIES
 
@@ -12,19 +12,19 @@ TAXONOMIC CLASS: Loamy-skeletal, mixed, superactive, mesic Ruptic-Alfic Eutrudep
 
 TYPICAL PEDON:  Catoctin channery silt loam - in a hardwood forest.  (Colors are for moist soil.)
 
-    Oi--3 to 0 inches; partially decomposed and fresh leaves and twigs of decidious trees.
+    Oi--0 to 3 inches; partially decomposed and fresh leaves and twigs of decidious trees.
 
-    Oe--0 to 1 inches; dark brown partially decomposed organic matter.
+    Oe--3 to 4 inches; dark brown partially decomposed organic matter.
 
-    A--1 to 4 inches; brown (7.5YR 4/2) channery silt loam; weak fine granular structure; very friable; many fine roots; 15 percent fragments of greenstone rock 1/4 to 2 inches in length; strongly acid; clear smooth boundary.  (1 to 6 inches thick)
+    A--4 to 7 inches; brown (7.5YR 4/2) channery silt loam; weak fine granular structure; very friable; many fine roots; 15 percent fragments of greenstone rock 1/4 to 2 inches in length; strongly acid; clear smooth boundary.  (1 to 6 inches thick)
 
-    E--4 to 10 inches; brown (7.5YR 5/4) channery silt loam; weak fine granular structure; friable; many fine and medium roots; 20 percent fragments of greenstone rock 1/4 to 2 inches in length; strongly acid; gradual wavy boundary.  (0 to 8 inches thick)
+    E--7 to 13 inches; brown (7.5YR 5/4) channery silt loam; weak fine granular structure; friable; many fine and medium roots; 20 percent fragments of greenstone rock 1/4 to 2 inches in length; strongly acid; gradual wavy boundary.  (0 to 8 inches thick)
 
-    Bw--10 to 22 inches; strong brown (7.5YR 5/6) channery silt loam; weak fine subangular blocky structure; interrupted by thin lenses and irregularly shaped bodies of silty clay loam with few distinct clay films on faces of peds and in pores; friable, slightly plastic, slightly sticky; few medium and fine roots; 35 percent partially weathered fragments of greenstone rock 1/2 to 4 inches in length; few distinct clay films on faces of rock fragments; moderately acid; gradual wavy boundary.  (6 to 25 inches thick)
+    Bw--13 to 25 inches; strong brown (7.5YR 5/6) channery silt loam; weak fine subangular blocky structure; interrupted by thin lenses and irregularly shaped bodies of silty clay loam with few distinct clay films on faces of peds and in pores; friable, slightly plastic, slightly sticky; few medium and fine roots; 35 percent partially weathered fragments of greenstone rock 1/2 to 4 inches in length; few distinct clay films on faces of rock fragments; moderately acid; gradual wavy boundary.  (6 to 25 inches thick)
 
-    C--22 to 28 inches; brown (7.5YR 5/4) and yellowish red (5YR 5/8) very channery silt loam; massive; friable, slightly sticky; few fine roots; 70 percent partially weathered fragments or rock 2 to 6 inches in length; moderately acid; gradual irregular boundary.  (0 to 20 inches thick)
+    C--25 to 31 inches; brown (7.5YR 5/4) and yellowish red (5YR 5/8) very channery silt loam; massive; friable, slightly sticky; few fine roots; 70 percent partially weathered fragments or rock 2 to 6 inches in length; moderately acid; gradual irregular boundary.  (0 to 20 inches thick)
 
-    R--28 inches; hard greenstone rock.
+    R--31 inches; hard greenstone rock.
 
 TYPE LOCATION:  Loudoun County, Virginia; on Highway 698, l mile south of junction of Highway 740.
 
@@ -56,13 +56,15 @@ SERIES ESTABLISHED:  Frederick County (Catoctin Soil Conservation District), Mar
 
 REMARKS:  Diagnostic horizons and features recognized in this pedon are:
 
-1.  Ochric Epipedon - the zone from the surface to 10 inches (A and E horizons)
+1.  Ochric Epipedon - the zone from the surface to 1e inches (A and E horizons)
 
-2.  Cambic horizon - zone from 10 to 22 inches
+2.  Cambic horizon - zone from 13 to 25 inches
 
-3.  Lithic contact at 28 inches
+3.  Lithic contact at 31 inches
 
 10/2003 Previously revised by JHW-NAM-HS in 08/2001. This 2003 revision corrected an error in surface rock fragments. The surface was previously listed as 10% channers with a silt loam. Loudoun County correlation and taxonomic description showed 15% rock fragments and channery silt loam.
+12/2021 revision: Oi had 3 to 0 inch depths, corrected to be 0 to 3 in horizon depths then added 3 inches to all horizon depths throughout the typical pedon. WJN
+
 
 SIR = VA0027, VA0251 (COBBLY), VA0030 (STONY)
 

@@ -2,7 +2,7 @@ LOCATION PACTOLA                SD
 
 Established Series
 Rev. ACM-KEC
-02/1999
+12/2021
 
 PACTOLA SERIES
 
@@ -12,17 +12,17 @@ TAXONOMIC CLASS: Loamy-skeletal, mixed, superactive, frigid Glossic Hapludalfs
 
 TYPICAL PEDON:  Pactola loam - on a 20 percent convex southeast-facing slope under a ponderosa pine forest at 53l5 feet elevation.  When described the soil was dry throughout.  (Colors are for dry soil unless otherwise stated.)
 
-   0i--1 to 0 inch: forest litter and partially decayed litter.  (l to 3 inches thick)
+   Oi--0 to 1 inch: forest litter and partially decayed litter.  (l to 3 inches thick)
 
-   A--0 to 2 inches; dark gray (10YR 4/1) loam, black (10YR 2/1) moist; weak thin platy structure parting to weak very fine granular; soft, very friable; many fine roots; few fine fragments of rock; slightly acid; abrupt smooth boundary.  (0 to 2 inches thick)
+   A--1 to 3 inches; dark gray (10YR 4/1) loam, black (10YR 2/1) moist; weak thin platy structure parting to weak very fine granular; soft, very friable; many fine roots; few fine fragments of rock; slightly acid; abrupt smooth boundary.  (0 to 2 inches thick)
 
-   E--2 to 9 inches; light gray (10YR 7/2) very channery silt loam, dark grayish brown (10YR 4/2) moist; weak thin platy structure; soft, very friable; many fine and medium roots; 45 percent by volume of fragments of rock; moderately acid; clear wavy boundary.  (4 to 14 inches thick)
+   E--3 to 10 inches; light gray (10YR 7/2) very channery silt loam, dark grayish brown (10YR 4/2) moist; weak thin platy structure; soft, very friable; many fine and medium roots; 45 percent by volume of fragments of rock; moderately acid; clear wavy boundary.  (4 to 14 inches thick)
 
-   B/E--9 to 22 inches; grayish brown (10YR 5/2) very channery clay loam, dark grayish brown (10YR 4/2) moist (Bt) and light gray (10YR 7/2) channery silt loam, dark grayish brown (10YR 4/2) moist (E); weak fine and medium subangular blocky structure; slightly hard, friable; common fine and medium roots; 50 percent by volume of fragments of rock; moderately acid; gradual wavy boundary.  (0 to 15 inches thick)
+   B/E--10 to 23 inches; grayish brown (10YR 5/2) very channery clay loam, dark grayish brown (10YR 4/2) moist (Bt) and light gray (10YR 7/2) channery silt loam, dark grayish brown (10YR 4/2) moist (E); weak fine and medium subangular blocky structure; slightly hard, friable; common fine and medium roots; 50 percent by volume of fragments of rock; moderately acid; gradual wavy boundary.  (0 to 15 inches thick)
 
-   Bt--22 to 45 inches; brown (10YR 5/3) extremely flaggy clay loam, brown (10YR 4/3) moist; moderate fine subangular blocky structure of fine earth; slightly hard, firm, slightly sticky and slightly plastic; common fine to coarse roots; 75 percent by volume of fragments of rock; moderately acid; diffuse wavy boundary.  (12 to 25 inches thick)
+   Bt--23 to 46 inches; brown (10YR 5/3) extremely flaggy clay loam, brown (10YR 4/3) moist; moderate fine subangular blocky structure of fine earth; slightly hard, firm, slightly sticky and slightly plastic; common fine to coarse roots; 75 percent by volume of fragments of rock; moderately acid; diffuse wavy boundary.  (12 to 25 inches thick)
 
-   C--45 to 60 inches; light olive brown (2.5Y 5/3) extremely flaggy silt loam, very dark grayish brown (2.5Y 3/2) moist; massive; soft, friable; few medium and coarse roots; 75 percent by volume of fragments of rock; slightly acid.
+   C--46 to 60 inches; light olive brown (2.5Y 5/3) extremely flaggy silt loam, very dark grayish brown (2.5Y 3/2) moist; massive; soft, friable; few medium and coarse roots; 75 percent by volume of fragments of rock; slightly acid.
 
 TYPE LOCATION:  Lawrence County, South Dakota; about 5 miles west and 3 miles south of Nemo; 550 feet north and 1340 feet west of the southeast corner of sec. 11, T. 2 N., R. 4 E.
 
@@ -52,11 +52,11 @@ USE AND VEGETATION:  Used for timber production, for recreation and wildlife, an
 
 DISTRIBUTION AND EXTENT:  Black Hills in western South Dakota and possibly eastern Wyoming.  The Pactola series is of moderate extent.
 
-MLRA SOIL SURVEY REGIONAL OFFICE (MO) RESPONSIBLE: Denver, Colorado
+SOIL SURVEY REGIONAL OFFICE (SSRO) RESPONSIBLE: Salina, Kansas
 
 SERIES ESTABLISHED:  Lawrence County, South Dakota, 1977.
 
-REMARKS:  Diagnostic horizons and features recognized in this pedon are:  ochric epipedon - the zone from the surface of the soil to a depth of about 9 inches (A, E horizons); argillic horizon - the zone from about 9 to 45 inches (B/E, Bt horizons).
+REMARKS:  Diagnostic horizons and features recognized in this pedon are:  ochric epipedon - the zone from the surface of the soil to a depth of about 10 inches (A, E horizons); argillic horizon - the zone from about 10 to 46 inches (B/E, Bt horizons). Depths were adjusted to account for the current standard of measuring O horizons. JCW 12/21.
 
 ADDITIONAL DATA:  NSSL lab data 76PO716-20 is for the typical pedon.
 

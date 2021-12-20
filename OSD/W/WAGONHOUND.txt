@@ -2,7 +2,7 @@ LOCATION WAGONHOUND             WY
 
 Established Series
 MC/MS
-03/2006
+12/2021
 
 WAGONHOUND SERIES
 
@@ -12,17 +12,17 @@ TAXONOMIC CLASS: Fine-loamy, mixed, superactive, mesic Aridic Haplustalfs
 
 TYPICAL PEDON:  Wagonhound loam -- on a north-facing concave slope of 8 percent under Ponderosa Pine.  (Colors are for dry soil unless otherwise stated.)
 
-     Oi--3 to 0 centimeters (1 to 0 inches); needles undecomposed
+     Oi--0 to 3 centimeters (1 to 0 inches); needles undecomposed
 
-     Oe--0 to 3 centimeters (0 to 1 inches); decomposed forest litter
+     Oe--3 to 6 centimeters (0 to 1 inches); decomposed forest litter
 
-     A--3 to 10 centimeters (1 to 4 inches); dark grayish brown (10YR 4/2) loam, very dark grayish brown (10YR 3/2) moist; weak very fine subangular blocky structure; soft, very friable, slightly sticky and slightly plastic; common very fine and fine roots; common fine tubular pores; slightly acid (pH 6.2); clear smooth boundary.  (5 to 10 centimeters (2 to 4 inches) thick)
+     A--6 to 13 centimeters (1 to 4 inches); dark grayish brown (10YR 4/2) loam, very dark grayish brown (10YR 3/2) moist; weak very fine subangular blocky structure; soft, very friable, slightly sticky and slightly plastic; common very fine and fine roots; common fine tubular pores; slightly acid (pH 6.2); clear smooth boundary.  (5 to 10 centimeters (2 to 4 inches) thick)
 
-     Bt1--10 to 23 centimeters (4 to 9 inches); brown (10YR 5/3) sandy clay loam, brown (10YR 4/3) moist; moderate fine subangular blocky structure; slightly hard, friable, sticky and plastic; common fine roots; common fine tubular pores; few distinct clay films on faces of peds; moderately acid (pH 6.0); gradual smooth boundary.
+     Bt1--13 to 26 centimeters (4 to 9 inches); brown (10YR 5/3) sandy clay loam, brown (10YR 4/3) moist; moderate fine subangular blocky structure; slightly hard, friable, sticky and plastic; common fine roots; common fine tubular pores; few distinct clay films on faces of peds; moderately acid (pH 6.0); gradual smooth boundary.
 
-     Bt2--23 to 41 centimeters (9 to 16 inches); pale brown (10YR 6/3) sandy clay loam, brown (10YR 5/3) moist; moderate fine subangular blocky structure; slightly hard, friable, sticky and plastic; common fine and medium roots; common fine and medium tubular pores; few distinct clay films on faces of peds; moderately acid (pH 6.0); clear smooth boundary.  (Combined thickness Bt is 23 to 51 centimeters (9 to 20 inches) thick)
+     Bt2--26 to 44 centimeters (9 to 16 inches); pale brown (10YR 6/3) sandy clay loam, brown (10YR 5/3) moist; moderate fine subangular blocky structure; slightly hard, friable, sticky and plastic; common fine and medium roots; common fine and medium tubular pores; few distinct clay films on faces of peds; moderately acid (pH 6.0); clear smooth boundary.  (Combined thickness Bt is 23 to 51 centimeters (9 to 20 inches) thick)
 
-     Bk--41 to 152 centimeters (16 to 60 inches); light gray (10YR 7/2) loam, pale brown (10YR 6/3) moist; massive; soft, very friable, slightly sticky and slightly plastic; common fine, medium and coarse roots; strongly effervescent; calcium carbonate disseminated and as common soft masses and seams; moderately alkaline (pH 8.0).
+     Bk--44 to 155 centimeters (16 to 60 inches); light gray (10YR 7/2) loam, pale brown (10YR 6/3) moist; massive; soft, very friable, slightly sticky and slightly plastic; common fine, medium and coarse roots; strongly effervescent; calcium carbonate disseminated and as common soft masses and seams; moderately alkaline (pH 8.0).
 
 TYPE LOCATION:  Platte County, Wyoming; about 1.6 Kilometers (l mile) west and 10 Kilometers (6 miles) south of Glendo; approximately 366 meters (1,200 feet) south and 274 meters (900 feet) west of the northeast corner of Section 16, T. 28 N., R. 69 W.; Spring Creek Quadrangle. 42 degrees, 23 minutes, 12 seconds north latitude and 105 degrees, 07 minutes, 40 seconds west longitude.
 
@@ -95,13 +95,14 @@ The native vegetation is Ponderosa Pine with an understory of western wheatgrass
 
 DISTRIBUTION AND EXTENT: Wagonhound soils occur in southeastern Wyoming.  The soil is of moderate extent.
 
-MLRA SOIL SURVEY REGIONAL OFFICE (MO) RESPONSIBLE: Denver, Colorado
+SOIL SURVEY REGIONAL OFFICE (SSRO) RESPONSIBLE: Salina, Kansas
 
 SERIES ESTABLISHED: Platte County, Wyoming, 1994.
 
 REMARKS: Diagnostic horizons and features recognized in this pedon are:
-Ochric epipedon: 0 to 8 centimeters (0 to 3 inches) (A horizon)
-Argillic horizon: 8 to 38 centimeters (3 to 15 inches) (Bt horizon)
+Ochric epipedon: 6 to 13 centimeters (1 to 4 inches) (A horizon)
+Argillic horizon: 13 to 44 centimeters (4 to 16 inches) (Bt horizon)
+Depths were adjusted to account for the current standard of measuring O horizons. JCW 12/21.
 
 MLRR - G
 SIR - WY1349

@@ -2,7 +2,7 @@ LOCATION GATERIDGE              WY
 
 Established Series
 CJH/PSD
-08/2004
+12/2021
 
 GATERIDGE SERIES
 
@@ -12,13 +12,13 @@ TAXONOMIC CLASS: Loamy, mixed, superactive, frigid, shallow Aridic Haplustalfs
 
 TYPICAL PEDON:  Gateridge fine sandy loam--woodland.  (Colors are for dry soil unless otherwise stated)
 
-      Oi--3 inches to 0; slightly decomposed pine needles and other forest litter.
+      Oi--0  to 3 inches; slightly decomposed pine needles and other forest litter.
 
-      E--0 to 5 inches; very pale brown (10YR 7/3) fine sandy loam, brown (10YR 4/3) moist; weak thin platy structure; slightly hard, very friable, nonsticky and nonplastic; neutral (pH 6.8) clear smooth boundary.  (3 to 6 inches thick)
+      E--3 to 7 inches; very pale brown (10YR 7/3) fine sandy loam, brown (10YR 4/3) moist; weak thin platy structure; slightly hard, very friable, nonsticky and nonplastic; neutral (pH 6.8) clear smooth boundary.  (3 to 6 inches thick)
 
-      Bt--5 to 14 inches; brown (7.5YR 5/4) sandy clay loam, brown (7.5YR 4/4) moist; moderate medium angular blocky structure; very hard, friable, sticky and plastic; few distinct clay skins on faces of peds; neutral (pH 6.8); clear wavy boundary. (7 to 12 inches thick)
+      Bt--7 to 15 inches; brown (7.5YR 5/4) sandy clay loam, brown (7.5YR 4/4) moist; moderate medium angular blocky structure; very hard, friable, sticky and plastic; few distinct clay skins on faces of peds; neutral (pH 6.8); clear wavy boundary. (7 to 12 inches thick)
 
-      2C--14 to 19 inches; light red (2.5YR 6/6) clay, red (2.5YR 5/6) moist; massive; extremely hard, firm, very sticky and very plastic; neutral (pH 6.8). (0 to 6 inches thick)
+      2C--15 to 19 inches; light red (2.5YR 6/6) clay, red (2.5YR 5/6) moist; massive; extremely hard, firm, very sticky and very plastic; neutral (pH 6.8). (0 to 6 inches thick)
 
       3Cr--19 to 60 inches; soft, noncalcareous yellowish brown sandstone interbedded with soft, noncalcareous red shale.
 
@@ -46,9 +46,12 @@ USE AND VEGETATION:  These soils are used mainly for livestock grazing and wildl
 
 DISTRIBUTION AND EXTENT:  Central Wyoming.  The series is of small extent.
 
-MLRA SOIL SURVEY REGIONAL OFFICE (MO) RESPONSIBLE: Denver, Colorado
+SOIL SURVEY REGIONAL OFFICE (SSRO) RESPONSIBLE: Salina, Kansas
 
 SERIES ESTABLISHED:  Converse County, Wyoming; 1985.
+
+REMARKS:
+Depths were adjusted to account for the current standard of measuring O horizons. JCW 12/21.
 
 National Cooperative Soil Survey
 U.S.A.

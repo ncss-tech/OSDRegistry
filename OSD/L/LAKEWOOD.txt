@@ -6,13 +6,13 @@ CS/Rev. JAK
 
 LAKEWOOD SERIES
 
-Lakewood series consists of very deep, excessively drained, rapidly permable soils on marine terraces. They are formed in sandy marine sediments. Slope range from 0 to 25 percent. Mean annual air temperature is 56 degrees F and mean annual precipitation is about 44 inches. 
+Lakewood series consists of very deep, excessively drained, rapidly permeable soils on marine terraces. They are formed in sandy marine sediments. Slopes range from 0 to 25 percent. Mean annual air temperature is 56 degrees F near the type location and mean annual precipitation is about 44 inches. 
 
 TAXONOMIC CLASS: Mesic, coated Spodic Quartzipsamments
 
 TYPICAL PEDON:  Lakewood sand, forested. (Colors are for moist soil.)
 
-    Oi--0 to 1 inches; slightly decomposed plant material composed of loose pine needles, oak leaves, and twigs and in part mosses or lichens discontinuous but covering nearly 50 percent of the surface. (0 to 2 inches thick)
+    Oi--0 to 1 inch; slightly decomposed plant material composed of loose pine needles, oak leaves, and twigs and in part mosses or lichens discontinuous but covering nearly 50 percent of the surface. (0 to 2 inches thick)
 
     A--1 to 2 inches; black (10YR 2/1) sand; single grain; loose; common medium roots; extremely acid; clear broken boundary. (0 to 4 inches thick)     
 
@@ -43,15 +43,15 @@ The C horizon has hue of 10YR to 2.5Y, value of 5 to 7, chroma of 4 through 8. T
 
 COMPETING SERIES: There are no competing series. 
 
-GEOGRAPHIC SETTING: Lakewood soils are on marine terraces. Slopes ranged from 0 to 25 percent. The soils are formed in sandy marine sediments. Mean annual precipitation ranges from 40 to 48 inches. Mean annual air temperature ranges from 47 to 56 degrees F. 
+GEOGRAPHIC SETTING: Lakewood soils are on marine terraces. Slopes ranged from 0 to 25 percent. The soils are formed in sandy marine sediments. Mean annual precipitation ranges from 40 to 48 inches. Mean annual air temperature ranges from 47 to 56 degrees F. Frost Free Period ranges from 175 to 210 days.
 
-GEOGRAPHICALLY ASSOCIATED SOILS: These are Atsion, Berryland, Downer, Evesboro, Klej, Lakehurst, Pittsgrove and Woodmansie.  Atsion and Berryland soils are poorly drained spodosols, on lower-lying positions. Downer soils are well drained, have a coarse-loamy particle-size control section, on similar landforms. Evesboro soils do not have thin Bh horizons, on similar landforms. Klej soils are somewhat poorly drained and a seasonal high water table at 12 to 24 inches, on lower-lying positions. Lakehurst soils are moderately well drained and have a seasonal high water table at 18 to 42 inches. on lower-lying positions. Pittsgrove soils are well drained, have an argillic and weakly expressed fragipan horizon, on similar landforms. Woodmansie soils are well drained and have a coarse-loamy particle-size control section, on adjacent ridges
+GEOGRAPHICALLY ASSOCIATED SOILS: These are Atsion, Berryland, Downer, Evesboro, Klej, Lakehurst, Pittsgrove and Woodmansie.  Atsion and Berryland soils are poorly drained spodosols, on lower-lying positions. Downer soils are well drained, have a coarse-loamy particle-size control section, on similar landforms. Evesboro soils do not have thin Bh horizons, on similar landforms. Klej soils are somewhat poorly drained and a seasonal high water table at 12 to 24 inches, on lower-lying positions. Lakehurst soils are moderately well drained and have a seasonal high water table at 18 to 42 inches on lower-lying positions. Pittsgrove soils are well drained, have an argillic and weakly expressed fragipan horizon, on similar landforms. Woodmansie soils are well drained and have a coarse-loamy particle-size control section, on adjacent ridges.
 
-DRAINAGE AND PERMEABILITY: Excessively drained. Permeability is rapid. Surface runoff is slow to rapid. Surface runoff is slow to rapid. 
+DRAINAGE AND PERMEABILITY: Excessively drained. Permeability is rapid. Surface runoff is slow to rapid. 
 
 USE AND VEGETATION: Lakewood soils are mostly in woodland. Woodland consists of pitch pine, black oak, and white oak. Where wildfires have been severe the trees are dwarfed, growing less than 5 feet tall and consist primarily of pitch pine, scrub oak, and blackjack oak.
 
-DISTRIBUTION AND EXTENT: New Jersey and possibly Maryland. MLRA include 144A, 149A, 153C, 153D. The series is of large extent. 
+DISTRIBUTION AND EXTENT: New Jersey and possibly Maryland. MLRAs include 144A, 149A, 153C, 153D. The series is of large extent. 
 
 SOIL SURVEY REGIONAL OFFICE (SSRO) RESPONSIBLE: Morgantown, West Virginia
 
@@ -60,10 +60,10 @@ SERIES ESTABLISHED:  Freehold area of New Jersey, 1913
 REMARKS: Laboratory studies indicate Lakewood soils do not meet the requirements for spodic materials.
 
 Diagnostic horizons and other diagnostic soil characteristics recognized in this pedon are:
-Ochric epipedon--the zone from the soil surface to a depth of 10 inches (A horizon)
-Cambic horizon--the zone from a depth of 10 to 36 inches (Bh and BC horizons)
+Ochric epipedon--the zone from the soil surface to a depth of 11 inches (Oi, A, and E horizons)
+Cambic horizon--the zone from a depth of 11 to 37 inches (Bh and BC horizons)
 
-12/2021.  Oi had 1 to 0 inch depths, corrected to be 0 to 1 in horizon depths then added 1 inch to all horizon depths throughout the typical pedon. Format also updated to narrative to allow for validations.
+12/2021.  Oi had 1 to 0 inch depths, revised to be 0 to 1 inch horizon depths then added 1 inch to all horizon depths throughout the typical pedon. Format also updated to narrative to allow for validations.
 
 SERIES INTERPRETATION RECORDS(s): NJ0010
 

@@ -2,7 +2,7 @@ LOCATION PARKER                 NJ+VA
 
 Established Series
 CFE-JHW; Rev. RJE-DHK
-05/2006
+12/2021
 
 PARKER SERIES
 
@@ -12,8 +12,6 @@ The Parker series consists of very deep, somewhat excessively drained soils that
 TAXONOMIC CLASS: Loamy-skeletal, mixed, semiactive, mesic Typic Dystrudepts 
 
 TYPICAL PEDON: Parker very gravelly sandy loam, on a 24 percent slope, wooded. (Colors are for moist soil.)
-
-	O--3 to 0 inches; undecomposed tree leaves and twigs from oak, yellow poplar and ash. (0 to 8 inches thick)
 
 	Oe--0 to 7 inches; black (10YR 2/1) partially decomposed organic matter in spaces between angular stones, gravel and cobbles; strongly acid. (0 to 7 inches thick)
 
@@ -26,7 +24,7 @@ TYPICAL PEDON: Parker very gravelly sandy loam, on a 24 percent slope, wooded. (
 	C--38 to 72 inches; yellowish brown (10YR 5/4) extremely gravelly sandy loam; weak coarse granular structure; very friable; few fine roots; 60 percent angular stones, cobbles and gravel, mostly hard and unweathered; very strongly acid.
 
 TYPE LOCATION: Morris Township, Morris County, New Jersey; 870 feet north of Hanover Avenue across the road from junction with Raynor Road; USGS Mendham, NJ topographic quadrangle; approximate coordinates lat. 40 degrees 50 minutes 06 seconds N and 74 degrees 31 minutes 24 seconds W, NAD83.
-	
+
 RANGE IN CHARACTERISTICS: Solum thickness ranges from 20 to 40 inches. Depth to solid bedrock ranges from 5 to 10 feet or more. Rock fragments range from 35 to 70 percent by volume through the solum and 60 to 90 percent in the C horizon. Rock fragment sizes commonly range from gravel through stones but individual pedons are dominated by either gravel, cobbles or stone fragments. Rock fragments on the soil surface range to extremely stony. The silt and sand fractions are dominated by quartz, feldspar and various ferro-magnesium minerals derived from granitic gneiss or similar rocks. The soil usually contains very small amounts of mica. The fine-earth fraction of the control section typically has 10 to 18 percent clay. Texture of the fine-earth fraction throughout the solum and substratum is loam or sandy loam. Some pedons have a few faint clay films on faces of peds and in voids and bridging between sand grains. The soil is very strongly acid or strongly acid unless limed.
 
 The A horizon has hue of 10YR or 7.5YR, value of 3 or 4, and chroma of 1 through 4. It commonly has moderate or strong, medium or coarse granular structure.
@@ -56,8 +54,8 @@ SERIES ESTABLISHED: Upper Raritan River area, New Jersey, 1938.
 REMARKS: The 11/2005 revision places Parker in a semiactive CEC activity class. This placement is based on the similar Gladstone series which has laboratory data for three pedons, all within the semiactive class.
 
 Diagnostic horizons recognize in this pedon are:
-a. Ochric epipedon, the portion from 3 inches above the soil surface to 12 inches below the soil surface. (Oi, Oe, and A horizons)
-b. Cambic horizon, the part from 12 to 38 inches. (Bw1 and Bw2 horizons)
+a. Ochric epipedon--0 to 12 inches (Oe and A horizons)
+b. Cambic horizon--12 to 38 inches. (Bw1 and Bw2 horizons)
 
 ADDITIONAL DATA: CEC class placement based on lab data from the related Gladstone series. Three Gladstone pedons from Hunterdon and Warren Counties have semiactive activity class. 
 
