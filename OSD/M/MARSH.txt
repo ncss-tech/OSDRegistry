@@ -2,7 +2,7 @@ LOCATION MARSH                  TN+KY
 
 Established Series
 REV - CLD,JCJ
-04/2001
+12/2021
 
 MARSH SERIES
 
@@ -12,17 +12,17 @@ TAXONOMIC CLASS: Fine-loamy, mixed, semiactive, thermic Ultic Hapludalfs
 
 TYPICAL PEDON:  Marsh silt loam on a south facing, convex, 20 percent slope under hardwoods at an elevation of 740 feet.  (Colors are for moist soil unless otherwise noted.)
 
-Oi -- 1 to 0 inches; fibric material; slightly decomposed leaves, twigs, and woody materials.  (0 to 2 inches thick)
+ Oi -- 0 to 1 inch; fibric material; slightly decomposed leaves, twigs, and woody materials.  (0 to 2 inches thick)
 
-A -- 0 to 3 inches; dark brown (10YR 3/3) loam; weak fine and medium granular structure; very friable; common fine roots; approximately 2 percent channers of sandy limestone; slightly acid; clear wavy boundary (2 to 7 inches thick).
+ A -- 1 to 4 inches; dark brown (10YR 3/3) loam; weak fine and medium granular structure; very friable; common fine roots; approximately 2 percent channers of sandy limestone; slightly acid; clear wavy boundary (2 to 7 inches thick).
 
-BE -- 3 to 11 inches; yellowish brown (10YR 5/4) loam; weak medium subangular blocky structure; friable; common fine and medium roots; approximately 10 percent channers of sandy limestone; strongly acid; clear wavy boundary.
+ BE -- 4 to 12 inches; yellowish brown (10YR 5/4) loam; weak medium subangular blocky structure; friable; common fine and medium roots; approximately 10 percent channers of sandy limestone; strongly acid; clear wavy boundary.
 
-Bt -- 11 to 19 inches; yellowish brown (10YR 5/6) loam; weak medium subangular blocky structure; friable; common fine and few medium and coarse roots; few faint yellowish brown (10YR 5/4) clay films on faces of peds; approximately 10 percent channers of sandy limestone and siltstone; very strongly acid; clear wavy boundary.  (8 to 30 inches thick)
+ Bt -- 12 to 20 inches; yellowish brown (10YR 5/6) loam; weak medium subangular blocky structure; friable; common fine and few medium and coarse roots; few faint yellowish brown (10YR 5/4) clay films on faces of peds; approximately 10 percent channers of sandy limestone and siltstone; very strongly acid; clear wavy boundary.  (8 to 30 inches thick)
 
-CB -- 19 to 23 inches; yellowish brown (10YR 5/6) very channery loam; weak medium subangular blocky structure; friable; few fine roots; approximately 55 percent channers of sandy limestone and siltstone; strongly acid; abrupt wavy boundary. (5 to 9 inches thick)
+ CB -- 20 to 24 inches; yellowish brown (10YR 5/6) very channery loam; weak medium subangular blocky structure; friable; few fine roots; approximately 55 percent channers of sandy limestone and siltstone; strongly acid; abrupt wavy boundary. (5 to 9 inches thick)
 
-Cr -- 23 to 35 inches; highly weathered, interbedded siltstone and sandy limestone with thin strata of clayey soil material.
+ Cr -- 24 to 36 inches; highly weathered, interbedded siltstone and sandy limestone with thin strata of clayey soil material.
 
 TYPE LOCATION: Marshall County, Tennessee; 0.8 miles north of the community of Mooresville on Fitzpatrick Road; 1000 feet northwest on a hillside.
 
@@ -54,11 +54,13 @@ SERIES ESTABLISHED:  Marshall County, Tennessee, 1996.
 
 REMARKS: Diagnostic horizons and features recognized in this pedon are:
 
-Argillic horizon - 11 to 19 inches (Bt horizon)
+Argillic horizon - 12 to 20 inches (Bt horizon)
 
-Ochric epipedon - 0 to 11 inches (A and BE horizons)
+Ochric epipedon - 0 to 12inches (A and BE horizons)
 
-Paralithic contact - at 23 inches (top of Cr horizon)
+Paralithic contact - at 24 inches (top of Cr horizon)
+
+12/2021 revision: Oi had 1 to 0 inch depths, corrected to be 0 to 1 in horizon depths then added 1 inch to all horizon depths throughout the typical pedon. WJN
 
 This soil was previously mapped as the Culleoka series, which is now mesic.
 

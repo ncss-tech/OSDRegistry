@@ -2,7 +2,7 @@ LOCATION TUCKASEGEE             NC+GA VA
 
 Established Series
 DJT-AG-HCD; Rev. BPS
-02/2011
+12/2021
 
 TUCKASEGEE SERIES
 
@@ -12,17 +12,17 @@ TAXONOMIC CLASS: Fine-loamy, isotic, mesic Typic Humudepts
 
 TYPICAL PEDON:  Tuckasegee fine sandy loam on a 30 percent southeast facing foot slope at an elevation of 3320 feet -- Forested.  (Colors are for moist soil unless otherwise stated.)
 
-    Oi--2 to 0 inches; partially decomposed deciduous leaves, twigs and roots.
+    Oi--0 to 2 inches; partially decomposed deciduous leaves, twigs and roots.
 
-    A1--0 to 9 inches; black (10YR 2/1) fine sandy loam; dark brown (10YR 3/3) dry; moderate fine and medium granular structure; very friable; many fine, common medium, and few coarse roots; 5 percent gravel by volume; few fine flakes of mica; strongly acid; clear smooth boundary.
+    A1--2 to 11 inches; black (10YR 2/1) fine sandy loam; dark brown (10YR 3/3) dry; moderate fine and medium granular structure; very friable; many fine, common medium, and few coarse roots; 5 percent gravel by volume; few fine flakes of mica; strongly acid; clear smooth boundary.
 
-    A2--9 to 13 inches; dark brown (7.5YR 3/2) fine sandy loam; brown (7.5YR 4/2) dry; moderate coarse granular and weak fine and medium granular structure; very friable; common fine to coarse roots; 5 percent gravel by volume; few fine flakes of mica; very strongly acid; gradual wavy boundary.  (Combined thickness of the A horizon is 10 to 20 inches.)
+    A2--11 to 15 inches; dark brown (7.5YR 3/2) fine sandy loam; brown (7.5YR 4/2) dry; moderate coarse granular and weak fine and medium granular structure; very friable; common fine to coarse roots; 5 percent gravel by volume; few fine flakes of mica; very strongly acid; gradual wavy boundary.  (Combined thickness of the A horizon is 10 to 20 inches.)
 
-    Bw1--13 to 26 inches; dark brown (7.5YR 3/4) fine sandy loam; weak medium subangular blocky structure; friable; common medium to coarse roots; 5 percent gravel, 5 percent cobbles by volume; few fine flakes of mica; strongly acid; gradual wavy boundary.
+    Bw1--15 to 28 inches; dark brown (7.5YR 3/4) fine sandy loam; weak medium subangular blocky structure; friable; common medium to coarse roots; 5 percent gravel, 5 percent cobbles by volume; few fine flakes of mica; strongly acid; gradual wavy boundary.
 
-    Bw2--26 to 47 inches; brown (7.5YR 4/4) stony sandy clay loam; weak medium subangular blocky structure; friable; few medium to coarse roots; 5 percent gravel, 5 percent cobbles, 15 percent stones by volume; few fine flakes of mica; strongly acid; gradual wavy boundary.  (Combined thickness of the Bw horizons is 30 to 51 inches.)
+    Bw2--28 to 49 inches; brown (7.5YR 4/4) stony sandy clay loam; weak medium subangular blocky structure; friable; few medium to coarse roots; 5 percent gravel, 5 percent cobbles, 15 percent stones by volume; few fine flakes of mica; strongly acid; gradual wavy boundary.  (Combined thickness of the Bw horizons is 30 to 51 inches.)
 
-    BC--47 to 65 inches; strong brown (7.5YR 4/6) very stony  sandy clay loam; weak medium subangular blocky structure; friable; few medium roots; 10 percent gravel, 15 percent cobbles, 30 percent stones by volume; few fine flakes of mica; strongly acid.
+    BC--49 to 67 inches; strong brown (7.5YR 4/6) very stony  sandy clay loam; weak medium subangular blocky structure; friable; few medium roots; 10 percent gravel, 15 percent cobbles, 30 percent stones by volume; few fine flakes of mica; strongly acid.
 
 TYPE LOCATION:  Macon County, North Carolina; 3.0 miles west of Coweeta Hydrologic Station Office on Shope Creek road; 150 feet upslope from hairpin curve; in the woods, 400 feet east of weir on Watershed No. 36.
 
@@ -58,11 +58,13 @@ REMARKS:  This series was previously included with the Tusquitee series.  Howeve
 
 Diagnostic horizons and features in this pedon are:
 
-Umbric epipedon - 0 to 13 inches (A1 and A2 horizons)
+Umbric epipedon - 2 to 15 inches (A1 and A2 horizons)
 
-Cambic horizon - 13 to 47 inches (Bw1, Bw2, Bw3 horizons)
+Cambic horizon - 15 to 49 inches (Bw1, Bw2, Bw3 horizons)
 
 02/11-BPS: Taxonomic Classification -- 11th Keys, update competing and associated series, MLRA clarification
+
+12/2021 revision: Oi had 2 to 0 inch depths, corrected to be 0 to 2 in horizon depths then added 2 inch to all horizon depths throughout the typical pedon. WJN
 
 National Cooperative Soil Survey
 U.S.A.

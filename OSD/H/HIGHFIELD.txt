@@ -2,7 +2,7 @@ LOCATION HIGHFIELD              PA+MD
 
 Established Series
 Rev. GDM-EAW
-01/2006
+12/2021
 
 HIGHFIELD SERIES
 
@@ -12,19 +12,19 @@ TAXONOMIC CLASS: Coarse-loamy, mixed, active, mesic Ultic Hapludalfs
 
 TYPICAL PEDON:  Highfield channery silt loam - woodland.  (Colors are for moist soil unless otherwise noted.)
 
-    Oi--1 to 0 inches; mat of leaves in various stages of decomposition.
+    Oi--0 to 1 inches; mat of leaves in various stages of decomposition.
 
-    A--0 to 3 inches; very dark grayish brown (10YR 3/2) channery silt loam; weak fine granular structure; very friable, nonsticky, nonplastic; 15 percent rock fragments; strongly acid; abrupt wavy boundary.  (1 to 5 inches thick)
+    A--1 to 4 inches; very dark grayish brown (10YR 3/2) channery silt loam; weak fine granular structure; very friable, nonsticky, nonplastic; 15 percent rock fragments; strongly acid; abrupt wavy boundary.  (1 to 5 inches thick)
 
-    E--3 to 10 inches; pale brown (10YR 6/3) channery silt loam; weak fine granular structure; very friable, nonsticky, nonplastic; 20 percent rock fragments; strongly acid; clear wavy boundary.  (3 to 8 inches thick)
+    E--4 to 11 inches; pale brown (10YR 6/3) channery silt loam; weak fine granular structure; very friable, nonsticky, nonplastic; 20 percent rock fragments; strongly acid; clear wavy boundary.  (3 to 8 inches thick)
 
-    Bt1--10 to 20 inches; light yellowish brown (10YR 6/4) channery silt loam; weak medium subangular blocky structure; friable, nonsticky, slightly plastic; few faint clay films on faces of ped; 30 percent rock fragments; strongly acid; clear wavy boundary.  (5 to 15 inches thick)
+    Bt1--11 to 21 inches; light yellowish brown (10YR 6/4) channery silt loam; weak medium subangular blocky structure; friable, nonsticky, slightly plastic; few faint clay films on faces of ped; 30 percent rock fragments; strongly acid; clear wavy boundary.  (5 to 15 inches thick)
 
-    Bt2--20 to 34 inches; yellowish brown (10YR 5/6) channery silt loam; weak medium subangular blocky structure; friable, slightly sticky, slightly plastic; few faint clay films on faces of peds and in pores; 30 percent rock fragments; strongly acid; clear wavy boundary.  (8 to 20 inches thick)
+    Bt2--21 to 35 inches; yellowish brown (10YR 5/6) channery silt loam; weak medium subangular blocky structure; friable, slightly sticky, slightly plastic; few faint clay films on faces of peds and in pores; 30 percent rock fragments; strongly acid; clear wavy boundary.  (8 to 20 inches thick)
 
-    C--34 to 60 inches; yellowish brown (10YR 5/4) extremely channery silt loam; thin streaks of light gray (2.5Y 6/1) and strong brown (7.5YR 5/6) in lower part; weak fine subangular blocky structure grading to massive; friable, nonsticky, nonplastic; 60 percent rock fragments; strongly acid; clear wavy boundary.  (15 to 32 inches thick)
+    C--35 to 61 inches; yellowish brown (10YR 5/4) extremely channery silt loam; thin streaks of light gray (2.5Y 6/1) and strong brown (7.5YR 5/6) in lower part; weak fine subangular blocky structure grading to massive; friable, nonsticky, nonplastic; 60 percent rock fragments; strongly acid; clear wavy boundary.  (15 to 32 inches thick)
 
-    R--60 inches; light reddish brown (2.5YR 6/4) rhyolite and schist bedrock.
+    R--61 inches; light reddish brown (2.5YR 6/4) rhyolite and schist bedrock.
 
 TYPE LOCATION:  Cumberland County, Pennsylvania; South Middleton Township, Old Town Run Gun Club; 2.5 miles south of Mt. Holly Springs on PA Route 94 and 0.5 mile east.
 
@@ -56,11 +56,13 @@ SERIES ESTABLISHED:  Washington County, Maryland, 1938.
 
 REMARKS:  Diagnostic horizons and other features recognized in this pedon are:
 
-a.  Ochric epipedon - the zone from the surface of the soil to a depth of about 3 inches (A horizon).
+a.  Ochric epipedon - the zone from the surface of the soil to a depth of about 4 inches (A horizon).
 
-b.  Albic horizon - the zone from 3 to 10 inches (E horizon).
+b.  Albic horizon - the zone from 4 to 11 inches (E horizon).
 
-c.  Argillic horizon - the zone from 10 to 34 inches (Bt horizon).
+c.  Argillic horizon - the zone from 11 to 35 inches (Bt horizon).
+
+11/2021 revision: Oi had 1 to 0 inch depths, corrected to be 0 to 1 in horizon depths then added 1 inch to all horizon depths throughout the typical pedon.
 
 National Cooperative Soil Survey
 U.S.A.

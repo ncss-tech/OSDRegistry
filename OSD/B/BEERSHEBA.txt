@@ -2,7 +2,7 @@ LOCATION BEERSHEBA              TN
 
 Established Series
 Rev. JLP:RPS
-10/2005
+12/2021
 
 BEERSHEBA SERIES
 
@@ -12,20 +12,19 @@ TAXONOMIC CLASS: Fine-loamy, siliceous, semiactive, mesic Typic Hapludults
 
 TYPICAL PEDON:  Beersheba loam, 3 percent slopes, forested (colors are for moist soils unless otherwise stated)
 
+    Oi--0 to 1 inch; partially decomposed leaves.
 
-    Oi--1 to 0 inch; partially decomposed leaves.
+    A--1 to 2 inch; dark brown (10YR 3/3) very fine sandy loam; moderate medium granular structure; very friable; many fine and medium roots; many very fine and fine pores; extremely acid; abrupt smooth boundary.  (1 to 4 inches thick)
 
-    A--0 to 1 inch; dark brown (10YR 3/3) very fine sandy loam; moderate medium granular structure; very friable; many fine and medium roots; many very fine and fine pores; extremely acid; abrupt smooth boundary.  (1 to 4 inches thick)
+    E--2 to 6 inches; brown (10YR 5/3) very fine sandy loam; moderate medium granular and weak fine subangular blocky structure; very friable; many fine and medium roots; many very fine and common fine and medium pores; about 2 percent fragments of soft sandstone up to 2 inches across; very strongly acid; clear smooth boundary.  (2 to 8 inches thick)
 
-    E--1 to 5 inches; brown (10YR 5/3) very fine sandy loam; moderate medium granular and weak fine subangular blocky structure; very friable; many fine and medium roots; many very fine and common fine and medium pores; about 2 percent fragments of soft sandstone up to 2 inches across; very strongly acid; clear smooth boundary.  (2 to 8 inches thick)
+    Bt1--6 to 15 inches; yellowish brown (10YR 5/6) loam; weak medium subangular blocky structure; friable; common fine and medium roots; many very fine, common fine and medium pores; few faint clay films in pores; about 5 percent fragments of soft sandstone up to 3 inches across; very strongly acid; gradual smooth boundary.
 
-    Bt1--5 to 14 inches; yellowish brown (10YR 5/6) loam; weak medium subangular blocky structure; friable; common fine and medium roots; many very fine, common fine and medium pores; few faint clay films in pores; about 5 percent fragments of soft sandstone up to 3 inches across; very strongly acid; gradual smooth boundary.
+    Bt2--15 to 27 inches; yellowish brown (10YR 5/8) sandy clay loam; moderate medium subangular blocky structure; friable; few fine roots; common very fine and fine pores; few distinct clay films on faces of peds and in pores; about 5 percent fragments of soft sandstone up to 3 inches across; very strongly acid; gradual smooth boundary.
 
-    Bt2--14 to 26 inches; yellowish brown (10YR 5/8) sandy clay loam; moderate medium subangular blocky structure; friable; few fine roots; common very fine and fine pores; few distinct clay films on faces of peds and in pores; about 5 percent fragments of soft sandstone up to 3 inches across; very strongly acid; gradual smooth boundary.
+    Bt3--27 to 37 inches; yellowish brown (10YR 5/8) sandy clay loam interspersed with small spots of brownish yellow (10YR 6/8) sandy loam; weak medium subangular blocky structure; friable; common very fine and fine pores; few faint clay films on faces of peds and in pores; about 10 percent fragments of soft sandstone; very strongly acid.  (Combined thickness of the Bt horizon is 15 to 35 inches)
 
-    Bt3--26 to 36 inches; yellowish brown (10YR 5/8) sandy clay loam interspersed with small spots of brownish yellow (10YR 6/8) sandy loam; weak medium subangular blocky structure; friable; common very fine and fine pores; few faint clay films on faces of peds and in pores; about 10 percent fragments of soft sandstone; very strongly acid.  (Combined thickness of the Bt horizon is 15 to 35 inches)
-
-    Cr--36 to 50 inches; brownish yellow (10YR 6/8) and yellow  (10YR 8/6) soft weathered sandstone.
+    Cr--37 to 51 inches; brownish yellow (10YR 6/8) and yellow  (10YR 8/6) soft weathered sandstone.
 
 TYPE LOCATION:  Grundy County, Tennessee; 0.3 mile north on 55th Avenue from the intersection with State Highway 108 at Gruetli-Laager, 0.4 mile west on Colony Road, 0.6 mile north on Nolan Road, 30 feet east of road.
 
@@ -56,8 +55,10 @@ MLRA SOIL SURVEY REGIONAL OFFICE (MO) RESPONSIBLE: Morgantown, West Virginia
 SERIES ESTABLISHED:  Grundy County, Tennessee; 1990.
 
 REMARKS:  Diagnostic horizons recognized in this pedon are:
-Ochric epipedon - 0 to 5 inches (A and E horizons)
-Argillic horizon - 5 to 36 inches (Bt1 TO Bt3 horizons)
+Ochric epipedon - 1 to 6 inches (A and E horizons)
+Argillic horizon - 6 to 37 inches (Bt1 to Bt3 horizons)
+
+12/2021 revision: Oi had 1 to 0 inch depths, corrected to be 0 to 1 in horizon depths then added 1 inch to all horizon depths throughout the typical pedon.
 
 This soil has been included in the Lily and Hartsells series in Tennessee.
 
