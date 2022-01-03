@@ -2,7 +2,7 @@ LOCATION REDSTONE               NH
 
 Established Series
 Rev. HRM-SALP
-12/86
+12/2021
 
 REDSTONE SERIES
 
@@ -12,21 +12,21 @@ TAXONOMIC CLASS: Fragmental, mixed, frigid Typic Haplorthods
 
 TYPICAL PEDON:  Redstone fine sandy loam - forested, very stony.  (Colors are for moist soil.)
 
-    0e--2 to 0 inches; partially decomposed forest litter.
+ Oe--0 to 2 inches; partially decomposed forest litter.
 
-    E--0 to 3 inches; gray (10YR 6/1) fine sandy loam; weak fine granular structure; friable; few roots; 10 percent gravel up to 1 inch in size; strongly acid; abrupt broken boundary.  (0 to 5 inches thick)
+ E--2 to 5 inches; gray (10YR 6/1) fine sandy loam; weak fine granular structure; friable; few roots; 10 percent gravel up to 1 inch in size; strongly acid; abrupt broken boundary.  (0 to 5 inches thick)
 
-    Bh--3 to 5 inches; very dusky red (2.5YR 2/2) fine sandy loam; moderate medium granular structure; friable; few roots; 10 percent gravel up to 1 inch in size; strongly acid; abrupt broken boundary.  (0 to 4 inches thick)
+ Bh--5 to 7 inches; very dusky red (2.5YR 2/2) fine sandy loam; moderate medium granular structure; friable; few roots; 10 percent gravel up to 1 inch in size; strongly acid; abrupt broken boundary.  (0 to 4 inches thick)
 
-    Bs1--5 to 8 inches; dark red (2.5YR 3/6) gravelly fine sandy loam; moderate fine granular structure; friable; few roots; 20 percent weakly cemented (orstein); 20 percent gravel up to 1 inch in size; strongly acid; abrupt smooth boundary.
+ Bs1--7 to 10 inches; dark red (2.5YR 3/6) gravelly fine sandy loam; moderate fine granular structure; friable; few roots; 20 percent weakly cemented (orstein); 20 percent gravel up to 1 inch in size; strongly acid; abrupt smooth boundary.
 
-    Bs2--8 to 12 inches; dark brown (7.5YR 4/4) very gravelly fine sandy loam; weak fine granular structure; friable; few roots; 45 percent gravel up to 1 inch in size; strongly acid; abrupt smooth boundary.  (Combined thickness of the Bs horizon is 5 to 15 inches.)
+ Bs2--10 to 14 inches; dark brown (7.5YR 4/4) very gravelly fine sandy loam; weak fine granular structure; friable; few roots; 45 percent gravel up to 1 inch in size; strongly acid; abrupt smooth boundary.  (Combined thickness of the Bs horizon is 5 to 15 inches.)
 
-    BC--12 to 17 inches; yellowish brown (10YR 5/4) gravelly loamy sand; weak fine granular structure; friable; few roots; 25 percent gravel up to 1 inch in size; strongly acid; abrupt smooth boundary.  (0 to 6 inches thick)
+ BC--14 to 19 inches; yellowish brown (10YR 5/4) gravelly loamy sand; weak fine granular structure; friable; few roots; 25 percent gravel up to 1 inch in size; strongly acid; abrupt smooth boundary.  (0 to 6 inches thick)
 
-    C--17 to 65 inches; variegated dark brown (10YR 3/3) and dark yellowish brown (10YR 4/4) gravel; single grain; loose; 70 percent gravel up to 1 inch in size; strongly acid.
+ C--19 to 67 inches; variegated dark brown (10YR 3/3) and dark yellowish brown (10YR 4/4) gravel; single grain; loose; 70 percent gravel up to 1 inch in size; strongly acid.
 
-TYPE LOCATION:  Carroll County, New Hampshire; Town of Conway.  Hurricane Mountain Road, 220 feet west and 100 feet south of parking area at the height of land on Conway State Forest.  USGS North Conway, NH-ME; 15 minutes  Quadrangle; 44 degrees 4 minutes 12 seconds N and 71 degrees 4 minutes 14 seconds W.
+TYPE LOCATION:  Carroll County, New Hampshire; Town of Conway.  Hurricane Mountain Road, 220 feet west and 100 feet south of parking area at the height of land on Conway State Forest.  USGS North Conway, NH-ME; 15 minutes Quadrangle; 44 degrees 4 minutes 12 seconds N and 71 degrees 4 minutes 14 seconds W.
 
 RANGE IN CHARACTERISTICS:  Thickness of the solum and the depth to fragmental material ranges from 11 to 25 inches; rock fragments range from 0 to 50 percent in the solum.  Rock fragments and very coarse sand range from 60 to 90 percent in the underlying fragmental material.  Reaction ranges from extremely acid through moderately acid throughout the soil.
 
@@ -61,10 +61,8 @@ SERIES ESTABLISHED:  Carroll County, New Hampshire, 1974.
 REMARKS:  The Redstone soils are not considered to be prime farmland.
 
 Diagnostic horizons and features recognized in this pedon are:
-1.  Albic horizon - the zone from 0 to 3 inches (E horizon).
-2.  Spodic horizon - the zone from 5 to 12 inches (Bs horizon).  The Bh horizon does not meet the depth criteria for a spodic horizon.
+1.  Albic horizon - the zone from 0 to 5 inches (Oe and E horizons).
+2.  Spodic horizon - the zone from 7 to 14 inches (Bs horizon).  The Bh horizon does not meet the depth criteria for a spodic horizon.
 
 National Cooperative Soil Survey
 U.S.A.
-
-

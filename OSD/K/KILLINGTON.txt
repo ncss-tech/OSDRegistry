@@ -2,7 +2,7 @@ LOCATION KILLINGTON             VT
 
 Established Series
 GWH,RFL
-03/2006
+12/2021
 
 KILLINGTON SERIES
 
@@ -12,17 +12,17 @@ TAXONOMIC CLASS: Loamy-skeletal, isotic, frigid Lithic Haplorthods
 
 TYPICAL PEDON:  Killington very cobbly loam, on a west-facing slope of 35 percent, in a very rocky wooded area.   (Colors are for moist soil.)
 
-    Oi--2 to 1 inches; slightly decomposed leaves and twigs.
+ Oi--0 to 1 inch; slightly decomposed leaves and twigs.
 
-    Oe--1 to 0 inches; moderately decomposed organic matter.  (Combined thickness of the O horizon is 0 to 6 inches.)
+ Oe--1 to 2 inches; moderately decomposed organic matter.  (Combined thickness of the O horizon is 0 to 6 inches.)
 
-    A--0 to 1 inches; black (5YR 2/1) very cobbly loam; weak fine granular structure; friable; many roots; 20 percent gravel, 20 percent cobbles and 15 percent stones; extremely acid; abrupt wavy boundary.  (0 to 4 inches thick)
+ A--2 to 3 inches; black (5YR 2/1) very cobbly loam; weak fine granular structure; friable; many roots; 20 percent gravel, 20 percent cobbles and 15 percent stones; extremely acid; abrupt wavy boundary.  (0 to 4 inches thick)
 
-    Bhs1--1 to 6 inches; dark reddish brown (5YR 3/3) very cobbly loam; weak medium granular structure; friable; many roots; 15 percent gravel, 20 percent cobbles and 15 percent stones; extremely acid; moderately smeary; clear wavy boundary.
+ Bhs1--3 to 8 inches; dark reddish brown (5YR 3/3) very cobbly loam; weak medium granular structure; friable; many roots; 15 percent gravel, 20 percent cobbles and 15 percent stones; extremely acid; moderately smeary; clear wavy boundary.
 
-    Bhs2--6 to 17 inches; reddish brown (5YR 4/3) very stony loam; weak medium subangular blocky structure; friable; many roots; 15 percent gravel, 15 percent cobbles and 20 percent stones; extremely acid; moderately smeary; abrupt irregular boundary.  (Combined thickness of the Bhs, Bh and Bs horizon is 8 to 18 inches.)
+ Bhs2--8 to 19 inches; reddish brown (5YR 4/3) very stony loam; weak medium subangular blocky structure; friable; many roots; 15 percent gravel, 15 percent cobbles and 20 percent stones; extremely acid; moderately smeary; abrupt irregular boundary.  (Combined thickness of the Bhs, Bh and Bs horizon is 8 to 18 inches.)
 
-    R--17 inches; schist bedrock.
+ R--19 inches; schist bedrock.
 
 TYPE LOCATION:  Rutland County, Vermont; Town of Mendon, 1.5 miles north of Shrewsbury town line and 1 mile west of Mendon Peak.
 
@@ -62,9 +62,9 @@ REMARKS:  1. The classification is updated from Loamy-skeletal, mixed, frigid Li
 
 3. The diagnostic horizons and features recognized in this pedon are:
 
-a.  Ochric epipedon - the zone from 0 to 1 inch (A horizon).
-b.  Spodic horizon - the zone from 1 to 17 inches (Bhs horizon: due to lack of Albic horizon, Bhs is assumed to meet criteria for spodic materials).
-c.  Lithic feature - bedrock at 17 inches from the soil surface.
+a.  Ochric epipedon - the zone from 0 to 3 inch (Oi, Oe, and A horizon).
+b.  Spodic horizon - the zone from 3 to 19 inches (Bhs horizon: due to lack of Albic horizon, Bhs is assumed to meet criteria for spodic materials).
+c.  Lithic feature - bedrock at 19 inches from the soil surface.
 d.  Particle size control section from 10 inches to the lithic
     contact is loamy-skeletal.
 
