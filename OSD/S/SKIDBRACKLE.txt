@@ -1,12 +1,12 @@
 LOCATION SKIDBRACKLE            CA OR
 
 Established Series
-JBF/EWB/TM
-08/2006
+JBF/EWB/TM/CEG
+01/2022
 
 SKIDBRACKLE SERIES
 
-The Skidbrackle series consists of shallow, well drained soils that formed in volcanic ash and colluvium over residuum derived from andesite, tuff-breccia and tuff. Skidbrackle soils are on mountains. Slopes are 2 to 30 percent. The mean annual precipitation is about 35 inches and the mean annual temperature is about 38 degrees F. 
+The Skidbrackle series consists of shallow, well drained soils that formed in volcanic ash and colluvium over residuum derived from andesite, tuff-breccia and tuff. Skidbrackle soils are on mountains, deflation basins, dip slopes, scarps, gorges, and canyons. Slopes are 2 to 30 percent. The mean annual precipitation is about 35 inches and the mean annual temperature is about 38 degrees F. 
 
 TAXONOMIC CLASS: Ashy-skeletal, glassy, frigid Lithic Argixerolls
 
@@ -26,7 +26,7 @@ TYPE LOCATION: Modoc County, California; on the Modoc National Forest in the War
 
 RANGE IN CHARACTERISTICS: 
 Soil moisture - These soils are usually moist in winter, spring, and early summer, dry later in summer and fall; xeric soil moisture regime. 
-Mean annual soil temperature - 41 to 45 degrees F.
+Mean annual soil temperature - 41 to 46 degrees F.
 Oxalate extractable Al + 1/2 Fe: 0.2 to 0.4 percent.
 Volcanic glass content - 50 to 80 percent in the coarse silt through fine sand fractions. 
 Mollic epipedon thickness - 14 to 20 inches. 
@@ -39,30 +39,33 @@ Rock fragments: 60 to 80 percent, mainly gravel and cobbles. Fragment lithology 
 A horizons - Hue: 10YR or 7.5YR.
 Value: 4 or 5 dry, 2 or 3 moist.
 Chroma: 2 or 3, dry or moist.
-Organic matter content: 1 to 2 percent.
- 
+Fine-earth texture: ashy sandy loam, ashy loam
+Clay content: 8 to 18 percent.
+Rock fragments: 10 to 75 percent.
+Organic matter content: 1 to 10 percent.
+
 Bt horizon - Hue: 10YR or 7.5YR.
 Value: 4 or 5 dry, 2 or 3 moist.
 Chroma: 2 or 3, dry or moist.
-Texture: Ashy loam or ashy sandy clay loam.
+Fine-earth texture: Ashy loam or ashy sandy clay loam.
 Clay content: 18 to 27 percent.
-Rock fragments: 60 to 80 percent.
+Rock fragments: 45 to 80 percent.
 Structure: Moderate or strong, fine to coarse subangular blocky.
-Organic matter content: 1 to 2 percent.
+Organic matter content: 0.5. to 2 percent.
 
-COMPETING SERIES: These are the Anuad, Domehill, Farepeak, , Fingerridge, Granquin, Hardnut, Schoolmarm, Starflyer, and Welltomas soils. The Anuad, Domehill, Farepeak, Granquin, Hardnut, Schoolmarm, and Starflyer soils have an aridic moisture regime. The Domehill, Farepeak, Fingerridge, and Welltomas soils have bedrock within 14 inches. The Schoolmarm and Starflyer soils have more than 27 percent clay in the control section.
+COMPETING SERIES: These are the Fingerridge, Notellumcreek, Starflyer, and Welltomas soils. Fingerridge and Welltomas soils have bedrock within 14 inches. Notellumcreek soils have 30 to 40 percent volcanic glass content in the 0.2 to 2.0 mm fraction and average 0.05 to 0.09 percent Oxalate extractable Al + 1/2 Fe. Starflyer soils have an aridic moisture regime and have more than 27 percent clay in the control section.
 
-GEOGRAPHIC SETTING: Skidbrackle soils are on mountains. They formed in volcanic ash and colluvium over residuum derived from andesite, tuff-breccia and tuff. Slopes are 2 to 30 percent. Elevations range from 5,970 to 8,200 feet. The climate is subhumid with cold, moist winters and warm, dry summers. The mean annual precipitation is 30 to 50 inches, most of which comes as snow. The mean annual temperature is 38 to 44 degrees F. The frost-free period is 30 to 60 days. 
+GEOGRAPHIC SETTING: Skidbrackle soils are on mountains. They formed in volcanic ash and colluvium over residuum derived from andesite, tuff-breccia and tuff. Slopes are 2 to 30 percent. Elevations range from 4,920 to 8,200 feet. The climate is subhumid with cold, moist winters and warm, dry summers. The mean annual precipitation is 18 to 50 inches, most of which comes as snow. The mean annual temperature is 38 to 45 degrees F. The frost-free period is 30 to 70 days. 
 
 GEOGRAPHICALLY ASSOCIATED SOILS: These are Gurlidawg, Paynepeak, and Pyropatti series. These soils all have paralithic material that occurs below 20 inches. 
 
 DRAINAGE AND PERMEABILITY: Well drained; medium or high surface runoff; moderately rapid permeability. 
 
-USE AND VEGETATION: Skidbrackle soils are used for watershed, wildlife habitat, and livestock grazing. The vegetation consists of bluegrass, Idaho fescue, and low sagebrush.
+USE AND VEGETATION: Skidbrackle soils are used for watershed, wildlife habitat, and livestock grazing. The vegetation consists of bluegrass, Idaho fescue, low sagebrush, and mountain big sagebrush.
 
 DISTRIBUTION AND EXTENT: Northeastern California and southern Oregon. These soils are not extensive. MLRA 21. 
 
-MLRA SOIL SURVEY REGIONAL OFFICE (MO) RESPONSIBLE: Davis, California. 
+SOIL SURVEY REGIONAL OFFICE (SSRO) RESPONSIBLE: Davis, California. 
 
 SERIES ESTABLISHED: Lake County, Oregon, Southern Part, 2006. The soil was originally proposed in Surprise Valley-Home Camp Area, California and Nevada, 2005.
 
@@ -73,6 +76,8 @@ Vitrandic intergrade feature -- High volcanic glass content in the .02 to 2mm fr
 Argillic horizon - The zone from 4 to 15 inches (Bt horizon). 
 Lithic contact - The boundary at 15 inches to underlying soft weathered bedrock (Cr layer). 
 Particle-size control section - The zone from 4 to 15 inches (Bt horizons). 
+
+12/2021 - updated competing series section and expanded ranges of characteristics, following mapping of additional acreage of this soil in the Fremont portion of the Fremont-Winema National forest in Oregon.
 
 National Cooperative Soil Survey
 U.S.A.
