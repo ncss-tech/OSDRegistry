@@ -2,7 +2,7 @@ LOCATION TRIMONT                NC
 
 Established Series
 DJT:JDV:AG; Rev. MKC
-03/2004
+01/2022
 
 TRIMONT SERIES
 
@@ -12,17 +12,17 @@ TAXONOMIC CLASS: Fine-loamy, mixed, active, mesic Humic Hapludults
 
 TYPICAL PEDON: Trimont gravelly loam on a 60 percent northeast facing mountain side slope--forested. (Colors are for moist soil unless otherwise noted.)
 
- Oi-- 2 to 0 inches; partially decomposed leaves, twigs, roots, and other deciduous plant material.
+ Oi-- 0 to 2 inches; partially decomposed leaves, twigs, roots, and other deciduous plant material.
 
- A1--0 to 3 inches; dark brown (7.5YR 3/2) gravelly loam; brown (7.5YR 4/2) dry; weak fine granular structure; very friable; many fine and medium, and common coarse roots; 15 percent gravel and 3 percent cobbles by volume; common fine flakes of mica; strongly acid; clear wavy boundary.
+ A1--2 to 5 inches; dark brown (7.5YR 3/2) gravelly loam; brown (7.5YR 4/2) dry; weak fine granular structure; very friable; many fine and medium, and common coarse roots; 15 percent gravel and 3 percent cobbles by volume; common fine flakes of mica; strongly acid; clear wavy boundary.
 
- A2--3 to 10 inches; dark brown (7.5YR 3/4) gravelly loam; brown (7.5YR 4/4) dry; weak fine granular structure; very friable; common fine and medium, and few coarse roots; 12 percent gravel and 3 percent cobbles by volume; common fine flakes of mica; strongly acid; clear wavy boundary. (Combined thickness of the A horizons is 7 to 16 inches.)
+ A2--5 to 12 inches; dark brown (7.5YR 3/4) gravelly loam; brown (7.5YR 4/4) dry; weak fine granular structure; very friable; common fine and medium, and few coarse roots; 12 percent gravel and 3 percent cobbles by volume; common fine flakes of mica; strongly acid; clear wavy boundary. (Combined thickness of the A horizons is 7 to 16 inches.)
 
- Bt1--10 to 17 inches; reddish brown (5YR 4/4) loam; weak medium subangular blocky structure; friable; common fine and medium roots; 10 percent gravel by volume; common fine flakes of mica; strongly acid; gradual wavy boundary.
+ Bt1--12 to 19 inches; reddish brown (5YR 4/4) loam; weak medium subangular blocky structure; friable; common fine and medium roots; 10 percent gravel by volume; common fine flakes of mica; strongly acid; gradual wavy boundary.
 
- Bt2--17 to 40 inches; yellowish red (5YR 4/6) clay loam; moderate medium subangular blocky structure; friable; few fine and medium roots; 10 percent gravel by volume; common fine flakes of mica; moderately acid; gradual wavy boundary. (Combined thickness of the Bt horizons is 10 to 40 inches.)
+ Bt2--19 to 42 inches; yellowish red (5YR 4/6) clay loam; moderate medium subangular blocky structure; friable; few fine and medium roots; 10 percent gravel by volume; common fine flakes of mica; moderately acid; gradual wavy boundary. (Combined thickness of the Bt horizons is 10 to 40 inches.)
 
- BC--40 to 65 inches; yellowish red (5YR 5/6) loam; weak medium subangular blocky structure; friable; few fine and medium roots; 10 percent gravel; common fine flakes of mica; moderately acid.
+ BC--42 to 67 inches; yellowish red (5YR 5/6) loam; weak medium subangular blocky structure; friable; few fine and medium roots; 10 percent gravel; common fine flakes of mica; moderately acid.
 
 TYPE LOCATION: Jackson County, North Carolina; 0.25 miles south of Sylva on Buck Mountain; 800 feet southeast of Sylva TV antenna; State Plane coordinates are 620,000; 740,000E.
 
@@ -40,7 +40,7 @@ COMPETING SERIES: Excluding CEC activity class, these are the Colts Neck, Pineol
 
 GEOGRAPHIC SETTING: Trimont soils are on cool, nort- to east-facing or shaded steep and very steep side slopes and heads of coves in the Blue Ridge (MLRA 130). Slope is typically between 30 and 70 percent, but ranges from 30 to 95 percent. Elevation ranges from about 2,000 to 3,500 feet. Trimont soil formed in residuum that is affected by soil creep in the upper part, and weathered from felsic to mafic crystalline rocks such as mica gneiss, amphibolite, and hornblende gneiss. Mean annual temperature is about 56 degrees F., and mean annual precipitation is about 48 inches near the type location.
 
-GEOGRAPHICALLY ASSOCIATED SOILS: In addition to the competing Saunook soils, these include the Brevard, Cowee, Cullasaja, Evard, Fannin, Plott, Porters, Saunook, Tuckasegee, Tusquitee, and Whiteside soils. Brevard, Evard, and Fannin soils have lighter colored epipedons. Cowee soils have paralithic contact at depths of 20 to 40 inches. Cullasaja soils are in a loamy- skeletal particle-size class. Plott, Porters, Tuckasegee, and Tusquitee soils have acambic horizon. Whiteside soils have redoximorphic depletions within the Bt horizon.
+GEOGRAPHICALLY ASSOCIATED SOILS: In addition to the competing Saunook soils, these include the Brevard, Cowee, Cullasaja, Evard, Fannin, Plott, Porters, Saunook, Tuckasegee, Tusquitee, and Whiteside soils. Brevard, Evard, and Fannin soils have lighter colored epipedons. Cowee soils have paralithic contact at depths of 20 to 40 inches. Cullasaja soils are in a loamy- skeletal particle-size class. Plott, Porters, Tuckasegee, and Tusquitee soils have a cambic horizon. Whiteside soils have redoximorphic depletions within the Bt horizon.
 
 DRAINAGE AND PERMEABILITY: Well drained; saturated hydraulic conductivity is moderately high or high, permeability is moderate. Index surface runoff is high.
 
@@ -56,11 +56,13 @@ REMARKS: The Trimont series was formerly included with the Evard and Porters ser
 
 The following diagnostic horizons and features are recognized in the typical pedon:
 
-Ochric epipedon - The zone from the surface to 10 inches (A1 and A2  horizons).
+Ochric epipedon - The zone from the 2 to 12 inches (A1 and A2  horizons).
 
 Humic Hapludults subgroup - The zone from the soil surface to 10 inches which has moist color value of 3 (A1 and A2 horizons).
 
-Argillic horizon - The zone from 10 inches to 40 inches below the surface (Bt horizon).
+1/2022 revision: Oi had 2 to 0 inch depths, corrected to be 0 to 2 in horizon depths then added 2 inches to all horizon depths throughout the typical pedon.
+
+Argillic horizon - The zone from 12 inches to 42 inches below the surface (Bt horizon).
 
 National Cooperative Soil Survey
 U.S.A.

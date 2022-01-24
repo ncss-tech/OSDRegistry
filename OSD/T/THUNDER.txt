@@ -2,7 +2,7 @@ LOCATION THUNDER                VA+NC
 
 Established Series
 Rev. TWB-DGF
-09/2008
+01/2022
 
 THUNDER SERIES
 
@@ -12,25 +12,25 @@ TAXONOMIC CLASS: Loamy-skeletal, mixed, active, mesic Humic Hapludults
 
 TYPICAL PEDON:  Thunder extremely stony loam, on a north-facing, linear, 21 percent slope recently harvested for timber.  (Colors are for moist soil.) 
 
-    Oi -- 1 to 0 inches; loose leaves and slightly decomposed leaves and twigs. 
+    Oi -- 0 to 1 inch; loose leaves and slightly decomposed leaves and twigs. 
 
-    Oe -- 0 to 1 inch; organic material of intermediate decomposition. 
+    Oe -- 1 to 2 inch; organic material of intermediate decomposition. 
 
-    A1 -- 1 to 5 inches; very dark gray (10YR 3/1) extremely stony loam; moderate fine granular structure; friable, slightly sticky, slightly plastic; many fine and very fine, common medium and coarse roots; many medium, common fine and coarse, and few very fine pores; 65 percent stones, cobbles and pebbles; slightly acid; clear smooth boundary. 
+    A1 -- 2 to 6 inches; very dark gray (10YR 3/1) extremely stony loam; moderate fine granular structure; friable, slightly sticky, slightly plastic; many fine and very fine, common medium and coarse roots; many medium, common fine and coarse, and few very fine pores; 65 percent stones, cobbles and pebbles; slightly acid; clear smooth boundary. 
 
-    A2 -- 5 to 10 inches; very dark grayish brown (10YR 3/2) very cobbly loam; moderate fine subangular blocky structure; friable, slightly sticky, slightly plastic; many fine, and common very fine, medium and coarse roots; common fine and medium, and few very fine and coarse pores; 50 percent cobbles and pebbles; slightly acid; clear wavy boundary. (Combined thickness of the A horizon is 7 to 12 inches.) 
+    A2 -- 6 to 11 inches; very dark grayish brown (10YR 3/2) very cobbly loam; moderate fine subangular blocky structure; friable, slightly sticky, slightly plastic; many fine, and common very fine, medium and coarse roots; common fine and medium, and few very fine and coarse pores; 50 percent cobbles and pebbles; slightly acid; clear wavy boundary. (Combined thickness of the A horizon is 7 to 12 inches.) 
 
-    E -- 10 to 14 inches; brown (10YR 5/3) very cobbly loam; moderate coarse subangular blocky structure; firm, slightly sticky, plastic; common medium, and few fine and coarse roots; common fine and medium, and few coarse pores; 45 percent cobbles and pebbles; moderately acid; clear wavy boundary.  (0 to 10 inches) 
+    E -- 11 to 15 inches; brown (10YR 5/3) very cobbly loam; moderate coarse subangular blocky structure; firm, slightly sticky, plastic; common medium, and few fine and coarse roots; common fine and medium, and few coarse pores; 45 percent cobbles and pebbles; moderately acid; clear wavy boundary.  (0 to 10 inches) 
 
-    Bt1 -- 14 to 23 inches; brown (7.5YR 4/4) very cobbly loam; moderate coarse subangular blocky structure; firm, slightly sticky, plastic; few fine, medium and coarse roots;  common medium and fine, and few very fine pores; few faint clay films on faces of peds; 45 percent cobbles and pebbles; strongly acid; clear wavy boundary. 
+    Bt1 -- 15 to 24 inches; brown (7.5YR 4/4) very cobbly loam; moderate coarse subangular blocky structure; firm, slightly sticky, plastic; few fine, medium and coarse roots;  common medium and fine, and few very fine pores; few faint clay films on faces of peds; 45 percent cobbles and pebbles; strongly acid; clear wavy boundary. 
 
-    Bt2 -- 23 to 33 inches; reddish brown (5YR 4/4) very cobbly clay loam; weak coarse subangular blocky structure; firm, slightly sticky, very plastic; common fine and medium, and few coarse roots; common medium and fine pores; common distinct clay films on faces of peds and in pores; 55 percent cobbles and pebbles; moderately acid; gradual wavy boundary. 
+    Bt2 -- 24 to 34 inches; reddish brown (5YR 4/4) very cobbly clay loam; weak coarse subangular blocky structure; firm, slightly sticky, very plastic; common fine and medium, and few coarse roots; common medium and fine pores; common distinct clay films on faces of peds and in pores; 55 percent cobbles and pebbles; moderately acid; gradual wavy boundary. 
 
-    Bt3 -- 33 to 44 inches; brown (7.5YR 4/4) very cobbly clay loam; weak medium subangular blocky structure; firm, sticky and very plastic; common medium, and few fine and coarse roots; many medium and fine pores; common distinct clay films on faces of peds and in pores; 45 percent cobbles and pebbles; moderately acid; gradual wavy boundary.  (Combined thickness of the Bt horizon is 20 to 45 inches.) 
+    Bt3 -- 34 to 45 inches; brown (7.5YR 4/4) very cobbly clay loam; weak medium subangular blocky structure; firm, sticky and very plastic; common medium, and few fine and coarse roots; many medium and fine pores; common distinct clay films on faces of peds and in pores; 45 percent cobbles and pebbles; moderately acid; gradual wavy boundary.  (Combined thickness of the Bt horizon is 20 to 45 inches.) 
 
-    BC -- 44 to 64 inches; dark yellowish brown (10YR 4/6) very cobbly coarse sandy loam; weak medium angular blocky structure; friable; few medium and common fine pores; 60 percent cobbles and pebbles; slightly acid; clear wavy boundary.  (0 to 30 inches) 
+    BC -- 45 to 65 inches; dark yellowish brown (10YR 4/6) very cobbly coarse sandy loam; weak medium angular blocky structure; friable; few medium and common fine pores; 60 percent cobbles and pebbles; slightly acid; clear wavy boundary.  (0 to 30 inches) 
 
-    C -- 64 to 73 inches; yellowish brown (10YR 5/6) very cobbly coarse sandy loam; structureless; very friable; few medium and fine pores; 60 percent cobbles and pebbles; moderately acid. 
+    C -- 65 to 74 inches; yellowish brown (10YR 5/6) very cobbly coarse sandy loam; structureless; very friable; few medium and fine pores; 60 percent cobbles and pebbles; moderately acid. 
 
 TYPE LOCATION:  Jefferson National Forest, Rockbridge County, Virginia, about 1.7 miles east from the intersection of highways VA-759 and Jefferson National Forest Road #3105. 
 
@@ -71,17 +71,18 @@ Diagnostic horizons and features in this pedon are:
 
 1)  Humic feature - the zone from 0 to 9 inches (A1 and A2 horizons). 
 
-2)  Ochric epipedon - the zone from 0 to 13 inches (A1, A2, and E horizons). 
+2)  Ochric epipedon - the zone from 0 to 14 inches (A1, A2, and E horizons). 
 
-3)  Argillic horizon - the zone from 13 to 43 inches (Bt horizons). 
+3)  Argillic horizon - the zone from 14 to 44 inches (Bt horizons). 
 
-4)  Loamy-skeletal feature - average rock fragment content of 35 percent or more in the particle-size control section (13 to 33 inch depth).
+4)  Loamy-skeletal feature - average rock fragment content of 35 percent or more in the particle-size control section (14 to 34 inch depth).
 
 SIR = VA0283 
 
 MLRA = 130 
 
-Revised: 12/17/92-MHC; 1/93-TWB; 9/96-BPS,DHK; 7/98-DHK; 9/08-DGF
+Revised: 12/17/92-MHC; 1/93-TWB; 9/96-BPS,DHK; 7/98-DHK; 9/08-DGF; 1/2022-WJN
+1/2022 revision: Oi had 1 to 0 inch depths, corrected to be 0 to 1 in horizon depths then added 1 inch to all horizon depths throughout the typical pedon.
 
 National Cooperative Soil Survey
 U.S.A.

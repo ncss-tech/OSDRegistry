@@ -2,7 +2,7 @@ LOCATION OCCOQUAN               VA+MD
 
 Established Series
 Rev. DLK-JHE-DDR
-07/2001
+01/2022
 
 OCCOQUAN SERIES
 
@@ -12,17 +12,17 @@ TAXONOMIC CLASS: Fine-loamy, mixed, semiactive, mesic Inceptic Hapludults
 
 TYPICAL PEDON:  Occoquan sandy loam on a 12 percent slope in a mixed hardwood forest.  (Colors are for moist soil.)
 
-    Oi--2 to 0 inch; partially decomposed hardwood leaves and twigs.
+    Oi--0 to 2 inch; partially decomposed hardwood leaves and twigs.
 
-    A--0 to 2 inches; dark grayish brown (10YR 4/2) sandy loam; weak fine granular structure; very friable; many fine, medium and coarse roots; 6 percent angular quartz gravel; 1 percent angular cobbles; few fine flakes of mica; extremely acid; clear smooth boundary.  (0 to 4 inches thick.)
+    A--2 to 4 inches; dark grayish brown (10YR 4/2) sandy loam; weak fine granular structure; very friable; many fine, medium and coarse roots; 6 percent angular quartz gravel; 1 percent angular cobbles; few fine flakes of mica; extremely acid; clear smooth boundary.  (0 to 4 inches thick.)
 
-    E--2 to 9 inches; pale brown (10YR 6/3) sandy loam; weak medium and fine granular structure; very friable; many fine and medium roots; 6 percent angular quartz gravel; 1 percent cobbles; few fine flakes of mica; extremely acid; clear smooth boundary.  (0 to 10 inches thick.)
+    E--4 to 11 inches; pale brown (10YR 6/3) sandy loam; weak medium and fine granular structure; very friable; many fine and medium roots; 6 percent angular quartz gravel; 1 percent cobbles; few fine flakes of mica; extremely acid; clear smooth boundary.  (0 to 10 inches thick.)
 
-    Bt--9 to 17; strong brown (7.5YR 5/8) loam; common fine and medium distinct brownish yellow (10YR 6/6) and yellowish red (5YR 5/8) mottles; weak fine and medium subangular blocky structure; friable; many fine, medium and coarse roots; common distinct patchy clay films on faces of peds; common fine flakes of mica; 3 percent angular quartz gravel; extremely acid; clear smooth boundary.  (6 to 10 inches thick.)
+    Bt--11 to 19 inches; strong brown (7.5YR 5/8) loam; common fine and medium distinct brownish yellow (10YR 6/6) and yellowish red (5YR 5/8) mottles; weak fine and medium subangular blocky structure; friable; many fine, medium and coarse roots; common distinct patchy clay films on faces of peds; common fine flakes of mica; 3 percent angular quartz gravel; extremely acid; clear smooth boundary.  (6 to 10 inches thick.)
 
-    C--17 to 53 inches; multicolored in shades of brown, yellow, red and white sandy loam saprolite; massive; very friable; common fine roots; few thin flows of clay in the upper 20 inches; common fine flakes of mica; 3 percent angular quartz gravel; very strongly acid; clear irregular boundary.  (26 to 50 inches.)
+    C--19 to 55 inches; multicolored in shades of brown, yellow, red and white sandy loam saprolite; massive; very friable; common fine roots; few thin flows of clay in the upper 20 inches; common fine flakes of mica; 3 percent angular quartz gravel; very strongly acid; clear irregular boundary.  (26 to 50 inches.)
 
-    Cr--53 to 72 inches; partially weathered granite gneiss that crushes to sandy loam; tongues of the C horizon.
+    Cr--55 to 74 inches; partially weathered granite gneiss that crushes to sandy loam; tongues of the C horizon.
 
 TYPE LOCATION:  Prince William County, Virginia, 2 miles northeast of Route 663, 450 feet south of Occoquan Club Drive in Occuquan Club Subdivision.
 
@@ -58,7 +58,9 @@ REMARKS:  The Occoquan series has previously been included in the Louisburg seri
 
 Diagnostic horizons and features recognized in this pedon are:
 
-Ochric epipedon-the zone from 0 to 9 inches (A and E horizons) Argillic horizon-the zone from 9 to 17 inches (Bt horizon less than 10 inches thick)
+Ochric epipedon-the zone from 2 to 11 inches (A and E horizons) Argillic horizon-the zone from 11 to 19 inches (Bt horizon less than 10 inches thick)
+
+11/2021 revision: Oi had 2 to 0 inch depths, corrected to be 0 to 2 in horizon depths then added 2 inches to all horizon depths throughout the typical pedon.
 
 SIR = VA0192, VA0328 (VERY STONY)
 

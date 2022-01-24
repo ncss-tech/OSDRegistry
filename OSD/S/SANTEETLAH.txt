@@ -2,7 +2,7 @@ LOCATION SANTEETLAH             NC
 
 Established Series
 Rev. BPS
-02/2011
+01/2022
 
 SANTEETLAH SERIES
 
@@ -12,17 +12,17 @@ TAXONOMIC CLASS: Fine-loamy, isotic, mesic Typic Humudepts
 
 TYPICAL PEDON:  Santeetlah loam on a 23 percent slope on a bench, at an elevation of 3,500 feet--forest.  (Colors are for moist soil unless otherwise stated.)
 
-     Oe--2 to 0 inches, partially decomposed deciduous leaves, twigs, and roots.
+     Oe--0 to 2 inches, partially decomposed deciduous leaves, twigs, and roots.
 
-     A1--0 to 6 inches, very dark brown (10YR 2/2) loam; very dark grayish brown (10YR 3/2) dry; moderate fine and medium granular structure; very friable; many fine to coarse roots; 10 percent channers; flagstones on the surface average 12 feet apart; common fine flakes of mica; very strongly acid; clear wavy boundary.
+     A1--2 to 8 inches, very dark brown (10YR 2/2) loam; very dark grayish brown (10YR 3/2) dry; moderate fine and medium granular structure; very friable; many fine to coarse roots; 10 percent channers; flagstones on the surface average 12 feet apart; common fine flakes of mica; very strongly acid; clear wavy boundary.
 
-     A2--6 to 17 inches, dark brown (10YR 3/3) loam; moderate medium granular structure; very friable; common fine to coarse roots; 10 percent channers; common fine flakes of mica; strongly acid; clear wavy boundary.  (Combined thickness of the A horizon is 10 to 20 inches)
+     A2--8 to 19 inches, dark brown (10YR 3/3) loam; moderate medium granular structure; very friable; common fine to coarse roots; 10 percent channers; common fine flakes of mica; strongly acid; clear wavy boundary.  (Combined thickness of the A horizon is 10 to 20 inches)
 
-     Bw--17 to 39 inches, dark yellowish brown (10YR 4/4) loam; weak medium subangular blocky structure; very friable; common medium and coarse roots; 10 percent channers; common fine flakes of mica; strongly acid; gradual wavy boundary.  (12 to 30 inches thick)
+     Bw--19 to 41 inches, dark yellowish brown (10YR 4/4) loam; weak medium subangular blocky structure; very friable; common medium and coarse roots; 10 percent channers; common fine flakes of mica; strongly acid; gradual wavy boundary.  (12 to 30 inches thick)
 
-     Cl--39 to 49 inches, dark yellowish brown (10YR 4/6) channery loam; massive; very friable; 25 percent channers, not oriented; common fine flakes of mica; very strongly acid; gradual wavy boundary.
+     C1--41 to 51 inches, dark yellowish brown (10YR 4/6) channery loam; massive; very friable; 25 percent channers, not oriented; common fine flakes of mica; very strongly acid; gradual wavy boundary.
 
-     C2--49 to 65 inches, mottled dark yellowish brown (10YR 4/6), dark brown (10YR 3/3), and yellowish brown (10YR 5/8) very channery loam; massive; very friable; 40 percent rock fragments that are dominantly channers with some flagstones, not oriented; common fine flakes of mica; very strongly acid.
+     C2--51 to 67 inches, mottled dark yellowish brown (10YR 4/6), dark brown (10YR 3/3), and yellowish brown (10YR 5/8) very channery loam; massive; very friable; 40 percent rock fragments that are dominantly channers with some flagstones, not oriented; common fine flakes of mica; very strongly acid.
 
 TYPE LOCATION:  Clay County, North Carolina; 0.2 mile south of Tuni Gap on USFS Road 440; turn right on USFS Road 6190 to Big Tuni Creek; 300 feet along hiking trail upstream; 50 feet left of hiking trail in woods.
 
@@ -59,6 +59,8 @@ Diagnostic horizons in this pedon are:
 Umbric Epipedon - 0 to 17 inches (A1 and A2 horizons)
 
 Cambic Horizon - 17 to 39 inches (Bw horizon)
+
+1/2022 revision: Oi had 2 to 0 inch depths, corrected to be 0 to 2 in horizon depths then added 2 inches to all horizon depths throughout the typical pedon. WJN
 
 SIR = NC0208
 
