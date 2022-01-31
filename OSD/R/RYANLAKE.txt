@@ -1,8 +1,8 @@
 LOCATION RYANLAKE               AK
 
 Established Series
-MPS/SAS
-03/2021
+MPS/SAS/TJR
+01/2022
 
 RYANLAKE SERIES
 
@@ -18,7 +18,7 @@ Soil moisture regime--aquic
 Soil temperature regime--gelic
 Soil moisture subclass--typic
 
-TAXONOMIC CLASS: Loamy, isotic, euic, subgelic Terric Hemistels 
+TAXONOMIC CLASS: Loamy, isotic, euic, subgelic Terric Hemistels
 
 TYPICAL PEDON: Ryanlake mucky peat on a west southwest facing linear, linear toeslope on a slope of 1 percent at an elevation of 2 m (The soil was moist from 0 to 33 cm and wet from 33 to 150 cm when described on July 10, 2015.)
 
@@ -35,7 +35,6 @@ TYPE LOCATION: Nome Census Area County, Alaska, latitude 63.9153350 longitude -1
 RANGE IN CHARACTERISTICS:
 Mean annual soil temperature-- -2 to 0 degrees C
 Soil moisture control section--saturated at a depth of between 0 and 25 cm during the growing season (aquic moisture regime)
-Thickness of folistic epipedon--15 to 20 cm
 Depth to permafrost contact--40 to 70
 Depth to cryoturbation--25 to 60 cm
 Thickness of hemic soil material--25 to 60
@@ -79,7 +78,7 @@ Organic carbon--1 to 3 percent
 Reaction--5.3 to 6.3
 
 COMPETING SERIES:
-Ponluktule--sapric soil material present; stream terraces in valleys 
+Ponluktule--sapric soil material present; stream terraces in valleys
 
 GEOGRAPHIC SETTING:
 *Elevation--0 to 15 m
@@ -89,7 +88,7 @@ GEOGRAPHIC SETTING:
 *Frost-free period--55 to 90 days
 
 GEOGRAPHICALLY ASSOCIATED SOILS:
-*Eiderduck--histic epipedon, sulfidic materials present, no permafrost, aquic conditions at the soil surface, floodplains and depressions on coastal plains
+* Eiderduck--histic epipedon, sulfidic materials present, no permafrost, aquic conditions at the soil surface, floodplains and depressions on coastal plains
 
 DRAINAGE AND SATURATED HYDRAULIC CONDUCTIVITY:
 *Drainage class--poorly drained
@@ -110,12 +109,12 @@ SERIES ESTABLISHED: Nulato Hills BLM area, Nome Census Area, Alaska; 2021
 REMARKS:
 Diagnostic horizons and features recognized in this pedon
 *Particle-size control section--zone from 60 to 130 cm
-*Folistic epipedon--zone from 0 to 20 cm
 *Fibric soil materials--zone from 0 to 20 cm
 *Hemic soil materials--zone from 20 to 60 cm
 *Aquic conditions--zone from 20 to 150 cm
 *Cryoturbation--zone from 40 to 150 cm
 *Depth to permafrost--60 cm
 
+________________________________________
 National Cooperative Soil Survey
 U.S.A.

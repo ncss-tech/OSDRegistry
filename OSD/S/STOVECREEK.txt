@@ -2,7 +2,7 @@ LOCATION STOVECREEK             AK
 
 Established Series
 SAS/MPS/TJR
-03/2021
+01/2022
 
 STOVECREEK SERIES
 
@@ -18,7 +18,7 @@ Soil moisture regime--aquic
 Soil temperature regime--cryic
 Soil moisture subclass--typic
 
-TAXONOMIC CLASS: Coarse-loamy, isotic, nonacid Fluvaquentic Cryaquepts
+TAXONOMIC CLASS: Coarse-loamy, isotic, nonacid Humic Cryaquepts
 
 TYPICAL PEDON: Stovecreek peaty silt loam on an east southeast facing linear, linear floodplain on a slope of 6 percent at an elevation of 181 m (The soil was wet, non-satiated, from 0 to 29 cm and wet, satiated, from 23 to 150 cm when described on June 4, 2018.)
 
@@ -37,8 +37,7 @@ TYPE LOCATION: Nome Census Area, Alaska, latitude 63.7186059 longitude -160.4271
 RANGE IN CHARACTERISTICS:
 Mean annual soil temperature--0 to 3 degrees C
 Soil moisture control section--saturated throughout the growing season at a depth of 0 to 25 cm (aquic soil moisture regime)
-Thickness of ochric epipedon--20 to 50 cm
-Thickness of cambic horizon--20 to 50 cm
+Thickness of umbric epipedon--20 to 50 cm
 Depth to redoximorphic features--20 to 50 cm
 
 Particle Size Control Section:
@@ -54,7 +53,6 @@ Fine-earth texture--silt, silt loam
 Clay--6 to 10 percent
 Sand--5 to 30 percent
 Organic carbon--12 to 18 percent
-n Value--greater than 1
 Reaction--5.4 to 6.5
 Thickness--2 to 10 cm
 
@@ -65,7 +63,6 @@ Fine-earth texture--silt, silt loam
 Clay--7 to 12 percent
 Sand--5 to 30 percent
 Organic carbon--5 to 12 percent
-n Value--greater than 1
 Reaction--5.3 to 6.5
 Thickness--10 to 25 cm
 
@@ -77,7 +74,6 @@ Fine-earth texture--silt, silt loam
 Clay--7 to 12 percent
 Sand--10 to 35 percent
 Organic carbon--5 to 8 percent
-n Value--greater than 1
 Reaction--5.4 to 6.6
 Thickness--25 to 35 cm
 
@@ -115,8 +111,8 @@ GEOGRAPHIC SETTING:
 *Frost-free period--55 to 90 days
 
 GEOGRAPHICALLY ASSOCIATED SOILS:
-*Cilla--aquic conditions below 50 cm, no reduced or depleted matrix present, formed in colluvial parent material; shoulders and backslopes of broad hills
-*Pokercreek--gelic soil temperature regime, pH ranges to 5.5, formed in loess and colluvial parent material; footslopes and toeslopes of hills
+* Cilla--aquic conditions below 50 cm, no reduced or depleted matrix present, formed in colluvial parent material; shoulders and backslopes of broad hills
+* Pokercreek--gelic soil temperature regime, pH ranges to 5.5, formed in loess and colluvial parent material; footslopes and toeslopes of hills
 
 DRAINAGE AND SATURATED HYDRAULIC CONDUCTIVITY:
 *Drainage class--poorly drained
@@ -130,18 +126,18 @@ Potential native vegetation--purple marshlocks, tealeaf willow, bluejoint, moss,
 
 DISTRIBUTION AND EXTENT: Nulato Hills-Southern Seward Peninsula Highlands, Alaska; MLRA 240; moderate extent
 
-SOIL SURVEY REGIONAL OFFICE (SSRO) RESPONSIBLE: Portland, Oregon 
+SOIL SURVEY REGIONAL OFFICE (SSRO) RESPONSIBLE: Portland, Oregon
 
 SERIES ESTABLISHED: Nulato Hills BLM area, Nome Census Area, Alaska; 2021
 
 REMARKS:
 Diagnostic horizons and features recognized in this pedon
 *Particle-size control section--zone from 25 to 100 cm
-*n Value > 0.7--zone from 0 to 45 cm
-*Cambic horizon--zone from 0 to 45 cm
+*Umbric epipedon--zone from 0 to 45 cm
 *Aquic conditions--zone from 15 to 150 cm
 *Redoximorphic concentrations--zone from 15 to 90 cm
 *Reduced matrix--zone from 45 to 150 cm
 
+________________________________________
 National Cooperative Soil Survey
 U.S.A.

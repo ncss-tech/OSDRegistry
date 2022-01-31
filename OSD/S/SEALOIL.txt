@@ -1,8 +1,8 @@
-LOCATION SEALOIL                AK  
+LOCATION SEALOIL                AK
 
 Established Series
-MPS/SAS
-03/2021
+MPS/SAS/TJR
+01/2022
 
 SEALOIL SERIES
 
@@ -100,7 +100,7 @@ GEOGRAPHIC SETTING:
 *Frost-free period--55 to 90 days
 
 GEOGRAPHICALLY ASSOCIATED SOILS:
-*Chiroskey--umbric epipedon, no aquic conditions present, well drained, coarse fragments range to 75 percent in lower part of profile; hillslopes
+* Chiroskey--umbric epipedon, no aquic conditions present, well drained, coarse fragments range to 75 percent in lower part of profile; hillslopes
 
 DRAINAGE AND SATURATED HYDRAULIC CONDUCTIVITY:
 *Drainage class--somewhat poorly drained
@@ -122,9 +122,10 @@ Diagnostic horizons and features recognized in this pedon
 *Particle-size control section--zone from 46 to 121 cm
 *Folistic epipedon--zone from 0 to 21 cm
 *Cambic horizon--zone from 21 to 63 cm
-*Reduced matrix--zone from 34 150 cm
+*Reduced matrix--zone from 34 to 150 cm
 *Redoximorphic iron concentrations--zone from 34 to 150 cm
-*Aquic conditions--zone from 34 150 cm
+*Aquic conditions--zone from 34 to 150 cm
 
+________________________________________
 National Cooperative Soil Survey
 U.S.A.

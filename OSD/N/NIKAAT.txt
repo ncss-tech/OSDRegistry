@@ -1,8 +1,8 @@
 LOCATION NIKAAT                 AK
 
 Established Series
-SAS
-03/2021
+SAS/TJR
+01/2022
 
 NIKAAT SERIES
 
@@ -53,7 +53,8 @@ Fine-earth texture--ashy sandy loam, ashy fine sandy loam, ashy very fine sandy 
 Clay--0 to 7 percent
 Sand--50 to 70 percent
 Organic carbon--10 to 15 percent
-Reaction--4.5 to 5.5 
+Phosphorous retention--85 to 100 percent
+Reaction--4.5 to 5.5
 Thickness--2 to 20 cm
 
 A/Oejj horizon
@@ -73,13 +74,13 @@ Value--2 to 4 moist, 4 to 6 dry
 Chroma--2 or 3
 Fine-earth texture--permanently frozen silt, permanently frozen silt loam
 Clay--8 to 18 percent
-Sand--5 to 35    percent
-Organic carbon--7 to 12 percent 
+Sand--5 to 35 percent
+Organic carbon--7 to 12 percent
 Reaction--5.5 to 6.2
 
 COMPETING SERIES:
-*Chissovun-pH ranges to 8.0, slight effervescence, cryoturbation present in substratum, alluvial parent material
-*Gushdoiman-pH ranges to 8.0, no cryoturbation present within 150 cm, alluvial parent material
+* Chissovun-pH ranges to 8.0, slight effervescence, cryoturbation present in substratum, alluvial parent material
+* Gushdoiman-pH ranges to 8.0, no cryoturbation present within 150 cm, alluvial parent material
 
 GEOGRAPHIC SETTING:
 *Elevation--0 to 300 m
@@ -89,11 +90,11 @@ GEOGRAPHIC SETTING:
 *Frost-free period--55 to 90 days
 
 GEOGRAPHICALLY ASSOCIATED SOILS:
-*Willowcreek--aquic conditions at the soil surface, drainageways
-*Sikinik--coarse fragments present, plains and toeslopes of hills
-*Asulu--organic layers greater than 40 cm thick, polygonal ground on plains
-*Apun--coarse fragments present, backslopes and foot slopes of hills
-*Runkelscreek-- aquic conditions at the soil surface during all parts of the growing season, drainageways
+* Willowcreek--aquic conditions at the soil surface, drainageways
+* Sikinik--coarse fragments present, plains and toeslopes of hills
+* Asulu--organic layers greater than 40 cm thick, polygonal ground on plains
+* Apun--coarse fragments present, backslopes and foot slopes of hills
+* Runkelscreek-- aquic conditions at the soil surface during all parts of the growing season, drainageways
 
 DRAINAGE AND SATURATED HYDRAULIC CONDUCTIVITY:
 *Drainage class--poorly drained
@@ -115,8 +116,10 @@ Diagnostic horizons and features recognized in this pedon
 *Particle-size control section--zone from 48 to 123 cm
 *Histic epipedon--zone from 0 to 23 cm
 *Cryoturbation--zone from 0 to 150 cm
+*Volcanic glass--zone from 23 to 43 cm
 *Depth to permafrost 72 cm
 *Depth to aquic conditions--0 cm (a positive reaction to alpha-alpha dipyridyl is assumed at this depth)
 
+________________________________________
 National Cooperative Soil Survey
 U.S.A.

@@ -1,8 +1,8 @@
 LOCATION JACKSONCREEK           AK
 
 Established Series
-TJR/MPS/SAS
-03/2021
+MPS/SAS/TJR
+01/2022
 
 JACKSONCREEK SERIES
 
@@ -38,7 +38,7 @@ TYPICAL PEDON: Jacksoncreek peat on an east facing convex, convex terrace on a s
 TYPE LOCATION: Yukon-Koyukuk Census Area, Alaska, latitude 63.2621867 longitude -160.7078004 degrees, datum WGS84 (Coordinates determined with a GPS unit)
 
 RANGE IN CHARACTERISTICS:
-Mean annual soil temperature-- -2 to 0 to  degrees C
+Mean annual soil temperature-- -2 to 0 to degrees C
 Soil moisture control section-- saturated at a depth of between 0 and 25 cm for more than two weeks during the growing season (aquic moisture regime)
 Thickness histic epipedon--20 to 40 cm
 Depth to reduced matrix--20 to 40 cm
@@ -106,14 +106,14 @@ GEOGRAPHIC SETTING:
 *Frost-free period--55 to 90 days
 
 GEOGRAPHICALLY ASSOCIATED SOILS:
-*Sprucecreek--cryic soil temperature regime, well drained, sandy particle-size class, terraces in valleys
-*Ponluktule--permafrost contact at 35 to 70 cm; terraces in valleys, hillslopes
-*Pokercreek--umbric epipedon, no reduced matrix present; loess covered footslopes and toeslopes
+* Sprucecreek--cryic soil temperature regime, well drained, sandy particle-size class, terraces in valleys
+* Ponluktule--permafrost contact at 35 to 70 cm; terraces in valleys, hillslopes
+* Pokercreek--umbric epipedon, no reduced matrix present; loess covered footslopes and toeslopes
 
 DRAINAGE AND SATURATED HYDRAULIC CONDUCTIVITY:
 *Drainage class--poorly drained
 *Saturation during normal years--saturated at a depth of between 0 and 25 cm for more than 2 weeks during the growing season
-*Saturated hydraulic conductivity (Ksat)--high in the histic epipedon, high to moderately high throughout the rest of the profile 
+*Saturated hydraulic conductivity (Ksat)--high in the histic epipedon, high to moderately high throughout the rest of the profile
 
 USE AND VEGETATION:
 Use--wildlife habitat, recreation, subsistence
@@ -121,7 +121,7 @@ Potential native vegetation--black spruce, bog blueberry, marsh Labrador tea, dw
 
 DISTRIBUTION AND EXTENT: Yukon-Kuskokwim Highlands, Alaska; MLRA 230; small extent
 
-SOIL SURVEY REGIONAL OFFICE (SSRO) RESPONSIBLE: Portland, Oregon 
+SOIL SURVEY REGIONAL OFFICE (SSRO) RESPONSIBLE: Portland, Oregon
 
 SERIES ESTABLISHED: Nulato Hills BLM area, Nome Census Area, Alaska; 2021
 
@@ -129,12 +129,13 @@ REMARKS:
 Diagnostic horizons and features recognized in this pedon
 *Particle-size control section--zone from 51 to 126 cm
 *Histic epipedon--zone from 0 to 26 cm
-*Aquic conditions--zone from 0 to 175 cm
+*Aquic conditions--zone from 0 to 150 cm
 *Cryoturbation--zone from 26 to 45 cm
 *Reduced matrix--zone from 26 to 110 cm and from 128 to 150 cm
 *Cambic horizon--zone from 26 to 110 cm
 *Redoximorphic concentrations--zone from 26 to 150 cm
 *Redoximorphic depletions with a chroma of 2 or less--zone from 110 to 128 cm
 
+________________________________________
 National Cooperative Soil Survey
 U.S.A.

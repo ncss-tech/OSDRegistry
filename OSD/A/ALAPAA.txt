@@ -1,8 +1,8 @@
 LOCATION ALAPAA                 AK
 
 Established Series
-MPS/SAS
-03/2021
+MPS/SAS/TJR
+01/2022
 
 ALAPAA SERIES
 
@@ -57,15 +57,17 @@ Organic carbon--5 to 10 percent
 Total rock fragment content--35 to 60 percent
 Total stone content--0 to 25 percent
 Total boulder content--20 to 50 percent
+Oxalate Fe--1 to 3 percent
+Phosphorous retention--85 to 100 percent
 Reaction--5.4 to 6.0
-Thickness-- 5 to 10cm
+Thickness-- 5 to 10 cm
 
 C horizon
 Organic carbon--0.0 to 0.5 percent
 Total rock fragment content--90 to 100 percent
 Total stone content--0 to 30 percent
 Total boulder content--70 to 100 percent
-Thickness--125 to 140cm
+Thickness--125 to 140 cm
 
 COMPETING SERIES: none
 
@@ -77,10 +79,10 @@ GEOGRAPHIC SETTING:
 *Frost-free period--55 to 90 days
 
 GEOGRAPHICALLY ASSOCIATED SOILS:
-*Akpik--loamy-skeletal, gelic temperature regime, isotic mineralogy, depth to aquic conditions 0 to 25cm (poorly drained); talfs on plains
-*Wagonboxcreek--umbric epipedon, medial over loamy; swales on lava fields
-*Sikinik--histic epipedon, coarse-loamy; plains and toeslopes of hills
-*Apun--histic epipedon, coarse-loamy; footslopes on hills or mountains
+* Akpik--loamy-skeletal, gelic temperature regime, isotic mineralogy, depth to aquic conditions 0 to 25cm (poorly drained); talfs on plains
+* Wagonboxcreek--umbric epipedon, medial over loamy; swales on lava fields
+* Sikinik--histic epipedon, coarse-loamy; plains and toeslopes of hills
+* Apun--histic epipedon, coarse-loamy; footslopes on hills or mountains
 
 DRAINAGE AND SATURATED HYDRAULIC CONDUCTIVITY:
 *Drainage class--well drained
@@ -103,5 +105,6 @@ Diagnostic horizons and features recognized in this pedon
 *Ochric epipedon--zone from 0 to 5cm
 *Andic soil properties--zone from 5 to 13 cm
 
+________________________________________
 National Cooperative Soil Survey
 U.S.A.

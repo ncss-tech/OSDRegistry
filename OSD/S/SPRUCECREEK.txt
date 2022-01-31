@@ -1,8 +1,8 @@
 LOCATION SPRUCECREEK            AK
 
 Established Series
-MPS/SAS
-10/2021
+MPS/SAS/TJR
+01/2022
 
 SPRUCECREEK SERIES
 
@@ -28,7 +28,7 @@ TYPICAL PEDON: Sprucecreek silt loam on a west facing linear, linear tread, on a
 
  A--18 to 28 cm; silt loam, dark yellowish brown (10YR 4/4) dry, dark yellowish brown (10YR 3/4) moist; weak medium subangular blocky structure; slightly hard, friable, nonsticky, nonplastic; nonsmeary; many very fine and common fine and coarse roots; 10 percent rounded gravel by volume; strongly acid (pH 5.1); clear wavy boundary
 
- Bw--28 to 47 cm; silt loam, yellowish brown (10YR 5/4) dry, dark brown (7.5YR 3/4) moist; weak medium subangular blocky structure; soft, very friable, nonsticky, nonplastic; nonsmeary; common very fine, fine,  and coarse roots; 5 percent rounded gravel; strongly acid (pH 5.1); abrupt smooth boundary
+ Bw--28 to 47 cm; silt loam, yellowish brown (10YR 5/4) dry, dark brown (7.5YR 3/4) moist; weak medium subangular blocky structure; soft, very friable, nonsticky, nonplastic; nonsmeary; common very fine, fine, and coarse roots; 5 percent rounded gravel; strongly acid (pH 5.1); abrupt smooth boundary
 
  2C--47 to 150 cm; very gravelly coarse sand, light gray (2.5Y 7/2) dry, dark brown (10YR 3/3) moist; single grain; nonsticky, nonplastic; nonsmeary; common very fine and fine roots; 10 percent rounded fine and medium gravel, 20 percent rounded coarse gravel; very strongly acid (pH 5.0)
 
@@ -97,14 +97,14 @@ GEOGRAPHIC SETTING:
 *Frost-free period--55 to 90 days
 
 GEOGRAPHICALLY ASSOCIATED SOILS:
-*Oldwomanriver--ochric epipedon, coarse loamy over sandy or sandy skeletal; floodplains
-*Ena--coarse loamy, umbric epipedon; toeslopes
-*Southriver--sandy-skeletal, ochric epipedon; floodplains
-*Nonvalnuk--aquic conditions at the surface, greater than 40 cm of organic soil layers; stream terraces
-*Jessecreek--gelic soil temperature regime, loamy alluvium over sandy and gravelly alluvium; stream terraces
-*Jacksoncreek--gelic soil temperature regime, coarse-loamy; stream terraces
-*Ponluktule--gelic soil temperature regime, permafrost, aquic conditions with in 25 cm of the soil surface; stream terraces
-*Cilla--loamy-skeletal, ochric epipedon; hillslopes
+* Oldwomanriver--ochric epipedon, coarse loamy over sandy or sandy skeletal; floodplains
+* Ena--coarse loamy, umbric epipedon; toeslopes
+* Southriver--sandy-skeletal, ochric epipedon; floodplains
+* Nonvalnuk--aquic conditions at the surface, greater than 40 cm of organic soil layers; stream terraces
+* Jessecreek--gelic soil temperature regime, loamy alluvium over sandy and gravelly alluvium; stream terraces
+* Jacksoncreek--gelic soil temperature regime, coarse-loamy; stream terraces
+* Ponluktule--gelic soil temperature regime, permafrost, aquic conditions with in 25 cm of the soil surface; stream terraces
+* Cilla--loamy-skeletal, ochric epipedon; hillslopes
 
 DRAINAGE AND SATURATED HYDRAULIC CONDUCTIVITY:
 *Drainage class--well drained
@@ -113,7 +113,7 @@ DRAINAGE AND SATURATED HYDRAULIC CONDUCTIVITY:
 
 USE AND VEGETATION:
 Use--wildlife habitat, recreation, subsistence
-Potential native vegetation--white spruce, quaking aspen, resin birch, bog blueberry, lingonberry, arctic raspberry, black crowberry, march Labrador tea, Richardson's willow, least willow, captaite, valerian, bluejoint, sphagnum, dicranum moss, Moss, fireweed, dwarf birch, bunchberry dogwood, field horsetail, splendid feather moss, arctic kidney lichen, Schreber's big red stem moss, polytrichum moss, Barclay's willow, tealeaf willow, beaverd spirea
+Potential native vegetation--white spruce, quaking aspen, resin birch, bog blueberry, lingonberry, arctic raspberry, black crowberry, march Labrador tea, Richardson's willow, least willow, captaite, valerian, bluejoint, sphagnum, dicranum moss, Moss, fireweed, dwarf birch, bunchberry dogwood, field horsetail, splendid feather moss, arctic kidney lichen, Schreber's big red stem moss, polytrichum moss, Barclay's willow, tealeaf willow, beauverd spirea
 
 DISTRIBUTION AND EXTENT: Nulato Hills-Southern Seward Peninsula Highlands, Alaska; MLRA 240; moderate extent
 
@@ -126,8 +126,9 @@ Diagnostic horizons and features recognized in this pedon
 *Particle-size control section--zone from 43 to 118 cm
 *Folistic epipedon--zone from 0 to 18 cm
 *Cambic horizon--zone from 28 to 47 cm
-*Relict redoximorphic features--zone from 28 to 47 cm
+
 *Lithologic discontinuity-- zone from 47 to 150 cm
 
+________________________________________
 National Cooperative Soil Survey
 U.S.A.

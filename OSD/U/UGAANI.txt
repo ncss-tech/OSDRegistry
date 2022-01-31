@@ -2,7 +2,7 @@ LOCATION UGAANI                 AK
 
 Established Series
 SAS/MPS/TJR
-03/2021
+01/2022
 
 UGAANI SERIES
 
@@ -28,7 +28,7 @@ TYPICAL PEDON: Ugaani extremely cobbly medial silt on a west northwest facing co
 
  Bhs--10 to 16 cm; highly organic extremely cobbly medial silt, brown (7.5YR 4/2) dry, very dark brown (7.5YR 2.5/2) moist; weak medium granular structure; friable, nonsticky, nonplastic; many very fine and common fine and medium roots; common fine and very fine irregular pores; 1 percent stones, 35 percent gravel by volume, 40 percent cobbles; strongly acid (pH 5.2); very abrupt irregular boundary
 
- 2C--16 to 45 cm; cobbles, yellowish brown (10YR 5/4) dry, dark yellowish brown (10YR 3/4) moist; single grain; loose, nonsticky; 5 percent stones by volume, 40 percent gravel by volume, 50 percent cobbles by volume; strongly acid (pH 5.2); very abrupt irregular boundary 
+ 2C--16 to 45 cm; cobbles, yellowish brown (10YR 5/4) dry, dark yellowish brown (10YR 3/4) moist; single grain; loose, nonsticky; 5 percent stones by volume, 40 percent gravel by volume, 50 percent cobbles by volume; strongly acid (pH 5.2); very abrupt irregular boundary
 
  2R--45 to 150 cm; basalt
 
@@ -45,7 +45,7 @@ Layers influenced by volcanic ash
 *Phosphorous retention--85 to 100 percent
 *Bulk density--0.45 to 0.9 g/cm3
 *Ammonium oxalate Al plus 1/2 Fe--2.0 to 4.0 percent
-*Volcanic glass content--1 to 20 percent 
+*Volcanic glass content--1 to 20 percent
 *1500kPa water content-- less than 100 percent
 
 Particle Size Control Section:
@@ -110,8 +110,8 @@ GEOGRAPHIC SETTING:
 *Frost-free period--55 to 90 days
 
 GEOGRAPHICALLY ASSOCIATED SOILS:
-*Wagonboxcreek--umbric epipedon, medial over loamy; swales on lava fields
-*Uyagak--cambic horizon, thickness of zone with andic soil properties greater than 14 cm, ashy over loamy-skeletal; depressions on lava fields
+* Wagonboxcreek--umbric epipedon, medial over loamy; swales on lava fields
+* Uyagak--cambic horizon, thickness of zone with andic soil properties greater than 14 cm, ashy over loamy-skeletal; depressions on lava fields
 
 DRAINAGE AND SATURATED HYDRAULIC CONDUCTIVITY:
 *Drainage class--well drained
@@ -120,7 +120,7 @@ DRAINAGE AND SATURATED HYDRAULIC CONDUCTIVITY:
 
 USE AND VEGETATION:
 Use--wildlife habitat, recreation, subsistence
-Potential native vegetation--crustose lichen, witch's hair lichen, dwarf birch, bryocaulon lichen, greygreen reindeer lichen, star reindeer lichen, eightpetal mountain-avens, black crowberry, marsh Labrador tea, alpine azalea, whiteworm lichen, white arctic mountain heather, reindeer lichen, altai fescue, alpine sweetgrass, mountain harebell, arctic willow, northern singlespike sedge, 
+Potential native vegetation--crustose lichen, witch's hair lichen, dwarf birch, bryocaulon lichen, greygreen reindeer lichen, star reindeer lichen, eightpetal mountain-avens, black crowberry, marsh Labrador tea, alpine azalea, whiteworm lichen, white arctic mountain heather, reindeer lichen, altai fescue, alpine sweetgrass, mountain harebell, arctic willow, northern singlespike sedge,
 
 DISTRIBUTION AND EXTENT: Nulato Hills-Southern Seward Peninsula Highlands, Alaska; MLRA 240; small extent
 
@@ -131,10 +131,11 @@ SERIES ESTABLISHED: Nulato Hills BLM area, Nome Census Area, Alaska; 2021
 REMARKS:
 Diagnostic horizons and features recognized in this pedon
 *Particle-size control section--zone from 29 to 45 cm
-*Ochric epipedon--zone from 0 to 10 cm
+*Ochric epipedon--zone from 0 to 16 cm
 *Andic soil properties--zone from 4 to 16 cm
 *Lithologic discontinuity--16 to 150 cm
 *Lithic contact--45cm
 
+________________________________________
 National Cooperative Soil Survey
 U.S.A.

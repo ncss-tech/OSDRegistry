@@ -1,8 +1,8 @@
 LOCATION PONLUKTULE             AK
 
 Established Series
-MPS/SAS
-03/2021
+MPS/SAS/TJR
+01/2022
 
 PONLUKTULE SERIES
 
@@ -38,6 +38,7 @@ Soil moisture control section--saturated at a depth of between 0 and 25 cm durin
 Total thickness of organic soil layers--40 to 60 cm
 Depth to permafrost contact--50 to 75 cm
 Depth to cryoturbation--30 to 50 cm
+Depth to redox concentrations-30 to 50 cm
 Thickness of hemic soil material--35 to 60 cm
 
 Particle Size Control Section:
@@ -59,7 +60,7 @@ Chroma--1 to 3
 Reaction--5.4 to 6.5
 Organic carbon content--35 to 55 percent
 Rubbed fiber content--0 to 17 percent
-Sodium pyrophosphate color value and chroma--when chroma is 2, value is 5 or less; when chroma is 3, value is 6 or less 
+Sodium pyrophosphate color value and chroma--when chroma is 2, value is 5 or less; when chroma is 3, value is 6 or less
 Thickness--10 to 15 cm
 
 Bw/Oajj horizon (Bw portion)
@@ -95,8 +96,8 @@ GEOGRAPHIC SETTING:
 *Frost-free period--55 to 90 days
 
 GEOGRAPHICALLY ASSOCIATED SOILS:
-*Sprucecreek--folistic epipedon, cryic soil temperature regime, udic soil moisture regime, no permafrost, terraces in valleys
-*Jacksoncreek--histic epipedon, reduced matrix present; terraces in valleys
+* Sprucecreek--folistic epipedon, cryic soil temperature regime, udic soil moisture regime, no permafrost, terraces in valleys
+* Jacksoncreek--histic epipedon, reduced matrix present; terraces in valleys
 
 DRAINAGE AND SATURATED HYDRAULIC CONDUCTIVITY:
 *Drainage class--poorly drained
@@ -117,10 +118,12 @@ REMARKS:
 Diagnostic horizons and features recognized in this pedon
 *Particle-size control section--zone from 50 to 130 cm
 *Hemic soil materials--zone from 0 to 38 cm
+*Redox concentrations--zone from 50 to 60 cm
 *Aquic conditions--zone from 0 to 150 cm
 *Sapric soil materials--zone from 38 to 50 cm
 *Cryoturbation--zone from 50 to 150 cm
 *Depth to permafrost--60 cm
 
+________________________________________
 National Cooperative Soil Survey
 U.S.A.

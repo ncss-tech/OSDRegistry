@@ -1,8 +1,8 @@
 LOCATION JESSECREEK             AK
 
 Established Series
-MPS/SAS
-03/2021
+MPS/SAS/TJR
+01/2022
 
 JESSECREEK SERIES
 
@@ -37,7 +37,7 @@ Mean annual soil temperature-- -2 to 0 degrees C
 Soil moisture control section--saturated from a depth of 0 to 25 cm for more than two weeks during the growing season
 Thickness of histic epipedon--20 to 30 cm
 Depth to redoximorphic iron concentrations--20 to 30 cm
-Depth to aquic conditions--10 to 25 cm
+Depth to aquic conditions--0 cm
 
 Particle Size Control Section:
 *Clay--2 to 15 percent
@@ -89,8 +89,8 @@ GEOGRAPHIC SETTING:
 *Frost-free period--55 to 90 days
 
 GEOGRAPHICALLY ASSOCIATED SOILS:
-*Sprucecreek--cryic soil temperature regime, folistic epipedon, no aquic conditions, terraces in valleys
-*Nonvalnuk--cryic soil temperature regime, thickness of organic soil materials is greater than 100 cm, water table at the surface during the growing season (peraquic moisture regime), swales on terraces
+* Sprucecreek--cryic soil temperature regime, folistic epipedon, no aquic conditions, terraces in valleys
+* Nonvalnuk--cryic soil temperature regime, thickness of organic soil materials is greater than 100 cm, water table at the surface during the growing season (peraquic moisture regime), swales on terraces
 
 DRAINAGE AND SATURATED HYDRAULIC CONDUCTIVITY:
 *Drainage class--poorly drained
@@ -99,7 +99,7 @@ DRAINAGE AND SATURATED HYDRAULIC CONDUCTIVITY:
 
 USE AND VEGETATION:
 Use--wildlife habitat, recreation, subsistence
-Potential native vegetation--bluejoint, tealeaf willow, dwarf birch, Alaska bog willow, arctic sweet coltsfoot, scouringrush hirsetail, purple marshlocks,  Bigelow's sedge, cetraria lichen, cup lichen, greygreen reindeer lichen, star reindeer lichen, black crowberry, meadow horestail, splendid feather moss, marsh Labrador tea, white spruce, Schreber's big red stem moss, polytrichum moss, knights plume moss, feltleaf willow, sphagnum, beaverd spirea, bog blueberry, lingnberry
+Potential native vegetation--bluejoint, tealeaf willow, dwarf birch, Alaska bog willow, arctic sweet coltsfoot, scouring rush, horsetail, purple marshlocks, Bigelow's sedge, cetraria lichen, cup lichen, greygreen reindeer lichen, star reindeer lichen, black crowberry, meadow horestail, splendid feather moss, marsh Labrador tea, white spruce, Schreber's big red stem moss, polytrichum moss, knights plume moss, feltleaf willow, sphagnum, beauverd spirea, bog blueberry, lingonberry
 
 DISTRIBUTION AND EXTENT: Yukon-Kuskokwim Highlands, Alaska; MLRA 230; small extent
 
@@ -113,8 +113,9 @@ Diagnostic horizons and features recognized in this pedon
 *Histic epipedon--zone from 0 to 21 cm
 *Sapric soil material--zone from 0 to 40 cm
 *Redoximorphic concentrations--zone from 21 to 52 cm
-*Aquic conditions--zone from 21 to 130 cm
+*Aquic conditions--zone from 0 to 130 cm
 *Lithological discontinuity--zone from 52 to 150 cm
 
+________________________________________
 National Cooperative Soil Survey
 U.S.A.

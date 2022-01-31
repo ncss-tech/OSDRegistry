@@ -1,8 +1,8 @@
 LOCATION NUVUK                  AK
 
 Established Series
-MPS/SAS
-03/2021
+MPS/SAS/TJR
+01/2022
 
 NUVUK SERIES
 
@@ -39,6 +39,7 @@ Mean annual soil temperature-- -2 to 0 degrees C
 Soil moisture control section--saturated at a depth of between 50 and 100 cm for more than two weeks
 Thickness of folistic epipedon--15 to 25 cm
 Thickness of cambic horizon--25 to 75 cm
+Depth to reduced matrix--50 to 100 cm
 Depth to redoximorphic iron concentrations--20 to 75 cm
 Depth to aquic conditions--50 to 100 cm
 Depth to redoximorphic iron depletions--50 to 100 cm
@@ -111,9 +112,9 @@ GEOGRAPHIC SETTING:
 *Frost-free period--55 to 90 days
 
 GEOGRAPHICALLY ASSOCIATED SOILS:
-*Cascadecreek--ochric epipedon, isotic mineralogy, loamy-skeletal particle-size class, udic soil moisture regime, cryic soil temperature regime; hillslopes, and mountain slopes
-*Cuyaqsak--umbric epipedon, isotic mineralogy, loamy-skeletal particle-size class, cryic soil temperature regime; swales on mountains and hills
-*Bonasila--umbric epipedon, isotic mineralogy, loamy-skeletal particle-size class, udic soil moisture regime; hillslopes and mountain slopes
+* Cascadecreek--ochric epipedon, isotic mineralogy, loamy-skeletal particle-size class, udic soil moisture regime, cryic soil temperature regime; hillslopes, and mountain slopes
+* Cuyaqsak--umbric epipedon, isotic mineralogy, loamy-skeletal particle-size class, cryic soil temperature regime; swales on mountains and hills
+* Bonasila--umbric epipedon, isotic mineralogy, loamy-skeletal particle-size class, udic soil moisture regime; hillslopes and mountain slopes
 *MountMcDonald--shallow to paralithic contact, umbric epipedon, loamy-skeletal particle-size class, ridges and mountain slopes
 
 DRAINAGE AND SATURATED HYDRAULIC CONDUCTIVITY:
@@ -139,7 +140,9 @@ Diagnostic horizons and features recognized in this pedon
 *Redoximorphic iron concentrations--zone from 21 to 38 cm and 72 to 150 cm
 *Cambic horizon--zone from 21 to 51 cm
 *Aquic conditions-zone from 51 to 150 cm
+*Reduced matrix--zone rom 72 to 150 cm
 *Redoximorphic iron depletions with chroma 2 or less--zone from 51 to 150 cm
 
+________________________________________
 National Cooperative Soil Survey
 U.S.A.

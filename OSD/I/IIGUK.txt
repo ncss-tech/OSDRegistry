@@ -1,8 +1,8 @@
 LOCATION IIGUK                  AK
 
 Established Series
-MPS/SAS
-03/2021
+MPS/SAS/TJR
+01/2022
 
 IIGUK SERIES
 
@@ -28,7 +28,7 @@ TYPICAL PEDON: Iiguk silt loam on a west facing convex, convex summit on a slope
 
  Bw/Ajj--15 to 53 cm; very gravelly silt loam, 90 percent light yellowish brown (10YR 6/4) and 10 percent dark grayish brown (10YR 4/2) dry, 90 percent dark yellowish brown (10YR 4/4) and 10 percent very dark brown (10YR 2/2) moist; weak coarse subangular blocky parts to weak fine granular structure; very friable, nonsticky, slightly plastic; common very fine, fine, and medium roots; few fine irregular pores; 10 percent cobbles, 10 percent channers, 30 percent gravel; very strongly acid (pH 4.8); clear smooth boundary
 
- C--53 to 150 cm; very gravelly silt loam, light yellowish brown (2.5Y 6/4) dry, olive brown (2.5Y 4/4) moist; massive; friable, nonsticky, slightly plastic; 10 percent fine faint dark gray (2.5Y 4/1) masses of reduced iron and 10 percent fine distinct strong brown (7.5YR 4/6) masses of oxidized iron; 10 percent cobbles, 20 percent channers, 20 percent gravel; extremely acid (pH 4.4)
+ C--53 to 150 cm; very gravelly silt loam, light yellowish brown (2.5Y 6/4) dry, olive brown (2.5Y 4/4) moist; massive; friable, nonsticky, slightly plastic; 10 percent fine faint dark gray (2.5Y 4/1) mottles and 10 percent fine distinct strong brown (7.5YR 4/6) masses of oxidized iron; 10 percent cobbles, 20 percent channers, 20 percent gravel; extremely acid (pH 4.4)
 
 TYPE LOCATION: Nome Census Area, Alaska, latitude 63.5270920, longitude -160.9287430, datum WGS84 (Coordinates determined with a GPS unit)
 
@@ -99,7 +99,7 @@ GEOGRAPHIC SETTING:
 *Frost-free period--55 to 90 days
 
 GEOGRAPHICALLY ASSOCIATED SOILS:
-*Nunapik--permafrost present, histic epipedon, no cambic horizon, gelic soil temperature regime, aquic soil moisture regime, fine-loamy particle-size class, mounds on hillslopes or saddles of hills
+* Nunapik--permafrost present, histic epipedon, no cambic horizon, gelic soil temperature regime, aquic soil moisture regime, fine-loamy particle-size class, mounds on hillslopes or saddles of hills
 *MountMcDonald--shallow to paralithic contact, umbric epipedon, udic soil moisture regime; ridges and mountain slopes
 
 DRAINAGE AND SATURATED HYDRAULIC CONDUCTIVITY:
@@ -123,8 +123,9 @@ Diagnostic horizons and features recognized in this pedon
 *Ochric epipedon--zone from 0 to 15 cm
 *Cambic horizon--zone from 7 to 53 cm
 *Cryoturbation--zone from 15 to 53 cm
-*Mottles--zone from 53 to 80 cm
+*Low chroma mottles--zone from 53 to 150 cm
 *Redoximorphic concentrations--zone from 53 to 150 cm
 
+________________________________________
 National Cooperative Soil Survey
 U.S.A.

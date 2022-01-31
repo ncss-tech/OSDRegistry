@@ -1,8 +1,8 @@
 LOCATION NUNA                   AK
 
 Established Series
-MPS/SAS
-03/2021
+MPS/SAS/TJR
+01/2022
 
 NUNA SERIES
 
@@ -106,7 +106,7 @@ Organic carbon--1 to 2 percent
 Reaction--5.0 to 6.5
 
 COMPETING SERIES:
-*Nikolai--Oi horizon present, total thickness of organic materials is 30 to 90 cm, depressions on till plains and coastal plains, slope range is 0 to 12 percent
+* Nikolai--Oi horizon present, total thickness of organic materials is 30 to 90 cm, depressions on till plains and coastal plains, slope range is 0 to 12 percent
 
 GEOGRAPHIC SETTING:
 *Elevation--50 to 400 m
@@ -116,7 +116,7 @@ GEOGRAPHIC SETTING:
 *Frost-free period--55 to 90 days
 
 GEOGRAPHICALLY ASSOCIATED SOILS:
-*Blackcove--total thickness of organic soil materials is greater than 130 cm, reaction is 4.5 to 6.0 in the organic soil layers; depressions in valleys and hills
+* Blackcove--total thickness of organic soil materials is greater than 130 cm, reaction is 4.5 to 6.0 in the organic soil layers; depressions in valleys and hills
 
 DRAINAGE AND SATURATED HYDRAULIC CONDUCTIVITY:
 *Drainage class--very poorly drained
@@ -141,9 +141,10 @@ Diagnostic horizons and features recognized in this pedon
 *Bottom tier--zone from 90 to 130 cm
 *Combined thickness of organic layers--115 cm
 *Aquic conditions--zone from 0 to 180 cm
-*Fibric soil materials--zone from 0 to 15 cm
+*Hemic soil materials--zone from 0 to 15 cm
 *Sapric soil materials--zone from 15 to 115 cm
 *Lithological discontinuity--zone from 115 to 180 cm
 
+________________________________________
 National Cooperative Soil Survey
 U.S.A.
