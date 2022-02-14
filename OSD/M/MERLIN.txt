@@ -2,14 +2,15 @@ LOCATION MERLIN                 OR+CA ID
 
 Established Series
 Rev. JSC/AON/SMM/CEG/JTW
-01/2020
+02/2022
 
 MERLIN SERIES
 
 Landscape--Lava plateaus
 Landform--hills, calderas, plug domes, deflation basins, lava plateaus
 Slope--0 to 40 percent
-Parent material--colluvium and residuum derived from tuff and basalt, with small amounts of volcanic ash in the upper part Mean annual precipitation--about 381 mm
+Parent material--colluvium and residuum derived from tuff and basalt, with an influence of volcanic ash in the upper part
+Mean annual precipitation--about 381 mm
 Mean annual air temperature--about 6.7 degrees C
 Depth class--shallow
 Drainage class--well drained
@@ -21,7 +22,7 @@ TAXONOMIC CLASS: Clayey, smectitic, frigid Lithic Argixerolls
 
 TYPICAL PEDON:  Merlin very cobbly ashy clay loam, rangeland, having 10 percent stones on the surface, at an elevation of 1383 m.
 
- A--0 to 10 cm; very dark brown (7.5YR 2/2) moist very cobbly ashy clay loam, brown (7.5YR 4/2) dry; weak thin platy structure parting to weak fine granular; hard, firm, moderately sticky and slightly plastic; common very fine roots; common very fine tubular pores; 20 percent indurated basalt gravel, and 20 percent indurated basalt cobbles; neutral (pH 6.6); clear wavy boundary
+ A--0 to 10 cm; very dark brown (7.5YR 2/2) moist extremely stony ashy clay loam, brown (7.5YR 4/2) dry; weak thin platy structure parting to weak fine granular; hard, firm, moderately sticky and slightly plastic; common very fine roots; common very fine tubular pores; 20 percent indurated basalt gravel, 20 percent indurated basalt cobbles, and 25 percent indurated basalt stones; neutral (pH 6.6); clear wavy boundary
 
  BAt--10 to 30 cm; dark brown (7.5YR 3/2) moist gravelly ashy clay loam, brown (7.5YR 4/3) dry; weak medium subangular blocky structure; hard, firm, moderately sticky and moderately plastic; common very fine roots; common very fine tubular pores; prominent continuous clay films on surface of peds, faint clay films in pores; 15 percent indurated basalt gravel and 2 percent indurated basalt cobbles; neutral (pH 6.6); clear wavy boundary
 
@@ -31,21 +32,14 @@ TYPICAL PEDON:  Merlin very cobbly ashy clay loam, rangeland, having 10 percent 
 
 TYPE LOCATION:  Klamath County, Oregon; about 3 miles east of the town of Bly; 25 m west and 500 m north of the southeast corner section 31, T. 36 S., R. 15 E.; Willamette Meridian; Campbell Reservoir, Oregon, U.S. Geological Survey quadrangle; latitude 42.4020004 north, longitude 120.9789200 west, datum WGS 84 (coordinates determined with a GPS)
 
-RANGE IN CHARACTERISTICS:  
+RANGE IN CHARACTERISTICS:
 
-*Average annual soil temperature--5.5 to 8.3 degrees C 
+*Mean annual soil temperature--5.5 to 8.3 degrees C 
+*Soil moisture control section--Surface to the lithic contact; dry in all parts for 60 to 90 days in the 4 month period following the summer solstice 
 *Mollic epipedon--18 to 40 cm thick
 *Organic matter content in the mollic epipedon--2 to 4 percent
-
-Soil moisture control section
-*Surface to the lithic contact
-*Dry in all parts for 60 to 90 days in the 4 month period following the summer solstice  
-
-Surface fragments
-*0 to 20 percent stones
-*0 to 5 percent boulders
-
-*Depth to indurated bedrock--25 to 50 cm 
+*Surface fragments--0 to 20 percent stones; 0 to 5 percent boulders
+*Depth to indurated bedrock--25 to 50 cm
 
 Present in some pedons
 *Paralithic layer above indurated bedrock--2.5 to 10 cm thick
@@ -55,47 +49,47 @@ Particle-size control section
 *may include the BAt transition horizon
 
 A horizons
-*Hue--7.5YR or 10YR
-*Value--2 or 3 moist, 4 or 5 dry
-*Chroma--2 or 3 moist and 1 through 3 dry
-*Fine-earth texture--ashy loam, ashy sandy loam, loam, or clay loam
-*Clay content--18 to 34 percent
-*Stone content--0 to 35 percent
-*Cobble content--8 to 35 percent
-*Gravel content--1 to 35 percent
-*Volcanic glass content--5 to 20 percent
-*Acid oxalate Al+1/2Fe--0.2 to .4 percent
-*Moist bulk density--1.0 to 1.2 g/cc
-*15 bar water retention--10 to 15 percent on air dried samples
-*Reaction--pH 6.1 to 7.8 slightly acid to slightly alkaline
-*Thickness--5 to 20 cm
+Hue--7.5YR or 10YR
+Value--2 or 3 moist, 4 or 5 dry
+Chroma--2 or 3 moist and 1 through 3 dry
+Fine-earth texture--ashy loam, ashy sandy loam, loam, or clay loam
+Clay content--18 to 34 percent
+Stone content--0 to 35 percent
+Cobble content--8 to 35 percent
+Gravel content--1 to 35 percent
+Volcanic glass content--5 to 20 percent
+Acid oxalate Al+1/2Fe--0.2 to .4 percent
+Moist bulk density--1.0 to 1.2 g/cc
+15 bar water retention--10 to 15 percent on air dried samples
+Reaction--pH 6.1 to 7.8 slightly acid to slightly alkaline
+Thickness--5 to 20 cm
 
 BAt horizons
-*Hue--7.5YR or 10YR
-*Value--3 or 4 moist, 4 or 5 dry
-*Chroma--2 or 3 moist and dry and ranges to 4 at depths of 7 inches or more 
-*Fine-earth texture--ashy clay loam
-*Cobble and stone content--0 to 5 percent
-*Gravel content--0 to 30 percent
-*Clay content--28 to 40 percent
-*Volcanic glass content--5 to 20 percent
-*Acid oxalate Al+1/2Fe--0.2 to .4 percent
-*Moist bulk density--1.0 to 1.2 g/cc
-*15 bar water retention--10 to 15 percent on air dried 
-*Reaction--6.6 to 7.8 neutral or slightly alkaline.
-*Thickness--8 to 25 cm
-*Combined thickness of the A and BAt horizons--greater than 18 cm
+Hue--7.5YR or 10YR
+Value--3 or 4 moist, 4 or 5 dry
+Chroma--2 or 3 moist and dry and ranges to 4 at depths of 7 inches or more 
+Fine-earth texture--ashy clay loam
+Cobble and stone content--0 to 10 percent
+Gravel content--0 to 30 percent
+Clay content--28 to 40 percent
+Volcanic glass content--5 to 20 percent
+Acid oxalate Al+1/2Fe--0.2 to .4 percent
+Moist bulk density--1.0 to 1.2 g/cc
+15 bar water retention--10 to 15 percent on air dried 
+Reaction--6.6 to 7.8 neutral or slightly alkaline.
+Thickness--8 to 25 cm
+Combined thickness of the A and BAt horizons--greater than 18 cm
 
 2Bt horizon
-*Hue--7.5 YR or 10YR
-*Value--3 or 4 moist and 4 or 5 dry
-*Chroma--3 or 4 moist and dry
-*Fine-earth texture--clay loam or clay
-*Cobble and stone content--0 to 3 percent
-*Gravel content--0 to 25 percent
-*Clay content--35 to 70 percent
-*Reaction--6.6 to 7.8 neutral or slightly alkaline
-*Thickness--8 to 28 cm
+Hue--7.5 YR or 10YR
+Value--3 or 4 moist and 4 or 5 dry
+Chroma--3 or 4 moist and dry
+Fine-earth texture--clay loam or clay
+Cobble and stone content--0 to 3 percent
+Gravel content--0 to 25 percent
+Clay content--35 to 70 percent
+Reaction--6.6 to 7.8 neutral or slightly alkaline
+Thickness--8 to 28 cm
 
 COMPETING SERIES:
 Alding--surface layer less than 18 cm that meets Vitrandic subgroup criteria; 20 percent or more absolute increase in clay (Pale feature) between the A and 2Bt horizon; mean July temperature less than 16.1 degrees C; mean January temperature less than -2.2 degrees C

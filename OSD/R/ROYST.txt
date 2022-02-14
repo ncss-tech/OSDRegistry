@@ -2,7 +2,7 @@ LOCATION ROYST                  OR+CA
 
 Established Series
 JSC/AON/TDT/JBF/CEG/JTW
-01/2020
+02/2022
 
 ROYST SERIES
 
@@ -39,15 +39,15 @@ TYPICAL PEDON: Royst very cobbly ashy loam, on a west facing hill under cover of
 TYPE LOCATION: Klamath County, Oregon; about 2 miles southwest of the community of Beatty, Oregon; about 200 m south and 245 m east of the northwest corner of sec. 28, T. 36 S., R. 12 E.; Willamette Meridian; Beatty, Oregon, U. S. Geological Survey quadrangle; latitude 42.4261639 degrees north, longitude 121.3073972 degrees west, datum WGS 84 (coordinates determined with a GPS)
 
 RANGE IN CHARACTERISTICS:
-*Mean annual soil temperature--7 to 8 degrees C 
-*Soil temperature--Above 5 degrees C from about March 15 to November 15
-*Soil moisture control section--10 to 30 cm; usually moist, but dry in all parts about 80 to 100 consecutive days following the summer solstice.
-*Depth to paralithic contact--50 to 97 cm (20 to 38 in); occurs immediately above the lithic contact
-*Depth to lithic contact--53 to 100 cm (21 to 40 in)
-*Mollic epipedon--50 to 76 cm thick and includes all or part of the argillic horizon
-*Base saturation in the mollic epipedon--75 to 100 percent (by NH4OAc) 
+Mean annual soil temperature--5 to 8 degrees C 
+Soil temperature--Above 5 degrees C from about March 15 to November 15
+Soil moisture control section--10 to 30 cm; usually moist, but dry in all parts about 80 to 100 consecutive days following the summer solstice.
+Depth to paralithic contact--50 to 97 cm (20 to 38 in); occurs immediately above the lithic contact
+Depth to lithic contact--53 to 100 cm (21 to 40 in)
+Mollic epipedon--50 to 76 cm thick and includes all or part of the argillic horizon
+Base saturation in the mollic epipedon--75 to 100 percent (by NH4OAc) 
 
-Estimated properties:
+Estimated properties, horizons above the lithologic discontinuity (A horizons):
 *Volcanic glass content--5 to 20 percent 
 *Acid oxalate Al+1/2Fe--0.2 to 0.4 percent 
 *Moist bulk density--1.0 to 1.2 g/cc
@@ -61,21 +61,22 @@ Particle-size control section
 *Rock fragment content--35 to 85 percent, weighted average
 
 A horizons
-*Hue--10YR, 7.5YR, 5YR
-*Value--2 or 3 moist, 4 or 5 dry
-*Chroma--1 to 3 moist and 1 to 4 dry
-*Rock fragments--25 to 60 percent
-*Reaction--Strongly acid to neutral
-*Thickness--15 to 38 cm
+Hue--10YR, 7.5YR, 5YR
+Value--2 to 3 moist, 4 or 5 dry
+Chroma--1 to 3 moist and 1 to 4 dry
+Fine-earth texture--ashy loam, ashy sandy loam
+Rock fragments--4 to 60 percent
+Reaction--Strongly acid to neutral
+Thickness--15 to 38 cm
 
 Bt horizons
-*Hue--5YR, 7.5YR, 10YR 
-*Value--3 or 4 moist, 4 through 6 dry
-*Chroma--2 through 4 moist and dry
-*Texture--clay or clay loam
-*Rock fragments--35 to 80 percent
-*Reaction--moderately acid to neutral
-*Thickness--23 to 65 cm
+Hue--5YR, 7.5YR, 10YR 
+Value--2.5 to 4 moist, 4 through 6 dry
+Chroma--2 through 4 moist and dry
+Texture--clay or clay loam
+Rock fragments--20 to 85 percent
+Reaction--moderately acid to neutral
+Thickness--23 to 65 cm
 
 COMPETING SERIES:
 Dupratt(T Oregon)--does not have a paralithic contact above the lithic contact at less than 100 cm; greater than 45 percent clay in the particle size control section
@@ -94,7 +95,7 @@ Wiltop--does not have a paralithic contact above the lithic contact at less than
 GEOGRAPHIC SETTING:
 Elevation--915 to 2015 m
 Climate--cold, wet winters and hot, dry summers 
-Mean annual precipitation--360 to 1145 mm
+Mean annual precipitation--330 to 1145 mm
 Mean annual air temperature--4 to 8 degrees C
 Frost-free period--40 to 80 days
 
@@ -125,7 +126,7 @@ Diagnostic horizons and features recognized in this pedon
 *Vitrandic soil properties--the zone from the surface to 30 cm 
 *Argillic horizon--Bt1, Bt2, and Bt3 horizons 
 *Particle-size control section--The zone from 30 to 71 cm 
-* Some pedons under trees can have an Oi horizon less than 3 cm thick, consisting of recent pine litter
+*Some pedons under trees can have an Oi horizon less than 3 cm thick, consisting of recent pine litter
 
 Additional Data:
 *NASIS User Site ID--03-SMM-003
