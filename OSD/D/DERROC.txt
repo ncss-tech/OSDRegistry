@@ -2,7 +2,7 @@ LOCATION DERROC                 VA
 
 Established Series
 Rev. LWH-WJE-MHC-DGF
-05/2004
+02/2022
 
 DERROC SERIES
 
@@ -12,17 +12,17 @@ TAXONOMIC CLASS: Loamy-skeletal, siliceous, active, mesic Dystric Fluventic Eutr
 
 TYPICAL PEDON: Derroc on a concave 2 percent slope in a forest. (Colors are for moist soil unless otherwise stated)
 
-     Oi--3 to 0 inches; loose leaves and twigs and very dark grayish brown (10YR 3/2) organic matter.
+     Oi--0 to 3 inches; loose leaves and twigs and very dark grayish brown (10YR 3/2) organic matter.
 
-     A--0 to 3 inches; dark brown (10YR 3/3) cobbly sandy loam; weak fine granular structure; friable, slightly sticky, slightly plastic; many fine and medium roots; few fine pores; 20 percent gravel and cobbles; moderately acid; abrupt smooth boundary. (0 to 9 inches thick)
+     A--3 to 6 inches; dark brown (10YR 3/3) cobbly sandy loam; weak fine granular structure; friable, slightly sticky, slightly plastic; many fine and medium roots; few fine pores; 20 percent gravel and cobbles; moderately acid; abrupt smooth boundary. (0 to 9 inches thick)
 
-     Bw1--3 to 12 inches; yellowish brown (10YR 5/6) very cobbly sandy loam; weak fine subangular blocky structure; friable, slightly sticky, slightly plastic; many fine and medium roots; few fine pores; 40 percent gravel and cobbles; moderately acid; clear wavy boundary.
+     Bw1--6 to 15 inches; yellowish brown (10YR 5/6) very cobbly sandy loam; weak fine subangular blocky structure; friable, slightly sticky, slightly plastic; many fine and medium roots; few fine pores; 40 percent gravel and cobbles; moderately acid; clear wavy boundary.
 
-     Bw2--12 to 37 inches; yellowish brown (10YR 5/6) extremely cobbly sandy loam; weak fine and medium subangular blocky structure; very friable; few fine and medium roots; few organic stains on faces of rock fragments; 65 percent sandstone gravel and cobbles; moderately acid; clear smooth boundary. (Combined thickness of the Bw horizon is 20 to 35 inches)
+     Bw2--15 to 40 inches; yellowish brown (10YR 5/6) extremely cobbly sandy loam; weak fine and medium subangular blocky structure; very friable; few fine and medium roots; few organic stains on faces of rock fragments; 65 percent sandstone gravel and cobbles; moderately acid; clear smooth boundary. (Combined thickness of the Bw horizon is 20 to 35 inches)
 
-     C1--37 to 46 inches; yellowish brown (10YR 5/6) very cobbly loamy sand; single grained; loose; few fine roots; 40 percent gravel and cobbles; moderately acid; clear wavy boundary.
+     C1--40 to 49 inches; yellowish brown (10YR 5/6) very cobbly loamy sand; single grained; loose; few fine roots; 40 percent gravel and cobbles; moderately acid; clear wavy boundary.
 
-     C2--46 to 65 inches; yellowish brown (10YR 5/6) very cobbly sandy loam; weak medium and coarse subangular blocky structure; friable, slightly sticky, slightly plastic; few fine roots; common distinct light brownish gray (10YR 6/2) redoximorphic depletions; 40 percent gravel and cobbles; moderately acid.
+     C2--49 to 68 inches; yellowish brown (10YR 5/6) very cobbly sandy loam; weak medium and coarse subangular blocky structure; friable, slightly sticky, slightly plastic; few fine roots; common distinct light brownish gray (10YR 6/2) redoximorphic depletions; 40 percent gravel and cobbles; moderately acid.
 
 TYPE LOCATION: Shenandoah County, Virginia; 0.6 mile south of intersection of VA-678 and VA-613, 800 feet west of Passage Creek on the Shenandoah-Warren County line.
 
@@ -55,12 +55,14 @@ MLRA SOIL SURVEY REGIONAL OFFICE (MO) RESPONSIBLE: Morgantown, West Virginia
 SERIES ESTABLISHED: Shenandoah County, Virginia, 1988.
 
 REMARKS: Diagnostic horizons and features recognized in this pedon are:
-1. Ochric epipedon - the zone from 0 to 3 inches. (the A horizon)
-2. Cambic horizon - the zone from 3 to 37 inches. (Bw horizon)
+1. Ochric epipedon - the zone from 3 to 6 inches. (the A horizon)
+2. Cambic horizon - the zone from 6 to 40 inches. (Bw horizon)
 3. Fluventic feature - irregular decrease in organic-carbon content.
 4. Udic moisture regime.
 
 Soils now within the range of the Derroc series were correlated Craigsville in several published soil surveys.
+
+02/2022 revision: Oi had 3 to 0 inch depths, corrected to be 0 to 3 in horizon depths then added 3 inches to all horizon depths throughout the typical pedon. WJN
 
 ADDITIONAL DATA: Morphological, chemical, textural, and mineralogical data are reported in:
 

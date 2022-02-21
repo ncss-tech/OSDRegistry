@@ -2,7 +2,7 @@ LOCATION TREVLAC                IN
 
 Established Series
 Rev. TRZ-RAN-JDL
-09/2003
+02/2022
 
 TREVLAC SERIES
 
@@ -12,21 +12,21 @@ TAXONOMIC CLASS: Loamy-skeletal, mixed, active, mesic Typic Hapludults
 
 TYPICAL PEDON:  Trevlac silt loam - on a north-facing convex slope of 31 percent in a hardwood forest.  (Colors are for moist soil unless otherwise stated.)
 
-   Oe--1 to 0 inches; roots and partially decomposed leaves.
+   Oe--0 to 1 inch; roots and partially decomposed leaves.
 
-   A--0 to 2 inches; very dark grayish brown (10YR 3/2) silt loam; grayish brown (10YR 5/2) dry; moderate medium granular structure; friable; many medium roots; about 5 percent coarse fragments; neutral; clear smooth boundary.  (1 to 4 inches thick)
+   A--1 to 3 inches; very dark grayish brown (10YR 3/2) silt loam; grayish brown (10YR 5/2) dry; moderate medium granular structure; friable; many medium roots; about 5 percent coarse fragments; neutral; clear smooth boundary.  (1 to 4 inches thick)
 
-   E--2 to 6 inches; yellowish brown (10YR 5/4) silt loam; moderate medium granular structure; friable; many medium and coarse roots; about 10 percent coarse fragments; strongly acid; clear wavy boundary.  (0 to 8 inches thick)
+   E--3 to 7 inches; yellowish brown (10YR 5/4) silt loam; moderate medium granular structure; friable; many medium and coarse roots; about 10 percent coarse fragments; strongly acid; clear wavy boundary.  (0 to 8 inches thick)
 
-   BE--6 to 12 inches; yellowish brown (10YR 5/4) silt loam; weak fine subangular blocky structure; friable; many medium and coarse roots; about 8 percent coarse fragments; very strongly acid; gradual wavy boundary.  (0 to 7 inches thick)
+   BE--7 to 13 inches; yellowish brown (10YR 5/4) silt loam; weak fine subangular blocky structure; friable; many medium and coarse roots; about 8 percent coarse fragments; very strongly acid; gradual wavy boundary.  (0 to 7 inches thick)
 
-   Btl--12 to 19 inches; yellowish brown (10YR 5/6) very channery silt loam; weak fine subangular blocky structure; friable; common medium roots; thin continuous dark brown (7.5YR 4/4) clay films on faces of peds; 40 percent siltstone fragments up to 3 inches in length; strongly acid; gradual wavy boundary.
+   Btl--13 to 20 inches; yellowish brown (10YR 5/6) very channery silt loam; weak fine subangular blocky structure; friable; common medium roots; thin continuous dark brown (7.5YR 4/4) clay films on faces of peds; 40 percent siltstone fragments up to 3 inches in length; strongly acid; gradual wavy boundary.
 
-   Bt2--19 to 30 inches; yellowish brown (10YR 5/6) extremely channery silt loam; moderate fine subangular blocky structure; friable; common fine and medium roots; thin continuous dark brown (7.5YR 4/4) clay films on faces of peds; 65 percent siltstone fragments up to 3 inches in length; strongly acid; gradual wavy boundary.
+   Bt2--20 to 31 inches; yellowish brown (10YR 5/6) extremely channery silt loam; moderate fine subangular blocky structure; friable; common fine and medium roots; thin continuous dark brown (7.5YR 4/4) clay films on faces of peds; 65 percent siltstone fragments up to 3 inches in length; strongly acid; gradual wavy boundary.
 
-   Bt3--30 to 36 inches; yellowish brown (10YR 5/6) extremely channery silt loam; moderate fine subangular blocky structure; friable; common fine and medium roots; thin discontinuous dark brown (7.5YR 4/4) clay films on faces of peds; 70 percent siltstone fragments up to 3 inches in length; strongly acid; clear wavy boundary.  (Combined thickness of the Bt horizons is 12 to 32 inches.)
+   Bt3--31 to 37 inches; yellowish brown (10YR 5/6) extremely channery silt loam; moderate fine subangular blocky structure; friable; common fine and medium roots; thin discontinuous dark brown (7.5YR 4/4) clay films on faces of peds; 70 percent siltstone fragments up to 3 inches in length; strongly acid; clear wavy boundary.  (Combined thickness of the Bt horizons is 12 to 32 inches.)
 
-   Cr--36 inches; weathered interbedded siltstone, shale, and sandstone.
+   Cr--37 inches; weathered interbedded siltstone, shale, and sandstone.
 
 TYPE LOCATION:  Brown County, Indiana; about 2 miles south of Belmont; 580 feet south and 75 feet east of the center of sec. 24, T. 8 N., R. 1 E.
 
@@ -58,7 +58,9 @@ MLRA SOIL SURVEY REGIONAL OFFICE (MO) RESPONSIBLE:  Morgantown, West Virginia
 
 SERIES ESTABLISHED:  Brown County, Indiana, l985.
 
-REMARKS:  Diagnostic horizons and features recognized in this pedon are:  ochric epipedon - 0 to 12 inches (A, E, BE horizons); argillic horizon - 12 to 30 inches (Bt1, Bt2, Bt3 horizons).
+REMARKS:  Diagnostic horizons and features recognized in this pedon are:  ochric epipedon - 0 to 13 inches (A, E, BE horizons); argillic horizon - 13 to 31 inches (Bt1, Bt2, Bt3 horizons).
+
+2/2022 revision: Oi had 1 to 0 inch depths, corrected to be 0 to 1 in horizon depths then added 1 inch to all horizon depths throughout the typical pedon. WJN
 
 ADDITIONAL DATA:  Purdue University Soil Characterization Laboratory File No. BR8106
 

@@ -2,7 +2,7 @@ LOCATION OCONALUFTEE            NC+TN
 
 Established Series
 MLS:MSH:RAG; Rev. BPS
-02/2011
+02/2022
 
 OCONALUFTEE SERIES
 
@@ -12,15 +12,15 @@ TAXONOMIC CLASS: Fine-loamy, isotic, frigid Typic Humudepts
 
 TYPICAL PEDON: Oconaluftee channery loam on a 64 percent northwest facing side slope at an elevation of 5052 feet--Forested (Colors are for moist soil.)
 
-    Oe--2 to 0 inches; partially decomposed organic litter and root mat.
+    Oe--0 to 2 inches; partially decomposed organic litter and root mat.
 
-    A1--0 to 8 inches; black (10YR 2/1) channery loam; weak fine granular structure; very friable; many fine and medium roots; 25 percent phyllite and metasandstone channers and flagstones; common fine flakes of mica; extremely acid; clear wavy boundary.  (6 to 12 inches thick)
+    A1--2 to 10 inches; black (10YR 2/1) channery loam; weak fine granular structure; very friable; many fine and medium roots; 25 percent phyllite and metasandstone channers and flagstones; common fine flakes of mica; extremely acid; clear wavy boundary.  (6 to 12 inches thick)
 
-    A2--8 to 19 inches; dark brown (10YR 3/3) channery loam; weak medium granular structure; very friable; common fine and medium roots; 20 percent phyllite and metasandstone channers; common fine flakes of mica; strongly acid; clear wavy boundary.  (4 to 14 inches thick; combined thickness of the A subhorizons is 10 to 20 inches.)
+    A2--10 to 21 inches; dark brown (10YR 3/3) channery loam; weak medium granular structure; very friable; common fine and medium roots; 20 percent phyllite and metasandstone channers; common fine flakes of mica; strongly acid; clear wavy boundary.  (4 to 14 inches thick; combined thickness of the A subhorizons is 10 to 20 inches.)
 
-     Bw--19 to 35 inches; dark yellowish brown (10YR 4/4) channery fine sandy loam; weak medium subangular blocky structure; very friable; few fine and medium roots; 20 percent phyllite and metasandstone channers; common fine flakes of mica; very strongly acid; gradual wavy boundary.  (12 to 35 inches thick)
+     Bw--21 to 37 inches; dark yellowish brown (10YR 4/4) channery fine sandy loam; weak medium subangular blocky structure; very friable; few fine and medium roots; 20 percent phyllite and metasandstone channers; common fine flakes of mica; very strongly acid; gradual wavy boundary.  (12 to 35 inches thick)
 
-    C--35 to 67 inches; olive brown (2.5Y 4/4), very pale brown (10YR 8/2), gray (10YR 6/1), and black (10YR 2/1) saprolite that has a channery fine sandy loam texture; weathered from interbedded phyllite and metasandstone; rock controlled structure; few fine and medium roots; 25 percent phyllite and metasandstone channers; common fine flakes of mica; strongly acid.
+    C--37 to 69 inches; olive brown (2.5Y 4/4), very pale brown (10YR 8/2), gray (10YR 6/1), and black (10YR 2/1) saprolite that has a channery fine sandy loam texture; weathered from interbedded phyllite and metasandstone; rock controlled structure; few fine and medium roots; 25 percent phyllite and metasandstone channers; common fine flakes of mica; strongly acid.
 
 TYPE LOCATION: Jackson County, North Carolina; 7.8 miles northeast of Cherokee on U.S. Highway 19 to Soco Gap; 2.6 miles northwest on Blue Ridge Parkway; 400 feet west of Parkway at west end of Bunches Bald Tunnel.
 
@@ -54,11 +54,13 @@ REMARKS: The Oconaluftee series was formerly included with the Burton and Porter
 
 The Oconaluftee series has the following diagnostic horizons:
 
-Umbric epipedon - The zone from the mineral surface to 19 inches (Al and A2 Horizons.)
+Umbric epipedon - The zone from the mineral surface to 21 inches (Al and A2 Horizons.)
 
-Cambic horizon - The zone from 19 to 35 inches below the surface (Bw horizon).
+Cambic horizon - The zone from 21 to 37 inches below the surface (Bw horizon).
 
 Revised  02/11-BPS: Taxonomic Classification -- 11th Keys, update competing and associated series, MLRA clarification	
+
+2/2022 revision: Oe had 2 to 0 inch depths, corrected to be 0 to 2 in horizon depths then added 2 inches to all horizon depths throughout the typical pedon. WJN
 
 National Cooperative Soil Survey
 U.S.A.

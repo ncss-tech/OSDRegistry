@@ -2,7 +2,7 @@ LOCATION STUMPTOWN              VA+MD
 
 Established Series
 Rev. RSW-JHE-DDR
-05/2001
+02/2022
 
 STUMPTOWN SERIES
 
@@ -12,19 +12,19 @@ TAXONOMIC CLASS: Loamy-skeletal, mixed, active, mesic Inceptic Hapludults
 
 TYPICAL PEDON:  Stumptown very flaggy loam on 15 to 25 percent slopes in a mixed hardwood forest dominated by chestnut oak.  (Colors are for moist soil)
 
-    0--1 to 0 inch; partially decomposed hardwood leaves and twigs.
+    O--0 to 1 inch; partially decomposed hardwood leaves and twigs.
 
-    A--0 to 2 inches; dark grayish brown (10YR 4/2) very flaggy loam; moderate fine granular structure; very friable; many fine medium and coarse roots; 45 percent quartzite flagstone; very strongly acid; clear smooth boundary.  (1 to 4 inches thick)
+    A--1 to 3 inches; dark grayish brown (10YR 4/2) very flaggy loam; moderate fine granular structure; very friable; many fine medium and coarse roots; 45 percent quartzite flagstone; very strongly acid; clear smooth boundary.  (1 to 4 inches thick)
 
-    E--2 to 12 inches; light yellowish brown (10YR 6/4) very flaggy loam, moderate fine granular structure; very friable; many fine, medium and coarse roots; 45 percent quartzite gravel and flagstone; few fine mica flakes; very strongly acid; clear smooth boundary.  (2 to 15 inches thick)
+    E--3 to 13 inches; light yellowish brown (10YR 6/4) very flaggy loam, moderate fine granular structure; very friable; many fine, medium and coarse roots; 45 percent quartzite gravel and flagstone; few fine mica flakes; very strongly acid; clear smooth boundary.  (2 to 15 inches thick)
 
-    Bt--12 to 20 inches; brownish yellow (10YR 6/6) very flaggy clay loam; common medium distinct strong brown (7.5YR 5/6) streaks and mottles; weak fine and medium subangular blocky structure.  Friable; common fine, medium and coarse roots; few thin clay films on ped faces; many fine mica flakes; 45 percent quartzite gravel and flagstone; very strongly acid; clear irregular boundary.  (3 to 12 inches thick)
+    Bt--13 to 21 inches; brownish yellow (10YR 6/6) very flaggy clay loam; common medium distinct strong brown (7.5YR 5/6) streaks and mottles; weak fine and medium subangular blocky structure.  Friable; common fine, medium and coarse roots; few thin clay films on ped faces; many fine mica flakes; 45 percent quartzite gravel and flagstone; very strongly acid; clear irregular boundary.  (3 to 12 inches thick)
 
-    C--20 to 27 inches; varigated in shades of brown, yellow, red and white; extremely flaggy sandy loam; massive; very friable; many fine and medium roots; many fine mica flakes; 60 percent quartzite flagstones; very strongly acid; clear irregular boundary.
+    C--21 to 28 inches; varigated in shades of brown, yellow, red and white; extremely flaggy sandy loam; massive; very friable; many fine and medium roots; many fine mica flakes; 60 percent quartzite flagstones; very strongly acid; clear irregular boundary.
 
-    2Cr--27 to 33 inches; interbedded quartzite and partially weathered quartz muscovite mica schist with loamy soil material in rock crevices.
+    2Cr--28 to 34 inches; interbedded quartzite and partially weathered quartz muscovite mica schist with loamy soil material in rock crevices.
 
-    2R--33 inches; bedrock of quartzite and quartz muscovite mica schist.
+    2R--34 inches; bedrock of quartzite and quartz muscovite mica schist.
 
 TYPE LOCATION:  Prince William Co., Virginia; in Bull Run Mountain Estates about 100 feet west of Jackson drive and about 200 feet north of Sumney drive.
 
@@ -59,10 +59,13 @@ MLRA SOIL SURVEY REGIONAL OFFICE (MO) RESPONSIBLE: Morgantown, West Virginia
 SERIES ESTABLISHED:  Prince William County, Virginia, 1985.
 
 REMARKS:  This soil has previously been included in Buckingham series, a Pennsylvania soil now on the inactive list.  Lab data from VPI&SU lab.  Diagnostic horizons or features recognized in this pedon are:
-1. Ochric epipedon-from mineral surface to 12 inches (A and E horizons) 2. Argillic horizon-from 12 to 20 inches (Bt horizon)
-3. Paralithic contact at 27 inches
-4. Lithic contact at 33 inches
-5. Discontinuity at 27 inches
+1. Ochric epipedon-from mineral surface to 13 inches (A and E horizons) 
+2. Argillic horizon-from 13 to 21 inches (Bt horizon)
+3. Paralithic contact at 28 inches
+4. Lithic contact at 34 inches
+5. Discontinuity at 28 inches
+
+02/2022 revision: O had 1 to 0 inch depths, corrected to be 0 to 1 in horizon depths then added 1 inch to all horizon depths throughout the typical pedon.
 
 MLRA=148, 149A
 SIR=VA0073

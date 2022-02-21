@@ -2,7 +2,7 @@ LOCATION ALBANO                 VA
 
 Established Series
 Rev. DDR, MAV
-11/2005
+02/2022
 
 ALBANO SERIES
 
@@ -12,9 +12,9 @@ TAXONOMIC CLASS: Fine, mixed, active, mesic Typic Endoaqualfs
 
 TYPICAL PEDON:  Albano silt loam - on a one percent slope in a wooded area. (Colors are for moist soil.)
 
-    0--0.25 to 0 inch; thin layer of leaves and twigs underlain by black decomposed forest litter.
+    Oe--0 to 0.25 inch; thin layer of leaves and twigs underlain by black decomposed forest litter.
 
-    A--0 to 2 inches; very dark gray (10YR 3/1) silt loam; moderate fine and very fine granular structure; friable; many fine roots; very strongly acid; clear smooth boundary.  (0 to 5 inches thick)
+    A--0.25 to 2 inches; very dark gray (10YR 3/1) silt loam; moderate fine and very fine granular structure; friable; many fine roots; very strongly acid; clear smooth boundary.  (0 to 5 inches thick)
 
     Eg--2 to 10 inches; dark grayish brown (2.5Y 4/2) silt loam; few medium distinct brownish yellow (10YR 6/6) mottles; moderate fine granular structure; friable; many fine and medium roots; very strongly acid; clear smooth boundary.  (0 to 15 inches thick)
 
@@ -66,11 +66,13 @@ REMARKS:  Albano series includes that part of the soils formerly included in the
 
 Changed C and R horizons to a 2C and 2R to reflect the lithologic discontinuity that is present. (MAV 1/05)
 
-02/2005 added statement about frequent, extremely brief, flash flooding in the geographic setting. 
+02/2005 added statement about frequent, extremely brief, flash flooding in the geographic setting.
+
+02/2022 revision: Oe had 0.25 to 0 inch depth, corrected to be 0 to 0.25 in horizon depth. A Horizon depth was adjusted to 0.25 to 2 inches. No other horizons were adjusted.  WJN
 
 Diagnostic horizons and features recognized in this pedon are:
 
-1.  Ochric epipedon-the zone from 0 to 10 inches (A and BEg horizons) 
+1.  Ochric epipedon-the zone from 0.25 to 10 inches (A and BEg horizons) 
 2.  Albic horizon-the zone from 2 to 10 inches (Eg horizon)
 3.  Argillic horizon-the zone from 10 to 39 inches (Btg and BCtg horizons)
 4.  Lithologic discontinuity at 39 inches (2C horizon)

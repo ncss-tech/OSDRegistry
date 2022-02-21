@@ -2,7 +2,7 @@ LOCATION SHERANDO               VA
 
 Established Series
 Rev.  DDR, DGF
-01/2006
+02/2022
 
 SHERANDO SERIES
 
@@ -10,24 +10,23 @@ Soils of the Sherando series are very deep and well drained to somewhat excessiv
 
 TAXONOMIC CLASS: Loamy-skeletal, siliceous, active, mesic Typic Dystrudepts
 
-TYPICAL PEDON:  Sherando sandy loam - forested
-                (Colors are for moist soil.)
+TYPICAL PEDON:  Sherando sandy loam - forested (Colors are for moist soil.)
 
-    O--1 to 0 inches; leaves, twigs and partially decomposed organic matter.
+    O--0 to 1 inches; leaves, twigs and partially decomposed organic matter.
 
-    A--0 to 2 inches; dark grayish brown (10YR 4/2 sandy loam, weak coarse granular structure; friable; many roots; 10 percent gravel; extremely acid; clear smooth boundary.  (0 to 4 inches thick)
+    A--1 to 3 inches; dark grayish brown (10YR 4/2) sandy loam, weak coarse granular structure; friable; many roots; 10 percent gravel; extremely acid; clear smooth boundary.  (0 to 4 inches thick)
 
-    E--2 to 6 inches; pale brown (10YR 6/3) sandy loam; weak coarse granular structure; friable; many roots; 10 percent gravel; very strongly acid; clear wavy boundary.  (0 to 8 inches thick)
+    E--3 to 7 inches; pale brown (10YR 6/3) sandy loam; weak coarse granular structure; friable; many roots; 10 percent gravel; very strongly acid; clear wavy boundary.  (0 to 8 inches thick)
 
-    BE--6 to 15 inches; light yellowish brown (10YR 6/4) gravelly sandy loam; weak fine subangular blocky structure; friable; common roots; 20 percent gravel; very strongly acid; clear wavy boundary.  (0 to 12 inches thick)
+    BE--7 to 16 inches; light yellowish brown (10YR 6/4) gravelly sandy loam; weak fine subangular blocky structure; friable; common roots; 20 percent gravel; very strongly acid; clear wavy boundary.  (0 to 12 inches thick)
 
-    Bw1--15 to 30 inches; yellowish brown (10YR 5/6) very gravelly sandy loam; weak medium subangular blocky structure; friable; common roots; 55 percent gravel and cobblestones ; very strongly acid; clear wavy boundary.  (6 to 25 inches thick)
+    Bw1--16 to 31 inches; yellowish brown (10YR 5/6) very gravelly sandy loam; weak medium subangular blocky structure; friable; common roots; 55 percent gravel and cobblestones ; very strongly acid; clear wavy boundary.  (6 to 25 inches thick)
 
-    Bw2--30 to 45 inches; yellowish brown (10YR 5/8) very gravelly sandy loam; weak fine subangular blocky and weak fine granular structure; friable; common roots; 60 percent gravel and cobblestones; very strongly acid; gradual smooth boundary.  (4 to 24 inches thick)
+    Bw2--31 to 46 inches; yellowish brown (10YR 5/8) very gravelly sandy loam; weak fine subangular blocky and weak fine granular structure; friable; common roots; 60 percent gravel and cobblestones; very strongly acid; gradual smooth boundary.  (4 to 24 inches thick)
 
-    C1--45 to 55 inches; yellowish brown (10YR 5/8) extremely gravelly sandy loam; massive; friable; common roots; 70 percent gravel and cobblestones; very strongly acid; clear wavy boundary.  (0 to 25 inches thick)
+    C1--46 to 56 inches; yellowish brown (10YR 5/8) extremely gravelly sandy loam; massive; friable; common roots; 70 percent gravel and cobblestones; very strongly acid; clear wavy boundary.  (0 to 25 inches thick)
 
-    C2--55 to 75 inches; yellowish brown (10YR 5/8) extremely gravelly loamy sand; massive; very friable; few roots; 70 percent gravel and cobblestones; very strongly acid.
+    C2--56 to 76 inches; yellowish brown (10YR 5/8) extremely gravelly loamy sand; massive; very friable; few roots; 70 percent gravel and cobblestones; very strongly acid.
 
 TYPE LOCATION:  Augusta County, Virginia; one-half mile north of intersection of U.S. Forest Service Roads 42 and 43, 100 yards west of Road 43 on a 270 degrees bearing; 4 miles south of Stuarts Draft in George Washington National Forest.
 
@@ -57,13 +56,15 @@ MLRA SOIL SURVEY REGIONAL OFFICE (MO) RESPONSIBLE: Morgantown, West Virginia
 
 SERIES ESTABLISHED:  Augusta County, Virginia, 1977.
 
-REMARKS:  The major diagnostic horizons recognized in this pedon are the alluvial E horizon from 2 to 6 inches and the cambic horizon from 15 to 45 inches.
+REMARKS:  The major diagnostic horizons recognized in this pedon are the alluvial E horizon from 3 to 7 inches and the cambic horizon from 16 to 46 inches.
 
 CEC class based on similar soils and laboratory data. 
 The 1/2006 revision updates this soil to the 9th Edition of the Keys to Soil Taxonomy (2003). The CEC activity class placement is based on similar soils. Class placement may be revised in the future when additional laboratory data becomes available.
 
 Competing series, pedon descriptions (including horizon nomenclature and/or descriptive terms), and other sections on the OSD were not revised. 
 Previous revision date: 3/85
+
+2/2022 revision: O had 1 to 0 inch depths, corrected to be 0 to 1 in horizon depths then added 1 inch to all horizon depths throughout the typical pedon. WJN
 
 ADDITIONAL DATA:  Mechanical analysis (U.S. Forest Service,hydrometer method, Profile No. 162) and chemical analysis (V.P.I. Soil Testing Laboratory) available for samples of horizons of typifying pedon.
 

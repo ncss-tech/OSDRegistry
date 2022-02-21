@@ -2,7 +2,7 @@ LOCATION DONAHUE                KY
 
 Established Series
 Rev. JHN:JMR:JDM
-10/2005
+02/2022
 
 DONAHUE SERIES
 
@@ -12,19 +12,19 @@ TAXONOMIC CLASS: Fine, mixed, active, mesic Typic Hapludalfs
 
 TYPICAL PEDON: Donahue sandy loam - wooded. (Colors are for moist soil.) 
 
-	0i--1.5 to 0 inches; undecomposed hardwood leaf litter; abrupt smooth boundary. 
+	Oi--0 to 1.5 inches; undecomposed hardwood leaf litter; abrupt smooth boundary. 
 
-	Ap--0 to 4 inches; grayish brown (10YR 5/2) sandy loam; weak medium granular structure; very friable; common roots; 3 percent sandstone fragments; very strongly acid; clear smooth boundary. (2 to 5 inches thick) 
+	Ap--1.5  to 5.5 inches; grayish brown (10YR 5/2) sandy loam; weak medium granular structure; very friable; common roots; 3 percent sandstone fragments; very strongly acid; clear smooth boundary. (2 to 5 inches thick) 
 
-	BE--4 to 9 inches; light yellowish brown (10YR 6/4) loam; weak fine subangular blocky structure; very friable; common roots; 2 percent sandstone fragments; very strongly acid; clear wavy boundary. (0 to 10 inches thick) 
+	BE--5.5  to 10.5 inches; light yellowish brown (10YR 6/4) loam; weak fine subangular blocky structure; very friable; common roots; 2 percent sandstone fragments; very strongly acid; clear wavy boundary. (0 to 10 inches thick) 
 
-	Bt1--9 to 15 inches; yellowish brown (10YR 5/6) clay loam; moderate fine subangular blocky structure; firm; few roots; 4 percent sandstone fragments; common thin clay films; strongly acid; clear wavy boundary. (5 to 15 inches thick) 
+	Bt1--10.5 to 16.5 inches; yellowish brown (10YR 5/6) clay loam; moderate fine subangular blocky structure; firm; few roots; 4 percent sandstone fragments; common thin clay films; strongly acid; clear wavy boundary. (5 to 15 inches thick) 
 
-	2Bt2--15 to 22 inches; strong brown (7.5YR 5/6) silty clay; common medium faint brown (10YR 4/3) lithochromic mottles; moderate medium angular blocky structure; firm; few roots; many thin clay films; few small brown and black concretions and stains; moderately acid; gradual wavy boundary. (5 to 20 inches thick) 
+	2Bt2--16.5 to 23.5 inches; strong brown (7.5YR 5/6) silty clay; common medium faint brown (10YR 4/3) lithochromic mottles; moderate medium angular blocky structure; firm; few roots; many thin clay films; few small brown and black concretions and stains; moderately acid; gradual wavy boundary. (5 to 20 inches thick) 
 
-	2Bt3--22 to 34 inches; strong brown (7.5YR 5/6) clay; common medium faint yellowish brown (10YR 5/4) and yellowish red (5YR 4/6) lithochromic mottles; weak fine angular blocky structure; very firm; few roots; common thin clay films; few brown and black concretions and stains; neutral; abrupt smooth boundary. (0 to 20 inches thick) 
+	2Bt3--23.5 to 35.5 inches; strong brown (7.5YR 5/6) clay; common medium faint yellowish brown (10YR 5/4) and yellowish red (5YR 4/6) lithochromic mottles; weak fine angular blocky structure; very firm; few roots; common thin clay films; few brown and black concretions and stains; neutral; abrupt smooth boundary. (0 to 20 inches thick) 
 
-	2R--34 inches; gray massive limestone. 
+	2R--35.5 inches; gray massive limestone. 
 
 TYPE LOCATION: Menifee County, Kentucky, in a south facing cove along Leatherwood Creek in the Daniel Boone National Forest west of Cave Run Lake; about 2000 feet north west of the confluence of Leatherwood Creek and Joes Branch; about 12 miles northeast of Frenchburg: 38 degrees, 02 minutes, 04 seconds N. Latitude and 83 degrees, 32 minutes, 36 seconds W. Longitude; NAD 27. 
 
@@ -37,9 +37,9 @@ RANGE IN CHARACTERISTICS: Depth to bedrock and thickness of solum range from 20 
 	The Bt horizon has hue of 5YR to 10YR, value of 4 or 5 and chroma of 4 to 6. Texture is loam, sandy clay loam or clay loam. The 2Bt horizon has hue of 2.5YR to 7.5YR, value of 4 or 5 and chroma of 4 to 8. Lithochromic mottles in shades of yellow, brown, or red are common. Texture is silty clay or clay. 
 
 	The C horizon, where present, has hue of 2.5YR to 10YR, value of 4 or 5 and chroma of 2 to 6. Lithochromic mottles in shades of gray, brown, yellow or red are common. Texture is silty clay or clay. A thin Cr horizon overlying limestone bedrock is present in some horizons
-	
+
 	The R horizon is unweathered limestone interbedded with thin bands of calcareous shale.
- 
+
 COMPETING SERIES: These are the Beasley, Bledsoe, Bonnell, Bucklick, Caneyville, Cosperville, Eden, Enott, Estate, Faywood, Fredonia,  Haggatt, Heverlo, Kewaunee, Lowell, Markland, Milton, Mountpleasant, Muncie, and Vandalia series in the same family, the Brashear and Heitt soils that have not yet been assigned to an activity class, and the tentative Solway series. Beasley, Bledsoe, Bonnell, Brashear, Bucklick, Estate, Heitt, Kewaunee, Lowell, Markland and Vandalia soils are greater than 40 inches to lithic or paralithic contact. Caneyville, Eden, Faywood, Fredonia and Solway soils have less than 20 percent sand in the upper part of the solum and do not have a lithologic discontinuity within a depth of 12 to 24 inches. Cosperville, Heverlo and Milton soils formed in glacial till or poorly sorted outwash. Enott soils formed in residuum weathered from intermediate mafic metamorphic or igneous rock. Haggatt soils are capped with up to 20 inches of loess.
 GEOGRAPHIC SETTING: Donahue soils are on steep hill slopes, toe slopes and benches with slopes of 6 to 60 percent. These soils formed in 12 to 24 inches of colluvium weathered mostly from sandstone over residuum from limestone interbedded with calcareous shales. Mean annual temperature ranges from 53 to 56 degrees F., and the mean annual precipitation ranges from 40 to 52 inches. 
 
@@ -57,9 +57,11 @@ SERIES ESTABLISHED: Menifee County, Kentucky; 1971.
 
 REMARKS: Donahue soils were formerly included with the Caneyville soils. 
 Diagnostic horizons and features recognized in this pedon are: 
-Ochric epipedon - 0 to 4 inches (Ap). 
-Argillic horizon - 9 to 34 inches (Bt1, 2Bt2, 2Bt3). 
-Lithic contact at a depth of 34 inches.
+Ochric epipedon - 0 to 5.5 inches (Ap). 
+Argillic horizon - 10.5 to 35.5 inches (Bt1, 2Bt2, 2Bt3). 
+Lithic contact at a depth of 35.5 inches.
+
+2/2022 revision: Oi had 1.5 to 0 inch depths, corrected to be 0 to 1.5 in horizon depths then added 1.5 inches to all horizon depths throughout the typical pedon. WJN
 
 National Cooperative Soil Survey
 U.S.A.

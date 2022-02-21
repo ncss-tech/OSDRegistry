@@ -2,7 +2,7 @@ LOCATION GAULEY                 WV
 
 Established Series
 Rev. DGF-ART-WFH
-06/2001
+02/2022
 
 GAULEY SERIES
 
@@ -12,21 +12,21 @@ TAXONOMIC CLASS: Loamy-skeletal, siliceous, superactive, frigid Typic Haplorthod
 
 TYPICAL PEDON:  Gauley channery sandy loam - wooded in an extremely stony area on a 3 percent, northeast-facing slope, at 4620 feet elevation, in a dense, young stand of red spruce.  (Colors are for moist soil.)
 
-    Oi--3 to 0 inches; fibric material consisting of red spruce, mountain laurel, and clubmoss litter.
+    Oi--0 to 3 inches; fibric material consisting of red spruce, mountain laurel, and clubmoss litter.
 
-    Oa--0 to 3 inches; black (5YR 2/1) sapric material.  (Combined thickness of the O horizons is 1 to 8 inches.)
+    Oa--3 to 6 inches; black (5YR 2/1) sapric material.  (Combined thickness of the O horizons is 1 to 8 inches.)
 
-    A--3 to 5 inches; black (N 2/0) channery sandy loam; weak fine and medium granular structure; friable; many fine, medium, and coarse roots; 30 percent rock fragments; very strongly acid; abrupt wavy boundary.  (1 to 4 inches thick)
+    A--6 to 8 inches; black (N 2/0) channery sandy loam; weak fine and medium granular structure; friable; many fine, medium, and coarse roots; 30 percent rock fragments; very strongly acid; abrupt wavy boundary.  (1 to 4 inches thick)
 
-    E--5 to 9 inches; brown (7.5YR 5/2) very channery sandy loam; weak fine and medium granular structure; firm; few fine medium and coarse roots; 40 percent rock fragments; very strongly acid; clear wavy boundary.  (2 to 12 inches thick)
+    E--8 to 12 inches; brown (7.5YR 5/2) very channery sandy loam; weak fine and medium granular structure; firm; few fine medium and coarse roots; 40 percent rock fragments; very strongly acid; clear wavy boundary.  (2 to 12 inches thick)
 
-    Bhs--9 to 12 inches; dark reddish brown (5YR 3/2) very channery sandy loam; weak medium subangular blocky structure; firm; moderately smeary; few fine medium and coarse roots; 40 percent rock fragments; very strongly acid; clear wavy boundary.  (3 to 10 inches thick)
+    Bhs--12 to 15 inches; dark reddish brown (5YR 3/2) very channery sandy loam; weak medium subangular blocky structure; firm; moderately smeary; few fine medium and coarse roots; 40 percent rock fragments; very strongly acid; clear wavy boundary.  (3 to 10 inches thick)
 
-    Bs--12 to 23 inches; strong brown (7.5YR 5/6) very channery loam; weak fine and medium subangular blocky structure; friable; weakly smeary; 40 percent rock fragments; very strongly acid; gradual wavy boundary.  (8 to 24 inches thick)
+    Bs--15 to 26 inches; strong brown (7.5YR 5/6) very channery loam; weak fine and medium subangular blocky structure; friable; weakly smeary; 40 percent rock fragments; very strongly acid; gradual wavy boundary.  (8 to 24 inches thick)
 
-    C--23 to 35 inches; yellowish brown (10YR 5/6) extremely channery loam; massive; friable; 70 percent rock fragments; very strongly acid; abrupt wavy boundary.
+    C--26 to 38 inches; yellowish brown (10YR 5/6) extremely channery loam; massive; friable; 70 percent rock fragments; very strongly acid; abrupt wavy boundary.
 
-    R--35 inches; olive gray (5Y 4/2) sandstone bedrock.
+    R--38 inches; olive gray (5Y 4/2) sandstone bedrock.
 
 TYPE LOCATION:  Pocahontas County, West Virginia; on Back Allegheny Mountain, 4000 feet north of the Cass Scenic Railroad observation platform and 600 feet northwest of microwave relay tower.
 
@@ -59,11 +59,13 @@ MLRA SOIL SURVEY REGIONAL OFFICE (MO) RESPONSIBLE: Morgantown, West Virginia
 SERIES ESTABLISHED:  Pocahontas County, West Virginia, 1988.  The name is from a mountain in the area.
 
 REMARKS:  1.  In West Virginia, these soils have formed on bedrock from the Kanawha and New River groups of the Pottsville Formation.  2. These soils were previously considered Leetonia (mesic) or included with Dekalb.  3.  Diagnostic horizons and features recognized in the typical pedon are:
-a.  Ochric epipedon - the zone from 3 to 9 inches (A and E horizons).
+a.  Ochric epipedon - the zone from 6 to 12 inches (A and E horizons).
 
-b.  Spodic horizon - the zone from 9 to 23 inches (Bhs and Bs horizons).
+b.  Spodic horizon - the zone from 12 to 26 inches (Bhs and Bs horizons).
 
 c.  Skeletal feature - approximately 56 percent (by volume) weighted average rock fragment in the 10 to 35 inch control section.
+
+2/2022 revision: Oi had 3 to 0 inch depths, corrected to be 0 to 3 in horizon depths then added 3 inches to all horizon depths throughout the typical pedon. WJN
 
 National Cooperative Soil Survey
 U.S.A.

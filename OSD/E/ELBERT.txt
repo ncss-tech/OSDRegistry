@@ -2,7 +2,7 @@ LOCATION ELBERT                 VA
 
 Established Series
 Rev. ACB,RRD
-01/2006
+02/2022
 
 ELBERT SERIES
 
@@ -12,29 +12,27 @@ TAXONOMIC CLASS: Fine, smectitic, mesic Typic Endoaqualfs
 
 TYPICAL PEDON:  Elbert silt loam - in a mixed hardwood forest. (Colors are for moist soil.)
 
-    0i--2 to 1 inch; loose leaves and twigs.
+    Oe--0 to 1 inch; partly decomposed black (10YR 2/1) organic matter.
 
-    0e--1 to 0 inch; partly decomposed black (10YR 2/1) organic matter.
+    A--1 to 3 inches; gray (5Y 5/1) silt loam; few medium distinct; weak fine and medium granular structure; friable; slightly sticky; many fine medium and coarse roots; few, medium, distinct light olive brown (2.5Y 5/4) soft masses of iron accumulation; slightly acid; abrupt smooth boundary.  (0 to 5 inches thick)
 
-    A--0 to 2 inches; gray (5Y 5/1) silt loam; few medium distinct; weak fine and medium granular structure; friable; slightly sticky; many fine medium and coarse roots; few, medium, distinct light olive brown (2.5Y 5/4) soft masses of iron accumulation; slightly acid; abrupt smooth boundary.  (0 to 5 inches thick)
+    Eg--3 to 6 inches; gray (10YR 5/1) silt loam; weak fine subangular blocky structure; few, fine, faint yellowish brown (10YR 5/4) soft masses of iron accumulation; few, fine, faint dark gray (10YR 4/1) redoximorphic depletions; friable; slightly sticky; common fine medium and large roots; moderately acid; clear wavy boundary.  (0 to 5 inches thick)
 
-    Eg--2 to 5 inches; gray (10YR 5/1) silt loam; weak fine subangular blocky structure; few, fine, faint yellowish brown (10YR 5/4) soft masses of iron accumulation; few, fine, faint dark gray (10YR 4/1) redoximorphic depletions; friable; slightly sticky; common fine medium and large roots; moderately acid; clear wavy boundary.  (0 to 5 inches thick)
+    BEg--6 to 12 inches; light gray to gray (10YR 6/1) silt loam; moderate medium subangular blocky structure; firm; slightly plastic, slightly sticky; common fine roots; common, fine, distinct strong brown (7.5YR 5/8) soft masses of iron accumulation; common, continuous gray silt coatings on faces of peds; strongly acid; clear wavy boundary.  (5 to 8 inches thick)
 
-    BEg--5 to 11 inches; light gray to gray (10YR 6/1) silt loam; moderate medium subangular blocky structure; firm; slightly plastic, slightly sticky; common fine roots; common, fine, distinct strong brown (7.5YR 5/8) soft masses of iron accumulation; common, continuous gray silt coatings on faces of peds; strongly acid; clear wavy boundary.  (5 to 8 inches thick)
+    Btgl--12 to 22 inches; dark gray (5Y 4/1) clay; moderate coarse prismatic structure parting to coarse angular blocky; very firm; sticky, plastic; few fine roots; common, fine, distinct olive brown (2.5Y 4/4) soft masses of iron accumulation;  gray silt coatings on faces of peds; thin clay films; moderately acid; gradual smooth boundary.
 
-    Btgl--11 to 21 inches; dark gray (5Y 4/1) clay; moderate coarse prismatic structure parting to coarse angular blocky; very firm; sticky, plastic; few fine roots; common, fine, distinct olive brown (2.5Y 4/4) soft masses of iron accumulation;  gray silt coatings on faces of peds; thin clay films; moderately acid; gradual smooth boundary.
+    Btg2--22 to 31 inches; gray (10YR 5/1) clay; coarse prismatic structure parting to coarse angular blocky, massive when wet; very firm, very plastic, sticky; few fine roots; common, medium, distinct olive brown (2.5Y 4/4) and olive (5Y 4/3) soft masses of iron accumulation; thin clay films on faces of peds; slickensides on faces of peds, more evident on horizontal; moderately acid; gradual smooth boundary.
 
-    Btg2--21 to 30 inches; gray (10YR 5/1) clay; coarse prismatic structure parting to coarse angular blocky, massive when wet; very firm, very plastic, sticky; few fine roots; common, medium, distinct olive brown (2.5Y 4/4) and olive (5Y 4/3) soft masses of iron accumulation; thin clay films on faces of peds; slickensides on faces of peds, more evident on horizontal; moderately acid; gradual smooth boundary.
+    Btg3--31 to 42 inches; dark grayish brown (2.5Y 4/2) clay; coarse prismatic structure parting to weak coarse angular blocky, massive when wet; firm; sticky, very plastic; few fine roots; few, fine, faint light olive brown (2.5Y 5/4) soft masses of iron accumulation; few, fine, distinct gray (N 6/0) redoximorphic depletions; thin films of clay; few fine light gray feldspar crystals; moderately acid; gradual smooth boundary.  (Combined thickness of the Btg is 25 to 40 inches)
 
-    Btg3--30 to 41 inches; dark grayish brown (2.5Y 4/2) clay; coarse prismatic structure parting to weak coarse angular blocky, massive when wet; firm; sticky, very plastic; few fine roots; few, fine, faint light olive brown (2.5Y 5/4) soft masses of iron accumulation; few, fine, distinct gray (N 6/0) redoximorphic depletions; thin films of clay; few fine light gray feldspar crystals; moderately acid; gradual smooth boundary.  (Combined thickness of the Btg is 25 to 40 inches)
+    BCg--42 to 48 inches; dark gray (5Y 4/1) sandy clay; massive; firm; plastic, sticky; few fine roots; common light gray feldspar crystals; slightly acid; abrupt irregular boundary.  (4 to 6 inches thick)
 
-    BCg--41 to 47 inches; dark gray (5Y 4/1) sandy clay; massive; firm; plastic, sticky; few fine roots; common light gray feldspar crystals; slightly acid; abrupt irregular boundary.  (4 to 6 inches thick)
+    Cg--48 to 53 inches; olive gray (5Y 5/2) sandy clay; massive; firm; plastic, sticky; few, fine, distinct light olive brown (2.5Y 5/6) soft masses of iron accumulation; common old root channels filled with clay; few light gray feldspar crystals; 2 percent quartz gravel; neutral; abrupt irregular boundary.  (0 to 5 inches thick)
 
-    Cg--47 to 52 inches; olive gray (5Y 5/2) sandy clay; massive; firm; plastic, sticky; few, fine, distinct light olive brown (2.5Y 5/6) soft masses of iron accumulation; common old root channels filled with clay; few light gray feldspar crystals; 2 percent quartz gravel; neutral; abrupt irregular boundary.  (0 to 5 inches thick)
+    2C--53 to 59 inches; variegated light olive brown, (2.5Y 5/4), light gray (N 7/0), and olive (5Y 4/3) gravelly sandy loam; highly weathered rock easily crushed to sandy loam; rock controlled structure; very friable; 30 percent rounded quartz gravel; neutral; abrupt smooth boundary.  (0 to 16 inches thick)
 
-    2C--52 to 58 inches; variegated light olive brown, (2.5Y 5/4), light gray (N 7/0), and olive (5Y 4/3) gravelly sandy loam; highly weathered rock easily crushed to sandy loam; rock controlled structure; very friable; 30 percent rounded quartz gravel; neutral; abrupt smooth boundary.  (0 to 16 inches thick)
-
-    Cr--58 to 63 inches; variegated light olive brown (2.5Y 5/4), light gray (N 7/0), and olive (5Y 4/3) weathered rock easily crushed to sandy loam; rock controlled structure; firm in place, very friable when dug out; olive gray (5Y 5/2) clay flows 2 mm thick in rock crevices; few dark gray (10YR 4/1) krotovinas 1 to 3 cm in diameter; old root channels filled with clay; few feldspar crystals; neutral.
+    Cr--59 to 64 inches; variegated light olive brown (2.5Y 5/4), light gray (N 7/0), and olive (5Y 4/3) weathered rock easily crushed to sandy loam; rock controlled structure; firm in place, very friable when dug out; olive gray (5Y 5/2) clay flows 2 mm thick in rock crevices; few dark gray (10YR 4/1) krotovinas 1 to 3 cm in diameter; old root channels filled with clay; few feldspar crystals; neutral.
 
 TYPE LOCATION:  Louisa County, Virginia; on east side of Highway 638, 0.8 mile south of junction of Highway 22.
 
@@ -68,12 +66,16 @@ MLRA SOIL SURVEY REGIONAL OFFICE (MO) RESPONSIBLE: Morgantown, West Virginia
 
 SERIES ESTABLISHED:  Culpeper County, Virginia, 1943.
 
-REMARKS:  Diagnostic horizons and features recognized in this pedon are: a.  Ochric epipedon - the zone from 0 to 11 inches (A, Eg, and BEg horizons).
-b.  Albic horizon - the zone from 2 to 5 inches Eg horizon).
-c.  Argillic horizon - the zone from 11 to 41 inches (the Btg horizons).  d.  Paralithic contact - at 58 inches.
+REMARKS:  Diagnostic horizons and features recognized in this pedon are: a.  Ochric epipedon - the zone from 1 to 12 inches (A, Eg, and BEg horizons).
+b.  Albic horizon - the zone from 3 to 6 inches Eg horizon).
+c.  Argillic horizon - the zone from 12 to 42 inches (the Btg horizons).  d.  Paralithic contact - at 59 inches.
 e.  Aquic moisture regime.
 
 02/2005 added statement about frequent, extremely brief, flash flooding in the geographic setting. 
+
+2/2022 Oi layer was removed from the typical pedon description because /freshly fallen, or undecomposed leaf litter or simlar undeceomposed material should not be included as a surface layer in the soil description.  The typical pedon originally had a top layer described as undecomposed leaf material or similar undecomposed material.  This layer was removed from the typical pedon description because freshly fallen, or undecomposed leaf litter or similar undecomposed material should not be included as a layer in a soil description.  
+
+2/2022 revision: Oe had 1 to 0 inch depths, corrected to be 0 to 1 in horizon depths then added 1 inch to all horizon depths throughout the typical pedon. WJN
 
 SIR=VA0052
 MLRA=148

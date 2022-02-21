@@ -2,7 +2,7 @@ LOCATION LEW                    VA+MD
 
 Established Series
 Rev. ACB, RRD
-01/2006
+02/2022
 
 LEW SERIES
 
@@ -12,17 +12,17 @@ TAXONOMIC CLASS: Loamy-skeletal, mixed, active, mesic Ultic Hapludalfs
 
 TYPICAL PEDON:  Lew extremely stony silt loam - forested.        (Colors are for moist soil.)
 
-     0i--2 to 0 inches; undecomposed and partially decomposed leaves and twigs and black organic matter.
+     0i--0 to 2 inches; undecomposed and partially decomposed leaves and twigs and black organic matter.
 
-     A--0 to 5 inches; dark brown (7.5YR 3/2) very channery silt loam; weak fine granular structure; friable; many roots; 40 percent greenstone channers; strongly acid; clear smooth boundary.  (3 to 8 inches thick)
+     A--2 to 7 inches; dark brown (7.5YR 3/2) very channery silt loam; weak fine granular structure; friable; many roots; 40 percent greenstone channers; strongly acid; clear smooth boundary.  (3 to 8 inches thick)
 
-     E--5 to 11 inches; brown (7.5YR 4/4) very channery silt loam; moderate coarse granular structure; friable; many roots; 40 percent greenstone channers; strongly acid; clear wavy boundary.  (5 to 9 inches thick)
+     E--7 to 13 inches; brown (7.5YR 4/4) very channery silt loam; moderate coarse granular structure; friable; many roots; 40 percent greenstone channers; strongly acid; clear wavy boundary.  (5 to 9 inches thick)
 
-     Bt1--11 to 21 inches; brown (7.5YR 4/4) very channery silty clay loam; moderate fine subangular blocky structure; friable, sticky, plastic; common roots; thin patchy clay films; 40 percent greenstone channers; strongly acid; clear wavy boundary.
+     Bt1--13 to 23 inches; brown (7.5YR 4/4) very channery silty clay loam; moderate fine subangular blocky structure; friable, sticky, plastic; common roots; thin patchy clay films; 40 percent greenstone channers; strongly acid; clear wavy boundary.
 
-     Bt2--21 to 32 inches; strong brown (7.5YR 5/6) very channery silty clay loam; moderate fine subangular blocky structure; friable; sticky, slightly plastic; common roots; thin patchy clay films; 50 percent greenstone channers; very strongly acid; clear wavy boundary.
+     Bt2--23 to 34 inches; strong brown (7.5YR 5/6) very channery silty clay loam; moderate fine subangular blocky structure; friable; sticky, slightly plastic; common roots; thin patchy clay films; 50 percent greenstone channers; very strongly acid; clear wavy boundary.
 
-     2Bt3--32 to 72 inches; yellowish red (5YR 5/8) very channery silty clay loam; weak fine subangular blocky structure; friable; few roots; thin patchy clay films; 50 percent greenstone channers; strongly acid.  (Combined thickness of the Bt is 40 to 60 or more inches)
+     2Bt3--34 to 74 inches; yellowish red (5YR 5/8) very channery silty clay loam; weak fine subangular blocky structure; friable; few roots; thin patchy clay films; 50 percent greenstone channers; strongly acid.  (Combined thickness of the Bt is 40 to 60 or more inches)
 
 TYPE LOCATION:  Augusta County, Virginia, in the Blue Ridge Mountains; .2 miles west of mile post 18 on the Blue Ridge Parkway, 300 feet north of the road on National Forest land.
 
@@ -58,15 +58,17 @@ REMARKS:  Lew soils were formerly included with the Clifton, Catoctin, Myersvill
 
 Diagnostic horizons and features recognized in this pedon are:
 
-Ochric epipedon - the zone from the surface to 11 inches (A and E horizons)
+Ochric epipedon - the zone from the surface to 13 inches (A and E horizons)
 
-Argillic horizon - zone from 11 to 72 or more inches (Bt horizons)
+Argillic horizon - zone from 13 to 74 or more inches (Bt horizons)
 
 SIR = VA0015, VA0016 (STONY), VA0247 (FLAGGY), VA0248 (CHANNERY)
 
 MLRA = 130
 
-REVISED = 9/97
+REVISED = 9/97, 2/2022
+
+2/2022 revision: Oi had 2 to 0 inch depths, corrected to be 0 to 2 in horizon depths then added 2 inches to all horizon depths throughout the typical pedon. WJN
 
 ADDITIONAL DATA:  Mechanical analysis of samples from typifying pedon by hydrometer method show 19 percent sand, 49 percent silt, and 32 percent clay in the fine earth fraction in the upper 20 inches of the argillic horizon; content of coarse fragments is about 45 percent.  The pH determinations are shown as reaction for each horizon in typifying pedon -- data from V.P.I. Laboratory, profile 176.  Base saturation is 4.79 percent and pH 5.5 in lower part of 2Bt3 horizon (V.P.I. and State University Soil Survey Laboratory sample 72-053, February, 1972).
 

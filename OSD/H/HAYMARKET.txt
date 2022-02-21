@@ -2,7 +2,7 @@ LOCATION HAYMARKET              VA
 
 Established Series
 Rev. DKL-JHE-DDR
-02/97
+02/2022
 
 HAYMARKET SERIES
 
@@ -12,21 +12,21 @@ TAXONOMIC CLASS: Fine, smectitic, mesic Typic Hapludalfs
 
 TYPICAL PEDON:  Haymarket silt loam on a 5 percent slope in an oak-hickory type forest.  (Colors are for moist soil.)
 
-    Oi--1 to 0 inch partially decomposed, hardwood leaves and twigs.
+    Oi--0 to 1 inch partially decomposed, hardwood leaves and twigs.
 
-    A--0 to 1 inch; dark brown (10YR 4/4) silt loam; moderate fine granular structure; very friable; many fine, medium and coarse roots; 1 percent gravel and cobbles of partially weathered diabase; very strongly acid; clear smooth boundary.  (0 to 2 inches thick)
+    A--1 to 2 inch; dark brown (10YR 4/4) silt loam; moderate fine granular structure; very friable; many fine, medium and coarse roots; 1 percent gravel and cobbles of partially weathered diabase; very strongly acid; clear smooth boundary.  (0 to 2 inches thick)
 
-    E--1 to 9 inches; light yellowish brown (10YR 6/4) silt loam; moderate fine granular structure; very friable; many fine and medium roots; common fine continuous pores; few fine black (10YR 2/1) concretions; 1 percent subrounded diabase gravel and cobbles; very strongly acid; clear smooth boundary.  (0 to 10 inches thick)
+    E--2 to 10 inches; light yellowish brown (10YR 6/4) silt loam; moderate fine granular structure; very friable; many fine and medium roots; common fine continuous pores; few fine black (10YR 2/1) concretions; 1 percent subrounded diabase gravel and cobbles; very strongly acid; clear smooth boundary.  (0 to 10 inches thick)
 
-    Bt1--9 to 13 inches strong brown (7.5YR 5/6) silt loam; moderate fine subangular blocky structure; firm, plastic, sticky; common fine and medium roots; many distinct clay films on faces of peds; common fine dark brown (10YR 3/3) and black (10YR 2/1) concretions; 1 percent diabase gravel and cobbles; very strongly acid, clear smooth boundary.
+    Bt1--10 to 14 inches strong brown (7.5YR 5/6) silt loam; moderate fine subangular blocky structure; firm, plastic, sticky; common fine and medium roots; many distinct clay films on faces of peds; common fine dark brown (10YR 3/3) and black (10YR 2/1) concretions; 1 percent diabase gravel and cobbles; very strongly acid, clear smooth boundary.
 
-    Bt2--13 to 27 inches; strong brown (7.5YR 5/6) clay; strong fine and medium subangular blocky structure; firm, very plastic, very sticky; common fine and medium roots; many distinct clay films on faces of peds; many fine and medium dark brown (10YR 3/3) and black (10YR 2/1) concretions and streaks; 1 percent diabase gravel and cobbles; very strongly acid; clear smooth boundary.
+    Bt2--14 to 28 inches; strong brown (7.5YR 5/6) clay; strong fine and medium subangular blocky structure; firm, very plastic, very sticky; common fine and medium roots; many distinct clay films on faces of peds; many fine and medium dark brown (10YR 3/3) and black (10YR 2/1) concretions and streaks; 1 percent diabase gravel and cobbles; very strongly acid; clear smooth boundary.
 
-    Bt3--27 to 38 inches; yellowish red (5YR 5/6) clay; strong, medium and coarse subangular blocky structure; very firm, very plastic, very sticky; common fine and medium roots; many prominent clay films on faces of peds; few slickensides and pressure faces; few dark brown (10YR 3/3) and black (10YR 2/1) concretions; 1 percent diabase gravel and cobbles; very strongly acid; clear smooth boundary.
+    Bt3--28 to 39 inches; yellowish red (5YR 5/6) clay; strong, medium and coarse subangular blocky structure; very firm, very plastic, very sticky; common fine and medium roots; many prominent clay films on faces of peds; few slickensides and pressure faces; few dark brown (10YR 3/3) and black (10YR 2/1) concretions; 1 percent diabase gravel and cobbles; very strongly acid; clear smooth boundary.
 
-    Bt4--38 to 46 inches strong brown (7.5YR 5/6) silty clay loam; many fine and medium brownish yellow (10YR 6/6) white (10YR 8/1) and black (10YR 2/1) parent material mottling; moderate coarse subangular blocky structure; firm, plastic, very sticky; few fine roots; many distinct films of clay on faces of peds; common black (10YR 2/1) concretions and streaks; 1 percent diabase gravel and cobbles; strongly acid; gradual smooth boundary.  (Combine thickness of the B horizon ranges from 20 to 40 inches).
+    Bt4--39 to 47 inches; strong brown (7.5YR 5/6) silty clay loam; many fine and medium brownish yellow (10YR 6/6) white (10YR 8/1) and black (10YR 2/1) parent material mottling; moderate coarse subangular blocky structure; firm, plastic, very sticky; few fine roots; many distinct films of clay on faces of peds; common black (10YR 2/1) concretions and streaks; 1 percent diabase gravel and cobbles; strongly acid; gradual smooth boundary. Combine thickness of the B horizons ranges from 20 to 40 inches
 
-    C--46 to 72 inches; multicolored saprolite in shades of yellow, brown, white and black that crushes to loam; massive; friable, plastic sticky; few fine roots; common prominent flows of clay in the upper 6 inches; 1 percent diabase gravel and cobbles; moderately acid.
+    C--47 to 73 inches; multicolored saprolite in shades of yellow, brown, white and black that crushes to loam; massive; friable, plastic sticky; few fine roots; common prominent flows of clay in the upper 6 inches; 1 percent diabase gravel and cobbles; moderately acid.
 
 TYPE LOCATION:  Prince William County, Virginia:  In Conway-Robinson Memorial Park, about 1 mile west of Pageland Land, about 600 yds northwest of Route 29-211 and about 50 yds south of abandoned railroad bed.
 
@@ -58,10 +58,12 @@ SERIES ESTABLISHED:  Prince William County, Virginia, 1985.
 
 REMARKS:  The Haymarket Series has previously been included in the Mecklenburg series which is thermic and has mixed mineralogy.
 
+02/2022 revision: Oi had 1 to 0 inch depths, corrected to be 0 to 1 in horizon depths then added 1 inch to all horizon depths throughout the typical pedon. WJN
+
 Diagnostic horizons and features recognized in this pedon are:
 
-1.  Ochric epipedon-zone from 0 to 9 inches (A and E horizons)
-2.  Argillic horizon-zone from 9 to 46 inches (Bt horizons)
+1.  Ochric epipedon-zone from 1 to 10 inches (A and E horizons)
+2.  Argillic horizon-zone from 10 to 47 inches (Bt horizons)
 3.  Base saturation greater than 60 percent at 60 inches
 
 SIR=VA0185
