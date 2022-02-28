@@ -38,7 +38,13 @@ The BC or C horizon, if present, has hue of 2.5Y through 7.5YR.  It ranges from 
 
 COMPETING SERIES:  These are the Angostura, Cloud Peak, Cundiyo, Duchesne, Frisco, Gambler, Granile, Guffey, Hollandlake, Hyattville, Kebler, Lake Creek, Lakehelen, Larand, Leadville, Lulude, MacFarlane, (T)Needleton, Presa, (T)Tamarron, (T)Tenrag, Tigeron, Tolvar, Trebor, and Worock series.  Angostura, Cundiyo, Duchesne, Frisco, Granile, Hollandlake, Larand, Leadville, MacFarlane, (T)Needleton, Presa, Tigeron, Tolvar, and Worock soils lack a lithic contact above a depth of 100 cm. Hyattville, Lakehelen, and (T)Tenrag soils all have hues that are predominantly 5YR or redder in a majority of subhorizons.  Cloud Peak soils are calcareous in the lower part of the solum and C horizon and have consistent k horizons.  Gambler, Lake Creek, and Lulude soils have more than 60 percent base saturation in all parts of the argillic horizon.  Kebler soils have rock fragments that are dominantly more than 250 mm in diameter and have transitional A&B horizons.  Guffey and (T)Tamarron soils have a paralithic contact above 100 cm.
 
-GEOGRAPHIC SETTING:  Agneston soils are on hills, plateaus, ridges, and mountainsides.  Slopes range from about 2 to 50 percent.  The soil formed in moderately thin, gravelly to very gravelly coarse textured, noncalcareous materials weathered from granite.  Elevation ranges from 2,500 to 3,600 meters.  The mean annual precipitation is about 640 mm and ranges from 510 to 760 mm with peak periods of precipitation in the spring and summer.  Mean annual air temperature ranges from 1 to 3 degrees C.
+GEOGRAPHIC SETTING:  
+Landform--hills, plateaus, ridges, and mountainsides
+Elevation--2,500 to 3,600 meters
+Slope--2 to 50 percent
+Parent material--moderately thin, gravelly to very gravelly coarse textured, noncalcareous materials weathered from granite
+Mean annual precipitation--510 to 760 mm with peak periods of precipitation in the spring and summer  
+Mean annual air temperature--1 to 3 degrees C
 
 GEOGRAPHICALLY ASSOCIATED SOILS:  These are the Peeler and Troutville soils.  Peeler and Troutville soils lack bedrock within the 25- to 100-cm section.
 
@@ -46,14 +52,13 @@ DRAINAGE AND PERMEABILITY:  Well drained; slow to medium runoff; moderate permea
 
 USE AND VEGETATION:  These soils are used principally for grazing land, recreation, and timber production.  Native vegetation consists of lodgepole pine, spruce, fir, and juniper.
 
-DISTRIBUTION AND EXTENT:  Mountainous areas of Colorado.  The series is of moderate extent.
+DISTRIBUTION AND EXTENT:  Agneston soils are extensive in the mountainous areas of Colorado; MLRAs 43B, 48A
 
 SOIL SURVEY REGIONAL OFFICE (SSRO) RESPONSIBLE: Bozeman, Montana
 
 SERIES ESTABLISHED:  Jackson County, Colorado, 1973.
 
-REMARKS:  Converted to metric and O horizons were updated to start at zero. 2/2022
-
+REMARKS:  Converted to metric and O horizons were updated to start at zero 2/2022
 
 National Cooperative Soil Survey
 U.S.A.

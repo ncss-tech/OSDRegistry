@@ -2,7 +2,7 @@ LOCATION HUNTDALE               NC
 
 Established Series
 JBA:RHR: Rev. BPS
-02/2011
+02/2022
 
 HUNTDALE SERIES
 
@@ -12,21 +12,21 @@ TAXONOMIC CLASS: Fine-loamy, mixed, active, mesic Humic Dystrudepts
 
 TYPICAL PEDON:  Huntdale silty clay loam on a 44 percent, northeast-facing intermediate mountain side slope, elevation 3,740 feet--forested.  (Colors are for moist soil unless otherwise noted.)
 
-     Oi--6 to 3 inches; slightly decomposed leaves, twigs, and needles.  (0 to 4 inches thick)
+     Oi--0 to 3 inches; slightly decomposed leaves, twigs, and needles.  (0 to 4 inches thick)
 
-     Oe--3 to 0 inches; partially decomposed leaves, twigs, needles, and very dark brown (10YR 2/2) decomposed organic matter.  (0 to 4 inches thick)
+     Oe--3 to 6 inches; partially decomposed leaves, twigs, needles, and very dark brown (10YR 2/2) decomposed organic matter.  (0 to 4 inches thick)
 
-     A1--0 to 1 inches; very dark brown (10YR 2/2) silty clay loam, dark yellowish brown (10YR 3/4) dry; weak fine granular structure; very friable; many very fine or fine, common medium, and few coarse roots; many very fine, common fine or medium, and few coarse tubular pores; very strongly acid, abrupt smooth boundary.
+     A1--6 to 7 inches; very dark brown (10YR 2/2) silty clay loam, dark yellowish brown (10YR 3/4) dry; weak fine granular structure; very friable; many very fine or fine, common medium, and few coarse roots; many very fine, common fine or medium, and few coarse tubular pores; very strongly acid, abrupt smooth boundary.
 
-     A2--1 to 9 inches; very dark grayish brown (10YR 3/2) silty clay loam, yellowish brown (10YR 5/4) dry; weak medium granular structure; very friable; common very fine to medium and few coarse roots; common very fine to medium and few coarse tubular pores; very strongly acid; abrupt smooth boundary.  (Combined thickness of the A horizon is 7 to 10 inches.)
+     A2--7 to 15 inches; very dark grayish brown (10YR 3/2) silty clay loam, yellowish brown (10YR 5/4) dry; weak medium granular structure; very friable; common very fine to medium and few coarse roots; common very fine to medium and few coarse tubular pores; very strongly acid; abrupt smooth boundary.  (Combined thickness of the A horizon is 7 to 10 inches.)
 
-     Bw1--9 to 20 inches; brown (7.5YR 4/4) clay loam; moderate medium subangular blocky structure; friable; slightly sticky, slightly plastic; few very fine to coarse roots; common very fine or fine and few medium tubular pores; very strongly acid; gradual wavy boundary.
+     Bw1--15 to 26 inches; brown (7.5YR 4/4) clay loam; moderate medium subangular blocky structure; friable; slightly sticky, slightly plastic; few very fine to coarse roots; common very fine or fine and few medium tubular pores; very strongly acid; gradual wavy boundary.
 
-     Bw2--20 to 36 inches; strong brown (7.5YR 5/6) silt loam; moderate medium subangular blocky structure; friable; slightly sticky, slightly plastic; few fine to coarse roots; few very fine or fine tubular pores; very strongly acid; gradual wavy boundary.  (Combined thickness of the Bw horizon is 24 to more than 50 inches.)
+     Bw2--26 to 42 inches; strong brown (7.5YR 5/6) silt loam; moderate medium subangular blocky structure; friable; slightly sticky, slightly plastic; few fine to coarse roots; few very fine or fine tubular pores; very strongly acid; gradual wavy boundary.  (Combined thickness of the Bw horizon is 24 to more than 50 inches.)
 
-     BC--36 to 58 inches; brownish yellow (10YR 6/8) silt loam; weak medium subangular blocky structure; friable; slightly sticky, slightly plastic; few very fine to medium roots; few very fine or fine tubular pores; very strongly acid; gradual wavy boundary.  (0 to 35 inches thick)
+     BC--42 to 64 inches; brownish yellow (10YR 6/8) silt loam; weak medium subangular blocky structure; friable; slightly sticky, slightly plastic; few very fine to medium roots; few very fine or fine tubular pores; very strongly acid; gradual wavy boundary.  (0 to 35 inches thick)
 
-     C--58 to 80 inches; multicolored, fine sandy loam saprolite; massive; very friable; few fine roots; few very fine or fine tubular pores; strongly acid.
+     C--64 to 86 inches; multicolored, fine sandy loam saprolite; massive; very friable; few fine roots; few very fine or fine tubular pores; strongly acid.
 
 TYPE LOCATION:  Mitchell County, North Carolina; about 0.6 mile northeast of the intersection of North Carolina 226 and Secondary Road 1330 in Buladean, north 0.75 mile on Secondary Road 1331 to a farm path, 0.3 miles on the path in a roadcut; Iron Mountain Gap USGS Quadrangle, lat., 36 degrees, 07 minutes, 47 seconds N., and long. 82 degrees, 11 minutes, 12 seconds W.
 
@@ -62,15 +62,17 @@ REMARKS:  Soils now included with the Huntdale series were previously mapped wit
 
 Diagnostic horizons and soil characteristics recognized in this pedon are:
 
-Umbric- epipedon - the zone from the soil mineral surface to a depth of 9 inches (A1 and A2 horizons)
+Umbric- epipedon - the zone from the soil mineral surface to a depth of 6 to 15 inches (A1 and A2 horizons)
 
-Cambic horizon - the zone from 9 inches to 44 inches (Bw1 and Bw2, and BC  horizons)
+Cambic horizon - the zone from 15 inches to 50 inches (Bw1 and Bw2, and BC  horizons)
 
 SIR = NC0245        MLRA = 130B
 
 ADDITIONAL DATA:  Characterization data is available from the National Soil Survey Laboratory, Lincoln, NE; pedon number S88NC-121-008A.
 
 Revised 02/11-BPS: Taxonomic Classification -- 11th Keys, update competing and associated series, MLRA clarification
+
+02/2022 revision: Oi had 6 to 3 inch depths and Oe had 3 to 0 inch depths, corrected to be 0 to 3 inch horizon depths and 3 to 6 inch horizon depths then add 2 inches to all horizon depths throughout the typical pedon. WJN
 
 National Cooperative Soil Survey
 U.S.A.

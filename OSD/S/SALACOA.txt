@@ -2,7 +2,7 @@ LOCATION SALACOA                TN+GA
 
 Established Series
 RLL-HCD
-08/2005
+02/2022
 
 SALACOA SERIES
 
@@ -12,17 +12,17 @@ TAXONOMIC CLASS: Fine-loamy, mixed, active, thermic Typic Hapludalfs
 
 TYPICAL PEDON: Salacoa silt loam-woodland. (Colors are for moist soil unless otherwise stated.)
 
- Oi--1 to 0 inch, slightly decomposed leaf litter.
+ Oi--0 to 1 inch, slightly decomposed leaf litter.
 
- A--0 to 5 inches; dark yellowish brown (10YR 4/4) silt loam; moderate fine granular structure; very friable, many fine and common medium roots; 11 percent shale channers; moderately acid; clear smooth boundary.
+ A--1 to 6 inches; dark yellowish brown (10YR 4/4) silt loam; moderate fine granular structure; very friable, many fine and common medium roots; 11 percent shale channers; moderately acid; clear smooth boundary.
 
- Bt1--5 to 20 inches; yellowish brown (10YR 5/6) gravelly silt loam; weak                      fine subangular blocky structure; very friable; many fine and few medium and coarse roots; few distinct clay films on faces of peds and on rock fragments; 21 percent sandstone gravel and shale channers; very strongly acid; clear wavy boundary.
+ Bt1--6 to 21 inches; yellowish brown (10YR 5/6) gravelly silt loam; weak                      fine subangular blocky structure; very friable; many fine and few medium and coarse roots; few distinct clay films on faces of peds and on rock fragments; 21 percent sandstone gravel and shale channers; very strongly acid; clear wavy boundary.
 
- Bt2--20 to 35 inches; brown (7.5YR 4/4) gravelly silt loam; many medium prominent light olive brown (2.5Y 5/6) mottles; weak fine subangular blocky structure; friable; common fine roots; few distinct clay films on faces of peds and on rock fragments; 29 percent sandstone gravel and shale channers; very strongly acid; clear wavy boundary.
+ Bt2--21 to 36 inches; brown (7.5YR 4/4) gravelly silt loam; many medium prominent light olive brown (2.5Y 5/6) mottles; weak fine subangular blocky structure; friable; common fine roots; few distinct clay films on faces of peds and on rock fragments; 29 percent sandstone gravel and shale channers; very strongly acid; clear wavy boundary.
 
- BC--35 to 62 inches; brown (7.5YR 4/4) very gravelly silt loam; common fine distinct yellowish brown (10YR 5/6) mottles; weak fine subangular blocky structure; friable; common fine roots; 35 percent sandstone gravel and shale channers; very strongly acid; abrupt wavy boundary.
+ BC--36 to 63 inches; brown (7.5YR 4/4) very gravelly silt loam; common fine distinct yellowish brown (10YR 5/6) mottles; weak fine subangular blocky structure; friable; common fine roots; 35 percent sandstone gravel and shale channers; very strongly acid; abrupt wavy boundary.
 
- Cr--62 inches; soft shale interbedded with reddish sandstone and siltstone.
+ Cr--63 inches; soft shale interbedded with reddish sandstone and siltstone.
 
 TYPE LOCATION: Rhea County, Tennessee; about 7.1 miles east of Dayton on State road 30, 4.2 miles north on State Road 302, 1.8 miles east on Breedenton Ferry Road, 0.5 mile north on Smith Bend Road and 650 feet southeast of Smith Bend Road; in Rhea County, Tennessee; USGS Decatur Quadrangle.
 
@@ -42,7 +42,7 @@ COMPETING SERIES: These are the Karma, Mocksville, Poindexter and Teksob series.
 GEOGRAPHIC SETTING: Salacoa soils are on benches, foot slopes and lower portions of side slopes and back slopes. These soils formed in colluvium from interbedded sandstone, siltstone and shale. Slopes range from 5 to 65 percent. Near the type location mean annual air temperature is about 59 degrees F and mean annual precipitation is about 55 inches.
 
 GEOGRAPHICALLY ASSOCIATED SOILS: These are the Apison, Townley, Sunlight, Montevallo, Corryton, Shady, Whitwell and Hamblen series.  Apison soils are moderately deep to a paralithic contact.  Townley soils are moderately deep to a paralithic contact and are in a fine family.  Sunlight and Montevallo soils are shallow to a paralithic contact and are in a loamy skeletal family.  Corryton soils are in a fine family.  Shady, Whitwell and Hamblen soils are in the valleys below.
- 
+
 DRAINAGE AND PERMEABILITY: Well drained; medium to rapid runoff; moderate
 permeability.
 
@@ -56,9 +56,11 @@ SERIES ESTABLISHED: 2005, Knox County, Tennessee.
 
 Remarks: Diagnostic horizons recognized in this soil are:
 
-Ochric epipedon -from 0 to 5 inches (A horizon)
+Ochric epipedon -from 1 to 6 inches (A horizon)
 
-Argillic horizon - from 5 to 62 inches (Bt1, Bt2 and BC horizons)
+Argillic horizon - from 6 to 63 inches (Bt1, Bt2 and BC horizons)
+
+02/2022 revision: Oi had 1 to 0 inch depths, corrected to be 0 to 1 in horizon depths then added 1 inch to all horizon depths throughout the typical pedon. wjn
 
 National Cooperative Soil Survey
 U.S.A.
