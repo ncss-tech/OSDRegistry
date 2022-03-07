@@ -2,7 +2,7 @@ LOCATION TOTZ                   KY
 
 Established Series
 Rev. JDC-WHC
-04/2001
+02/2022
 
 TOTZ SERIES
 
@@ -12,17 +12,17 @@ TAXONOMIC CLASS: Mesic, coated Lithic Quartzipsamments
 
 TYPICAL PEDON:  Totz fine sandy loam - on a 25 percent smooth south- facing slope at an elevation of 2,820 feet in a scarlet oak, chestnut oak, red maple, and pitch pine forest.  (Colors are for moist soil unless otherwise stated.)
 
-     0i--1 to 0 inches; leaves, roots, and twigs.
+     Oi--0 to 1 inches; leaves, roots, and twigs.
 
-     A--0 to 2 inches; dark grayish brown (10YR 4/2) fine sandy loam; weak fine granular structure; very friable; many fine roots; 5 percent gravel; very strongly acid; abrupt wavy boundary. (1 to 5 inches thick)
+     A--1 to 3 inches; dark grayish brown (10YR 4/2) fine sandy loam; weak fine granular structure; very friable; many fine roots; 5 percent gravel; very strongly acid; abrupt wavy boundary. (1 to 5 inches thick)
 
-     AB--2 to 7 inches; yellowish brown (10YR 5/4) fine sandy loam; weak fine granular structure; very friable; many fine roots; 5 percent gravel; very strongly acid; clear smooth boundary. (0 to 6 inches thick)
+     AB--3 to 8 inches; yellowish brown (10YR 5/4) fine sandy loam; weak fine granular structure; very friable; many fine roots; 5 percent gravel; very strongly acid; clear smooth boundary. (0 to 6 inches thick)
 
-     Bw--7 to 13 inches; yellowish brown (10YR 5/6) loamy fine sand; weak very fine subangular blocky structure; very friable; common fine roots; 5 percent gravel; very strongly acid; abrupt wavy boundary.
+     Bw--8 to 14 inches; yellowish brown (10YR 5/6) loamy fine sand; weak very fine subangular blocky structure; very friable; common fine roots; 5 percent gravel; very strongly acid; abrupt wavy boundary.
 
-     BC--13 to 18 inches; strong brown (7.5YR 5/6) loamy fine sand; weak medium subangular blocky structure; very friable; few fine roots; 10 percent gravel; very strongly acid; abrupt wavy boundary.  (Combined thickness of B horizon is 3 to 16 inches.)
+     BC--14 to 19 inches; strong brown (7.5YR 5/6) loamy fine sand; weak medium subangular blocky structure; very friable; few fine roots; 10 percent gravel; very strongly acid; abrupt wavy boundary. (Combined thickness of B horizon is 3 to 16 inches.)
 
-     R--18 inches; sandstone bedrock.
+     R--19 inches; sandstone bedrock.
 
 TYPE LOCATION:  Harlan County, Kentucky; 3,750 feet east-northeast of Jacks Gap and 30 feet south of the Little Shepherd Trail; about 1.6 miles east of Pine Mountain Settlement School; Nolansburg quadrangle; Latitude 36:57:04N, Longitude 83:09:11W.
 
@@ -58,9 +58,11 @@ REMARKS:  Totz soils were previously mapped as Ramsey soils.
 
 Diagnostic horizons recognized in this pedon are:
 
-Ochric epipedon - 0 to 7 inches (A and AB horizons).
+Ochric epipedon - 1 to 8 inches (A and AB horizons).
 
 ADDITIONAL DATA:  Reference samples S88KY-095-1 (typical pedon) and S88KY-013-1.
+
+2/2022 revision: Oi had 1 to 0 inch depths, corrected to be 0 to 1 in horizon depths then added 1 inch to all horizon depths throughout the typical pedon. wjn
 
 National Cooperative Soil Survey
 U.S.A.

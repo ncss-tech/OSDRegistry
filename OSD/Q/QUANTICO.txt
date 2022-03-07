@@ -2,7 +2,7 @@ LOCATION QUANTICO               VA
 
 Established Series
 MDJ
-12/2005
+03/2022
 
 QUANTICO SERIES
 
@@ -12,19 +12,19 @@ TAXONOMIC CLASS: Fine, mixed, semiactive, mesic Typic Hapludults
 
 TYPICAL PEDON:  Quantico loam on a 4 percent slope in an oak-hickory type forest.  (Color are for moist soil.)
 
-    Oi--1 to 0 inch partially decomposed hardwood leaves and twigs.
+    Oi--0 to 1 inch partially decomposed hardwood leaves and twigs.
 
-    A--0 to 1 inch brown (10YR 4/3) loam; moderate fine and very fine granular structure; very friable; many fine and medium roots; 3 percent rounded and subrounded quartz gravel; very strongly acid; clear smooth boundary.  (0 to 3 inches thick)
+    A--1 to 2 inch brown (10YR 4/3) loam; moderate fine and very fine granular structure; very friable; many fine and medium roots; 3 percent rounded and subrounded quartz gravel; very strongly acid; clear smooth boundary.  (0 to 3 inches thick)
 
-    E--1 to 13 inches light yellowish brown (10YR 6/4) loam; moderate fine and very fine granular structure; very friable; many fine and medium roots; 3 percent rounded and subrounded quartz gravel; very strongly acid; clear smooth boundary.  (0 to 15 inches thick)
+    E--2 to 14 inches light yellowish brown (10YR 6/4) loam; moderate fine and very fine granular structure; very friable; many fine and medium roots; 3 percent rounded and subrounded quartz gravel; very strongly acid; clear smooth boundary.  (0 to 15 inches thick)
 
-    BE--13 to 18 inches; strong brown (7.5YR 5/6) clay loam; moderate fine and medium subangular blocky structure; firm, slightly plastic, slightly sticky; common fine and medium roots; few faint clay films on faces of peds; 10 percent rounded quartz gravel; very strongly acid; clear smooth boundary.
+    BE--14 to 19 inches; strong brown (7.5YR 5/6) clay loam; moderate fine and medium subangular blocky structure; firm, slightly plastic, slightly sticky; common fine and medium roots; few faint clay films on faces of peds; 10 percent rounded quartz gravel; very strongly acid; clear smooth boundary.
 
-    Bt1--18 to 32 inches; strong brown (7.5YR 5/8) clay; moderate fine and medium subangular blocky structure; firm, plastic, sticky; common fine and medium roots; common distinct yellowish red (5YR 5/6) films of clay on faces of peds; 3 percent rounded quartz gravel; very strongly acid; gradual smooth boundary.
+    Bt1--19 to 33 inches; strong brown (7.5YR 5/8) clay; moderate fine and medium subangular blocky structure; firm, plastic, sticky; common fine and medium roots; common distinct yellowish red (5YR 5/6) films of clay on faces of peds; 3 percent rounded quartz gravel; very strongly acid; gradual smooth boundary.
 
-    Bt2--32 to 47 inches brown (7.5YR 5/3) clay; weak fine and medium subangular blocky structure; firm, slightly plastic, slightly sticky; few fine roots; common medium and fine reddish yellow (5YR 7/8) and red (2.5YR 5/6) mottles; common distinct and prominent clay films faces of peds; 3 percent rounded quartz gravel; very strongly acid; gradual smooth boundary.  (Combine thickness of the B horizon ranges from 20 to 50 inches)
+    Bt2--33 to 48 inches brown (7.5YR 5/3) clay; weak fine and medium subangular blocky structure; firm, slightly plastic, slightly sticky; few fine roots; common medium and fine reddish yellow (5YR 7/8) and red (2.5YR 5/6) mottles; common distinct and prominent clay films faces of peds; 3 percent rounded quartz gravel; very strongly acid; gradual smooth boundary.  (Combine thickness of the B horizon ranges from 20 to 50 inches)
 
-    C--47 to 72 inches strong brown (7.5YR 5/8) sandy clay; massive; very friable, slightly plastic, slightly sticky; many fine to coarse light red (2.5YR 6/8), white (5YR 8/1) and yellowish red (5YR 5/8) mottles; few faint and distinct clay flows in upper 10 inches; 3 percent rounded quartz gravel; this horizon is dominantly feldspathic sand that is partially weathered; very strongly acid.
+    C--48 to 73 inches strong brown (7.5YR 5/8) sandy clay; massive; very friable, slightly plastic, slightly sticky; many fine to coarse light red (2.5YR 6/8), white (5YR 8/1) and yellowish red (5YR 5/8) mottles; few faint and distinct clay flows in upper 10 inches; 3 percent rounded quartz gravel; this horizon is dominantly feldspathic sand that is partially weathered; very strongly acid.
 
 TYPE LOCATION:  Prince William County, Virginia; in Prince William Forest Park about .5 Mile south of State Route No. 234, about 300 feet west of Old Mine Road, and about 75 feet south of Burma Road.
 
@@ -60,6 +60,7 @@ Revisions - DLK-JHE-DDR 5/85
 
 The 12/2005 revision updates this soil to the 9th Edition of the Keys to Soil Taxonomy (2003). The CEC activity class placement is based on NASIS data from Prince William County, Virginia. Class placement may be revised in the future when laboratory data are reviewed or become available. In addition, horizon nomenclature and competing series were updated with this revision.
 
+03/2022 revision: Oi had 1 to 0 inch depths, corrected to be 0 to 1 in horizon depths then added 1 inch to all horizon depths throughout the typical pedon.WJN
 
 National Cooperative Soil Survey
 U.S.A.

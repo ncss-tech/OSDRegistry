@@ -2,7 +2,7 @@ LOCATION SUMERDUCK              VA
 
 Established Series
 DGS, DRH-MAV Rev. MDJ
-09/2016
+03/2022
 
 SUMERDUCK SERIES
 
@@ -11,8 +11,6 @@ The Sumerduck series consists of very deep, moderately well to somewhat poorly d
 TAXONOMIC CLASS: Fine-loamy, mixed, semiactive, mesic Aquic Hapludults
 
 TYPICAL PEDON: Sumerduck loam in woods at 350 feet elevation. (Colors are for moist soil unless otherwise stated)
-
- Oi--1 to 0 inches; leaf litter and twigs.
 
  A--0 to 4 inches; brown (10YR 5/3) loam; moderate medium subangular blocky structure; friable, slightly-sticky; common very fine, common fine, common medium, common coarse and many very coarse roots; common very fine and fine dendritic tubular pores; 5 percent subrounded quartz gravels; very strongly acid; clear smooth boundary.
 
@@ -62,6 +60,8 @@ REMARKS: Diagnostic horizons and features recognized in this pedon are:
 2016 Update was to change the status to Established.
 
 02/2005 added statement about frequent, extremely brief, flash flooding in the geographic setting. 
+
+03/2022 Oi layer was removed from the typical pedon description because /freshly fallen, or undecomposed leaf litter or simlar undeceomposed material should not be included as a surface layer in the soil description.  The typical pedon originally had a Oi layer described as undecomposed leaf material or similar undecomposed material.
 
 National Cooperative Soil Survey
 U.S.A.

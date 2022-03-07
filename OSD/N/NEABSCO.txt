@@ -2,7 +2,7 @@ LOCATION NEABSCO                VA
 
 Established Series
 Rev. DLK-JHE-DDR
-03/1999
+03/2022
 
 NEABSCO SERIES
 
@@ -12,20 +12,19 @@ TAXONOMIC CLASS: Fine-loamy, siliceous, semiactive, mesic Typic Fragiudults
 
 TYPICAL PEDON:  Neabsco loam on a 2 percent slope in a mixed pine and oak woodland.  (Colors are for moist soil)
 
-    Oi--1 to 0 inches; partially decomposed oak leaves, pine needles and twigs.
+    Oi--0 to 1 inch; partially decomposed oak leaves, pine needles and twigs.
 
-    A--0 to 2 inches; dark brown (10YR 4/3) loam; moderate fine and very fine granular structure; very friable; many fine, medium and coarse roots; 3 percent rounded quartz gravel; very strongly acid; clear smooth boundary.  (0 to 3 inches thick)
+    A--1 to 3 inches; dark brown (10YR 4/3) loam; moderate fine and very fine granular structure; very friable; many fine, medium and coarse roots; 3 percent rounded quartz gravel; very strongly acid; clear smooth boundary.  (0 to 3 inches thick)
 
-    E--2 to 8 inches; light yellowish brown (10YR 6/4) loam; moderate fine and very fine granular structure; very friable; many fine, medium and coarse roots; 2 percent rounded quartz gravel; very strongly acid; clear smooth boundary.  (0 to 12 inches thick)
+    E--3 to 9 inches; light yellowish brown (10YR 6/4) loam; moderate fine and very fine granular structure; very friable; many fine, medium and coarse roots; 2 percent rounded quartz gravel; very strongly acid; clear smooth boundary.  (0 to 12 inches thick)
 
-    Bt--8 to 17 inches; yellowish brown (10YR 5/8) clay loam; moderate fine subangular blocky structure; friable, slightly sticky; common fine, medium and coarse roots; 2 percent rounded quartz gravel; few faint films of clay on faces of peds and clay bridging between sand grains; very strongly acid; clear smooth boundary.  (6 to 18 inches thich)
+    Bt--9 to 18 inches; yellowish brown (10YR 5/8) clay loam; moderate fine subangular blocky structure; friable, slightly sticky; common fine, medium and coarse roots; 2 percent rounded quartz gravel; few faint films of clay on faces of peds and clay bridging between sand grains; very strongly acid; clear smooth boundary.  (6 to 18 inches thich)
 
-    Bx--17 to 36 inches; yellowish brown (10YR 5/8) loam; many fine, medium and coarse pale brown (10YR 6/3) and many fine distinct light gray (10YR 7/2) mottles; strong, medium and coarse platy structure, coarse polygonal structure 12 to 18 inches in diameter with gray (10YR 6/1) clay in 1/4 inch cracks; very firm and brittle; 10 percent rounded quartz gravel; common fine and medium vesicular pores; very strongly acid; gradual smooth boundary.  (8 to 36 inches thick)
+    Bx--18 to 37 inches; yellowish brown (10YR 5/8) loam; many fine, medium and coarse pale brown (10YR 6/3) and many fine distinct light gray (10YR 7/2) mottles; strong, medium and coarse platy structure, coarse polygonal structure 12 to 18 inches in diameter with gray (10YR 6/1) clay in 1/4 inch cracks; very firm and brittle; 10 percent rounded quartz gravel; common fine and medium vesicular pores; very strongly acid; gradual smooth boundary.  (8 to 36 inches thick)
 
-    2Bt--36 to 52 inches; brownish yellow (10YR 6/8) clay loam; common, fine and medium distinct pale brown (10YR 6/3) and yellowish red
-(5YR 5/6) mottles; weak medium and coarse subangular blocky structure; friable, slightly plastic, slightly stick; common faint and distinct dark brown (10YR 3/3) films of clay on vertical faces of peds; 5 percent rounded quartz gravel; strongly acid; abrupt smooth boundary.  (0 to 24 inches thick)
+    2Bt--37 to 53 inches; brownish yellow (10YR 6/8) clay loam; common, fine and medium distinct pale brown (10YR 6/3) and yellowish red (5YR 5/6) mottles; weak medium and coarse subangular blocky structure; friable, slightly plastic, slightly stick; common faint and distinct dark brown (10YR 3/3) films of clay on vertical faces of peds; 5 percent rounded quartz gravel; strongly acid; abrupt smooth boundary.  (0 to 24 inches thick)
 
-    3C--5 to 72 inches; mottled in shades of brown, gray and yellow; very gravelly sandy loam; massive; very friable; 45 percent rounded quartz gravel; strongly acid.
+    3C--53 to 73 inches; mottled in shades of brown, gray and yellow; very gravelly sandy loam; massive; very friable; 45 percent rounded quartz gravel; strongly acid.
 
 TYPE LOCATION:  Prince William County, Virginia; in Prince William Forest Park, about 100 feet southwest of Park Central Road and about 20 feet south of Trail No. 11.
 
@@ -63,7 +62,7 @@ Diagnostic Horizon:
 a.  Argillic between 8 and 17 inches.
 b.  Fragipan between 17 and 36 inches.
 
+03/2022 revision: Oi had 1 to 0 inch depths, corrected to be 0 to 1 in horizon depths then added 1 inch to all horizon depths throughout the typical pedon. WJN
+
 National Cooperative Soil Survey
 U.S.A.
-
-

@@ -2,7 +2,7 @@ LOCATION BUCKHALL               VA
 
 Established Series
 Rev. RE, JWB
-12/2005
+02/2022
 
 BUCKHALL SERIES
 
@@ -12,22 +12,22 @@ TAXONOMIC CLASS: Fine, mixed, semiactive, mesic Typic Hapludults
 
 TYPICAL PEDON: Buckhall loam on a 2 percent slope in a mixed hardwood and pine forest.(Colors are for moist soil). 
 
- Oi--1 to 0 inches; partially decomposed hardwood leaves, pine needles and twigs. 
+ Oi--0 to 1 inch; partially decomposed hardwood leaves, pine needles and twigs. 
 
- A--0 to 1 inches; dark grayish brown (10YR 4/2) loam; moderate fine and very fine granular structure; very friable; many fine medium and coarse roots; 2 percent angular quartz gravel; very strongly acid; clear smooth boundary. (0 to 4 inches thick.) 
+ A--1 to 2 inches; dark grayish brown (10YR 4/2) loam; moderate fine and very fine granular structure; very friable; many fine medium and coarse roots; 2 percent angular quartz gravel; very strongly acid; clear smooth boundary. (0 to 4 inches thick.) 
 
- E--1 to 7 inches; light yellowish brown (10YR 6/4) loam; moderate fine and very fine granular structure; very friable; many fine medium and coarse roots; 2 percent angular quartz gravel; very strongly acid; clear smooth boundary. (0 to 10 inches thick.) 
+ E--2 to 8 inches; light yellowish brown (10YR 6/4) loam; moderate fine and very fine granular structure; very friable; many fine medium and coarse roots; 2 percent angular quartz gravel; very strongly acid; clear smooth boundary. (0 to 10 inches thick.) 
 
- BE--7 to 12 inches; brownish yellow (10YR 6/6) clay loam; moderate fine and very fine subangular blocky structure; firm, slightly plastic; common fine and medium roots; very few faint clay films on faces of peds; 1 percent angular quartz gravel; few fine flakes of mica; very strongly acid; clear smooth boundary. 
+ BE--8 to 13 inches; brownish yellow (10YR 6/6) clay loam; moderate fine and very fine subangular blocky structure; firm, slightly plastic; common fine and medium roots; very few faint clay films on faces of peds; 1 percent angular quartz gravel; few fine flakes of mica; very strongly acid; clear smooth boundary. 
 
- Bt1--12 to 30 inches; strong brown (7.5YR 5/6) clay; moderate fine and medium subangular blocky structure; firm, plastic; common fine roots; many distinct clay films on faces of peds; 1 percent angular quartz gravel; common fine flakes of mica; strongly acid; gradual smooth boundary. 
+ Bt1--13 to 31 inches; strong brown (7.5YR 5/6) clay; moderate fine and medium subangular blocky structure; firm, plastic; common fine roots; many distinct clay films on faces of peds; 1 percent angular quartz gravel; common fine flakes of mica; strongly acid; gradual smooth boundary. 
 
- Bt2--30 to 43 inches; strong brown (7.5YR 5/6) clay; many fine and medium brownish yellow (10YR 6/8), reddish yellow (5YR 6/8), and pale brown (10YR 6/3) mottles; moderate medium subangular blocky structure; firm, slightly plastic; few fine roots; many faint and distinct clay films on faces of peds; 1 percent angular quartz gravel; common fine flakes of mica; strongly acid; gradual smooth boundary. (Combine thickness of the Bt horizon ranges from 20 to 40 inches.) 
+ Bt2--31 to 44 inches; strong brown (7.5YR 5/6) clay; many fine and medium brownish yellow (10YR 6/8), reddish yellow (5YR 6/8), and pale brown (10YR 6/3) mottles; moderate medium subangular blocky structure; firm, slightly plastic; few fine roots; many faint and distinct clay films on faces of peds; 1 percent angular quartz gravel; common fine flakes of mica; strongly acid; gradual smooth boundary. (Combine thickness of the Bt horizon ranges from 20 to 40 inches.) 
 
- C--43 to 72 inches; reddish yellow (7.5YR 6/8) sandy loam; strongly weathered granite gneiss saprolite; many fine medium distinct yellowish red (5YR 5/8), white (10YR 8/1), red (2.5YR 5/8), and brown (7.5YR 5/4) mottles; massive; very friable; few fine roots; many fine flakes of mica; 1 percent angular quartz gravel; very strongly acid. 
+ C--44 to 73 inches; reddish yellow (7.5YR 6/8) sandy loam; strongly weathered granite gneiss saprolite; many fine medium distinct yellowish red (5YR 5/8), white (10YR 8/1), red (2.5YR 5/8), and brown (7.5YR 5/4) mottles; massive; very friable; few fine roots; many fine flakes of mica; 1 percent angular quartz gravel; very strongly acid. 
 
 TYPE LOCATION: Prince William County, Virginia; in Prince William Forest Park about 600 feet north of Park Central Road and about 85 feet east of Burma Road.
- 
+
 RANGE IN CHARACTERISTICS: Solum thickness, ranges from 25 to more than 50 inches. Depth to bedrock is more than 60 inches. The C horizon is saprolite from granite gneiss or schist commonly many feet thick. Rock fragments of angular vein quartz gravel up to 3 inches range from 0 to 15 percent. Some pedons have up to 5 percent angular cobbles up to 10 inches in diameter. This soil is very strongly acid or strongly acid, unless limed. 
 
 The thin A horizon has hue of 10YR or 2.5Y or is neutral, value of 3 or 4 and chroma of 0 through 3. It is loam, sandy loam or sandy clay loam. The Ap horizon, where present, includes clay and sandy clay loam in eroded areas, value of 5 through 7, and chroma of 4 or 6. 
@@ -60,8 +60,10 @@ SERIES ESTABLISHED: Greene County, Virginia, 1983.
 
 REMARKS: The Buckhall series has previously been included in Appling and Wedowee series, both of which are in thermic
 temperature zones and have kaolinitic mineralogy.
- 
+
 The 12/2005 revision updates this soil to the 9th Edition of the Keys to Soil Taxonomy (2003). The CEC activity class placement is based on NASIS data from Prince William County, Virginia. Class placement may be revised in the future when laboratory data are reviewed or become available. In addition, the typical pedon description and the Competing Series section were revised. Other sections on the OSD were not revised.
+
+2/2022 revision: Oi had 2 to 0 inch depths, corrected to be 0 to 2 in horizon depths then added 2 inches to all horizon depths throughout the typical pedon. WJN
 
 Previous revision dates: 1/83--DLK, JHE, DDR
 

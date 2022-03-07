@@ -2,7 +2,7 @@ LOCATION MATNEFLAT              VA
 
 Established Series
 Rev. ACB-DAG-DDR
-12/2005
+02/2022
 
 MATNEFLAT SERIES
 
@@ -12,15 +12,15 @@ TAXONOMIC CLASS: Coarse-loamy, siliceous, semiactive, mesic Typic Paleudults
 
 TYPICAL PEDON: Matneflat gravelly sandy loam, very stony - on a 22 percent slope in an area of mixed hardwoods and pines. (Colors are for moist soil.) 
 
-  Oi--2 to 0 inches; partially decomposed leaves, needles, and twigs. 
+  Oi--0 to 2 inches; partially decomposed leaves, needles, and twigs. 
 
-  A--0 to 4 inches; brown (7.5YR 5/4) gravelly sandy loam; weak, fine and medium granular structure; friable, slightly sticky, nonplastic; many fine, medium and coarse roots; 25 percent gravel and cobbles; strongly acid; clear smooth boundary. (0 to 6 inches thick) 
+  A--2 to 6 inches; brown (7.5YR 5/4) gravelly sandy loam; weak, fine and medium granular structure; friable, slightly sticky, nonplastic; many fine, medium and coarse roots; 25 percent gravel and cobbles; strongly acid; clear smooth boundary. (0 to 6 inches thick) 
 
-  Bt1--4 to 21 inches; reddish yellow (7.5YR 6/6) sandy loam; weak medium subangular blocky structure; friable, slightly sticky, nonplastic; common fine, medium and coarse roots; sand grains bridged and coated with clay; 10 percent gravel and cobbles; strongly acid; clear smooth boundary. 
+  Bt1--6 to 23 inches; reddish yellow (7.5YR 6/6) sandy loam; weak medium subangular blocky structure; friable, slightly sticky, nonplastic; common fine, medium and coarse roots; sand grains bridged and coated with clay; 10 percent gravel and cobbles; strongly acid; clear smooth boundary. 
 
-  Bt2--21 to 38 inches; strong brown (7.5YR 5/8) sandy loam; common fine faint reddish yellow (7.5YR 7/8) mottles; weak medium subangular blocky structures; friable, slightly sticky, nonplastic; common fine and medium roots; sand grains bridged and coated with clay; 10 percent gravel and cobbles; strongly acid; clear smooth boundary. 
+  Bt2--23 to 40 inches; strong brown (7.5YR 5/8) sandy loam; common fine faint reddish yellow (7.5YR 7/8) mottles; weak medium subangular blocky structures; friable, slightly sticky, nonplastic; common fine and medium roots; sand grains bridged and coated with clay; 10 percent gravel and cobbles; strongly acid; clear smooth boundary. 
 
-  Bt3--38 to 62 inches; mottled yellowish red (5YR 5/8), red (2.5YR 4/8), and yellowish brown (10YR 5/6), gravelly coarse sandy loam; weak, medium, subangular blocky structure; friable, slightly sticky, nonplastic; few fine roots; sand grains bridged and coated with clay; 30 percent gravel and cobbles; strongly acid. (Combined thickness of the Bt horizons is 58 inches or more) 
+  Bt3--40 to 64 inches; mottled yellowish red (5YR 5/8), red (2.5YR 4/8), and yellowish brown (10YR 5/6), gravelly coarse sandy loam; weak, medium, subangular blocky structure; friable, slightly sticky, nonplastic; few fine roots; sand grains bridged and coated with clay; 30 percent gravel and cobbles; strongly acid. (Combined thickness of the Bt horizons is 58 inches or more) 
 
 TYPE LOCATION: Wythe County, Virginia; 0.77 miles southeast of the junction of highways VA-640 and VA-720, and 1.5 miles southwest of the junction of highways VA-720 and VA-649. 
 
@@ -82,9 +82,11 @@ MLRA = 128, 130 SIR = VA0109 (STONY), VA0110 REVISED 3/28/89
 
 The 12/2005 revision updates this soil to the 9th Edition of the Keys to Soil Taxonomy (2003). The CEC activity class placement may have been based on similar soils and not on laboratory data. Class placement may be revised in the future when laboratory data are reviewed or become available.
 
+2/2022 revision: Oi had 2 to 0 inch depths, corrected to be 0 to 2 in horizon depths then added 2 inches to all horizon depths throughout the typical pedon. WJN
+
 Competing series, pedon description (including horizon nomenclature and/or descriptive terms), and other sections on the OSD were not revised.
 
-Previous revision dates: 9/89
+Previous revision dates: 9/89, 2/22
 
 National Cooperative Soil Survey
 U.S.A.

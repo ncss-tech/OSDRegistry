@@ -2,22 +2,29 @@ LOCATION MASSANUTTEN            VA
 
 Established Series
 Rev. EPE-LWH-JHW
-12/2005
+02/2022
 
 MASSANUTTEN SERIES
 
 Soils of the Massanutten series are moderately deep and well drained. They formed in residuum from sandstone on mountain sideslopes and footslopes. Slopes range from 0 to 65 percent. 
 
-TAXONOMIC CLASS: Coarse-loamy, siliceous, subactive, mesic Typic Hapludults 
+TAXONOMIC CLASS: Coarse-loamy, siliceous, subactive, mesic Typic Hapludults
 
 TYPICAL PEDON: Massanutten channery silt loam, on an east-facing 15 percent slope in cut-over woodland. (Colors are for moist soil) 
-0e--2 inches to 0; loose leaves, twigs and very dark grayish brown (10YR 3/2) highly decomposed organic matter. 
-A--0 to 2 inches; dark gray (10YR 4/1) channery silt loam; very weak very fine granular structure; very friable; many fine and medium roots; 15 percent red sandstone channers; very strongly acid; abrupt smooth boundary. (1 to 3 inches thick) 
-BA--2 to 4 inches; yellowish brown (10YR 5/4) channery silt loam; weak very fine and fine subangular blocky structure; very friable; many fine and medium and coarse roots; common fine and medium discontinuous pores; 15 percent red sandstone channers; strongly acid; abrupt smooth boundary. (0 to 6 inches thick) 
-Bt1--4 to 11 inches; brown (7.5YR 5/4) silt loam; weak fine and medium subangular blocky structure; friable, slightly sticky, nonplastic; many fine and medium and few coarse roots; many fine, common medium and few coarse discontinuous pores; few faint clay films on faces of peds and in pores; 10 percent red sandstone channers; strongly acid; abrupt smooth boundary. 
-Bt2--11 to 21 inches; brown (7.5YR 4/4) channery silt loam; weak very fine subangular blocky structure; friable, slightly sticky, nonplastic; common fine and many medium roots; few fine and medium discontinuous pores; few faint clay films on faces of peds and in pores; 30 percent red sandstone channers; strongly acid; abrupt smooth boundary. (Combined thickness of the Bt horizon is 16 to 34 inches) 
-C--21 to 24 inches; brown (7.5YR 5/4) extremely channery loam; massive; 65 percent sandstone channers; strongly acid; abrupt smooth boundary. 
-R--24 inches; hard red sandstone. 
+
+   Oe--0 to 2 inches; loose leaves, twigs and very dark grayish brown (10YR 3/2) highly decomposed organic matter.
+
+   A--2 to 4 inches; dark gray (10YR 4/1) channery silt loam; very weak very fine granular structure; very friable; many fine and medium roots; 15 percent red sandstone channers; very strongly acid; abrupt smooth boundary. (1 to 3 inches thick)
+
+   BA--4 to 6 inches; yellowish brown (10YR 5/4) channery silt loam; weak very fine and fine subangular blocky structure; very friable; many fine and medium and coarse roots; common fine and medium discontinuous pores; 15 percent red sandstone channers; strongly acid; abrupt smooth boundary. (0 to 6 inches thick) 
+
+   Bt1--6 to 13 inches; brown (7.5YR 5/4) silt loam; weak fine and medium subangular blocky structure; friable, slightly sticky, nonplastic; many fine and medium and few coarse roots; many fine, common medium and few coarse discontinuous pores; few faint clay films on faces of peds and in pores; 10 percent red sandstone channers; strongly acid; abrupt smooth boundary.
+
+   Bt2--13 to 23 inches; brown (7.5YR 4/4) channery silt loam; weak very fine subangular blocky structure; friable, slightly sticky, nonplastic; common fine and many medium roots; few fine and medium discontinuous pores; few faint clay films on faces of peds and in pores; 30 percent red sandstone channers; strongly acid; abrupt smooth boundary. (Combined thickness of the Bt horizon is 16 to 34 inches)
+
+   C--23 to 26 inches; brown (7.5YR 5/4) extremely channery loam; massive; 65 percent sandstone channers; strongly acid; abrupt smooth boundary. 
+
+   R--26 inches; hard red sandstone. 
 
 TYPE LOCATION: Shenandoah County, Virginia; 5 miles east of U.S. 11 on VA-675; 0.8 mile south of intersection of fire trail and VA-675, 500 feet east of fire trail in the George Washington National Forest. 
 
@@ -54,6 +61,8 @@ ADDITIONAL DATA: Particle size, chemical, and sand mineralogy data from the site
 The 12/2005 revision updates this soil to the 9th Edition of the Keys to Soil Taxonomy (2003). The CEC activity class placement may have been based on similar soils and not on laboratory data. Class placement may be revised in the future when laboratory data are reviewed or become available.
 
 Competing series, pedon description (including horizon nomenclature and/or descriptive terms), and other sections on the OSD were not revised.
+
+2/2022 revision: Oe had 2 to 0 inch depths, corrected to be 0 to 2 in horizon depths then added 2 inches to all horizon depths throughout the typical pedon. wjn
 
 Previous revision dates: 5/89
 
