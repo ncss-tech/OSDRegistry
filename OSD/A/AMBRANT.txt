@@ -2,11 +2,11 @@ LOCATION AMBRANT                MT
 
 Established Series
 Rev. NRS/JAL/KLS
-02/2022
+03/2022
 
 AMBRANT SERIES
 
-The Ambrant series consists of very deep, somewhat excessively drained soils that formed in colluvium or alluvium derived from igneous rocks. These soils are on alluvial fans, stream terraces, and mountains. Slopes are 0 to 80 percent.  Mean annual precipitation is about 510 mm, and mean annual temperature is about 6 degrees C.
+The Ambrant series consists of very deep, somewhat excessively drained soils that formed in colluvium or alluvium derived from igneous rocks. These soils are on alluvial fans, stream terraces, and mountains. Slopes are 0 to 80 percent.  Mean annual precipitation is about 510 mm, and mean annual air temperature is about 6 degrees C.
 
 TAXONOMIC CLASS: Coarse-loamy, mixed, superactive, frigid Lamellic Haplustepts
 
@@ -26,76 +26,75 @@ TYPE LOCATION:  Missoula County, Montana; about 310 meters east and 90 meters so
 
 RANGE IN CHARACTERISTICS:
 
-Mean annual soil temperature - 4 to 8 degrees C
+Mean annual soil temperature--4 to 8 degrees C
 
-Moisture control section - between 20 and 60 cm
+Moisture control section--between 20 and 60 cm
 
-Depth to 2C horizon - 70 to 117 cm
-
-
-E1 horizon - 
-Value:  5, 6, or 7 dry; 3 or 4 moist
-
-Chroma:  2 or 3
-
-Texture:  sandy loam or loam
-
-Clay content:  5 to 15 percent
-
-Rock fragments:  0 to 35 percent--0 to 25 percent cobbles, stones, or boulders; 5 to 35 percent angular pebbles
-
-Reaction:  pH 5.6 to 7.3
+Depth to 2C horizon--70 to 117 cm
 
 
-E2 horizon - 
+E1 horizon
+Value--5 through 7 dry; 3 or 4 moist
+
+Chroma--2 or 3
+
+Texture--sandy loam or loam
+
+Clay content--5 to 15 percent
+
+Rock fragment content--0 to 35 percent: 0 to 25 percent cobbles, stones, or boulders; 5 to 35 percent angular pebbles
+
+Reaction--pH 5.6 to 7.3
+
+
+E2 horizon
 Hue:  10YR or 2.5Y
 
-Value:  5, 6 or 7 dry, 4 or 5 moist
+Value--5 through 7 dry, 4 or 5 moist
 
-Chroma:  1, 2, or 3
+Chroma-1 through 3
 
-Texture: coarse sandy loam or loamy coarse sand
+Texture--coarse sandy loam or loamy coarse sand
 
-Clay content:  5 to 15 percent
+Clay content--5 to 15 percent
 
-Rock fragments:  0 to 35 percent--0 to 10 percent cobbles, stones, or boulders; 5 to 35 percent angular pebbles
+Rock fragments content--0 to 35 percent: 0 to 10 percent cobbles, stones, or boulders; 5 to 35 percent angular pebbles
 
-Reaction:  pH 5.6 to 7.3
-
-
-E and Bt horizon - 
-Hue:  E part 10YR or 2.5Y, Bt part 10YR or 2.5Y
-
-Value:  E part 5, 6 or 7, B part 4 or 5 dry; E part 4, 5, or 6, B part 3 or 4 moist
-
-Chroma:  2, 3 or 4
-
-Clay content, mixed:  5 to 18 percent, lamellae has less than 3 percent clay increase
-
-Texture:  sandy loam or coarse sandy loam
-
-Rock fragments:  0 to 35 percent--0 to 10 percent cobbles; 10 to 35 percent angular pebbles
-
-Reaction:  pH 5.6 to 7.3
+Reaction--pH 5.6 to 7.3
 
 
-2C horizon - 
-Hue:  10YR or 2.5Y
+E and Bt horizon 
+Hue--E part: 10YR or 2.5Y, Bt part: 10YR or 2.5Y
 
-Value:  5, 6, or 7 dry, 4 or 5 moist
+Value--E part: 5 through 7, B part: 4 or 5 dry; E part: 4 through 6, B part: 3 or 4 moist
 
-Chroma:  1, 2, 3, or 4
+Chroma--2 through 4
 
-Texture:  coarse sandy loam, coarse sand, loamy coarse sand, sand, or loamy sand
+Clay content, mixed--5 to 18 percent, lamellae has less than 3 percent clay increase
 
-Clay content:  0 to 5 percent
+Texture--sandy loam or coarse sandy loam
 
-Rock fragments:  15 to 60 percent--10 to 25 percent cobbles and stones, 10 to 45 percent angular pebbles
+Rock fragments--0 to 35 percent: 0 to 10 percent cobbles; 10 to 35 percent angular pebbles
 
-Reaction:  pH 5.6 to 7.3
+Reaction--pH 5.6 to 7.3
 
-COMPETING SERIES:
-There are no competing series.
+
+2C horizon
+Hue--10YR or 2.5Y
+
+Value--5 through 7 dry, 4 or 5 moist
+
+Chroma--1 through 4
+
+Texture--coarse sandy loam, coarse sand, loamy coarse sand, sand, or loamy sand
+
+Clay content--0 to 5 percent
+
+Rock fragment content--15 to 60 percent: 10 to 25 percent cobbles and stones, 10 to 45 percent angular pebbles
+
+Reaction--pH 5.6 to 7.3
+
+COMPETING SERIES:  There are no competing series.
 
 GEOGRAPHIC SETTING:
 
@@ -125,15 +124,15 @@ DISTRIBUTION AND EXTENT:  Ambrant soils are moderately extensive in western Mont
 
 SOIL SURVEY REGIONAL OFFICE (SSRO) RESPONSIBLE:  Bozeman, Montana
 
-SERIES ESTABLISHED:  Missoula County, Montana, 1985.
+SERIES ESTABLISHED:  Missoula County, Montana, 1985
 
 REMARKS:  Soil interpretation records:  MT0216, MT1199, MT0706. 
 Diagnostic horizons and features recognized in this pedon are:  
-Ochric epipedon (the upper part of the albic horizon) - 5 to 15 cm (E1 horizon)
-Albic horizon - 15 to 56 cm (E2 horizon)
-Cambic horizon - 56 to 104 cm (E and Bt horizon)
+Ochric epipedon (the upper part of the albic horizon) --5 to 15 cm (E1 horizon)
+Albic horizon--15 to 56 cm (E2 horizon)
+Cambic horizon--56 to 104 cm (E and Bt horizon)
 
-Particle-size control section - 25 to 100 cm (part of E2 horizon and part of E and Bt horizons).  
+Particle-size control section--25 to 100 cm (part of E2 horizon and part of E and Bt horizons).  
 
 Ambrant soils have an ustic moisture regime and a frigid temperature regime.
 

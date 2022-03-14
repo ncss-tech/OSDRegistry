@@ -2,7 +2,7 @@ LOCATION HOADLY                 VA+MD
 
 Established Series
 Rev. JHE-DDR
-01/2006
+03/2022
 
 HOADLY SERIES
 
@@ -12,21 +12,21 @@ TAXONOMIC CLASS: Fine-loamy, siliceous, active, mesic Aquic Fragiudalfs
 
 TYPICAL PEDON:  Hoadly loam on a 4 percent slope in a mixed hardwood and pine forest.  (Colors are for moist soil.)
 
-    Oi--1 to 0 inch; partially decomposed, hardwood leaves, pine needles and twigs.
+    Oi--0 to 1 inch; partially decomposed, hardwood leaves, pine needles and twigs.
 
-    A--0 to 2 inches; very dark grayish brown (10YR 3/2) loam; moderate fine granular structure; very friable; many fine, medium and coarse roots; 1 percent angular quartz; very strongly acid; clear smooth boundary.  (0 to 4 inches thick.)
+    A--1 to 3 inches; very dark grayish brown (10YR 3/2) loam; moderate fine granular structure; very friable; many fine, medium and coarse roots; 1 percent angular quartz; very strongly acid; clear smooth boundary.  (0 to 4 inches thick.)
 
-    E--2 to 11 inches; light yellowish brown (2.5Y 6/4) loam; moderate fine granular structure; very friable; many fine, medium and coarse roots; 1 percent angular quartz gravel; very strongly acid; clear smooth boundary.  (0 to 12 inches thick.)
+    E--3 to 12 inches; light yellowish brown (2.5Y 6/4) loam; moderate fine granular structure; very friable; many fine, medium and coarse roots; 1 percent angular quartz gravel; very strongly acid; clear smooth boundary.  (0 to 12 inches thick.)
 
-    BE--11 to 15 inches; brownish yellow (10YR 6/6) loam; weak fine and medium subangular blocky structure; friable, slightly plastic; many fine and medium roots; few thin patchy films of clay on faces of peds; 1 percent angular quartz gravel; few fine flakes of mica; very strongly acid; clear smooth boundary.
+    BE--12 to 16 inches; brownish yellow (10YR 6/6) loam; weak fine and medium subangular blocky structure; friable, slightly plastic; many fine and medium roots; few thin patchy films of clay on faces of peds; 1 percent angular quartz gravel; few fine flakes of mica; very strongly acid; clear smooth boundary.
 
-    Bt--15 to 29 inches; brownish yellow (10YR 6/8) clay loam; common medium and coarse light brownish gray (10YR 6/2) and light gray (10YR 7/1) and few fine strong brown (7.5YR 5/8) mottles; moderate fine and medium subangular blocky structure; friable, slightly plastic; common fine and medium roots; common distinct films of clay on faces of peds; few fine flakes of mica; very strongly acid; clear smooth boundary.  (Combine thickness of the B above the fragipan ranges from 6 to 30 inches.)
+    Bt--16 to 30 inches; brownish yellow (10YR 6/8) clay loam; common medium and coarse light brownish gray (10YR 6/2) and light gray (10YR 7/1) and few fine strong brown (7.5YR 5/8) mottles; moderate fine and medium subangular blocky structure; friable, slightly plastic; common fine and medium roots; common distinct films of clay on faces of peds; few fine flakes of mica; very strongly acid; clear smooth boundary.  (Combine thickness of the B above the fragipan ranges from 6 to 30 inches.)
 
-    2Bx--29 to 41 inches; mottled, brownish yellow (10YR 6/8), light gray (10YR 7/1) and reddish yellow (7.5YR 6/6) sandy clay loam; moderate medium platy structure; firm, brittle polygonal structure 6 to 12 inches in diameter; cracks filled with light gray clay; 5 percent angular and subrounded quartz gravel; few very fine flakes of mica; strongly acid; gradual smooth boundary.  (The Bx horizon ranges from 10 to 30 inches thick.)
+    2Bx--30 to 42 inches; mottled, brownish yellow (10YR 6/8), light gray (10YR 7/1) and reddish yellow (7.5YR 6/6) sandy clay loam; moderate medium platy structure; firm, brittle polygonal structure 6 to 12 inches in diameter; cracks filled with light gray clay; 5 percent angular and subrounded quartz gravel; few very fine flakes of mica; strongly acid; gradual smooth boundary.  (The Bx horizon ranges from 10 to 30 inches thick.)
 
-    2Bt--41 to 53 inches; light gray to gray (10YR 6/1) sandy clay; common fine brownish yellow (10YR 6/6) mottles; moderate medium and coarse prismatic structure; very firm, plastic slightly sticky; many sand coatings and few distinct clay films on faces of peds; very strongly acid; gradual smooth boundary.  (0 to 16 inches thick.)
+    2Bt--42 to 54 inches; light gray to gray (10YR 6/1) sandy clay; common fine brownish yellow (10YR 6/6) mottles; moderate medium and coarse prismatic structure; very firm, plastic slightly sticky; many sand coatings and few distinct clay films on faces of peds; very strongly acid; gradual smooth boundary.  (0 to 16 inches thick.)
 
-    2C--53 to 72 inches; light gray to gray (10YR 6/1) sandy loam; common fine mottles in shades of brown and yellow; massive, very friable; saprolite from granite gneiss; many fine flakes of mica; very strongly acid.
+    2C--54 to 73 inches; light gray to gray (10YR 6/1) sandy loam; common fine mottles in shades of brown and yellow; massive, very friable; saprolite from granite gneiss; many fine flakes of mica; very strongly acid.
 
 TYPE LOCATION:  Prince William County, Virginia; about 1 mile south of Independent Hill.  About 500 yards east of Route 619 and about 50 yards north of small stream.
 
@@ -59,6 +59,8 @@ MLRA SOIL SURVEY REGIONAL OFFICE (MO) RESPONSIBLE: Morgantown, West Virginia
 SERIES ESTABLISHED:  Prince William County, Virginia, 1985.
 
 REMARKS:  This soil has previously been included in the Colfax series which has mixed mineralogy and is in the thermic temperature zone.
+
+03/2022 revision: Oi had 1 to 0 inch depths, corrected to be 0 to 1 in horizon depths then added 1 inch to all horizon depths throughout the typical pedon. WJN
 
 National Cooperative Soil Survey
 U.S.A.

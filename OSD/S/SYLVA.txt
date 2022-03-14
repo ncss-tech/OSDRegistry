@@ -2,7 +2,7 @@ LOCATION SYLVA                  NC
 
 Established Series
 Rev. MLS:SCK:AG
-10/2001
+03/2022
 
 SYLVA SERIES
 
@@ -12,17 +12,17 @@ TAXONOMIC CLASS: Coarse-loamy, mixed, semiactive, acid, mesic Humic Endoaquepts
 
 TYPICAL PEDON:  Sylva loam on a colluvial flat, 1 percent slope--forest.  (Colors are for moist soil unless otherwise stated.)
 
-     Oe--2 to 0 inches, partially decomposed leaves, twigs, and roots.
+     Oe--0 to 2 inches, partially decomposed leaves, twigs, and roots.
 
-     A1--0 to 4 inches, black (N 2/) loam; weak medium granular structure; very friable; many fine and medium and few coarse roots; few fine flakes of mica; very strongly acid; clear smooth boundary.
+     A1--2 to 6 inches, black (N 2/) loam; weak medium granular structure; very friable; many fine and medium and few coarse roots; few fine flakes of mica; very strongly acid; clear smooth boundary.
 
-     A2--4 to 8 inches, very dark grayish brown (2.5Y 3/2) loam; common medium prominent dark yellowish brown (10YR 4/4) streaks, and common medium faint dark grayish brown (2.5Y 4/2) and very dark gray (10YR 3/1) streaks; weak medium subangular blocky structure; friable; common fine and medium roots; common fine flakes of mica; strongly acid; clear irregular boundary.  (Combined thickness of the A horizons is 6 to 10 inches.)
+     A2--6 to 10 inches, very dark grayish brown (2.5Y 3/2) loam; common medium prominent dark yellowish brown (10YR 4/4) streaks, and common medium faint dark grayish brown (2.5Y 4/2) and very dark gray (10YR 3/1) streaks; weak medium subangular blocky structure; friable; common fine and medium roots; common fine flakes of mica; strongly acid; clear irregular boundary.  (Combined thickness of the A horizons is 6 to 10 inches.)
 
-     Bg1--8 to 20 inches, light gray (2.5Y 7/2) loam; weak medium subangular blocky structure; friable; few fine roots; common fine flakes of mica; very strongly acid; gradual wavy boundary.
+     Bg1--10 to 22 inches, light gray (2.5Y 7/2) loam; weak medium subangular blocky structure; friable; few fine roots; common fine flakes of mica; very strongly acid; gradual wavy boundary.
 
-     Bg2--20 to 37 inches, light gray (2.5Y 7/2) sandy loam; weak medium subangular blocky structure; friable; few medium roots; common fine flakes of mica; very strongly acid; gradual wavy boundary.  (Combined thickness of the Bg horizon is 14 to 30 inches)
+     Bg2--22 to 39 inches, light gray (2.5Y 7/2) sandy loam; weak medium subangular blocky structure; friable; few medium roots; common fine flakes of mica; very strongly acid; gradual wavy boundary.  (Combined thickness of the Bg horizon is 14 to 30 inches)
 
-     Cg--37 to 65 inches, light brownish gray (2.5Y 6/2) loam; massive; friable; common fine flakes of mica; very strongly acid.
+     Cg--39 to 67 inches, light brownish gray (2.5Y 6/2) loam; massive; friable; common fine flakes of mica; very strongly acid.
 
 TYPE LOCATION:  Jackson County, North Carolina; 0.25 mile south of Cashiers Lake on Cashiers Lake Road; 0.5 mile west on NC 107 highway from Highlands east on U.S. 64 to SR 1540 to Shortoff Church Road; on left in woods.
 
@@ -58,9 +58,11 @@ Diagnostic horizons and features in this pedon are:
 
 Humic Haplaquept feature - The presence of moist color value less than 3.5 in the 0 to 8 inch A horizon, and the 8 inch thickness is less than one-third the depth to the base of the Bg horizon or a minimum of 10 inches.
 
-Ochric Epipedon - 0 to 8 inches (A Horizon)
+Ochric Epipedon - 2 to 10 inches (A Horizon)
 
-Cambic Horizon - 8 to 37 inches (Bg1 and Bg2 Horizons)
+Cambic Horizon - 10 to 39 inches (Bg1 and Bg2 Horizons)
+
+03/2022 revision: Oe had 2 to 0 inch depths, corrected to be 0 to 2 in horizon depths then added 2 inches to all horizon depths throughout the typical pedon. WJN
 
 National Cooperative Soil Survey
 U.S.A.

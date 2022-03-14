@@ -2,7 +2,7 @@ LOCATION DRALL                  VA+WV
 
 Established Series
 RLG-DDR/Rev. JCB, CRS, JRT
-08/2021
+03/2022
 
 DRALL SERIES
 
@@ -12,23 +12,23 @@ TAXONOMIC CLASS: Sandy-skeletal, siliceous, mesic Typic Udorthents
 
 TYPICAL PEDON:  Drall channery sandy loam-forested, extremely stony (Colors are for moist soil.)
 
-    Oi--1 to 0 inch; fresh and partially decomposed leaves, pine needles, and twigs.
+    Oi--0 to 1 inch; fresh and partially decomposed leaves, pine needles, and twigs.
 
-    A1--0 to 2 inches; dark grayish brown (10YR 4/2) channery sandy loam; weak coarse granular structure; very friable; common fine and medium roots; 20 percent rock fragments; very strongly acid; abrupt smooth boundary.
+    A1--1 to 3 inches; dark grayish brown (10YR 4/2) channery sandy loam; weak coarse granular structure; very friable; common fine and medium roots; 20 percent rock fragments; very strongly acid; abrupt smooth boundary.
 
-    A2--2 to 10 inches; dark yellowish brown (10YR 4/4) channery sandy loam; weak coarse granular structure; very friable; common fine and medium roots; 25 percent rock fragments; very strongly acid; clear wavy boundary.  (Combined thickness of A horizons-6 to 15 inches)
+    A2--3 to 11 inches; dark yellowish brown (10YR 4/4) channery sandy loam; weak coarse granular structure; very friable; common fine and medium roots; 25 percent rock fragments; very strongly acid; clear wavy boundary.  (Combined thickness of A horizons-6 to 15 inches)
 
-    Bw1--10 to 21 inches; yellowish brown (10YR 5/4) very channery loamy sand; weak fine subangular blocky and weak medium granular structure; very friable; common fine and medium roots; 50 percent rock fragments; very strongly acid; clear wavy boundary.
+    Bw1--11 to 22 inches; yellowish brown (10YR 5/4) very channery loamy sand; weak fine subangular blocky and weak medium granular structure; very friable; common fine and medium roots; 50 percent rock fragments; very strongly acid; clear wavy boundary.
 
-    Bw2--21 to 31 inches; yellowish brown (10YR 5/6) very channery loamy sand; weak fine subangular blocky and weak medium granular structure; very friable; few fine and medium roots; 60 percent quartzite rock fragments; very strongly acid; clear wavy boundary. (Combined thickness of B horizons-10 to 30 inches.)
+    Bw2--22 to 32 inches; yellowish brown (10YR 5/6) very channery loamy sand; weak fine subangular blocky and weak medium granular structure; very friable; few fine and medium roots; 60 percent quartzite rock fragments; very strongly acid; clear wavy boundary. (Combined thickness of B horizons-10 to 30 inches.)
 
-    C1--31 to 46 inches; brownish yellow (10YR 6/6) very channery sand; weak very fine subangular blocky structure; loose; few fine and medium roots; 70 percent quartzite rock fragments; very strongly acid; abrupt wavy boundary.
+    C1--32 to 47 inches; brownish yellow (10YR 6/6) very channery sand; weak very fine subangular blocky structure; loose; few fine and medium roots; 70 percent quartzite rock fragments; very strongly acid; abrupt wavy boundary.
 
-    C2--46 to 52 inches; yellow (10YR 7/6) channery sand; common fine faint very pale brown (10YR7/3) mottles or streaks; weak very thick platy structure; friable; 35 percent quartzite rock fragments; very strongly acid; abrupt wavy boundary.
+    C2--47 to 53 inches; yellow (10YR 7/6) channery sand; common fine faint very pale brown (10YR7/3) mottles or streaks; weak very thick platy structure; friable; 35 percent quartzite rock fragments; very strongly acid; abrupt wavy boundary.
 
-    2C3--52 to 58 inches; yellowish brown (10YR 5/6) sandy clay; common fine distinct strong brown (7.5YR 5/8) and common fine faint brownish yellow (10YR 6/6) mottles or streaks; moderate thin platy structure; firm; 10 percent quartzite rock fragments; very strongly acid; abrupt smooth boundary.  (Combined thickness of C horizons-20 to 40 inches.)
+    2C3--53 to 59 inches; yellowish brown (10YR 5/6) sandy clay; common fine distinct strong brown (7.5YR 5/8) and common fine faint brownish yellow (10YR 6/6) mottles or streaks; moderate thin platy structure; firm; 10 percent quartzite rock fragments; very strongly acid; abrupt smooth boundary.  (Combined thickness of C horizons-20 to 40 inches.)
 
-    2R--58 inches; hard quartzite rock containing many Scolithus fossils.
+    2R--59 inches; hard quartzite rock containing many Scolithus fossils.
 
 TYPE LOCATION:  Augusta County, Virginia; George Washington National Forest, on Stony Run Trail 1/2 mile southeast of Forest Service Road 42.
 
@@ -57,13 +57,15 @@ MLRA SOIL SURVEY REGIONAL OFFICE (MO) RESPONSIBLE: Morgantown, West Virginia
 SERIES ESTABLISHED:  Augusta County, Virginia, 1977.
 
 REMARKS:  Diagnostic horizons recognized in this pedon are:
-a. Ochric epipedon - The zone between the surface to 10 inches (A1 and A2 horizons).
+a. Ochric epipedon - The zone between the surface to 11 inches (A1 and A2 horizons).
 
 ADDITIONAL DATA:  Particle-size data for samples from typifying pedon show decrease in clay from A horizon to B horizon.  (U.S. Forest Service Profile No. 183, Hydrometer Method)
 
 SIR = VA0023, VA0024  MLRA = 128, 130, 147
 
 8/2021 revision: expands slope gradient range from '15 to 70' percent to '0 to 70'.
+
+03/2022 revision: Oi had 1 to 0 inch depths, corrected to be 0 to 1 in horizon depths then added 1 inch to all horizon depths throughout the typical pedon. WJN
 
 National Cooperative Soil Survey
 U.S.A.

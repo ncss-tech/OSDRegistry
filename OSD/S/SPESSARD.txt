@@ -2,7 +2,7 @@ LOCATION SPESSARD               VA
 
 Established Series
 Rev. EPE
-9/90
+03/2022
 
 SPESSARD SERIES
 
@@ -11,8 +11,6 @@ The Spessard series consists of very deep, well drained, very rapidly permeable 
 TAXONOMIC CLASS: Mixed, mesic Typic Udipsamments
 
 TYPICAL PEDON: Spessard loamy sand on a 17 percent slope, forested.  (Colors are for moist soil.)
-
-    0i--1 to 0 inch; loose leaves and twigs
 
     A--0 to 9 inches; very dark brown (10YR 3/2) loamy sand; single grain; loose; many fine and few medium roots; moderately acid; abrupt wavy boundary. (2 to 9 inches)
 
@@ -26,7 +24,7 @@ TYPICAL PEDON: Spessard loamy sand on a 17 percent slope, forested.  (Colors are
 
 TYPE LOCATION:  Roanoke County, Virginia; approximately 7 miles west south west of intersection of Virginia routes 311 and 684; 250 feet north of Virginia route 684.
 
-RANGE IN CHARACTERISTICS; Solum thickness ranges from 40 to 60 inches.  Depth to bedrock is more than 72 inches.  Rock fragments range from 0 to 10 percent in the A and E horizons and 0 to 20 percent in the Bw and C horizons.  Reaction range from strongly acid to slightly acid.
+RANGE IN CHARACTERISTICS: Solum thickness ranges from 40 to 60 inches.  Depth to bedrock is more than 72 inches.  Rock fragments range from 0 to 10 percent in the A and E horizons and 0 to 20 percent in the Bw and C horizons.  Reaction range from strongly acid to slightly acid.
 
 The A horizon has a hue of 7.5YR or 10YR, value of 2 through 4 and chroma of 1 through 3.  It is loamy sand.
 
@@ -40,11 +38,11 @@ COMPETING SERIES: These are the Abscota, Biltmore, Caesar, Chute, Dabney, Hodge,
 
 GEOGRAPHIC SETTING: Spessard soils are on side slopes and toe slopes of ridges.  Slopes range from 7 to 60 percent. They formed in colluvium from acid sandstone.  Mean annual temperature ranges from 50 to 58 degrees F.  Mean annual precipitation ranges from 35 to 45 inches.
 
-GEOGRAPHICALLY ASSOCIATED SOILS;  These are the Berks, Dekalb, Laidig and Weikert soils.  The Berks, Dekalb and Weikert soils are on adjacent shoulders and side slopes of ridges.  Laidig soils are on similar adjacent position on the landscape.
+GEOGRAPHICALLY ASSOCIATED SOILS:  These are the Berks, Dekalb, Laidig and Weikert soils.  The Berks, Dekalb and Weikert soils are on adjacent shoulders and side slopes of ridges.  Laidig soils are on similar adjacent position on the landscape.
 
 DRAINAGE AND PERMEABILITY:  Well drained.  Permeability is very rapid.  Surface runoff is medium.
 
-NATIVE VEGETATION:  Native vegetation is mixed hardwoods and pines.
+USE AND VEGETATION:  Native vegetation is mixed hardwoods and pines.
 
 DISTRIBUTION AND EXTENT:  Alleghney mountains in Virginia and possible Kentucky and Tennessee.  The series is of small extent.
 
@@ -59,6 +57,8 @@ Diagnostic horizons and features recognized in this pedon are:
 Ochric epipedon - The zone from the surface to a depth of 13 inches.  (A and E horizons)
 
 ADDITIONAL DATA: Chemical and physical data available for typical pedon 87-VA-161(1-6) by Virginia Polytechnic Institute and State University.
+
+03/2022: Oi layer was removed from the typical pedon description because /freshly fallen, or undecomposed leaf litter or simlar undeceomposed material should not be included as a surface layer in the soil description.  The typical pedon originally had a top layer described as undecomposed leaf material or similar undecomposed material.WJN
 
 National Cooperative Soil Survey
 U.S.A.

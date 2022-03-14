@@ -2,7 +2,7 @@ LOCATION GUNSTOCK               VA
 
 Established Series
 Rev. CB-DDR
-01/2006
+03/2022
 
 GUNSTOCK SERIES
 
@@ -12,21 +12,19 @@ TAXONOMIC CLASS: Fine-loamy, siliceous, semiactive, mesic Typic Hapludults
 
 TYPICAL PEDON:  Gunstock channery loam - on an 8 percent convex southeast - facing slope in forest.
 
-    Oi--3 to 1 inches; loose leaves, twigs, and pine needles.
+    Oe--0 to 1 inch; partially decomposed organic matter.
 
-    Oe--1 to 0 inch; partially decomposed organic matter.
+    A--1 to 9 inches; yellowish brown (10YR 5/4) channery loam; weak fine granular structure; soft, very friable, slightly sticky and slightly plastic; common very fine, fine, medium, and coarse roots; 25 percent hard phyllite and quartzite channers up to 4 inches in length; very strongly acid; clear wavy boundary (2 to 10 inches thick).
 
-    A--O to 8 inches; yellowish brown (10YR 5/4) channery loam; weak fine granular structure; soft, very friable, slightly sticky and slightly plastic; common very fine, fine, medium, and coarse roots; 25 percent hard phyllite and quartzite channers up to 4 inches in length; very strongly acid; clear wavy boundary (2 to 10 inches thick).
+    Bt1--9 to 12 inches; brown (7.5YR 5/4) channery clay loam; weak medium subangular blocky structure; soft, friable, slightly sticky and slightly plastic; common very fine and fine roots; 10 percent hard phyllite and 10 percent soft phyllite channers up to 3 inches in length; few faint clay films; very strongly acid; clear wavy boundary.
 
-    Bt1--8 to 11 inches; brown (7.5YR 5/4) channery clay loam; weak medium subangular blocky structure; soft, friable, slightly sticky and slightly plastic; common very fine and fine roots; 10 percent hard phyllite and 10 percent soft phyllite channers up to 3 inches in length; few faint clay films; very strongly acid; clear wavy boundary.
+    Bt2--12 to 24 inches; strong brown (7.5YR 5/6) channery clay loam; moderate medium subangular blocky structure; slightly hard, friable, sticky and slightly plastic; few very fine and fine roots; 15 percent soft crushable light brownish gray phyllite channers; few distinct clay films; very strongly acid; clear wavy boundary.
 
-    Bt2--11 to 23 inches; strong brown (7.5YR 5/6) channery clay loam; moderate medium subangular blocky structure; slightly hard, friable, sticky and slightly plastic; few very fine and fine roots; 15 percent soft crushable light brownish gray phyllite channers; few distinct clay films; very strongly acid; clear wavy boundary.
+    Bt3--24 to 35 inches; yellowish red (5YR 5/6) very channery clay loam; moderate medium subangular blocky structure; slightly hard, friable, sticky and slightly plastic; few very fine roots; 50 percent soft weathered multicolored strong brown, light yellowish brown, yellowish brown, and light brownish gray phyllite fragments; many distinct clay films; very strongly acid; clear wavy boundary (combined thickness of the Bt horizon ranges from 15 to 38 inches).
 
-    Bt3--23 to 34 inches; yellowish red (5YR 5/6) very channery clay loam; moderate medium subangular blocky structure; slightly hard, friable, sticky and slightly plastic; few very fine roots; 50 percent soft weathered multicolored strong brown, light yellowish brown, yellowish brown, and light brownish gray phyllite fragments; many distinct clay films; very strongly acid; clear wavy boundary (combined thickness of the Bt horizon ranges from 15 to 38 inches).
+    Cr--35 to 48 inches; multicolored yellowish brown (10YR 5/8), light yellowish brown (10YR 6/4) and light gray (2.5YR 7/2) soft weathered phyllite that crushes to loam; massive; hard, firm, slightly sticky and slightly plastic; clay flows and clay lenses coat rock faces; very strongly acid; abrupt wavy boundary.
 
-    Cr--34 to 47 inches; multicolored yellowish brown (10YR 5/8), light yellowish brown (10YR 6/4) and light gray (2.5YR 7/2) soft weathered phyllite that crushes to loam; massive; hard, firm, slightly sticky and slightly plastic; clay flows and clay lenses coat rock faces; very strongly acid; abrupt wavy boundary.
-
-    R--47 inches; hard multicolored fractured phyllite.
+    R--48 inches; hard multicolored fractured phyllite.
 
 TYPE LOCATION:  Northern Bedford County, Virginia; 5000 feet west and 4750 feet north of the intersection of roads VA-600 and US-501 and about 750 feet west of US-501.
 
@@ -58,9 +56,9 @@ SERIES ESTABLISHED:  Bedford County, Virginia 1985.
 
 REMARKS: Diagnostic horizons and features recognized in this pedon are:
 
-a.  Argillic horizon 8 to 34 inches.
+a.  Argillic horizon 9 to 35 inches.
 
-b.  Cr horizon at 34 inches.
+b.  Cr horizon at 35 inches.
 
 ADDITIONAL DATA:
 
@@ -71,6 +69,8 @@ b.  Base saturation - 0.83 percent .
 c.  Rock fragments were estimated to be 50 percent in the Bt3. Due to the lab procedure, all rock fragments were soft enough to be ground up in the Bt3 and Cr horizon.
 
 d.  33 percent clay, 28 percent sand and 39 percent silt in the control section.
+
+03/2022 - Oi layer was removed from the typical pedon description because /freshly fallen, or undecomposed leaf litter or simlar undecomposed material should not be included as a surface layer in the soil description.  Also, Oe had 1 to 0 inch depths, corrected to be 0 to 1 in horizon depths then added 1 inch to all horizon depths throughout the typical pedon. WJN
 
 National Cooperative Soil Survey
 U.S.A.

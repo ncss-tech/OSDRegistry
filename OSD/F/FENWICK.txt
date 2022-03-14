@@ -2,7 +2,7 @@ LOCATION FENWICK                WV
 
 Established Series
 Rev. JWB-SGC-ART
-10/2005
+03/2022
 
 FENWICK SERIES
 
@@ -12,24 +12,22 @@ TAXONOMIC CLASS: Fine-loamy, mixed, semiactive, mesic Aquic Hapludults
 
 TYPICAL PEDON:  Fenwick silt loam - on a 3 percent, east-facing slope in a wooded area.
 
- Oi--2 to 1 inches; loose hardwood leaf litter.
+ Oe--0 to 1 inches; partially decomposed hardwood leaf litter.
 
- Oe--1 to 0 inches; partially decomposed hardwood leaf litter.
+ A--1 to 3 inches; very dark brown (10YR 2/2) silt loam; weak fine and medium granular structure; very friable; many fine and medium roots; 10 percent sandstone fragments; very strongly acid; abrupt wavy boundary.  (2 to 6 inches thick)
 
- A--0 to 2 inches; very dark brown (10YR 2/2) silt loam; weak fine and medium granular structure; very friable; many fine and medium roots; 10 percent sandstone fragments; very strongly acid; abrupt wavy boundary.  (2 to 6 inches thick)
+ AB--3 to 9 inches; dark yellowish brown (10YR 4/4) silt loam; weak fine and medium subangular blocky structure; friable; many fine and medium roots; 10 percent sandstone fragments; very strongly acid; clear wavy boundary.  (0 to 7 inches thick)
 
- AB--2 to 8 inches; dark yellowish brown (10YR 4/4) silt loam; weak fine and medium subangular blocky structure; friable; many fine and medium roots; 10 percent sandstone fragments; very strongly acid; clear wavy boundary.  (0 to 7 inches thick)
+ Bt1--9 to 19 inches; yellowish brown (10YR 5/6) loam; moderate medium subangular blocky structure; friable; few distinct clay films on faces of peds; common fine and medium roots; 10 percent sandstone fragments; very strongly acid; clear wavy boundary.  (5 to 15 inches thick)
 
- Bt1--8 to 18 inches; yellowish brown (10YR 5/6) loam; moderate medium subangular blocky structure; friable; few distinct clay films on faces of peds; common fine and medium roots; 10 percent sandstone fragments; very strongly acid; clear wavy boundary.  (5 to 15 inches thick)
+ Bt2--19 to 26 inches; light yellowish brown (10YR 6/4) loam; many medium light brownish gray (2.5Y 6/2) and yellowish red (5YR 5/8) mottles; moderate coarse subangular blocky structure; friable; common distinct clay films on faces of peds; few fine roots; 10 percent sandstone fragments; very strongly acid; gradual wavy boundary. (5 to 15 inches thick)
 
- Bt2--18 to 25 inches; light yellowish brown (10YR 6/4) loam; many medium light brownish gray (2.5Y 6/2) and yellowish red (5YR 5/8) mottles; moderate coarse subangular blocky structure; friable; common distinct clay films on faces of peds; few fine roots; 10 percent sandstone fragments; very strongly acid; gradual wavy boundary. (5 to 15 inches thick)
+ BC--26 to 34 inches; light yellowish brown (10YR 6/4) loam; many medium light brownish gray (2.5Y 6/2) and yellowish red (5YR 5/8) mottles; weak coarse subangular blocky structure; firm; 5 percent sandstone fragments; very strongly acid; clear smooth boundary.  (0 to 20 inches thick)
 
- BC--25 to 33 inches; light yellowish brown (10YR 6/4) loam; many medium light brownish gray (2.5Y 6/2) and yellowish red (5YR 5/8) mottles; weak coarse subangular blocky structure; firm; 5 percent sandstone fragments; very strongly acid; clear smooth boundary.  (0 to 20 inches thick)
-
- C--33 to 38 inches; light yellowish brown (10YR 6/4) and light brownish gray (2.5Y 6/2) loam; massive; firm; 5 percent 
+ C--34 to 39 inches; light yellowish brown (10YR 6/4) and light brownish gray (2.5Y 6/2) loam; massive; firm; 5 percent 
 sandstone fragments; very strongly acid; clear smooth boundary.  (0 to 10 inches thick)
 
- R--38 inches; hard yellowish gray sandstone and soft gray shale.
+ R--39 inches; hard yellowish gray sandstone and soft gray shale.
 
 TYPE LOCATION:  Nicholas County, West Virginia; south east of Nettie and approximately 1.3 miles east of WV Route 20 and 1.5 miles south of WV Route 39.
 
@@ -65,14 +63,15 @@ REMARKS:  These soils were previously mapped as Variants of the Cookport series.
 
 Diagnostic horizons and features recognized in the typical pedon are:
 
-1.  Ochric epipedon - the zone from 0 to 8 inches (A and AB horizons).
+1.  Ochric epipedon - the zone from 1 to 9 inches (A and AB horizons).
 
-2.  Argillic horizon - the zone from 8 to 25 inches (Bt1 and Bt2 horizons).
+2.  Argillic horizon - the zone from 9 to 26 inches (Bt1 and Bt2 horizons).
 
-3.  Aquic feature - the zone from 18 to 25 inches (Bt2 horizon).
+3.  Aquic feature - the zone from 19 to 26 inches (Bt2 horizon).
 
 The 10/2005 revision updates this soil to the 9th Edition of the Keys to Soil Taxonomy (2003). CEC class is based on NASIS data from Webster County, West Virginia. Competing series, pedon description (including horizon nomenclature and/or descriptive terms), and other sections on the OSD were not revised.
 
+03/2022 revision - Oi layer was removed from the typical pedon description because /freshly fallen, or undecomposed leaf litter or similar undecomposed material should not be included as a surface layer in the soil description.  The typical pedon originally had a top layer described as undecomposed leaf material or similar undecomposed material. Oe had 1 to 0 inch depths, corrected to be 0 to 1 in horizon depths then added 1 inch to all horizon depths throughout the typical pedon. WJN
 
 National Cooperative Soil Survey
 U.S.A.

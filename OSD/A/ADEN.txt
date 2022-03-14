@@ -2,7 +2,7 @@ LOCATION ADEN                   VA
 
 Established Series
 Rev. JHE-DDR
-01/2006
+03/2022
 
 ADEN SERIES
 
@@ -12,19 +12,19 @@ TAXONOMIC CLASS: Fine, mixed, semiactive, mesic Aeric epiaqualfs
 
 TYPICAL PEDON:  Aden silt loam on a 2 percent slope in a mixed hardwood and pine forest (colors are for moist soils).
 
-     0i--1 to 0 inch; partially decomposed leaves, pine needles and twigs.
+     Oi--0 to 1 inch; partially decomposed leaves, pine needles and twigs.
 
-     Ap--0 to 8 inches; light yellowish brown (10YR 6/4) silt loam; many medium and fine distinct light gray (10YR 7/1) and very pale brown (10YR 7/3) mottles; moderate fine granular structure; friable, slightly sticky; many fine medium and coarse roots; 1 percent subrounded quartz gravel; strongly acid; abrupt smooth boundary. (0 to 10 inches thick.)
+     Ap--1 to 9 inches; light yellowish brown (10YR 6/4) silt loam; many medium and fine distinct light gray (10YR 7/1) and very pale brown (10YR 7/3) mottles; moderate fine granular structure; friable, slightly sticky; many fine medium and coarse roots; 1 percent subrounded quartz gravel; strongly acid; abrupt smooth boundary. (0 to 10 inches thick.)
 
-     Btg--8 to 14 inches; light gray (10YR 7/1) silty clay loam, many medium distinct light brownish gray(10YR 6/2) and brownish yellow (10YR 6/6) mottles; moderate fine subangular blocky structure; firm, slightly plastic, sticky; many fine medium and coarse roots; 1 percent subrounded quartz gravel; few distinct clay films on ped faces;  common Fe-Mn streaks and concretions; strongly acid; clear smooth boundary.
+     Btg--9 to 15 inches; light gray (10YR 7/1) silty clay loam, many medium distinct light brownish gray(10YR 6/2) and brownish yellow (10YR 6/6) mottles; moderate fine subangular blocky structure; firm, slightly plastic, sticky; many fine medium and coarse roots; 1 percent subrounded quartz gravel; few distinct clay films on ped faces;  common Fe-Mn streaks and concretions; strongly acid; clear smooth boundary.
 
-     Bt1--14 to 31 inches; strong brown (7.5YR 5/6) clay; common medium and fine prominent light gray (10YR 7/1) and pinkish gray (7.5YR 6/2) mottles; moderate medium subangular blocky structure; firm, plastic, sticky; fine and medium roots; many Fe-Mn concretions and streaks.  Common distinct and prominent clay films on ped faces; 1 percent subrounded quartz gravel; very strongly acid; gradual smooth boundary.
+     Bt1--15 to 32 inches; strong brown (7.5YR 5/6) clay; common medium and fine prominent light gray (10YR 7/1) and pinkish gray (7.5YR 6/2) mottles; moderate medium subangular blocky structure; firm, plastic, sticky; fine and medium roots; many Fe-Mn concretions and streaks.  Common distinct and prominent clay films on ped faces; 1 percent subrounded quartz gravel; very strongly acid; gradual smooth boundary.
 
-     Bt2--31 to 58 inches; reddish brown (5YR 4/4) silty clay loam; common fine and medium distinct pinkish gray (7.5YR 6/2) mottles; weak medium and fine subangular blocky structure, firm, slightly plastic, sticky; few fine roots; few distinct clay films on faces of peds; 1 percent subrounded quartz gravel; many medium Fe-Mn concretions and streaks; very strongly acid; gradual smooth boundary.  (Combined thickness of the B ranges from 30 to 60 inches).
+     Bt2--32 to 59 inches; reddish brown (5YR 4/4) silty clay loam; common fine and medium distinct pinkish gray (7.5YR 6/2) mottles; weak medium and fine subangular blocky structure, firm, slightly plastic, sticky; few fine roots; few distinct clay films on faces of peds; 1 percent subrounded quartz gravel; many medium Fe-Mn concretions and streaks; very strongly acid; gradual smooth boundary.  (Combined thickness of the B ranges from 30 to 60 inches).
 
-     C--58 to 78 inches;  Mottled pinkish gray (5YR 6/2), yellowish red (5YR 5/8) and yellowish brown (10YR 5/8) silt loam; structureless; friable, slightly sticky; common medium Fe-Mn concretions and streaks; few fine mica flakes; 1 percent silt stone gravels; very strongly acid; abrupt smooth boundary.
+     C--59 to 79 inches;  Mottled pinkish gray (5YR 6/2), yellowish red (5YR 5/8) and yellowish brown (10YR 5/8) silt loam; structureless; friable, slightly sticky; common medium Fe-Mn concretions and streaks; few fine mica flakes; 1 percent silt stone gravels; very strongly acid; abrupt smooth boundary.
 
-     Cr--78 inches; partially weathered, red (2.5YR 5/6) silt stone with light gray (10YR 7/1) clay coatings in crevices.
+     Cr--79 inches; partially weathered, red (2.5YR 5/6) silt stone with light gray (10YR 7/1) clay coatings in crevices.
 
 TYPE LOCATION:  Prince William County, Virginia; about 1,000 feet east of Va. Route 611 and about 1,200 feet north of Cedar Run.
 
@@ -57,6 +57,8 @@ MLRA SOIL SURVEY REGIONAL OFFICE (MO) RESPONSIBLE: Morgantown, West Virginia
 SERIES ESTABLISHED:  Prince William County, Virginia 1985.
 
 REMARKS: This soil was previously mapped as Augusta, Lamington, Roanoke or Kinkora soils.  National Cooperative Soil Survey
+
+03/2022 revision: Oi had 1 to 0 inch depths, corrected to be 0 to 1 in horizon depths then added 1 inch to all horizon depths throughout the typical pedon. WJN
 
 National Cooperative Soil Survey
 U.S.A.

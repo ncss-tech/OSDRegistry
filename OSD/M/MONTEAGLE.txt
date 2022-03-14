@@ -2,7 +2,7 @@ LOCATION MONTEAGLE              TN
 
 Established Series
 Rev. JLP:JCJ
-02/2003
+03/2022
 
 MONTEAGLE SERIES
 
@@ -12,25 +12,25 @@ TAXONOMIC CLASS: Fine, mixed, semiactive, mesic Typic Paleudults
 
 TYPICAL PEDON:  Monteagle loam-forested (colors are for moist soils unless otherwise stated).
 
-   Oi--1 to 0 inch; partially weathered leaves.
+   Oi--0 to 1 inch; partially weathered leaves.
 
-    A--0 to 1 inch; very dark grayish brown (10YR 3/2) loam; moderate medium granular structure; very friable; many very fine and fine and common medium roots; many very fine and fine and common medium pores; strongly acid; abrupt smooth boundary. (1 to 4 inches thick)
+    A--1 to 2 inch; very dark grayish brown (10YR 3/2) loam; moderate medium granular structure; very friable; many very fine and fine and common medium roots; many very fine and fine and common medium pores; strongly acid; abrupt smooth boundary. (1 to 4 inches thick)
 
-    E--1 to 4 inches; yellowish brown (10YR 5/4) loam; moderate medium granular structure; very friable; common very fine, fine and medium and few coarse roots; many very fine and common fine and medium pores; very strongly acid; clear smooth boundary.  (2 to 8 inches thick)
+    E--2 to 5 inches; yellowish brown (10YR 5/4) loam; moderate medium granular structure; very friable; common very fine, fine and medium and few coarse roots; many very fine and common fine and medium pores; very strongly acid; clear smooth boundary.  (2 to 8 inches thick)
 
-    Bt1--4 to 12 inches; strong brown (7.5YR 5/6) clay loam; few medium distinct brownish yellow (10YR 6/6) mottles; weak medium subangular blocky structure; friable; common very fine, fine, and medium and few coarse roots; many very fine and common fine and medium pores; few faint clay films in pores; very strongly acid; gradual smooth boundary.
+    Bt1--5 to 13 inches; strong brown (7.5YR 5/6) clay loam; few medium distinct brownish yellow (10YR 6/6) mottles; weak medium subangular blocky structure; friable; common very fine, fine, and medium and few coarse roots; many very fine and common fine and medium pores; few faint clay films in pores; very strongly acid; gradual smooth boundary.
 
-    Bt2--12 to 21 inches; yellowish red (5YR 4/6) clay loam; moderate medium subangular blocky structure; friable; common very fine, fine and medium and few coarse roots; common very fine, fine and medium pores; common distinct reddish brown (5YR 4/4) clay films on faces of peds and in pores; very strongly acid; gradual smooth boundary.
+    Bt2--13 to 22 inches; yellowish red (5YR 4/6) clay loam; moderate medium subangular blocky structure; friable; common very fine, fine and medium and few coarse roots; common very fine, fine and medium pores; common distinct reddish brown (5YR 4/4) clay films on faces of peds and in pores; very strongly acid; gradual smooth boundary.
 
-    Bt3--21 to 32 inches; red (2.5YR 4/6) clay loam; moderate medium subangular blocky structure; common very fine, fine, and medium roots; common very fine and fine, and few medium pores; common distinct reddish brown (2.5YR 4/4) clay films on faces of peds and in pores; very strongly acid; gradual wavy boundary.
+    Bt3--22 to 33 inches; red (2.5YR 4/6) clay loam; moderate medium subangular blocky structure; common very fine, fine, and medium roots; common very fine and fine, and few medium pores; common distinct reddish brown (2.5YR 4/4) clay films on faces of peds and in pores; very strongly acid; gradual wavy boundary.
 
-    Bt4--32 to 58 inches; yellowish red (5YR 5/8) clay loam; few medium prominent yellow (10YR 7/8) mottles; moderate medium subangular blocky structure; friable; few very fine and fine roots; common very fine and fine pores; common distinct yellowish red (5YR 5/6) clay films on faces of peds; very strongly acid; gradual wavy boundary.
+    Bt4--33 to 59 inches; yellowish red (5YR 5/8) clay loam; few medium prominent yellow (10YR 7/8) mottles; moderate medium subangular blocky structure; friable; few very fine and fine roots; common very fine and fine pores; common distinct yellowish red (5YR 5/6) clay films on faces of peds; very strongly acid; gradual wavy boundary.
 
-    Bt5--58 to 72 inches; yellowish red (5YR 5/8) clay loam; weak fine and medium subangular blocky structure; friable; common very fine and fine pores; few distinct yellowish red (5YR 5/6) clay films on faces of peds; about 5 percent fragments of sandstone 1/2 to 3 inches across; very strongly acid; gradual wavy boundary.  (Combined thickness of the Bt horizon ranges from 50 to 75 inches)
+    Bt5--59 to 73 inches; yellowish red (5YR 5/8) clay loam; weak fine and medium subangular blocky structure; friable; common very fine and fine pores; few distinct yellowish red (5YR 5/6) clay films on faces of peds; about 5 percent fragments of sandstone 1/2 to 3 inches across; very strongly acid; gradual wavy boundary.  (Combined thickness of the Bt horizon ranges from 50 to 75 inches)
 
-    BC--72 to 79 inches; yellowish red (5YR 5/8) sandy clay loam; weak medium subangular blocky structure; friable; about 10 percent fragments of sandstone of 1/2 to 3 inches across; strongly acid.  (0 to 12 inches)
+    BC--73 to 80 inches; yellowish red (5YR 5/8) sandy clay loam; weak medium subangular blocky structure; friable; about 10 percent fragments of sandstone of 1/2 to 3 inches across; strongly acid.  (0 to 12 inches)
 
-   Cr--79 to 85 inches; weathered sandstone bedrock.
+   Cr--80 to 86 inches; weathered sandstone bedrock.
 
 TYPE LOCATION:  Grundy County, Tennessee; 0.6 miles north on Summerfield Road from the intersection with State Highway 56 at Summerfield, 100 feet east of the road.(Latitude: 35 degrees, 15 minutes, 37.8 seconds N; Longitude: 85 degrees, 47 minutes, 30.4 seconds W) Burrow Cove Quadrangle
 
@@ -67,10 +67,12 @@ MLRA SOIL SURVEY REGIONAL OFFICE (MO) RESPONSIBLE:  Morgantown, West Virginia
 SERIES ESTABLISHED:  Grundy County, Tennessee; 1990.
 
 REMARKS:  Diagnostic horizons recognized in this pedon are:
-Ochric epipedon - 0 to 4 inches (A and E horizons)
-Argillic horizon - 4 to 72 inches (Bt1 to Bt5 horizons)
+Ochric epipedon - 1 to 5 inches (A and E horizons)
+Argillic horizon - 5 to 73 inches (Bt1 to Bt5 horizons)
 (S88TN-061-004)
 This soil has previously been included in the Lonewood series in Tennessee.
+
+03/2022 revision: Oi had 1 to 0 inch depths, corrected to be 0 to 1 in horizon depths then added 1 inch to all horizon depths throughout the typical pedon. WJN
 
 National Cooperative Soil Survey
 U.S.A.
