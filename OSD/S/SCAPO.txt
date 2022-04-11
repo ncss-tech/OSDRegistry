@@ -1,13 +1,13 @@
 LOCATION SCAPO                  SC
 
-Tentative Series
+Established Series
 CMO:CDG:JMR
-03/2009
+04/2022
 
 SCAPO SERIES
 
 MLRA(s): 133A-Southern Coastal Plain, 153A-Atlantic Coast Flatwoods
-MLRA SOIL SURVEY REGIONAL OFFICE (MO) RESPONSIBLE: Raleigh, North Carolina
+TAXONOMIC CLASS: Fine, kaolinitic, acid, thermic Cumulic Humaquepts
 Depth Class: Very deep
 Drainage Class (Agricultural): Very poorly drained
 Internal Free Water Occurrence: Very shallow, persistent
@@ -105,6 +105,8 @@ Index Surface Runoff: Negligible
 Saturated Hydraulic Conductivity: Moderately low (0.1 to 1.4 micrometers per second) in the upper part and moderately low to very high (0.1 to 705 micrometers per second) in the lower part)                                                                                                
 Permeability: Very slow
 
+SOIL SURVEY REGIONAL OFFICE (SSRO) RESPONSIBLE: Raleigh, North Carolina 
+
 USE AND VEGETATION:
 Major Uses: Woodland
 Dominant Vegetation: Where wooded--water tupelo, swamp tupelo, sweetgum, yellow poplar, green ash, water oak, and baldcypress. Also, loblolly pine grows in areas that have been drained. Understory plants include inkberry (bitter gallberry), American holly, greenbrier, switchcane, blueberry, honeysuckle, and poison ivy. Where cultivated--corn, soybeans, and pasture. 
@@ -113,9 +115,7 @@ DISTRIBUTION AND EXTENT:
 Distribution: South Carolina
 Extent: Small
 
-MLRA SOIL SURVEY REGIONAL OFFICE (MO) RESPONSIBLE: Raleigh, North Carolina 
-
-SERIES PROPOSED: Sumter County, South Carolina; 2009.
+SERIES PROPOSED: Sumter County, South Carolina; 2009.  Established with this 2009 correlation.
 
 REMARKS:
 Diagnostic horizons and features recognized in this pedon are:

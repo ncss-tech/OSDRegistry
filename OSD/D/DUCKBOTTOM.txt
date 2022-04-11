@@ -1,13 +1,13 @@
 LOCATION DUCKBOTTOM             SC
 
-Tentative Series
+Established Series
 CMO:CDG:JMR
-03/2009
+04/2022
 
-DUCKBOTTOM SERIES                               
+DUCKBOTTOM SERIES
 
 MLRA(s): 133A-Southern Coastal Plain, 153A-Atlantic Coast Flatwoods, 153B-Tidewater Area
-MLRA SOIL SURVEY REGIONAL OFFICE (MO) RESPONSIBLE: Raleigh, North Carolina
+TAXONOMIC CLASS: Very-fine, kaolinitic, acid, thermic Fluvaquentic Endoaquepts
 Depth Class: Very deep
 Drainage Class (Agricultural): Poorly drained
 Internal Free Water Occurrence: Very shallow, persistent
@@ -101,6 +101,8 @@ Index Surface Runoff: Negligible
 Saturated Hydraulic Conductivity: Moderately low (0.1 to 1.4 micrometers per second) in the upper part and moderately low to very high (0.1 to 705 micrometers per second) in the lower part)                                                                                                
 Permeability: Slow 
 
+SOIL SURVEY REGIONAL OFFICE (SSRO) RESPONSIBLE: Raleigh, North Carolina. 
+
 USE AND VEGETATION:
 Major Uses:
 Dominant Vegetation: Where cultivated--pasture. Where woodedtupelo, cypress, green ash, cottonwood, sweetgum, water oak, willow oak, and cherry-bark oak. 
@@ -109,9 +111,7 @@ DISTRIBUTION AND EXTENT:
 Distribution: South Carolina
 Extent: Small 
 
-MLRA SOIL SURVEY REGIONAL OFFICE (MO) RESPONSIBLE: Raleigh, North Carolina. 
-
-SERIES PROPOSED: Sumter County, South Carolina; 2008. 
+SERIES PROPOSED: Sumter County, South Carolina; 2008.  Established with this correlation.
 
 REMARKS:
 Diagnostic horizons and features recognized in this pedon are:
