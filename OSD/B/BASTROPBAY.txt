@@ -1,0 +1,127 @@
+LOCATION BASTROPBAY             TX
+
+Tentative Series
+JKW-SAK-KBH-AKS
+04/2022
+
+BASTROPBAY SERIES
+
+The Bastrop series consists of very deep, subaqueous (permanently submersed), high or very high saturated hydraulic conductivity soils that formed in sandy overwash deposits. These nearly level soils occur on sandy lagoons and bay bottoms adjacent to the barrier island. Slope is less than 1 percent. Mean annual precipitation is about 1295 mm (51 in) and mean annual air temperature is about 20.6 degrees C (69 degrees F).
+
+TAXONOMIC CLASS: Mixed, hyperthermic Typic Psammowassents
+
+TYPICAL PEDON: Bastropbay loamy fine sand, in 81 cm (32 in) saline water. (Colors are taken from freshly opened core interiors unless otherwise stated.)
+
+    Ag--0 to 29 cm (0 to 11 in); dark greenish gray (10Y 3/1) loamy fine sand; nonsticky, nonplastic; nonfluid; few very fine roots throughout; 2 percent flat subrounded 5 to 20-millimeter shell fragments; 1 percent flat subrounded 2 to 5-millimeter shell fragments; electrical conductivity of 26.0 dS/m by ec meter, saturated paste (air-dried soil); slightly alkaline (air-dried soil); gradual boundary.                                                                                                   
+
+    Cg1--29 to 67 cm (11 to 26 in); greenish black (10Y 2.5/1) loamy fine sand; nonsticky, nonplastic; nonfluid; common very fine roots throughout; 1 percent fine shell fragments; 2 percent flat subrounded 5 to 20-millimeter shell fragments; 1 percent flat subrounded 2 to 5-millimeter shell fragments; electrical conductivity of 20.0 dS/m by ec meter, saturated paste (air-dried soil); moderately alkaline(air-dried soil); gradual boundary.                                                                                 
+
+    Cg2--67 to 152 cm (26 to 60 in); dark greenish gray (10Y 4/1) loamy fine sand; nonsticky, nonplastic; nonfluid; few very fine roots throughout; 4 percent medium prominent pale olive (5Y 6/4) masses of oxidized iron with clear boundaries in matrix; 1 percent flat subrounded 2 to 5-millimeter shell fragments; 4 flat subrounded 5 to 20-millimeter shell fragments; electrical conductivity of 19.0 dS/m by ec meter, saturated paste (air-dried soil); slightly alkaline (air-dried soil); gradual boundary.                                                                           
+
+    Cg3--152 to 203 cm (60 to 80 in); dark greenish gray (5GY 3/1) loamy fine sand; nonsticky, nonplastic; nonfluid; 2 percent medium prominent light yellowish brown (2.5Y 6/4) masses of oxidized iron with clear boundaries in matrix; 1 percent subrounded 2 to 5-millimeter shell fragments; electrical conductivity of 19.0 dS/m by ec meter, saturated paste (air-dried soil; moderately alkaline (air-dried soil).  
+
+TYPE LOCATION: 
+Brazoria County, TX; from the intersection of Texas Highway 332 and the Bluewater Highway in Surfside, Texas, about 8 miles northeast on the Bluewater Highway to subdivision road; 0.1-mile northwest, then 0.1-mile northeast to Pompano Drive, then 0.5-mile northwest to end of Pompano Drive; about 0.1 mile north in 80 cm (32 in) of water. 
+
+USGS topographic quadrangle: Christmas Point, TX 
+Latitude: 29 degrees 2 minutes 8.91 seconds north
+  Longitude: 95 degrees 11 minutes 38.00 seconds west 
+  Datum: WGS84     
+  UTM Zone: 15
+  UTM Easting: 286361 meters  
+  UTM Northing: 3213939 meters
+
+RANGE IN CHARACTERISTICS:
+Soil Moisture: These soils are permanently submersed.
+Sand content throughout: 85 to 97 percent
+Total clay content: 3 to 13 percent
+Reaction throughout: slightly or moderately alkaline (7.4 to 8.4)
+
+Particle-size control section (weighted average):
+Total clay content: 4 to 10 percent
+Sand content: 85 to 95 percent
+
+Ag horizon:
+(some pedons have a thin Oa horizon)
+Hue: N, 5Y to 10Y
+Value: 3 to 5
+Chroma: 1 or 2
+Texture: loamy fine sand or fine sand or the mucky counterparts
+Total clay content: 3 to 11 percent
+Shell fragments: amount-0 to 3 percent; size-2 to 20 mm
+Effervescence to hydrogen peroxide: none to moderate
+
+Cg layer:
+Hue: N, 5Y to 10Y, or 5GY
+Value: 3 to 6
+Chroma: 1
+Texture: loamy fine sand or fine sand
+Total clay content: 3 to 14 percent
+Redox concentrations: amount-0 to 5 percent; shades of yellow, brown, or olive
+Iron-manganese concentrations: amount-0 to 3 percent
+Masses of reduced iron: amount-0 to 10 percent; shades of blue or green
+Shell fragments: amount-0 to 5 percent; size-2 to 20 mm
+Effervescence to hydrogen peroxide: none or very slight
+
+COMPETING SERIES: 
+These are no series in the same family. Similar soils are the Demas, Indian River, Mantoloking, Massapog, Nagunt, Rhodesfolly, and Trappe series.
+
+Demas, Mantoloking, and Trappe soils: siliceous mineralogy; mesic soil temperature regime; sulfic materials
+Indian River soils: siliceous mineralogy; mesic soil temperature regime; fluid properties
+Massapog and Rhodesfolly soils: mesic soil temperature regime; fluid properties
+Nagunt soils: mesic soil temperature regime; sulfic materials
+Trappe soils: siliceous mineralogy; mesic soil temperature regime; sulfic materials
+
+GEOGRAPHIC SETTING:
+Parent material: sandy overwash deposits
+Landscape: bays and barrier islands
+Landform: lagoons and bay bottoms
+Slope: Less than 1 percent
+Precipitation Pattern: rainfall is mostly uniform throughout the year but most of the annual rainfall occurs during the Spring, Summer, and Fall months
+Mean annual precipitation: 1219 to 1295 mm (48 to 51 in)
+Mean annual air temperature: 20.6 to 21.7 degrees C (69 to 71 degrees F)
+Water temperature range (seasonal range): 15 to 32 degrees C (59 to 89 degrees F)
+Water depth range: 0.2 to 2 m (0.5 to 6.5 ft)
+Water Regime: Tidal, 0 to 0.3 m (0 to 1 ft)
+Water salinity range: 25 to 35 ppt 
+Frost-free period: 271 to 300 days
+
+GEOGRAPHICALLY ASSOCIATED SOILS: 
+These are the Harris, Tatlum, and Tracosa series. 
+Harris and Tracosa soils: clayey and firm throughout; on landforms not permanently submersed 
+Tatlum soils: colors throughout are browner; do not have sulfidic materials; on landforms that are not permanently submersed
+
+DRAINAGE AND SATURATED HYDRAULIC CONDUCTIVITY: 
+Drainage class: Subaqueous
+Saturated Hydraulic Conductivity: high or very high
+Soil is permanently submerged/continuously inundated by saline water. 
+
+USE AND VEGETATION: 
+Major uses: These areas are used as wildlife habitat and recreational activities. 
+Native vegetation: Some areas have widgeon grass
+
+DISTRIBUTION AND EXTENT: 
+General area: These soils are located on the upper Texas Gulf Coast  
+Land Resource Region: T- Atlantic and Gulf Coast Lowland Forest and Crop Region 
+MLRA 150B Gulf Coast Saline Prairies 
+Extent: Small
+
+SOIL SURVEY REGIONAL OFFICE (SSRO) RESPONSIBLE: Temple, Texas
+
+SERIES PROPOSED: Brazoria County, Texas, 2021. The name is coined from Bastrop Bay.
+
+REMARKS: The series was formerly included with water. 
+
+Diagnostic horizons and features recognized in this pedon are:
+  Particle-size control section: 25 to 100 cm (10 to 40 in) 
+  Ochric epipedon: 0 to 29 cm (0 to 11 in) (Ag horizon)
+  Peraquic feature: 0 to 203 cm (0 to 203 in) (Ag horizon and Cg layers are permanently saturated)
+
+Additional Comments: Mineralogy based on data from adjacent subaerial barrier island soils and the content of shell fragments that make up the sand portion. 
+
+ADDITIONAL DATA: Soil survey office lab data on pedon S2021TX0399127 from series type location.
+
+TAXONOMIC VERSION: Keys to Soil Taxonomy, Twelfth Edition, 2014
+
+National Cooperative Soil Survey
+U.S.A.
