@@ -2,47 +2,93 @@ LOCATION MALOTERRE              TX
 
 Established Series
 Rev. BJW
-8/89
+04/2022
 
 MALOTERRE SERIES
 
-The Maloterre series consists of very shallow, somewhat excessively drained, moderately slow permeable soils that formed in residuum weathered from limestone.  These upland soils have slopes ranging from 1 to 20 percent.
+The Maloterre series consists of very shallow, somewhat excessively drained, moderately slow permeable soils that formed in residuum weathered from Lower Cretaceous age limestone.  These soils occur on summits, shoulders, and backslopes of ridges and hills. The slope range is 1 to 20 percent. Mean annual precipitation is about 711 to 889 mm (28 to 35 in) and mean annual air temperature is about degrees 17.8 to 20 degrees C (64 to 68 degrees F).
 
 TAXONOMIC CLASS: Loamy, carbonatic, thermic Lithic Ustorthents
 
-TYPICAL PEDON:  Maloterre gravelly clay loam--rangeland.        (Colors are for dry soil unless otherwise stated.)
+TYPICAL PEDON:  Maloterre gravelly clay loam--rangeland. (Colors are for dry soil unless otherwise stated.)
 
-    A1--0 to 8 inches; grayish brown (10YR 5/2) gravelly clay loam, dark grayish brown (10YR 4/2) moist; moderate fine subangular blocky and granular structure; hard, firm; contains 25 percent by volume of fragments of fine shell and limestone; a few fragments of limestone from 3 to 8 inches in diameter occur on the surface; moderately alkaline; calcareous; abrupt smooth boundary. (3 to 10 inches thick)
+  A--0 to 20 cm (0 to 8 in); grayish brown (10YR 5/2) gravelly clay loam, dark grayish brown (10YR 4/2) moist; moderate fine subangular blocky and granular structure; hard, firm; contains 25 percent by volume of fragments of fine shell and limestone; a few fragments of limestone from 8 to 20 cm (3 to 8 in) in diameter occur on the surface; moderately alkaline; calcareous; abrupt smooth boundary Thickness is 8 to 25 cm (3 to 10 in.)
 
-    R--8 to 10 inches; indurated limestone containing many imbedded fossil shell, massive and unfractured, hardness of about 3 on Moh's scale.
+  R--20 to 25 cm (8 to 10 in); indurated limestone containing many imbedded fossil shell, massive and unfractured, hardness of about 3 on Moh's scale.
 
-TYPE LOCATION:  Erath County, Texas; from the Erath County Courthouse in Stephenville, Texas, about 17 miles southeast on Texas Highway 67 to the intersection of Texas Highways 67 and 220; then 0.1 mile northwest on Texas Highway 67 and 60 feet north of highway fence in rangeland.
+TYPE LOCATION:  Erath County, Tx; from the Erath County Courthouse in Stephenville, Texas, about 17 miles southeast on Texas Highway 67 to the intersection of Texas Highways 67 and 220; then 0.1 mile northwest on Texas Highway 67 and 60 feet north of highway fence in rangeland. USGS topographic quadrangle: Chalk Mountain, Texas; Latitude: 32 degrees, 9 minutes, 10.64 seconds N; Longitude: 97 degrees, 55 minutes, 19.86 seconds W; Datum: WGS84. UTM Easting 601638.72 m, UTM Northing 3557898.74 m, UTM Zone 14.
 
-RANGE IN CHARACTERISTICS:  Solum thickness ranges from 3 to 10 inches.  Total clay content ranges from 30 to 45 percent, with the noncarbonate clay fraction being less than 35 percent.  Fragments, commonly of gravel size, of limestone in the soil range from 5 to 35 percent by volume.  Calcium carbonate in the fraction less than 20 mm ranges from 40 to 80 percent.
+RANGE IN CHARACTERISTICS:
+Soil Moisture: Ustic soil moisture regime. The soil moisture control section is dry in some or all parts for more than 90, but less than 120 days in normal years.
+Depth to lithic contact: 8 to 25 cm (3 to 10 in)
 
-The A horizon is dark grayish brown (10YR 4/2; 2.5Y 4/2), grayish brown (10YR 5/2; 2.5Y 5/2), brown (10YR 5/3, 4/3; 7.5YR 5/2, 4/2), light brownish gray (10YR 6/2; 2.5Y 6/2), pale or very pale brown (10YR 6/3, 7/3, 7/4).  A horizons with moist color values and chromas of less than 3.5 are less than 4 inches thick.  The A horizon is gravelly clay loam, gravelly clay, clay loam, or clay.
+Particle-size control section (weighted average)
+   Clay content: 30 to 45 percent
+   Rock fragments: 5 to 35 percent
 
-The R layer ranges from indurated white limestone to conglomerate limestone with many imbedded fossil shells.
 
-COMPETING SERIES:  These are the Brackett, Dugout, Ector, Eddy, Latom, Nebgen, Tarrant, and Yates series.  Brackett and Dugout soils are deeper and have cambic horizons.  Ector, Eddy, and Yates soils contain more than 35 percent coarse fragments.  In addition, Ector soils have dark A horizons and Eddy, as well as Brackett soils, lack lithic contacts.  Latom and Nebgen soils contain less than 40 percent calcium carbonate and have a lithic contact with sandstone.  Tarrant soils have mollic epipedons, montmorillonitic mineralogy and contain more than 35 percent rock fragments.
+A horizon
+Hue: 10YR, 2.5Y, 7.5YR
+Value: 4 to 7
+Chroma: 2 to 4
+Texture: gravelly clay loam, gravelly clay, clay loam, or clay
+Clay content: 30 to 45 percent
+Non-Carbonate Clay content: less than 35
+Rock fragments: 5 to 35 percent; 2 to 75 mm; indurated limestone
+Calcium carbonate equivalent: 40 to 80 percent
+Effervescence: strong to violent
+Reaction(pH): moderately (7.9 to 8.4)
+.
 
-GEOGRAPHIC SETTING:  Maloterre soils occupy gently sloping to moderately steep, smooth to benched uplands with gradients ranging from 1 to 20 percent.  The soil formed in residuum weathered from limestones of Lower Cretaceous Age.  The localities of probable occurrence have mean annual temperatures of 64 degrees to 68 degrees F, range in average annual precipitation of 28 to 35 inches, and Thornthwaite annual P-E indices of 44 to 54.
+R layer 
+Indurated white limestone to conglomerate limestone with many imbedded fossil shells.
 
-GEOGRAPHICALLY ASSOCIATED SOILS:  These are the competing Brackett and Dugout series and the Bolar, Denton, Purves, and Somervell series.  Bolar, Denton, and Somervell soils have mollic epipedons and sola thicker than 20 inches.  Purves soils have mollic epipedons and montmorillonitic mineralogy.
+COMPETING SERIES:  Similar soils are the Brackett, Dugout, Ector, Eddy, Latom, Nebgen, Tarrant, and Yates series.  
+Brackett and Dugout soils: are deeper and have cambic horizons.  
+Ector, Eddy, and Yates soils: contain more than 35 percent coarse fragments. In addition, Ector soils have dark A horizons and Eddyand Brackett soils, lack lithic contacts.  
+Latom and Nebgen soils: contain less than 40 percent calcium carbonate and have a lithic contact with sandstone.  
+Tarrant soils: have mollic epipedons, montmorillonitic mineralogy and contain more than 35 percent rock fragments.
 
-DRAINAGE AND PERMEABILITY:  Somewhat excessively drained; rapid runoff; moderately slow permeability.
+GEOGRAPHIC SETTING:
+Parent material: Residuum derived from limestones of Lower Cretaceous Age
+Landscape: Hills
+Landform: Summits, shoulders, and backslopes of ridges
+Slope: 1 to 20 percent
+Precipitation Pattern: The majority of the yearly amount occurs during the fall and spring months. The winter and summer months are normally drier.
+Mean annual precipitation: 711 to 889 mm (28 to 35 in)
+Thornthwaite P-E Index: 44 to 54
+Mean annual air temperature: 17.8 to 20 degrees C (64 to 68 degrees F)
+Frost-free period: 197 to 263 days
+Elevation: 190.5 to 472.4 m (625 to 1550 ft)
+
+GEOGRAPHICALLY ASSOCIATED SOILS:  These are the competing Brackett and Dugout series and the Bolar, Denton, Purves, and Somervell series.  
+Bolar, Denton, and Somervell soils: have mollic epipedons and sola thicker than 20 inches.  
+Purves soils: have mollic epipedons and montmorillonitic mineralogy.
+
+DRAINAGE AND PERMEABILITY:  Somewhat excessively drained. Permeability is moderately slow. Runoff is rapid.
 
 USE AND VEGETATION:  Used as rangeland.  Vegetation is mainly hairy tridens, a few forbs and some scattered midgrass plants.  It is common for the surface to have less than 60 percent ground cover of any vegetation.  Juniper is the main woody plant growing on this soil.
 
-DISTRIBUTION AND EXTENT:  Mainly in very shallow limestone areas of central and north-central Texas.  The series is moderately extensive.
+DISTRIBUTION AND EXTENT:  Mainly in very shallow limestone areas of central and north-central Texas; LRR J; MLRA 85. The series is moderately extensive.
 
 MLRA SOIL SURVEY REGIONAL OFFICE (MO) RESPONSIBLE: Temple, Texas
 
 SERIES ESTABLISHED:  Parker County, Texas; 1973.
 
-REMARKS:  This update is a format update only.  It was performed by the NSSQA staff on 8/89 because of previous storage problems at Ames, Iowa.
+REMARKS:  These soils formerly were classified as Lithosols and included in the Tarrant series.
 
-These soils formerly were classified as Lithosols and included in the Tarrant series.
+Diagnostic horizons and features recognized in this pedon are:
+Particle size control section: 0 to 20 cm (0 to 8 in). (A horizon) 
+
+Ochric epipedon: 0 to 20 cm (0 to 8 in). (A horizon) 
+
+Lithic contact: The contact with limestone bedrock at 20 cm (8 in). (top of R layer)
+
+Additional Comments: This update is a format update only.  It was performed by the NSSQA staff on 8/89 because of previous storage problems at Ames, Iowa.
+
+Additional DATA: S2010TX0350005
+
+Taxonomic Version: Keys to Soil Taxonomy, Twelfth Edition, 2014
 
 National Cooperative Soil Survey
 U.S.A.

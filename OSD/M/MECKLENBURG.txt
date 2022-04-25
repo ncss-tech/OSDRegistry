@@ -2,7 +2,7 @@ LOCATION MECKLENBURG            NC+AL GA SC VA
 
 Established Series
 Rev. CMM:RBS:AG
-05/2006
+04/2022
 
 MECKLENBURG SERIES
 
@@ -16,11 +16,11 @@ TYPICAL PEDON: Mecklenburg loam--pastured. (Colors are for moist soil unless oth
 
  Bt1--8 to 17 inches; yellowish red (5YR 4/6) clay; moderate medium subangular blocky structure; firm, sticky, plastic; common fine roots; few fine pores; many fine black concretions; common distinct clay films on faces of peds; slightly acid; gradual wavy boundary. 
 
- Bt2--17 to 25 inches; yellowish red (5YR 4/8) clay; common fine distinct brownish yellow (10YR 6/6) mottles; moderate medium subangular blocky structure; firm, sticky, plastic; few fine roots; few fine pores; common black concretions; common distinct clay films on faces of peds; slightly acid; gradual wavy boundary. (Combined thickness of the Bt horizon is 12 to 35 inches.) 
+ Bt2--17 to 25 inches; yellowish red (5YR 4/6) clay; common fine distinct brownish yellow (10YR 6/6) mottles; moderate medium subangular blocky structure; firm, sticky, plastic; few fine roots; few fine pores; common black concretions; common distinct clay films on faces of peds; slightly acid; gradual wavy boundary. (Combined thickness of the Bt horizon is 12 to 35 inches.) 
 
- BC--25 to 36 inches; yellowish red (5YR 4/8) clay loam; common medium faint reddish yellow (7.5YR 6/6) and common fine distinct yellowish brown (10YR 5/4) mottles; weak subangular blocky structure; firm, sticky, plastic; few fine black concretions; common fine lenses of gray clayey saprolite; slightly acid; gradual wavy boundary. (3 to 15 inches thick) 
+ BC--25 to 36 inches; yellowish red (5YR 4/6) clay loam; common medium faint reddish yellow (7.5YR 6/6) and common fine distinct yellowish brown (10YR 5/4) mottles; weak subangular blocky structure; firm, sticky, plastic; few fine black concretions; common fine lenses of gray clayey saprolite; slightly acid; gradual wavy boundary. (3 to 15 inches thick) 
 
- C--36 to 60 inches; mottled yellowish red (5YR 4/8), reddish yellow (7.5YR 6/6) and yellowish brown (10YR 5/4) highly weathered saprolite that has a sandy clay loam texture; massive; friable; many black and gray minerals; slightly acid. 
+ C--36 to 60 inches; mottled yellowish red (5YR 4/6), reddish yellow (7.5YR 6/6) and yellowish brown (10YR 5/4) highly weathered saprolite that has a sandy clay loam texture; massive; friable; many black and gray minerals; slightly acid. 
 
 TYPE LOCATION: Davidson County, North Carolina; 0.7 mile west of Linwood on SR 1134; 20 feet north in pasture at bend in road. 
 
@@ -36,7 +36,7 @@ The BC horizon has hue of 2.5YR to 7.5YR, value of 4 to 7, and chroma of 4 to 8 
 
 The C horizon is mottled or multicolored saprolite weathered from mafic crystalline rock. It is variable in texture but typically is loamy. 
 
-COMPETING SERIES: These are Brantley, Canton Bend, Capshaw, Cowton, Enon, Gundy, Hampshire, Maben, Magnet, Meth, Spray, Zion, and Zuber series in the same family. Those in closely related families are Coronaca, Iredell, and Wilkes series. Brantley, Canton Bend, Capshaw, Cowton, Maben, and Meth soils are more acid in the B horizons than Mecklenburg. Coronaca soils have moist colors of values of less than 4 throughout. Enon, Hampshire, Iredell, and Zuber soils have hue of 7.5YR or yellower in the Bt horizon; and in addition Zuber soils have sandy A and AB horizons. Gundy soils are more permeable and developed from slate or fine grained schist. Magnet soils are more permeable and formed in residuum from syenite and other intrusive igneous rocks. Spray soils developed from mudstone, siltstone, or shale. Wilkes and Zion soils have bedrock at a depth of less than 40 inches. 
+COMPETING SERIES: These are Brantley, Canton Bend, Capshaw, Cowton, Enon, Gundy, Hallsummit, Hampshire, Maben, Magnet, Spray, Zion, and Zuber series in the same family. Those in closely related families are Coronaca, Iredell, and Wilkes series. Brantley, Canton Bend, Capshaw, Cowton, Hallsummit, and Maben soils are more acid in the B horizons than Mecklenburg. Coronaca soils have moist colors of values of less than 4 throughout. Enon, Hampshire, Iredell, and Zuber soils have hue of 7.5YR or yellower in the Bt horizon; and in addition Zuber soils have sandy A and AB horizons. Gundy soils are more permeable and developed from slate or fine grained schist. Magnet soils are more permeable and formed in residuum from syenite and other intrusive igneous rocks. Spray soils developed from mudstone, siltstone, or shale. Wilkes and Zion soils have bedrock at a depth of less than 40 inches. 
 
 GEOGRAPHIC SETTING: Mecklenburg soils are on nearly level to moderately steep Piedmont uplands. Slope gradients are 0 to 25 percent, most commonly between 2 and 10 percent. These soils have developed in weathered intermediate and mafic crystalline rocks. Average annual precipitation is about 45 inches. Mean annual soil temperature is about 59 degrees F. 
 
@@ -52,7 +52,9 @@ MLRA SOIL SURVEY REGIONAL OFFICE (MO) RESPONSIBLE: Raleigh, North Carolina
 
 SERIES ESTABLISHED: Mecklenburg County, North Carolina; 1910. 
 
-REMARKS: Diagnostic horizons and features recognized in this pedon are: 
+REMARKS: 
+The 4-2022 update replaced an offensive soil series name with Hallsummit.
+Diagnostic horizons and features recognized in this pedon are: 
 Ochric epipedon - the zone from the surface of the soil to a depth to 8 inches. 
 Argillic horizon - the zone between depth of 8 and 25 inches. 
 Ultic Hapludalfs feature - base saturation of 35 to 60 percent in the zone between 36 and 60 inches. 

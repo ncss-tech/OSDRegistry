@@ -2,7 +2,7 @@ LOCATION SPRAY                  NC+VA
 
 Established Series
 Rev. MLS, AG
-09/2002
+04/2022
 
 SPRAY SERIES
 
@@ -12,11 +12,11 @@ TAXONOMIC CLASS: Fine, mixed, active, mesic Ultic Hapludalfs
 
 TYPICAL PEDON:  Spray loam, on a smooth convex of slope l percent in an idle field (Colors are for moist soil unless otherwise stated)
 
-     Ap--0 to 6 inches; dark brown (7.5YR 4/4) loam; weak fine granular structure; very friable; many coarse, medium, and fine roots; few fragments of weathered shale; very strongly acid; clear wavy boundary.  (4 to 8 inches thick)
+     Ap--0 to 6 inches; brown (7.5YR 4/4) loam; weak fine granular structure; very friable; many coarse, medium, and fine roots; few fragments of weathered shale; very strongly acid; clear wavy boundary.  (4 to 8 inches thick)
 
      Bt--6 to l7 inches; reddish brown (5YR 4/4) clay; weak medium subangular blocky structure; friable, sticky, plastic; common distinct clay films on faces of peds; common fine and medium roots; common fragments of shale up to l inch in size; strongly acid; clear smooth boundary.  (6 to l7 inches thick)
 
-     C--l7 to 60 inches; reddish brown (5YR 4/4) saprolite of shale and silt loam; massive, parting to thin shale fragments; friable; few roots between the seams of the shale fragments; about 75 to 85 percent is broken, partially weathered, brownish yellow (l0YR 6/6) and very dark gray (l0YR 3/l) shale fragments up to l inch in size; few bodies of reddish brown (5YR 4/4) silty clay loam on faces and between seams of shale; cuts easily with spade; moderately acid.
+     C--l7 to 60 inches; reddish brown (5YR 4/4) saprolite of shale and silt loam; massive, parting to thin shale fragments; friable; few roots between the seams of the shale fragments; about 75 to 85 percent is broken, partially weathered, brownish yellow (10YR 6/6) and very dark gray (10YR 3/1) shale fragments up to l inch in size; few bodies of reddish brown (5YR 4/4) silty clay loam on faces and between seams of shale; cuts easily with spade; moderately acid.
 
 TYPE LOCATION:  Rockingham County, North Carolina; 5700 feet northeast of Eden on SR l743; ll00 feet south of the Virginia state line; 200 feet east of SR l743.
 
@@ -28,7 +28,7 @@ The Bt horizon has hue of 2.5YR to 7.5YR, value of 4 or 5, and chroma of 3 to 8.
 
 The C horizon is saprolite that has hue of 2.5YR or 5YR, value of 3 to 6, and chroma of 2 or 4.  Texture is silty clay loam, silt loam, or loam in the fine earth fraction.  Shale fragments range from 50 to 85 percent by volume.  These fragments are typically reddish in color but strata can include brown, gray, or yellowish colored fragments.
 
-COMPETING SERIES:  Soil series in the same family are Brantley, Canton Bend, Capshaw, Cowton, Enon, Gundy, Hampshire, Maben, Mecklenburg, Meth, and Zion. Brantley and Meth soils are on Coastal Plain uplands, have thicker solum, and hues that range to 2.5YR.  Canton Bend soils are on stream terraces, have mica in the upper sola and more than 30 percent silt.  Capshaw and Hampshire soils are underlain by hard limestone at depths less than 60 inches.  Cowton soils have a Cr horizon at 20 to 40 inches.  Enon, Maben, and Mecklenburg soils have slower permeability.  In addition, Enon and Mecklenburg soils are underlain by dark colored, mixed felsic and mafic crystalline rocks and Maben soils are underlain by stratified loamy and shaly clays.  Gundy soils commonly have hue of 2.5YR and are underlain by soft rock at 40 to 72 inches.  Zion soils have thin Bcn horizons, slow permeability, and hard bedrock less than 40 inches below the surface.
+COMPETING SERIES:  Soil series in the same family are Brantley, Canton Bend, Capshaw, Cowton, Enon, Gundy, Hallsummit, Hampshire, Maben, Mecklenburg, and Zion. Brantley and Hallsummit soils are on Coastal Plain uplands, have thicker solum, and hues that range to 2.5YR.  Canton Bend soils are on stream terraces, have mica in the upper sola and more than 30 percent silt.  Capshaw and Hampshire soils are underlain by hard limestone at depths less than 60 inches.  Cowton soils have a Cr horizon at 20 to 40 inches.  Enon, Maben, and Mecklenburg soils have slower permeability.  In addition, Enon and Mecklenburg soils are underlain by dark colored, mixed felsic and mafic crystalline rocks and Maben soils are underlain by stratified loamy and shaly clays.  Gundy soils commonly have hue of 2.5YR and are underlain by soft rock at 40 to 72 inches.  Zion soils have thin Bcn horizons, slow permeability, and hard bedrock less than 40 inches below the surface.
 
 GEOGRAPHIC SETTING:  Spray soils are on broad, smooth or convex areas between intermittent drainageways in Triassic Basins of the Southern Piedmont.  Slopes are 0 to 5 percent.  These soils formed in residuum weathered from Triassic shale.  Near the type location, mean annual precipitation is about 42 inches, and mean annual temperature is about 57 degrees F.  Mean annual precipitation ranges from 40 to 53 inches, and mean annual temperature ranges from 57 to 62 degrees F.
 
@@ -44,7 +44,7 @@ MLRA SOIL SURVEY REGIONAL OFFICE (MO) RESPONSIBLE: Raleigh, North Carolina
 
 SERIES ESTABLISHED:  Rockingham County, North Carolina; l983.
 
-REMARKS:  The C horizon in these soils is interpreted by some to be paralithic (Cr).  Mean annual temperature at the type location for this series is marginal to the mesic temperature family.
+REMARKS:  The C horizon in these soils is interpreted by some to be paralithic (Cr).  Mean annual temperature at the type location for this series is marginal to the mesic temperature family.  The 4-2022 revision removed an offensive soil series name replaced with Hallsummit.
 
 Diagnostic horizons and features recognized in this pedon are:
 Ochric epipedon - the zone from the surface to a depth of 6 inches (Ap horizon)

@@ -2,7 +2,7 @@ LOCATION SUGARTOWN              LA
 
 Established Series
 CTM:JPE
-12/2005
+04/2022
 
 SUGARTOWN SERIES
 
@@ -12,18 +12,17 @@ TAXONOMIC CLASS: Fine, mixed, active, thermic Ultic Hapludalfs
 
 TYPICAL PEDON:  Sugartown very fine sandy loam, on a convex 3 percent side slope in pine woodland.  (Colors are for moist soil.)
 
-A--0 to 3 inches; dark grayish brown (10YR 4/2) very fine sandy loam; weak fine granular structure; friable; many fine and medium roots; strongly acid; abrupt smooth boundary.  (3 to 6 inches thick)
+ A--0 to 3 inches; dark grayish brown (10YR 4/2) very fine sandy loam; weak fine granular structure; friable; many fine and medium roots; strongly acid; abrupt smooth boundary.  (3 to 6 inches thick)
 
-E--3 to 8 inches; yellowish brown (10YR 5/4) very fine sandy loam; weak fine granular structure; friable; common fine and medium roots; strongly acid; abrupt smooth boundary.  (3 to 6 inches thick)
+ E--3 to 8 inches; yellowish brown (10YR 5/4) very fine sandy loam; weak fine granular structure; friable; common fine and medium roots; strongly acid; abrupt smooth boundary.  (3 to 6 inches thick)
 
-BE--8 to 15 inches; yellowish brown (10YR 5/4) silty clay loam; weak medium prismatic structure; friable; common fine and medium roots; very strongly acid; gradual smooth boundary.  (0 to 10 inches thick)
+ BE--8 to 15 inches; yellowish brown (10YR 5/4) silty clay loam; weak medium prismatic structure; friable; common fine and medium roots; very strongly acid; gradual smooth boundary.  (0 to 10 inches thick)
 
-Bt--15 to 25 inches; brownish yellow (10YR 6/6) silty clay; many fine prominent red (2.5YR 4/6) mottles; moderate medium prismatic structure parting to weak medium subangular blocky; firm; few fine roots; common distinct discontinuous clay films on faces of peds; common thin pale brown (10YR 6/3) silt coatings on prism faces; very strongly acid; gradual wavy boundary.  (6 to 15 inches thick)
+ Bt--15 to 25 inches; brownish yellow (10YR 6/6) silty clay; many fine prominent red (2.5YR 4/6) mottles; moderate medium prismatic structure parting to weak medium subangular blocky; firm; few fine roots; common distinct discontinuous clay films on faces of peds; common thin pale brown (10YR 6/3) silt coatings on prism faces; very strongly acid; gradual wavy boundary.  (6 to 15 inches thick)
 
-Btg--25 to 64 inches; light brownish gray (10YR 6/2) silty clay; many fine prominent red (10YR 4/6) mottles, common fine distinct yellowish brown (10YR 5/3) mottles; weak coarse prismatic structure parting to weak medium subangular blocky; firm; few fine roots; common distinct discontinuous clay films on faces of peds; "very strongly acid; abrupt wavy boundary.  (12 to 40 inches thick)
+ Btg--25 to 64 inches; light brownish gray (10YR 6/2) silty clay; many fine prominent red (2.5YR 4/6) mottles, common fine distinct brown (10YR 5/3) mottles; weak coarse prismatic structure parting to weak medium subangular blocky; firm; few fine roots; common distinct discontinuous clay films on faces of peds; "very strongly acid; abrupt wavy boundary.  (12 to 40 inches thick)
 
-
-2Cg--64 to 69 inches; light gray (10YR 7/2) clay loam; many fine prominent strong brown (7.5YR 5/6) and common medium prominent weak red (10R 5/3) mottles; massive; firm; many thin bands of manganese on ped faces; very strongly acid.
+ 2Cg--64 to 69 inches; light gray (10YR 7/2) clay loam; many fine prominent strong brown (7.5YR 5/6) and common medium prominent weak red (10R 5/3) mottles; massive; firm; many thin bands of manganese on ped faces; very strongly acid.
 
 TYPE LOCATION:  Beauregard Parish, Louisiana; 5.0 miles southeast of DeRidder; 2.2 miles east on LA. Hwy. 394 from junction with U.S. Hwy.  171; 75 feet north of Hwy. and 75 feet east of gravel parish road; USGS Boneset Creek topographic quadrangle; lat. 30 degrees 46 minutes 18 seconds N. and long. 93 degrees 12 minutes 25 seconds W.
 
@@ -41,7 +40,7 @@ The Btg horizon has hue of 10YR, 2.5Y, or 5Y, value of 4 to 7, and chroma of 1 o
 
 The 2C, 2Cg, and BCg horizons, where present, are in shades of red, brown, and yellow and have the same texture as the Btg horizon.
 
-COMPETING SERIES:  These are the Brantley, Canton Bend, Capshaw, Cowton, Enon, Gundy, Hampshire, Maben, Magnet, Mecklenburg, Meth, Skyuka, Spray, Zion, and Zuber soils in the same family.  Brantley soils lack gray mottles in the B horizon, have hue that ranges to 2.5YR in the Bt horizon and the solum is less than 60 inches thick.  Canton Bend, Cowton, Gundy, Maben, Magnet, Mecklenburg, Meth, and Spray soils have hue redder than 7.5YR.  In addition, Canton Bend, Gundy, Magnet, Mecklenburg, and Spray soils are underlain by bedrock or saprolite.  Capshaw and Hampshire soils have solums less than 60 inches thick and are underlain by hard limestone at depths less than 60 inches.  Enon and Zion soils have solums less than 60 inches thick and are underlain by hard bedrock within 60 inches.  Skyuka soils lack gray mottles in the B horizon and have hue that ranges to 5YR in the Bt horizon.  Zuber soils have sandy A and AB horizons and have limestone fragments throughout.
+COMPETING SERIES:  These are the Brantley, Canton Bend, Capshaw, Cowton, Enon, Gundy, Hampshire, Maben, Magnet, Mecklenburg, Hallsummit, Skyuka, Spray, Zion, and Zuber soils in the same family.  Brantley soils lack gray mottles in the B horizon, have hue that ranges to 2.5YR in the Bt horizon and the solum is less than 60 inches thick.  Canton Bend, Cowton, Gundy, Maben, Magnet, Mecklenburg, Hallsummit, and Spray soils have hue redder than 7.5YR.  In addition, Canton Bend, Gundy, Magnet, Mecklenburg, and Spray soils are underlain by bedrock or saprolite.  Capshaw and Hampshire soils have solums less than 60 inches thick and are underlain by hard limestone at depths less than 60 inches.  Enon and Zion soils have solums less than 60 inches thick and are underlain by hard bedrock within 60 inches.  Skyuka soils lack gray mottles in the B horizon and have hue that ranges to 5YR in the Bt horizon.  Zuber soils have sandy A and AB horizons and have limestone fragments throughout.
 
 GEOGRAPHIC SETTING:  Sugartown soils are on convex side slopes and ridge tops on Coastal Plains.  Slope gradients range from 1 to 12 percent.  These soils formed in stratified clayey and loamy, early to mid Pleistocene alluvium.  Mean annual temperature ranges from 57 to 68 degrees F. and average rainfall averages 45 to 59 inches.
 
