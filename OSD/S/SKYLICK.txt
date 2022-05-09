@@ -2,7 +2,7 @@ LOCATION SKYLICK                UT+CO
 
 Established Series
 REV:  RKT/RLS/RLM
-02/1999
+05/2022
 
 SKYLICK SERIES
 
@@ -17,12 +17,14 @@ TYPICAL PEDON:  Skylick silt loam, rangeland.  (Colors are for air-dry soil unle
     A2--5 to 17 inches; very dark grayish brown (10YR 3/2) silt loam; very dark brown (10YR 2/2) moist; weak medium subangular blocky parting to moderate fine granular structure; slightly hard, friable, slightly sticky and slightly plastic; few coarse medium, fine and very fine roots; few fine and very fine pores; slightly acid (pH 6.4); gradual smooth boundary.  (10 to 15 inches thick)
 
     A3--17 to 27 inches; very dark grayish brown (10YR 3/2) silt loam; very dark brown (10YR 2/2) moist; weak medium subangular blocky parting to moderate fine granular structure; hard, friable, slightly sticky and slightly plastic; few coarse medium, fine and very fine roots; few fine and very fine pores; slightly acid (pH 6.4); gradual smooth boundary.  (10 to 14 inches thick)
-    Bt1--27 to 42 inches; brown (7.5YR 5/4) sandy clay loam; dark brown (7.5YR 4/3) moist; weak medium prismatic, structure parting to strong medium angular blocky; very hard, firm, sticky and plastic; few fine roots; common very fine pores; common moderately thick clay films; slightly acid (pH 6.4); gradual smooth boundary.  (12 to 18 inches thick)
 
-    Bt2--42 to 52 inches; brown (7.5YR 5/4) stony clay loam; dark brown (7.5YR 4/3) moist; weak medium prismatic, structure parting to moderate medium angular blocky; very hard, firm, sticky and plastic; few fine roots; common very fine pores; common moderately thick films; 25 percent cobbles and stones; slightly acid (pH 6.4); gradual smooth boundary.  (8 to 12 inches thick)
-    Bt3--52 to 66 inches; brown (7.5YR 5/4) stony sandy clay loam; dark brown (7.5YR 4/4) moist; moderate medium subangular blocky structure; very hard, firm, sticky and plastic; few fine and very fine roots; few fine pores; common moderately thick clay films; 30 percent stones and cobbles; slightly acid (pH 6.4); gradual wavy boundary.  (10 to 15 inches thick)
+    Bt1--27 to 42 inches; brown (7.5YR 5/4) sandy clay loam; brown (7.5YR 4/3) moist; weak medium prismatic, structure parting to strong medium angular blocky; very hard, firm, sticky and plastic; few fine roots; common very fine pores; common moderately thick clay films; slightly acid (pH 6.4); gradual smooth boundary.  (12 to 18 inches thick)
 
-    BCt--66 to 69 inches; brown (7.5YR 5/4) very stony clay loam; dark brown (7.5YR 4/4) moist; weak medium subangular blocky structure; very hard, firm, sticky and plastic; few very fine roots; few very fine pores; few thin clay films; 45 percent stones and cobbles; neutral (pH 6.6).
+    Bt2--42 to 52 inches; brown (7.5YR 5/4) stony clay loam; brown (7.5YR 4/3) moist; weak medium prismatic, structure parting to moderate medium angular blocky; very hard, firm, sticky and plastic; few fine roots; common very fine pores; common moderately thick films; 25 percent cobbles and stones; slightly acid (pH 6.4); gradual smooth boundary.  (8 to 12 inches thick)
+
+    Bt3--52 to 66 inches; brown (7.5YR 5/4) stony sandy clay loam; brown (7.5YR 4/4) moist; moderate medium subangular blocky structure; very hard, firm, sticky and plastic; few fine and very fine roots; few fine pores; common moderately thick clay films; 30 percent stones and cobbles; slightly acid (pH 6.4); gradual wavy boundary.  (10 to 15 inches thick)
+
+    BCt--66 to 69 inches; brown (7.5YR 5/4) very stony clay loam; brown (7.5YR 4/4) moist; weak medium subangular blocky structure; very hard, firm, sticky and plastic; few very fine roots; few very fine pores; few thin clay films; 45 percent stones and cobbles; neutral (pH 6.6).
 
 TYPE LOCATION:  Sanpete County, Utah; near North Creek above Buckhorn Flat; 700 feet east and 900 feet north of the southeast corner of sec.  34, T. 14 S., R. 5 E.
 
@@ -35,6 +37,7 @@ The Bt horizon has hue of 2.5Y, 10YR, or 7.5YR, value of 3 through 7 dry, 2 thro
 COMPETING SERIES:  These are the Red Spur and Yeljack series in the same family and the Robin, Routt and Seth series in different families.  Red Spur soils have E horizons, bedrock below 40 inches and have redder than 5YR.  Yeljack soils have hue redder than 5YR.  Robin soils have fine-silty particle-size control sections.  Routt and Seth soils have a fine, montmorillontic particle-size control section.
 
 GEOGRAPHIC SETTING:  Skylick soils are on complex mountainsides at elevations of 6,600 to 9,500 feet.  Slopes range from 4 to 70 percent.  Parent material is glacial till and colluvium from sandstone.  The climate is moist subhumid and the average annual precipitation ranges from 16 to 30 inches.  The mean annual temperature is 38 to 42 degrees F.  The mean summer temperature is 51 to 55 degrees F, and the freeze-free period ranges from 30 to 90 days.
+
 GEOGRAPHICALLY ASSOCIATED SOILS:  These are the Mortenson, Pritchett, Toze, and Zeesix soils.  Mortenson soils have E horizons and lack mollic epipedons.  Pritchett soils have clayey-skeletal particle-size control section.  Toze soils lack argillic horizons and have less than 35 percent clay in the particle-size control section.  Zeesix soils have more than 35 percent coarse fragments in the argillic horizon and have carbonatic mineralogy.
 
 DRAINAGE AND PERMEABILITY:  Well-drained; medium runoff; moderately slow permeability.
