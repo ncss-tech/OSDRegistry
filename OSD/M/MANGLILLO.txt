@@ -1,62 +1,102 @@
 LOCATION MANGLILLO              PR
 
 Established Series
-JLL; GRB
-02/2008
+SRT/ASR/RBT
+06/2022
 
 MANGLILLO SERIES
 
-The Manglillo series consists of very deep, very poorly drained, rapidly permeable soils on tidal marshes of the Semiarid Coastal Plains MLRA.  They formed in decomposed organic material overlying regolith consisting in sand-size shell fragments, quartz grains and subrounded volcanic fragments of recent beach deposits.  Near the type location, the mean annual temperature is about 84 degrees F., and the mean annual precipitation is about 32 inches.  Slopes range from 0 to 1 percent.
+MLRA(s): 273
+MLRA Soil Survey Regional Office (SSRO) Responsible: Raleigh, North Carolina
+Depth Class: Very deep
+Drainage Class: Very poorly drained
+Saturated Hydraulic Conductivity: High or very high
+Parent Material: Decomposed organic materials overlying regolith consisting in sand-size shell fragments, quartz grains and subrounded volcanic fragments of recent beach deposits 
+Slope: 0 to 1 percent
+Mean Annual Air Temperature: 29 degrees C. (84 degrees F.)
+Mean Annual Precipitation: 813 millimeters (32 inches)
 
-TAXONOMIC CLASS: Euic, isohyperthermic Fluvaquentic Haplohemists
+TAXONOMIC CLASS: Loamy, mixed, euic, isohyperthermic Terric Sulfihemists
 
-TYPICAL PEDON:  Manglillo muck--wildlife habitat (Colors are for moist soil).
+TYPICAL PEDON: Manglillo muck--wildlife habitat (Colors are for moist soil).
 
-     Oa--0 to 5 inches; black (N 2.5/) muck; massive; very friable; slightly sticky, nonplastic; common medium and coarse roots; strongly effervescent; moderately alkaline; gradual wavy boundary. (1 to 18 inches thick)
+ Oase--0 to 13 centimeters (0 to 5 inches); black (N 2.5/) muck; 9 percent fiber after rubbing; massive; H9 von Post;  very friable; slightly sticky, nonplastic; common medium and coarse roots; strongly effervescent (HCl); moderately alkaline; strong sulfurous odor; gradual wavy boundary (3 to 46 centimeters, 1 to 18 inches thick).
 
-     Oi--5 to 24 inches; 50 percent dark brown (10YR 3/3) and 50 percent very dark brown (7.5YR 2.5/3) mucky peat, rubbed; about 95 percent fiber material after rubbing; massive; very friable; slightly sticky, nonplastic; common medium and coarse roots; strongly effervescent; moderately alkaline; gradual wavy boundary. (7 to 33 inches thick)
+ Oese--13 to 61 centimeters (5 to 24 inches); 50 percent dark brown (10YR 3/3) and 50 percent very dark brown (7.5YR 2.5/3) mucky peat, rubbed; 20 percent fiber material after rubbing; massive; H5 von Post;  very friable; slightly sticky, nonplastic; common medium and coarse roots; strongly effervescent(HCl); moderately alkaline; strong sulfurous odor; gradual wavy boundary (18 to 84 centimeters, 7 to 33 inches thick).
 
-     Cg1--24 to 43 inches; dark greenish gray (10Y 3/1) mucky loam, rubbed; about 50 percent fiber material after rubbing; massive; very friable; slightly sticky; nonplastic; strongly effervescent; moderately alkaline; abrupt wavy boundary. (2 to 15 inches thick)
+ 2Cseg1--61 to 109 centimeters (24 to 43 inches); dark greenish gray (10Y 3/1) mucky loam;  massive; very friable; slightly sticky; nonplastic; strongly effervescent(HCl); moderately alkaline; moderate sulfurous odor; abrupt wavy boundary (5 to 38 centimeters, 2 to 15 inches thick).
 
-     Cg2--43 to 60 inches; 50 percent light greenish gray (10Y 8/1), 25 percent greenish gray (10Y 6/1), and 25 percent greenish gray 5GY 5/1) sandy loam; massive; very friable; nonsticky, nonplastic; about 12 percent gravels; strongly effervescent; moderately alkaline.
+ 2Cseg2--109 to 152 centimeters (43 to 60 inches); 50 percent light greenish gray (10Y 8/1), 25 percent greenish gray (10Y 6/1), and 25 percent greenish gray 5GY 5/1) sandy loam; massive; very friable; nonsticky, nonplastic; 12 percent gravel; strongly effervescent(HCl); moderately alkaline; moderate sulfurous odor.
 
-TYPE LOCATION:  Cabo Rojo, Puerto Rico. Approximately 3.7 miles southeast of Pole Ojea community, about 1.9 miles south on La Pitahaya road from the intersection of P.R. Hwy. 303, and about 300 feet west of road on wildlife habitat.  USGS Cabo Rojo topographic quadrangle (1966); lat. 17 degrees 57 minutes 07 seconds N.; long. 67 degrees 08 minutes 04 seconds W. 
+TYPE LOCATION: Cabo Rojo, Puerto Rico. Approximately 3.7 miles southeast of Pole Ojea community, about 1.9 miles south on La Pitahaya road from the intersection of P.R. Hwy. 303, and about 300 feet west of road on wildlife habitat. USGS Cabo Rojo topographic quadrangle (1966); lat. 17 degrees 57 minutes 07 seconds N.; long. 67 degrees 08 minutes 04 seconds W. 
 
-RANGE IN CHARACTERISTICS:  Thickness of the organic material range from 18 to 50 inches. Reaction is moderately alkaline throughout. 
+RANGE IN CHARACTERISTICS: 
+Depth of organic material: 46 to 99 centimeters (18 to 40 inches)
+Depth to seasonally high water table: At or above the soil surface throughout the year
+Soil Reaction: Moderately alkaline throughout
+Oxidized pH:  Ultra to extremely acid
+Sulfurous odor: Moderate to strong throughout and intensity decreases with depth
+Fiber content: Fiber content dominantly ranges from 17 to 40 percent after rubbing, some pedons content rubbed fiber content above 40% (Peat)
+Salinity: 32 to 36 parts per thousand
 
-The Oa horizon has hue of 5Y, value of 2.5, and chroma of 1; or it is neutral with value of 2.5.  Texture is muck.
+Range of individual horizons:
+Oase horizon:
+Color - hue of 10YR, 2.5YR, 5Y or N, value of 2.5, and chroma of 1; or it is neutral with value of 2.5.
+Texture is muck.
 
-The Oi horizon has hue 7.5YR or 10YR, value of 2.5 or 3, and chroma of 2 or 3. Fiber content ranges from 75 to over 95 percent after rubbing.  Texture is mucky peat.
+Oese horizon:
+Color - hue 7.5YR or 10YR, value of 2.5 or 3, and chroma of 2 or 3.
+Texture is mucky peat. Can sometimes be peat (Oise)
 
-The upper part of the Cg horizon has hue of 10Y, value of 3, and chroma of 1. Fiber content ranges from 35 to 50 percent after rubbing.  Texture is mucky loam.
+Upper part of the 2Cg horizon:
+Color - hue of 5Y or 10Y, value of 3, and chroma of 1.
+Texture is mucky loam to mucky sand.
 
-The lower part of the Cg horizon has hue of 10Y to 5GY, value of 5 to 8, and chroma of 1.  Content of pebbles range from 0 to less than 15 percent, by volume.  Texture is sandy loam.
-  
-COMPETING SERIES:  These are no known series in the same family.
+Lower part of the 2Cg horizon:
+Color - hue of 10Y to 5GY, value of 5 to 8, and chroma of 1.
+Content of pebbles range from 0 to less than 15 percent, by volume.
+Texture is sandy loam to sand.
 
-GEOGRAPHIC SETTING:  Manglillo soils are in tidal marshes along the coast of the Semiarid Coastal Plains MLRA. These areas are either under sea water or are flooded by high tides. Slopes range from 0 to 1 percent. They formed in decomposed organic material overlying regolith consisting in sand size shell fragments, quartz grains and subrounded volcanic fragments of recent beach deposits. The climate is tropical semiarid. The average annual precipitation ranges from 28 to 36 inches and the average annual temperature ranges from 82 to 86 degrees F.
+COMPETING SERIES: There are no competing series.
 
-GEOGRAPHICALLY ASSOCIATED SOILS:  These are the Boqueron and Serrano series.  All of these series are mineral soils.  Boqueron soils are on similar to slightly higher positions.  The poorly drained Serrano soils are on slightly higher positions.
+GEOGRAPHIC SETTING: 
+Landscape: Coastal plains and Estuaries of the semiarid coastal plains MLRA 273
+Landform: Mangrove swamps around sand bars along the coast 
+Flooding: Very frequent flooding for very long duration (daily tides)
+Parent material: They formed in decomposed organic material overlying regolith consisting in sand size shell fragments, quartz grains and subrounded volcanic fragments of recent beach deposits. 
+Mean Annual Air Temperature: 29 degrees C. (84 degrees F.)
+Mean Annual Precipitation: 813 millimeters (32 inches)
 
-DRAINAGE AND PERMEABILITY:  Very poorly drained; rapid permeability.
+GEOGRAPHICALLY ASSOCIATED SOILS:
+Boquern, El Indio, Mar Negro, and Serrano are on similar or adjacent positions in the landscape:
+-Boquern soils--are on similar to slightly higher positions on the coastal plain and are mineral throughout. 
+-El Indio soils--occur on slightly higher sand bars and are sandy throughout. 
+-Mar Negro soils--usually occur under red mangrove forests on the same landscape position but has a consistent root mat with hemic organic soil material throughout, sometimes you can reach mineral material after 150cm but more consistently it is after the described 203cm. 
+-Serrano soils--are on slightly higher positions on the coastal plain and are also mineral throughout. 
 
-USE AND VEGETATION:  Most areas of Manglillo soils are used for wildlife habitat. The vegetation consists of Red and White mangrove.
+DRAINAGE AND SATURATED HYDRAULIC CONDUCTIVITY: 
+Drainage class: Very poorly drained
+Saturated hydraulic conductivity: high to very high 
+Flooding and ponding: This soil is subject to tides and inundated more than  of the day Flooding frequency and duration: Very frequent for very long duration from ocean tides
 
-DISTRIBUTION AND EXTENT:  Southern semiarid coastal plains of Puerto Rico. The series is not extensive.
+USE AND VEGETATION: 
+Major uses: Manglillo soils are used for wildlife habitat
+Dominant vegetation: The vegetation consists of Red and White mangrove
 
-MLRA SOIL SURVEY REGIONAL OFFICE (MO) RESPONSIBLE:  Raleigh, North Carolina.
+DISTRIBUTION AND EXTENT: Southern semiarid coastal plains of Puerto Rico. The series is not extensive.
 
-SERIES ESTABLISHED:  Cabo Rojo Municipality, Puerto Rico; 2007. The name is from Manglillo beach, where it was originally recognized.
+SOIL SURVEY REGIONAL OFFICE (SSRO) RESPONSIBLE: Raleigh, North Carolina.
+
+SERIES ESTABLISHED: Cabo Rojo Municipality, Puerto Rico; 2007. The name is from Manglillo beach, where it was originally recognized.
 
 REMARKS: Diagnostic horizons and features recognized in this pedon: 
+Histic epipedon - the zone from 0 to 61 cm (0 to 24 inches; Oase and Oese horizons).
+Hemic soil material - the zone from 13 to 61 cm (5 to 24 inches)
+Gleyed feature - the zone from 61 to 152 cm (24 to 60 inches; 2Cseg1 and 2Cseg2 horizons).
+Sulfidic materials - the zone from 0 to 152 cm (0 to 60 inches)
+Tidal / Brackish water above the surface for a very long duration of the day
 
-Histic epipedon - the zone from 0 to 24 inches (Oa and Oi horizons).
-
-Gleyed feature - the zone from 24 to 60 inches (Cg1 and Cg2 horizons).
-
-These soils were formerly included in the tidal swamp miscellaneous land type.
-
-Manglillo soils are in MLRA 273.
+These soils were formerly included in the tidal swamp miscellaneous land type.  These soils were formerly classified as Euic, isohyperthermic Fluvaquentic Haplohemists and updated to the twelfth edition of the Keys in June of 2022.
 
 National Cooperative Soil Survey
 U.S.A.
