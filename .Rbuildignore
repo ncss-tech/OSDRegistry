@@ -2,8 +2,10 @@
 ^\.Rproj\.user$
 ^\.github$
 ^OSD$
+^SC$
 ^raw$
 ^inst$
 ^test/OSD$
+^test/SC$
 ^test/inst/extdata$
 ^misc$
