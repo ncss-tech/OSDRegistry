@@ -7,7 +7,7 @@
 
 Version control repository for [Official Series Descriptions](https://soilseries.sc.egov.usda.gov/) (OSDs). 
 
-Official "Soil Series" are the detailed soil types used by the USDA-NRCS and the National Cooperative Soil Survey program. The "Soil Series" is the lowest level in the United States National Soil Classification System hierarchy. Series names are correlated to soil survey map unit components based on specific conditions found within soil survey areas (SSA) and Major Land Resource Areas (MLRAs). More information on the concept and standards for the Soil Series can be found in the [National Soil Survey Handbook](http://www.nrcs.usda.gov/wps/portal/nrcs/detail/soils/ref/?cid=nrcs142p2_054242) Part 614 "_Applying Soil Taxonomy_".
+Official "Soil Series" are the detailed soil types used by the USDA-NRCS and the National Cooperative Soil Survey program. The "Soil Series" is the lowest level in the United States National Soil Classification System hierarchy. Series names are correlated to soil survey map unit components based on specific conditions found within soil survey areas (SSA) and Major Land Resource Areas (MLRAs). More information on the concept and standards for the Soil Series can be found in the [National Soil Survey Handbook](http://www.nrcs.usda.gov/wps/portal/nrcs/detail/soils/ref/?cid=nrcs142p2_054242) [Part 614 "Applying Soil Taxonomy"](https://directives.sc.egov.usda.gov/44230.wba).
 
 Key differentia between series are encoded in the narrative portions of OSDs. _OSDRegistry_ provides a readily-accessible, open-source, version-controlled resource for Series concepts in OSDs. 
 
