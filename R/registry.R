@@ -118,6 +118,18 @@ refresh_registry <- function(test = FALSE) {
         })
     })
   
+  message("Refreshing SC database...")
+  
+  sc <- .download_NASIS_SC_webreport()
+  
+  if (inherits(sc, 'try-error')) {
+    warning('Failed to update Series Classsification database via NASIS Web Report', "\n\n",
+            sc[1], call. = FALSE)
+  } else {
+    if (!dir.exists("SC")) dir.create("SC")
+    write.csv(sc, file = file.path("SC", "SCDB.csv"))
+  }
+  
   message("Done!")
   
   return((length(result) == 26) - 1)

@@ -30,7 +30,6 @@ jobs:
     - uses: r-lib/actions/setup-r@v1
     - run: Rscript -e 'install.packages(c("devtools"))'
     - run: Rscript -e 'saveRDS(remotes::dev_package_deps(dependencies = TRUE), ".github/depends.Rds", version = 2)'
-    - run: Rscript -e 'remotes::install_github("ropensci/RSelenium")'
     - run: Rscript -e 'writeLines(sprintf("R-%i.%i", getRversion()$major, getRversion()$minor), ".github/R-version")'
     - run: Rscript -e 'remotes::install_deps(dependencies = TRUE)'
     - run: |
@@ -38,29 +37,40 @@ jobs:
           do
             eval sudo $cmd
           done < <(Rscript -e 'writeLines(remotes::system_requirements("ubuntu", "20.04"))')
+    - run: Rscript -e 'remotes::install_github("ropensci/RSelenium")'
+    - run: Rscript -e 'remotes::install_github("ncss-tech/soilDB")'
+    - run: Rscript -e 'install.packages("odbc")'
     - run: R CMD build --no-manual ../OSDRegistry
     - run: Rscript -e 'system2("R", paste0(sprintf("CMD INSTALL OSDRegistry_%s.tar.gz", read.dcf("DESCRIPTION")[,"Version"])))'
     - run: Rscript -e 'OSDRegistry::refresh_registry()'
     - run: Rscript -e 'system(sprintf("zip OSD_%s.zip OSD/*/*", Sys.Date()))'
+    - run: Rscript -e 'system(sprintf("zip SC_%s.zip SC/*", Sys.Date()))'
     - run: zip OSD-data-snapshot.zip OSD_*.zip
+    - run: zip SC-data-snapshot.zip SC_*.zip
     - uses: actions/upload-artifact@v2
       with:
         name: OSD-data-snapshot
         path: "OSD-data-snapshot.zip"
+    - uses: actions/upload-artifact@v2
+      with:
+        name: SC-data-snapshot
+        path: "SC-data-snapshot.zip"
     - run: git config user.email github-actions@github.com
     - run: git config user.name SeriesCuratorBot
     - run: git add OSD/*/*.txt
     - run: Rscript -e 'system(sprintf("git commit -am \"OSD Data Refresh - %s\"", Sys.Date()))'
+    - run: git add SC/*
+    - run: Rscript -e 'system(sprintf("git commit -am \"SC Data Refresh - %s\"", Sys.Date()))'
     - run: git push
     - name: Upload snapshot to release
       uses: svenstaro/upload-release-action@v2
       with:
         repo_token: ${{ secrets.GITHUB_TOKEN }}
-        file: OSD-data-snapshot.zip
-        asset_name: OSD-data-snapshot.zip
+        file: "*-data-snapshot.zip"
         tag: ${{ github.ref }}
+        file_glob: true
         overwrite: true
-        body: "Download the complete Official Series Description weekly snapshot as a ZIP file."
+        body: "Download the complete Official Series Description and Series Classification Database weekly snapshot as ZIP files."
 env:
   DEFAULT_BRANCH: main
   GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
