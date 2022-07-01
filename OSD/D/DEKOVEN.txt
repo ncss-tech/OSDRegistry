@@ -1,56 +1,108 @@
-LOCATION DEKOVEN                KY+TN
+LOCATION DEKOVEN                TN
 
 Established Series
-Rev. JMR
-09/2021
+Rev. JMR, JCH
+06/2022
 
 DEKOVEN SERIES
 
-The Dekoven series consists of very deep, very poorly drained soils formed in alluvial material derived from loess.  Permeability is moderate. Slopes range from 0 to 3 percent.  Average annual precipitation is 50 inches.  Average annual temperature is 59 degrees F.
+MLRA(s): 134
+MLRA Soil Survey Regional Office (SSRO) Responsible: Auburn, Alabama
+Depth Class: Very deep
+Drainage Class: Poorly drained
+Saturated Hydraulic Conductivity: Moderately high to high
+Parent Material: Silty alluvial material derived from Loess
+Slope: 0 to 3
+Mean Annual Air Temperature: 16 degrees C. (61 degrees F.)
+Mean Annual Precipitation: 1295 millimeters (51 inches)
 
 TAXONOMIC CLASS: Fine-silty, mixed, superactive, thermic Typic Endoaquolls
 
-TYPICAL PEDON:  Dekoven silt loam - cultivated.  (Colors are for moist soil unless otherwise stated.)
+TYPICAL PEDON: Dekoven silt loam - cultivated. (Colors are for moist soil unless otherwise stated.)
 
-     Ap--0 to 8 inches; very dark gray (10YR 3/1) silt loam, gray (10YR 5/1, 4/1) dry; weak medium granular structure; very friable; many fine roots; neutral; clear smooth boundary.
+ Ap--0 to 18 cm (0 to 7 inches); very dark gray (10YR 3/1) silt loam; moderate medium granular structure; friable; non-sticky, non-plastic; common fine and very fine roots; slightly acid; abrupt smooth boundary.
 
-     A--8 to 22 inches; very dark gray (10YR 3/1) silt loam, gray (10YR 5/1, 4/1) dry; moderate medium granular structure; friable; common roots; neutral; clear smooth boundary.  (Combined thickness of the A horizon is 11 to 24 inches)
+ A--18 to 56 cm (7 to 22 inches); very dark gray (10YR 3/1) silty clay loam; weak medium and coarse angular and subangular blocky structure; friable; moderately sticky, moderately plastic; common fine roots and pores; common shiny pressure faces; common black (10YR 2/1) concretions; slightly acid; clear irregular boundary.
 
-     Bg--22 to 60 inches; dark gray (10YR 4/1) silty clay loam, many medium distinct light olive brown (2.5Y 5/6) mottles; weak medium granular structure; friable, slightly sticky and slightly plastic; few roots; mildly alkaline.
+ Bg1--56 to 99 cm (22 to 39 inches); dark grayish brown (2.5Y 4/2) silty clay loam; many fine and medium distinct dark gray (10YR 4/1) iron depletions and few fine distinct 10YR 6/6) brownish yellow masses of iron accumulation; weak, coarse prismatic structure parting to weak medium subangular blocky structure; friable; few fine roots; many fine pores; common shiny pressure faces; common fine brown and black (10YR 2/1) iron-manganese concretions; few very dark grayish brown (10YR3/2) krotovinas; neutral; gradual wavy boundary.
 
-TYPE LOCATION:  Henderson County, Kentucky; on Kentucky Highway 54, 1.5 miles northwest of Zion.
+ Bg2--99 to 130 cm (39 to 51 inches): dark grayish brown (10YR 4/2) silty clay loam; common medium and coarse distinct brownish yellow (10YR 6/6) and yellow (10YR 7/6) masses of iron accumulation; common medium distinct dark gray (10YR 4/1) iron depletions; weak coarse and very coarse prismatic structure; friable; neutral: gradual smooth boundary.
 
-RANGE IN CHARACTERISTICS:  Solum thickness is more than 48 inches. Depth to bedrock is more than 60 inches.  Reaction ranges from slightly acid to mildly alkaline.
+ Cg--130 to 203 (51 to 80 inches): light brownish gray (10YR 6/2) silty clay loam: few to common distinct strong brown (7.5YR 4/6) masses of iron accumulation; few fine faint light gray (10YR 7/1) iron depletions; massive; friable; neutral.
 
-The A horizon has hue of 10YR or 2.5Y, value of 2 or 3, and chroma of 3 or less.  Texture is silt loam or silty clay loam.  Some pedons have an overwash of 6 to 15 inches thick with 10YR hue, value of 4, and chroma of 3 or 4.
+TYPE LOCATION: Tipton County, Tennessee; 1.4 miles north of Gift Grocery on Locust Bluff Road and 275 feet east in a farm field. Approximately 35 degrees 34 minutes 20.66 seconds North Latitude and 89 degrees 33 minutes 35.0 seconds West Longitude.
 
-The Bg horizon has hue of 10YR, 2.5Y, 5Y, 5GY, 5G or N; value of 3 to 6; and chroma of 2 or less, with mottles in shades of brown or yellow.  Texture is silt loam or silty clay loam.  Some horizons have buried horizons.
-When present some pedons have Ab, Bgb, or BCb horizons.  The Ab horizon has bue of 10YR, value of 2 or 3, and chroma of 1 or 2.  The Bgb and BCb horizons have hue of 10YR, 2.5Y, or 5Y, value of 3 to 6, and chroma 1 or 2.  Mottles are in shades of olive, brown, or gray.  Texture for these horizons is silt loam or silty clay loam.
+RANGE IN CHARACTERISTICS: 
+Solum thickness is more than 122 cm (48 inches)
+Depth to bedrock is more than 150 centimeters (60 inches)
+Reaction ranges from slightly acid to mildly alkaline.
 
+Range of individual horizons:
+A horizon(s):
+Color: Hue: 10YR or 2.5Y, value: 3 or less, chroma: 3 or less
+Some pedons have an overwash layer 15cm to 38cm (6 to 15 in) thick that has hue of 10YR, value 4, and chroma 2 of 3 or 4.
+Texture: silt loam or silty clay loam.
 
-COMPETING SERIES:  There are no competing soils in the same family.  Soils in similar families are the Lanton, Roellen, and Egam series. The Lanton series has a thicker (24 inches or more) mollic epipedon. The Roellen is fine textured.  The Egam series also is fine textured and better drained, with dominant chromas of 2 or more to 40 inches.
+Ab horizon (where present)
+Color: Hue: 10YR, value: 2 or 3, chroma: 1 or 2
+Texture: silt loam or silty clay loam.
 
-GEOGRAPHIC SETTING:  The Dekoven soils are in depressional areas on flood plains adjacent to the thick loess uplands.  Slopes range from 0 to 3 percent.  These soils formed in alluvial material derived from loess.  Mean annual temperature ranges from 59 to 65 degrees F, and the mean annual precipitation ranges from 45 to 55 inches.
+Bg horizon: 
+Color: Hue: 10YR, 2.5Y, 5Y, 5GY, 5G or N, value: 3 to 6, chroma: 2 or less 
+Redoximorphic features in shades of brown or yellow 
+Texture: silt loam or silty clay loam. 
+Some pedons have few to common dark grayish brown (10YR 4/2) or Very dark grayish brown (10YR 3/2) Krotavinas 3 to 7 cm in diameter
 
-GEOGRAPHICALLY ASSOCIATED SOILS:  These are the Lanton, Roellen, Routon and Dowellton series.  Routon and Dowellton soils lack mollic epipedons and have argillic horizon.
+Bgb or BCb (where present):
+Color: Hue: 10YR, 2.5Y, 5Y, value: 3 to 6, chroma: 1 or 2
+Texture: silt loam or silty clay loam.
+Redoximorphic features: shades of olive, brown, or gray
+Krotavinas (where present) similar to Bg
 
-DRAINAGE AND PERMEABILITY:  Very poorly drained, with very slow runoff and moderate permeability.
+Cg horizon (where present):
+Color: Hue: 10YR, 2.5Y, 5Y, value: 4 to 6, chroma: 1 or 2
+Texture: silt loam, silty clay loam, silty clay, or very fine sandy loam
+Redoximorphic features: shades of olive, brown, or gray
 
-USE AND VEGETATION:  Hardwoods - chiefly oaks, beech, maple, ash, hickory, gum, elm, sycamore, willow, and cypress.  Most areas are cleared and used for crops and pasture.  Principal crops are corn, soybeans, cotton and hay.  Yields generally are high.
+COMPETING SERIES: 
+There are no competing soils in the same family.
 
-DISTRIBUTION AND EXTENT:  Kentucky and Tennessee, possibly Arkansas.  Acreage probably is moderate, with estimated total acreage of 75,000.
+GEOGRAPHIC SETTING: 
+Landscape: Lower Southern Mississippi Valley Loess
+Landform: Depressional areas on flood plains
+Hillslope position: Flood plain depressions
+Elevation (type location): 91.4 meters (300 feet)
+Mean annual temperature range:  15 to 18 degrees C. (59 to 65 degrees F.)
+Mean annual precipitation range:  1,143 to 1,397 millimeters (45 to 55 inches)
 
-SOIL SURVEY REGIONAL OFFICE (SSRO) RESPONSIBLE: AUBURN, ALABAMA
+GEOGRAPHICALLY ASSOCIATED SOILS:
+ Dowellton soils-do not have mollic epipedons and also have argillic horizons
+-Reelfoot soils-have mollic epipedons, have argillic horizons and occur on slightly higher elevations on the landscape
+-Roellen soils-have a mollic epipedon and have finer textures throughout
+-Routon soils-lack a mollic epipedon and have argillic horizons 
 
-SERIES ESTABLISHED:  Dyer County, Tennessee, 1963.
+DRAINAGE AND SATURATED HYDRAULIC CONDUCTIVITY: 
+Drainage class: Poorly drained
+Saturated hydraulic conductivity: moderate 
+Flooding and ponding: Most Map units are flooded for some part of the growing season
+Flooding frequency and duration: Rarely flooded for brief duration at the type location
 
-REMARKS:  Diagnostic horizons recognized in this pedon are:
+USE AND VEGETATION: Hardwoods - chiefly oaks, beech, maple, ash, hickory, gum, elm, sycamore, willow, and cypress. Most areas are cleared and used for crops and pasture. Principal crops are corn, soybeans, and hay. Yields generally are high.
 
-Mollic epipedon - 0 to 22 inches (Ap, A).
+DISTRIBUTION AND EXTENT: 
+Kentucky and Tennessee, possibly Arkansas.
+Extent is moderate, with estimated total acreage of 25,000.
 
-Cambic horizon - 22 to 60 inches (Bg).
+SOIL SURVEY REGIONAL OFFICE (SSRO) RESPONSIBLE: Auburn, Alabama
 
+SERIES ESTABLISHED: Dyer County, Tennessee, 1963.
+
+REMARKS: Diagnostic horizons recognized in this pedon are:
+Mollic epipedon - 0 to 56 centimeters (0 to 22 inches, Ap and A horizons).
+Cambic horizon - 56 to 130 centimeters (22 to 60 inches, Bg1 and Bg2 horizons).
 Aquic soil moisture regime.
 
+This revision relocates the type location pedon from Henderson County, KY (a mesic temperature area) to Tipton County, TN (thermic area) and also updates the drainage class from very poorly to poorly drained.
+________________________________________
 National Cooperative Soil Survey
 U.S.A.
