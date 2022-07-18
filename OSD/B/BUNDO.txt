@@ -1,70 +1,87 @@
-LOCATION BUNDO                  NM+CO
+LOCATION BUNDO                  NM+CO MT
 
 Established Series
-RD:  GWA/BDS/RJA
-02/1999
+RD:  GWA/BDS/KLS
+07/2022
 
 BUNDO SERIES
 
-The Bundo series consists of deep, moderately rapidly permeable soils that formed in colluvium and alluvium derived from acid igneousintrusive rocks on mountain slopes.  Slopes range from 25 to 60 percent.  Mean annual precipitation is 22 inches, and the mean annual temperature is 38 degrees F.
+The Bundo series consists of deep that have moderately rapid permeability and formed in colluvium and alluvium derived from acid intrusive igneous rocks on mountain slopes.  Slopes range from 25 to 60 percent.  Mean annual precipitation is 560 mm, and the mean annual air temperature is 3 degrees C.
 
 TAXONOMIC CLASS: Loamy-skeletal, mixed, superactive Ustic Palecryalfs
 
 TYPICAL PEDON:  Bundo gravelly sandy loam - forested.  (Colors are for dry soils unless otherwise noted.)
 
-    Oi--3 to 0 inch; Forest litter.  (l to 4 inches thick)
+    Oi--0 to 8 cm; forest litter.  (3 to 10 cm thick)
 
-    El--0 to ll inches; light gray (l0YR 7.2) gravelly sandy loam, brown (l0YR 5/3) moist; moderate very fine granular structure; soft, very friable; many fine and coarse roots; common fine pores; l5 percent pebbles; medium acid; gradual smooth boundary.  (8 to l5 inches thick)
+    E1--8 to 36 cm; light gray (10YR 7/2) gravelly sandy loam, brown (10YR 5/3) moist; moderate very fine granular structure; soft, very friable; many fine and coarse roots; common fine pores; 15 percent pebbles; moderately acid; gradual smooth boundary.  (20 to 38 cm thick)
 
-    E2--ll to 24 inches; light gray (l0YR 7/2) gravelly sandy loam, pale brown (l0YR 6/3) moist; strong very f ine granular structure; slightly hard, friable; few medium and coarse roots; common fine pores; 35 percent pebbles; strongly acid; gradual smooth boundary. (l0 to 25 inches thick)
+    E2--36 to 69 cm; light gray (10YR 7/2) gravelly sandy loam, pale brown (10YR 6/3) moist; strong very fine granular structure; slightly hard, friable; few medium and coarse roots; common fine pores; 35 percent pebbles; strongly acid; gradual smooth boundary. (25 to 64 cm thick)
 
-    EB--24 to 30 inches; (E2) light gray (l0YR 7/2) very gravelly sandy loam, pale brown (l0YR 6/3) moist; moderate fine granular structure; slightly hard, friable; (Bt) lamellae of light yellowish brown (l0YR 6/4) gravelly loam, yellowish brown (l0YR 5/4) moist; moderate fine subangular blocky structure; hard, firm, slightly sticky, slightly plastic; lamellae .25 to l inch thick; few medium and coarse roots; 45 percent pebbles; strongly acid; gradual wavy boundary.  (4 to 8 inches thick)
+    EB--69 to 84 cm; (E2) light gray (10YR 7/2) very gravelly sandy loam, pale brown (10YR 6/3) moist; moderate fine granular structure; slightly hard, friable; (Bt) lamellae of light yellowish brown (10YR 6/4) gravelly loam, yellowish brown (10YR 5/4) moist; moderate fine subangular blocky structure; hard, firm, slightly sticky, slightly plastic; lamellae 6 to 25 mm thick; few medium and coarse roots; 45 percent pebbles; strongly acid; gradual wavy boundary.  (10 to 20 cm thick)
 
-    BE--30 to 56 inches; (Bt) light yellowish brown (l0YR 6/4) very gravelly loam, dark yellowish brown (l0YR 4/4) moist strong fine subangular blocky structure; hard, firm, slightly sticky, plastic; (E) very pale brown (l0YR 7/3) gravelly sandy loam, yellowish brown (l0YR 4/4) moist; weak fine granular structure; slightly hard, friable; (E) material occurs in pockets and cracks and as coatings on coarse fragments; 45 percent pebbles; medium acid; gradual smooth boundary.  (20 to 28 inches thick)
+    BE--84 to 150 cm; (Bt) light yellowish brown (10YR 6/4) very gravelly loam, dark yellowish brown (10YR 4/4) moist strong fine subangular blocky structure; hard, firm, slightly sticky, plastic; (E) very pale brown (10YR 7/3) gravelly sandy loam, dark yellowish brown (10YR 4/4) moist; weak fine granular structure; slightly hard, friable; (E) material occurs in pockets and cracks and as coatings on coarse fragments; 45 percent pebbles; moderately acid; gradual smooth boundary.  (50 to 70 cm thick)
 
-   Bt1--56 to 70 inches; light yellowish brown (10YR 6/4) very gravelly sandy clay loam, dark yellowish brown (10YR 4/4) moist; common fine distinct mottles of brown (7.5YR 4/2), dark brown (7.5YR 3/2) moist; moderate and strong fine subangular blocky structure; hard, firm, sticky, plastic; commin, moderately thick clay films on faces of peds and bridging some coarse particles; about 5 percent by volume of E material is on top of coarse fragments; 50 percent pebbles; medium acid; gradual smooth boundary.  (12 to 18 inches thick)
+   Bt1--150 to 186 cm; light yellowish brown (10YR 6/4) very gravelly sandy clay loam, dark yellowish brown (10YR 4/4) moist; common fine distinct mottles of brown (7.5YR 4/2), dark brown (7.5YR 3/2) moist; moderate and strong fine subangular blocky structure; hard, firm, sticky, plastic; common, moderately thick clay films on faces of peds and bridging some coarse particles; about 5 percent by volume of E material is on top of coarse fragments; 50 percent pebbles; moderately acid; gradual smooth boundary.  (30 to 46 cm thick)
 
-   Bt2--70 to 94 inches; light yellowish brown (10YR 6/4) extremely gravelly sandy clay loam, dark yellowish brown (10YR 4/4) moist; common fine distinct mottles of brown (7.5YR 4/2), dark brown (7.5YR 3/2) moist; massive; hard, firm, sticky, plastic; common, moderately thick clay films on and bridging coarse fragments; some coarse fragments have very gravelly loam E material on them; 80 percent pebbles; medium acid.
+   Bt2--186 to 247 cm; light yellowish brown (10YR 6/4) extremely gravelly sandy clay loam, dark yellowish brown (10YR 4/4) moist; common fine distinct mottles of brown (7.5YR 4/2), dark brown (7.5YR 3/2) moist; massive; hard, firm, sticky, plastic; common, moderately thick clay films on and bridging coarse fragments; some coarse fragments have very gravelly loam E material on them; 80 percent pebbles; moderately acid.
 
-TYPE LOCATION:  Colfax County, New Mexico; about 2.5 miles northeast of Eagle Nest, New Mexico; one mile northeast of the northeast end of the Eagle Nest airstrip in line with the airstrip.  Unsectionized area.
+TYPE LOCATION:  Colfax County, New Mexico; about 4 km northeast of Eagle Nest, New Mexico; 2 km northeast of the northeast end of the Eagle Nest airstrip in line with the airstrip.  Unsectionized area.
 
 RANGE IN CHARACTERISTICS:
+Mean annual soil temperature--4 degrees C
+Mean summer soil temperature--9 degrees C
+Depth to argillic horizon--115 to 178 cm
+Total rock fragments--15 to 50 percent at surface, 35 to 85 percent in the control section
 
-Soil Temperature:  Averages 40 degrees F. and the average summer temperature is 49 degrees F.
+E horizon
+Hue--7.5YR or 10YR
+Value--6 through 8 dry, 4 through 6 moist 
+Chroma--2 through 4, dry or moist 
+Texture--loam or sandy loam
 
-Depth to argillic horizon:  45 to 70 inches.
+Bt horizon
+Hue--7.5YR or 10YR 
+Value--5 or 6 dry or 3 through 5 moist 
+Chroma--2 through 6 dry or moist 
+Texture--sandy clay loam or loam 
+Clay content--10 to 25 percent clay
+Sand content--50 percent or more
 
-Rock Fragments:  15 to 50 percent at surface, 35 to 85 percent in the control section.
+COMPETING SERIES:  These are the Etoe, Horsethief and Marosa series.  Etoe soils have an argillic horizon with its upper boundary between 60 and 100 cm from the surface.  Horsethief soils have less than 50 percent sand in the argillic horizon.  Marosa soils have 25 percent or more clay in the control section.
 
-E horizon:  Hue - 7.5YR or 10YR Value:  6 through 8 dry, 4 through 6 moist Chroma:  2 through 4, dry or moist Texture:  Loam or sandy loam
+GEOGRAPHIC SETTING:
+Landform--steep and very steep, stony and gravelly, convex mountain slopes
+Elevation--2,445 to 3,500 meters
+Slope--25 to 60 percent
+Parent material--medium textured, gravelly colluvial-alluvial material derived from acid intrusive igneous rocks
+Mean annual precipitation--460 to 640 mm
+Mean annual air temperature--3 degrees C
+Mean summer air temperature--8 degrees C
 
-Bt horizon:  Hue - 7.5YR or 10YR Value:  5 or 6 dry or 3 through 5 moist Chroma:  2 through 6 dry or moist Texture:  Sandy clay loam or loam (10 to 25 percent clay and 50 percent or more sand.)
+GEOGRAPHICALLY ASSOCIATED SOILS:  None listed
 
-COMPETING SERIES:  These are the Etoe, Horsethief and Marosa series.  Etoe soils have an argillic horizon with its upper boundary between 24 and 40 inches from the surface.  Horsethief soils have less than 50 percent sand in the argillic horizon.  Marosa soils have 25 percent or more clay in the control section.
-
-GEOGRAPHIC SETTING:  The Bundo soils are on steep and very steep, stony and gravelly, convex mountain slopes with elevations ranging from 8,000 to ll,500 feet.  The soils formed in medium textured, gravelly colluvial-alluvial material derived from acid igneous intrusive rocks.  The climate is continental with annual precipitation ranging from l8 to 25 inches.  Annual temperature is about 38 degrees F., and the average summer temperature is about 47 degrees F.
-
-GEOGRAPHICALLY ASSOCIATED SOILS:  These are the Tolby soils.  Tolby soils lack argillic horizons.
-
-DRAINAGE AND PERMEABILITY:  Well drained; medium runoff; moderately rapid permeability.
+DRAINAGE AND PERMEABILITY:  Well drained; medium runoff; moderately rapid permeability
 
 USE AND VEGETATION:  Wildlife, recreation, and timber production.  Douglas-fir, Engelman spruce, white fir, and limber pine.  Understory is kinnikinnick, Oregon grape, mock orange, and some mountain grasses.
 
-DISTRIBUTION AND EXTENT:  Northern New Mexico and southern Colorado.  This series is moderately extensive.
+DISTRIBUTION AND EXTENT:  Bundo soils are moderately extensive in northern New Mexico, southern Colorado, and western Montana; MLRAs 43B, 48A, 49
 
-MLRA SOIL SURVEY REGIONAL OFFICE (MO) RESPONSIBLE: Bozeman, Montana
+SOIL SURVEY REGIONAL OFFICE (SSRO) RESPONSIBLE: Bozeman, Montana
 
-SERIES ESTABLISHED:  Colfax County, New Mexico, l974.
+SERIES ESTABLISHED:  Colfax County, New Mexico, 1974.
 
-REMARKS:  Diagnostic Horizons and Features Recognized in this Pedon are:
+REMARKS:  Diagnostic horizons and features recognized in this pedon are:
 
-Argillic horizon:  The zone from 56 to 94 inches.  (Bt horizons)
+Argillic horizon--150 to 247 cm (Bt horizons)
 
-Pale feature:  Argillic horizon with upper boundary deeper than 60 cm below surface.
+Pale feature--argillic horizon with upper boundary deeper than 150 cm below surface
+
+Particle-size control section--150 to 200 cm
+
+Converted to metric and O horizons were updated to start at zero; 3/2022
 
 ADDITIONAL DATA:  Lincoln Lab S66NMex-4-3 (66L593-597).
 
 National Cooperative Soil Survey
 U.S.A.
-
-

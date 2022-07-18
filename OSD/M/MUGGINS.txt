@@ -1,62 +1,99 @@
-LOCATION MUGGINS                CO+WY
+LOCATION MUGGINS                CO+MT WY
 
 Established Series
-Rev. RLM/GB/AP
-04/2001
+Rev. RLM/GB/KLS
+07/2022
 
 MUGGINS SERIES
 
-The Muggins series consists of very deep well drained soils that formed in thick reddish brown noncalcareous glacial till, colluvium, alluvial material, or valley filling deposits or residuum derived from interbedded sandstone or shale with basalt overburden.  Muggins soils are on till plains, moraines, ridgeslopes, plateaus, or mountain sideslopes.  Slopes ranges from 2 to 65 percent.  Mean annual precipitation is 28 inches.  Mean annual temperature is 34 degrees F.
+The Muggins series consists of very deep well drained soils that formed in thick reddish brown noncalcareous glacial till, colluvium, alluvial material, or valley filling deposits or residuum derived from interbedded sandstone or shale with basalt overburden.  Muggins soils are on till plains, moraines, ridgeslopes, plateaus, or mountain sideslopes.  Slopes range from 2 to 65 percent.  Mean annual precipitation is 710 mm.  Mean annual air temperature is 1 degrees C.
 
 TAXONOMIC CLASS: Fine, smectitic Eutric Glossocryalfs
 
 TYPICAL PEDON:  Muggins sandy loam - forest.  (Colors are for dry soil unless otherwise noted.)
 
-   Oi--3 to 1 inches; undecomposed organic material principally needles, bark, twigs, and leaves.
+   Oi--0 to 5 cm; undecomposed organic material principally needles, bark, twigs, and leaves.
 
-   Oe--1 to 0 inch; partially decomposed organic material like that of the horizon above; medium acid.
+   Oe--5 to 8 cm; partially decomposed organic material like that of the horizon above; moderately acid.
 
-   E--0 to 12 inches; pinkish gray (7.5YR 7/2) sandy loam, light brown (7.5YR 6/4) moist; weak medium platy structure; soft, very friable, nonsticky and nonplastic; 10 percent pebbles and cobbles; slightly acid (pH 6.2); gradual wavy boundary.  (4 to 20 inches thick)
+   E--8 to 38 cm; pinkish gray (7.5YR 7/2) sandy loam, light brown (7.5YR 6/4) moist; weak medium platy structure; soft, very friable, nonsticky and nonplastic; 10 percent pebbles and cobbles; slightly acid (pH 6.2); gradual wavy boundary.  (10 to 51 cm thick)
 
-   E/B--12 to 18 inches; pinkish gray (7.5YR 7/2) sandy clay loam, light brown (7.5YR 6/4) and reddish brown (5YR 5/4) moist; moderate medium subangular blocky structure; slightly hard, very friable, slightly sticky and slightly plastic; peds are very hard, firm; few faint clay films on the more clayey portions of peds and discontinuous clay film coatings in root channels and pores; 10 percent cobbles; slightly acid (pH 6.4); gradual smooth boundary. (4 to 12 inches thick)
+   E/B--38 to 53 cm; pinkish gray (7.5YR 7/2) sandy clay loam, light brown (7.5YR 6/4) and reddish brown (5YR 5/4) moist; moderate medium subangular blocky structure; slightly hard, very friable, slightly sticky and slightly plastic; peds are very hard, firm; few faint clay films on the more clayey portions of peds and discontinuous clay film coatings in root channels and pores; 10 percent cobbles; slightly acid (pH 6.4); gradual smooth boundary. (10 to 30 cm thick)
 
-   Bt--18 to 45 inches; light reddish brown (5YR 6/4) sandy clay, reddish brown (5YR 5/4) moist; moderate coarse and medium angular blocky structure; slightly hard, very friable, sticky and plastic; peds are extremely hard, very firm, many distinct clay films on faces of peds and in root channels and pores; clay film rims around the entrance to some pores; 10 percent cobbles; slightly acid (pH 6.2); gradual smooth boundary.  (6 to 44 inches thick)
+   Bt--53 to 122 cm; light reddish brown (5YR 6/4) sandy clay, reddish brown (5YR 5/4) moist; moderate coarse and medium angular blocky structure; slightly hard, very friable, sticky and plastic; peds are extremely hard, very firm, many distinct clay films on faces of peds and in root channels and pores; clay film rims around the entrance to some pores; 10 percent cobbles; slightly acid (pH 6.2); gradual smooth boundary.  (15 to 112 cm thick)
 
-    BC--45 to 50 inches; light reddish brown (5YR 6/4) light sandy clay, reddish brown (5YR 5/4) moist; weak coarse angular blocky structure; hard, friable, sticky and plastic; peds are extremely hard, very firm; few faint clay films on faces of peds and in root channels and pores; 10 percent cobbles; moderately acid (pH 5.8); gradual smooth boundary.  (3 to 8 inches thick)
+    BC--122 to 135 cm; light reddish brown (5YR 6/4) light sandy clay, reddish brown (5YR 5/4) moist; weak coarse angular blocky structure; hard, friable, sticky and plastic; peds are extremely hard, very firm; few faint clay films on faces of peds and in root channels and pores; 10 percent cobbles; moderately acid (pH 5.8); gradual smooth boundary.  (8 to 20 cm thick)
 
-    C--50 to 60 inches; light reddish brown (5YR 6/4) sandy clay loam, reddish brown (5YR 5/4) moist; massive; very hard, very firm, slightly sticky and slightly plastic; 10 percent cobbles; moderately acid (pH 5.8).
+    C--135 to 160 cm; light reddish brown (5YR 6/4) sandy clay loam, reddish brown (5YR 5/4) moist; massive; very hard, very firm, slightly sticky and slightly plastic; 10 percent cobbles; moderately acid (pH 5.8).
 
-TYPE LOCATION:  Summit County, Colorado; approximately 750 feet east of W1/4 corner Sec. 13, T. 5 S., R. 78 W.
+TYPE LOCATION:  Summit County, Colorado; approximately 229 meters east of W1/4 corner Sec. 13, T. 5 S., R. 78 W.
 
-RANGE IN CHARACTERISTICS:  Mean annual soil temperature is 36 to 42 degrees F. and mean summer soil temperature is about 49 to 52 degrees F.   Thin dark colored A horizons occur in some pedons.  Base saturation ranges from 60 to 100 percent.  Depth to the base of the argillic horizon ranges from 17 to 60 inches.  Rock fragments range from 0 to 35 percent in a major part of the solum and any C horizon and are mainly 1/2 to 10 inches in diameter.
-Moisture regime: udic
+RANGE IN CHARACTERISTICS:  
+Mean annual soil temperature--2 to 6 degrees C
+Mean summer soil temperature--9 to 11 degrees C
+Thin dark colored A horizons occur in some pedons 
+Base saturation--60 to 100 percent
+Depth to base of argillic horizon--40 to 150 cm
+Total rock fragment content--0 to 35 percent in a major part of the solum and any C horizon, mainly 15 to 250 mm in diameter
 
-The E horizon has hue of 10YR through 2.5YR, value of 5 through 8 dry, 4 through 7 moist, and chroma of 1 through 4.  It is neutral through strongly acid.
+E horizon 
+Hue--10YR through 2.5YR
+Value--5 through 8 dry, 4 through 7 moist
+Chroma--1 through 4
+Reaction--pH 5.1 to 7.0
 
-The Bt horizon has hue of 5YR or 2.5YR, value of 5 through 7, 4 through 6 moist, and chroma of 1 through 6.  Textures are clay loam, clay, or sandy clay but clay ranges from 35 to 55 percent, silt from 5 to 45 percent, and sand from 15 to 60 percent with more than 15 percent fine or coarse sand.  Reaction is neutral through moderately acid.
+Bt horizon
+Hue--5YR or 2.5YR
+Value--5 through 7, 4 through 6 moist
+Chroma--1 through 6
+Texture--clay loam, clay, or sandy clay 
+Clay--35 to 55 percent
+Sand--15 to 60 percent with more than 15 percent fine or coarse sand
+Reaction--pH 5.1 to 6.0
 
-The C horizon has hue of 5YR through 10R.  It is typically loam, clay loam, or sandy clay loam but clay ranges from 18 to 35 percent, silt from 5 to 50 percent, and sand from 20 to 75 percent.  The horizon ranges from neutral to strongly acid.
+C horizon
+Hue--5YR through 10R
+Texture--loam, clay loam, or sandy clay loam
+Clay--18 to 35 percent
+Sand--20 to 75 percent
+Reaction--pH 5.1 to 7.0
 
-COMPETING SERIES: This is the Gateway series.
-Gateway soils: moderately deep to a paralithic contact.
+COMPETING SERIES: This is the Gateway series. Gateway soils are moderately deep to a paralithic contact.
 
-GEOGRAPHIC SETTING:  Muggins soils are on till plains, moraines, ridgetops, plateaus, or mountain side slopes.  Slopes range from about 2 to 65 percent.  These soils formed in thick reddish brown noncalcareous glacial till, colluvium, alluvial fans, residuum, or valley fillings deposits derived principally from sedimentary rock and interbedded sandstone and shale with basalt overburden.  Mean annual precipitation is about 26 to 37 inches with peak periods of precipitation in the spring and summer.  Mean annual temperature is 30 to 40 degrees F. and mean summer temperature is 51 to 55 degrees F.  Elevation ranges from 7,500 to 10,300 feet with the frost-free period varying widely from 20 to 75 days.
+GEOGRAPHIC SETTING:  
+Landform--till plains, moraines, ridgetops, plateaus, or mountain side slopes
+Elevation--2275 to 3050 meters
+Slope--2 to 65 percent
+Parent material--glacial till, colluvium, alluvial fans, residuum, or valley fillings deposits derived principally from sedimentary rock and interbedded sandstone and shale with basalt overburden
+Mean annual precipitation--660 to 940 mm with peak periods of precipitation in the spring and summer
+Mean annual air temperature--negative 1 to 4 degrees C
+Frost-free period--20 to 75 days
 
-GEOGRAPHICALLY ASSOCIATED SOILS:  These are the Chieftain, Swigton, and Weminuche soils.  Chieftain soils have a mollic epipedon, are calcareous at or near the surface, and have hue of 7.5YR or yellower.  Swifton and Weminuche soils have less than 35 percent clay in the argillic horizon.
+GEOGRAPHICALLY ASSOCIATED SOILS: None listed.
 
 DRAINAGE AND PERMEABILITY:  Well drained; medium to rapid runoff; slow permeability.
 
 USE AND VEGETATION:  These soils are used as grazing land, for timber production, and for recreation.  Native vegetation is aspen, spruce, fir, and lodgepole pine.
 
-DISTRIBUTION AND EXTENT:  North-central Colorado.  The series is of moderate extent.
+DISTRIBUTION AND EXTENT:  The Muggins series is moderately extensive in western Colorado, western Wyoming and western Montana; MLRAs 43B, 47 and 48A
 
-MLRA SOIL SURVEY REGIONAL OFFICE (MO) RESPONSIBLE: Bozeman, Montana
+SOIL SURVEY REGIONAL OFFICE (SSRO) RESPONSIBLE: Bozeman, Montana
 
-SERIES ESTABLISHED:  Jackson County, Colorado. 1973.
+SERIES ESTABLISHED:  Jackson County, Colorado. 1973
 
-REMARKS:  Diagnostic features include:  an argillic horizon - the zone from 18 to 45 inches.
-4/2001 the precipitation range was narrowed to exclude less than 26 inches to limit this series to the typic-udic moisture regime.
+REMARKS:  Diagnostic features and horizons recognized in this pedon:
+Albic horizon--8 to 38 cm (E horizon)
+Glossic horizon--38 to 53 cm (E/B horizon)
+Argillic horizon--53 to 122 cm (Bt horizon)
+Particle-size control section--53 to 103 cm (part of the Bt horizon)
+
+Muggins soils have a cryic temperature regime and a udic soil moisture regime.
+
+The precipitation range was narrowed to exclude less than 660 mm to limit this series to the typic-udic moisture regime. 4/2001
+
 Classification revised from Typic to Eutric Glossocryalf to accommodate base saturation of 60 to 100 percent in range in characteristics.
+
+Converted to metric, updated formatting, and O horizons were updated to start at zero. 7/2022
 
 National Cooperative Soil Survey
 U.S.A.

@@ -1,103 +1,119 @@
-LOCATION MILLERLAKE             WY+CO+MT
+LOCATION MILLERLAKE             WY+CO MT UT
 
 Established Series
-Rev. PSD/EMM/SJJ
-05/2016
+Rev. PSD/EMM/KLS
+07/2022
 
 MILLERLAKE SERIES
 
-The Millerlake series consists of deep, well drained soils that formed in slope alluvium and other sediments derived from sedimentary rock.  These soils are on fan aprons, terraces, structural benches, and lower mountain slopes.  Slopes are 2 to 35 percent.  The mean annual precipitation is about 18 inches, and the mean annual temperature is about 38 degrees F.
+The Millerlake series consists of deep, well drained soils that formed in slope alluvium and other sediments derived from sedimentary rock.  These soils are on fan aprons, terraces, structural benches, and lower mountain slopes.  Slopes are 2 to 35 percent.  The mean annual precipitation is about 457 mm, and the mean annual temperature is about 3 degrees C.
 
 TAXONOMIC CLASS: Fine-loamy, mixed, superactive Pachic Argicryolls
 
 TYPICAL PEDON:  Millerlake loam-rangeland.  (Colors are for dry soil unless otherwise stated.)
 
-      0--1 to 0 inch; partially decomposed leaves, grass, and other organic materials.
+      Oe--0 to 3 cm; partially decomposed leaves, grass, and other organic materials.
 
-      A--0 to 4 inches; dark grayish brown (10YR 4/2) loam, very dark brown (10YR 2/2) moist; strong fine granular structure; soft, very friable, slightly sticky and slightly plastic; many fine and medium roots; neutral (pH 6.8); clear smooth boundary.  (3 to 10 inches thick)
+      A--3 to 13 cm; dark grayish brown (10YR 4/2) loam, very dark brown (10YR 2/2) moist; strong fine granular structure; soft, very friable, slightly sticky and slightly plastic; many fine and medium roots; neutral (pH 6.8); clear smooth boundary.  (8 to 25 cm thick)
 
-      BA--4 to 7 inches; grayish brown (10YR 5/2) loam, very dark grayish brown (10YR 3/2) moist; moderate medium subangular blocky structure parting to strong medium granular; hard, friable, slightly sticky and slightly plastic; many fine and medium and few coarse roots; few thin clay films on faces of peds and lining pores; neutral (pH 6.8); gradual smooth boundary.  (0 to 8 inches thick)
+      BA--13 to 21 cm; grayish brown (10YR 5/2) loam, very dark grayish brown (10YR 3/2) moist; moderate medium subangular blocky structure parting to strong medium granular; hard, friable, slightly sticky and slightly plastic; many fine and medium and few coarse roots; few thin clay films on faces of peds and lining pores; neutral (pH 6.8); gradual smooth boundary.  (0 to 20 cm thick)
 
-      Bt--7 to 20 inches; grayish brown (10YR 5/2) clay loam, very dark grayish brown (10YR 3/2) moist; moderate coarse subangular blocky structure parting to strong medium angular blocky; hard, friable, sticky and plastic; many fine and few coarse roots; many moderately thick clay films on faces of peds, and lining pores; neutral (pH 7.2); gradual wavy boundary.  (10 to 30 inches thick)
+      Bt--21 to 54 cm; grayish brown (10YR 5/2) clay loam, very dark grayish brown (10YR 3/2) moist; moderate coarse subangular blocky structure parting to strong medium angular blocky; hard, friable, sticky and plastic; many fine and few coarse roots; many moderately thick clay films on faces of peds, and lining pores; neutral (pH 7.2); gradual wavy boundary.  (25 to 76 cm thick)
 
-      Btk--20 to 28 inches; grayish brown (10YR 5/2) loam, dark grayish brown (10YR 4/2) moist; strong coarse subangular blocky structure; very hard, firm, slightly sticky and slightly plastic; few fine and coarse roots; few thin clay films on faces of peds and lining pores; strongly effervescent, lime as common soft masses and as filaments and in seams; moderately alkaline (pH 8.4); gradual wavy boundary.  (0 to 10 inches thick)
+      Btk--54 to 74 cm; grayish brown (10YR 5/2) loam, dark grayish brown (10YR 4/2) moist; strong coarse subangular blocky structure; very hard, firm, slightly sticky and slightly plastic; few fine and coarse roots; few thin clay films on faces of peds and lining pores; strongly effervescent, lime as common soft masses and as filaments and in seams; moderately alkaline (pH 8.4); gradual wavy boundary.  (0 to 25 cm thick)
 
-      Bk--28 to 60 inches; light gray (10YR 7/2) loam, light brownish gray (10YR 6/2) moist; massive; hard, friable, slightly sticky and slightly plastic; violently effervescent, lime as common soft masses, filaments, and seams; moderately alkaline (pH 8.4).
+      Bk--74 to 155 cm; light gray (10YR 7/2) loam, light brownish gray (10YR 6/2) moist; massive; hard, friable, slightly sticky and slightly plastic; violently effervescent, lime as common soft masses, filaments, and seams; moderately alkaline (pH 8.4).
 
 TYPE LOCATION:  Carbon County, Wyoming; West quarter corner, sec. 11, T. 18 N., R. 89 W.
 
-RANGE IN CHARACTERISTICS:  Depth to the base of the argillic horizon is 20 inches or more.  Depth to any contrasting material is greater than 40 inches.  The mean annual soil temperature ranges from 38 to 42 degrees F., and the mean summer soil temperature ranges from 50 to 56 degrees F.  Coarse fragments range from 0 to 15 percent throughout.
+RANGE IN CHARACTERISTICS:  
+Depth to base of argillic horizon--50 cm or more
+Depth to any contrasting material--more than 100 cm
+Mean annual soil temperature--3 to 6 degrees C
+Mean summer soil temperature--10 to 13 degrees C
+Total rock fragment content--0 to 15 percent throughout
 
 A horizon 
-Hue - 5Y to 7.5YR
-Value - 3 to 5 dry, 2 or 3 moist
-Chroma - 1 to 3  
-Reaction - slightly acid to slightly alkaline
+Hue--5Y to 7.5YR
+Value--3 to 5 dry, 2 or 3 moist
+Chroma--1 to 3  
+Reaction--pH 6.1 to 7.4
 
 Bt horizon 
-Hue - 5Y to 7.5YR 
-Value - 4 to 6 dry, 2 to 4 moist
-Chroma - 1 to 4  
-Texture - clay loam or loam with 18 to 35 percent clay and more than 15 but less than 35 percent fine or coarser sand
-Reaction - slightly acid to slightly alkaline
+Hue--5Y to 7.5YR 
+Value--4 to 6 dry, 2 to 4 moist
+Chroma--1 to 4  
+Texture--clay loam or loam
+Clay content--18 to 35 percent
+Sand content--15 to 35 percent fine or coarser sand
+Reaction--pH 6.3 to 7.6
 
 Btk horizon 
-Hue - 5Y to 7.5YR 
-Value - 5 or 6 dry, 4 or 5 moist
-Chroma - 2 to 4  
-Texture - loam or clay loam  
-Calcium carbonate equivalent - 4 to 14 percent  
-Reaction - moderately alkaline or strongly alkaline
+Hue--5Y to 7.5YR 
+Value--5 or 6 dry, 4 or 5 moist
+Chroma--2 to 4  
+Texture--loam or clay loam  
+Calcium carbonate equivalent--4 to 14 percent  
+Reaction--pH 7.8 to 8.6
 
 Bk horizon 
-Hue - 5Y to 7.5YR
-Value - 5 to 7 dry, 4 to 6 moist 
-Chroma - 2 to 4  
-Texture - loam or clay loam  
-Calcium carbonate equivalent - 8 to 14 percent
-Reaction - moderately or strongly alkaline
+Hue--5Y to 7.5YR
+Value--5 to 7 dry, 4 to 6 moist 
+Chroma--2 to 4  
+Texture--loam or clay loam  
+Calcium carbonate equivalent--8 to 14 percent
+Reaction--pH 7.8 to 8.6
 
 COMPETING SERIES:  
-Bachus (WY) - have a lithic contact at 20 to 40 inches
-Bavdark (MT) - do not have a horizon of secondary calcium carbonate equivalent
-Benteen (MT) - have a lithic contact at 20 to 40 inches
+Bachus (WY) - are moderately deep to lithic contact
+Bavdark (MT) - do not have a horizon of secondary calcium carbonate accumulation
+Benteen (MT) - are moderately deep to lithic contact
 Brushtop (ID) - have a xeric moisture regime
 Clayburn (UT) - have a udic moisture regime
-Croydon (UT) - have a lithic contact at 40 to 60 inches
+Croydon (UT) - are deep to lithic contact
 Crystalbutte (ID) - have a xeric moisture regime
 Davtone (CO) - have hues of 5YR or redder in the Bt horizon
 Dehana (ID) - have a lithologic discontinuity
-Demast (ID) - have a lithic contact at 40 to 60 inches
+Demast (ID) - are moderately deep to lithic contact
 Dranyon (ID) - have a udic soil moisture regime
-Echemoor (WY) - have a paralithic contact at 20 to 40 inches
+Echemoor (WY) - are moderately deep to paralithic contact
 Hagenbarth (ID) - have a xeric soil moisture regime
-Hoopgobel (ID) - have a paralithic contact at 20 to 40 inches
-Longway (ID) - do not have a horizon of secondary calcium carbonate equivalent
-Lostminer (UT) - have a lithic contact at 20 to 40 inches
-Odark (MT) - does not have horizons of secondary calcium carbonate accumulation
-Senchert (UT) - have a lithic contact at 20 to 40 inches
-Southmount (ID) - have redox concentrations at 18 to 40 inches
-Squawval (NV) - have a paralithic contact at 20 to 40 inches
-Stubbs (WY) - have a paralithic contact at 20 to 40 inches
+Hoopgobel (ID) - are moderately deep to paralithic contact
+Longway (ID) - do not have a horizon of secondary calcium carbonate accumulation
+Lostminer (UT) - are moderately deep to lithic contact
+Odark (MT) - do not have horizons of secondary calcium carbonate accumulation
+Senchert (UT) - are moderately deep to lithic contact
+Southmount (ID) - have redox concentrations at 45 to 100 cm
+Squawval (NV) - are moderately deep to paralithic contact
+Stubbs (WY) - are moderately deep to paralithic contact
 Thulepah (NV) - have a lithologic discontinuity
-Vadnais (ID) - have a lithic contact at 20 to 40 inches
-Winu (NV) - have a lithic contact at 20 to 40 inches
+Vadnais (ID) - are moderately deep to lithic contact
+Winu (NV) - are moderately deep to lithic contact
 
-GEOGRAPHIC SETTING:  Millerlake soils are on fan aprons, terraces, structural benches, and lower mountain footslopes and toeslopes.  They formed in slope alluvium and other sediments derived from sedimentary rock.  Slopes are 2 to 35 percent.  Elevations are 6,500 to 9,500 feet.  The mean annual precipitation is about 18 inches and ranges from 15 to 24 inches.  The mean annual temperature is about 38 degrees F. and ranges from 34 to 40 degrees F.  The frost-free season is less than 60 days.
+GEOGRAPHIC SETTING: 
+Landform--fan aprons, terraces, structural benches, and lower mountain footslopes and toeslopes  
+Elevation--1975 to 2900 meters
+Parent Material--slope alluvium and other sediments derived from sedimentary rock
+Slope--2 to 35 percent
+Mean annual precipitation--380 to 610 mm
+Mean annual temperature--1 to 4 degrees C
+Frost-free season--less than 60 days
 
-GEOGRAPHICALLY ASSOCIATED SOILS:  These are the Bachus, Echemoor, and Decross soils.  The Bachus and Echemoor soils occur on upslope positions on fan aprons and footslopes.  Decross soils occur intermixed with the Millerlake soils.
+GEOGRAPHICALLY ASSOCIATED SOILS:  None listed.
 
-DRAINAGE AND PERMEABILITY:  Well drained.  Runoff is medium to rapid depending upon slope and surface condition.  Permeability is moderately slow.
+DRAINAGE AND PERMEABILITY:  Well drained; permeability is moderately slow
 
-USE AND VEGETATION:  Rangeland and wildlife habitat.  Native vegetation consists of Idaho fescue, Columbia needlegrass, thickspike wheatgrass, and scattered big sagebrush.  Some areas support relatively thick stands of aspen.
+USE AND VEGETATION:  Rangeland and wildlife habitat.  Native vegetation consists of Idaho fescue, Columbia needlegrass, thickspike wheatgrass, and big sagebrush.  Some areas support relatively thick stands of aspen.
 
-DISTRIBUTION AND EXTENT:  South central Wyoming, northwestern Colorado and south central Montana.  The series is of moderate extent.  MLRAs 43B, 46, and 48A.
+DISTRIBUTION AND EXTENT:  The Millerlake series is of moderate extent in western and southcentral Wyoming, western Colorado and southcentral Montana and central Utah. MLRAs 43B, 46, and 48A.
 
-MLRA SOIL SURVEY REGIONAL OFFICE (MO) RESPONSIBLE: Bozeman, Montana
+SOIL SURVEY REGIONAL OFFICE (SSRO) RESPONSIBLE: Bozeman, Montana
 
-SERIES ESTABLISHED:  Aspen-Gypsum Area, Colorado; 1982.
+SERIES ESTABLISHED:  Aspen-Gypsum Area, Colorado; 1982
 
-REMARKS:  The soil moisture regime is Ustic.  (The May 2016 revision added the soil moisture regime remarks statement, to help clarify the series concept). 
+REMARKS:  Converted to metric, updated formatting, and O horizons were updated to start at zero. 7/2022
+
+Millerlake soils have a cryic soil temperature regime and an ustic soil moisture regime. 
 
 National Cooperative Soil Survey
 U.S.A.

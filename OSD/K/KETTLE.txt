@@ -1,56 +1,89 @@
 LOCATION KETTLE                 CO
 
 Established Series
-Rev. RHM/LSL
-02/1999
+Rev. RHM/LSL/KLS
+07/2022
 
 KETTLE SERIES
 
-The Kettle series consists of deep, well to somewhat excessively drained soils that formed in material weathered from arkose deposits.  Kettle soils are on alluvial fans, till plains, valley side slopes or hills and ridges and have slopes of 2 to 50 percent.  The mean annual precipitation is about 17 inches and the mean annual air temperature is about 42 degrees F.
+The Kettle series consists of deep, well to somewhat excessively drained soils that formed in material weathered from arkose deposits.  Kettle soils are on alluvial fans, till plains, valley side slopes or hills and ridges and have slopes of 2 to 50 percent.  The mean annual precipitation is about 430 mm and the mean annual air temperature is about 6 degrees C.
 
 TAXONOMIC CLASS: Coarse-loamy, mixed, superactive, frigid Lamellic Haplustalfs
 
 TYPICAL PEDON:  Kettle loamy coarse sand - forested.  (Colors are for dry soil unless otherwise noted.)
 
-    01--3 inches to 1 inch; undecomposed organic material consisting primarily of needles, twigs, and bark.
+    Oi--0 to 5 cm; undecomposed organic material consisting primarily of needles, twigs, and bark.
 
-    02--1 inch to 0; partially decomposed organic material like that of the horizon above.
+    Oe--5 to 8 cm; partially decomposed organic material like that of the horizon above.
 
-    A1--0 to 3 inches; gray (10YR 5/1) loamy coarse sand, very dark gray (10YR 3/1) moist; strong fine and very fine granular structure; soft, very friable; 10 percent fine and very fine angular granite gravel; medium acid; abrupt smooth boundary.  (0 to 4 inches thick)
+    A1--8 to 16 cm; gray (10YR 5/1) loamy coarse sand, very dark gray (10YR 3/1) moist; strong fine and very fine granular structure; soft, very friable; 10 percent fine and very fine angular granite gravel; moderately acid; abrupt smooth boundary.  (0 to 10 cm thick)
 
-    A2--3 to 16 inches; light gray (10YR 7/2) gravelly loamy coarse sand, grayish brown (10YR 5/2) moist; weak platy structure that parts to fine granular; soft, very friable; vesicular; 30 percent fine and very fine angular granite gravel; medium acid; diffuse wavy boundary.  (5 to 20 inches thick)
+    A2--16 to 49 cm; light gray (10YR 7/2) gravelly loamy coarse sand, grayish brown (10YR 5/2) moist; weak platy structure that parts to fine granular; soft, very friable; vesicular; 30 percent fine and very fine angular granite gravel; moderately acid; diffuse wavy boundary.  (13 to 51 cm thick)
 
-    B2t--16 to 40 inches; very pale brown (10YR 7/4) gravelly coarse sandy loam (composite texture); yellowish brown (10YR 5/4) moist; this horizon consists of a matrix of loamy coarse sand in which are embedded lamellae of accumulated silicate clay generally of coarse sandy loam, or sandy clay loam texture; weak medium subangular blocky structure; horizon is hard, very friable; peds are very hard, very friable; nearly continuous clay films on peds in the lamellae; thin clay films and fillings in some root channels and pores; weak clay bridges between sand grains in some parts of the horizon; 30 percent fine and very fine angular granite gravel; medium acid; diffuse wavy boundary.  (10 to 22 inches thick)
+    B2t--49 to 110 cm; very pale brown (10YR 7/4) gravelly coarse sandy loam (composite texture); yellowish brown (10YR 5/4) moist; this horizon consists of a matrix of loamy coarse sand in which are embedded lamellae of accumulated silicate clay generally of coarse sandy loam, or sandy clay loam texture; weak medium subangular blocky structure; horizon is hard, very friable; peds are very hard, very friable; nearly continuous clay films on peds in the lamellae; thin clay films and fillings in some root channels and pores; weak clay bridges between sand grains in some parts of the horizon; 30 percent fine and very fine angular granite gravel; moderately acid; diffuse wavy boundary.  (25 to 56 cm thick)
 
-    C--40 to 60 inches; light yellowish brown (10YR 6/4) extremely gravelly loamy coarse sand; yellowish brown (10YR 5/4) moist; massive; very hard, loose; 70 percent fine or very fine angular granite gravel; medium acid.
+    C--110 to 161 cm; light yellowish brown (10YR 6/4) extremely gravelly loamy coarse sand; yellowish brown (10YR 5/4) moist; massive; very hard, loose; 70 percent fine or very fine angular granite gravel; moderately acid.
 
-TYPE LOCATION:  El Paso County, Colorado; 1,330 feet east of the NW corner of Sec. 16, T. 11 S., R. 66 W.
+TYPE LOCATION:  El Paso County, Colorado; 405 meters east of the NW corner of Sec. 16, T. 11 S., R. 66 W.
 
-RANGE IN CHARACTERISTICS:  Kettle soils typically have thin A1 horizons but these are absent in some pedosn.  The soils typically are noncalcareous to depth of more than 40 inches, or are noncalcareous for at least the upper 3 inches of the C horizon if the solum exceeds 40 inches.  Base saturation ranges from 60 to 100 percent in all subhorizons of the argillic horizon.  Depth to the top of the argillic horizon is less than 24 inches, and depth to the base of the argillic horizon ranges from 17 to 55 inches.  Rock fragments range from 0 to 35 percent by volume in a major part of the solum, and are mainly less than 3 inches in diameter.  A high percentage of the sand fraction is medium and coarser angular sand and has a large proportion of flat bearing surface between sand grains.  The solum ranges from strongly acid to neutral.  Mean annual soil temperature is 45 degrees F., and mean summer soil temperature is 62 degrees F.
+RANGE IN CHARACTERISTICS:  
 
-The A1 horizon, if present, has hue of 2.5Y through 7.5YR, value of 4 through 6 dry, and 3 through 5 moist, and chroma of 1 through 3.  The A2 horizon has hue of 2.5Y through 7.5YR, value of 5 through 8 dry, 4 through 7 moist, and chroma of 1 through 4.
+Mean annual soil temperature--7 degrees C
+Mean summer soil temperature--17 degrees C
+Base saturation--60 to 100 percent in the particle-size control section
+Depth to the top of the argillic horizon--less than 60 cm
+Depth to the base of the argillic horizon--45 to 140 cm  
+Sand fraction--mostly medium to coarse angular sand with a large proportion of flat bearing surfaces between sand grains
+Total rock fragment content--0 to 35 percent, mainly less than 75 mm in diameter
+Reaction--pH 5.4 to 7.0
 
-The B2t horizon has hue of 2.5Y through 7.5YR, value of 5 through 8 dry, 4 through 7 moist, and chroma of 1 through 6.  Subhorizons redder than 7.5YR, particularly some lamellae, occur in some pedons.  Composite texture is usually gravelly sandy loam but the horizon consists of gravelly loam coarse sand in which lamellae of coarse sandy loam or sandy clay loam occur.
+A1 horizon
+Hue--2.5Y through 7.5YR
+Value--4 through 6 dry, and 3 through 5 moist
+Chroma--1 through 3
 
-The C horizon has hue of 2.5Y through 7.5YR.  Subhorizons redder than 7.5YR occur in some pedons.  Texture is typically gravelly through extremely gravelly loamy coarse sand or sand.  Reaction is medium acid to mildly alkaline.
+A2 horizon
+Hue--2.5Y through 7.5YR
+Value--5 through 8 dry, 4 through 7 moist
+Chroma--1 through 4
 
-COMPETING SERIES:  This is the Fern Cliff series.  Fern Cliff soils have B2t horizons of sandy clay loam or clay loam lamellae in a sandy loam matrix and have rock fragments more than 10 inches in diameter.
+B2t horizon
+Hue--2.5Y through 7.5YR; hue redder than 7.5YR occur in some pedons
+Value--5 through 8 dry, 4 through 7 moist
+Chroma--1 through 6
+Texture--sandy loam or loamy coarse sand containing lamellae of coarse sandy loam or sandy clay loam
+Rock fragment content--15 to 35 percent 
 
-GEOGRAPHIC SETTING:  The Kettle soils are on alluvial fans, till plains, valley side slopes, or hills and ridges.  Slope gradients range from 2 to 50 percent.  The soils formed in material weathered from arkose deposits.  At the type location the average annual precipitation is 17 inches, with peak periods of precipitation occurring in the spring and summer.
+C horizon
+Hue--2.5Y through 7.5YR; hue redder than 7.5YR occur in some pedons
+Texture--loamy coarse sand or sand 
+Rock fragment content--15 to 90 percent 
+Reaction--pH 5.9 to 7.6
 
-GEOGRAPHICALLY ASSOCIATED SOILS:  These are the Falcon and Tomah soils.  Falcon soils lack A2 horizons and B2t horizons, and have bedrock at depths of less than 20 inches.  Tomah soils have mollic epipedons.
+COMPETING SERIES:  This is the Fern Cliff series.  Fern Cliff soils have B2t horizons of sandy clay loam or clay loam lamellae in a sandy loam matrix and have rock fragments more than 250 mm in diameter.
 
-DRAINAGE AND PERMEABILITY:  Well to somewhat excessively drained; slow runoff; rapid permeability.
+GEOGRAPHIC SETTING:
+Landform--alluvial fans, till plains, valley side slopes, or hills and ridges
+Elevation--2125 to 2350 meters 
+Slope--2 to 50 percent
+Parent material--materials weathered from arkose deposits
+Mean annual precipitation--400 to 480 mm, with peak periods of precipitation occurring in the spring and summer
+Mean Annual Air Temperature--5 to 7 degrees C
+Frost-free period--100 to 130 days
 
-USE AND VEGETATION:  These are use principally for forestry, native pastureland, or for recreation.  Native vegetation is a scattered growth of western yellow pine, and a sparse growth of grasses and shrubs.
+GEOGRAPHICALLY ASSOCIATED SOILS:  None listed
 
-DISTRIBUTION AND EXTENT:  The Black Forest areas of east-central Colorado.  The series is of moderate extent.
+DRAINAGE AND PERMEABILITY:  Well to somewhat excessively drained; rapid permeability.
 
-MLRA SOIL SURVEY REGIONAL OFFICE (MO) RESPONSIBLE: Bozeman, Montana
+USE AND VEGETATION:  Kettle soils are used principally for forestry, native pastureland, or for recreation.  Native vegetation is a scattered growth of western yellow pine, and a sparse growth of grasses and shrubs.
 
-SERIES PROPOSED/ESTABLISHED:  The Cherry Creek Demonstration Project, El Paso and Douglas Counties, Colorado.  The series was established by prior correlation.
+DISTRIBUTION AND EXTENT:  The Kettle series is moderately extensive in the Black Forest areas of east-central Colorado. MLRA 49; LRR E.
 
-REMARKS:  Last updated by the state 3/77.
+SOIL SURVEY REGIONAL OFFICE (SSRO) RESPONSIBLE: Bozeman, Montana
+
+SERIES ESTABLISHED:  The Cherry Creek Demonstration Project, El Paso and Douglas Counties, Colorado.  The series was established by prior correlation.
+
+REMARKS:  Converted to metric, updated formatting, and O horizons were updated to start at zero. 5/2022
 
 National Cooperative Soil Survey
 U.S.A.

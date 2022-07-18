@@ -1,59 +1,80 @@
-LOCATION MATCHER                CO
+LOCATION MATCHER                CO+ID MT WY
 
 Established Series
-Rev. RHM
-01/2008
+Rev. RHM/KLS
+07/2022
 
 MATCHER SERIES
 
-The Matcher series consists of deep, well drained soils that formed in glacial till.  Matcher soils are on mountain slopes and glacial moraines and have slopes of 2 to 50 percent.  The mean annual precipitation is about 20 inches and the mean annual air temperature is about 34 degrees F.
+The Matcher series consists of deep, well drained soils that formed in glacial till.  Matcher soils are on mountain slopes and glacial moraines and have slopes of 2 to 50 percent.  The mean annual precipitation is about 510 mm and the mean annual air temperature is about 1 degree C.
 
 TAXONOMIC CLASS: Sandy-skeletal, mixed Typic Humicryepts
 
 TYPICAL PEDON:  Matcher stony sandy loam, forested.  (Colors are for dry soil unless otherwise noted.)
 
-    01--3 to 1 inch; undecomposed organic material, mainly needles, bark, and twigs.
+    Oi--0 to 5 cm; undecomposed organic material, mainly needles, bark, and twigs.
 
-    02--1 inch to 0; partially decomposed organic material.
+    Oe--5 to 8 cm; partially decomposed organic material.
 
-    A1--0 to 9 inches; grayish brown (10YR 5/2) stony sandy loam, very dark grayish brown (10YR 3/2) moist; moderate fine crumb structure; soft, very friable; 20 percent stones; slightly acid; abrupt smooth boundary.  (5 to 12 inches thick)
+    A1--8 to 31 cm; grayish brown (10YR 5/2) stony sandy loam, very dark grayish brown (10YR 3/2) moist; moderate fine crumb structure; soft, very friable; 20 percent stones; slightly acid; abrupt smooth boundary.  (13 to 30 cm thick)
 
-    B21--9 to 13 inches; reddish gray (5YR 5/2) very stony sandy loam, dark reddish brown (5YR 3/2) moist; moderate fine crumb structure; slightly hard, very friable; 60 percent stones; medium acid; clear smooth boundary.  (2 to 7 inches thick)
+    B21--31 to 41 cm; reddish gray (5YR 5/2) very stony sandy loam, dark reddish brown (5YR 3/2) moist; moderate fine crumb structure; slightly hard, very friable; 60 percent stones; moderately acid; clear smooth boundary.  (5 to 18 cm thick)
 
-    B22--13 to 18 inches; reddish brown (5YR 5/4) very stony sandy loam, reddish brown (5YR 4/4) moist; weak medium subangular blocky structure that parts to strong very fine subangular blocks; slightly hard, very friable; 60 percent stones; medium acid; clear smooth boundary.  (3 to 9 inches thick)
+    B22--41 to 54 cm; reddish brown (5YR 5/4) very stony sandy loam, reddish brown (5YR 4/4) moist; weak medium subangular blocky structure that parts to strong very fine subangular blocks; slightly hard, very friable; 60 percent stones; moderately acid; clear smooth boundary.  (8 to 23 cm thick)
 
-    B3--18 to 22 inches; yellowish brown (10YR 5/4) very stony loamy sand, dark yellowish brown (10YR 4/4) moist; single grained; loose; 60 percent stones; slightly acid; clear smooth boundary.  (2 to 6 inches thick)
+    B3--54 to 64 cm; yellowish brown (10YR 5/4) very stony loamy sand, dark yellowish brown (10YR 4/4) moist; single grained; loose; 60 percent stones; slightly acid; clear smooth boundary.  (5 to 15 cm thick)
 
-    C--22 to 60 inches; light olive brown (2.5Y 5/4) very stony sand, olive brown (2.5Y 4/4) moist; single grained; loose; 60 percent cobbles and stones; slightly acid.
+    C--64 to 161 cm; light olive brown (2.5Y 5/4) very stony sand, olive brown (2.5Y 4/4) moist; single grained; loose; 60 percent cobbles and stones; slightly acid.
 
-TYPE LOCATION:  Gunnison County, Colorado; near the junction of Middle and South Quartz Creeks; 1,000 feet south of the road junction in Sec.  12, T. 50 N., R. 4 E.
+TYPE LOCATION:  Gunnison County, Colorado; near the junction of Middle and South Quartz Creeks; 305 meters south of the road junction in Sec.  12, T. 50 N., R. 4 E.
 
-RANGE IN CHARACTERISTICS:  Thickness of the umbric epipedon ranges from 7 to 15 inches, thickness of the solum ranges from 12 to 30 inches, and depth to the sand and gravel substratum ranges from 20 to 40 inches.  Organic carbon in the umbric epipedon ranges from .7 to 4 percent.  Rock fragments range from 35 to 80 percent by volume in the control section and are dominantly more than 10 inches in diameter.
+RANGE IN CHARACTERISTICS:
+Thickness of umbric epipedon--18 to 38 cm
+Thickness of solum--30 to 75 cm
+Depth to sand and gravel substratum--50 to 100 cm
+Organic carbon content in the umbric epipedon--0.7 to 4 percent
+Total rock fragment content--35 to 80 percent by volume in the control section; dominantly more than 250 mm in diameter
 
-The A horizon has hue of 10YR or 7.5YR, value of 4 or 5 dry, 2 or 3 moist, and chroma of 1.5 through 3.  Reaction ranges from slightly acid to very strongly acid.  Usually this horizon has fine crumb structure but it has weak subangular blocky structure in some pedons.  Dry consistence is soft or slightly hard.
+The A horizon
+Hue--10YR or 7.5YR
+Value--4 or 5 dry, 2 or 3 moist
+Chroma--1.5 through 3
+Reaction--pH 5.0 to 6.5
 
-The B2 horizon has hue of 7.5YR through 2.5YR, value of 5 or 6 dry, 3 through 5 moist, and chroma of 3 through 6.  Reaction ranges from medium acid to very strongly acid.
+The B2 horizon 
+Hue--7.5YR through 2.5YR
+Value--5 or 6 dry, 3 through 5 moist
+Chroma--3 through 6 
+Reaction--pH 4.5 to 6.0
 
-The C horizon has hue of 10YR or 2.5Y.  Reaction ranges from slightly acid to strongly acid.
+The C horizon
+Hue--10YR or 2.5Y
+Reaction--pH 5.1 to 6.1
 
 COMPETING SERIES:  These are the Buell, Gramm, Hossick, and Penitente series, all of which have loamy-skeletal control sections.
 
-GEOGRAPHIC SETTING:  The Matcher soils are on mountain slopes and glacial moraines above 8,500 feet.  Typically they are in areas bordering the alpine areas.  Slope gradients range from 2 to 50 percent.   The soils formed in very stony coarse to moderately coarse textured slightly acid glacial till or outwash.  At the type location the average annual precipitation is 20 inches with generally uniform precipitation occurring throughout the year.  The mean annual temperature is 34 degrees F. and the frost-free season is 45 to 75 days.
+GEOGRAPHIC SETTING:
+Landform--mountain slopes and glacial moraines that border alpine areas
+Elevation--above 2600 meters
+Slope--2 to 50 percent
+Parent Material--glacial till or outwash
+Average annual precipitation--510 mm with generally uniform precipitation occurring throughout the year
+Mean annual air temperature--1 degrees C
+Frost-free season--45 to 75 days
 
-GEOGRAPHICALLY ASSOCIATED SOILS:  These are the Darling, Leal, and Rarick soils, all of which have less than 35 percent rock fragments in the control section.
+GEOGRAPHICALLY ASSOCIATED SOILS:  None listed.
 
-DRAINAGE AND PERMEABILITY:  Well drained; slow runoff; rapid permeability.
+DRAINAGE AND PERMEABILITY:  Well drained; rapid permeability
 
-USE AND VEGETATION:  These soils are used for forestry, for rangeland, and for recreational purposes.  Native vegetation is mainly lodgepole pine, spruce, and fir with an understory of prostrate juniper, whortleberry, and kinnikinnick.
+USE AND VEGETATION:  These soils are used for forestry, for rangeland, and for recreational purposes.  Native vegetation is mainly lodgepole pine, spruce, and fir with an understory of common juniper, whortleberry, and kinnikinnick.
 
-DISTRIBUTION AND EXTENT:  High mountain areas of central Colorado.  The series is of moderate extent.
+DISTRIBUTION AND EXTENT:  The Matcher series is moderately extensive in the high mountain areas of central Colorado, western Montana, northwest Wyoming and eastern Idaho.  MLRAs 43B, 44B, and 48A.
 
-MLRA SOIL SURVEY REGIONAL OFFICE (MO) RESPONSIBLE: Bozeman, Montana
+SOIL SURVEY REGIONAL OFFICE (SSRO) RESPONSIBLE: Bozeman, Montana
 
-SERIES ESTABLISHED:  Gunnison County, Colorado, 1975.
+SERIES ESTABLISHED:  Gunnison County, Colorado, 1975
 
-REMARKS:  Last updated by the state 6/75.
-
+REMARKS:  Converted to metric, updated to metric, and O horizons were updated to start at zero. 7/2022
 
 National Cooperative Soil Survey
 U.S.A.

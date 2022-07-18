@@ -1,54 +1,79 @@
 LOCATION DUNTON                 CO
 
 Established Series
-Rev. RFB/RHM
-02/1999
+Rev. RFB/RHM/KLS
+07/2022
 
 DUNTON SERIES
 
-The Dunton series consists of moderately well drained soils formed in materials weathered from sandstone.  Dunton soils are on mesa tops and cuesta dip slopes.  Slopes range from 0 to 30 percent.  The mean annual precipitation is about 44 inches.  Typically, Dunton soils have pinkish gray friable granular A2 horizons, transitional A&B horizons, and brown heavy clay loam B2t horizons that have subangular blocky structure.  Sandstone bedrock occurs at a depth of about 38 inches.
+The Dunton series consists of moderately deep well drained soils formed in materials weathered from sandstone.  Dunton soils are on mesa tops and cuesta dip slopes.  Slopes range from 0 to 30 percent.  The mean annual precipitation is about 640 mm.  Typically, Dunton soils have pinkish gray friable granular A2 horizons, transitional A&B horizons, and brown heavy clay loam B2t horizons that have subangular blocky structure.  Sandstone bedrock occurs at a depth of about 99 cm.
 
 TAXONOMIC CLASS: Fine, smectitic, frigid Typic Paleustalfs
 
 TYPICAL PEDON:  Dunton loam - forest.  (Colors are for dry soil unless otherwise noted.)
 
-    01--2 to 0 inch; undecomposed forest litter.
+    Oi--0 to 5 cm; undecomposed or slightly decomposed forest litter.
 
-    A2--0 to 24 inches; pinkish gray (7.5YR 6/2) loam, brown (7.5YR 4/2) moist; moderate medium granular structure; loose; neutral; clear irregular boundary.  (24 to 30 inches thick)
+    A2--5 to 66 cm; pinkish gray (7.5YR 6/2) loam, brown (7.5YR 4/2) moist; moderate medium granular structure; loose; neutral; clear irregular boundary.  (60 to 75 cm thick)
 
-    A&B--24 to 27 inches; pinkish gray (7.5YR 6/2) loam, brown (7.5YR 4/2) moist (60 percent) and brown (7.5YR 4/4) clay loam; dark brown (7.5YR 3/4) moist; A2 portion has moderate medium granular structure, loose, friable; B2 portion has medium subangular blocky structure; hard, firm; slightly sticky, slightly plastic; this horizon consists of tongues and fingers of the lighter colored material extending into and intermixed with the clayey material like that of the underlying horizon; slightly acid; clear wavy boundary.  (3 to 8 inches thick)
+    A&B--66 to 74 cm; pinkish gray (7.5YR 6/2) loam, brown (7.5YR 4/2) moist (60 percent) and brown (7.5YR 4/4) clay loam; dark brown (7.5YR 3/4) moist; A2 portion has moderate medium granular structure, loose, friable; B2 portion has medium subangular blocky structure; hard, firm; slightly sticky, slightly plastic; this horizon consists of tongues and fingers of the lighter colored material extending into and intermixed with the clayey material like that of the underlying horizon; slightly acid; clear wavy boundary.  (8 to 20 cm thick)
 
-    B2t--28 to 38 inches; brown (7.5YR 4/4) heavy clay loam, dark brown (7.5YR 3/4) moist; moderate medium and coarse subangular blocky structure; hard, firm, sticky, plastic; few roots, many continuous thin clay films on peds; slightly acid; clear wavy boundary.  (3 to 14 inches thick)
+    B2t--74 to 99 cm; brown (7.5YR 4/4) heavy clay loam, dark brown (7.5YR 3/4) moist; moderate medium and coarse subangular blocky structure; hard, firm, sticky, plastic; few roots, many continuous thin clay films on peds; slightly acid; clear wavy boundary.  (8 to 36 cm thick)
 
-    R--38 inches; hard, reddish brown and buff colored sandstone.
+    R--99 cm; hard, reddish brown and buff colored sandstone.
 
 TYPE LOCATION:  Archuleta County, Colorado; NE 1/4 of Sec. 13, T. 35 N., R. 3 W.
 
-RANGE IN CHARACTERISTICS:  Thin A1 horizons up to 3 inches thick are present in some pedons.  Depth to the argillic horizon ranges from 24 to 30 inches.  Depth to sandstone bedrock ranges from 30 to 40 inches.  The solum ranges from medium acid to neutral.  Rock fragments range from 0 to 25 percent in the major part of the solum and any C horizon, and are predominately 5 to 15 inches in diameter.  The mean annual soil temperature ranges from 41 to 46 degrees F, and the mean summer soil temperature ranges from 52 to 57 degrees F.
+RANGE IN CHARACTERISTICS:  
+Mean annual soil temperature--5 to 8 degrees C
+Mean summer soil temperature--11 to 14 degrees C 
+Depth to the argillic horizon--60 to 75 cm  
+Depth to sandstone bedrock--75 to 100 cm 
+Reaction--pH 5.6 to 7.3
+Total rock fragment content--0 to 25 percent, predominately 13 to 38 cm in diameter
+Thin A1 horizons up to 8 cm thick are present in some pedons.
 
-The A1 horizon, if present, has hue of 10YR or 7.5YR.
+A1 horizon, if present
+Hue--10YR or 7.5YR
 
-The A2 horizon has hue of 10YR or 7.5YR, value of 6 or 7 dry, 4 through 6 moist, and chroma of 1 or 2.
+A2 horizon
+Hue--10YR or 7.5YR
+Value--6 or 7 dry, 4 through 6 moist
+Chroma--1 or 2
 
-The B2t horizon has hue of 5YR through 10YR, value of 4 through 6 dry, 3 through 5 moist, and chroma of 3 through 6.  It is usually heavy clay loam or clay with clay ranging from 35 to 50 percent.  A thin C horizon is present in some pedons.
+B2t horizon
+ Hue--5YR through 10YR
+Value--4 through 6 dry, 3 through 5 moist
+Chroma--3 through 6
+Texture--heavy clay loam or clay
+Clay content--35 to 50 percent
 
-COMPETING SERIES:  There are no competing series in the same family.  Fortwingate soils are similar, but lack an A&B horizon and have an argillic horizon with its upper boundary above a depth of 24 inches.
+Thin C horizons are present in some pedons.
 
-GEOGRAPHIC SETTING:  The Dunton soils are on mesa tops and cuesta dip slopes.  Slope gradients range from nearly level to 30 percent.  The soils formed in materials weathered from sandstone.  Elevation ranges from 7,500 to 10,000 feet.  Precipitation ranges from 20 to 30 inches.  The mean annual temperature is 44 degrees F, and the mean summer temperature is 54 degrees F.
+COMPETING SERIES:  There are no competing series in the same family.  Fortwingate soils are similar, but lack an A&B horizon and have an argillic horizon with its upper boundary above a depth of 60 cm.
 
-GEOGRAPHICALLY ASSOCIATED SOILS:  These are the Chris and the Hunchback soils.  Chris soils have a clayey-skeletal control section.  Hunchback soils have a thick mollic epipedon and lack a lithic contact above 40 inches.
+GEOGRAPHIC SETTING:  
+Landform--mesa tops and cuesta dip slopes
+Elevation--2300 to 3050 meters
+Slope--nearly level to 30 percent
+Parent material--sandstone residuum 
+Mean annual precipitation--510 to 760 mm
+Mean annual air temperature--7 degrees C
+Mean summer temperature--12 degrees C
 
-DRAINAGE AND PERMEABILITY:  Moderately well drained; medium runoff; slow permeability.
+GEOGRAPHICALLY ASSOCIATED SOILS:  None listed
+
+DRAINAGE AND PERMEABILITY:  Moderately well drained; slow permeability
 
 USE AND VEGETATION:  These soils are used principally for timber production and range.  Principal overstory plants are ponderosa pine and some Gambel oak with an understory of grasses and shrubs.
 
-DISTRIBUTION AND EXTENT:  Western and southwestern Colorado.  This series is extensive.
+DISTRIBUTION AND EXTENT:  Dunton soils are of moderate extent in western and southwestern Colorado. MLRA 43B
 
-MLRA SOIL SURVEY REGIONAL OFFICE (MO) RESPONSIBLE: Bozeman, Montana
+SOIL SURVEY REGIONAL OFFICE (SSRO) RESPONSIBLE: Bozeman, Montana
 
-SERIES ESTABLISHED:  Archuleta County (Piedra Area), Colorado, 1974.
+SERIES ESTABLISHED:  Archuleta County (Piedra Area), Colorado, 1974
 
-REMARKS:  Last updated by the state 5/74.
+REMARKS:  Converted to metric, updated formatting, and O horizons were updated to start at zero. 3/2022
 
 National Cooperative Soil Survey
 U.S.A.

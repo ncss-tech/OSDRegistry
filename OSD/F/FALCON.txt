@@ -1,78 +1,85 @@
-LOCATION FALCON                 CO+UT WY
+LOCATION FALCON                 CO+UT
 
 Established Series
-Rev. GB/KS/JWB
-06/2008
+Rev. GB/KS/KLS
+07/2022
 
 FALCON SERIES
 
-The Falcon series consists of shallow, well to somewhat excessively drained soils that are formed in materials weathered residually from arkose and similar beds overlying hard sandstone, interbedded sandstone and shale, or conglomerate.  They are on upland ridges, hills, mountain sideslopes, mesa tops, and benches.   Slopes are 0 to 65 percent.  The mean annual precipitation is about 17 inches and the mean annual temperature is about 41 degrees F.
+The Falcon series consists of shallow, well to somewhat excessively drained soils that are formed in materials weathered residually from arkose and similar beds overlying hard sandstone, interbedded sandstone and shale, or conglomerate.  They are on upland ridges, hills, mountain sideslopes, mesa tops, and benches.   Slopes are 0 to 65 percent.  The mean annual precipitation is about 430 mm and the mean annual air temperature is about 5 degrees C.
 
 TAXONOMIC CLASS: Loamy, mixed, superactive, frigid Lithic Haplustolls
 
 TYPICAL PEDON:  Falcon sandy loam - open timber.  (Colors are for dry soil unless otherwise noted.)
 
-    Oi--1 inch to 0; pine needles and partly decomposed litter and twigs.
+    Oi--0 to 3 cm; pine needles and partly decomposed litter and twigs.
 
-    A--0 to 7 inches; dark grayish brown (10YR 4/2) sandy loam; very dark brown (10YR 2/2) moist; moderate fine granular structure; soft, very friable, 10 percent gravel; neutral; clear smooth boundary.  (5 to 12 inches thick)
+    A--3 to 21 cm; dark grayish brown (10YR 4/2) sandy loam; very dark brown (10YR 2/2) moist; moderate fine granular structure; soft, very friable, 10 percent gravel; neutral; clear smooth boundary.  (13 to 30 cm thick)
 
-    C--7 to 14 inches; light gray (10YR 7/2) gravelly sandy loam; grayish brown (10YR 5/2) moist; weak medium subangular blocky structure; very hard, very friable; 20 percent fine and very fine angular granite gravel; neutral; abrupt smooth boundary.
+    C--21 to 39 cm; light gray (10YR 7/2) gravelly sandy loam; grayish brown (10YR 5/2) moist; weak medium subangular blocky structure; very hard, very friable; 20 percent fine and very fine angular granite gravel; neutral; abrupt smooth boundary.
 
-    R--14 inches; hard arkosic sandstone and conglomerate.
+    R--39 inches; hard arkosic sandstone and conglomerate.
 
-TYPE LOCATION:  Douglas County, Colorado; on the east side of Colorado State Highway 83, 500 feet north and 1,250 feet east of the southwest corner, Sec. 35, T. 10 S., R. 66 W.; Cherry Valley School USGS quad; Lat. 39 degrees 7 minutes 53 seconds N., Long. 104 degrees 45 minutes 1 second W., NAD 27
+TYPE LOCATION:  Douglas County, Colorado; on the east side of Colorado State Highway 83, about 150 meters north and 380 meters east of the southwest corner, Sec. 35, T. 10 S., R. 66 W.; Cherry Valley School USGS quad; Lat. 39 degrees 7 minutes 53 seconds N., Long. 104 degrees 45 minutes 1 second W., NAD 27
 
 RANGE IN CHARACTERISTICS:  
-Mean annual soil temperature: 40 to 45 degrees F. 
-Mean summer soil temperature: 53 to 62 degrees F.
-Mean winter soil temperature: warmer than 32 degrees F, and the soils are not continually frozen during the winter
-Depth to lithic contact: 10 to 20 inches  
+Mean annual soil temperature--4 to 7 degrees C 
+Mean summer soil temperature--12 to 17 degrees C
+Mean winter soil temperature--warmer than 0 degrees C, and the soils are not continually frozen during the winter
+Depth to lithic contact--25 to 50 cm  
 
-Particle-size control section (weighted average): 
-  Texture: Usually gravelly coarse sandy loam, fine sandy loam, or sandy loam
-  Clay content: 5 to 20 percent 
-  Silt content: 5 to 35 percent
-  Sand content: 50 to 80 percent, with more than 35 percent being fine or coarser sand.  A large proportion of the sand fraction is medium, coarse, and very coarse angular sand which has a high percentage of flat bearing surfaces between sand grains.  
-  Rock fragments: 0 to 35 percent, mainly less than 3 inches in diameter but range from 1/8 to 10 inches in diameter. 
+Particle-size control section (weighted average) 
+Texture--Usually gravelly coarse sandy loam, fine sandy loam, or sandy loam
+Clay content--5 to 20 percent 
+Sand content--50 to 80 percent, with more than 35 percent being fine or coarser sand.  A large proportion of the sand fraction is medium, coarse, and very coarse angular sand which has a high percentage of flat bearing surfaces between sand grains.  
+Rock fragment content--0 to 35 percent, mainly less than 75 mm in diameter but range from 3 to 250 mm in diameter. 
 
 A horizon:
-Hue: 2.5Y to 7.5YR
-Value: 3 to 5 dry, 2 or 3 moist
-Chroma: 1 to 4 dry or moist
-Base saturation: typically is more than 80 percent but ranges from 60 to 100 percent 
-Reaction: moderately acid to slightly alkaline
+Hue--2.5Y to 7.5YR
+Value--3 to 5 dry, 2 or 3 moist
+Chroma--1 to 4 dry or moist
+Base saturation--typically is more than 80 percent but ranges from 60 to 100 percent 
+Reaction--pH 5.6 to 7.6
 
 C horizon (when present):
-Hue: 2.5Y to 7.5YR
-Value: 4 to 7 dry, and 4 or 5 moist
-Chroma: 2 to 4 dry or moist
-Texture: fine sandy loam or sandy loam.
-Base saturation: typically is more than 80 percent but ranges from 60 to 100 percent
-Reaction: moderately acid to moderately alkaline
+Hue--2.5Y to 7.5YR
+Value--4 to 7 dry, and 4 or 5 moist
+Chroma--2 to 4 dry or moist
+Texture--fine sandy loam or sandy loam.
+Base saturation--typically is more than 80 percent but ranges from 60 to 100 percent
+Reaction-- pH 5.6 to 7.6
 
 COMPETING SERIES:  These are the Akhoni (NM), Ansari (CO), Corpening (WY), and Falconry (CO) series.  Akhoni soils do not have particle-size control sections dominated by coarse sand and have B horizons.  Ansari and Corpening soils are calcareous and have continuous horizons of secondary calcium carbonate accumulation. Falconry soils have less than 35 percent fine sand and coarser.  
 
-GEOGRAPHIC SETTING:  Falcon soils are on upland ridges, hills, sideslopes or mountain hillslopes, and benches generally at the crests and shoulders of the highest parts of the landscape.  Slope gradients range from 0 to 65 percent.  At the type location, the soils formed in materials weathered residually from arkose sedimentary beds overlying strata of hard sandstone and conglomerate.  In other areas, the soils formed in interbedded sandstone and shale and siltstone.  The mean annual precipitation in Colorado ranges from 16 to 19 inches.  In Utah, and other areas in Colorado, precipitation ranges from 16 to 25 inches per year in elevations ranging from 7,400 to 9,500 feet with annual temperatures of 37 to 44 degrees F.
+GEOGRAPHIC SETTING:  
+Landform--upland ridges, hills, sideslopes or mountain hillslopes, and benches generally at the crests and shoulders of the highest parts of the landscape
+Elevation--2250 to 2900 meters
+Slope--0 to 65 percent
+Parent material--residuum derived from arkose sedimentary beds overlying strata of hard sandstone and conglomerate.  In other areas, the soils formed in interbedded sandstone and shale and siltstone.  
+Mean annual precipitation--410 to 480 mm in Colorado.  In Utah, and other areas in Colorado, precipitation ranges from 410 to 640 mm per year
+Mean annual air temperature--3 to 7 degrees C
 
-GEOGRAPHICALLY ASSOCIATED SOILS:  These are the Kettle and Pring soils.  Kettle soils have ochric epipedons and albic horizons.  Pring soils do not have bedrock above depth of 40 inches.
+GEOGRAPHICALLY ASSOCIATED SOILS:  None listed
 
 DRAINAGE AND PERMEABILITY:  Well to somewhat excessively drained; medium runoff; rapid to moderately rapid permeability above the bedrock.
 
 USE AND VEGETATION:  These soils are used primarily as native pastureland.  In some localities they support stands of ponderosa pine of some importance for forestry.  Native vegetation is primarily thin stands of ponderosa pine, Gambel oak, mountainmahogany, and grasses.
 
-DISTRIBUTION AND EXTENT:  The Black Forest areas of east-central Colorado and southwestern Colorado and the southeastern and central part of Utah.  The series is of moderate extent.
+DISTRIBUTION AND EXTENT:  Falcon soils are of moderate extent in the Black Forest areas of east-central Colorado and southwestern Colorado and the southeastern and central part of Utah; MLRAs 47, 48A, 49
 
-MLRA SOIL SURVEY REGIONAL OFFICE (MO) RESPONSIBLE: Bozeman, Montana
+SOIL SURVEY REGIONAL OFFICE (SSRO) RESPONSIBLE: Bozeman, Montana
 
 SERIES ESTABLISHED:  Cherry Creek Soil Conservation District, El Paso and Douglas Counties, Colorado, 1946.
 
 REMARKS:  Diagnostic horizons and features in this pedon include:
 
-Mollic epipedon: 0 to 7 inches
+Mollic epipedon--3 to 21 cm (A horizon)
 
-Lithic contact: 14 inches
+Lithic contact--39 cm (R horizon)
 
-Last updated by the state 2/99
+Particle-size control section--25 to 39 cm (part of the C horizon)
+
+Converted to metric and O horizons were updated to start at zero; 3/2022
 
 National Cooperative Soil Survey
 U.S.A.
