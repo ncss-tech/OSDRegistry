@@ -1,134 +1,111 @@
-LOCATION TOLEX                  MT+CO 
+LOCATION TOLEX                  MT+CO
 
 Established Series
-Rev. JB-JAL
-8/97
+Rev. JB/JAL/KLS
+07/2022
 
-TOLEX SERIES 
+TOLEX SERIES
 
-The Tolex series consists of shallow, well drained soils that formed in material derived from igneous argillite, sandstone, and metasedimentary rock.  These soils are on bedrock-floored hills and mountains.  Slopes are 8 to 80 percent.  The mean annual precipitation is about 16 inches and the mean annual air temperature is about 41 degrees F. 
+The Tolex series consists of shallow, well drained soils that formed in material derived from igneous argillite, sandstone, and metasedimentary rock.  These soils are on bedrock-floored hills and mountains.  Slopes are 8 to 80 percent.  The mean annual precipitation is about 410 mm and the mean annual air temperature is about 5 degrees C. 
 
-TAXONOMIC CLASS: Loamy-skeletal, mixed, superactive, frigid Lithic Haplustalfs 
+TAXONOMIC CLASS: Loamy-skeletal, mixed, superactive, frigid Lithic Haplustalfs
 
 TYPICAL PEDON:  Tolex channery loam, forest (colors are for dry soil unless otherwise noted). 
 
-    0--1 inch to 0; forest litter of partially decomposed needles, twigs and roots; clear smooth boundary. (1/2 to 2 inches thick) 
+    Oe--0 to 3 cm; forest litter of partially decomposed needles, twigs and roots; clear smooth boundary. (1 to 5 cm thick) 
 
-    A--0 to 1 inch; grayish brown (10YR 5/2) channery loam, very dark grayish brown (10YR 3/2) moist; moderate very thin platy structure parting to moderate very fine granular; soft, very friable, slightly sticky and nonplastic; common fine and very fine roots; many very fine interstitial pores; 20 percent channers; moderately acid (pH 5.6); clear smooth boundary. (0 to 2 inches thick) 
+    A--3 to 6 cm; grayish brown (10YR 5/2) channery loam, very dark grayish brown (10YR 3/2) moist; moderate very thin platy structure parting to moderate very fine granular; soft, very friable, slightly sticky and nonplastic; common fine and very fine roots; many very fine interstitial pores; 20 percent channers; moderately acid (pH 5.6); clear smooth boundary. (0 to 5 cm thick) 
 
-    E--1 to 5 inches; very pale brown (10YR 7/3) channery loam, yellowish brown (10YR 5/4) moist; moderate very thin platy structure; slightly hard, very friable, slightly sticky and slightly plastic; common fine and very fine and few medium roots; many very fine interstitial pores; gray silt and sand skeletans on faces of plates; 20 percent channers; moderately acid (pH 5.8); clear smooth boundary. (2 to 5 inches thick) 
+    E--6 to 16 cm; very pale brown (10YR 7/3) channery loam, yellowish brown (10YR 5/4) moist; moderate very thin platy structure; slightly hard, very friable, slightly sticky and slightly plastic; common fine and very fine and few medium roots; many very fine interstitial pores; gray silt and sand skeletans on faces of plates; 20 percent channers; moderately acid (pH 5.8); clear smooth boundary. (5 to 13 cm thick) 
 
-    Bt--5 to 13 inches; light yellowish brown (10YR 6/4) extremely channery clay loam, yellowish brown (10YR 5/4) moist; moderate medium and fine subangular blocky structure; hard, friable, sticky and slightly plastic; common fine and very fine and few medium roots; many very fine tubular and interstitial pores; continuous distinct clay films on faces of peds and on coarse fragments; 65 percent channers; slightly acid (pH 6.2); gradual smooth boundary. (6 to 15 inches thick) 
+    Bt--16 to 36 cm; light yellowish brown (10YR 6/4) extremely channery clay loam, yellowish brown (10YR 5/4) moist; moderate medium and fine subangular blocky structure; hard, friable, sticky and slightly plastic; common fine and very fine and few medium roots; many very fine tubular and interstitial pores; continuous distinct clay films on faces of peds and on coarse fragments; 65 percent channers; slightly acid (pH 6.2); gradual smooth boundary. (15 to 40 cm thick) 
 
-    BC--13 to 18 inches; brownish yellow (10YR 6/6) extremely channery loam, yellowish brown (10YR 5/6) moist; weak very fine granular structure; slightly hard, very friable, slightly sticky and slightly plastic; common fine and very fine roots; 85 percent channers, 5 percent flagstones; slightly effervescent on undersides of coarse fragments; neutral (pH 6.8) gradual wavy boundary. (0 to 6 inches thick) 
+    BC--36 to 49 cm; brownish yellow (10YR 6/6) extremely channery loam, yellowish brown (10YR 5/6) moist; weak very fine granular structure; slightly hard, very friable, slightly sticky and slightly plastic; common fine and very fine roots; 85 percent channers, 5 percent flagstones; slightly effervescent on undersides of coarse fragments; neutral (pH 6.8) gradual wavy boundary. (0 to 15 cm thick) 
 
-    R--18 inches; hard argillite bedrock with a few cracks; few fine roots in some cracks. 
+    R--49 cm; hard argillite bedrock with a few cracks; few fine roots in some cracks. 
 
-TYPE LOCATION:  Lewis and Clark County, Montana; 2,100 feet south and 200 feet east of the NW corner of sec. 34, T. l2 N., R. 3 W. 
+TYPE LOCATION:  Lewis and Clark County, Montana; about 640 meters south and 60 meters east of the NW corner of sec. 34, T. l2 N., R. 3 W. 
 
 RANGE IN CHARACTERISTICS: 
+Mean annual soil temperature--4 to 8 degrees C 
+Moisture control section--10 to 30 cm 
+Depth to bedrock--25 to 50 cm 
 
-Soil temperature - 40 to 47 degrees F. 
+A horizon
+Hue--5YR, 7.5YR, or 10YR 
+Value--5 or 6 dry; 3 or 4 moist 
+Chroma--2 or 3 
+Texture--loam or sandy loam 
+Clay content--15 to 25 percent 
+Rock fragment content--15 to 75 percent; 0 to 20 percent flagstones and stones, 15 to 55 percent channers 
+Reaction--pH 5.6 to 7.3 
 
-Moisture control section - between 4 and 12 inches. 
+E horizon
+Hue--5YR, 7.5YR, or 10YR 
+Value--5 through 7 dry; 4 or 5 moist 
+Chroma--2 through 4 
+Texture--loam, sandy loam or coarse sandy loam
+Clay content--10 to 25 percent 
+Rock fragment content--15 to 75 percent; 0 to 15 percent flagstones, 15 to 60 percent channers 
+Reaction--pH 5.1 to 7.3 
 
-Depth to bedrock - 10 to 20 inches. 
+Bt horizon
+Hue--5YR, 7.5YR, or 10YR 
+Value--5 or 6 dry; 4 or 5 moist 
+Chroma--3, 4, or 6 
+Texture--clay loam, sandy clay loam or sandy loam
+Clay content--18 to 35 percent 
+Rock fragment content--60 to 80 percent; 0 to 15 percent flagstones, 40 to 70 percent channers 
+Reaction--pH 5.1 to 7.8 
 
-
-A horizon - Hue:  5YR, 7.5YR, or 10YR 
-
-Value:  5 or 6 dry; 3 or 4 moist 
-
-Chroma:  2 or 3 
-
-Texture:  loam or sandy loam 
-
-Clay content:  15 to 25 percent 
-
-Rock fragments:  15 to 75 percent--0 to 20 percent flagstones and stones, 15 to 55 percent channers 
-
-Reaction:  pH 5.6 to 7.3 
-
-
-E horizon - Hue:  5YR, 7.5YR, or 10YR 
-
-Value:  5, 6 or 7 dry; 4 or 5 moist 
-
-Chroma:  2, 3, or 4 
-
-Texture:  loam, sandy loam or coarse sandy loam
-
-Clay content:  10 to 25 percent 
-
-Rock fragments:  15 to 75 percent--0 to 15 percent flagstones, 15 to 60 percent channers 
-
-Reaction:  pH 5.1 to 7.3 
-
-
-Bt horizon -  Hue:  5YR, 7.5YR, or 10YR 
-
-Value:  5 or 6 dry; 4 or 5 moist 
-
-Chroma:  3, 4, or 6 
-
-Texture:  clay loam, sandy clay loam or sandy loam
-
-Clay content:  18 to 35 percent 
-
-Rock fragments:  60 to 80 percent--0 to 15 percent flagstones, 40 to 70 percent channers 
-
-Reaction:  pH 5.1 to 7.8 
-
-
-BC horizon - Hue:  5YR, 7.5YR, or 10YR 
-
-Value:  6 or 7 dry; 4 or 5 moist 
-
-Chroma:  3, 4, or 6 
-
-Clay content:  10 to 25 percent 
-
-Rock fragments:  60 to 90 percent - 0 to 10 percent flagstones, 55 to 85 percent channers 
-
-Reaction:  pH 5.1 to 7.8 
+BC horizon
+Hue--5YR, 7.5YR, or 10YR 
+Value--6 or 7 dry; 4 or 5 moist 
+Chroma--3, 4, or 6 
+Clay content--10 to 25 percent 
+Rock fragment content--60 to 90 percent; 0 to 10 percent flagstones, 55 to 85 percent channers 
+Reaction--pH 5.1 to 7.8 
 
 COMPETING SERIES: 
-
-Brickner (MT) - does not have E horizons; does not have more than 60 percent rock fragments in the argillic horizon. 
-
-Sanchez (NM) - has A&B horizons; less than 60 percent rock fragments in the control section. 
+Brickner (MT) - have less than 60 percent rock fragments in the particle-size control section 
+Sanchez (NM) - have less than 60 percent rock fragments in the particle-size control section 
 
 GEOGRAPHIC SETTING: 
+Landform--bedrock-floored hills, mountains
+Elevation--1075 to 1900 meters (Colorado has elevations of 2275 to 2750 meters) 
+Slope--8 to 80 percent
+Parent material--igneous argillite, sandstone, and metasedimentary rock
+Climate--long, cold winters; moist springs and early part of summer; warm summers
+Mean annual precipitation--310 to 640 mm, most of which falls during the spring and early part of summer
+Mean annual air temperature--3 to 7 degrees C 
+Frost-free period--70 to 120 days (Colorado has a frost-free period of 75 to 140 days) 
 
-Landform - bedrock-floored hills, mountains. 
+GEOGRAPHICALLY ASSOCIATED SOILS: None listed
 
-Slope - 8 to 80 percent. 
+DRAINAGE AND PERMEABILITY:  Well drained; moderate or moderately slow permeability 
 
-Elevation - 3,500 to 6,200 feet. (Colorado has elevations of 7,500 to 9,000 feet) 
+USE AND VEGETATION:  Tolex soils are used for range and woodland.  The native vegetation is mainly ponderosa pine, Douglas fir, bluebunch wheatgrass, Idaho fescue, rough fescue, arrowleaf balsamroot, forbs, and shrubs. 
 
-Parent material - material derived from igneous argillite, sandstone, and metasedimentary rock. 
+DISTRIBUTION AND EXTENT:  Tolex soils are moderately extensive in the mountainous regions of western Montana and southcentral Colorado; MLRAs 43B, 44B and 49 
 
-Climate - long, cold winters; moist springs and early part of summer; warm summers. 
+SOIL SURVEY REGIONAL OFFICE (SSRO) RESPONSIBLE:  Bozeman, Montana
 
-Mean annual precipitation - 12 to 25 inches, most of which falls during the spring and early part of summer. 
+SERIES ESTABLISHED:  Fremont County, Colorado, 1988; proposed in Lewis and Clark County, Montana, 1979
 
-Mean annual air temperature - 38 to 45 degrees F. 
+REMARKS:  Diagnostic horizons and features recognized in this pedon are:
+O horizon--0 to 3 cm (Oi horizon)
+Ochric epipedon--3 to 16 cm, mixed (A, E horizons)
+Argillic horizon--16 to 36 cm (Bt horizon) 
+Lithic contact--49 cm to bedrock (R horizon)  
+Particle-size control section--16 to 36 cm (Bt horizon)
 
-Frost-free period - 70 to 120 days. (Colorado has a frost-free period of 75 to 140 days.) 
+Tolex soils have a frigid temperature regime and an ustic soil moisture regime. 
 
-DRAINAGE AND PERMEABILITY:  Well drained; moderate or moderately slow permeability. 
+Classification changed from Lithic Eutroboralfs in 1997
 
-USE AND VEGETATION:  Tolex soils are used for range and woodland.  The native vegetation is mainly ponderosa pine, Douglas fir, bluebunch wheatgrass, Idaho fescue, rough fescue, arrowleaf balsamroots, forbs, and shrubs. 
+Converted to metric, updated formatting, and O horizons were updated to start at zero. 7/2022
 
-DISTRIBUTION AND EXTENT:  Southwestern Montana and south-central Colorado.  Tolex soils are moderately extensive. 
-
-MLRA SOIL SURVEY REGIONAL OFFICE (MO) RESPONSIBLE:  Bozeman, Montana
-
-SERIES ESTABLISHED:  Fremont County, Colorado, 1988; proposed in Lewis and Clark County, Montana, 1979. 
-
-REMARKS:  Soil interpretation records:  MT0386, MT1010.  Diagnostic horizons and features recognized in this pedon are:  an O horizon 1 inch thick (Oi horizon).  An ochric epipedon from the surface to 5 inches, mixed (A, E horizons).  An argillic horizon from 5 to 13 inches (Bt horizon) that is also the particle-size control section.  Lithic bedrock at a depth of 18 inches (R horizon).  Tolex soils have a frigid temperature regime and an ustic moisture regime.
-
-Classification changed from Lithic Eutroboralfs in 1997.
+Soil interpretation records:  MT0386, MT1010
 
 National Cooperative Soil Survey
 U.S.A.

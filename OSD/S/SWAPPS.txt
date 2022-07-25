@@ -1,58 +1,87 @@
-LOCATION SWAPPS                 UT
+LOCATION SWAPPS                 UT+WY
 
 Established Series
-REV:  WRM/JTB/RLT
-02/1999
+REV:  WRM/JTB/KLS
+07/2022
 
 SWAPPS SERIES
 
-The Swapps series consists of moderately deep, well drained, moderately permeable soils on mesas, hills and mountains.  They formed in colluvium and residuum from limestone and shale.  Slopes range from 5 to 65 percent.  The mean annual temperature is 39 degrees F. and the mean annual precipitation is 22 inches.
+The Swapps series consists of moderately deep, well drained, moderately permeable soils on nearly level to gently sloping mesa tops and moderately steep to very steep sideslopes of mesas, hills and mountains. They formed in colluvium and residuum from limestone and shale.  Slopes range from 5 to 65 percent.  The mean annual precipitation is about 560 mm and the mean annual air temperature is 4 degrees C.
 
 TAXONOMIC CLASS: Fine-loamy, mixed, superactive Inceptic Haplocryalfs
 
 TYPICAL PEDON:  Swapps gravelly loam--woodland.  (Colors are for air-dry soil unless otherwise stated.)
 
-    01--1 inch to 0; partially to well decomposed needles and twigs.
+    Oe--0 to 3 cm; partially to well decomposed needles and twigs.
 
-    A--0 to 3 inches; brown (7.5YR 5/4) gravelly loam, dark brown (7.5YR 3/4) moist, crushed; weak thin platy and weak medium granular structure; loose, friable, nonsticky and nonplastic; many very fine roots; common very fine pores; 15 percent pebbles; slightly acid (pH 6.5); abrupt smooth boundary.  (1 to 5 inches thick)
+    A--3 to 11 cm; brown (7.5YR 5/4) gravelly loam, dark brown (7.5YR 3/4) moist, crushed; weak thin platy and weak medium granular structure; loose, friable, nonsticky and nonplastic; many very fine roots; common very fine pores; 15 percent pebbles; slightly acid (pH 6.5); abrupt smooth boundary.  (3 to 13 cm thick)
 
-    Bt--3 to 8 inches; yellowish red (5YR 5/6) gravelly loam, reddish brown (5YR 4/4) moist, crushed; weak fine and medium subangular blocky structure; slightly hard, friable, slightly sticky and slightly plastic; many very fine roots; many very fine pores; common thin clay films on faces of peds and many thin clay films in pores and root channels; 20 percent fine pebbles; slightly calcareous; mildly alkaline (pH 7.5); abrpt wavy boundary.  (5 to 17 inches thick)
+    Bt--11 to 24 cm; yellowish red (5YR 5/6) gravelly loam, reddish brown (5YR 4/4) moist, crushed; weak fine and medium subangular blocky structure; slightly hard, friable, slightly sticky and slightly plastic; many very fine roots; many very fine pores; common thin clay films on faces of peds and many thin clay films in pores and root channels; 20 percent fine pebbles; slightly calcareous; slightly alkaline (pH 7.5); abrupt wavy boundary.  (13 to 43 cm thick)
 
-    Bk1--8 to 15 inches; dark brown (7.5YR 4/2) gravelly loam, dark brown (7.5YR 3/2) moist, crushed; massive; soft, friable, slightly sticky and slightly plastic; many very fine and fine common medium and coarse roots; few fine pores; 30 percent fine pebbles; strongly calcareous; moderately alkaline (pH 8.0); abrupt wavy boundary.  (6 to 9 inches thick)
+    Bk1--24 to 42 cm; brown (7.5YR 4/2) gravelly loam, dark brown (7.5YR 3/2) moist, crushed; massive; soft, friable, slightly sticky and slightly plastic; many very fine and fine common medium and coarse roots; few fine pores; 30 percent fine pebbles; strongly calcareous; moderately alkaline (pH 8.0); abrupt wavy boundary.  (15 to 23 cm thick)
 
-    Bk2--15 to 23 inches; pink (7.5YR 7/4) very gravelly loam, reddish yellow (7.5YR 6/6) moist, crushed; massive; slightly hard, friable, slightly sticky and slightly plastic; few fine and many coarse roots; few fine pores; 60 percent pebbles; very strongly calcareous; moderately alkaline (pH 8.0); abrupt wavy boundary.  (4 to 10 inches thick)
+    Bk2--42 to 62 cm; pink (7.5YR 7/4) very gravelly loam, reddish yellow (7.5YR 6/6) moist, crushed; massive; slightly hard, friable, slightly sticky and slightly plastic; few fine and many coarse roots; few fine pores; 60 percent pebbles; very strongly calcareous; moderately alkaline (pH 8.0); abrupt wavy boundary. 
 
-    R--23 inches; limestone.
+    R--62 cm; limestone.
 
 TYPE LOCATION:  Kane County, Utah; Robinson Canyon northwest of Horse Hollow; NW 1/4 of sec. 12, T. 39 S., R. 5 W.
-RANGE IN CHARACTERISTICS:  Depth to fractured bedrock ranges from 20 to 40 inches.  These soils are usually moist in some part of the soil between depths of 4 and 12 inches.  The mean annual soil temperature is about 36 to 42 degrees F., and the mean summer soil temperature at depth of 20 inches is about 52 to 58 degrees F.  The A horizon is noncalcareous and carbonates increase with increasing depth to very strongly calcareous in the lower Bk horizon.
 
-The A horizon has hue of 5YR to 10YR, value of 4 or 5 dry, 2 to 4 moist and chroma of 2 to 6.
+RANGE IN CHARACTERISTICS:
+Depth to fractured bedrock--50 to 100 cm
+Soil moisture--usually moist in some part of the soil between depths of 10 and 30 cm
+Mean annual soil temperature--2 to 6 degrees C
+Mean summer soil temperature--11 to 14 degrees C at a depth of 50 cm  
+The A horizon is noncalcareous. However, carbonates increase with increasing depth to very strongly calcareous in the lower Bk horizon.
 
-The Bt horizon has hue of 2.5YR to 7.5YR, value of 4 to 6 dry, 2 to 4 moist and chroma of 3 to 6.  It ranges from gravelly and cobbly loam to gravelly and cobbly clay loam and has 20 to 35 percent rock fragments.
+A horizon
+Hue--5YR to 10YR
+Value--4 or 5 dry, 2 to 4 moist
+Chroma--2 to 6
 
-The Bk horizon has hue of 2.5YR to 10YR, value of 4 to 8 dry, 3 to 7 moist and chroma of 2 to 8 inclusive.  It is gravelly, very gravelly and cobbly sandy loam to gravelly, very gravelly and cobbly clay loam.
+Bt horizon
+Hue--2.5YR to 7.5YR
+Value--4 to 6 dry, 2 to 4 moist
+Chroma--3 to 6
+Texture--loam or clay loam
+Rock Fragment content--20 to 35 percent gravel and cobbles
 
-COMPETING SERIES:  These are the Beardall, Bramard, Dunlatop (T), Hub (T), Nisula, Rimton (T), Stringam (T), Telcher, Ula, and Wix series.  Beardall soils have an E/B horizon and have a noncalcareous Bt horizon.  Bramard, Dunlatop (T), Hub (T), Nisula, Stringam (T) and Telcher soils have bedrock deeper than 40 inches.  Rimton (T) and Ula soils have a paralithic contact between 20 and 40 inches.  Wix soils have colors of 10YR hue or yellower in the B horizons.
+Bk horizon
+Hue--2.5YR to 10YR
+Value--4 to 8 dry, 3 to 7 moist
+Chroma--2 to 8 
+Texture--sandy loam, loam or clay loam
+Rock fragment content--15 to 60 percent gravel and cobbles
 
-GEOGRAPHIC SETTING:  The Swapps soils are on nearly level to gently sloping mesa tops and moderately steep to very steep sideslopes of mesas, hills and mountains.  Elevations range from 7,800 to 9,600 feet.  The soils formed in colluvium and residuum from limestone and shale.  Slope gradients are 5 to 65 percent.  The average annual precipitation is 17 to 27 inches and the freeze-free period ranges from 55 to 70 days.  The mean annual temperature is 36 to 42 degrees F., and the average summer temperature is 52 to 58 degrees F.
-GEOGRAPHICALLY ASSOCIATED SOILS:  These are the Hatch, Losee, Sheege, Pahreah and Sevier soils.  Losee soils are more than 40 inches deep to bedrock and have bedrock at depths of 16 to 20 inches.  Pahreah soils have a cambic horizon with over 35 percent coarse fragments.  Sevier soils are 15 to 20 inches deep over shale.  Hatch soils have more than 35 percent clay in the particle-size control section.
+COMPETING SERIES:  These are the Beardall, Bramard, Dunlatop (T), Hub (T), Nisula, Rimton (T), Stringam (T), Telcher, Ula, and Wix series.  Beardall soils have an E/B horizon and have a noncalcareous Bt horizon.  Bramard, Dunlatop (T), Hub (T), Nisula, Stringam (T) and Telcher soils have bedrock deeper than 100 cm.  Rimton (T) and Ula soils have a paralithic contact between 50 and 100 cm.  Wix soils have colors of 10YR hue or yellower in the B horizons.
 
-DRAINAGE AND PERMEABILITY:  Well drained; medium to rapid runoff; moderate permeability.
+GEOGRAPHIC SETTING:  
+Landform--mesa tops and side slopes of mesas, hills and mountains
+Elevation--2375 to 2925 meters
+Slope--5 to 65 percent
+Parent material--colluvium and residuum from limestone and shale
+Average annual precipitation--430 to 690 mm
+Mean annual air temperature--2 to 6 degrees C
+Average summer temperature--11 to 14 degrees C
+Frost-free period--55 to 70 days
 
-USE AND VEGETATION:  These soils are used for timber, rangeland, recreation and wildlife.  The native vegetation is Douglas-fir, Engelmann spruce, manzanite, Oregon grape, creeping juniper, fescues and bromegrasses.
+GEOGRAPHICALLY ASSOCIATED SOILS:  None listed
 
-MLRA SOIL SURVEY REGIONAL OFFICE (MO) RESPONSIBLE: Bozeman, Montana
+DRAINAGE AND PERMEABILITY:  Well drained; moderate permeability
 
-DISTRIBUTION AND EXTENT:  These soils are in the south-central part of Utah.  They are not extensive.
-SERIES ESTABLISHED:  Kane County (Paunsaugunt Soil Survey Area), Utah, 1969.
+USE AND VEGETATION:  These soils are used for timber, rangeland, recreation and wildlife.  The native vegetation is Douglas-fir, Engelmann spruce, manzanita, creeping barberry, creeping juniper, fescues and bromegrasses.
 
-REMARKS:  These soils were formerly classified as Gray Wooded soils.  The classification has been changed from the Typic to Mollic subgroup based on moist color values of less than 4 after mixing the upper 6 inches of the soil.  Diagnostic horizons and features recognized in this pedon are:
+DISTRIBUTION AND EXTENT:  Swapps soils are moderately extensive in southcentral Utah and in the Wind River mountains of Wyoming; MLRAs 43B and 47
 
-  Ochric epipedon - the zone from the surface of the mineral
-soil to a depth of 3 inches (A horizon)
-  Argillic horizon - the zone from 3 to 8 inches (Bt horizon)
-  Mollic features - a moist color value of less than 4 after mixing the upper 6 inches of the soil.
+SOIL SURVEY REGIONAL OFFICE (SSRO) RESPONSIBLE: Bozeman, Montana
+
+SERIES ESTABLISHED:  Kane County (Paunsaugunt Soil Survey Area), Utah, 1969
+
+REMARKS:  Diagnostic horizons and features recognized in this pedon are:
+Ochric epipedon--3 to 11 cm (A horizon)
+Argillic horizon--11 to 24 cm (Bt horizon)
+Mollic features--moist color value of 3 or less after mixing the upper 15 cm of the soil
+
+Converted to metric, updated formatting, and O horizons were updated to start at zero. 7/2022
 
 National Cooperative Soil Survey
 U.S.A.

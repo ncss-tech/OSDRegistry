@@ -1,54 +1,82 @@
 LOCATION ROCIO                  NM
 
 Established Series
-Rev. TEH/JBC
-03/1999
+Rev. TEH/JBC/KLS
+07/2022
 
 ROCIO SERIES
 
-The Rocio series consists of deep, well drained soils that formed in alluvial and colluvial deposits derived from sandstone and shale.  Rocio soils are on mountains and have slopes of 15 to 65 percent.  The mean annual precipitation is about 27 inches and the mean annual air temperature is about 40 degrees F.
+The Rocio series consists of deep, well drained soils that formed in alluvial and colluvial deposits derived from sandstone and shale.  Rocio soils are on mountains and have slopes of 15 to 65 percent.  The mean annual precipitation is about 690 mm and the mean annual air temperature is about 4 degrees C.
 
 TAXONOMIC CLASS: Fine, mixed, superactive, frigid Typic Paleustalfs
 
 TYPICAL PEDON:  Rocio gravelly fine sandy loam, forested.  (Colors are for dry soil unless otherwise noted.)
 
-    01 & 02--1 inch to 0; partially decomposed forest litter.  (1/2 to 2 inch thick)
+    Oe--0 to 3 cm; partially decomposed forest litter.  (1 to 5 cm thick)
 
-    A1--0 to 5 inches; dark grayish brown (10YR 4/2) gravelly fine sandy loam, very dark grayish brown (10YR 3/2) moist; soft, friable, slightly plastic; many fine and very fine roots; many fine interstitial pores; 20 percent fine pebbles, 5 percent cobbles; slightly acid; clear smooth boundary.  (3 to 6 inches thick)
+    A1--3 to 16 cm; dark grayish brown (10YR 4/2) gravelly fine sandy loam, very dark grayish brown (10YR 3/2) moist; soft, friable, slightly plastic; many fine and very fine roots; many fine interstitial pores; 20 percent fine pebbles, 5 percent cobbles; slightly acid; clear smooth boundary.  (8 to 15 cm thick)
 
-    A2--5 to 18 inches;  pale brown (10YR 6/3) gravelly fine sandy loam, brown (10YR 4/3) moist; massive; soft, very friable; common fine, medium and coarse roots; common fine tubular pores; 30 percent fine pebbles; slightly acid; abrupt wavy boundary.  (6 to 15 inches thick)
+    A2--16 to 49 cm; pale brown (10YR 6/3) gravelly fine sandy loam, brown (10YR 4/3) moist; massive; soft, very friable; common fine, medium and coarse roots; common fine tubular pores; 30 percent fine pebbles; slightly acid; abrupt wavy boundary.  (Combined thickness of A1 and A2 horizons-20 to 55 cm) 
 
-    B21t--18 to 39 inches; brown (7.5YR 5/4) clay, dark brown (7.5YR 4/4) moist; strong medium blocky structure; very hard, very firm, slightly sticky and very plastic; many medium roots; few fine tubular pores; continuous thick clay films on surfaces of peds and in pores; 5 percent pebbles and cobbles; slightly acid; gradual wavy boundary.  (10 to 21 inches thick)
+    B21t--49 to 102 cm; brown (7.5YR 5/4) clay, brown (7.5YR 4/4) moist; strong medium blocky structure; very hard, very firm, slightly sticky and very plastic; many medium roots; few fine tubular pores; continuous thick clay films on surfaces of peds and in pores; 5 percent pebbles and cobbles; slightly acid; gradual wavy boundary.  (25 to 53 cm thick)
 
-    B22t--39 to 63 inches; light brown (7.5YR 6/4) clay, brown (7.5YR 4/4) moist; strong coarse blocky structure that parts to moderate fine and medium blocky; very hard, very firm, slightly sticky and very plastic; few fine and medium roots; few fine tubular pores; continuous thick clay films on surfaces of peds and rock fragments, many pressure faces on secondary peds; 10 percent rock fragments; slightly acid.
+    B22t--102 to 163 cm; light brown (7.5YR 6/4) clay, brown (7.5YR 4/4) moist; strong coarse blocky structure that parts to moderate fine and medium blocky; very hard, very firm, slightly sticky and very plastic; few fine and medium roots; few fine tubular pores; continuous thick clay films on surfaces of peds and rock fragments, many pressure faces on secondary peds; 10 percent rock fragments; slightly acid.
 
-TYPE LOCATION:  San Miguel County, New Mexico; about 1.5 miles southeast of the Village of Rociada, or if section lines are projected from the Santa Fe National Forest, 600 feet south and 800 feet east of the NW corner section 6, T.18N., R.15E.
+TYPE LOCATION:  San Miguel County, New Mexico; about 2415 meters southeast of the Village of Rociada, or if section lines are projected from the Santa Fe National Forest, 185 meters south and 245 meters east of the NW corner section 6, T.18N., R.15E.
 
-RANGE IN CHARACTERISTICS:  The thickness of the solum is more than 40 inches.  The soil is slightly acid or neutral.  Rock fragments are sandstone and range in amounts from 5 to 30 percent of each horizon.  Some pedons lack 0 horizons.
+RANGE IN CHARACTERISTICS:
+Solum thickness--more than 100 cm
+Rock fragment content--5 to 30 percent gravel, cobbles, channers and flagstones of sandstone lithology
+Reaction--pH 6.1 to 7.3
+Some pedons lack an O horizon
 
-The A1 horizon has hue of 7.5YR or 10YR, value of 4 or 5 dry, 3 or 4 moist, and chroma of 2 or 3.  It is gravelly loam or gravelly sandy loam.  Rock fragments are 5 to 25 percent pebbles and 0 to 10 percent cobbles.
+A1 horizon
+Hue--7.5YR or 10YR
+Value--4 or 5 dry, 3 or 4 moist
+Chroma--2 or 3
+Texture--loam or sandy loam
+Rock fragment content--5 to 25 percent gravel and 0 to 10 percent cobbles
 
-The A2 horizon has hue of 7.5YR or 10YR, value of 5 through 7, and chroma of 3 or 4.  It is loam, fine sandy loam, gravelly loam, or gravelly fine sandy loam.   Rock fragments are 5 to 15 percent pebbles and 0 to 5 percent cobbles.
+A2 horizon
+Hue--7.5YR or 10YR
+Value--5 through 7
+Chroma--3 or 4
+Texture--loam or fine sandy loam
+Rock fragment content--5 to 15 percent gravel and 0 to 5 percent cobbles
 
-The B2t horizon has hue of 5YR through 10YR, value of 4 through 6, and chroma of 3 through 6.  It is clay or sandy clay and averages 45 to 60 percent clay.  Structure is strong medium or coarse blocky.  Rock fragments range from 0 to 10 percent flagstones or cobbles.
+B2t horizon
+Hue--5YR through 10YR
+Value--4 through 6
+Chroma--3 through 6
+Texture--clay or sandy clay
+Clay content--45 to 60 percent
+Rock fragment content--0 to 10 percent cobbles, channers or flagstones
 
-COMPETING SERIES:  These are the Burnac, Hogg, and Mirand series.  Burnac soils have a montmorillonitic mineralogy.  Hogg soils have a lithic contact at depths of 40 to 60 inches.  Mirand soils lack an A2 horizon and receive less precipitation.
+COMPETING SERIES:  These are the Burnac, Hogg, and Mirand series.  Burnac soils have a montmorillonitic mineralogy.  Hogg soils have a lithic contact at depths of 100 to 150 cm.  Mirand soils lack an A2 horizon and receive less precipitation.
 
-GEOGRAPHIC SETTING:  Rocio soils are on convex mountain slopes at elevations of 7,000 to 10,000 feet.  Slopes are 15 to 65 percent.  These soils formed in alluvial and colluvial deposits derived from sandstone and shale.  Climate is continental with average annual precipitation of 25 to 30 inches  of which 2/3 is received during the period of May through September.  The mean annual temperature is about 38 to 42 degrees F. and the mean annual summer temperature is 48 to 51 degrees F.  The frost free season is 100 to 120 days.
+GEOGRAPHIC SETTING:
+Landform--convex mountain slopes
+Elevation--2125 to 3050 meters
+Slope--15 to 65 percent
+Parent Material--alluvial and colluvial deposits derived from sandstone and shale
+Mean annual precipitation--635 to 760 mm of which 2/3 is received during the period of May through September
+Mean annual air temperature--3 to 6 degrees C 
+Mean annual summer temperature--9 to 11 degrees C
+Frost free period--100 to 120 days
 
-GEOGRAPHICALLY ASSOCIATED SOILS:  These are the Brycan, Dargol, Kiln, Moreno and Stout soils.  Brycan and Moreno soils have mollic epipedons.  Dargol soils have lithic contact at depths of 20 to 40 inches.  Kiln and Stout soils have a lithic contact within 20 inches of the mineral surface.
+GEOGRAPHICALLY ASSOCIATED SOILS:  None listed
 
-DRAINAGE AND PERMEABILITY:  Well drained; medium or rapid runoff; slow permeability.
+DRAINAGE AND PERMEABILITY:  Well drained; slow permeability
 
 USE AND VEGETATION:  These soils are used for woodland, wildlife, recreation, and watershed.  Native vegetation is ponderosa pine, Douglas fir, white fir, and oak with an understory of Arizona fescue, mountain muhly, and pine dropseed.
 
-DISTRIBUTION AND EXTENT:  Mountainous areas of central and northern New Mexico.  The series is of moderate extent.
+DISTRIBUTION AND EXTENT:  Rocio soils are moderately extensive in the mountainous areas of central and northern New Mexico; MLRA 48A
 
-MLRA SOIL SURVEY REGIONAL OFFICE (MO) RESPONSIBLE: Bozeman, Montana
+SOIL SURVEY REGIONAL OFFICE (SSRO) RESPONSIBLE: Bozeman, Montana
 
-SERIES ESTABLISHED:  Las Vegas Area, San Miguel County, New Mexico, 1977.
+SERIES ESTABLISHED:  Las Vegas Area, San Miguel County, New Mexico, 1977
+
+REMARKS: Converted to metric, updated formatting, and O horizons were updated to start at zero. 7/2022
 
 National Cooperative Soil Survey
-U. S. A.
-
-
+U.S.A.

@@ -1,55 +1,83 @@
-LOCATION PATIO                  UT+ID OR
+LOCATION PATIO                  UT+CA
 
 Established Series
-Rev. LBC/JAC/AJE
-03/2003
+Rev. LBC/JAC/KLS
+07/2022
 
 PATIO SERIES
 
-The Patio series consists of moderately deep, well drained soils that formed in material weathered from argillite, phyllite and schist. These soils are on south and east facing mountain slopes. The mean annual precipitation is about 22 inches and the mean annual air temperature is about 44 degrees F.
+The Patio series consists of moderately deep, well drained soils that formed in material weathered from argillite, phyllite and schist. These soils are on south and east facing mountain slopes. The mean annual precipitation is about 560 mm and the mean annual air temperature is about 7 degrees C.
 
 TAXONOMIC CLASS: Loamy-skeletal, mixed, superactive, frigid Ultic Haploxerolls
 
 TYPICAL PEDON: Gravelly loam, rangeland. (Colors are for moist soil unless otherwise noted.)
 
-    O1-- 1 to 0 inch; decaying leaves, twigs, etc., about 60 percent of surface covered.
+    Oi--0 to 3 cm; decaying leaves, twigs, etc., about 60 percent of surface covered.
 
-    All--O to 9 inches, very dark brown (10YR 2/2) gravelly loam, dark brown (10R 3/3) dry; weak fine and medium granular structure; soft, friable, slightly sticky and slightly plastic; many very fine, fine and few medium and coarse roots; 40 percent pebbles; slightly acid (pH 6.2); clear smooth boundary. (4 to 9 inches thick)
+    A11--3 to 26 cm, very dark brown (10YR 2/2) gravelly loam, dark brown (10YR 3/3) dry; weak fine and medium granular structure; soft, friable, slightly sticky and slightly plastic; many very fine, fine and few medium and coarse roots; 40 percent pebbles; slightly acid (pH 6.2); clear smooth boundary. (10 to 24 cm thick)
 
-    A12--9 to 13 inches, dark brown (10YR 3/3) gravelly heavy loam, brown (10YR 4/3) dry; weak fine and medium subangular blocky structure that parts to weak fine and medium granular; slightly hard, friable, slightly sticky and plastic; many very fine, fine, and few medium coarse roots; 40 percent pebbles- slightly acid (pH 6.2); clear wavy boundary.  (0 to 8 inches thick)
+    A12--26 to 36 cm, dark brown (10YR 3/3) gravelly heavy loam, brown (10YR 4/3) dry; weak fine and medium subangular blocky structure that parts to weak fine and medium granular; slightly hard, friable, slightly sticky and plastic; many very fine, fine, and few medium coarse roots; 40 percent pebbles; slightly acid (pH 6.2); clear wavy boundary.  (0 to 20 cm thick)
 
-    B2--13 to 26 inches, dark yellowish brown (10YR 4/4) very gravelly clay loam, yellowish brown (10YR 5/4) dry; weak fine and medium subangular blocky structure; hard, firm, sticky and plastic; few fine, medium and coarse roots; common very fine and fine pores; 55 percent gravel; slightly acid (pH 6.2); abrupt irregular boundary. (10 to 24 inches thick)
+    B2--36 to 69 cm, dark yellowish brown (10YR 4/4) very gravelly clay loam, yellowish brown (10YR 5/4) dry; weak fine and medium subangular blocky structure; hard, firm, sticky and plastic; few fine, medium and coarse roots; common very fine and fine pores; 55 percent gravel; slightly acid (pH 6.2); abrupt irregular boundary. (25 to 61 cm thick)
 
-    R--26 inches, fractured phyllite and argillite.
+    R--69 cm; fractured phyllite and argillite.
 
-TYPE LOCATION: Weber County, Utah; 1/2 mile south and 1 mile west of Utaba Dam; 1,000 feet east and 500 feet north of SW corner of sec. 35, T.8N., R.IW.
+TYPE LOCATION: Weber County, Utah; about 805 meters south and 1610 meters west of Utaba Dam; and about 305 meters east and 150 meters north of SW corner of sec. 35, T.8N., R.IW.
 
-RANGE IN CHARACTERISTICS: Depth to bedrock ranges from 20 to 35 inches.  Base saturation is less than 75 percent in some part of the upper 30 inches or above the bedrock. The mean annual soil temperature at a depth of 20 inches ranges from 45 to 47 degrees F. The mean summer temperature ranges from 60 degrees to 66 degrees F. The soils are usually moist but are dry for 50 to 80 consecutive days during the summer. Rock fragments consist of angular argillite, phyllite and schist pebbles and cobbles, and range from 20 to 40 percent in the Al horizon and 55 to 70 percent in the B2 horizon.
+RANGE IN CHARACTERISTICS: 
+Depth to bedrock--50 to 100 cm
+Base saturation--less than 75 percent in some part of the upper 75 cm or above the bedrock
+Mean annual soil temperature--at a depth of 50 cm, 7 to 8 degrees C
+Mean summer temperature--16 to 19 degrees C
+Rock fragment content--20 to 40 percent in the A1 horizon and 55 to 70 percent in the B2 horizon, consisting of angular argillite, phyllite and schist pebbles, gravel, and cobbles
 
-The Al horizon has hue of 10YR or 7.5YR, value of 3 through 5 dry, 2 or 3 moist, and chroma of 2 or 3 moist. It is slightly acid to neutral and is 8 to 13 inches thick.
+A1 horizon 
+Hue--10YR or 7.5YR
+Value--3 through 5 dry, 2 or 3 moist
+Chroma--2 or 3 moist
+Reaction--pH 6.1 to 7.3 
+Thickness of horizon--20 to 35 cm
 
-The B2 horizon has hue of 7.5YR through 2.5Y, value of 5 or 6 dry, and chroma of 3 or 4 dry and moist. It ranges from very gravelly heavy loam or light clay loam to very cobbly light clay loam. Structure ranges from weak to moderate, fine to coarse subangular blocky. This horizon is slightly acid to medium acid and is 10 to 24 inches thick.
+B2 horizon
+Hue--7.5YR through 2.5Y
+Value--5 or 6 dry
+Chroma--3 or 4 dry and moist
+Texture--loam or clay loam
+Structure--weak to moderate, fine to coarse subangular blocky
+Reaction--pH 5.1 to 6.0
+Thickness of horizon--25 to 60 cm
 
-COMPETING SERIES: These are the Bradshaw, Family (t), Lamondi, Mud Springs and St. Marys series. Bradshaw, Mud Springs and St. Marys soils have more than 75 percent base saturation throughout the upper 30 inches. Emily soils have contrasting texture change to loamy sand at depth of about 19 inches and are more than 40 inches deep to bedrock.  Lamondi soils have a mollic epipedon more than 20 inches thick and are more than 40 inches to bedrock.
+COMPETING SERIES: These are the Bradshaw, Family (t), Lamondi, Mud Springs and St. Marys series. Bradshaw, Mud Springs and St. Marys soils have more than 75 percent base saturation throughout the upper 75 cm. Emily soils have contrasting texture change to loamy sand at depth of about 50 cm and are more than 100 cm deep to bedrock.  Lamondi soils have a mollic epipedon more than 50 cm thick and are more than 100 cm to bedrock.
 
-GEOGRAPHIC SETTING: Patio soils are at elevations of 5,200 to 7,000 feet. They dominantly occur on south and east facing mountain slopes.  Slopes range from 40 to 60 percent. These soils formed in residuum and colluvium weathered from argillite, phyllite, and schist. The climate is moist subhumid, and the average annual precipitation ranges from 20 to 25 inches. The mean annual temperature is 43 to 45 degrees F. The mean summer temperature is 56 to 62 degrees F., and the frost-free period ranges from 80 to 90 days.
+GEOGRAPHIC SETTING: 
+Landform--south and east facing mountain slopes
+Elevation--1575 to 2125 meters
+Slopes--40 to 60 percent
+Parent Material--residuum and colluvium weathered from argillite, phyllite, and schist
+Climate--moist subhumid
+Mean annual precipitation--510 to 640 mm
+Mean annual air temperature--6 to 7 degrees C
+Mean summer air temperature--13 to 17 degrees C
+Frost-free period--80 to 90 days
 
-ASSOCIATED SOILS: These are the Durfee and Nordic soils and the competing Lamondi soils. All of these soils are more than 40 inches deep. Durfee and Nordic soils have argillic horizons.
+GEOGRAPHICALLY ASSOCIATED SOILS: None listed
 
-DRAINAGE AND PERMEABILITY: Well drained; rapid runoff; moderate permeability.
+DRAINAGE AND PERMEABILITY: Well drained; moderate permeability.
 
-USE AND VEGETATION: Patio soils are used for watershed, range and wildlife habitat. The present native vegetation is Gambel oak, mulesear dock, bluebunch wheatgrass, slender wheatgrass, lupine and balsamroot.
+USE AND VEGETATION: Patio soils are used for watershed, range and wildlife habitat. The present native vegetation is Gambel oak, mule-ears, bluebunch wheatgrass, slender wheatgrass, lupine and balsamroot.
 
-DISTRIBUTION AND EXTENT: Northern Utah. This series is inextensive.
+DISTRIBUTION AND EXTENT: Patio soils are moderately extensive in northern California and northern Utah; MLRAs 22B and 47.
 
-MLRA SOIL SURVEY REGIONAL OFFICE (MO) RESPONSIBLE: Bozeman, Montana
+SOIL SURVEY REGIONAL OFFICE (SSRO) RESPONSIBLE: Bozeman, Montana
 
-SERIES ESTABLISHED: Weber County, Morgan Area, Utah, 1974.
-
-OSED scanned by NSSQA.  Last revised by state 11/74.
+SERIES ESTABLISHED: Weber County, Morgan Area, Utah, 1974
 
 REMARKS:
-The superactive cation exchange activity class was added in 03/2003 to the taxonomic classification by the National Soil Survey Center on request of the Reno MLRA office, without review of the soil series property data. The remainder of this document has not been updated.
+Converted to metric, updated formatting, and O horizons were updated to start at zero. 7/2022
+
+Patio soils have a frigid temperature regime and a xeric soil moisture regime.
+
+The superactive cation exchange activity class was added in 03/2003 to the taxonomic classification by the National Soil Survey Center on request of the Reno MLRA office, without review of the soil series property data. 
 
 National Cooperative Soil Survey
 U.S.A.
