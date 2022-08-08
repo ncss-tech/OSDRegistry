@@ -2,7 +2,7 @@ LOCATION WALLYHILL              CA
 
 Established Series
 DWB/JBB/TKK/JW
-09/2018
+08/2022
 
 WALLYHILL SERIES 
 
@@ -47,11 +47,12 @@ A horizon
   Hue: 7.5YR, 10YR
   Value: 4 or 5 dry, 3 moist
   Chroma: 3 or 4 dry, 2 or 3 moist
-  Texture: loam, sandy loam
+  Texture: loam, fine sandy loam, sandy loam
   Clay content: 10 to 20 percent
   Rock fragments: 0 to 10 percent
 	0 to 5 percent gravel
 	0 to 5 percent cobbles
+	0 to 5 percent channers
 
 BA horizon
   Hue: 5YR, 7.5YR, 10YR
@@ -63,7 +64,6 @@ BA horizon
 	0 to 5 percent gravel
 	0 to 5 percent cobbles
 
-
 Bt1 horizon
   Hue: 5YR, 7.5YR, 10YR
   Value: 4 to 6 dry, 3 or 4 moist
@@ -73,6 +73,7 @@ Bt1 horizon
   Rock fragments: 0 to 15 percent
 	0 to 10 percent gravel
 	0 to 5 percent cobbles
+	0 to 5 percent channers
   Pararock fragments: 0 to 15 percent paragravel
 
 Lower Bt horizons (Bt2 and Bt3 horizons, where present)
@@ -85,6 +86,7 @@ Lower Bt horizons (Bt2 and Bt3 horizons, where present)
 	0 to 10 percent gravel
 	0 to 5 percent cobbles
   Pararock fragments: 0 to 15 percent paragravel
+			     0 to 10 percent parachanners
 
 COMPETING SERIES: These are the Holland, and Musick soils. Holland and Musick soils formed on granitic parent materials and are very deep.
 
