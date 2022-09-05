@@ -1,70 +1,89 @@
 LOCATION MIRAND                 NM
 
 Established Series
-RD:  JBC/RJA
-02/1999
+RD:  JBC/RJA/KLS
+08/2022
 
 MIRAND SERIES
 
-The Mirand series consists of deep, well drained soils that formed in colluvium derived dominantly from rhyolite and tuff.  Mirand soils are on sideslopes of mountains and canyons and have slopes of 0 to 55 percent.  Mean annual precipitation is about 22 inches and the mean annual temperature is about 44 degrees F.
+The Mirand series consists of deep, well drained soils that formed in colluvium derived dominantly from rhyolite and tuff.  Mirand soils are on sideslopes of mountains and canyons and have slopes of 0 to 55 percent.  Mean annual precipitation is about 560 mm and the mean annual air temperature is about 7 degrees C.
 
 TAXONOMIC CLASS: Fine, smectitic, frigid Typic Paleustalfs
 
 TYPICAL PEDON:  Mirand cobbly loam, forested.  (Colors are for dry soil unless otherwise noted.)
 
-    Oi--1 inch to 0; needles, leaves and twigs in various stages of decomposition.
+    Oi--0 to 3 cm; needles, leaves and twigs in various stages of decomposition.
 
-    A--0 to 3 inches; grayish brown (10YR 5/2) cobbly loam, very dark brown (10YR 2/2) moist; weak thin platy and moderate fine granular structure; soft, friable, slightly sticky and slightly plastic; many very fine and fine, few medium roots; many very fine and fine interstitial pores; 20 percent cobbles; neutral (pH 7.0); clear smooth boundary.  (3 to 5 inches thick)
+    A--3 to 11 cm; grayish brown (10YR 5/2) cobbly loam, very dark brown (10YR 2/2) moist; weak thin platy and moderate fine granular structure; soft, friable, slightly sticky and slightly plastic; many very fine and fine, few medium roots; many very fine and fine interstitial pores; 20 percent cobbles; neutral (pH 7.0); clear smooth boundary.  (8 to 13 cm thick)
 
-    Bt1--3 to 8 inches; brown (7.5YR 5/4) cobbly clay, dark brown (7.5YR 4/2) moist; moderate fine and medium subangular blocky structure; very hard, very firm, sticky and plastic; common very fine and fine, few medium roots; many very fine and fine interstitial pores; many moderately thick clay films on faces of peds; 10 percent pebbles and 10 percent cobbles; neutral (pH 6.8); clear wavy boundary.  (4 to 6 inches thick)
+    Bt1--11 to 24 cm; brown (7.5YR 5/4) cobbly clay, brown (7.5YR 4/2) moist; moderate fine and medium subangular blocky structure; very hard, very firm, sticky and plastic; common very fine and fine, few medium roots; many very fine and fine interstitial pores; many moderately thick clay films on faces of peds; 10 percent pebbles and 10 percent cobbles; neutral (pH 6.8); clear wavy boundary. 
 
-    Bt2--8 to 21 inches; brown (7.5YR 5/4) gravelly clay, dark brown (7.5YR 4/2) moist; moderate medium and coarse angular blocky structure; very hard, very firm, sticky and very plastic; common very fine and fine and few medium roots; few fine tubular pores; continuous moderately thick clay films on faces of peds; 10 percent pebbles, 5 percent cobbles; neutral (pH 6.6); gradual wavy boundary.  (8 to 13 inches thick)
+    Bt2--24 to 57 cm; brown (7.5YR 5/4) gravelly clay, brown (7.5YR 4/2) moist; moderate medium and coarse angular blocky structure; very hard, very firm, sticky and very plastic; common very fine and fine and few medium roots; few fine tubular pores; continuous moderately thick clay films on faces of peds; 10 percent pebbles, 5 percent cobbles; neutral (pH 6.6); gradual wavy boundary. 
 
-    Bt3--21 to 32 inches; light brown (7.5YR 6/4) gravelly clay, brown (7.5YR 5/4) moist; moderate medium and coarse subangular blocky structure; very hard, very firm, very sticky and very plastic; few very fine, fine and medium roots; few very fine tubular pores; many moderately thick clay films on faces of peds; 10 percent pebbles, 5 percent cobbles; neutral (pH 6.6); gradual wavy boundary.
+    Bt3--57 to 85 cm; light brown (7.5YR 6/4) gravelly clay, brown (7.5YR 5/4) moist; moderate medium and coarse subangular blocky structure; very hard, very firm, very sticky and very plastic; few very fine, fine and medium roots; few very fine tubular pores; many moderately thick clay films on faces of peds; 10 percent pebbles, 5 percent cobbles; neutral (pH 6.6); gradual wavy boundary.
 
-(10 to 12 inches thick)
+    Bt4--85 to 118 cm; yellowish red (5YR 5/6) cobbly clay, yellowish red (5YR 4/6) moist; weak medium subangular blocky structure; very hard, very firm, sticky and plastic; few very fine, fine and medium roots; few very fine tubular pores; many moderately thick clay films on faces of peds; 10 percent pebbles, 15 percent cobbles; neutral (pH 6.8); abrupt smooth boundary.  (Combined thickness of Bt horizons - 85 to 120 cm)
 
-    Bt4--32 to 45 inches; yellowish red (5YR 5/6) cobbly clay, yellowish red (5YR 4/6) moist; weak medium subangular blocky structure; very hard, very firm, sticky and plastic; few very fine, fine and medium roots; few very fine tubular pores; many moderately thick clay films on faces of peds; 10 percent pebbles, 15 percent cobbles; neutral (pH 6.8); abrupt smooth boundary.  (13 to 16 inches thick)
+    C--118 to 156 cm; light brown (7.5YR 6/4) sandy clay, brown (7.5YR 5/4) moist; massive; very hard, very firm, sticky and plastic; few fine roots; few fine tubular pores; 5 percent pebbles; neutral (pH 7.2).
 
-    C--45 to 60 inches; light brown (7.5YR 6/4) sandy clay, brown (7.5YR 5/4) moist; massive; very hard, very firm, sticky and plastic; few fine roots; few fine tubular pores; 5 percent pebbles; neutral (pH 7.2).
-
-TYPE LOCATION:  Taos County, New Mexico; AMS Photo #747; NE1/4; SE1/4 section 1, T.23N., R.12E.
+TYPE LOCATION:  Taos County, New Mexico; NE1/4; SE1/4 section 1, T.23N., R.12E.
 
 RANGE IN CHARACTERISTICS:
+Mean annual soil temperature--8 degrees C
+Mean summer soil temperature--12 degrees C
 
-Soil Moisture:  Moist in some part of the soil moisture control section December through April.  Intermittently moist in some part of the soil moisture control section July through October.
+A horizon
+Value--3 through 5 dry, 2 or 3 moist
+Chroma--1 or 2
+Texture--loam or clay loam 
+Rock fragment content--0 to 10 percent pebbles and 0 to 25 percent cobbles
 
-Soil Temperature:  Mean annual - 46 degrees F. with mean summer soil temperature of 54 degrees F.
+Bt horizons
+Hue--5YR through 10YR 
+Value--5 through 7 dry, 4 through 6 moist
+Chroma--3 through 6 
+Clay content--35 to 55 percent
+Texture--clay loam, sandy clay or clay
+Rock Fragment content--5 to 15 percent pebbles and 0 to 20 percent cobbles
 
-A horizon - Value:  3 through 5 dry, 2 or 3 moist Chroma:  1 or 2 Texture: loam or clay loam with 0 to 10 percent pebbles and 0 to 25 percent cobbles.
+C horizon
+Hue--7.5YR or 10YR 
+Value--5 or 6 dry or moist 
+Texture--sandy clay or clay
+Rock Fragment content--5 to 25 percent pebbles and 0 to 20 percent cobbles
 
-Bt horizon - Hue:  5YR through 10YR Value:  5 through 7 dry, 4 through 6 moist Chroma:  3 through 6 Texture:  clay loam, sandy clay or clay (averages 35 to 55 percent clay) with 5 to 15 percent pebbles and 0 to 20 percent cobbles.
+COMPETING SERIES:  These are the Carjo (T), Hogg, Rocio, and Valnor soils.  Carjo soils have a lithic contact at 50 to 100 cm.  Hogg soils have mildly or moderately alkaline argillic horizons.  Rocio soils have E horizons that are 15 to 38 cm thick.  Valnor soils have paralithic contacts at 50 to 100 cm.
 
-C horizon - Hue:  7.5YR or 10YR Value:  5 or 6 dry or moist Texture:  sandy clay or clay with 5 to 25 percent pebbles and 0 to 20 percent cobbles.
+GEOGRAPHIC SETTING:
+Landform--complex mountain and canyon side slopes
+Elevation--2100 m to 2900 meters
+Slope--0 to 55 percent
+Parent material--old alluvium from various sources but mainly rhyolite and tuff
+Mean annual precipitation--410 to 640 mm, about 60 percent is from snow and winter rain and 40 percent from heavy summer storms
+Mean annual air temperature--6 to 8 degrees C
+Frost-free period--60 to 115 days
 
-COMPETING SERIES:  These are the Carjo (T), Hogg, Rocio, and Valnor soils.  Carjo soils have a lithic contact at 20 to 40 inches.  Hogg soils have mildly or moderately alkaline argillic horizons.  Rocio soils have E horizons that are 6 to 15 inches thick.  Valnor soils have paralithic contacts at 20 to 40 inches.
+GEOGRAPHICALLY ASSOCIATED SOILS:  None listed
 
-GEOGRAPHIC SETTING:  The Mirand soils are on complex mountain and canyon side slopes at elevations of 6,900 to 9,500 feet.  Slopes range from 0 to 55 percent.  These soils formed in old alluvium from various sources but mainly rhyolite and tuff.  Mean annual precipitation ranges from 16 to 25 inches and about 60 percent of the precipitation is from snow and winter rain and 40 percent from heavy summer storms.  The frost-free period is 60 to 115 days.  The mean annual temperature is about 42 to 46 degrees F.
+DRAINAGE AND PERMEABILITY:  Well drained; slow runoff; very slow permeability
 
-GEOGRAPHICALLY ASSOCIATED SOILS:  These are the Chimayo, Etoe, Maes, and Mirabal soils.  Chimayo and Mirabal soils lack an argillic horizon. Etoe and Maes soils lack the dark color in the surface soil; also they have skeletal family control sections.
+USE AND VEGETATION:  Used for timber production, grazing, wildlife, recreation and watershed.  Vegetation is ponderosa pine, scattered Gambel oak, mahonia, pine dropseed, squirreltail and Kentucky bluegrass.
 
-DRAINAGE AND PERMEABILITY:  Well drained; slow runoff; very slow permeability.
+DISTRIBUTION AND EXTENT:  Mirand soils are moderately extensive in northcentral New Mexico; MLRA 48A and 48B 
 
-USE AND VEGETATION:  Used for timber production, grazing, wildlife, recreation and watershed.  Vegetation is ponderosa pine, scattered Gambel oak, Oregongrape, pine dropseed, squirreltail and Kentucky bluegrass.
+SOIL SURVEY REGIONAL OFFICE (SSRO) RESPONSIBLE: Bozeman, Montana
 
-DISTRIBUTION AND EXTENT:  Northern New Mexico.  The series is moderately extensive.
+SERIES ESTABLISHED:  Taos Area, New Mexico, 1976
 
-MLRA SOIL SURVEY REGIONAL OFFICE (MO) RESPONSIBLE: Bozeman, Montana
+REMARKS: Diagnostic horizons and features recognized in this pedon are:
+Ochric epipedon--3 to 11 cm (A horizon)
+Mollic subgroup--A horizons with values 3 through 5 dry and 2 or 3 moist.  The A horizon has a maximum thickness of 13 cm and does not meet the thickness requirements of a mollic epipedon.
+Argillic horizon--11 to 118 cm (Bt horizons)
+Particle-size control section--11 to 61 cm (Bt1 horizon and part of Bt2 horizon)
 
-SERIES ESTABLISHED:  Taos Area, New Mexico, 1976.
+Mirand soils have a frigid temperature regime and an ustic soil moisture regime with a typic subclass.
 
-REMARKS:  DIAGNOSTIC HORIZONS AND FEATURES RECOGNIZED IN THIS PEDON ARE: Ochric epipedon:  The zone from 0 to 3 inches.  (A horizon)
-
-Mollic subgroup:  A horizons with values 3 through 5 dry and 2 or 3 moist.  The A horizon has a maximum thickness of 5 inches and does not meet the thickness requirements of a mollic epipedon.
-
-Argillic horizon:  The zone from 3 to 45 inches.  (Bt horizons)
+Converted to metric, updated formatting, and O horizons were updated to start at zero. 8/2022
 
 National Cooperative Soil Survey
 U.S.A.
-
-

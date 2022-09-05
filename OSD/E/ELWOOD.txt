@@ -1,49 +1,81 @@
-LOCATION ELWOOD                 UT
+LOCATION ELWOOD                 UT+MT WY
 
 Established Series
-Rev. VLM/MEO/AJE/JMW
-02/1999
+Rev. VLM/MEO/KLS
+08/2022
 
 ELWOOD SERIES
 
-Elwood soils have brown, medium acid, silt loam A horizons and brown, neutral, cobbly silty clay loam B2t horizons over fractured limestone at a depth of 38 inches.
+The Elwood series consists of moderately deep, well drained soils that formed in residuum and colluvium from derived from limestone. These soils are on moderately steep to very steep mountain slopes. Slopes are 10 to 60 percent. Mean annual precipitation is about 710 mm and mean annual air temperature is about 4 degrees C. 
 
 TAXONOMIC CLASS: Loamy-skeletal, mixed, superactive Typic Argicryolls
 
-TYPICAL PEDON:  Elwood silt loam, native conifer.  (colors are for dry soil unless otherwise noted.)
+TYPICAL PEDON:  Elwood silt loam, native conifer. (Colors are for dry soil unless otherwise noted.)
 
-    01--2 inches to 0; needles and twigs.
+    Oi--0 to 5 cm; needles and twigs.
 
-    A1--0 to 11 inches; brown (10YR 5/3) heavy silt loam, dark brown (7.5YR 3/3) moist; moderate medium subangular blocky structure that parts to moderate medium granular structure; slightly hard, friable, slightly sticky and slightly plastic; many fine and medium and few large roots; few fine discontinuous random inped pores; medium acid (pH 6.0); clear wavy boundary.  (8 to 16 inches thick)
+    A--5 to 33 cm; brown (10YR 5/3) heavy silt loam, dark brown (7.5YR 3/3) moist; moderate medium subangular blocky structure that parts to moderate medium granular structure; slightly hard, friable, slightly sticky and slightly plastic; many fine and medium and few large roots; few fine discontinuous random inped pores; moderately acid (pH 6.0); clear wavy boundary.  (20 to 40 cm thick)
 
-    B21t--11 to 26 inches; brown (7.5YR 5/4) cobbly silty clay brown, dark brown (7.5YR 4/4) moist; moderate medium subangular blocky structure; hard, firm, sticky and slightly plastic; common fine and medium roots; few fine discontinuous random inped pores; common thin clay film in pores and on surface of peds; 20 percent cobbles; neutral (pH 6.6); clear wavy boundary.  (8 to 20 inches thick)
+    Bt1--33 to 71 cm; brown (7.5YR 5/4) cobbly silty clay brown, brown (7.5YR 4/4) moist; moderate medium subangular blocky structure; hard, firm, sticky and slightly plastic; common fine and medium roots; few fine discontinuous random inped pores; common thin clay film in pores and on surface of peds; 20 percent cobbles; neutral (pH 6.6); clear wavy boundary.  (20 to 50 cm thick)
 
-    B22t--26 to 38 inches; brown (7.5YR 5/4) very cobbly light silty clay loam, dark brown (7.5YR 4/4) moist; weak medium subangular blocky structure; hard, firm, slightly sticky and slightly plastic; common fine and medium roots; common thin clay films; 80 percent cobbles and gravel, fractured limestone rock fragments; neutral (pH 7.0); abrupt wavy boundary.  (3 to 20 inches thick)
+    Bt2--71 to 97 cm; brown (7.5YR 5/4) very cobbly light silty clay loam, brown (7.5YR 4/4) moist; weak medium subangular blocky structure; hard, firm, slightly sticky and slightly plastic; common fine and medium roots; common thin clay films; 80 percent cobbles and gravel, fractured limestone rock fragments; neutral (pH 7.0); abrupt wavy boundary.  (8 to 50 cm thick)
 
-    R--38 to 42 inches; fractured limestone bedrock.
+    R--97 to 110 cm; fractured limestone bedrock.
 
-TYPE LOCATION:  Cache County, Utah; 2 miles south and 1 mile east of Beaver Mountain; 2,000 feet north and 2,000 feet east of the SW corner of section 20, T.14N., R.4E.
+TYPE LOCATION:  Cache County, Utah; about 3 km south and 1.5 km east of Beaver Mountain; about 610 meters north and 610 meters east of the SW corner of section 20, T.14N., R.4E.
 
-RANGE IN CHARACTERISTICS:  The mollic epipedon is 7 to 16 inches thick.  The combined thickness of the A1 and B2t horizons and depth to bedrock ranges from 20 to 40 inches.  The B2t horizon may extend into cracks in the limestone bedrock.  Rock fragments are dominantly angular cobble and gravel size limestone fragments.  The mean annual soil temperature ranges from 38 to 44 degrees F., and the mean summer temperature at a depth of 20 inches ranges from 46 to 53 degrees F.  The A1 horizon has hue of 10YR or 7.5YR, value of 4 or 5 dry, 2 or 3 moist, and chroma of 2 or 3.  It has weak to moderate, fine to medium granular or subangular blocky structure.  This horizon is slightly or medium acid.  The B2t horizon has hue of 10YR or 7.5YR, value of 4 through 6 dry, 3 or 4 moist, and chroma of 3 or 4.  It has value of 4 moist below a depth of 20 inches.  This horizon ranges from cobbly and cobbly silty clay loam to very gravelly heavy loam with more than 18 percent clay.  It averages more than 35 percent cobbles and gravel in the upper 20 inches of the horizon.  The B2t horizon has moderate to weak, fine to coarse subangular blocky structure and has thin common to continuous clay films on faces of peds and in pores.  It is slightly acid or neutral.
+RANGE IN CHARACTERISTICS:  
+Mean annual soil temperature--3 to 7 degrees C
+Mean summer soil temperature at a depth of 50 cm--8 to 12 degrees C
+Thickness of mollic epipedon--18 to 40 cm
+Depth to bedrock--50 to 100 cm
+Rock fragments--dominantly angular cobble and gravel of limestone lithology
+The B2t horizon may extend into cracks in the limestone bedrock.
 
-COMPETING SERIES AND THEIR DIFFERENTIAE:  These are the Bickmore, Blaine, Buena Vista, Ess, Hourglass, Libeg, Mult, Nathrop, Rammel, Tahquats, Thiel, and Woodhall series.  Bickmore, Blaine, Buena Vista, Nathrop, Rammel, and Thiel soils have horizons of carbonbate accumulation.  Also, Bickmore soils have mollic epipedons thicker than 16 inches.  Ess, Hourglass, Libeg, Tahquats, and Thiel soils are deeper than 40 inches to bedrock.  Mult soils have less than 15 percent cobbles and gravel in the argillic horizon.  Woodhall soils have rock fragments that are mainly more than 10 inches in diameter and lack limestone fragments.
+A1 horizon
+Hue--10YR or 7.5YR
+Value--4 or 5 dry, 2 or 3 moist
+Chroma--2 or 3
+Reaction--pH 5.6 to 6.5
 
-GEOGRAPHIC SETTING:  Elwood soils are at elevations of 7,500 to 9,000 feet above sea level on moderately steep to very steep mountain slopes with gradients of 10 to 60 percent.  They formed in residuum and colluvium form limestone.  The climate is moist subhumid, with an average annual precipitation of 25 to 35 inches.  The mean annual temperature is 32 to 42 degrees F. and the mean summer temperature is 55 to 58 degrees F.  The frost free season is 75 to 90 days.
+Bt horizon(s)
+Hue--10YR or 7.5YR
+Value--4 through 6 dry, 3 or 4 moist; It has value of 4 moist below a depth of 50 cm
+Chroma--3 or 4
+Clay content--more than 18 percent
+Clay films--thin common to continuous clay films on faces of peds and in pores
+Texture--cobbly and cobbly silty clay loam to very gravelly heavy loam with more than 18 percent clay
+Rock fragment content--more than 35 percent cobbles and gravel in the upper 50 cm of the B2t horizons
+Reaction--pH 6.1 to 7.3
 
-GEOGRAPHICALLY ASSOCIATED SOILS:  These are the Dateman soils and the competing Agassiz and Mult soils.  Dateman soils have mollic epipedons more than 16 inches thick and lack argillic horizons.
+COMPETING SERIES:  These are the Bickmore, Blaine, Buena Vista, Ess, Hourglass, Libeg, Mult, Nathrop, Rammel, Tahquats, Thiel, and Woodhall series.  Bickmore, Blaine, Buena Vista, Nathrop, Rammel, and Thiel soils have horizons of secondary carbonate accumulation.  Also, Bickmore soils have mollic epipedons thicker than 40 cm.  Ess, Hourglass, Libeg, Tahquats, and Thiel soils are deeper than 100 cm to bedrock.  Mult soils have less than 15 percent cobbles and gravel in the argillic horizon.  Woodhall soils have rock fragments that are mainly more than 25 cm in diameter and lack limestone fragments.
+
+GEOGRAPHIC SETTING:  
+Landform--moderately steep to very steep mountain slopes
+Elevation--2275 to 2750 meters
+Slope--10 to 60 percent
+Parent Material--residuum and colluvium from limestone
+Climate--moist subhumid
+Mean annual precipitation--640 to 890 mm
+Mean annual air temperature--0 to 6 degrees C
+Mean summer air temperature--13 to 14 degrees C
+Frost free period--75 to 90 days
+
+GEOGRAPHICALLY ASSOCIATED SOILS:  None listed
+
 DRAINAGE AND PERMEABILITY:  Well drained; slow to medium runoff; moderate permeability.
 
-USE AND VEGETATION:  Used for timber production and for watershed.  The native vegetation is alpine fir, Douglas fir, and some Englemann spruce.
+USE AND VEGETATION:  Elwood soils are used for timber production and for watershed and the native vegetation is alpine fir, Douglas fir, and some Englemann spruce.
 
-DISTRIBUTION AND EXTENT:  Mountain areas of Northern Utah.  The series is inextensive.
+DISTRIBUTION AND EXTENT:  Elwood soils are moderately extensive in the mountains of central Utah, central Montana and western Wyoming; MLRAs 43B and 47
 
-MLRA SOIL SURVEY REGIONAL OFFICE (MO) RESPONSIBLE: Bozeman, Montana
+SOIL SURVEY REGIONAL OFFICE (SSRO) RESPONSIBLE: Bozeman, Montana
 
-SERIES ESTABLISHED:  Cache County, Utah, 1972.
+SERIES ESTABLISHED:  Cache County, Utah, 1972
 
-REMARKS:  The Elwood soils were formerly classified as Brunizems.
+REMARKS:  Converted to metric, updated formatting, and O horizons were updated to start at zero. 8/2022
 
-National Cooperative Soil Survery
-U. S. A.
+Elwood soils were formerly classified as Brunizems.
 
-
+National Cooperative Soil Survey
+U.S.A.

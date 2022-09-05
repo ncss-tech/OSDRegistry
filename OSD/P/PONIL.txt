@@ -1,50 +1,98 @@
-LOCATION PONIL                  NM+UT
+LOCATION PONIL                  NM
 
 Established Series
-Rev. TEH/BDS
-02/1999
+Rev. TEH/BDS/KLS
+08/2022
 
 PONIL SERIES
 
-The Ponil series is a member of the fine, mixed family of Typic Eutroboralfs.  Typically, Ponil soils have grayish brown, stony loam A1 horizons, light yellowish brown and pale brown clay B2t horizons and light gray clay C horizons.
+The Ponil series consists of deep or very deep well drained soils that formed in colluvial deposits derived from sandstone and shale. These soils are on sides of mountains and slopes are 10 to 35 percent. Mean annual precipitation is about 460 mm, and mean annual air temperature is about 6 degrees C.
 
 TAXONOMIC CLASS: Fine, smectitic, frigid Vertic Paleustalfs
 
 TYPICAL PEDON:  Ponil stony loam, rangeland.  (Colors are for dry soil unless otherwise noted.)
 
-    01 & 02--1 to 0 inches; undecomposed and decomposed forest litter.  (0 to 2 inches thick)
+    Oi--0 to 1 cm; undecomposed forest litter.
 
-    A1--0 to 4 inches; grayish brown (10YR 5/2) stony loam, dark brown (10YR 3/3) moist; weak very fine granular structure; slightly hard, firm, slightly sticky, plastic; many fine and very fine roots; many fine and very fine pores; 15 percent rock fragments; mildly alkaline; clear smooth boundary.  (2 to 6 inches thick)
+    Oe--1 to 3 cm; partially decomposed forest litter. (Combined thickness of O horizons - 0 to 5 cm)
 
-   B21t--4 to 15 inches; light yellowish brown (10YR 6/4) clay, yellowish brown (10YR 5/4) moist; moderate fine and medium angular blocky structure; very hard, very firm, sticky, very plastic; common fine and very fine roots; few very fine tubular pores; many thick clay films on peds; about 5 percent rock fragments; slightly acid; clear smooth boundary.  (8 to 15 inches thick)
+    A--3 to 13 cm; grayish brown (10YR 5/2) stony loam, dark brown (10YR 3/3) moist; weak very fine granular structure; slightly hard, firm, slightly sticky, plastic; many fine and very fine roots; many fine and very fine pores; 15 percent rock fragments; slightly alkaline; clear smooth boundary.  (5 to 15 cm thick)
 
-    B22t--15 to 24 inches; pale brown (10YR 6/3) clay, yellowish brown (10YR 5/4) moist; many distinct light yellowish brown (10YR 6/4) mottles, yellowish brown (10YR 5/4) moist; moderate coarse prisms parting to moderate coarse angular and subangular blocky structure; very hard, very firm; sticky, very plastic; common fine and coarse roots; few fine tubular pores; many thick clay films on peds; about 5 percent rock fragments; moderately alkaline; gradual smooth boundary.  (7 to 15 inches thick)
+   Bt1--13 to 41 cm; light yellowish brown (10YR 6/4) clay, yellowish brown (10YR 5/4) moist; moderate fine and medium angular blocky structure; very hard, very firm, sticky, very plastic; common fine and very fine roots; few very fine tubular pores; many thick clay films on peds; about 5 percent rock fragments; slightly acid; clear smooth boundary. 
 
-    C--24 to 60 inches; light gray (5Y 7/2) clay, light olive gray (5Y 6/2) moist; many distinct mottles of light yellowish brown (10YR 6/4), yellowish brown (10YR 5/6) moist; massive; very hard, very firm, sticky, very plastic; common fine and coarse roots; common medium tubular pores; many pressure faces; 10 percent rock fragments, weakly calcareous; moderately alkaline.
+    Bt2--41 to 64 cm; pale brown (10YR 6/3) clay, yellowish brown (10YR 5/4) moist; many distinct light yellowish brown (10YR 6/4) mottles, yellowish brown (10YR 5/4) moist; moderate coarse prisms parting to moderate coarse angular and subangular blocky structure; very hard, very firm; sticky, very plastic; common fine and coarse roots; few fine tubular pores; many thick clay films on peds; about 5 percent rock fragments; moderately alkaline; gradual smooth boundary. (Combined thickness of Bt horizons - 40 to 75 cm)
 
-TYPE LOCATION:  Colfax County, New Mexico; about 4 miles west of Cimarron; 3,400 feet west and 400 feet north of gaging station number 6607 on Cimarron Creek.
+    C--64 to 155 cm; light gray (5Y 7/2) clay, light olive gray (5Y 6/2) moist; many distinct mottles of light yellowish brown (10YR 6/4), yellowish brown (10YR 5/6) moist; massive; very hard, very firm, sticky, very plastic; common fine and coarse roots; common medium tubular pores; many pressure faces; 10 percent rock fragments, weakly calcareous; moderately alkaline.
 
-RANGE IN CHARACTERISTICS:  The mean annual soil temperature ranges from 41 to 46 degrees F.  and the summer soil temperature is 60 to 65 degrees F.  The solum is 18 to 34 inches thick.  Rock fragments in the profile range from 5 to 25 percent by volume.  The A1 horizon has value of 4 through 6 dry, 2 through 4 moist, and chroma of 2 through 4.  It is stony loam, stony sandy clay loam, or stony clay loam.  This horizon is slightly acid to mildly alkaline.  The B21t horizon has hue of 7.5YR or 10YR, value of 4 through 6 dry, 4 or 5 moist, and chroma of 3 or 4.  It is clay or silty clay and has 5 to 25 percent rock fragments.  This horizon has moderate to strong subangular and angular blocky structure.  It is slightly acid to moderately alkaline.  The B22t horizon has hue of 10YR or 2.5Y, value of 4 through 6 dry, 3 through 5 moist, and chroma of 2 or 3.  It has common distinct mottles in some pedons, with chroma of 4 through 6.  This horizon is slightly acid to moderately alkaline.  The C horizon has hue of 10YR, 2.5Y or 5Y.  It is usually mottled with chroma of 4 through 6.  This horizon is slightly acid to moderately alkaline.  Interbedded sandstone and shale is at depths of more than 40 inches.
+TYPE LOCATION:  Colfax County, New Mexico; about 6 km west of Cimarron; about 1035 meters west and 120 meters north of gaging station number 6607 on Cimarron Creek.
 
-COMPETING SERIES AND THEIR DIFFERENTIAE:  These are the Crow, Dargol, Depew, Fuera, Lakoa, Lubrecht and Ordnance series.  Crow soils have strong prismatic structure in the B horizon and an A&B horizon.  Dargol, Lakoa, Lubrecht and Ordnance soils have bedrock at depths of 20 to 40 inches.  Depew soils have an A&B horizon.  Fuera soils have more than 15 percent rock fragments in the control section.
+RANGE IN CHARACTERISTICS:
+Mean annual soil temperature--5 to 8 degrees C
+Mean summer soil temperature--16 to 18 degrees C
+Solum thickness--45 cm to 85 cm
+Paralithic contact--more than 100 cm to interbedded sandstone and shale bedrock
 
-SETTING:  Ponil soils are on sides of mountains at elevations of 7,000 to 8,500 feet.  Slopes range from 10 to 35 percent.  The soil formed mostly in colluvial deposits derived from sandstone and shale.  The climate is continental.  The mean annual temperature is 39 to 44 degrees F. and the mean summer temperature is 58 to 63 degrees F. The annual precipitation is 16 to 19 inches with about 60 percent falling during the frost free season.
+Particle-size control section:
+Rock fragment content--5 to 25 percent by volume
 
-PRINCIPAL ASSOCIATED SOILS:  These are the Midnight, Stout, and Vamer soils and the competing Dargol soils.  Midnight soils have a paralithic contact at depths of less than 20 inches.  Stout and Vamar soils have lithic contacts at depths of less than 20 inches.
+A horizon
+Value--4 through 6 dry, 2 through 4 moist
+Chroma--2 through 4
+Texture--loam, sandy clay loam, or clay loam
+Rock fragment content--5 to 35 percent total; 15 to 35 percent stones
+Reaction--pH 6.1 to 7.8
+
+Bt1 horizon
+Hue--7.5YR or 10YR
+Value--4 through 6 dry, 4 or 5 moist
+Chroma--3 or 4
+Texture--clay or silty clay
+Rock fragment content--5 to 25 percent
+Structure--moderate to strong subangular and angular blocky 
+Reaction--pH 6.1 to 8.4
+
+Bt2 horizon 
+Hue--10YR or 2.5Y
+Value--4 through 6 dry, 3 through 5 moist
+Chroma--2 or 3
+Mottles--common distinct mottles in some pedons, with chroma of 4 through 6
+Reaction--pH 6.1 to 8.4
+ 
+C horizon
+Hue--10YR, 2.5Y or 5Y
+Chroma--4 through 6
+Mottles--common distinct mottles in most pedons, with chroma of 4 through 6
+Reaction--pH 6.1 to 8.4
+
+COMPETING SERIES:  These are the Crow, Dargol, Depew, Fuera, Lakoa, Lubrecht and Ordnance series.  Crow soils have strong prismatic structure in the B horizon and an AB horizon.  Dargol, Lakoa, Lubrecht and Ordnance soils have bedrock at depths of 50 to 100 cm.  Depew soils have an AB horizon.  Fuera soils have more than 15 percent rock fragments in the control section.
+
+GEOGRAPHIC SETTING:
+Landform--sides of mountains
+Elevation--2125 to 2600 meters 
+Slope--10 to 35 percent
+Parent material--colluvial deposits derived from sandstone and shale
+Climate--continental
+Mean annual precipitation--410 to 480 mm with about 60 percent falling during the frost-free season
+Mean annual air temperature--4 to 7 degrees C
+Mean summer temperature--14 to 17 degrees C
+
+GEOGRAPHICALLY ASSOCIATED SOILS:  None listed
 
 DRAINAGE AND PERMEABILITY:  Well drained; rapid runoff; very slow permeability.
 
 USE AND VEGETATION:  Used for native range, wildlife habitat, recreation, and watershed.  Principal vegetation is pinyon, juniper, oak, mountain mahogany, blue grama, little bluestem, mountain muhly and western wheatgrass.
 
-DISTRIBUTION AND EXTENT:  Northern New Mexico and possibly Colorado and Wyoming.  The series is of moderate extent.
+DISTRIBUTION AND EXTENT:  Ponil soils are moderately extensive in the mountains of northern New Mexico; MLRA 48A
 
-MLRA SOIL SURVEY REGIONAL OFFICE (MO) RESPONSIBLE: Bozeman, Montana
+SOIL SURVEY REGIONAL OFFICE (SSRO) RESPONSIBLE: Bozeman, Montana
 
-SERIES ESTABLISHED:  Colfax County, New Mexico, 1974.
+SERIES ESTABLISHED:  Colfax County, New Mexico, 1974
 
-ADDITIONAL DATA:  Lincoln Laboratory 66L602.
+REMARKS: Ponil soils were formerly classified in the fine, mixed family of Typic Eutroboralfs.
+
+Converted to metric, updated formatting, and O horizons were updated to start at zero. 8/2022
+
+ADDITIONAL DATA:  Lincoln Laboratory 66L602
 
 National Cooperative Soil Survey
-U. S. A.
-
-
+U.S.A.

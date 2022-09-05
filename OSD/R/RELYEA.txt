@@ -1,176 +1,133 @@
 LOCATION RELYEA                 MT
 
 Established Series
-Rev. ADI-BDD-JAL
-03/1999
+Rev. ADI-BDD-KLS
+08/2022
 
 RELYEA SERIES
 
-The Relyea series consists of very deep, well drained soils that formed in colluvium and alluvium derived from limestone and calcareous argillite.  These soils are on mountains and hills.  Slopes are 8 to 60 percent.  Mean annual precipitation is about 25 inches and mean annual air temperature is about 37 degrees F.
+The Relyea series consists of very deep, well drained soils that formed in colluvium and alluvium derived from limestone and calcareous argillite.  These soils are on mountains and hills.  Slopes are 8 to 60 percent.  Mean annual precipitation is about 640 mm and mean annual air temperature is about 3 degrees C.
 
 TAXONOMIC CLASS: Clayey-skeletal, mixed, superactive Eutric Glossocryalfs
 
 TYPICAL PEDON:  Relyea gravelly loam, forested (colors are for dry soil unless otherwise noted).
 
-    Oi--2 inches to 0; slightly decomposed forest litter.
+    Oi--0 to 5 cm; slightly decomposed forest litter.
 
-    E--0 to 3 inches; light reddish brown (5YR 6/3) gravelly loam, reddish brown (5YR 4/3) moist; weak fine subangular blocky structure parting to weak fine granular; slightly hard, very friable, slightly sticky and slightly plastic; many very fine, fine, common medium, and coarse roots; many very fine and fine discontinuous irregular pores, and few very fine discontinuous tubular pores; 5 percent cobbles, 25 percent pebbles; slightly acid (pH 6.4); clear smooth boundary. (2 to 10 inches thick)
+    E--5 to 13 cm; light reddish brown (5YR 6/3) gravelly loam, reddish brown (5YR 4/3) moist; weak fine subangular blocky structure parting to weak fine granular; slightly hard, very friable, slightly sticky and slightly plastic; many very fine, fine, common medium, and coarse roots; many very fine and fine discontinuous irregular pores, and few very fine discontinuous tubular pores; 5 percent cobbles, 25 percent pebbles; slightly acid (pH 6.4); clear smooth boundary. (5 to 25 cm thick)
 
-    Bt/E--3 to 6 inches; Bt part (80 percent) is reddish brown (5YR 4/4) very gravelly clay loam, dark reddish gray (5YR 4/2) moist; E part (20 percent) is light reddish brown (5YR 6/3) very gravelly loam, reddish brown (5YR 4/3) moist tongues; texture mixed is very gravelly clay loam, moderate medium and fine subangular blocky structure; hard, firm, slightly sticky and moderately plastic; many very fine, fine, common medium, and coarse roots; many very fine and fine discontinuous irregular pores, and many very fine discontinuous tubular pores; common faint clay films on faces of peds; 5 percent cobbles, 35 percent pebbles; neutral (pH 6.6); clear smooth boundary. (2 to 6 inches thick)
+    Bt/E--13 to 21 cm; Bt part (80 percent) is reddish brown (5YR 4/4) very gravelly clay loam, dark reddish gray (5YR 4/2) moist; E part (20 percent) is light reddish brown (5YR 6/3) very gravelly loam, reddish brown (5YR 4/3) moist tongues; texture mixed is very gravelly clay loam, moderate medium and fine subangular blocky structure; hard, firm, slightly sticky and moderately plastic; many very fine, fine, common medium, and coarse roots; many very fine and fine discontinuous irregular pores, and many very fine discontinuous tubular pores; common faint clay films on faces of peds; 5 percent cobbles, 35 percent pebbles; neutral (pH 6.6); clear smooth boundary. (5 to 15 cm thick)
 
-    Bt--6 to 15 inches; reddish brown (5YR 4/4) very gravelly clay loam, dark reddish gray (5YR 4/2) moist; moderate fine subangular blocky structure; very hard, very firm, slightly sticky and moderately plastic; many medium, common very fine, fine, and coarse roots; many very fine and fine discontinuous irregular pores, and many very fine discontinuous tubular pores; many distinct clay films on faces of peds; 10 percent cobbles, 30 percent pebbles; neutral (pH 6.8); clear wavy boundary.  (9 to 32 inches thick)
+    Bt--21 to 44 cm; reddish brown (5YR 4/4) very gravelly clay loam, dark reddish gray (5YR 4/2) moist; moderate fine subangular blocky structure; very hard, very firm, slightly sticky and moderately plastic; many medium, common very fine, fine, and coarse roots; many very fine and fine discontinuous irregular pores, and many very fine discontinuous tubular pores; many distinct clay films on faces of peds; 10 percent cobbles, 30 percent pebbles; neutral (pH 6.8); clear wavy boundary.  (20 to 80 cm thick)
 
-    Btk--15 to 28 inches; brown (7.5YR 5/4) very gravelly clay loam, dark brown (7.5YR 4/4) moist; moderate medium subangular blocky structure; slightly hard, firm, slightly sticky and moderately plastic; common very fine, fine, medium, and few coarse roots; many very fine and fine discontinuous irregular pores; few faint clay films on faces of peds; 15 percent cobbles, 35 percent pebbles; disseminated lime; continuous faint and distinct lime casts on under sides of coarse fragments; strongly effervescent; moderately alkaline (pH 7.9); gradual wavy boundary. (0 to 15 inches thick)
+    Btk--44 to 77 cm; brown (7.5YR 5/4) very gravelly clay loam, brown (7.5YR 4/4) moist; moderate medium subangular blocky structure; slightly hard, firm, slightly sticky and moderately plastic; common very fine, fine, medium, and few coarse roots; many very fine and fine discontinuous irregular pores; few faint clay films on faces of peds; 15 percent cobbles, 35 percent pebbles; disseminated lime; continuous faint and distinct lime casts on under sides of coarse fragments; strongly effervescent; moderately alkaline (pH 7.9); gradual wavy boundary. (0 to 38 cm thick)
 
-    Bk1--28 to 36 inches; pinkish gray (7.5YR 7/2) very gravelly loam, light brown (7.5YR 6/4) moist; weak medium subangular blocky structure parting to weak medium granular; slightly hard, friable, slightly sticky and slightly plastic; few very fine, fine, and medium roots; few very fine discontinuous irregular pores; 20 percent cobbles, 40 percent pebbles; disseminated lime; continuous faint and distinct lime casts covering coarse fragments; violently effervescent; moderately alkaline (pH 8.0); gradual wavy boundary.
+    Bk1--77 to 97 cm; pinkish gray (7.5YR 7/2) very gravelly loam, light brown (7.5YR 6/4) moist; weak medium subangular blocky structure parting to weak medium granular; slightly hard, friable, slightly sticky and slightly plastic; few very fine, fine, and medium roots; few very fine discontinuous irregular pores; 20 percent cobbles, 40 percent pebbles; disseminated lime; continuous faint and distinct lime casts covering coarse fragments; violently effervescent; moderately alkaline (pH 8.0); gradual wavy boundary. (10 to 25 cm thick)
 
-    Bk2--36 to 60 inches; pinkish gray (7.5YR 7/2) extremely cobbly loam, light brown (7.5YR 6/4) moist; weak medium subangular blocky structure; slightly hard, friable, slightly sticky and slightly plastic; few very fine roots; few very fine discontinuous irregular pores; 30 percent cobbles, 40 percent pebbles; disseminated lime; continuous faint and distinct lime casts covering coarse fragments; violently effervescent; moderately alkaline (pH 8.0).
+    Bk2--97 to 158 cm; pinkish gray (7.5YR 7/2) extremely cobbly loam, light brown (7.5YR 6/4) moist; weak medium subangular blocky structure; slightly hard, friable, slightly sticky and slightly plastic; few very fine roots; few very fine discontinuous irregular pores; 30 percent cobbles, 40 percent pebbles; disseminated lime; continuous faint and distinct lime casts covering coarse fragments; violently effervescent; moderately alkaline (pH 8.0).
 
-TYPE LOCATION:  Powell County, Montana; 2,700 feet east and 1,900 feet south of the NW corner of sec. 2, T. 10 N., R. 9 W.
+TYPE LOCATION:  Powell County, Montana; about 820 meters east and 580 meters south of the NW corner of sec. 2, T. 10 N., R. 9 W.
 
 RANGE IN CHARACTERISTICS:
-
-Soil temperature - 37 to 40 degrees F.
-
-Moisture control section - between 4 and 12 inches.
-
-Depth to Bk horizon - 13 to 40 inches.
-
-Base saturation - greater than 50 percent throughout.
-
+Mean annual soil temperature--3 to 4 degrees C
+Moisture control section--10 to 30 cm
+Depth to Bk horizon--35 to 100 cm
+Base saturation--greater than 50 percent throughout
 A thin A horizon and an E/Bt horizon are allowed.
 
+E horizon
+Hue--10YR, 7.5YR, 5YR
+Value--6 or 7 dry; 3, 4, or 5 moist
+Chroma--2 or 3
+Texture--loam, sandy clay loam, or silt loam
+Clay content--20 to 27 percent
+Rock fragment content--15 to 35 percent total; 0 to 10 percent stones and cobbles; 15 to 25 percent pebbles
+Reaction--pH 6.1 to 7.3
 
-E horizon - Hue:  10YR, 7.5YR, 5YR
+Bt/E horizon
+Hue--5YR, 7.5YR, 10YR
+Value--Bt part 4 or 5, E part 5, 6 or 7 dry; Bt part 3 or 4, E part 4 or 5 moist
+Chroma--Bt part 2, 3, 4, or 6; E part 2 or 3
+Texture--clay loam and silty clay loam (mixed)
+Clay content--27 to 35 percent (mixed)
+Rock fragment content--15 to 50 percent total; 5 to 15 percent stones and cobbles; 10 to 35 percent pebbles
+Reaction--pH 6.1 to 7.3
 
-Value:  6 or 7 dry; 3, 4, or 5 moist
+Bt horizon
+Hue--2.5YR, 5YR, 7.5YR, 10YR
+Value--4, 5 or 6 dry; 3, 4 or 5 moist
+Chroma--2, 3, 4, or 6
+Texture--clay loam, clay, or silty clay loam
+Clay content--35 to 50 percent
+Rock fragment content--35 to 60 percent total; 5 to 20 percent stones and cobbles; 30 to 40 percent pebbles
+Reaction--pH 6.1 to 7.8
 
-Chroma:  2 or 3
+Btk horizon
+Hue--2.5YR, 5YR, 7.5YR, 10YR
+Value--4, 5, 6, or 7 dry; 4, 5, or 6 moist
+Chroma--2, 3, 4, or 6
+Texture--clay loam, clay, or silty clay loam
+Clay content--27 to 45 percent
+Rock fragment content--35 to 60 percent total; 10 to 20 percent stones and cobbles; 25 to 40 percent pebbles
+Calcium carbonate equivalent--5 to 15 percent
+Reaction--pH 7.4 to 8.4
 
-Texture:  loam, sandy clay loam, or silt loam
+Bk1 horizon
+Hue--7.5YR, 10YR
+Value--6 or 7 dry; 5 or 6 moist
+Chroma--2, 3, 4, or 6
+Texture--loam or clay loam
+Clay content--18 to 30 percent
+Rock fragment content--40 to 75 percent total; 15 to 30 percent stones and cobbles; 25 to 45 percent pebbles
+Calcium carbonate equivalent--15 to 35 percent
+Reaction--pH 7.9 to 8.4
 
-Clay content:  20 to 27 percent
+Bk2 horizon
+Hue--7.5YR, 10YR
+Value--6 or 7 dry; 5 or 6 moist
+Chroma--2, 3, 4, or 6
+Texture--loam or clay loam
+Clay content--18 to 30 percent
+Rock fragment content--60 to 80 percent total; 20 to 35 percent stones and cobbles; 35 to 45 percent pebbles
+Calcium carbonate equivalent--15 to 35 percent
+Reaction--pH 7.9 to 8.4
 
-Rock fragments:  15 to 35 percent--0 to 10 percent stones and cobbles; 15 to 25 percent pebbles
-
-Reaction:  pH 6.1 to 7.3
-
-
-Bt/E horizon - Hue:  5YR, 7.5YR, 10YR
-
-Value:  Bt part 4 or 5, E part 5, 6 or 7 dry; Bt part 3 or 4, E part 4 or 5 moist
-
-Chroma:  Bt part 2, 3, 4, or 6; E part 2 or 3
-
-Texture:  clay loam and silty clay loam (mixed)
-
-Clay content:  27 to 35 percent (mixed)
-
-Rock fragments:  15 to 50 percent--5 to 15 percent stones and cobbles; 10 to 35 percent pebbles
-
-Reaction:  pH 6.1 to 7.3
-
-
-Bt horizon - Hue:  2.5YR, 5YR, 7.5YR, 10YR
-
-Value:  4, 5 or 6 dry; 3, 4 or 5 moist
-
-Chroma:  2, 3, 4, or 6
-
-Texture:  clay loam, clay, or silty clay loam
-
-Clay content:  35 to 50 percent
-
-Rock fragments:  35 to 60 percent--5 to 20 percent stones and cobbles; 30 to 40 percent pebbles
-
-Reaction:  pH 6.1 to 7.8
-
-
-Btk horizon - Hue:  2.5YR, 5YR, 7.5YR, 10YR
-
-Value:  4, 5, 6, or 7 dry; 4, 5, or 6 moist
-
-Chroma:  2, 3, 4, or 6
-
-Texture:  clay loam, clay, or silty clay loam
-
-Clay content:  27 to 45 percent
-
-Rock fragments:  35 to 60 percent--10 to 20 percent stones and cobbles; 25 to 40 percent pebbles
-
-Calcium carbonate equivalent:  5 to 15 percent
-
-Reaction:  pH 7.4 to 8.4
-
-
-Bk1 horizon - Hue:  7.5YR, 10YR
-
-Value:  6 or 7 dry; 5 or 6 moist
-
-Chroma:  2, 3, 4, or 6
-
-Texture:  loam or clay loam
-
-Clay content:  18 to 30 percent
-
-Rock fragments:  40 to 75 percent--15 to 30 percent stones and cobbles; 25 to 45 percent pebbles
-
-Calcium carbonate equivalent:  15 to 35 percent
-
-Reaction:  pH 7.9 to 8.4
-
-
-Bk2 horizon - Hue:  7.5YR, 10YR
-
-Value:  6 or 7 dry; 5 or 6 moist
-
-Chroma:  2, 3, 4, or 6
-
-Texture:  loam or clay loam
-
-Clay content:  18 to 30 percent
-
-Rock fragments:  60 to 80 percent--20 to 35 percent stones and cobbles; 35 to 45 percent pebbles
-
-Calcium carbonate equivalent:  15 to 35 percent
-
-Reaction:  pH 7.9 to 8.4
-
-COMPETING SERIES:
-
-There are no competing series.
+COMPETING SERIES: There are no competing series.
 
 GEOGRAPHIC SETTING:
+Landform--mountains and hills
+Elevation--1400 to 2375 meters
+Slope--8 to 60 percent
+Parent material--colluvium and alluvium derived from limestone and calcareous argillite
+Climate--long, cold winters; moist springs; warm summers
+Mean annual precipitation--510 to 760 mm
+Mean annual air temperature--2 to 3 degrees C
+Frost-free period--30 to 70 days
 
-Landform - mountains; hills.
+GEOGRAPHICALLY ASSOCIATED SOILS: None listed
 
-Elevation - 4,600 to 7,800 feet.
-
-Slope - 8 to 60 percent.
-
-Parent material - colluvium and alluvium derived from limestone and calcareous argillite.
-
-Climate - long, cold winters; moist springs; warm summers.
-
-Mean annual precipitation - 20 to 30 inches.
-
-Mean annual air temperature - 35 to 38 degrees F.
-
-Frost-free period - 30 to 70 days.
-
-DRAINAGE AND PERMEABILITY:  Well drained; moderately slow permeability.
+DRAINAGE AND PERMEABILITY:  Well drained; moderately slow permeability
 
 USE AND VEGETATION:  Relyea soils are used for timber production, watershed, and wildlife.  The native vegetation is mainly Douglas fir, lodgepole pine, subalpine fir, pinegrass, heartleaf arnica, meadowrue, snowberry, spiraea, twinflower, elk sedge, blue huckleberry, and grouse whortleberry.
 
-DISTRIBUTION AND EXTENT:  Relyea soils are of moderate extent in western and southwestern Montana.
+DISTRIBUTION AND EXTENT:  Relyea soils are of moderate extent in western and southwestern Montana; MLRA 43B
 
-MLRA SOIL SURVEY REGIONAL OFFICE (MO) RESPONSIBLE:  Bozeman, Montana
+SOIL SURVEY REGIONAL OFFICE (SSRO) RESPONSIBLE:  Bozeman, Montana
 
-SERIES ESTABLISHED:  Powell County, Montana, 1994.
+SERIES ESTABLISHED:  Powell County, Montana, 1994
 
-REMARKS:  Soil interpretation record:  MT1243.  Diagnostic horizons and features recognized in this pedon are:  an ochric epipedon from the soil surface to 3 inches (E horizon); a glossic horizon from 3 to 6 inches (Bt/E horizon); an argillic horizon from 3 to 28 inches (Bt/E, Bt, Btk horizons); an accumulation of lime from 15 to 60 inches (Btk, Bk1, Bk2 horizons); a particle-size control section from 3 to 23 inches (Bt/E, Bt, Btk horizons).  Relyea soils have a cryic temperature regime and a udic moisture regime.
+REMARKS:  Diagnostic horizons and features recognized in this pedon are:  
+Ochric epipedon--5 to 13 cm (E horizon)
+Glossic horizon--13 to 21 cm (Bt/E horizon)
+Argillic horizon--13 to 77 cm (Bt/E, Bt, Btk horizons)
+Secondary calcium carbonate accumulation--44 to 158 cm (Btk, Bk1, Bk2 horizons)
+Particle-size control section--13 to 63 cm (Bt/E and Bt horizons, and part of the Btk horizon)
 
-ADDITIONAL DATA:  Laboratory Data S88MT-77-921
+Relyea soils have a cryic temperature regime and a udic soil moisture regime.  
+
+Converted to metric, updated formatting, and O horizons were updated to start at zero. 8/2022
+
+ADDITIONAL DATA:  Laboratory Data S88MT-77-921; Soil interpretation record:  MT1243  
 
 National Cooperative Soil Survey
 U.S.A.

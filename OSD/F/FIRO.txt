@@ -1,73 +1,83 @@
 LOCATION FIRO                   NM+UT
 
 Established Series
-Rev. REN/CLC/LWH
-02/1999
+Rev. REN/CLC/KLS
+08/2022
 
 FIRO SERIES
 
-The Firo series consists of very shallow and shallow, well drained soils that formed in alluvium and colluvium derived from igneous bedrock on mountain slopes.  Slopes are 12 to 60 percent. The mean annual precipitation is about 20 inches and the mean annual temperature is about 43 degrees F.
+The Firo series consists of very shallow and shallow, well drained soils that formed in alluvium and colluvium derived from igneous bedrock on mountain slopes.  Slopes are 12 to 60 percent. The mean annual precipitation is about 510 mm and the mean annual temperature is about 6 degrees C.
 
 TAXONOMIC CLASS: Loamy-skeletal, mixed, superactive, frigid Lithic Haplustolls
 
 TYPICAL PEDON: Firo very stony loam - rangeland. (Colors are for dry conditions unless otherwise noted.)
 
-    Oi -- 1 to 0 inches, undecomposed to partially decomposed leaves, needles, and woody twigs. (0.5 to 3 inches thick)
+    Oi--0 to 3 cm; undecomposed to partially decomposed leaves, needles, and woody twigs. (1 to 8 cm thick)
 
-    A -- 0 to 3 inches, very dark grayish brown (10YR 3/2) stony loam, very dark brown (10YR 2/2) moist; weak fine granular structure; slightly hard, very friable, slightly sticky and slightly plastic; many fine roots; common fine interstitial pores; 5 percent gravel, 10 percent cobble, and 10 percent stones; neutral; clear smooth boundary. (2 to 5 inches thick)
+    A--3 to 11 cm; very dark grayish brown (10YR 3/2) stony loam, very dark brown (10YR 2/2) moist; weak fine granular structure; slightly hard, very friable, slightly sticky and slightly plastic; many fine roots; common fine interstitial pores; 5 percent gravel, 10 percent cobble, and 10 percent stones; neutral; clear smooth boundary. (5 to 13 cm thick)
 
-    Bw -- 3 to 15 inches, dark grayish brown (10YR 4/2) very cobbly loam, very dark brown (10YR 2/2) moist; weak fine subangular blocky structure parting to weak fine granular; slightly hard, friable, slightly sticky and slightly plastic; common fine and medium roots; common fine interstitial pores; 5 percent gravel, 25 percent cobble and 15 percent stones; neutral; abrupt irregular boundary. (5 to 15 inches thick)
+    Bw--11 to 41 cm; dark grayish brown (10YR 4/2) very cobbly loam, very dark brown (10YR 2/2) moist; weak fine subangular blocky structure parting to weak fine granular; slightly hard, friable, slightly sticky and slightly plastic; common fine and medium roots; common fine interstitial pores; 5 percent gravel, 25 percent cobble and 15 percent stones; neutral; abrupt irregular boundary. (13 to 38 cm thick)
 
-    R -- 15 inches, acid igneous bedrock, somewhat weathered in the upper 2 inches (many feet thick)
+    R--41 cm inches; acid igneous bedrock, somewhat weathered in the upper 5 cm 
 
-TYPE LOCATION: Otero County, New Mexico; Mescalero-Apache area, 0.6 miles up Cienegita Canyon from Maple Dam on south-facing slope about 600 feet north of the road; NE corner of SW 1/4,of NE 1/4, of Sec. 35, T. 11 S., R. 11 E. 106 degrees, 45 minutes, 48 seconds west longitude; 33 degrees, 18 minutes, 43 seconds north latitude.
+TYPE LOCATION: Otero County, New Mexico; Mescalero-Apache area, about 965 meters up Cienegita Canyon from Maple Dam on south-facing slope about 185 meters north of the road; NE corner of SW 1/4,of NE 1/4, of Sec. 35, T. 11 S., R. 11 E.; Long. 106 degrees, 45 minutes, 48 seconds W; Lat. 33 degrees, 18 minutes, 43 seconds N.
 
 RANGE IN CHARACTERISTICS:
-Soil moisture: These soils are usually moist in the control section with the driest period occurring during April, May and June.
+Soil moisture--moist in the control section with the driest period occurring during April, May and June
+Mean annual soil temperature--4 to 8 degrees C
+Lithic Contact--15 to 50 cm
 
-Soil temperature: 39 degrees to 47 degrees F.
+Particle-size control section:
+Total rock fragment content--35 to 85 percent
+Organic matter--2 to 4 percent
+Reaction--pH 6.1 to 7.8
 
-Depth to bedrock: 7 to 20 inches.
+A horizon
+Hue--7.5YR or 10YR
+Value--3 through 5 dry and 2 or 3 moist
+Chroma--2 or 3
+Texture--sandy loam or loam
 
-Coarse fragment: 35 to 85 percent in the control section.
+Bw horizon
+Hue--7.5YR or 10YR
+Value--3 through 5 dry and 2 or 3 moist
+Chroma--2 or 3
+Clay content--18 to 35 percent
+Texture--loam or clay loam
+Some pedons are slightly calcareous in the lower part of the Bw horizon
 
-Reaction: slightly acid to mildly alkaline.
-
-Organic matter: 2 to 4 percent
-
-A horizon - Hue: 7.5YR or 10YR.
-Value: 3 through 5 dry and 2 or 3 moist.
-Chroma: 2 or 3.
-Texture:  very cobbly sandy loam, very stony loam and stony loam.
-
-Bw horizon - Hue: 7.5YR or 10YR.
-Value: 3 through 5 dry and 2 or 3 moist.
-Chroma: 2 or 3.
-Texture: Very cobbly loam or very cobbly clay loam with  18 to 35 percent clay. It may be slightly calcareous in the lower part.
-
-AC horizon is present in some pedons.
+An AC horizon may be present in some pedons.
 
 COMPETING SERIES:  There are the Boriana(AZ), Castner(MT), Cathedral(CO), Celeste(CO), Comodore(CO), Duffymont(CO)(T), Onaqui(UT)(T), Paunsaugunt(UT) and Pendant(CO) soils. Boriana, Cathedral, Comodore and Duffymont soils have fine earth matrix material that is coarse sandy loam, or loam with less than 18 percent clay.  Caster, Paunsaugunt and Pendant soils are calcareous throughout. Celeste soils have hue of 5YR or redder. Onaqui soils are moderately alkaline in the lower horizons and do not have O horizons.
 
-GEOGRAPHIC SETTING: The Firo soils are on mountain slopes and summits at elevations of 6,800 to 9,000 feet. They formed in material derived mostly from mixed fine grained acid igneous formations. Slopes are 12 to 60 percent.  The mean annual precipitation is 17 to 23 inches mostly as winter snows and late summer rains. The mean annual temperature is about 37 to 45 degrees F. The Thornthwaite P - E Index is about 30 to 50.  In Montana, elevation is as low as 4400 feet and precipitation is as low as 15 inches.
+GEOGRAPHIC SETTING:
+Landform--mountain slopes and summits
+Elevations--2075 to 2750 meters
+Parent material--mixed fine grained acid igneous formations
+Slope--12 to 60 percent
+Mean annual precipitation--430 to 580 mm, mostly as winter snows and late summer rains
+Mean annual air temperature--3 to 7 degrees C
+Thornthwaite P/E Index--30 to 50
+In Montana, elevation is as low as 1350 meters and precipitation is as low as 400 mm.
 
-GEOGRAPHICALLY ASSOCIATED SOILS: These are the Caballo, Hesperus, and Sieancia soils. Caballo and Sieancia soils have summer temperatures of less than 59 degrees F and have mollic epipedons thicker than 16 inches.  Hesperus soils have argillic horizons.
+GEOGRAPHICALLY ASSOCIATED SOILS: None listed
 
 DRAINAGE AND PERMEABILITY: Well drained; rapid runoff; moderate permeability.
 
 USE AND VEGETATION: Mostly for wildlife, native range, recreation, watershed and woodland. Principal native vegetation is mountain muhly, mountain brome, blue grama, white and Douglas fir.  In Montana, the native plant community consists of rough fescue, Idaho fescue, bluebunch wheatgrass, Columbia needlegrass, penstemon, and bitterbrush.
 
-DISTRIBUTION AND EXTENT: Mountainous areas of south central New Mexico.  The series is of moderate extent.
+DISTRIBUTION AND EXTENT: Firo soils are moderately extensive in the mountainous areas of southcentral and northcentral New Mexico and southcentral Utah; MLRAs 39, 48A, and 70B
 
-MLRA SOIL SURVEY REGIONAL OFFICE (MO) RESPONSIBLE: Bozeman, Montana
+SOIL SURVEY REGIONAL OFFICE (SSRO) RESPONSIBLE: Bozeman, Montana
 
-SERIES ESTABLISHED: Otero County (Mescalero Apache Area), New Mexico, 1970.
+SERIES ESTABLISHED: Otero County (Mescalero Apache Area), New Mexico, 1970
 
 REMARKS:  Diagnostic horizons and features recognized in this pedon are:
+Mollic epipedon--3 to 41 cm (A and Bw horizons)
+Lithic contact--41 cm (R horizon)
+Particle-size control section--25 to 41 cm (Bw horizon)
 
-Mollic epipedon - The zone from 0 to 15 inches.  ( A and Bw horizons)
-
-Lithic contact - Bedrock at 15 inches. (R Horizon).
+Converted to metric, updated formatting, and O horizons were updated to start at zero. 8/2022
 
 National Cooperative Soil Survey
 U.S.A.

@@ -1,74 +1,101 @@
-LOCATION KETCHUM                ID 
+LOCATION KETCHUM                ID
 
 Established Series
-Rev. WDH-MEJ-EMM
-03/2008
+Rev. WDH/MEJ/KLS
+08/2022
 
-KETCHUM SERIES 
+KETCHUM SERIES
 
-The Ketchum series consists of very deep, well drained soils that formed in colluvium from limestone, quartzitic sandstone and related rock. Ketchum soils are on mountains and have slopes of 20 to 75 percent. Permeability is moderately rapid.  The average annual precipitation is about 20 inches, and the average annual temperature is about 38 degrees F. 
+The Ketchum series consists of very deep, well drained soils that formed in colluvium from limestone, quartzitic sandstone and related rock. Ketchum soils are on mountains and have slopes of 20 to 75 percent. Permeability is moderately rapid.  The mean annual precipitation is about 510 mm, and the mean annual air temperature is about 3 degrees C. 
 
-TAXONOMIC CLASS: Loamy-skeletal, mixed, superactive Xeric Haplocryepts 
+TAXONOMIC CLASS: Loamy-skeletal, mixed, superactive Xeric Haplocryepts
 
-TYPICAL PEDON:  Ketchum very gravelly loam - on 45 percent north facing slope at an elevation of 7,000 feet in timber.  When described on October 3, 1978, the soil was slightly moist throughout.  (Colors are for dry soil unless otherwise noted.) 
+TYPICAL PEDON:  Ketchum very gravelly loam - on 45 percent north facing slope at an elevation of 2125 meters in timber.  When described on October 3, 1978, the soil was slightly moist throughout.  (Colors are for dry soil unless otherwise noted.) 
 
-    0i--2 to 1 inches; undecomposed forest litter. 
+    Oi--0 to 3 cm; undecomposed forest litter. 
 
-    0e--1 to 0 inches; slightly decomposed forest litter.  (Combined thickness of the 0 horizons is 0 to 3 inches thick.) 
+    Oe--3 to 6 cm; slightly decomposed forest litter.  (Combined thickness of O horizons - 0 to 8 cm) 
 
-    A1--0 to 3 inches; brown (10YR 5/3) very gravelly loam, very dark grayish brown (10YR 3/2) moist; weak fine granular structure; soft, very friable, slightly sticky and slightly plastic; many very fine, fine, medium and coarse roots; many very fine irregular pores; 40 percent gravel and 5 percent cobbles; neutral (pH 6.8); abrupt wavy boundary.  (3 to 8 inches thick.) 
+    A1--6 to 14 cm; brown (10YR 5/3) very gravelly loam, very dark grayish brown (10YR 3/2) moist; weak fine granular structure; soft, very friable, slightly sticky and slightly plastic; many very fine, fine, medium and coarse roots; many very fine irregular pores; 40 percent gravel and 5 percent cobbles; neutral (pH 6.8); abrupt wavy boundary. 
 
-    A2--3 to 11 inches; pale brown (10YR 6/3) very gravelly fine sandy loam, dark brown (10YR 4/3) moist; weak fine to medium granular structure; soft, very friable, slightly sticky and slightly plastic; many very fine, fine, medium and coarse roots; many very fine irregular pores; 35 percent gravel and 10 percent cobbles; neutral (pH 6.8); abrupt wavy boundary.  (6 to 9 inches thick) 
+    A2--14 to 34 cm; pale brown (10YR 6/3) very gravelly fine sandy loam, brown (10YR 4/3) moist; weak fine to medium granular structure; soft, very friable, slightly sticky and slightly plastic; many very fine, fine, medium and coarse roots; many very fine irregular pores; 35 percent gravel and 10 percent cobbles; neutral (pH 6.8); abrupt wavy boundary.  (Combined thickness of A horizons - 20 to 45 cm) 
 
-    Bw1--11 to 32 inches; light gray (10YR 7/2) very gravelly fine sandy loam, yellowish brown (10YR 5/4) moist; weak fine subangular blocky structure; soft, very friable, nonsticky and nonplastic; common very fine, fine, medium and coarse roots; common very fine tubular pores; 45 percent gravel and 10 percent cobbles; neutral (pH 7.0); gradual wavy boundary.  (7 to 21 inches thick.) 
+    Bw1--34 to 87 cm; light gray (10YR 7/2) very gravelly fine sandy loam, yellowish brown (10YR 5/4) moist; weak fine subangular blocky structure; soft, very friable, nonsticky and nonplastic; common very fine, fine, medium and coarse roots; common very fine tubular pores; 45 percent gravel and 10 percent cobbles; neutral (pH 7.0); gradual wavy boundary.  (18 to 50 cm thick) 
 
-    Bw2--32 to 42 inches; very pale brown (10YR 7/3), very gravelly sandy loam; brown (10YR 5/3) moist; weak fine subangular blocky structure; soft, very friable, nonsticky and nonplastic; common very fine, fine, medium and coarse roots; many very fine and fine tubular pores; 40 percent gravel and 10 percent cobbles; neutral (pH 7.0) clear wavy boundary.  (0 to 16 inches thick.) 
+    Bw2--87 to 112 cm; very pale brown (10YR 7/3), very gravelly sandy loam; brown (10YR 5/3) moist; weak fine subangular blocky structure; soft, very friable, nonsticky and nonplastic; common very fine, fine, medium and coarse roots; many very fine and fine tubular pores; 40 percent gravel and 10 percent cobbles; neutral (pH 7.0) clear wavy boundary.  (0 to 40 cm thick) 
 
-    BC--42 to 48 inches; light yellowish brown (10YR 6/4), very gravelly sandy loam; dark yellowish brown (10YR 4/4) moist; weak medium subangular blocky structure; soft, very friable, nonsticky and nonplastic; common very fine, fine, medium and coarse roots; many very fine and fine tubular pores; 50 percent gravel and 5 percent cobbles; neutral (pH 7.0); clear smooth boundary.  (6 to 32 inches thick.) 
+    BC--112 to 127 cm; light yellowish brown (10YR 6/4), very gravelly sandy loam; dark yellowish brown (10YR 4/4) moist; weak medium subangular blocky structure; soft, very friable, nonsticky and nonplastic; common very fine, fine, medium and coarse roots; many very fine and fine tubular pores; 50 percent gravel and 5 percent cobbles; neutral (pH 7.0); clear smooth boundary.  (15 to 80 cm thick) 
 
-    C--48 to 61 inches; light gray (10YR 7/2) extremely gravelly coarse sandy loam, brown (10YR 5/3) moist; single grain; loose; many very fine, fine, medium and coarse roots; 75 percent gravel and 10 percent cobbles; neutral (pH 7.0). 
+    C--127 to 160 cm; light gray (10YR 7/2) extremely gravelly coarse sandy loam, brown (10YR 5/3) moist; single grain; loose; many very fine, fine, medium and coarse roots; 75 percent gravel and 10 percent cobbles; neutral (pH 7.0). 
 
-TYPE LOCATION:  Blaine County, Idaho about 4 miles east and 3 miles north of Hailey; 1,400 feet south and 100 feet west of the northeast corner of sec. 19, T.3 N., R.19 E.  Latitude 43 degrees, 34 minutes, and 45 seconds north; Longitude 114 degrees, 13 minutes, and 46 seconds west. 
+TYPE LOCATION:  Blaine County, Idaho about 6 km east and 5 km north of Hailey; about 430 meters south and 30 meters west of the northeast corner of sec. 19, T.3 N., R.19 E.; Lat. 43 degrees, 34 minutes, and 45 seconds N; Long. 114 degrees, 13 minutes, and 46 seconds W. 
 
 RANGE IN CHARACTERISTICS: 
+Depth to quartzitic sandstone--more than 150 cm
+Mean annual soil temperature--3 to 6 degrees C
+Mean summer soil temperature--12 to 15 degrees C
+Clay content--10 to 20 percent 
+Base saturation by ammonium acetate--60 to 75 percent in some subhorizon within a depth of 75 cm 
 
-Depth to quartzitic sandstone - more than 60 inches Average annual soil temperature - 38 to 42 degrees F. Average summer soil temperature - 54 to 59 degrees F. without an O horizon Percent clay, particle-size control section - 10 to 20 percent Base saturation by ammonium acetate - 60 to 75 percent in some subhorizon within a depth of 75 cm 
+A horizon
+Value--4 to 6 dry and 2 to 4 moist
+Chroma--2 or 3 
+Reaction--pH 5.6 to 6.8
 
-A horizon Value, dry - 4 through 6 Value, moist - 2 through 4 Chroma, moist or dry - 2 or 3 Reaction - moderately acid to neutral 
+Bw horizon
+Hue--2.5Y or 10YR 
+Value--6 to 7 dry and 4 to 5 moist
+Chroma--2 to 4 
+Texture--loam, sandy loam, or fine sandy loam 
+Rock fragment content--35 to 60 percent 
+Reaction--pH 6.1 to 7.0 
 
-Bw horizon Hue 2.5Y or 10YR Value, dry - 6 or 7 Value, moist - 4 or 5 Chroma, moist or dry - 2 through 4 Texture - GRV-L, GRV-SL, or GRV-FSL Rock fragments - 35 to 60 percent Reaction - slightly acid or neutral 
+BC horizon
+Hue--2.5Y or 10YR 
+Texture--sandy loam, fine sandy loam, or loam
+Rock fragment content--35 to 60 percent
+Reaction--pH 6.1 to 7.0
 
-BC horizon Hue - 2.5Y or 10YR Texture - GRV-SL, GRV-FSL, or GRV-L Rock fragments - 35 to 60 percent Reaction - slightly acid or neutral 
+C horizon
+Value--6 to 7 dry and 4 to 5 moist
+Chroma--2 to 3 moist and dry
+Texture--fine sandy loam or loamy coarse sand
+Rock fragment content--60 to 80 percent
+Reaction--pH 6.1 to 7.8 
 
-C horizon Color value, dry - 6 or 7 Value, moist - 4 or 5 Chroma, moist or dry - 2 or 3 Texture - GRX-FSL or GRX-COSL Rock fragments - 60 to 80 percent Reaction - slightly acid to slightly alkaline 
+COMPETING SERIES:  These are the Longhike (T) and Muiral series. Longhike soils are 75 to 100 cm to a paralithic contact. Muiral soils are moderately deep to bedrock.
 
-COMPETING SERIES:  These are the Longhike (T) and Muiral series. Longhike soils are 30 to 40 inches to a paralithic contact. Muiral soils are moderately deep to bedrock.
+GEOGRAPHIC SETTING:  
+Landform--north and east-facing mountains
+Elevation--1825 to 2725 meters
+Slope--20 to 75 percent
+Parent material--colluvium from limestone, quartzitic sandstone and related rock
+Mean annual precipitation--460 to 610 mm, most of which falls as snow and early spring rains 
+Mean annual air temperature--2 to 4 degrees C
+Frost-free season--less than 60 days
 
-GEOGRAPHIC SETTING:  Ketchum soils are on north and east-facing mountains.  Slopes range from 20 to 75 percent.  Elevation ranges from 6,000 to 8,900 feet.  The soil formed in colluvium from limestone, quartzitic sandstone and related rock.  The average annual precipitation is 18 to 24 inches, most of which falls as snow and early spring rains. The average annual air temperature is about 36 to 40 degrees F.  The frost-free season is less than 60 days. 
-
-GEOGRAPHICALLY ASSOCIATED SOILS:  These are the Dollarhide, Milligan, Povey, and Vitale soils.  Dollarhide soils have bedrock at less than 20 inches.  Milligan, Povey, and Vitale soils have mollic epipedons. Milligan and Vitale soils are on south and west-facing slopes. Dollarhide soils are on ridgetops and Povey soils are on the same landscape as Ketchum soils. 
+GEOGRAPHICALLY ASSOCIATED SOILS:  None listed
 
 DRAINAGE AND PERMEABILITY:  Well drained; rapid to very rapid runoff; moderately rapid permeability. 
 
 USE AND VEGETATION:  Mainly used for range and timber.  Vegetation is Douglas-fir with an understory of mountain snowberry, pine reedgrass, elk sedge and ninebark. 
 
-DISTRIBUTION AND EXTENT:  South-central Idaho.  This series is inextensive. 
+DISTRIBUTION AND EXTENT:  Ketchum soils are extensive in southcentral Idaho; MLRAs 12 and 43B  
 
-MLRA SOIL SURVEY REGIONAL OFFICE (MO) RESPONSIBLE: Bozeman, Montana
+SOIL SURVEY REGIONAL OFFICE (SSRO) RESPONSIBLE: Bozeman, Montana
 
-SERIES ESTABLISHED:  Blaine County, Idaho, 1985. 
+SERIES ESTABLISHED:  Blaine County, Idaho, 1985 
 
 REMARKS:   Diagnostic horizons and features recognized in this pedon are: 
+Ochric epipedon-6 to 34 cm (A1 and A2 horizons) 
+Cambic horizon--34 to 112 cm (Bw1 and Bw2 horizons)
+Particle-size control section--25 to 100 cm (part of the A2 horizon, all of the Bw1 horizon, and part of the Bw2 horizon) 
 
-Ochric epipedon - occurs from the soil surface to 11 inches (A1 and A2 hrozions) 
-
-Cambic horizon - occurs from 11 to 42 inches (Bw1 and Bw2 horizons). 
-
-Xeric soil moisture regime.
-
-Particle-size control section - zone from 10 to 40 inches (part of the A2, the Bw1 and part of the Bw2 horizons) 
+Ketchum soils have a cryic temperature regime and a xeric soil moisture regime.
 
 The 3/2008 description reflects a change in classification from Loamy-skeletal, mixed, superactive Xeric Eutrocryepts to Loamy-skeletal, mixed, superactive Xeric Haplocryepts due to revision of the cryepts great groups and subgroups. The competing series section was not updated and should be reviewed after all the cryepts have been re-classified.
+
+Converted to metric, updated formatting, and O horizons were updated to start at zero. 8/2022
 
 National Cooperative Soil Survey
 U.S.A.

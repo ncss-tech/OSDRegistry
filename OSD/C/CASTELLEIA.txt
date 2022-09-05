@@ -1,64 +1,90 @@
 LOCATION CASTELLEIA             CO
 
 Established Series
-Rev. RFB/RHM
-02/1999
+Rev. RFB/RHM/KLS
+08/2022
 
 CASTELLEIA SERIES
 
-The Castelleia series consists of well drained soils formed in thick noncalcareous, stony medium to moderately fine materials weathered locally from quartz, latite, or similar rocks.  Castelleia soils are on gently to moderately steeply sloping alluvial fans or hillsides.  Slopes range from 2 to 30 percent.  The mean annual precipitation is about 25 inches and the mean annual temperature is about 38 degrees F.  Typically, Castelleia soils have very dark brown, very friable, granular A1 horizons, dark grayish brown A2 horizons, grayish brown transitional A&B horizons having subangular blocky structure, and dark brown clay loam B2t horizons.
+The Castelleia series consists of well drained soils formed in thick noncalcareous, stony medium to moderately fine materials weathered locally from quartz, latite, or similar rocks.  Castelleia soils are on gently to moderately steeply sloping alluvial fans or hillsides. Slopes range from 2 to 30 percent.  The mean annual precipitation is about 640 mm and the mean annual air temperature is about 3 degrees C.  
 
 TAXONOMIC CLASS: Fine-loamy, mixed, superactive Typic Haplocryalfs
 
 TYPICAL PEDON:  Castelleia loam - forest.  (Colors are for dry soil unless otherwise noted.)
 
-   01--3 to 1 inch; recent forest litter.
+   Oi--0 to 5 cm; recent forest litter.
 
-   02--1 to 0 inch; decomposed humus layer (01 and 02 horizons range from 2 to 4 inches thick.)
+   Oe--5 to 8 cm; decomposed humus layer. (Combined thickness of O horizons - 5 to 10 cm)
 
-   A1--0 to 4 inches; very dark brown (10YR 2/2) loam; moderate medium granular structure; soft, very friable, slightly sticky, nonplastic; common roots; 5 percent gravel; strongly acid; clear wavy boundary.  (1 to 5 inches thick)
+   A1--8 to 18 cm; very dark brown (10YR 2/2) loam; moderate medium granular structure; soft, very friable, slightly sticky, nonplastic; common roots; 5 percent gravel; strongly acid; clear wavy boundary.  (3 to 13 cm thick)
 
-   A2--4 to 10 inches; dark grayish brown (10YR 4/2) loam; moderate fine and medium subangular blocky structure; soft, very friable, slightly sticky, nonplastic; common roots; 5 percent gravel; strongly acid; gradual wavy boundary.  (5 to 10 inches thick)
+   A2--18 to 33 cm; dark grayish brown (10YR 4/2) loam; moderate fine and medium subangular blocky structure; soft, very friable, slightly sticky, nonplastic; common roots; 5 percent gravel; strongly acid; gradual wavy boundary.  (13 to 25 cm thick)
 
-   A&B--10 to 19 inches; grayish brown (10YR 5/2) loam; moderate medium subangular blocky structure; slightly hard, friable, slightly sticky, nonplastic; many fine pores; thin patchy clay films on peds and in pores; common roots; 5 percent gravel; strongly acid; gradual wavy boundary.  (6 to 12 inches thick)
+   AB--33 to 56 cm; grayish brown (10YR 5/2) loam; moderate medium subangular blocky structure; slightly hard, friable, slightly sticky, nonplastic; many fine pores; thin patchy clay films on peds and in pores; common roots; 5 percent gravel; strongly acid; gradual wavy boundary.  (15 to 30 cm thick)
 
-   B2t--19 to 26 inches; dark brown (10YR 5/2) clay loam; moderate medium subangular blocky structure; slightly hard, firm, slightly sticky, slightly plastic; few pores; distinct patchy clay films on peds and in pores; 5 percent gravel; strongly acid; gradual wavy boundary.  (6 to 10 inches thick)
+   Bt--56 to 74 cm; grayish brown (10YR 5/2) clay loam; moderate medium subangular blocky structure; slightly hard, firm, slightly sticky, slightly plastic; few pores; distinct patchy clay films on peds and in pores; 5 percent gravel; strongly acid; gradual wavy boundary.  (15 to 25 cm thick)
 
-   C1--26 to 32 inches; brown (10YR 5/3) moist; very stony sandy clay loam; massive; very hard, very firm, slightly sticky, slightly plastic; few roots; 40 percent stones, 15 percent gravel; medium acid; gradual wavy boundary.  (6 to 24 inches thick)
+   C--74 to 89 cm; brown (10YR 5/3) moist; very stony sandy clay loam; massive; very hard, very firm, slightly sticky, slightly plastic; few roots; 40 percent stones, 15 percent gravel; moderately acid; gradual wavy boundary.  (15 to 60 cm thick)
 
-   IIC2--32 to 120 inches; brown (10YR 5/3) extremely stony light clay loam, dark brown (10YR 4/3) moist; massive; hard, friable, slightly sticky, slightly plastic; 65 percent stones; 15 percent gravel; medium acid; clear smooth boundary.
+   2C1--89 to 313 cm; brown (10YR 5/3) extremely stony light clay loam, brown (10YR 4/3) moist; massive; hard, friable, slightly sticky, slightly plastic; 65 percent stones; 15 percent gravel; moderately acid; clear smooth boundary.
 
-   IIC3--102 inches; shale.
+   2C2--313 cm; shale.
 
 TYPE LOCATION:  Archuleta County, Colorado; S 1/2 of Sec. 35, T. 34 N., R. 1 E.
 
-RANGE IN CHARACTERISTICS:  Rock fragments range from 0 to 35 percent in a major part of the solum but increase to more than 35 percent below the solum.
+RANGE IN CHARACTERISTICS:  
+Rock fragment content--0 to 35 percent in a major part of the solum but increasing to more than 35 percent below the solum
 
-The A1 horizon has hue of 2.5Y through 7.5YR, value of 3 through 7 dry, 2 through 6 moist, and chroma of 1 through 4.  It is medium acid or strongly acid.
+A1 horizon
+Hue--2.5Y through 7.5YR
+Value--3 through 7 dry, 2 through 6 moist
+Chroma--1 through 4
+Reaction--pH 5.1 to 6.0
 
-The A2 horizon has hue of 2.5Y through 7.5YR, value of 5 through 7 dry, 4 through 6 moist, and chroma of 1 through 6.  It is medium acid or strongly acid.
+A2 horizon
+Hue--2.5Y through 7.5YR
+Value--5 through 7 dry, 4 through 6 moist
+Chroma--1 through 6
+Reaction-- pH 5.1 to 6.0
 
-The B2t horizon has hue of 2.5Y through 7.5YR, value of 5 through 7 dry, 4 through 6 moist, and chroma of 1 through 6.  It is loam or clay loam with 18 to 35 percent clay.  This horizon is slightly acid or medium acid.
+Bt horizon
+Hue--2.5Y through 7.5YR
+Value--5 through 7 dry, 4 through 6 moist
+Chroma--1 through 6
+Texture--loam or clay loam
+Clay Content--18 to 35 percent
+Reaction--pH 5.6 to 6.5
 
-The C horizon has hue of 2.5Y through 7.5YR.  It is loam, clay loam, or sandy clay loam with 18 to 35 percent clay.  This horizon is slightly acid or medium acid.
+C horizon(s)
+Hue--2.5Y through 7.5YR
+Texture--loam, clay loam, or sandy clay loam
+Clay Content--18 to 35 percent
+Reaction--pH 5.6 to 6.5
 
-COMPETING SERIES:  These are the Ansel, Edloe, Grimstone, Hierro, Indart, Jacquette, Lick, Limber, Peeler, Perceton, Polvadera, Sapphire, Schofield, Shule, Swapps, Swifton, Tahoma, Tongue River, Trapper, Uinta, Whitefish, and Woodrock series.  Ansel, Jacquette, Peeler, and Swifton soils have less than 35 percent rock fragments in any part of the upper 40 inches of the profile.  Ansel and Lick soils lack A&B horizons more than 3 inches thick.  Jacquette soils have sola thicker than 55 inches.  Edloe, Limber, Sapphire, Schofield, Shule, Swapps, and Woodrock soils have a lithic contact at depths of less than 40 inches.  Grimstone, Indart, Perceton, Polvadera, and Tongue River soils have a paralithic contact at depths of less than 40 inches.  Hierro and Uinta soils have hue of 5YR or redder.  Tahoma soils lack A2 and A&B horizons, and have B2t horizons thicker than 25 inches.  Trapper and Whitefish soils are calcareous above depth of 40 inches.
+COMPETING SERIES:  These are the Ansel, Edloe, Grimstone, Hierro, Indart, Jacquette, Lick, Limber, Peeler, Perceton, Polvadera, Sapphire, Schofield, Shule, Swapps, Swifton, Tahoma, Tongue River, Trapper, Uinta, Whitefish, and Woodrock series.  Ansel, Jacquette, Peeler, and Swifton soils have less than 35 percent rock fragments in any part of the upper 100 cm of the profile.  Ansel and Lick soils lack AB horizons more than 8 cm thick.  Jacquette soils have sola thicker than 140 cm.  Edloe, Limber, Sapphire, Schofield, Shule, Swapps, and Woodrock soils have a lithic contact at depths of less than 100 cm.  Grimstone, Indart, Perceton, Polvadera, and Tongue River soils have a paralithic contact at depths of less than 100 cm.  Hierro and Uinta soils have hue of 5YR or redder.  Tahoma soils lack A2 and AB horizons, and have Bt horizons thicker than 60 cm.  Trapper and Whitefish soils are calcareous above depth of 100 cm.
 
-GEOGRAPHIC SETTING:  The Castelleia soils are on gently to moderately steeply sloping alluvial fans or hillsides.  Slopes usually range from about 2 to 30 percent.  These soils formed in thick, noncalcareous, stony medium to moderately fine materials weathered locally from quartz, latite, or similar rocks.  At the type location the mean annual precipitation is about 25 inches.  Mean annual temperature is 38 degrees F., mean summer temperature is 54 degrees F.
+GEOGRAPHIC SETTING:  
+Landform--alluvial fans or hillsides
+Elevation--2300 to 3200 meters
+Slope--2 to 30 percent
+Parent material--thick, noncalcareous, stony medium to moderately fine materials weathered locally from quartz, latite, or similar rocks
+Mean annual precipitation--640 mm
+Mean annual air temperature--3 degrees C
+Mean summer temperature--12 degrees C
 
-GEOGRAPHICALLY ASSOCIATED SOILS:  These are the Muggins soils.  Muggins soils are fine textured.
+GEOGRAPHICALLY ASSOCIATED SOILS:  None listed
 
-DRAINAGE AND PERMEABILITY:  Well drained; medium runoff; moderate permeability.
+DRAINAGE AND PERMEABILITY:  Well drained; medium runoff; moderate permeability
 
 USE AND VEGETATION:  The soils are used for timber production, wildlife habitat, and watershed area.  Principal native plants are aspen, white fir, and snowberry.
 
-DISTRIBUTION AND EXTENT:  South-central Colorado.  This series is of moderate extent.
+DISTRIBUTION AND EXTENT:  Castelleia soils are moderately extensive in south-central Colorado; MLRA 48A
 
-MLRA SOIL SURVEY REGIONAL OFFICE (MO) RESPONSIBLE: Bozeman, Montana
+SOIL SURVEY REGIONAL OFFICE (SSRO) RESPONSIBLE: Bozeman, Montana
 
-SERIES ESTABLISHED:  Archuleta County (Piedra Area), Colorado, 1974.
+SERIES ESTABLISHED:  Archuleta County (Piedra Area), Colorado, 1974
 
-REMARKS:  Last updated by the state 5/74.
+REMARKS:  Converted to metric, updated formatting, and O horizons were updated to start at zero. 8/2022
 
 National Cooperative Soil Survey
 U.S.A.

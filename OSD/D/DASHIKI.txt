@@ -1,116 +1,118 @@
-LOCATION DASHIKI                ID
+LOCATION DASHIKI                ID+WY
 
 Established Series
-Rev. JD/JAL
-10/97
+Rev. JD/JAL/KLS
+08/2022
 
 DASHIKI SERIES
 
-The Dashiki series consists of very deep and well drained soils on volcanic plateaus. Slopes are 2 to 12 percent. These soils formed in a mantel of local alluvium derived from tephra and loess over tephra. Dashiki soils have moderately rapid permeability in the upper part and very rapid permeability in the lower part. The average annual precipitation is about 50 inches. Average annual air temperature is about 34 degrees F.
+The Dashiki series consists of very deep and well drained soils on undulating to rolling areas of volcanic plateaus and formed in a mantel of local alluvium derived from tephra and loess over tephra. Slopes are 2 to 12 percent. Dashiki soils have moderately rapid permeability in the upper part and very rapid permeability in the lower part. The mean annual precipitation is about 1300 mm and the mean annual air temperature is about 1 degrees C.
 
 TAXONOMIC CLASS: Ashy, glassy Typic Vitricryands
 
-TYPICAL PEDON: Dashiki silt loam, supporting a lodgepole pine/grouse whortleberry plant community type, woodland; on a slope of 4 percent with a north aspect at 7,820 feet elevation. (Colors are for air dry soil unless otherwise noted.)
+TYPICAL PEDON: Dashiki silt loam, supporting a lodgepole pine/grouse whortleberry plant community type, woodland; on a slope of 4 percent with a north aspect at 2375 meters elevation. (Colors are for air dry soil unless otherwise noted.)
 
-Oi--1 to 0 inches; forest litter of needles, twigs and leaves; abrupt smooth boundary. (1/2 to 2 inches thick)
+    Oi--0 to 3 cm; forest litter of needles, twigs and leaves; abrupt smooth boundary. (1 to 5 cm thick)
 
-    A1--0 to 3 inches; dark grayish brown (10YR 4/2) silt loam, very dark brown (10YR 2/2) moist; moderate very fine granular structure; soft, very friable, nonsticky and slightly plastic; many very fine and fine roots; many very fine irregular pores; trace pebbles and cobbles; strongly acid (pH 5.5); abrupt smooth boundary.
+    A1--3 to 11 cm; dark grayish brown (10YR 4/2) silt loam, very dark brown (10YR 2/2) moist; moderate very fine granular structure; soft, very friable, nonsticky and slightly plastic; many very fine and fine roots; many very fine irregular pores; trace pebbles and cobbles; strongly acid (pH 5.5); abrupt smooth boundary.
 
-    A2--3 to 9 inches; brown (10YR 5/3) silt loam, dark brown (10YR 3/3) moist; moderate fine granular structure; soft, very friable, nonsticky and slightly plastic; many very fine and fine and common coarse and medium roots; many very fine irregular pores; 5 percent pebbles and a trace cobbles; moderately acid (pH 5.7); gradual smooth boundary. (Combined thickness of the A horizons is 3 to 10 inches)
+    A2--11 to 26 cm; brown (10YR 5/3) silt loam, dark brown (10YR 3/3) moist; moderate fine granular structure; soft, very friable, nonsticky and slightly plastic; many very fine and fine and common coarse and medium roots; many very fine irregular pores; 5 percent pebbles and a trace cobbles; moderately acid (pH 5.7); gradual smooth boundary. (Combined thickness of the A horizons - 8 to 25 cm)
 
-    Bw--9 to 31 inches; light yellowish brown (10YR 6/4) gravelly silt loam, dark yellowish brown (10YR 4/4) moist; moderate coarse subangular blocky structure; slightly hard, very friable, nonsticky and slightly plastic; common very fine and fine roots; many very fine and few fine tubular pores; 15 percent pebbles and a trace of cobbles; moderately acid (pH 5.9); clear wavy boundary. (18 to 33 inches thick)
+    Bw--26 to 82 cm; light yellowish brown (10YR 6/4) gravelly silt loam, dark yellowish brown (10YR 4/4) moist; moderate coarse subangular blocky structure; slightly hard, very friable, nonsticky and slightly plastic; common very fine and fine roots; many very fine and few fine tubular pores; 15 percent pebbles and a trace of cobbles; moderately acid (pH 5.9); clear wavy boundary. (45 to 85 cm thick)
 
-    2BC--31 to 37 inches; light brownish gray (10YR 6/2) gravelly loamy coarse sand, grayish brown (10YR 5/2) moist; massive; slightly hard, very friable, slightly sticky and nonplastic; few very fine roots; many fine irregular pores; 30 percent pebbles, trace cobbles and stones; slightly acid (pH 6.5); clear irregular boundary. (0 to 10 inches thick)
+    2BC--82 to 97 cm; light brownish gray (10YR 6/2) gravelly loamy coarse sand, grayish brown (10YR 5/2) moist; massive; slightly hard, very friable, slightly sticky and nonplastic; few very fine roots; many fine irregular pores; 30 percent pebbles, trace cobbles and stones; slightly acid (pH 6.5); clear irregular boundary. (0 to 25 cm thick)
 
-    2C--37 to 75 inches; variegated stratified gravelly coarse sand to extremely gravelly coarse sand; single grain; loose; many fine and medium irregular pores; 20 to 80 percent pebbles, 10 percent cobbles, trace stones; slightly acid (pH 6.5).
+    2C--97 to 194 cm; variegated stratified gravelly coarse sand to extremely gravelly coarse sand; single grain; loose; many fine and medium irregular pores; 20 to 80 percent pebbles, 10 percent cobbles, trace stones; slightly acid (pH 6.5).
 
-TYPE LOCATION: Fremont County, Idaho; about 23 miles northeast of Ashton, Idaho; about 600 feet east and 200 feet north of the southwest corner of section 33, T. 12 N., R, 45 E.; Latitude - 44 degrees, 19 minutes, 12 seconds North; Longitude - 111 degrees, 8 minutes, 36 seconds West.
+TYPE LOCATION: Fremont County, Idaho; about 37 km northeast of Ashton, Idaho; about 185 meters east and 60 meters north of the southwest corner of section 33, T. 12 N., R, 45 E.; Lat. 44 degrees, 19 minutes, 12 seconds N; Long. 111 degrees, 8 minutes, 36 seconds W.
 
 RANGE IN CHARACTERISTICS:
+Mean annual soil temperature--1 to 4 degrees C
+Mean summer soil temperature--4 to 7 degrees C
+Moisture control section--between 30 and 90 cm. The soil is dry in all parts of the moisture control section for less than 30 consecutive days during the four months following the summer solstice.
+Thickness of ochric epipedon--8 to 25 cm 
+Depth of solum--75 to 100 cm
+Depth to lithologic discontinuity--70 to 100 cm
+Thickness of andic soil properties--71 to 89 cm
+Base saturation by ammonium acetate--less than 20 percent
+Rock fragments--dominantly obsidian lithology
 
-Ochric epipedon thickness - 3 to 10 inches 
-Depth of solum - 30 to 40 inches
-Depth to lithologic discontinuity - 28 to 40 inches Thickness of andic soil properties - 28 to 35 inches
-Base saturation by ammonium acetate - less than 20 percent
-Mean annual soil temperature - 34 to 39 degrees F.
-Mean summer soil temperature - 39 to 44 degrees F.
-Moisture control section - between 12 and 36 inches. The soil is dry in all parts of the moisture control section for less than 30 consecutive days during the four months following the summer solstice.
+O horizon
+Form--commonly forest litter of needles, twigs and leaves on lightly or undisturbed pedons
+On pedons where recent, heavy mechanical disturbance has occurred a root mat of elk sedge is common.
 
-O horizon - Form: commonly forest litter of needles, twigs and leaves on lightly or undisturbed pedons. On pedons where recent, heavy mechanical disturbance has occurred a root mat of elk sedge is common.
+A horizons
+Value--4 or 5 dry, 2 or 3 moist 
+Chroma--2 to 4 dry or moist 
+Acid oxalate extractable Al plus 1/2 Fe--0.4 to 1.5 percent 
+Bulk density--0.90 to 1.10 g/cc
+Phosphate retention--40 to 70 percent 
+15-bar water retention on air dried samples--4 to 10 percent
+Volcanic glass content--30 to 75 percent in the 0.02 to 2.0 mm size fraction
+Reaction--pH 5.1 to 6.0
 
-A horizons - Value: 4 or 5 dry, 2 or 3 moist 
-Chroma: 2 to 4 dry or moist 
-Acid oxalate extractable Al plus 1/2 Fe: 0.4 to 1.5 percent 
-Bulk density: 0.90 to 1.10 grams per cubic centimeter 
-Phosphate retention: 40 to 70 percent 
-15-bar water retention on air dried samples: 4 to 10 percent
-Volcanic glass content: 30 to 75 percent in the 0.02 to 2.0 mm size fraction
-Reaction: strongly acid or moderately acid (pH 5.1 to 6.0)
+Bw horizon
+Value--5 or 6 dry, 3 or 4 moist 
+Chroma--3 to 6 dry or moist
+Texture--loam, silt loam 
+Rock fragment content--5 to 35 percent total; pebbles--5 to 30 percent; cobbles--0 to 5 percent; stones or boulders--0 to 5 percent
+Acid oxalate extractable Al plus 1/2 Fe--0.4 to 1.5 percent 
+Bulk density--1.10 to 1.30 g/cc
+Phosphate retention--40 to 70 percent 
+15-bar water retention on air dried samples--4 to 10 percent
+Volcanic glass content--30 to 75 percent in the 0.02 to 2.0 mm size fraction
+Reaction--pH 5.1 to 6.0
 
-Bw horizon - Value: 5 or 6 dry, 3 or 4 moist 
-Chroma: 3 to 6 dry or moist
-Texture, less than 2 mm fraction: loam, silt loam 
-Rock fragment content: 5 to 35 percent
-Pebbles: 5 to 30 percent 
-Cobbles: 0 to 5 percent 
-Stones or boulders: 0 to 5 percent
-Reaction: strongly acid or moderately acid (pH 5.1 to 6.0)
-Acid oxalate extractable Al plus 1/2 Fe: 0.4 to 1.5 percent 
-Bulk density: 1.10 to 1.30 grams per cubic centimeter 
-Phosphate retention: 40 to 70 percent 
-15-bar water retention on air dried samples: 4 to 10 percent
-Volcanic glass content: 30 to 75 percent in the 0.02 to 2.0 mm size fraction
-
-2BC horizon - Hue: variegatd, 2.5Y or 10YR 
-Value: 6 or 7 dry, 5 or 6 moist 
-Chroma: 2 or 3 dry or moist 
-Rock fragment content: 15 to 60 percent
-Pebbles: 15 to 50 percent 
-Cobbles: 0 to 5 percent 
-Stones or boulders: 0 to 5 percent
-Reaction: moderately to slightly acid (pH 5.1 to 6.0)
-Acid oxalate extractable Al plus 1/2 Fe: less than 0.4 percent
-Bulk density: 1.4 to 1.6 grams per cubic centimeter 
-Phosphate retention: 35 to 60 percent 
-Volcanic glass content: greater than 50 percent in the 0.02 to 2.0 mm size fraction
+2BC horizon (when present)
+Hue--variegated, 2.5Y or 10YR 
+Value--6 or 7 dry, 5 or 6 moist 
+Chroma--2 or 3 dry or moist 
+Rock fragment content--15 to 60 percent total; pebbles--15 to 50 percent; cobbles--0 to 5 percent; stones or boulders--0 to 5 percent
+Acid oxalate extractable Al plus 1/2 Fe--less than 0.4 percent
+Bulk density--1.4 to 1.6 g/cc  
+Phosphate retention--35 to 60 percent 
+Volcanic glass content--greater than 50 percent in the 0.02 to 2.0 mm size fraction
+Reaction--pH 5.1 to 6.0
 
 2C horizon
-Rock fragment contnet: 15 to 90 percent
-Pebbles: 10 to 90 percent 
-Cobbles: 0 to 10 percent 
-Stones or boulders: 0 to 5 percent 
-Reaction: moderately to slightly acid (pH 5.6 to 6.5)
-Acid oxalate extractable Al plus 1/2 Fe: less than 0.4 percent
-Bulk density: 1.4 to 1.6 grams per cubic centimeter 
-Volcanic glass content: greater than 85 percent in the 0.02 to 2.0 mm size fraction
+Rock fragment content--15 to 90 percent total; pebbles--10 to 90 percent; cobbles--0 to 10 percent; stones or boulders--0 to 5 percent 
+Acid oxalate extractable Al plus 1/2 Fe--less than 0.4 percent
+Bulk density--1.4 to 1.6 g/cc  
+Volcanic glass content--greater than 85 percent in the 0.02 to 2.0 mm size fraction
+Reaction--pH 5.6 to 6.5
 
 COMPETING SERIES: These are the Belrick, Linksterly and Millerpoint series. Belrick soils have 75 to 85 percent volcanic glass and 70 to 90 percent phosphate retention in the zone of andic soil properties. Linksterly soils have umbric epipedons and lack cambic horizons. Millerpoint soils have less than 30 percent volcanic glass and bulk density of .65 to .85 g/cc.
 
-GEOGRAPHIC SETTING: The Dashiki soils are on volcanic plateaus. Slopes are undulating to rolling and range from 2 to 12 percent. The soil formed in a thick mantle of local alluvium derived from tephra and loess over tephra. The rock fragments and size component and rock fragments are dominantly obsidian. Elevations range from 7,200 to 8,300 feet. The average annual precipitation ranges from 35 to 65 inches. Mean annual air temperature is 32 to 37 degrees F. Frost may occur at anytime throughout the year.
+GEOGRAPHIC SETTING: 
+Landform--volcanic plateaus
+Elevation--2200 to 2525 meters
+Slopes--2 to 12 percent
+Parent material--local alluvium derived from tephra and loess over tephra
+Mean annual precipitation--890 to 1700 mm
+Mean annual air temperature--0 to 3 degrees C
+Frost free period--frost may occur at any time throughout the year
 
-GEOGRAPHICALLY ASSOCIATED SOILS: These are the proposed Lasac and Oleo series. Lasac soils occur on knolls intermixed with the Dashiki soils and on adjacent plateau escarpments. They are less than 20 inches deep over substratum layers of tephra. Oleo soils occur on adjacent plateaus and have umbric epipedons and argillic horizons.
+GEOGRAPHICALLY ASSOCIATED SOILS: None listed
 
 DRAINAGE AND PERMEABILITY: Well drained; slow to moderate runoff; moderately rapid permeability in the upper part and very rapid permeability in the lower part.
 
 USE AND VEGETATION: Dashiki soils are used for recreation, woodland and wildlife habitat. These soils commonly support a lodgepole pine/grouse whortleberry community type. Recent clearcut areas of these soils support communities dominated by elk sedge. The potential native vegetation is a subalpine fir/grouse whortleberry plant association, grouse whortleberry phase.
 
-DISTRIBUTION AND EXTENT: Southeastern Idaho and northwestern Wyoming. The soil is of moderate extent.
+DISTRIBUTION AND EXTENT: Dashiki soils are moderately extensive in southeastern Idaho and northwestern Wyoming; MLRA 43B
 
-MLRA SOIL SURVEY REGIONAL OFFICE (MO) RESPONSIBLE: Bozeman, Montana.
+SOIL SURVEY REGIONAL OFFICE (SSRO) RESPONSIBLE: Bozeman, Montana
 
-SERIES ESTABLISHED: Targhee National Forest, Fremont County, Idaho, 1997.
+SERIES ESTABLISHED: Targhee National Forest, Fremont County, Idaho, 1997
 
 REMARKS: Diagnostic horizons and features recognized in this pedon are:
+Ochric epipedon--3 to 26 cm (A1 and A2 horizons)
+Cambic horizon--26 to 82 cm (Bw horizon)
+Andic soil properties--3 to 82 cm (A1, A2, and Bw horizons)
+Particle-size control section--3 to 100 cm (A1, A2, Bw, 2BC and part of the 2C horizons)
 
-Ochric epipedon - the zone from the mineral soil surface to inches (the A1 and A2 horizons).
+Dashiki soils have a cryic soil temperature regime and a udic soil moisture regime with a typic subclass.
 
-Cambic horizon - the zone from 9 to 31 inches (the Bw horizon).
-
-Particle-size control section - the zone from the mineral soil surface to 40 inches (the A1, A2, Bw, 2BC and part of the 2C horizons).
-
-Andic soil properties - the zone from the mineral soil surface to 31 inches (the A1, A2, and Bw horizons).
-
-Moisture regime - udic.
+Converted to metric, updated formatting, and O horizons were updated to start at zero. 8/2022
 
 ADDITIONAL DATA: The ochric and cambic horizons were sampled and submitted to the National Soil Survey Laboratory, Lincoln, NE for analysis of andic soil properties. Soil survey sample No. S92ID-043-098. NSSL pedon No. 93P312. Full characterization data (8/26/96), National Soil Survey Laboratory, Lincoln, NE. Client assigned laboratory number: S94ID-043-003; project file numbers 95P-27; Laboratory assigned numbers: pedon 95P-150; Samples: 95P 1030-1034.
 
