@@ -1,158 +1,122 @@
-LOCATION TEPECREEK              MT 
+LOCATION TEPECREEK              MT
 
 Established Series
-Rev. PEM-JAL
-03/1999
+Rev. PEM-JAL-KLS
+09/2022
 
-TEPECREEK SERIES 
+TEPECREEK SERIES
 
-The Tepecreek series consists of moderately deep, well drained soils that formed in colluvium, slope alluvium or residuum derived from granite bedrock. These soils are on escarpments, ridges and sideslopes of mountains.  Slopes are 8 to 60 percent.  Mean annual precipitation is about 22 inches, and mean annual air temperature is about 38 degrees F. 
+The Tepecreek series consists of moderately deep, well drained soils that formed in colluvium, slope alluvium or residuum derived from granite bedrock. These soils are on escarpments, ridges and sideslopes of mountains.  Slopes are 8 to 60 percent.  Mean annual precipitation is about 560 mm, and mean annual air temperature is about 3 degrees C. 
 
 TAXONOMIC CLASS: Loamy-skeletal, mixed, superactive Ustic Haplocryalfs
 
 TYPICAL PEDON:  Tepecreek very gravelly sandy clay loam, very bouldery, forested (colors are for dry soil unless otherwise noted). 
 
-    Oi--1 to 0 inches; partially decomposed needles, twigs, and leaves. (1/2 to 3 inches thick) 
+    Oi--0 to 3 cm; partially decomposed needles, twigs, and leaves. (1 to 8 cm thick) 
 
-    A--0 to 2 inches; grayish brown (10YR 5/2) very gravelly sandy clay loam, very dark grayish brown (10YR 3/2) moist; weak fine and medium subangular blocky structure; soft, very friable, slightly sticky and slightly plastic; many very fine and few fine roots; many very fine and fine and few medium pores; 35 percent pebbles; slightly acid (pH 6.3); clear smooth boundary. (2 to 4 inches thick) 
+    A--3 to 8 cm; grayish brown (10YR 5/2) very gravelly sandy clay loam, very dark grayish brown (10YR 3/2) moist; weak fine and medium subangular blocky structure; soft, very friable, slightly sticky and slightly plastic; many very fine and few fine roots; many very fine and fine and few medium pores; 35 percent pebbles; slightly acid (pH 6.3); clear smooth boundary. (5 to 10 cm thick) 
 
-    E--2 to 8 inches; brown (10YR 5/3) very gravelly sandy clay loam, dark grayish brown (10YR 4/2) moist; weak fine and medium subangular blocky structure; soft, very friable, slightly sticky and slightly plastic; many very fine and few fine roots; many very fine and fine and few medium pores; 40 percent pebbles; slightly acid (pH 6.2); clear smooth boundary. (3 to 8 inches thick) 
+    E--8 to 23 cm; brown (10YR 5/3) very gravelly sandy clay loam, dark grayish brown (10YR 4/2) moist; weak fine and medium subangular blocky structure; soft, very friable, slightly sticky and slightly plastic; many very fine and few fine roots; many very fine and fine and few medium pores; 40 percent pebbles; slightly acid (pH 6.2); clear smooth boundary. (8 to 20 cm thick) 
 
-    Bt--8 to 18 inches; yellowish brown (10YR 5/4) very gravelly sandy clay loam, dark yellowish brown (10YR 4/4) moist; weak medium subangular blocky structure; slightly hard, friable, moderately sticky and slightly plastic; many very fine and few fine and medium roots; many very fine and few fine interstitial and tubular pores; many faint clay films bridging sand grains; 40 percent pebbles; slightly acid (pH 6.1); clear wavy boundary. (5 to 15 inches thick) 
+    Bt--23 to 48 cm; yellowish brown (10YR 5/4) very gravelly sandy clay loam, dark yellowish brown (10YR 4/4) moist; weak medium subangular blocky structure; slightly hard, friable, moderately sticky and slightly plastic; many very fine and few fine and medium roots; many very fine and few fine interstitial and tubular pores; many faint clay films bridging sand grains; 40 percent pebbles; slightly acid (pH 6.1); clear wavy boundary. (13 to 35 cm thick) 
 
-    BC--18 to 35 inches; olive brown (2.5Y 4/4) very gravelly sandy loam, very dark grayish brown (2.5Y 3/2) moist; weak very fine and fine subangular blocky structure; soft, very friable, slightly sticky and nonplastic; many very fine and few fine roots; many very fine and few fine interstitial and tubular pores; 55 percent pebbles; neutral (pH 6.6); clear wavy boundary. (11 to 28 inches thick) 
+    BC--48 to 91 cm; olive brown (2.5Y 4/4) very gravelly sandy loam, very dark grayish brown (2.5Y 3/2) moist; weak very fine and fine subangular blocky structure; soft, very friable, slightly sticky and nonplastic; many very fine and few fine roots; many very fine and few fine interstitial and tubular pores; 55 percent pebbles; neutral (pH 6.6); clear wavy boundary. (28 to 70 cm thick) 
 
-    Cr--34 to 52 inches; light olive brown (2.5Y 5/4) decomposed granite bedrock (grus) that crushes to very gravelly loamy coarse sand; slightly acid (pH 6.4); gradual wavy boundary. (5 to 20 inches thick) 
+    Cr--91 to 134 cm; light olive brown (2.5Y 5/4) decomposed granite bedrock (grus) that crushes to very gravelly loamy coarse sand; slightly acid (pH 6.4); gradual wavy boundary. (13 to 50 cm thick) 
 
-    R--52 inches; hard granite bedrock. 
+    R--134 cm; hard granite bedrock. 
 
-TYPE LOCATION:  Jefferson County, Montana; 1,350 feet south and 1,475 feet west of the NE corner of sec. 32, T. 9 N., R. 2 W. 
+TYPE LOCATION:  Jefferson County, Montana; about 410 meters south and 450 meters west of the NE corner of sec. 32, T. 9 N., R. 2 W. 
 
 RANGE IN CHARACTERISTICS: 
+Mean annual soil temperature--3 to 6 degrees C
+Moisture control section--10 to 30 cm 
+Depth to argillic horizon--13 to 30 cm
+Depth to Cr horizon--50 to 100 cm
+Depth to bedrock--100 to 150 cm
+Surface stones or boulders--0 to 3 percent
 
-Soil temperature - 38 to 42 degrees F. 
+A horizon
+Hue--10YR or 2.5Y
+Value--4 or 5 dry; 3 or 4 moist
+Chroma--2 or 3 
+Texture--coarse sandy loam, sandy loam, or sandy clay loam
+Clay content--10 to 25 percent
+Rock fragment content--5 to 50 percent pebbles
+Reaction--pH 6.1 to 7.3
 
-Moisture control section - between 4 and 12 inches. 
+E horizon
+Hue--10YR or 2.5Y
+Value--5 or 6 dry; 4 or 5 moist
+Chroma--2 or 3
+Texture--coarse sandy loam, sandy loam, or sandy clay loam
+Clay content--10 to 25 percent
+Rock fragment content--5 to 50 percent pebbles, mostly less than 7 mm in diameter
+Reaction--pH 6.1 to 7.3
 
-Depth to argillic horizon - 5 to 12 inches. 
+Bt horizon
+Hue--10YR or 2.5Y
+Value--5 or 6 dry; 4 or 5 moist
+Chroma--2, 3, or 4
+Clay content--20 to 30 percent
+Rock fragment content--35 to 60 percent pebbles, mostly less than 7 mm in diameter
+Reaction--pH 6.1 to 7.3
 
-Depth to Cr horizon - 20 to 40 inches. 
-
-Depth to bedrock - 40 to 60 inches. 
-
-Surface stones or boulders - 0 to 3 percent.
-
-
-A horizon - Hue:  10YR or 2.5Y 
-
-Value:  4 or 5 dry; 3 or 4 moist 
-
-Chroma:  2 or 3 
-
-Texture:  coarse sandy loam, sandy loam, or sandy clay loam 
-
-Clay content:  10 to 25 percent 
-
-Rock fragments:  5 to 50 percent pebbles 
-
-Reaction:  pH 6.1 to 7.3 
-
-
-E horizon - Hue:  10YR or 2.5Y 
-
-Value:  5 or 6 dry; 4 or 5 moist 
-
-Chroma:  2 or 3 
-
-Texture:  coarse sandy loam, sandy loam, or sandy clay loam 
-
-Clay content:  10 to 25 percent 
-
-Rock fragments:  5 to 50 percent pebbles (mostly less than 7mm in diameter) 
-
-Reaction:  pH 6.1 to 7.3 
-
-
-Bt horizon - Hue:  10YR or 2.5Y 
-
-Value:  5 or 6 dry; 4 or 5 moist 
-
-Chroma:  2, 3, or 4 
-
-Clay content:  20 to 30 percent 
-
-Rock fragments:  35 to 60 percent pebbles (mostly less than 7mm in diameter) 
-
-Reaction: pH 6.1 to 7.3 
-
-
-BC horizon - Hue:  10YR or 2.5Y 
-
-Value:  4, 5, or 6 dry; 3, 4, or 5 moist 
-
-Chroma:  2, 3, or 4 
-
-Texture:  coarse sandy loam or sandy loam 
-
-Clay content:  10 to 18 percent 
-
-Rock fragments:  35 to 60 percent pebbles (mostly less than 10mm in diameter) 
-
-Reaction:  pH 6.1 to 7.3 
+BC horizon
+Hue--10YR or 2.5Y
+Value--4, 5, or 6 dry; 3, 4, or 5 moist
+Chroma--2, 3, or 4
+Texture--coarse sandy loam or sandy loam
+Clay content--10 to 18 percent
+Rock fragment content--35 to 60 percent pebbles, mostly less than 10 mm in diameter
+Reaction--pH 6.1 to 7.3 
 
 COMPETING SERIES: 
-
-Cadotte (MT) - has a discontinuity of sandy-skeketal material above a depth of 40 inches. 
-
-Cloud Peak (WY) - 20 to 40 inches deep to a lithic contact; has a horizon of secondary carbonate accumulation. 
-
-Cundiyo (NM) - has a sandy-skeletal discontinuity above a depth of 60 inches. 
-
-Guffy (CO) - does not have a lithic contact above a depth of 60 inches. 
-
-Hyattville (WY) - 20 to 40 inches deep to a lithic contact; has mixed A/B horizons; has horizons of secondary carbonate accumulation. 
-
-Kebler (CO) - 20 to 40 inches deep at a lithic contact; rock fragments are mainly stone size. 
-
-Kimpton (MT) - has a horizon of secondary carbonate accumulation above a depth of 20 to 40 inches; does not have a paralithic contact above the bedrock. 
-
-Lake Creek (WY) - 20 to 40 inches deep at a lithic contact; has rock fragments predominantly larger than 10 inches. 
-
-Lakehelen (WY) - 20 to 40 inches deep to a lithic contact; has hue of 7.5YR and redder in the argillic horizon; is slightly to moderately acid in the argillic horizon. 
-
-Losee (UT) - is calcareous throughout the particle-size control section.
-
+Cadotte (MT) - has a discontinuity of sandy-skeketal material above a depth of 100 cm. 
+Cloud Peak (WY) - 50 to 100 cm deep to a lithic contact; has a horizon of secondary carbonate accumulation. 
+Cundiyo (NM) - has a sandy-skeletal discontinuity above a depth of 150 cm. 
+Guffy (CO) - does not have a lithic contact above a depth of 150 cm. 
+Hyattville (WY) - 50 to 100 cm deep to a lithic contact; has mixed A/B horizons; has horizons of secondary carbonate accumulation. 
+Kebler (CO) - 50 to 100 cm deep at a lithic contact; rock fragments are mainly stone size. Kimpton (MT) - has a horizon of secondary carbonate accumulation above a depth of 50 to 100 cm; does not have a paralithic contact above the bedrock. 
+Lake Creek (WY) - 50 to 100 cm deep at a lithic contact; has rock fragments predominantly larger than 25 cm. 
+Lakehelen (WY) - 50 to 100 cm deep to a lithic contact; has hue of 7.5YR and redder in the argillic horizon; is slightly to moderately acid in the argillic horizon. 
+Losee (UT) - is calcareous throughout the particle-size control section. 
 MacFarlane (CO) - is extremely stony throughout; the less than 2 mm fraction is coarse-loamy. 
 
 GEOGRAPHIC SETTING: 
+Landform--escarpments, ridges and sideslopes of mountains
+Elevation--1700 to 2450 meters
+Slope--8 to 60 percent
+Parent material--colluvium, slope alluvium or residuum derived from granite bedrock
+Climate--long, cold winters; cool, moist springs; short, cool summers
+Mean annual precipitation--380 to 760 mm 
+Mean annual air temperature--2 to 4 degrees C
+Frost-free period--30 to 70 days
 
-Landform - escarpments, ridges and sideslopes of mountains. 
+GEOGRAPHICALLY ASSOCIATED SOILS: None listed
 
-Elevation - 5,500 to 8,000 feet. 
+DRAINAGE AND PERMEABILITY:  Well drained; moderate permeability in the argillic horizon and moderately rapid below
 
-Slope - 8 to 60 percent. 
+USE AND VEGETATION:  Tepecreek soils are primarily used for timber production and wildlife habitat.  The potential native vegetation is mainly Douglas fir, lodgepole pine, pinegrass, russet buffaloberry, common snowberry, Kinnikinnick, raceme pussytoes, white spiraea, mahonia, and grouse whortleberry. 
 
-Parent material - colluvium, slope alluvium or residuum derived from granite bedrock. 
+DISTRIBUTION AND EXTENT:  Tepecreek soils are moderately extensive in southwestern Montana; MLRA 43B and 44B
 
-Climate - long, cold winters; cool, moist springs; short, cool summers. 
-
-Mean annual precipitation - 15 to 30 inches. 
-
-Mean annual air temperature - 36 to 40 degrees F. 
-
-Frost-free period - 30 to 70 days. 
-
-DRAINAGE AND PERMEABILITY:  Well drained; moderate permeability in the argillic horizon and moderately rapid below. 
-
-USE AND VEGETATION:  Tepecreek soils are primarily used for timber production and wildlife habitat.  The potential native vegetation is mainly Douglas fir, lodgepole pine, pinegrass, russet buffaloberry, common snowberry, Kinnikinnick, raceme pussytoes, white spiraea, Oregongrape, and grouse whortleberry. 
-
-DISTRIBUTION AND EXTENT:  Tepecreek soils are of small extent in southwestern Montana. 
-
-MLRA SOIL SURVEY REGIONAL OFFICE (MO) RESPONSIBLE:  Bozeman, Montana
+SOIL SURVEY REGIONAL OFFICE (SSRO) RESPONSIBLE:  Bozeman, Montana
 
 SERIES ESTABLISHED:  Jefferson County, Montana, 1998.
 
-REMARKS:  Soil interpretation record:  MT3086, MT3087, MT3088. Diagnostic horizons and features recognized in this pedon are:  a layer of partially decomposed needles, twigs, and leaves from 1 inch to the mineral soil surface (Oi horizon); an ochric epipedon from the mineral surface to 8 inches (A, E horizons); an argillic horizon from 8 to 18 inches (Bt horizon); a particle-size control section from 8 to 18 inches (Bt horizon); a layer of decomposed granite (grus) from 34 to 52 inches (Cr horizon); hard granite bedrock at 52 inches (R horizon).  Tepecreek soils have a cryic temperature regime and an ustic moisture regime. 
+REMARKS:  Soil interpretation record:  MT3086, MT3087, MT3088. 
+Diagnostic horizons and features recognized in this pedon are:  
+Layer of partially decomposed needles, twigs, and leaves--0 to 3 cm (Oi horizon)
+Ochric epipedon--3 to 23 cm (A and E horizons)
+Argillic horizon--23 to 48 cm (Bt horizon)
+Paralithic contact--91 to 134 cm to decomposed granite (Cr horizon)
+Lithic contact--134 cm to hard granite bedrock (R horizon)
+Particle-size control section--23 to 48 cm (Bt horizon)
+
+Converted to metric, updated formatting, and O horizons were updated to start at zero. Competing series section was not updated. 9/2022
+
+Tepecreek soils have a cryic temperature regime and an ustic soil moisture regime.
 
 National Cooperative Soil Survey
 U.S.A.

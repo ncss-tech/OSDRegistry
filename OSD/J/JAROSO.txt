@@ -2,7 +2,7 @@ LOCATION JAROSO                 NM
 
 Established Series
 Rev. JOC/JAW/KLS
-07/2022
+09/2022
 
 JAROSO SERIES
 
@@ -14,17 +14,17 @@ TYPICAL PEDON:  Jaroso cobbly loam, forested.  (Colors are for dry soil unless o
 
      Oe--0 to 5 cm; needles, leaves, twigs, etc., in various stages of decomposition.
 
-     A21--5 to 15 cm; very pale brown (10YR 7/3) cobbly loam, yellowish brown (10YR 5/4) moist; weak thin platy structure parting to weak fine granular; soft, friable, slightly sticky and slightly plastic; many very fine and fine, few medium and coarse roots; many very fine and fine interstitial pores; 25 percent cobbles; 10 percent gravel; slightly acid (pH 6.5); abrupt smooth boundary.  (10 to 18 cm thick)
+     E1--5 to 15 cm; very pale brown (10YR 7/3) cobbly loam, yellowish brown (10YR 5/4) moist; weak thin platy structure parting to weak fine granular; soft, friable, slightly sticky and slightly plastic; many very fine and fine, few medium and coarse roots; many very fine and fine interstitial pores; 25 percent cobbles; 10 percent gravel; slightly acid (pH 6.5); abrupt smooth boundary. 
 
-     A22--15 to 45 cm; very pale brown (10YR 7/3) cobbly heavy loam, yellowish brown (10YR 5/4) moist; weak fine granular structure; slightly hard, friable, slightly sticky and slightly plastic; many very fine and fine and few medium and coarse roots; few very fine tubular pores and many very fine interstitial pores; 5 percent stones, 15 percent cobbles, and 10 percent gravel; moderately acid (pH 5.6); clear smooth boundary.  (20 to 30 cm thick)
+     E2--15 to 45 cm; very pale brown (10YR 7/3) cobbly heavy loam, yellowish brown (10YR 5/4) moist; weak fine granular structure; slightly hard, friable, slightly sticky and slightly plastic; many very fine and fine and few medium and coarse roots; few very fine tubular pores and many very fine interstitial pores; 5 percent stones, 15 percent cobbles, and 10 percent gravel; moderately acid (pH 5.6); clear smooth boundary.  (Combined thickness of E horizons - 30 to 45 cm)
 
-     B21t--45 to 70 cm; very pale brown (10YR 7/3) gravelly heavy clay loam, yellowish brown (10YR 5/4) moist; moderate fine subangular blocky structure; hard, firm, sticky and plastic; few medium, fine and very fine roots; common very fine interstitial pores; common thin clay films on peds and on rock fragments; 25 percent gravel, 10 percent cobbles; moderately acid (pH 6.0); gradual wavy boundary.  (20 to 30 cm thick)
+     Bt1--45 to 70 cm; very pale brown (10YR 7/3) gravelly heavy clay loam, yellowish brown (10YR 5/4) moist; moderate fine subangular blocky structure; hard, firm, sticky and plastic; few medium, fine and very fine roots; common very fine interstitial pores; common thin clay films on peds and on rock fragments; 25 percent gravel, 10 percent cobbles; moderately acid (pH 6.0); gradual wavy boundary.  
 
-     B22t--70 to 108 cm; very pale brown (10YR 7/4) very gravelly clay, yellowish brown (10YR 5/4) moist; strong medium angular blocky structure; extremely hard, very firm, very sticky and very plastic; few very fine, fine and medium roots; common very fine interstitial pores; many thick clay films on peds and on rock fragments; 35 percent gravel, 10 percent cobbles, 5 percent stones; moderately acid (pH 6.0); clear smooth boundary.  (25 to 46 cm thick)
+     Bt2--70 to 108 cm; very pale brown (10YR 7/4) very gravelly clay, yellowish brown (10YR 5/4) moist; strong medium angular blocky structure; extremely hard, very firm, very sticky and very plastic; few very fine, fine and medium roots; common very fine interstitial pores; many thick clay films on peds and on rock fragments; 35 percent gravel, 10 percent cobbles, 5 percent stones; moderately acid (pH 6.0); clear smooth boundary.  
 
-     B23t--108 to 138 cm; very pale brown (10YR 7/4) extremely cobbly clay, yellowish brown (10YR 5/4) moist; moderate fine angular blocky structure; extremely hard, very firm, very sticky and very plastic; few very fine interstitial pores; many thick clay films on peds and common on rock fragments; 60 percent gravel, 30 percent cobbles, 5 percent stones; moderately acid (pH 5.6); clear wavy boundary.  (25 to 36 cm thick)
+     Bt3--108 to 138 cm; very pale brown (10YR 7/4) extremely cobbly clay, yellowish brown (10YR 5/4) moist; moderate fine angular blocky structure; extremely hard, very firm, very sticky and very plastic; few very fine interstitial pores; many thick clay films on peds and common on rock fragments; 60 percent gravel, 30 percent cobbles, 5 percent stones; moderately acid (pH 5.6); clear wavy boundary.  (Combined thickness of Bt1, Bt2 and Bt3 horizons - 70 to 110 cm)
 
-     B3t--138 to 156 cm; very pale brown (10YR 7/4) extremely cobbly sandy clay, yellowish brown (10YR 5/4); weak very fine subangular blocky structure; extremely hard, very firm, sticky and plastic; few very fine tubular pores; many thick clay films on peds and on rock fragments; 60 percent gravel, 30 percent cobbles, 5 percent stones; moderately acid (pH 5.8).
+     CBt--138 to 156 cm; very pale brown (10YR 7/4) extremely cobbly sandy clay, yellowish brown (10YR 5/4); weak very fine subangular blocky structure; extremely hard, very firm, sticky and plastic; few very fine tubular pores; many thick clay films on peds and on rock fragments; 60 percent gravel, 30 percent cobbles, 5 percent stones; moderately acid (pH 5.8).
 
 TYPE LOCATION:  Colfax County, New Mexico; SW1/4 NE1/4 section 14, T.24N., R.15E.
 
@@ -36,20 +36,20 @@ Depth to argillic horizon--30 to 46 cm
 Rock fragment content--50 to 80 percent angular gravel, cobbles and stones of shale and sandstone lithology
 Some pedons have a thin A1 horizon.
 
-A2 horizon
+E horizons
 Value--6 or 7 dry and 4 or 5 moist
 Chroma--3 or 4
 Texture--loam, very fine sandy loam, or light clay loam
 Rock fragment content--20 to 50 percent
 
-B2t horizon
+Bt horizons
 Value--5 through 7 dry and 4 or 5 moist
 Chroma--3 through 6
 Texture--clay loam, sandy clay or clay
 Clay content--35 to 50 percent
 Rock fragment content--50 to 80 percent
 
-COMPETING SERIES:  These are the Chris, Loberg, Nutras, Seitz and Vulcan series.  All of these soils except Loberg have montmorillonitic mineralogy.  Loberg soils have an A2 horizon less than 33 cm thick.  Also, they are slightly acid to moderately alkaline in the lower part of the profile.
+COMPETING SERIES:  These are the Chris, Loberg, Nutras, Seitz and Vulcan series.  All of these soils except Loberg have montmorillonitic mineralogy.  Loberg soils have an E horizon less than 30 cm thick.  Also, they are slightly acid to moderately alkaline in the lower part of the profile.
 
 GEOGRAPHIC SETTING:  
 Landform--mountain slopes
@@ -59,9 +59,9 @@ Parent material--colluvium from interbedded shale and sandstone and some limesto
 Mean annual precipitation--640 to 1000 mm; humid climate with about 70 percent of the precipitation in the form of snow and in most years the snowpack is in place as late as mid-June; the remaining 30 percent of the precipitation comes as summer storms.
 Mean annual air temperature--2 degrees C
 
-GEOGRAPHICALLY ASSOCIATED SOILS:  None listed.
+GEOGRAPHICALLY ASSOCIATED SOILS:  None listed
 
-DRAINAGE AND PERMEABILITY:  Well drained; moderately slow to slow permeability.
+DRAINAGE AND PERMEABILITY:  Well drained; moderately slow to slow permeability
 
 USE AND VEGETATION:  Used for timber production, seasonal grazing, water production, recreation, and wildlife habitat.  Vegetation is mainly Douglas-fir, Engelmann spruce, corkbark fir, white fir, aspen, kinnickinnick, mahonia, wild strawberries, mountain brome and other grasses and forbs.
 
@@ -71,7 +71,7 @@ SOIL SURVEY REGIONAL OFFICE (SSRO) RESPONSIBLE: Bozeman, Montana
 
 SERIES ESTABLISHED:  Taos Area, New Mexico, 1976.
 
-REMARKS: Converted to metric, updated formatting, and O horizons were updated to start at zero. 5/2022
+REMARKS: Converted to metric and O horizons were updated to start at zero. Competing series section was not updated. 5/2022
 
 National Cooperative Soil Survey
 U.S.A.

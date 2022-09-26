@@ -2,7 +2,7 @@ LOCATION LEAL                   CO
 
 Established Series
 Rev. AJC/JEB/KLS
-07/2022
+09/2022
 
 LEAL SERIES
 
@@ -16,9 +16,9 @@ TYPICAL PEDON:  Leal loam - woodland.  (Colors are for dry soil unless otherwise
 
     Oe--5 to 10 cm; partially decomposed organic material; smooth boundary.
 
-    A2--10 to 20 cm; light gray (10YR 7/2) light loam, light brownish gray (10YR 6/2) moist; moderate thick and medium platy structure that parts to fine granular structure; soft, very friable; extremely acid; clear smooth boundary.  (5 to 15 cm thick)
+    E--10 to 20 cm; light gray (10YR 7/2) light loam, light brownish gray (10YR 6/2) moist; moderate thick and medium platy structure that parts to fine granular structure; soft, very friable; extremely acid; clear smooth boundary.  (5 to 15 cm thick)
 
-    B2ir--20 to 45 cm; yellowish brown (10YR 5/4) gravelly sandy loam, dark yellowish brown (10YR 4/4) moist; weak fine subangular blocky structure that parts to fine granular structure; slightly hard, friable; many dark colored silt and sand sized pellets; 20 percent pebbles and stones; very strongly acid (pH 5.0); gradual wavy boundary.  (20 to 46 cm thick)
+    Bs--20 to 45 cm; yellowish brown (10YR 5/4) gravelly sandy loam, dark yellowish brown (10YR 4/4) moist; weak fine subangular blocky structure that parts to fine granular structure; slightly hard, friable; many dark colored silt and sand sized pellets; 20 percent pebbles and stones; very strongly acid (pH 5.0); gradual wavy boundary.  (20 to 46 cm thick)
 
     C--45 to 162 cm; light brownish gray (2.5Y 6/2) gravelly sandy loam, light olive brown (2.5Y 5/3) moist; massive; slightly hard, friable; 30 percent stones and pebbles; moderately acid (pH 5.8).
 
@@ -32,13 +32,13 @@ Clay content--5 to 18 percent
 Sand content--35 to 70 percent
 Rock fragment content--10 to 35 percent, mainly pebbles, cobbles or stones
 
-A2 horizon
+E horizon
 Hue--2.5Y or 10YR
 Value--7 or 8 dry, 4 through 6 moist
 Chroma--2 or 3
 Reaction--pH 4.0 to 5.4 
 
-B2ir horizon 
+Bs horizon 
 Hue--10YR or 7.5YR
 Value--5 or 6 dry, 4 or 5 moist
 Chroma--3 through 6
@@ -68,9 +68,9 @@ DISTRIBUTION AND EXTENT:  Leal soils are moderately extensive in the mountains o
 
 SOIL SURVEY REGIONAL OFFICE (SSRO) RESPONSIBLE: Bozeman, Montana
 
-SERIES ESTABLISHED:  Grand County (Soil Survey of the Fraser Experimental Forest), Colorado.
+SERIES ESTABLISHED:  Grand County (Soil Survey of the Fraser Experimental Forest), Colorado
 
-REMARKS:  Converted to metric, updated formatting, and O horizons were updated to start at zero. 5/2022
+REMARKS:  Converted to metric, updated formatting, and O horizons were updated to start at zero. Competing series section was not updated. 5/2022
 
 National Cooperative Soil Survey
 U.S.A.

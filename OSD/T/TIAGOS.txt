@@ -2,7 +2,7 @@ LOCATION TIAGOS                 CO
 
 Established Series
 Rev. AJC/LF/KLS
-07/2022
+09/2022
 
 TIAGOS SERIES
 
@@ -12,13 +12,13 @@ TAXONOMIC CLASS: Coarse-loamy, mixed, superactive Ustic Argicryolls
 
 TYPICAL PEDON:  Tiagos fine sandy loam - grassland.  (Colors are for dry soil unless otherwise noted,)
 
-    A1--0 to 20 cm; grayish brown (10YR 5/2) fine sandy loam, very dark grayish brown (10YR 3/2) moist; moderate fine granular structure; soft, very friable, nonsticky, nonplastic; 5 percent gravel; neutral (pH 7.0); gradual wavy boundary.  (10 to 25 cm thick)
+    A--0 to 20 cm; grayish brown (10YR 5/2) fine sandy loam, very dark grayish brown (10YR 3/2) moist; moderate fine granular structure; soft, very friable, nonsticky, nonplastic; 5 percent gravel; neutral (pH 7.0); gradual wavy boundary.  (10 to 25 cm thick)
 
-    A3--20 to 30 cm; brown (10YR 5/3) fine sandy loam, dark brown (10YR 3/3) most; weak medium subangular blocky structure that parts to fine granules; slightly hard, very friable, nonsticky, nonplastic; neutral (pH 7.0); gradual wavy boundary.  (10 to 13 cm thick)
+    AB--20 to 30 cm; brown (10YR 5/3) fine sandy loam, dark brown (10YR 3/3) most; weak medium subangular blocky structure that parts to fine granules; slightly hard, very friable, nonsticky, nonplastic; neutral (pH 7.0); gradual wavy boundary.  (10 to 13 cm thick)
 
-    B2t--30 to 61 cm; brown (10YR 5/3) fine sandy loam, brown (10YR 4/3) moist; moderate coarse prismatic structure that parts to coarse subangular blocks; slightly hard, very friable, nonsticky, nonplastic; peds are hard, friable; wax-like patches on faces of peds; waxlike bridges between sand grains; some glossy coatings in root channels and pores; wax-like coatings on the bottom of rock fragments; 5 percent gravel; neutral (pH 7.2); gradual wavy boundary.  (13 to 76 cm thick)
+    Bt--30 to 61 cm; brown (10YR 5/3) fine sandy loam, brown (10YR 4/3) moist; moderate coarse prismatic structure that parts to coarse subangular blocks; slightly hard, very friable, nonsticky, nonplastic; peds are hard, friable; wax-like patches on faces of peds; waxlike bridges between sand grains; some glossy coatings in root channels and pores; wax-like coatings on the bottom of rock fragments; 5 percent gravel; neutral (pH 7.2); gradual wavy boundary.  (13 to 76 cm thick)
 
-    B3--61 to 71 cm; brown (10YR 5/3) fine sandy loam, brown (10YR 4/3) moist; weak coarse subangular blocky structure; slightly hard, very friable, nonsticky, nonplastic; peds are hard, very friable; 5 percent gravel; neutral (pH 7.2); diffuse wavy boundary.  (8 to 13 cm thick)
+    BC--61 to 71 cm; brown (10YR 5/3) fine sandy loam, brown (10YR 4/3) moist; weak coarse subangular blocky structure; slightly hard, very friable, nonsticky, nonplastic; peds are hard, very friable; 5 percent gravel; neutral (pH 7.2); diffuse wavy boundary.  (8 to 13 cm thick)
 
     C--71 to 152 cm; pale brown (10YR 6/3) fine sandy loam, brown (10YR 4/3) moist; massive; slightly hard, very friable, nonsticky, nonplastic; 10 percent gravel; noncalcareous; neutral (pH 7.2).
 
@@ -38,7 +38,7 @@ Value--4 or 5 dry, 2 or 3 moist
 Chroma--1 through 3
 Reaction--pH 6.6 to 7.6
 
-B2t horizon
+Bt horizon
 Hue--5Y through 7.5YR
 Value--5 through 7 dry, 4 through 6 moist
 Chroma--1 through 6
@@ -54,7 +54,7 @@ Clay content--5 to 18 percent
 Sand content--50 to 80 percent with more than 35 percent fine sand or coarser
 Reaction--pH 6.6 to 7.6
 
-COMPETING SERIES:  These are the Bassel, Boulder, Burgess, Ethelman, Greenhalgh, and Scriver series.  Basgel soils have continuous horizons of secondary carbonate accumulation and are calcareous above a depth of 100 cm.  Boulder soils have noncontrasting sandy-skeletal substratums above a depth of 100 cm and have more than 15 percent rock fragments throughout the solum.  Burgess and Greenhalgh soils have a lithic contact above a depth of 100 cm.  Ethelman soils have a paralithic contact above a depth of 100 cm.  Scriver soils are mainly slightly and moderately acid and have a B2t horizon in which silicate clay is accumulating as lamellae.
+COMPETING SERIES:  These are the Bassel, Boulder, Burgess, Ethelman, Greenhalgh, and Scriver series.  Basgel soils have continuous horizons of secondary carbonate accumulation and are calcareous above a depth of 100 cm.  Boulder soils have noncontrasting sandy-skeletal substratums above a depth of 100 cm and have more than 15 percent rock fragments throughout the solum.  Burgess and Greenhalgh soils have a lithic contact above a depth of 100 cm.  Ethelman soils have a paralithic contact above a depth of 100 cm.  Scriver soils are mainly slightly and moderately acid and have a Bt horizon in which silicate clay is accumulating as lamellae.
 
 GEOGRAPHIC SETTING:  
 Landform--alluvial fans, glacial outwash terraces, glacial moraines, eskers, and till plains
@@ -78,7 +78,7 @@ SOIL SURVEY REGIONAL OFFICE (SSRO) RESPONSIBLE: Bozeman, Montana
 
 SERIES ESTABLISHED:  Jackson County, Colorado, 1973
 
-REMARKS:  Converted to metric, updated formatting, and O horizons were updated to start at zero. 7/2022
+REMARKS:  Converted to metric, updated formatting, and O horizons were updated to start at zero. Competing series section was not updated. 7/2022
 
 Tiagos soils have a cryic temperature regime and an ustic soil moisture regime. 
 

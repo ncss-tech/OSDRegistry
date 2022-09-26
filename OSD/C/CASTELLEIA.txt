@@ -2,7 +2,7 @@ LOCATION CASTELLEIA             CO
 
 Established Series
 Rev. RFB/RHM/KLS
-08/2022
+09/2022
 
 CASTELLEIA SERIES
 
@@ -16,32 +16,32 @@ TYPICAL PEDON:  Castelleia loam - forest.  (Colors are for dry soil unless other
 
    Oe--5 to 8 cm; decomposed humus layer. (Combined thickness of O horizons - 5 to 10 cm)
 
-   A1--8 to 18 cm; very dark brown (10YR 2/2) loam; moderate medium granular structure; soft, very friable, slightly sticky, nonplastic; common roots; 5 percent gravel; strongly acid; clear wavy boundary.  (3 to 13 cm thick)
+   A--8 to 18 cm; very dark brown (10YR 2/2) loam; moderate medium granular structure; soft, very friable, slightly sticky, nonplastic; common roots; 5 percent gravel; strongly acid; clear wavy boundary.  (3 to 13 cm thick)
 
-   A2--18 to 33 cm; dark grayish brown (10YR 4/2) loam; moderate fine and medium subangular blocky structure; soft, very friable, slightly sticky, nonplastic; common roots; 5 percent gravel; strongly acid; gradual wavy boundary.  (13 to 25 cm thick)
+   E--18 to 33 cm; dark grayish brown (10YR 4/2) loam; moderate fine and medium subangular blocky structure; soft, very friable, slightly sticky, nonplastic; common roots; 5 percent gravel; strongly acid; gradual wavy boundary.  (13 to 25 cm thick)
 
-   AB--33 to 56 cm; grayish brown (10YR 5/2) loam; moderate medium subangular blocky structure; slightly hard, friable, slightly sticky, nonplastic; many fine pores; thin patchy clay films on peds and in pores; common roots; 5 percent gravel; strongly acid; gradual wavy boundary.  (15 to 30 cm thick)
+   E/Bt--33 to 56 cm; grayish brown (10YR 5/2) loam; moderate medium subangular blocky structure; slightly hard, friable, slightly sticky, nonplastic; many fine pores; thin patchy clay films on peds and in pores; common roots; 5 percent gravel; strongly acid; gradual wavy boundary.  (15 to 30 cm thick)
 
    Bt--56 to 74 cm; grayish brown (10YR 5/2) clay loam; moderate medium subangular blocky structure; slightly hard, firm, slightly sticky, slightly plastic; few pores; distinct patchy clay films on peds and in pores; 5 percent gravel; strongly acid; gradual wavy boundary.  (15 to 25 cm thick)
 
    C--74 to 89 cm; brown (10YR 5/3) moist; very stony sandy clay loam; massive; very hard, very firm, slightly sticky, slightly plastic; few roots; 40 percent stones, 15 percent gravel; moderately acid; gradual wavy boundary.  (15 to 60 cm thick)
 
-   2C1--89 to 313 cm; brown (10YR 5/3) extremely stony light clay loam, brown (10YR 4/3) moist; massive; hard, friable, slightly sticky, slightly plastic; 65 percent stones; 15 percent gravel; moderately acid; clear smooth boundary.
+   2C--89 to 313 cm; brown (10YR 5/3) extremely stony light clay loam, brown (10YR 4/3) moist; massive; hard, friable, slightly sticky, slightly plastic; 65 percent stones; 15 percent gravel; moderately acid; clear smooth boundary.
 
-   2C2--313 cm; shale.
+   2Cr--313 cm; shale.
 
 TYPE LOCATION:  Archuleta County, Colorado; S 1/2 of Sec. 35, T. 34 N., R. 1 E.
 
 RANGE IN CHARACTERISTICS:  
 Rock fragment content--0 to 35 percent in a major part of the solum but increasing to more than 35 percent below the solum
 
-A1 horizon
+A horizon
 Hue--2.5Y through 7.5YR
 Value--3 through 7 dry, 2 through 6 moist
 Chroma--1 through 4
 Reaction--pH 5.1 to 6.0
 
-A2 horizon
+E horizon
 Hue--2.5Y through 7.5YR
 Value--5 through 7 dry, 4 through 6 moist
 Chroma--1 through 6
@@ -61,7 +61,7 @@ Texture--loam, clay loam, or sandy clay loam
 Clay Content--18 to 35 percent
 Reaction--pH 5.6 to 6.5
 
-COMPETING SERIES:  These are the Ansel, Edloe, Grimstone, Hierro, Indart, Jacquette, Lick, Limber, Peeler, Perceton, Polvadera, Sapphire, Schofield, Shule, Swapps, Swifton, Tahoma, Tongue River, Trapper, Uinta, Whitefish, and Woodrock series.  Ansel, Jacquette, Peeler, and Swifton soils have less than 35 percent rock fragments in any part of the upper 100 cm of the profile.  Ansel and Lick soils lack AB horizons more than 8 cm thick.  Jacquette soils have sola thicker than 140 cm.  Edloe, Limber, Sapphire, Schofield, Shule, Swapps, and Woodrock soils have a lithic contact at depths of less than 100 cm.  Grimstone, Indart, Perceton, Polvadera, and Tongue River soils have a paralithic contact at depths of less than 100 cm.  Hierro and Uinta soils have hue of 5YR or redder.  Tahoma soils lack A2 and AB horizons, and have Bt horizons thicker than 60 cm.  Trapper and Whitefish soils are calcareous above depth of 100 cm.
+COMPETING SERIES:  These are the Ansel, Edloe, Grimstone, Hierro, Indart, Jacquette, Lick, Limber, Peeler, Perceton, Polvadera, Sapphire, Schofield, Shule, Swapps, Swifton, Tahoma, Tongue River, Trapper, Uinta, Whitefish, and Woodrock series.  Ansel, Jacquette, Peeler, and Swifton soils have less than 35 percent rock fragments in any part of the upper 100 cm of the profile.  Ansel and Lick soils lack E/Bt horizons more than 8 cm thick.  Jacquette soils have sola thicker than 140 cm.  Edloe, Limber, Sapphire, Schofield, Shule, Swapps, and Woodrock soils have a lithic contact at depths of less than 100 cm.  Grimstone, Indart, Perceton, Polvadera, and Tongue River soils have a paralithic contact at depths of less than 100 cm.  Hierro and Uinta soils have hue of 5YR or redder.  Tahoma soils lack E and E/Bt horizons, and have Bt horizons thicker than 60 cm.  Trapper and Whitefish soils are calcareous above depth of 100 cm.
 
 GEOGRAPHIC SETTING:  
 Landform--alluvial fans or hillsides
@@ -84,7 +84,7 @@ SOIL SURVEY REGIONAL OFFICE (SSRO) RESPONSIBLE: Bozeman, Montana
 
 SERIES ESTABLISHED:  Archuleta County (Piedra Area), Colorado, 1974
 
-REMARKS:  Converted to metric, updated formatting, and O horizons were updated to start at zero. 8/2022
+REMARKS:  Converted to metric, updated formatting, and O horizons were updated to start at zero. Competing series section was not updated. 8/2022
 
 National Cooperative Soil Survey
 U.S.A.

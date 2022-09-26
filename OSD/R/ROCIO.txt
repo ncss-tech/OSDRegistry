@@ -2,7 +2,7 @@ LOCATION ROCIO                  NM
 
 Established Series
 Rev. TEH/JBC/KLS
-07/2022
+09/2022
 
 ROCIO SERIES
 
@@ -14,13 +14,13 @@ TYPICAL PEDON:  Rocio gravelly fine sandy loam, forested.  (Colors are for dry s
 
     Oe--0 to 3 cm; partially decomposed forest litter.  (1 to 5 cm thick)
 
-    A1--3 to 16 cm; dark grayish brown (10YR 4/2) gravelly fine sandy loam, very dark grayish brown (10YR 3/2) moist; soft, friable, slightly plastic; many fine and very fine roots; many fine interstitial pores; 20 percent fine pebbles, 5 percent cobbles; slightly acid; clear smooth boundary.  (8 to 15 cm thick)
+    A--3 to 16 cm; dark grayish brown (10YR 4/2) gravelly fine sandy loam, very dark grayish brown (10YR 3/2) moist; soft, friable, slightly plastic; many fine and very fine roots; many fine interstitial pores; 20 percent fine pebbles, 5 percent cobbles; slightly acid; clear smooth boundary.  (8 to 15 cm thick)
 
-    A2--16 to 49 cm; pale brown (10YR 6/3) gravelly fine sandy loam, brown (10YR 4/3) moist; massive; soft, very friable; common fine, medium and coarse roots; common fine tubular pores; 30 percent fine pebbles; slightly acid; abrupt wavy boundary.  (Combined thickness of A1 and A2 horizons-20 to 55 cm) 
+    E--16 to 49 cm; pale brown (10YR 6/3) gravelly fine sandy loam, brown (10YR 4/3) moist; massive; soft, very friable; common fine, medium and coarse roots; common fine tubular pores; 30 percent fine pebbles; slightly acid; abrupt wavy boundary.  (Combined thickness of A1 and A2 horizons-20 to 55 cm) 
 
-    B21t--49 to 102 cm; brown (7.5YR 5/4) clay, brown (7.5YR 4/4) moist; strong medium blocky structure; very hard, very firm, slightly sticky and very plastic; many medium roots; few fine tubular pores; continuous thick clay films on surfaces of peds and in pores; 5 percent pebbles and cobbles; slightly acid; gradual wavy boundary.  (25 to 53 cm thick)
+    Bt1--49 to 102 cm; brown (7.5YR 5/4) clay, brown (7.5YR 4/4) moist; strong medium blocky structure; very hard, very firm, slightly sticky and very plastic; many medium roots; few fine tubular pores; continuous thick clay films on surfaces of peds and in pores; 5 percent pebbles and cobbles; slightly acid; gradual wavy boundary.  (25 to 55 cm thick)
 
-    B22t--102 to 163 cm; light brown (7.5YR 6/4) clay, brown (7.5YR 4/4) moist; strong coarse blocky structure that parts to moderate fine and medium blocky; very hard, very firm, slightly sticky and very plastic; few fine and medium roots; few fine tubular pores; continuous thick clay films on surfaces of peds and rock fragments, many pressure faces on secondary peds; 10 percent rock fragments; slightly acid.
+    Bt2--102 to 163 cm; light brown (7.5YR 6/4) clay, brown (7.5YR 4/4) moist; strong coarse blocky structure that parts to moderate fine and medium blocky; very hard, very firm, slightly sticky and very plastic; few fine and medium roots; few fine tubular pores; continuous thick clay films on surfaces of peds and rock fragments, many pressure faces on secondary peds; 10 percent rock fragments; slightly acid.
 
 TYPE LOCATION:  San Miguel County, New Mexico; about 2415 meters southeast of the Village of Rociada, or if section lines are projected from the Santa Fe National Forest, 185 meters south and 245 meters east of the NW corner section 6, T.18N., R.15E.
 
@@ -30,21 +30,21 @@ Rock fragment content--5 to 30 percent gravel, cobbles, channers and flagstones 
 Reaction--pH 6.1 to 7.3
 Some pedons lack an O horizon
 
-A1 horizon
+A horizon
 Hue--7.5YR or 10YR
 Value--4 or 5 dry, 3 or 4 moist
 Chroma--2 or 3
 Texture--loam or sandy loam
 Rock fragment content--5 to 25 percent gravel and 0 to 10 percent cobbles
 
-A2 horizon
+E horizon
 Hue--7.5YR or 10YR
 Value--5 through 7
 Chroma--3 or 4
 Texture--loam or fine sandy loam
 Rock fragment content--5 to 15 percent gravel and 0 to 5 percent cobbles
 
-B2t horizon
+Bt horizons
 Hue--5YR through 10YR
 Value--4 through 6
 Chroma--3 through 6
@@ -52,7 +52,7 @@ Texture--clay or sandy clay
 Clay content--45 to 60 percent
 Rock fragment content--0 to 10 percent cobbles, channers or flagstones
 
-COMPETING SERIES:  These are the Burnac, Hogg, and Mirand series.  Burnac soils have a montmorillonitic mineralogy.  Hogg soils have a lithic contact at depths of 100 to 150 cm.  Mirand soils lack an A2 horizon and receive less precipitation.
+COMPETING SERIES:  These are the Burnac, Hogg, and Mirand series.  Burnac soils have a montmorillonitic mineralogy.  Hogg soils have a lithic contact at depths of 100 to 150 cm.  Mirand soils lack an E horizon and receive less precipitation.
 
 GEOGRAPHIC SETTING:
 Landform--convex mountain slopes
@@ -76,7 +76,7 @@ SOIL SURVEY REGIONAL OFFICE (SSRO) RESPONSIBLE: Bozeman, Montana
 
 SERIES ESTABLISHED:  Las Vegas Area, San Miguel County, New Mexico, 1977
 
-REMARKS: Converted to metric, updated formatting, and O horizons were updated to start at zero. 7/2022
+REMARKS: Converted to metric, updated formatting, and O horizons were updated to start at zero. Competing series section was not updated. 7/2022
 
 National Cooperative Soil Survey
 U.S.A.

@@ -2,7 +2,7 @@ LOCATION NAMBE                  NM
 
 Established Series
 Rev. JAW/JBC/KLS
-03/2022
+09/2022
 
 NAMBE SERIES
 
@@ -16,13 +16,13 @@ TYPICAL PEDON:  Nambe loam, spruce forest.  (Colors are for dry soil unless othe
 
     Oe--3 to 6 cm; partially decomposed organic matter.
 
-    A1--6 to 14 cm; very dark grayish brown (10YR 3/2) loam, very dark brown (10YR 2/2) moist; moderate fine crumb structure; soft, very friable, nonsticky and nonplastic; many fine and medium roots; many very fine to medium pores; approximately 10 percent stones; very strongly acid (pH 5.0); clear smooth boundary.  (3 to 10 cm thick)
+    A--6 to 14 cm; very dark grayish brown (10YR 3/2) loam, very dark brown (10YR 2/2) moist; moderate fine crumb structure; soft, very friable, nonsticky and nonplastic; many fine and medium roots; many very fine to medium pores; approximately 10 percent stones; very strongly acid (pH 5.0); clear smooth boundary.  (3 to 10 cm thick)
 
-    A2--14 to 26 cm; brown (7.5YR 5/4) loam, brown (7.5YR 4/2) moist; weak fine and medium subangular blocky structure; soft, very friable, nonsticky and nonplastic; common medium and fine roots; many fine to medium pores; approximately 15 percent stones; very strongly acid (pH 4.5); clear wavy boundary.  (10 to 15 cm thick)
+    E--14 to 26 cm; brown (7.5YR 5/4) loam, brown (7.5YR 4/2) moist; weak fine and medium subangular blocky structure; soft, very friable, nonsticky and nonplastic; common medium and fine roots; many fine to medium pores; approximately 15 percent stones; very strongly acid (pH 4.5); clear wavy boundary.  (10 to 15 cm thick)
 
-    B21ir--26 to 52 cm; light brown (7.5YR 6/4) sandy loam, brown (7.5YR 4/4) moist; weak medium subangular blocky structure; slightly hard, very friable, nonsticky and nonplastic; few fine roots; common fine pores; approximately 30 percent stones; undersides of the stones have dark coatings presumed to be humus and iron oxides; very strongly acid (pH 5.0); gradual wavy boundary.  (20 to 36 cm thick)
+    Bs1--26 to 52 cm; light brown (7.5YR 6/4) sandy loam, brown (7.5YR 4/4) moist; weak medium subangular blocky structure; slightly hard, very friable, nonsticky and nonplastic; few fine roots; common fine pores; approximately 30 percent stones; undersides of the stones have dark coatings presumed to be humus and iron oxides; very strongly acid (pH 5.0); gradual wavy boundary.  (20 to 36 cm thick)
 
-    B22ir--52 to 67 cm; light brown (7.5YR 6/4) sandy loam, brown (7.5YR 4/4) moist; weak fine subangular blocky structure; hard, friable, nonsticky and nonplastic; few fine roots; few fine pores; approximately 60 percent stones; the stones have reddish brown coatings presumed to be humus and iron oxides; cementation in places; very strongly acid (pH 5.0); gradual wavy boundary.  (13 to 30 cm thick)
+    Bs2--52 to 67 cm; light brown (7.5YR 6/4) sandy loam, brown (7.5YR 4/4) moist; weak fine subangular blocky structure; hard, friable, nonsticky and nonplastic; few fine roots; few fine pores; approximately 60 percent stones; the stones have reddish brown coatings presumed to be humus and iron oxides; cementation in places; very strongly acid (pH 5.0); gradual wavy boundary.  (13 to 30 cm thick)
 
     C--67 to 158 cm; brown (10YR 5/3) sandy loam, brown (10YR 4/3) moist; massive; slightly hard, very friable, nonsticky and nonplastic; approximately 60 percent stones; very strongly acid (pH 5.0).
 
@@ -37,17 +37,17 @@ Base saturation-5 to 20 percent
 Surface textures--loam and sandy loam
 Rock fragment content--0 to 20 percent gravel and cobbles; 30 to 50 percent stones in the upper part of the solum and 50 to 80 percent in the lower part of the solum and in the C horizon
 
-A1 horizon
+A horizon
 Hue--10YR or 7.5YR
 Value--3 through 5 dry, 2 or 3 moist
 Chroma--1 through 3
 
-A2 horizon
+E horizon
 Hue--10YR or 7.5YR
 Value--5 through 7 dry, 4 or 5 moist
 Chroma--2 through 4
 
-B21ir horizon
+Bs1 horizon
 Hue--7.5YR or 5YR
 Value--4 through 6 dry, 3 through 5 moist
 Chroma--2 through 4
@@ -56,7 +56,7 @@ Clay content--6 to 15 percent
 Silt content--5 to 30 percent
 Sand content--55 to 80 percent
 
-B22ir horizon
+Bs2 horizon
 Hue--7.5YR through 2.5YR
 Value--5 or 6 dry, 4 or 5 moist
 Chroma--3 through 5
@@ -65,7 +65,7 @@ Clay content--6 to 15 percent
 Silt content--5 to 30 percent
 Sand content--55 to 80 percent
 
-COMPETING SERIES:  These are the Bensley, Crabtree, Endlich, Grenadier, Halleck, Holderman, Oatman and Valsetz series.  Bensley, Grenadier and Halleck soils have 18 to 35 percent clay in the B2 horizon.  Crabtree soils have mottles with chroma of 2 or less within depths of 50 to 75 cm.  Endlich, Holderman and Valsetz soils have bedrock at depths of less than 100 cm.  Oatman soils are slightly acid in the upper part of the solum and medium acid in the lower part.
+COMPETING SERIES:  These are the Bensley, Crabtree, Endlich, Grenadier, Halleck, Holderman, Oatman and Valsetz series.  Bensley, Grenadier and Halleck soils have 18 to 35 percent clay in the Bs horizon.  Crabtree soils have mottles with chroma of 2 or less within depths of 50 to 75 cm.  Endlich, Holderman and Valsetz soils have bedrock at depths of less than 100 cm.  Oatman soils are slightly acid in the upper part of the solum and medium acid in the lower part.
 
 GEOGRAPHIC SETTING:  
 Landform--mountain sideslopes
@@ -88,9 +88,9 @@ SOIL SURVEY REGIONAL OFFICE (SSRO) RESPONSIBLE: Bozeman, Montana
 
 SERIES ESTABLISHED:  Santa Fe County (Santa Fe Area), New Mexico, 1970
 
-REMARKS:  Converted to metric and O horizons were updated to start at zero. 2/2022
+REMARKS:  Converted to metric and O horizons were updated to start at zero. Competing series section was not updated. 2/2022
 
-ADDITIONAL DATA:  Riverside Laboratory 70NM-26-88 and 70NM-26-89.  Base saturation test determined by Hack field test kit.
+ADDITIONAL DATA:  Riverside Laboratory 70NM-26-88 and 70NM-26-89.  Base saturation test determined by Hach field test kit.
 
 National Cooperative Soil Survey
 U.S.A.

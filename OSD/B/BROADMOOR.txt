@@ -2,7 +2,7 @@ LOCATION BROADMOOR              CO+MT
 
 Established Series
 Rev. RHM/LSL/KLS
-03/2022
+09/2022
 
 BROADMOOR SERIES
 
@@ -12,24 +12,33 @@ TAXONOMIC CLASS: Loamy-skeletal, mixed, superactive, frigid Udic Haplustepts
 
 TYPICAL PEDON:  Broadmoor extremely gravelly sandy loam - forested.  (Colors are for dry soil unless otherwise noted.)
 
-    Oi1--0 to 3 cm; undecomposed organic material, mostly needles, bark, and twigs.
+    Oi--0 to 3 cm; undecomposed organic material, mostly needles, bark, and twigs.
 
-    Oi2--3 to 6 cm; partially decomposed organic material.
+    Oe--3 to 6 cm; partially decomposed organic material.
 
-    A2--6 to 44 cm; grayish brown (10YR 5/2) very gravelly sandy loam, dark grayish brown (10YR 4/2) moist; weak medium granular structure; soft, very friable, slightly sticky and slightly plastic; 60 percent gravel; moderately acid; gradual smooth boundary.  (25 to 50 cm thick)
+    E--6 to 44 cm; grayish brown (10YR 5/2) very gravelly sandy loam, dark grayish brown (10YR 4/2) moist; weak medium granular structure; soft, very friable, slightly sticky and slightly plastic; 60 percent gravel; moderately acid; gradual smooth boundary.  (25 to 50 cm thick)
 
-    B2--44 to 77 cm; brown (7.5YR 5/4) extremely gravelly sandy loam, dark grayish brown (10YR 4/2) moist; weak medium granular structure; soft, very friable, slightly sticky and slightly plastic; 60 percent gravel; moderately acid; gradual smooth boundary. 
+    Bw--44 to 77 cm; brown (7.5YR 5/4) extremely gravelly sandy loam, dark grayish brown (10YR 4/2) moist; weak medium granular structure; soft, very friable, slightly sticky and slightly plastic; 60 percent gravel; moderately acid; gradual smooth boundary. 
 
     Cr--77 cm; grus (highly weathered granite).
 
 TYPE LOCATION:  El Paso County, Colorado; about 4 kilometers west on Old Stage Road from intersection with Penrose Boulevard, in SE 1/4 of Sec. 3, T.  15 S., R. 67 W.
 
-RANGE IN CHARACTERISTICS:  Mean annual soil temperature ranges from 7 to 8 degrees C.  Depth to the paralithic contact ranges from 50 to 100 cm.  Rock fragments in the control section range from 35 to 80 percent by volume and are mostly 5 to 40 mm in diameter.  The fine earth fraction of the control section ranges in clay from 10 to 25 percent.  The profile has value of 5 or 6 dry, 4 or 5 moist, and chroma of 2 through 6.
+RANGE IN CHARACTERISTICS:  
+Mean annual soil temperature--7 to 8 degrees C
+Depth to paralithic contact--50 to 100 cm
+
+Particle size control section:
+Rock fragment content--35 to 80 percent by volume and are mostly 5 to 40 mm in diameter
+Clay content--10 to 25 percent
+
+The profile has value of 5 or 6 dry, 4 or 5 moist, and chroma of 2 through 6.
 
 COMPETING SERIES:  These are the Drexel, Hagstadt, and Winkler series.  Drexel and Winkler soils have no paralithic contact within a depth of 100 cm.  Hagstadt soils have clay loam or silty clay loam B horizons and have fractured siltstone at depths of 50 to 100 cm.
 
 GEOGRAPHIC SETTING:  
 Landform--mountain slopes and ridges
+Elevation--952 to 1775 meters
 Slope--15 to 70 percent
 Parent materials--materials weathered from granite
 Mean annual precipitation--430 to 530 mm
@@ -38,17 +47,17 @@ Frost-free period--85 to 95 days
 
 GEOGRAPHICALLY ASSOCIATED SOILS:  None listed
 
-DRAINAGE AND PERMEABILITY:  Somewhat excessively drained; rapid runoff; rapid permeability.
+DRAINAGE AND PERMEABILITY:  Somewhat excessively drained; rapid runoff; rapid permeability
 
 USE AND VEGETATION:  Use is for forestry, recreation, and wildlife habitat.  Vegetation is mostly ponderosa pine, Douglas-fir, and white fir, with a sparse understory of grasses and shrubs.
 
-DISTRIBUTION AND EXTENT:  Broadmoor soils are moderately extensive in east-central Colorado along foothills of the front range and the mountains of western Montana; MLRAs 43A, 43B, 48A
+DISTRIBUTION AND EXTENT:  Broadmoor soils are moderately extensive in eastcentral Colorado along foothills of the front range and the mountains of western Montana; MLRAs 43A, 43B, 48A
 
 SOIL SURVEY REGIONAL OFFICE (SSRO) RESPONSIBLE: Bozeman, Montana
 
 SERIES ESTABLISHED:  El Paso County, Colorado, 1975
 
-REMARKS:  Converted to metric and O horizons were updated to start at zero. 2/2022
+REMARKS:  Converted to metric and O horizons were updated to start at zero. Competing series section was not updated. 9/2022
 
 National Cooperative Soil Survey
 U.S.A.

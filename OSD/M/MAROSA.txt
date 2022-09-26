@@ -2,7 +2,7 @@ LOCATION MAROSA                 NM
 
 Established Series
 Rev. JOC/JAW/KLS
-07/2022
+09/2022
 
 MAROSA SERIES
 
@@ -14,13 +14,13 @@ TYPICAL PEDON:  Marosa cobbly loam, forested.  (Colors are for dry soil unless o
 
     Oi--0 to 3 cm; forest litter in various stages of decomposition.
 
-    A1--3 to 11 cm; light brownish gray (10YR 6/2) cobbly sandy loam, brown (10YR 5/3) moist; weak thin platy structure parting to weak fine granular; soft, friable; many very fine and fine, few medium and coarse roots; many very fine and fine pores; 15 percent gravel, 20 percent cobbles; neutral (pH 7.0); clear smooth boundary.  (5 to 13 cm thick)
+    A--3 to 11 cm; light brownish gray (10YR 6/2) cobbly sandy loam, brown (10YR 5/3) moist; weak thin platy structure parting to weak fine granular; soft, friable; many very fine and fine, few medium and coarse roots; many very fine and fine pores; 15 percent gravel, 20 percent cobbles; neutral (pH 7.0); clear smooth boundary.  (5 to 15 cm thick)
 
-    A21--11 to 44 cm; light gray (10YR 7/2) and very pale brown (10YR 8/2) extremely gravelly loamy sand, light brownish gray (10YR 6/2) moist; weak fine granular structure; soft, friable; many very fine and fine, few medium and coarse roots; many very fine and fine pores; 60 percent gravel, 15 percent cobbles; neutral (pH 6.8); gradual wavy boundary.  (25 to 38 cm thick)
+    E1--11 to 44 cm; light gray (10YR 7/2) and very pale brown (10YR 8/2) extremely gravelly loamy sand, light brownish gray (10YR 6/2) moist; weak fine granular structure; soft, friable; many very fine and fine, few medium and coarse roots; many very fine and fine pores; 60 percent gravel, 15 percent cobbles; neutral (pH 6.8); gradual wavy boundary.  (25 to 35 cm thick)
 
-    A22--44 to 90 cm; very pale brown (10YR 7/3) extremely gravelly sandy loam, yellowish brown (10YR 5/4) moist; weak fine granular structure; soft, friable; many very fine and fine, few medium and coarse roots; many very fine and fine pores; 60 percent gravel, 15 percent cobbles; neutral (pH 6.6); gradual wavy boundary.  (38 to 50 cm thick)
+    E2--44 to 90 cm; very pale brown (10YR 7/3) extremely gravelly sandy loam, yellowish brown (10YR 5/4) moist; weak fine granular structure; soft, friable; many very fine and fine, few medium and coarse roots; many very fine and fine pores; 60 percent gravel, 15 percent cobbles; neutral (pH 6.6); gradual wavy boundary.  (35 to 50 cm thick)
 
-    B2t--90 to 115 cm; light yellowish brown (10YR 6/4) extremely gravelly sandy clay loam, yellowish brown (10YR 5/4) moist; moderate fine and medium subangular blocky structure; hard, firm, slightly plastic; thin patchy clay films on faces of peds and on rock fragments; many very fine and fine, few medium roots; few fine pores; 40 percent gravel, 20 percent cobbles; neutral (pH 6.8); clear wavy boundary.  (25 to 40 cm thick)
+    Bt--90 to 115 cm; light yellowish brown (10YR 6/4) extremely gravelly sandy clay loam, yellowish brown (10YR 5/4) moist; moderate fine and medium subangular blocky structure; hard, firm, slightly plastic; thin patchy clay films on faces of peds and on rock fragments; many very fine and fine, few medium roots; few fine pores; 40 percent gravel, 20 percent cobbles; neutral (pH 6.8); clear wavy boundary.  (25 to 40 cm thick)
 
     C--115 to 186 cm; cobbles, gravel and stones with some of horizon above.  Rock fragments constitute 95 percent of horizon and consist of 45 percent gravel, 35 percent cobbles and 15 percent stones.
 
@@ -39,7 +39,7 @@ Chroma--2 through 4
 Texture--loamy sand, sandy loam, or loam
 Rock fragment content--25 to 60 percent gravel and 10 to 15 percent cobbles
 
-B2t horizon
+Bt horizon
 Hue--7.5YR or 10YR
 Value--6 or 7 dry, 4 through 6 moist
 Chroma--3 through 6
@@ -49,20 +49,20 @@ Rock fragment content--40 to 60 percent gravel and 20 to 40 percent cobbles
 C horizon
 Rock fragment content--90 to 95 percent pebbles, gravel, cobbles and stones
 
-COMPETING SERIES:  These are the Bundo, Diamante, Etoe, Mortenson and Tigeron series.  Bundo and Etoe soils have mixed A&B and B&A horizons.  Diamante and Mortenson soil have more than 35 percent clay in the family control section and Mortenson soils are montmorillonitic.
+COMPETING SERIES:  These are the Bundo, Diamante, Etoe, Mortenson and Tigeron series.  Bundo and Etoe soils have mixed E/B and B/E horizons.  Diamante and Mortenson soil have more than 35 percent clay in the family control section and Mortenson soils are montmorillonitic.
 
 GEOGRAPHIC SETTING:
 Landform--sides of mountains
 Elevations--2750 to 3350 meters
 Slopes--0 to 80 percent
-Parent Material--formed in residuum from rhyolite, andesite, granite and related rocks
+Parent material--formed in residuum from rhyolite, andesite, granite and related rocks
 Mean annual precipitation--760 to 1000 mm occurring as winter snow and rain and late summer rain  
 Mean annual air temperature--3 to 7 degrees C
 Average summer temperature--7 degrees C
 
 GEOGRAPHICALLY ASSOCIATED SOILS: None listed
 
-DRAINAGE AND PERMEABILITY:  Well drained; moderate permeability.
+DRAINAGE AND PERMEABILITY:  Well drained; moderate permeability
 
 USE AND VEGETATION:  Marosa soils are used for timber production, wildlife habitat, recreation and watershed.  Vegetation is Douglas fir, Engelmann spruce, aspen, and scattered subalpine fir.  The understory is kinnickinnick, whortleberry, grasses and forbs.
 
@@ -72,7 +72,7 @@ SOIL SURVEY REGIONAL OFFICE (SSRO) RESPONSIBLE: Bozeman, Montana
 
 SERIES ESTABLISHED:  Taos Area, New Mexico, 1976
 
-REMARKS: Converted to metric, updated formatting, and O horizons were updated to start at zero. 7/2022
+REMARKS: Converted to metric, updated formatting, and O horizons were updated to start at zero. Competing series section was not updated. 7/2022
 
 National Cooperative Soil Survey
 U.S.A.

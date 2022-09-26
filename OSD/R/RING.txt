@@ -2,7 +2,7 @@ LOCATION RING                   NM+CO
 
 Established Series
 Rev. GWA/BDS/KLS
-07/2022
+09/2022
 
 RING SERIES
 
@@ -14,13 +14,13 @@ TYPICAL PEDON:  Ring cobbly loam, forested.  (Colors are for dry soil unless oth
 
     Oe--0 to 3 cm; decomposed and decomposing forest litter.  (0 to 5 cm thick)
 
-    A1--3 to 18 cm; dark grayish brown (10YR 4/2) cobbly loam, very dark grayish brown (10YR 3/2) moist; moderate very fine granular structure; soft, friable, slightly sticky; many very fine, fine, and few coarse roots; many fine pores; 10 percent stones, cobbles, and gravel; slightly acid; clear wavy boundary.  (5 to 15 cm thick)
+    A--3 to 18 cm; dark grayish brown (10YR 4/2) cobbly loam, very dark grayish brown (10YR 3/2) moist; moderate very fine granular structure; soft, friable, slightly sticky; many very fine, fine, and few coarse roots; many fine pores; 10 percent stones, cobbles, and gravel; slightly acid; clear wavy boundary.  (5 to 15 cm thick)
 
-    B21t--18 to 38 cm; brown (7.5YR 5/4) cobbly sandy clay, brown (7.5YR 4/4) moist; weak medium and coarse subangular blocky structure; very hard, very firm, sticky, very plastic; common fine and very fine and few coarse roots; many fine pores; few very fine tubular pores; common moderately thick clay films on faces of peds and rock fragments; 25 percent stones, cobbles, and gravel; slightly acid; clear wavy boundary.
+    Bt1--18 to 38 cm; brown (7.5YR 5/4) cobbly sandy clay, brown (7.5YR 4/4) moist; weak medium and coarse subangular blocky structure; very hard, very firm, sticky, very plastic; common fine and very fine and few coarse roots; many fine pores; few very fine tubular pores; common moderately thick clay films on faces of peds and rock fragments; 25 percent stones, cobbles, and gravel; slightly acid; clear wavy boundary.
 
-    B22t--38 to 71 cm; brown (7.5YR 5/4) cobbly sandy clay, brown (7.5YR 4/4) moist; weak coarse subangular blocky structure; very hard, very firm, sticky, very plastic; few fine and coarse roots; few very fine tubular pores; many moderately thick clay films on faces of peds and rock fragments; 50 percent stones, cobbles, and gravel; neutral; gradual wavy boundary.
+    Bt2--38 to 71 cm; brown (7.5YR 5/4) cobbly sandy clay, brown (7.5YR 4/4) moist; weak coarse subangular blocky structure; very hard, very firm, sticky, very plastic; few fine and coarse roots; few very fine tubular pores; many moderately thick clay films on faces of peds and rock fragments; 50 percent stones, cobbles, and gravel; neutral; gradual wavy boundary.
 
-    B23t--71 to 101 cm; brown (7.5YR 5/4) cobbly sandy clay, brown (7.5YR 4/4) moist; weak coarse subangular blocky structure; very hard, very firm, sticky, very plastic; few fine and very fine and few coarse roots; few very fine tubular pores; common moderately thick clay films on faces of peds and rock fragments; 65 percent stones, cobbles, and gravel; neutral gradual wavy boundary.  (Combined thickness of B21t, B22t, and B23t horizons-65 to 100 cm)
+    Bt3--71 to 101 cm; brown (7.5YR 5/4) cobbly sandy clay, brown (7.5YR 4/4) moist; weak coarse subangular blocky structure; very hard, very firm, sticky, very plastic; few fine and very fine and few coarse roots; few very fine tubular pores; common moderately thick clay films on faces of peds and rock fragments; 65 percent stones, cobbles, and gravel; neutral gradual wavy boundary.  (Combined thickness of Bt horizons - 65 to 100 cm)
 
     C--101 to 154 cm; yellowish brown (10YR 5/4) cobbly sandy clay loam, yellowish brown (10YR 5/6) moist; massive; hard, firm, sticky, plastic; few fine, medium and coarse roots; few very fine tubular pores; 50 percent stones, cobbles, and gravel; neutral.
 
@@ -33,13 +33,13 @@ Thickness of Solum--75 to 114 cm
 Rock fragment content--20 to 65 percent; 45 percent stones, 40 percent cobbles and 15 percent gravel in the particle-size control section 
 Some pedons have lenses and pockets of sandstone and shale at a depth of 127 cm
 Some pedons lack an O horizon
-
-A1 horizon
+ 
+A horizon
 Value--4 or 5 dry, 2 or 3 moist
 Chroma--2 or 3 dry or moist
 Rock fragment content--10 to 40 percent
 
-B21t horizon
+Bt1 horizon
 Hue--7.5YR or 10YR
 Value--4 or 5 dry and moist
 Chroma--2 through 4 dry and moist
@@ -48,7 +48,7 @@ Clay content--35 to 50 percent
 Sand content--45 to 60 percent
 Rock fragment content--20 to 35 percent
 
-B22t and B23t horizons
+Bt2 and Bt3 horizons
 Hue--7.5YR or 10YR
 Value--4 or 5 dry and moist
 Chroma--2 through 4 dry and moist
@@ -89,7 +89,7 @@ SOIL SURVEY REGIONAL OFFICE (SSRO) RESPONSIBLE: Bozeman, Montana
 SERIES ESTABLISHED:  Colfax County, New Mexico, 1974
 
 REMARKS: 
-Converted to metric, updated formatting, and O horizons were updated to start at zero. 7/2022
+Converted to metric, updated formatting, and O horizons were updated to start at zero. Competing series section was not updated. 7/2022
 
 Ring series was formerly classified in the clayey, skeletal, mixed family of Mollic Eutroboralfs. 
 

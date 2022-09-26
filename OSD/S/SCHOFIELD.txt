@@ -1,54 +1,81 @@
 LOCATION SCHOFIELD              CO
 
 Established Series
-Rev. RHM
-02/1999
+Rev. RHM/KLS
+09/2022
 
 SCHOFIELD SERIES
 
-The Schofield soils have light brownish gray A2 horizons, mixed A&B horizons, and brown gravelly coarse sandy clay loam B2t horizons having subangular blocky structure over hard granite bedrock at depths of 32 inches.
+The Schofield series consists of moderately deep, well drained soils that formed in residuum derived from granite. These soils are on moderately to steeply sloping mountain sides at high elevations. Slopes are 2 to 50 percent or more. The mean annual precipitation is about 510 mm and the mean annual air temperature is about 1 degree C. 
 
 TAXONOMIC CLASS: Fine-loamy, mixed, superactive Typic Glossocryalfs
 
 TYPICAL PEDON:  Schofield gravelly sandy loam - forested.  (Colors are for dry soil unless otherwise noted.
 
-    01--2 to 1 inch; undecomposed organic material consisting primarily of leaves, twigs, needles, and bark.
+    Oi--0 to 3 cm; undecomposed organic material consisting primarily of leaves, twigs, needles, and bark.
 
-    02--1 inch to 0; partially decomposed organic material like that of the horizon above.
+    Oe--3 to 6 cm; partially decomposed organic material like that of the horizon above.
 
-    A2--0 to 8 inches; light brownish gray  (10YR 6/2) gravelly coarse sandy loam; grayish brown (10YR 5.2) moist; moderate fine granular structure; soft, very friable; vesicular; 15 percent fine angular granite gravel; slightly acid; gradual wavy boundary.  (6 to 10 inches thick)
+    E--6 to 26 cm; light brownish gray (10YR 6/2) gravelly coarse sandy loam; grayish brown (10YR 5/2) moist; moderate fine granular structure; soft, very friable; vesicular; 15 percent fine angular granite gravel; slightly acid; gradual wavy boundary.  (15 to 25 cm thick)
 
-    A&B--8 to 16 inches; pale brown (10YR 6/2) gravelly coarse sandy loam, dark brown (10YR 4/3) moist; weak fine subangular blocky structure parting to moderate to strong fine granules; very hard, very friable; nodules and seams of platy material like that of the underlying horizon imbedded in a matrix of material like that of the overlying horizon; 15 to 20 percent fine and very fine angular granite gravel; slightly acid; gradual wavy boundary.  (6 to 10 inches thick)
+    E/B--26 to 46 cm; light brownish gray (10YR 6/2) gravelly coarse sandy loam, brown (10YR 4/3) moist; weak fine subangular blocky structure parting to moderate to strong fine granules; very hard, very friable; nodules and seams of platy material like that of the underlying horizon imbedded in a matrix of material like that of the overlying horizon; 15 to 20 percent fine and very fine angular granite gravel; slightly acid; gradual wavy boundary.  (15 to 25 cm thick)
 
-    B2t--16 to 32 inches; brown (7.5YR 5/4) gravelly coarse sandy clay loam, dark brown (7.5YR 4/4) moist; moderate fine subangular blocky structure; extremely hard, very friable; thin continuous clay films on the surfaces of the peds; clay coatings on sand and gravel fragments; 25 percent fine angular granite gravel; neutral; abrupt smooth boundary.  (8 to 20 inches thick)
+    Bt--46 to 87 cm; brown (7.5YR 5/4) gravelly coarse sandy clay loam, brown (7.5YR 4/4) moist; moderate fine subangular blocky structure; extremely hard, very friable; thin continuous clay films on the surfaces of the peds; clay coatings on sand and gravel fragments; 25 percent fine angular granite gravel; neutral; abrupt smooth boundary.  (20 to 50 cm thick)
 
-    R--32 inches; hard granite bedrock.
+    R--87 cm; hard granite bedrock.
 
-TYPE LOCATION:  Gunnison County, Colorado; on the south side of Quartz Creek and .25 mile along the trail to the mine between Ohio City and Pitkin; SW1/4 Sec. 20, T. 50 N., R. 4 E.
+TYPE LOCATION:  Gunnison County, Colorado; on the south side of Quartz Creek and about 400 meters along the trail to the mine between Ohio City and Pitkin; SW1/4 sec. 20, T. 50 N., R. 4 E.
 
-RANGE IN CHARACTERISTICS:  Thickness of the solum and depth to bedrock range from 20 to 40 inches.  pH remains nearly constant or increases slightly as depth increases, and there is no horizon as thick as 4 inches with pH of 7.5 or higher above bedrock.  The soil is 60 to 100 percent base saturated in all parts of the B2t horizon.  This soil shows very little volume change or wetting and drying, and has extremely hard semi-cemented consistency when dry in those horizons low in organic material.  Rock fragments range from 15 to 35 percent by volume in a major portion of the solum and are predominantly fine angular granitic gravel.  The average soil temperature is 34 degrees F., and the average summer soil temperature is 42 degrees F., with an 0 horizon at least 4 inches thick.
+RANGE IN CHARACTERISTICS:
+Mean soil temperature--1 degree C
+Mean summer soil temperature--6 degrees C
+Thickness of solum and depth to bedrock--50 to 100 cm
+Thickness of O horizon--at least 10 cm thick
+Base Saturation--60 to 100 percent in all parts of the Bt horizon
+Rock fragment content--15 to 35 percent by volume in a major portion of the solum and are predominantly fine angular granitic gravel
+Reaction--pH remains nearly constant or increases slightly as depth increases, and there is no horizon as thick as 10 cm with pH of 7.5 or higher above bedrock.
+Note--This soil shows very little volume change or wetting and drying and has extremely hard semi-cemented consistency when dry in those horizons low in organic material.  
 
-The A2 horizon has hue of 10YR or 7.5YR, value of 6 or 7 dry, 4 or 5 moist, and chroma of 1.5 through 3.  Usually it has weak subangular blocky to granular structure but it has weak platy structure in some pedons.  The horizon is soft or slightly hard.
+E horizon
+Hue--10YR or 7.5YR
+Value--6 or 7 dry, 4 or 5 moist
+Chroma--1.5 through 3
+Structure--weak subangular blocky to granular structure but has weak platy structure in some pedons
 
-The B2t horizon has hue of 10YR through 5YR, value of 5 or 6 dry, 4 or 5 moist and chroma of 3 through 6.  When the hue of this horizon exceeds 7.5YR the colors should not be lithochromic and should be confined to horizons of maximum weathering.  This horizon is typically sandy clay loam with 18 to 30 percent clay and with a relatively high percentage of coarse and very coarse angular granitic sand in the sand fraction.  It ranges from pH 6.0 to 7.0.
+Bt horizon
+Hue--10YR through 5YR
+Value--5 or 6 dry, 4 or 5 moist
+Chroma--3 through 6
+When the hue of this horizon exceeds 7.5YR the colors should not be lithochromic and should be confined to horizons of maximum weathering.  
+Texture--sandy clay loam
+Clay Content--18 to 30 percent, with a relatively high percentage of coarse and very coarse angular granitic sand in the sand fraction
+Reaction--pH 6.0 to 7.0
 
-COMPETING SERIES:  These are the Ansel, Castelleia, Edloe, Grimstone, Hierro, Indart, Jacquette, Lick, Limber, Peeler, Perceton, Polvadera, Sapphire, Shule, Swapps, Swiftoll, Tahoma, Tongue River, Trapper, Uinta, Whitefish and Woodrock series.  Grimstone, Indart, Perceton, Polvadera and Tongue River soils have a paralithic contact above depth of 40 inches.  Ansel, Castelleia, Hierro, Jacquette, Lick, Peeler, Tahoma, Trapper, Uinta and Whitefish soils lack a lithic contact above depth of 40 inches.  Edloe, Limber and Swapps soils are calcareous at depths of less than 40 inches and have secondary calcium carbonate accumulation.  Shule soils have less than 15 percent rock fragments throughout the solum and have rock fragments mainly larger than 10 inches in diameter, and are not extremely hard and semi-cemented when dry.  Sapphire soils are stony throughout.  Woodrock soils are medium to very strongly acid and have a base saturation of less than 60 percent in at least part of the solum.
+COMPETING SERIES:  These are the Ansel, Castelleia, Edloe, Grimstone, Hierro, Indart, Jacquette, Lick, Limber, Peeler, Perceton, Polvadera, Sapphire, Shule, Swapps, Swiftoll, Tahoma, Tongue River, Trapper, Uinta, Whitefish and Woodrock series.  Grimstone, Indart, Perceton, Polvadera and Tongue River soils have a paralithic contact above depth of 100 cm.  Ansel, Castelleia, Hierro, Jacquette, Lick, Peeler, Tahoma, Trapper, Uinta and Whitefish soils lack a lithic contact above depth of 100 cm.  Edloe, Limber and Swapps soils are calcareous at depths of less than 100 cm and have secondary calcium carbonate accumulation.  Shule soils have less than 15 percent rock fragments throughout the solum and have rock fragments mainly larger than 250 mm in diameter and are not extremely hard and semi-cemented when dry.  Sapphire soils are stony throughout.  Woodrock soils are moderately to very strongly acid and have a base saturation of less than 60 percent in at least part of the solum.
 
-GEOGRAPHIC SETTING:  Schofield soils are on moderately to steeply sloping mountain sides at high elevations.  Slope gradients range from 2 to 50 or more percent.  These soils formed in moderately fine to moderately coarse textured sediments derived from underlying granite.  At the type location the average annual precipitation is 20 inches, 12 inches of which falls during the months of April through August.
+GEOGRAPHIC SETTING:
+Landform--moderately to steeply sloping mountain sides at high elevations
+Elevation--2900 to 3650 meters
+Slope--2 to 50 or more percent
+Parent material--moderately fine to moderately coarse textured sediments derived from underlying granite
+Mean annual precipitation--510 mm, 305 mm of which falls during the months of April through August.
+Mean annual air temperature--minus 1 to 3 degrees C
 
-GEOGRAPHICALLY ASSOCIATED SOILS:  These are the Peeler, Tellman, and Tex soils.  These soils have no lithic contact above depth of 40 inches.
+GEOGRAPHICALLY ASSOCIATED SOILS:  None listed
 
-DRAINAGE AND PERMEABILITY:  Well drained; slow runoff; moderate permeability.
+DRAINAGE AND PERMEABILITY:  Well drained; slow runoff; moderate permeability
 
-USE AND VEGETATION:  These soils are used for forestry, as native pastureland, and for recreational purposes.  Principal native vegetation is lodgepole pine, spruce, fir, lupines, juniper, and junegrass.
+USE AND VEGETATION:  These soils are used for forestry, as native pastureland, and for recreational purposes.  Principal native vegetation is lodgepole pine, spruce, fir, lupines, juniper, and Junegrass.
 
-DISTRIBUTION AND EXTENT:  The high mountainous areas of central Colorado.  Series is of moderate extent
+DISTRIBUTION AND EXTENT:  Schofield soils are moderately extensive in the high mountainous areas of central Colorado; MLRA 48A
 
-MLRA SOIL SURVEY REGIONAL OFFICE (MO) RESPONSIBLE: Bozeman, Montana
+SOIL SURVEY REGIONAL OFFICE (SSRO) RESPONSIBLE: Bozeman, Montana
 
-SERIES ESTABLISHED:  Gunnison County, Colorado, 1974.
+SERIES ESTABLISHED:  Gunnison County, Colorado, 1974
 
-REMARKS:  OSED scanned by NSSQA and cleaned up by Colorado.  Last revised by state on 8/74.
+REMARKS: Converted to metric, updated formatting, and O horizons were updated to start at zero. Competing series section was not updated. 9/2022
+
+Schofield soils have a cryic temperature regime and a udic soil moisture regime with a typic subclass.
 
 National Cooperative Soil Survey
 U.S.A.

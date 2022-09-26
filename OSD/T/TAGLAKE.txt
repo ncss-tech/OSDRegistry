@@ -2,7 +2,7 @@ LOCATION TAGLAKE                WY+CO
 
 Established Series
 Rev. WRG/CJF/KLS
-07/2022
+09/2022
 
 TAGLAKE SERIES
 
@@ -14,13 +14,13 @@ TYPICAL PEDON: Taglake very stony sandy loam - woodland. (Colors are for dry soi
 
      Oi--0 to 3 cm; forest duff.
 
-     A2--3 to 13 cm; light gray (10YR 7/2) very stony sandy loam, dark grayish brown (10YR 4/2) moist; moderate fine and very fine granular structure; slightly hard, very friable, slightly sticky; moderately acid (pH 6.0); clear wavy boundary. (10 to 38 cm thick)
+     E--3 to 13 cm; light gray (10YR 7/2) very stony sandy loam, dark grayish brown (10YR 4/2) moist; moderate fine and very fine granular structure; slightly hard, very friable, slightly sticky; moderately acid (pH 6.0); clear wavy boundary. (10 to 38 cm thick)
 
-     B1--13 to 51 cm; pale brown (10YR 6/3) very stony sandy loam, brown (10YR 5/3) moist, with less than 50 percent light gray coatings (A2) on faces of peds; weak medium subangular blocky structure parting to moderate fine and very fine granular; hard, friable, sticky and slightly plastic; slightly acid (pH 6.2); gradual wavy boundary.
+     BE--13 to 51 cm; pale brown (10YR 6/3) very stony sandy loam, brown (10YR 5/3) moist, with less than 50 percent light gray coatings (A2) on faces of peds; weak medium subangular blocky structure parting to moderate fine and very fine granular; hard, friable, sticky and slightly plastic; slightly acid (pH 6.2); gradual wavy boundary. (25 to 100 cm thick)
 
-     B2--51 to 64 cm; pale brown (10YR 6/3) very cobbly sandy loam, brown (10YR 5/3) moist; moderate medium subangular blocky structure; hard, friable, sticky and slightly plastic; slightly acid (pH 6.4); gradual wavy boundary. (Combined thickness of B1 and B2 horizons - 35 to 150 cm)
+     Bw--51 to 64 cm; pale brown (10YR 6/3) very cobbly sandy loam, brown (10YR 5/3) moist; moderate medium subangular blocky structure; hard, friable, sticky and slightly plastic; slightly acid (pH 6.4); gradual wavy boundary. (13 to 50 cm thick)
 
-     B3--64 to 155 cm; light gray (10YR 7/2) very stony sandy loam, grayish brown (10YR 5/2) moist; weak medium subangular blocky structure; hard, friable, sticky; slightly acid (pH 6.4); gradual wavy boundary.
+     BC--64 to 155 cm; light gray (10YR 7/2) very stony sandy loam, grayish brown (10YR 5/2) moist; weak medium subangular blocky structure; hard, friable, sticky; slightly acid (pH 6.4); gradual wavy boundary.
 
 TYPE LOCATION: Teton County, Wyoming; near parking lot of Signal Mountain turnoff; NE1/4 of the NW1/4 of sec. 36, T. 45 N., R. 115 W.
 
@@ -29,13 +29,13 @@ Mean annual soil temperature--2 to 3 degrees C
 Texture--sandy loam
 Rock fragment content--35 to 50 percent gravel, cobbles and stones
 
-A horizon
+E horizon
 Hue--10YR or 7.5YR
 Value--6 or 7 dry, 3 or 4 moist
 Chroma--2 or 3
 Reaction--pH 5.6 to 6.5
 
-B2 horizon
+Bw horizon
 Hue--10YR or 7.5YR
 Value--5 or 6 dry, 4 or 5 moist
 Chroma--3 through 6
@@ -43,7 +43,7 @@ Texture--very cobbly sandy loam
 Rock fragment content--35 to 50 percent gravel, cobbles and stones
 Reaction--pH 5.6 to 6.5
 
-COMPETING SERIES: These are the Blackleed, Devore, Garlet, Losee, Nambe, Scout and Umpa series. Blackleed soils lack an A2 horizon. Devore and Umpa soils have a lithic contact at a depth of less than 100 cm.  Garlet soils have an A&B horizon that starts at a depth below 75 cm.  Losee soils have a calcareous C horizon. Nambe and Scout soils lack light gray (A2) coatings ln the upper part of the B horizon. Also, Scout soils have an A2 horizon thicker than 38 cm and Nambe soils are extremely acid or strongly acid.
+COMPETING SERIES: These are the Blackleed, Devore, Garlet, Losee, Nambe, Scout and Umpa series. Blackleed soils lack an E horizon. Devore and Umpa soils have a lithic contact at a depth of less than 100 cm.  Garlet soils have an E/Bw horizon that starts at a depth below 75 cm.  Losee soils have a calcareous C horizon. Nambe and Scout soils lack light gray (E) coatings in the upper part of the Bw horizon. Also, Scout soils have an E horizon thicker than 38 cm and Nambe soils are extremely acid or strongly acid.
 
 GEOGRAPHIC SETTING: 
 Landform--glacial moraines
@@ -65,7 +65,7 @@ SOIL SURVEY REGIONAL OFFICE (SSRO) RESPONSIBLE: Bozeman, Montana
 
 SERIES ESTABLISHED: Teton County, Wyoming, Grand Teton National Park Area, 1976
 
-REMARKS: Converted to metric, updated formatting, and O horizons were updated to start at zero. 7/2022
+REMARKS: Converted to metric, updated formatting, and O horizons were updated to start at zero. Competing series section was not updated. 7/2022
 
 National Cooperative Soil Survey
 U.S.A.

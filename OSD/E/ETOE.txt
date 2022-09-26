@@ -2,7 +2,7 @@ LOCATION ETOE                   NM+CO
 
 Established Series
 Rev. GWA/BDS/KLS
-07/2022
+09/2022
 
 ETOE SERIES
 
@@ -16,17 +16,17 @@ TYPICAL PEDON:  Etoe loam, forested. (Colors are for dry soil unless otherwise n
 
     Oe--3 to 6 cm; moderately decomposed forest litter.
 
-    A21--6 to 14 cm; light brownish gray (10YR 6/2) loam, brown (10YR 4/3) moist; weak, very fine granular structure; soft, friable, slightly plastic; many fine roots; many fine pores; less than 5 percent rock fragments; slightly acid; clear smooth boundary. (5 to 13 cm thick)
+    E1--6 to 14 cm; light brownish gray (10YR 6/2) loam, brown (10YR 4/3) moist; weak, very fine granular structure; soft, friable, slightly plastic; many fine roots; many fine pores; less than 5 percent rock fragments; slightly acid; clear smooth boundary. (5 to 13 cm thick)
 
-    A22--14 to 34 cm; pale brown (10YR 6/3) loam, dark brown (10YR 3/3) moist; single grained and weak very fine granular structure; soft, friable, slightly plastic; many few fine coarse and medium roots; many fine pores; less than 10 percent rock fragments; slightly acid; gradual wavy boundary. (15 to 25 cm thick)
+    E2--14 to 34 cm; pale brown (10YR 6/3) loam, dark brown (10YR 3/3) moist; single grained and weak very fine granular structure; soft, friable, slightly plastic; many few fine coarse and medium roots; many fine pores; less than 10 percent rock fragments; slightly acid; gradual wavy boundary. (15 to 25 cm thick)
 
-    A&B--34 to 67 cm; 85 percent (A) pale brown (10YR 6/3) cobbly loam, dark yellowish brown (10YR 4/4) moist; and 15 percent (B) strong brown (7.5YR 5/6) cobbly fine sandy loam, dry and moist; weak medium subangular blocky structure; slightly hard, very friable; many fine, few coarse and medium roots; many fine tubular pores; 25 percent rock fragments; slightly acid; gradual wavy boundary. (15 to 25 cm thick)
+    E/B--34 to 67 cm; 85 percent (E) pale brown (10YR 6/3) cobbly loam, dark yellowish brown (10YR 4/4) moist; and 15 percent (B) strong brown (7.5YR 5/6) cobbly fine sandy loam, dry and moist; weak medium subangular blocky structure; slightly hard, very friable; many fine, few coarse and medium roots; many fine tubular pores; 25 percent rock fragments; slightly acid; gradual wavy boundary. (15 to 25 cm thick)
 
-    B&A--67 to 97 cm; 25 percent (B) strong brown (7.5YR 5/6) dry and moist, very cobbly fine sandy loam and 75 percent (A) pale brown (10YR 6/3) cobbly loam, dark yellowish brown (10YR 4/4) moist; weak medium and coarse subangular blocky structure; slightly hard, very friable; few coarse and medium roots; many fine tubular pores; 40 percent rock fragments; slightly acid; clear wavy boundary. (25 to 50 cm thick)
+    B/E--67 to 97 cm; 25 percent (B) strong brown (7.5YR 5/6) dry and moist, very cobbly fine sandy loam and 75 percent (E) pale brown (10YR 6/3) cobbly loam, dark yellowish brown (10YR 4/4) moist; weak medium and coarse subangular blocky structure; slightly hard, very friable; few coarse and medium roots; many fine tubular pores; 40 percent rock fragments; slightly acid; clear wavy boundary. (25 to 50 cm thick)
 
-    B21t--97 to 138 cm; strong brown (7.5YR 5/6) and brown (7.5YR 4/4) extremely cobbly sandy clay loam, brown (7.5YR 4/4) moist; weak medium subangular blocky and moderate fine granular structure; hard, firm, slightly sticky and slightly plastic; common fine roots; many fine pores; thick, patchy clay films; 60 percent rock fragments; neutral; clear wavy boundary. (30 to 50 cm thick)
+    Bt1--97 to 138 cm; strong brown (7.5YR 5/6) and brown (7.5YR 4/4) extremely cobbly sandy clay loam, brown (7.5YR 4/4) moist; weak medium subangular blocky and moderate fine granular structure; hard, firm, slightly sticky and slightly plastic; common fine roots; many fine pores; thick, patchy clay films; 60 percent rock fragments; neutral; clear wavy boundary. (30 to 50 cm thick)
 
-    B22t--138 to 191 cm; strong brown (7.5YR 5/6) and brown (7.5YR 4/4) extremely cobbly sandy clay loam, brown (7.5YR 4/4) moist; weak medium and fine subangular blocky structure; hard, firm, slightly sticky and slightly plastic; few fine roots; many fine pores; thick patchy clay films; 70 percent rock fragments; neutral.
+    Bt2--138 to 191 cm; strong brown (7.5YR 5/6) and brown (7.5YR 4/4) extremely cobbly sandy clay loam, brown (7.5YR 4/4) moist; weak medium and fine subangular blocky structure; hard, firm, slightly sticky and slightly plastic; few fine roots; many fine pores; thick patchy clay films; 70 percent rock fragments; neutral.
 
 TYPE LOCATION:  Colfax County, New Mexico; about 19 km south of Eagle Nest, about 2 km north-northwest of point where U. S. Highway 64 leaves the Morino Valley
 
@@ -35,23 +35,23 @@ Mean annual soil temperature--4 degrees to 8 degrees C
 Mean summer soil temperature--8 degrees to 10 degrees C
 Thickness of solum--150 to 230 cm
 Depth to the argillic horizon--60 to 100 cm
-Rock fragment content--A horizon: 0 to 60 percent; A&B and B&A horizons: 20 to 65 percent; B horizons: 50 to 85 percent. Fragments are angular pebbles, cobbles, and stones of sandstone lithology.
-Some pedons have a thin A1 horizon.
+Rock fragment content--A horizon: 0 to 60 percent; A/B and B/A horizons: 20 to 65 percent; Bt horizons: 50 to 85 percent. Fragments are angular pebbles, cobbles, and stones of sandstone lithology.
+Some pedons have a thin A horizon.
 
-A2 horizon
+E horizons
 Hue--10YR or 7.5YR
 Value--6 or 7 dry, 3 through 5 moist
 Chroma--2 or 3 dry and moist
 Texture--loam, sandy loam or fine sandy loam
 
-A&B and B&A horizons 
+E/B and B/E horizons 
 Hue--10YR or 7.5YR
 Value--5 or 6 dry, 4 or 5 moist
 Chroma--3 through 6, dry and moist
 Texture--loam, sandy clay loam or fine sandy loam
 Structure--weak or moderate, medium or coarse subangular blocky structure
 
-B2t horizon
+Bt horizon
 Hue--7.5YR or 5YR
 Value--3 through 7 dry; 3 through 5 moist
 Chroma--2 through 6, dry and moist
@@ -59,7 +59,7 @@ Texture--heavy sandy loam, loam, or sandy clay loam
 Clay content--10 to 25 percent clay
 Sand content--more than 45 percent
 
-COMPETING SERIES:  These are the Angostura, Bundo, Coldcreek, Cundiyo, Gambler, Jorge, Lake Creek, Marosa, Tecolote, Tigeron and Yourame series. Angostura, Coldcreek, Cundiyo, Gambler, Jorge, Lake Creek, Tecolote and Yourame soils have argillic horizons whose upper boundary is shallower than 60 cm. Bundo soils have argillic horizons whose upper boundary is deeper than 115 cm. Marosa soils lack A&B and B&A horizons. Tigeron soils are strongly or medium acid.
+COMPETING SERIES:  These are the Angostura, Bundo, Coldcreek, Cundiyo, Gambler, Jorge, Lake Creek, Marosa, Tecolote, Tigeron and Yourame series. Angostura, Coldcreek, Cundiyo, Gambler, Jorge, Lake Creek, Tecolote and Yourame soils have argillic horizons whose upper boundary is shallower than 60 cm. Bundo soils have argillic horizons whose upper boundary is deeper than 115 cm. Marosa soils lack E/B and B/E horizons. Tigeron soils are strongly or medium acid.
 
 GEOGRAPHIC SETTING:  
 Landform--steep and very steep, stony, convex northerly facing slopes
@@ -67,13 +67,13 @@ Elevations--2750 to 3350 meters
 Slope--20 to 60 percent
 Parent material--colluvial-alluvial material derived from sandstone and shale of the Magdalena formation
 Mean annual precipitation--460 to 640 mm, with about 75 percent falling during the frost-free season
-Mean annual air temperature is 3 to 7 degrees C
-Mean summer temperature is 7 to 9 degrees C
+Mean annual air temperature--3 to 7 degrees C
+Mean summer temperature--7 to 9 degrees C
 Frost-free period--less than 90 days
 
 GEOGRAPHICALLY ASSOCIATED SOILS:  None listed
 
-DRAINAGE AND PERMEABILITY:  Well drained; medium runoff; moderate permeability.
+DRAINAGE AND PERMEABILITY:  Well drained; medium runoff; moderate permeability
 
 USE AND VEGETATION:  Timber production, wildlife, recreation and watershed. Overstory is Douglas-fir, white fir and aspen. Understory is shrubs and scattered mountain grasses.
 
@@ -83,7 +83,7 @@ SOIL SURVEY REGIONAL OFFICE (SSRO) RESPONSIBLE: Bozeman, Montana
 
 SERIES ESTABLISHED:  Colfax County, New Mexico, 1974
 
-REMARKS: Converted to metric, updated formatting, and O horizons were updated to start at zero. 3/2022
+REMARKS: Converted to metric, updated formatting, and O horizons were updated to start at zero. Competing series section was not updated. 3/2022
 
 ADDITIONAL DATA:  Lincoln Lab. S66NMex-4-1 (66L595).
 
