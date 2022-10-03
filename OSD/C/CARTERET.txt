@@ -1,74 +1,118 @@
 LOCATION CARTERET               NC+VA
 
 Established Series
-Rev. RLV:AG
-07/1999
+Rev. MCR/RBT
+09/2022
 
 CARTERET SERIES
 
-The Carteret series consists of very poorly drained sandy soils in the tidal marshes along the Atlantic Coast between the coastline and the mainland.  They are saturated continuously with water and flooded twice daily by tides.  Near the type location, mean annual temperature is 63 degrees F., and mean annual precipitation is 53 inches.  Slopes are 0 to 2 percent.
+MLRA(s): 153B
+Soil Survey Regional Office (SSRO) Responsible: Raleigh, North Carolina
+Depth Class: Very deep
+Drainage Class (Agricultural): Very poorly drained
+Saturated Hydraulic Conductivity Class: High to very high
+Landscape: Coastal Plain
+Landform: Back barrier island tidal marshes
+Parent Material: Sandy marine deposits
+Slope: 0 to 2 percent
+Elevation (type location): 0 meters
+Frost Free Period (type location): 260 days
+Mean Annual Air Temperature: 17 degrees C. (63 degrees F.)
+Mean Annual Precipitation: 1346 millimeters (53 inches)
 
 TAXONOMIC CLASS: Mixed, thermic Typic Psammaquents
 
-TYPICAL PEDON:  Carteret loamy sand--coastal tidal marsh.
-(Colors are for moist soil unless otherwise stated.)
+TYPICAL PEDON: Carteret mucky loamy sand on a 0 percent slope in a polyhaline tidal marsh. (Colors are for moist soil unless otherwise stated.)
 
-     A--0 to 4 inches; dark grayish brown (2.5Y 4/2) loamy sand; weak medium granular structure; very friable; many fine roots; few to common gravel-size fragments of shells; moderately alkaline; clear smooth boundary.  (3 to 9 inches thick)
+ Ase--0 to 13 cm (0 to 5 inches); black (10YR 2/1) mucky loamy sand; weak medium granular structure; friable; slightly fluid; slightly sticky, nonplastic; no sulfurous odor; many fine, medium, and coarse roots throughout; 2 percent gravel-size shell fragments; neutral (pH 7.05), slightly acid (pH 6.36) after moist incubation; slightly effervescent with 30% hydrogen peroxide; clear smooth boundary. (8 to 23 cm thick)
 
-     Ag--4 to 10 inches; dark gray (N 4/0) loamy sand; weak medium granular structure; very friable; many fine roots; common sand and gravel-size fragments of shells; moderately alkaline; gradual smooth boundary.  (0 to 11 inches thick)
+ ACse--13 to 30 cm (5 to 12 inches); dark grayish brown (2.5Y 4/2) loamy sand; weak medium subangular blocky structure; very friable; nonfluid; nonsticky, nonplastic; no sulfurous odor; many fine, medium, and coarse roots throughout; 5 percent gravel-size shell fragments; neutral (pH 7.16), strongly acid (pH 5.39) after moist incubation; slightly effervescent with 30% hydrogen peroxide; clear smooth boundary. (0 to 28 cm thick)
 
-     C1g--10 to 34 inches; gray (N 5/0) loamy sand; single grained; very friable; common fine roots in upper part; common sand-size fragments of shells; neutral; gradual smooth boundary.  (16 to 36 inches thick)
+ Cseg1--30 to 55 cm (12 to 22 inches); dark greenish gray (10Y 4/1) sand; single grain; loose; nonfluid; nonsticky, nonplastic; moderate sulfurous odor; common fine and medium roots throughout; common coarse prominent black (10YR 2/1) iron monosulfide soft masses; slightly alkaline (pH 7.61), extremely acid (pH 4.21) after moist incubation; slightly effervescent with 30% hydrogen peroxide; clear smooth boundary. 
 
-     C2g--34 to 80 inches; greenish gray (5GY 5/1) sand; single grained; loose; common sand and gravel-size fragments of shells; moderately alkaline.
+ Cseg2--55 to 72 cm (22 to 28 inches); greenish gray (10Y 5/1) sand; single grain; loose; nonfluid; nonsticky, nonplastic; slight sulfurous odor; few fine roots throughout; common very dark gray (10YR 3/1) organic stains and root channels; 5 percent gravel-size shell fragments; slightly alkaline (pH 7.71), extremely acid (pH 4.47) after moist incubation; slightly effervescent with 30% hydrogen peroxide; gradual smooth boundary.
 
-TYPE LOCATION:  Carteret County, North Carolina; from junction of Atlantic Beach Morehead City road at Atlantic Beach 3,500 feet east on SR 1201, 250 feet north of road in tidal marsh.
+ Cseg3--72 to 114 cm (28 to 45 inches); greenish gray (10Y 5/1) sand; single grain loose; nonfluid; nonsticky, nonplastic; slight sulfurous odor; 5 percent gravel-size shell fragments; slightly alkaline (7.55 pH), slightly acid (pH 6.11) after moist incubation; slightly effervescent with 30% hydrogen peroxide; gradual smooth boundary.
 
-RANGE IN CHARACTERISTICS:  Reaction ranges from moderately acid to moderately alkaline throughout the profile.  Few to many fragments of shells are present throughout the profile.
+ Cseg4--114 to 171 cm (45 to 67 inches); gray (5Y 5/1) sand; single grain; loose; nonfluid; nonsticky, nonplastic; slight sulfurous odor; 2 percent gravel-size shell fragments; slightly alkaline (7.53 pH), slightly acid (pH 6.22) after moist incubation; slightly effervescent with 30% hydrogen peroxide; clear smooth boundary.
 
-The A horizon has hue of 10YR to 5Y, value of 3 to 6, and chroma of 1 to 3.  It is loamy sand or sand.
+ Cseg5--171 to 203 cm (67 to 80 inches); dark gray (5Y 4/1) sand; single grain; loose; nonfluid; nonsticky, nonplastic; slight sulfurous odor; 2 percent gravel-size shell fragments; moderately alkaline (8.26 pH), slightly alkaline (pH 7.40) after moist incubation; slightly effervescent with 30% hydrogen peroxide. (152 to 192 cm thick)
 
-The Ag horizon, where present, has hue of 10YR to 5GY, value of 3 to 6, and chroma of 0 to 2.  It is loamy sand or sand.
+TYPE LOCATION: Dare County, North Carolina; approximately 6,100 feet southeast of the base of the Oregon Inlet Bridge as it enters Rodanthe on NC Highway 12, 750 feet west of Highway 12 in a tidal marsh; USGS Oregon Inlet topographic quadrangle; latitude 35 degrees 45 minutes 12.85 seconds N. and longitude 75 degrees 30 minutes 48.68 seconds W. WGS84.
 
-The Cg horizon has hue of 10YR to 5BG or is neutral, value of 4 to 6, and chroma of 0 to 2.  It is loamy sand or sand.  In some pedons thin intermittent layers of clay loam, silty clay loam, or layers of shell are present.
+RANGE IN CHARACTERISTICS:
+Solum Thickness ranges from 8 to 48 centimeters (3 to 19 inches)
+Depth to Bedrock:  Greater than 200 cm (80 inches)
+Soil Reaction: Moderately acid to moderately alkaline, throughout the profile.  Moist incubated soil reactions range from extremely acid to slightly alkaline.
+Shell Fragments: 0 to 35 percent, by volume throughout with their shelly analogs.
 
-COMPETING SERIES:  These include the Dello and Lang series in the same family and the Duckston and Osier series in closely related family.  Dello and Lang soils are at a higher elevation, in a dry climate with 10 to 20 inches of rainfall.  Duckston and Osier soils have siliceous mineralogy and are not flooded daily by tides.
+RANGE OF INDIVIDUAL HORIZONS:
+Oase, Oese, Oa, or Oe horizons (where present): 
+Some pedons have organic horizons <20 cm in total thickness at the soil surface. 
+Color--hue 7.5YR to 2.5Y, value of 2 to 3, and chroma of 1 to 3.
+Texture--muck or mucky peat. 
 
-GEOGRAPHIC SETTING:  Carteret soils are on nearly level tidal marshes bordering the outer banks along the Atlantic Coast, on islands in sounds between the outer banks and the mainland, and along some streams extending inland from the sounds.  Elevation is about 1 foot below to 3 feet above mean sea level.  These soils may be flooded by daily high tides or, in some areas, monthly by lunar high tides.  The water table is at or near the surface most of the time.  The soils formed in sandy marine or fluvial sediments and, in some places, contain an overburden of wind blown sands.  The mean annual air temperature ranges from 58 to 70 degrees F., mean annual precipitation ranges from 45 to 60 inches.  Near the type location, the freeze-free season is 260 days.
+Ase or A horizon:
+Color--hue of 10YR to 5Y, value of 2 to 5, and chroma of 1 to 3. 
+Texture--sandy loam, loamy sand, or sand with mucky analogs.
 
-GEOGRAPHICALLY ASSOCIATED SOILS:  In addition to the competing Duckston and Osier series, these are the Bohicket, Capers, Corolla, Fripp and Newhan series.  Bohicket and Capers soils have more than 35 percent clay in the control section.  Corolla soils are moderately well drained and somewhat poorly drained and have an upper C horizon in chroma of 3 or more.  Fripp and Newhan have deep ground water tables and are not saturated with water at any period during the year.
+ACse or ACseg horizon (where present):
+Color--hue of 10YR to 5GY or is neutral, value of 3 to 6, and chroma of 0 to 2. 
+Texture--loamy sand or sand.
 
-DRAINAGE AND PERMEABILITY:  Very poorly drained.  Permeability is rapid or very rapid.  Carteret soils are continuously saturated.
+Cseg or Cg horizons:
+Color--hue of 10YR to 5BG or is neutral, value of 4 to 6, and chroma of 0 to 2. 
+Texture--loamy sand or sand. In some pedons thin intermittent layers of clay loam, silty clay loam, or layers of shell are present.
 
-USE AND VEGETATION:  Carteret soils are mostly used as a natural habitat for fish and shellfish production; a few areas are used for grazing and some areas have been diked and filled for use as water front homesites.  Dominant vegetation is giant cordgrass and marshhay with needle rush in areas bordering higher adjacent soils.
+Aseb or Ab horizons (where present):
+Some pedons have buried surfaces within 200 cm of the modern soil surface.
+Color--hue of 10YR to 5Y, value of 2 to 5, and chroma of 1 to 3. 
+Texture--sandy loam, loamy sand, or sand. Some Aseb or Ab horizons have mucky modified textures. 
 
-DISTRIBUTION AND EXTENT:  The outer banks sound area of North Carolina and Virginia.  The series is of moderate extent.
+COMPETING SERIES:
+Camocca soils--are slightly higher on the landscape with better drainage with less frequent flooding
+Dello and Lang soils--are in floodplains and do not receive daily tidal flooding
+Duckston and Osier soils--have siliceous mineralogy and are not flooded daily by tides.
 
-MLRA SOIL SURVEY REGIONAL OFFICE (MO) RESPONSIBLE: Raleigh, North Carolina
+GEOGRAPHIC SETTING:
+Landscape:  Coastal Plain
+Landform: Back barrier island tidal marshes (Atlantic Coast)
+Elevation: 0.3 meters below sea level to 1 meter
+Parent Material: Sandy marine deposits (some locations do have a thin eolian sand deposits on the surface)
+Frost Free Period: 200 to 270 days
+Mean Annual Air Temperature: 14 to 21 degrees C. (58 to 70 degrees F.)
+Mean Annual Precipitation: 1,143 to 1,524 millimeters (45 to 60 inches)
 
-SERIES ESTABLISHED:  Carteret County, North Carolina; 1975.  The name is from Carteret County.
+GEOGRAPHICALLY ASSOCIATED SOILS: 
+Bohicket and Capers soils--have more than 35 percent clay throughout
+Corolla soils--occur slightly higher on the landscape and do not contain sulfides within the particle size control section
+Currituck soils--are on similar landscapes and contain thick organic soil materials
+Fripp and Newhan soils--occur higher on the landscape, have very deep water tables, and do not contain sulfides
+
+DRAINAGE AND SATURATED HYDRAULIC CONDUCTIVITY:
+Drainage Class (Agricultural): Very poorly drained
+Saturated Hydraulic Conductivity: High to very high
+Internal Free Water Occurrence: Very shallow, 0 to 25 cm (0 to 10 inches) continuously
+Flooding: Very frequently flooding for extremely or very brief durations (daily high tides)
+
+USE AND VEGETATION:
+Major uses: Natural habitat for fish and shellfish production; a few areas are used for grazing and some areas have been diked and filled for use as water-front homesites. Dominant vegetation: Black needlerush, with lesser amounts of big cordgrass, and marsh hay. The needlerush vegetation often is immediately adjacent to the upland eolian sand dune areas on the Outer Banks.
+
+SOIL SURVEY REGIONAL OFFICE (SSRO) RESPONSIBLE: Raleigh, North Carolina
+
+DISTRIBUTION AND EXTENT:
+Distribution: Outer banks and sound area of North Carolina and Virginia
+Extent: Moderate
+
+SERIES ESTABLISHED: Carteret County, North Carolina; 1975.
 
 REMARKS:
-
 Diagnostic horizons and features recognized in this pedon are:
+Ochric epipedon - the zone from the surface to a depth of 30 centimeters. (Ase and ACse horizons).
+Peraquic feature - continuously endo saturated soil profile with very frequent tidal flooding.
 
-Ochric epipedon - the zone from the surface to a depth of 10 inches. (A and Ag horizons)
-
-MLRA: 153A, 153B
-
-TABULAR SERIES DATA:
-
-SOI-5  Soil Name   Slope  Airtemp FrFr/Seas Precip  Elevation
-NC0104 CARTERET    0-  2   58- 70  200-270  45- 60     0-   3
-
-SOI-5  FloodL FloodH Watertable Kind   Months  Bedrock Hardness NC0104 FREQ            0-1.0  APPARENT JAN-DEC  60-60
-
-SOI-5  Depth  Texture                3-Inch  No-10  Clay%   -CEC- NC0104  0-80  LS LFS                  0-  3  90-100  5-12   2- 20 NC0104  0-80  S FS                    0-  3  90-100  2- 8   3- 20
-
-SOI-5  Depth    -pH-     O.M.  Salin  Permeab   Shnk-Swll
-NC0104  0-80  5.6- 8.4  .5-8. 16-80   6.0-  20  LOW
-NC0104  0-80  5.6- 8.4  .5-8. 16-80   6.0-  20  LOW
-
-ADDITIONAL DATA:  North Carolina State University, Department of Soil Science laboratory.  Data from type location.
-
+ADDITIONAL DATA: This series sampled as S2022NC055001. Data can be obtained from NC State University.
+Database Information: Representative Pedon Data Mapunit--466111
+________________________________________
 National Cooperative Soil Survey
 U.S.A.

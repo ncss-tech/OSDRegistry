@@ -26,7 +26,7 @@ TYPICAL PEDON: Rend silt loam, on a linear, 6 percent backslope in a grass field
 
 TYPE LOCATION: Franklin County, Illinois; about 0.4 kilometers (one-quarter mile) northwest of maintenance office of Wayne Fitzgerrell State Park; 710 feet south and 320 feet west of the northeast corner of section 14, T. 5 S., R. 2 E.
 
-USGS topographic quadrangle--Rend Lake Dam
+USGS topographic quadrangle--Rend Lake Dam, Illinois
 Latitude 38.0947326 
 Longitude -88.9507664
 Datum--WGS84
@@ -90,10 +90,10 @@ Wrengart soils have more than 14 percent rock fragments in the lower part of the
 GEOGRAPHIC SETTING: 
 Rend soils are on treads and risers of structural benches that are mainly adjacent to tributaries of the Mississippi River. Slope ranges from 2 to 10 percent. Rend soils form in 41 to 102 centimeters (16 to 40 inches) of loess (Peoria Loess) and in the underlying 76 to 152 centimeters (30 to 60 inches) of other silty or loamy deposits thought to be pedisediment or locally reworked A horizon of paleosols and early Wisconsin loess (Roxana Silt). This underlying material often contains a few igneous pebbles or coarse fragments from local bedrock deposited as glacial drift. 
 
-Mean annual precipitation--1016 to 1143 millimeters (40 to 45 inches). 
-Mean annual temperature--12 to 14 degrees C (54 to 57 degrees F). 
-Frost-free period--190 to 225 days. 
-Elevation--116 to 139 meters (382 to 456 feet) above mean sea level.
+Mean annual precipitation--1016 to 1143 millimeters (40 to 45 inches) 
+Mean annual temperature--12 to 14 degrees C (54 to 57 degrees F) 
+Frost-free period--190 to 225 days 
+Elevation--116 to 139 meters (382 to 456 feet) above mean sea level
 
 GEOGRAPHICALLY ASSOCIATED SOILS: 
 These are the bench phases of the somewhat poorly drained Bluford soils and the poorly drained Cisne and Wynoose soils. These soils are below the Rend soils on treads but are on higher positions where the Rend soils are on risers.
@@ -101,8 +101,8 @@ These are the bench phases of the somewhat poorly drained Bluford soils and the 
 DRAINAGE AND SATURATED HYDRAULIC CONDUCTIVITY: 
 Drainage class--moderately well drained
 Water table--depth to the top of a perched seasonal high water table ranges from 61 to 107 centimeters (2 feet to 3.5 feet) between January and May in normal years
-Saturated hydraulic conductivity--moderately high in the upper part and low in the lower part
-Permeability--moderate in the upper part and very slow in the lower part 
+Saturated hydraulic conductivity class--moderately high in the upper part and low in the lower part
+Permeability class--moderate in the upper part and very slow in the lower part 
 
 USE AND VEGETATION: 
 Most areas are used to grow corn, grain sorghum, soybeans, wheat and pasture. Native vegetation is deciduous forest consisting mainly of oaks and hickory.
@@ -112,15 +112,17 @@ MLRAs 113 and 114 in southern Illinois. The series is moderately extensive.
 
 SOIL SURVEY REGIONAL OFFICE (SSRO) RESPONSIBLE: Indianapolis, Indiana
 
-SERIES ESTABLISHED: Franklin County, Illinois, 1993.
+SERIES ESTABLISHED: Franklin County, Illinois, 1993
 
 REMARKS: 
 Rend soils are underlain by valley fill materials believed to consist of a Sangamon-age paleosol formed in outwash or ablation till from the Pearl Formation and Teneriffe Silt.
 
 Typical Pedon Taxonomic Features-- 
-Ochric epipedon--from the surface to a depth of 13 centimeters (Ap horizon).
-Argillic horizon--from a depth of 13 to 155 centimeters (Bt and 2Btx horizons).
+Ochric epipedon--from the surface to a depth of 13 centimeters (Ap horizon)
+Argillic horizon--from a depth of 13 to 155 centimeters (Bt and 2Btx horizons)
 Fragic soil properties--coarse structure and brittleness from a depth of 61 to 155 centimeters (2Btx horizon).
+
+Taxonomic Version--Keys to Soil Taxonomy, Twelfth Edition, 2014
 
 National Cooperative Soil Survey
 U.S.A.
