@@ -123,11 +123,11 @@ refresh_registry <- function(test = FALSE) {
   sc <- .download_NASIS_SC_webreport()
   
   if (inherits(sc, 'try-error')) {
-    warning('Failed to update Series Classsification database via NASIS Web Report', "\n\n",
+    warning('Failed to update Series Classification database via NASIS Web Report', "\n\n",
             sc[1], call. = FALSE)
   } else {
     if (!dir.exists("SC")) dir.create("SC")
-    write.csv(sc, file = file.path("SC", "SCDB.csv"))
+    write.csv(sc, file = file.path("SC", "SCDB.csv"), row.names = FALSE)
   }
   
   message("Done!")
