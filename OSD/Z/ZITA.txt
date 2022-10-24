@@ -22,7 +22,7 @@ TYPICAL PEDON:Zita loam, on a nearly level, slightly concave, 0.5 percent slope 
 
  Bkk2--89 to 203 cm (35 to 80 in); very pale brown (10YR 7/3) clay loam, pale brown (10YR 6/3) moist; massive; hard, firm; about 60 percent calcium carbonate by volume in the form of masses, nodules, and finely disseminated carbonates; violently effervescent; moderately alkaline.
 
-TYPE LOCATION:Hockley County, Texas; from the intersection of U.S. Highway 385 and Texas Highway 114 in Levelland, 7 miles east on Texas Highway 116, 1.5 miles north and 0.5 mile east on county roads, 400 ft north in cultivated field; Latitude: 33 degrees, 37 minutes, 01 seconds N; Longitude: 102 degrees, 14 minutes, 06 seconds W; Smyer, Texas USGS quad; NAD 83.
+TYPE LOCATION: Hockley County, Texas; from the intersection of U.S. Highway 385 and Texas Highway 114 in Levelland, 7 miles east on Texas Highway 116, 1.5 miles north and 0.5 mile east on county roads, 400 ft north in cultivated field; Latitude: 33 degrees, 37 minutes, 01 seconds N; Longitude: 102 degrees, 14 minutes, 06 seconds W; Smyer, Texas USGS quad; NAD 83.
 
 RANGE IN CHARACTERISTICS:
 Soil moisture: An ustic moisture regime bordering on aridic. The soil moisture control section is dry in some or all parts for more than 180 but less than 220 days, cumulative, in normal years. October through March are the driest months.
@@ -68,10 +68,11 @@ Visible calcium carbonate: 3 to 50 percent by volume in the form of films, filam
 Effervescence: violent
 Reaction: moderately alkaline
 
-COMPETING SERIES:This is thePaloduroseries in the same family. Similar are theEstacado,Pep,Portales, andTokioseries.
-Palodurosoils: have a calcic horizon at depths over 102 cm (40 in) and formed in sediments derived from the OgallalaFormationof Miocene-Pliocene age.
-EstacadoandTokiosoils: have an argillic horizon, in addition Tokio soils have an ochric epipedon.
-PepandPortalessoils: have slight to violent effervescence in all horizons above the calcic.
+COMPETING SERIES:
+This is the Paloduro series in the same family. Similar are the Estacado, Pep, Portales, and Tokio series.
+Paloduro soils: have a calcic horizon at depths over 102 cm (40 in) and formed in sediments derived from the Ogallala Formation of Miocene-Pliocene age.
+Estacado and Tokio soils: have an argillic horizon, in addition Tokio soils have an ochric epipedon.
+Pep and Portales soils: have slight to violent effervescence in all horizons above the calcic.
 
 GEOGRAPHIC SETTING:
 Parent material: calcareous, loamy eolian sediments of the Blackwater Draw Formation of Pleistocene age.
@@ -83,25 +84,26 @@ Frost-free period: 185 to 220 days.
 Elevation: 823 to 1,433 m (2,700 to 4,700 ft)
 Thornthwaite annual P-E Index Values: 25 to 36
 
-GEOGRAPHICALLY ASSOCIATED SOILS:These are the similarPortalesseries and theAcuff,Amarillo,Olton, andPullmanseries.
-Acuffsoils are on slightly higher landscape positions and have an argillic horizon.
-Amarillosoils are on higher landscape positions, have an argillic horizon, and do not have a mollic epipedon.
-OltonandPullmansoils are on slightly higher landscape positions and have an argillic horizon that contains more than 35 percent silicate clay in the particle-size control section.
-Portalessoils are on similar landscape positions.
+GEOGRAPHICALLY ASSOCIATED SOILS: These are the similar Portales series and the Acuff, Amarillo, Olton, and Pullman series.
+Acuff soils are on slightly higher landscape positions and have an argillic horizon.
+Amarillo soils are on higher landscape positions, have an argillic horizon, and do not have a mollic epipedon.
+Olton and Pullman soils are on slightly higher landscape positions and have an argillic horizon that contains more than 35 percent silicate clay in the particle-size control section.
+Portales soils are on similar landscape positions.
 
-DRAINAGE AND PERMEABILITY:Well drained and moderate permeability. Surface runoff is negligible on 0 to 1 percent slopes and low on 1 to 3 percent slopes.
+DRAINAGE AND PERMEABILITY: Well drained and moderate permeability. Surface runoff is negligible on 0 to 1 percent slopes and low on 1 to 3 percent slopes.
 
-USE AND VEGETATION:Mainly cultivated to cotton, grain sorghum, and wheat.
+USE AND VEGETATION: Mainly cultivated to cotton, grain sorghum, and wheat.
 Climax vegetation is mainly mid and short grasses and includes blue grama,
 sideoats grama, and buffalograss, with lesser amounts of vine-mesquite, western wheatgrass, galleta or tobosa, silver bluestem, wild alfalfa, and prairieclover with a light to moderate overstory of mesquite. 
 
-DISTRIBUTION AND EXTENT:Southern High Plains, Southern part (MLRA 77C in LRR H) of western Texas and eastern New Mexico. The series is extensive.
+DISTRIBUTION AND EXTENT: Southern High Plains, Southern part (MLRA 77C in LRR H) of western Texas and eastern New Mexico. The series is extensive.
 
-MLRA SOIL SURVEY REGIONAL OFFICE (MO) RESPONSIBLE:Temple, Texas
+MLRA SOIL SURVEY REGIONAL OFFICE (MO) RESPONSIBLE: Temple, Texas
 
-SERIES ESTABLISHED:Potter County, Texas; 1929.
+SERIES ESTABLISHED: Potter County, Texas; 1929.
 
-REMARKS:Series revised MLRA-77 Soil Survey; Deaf Smith County, Texas; 1998. New type location: 07NM041002.
+REMARKS: 
+Series revised MLRA-77 Soil Survey; Deaf Smith County, Texas; 1998. New type location: 07NM041002.
 
 Diagnostic horizons and features recognized in this pedon are:
 
@@ -111,7 +113,7 @@ Calcic horizon: 61 to 89 cm (24 to 35 in) (Bk horizon)
 Carbonate plugged horizon (kk): 61 to 203 cm (24 to 80 in) (Bkk horizons)
 Note: The kk feature is defined as pedogenic carbonate accumulation that is characterized by laterally continuous carbonates that have engulfed rock, sand, silt, and clay particles; plugged the macroporosity of the soil horizon with 50 percent or more calcium carbonate; and obliterated the original soil structure.
 
-Taxonomic version: Keys to Soil Taxonomy, Twelfth Edition, 2022.
+Taxonomic version: Keys to Soil Taxonomy, Twelfth Edition, 2014.
 
 National Cooperative Soil Survey
 U.S.A.
