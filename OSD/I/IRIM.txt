@@ -1,48 +1,80 @@
-LOCATION IRIM                   CO+MT
+LOCATION IRIM                   CO
 
 Established Series
-Rev. RHM/GB
-03/1999
+Rev. RHM/GB/KLS
+11/2022
 
 IRIM SERIES
 
-The Irim series consists of very deep, poorly drained soils on nearly level to slightly concave or depressed areas of flood plains and low terraces.  These soils formed in alluvial sediments derived from a variety of sources.  Slopes are 0 to 6 percent.  Mean annual precipitation is about 15 inches, and the mean annual temperature is about 40 degrees F.
+The Irim series consists of very deep, poorly drained soils on nearly level to slightly concave or depressed areas of flood plains and low terraces.  These soils formed in alluvial sediments derived from a variety of sources.  Slopes are 0 to 6 percent.  Mean annual precipitation is about 380 mm and the mean annual air temperature is about 4 degrees C.
 
 TAXONOMIC CLASS: Loamy-skeletal, mixed, superactive, frigid Typic Endoaquolls
 
 TYPICAL PEDON:  Irim loam, grassland.  (Colors are for dry soil unless otherwise noted.)
 
-    0i--1 to 0 inches; undecomposed organic material, mostly grass and roots.
+    Oi--0 to 3 cm; undecomposed organic material, mostly grass and roots.
 
-    Ag--0 to 11 inches; dark gray (10YR 4/1) loam, black (10YR 2/1) moist; common medium distinct yellowish brown (10YR 5/6) redox concentrations; weak medium subangular blocky structure; very friable, slightly sticky and slightly plastic; 10 percent pebbles; neutral (pH 7.0); gradual wavy boundary.  (6 to 23 inches thick)
+    Ag--3 to 31 cm; dark gray (10YR 4/1) loam, black (10YR 2/1) moist; common medium distinct yellowish brown (10YR 5/6) redox concentrations; weak medium subangular blocky structure; very friable, slightly sticky and slightly plastic; 10 percent pebbles; neutral (pH 7.0); gradual wavy boundary.  (15 to 58 cm thick)
 
-    Bwg--11 to 60 inches; grayish brown (10YR 5/2) very gravelly loam, dark grayish brown (10YR 4/2) moist; common medium prominent light olive brown (2.5Y 5/6) and dark gray (2.5Y 4/1) redox concentrations; weak medium subangular blocky structure; slightly hard, very friable, slightly sticky and slightly plastic; 50 percent pebbles; mildly alkaline (pH 7.4)
+    BCg--31 to 155 cm; grayish brown (10YR 5/2) very gravelly loam, dark grayish brown (10YR 4/2) moist; common medium prominent light olive brown (2.5Y 5/6) and dark gray (2.5Y 4/1) redox concentrations; weak medium subangular blocky structure; slightly hard, very friable, slightly sticky and slightly plastic; 50 percent pebbles; slightly alkaline (pH 7.4).
 
-TYPE LOCATION:  Gunnison County, Colorado; 1 mile south of Doyleville, along Tomichi Creek; in SW 1/4, Sec. 34 T. 49 N., R. 3 E.
+TYPE LOCATION:  Gunnison County, Colorado; about 1600 meters south of Doyleville, along Tomichi Creek; in SW 1/4, Sec. 34 T. 49 N., R. 3 E.
 
-RANGE IN CHARACTERISTICS:  Mean annual soil temperature is 42 degrees F., and mean summer soil temperature is 60 degrees F.  The Irim soils typically are noncalcareous to depths of more than 60 inches, but depth to uniformly calcareous material ranges from 40 to more than 60 inches.  Thin organic horizons typically occur on the surface of these soils but are absent in some pedons.  The 10- to 40_ inch control section is typically loam, clay loam, or sandy clay loam and has 18 to 34 percent clay, 15 to 50 percent silt, and 20 to 60 percent sand.  Rock fragments range from 35 to 80 percent ina a major part of the control section and are mainly less than 3 inches in diameter but range from1/8 to 10 inches in deameter.  The solum is neutral or mildly alkaline.
+RANGE IN CHARACTERISTICS:  
+Mean annual soil temperature--6 degrees C
+Mean summer soil temperature--16 degrees C
+Irim soils are typically noncalcareous to depths of 150 cm or more; however, depth to uniformly calcareous material can range from 100 to more than 150 cm
+Thin organic horizons typically occur on the surface of these soils but are absent in some pedons.  
 
-The A horizon has hue of 5YR through 7.5YR, value of 4 or 5 dry, 2 or 3 moist, and chroma of neutral through 2.  Distinct or prominent redoximorphic features occurs in at least some part of the A horizon.
+Particle-size control section:
+Texture--loam, clay loam, or sandy clay loam
+Clay content--18 to 34 percent
+Silt content--15 to 50 percent
+Sand content--20 to 60 percent
+Rock fragment content--35 to 80 percent and are mainly less than 75 mm in diameter but can range from 5 to 250 mm in diameter
+Reaction--pH 6.6 to 7.8
 
-The Bw horizon has hue of 5Y through 7.5YR, value of 5 through 7 dry, 4 through 6 moist, and chroma of neutral through 2.  Distinct or prominent redox features, at least part of which has low chroma, occurs in this horizon.
+Ag horizon
+Hue--5YR through 7.5YR
+Value--4 or 5 dry, 2 or 3 moist
+Chroma--neutral through 2
+Distinct or prominent redoximorphic features occur in at least some part of the A horizon.
+
+BCg horizon
+Hue--5Y through 7.5YR
+Value--5 through 7 dry, 4 through 6 moist
+Chroma--neutral through 2
+Distinct or prominent redox features, at least part of which has low chroma, occur in this horizon.
 
 COMPETING SERIES:  This is the (T) Poronto (MT) series.  This series needs further study.
 
-GEOGRAPHIC SETTING:  Irim soils are on nearly level to slightly concave or depressed areas of flood plains and low terraces.  Slope gradients usually range from 0 to about 6 percent. The soil formed in alluvial sediments derived from a variety of sources.  At the type location the mean annual precipitation is 15 inches with peak periods occurring during the spring and summer.  The mean annual temperature is 40 degrees F., mean summer temperature is 62 degrees F.
+GEOGRAPHIC SETTING: 
+Landform--flood plains and low terraces
+Elevation--2375 to 2600 meters 
+Slope--0 to 6 percent
+Parent material--alluvial sediments derived from a variety of sources
+Mean annual precipitation--380 mm with peak periods occurring during the spring and summer
+Mean annual air temperature--4 degrees C
+Mean summer temperature--17 degrees C
+Frost-free period--60 to 70 days 
 
-GEOGRAPHICALLY ASSOCIATED SOILS:  These are the Gas Creek and Gold Creek soils.  Gas Creek soils are coarse textured.  Gold Creek soils are fine textured and are calcareous throughout.
+GEOGRAPHICALLY ASSOCIATED SOILS:  None listed
 
-DRAINAGE AND PERMEABILITY:  Poorly drained; slow runoff or ponded; moderate permeability.
+DRAINAGE AND PERMEABILITY:  Poorly drained; slow runoff or ponded; moderate permeability
 
 USE AND VEGETATION:  These soils are used as native pastureland and for native hay crops.  Native vegetation is mainly timothy, redtop, fescues, alsike clover, sedges, and rushes.
 
-DISTRIBUTION AND EXTENT:  Mountain areas of central and western Colorado. The series is of small extent.
+DISTRIBUTION AND EXTENT:  The Irim series is moderately extensive in the mountain areas of central and western Colorado; MLRAs 48A and 48B
 
-MLRA SOIL SURVEY REGIONAL OFFICE (MO) RESPONSIBLE: Bozeman, Montana
+SOIL SURVEY REGIONAL OFFICE (SSRO) RESPONSIBLE: Bozeman, Montana
 
-SERIES ESTABLISHED:  Gunnison County, Colorado, 1974.
+SERIES ESTABLISHED:  Gunnison County, Colorado, 1974
 
-REMARKS:  Diagnostic features include a mollic epipedon from 0 to 11 inches and aquic conditions above 80 inches.  Last updated by the state 12/93.
+REMARKS:  Diagnostic horizons and features recognized in this pedon include:
+Mollic epipedon--3 to 31 cm (Ag horizon)
+Aquic conditions--3 to 155 cm (Ag and BCg horizons)
+
+Converted to metric, updated formatting, and O horizons were updated to start at zero. Competing series section was not updated. 11/2022
 
 National Cooperative Soil Survey
 U.S.A.

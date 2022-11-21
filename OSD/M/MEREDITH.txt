@@ -1,58 +1,90 @@
 LOCATION MEREDITH               CO+UT
 
 Established Series
-Rev. RHM/DKA
-01/2008
+Rev. RHM/DKA/KLS
+11/2022
 
 MEREDITH SERIES
 
-The Meredith series consists of moderately deep, well drained soils that formed in material weathered from latite or similar rock.  These soils are on gently sloping to steep alpine hills and ridges above timber line.  The average annual precipitation at the type location is 35 inches and the mean annual air temperature is 26 degrees F.
+The Meredith series consists of moderately deep, well drained soils that formed in material weathered from latite or similar rock.  These soils are on gently sloping to steep alpine hills and ridges above timber line.  Slopes are 8 to 70 percent.  The average annual precipitation at the type location is 890 mm and the mean annual air temperature is minus 3 degrees C.
 
 TAXONOMIC CLASS: Loamy-skeletal, isotic Spodic Humicryepts
 
 TYPICAL PEDON:  Meredith extremely stony loam, grassland.  (Colors are for dry soil unless otherwise noted.)
 
-    01---2 inches to 1 inch; undecomposed organic material, mainly alpine grasses.
+    Oi--0 to 3 cm; undecomposed organic material, mainly alpine grasses.
 
-    02--1 inch to 0; partially decomposed organic material like that of the horizon above.
+    Oe--3 to 6 cm; partially decomposed organic material like that of the horizon above.
 
-    A1--0 to 8 inches; dark grayish brown (10YR 4/2) extremely stony loam, very dark brown (10YR 2/2) moist; strong fine granular structure; soft, very friable, slightly sticky and slightly plastic; 60 percent stones; very strongly acid; clear smooth boundary.  (6 to 12 inches thick)
+    A--6 to 26 cm; dark grayish brown (10YR 4/2) extremely stony loam, very dark brown (10YR 2/2) moist; strong fine granular structure; soft, very friable, slightly sticky and slightly plastic; 60 percent stones; very strongly acid; clear smooth boundary.  (15 to 30 cm thick)
 
-    B2ir--8 to 20 inches; brown (7.5YR 5/4) extremely stony loam, dark brown (7.5YR 4/4) moist; moderate medium subangular blocky structure; slightly hard, very friable, slightly sticky and slightly plastic; 70 percent stones; dark organic staining on the underside of stones; dark brown pellets throughout the soil mass; very strongly acid; gradual wavy boundary.  (6 to 18 inches thick)
+    Bs--26 to 56 cm; brown (7.5YR 5/4) extremely stony loam, brown (7.5YR 4/4) moist; moderate medium subangular blocky structure; slightly hard, very friable, slightly sticky and slightly plastic; 70 percent stones; dark organic staining on the underside of stones; dark brown pellets throughout the soil mass; very strongly acid; gradual wavy boundary.  (15 to 46 cm thick)
 
-    C1--20 to 30 inches; brown (10YR 5/3) extremely stony loam, dark brown (10YR 4/3) moist; massive; slightly hard, very friable, slightly sticky and slightly plastic; 70 percent stones; medium acid; gradual wavy boundary.  (0 to 28 inches thick)
+    C--56 to 81 cm; brown (10YR 5/3) extremely stony loam, brown (10YR 4/3) moist; massive; slightly hard, very friable, slightly sticky and slightly plastic; 70 percent stones; moderately acid; gradual wavy boundary.  (0 to 71 cm thick)
 
-    C2--30 to 40 inches; fragmental accumulation of fractured latite; 80 to 90 percent flagstones with individual flagstones overlapping, leaving interstices that are not completely filled with finer material.
+    Cr--81 to 106 cm; fragmental accumulation of fractured latite; 80 to 90 percent flagstones with individual flagstones overlapping, leaving interstices that are not completely filled with finer material.
 
 TYPE LOCATION:  Hinsdale County, Colorado; northwest of Devils Lake in the SE1/4 Sec. 32, T. 45 N., R. 3 W.
 
-RANGE IN CHARACTERISTICS:  Thickness of the umbric epipedon ranges from 7 to 16 inches, thickness of solum ranges from 12 to 24 inches, and depth to the fragmental substratum ranges from 20 to 40 inches.  Organic carbon in the umbric eipedon ranges from 1 to 14 percent and decreases uniformly with increasing depth.  Base saturation ranges from 30 to 50 percent in the A and upper B2 horizons but increases with increasing depth in some pedons.  The control section has matrix texture of loam, clay loam, or sandy clay loam and has 18 to 35 percent clay, 5 to 55 percent silt, and 20 to 75 percent sand.  It has 35 to 80 percent rock fragments above the C2 horizon and these range
-in size from pebbles to stones.  The mean annual soil temperature is 30 degrees F., and the mean summer soil temperature is 46 degrees F.
+RANGE IN CHARACTERISTICS:  
+Mean annual soil temperature--minus 1 degree C
+Mean summer soil temperature--8 degrees C
+Thickness of umbric epipedon--18 to 40 cm
+Thickness of solum--30 to 60 cm
+Depth to fragmental substratum--50 to 100 cm
+Organic carbon in the umbric epipedon--1 to 14 percent and decreases uniformly with increasing depth
+Base saturation--30 to 50 percent in the A and upper B horizons but increases with increasing depth in some pedons
 
-The A1 horizon has hue of 2.5Y through 7.5YR, value of 3 through 5 dry, 2 or 3 moist, and chroma of 1 through 3.  It ranges from very strongly to strongly acid.
+Particle-size control section:
+Texture--loam, clay loam, or sandy clay loam
+Clay content--18 to 35 percent
+Silt content--5 to 55 percent
+Sand content--20 to 75 percent
+Rock fragment content--35 to 80 percent above the Cr horizon and these range in size from pebbles to stones
 
-The B2 horizon has hue of 2.5Y through 5YR, value of 5 through 7 dry, 4 or 5 moist, and chroma of 3 through 6.  Typically, this horizon has redder hue than either the overlying or underlying horizon.  It ranges from very strongly to slightly acid.
+A horizon
+Hue--2.5Y through 7.5YR
+Value--3 through 5 dry, 2 or 3 moist
+Chroma--1 through 3
+Reaction--pH 4.5 to 5.5 
 
-The C1 horizon has hue of 2.5Y through 7.5YR.  It ranges from very strongly acid to neutral.  In some pedons the C1 horizon is absent and the solum overlies the fragmental substratum.
+Bs horizon
+Hue--2.5Y through 5YR
+Value--5 through 7 dry, 4 or 5 moist
+Chroma--3 through 6  
+Typically, this horizon has redder hue than either the overlying or underlying horizon.
+Reaction--pH 4.5 to 6.5
 
-COMPETING SERIES:  These are the Bross, Mirror, Penitente and Ptarmigan series.  Bross and Penitente soils have no contrasting fragmental substratums.  Mirror and Ptarmigan soils have a lithic contact at depths of 20 to 40 inches.  Also, Ptarmigan soils have less than 35 percent rock fragments.
+C horizon
+Hue--2.5Y through 7.5YR
+Reaction--pH 4.5 to 7.3
+In some pedons the C horizon is absent and the solum overlies the fragmental substratum.
 
-GEOGRAPHIC SETTING:  The Meredith soils are on gently sloping to very steep alpine hills and ridges.  The soils formed in parent material weathered residually from highly fractured fragmental beds of latite or similar rock.  At the type location the average annual precipitation is 35 inches with peak periods of precipitation occurring during the winter and is mainly in the form of snow.  The mean temperature annual temperature is 26 degrees F., mean summer temperature is 45 degrees F.
+COMPETING SERIES:  These are the Bross, Mirror, Penitente and Ptarmigan series.  Bross and Penitente soils have no contrasting fragmental substratums.  Mirror and Ptarmigan soils have a lithic contact at depths of 50 to 100 cm.  Also, Ptarmigan soils have less than 35 percent rock fragments.
 
-GEOGRAPHICALLY ASSOCIATED SOILS:  These are the competing Mirror and Ptarmigan soils.
+GEOGRAPHIC SETTING:  
+Landform--gently sloping to very steep alpine hills and ridges
+Elevation--3350 to 3850 meters
+Slope--8 to 70 percent
+Parent material--residuum from highly fractured fragmental beds of latite or similar rock
+Mean annual precipitation--890 mm with peak periods of precipitation occurring during the winter and is mainly in the form of snow
+Mean annual air temperature--minus 3 degrees C
+Mean summer air temperature--7 degrees C
+Frost-free period--10 to 30 days
 
-DRAINAGE AND PERMEABILITY:  Well drained; medium to slow runoff; rapid permeability.
+GEOGRAPHICALLY ASSOCIATED SOILS:  None listed
+
+DRAINAGE AND PERMEABILITY:  Well drained; medium to slow runoff; rapid permeability
 
 USE AND VEGETATION:  These soils are used principally as native pastureland and for recreational purposes.  Native vegetation is mainly alpine bluegrass, mosses, silver cinquefoil, sedges and alpine willow.
 
-DISTRIBUTION AND EXTENT:  Alpine areas of central Colorado.  The series is of moderate extent.
+DISTRIBUTION AND EXTENT:  Meredith soils are moderately extensive in the alpine areas of central Colorado and eastern Utah; MLRA 48A.
 
-MLRA SOIL SURVEY REGIONAL OFFICE (MO) RESPONSIBLE: Bozeman, Montana
+SOIL SURVEY REGIONAL OFFICE (SSRO) RESPONSIBLE: Bozeman, Montana
 
-SERIES ESTABLISHED:  Hinsdale County, Colorado, 1974.
+SERIES ESTABLISHED:  Hinsdale County, Colorado, 1974
 
-REMARKS:  Last updated by the state 3/77.
-
+REMARKS: Converted to metric, updated formatting, and O horizons were updated to start at zero. Competing series section was not updated. 11/2022
 
 National Cooperative Soil Survey
 U.S.A.

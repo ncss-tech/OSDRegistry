@@ -1,50 +1,72 @@
 LOCATION MEDANO                 CO+ID
 
 Established Series
-Rev. GB
-03/1999
+Rev. GB/KLS
+11/2022
 
 MEDANO SERIES
 
-The Medano series consist of deep, poorly drained soils formed in mixed alluvium.  They are on flood plains and the lower ends of alluvial fans with slopes of 0 to 6 percent.  The mean annual precipitation is about 7 inches and the mean annual air temperature is about 43 degrees F.
+The Medano series consist of deep, poorly drained soils formed in mixed alluvium.  They are on low flood plains and the lower ends of alluvial fans with slopes of 0 to 6 percent.  The mean annual precipitation is about 180 mm and the mean annual air temperature is about 6 degrees C.
 
 TAXONOMIC CLASS: Sandy, mixed, frigid Typic Endoaquolls
 
 TYPICAL PEDON:  Medano fine sandy loam - grassland.  (Colors are for dry soil unless otherwise noted.)
 
-    Oi--2 inches to 0; undecomposed organic material consisting mainly of grass roots and leaves.  (0 to 2 inches thick)
+    Oi--0 to 5 cm; undecomposed organic material consisting mainly of grass roots and leaves.  (0 to 5 cm thick)
 
-    A1--0 to 8 inches; gray (10YR 5/1) fine sandy loam, black (10YR 2/1) moist; weak medium subangular blocky structure parting to very fine granular; soft, very friable; calcareous; moderately alkaline; gradual smooth boundary.  (0 to 10 inches thick)
+    A--5 to 25 cm; gray (10YR 5/1) fine sandy loam, black (10YR 2/1) moist; weak medium subangular blocky structure parting to very fine granular; soft, very friable; calcareous; moderately alkaline; gradual smooth boundary.  (0 to 25 cm thick)
 
-    A2g--8 to 18 inches; grayish-brown (10YR 5/2) loamy sand, very dark brown (10YR 2/2) moist; common medium distinct gray (2.5Y 5/1) and olive brown (2.5Y 7/6) moist mottles; single grained; loose; mildly alkaline; gradual, wavy boundary.  (5 to 20 inches thick)
+    Ag--25 to 50 cm; grayish brown (10YR 5/2) loamy sand, very dark brown (10YR 2/2) moist; common medium distinct gray (2.5Y 5/1) and yellow  (2.5Y 7/6) moist mottles; single grained; loose; slightly alkaline; gradual, wavy boundary.  (13 to 51 cm thick)
 
-    Cg--18 to 60 inches; light brownish-gray (10YR 6/2) loamy sand, dark grayish brown (10YR 4/2) moist; common medium distinct gray (2.5Y 5/1) and olive brown (2.5Y 4/6) moist mottles; single grained; loose; mildly alkaline.
+    Cg--50 to 157 cm; light brownish gray (10YR 6/2) loamy sand, dark grayish brown (10YR 4/2) moist; common medium distinct gray (2.5Y 5/1) and olive brown (2.5Y 4/4) moist mottles; single grained; loose; slightly alkaline.
 
-TYPE LOCATION:  Alamosa County, Colorado; 1,600 feet south and 1,900 feet east of the NW corner of Sec. 17, T. 40 N., R. 12 E.
+TYPE LOCATION:  Alamosa County, Colorado; about 490 meters south and 580 meters east of the NW corner of Sec. 17, T. 40 N., R. 12 E.
 
-RANGE IN CHARACTERISTICS:  The Medano soils are calcareous in the surface horizons but are noncalcareous below depths of 20 inches.  The particle size control section is loamy fine sand, loamy sand, or sand, but exclude loamy very fine sands.  Rock fragments range from 0 to 15 percent by volume in a major part of the control section and are mainly less than 3 inches in diameter.  Mean annual soil temperature ranges from 43 to 45 degrees F, and mean summer soil temperature ranges from 60 to 63 degrees F.
+RANGE IN CHARACTERISTICS:  
+Mean annual soil temperature--6 to 7 degrees C
+Mean summer soil temperature--16 to 17 degrees C
+Medano soils are calcareous in the surface horizons but noncalcareous below depths of 50 cm.
 
-The A horizon has hue of 2.5Y through 7.5YR, value of 4 or 5, 2 or 3 moist, and chroma of 1 through 3.  It is moderately or strongly alkaline.
+Particle-size control section:
+Texture--loamy fine sand, loamy sand, or sand, but exclude loamy very fine sands
+Rock fragment content--0 to 15 percent, mainly less than 75 mm in diameter
 
-The C horizon has hue of 5Y through 7.5YR, value of 5 or 6 dry, 3 through 6 moist, and chroma of 2 through 4.  It is neutral or mildly alkaline.
+A horizon
+Hue--2.5Y through 7.5YR
+Value--4 or 5, 2 or 3 moist
+Chroma--1 through 3.  It is 
+Reaction--pH 7.9 to 9.0
+
+C horizon
+Hue--5Y through 7.5YR
+Value--5 or 6 dry, 3 through 6 moist
+Chroma--2 through 4
+Reaction--pH 6.6 to 7.8
 
 COMPETING SERIES:  These are the Fossum, Hamar, Hangaard, Isan, Isanti, and Venlo series.  Fossum soils are calcareous throughout and have visible accumulation of calcium carbonate in the A horizon.  Hamar, Hangaard, and Venlo series are noncalcareous in the upper part of the control section and become calcareous with increasing depth.  Isan and Isanti soils are acid throughout the control section.
 
-GEOGRAPHIC SETTING:  The Medano soils are on low flood plains and the lower ends of alluvial fans.  Slope gradients range from 0 to 6 percent.   The soils formed in alluvium.  The average annual precipitation is 7 to 9 inches, with peak periods of precipitation in the spring and summer.  The mean annual temperature is 41 to 44 degrees F, and the mean summer temperature is 59 to 61 degrees F.
+GEOGRAPHIC SETTING:
+Landform--flood plains and alluvial fans
+Elevation--2300 to 2550 meters
+Slope--0 to 6 percent
+Parent material--alluvium
+Mean annual precipitation--180 mm to 230 mm with peak periods of precipitation in the spring and summer
+Mean annual air temperature--5 to 7 degrees C
+Mean summer air temperature--15 to 16 degrees C
 
-GEOGRAPHICALLY ASSOCIATED SOILS:  These are the McGinty and Vastine soils.  McGinty soils have calcic horizons at depths of less than 40 inches.  Vastine soils have medium to moderately fine textured upper control sections with more than 18 percent clay and overlie beds of sand and gravel.
+GEOGRAPHICALLY ASSOCIATED SOILS:  None listed
 
-DRAINAGE AND PERMEABILITY:  Poorly drained; slow runoff; rapid permeability but soil has a high water table that ranges within 1.5 to 3.0 feet during spring seasons.
+DRAINAGE AND PERMEABILITY:  Poorly drained; slow runoff; rapid permeability but soil has a high water table that ranges within 0.5 to 1 meter of surface during spring seasons.
 
 USE AND VEGETATION:  These soils are used as native pastureland and for irrigated hay meadow or irrigated pasture.  Native vegetation is mainly sedges, rushes, and other water-tolerant grasses and plants.
 
-DISTRIBUTION AND EXTENT:  South-central Colorado.  The series is of moderate extent.
+DISTRIBUTION AND EXTENT:  Medano soils are moderately extensive in southcentral Colorado and eastern Idaho; MLRAs 11 and 51.
 
-MLRA SOIL SURVEY REGIONAL OFFICE (MO) RESPONSIBLE: Bozeman, Montana
+SOIL SURVEY REGIONAL OFFICE (SSRO) RESPONSIBLE: Bozeman, Montana
 
-SERIES ESTABLISHED:  Alamosa County, Colorado, 1974.
+SERIES ESTABLISHED:  Alamosa County, Colorado, 1974
 
-REMARKS:  Last updated by the state 5/81.
+REMARKS:  Converted to metric, updated formatting, and O horizons were updated to start at zero. Competing series section was not updated. 11/2022
 
 National Cooperative Soil Survey
 U.S.A.

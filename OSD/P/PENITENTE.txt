@@ -1,56 +1,86 @@
 LOCATION PENITENTE              NM
 
 Established Series
-Rev. JAW/JBC
-05/2007
+Rev. JAW/JBC/KLS
+11/2022
 
 PENITENTE SERIES
 
-The Penitente series consists of deep, well drained soils that formed in material derived from granite, gneiss, and schist.  Penitente soils are on mountain tops above timberline and have slopes of 0 to 60 percent.  The mean annual precipitation is about 47 inches and the mean annual air temperature is about 30 degrees F.
+The Penitente series consists of deep, well drained soils that formed in material derived from granite, gneiss, and schist.  Penitente soils are on mountain tops above timberline and have slopes of 0 to 60 percent.  The mean annual precipitation is about 1200 mm and the mean annual air temperature is about minus 1 degrees C.
 
 TAXONOMIC CLASS: Loamy-skeletal, isotic Typic Humicryepts
 
 TYPICAL PEDON:  Penitente cobbly loam, above timberline.  (Colors are for dry soil unless otherwise noted.)
 
-    01 & 02--1 inch to 0; organic mat of undecomposed and partially decomposed plant remains of roots and leafy parts of kobresia.  (0 to 1 inch thick)
+    Oe--0 to 3 cm; organic mat of undecomposed and partially decomposed plant remains of roots and leafy parts of kobresia.  (0 to 3 cm thick)
 
-    A11---0 to 10 inches; very dark gray (10YR 3/1) cobbly loam, black (10YR 2/1) moist; strong fine granular structure; soft, very friable; many fine roots; many fine and very fine pores; approximately 20 percent cobbles; strongly acid (pH 5.2); clear smooth boundary.  (6 to 16 inches thick)
+    A1--3 to 28 cm; very dark gray (10YR 3/1) cobbly loam, black (10YR 2/1) moist; strong fine granular structure; soft, very friable; many fine roots; many fine and very fine pores; approximately 20 percent cobbles; strongly acid (pH 5.2); clear smooth boundary.  
 
-    A12--10 to 13 inches; dark brown (7.5YR 3/2) very cobbly loam, very dark brown (7.5YR 2/2) moist; weak fine subangular blocky structure that separates to strong fine granular; soft, very friable; common fine roots; many fine and very fine pores; approximately 40 percent cobbles; strongly acid (pH 5.1); clear smooth boundary.  (2 to 4 inches thick)
+    A2--28 to 36 cm; dark brown (7.5YR 3/2) very cobbly loam, very dark brown (7.5YR 2/2) moist; weak fine subangular blocky structure that separates to strong fine granular; soft, very friable; common fine roots; many fine and very fine pores; approximately 40 percent cobbles; strongly acid (pH 5.1); clear smooth boundary.  (Combined thickness of A horizons - 20 to 50 cm)
 
-    B2ir--13 to 24 inches; brown (7.5YR 4/4) extremely cobbly sandy loam, brown (7.5YR 3/2) moist; weak medium subangular blocky structure; slightly hard, very friable; common fine roots; many medium pores; approximately 70 percent cobbles and stones; many stones have iron stains of reddish brown (5YR 4/4) moist; very strongly acid (pH 5.0); gradual smooth boundary.  (8 to 16 inches thick)
+    Bs--36 to 64 cm; brown (7.5YR 4/4) extremely cobbly sandy loam, dark brown (7.5YR 3/2) moist; weak medium subangular blocky structure; slightly hard, very friable; common fine roots; many medium pores; approximately 70 percent cobbles and stones; many stones have iron stains of reddish brown (5YR 4/4) moist; very strongly acid (pH 5.0); gradual smooth boundary.  (20 to 40 cm thick)
 
-    C--24 to 60 inches; brown (7.5YR 5/4) extremely cobbly sandy loam, dark brown (7.5YR 3/2) moist; massive; slightly hard, very friable; approximately 70 percent cobbles and stones; few medium roots; many medium pores; very strongly acid (pH 5.0).
+    C--64 to 155 cm; brown (7.5YR 5/4) extremely cobbly sandy loam, dark brown (7.5YR 3/2) moist; massive; slightly hard, very friable; approximately 70 percent cobbles and stones; few medium roots; many medium pores; very strongly acid (pH 5.0).
 
-TYPE LOCATION:  Santa Fe County, New Mexico; SW1/4 NE1/4 section 10, T.18N., R.11E.
+TYPE LOCATION:  Santa Fe County, New Mexico; SW1/4 NE1/4 section 10, T.18N., R.11E
 
-RANGE IN CHARACTERISTICS:  Rock fragments range from 40 to 80 percent in the control section.  The umbric horizon ranges from 10 to 20 inches thick. The solum ranges from 16 to 26 inches thick.  The solum is very strongly acid or strongly acid (pH 4.4 or 5.5).  The mean annual soil temperature is less than 32 degrees F.
+RANGE IN CHARACTERISTICS:  
+Mean annual soil temperature--less than 0 degrees C
+Umbric horizon thickness--25 to 50 cm
+Solum thickness--40 to 65 cm
 
-The A1 horizon has hue of 10YR or 7.5YR, value of 3 or 4 dry, 2 or 3 moist, and chroma of neutral through 2.
+Particle-size control section:
+Rock fragment content--40 to 80 percent 
+Reaction--pH 4.4 or 5.5
 
-The B2ir horizon has hue of 7.5YR or 5YR, value of 4 through 6 dry, 3 through 5 moist, and chroma of 2 through 4.  It is typically sandy loam but ranges from 5 to 25 percent, in silt from 10 to 40 percent, and in sand from 40 to 75 percent.
+A horizon
+Hue--10YR or 7.5YR
+Value--3 or 4 dry, 2 or 3 moist
+Chroma--neutral through 2
 
-The C horizon has hue of 10YR or 7.5YR.  Its texture is similar to that of the B horizon.  It is very strongly to medium acid (pH 4.6 to 5.8).
+Bs horizon
+Hue--7.5YR or 5YR
+Value--4 through 6 dry, 3 through 5 moist
+Chroma--2 through 4
+Texture--sandy loam
+Clay content--5 to 25 percent
+Silt content--10 to 40 percent
+Sand content--40 to 75 percent
 
-COMPETING SERIES:  These are the Bross, Buell, Goodlow, Gramm, Hummington, Meredith, Mirror and Ptarmigan series.  Bross soils have an A2 horizon and lack a Bir horizon.  Buell, Goodlow, Gramm and Hummington soils have a mean annual soil temperature above 32 degrees F.  Meredith soils have fragmental substrata.  Mirror and Ptarmigan soils have a lithic contact at depths of less than 40 inches.  Ptarmigan soils are nonskeletal.
+C horizon
+Hue--10YR or 7.5YR
+Texture--sandy loam
+Clay content--5 to 25 percent
+Silt content--10 to 40 percent
+Sand content--40 to 75 percent
+Reaction--pH 4.6 to 5.8
 
-GEOGRAPHIC SETTING:  Penitente soils are on mountain tops above timberline at elevations from 12,000 to 13,000 feet.  They formed in material consisting mostly of granite, gneiss and schist.  Slopes range from 5 to 60 percent.  The mean annual precipitation ranges from 35 to 55 inches.  The mean annual air temperature is about 28 to 30 degrees F.  The frost free season is 30 to 50 days.
+COMPETING SERIES:  These are the Bross, Buell, Goodlow, Gramm, Hummington, Meredith, Mirror and Ptarmigan series.  Bross soils have an E horizon and lack a Bs horizon.  Buell, Goodlow, Gramm and Hummington soils have a mean annual soil temperature above 0 degrees C.  Meredith soils have fragmental substrata.  Mirror and Ptarmigan soils have a lithic contact at depths of less than 100 cm.  Ptarmigan soils are nonskeletal.
 
-GEOGRAPHICALLY ASSOCIATED SOILS:  These are the Nambe and Presa soils.  Nambe soils lack an umbic epipedon.  Presa soils have argillic horizons.
+GEOGRAPHIC SETTING:
+Landform--mountain tops above timberline
+Elevation--3650 to 3950 meters
+Slope--5 to 60 percent
+Parent material--granite, gneiss and schist
+Mean annual precipitation--890 to 1400 mm
+Mean annual air temperature--minus 2 to -1 degrees C
+Frost free--30 to 50 days
 
-DRAINAGE AND PERMEABILITY:  Well drained; rapid runoff; moderately rapid permeability.
+GEOGRAPHICALLY ASSOCIATED SOILS:  None listed
 
-USE AND VEGETATION:  Watershed and wildlife are the chief uses.  Kobresia, timberline bluegrass, shrubby cinquefoil, and corex are the chief plants.
+DRAINAGE AND PERMEABILITY:  Well drained; rapid runoff; moderately rapid permeability
 
-DISTRIBUTION AND EXTENT:  Above timberline in Northern Mexico.  The series is of small extent.
+USE AND VEGETATION:  Watershed and wildlife are the principle land uses.  Kobresia, timberline bluegrass, shrubby cinquefoil, and carex are the chief plants.
 
-MLRA SOIL SURVEY REGIONAL OFFICE (MO) RESPONSIBLE: Bozeman, Montana
+DISTRIBUTION AND EXTENT:  Penitente soils are moderately extensive above timberline in the mountains of northern New Mexico; MLRAs 48A and 48B.
 
-SERIES ESTABLISHED:  Santa Fe County (Santa Fe Area), New Mexico, 1970.
+SOIL SURVEY REGIONAL OFFICE (SSRO) RESPONSIBLE: Bozeman, Montana
 
-ADDITIONAL DATA:  Riverside Laboratory S70NM-26-94 and S70NM-26-95.
+SERIES ESTABLISHED:  Santa Fe County (Santa Fe Area), New Mexico, 1970
+
+REMARKS:  Riverside Laboratory S70NM-26-94 and S70NM-26-95
+
+Converted to metric, updated formatting, and O horizons were updated to start at zero. Competing series section was not updated. 11/2022
 
 National Cooperative Soil Survey
-U. S. A.
-
-
+U.S.A.

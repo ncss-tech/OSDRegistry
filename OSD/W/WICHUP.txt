@@ -1,57 +1,87 @@
 LOCATION WICHUP                 CO+MT
 
 Established Series
-Rev. AJC/GB
-03/2003
+Rev. AJC/GB/KLS
+11/2022
 
 WICHUP SERIES
 
-The Wichup series consists of deep, poorly drained soils that formed in mixed alluvial fan sediments derived from sandstone, quartzite, shale and small amounts of limestone.  These soils are on alluvial fans.  Slopes range from 0 to 3 percent.  The mean annual precipitation is about 18 inches and the mean annual temperature is about 40 degrees F.
+The Wichup series consists of deep, poorly drained soils that formed in mixed alluvial fan sediments derived from sandstone, quartzite, shale and small amounts of limestone.  These soils are on alluvial fans.  Slopes range from 0 to 3 percent.  The mean annual precipitation is about 460 mm and the mean annual air temperature is about 4 degrees C.
 
 TAXONOMIC CLASS: Coarse-loamy, mixed, superactive Histic Cryaquolls
 
 TYPICAL PEDON:  Wichup loam - grassland.  (Colors are for dry soil unless otherwise noted.)
 
-    01--10 to 5 inches; brown, calcareous fitbrous sedge-rush peat; effervescence in upper 2 inches; mildly alkaline (pH 7.8); gradual smooth boundary.  (5 to 12 inches thick)
+    Oe--0 to 13 cm; brown, calcareous fibrous sedge-rush peat; effervescence in upper 5 cm; slightly alkaline (pH 7.8); gradual smooth boundary.  (13 to 30 cm thick)
 
-    02--5 inches to 0; black, calcareous muck with some plant residue forms and some mineral matter; neutral (pH 6.8); gradual wavy boundary.  (0 to 6 inches thick)
+    Oa--13 to 26 cm; black, calcareous muck with some plant residue forms and some mineral matter; neutral (pH 6.8); gradual wavy boundary.  (0 to 15 cm thick)
 
-    A1g--0 to 8 inches; gray (2.5Y 5/1) gravelly loam, black (2.5Y 2/1) moist; common medium distinct brown (7.5YR 4/4) moist mottles; moderate fine granular structure; soft, very friable; mildly alkaline (pH 7.4); gradual wavy boundary.  (6 to 14 inches thick)
+    Ag--26 to 46 cm; gray (2.5Y 5/1) gravelly loam, black (2.5Y 2/1) moist; common medium distinct brown (7.5YR 4/4) moist mottles; moderate fine granular structure; soft, very friable; slightly alkaline (pH 7.4); gradual wavy boundary.  (15 to 36 cm thick)
 
-    B21g--8 to 14 inches; light brownish gray (2.5Y 6/2) very gravelly loam, dark grayish brown (2.5Y 4/2) moist; many large prominent dark brown (7.5YR 4/4) mottles; weak coarse subangular blocky structure; slightly hard, very friable; mildly alkaline (pH 7.4); gradual wavy boundary.  (4 to 12 inches thick)
+    Bg1--46 to 61 cm; light brownish gray (2.5Y 6/2) very gravelly loam, dark grayish brown (2.5Y 4/2) moist; many large prominent brown (7.5YR 4/4) mottles; weak coarse subangular blocky structure; slightly hard, very friable; slightly alkaline (pH 7.4); gradual wavy boundary.  (10 to 30 cm thick)
 
-    B22g--14 to 60 inches; light brownish gray (10YR 6/2) fine sandy loam, dark grayish brown (10YR 4/2) moist; common medium distinct olive brown (2.5Y 4/3) and dark brown (10YR 4/3) mottles; massive; slightly hard, very friable; 10 percent gravel; mildly alkaline (pH 7.4).
+    Bg2--61 to 178 cm; light brownish gray (10YR 6/2) fine sandy loam, dark grayish brown (10YR 4/2) moist; common medium distinct olive brown (2.5Y 4/3) and brown (10YR 4/3) mottles; massive; slightly hard, very friable; 10 percent gravel; slightly alkaline (pH 7.4).
 
 TYPE LOCATION:  Jackson County, Colorado; center of NE 1/4 Sec. 32, T. 9 N., R. 77 W.
 
-RANGE IN CHARACTERISTICS:  These soils have organic surface horizons 8 to 12 inches thick.  Much horizons are not always present but if present they range in thickness from 1 to 6 inches. The mollic epipedon ranges from 7 to 19 inches thick.  Typically, the soil is noncalcareous to depths in excess of 60 inches except that the 01 horizon may be weakly calcareous in places.  The 1O-to 40-inch control section is sandy loam or loam with 8 to 18 percent clay, 5 to 35 percent silt, and 50 to 80 percent sand, with more than 35 percent being fine or coarser sand.  Some stratification is common, particularly in the surface horizons but organic content decreases uniformly.  Rock fragments average 0 to 15 percent but thin horizons containing 15 to 35 percent pebbles and cobbles are in some pedons.  The soils have a water table above a depth of 40 inches during most of the year.
+RANGE IN CHARACTERISTICS:  
+Organic surface horizon thickness--20 to 30 cm; Muck horizons are not always present, but if present they range in thickness from 3 to 15 cm. 
+Mollic epipedon thickness--18 to 48 cm thick
+Depth to calcareous soil--150 cm or more; however, the Oe horizon may be weakly calcareous in places.  
+Particle-size control section:
+Texture--sandy loam or loam 
+Clay content--8 to 18 percent
+Silt content--5 to 35 percent
+Sand content--50 to 80 percent, with more than 35 percent being fine or coarser sand
+Some stratification is common, particularly in the surface horizons but organic content decreases uniformly.  
+Rock fragment content--0 to 15 percent; however, thin horizons containing 15 to 35 percent pebbles and cobbles are present in some pedons
+Depth to water table--less than 100 cm during most of the year
 
-The Alg horizon has hue of 10YR through 5Y, value of 5 or less dry, 3 or less moist, and chroma of 2 or less.  It usually has distinct or prominent mottlings throughout or in some part.  This horizon has granular or crumb structure and is soft or slightly hard.  It is medium acid to mildly alkaline (pH 6.0 to 7.6).
+Ag horizon
+Hue--10YR through 5Y
+Value--5 or less dry, 3 or less moist
+Chroma--2 or less
+Typically, there are distinct or prominent mottles throughout or in some part.
+Structure--granular or crumb structure
+Consistence--soft or slightly hard
+Reaction--pH 6.0 to 7.6
 
-The B2g horizon has hue of 10YR or 2.5Y, value of more than 5.5 dry or more than 3.5 moist, and chroma of not more than 2.  It has distinct or prominent mottles of both bright and dull chroma.  This horizon is neutral or mildly alkaline (pH 7.0 to 7.8) and is usually nearly constant in reaction with increasing depth.
+Bg horizons
+Hue--10YR or 2.5Y
+Value--more than 5.5 dry or more than 3.5 moist
+Chroma--not more than 2
+This horizon has distinct or prominent mottles of both bright and dull chroma.  
+Reaction--pH 7.0 to 7.8, usually nearly constant in reaction with increasing depth
 
-A C horizon, when present, has higher chroma in some pedons.
+C horizon, when present, has higher chroma in some pedons.
 
 COMPETING SERIES:  This is the Dutson series.  Dutson soils lack histic epipedons and have argillic horizons.
 
-GEOGRAPHIC SETTING: These soils are on alluvial fans.  Slopes range from 0 to 3 percent.  The soils formed in mixed alluvial fan sediments derived from sandstone, quartzite, shale, and small amounts of limestone.  At the type location the average annual precipitation is 18 inches with peak periods of precipitation occurring during the spring and summer.  Mean annual temperature is about 40 degrees F. and mean summer temperature is about 48 degrees F.
+GEOGRAPHIC SETTING:
+Landform--alluvial fans
+Elevation--1850 to 3050
+Slope--0 to 3 percent
+Parent material--mixed alluvial fan sediments derived from sandstone, quartzite, shale, and small amounts of limestone
+Mean annual precipitation--460 mm with peak periods of precipitation occurring during the spring and summer
+Mean annual air temperature--4 degrees C
+Mean summer air temperature--9 degrees C
 
-GEOGRAPHICALLY ASSOCIATED SOILS:  These are the competing Dutson soils and the Greyback, Osmund, and Thayne soils.  These soils lack histic epipedons.
+GEOGRAPHICALLY ASSOCIATED SOILS:  None listed
 
-DRAINAGE AND PERMEABILITY:  Poorly drained; slow runoff; moderate permeability.
+DRAINAGE AND PERMEABILITY:  Poorly drained; slow runoff; moderate permeability
 
-USE AND VEGETATION:  These soils are used for wet meadow pastures.  Hydrophytic plants dominate the community.  The main plants are sedges, rushes, tufted hairgrass, willows, shrubby cinquefoil, Poa spp., and marsh buttercup.
+USE AND VEGETATION:  These soils are used for wet meadow pastures.  Hydrophytic plants dominate the community.  The main plants are sedges, rushes, tufted hairgrass, willows, shrubby cinquefoil, Poa spp., and marsh marigold.
 
-DISTRIBUTION AND EXTENT:  The soils are confined to mountain meadows of moderately high and high elevation in Wyoming, Colorado, Utah, and Montana.  They are of small extent.
+DISTRIBUTION AND EXTENT:  The soils are moderately extensive in mountain meadows at moderately high and high elevations in central Colorado and southwest Montana; MLRAs 43B, 44B and 48A.
 
-MLRA SOIL SURVEY REGIONAL OFFICE (MO) RESPONSIBLE: Bozeman, Montana
+SOIL SURVEY REGIONAL OFFICE (SSRO) RESPONSIBLE: Bozeman, Montana
 
-SERIES ESTABLISHED:  Jackson County, Colorado, 1973.
+SERIES ESTABLISHED:  Jackson County, Colorado, 1973
 
-REMARKS:  OSED scanned by NSSQA and cleaned up by Colorado.  Last revised by state 1/79.
+REMARKS:  
+The superactive cation exchange activity class was added to the taxonomic classification by the National Soil Survey Center on request of the Lakewood office, without review of the soil series property data. 03/2003
 
-
-The superactive cation exchange activity class was added in 03/2003 to the taxonomic classification by the National Soil Survey Center on request of the Lakewood MLRA office, without review of the soil series property data. The remainder of this document has not been updated.
+Converted to metric, updated formatting, and O horizons were updated to start at zero. Competing series section was not updated. 11/2022
 
 National Cooperative Soil Survey
 U.S.A.

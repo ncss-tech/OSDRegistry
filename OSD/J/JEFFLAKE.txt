@@ -1,53 +1,77 @@
-LOCATION JEFFLAKE               WY
+LOCATION JEFFLAKE               WY+MT
 
 Tentative Series
-JH/AB/PSD
-02/1999
+JH/AB/KLS
+11/2022
 
 JEFFLAKE SERIES
 
-The Jefflake series consists of deep, somewhat poorly drained soils formed in glacial till which overlies soft sediments of Quaternary and Tertiary Age.  These soils are on mountain slopes, ridges, plateaus, and basins.  Slopes are both simple or complex and are 0 to 25 percent.  The mean annual precipitation is about 35 inches, and the mean annual temperature is about 40 degrees F.
+The Jefflake series consists of deep, somewhat poorly drained soils formed in glacial till which overlies soft sediments of Quaternary and Tertiary Age.  These soils are on nearly level to moderately steep mountain slopes, ridges, plateaus, and basins.  Slopes are both simple or complex and are 0 to 25 percent.  The mean annual precipitation is about 890 mm, and the mean annual air temperature is about 4 degrees C.
 
 TAXONOMIC CLASS: Clayey-skeletal, smectitic Aquic Haplocryalfs
 
 TYPICAL PEDON:  Jefflake very gravelly sandy clay loam-timber.  (Colors are for dry soil unless otherwise stated)
 
-     0i--1 to 0 inches; partially decomposed litter of conifer needles and twigs.
+     Oi--0 to 3 cm; partially decomposed litter of conifer needles and twigs.
 
-     E--0 to 9 inches; light gray (10YR 7/2) very gravelly sandy clay loam, pale brown (10YR 6/3) moist; weak medium subangular blocky structure; soft, friable, slightly sticky and nonplastic; common fine and medium roots and few coarse roots; common fine and medium interstitial pores and few medium tubular pores; 40 percent pebbles and 5 percent cobbles; very strongly acid (pH 5.0); clear wavy boundary.  (6 to 11 inches thick)
+     E--3 to 26 cm; light gray (10YR 7/2) very gravelly sandy clay loam, pale brown (10YR 6/3) moist; weak medium subangular blocky structure; soft, friable, slightly sticky and nonplastic; common fine and medium roots and few coarse roots; common fine and medium interstitial pores and few medium tubular pores; 40 percent pebbles and 5 percent cobbles; very strongly acid (pH 5.0); clear wavy boundary.  (15 to 28 cm thick)
 
-     Bt1--9 to 21 inches; brownish yellow (10YR 6/6) very gravelly heavy clay loam, yellowish brown (10YR 5/6) moist; few fine distinct grayish brown (10YR 5/2) mottles, moderate medium and fine subangular blocky structure; slightly hard, firm, slightly sticky and slightly plastic; common fine and medium roots and few coarse roots; common fine and medium interstitial pores and few medium tubular pores; common thin clay films on faces of peds and lining pores; 35 percent pebbles and 5 percent cobbles; strongly acid (pH 5.4); clear smooth boundary.
+     Bt1--26 to 56 cm; brownish yellow (10YR 6/6) very gravelly heavy clay loam, yellowish brown (10YR 5/6) moist; few fine distinct grayish brown (10YR 5/2) mottles, moderate medium and fine subangular blocky structure; slightly hard, firm, slightly sticky and slightly plastic; common fine and medium roots and few coarse roots; common fine and medium interstitial pores and few medium tubular pores; common thin clay films on faces of peds and lining pores; 35 percent pebbles and 5 percent cobbles; strongly acid (pH 5.4); clear smooth boundary.
 
-     Bt2--21 to 43 inches; reddish yellow (7.5YR 6/6) very gravelly clay, strong brown (7.5Y 5/8) moist; few fine distinct grayish brown (10YR 5/2) mottles; moderate medium and fine subangular blocky structure; very hard, very firm, very sticky and plastic; few fine and medium roots; few fine interstitial pores; many thin clay films on faces of peds, common moderately thick clay films lining pores; 30 percent pebbles and 10 percent cobbles; medium acid (pH 5.6); gradual wavy boundary.  (Combined thickness of the Bt horizons is 20 to over 60 inches)
+     Bt2--56 to 112 cm; reddish yellow (7.5YR 6/6) very gravelly clay, strong brown (7.5YR 5/8) moist; few fine distinct grayish brown (10YR 5/2) mottles; moderate medium and fine subangular blocky structure; very hard, very firm, very sticky and plastic; few fine and medium roots; few fine interstitial pores; many thin clay films on faces of peds, common moderately thick clay films lining pores; 30 percent pebbles and 10 percent cobbles; moderately acid (pH 5.6); gradual wavy boundary.  (Combined thickness of the Bt horizons - 50 to more than 150 cm)
 
-     BCg--43 to 60 inches; brownish yellow (10YR 6/6) very gravelly clay loam, brownish yellow (10YR 6/6) moist; few fine distinct grayish brown (10YR 5/2) and black (10YR 2/1) mottles; weak fine subangular blocky structure; very hard, very firm, very sticky and plastic; few fine roots; few fine interstitial pores; few thin clay films on faces of peds; 30 percent pebbles and 15 percent cobbles; medium acid (pH 5.8).
+     BCg--112 to 155 cm; brownish yellow (10YR 6/6) very gravelly clay loam, brownish yellow (10YR 6/6) moist; few fine distinct grayish brown (10YR 5/2) and black (10YR 2/1) mottles; weak fine subangular blocky structure; very hard, very firm, very sticky and plastic; few fine roots; few fine interstitial pores; few thin clay films on faces of peds; 30 percent pebbles and 15 percent cobbles; moderately acid (pH 5.8).
 
 TYPE LOCATION:  Albany County, Wyoming; NE1/4, SW1/4 of sec. 10, T. 16 N., R. 78 W.
 
-RANGE IN CHARACTERISTICS:  Depth to the base of the argillic horizon is 30 to over 60 inches.  The mean annual soil temperature is 42 to 47 degrees F., and the mean summer temperature is 47 to 54 degrees F.  Some or all parts of the argillic horizon contain low chroma mottles of 2 or 1 within 30 inches of the surface.
+RANGE IN CHARACTERISTICS:  
+Mean annual soil temperature--6 to 8 degrees C
+Mean summer temperature--8 to 12 degrees C
+Depth to base of argillic horizon--75 to 150 cm or more
+Some or all parts of the argillic horizon contain low chroma mottles of 2 or 1 within 75 cm of the surface
 
-The E horizon has hue of 6 or 7 dry, 4 through 6 moist, and chroma of 1 through 3.  Coarse fragments range from 35 to 60 percent pebbles or cobbles or a mixture of each.  It is very strongly acid through medium acid.
+E horizon
+Hue--6 or 7 dry, 4 through 6 moist
+Chroma--1 through 3
+Rock fragment content--35 to 60 percent pebbles or cobbles or a mixture of each
+Reaction--pH 4.5 to 6.0
 
-The Bt horizon has hue of 5YR through 5Y, value of 4 through 6 dry, 2 through 5 moist, and chroma of 3 through 8.  Matrix texture is clay, clay loam, or sandy clay loam with 35 to 50 percent clay.  Coarse fragments range from 35 to 60 percent pebbles, cobbles, or a mixture of each.  Low chroma mottles are common and some horizons are gleyed throughout.  It is very strongly acid through slightly acid.
+Bt horizon
+Hue--5YR through 5Y
+Value--4 through 6 dry, 2 through 5 moist
+Chroma--3 through 8
+Texture--clay, clay loam, or sandy clay loam
+Clay content--35 to 50 percent
+Rock fragment content--35 to 60 percent pebbles, cobbles, or a mixture of each
+Low chroma mottles are common and some horizons are gleyed throughout  
+Reaction--pH 5.1 to 6.5
 
 COMPETING SERIES:  There are no other soils in this class.  The Potlatch soils are similar but lack the skeletal control section.
 
-GEOGRAPHIC SETTING:  Jefflake soils are on nearly level to moderately steep mountain slopes, plateaus, ridges, and basins.  They formed in glacial till which overlies soft sediments of Quaternary and Tertiary Age.  Slopes are 0 to 25 percent.  Elevations are 9,300 to 10,000 feet.  The mean annual precipitation is about 25 to 40 inches.  The mean annual temperature is about 38 to 45 degrees F.  The frost-free season is less than 60 days.
+GEOGRAPHIC SETTING: 
+Landform--mountain slopes, plateaus, ridges, and basins
+Elevation--2825 to 3050 meters
+Slope--0 to 25 percent
+Parent material--glacial till
+Mean annual precipitation--640 to 1000 mm
+Mean annual air temperature--3 to 7 degrees C
+Frost-free period--less than 60 days
 
-GEOGRAPHICALLY ASSOCIATED SOILS:  These are the Agneston, Cloud Peak, Cowdry, and Greyback soils.  The Agneston and Cloud Peak soils have less than 35 percent clay in the Bt horizon.  Cowdry soils contain less than 35 percent coarse fragments throughout.  The Greyback soils have a mollic epipedon.
+GEOGRAPHICALLY ASSOCIATED SOILS:  None listed
 
-DRAINAGE AND PERMEABILITY:  Somewhat poorly drained; slow or medium runoff; moderately slow permeability.
+DRAINAGE AND PERMEABILITY:  Somewhat poorly drained; slow or medium runoff; moderately slow permeability
 
 USE AND VEGETATION:  Timber and wildlife habitat.  Native vegetation consists of subalpine fir, Englemann spruce, lodgepole pine, bluejoint reedgrass, and elk sedge.
 
-DISTRIBUTION AND EXTENT:  Mountain of south central Wyoming.  The soil is of moderate extent.
+DISTRIBUTION AND EXTENT: Jefflake soils are moderately extensive in the mountainous regions of western and central Montana and southcentral Wyoming. MLRAs 43A and 43B
 
-MLRA SOIL SURVEY REGIONAL OFFICE (MO) RESPONSIBLE: Bozeman, Montana
+SOIL SURVEY REGIONAL OFFICE (SSRO) RESPONSIBLE: Bozeman, Montana
 
-SERIES PROPOSED:  Medicine Bow National Forest, Central Part, Albany and Carbon Counties, Wyoming; 1984.
+SERIES PROPOSED:  Medicine Bow National Forest, Central Part, Albany and Carbon Counties, Wyoming; 1984
 
-OSED scanned by SSQA.  Last revised by state on 8/86.
-Classification corrected to Alfisol and superactive by Lakewood MO on 7/97.  References to the Slumpy series were removed.
+Classification corrected to Alfisol and superactive by the Lakewood office and references to the Slumpy series were removed. 7/97  
+
+Converted to metric, updated formatting, and O horizons were updated to start at zero. Competing series section was not updated. 11/2022
 
 National Cooperative Soil Survey
 U.S.A.

@@ -1,76 +1,85 @@
 LOCATION SARAGOTE               NM
 
 Established Series
-Rev.MWR/RJA/LWH
-02/1999
+Rev. MWR/RJA/KLS
+11/2022
 
 SARAGOTE SERIES
 
-The Saragote series consists of very deep, somewhat poorly drained, slowly permeable soils that formed in alluvium derived from metamorphic rocks.  Saragote soils are on mountains.  Slopes are 2 to 5 percent.  The mean annual temperature is about 36 degrees F., and the mean annual precipitation is about 33 inches.
+The Saragote series consists of very deep, somewhat poorly drained, slowly permeable soils that formed in alluvium derived from metamorphic rocks.  Saragote soils are on mountain slopes.  Slopes are 2 to 5 percent.  The mean annual precipitation is about 840 mm and the mean annual air temperature is about 2 degrees C.
 
 TAXONOMIC CLASS: Clayey-skeletal, mixed, superactive Aquic Argicryolls
 
 TYPICAL PEDON:  Saragote loam - woodland.  (Colors are for dry soil unless otherwise noted)
 
-     0i--1 inch to 0; decomposing organic matter.
+     Oi--0 to 3 cm; decomposing organic matter.
 
-     A--0 to 8 inches; very dark gray (10YR 3/1) loam, black (10YR 2/1) moist; few fine distinct strong brown (7.5YR 5/8) mottles: moderate coarse granular structure; slightly hard, friable, sticky and slightly plastic; common medium, many fine and very fine roots; common fine interstital pores; 5 percent cobbles; medium acid; clear wavy boundary.  (8 to 10 inches thick)
+     A--3 to 23 cm; very dark gray (10YR 3/1) loam, black (10YR 2/1) moist; few fine distinct strong brown (7.5YR 5/8) mottles: moderate coarse granular structure; slightly hard, friable, sticky and slightly plastic; common medium, many fine and very fine roots; common fine interstitial pores; 5 percent cobbles; moderately acid; clear wavy boundary.  (20 to 25 cm thick)
 
-     Bt1--8 to 14 inches; brown (10YR 5/3) very cobbly clay loam, dark brown (10YR 3/3) moist; few fine distinct strong brown (7.5YR 5/8) mottles; strong fine subangular blocky structure; very hard, firm, sticky and plastic; common medium, many fine and very fine roots; common fine and few very fine tubular pores; few thin clay films on faces of peds and lining pores; 10 percent pebbles, 25 percent cobbles; medium acid; clear wavy boundary.  (3 to 8 inches thick)
+     Bt1--23 to 38 cm; brown (10YR 5/3) very cobbly clay loam, dark brown (10YR 3/3) moist; few fine distinct strong brown (7.5YR 5/8) mottles; strong fine subangular blocky structure; very hard, firm, sticky and plastic; common medium, many fine and very fine roots; common fine and few very fine tubular pores; few thin clay films on faces of peds and lining pores; 10 percent pebbles, 25 percent cobbles; moderately acid; clear wavy boundary.  (8 to 20 cm thick)
 
-     Bt2--14 to 32 inches; pinkish gray (7.5YR 6/2) very cobbly clay, brown (7.5YR 5/2) moist; common large distinct strong brown (7.5YR 5/8) mottles; moderate medium subangular blocky structure; very hard, firm, very sticky and very plastic; few medium, common fine and few very fine roots; common fine and few very fine tubular pores; many moderately thick clay films on faces of peds and lining pores; 10 percent pebbles, 30 percent cobbles; medium acid; gradual wavy boundary.  (18 to 32 inches thick)
+     Bt2--38 to 84 cm; pinkish gray (7.5YR 6/2) very cobbly clay, brown (7.5YR 5/2) moist; common large distinct strong brown (7.5YR 5/8) mottles; moderate medium subangular blocky structure; very hard, firm, very sticky and very plastic; few medium, common fine and few very fine roots; common fine and few very fine tubular pores; many moderately thick clay films on faces of peds and lining pores; 10 percent pebbles, 30 percent cobbles; moderately acid; gradual wavy boundary.  (45 to 80 cm thick)
 
-     C--32 to 60 inches; light brown (7.5YR 6/4) very cobbly clay, brown (7.5YR 5/4) moist; common large distinct strong brown (7.5YR 5/8) mottles; massive; very hard, firm, very sticky and very plastic; few medium, fine and very fine roots; few fine tubular pores; 10 percent pebbles, 30 percent cobbles; medium acid.
+     C--84 to 155 cm; light brown (7.5YR 6/4) very cobbly clay, brown (7.5YR 5/4) moist; common large distinct strong brown (7.5YR 5/8) mottles; massive; very hard, firm, very sticky and very plastic; few medium, fine and very fine roots; few fine tubular pores; 10 percent pebbles, 30 percent cobbles; moderately acid.
 
-TYPE LOCATION:  Rio Arriba County, New Mexico; approximately 11 miles east of Tierra Amarilla; New Mexico, state plane coordinates 2,077,622 north and 467,958 east; 106 degrees, 21 minutes, 36 second west longitude; 36 degrees, 42 minutes, 36 seconds north latitude.
+TYPE LOCATION:  Rio Arriba County, New Mexico; about 18 km east of Tierra Amarilla; New Mexico, state plane coordinates 2,077,622 north and 467,958 east; long. 106 degrees, 21 minutes, 36 second W; lat. 36 degrees, 42 minutes, 36 seconds N.
 
 RANGE IN CHARACTERISTICS:
+Soil moisture--saturated in some part of the SMCS during spring and early summer
+Mean annual soil temperature--3 to 4 degrees C
+Mean summer soil temperature--4 to 6 degrees C
+Thickness of mollic epipedon--25 to 36 cm
+Depth to mottles--0 to 60 cm
+Depth to water table--50 to 100 cm from March through June, due to snowmelt water
+Other features: chromas in the lower part of the mollic epipedon are typically 3.  In areas with chroma of 2 or less in the lower part, mottles are below 45 cm.
 
-Soil Moisture:  The soil is saturated in some part of the SMCS during spring and early summer.
+Particle-size control section:
+Clay content--35 to 50 percent clay
+Reaction--pH 5.6 to 6.1
 
-Mean annual soil temperature:  37 to 39 degrees F.
+A horizon
+Value--3 or 4 dry, 2 or 3 moist
+Chroma-1 or 2
+Rock fragment content--0 to 10 percent cobbles
 
-Mean summer soil temperature:  40 to 42 degrees F.
+Bt horizon
+Value--5 or 6 dry, 3 through 5 moist
+Texture--clay loam or clay
+Rock fragment content--10 to 15 percent pebbles, 25 to 40 percent cobbles
 
-Reaction:  Slightly acid to medium acid.
+C horizon
+Texture--clay loam or cobbly clay
+Rock fragment content--10 to 15 percent pebbles, 25 to 40 percent cobbles
 
-Depth to Mottles:  0 to 24 inches.
+COMPETING SERIES:  There are no competing series in the same family.  A similar soil is Animas(CO).  Animas soils are 50 to 100 cm to a paralithic contact and have less than 35 percent clay in the particle-size control section.
 
-Thickness of mollic epipedon:  10 to 14 inches.
+GEOGRAPHIC SETTING:  
+Landform-mountain slopes
+Elevation--2900 to 3475 meters
+Slope--2 to 5 percent 
+Parent material-alluvium derived from metamorphic rock
+Mean annual precipitation--810 to 890 mm
+Mean annual air temperature--2 to 3 degrees C
+Frost-free--50 to 70 days
 
-Depth to water table:  2 to 3.5 feet from March through June, due to snowmelt water.
+GEOGRAPHICALLY ASSOCIATED SOILS:  None listed
 
-Particle-size control section:  35 to 50 percent clay.
-
-Other features: chromas in the lower part of the mollic epipedon are tpyically 3.  In areas with chroma of 2 or less in the lower part, mottles are below 18 inches.
-
-A horizon:  Value 3 or 4 dry, 2 or 3 moist. Chroma:  l or 2.  Rock fragments: 0 to 10 percent cobbles.
-
-Bt horizon:  Value 5 or 6 dry, 3 through 5 moist. Texture:  Clay loam or clay. Rock fragments: 10 to 15 percent pebbles, 25 to 40 percent cobbles.
-
-C horizon:  Rock fragments - 10 to 15 percent pebbles, 25 to 40 percent cobbles.  Texture: very cobbly clay loam or very cobbly clay.
-
-COMPETING SERIES:  There are no competing series in the same family.  A similar soil is Animas(CO).  Animas soils are 20 to 40 inches to a paralithic contact and have less than 35 percent clay in the particle-size control section.
-
-GEOGRAPHIC SETTING:  Saragote soils formed in alluvium from metamorphic rock on mountains.  Slopes range from 2 to 5 percent.  The mean annual precipitation is 32 to 35 inches and the mean annual temperature is 35 to 37 degrees F.  Elevation 9,500 to 11,400 feet and the frost-free period is 50 to 70 days.
-
-GEOGRAPHICALLY ASSOCIATED SOILS:  These are Angostura, Croftshaw, and Ess soils.  Angostura, Croftshaw, and Ess soils have less than 35 percent clay in the particle-size control section.
-
-DRAINAGE AND PERMEABILITY:  Somewhat poorly drained; slow runoff; slow permeability.
+DRAINAGE AND PERMEABILITY:  Somewhat poorly drained; slow runoff; slow permeability
 
 USE AND VEGETATION:  Saragote soils are used for wood products, livestock grazing and wildlife habitat.  The present vegetation is a forest of Englemann spruce, corkbark fir, subalpine fir, aspen with understory of subalpine timothy, mutton grass, and blue grasses.
 
-DISTRIBUTION AND EXTENT:  North central New Mexico.  Series is of moderate extent.
+DISTRIBUTION AND EXTENT:  Saragote soils are moderately extensive in the mountains of northcentral New Mexico; MLRA 48A.
 
-MLRA SOIL SURVEY REGIONAL OFFICE (MO) RESPONSIBLE: Bozeman, Montana
+SOIL SURVEY REGIONAL OFFICE (SSRO) RESPONSIBLE: Bozeman, Montana
 
-SERIES ESTABLISHED:  Rio Arriba County, New Mexico, 1989.
+SERIES ESTABLISHED:  Rio Arriba County, New Mexico, 1989
 
 REMARKS:  Diagnostic horizons and features recognized in this pedon are:
+Mollic epipedon--3 to 38 cm (A and Bt1 horizons)
+Argillic horizon--23 to 84 cm (Bt horizons)
+Particle-size control section--23 to 83 cm (Bt1 and most of Bt2 horizon)
 
-Mollic epipedon:  The zone from the surface of the soil to a depth of 14 inches.  (A and Bt1 horizons)
-
-Argillic Horizon:  The zone from about 8 to 32 inches (Bt horizons)
+Converted to metric, updated formatting, and O horizons were updated to start at zero. Competing series section was not updated. 11/2022
 
 National Cooperative Soil Survey
 U.S.A.

@@ -1,56 +1,77 @@
-LOCATION SAMBRITO               CO+UT
+LOCATION SAMBRITO               CO+ID UT
 
 Established Series
-Rev. RFB/RHM
-01/2008
+Rev. RFB/RHM/KLS
+11/2022
 
 SAMBRITO SERIES
 
-Typically, Sambrito soils have light brownish gray very friable granular A horizons, pale brown gravelly coarse sandy loam B2 horizons with moderate blocky structure, and light gray gravelly coarse sandy loam C horizons.
+The Sambrito series consists of deep or very deep, well drained soils that formed in thick acid gravelly moderately coarse textured materials derived mainly from sedimentary rocks. Sambrito soils are on moderately to steeply sloping ridges, mountain sides, and valley side slopes and have slopes of 4 to 80 percent. The mean annual precipitation is about 965 mm and the mean annual air temperature is about 3 degrees C.
 
 TAXONOMIC CLASS: Coarse-loamy, mixed, superactive Typic Haplocryepts
 
 TYPICAL PEDON:   Sambrito loam - forest (Colors are for dry soil unless otherwise noted.)
 
-    01--2 to 1 inches; undecomposed organic material principally needles, bark, twigs, and the fleshy remains of grasses.
+    Oi--0 to 3 cm; undecomposed organic material principally needles, bark, twigs, and the fleshy remains of grasses.
 
-    02--1 inch to 0; partially decomposed organic material like that of the horizon above.
+    Oe--3 to 6 cm; partially decomposed organic material like that of the horizon above.
 
-    A1--0 to 4 inches; light brownish gray (10YR 6/2) loam, grayish brown (10YR 5/2) moist; moderate fine granular and crumb structure; soft, very friable, nonplastic, nonsticky; strongly acid; clear smooth boundary.  (3 to 8 inches thick)
+    A--6 to 16 cm; light brownish gray (10YR 6/2) loam, grayish brown (10YR 5/2) moist; moderate fine granular and crumb structure; soft, very friable, nonplastic, nonsticky; strongly acid; clear smooth boundary.  (8 to 20 cm thick)
 
-    B2--4 to 20 inches; pale brown (10YR 6/3) gravelly coarse sandy loam, brown (10YR 5/3) moist; moderate medium subangular blocky structure; slightly hard, very friable, nonplastic, nonsticky; 20 percent gravel; medium acid; gradual wavy boundary.  (7 to 23 inches thick)
+    Bw--16 to 57 cm; pale brown (10YR 6/3) gravelly coarse sandy loam, brown (10YR 5/3) moist; moderate medium subangular blocky structure; slightly hard, very friable, nonplastic, nonsticky; 20 percent gravel; moderately acid; gradual wavy boundary.  (18 to 58 cm thick)
 
-    C--20 to 60 inches; light gray (10YR 7/2) gravelly coarse sandy loam, grayish brown (10YR 5/2) moist; massive; slightly hard, very friable, nonplastic, nonsticky; 30 percent gravel; medium acid; gradual wavy boundary.  (28 to 50 inches thick)
+    C--57 to 157 cm; light gray (10YR 7/2) gravelly coarse sandy loam, grayish brown (10YR 5/2) moist; massive; slightly hard, very friable, nonplastic, nonsticky; 30 percent gravel; moderately acid; gradual wavy boundary.  (71 to 127 cm thick)
 
-    IIC--60 inches; shale.
+    2Cr--157 cm; shale.
 
-TYPE LOCATION:  Archuleta County, Colorado; NW 1/4 Sec. 5, T. 36 N., R.  2 E.
+TYPE LOCATION:  Archuleta County, Colorado; NW1/4 sec. 5, T. 36 N., R.  2 E.
 
-RANGE IN CHARACTERISTICS:  The control section is normally gravelly coarse sandy loam, but clay ranges from 2 to 18 percent.  Rock fragments range from 0 to 35 percent by volume in the major part of the control section and these are mainly pebbles and cobbles.
+RANGE IN CHARACTERISTICS:  
+Particle-size control section:
+Texture--coarse sandy loam
+Clay content--2 to 18 percent
+Rock fragment content--0 to 35 percent, mainly pebbles and cobbles
 
-The A horizon has hue of 10YR or 7.5YR, value of 5 through 7 dry, 3 through 6 moist, and chroma of 1 through 4.  It is strongly or medium acid.
+A horizon
+Hue--10YR or 7.5YR
+Value--5 through 7 dry, 3 through 6 moist
+Chroma--1 through 4
+Reaction--pH 5.1 to 6.0
 
-The B2 horizon has hue of 10YR through 5YR, value of 5 through 7 dry, 4 through 6 moist, and chroma of 1 through 4.  It is medium acid or slightly acid.
+Bw horizon
+Hue--10YR through 5YR
+Value--5 through 7 dry, 4 through 6 moist
+Chroma--1 through 4
+Reaction--pH 5.6 to 6.5
 
-The C horizon has hue of 10YR or 7.5YR.  It is medium acid or slightly acid.
+C horizon
+Hue--10YR or 7.5YR
+Reaction--pH 5.6 to 6.5
 
-COMPETING SERIES:  These are the Azwell, Bobtail, Hanks, Jenkins, Jughandle, Lake Janee, Liggett, Ryorp, and Ualters series.  Azwell, Bobtail, Jenkins, Jughandle, and Ryorp soils have a lithic contact above depth of 40 inches.  Hanks soils have sandy-skeletal substratums above depth of 40 inches and are in areas of winter rainfall.  Lake Janee soils are medium or strongly acid, contain a high proportion of medium and coarse angular sand, and have a winter rainfall pattern.  Liggett soils are strongly or very strongly acid, have B2 horizons in which some clay is accumulating as lamellae, and have a winter rainfall pattern.  Walters soils developed in stratified alluvium that is more silty in the upper control section, have continuous horizons of visible carbonate accumulation, and have a continuous A2 horizon.
+COMPETING SERIES:  These are the Azwell, Bobtail, Hanks, Jenkins, Jughandle, Lake Janee, Liggett, Ryorp, and Ualters series.  Azwell, Bobtail, Jenkins, Jughandle, and Ryorp soils have a lithic contact above depth of 100 cm.  Hanks soils have sandy-skeletal substratums above depth of 100 cm and are in areas of winter rainfall.  Lake Janee soils are medium or strongly acid, contain a high proportion of medium and coarse angular sand, and have a winter rainfall pattern.  Liggett soils are strongly or very strongly acid, have Bw horizons in which some clay is accumulating as lamellae, and have a winter rainfall pattern.  Walters soils developed in stratified alluvium that is more silty in the upper control section, have continuous horizons of visible carbonate accumulation, and have a continuous E horizon.
 
-GEOGRAPHIC SETTING:  Sambrito soils are on moderately to steeply sloping ridges, mountain sides, and valley side slopes.  Slopes typically range from about 4 to 80 percent.  Elevation is about 9,400 feet.  The soils formed in thick acid gravelly moderately coarse textured materials derived mainly from sedimentary rocks.  At the type location the mean annual precipitation is 35 to 40 inches.  Mean annual temperature is 38 degrees F., mean summer temperature is 54 degrees F.
+GEOGRAPHIC SETTING:  
+Landform--moderately to steeply sloping ridges, mountain sides, and valley side slopes
+Elevation--2850 meters
+Slope--4 to 80 percent
+Parent material--colluvium over residuum derived mainly from sedimentary rocks
+Mean annual precipitation--890 mm to 1020 mm
+Mean annual air temperature--3 degrees C
+Mean summer air temperature--12 degrees C
 
-GEOGRAPHICALLY ASSOCIATED SOILS:  These are the Castelleia soils.  Castelleia soils have an argillic horizon and a fine-loamy control section.
+GEOGRAPHICALLY ASSOCIATED SOILS:  None listed
 
-DRAINAGE AND PERMEABILITY:  Well drained; medium to rapid runoff; moderately rapid permeability.
+DRAINAGE AND PERMEABILITY:  Well drained; medium to rapid runoff; moderately rapid permeability
 
-USE AND VEGETATION:  These soils are used for timber production, summer wildlife habitat, and some summer cattle range.  Native vegetation is mainly spruce and fir with an understory of bushes and sedges.
+USE AND VEGETATION:  These soils are used for timber production, summer wildlife habitat, and some summer cattle range.  Native vegetation is mainly spruce and fir with an understory of shrubs and sedges.
 
-DISTRIBUTION AND EXTENT:  High mountain area of southwestern Colorado.  The series is of moderate extent.
+DISTRIBUTION AND EXTENT:  Sambrito soils are moderately extensive in the high mountain areas of western Colorado, northern Utah, and southeastern Idaho; MLRAs 43B, 47 and 48A.
 
-MLRA SOIL SURVEY REGIONAL OFFICE (MO) RESPONSIBLE: Bozeman, Montana
+SOIL SURVEY REGIONAL OFFICE (SSRO) RESPONSIBLE: Bozeman, Montana
 
-SERIES ESTABLISHED:  Archuleta County (Piedra Area), Colorado, 1974.
+SERIES ESTABLISHED:  Archuleta County (Piedra Area), Colorado, 1974
 
-REMARKS:  OSED scanned by NSSQA and cleaned up by Colorado.  Last revised by state on 5/74.
+REMARKS:  Converted to metric, updated formatting, and O horizons were updated to start at zero. Competing series section was not updated. 11/2022
 
 National Cooperative Soil Survey
 U.S.A.
