@@ -2,7 +2,7 @@ LOCATION DRAYKE                 VA+GA NC
 
 Established Series
 Rev. NAM-DDR
-11/2022
+12/2022
 
 DRAYKE SERIES
 
@@ -10,8 +10,7 @@ Soils of the Drayke series are very deep and well drained.  They formed in collu
 
 TAXONOMIC CLASS: Fine, mixed, semiactive, mesic Typic Rhodudults
 
-TYPICAL PEDON:  Drayke loam - orchard
-(Colors are for moist soils.)
+TYPICAL PEDON:  Drayke loam - orchard (Colors are for moist soils.)
 
      Ap--0 to 8 inches; dark reddish brown (5YR 3/4) loam; moderate very fine and fine granular structure; friable; many fine roots; 2 percent fine angular quartz gravel; strongly acid; abrupt smooth boundary.  (0 to 12 inches thick)
 
@@ -86,6 +85,8 @@ VA0098  0- 8  4.5- 5.5  .1-2.  0- 0   0.6- 6.0  LOW
 VA0098  0- 8  4.5- 5.5  .1-2.  0- 0   0.6- 6.0  LOW
 VA0098  8-48  4.5- 5.5  0.-.5  0- 0   0.6- 2.0  MODERATE
 VA0098 48-80  4.5- 6.0  0.-.5  0- 0   0.6- 2.0  MODERATE
+
+Soil series name was renamed to Drayke as the former soil series name could be considered offensive.
 
 National Cooperative Soil Survey
 U.S.A.
