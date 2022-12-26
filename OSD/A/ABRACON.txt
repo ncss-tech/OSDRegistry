@@ -2,7 +2,7 @@ LOCATION ABRACON                UT+CO
 
 Established Series
 Rev.RHF/AP/SSP
-09/1999
+12/2022
 
 ABRACON SERIES
 
@@ -12,7 +12,6 @@ TAXONOMIC CLASS:  Coarse-loamy, mixed, superactive, mesic Ustic Haplocalcids
 
 TYPICAL PEDON:  Abracon loam, on an east southeast facing, linear, 3 percent slope in Wyoming big sagebrush/needleandthread grass rangeland at an elevation of 5,650 feet.  (Colors are for dry soil unless otherwise noted.)  
 
-The surface is covered with 10 percent gravel.
 
     A--0 to 4 inches; brown (7.5YR 5/4) loam, brown (7.5YR 4/4) moist; weak thin platy structure; soft, friable, slightly sticky and slightly plastic; many very fine and fine, common medium roots; many very fine and fine, common medium, few coarse vesicular pores; slightly effervescent; 5 percent calcium carbonate equivalent; calcium carbonate is disseminated; moderately alkaline (pH 8.0); abrupt smooth boundary.  (2 to 8 inches thick) 
 
@@ -35,6 +34,8 @@ Particle-size control section:  13 to 18 percent silicate clay; 18 to 35 percent
 Depth to calcic horizon:  7 to 24 inches
 Surface layers with mollic colors are not thick enough to qualify as a mollic epipedon.  
 Calcareous throughout pedon.
+The surface is covered with 10 percent gravel.
+
 
 A horizon:
 Hue:  5YR to 10YR
@@ -72,9 +73,9 @@ Rock fragments:  0 to 15 percent gravel and cobbles
 Calcium carbonate equivalent:  5 to 25 percent
 Reaction:  moderately alkaline or strongly alkaline 
 
-COMPETING SERIES:  Current competitors are the Anasazi, Chugcity, Cobbra, Harvey, Milok, Sazi, and the Xenmack series.  Competitors prior to the Eighth Edition, 1998 Keys are the Chupadera and Mivida series.
+COMPETING SERIES:  Current competitors are the ThumbRock, Chugcity, Cobbra, Harvey, Milok, Sazi, and the Xenmack series.  Competitors prior to the Eighth Edition, 1998 Keys are the Chupadera and Mivida series.
 
-Anasazi, Chugcity, Chupadera, Sazi, and Xenmack: moderately deep to a lithic or paralithic contact.  
+ThumbRock, Chugcity, Chupadera, Sazi, and Xenmack: moderately deep to a lithic or paralithic contact.  
 Cobbra:  more than 35 percent rock fragments below 40 inches.
 Harvey:  have soil moisture control sections that are affected by peak periods of precipitation in the spring and summer.
 Milok and Mivida: less than 18 percent total clay in the particle size control section.

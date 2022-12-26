@@ -1,14 +1,14 @@
-LOCATION CATUNA                 TX 
+LOCATION CATUNA                 TX
 
 Established Series
 ACP:EM:SJR
-06/2018
+12/2022
 
 CATUNA SERIES
 
 The Catuna series consists of very deep, very poorly drained, slowly permeable soils. They formed in loamy and clayey residuum derived from mudstone of the Wilcox Group. These soils are on depressional areas on interfluves in the Western Coastal Plains (MLRA 133B). Slope ranges from 0 to 1 percent. Mean annual air temperature is about 18 degrees C (64 degrees F), and mean annual precipitation is about 1,346 mm (53 in).
 
-TAXONOMIC CLASS: Fine-silty, siliceous, active, thermic Typic Epiaqualfs 
+TAXONOMIC CLASS: Fine-silty, siliceous, active, thermic Typic Epiaqualfs
 
 TYPICAL PEDON: Catuna silt loam in a woodland, at an elevation of 99 m (326 ft). (Colors are for moist soil unless otherwise stated.) 
 
@@ -161,11 +161,11 @@ Precipitation Pattern: July and August are the driest months, while November to 
 Frost-free period: 230 to 250 days 
 Elevation: 60 to 100 m (197 to 328 ft) 
 
-GEOGRAPHICALLY ASSOCIATED SOILS: These are Eastwood, Keatchie, Latex, Meth, and Scottsville soils.
+GEOGRAPHICALLY ASSOCIATED SOILS: These are Eastwood, Keatchie, Latex, Hallsummit, and Scottsville soils.
 Eastwood soils: are on higher positions, have a fine particle-size control section, and have smectitic mineralogy 
 Keatchie soils: are on higher positions, have a brown upper argillic horizon, and have 5 to 15 percent albic materials (E) in the lower argillic horizon 
 Latex soils: are on higher positions and have a lithologic discontinuity between 100 and 150 cm (39 to 59 in) 
-Meth soils: are on higher positions, have a fine particle-size control section, have mixed mineralogy, and have 20 percent or more relative clay decrease in a horizon above 150 cm (59 in) 
+Hallsummit soils: are on higher positions, have a fine particle-size control section, have mixed mineralogy, and have 20 percent or more relative clay decrease in a horizon above 150 cm (59 in) 
 Scottsville soils: have a fine particle-size control section and have siliceous over smectitic mineralogy
 
 DRAINAGE AND PERMEABILITY:

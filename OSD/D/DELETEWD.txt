@@ -1,0 +1,101 @@
+LOCATION DELETEWD               WA
+
+Inactive Series
+Rev. JTK/TLA/KDPL/KH
+12/2022
+
+DELETEWD SERIES
+
+Landscape--plateaus, canyonlands
+Landform--ridges, structural benches, canyons
+Slope--0 to 65 percent
+Parent material--residuum and colluvium derived from basalt and a minor amount of loess
+Mean annual precipitation--about 330 mm
+Mean annual air temperature--about 9 degrees C
+Depth class--moderately deep
+Drainage class--well drained
+Soil moisture regime--xeric
+Soil temperature regime--mesic
+Soil moisture subclass--typic
+
+TAXONOMIC CLASS: Clayey-skeletal, smectitic, mesic Typic Palexerolls
+
+TYPICAL PEDON: Deletewd very cobbly loam in an area of rangeland, on a 15-percent, northwest-facing slope at an elevation of 775 m
+
+ A--0 to 13 cm; very cobbly loam, brown (10YR 4/3) dry, very dark grayish brown (10YR 3/2) moist; moderate medium granular structure; soft, very friable, slightly sticky and slightly plastic; common very fine and fine roots; 20 percent gravel and 20 percent cobbles; neutral (pH 7.0); abrupt smooth boundary
+
+ Bt1--13 to 25 cm; very cobbly clay loam, brown (10YR 4/3) dry, very dark grayish brown (10YR 3/2) moist; moderate medium subangular blocky structure; hard, friable, slightly sticky and plastic; common very fine and medium roots; common very fine irregular pores; many moderately thick clay films on faces of peds and lining pores; 15 percent gravel and 25 percent cobbles; neutral (pH 7.0); abrupt smooth boundary
+
+ Bt2--25 to 46 cm; very cobbly clay, brown (10YR 4/3) dry, dark brown (10YR 3/3) moist; strong medium prismatic structure; very hard, firm, sticky and plastic; common very fine and fine roots; common very fine irregular pores; continuous thick clay films on faces of peds and lining pores; 20 percent gravel and 20 percent cobbles; neutral (pH 6.8); clear wavy boundary
+
+ Bt3--46 to 69 cm; extremely cobbly clay, yellowish brown (10YR 5/4) dry, dark yellowish brown (10YR 3/4) moist; strong medium subangular blocky structure; very hard, firm, sticky and plastic; common very fine roots; many thick clay films on faces of peds; 40 percent gravel and 25 percent cobbles; neutral (pH 6.8)
+
+ R--69 cm; fractured basalt; coatings of silica in fractures
+
+TYPE LOCATION: Kittitas County, Washington, about 14.5 km east of Kittitas, between I-90 and the old Vantage Highway; about 730 m east and 90 m north of the southwest corner of section 16, T. 17 N., R. 21 E.; latitude 46.9573351, longitude -120.2091387, datum WGS 84 (coordinates estimated from section, township, and range)
+
+RANGE IN CHARACTERISTICS:
+Mean annual soil temperature--8 to 11 degrees C
+Soil moisture--usually moist, but dry in all parts 90 to 105 consecutive days between depths of 10 and 30 cm following summer solstice
+Thickness of mollic epipedon--30 to 50 cm (includes part of argillic horizon)
+Rock fragment content in particle-size control section--averages 35 to 70 percent
+Clay content in particle-size control section--38 to 55 percent
+Depth to lithic contact--50 to 100 cm
+Upper part of argillic horizon--clayey with an increase of at least 15 percent clay (absolute) within 3 cm vertically
+Assumed base saturation (by sum)--more than 75 percent throughout
+
+A horizon
+Hue--10YR, 7.5YR
+Value--4 or 5 dry, 2 or 3 moist
+Chroma--2 or 3 dry or moist
+Thickness--13 to 25 cm
+
+Bt horizon
+Value--4 or 5 dry
+Chroma--2 to 4 dry or moist
+Texture of fine-earth fraction--clay loam, clay
+Gravel content--15 to 35 percent
+Cobble content--15 to 35 percent
+Stone content--0 to 35 percent
+Combined thickness--46 to 76 cm
+
+COMPETING SERIES:
+Frenchjohn--mollic epipedon less than 30 cm thick; secondary carbonates at a depth of 50 to 75 cm
+
+GEOGRAPHIC SETTING:
+Elevation--670 to 1275 m
+Mean annual precipitation--310 to 380 mm
+Mean January air temperature--about -4 degrees C
+Mean July air temperature--about 21 degrees C
+Mean annual air temperature--about 8 to 9 degrees C
+Frost-free season--100 to 160 days
+
+GEOGRAPHICALLY ASSOCIATED SOILS:
+Badge--on less stable side slopes; loamy-skeletal particle-size class
+Bakeoven--on ridgetops
+Bickleton--in depositional areas of fan terraces; fine-loamy particle-size class
+Tronsen--no lithic contact within a depth of more than 150 cm
+Van Nostern--on ridgetops; fine-silty particle-size class
+
+DRAINAGE AND SATURATED HYDRAULIC CONDUCTIVITY:
+Drainage class--well drained
+Saturated hydraulic conductivity (Ksat)--moderately low
+
+USE AND VEGETATION:
+Use--livestock grazing, wildlife habitat
+Native vegetation--bluebunch wheatgrass, Sandberg bluegrass, arrowleaf balsamroot, Wyoming big sagebrush, scattered antelope bitterbrush
+
+DISTRIBUTION AND EXTENT: Eastern Kittitas County, Washington; MLRA 8; moderate extent
+
+SOIL SURVEY REGIONAL OFFICE (SSRO) RESPONSIBLE: Portland, Oregon
+
+SERIES ESTABLISHED: Yakima Training Center, Kittitas County, Washington; 1994
+
+REMARKS:
+Diagnostic horizons and other features recognized in this pedon
+*Mollic epipedon--zone from the surface to a depth of 46 cm
+*Argillic horizon--zone from 13 to 69 cm; more than 15 percent more clay (absolute) than in A horizon; 35 to 70 percent angular basalt fragments
+*Depth to lithic contact--69 cm
+
+National Cooperative Soil Survey
+U.S.A.
