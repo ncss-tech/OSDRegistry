@@ -1,48 +1,71 @@
-LOCATION EACHUSTON              CO
+LOCATION EACHUSTON              CO+MT
 
 Established Series
-Rev. AJC/LF/JEB
-1/90
+Rev. AJC/LF/KLS
+01/2023
 
 EACHUSTON SERIES
 
-Typically, Eachuston soil have dark grayish brown, very friable, granular, noncalcareous Al horizons, and grayish brown, noncalcareous, very gravelly loamy sand C horizons.
+The Eachuston series consists of very deep, poor to very poorly drained, rapidly permeable soils on nearly level to gently sloping flood plains and low terrace. They formed in very gravelly, coarse textured alluvial sediments. Slope ranges from 0 to 6 percent. The mean annual air temperature is about 2 degrees C, and the mean annual precipitation is about 250 mm.
 
 TAXONOMIC CLASS: Sandy-skeletal, mixed Typic Cryaquents
 
 TYPICAL PEDON:  Eachuston gravelly loam - grassland.  (Colors are for dry soil unless otherwise noted.)
 
-    01--3 to 0 inches; undecomposed organic material, principally grass remains, roots, and leaves.
+    Oi--0 to 8 cm; undecomposed organic material, principally grass remains, roots, and leaves.
 
-    A1--0 to 4 inches; dark grayish brown (10YR 4/2) gravelly loam, very dark brown (10YR 2/2) moist; moderate fine granular structure; soft, very friable; 30 percent gravel; neutral (pH 7.0); clear smooth boundary.  (3 to 5 inches thick)
+    A--8 to 18 cm; dark grayish brown (10YR 4/2) gravelly loam, very dark brown (10YR 2/2) moist; moderate fine granular structure; soft, very friable; 30 percent gravel; neutral (pH 7.0); clear smooth boundary.  (8 to 13 cm thick)
 
-    AC--4 to 8 inches; grayish brown (10YR 5/2) gravelly loam, dark grayish brown (10YR 4/2) moist; weak medium subangular blocky structure that parts to fine granules; soft, very friable; 30 percent gravel; common medium distinct mottles, reddish brown (5YR 4/4) moist; neutral (pH 7.0); clear wavy boundary.  (3 to 5 inches thick)
+    AC--18 to 28 cm; grayish brown (10YR 5/2) gravelly loam, dark grayish brown (10YR 4/2) moist; weak medium subangular blocky structure that parts to fine granules; soft, very friable; 30 percent gravel; common medium distinct mottles, reddish brown (5YR 4/4) moist; neutral (pH 7.0); clear wavy boundary.  (8 to 13 cm thick)
 
-    IIC--8 to 60 inches; grayish brown (10YR 5/2) very gravelly loamy sand, dark grayish brown (10YR 4/2) moist; common medium distinct reddish brown (5YR 4/4) mottles; 60 percent gravel and some cobbles.
+    2C--28 to 160 cm; grayish brown (10YR 5/2) very gravelly loamy sand, dark grayish brown (10YR 4/2) moist; common medium distinct reddish brown (5YR 4/4) mottles; 60 percent gravel and some cobbles.
 
-TYPE LOCATION:  Jackson County, Colorado; 4/10 mile northwest of SE corner of Sec. 20, T. 7 N., R. 77 W.
+TYPE LOCATION:  Jackson County, Colorado; about 645 meters northwest of SE corner of Sec. 20, T. 7 N., R. 77 W.
 
-RANGE IN CHARACTERISTICS:  Mean annual soil temperature is about
-40 degrees F. and mean summer temperature is about 53 degrees F.  The soil is 80 to 100 percent base saturated.  The control section is very gravelly loamy sand or sand.  Rock fragments range from 35 to 80 percent and are mainly less than 3 inches in diameter.  The A1 horizon has hue of 5Y through 7.5 YR, value of 4 through 6 dry, 2 through 4 moist, and chroma of 1 or 2 and has common medium distinct to many large prominent mottles.  It ranges from slightly acid to mildly alkaline.  This horizon typically has granular structure but has subangular blocky structure in some pedons.  The C horizon has hue of 5Y through 7.5YR and has common medium distinct to many large prominent mottles.  It ranges from slightly acid to mildly alkaline.
+RANGE IN CHARACTERISTICS:  
+Mean annual soil temperature--4 degrees C
+Mean summer soil temperature--12 degrees C
+Base saturation--80 to 100 percent
+
+Particle-size control section:
+Texture--very gravelly loamy sand or sand
+Rock fragment content--35 to 80 percent, and are mainly gravel less than 75 mm in diameter
+
+A horizon
+Hue--5Y through 7.5 YR
+Value--4 through 6 dry, 2 through 4 moist
+Chroma--1 or 2 and has common medium distinct to many large prominent mottles
+Reaction--pH 6.1 to 7.8
+Structure--granular structure but has subangular blocky structure in some pedons
+
+C horizon
+Hue--5Y through 7.5YR and has common medium distinct to many large prominent mottles
+Reaction--pH 6.1 to 7.8
 
 COMPETING SERIES:  These are the Juban, McKinney, and Stave series.  Juban soils are calcareous and have fine-loamy over sandy or sandy-skeletal control sections.  McKinney soils have a fine-loamy control section.  Stave soils have a sandy control section.
 
-GEOGRAPHIC SETTING:  Eachuston soils are on nearly level to gently sloping flood plains and low terraces.  Slope gradients range from 0 to 6 percent.  The soil formed in very gravelly, coarse textured alluvial sediments.  At the type location the average annual precipitation is 10 inches with peak periods of precipitation during the spring and early summer.  Average annual temperature is
-36 degrees F. and average summer temperature is 54 degrees F.
+GEOGRAPHIC SETTING:
+Landform--nearly level to gently sloping flood plains and low terraces
+Elevation--2425 to 2800 meters
+Slope--0 to 6 percent
+Parent material--very gravelly, coarse textured alluvial sediments
+Mean annual precipitation--250 mm, with peak periods of precipitation during the spring and early summer
+Mean annual air temperature--2 to 3 degrees C
+Mean summer air temperature--12 degrees C
 
-GEOGRAPHICALLY ASSOCIATED SOILS:  These are the Dobrow and Girardot soils.  Dobrow soils have coarse-loamy control sections and have mollic epipedons.  Girardot soils have fine-loamy control sections and are calcareous.
+GEOGRAPHICALLY ASSOCIATED SOILS:  None listed
 
 DRAINAGE AND PERMEABILITY:  Poor to very poorly drained; slow runoff; rapid permeability.  These soils have high water tables that stand at or near the surface of the ground most of the year.
 
 USE AND VEGETATION:  These soils are used as native pastureland or as native hay meadow.  Principal native vegetation is timothy, sedges, bluegrass, and alsike clover.
 
-DISTRIBUTION AND EXTENT:  High mountain valleys of north-central Colorado.  The series is of small extent.
+DISTRIBUTION AND EXTENT:  Eachuston soils are of small extent in the high mountain valleys of northcentral Colorado and western Montana. MLRAs 44B and 48A
 
-MLRA SOIL SURVEY REGIONAL OFFICE (MO) RESPONSIBLE: Bozeman, Montana
+SOIL SURVEY REGIONAL OFFICE (SSRO) RESPONSIBLE: Bozeman, Montana
 
-SERIES ESTABLISHED:  Jackson County, Colorado, 1973.
+SERIES ESTABLISHED:  Jackson County, Colorado, 1973
 
-REMARKS:  Last updated by the state 10/73.
+REMARKS:  Converted to metric and O horizons were updated to start at zero. Competing series section was not updated. 12/2022
 
 National Cooperative Soil Survey
 U.S.A.

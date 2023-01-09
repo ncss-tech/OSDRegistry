@@ -2,7 +2,7 @@ LOCATION FORTANK                NV
 
 Established Series
 Rev. RGB/RAF/GJS/JBF
-01/2019
+01/2023
 
 FORTANK SERIES
 
@@ -12,11 +12,11 @@ TAXONOMIC CLASS: Fine, smectitic, frigid Xeric Haplargids
 
 TYPICAL PEDON:  Fortank gravelly loam--rangeland.  (Colors are for dry soil unless otherwise noted.)  The surface is covered by 5 percent cobbles and 40 percent gravel.
 
-    Al--0 to 13 cm; pale brown (10YR 6/3) gravelly loam, dark brown (10YR 3/3) moist; moderate medium and thick platy structure; soft, very friable, slightly sticky and slightly plastic; many very fine roots; many very fine vesicular and tubular, few fine tubular pores; 30 percent gravel; moderately alkaline (pH 8.0); abrupt smooth boundary.  (8 to 15 cm thick)
+    A1--0 to 13 cm; pale brown (10YR 6/3) gravelly loam, dark brown (10YR 3/3) moist; moderate medium and thick platy structure; soft, very friable, slightly sticky and slightly plastic; many very fine roots; many very fine vesicular and tubular, few fine tubular pores; 30 percent gravel; moderately alkaline (pH 8.0); abrupt smooth boundary.  (8 to 15 cm thick)
 
     A2--13 to 25 cm; pale brown (10YR 6/3) gravelly loam, brown (10YR 4/3) moist; weak very thin platy structure; soft, very friable, moderately sticky and moderately plastic; many very fine and few fine roots; many very fine vesicular pores; l5 percent gravel; moderately alkaline (pH 8.4); clear smooth boundary.  (8 to 15 cm thick)
 
-   Btl--25 to 36 cm; pale brown (10YR 6/3) gravelly clay loam, brown (10YR 4/3) moist; weak medium and coarse angular blocky structure; slightly hard, friable, moderately sticky and moderately plastic; common very fine and fine, few medium roots; many very fine and few fine tubular pores; many faint clay films lining pores; 30 percent gravel; moderately alkaline (pH 8.4); clear wavy boundary.  (8 to 13 cm thick)
+   Bt1--25 to 36 cm; pale brown (10YR 6/3) gravelly clay loam, brown (10YR 4/3) moist; weak medium and coarse angular blocky structure; slightly hard, friable, moderately sticky and moderately plastic; common very fine and fine, few medium roots; many very fine and few fine tubular pores; many faint clay films lining pores; 30 percent gravel; moderately alkaline (pH 8.4); clear wavy boundary.  (8 to 13 cm thick)
 
     Bt2--36 to 61 cm; brown (10YR 5/3) gravelly clay, brown (7.5YR 5/4) moist; moderate medium prismatic structure parting to moderate medium angular blocky; hard, friable, very sticky and very plastic; few very fine, fine and medium roots; many very fine tubular pores; continuous faint clay films on ped faces and lining pores; 25 percent gravel; moderately alkaline (pH 8.4); clear wavy boundary.  (20 to 28 cm thick)
 
@@ -62,7 +62,7 @@ DISTRIBUTION AND EXTENT:  Northeastern Nevada.  These soils are not extensive. M
 
 MLRA SOIL SURVEY REGIONAL OFFICE (MO) RESPONSIBLE: Davis, California
 
-SERIES ESTABLISHED:  Eureka County Area, Nevada, l983.
+SERIES ESTABLISHED:  Eureka County Area, Nevada, 1983.
 
 REMARKS: Diagnostic horizons and features recognized in this pedon are:
 Ochric epipedon - The zone from the surface to 25 cm (A1 and A2 horizons).

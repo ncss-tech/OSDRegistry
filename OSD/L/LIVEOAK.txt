@@ -2,7 +2,7 @@ LOCATION LIVEOAK                CA
 
 Established Series
 Rev. DJL/WBS/TDC/SBS/DWB
-10/2006
+01/2023
 
 LIVEOAK SERIES
 
@@ -12,11 +12,11 @@ TAXONOMIC CLASS: Fine-loamy, mixed, superactive, thermic Typic Haploxerolls
 
 TYPICAL PEDON: Liveoak sandy clay loam - on a nearly level slope of less than 1 percent in an irrigated peach orchard at 76 feet, (23 m) elevation.  (Colors are for dry soil unless otherwise stated.  When described on April 17, l981, the soil was dry to 5 inches, (13 cm) and moist below.)
 
-    Apl--0 to 5 inches, (0 to 13 cm); yellowish brown (10YR 5/4) sandy clay loam, dark brown (10YR 3/3) moist; weak medium subangular blocky structure; slightly hard, friable, slightly sticky and slightly plastic; common very fine and fine roots; common very fine tubular pores; slightly acid (pH 6.2); abrupt smooth boundary.  (4 to 12 inches, (10 to 30 cm) thick) 
+    Ap1--0 to 5 inches, (0 to 13 cm); yellowish brown (10YR 5/4) sandy clay loam, dark brown (10YR 3/3) moist; weak medium subangular blocky structure; slightly hard, friable, slightly sticky and slightly plastic; common very fine and fine roots; common very fine tubular pores; slightly acid (pH 6.2); abrupt smooth boundary.  (4 to 12 inches, (10 to 30 cm) thick) 
 
     Ap2--5 to 13 inches, (13 to 33 cm); yellowish brown (10YR 5/4) sandy clay loam, dark brown (7.5YR 3/2) moist; weak medium subangular blocky structure; hard, firm, slightly sticky and slightly plastic; common very fine and fine roots; common very fine tubular pores; slightly acid (pH 6.5); clear wavy boundary.  (6 to 12 inches, (15 to 30 cm) thick)
 
-    Btl--13 to 27 inches, (33 to 69 cm); brown (7.5YR 5/4) sandy clay loam, dark brown (7.5YR 3/4) moist; weak medium subangular blocky structure; hard, friable, sticky and slightly plastic; few very fine roots; common very fine and fine tubular pores; many thin clay films on peds and in pores; neutral (pH 7.0); gradual wavy boundary.  (10 to 20 inches, (25 to 51 cm) thick) 
+    Bt1--13 to 27 inches, (33 to 69 cm); brown (7.5YR 5/4) sandy clay loam, dark brown (7.5YR 3/4) moist; weak medium subangular blocky structure; hard, friable, sticky and slightly plastic; few very fine roots; common very fine and fine tubular pores; many thin clay films on peds and in pores; neutral (pH 7.0); gradual wavy boundary.  (10 to 20 inches, (25 to 51 cm) thick) 
 
     Bt2--27 to 43 inches, (69 to 109 cm); brown (7.5YR 5/4) sandy clay loam, dark brown (7.5YR 3/4) moist; weak coarse subangular blocky structure; hard, friable, sticky and slightly plastic; few very fine roots; common very fine and fine tubular pores; common thin clay films in pores; neutral (pH 7.0); gradual wavy boundary.  (10 to 20 inches, (25 to 51 cm) thick) 
 
@@ -50,7 +50,7 @@ DISTRIBUTION AND EXTENT:  Eastern and Southeastern part of the Sacramento Valley
 
 MLRA SOIL SURVEY REGIONAL OFFICE (MO) RESPONSIBLE: Davis, California
 
-SERIES ESTABLISHED: Sutter County, California l983.
+SERIES ESTABLISHED: Sutter County, California 1983.
 
 REMARKS: Last revised by the state on 6/86.
 3/2/2004 Concept revised to moderately well drained and has a fluctuating water table.  Ranges expanded for use in Butte County.  Added metric equivalents.  Competing section checked. 10/2006 changed runoff terminology.

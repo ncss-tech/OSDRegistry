@@ -1,58 +1,84 @@
-LOCATION HAILMAN                UT+CO
+LOCATION HAILMAN                UT+CO WY
 
 Established Series
-Rev. EJ/LW/MEO/AJE
-11/1999
+Rev. EJ/LW/MEO/KLS
+01/2023
 
 HAILMAN SERIES
 
-The Hailman series consists of deep, well drained soils that formed in material weathered from intermediate igneous rocks.  Hailman soils are on ground and lateral moraines and have slopes of 3 to 30 percent.  The average annual precipitation is about 30 inches, and the mean annual air temperature is about 58 degrees F.
+The Hailman series consists of deep, well drained soils that formed in material weathered from intermediate igneous rocks.  Hailman soils are on ground and lateral moraines and have slopes of 3 to 30 percent.  The mean annual precipitation is about 760 mm, and the mean annual air temperature is about 14 degrees C.
 
 TAXONOMIC CLASS: Coarse-loamy, mixed, superactive Pachic Haplocryolls
 
 TYPICAL PEDON:  Hailman loam, rangeland - woodland.  (Colors are for dry soil unless otherwise noted)
 
-     01--1 inch to 0; leaf litter.
+     Oi--0 to 3 cm; leaf litter.
 
-     A11--0 to 5 inches; very dark grayish brown (10YR 3/2) loam very dark brown (10YR 2/2) moist; weak fine granular structure, loose, very friable, nonsticky and nonplastic; many fine roots; medium acid (pH 5.7); clear wavy boundary.  (5 to 6 inches thick)
+     A1--3 to 16 cm; very dark grayish brown (10YR 3/2) loam very dark brown (10YR 2/2) moist; weak fine granular structure, loose, very friable, nonsticky and nonplastic; many fine roots; moderately acid (pH 5.7); clear wavy boundary. 
 
-     A12--5 to 15 inches; dark grayish brown (10YR 4/2) loam, very dark brown (10YR 2/2) moist; weak medium subangular blocky structure that parts to weak medium granular; slightly hard, very friable, nonsticky and slightly plastic; common fine and medium and few coarse roots; common fine pores; medium acid (pH 5.8); clear wavy boundary.  (7 to 10 inches thick)
+     A2--16 to 41 cm; dark grayish brown (10YR 4/2) loam, very dark brown (10YR 2/2) moist; weak medium subangular blocky structure that parts to weak medium granular; slightly hard, very friable, nonsticky and slightly plastic; common fine and medium and few coarse roots; common fine pores; moderately acid (pH 5.8); clear wavy boundary. 
 
-     A13--15 to 26 inches; dark grayish brown (10YR 4/2) cobbly loam, very dark brown (10YR 2/2) moist; weak coarse and fine subangular blocky structure; slightly hard, friable, slightly sticky and slightly plastic; many fine and medium and few coarse roots; common fine pores; some pockets with thin continuous gray coatings on peds; 30 percent cobbles and gravel; medium acid (pH 6.0); clear irregular boundary.  (8 to 12 inches thick)
+     A3--41 to 69 cm; dark grayish brown (10YR 4/2) cobbly loam, very dark brown (10YR 2/2) moist; weak coarse and fine subangular blocky structure; slightly hard, friable, slightly sticky and slightly plastic; many fine and medium and few coarse roots; common fine pores; some pockets with thin continuous gray coatings on peds; 30 percent cobbles and gravel; moderately acid (pH 6.0); clear irregular boundary.  (Combined thickness of A horizons - 50 to 70 cm thick)
 
-     A3--26 to 33 inches; grayish brown (10YR 5/2) cobbly loam, very dark grayish brown (10YR 3/2) moist; weak coarse and fine subangular blocky structure; slightly hard, brittle, friable, nonsticky and slightly plastic; common fine and medium roots; common fine pores; thin continuous gray coatings on peds; 30 percent cobbles and gravel; slightly acid (pH 5.7); abrupt wavy boundary.  (5 to 12 inches thick)
+     AB--69 to 87 cm; grayish brown (10YR 5/2) cobbly loam, very dark grayish brown (10YR 3/2) moist; weak coarse and fine subangular blocky structure; slightly hard, brittle, friable, nonsticky and slightly plastic; common fine and medium roots; common fine pores; thin continuous gray coatings on peds; 30 percent cobbles and gravel; moderately acid (pH 5.7); abrupt wavy boundary.  (13 to 30 cm thick)
 
-     B21--33 to 43 inches; yellowish brown (10YR 5/4) cobbly loam, brown (10YR 4/3) moist; weak medium and fine subangular blocky structure; slightly hard, friable, slightly sticky and slightly plastic; few fine and medium roots; many very fine pores; few gray coatings on some peds in upper part of this horizon; thin clay films in channels and voids; 30 percent cobbles and gravel; slightly acid (pH 6.1); clear wavy boundary.   (10 to 12 inches thick)
+     Bw1--87 to 112 cm; yellowish brown (10YR 5/4) cobbly loam, brown (10YR 4/3) moist; weak medium and fine subangular blocky structure; slightly hard, friable, slightly sticky and slightly plastic; few fine and medium roots; many very fine pores; few gray coatings on some peds in upper part of this horizon; thin clay films in channels and voids; 30 percent cobbles and gravel; slightly acid (pH 6.1); clear wavy boundary.   (25 to 30 cm thick)
 
-     B22--43 to 57 inches; same as B21 except no gray coatings and brown (10YR 5/3) moist; clear wavy boundary.  (10 to 14 inches thick)
+     Bw2--112 to 148 cm; yellowish brown (10YR 5/4) cobbly loam, brown (10YR 5/3) moist; weak medium and fine subangular blocky structure; slightly hard, friable, slightly sticky and slightly plastic; few fine and medium roots; many very fine pores; thin clay films in channels and voids; 30 percent cobbles and gravel; slightly acid (pH 6.1); clear wavy boundary.   (25 to 36 cm thick)
 
-     Cr--57 to 69 inches; weathered intermediate igneous rock.
+     Cr--148 to 178 cm; weathered intermediate igneous rock.
 
-TYPE LOCATION:  Wasatch County, Utah; about 8.4 miles north of Midway Post Office on Pine Creek Road; SW1/4 section 33, T.25., R.4E.
+TYPE LOCATION:  Wasatch County, Utah; about 14 km north of Midway Post Office on Pine Creek Road; SW1/4 section 33, T.25., R.4E.
 
-RANGE IN CHARACTERISTICS:  The mollic epipedon is 25 to 40 inches thick and organic matter decreases regularly with increasing depth.  The mean annual soil temperature is about 40 degrees F. and the mean summer temperature is less than 59 degrees F.  The soils are usually moist and are not dry for as much as 90 cumulative days in some subhorizons.  A thin layer of leaves and twigs 1 to 2 inches thick is common on the surface.  The control section averages less than 18 percent clay.  Cobble and gravel content ranges from 20 to 35 percent and may include some stone.
+RANGE IN CHARACTERISTICS:
+Mean annual soil temperature--4 degrees C
+Mean summer soil temperature--15 degrees C or less
+The soils are usually moist and are not dry for as much as 90 cumulative days in some subhorizons.  
+Mollic epipedon thickness--64 to 100 cm
+Organic matter decreases regularly with increasing depth.
+A thin layer of leaves and twigs 3 to 5 cm thick is common on the surface.
 
-The A1 horizon has value of 3 or 4 dry, 2 or 3 moist and chroma of 2 or 3.
+Particle-size control section:
+Clay content--less than 18 percent
+Rock fragment content--20 to 35 percent gravel, cobbles and stones
 
-The B2 horizon has value of 5 or 6 dry, 4 or 5 moist and chroma of 3 or 4.  It ranges from cobbly light loam to cobbly loam.  This horizon has weak fine and medium subangular blocky structure.  Some thin clay films occur mainly as bridging between peds and as coatings on the sand grains.
+A horizons
+Value--3 or 4 dry, 2 or 3 moist
+Chroma--2 or 3
 
-COMPETING SERIES:  These are the Dunager, Gardners Fork, Naz, Pargin, Shook, Sizemore and Skyway series.  Dunager and Skyway soils have bedrock at depths of less than 40 inches.  Gardners Fork, Naz, Pargin and Sizemore soils lack a B2 horizon.  Gardners Fork soils have a shaly sandy loam control section.  Naz and Sizemore soils have less than 20 percent rock fragments.  Pargin soils have mottles at depth of about 28 inches.  Shook soils have coarse sandy loam and sandy loam control sections.
+Bw horizons
+Value--5 or 6 dry, 4 or 5 moist
+Chroma--3 or 4
+Texture--cobbly light loam to cobbly loam
+Structure--weak fine and medium subangular blocky structure
+Some thin clay films occur mainly as bridging between peds and as coatings on the sand grains.
 
-GEOGRAPHIC SETTING:  Hailman soils occur on ground and lateral moraines derived mainly from coarse grained intermediate igneous parent rocks.  Slopes are 3 to 30 percent.  Elevations range from 6,500 to 8,500 feet.  The climate is humid with average annual precipitation about 25 to 35 inches falling mostly as snow.  Mean annual temperature is about 40 degrees F. and the mean summer temperature is about 58 F.  The frost-free period is 50 to 80 days.
+COMPETING SERIES:  These are the Dunager, Gardners Fork, Naz, Pargin, Shook, Sizemore and Skyway series.  Dunager and Skyway soils have bedrock at depths of less than 100 cm.  Gardners Fork, Naz, Pargin and Sizemore soils lack a Bw horizon.  Gardners Fork soils have a shaley sandy loam control section.  Naz and Sizemore soils have less than 20 percent rock fragments.  Pargin soils have mottles at depth of about 70 cm.  Shook soils have coarse sandy loam and sandy loam control sections.
 
-GEOGRAPHICALLY ASSOCIATED SOILS:  These are the Lake Janee soils.  Lake Janee soils lack a mollic epipedon.
+GEOGRAPHIC SETTING:  
+Landform--ground and lateral moraines
+Elevation--1975 to 2600 meters
+Slope--3 to 30 percent
+Parent material--coarse grained intermediate igneous parent rocks
+Climate--humid
+Mean annual precipitation--640 to 890 mm falling mostly as snow
+Mean annual air temperature--4 degrees C
+Mean summer air temperature--14 degrees C
+Frost-free period--50 to 80 days
 
-DRAINAGE AND PERMEABILITY:  Well drained; medium runoff; moderate permeability.
+GEOGRAPHICALLY ASSOCIATED SOILS:  None listed
 
-USE AND VEGETATION:  These soils are used mainly for rangeland, wildlife habitat and as watershed.  Important native plants include an overstory of aspen and an understory of snowberry, elderberry, mountain bromegrass, blue wildrye, oniongrass, slender wheatgrass, peavine, horsemint, bluebells, columbine, geranium, sweet anise and western valerian.
+DRAINAGE AND PERMEABILITY:  Well drained; medium runoff; moderate permeability
 
-DISTRIBUTION AND EXTENT:  High mountain areas of northern Utah.  This series is inextensive.
+USE AND VEGETATION:  These soils are used mainly for rangeland, wildlife habitat and as watershed.  Important native plants include an overstory of aspen and an understory of snowberry, elderberry, mountain bromegrass, blue wildrye, oniongrass, slender wheatgrass, peavine, horsemint, bluebells, columbine, geranium, anise and western valerian.
 
-MLRA SOIL SURVEY REGIONAL OFFICE (MO) RESPONSIBLE: Bozeman, Montana
+DISTRIBUTION AND EXTENT:  Hailman soils are moderately extensive in the high mountain areas of central and northern Utah, northern Colorado, and western Wyoming; MLRAs 34A, 43B, 47 and 48A
 
-SERIES ESTABLISHED:  Heber Valley Area, Wasatch County, Utah, 1972.
+SOIL SURVEY REGIONAL OFFICE (SSRO) RESPONSIBLE: Bozeman, Montana
 
-OSED scanned by SSQA.  Last review by state 6/76.
+SERIES ESTABLISHED:  Heber Valley Area, Wasatch County, Utah, 1972
+
+REMARKS: Converted to metric and O horizons were updated to start at zero. Competing series section was not updated. 12/2022
 
 National Cooperative Soil Survey
 U.S.A.

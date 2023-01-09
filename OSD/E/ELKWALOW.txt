@@ -1,122 +1,82 @@
-LOCATION ELKWALOW               CO
+LOCATION ELKWALOW               CO+MT
 
 Tentative Series
-BWC/GB
-04/1999
+BWC/GB/KLS
+01/2023
 
 ELKWALOW SERIES
 
-The Elkwalow series consists of deep, somewhat poorly or
-moderately well drained soils formed in glacial till derived
-from basalt.  Elkwalow soils are on mesa tops.  Slopes range
-from 0 to 10 percent.  Mean annual precipitation is about 35
-inches and mean annual temperature is about 34 degrees F.
+The Elkwalow series consists of deep, somewhat poorly or moderately well drained soils formed in glacial till derived from basalt.  Elkwalow soils are on mesa tops.  Slopes range from 0 to 10 percent.  Mean annual precipitation is about 890 mm and mean annual air temperature is about 1 degrees C.
 
 TAXONOMIC CLASS: Fine, smectitic Oxyaquic Haplocryalfs
 
-TYPICAL PEDON:  Elkwalow loam - Engelmann spruce-subalpine
-fir woodland. (colors are for dry soil unless otherwise
-noted.)
+TYPICAL PEDON:  Elkwalow loam - Engelmann spruce-subalpine fir woodland. (colors are for dry soil unless otherwise noted.)
 
-     Oi--1 to 0 inches; highly decomposed needles and twigs.
+     Oa--0 to 3 cm; highly decomposed needles and twigs.
 
-     A1--0 to 2 inches; brown (10YR 4/3) loam, very dark
-grayish brown (10YR 3/2) moist; moderate medium granular
-structure; soft, very friable, nonsticky and nonplastic;
-moderately acid (pH 5.8); clear smooth boundary.
+     A1--3 to 8 cm; brown (10YR 4/3) loam, very dark grayish brown (10YR 3/2) moist; moderate medium granular structure; soft, very friable, nonsticky and nonplastic; moderately acid (pH 5.8); clear smooth boundary.
 
-     A2--2 to 8 inches; brown (10YR 4/3) silt loam, very
-dark grayish brown (10YR 3/2) moist; moderate medium
-subangular blocky structure; slightly hard, friable,
-slightly sticky and slightly plastic; moderately acid (pH
-5.8); clear wavy boundary.  (Combined thickness is 4 to 10
-inches)
+     A2--8 to 23 cm; brown (10YR 4/3) silt loam, very dark grayish brown (10YR 3/2) moist; moderate medium subangular blocky structure; slightly hard, friable, slightly sticky and slightly plastic; moderately acid (pH 5.8); clear wavy boundary.  (Combined thickness of A horizons - 10 to 25 cm)
 
-     E--8 to 23 inches; pink (7.5YR 7/4) silt loam, brown
-(7.5YR 5/4) moist; many fine and medium distinct strong
-brown (7.5YR 5/6 and 5/8) redox concentrations in the
-matrix, moist; weak medium and coarse subangular blocky
-structure; slightly hard, friable, slightly sticky and
-slightly plastic; 5 percent pebbles; strongly acid (pH 5.4);
-abrupt wavy boundary.  (12 to 18 inches thick)
+     E--23 to 61 cm; pink (7.5YR 7/4) silt loam, brown (7.5YR 5/4) moist; many fine and medium distinct strong brown (7.5YR 5/6 and 7.5YR 5/8) redox concentrations in the matrix, moist; weak medium and coarse subangular blocky structure; slightly hard, friable, slightly sticky and slightly plastic; 5 percent pebbles; strongly acid (pH 5.4); abrupt wavy boundary.  (30 to 45 cm thick)
 
-     Bt1--23 to 37 inches; brown (7.5YR 5/4) clay, dark
-brown (7.5YR 3/4) moist; strong medium and coarse subangular
-blocky structure; very hard, firm, sticky and very plastic;
-many distinct clay films on ped faces; 5 percent
-cobbles; neutral (pH 7.0); gradual irregular boundary.
+     Bt1--61 to 97 cm; brown (7.5YR 5/4) clay, dark brown (7.5YR 3/4) moist; strong medium and coarse subangular blocky structure; very hard, firm, sticky and very plastic; many distinct clay films on ped faces; 5 percent cobbles; neutral (pH 7.0); gradual irregular boundary.
 
-     Bt2--37 to 46 inches; brown (7.5YR 5/4) cobbly clay,
-dark brown (7.5YR 3/4) moist; strong medium and coarse
-subangular blocky structure; very hard, firm, sticky and
-very plastic; many distinct clay films on ped faces; 5
-percent pebbles, 15 percent cobbles; neutral (pH 7.2);
-abrupt irregular boundary.  (Combined thickness is 20 to 28
-inches)
+     Bt2--97 to 120 cm; brown (7.5YR 5/4) cobbly clay, dark brown (7.5YR 3/4) moist; strong medium and coarse subangular blocky structure; very hard, firm, sticky and very plastic; many distinct clay films on ped faces; 5 percent pebbles, 15 percent cobbles; neutral (pH 7.2); abrupt irregular boundary.  (Combined thickness of Bt horizons - 50 to 70 cm)
 
-     2R--46 inches; basalt bedrock.
+     2R--120 cm; basalt bedrock.
 
-TYPE LOCATION:  Mesa County, Colorado; on Old Land's End
-Road in the NW1/4 of Sec. 4, T. 12 S., R. 96 W.  Latitude:
-39 degrees, 2 minutes, 22 seconds N.; Longitude:  108
-degrees, 7 minutes, 33 seconds W.
+TYPE LOCATION:  Mesa County, Colorado; on Old Land's End Road in the NW1/4 of Sec. 4, T. 12 S., R. 96 W.; Lat. 39 degrees, 2 minutes, 22 seconds N.; Long.  108 degrees, 7 minutes, 33 seconds W.
 
-RANGE IN CHARACTERISTICS: Mean annual soil temperature
-ranges from 34 to 37 degrees F.  Average summer soil
-temperature ranges from 42 to 45 degrees F.  The soil is
-saturated with a perched water table at 1 to 3 feet for
-30 days or more during the summer.  Mottling is at 8 to 24
-inches.   Bedrock is at a depth of 40 to 60 inches.  The particle-size control section has 5 to 25 percent rock
-fragments.
+RANGE IN CHARACTERISTICS: 
+Mean annual soil temperature--1 to 3 degrees C
+Mean summer soil temperature--6 to 7 degrees C
+Depth to redoximorphic features--20 to 60 cm; saturated with a perched water table at 0.5 to 1 meter for 30 days or more during the summer
+Depth to lithic contact--100 to 150 cm
+Rock fragment content--5 to 25 percent
 
-The A horizons have hue of 10YR or 7.5YR, value of 4 or 5
-dry and 3 or 4 moist, and chroma of 2 or 3. Reaction is
-moderately acid through neutral.
+A horizons
+Hue--10YR or 7.5YR
+Value--4 or 5 dry, 3 or 4 moist
+Chroma--2 or 3
+Reaction--pH 5.6 to 7.3
 
-The E horizon has hue of 10YR or 7.5YR.  Reaction is
-strongly acid through neutral.
+E horizon
+Hue--10YR or 7.5YR
+Reaction--pH 5.1 to 7.3
 
-The Bt horizons have hue of 7.5YR or 5YR.  Reaction is
-neutral or slightly acid.
+Bt horizons
+Hue--7.5YR or 5YR
+Reaction--pH 6.1 to 7.3
 
-COMPETING SERIES:  There are currently no other series in
-this subgroup.  The Potlatch soils are similar but have
-an aquic condition.
+COMPETING SERIES:  There are currently no other series in this subgroup.  The Potlatch soils are similar but have an aquic condition.
 
-GEOGRAPHIC SETTING:  Elkwalow soils are on mesa tops.
-Slopes range from  to 10 percent.  The soils formed in
-glacial till derived from basalt.  Mean annual temperature
-ranges from 33 to 35 degrees F., and mean annual
-precipitation ranges from 30 to 40 inches.  Elevation ranges
-from 9,900 to 10,700 feet.  The frost free period is 15 to
-50 days.
+GEOGRAPHIC SETTING:
+Landform--mesa tops
+Elevation--3025 to 3250 meters
+Slopes--0 to 10 percent
+Parent material--glacial till derived from basalt
+Mean annual precipitation--760 to 1000 mm  
+Mean annual air temperature--1 to 2 degrees C
+Frost free period--15 to 50 days
 
-GEOGRAPHICALLY ASSOCIATED SOILS:  These are the proposed
-Grandmesa and Doughspon soils. Grandmesa soils are well
-drained with bedrock between 20 to 40 inches.  Doughspon
-soils have a thick mollic epipedon, lack an E horizon and
-have  bedrock below 60 inches.
+GEOGRAPHICALLY ASSOCIATED SOILS:  None listed.
 
-DRAINAGE AND PERMEABILITY:  Somewhat poorly or moderately
-well drained; slow to medium runoff; slow permeability.  A
-perched water table is at 1 to 3 feet for 30 or more days from May 15 to July 15.
+DRAINAGE AND PERMEABILITY:  Somewhat poorly or moderately well drained; slow to medium runoff; slow permeability.  A perched water table is at 0.5 to 1 meter for 30 or more days from May 15 to July 15.
 
-USE AND VEGETATION:  This soil is used for timber
-production, firewood, wildlife habitat, and recreation.
-Dominant species are Engelmann spruce and subalpine fir.
+USE AND VEGETATION:  This soil is used for timber production, firewood, wildlife habitat, and recreation. Dominant species are Engelmann spruce and subalpine fir.
 
-DISTRIBUTION AND EXTENT:  West-central Colorado. The series
-is of small extent.
+DISTRIBUTION AND EXTENT:  Elkwalow soils are of small extent in western Colorado and western Montana; MLRAs 43B and 48A
 
-MLRA SOIL SURVEY REGIONAL OFFICE (MO) RESPONSIBLE: Bozeman, Montana
+SOIL SURVEY REGIONAL OFFICE (SSRO) RESPONSIBLE: Bozeman, Montana
 
-SERIES PROPOSED:  Mesa County (Grand Mesa-West Elk Soil
-Survey Area) Colorado, 1988.
+SERIES PROPOSED:  Mesa County (Grand Mesa-West Elk Soil Survey Area) Colorado, 1988
 
-REMARKS:  Diagnostic features in this soil include the
-argillic horizon, the zone from 23 to 46 inches, and an
-oxyaquic feature, saturated continuously for 30 days or
-more fro May 15 to July 15.  Last updated by the state 4/93.
+REMARKS:  Diagnostic features in this soil include:
+Argillic horizon--61 to 120 cm
+Oxyaquic feature--continuously saturated for 30 days or more from May 15 to July 15
+
+Converted to metric and O horizons were updated to start at zero. Competing series section was not updated. 12/2022
 
 National Cooperative Soil Survey
 U.S.A.

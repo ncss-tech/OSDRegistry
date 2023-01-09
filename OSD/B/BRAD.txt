@@ -1,55 +1,79 @@
 LOCATION BRAD                   UT
 
 Established Series
-REV:  LW/EJ/MEO/RLT
-7/86
+REV:  LW/EJ/KLS
+01/2023
 
 BRAD SERIES
 
-The Brad series consists of shallow, somewhat excessively drained, rapidly permeable soils on mountainsides.  They formed in residuum from sandstone.  Slope ranges from 15 to 80 percent.  The mean annual temperature is about 45 degrees F., and the mean annual precipitation is about 20 inches.
+The Brad series consists of shallow, somewhat excessively drained, rapidly permeable soils on strongly sloping to very steep mountainsides.  They formed in residuum from sandstone.  Slope ranges from 15 to 80 percent.  The mean annual air temperature is about 7 degrees C, and the mean annual precipitation is about 510 mm.
 
-TAXONOMIC CLASS: Sandy-skeletal, mixed, frigid Lithic
-Haploxerolls
+TAXONOMIC CLASS: Sandy-skeletal, mixed, frigid Lithic Haploxerolls
 
 TYPICAL PEDON:  Brad very cobbly loamy sand--rangeland.  (Colors are for air-dry soil unless otherwise stated.)
 
-    01--2 inches to 0; organic litter, leaves, twigs, etc.
+    Oi--0 to 5 cm; organic litter, leaves, twigs, etc.
 
-    A1--0 to 3 inches; brown (7.5YR 4/3) very cobbly loamy sand, dark brown (7.5YR 3/2) moist; single grain; loose; many fine and common medium roots; 50 to 90 percent angular gravel, cobbles and stones; neutral (pH 6.9); clear wavy boundary.  (3 to 10 inches thick)
+    A1--5 to 13 cm; brown (7.5YR 4/3) very cobbly loamy sand, dark brown (7.5YR 3/2) moist; single grain; loose; many fine and common medium roots; 50 to 90 percent angular gravel, cobbles and stones; neutral (pH 6.9); clear wavy boundary.  (8 to 25 cm thick)
 
-    A2--3 to 10 inches; reddish brown (5YR 4/3) very cobbly loamy sand dark reddish brown (5YR 3/3) moist; single grain; loose; many fine and common medium roots; 50 to 90 percent gravel, cobbles and stones; neutral (pH 6.7); abrupt wavy boundary.  (3 to 10 inches thick)
+    A2--13 to 31 cm; reddish brown (5YR 4/3) very cobbly loamy sand dark reddish brown (5YR 3/3) moist; single grain; loose; many fine and common medium roots; 50 to 90 percent gravel, cobbles and stones; neutral (pH 6.7); abrupt wavy boundary.  (8 to 25 cm thick)
 
-    R--10 inches; sandstone.
+    R--31 cm; sandstone.
 
-TYPE LOCATION:  Wasatch County, Utah; 9.4 miles east from center of Heber on Lake Creek Road; 1,480 feet west and 1,400 feet north of southeast corner of sec., 4, T. 4 S., R. 6 E.
+TYPE LOCATION:  Wasatch County, Utah; about 15 km east from center of Heber on Lake Creek Road; about 450 meters west and 425 meters north of southeast corner of sec., 4, T. 4 S., R. 6 E.
 
-RANGE IN CHARACTERISTICS:  The mollic epipedon is 10 to 16 inches thick. The soil is 10 to 20 inches deep over sandstone.  The mean annual soil temperature is about 45 degrees F. and the mean summer temperature is about 63 degrees F.  The soil is usually moist but is dry for more than 60 consecutive days in all parts of the moisture control section in more than 7 out of 10 years.  The particle size control section averages 35 to 80 percent coarse fragments.  Textures are very cobbly loamy sand, very cobbly loamy fine sand or extremely stony loamy sand.
+RANGE IN CHARACTERISTICS:
+Mean annual soil temperature--7 degrees C
+Mean summer soil temperature--17 degrees C
+The soil is usually moist but is dry for more than 60 consecutive days in all parts of the moisture control section in more than 7 out of 10 years.
+Thickness of mollic epipedon--25 to 40 cm 
+Thickness of solum--25 to 50 cm
 
-The A horizon has hue of 7.5YR or 5YR, value of 3 to 5 dry, 2 or 3 moist, and chroma of 2 or 3.  It is neutral or slightly acid.  AC or C horizons separate the A horizon and R layer in some pedons.  Where present, the C horizon is similar to the A horizon except that the value is 5.5 or 6 dry, 3 to 5 moist and chroma is 3 or 4.
+Particle-size control section:
+Coarse fragments--35 to 80 percent
+Texture--very cobbly loamy sand, very cobbly loamy fine sand or extremely stony loamy sand
 
-COMPETING SERIES:  There are no other series in this family.  Similar soils are Agassiz and Little Pole series.  Agassiz and Little Pole soils have loamy-skeletal, particle-size control sections.
+A horizon
+Hue--7.5YR or 5YR
+Value--3 to 5 dry, 2 or 3 moist
+Chroma--2 or 3
+Reaction--pH 6.1 to 7.3
 
-GEOGRAPHIC SETTING:  Brad soils are on strongly sloping and very steep mountains at elevations of 5,500 to 8,000 feet.  Slopes range from 15 to 80 percent.  The soils formed in residuum derived from sandstone.  The climate is moist subhumid with mean annual temperature about 42 to 45 degrees F., average summer temperature of about 60 to 63 degrees F.  and average annual precipitation of 18 to 25 inches, falling mostly as snow.
+AC or C horizons separate the A horizon and R layer in some pedons.  
 
-GEOGRAPHICALLY ASSOCIATED SOILS:  Brad soils are principally associated with Rock outcrop.
+C horizon (if present) is similar to the A horizon
+Value--5 or 6 dry, 3 to 5 moist
+Chroma--3 or 4
+
+COMPETING SERIES:  There are no other series in this family.  Similar soils are Agassiz and Little Pole series.  Agassiz and Little Pole soils have loamy-skeletal particle-size control sections.
+
+GEOGRAPHIC SETTING:
+Landform--mountain slopes
+Elevation--1675 to 2450 meters
+Slopes--15 to 80 percent
+Parent material--residuum derived from sandstone
+Climate--moist subhumid
+Mean annual air temperature--6 to 7 degrees C
+Mean summer air temperature--16 to 17 degrees C
+Mean annual precipitation--460 to 640 mm, falling mostly as snow
+
+GEOGRAPHICALLY ASSOCIATED SOILS:  None listed
 
 DRAINAGE AND PERMEABILITY:  Somewhat excessively drained; medium runoff; rapid permeability.
 
-USE AND VEGETATION:  These soils are used in spring and fall for grazing by livestock and in winter for grazing by big game.  The present vegetation is oakbrush, big sagebrush, birchleaf mountainmahogany, serviceberry, snowberry, bitterbrush, Indian ricegrass, and juniper.
+USE AND VEGETATION:  These soils are used in spring and fall for grazing by livestock and in winter for grazing by big game.  The present vegetation is Gambel oak, big sagebrush, birchleaf mountain mahogany, serviceberry, snowberry, bitterbrush, Indian ricegrass, and juniper.
 
-DISTRIBUTION AND EXTENT:  Northern Utah.  This soil is inextensive.
+DISTRIBUTION AND EXTENT:  Brad soils are not extensive and are found in the northcentral mountains of Utah; MLRA 47
 
-MLRA SOIL SURVEY REGIONAL OFFICE (MO) RESPONSIBLE: Bozeman, Montana
+SOIL SURVEY REGIONAL OFFICE (SSRO) RESPONSIBLE: Bozeman, Montana
 
-SERIES ESTABLISHED:  Wasatch County (Wasatch Area), Utah, 1971.
+SERIES ESTABLISHED:  Wasatch County (Wasatch Area), Utah, 1971
 
 REMARKS:  Diagnostic horizons and features recognized in this pedon are:
+Mollic epipedon--5 to 31 cm (A1, A2 horizons)
+Lithic contact--31 cm to sandstone bedrock (R horizon)
 
-  Mollic epipedon - the zone from the surface of the soil to a depth of approximately 10 inches (A1, A2 horizons).
-
-  Lithic feature - hard bedrock at 10 inches.
+Converted to metric and O horizons were updated to start at zero. Competing series section was not updated. 12/2022
 
 National Cooperative Soil Survey
 U.S.A.
-
-
