@@ -7,39 +7,25 @@ name: refresh-osd
 on:
  schedule:
  - cron:  '0 0 * * 1'
-   
+
  workflow_dispatch:
-  
+
 # see: https://docs.github.com/en/free-pro-team@latest/actions/reference/workflow-syntax-for-github-actions
 # and: https://github.com/r-lib/actions
 jobs:
   refresh:
-    runs-on: ubuntu-20.04
-    
+    runs-on: ubuntu-22.04
+
     steps:
-    - uses: actions/checkout@v2
-    - uses: actions/cache@v2
-      with:
-        path: ~/.local/share/renv
-        key: ${{ runner.os }}-renv-${{ hashFiles('**/renv.lock') }}
-        restore-keys: ${{ runner.os }}-renv-
+    - uses: actions/checkout@v3
     - run: sudo apt-get update
     - run: sudo apt install -y libcurl4-openssl-dev chromium-chromedriver
     - run: wget https://dl.google.com/linux/direct/google-chrome-stable_current_amd64.deb
     - run: sudo apt install ./google-chrome-stable_current_amd64.deb
-    - uses: r-lib/actions/setup-r@v1
-    - run: Rscript -e 'install.packages(c("devtools"))'
-    - run: Rscript -e 'saveRDS(remotes::dev_package_deps(dependencies = TRUE), ".github/depends.Rds", version = 2)'
-    - run: Rscript -e 'writeLines(sprintf("R-%i.%i", getRversion()$major, getRversion()$minor), ".github/R-version")'
-    - run: Rscript -e 'remotes::install_deps(dependencies = TRUE)'
-    - run: |
-          while read -r cmd
-          do
-            eval sudo $cmd
-          done < <(Rscript -e 'writeLines(remotes::system_requirements("ubuntu", "20.04"))')
-    - run: Rscript -e 'remotes::install_github("ropensci/RSelenium")'
-    - run: Rscript -e 'remotes::install_github("ncss-tech/soilDB")'
-    - run: Rscript -e 'install.packages("odbc")'
+    - uses: r-lib/actions/setup-r@v2
+    - uses: r-lib/actions/setup-r-dependencies@v2
+      with:
+        extra-packages: ncss-tech/soilDB
     - run: R CMD build --no-manual ../OSDRegistry
     - run: Rscript -e 'system2("R", paste0(sprintf("CMD INSTALL OSDRegistry_%s.tar.gz", read.dcf("DESCRIPTION")[,"Version"])))'
     - run: Rscript -e 'OSDRegistry::refresh_registry()'
