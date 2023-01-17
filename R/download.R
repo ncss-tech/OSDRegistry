@@ -51,44 +51,67 @@
     ## -- STEP 3 - DOWNLOAD
     osd_result3 <- rvest::session_submit(osd_session2, osd_request3, submit = "download")
     remDr$open()
+    on.exit(remDr$close())
     remDr$navigate(osd_result3$url)
 
+    # ideally we would be able to use RSelenium and browser options to go right to /raw
     target_dir <- file.path(getwd(), 'raw')
     if (!dir.exists(target_dir))
       dir.create(target_dir, recursive = TRUE)
 
-    # default_dir <- file.path("/home", Sys.info()[["user"]], "Downloads")
+    # but it may download to the default path (user Downloads folder)
+    default_dir <- file.path(path.expand('~'), "Downloads")
     # if (!dir.exists(default_dir))
     #   dir.create(default_dir, recursive = TRUE)
 
     file_name <- list.files(target_dir, "osddwn.*zip$")
+    dfile_name <- list.files(default_dir, "osddwn.*zip$")
 
     webElem <- remDr$findElement("id", "download")
     webElem$clickElement()
 
+    # keep track of files originally in target download folders
     orig_file_name <- file_name
+    orig_dfile_name <- dfile_name
     ncycle <- 0
-    while(length(file_name) <= length(orig_file_name)) {
+    
+    # wait for downloaded file to appear in browser download directory
+    while (length(file_name) <= length(orig_file_name) &
+           length(dfile_name) <= length(orig_dfile_name)) {
       file_name <- list.files(target_dir, "osddwn.*zip$")
+      dfile_name <- list.files(default_dir, "osddwn.*zip$")
       Sys.sleep(1)
       ncycle <- ncycle + 1
-      if(ncycle > 240)
-        break;
+      if (ncycle > 240)
+        break
     }
 
-    new_file_name <- file_name[!file_name %in% orig_file_name]
-    if (length(new_file_name) > 0) {
-      if(file.rename(file.path(target_dir, new_file_name),
-                     file.path(target_dir, paste0(sprintf("r%s_",x), new_file_name)))) {
-        message(sprintf("Downloaded: %s", new_file_name))
-      } else {
-        warning(sprintf("Failed to relocate file: %s", file_name))
+    new_file_name <- character(0)
+    
+    # allow download to default directory, just move to target first
+    new_dfile_name <- dfile_name[!dfile_name %in% orig_dfile_name]
+    
+    if (length(new_dfile_name) > 0) {
+      new_file_name <- new_dfile_name
+      target_file_name <- file.path(target_dir, paste0(sprintf("r%s_", x), new_file_name))
+      if (!file.copy(file.path(default_dir, new_dfile_name), target_file_name)) {
+        warning(sprintf("Failed to relocate file: %s", new_file_name))
       }
+      file.remove(file.path(default_dir, new_dfile_name))
+    } else {
+      new_file_name <- file_name[!file_name %in% orig_file_name]
+      target_file_name <- file.path(target_dir, paste0(sprintf("r%s_", x), new_file_name))
+      if (!file.rename(file.path(target_dir, new_file_name), target_file_name)) {
+        warning(sprintf("Failed to relocate file: %s", new_file_name))
+      }
+    }
+    
+    if (file.exists(target_file_name)) {
+      message(sprintf("Downloaded: %s", new_file_name))
     } else {
       warning(sprintf("Problem with OSD Download for Region %s", x))
     }
   }
 
-  remDr$close()
   return(0)
 }
