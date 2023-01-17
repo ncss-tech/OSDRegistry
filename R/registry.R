@@ -2,7 +2,7 @@
 #'
 #' @param test Default: \code{FALSE}; run on a pair of small regions (MO 3, 7)
 #' @param port Passed to [RSelenium::rsDriver()]. Default: `4567L`.
-#' 
+#'
 #' @description Text files are written to alphabetical (first letter) folders containing raw Official Series Descriptions (OSDs). This method is for use in automatic pipeline (e.g. a GitHub action) to regularly replicate changes that occur across the entire set of series for commit.
 #'
 #' There is an assumption that the files are downloaded to a Linux-like default \code{"Downloads"} folder \code{"~/Downloads"} or \code{"/home/user/Downloads"} which are standard on \code{"ubuntu-latest"} where these actions are typically run. The files matching the path \code{"osddwn.*zip$"} get moved to the repository "raw" folder.
@@ -29,7 +29,7 @@ refresh_registry <- function(test = FALSE, port = 4567L) {
   if(!requireNamespace("RSelenium"))
     stop("package `RSelenium` is required to download ZIP files")
 
-  target_dir <- file.path(getwd(), 'raw')
+  target_dir <- file.path(path.expand("~"), "Downloads") # file.path(getwd(), 'raw')
   # file.remove(list.files(target_dir, "osddwn.*zip$", full.names = TRUE))
 
   if (!dir.exists(target_dir))
@@ -55,7 +55,7 @@ refresh_registry <- function(test = FALSE, port = 4567L) {
     firefox_profile = fprof$firefox_profile,
     "moz:firefoxOptions" = list(args = list('--headless'))
   )
-  
+
   res <- try(rD <- RSelenium::rsDriver(browser = "firefox",
                                        chromever = NULL,
                                        extraCapabilities = eCaps,
@@ -103,7 +103,7 @@ refresh_registry <- function(test = FALSE, port = 4567L) {
   }
 
   # unzip to single directory of .doc files
-  lapply(file.path("raw", list.files("raw", "zip",
+  lapply(file.path(target_dir, list.files(target_dir, "osddwn.*\\.zip$",
                                      recursive = TRUE,
                                      ignore.case = TRUE)),
          unzip, exdir = "raw/doc")
@@ -141,6 +141,8 @@ refresh_registry <- function(test = FALSE, port = 4567L) {
     if (!dir.exists("SC")) dir.create("SC")
     write.csv(sc, file = file.path("SC", "SCDB.csv"), row.names = FALSE)
   }
+
+  file.remove(list.files(target_dir, "osddwn.*\\.zip$"))
 
   message("Done!")
 

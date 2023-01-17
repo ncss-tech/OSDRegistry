@@ -74,7 +74,7 @@
     orig_file_name <- file_name
     orig_dfile_name <- dfile_name
     ncycle <- 0
-    
+
     # wait for downloaded file to appear in browser download directory
     while (length(file_name) <= length(orig_file_name) &
            length(dfile_name) <= length(orig_dfile_name)) {
@@ -87,27 +87,27 @@
     }
 
     new_file_name <- character(0)
-    
+
     # allow download to default directory, just move to target first
     new_dfile_name <- dfile_name[!dfile_name %in% orig_dfile_name]
-    
-    if (length(new_dfile_name) > 0) {
-      new_file_name <- new_dfile_name
-      target_file_name <- file.path(target_dir, paste0(sprintf("r%s_", x), new_file_name))
-      if (!file.copy(file.path(default_dir, new_dfile_name), target_file_name)) {
-        warning(sprintf("Failed to relocate file: %s", new_file_name))
-      }
-      file.remove(file.path(default_dir, new_dfile_name))
-    } else {
-      new_file_name <- file_name[!file_name %in% orig_file_name]
-      target_file_name <- file.path(target_dir, paste0(sprintf("r%s_", x), new_file_name))
-      if (!file.rename(file.path(target_dir, new_file_name), target_file_name)) {
-        warning(sprintf("Failed to relocate file: %s", new_file_name))
-      }
-    }
-    
-    if (file.exists(target_file_name)) {
-      message(sprintf("Downloaded: %s", new_file_name))
+
+    # if (length(new_dfile_name) > 0) {
+    #   new_file_name <- new_dfile_name
+    #   target_file_name <- file.path(target_dir, paste0(sprintf("r%s_", x), new_file_name))
+    #   if (!file.copy(file.path(default_dir, new_dfile_name), target_dir, recursive = TRUE)) {
+    #     warning(sprintf("Failed to relocate file: %s", new_file_name))
+    #   }
+    #   # file.remove(file.path(default_dir, new_dfile_name))
+    # } else {
+    #   new_file_name <- file_name[!file_name %in% orig_file_name]
+    #   target_file_name <- file.path(target_dir, paste0(sprintf("r%s_", x), new_file_name))
+    #   if (!file.rename(file.path(target_dir, new_file_name), target_file_name)) {
+    #     warning(sprintf("Failed to relocate file: %s", new_file_name))
+    #   }
+    # }
+
+    if (file.exists(file.path(default_dir, new_dfile_name))) {
+      message(sprintf("Downloaded: %s", new_dfile_name))
     } else {
       warning(sprintf("Problem with OSD Download for Region %s", x))
     }
