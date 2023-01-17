@@ -19,9 +19,9 @@ jobs:
     steps:
     - uses: actions/checkout@v3
     - run: sudo apt-get update
-    - run: sudo apt install -y libcurl4-openssl-dev chromium-chromedriver
-    - run: wget https://dl.google.com/linux/direct/google-chrome-stable_current_amd64.deb
-    - run: sudo apt install ./google-chrome-stable_current_amd64.deb
+    - run: sudo apt install -y libcurl4-openssl-dev chromium-chromedriver firefox
+    # - run: wget https://dl.google.com/linux/direct/google-chrome-stable_current_amd64.deb
+    # - run: sudo apt install ./google-chrome-stable_current_amd64.deb
     - uses: r-lib/actions/setup-r@v2
     - uses: r-lib/actions/setup-r-dependencies@v2
       with:
@@ -33,11 +33,11 @@ jobs:
     - run: Rscript -e 'system(sprintf("zip SC_%s.zip SC/*", Sys.Date()))'
     - run: zip OSD-data-snapshot.zip OSD_*.zip
     - run: zip SC-data-snapshot.zip SC_*.zip
-    - uses: actions/upload-artifact@v2
+    - uses: actions/upload-artifact@v3
       with:
         name: OSD-data-snapshot
         path: "OSD-data-snapshot.zip"
-    - uses: actions/upload-artifact@v2
+    - uses: actions/upload-artifact@v3
       with:
         name: SC-data-snapshot
         path: "SC-data-snapshot.zip"

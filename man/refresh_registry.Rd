@@ -4,10 +4,12 @@
 \alias{refresh_registry}
 \title{Automatic update by regional queries to NASIS soil series server}
 \usage{
-refresh_registry(test = FALSE)
+refresh_registry(test = FALSE, port = 4567L)
 }
 \arguments{
 \item{test}{Default: \code{FALSE}; run on a pair of small regions (MO 3, 7)}
+
+\item{port}{Passed to [RSelenium::rsDriver()]. Default: `4567L`.}
 }
 \value{
 \code{0} if function completes.
