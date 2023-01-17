@@ -35,37 +35,32 @@ refresh_registry <- function(test = FALSE, port = 4567L) {
   if (!dir.exists(target_dir))
     dir.create(target_dir, recursive = TRUE)
 
-  eCaps <- list(chromeOptions =
-                  list(
-                    prefs = list(
-                      "profile.default_content_settings.popups" = 0L,
-                      "download.prompt_for_download" = FALSE,
-                      "directory_upgrade" = TRUE,
-                      "download.default_directory" = target_dir
-                    ),
-                    args = c('--headless')
-                  ))
+  # eCaps <- list(chromeOptions =
+  #                 list(
+  #                   prefs = list(
+  #                     "profile.default_content_settings.popups" = 0L,
+  #                     "download.prompt_for_download" = FALSE,
+  #                     "directory_upgrade" = TRUE,
+  #                     "download.default_directory" = target_dir
+  #                   ),
+  #                   args = c('--headless')
+  #                 ))
   # gcv <- trimws(gsub("Google Chrome ","\\1",
   #                    system("google-chrome --version", intern = TRUE)))
 
   #2022-01-16- use firefox
-  # fprof <- RSelenium::makeFirefoxProfile(list(browser.download.dir = target_dir,
-  #                                             browser.download.folderList = 2))
-  # eCaps <- list(
-  #   "moz:firefoxOptions" = list(args = list("firefox_profile" = fprof$firefox_profile,
-  #                                           '--headless'))
-  # )
-  # 
-  # res <- try(rD <- RSelenium::rsDriver(browser = "firefox",
-  #                                      chromever = NULL,
-  #                                      extraCapabilities = eCaps,
-  #                                      port = as.integer(port)))
-  
-   res <- try(rD <- RSelenium::rsDriver(browser = "chrome",
-                                        # chromever = gcv,
-                                        extraCapabilities = eCaps,
-                                        port = as.integer(port)))
-                                        
+  fprof <- RSelenium::makeFirefoxProfile(list(browser.download.dir = target_dir,
+                                              browser.download.folderList = 2))
+  eCaps <- list(
+    firefox_profile = fprof$firefox_profile,
+    "moz:firefoxOptions" = list(args = list('--headless'))
+  )
+
+  res <- try(rD <- RSelenium::rsDriver(browser = "firefox",
+                                       chromever = NULL,
+                                       extraCapabilities = eCaps,
+                                       port = as.integer(port)))
+
   # if(inherits(res, 'try-error')) {
   #   gcv.split <- strsplit(gsub("\\n", "",
   #                              gsub(".* = (.*)", "\\1",
