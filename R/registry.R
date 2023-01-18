@@ -104,6 +104,21 @@ refresh_registry <- function(test = FALSE, moID = 1:13, port = 4567L) {
       }
     }
 
+    ## batching within region no longer needed (it seems)
+    # if (inherits(res, 'try-error')) {
+    #   res1 <- .query_series_by_region(remDr, i,
+    #                                   start_year = 1800,
+    #                                   end_year = 1980)
+    #   res2 <- .query_series_by_region(remDr,
+    #                                   i,
+    #                                   start_year = 1980,
+    #                                   end_year = format(Sys.Date(), "%Y"))
+    #   if (!inherits(res1, 'try-error') &&
+    #       !inherits(res2, 'try-error')) {
+    #     res <- c(res1, res2)
+    #   }
+    # }
+
     if (!inherits(res, 'try-error')) {
       zips <- c(zips, res)
     } else {
