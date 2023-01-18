@@ -82,7 +82,7 @@ refresh_registry <- function(test = FALSE, moID = 1:13, port = 4567L) {
   # }
 
   remDr <- rD[["client"]]
-
+  remDr$open()
   on.exit(remDr$close())
 
   message("Refreshing OSDs...")

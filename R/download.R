@@ -50,7 +50,6 @@
 
     ## -- STEP 3 - DOWNLOAD
     osd_result3 <- rvest::session_submit(osd_session2, osd_request3, submit = "download")
-    remDr$open()
     remDr$navigate(osd_result3$url)
 
     # ideally we would be able to use RSelenium and browser options to go right to /raw
