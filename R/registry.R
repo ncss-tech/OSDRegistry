@@ -30,23 +30,9 @@ refresh_registry <- function(test = FALSE, port = 4567L) {
     stop("package `RSelenium` is required to download ZIP files")
 
   target_dir <- file.path(path.expand("~"), "Downloads") # file.path(getwd(), 'raw')
-  # file.remove(list.files(target_dir, "osddwn.*zip$", full.names = TRUE))
 
   if (!dir.exists(target_dir))
     dir.create(target_dir, recursive = TRUE)
-
-  # eCaps <- list(chromeOptions =
-  #                 list(
-  #                   prefs = list(
-  #                     "profile.default_content_settings.popups" = 0L,
-  #                     "download.prompt_for_download" = FALSE,
-  #                     "directory_upgrade" = TRUE,
-  #                     "download.default_directory" = target_dir
-  #                   ),
-  #                   args = c('--headless')
-  #                 ))
-  # gcv <- trimws(gsub("Google Chrome ","\\1",
-  #                    system("google-chrome --version", intern = TRUE)))
 
   #2022-01-16- use firefox
   fprof <- RSelenium::makeFirefoxProfile(list(browser.download.dir = target_dir,
@@ -61,6 +47,19 @@ refresh_registry <- function(test = FALSE, port = 4567L) {
                                        extraCapabilities = eCaps,
                                        port = as.integer(port)))
 
+  ## chrome driver setup
+  # eCaps <- list(chromeOptions =
+  #                 list(
+  #                   prefs = list(
+  #                     "profile.default_content_settings.popups" = 0L,
+  #                     "download.prompt_for_download" = FALSE,
+  #                     "directory_upgrade" = TRUE,
+  #                     "download.default_directory" = target_dir
+  #                   ),
+  #                   args = c('--headless')
+  #                 ))
+  # gcv <- trimws(gsub("Google Chrome ","\\1",
+  #                    system("google-chrome --version", intern = TRUE)))
   # if(inherits(res, 'try-error')) {
   #   gcv.split <- strsplit(gsub("\\n", "",
   #                              gsub(".* = (.*)", "\\1",
@@ -82,6 +81,8 @@ refresh_registry <- function(test = FALSE, port = 4567L) {
   # }
 
   remDr <- rD[["client"]]
+
+  on.exit(remDr$close())
 
   message("Refreshing OSDs...")
 
@@ -142,7 +143,7 @@ refresh_registry <- function(test = FALSE, port = 4567L) {
     write.csv(sc, file = file.path("SC", "SCDB.csv"), row.names = FALSE)
   }
 
-  file.remove(list.files(target_dir, "osddwn.*\\.zip$"))
+  file.remove(list.files(target_dir, "osddwn.*\\.zip$", full.names = TRUE))
 
   message("Done!")
 

@@ -51,7 +51,6 @@
     ## -- STEP 3 - DOWNLOAD
     osd_result3 <- rvest::session_submit(osd_session2, osd_request3, submit = "download")
     remDr$open()
-    on.exit(remDr$close())
     remDr$navigate(osd_result3$url)
 
     # ideally we would be able to use RSelenium and browser options to go right to /raw
@@ -109,7 +108,7 @@
     if (file.exists(file.path(default_dir, new_dfile_name))) {
       message(sprintf("Downloaded: %s", new_dfile_name))
     } else {
-      warning(sprintf("Problem with OSD Download for Region %s", x))
+      return(try(stop(sprintf("Problem with OSD Download for Region %s", x), call. = FALSE)))
     }
   }
 
