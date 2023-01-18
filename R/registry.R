@@ -1,7 +1,8 @@
 #' Automatic update by regional queries to NASIS soil series server
 #'
-#' @param test Default: \code{FALSE}; run on a pair of small regions (MO 3, 7)
+#' @param test Default: `FALSE`; run on a pair of small regions (MO 3, 7)
 #' @param port Passed to [RSelenium::rsDriver()]. Default: `4567L`.
+#' @param moID Region ID codes (Default `1:13`, or `c(3,7)` when `test=TRUE`)
 #'
 #' @description Text files are written to alphabetical (first letter) folders containing raw Official Series Descriptions (OSDs). This method is for use in automatic pipeline (e.g. a GitHub action) to regularly replicate changes that occur across the entire set of series for commit.
 #'
@@ -22,7 +23,7 @@
 #'
 #' @importFrom utils unzip write.csv
 #' @importFrom RSelenium rsDriver makeFirefoxProfile
-refresh_registry <- function(test = FALSE, port = 4567L) {
+refresh_registry <- function(test = FALSE, moID = 1:13, port = 4567L) {
 
   message("Setting up RSelenium...")
 
@@ -86,28 +87,37 @@ refresh_registry <- function(test = FALSE, port = 4567L) {
 
   message("Refreshing OSDs...")
 
-  idx <- 1:12
+  idx <- moID
   if(test == TRUE)
     idx <- c(3,7)
 
-  # iterate over MO responsible codes 1:12
+  # iterate over MO responsible codes 1:13
+  zips <- character()
   for(i in idx) {
     res <- .query_series_by_region(remDr, i)
-    if(inherits(res, 'try-error')) {
-      try(.query_series_by_region(remDr, i,
-                                  start_year = 1800,
-                                  end_year = 1980))
-      try(.query_series_by_region(remDr, i,
-                                  start_year = 1980,
-                                  end_year = format(Sys.Date(),"%Y")))
+    if (inherits(res, 'try-error')) {
+      res1 <- .query_series_by_region(remDr, i,
+                                      start_year = 1800,
+                                      end_year = 1980)
+      res2 <- .query_series_by_region(remDr,
+                                      i,
+                                      start_year = 1980,
+                                      end_year = format(Sys.Date(), "%Y"))
+      if (!inherits(res1, 'try-error') &&
+          !inherits(res2, 'try-error')) {
+        res <- c(res1, res2)
+      }
+    }
+
+    if (!inherits(res, 'try-error')) {
+      zips <- c(zips, res)
+    } else {
+      message(paste0("Error querying OSDs region (", i, ")"))
     }
   }
 
   # unzip to single directory of .doc files
-  lapply(file.path(target_dir, list.files(target_dir, "osddwn.*\\.zip$",
-                                     recursive = TRUE,
-                                     ignore.case = TRUE)),
-         unzip, exdir = "raw/doc")
+  lapply(zips, unzip, exdir = "raw/doc")
 
   # read .doc files
   docfiles <-  list.files("raw/doc", "doc$", recursive = TRUE)

@@ -9,7 +9,7 @@
 #'
 #' @details Need to maintain a single session throughout a sequence of horrid ASPX form steps. Individual sessions maintained via __VIEWSTATE, __EVENTVALIDATION and other "secret" fields.
 #'
-#' @return A Zip File containing series from the selected region.
+#' @return Path to a Zip File containing series from the selected region.
 #' @author Andrew G. Brown
 #'
 #' @importFrom rvest session html_form session_submit html_form_set
@@ -81,7 +81,7 @@
       dfile_name <- list.files(default_dir, "osddwn.*zip$")
       Sys.sleep(1)
       ncycle <- ncycle + 1
-      if (ncycle > 240)
+      if (ncycle > 480)
         break
     }
 
@@ -105,12 +105,12 @@
     #   }
     # }
 
-    if (file.exists(file.path(default_dir, new_dfile_name))) {
+    if (length(new_dfile_name) > 0 && file.exists(file.path(default_dir, new_dfile_name))) {
       message(sprintf("Downloaded: %s", new_dfile_name))
     } else {
       return(try(stop(sprintf("Problem with OSD Download for Region %s", x), call. = FALSE)))
     }
   }
 
-  return(0)
+  file.path(default_dir, new_dfile_name)
 }

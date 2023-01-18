@@ -16,7 +16,7 @@
 \item{end_year}{Optional: End of target "origin" year interval}
 }
 \value{
-A Zip File containing series from the selected region.
+Path to a Zip File containing series from the selected region.
 }
 \description{
 Download ZIP files containing multiple (>1000) Official Series Descriptions (OSDs) into local Downloads folder. Files matching "osddwn.*zip$" are moved to the package raw directory. The function will wait up to 2 minutes for the server to complete the ZIP file result, but will complete as soon as the result is detected.
