@@ -18,10 +18,16 @@ jobs:
 
     steps:
     - uses: actions/checkout@v3
-    - run: sudo apt-get update
-    - run: sudo apt install -y libcurl4-openssl-dev chromium-chromedriver firefox
-    # - run: wget https://dl.google.com/linux/direct/google-chrome-stable_current_amd64.deb
-    # - run: sudo apt install ./google-chrome-stable_current_amd64.deb
+
+    # try fixing a specific firefox version 109.0 for now
+    - run: |
+        sudo apt-get update
+        sudo apt install -y libcurl4-openssl-dev
+        wget https://download-installer.cdn.mozilla.net/pub/firefox/releases/109.0/linux-x86_64/en-US/firefox-109.0.tar.bz2
+        tar -xjf firefox-*.tar.bz2
+        sudo mv firefox /opt
+        sudo ln -s /opt/firefox/firefox /usr/local/bin/firefox
+
     - uses: r-lib/actions/setup-r@v2
     - uses: r-lib/actions/setup-r-dependencies@v2
       with:
