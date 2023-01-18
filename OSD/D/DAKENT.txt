@@ -2,7 +2,7 @@ LOCATION DAKENT                 NV
 
 Established Series
 Rev:  DJM/EWB/WED/JBF
-05/2016
+01/2023
 
 DAKENT SERIES
 
@@ -20,11 +20,11 @@ TYPICAL PEDON:  Dakent gravelly very fine sandy loam--rangeland.  (Colors are fo
 
     Bqk--61 to 86 cm; light gray (10YR 7/2) extremely gravelly sandy loam, pale brown (10YR 6/3) moist; massive; extremely hard, very firm, nonsticky and nonplastic; common very fine roots; common fine and medium tubular pores; 70 percent gravel, 5 percent cobbles; 50 percent secondary calcium carbonate- and silica-cemented lenses and nodules; violently effervescent; strongly alkaline (pH 9.0); gradual smooth boundary.  (20 to 30 cm thick)
 
-    2Bkl--86 to 109 cm; pale brown (10YR 6/3) extremely gravelly coarse sand, brown (10YR 4/3) single grain; loose; nonsticky and nonplastic; many very fine and fine roots; many fine and medium interstitial pores; 60 percent gravel, 5 percent cobbles; violently effervescent with many medium secondary calcium carbonate threads and secondary calcium carbonate masses; strongly alkaline (pH 8.6); clear smooth boundary.  (20 to 36 cm thick)
+    2Bk1--86 to 109 cm; pale brown (10YR 6/3) extremely gravelly coarse sand, brown (10YR 4/3) single grain; loose; nonsticky and nonplastic; many very fine and fine roots; many fine and medium interstitial pores; 60 percent gravel, 5 percent cobbles; violently effervescent with many medium secondary calcium carbonate threads and secondary calcium carbonate masses; strongly alkaline (pH 8.6); clear smooth boundary.  (20 to 36 cm thick)
 
     2Bk2--109 to 152 cm; pale brown (10YR 6/3) extremely gravelly loamy sand, brown (10YR 4/3) moist; massive; soft, very friable, nonsticky and nonplastic; many very fine and fine roots; common very fine tubular pores; 65 percent gravel; violently effervescent; secondary calcium carbonate pendants on the bottom of rock fragments; strongly alkaline (pH 8.6).  (38 to 50 cm thick)
 
-TYPE LOCATION:  Mineral County, Nevada, about 1,000 feet south and 750 feet east of the northeast corner of section 24, T. 19 N., R. 32 E.; latitude 38 degrees 42 minutes 4 seconds N and longitude 118 degrees 25 minutes 43 seconds W; WGS84 Decimal Degrees 38.7012222 latitude, -118.4286111 longitude..
+TYPE LOCATION:  Mineral County, Nevada, about 1,000 feet south and 750 feet east of the northeast corner of section 24, T. 19 N., R. 32 E.; latitude 38 degrees 42 minutes 4 seconds N and longitude 118 degrees 25 minutes 43 seconds W; WGS84 Decimal Degrees 38.7012222 latitude, -118.4286111 longitude.
 
 RANGE IN CHARACTERISTICS:
 Soil moisture: Usually dry, dry in summer and fall, moist in late winter and spring, and for l0 to 20 days between July and October due to convection storms; aridic soil moisture regime bordering on xeric.
@@ -95,7 +95,7 @@ REMARKS: Diagnostic horizons and features recognized in this pedon are:
 Ochric epipedon - The zone from the soil surface to 18 cm (A and part of the Bk horizons) .
 Calcic horizon - The zone from about 28 to 86 cm (Bk and Bqk horizons).
 Durinodic feature - Discontinuous silica cementation from 61 to 86 cm (Bqk horizon).
-Particle-size control section - The zone from 25 to 100 cm (Bk, Bqk and part of the Bw and 2Bk1 horizons)..
+Particle-size control section - The zone from 25 to 100 cm (Bk, Bqk and part of the Bw and 2Bk1 horizons).
 
 
 National Cooperative Soil Survey

@@ -2,7 +2,7 @@ LOCATION DANVERS                MT
 
 Established Series
 Rev. RGB-GAR-JAL
-10/1999
+01/2023
 
 DANVERS SERIES
 
@@ -18,7 +18,7 @@ TYPICAL PEDON:  Danvers silty clay loam, grassland. (Colors are for dry soil unl
 
     Bt1--4 to 8 inches; brown (10YR 4/3) silty clay, dark brown (10YR 3/3) moist; coatings on ped surfaces of dark grayish brown (10YR 4/2), very dark grayish brown (10YR 3/2) moist; moderate medium prismatic structure that separates to strong fine and very fine subangular blocky; very hard, friable, moderately sticky and moderately plastic; continuous distinct clay films on peds; common very fine roots; many very fine and common fine tubular pores; neutral (pH 7.0); gradual boundary.
 
-    Bt2--8 to 14 inches; brown (10YR 5/3) silty clay, dark brown (10YR 4/3) moist; coatings on ped surfaces of dark grayish brown (10YR 4/2), very dark grayish brown (10YR 3/2) moist; moderate medium and fine prismatic structure parting easily to strong fine and very fine blocky; very hard, friable, moderately sticky and moderately plastic; continuous distinct clay films on faces of peds; 5 percent pebbles; slightly alkaline (pH 7.6); clear wavy boundary. (Combined Bt horizons 8 to 14 inches thick)
+    Bt2--8 to 14 inches; brown (10YR 5/3) silty clay, brown (10YR 4/3) moist; coatings on ped surfaces of dark grayish brown (10YR 4/2), very dark grayish brown (10YR 3/2) moist; moderate medium and fine prismatic structure parting easily to strong fine and very fine blocky; very hard, friable, moderately sticky and moderately plastic; continuous distinct clay films on faces of peds; 5 percent pebbles; slightly alkaline (pH 7.6); clear wavy boundary. (Combined Bt horizons 8 to 14 inches thick)
 
     Btk--14 to 17 inches; grayish brown (2.5Y 5/2) clay, olive brown (2.5Y 4/3) moist; moderate fine and medium prismatic structure parting to moderate fine subangular blocky; hard, friable, moderately sticky and moderately plastic; common very fine roots; many very fine and few fine tubular pores; few faint clay films on faces of peds with common medium masses of lime; 5 percent pebbles; common distinct lime crusts on underside of pebbles; strongly effervescent; moderately alkaline (pH 8.0); gradual wavy boundary. (0 to 6 inches thick)
 
@@ -168,8 +168,6 @@ Ricot (CO) - has a lithological discontinuity in the control section.
 
 Ridgeview (SD) - have more than 45 percent clay throughout the Bt horizon and formed in shale residuum.
 
-Savage (MT) - does not have a calcic horizon.
-
 Suposo (NM) - have a mollic epipedon 18 to 35 inches thick.
 
 Tomasaki (UT) - does not have a calcic horizon.
@@ -179,6 +177,8 @@ Tsoodzil (NM) - have a mollic epipedon 21 to 40 inches thick.
 Tukuhnik (UT) - has a lithic contact at a depth of 40 to 60 inches.
 
 Work (MT) - does not have a calcic horizon.
+
+Wyola (MT) - does not have a calcic horizon.
 
 Yankee (NM) - have a mollic epipedon 20 to 60 inches thick.
 
@@ -200,13 +200,15 @@ Mean annual air temperature - 39 to 45 degrees F.
 
 Frost-free period - 70 to 135 days.
 
+GEOGRAPHICALLY ASSOCIATED SOILS:  These are the Kissick and Shaak soils.  Kissick soils occur on uplands, lack an argillic horizon, and have a lithologic discontinuity.  Shaak soils occur on alluvial fans and terraces, have an abrupt textural change above the argillic horizon, and have a lithologic discontinuity.
+
 DRAINAGE AND PERMEABILITY:  Well drained. slow permeability.  Runoff is low to very high depending on slope.
 
 USE AND VEGETATION:  Danvers soils are used mainly for dryland production of small grains, native range, and tame pasture.  Potential native vegetation is mainly western wheatgrass, blue grama, needleandthread, and prairie junegrass.
 
 DISTRIBUTION AND EXTENT:  Danvers soils are moderately extensive in central and southern Montana on high terraces and fans bordering the eastern front of the northern Rocky Mountains.
 
-MLRA SOIL SURVEY REGIONAL OFFICE (MO) RESPONSIBLE: Denver, Colorado
+MLRA SOIL SURVEY REGIONAL OFFICE (MO) RESPONSIBLE: Salina, Kansas
 
 SERIES ESTABLISHED:  Reconnaissance Soil Survey of Central Montana, 1946.
 

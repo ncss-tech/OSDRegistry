@@ -2,7 +2,7 @@ LOCATION PILEDRIVER             AK
 
 Established Series
 DKM, DKS, MJM
-09/2007
+12/2022
 
 PILEDRIVER SERIES
 
@@ -14,7 +14,7 @@ Slope: 0 to 2 percent
 Mean annual temperature: is about 26 degrees F.
 Mean annual precipitation: is about 12 inches.
 
-TAXONOMIC CLASS: Coarse-loamy over sandy or sandy-skeletal, mixed, superactive, nonacid Aquic Cryofluvents 
+TAXONOMIC CLASS: Coarse-loamy over sandy or sandy-skeletal, mixed, superactive, nonacid Aquic Cryofluvents
 
 TYPICAL PEDON: Piledriver very fine sandy loam - on less than 1 percent slope in mixed white spruce and balsam poplar forest. (all colors are for moist soil) 
 
@@ -50,7 +50,7 @@ Climate: subarctic continental with long, cold winters and short, warm summers
 Mean annual temperature: 25 to 28 degrees F.
 Mean annual precipitation: 10 to inches.
 
-GEOGRAPHICALLY ASSOCIATED SOILS: These are the Chena, Eielson, Fubar, Jarvis, and Salchaket soils. Chena and Fubar soils are less than 20 inches (50 cm) to sand and gravel. Eielson and Salchaket soils are deeper than 40 inches (100 cm) to sand and gravel. Jarvis soils do not have low chroma redoximorphic depletions within 20 inches (50 cm) of the surface.
+GEOGRAPHICALLY ASSOCIATED SOILS: These are the Chena, Eielson, Stratify, Jarvis, and Salchaket soils. Chena and Stratify soils are less than 20 inches (50 cm) to sand and gravel. Eielson and Salchaket soils are deeper than 40 inches (100 cm) to sand and gravel. Jarvis soils do not have low chroma redoximorphic depletions within 20 inches (50 cm) of the surface.
 
 DRAINAGE AND PERMEABILITY: Somewhat poorly drained. Runoff is slow. Saturated hydraulic conductivity is moderately high to high in the upper part and high to very high in underlying material. Is subject to rare to occasional flooding.
 
@@ -58,7 +58,7 @@ USE AND VEGETATION: Most areas are in native forest consisting of white spruce, 
 
 DISTRIBUTION AND EXTENT: MLRA 229 Interior Alaska Lowlands. The series is of minor extent
 
-MLRA SOIL SURVEY REGIONAL OFFICE (MO) RESPONSIBLE: Portland, Oregon
+SOIL SURVEY REGIONAL OFFICE (SSRO) RESPONSIBLE: WASILLA, ALASKA
 SERIES ESTABLISHED: Greater Fairbanks Area, Alaska 2002
 
 REMARKS: Diagnostic horizons and features in this pedon include: low chroma redoximorphic depletions from 3 to 33 inches; irregular decrease in organic carbon with depth.

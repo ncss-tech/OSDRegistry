@@ -2,7 +2,7 @@ LOCATION FORWARD                CA
 
 Established Series
 Rev. SBJ/GMK/DJE/AEC
-12/2022
+01/2023
 
 FORWARD SERIES
 
@@ -12,7 +12,7 @@ TAXONOMIC CLASS: Ashy, mixed, mesic Typic Vitrixerands
 
 TYPICAL PEDON:  Forward sandy loam--on an east facing slope of 24 percent in an area logged but under a dense stand of conifers and shrubs at an elevation of 3,800 feet.  (Colors are for dry soil unless otherwise stated.)
 
-    0i--0 to 2 inches (0 to 5 cm); fresh pine and oak litter, partially decomposed in lower portion.
+    Oi--0 to 2 inches (0 to 5 cm); fresh pine and oak litter, partially decomposed in lower portion.
 
     A1--2 to 3 inches (5 to 8 cm); grayish brown (10YR 5/2) sandy loam, very dark brown (10YR 2/2) moist; moderate medium granular structure; soft, very friable; few very fine roots; many very fine pores; slightly acid; abrupt wavy boundary.
 
@@ -53,5 +53,6 @@ SERIES ESTABLISHED:  Tehama County, California, 1962.
 REMARKS:  The soils mapped as Forward in Napa County were formerly named the Butte series.
 
 Edits made after sdjr projects. Substitute particle-size class changed to ashy based on air-dry 15 bar water data from lab data for OSD profile (S1954-CA-52-011) of less than 12 percent. There is insufficient lab data to determine Andic soil properties. - AEC
+
 National Cooperative Soil Survey
 U.S.A.

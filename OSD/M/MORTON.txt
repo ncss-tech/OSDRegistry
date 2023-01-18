@@ -2,7 +2,7 @@ LOCATION MORTON                 ND+MT SD
 
 Established Series
 Rev. CJH
-10/98
+01/2023
 
 MORTON SERIES
 
@@ -14,9 +14,9 @@ TYPICAL PEDON:  Morton silt loam - native grassland.  (Colors are for dry soil u
 
    A--0 to 5 inches; very dark grayish brown (10YR 3/2) silt loam, very dark brown (10YR 2/2) moist; weak medium subangular blocky structure in the upper part and weak medium prismatic structure parting to moderate medium granular in the lower part; slightly hard, friable; many roots; few fine pores; neutral; clear wavy boundary.  (3 to 12 inches thick)
 
-   Bt1--5 to 10 inches; dark brown (10YR 4/3) silty clay loam, very dark grayish brown (10YR 3/2) moist; very dark brown (10YR 2/2) moist coatings on faces of peds; moderate medium prismatic structure parting to moderate medium and fine angular blocky; hard, friable; many roots; common fine pores; faint continuous clay films on faces of peds; neutral; gradual smooth boundary.
+   Bt1--5 to 10 inches; brown (10YR 4/3) silty clay loam, very dark grayish brown (10YR 3/2) moist; very dark brown (10YR 2/2) moist coatings on faces of peds; moderate medium prismatic structure parting to moderate medium and fine angular blocky; hard, friable; many roots; common fine pores; faint continuous clay films on faces of peds; neutral; gradual smooth boundary.
 
-   Bt2--10 to 15 inches; brown (10YR 5/3) silty clay loam, dark brown (10YR 4/3) moist; very dark grayish brown (10YR 3/2) moist coatings on faces of peds; moderate medium prismatic structure parting to moderate coarse to fine subangular blocky; hard, friable; common roots; many fine pores; faint patchy clay films on faces of peds; neutral; gradual smooth boundary.  (Combined Bt horizons 6 to 22 inches thick)
+   Bt2--10 to 15 inches; brown (10YR 5/3) silty clay loam, brown (10YR 4/3) moist; very dark grayish brown (10YR 3/2) moist coatings on faces of peds; moderate medium prismatic structure parting to moderate coarse to fine subangular blocky; hard, friable; common roots; many fine pores; faint patchy clay films on faces of peds; neutral; gradual smooth boundary.  (Combined Bt horizons 6 to 22 inches thick)
 
    Bk1--15 to 18 inches; light olive brown (2.5Y 5/4) silty clay loam, dark grayish brown (2.5Y 4/2) moist; few very dark grayish brown (10YR 3/2) moist coatings on faces of peds; moderate medium subangular blocky structure; hard, friable; common roots; many fine pores; few faint clay films on faces of peds; few masses of carbonates; slight effervescence; moderately alkaline; gradual smooth boundary.
 
@@ -40,7 +40,7 @@ COMPETING SERIES:  These are the Farland, Hanaker, Jekley and Xavier soils.  Far
 
 GEOGRAPHIC SETTING:  Morton soils are on level to rolling plains.  Slope gradient is commonly 0 to 6 percent, but it ranges to 15 percent.  The soils formed in material weathered from soft calcareous silty shales, siltstones, mudstones, and fine grained sandstones.  Some areas have a thin glacial till mantle.  Mean annual air temperature is 39 to 45 degrees F, and mean annual precipitation is 12 to 20 inches.  Most of the precipitation comes in the spring and summer.
 
-GEOGRAPHICALLY ASSOCIATED SOILS:  These are the competing Farland soils and the Arnegard, Belfield, Flasher, Grail, Regent, Rhoades, Savage, Vebar, Werner and Williams soils. The Farland and Savage soils are mainly in the stream valleys and on foot slopes.  Savage soils are fine and do not have soft bedrock within depths of 40 inches.  Arnegard and Grail soils are in concave swales and flats below the Morton soils. They have a mollic epipedon greater than 16 inches thick and do not have soft bedrock at depths of less than 40 inches.  Belfield, Regent, Rhoades and Vebar soils are on the same plain as the Morton soils. Belfield and Rhoades soils have natric horizons and are fine.  Regent soils are fine.   Vebar soils are coarse-loamy and underlain by soft sandstone.  Flasher and Werner soils are on the steeper hilltops and ridges.  They are less than 20 inches deep to a paralithic contact.  In addition, Flasher soils are sandy.  Williams soils are associated with Morton soils in a few localities where thick glacial till is intermixed with silty residual material.  They are fine-loamy and are formed in glacial till.
+GEOGRAPHICALLY ASSOCIATED SOILS:  These are the competing Farland soils and the Arnegard, Belfield, Flasher, Grail, Regent, Rhoades, Wyola, Vebar, Werner and Williams soils. The Farland and Wyola soils are mainly in the stream valleys and on foot slopes.  Wyola soils are fine and do not have soft bedrock within depths of 40 inches.  Arnegard and Grail soils are in concave swales and flats below the Morton soils. They have a mollic epipedon greater than 16 inches thick and do not have soft bedrock at depths of less than 40 inches.  Belfield, Regent, Rhoades and Vebar soils are on the same plain as the Morton soils. Belfield and Rhoades soils have natric horizons and are fine.  Regent soils are fine.   Vebar soils are coarse-loamy and underlain by soft sandstone.  Flasher and Werner soils are on the steeper hilltops and ridges.  They are less than 20 inches deep to a paralithic contact.  In addition, Flasher soils are sandy.  Williams soils are associated with Morton soils in a few localities where thick glacial till is intermixed with silty residual material.  They are fine-loamy and are formed in glacial till.
 
 DRAINAGE AND PERMEABILITY:  Well drained.  Runoff is negligible to medium depending on slope.  Permeability is moderate.
 
@@ -48,8 +48,7 @@ USE AND VEGETATION:  Cultivated areas are used for growing small grains, flax, c
 
 DISTRIBUTION AND EXTENT:  Southwestern North Dakota, northwestern South Dakota, and eastern Montana.  The soil is extensive.
 
-MLRA SOIL SURVEY REGIONAL OFFICE (MO) RESPONSIBLE: Denver, Colorado
-
+MLRA SOIL SURVEY REGIONAL OFFICE (MO) RESPONSIBLE: Salina, Kansas
 SERIES ESTABLISHED:  Morton area, North Dakota, 1907.
 
 REMARKS:  Diagnostic horizons and features recognized in this pedon are:  mollic epipedon - the zone from the surface of the soil to a depth of 10 inches (A and Bt1 horizons); argillic horizon - the zone from 5 to 15 inches (Bt1 and Bt2 horizons).

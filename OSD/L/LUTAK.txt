@@ -2,7 +2,7 @@ LOCATION LUTAK                  AK
 
 Established Series
 Rev. JWM/JPM
-1/85
+12/2022
 
 LUTAK SERIES
 
@@ -18,13 +18,13 @@ TYPICAL PEDON:  Lutak silt loam - on a slightly NE facing slope of 4 percent at 
 
     E--0 to 3 inches; grayish brown (10YR 5/2) silt loam; weak fine granular structure; very friable, nonsticky and nonplastic; many very fine, fine, medium, and coarse roots; very strongly acid (pH 4.5); abrupt wavy boundary.  (1 to 4 inches thick)
 
-    Bs1--3 to 5 inches; dark brown (7.5YR 4/4) sandy loam; weak fine granular structure; friable; nonsticky and nonplastic; common fine, medium and coarse roots; very strongly acid (pH 4.9); clear smooth boundary.  (2 to 6 inches thick)
+    Bs1--3 to 5 inches; brown (7.5YR 4/4) sandy loam; weak fine granular structure; friable; nonsticky and nonplastic; common fine, medium and coarse roots; very strongly acid (pH 4.9); clear smooth boundary.  (2 to 6 inches thick)
 
     2Bs2--5 to 8 inches; dark reddish brown (5YR 3/4) loamy sand; weak fine granular structure; friable; nonsticky and nonplastic; common fine and medium roots; 10 percent gravel; strongly acid (pH 5.3); clear smooth boundary.  (0 to 6 inches thick)
 
-    3Cl--8 to 14 inches; dark  brown (7.5YR 3/2) very gravelly loamy sand; weak fine granular structure; friable; nonsticky and nonplastic; few fine roots; 30 percent gravel, 5 percent cobble; medium acid (pH 5.6); clear wavy boundary.  (0 to 15 inches thick)
+    3Cl--8 to 14 inches; dark brown (7.5YR 3/2) very gravelly loamy sand; weak fine granular structure; friable; nonsticky and nonplastic; few fine roots; 30 percent gravel, 5 percent cobble; moderately acid (pH 5.6); clear wavy boundary.  (0 to 15 inches thick)
 
-    3C2--14 to 72 inches; dark brown (7.5YR 3/2) very gravelly loamy sand; massive; firm; nonsticky and nonplastic; 30 percent gravel, 10 percent cobble; many olive stains; medium acid (pH 5.7).
+    3C2--14 to 72 inches; dark brown (7.5YR 3/2) very gravelly loamy sand; massive; firm; nonsticky and nonplastic; 30 percent gravel, 10 percent cobble; many olive stains; moderately acid (pH 5.7).
 
 TYPE LOCATION:  Haines Area, Alaska.  NE 1/4, Section 17, T.27S., R55E., Copper River Meridian.
 
@@ -42,7 +42,7 @@ COMPETING SERIES:  These are the Bernice, Kasilof, Nikishka, and Yakutat (T) ser
 
 GEOGRAPHIC SETTING:  The Lutak soils occur on stream terraces.  The soils formed in a thin layer of eolian silt over glaciofluvial deposits.  The climate is humid maritime with the average annual precipitation ranging from 21 to 65 inches.  Mean annual temperature ranges from 40 to 43 degrees F.  The frost free season is 90 to 150 days.  The slope gradient commonly is less than 8 percent, but the range is 0 to 10 percent.  Elevation ranges from 50 to 1200 feet.
 
-GEOGRAPHICALLY ASSOCIATED SOILS:  These include the Ashmun, Chilkoot, Foad, Hollow, and Tsirku soils.  Ashmun, Chilkoot, Hollow, and Tsirku soils occur on adjacent floodplains and lack spodic horizons.  Foad soils occur on mountain sideslopes and are moderately deep over bedrock.
+GEOGRAPHICALLY ASSOCIATED SOILS:  These include the Ashmun, Chilkoot, Passage, Hollow, and Tsirku soils.  Ashmun, Chilkoot, Hollow, and Tsirku soils occur on adjacent floodplains and lack spodic horizons. Passage soils occur on mountain sideslopes and are moderately deep over bedrock.
 
 DRAINAGE AND PERMEABILITY:  Well drained; slow to medium runoff; permeability is moderate in the solum and moderately rapid in the substratum.
 
@@ -50,7 +50,7 @@ USE AND VEGETATION:  The Lutak soils are used for timber production, wildlife ha
 
 DISTRIBUTION AND EXTENT:  Southeastern Alaska.  The series is of minor extent.
 
-MLRA SOIL SURVEY REGIONAL OFFICE (MO) RESPONSIBLE: Portland, Oregon
+SOIL SURVEY REGIONAL OFFICE (SSRO) RESPONSIBLE: WASILLA, ALASKA
 
 SERIES ESTABLISHED:  Haines Area, Alaska.  1985
 
@@ -61,9 +61,3 @@ ADDITIONAL DATA:  Laboratory data is available on this soil:  NSSL Numbers 82P32
 
 National Cooperative Soil Survey
 U.S.A.
-
-
-
-
-
-

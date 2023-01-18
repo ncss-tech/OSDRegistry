@@ -2,7 +2,7 @@ LOCATION KRUBATE                AK
 
 Established Series
 Rev. JWM/JPM
-1/85
+12/2022
 
 KRUBATE SERIES
 
@@ -10,7 +10,7 @@ The Krubate series consists of very deep, well drained soils that formed in very
 
 TAXONOMIC CLASS: Sandy-skeletal, mixed Typic Humicryods
 
-TYPCIAL PEDON  Krubate extremely stony sandy loam - on a SW facing slope of 7 percent at 300 feet elevation under forest vegetation.  (All colors are for moist soil unless otherwise indicated).
+TYPCIAL PEDON:  Krubate extremely stony sandy loam - on a SW facing slope of 7 percent at 300 feet elevation under forest vegetation.  (All colors are for moist soil unless otherwise indicated).
 
     Oi-- 1 inch to 0; partially decomposed moss, roots, and leaves.  (1 to 7 inches thick).
 
@@ -22,9 +22,9 @@ TYPCIAL PEDON  Krubate extremely stony sandy loam - on a SW facing slope of 7 pe
 
     C1--11 to 16 inches; reddish brown (5YR 4/4) and strong brown (7.5YR 5/6) very gravelly loamy coarse sand; single grain; loose; nonsticky and nonplastic; 5 percent cobbles, 30 percent gravel; strongly acid (pH 5.2); clear smooth boundary.  (0 to 50 inches thick).
 
-    C2--16 to 24 inches; dark brown (7.5YR 4/4) and strong brown (7.5YR 4/6) very gravelly loamy coarse sand; massive; firm; nonsticky and nonplastic; 5 percent cobbles, 50 percent gravel; strongly acid (pH 5.4); gradual wavy boundary.  (0 to 20 inches thick).
+    C2--16 to 24 inches; brown (7.5YR 4/4) and strong brown (7.5YR 4/6) very gravelly loamy coarse sand; massive; firm; nonsticky and nonplastic; 5 percent cobbles, 50 percent gravel; strongly acid (pH 5.4); gradual wavy boundary.  (0 to 20 inches thick).
 
-    C3--24 to 60 inches; dark brown (7.5YR 4/2) and dark grayish brown (2.5Y 4/2) very gravelly loamy coarse sand; massive; firm; nonsticky and nonplastic; 5 percent cobbles, 50 percent gravel; strongly acid (pH 5.4).
+    C3--24 to 60 inches; brown (7.5YR 4/2) and dark grayish brown (2.5Y 4/2) very gravelly loamy coarse sand; massive; firm; nonsticky and nonplastic; 5 percent cobbles, 50 percent gravel; strongly acid (pH 5.4).
 
 TYPE LOCATION:  Haines Area, Alaska.  SW1/4 NW1/4, Section 2, R.59E., T.31S., Copper River Meridian.
 
@@ -42,7 +42,7 @@ COMPETING SERIES:  This is the tentative Serene series.  Serene (T) soils have a
 
 GEOGRAPHIC SETTING:  The Krubate soils occur on outwash plains.  They formed in very gravelly glaciofluvial deposits.  The climate is humid maritime with the average annual precipitation ranging from 55 to 65 inches.  Mean annual temperature ranges from 40 to 43 degrees F.  Slopes range from 5 to 70 percent.  Elevations range from 0 to 800 feet.
 
-GEOGRAPHICALLY ASSOCIATED SOILS:  These include the Foad, Kupreanof, Lutak, and Tolstoi soils.  Foad and Tolstoi soils occur on mountain sideslopes and are moderately deep and shallow over bedrock.  Lutak soils occur on alluvial terraces and gravelly moraines adjacent to alluvial plains and contain less than 6 percent organic carbon in the upper 4 inches of the spodic horizon.  Kupreanof soils occur on moraines and mountain sideslopes, and have loamy-skeletal substratums.
+GEOGRAPHICALLY ASSOCIATED SOILS:  These include the Passage, Kupreanof, Lutak, and Tolstoi soils.  Passage and Tolstoi soils occur on mountain sideslopes and are moderately deep and shallow over bedrock.  Lutak soils occur on alluvial terraces and gravelly moraines adjacent to alluvial plains and contain less than 6 percent organic carbon in the upper 4 inches of the spodic horizon.  Kupreanof soils occur on moraines and mountain sideslopes, and have loamy-skeletal substratums.
 
 DRAINAGE AND PERMEABILITY:  Well drained; medium to rapid runoff; permeability is moderate in the surface horizons and moderately rapid in the substratum.
 
@@ -50,7 +50,7 @@ USE AND VEGETATION:  The Krubate soils are used for timber production, wildlife 
 
 DISTRIBUTION AND EXTENT:  Southeastern Alaska.  The series is of minor extent.
 
-MLRA SOIL SURVEY REGIONAL OFFICE (MO) RESPONSIBLE: Portland, Oregon
+SOIL SURVEY REGIONAL OFFICE (SSRO) RESPONSIBLE: WASILLA, ALASKA
 
 SERIES ESTABLISHED:  Haines Area, Alaska.  1985.
 
@@ -61,9 +61,3 @@ ADDITIONAL DATA:  Laboratory data is available on this soil:  NSSL Numbers 82328
 
 National Cooperative Soil Survey
 U.S.A.
-
-
-
-
-
-

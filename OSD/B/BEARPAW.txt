@@ -2,7 +2,7 @@ LOCATION BEARPAW                MT+ND SD
 
 Established Series
 Rev.  NRS-JAL
-10/98
+01/2023
 
 BEARPAW SERIES
 
@@ -29,7 +29,6 @@ TYPICAL PEDON:  Bearpaw clay loam, in rangeland (colors are for dry soil unless 
 TYPE LOCATION:  Blaine County, Montana; 1,320 feet west and 1,200 feet south of the NE corner of sec. 8, T. 28 N., R. 22 E.
 
 RANGE IN CHARACTERISTICS:
-
 Soil temperature - 41 to 47 degrees F.
 
 Mollic epipedon thickness - 7 to 16 inches.
@@ -40,124 +39,117 @@ Depth to Bk horizon - 10 to 20 inches.
 
 A Bky or BCky horizon is allowed.
 
+A or Ap horizon - Value: 3, 4, or 5 dry; 2 or 3 moist
 
-A or Ap horizon - Value:  3, 4, or 5 dry; 2 or 3 moist
+Chroma: 2 or 3
 
-Chroma:  2 or 3
+Texture: loam or silty loam, but is typically clay loam when mixed to 6 or 7 inches.
 
-Texture:  loam or silty loam, but is typically clay loam when mixed to 6 or 7 inches.
+Clay content: 20 to 35 percent
 
-Clay content:  20 to 35 percent
+Rock fragments: 0 to 20 percent--0 to 5 percent cobbles; 0 to 15 percent pebbles
 
-Rock fragments:  0 to 20 percent--0 to 5 percent cobbles; 0 to 15 percent pebbles
+Reaction: pH 6.1 to 7.8
 
-Reaction:  pH 6.1 to 7.8
+Bt1 horizon - Value: 4 or 5 dry; 3 or 4 moist
 
+Chroma: 2 or 3
 
-Bt1 horizon - Value:  4 or 5 dry; 3 or 4 moist
+Texture: clay, clay loam or loam
 
-Chroma:  2 or 3
+Clay content: 27 to 50 percent
 
-Texture:  clay, clay loam or loam
+Rock fragments: 0 to 20 percent--0 to 5 percent cobbles; 0 to 15 percent pebbles
 
-Clay content:  27 to 50 percent
+Reaction: pH 6.1 to 7.8
 
-Rock fragments:  0 to 20 percent--0 to 5 percent cobbles; 0 to 15 percent pebbles
+Bt2 horizon - Value: 4 or 5 dry; 3 or 4 moist
 
-Reaction:  pH 6.1 to 7.8
+Chroma: 2 or 3
 
+Texture: clay loam or clay
 
-Bt2 horizon - Value:  4 or 5 dry; 3 or 4 moist
+Clay content: 35 to 50 percent
 
-Chroma:  2 or 3
-
-Texture:  clay loam or clay
-
-Clay content:  35 to 50 percent
-
-Rock fragments:  0 to 20 percent--0 to 5 percent cobbles; 0 to 15 percent pebbles
+Rock fragments: 0 to 20 percent--0 to 5 percent cobbles; 0 to 15 percent pebbles
 
 Reaction: pH 6.6 to 7.8
 
+Bt3 horizon - Value: 5 or 6 dry
 
-Bt3 horizon - Value:  5 or 6 dry
+Chroma: 2 or 3
 
-Chroma:  2 or 3
+Texture: clay loam or clay
 
-Texture:  clay loam or clay
+Clay content: 35 to 50 percent
 
-Clay content:  35 to 50 percent
+Rock fragments: 0 to 20 percent--0 to 5 percent cobbles; 0 to 15 percent pebbles
 
-Rock fragments:  0 to 20 percent--0 to 5 percent cobbles; 0 to 15 percent pebbles
+Reaction: pH 6.6 to 7.8
 
-Reaction:  pH 6.6 to 7.8
+Btk horizon - Hue: 10YR or 2.5Y
 
+Value: 5 or 6 dry; 4 or 5 moist
 
-Btk horizon - Hue:  10YR or 2.5Y
+Chroma: 2 or 3
 
-Value:  5 or 6 dry; 4 or 5 moist
+Texture: clay loam or clay
 
-Chroma:  2 or 3
+Clay content: 35 to 45 percent
 
-Texture:  clay loam or clay
+Rock fragments: 0 to 20 percent--0 to 5 percent cobbles; 0 to 15 percent pebbles
 
-Clay content:  35 to 45 percent
+EC -- 0 to 4 mmhos/cm
 
-Rock fragments:  0 to 20 percent--0 to 5 percent cobbles; 0 to 15 percent pebbles
+SAR -- 0 to 5
 
-EC:  0 to 4 mmhos/cm
+Calcium carbonate equivalent: 5 to 15 percent
 
-SAR:  0 to 5
+Reaction: pH 7.4 to 8.4
 
-Calcium carbonate equivalent:  5 to 15 percent
+Bk horizon - Hue: 10YR, 2.5Y, or 5Y
 
-Reaction:  pH 7.4 to 8.4
+Value: 5 or 6 dry; 4 or 5 moist
 
+Chroma: 2 or 3
 
-Bk horizon - Hue:  10YR, 2.5Y, or 5Y
+Texture: clay loam, silty clay loam, or clay
 
-Value:  5 or 6 dry; 4 or 5 moist
+Clay content: 30 to 45 percent
 
-Chroma:  2 or 3
+Rock fragments: 0 to 20 percent--0 to 5 percent cobbles; 0 to 15 percent pebbles
 
-Texture:  clay loam, silty clay loam, or clay
+Calcium carbonate equivalent: 5 to 15 percent
 
-Clay content:  30 to 45 percent
+EC -- 0 to 4 mmhos/cm
 
-Rock fragments:  0 to 20 percent--0 to 5 percent cobbles; 0 to 15 percent pebbles
+SAR -- 0 to 5
 
-Calcium carbonate equivalent:  5 to 15 percent
-
-EC:  0 to 4 mmhos/cm
-
-SAR:  0 to 5
-
-Reaction:  pH 7.4 to 8.4
-
+Reaction: pH 7.4 to 8.4
 
 BCk horizon - Hue: 2.5Y or 5Y
 
-Value:  5 or 6 dry; 4 or 5 moist
+Value: 5 or 6 dry; 4 or 5 moist
 
-Chroma:  2 or 3
+Chroma: 2 or 3
 
-Texture:  clay loam, silty clay loam, or clay
+Texture: clay loam, silty clay loam, or clay
 
-Clay content:  30 to 45 percent
+Clay content: 30 to 45 percent
 
-Rock fragments:  0 to 20 percent--0 to 5 percent cobbles; 0 to 15 percent pebbles
+Rock fragments: 0 to 20 percent--0 to 5 percent cobbles; 0 to 15 percent pebbles
 
-Bulk density:  1.55 and greater
+Bulk density: 1.55 and greater
 
-Calcium carbonate equivalent:  1 to 10 percent
+Calcium carbonate equivalent: 1 to 10 percent
 
-EC:  0 to 8 mmhos/cm
+EC -- 0 to 8 mmhos/cm
 
-SAR:  0 to 13
+SAR -- 0 to 13
 
-Gypsum:  1 to 5 percent
+Gypsum: 1 to 5 percent
 
-Reaction:  pH 7.4 to 9.0
+Reaction: pH 7.4 to 9.0
 
 Some pedons have a BCky horizon.
 
@@ -189,7 +181,7 @@ Reget (WY) - have a paralithic contact at a depth of 20 to 40 inches.
 
 Ricot (CO) - have a lithological discontinuity in the control section.
 
-Savage (MT) - did not form in till that has a moist bulk density of 1.55 or greater above a depth of 40 inches; did not form in till.
+Wyola (MT) - did not form in till that has a moist bulk density of 1.55 or greater above a depth of 40 inches; did not form in till.
 
 Tamaneen (MT) - did not form in till that has a moist bulk density of 1.55 or greater above a depth of 40 inches; formed in alluvium.
 
@@ -199,14 +191,13 @@ Tukuhnik (UT) - have hues redder than 10YR throughout and have a lithic contact 
 
 Work (MT) - did not form in till that has a moist bulk density of 1.55 or greater above a depth of 40 inches; formed in alluvium.
 
-
 GEOGRAPHIC SETTING:
 
-Landform - till plains; hills.
+Landform - till plains or hills.
 
-Elevation - 1,650 to 3,800 feet.
+Elevation - 1650 to 3800 feet.
 
-Slopes - 0 to 15 percent.
+Slopes -  0 to 15 percent.
 
 Parent material - clay loam glacial till.
 
@@ -216,16 +207,17 @@ Mean annual temperature - 40 to 45 degrees F. (in South Dakota ranges to 34 degr
 
 Frost-free period - 90 to 130 days.
 
+GEOGRAPHICALLY ASSOCIATED SOILS:
 
-DRAINAGE AND PERMEABILITY:  Well drained; moderately slow permeability through the Bk horizon and slow permeability in the underlying till.
+DRAINAGE AND PERMEABILITY: Well drained; moderately slow permeability through the Bk horizon and slow permeability in the underlying till.
 
-USE AND VEGETATION:  Bearpaw soils are used for dryland crops and as rangeland.  Potential native vegetation is mainly western wheatgrass, bluebunch wheatgrass, needleandthread, green needlegrass, and perennial forbs.
+USE AND VEGETATION: Bearpaw soils are used for dryland crops and as rangeland. Potential native vegetation is mainly western wheatgrass, bluebunch wheatgrass, needleandthread, green needlegrass, and perennial forbs.
 
-DISTRIBUTION AND EXTENT:  Bearpaw soils are moderately extensive on the till plains in northern and north-central Montana.
+DISTRIBUTION AND EXTENT: Bearpaw soils are moderately extensive on the till plains in northern and north-central Montana.
 
 MLRA SOIL SURVEY REGIONAL OFFICE (MO) RESPONSIBLE: St. Paul, Minnesota
 
-SERIES ESTABLISHED:  Blaine County, Montana, 1976.
+SERIES ESTABLISHED: Blaine County, Montana, 1976.
 
 REMARKS:  Soil interpretations records:  MT0139, MT1130.  Diagnostic horizons and features recognized in this pedon are:  a mollic epipedon from the soil surface to 10 inches (A, Bt1, and Bt2 horizons); and an argillic horizon and particle-size control section from 3 to 16 inches (Bt1, Bt2, and Bt3 horizons); horizons of secondary carbonate from 16 to 60 inches (Btk, Bk, BCk horizons).
 

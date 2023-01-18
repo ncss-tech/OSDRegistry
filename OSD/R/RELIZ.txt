@@ -2,22 +2,23 @@ LOCATION RELIZ                  CA
 
 Established Series
 Rev. TDC/RAD/LCL/KDA
-05/2003
+01/2023
 
 RELIZ SERIES
 
 The Reliz series consists of shallow, somewhat excessively drained or excessively drained soils on uplands. These soils formed in material weathered from acid shale. Slope is 30 to 75 percent. The mean annual precipitation is about 20 inches and the mean annual temperature is about 60 degrees F.
+
 TAXONOMIC CLASS: Loamy-skeletal, mixed, active, nonacid, thermic Lithic Xerorthents
 
 TYPICAL PEDON: Reliz channery clay loam - native brush, oak, and annual grasses (Colors are for dry soil unless otherwise stated.)
 
-     Al--0 to 5 inches; light brownish gray (10YR 6/2) channery clay loam, dark grayish brown (10YR 4/2) moist; strong fine and medium granular structure; slightly hard, very friable, moderately sticky, moderately plastic; many very fine, few fine and medium roots; many very fine, common fine and few medium tubular pores; many very fine, common fine and few medium tubular pores; slightly acid (pH 6.5); clear wavy boundary. (4 to 8 inches thick)
+     A1--0 to 5 inches; light brownish gray (10YR 6/2) channery clay loam, dark grayish brown (10YR 4/2) moist; strong fine and medium granular structure; slightly hard, very friable, moderately sticky, moderately plastic; many very fine, few fine and medium roots; many very fine, common fine and few medium tubular pores; many very fine, common fine and few medium tubular pores; slightly acid (pH 6.5); clear wavy boundary. (4 to 8 inches thick)
 
      A2--5 to 12 inches; light brownish gray (10YR 6/2) channery clay loam, dark grayish brown (10YR 4/2) moist; moderate fine and medium subangular blocky structure; slightly hard, very friable, moderately sticky, moderately plastic; many very fine and fine and few medium roots; many very fine and fine and few medium tubular pores; slightly acid (pH 6.5); abrupt irregular boundary. (6 to 10 inches thick)
 
      R--12 inches; Hard fractured shale.
 
-TYPE LOCATION: Monterey County, California; south of Greenfield, 1 mile up Reliz Canyon Road from Herbert Ranch; 650 feet west and 750 feet north of the southeast corner of section 35, T. l9 S., R. 6 E.MDB&M; Latitude 36 degrees, 13 minutes, 43 seconds north and Longitude 121 degrees, 16 minutes, 45 seconds west; USGS Reliz Canyon Topographic Quadrangle, NAD 27.
+TYPE LOCATION: Monterey County, California; south of Greenfield, 1 mile up Reliz Canyon Road from Herbert Ranch; 650 feet west and 750 feet north of the southeast corner of section 35, T. l9 S., R. 6 E. MDB&M; Latitude 36 degrees, 13 minutes, 43 seconds north and Longitude 121 degrees, 16 minutes, 45 seconds west; USGS Reliz Canyon Topographic Quadrangle, NAD 27.
 
 RANGE IN CHARACTERISTICS: Depth to a lithic contact of hard bedrock is 10 to 20 inches. Depth to bedrock is variable within short distances. The soil below a depth of about 5 inches usually is dry in all parts from May until late November or early December and usually is moist the remainder of the year. The mean annual soil temperature is 61 degrees to 64 degrees F. and the soil temperature usually is not below 47 degrees F. at any time.
 
@@ -43,7 +44,7 @@ REMARKS: The Range in Characteristics for this series does not include Reliz fam
 A Reliz Variant soil was sampled in Sacramento County as S82CA-067-005 and then correlated to Ranchoseco Variant. Ranchoseco soil is the only competing series with Reliz (prior to assignment of a Cation-Exchange Activity Class). This NSSL lab data had a CEC/Clay Ratio of 0.75, 0.68 and 0.53 from the surface to a lithic contact, however there was a pronounced clay increase from 15 to 18 centimeters in a 2Bt horizon in this soil that had the lowest CEC/Clay Ratio.
 
 Reliz series was assigned an "active" Cation-Exchange Activity Class in 2/2003 based on soil reaction and the nature of Monterey Shale Formation parent material. This should be investigated further.
- 
+
 Former Competing Series included Amador, Calleguas, Cieneba, Daulton, Etsel, Exchequer, Friant, Gaviota, Hideaway, Lodi, Lopez, Maymen and Whiterock series. Amador, Calleguas, Cieneba, Daulton, Exchequer, Friant, Gaviota, Maymen and Whiterock soils, on uplands, hills or mountains, have a loamy particle-size control section. Etsel soils (MLRA's 5 and 15), on mountains, have a mesic soil temperature regime. Hideaway soils, on nearly level to rolling relief, have an acid reaction class. Lodi soils, on uplands, have a clayey particle-size control section. Lopez soils, on narrow divides, have a mollic epipedon.  
 
 

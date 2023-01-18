@@ -2,7 +2,7 @@ LOCATION SMITHPOND              UT
 
 Established Series
 Rev. CSW/JWB
-03/2011
+01/2023
 
 SMITHPOND SERIES
 
@@ -46,8 +46,8 @@ Texture:  very fine sandy loam, gravelly fine sandy loam, very stony fine sandy 
 Clay content:  8 to 18 percent
 Rock fragments:  0 to 60 percent total; 0 to 40 percent stones, 0 to 30 percent cobbles, 0 to 35 percent gravel
 Calcium carbonate equivalent:  1 to 10 percent
-EC (mmhos/cm):  0 to 2
-SAR:  0 to 1
+Electrical conductivity: 0 to 2 mmhos/cm
+Sodium adsorption ratio: 0 to 1
 Reaction:  slightly alkaline or moderately alkaline
 
 Bw horizon:
@@ -58,8 +58,8 @@ Texture:  fine sandy loam
 Clay content:  8 to 18 percent
 Rock fragments:  0 to 15 percent total; 0 to 3 percent stones and cobbles, 0 to 15 percent gravel
 Calcium carbonate equivalent:  1 to 15 percent
-EC (mmhos/cm):  0 to 2
-SAR:  0 to 1
+Electrical conductivity: 0 to 2 mmhos/cm
+Sodium adsorption ratio: 0 to 1
 Reaction:  slightly alkaline or moderately alkaline
 
 Bk horizons:
@@ -70,9 +70,9 @@ Texture:  fine sandy loam, loam, gravelly fine sandy loam, very fine sandy loam
 Clay content:  10 to 20 percent
 Rock fragments:  0 to 35 percent total in any individual horizon; 0 to 3 percent stones, 0 to 10 percent cobbles, 0 to 30 percent gravel
 Calcium carbonate equivalent:  10 to 40 percent
-EC (mmhos/cm):  0 to 2
+Electrical conductivity: 0 to 2 mmhos/cm
 Gypsum:  0 to 3 percent
-SAR:  0 to 2
+Sodium adsorption ratio: 0 to 2
 Reaction:  moderately alkaline or strongly alkaline
 
 BCk, 2C horizons (usually below the particle-size control section):
@@ -83,15 +83,15 @@ Texture:  gravelly fine sandy loam, very stony fine sandy loam
 Clay content:  4 to 20 percent
 Rock fragments:  15 to 35 percent total; 0 to 15 percent stones, 0 to 20 percent cobbles, 5 to 35 percent gravel
 Calcium carbonate equivalent:  10 to 30 percent
-EC (mmhos/cm):  0 to 4
+Electrical conductivity: 0 to 4 mmhos/cm
 Gypsum:  0 to 3 percent
-SAR:  0 to 2
+Sodium adsorption ratio: 0 to 2
 Reaction:  moderately alkaline or strongly alkaline
 
-COMPETING SERIES:  These are the Abracon (UT), Anasazi (UT), Chroder (CO), Chugcity (WY), Chupadera (NM), Cobbra (UT), Harvey (NM), Kaiar (UT), Milok (UT), Mivida (UT), Nala T (CO), Sazi (UT), and Yattle (CO) series. 
+COMPETING SERIES:  These are the Abracon (UT), ThumbRock (UT), Chroder (CO), Chugcity (WY), Chupadera (NM), Cobbra (UT), Harvey (NM), Kaiar (UT), Milok (UT), Mivida (UT), Nala T (CO), Sazi (UT), and Yattle (CO) series. 
 Abracon and Harvey soils average more than 18 percent total clay in the particle-size control section.
 Chroder soils have less than 15 percent rock fragments in the lower part of the calcic horizon and below.
-Anasazi, Chugcity, Chupadera, Kaiar, Mivida, and Sazi soils have a lithic or paralithic contact. 
+ThumbRock, Chugcity, Chupadera, Kaiar, Mivida, and Sazi soils have a lithic or paralithic contact. 
 Cobbra soils have a lithologic discontinuity to glaciofluvial deposits containing greater than 35 percent rock fragments. 
 Milok and Mivida soils have mean annual soil temperature higher than 11 degrees C. (52 degrees F.).
 Nala soils have a lithologic discontinuity over sandy-skeletal materials.
@@ -107,7 +107,7 @@ Mean annual precipitation:  20 to 30 cm
 Precipitation pattern:  Wettest months are July to October and driest months are December and June.
 Frost-free period:  110 to 150 days
 
-GEOGRAPHICALLY ASSOCIATED SOILS:  These are the Barx, Leebench, Wayneco and competing Anasazi series.  Barx soils have an argillic horizon and are on alluvial flats under Wyoming big sagebrush.  Leebench soils have a natric horizon and are on alluvial fans under Castlevalley saltbush.  Anasazi and Wayneco soils are less than 100 cm to a lithic contact and are on ridges of structural benches.
+GEOGRAPHICALLY ASSOCIATED SOILS:  These are the Barx, Leebench, Wayneco and competing ThumbRock series.  Barx soils have an argillic horizon and are on alluvial flats under Wyoming big sagebrush.  Leebench soils have a natric horizon and are on alluvial fans under Castlevalley saltbush.  ThumbRock and Wayneco soils are less than 100 cm to a lithic contact and are on ridges of structural benches.
 
 DRAINAGE AND PERMEABILITY:  Well drained, low or very low runoff, moderate permeability (moderately high saturated hydraulic conductivity).  
 

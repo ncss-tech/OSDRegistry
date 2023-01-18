@@ -2,7 +2,7 @@ LOCATION KAIAR                  UT
 
 Established Series
 Rev. CSW/JWB
-03/2011
+01/2023
 
 KAIAR SERIES
 
@@ -21,7 +21,7 @@ TYPICAL PEDON:  Kaiar loamy fine sand, on a west-southwest facing, convex, 4 per
     BCk--70 to 88 cm; very pale brown (10YR 7/3) gravelly fine sandy loam, brown (10YR 5/3), moist; weak fine subangular blocky structure; slightly hard, very friable, slightly sticky and slightly plastic; few fine and common very fine roots; 10 percent channers and 15 percent gravel; violently effervescent (20 percent calcium carbonate equivalent), common fine threadlike masses of carbonates, common distinct carbonate coats on bottom of rock fragments, carbonates are finely disseminated throughout; moderately alkaline (pH 8.4); abrupt smooth boundary.  (combined thickness of the Bk and/or BCk horizons is 20 to 58 cm)
 
     R--88 to 98 cm; calcareous sandstone bedrock, Curtis formation; common distinct carbonate coats on bedrock.
-  
+
 TYPE LOCATION:  Emery County, Utah; about 10.5 kilometers (6.5 miles) west-southwest of Woodside ghost town; located in an unsectionized area about 6,400 feet west and 1,100 feet south of the northwest corner of section 26, Township 18 S., Range 13 E.; Dry Mesa USGS quad; lat. 39 degrees 13 minutes 48 seconds N. and long. 110 degrees 27 minutes 39 seconds W., NAD 83
 
 RANGE IN CHARACTERISTICS:
@@ -46,8 +46,8 @@ Texture:  loamy fine sand, fine sandy loam, gravelly fine sandy loam
 Clay content:  3 to 18 percent
 Rock fragments:  0 to 33 percent total; 0 to 3 percent cobbles, 0 to 30 percent channers or gravel
 Calcium carbonate equivalent:  1 to 15 percent
-EC (mmhos/cm):  0 to 4
-SAR:  0 to 2
+Electrical conductivity: 0 to 4 mmhos/cm
+Sodium adsorption ratio: 0 to 2
 Reaction:  slightly alkaline or moderately alkaline
 
 Bw horizon:
@@ -58,8 +58,8 @@ Texture:  fine sandy loam, gravelly fine sandy loam
 Clay content:  5 to 18 percent
 Rock fragments:  0 to 25 percent total; 0 to 3 percent cobbles, 0 to 20 percent channers or gravel
 Calcium carbonate equivalent:  1 to 20 percent
-EC (mmhos/cm):  0 to 4
-SAR:  0 to 2
+Electrical conductivity: 0 to 4 mmhos/cm
+Sodium adsorption ratio: 0 to 2
 Reaction:  slightly alkaline to strongly alkaline
 
 Bk and BCk horizons:
@@ -70,13 +70,13 @@ Texture:  fine sandy loam, gravelly fine sandy loam, channery fine sandy loam, g
 Clay content:  5 to 20 percent
 Rock fragments:  10 to 35 percent total; 0 to 20 percent cobbles, 0 to 45 percent channers or gravel
 Calcium carbonate equivalent:  10 to 40 percent
-EC (mmhos/cm):  0 to 8
-SAR:  0 to 4
+Electrical conductivity: 0 to 8 mmhos/cm
+Sodium adsorption ratio: 0 to 2
 Reaction:  slightly alkaline to strongly alkaline
 
-COMPETING SERIES:  These are the Abracon (UT), Anasazi (UT), Chroder (CO), Chugcity (WY), Chupadera (NM), Cobbra (UT), Harvey (NM), Milok (UT), Mivida (UT), Nala (T)(NM) Sazi (UT), and Yattle (CO) series.  
+COMPETING SERIES:  These are the Abracon (UT), ThumbRock (UT), Chroder (CO), Chugcity (WY), Chupadera (NM), Cobbra (UT), Harvey (NM), Milok (UT), Mivida (UT), Nala (T)(NM) Sazi (UT), and Yattle (CO) series.  
 Abracon, Chroder, Cobbra, Harvey, Milok, Mivida, Nala and Yattle soils are deeper than 102 cm to a lithic or paralithic contact.
-Anasazi and Sazi soils have mean annual soil temperature higher than 11 degrees C.
+ThumbRock and Sazi soils have mean annual soil temperature higher than 11 degrees C.
 Chugcity soils have paralithic contact. 
 Chupadera soils have peak periods of precipitation affecting the soil moisture control section in May and June.
 
@@ -101,7 +101,7 @@ Named for a Paiute woman photographed by John Hillers in the 1872 Powell expedit
 
 MLRA SOIL SURVEY REGIONAL OFFICE (MO) RESPONSIBLE:  Bozeman, Montana
 
-SERIES ESTABLISHED:  Emery County, Utah, Emery Area, Utah, Parts of Emery, Carbon, Grand, and Sevier Counties, 2011.  Named for Paiute woman photographed by John Hillers of the 1872 Powell expedition. The pronunciation is KYE-ar. Prior to 2010 Kaiar soils were included in the Anasazi series.
+SERIES ESTABLISHED:  Emery County, Utah, Emery Area, Utah, Parts of Emery, Carbon, Grand, and Sevier Counties, 2011.  Named for Paiute woman photographed by John Hillers of the 1872 Powell expedition. The pronunciation is KYE-ar. Prior to 2010 Kaiar soils were included in the ThumbRock series.
 
 REMARKS: 
 Diagnostic horizons and features recognized in this pedon are:

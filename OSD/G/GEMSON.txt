@@ -2,7 +2,7 @@ LOCATION GEMSON                 ID+UT
 
 Established Series
 Rev. WJL
-02/97
+01/2023
 
 GEMSON SERIES
 
@@ -12,11 +12,11 @@ TAXONOMIC CLASS: Fine, smectitic, mesic Calcic Argixerolls
 
 TYPICAL PEDON:  Gemson very cobbly clay loam - rangeland.  (Colors are for dry soils unless otherwise noted.)
 
-    A11--0 to 2 inches; dark grayish brown (10YR 4/2), very cobbly light clay loam containing about 15 percent angular gravel; very dark brown (10YR 2/2) moist; moderate very fine platy, parting to strong or moderate, very fine granular structure; slightly hard, very friable, slightly sticky, slightly plastic; common very fine and fine roots; many very fine interstitial pores; noncalcareous; mildly alkaline (pH 7.4); clear smooth boundary.  (2 to 8 inches thick)
+    A11--0 to 2 inches; dark grayish brown (10YR 4/2), very cobbly light clay loam containing about 15 percent angular gravel; very dark brown (10YR 2/2) moist; moderate very fine platy, parting to strong or moderate, very fine granular structure; slightly hard, very friable, slightly sticky, slightly plastic; common very fine and fine roots; many very fine interstitial pores; noncalcareous; slightly alkaline (pH 7.4); clear smooth boundary.  (2 to 8 inches thick)
 
-    A12--2 to 8 inches; dark grayish brown (10YR 4/2), cobbly clay loam, very dark brown (10YR 2/2) moist; weak fine subangular blocky, parting to strong, fine and medium granular structure; slightly hard, very friable, sticky, plastic; common very fine and fine, few very fine interstitial and very fine tubular pores; few very thin clay films on peds; noncalcareous; mildly alkaline (pH 7.4); clear wavy boundary.  (3 to 7 inches thick)
+    A12--2 to 8 inches; dark grayish brown (10YR 4/2), cobbly clay loam, very dark brown (10YR 2/2) moist; weak fine subangular blocky, parting to strong, fine and medium granular structure; slightly hard, very friable, sticky, plastic; common very fine and fine, few very fine interstitial and very fine tubular pores; few very thin clay films on peds; noncalcareous; slightly alkaline (pH 7.4); clear wavy boundary.  (3 to 7 inches thick)
 
-    B21t--8 to 15 inches; brown (7.5YR 4/3) clay, dark brown (7.5YR 3/2) moist; dark brown (7.5YR 4/2) coating on peds; moderate coarse prismatic, parting to strong coarse and medium angular blocky structure; extremely hard, extremely firm, very sticky, very plastic; few very fine, fine and medium roots; few very fine pores; medium continuous clay films on peds; few uncoated silt grains on peds; noncalcareous; mildly alkaline (pH 7.8); clear wavy boundary.  (5 to 9 inches thick)
+    B21t--8 to 15 inches; brown (7.5YR 4/3) clay, dark brown (7.5YR 3/2) moist; dark brown (7.5YR 4/2) coating on peds; moderate coarse prismatic, parting to strong coarse and medium angular blocky structure; extremely hard, extremely firm, very sticky, very plastic; few very fine, fine and medium roots; few very fine pores; medium continuous clay films on peds; few uncoated silt grains on peds; noncalcareous; slightly alkaline (pH 7.8); clear wavy boundary.  (5 to 9 inches thick)
 
     B22t--15 to 24 inches; brown (7.5YR 5/3) clay, dark brown (7.5YR 4/3) moist; dark reddish gray (5YR 4/2) coating on peds, dark reddish brown (5YR 3/3) moist; moderate coarse prismatic, parting to strong medium and coarse angular blocky structure; extremely hard, very firm, very sticky, very plastic; few very fine, fine and medium roots in the cracks; few very fine pores; dense; medium continuous clay films on peds; few medium distinct lime splotches, matrix noncalcareous; moderately alkaline (pH 8.1); gradual wavy boundary.  (5 to 12 inches thick)
 
@@ -36,7 +36,7 @@ COMPETING SERIES:  These are the Durkee, Flowell, Gem, Gemid, Newell, Oxford, Re
 
 GEOGRAPHIC SETTING:  The soils are on level to steep alluvial fans and colluvial footslopes and other parts of uplands at elevations of about 2,500 to 5,000 feet.  Slopes are mostly between 5 and 35 percent and range from 0 to 50 percent.  The soils formed in alluvium and colluvium from basaltic materials.  The climate is dry subhumid and has dry summers.  Mean annual precipitation is 12 to 16 inches, including 3 to 5 feet of snowfall.  Average freeze-free period is 120 to 160 days.
 
-GEOGRAPHICALLY ASSOCIATED SOILS:  These are the Bakeoven, Gross, Lickskillet, Reywat, and Squaw soils and the competing Newell and Gem soils.  Bakeoven, Gross, Lickskillet, Reywat, and Squaw soils have a moderately fine or medium textured B2t horizon.
+GEOGRAPHICALLY ASSOCIATED SOILS:  These are the Bakeoven, Gross, Lickskillet, Reywat, and Yergenson soils and the competing Newell and Gem soils.  Bakeoven, Gross, Lickskillet, Reywat, and Yergenson soils have a moderately fine or medium textured B2t horizon.
 
 DRAINAGE AND PERMEABILITY:  Well drained; medium to rapid runoff; slow permeability.
 
@@ -51,6 +51,4 @@ SERIES ESTABLISHED:  Owyhee County, Idaho, 1969.
 REMARKS:  The Gemson soils were classified formerly as Chestnut soils.
 
 National Cooperative Soil Survey
-U. S. A.
-
-
+U.S.A.
