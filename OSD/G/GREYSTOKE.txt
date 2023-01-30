@@ -2,7 +2,7 @@ LOCATION GREYSTOKE              OR
 
 Established Series
 Rev. DRJ/TDT
-12/2022
+01/2023
 
 GREYSTOKE SERIES
 
@@ -12,17 +12,17 @@ TAXONOMIC CLASS: Loamy-skeletal, mixed, superactive, frigid Pachic Ultic Argixer
 
 TYPICAL PEDON:  Greystoke stony loam, forested.  (Colors are for moist soil unless otherwise noted.)
 
- O--2 inches to 0; partially decomposed needles and twigs.
+ Oi--0 inches to 2; partially decomposed needles and twigs.
 
- A1--0 to 3 inches; dark reddish brown (5YR 2.5/2) stony loam, brown (7.5YR 4/3) dry; moderate very fine granular structure; soft, very friable, slightly sticky and slightly plastic; many very fine and common fine, medium, and coarse roots; many very fine irregular pores; 10 percent gravel and 25 percent cobbles and stones; moderately acid (pH 5.8); abrupt smooth boundary.  (2 to 12 inches thick)
+ A1--2 to 5 inches; dark reddish brown (5YR 2.5/2) stony loam, brown (7.5YR 4/3) dry; moderate very fine granular structure; soft, very friable, slightly sticky and slightly plastic; many very fine and common fine, medium, and coarse roots; many very fine irregular pores; 10 percent gravel and 25 percent cobbles and stones; moderately acid (pH 5.8); abrupt smooth boundary.  (2 to 12 inches thick)
 
- A2--3 to 13 inches; dark reddish brown (5YR 3/2) very cobbly loam, brown (7.5YR 4/3) dry; moderate very fine and fine subangular blocky structure parting to moderate fine granular; soft, very friable, slightly sticky and slightly plastic; many very fine and common fine, medium, and coarse roots; many very fine irregular pores; 15 percent gravel and 30 percent cobbles and stones; moderately acid (pH 5.6); abrupt wavy boundary.  (0 to 16 inches thick)
+ A2--5 to 15 inches; dark reddish brown (5YR 3/2) very cobbly loam, brown (7.5YR 4/3) dry; moderate very fine and fine subangular blocky structure parting to moderate fine granular; soft, very friable, slightly sticky and slightly plastic; many very fine and common fine, medium, and coarse roots; many very fine irregular pores; 15 percent gravel and 30 percent cobbles and stones; moderately acid (pH 5.6); abrupt wavy boundary.  (0 to 16 inches thick)
 
- BA--13 to 23 inches; dark reddish brown (5YR 3/3) very cobbly loam, brown (7.5YR 4/4) dry; moderate very fine and fine angular blocky structure; hard, firm, slightly sticky and slightly plastic; common very fine and few fine, medium, and coarse roots; common very fine tubular pores; 20 percent gravel and 30 percent cobbles and stones; moderately acid (pH 5.6); clear wavy boundary.  (0 to 16 inches thick)
+ BA--15 to 25 inches; dark reddish brown (5YR 3/3) very cobbly loam, brown (7.5YR 4/4) dry; moderate very fine and fine angular blocky structure; hard, firm, slightly sticky and slightly plastic; common very fine and few fine, medium, and coarse roots; common very fine tubular pores; 20 percent gravel and 30 percent cobbles and stones; moderately acid (pH 5.6); clear wavy boundary.  (0 to 16 inches thick)
 
- Bt--23 to 42 inches; dark reddish brown (5YR 3/3) extremely gravelly clay loam, brown (7.5YR 4/4) dry; moderate very fine and fine angular blocky structure; hard, firm, sticky and plastic; few very fine, fine, and medium roots; common very fine tubular pores; few thin clay films on ped faces and in pores; 50 percent gravel and 20 percent cobbles; moderately acid (pH 5.6); clear wavy boundary.  (10 to 30 inches thick)
+ Bt--25 to 44 inches; dark reddish brown (5YR 3/3) extremely gravelly clay loam, brown (7.5YR 4/4) dry; moderate very fine and fine angular blocky structure; hard, firm, sticky and plastic; few very fine, fine, and medium roots; common very fine tubular pores; few thin clay films on ped faces and in pores; 50 percent gravel and 20 percent cobbles; moderately acid (pH 5.6); clear wavy boundary.  (10 to 30 inches thick)
 
- Cr--42 inches; weathered andesite.
+ Cr--44 inches; weathered andesite.
 
 TYPE LOCATION:  Klamath County, Oregon; approximately 600 feet north and 1,300 feet east of the southwest corner of sec. 32, T. 39 S., R. 7 E., W.M.
 
@@ -52,15 +52,13 @@ MLRA SOIL SURVEY REGIONAL OFFICE (MO) RESPONSIBLE: Davis, California
 SERIES ESTABLISHED:  Jackson County Area, Oregon (Klamath County part); 1988.
 
 REMARKS:
+Diagnostic horizons and features:
+- Mollic epipedon - 2 to 25 inches.
+- Argillic horizon - 25 to 44 inches.
+
 The superactive cation exchange activity class was added in 03/2003 to the taxonomic classification by the National Soil Survey Center on request of the Reno MLRA office, without review of the soil series property data. The remainder of this document has not been updated.
 
-ADDITIONAL DATA:  This pedon was lab. sampled at 0-3, 3-13, 13-23 and 23-42 inches for organic carbon, base saturation and particle-size.
-
-REMARKS:  Diagnostic horizons and features:
-
-- Mollic epipedon - 0 to 23 inches.
-
-- Argillic horizon - 23 to 42 inches.
+ADDITIONAL DATA:  This pedon was lab. sampled at 2-5, 5-15, 15-25 and 25-44 inches for organic carbon, base saturation and particle-size.
 
 National Cooperative Soil Survey
 U.S.A.

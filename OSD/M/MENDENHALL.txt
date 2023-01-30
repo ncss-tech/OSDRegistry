@@ -1,55 +1,78 @@
 LOCATION MENDENHALL             CO
 
 Established Series
-Rev. AJC/LF/JEB
-03/2003
+Rev. AJC-LF-KLS
+01/2023
 
 MENDENHALL SERIES
 
-Typically, Mendenhall soils have dark gray and gray, very friable, granular, calcareous A horizons about 26 inches thick that are mottled in the lower part over light brownish gray, strongly mottled, sandy loam B2g horizons with low chroma.
+The Mendenhall series consists of very deep, poorly drained soils with moderately rapid permeability. These soils formed in thick calcareous moderately coarse textured alluvial materials derived from sedimentary, metamorphic, and igneous rocks and are found on terraces, stream bottoms, and alluvial fans.  Slopes are 0 to 6 percent.  Mean annual precipitation is about 310 mm, and mean annual air temperature is about 3 degrees C.
 
 TAXONOMIC CLASS: Coarse-loamy, mixed, superactive, calcareous Cumulic Cryaquolls
 
-TYPICAL PEDON:  Mendenhall loam - grassland.  (Colors are for dry soil              unless otherwise noted.)
+TYPICAL PEDON:  Mendenhall loam - grassland.  (Colors are for dry soil unless otherwise noted.)
 
-    01--3 inches to 0; undecomposed organic material mostly the remains of grasses.
+    Oi--0 to 8 cm; undecomposed organic material mostly the remains of grasses.
 
-    A11--0 to 10 inches; dark gray (10YR 4/1) loam, black (10YR 2/1) moist; moderate medium and fine granular and crumb structure; soft, very friable, slightly sticky, slightly plastic; 10 percent gravel; calcareous; moderately alkaline (pH 8.0); clear smooth boundary.
-(4 to 12 inches)
+    A--8 to 33 cm; dark gray (10YR 4/1) loam, black (10YR 2/1) moist; moderate medium and fine granular and crumb structure; soft, very friable, slightly sticky, slightly plastic; 10 percent gravel; calcareous; moderately alkaline (pH 8.0); clear smooth boundary. (10 to 30 cm)
 
-    A12g--10 to 26 inches; gray (10YR 5/1) sandy loam, very dark gray (10YR 3/1) moist; common medium prominent mottles of reddish brown (5YR 5/3) moist and dark yellowish brown (10YR 4/4) moist; weak medium subangular blocky structure that parts to fine granules; slightly hard, very friable, nonsticky, nonplastic; 10 percent gravel; calcareous; moderately alkaline (pH 8.2); clear smooth boundary.
-(8 to 40 inches thick)
+    Ag--33 to 74 cm; gray (10YR 5/1) sandy loam, very dark gray (10YR 3/1) moist; common medium prominent mottles of reddish brown (5YR 5/3) moist and dark yellowish brown (10YR 4/4) moist; weak medium subangular blocky structure that parts to fine granules; slightly hard, very friable, nonsticky, nonplastic; 10 percent gravel; calcareous; moderately alkaline (pH 8.2); clear smooth boundary. (20 to 100 cm thick)
 
-    B2g--26 to 50 inches; light brownish gray (10YR 6/2) sandy loam, dark grayish brown (10YR 4/2) moist; many large prominent mottles of reddish brown (5YR 5/3) moist, dark yellowish brown (10YR 4/4) moist, and dark gray (2.5Y 4/1) moist; massive; slightly hard, very friable, nonsticky, nonplastic; 10 percent gravel; calcareous; moderately alkaline (pH 8.2).
+    Bg--74 to 135 cm; light brownish gray (10YR 6/2) sandy loam, dark grayish brown (10YR 4/2) moist; many large prominent mottles of reddish brown (5YR 5/3) moist, dark yellowish brown (10YR 4/4) moist, and dark gray (2.5Y 4/1) moist; massive; slightly hard, very friable, nonsticky, nonplastic; 10 percent gravel; calcareous; moderately alkaline (pH 8.2).
 
-TYPE LOCATION:  Jackson County, Colorado; 1,550 feet west and 1,725 feet south of NE corner Sec. 3, T. 8 N., R. 79 W.
+TYPE LOCATION:  Jackson County, Colorado; about 470 meters west and 525 meters south of NE corner of sec. 3, T. 8 N., R. 79 W.
 
-RANGE IN CHARACTERISTICS:  Mean annual soil temperature is about 40 degrees F. and mean summer soil temperature is about 52 degrees F.  The mollic epipedon ranges from 20 to 50 inches thick.  Conductivity ranges from 0 to 16 millimhos in a major part of the control section and there is no subhorizon more than 4 inches thick a depth of above 20 inches that exceeds 15 percent.  The control section is typically sandy loam or gravelly sandy loam but averages 5 to 18 percent clay, 5 to 40 percent silt, and 45 to 82 percent sand with more than 35 percent fine or coarser sand.  Rock fragments range from 0 to 35 percent in a major part of the control section and are mainly 1/4 to 10 inches in diameter.
+RANGE IN CHARACTERISTICS:  
+Mean annual soil temperature--4 degrees C
+Mean summer soil temperature--11 degrees C
+Thickness of mollic epipedon--50 to 125 cm
+Electrical conductivity--0 to 16 mmhos/cm, with no subhorizon more than 10 cm thick above 50 cm depth that exceeds 15 percent
 
-The A horizon has hue of 2.5Y through 7.5YR, value of 4 or 5 dry, 2 or 3 moist, and chroma of neutral through 3.  It ranges from mildly to strongly alkaline.
+Particle-size control section:
+Texture--sandy loam or gravelly sandy loam
+Clay content--5 to 18 percent
+Sand content--45 to 82 percent sand, with more than 35 percent fine or coarser sand
+Rock fragment content--0 to 35 percent and are mainly 5 to 250 mm in diameter
 
-The B2g horizon has hue of 5Y through 7.5YR, value of 5 through 7 moist, and 4 through 6 dry, and chroma of neutral through 2.  It ranges from moderately to strongly alkaline.
+A horizon
+Hue--2.5Y through 7.5YR
+Value--4 or 5 dry, 2 or 3 moist
+Chroma--neutral through 3
+Reaction--pH 7.4 to 9.0
+
+Bg horizon
+Hue--5Y through 7.5YR
+Value--5 through 7 moist, and 4 through 6 dry
+Chroma--neutral through 2
+Reaction--pH 7.9 to 9.0
 
 COMPETING SERIES:  These are the Dobrow, Fleer, and Tepee soils.  Dobrow soils are noncalcareous.  Fleer soils have sandy-sketetal material in the lower part of the control section.  Tepee soils have more that 18 percent clay and are noncalcareous.
 
-GEOGRAPHIC SETTING:  Mendenhall soils are on nearly level to moderately sloping terraces, stream bottoms, and alluvial fans.  Slopes typically range from 0 to about 6 percent.  These soils formed in thick calcareous moderately coarse textured alluvial materials derived from sedimentary, metamorphic, and igneous rocks.  At the type location the average annual precipitation is 12 inches with peak periods of precipitation in the spring and early summer.  Mean annual temperature is 38 degree F. and mean summer temperature is 57 degrees F.
+GEOGRAPHIC SETTING:  
+Landform--nearly level to moderately sloping terraces, stream bottoms, and alluvial fans
+Elevation--2375 to 2625 meters
+Slope--0 to about 6 percent
+Parent material--thick calcareous, moderately coarse textured alluvial materials derived from sedimentary, metamorphic, and igneous rocks
+Mean annual precipitation--260 to 380 mm with peak periods of precipitation in the spring and early summer
+Mean annual air temperature--2 to 3 degrees C
+Mean summer air temperature--14 degrees C
+Frost-free period--30 to 40 days
 
-GEOGRAPHICALLY ASSOCIATED SOILS:  These are the competing Dobrow and Fleer soils.
+GEOGRAPHICALLY ASSOCIATED SOILS:  None listed
 
-DRAINAGE AND PERMEABILITY:  Poorly drained; slow to very slow runoff; moderately rapid permeability.
+DRAINAGE AND PERMEABILITY:  Poorly drained; slow to very slow runoff; moderately rapid permeability
 
-USE AND VEGETATION:  These soils are used for grazing or as native hay meadow.  Native vegetation is timothy, red top, Junegrass, willows, sedges, and rushes.
+USE AND VEGETATION:  These soils are used for grazing or as native hay meadow.  Native vegetation is timothy, redtop, Junegrass, willows, sedges, and rushes.
 
-DISTRIBUTION AND EXTENT:  High mountain valleys of Colorado.  The series is of moderate extent.
+DISTRIBUTION AND EXTENT:  Mendenhall soils are of small extent in the high mountain valleys of Colorado; MLRA 48B.
 
-MLRA SOIL SURVEY REGIONAL OFFICE (MO) RESPONSIBLE: Bozeman, Montana
+SOIL SURVEY REGIONAL OFFICE (SSRO) RESPONSIBLE:  Bozeman, Montana
 
-SERIES ESTABLISHED:  Jackson, County Colorado, 1973.
+SERIES ESTABLISHED:  Jackson County, Colorado. 1973
 
-REMARKS:  Last updated by the state 11/73.
+REMARKS:  The superactive cation exchange activity class was added in 03/2003 to the taxonomic classification by the National Soil Survey Center on request of the Lakewood MLRA office, without review of the soil series property data. 
 
-
-The superactive cation exchange activity class was added in 03/2003 to the taxonomic classification by the National Soil Survey Center on request of the Lakewood MLRA office, without review of the soil series property data. The remainder of this document has not been updated.
+Converted to metric and O horizons were updated to start at zero. Competing series section was not updated. 01/2023
 
 National Cooperative Soil Survey
 U.S.A.

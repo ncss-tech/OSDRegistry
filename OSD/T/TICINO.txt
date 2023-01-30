@@ -2,7 +2,7 @@ LOCATION TICINO                 NV
 
 Established Series
 Rev. JBF/OWB/WED
-06/2017
+01/2023
 
 TICINO SERIES
 
@@ -12,7 +12,7 @@ TAXONOMIC CLASS: Fine-loamy, mixed, superactive, frigid Typic Argixerolls
 
 TYPICAL PEDON:   Ticino gravelly fine sandy loam--woodland.  (Colors are for dry soil unless otherwise noted.)
 
-    Al--0 to 10 cm; grayish brown (10YR 5/2) gravelly fine sandy loam, very dark gray (10YR 3/1) moist; weak medium and coarse subangular blocky structure; soft, very friable, nonsticky and slightly plastic; many very fine and fine roots; many very fine and fine interstitial and tubular pores; 20 percent gravel and 5 percent cobbles; neutral (pH 6.8); clear smooth boundary.  (3 to 15 cm thick)
+    A1--0 to 10 cm; grayish brown (10YR 5/2) gravelly fine sandy loam, very dark gray (10YR 3/1) moist; weak medium and coarse subangular blocky structure; soft, very friable, nonsticky and slightly plastic; many very fine and fine roots; many very fine and fine interstitial and tubular pores; 20 percent gravel and 5 percent cobbles; neutral (pH 6.8); clear smooth boundary.  (3 to 15 cm thick)
 
     A2--10 to 28 cm; brown (10YR 4/3) gravelly loam, very dark grayish brown (10YR 3/2) moist; moderate medium subangular blocky structure; slightly hard, very friable, slightly sticky and slightly plastic; many very fine and fine roots; many very fine and fine tubular pores; l5 percent gravel; neutral (pH 6.8); clear smooth boundary.  (5 to 20 cm thick)
 
@@ -31,12 +31,12 @@ Mollic epipedon thickness: 25 to 45 cm; includes the upper part of the Bt horizo
 Depth to paralithic contact: 50 to 100 cm.
 Reaction: Neutral or slightly acid.
 
-Particle-size control section - Clay content: Averages from l8 to 35 percent. 
-Rock fragments: l5 to 35 percent.
+Particle-size control section - Clay content: Averages from 18 to 35 percent. 
+Rock fragments: 15 to 35 percent.
 
 A horizons
 Value of 3 through 5 dry, 2 or 3 moist. 
-Chroma: l through 3.
+Chroma: 1 through 3.
 
 Bt horizons
 Value of 4 through 6 dry, 3 through 5 moist. 
@@ -59,7 +59,7 @@ DISTRIBUTION AND EXTENT:   Mountain ranges in western Nevada.  These soils are o
 
 MLRA SOIL SURVEY REGIONAL OFFICE (MO) RESPONSIBLE:  Davis, California
 
-SERIES ESTABLISHED:   Washoe County, Nevada, South Part, l980.
+SERIES ESTABLISHED:   Washoe County, Nevada, South Part, 1980.
 
 REMARKS: Diagnostic horizons and features recognized in this pedon are: 
 Mollic epipedon - The zone from the surface to 43 cm (A1, A2 and Bt1 horizons). 

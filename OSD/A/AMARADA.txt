@@ -1,0 +1,138 @@
+LOCATION AMARADA                TX
+
+Tentative Series
+SAK-GWH-AKS
+01/2023
+
+AMARADA SERIES
+
+Depth Class--Very deep
+Drainage Class--Subaqueous drainage
+Saturated Hydraulic Conductivity--Very low
+Parent Material--Clayey fluviomarine deposits
+Geomorphic Location--Mainland coves and subtidal mainland mud flats
+Slope range for Series--0 to 1 percent
+Mean Annual Air Temperature--20.6 degrees C. (69 degrees F.)
+Mean Annual Precipitation--1295 millimeters (51 inches)
+
+TAXONOMIC CLASS: Fine, smectitic, nonacid, hyperthermic Typic Sulfiwassents
+
+TYPICAL PEDON: Amarada loam, in approximately 8 cm (3 in) of permanent saline water (colors are for moist soil unless otherwise stated.)
+
+ Aseg--0 to 15 centimeters (0 to 6 in); dark greenish gray (10Y 4/1) loam; massive; very fluid; thin discontinuous coating of dark yellowish brown (10YR 4/4) iron manganese on surface; electrical conductivity of 19.0 dS/m; rapid color change and moderately effervescent to 3 percent and 30 percent hydrogen peroxide; neutral; abrupt boundary.                                           
+
+ Cg1--15 to 83 centimeters (6 to 33 in); dark gray (N 4/) silty clay loam; massive; slightly fluid; electrical conductivity of 11.0 dS/m; slightly effervescent to 3 and 30 percent hydrogen peroxide; neutral; gradual boundary.                                                                   
+
+ Cg2--83 to 165 centimeters (33 to 65 in); gray (N 5/) clay; massive; very firm; nonfluid; 3 percent fine prominent olive yellow (2.5Y 6/8) masses of oxidized iron; electrical conductivity of 13.0 dS/m; very slightly effervescent to 3 percent hydrogen peroxide; neutral; gradual boundary.                                                                            
+
+ Cg3--165 to 203 centimeters (65 to 80 in); gray (N 5/) clay; massive; very firm; nonfluid; 2 percent medium prominent olive yellow (2.5Y 6/8) masses of oxidized iron; 5 percent fine prominent olive yellow (2.5Y 6/8) masses of oxidized iron; electrical conductivity of 18.0 dS/m; slightly effervescent to 3 percent hydrogen peroxide; slightly alkaline.                              
+
+TYPE LOCATION: 
+Brazoria County, TX; from the intersection of FM 2917 and FM 2004, about 2.25 miles northeast FM 2004 to private road; 9 miles southeast on private road; located about 1600 feet east in marsh; USGS topographic quadrangle: Sea Isle, TX.
+ 
+Latitude--29.1111944
+Longitude-- -95.0876667 
+Datum--WGS84
+Coordinate source--from hand-held GPS     
+
+RANGE IN CHARACTERISTICS:
+Depth to bedrock--greater than 200 centimeters
+Soil Moisture--These soils are continuously inundated.
+Water depth--Ranges from 5 to 75 centimeters (2 to 30 inches)
+Reaction throughout--neutral to moderately alkaline (6.6 to 8.4)
+Electrical conductivity throughout--5 to 40 ds/m (low values occur after influx of freshwater into the marsh)
+Sulfidic materials within 50 cm of mineral surface--moderate or strongly effervescent to 3 or 30 percent hydrogen peroxide and rapid color change to 30 percent hydrogen peroxide with incubated pH's below 4.0
+Particle-size control section (weighted average)--Total clay content: 35 to 40 percent
+
+Aseg horizon--
+Hue--N, 2.5Y, 5Y,10Y
+Value--3 or 4
+Chroma--up to 3
+Texture--loam, clay loam, or silty clay
+Total clay content--23 to 45 percent
+Manner of failure--none to very fluid
+Shell fragments--amount-0 to 20 percent; size-2 to 5 mm
+
+Cg horizon, upper part--
+Hue: N, 2.5Y, 5Y
+Value--4 or 5
+Chroma--up to 3
+Texture--clay loam, silty clay loam, or clay loam
+Total clay content--29 to 44 percent
+Manner of failure--none or slightly fluid
+Redox concentrations--amount-0 to 2 percent; color-shades of brown and yellow
+Reduced iron concentrations--amount-0 to 4 percent; color-shades of gray
+Shell fragments--amount-0 to 10 percent; size-2 to 20 mm
+
+Cg horizons, lower part--
+Hue--N, 2.5Y, 5Y, 5G
+Value: 4 to 6
+Chroma--up to 3
+Texture--clay loam, silty clay, clay
+Total clay content--35 to 52 percent
+Redox concentrations--amount-0 to 35 percent; color-shades of brown or yellow
+Iron-manganese concentrations--amount-0 to 2 percent; kind-masses
+Shell fragments--amount-0 to 5 percent; size-2 to 20 mm
+Identifiable secondary carbonate: amount-0 to 5 percent; kind-nodules
+
+COMPETING SERIES: 
+There are no series in the same family.
+Similar soils are the Baffin, Coards, and Sellman series.
+Baffin soils--occur on lagoon bottoms and have significantly less clay throughout
+Coards soils--have mixed mineralogy; mesic soil temperature regime; the soil organic carbon is greater than 0.2 percent at a depth of 50 inches (125 centimeters) below the soil surface.
+Sellman soils--have glauconitic mineralogy; mesic soil temperature regime; have thick layers with n value greater than 0.7
+
+GEOGRAPHIC SETTING:
+Parent material--fluviomarine deposits 
+Landscape--Coastal estuaries and lagoons
+Landform--Mainland coves and subtidal mud flats
+Slope--less than 1 percent
+Precipitation pattern--rainfall is mostly uniform throughout the year but most of the annual rainfall occurs during the Spring, Summer, and Fall months
+Mean annual precipitation--1219 to 1295 mm (48 to 51 inches)
+Mean annual air temperature: 20.6 to 21.7 degrees C. (69 to 71 degrees F.)
+Water temperature range (seasonal range)--15 to 32 degrees C. (59 to 90 degrees F.)
+Water depth range: 5 to 75 centimeters (2 to 30 inches)
+Water salinity range--25 to 35 ppt 
+Frost-free period--365 days
+
+GEOGRAPHICALLY ASSOCIATED SOILS: 
+These are the Harris, Tatlum, Tracosa, and the tentative Jonesbay series. 
+Harris, Tatlum, and Tracosa soils--are slightly higher on the landscape and don't have continuous inundation 
+Jonesbay soils--have thick horizons with n values greater than 0.7 on similar landforms
+
+DRAINAGE AND SATURATED HYDRAULIC CONDUCTIVITY: 
+Drainage class--Subaqueous 
+Saturated Hydraulic Conductivity--very low
+Soil Moisture Regime--Peraquic
+Soil is continuously inundated by saline water. The presence of hypersulfidic materials within 50 centimeters of the soil surface puts these soils at risk for potential acid sulfate soil formation if they are dredged and exposed to the atmosphere.
+
+USE AND VEGETATION: 
+Major uses--These areas are used as wildlife habitat and for recreational activities. 
+Native vegetation--Some areas have smooth cordgrass but most areas have bare mud bottoms.
+
+DISTRIBUTION AND EXTENT: 
+General area--These soils are located on the upper Texas Gulf Coast  
+Land Resource Region--T- Atlantic and Gulf Coast Lowland Forest and Crop Region 
+MLRA--150B - Gulf Coast Saline Prairies 
+Extent--Small
+
+SOIL SURVEY REGIONAL OFFICE (SSRO) RESPONSIBLE: Temple, Texas
+
+SERIES PROPOSED: Brazoria County, Texas, 2022. The name is from a geographic location near the series type location.
+
+REMARKS: The series was formerly included with water.
+
+Diagnostic horizons and features recognized in this pedon are--
+  Particle-size control section--0 to 100 cm (0 to 40 in) 
+  Ochric epipedon--0 to 15 cm (0 to 6 in) (Aseg horizon) 
+  Sulfidic materials--0 to 15 cm (0 to 6 in) (Aseg horizon)
+  Peraquic feature--0 to 203 cm (0 to 203 in) (Aseg horizon and Cg layers are permanently saturated)
+
+Additional Comments--Mineralogy based on data from adjacent subaerial soils with similar texture.
+
+ADDITIONAL DATA: Soil survey office lab data on pedon S2021TX0399160 from series type location.
+
+TAXONOMIC VERSION: Keys to Soil Taxonomy, Thirteenth Edition, 2023
+
+National Cooperative Soil Survey
+U.S.A.

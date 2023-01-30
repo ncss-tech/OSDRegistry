@@ -2,7 +2,7 @@ LOCATION INVILLE                NV+CA
 
 Established Series
 REV: LIL/ELS/WRL/ET
-05/2007
+01/2023
 
 INVILLE SERIES
 
@@ -12,7 +12,7 @@ TAXONOMIC CLASS: Loamy-skeletal, isotic, frigid Ultic Haploxeralfs
 
 TYPICAL PEDON: Inville stony coarse sandy loam, forested. (Colors are for dry soil unless otherwise noted.) 
 
-	01--0 to 5 cm; litter of conifer needles. 
+	Oi--0 to 5 cm; litter of conifer needles. 
 
 	A1--5 to 8 cm; brown (10YR 4/3) gravelly coarse sandy loam, very dark brown (10YR 2/2) moist; moderate fine and medium granular structure; soft, very friable, nonsticky and nonplastic; few very fine roots; many very fine interstitial pores; 20 percent gravel; moderately acid (pH 6.0); abrupt smooth boundary. (3 to 10 cm thick) 
 
@@ -65,16 +65,12 @@ MLRA SOIL SURVEY REGIONAL OFFICE (MO) RESPONSIBLE: Davis, California
 SERIES ESTABLISHED: Tahoe Basin Area, California and Nevada, 1970. 
 
 REMARKS: 
-
-Diagnostic horizons and features recognized in this pedon are: 
-
-Umbric epipedon - The zone from 0 to 25 cm. 
-
-Argillic horizon - The zone from 25 to 94 cm. 
-
 Particle size control section - The zone from 30 to 80 cm. 
 
-Ultic feature - The zone from 25 to 89 cm. 
+Diagnostic horizons and features recognized in this pedon are: 
+  Umbric epipedon - The zone from 5 to 30 cm. 
+  Argillic horizon - The zone from 30 to 94 cm. 
+  Ultic subgroup feature - The zone from 30 to 94 cm. 
 
 National Cooperative Soil Survey
 U.S.A.

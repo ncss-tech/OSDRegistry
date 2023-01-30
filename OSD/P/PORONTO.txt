@@ -1,114 +1,108 @@
 LOCATION PORONTO                MT
 
 Established Series
-Rev. HAL-BDD-EMM
-09/2014
+Rev. HAL-EMM-KLS
+01/2023
 
 PORONTO SERIES
 
-The Poronto series consists of very deep, poorly drained soils that formed in alluvium.  These soils are on stream terraces, floodplains and depressions. Slopes are 0 to 4 percent.  Mean annual precipitation is about 15 inches, and mean annual temperature is about 41 degrees F.
+The Poronto series consists of very deep, poorly drained soils that formed in alluvium.  These soils are on stream terraces, floodplains and depressions. Slopes are 0 to 4 percent.  Mean annual precipitation is about 380 mm, and mean annual air temperature is about 5 degrees C.
 
 TAXONOMIC CLASS: Loamy-skeletal, mixed, superactive, frigid Typic Endoaquolls
 
 TYPICAL PEDON:  Poronto loam, in pasture (colors are for moist soil unless otherwise noted).
 
-    Oi--3 inches to 0; slightly decomposed organic matter. (2 to 4 inches thick)
+    Oi--0 to 8 cm; slightly decomposed organic matter. (5 to 10 cm thick)
 
-    A--0 to 10 inches; very dark gray (10YR 3/1) loam, grayish brown (10YR 5/2) dry; common fine distinct strong brown (7.5YR 5/8) redox concentrations; moderate medium granular structure; very hard, firm, moderately sticky and slightly plastic; many fine and very fine roots; many fine and very fine interstitial pores; slightly effervescent; slightly alkaline (pH 7.8); clear smooth boundary. (7 to 16 inches thick)
+    A--8 to 33 cm; very dark gray (10YR 3/1) loam, grayish brown (10YR 5/2) dry; common fine distinct strong brown (7.5YR 5/8) redox concentrations; moderate medium granular structure; very hard, firm, moderately sticky and slightly plastic; many fine and very fine roots; many fine and very fine interstitial pores; slightly effervescent; slightly alkaline (pH 7.8); clear smooth boundary. (18 to 40 cm thick)
 
-    Bg1--10 to 16 inches; dark gray (5YR 4/1) very gravelly silty clay loam, light gray (5YR 7/1) dry; many medium distinct strong brown (7.5YR 5/8) redox concentrations; weak medium subangular blocky structure; very hard, friable, slightly sticky and slightly plastic; many fine and very fine roots; many fine and very fine interstitial pores; 40 percent gravel; slightly alkaline (pH 7.4); gradual wavy boundary. (5 to 10 inches thick)
+    Bg1--33 to 48 cm; dark gray (5YR 4/1) very gravelly silty clay loam, light gray (5YR 7/1) dry; many medium distinct strong brown (7.5YR 5/8) redox concentrations; weak medium subangular blocky structure; very hard, friable, slightly sticky and slightly plastic; many fine and very fine roots; many fine and very fine interstitial pores; 40 percent gravel; slightly alkaline (pH 7.4); gradual wavy boundary.
 
-    Bg2--16 to 28 inches; dark gray (5YR 4/1) very gravelly clay loam, light gray (5YR 7/1) dry; many fine distinct yellowish red (5YR 4/6) redox concentrations; weak medium subangular blocky structure; hard, friable, slightly sticky and moderately plastic; common fine and very fine roots; many fine and very fine interstitial pores; 40 percent gravel; neutral; (pH 7.2); gradual wavy boundary. (8 to 14 inches thick)
+    Bg2--48 to 78 cm; dark gray (5YR 4/1) very gravelly clay loam, light gray (5YR 7/1) dry; many fine distinct yellowish red (5YR 4/6) redox concentrations; weak medium subangular blocky structure; hard, friable, slightly sticky and moderately plastic; common fine and very fine roots; many fine and very fine interstitial pores; 40 percent gravel; neutral; (pH 7.2); gradual wavy boundary. (Combined thickness of Bg1 and Bg2 horizons - 30 to 60 cm)
 
-    Bg3--28 to 60 inches; dark gray (5YR 4/1) very gravelly sandy loam, gray (5YR 6/1) dry; few fine distinct strong brown (7.5YR 5/8) redox concentrations; weak medium subangular blocky structure; soft, very friable, nonsticky and nonplastic; few fine and very fine roots; many fine and very fine irregular pores; 45 percent gravel; neutral (pH 7.2).
+    Bg3--78 to 159 cm; dark gray (5YR 4/1) very gravelly sandy loam, gray (5YR 6/1) dry; few fine distinct strong brown (7.5YR 5/8) redox concentrations; weak medium subangular blocky structure; soft, very friable, nonsticky and nonplastic; few fine and very fine roots; many fine and very fine irregular pores; 45 percent gravel; neutral (pH 7.2).
 
-TYPE LOCATION:  Powell County, Montana; 1,900 feet south and 350 feet east of the NW corner of sec. 11, T. 6 N., R. 10 W.
+TYPE LOCATION:  Powell County, Montana; about 580 meters south and 105 meters east of the NW corner of sec. 11, T. 6 N., R. 10 W.
 
 RANGE IN CHARACTERISTICS:
+Mean annual soil temperature--5 to 8 degrees C
+Moisture control section--10 to 30 cm
+Mollic epipedon thickness--25 to 40 cm
+Depth to seasonal high water table--30 to 60 cm
 
-Soil temperature - 41 to 46 degrees F.
-Moisture control section - between 4 and 12 inches.
-Mollic epipedon thickness - 10 to 16 inches.
-Depth to seasonal high water table - 12 to 24 inches.
-
-A horizon 
-Hue:  10YR or 2.5Y
-Value:  2 or 3 moist; 2, 3, 4, or 5 dry
-Chroma:  1 or 2; dry or moist
-Clay content:  18 to 35 percent
-Rock fragments:  0 to 15 percent--0 to 5 percent cobbles; 0 to 10 percent gravel
-Reaction:  pH 6.6 to 7.8
+A horizon
+Hue--10YR or 2.5Y
+Value--2 or 3 moist; 2 through 5 dry
+Chroma--1 or 2; dry or moist
+Clay content--18 to 35 percent
+Rock fragment content--0 to 15 percent total; 0 to 10 percent gravel, 0 to 5 percent cobbles 
+Reaction--pH 6.6 to 7.8
 
 Bg1 horizon 
-Hue:  10YR, 7.5YR, 5YR, 5Y, or 2.5Y
-Value:  3 or 4 moist; 4, 5, 6, or 7 dry
-Chroma:  1, 2, or 3; dry or moist
-Texture:  loam, clay loam, sandy clay loam, or silty clay loam
-Clay content:  18 to 35 percent
-Rock fragments:  35 to 60 percent--0 to 20 percent cobbles; 25 to 40 percent gravel
-Reaction:  pH 6.6 to 7.8
+Hue--10YR, 7.5YR, 5YR, 5Y, or 2.5Y
+Value--3 or 4 moist; 4 through 7 dry
+Chroma--1 through 3; dry or moist
+Texture--loam, clay loam, sandy clay loam, or silty clay loam
+Clay content--18 to 35 percent
+Rock fragment content--35 to 60 percent total; 25 to 40 percent gravel, 0 to 20 percent cobbles
+Reaction--pH 6.6 to 7.8
 
 Bg2 horizon 
-Hue:  10YR, 7.5YR, 5YR, 5Y, or 2.5Y
-Value:  3, 4, or 5 moist; 5, 6, or 7 dry
-Chroma:  1, 2, or 3; dry or moist
-Texture:  clay loam, sandy clay loam, or loam
-Clay content:  18 to 35 percent
-Rock fragments:  35 to 60 percent--0 to 20 percent cobbles; 35 to 40 percent gravel
-Reaction:  pH 6.6 to 7.8
+Hue--10YR, 7.5YR, 5YR, 5Y, or 2.5Y
+Value--3, 4, or 5 moist; 5, 6, or 7 dry
+Chroma--1, 2, or 3; dry or moist
+Texture--clay loam, sandy clay loam, or loam
+Clay content--18 to 35 percent
+Rock fragment content--35 to 60 percent total; 35 to 40 percent gravel, 0 to 20 percent cobbles
+Reaction--pH 6.6 to 7.8
 
 Bg3 horizon 
-Hue:  10YR, 7.5YR, 5YR, 2.5Y, or 5Y
-Value:  3, 4, or 5 moist; 4, 5, 6, or 7 dry
-Chroma:  1 or 2; dry or moist
-Texture:  sandy loam or sandy clay loam
-Clay content:  15 to 30 percent
-Rock fragments:  35 to 60 percent--0 to 15 percent cobbles; 35 to 45 percent gravel
-Reaction:  pH 6.6 to 7.3
+Hue--10YR, 7.5YR, 5YR, 2.5Y, or 5Y
+Value--3, 4, or 5 moist; 4, 5, 6, or 7 dry
+Chroma--1 or 2; dry or moist
+Texture--sandy loam or sandy clay loam
+Clay content--15 to 30 percent
+Rock fragment content--35 to 60 percent total; 35 to 45 percent gravel, 0 to 15 percent cobbles
+Reaction--pH 6.6 to 7.3
 
-COMPETING SERIES:
-
+COMPETING SERIES: 
 Allwit (ID) - texture average is sandy loam and does not have Bg horizons
-
-Irim (CO) - has an Ag horizon 
-
-Lehmandow (NV) - has a seasonal high water table between 15 and 30 cm between March and May
-
-Mcalla (MT) - has a C horizon with loamy sand, loamy coarse sand or sand textures
-
-Swampcreek (MT) - has horizons of secondary carbonate accumulation; has a lithologic discontinuity
+Irim (CO) - have an Ag horizon 
+Lehmandow (NV) - have a seasonal high water table between 15 and 30 cm between March and May
+Mcalla (MT) - have a C horizon with loamy sand, loamy coarse sand or sand textures
+Swampcreek (MT) - have horizons of secondary carbonate accumulation; have a lithologic discontinuity
 
 GEOGRAPHIC SETTING:
+Landform--stream terraces, flood plains and depressions
+Elevation--1100 to 1890 meters
+Slope--0 to 4 percent
+Parent material--alluvium
+Climate--long, cold winters; moist springs; warm summers
+Mean annual precipitation--250 to 480 mm, much of which falls as snow or rain in the spring
+Mean annual air temperature--4 to 7 degrees C
+Frost-free period--70 to 105 days
 
-Landform - stream terraces, flood plains and depressions.
-Elevations - 3,600 to 6,200 feet.
-Slope - 0 to 4 percent.
-Parent material - alluvium.
-Climate - long, cold winters; moist springs; warm summers.
-Mean annual precipitation - 10 to 19 inches, much of which falls as snow or as spring rain.
-Mean annual temperature - 39 to 44 degrees F.
-Frost-free period - 70 to 105 days.
+GEOGRAPHICALLY ASSOCIATED SOILS:  None listed
 
-GEOGRAPHICALLY ASSOCIATED SOILS:  None listed.
+DRAINAGE AND PERMEABILITY:  Poorly drained, moderate permeability
 
-DRAINAGE AND PERMEABILITY:  Poorly drained, moderate permeability.
+USE AND VEGETATION:  Poronto soils are used for hayland and pasture. The native vegetation is tall reedgrass, mannagrass, tufted hairgrass, blue-eyed grass and willow.
 
-USE AND VEGETATION:  Poronto soils are used for hayland and pasture. The native vegetation is tall reedgrass, mannagrass, tufted hairgrass, blue-eyegrass and willow.
+DISTRIBUTION AND EXTENT:  Poronto soils are of small extent in southwestern Montana; MLRAs 43B and 44B.
 
-DISTRIBUTION AND EXTENT:  Poronto soils are of small extent in southwestern Montana.  MLRAs 43B and 44B.
+SOIL SURVEY REGIONAL OFFICE (SSRO) RESPONSIBLE:  Bozeman, Montana
 
-MLRA SOIL SURVEY REGIONAL OFFICE (MO) RESPONSIBLE:  Bozeman, Montana
+SERIES ESTABLISHED:  Powell County, Montana, 1995
 
-SERIES ESTABLISHED:  Powell County, Montana, 1995.
+REMARKS:  Soil interpretation record:  MT1393
+Diagnostic horizons and features recognized in this pedon are:
+Mollic epipedon--8 to 33 cm (A horizon)
+Cambic horizons--33 to 159 cm (Bg1, Bg2, Bg3 horizons)
+Particle-size control section--25 to 100 cm (part of the A horizon, all of the Bg1 and Bg2 horizons, and part of the Bg3 horizon)
 
-REMARKS:  Diagnostic horizons and features recognized in this pedon are:
-Mollic epipedon - from the soil surface to 10 inches (A horizon)
-Cambic horizon - from 10 to 60 inches (Bg1, Bg2, Bg3 horizons)
-Particle-size control section - from 10 to 40 inches. 
+Poronto soils have a frigid temperature regime and an aquic soil moisture regime. 
 
-Poronto soils have a frigid temperature regime and an aquic moisture regime.
-
-Soil interpretation record:  MT1393.  
+Converted to metric and O horizons were updated to start at zero. Competing series section was not updated. 01/2023
 
 National Cooperative Soil Survey
 U.S.A.

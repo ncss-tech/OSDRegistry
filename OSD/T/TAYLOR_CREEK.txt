@@ -2,7 +2,7 @@ LOCATION TAYLOR CREEK           NV
 
 Established Series
 Rev. RPZ/GJS/JBF
-03/2016
+01/2023
 
 TAYLOR CREEK SERIES
 
@@ -12,7 +12,7 @@ TAXONOMIC CLASS: Very-fine, smectitic Vertic Argicryolls
 
 TYPICAL PEDON:  Taylor Creek loam - rangeland (Colors for dry conditions unless otherwise noted).
 
-    Al--0 to 8 cm; grayish brown (10YR 5/2) loam, very dark grayish brown (10YR 3/2) moist; weak medium platy structure; soft, very friable, nonsticky and nonplastic; many very fine roots; many very fine and fine interstitial pores; 5 percent gravel; slightly acid (pH 6.5); clear smooth boundary.  (5 to 10 cm thick)
+    A1--0 to 8 cm; grayish brown (10YR 5/2) loam, very dark grayish brown (10YR 3/2) moist; weak medium platy structure; soft, very friable, nonsticky and nonplastic; many very fine roots; many very fine and fine interstitial pores; 5 percent gravel; slightly acid (pH 6.5); clear smooth boundary.  (5 to 10 cm thick)
 
     A2--8 to 25 cm; grayish brown (10YR 5/2) loam, very dark grayish brown (10YR 3/2) moist; weak medium and fine granular structure; slightly hard, very friable, nonsticky and nonplastic; many very fine roots; many very fine and fine interstitial pores; 5 percent gravel; slightly acid (pH 6.5); clear smooth boundary.  (13 to 25 cm thick)
 
@@ -24,7 +24,7 @@ TYPICAL PEDON:  Taylor Creek loam - rangeland (Colors for dry conditions unless 
 
     Btk--101 to 152 cm; pale brown (10YR 6/3) gravelly clay, brown (10YR 5/3) moist; moderate medium subangular blocky structure; very hard, very firm, very sticky and very plastic; few very fine roots; few very fine tubular pores; continuous prominent clay films on peds and in pores; 20 percent gravel and 5 percent cobbles; noneffervescent but strongly effervescent in a very few, fine, distinct white (10YR 8/1) carbonate segregations; moderately alkaline (pH 8.4).
 
-TYPE LOCATION:  Elko County, Nevada.  Approximately l,300 feet west and 1,000 feet north of the southeast corner of section 1, T. 36 N., R. 52 E., Mount Diablo base line and meridian; USGS Blue Basin 7.5 minute topographic quadrangle; latitude 41 degrees 2 minutes 2 seconds N and longitude 116 degrees 4 minutes 6 seconds W; WGS84 Decimal Degrees 41.0338889 latitude, -116.0683333 longitude.
+TYPE LOCATION:  Elko County, Nevada.  Approximately 1,300 feet west and 1,000 feet north of the southeast corner of section 1, T. 36 N., R. 52 E., Mount Diablo base line and meridian; USGS Blue Basin 7.5 minute topographic quadrangle; latitude 41 degrees 2 minutes 2 seconds N and longitude 116 degrees 4 minutes 6 seconds W; WGS84 Decimal Degrees 41.0338889 latitude, -116.0683333 longitude.
 
 RANGE IN CHARACTERISTICS:  
 Soil moisture: moist in the winter and spring months, but are dry for more than 60 consecutive days in the mid-summer and fall of most years. Xeric moisture regime bordering on aridic. 
@@ -38,7 +38,7 @@ Particle-size control section - Clay content: Greater than 60 percent
 
 A horizons 
 Value: 4 or 5 dry, 2 or 3 moist. 
-Chroma of l to 3.  Chroma of l if present, are only in the Al horizon.    Structure: Thin or medium platy, weak or moderate, very fine to medium granular, or subangular blocky.  Platy structure is only in the Al horizon.
+Chroma of 1 to 3.  Chroma of 1 if present, are only in the A1 horizon.    Structure: Thin or medium platy, weak or moderate, very fine to medium granular, or subangular blocky.  Platy structure is only in the A1 horizon.
 Reaction: Slightly acid or neutral.
 
 Bt horizons 
@@ -54,7 +54,7 @@ Carbonates: Few soft flecks and fine masses of carbonate at depths between 105 a
 
 COMPETING SERIES:  This is the Buckwilder series. The Buckwilder soils are moderately deep to lithic bedrock.
 
-GEOGRAPHIC SETTING:  Taylor Creek soils are on uplands at elevations of 1,830 to 2,290 meters.  Slopes are l5 to 50 percent.  The soils formed in residuum and colluvium derived from rhyolite, andesite, and tuff rocks with large components of loess and volcanic ash.  The climate is cool and semiarid with moist winters and dry summers.  The mean annual precipitation is 360 to 400 mm; mean annual temperature is 6 to 7 degrees C.; and the frost-free season is about 60 to 80 days.
+GEOGRAPHIC SETTING:  Taylor Creek soils are on uplands at elevations of 1,830 to 2,290 meters.  Slopes are 15 to 50 percent.  The soils formed in residuum and colluvium derived from rhyolite, andesite, and tuff rocks with large components of loess and volcanic ash.  The climate is cool and semiarid with moist winters and dry summers.  The mean annual precipitation is 360 to 400 mm; mean annual temperature is 6 to 7 degrees C.; and the frost-free season is about 60 to 80 days.
 
 GEOGRAPHICALLY ASSOCIATED SOILS:  These are the Chen, Mosquet, Pie Creek, Ramires, Singletree and Torro series.  Chen and Mosquet soils have lithic contacts above 50 cm.  Pie Creek and Ramires soils have mean summer soil temperatures warmer than 15 degrees C.  Singletree soils have clay loam argillic horizons.  Torro soils have clay loam argillic horizons with more than 50 percent coarse fragments.
 

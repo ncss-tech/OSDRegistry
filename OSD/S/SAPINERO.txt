@@ -1,54 +1,85 @@
 LOCATION SAPINERO               CO
 
 Established Series
-Rev. RHM
-02/1999
+Rev. RHM-KLS
+01/2023
 
 SAPINERO SERIES
 
-Sapinero soils typically have very friable, light brownish gray, sandy loam, platy A2 horizons, mixed A&B horizons, light brown, very stony clay loam, continuous B2t horizons having subangular blocky structure, and fragmental tuff deposits at a depth of about 35 inches.
+The Sapinero series consists of deep, well drained soils that formed in residuum and/or colluvium derived from highly fractured rhyolite or rhylolitic tuff.  These soils are on mesa tops and ridges. Slopes are 2 to 40 percent.  Mean annual precipitation is about 410 mm, and mean annual air temperature is about 1 degree C.
 
 TAXONOMIC CLASS: Loamy-skeletal over fragmental, mixed, superactive Typic Glossocryalfs
 
 TYPICAL PEDON:  Sapinero sandy loam - forest.  (Colors are for dry soil unless otherwise noted.)
 
-    01--4 to 2 inches; undecomposed organic material mainly needles, bark, twigs and leaves.
+    Oi--0 to 5 cm; undecomposed organic material mainly needles, bark, twigs and leaves.
 
-    02--2 to 0 inches; partially decomposed organic material like that of the horizon above.
+    Oe--5 to 10 cm; partially decomposed organic material like that of the horizon above.
 
-    A2--0 to 10 inches; light brownish gray (10YR 6/2) sandy loam, dark grayish brown (10YR 4/2) moist; weak thin platy structure that parts to very fine granules; slightly hard, very friable; slightly acid; gradual smooth boundary.  (6 to 12 inches thick)
+    E--10 to 35 cm; light brownish gray (10YR 6/2) sandy loam, dark grayish brown (10YR 4/2) moist; weak thin platy structure that parts to very fine granules; slightly hard, very friable; slightly acid; gradual smooth boundary.  (15 to 30 cm thick)
 
-    A&B--10 to 20 inches; mixed light brownish gray (10YR 6/2) and light brown (7.5YR 6/3) very stony loam (composite texture), dark grayish brown (10YR 4/2) and brown (7.5YR 5/3) moist; weak coarse subangular blocky structure that parts to fine granules; slightly hard, very friable, slightly sticky, slightly plastic; peds are hard, friable; this horizon consists of seams and nodules of clayey material like that of the underlying horizon embedded in a lighter colored matrix like that of the overlying horizon; 60 percent stones; slightly acid; gradual wavy boundary.  (4 to 12 inches thick)
+    E/B--35 to 60 cm; mixed light brownish gray (10YR 6/2) and light brown (7.5YR 6/3) very stony loam (composite texture), dark grayish brown (10YR 4/2) and brown (7.5YR 5/3) moist; weak coarse subangular blocky structure that parts to fine granules; slightly hard, very friable, slightly sticky, slightly plastic; peds are hard, friable; this horizon consists of seams and nodules of clayey material like that of the underlying horizon embedded in a lighter colored matrix like that of the overlying horizon; 60 percent stones; slightly acid; gradual wavy boundary.  (10 to 30 cm thick)
 
-    B2t--20 to 35 inches; light brown (7.5YR 6/3) very stony clay loam, brown (7.5YR 5/3) moist; moderate medium subangular blocky structure; slightly hard, very friable, slightly sticky, slightly plastic; peds are very hard, firm; thin patchy clay films on peds and in root channels and pores; 60 percent rock fragments, mostly flagstones; slightly acid; gradual wavy boundary.  (10 to 16 inches thick)
+    Bt--60 to 98 cm; light brown (7.5YR 6/3) very stony clay loam, brown (7.5YR 5/3) moist; moderate medium subangular blocky structure; slightly hard, very friable, slightly sticky, slightly plastic; peds are very hard, firm; thin patchy clay films on peds and in root channels and pores; 60 percent rock fragments, mostly flagstones; slightly acid; gradual wavy boundary.  (25 to 41 cm thick)
 
-    IIC--35 to 60 inches; fragmental deposits of highly fractured rhyolite or rhyolitic tuff.  Horizon consists principally of flagstones overlapping one another but with 1 to 2 inch cracks between the rocks that are not completely filled with fine materials.
+    2C--98 to 162 cm; fragmental deposits of highly fractured rhyolite or rhyolitic tuff.  Horizon consists principally of flagstones overlapping one another but with 3 to 5 cm cracks between the rocks that are not completely filled with fine materials.
 
 TYPE LOCATION:  Gunnison County, Colorado; The Black Mesa Experimental Pastures, Sec. 12, T. 49 N., R. 5 W.
 
-RANGE IN CHARACTERISTICS:  These soils are noncalcareous throughout.  Thin Al horizons are present in some pedons.  The B2t horizon typically extends to the IIC horizon but nonfragmental C horizons occur in some pedons.  Base saturation ranges from 60 to 100 percent in all subhorizons of the argillic horizon.  Depth to the fragmental IIC horizon ranges from 20 to 40 inches.  Depth to the top of the argillic horizon is less than 24 inches, and depth to the base of the argillic horizon ranges from 17 to 40 inches.  Rock fragments range from 35 to 75 percent in a major part of the solum and are mainly flagstones ranging from 10 to 40 inches in diameter.  The solum ranges from medium acid to neutral.  The mean annual soil temperature is 37 degrees F., and the mean summer soil temperature is 45 degrees F., with an 0 horizon at least 4 inches thick.
+RANGE IN CHARACTERISTICS:
+Mean annual soil temperature--3 degrees C
+Mean summer soil temperature--7 degrees C
+Thickness of O horizon--at least 10 cm 
+Base saturation--60 to 100 percent in all subhorizons of the argillic horizon
+Depth to fragmental 2C horizon--50 to 100 cm
+Depth to top of argillic horizon--less than 60 cm
+Depth to base of argillic horizon--43 to 100 cm
+These soils are noncalcareous throughout.
+Thin A horizons may be present in some pedons.
+The Bt horizon typically extends to the 2C horizon, but non-fragmental C horizons occur in some pedons.
 
-The A2 horizon has hue of 2.5Y through 7.5YR, value of 5 through 8 dry, 4 through 7 moist, and chroma 1 through 4.
+Particle-size control section:
+Rock fragment content--35 to 75 percent in a major part of the solum and are mainly flagstones ranging from 250 to 1000 mm in diameter
+Reaction--pH 5.6 to 7.3 
 
-The B2t horizon has hue of 2.5Y through 7.5YR, value of 5 through 7 dry, 4 through 6 moist, and chroma of 1 through 6.  It is typically very stony loam, clay loam, or sandy clay loam and the fine earth fraction has 18 to 35 percent clay, 10 to 50 percent silt, and 20 to 65 percent sand with more than 15 percent being fine or coarser sand.
+E horizon
+Hue--2.5Y through 7.5YR
+Value--5 through 8 dry, 4 through 7 moist
+Chroma--1 through 4
 
-COMPETING SERIES:  These are the Kebler and Ruby series.  Kebler soils have a lithic contact at depths of 20 to 40 inches.  Ruby soils have mollic epipedons, lack albic horizons and have fragmental IIC horizons at depths of less than 20 inches.
+Bt horizon
+Hue--2.5Y through 7.5YR
+Value--5 through 7 dry, 4 through 6 moist
+Chroma--1 through 6
+Texture--very stony loam, clay loam, or sandy clay loam
+Clay content--18 to 35 percent
+Sand content--20 to 65 percent, with more than 15 percent being fine or coarser sand
 
-GEOGRAPHIC SETTING:  The Sapinero soils are on mesa tops and ridges.  Slope gradients range from 2 to 40 or more percent.  The soils formed in very stony parent materials weathered residually from highly fractured rhyolite or rhylolitic tuff or colluvial deposits of such rock.  At the type location the average annual precipitation is 16 inches, with peak periods of precipitation occurring during the spring and summer.  The mean annual temperature is 34 degrees F., mean summer temperature is 45 degrees F.
+COMPETING SERIES:  These are the Kebler and Ruby series.  Kebler soils have a lithic contact at depths of 50 to 100 cm.  Ruby soils have mollic epipedons, lack albic horizons and have fragmental 2C horizons at depths of less than 50 cm.
 
-GEOGRAPHICALLY ASSOCIATED SOILS:  These are the competing Ruby soils and the Vulcan soils.  Vulcan soils have fine textured argillic horizons.
+GEOGRAPHIC SETTING:
+Landform--mesa tops and ridges
+Elevation--2900 to 3200 meters
+Slope--2 to 40 or more percent
+Parent material--residuum weathered from highly fractured rhyolite or rhylolitic tuff or colluvial deposits of such rock
+Mean annual precipitation--410 mm, with peak periods of precipitation occurring during the spring and summer
+Mean annual air temperature--1 degree C
+Mean summer air temperature--7 degrees C
+Frost-free period--40 to 50 days
 
-DRAINAGE AND PERMEABILITY:  Well drained; medium to rapid runoff; moderately slow permeability.
+GEOGRAPHICALLY ASSOCIATED SOILS:  None listed
+
+DRAINAGE AND PERMEABILITY:  Well drained; medium to rapid runoff; moderately slow permeability
 
 USE AND VEGETATION:  These soils are used as native pastureland, for forestry, and for recreation.  Principal native vegetation is mainly Engelmann spruce, Douglas-fir, scattered aspen, Thurber fescue, and bluegrass.
 
-DISTRIBUTION AND EXTENT:  Mountainous areas of central Colorado. The series is of small extent.
+DISTRIBUTION AND EXTENT:  Sapinero soils are moderately extensive in the mountainous areas of southwest Colorado; MLRA 48A.
 
-MLRA SOIL SURVEY REGIONAL OFFICE (MO) RESPONSIBLE: Bozeman, Montana
+SOIL SURVEY REGIONAL OFFICE (SSRO) RESPONSIBLE: Bozeman, Montana
 
-SERIES ESTABLISHED:  Gunnison County, Colorado, 1974.
+SERIES ESTABLISHED:  Gunnison County, Colorado, 1974
 
-REMARKS:  OSED scanned by NSSQA and cleaned up by Colorado.  Last revised by state on 8/74.
+REMARKS:  Converted to metric and O horizons were updated to start at zero. Competing series section was not updated. 01/2023
 
 National Cooperative Soil Survey
 U.S.A.

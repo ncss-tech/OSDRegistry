@@ -2,7 +2,7 @@ LOCATION GRALIC                 NV
 
 Established Series
 Rev:  DMC/GJS/GAM/JBF
-03/2017
+01/2023
 
 GRALIC SERIES
 
@@ -12,7 +12,7 @@ TAXONOMIC CLASS: Loamy-skeletal, mixed, superactive, nonacid Typic Cryorthents
 
 TYPICAL PEDON: Gralic extremely gravelly very fine sandy loam, wildlife habitat and rangeland. (Colors are for dry soil unless otherwise noted.)
 
-    0--0 to 3 cm; pine needles.
+    Oi--0 to 3 cm; pine needles.
 
     A1--3 to 10 cm; brown (10YR 5/3) extremely gravelly very fine sandy loam, dark brown (10YR 3/3) moist; moderate medium subangular blocky structure; slightly hard, very friable, nonsticky and nonplastic; common very fine and fine, and few medium roots; few very fine, fine and medium tubular pores; 55 percent gravel; 5 percent cobbles and 15 percent stones; moderately acid (pH 5.8); abrupt smooth boundary.  (5 to 8 cm thick)
 
@@ -60,7 +60,7 @@ MLRA SOIL SURVEY REGIONAL OFFICE (MO) RESPONSIBLE: Davis, California
 SERIES ESTABLISHED:  Douglas County Area, Nevada, 1981.
 
 REMARKS: Diagnostic horizons and features recognized in this pedon are:
-Ochric epipedon - The zone from the mineral surface to 18 cm (A1 and part of the A2 horizons)
+Ochric epipedon - The zone from the surface to 18 cm (Oi, A1, and part of the A2 horizons)
 
 National Cooperative Soil Survey
 U.S.A.

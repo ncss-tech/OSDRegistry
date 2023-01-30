@@ -1,129 +1,106 @@
-LOCATION BOLACK                 MT 
+LOCATION BOLACK                 MT
 
 Established Series
-Rev. BDD-GLS-JAL
-3/97
+Rev. BDD-GLS-KLS
+01/2023
 
-BOLACK SERIES 
+BOLACK SERIES
 
-The Bolack series consists of very deep, poorly drained soils that formed in clayey alluvium.  These soils are on flood plains.  Slopes are 0 to 2 percent.  Mean annual precipitation is about 16 inches, and the mean annual temperature is about 43 degrees F. 
+The Bolack series consists of very deep, poorly drained soils that formed in clayey alluvium.  These soils are on flood plains.  Slopes are 0 to 2 percent.  Mean annual precipitation is about 410 mm, and the mean annual air temperature is about 6 degrees C.
 
-TAXONOMIC CLASS: Fine, mixed, superactive, frigid Typic Endoaquolls 
+TAXONOMIC CLASS: Fine, mixed, superactive, frigid Typic Endoaquolls
 
 TYPICAL PEDON:  Bolack silt loam, native grass (colors are for moist soil unless otherwise noted). 
 
-    Oi--3 inches to 0; peat (0 to 4 inches thick) 
+    Oi--0 to 8 cm; peat (0 to 10 cm thick) 
 
-    A--0 to 10 inches; black (10YR 2/1) silt loam, dark gray (10YR 4/1) dry; weak medium subangular blocky structure; slightly hard, friable, slightly sticky and slightly plastic; many very fine roots; many fine irregular pores; neutral (pH 7.0); clear smooth boundary. (7 to 15 inches thick) 
+    A--8 to 33 cm; black (10YR 2/1) silt loam, dark gray (10YR 4/1) dry; weak medium subangular blocky structure; slightly hard, friable, slightly sticky and slightly plastic; many very fine roots; many fine irregular pores; neutral (pH 7.0); clear smooth boundary. (18 to 38 cm thick) 
 
-    Bg1--10 to 14 inches; dark gray (10YR 4/1) silty clay loam, light gray (10YR 7/1) dry; many fine distinct dark yellowish brown (10YR 4/6) redox concentrations; weak medium subangular blocky structure; hard, firm, sticky and plastic; many fine and very fine roots; many fine and medium tubular pores; neutral (pH 7.0); clear smooth boundary.
+    Bg1--33 to 43 cm; dark gray (10YR 4/1) silty clay loam, light gray (10YR 7/1) dry; many fine distinct dark yellowish brown (10YR 4/6) redox concentrations; weak medium subangular blocky structure; hard, firm, sticky and plastic; many fine and very fine roots; many fine and medium tubular pores; neutral (pH 7.0); clear smooth boundary.
 
-    Bg2--14 to 25 inches; grayish brown (10YR 5/2) clay; light gray (10YR 7/2) dry; many medium distinct dark yellowish brown (10YR 4/4) moist redox concentrations; moderate medium and coarse subangular blocky structure; very hard, extremely firm, very sticky and very plastic; common fine and medium roots; common fine tubular pores; slightly alkaline (pH 7.4); gradual smooth boundary.
+    Bg2--43 to 71 cm; grayish brown (10YR 5/2) clay; light gray (10YR 7/2) dry; many medium distinct dark yellowish brown (10YR 4/4) moist redox concentrations; moderate medium and coarse subangular blocky structure; very hard, extremely firm, very sticky and very plastic; common fine and medium roots; common fine tubular pores; slightly alkaline (pH 7.4); gradual smooth boundary.
 
-    Bg3--25 to 44 inches; light brownish gray (10YR 6/2) clay; light gray (10YR 7/2) dry; many large distinct dark yellowish brown (10YR 4/4) moist redox concentrations; moderate medium subangular blocky structure; very hard, extremely firm, very sticky and very plastic; few fine and medium roots; few fine tubular pores; slightly alkaline (pH 7.6); gradual smooth boundary. (Combined thickness of the Bg horizons is 9 to 50 inches.)
+    Bg3--71 to 119 cm; light brownish gray (10YR 6/2) clay; light gray (10YR 7/2) dry; many large distinct dark yellowish brown (10YR 4/4) moist redox concentrations; moderate medium subangular blocky structure; very hard, extremely firm, very sticky and very plastic; few fine and medium roots; few fine tubular pores; slightly alkaline (pH 7.6); gradual smooth boundary. (Combined thickness of the Bg horizons is 23 to 127 cm.)
 
-    Cg--44 to 60 inches; light gray (10YR 6/1) gravelly clay, white (10YR 8/1); many large distinct dark yellowish brown (10YR 4/4) moist redox concentrations; massive; very hard, extremely firm, very sticky and very plastic; 20 percent pebbles; slightly effervescent; moderately alkaline (pH 8.0). 
+    Cg--119 to 160 cm; gray (10YR 6/1) gravelly clay, white (10YR 8/1); many large distinct dark yellowish brown (10YR 4/4) moist redox concentrations; massive; very hard, extremely firm, very sticky and very plastic; 20 percent pebbles; slightly effervescent; moderately alkaline (pH 8.0). 
 
-TYPE LOCATION:  Lake County, Montana; 1,800 feet east and 1,850 feet south of the NW corner of sec. 1, T. 18 N., R. 20 W. 
+TYPE LOCATION:  Lake County, Montana; about 550 meters east and 575 meters south of the NW corner of sec. 1, T. 18 N., R. 20 W. 
 
-RANGE IN CHARACTERISTICS: 
+RANGE IN CHARACTERISTICS:
+Mean annual soil temperature--6 to 8 degrees C
+Soil moisture control section--10 and 30 cm
+Mollic epipedon thickness--18 to 50 cm
+Depth to seasonal water table--30 to 60 cm
 
-Soil temperature - 43 to 47 degrees F. 
+Particle-size control section:
+Clay content--35 to 60 percent
+Some pedons have a thin, 3 to 10 cm, surface layer of peat.
 
-Moisture control section - between 4 and 12 inches. 
+A horizon
+Value--3 through 5 dry; 2 or 3 moist
+Clay content--18 to 27 percent
+Reaction--pH 6.6 to 7.3
 
-Mollic epipedon thickness - 7 to 20 inches. 
+Bg1 horizon
+Value--5 through 7 dry; 3 or 4 moist
+Chroma--1 or 2
+Redoximorphic features--few to many 10YR 4/4, 10YR 4/6 redox concentrations
+Texture--silty clay or silty clay loam
+Clay content--27 to 45 percent
+Reaction--pH 6.6 to 7.3
 
-Control section - 35 to 60 percent clay. 
+Bg2 and Bg3 horizons
+Hue--5Y, 2.5Y, or 10YR
+Value-5 through 7 dry; 4 through 6 moist
+Chroma--0, 1 or 2
+Redoximorphic features--few to many 10YR 4/4, 10YR 4/6 redox concentrations; none to common 10YR 6/1 redox depletions
+Texture--clay or silty clay
+Clay content--40 to 60 percent
+Reaction--pH 7.4 to 7.8 
 
-Depth to seasonal water table - 12 to 24 inches. 
+Cg horizon
+Hue--5Y, N, 2.5Y, or 10YR
+Value--6 through 8 dry; 4 through 6 moist
+Chroma--0, 1, or 2
+Redoximorphic features--few to many 10YR 4/4, 10YR 4/6 redox concentrations; none to common 10YR 6/1 redox depletions
+Texture--clay or silty clay
+Clay content--40 to 60 percent
+Rock fragment content--0 to 25 percent gravel
+Reaction--pH 7.4 to 8.4 
 
-Some pedons have a thin 1 to 4 inch surface layer of peat. 
+COMPETING SERIES:  There are no competing series. 
 
-A horizon - Value:  3, 4, or 5 dry; 2 or 3 moist 
+GEOGRAPHIC SETTING:
+Landform--flood plains
+Elevation--775 to 1000 meters
+Slope--0 to 2 percent
+Parent material--alluvium
+Climate--long, cold winters; moist springs; warm summers
+Mean annual precipitation--310 to 460 mm
+Mean annual air temperature--5 to 7 degrees C
+Frost-free period--100 to 120 days
 
-Clay content:  18 to 27 percent 
+GEOGRAPHICALLY ASSOCIATED SOILS:  None listed
 
-Reaction:  pH 6.6 to 7.3 
-
-
-Bg1 horizon - Value:  5, 6 or 7 dry; 3 or 4 moist 
-
-Chroma:  1 or 2 
-
-Texture:  silty clay or silty clay loam 
-
-Redoximorphic features: few to many 10YR 4/4, 10YR 4/6 redox concentrations 
-
-Clay content:  27 to 45 percent 
-
-Reaction:  pH 6.6 to 7.3 
-
-
-Bg2 & Bg3 horizons - Hue:  5Y, 2.5Y, or 10YR 
-
-Value:  5, 6, or 7 dry; 4, 5 or 6 moist 
-
-Chroma:  0, 1 or 2 
-
-Redoximorphic features:  few to many 10YR 4/4, 10YR 4/6 redox concentrations; none to common 10YR 6/1 redox depletions 
-
-Texture:  clay or silty clay 
-
-Clay content:  40 to 60 percent 
-
-Reaction:  pH 7.4 to 7.8 
-
-
-Cg horizon - Hue:  5Y, N, 2.5Y, or 10YR 
-
-Value:  6, 7, or 8 dry; 4, 5, or 6 moist 
-
-Chroma:  0, 1, or 2 
-
-Redoximorphic features:  few to many 10YR 4/4, 10YR 4/6 redox concentrations; none to common 10YR 6/1 redox depletions 
-
-Texture:  clay or silty clay 
-
-Clay content:  40 to 60 percent 
-
-Rock fragments:  0 to 25 percent pebbles 
-
-Reaction:  pH 7.4 to 8.4 
-
-COMPETING SERIES: 
-
-There are no competing series. 
-
-GEOGRAPHIC SETTING: 
-
-Landform - flood plains 
-
-Elevation - 2,500 to 3,300 feet 
-
-Slope - 0 to 2 percent 
-
-Parent material - alluvium 
-
-Climate - long, cold winters; moist springs; warm summers 
-
-Mean annual precipitation - 12 to 18 inches 
-
-Mean annual air temperature - 41 to 45 degrees F. 
-
-Frost-free period - 100 to 120 days 
-
-DRAINAGE AND PERMEABILITY:  Poorly drained; slow permeability. 
+DRAINAGE AND PERMEABILITY:  Poorly drained; slow permeability
 
 USE AND VEGETATION:  Bolack soils are used mainly for rangeland, pastureland, hayland, and wildlife habitat.  The potential native vegetation is mainly tufted hairgrass, mannagrasses, northern reedgrass, tall sedges, and tall brushes. 
 
-DISTRIBUTION AND EXTENT:  Bolack soils are of small extent in the mountain valleys of western Montana. 
+DISTRIBUTION AND EXTENT:  Bolack soils are of small extent in the mountain valleys of western Montana; MLRA 44A. 
 
-MLRA SOIL SURVEY REGIONAL OFFICE (MO) RESPONSIBLE:  Bozeman, Montana.
+SOIL SURVEY REGIONAL OFFICE (SSRO) RESPONSIBLE:  Bozeman, Montana
 
-SERIES ESTABLISHED:  Lake County, Montana, 1991; proposed in Lake County, Montana, 1986.  Bolack is a coined name. 
+SERIES ESTABLISHED:  Lake County, Montana, 1991; proposed in Lake County, Montana, 1986;  Bolack is a coined name. 
 
-REMARKS:  Soil Interpretation Record:  MT1015.  Diagnostic horizons and features recognized in this pedon are:  a mollic epipedon from the soil surface to 10 inches (A horizon); horizons with redoximorphic features from 10 to 60 inches (Bg1, Bg2, Bg3 and Cg horizons); a particle-size control section from 10 to 40 inches (Bg1, Bg2 and Bg3 horizons.  Bolack soils have a frigid temperature regime and an aquic moisture regime. 
+REMARKS:  Soil Interpretation Record:  MT1015 
+Diagnostic horizons and features recognized in this pedon are:  
+Mollic epipedon--8 to 33 cm (A horizon)
+Horizons with redoximorphic features--33 to 160 cm (Bg1, Bg2, Bg3 and Cg horizons)
+Particle-size control section--25 to 100 cm (part of the A horizon, all of the Bg1 and Bg2 horizons and part of the Bg3 horizon)
+
+Bolack soils have a frigid soil temperature regime and an aquic soil moisture regime. 
+
+Converted to metric and O horizons were updated to start at zero. Competing series section was not updated. 01/2023
 
 National Cooperative Soil Survey
 U.S.A.

@@ -1,58 +1,93 @@
 LOCATION SCAVE                  UT
 
 Established Series
-Rev. VLE/MEO/AJE
-02/1999
+Rev. VLE-MEO-KLS
+01/2023
 
 SCAVE SERIES
 
-Typically, Scave soils have dark brown, medium acid, silt loam Al horizons; brown, slightly acid, cobbly loam A2 horizons and reddish brown, medium acid, very cobbly clay argillic horizons with weak prismatic structure.
+The Scave series consists of very deep, well drained soils that formed in residuum and/or colluvium derived mainly from sandstone with some quartzite, limestone and shale. These soils are on moderately steep to very steep mountain slopes. Slopes are 6 to 50 percent.  Mean annual precipitation is about 635 mm, and mean annual air temperature is about 5 degrees C.
 
 TAXONOMIC CLASS: Clayey-skeletal, smectitic Abruptic Palecryolls
 
 TYPICAL PEDON: Scave silt loam - native aspen, grasses and forbs.  (Colors are for dry soil unless otherwise noted.)
 
-     O1--2 to 0 inches; Matted decaying leaves and twigs.
+     Oi--0 to 5 cm; Matted decaying leaves and twigs.
 
-   A11--0 to 1O inches; dark brown (7.5YR 4/2) silt loam, very dark brown (7.5YR 2/2) moist; weak fine granular structure; soft, very friable, nonsticky and slightly plastic; many large and medium roots; few fine interstitial pores; 5 percent gravel; medium acid (pH 5.8); gradual wavy boundary. (10 to 16 inches thick)
+   A1--5 to 30 cm; brown (7.5YR 4/2) silt loam, very dark brown (7.5YR 2/2) moist; weak fine granular structure; soft, very friable, nonsticky and slightly plastic; many large and medium roots; few fine interstitial pores; 5 percent gravel; moderately acid (pH 5.8); gradual wavy boundary. (25 to 41 cm thick)
 
-   A12--10 to 16 inches; dark brown (7.5YR 4/3) and brown (7.5YR 5/4) silt loam, very dark brown (7.5YR 2/2) moist weak medium subangular blocky structure that parts to moderate fine granular structure; soft, very friable, nonsticky and slightly plastic; many large, medium, and small roots; few fine interstitial pores; 15 percent gravel; medium acid (pH 6.0); gradual wavy boundary. (O to 10 inches thick)
+   A2--30 to 45 cm; brown (7.5YR 4/3) and brown (7.5YR 5/4) silt loam, very dark brown (7.5YR 2/2) moist weak medium subangular blocky structure that parts to moderate fine granular structure; soft, very friable, nonsticky and slightly plastic; many large, medium, and small roots; few fine interstitial pores; 15 percent gravel; moderately acid (pH 6.0); gradual wavy boundary. (0 to 25 cm thick)
 
-   A2--16 to 34 inches; brown (7.5YR 5/4) cobbly loam, dark brown (7.5YR 4/4) moist; weak medium and coarse subangular blocky structure; soft, very friable, nonsticky and nonplastic; common medium and small roots, many medium and fine interstitial pores; 30 to 40 percent cobbles and gravel; slightly acid (pH 6.1); abrupt wavy boundary. (10 to 24 inches thick)
+   E--45 to 91 cm; brown (7.5YR 5/4) cobbly loam, brown (7.5YR 4/4) moist; weak medium and coarse subangular blocky structure; soft, very friable, nonsticky and nonplastic; common medium and small roots, many medium and fine interstitial pores; 30 to 40 percent cobbles and gravel; slightly acid (pH 6.1); abrupt wavy boundary. (25 to 61 cm thick)
 
-   B21t--34 to 46 inches; reddish brown (2.5YR 5/4) very cobbly clay; red (2.5YR 4/6) moist; weak medium prismatic structure that parts to moderate medium subangular blocky structure; extremely hard, very firm, very sticky and very plastic; few fine roots; many medium and fine tubular pores; moderately thick continuous clay films; 60 percent cobbles; medium acid (pH 5.6); few fine black concretions and stains; gradual wavy boundary. (12 to 20 inches thick)
+   Bt1--91 to 121 cm; reddish brown (2.5YR 5/4) very cobbly clay; red (2.5YR 4/6) moist; weak medium prismatic structure that parts to moderate medium subangular blocky structure; extremely hard, very firm, very sticky and very plastic; few fine roots; many medium and fine tubular pores; moderately thick continuous clay films; 60 percent cobbles; moderately acid (pH 5.6); few fine black concretions and stains; gradual wavy boundary. (30 to 50 cm thick)
 
-   B22t--46 to 56 inches; same as B21t horizon but with 80 to 90 percent cobbles and a few stones. (Not sampled.)
+   Bt2--121 to 146 cm; same as Bt1 horizon but with 80 to 90 percent cobbles and a few stones. (Not sampled.)
 
-TYPE LOCATION: Cache County, Utah; 1.5 miles south and 2 miles west of Anderson Range headquarters; about 1,000 feet north of the center of sec. 9, T.9N., R.3E.
+TYPE LOCATION: Cache County, Utah; about 2 km south and 3 km west of Anderson Range headquarters; about 305 meters north of the center of sec. 9, T.9N., R.3E.
 
-RANGE IN CHARACTERISTICS: The mollic epipedon ranges from 10 to 16 inches thick. The combined thickness of the Al, A2 and B2t horizons is 60 to more than 75 inches. There is an abrupt texture change between the A2 horizon and the B2t horizon at depths of 24 to 45 inches. Clay content increases more than 20 percent within a vertical distance of less than 3 inches. Rock fragments are mainly cobble and stone size angular sandstone and rounded quartzite rock fragments ranging from about 5 to 20 percent in the Al horizons, 30 to 70 percent in the A2 horizon, and 35 to 70 percent in the upper part of the B2t horizon, 70 to 90 percent in the lower part of the B2t horizon. The mean annual soil temperature ranges from 38 to 45 degrees F., and the mean summer soil temperature at a depth of about 20 inches ranges from 52 to 58 degrees F. The soils are moist for 55 to 65 percent of the time and are dry in parts of the 4 to 12 inch depth for 60 to 75 days during the late summer or early autumn.
+RANGE IN CHARACTERISTICS: 
+Soil moisture--The soils are moist for 55 to 65 percent of the time and are dry in parts of the 10 to 30 cm depth for 60 to 75 days during the late summer or early autumn.
+Mean annual soil temperature--3 to 7 degrees C
+Mean summer soil temperature--11 to 14 degrees C
+Mollic epipedon thickness--25 to 40 cm
+Combined thickness of A, E and Bt horizons--150 to 190 cm or more
+Abruptic feature--There is an abrupt texture change between the E horizon and the Bt1 horizon at depths of 60 to 115 cm, where the clay content increases more than 20 percent within a vertical distance of less than 8 cm.
+Rock fragment content--5 to 20 percent in the A horizons, 30 to 70 percent in the E horizon, 35 to 70 percent in the Bt1 horizon, and 70 to 90 percent in the lower part of the Bt2 horizon; mainly cobble- and stone-size angular sandstone and rounded quartzite rock fragments.
 
-The Al horizon has hue of 10YR or 7.5YR, value of 2 through 5 dry, 2 or 3 moist, and chroma of 2 or 3. It has weak to moderate, fine to medium granular structure or weak subangular blocky structure in the lower part. This horizon ranges from medium acid to neutral.
+A horizons
+Hue--10YR or 7.5YR
+Value--2 through 5 dry, 2 or 3 moist
+Chroma--2 or 3
+Structure--weak to moderate, fine to medium granular structure or weak subangular blocky structure in the lower part
+Reaction--pH 5.6 to 7.3
 
-The A2 horizon has hue of 10YR, 7.5YR or 5YR, value of 5 through 7 dry, 4 or 5 moist, and chroma of 2 through 4. It ranges from cobbly loam or very cobbly loam to gravelly fine sandy loam. This horizon has weak to moderate, fine to coarse subangular blocky structure. It is strongly acid to slightly acid.
+E horizon
+Hue--10YR, 7.5YR or 5YR
+Value--5 through 7 dry, 4 or 5 moist
+Chroma--2 through 4
+Texture--cobbly loam or very cobbly loam to gravelly fine sandy loam
+Structure--weak to moderate, fine to coarse subangular blocky structure
+Reaction--pH 5.1 to 6.5
 
-The B2t horizon has hue of 5YR or 2.5YR, value of 5 through 7 dry, 3 through 5 moist, and chroma of 4 through 8. It is very cobbly or very gravelly clay or very cobbly heavy clay loam with more than 35 percent clay. This horizon has weak to strong, medium to coarse prismatic structure that parts to blocky structure. It ranges from medium acid to neutral. It has few to continuous, thin or moderately thick clay films on peds and in pores.
+Bt horizons
+Hue--5YR or 2.5YR
+Value--5 through 7 dry, 3 through 5 moist
+Chroma--4 through 8
+Texture--very cobbly or very gravelly clay or very cobbly heavy clay loam
+Clay content--35 percent
+Clay films--few to continuous, thin or moderately thick clay films on peds and in pores
+Structure--weak to strong, medium to coarse prismatic structure that parts to blocky
+Reaction--pH 5.6 to 7.3
 
-COMPETING SERIES: These are the Cluff, Flygare, Lucky Star, Pritchett, Red Spur and Roundy series. Cluff soils lack mollic epipedons. Flygare and Red Spur soils have mollic epipedons more than 16 inches thick and have cobbly sandy clay loam argillic horizons with less than 35 percent clay. Lucky Star soils have albic horizons that tongue into very cobbly sandy clay loam argillic horizons. Pritchett soils have hue of 10YR or 7.5YR in the B2t horizon. Roundy soils have mollic epipedons more than 16 inches thick and have argillic horizons of cobbly clay containing less than 35 percent rock fragments.
+COMPETING SERIES: These are the Cluff, Flygare, Lucky Star, Pritchett, Red Spur and Roundy series. Cluff soils lack mollic epipedons. Flygare and Red Spur soils have mollic epipedons more than 40 cm thick and have cobbly sandy clay loam argillic horizons with less than 35 percent clay. Lucky Star soils have albic horizons that tongue into very cobbly sandy clay loam argillic horizons. Pritchett soils have hue of 10YR or 7.5YR in the Bt horizon. Roundy soils have mollic epipedons more than 40 cm thick and have argillic horizons of cobbly clay containing less than 35 percent rock fragments.
 
-SETTING: Scave soils are on moderately steep to very steep mountain slopes at elevations of 6,200 to 9,200 feet. Slope gradients are 6 to 50 percent. Parent rocks are dominantly sandstone with some quartzite, limestone and shale. The climate is moist subhumid with warm dry summers and cold moist winters. The average annual precipitation ranges from 20 to 35 inches. The mean annual temperature ranges from 39 to 45F. The mean summer temperature is 54 to 58 degrees F. The frost free period is 80 to 100 days.
+GEOGRAPHIC SETTING:
+Landform--moderately steep to very steep mountain slopes
+Elevations--1890 to 2805 meters
+Slope--6 to 50 percent
+Parent material--sandstone with some quartzite, limestone and shale
+Climate--moist subhumid with warm dry summers and cold moist winters
+Mean annual precipitation--510 to 890 mm
+Mean annual air temperature--4 to 7 degrees C
+Mean summer air temperature--12 to 14 degrees C
+Frost free period--80 to 100 days
 
-PRINCIPAL ASSOCIATED SOILS: These are the competing Lucky Star soils and the Ant Flat, Charcol, Despain, Hoskin and Schuster soils. Ant Flat, Despain and Hoskin soils lack A2 horizons. Also, Ant Flat soils are not gravelly or cobbly and have horizons of carbonate accumulation. Charcol soils have mollic epipedons more than 20 inches thick and have less than 35 percent clay in the argillic horizons. Despain soils have gravelly clay loam argillic horizons with less than 35 percent gravel and have horizons of carbonate accumulation. Hoskin soils have very gravelly loam argillic horizons. Schuster soils lack abruptic texture change and have less than 35 percent clay in the argillic horizons.
+GEOGRAPHICALLY ASSOCIATED SOILS: None listed
 
-DRAINAGE AND PERMEABILITY: Well drained; slow runoff; slow permeability.
+DRAINAGE AND PERMEABILITY: Well drained; slow runoff; slow permeability
 
-USE AND VEGETATION: These soils are used for watershed and rangeland for grazing of livestock and wildlife. The native vegetation is aspen with widely spaced Douglas-fir and subalpine fir, understory of snowberry, mountain bromegrass, blue wildrye, oniongrass, slender wheatgrass, peavine, horsemint, geranium and sweet-anise.
+USE AND VEGETATION: These soils are used for watershed and rangeland for grazing of livestock and wildlife. The native vegetation is aspen with widely spaced Douglas-fir and subalpine fir, understory of snowberry, mountain bromegrass, blue wildrye, oniongrass, slender wheatgrass, peavine, horsemint, geranium and anise.
 
-DISTRIBUTION AND EXTENT: High mountain areas of northern Utah. This series is inextensive.
+DISTRIBUTION AND EXTENT:  Scave soils are of small extent in the high mountain areas of northern Utah; MLRAs 28A and 47.
 
-MLRA SOIL SURVEY REGIONAL OFFICE (MO) RESPONSIBLE: Bozeman, Montana
+SOIL SURVEY REGIONAL OFFICE (SSRO) RESPONSIBLE: Bozeman, Montana
 
-SERIES ESTABLISHED: Cache County Utah 1972.
+SERIES ESTABLISHED: Cache County Utah, 1972
 
 REMARKs: The Scave soils were formerly classified as Brunizems intergrading to Gray Wooded soils.
 
-OSED scanned by NSSQA.  Last revised by state 11/74.
+Converted to metric and O horizons were updated to start at zero. Competing series section was not updated. 01/2023
 
 National Cooperative Soil Survey
 U.S.A.
