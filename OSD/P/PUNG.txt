@@ -2,7 +2,7 @@ LOCATION PUNG                   NV
 
 Established Series
 Rev. DMC/GJS/JBF
-06/2017
+02/2023
 
 PUNG SERIES
 
@@ -12,7 +12,7 @@ TAXONOMIC CLASS: Fine, smectitic, mesic Vertic Palexerolls
 
 TYPICAL PEDON:   Pung very stony loam--rangeland.  (Colors are for dry soil unless otherwise noted.)
 
-    Al--0 to 5 cm; grayish brown (10YR 5/2) very stony loam, very dark grayish brown (10YR 3/2) moist; moderate fine granular structure; slightly hard, very friable, slightly sticky and slightly plastic; many very fine roots; many very fine interstitial pores; 25 percent gravel and 10 percent stones; neutral (pH 6.6); abrupt wavy boundary.  (3 to 8 cm thick)
+    A1--0 to 5 cm; grayish brown (10YR 5/2) very stony loam, very dark grayish brown (10YR 3/2) moist; moderate fine granular structure; slightly hard, very friable, slightly sticky and slightly plastic; many very fine roots; many very fine interstitial pores; 25 percent gravel and 10 percent stones; neutral (pH 6.6); abrupt wavy boundary.  (3 to 8 cm thick)
 
     A2--5 to 15 cm; brown (10YR 5/3) loam, dark brown (10YR 3/3) moist; moderate fine subangular blocky structure; slightly hard, friable, slightly sticky and slightly plastic; many very fine and few fine roots; many very fine tubular pores; 10 percent gravel; neutral (pH 6.6); abrupt wavy boundary.  (8 to 25 cm thick)
 
@@ -26,7 +26,7 @@ TYPICAL PEDON:   Pung very stony loam--rangeland.  (Colors are for dry soil unle
 
     Bqk--102 to 152 cm; very pale brown (10YR 8/3) sandy loam, yellowish brown (10YR 5/6) moist; strong fine angular blocky structure; hard, brittle, nonsticky and nonplastic; few very fine roots; very few tubular pores; 80 percent discontinuous weakly silica cemented; common fine soft carbonate masses on ped faces; slightly alkaline (pH 7.6).
 
-TYPE LOCATION:   Douglas County, Nevada; 13 miles east and l mile north of Gardnerville; about 500 feet south and 400 feet west of northeast corner of Section 27, T. l3 N., R. 22 E.; USGS Pine Nut Valley 7.5 minute topographic quadrangle; latitude 38 degrees 58 minutes 3 seconds N and longitude 119 degrees 29 minutes 34 seconds W; WGS84 Decimal Degrees 38.9675000 latitude, -119.4927778 longitude.
+TYPE LOCATION:   Douglas County, Nevada; 13 miles east and l mile north of Gardnerville; about 500 feet south and 400 feet west of northeast corner of Section 27, T. 13 N., R. 22 E.; USGS Pine Nut Valley 7.5 minute topographic quadrangle; latitude 38 degrees 58 minutes 3 seconds N and longitude 119 degrees 29 minutes 34 seconds W; WGS84 Decimal Degrees 38.9675000 latitude, -119.4927778 longitude.
 
 RANGE IN CHARACTERISTICS:
 Soil moisture: Usually dry from mid-June through October; aridic soil moisture regime bordering on xeric. 
@@ -79,7 +79,7 @@ DISTRIBUTION AND EXTENT:  Western Nevada.  These soils are inextensive. MLRA 26.
 
 MLRA SOIL SURVEY REGIONAL OFFICE (MO) RESPONSIBLE: Davis, California
 
-SERIES ESTABLISHED:   Douglas County Area, Nevada, l98l.
+SERIES ESTABLISHED:   Douglas County Area, Nevada, 1981.
 
 REMARKS:  Diagnostic horizons and features recognized in this pedon are: 
 Mollic epipedon - The zone from the surface to 28 cm (A1, A2 and Bt1 horizons).

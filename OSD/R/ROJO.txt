@@ -2,7 +2,7 @@ LOCATION ROJO                   CA
 
 Established Series
 RD:TAC/JJJ/WCL/DJE
-04/2001
+02/2023
 
 ROJO SERIES
 
@@ -10,19 +10,20 @@ The Rojo series consists of moderately deep, well drained soils that formed in m
 
 TAXONOMIC CLASS: Ashy, glassy, mesic Vitritorrandic Durixerolls
 
-TYPICAL PEDON:  Rojo sandy loam--on a 5 percent slope in a potato field at 4,440 feet elevation.,  (When described on January 11, l984, the soil was moist throughout.  Colors are for dry soil unless otherwise stated.)
+TYPICAL PEDON:  Rojo sandy loam--on a 5 percent slope in a potato field at 4,440 feet elevation.,  (When described on January 11, 1984, the soil was moist throughout.  Colors are for dry soil unless otherwise stated.)
 
     Ap--0 to 8 inches; brown (7.5YR 5/2) sandy loam, dark reddish brown (5YR 3/2) moist; weak fine subangular blocky structure; soft, very friable, nonsticky and nonplastic; common very fine roots; many very fine interstitial and few very fine tubular pores; 5 percent pebbles; neutral (pH 7.0); clear smooth boundary.  (7 to 9 inches thick)
 
     A--8 to 13 inches; brown (7.5YR 5/2) sandy loam, dark reddish brown (5YR 3/2) moist; weak medium subangular blocky structure; soft, very friable, nonsticky and nonplastic; common very fine roots; many very fine interstitial and few very fine tubular pores; 5 percent pebbles; neutral (pH 7.3); clear wavy boundary.  (4 to 6 inches thick)
 
-    Bwl--13 to 20 inches; pinkish gray (7.5YR 6/2) sandy loam, reddish brown (5YR 4/3) moist; moderate medium subangular blocky structure; slightly hard, friable, nonsticky and nonplastic; few very fine roots; common very fine interstitial, tubular and few fine tubular pores; 5 percent pebbles; mildly alkaline (pH 7.5); gradual wavy boundary.  (6 to 12 inches thick)
+    Bw1--13 to 20 inches; pinkish gray (7.5YR 6/2) sandy loam, reddish brown (5YR 4/3) moist; moderate medium subangular blocky structure; slightly hard, friable, nonsticky and nonplastic; few very fine roots; common very fine interstitial, tubular and few fine tubular pores; 5 percent pebbles; slightly alkaline (pH 7.5); gradual wavy boundary.  (6 to 12 inches thick)
 
-    Bw2--20 to 28 inches; light reddish brown (5YR 6/3) sandy loam, reddish brown (5YR 4/3) moist; moderate medium subangular blocky structure; slightly hard, friable, nonsticky and nonplastic; few very fine roots; common very fine interstitial, tubular and few fine tubular pores; 5 percent pebbles; mildly alkaline (pH 7.5); abrupt wavy boundary.  (8 to 13 inches thick)
+    Bw2--20 to 28 inches; light reddish brown (5YR 6/3) sandy loam, reddish brown (5YR 4/3) moist; moderate medium subangular blocky structure; slightly hard, friable, nonsticky and nonplastic; few very fine roots; common very fine interstitial, tubular and few fine tubular pores; 5 percent pebbles; slightly alkaline (pH 7.5); abrupt wavy boundary.  (8 to 13 inches thick)
 
-    2Bkqm--28 to 30 inches; pink (5YR 7/3) strongly cemented duripan; reddish brown (5YR 5/4) moist; massive; very hard and brittle, very firm; has continious laminar bands 1 to 2 mm thick throughout; roots are horizontal and on top of the pan; few fine closed tubular pores; moderatedly alkaline (pH 8.0) slightly effervescent with a thin layer of lime .5 to 1 mm on top of this horizon; abrupt wavy boundary. (1 to 4 inches thick)
+    2Bkqm--28 to 30 inches; pink (5YR 7/3) strongly cemented duripan; reddish brown (5YR 5/4) moist; massive; very hard and brittle, very firm; has continious laminar bands 1 to 2 mm thick throughout; roots are horizontal and on top of the pan; few fine closed tubular pores; moderately alkaline (pH 8.0) slightly effervescent with a thin layer of lime .5 to 1 mm on top of this horizon; abrupt wavy boundary. (1 to 4 inches thick)
 
     2Cr--30 inches; pink (5YR 7/3) weathered lacustrine tuff and volcanic ash, reddish brown (5YR 5/4) moist.
+
 TYPE LOCATION:  Siskiyou County, California; about 11 miles east of Macdoel, 3,750 feet north of Red Rock road, 115 feet west of fence line; 1,900 feet north, 1,850 feet east of the southwest corner of section 31, T. 46 N., R. 2 E.
 
 RANGE IN CHARACTERISTICS:  The thickness of the solum and depth to the duripan ranges from 25 to 40 inches.  The mean annual soil temperature ranges from 48 to 52 degrees F.  The soil temperature at a depth of 20 inches is above 41 degrees F from about March 15 to December 1 (255 days) and is above 47 degrees F from about April 15 to November 15 (210 days).  The soil between depths of 8 to 24 inches is dry in all parts from about June 15 until November 10 (145 days).  The soil moisture control section is dry more than half the time the soil temperature is above 41 degrees F.  Mollic epipedon ranges from 11 to 15 inches.  Clay content ranges from 10 to 18 percent.
@@ -49,9 +50,9 @@ SERIES PROPOSED:  Siskiyou County, California, Butte Valley-Tule Lake Soil Surve
 
 REMARKS:  Diagnostic horizons and features recognized in the pedon are:
 
-Mollic epipedon--Zone from the surface of the soils to a depth of 13 inches (Ap,A2,Bwl).
+Mollic epipedon--Zone from the surface of the soils to a depth of 13 inches (Ap, A2, Bw1).
 
-Cambic horizon--The zone from about 13 to 28 inches (Bwl, Bw2) color and structure.
+Cambic horizon--The zone from about 13 to 28 inches (Bw1, Bw2) color and structure.
 
 Duripan--The zone from about 28 to 30 inches.
 
@@ -63,5 +64,3 @@ Aridic moisture--Dry 145 days.  The zone from a depth of about 8 to 24 inches.
 
 National Cooperative Soil Survey
 U.S.A.
-
-

@@ -2,7 +2,7 @@ LOCATION POLUM                  NV
 
 Established Series
 Rev. TEB/GJS/JBF
-03/2016
+02/2023
 
 POLUM SERIES
 
@@ -18,11 +18,11 @@ TYPICAL PEDON:  Polum gravelly silt loam--rangeland.  (Colors are for dry soil u
 
     A3--18 to 43 cm; dark grayish brown (10YR 4/2) very gravelly loam, very dark grayish brown (10YR 3/2) moist; massive; soft, very friable, slightly sticky and slightly plastic; many very fine and few fine roots; common very fine tubular pores; 40 percent gravel; slightly effervescent; moderately alkaline (pH 8.0); clear smooth boundary.  (0 to 25 cm thick)
 
-    Bkl--43 to 61 cm; light brownish gray (10YR 6/2) very gravelly loam, dark grayish brown (10YR 4/2) moist; massive; slightly hard, very friable; slightly sticky and slightly plastic; common very fine and few fine and medium roots; common very fine tubular pores; 40 percent gravel; violently effervescent, common fine and medium carbonate filaments; thin carbonate coats on gravel, moderately alkaline (pH 8.4); clear smooth boundary.  (18 to 46 thick)
+    Bk1--43 to 61 cm; light brownish gray (10YR 6/2) very gravelly loam, dark grayish brown (10YR 4/2) moist; massive; slightly hard, very friable; slightly sticky and slightly plastic; common very fine and few fine and medium roots; common very fine tubular pores; 40 percent gravel; violently effervescent, common fine and medium carbonate filaments; thin carbonate coats on gravel, moderately alkaline (pH 8.4); clear smooth boundary.  (18 to 46 thick)
 
     Bk2--61 to 152; light brownish gray (10YR 6/2) very gravelly loam, dark grayish brown (10YR 4/2) moist; massive; slightly hard, friable, slightly sticky and slightly plastic; few very fine roots; common very fine and few fine tubular pores; 55 percent gravel; strongly effervescent, common fine carbonate filaments, thin carbonate coats on gravel; moderately alkaline (pH 8.2).
 
-TYPE LOCATION:  Pershing County, Nevada; near Star Peak, approximately 10 miles south of Imlay, about l00 feet north and 1,700 feet west of the southeast corner of section 29, T. 31 N., R. 34 E.; USGS Star Peak 7.5 minute topographic quadrangle; latitude 40 degrees 31 minutes 22 seconds N and longitude 118 degrees 09 minutes 49 seconds W; WGS84 Decimal Degrees 40.5230556 latitude, -118.1805556 longitude.
+TYPE LOCATION:  Pershing County, Nevada; near Star Peak, approximately 10 miles south of Imlay, about 100 feet north and 1,700 feet west of the southeast corner of section 29, T. 31 N., R. 34 E.; USGS Star Peak 7.5 minute topographic quadrangle; latitude 40 degrees 31 minutes 22 seconds N and longitude 118 degrees 09 minutes 49 seconds W; WGS84 Decimal Degrees 40.5230556 latitude, -118.1805556 longitude.
 
 RANGE IN CHARACTERISTICS:
 Soil moisture: Moist late fall through early summer, dry late July through September. Typic xeric moisture regime.
@@ -48,7 +48,7 @@ COMPETING SERIES:  There are no other series in this family.
 
 GEOGRAPHIC SETTING:  Polum soils are on side slopes of mountains.  These soils formed in residuum and colluvium derived from limestone, dolomite, sandstone, chert and calcareous shale.  Slopes are 30 to 75 percent.  Elevations are 2,290 to 2,750 meters.  The climate is cool, semiarid with cool, moist winters and warm, dry summers.  The mean annual precipitation is 360to 410 mm mean annual temperature is 4 to 7 degrees C, and the frost-free season is 50 to 80 days.
 
-GEOGRAPHICALLY ASSOCIATED SOILS:  These are the tentative DeSoot and Hummer series.  DeSoot and Hummer soils have mollic epipedons less than l6 inches thick.  DeSoot soils also have a carbonate equivalent of 40 to 60 percent and Hummer soils are moderately deep to bedrock.
+GEOGRAPHICALLY ASSOCIATED SOILS:  These are the tentative DeSoot and Hummer series.  DeSoot and Hummer soils have mollic epipedons less than 16 inches thick.  DeSoot soils also have a carbonate equivalent of 40 to 60 percent and Hummer soils are moderately deep to bedrock.
 
 DRAINAGE AND SATURATED HYDRAULIC CONDUCTIVITY:  Well drained; rapid runoff; moderately high saturated hydraulic conductivity.
 
