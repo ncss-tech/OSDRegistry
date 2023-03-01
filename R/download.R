@@ -26,7 +26,10 @@
       osd_query,
       ddl_resp_mo = as.character(x),
       estab_year1 = as.character(start_year),
-      estab_year2 = as.character(end_year)
+      estab_year2 = as.character(end_year),
+      established_status = 1,
+      tentative_status = 1,
+      inactive_status = 1
     )
 
   osd_result1 <- rvest::session_submit(osd_session, osd_request1, "submit_query")
