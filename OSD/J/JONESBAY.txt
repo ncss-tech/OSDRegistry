@@ -1,137 +1,123 @@
 LOCATION JONESBAY               TX
 
 Tentative Series
-JKW-KBH-SAK-AKS
-01/2023
+SAK-GWH-AKS
+03/2023
 
 JONESBAY SERIES
 
-The Jonesbay series consists of very deep, subaqueous (permanently submersed), moderately high saturated hydraulic conductivity soils that formed in loamy estuarine deposits. These nearly level soils occur on lagoon bottoms and estuarine tidal streams of estuaries. Slope is less than 1 percent. Mean annual precipitation is about 1295 mm (51 in) and mean annual air temperature is about 20.6 degrees C (69 degrees F).
+Depth Class--Very deep
+Drainage Class--Subaqueous drainage
+Saturated Hydraulic Conductivity--Moderately high
+Parent Material--Fine-silty estuarine deposits
+Geomorphic Location--Estuarine tidal streams and mainland coves
+Slope range for Series--0 to 1 percent
+Mean Annual Air Temperature--20.6 degrees C. (69 degrees F.)
+Mean Annual Precipitation--1295 millimeters (51 inches)
 
 TAXONOMIC CLASS: Fine-silty, mixed, superactive, nonacid, hyperthermic Fluventic Sulfiwassents
 
-TYPICAL PEDON: Slopbowl loam, in 85 cm (2.5 ft) of saline water. (Colors are taken from freshly opened core interiors unless otherwise stated.)
+TYPICAL PEDON: Jonesbay loam, in 85 cm (2.8 feet) of permanent saline water. (Colors are for moist soil unless otherwise stated.)
 
-    Aseg--0 to 29 cm (0 to 11 in); dark greenish gray (10Y 4/1) loam; massive; very fluid; moderately alkaline, pH 8.0, pH indicator solutions taken on freshly opened core interior; positive color change with 3 percent hydrogen peroxide on freshly opened core interior; positive color change and strongly effervescent with 30 percent hydrogen peroxide taken on freshly opened core interior; gradual boundary. (17 to 41 cm [7 to 16 in] thick)
+ Aseg--0 to 29 centimeters (0 to 11 in); dark greenish gray (10Y 4/1) loam; massive; very fluid; moderately alkaline (pH 8.0); positive color change with 3 percent hydrogen peroxide; positive color change and strongly effervescent with 30 percent hydrogen peroxide; gradual boundary. (17 to 41 centimeters, 7 to 16 inches thick)
 
-    Cseg--29 to 78 cm (11 to 31 in); dark greenish gray (10Y 4/1) sandy clay loam; massive; very fluid; 1 percent by volume 2 to 5-millimeter shell fragments; moderately alkaline, pH 8.0, pH indicator solutions; positive color change with 3 percent hydrogen peroxide on freshly opened core interior; positive color change and strongly effervescent with 30 percent hydrogen peroxide taken on freshly opened core interior; gradual boundary. (41 to 109 cm [16 to 43 in] thick)                                                                      
+ Cseg1--29 to 78 centimeters (11 to 31 in); dark greenish gray (10Y 4/1) sandy clay loam; massive; very fluid; 1 percent shell fragments; moderately alkaline (pH 8.0); positive color change with 3 percent hydrogen peroxide; positive color change and strongly effervescent with 30 percent hydrogen peroxide; gradual boundary. 
 
-    Cg1--78 to 172 cm (31 to 68 in); dark greenish gray (10Y 4/1) sandy clay loam; massive; moderately fluid; 2 percent by volume 5 to 15-millimeter shell fragments; moderately alkaline, pH 8.0, pH indicator solutions; strongly effervescent with 30 percent hydrogen peroxide on freshly opened core interior; gradual boundary. (combined thickness of the Cg layers is 72 to 162 cm [28 to 63 in])                                                                           
+ Cseg2--78 to 172 centimeters (31 to 68 in); dark greenish gray (10Y 4/1) sandy clay loam; massive; moderately fluid; 2 percent shell fragments; moderately alkaline (pH 8.0); strongly effervescent with 30 percent hydrogen peroxide; gradual boundary. 
 
-    Cg2--172 to 203 cm (68 to 80 in); dark greenish gray (10Y 4/1) clay loam; massive; nonfluid; 1 percent 2 to 5-millimeter shell fragments; moderately alkaline, pH 8.0, pH indicator solutions; strongly effervescent with 30 percent hydrogen peroxide on freshly opened core interior. 
+ Cseg3--172 to 203 centimeters (68 to 80 in); dark greenish gray (10Y 4/1) clay loam; massive; nonfluid; 1 percent shell fragments; moderately alkaline (pH 8.0); strongly effervescent with 30 percent hydrogen peroxide.
 
-TYPE LOCATION: Brazoria County, TX; by boat from the public boat ramp at Hoskins Mound Road and Bastrop Bayou, about 5.5 miles in an easterly direction on the dredged channel for Bastrop Bayou to the intracoastal waterway; 1.0-mile northeast on intracoastal waterway to mouth of bayou; about 2.0 miles north and west on serpentine-shaped bayou to Alligator Lake; located about 0.25 mile west on Alligator Lake. 
+TYPE LOCATION: Brazoria County, TX; by boat from the public boat ramp at Hoskins Mound Road and Bastrop Bayou, about 5.5 miles in an easterly direction on the dredged channel for Bastrop Bayou to the intracoastal waterway; 1.0-mile northeast on intracoastal waterway to mouth of bayou; about 2.0 miles north and west on serpentine-shaped bayou to Alligator Lake; located about 0.25 mile west on Alligator Lake; USGS topographic quadrangle: Christmas Point, TX
 
-USGS topographic quadrangle: Christmas Point, TX 
-Latitude: 29 degrees 6 minutes 40.30 seconds north
-Longitude: 95 degrees 12 minutes 33.60 seconds west 
-Datum: WGS84     
-UTM Zone: 15
-UTM Easting: 285014 meters  
-UTM Northing:   3222322 meters
-
-Decimal Degrees
-  Std Latitude: 29.1111944
-  Std Longitude: -95.2093333
+Latitude--29.1111944
+Longitude-- -95.2093333
+Datum--WGS84
+Coordinate source--from hand-held GPS
 
 RANGE IN CHARACTERISTICS:
-Soil Moisture: These soils are permanently submersed.
+Depth to bedrock--greater than 200 centimeters
+Soil Moisture--These soils are continuously inundated.
+Water depth--Ranges from 8 to 130 centimeters (3 to 51 inches)
+Reaction throughout-slightly acid to strongly alkaline (6.5 to 8.6)
+Thickness of the sulfidic materials--22 to 154 cm (9 to 61 in)
+Thickness of the fluid soil material (n value greater than 0.7)--37 to 172 cm (15 to 68 in)
+Electrical conductivity values for air-dried soil throughout--7 to 36 ds/cm
+Particle-size control section (weighted average)--Total clay content: 20 to 35 percent
+Content of sands larger than very fine sand: 7 to 15 percent
 
-Thickness of the sulfidic materials: 41 to 137 cm (16 to 54 in)
-Thickness of the fluid soil material (n value greater than 7): 107 to 172 cm (42 to 68 in)
-Electrical conductivity values for air-dried soil throughout: 20 to 25 ds/cm
-Reaction (pH) of air-dried soil throughout: 7.9 to 8.4 (moderately alkaline)
+Aseg horizon--Hue--10Y
+Value--4
+Chroma--1
+Texture--loam, sandy clay loam, or clay loam
 
-Particle-size control section (weighted average):
-Total clay content: 20 to 33 percent
-Content of sands larger than very fine sand: 7 to 13 percent
+Cseg layer--(some pedons have a Cg or 2Cg layer with browner colors and clay texture)
+Hue--N or 10Y
+Value--4
+Chroma--0 to 1
+Texture--loam, sandy clay loam, or clay loam
+Redox concentrations--amount-0 to 5 percent; color-shades of brown; location-in matrix and only become visible after exposure to air
+Redox depletions----amount-0 to 3 percent; color-shades of gray, blue, and green; location-in matrix
 
-Aseg horizon:
-Hue: 10Y 
-Value: 4
-Chroma: 1
-Texture: loam, sandy clay loam, or clay loam
-Consistence: moderately fluid to very fluid
-Total clay content: 20 to 31 percent
-Sand content: 35 to 55 percent
-Shell fragments: amount-0 to 2 percent; size- 2 to 20 mm; shape-flat
-
-Cseg layer:
-(this layer is absent in some pedons)
-Hue: 10Y
-Value: 4
-Chroma: 1
-Texture: loam, sandy clay loam, or clay loam
-Total clay content: 23 to 30 percent
-Sand content: 45 to 55 percent
-Shell fragments: amount-0 to 2 percent; size- 2 to 20 mm; shape-flat
-
-Cg layer:
-(some pedons have a 2Cg layer with browner colors and clay texture)
-Hue: N or 10Y
-Value: 4
-Chroma: 0 or 1
-Texture: loam, sandy clay loam, or clay loam
-Total clay content: 21 to 33 percent
-Sand content: 42 to 65 percent
-Redox concentrations: amount-0 to 5 percent; color-shades of brown; location-in matrix and only become visible after exposure to air 
-Masses of reduced iron and manganese: amount-0 to 3 percent; color-shades of gray, blue, and green; location-in matrix 
-Shell fragments: amount-0 to 2 percent; size- 2 to 20 mm; shape-flat
-
-COMPETING SERIES: 
-These are no series in the same family. Similar soils are the Contees Wharf, Muddy Creek, and Sellman series.
-Contees Wharf, Muddy Creek, and Sellman soils: glauconitic mineralogy; mesic soil temperature regime
+COMPETING SERIES:
+These are no series in the same family.
+Similar soils are the Middlemoor, Pishagqua, Tingles and Truitt.
+Middlemoor soils--are on barrier cove landforms and have sulfidic materials throughout
+Pishagqua soils--have cooler soil temperatures, sulfidic soil materials throughout and occur on similar landforms in the Northeast region
+Tingles and Truitt soils--have cooler soil temperatures and have sulfidic materials throughout
 
 GEOGRAPHIC SETTING:
-Parent material: Loamy estuarine deposits
-Landscape: Estuaries
-Landform: Lagoon bottoms and estuarine tidal streams
-Slope: Less than 1 percent
-Precipitation Pattern: rainfall is mostly uniform throughout the year but most of the annual rainfall occurs during the Spring, Summer, and Fall months
-Mean annual precipitation: 1219 to 1295 mm (48 to 51 in)
-Mean annual air temperature: 20.6 to 21.7 degrees C (69 to 71 degrees F)
-Water temperature range (seasonal range): 15 to 32 degrees C (59 to 89 degrees F)
-Water depth range: 0.3 to 2 m (1 to 6.5 ft)
-Water Regime: Tidal, 0 to 0.3 m (0 to 1 ft)
-Water salinity range: 11 to 35 ppt (lower values occur during times when greater amounts of freshwater are flowing into the estuary from subaerial areas from further inland)
-Frost-free period: 271 to 300 days
+Parent material--Fine-sitly estuarine deposits
+Landscape--Coastal estuaries and lagoons
+Landform--Estuarine tidal streams and mainland coves
+Slope--Less than 1 percent
+Precipitation Pattern--rainfall is mostly uniform throughout the year but most of the annual rainfall occurs during the Spring, Summer, and Fall months
+Mean annual precipitation--1219 to 1295 mm (48 to 51 inches)
+Mean annual air temperature--20.6 to 21.7 degrees C. (69 to 71 degrees F.)
+Water temperature range (seasonal range)--15 to 32 degrees C. (59 to 90 degrees F)
+Water depth range--Ranges from 8 to 130 centimeters (3 to 51 inchesWater Regime--Tidal, 0 to 0.3 m (0 to 1 ft)
+Water salinity range--11 to 35 ppt (lower values occur during times when greater amounts of freshwater are flowing into the estuary from subaerial areas from further inland)
+Frost-free period-- 365 days
 
-GEOGRAPHICALLY ASSOCIATED SOILS: 
-These are the Harris, Tatlum, and Tracosa series. 
-Harris and Tracosa soils: clayey and firm throughout; on landforms not permanently submersed 
-Tatlum soils: colors throughout are browner; do not have sulfidic materials; on landforms that are not permanently submersed
+GEOGRAPHICALLY ASSOCIATED SOILS:
+These are the Harris, Maggies (T), Tatlum, and Tracosa series.
+Harris and Tracosa soils--are clayey and firm throughout and are on landforms not permanently submersed
+Maggies soils--are slightly coarser, do not have sulfidic soil materials and are on lagoon bottom landforms
+Tatlum soils--have colors throughout that are browner; do not have sulfidic materials; and are on landforms that are not permanently submersed
 
-DRAINAGE AND SATURATED HYDRAULIC CONDUCTIVITY: 
-Drainage class: Subaqueous
-Saturated Hydraulic Conductivity: Moderately low to moderately high
-Soil is permanently submerged/continuously inundated by saline water 
+DRAINAGE AND SATURATED HYDRAULIC CONDUCTIVITY:
+Drainage class--Subaqueous
+Saturated Hydraulic Conductivity--Moderately high
+Soil Moisture Regime--Peraquic
+Soil is continuously inundated by saline water.  The presence of hypersulfidic soil materials within 50 centimeters of the soil surface puts these soils at risk for potential acid sulfate soil formation if they are dredged and exposed to the atmosphere.
 
-USE AND VEGETATION: 
-Major uses: These areas are used as wildlife habitat and recreational activities. 
-Native vegetation: None observed; mud bottom
+USE AND VEGETATION:
+Major uses--These areas are used as wildlife habitat and for recreational activities.
+Native vegetation--None observed; bare mud bottom is dominant condition.
 
-DISTRIBUTION AND EXTENT: 
-General area: These soils are located on the upper Texas Gulf Coast  
-Land Resource Region: T- Atlantic and Gulf Coast Lowland Forest and Crop Region 
-MLRA 150B Gulf Coast Saline Prairies 
-Extent: Small
+DISTRIBUTION AND EXTENT:
+General area--These soils are located on the upper Texas Gulf Coast
+Land Resource Region--T- Atlantic and Gulf Coast Lowland Forest and Crop Region
+MLRA--150B - Gulf Coast Saline Prairies
+Extent--Small
 
 SOIL SURVEY REGIONAL OFFICE (SSRO) RESPONSIBLE: Temple, Texas
 
-SERIES PROPOSED: Brazoria County, Texas, 2022. The name is coined from Jones Bay near Tiki Island, Texas that has these types of soils.
+SERIES PROPOSED: Brazoria County, Texas, 2022. The name is derived from Jones Bay near Tiki Island, Texas.  Jonesbay soils can be found within this area. 
 
-REMARKS: The series was formerly included with water. 
+REMARKS: The series was formerly included with water.
 
-Diagnostic horizons and features recognized in this pedon are:
-  Particle-size control section: 25 to 100 cm (10 to 40 in) 
-  Sulfidic materials: 0 to 78 cm (0 to 31 in) (Aseg horizon and Cseg layer)
-  N value greater than 7: 0 to 172 cm (0 to 68 in) (Aseg horizon, Cseg layer, Cg1 layer)
+Diagnostic horizons and features recognized in this pedon are--
+Particle-size control section--0 to 100 cm (0 to 40 in)
+Ochric epipedon--0 to 29 cm (0 to 11 in)
+Sulfidic materials--0 to 78 cm (0 to 31 in) (Aseg horizon and Cseg1 layer)
+Manner of failure-Slightly fluid to very fluid 0 to 172 cm (0 to 68 in) (Aseg horizon, Cseg1 and Cseg2 layers)
 
-Additional Comments: Mineralogy based on data from adjacent subaerial soils and the content of shell fragments that make up the sand portion. 
+Additional Comments--Mineralogy based on data from adjacent subaerial soils and the content of shell fragments that make up the sand portion.
 
-ADDITIONAL DATA: Soil survey office lab data on pedon S2021TX0399148 from series type location. 
+ADDITIONAL DATA: Soil survey office lab data on pedon S2021TX0399148 from series type location.
 
-TAXONOMIC VERSION: Keys to Soil Taxonomy, Twelfth Edition, 2014
+TAXONOMIC VERSION: Keys to Soil Taxonomy, Thirteenth Edition, 2022
 
+________________________________________
 National Cooperative Soil Survey
 U.S.A.

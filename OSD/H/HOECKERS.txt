@@ -1,0 +1,125 @@
+LOCATION HOECKERS               TX
+
+Tentative Series
+SAK-GWH-RBT
+03/2023
+
+HOECKERS SERIES
+
+Depth Class--Very deep
+Drainage Class--Subaqueous drainage
+Saturated Hydraulic Conductivity--moderately high
+Parent Material--Loamy-skeletal anthropogenic dredge deposits
+Geomorphic Location--Dredge-deposit shoals in coastal estuaries
+Slope Range for Series--0 to less than 1 percent
+Mean Annual Air Temperature--20.6 degrees C. (69 degrees F.)
+Mean Annual Precipitation--1295 millimeters (51 inches) 
+
+TAXONOMIC CLASS: Loamy-skeletal, dredgic, mixed, active, nonacid, hyperthermic Typic Sulfiwassents
+
+TYPICAL PEDON: Hoeckers very shelly sandy clay loam, in 79 centimeters (31 inches) of saline water (colors are for moist soil unless stated otherwise)
+
+ ^Aseg--0 to 28 centimeters (0 to 11 inches); very dark gray (N 3/), very shelly sandy clay loam; massive; 50 percent flat rounded weakly cemented shell fragments; rapid color change and slight effervescence with 3 and 30 percent hydrogen peroxide; electrical conductivity of 20.0 dS/m; moderately alkaline; gradual boundary. (4 to 28 centimeters, 2 to 11 inches thick)
+
+ ^Cg1--28 to 61 centimeters (11 to 24 inches); dark gray (N 4/), very shelly sandy clay loam; massive; 50 percent flat rounded weakly cemented shell fragments; electrical conductivity of 23.0 dS/m; moderately alkaline; gradual boundary. 
+
+ ^Cg2--61 to 203 centimeters (24 to 80 inches); dark greenish gray (5GY 4/1) shelly sandy clay loam; massive; 25 percent flat rounded weakly cemented shell fragments; electrical conductivity of 19.0 dS/m; moderately alkaline.
+
+TYPE LOCATION: 
+Galveston County, TX; from the 61st Street Galveston public boat ramp; about 6 miles west by boat; about 1300 feet west of the west shoreline of North Deer Island;USGS topographic quadrangle: Virginia Point, TX
+
+Latitude--29.283944
+Longitude-- -94.9363333 
+Datum--WGS84
+Coordinate source--from hand-held GPS
+
+RANGE IN CHARACTERISTICS:
+Depth to bedrock--greater than 200 centimeters
+Soil Moisture--These soils are continuously inundated.
+Water depth--Ranges from 70 to 160 centimeters (30 to 63 inches)
+Reaction throughout--moderately alkaline or strongly alkaline (7.9 to 9.0)
+Electrical conductivity throughout--5 to 40 dS/m
+Depth to hyper-sulfidic materials (incubated pH 4.0)--less than 50 centimeters
+Particle-size control section (weighted average)--Total clay content--25 to 30 percent, shell fragment content--5 to 85 percent ranging in size from 2 to 75 mm
+
+^Aseg or ^ACseg horizon--
+Hue--10Y or N
+Value--2.5 or 4
+Chroma--up to 1
+Texture--fine sand, loamy coarse sand, fine sandy loam, loam, or sandy clay loam with textural modifiers ranging from shelly to extremely shelly
+Sand content--55 to 85 percent
+Redox concentrations--amount-0 to 5 percent; color-shades of brown
+Iron depletions--amount-0 to 5 percent; color-shades of green or yellow
+
+^Cg or ^Cseg horizons--
+Hue--10Y, 5GY, 10GY, or N
+Value--3 or 5
+Chroma--up to 1
+Texture--loamy fine sand, fine sandy loam, sandy clay loam, or clay loam with textural modifiers ranging up to extremely shelly
+
+Sand content--55 to 85 percent
+Redox concentrations--amount-0 to 5 percent; color-shades of brown or yellow
+Iron depletions--amount-0 to 5 percent; color-shades of green or yellow
+
+COMPETING SERIES: 
+There are the no series in the same family. 
+Similar soils are the Baffin, Coards, and Sellman series.
+Baffin soils--are coarse-loamy, do not have greater than 15 percent shell fragments and lack dredge deposited soil materials
+Coards soils--have fine particle size class and lack shell fragment content in excess of 15 percent throughout
+Sellman soils--have glauconitic mineralogy, are fine textured throughout and lack shell fragments in any horizon above 2 percent
+
+GEOGRAPHIC SETTING:
+Parent material--Loamy-skeletal anthropogenic dredge deposits
+Landscape--Coastal estuaries and lagoons
+Landform--Dredge-deposit shoals
+Slope--less than 1 percent
+Mean annual precipitation--1219 to 1295 mm (48 to 51 inches)
+Mean annual air temperature--20.6 to 21.7 degrees C. (69 to 71 degrees F.)
+Water temperature range (seasonal range)--15 to 32 degrees C. (59 to 90 degrees F.)
+Water depth range--Ranges from 70 to 160 centimeters (30 to 63 inches)
+Water salinity range--25 to 35 ppt 
+Frost-free period--365 days
+
+GEOGRAPHICALLY ASSOCIATED SOILS: 
+These are the tentative Basford, Bastropbay, and Jonesbay series. 
+Basford soils--are on very similar landforms, are coarse-loamy throughout and do not have more than 15 percent shell fragments
+Bastropbay soils--are sandy throughout, have not formed in dredged materials, and often lack considerable shell fragments--
+Jonesbay soils--are fluid throughout and not have more than 15 percent shell fragments
+
+DRAINAGE AND SATURATED HYDRAULIC CONDUCTIVITY: 
+Drainage class--Subaqueous 
+Saturated Hydraulic Conductivity--moderately high
+Soil Moisture Regime--Peraquic
+Soil is continuously inundated by saline water. 
+
+USE AND VEGETATION: 
+Major uses--These areas are used as wildlife habitat and recreational activities. 
+Native vegetation--These areas usually not vegetated.
+
+DISTRIBUTION AND EXTENT: 
+General area--These soils are located on the upper Texas Gulf Coast  
+Land Resource Region--T- Atlantic and Gulf Coast Lowland Forest and Crop Region 
+MLRA--150B - Gulf Coast Saline Prairies 
+Extent--Small
+
+SOIL SURVEY REGIONAL OFFICE (SSRO) RESPONSIBLE: Temple, Texas
+
+SERIES PROPOSED: Galveston County, Texas, 2022. The name is from a geographic location (Hoeckers Point) on Galveston Island.
+
+REMARKS: The series was formerly included with water.
+
+Diagnostic horizons and features recognized in this pedon are--
+Particle-size control section--0 to 100 cm (0 to 40 inches) 
+Ochric epipedon--0 to 28 cm (0 to 11 inches) (^Aseg horizon) 
+Sulfidic soil materials--0 to 28 cm (0 to 11 inches) (^Aseg horizon)
+Loamy-skeletal particle size class--35 percent or more shell fragments (thickest part of the control section) from 0 to 61 cm (0 to 24 inches) - ^Aseg and ^Cg1 horizons.
+Peraquic feature--0 to 203 cm (0 to 80 inches) (^Aseg horizon and ^Cg layers are permanently saturated)
+
+Additional Comments--Mineralogy based on the amount of shell fragments in the fine-earth fraction.
+
+ADDITIONAL DATA: Soil survey office lab data on pedon S2021TX1679502 from series type location.
+
+TAXONOMIC VERSION: Keys to Soil Taxonomy, Thirteenth Edition, 2022
+
+National Cooperative Soil Survey
+U.S.A.

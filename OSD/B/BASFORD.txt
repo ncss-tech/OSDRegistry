@@ -1,0 +1,139 @@
+LOCATION BASFORD                TX
+
+Tentative Series
+SAK-GWH-RBT
+03/2023
+
+BASFORD SERIES
+
+Depth Class--Very deep
+Drainage Class--Subaqueous drainage
+Saturated Hydraulic Conductivity--Moderately high to high
+Parent Material--Mixed coarse-loamy anthropogenic dredge deposits
+Geomorphic Location--Dredge-deposit shoals in coastal estuaries
+Slope Range for Series--0 to less than 1 percent
+Mean Annual Air Temperature--20.6 degrees C. (69 degrees F.)
+Mean Annual Precipitation--1295 millimeters (51 inches)
+
+TAXONOMIC CLASS: Coarse-loamy, dredgic, mixed, active, nonacid, hyperthermic Typic Sulfiwassents
+
+TYPICAL PEDON: Basford loam, in 80 centimeters (31 in) of saline water (Colors are for moist soil unless otherwise stated).
+
+ ^Aseg--0 to 32 centimeters (0 to 13 in); dark greenish gray (10Y 4/1) loam; massive; slightly fluid; moderate color change and effervescence for 30 percent hydrogen peroxide; moderate color change and no effervescence for 3 percent hydrogen peroxide; electrical conductivity of 15.0 dS/m by ec meter; moderately alkaline (pH 8.0), abrupt boundary. (5 to 82 centimeters, 2 to 32 inches thick)
+
+ ^Cseg--32 to 76 centimeters (13 to 30 in); dark greenish gray (10Y 4/1) fine sandy loam; massive; slightly fluid; 3 percent shell fragments; moderate color change and slight effervescence for 30 percent hydrogen peroxide; slight color change and no effervescence for 3 percent hydrogen peroxide; electrical conductivity of 19.0 dS/m by ec meter; moderately alkaline (pH 8.0); clear boundary.           
+
+ ^Cg1--76 to 145 centimeters (30 to 57 in); dark greenish gray (10Y 4/1) very fine sandy loam; massive; nonfluid; 2 percent shell fragments; no color change or effervescence for 3 or 30 percent hydrogen peroxide; electrical conductivity of 21.0 dS/m by ec meter; moderately alkaline (pH 8.0); gradual boundary.                                                                                    
+
+ ^Cg2--145 to 203 centimeters (57 to 80 in); dark gray (N 4/), very fine sandy loam; massive; nonfluid; 3 percent shell fragments; no color change or effervescence for 3 or 30 percent hydrogen peroxide; electrical conductivity of 21.0 dS/m by ec meter; moderately alkaline (pH 8.0). 
+
+TYPE LOCATION: 
+Brazoria County, TX; from the intersection of County Road 223 and FM 523, east of Richwood, Texas; about 2.5 miles southeast on FM 523 to CR 227/Hoskins Mound Rd; 4.7 miles northeast on Hoskins Mound Rd to boat launch; then travel by boat 4 miles east and north on Bastrop Bayou and 0.28 miles east; USGS topographic quadrangle: Christmas Point, TX.
+
+Latitude--29.0877778
+Longitude-- -95.2177778 
+Datum--WGS84
+Coordinate source--estimated from source
+
+RANGE IN CHARACTERISTICS:
+Depth to bedrock--greater than 200 centimeters
+Soil Moisture--These soils are continuously inundated.
+Water depth--Ranges from 0.2 to 2 meters (0.5 to 6.5 ft)
+Reaction throughout--neutral to strongly alkaline (7.2 to 9.0)
+Thickness of sulfidic materials--11 to 126 cm (4 to 50 in)
+Manner of failure (fluidity)--Slightly to very fluid, 0 to 50 centimeters and nonfluid for the subsoil and substratum layers
+Sand content throughout--40 to 95 percent
+Total clay content--1 to 20 percent
+Electrical conductivity throughout--10 to 40 dS/m
+Particle-size control section (weighted average)--Total clay content: 2 to 22 percent, Sand content: 57 to 88 percent
+
+^Aseg horizon--
+Hue--N, 2.5Y to 10Y
+Value--2.5 to 6
+Chroma--1 
+Texture--sandy clay loam, loam, very fine sandy loam, fine sandy loam
+Total clay content--2 to 20 percent
+Redox concentrations--amount-0 to 1 percent; shades of brown 
+Iron-manganese concentrations--amount-0 to 3 percent
+Masses of reduced iron--amount-0 to 10 percent; shades of gray
+Shell fragments--amount-0 to 5 percent; size-2 to 150 mm
+Effervescence to hydrogen peroxide--none to strong
+
+^Cseg or ^Cg layer--
+Hue--N, 5Y to 10Y, 5GY, 10GY or 5B
+Value--2.5 to 6
+Chroma--1
+Texture--sandy clay loam, silt loam, loam, very fine sandy loam, fine sandy loam, 
+Total clay content--5 to 22 percent
+Redox concentrations--amount-0 to 15 percent; shades of yellow, brown, or olive
+Iron-manganese concentrations--amount-0 to 7 percent
+Masses of reduced iron--amount-0 to 30 percent; shades of gray or green
+Shell fragments--amount-0 to 10 percent; size-2 to 150 mm
+Effervescence to hydrogen peroxide--none to moderate
+
+COMPETING SERIES: 
+These are no series in the same family. 
+Similar soils are the Baffin, Burlingame, Cottman, Fort Neck, Marshneck, Napatree, Pasture Point, and Wequetequock series. None of these similar soils have thick anthropogenic soil horizons.
+Baffin soils--siliceous mineralogy, active activity class and calcareous materials
+Burlingame soils--occur in freshwater lake environments, have mesic temperature regime and formed in supraglacial melt-out or lodgment glacial till materials
+Cottman soils--have nonfluid soil material within 50 centimeters of the soil surface, are on lagoon bottom barrier side landforms and have mesic temperature regime 
+Fort Neck and Marshneck soils--are nonfluid within 50 centimeters of the soil surface, have sulfidic soil materials within 50 centimeters of the soil surface and mesic temperature regime
+Napatree soils--often have boulders at the soil surface, have chroma's of 3 or more within 100 centimeters of the soil surface and mesic temperature regime
+Pasture Point soils: are often nonfluid, have sulfidic soil materials within 50 centimeters of the soil surface, and mesic temperature regime
+Wequetequock soils--have irregular decreases in organic carbon, have sulfidic soil materials within 50 centimeters of the soil surface and mesic temperature regime
+
+GEOGRAPHIC SETTING:
+Parent material--Mixed coarse-loamy anthropogenic dredge deposits 
+Landscape--Coastal lagoons
+Anthropogenic Landform--Dredge-deposit shoals 
+Slope--Less than 1 percent
+Precipitation Pattern--rainfall is mostly uniform throughout the year but most of the annual rainfall occurs during the Spring, Summer, and Fall months
+Mean annual precipitation--1219 to 1295 mm (48 to 51 inches)
+Mean annual air temperature--20.6 to 21.7 degrees C. (69 to 71 degrees F.)
+Water temperature range (seasonal range)--15 to 32 degrees C. (59 to 90 degrees F.)
+Water depth range--0.2 to 2 meters (0.5 to 6.5 ft)
+Water salinity range--25 to 35 ppt 
+Frost-free period--365 days
+
+GEOGRAPHICALLY ASSOCIATED SOILS: 
+These are the Harris, Surfside and Tracosa and the tentative Jonesbay series.
+
+Harris, Surfside and Tracosa soils--are clayey and firm throughout and on subaerial landforms (not continuously inundated) 
+Jonesbay soils--are on lagoon bottoms and do not contain anthropogenic dredge materials.
+
+DRAINAGE AND SATURATED HYDRAULIC CONDUCTIVITY: 
+Drainage class--Subaqueous
+Saturated Hydraulic Conductivity--Moderately high and high
+Soil Moisture Regime--Peraquic
+Soil is continuously inundated by saline water. 
+
+USE AND VEGETATION: 
+Major uses--These areas are used as wildlife habitat and recreational activities. 
+Native vegetation--Some areas have widgeon grass but are mostly unvegetated.
+
+DISTRIBUTION AND EXTENT: 
+General area--These soils are located on the upper Texas Gulf Coast  
+Land Resource Region--T- Atlantic and Gulf Coast Lowland Forest and Crop Region 
+MLRA--150B - Gulf Coast Saline Prairies 
+Extent--Small
+
+SOIL SURVEY REGIONAL OFFICE (SSRO) RESPONSIBLE: Temple, Texas
+
+SERIES PROPOSED: Brazoria County, Texas, 2021. The name is coined from Basford Bayou.
+
+REMARKS: The series was formerly included with water. 
+
+Diagnostic horizons and features recognized in this pedon are:
+Particle-size control section--0 to 100 cm (0 to 40 inches) 
+Ochric epipedon--0 to 32 cm (0 to 12 in) (^Aseg horizon)
+Sulfidic materials--0 to 76 cm (0 to 30 in) (^Aseg horizon and ^Cseg layer)
+Peraquic feature-0 to 203 cm (0 to 203 in) (^Aseg horizon, ^Cseg and Cg layers are permanently saturated).
+
+Additional Comments--Mineralogy based on data from adjacent subaerial barrier island soils and the content of shell fragments that make up the sand portion. 
+
+ADDITIONAL DATA: Soil survey office lab data on pedon S2021TX0399512 from series type location.
+
+TAXONOMIC VERSION: Keys to Soil Taxonomy, Thirteenth Edition, 2023
+
+National Cooperative Soil Survey
+U.S.A.
