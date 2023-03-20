@@ -1,54 +1,93 @@
 LOCATION EMMONS                 CO
 
 Established Series
-Rev. WSH-GB
-02/1999
+Rev. WSH-GB-KLS
+03/2023
 
 EMMONS SERIES
 
-The Emmons series consists of deep, well drained soils formed in colluvium and glacial drift derived from mixed sources.  Emmons soils are on the sides of mesas and pediments.  Slopes are 2 to 20 percent.  The mean annual precipitation is about 15 inches and the mean annual temperature is about 44 degrees F.
+The Emmons series consists of deep, well drained soils formed in colluvium and glacial drift derived from mixed sources.  Emmons soils are on the sides of mesas and pediments.  Slopes are 2 to 20 percent.  The mean annual precipitation is about 380 mm and the mean annual air temperature is about 7 degrees C.
 
 TAXONOMIC CLASS: Fine-loamy, mixed, superactive, frigid Aridic Calciustolls
 
 TYPICAL PEDON:  Emmons very cobbly loam - rangeland.  (Colors are for dry soil unless otherwise noted.)
 
-Oe--1 inch to 0; partially decomposed organic material.
+    Oe--0 to 3 cm; partially decomposed organic material.
 
-A1--0 to 5 inches; grayish brown (10YR 5/2) very cobbly loam, dark brown (10YR 3/3) moist; moderate medium granular structure; hard, friable, slightly sticky and slightly plastic; 5 percent pebbles and 40 percent cobbles; strongly effervescent; mildly alkaline (pH 7.8); clear smooth boundary.  (3 to 7 inches thick)
+    A1--3 to 16 cm; grayish brown (10YR 5/2) very cobbly loam, dark brown (10YR 3/3) moist; moderate medium granular structure; hard, friable, slightly sticky and slightly plastic; 5 percent gravel and 40 percent cobbles; strongly effervescent; slightly alkaline (pH 7.8); clear smooth boundary.  (8 to 18 cm thick)
 
-A2--5 to 15 inches; dark brown (10YR 4/3) cobbly clay loam, dark brown (10YR 3/3) moist; moderate fine subangular blocky structure; slightly hard, friable, sticky and plastic; 10 percent pebbles and 5 percent cobbles; slightly effervescent; mildly alkaline (pH 7.6); clear wavy boundary.  (8 to 12 inches thick)
+    A2--16 to 41 cm; brown (10YR 4/3) cobbly clay loam, dark brown (10YR 3/3) moist; moderate fine subangular blocky structure; slightly hard, friable, sticky and plastic; 10 percent gravel and 5 percent cobbles; slightly effervescent; slightly alkaline (pH 7.6); clear wavy boundary.  (20 to 30 cm thick)
 
-Bk1--15 to 29 inches; light brownish gray (10YR 6/2) cobbly clay loam, grayish brown (10YR 5/2) moist; strong fine subangular blocky structure; very hard, very firm, sticky and plastic; 10 percent pebbles and 5 percent cobbles; violently effervescent (22 percent calcium carbonate equivalent); moderately alkaline (pH 8.2); clear wavy boundary.  (12 to 20 inches thick)
+    Bk1--41 to 77 cm; light brownish gray (10YR 6/2) cobbly clay loam, grayish brown (10YR 5/2) moist; strong fine subangular blocky structure; very hard, very firm, sticky and plastic; 10 percent gravel and 5 percent cobbles; violently effervescent (22 percent calcium carbonate equivalent); moderately alkaline (pH 8.2); clear wavy boundary.  (30 to 50 cm thick)
 
-Bk2--29 to 60 inches; light gray (10YR 7/2) cobbly clay loam, dark brown (10YR 4/3) moist; strong fine subangular blocky structure; extremely hard, very firm, slightly sticky and plastic; 10 percent pebbles and 5 percent cobbles; violently effervescent (23 percent calcium carbonate equivalent); moderately alkaline (pH 8.2).
+    Bk2--77 to 156 cm; light gray (10YR 7/2) cobbly clay loam, brown (10YR 4/3) moist; strong fine subangular blocky structure; extremely hard, very firm, slightly sticky and plastic; 10 percent gravel and 5 percent cobbles; violently effervescent (23 percent calcium carbonate equivalent); moderately alkaline (pH 8.2).
 
-TYPE LOCATION:  San Miguel County, Colorado; 850 feet south and 400 feet east of the northwest corner, Sec. 18, T. 43 N., R. 14 W.
+TYPE LOCATION:  San Miguel County, Colorado; about 260 meters south and 120 meters east of the northwest corner, Sec. 18, T. 43 N., R. 14 W.
 
-RANGE IN CHARACTERISTICS:  Mean annual soil temperature ranges from 45 to 47 degrees F, and mean summer soil temperature ranges from 59 to 66 degrees F.  Emmons soils have 27 to 35 percent clay and 15 to 35 percent fine sand and coarser in the particle-size control section. The A horizon contains up to 45 percent coarse fragments and the particle-size control section has 0 to 15 percent pebbles and cobbles. Calcium carbonate equivalent ranges from 15 to 30 percent in the calcic horizon.  Depth to the calcic horizon ranges from 8 to 20 inches.  The moisture control section is dry for 15 consecutive days from May 15 to July 15 when the soil temperature at 20 inches is greater than 41 degrees F.  It is not dry in all parts of the moisture control section for as long as 45 consecutive days following the  summer solstice to October 20, nor for as long as 90 cumulative days during this period. Hue is 2.5Y through 10YR.  The mollic epipedon ranges from 7 to 15 inches thick.
+RANGE IN CHARACTERISTICS:  
+Mean annual soil temperature--7 to 8 degrees C
+Mean summer soil temperature--15 to 19 degrees C
+Soil moisture control section--dry for 15 consecutive days from May 15 to July 15 when the soil temperature at 50 cm is greater than 5 degrees C.  It is not dry in all parts of the moisture control section for as long as 45 consecutive days following the summer solstice to October 20, nor for as long as 90 cumulative days during this period. 
 
-The A horizon has value of 4 or 5, and 2 or 3 moist, with chroma of 2 or 3.
+Mollic epipedon--18 to 38 cm
+Depth to the calcic horizon--20 to 50 cm
+Calcium carbonate equivalent--15 to 30 percent in the calcic horizon 
+Rock fragment content of the A horizon--0 to 45 percent
 
-The Bw horizon, when present, has value of 5 or 6, and 4 or 5 moist with chroma of 3 or 4.
+Particle-size control section:
+Clay content--27 to 35 percent
+Sand content--15 to 35 percent fine sand and coarser
+Rock fragment content--0 to 15 percent gravel and cobbles
 
-The Bk1 horizon has value of 4 through 8, and 2 through 6 moist, with chroma of 2 or 3.
+A horizon
+Hue--2.5Y through 10YR
+Value--4 or 5 dry; 2 or 3 moist
+Chroma--2 or 3
 
-The Bk2 horizon has value of 6 through 8, and 4 through 6 moist, with chroma of 2 or 3.
+Bw horizon, when present
+Hue--2.5Y through 10YR
+Value--5 or 6 dry; 4 or 5 moist
+Chroma--3 or 4
 
-COMPETING SERIES:  These are the Rothican, Rothiemay, and Zinzer series.  Rothican soils have 18 to 27 percent clay in their particle-size control section.  Rothiemay soils are moist in some parts of the moisture control section from May 15 to July 15.  Zinzer soils have 35 to 60 percent fine sand and coarser in the particle-size control section.
+Bk1 horizon
+Hue--2.5Y through 10YR
+Value--4 through 8 dry; 2 through 6 moist
+Chroma--2 or 3
 
-GEOGRAPHIC SETTING:  Emmons soils are on mesa side slopes and pediments.  Slopes are 2 to 20 percent.  The soil formed in colluvium and glacial drift derived from mixed sources.  Elevation ranges from 6,800 to 8,200 feet. Emmons soils are in a climatic setting that receives the annual precipitation in an evenly distributed pattern throughout the year with over 50 percent coming as snow.  Mean annual precipitation ranges from 13 to 17 inches.  Mean annual temperature ranges from 43 to 46 degrees F.  The frost-free period is 80 to 110 days.
+Bk2 horizon
+Hue--2.5Y through 10YR
+Value--6 through 8 dry; 4 through 6 moist
+Chroma--2 or 3
 
-GEOGRAPHICALLY ASSOCIATED SOILS:  These are the Barkelew, Callan, Lillylands, Mitch, Nunnemaker, and Sagedale soils.  Barkelew soils are loamy-skeletal and lack a mollic epipedon.  Callan soils have an argillic horizon.  Lillylands and Mitch soils have a mollic epipedon thicker than 16 inches.  Nunnemaker and Sagedale soils lack a calcic horizon and have greater than 35 percent clay in the particle-size control section.
+COMPETING SERIES:  These are the Rothican, Rothiemay, and Zinzer series.  Rothican soils have 18 to 27 percent clay in their particle-size control section.  Rothiemay soils are moist in some parts of the soil moisture control section from May 15 to July 15.  Zinzer soils have 35 to 60 percent fine sand and coarser in the particle-size control section.
+
+GEOGRAPHIC SETTING:
+Landform--mesa side slopes and pediments
+Elevation--2075 to 2500 meters
+Slope--2 to 20 percent
+Parent material--colluvium and glacial drift derived from mixed sources
+Mean annual precipitation--330 to 430 mm; evenly distributed pattern throughout the year with over 50 percent coming as snow.  
+Mean annual air temperature--6 to 8 degrees C
+Frost-free period --80 to 110 days
+
+GEOGRAPHICALLY ASSOCIATED SOILS:  None listed.
 
 DRAINAGE AND PERMEABILITY:  Well drained; medium to very rapid runoff; moderately slow permeability.
 
 USE AND VEGETATION:  These soils are used for livestock grazing and wildlife habitat.  Principal native vegetation is pinon pine, Utah juniper, Rocky Mountain juniper, Gambel oak, serviceberry, and Indian ricegrass.
 
-DISTRIBUTION AND EXTENT:  Southwestern Colorado and possible adjacent areas in New Mexico and Utah.  The series is of small extent.
+DISTRIBUTION AND EXTENT:  Emmons soils are of small extent in southwestern Colorado and northeastern Utah; MLRAs 34B and 48A.
 
-MLRA SOIL SURVEY REGIONAL OFFICE (MO) RESPONSIBLE: Bozeman, Montana
+SOIL SURVEY REGIONAL OFFICE (SSRO) RESPONSIBLE: Bozeman, Montana
 
-SERIES ESTABLISHED:  Roosevelt-Duchesne Area, Utah, 1949.
+SERIES ESTABLISHED:  Roosevelt-Duchesne Area, Utah, 1949
+
+REMARKS:
+Particle-size control section--25 to 100 cm (part of the A2, all of Bk1 and part of the Bk2 horizons)
+
+Emmons soils have a frigid temperature regime and an ustic soil moisture regime, bordering on aridic.
+
+Converted to metric and O horizons were updated to start at zero. Competing series section was not updated. 01/2023
 
 National Cooperative Soil Survey
 U.S.A.
