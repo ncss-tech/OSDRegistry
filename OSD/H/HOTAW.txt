@@ -2,11 +2,11 @@ LOCATION HOTAW                  CA
 
 Established Series
 Rev. JHR/GMK/LCL/AJT/ET/SS/DWB/AGB/TKK/JTW
-12/2018
+03/2023
 
 HOTAW SERIES
 
-The Hotaw series consists of moderately deep, well drained soils formed in material weathered from granitic rocks. These soils are on hills and mountains. Slopes are 2 to 75 percent. Mean annual precipitation is about 1400 mm and mean annual airtemperature is about 13 degrees C.
+The Hotaw series consists of moderately deep, well drained soils formed in material weathered from granitic rocks. These soils are on hills and mountains. Slopes are 2 to 75 percent. Mean annual precipitation is about 1400 mm and mean annual air temperature is about 13 degrees C.
 
 TAXONOMIC CLASS: Fine-loamy, mixed, active, mesic Ultic Haploxeralfs
 
@@ -14,11 +14,11 @@ TYPICAL PEDON: Hotaw coarse sandy loam on a west facing, linear, slope of 25 per
 
     Oi--0 to 3 cm; litter and duff.
 
-    A--3 to 34 cm; grayish brown (10YR 5/2) coarse sandy loam, dark brown (10YR 3/3) moist; moderate fine granular structure; soft, very friable, nonsticky and nonplastic; many very fine, fine, and medium roots; many very fine and fine tubular and interstitial pores; slightly acid (pH 6.1); clear wavy boundary. (15 to 30 cm thick)
+    A--3 to 34 cm; grayish brown (10YR 5/2) coarse sandy loam, dark brown (10YR 3/3) moist; 11 percent clay; moderate fine granular structure; soft, very friable, nonsticky and nonplastic; many very fine, fine, and medium roots; many very fine and fine tubular and interstitial pores; slightly acid (pH 6.1); clear wavy boundary. (15 to 30 cm thick)
 
-    BAt--34 to 59 cm; pale brown (10YR 6/3) coarse sandy loam, brown (10YR 4/3) moist; moderate medium subangular blocky structure; hard, friable, nonsticky and nonplastic; many very fine, fine and medium roots; many very fine and fine tubular and interstitial pores; few thin clay films line pores; moderately acid (pH 5.9); clear smooth boundary. (20 to 30 cm thick)
+    BAt--34 to 59 cm; pale brown (10YR 6/3) coarse sandy loam, brown (10YR 4/3) moist; 15 percent clay; moderate medium subangular blocky structure; hard, friable, nonsticky and nonplastic; many very fine, fine and medium roots; many very fine and fine tubular and interstitial pores; few thin clay films line pores; moderately acid (pH 5.9); clear smooth boundary. (20 to 30 cm thick)
 
-    Bt--59 to 91 cm; light brown (7.5YR 6/4) sandy clay loam, brown (7.5YR 4/4) moist; moderate medium and coarse subangular blocky structure; very hard, firm, sticky and slightly plastic; many fine and medium roots; common very fine and fine tubular pores; many moderately thick clay films on ped faces, lining pores and as bridges; strongly acid (pH 5.5); clear wavy boundary. (20 to 40 cm thick)
+    Bt--59 to 91 cm; light brown (7.5YR 6/4) sandy clay loam, brown (7.5YR 4/4) moist; 28 percent clay; moderate medium and coarse subangular blocky structure; very hard, firm, sticky and slightly plastic; many fine and medium roots; common very fine and fine tubular pores; many moderately thick clay films on ped faces, lining pores and as bridges; strongly acid (pH 5.5); clear wavy boundary. (20 to 40 cm thick)
 
     Cr--91 to 117 cm; weathered granodiorite.
 
@@ -43,7 +43,7 @@ Hue: 7.5YR, 10YR
 Value: 4 to 6 dry; 3 or 4 moist
 Chroma: 2 to 8 dry; 2 to 4 moist
 Textures: sandy loam, coarse sandy loam, fine sandy loam, loam
-Clay content: 12 to 25 percent
+Clay content: 10 to 25 percent
 Rock fragments: 0 to 15 percent
 Reaction: moderately acid to slightly acid
 
@@ -63,7 +63,7 @@ Some pedons have a BC or BCt horizon above the paralithic contact.
 
 COMPETING SERIES: These are the Bigridge, Cohasset, Holland, Hospiter (MLRA 5), Millerridge, Minniecreek, Pasturerock (MLRA 4B), Sitton (MLRA 2), Speaker (MLRA 5) and Willakenzie (MLRA 2) soils. The Bigridge, Cohasset, Holland, Hospiter, Pasturerock and Sitton soils do not have a root-restrictive bedrock contact within 100 cm. Millerridge soils have significant amounts of magnesium-rich minerals and form from ultramafic rock. Minniecreek soils have coarse plus very coarse sand content less than 15 percent in the particle size control section. Speaker soils are dry in all parts of the soil moisture control section for 60 to 90 days following the summer solstice. Willakenzie soils are dry in all parts of the soil moisture control section for 45 to 60 days following the summer solstice.
 
-GEOGRAPHIC SETTING: Hotaw soils are on linear to convex backslopes and shoulders of mountains and hills at elevations of 550 to 1600 meters. In some areas with north aspects the elevation is as low as 350 meters. Slope is 2 to 75 percent. Rock outcrops are common. The underlying rock is quartz diorite or granodiorite. The climate is Mediterranean with warm, dry summers and cool, moist winters. Mean annual precipitation is 800 to 1800 mm, of which 2 to 15 percent occurs as snow. Mean annual air temperature is 11 to 15 degrees C, average January temperature is about 6 degrees C, average July temperature is about 23 degrees C. Frost-free season is 165 to 255 days.
+GEOGRAPHIC SETTING: Hotaw soils are on linear to convex backslopes and shoulders of mountains and hills at elevations of 495 to 1600 meters. In some areas with north aspects the elevation is as low as 350 meters. Slope is 2 to 75 percent. Rock outcrops are common. The underlying rock is quartz diorite or granodiorite. The climate is Mediterranean with warm, dry summers and cool, moist winters. Mean annual precipitation is 750 to 1800 mm, of which 2 to 15 percent occurs as snow. Mean annual air temperature is 11 to 16 degrees C, average January temperature is about 6 degrees C, average July temperature is about 23 degrees C. Frost-free season is 165 to 260 days.
 
 GEOGRAPHICALLY ASSOCIATED SOILS: These are the Chaix, Chawanakee, Holland, Shaver and Musick soils. Chaix, Chawanakee and Shaver soils do not have argillic horizons. Chaix soils occur on backslopes of mountains and hills. Chawanakee soils occur on steeper portions of backslopes, as well as shoulders and summits of mountains and hills and are 25 to 50 cm to a paralithic contact. Shaver soils occur on backslopes of mountains and hills and are 100 to 150 cm to a paralithic contact. Holland (backslopes of mountains and hills) and Musick (backslopes, shoulders and summits of mountains and hills) do not have root-restrictive bedrock contacts within 150 cm.
 
@@ -90,7 +90,7 @@ ADDITIONAL DATA:
 
 NASIS User Pedon ID: 1968CA017003
 
-Soil classified using the 12th Edition of the Keys to Soil Taxonomy.
+Soil classified using the 13th Edition of the Keys to Soil Taxonomy.
 
 National Cooperative Soil Survey
 U.S.A.

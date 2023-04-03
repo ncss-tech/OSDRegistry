@@ -1,52 +1,100 @@
 LOCATION PRESTO                 ID
 
 Established Series
-Rev. RAS/JOH/TWP
-04/2001
+Rev. RAS/JOH/BAG
+03/2023
 
 PRESTO SERIES
 
-The Presto series is a member of the sand over loamy, mixed, frigid family of Xerollic Calciorthids. Typically, Presto soils have grayish brown A1 horizons, calcareous loamy sand C1 and C2 horizon, and have strongly calcareous medium-textured IICca horizon at depths of less than 40 inches.
+The Presto series consists of very deep, somewhat excessively drained soils formed in alluvium. These soils are on stream terraces. Slopes are 0 to 4 percent. Mean annual precipitation is about 250 mm, and the mean annual temperature is about 8 degrees C.
 
-TAXONOMIC CLASS: Sandy over loamy, mixed, superactive, frigid Xeric Haplocalcids
+TAXONOMIC CLASS: Sandy over loamy, mixed, superactive, mesic Xeric Haplocalcids
 
-TYPIFYING PEDON:  Presto loamy sand, big sagebrush and cheatgrass.  (Colors are for dry soil unless otherwise noted.)
+TYPICAL PEDON:  Presto loamy sand, in rangeland.  (Colors are for dry soil unless otherwise noted.)
 
-    A11--0 to 3 inches; grayish brown (10YR 5/2) loamy sand, very dark grayish brown (10YR 3/2) moist; very weak thin platy structure that parts to very weak very fine granular structure; soft, very friable, nonsticky, nonplastic; many very fine and fine roots; many very fine interstitial pores; slightly calcareous; mildly alkaline (pH 8.0); abrupt smooth boundary. (2 to 4 inches thick)
+    A1--0 to 8 cm; grayish brown (10YR 5/2) loamy sand, very dark grayish brown (10YR 3/2) moist; weak thin platy structure; soft, very friable, nonsticky and nonplastic; many very fine and fine roots; many very fine interstitial pores; very slightly effervescent; moderately alkaline (pH 8.0); abrupt smooth boundary.
 
-    A12--3 to 8 inches; grayish brown (10YR 5/2) (brown, 10YR 5/3 crushed) loamy sand, very dark grayish brown (10YR 3/2) (dark grayish brown, 10YR 4/2 crushed) moist; very weak very fine granular structure; soft, very friable, nonsticky, nonplastic; many very fine and fine roots; many very fine and fine tubular pores; slightly calcareous; moderately alkaline (pH 8.0); clear wavy boundary. (3 to 8 inches thick)
+    A2--8 to 20 cm; grayish brown (10YR 5/2) loamy sand, very dark grayish brown (10YR 3/2) moist; weak very fine granular structure; soft, very friable, nonsticky and nonplastic; many very fine and fine roots; many very fine and fine tubular pores; very slightly effervescent; moderately alkaline (pH 8.0); clear wavy boundary.
 
-    C1--8 to 17 inches; brown (10YR 5/3) loamy sand, dark grayish brown (10YR 4/2) moist; massive; soft, very friable, nonsticky, nonplastic; common very fine and fine roots; common very fine and fine tubular pores; moderately calcareous moderately alkaline (pH 8.2); gradual wavy boundary. (6 to 12 inches thick)
+    Bk1 --20 to 43 cm; brown (10YR 5/3) loamy sand, dark grayish brown (10YR 4/2) moist; single grain; soft, very friable, nonsticky, nonplastic; common very fine and fine roots; common very fine and fine tubular pores; slightly effervescent; moderately alkaline (pH 8.2); gradual wavy boundary.
 
-    C2--17 to 28 inches; light brownish gray (10YR 6/2) loamy sand, dark grayish brown (10YR 4/2) moist; massive; soft, very friable, nonsticky, nonplastic; common very fine roots; many very fine and fine tubular pores; moderately calcareous moderately alkaline (pH 8.4); gradual wavy boundary. (6 to 12 inches thick)
+    Bk2--43 to 71 cm; light brownish gray (10YR 6/2) loamy sand, dark grayish brown (10YR 4/2) moist; single grain; soft, very friable, nonsticky and nonplastic; common very fine roots; many very fine and fine tubular pores; slightly effervescent; moderately alkaline (pH 8.4); gradual wavy boundary.
 
-    IIC3ca--28 to 34 inches; light brownish gray (10YR 6/2) silt loam, dark grayish brown (10YR 4/2) moist; very weak thick platy structure that parts to weak medium subangular blocky structure; hard, friable, slightly sticky, slightly plastic; common very fine and fine roots; many very fine and fine tubular pores; strongly calcareous, many fine veins and few fine spots and splotches of calcium carbonate; moderately alkaline (pH 8.4); gradual wavy boundary. (5 to 15 inches thick)
+    2Bk3--71 to 86 cm; light brownish gray (10YR 6/2) silt loam, dark grayish brown (10YR 4/2) moist; weak medium subangular blocky structure; hard, friable, slightly sticky and slightly plastic; common very fine and fine roots; many very fine and fine tubular pores; 20 percent threadlike calcium carbonate masses and 2 percent irregular calcium carbonate masses; violently effervescent; moderately alkaline (pH 8.4); gradual wavy boundary.
 
-    IIC4ca--34 to 50 inches; light gray (10YR 7/2) silt loam, grayish brown (10YR 5/2) moist; very weak thick platy structure; hard, friable, slightly sticky, slightly plastic; few very fine and fine roots; many very fine and fine tubular pores; strongly calcareous, many veins, spots, and splotches of calcium carbonate; moderately alkaline (pH 8.4); gradual wavy boundary. (10 to 20 inches thick)
+    2Bk4--86 to 127 cm; light gray (10YR 7/2) silt loam, grayish brown (10YR 5/2) moist; weak thick platy structure; hard, friable, slightly sticky and slightly plastic; few very fine and fine roots; many very fine and fine tubular pores; 25 percent threadlike calcium carbonate masses and irregular masses; violently effervescent; moderately alkaline (pH 8.4); gradual wavy boundary.
 
-    IIC5ca--50 to 60 inches; light brownish gray (10YR 6/2) silt loam, grayish brown (10YR 5/2) moist; massive; slightly hard, friable, slightly sticky, slightly plastic; many very fine and fine tubular pores; strongly calcareous, common fine veins and few fine spots and thin coatings of calcium carbonate; moderately alkaline (pH 8.4) (0 to 20 inches thick)
+    2Bk5--127 to 150 cm; light brownish gray (10YR 6/2) silt loam, grayish brown (10YR 5/2) moist; weak very coarse subangular blocky structure; slightly hard, friable, slightly sticky and slightly plastic; many very fine and fine tubular pores; 10 percent threadlike calcium carbonate masses and 2 percent irregular calcium carbonate masses; violently effervescent; moderately alkaline (pH 8.4)
 
-TYPE LOCATION:  Bingham County, Idaho; about 3 miles east of Wapello; 600 feet west and 100 feet south of the NE corner of sec. 14, T.2S., R.36E.
+TYPE LOCATION:  Bingham County, Idaho; USGS topographic quadrangle Firth; latitude 43.253394 degrees north, longitude 112.200571 degrees west, datum WGS84.
 
-RANGE IN CHARACTERISTICS:  The mean annual soil temperature ranges from 41 degrees to 47 degrees F., and the mean summer soil temperature at a depth of 20 inches ranges from 59 degrees to 66 degrees F. The soils are usually dry but are moist between depths of 12 and 36 inches in the late winter and early spring months. The upper 10 to 25 inches of the 10 to 40 inch control section are predominantly loamy sand containing less than 15 percent rock fragments. Strongly contrasting layers of silt loam, clay loam or loam are below depths of 20 to 35 inches, but above 40 inches. The depth to the strong Cca or calcic horizon ranges from about 20 to 35 inches. The soils are mildly or moderately alkaline. the horizon has a color value of 5 or 6 dry and 3 or 4 moist, chroma of 2 or 3 and organic matter content between 0.25 and 1.5 percent. It has chroma of 2 or 3. The C1 horizon has value of 5 or 6 dry and 3.5 or 4 moist, and chroma of 2 or 3. The C1 horizon has value of 5 or 6 dry and 3.5 or 4 moist, and chroma of 2 or 3. When mixed to a depth of 7 inches, the soil is calcareous to the surface. The IICca horizon has hue of 10YR or 2.5YR, value of 6 or 7 dry and 4 or 5 moist.  A subhorizon of the Cca at least 6 inches thick has its upper boundary above 40 inches and contains 15 to 25 percent calcium carbonate.
+RANGE IN CHARACTERISTICS:
+Mean annual soil temperature--9 to 10 degrees C
+Depth to calcic horizon--42 to 90 cm
+Depth to lithologic discontinuity--42 to 90 cm
 
-COMPETING SERIES AND THEIR DIFFERENTIAE:  These are the Declo, Feltham, Malm, and Matheson, Sasser, Stan, Wapello, and Wolverine series. Declo soils are dominantly medium textured in the control section and Malm, Matheson, and Stan soils are dominantly moderately coarse textured.  Malm soils have basalt bedrock at a depth of 20 to 40 inches. Feltham soils have a mean annual soil temperature warmer than 47 degrees F. and lack a calcic horizon. Sasser, Stan, and Wapello soils have mollic epipedons. Sasser soils have moderately coarse textures over loose gravel and sand. Wapello soils have moderately coarse textures over the silt loam and lack a calcic horizon. Wolverine soils have no texture of loamy very fine sand or finer in the control section.
+Particle-size control section (weighted averages)
+Clay content-- 1 to 6 percent in the upper part and 12 to 18 percent in the lower part
+Rock fragments--0 to 15 percent gravel
 
-SETTING:  The soils are on level to very gently sloping terraces at elevations of 4,200 to 5,500 feet. Slopes range from 0 to 4 percent.  The soils formed mainly in loamy sand over medium textured lake deposits or alluvium. The parent material is dominantly from quartzite and sedimentary rock sources, but contains some rhyolitic, basaltic, and granitic materials. In some pedons, the upper part may be eolian deposits. The climate is semiarid with dry summers. Mean annual precipitation is 8 to 12 inches including 1 to 3 feet of snowfall.  Average freeze-free period is 94 to 126 days.
+A horizons
+Value--4 to 6 dry, 2 to 4 moist
+Chroma--2 or 3 dry or moist
+Rock fragments--0 to 15 percent gravel
+Reaction--pH 7.8 to 8.4
+Thickness--12 to 30 cm
 
-PRINCIPAL ASSOCIATED SOILS:  These are the Firth soils and the competing Wolvering, Wapello, Stan, and Sasser soils. Firth soils have moderately coarse textures and mottles above 40 inches.
+Bk horizons
+Hue--10YR or 2.5Y
+Value--4 or 6 dry; 3 or 4 moist
+Chroma--2 or 3 dry or moist
+Texture (less than 2 mm fraction)--loamy sand, sand  
+Rock fragments--0 to 15 percent gravel
+Calcium carbonate equivalent-- 3 to 5 percent
+Reaction--pH 7.8 to 8.5
+Thickness--30 to 60 cm
 
-DRAINAGE AND PERMEABILITY:  Somewhat excessively drained; slow runoff; moderately rapid to rapid permeability in the A and IC horizons and moderate permeability in the underlying material.
+2Bk horizons
+Hue--10YR or 2.5Y
+Value--6 or 7 dry; 4 to 6 moist
+Chroma--2 to 4 dry or moist
+Texture (less than 2 mm fraction)--loam, silt loam  
+Calcium carbonate equivalent--5 to 25 percent
+Reaction--pH 8.3 to 8.8
 
-USE AND VEGETATION:  Mostly cultivated under irrigation for hay, pasture, and small grains. The natural vegetation is mainly streambank wheatgrass, Indian ricegrass, basin wildrye, needleandthread grass, lupine, big sagebrush, small rabbitbrush, and bitterbrush.
+COMPETING SERIES:  There are no competing series.
 
-DISTRIBUTION AND EXTENT:  The series is inextensive in the terraces of the upper Snake River Valley in eastern Idaho.
+GEOGRAPHIC SETTING:
+Landform--stream terraces
+Elevation-1,280 to 1,675 meters
+Slope--0 to 4 percent
+Parent material--alluvium dominantly from quartzite and sedimentary rock
+Mean annual precipitation--200 to 300 mm
+Mean annual air temperature--7 to 8 degrees C
+Frost-free period--100 to 120 days
 
-MLRA SOIL SURVEY REGIONAL OFFICE (MO) RESPONSIBLE: Portland, Oregon
+GEOGRAPHICALLY ASSOCIATED SOILS: None listed.
 
-REMARKS:  Previously classified as a Calcisol.
+DRAINAGE AND SATURATED HYDRAULIC CONDUCTIVITY: Well drained; 50 to 150 um/sec in the upper part and 5 to 15 um/sec in the lower part.
+
+USE AND VEGETATION: Presto soils are primarily used for irrigated cropland. The potential native vegetation is streambank wheatgrass, Indian ricegrass, basin wildrye, needle and thread grass, lupine, big sagebrush, small rabbitbrush, and bitterbrush.
+
+DISTRIBUTION AND EXTENT: Southeast Idaho. The series is not extensive.
+
+SOIL SURVEY REGIONAL OFFICE (SSRO) RESPONSIBLE: Portland, Oregon
+
+SERIES ESTABLISHED: Bingham County, Idaho  
+
+REMARKS:  Diagnostic horizons and other features:
+
+Ochric epipedon--0 to 20 cm (A horizons)
+Calcic horizon--71 to 150 cm (2Bk3, 2Bk4, and 2Bk5 horizons)
+
+Particle-size control section--25 to 100 cm
+
+Presto soils have a mesic temperature regime and an aridic moisture regime bordering on xeric.
+ 
+Previously classified as a Calcisol. Temperature regime changed from frigid to mesic .
 
 National Cooperative Soil Survey
-U. S. A.
-
-
+U.S.A.
