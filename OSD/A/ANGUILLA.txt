@@ -1,60 +1,126 @@
-LOCATION ANGUILLA               CT+RI
+LOCATION ANGUILLA               CT+MA+NY+RI
 
 Established Series
-Rev. MKP-DAS-JTI
-05/2018
+Revised MKP-DAS-JTI
+04/2023
 
 ANGUILLA SERIES
 
-The Anguilla series consists of very deep, subaqueous soils on that are permanently submerged beneath 10 through 150 cm of tidal estuarine water in mainland coves and submerged mainland beaches within coastal lagoons and open bays. Anguilla soils are formed in sandy marine deposits over sandy and gravelly glaciofluvial deposits. Slope ranges from 0 through 5 percent, mean annual air temperature is about 10 degrees C., and mean annual precipitation is about 1295 mm. 
+MLRA(s)--144A, 149B
+Depth class--Very deep
+Drainage class--Subaqueous
+Water depth range--10 to 300 centimeters
+Parent material--Sandy estuarine deposits over sandy and gravelly glaciofluvial deposits
+Geomorphic location--Mainland coves and submerged mainland beaches
+Slope range for Series--0 to 5 percent
+Mean annual air temperature--10 degrees C (50 degrees F)
+Mean annual precipitation--1295 millimeters (51 inches)
 
 TAXONOMIC CLASS: Sandy, mixed, mesic Haplic Sulfiwassents
 
-TYPICAL PEDON: Anguilla mucky sand on a south facing, concave slope in a mainland cove under 1.1 m of estuarine water. Tidal range is 80 cm. (Colors are for moist soil).
+TYPICAL PEDON: Anguilla  sand on a south facing, concave slope in a mainland cove under 1.1 meter of estuarine water. Tidal range is 80 centimeters. (Colors are for moist soil unless otherwise stated).
 
-   Ase -- 0 to 10 cm; black (N 2.5/) sand; single grain; very fluid; 1 percent macroalgal fragments, 0 percent rubbed; moderate sulfurous odor; strongly saline; neutral (pH 7.0); ultra acid (pH 3.4) after 8 weeks; clear boundary. 
+ Aseg--0 to 10 centimeters black (N 2.5/) sand; single grain; very fluid; 1 percent macroalgal fragments, 0 percent rubbed; moderate sulfurous odor; strongly saline; neutral (pH 7.0); ultra acid (pH 3.4) oxidized pH; clear boundary.
 
-   ACse -- 10 to 40 cm; very dark greenish gray (10Y 3/1) sand; single grain; very fluid; 1 percent macroalgal fragments, 0 percent rubbed; slight sulfurous odor; strongly saline; neutral (pH 7.1); ultra acid (pH 3.2) after 8 weeks; abrupt boundary. (Combined thickness of Ase and ACse horizons is 2 to 67 cm.)
+ ACseg--10 to 40 centimeters; very dark greenish gray (10Y 3/1) sand; single grain; very fluid; 1 percent macroalgal fragments, 0 percent rubbed; slight sulfurous odor; strongly saline; neutral (pH 7.1); ultra acid (pH 3.2) oxidized pH; abrupt boundary. (Combined thickness of Aseg and ACseg horizons is 2 to 67 centimeters.)
 
-   2C1 -- 40 to 90 cm; olive brown (2.5Y 4/4) loamy sand; few fine prominent strong brown (7.5YR 4/6) masses of iron accumulation; single grain; nonfluid; 20 percent herbaceous fibers, 5 percent rubbed; 5 percent gravel; moderately saline; neutral (pH 7.0); very strongly acid (pH 4.9) after 8 weeks; abrupt boundary. (5 to 147 cm thick.)
+ 2C--40 to 90 centimeters; olive brown (2.5Y 4/4) loamy sand; few fine prominent strong brown (7.5YR 4/6) masses of iron concentrations; single grain; nonfluid; 5 percent gravel; moderately saline; neutral (pH 7.0); very strongly acid (pH 4.9) oxidized pH; abrupt boundary. (5 to 147 centimeters thick.)
 
-   2C2 -- 90 to 150 cm; very dark grayish brown (2.5Y 3/2) very gravelly coarse sand; single grain; nonfluid; 50 percent gravel; slightly saline; neutral (pH 7.0); strongly acid (pH 5.5) after 8 weeks.
+ 2Cg--90 to 150 centimeters; very dark grayish brown (2.5Y 3/2) very gravelly coarse sand; single grain; nonfluid; 50 percent gravel; slightly saline; neutral (pH 7.0); strongly acid (pH 5.5) oxidized pH.
 
-TYPE LOCATION: New London County, Connecticut; Little Narragansett Bay, located about 550 feet south of the intersection of Island Road and the Providence and Worcester Rail Road and 685 feet north of where Island Road encounters Goat Island in a cove. USGS Mystic, CT topographic quadrangle, Latitude 41 degrees, 20 minutes, 27.27 seconds N. and Longitude 71 degrees, 53 minutes, 16.25 seconds W., WGS 1984.
+TYPE LOCATION: New London County, Connecticut; Little Narragansett Bay, located about 168 meters south of the intersection of Island Road and the Providence and Worcester Rail Road and 209 meters north of where Island Road encounters Goat Island in a cove; USGS topographic quadrangle: Mystic, CT.
 
-RANGE IN CHARACTERISTICS: The soils are permanently submerged. All horizons have a pH 1:1 water of neutral through moderately alkaline and an oxidized pH of ultra acid through moderately alkaline. One or more horizons within 50 cm of the soil surface have an oxidized pH of 4.0 or less. Soil has a 5:1 salinity greater than 0.2 dS/m throughout the profile. 
+Latitude--41.3409083
+Longitude-- -71.8878472
+Datum--WGS84
+Coordinate source--from hand-held GPS
 
-The Ase, ACse, or CAse horizon, when present, has hue of 10YR, 2.5Y, 5Y, 10Y or is neutral, value of 2 through 5, and chroma of 1 through 3. Texture is typically sandy loam through coarse sand. Silt loam, loam, very fine sandy loam, and fine sandy loam textures may be found to a lesser extent. Consistence is nonfluid through very fluid. It has 0.1 through 3.2 percent organic carbon. Herbaceous fibers are 0 through 5 percent unrubbed and 0 percent rubbed. Gravel content is 0 through 50 percent. Shell fragment content is 0 through 20 percent. Sulfurous odor may be present. 
+RANGE IN CHARACTERISTICS:
+Depth to bedrock--greater than 200 centimeters
+Soil moisture--These soils are continuously inundated.
+Reaction throughout--Neutral to moderately alkaline (pH 6.6 to 8.4)
+Oxidized reaction--Ultra acid to moderately alkaline (pH < 3.5 to 8.4)
+Electrical conductivity (1:5 soil-water),  throughout--0.6 dS/m or greater
+Depth to sulfidic materials (oxidized pH < 4.0)--0 to 50 centimeters
 
-The 2C horizon has hue of 7.5YR, 10YR, 2.5Y, 5Y, 10Y, 5GY or is neutral, value of 2 through 7, and chroma of 1 through 6. Texture is sandy loam, loamy sand, loamy coarse sand, fine sand, sand, or coarse sand. Thin horizons of fine sandy loam, very fine sandy loam, or silt loam material may also be present. Consistence is nonfluid or slightly fluid. Gravel content is 0 through 55 percent. Shell fragment content is 0 through 50 percent. Redoximorphic features may be present.  
+Aseg, ACseg, or CAseg horizon (where present)
+Hue--10YR, 2.5Y, 5Y, 10Y or is neutral
+Value--2 to 5
+Chroma--1 through 3
+Texture--sandy loam through coarse sand. Silt loam, loam, very fine sandy loam, and fine sandy loam textures may be found to a lesser extent. 
+Manner of failure--nonfluid to very fluid
+Organic carbon content--0.1 to 3.2 percent
+Herbaceous fibers--0 to 5 percent unrubbed and 0 percent rubbed 
+Rock fragments--Gravel 0 to 50 percent
+Shell fragments--0 to 20 percent
+Sulfurous odor may be present.
 
-COMPETING SERIES: There are no competing series. 
+2C or 2Cg horizon-
+Hue--7.5YR, 10YR, 2.5Y, 5Y, 10Y, 5GY or is neutral
+Value--2 to 7
+Chroma--1 to 6
+Texture--sandy loam, loamy sand, loamy coarse sand, fine sand, sand, or coarse sand. Thin horizons of fine sandy loam, very fine sandy loam, or silt loam material may also be present
+Manner of failure--nonfluid or slightly fluid
+Rock fragments--Gravel, 0 to 55 percent
+Shell fragments--0 to 50 percent
+Redoximorphic features may be present.
 
-GEOGRAPHIC SETTING: The Anguilla soils are permanently submerged with salt or brackish water in areas adjacent to the mainland that forms a cove or embayment within the larger basin. Slope ranges from 0 through 5 percent. The soils formed in sandy marine deposits over sandy and gravelly glaciofluvial deposits.
+COMPETING SERIES:
+There are no competing series in the same family.
 
-GEOGRAPHICALLY ASSOCIATED SOILS: These are the Billington, Fort Neck, Massapog, Nagunt, Napatree, Pishagqua, Rhodesfolly, and Wequetequock soils. Billington, Wequetequock, and Pishagqua soils are in mainland coves and lagoon bottom landscapes and have fluid silt loam materials in the soil profile. Fort Neck soils have fluid silt loam materials at the soil surface. Massapog soils are found on flood tidal delta flats in coastal lagoons and do not have sulfidic materials within 100 cm of the soil surface. Nagunt soils form on washover fan flats and washover fan slopes of coastal lagoons. Napatree soils are adjacent to landscapes dominated by till material in mainland coves and mainland submerged beaches, and have a particle-size class family of coarse-loamy. Rhodesfolly soils are found on washover fan flats in open bays.  
+GEOGRAPHIC SETTING:
+Parent material--Sandy estuarine deposits over sandy and gravelly glaciofluvial deposits
+Landscape--Coastal estuaries and lagoons
+Landform--Mainland coves and submerged mainland beaches
+Slope--0 to 5 percent
+Mean annual precipitation--1023 to 1320 millimeters (40 to 52 inches)
+Mean annual air temperature--4 to 13 degrees C (39.2 to 55.4 degrees F)
+Water salinity range--18 to 30 parts per thousand
+Frost-free period--350 to 365 days
 
-DRAINAGE AND SATURATED HYDRAULIC CONDUCTIVITY: Subaqueous soil, peraquic soil moisture regime. The saturated hydraulic conductivity is high or very high. Soil is permanently submerged with salt or brackish water. 
+GEOGRAPHICALLY ASSOCIATED SOILS:
+These are the Billington, FortNeck, Massapog, Nagunt, Napatree, Pishagqua, Rhodesfolly, and Wequetequock soils.
 
-USE AND VEGETATION: This soil supports submerged aquatic vegetation and aquatic habitats. The area is used by recreational fishermen for the harvest of crabs. In addition fishing is commonplace and the species found in the area are smelt, small cod, flounder, scup, menhaden, and white perch. Some areas are vegetated with native macroalgae, eelgrass (Zostera marina), and widgeon grass (Rupia maritima). Vegetative cover typically ranges from 0 to 35 percent.
+Billington, Pishagqua, and Wequetequock soils--are in mainland coves and lagoon bottom landscapes and have fluid silt loam materials in the soil profile.
+Fort Neck soils--have finer textures and fluid silt loam materials at the soil surface.
+Massapog soils--are found on flood tidal delta flats in coastal lagoons and do not have sulfidic materials within 100 centimeters of the soil surface.
+Nagunt soils--form on washover fan flats and washover fan slopes of coastal lagoons.
+Napatree soils--are on adjacent landscapes dominated by till material in mainland coves and mainland submerged beaches, and have finer textures in their substratum layers.
+Rhodesfolly soils--are found on washover fan flats in open bays.
 
-DISTRIBUTION AND EXTENT: New London County, Connecticut, and Rhode Island. MLRA 144A and 149B. The soils of this series are not extensive (total extent is about 1000 acres (405 hectares)). 
+DRAINAGE AND SATURATED HYDRAULIC CONDUCTIVITY:
+Drainage class--Subaqueous
+Saturated hydraulic conductivity--High to very high
+Soil moisture regime--Peraquic
+Soil is continuously inundated by saline and brackish water.
 
-SOIL SURVEY REGIONAL OFFICE (SSRO) RESPONSIBLE: Amherst, Massachusetts. 
+USE AND VEGETATION:
+Major uses--The area is used by recreational fishermen for the harvest of crabs. In addition, fishing is commonplace and the species found in the area are smelt, small cod, flounder, scup, menhaden, and white perch.
+Native vegetation--This soil supports submerged aquatic vegetation and aquatic habitats. Some areas are vegetated with native macroalgae, eelgrass (Zostera marina), and widgeon grass (Rupia maritima). Vegetative cover typically ranges from 0 to 35 percent.
+
+DISTRIBUTION AND EXTENT:
+General area--These soils are located along the Connecticut, Massachusetts, New York, and Rhode Island coast.
+Land Resource Regions--R - Northeastern Forage and Forest Region and S - Northern Atlantic Slope Diversified Farming Region
+MLRA(s)--144A and 149B
+Extent--Small
+
+SOIL SURVEY REGIONAL OFFICE (SSRO) RESPONSIBLE: Amherst, Massachusetts.
 
 SERIES ESTABLISHED: New London County, Connecticut, 2010.
 
-REMARKS: This subaqueous series mapped in areas previously mapped as water in the Connecticut and Rhode Island Soil Surveys.
+REMARKS: This subaqueous series mapped in areas previously mapped as water in Connecticut, Massachusetts, New York and Rhode Island Soil Surveys.
 
-Diagnostic horizons and features in this pedon include: 
+Diagnostic horizons and features in this pedon include--
+Peraquic feature--Positive soil water potential (permanently submerged) at the soil surface. (under 113 centimeters of salt water).
+Particle-size control section--The zone from 0 to 100 centimeters (0 to 40 inches)
+Ochric epipedon--0 to 40 centimeters (0 to 16 inches) (Aseg and ACseg horizons)
+Sulfidic materials--within 50 centimeters of the mineral soil surface (the Aseg and ACseg horizons, 0 to 40 centimeters).
+Lithologic discontinuity--contrasting soil materials starting at 40 centimeters (2C and 2Cg horizons).
+N-value > 0.7--the zone from 0 to 40 centimeters (Aseg and ACseg horizons).
+Rock fragment content > 35 percent in 2Cg horizon placing these soils in Sulfiwassents Great Group.
+Taxonomic version--Keys to Soil Taxonomy, 13th edition (2022)
 
-1. Peraquic feature - Positive soil water potential (permanently submerged) at the soil surface. (under 113 cm of salt water).
-2. Particle-size control section - The zone from 25 to 100 cm (Part of the ACse, 2C1, and part of the 2C2 horizon). 
-3. Sulfidic materials - within 50 cm of the mineral soil surface (the Ase and ACse horizons).
-4. Lithologic discontinuity - contrasting soil materials at 40 cm (2C1 horizon).
-5. N-value > 0.7 - the zone from 0 to 40 cm (Ase and ACse horizons).
-
-ADDITIONAL DATA: Type location taken from 2005CT011001-LNB in Little Narragansett Bay.  Additional support pedons include S2000RI009007-NP, S2000RI009009-NP, S2005RI009002B-NP, S2005CT011006, S2006CT011001, S2006CT011008, S2006RI009001, S2006RI009009-WH, S2006RI009012-QP, S2007RI009006-PJ, S2007RI009011-PJ, S2007RI009013-PJ, S2008RI009006-NP, S2009RI009012-PJ, S2009RI009013-PJ.  
+ADDITIONAL DATA: Type location taken from 2005CT011001 in Little Narragansett Bay. Additional support pedons include S2000RI009007, S2000RI009009, S2005RI009002B, S2005CT011006, S2006CT011001, S2006CT011008, S2006RI009001, S2006RI009009, S2006RI009012, S2007RI009006, S2007RI009011, S2007RI009013, S2008RI009006, S2009RI009012, S2009RI009013.
 
 National Cooperative Soil Survey
 U.S.A.
