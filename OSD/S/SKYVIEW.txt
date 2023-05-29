@@ -1,128 +1,105 @@
 LOCATION SKYVIEW                MT 
 
 Established Series
-Rev. PEM-JAL
-9/98
+Rev. PEM-JAL-KLS
+05/2023
 
 SKYVIEW SERIES 
 
-The Skyview series consists of moderately deep, well drained soils that formed in colluvium, slope alluvium or residuum derived from granite and other coarse grained igneous rocks.  These soils are on escarpments, ridges and sideslopes of hills.  Slopes are 8 to 60 percent.  Mean annual precipitation is about 17 inches, and mean annual air temperature is about 40 degrees F. 
+The Skyview series consists of moderately deep, well drained soils that formed in colluvium, slope alluvium or residuum derived from granite and other coarse grained igneous rocks.  These soils are on escarpments, ridges and sideslopes of hills.  Slopes are 8 to 60 percent.  Mean annual precipitation is about 430 mm, and mean annual air temperature is about 4 degrees C. 
 
 TAXONOMIC CLASS: Loamy-skeletal, mixed, superactive, frigid Typic Haplustalfs
 
 TYPICAL PEDON:  Skyview very cobbly sandy loam, very bouldery, forested (colors are for dry soil unless otherwise noted). 
 
-    Oi--2 inches to 0; partially decomposed needles, twigs, and leaves. (1 to 3 inches thick) 
+    Oe--0 to 5 cm; partially decomposed needles, twigs, and leaves. (3 to 8 cm thick) 
 
-    A--0 to 4 inches; gray (10YR 5/1) very cobbly sandy loam, very dark gray (10YR 3/1) moist; weak medium and fine subangular blocky structure; soft, very friable, slightly sticky and nonplastic; many very fine, common fine and few medium roots; many very fine and fine and few medium pores; 35 percent cobbles, 15 percent pebbles; neutral (pH 7.0); clear smooth boundary. (3 to 5 inches thick) 
+    A--5 to 15 cm; gray (10YR 5/1) very cobbly sandy loam, very dark gray (10YR 3/1) moist; weak medium and fine subangular blocky structure; soft, very friable, slightly sticky and nonplastic; many very fine, common fine and few medium roots; many very fine and fine and few medium pores; 35 percent cobbles, 15 percent gravel; neutral (pH 7.0); clear smooth boundary. (8 to 13 cm thick) 
 
-    E--4 to 16 inches; light brownish gray (2.5Y 6/2) very cobbly sandy loam, dark grayish brown (2.5Y 4/2) moist; weak medium and fine subangular blocky structure; soft, very friable, slightly sticky and nonplastic; many very fine, common fine and few medium roots; many very fine and few fine tubular and interstitial pores; 10 percent stones, 25 percent cobbles, 20 percent pebbles; neutral (pH 6.7); gradual wavy boundary. (8 to 14 inches thick) 
+    E--15 to 45 cm; light brownish gray (2.5Y 6/2) very cobbly sandy loam, dark grayish brown (2.5Y 4/2) moist; weak medium and fine subangular blocky structure; soft, very friable, slightly sticky and nonplastic; many very fine, common fine and few medium roots; many very fine and few fine tubular and interstitial pores; 10 percent stones, 25 percent cobbles, 20 percent gravel; neutral (pH 6.7); gradual wavy boundary. (20 to 36 cm thick) 
 
-    Bt/E--16 to 25 inches; Bt part (75 percent) brown (10YR 5/3) very cobbly sandy clay loam, brown (10YR 4/3) moist; E part (25 percent) light brownish gray (10YR 6/2) very cobbly sandy loam, grayish brown (10YR 5/2) moist; moderate medium prismatic structure parting to moderate medium and fine subangular blocky; slightly hard, friable, slightly sticky and slightly plastic; common very fine and fine and few medium roots; many very fine and few fine tubular and interstitial pores; Bt part, many faint clay films bridging sand grains; 10 percent stones, 25 percent cobbles, 15 percent pebbles; slightly acid (pH 6.5); clear wavy boundary. (9 to 14 inches thick) 
+    Bt/E--45 to 68 cm; Bt part (75 percent) brown (10YR 5/3) very cobbly sandy clay loam, brown (10YR 4/3) moist; E part (25 percent) light brownish gray (10YR 6/2) very cobbly sandy loam, grayish brown (10YR 5/2) moist; moderate medium prismatic structure parting to moderate medium and fine subangular blocky; slightly hard, friable, slightly sticky and slightly plastic; common very fine and fine and few medium roots; many very fine and few fine tubular and interstitial pores; Bt part, many faint clay films bridging sand grains; 10 percent stones, 25 percent cobbles, 15 percent gravel; slightly acid (pH 6.5); clear wavy boundary. (23 to 36 cm thick) 
 
-   Cr--25 to 29 inches; light yellowish brown (2.5Y 6/4) decomposed granite bedrock (grus) that crushes to very gravelly coarse sand; neutral (pH 6.9). (4 to 16 inches thick) 
+   Cr--68 to 78 cm; light yellowish brown (2.5Y 6/4) decomposed granite bedrock (grus) that crushes to very gravelly coarse sand; neutral (pH 6.9). (10 to 41 cm thick) 
 
-   R--29 inches; hard granite bedrock. 
+   R--78 cm; hard granite bedrock. 
 
-TYPE LOCATION:  Jefferson County, Montana; 1,400 feet north and 1,000 feet west of the SE corner of sec. 18, T. 9 N., R. 3 W.
+TYPE LOCATION:  Jefferson County, Montana; about 430 meters north and 305 meters west of the SE corner of sec. 18, T. 9 N., R. 3 W.
 
-RANGE IN CHARACTERISTICS: 
+RANGE IN CHARACTERISTICS:
+Mean annual soil temperature--3 to 7 degrees C
+Soil moisture control section--10 to 30 cm
+Depth to argillic horizon--23 to 40 cm
+Depth to Cr horizon--50 to 100 cm
+Depth to bedrock--55 to 100 cm
+The surface when mixed to 18 cm will not meet the thickness requirements for a mollic epipedon
+Surface stones or boulders--0 to 3 percent 
 
-Soil temperature - 38 to 44 degrees F. 
+A horizon
+Hue--10YR or 2.5Y 
+Value--4 or 5 dry; 3 or 4 moist 
+Chroma--1, 2, or 3 
+Texture--sandy loam or loam 
+Clay content--10 to 25 percent 
+Rock fragments--20 to 60 percent--0 to 5 percent stones, 5 to 35 percent cobbles, and 15 to 25 percent pebbles 
+Rock fragments, surface cover--0.1 to 3 percent boulders 
+Reaction--pH 6.1 to 7.3
 
-Moisture control section - between 4 and 12 inches. 
+E horizon
+Hue--10YR or 2.5Y 
+Value--6 or 7 dry; 4 or 5 moist
+Chroma--1, 2, or 3
+Texture--sandy loam or sandy clay loam 
+Clay content--10 to 25 percent 
+Rock fragment content--35 to 60 percent; 0 to 10 percent stones, 15 to 25 percent cobbles, and 20 to 25 percent gravel 
+Reaction--pH 6.1 to 7.3 
 
-Depth to argillic horizon - 9 to 16 inches. 
-
-Depth to Cr horizon - 20 to 38 inches. 
-
-Depth to bedrock - 23 to 40 inches. 
-
-The surface when mixed to 7 inches will not meet the thickness requirements for a mollic epipedon. 
-
-Surface stones or boulders - 0 to 3 percent 
-
-
-A horizon - Hue:  10YR or 2.5Y 
-
-Value:  4 or 5 dry; 3 or 4 moist 
-
-Chroma:  1, 2, or 3 
-
-Texture:  sandy loam or loam 
-
-Clay content:  10 to 25 percent 
-
-Rock fragments:  20 to 60 percent--0 to 5 percent stones, 5 to 35 percent cobbles, and 15 to 25 percent pebbles 
-
-Rock fragments, surface cover:  0.1 to 3 percent boulders 
-
-Reaction:  pH 6.1 to 7.3 
-
-
-E horizon - Hue:  10YR or 2.5Y 
-
-Value:  6 or 7 dry; 4 or 5 moist 
-
-Chroma:  1, 2, or 3 
-
-Texture:  sandy loam or sandy clay loam 
-
-Clay content:  10 to 25 percent 
-
-Rock fragments:  35 to 60 percent--0 to 10 percent stones, 15 to 25 percent cobbles, and 20 to 25 percent pebbles 
-
-Reaction:  pH 6.1 to 7.3 
-
-
-Bt/E horizon - Hue:  10YR or 2.5Y 
-
-Value:  Bt part 5 or 6 dry, 4 or 5 moist; E part 6 or 7 dry, 5 or 6 moist 
-
-Chroma:  2, 3, or 4 
-
-Texture:  Bt part sandy clay loam; E part sandy loam or sandy clay loam 
-
-Clay content:  18 to 30 percent 
-
-Rock fragments:  35 to 60 percent--0 to 10 percent stones, 20 to 25 percent cobbles, and 15 to 25 percent pebbles 
-
-Reaction:  pH 6.1 to 7.3 
+Bt/E horizon
+Hue--10YR or 2.5Y
+Value--Bt part 5 or 6 dry, 4 or 5 moist; E part 6 or 7 dry, 5 or 6 moist 
+Chroma--2, 3, or 4
+Texture--Bt part sandy clay loam; E part sandy loam or sandy clay loam
+Clay content--18 to 30 percent
+Rock fragment content--35 to 60 percent; 0 to 10 percent stones, 20 to 25 percent cobbles, and 15 to 25 percent gravel
+Reaction--pH 6.1 to 7.3 
 
 COMPETING SERIES: 
+Mocmont (MT) - does not have a paralithic or lithic contact above a depth of 150 cm; has more than 60 percent rock fragments below a depth of 80 cm. 
 
-Mocmont (MT) - does not have a paralithic or lithic contact above a depth of 60 inches; has more than 60 percent rock fragments below a depth of 32 inches. 
+GEOGRAPHIC SETTING:
+Landform--escarpments, ridges and sideslopes of hills
+Elevation--1350 to 1825 meters
+Slope--8 to 60 percent
+Parent material--colluvium, slope alluvium or residuum derived from granite and other coarse grained igneous rocks
+Climate--long, cold winters; moist springs; warm summers
+Mean annual precipitation--380 to 480 mm
+Mean annual air temperature--3 to 6 degrees C
+Frost-free period--70 to 105 days
 
-GEOGRAPHIC SETTING: 
-
-Landform - escarpments, ridges and sideslopes of hills. 
-
-Elevation - 4,400 to 6,000 feet. 
-
-Slope - 8 to 60 percent. 
-
-Parent material - colluvium, slope alluvium or residuum derived from granite and other coarse grained igneous rocks. 
-
-Climate - long, cold winters; moist springs; warm summers. 
-
-Mean annual precipitation - 15 to 19 inches. 
-
-Mean annual air temperature - 38 to 42 degrees F. 
-
-Frost-free period - 70 to 105 days 
+GEOGRAPHICALLY ASSOCIATED SOILS:  None listed.
 
 DRAINAGE AND PERMEABILITY:  Well drained, moderate permeability. 
 
 USE AND VEGETATION:  Skyview soils are primarily used for timber production and wildlife habitat.  The potential native vegetation is mainly Douglas-fir, ponderosa pine, pinegrass, common snowberry, heartleaf arnica, Kinnikinnick, white spiraea, Oregongrape, rough fescue, Idaho fescue, and bluebunch wheatgrass. 
 
-DISTRIBUTION AND EXTENT:  Skyview soils are of small extent in southwestern Montana. 
+DISTRIBUTION AND EXTENT:  Skyview soils are of small extent in southwestern Montana; MLRA 43B.
 
-MLRA SOIL SURVEY REGIONAL OFFICE (MO) RESPONSIBLE:  Bozeman, Montana
+SOIL SURVEY REGIONAL OFFICE (SSRO) RESPONSIBLE:  Bozeman, Montana
 
 SERIES ESTABLISHED:  Jefferson County, Montana, 1998. 
 
-REMARKS:  Soil interpretation record: MT3012.  Diagnostic horizons and features recognized in this pedon are:
-a layer of partially decomposed needles, twigs, and leaves from 2 inches to the mineral soil surface (Oi horizon); an ochric epipedon from the mineral soil surface to 16 inches (A, E horizons); an argillic horizon from 16 to 25 inches (Bt/E horizon); a particle-size control section from 16 to 25 inches (Bt/E horizon); a layer of decomposed granite (grus) from 25 to 29 inches (Cr horizon); hard granite bedrock at 29 inches (R horizon).  Skyview soils have a frigid temperature regime and an ustic moisture regime. 
+REMARKS:  Soil interpretation record: MT3012.  
+Diagnostic horizons and features recognized in this pedon are:
+Layer of partially decomposed needles, twigs, and leaves--0 to 5 cm (Oe horizon)
+Ochric epipedon--5 to 45 cm (A, E horizons)
+Argillic horizon--45 to 68 cm (Bt/E horizon)
+Paralithic contact--68 to 78 cm to a layer of decomposed granite (grus) (Cr horizon)
+Lithic contact--78 cm to hard granite bedrock (R horizon)
+Particle-size control section--45 to 68 cm (Bt/E horizon)
+
+Skyview soils have a frigid temperature regime and an ustic soil moisture regime.
+
+Converted to metric and O horizons were updated to start at zero. Competing series section was not updated. 05/2023
 
 National Cooperative Soil Survey
 U.S.A.

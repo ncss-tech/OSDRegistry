@@ -1,52 +1,86 @@
 LOCATION ECHARD                 UT
 
 Established Series
-REV:  WRM/RLT
-02/1999
+REV:  WRM-RLT-KLS
+05/2023
 
 ECHARD SERIES
 
-The Echard series consists of deep, well drained, very slowly permeable soils on alluvial fans and benches.  They formed in soft rhyolitic tuff or strongly cemented ash.  Slope ranges from 5 to 30 percent.  The average annual precipitation is 21 inches and the mean annual temperature is about 39 degrees F.
+The Echard series consists of deep, well drained, very slowly permeable soils on alluvial fans and benches.  They formed in soft rhyolitic tuff or strongly cemented ash.  Slope ranges from 5 to 30 percent.  The average annual precipitation is 530 mm, and the mean annual air temperature is about 4 degrees C.
 
 TAXONOMIC CLASS: Fine, mixed, superactive Ustic Argicryolls
 
 TYPICAL PEDON:  Echard loam--forested (Colors are for air-dry soil unless otherwise stated.)
 
-    01--1 inch to 0; aspen and conifer litter.
+    Oi--0 to 3 cm; aspen and conifer litter.
 
-    A--0 to 5 inches; gray (10YR 5/1) loam, very dark brown (10YR 2/2) moist; weak medium subangular blocky structure that parts to weak fine ganular; soft, friable, slightly sticky and slightly plastic; many fine and medium roots; few fine interstitial pores; 10 percent pebbles and 5 percent cobbles; medium acid (pH 6.0); clear wavy boundary.  (4 to 7 inches thick)
+    A--3 to 16 cm; gray (10YR 5/1) loam, very dark brown (10YR 2/2) moist; weak medium subangular blocky structure that parts to weak fine ganular; soft, friable, slightly sticky and slightly plastic; many fine and medium roots; few fine interstitial pores; 10 percent gravel and 5 percent cobbles; moderately acid (pH 6.0); clear wavy boundary.  (10 to 18 cm thick)
 
-    Bt1--5 to 15 inches; grayish brown (10YR 5/2) clay, very dark grayish brown (10YR 3/2) moist; moderate fine subangular blocky structure; slightly hard, firm, sticky and plastic; common fine and medium roots; few fine interstitial and tubular pores; common moderately thick clay films on faces of peds and in pores; 5 percent pebbles and 10 percent cobble-sized angular fragments of soft tuff or weakly cemented ash; medium acid (pH 6.0); gradual wavy boundary.  (8 to 12 inches thick)
+    Bt1--16 to 41 cm; grayish brown (10YR 5/2) clay, very dark grayish brown (10YR 3/2) moist; moderate fine subangular blocky structure; slightly hard, firm, sticky and plastic; common fine and medium roots; few fine interstitial and tubular pores; common moderately thick clay films on faces of peds and in pores; 5 percent gravel and 10 percent cobble-sized angular fragments of soft tuff or weakly cemented ash; moderately acid (pH 6.0); gradual wavy boundary. 
 
-    Bt2--15 to 20 inches; light brownish gray (10YR 6/2) clay loam, dark grayish brown (10YR 4/2) moist; weak medium and fine subangular blocky structure; slightly hard, firm, slightly sticky and slightly plastic; common fine and medium roots; few fine tubular pores; few thin clay films on faces of peds and in pores; 5 percent pebbles and 10 percent cobble-size fragments of soft tuff or weakly cemented ash; medium acid (pH 6.0); gradual wavy boundary.  (4 to 10 inches thick)
+    Bt2--41 to 54 cm; light brownish gray (10YR 6/2) clay loam, dark grayish brown (10YR 4/2) moist; weak medium and fine subangular blocky structure; slightly hard, firm, slightly sticky and slightly plastic; common fine and medium roots; few fine tubular pores; few thin clay films on faces of peds and in pores; 5 percent gravel and 10 percent cobble-size fragments of soft tuff or weakly cemented ash; moderately acid (pH 6.0); gradual wavy boundary. 
 
-    Bt3--20 to 25 inches; light brownish gray (10YR 6/2) cobbly clay loam, dark gray (10YR 4/1) moist; weak medium subangular blocky structure; slightly hard, frim, sticky and plastic; common medium and few very fine roots; common very fine tubular pores; common thin clay films on faces of peds; 10 percent pebbles and 15 percent cobble-size fragments of soft tuff or weakly cemented ash; slightly acid (pH 6.5); gradual irregular boundary.  (4 to 8 inches thick)
-    BC--25 to 60 inches; pale brown (10YR 6/3) cobbly loam, dark grayish brown (10YR 4/2) moist; weak medium subangular blocky structure; slightly hard, firm, slightly sticky and slightly plastic; few very fine and medium roots; few thin clay films in pores; 10 percent pebbles and 15 percent cobble-sized fragments of soft tuff or weakly cemented ash; slightly acid (pH 6.5).
+    Bt3--54 to 67 cm; light brownish gray (10YR 6/2) cobbly clay loam, dark gray (10YR 4/1) moist; weak medium subangular blocky structure; slightly hard, firm, sticky and plastic; common medium and few very fine roots; common very fine tubular pores; common thin clay films on faces of peds; 10 percent gravel and 15 percent cobble-size fragments of soft tuff or weakly cemented ash; slightly acid (pH 6.5); gradual irregular boundary.  (Combined thickness of the Bt1, Bt2 and Bt3 horizons - 40 to 75 cm)
+
+    BC--67 to 156 cm; pale brown (10YR 6/3) cobbly loam, dark grayish brown (10YR 4/2) moist; weak medium subangular blocky structure; slightly hard, firm, slightly sticky and slightly plastic; few very fine and medium roots; few thin clay films in pores; 10 percent gravel and 15 percent cobble-sized fragments of soft tuff or weakly cemented ash; slightly acid (pH 6.5).
 
 TYPE LOCATION:  Garfield County, Utah; head of Sanford Creek, NW 1/4 sec. 29, T. 33 S., R. 4 W.
 
-RANGE IN CHARACTERISTICS:  The mollic epipedon is 12 to 16 inches thick.  Depth to soft rhyolitic tuff or strongly cemented ash is 5 to 10 feet (estimated).  These soils have a mean annual soil temperature of about 38 to 41 degrees F. and the mean summer temperature at a depth of 20 inches is about 52 to 57 degrees F.  The solum is medium acid or slightly acid.
+RANGE IN CHARACTERISTICS:  
+Mean annual soil temperature--3 to 5 degrees C
+Mean summer soil temperature--11 to 14 degrees C
+Mollic epipedon thickness--30 to 40 cm
+Depth to soft rhyolitic tuff or strongly cemented ash--152 to 305 cm (estimated)
 
-The A horizon has valve of 4 or 5 dry, 2 or 3 moist, and chroma of 1 and 2 dry and 2 moist.
+Particle-size control section:
+Rock fragment content--0 to 20 percent gravel and/or cobbles of rhyolitic tuff or cemented ash lithology
+Reaction--pH 5.6 to 6.5
 
-The upper part of the Bt horizon has hue of 10YR or 7.5YR.  The lower part has hue of 7.5YR or 10YR, value of 5 or 6 dry and chroma of 1 or 2.  The Bt (argillic) horizon is clay loam, gravelly and cobbly clay loam to clay and gravelly and cobbly clay with about 35 to 42 percent clay.  Rock fragments in the upper 20 inches of the Bt horizon average less than 20 percent.  The BC horizon has value of 5 to 7 dry, 4 or 5 moist, and chroma of 2 or 3.  It ranges from gravelly and cobbly loam to gravelly and cobbly clay loam.
+A horizon
+Value--4 or 5 dry, 2 or 3 moist
+Chroma--1 and 2 dry and 2 moist
+
+Bt horizons
+Hue--10YR or 7.5YR in the upper part; 7.5YR or 10YR in the lower part.
+Value--5 or 6 dry
+Chroma--1 or 2
+Texture--clay loam or clay
+Clay content--35 to 42 percent
+Rock fragment content--0 to 30 percent gravel and/or cobbles
+
+BC horizon
+Value--5 to 7 dry, 4 or 5 moist
+Chroma--2 or 3
+Texture--loam or clay loam
+Rock fragment content--15 to 35 percent gravel and cobbles
 
 COMPETING SERIES:  These are the Bridger and Rattler series.  Bridger and Rattler soils have calcic horizons.  In addition, Rattler soils have hues redder than 7.5YR.
 
-GEOGRAPHIC SETTING:  Echard soils are on gently to moderately steeply sloping dissected alluvial fans and benches at elevations of 8,500 to 8,900 feet.  They formed in soft rhyolitic tuff or strongly cemented ash.  Slope gradients are 5 to 30 percent.  The average annual precipitation is 20 to 22 inches and the freeze-free period ranges from 60 to 65 days.  The mean annual temperature is 38 to 41 degrees F. and the average summer temperature is 52 to 57 degrees F.
+GEOGRAPHIC SETTING: 
+Landform--gently to moderately steeply sloping dissected alluvial fans and benches
+Elevation--2600 to 2725 meters
+Slope--5 to 30 percent
+Parent material--soft rhyolitic tuff or strongly cemented ash
+Mean annual precipitation--510 to 560 mm
+Mean annual temperature--3 to 5 degrees C
+Mean summer temperature--11 to 14 degrees C
+Frost free period--60 to 65 days
 
-GEOGRAPHICALLY ASSOCIATED SOILS:  These are the Behanin and Castino soils.  Behanin soils have a mollic epipedon 16 to 24 inches thick and a loamy B2 horizon over 35 percent rock fragments.  Castino soils have more than 35 percent rock fragments in the particle size control section.
+GEOGRAPHICALLY ASSOCIATED SOILS:  None listed.
 
 DRAINAGE AND PERMEABILITY:  Well drained; rapid runoff; very slow permeability.
+
 USE AND VEGETATION:  Timber and wildlife.  Native vegetation is Douglas-fir, ponderosa pine, limber pine, aspen, prostrate juniper, Oregon grape, mountain brome, needleandthread grass, slender wheatgrass, squirreltail, and lupine.
 
-DISTRIBUTION AND EXTENT:  South-central Utah.  This series is inextensive.
+DISTRIBUTION AND EXTENT:  Echard soils are of small extent in southcentral Utah; MLRA 47. 
 
-MLRA SOIL SURVEY REGIONAL OFFICE (MO) RESPONSIBLE: Bozeman, Montana
+SOIL SURVEY REGIONAL OFFICE (SSRO) RESPONSIBLE: Bozeman, Montana
 
 SERIES ESTABLISHED:  Garfield County (Paunsaugunt Area), Utah, 1969.
 
 REMARKS:  These soils were formerly classified as Brown Forest soils.
+
+Converted to metric and O horizons were updated to start at zero. Competing series section was not updated. 05/2023
 
 National Cooperative Soil Survey
 U.S.A.

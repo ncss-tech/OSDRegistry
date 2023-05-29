@@ -1,58 +1,91 @@
 LOCATION SECONDSET              CO
 
 Established Series
-Rev. WPT/GB/JPP
-02/1999
+Rev. WPT-JPP-KLS
+05/2023
 
 SECONDSET SERIES
 
-The Secondset series consist of moderately deep, well drained moderately permeable soils that formed in mixed materials from eolian deposits, limestone, sandstone, basalt, and quartzite.  These soils are on high plateaus or mesa tops and flat mountain tops and have slopes of 0 to 35 percent.  The mean annual precipitation is about 32 inches and the mean annual temperature is about 36 degrees F.
+The Secondset series consist of moderately deep, well drained moderately permeable soils that formed in mixed materials from eolian deposits, limestone, sandstone, basalt, and quartzite.  These soils are on high plateaus or mesa tops and flat mountain tops and have slopes of 0 to 35 percent.  The mean annual precipitation is about 810 mm, and the mean annual temperature is about 2 degrees C.
 
 TAXONOMIC CLASS: Fine-loamy, mixed, superactive Pachic Haplocryolls
 
 TYPICAL PEDON:  Secondset loam - open spruce and fir woodland (colors are for dry soil unless otherwise noted).
 
-    Oi--2 inches to 0; partially decomposed forest litter.
+    Oi--0 to 5 cm; partially decomposed forest litter.
 
-    A--0 to 6 inches; brown (10YR 5/3) loam, dark brown (10YR 3/3) moist; weak coarse subangular blocky structure, parting to moderate fine granular; slightly hard, very friable, slightly sticky, slightly plastic; 5 percent pebbles and few scattered cobble size rock fragments; moderately acid; clear smooth boundary.  (5 to 8 inches thick)
+    A--5 to 20 cm; brown (10YR 5/3) loam, dark brown (10YR 3/3) moist; weak coarse subangular blocky structure, parting to moderate fine granular; slightly hard, very friable, slightly sticky, slightly plastic; 5 percent gravel and few scattered cobbles; moderately acid; clear smooth boundary.  (13 to 20 cm thick)
 
-    Bw--6 to 18 inches; brown (10YR 5/3) loam, dark brown (10YR 3/3) moist; moderate fine and medium subangular blocky structure; slightly hard, friable, slightly sticky, slightly plastic; 5 percent pebbles and few scattered cobble size rock fragments; moderately acid; clear smooth boundary.  (10 to 18 inches thick)
+    Bw--20 to 50 cm; brown (10YR 5/3) loam, dark brown (10YR 3/3) moist; moderate fine and medium subangular blocky structure; slightly hard, friable, slightly sticky, slightly plastic; 5 percent gravel and few scattered cobbles; moderately acid; clear smooth boundary.  (25 to 46 cm thick)
 
-    BC--18 to 26 inches; yellowish brown (10YR 5/4) loam, brown (10YR 4/3) moist; moderate fine and medium subangular blocky structure; slightly hard, friable, slightly sticky, slightly plastic; 10 percent pebbles, 5 percent cobble size rock fragments; slightly acid; clear wavy boundary.  (6 to 10 inches thick)
+    BC--50 to 70 cm; yellowish brown (10YR 5/4) loam, brown (10YR 4/3) moist; moderate fine and medium subangular blocky structure; slightly hard, friable, slightly sticky, slightly plastic; 10 percent gravel, 5 percent cobbles; slightly acid; clear wavy boundary.  (15 to 25 cm thick)
 
-    C--26 to 33 inches; yellowish brown (10YR 5/4) gravelly loam, brown (10YR 4/3) moist; massive; slightly hard, friable, slightly sticky, slightly plastic; 15 percent pebbles, 10 percent cobble size rock fragments; slightly acid; abrupt wavy boundary.  (4 to 8 inches thick)
+    C--70 to 88 cm; yellowish brown (10YR 5/4) gravelly loam, brown (10YR 4/3) moist; massive; slightly hard, friable, slightly sticky, slightly plastic; 15 percent gravel, 10 percent cobbles; slightly acid; abrupt wavy boundary.  (10 to 20 cm thick)
 
-    R--33 inches; hard bedrock.
+    R--88 cm; hard bedrock.
 
-TYPE LOCATION:  Garfield County, Colorado; about 1,800 feet west and 2,350 feet north of the projected southeast corner of Sec. 26, T. 4 S., R. 90 W.  (Area is not sectionized).  U.S.G.S. Adams Lake quad.; Lat. 39 degrees, 40 minutes, 22 seconds N., and long. 107 degrees, 27 minutes, 20 seconds W.
+TYPE LOCATION:  Garfield County, Colorado; about 550 meters west and 715 meters north of the projected southeast corner of sec. 26, T. 4 S., R. 90 W.  (Area is not sectionized).  U.S.G.S. Adams Lake quad.; lat. 39 degrees, 40 minutes, 22 seconds N., and long. 107 degrees, 27 minutes, 20 seconds W.
 
-RANGE IN CHARACTERISTICS:  Mean annual soil temperature ranges from 37 to 44 degrees F.  Mean summer soil temperature ranges from 45 to 50 degrees F.  The mollic epipedon ranges from 16 to 36 inches thick.  The particle-size control section is loam, clay loam or sandy clay loam with clay ranging from 18 to 30 percent.  Rock fragments range from 0 to 30 percent with pebbles dominant.  The solum is moderately acid through neutral.  Depth to bedrock is 20 to 40 inches.  The moisture control section is moist in some or all parts in the period between the winter and summer solstice when the soil is not frozen and is moist in some parts of the moisture control section following the summer solstice for 60 to 90 cumulative days.
-
+RANGE IN CHARACTERISTICS:  
+Mean annual soil temperature--3 to 7 degrees C
+Mean summer soil temperature--7 to 10 degrees C
+Moisture control section--moist in some or all parts in the period between the winter and summer solstice when the soil is not frozen and is moist in some parts of the moisture control section following the summer solstice for 60 to 90 cumulative days.
+Mollic epipedon thickness (pachic feature)--40 to 90 cm
+Depth to lithic contact--50 to 100 cm
 The O horizon is not present in some pedons.
 
-The A horizon has hue of 2.5Y through 7.5YR, value of 4 or 5, 2 or 3 moist, and chroma of 2 or 3.
+Particle-size control section:
+Texture--loam, clay loam or sandy clay loam 
+Clay content--18 to 30 percent
+Rock fragment content--0 to 30 percent; dominantly gravel size
+Reaction--pH 5.6 to 7.3
 
-The Bw horizon has hue of 2.5Y through 7.5YR, value of 4 or 5, 2 or 3 moist and chroma of 2 or 3.  Textures are loam, clay loam or sandy clay loam.
+A horizon
+Hue--2.5Y through 7.5YR
+Value--4 or 5, 2 or 3 moist
+Chroma--2 or 3
 
-The BC and C horizons have hue of 2.5Y through 7.5YR, value of 4 through 6, 3 through 5 moist and chroma of 3 or 4.  Textures are loam, clay loam or sandy clay loam.
+Bw horizon
+Hue--2.5Y through 7.5YR
+Value--4 or 5, 2 or 3 moist
+Chroma--2 or 3
+Texture--loam, clay loam or sandy clay loam
 
-COMPETING SERIES:  These are the Adel (CO), Bullbasin (CO), Bullrey (ID), Duff (NV), Gallatin (MT), Hackwood (NV), Idmon (ID), Karlan (ID), Lamphier (CO), Leavittville (WY), Lespate (CO), Mundos (WY), Osmund (WY), Pavohroo (ID), Rhone (CO), Strickland (NV), Taterheap (CO), and Winevada (CO) series.  Adel, Bullbasin, Bullrey, Duff,  Gallatin, Lamphier, Leavittville, Mundos, Osmund, Pavohroo, and Rhone soils lack bedrock above depths of 40 inches.  Karlan and Lespate soils have consistent k horizons.  Winevada soils have moisture control sections that are dry for longer cumulative periods following the summer solstice.  Hackwood and Taterheap soils are very deep.  Idmon soils lack bedrock above a depth of 40 inches.  Strickland soils have evidence of clay movement.
+BC and C horizons 
+Hue--2.5Y through 7.5YR
+Value--4 through 6, 3 through 5 moist
+Chroma--3 or 4
+Texture--loam, clay loam or sandy clay loam
 
-GEOGRAPHIC SETTING:  Secondset soils are on side slopes of low hills, ridges and knobs on plateaus and flat mountain tops.  Slopes range from 0 to 35 percent.  The soils formed in mixed materials from limestone, sandstone, basalt, and quartzite.  Elevation is 8,600 to 11,500 feet.  The mean annual precipitation is 25 to 35 inches.  Most of the precipitation comes as snow.  The mean annual temperature is 33 to 42 degrees F.
+COMPETING SERIES:  These are the Adel (CO), Bullbasin (CO), Bullrey (ID), Duff (NV), Gallatin (MT), Hackwood (NV), Idmon (ID), Karlan (ID), Lamphier (CO), Leavittville (WY), Lespate (CO), Mundos (WY), Osmund (WY), Pavohroo (ID), Rhone (CO), Strickland (NV), Taterheap (CO), and Winevada (CO) series.  Adel, Bullbasin, Bullrey, Duff,  Gallatin, Lamphier, Leavittville, Mundos, Osmund, Pavohroo, and Rhone soils lack bedrock above depths of 100 cm.  Karlan and Lespate soils have consistent k horizons.  Winevada soils have moisture control sections that are dry for longer cumulative periods following the summer solstice.  Hackwood and Taterheap soils are very deep.  Idmon soils lack bedrock above a depth of 100 cm.  Strickland soils have evidence of clay movement.
 
-GEOGRAPHICALLY ASSOCIATED SOILS:  These are the Clinetop, Farlow, Nimerick, Pineisle, Sapphire, Starley, and Supervisor soils.  The Clinetop and Starley soils have lithic contacts at 10 to 20 inch depths.   The Farlow, Nimerick, Pineisle, Sapphire, and Supervisor soils all lack pachic pedons.
+GEOGRAPHIC SETTING:
+Landform--side slopes of low hills, ridges and knobs on plateaus and flat mountain tops
+Elevation--2625 to 3500 meters
+Slope--0 to 35 percent
+Parent material--mixed materials from limestone, sandstone, basalt, and quartzite
+Mean annual precipitation--640 to 890 mm; most of which comes as snow
+Mean annual air temperature--1 to 6 degrees C
+Frost-free period--45 to 60 days
+
+GEOGRAPHICALLY ASSOCIATED SOILS:  None listed.
 
 DRAINAGE AND PERMEABILITY:  Well drained; medium runoff; moderate permeability.
 
 USE AND VEGETATION:  Secondset soils are used for timber production, limited late summer grazing, wildlife habitat and for recreation. Native vegetation includes stands of spruce and fir forest with subalpine grasses in the understory.
 
-DISTRIBUTION AND EXTENT:  Mountainous areas of northwestern Colorado.  The series is of small extent.
+DISTRIBUTION AND EXTENT:  Secondset soils are moderately extensive in the mountainous areas of northwestern Colorado and northeastern Utah; MLRA 48A.
 
-MLRA SOIL SURVEY REGIONAL OFFICE (MO) RESPONSIBLE: Bozeman, Montana
+SOIL SURVEY REGIONAL OFFICE (SSRO) RESPONSIBLE: Bozeman, Montana
 
 SERIES ESTABLISHED:  Garfield County (Flat Tops Soil Survey Area in the Flat Tops Wilderness Area), Colorado, 1984.
 
-REMARKS:  Diagnostic features include a mollic epipedon from 0 to 18 inches, but ranges from 16 to 36 inches; a cambic horizon from 6 to 18 inches; and hard bedrock at 33 inches, but ranging from 20 to 40 inches.   Last updated by the state 5/94.
+REMARKS:  Diagnostic features include:
+Mollic epipedon--5 to 50 cm (A and Bw horizons)
+Cambic horizon--20 to 50 cm (Bw horizon)
+Lithic contact--88 cm to hard bedrock (R horizon)
+
+Converted to metric and O horizons were updated to start at zero. Competing series section was not updated. 05/2023
 
 National Cooperative Soil Survey
 U.S.A.

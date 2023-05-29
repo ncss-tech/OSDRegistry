@@ -1,58 +1,91 @@
 LOCATION SIEBERT                CO
 
 Established Series
-Rev. AJC/LF/JEB
-07/2010
+Rev. AJC-LF-KLS
+05/2023
 
 SIEBERT SERIES
 
-Typically, Sieberg soils have light brownish gray, very friable, platy, micaceous A2 horizons and gravelly loamy sand horizons in which silicate clay is accumulating as lamellae in a very micaceous matrix over partly weathered mica schist at a depth of 33 inches.
+The Siebert series consists of moderately deep, well drained soils that formed in residuum derived from schist and micaceous gneiss or sedimentary rocks.  These soils are on gently to steeply sloping hills, ridges, and mountain side slopes. Slopes are 2 to 50 percent. The mean annual precipitation is about 510 mm and the mean annual air temperature is about 2 degrees C.
 
 TAXONOMIC CLASS: Loamy-skeletal, micaceous Lamellic Haplocryalfs
 
 TYPICAL PEDON:  Siebert gravelly loamy sand - forest.  (Colors are for dry soil unless otherwise noted.)
 
-    01--2 to 1 inch; undecomposed organic material mostly needles, bark, twigs, and leaves.
+    Oi--0 to 3 cm; undecomposed organic material mostly needles, bark, twigs, and leaves.
 
-    02--1 inch to 0; partly decomposed organic matter like that of the horizon above.
+    Oe--3 to 6 cm; partly decomposed organic matter like that of the horizon above.
 
-    A2--0 to 15 inches; light brownish gray (10YR 6/2) gravelly loamy sand, grayish brown (10YR 5/2) moist; thick platy structure that parts to fine granules; soft, very friable; enough mica in medium and large platelets to give the fine earth a soap-like consistence when moist and crushed; 40 percent gravel and cobbles; few stones; slightly acid (pH 6.4); gradual wavy boundary.  (4 to 20 inches thick)
+    E--6 to 44 cm; light brownish gray (10YR 6/2) gravelly loamy sand, grayish brown (10YR 5/2) moist; thick platy structure that parts to fine granules; soft, very friable; enough mica in medium and large platelets to give the fine earth a soap-like consistence when moist and crushed; 40 percent gravel and cobbles; few stones; slightly acid (pH 6.4); gradual wavy boundary.  (10 to 50 cm thick)
 
-    B2t--15 to 33 inches; mixed light brownish gray (10YR 6/2), yellowish brown (10YR 5/4) and light olive brown (2.5Y 5/4) gravelly loamy sand containing discontinuous lamellae of sandy loam, loam, and sandy clay loam 1/4 to 3/4 inch in thickness, grayish brown (10YR 5/2), dark yellowish brown (10YR 4/4) moist, and dark olive brown (2.5Y 4/4) moist; moderate medium subangular blocky structure that parts to fine subangular blocky structure or granules; slightly hard, very friable; some of the more clayey peds are hard, friable; enough mica flakes to give the fine earth fraction a soap-like consistence when moist and crushed; continuous wax-like coatings on the faces of the more clayey peds and in some root channels and pores; wax-like bridges between some sand grains; 45 percent gravel and cobbles; few stones; slightly acid (pH 6.4); gradual wavy boundary. (10 to 36 inches thick)
+    Bt--44 to 90 cm; mixed light brownish gray (10YR 6/2), yellowish brown (10YR 5/4) and light olive brown (2.5Y 5/4) gravelly loamy sand containing discontinuous lamellae of sandy loam, loam, and sandy clay loam 0.5 to 2 cm in thickness, grayish brown (10YR 5/2), dark yellowish brown (10YR 4/4) moist, and olive brown (2.5Y 4/4) moist; moderate medium subangular blocky structure that parts to fine subangular blocky structure or granules; slightly hard, very friable; some of the more clayey peds are hard, friable; enough mica flakes to give the fine earth fraction a soap-like consistence when moist and crushed; continuous wax-like coatings on the faces of the more clayey peds and in some root channels and pores; wax-like bridges between some sand grains; 45 percent gravel and cobbles; few stones; slightly acid (pH 6.4); gradual wavy boundary. (25 to 90 cm thick)
 
-    C--33 to 50 inches; partly weathered mica schist.
+    Cr--90 to 133 cm; partly weathered mica schist.
 
-TYPE LOCATION:  Jackson County, Colorado; 425 feet north and 1,300 feet east of S1/4 corner Sec. 32, T. 12 N., R. 81 W.
+TYPE LOCATION:  Jackson County, Colorado; about 130 meters north and 400 meters east of S1/4 corner Sec. 32, T. 12 N., R. 81 W.
 
-RANGE IN CHARACTERISTICS:  Mean annual soil temperature is about 40 degrees F. and mean summer soil temperature is about 51 degrees F.  Thin Al horizons are present in some pedons.  Base saturation ranges from 60 to 100 percent in all subhorizons of the argillic horizon.  Depth to the paralithic contact ranges from 20 to 40 inches.  Depth to the top of the argillic horizon is less than 24 inches and depth to the base of the argillic horizon ranges from 17 to 40 inches.  Rock fragments range from 35 to 75 percent in a major part of the solum and C horizon and they are mainly 1/4 to 10 inches in diameter.  Sand and silt fractions contain 5 to 40 percent or more of flat mica platelets of sufficient size to affect the soils physical condition.
+RANGE IN CHARACTERISTICS:
+Mean annual soil temperature--4 degrees C
+Mean summer soil temperature--11 degrees C
+Base saturation--60 to 100 percent in all subhorizons of the argillic horizon
+Depth to paralithic contact--50 to 100 cm
+Depth to top of argillic horizon--less than 60 cm
+Depth to base of argillic horizon--45 to 100 cm
+Rock fragment content--35 to 75 percent in a major part of the solum and C horizon; mainly 5 to 250 mm in diameter.  
+Sand and silt fractions contain 5 to 40 percent or more of flat mica platelets of sufficient size to affect the soils physical condition.
+Thin A horizons are present in some pedons, and C horizons may occur above the shist.
 
-The A1 horizon, if present, has hue of 2.5Y through 7.5YR, value of 4 or 5 dry, 2 or 3 moist, and chroma of 1 through 3.  It ranges from medium acid to neutral.
+A horizon, if present
+Hue--2.5Y through 7.5YR
+Value--4 or 5 dry, 2 or 3 moist
+Chroma--1 through 3
+Reaction--pH 5.6 to 7.3
 
-The A2 horizon has hue of 2.5Y through 7.5YR, value of 5 through 8 dry, 4 through 7 moist, and chroma of 1 through 6.  It ranges from medium acid to neutral.
+E horizon
+Hue--2.5Y through 7.5YR
+Value--5 through 8 dry, 4 through 7 moist
+Chroma--1 through 6
+Reaction--pH 5.6 to 7.3
 
-The B2t horizon has hue of 5Y through 7.5YR, value of 5 through 8 dry, 4 through 7 moist, and chroma of 1 through 6.  It has lamellae of sandy loam, sandy clay loam, loam or clay loam in a coarse textured matrix.  If mixed proportionately to their occurrence in the pedon the composite texture of the fine earth fraction in the lamellae and matrix is not finer than loamy fine sand.  This horizon ranges from medium acid to neutral.
+Bt horizon
+Hue--5Y through 7.5YR
+Value--5 through 8 dry, 4 through 7 moist
+Chroma--1 through 6
+Texture--lamellae is sandy loam, sandy clay loam, loam or clay loam in a coarse textured (loamy sand or sand) matrix.  If mixed proportionately to their occurrence in the pedon the composite texture of the fine earth fraction in the lamellae and matrix is not finer than loamy fine sand.  
+Reaction--pH 5.6 to 7.3
 
-The C horizon, if present above the schist, ranges from 5Y through 7.5YR; subhorizons redder than 7.5YR occur in some pedons.  It is gravelly or very gravelly loamy sand or sand. This horizon ranges from medium acid to neutral.
+C horizon, if present above the schist
+Hue--5Y through 7.5YR; subhorizons redder than 7.5YR occur in some pedons
+Texture--gravelly or very gravelly loamy sand or sand
+Reaction--pH 5.6 to 7.3
 
 COMPETING SERIES:  These are the Hyannis, Troutville, and Yochum series.   Hyannis soils have only small amounts of mica and lack the physical properties introduced by high mica content.  Troutville soils lack a paralithic contact within the control section.  Yochum soils have hue of 5YR or redder and have little or no mica.
 
-GEOGRAPHIC SETTING:  Siebert soils are on gently to steeply sloping hills, ridges, and mountainsides.  Slopes typically range from about 2 to 50 percent.  These soils formed in moderately thin very micaceous coarse textured materials weathered from schist and micaceous gneiss or sedimentary rocks.  At the type location the mean annual precipitation is about 20 inches with peak periods of precipitation in the spring and summer.  Mean annual temperature is 36 degrees F. and mean summer temperature is 52 degrees F.
+GEOGRAPHIC SETTING: 
+Landform--gently to steeply sloping hills, ridges, and mountainsides
+Elevation--2450 to 3000 meters
+Slope--2 to 50 percent
+Parent material--micaceous residuum weathered from schist and micaceous gneiss or sedimentary rocks
+Mean annual precipitation--410 to 510 mm with peak periods of precipitation in the spring and summer
+Mean annual air temperature--1 to 2 degrees C
+Mean summer air temperature--11 degrees C
+Frost-free period--30 to 35 days
 
-GEOGRAPHIC ASSOCIATED SOILS:  These are the competing Hyannis soils.
+GEOGRAPHICALLY ASSOCIATED SOILS:  None listed.
 
 DRAINAGE AND PERMEABILITY:  Well drained; slow to very slow runoff; rapid permeability.
 
 USE AND VEGETATION:  They are used as grazing land and for timber production.  Native vegetation is lodgepole pine, spruce, fir, wild rose, and juniper.
 
-DISTRIBUTION AND EXTENT:  Mountainous areas of Colorado.  The series is of moderate extent.
+DISTRIBUTION AND EXTENT:  Siebert soils are of small extent in mountainous areas of northcentral Colorado; MLRA 48A.
 
-MLRA SOIL SURVEY REGIONAL OFFICE (MO) RESPONSIBLE: Bozeman, Montana
+SOIL SURVEY REGIONAL OFFICE (SSRO) RESPONSIBLE: Bozeman, Montana
 
 SERIES ESTABLISHED:  Jackson County Colorado 1973.
 
-REMARKS:  OSED scanned by NSSQA and cleaned up by Colorado.  Last revised by state on 11/73.
+REMARKS:  The mineralogy class was changed from paramicaceous to micaceous in 07/2010 by the National Soil Survey Center on request of the responsible MLRA regional office.  The change was necessary based on the eleventh edition of the Keys to Soil Taxonomy, 2010.
 
-The mineralogy class was changed from paramicaceous to micaceous in 07/2010 by the National Soil Survey Center on request of the responsible MLRA regional office.  The change was necessary based on the eleventh edition of the Keys to Soil Taxonomy, 2010.
+Converted to metric and O horizons were updated to start at zero. Competing series section was not updated. 05/2023
 
 National Cooperative Soil Survey
 U.S.A.
