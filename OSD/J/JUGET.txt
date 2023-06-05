@@ -1,49 +1,84 @@
 LOCATION JUGET                  CO
 
 Established Series
-Rev. AJC-GB
-02/1999
+Rev. AJC-GB-KLS
+05/2023
 
 JUGET SERIES
 
-The Juget series consists of shallow, somewhat excessively drained soils formed in thin noncalcareous very gravelly coarse-textured materials weathered from granite bedrock.  Juget soils are on mountain side slopes, hills, and ridges.  Slopes range from 6 to about 60 percent.  The mean annual precipitation is about 20 inches and the mean annual temperature is about 42 degrees F.
+The Juget series consists of shallow, somewhat excessively drained soils formed in thin noncalcareous very gravelly coarse-textured materials weathered from granite bedrock. Juget soils are on mountain side slopes, hills, and ridges. Slopes range from 6 to about 60 percent. The mean annual precipitation is about 510 cm and the mean annual air temperature is about 6 degrees C.
 
 TAXONOMIC CLASS: Sandy-skeletal, mixed, frigid Lithic Haplustolls
 
-TYPICAL PEDON:  Juget very gravelly sandy loam - grassland.  (Colors are for dry soil unless otherwise noted.)
+TYPICAL PEDON:Juget very gravelly sandy loam - grassland. (Colors are for dry soil unless otherwise noted.)
 
-    A--0 to 6 inches; dark gray (10YR 4/1) very gravelly sandy loam, black (10YR 2/1) when moist; weak, very fine, granular structure; soft, very friable; 60 percent pebbles and stone; slightly acid; clear, smooth boundary.  (4 to 8 inches thick)
+    A--0 to 15 cm; dark gray (10YR 4/1) very gravelly sandy loam, black (10YR 2/1) when moist; weak, very fine, granular structure; soft, very friable; 60 percent gravel and stone; slightly acid; clear, smooth boundary. (10 to 20 cm thick)
 
-    C--6 to 11 inches; brown (10YR 5/3) very gravelly loamy sand, dark grayish brown (10YR 4/2) when moist; massive; hard, friable; about 80 percent fine pebbles; slightly acid; clear, wavy boundary.  (4 to 10 inches thick)
+    C--15 to 28 cm; brown (10YR 5/3) very gravelly loamy sand, dark grayish brown (10YR 4/2) when moist; massive; hard, friable; about 80 percent fine gravel; slightly acid; clear, wavy boundary. (10 to 25 cm thick)
 
-    R--11 inches; hard granite bedrock.
+    R--28 cm; hard granite bedrock.
 
-TYPE LOCATION:  Boulder County, Colorado; 2,540 feet north and 650 feet east of the southwest corner, sec. 11, T. 1 N., R. 71 W.
+TYPE LOCATION:Boulder County, Colorado; 774 meters north and 198 meters east of the southwest corner, sec. 11, T. 1 N., R. 71 W.; Boulder USGS topographic quadrangle; lat. 40 degrees, 3 minutes, 56 seconds N. and long. 105 degrees, 19 minutes, 5 seconds W.; NAD 83
 
-RANGE IN CHARACTERISTICS:  The mollic epipedon is 7 to 20 inches thick and depth to the lithic contact is 7 to 20 inches.  The soils are slightly acid to neutral throughout.  Organic carbon in the mollic epipedon is 0.6 to 2 percent and decreases uniformly with increasing depth.  The soils are 60 to 100 percent base saturated.  The particle size control section is very gravelly sand or loamy sand excluding any loamy very fine sand.  These soils have a high proportion of medium and coarse angular sand in the sand fraction.  Packing patterns tend to be cubical and horizons of low organic matter content have an unusually great differential in consistence between moist and dry conditions.  Rock fragments range from 35 to 80 percent.  Mean annual soil temperature ranges from 32 to 46 degrees F, and mean summer soil temperature ranges from 59 to 70 degrees F.  The soil temperature is 41 degrees F, or higher for less than 230 days.  The soils are dry more than one-half the time.
+RANGE IN CHARACTERISTICS:
+Mean annual soil temperature - 0 to 7 degrees C
+Mean summer soil temperature - 15 to 21 degrees C
+Depth to lithic contact - 25 to 50 cm to hard granite bedrock
+Mollic epipedon thickness - 18 to 50 cm
+Depth to lithic contact - 18 to 50 cm
+Organic carbon content - 0.6 to 2 percent, decreasing uniformly with increasing depth
+Base saturation - 60 to 100 percent
+Reaction: slightly acid to neutral (pH 6.1 to 7.3) throughout
 
-The A horizon has hue of 2.5Y through 7.5YR, value of 4 or 5 dry, 2 or 3 moist, and chroma of 1 to 3.  It usually has granular structure but it is subangular blocky in some pedons.  It is soft to slightly hard.  It is slightly acid to mildly alkaline (pH 6.1 to 7.8).
+Particle-size control section:
+Clay content - less than 17 percent
+Texture - very gravelly sand or loamy sand, excluding loamy very fine sand
+Rock fragment content - 35 to 80 percent, mostly gravel and cobbles of granite lithology
+Note: These soils have a high proportion of medium and coarse angular sand in the sand fraction. Packing patterns tend to be cubical and horizons of low organic matter content have an unusually great differential in consistence between moist and dry conditions. 
 
-The C horizon has hue of 2.5Y through 7.5YR.  It is slightly acid to mildly alkaline (pH 6.1 to 7.8) with little change with depth.  It is unusually hard for a sandy soil.
+A horizon
+Hue: 2.5Y through 7.5YR
+Value: 4 or 5 dry, 2 or 3 moist
+Chroma: 1 to 3 dry or moist
+Reaction: pH 6.1 to 7.3
 
-COMPETING SERIES:  There are currently no other series in this family.  The Comodore and Falcon series are similar.  Comodore soils have 18 to 35 percent clay in the control section.  Falcon soils have a gravelly sandy loam control section with less than 35 percent coarse fragments.
+C horizon
+Hue: 2.5Y through 7.5YR
+Reaction: pH 6.1 to 7.3 
 
-GEOGRAPHIC SETTING:  Juget soils are on mountain side slopes, hills, and ridges in the foothill and mountain areas.  Slopes range from 6 to about 60 percent.  The soil formed in thin noncalcareous very gravelly coarse-textured materials weathered from granite bedrock.  At the type location, the average annual precipitation ranges from 18 to 24 inches with peak periods of precipitation occurring in the spring and early summer months.  Mean annual air temperature is 41 to 46 degrees F, and mean summer temperature is about 57 degrees F.   The frost-free period is about 80 to 120 days.  Elevation ranges from 6,300 to 8,200 feet.
+COMPETING SERIES: None listed.
 
-GEOGRAPHICALLY ASSOCIATED SOILS:  These are the Allens Park and Peyton soils.  Allens Park soils lack mollic epipedons and have less than 35 percent coarse fragments.  Peyton soils have less than 35 percent coarse fragments and have an argic horizon.
+GEOGRAPHIC SETTING:
+Landform - mountain side slopes, hills and ridges
+Elevation - 1,925 to 2,625
+Slope - 6 to 60 percent
+Parent material - soil formed in thin noncalcareous very gravelly coarse-textured materials weathered from granite bedrock
+Mean annual air temperature - 5 to 8 degrees C
+Mean annual summer air temperature - 13 to 15 degrees C
+Mean annual precipitation - 460 to 610 mm
+Precipitation pattern - peak periods of precipitation occur during the spring and summer months
+Frost-free period - 80 to 120 days
 
-DRAINAGE AND PERMEABILITY:  Somewhat excessively drained; rapid runoff; rapid permeability.
+GEOGRAPHICALLY ASSOCIATED SOILS:None listed.
 
-USE AND VEGETATION:  These soils are used for native pastureland, for limited forestry purposes, and for recreation.  Native vegetation consists of spruce and fir at higher elevations and ponderosa pine, Gambel oak, mountainmahogany, and grasses at lower elevations.
+DRAINAGE AND PERMEABILITY:Somewhat excessively drained; rapid runoff; rapid permeability.
 
-DISTRIBUTION AND EXTENT:  Central Colorado.  The series is of large extent.
+USE AND VEGETATION:These soils are used for native pastureland, for limited forestry purposes, and for recreation. Native vegetation consists of spruce and fir at higher elevations and ponderosa pine, Gambel oak, mountain mahogany, and grasses at lower elevations.
 
-MLRA SOIL SURVEY REGIONAL OFFICE (MO) RESPONSIBLE: Bozeman, Montana
+DISTRIBUTION AND EXTENT:Juget soils are extensive in the foothills along the eastern front of the Rocky Mountains and in other mountainous areas of central Colorado; MLRA 48A and 49.
 
-SERIES ESTABLISHED:  Boulder County Area, Colorado, 1971.
+SOIL SURVEY REGIONAL OFFICE (SSRO) RESPONSIBLE:Bozeman, Montana
 
-REMARKS:  This revision documents a change in type location from Teller County, Colorado, to Boulder County, Colorado.
+SERIES ESTABLISHED:Boulder County Area, Colorado, 1971.
 
+REMARKS: Diagnostic horizons and features recognized in this pedon are:
+Mollic epipedon - 0 to 15 cm (A horizon)
+Lithic contact - 28 cm to hard granite bedrock (R horizon)
+Particle-size control section - 0 to 28 cm (A and C horizons)
+
+Juget soils have a frigid soil temperature regime and an ustic soil moisture regime.
+
+Converted to metric, formatting updated to current standards, and competing series section updated. 12/2020
 
 National Cooperative Soil Survey
 U.S.A.

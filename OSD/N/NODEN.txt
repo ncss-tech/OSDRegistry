@@ -1,62 +1,128 @@
 LOCATION NODEN                  WY+CO
 
 Established Series
-Rev.PSD/MCS
-03/2003
+Rev. PSD-MCS-KLS
+05/2023
 
 NODEN SERIES
 
-The Noden series consists of very deep, well drained soils formed in slope alluvium and residuum weathered from fine-grained sandstone.  They occur on dissected fan aprons, pediments, and terraces.  Slopes are 0 to 15 percent.  The mean annual precipitation is about 14 inches, and the mean annual temperature is about 47 degrees F.
+The Noden series consists of very deep, well drained soils formed in slope alluvium over residuum weathered from fine-grained sandstone and occasionally in slide deposits. They occur on dissected fan aprons, terraces, pediments, and rotational slides. Slopes are 0 to 20 percent. The mean annual precipitation is about 360 mm and the mean annual air temperature is about 8 degrees C.
 
 TAXONOMIC CLASS: Fine-loamy, mixed, superactive, mesic Aridic Argiustolls
 
-TYPICAL PEDON:  Noden fine sandy loam-rangeland.  (Colors are for dry soil unless otherwise stated.)
+TYPICAL PEDON: Noden fine sandy loam-rangeland. (Colors are for dry soil unless otherwise stated.)
 
-      A--0 to 5 inches; dark grayish brown (10YR 4/2) fine sandy loam, very dark grayish brown (10YR 3/2) moist; moderate medium and fine granular structure; slightly hard, very friable, slightly sticky and nonplastic; common fine and very fine roots; neutral (pH 7.2); clear smooth boundary.  (4 to 7 inches thick)
+    A--0 to 13 cm; dark grayish brown (10YR 4/2) fine sandy loam, very dark grayish brown (10YR 3/2) moist; moderate medium and fine granular structure; slightly hard, very friable, slightly sticky and nonplastic; common fine and very fine roots; neutral (pH 7.2); clear smooth boundary. (10 to 18 cm thick)
 
-      BA--5 to 9 inches; dark grayish brown (10YR 4/2) sandy loam, very dark grayish brown (10YR 3/3) moist; moderate medium and fine subangular blocky structure; slightly hard, very friable, slightly sticky and nonplastic; common fine and very fine roots; neutral (pH 7.3); clear smooth boundary.  (3 to 6 inches thick)
+    BA--13 to 23 cm; dark grayish brown (10YR 4/2) sandy loam, dark brown (10YR 3/3) moist; moderate medium and fine subangular blocky structure; slightly hard, very friable, slightly sticky and nonplastic; common fine and very fine roots; neutral (pH 7.3); clear smooth boundary. (0 to 15 cm thick) 
 
-      Bt--9 to 16 inches; brown (10YR 5/3) sandy clay loam, dark brown (10YR 4/3) moist; strong medium and fine prismatic structure parting to strong medium and fine subangular blocky; very hard, firm, sticky and slightly plastic; common fine roots along ped faces; many prominent clay films on faces of peds; neutral (pH 7.2); clear smooth boundary.  (6 to 15 inches thick)
+    Bt--23 to 41 cm; brown (10YR 5/3) sandy clay loam, brown (10YR 4/3) moist; strong medium and fine prismatic structure parting to strong medium and fine subangular blocky; very hard, firm, sticky and slightly plastic; common fine roots along ped faces; many prominent clay films on faces of peds; neutral (pH 7.2); clear smooth boundary. (15 to 42 cm thick)
 
-      BC--16 to 20 inches; pale brown (10YR 6/3) sandy loam, dark brown (10YR 4/3) moist; moderate medium and fine subangular blocky structure; slightly hard, very friable, slightly sticky and nonplastic; mildly alkaline (pH 7.5); gradual wavy boundary.  (3 to 8 inches thick)
+    BC--41 to 51 cm; pale brown (10YR 6/3) sandy loam, brown (10YR 4/3) moist; moderate medium and fine subangular blocky structure; slightly hard, very friable, slightly sticky and nonplastic; slightly alkaline (pH 7.5); gradual wavy boundary. (8 to 25 cm thick)
 
-      C--20 to 60 inches; pale brown (10YR 6/3) fine sandy loam, brown (10YR 5/3) moist; massive; slightly hard, very friable, slightly sticky and nonplastic; mildly alkaline (pH 7.6).
+    C--51 to 152 cm; pale brown (10YR 6/3) fine sandy loam, brown (10YR 5/3) moist; massive; slightly hard, very friable, slightly sticky and nonplastic; slightly alkaline (pH 7.6).
 
-TYPE LOCATION:  Goshen County, Wyoming; 1,450 feet west and 2,640 feet south of the NE corner of sec. 5, T. 30 N., R. 62 W.
+TYPE LOCATION: Goshen County, Wyoming; 440 meters west and 805 meters south of the NE corner of sec. 5, T. 30 N., R. 62 W.
 
-RANGE IN CHARACTERISTICS:  The mollic epipedon is 7 to 15 inches thick.  Depth to bedrock is typically greater than 60 inches but ranges down to 40 inches on upper pediment slopes.  The mean annual soil temperature ranges from 47 to 54 degrees F.  Coarse fragments are typically absent but range from 0 to 10 percent angular gravel.  These soils are noncalcareous throughout.
+RANGE IN CHARACTERISTICS: 
+Soil moisture - usually dry, but moist for more than 40 cumulative days between May 15 and July 15 in most years
+Mean annual soil temperature - 8 to 12 degrees C
+Mollic epipedon thickness - 18 to 40 cm
+Depth to bedrock - typically more than 152 cm, but can range to 100 cm on upper pediment slopes 
+These soils are noncalcareous throughout.
 
-The A horizon has hue of 10YR or 2.5Y, value of 3 through 5 dry, 2 or 3 moist, and chroma of 2 or 3.  It is slightly acid through mildly alkaline.
+Particle-size control section:
+Clay content - 18 to 35 percent
+Sand content - more than 15 but less than 35 percent fine or coarser sand
+Rock fragment content - typically absent, but may have 0 to 10 percent angular gravel
 
-The Bt horizon has hue of 2.5Y through 7.5YR, value of 4 through 6  dry, 2 through 4 moist, and chroma of 2 through 4.  It is sandy clay loam or clay loam with 18 to 35 percent clay and more than 15 but less than 35 percent fine or coarser sand.  It is slightly acid through mildly alkaline.
+A horizon
+Hue: 10YR or 2.5Y
+Value: 3 through 5 dry, 2 or 3 moist
+Texture: fine sandy loam and loam
+Chroma: 2 or 3
+Reaction: pH 6.1 to 7.8
 
-The C horizon has hue of 10YR or 2.5Y, value of 4 through 6 dry, 4 or 5 moist, and chroma of 2 through 4.  It is sandy loam, fine sandy loam, very fine sandy loam or loam.  It is neutral or mildly alkaline.
+Bt horizon
+Hue: 2.5Y through 7.5YR
+Value: 4 through 6 dry, 2 through 4 moist
+Chroma: 2 through 4
+Texture: sandy clay loam or clay loam
+Reaction: pH 6.1 to 7.8
 
-COMPETING SERIES:  These are the Ascalon, Asparas, Bresser, Capulin, Cedak, Chacuaco(T), Critchell, Dagflat, Datil, Featherlegs, Hargreave, Harlan, Hemingford, Hirac, Kirtley, Lavate, Lorac, Moskee, Palmer Canyon, Recluse, Rosebud, Ryegate, Satanta, Shalona, Sugardee, Wages, and Wolf series.  The Ascalon, Asparas, Capulin, Datil, Featherlegs, Harlan, Moskee, Palmer Canyon, Recluse, Satanta, Shalona, Sugardee, Wages, and Wolf series have continuous horizons of carbonate accumulation.  The Bresser and Lavate soils have more than 35 percent fine or coarser sand in the Bt horizon. The Cedak, Chacuaco, Dagflat, Hargreave, Hemingford, Hirac, Kirtley, Rosebud, and Ryegate soils have bedrock at 20 to 40 inches.  Critchell and Lorac soils contain 10 to 35 percent coarse fragments in the Bt horizon.
+BC horizon
+Hue: 2.5Y through 7.5YR
+Value: 4 through 6 dry, 2 through 4 moist
+Chroma: 2 through 4
+Texture: clay loam, loam and sandy loam
+Reaction: pH 6.1 to 7.8
 
-GEOGRAPHIC SETTING:  Noden soils are on dissected fan aprons, pediments, and terraces.  They formed in slope alluvium and residuum derived from noncalcareous fine-grained sandstone.  Slopes are 0 to 15 percent.  Elevations range from 3,500 to 5,600 feet in Wyoming and up to 7,000 feet in Colorado.  The mean annual precipitation is about 14 inches and ranges from 12 to 19 inches of which about half falls as snow or rain in April, May, and early June.  The mean annual temperature is about 47 degrees F. and ranges from 45 to 49 degrees F.  The frost-free season is estimated to range from 110 to 135 days.
+C horizon
+Hue: 10YR or 2.5Y
+Value: 4 through 6 dry, 4 or 5 moist
+Chroma: 2 through 4
+Texture: sandy loam, fine sandy loam, loam, or clay loam. 
+Reaction: pH 6.6 to 7.8
 
-GEOGRAPHICALLY ASSOCIATED SOILS:  These are the competing Ascalon, Hargreave, and Moskee soils and the Trelona and Treon soils.  Trelona and Treon soils are shallow to weakly consolidated bedrock.
+COMPETING SERIES: 
+Ascalon (CO) - have an accumulation of secondary calcium carbonate
+Belfon (KS) - have an accumulation of secondary calcium carbonate
+Bresser (CO) - have more than 35 percent fine or coarser sand in the Bt horizon
+Cedak (WY) - are moderately deep to paralithic contact
+Charkiln (NV) - thickness of mollic epipedon is more than 36 cm
+Corralgulch (CO) - have an accumulation of secondary calcium carbonate 
+Critchell (CO) - contain 10 to 35 percent rock fragments in the Bt horizon
+Dagflat (UT) - are moderately deep to lithic contact
+Datil (NM) - have an accumulation of secondary calcium carbonate 
+Featherlegs (NM) - have an accumulation of secondary calcium carbonate 
+Forgan (OK) - have a lithologic discontinuity; formed in eolian sediments
+Hargreave (WY) - are moderately deep to paralithic contact 
+Harlan (WY) - have an accumulation of secondary calcium carbonate; have hue redder than 7.5YR
+Hemingford (NE) - are deep to paralithic contact
+Hiarc (NM) - are moderately deep to lithic contact; formed in volcanic sediments
+Kirtley (WY) - are moderately deep to paralithic contact
+Lavate (UT) - have an accumulation of secondary calcium carbonate 
+Loarc (NM) - contain 10 to 35 percent rock fragments in the Bt horizon
+Moskee (WY) - have an accumulation of secondary calcium carbonate 
+Palmer Canyon (WY) - have an accumulation of secondary calcium carbonate 
+Recluse (WY) - have an accumulation of secondary calcium carbonate
+Satanta (KS) - have an accumulation of secondary calcium carbonate
+Shalona (CO) - have an accumulation of secondary calcium carbonate
+Sitcan (CO) - have an accumulation of secondary calcium carbonate
+Sugardee (WY) - have an accumulation of secondary calcium carbonate
+Wages (CO) - have an accumulation of secondary calcium carbonate
+Wolf (WY) - have an accumulation of secondary calcium carbonate
 
-DRAINAGE AND PERMEABILITY:  Well drained; slow to medium runoff; moderate permeability.
+GEOGRAPHIC SETTING: 
+Landscape - dissected fan aprons, terraces, pediments and rotational slides
+Elevation - 1,050 to 1,700 meters in Wyoming and up to 2,125 meters in Colorado
+Slope - 0 to 20 percent
+Parent material - slope alluvium over residuum derived from noncalcareous fine-grained sandstone and slide deposits where slides occur
+Mean annual air temperature - 7 to 9 degrees C
+Mean annual precipitation - 305 to 480 mm
+Precipitation pattern - about half the annual precipitation falls as snow or rain in April, May, and early June
+Frost-free period - 110 to 135 days
 
-USE AND VEGETATION:  Rangeland and wildlife habitat and limited cropland.  Native vegetation consists of western wheatgrass, blue grama, needleandthread, and big sagebrush.
+GEOGRAPHICALLY ASSOCIATED SOILS: None listed.
 
-DISTRIBUTION AND EXTENT:  Southeastern and north central Wyoming and Colorado.  The series is of moderate extent.
+DRAINAGE AND PERMEABILITY: Well drained; slow to medium runoff; moderate permeability.
 
-MLRA SOIL SURVEY REGIONAL OFFICE (MO) RESPONSIBLE: Bozeman, Montana
+USE AND VEGETATION: Noden soils are used for rangeland, wildlife habitat and limited cropland. Native vegetation consists of western wheatgrass, blue grama, needleandthread, and big sagebrush.
 
-SERIES ESTABLISHED:  Goshen County (Northern Part), Wyoming; 1974.
+DISTRIBUTION AND EXTENT: Noden soils are moderately extensive in southeastern and north central Wyoming and Colorado; MLRAs 49, 58B, 64 and 67A.
 
-REMARKS:  Diagnostic horizons and features recognized in this pedon are:
+SOIL SURVEY REGIONAL OFFICE (SSRO) RESPONSIBLE: Bozeman, Montana
 
-1. Mollic epipedon - 0 to 9 inches (A,BA)
+SERIES ESTABLISHED: Goshen County (Northern Part), Wyoming; 1974.
 
-2. Argillic horizon - 9 to 16 inches (Bt)
+REMARKS: Diagnostic horizons and features recognized in this pedon are:
+Mollic epipedon - 0 to 23 cm (A and BA horizons)
+Argillic horizon - 23 to 41 cm (Bt horizon)
+Particle-size control section - 23 to 41 cm (Bt horizon)
 
-3. Aridic subgroup - Aridic moisture regime bordering on Ustic. Usually dry,but moist in some or all parts of the moisture control section for more than 40 cumulative days between May 15 and July 15 in most years.
+Noden soils are in a mesic soil temperature regime and an ustic soil moisture regime bordering on aridic. 
 
-The superactive cation exchange activity class was added in 03/2003 to the taxonomic classification by the National Soil Survey Center on request of the Lakewood MLRA office, without review of the soil series property data. The remainder of this document has not been updated.
+Converted to metric, formatting updated to current standards, and competing series section updated. 05/2020
 
 National Cooperative Soil Survey
 U.S.A.

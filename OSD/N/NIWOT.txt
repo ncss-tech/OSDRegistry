@@ -1,48 +1,94 @@
-LOCATION NIWOT                  CO+NV
+LOCATION NIWOT                  CO
 
 Established Series
-Rev. GB
-03/1999
+Rev. GB-KLS
+05/2023
 
 NIWOT SERIES
 
-The Niwot series consists of deep, somewhat poorly to poorly drained soils formed in mixed alluvial parent materials overlying beds of sand and gravel.  Niwot soils are on flood plains or low terraces and have slopes of 0 to 6 percent.  Mean annual precipitation is about 15 inches and mean annual temperature is about 48 degrees F.
+The Niwot series consists of deep, somewhat poorly to poorly drained soils formed in mixed alluvial parent materials overlying beds of sand and gravel. Niwot soils are on flood plains or low terraces and have slopes of 0 to 6 percent. Mean annual precipitation is about 380 cm and mean annual temperature is about 9 degrees C.
 
 TAXONOMIC CLASS: Fine-loamy over sandy or sandy-skeletal, mixed, superactive, mesic Typic Endoaquolls
 
-TYPICAL PEDON:  Niwot loam - grassland.  (Colors are for dry soil unless otherwise noted.)
+TYPICAL PEDON: Niwot loam - grassland.  (Colors are for dry soil unless otherwise noted.)
 
-    A1--0 to 6 inches; dark grayish brown (10YR 4/2) loam, very dark brown (10YR 2/2) moist; moderate fine granular structure; soft, very friable; mildly alkaline (pH 7.4); clear smooth boundary.  (4 to 8 inches thick)
+    A1--0 to 15 cm; dark grayish brown (10YR 4/2) loam, very dark brown (10YR 2/2) moist; moderate fine granular structure; soft, very friable; slightly alkaline (pH 7.4); clear smooth boundary.  (10 to 20 cm thick)
 
-    A2--6 to 14 inches; grayish brown (10YR 5/2) loam, very dark grayish brown (10YR 3/2) moist; common medium distinct strong brown (7.5YR 5/6) mottles; weak coarse subangular blocky structure parting to moderate fine granular; soft, very friable; mildly alkaline (pH 7.4); gradual wavy boundary.  (6 to 16 inches thick)
+    A2--15 to 36 cm; grayish brown (10YR 5/2) loam, very dark grayish brown (10YR 3/2) moist; weak coarse subangular blocky structure parting to moderate fine granular; soft, very friable; common medium distinct strong brown (7.5YR 5/6) redoximorphic concentrations; slightly alkaline (pH 7.4); gradual wavy boundary. (15 to 41 cm thick)
 
-    2Cg--14 to 60 inches; pale brown (10YR 6/3) gravelly sand, brown (10YR 5/3) moist; single grained; loose; many large prominent mottles of strong brown (7.5YR 5/6) moist; neutral (pH 7.2).
+    2Cg--36 to 152 cm; pale brown (10YR 6/3) gravelly sand, brown (10YR 5/3) moist; single grain; loose; many large prominent strong brown (7.5YR 5/6) redoximorphic concentrations; neutral (pH 7.2).
 
-TYPE LOCATION:  Boulder County, Colorado; 2,210 feet south and 100 feet west of the of the center of Sec. 10, T. 1 N., R. 69 W.
+TYPE LOCATION: Boulder County, Colorado; 674 meters south and 30 meters west of the of the center of Sec. 10, T. 1 N., R. 69 W.; Erie USGS quad; lat. 40 degrees, 3 minutes, 33 seconds N., 105 degrees, 6 minutes, 11 seconds W., NAD83
 
-RANGE IN CHARACTERISTICS:  These soils have mollic epipedons ranging in thickness from 7 to 20 inches.  Depth to the contrasting sand or sand and gravel substratum ranges from 12 to 20 inches.  Content of organic carbon in the mollic epipedon ranges from about .8 to 3 percent and decreases uniformly with depth.  Content of salt more soluble than gypsum is normally less than 2 percent and does not exceed 4 percent above 40 inches.  The soil is 90 to 100 percent base saturated.  The upper part of the control section is typically loam or clay loam but clay may range from 18 to 35 percent, silt from 20 to 55 percent, and sand from 20 to 50 percent with more than 15 percent but less than 35 percent fine sand or coarser.  It contains 0 to 30 percent coarse fragments.  The soils have fluctuating high water tables and are saturated at some season in most years.  Mean annual soil temperature ranges from 47 to 58 degrees F, and mean summer soil temperature ranges from 59 to 79 degrees F.
+RANGE IN CHARACTERISTICS: 
+Soil moisture - these soils have fluctuating high water tables and are saturated in some months of most years
+Mean annual soil temperature - 8 to 14 degrees C
+Mean summer soil temperature - 15 to 26 degrees C
 
-The A horizon has hue of 5Y through 10YR, value of 4 or 5, 2 or 3 moist, and chroma of 1 or 2.  It is slightly acid to mildly alkaline.  This horizon usually has fine granular structure but has weak subangular blocky structure in some pedons.  It is soft to slightly hard.
+Mollic epipedon thickness - 18 to 50 cm
+Depth to contrasting sand or sand and gravel substratum - 30 to 50 cm
+Organic carbon content in the mollic epipedon - 0.8 to 3 percent, decreasing uniformly with depth
+Salt content more soluble than gypsum - normally less than 2 percent and does not exceed 4 percent above 100 cm
+Base saturation - 90 to 100 percent
 
-The 2Cg horizon has hue of 5Y through 10YR and contains many large prominent mottles.  It is slightly acid to mildly alkaline.  There is little change in pH with depth.  Some pedons have a clayey substratum below depths of 40 inches.
+Particle-size control section:
+Texture - loam or clay loam over sand or gravelly sand
+Clay content - 18 to 35 percent
+Sand content - 20 to 50 percent, with more than 15 percent but less than 35 percent fine sand or coarser
 
-COMPETING SERIES:  These are the Biscay, Marshan, and Will series.  Biscay, Marshan, and Will soils have contrasting texture at depths of 20 inches or more.
+A horizon
+Hue: 5Y through 10YR
+Value: 4 or 5 dry, 2 or 3 moist
+Chroma: 1 or 2 dry or moist
+Texture: loam or clay loam
+Rock fragment content: 0 to 15 percent rounded gravel and cobbles
+Reaction: pH 6.1 to 7.4
 
-GEOGRAPHIC SETTING:  The Niwot soils are on flood plains or low terraces.  Slope gradients range from 0 to 6 percent.  The soils formed in mixed alluvial parent material overlying beds of sand and gravel.  The average annual precipitation is 12 to 18 inches.  Mean annual temperature is about 48 degrees F, and mean summer temperature is about 68 degrees F.  Elevation is 5,240 feet at the type location.  These soils have fluctuating water tables that lie close to the surface in some months of most every year.  Frost-free season is 100 to 150 days.
+2Cg horizon
+Hue: 5Y through 10YR and contains many large prominent mottles
+Value: 5 or 6 dry, 4 or 5 moist
+Chroma: 3 or 4 dry or moist
+Reaction: pH 6.1 to 7.4, little change in pH with depth
+Texture: loamy sand or sand
+Rock fragment content: 10 to 50 percent rounded gravel and cobbles
+Note: some pedons have a clayey substratum below depths of 100 cm
 
-GEOGRAPHICALLY ASSOCIATED SOILS:  These are the Loveland and Calkins soils. Loveland soils are calcareous and have sand and gravel substratum below 20 inches.  Calkins soils have mollic epipedons more than 24 inches thick and lack sandy-skeletal substrata.
+COMPETING SERIES:
+Biscay (MN) - depth to contrasting textures is more than 50 cm
+Marshan (MN) - depth to contrasting textures is more than 50 cm
+Mudhen (IL) - depth to contrasting textures is more than 50 cm; are deep to paralithic contact 
+Will (IL) - depth to contrasting textures is more than 50 cm
+
+GEOGRAPHIC SETTING:  
+Landform - flood plains or low terraces
+Elevation - 1,500 to 2,150 meters
+Slope - 0 to 6 percent
+Parent material - mixed alluvial parent material overlying beds of sand and gravel
+Mean annual air temperature - 7 to 10 degrees C
+Mean annual precipitation - 305 to 460 mm
+Precipitation pattern - peaks periods of precipitation occur in the spring and summer months
+Frost-free period - 100 to 150 days
+  
+GEOGRAPHICALLY ASSOCIATED SOILS:  None listed.
 
 DRAINAGE AND PERMEABILITY:  Somewhat poorly to poorly drained; runoff is slow; permeability is medium to rapid above the water table.
 
 USE AND VEGETATION:  Used as native pastureland or irrigated hay meadow.   Principal native vegetation is bromegrass, orchard grass, wheatgrass, junegrass, and water-tolerant grasses and sedges.
 
-DISTRIBUTION AND EXTENT:  Distribution is limited to the central parts of Colorado bordering the front range and a few areas in Nevada.  The series is of small extent.
+DISTRIBUTION AND EXTENT: Niwot soils are of small extent in the foothills along the eastern front of the Rocky Mountains in central Colorado; MLRA 49.
 
-MLRA SOIL SURVEY REGIONAL OFFICE (MO) RESPONSIBLE: Bozeman, Montana
+SOIL SURVEY REGIONAL OFFICE (SSRO) RESPONSIBLE: Bozeman, Montana
 
 SERIES ESTABLISHED:  Boulder Area, Colorado, 1971.
 
-REMARKS:  Last updated by the state 4/80.
+REMARKS: Diagnostic horizons and features recognized in this pedon are:
+Mollic horizon - 0 to 36 cm (A1 and A2 horizons)
+Contrasting texture change - 36 to 152 cm (2Cg horizon) 
+Particle-size control section - 25 to 100 cm (part of A2 and 2Cg horizons) 
+
+Niwot soils have a mesic soil temperature regime and an ustic soil moisture regime bordering on aridic. 
+
+Converted to metric, formatting updated to current standards, and competing series section updated. 05/2020
 
 National Cooperative Soil Survey
 U.S.A.
