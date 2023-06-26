@@ -61,7 +61,7 @@ Value--2.5 to 5
 Chroma--0 to 3
 Texture--Loamy fine sand or coarser sometimes with mucky analogs
 
-Cg horizon-
+Cg or Cseg (where present) horizon-
 Hue--2.5Y to 5Y or neutral
 Value--3 to 6
 Chroma--0 to 1
@@ -84,7 +84,7 @@ Mean annual precipitation--1023 to 1320 millimeters (40 to 52 inches)
 Mean annual air temperature--4 to 13 degrees C (39.2 to 55.4 degrees F)
 Water salinity range--18 to 30 parts per thousand
 Frost-free period--350 to 365 days
- 
+
 GEOGRAPHICALLY ASSOCIATED SOILS: These are the Anguilla, Marshneck, Massapog, Napatree, Pishagqua, and Rhodesfolly soils.  
 
 Anguilla soils--are on mainland cove landforms and often have rock fragments greater than 35 percent in substratum horizons
