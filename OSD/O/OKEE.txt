@@ -2,7 +2,7 @@ LOCATION OKEE                   WI+MI
 
 Established Series
 Rev.  HFG-AAC
-01/2011
+07/2023
 
 OKEE SERIES
 
@@ -12,17 +12,17 @@ TAXONOMIC CLASS: Loamy, mixed, active, mesic Arenic Hapludalfs
 
 TYPICAL PEDON:  Okee loamy fine sand - on a 7 percent slope in a previously cultivated field now planted to pine trees at an elevation of about 258 meters (845 feet) above mean sea level.  (Colors are for moist soil unless otherwise stated.)
 
-   Ap--0 to 23 cm (0 to 9 inches); dark grayish brown (10YR 4/2) loamy fine sand, grayish brown (10YR 5/2) dry; weak fine granular structure; very friable;  common roots; moderately acid; abrupt smooth boundary.  [15 to 25 cm (6 to 10 inches) thick]
+   Ap--0 to 23 cm (0 to 9 inches); dark grayish brown (10YR 4/2) loamy fine sand, grayish brown (10YR 5/2) dry; weak fine granular structure; very friable; common roots; moderately acid; abrupt smooth boundary.  [15 to 25 cm (6 to 10 inches) thick]
 
    Bw--23 to 64 cm (9 to 25 inches); yellowish brown (10YR 5/4) loamy fine sand; weak fine subangular blocky structure; very friable; few roots; moderately acid; abrupt smooth boundary. [48 to 91 cm (19 to 36 inches) thick]
 
-   2Bt1--64 to 78 cm (25 to 31 inches); brown (7.5YR 4/4) sandy loam; weak fine and medium subangular blocky structure; friable; few roots; common pores; common clay films on faces of peds and on gravel; about 5 percent gravel;  moderately acid; clear wavy boundary.  
+   2Bt1--64 to 78 cm (25 to 31 inches); brown (7.5YR 4/4) sandy loam; weak fine and medium subangular blocky structure; friable; few roots; common pores; common clay films on faces of peds and on gravel; about 5 percent gravel; moderately acid; clear wavy boundary.  
 
-   2Bt2--78 to 114 cm (31 to 45 inches); brown (7.5YR 4/4 ) sandy loam; weak fine subangular blocky structure; friable; few roots; common pores; common clay films on faces of peds and on gravel; about 5 percent gravel;  slightly acid; abrupt wavy boundary. [Combined thickness of the 2Bt horizon ranges from 25 to 51 cm (10 to 20 inches).]
+   2Bt2--78 to 114 cm (31 to 45 inches); brown (7.5YR 4/4) sandy loam; weak fine subangular blocky structure; friable; few roots; common pores; common clay films on faces of peds and on gravel; about 5 percent gravel; slightly acid; abrupt wavy boundary. [Combined thickness of the 2Bt horizon ranges from 25 to 51 cm (10 to 20 inches).]
 
    2C--114 to 152 cm (45 to 60 inches); brown (7.5YR 5/4) gravelly sandy loam; massive; friable; common pores; about 15 percent gravel; strongly effervescent; moderately alkaline.
 
-TYPE LOCATION:  Green Lake County, Wisconsin; about 1.5 miles east of Princeton ; 2540 feet north and 1920 feet east of the northwest corner of sec. 26 , T.  16 N., R. 11 E. USGS Princeton West Wis. Quad. Latitude ? 43 degrees 50 minutes 23 seconds N., Longitude ? 89 degrees 09 minutes 38 seconds W. NAD 27.
+TYPE LOCATION:  Green Lake County, Wisconsin; about 1.5 miles east of Princeton; 2540 feet north and 1920 feet east of the northwest corner of sec. 26, T.  16 N., R. 11 E. USGS Princeton West Wis. Quad. Latitude 43 degrees 50 minutes 23 seconds N., Longitude 89 degrees 09 minutes 38 seconds W. NAD 27.
 
 RANGE IN CHARACTERISTICS:  
 Depth to the base soil development: 76 to more than 152 cm (30 to more than 60 inches)
@@ -52,9 +52,9 @@ Texture: loamy fine sand, loamy sand or sand
 
 2Bt horizon:
 Hue: 5YR or 7.5YR
-Value: 4 to  6
+Value: 4 to 6
 Chroma: 4 to 8
-Texture: sandy clay loam or sandy  loam but ranges to loamy sand in the lower part in some pedons
+Texture: sandy clay loam or sandy loam but ranges to loamy sand in the lower part in some pedons
 
 2BC horizon [where present below a depth of 102 cm (40 inches)]:
 Hue: 7.5YR or 10YR
@@ -72,13 +72,13 @@ In some pedons, texture in the 2C horizon is sand or the gravelly or cobbly anal
 
 COMPETING SERIES:  These are the Delton, Metea, Ormas, and Prissel series. Delton soils are underlain at depths between 51 to 102 cm (20 and 40 inches) by clayey deposits.  Metea soils have more than 17 percent clay in the argillic horizon. Ormas soils have more than 15 percent rock fragments in the 2Bt horizon. Prissel soils do not have carbonates within the series control section. 
 
-GEOGRAPHIC SETTING:  Okee soils are on ground and end moraines and drumlins. Slopes range from 1 to 25 percent.  These soils formed in a sandy outwash or eolian mantle and in the underlying till.  Mean annual precipitation ranges from 711 to 813 mm (28 to 32 inches). Mean annual air temperature  ranges from 7.2 to 11.1 degrees  C (45 to 52 degrees F).  
+GEOGRAPHIC SETTING:  Okee soils are on ground and end moraines and drumlins. Slopes range from 1 to 25 percent.  These soils formed in a sandy outwash or eolian mantle and in the underlying till.  Mean annual precipitation ranges from 711 to 813 mm (28 to 32 inches). Mean annual air temperature ranges from 7.2 to 11.1 degrees C (45 to 52 degrees F).  
 
 GEOGRAPHICALLY ASSOCIATED SOILS:  These are the Chelsea, Kidder, Mecan, Plainfield, Puchyan, and Wyocena soils.  Puchyan soils occupy slightly lower positions in the landscape.  Chelsea, Kidder, Mecan, Plainfield, and Wyocena soils are on similar landscape positions.  Kidder soils do not have sandy textures within the solum.  Chelsea and Plainfield soils are in a sandy family and do not have glacial till in their sola.  Wyocena soils have thinner sand or loamy sand overlying the argillic horizon.
 
 DRAINAGE AND SATURATED HYDRAULIC CONDUCTIVITY:  Well drained and somewhat excessively drained.  The potential for surface runoff ranges from negligible to medium.  Saturated hydraulic conductivity is high or very high (42.34 to 141.14 micrometers per second) in the sandy mantle and moderately high to high (4.23 to 42.34 micrometers per second) in the till subsoil and high to very high (14.11 to 141.14 micrometers per second) in the substratum. Permeability is rapid in the sandy mantle and moderate or moderately rapid in the till subsoil, and moderately rapid or rapid in the substratum.
 
-USE AND VEGETATION:  Many areas of this soil are used for  pastureland and woodland. Some areas are used for cropland.  Common crops are corn, small grain, and hay.  Native vegetation is predominantly oak forest.
+USE AND VEGETATION:  Many areas of this soil are used for pastureland and woodland. Some areas are used for cropland.  Common crops are corn, small grain, and hay.  Native vegetation is predominantly oak forest.
 
 DISTRIBUTION AND EXTENT:  MLRAs 89, 95B, 97, 98, and 111B in south-central Wisconsin and southwestern Michigan.  These soils are of moderate extent. 
 
@@ -86,11 +86,11 @@ MLRA SOIL SURVEY REGIONAL OFFICE (MO) RESPONSIBLE: Indianapolis, Indiana
 
 SERIES ESTABLISHED:  Columbia County, Wisconsin, 1972.
 
-REMARKS:  Diagnostic horizons and features recognized in this pedon are:  ochric epipedon -  0 to 61 cm (0 to 24 inches) (A,  Bw); argillic horizon - 61 to 86 cm (24 to 34 inches) (2Bt1, 2Bt2); arenic feature - sandy particle-size class throughout a layer extending from the mineral soil surface to the top of the argillic horizon at a depth of 50 cm or more.  
+REMARKS:  Diagnostic horizons and features recognized in this pedon are:  ochric epipedon - 0 to 61 cm (0 to 24 inches) (A, Bw); argillic horizon - 61 to 86 cm (24 to 34 inches) (2Bt1, 2Bt2); arenic feature - sandy particle-size class throughout a layer extending from the mineral soil surface to the top of the argillic horizon at a depth of 50 cm or more.  
 
 12/05 - A new typical pedon is used in this revision. The former typical pedon was described in a D slope map unit of Okee. The D slope Okee map units were later combined with D slope Wyocena loamy sand map units during correlation (probably because of small acreage). Therefore, the former Okee typical pedon is located in a polygon of D slope Wyocena loamy sand.
 
-12/05 -The central concept of Okee in Columbia and Green Lake Counties is sandy outwash or eolian mantle over sandy clay loam or sandy loam 2Bt over sandy loam till 2C. The Green Lake TUD allows loamy sand 2C but the TP for the TUD is sandy loam and Columbia Co. has 1 field description over loamy sand till. The Adams Co. TUD says Okee soils ?formed in sandy and loamy deposits over sandy glacial till. The Waushara Co. TUD says Okee soils formed in sandy and loamy glacial till. Need field investigation to determine if there is a need for 2 series. Can Okee soils in Columbia and Green Lake Co. be separated from those in Adams and Waushara Co. based on texture of the till (sandy vs loamy).  Is there some difference in landform or glacial advance?
+12/05 -The central concept of Okee in Columbia and Green Lake Counties is sandy outwash or eolian mantle over sandy clay loam or sandy loam 2Bt over sandy loam till 2C. The Green Lake TUD allows loamy sand 2C but the TP for the TUD is sandy loam and Columbia Co. has 1 field description over loamy sand till. The Adams Co. TUD says Okee soils formed in sandy and loamy deposits over sandy glacial till. The Waushara Co. TUD says Okee soils formed in sandy and loamy glacial till. Need field investigation to determine if there is a need for 2 series. Can Okee soils in Columbia and Green Lake Co. be separated from those in Adams and Waushara Co. based on texture of the till (sandy vs loamy).  Is there some difference in landform or glacial advance?
 
 National Cooperative Soil Survey
 U.S.A.
