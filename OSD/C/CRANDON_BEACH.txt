@@ -1,7 +1,7 @@
 LOCATION CRANDON BEACH          FL
 
 Tentative Series
-Rev. CAP
+Rev. CAP-MVF-AMS
 07/2023
 
 CRANDON BEACH SERIES
@@ -15,7 +15,7 @@ Index Surface Runoff: Negligible to low
 Parent Material: Sandy marine sediments 
 Slope: 0 to 1 percent
 Elevation: 0.3 to 1.2 meters (1.0 to 4 feet) above mean sea level.  
-Mean Annual Air Temperature: 26 degrees C. (78 degrees F.)
+Mean Annual Air Temperature: 26 degrees C (78 degrees F.)
 Mean Annual Precipitation: 1651 centimeters (65 inches)
 
 TAXONOMIC CLASS: Siliceous, isohyperthermic Typic Psammaquents
@@ -26,9 +26,9 @@ TYPICAL PEDON:  Crandon Beach fine sand is in a mangrove tidal marsh. (Colors ar
 
       Akn--15 to 30 centimeters (6 to 12 inches); dark gray (10YR 4/1) fine sand; single grain; loose, loose; nonsticky, nonplastic; many fine roots throughout; about 10 percent shell fragments throughout; strongly effervescent; moderately alkaline (pH 8.2); clear wavy boundary. [0 to 18 centimeters (0 to 7 inches) thick]
 
-      Ckn1--30 to 84 centimeters (12 to 33 inches); grayish brown (10YR 5/2) fine sand; single grain; loose, loose; nonsticky, nonplastic; many fine roots throughout; about 10 percent shell fragments throughout; strongly effervescent; moderately alkaline (pH 8.2); gradual wavy boundary. [25 to 91 centimeters (10 to 36 inches) thick]
+      Ckn1--30 to 84 centimeters (12 to 33 inches); grayish brown (10YR 5/2) fine sand; single grain; loose; nonsticky, nonplastic; many fine roots throughout; about 10 percent shell fragments throughout; strongly effervescent; moderately alkaline (pH 8.2); gradual wavy boundary. [25 to 91 centimeters (10 to 36 inches) thick]
 
-      Ckn2--84 to 203 centimeters (33 to 80 inches); light gray (10YR 7/1) fine sand; single grain; loose, loose; nonsticky, nonplastic; about 10 percent shell fragments throughout; strongly effervescent; moderately alkaline (pH 8.2). [76 to 127 centimeters (30 to 50 inches) thick]
+      Ckn2--84 to 203 centimeters (33 to 80 inches); light gray (10YR 7/1) fine sand; single grain; loose; nonsticky, nonplastic; about 10 percent shell fragments throughout; strongly effervescent; moderately alkaline (pH 8.2). [76 to 127 centimeters (30 to 50 inches) thick]
 
 TYPE LOCATION:  Miami-Dade County, Florida; about 0.25 miles north of the intersection of Crandon Blvd and Harbor Drive; about 1,900 feet west and 1,800 feet south of the northeast corner of Sec. 32, T. 54 S., R. 42 E.; latitude 25 degrees 42 minutes 8.7 seconds N. longitude 80 degrees 9 minutes 46.13 seconds W.; Datum WSG84; USGS Key Biscayne, FL quadrangle.
 
@@ -103,11 +103,10 @@ SOIL SURVEY REGIONAL OFFICE (SSRO) RESPONSIBLE:  Auburn, Alabama.
 SERIES ESTABLISHED:  Miami-Dade County, Florida; 2019.
 
 REMARKS: Diagnostic horizons and features in this pedon include:
- 
-1.	Particle-size control section: 0 to 203 centimeters (0 to 80 inches)
-2.	Histic epipedon - 0 to 15 centimeters (0 to 6 inches) (Oa horizon)
-3.	Aquic conditions - Endosaturation - 0 to 203 centimeters (0 to 80 inches)
-4.	Sulfidic materials to meet classification.
+
+1.	Histic epipedon - 0 to 15 centimeters (0 to 6 inches) (Oa horizon)
+2.	Aquic conditions - Endosaturation - 0 to 203 centimeters (0 to 80 inches)
+3.	Sulfidic materials to meet classification.
 
 This series was formerly mapped as Kesson in the hyperthermic temperature regime.
 

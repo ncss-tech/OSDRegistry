@@ -1,7 +1,7 @@
 LOCATION LOSTMANS               FL
 
 Tentative Series
-Rev. CAP
+Rev. CAP-MVF-AMS
 07/2023
 
 LOSTMANS SERIES
@@ -15,20 +15,20 @@ Index Surface Runoff: Negligible to very low
 Parent Material: Calcareous loamy marine sediments over limestone
 Slope: 0 to 2 percent
 Elevation: 0 to 20 feet above mean sea level.  
-Mean Annual Air Temperature: 25 degrees C. (77 degrees F.)
+Mean Annual Air Temperature: 25 degrees C (77 degrees F.)
 Mean Annual Precipitation: 1397 millimeters (55 inches)
 
 TAXONOMIC CLASS: Loamy, mixed, superactive, calcareous, isohyperthermic Lithic Endoaquepts
 
 TYPICAL PEDON:  Lostmans fine sandy loam in a grassy low broad flat.                (Colors are for moist soil unless otherwise stated.)
 
-     Ak--0 to 8 centimeters (0 to 3 inches); grayish brown (10YR 5/2) sand, light brownish gray (10YR 6/2), dry; weak fine granular structure; very friable, soft; nonsticky, nonplastic; many fine roots throughout; finely disseminated calcium carbonate; slightly effervescent; slightly alkaline (pH 7.6); clear smooth boundary. [5 to 15 centimeters (2 to 6 inches) thick]
+     Ak--0 to 8 centimeters (0 to 3 inches); grayish brown (10YR 5/2) sand, light brownish gray (10YR 6/2), dry; weak fine granular structure; very friable, soft; nonsticky, nonplastic; many fine roots throughout; finely disseminated calcium carbonate; slightly effervescent; slightly alkaline (pH 7.6); clear smooth boundary. [5 to 10 centimeters (2 to 4 inches) thick]
 
      Bk1--8 to 20 centimeters (3 to 8 inches); brown (10YR 5/3) sandy loam; common fine distinct spherical yellowish brown (10YR 5/6) masses of oxidized iron; weak fine angular blocky structure; very friable, soft; nonsticky, nonplastic; common fine roots throughout; finely disseminated calcium carbonate; strongly effervescent; moderately alkaline (pH 8.2); clear wavy boundary. 
 
-     Bk2--20 to 30 centimeters (8 to 12 inches); light brownish gray (10YR 6/2) sandy loam; common fine distinct spherical yellowish brown (10YR 5/6) masses of oxidized iron; moderate fine and medium angular blocky structure; very friable, soft; nonsticky, nonplastic; finely disseminated calcium carbonate, common fine distinct spherical masses of calcium white (10YR 8/1) throughout; strongly effervescent; moderately alkaline (pH 8.4); abrupt wavy boundary. [Combine thickness of the Bk horizon 5 to 41 centimeters (4 to 16 inches)]
+     Bk2--20 to 30 centimeters (8 to 12 inches); light brownish gray (10YR 6/2) sandy loam; common fine distinct spherical yellowish brown (10YR 5/6) masses of oxidized iron; moderate fine and medium angular blocky structure; very friable, soft; nonsticky, nonplastic; finely disseminated calcium carbonate, common fine distinct spherical masses of calcium white (10YR 8/1) throughout; strongly effervescent; moderately alkaline (pH 8.4); abrupt wavy boundary. [Combined thickness of the Bk horizon 5 to 41 centimeters (4 to 16 inches)]
 
-     2R--30 to 56 centimeters (12 to 22 inches); strongly cemented to indurated limestone bedrock; solution holes up to 102 centimeters (40 inches) or deeper can be filled with sandy and/or loamy material.
+     2R--30 centimeters (12 inches); strongly cemented to indurated limestone bedrock; solution holes up to 102 centimeters (40 inches) or deeper can be filled with sandy and/or loamy material.
 
 TYPE LOCATION:  Collier County, Florida; about 1.25 miles north of I75 and about 0.85 miles east of the L28 Canal; about 1320 feet west and 1285 feet north of the southeast corner of sec. 25, T. 49 S. R. 34 E.; Latitude 26 degrees, 11 minutes, 26.4 seconds N, Longitude 80 degrees, 53 minutes, 0.1 seconds W; WGS84; USGS California Slough, FL quadrangle. 
 
@@ -108,7 +108,7 @@ SERIES ESTABLISHED:  Collier County, Florida; 2020.
 REMARKS: Diagnostic horizons and features in this pedon are:
 
 1. Ochric epipedon - 0 to 8 centimeters (0 to 3 inches) (Ak horizon)
-2. Lithic contact - 30 to 56 centimeters (12 to 22 inches) (2R horizon)
+2. Lithic contact - 30 to 56 centimeters (12 to 20 inches) (2R horizon)
 3. Aquic conditions - 0 to 15 centimeters (0 to 6 inches)
 4. Endosaturation - 0 to 51 centimeters (0 to 20 inches)
 

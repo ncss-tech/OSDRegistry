@@ -1,7 +1,7 @@
 LOCATION TARPANS                FL
 
 Tentative Series
-Rev. CAP
+Rev. CAP-MVF-AMS
 07/2023
 
 TARPANS SERIES
@@ -15,7 +15,7 @@ Index Surface Runoff: Negligible
 Parent Material: Sandy and loamy marine sediments over a limestone
 Slope: 0 to 2 percent
 Elevation: 0 to 20 feet above mean sea level.  
-Mean Annual Air Temperature: 25 degrees C. (77 degrees F.)
+Mean Annual Air Temperature: 25 degrees C (77 degrees F.)
 Mean Annual Precipitation: 1397 centimeters (55 inches)
 
 TAXONOMIC CLASS:  Fine-loamy, siliceous, superactive, isohyperthermic Typic Argiaquolls
@@ -32,7 +32,7 @@ TYPICAL PEDON:  Tarpans fine sand is on a low broad flat in forested low density
 
      2Ck--61 to 76 centimeters (24 to 30 inches); light gray (10YR 7/2) marly silt loam; weak fine granular structure; friable, soft; nonsticky,  nonplastic; about 75 percent of sand grains coated with carbonates; strongly effervescent; moderately alkaline (pH 8.4); clear irregular boundary.  [15 to 20 centimeters (6 to 8 inches thick)]
 
-     3R--76 to 102 centimeters (30 to 40 inches); moderately cemented to indurated limestone bedrock, solution holes up to 102 centimeters (40 inches) or more deep can be filled with sandy and/or loamy material.
+     3R--76 centimeters (30 inches); moderately cemented to indurated limestone bedrock, solution holes up to 102 centimeters (40 inches) or more deep can be filled with sandy and/or loamy material.
 
 TYPE LOCATION:  Collier County, Florida; about 1.4 miles south of Randall Blvd and 0.4 miles east of 16th Street NE; about 2,180 feet west and 1,390 feet south of the northeast corner of Sec. 35, T. 46 S., R. 28 E.; Latitude 26 degrees, 15 minutes, 29.96 seconds N, Longitude 81 degrees, 34 minutes, 4.00 seconds W; WGS84; USGS Corkscrew SE, FL quadrangle.
 
@@ -86,7 +86,7 @@ Rock fragments: 0 to 35 percent
 Reaction: moderately alkaline (pH 7.9 to 8.4)
 Clay content: 10 to 30 percent
 
-2R horizons: moderately cemented to indurated limestone bedrock with solution holes. The solution holes contain sandy to loamy mineral soil.
+3R horizons: moderately cemented to indurated limestone bedrock with solution holes. The solution holes contain sandy to loamy mineral soil.
 
 COMPETING SERIES: There are no competing series. Closely related soil includes the Chobee (FL) series and Copeland (FL) series.  Chobee soils is Hyperthermic, lack bedrock within depths of 203 centimeters (80 inches) and are on similar landform positions. Copeland soils is Hyperthermic and are moderately deep to limestone bedrock. 
 
@@ -132,7 +132,7 @@ REMARKS:  Diagnostic horizons and features featured in this pedon.
 3.	Lithic contact - 76 to 102 centimeters (30 to 40 inches) (3R horizon)
 4.	Aquic conditions - 0 to 15 centimeters (0 to 6 inches)
 
-This soil was formerly recognized as Copeland and still inside of the Hyperthermic zone. New future project to collect a new OSD location that fit with the Isohyperthermic concept will be developed.
+This soil is recognized as Copeland in hyperthermic areas. 
 
 ADDITIONAL DATA:
 Laboratory data is available on the National Soil Survey website at: http://ncsslabdatamart.sc.egov.usda.gov/querypage.aspx 

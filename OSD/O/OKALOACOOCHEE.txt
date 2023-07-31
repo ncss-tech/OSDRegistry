@@ -1,7 +1,7 @@
 LOCATION OKALOACOOCHEE          FL
 
 Tentative Series
-Rev. CAP
+Rev. CAP-MVF-AMS
 07/2023
 
 OKALOACOOCHEE SERIES
@@ -15,7 +15,7 @@ Index Surface Runoff: Negligible to very low
 Parent Material: Herbaceous organic material over sandy marine sediments
 Slope: 0 to 1 percent
 Elevation: 0 to 3 feet above mean sea level.  
-Mean Annual Air Temperature: 25 degrees C. (77 degrees F.)
+Mean Annual Air Temperature: 25 degrees C (77 degrees F.)
 Mean Annual Precipitation: 1397 millimeters (55 inches)
 
 TAXONOMIC CLASS:  Loamy, siliceous, euic, isohyperthermic Terric Sulfisaprists
@@ -77,12 +77,12 @@ Trout Cove soils have limnic materials about 109 centimeters (43 inches) thick. 
 Perrine soils consists of limnic soil materials and limestone rock at 50 to 100 centimeters (20 to 40 inches).
 
 DRAINAGE AND PERMEABILITY:  
-Drainage class: Very poorly drained.
+Drainage class: Very poorly drained
 Saturated hydraulic conductivity (KSAT): high to very high
 Permeability: rapid
 Surface Runoff: negligible to very low
 Surface Water: can range from 15 to 122 centimeters (6 to 48 inches) during the raining season (June to November). During the months of December and January surface water can range from 15 to 91 centimeters (6 to 36 inches).  During the dry season February to May surface water ranges from 15 to 76 centimeters (6 to 30 inches).  
-Flooding, tidal: surface water ranges from 0 to 122 centimeters (0 to 48 inches). 
+Flooding, tidal: surface water ranges from 0 to 122 centimeters (0 to 48 inches) 
 
 USE AND VEGETATION:  
 Major uses: water quality and wildlife habitat.
@@ -104,7 +104,7 @@ REMARKS: Diagnostic horizons and features in this pedon are:
 5. Endosaturation - 0 to 203 centimeters (0 to 80 inches)
 6. Tidal flooding daily by normal high tides.
 
-This series was formerly mapped as tidal marsh and/or Durbin and still inside of the Hyperthermic zone. Temperature regime changes require a new soil series for the isohyperthermic area in MLRA 156A. New future project to collect a new OSD location that fit with the Isohyperthermic concept will be developed.
+This series was formerly mapped as tidal marsh and/or Durbin and still inside of the Hyperthermic zone. Temperature regime changes required a new soil series for the isohyperthermic area in MLRA 156A. 
 
 ADDITIONAL DATA:
 Laboratory data is available on the National Soil Survey website at: http://ncsslabdatamart.sc.egov.usda.gov/querypage.aspx 
