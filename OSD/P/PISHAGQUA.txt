@@ -1,64 +1,120 @@
-LOCATION PISHAGQUA              RI
+LOCATION PISHAGQUA              RI+CT+MA+NH+NY
 
 Established Series
-Rev. MKP-JDT-DCP
-05/2018
+Revised MKP-JDT-DCP
+09/2023
 
 PISHAGQUA SERIES
 
-The Pishagqua series consists of very deep, subaqueous soils permanently submerged in lagoon bottoms and lagoon channels in coastal lagoons and bays.  The soils formed beneath 50 to 500 cm or more of tidal estuarine water in fine-silty marine or estuarine deposits. Slopes range from 0 through 3 percent, mean annual air temperature is 10 degrees C, and mean annual precipitation is 1295 mm.
+MLRA(s)--144A, 145, 149B
+Depth class--Very deep
+Drainage class--Subaqueous
+Water depth range--50 to 500 centimeters
+Parent material--Silty estuarine deposits
+Geomorphic location--Lagoon bottom and lagoon channels
+Slope range for Series--0 to 3 percent
+Mean annual air temperature--10 degrees C (50 degrees F)
+Mean annual precipitation--1295 millimeters (51 inches)
 
 TAXONOMIC CLASS: Fine-silty, mixed, superactive, nonacid, mesic Fluventic Sulfiwassents
 
-TYPICAL PEDON:  Pishagqua silt loam on a south facing, 1 percent concave slope in an eelgrass (Zostera marina) bed of a lagoon bottom under 2.0 meters of estuarine water. Tidal range is 24 cm. (Colors are for moist soil).   
+TYPICAL PEDON: Pishagqua silt loam on a south facing, 1 percent concave slope in an eelgrass (Zostera marina) bed of a lagoon bottom under 2.0 meters of estuarine water. Tidal range is 24 cm. (Colors are for moist soil unless otherwise noted).
 
-   Ase -- 0 to 15 centimeters; black (5Y 2.5/2) mucky silt loam; gray (5Y 6/1) dry; massive; very fluid; strongly saline; few flat angular fine to medium shell fragments; common fine macroalgal fragments; hydrogen sulfide odor; 15% organic matter; slightly alkaline (pH 7.6); extremely acid (pH 3.9) after 8 weeks; clear boundary. (0 to 38 cm thick.)  
+ Aseg--0 to 15 centimeters; black (5Y 2.5/2) mucky silt loam; gray (5Y 6/1) dry; massive; very fluid; 1 percent shell fragments; 5 percent fine macroalgal fragments; moderate sulfurous odor; 15% organic matter; slightly alkaline (pH 7.6); extremely acid (pH 3.9) oxidized pH; clear boundary. (0 to 38 cm thick)
 
-   Cse -- 15 to 110 centimeters; black (5Y 2.5/1) mucky silty clay loam; gray (5Y 5/1) dry; massive; very fluid; strongly saline; few flat angular fine and medium shell fragments; common fine macroalgal fragments; hydrogen sulfide odor; 16% organic matter; neutral (pH 7.2); extremely acid (pH 3.7) after 8 weeks; gradual boundary. 
+ Cseg1--15 to 110 centimeters; black (5Y 2.5/1) mucky silty clay loam; gray (5Y 5/1) dry; massive; very fluid; 1 percent shell fragments; 5 percent fine macroalgal fragments; moderate sulfurous odor; 16% organic matter; neutral (pH 7.2); extremely acid (pH 3.7) oxidized pH; gradual boundary.
 
-   Cseg1 -- 110 to 160 centimeters; black (5Y 2.5/1) mucky silt loam; gray (5Y 6/1) dry; massive; moderately fluid; strongly saline; common fine macroalgal fragments; hydrogen sulfide odor; 12% organic matter; neutral (pH 7.2); ultra acid (pH 3.3) after 8 weeks; gradual boundary. 
+ Cseg2--110 to 160 centimeters; black (5Y 2.5/1) mucky silt loam; gray (5Y 6/1) dry; massive; moderately fluid; 1 percent shell fragments; 5 percent fine macroalgal fragments; moderate sulfurous odor; 12% organic matter; neutral (pH 7.2); ultra acid (pH 3.3) oxidized pH; gradual boundary. 
 
-   Cseg2 -- 160 to 200 centimeters; black (5Y 2.5/1) silt loam; gray (5Y 6/1) dry; massive; moderately fluid; moderately saline; few flat subangular fine and medium shell fragments; common fine macroalgal fragments; hydrogen sulfide odor; 9% organic matter; neutral (pH 7.3); ultra acid (pH 3.4) after 8 weeks. 
+ Cseg3--160 to 200 centimeters; black (5Y 2.5/1) silt loam; gray (5Y 6/1) dry; massive; moderately fluid; 1 percent shell fragments; 5 percent fine macroalgal fragments; moderate sulfurous odor; 9% organic matter; neutral (pH 7.3); ultra acid (pH 3.4) oxidized pH. 
 
-TYPE LOCATION: Washington County, Rhode Island; Town of Charlestown, Fort Neck Cove of Ninigret Pond, 1,360 feet north of the western tip of Potato Point and 1,260 feet south-west of the eastern-most shoreline position of Tautog Cove. USGS Carolina, RI topographic quadrangle, Latitude 41 degrees, 22 minutes, 33.77 seconds N. and Longitude 71 degrees, 38 minutes, 48.47 seconds W. NAD 1983.
+TYPE LOCATION: Washington County, Rhode Island; Town of Charlestown, Fort Neck Cove of Ninigret Pond, 1,360 feet north of the western tip of Potato Point and 1,260 feet south-west of the eastern-most shoreline position of Tautog Cove. USGS topographic quadrangle: Carolina, RI
 
-RANGE IN CHARACTERISTICS: The soils are permanently submerged. All horizons have an initial reaction of neutral through strongly alkaline and an oxidized pH of ultra acid or extremely acid. Soil has a 5:1 salinity greater than 0.6 dS/m throughout the profile. The thickness of silty estuarine material is greater than 100 cm. Shell fragments range from 0 through 15 percent throughout and typically include soft shell clam, quahog, oyster, periwinkle, and razor clam. Macroalgal and plant fragments are commonly found throughout the soil profile. After drying, it is common for many of these soils to develop 5Y 5/4 mottles throughout the matrix.  
+Latitude-- 41.3760472
+Longitude-- -71.6467972 
+Datum--WGS84
+Coordinate source--Estimated from narrative description 
 
-The Ase or ACse horizon, where present, has hue of 2.5Y, 5Y, 10Y or is neutral moist or dry, value of 2.5 or 3, moist, or 5 through 7, dry, and chroma 2 or less, moist or dry. Textures are silt loam or silty clay loam with mucky analogs. Consistence is moderately fluid through very fluid. Hydrogen sulfide odor is present.
+RANGE IN CHARACTERISTICS:
+Depth to bedrock--Greater than 200 centimeters
+Particle--size control section--Less than 15 percent sand
+Soil moisture--Continuously inundated
+Reaction throughout--Neutral to strongly alkaline (pH 6.6 to 9.0)
+Oxidized reaction--Ultra to extremely acid (pH <3.5 to 4.4)
+Electrical conductivity (1:5 soil-water) throughout--0.6 dS/m or greater
+Depth to sulfidic materials (oxidized pH4.0)--0 to 50 centimeters
+Manner of failure--Moderately fluid to very fluid 
+Shell fragments throughout--0 to 15 percent
 
-The Cse and Cseg horizons have a hue of 5Y, 10Y or is neutral, moist or dry, value 2.5 through 4, moist, or 5 through 7 dry, and chroma 2 or less, moist or dry. Textures include very fine sandy loam, silt loam, and silty clay loam with mucky analogs. Thin strata of sandy material are found in some pedons. Consistence is moderately fluid through very fluid. Hydrogen sulfide odor is present. 
+Aseg or ACseg (where present)-
+Hue--2.5Y to 10Y or is neutral
+Value--2.5 or 3, moist, 5 to 7, dry
+Chroma--2 or less, moist or dry 
+Texture--Silt loam or silty clay loam with mucky analogs
 
-Some areas are underlain at a depth greater than 100 cm by buried organic deposits, sandy estuarine material, loess, and/or glacial fluvial sand and gravel.  
+Cseg horizon-
+Hue--5Y, 10Y or is neutral
+Value 2.5 to 4, moist, 5 to 7 dry
+Chroma--2 or less
+Textures--Very fine sandy loam, silt loam, or silty clay loam with mucky analogs
+
+Thin strata of sandy material are found in some pedons. 
+
+Some areas are underlain at a depth greater than 100 cm by buried organic deposits, sandy estuarine material, loess, and/or glaciofluvial deposits.
 
 COMPETING SERIES: There are no competing series.
 
-The Appoquinimink, Boxiron, Broadkill, and Southpoint soils are in related families. Appoquinimink soils are subaerial soils that are underlain by organic horizons. Boxiron soils are subaerial soils that have a histic epipedon and are underlain by sandy material. Broadkill soils are subaerial soils and have hemic material at the surface. Southpoint soils are underlain by organic material within 100 cm of the surface.
+GEOGRAPHIC SETTING:
+Parent material-Fine-silty estuarine deposits
+Landscape--Coastal lagoons
+Landform--Lagoon bottoms and lagoon channels
+Slope--0 to 3 percent
+Mean annual precipitation--1016 to 1397 millimeters (40 to 55 inches)
+Mean annual air temperature--2.3 to 15.8 degrees C (36 to 65 degrees F)
+Water salinity range--18 to 30 parts per thousand
+Frost-free period--350 to 365 days
 
-GEOGRAPHIC SETTING: The Pishagqua soils are permanently submerged with salt or brackish water in low energy areas (affected very little by wave energy, deposition of sandy material, or storm events). These soils are in lagoon bottoms and lagoon channels in coastal lagoons and bays. Most areas have slopes less than 3 percent and are on slightly concave or level landforms. 
+GEOGRAPHICALLY ASSOCIATED SOILS: These are the Anguilla, Billington, Marshneck, Massapog, Napatree and Wequetequock soils.
 
-GEOGRAPHICALLY ASSOCIATED SOILS: These are the Billington, Wequetequock, Marshneck, Massapog, Nagunt, Napatree, and Anguilla soils. Billington and Wequetequock soils have a buried organic horizon. Marshneck soils are found on flood tidal delta slopes in coastal lagoons and have sandy, nonfluid materials at the surface. Massapog soils are found on flood tidal delta flats and have a sandy particle size throughout. Nagunt soils are found on washover fan flats and slopes in coastal lagoons and have a sandy particle size. Napatree and Anguilla soils are on submerged headlands and submerged mainland beaches and have a lithologic discontinuity within 100 cm of the soil surface.  
+Anguilla and Napatree--In mainland coves and on submerged mainland beaches; lithologic discontinuity within 100 centimeters of the soil surface
+Billington--In mainland coves and have buried organic horizons
+Marshneck--On flood tidal delta slopes and have coarse-loamy family particle-size 
+Massapog--On flood tidal delta flats and have sandy particle-size throughout
+Nagunt--On washover fan flats and slopes and have sandy particle-size throughout
+Wequetequock--In mainland coves and submerged stream channels and have buried organic horizons 
 
-DRAINAGE AND SATURATED HYDRAULIC CONDUCTIVITY: Subaqueous soil, peraquic soil moisture regime, moderately high or high saturated hydraulic conductivity due to low bulk density. The soil is permanently submerged with salt or brackish water. 
+DRAINAGE AND SATURATED HYDRAULIC CONDUCTIVITY:
+Drainage class--Subaqueous
+Saturated hydraulic conductivity--Moderately high or high
+Soil moisture regime--Peraquic
+Soil is continuously inundated by saline and brackish water.
 
-USE AND VEGETATION: Areas of this soil are used for recreational boating, fishing, and swimming. Commercial uses include shell fishing, marinas, mooring fields, and aquaculture. Benthic fauna such as tubeworms, clams, juvenile blue crabs, scallops and juvenile finfish are associated with this soil. Native vegetation includes rooted and floating algae, eelgrass (Zostera marina) and widgeon grass (Ruppia maritima). Vegetative cover ranges from 0 through 100 percent.
+USE AND VEGETATION:
+Major uses--Used for recreational boating, fishing, and swimming, marinas, mooring fields, and commercial shellfish harvesting; benthic species include tubeworms, clams, juvenile blue crabs, scallops and juvenile finfish 
+Native vegetation--Rooted and floating algae, eelgrass (Zostera marina) and widgeon grass (Ruppia maritima); vegetative cover ranges from 0 through 100 percent
 
-DISTRIBUTION AND EXTENT: Coastal areas of Connecticut and Rhode Island. MLRA 144A, 145 and 149B. The soils of this series are not extensively mapped at this time. (total extent is about 5,500 acres (2,225 hectares)).
+DISTRIBUTION AND EXTENT: 
+General area--Located along the coasts of Connecticut, Massachusetts, New Hampshire, New York, and Rhode Island
+Land Resource Regions--R - Northern Forage and Forest Region and S - Northern Atlantic Slope Diversified Farming Region
+MLRA(s)--144A, 145, 149B
+Extent--Small
 
-SOIL SURVEY REGIONAL OFFICE (SSRO) RESPONSIBLE: Amherst, Massachusetts.
+SOIL SURVEY REGIONAL OFFICE (SSRO) RESPONSIBLE: Amherst, Massachusetts
 
-SERIES ESTABLISHED: Washington County, Rhode Island, 2010.
+SERIES ESTABLISHED: Washington County, Rhode Island, 2010
 
-REMARKS: Diagnostic horizons and other diagnostic soil characteristics recognized in this pedon are:
-1. Ochric epipedon - the zone from the surface to a depth of 15 cm (Ase horizon).
-2. Peraquic feature--the zone from 0 to 200 cm has positive soil water potential (permanently submerged) at the soil surface (under 200 cm of salt water).
-3. Sulfidic materials--the zone from 0 to 200 cm contains sulfidic materials in all horizons (verified by moist incubation) (Ase, Cse, Cseg1 and Cseg2 horizons).
-4. High n-value - the zone from 0 to 100 cm has an n-value greater than 0.7 (A and Cse horizons).
-5. Fluventic Feature - soil organic carbon content of greater than 0.2 percent at a depth of 125 cm.
-6. Particle size control section - the zone from 25 to 100 cm (Cse horizon). 
+REMARKS:
+Diagnostic horizons and features in this pedon include-- 
+Peraquic feature--Positive soil water potential (permanently submerged) at the soil surface. (under 2 meters of salt water).
+Particle-size control section--The zone from 0 to 100 cm (0 to 40 inches). Ochric epipedon--The zone from 0 to 18 cm (Aseg and upper Cseg1 horizon).
+Sulfidic materials--from 0 to 200 cm (Aseg and Cseg horizons).
+Fluventic Feature--Soil organic carbon content of greater than 0.2 percent at a depth of 125 cm
+N-value >.07--The zone from 0 to 100 cm (A and Cseg1 horizons).
+Taxonomic version--Keys to Soil Taxonomy, 13th edition (2022)
 
 ADDITIONAL DATA:
-This pedon was sampled as S04-RI009-001 by the University of Rhode Island. Support pedons used to develop this series description include S05-RI-009-004 (sampled by the NSSL), S04-RI-009-002 (Sampled by the University of Rhode Island), S05-RI-009-013B, S05-RI-009-005 (sampled by the NSSL), and 00NP056 (sampled by University of Rhode Island). 
+Characterization data for the typical pedon, S2004RI009001, and additional pedon data, S2004RI009002 analyzed by the University of Rhode Island. Additional pedon data include S2005RI009004, S2005RI009005, and S2005RI009013 analyzed by the KSSL, Lincoln, NE. 
 
-
+________________________________________
 National Cooperative Soil Survey
 U.S.A.
