@@ -1,65 +1,143 @@
 LOCATION CURRITUCK              NC
 
 Established Series
-Rev. JHW:AG
-07/1999
+Rev. JHW:AG, MCR/RBT
+09/2023
 
 CURRITUCK SERIES
 
-The Currituck series consists of organic soils in the lower Coastal Plain.  They formed in well decomposed organic materials over sandy mineral horizons.  These soils are on narrow to broad, nearly level marshes that are flooded with fresh water.  The water table in these soils fluctuates with the tides.  Slope is less than 1 percent.  Near the type location, mean annual temperature is 60 degrees F., and mean annual precipitation is 47 inches.
+Depth Class--Very deep
+Drainage Class--Very poorly drained
+Saturated Hydraulic Conductivity Class--Moderately high to high 
+Parent Material--Herbaceous and woody organic materials underlain by sandy marine deposits
+Geomorphic location--Estuarine fresh or oligohaline tidal marsh
+Slope range for series--Less than 1 percent
+Mean Annual Air Temperature: 17 degrees C. (63 degrees F.)
+Mean Annual Precipitation: 1346 millimeters (53 inches)
 
 TAXONOMIC CLASS: Sandy or sandy-skeletal, mixed, euic, thermic Terric Haplosaprists
 
-TYPICAL PEDON:  Currituck mucky peat.  (Colors are for moist soil unless otherwise stated.  When described, the soil was saturated below 24 inches.)
+TYPICAL PEDON: Currituck mucky peat, on an oligohaline tidal marsh. (Colors are for moist soil unless otherwise stated). 
 
-     Oe--0 to 14 inches; very dark grayish brown (10YR 3/2) broken face and rubbed mucky peat; about 80 percent fibers unrubbed, 36 percent fibers rubbed; massive; friable; many fine to coarse roots mainly from black needlerush; herbaceous material; mineral content about 55 percent; very strongly acid (pH 4.9 in .01 M calcium chloride); gradual wavy boundary.  (6 to 18 inches thick)
+ Oese--0 to 8 centimeters (0 to 3 inches); dark yellowish brown (10YR 3/4) broken face and rubbed, mucky peat; H5 von Post scale; 40 percent unrubbed fiber, 25 percent rubbed; many fine and medium roots, few coarse roots; slight sulfurous odor; slightly acid (6.50 pH, 1:1 water), moderately acid (5.77 pH, 1:1 water) after moist incubation; slightly effervescent with 30% hydrogen peroxide; electrical conductivity (1.89 dS/m, 1:5 water); clear smooth boundary. (0 to 25 centimeters thick)
 
-     Oa--14 to 28 inches; very dark grayish brown (2.5Y 3/2) broken face and rubbed muck; about 36 percent fibers unrubbed, 4 percent fibers rubbed; massive; very friable; common medium and coarse roots, mainly from black needlerush; herbaceous material; mineral content about 60 percent; extremely acid (pH 4.2 in .01 M calcium chloride); clear wavy boundary.  (10 to 30 inches thick)
+ Oase1--8 to 41 centimeters (3 to 16 inches); dark brown (10YR 3/3) broken face and rubbed, muck; H7 von Post scale; 35 percent unrubbed fiber, 10 percent rubbed; many fine and medium roots, few coarse roots; slight sulfurous odor; neutral (6.82 pH, 1:1 water), strongly acid (5.43 pH, 1:1 water) after moist incubation; slightly effervescent with 30% hydrogen peroxide; electrical conductivity (0.82 dS/m, 1:5 water); clear smooth boundary.
 
-     Cg--28 to 60 inches; greenish gray (5GY 5/1) sand; single grained; loose; common medium flakes of mica; common fine opaques; ultra acid (pH 3.1 in 1:1 water).
+ Oase2--41 to 81 centimeters (16 to 32 inches); dark brown (10YR 3/3) broken face and rubbed, muck; H7 von Post scale; 30 percent unrubbed fiber, 10 percent rubbed; common fine and medium roots; strong sulfurous odor; neutral (6.84 pH, 1:1 water), very strongly acid (5.03 pH, 1:1 water) after moist incubation; slightly effervescent with 30% hydrogen peroxide; electrical conductivity (1.20 dS/m, 1:5 water); clear smooth boundary.
 
-TYPE LOCATION:  Currituck County, North Carolina; 4.5 miles south of Corolla; 1.1 mile northwest of Currituck Shoot Club Hunting Lodge and 0.8 mile west of Atlantic Ocean; 450 feet west of woods and 50 feet north of hunting path in marsh.
+ Oase3--81 to 104 centimeters (32 to 41 inches); very dark brown (7.5YR 2.5/2) broken face and rubbed, muck; H8 von Post scale; 35 percent unrubbed fiber, 8 percent rubbed; few fine roots; strong sulfurous odor; neutral (6.98 pH, 1:1 water), strongly acid (5.44 pH, 1:1 water) after moist incubation; slightly effervescent with 30% hydrogen peroxide; electrical conductivity (2.35 dS/m, 1:5 water); clear smooth boundary.
 
-RANGE IN CHARACTERISTICS:  Range in thickness of the organic material is typically 16 to 38 inches, with a maximum to 51 inches.  Reaction ranges from very strongly acid to moderately acid (in .01 M calcium chloride) in the upper organic horizons and ultra acid through moderately acid (in .01 M calcium chloride) in the mineral and lower organic horizons.  Exchangeable sodium and magnesium is less than 5 parts per thousand and sulfur content is less than 0.01 percent throughout the control section.   Organic material is mainly from herbaceous plants.
+ Oase4--104 to 118 centimeters (41 to 46 inches); very dark brown (7.5YR 2.5/2) broken face and rubbed, muck; H8 von Post scale; 40 percent unrubbed fiber, 10 percent rubbed; few charcoal lenses in stratified layers; 1% wood fragments; strong sulfurous odor; neutral (7.06 pH, 1:1 water), moderately acid (5.95 pH, 1:1 water) after moist incubation; slightly effervescent with 30% hydrogen peroxide; electrical conductivity (2.04 dS/m, 1:5 water); clear smooth boundary. (40 to 130 centimeters thick)
 
-The surface tier is either hemic or sapric, depending on history of vegetative succession.  Mineral content ranges from 40 to 65 percent.  The surface tier is in hues of 7.5YR, 10YR and 2.5Y, value of 2 to 4, and chroma of 1 to 3.
+ Aseg--118 to 129 centimeters (46 to 51 inches); dark grayish brown (10YR 4/2) fine sandy loam; massive; friable; slightly fluid; nonsticky, nonplastic; strong sulfurous odor; neutral (6.88 pH, 1:1 water), moderately acid (pH 5.91, 1:1 water) after moist incubation; slightly effervescent with 30% hydrogen peroxide; electrical conductivity (2.79 dS/m, 1:5 water); clear smooth boundary. (0 to 15 centimeters thick)
 
-The subsurface tier, and bottom tier, where present, is sapric material; however, thin hemic layers occur in the subsurface tier of some pedons.  The subsurface and bottom tiers, where present, are similar in color to the surface tier and in addition range to include dark olive gray (5Y 3/2), greenish gray (5GY 5/1), and dark greenish gray (5GY 4/1).  Mineral content ranges from 40 to 65 percent.
+ Cseg--129 to 200 centimeters (51 to 79 inches); grayish brown (2.5Y 5/2) fine sand; massive; loose; nonfluid; nonsticky, nonplastic; strong sulfurous odor; common organic stains along root channels; many very fine mica flakes throughout; neutral (7.10 pH, 1:1 water), strongly acid (pH 5.46, 1:1 water) after moist incubation; slightly effervescent with 30% hydrogen peroxide; electrical conductivity (1.79 dS/m, 1:5 water). (70 to 160 cm thick)
 
-The A horizon, where present, has hue of 10YR to 5Y, value of 2 to 3, and chroma of 1 or 2.  It is sand, fine sand, loamy sand or their mucky analogue.
+TYPE LOCATION: Dare County, North Carolina; approximately 4,750 feet southeast of the Avon Beach Boat Ramp at the intersection of Dock Street and Bay Drive in Kill Devil Hills on a marsh island within Kitty Hawk Woods Coastal Reserve; USGS Kitty Hawk topographic quadrangle. 
+Latitude--36.026597
+Longitude-- -75.698933
+Datum--WGS84
+Coordinates source--from hand-held GPS 
 
-The Cg horizons are in hues of 10YR to 5Y, value of 4 to 6, chroma of 1 to 2, greenish gray (5GY 6/1, 5/1; 5G 5/1), or dark greenish gray (5GY 4/1; 5G 4/1) sand or loamy sand.  Flakes of mica and opaques range from few to common.  A few shell fragments and gravels are in some pedons.
+RANGE IN CHARACTERISTICS: 
+Depth to mineral materials--ranges from 40 to 130 centimeters (16 to 51 inches).
+Depth to Bedrock--Greater than 200 cm (80 inches).
+Soil moisture--These soils have peraquic moisture and are tidally flooded daily
+Soil Reaction--Moderately acid to slightly alkaline, throughout the profile. 
+Moist incubated soil reactions--Extremely acid to slightly acid.
+Electrical Conductivity (1:5 soil-water)--greater than 0.6 dS/m
+Wood Fragments--0 to 10 percent, by volume in woody peat deposits.
+Shell Fragments--0 to 10 percent, by volume in underlying marine deposits.
+Mica Flakes--Few to many very fine to fine in subsoil mineral horizons. 
+Other features--Some pedons have thin (<5 centimeters) stratified layers of mineral material within organic horizons. 
 
-COMPETING SERIES:  There are no other series in this family.  Those in closely related families are the Allemands, Handsboro, Hobonny, Istokpoga, Lafitte, Mattamuskeet, Maurepas, Ocoee, and Pamlico series.  Allemands soils have clayey sediments underlying organic layers.  Handsboro soils have subhorizons containing more than .075 percent sulfur.  Hobonny, Istokpoga, Lafitte, and Maurepas soils have organic materials greater than 51 inches thick.  In addition, Istokpoga soils have hyperthermic temperature regimes and are dominated by hemic materials.  Lafitte soils are in saline marshes and have a SAR of more than 13 or ESP of more than 15 in more than half of the subsurface tier.   Mattamuskeet and Pamlico soils are formed woody hydrophytic plants and have dysic pH ranges.  Ocoee soils are hyperthermic and they are siliceous.
+Range of Individual Horizons:
+Oese horizon (where present)
+Hue--10YR to 2.5Y or neutral
+Value--2 to 4
+Chroma--0 to 4
+Unrubbed fiber--25 to 75 percent
+Rubbed fiber content-- 17 to 40 percent
+Von Post--H4 to H6
+Some pedons have thin lenses (<5 centimeters) of mineral materials.
 
-GEOGRAPHIC SETTING:  Currituck soils are in large fresh water marshes that are associated with a marine environment.  Elevations are below 3 feet.  They are flooded with fresh water and are bordered on the seaward side by soils that are flooded with saline water.  The soils are formed in herbaceous plant remains and sandy marine deposits.  The mean annual precipitation ranges from 42 to 52 inches and the mean annual air temperature ranges from 58 to 70 degrees F.
+Oase horizon 
+Hue-2.5YR to 2.5Y or neutral
+Value--2 to 4
+Chroma--0 to 3
+Unrubbed fiber--10 to 40 percent
+Rubbed fiber content--less than 17 percent
+Von Post--H7 to H10
+Some pedons have lenses of hemic organic materials.
 
-GEOGRAPHICALLY ASSOCIATED SOILS:  In addition to the competing Hobonny series, these are the Carteret, Corolla, Duckston, and Newhan series.  All of these are mineral soils.  Carteret soils are flooded daily by salt water.  Corolla, Duckston, and Newhan soils are not flooded daily.
+Aseg or Ase horizon (where present)
+Hue--10YR to 5Y or is neutral
+Value--2 to 4
+Chroma--0 to 3
+Texture--sandy loam, loamy sand, or sand with mucky analogs
+Manner of failure--slightly or nonfluid
 
-DRAINAGE AND PERMEABILITY:  Very poorly drained; moderate to moderately rapid permeability; they are saturated to the surface except at low tide.
+Cseg horizon
+Hue--10YR to 5GY or is neutral
+Value--4 to 6
+Chroma--0 to 2
+Texture--loamy sand or sand
+Manner of failure--nonfluid
+Iron concentrations and / or depletions can occur
 
-USE AND VEGETATION:  Currituck soils are used mainly for waterfowl and certain fur bearing animal habitats.  Native vegetation is dominantly needlegrass rush (Juncus roemerianus) along with some big cordgrass (Spartina cynosuroides), eastern baccharis (Baccharis halimifolia), waxmyrtle, willow, and cattail.
+COMPETING SERIES:
+Shima soils--are dominantly muck materials, do not have sulfurous odors, are often irrigated for commodity crop production and formed in freshwater marsh deposits away from the Pacific coast
 
-DISTRIBUTION AND EXTENT:  North Carolina and possibly Virginia and South Carolina.  The series is of moderate extent.
+GEOGRAPHIC SETTING: 
+MLRA(s)--153A and 153B
+Parent Material--Herbaceous and woody organic materials underlain by sandy marine deposits
+Landscape--Coastal Plain
+Landform--Freshwater and oligohaline estuary tidal marshes (Atlantic Coast)
+Slope--1 percent or less
+Elevation--0.3 meters below sea level to 1 meter (-1 to 3 feet)
+Mean Annual Air Temperature--14 to 21 degrees C. (58 to 70 degrees F.)
+Mean Annual Precipitation--1,143 to 1,524 millimeters (45 to 60 inches)
+Water salinity range--2 to 5 parts per thousand (ppt)
+Frost Free Period--360 to 365 days
 
-MLRA SOIL SURVEY REGIONAL OFFICE (MO) RESPONSIBLE: Raleigh, North Carolina
+GEOGRAPHICALLY ASSOCIATED SOILS: 
+Backbay soils-are mineral soils in similar landscape positions but lack the thicker organic materials.
+Carteret soils--are mineral soils flooded daily by salt water.
+Corolla, Duckston, and Newhan soils--are mineral soils and occur nearby but higher on the landscape.
+Delway soils--are flooded daily by saltwater and have loamy fluviomarine substratum materials
+Hobonny and Longshoal soils--have thick organic materials greater than 130 centimeters (51 inches).
 
-SERIES ESTABLISHED:  Currituck County, North Carolina; 1980.
+DRAINAGE AND SATURATED HYDRAULIC CONDUCTIVITY:
+Drainage Class--Very poorly drained
+Saturated Hydraulic Conductivity--Moderately high to high
+Internal Free Water Occurrence--Continuously very shallow, 0 to 25 centimeters (0 to 10 inches)
+Flooding--Very frequently flooding for extremely or very brief durations (daily high tides and variable wind tides)
+Soil moisture regime--Peraquic
 
-REMARKS:  This series is mapped in areas previously mapped as fresh water tidal marsh.  Values for sulfur, fiber content and pH are based on laboratory data from N. C. State University, Soil Science Department.
+USE AND VEGETATION: 
+Major uses--Natural habitat for waterfowl, certain fur bearing animals, fish, and shellfish. 
+Native vegetation--Black needlerush, with lesser amounts of big cordgrass, eastern baccharis, and cattail.
 
-Diagnostic horizons and features recognized in this pedon are:
+DISTRIBUTION AND EXTENT:
+General area--Coastal estuarine areas of North Carolina and possibly Virginia and South Carolina. 
+Extent--Moderate
 
-Histic Epipedon - the zone from the surface to a depth of 14 inches.  (The Oe horizon)
+SOIL SURVEY REGIONAL OFFICE (SSRO) RESPONSIBLE: Raleigh, North Carolina
 
-Histic materials (Terric) - from a depth of 0 to 28 inches   (The Oe and Oa horizons)
+SERIES ESTABLISHED: Currituck County, North Carolina; 1980.
 
-Aquic moisture regime - chromas of 2 or less throughout the soils which indicate saturation.
+REMARKS:
+This series is mapped in areas previously mapped as fresh water tidal marsh. Values for fiber content, pH, moist incubation pH, and electrical conductivity are based on laboratory data from N.C. State University, Department of Crop and Soil Sciences.
+Diagnostic horizons and features recognized in this pedon include--
+Histosols (Terric)--have organic materials that total 40 cm or more between the soil surface and a depth of 50 centimeters and total thickness of organic materials does not exceed 130 centimeters in depth - the zone from a depth of 0 to 118 cm (Oese, Oase1, Oase2, Oase3, Oase4).
+Hemic soil materials--the zone from the soil surface to 8 centimeters (0 to 3 inches). (Oese horizon)
+Sapric soil materials--the zone from 8 to 118 centimeters centimeters (3 to 43 inches). (Oase1 and Oase2 horizons)
+Peraquic conditions--continuous endosaturation with very frequent tidal flooding.
+Hyposulfidic soil materials--sulfurous odors and incubated pH decrease greater than 1.0 unit and remains above 4.0, the zone from the soil surface to 200 centimeters.
 
-MLRA's: 153A, 153B
+ADDITIONAL DATA: Reference data is available from N.C. State University.
 
 TABULAR SERIES DATA:
-
 SOI-5  Soil Name   Slope  Airtemp FrFr/Seas Precip  Elevation
 NC0116 CURRITUCK   0-  1   58- 70  190-240  42- 52     0-   3 
 
@@ -76,5 +154,6 @@ NC0116  0-14  4.5- 5.5  20-95  0- 2   0.6- 6.0  LOW
 NC0116 14-28  2.0- 5.5  20-95  2- 4   0.6- 6.0  LOW      
 NC0116 28-60  2.0- 5.5  .5-8.  2- 4   6.0-  20  LOW      
 
+________________________________________
 National Cooperative Soil Survey
 U.S.A.
