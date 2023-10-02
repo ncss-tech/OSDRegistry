@@ -1,16 +1,16 @@
-LOCATION NOTREESTX+NM
+LOCATION NOTREES                TX+NM
 
 Established Series
 Rev. TCB-SSS-TAC
-10/2022
+09/2023
 
 NOTREES SERIES
 
 The Notrees series consists of very deep, well drained, moderately permeable soils formed in sandy and loamy eolian deposits of the Blackwater Draw Formation of Pleistocene age. These nearly level to gently sloping soils occur on plains. Slope ranges from 0 to 5 percent. The mean annual precipitation is about 457 mm (18 in) and the mean annual air temperature is about 16.1 degrees C (61 degrees F).
 
-TAXONOMIC CLASS:Loamy, siliceous, superactive, thermic Arenic Aridic Haplustalfs
+TAXONOMIC CLASS: Loamy, siliceous, superactive, thermic Arenic Aridic Haplustalfs
 
-TYPICAL PEDON:Notrees fine sand, on a southeast-facing, 1 percent sloping plain in rangeland; elevation of about 1,125 m (3,689 ft).  (Colors are for dry soil unless otherwise stated.)
+TYPICAL PEDON:Notrees fine sand, on a southeast-facing, 1 percent sloping plain in rangeland; elevation of about 1,125 m (3,689 ft). (Colors are for dry soil unless otherwise stated.)
 
  A1--0 to 15 cm (0 to 6 in); brown (7.5YR 5/3) fine sand, brown (7.5YR 4/3) moist; single grain; loose, loose, nonsticky, nonplastic; common fine, common medium, and common coarse roots throughout; noneffervescent; neutral (pH-6.8); gradual smooth boundary.
 
@@ -164,7 +164,7 @@ Permeability class: Moderate
 Runoff: negligible on 0 to 1 percent slopes and very low on 1 to 5 percent slopes
 
 USE AND VEGETATION:
-Mainly used for native rangeland but some areas are used for cropland.. Principal crops grown are cotton and grain sorghum. Climax vegetation is tall and mid grasses, with tall grasses tending to dominate. This site is dominated by little and sand bluestem along with taller dropseed species. The remainder is mid and short grasses such as sideoats grama, sand dropseed, hooded windmillgrass, sand lovegrass, sand paspalum, fall witchgrass, hairy grama, needle and thread, and perennial threeawn. Sand sage, shinoak, and skunkbush are also present.
+Mainly used for native rangeland but some areas are used for cropland.. Principal crops grown are cotton and grain sorghum. Climax vegetation is tall and mid grasses, with tall grasses tending to dominate. This site is dominated by little and sand bluestem along with taller dropseed species. The remainder is mid and short grasses such as sideoats grama, sand dropseed, hooded windmillgrass, sand lovegrass, sand paspalum, fall witchgrass, hairy grama, needle and thread, and perennial threeawn. Sand sage, shinoak, and skunkbush are also present. This soil has been correlated to the Sandy (R077CY035TX) ecological site in MLRA-77C.
 
 DISTRIBUTION AND EXTENT:
 General area: western Texas and southeastern New Mexico

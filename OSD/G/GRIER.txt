@@ -1,14 +1,14 @@
-LOCATION GRIER NM
+LOCATION GRIER                  NM
 
 Established Series
 Rev. RAH-LWH-TCB
-10/2022
+09/2023
 
 GRIER SERIES
 
 The Grier series consists of very deep, somewhat poorly drained, slowly permeable soils that formed in calcareous, loamy alluvial materials associated with the Blackwater Draw Formation of Pleistocene age. These soils are on level to nearly level playa benches. Slopes range from 0 to 2 percent. Mean annual precipitation is about 406 mm (16 in) and mean annual temperature is about 16 C (61 degrees F)
 
-TAXONOMIC CLASS:Fine-loamy, mixed, semiactive, calcareous, thermic Typic Endoaquepts
+TAXONOMIC CLASS: Fine-loamy, mixed, semiactive, calcareous, thermic Typic Endoaquepts
 
 TYPICAL PEDON:Grier clay--rangeland. (Colors are for dry soil unless otherwise noted.)
 
@@ -73,8 +73,7 @@ Randallsoils: occupies the lowest portion of the playa, have a clay particle-siz
 
 DRAINAGE AND PERMEABILITY:Somewhat poorly drained. Runoff is slow. Permeability is very slow.
 
-USE AND VEGETATION:Used mainly for rangeland or wildlife habitat. The natural plant community is a mixture of salt tolerant grasses and grass-like plants, forbs, and shrubs. Vegetation includes alkali sacaton, Texas dropseed, creeping muhly, joint tail, sedge and rushes, inland saltgrass and occasionally some western wheatgrass. Forbs includes portulaca sp., kochia, smartweed, dock and annual forbs. Woody species include salt cedar, Tamarix and Baccharis being the two most prevalent species. In areas of standing water, cattails may be present. The established plant community may fluctuate due mainly to the degree of salinity and the hydrology.
-
+USE AND VEGETATION:Used mainly for rangeland or wildlife habitat. The natural plant community is a mixture of salt tolerant grasses and grass-like plants, forbs, and shrubs. Vegetation includes alkali sacaton, Texas dropseed, creeping muhly, joint tail, sedge and rushes, inland saltgrass and occasionally some western wheatgrass. Forbs includes portulaca sp., kochia, smartweed, dock and annual forbs. Woody species include salt cedar, Tamarix and Baccharis being the two most prevalent species. In areas of standing water, cattails may be present. The established plant community may fluctuate due mainly to the degree of salinity and the hydrology. This soil has been correlated to the Wet Saline (077CY689TX) range site in MLRA-77C.
 DISTRIBUTION AND EXTENT:Southern High Plains, Southern Part (MLRA 77C in LRR H) of eastern New Mexico and possibly western Texas. The series is not extensive.
 
 MLRA SOIL SURVEY REGIONAL OFFICE (MO) RESPONSIBLE:Temple, Texas
@@ -91,6 +90,7 @@ Endo feature: saturated all layers not perched.
 ADDITIONAL DATA:NSSL data from Curry County, NM (S90NM-009-003).
 
 Taxonomic Version: Keys to Soil Taxonomy, Twelfth Edition, 2014.
+
 
 National Cooperative Soil Survey
 U.S.A.
