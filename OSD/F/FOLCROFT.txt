@@ -1,0 +1,110 @@
+LOCATION FOLCROFT               PA
+
+Established Series
+BJM-CEP
+10/2023
+
+FOLCROFT SERIES
+
+The Folcroft series consists of very deep, well drained soils formed in human-transported materials with more than 10 percent artifacts over fluviomarine deposits. They occur where land leveling, and other construction activities took place on filled marshlands and alluvial deposits. Slopes range from 0 to 15 percent. Mean annual temperature is about 13 degrees C, and mean annual precipitation is about 1200 mm. 
+
+TAXONOMIC CLASS: Loamy-skeletal, pauciartifactic, mixed, semiactive, mesic Typic Dystrudepts
+
+TYPICAL PEDON: Folcroft gravelly artifactual loam, 0 to 8 percent slopes on a filled stream terrace under a cover of mixed hardwoods at an elevation of 3 meters. (Colors are for moist soils, unless otherwise noted.)
+
+ ^Au--0 to 19 centimeters; very dark brown (10YR 2/2), gravelly-artifactual loam; strong medium granular structure; friable; many medium roots throughout and common very coarse roots throughout; 15 percent rounded mixed gravels; 3 percent gravel sized asphalt and 10 percent cobble sized brick fragments; neutral; clear smooth boundary. (0 to 25 centimeters thick)
+
+ ^Bwu1--19 to 30 centimeters; very dark grayish brown (10YR 3/2) very cobbly-artifactual sandy loam; weak fine subangular blocky structure; friable; few fine roots throughout; many fine vesicular pores; 15 percent rounded mixed gravels; 20 percent persistent cobble sized artifacts such as concrete, brick, porcelain and glass; neutral; clear smooth boundary.
+
+ ^Bwu2--30 to 90 centimeters; dark brown (10YR 3/3); very cobbly-artifactual sandy loam; weak fine subangular blocky structure; friable; few fine roots throughout; many fine vesicular pores; 20 percent rounded mixed gravels; 20 percent persistent cobble sized artifacts such as concrete and brick; neutral; clear wavy boundary. (Combined thickness of ^Bw is 30 to 100 centimeters thick)
+
+ 2BC1--90 to 130 centimeters; brown (7.5YR 4/4) gravelly loam; moderate fine platy structure; firm; few fine roots throughout; many fine tubular pores; many medium brown (7.5YR 4/2) iron depletions at bottom of horizon; 30 percent rounded mixed gravels, 2 percent rounded mixed cobbles, 1 percent subangular mixed stones; slightly acid; clear smooth boundary.
+
+ 2BC2--130 to 190 centimeters; brown (7.5YR 4/4) gravelly sandy loam; weak fine subangular blocky structure; 15 percent rounded mixed gravels; slightly acid. (Combined thickness of 2BC is 0 to 120 centimeters thick)
+
+ 3Ab--190 to 200 centimeters; brown (7.5YR 4/3) fine sandy loam; weak fine granular structure; slightly acid.
+
+TYPE LOCATION: Delaware County, Pennsylvania; in a wooded area on the eastern side of Montgomery Park; 39.8846156 degrees latitude, -75.2815857 degrees longitude, WGS84; U.S.G.S. Quad: Lansdowne, PA.
+
+RANGE IN CHARACTERISTICS: 
+Thickness of human-transported materials--Greater than 50 cm, typically greater than 75 cm
+Depth to bedrock--Greater than 150 cm
+Depth to seasonal high water table--Typically greater than 100 cm 
+Rock fragment content--15 to 30 percent, by volume, within a depth of 100 cm and from 15 to 35 percent, by volume, below 100 cm
+Artifact content--15 to 35 percent, by volume, within a depth of 100 cm 
+Soil reaction--Neutral in the upper part, and slightly acid in the lower part of the profile
+Fine-Earth Fraction--Averages less than 18 percent clay and greater than 40 percent sand in the particle size control section
+
+^A, ^Au horizons
+Color--hue of 7.5YR or 1OYR, value of 3 or 4, chroma of 2 to 4. 
+Texture--loam or sandy loam, in the fine earth fraction. 
+Rock fragments--10 to 20 percent
+Human-Artifacts--0 to 35 percent
+
+^Bwu, ^Cu horizons:
+Color--hue of 7.5YR or 10YR, value 3 to 5, chroma 2 to 4.
+Texture--loam or sandy loam in the fine earth fraction. 
+Rock fragments--30 to 45 percent
+Human-artifacts: 10 to 35 percent, some individual horizons do not have human-artifacts.
+
+2BC horizons:
+Color - hue of 7.5YR or 10YR, value 4 or 5, chroma 3 or 4.
+Texture - sandy loam, fine sandy loam, or loam in the fine earth fraction.
+Rock fragments- 15 to 30 percent
+
+COMPETING SERIES: There are no competing series.
+
+GEOGRAPHIC SETTING: 
+Landscape--Coastal plain
+Landform--Filled, raised land, or other locally raised landforms on treads of fluviomarine terraces and some areas along the margins of marshland
+Parent Material--Human-transported material over alluvial deposits or marshland
+Slope--0 to 15 percent
+Elevation--0 to 30 meters 
+Frost-free period--190 to 240 days
+Mean Annual Air Temperature--9 to 14 degrees C. 
+Mean Annual Precipitation--1000 to 1350 mm
+
+GEOGRAPHICALLY ASSOCIATED SOILS: These are the Beltsville, Butlertown, Elkton, Greenbelt, Mannington, Nanticoke, Othello, Pineyneck and Woodstown soils.
+
+Beltsville soils--are moderately well drained, on broad uplands
+Butlertown soils--are moderately well drained, on broad uplands
+Elkton soils--are poorly drained have a fine-silty particle-size control section, on slightly lower landforms
+Greenbelt soils--are well drained and are derived from human-transported materials with less than 10% artifacts, on similar landforms.
+Mannington soils--are very poorly drained, on tidal marshes 
+Nanticoke soils--are very poorly drained, on tidal marshes
+Othello soils--are poorly drained, on drainageways or depressions
+Pineyneck soils--are moderately well drained, on coastal plain terraces
+Woodstown soils--are moderately well drained, on similar landforms
+DRAINAGE AND SATURATED HYDRAULIC CONDUCTIVITY: 
+Drainage Class--Well drained
+Surface Runoff--Low 
+Saturated Hydraulic Conductivity Class--Typically moderately high except where compacted.
+
+USE AND VEGETATION: These soils are used for residential, commercial, and recreational applications in an urban setting. Native vegetation is mixed hardwoods.
+
+DISTRIBUTION AND EXTENT: Urban and other areas with human-modified landscapes of the Northern Coastal Plain; Major Land Resource Area (MLRA) 149A. These soils are of small extent.
+
+SOIL SURVEY REGIONAL OFFICE (SSRO) RESPONSIBLE: Amherst, Massachusetts
+
+SERIES ESTABLISHED: Delaware County, Pennsylvania, 2023. 
+
+REMARKS:  
+Diagnostic horizons and features recognized in this pedon are:
+Ochric epipedon--the zone from a depth of 0 to 19 centimeters (^Au horizons)
+Cambic horizons--the zone from a depth of 19 to 90 cm.
+Redoximorphic features--Depletions with chroma 2 or less in the zone from a depth of 120 to 130 centimeters. 
+Artifacts--the zone from a depth of 0 to 90 cm.
+Human-transported materials--the zone from a depth of 0 to 90 cm.
+
+The taxonomic classification will be revised to reflect the Thirteenth Edition Keys to Taxonomy (2022) when available in the National Soils Information System. Loamy-Skeletal, pauciartifactic, mixed, semiactive, mesic Anthroportic Dystrudepts.
+
+Some pedons have redoximorphic features below a depth of 85 centimeters in the intact native subsoil and were included in the concept as this was related to the thickness of human-transported materials.
+
+ADDITIONAL DATA:
+
+NASIS User Pedon ID: S2022PA045005
+National Soil Characterization Data (Lab Data) User Pedon ID: S2022PA045005
+Classified using the Twelfth Edition Keys to Soil Taxonomy (2014)
+________________________________________
+National Cooperative Soil Survey
+U.S.A.
