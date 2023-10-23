@@ -1,0 +1,156 @@
+LOCATION BATEAU                 AL
+
+Tentative Series
+IRD SP-RJK-EED
+10/2023
+
+BATEAU SERIES
+
+
+MLRA(s)--152A
+Depth class--Very deep
+Drainage Class--Very poorly drained
+Parent Material--Fine-loamy estuarine deposits
+Geomorphic location--Talf of low coastal plain estuary
+Slope range for series--0 to 1 percent
+Mean annual air temperature--20 degrees C (68 degrees F)
+Mean annual precipitation-1676 millimeters (66 inches)
+
+TAXONOMIC CLASS: Fine-loamy, mixed, superactive, nonacid, thermic Typic Sulfaquents
+
+TYPICAL PEDON: Bateau muck on a peninsula of an emergent estuarine tidal marsh. Tidal range is 25 centimeters. (Colors are for moist soil unless otherwise stated).
+
+ Oa--0 to 9 centimeters; very dark brown (10YR 2/2) muck; massive; many very fine and fine roots and common medium roots; 20 percent fiber unrubbed and 7 percent fiber rubbed; H7 von Post humification; moderately acid (pH 6.0); clear boundary. (Thickness of Oa is 0 to 18 centimeters)
+
+ Aseg--9 to 46 centimeters; very dark grayish brown (10YR 3/2) mucky silt loam; massive; many very fine and fine roots and common medium roots; very fluid; 15 percent fiber unrubbed and 2 percent fiber rubbed; slight sulfurous odor; slightly effervescent reaction to 30% hydrogen peroxide; slightly acid (pH 6.4); clear boundary. (Thickness of Aseg horizon is 23 to 53 centimeters)
+
+ Cseg1--46 to 75 centimeters; very dark gray (2.5Y 3/1) loam; massive; few fine roots; very fluid; moderate sulfurous odor; slightly effervescent reaction to 30% hydrogen peroxide; neutral (pH 6.6); gradual boundary.
+
+ Cseg2--75 to 109 centimeters; very dark gray (2.5Y 3/1) loam; massive; common very fine roots and common fine roots; very fluid; moderate sulfurous odor; slightly effervescent reaction to 30% hydrogen peroxide; neutral (pH 6.7); clear boundary. (Combined thickness of Cseg1 and Cseg2 is 52 to 138 centimeters) 
+
+ Cseg3--109 to 141 centimeters; dark gray (2.5Y 4/1) sandy loam; massive; few fine roots and few medium roots; nonfluid; moderate sulfurous odor; no reaction to 30% hydrogen peroxide; neutral (pH 6.9); clear boundary.
+
+ Cseg4--141 to 200 centimeters; gray (2.5Y 5/1) fine sandy loam; massive; nonfluid; moderate sulfurous odor; no reaction to 30% hydrogen peroxide; neutral (pH 6.9).
+
+TYPE LOCATION: Baldwin County, Alabama; on a 140 degree bearing 1,400 meters southeast of the most southern corner of section 37, T 3 S, R 1 E, south of the irregular Spanish Land Grant portion of the Mobile/Tensaw Delta; USGS topographic quadrangle: Bridgehead, AL. 
+
+Latitude--30.7031222
+Longitude-- -87.9896556
+Datum--WGS84
+Coordinate source--manually entered from GPS
+
+RANGE IN CHARACTERISTICS:
+Depth to bedrock--Greater than 200 centimeters
+Soil Moisture--Peraquic moisture regime; continuously saturated to the surface
+Water depth--At or above the soil surface up to a depth of 25 centimeters
+Field measured reaction throughout--Moderately acid to slightly alkaline (pH 6.0 to 7.8)
+Oxidized reaction--Ultra acid to very strongly acid (pH 2.1 to 4.5)
+Depth to hypersulfidic materials (oxidized pH < 4.0)--0 to 50 centimeters
+Particle-size control section (weighted average)--
+Clay content: 18 to 35 percent
+Silt content: 20 to 55 percent
+Shell fragments throughout--0 to 10 percent; size 5 to 20 millimeters
+
+Oa, Oe, Oase, or Oese horizon (where present):
+Hue--10YR or 2.5Y
+Value--2 to 3
+Chroma--1 or 2
+Texture (in lieu)--Muck or mucky peat
+Von Post Humification Class--H6 to H10
+Rubbed fiber--0 to 40%
+Electrical conductivity (saturated paste) throughout--0 to 16 dS/m
+
+Aseg horizon:
+Hue--N, 5Y, 2.5Y, or 10YR
+Value--2 to 3
+Chroma--1 or 2
+Texture--Silt loam, loam, silty clay loam, or clay loam or their mucky analogs
+Manner of failure--Moderately fluid to very fluid
+Organic Carbon content--2.5 to 11 percent
+Electrical conductivity (saturated paste) throughout--0 to 16 dS/m
+
+Cseg1 and Cseg2 horizons:
+Hue--N, 5Y, 2.5Y, or 10YR
+Value--2 to 5
+Chroma--1 or 2
+Texture--Loam, silt loam, sandy clay loam, clay loam, silty clay loam
+Manner of failure--Moderately fluid to very fluid
+Organic Carbon content--1 to 6.5 percent
+Electrical conductivity (saturated paste) throughout--0 to 16 dS/m
+
+Cseg3 and Cseg4 horizons:
+Hue--5Y, 2.5Y, or 10YR
+Value--2 to 5
+Chroma--1 or 2
+Texture--Loamy fine sand, fine sandy loam, sandy loam, loam, or silt loam, or their mucky analogs
+Manner of failure--Nonfluid to very fluid
+Organic Carbon content--0.5 to 6 percent
+Electrical conductivity (saturated paste) throughout--0 to <8 dS/m
+
+2Bgb horizon (where present):
+Hue--5Y, 2.5Y, 10YR, or 7.5YR
+Value--4 to 6
+Chroma--1 or 2
+Texture--Loam, silt loam, or clay loam
+Redoximorphic features (relict)--Fine to coarse masses of oxidized iron with hue of 7.5YR to 2.5Y, value of 4 or 5, and chroma of 4 to 6
+Manner of failure--None to slight
+Organic carbon content--1 to 4
+Electrical conductivity (saturated paste) throughout--2 to <8 dS/m
+
+COMPETING SERIES:
+There are no competing series.
+
+GEOGRAPHIC SETTING:
+Parent material--Fine-loamy estuarine deposits often with organic or mucky mineral layers near the soil surface and throughout
+Landscape--Coastal estuaries
+Landform--Tidal marsh
+Elevation--0 to 1 meter above mean sea level
+Mean Annual Air Temperature--18 to 21 degrees C (65 to 70 degrees F)
+Mean Annual Precipitation--1625 to 1750 millimeters (64 to 69 inches)
+Frost-free period--315 to 365 days
+
+GEOGRAPHICALLY ASSOCIATED SOILS:
+These are the Bridgehead and Lafitte series, all of which occur in adjacent tidal marshes.
+
+Bridgehead soils--35 to 60 percent clay in the particle-size control section
+Lafitte soils--Formed in thick organic materials
+
+DRAINAGE AND SATURATED HYDRAULIC CONDUCTIVITY:
+Drainage class--Very poorly drained
+Saturated hydraulic conductivity--Moderately high
+Soil moisture regime--Peraquic
+Flooding--Very frequently flooded by daily tides for very brief periods
+
+USE AND VEGETATION:
+Major uses--This area is suitable for recreation, wildlife habitat, and shoreline stabilization and protection.  
+Native vegetation--This soil supports forbs and small shrubs tolerant of fresh to moderately saline water. Examples of vegetation include cattail, bulltongue arrowhead, common threesquare, alligatorweed, common reed, saltbush, wax myrtle, swamp bay, and dwarf palmetto. 
+Ecological site--F152AY220FL - Central Coastal Adjacent Tidal Zones
+
+DISTRIBUTION AND EXTENT:
+General area--These soils are located in embayed parts of the East Gulf Coastal Plain of Alabama.
+Land Resource Region--P - South Atlantic and Gulf Slope Cash Crops, Forest, and Livestock Region
+MLRA--152A
+Extent--Small
+
+SOIL SURVEY REGIONAL OFFICE (SSRO) RESPONSIBLE: Auburn, Alabama
+
+SERIES PROPOSED: Baldwin County, Alabama; 2023
+
+REMARKS: The Bateau series is mapped in areas formerly delineated as a Tidal Marsh miscellaneous area in Alabama soil surveys.
+
+Diagnostic horizons and features in this pedon include:
+Peraquic feature--Very frequently flooded; surface is continuously saturated
+Particle-size control section--The zone from 34 to 109 centimeters (13 to 43 inches)
+Ochric epipedon--The zone from 0 to 46 centimeters (0 to 18 inches) (Oa and Aseg horizons)
+Hypersulfidic materials--Within 50 centimeters of the mineral soil surface (the Aseg and Cseg1 horizons, 9 to 59 centimeters).
+N value > 0.7--The zone from 9 to 109 centimeters (Aseg, Cseg1, and Cseg2 horizons)
+Taxonomic version--Keys to Soil Taxonomy, 12th edition (2014)
+
+Fluventic feature--Soil organic carbon content of greater than 0.2 percent at a depth of 125 cm; Keys to Soil Taxonomy 13th edition (2022) series subgroup classification is Fluventic Sulfaquents. 
+
+ADDITIONAL DATA:  Type location taken from 2021AL003041 in Delvan Bay, Baldwin County, AL. Additional support pedons include S2020AL003001, S2020AL003019, S2019MS047001, S2018MS059002, S2018MS059005, S2018MS059006, 2020AL003005, 2020AL003020, 2020AL00342.
+
+
+
+National Cooperative Soil Survey
+U.S.A.
