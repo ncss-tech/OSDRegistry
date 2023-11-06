@@ -1,0 +1,177 @@
+LOCATION MODOCPOINT             OR
+
+Tentative Series
+Rev. KBC/BTH
+11/2023
+
+MODOCPOINT SERIES
+
+Landscape--Intermontane basins
+Landform--alluvial fans, stream terraces
+Slope--0 to 5 percent
+Parent material--alluvium derived from volcanic rock and volcanic ash
+Mean annual precipitation--about 510 mm 
+Mean annual air temperature--about 5.6 degrees C
+Depth class--very deep
+Drainage class--well drained
+Soil moisture regime--xeric
+Soil temperature regime--frigid
+Soil moisture subclass--typic
+
+TAXONOMIC CLASS: Loamy-skeletal, isotic, frigid Vitrandic Haploxerolls
+
+TYPICAL PEDON: Modocpoint ashy coarse sandy loam on a cultivated alluvial fan with a slope of 2 percent and an elevation of 1272 m
+
+ A--0 to 15 cm; ashy coarse sandy loam, dark grayish brown (10YR 4/2) dry, very dark brown (10YR 2/2) moist; moderate fine and medium granular structure; slightly hard, very friable, nonsticky and nonplastic; common very fine, fine, and medium roots throughout; common fine and medium dendritic tubular and coarse tubular pores; 12 percent mixed volcanic gravel; slightly acid (pH 6.5); gradual smooth boundary
+
+ AB--15 to 32 cm; gravelly ashy sandy loam, dark grayish brown (10YR 4/2) dry, dark brown (10YR 3/3) moist; moderate medium subangular blocky structure; slightly hard, friable, nonsticky and nonplastic; common very fine and fine, and few medium roots throughout; common fine and medium dendritic tubular and coarse tubular pores; 25 percent mixed volcanic gravel; neutral (pH 6.6); gradual smooth boundary
+
+ Bw1--32 to 58 cm; gravelly ashy sandy loam, yellowish brown (10YR 5/4) dry, dark yellowish brown (10YR 3/4), moist; moderate medium subangular blocky structure; moderately hard, friable, nonsticky and nonplastic; common very fine and fine and few medium roots; common very fine and fine dendritic tubular pores; 20 percent dark yellowish brown (10YR 3/4), moist, clay bridges between sand grains; 15 percent fine and 15 percent medium mixed volcanic gravel; neutral (pH 7.0); gradual smooth boundary
+
+ Bw2--58 to 94 cm; very gravelly ashy sandy loam, yellowish brown (10YR 5/4) dry, dark yellowish brown (10YR 3/4), moist; moderate coarse subangular blocky structure; moderately hard, friable, nonsticky and nonplastic; common very fine and fine roots; common very fine and fine dendritic tubular pores; 20 percent dark yellowish brown (10YR 3/4), moist, clay bridges between sand grains; 30 percent fine, 10 percent medium, and 5 percent coarse mixed volcanic gravel; neutral (pH 7.2); gradual smooth boundary
+
+ BC--94 to 150 cm; extremely gravelly ashy loamy sand, yellowish brown (10YR 5/4) dry, dark yellowish brown (10YR 3/4) moist; weak coarse subangular blocky structure; soft, friable, nonsticky and nonplastic; common very fine and fine roots; common very fine and fine dendritic tubular pores; 35 percent fine, 20 percent medium, and 10 percent coarse mixed volcanic gravel, and 1 percent mixed volcanic cobbles; neutral (pH 7.2); gradual smooth boundary
+
+ C--150 to 205 cm; gravelly ashy loamy fine sand, yellowish brown (10YR 5/4) dry, dark yellowish brown (10YR 3/4) moist; massive structure; loose, friable, nonsticky and nonplastic; 2 percent dark yellowish brown (10YR 4/4), moist, iron-manganese masses with diffuse boundaries in matrix; 15 percent fine and 10 percent medium mixed volcanic gravel; neutral (pH 7.0)
+
+TYPE LOCATION:  Klamath County, Oregon; about 0.8 mile west of the junction of Highway 97 and Day School Road and 0.3 mile north of Day School Road; about 430 m north and 174 m east of the SW corner section 28, T. 35 S., R. 7 E.; Willamette Meridian; Agency Lake, Oregon USGS quadrangle; latitude 42.5045910 degrees north, longitude 121.8948940 degrees west, datum WGS 84 (coordinates derived from GPS unit).
+
+RANGE IN CHARACTERISTICS: 
+*Average annual soil temperature--5.5 to 8.0 degrees C
+*Soil moisture control section--20 to 80 cm; dry for 60 to 90 consecutive days within the four month period following the summer solstice; seasonally high water table (endosaturation) below the control section between March and June has an upper limit of 120 cm below the surface in normal years
+*Mollic epipedon--18 to 49 cm thick
+*Base saturation throughout the Mollic epipedon--75 to 100 percent by NH4OH
+*Reaction--moderately acid to neutral
+
+Estimated properties:
+*Volcanic glass content--5 to 20 percent 
+*Acid oxalate Al+1/2Fe--0.2 to 0.4 percent 
+*Moist bulk density--1.0 to 1.2 g/cc
+*15 bar water retention--10 to 15 percent on air dried samples
+
+Particle-size control section:
+*Clay content--5 to 17 percent
+*Total rock fragment content--35 to 75 percent
+
+A horizon(s)
+*Value--4 or 5 dry, 2 or 3 moist
+*Chroma--2 or 3 dry or moist
+*Clay content--5 to 15 percent
+*Gravel content--0 to 14 percent
+*Paragravel content--0 to 5 percent
+*Total rock and pararock fragment content--0 to 14 percent
+*Thickness--10 to 49 cm
+
+AB horizon(s) (where present)
+*Value--4 or 5 dry, 2 or 3 moist
+*Chroma--2 or 3 dry or moist
+*Fine-earth texture--ashy loamy sand, ashy sandy loam, ashy loam
+*Clay content--5 to 15 percent
+*Gravel content--10 to 30 percent
+*Paragravel content--0 to 5 percent
+*Total rock and pararock fragment content--10 to 30 percent
+*Thickness--0 to 20 cm
+
+Bw horizon(s)
+*Value--4 to 6 dry, 3 or 4 moist
+*Chroma--2 to 4 dry or moist
+*Fine-earth texture--ashy loamy sand, ashy coarse sandy loam, ashy sandy loam, ashy loam
+*Clay content--5 to 17 percent
+*Gravel content--10 to 55 percent
+*Cobble content--0 to 5 percent
+*Paragravel content--0 to 5 percent
+*Total rock and pararock fragment content--10 to 55 percent
+*Thickness--40 to 100 cm
+
+BC horizon (where present)
+*Value--4 to 6 dry, 3 or 4 moist
+*Chroma--2 to 4 dry or moist
+*Fine-earth texture--ashy loamy sand, ashy loamy fine sand, ashy coarse sandy loam, ashy sandy loam
+*Clay content--5 to 13 percent
+*Gravel content--25 to 75 percent 
+*Cobble content--0 to 5 percent
+*Paragravel content--0 to 5 percent
+*Total rock and pararock fragment content--25 to 75 percent
+*Thickness--0 to 55 cm
+
+C horizon
+*Value--4 to 6 dry, 3 or 4 moist
+*Chroma--2 to 4 dry or moist
+*Fine-earth texture--ashy loamy sand, ashy loamy fine sand, ashy coarse sandy loam, ashy sandy loam
+*Clay content--5 to 13 percent
+*Gravel content--20 to 70 percent
+*Cobble content--0 to 5 percent
+*Paragravel content--0 to 5 percent
+*Total rock and pararock fragment content--20 to 75 percent
+
+COMPETING SERIES:
+Bearspring--parent material is granitic; 90 to 120 frost-free days
+Bigelk--lithologic discontinuity; soil moisture control section is dry for 45 to 60 days
+Cassal--deep to densic contact; moderately well drained
+Cherrycreek--deep to bedrock; thickness of the mollic epipedon is greater than 50 cm
+Deck--moderately deep to lithic contact
+Eastpine--moderately deep to bedrock
+Egyptcreek--moderately deep to bedrock
+Fredonyer--moderately deep to bedrock
+Golfer--moderately deep to paralithic contact
+Grubcreek--moderately deep to bedrock
+Kettlecreek--deep to bedrock; lithologic discontinuity
+Longs--deep to bedrock; thickness of the mollic epipedon is greater than 50 cm
+McCrosket--deep to bedrock
+Midpeak--moderately deep to bedrock; lithologic discontinuity
+Mineral--moderately deep to bedrock
+Peahke--moderately deep to bedrock
+Piersonte--parent material is shale or schist; upper part of the Bw horizons has 18 to 30 percent clay and 50 to 70 percent shale fragments; lower part of the Bw horizons has 50 to 80% shale fragments
+Porch--moderately deep to bedrock
+Scoap--thickness of the mollic epipedon is at least 50 cm; 90 to 120 frost-free days
+Shalrock--moderately deep to bedrock; lithologic discontinuity
+Shilling--18 to 27 percent clay in the particle-size control section
+Umatilla--25 to 35 percent clay in the particle-size control section; lithologic discontinuity
+Webbgulch--moderately deep to bedrock
+Yellcreek--influence of ash only in the upper part; lithologic discontinuity; thickness of the mollic epipedon is at least 50 cm
+
+GEOGRAPHIC SETTING:
+Elevation--1260 to 1300 m
+Climate--cold, wet winters and warm, dry summers
+Mean annual precipitation--455 to 560 mm
+Mean annual air temperature--4.5 to 6.9 degrees C
+Frost-free period--40 to 70 days
+
+GEOGRAPHICALLY ASSOCIATED SOILS:
+Bly--100 to 200 cm to a duripan (deep or very deep); argillic horizon; alluvial fans and terraces
+Chiloquin--90 to 110 cm to apparent high water table (moderately well drained); flood plains and terraces
+Dragonfly--50 to 100 cm to apparent high water table (somewhat poorly drained); particle-size control section is ashy and non-skeletal; floodplains
+Henley--50 to 100 cm to duripan (moderately deep); 50 to 110 frost-free days; stream terraces
+Lobert--particle-size control section averages less than 15 percent coarse fragments; stream terraces
+Ontko--saturated for 30 to 60 days in the spring; 10 to 50 cm to layers meeting aquandic subgroup criteria (very poorly or poorly drained); flood plains
+
+DRAINAGE AND SATURATED HYDRAULIC CONDUCTIVITY:
+Drainage class--well drained
+Saturated hydraulic conductivity--moderately high to very high
+
+USE AND VEGETATION:
+Use--timber production, livestock grazing, irrigated and dryland small grains, hay, pasture, homesites
+Vegetation--ponderosa pine, big sagebrush, antelope bitterbrush, Ross's sedge, Idaho fescue,
+
+DISTRIBUTION AND EXTENT: Klamath and Shasta Valleys and Basins, Oregon; MLRA 21; small extent
+
+SOIL SURVEY REGIONAL OFFICE (SSRO) RESPONSIBLE: Davis, California
+
+SERIES PROPOSED: Klamath County, Oregon, 2019
+Origin of the name--Modoc Point is a named geographic feature (high point on a nearby scarp, and a landform feature that juts out into Upper Klamath Lake), a USGS quadrangle map name, and the name of a road near the type location of this soil series.
+
+REMARKS:
+Diagnostic horizons and other features recognized in this pedon
+*Mollic epipedon--A, AB horizons
+*Cambic horizon--Bw1, Bw2 horizons
+*Volcanic glass--all horizons
+*Vitrandic subgroup criteria--all horizons
+*Redoximorphic concentrations--C horizon
+*Particle-size control section--the zone from 25 to 100 cm
+
+ADDITIONAL DATA:
+*NASIS Site ID: 2019OR035054
+*NASIS Pedon ID: 2019OR035054
+
+National Cooperative Soil Survey
+U.S.A.

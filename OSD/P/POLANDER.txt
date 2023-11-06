@@ -1,64 +1,133 @@
 LOCATION POLANDER               OR
 
 Established Series
-Rev.RHB/RWL
-08/2000
+Rev. RHB/RWL/CEG
+11/2023
 
 POLANDER SERIES
 
-The Polander series consists of deep, well drained soils that formed in colluvium and residuum primarily from pyroclastic rocks.  Polander soils are on mountainsides with slopes of 0 to 70 percent.  The mean annual precipitation is about 30 inches and the mean annual temperature is about 44 degrees F.
+Landform--mountainslopes, hills, dipslopes, scarpslopes
+Slope--0 to 70 percent
+Parent material--volcanic ash mixed with colluvium and residuum, primarily from pyroclastic rocks
+Mean annual precipitation--about 760 mm
+Mean annual air temperature--about 6.7 degrees C
+Depth class--very deep and deep to a paralithic contact
+Drainage class--well drained
+Soil moisture regime--xeric
+Soil temperature regime--frigid
+Soil moisture subclass--typic
 
 TAXONOMIC CLASS: Ashy, glassy, frigid Typic Vitrixerands
 
-TYPICAL PEDON: Polander sandy loam, in forest on a 41 percent north facing slope.  (Colors are for moist soil unless otherwise noted.)
+TYPICAL PEDON: Polander ashy sandy loam, in forest on a 41 percent north facing slope at an elevation of about 1715 m
 
-    0i--1 inch to 0; ponderosa pine needles.
+ Oi--1 to 3 cm; slightly decomposed ponderosa pine needles.
 
-    A--0 to 3 inches; very dark grayish brown (10YR 3/2) sandy loam, dark grayish brown (10YR 4/2) dry; weak very fine granular structure; soft, very friable, nonsticky and nonplastic; common roots; many very fine and fine irregular pores; 10 percent gravel; slightly acid (pH 6.4); abrupt wavy boundary.  (2 to 6 inches thick)
+ A--3 to 10 cm; ashy sandy loam, dark grayish brown (10YR 4/2) dry, very dark grayish brown (10YR 3/2) moist; weak very fine granular structure; soft, very friable, nonsticky and nonplastic; common roots; many very fine and fine irregular pores; 10 percent gravel; slightly acid (pH 6.4); abrupt wavy boundary.  (5 to 15 cm thick)
 
-    AB--3 to 14 inches; dark grayish brown (10YR 4/2) sandy loam, grayish brown (10YR 5/2) dry; weak very fine granular structure; slightly hard, friable, nonsticky and nonplastic; common roots; common very fine and fine irregular pores; 10 percent gravel; slightly acid (pH 6.2); gradual wavy boundary.  (8 to 15 inches thick)
+ AB--10 to 39 cm; ashy sandy loam, grayish brown (10YR 5/2) dry, dark grayish brown (10YR 4/2) moist; weak very fine granular structure; slightly hard, friable, nonsticky and nonplastic; common roots; common very fine and fine irregular pores; 10 percent gravel; slightly acid (pH 6.2); gradual wavy boundary.  (20 to 38 cm thick)
 
-    Bw--14 to 38 inches; dark grayish brown (10YR 4/2) sandy loam, light brownish gray (10YR 6/2) and grayish brown (10YR 5/2) dry; weak fine subangular blocky structure; hard, friable, slightly sticky and nonplastic; common roots; common very fine and fine irregular pores; 10 percent gravel; moderately acid (pH 6.0); gradual wavy boundary.  (20 to 31 inches thick)
+ Bw--39 to 99 cm; ashy sandy loam, light brownish gray (10YR 6/2) and grayish brown (10YR 5/2) dry, dark grayish brown (10YR 4/2) moist; weak fine subangular blocky structure; hard, friable, slightly sticky and nonplastic; common roots; common very fine and fine irregular pores; 10 percent gravel; moderately acid (pH 6.0); gradual wavy boundary.  (51 to 79 cm thick)
 
-    C-- 38 to 50 inches; dark grayish brown (10YR 4/2) cobbly loam, light brownish gray (10YR 6/2) dry; massive; hard, friable, nonsticky and nonplastic; common roots; few very fine tubular pores; 15 percent cobbles, 10 percent gravel; moderately acid (pH 5.8); abrupt wavy boundary.  (10 to 16 inches thick)
+ C--99 to 130 cm; cobbly ashy loam, light brownish gray (10YR 6/2) dry, dark grayish brown (10YR 4/2) moist; massive; hard, friable, nonsticky and nonplastic; common roots; few very fine tubular pores; 15 percent cobbles, 10 percent gravel; moderately acid (pH 5.8); abrupt wavy boundary.  (25 to 41 cm thick)
 
-    Cr-- 50 inches; highly weathered tuffaceous bedrock.
+ Cr--130 cm; highly weathered tuffaceous bedrock.
 
-TYPE LOCATION:  Lake County, Oregon; SW1/4, NE1/4 of section 28, T. 37 S., R 21 E.
+TYPE LOCATION: Lake County, Oregon, about 10 miles north and 5 miles east of the town of Lakeview, OR; SW1/4, NE1/4 of section 28, T. 37 S., R 21 E., Willamette Meridian; Crook Peak, Oregon USGS quadrangle; latitude 42.3331108 degrees north, longitude 120.2465591 degrees west, datum WGS84 (coordinates estimated from PLSS details)
 
-RANGE IN CHARACTERISTICS:  The soils are moist in the winter and spring and are dry for 60 to 100 consecutive days after the summer solstice.  The mean annual soil temperature is 45 to 47 degrees F.  The bulk density is 0.85 to 0.95 grams per cubic centimeter.  Depth to bedrock is 40 to 60 inches.  The particle-size control section averages 0 to 15 percent rock fragments.  It has 10 to 18 percent clay.  The very fine sand fraction has 50 to 70 percent glass.  It is moderately to slightly acid.
+RANGE IN CHARACTERISTICS: 
 
-The A horizon has hue of 10YR or 7.5YR, value of 2 or 3 when moist and 4 or 5 when dry, and chroma of 2 or 3 when moist and 3 or 4 when dry.
+Soil Temperature: frigid regime
+Mean annual soil temperature-5.5 to 8.3 degrees C
+Moisture control section--20 to 60 cm; xeric regime; moist in the winter and spring; dry in all parts for 60 to 100 consecutive days after the summer solstice
+Depth to paralithic contact--greater than 100 cm from mineral soil surface
 
-The Bw horizon has hue of 10YR or 7.5YR, value of 3 or 4 when moist and 5 or 6 when dry, and chroma of 3 or 4 when moist and dry.  It is loam or sandy loam.  Rock fragments range from 0 to 15 percent of which 0 to 5 percent are cobbles and 0 to 15 percent are gravel.
+Particle-size control section
+*Clay content--10 to 18 percent
+*Sand content--55 to 90 percent
+*Rock fragment content--0 to 15 percent
+*Reaction--moderately to slightly acid (pH 5.6 to 6.5)
 
-The C horizon has color similar to the Bw horizon.  It is loam or sandy loam and has 10 to 30 percent cobbles and 5 to 20 percent gravel.
+Estimated andic properties, from the mineral soil surface to the C horizon:
+*Medium to very coarse sand in the .02 to 2.0 mm fraction--less than 50 percent
+*Volcanic glass content--50 to 70 percent in the very fine sand fraction
+*1/3-bar bulk density--0.85 to 1.10 g/cm3
 
-COMPETING SERIES:  There are no competing series.
+A horizon
+Hue--7.5YR or 10YR moist or dry
+Value--2 to 3 moist, 4 or 5 dry
+Chroma--2 or 3 moist, 3 or 4 dry
 
-GEOGRAPHIC SETTING:  Polander soils are on mountainsides at elevations of 5,500 to 7,200 feet.  Slopes are 0 to 70 percent.  The soils formed in colluvium and residuum primarily from pyroclastic rocks.  The climate is cool and moist in winters and warm and dry in summers.  The mean annual precipitation is 28 to 32 inches.  The mean annual temperature is 43 to 45 degrees.  The frost-free period is 30 to 50 days.
+Bw horizon
+Hue--7.5YR or 10YR moist or dry
+Value--3 or 4 moist, 5 to 7 dry
+Chroma--3 or 4 moist or dry
+Fine-earth texture-ashy loam, ashy sandy loam, ashy loamy sand
+Total content of rock fragments--0 to 15 percent
+Gravel content--0 to 15 percent
+Cobble content--0 to 5 percent
 
-GEOGRAPHICALLY ASSOCIATED SOILS:  These are the Kittleson, Rogger, Twelvemile, Winterim, Woodchopper and Mound soils.  The Kittleson soils have cryic soil temperatures.  The Mound, Rogger, Winterim and Woodchopper soils have mollic epipedons.  Twelvemile soils are ashy-skeletal.
+C horizon
+Hue--7.5YR or 10YR moist or dry
+Value--3 or 4 moist, 5 or 6 dry
+Chroma--3 or 4 moist or dry
+Fine-earth texture--ashy loam, ashy sandy loam, ashy loamy sand
+Gravel content--5 to 20 percent
+Cobble content--10 to 30 percent
 
-DRAINAGE AND PERMEABILITY:  Well drained; moderately rapid permeability.
+COMPETING SERIES:
+Chiwawa--15 to 35 percent pumice pararock fragments in the particle-size control section; lithologic discontinuity with glacial outwash materials between 100 and 150 cm from the mineral soil surface
+Mountsun--greater than 50 percent medium to very coarse sand in the .02 to 2.0 mm fraction; contains pumice pararock fragments
+Thow--5 to 35 percent pumice pararock fragments in the particle-size control section; lithologic discontinuity with glacial till material between 100 and 200 cm from the mineral soil surface
+Vinegar--5 to 35 percent pumice pararock fragments in the particle-size control section
 
-USE AND VEGETATION:  The soils are used primarily for timber production, watershed, wildlife habitat, recreation, and grazing by livestock.  Vegetation is white fir, ponderosa pine, common snowberry, heartleaf arnica, and wheeler bluegrass.
+GEOGRAPHIC SETTING:
+Elevation--1475 to 2200 m
+Climate--cool moist winters, warm dry summers
+Mean annual air temperature--4.4 to 7.2 degrees C
+Mean annual precipitation--390 to 900 mm
+Frost-free period--30 to 80 days
 
-DISTRIBUTION AND EXTENT:  South central Oregon, MLRA 21.  The series is of moderate extent.
+GEOGRAPHICALLY ASSOCIATED SOILS:
+Kittleson--cryic soil temperature regime
+Rogger--mollic epipedon
+Twelvemile--ashy-skeletal
+Winterim--mollic epipedon
+Woodchopper--mollic epipedon
+Mound--mollic epipedon
 
-MLRA SOIL SURVEY REGIONAL OFFICE (MO) RESPONSIBLE: Davis, California
+DRAINAGE AND SATURATED HYDRAULIC CONDUCTIVITY:
+Drainage class--well drained
+Saturated hydraulic conductivity (Ksat)--high
 
-SERIES ESTABLISHED:  Lake County, Oregon; Southern Part; 1991.
+USE AND VEGETATION:
+Use--timber production, watershed, wildlife habitat, recreation, and grazing by livestock
+Vegetation--white fir, ponderosa pine, common snowberry, heartleaf arnica, Wheeler's bluegrass
 
-REMARKS:  Diagnostic horizons and features recognized in this pedon are:
+DISTRIBUTION AND EXTENT: Klamath and Shasta Valleys and Basins, Oregon; MLRA 21; moderate extent
 
-Ochric epipedon - 0 to 14 inches (A and AB horizons)
+SOIL SURVEY REGIONAL OFFICE (SSRO) RESPONSIBLE: Davis, California
 
-Cambic horizon - 14 to 38 inches (Bw horizon)
+SERIES ESTABLISHED:
+Lake County, Oregon; Southern Part; 1991.
 
-Classification into Andisols is based on laboratory data (glass count and 15 bar water) for the Twelvemile series.  Phosphorous retention is assumed to be greater than 25 percent and acid oxylate extractable aluminum plus one-half of the acid oxylate extractable iron is assumed to be greater than 0.4 percent.
+REMARKS:
+Diagnostic horizons and features in this pedon
+*Ochric epipedon
+*Cambic horizon--3 to 39 cm
+*Andic soil properties--3 to 99 cm
+*Particle-size control section--3 to 103 cm
+*Paralithic contact--tuffaceous bedrock at 130 cm
 
-ADDITIONAL DATA:  Forest Service vegetative site CW-C4-11.
+Classification into Andisols is based on laboratory data (glass count and 15 bar water) for the Twelvemile series.  Phosphorous retention is assumed to be greater than 25 percent and acid oxalate-extractable aluminum plus one-half of the acid oxalate-extractable iron is assumed to be greater than 0.4 percent.
+
+8/31/2023-This official series description was updated according to SSR01 Technical Note-Content and Format of Official Series Descriptions (revised 11/2017). Most of the changes were in formatting. Also added ashy modifiers and volcanic ash parent materials, added ashy loamy sand textures to the RIC, expanded ranges of elevation, precipitation, and temperature, updated competing series section, and expanded depth class to include very deep soils (see trip report from May 2015 field review from OR683 Soil Survey Area Project)
+
+ADDITIONAL DATA:
+Forest Service vegetative site CW-C4-11.
+
+NASIS SITE ID--1991OR037005
+NASIS PEDON ID--1991OR037005
 
 National Cooperative Soil Survey
 U.S.A.
