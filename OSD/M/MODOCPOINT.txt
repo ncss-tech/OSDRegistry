@@ -11,7 +11,7 @@ Landform--alluvial fans, stream terraces
 Slope--0 to 5 percent
 Parent material--alluvium derived from volcanic rock and volcanic ash
 Mean annual precipitation--about 510 mm 
-Mean annual air temperature--about 5.6 degrees C
+Mean annual air temperature--about 6 degrees C
 Depth class--very deep
 Drainage class--well drained
 Soil moisture regime--xeric
@@ -37,7 +37,7 @@ TYPICAL PEDON: Modocpoint ashy coarse sandy loam on a cultivated alluvial fan wi
 TYPE LOCATION:  Klamath County, Oregon; about 0.8 mile west of the junction of Highway 97 and Day School Road and 0.3 mile north of Day School Road; about 430 m north and 174 m east of the SW corner section 28, T. 35 S., R. 7 E.; Willamette Meridian; Agency Lake, Oregon USGS quadrangle; latitude 42.5045910 degrees north, longitude 121.8948940 degrees west, datum WGS 84 (coordinates derived from GPS unit).
 
 RANGE IN CHARACTERISTICS: 
-*Average annual soil temperature--5.5 to 8.0 degrees C
+*Average annual soil temperature--6 to 8 degrees C
 *Soil moisture control section--20 to 80 cm; dry for 60 to 90 consecutive days within the four month period following the summer solstice; seasonally high water table (endosaturation) below the control section between March and June has an upper limit of 120 cm below the surface in normal years
 *Mollic epipedon--18 to 49 cm thick
 *Base saturation throughout the Mollic epipedon--75 to 100 percent by NH4OH

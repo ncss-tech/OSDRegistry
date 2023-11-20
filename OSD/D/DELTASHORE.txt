@@ -1,0 +1,152 @@
+LOCATION DELTASHORE             OR
+
+Tentative Series
+Rev. KBC/BTH
+11/2023
+
+DELTASHORE SERIES
+
+Landscape--intermontane basins
+Landform--flood plains
+Slope--0 to 1 percent
+Parent material--sandy alluvium derived from coarse pumiceous volcanic ash and pumiceous tephra
+Mean annual precipitation--about 440 mm
+Mean annual air temperature--about 9 degrees C
+Depth class--very deep
+Drainage class--poorly and very poorly drained
+Soil moisture regime--aquic
+Soil temperature regime--mesic
+Soil moisture subclass--typic
+
+TAXONOMIC CLASS: Ashy, glassy, mesic Aquandic Endoaquolls
+
+TYPICAL PEDON: Deltashore ashy loamy coarse sand on marshland with a slope of 1 percent and an elevation of 1263 m
+
+ A1--0 to 8 cm; ashy loamy coarse sand, gray (10YR 5/1) dry, very dark brown (10YR 2/2) moist; weak fine granular structure; soft, very friable, nonsticky and nonplastic; common very fine and fine roots throughout; common very fine and fine dendritic tubular pores; 10 percent by volume fine and medium rounded pumice paragravel; noneffervescent; moderately acid (pH 6.0); gradual smooth boundary
+
+ A2--8 to 20 cm; ashy coarse sand, gray (10YR 5/1) dry, very dark brown (10YR 2/2) moist; weak fine and medium granular structure; soft, very friable, nonsticky and nonplastic; common very fine to medium roots throughout; common very fine and fine pores; 10 percent by volume fine and medium rounded pumice paragravel; noneffervescent; neutral (pH 7.0); gradual smooth boundary
+
+ BA--20 to 40 cm; ashy coarse sand, gray (10YR 5/1) dry, very dark brown (10YR 2/2) moist; weak medium subangular blocky structure; soft, very friable, nonsticky and nonplastic; common very fine and fine roots throughout; common very fine and fine dendritic tubular pores; 5 percent medium irregular grayish brown (10YR 5/2) iron depletions in matrix with diffuse boundaries; 10 percent by volume fine and medium rounded pumice paragravel; noneffervescent; moderately alkaline (pH 8.0); gradual smooth boundary
+
+ Bg--40 to 60 cm; ashy coarse sand, light gray (10YR 7/2) moist and dry; weak coarse subangular blocky structure; soft, very friable, nonsticky and nonplastic; common very fine and fine roots throughout; common very fine and fine dendritic tubular pores; 20 percent medium irregular masses of iron-manganese in matrix with diffuse boundaries, dark yellowish brown (10YR 4/4) moist; 12 percent by volume fine and medium rounded pumice paragravel; noneffervescent; moderately alkaline (pH 8.0); gradual smooth boundary
+
+ BCg--60 to 100 cm; ashy coarse sand, light gray (10YR 7/2) moist and dry; single grain; loose, loose, nonsticky and nonplastic; 20 percent medium irregular masses of iron-manganese in matrix with diffuse boundaries, yellowish brown (10YR 5/6) moist; 12 percent by volume fine and medium rounded pumice paragravel; noneffervescent; moderately alkaline (pH 8.0); gradual smooth boundary
+
+ Cg1--100 to 150 cm; paragravelly ashy coarse sand, white (2.5Y 8/1) dry, 70 percent light gray (2.5Y 7/2) and 30 percent light yellowish brown (2.5Y 6/4) moist; single grain; loose, loose, nonsticky and nonplastic; 30 percent by volume fine and medium rounded pumice paragravel; noneffervescent; slightly alkaline (pH 7.5); abrupt smooth boundary
+
+ Cg2--150 to 200 cm; ashy coarse sand, pale yellow (2.5Y 8/2) dry, 70 percent light gray (2.5Y 7/2) and 30 percent light yellowish brown (2.5Y 6/4) moist; single grain; loose, loose, nonsticky and nonplastic; 5 percent by volume fine rounded pumice paragravel; noneffervescent; moderately alkaline (pH 8.0)
+
+TYPE LOCATION: Klamath County, Oregon; about 412 m west and 653 m north of the southeast corner of sec. 6, T. 36 S., R. 7 E., Willamette Meridian; Shoalwater Bay, Oregon USGS quadrangle; latitude 42.4779130 degrees north, longitude 121.9218300 degrees west, datum WGS84 (coordinates derived from GPS unit)
+
+RANGE IN CHARACTERISTICS: 
+
+Mean annual soil temperature--8 to 11 degrees C
+Moisture control section--30 to 90 cm; wet throughout in most years through spring and early summer
+Medium to very coarse sand in the .02 to 2.0 mm fraction--greater than 50 percent
+Thickness of mollic epipedon--25 to 45 cm
+Depth to redoximorphic depletions--15 to 45 cm below the mineral soil surface
+Depth to redoximorphic concentrations--40 to 60 cm below the mineral soil surface
+Depth to high water table--0 to 50 cm, March through May; 30 to 80 cm, June; 25 to 150 cm, July through February 
+
+Particle-size control section
+*Clay content--1 to 10 percent
+*Pararock fragment content--5 to 30 percent pumice paragravel
+
+Estimated properties:
+*Ammonium oxalate extractable Al plus 1/2Fe--0.05 to 0.2 percent 
+*Medium to very coarse sand in the .02 to 2.0 mm fraction--greater than 50 percent
+*P retention--3 to 20 percent
+*Volcanic glass content--5 to 60 percent
+*1/3-bar bulk density--0.75 to 1.1 g/cm3
+*1500 kPa water (air-dried samples)--3 to 12 percent
+
+A horizon(s)
+Value--2 or 3 moist, 4 or 5 dry
+Chroma--1 to 3 moist or dry
+Fine-earth texture--ashy loamy sand, ashy loamy coarse sand, ashy coarse sand
+Clay content--2 to 10 percent
+Paragravel content--5 to 20 percent
+Reaction--moderately acid to slightly alkaline (pH 5.6 to 7.8)
+Thickness--5 to 30 cm
+
+BA horizon (where present)
+Value--2 or 3 moist, 4 or 5 dry
+Chroma--1 to 3 moist or dry
+Fine-earth texture--ashy loamy sand, ashy loamy coarse sand, ashy coarse sand
+Clay content--2 to 10 percent clay
+Paragravel content--5 to 20 percent
+Reaction--neutral to moderately alkaline (pH 6.6 to 8.4)
+Thickness--20 to 30 cm
+
+Bg and BCg horizon(s)
+Value--4 to 7 moist or dry
+Chroma--1 to 3 moist or dry
+Fine-earth texture--ashy loamy sand, ashy loamy coarse sand, ashy coarse sand
+Clay content--1 to 10 percent
+Paragravel content--5 to 30 percent
+Reaction--slightly to moderately alkaline (pH 7.4 to 8.4)
+Thickness--50 to 70 cm
+
+Cg horizon(s)
+Value--5 to 8 moist or dry
+Chroma--1 to 4 moist, 1 to 3 dry
+Fine-earth texture--ashy loamy sand, ashy loamy coarse sand, ashy coarse sand
+Clay content--1 to 8 percent
+Paragravel content--5 to 40 percent
+Reaction--slightly to moderately alkaline (pH 7.4 to 8.4)
+
+COMPETING SERIES:
+Cocolalla--very fine sandy loam or finer textures; less than 50 percent medium to very coarse sand in the .02 to 2.0 mm fraction
+Waterflat--secondary carbonates within 100 cm of the soil surface
+Wetvit--gravelly 2C horizon
+
+GEOGRAPHIC SETTING:
+Elevation--1260 to 1270 m
+Climate--warm, dry summers; cool, wet winters
+Mean annual air temperature--6.9 to 10.9 degrees C
+Mean annual precipitation--435 to 575 mm
+Frost-free period--50 to 90 days
+
+GEOGRAPHICALLY ASSOCIATED SOILS:
+Algoma--drained lake bottoms and flood plains; lithologic discontinuity; strongly contrasting textures in C horizons
+Shoalwater--tentative series; flood plains; 50 to 100 cm to high water table (somewhat poorly drained); xeric soil moisture regime
+Epiphany--tentative series; flood plains; calcareous; less than 50 percent medium to very coarse sand in the .02 to 2.0 mm fraction; diatomaceous materials in the lower part of the profile
+Henley--low terraces; moderately deep to a duripan; natric horizons; free carbonates present; ochric epipedon
+Laki--terraces; greater than 100 cm to apparent high water table (moderately well drained); 18 to 25 percent clay in the particle-size control section (loamy textures); secondary carbonates present
+Malin--flood plains and lake bottoms; calcareous; exchangeable sodium accumulations; 35 to 50 percent clay in the particle-size control section
+Teeters--flood plains and drained lake bottoms; calcareous; diatomaceous parent materials; salt accumulations
+Tulana--lake bottoms; parent materials are lacustrine sediments high in diatoms and amorphous material; fine-silty particle-size class
+
+DRAINAGE AND SATURATED HYDRAULIC CONDUCTIVITY:
+Drainage class--poorly and very poorly drained
+Saturated hydraulic conductivity (Ksat)--high to very high
+Flooding--frequent, long; March to May
+Ponding--frequent, long; March to June
+
+USE AND VEGETATION:
+Use--wildlife habitat
+Vegetation--cattails, willow, hardstem bulrush, sedges, and marsh grasses
+
+DISTRIBUTION AND EXTENT: Klamath and Shasta Valleys and Basins, Oregon; MLRA 21; small extent
+
+SOIL SURVEY REGIONAL OFFICE (SSRO) RESPONSIBLE: Davis, California
+
+SERIES PROPOSED: Klamath County, Oregon; 2019
+Origin of the name--the name is coined (this soil occurs along the shoreline of the Williamson River Delta)
+
+REMARKS:
+Diagnostic horizons and features in this pedon
+*Particle-size control section--the zone from 6 to 106 cm
+*Mollic epipedon--A1, A2, BA horizons
+*Andic soil properties--all horizons
+*Aquic conditions--all horizons
+*Volcanic glass--all horizons
+*Redoximorphic depletions-BA, Bg, BCg and Cg horizons
+*Redoximorphic concentrations--Bg, BCg horizons
+
+ADDITIONAL DATA: 
+NASIS SITE ID--2019OR035052
+NASIS PEDON ID--2019OR035052
+
+National Cooperative Soil Survey
+U.S.A.
