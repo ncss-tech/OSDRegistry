@@ -1,0 +1,132 @@
+LOCATION MULLET                 FL
+
+Tentative Series
+RBT
+11/2023
+
+MULLET SERIES
+
+MLRA(s)--155
+Depth class--Very deep
+Drainage class--Subaqueous
+Water depth range--70 to 150 centimeters (a few sites have deeper water over the soil surface up to 300 centimeters)
+Parent material--Sandy lagoonal deposits
+Geomorphic location--Washover-fan flats and slopes
+Slope range for Series--0 to 1 percent
+Mean annual air temperature--22 degrees C (71.6 degrees F)
+Mean annual precipitation--1300 millimeters (51.1 inches)
+Mean annual water temperature--24.7 degrees C (76.6 degrees F)
+
+TAXONOMIC CLASS: Mixed, hyperthermic Typic Psammowassents
+
+TYPICAL PEDON: Mullet sand on an east facing, 0 percent linear slope bare sand washover-fan flat under 0.91 meters of estuarine water. Tidal range is 24 cm. (Colors are for moist soil unless otherwise noted).
+
+ Aseg--0 to 9 centimeters; dark greenish gray (5GY 4/1) shelly loamy fine sand; single grain; slightly sticky, nonplastic; nonfluid; few fine roots at the top of the horizon; 20 percent shell fragments; strong sulfurous odor; moderately alkaline (pH 8.2); clear boundary. (0 to 17 centimeters thick)
+
+ Cseg1--9 to 54 centimeters; dark greenish gray (5GY 4/1) shelly loamy fine sand; single grain; slightly sticky, nonplastic; nonfluid; 30 percent shell fragments; slight sulfurous odor; moderately alkaline, (pH 8.4); abrupt boundary.
+
+ Cseg2--54 to 93 centimeters; greenish gray (5GY 6/1) loamy fine sand; single grain; slightly sticky, nonplastic; slightly fluid; 1 percent shell fragments; slight sulfurous odor; moderately alkaline, (pH 8.4); gradual boundary.
+
+ Cseg3--93 to 102 centimeters; greenish gray (10Y 5/1) loamy fine sand; single grain; slightly sticky, nonplastic; nonfluid; moderate sulfurous odor; strongly alkaline, (pH 8.5); clear boundary.
+
+ Cseg4--102 to 152 centimeters; greenish gray (10GY 5/1) loamy fine sand; single grain; slightly sticky, nonplastic; nonfluid; 3 percent shell fragments; slight sulfurous odor; strongly alkaline, (pH 8.6); clear boundary.
+
+ Cseg5--152 to 159 centimeters; greenish gray (5GY 5/1) silt loam; massive; slightly sticky, nonplastic; slightly fluid; 3 percent shell fragments; slight sulfurous odor; strongly alkaline, (pH 8.5); clear boundary.
+
+ Cseg6--159 to 175 centimeters; greenish gray (5GY 5/1) fine sand; single grain; nonsticky, nonplastic; nonfluid; 3 percent shell fragments; slight sulfurous odor; strongly alkaline, (pH 8.5); clear boundary.
+
+ Cseg7--175 to 193 centimeters; dark greenish gray (10GY 4/1) fine sand; single grain; nonsticky, nonplastic; nonfluid; 2 percent shell fragments; no sulfurous odor; moderately alkaline, (pH 8.3).
+
+TYPE LOCATION: Brevard County, Florida; approximately 4,021 feet northwest of the Delta Operations Center at the Kennedy Space Center facility and approximately 553 feet west of Titan III Road on the back side of the Cape Canaveral Space Force Station; USGS topographic quadrangle: False Cape, Florida.
+Latitude--28.5115440
+Longitude-- -80.5853876
+Datum--WGS84
+Coordinate source--Manually entered from GPS
+
+RANGE IN CHARACTERISTICS:
+Depth to bedrock--Greater than 200 centimeters
+Particle--size control section--Sandy with some C horizons with considerable shell fragments
+Soil moisture--Continuously inundated
+Reaction throughout--Slightly alkaline to strongly alkaline (pH 7.4 to 9.0)
+Oxidized reaction--?
+Electrical conductivity (1:5 soil-water) throughout--0.6 dS/m or greater
+Depth to sulfidic materials (oxidized pH4.0)--?
+Manner of failure--Nonfluid throughout
+Shell fragments throughout--0 to 75 percent (few horizons have 0 percent shell fragments)
+
+Aseg horizon, where present-
+Hue--10Y, 5GY or is neutral
+Value--3 to 4
+Chroma--1 or less
+Texture--Sand, loamy fine sand, or fine sandy loam (fine sandy loam pedons require the soil to be a taxadjunct) with shelly analogs
+
+Cseg horizon-
+Hue--2.5Y, 5Y, 10Y, 5GY, 5G, 10GY, or is neutral
+Value--3 to 8
+Chroma--2 or less
+Textures--Fine sand, sand, coarse sand, loamy sand, or loamy fine sand with shelly, very shelly, or extremely shelly analogs (very shelly and extremely shelly occurrences require the soil to be a taxadjunct)
+
+Asegb horizon, where present-
+Hue--2.5Y to 10Y
+Value--2.5 to 3
+Chroma--1 or 2
+Texture--Sand or loamy sand
+
+Thin strata of finer material are found in some pedons which put some sites into a different taxonomic great group. 
+
+COMPETING SERIES: Bastropbay is the only other competing series.
+Bastropbay soils--are on active flood-tidal delta landforms, do not have sulfurous odors and have significantly less shell fragments
+
+GEOGRAPHIC SETTING:
+Parent material--Sandy lagoonal deposits
+Landscape--Coastal lagoons
+Landform--Washover-fan flats and slopes
+Slope--0 to 1 percent
+Mean annual precipitation--970 to 1570 millimeters (38 to 62 inches)
+Mean annual air temperature--20 to 25 degrees C (69 to 77 degrees F)
+Water salinity range--18 to 22 parts per thousand
+Frost-free period--365 days
+
+GEOGRAPHICALLY ASSOCIATED SOILS: These are the Broadaxe, Cocharan, Crawl, Endeavor, Ittsanapper, and Tea Hammock soils.
+
+Broadaxe soils--are on submerged wave-cut platforms and have abundant buried and preserved spodic horizons in their fluviomarine deposits
+Cocharan soils--are on mainland coves and have limnic materials
+Crawl soils--are on nearby anthropogenic landforms in deep (> 4 meters) dredge channels primarily used for navigation throughout the waterbody
+Endeavor soils--are on nearby relict flood-tidal delta landforms and often have enough shell fragments in the particle-size class to put them into a different taxonomic great group
+Ittsanapper soils-are on lagoon bottom landforms, usually at deeper water depths, and have thicker finer textured materials
+Tea Hammock soils--are also on nearby anthropogenic landforms consisting of dredge shoal deposits
+
+DRAINAGE AND SATURATED HYDRAULIC CONDUCTIVITY:
+Drainage class--Subaqueous
+Saturated hydraulic conductivity--High or very high
+Soil moisture regime--Peraquic
+Soil is continuously inundated by saline and brackish water.
+
+USE AND VEGETATION:
+Major uses--Used for recreational boating, fishing, and swimming, marinas, mooring fields, and commercial shellfish harvesting; benthic species include tubeworms, clams, crabs, scallops and juvenile finfish 
+Native vegetation-- Dominant vegetation is driven by water quality and quantity within subaqueous systems. Under excellent water quality these soils support seagrass species including but not limited to shoalweed (Halodule wrightii), manatee grass (Syringodium filiforme), and Englemann's seagrass (Halophila englemannii). Shallower areas may support widgeongrass (Ruppia maritima). Under degraded / poor water quality seagrass may be replaced by rooted eukaryotic macroalgae in the green (Chlorophyta), red (Rhodophyta), and brown (Phaeophyta) algae families. Caulerpa prolifera (Chlorophyta) is often dominant. Vegetative cover ranges from 0 through 80 percent.
+
+DISTRIBUTION AND EXTENT: 
+General area--Located along the coasts of Indian River Lagoon, Florida
+Land Resource Regions--U - Florida Subtropical Fruit, Truck Crop, and Range Region
+MLRA(s)--155
+Extent--Small
+
+SOIL SURVEY REGIONAL OFFICE (SSRO) RESPONSIBLE: Auburn, Alabama
+
+SERIES ESTABLISHED: Brevard County, Florida, 2024
+
+REMARKS:
+Diagnostic horizons and features in this pedon include-- 
+-Peraquic soil moisture regime--Positive soil water potential (permanently submerged) at the soil surface. (under 0.98 meters of salt water).
+-Ochric epipedon--the zone from 0 to 9 centimeters (Aseg horizon).
+-Particle-size control section--The zone from 0 to 100 centimeters (0 to 40 inches).
+-Sulfidic materials--?.
+-Irregular decrease in organic carbon or organic carbon content of 0.2 percent or more at 125 centimeters--?
+-Taxonomic version--Keys to Soil Taxonomy, 13th edition (2022)
+
+ADDITIONAL DATA:
+Typical pedon 2022FL009027
+________________________________________
+National Cooperative Soil Survey
+U.S.A.

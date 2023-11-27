@@ -1,0 +1,159 @@
+LOCATION BROADAXE               FL
+
+Tentative Series
+RBT
+11/2023
+
+BROADAXE SERIES
+
+MLRA(s)--155
+Depth class--Very deep
+Drainage class--Subaqueous
+Water depth range--50 to 185 centimeters
+Parent material--Sandy estuarine deposits over fluviomarine deposits
+Geomorphic location--Submerged wave-cut platforms
+Slope range for Series--0 to 1 percent
+Mean annual air temperature--22 degrees C (71.6 degrees F)
+Mean annual precipitation--1300 millimeters (51.1 inches)
+Mean annual water temperature--24.7 degrees C (76.6 degrees F)
+
+TAXONOMIC CLASS: Mixed, hyperthermic Aeric Psammowassents
+
+TYPICAL PEDON: Broadaxe loamy fine sand on an east facing, 0.5 percent linear slope bare sand submerged wave-cut platform under 0.68 meters of estuarine water. Tidal range is 24 cm. (Colors are for moist soil unless otherwise noted).
+
+ Cseg1--0 to 8 centimeters; dark grayish brown (2.5Y 4/2) fine sand; single grain; nonsticky, nonplastic; nonfluid; no sulfurous odor; positive peroxide color change (3%); moderately alkaline (pH 8.1); clear boundary.
+
+ Cseg2--8 to 27 centimeters; pale yellow (2.5Y 8/2) fine sand; single grain; nonsticky, nonplastic; nonfluid; 2 percent shell fragments; no sulfurous odor; positive peroxide color change (3%); strongly alkaline (pH 8.6); gradual boundary. 
+
+ Cseg3--27 to 50 centimeters; 60 percent light gray (2.5Y 7/1) and 40 percent dark gray (2.5Y 4/1) fine sand; single grain; nonsticky, nonplastic; nonfluid; 3 percent shell fragments; no sulfurous odor; positive peroxide color change (3%); strongly alkaline (pH 8.8); clear boundary. 
+
+ Cseg4--50 to 67 centimeters; 70 percent dark gray (2.5Y 4/1) and 30 percent light gray (2.5Y 7/1) loamy fine sand; single grain; slightly sticky, nonplastic; nonfluid; 5 percent shell fragments; no sulfurous odor; positive peroxide color change (3%); strongly alkaline (pH 8.5); clear boundary. (20 to 164 centimeters thick)
+
+ 2Aseb--67 to 78 centimeters; 95 percent gray (2.5Y 5/1) and 5 percent light gray (2.5Y 7/1) loamy fine sand; single grain; slightly sticky, nonplastic; nonfluid; no sulfurous odor; positive peroxide color change (3%); moderately alkaline, (pH 8.0); clear boundary. (0 to 41 centimeters thick)
+
+ 2Eseb--78 to 91 centimeters; 95 percent light gray (2.5Y 7/1) and 5 percent very dark gray (2.5Y 3/1) fine sand; single grain; nonsticky, nonplastic; nonfluid; no sulfurous odor; positive peroxide color change (3%); moderately alkaline, (pH 8.2); clear boundary. (0 to 100 centimeters thick)
+
+ 2Bhsseb--91 to 121 centimeters; 50 percent very dark grayish brown (10YR 3/2) and 50 percent dark brown (10YR 3/3) loamy fine sand; single grain; slightly sticky, nonplastic; nonfluid; few fine and medium roots at the top of the horizon; no sulfurous odor; positive peroxide color change (3%); moderately alkaline, (pH 8.2); clear boundary.
+
+ 2Bsseb1--121 to 184 centimeters; dark yellowish brown (10YR 3/4) loamy fine sand; single grain; nonsticky, nonplastic; nonfluid; few medium and common fine roots throughout; no sulfurous odor; positive peroxide color change (3%); slightly alkaline, (pH 7.6); gradual boundary.
+
+ 2Bsseb2--184 to 208 centimeters; brown (10YR 4/3) loamy fine sand; single grain; slightly sticky, nonplastic; nonfluid; few medium and common fine roots throughout; no sulfurous odor; positive peroxide color change (3%); slightly alkaline, (pH 7.8); gradual boundary. (0 to 131 centimeters thick)
+
+ 2Cseg--208 to 230 centimeters; greenish gray (10Y 6/1) sandy loam; massive; slightly sticky, nonplastic; nonfluid; few fine and medium roots throughout; slight sulfurous odor; positive peroxide color change (3%); moderately alkaline, (pH 8.0).
+
+TYPE LOCATION: Brevard County, Florida; approximately 1,029 feet east of the intersection of S Tropical Trail and Waring Way and 930 feet northeast of the intersection of S Tropical Trail and Rainbow Street, and about 360 feet east of shore edge; USGS topographic quadrangle: Cocoa, Florida.
+Latitude--28.2864105
+Longitude-- -80.6673776 
+Datum--WGS84
+Coordinate source--Manually entered from GPS
+
+RANGE IN CHARACTERISTICS:
+Depth to bedrock--Greater than 200 centimeters
+Depth to lithologic discontinuity--20 to 164 centimeters (commonly occurs within 1 meter of the soil surface)
+Particle--size control section--Sandy with some horizons with considerable shell fragments
+Soil moisture--Continuously inundated
+Reaction throughout--Slightly alkaline to strongly alkaline (pH 7.4 to 9.0)
+Oxidized reaction--?
+Electrical conductivity (1:5 soil-water) throughout--0.6 dS/m or greater
+Depth to sulfidic materials (oxidized pH 4.0)--?
+Manner of failure--Nonfluid to slightly fluid
+Shell fragments throughout--0 to 90 percent in the estuarine deposits and 0 to 3 percent in the fluviomarine materials (but can range up to 10 percent)
+
+Aseg horizon-
+Hue--10YR to 10Y or is neutral
+Value--3 to 6
+Chroma--2 or less
+Texture--Fine sand, sand, loamy sand, loamy fine sand, or fine sandy loam (loamy textured horizons are usually quite thin)
+
+Cseg horizon-
+Hue--10YR, 2.5Y, 5Y, 10Y, 5GY, 5G, 10GY, or is neutral
+Value--4 to 7
+Chroma--2 or less
+Texture--Sand, fine sand, loamy sand, loamy fine sand, sandy loam, or fine sandy loam with shelly, very shelly, extremely shelly, or shell analogs
+
+2Asegb horizon-
+Hue--10YR to 10Y or is neutral
+Value--2 to 5
+Chroma--1 or less
+Texture--Fine sand, loamy fine sand, loamy sand, or fine sandy loam (loamy textured horizons are usually quite thin)
+
+2Esegb horizon-
+Hue--7.5YR to 10Y
+Value--4 to 7
+Chroma--2 or less
+Texture--Fine sand, sand, or loamy fine sand
+
+2Bhsseb horizon-
+Hue--7.5YR to 2.5Y
+Value--2 to 3
+Chroma--1 to 3
+Texture--Fine sand, loamy fine sand, loamy sand
+
+2Bsseb horizon-
+Hue--7.5YR to 2.5Y
+Value--3 to 5
+Chroma--2 to 4
+Texture-Fine sand, loamy fine sand, loamy sand, or fine sandy loam (finer texture is often deeper than 100 centimeters)
+
+2Cseg horizon-
+Hue--2.5Y, 5Y, 10Y, 5G, 10GY or is neutral
+Value--4 to 7
+Chroma--2 or less
+Texture--Sand, fine sand, loamy fine sand, loamy sand, sandy loam, fine sandy loam, or sandy clay loam (fine textures are often deeper than 100 centimeters)
+
+COMPETING SERIES: There are no competing series.
+
+GEOGRAPHIC SETTING:
+Parent material--Sandy estuarine deposits over fluviomarine deposits
+Landscape--Coastal lagoons
+Landform--Submerged wave-cut platforms
+Slope--0 to 1 percent
+Mean annual precipitation--970 to 1570 millimeters (38 to 62 inches)
+Mean annual air temperature--20 to 25 degrees C (69 to 77 degrees F)
+Water salinity range--18 to 29 parts per thousand
+Frost-free period--365 days
+
+GEOGRAPHICALLY ASSOCIATED SOILS: These are the Cocharan, Crawl, Endeavor Ittsanapper, and Tea Hammock soils.
+
+Cocharan soils--are on mainland coves and have limnic materials
+Crawl soils--are on nearby anthropogenic landforms in deep (> 4 meters) dredge channels primarily used for navigation throughout the waterbody
+Endeavor soils--are on relict flood-tidal delta sand flats and slopes and have considerable shell fragments throughout
+Ittsanapper soils--are on lagoon bottom landforms, usually at deeper water depths, and have thicker finer textured materials
+Tea Hammock soils--are also on nearby anthropogenic landforms consisting of dredge shoal deposits
+
+DRAINAGE AND SATURATED HYDRAULIC CONDUCTIVITY:
+Drainage class--Subaqueous
+Saturated hydraulic conductivity--High or very high
+Soil moisture regime--Peraquic
+Soil is continuously inundated by saline and brackish water.
+
+USE AND VEGETATION:
+Major uses--Used for recreational boating, fishing, and swimming, marinas, mooring fields, and commercial shellfish harvesting; benthic species include tubeworms, clams, crabs, scallops and juvenile finfish.
+Native vegetation--Dominant vegetation is driven by water quality and quantity within subaqueous systems. Under excellent water quality these soils support seagrass species including but not limited to shoalweed (Halodule wrightii), manatee grass (Syringodium filiforme), and Englemann's seagrass (Halophila englemannii). Shallower areas may support widgeongrass (Ruppia maritima). Under degraded / poor water quality seagrass may be replaced by rooted eukaryotic macroalgae in the green (Chlorophyta), red (Rhodophyta), and brown (Phaeophyta) algae families. Caulerpa prolifera (Chlorophyta) is often dominant. Vegetative cover ranges from 0 through 80 percent."
+
+DISTRIBUTION AND EXTENT: 
+General area--Located along the coasts of Indian River Lagoon, Florida
+Land Resource Regions--U - Florida Subtropical Fruit, Truck Crop, and Range Region
+MLRA(s)--155
+Extent--Small
+
+SOIL SURVEY REGIONAL OFFICE (SSRO) RESPONSIBLE: Auburn, Alabama
+
+SERIES ESTABLISHED: Brevard County, Florida, 2024
+
+REMARKS:
+Diagnostic horizons and features in this pedon include-- 
+-Peraquic soil moisture regime--Positive soil water potential (permanently submerged) at the soil surface. (under 0.68 meters of salt water).
+-Particle-size control section--The zone from 0 to 100 cm (0 to 40 inches).
+-Lithologic Discontinuity--67 to 230 centimeters (2Aseb, 2Eseb, 2Bhsseb, 2Bsseb1, 2Bsseb2, and 2Cseg horizons).
+-Preserved albic horizon--78 to 91 centimeters (2Eseb horizon)
+-Preserved spodic horizon--91 to 208 centimeters (2Bhsseb, 2Bsseb1, and 2Bsseb2 horizons).
+-Sulfidic materials--?.
+-Aeric subgroup--chroma of 3 or more in 40 percent or more of matrix horizon (2Bhsseb horizon, 91 to 121 centimeters).
+-Taxonomic version--Keys to Soil Taxonomy, 13th edition (2022)
+
+ADDITIONAL DATA:
+Typical pedon 2021FL009042 (pedon above), 2021FL009069, or 2020FL009010
+________________________________________
+National Cooperative Soil Survey
+U.S.A.
