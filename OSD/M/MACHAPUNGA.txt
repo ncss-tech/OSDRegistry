@@ -98,18 +98,20 @@ Parent Material--Coarse-silty and coarse-loamy lacustrine deposits
 Landscape--Southeast Coastal Plain Lakes and Carolina Bays
 Landform--Lakebeds, submerged wave-cut platforms, and submerged lake terraces.
 Slope--0 to 2 percent
-Mean Annual Air Temperature--15 to 19 degrees C (59 to 66 degrees F)Mean Annual Water Temperature--15.5 to 20 degrees C (60 to 68 degrees F)Water Depth Range--0 to 1.5 meters (0 to 4 feet) below mean sea level
+Mean Annual Air Temperature--15 to 19 degrees C (59 to 66 degrees F)
+Mean Annual Water Temperature--15.5 to 20 degrees C (60 to 68 degrees F)
+Water Depth Range--0 to 1.5 meters (0 to 4 feet) below mean sea level
 Water Regime--Nontidal
 Water Salinity Range--Nonsaline
 
 GEOGRAPHICALLY ASSOCIATED SOILS:
 These are the Belhaven, Cipre, Coree, Engelhard, Flyway, Great Ditch and Newholland soils.
-Belhaven soils--Occur in very poorly drained areas on flats, depressions, and flood plains in the Lower Coastal Plain; these soils formed in highly decomposed organic matter underlain by loamy marine deposits
-Cipre soils--Occur on permanently submerged wave-cut platforms and lake beds in the coastal plain; these soils formed in woody organic material underlain by sandy lacustrine deposits.
+Belhaven soils--are in very poorly drained areas on flats, depressions, and flood plains in the Lower Coastal Plain; these soils formed in highly decomposed organic matter underlain by loamy marine deposits
+Cipre soils--are on permanently submerged wave-cut platforms and lake beds in the coastal plain; these soils formed in woody organic material underlain by sandy lacustrine deposits.
 Coree soils--have buried A horizons placing them into the Thapto-humic subgroup and have coarser textured materials
-Engelhard soils--Occur in poorly drained lake-wash rims along Lake Mattamuskeet, these soils formed in sandy lacustrine lake-wash deposits that contain a high content of very fine sand and are underlain by marine or fluvial deposits.  
-Flyway and Great Ditch soils--Occur on permanently submerged wave-cut platforms and lake terraces in the coastal plain, these soils formed in sandy lacustrine deposits.
-Newholland soils--Occur on very poorly drained broad upland flats and along the outer edges of pocosins or flood plains in the coastal plain; these soils formed in loamy marine and fluvial deposits. 
+Engelhard soils--are in poorly drained lake-wash rims along Lake Mattamuskeet, these soils formed in sandy lacustrine lake-wash deposits that contain a high content of very fine sand and are underlain by marine or fluvial deposits.  
+Flyway and Great Ditch soils--are on permanently submerged wave-cut platforms and lake terraces in the coastal plain, these soils formed in sandy lacustrine deposits.
+Newholland soils--are on very poorly drained broad upland flats and along the outer edges of pocosins or flood plains in the coastal plain; these soils formed in loamy marine and fluvial deposits. 
 
 DRAINAGE AND SATURATED HYDRAULIC CONDUCTIVITY:
 Drainage Class--Subaqueous (permanently submerged)
@@ -123,7 +125,7 @@ Dominant Vegetation--Isolated clusters of Bald Cypress (Taxodium distichum) and 
 DISTRIBUTION AND EXTENT:
 General area--Natural lakes and Carolina Bays in the coastal plain of North Carolina and South Carolina.
 Region--T - Atlantic and Gulf Coast Lowland Forest and Crop Region
-MLRA(s)--153A, 153B
+MLRA(s)--153B
 Extent--Small
 
 SOIL SURVEY REGIONAL OFFICE (SSRO) RESPONSIBLE: Raleigh, North Carolina
@@ -135,9 +137,9 @@ Machapunga is derived from the Algonquin Machapunga Native American tribe who in
 
 Diagnostic horizons and other diagnostic soil characteristics recognized in this pedon are (Keys to Soil Taxonomy, Thirteenth Edition, 2022)--
 
-n-value > 0.7--0 to 11 centimeters (0 to 4 inches) 
+n-value > 0.7--0 to 11 centimeters (Ase horizon, 0 to 4 inches) 
 Reduced Matrix--0 to 231 centimeters (0 to 91 inches); soil matrix that has low chroma in situ but undergoes a change in hue or chroma within 30 minutes after the soil material has been exposed to air
-Ochric Epipedon--0 to 11 centimeters (0 to 7 inches); equivalent depth of soil that has not been plowed.
+Ochric Epipedon--0 to 11 centimeters (Ase horizon, 0 to 4 inches); equivalent depth of soil that has not been plowed.
 Endosaturation--0 to 231 centimeters (0 to 91 inches) 
 Peraquic feature-Zero or positive soil water potential at the soil surface.
 
