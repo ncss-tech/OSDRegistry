@@ -1,0 +1,130 @@
+LOCATION GREAT DITCH            NC
+
+Tentative Series
+ARW
+01/2024
+
+GREAT DITCH SERIES
+
+MLRA--153B
+Soil Survey Regional Office (SSRO) Responsible--Raleigh, North Carolina
+Depth Class--Very deep
+Drainage Class--Subaqueous (permanently submersed / continuously ponded)
+Saturated Hydraulic Conductivity--Moderately high to high
+Parent Material--Sandy lacustrine deposits
+Slope--0 to 2 percent
+Mean Annual Air Temperature--16 degrees C (62 degrees F) 
+Mean Annual Water Temperature--20 degrees C (68 degrees F)
+
+TAXONOMIC CLASS: Siliceous, thermic Psammentic Frasiwassents
+
+TYPICAL PEDON: Great Ditch fine sand on a submerged wave-cut platform with less than 2 percent slope under 0.8 meters of freshwater (Colors are for moist soil unless otherwise stated; electrical conductivity is 1:5 by volume solution mixture unless otherwise stated).
+
+ Cg--0 to 17 centimeters (0 to 7 inches); gray (2.5Y 6/1) fine sand; structureless massive; nonsticky, nonplastic; nonfluid; slightly acid (pH 6.3), moderately acid (pH 5.9) oxidized pH; no color reaction with 3% hydrogen peroxide; noneffervescent with 30% hydrogen peroxide; nonsaline (0.2133 dS m-1); abrupt boundary.
+
+ Aseg/C--17 to 64 centimeters (7 to 25 inches); variegated 60 percent black (2.5Y 2.5/1) crushed and 40 percent gray (5Y 6/1) fine sand; structureless massive; nonsticky, nonplastic; nonfluid; neutral (pH 6.6), slightly acid (pH 6.2) oxidized pH; no color reaction with 3% hydrogen peroxide; noneffervescent with 30% hydrogen peroxide; nonsaline (0.0644 dS m-1); gradual boundary.
+
+ Cseg1--64 to 102 centimeters (25 to 40 inches); gray (2.5Y 5/1) fine sand; structureless massive; nonsticky, nonplastic; nonfluid; neutral (pH 6.6), extremely acid (pH 3.7) oxidized pH; no color reaction with 3% hydrogen peroxide; slightly effervescent with 30% hydrogen peroxide; nonsaline (0.0553 dS m-1); clear boundary.
+
+ Cseg2--102 to 122 centimeters (40 to 48 inches); dark gray (5Y 4/1) loamy sand; structureless massive; nonsticky, nonplastic; nonfluid; neutral (pH 6.7), moderately acid (pH 5.7) oxidized pH; no color reaction with 3% hydrogen peroxide; slightly effervescent with 30% hydrogen peroxide; nonsaline (0.0442 dS m-1).
+
+ C'g--122 to 200 centimeters (48 to 56 inches); dark greenish gray (10Y 4/1) fine sand; structureless massive; nonsticky, nonplastic; nonfluid; slightly acid (pH 6.5), very strongly acid (pH 4.9) oxidized pH; no color reaction with 3% hydrogen peroxide; noneffervescent with 30% hydrogen peroxide; nonsaline (0.0447 dS m-1).
+
+TYPE LOCATION: Hyde County, North Carolina; Lake Mattamuskeet; 2.72 miles northeast of Lake Mattamuskeet Boat Ramp, 4.22 miles west- northwest of Lake Mattamuskeet Observation Deck, 2.37 miles south-southwest of Osprey Nest Campground Boat Ramp. USGS Swanquarter topographic quadrangle.
+
+Latitude--35.5003270
+Longitude-- -76.2853160
+Datum--WGS84
+Coordinate source--from hand-held GPS
+
+RANGE OF CHARACTERISTICS: 
+Depth to Bedrock--Greater than 200 centimeters
+Depth to Seasonal High-Water Table--Permanently submerged
+Depth to hyper-sulfidic materials (incubated pH  4.0)--50 to 120 centimeters
+
+Manner of Failure / Fluidity Class--Nonfluid to slightly fluid; moderately fluid where appreciable organic soil materials are present.
+Soil Reaction--Slightly acid to neutral throughout profile
+Oxidized Soil Reaction--Ultra acid to extremely acid (pH 3.3 - 3.9) from 64 to 102 centimeters
+Electrical Conductivity--Less than 0.6 dS m-1 throughout profile by 1:5 by volume solution mixture
+Salinity Class--Nonsaline throughout profile
+Reaction to 30% Hydrogen Peroxide--None to slight reaction throughout profile
+Color Reaction to 3% Hydrogen Peroxide--No reaction throughout profile
+
+Ase or Aseg (where present) horizon:
+Hue--10YR or 2.5Y
+Value--2 to 3
+Chroma--1 or 2
+Texture--fine sand, loamy fine sand, or their mucky analogs
+Manner of failure / fluidity class--nonfluid to moderately fluid
+
+Cg or Cseg (where present) or CAseg (where present) horizon: 
+Hue--2.5Y or 10YR
+Value--4 to 6
+Chroma--1 to 3
+Texture-- loamy fine sand or fine sand
+Manner of failure / fluidity class--nonfluid
+
+2Cseg or 2Cg or 2C'g horizon:
+Hue--2.5Y, 5Y, or 10Y
+Value--3 to 5
+Chroma--1 to 3
+Texture--fine sand or loamy sand
+Manner of failure / fluidity class--nonfluid or slightly fluid
+
+COMPETING SERIES:
+There are no competing series in the same family. 
+
+GEOGRAPHIC SETTING:
+Parent Material--Sandy lacustrine deposits
+Landscape--Southeast Coastal Plain Lakes and Carolina Bays
+Landform--Submerged wave-cut platforms
+Slope--0 to 2 percent
+Mean Annual Air Temperature--15 to 19 degrees C (59 to 66 degrees F)
+Mean Annual Water Temperature--15.5 to 20 degrees C (60 to 68 degrees F)
+Water Depth Range--0 to 1.5 meters (0 to 4 feet) below mean sea level
+Water Regime--Nontidal
+Water Salinity Range--Nonsaline
+
+GEOGRAPHICALLY ASSOCIATED SOILS:
+These are the Belhaven, Cipre, Coree, Engelhard, Flyway, Great Ditch and Newholland soils.
+Belhaven soils--are in very poorly drained areas on flats, depressions, and flood plains in the Lower Coastal Plain; these soils formed in highly decomposed organic matter underlain by loamy marine deposits
+Cipre soils--are on permanently submerged wave-cut platforms and lake beds in the coastal plain; these soils formed in woody organic material underlain by sandy lacustrine deposits.
+Coree and Machapunga soils--are on submerged wave-cut platforms, permanently submerged lake terraces, and lake beds, these soils formed in coarse-silty and coarse-loamy deposits.
+Engelhard soils--are in poorly drained lake-wash rims along Lake Mattamuskeet, these soils formed in sandy lacustrine lake-wash deposits that contain a high content of very fine sand and are underlain by marine or fluvial deposits.  
+Flyway soils--are on permanently submerged wave-cut platforms and lake terraces in the coastal plain, these soils formed in sandy lacustrine deposits.
+Newholland soils--are on very poorly drained broad upland flats and along the outer edges of pocosins or flood plains in the coastal plain; these soils formed in loamy marine and fluvial deposits. 
+
+DRAINAGE AND SATURATED HYDRAULIC CONDUCTIVITY:
+Drainage Class--Subaqueous (permanently submerged)
+Saturated Hydraulic Conductivity--Moderately high to high
+Soil Moisture Regime--Peraquic
+
+USE AND VEGETATION:
+Major Uses--Most areas are unvegetated and function minimally as littoral and limnic habitat. Recreational use is waterfowl, hunting, and observation; historically, there was extensive fishing and boating. There are no known commercial uses. 
+Dominant Vegetation--Isolated clusters of Bald Cypress (Taxodium distichum) and historically wild celery (Vallisneria americana), sago pondweed (Stuckenia pectinate), southern naiad (Najas guadalupensis), and redhead grass (Potamogton perfoliatus).  
+
+DISTRIBUTION AND EXTENT:
+General area--Natural lakes and Carolina Bays in the coastal plain of North Carolina and South Carolina.
+Region--T - Atlantic and Gulf Coast Lowland Forest and Crop Region
+MLRA(s)--153B
+Extent--Small
+
+SOIL SURVEY REGIONAL OFFICE (SSRO) RESPONSIBLE: Raleigh, North Carolina
+
+SERIES ESTABLISHED: Hyde County, North Carolina, 2024
+
+REMARKS: 
+Great Ditch is derived from the initial seven-mile canal excavated from Lake Mattamuskeet's south end to Wysocking Bay in 1837 by the North Carolina State Literary Board.
+
+Diagnostic horizons and other diagnostic soil characteristics recognized in this pedon are (Keys to Soil Taxonomy, Thirteenth Edition, 2022)--
+
+Reduced Matrix--0 to 143 centimeters (0 to 56 inches); soil matrix that has low chroma in situ but undergoes a change in hue or chroma within 30 minutes after the soil material has been exposed to air.
+Endosaturation--0 to 143 centimeters (0 to 56 inches) 
+Sulfidic materials--64 to 102 centimeters (Cseg horizon, 25 to 40 inches)
+Peraquic feature-Zero or positive soil water potential at the soil surface.
+
+Data Map Unit ID: 919150
+NASIS User Site and Pedon ID: S2022NC095107
+________________________________________
+National Cooperative Soil Survey
+U.S.A.

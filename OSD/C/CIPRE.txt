@@ -1,0 +1,137 @@
+LOCATION CIPRE                  NC
+
+Tentative Series
+ARW
+01/2024
+
+CIPRE SERIES
+
+MLRA--153B
+Soil Survey Regional Office (SSRO) Responsible--Raleigh, North Carolina
+Depth Class--Very deep
+Drainage Class--Subaqueous (permanently submersed / continuously ponded)
+Saturated Hydraulic Conductivity--Moderately high to high
+Parent Material--Woody organic material over sandy lacustrine deposits
+Slope--0 to 2 percent
+Mean Annual Air Temperature--16 degrees C (62 degrees F) 
+Mean Annual Water Temperature--20 degrees C (68 degrees F)
+
+TAXONOMIC CLASS: Euic, thermic Sapric Sulfiwassists
+
+TYPICAL PEDON: Cipre muck on a lakebed with less than 2 percent slope under 1.6 meters of freshwater (Colors are for moist soil unless otherwise stated; electrical conductivity is 1:5 by volume solution mixture unless otherwise stated).
+
+ Oase--0 to 51 centimeters (0 to 20 inches); very dark brown (10YR 2/2) muck; 15 percent fibers, 6 percent rubbed; von Post H7; many fine roots throughout; 10 percent wood fragments; slightly acid (pH 6.4), slightly acid (pH 6.3) oxidized pH; no color reaction with 3% hydrogen peroxide; slightly effervescent with 30% hydrogen peroxide; nonsaline (0.2458 dS m-1); abrupt boundary. (40 to 51 centimeters thick)
+
+ 2Bsse--51 to 69 centimeters (20 to 27 inches); dark yellowish brown (10YR 3/4) fine sand; structureless massive; nonsticky, nonplastic; nonfluid; neutral (pH 6.6), moderately acid (pH 5.8) oxidized pH; no color reaction with 3% hydrogen peroxide; slightly effervescent with 30% hydrogen peroxide; nonsaline (0.0956 dS m-1); clear boundary.
+
+ 2Cseg--69 to 205 centimeters (27 to 81 inches); variegated 70 percent gray (2.5Y 6/1) and 30 percent gray (10YR 5/1) fine sand; structureless massive; nonsticky, nonplastic; nonfluid; neutral (pH 6.6), ultra acid (pH 3.4) oxidized pH; no color reaction with 3% hydrogen peroxide; slightly effervescent with 30% hydrogen peroxide; nonsaline (0.0966 dS m-1).
+
+TYPE LOCATION: Hyde County, North Carolina; Lake Mattamuskeet; 1.34 miles south-southeast of Osprey Nest Campground Boat Ramp, 3.18 miles east of Piney Woods Road Electrical Substation. USGS New Lake SE topographic quadrangle.
+
+Latitude--35.5155010
+Longitude-- -76.2652070
+Datum--WGS84
+Coordinate source--from hand-held GPS
+
+RANGE OF CHARACTERISTICS: 
+Depth to Bedrock--Greater than 200 cm
+Depth to Seasonal High-Water Table--Permanently submerged
+Depth to hyper-sulfidic materials (incubated pH  4.0)--69 to 205 centimeters; 
+Depth to Lithologic Discontinuity--40 to 70 centimeters
+Wood Fragments--0 to 15 percent, by volume
+Soil Reaction--Moderately acid to neutral throughout profile
+Oxidized Soil Reaction--Ultra acid (pH <3.5) from 65 to 238 centimeters
+Electrical Conductivity--Less than 0.6 dS m-1 throughout profile by 1:5 by volume solution mixture
+Salinity Class--Nonsaline throughout profile
+Reaction to 30% Hydrogen Peroxide--None to moderate reaction throughout profile
+Color Reaction to 3% Hydrogen Peroxide--No reaction throughout profile
+
+Oase or Oapse horizon:
+Hue--5YR, 7.5YR or 10YR
+Value--2 to 3
+Chroma--1 or 2
+Texture--muck
+Von Post--H7 to H10
+Organic matter content--42 percent to 73 percent
+
+2Ase or 2ACseg horizon (where present):
+Hue--10YR
+Value--2 to 3
+Chroma--1 or 2
+Texture--loamy very fine sand, loamy fine sand, very fine sandy loam, fine sandy loam, or their mucky analogs
+Manner of failure / fluidity class--slightly fluid to moderately fluid
+
+2Bsse horizon: 
+Hue--10YR or 2.5Y
+Value--2 to 6
+Chroma--3 or 4
+Texture--fine sand, loamy sand, or loamy fine sand
+Manner of failure / fluidity class--nonfluid
+
+2Cseg horizon:
+Hue--10YR or 2.5Y
+Value--2 to 6
+Chroma--1 or 2
+Texture--fine sand, loamy very fine sand, very fine sandy loam, or silt loam
+Manner of failure / fluidity class--nonfluid or slightly fluid
+
+COMPETING SERIES:
+There are no competing series in the same family. 
+
+GEOGRAPHIC SETTING:
+Parent Material--Woody organic material over sandy lacustrine deposits
+Landscape--Southeast Coastal Plain Lakes and Carolina Bays
+Landform--Lakebeds and submerged wave-cut platforms
+Slope--0 to 2 percent
+Mean Annual Air Temperature--15 to 19 degrees C (59 to 66 degrees F)
+Mean Annual Water Temperature--15.5 to 20 degrees C (60 to 68 degrees F)
+Water Depth Range--0 to 1.5 meters (0 to 4 feet) below mean sea level.
+Water Regime--Nontidal
+Water Salinity Range--Nonsaline
+
+GEOGRAPHICALLY ASSOCIATED SOILS:
+These are the Belhaven, Cipre, Coree, Engelhard, Flyway, Great Ditch and Newholland soils.
+Belhaven soils--are in very poorly drained areas on flats, depressions, and flood plains in the Lower Coastal Plain; these soils formed in highly decomposed organic matter underlain by loamy marine deposits.
+Machapunga soils--are on submerged wave-cut platforms, permanently submerged lake terraces and lake beds in the coastal plain, these soils formed in coarse-loamy and coarse-silty lacustrine deposits.
+Coree soils--have buried A horizons placing them into the Thapto-humic subgroup and have coarser textured materials
+Engelhard soils--are in poorly drained lake-wash rims along Lake Mattamuskeet, these soils formed in sandy lacustrine lake-wash deposits that contain a high content of very fine sand and are underlain by marine or fluvial deposits.  
+Flyway and Great Ditch soils--are on permanently submerged wave-cut platforms and lake terraces in the coastal plain, these soils formed in sandy lacustrine deposits.
+Newholland soils--are on very poorly drained broad upland flats and along the outer edges of pocosins or flood plains in the coastal plain; these soils formed in loamy marine and fluvial deposits. 
+
+DRAINAGE AND SATURATED HYDRAULIC CONDUCTIVITY:
+Drainage Class--Subaqueous (permanently submerged)
+Saturated Hydraulic Conductivity--Low to moderately high
+Soil Moisture Regime--Peraquic
+
+USE AND VEGETATION:
+Major Uses--Most areas are unvegetated and function minimally as littoral and limnic habitat. Recreational use is waterfowl, hunting, and observation; historically, there was extensive fishing and boating. There are no known commercial uses. 
+Dominant Vegetation--Isolated clusters of Bald Cypress (Taxodium distichum) and historically wild celery (Vallisneria americana), sago pondweed (Stuckenia pectinate), southern naiad (Najas guadalupensis), and redhead grass (Potamogton perfoliatus).  
+
+DISTRIBUTION AND EXTENT:
+General area--Natural lakes and Carolina Bays in the coastal plain of North Carolina and South Carolina.
+Region--T - Atlantic and Gulf Coast Lowland Forest and Crop Region
+MLRA(s)--153B
+Extent--Small
+
+SOIL SURVEY REGIONAL OFFICE (SSRO) RESPONSIBLE: Raleigh, North Carolina
+
+SERIES ESTABLISHED: Hyde County, North Carolina, 2024
+
+REMARKS: 
+Cipre is derived from the Middle English cipres and Old French cyprs, which was used to describe the extensive bald cypress (Taxodium Distichum) forests upon initial settlement in the area.
+
+Diagnostic horizons and other diagnostic soil characteristics recognized in this pedon are (Keys to Soil Taxonomy, Thirteenth Edition, 2022)--
+
+Sapric soil materials--0 to 51 centimeters (Oase horizon, 0 to 20 inches)
+Endosaturation--0 to 205 centimeters (0 to 81 inches)
+Humilluvic material--illuvial humus materials, 51 to 69 centimeters (2Bhse horizon, 20 to 27 inches)
+Lithologic discontinuity--51 to 205 centimeters (2Bsse and 2Cseg horizons, 20 to 81 inches)  
+Reduced Matrix--69 to 205 centimeters (2Cseg horizon, 27 to 81 inches); soil matrix that has low chroma in situ but undergoes a change in hue or chroma within 30 minutes after the soil material has been exposed to air.
+Sulfidic materials--69 to 205 centimeters; soil materials with pH of less than 4.0 when oxidized (2Cseg horizon, 27 to 81 inches)
+Peraquic feature--Zero or positive soil water potential at the soil surface.
+
+Data Map Unit ID: 919152
+NASIS User Site and Pedon ID: S2022NC095118
+________________________________________
+National Cooperative Soil Survey
+U.S.A.
