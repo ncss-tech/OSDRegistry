@@ -36,7 +36,7 @@ Coordinate source--from hand-held GPS
 RANGE OF CHARACTERISTICS: 
 Depth to Bedrock--Greater than 200 cm
 Depth to Seasonal High-Water Table--Permanently submerged
-Depth to hyper-sulfidic materials (incubated pH  4.0)--69 to 205 centimeters; 
+Depth to hyper-sulfidic materials (incubated pH  <4.0)--69 to 205 centimeters; 
 Depth to Lithologic Discontinuity--40 to 70 centimeters
 Wood Fragments--0 to 15 percent, by volume
 Soil Reaction--Moderately acid to neutral throughout profile
@@ -90,7 +90,7 @@ Water Regime--Nontidal
 Water Salinity Range--Nonsaline
 
 GEOGRAPHICALLY ASSOCIATED SOILS:
-These are the Belhaven, Cipre, Coree, Engelhard, Flyway, Great Ditch and Newholland soils.
+These are the Belhaven, Coree, Engelhard, Flyway, Great Ditch and Newholland soils.
 Belhaven soils--are in very poorly drained areas on flats, depressions, and flood plains in the Lower Coastal Plain; these soils formed in highly decomposed organic matter underlain by loamy marine deposits.
 Machapunga soils--are on submerged wave-cut platforms, permanently submerged lake terraces and lake beds in the coastal plain, these soils formed in coarse-loamy and coarse-silty lacustrine deposits.
 Coree soils--have buried A horizons placing them into the Thapto-humic subgroup and have coarser textured materials

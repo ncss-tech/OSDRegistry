@@ -2,7 +2,7 @@ LOCATION MACHAPUNGA             NC
 
 Tentative Series
 ARW
-12/2023
+01/2024
 
 MACHAPUNGA SERIES
 
@@ -20,13 +20,13 @@ TAXONOMIC CLASS: Coarse-silty, mixed, semiactive, nonacid, thermic Humic Frasiwa
 
 TYPICAL PEDON: Machapunga very fine sandy loam on a lakebed with less than 2 percent slope under 1.2 meters of freshwater (Colors are for moist soil unless otherwise stated; electrical conductivity is 1:5 by volume solution mixture unless otherwise stated).
 
- Ase--0 to 11 centimeters (0 to 4 inches); variegated 70 percent very dark gray (2.5Y 3/1) and 30 percent grayish brown (2.5Y 5/2) very fine sandy loam; structureless massive; slightly sticky, nonplastic; slightly fluid; few fine roots throughout; 2 percent charcoal fragments; slightly acid (pH 6.4); no color reaction with 3% hydrogen peroxide; slightly effervescent with 30% hydrogen peroxide; nonsaline (0.1291 dS m-1); gradual boundary. (11 to 23 centimeters thick)
+ Ase--0 to 11 centimeters (0 to 4 inches); variegated 70 percent very dark gray (2.5Y 3/1) and 30 percent grayish brown (2.5Y 5/2) very fine sandy loam; structureless massive; slightly sticky, nonplastic; slightly fluid; few fine roots throughout; 2 percent charcoal fragments; slightly acid (pH 6.4), moderately acid (pH 5.6) oxidized pH; no color reaction with 3% hydrogen peroxide; slightly effervescent with 30% hydrogen peroxide; nonsaline (0.1291 dS m-1); gradual boundary. (11 to 23 centimeters thick)
 
- Cseg1--11 to 45 centimeters (4 to 18 inches); variegated 60 percent very dark gray (10YR 3/1) crushed and 40 percent gray (2.5Y 6/1) very fine sandy loam; structureless massive; nonsticky, nonplastic; nonfluid; very few fine roots throughout; slightly acid (pH 6.5); no color reaction with 3% hydrogen peroxide; slightly effervescent with 30% hydrogen peroxide; nonsaline (0.1015 dS m-1); clear boundary.
+ Cseg1--11 to 45 centimeters (4 to 18 inches); variegated 60 percent very dark gray (10YR 3/1) crushed and 40 percent gray (2.5Y 6/1) very fine sandy loam; structureless massive; nonsticky, nonplastic; nonfluid; very few fine roots throughout; slightly acid (pH 6.5), neutral (pH 7.1) oxidized pH; no color reaction with 3% hydrogen peroxide; slightly effervescent with 30% hydrogen peroxide; nonsaline (0.1015 dS m-1); clear boundary.
 
- Cseg2--45 to 212 centimeters (18 to 83 inches); dark greenish gray (5GY 4/1) very fine sandy loam; structureless massive; slightly sticky, nonplastic; nonfluid; 3 percent fine distinct weak red (10R 4/4) plinthite nodules with clear boundaries lining pores; slightly acid (pH 6.5); no color reaction with 3% hydrogen peroxide; moderately effervescent with 30% hydrogen peroxide; nonsaline (0.1399 dS m-1); abrupt boundary.
+ Cseg2--45 to 212 centimeters (18 to 83 inches); dark greenish gray (5GY 4/1) very fine sandy loam; structureless massive; slightly sticky, nonplastic; nonfluid; 3 percent fine distinct weak red (10R 4/4) plinthite nodules with clear boundaries lining pores; slightly acid (pH 6.5), slightly alkaline (pH 7.5) oxidized pH; no color reaction with 3% hydrogen peroxide; moderately effervescent with 30% hydrogen peroxide; nonsaline (0.1399 dS m-1); abrupt boundary.
 
- Cseg3--212 to 231 centimeters (83 to 91 inches); gray (2.5Y 5/1) fine sand; structureless single grain; nonsticky, nonplastic; nonfluid; slightly acid (pH 6.5); no color reaction with 3% hydrogen peroxide; slightly effervescent with 30% hydrogen peroxide; nonsaline (0.0649 dS m-1).
+ Cseg3--212 to 231 centimeters (83 to 91 inches); gray (2.5Y 5/1) fine sand; structureless single grain; nonsticky, nonplastic; nonfluid; slightly acid (pH 6.5), moderately alkaline (pH 7.9) oxidized pH; no color reaction with 3% hydrogen peroxide; slightly effervescent with 30% hydrogen peroxide; nonsaline (0.0649 dS m-1).
 
 TYPE LOCATION: Hyde County, North Carolina; Lake Mattamuskeet; 2.7 miles north-northeast of Lake Mattamuskeet Hunting Lodge, 4.28 miles northwest of Mattamuskeet High School. USGS New Holland topographic quadrangle.
 
@@ -38,8 +38,7 @@ Coordinate source-from hand-held GPS
 RANGE OF CHARACTERISTICS: 
 Depth to Bedrock--Greater than 200 cm
 Depth to Seasonal High-Water Table--Permanently submerged
-Depth to hyper-sulfidic materials (incubated pH  4.0)--75 to 140 centimeters
-Depth to Lithologic Discontinuity (where present)--10 to 70 centimeters
+Depth to hyper-sulfidic materials (incubated pH  <4.0)--often greater than 100 centimeters
 Manner of Failure / Fluidity Class--Nonfluid to slightly fluid; moderately fluid where silty soil materials are dominant.
 Charcoal Fragments--0 to 5 percent, by volume
 Soil Reaction--Moderately acid to neutral throughout profile
@@ -55,7 +54,7 @@ Chroma--1 or 2
 Texture--fine sand, very fine sandy loam, fine sandy loam, sandy loam, loam, silt loam, or their mucky analogs
 Manner of failure / fluidity class--nonfluid to moderately fluid
 
-Bhse horizon (where present): 
+Bhsse or Bsse horizon (where present): 
 Hue--7.5YR or 10YR
 Value--3 to 5
 Chroma--1 to 4
