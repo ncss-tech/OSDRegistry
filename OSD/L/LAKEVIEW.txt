@@ -1,62 +1,145 @@
 LOCATION LAKEVIEW               OR+CA
 
 Established Series
-Rev. JSC/AON/TDT
-12/1999
+Rev. JSC/AON/TDT/BTH/CEG
+02/2024
 
 LAKEVIEW SERIES
 
-The Lakeview series consists of very deep, moderately well to somewhat poorly drained soils that formed in alluvium weathered from lava rocks and small amounts of ash. Lakeview soils are on flood plains and alluvial fans and have slopes of 0 to 2 percent.  The mean annual precipitation is about 12 inches and the mean annual temperature is about 48 degrees F.
+Landscape--Intermontane basins
+Landform--flood plains, alluvial fans, stream terraces
+Slope--0 to 2 percent
+Parent material--alluvium weathered from lava rocks and small amounts of ash
+Mean annual precipitation--about 305 mm
+Mean annual air temperature--about 9 degrees C 
+Depth class--very deep
+Drainage class--moderately well to somewhat poorly drained
+Soil moisture regime--xeric
+Soil temperature regime--mesic
+Soil moisture subclass--typic
 
 TAXONOMIC CLASS: Fine-loamy, mixed, superactive, mesic Cumulic Haploxerolls
 
-TYPICAL PEDON:  Lakeview loam, range.  (Colors are for moist soil unless otherwise noted.)
+TYPICAL PEDON: Lakeview loam, rangeland
 
-    A--0 to 4 inches; black (10YR 2/1)  loam, dark gray (10YR 4/1) dry; weak very thin platy structure parting to moderate very fine granular; soft, friable, slightly sticky and slightly plastic; many very fine roots; many very fine pores; mildly alkaline (pH 7.4); clear smooth boundary.  (4 to 8 inches thick)
+ A--0 to 10 cm; loam, dark gray (10YR 4/1) dry, black (10YR 2/1) moist; weak very thin platy structure parting to moderate very fine granular structure; soft, friable, slightly sticky and slightly plastic; many very fine roots; many very fine pores; slightly alkaline (pH 7.4); clear smooth boundary
 
-    Bt1--4 to 8 inches; black (N 2/0) silty clay loam, dark gray (N 4/0) dry; weak medium prismatic structure; very hard, firm, sticky and plastic; common very fine roots; few very fine tubular pores; few faint cutans on peds; neutral (pH 7.2); clear smooth boundary.  (3 to 10 inches thick)
+ Bt1--10 to 20 cm; silty clay loam, dark gray (N 4/0) dry, black (N 2/0) moist; weak medium prismatic structure; very hard, firm, moderately sticky and moderately plastic; common very fine roots; few very fine tubular pores; few faint cutans on peds; neutral (pH 7.2); clear smooth boundary 
 
-    Bt2-8 to 14 inches; black (N 2/0) silty clay loam, dark gray (10YR 4/1) dry; weak coarse prismatic structure; hard, firm, sticky and plastic; common very fine roots; few very fine tubular pores; few faint cutans on peds; neutral (pH 7.2); gradual smooth boundary.  (4 to 10 inches thick)
+ Bt2--20 to 36 cm; silty clay loam, dark gray (10YR 4/1) dry, black (N 2/0) moist; weak coarse prismatic structure; hard, firm, moderately sticky and moderately plastic; common very fine roots; few very fine tubular pores; few faint cutans on peds; neutral (pH 7.2); gradual smooth boundary
 
-    2Btb--14 to 20 inches; very dark brown (10YR 2/2) sandy clay loam, dark grayish brown (2.5Y 4/2) dry; weak medium prismatic and weak medium subangular blocky structure; slightly hard, friable, slightly sticky and slightly plastic; common very fine roots; common very fine tubular pores; common faint cutans on peds; mildly alkaline (pH 7.4); clear smooth boundary.  (0 to 10 inches thick)
+ 2Btb--36 to 51 cm; sandy clay loam, dark grayish brown (2.5Y 4/2) dry, very dark brown (10YR 2/2) moist; weak medium prismatic and weak medium subangular blocky structure; slightly hard, friable, slightly sticky and slightly plastic; common very fine roots; common very fine tubular pores; common faint cutans on peds; slightly alkaline (pH 7.4); clear smooth boundary
 
-   2C1--20 to 32 inches; very dark grayish brown (2.5Y 3/2) sandy clay loam, grayish brown (2.5Y 5/2) dry; massive; slightly hard, friable, slightly sticky and slightly plastic; few roots; many very fine pores; mildly alkaline (pH 7.4); clear smooth boundary.  (8 to 15 inches thick)
+ 2C1--51 to 81 cm; sandy clay loam, grayish brown (2.5Y 5/2) dry, very dark grayish brown (2.5Y 3/2) moist; massive; slightly hard, friable, slightly sticky and slightly plastic; few roots; many very fine pores; strongly effervescent; slightly alkaline (pH 7.4); clear smooth boundary
 
-    2C2--32 to 60 inches; dark grayish brown (2.5Y 4/2) sandy clay loam, light brownish gray (2.5Y 6/2) dry; massive; slightly hard, friable, slightly sticky and slightly plastic; few roots; many very fine pores; scattered white mycelial lime; mildly alkaline (pH 7.8).
+ 2C2--81 to 152 cm; sandy clay loam, light brownish gray (2.5Y 6/2) dry, dark grayish brown (2.5Y 4/2) moist; massive; slightly hard, friable, slightly sticky and slightly plastic; few roots; many very fine pores; scattered white mycelial lime; slightly alkaline (pH 7.8)
 
-TYPE LOCATION:  Lake County, Oregon; 50 feet south of Highway 140 on the west bank of Muddy Creek; NW corner of the NE1/4 NE1/4 section 20, T. 39 S., R. 19 E.
+TYPE LOCATION: Lake County, Oregon; 15 m south of Highway 140 on the west bank of Muddy Creek; northwest corner of NE1/4 NE1/4 section 20, T. 39 S., R. 19 E., Willamette Meridian; Lakeview Airport, Oregon USGS 7.5 Minute Topographic Quadrangle; latitude 42.1787 degrees north, longitude 120.498 degrees west, datum WGS 84 (coordinates derived from topographic map legal description)
 
-RANGE IN CHARACTERISTICS:  The mean annual soil temperature is 47 to 52 degrees F.  Soils are usually moist but are dry in all parts between depths of 4 to 12 inches for 50 to 90 days in the summer.  The solum and mollic epipedon range from 20 to 56 inches thick.  The 10 to 40-inch control section averages 20 to 35 percent clay and more than 15 percent fine sand or coarser.  The A and upper part of the B horizon are slightly acid to mildly alkaline.  The lower part of the B horizon and the C horizon are neutral to mildly alkaline.  Some pedons lack a B horizon.
+RANGE IN CHARACTERISTICS: 
+*Mean annual soil temperature-- 8 to 12 degrees C
+*Moisture control section--10 to 30 cm; usually moist, but dry in all parts for 50 to 90 days in the summer
+*Mollic epipedon--50 to 142 cm thick
 
-The A horizon and upper part of the Bt horizon have value of 3 through 5 dry, 2 moist, and chroma of 0 through 2 dry and moist.  The A horizon is loam, clay loam, or silty clay loam.
+Particle-size control section
+*Clay content--20 to 35 percent
+*Sand content--greater than 15 percent fine sand or coarser
 
-The 2B horizon has hue of neutral, 10YR or 2.5Y, value of 4 through 6 dry, 2 or 3 moist and chroma of 0 through 3 dry and moist.  It is clay loam, loam or sandy clay loam.
+A horizon
+*Value--3 to 5 dry, 2 moist
+*Chroma--0 to 2 dry or moist
+*Fine-earth texture--loam, clay loam, silty clay loam
+*Reaction--slightly acid to slightly alkaline (pH 6.1 to 7.8)
+*Thickness--10 to 20 cm
 
-The 2C horizon has hue of 2.5YR or 10YR, value of 2 to 4 moist, 3 to 6 dry and chroma of 2 or 3 moist and dry.  It is sandy clay loam, silt loam, or loam. Some pedons have a few scattered mycelial lime veins below 30 inches.
+Bt horizons (or Bw or AC horizons, where present)
+*Hue--10YR or neutral dry or moist
+*Value--3 to 5 dry, 2 moist
+*Chroma--0 to 2 dry or moist
+*Reaction--slightly acid to slightly alkaline (pH 6.1 to 7.8)
+*Thickness--0 to 50 cm
 
-COMPETING SERIES:  These are the Birdow, Blackrock, Coit, Dagor, Eastcan, Goose Creek, Soquel, and Willowdale series.  Birdow soils are calcareous throughout and are usually dry.  Blackrock soils have 20 to 35 percent rock fragments in the 10 to 40-inch control section and have Bk horizons at depths of 23 to 46 inches.  Coit soils are mottled and calcareous throughout the control section.  Dagor soils are medium textured, well drained, noncalcareous throughout and lack a water table to depths of 60 inches.  Eastcan soils are calcareous throughout and have mottles below depth of 25 to 40 inches.  Goose Creek soils are mottled at depths of less than 35 inches.  Monroe soils have a loam or fine sandy loam texture control section and are usually dry.  Soquel soils have mean annual soil temperature of about 57 degrees F.  Willowdale soils are usually dry, well drained and are calcareous at depths below 20 inches.
+2Bt horizons
+*Hue--neutral, 10YR, 2.5Y dry or moist
+*Value--4 to 6 dry, 2 or 3 moist
+*Chroma--0 to 3 dry or moist
+*Fine-earth texture--clay loam, loam, sandy clay loam
+*Reaction--neutral to slightly alkaline (pH 6.6 to 7.8)
+*Thickness--0 to 25 cm
 
-GEOGRAPHIC SETTING:  Lakeview soils are on flood plains and   alluvial fans at elevations of 4,050 to 5,500 feet.  Slopes are 0 to 5 percent.  The soils formed in alluvium weathered from tuff, andesite, rhyolite, and basalt and mixed with small amounts of ash.  The climate is characterized by hot dry summers and cool wet winters.  The mean annual precipitation is 8 to 18 inches.  The mean January temperature is 27 to 29 degrees F., the mean July temperature is 65 to 69 degrees F., and the mean annual temperature is 45 to 50 degrees F.  The frost-free period is 70 to 110 days.
+2C horizons
+*Hue--2.5Y or 10YR dry or moist
+*Value--3 to 6 dry, 2 to 4 moist
+*Chroma--2 or 3 dry or moist
+*Fine-earth texture--sandy clay loam, silt loam, loam
+*Reaction--neutral to slightly alkaline (pH 6.6 to 7.8)
+*Calcium carbonate--some pedons have few scattered mycelial lime veins below 75 cm
 
-GEOGRAPHICALLY ASSOCIATED SOILS:  These are the Drews, Goose Lake, Malin, Ozmais, and Stockdrive soils.  Drews soils are on terraces, are well drained and have an argillic horizon.  Goose Lake soils are poorly drained and have an albic horizon that grades abruptly to a clayey Bt horizon.  Malin soils are sodic and average 35 to 50 percent clay.  Ozamis soils are poorly drained and have a mollic epipedon 10 to 15 inches thick.  Stockdrive soils are sodic and have a natric horizon.
+COMPETING SERIES:
+Birdow--calcareous throughout; usually dry (moisture regime is Xeric bordering on Aridic)
+Blackrock--20 to 35 percent rock fragments in the particle-size control section; Bk horizons at 58 to 116 cm
+Collister--redoximorphic features at depths below 60 to 120 cm; B horizons extending depths greater than 40 cm below the surface; lack Bt horizons and a lithologic discontinuity
+Dagor--well drained; noncalcareous throughout; lack water table to depths of 152 cm
+Draper--lack B horizons; redoximorphic features at depths below 75 cm; may have 15 to 20 percent fine gravel; formed in alluvium with no influence of volcanic ash
+Eastcan--calcareous throughout; mottles below 63 to 100 cm
+Fanu--dry in summer and fall except for 10 to 20 days cumulative between July and October due to convection storms (Xeric Aridic moisture regime); secondary carbonates present below 18 to 60 cm
+Goose Creek--have redoximorphic features at depths of less than 89 cm
+Goosenawt--do not have a water table or redoximorphic features within 200 cm (well drained); have buried A horizons; formed in alluvium and lacustrine sediments with no influence of volcanic ash
+Gosinta--lack Bt horizons and buried B horizons; 35 to 55 percent gravel in the lower part of the profile (2C horizons) 
+Heidtman--secondary carbonates at depths below 25 to 76 cm; lack argillic horizons and a lithologic discontinuity; formed in alluvium from granitic rock with no influence of volcanic ash
+Monroe--loam or fine sandy loam texture in the particle-size control section; usually dry (moisture regime is Aridic bordering on Xeric)
+Oxy--moderately deep (50 to 100 cm depth to basalt bedrock); 15 to 30 percent rock fragments in the particle-size control section 
+Shoepeg--lack Bt horizons and buried B horizons; have redoximorphic features below 50 to 90 cm; have frost free period of 130 to 150 days; have a mean annual air temperature of 10 to 12 degrees C
+Willowdale--do not have a water table or redoximorphic features within 200 cm (well drained); calcareous below 50 cm; usually dry (soil moisture regime is Aridic)
+Winn--lack Bt horizons and lithologic discontinuity; effervescent throughout; formed in alluvium from limestone, sandstone, and quartzite with no influence of volcanic ash
 
-DRAINAGE AND PERMEABILITY:  Moderately well drained and somewhat poorly drained;  moderately slow permeability.  The soils have rare or occasional flooding.
+GEOGRAPHIC SETTING:
+Elevation--1234 to 1676 m
+Climate--hot, dry summers and cool, wet winters
+Mean annual air temperature-- 7 to 11 degrees C
+Mean annual precipitation--203 to 570 mm
+Mean January temperature-- -3 to -2 degrees C 
+Mean July temperature-- 18 to 21 degrees C
+Frost-free period--50 to 110 days
 
-USE AND VEGETATION:  Lakeview soils are used for irrigated pasture, small grains, and alfalfa, and wildlife habitat.  Potential native vegetation is basin wildrye and basin big sagebrush.  In areas with a more alkali surface, black greasewood and inland saltgrass are present.
+GEOGRAPHICALLY ASSOCIATED SOILS:
+Drews--on terraces; well drained; argillic horizon
+Goose Lake--on lake terraces; poorly drained; albic horizon that grades abruptly to a clayey Bt horizon
+Malin--on flood plains and lake bottoms; sodic; average 35 to 50 percent clay
+Ozamis--on lakebeds, alluvial flats, and flood plains; poorly drained; mollic epipedon 25 to 38 cm thick
+Stockdrive--on low lake terraces; sodic; natric horizon
 
-DISTRIBUTION AND EXTENT:  Lake basins in south-central Oregon and northern California; MLRA 21.  The soils are moderately extensive.
+DRAINAGE AND SATURATED HYDRAULIC CONDUCTIVITY:
+Drainage class--moderately well drained and somewhat poorly drained
+Saturation in normal years--oxyaquic conditions below a depth of 76 cm in March through September
+Saturated hydraulic conductivity (Ksat)--moderately high
+Flooding--rare or occasional
 
-MLRA SOIL SURVEY REGIONAL OFFICE (MO) RESPONSIBLE: Davis, California
+USE AND VEGETATION:
+Use--wildlife habitat; irrigated pasture; small grains, alfalfa 
+Vegetation--basin wildrye and basin big sagebrush; black greasewood and inland saltgrass present in areas with a more alkaline surface
 
-SERIES ESTABLISHED:  Modoc County (Alturas Area), California, 1974.
+DISTRIBUTION AND EXTENT: Klamath and Shasta Valleys and Basins, OR and CA; MLRA 21; moderately extensive 
 
-REMARKS:  Diagnostic horizons and features recognized in this pedon are:
+SOIL SURVEY REGIONAL OFFICE (SSRO) RESPONSIBLE: Davis, California
 
-Mollic epipedon: The zone from 0 to 20 inches (A, Bt1, Bt2, 2Btb horizons)
+SERIES ESTABLISHED:
+Modoc County (Alturas area), California, 1974
+
+REMARKS:
+Diagnostic horizons and features in this pedon
+*Mollic epipedon--A, Bt1, Bt2, 2Btb horizons
+*Organic matter--decreases irregularly with increasing depth
+*Particle-size control section--zone from 25 to 100 cm
 
 Irregular decrease in organic matter with depth
 
 In some pedons, the Bt horizon is absent and Bw and/or AC horizons are present.
+
+07/2022: updates to this document were primarily formatting; also updated the competing series section; expanded the climatic ranges slightly; added information on saturation.
+
+ADDITIONAL DATA: 
+NASIS SITE ID--1999OR037001; NASIS PEDON ID--1999OR037001
 
 National Cooperative Soil Survey
 U.S.A.

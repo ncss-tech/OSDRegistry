@@ -2,7 +2,7 @@ LOCATION BROADAXE               FL
 
 Tentative Series
 RBT
-11/2023
+02/2024
 
 BROADAXE SERIES
 
@@ -17,33 +17,23 @@ Mean annual air temperature--22 degrees C (71.6 degrees F)
 Mean annual precipitation--1300 millimeters (51.1 inches)
 Mean annual water temperature--24.7 degrees C (76.6 degrees F)
 
-TAXONOMIC CLASS: Mixed, hyperthermic Aeric Psammowassents
+TAXONOMIC CLASS: Siliceous, hyperthermic Fluventic Psammowassents
 
-TYPICAL PEDON: Broadaxe loamy fine sand on an east facing, 0.5 percent linear slope bare sand submerged wave-cut platform under 0.68 meters of estuarine water. Tidal range is 24 cm. (Colors are for moist soil unless otherwise noted).
+TYPICAL PEDON: Broadaxe fine sand on an east facing, 0.5 percent linear slope bare sand submerged wave-cut platform under 0.81 meters of estuarine water. Tidal range is 24 cm. (Colors are for moist soil unless otherwise noted).
 
- Cseg1--0 to 8 centimeters; dark grayish brown (2.5Y 4/2) fine sand; single grain; nonsticky, nonplastic; nonfluid; no sulfurous odor; positive peroxide color change (3%); moderately alkaline (pH 8.1); clear boundary.
+ Aseg--0 to 18 centimeters; olive gray (5Y 4/2) fine sand; structureless massive; nonsticky, nonplastic; nonfluid; few very fine and fine and common medium roots throughout; 8 percent shell fragments; strong sulfurous odor; slight reaction 30 percent peroxide; moderately alkaline (pH 8.4); clear boundary. (0 to 18 centimeters)
 
- Cseg2--8 to 27 centimeters; pale yellow (2.5Y 8/2) fine sand; single grain; nonsticky, nonplastic; nonfluid; 2 percent shell fragments; no sulfurous odor; positive peroxide color change (3%); strongly alkaline (pH 8.6); gradual boundary. 
+ Cseg--18 to 40 centimeters; dark gray (2.5Y 4/1) shelly loamy fine sand; structureless massive; nonsticky, nonplastic; nonfluid; 15 percent by volume shell fragments; slight sulfurous odor; slight reaction 30 percent peroxide; moderately alkaline (pH 8.0); clear boundary. (20 to 164 centimeters thick)
 
- Cseg3--27 to 50 centimeters; 60 percent light gray (2.5Y 7/1) and 40 percent dark gray (2.5Y 4/1) fine sand; single grain; nonsticky, nonplastic; nonfluid; 3 percent shell fragments; no sulfurous odor; positive peroxide color change (3%); strongly alkaline (pH 8.8); clear boundary. 
+ 2Aseb--40 to 113 centimeters; black (5YR 2.5/1) fine sand; structureless massive; nonsticky, nonplastic; nonfluid; no sulfurous odor; slight reaction 30 percent peroxide; neutral (pH 7.2); clear boundary. (0 to 41 centimeters thick)
 
- Cseg4--50 to 67 centimeters; 70 percent dark gray (2.5Y 4/1) and 30 percent light gray (2.5Y 7/1) loamy fine sand; single grain; slightly sticky, nonplastic; nonfluid; 5 percent shell fragments; no sulfurous odor; positive peroxide color change (3%); strongly alkaline (pH 8.5); clear boundary. (20 to 164 centimeters thick)
+ 2Bhsseb--113 to 156 centimeters; dark brown (10YR 3/3) fine sand; structureless massive; nonsticky, nonplastic; nonfluid; no sulfurous odor; slight reaction 30 percent peroxide; slightly alkaline (pH 7.6); gradual boundary.
 
- 2Aseb--67 to 78 centimeters; 95 percent gray (2.5Y 5/1) and 5 percent light gray (2.5Y 7/1) loamy fine sand; single grain; slightly sticky, nonplastic; nonfluid; no sulfurous odor; positive peroxide color change (3%); moderately alkaline, (pH 8.0); clear boundary. (0 to 41 centimeters thick)
+ 2Bsseb--156 to 239 centimeters; light yellowish brown (2.5Y 6/3) fine sand; structureless massive; nonsticky, nonplastic; nonfluid; no sulfurous odor; slight reaction 30 percent peroxide; slightly alkaline (pH 7.8). (0 to 131 centimeters thick)
 
- 2Eseb--78 to 91 centimeters; 95 percent light gray (2.5Y 7/1) and 5 percent very dark gray (2.5Y 3/1) fine sand; single grain; nonsticky, nonplastic; nonfluid; no sulfurous odor; positive peroxide color change (3%); moderately alkaline, (pH 8.2); clear boundary. (0 to 100 centimeters thick)
-
- 2Bhsseb--91 to 121 centimeters; 50 percent very dark grayish brown (10YR 3/2) and 50 percent dark brown (10YR 3/3) loamy fine sand; single grain; slightly sticky, nonplastic; nonfluid; few fine and medium roots at the top of the horizon; no sulfurous odor; positive peroxide color change (3%); moderately alkaline, (pH 8.2); clear boundary.
-
- 2Bsseb1--121 to 184 centimeters; dark yellowish brown (10YR 3/4) loamy fine sand; single grain; nonsticky, nonplastic; nonfluid; few medium and common fine roots throughout; no sulfurous odor; positive peroxide color change (3%); slightly alkaline, (pH 7.6); gradual boundary.
-
- 2Bsseb2--184 to 208 centimeters; brown (10YR 4/3) loamy fine sand; single grain; slightly sticky, nonplastic; nonfluid; few medium and common fine roots throughout; no sulfurous odor; positive peroxide color change (3%); slightly alkaline, (pH 7.8); gradual boundary. (0 to 131 centimeters thick)
-
- 2Cseg--208 to 230 centimeters; greenish gray (10Y 6/1) sandy loam; massive; slightly sticky, nonplastic; nonfluid; few fine and medium roots throughout; slight sulfurous odor; positive peroxide color change (3%); moderately alkaline, (pH 8.0).
-
-TYPE LOCATION: Brevard County, Florida; approximately 1,029 feet east of the intersection of S Tropical Trail and Waring Way and 930 feet northeast of the intersection of S Tropical Trail and Rainbow Street, and about 360 feet east of shore edge; USGS topographic quadrangle: Cocoa, Florida.
-Latitude--28.2864105
-Longitude-- -80.6673776 
+TYPE LOCATION: Brevard County, Florida; approximately 1,665 feet northeast of the intersection 10th Street Southeast and Banana River Drive Northeast on the Kennedy Space Center property and approximately 1.01 miles west-southwest of the NASA Parkway East bridge navigation channel; USGS topographic quadrangle: Orsino, Florida.
+Latitude--28.5103330
+Longitude-- -80.6277670 
 Datum--WGS84
 Coordinate source--Manually entered from GPS
 
@@ -57,7 +47,7 @@ Oxidized reaction--?
 Electrical conductivity (1:5 soil-water) throughout--0.6 dS/m or greater
 Depth to sulfidic materials (oxidized pH 4.0)--?
 Manner of failure--Nonfluid to slightly fluid
-Shell fragments throughout--0 to 90 percent in the estuarine deposits and 0 to 3 percent in the fluviomarine materials (but can range up to 10 percent)
+Shell fragments throughout--0 to 90 percent in the estuarine deposits (horizons with considerable shell fragments are thin enough to keep the soil out of the skeletal or fragmental families) and 0 to 3 percent in the fluviomarine materials (but can range up to 10 percent)
 
 Aseg horizon-
 Hue--10YR to 10Y or is neutral
@@ -72,12 +62,12 @@ Chroma--2 or less
 Texture--Sand, fine sand, loamy sand, loamy fine sand, sandy loam, or fine sandy loam with shelly, very shelly, extremely shelly, or shell analogs
 
 2Asegb horizon-
-Hue--10YR to 10Y or is neutral
+Hue--5YR to 10Y or is neutral
 Value--2 to 5
 Chroma--1 or less
 Texture--Fine sand, loamy fine sand, loamy sand, or fine sandy loam (loamy textured horizons are usually quite thin)
 
-2Esegb horizon-
+2Esegb horizon (where present)-
 Hue--7.5YR to 10Y
 Value--4 to 7
 Chroma--2 or less
@@ -91,7 +81,7 @@ Texture--Fine sand, loamy fine sand, loamy sand
 
 2Bsseb horizon-
 Hue--7.5YR to 2.5Y
-Value--3 to 5
+Value--3 to 6
 Chroma--2 to 4
 Texture-Fine sand, loamy fine sand, loamy sand, or fine sandy loam (finer texture is often deeper than 100 centimeters)
 
@@ -113,12 +103,11 @@ Mean annual air temperature--20 to 25 degrees C (69 to 77 degrees F)
 Water salinity range--18 to 29 parts per thousand
 Frost-free period--365 days
 
-GEOGRAPHICALLY ASSOCIATED SOILS: These are the Cocharan, Crawl, Endeavor Ittsanapper, and Tea Hammock soils.
-
-Cocharan soils--are on mainland coves and have limnic materials
-Crawl soils--are on nearby anthropogenic landforms in deep (> 4 meters) dredge channels primarily used for navigation throughout the waterbody
+GEOGRAPHICALLY ASSOCIATED SOILS: 
+These are the Endeavor, Ittsanapper, Mullet, and Tea Hammock soils.
 Endeavor soils--are on relict flood-tidal delta sand flats and slopes and have considerable shell fragments throughout
 Ittsanapper soils--are on lagoon bottom landforms, usually at deeper water depths, and have thicker finer textured materials
+Mullet soils--are on washover-fan flat landforms and lack the humilluvic materials
 Tea Hammock soils--are also on nearby anthropogenic landforms consisting of dredge shoal deposits
 
 DRAINAGE AND SATURATED HYDRAULIC CONDUCTIVITY:
@@ -143,17 +132,16 @@ SERIES ESTABLISHED: Brevard County, Florida, 2024
 
 REMARKS:
 Diagnostic horizons and features in this pedon include-- 
--Peraquic soil moisture regime--Positive soil water potential (permanently submerged) at the soil surface. (under 0.68 meters of salt water).
--Particle-size control section--The zone from 0 to 100 cm (0 to 40 inches).
--Lithologic Discontinuity--67 to 230 centimeters (2Aseb, 2Eseb, 2Bhsseb, 2Bsseb1, 2Bsseb2, and 2Cseg horizons).
--Preserved albic horizon--78 to 91 centimeters (2Eseb horizon)
--Preserved spodic horizon--91 to 208 centimeters (2Bhsseb, 2Bsseb1, and 2Bsseb2 horizons).
+-Peraquic soil moisture regime--Positive soil water potential (permanently submerged) at the soil surface. (under 0.81 meters of salt water).
+-Particle-size control section--The zone from 0 to 100 centimeters (0 to 40 inches).
+-Ochric epipedon--the zone from 0 to 18 centimeters (Aseg horizon).
+-Lithologic Discontinuity--40 to 239 centimeters (2Aseb, 2Bhsseb, and 2Bsseb horizons).
+-Preserved spodic horizon / humilluvic materials--113 to 239 centimeters (2Bhsseb and 2Bsseb horizons).
 -Sulfidic materials--?.
--Aeric subgroup--chroma of 3 or more in 40 percent or more of matrix horizon (2Bhsseb horizon, 91 to 121 centimeters).
--Taxonomic version--Keys to Soil Taxonomy, 13th edition (2022)
+-Taxonomic version--Keys to Soil Taxonomy, 13th edition (2022).  The classification will need to be revised to a Thapto-Humic Psammowassents.
 
 ADDITIONAL DATA:
-Typical pedon 2021FL009042 (pedon above), 2021FL009069, or 2020FL009010
+Typical pedon S2023FL009003 (pedon above), 2021FL009042, 2021FL009069, or 2020FL009010.
 ________________________________________
 National Cooperative Soil Survey
 U.S.A.
