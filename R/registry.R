@@ -1,8 +1,8 @@
 #' Automatic update by regional queries to NASIS soil series server
 #'
-#' @param test Default: `FALSE`; run on a pair of small regions (MO 3, 7)
+#' @param test Default: `FALSE`; run on a pair of small regions (MO 12, 13)
 #' @param port Passed to [RSelenium::rsDriver()]. Default: `4567L`.
-#' @param moID Region ID codes (Default `1:13`, or `c(3,7)` when `test=TRUE`)
+#' @param moID Region ID codes (Default `1:13`, or `c(12, 13)` when `test=TRUE`)
 #'
 #' @description Text files are written to alphabetical (first letter) folders containing raw Official Series Descriptions (OSDs). This method is for use in automatic pipeline (e.g. a GitHub action) to regularly replicate changes that occur across the entire set of series for commit.
 #'
@@ -23,11 +23,11 @@
 #'
 #' @importFrom utils unzip write.csv
 #' @importFrom RSelenium rsDriver makeFirefoxProfile
-refresh_registry <- function(test = FALSE, moID = 1:13, port = 4567L) {
+refresh_registry <- function(test = FALSE, moID = c(2, 3, 4, 9, 10, 12, 13), port = 4567L) {
 
   message("Setting up RSelenium...")
 
-  if(!requireNamespace("RSelenium"))
+  if (!requireNamespace("RSelenium"))
     stop("package `RSelenium` is required to download ZIP files")
 
   target_dir <- file.path(path.expand("~"), "Downloads") # file.path(getwd(), 'raw')
@@ -43,10 +43,14 @@ refresh_registry <- function(test = FALSE, moID = 1:13, port = 4567L) {
     "moz:firefoxOptions" = list(args = list('--headless'))
   )
 
-  res <- try(rD <- RSelenium::rsDriver(browser = "firefox",
-                                       chromever = NULL,
-                                       extraCapabilities = eCaps,
-                                       port = as.integer(port)))
+  res <- try({
+    rD <- RSelenium::rsDriver(
+      browser = "firefox",
+      chromever = NULL,
+      extraCapabilities = eCaps,
+      port = as.integer(port)
+    )
+  })
 
   ## chrome driver setup
   # eCaps <- list(chromeOptions =
@@ -88,39 +92,57 @@ refresh_registry <- function(test = FALSE, moID = 1:13, port = 4567L) {
   message("Refreshing OSDs...")
 
   idx <- moID
-  if(test == TRUE)
-    idx <- c(3,7)
+  if (test == TRUE)
+    idx <- c(12, 13)
 
   # iterate over MO responsible codes 1:13
   zips <- character()
-  for(i in idx) {
-    res <- .query_series_by_region(remDr, i)
+  for (i in idx) {
 
-    # try up to two additional times
-    if (inherits(res, 'try-error')) {
-      res <- .query_series_by_region(remDr, i)
+    # SWR and NWR have by far the most series, dont bother trying to do in one shot
+    if (!i %in% c(2, 4)) {
+      res <- try(.query_series_by_region(remDr, i))
+
+      # try up to additional times
       if (inherits(res, 'try-error')) {
-        res <- .query_series_by_region(remDr, i)
+        res <- try(.query_series_by_region(remDr, i))
       }
     }
 
-    ## batching within region no longer needed (it seems)
-    # if (inherits(res, 'try-error')) {
-    #   res1 <- .query_series_by_region(remDr, i,
-    #                                   start_year = 1800,
-    #                                   end_year = 1980)
-    #   res2 <- .query_series_by_region(remDr,
-    #                                   i,
-    #                                   start_year = 1980,
-    #                                   end_year = format(Sys.Date(), "%Y"))
-    #   if (!inherits(res1, 'try-error') &&
-    #       !inherits(res2, 'try-error')) {
-    #     res <- c(res1, res2)
-    #   }
-    # }
+    if (i %in% c(2, 4) || inherits(res, 'try-error')) {
+      res1 <- try(.query_series_by_region(remDr, i,
+                                          start_year = 1800,
+                                          end_year = 1975))
+      res2 <- try(.query_series_by_region(remDr, i,
+                                          start_year = 1976,
+                                          end_year = 1990))
+      res3 <- try(.query_series_by_region(remDr, i,
+                                          start_year = 1991,
+                                          end_year = 2005))
+      res4 <- try(.query_series_by_region(remDr, i,
+                                          start_year = 2006,
+                                          end_year = format(Sys.Date(), "%Y")))
+
+      # TODO: why does above cause 500 error? no established series in current year? strange
+      if (inherits(res4, 'try-error')) {
+        res4 <- try(.query_series_by_region(remDr, i,
+                                            start_year = 2006,
+                                            end_year = as.numeric(format(Sys.Date(), "%Y")) - 1))
+
+      }
+
+      if (!inherits(res1, 'try-error') &&
+          !inherits(res2, 'try-error') &&
+          !inherits(res3, 'try-error') &&
+          !inherits(res4, 'try-error')) {
+        res <- c(res1, res2, res3, res4)
+      } else {
+        res <- try(stop("splitting region " , i, " by year failed"))
+      }
+    }
 
     if (!inherits(res, 'try-error')) {
-      if (!is.na(res))
+      if (!is.na(all(res)))
         zips <- c(zips, res)
     } else {
       message(paste0("Error querying OSDs region (", i, ")"))

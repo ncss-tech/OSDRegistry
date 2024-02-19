@@ -7,9 +7,9 @@
 refresh_registry(test = FALSE, moID = 1:13, port = 4567L)
 }
 \arguments{
-\item{test}{Default: \code{FALSE}; run on a pair of small regions (MO 3, 7)}
+\item{test}{Default: \code{FALSE}; run on a pair of small regions (MO 12, 13)}
 
-\item{moID}{Region ID codes (Default \code{1:13}, or \code{c(3,7)} when \code{test=TRUE})}
+\item{moID}{Region ID codes (Default \code{1:13}, or \code{c(12, 13)} when \code{test=TRUE})}
 
 \item{port}{Passed to \code{\link[RSelenium:rsDriver]{RSelenium::rsDriver()}}. Default: \code{4567L}.}
 }

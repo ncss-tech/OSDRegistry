@@ -7,7 +7,9 @@ name: refresh-osd
 on:
  schedule:
  - cron:  '0 0 * * 1'
-
+ push:
+    paths:
+      - 'refresh-osd.yml'
  workflow_dispatch:
 
 # see: https://docs.github.com/en/free-pro-team@latest/actions/reference/workflow-syntax-for-github-actions
@@ -17,7 +19,7 @@ jobs:
     runs-on: ubuntu-22.04
 
     steps:
-    - uses: actions/checkout@v3
+    - uses: actions/checkout@v4
 
     # try fixing a specific firefox version 109.0 for now
     - run: |
@@ -41,7 +43,7 @@ jobs:
       with:
         name: OSD-data-snapshot
         path: "OSD-data-snapshot.zip"
-    - uses: actions/upload-artifact@v3
+    - uses: actions/upload-artifact@v4
       with:
         name: SC-data-snapshot
         path: "SC-data-snapshot.zip"
@@ -53,7 +55,7 @@ jobs:
     - run: Rscript -e 'system(sprintf("git commit -am \"SC Data Refresh - %s\"", Sys.Date()))'
     - run: git push
     - name: Upload snapshot to release
-      uses: svenstaro/upload-release-action@v2
+      uses: svenstaro/upload-release-action@v3
       with:
         repo_token: ${{ secrets.GITHUB_TOKEN }}
         file: "*-data-snapshot.zip"
