@@ -36,10 +36,22 @@
   osd_result2 <- try(rvest::session_submit(osd_session, osd_request2, "view"))
   Sys.sleep(0.5)
 
+  ## Create download directories
+  # ideally we would be able to use RSelenium and browser options to go right to /raw
+  target_dir <- file.path(getwd(), 'raw')
+  if (!dir.exists(target_dir))
+    dir.create(target_dir, recursive = TRUE)
+
+  # but it may download to the default path (user Downloads folder)
+  default_dir <- file.path(path.expand('~'), "Downloads")
+  # if (!dir.exists(default_dir))
+  #   dir.create(default_dir, recursive = TRUE)
+
   ## -- STEP 2 - VIEW results (in separate window for "big" queries)
   if (inherits(osd_result2, 'try-error')) {
     # osd_result2 <- try(submit_form(osd_session, osd_request2, "download"))
-    stop('This utility only works with queries that require a separate page for viewing.')
+    message('This utility only works with queries that require a separate page for viewing. Skipping region: ', x)
+    return(NA_character_)
   } else {
     osd_hidden_report <- rvest::html_form(osd_result2)[[1]]$fields$hidden_report_filename
     url2 <- sprintf("https://soilseries.sc.egov.usda.gov/osdquery_view.aspx?query_file=%s&",
@@ -51,16 +63,6 @@
     ## -- STEP 3 - DOWNLOAD
     osd_result3 <- rvest::session_submit(osd_session2, osd_request3, submit = "download")
     remDr$navigate(osd_result3$url)
-
-    # ideally we would be able to use RSelenium and browser options to go right to /raw
-    target_dir <- file.path(getwd(), 'raw')
-    if (!dir.exists(target_dir))
-      dir.create(target_dir, recursive = TRUE)
-
-    # but it may download to the default path (user Downloads folder)
-    default_dir <- file.path(path.expand('~'), "Downloads")
-    # if (!dir.exists(default_dir))
-    #   dir.create(default_dir, recursive = TRUE)
 
     file_name <- list.files(target_dir, "osddwn.*zip$")
     dfile_name <- list.files(default_dir, "osddwn.*zip$")
@@ -109,7 +111,7 @@
     } else {
       return(try(stop(sprintf("Problem with OSD Download for Region %s", x), call. = FALSE)))
     }
+    file.path(default_dir, new_dfile_name)
   }
 
-  file.path(default_dir, new_dfile_name)
 }

@@ -120,7 +120,8 @@ refresh_registry <- function(test = FALSE, moID = 1:13, port = 4567L) {
     # }
 
     if (!inherits(res, 'try-error')) {
-      zips <- c(zips, res)
+      if (!is.na(res))
+        zips <- c(zips, res)
     } else {
       message(paste0("Error querying OSDs region (", i, ")"))
     }
@@ -155,13 +156,13 @@ refresh_registry <- function(test = FALSE, moID = 1:13, port = 4567L) {
 
   sc <- .download_NASIS_SC_webreport()
 
-  if (inherits(sc, 'try-error') || 
+  if (inherits(sc, 'try-error') ||
       !inherits(sc, 'data.frame') ||
       nchar(as.character(sc[1])) == 0) {
     warning('Failed to update Series Classification database via NASIS Web Report', "\n\n",
             sc[1], call. = FALSE)
   } else {
-    if (!dir.exists("SC")) 
+    if (!dir.exists("SC"))
       dir.create("SC")
     if (nrow(sc) > 0) {
       write.csv(sc, file = file.path("SC", "SCDB.csv"), row.names = FALSE)
