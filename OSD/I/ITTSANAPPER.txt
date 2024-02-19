@@ -2,7 +2,7 @@ LOCATION ITTSANAPPER            FL
 
 Tentative Series
 RBT
-11/2023
+02/2024
 
 ITTSANAPPER SERIES
 
@@ -17,59 +17,57 @@ Mean annual air temperature--22 degrees C (71.6 degrees F)
 Mean annual precipitation--1300 millimeters (51.1 inches)
 Mean annual water temperature--24.7 degrees C (76.6 degrees F)
 
-TAXONOMIC CLASS: Coarse-loamy, mixed, subactive, nonacid, hyperthermic Typic Haplowassents
+TAXONOMIC CLASS: Coarse-loamy, mixed, subactive, nonacid, hyperthermic Grossic Hydrowassents
 
-TYPICAL PEDON: Ittsanapper fine sandy loam on a west facing, 0.5 percent linear slope bare mud lagoon bottom under 1.80 meters of estuarine water. Tidal range is 24 centimeters. (Colors are for moist soil unless otherwise noted).
+TYPICAL PEDON: Ittsanapper sandy loam on a east facing, 0.1 percent linear slope bare mud lagoon bottom under 3.35 meters of estuarine water. Tidal range is 24 centimeters. (Colors are for moist soil unless otherwise noted).
 
- Aseg1--0 to 6 centimeters; dark greenish gray (10Y 4/1) fine sandy loam; massive; slightly sticky, nonplastic; nonfluid; 3 percent shell fragments; slight sulfurous odor; moderately alkaline (pH 8.2); clear boundary.
+ Cseg1--0 to 22 centimeters; dark greenish gray (5GY 4/1) sandy loam; massive; nonsticky, nonplastic; slightly fluid; 17 percent shell fragments; moderate sulfurous odor; moderately alkaline (pH 8.4); clear boundary.
 
- Aseg2--6 to 19 centimeters; greenish gray (10Y 5/1) fine sandy loam; massive; slightly sticky, nonplastic; nonfluid; 8 percent shell fragments; slight sulfurous odor; moderately alkaline (pH 8.3); abrupt boundary. (0 to 58 centimeters thick)
+ Cseg2--22 to 61 centimeters; dark greenish gray (5G 4/1) loam; massive; slightly sticky, nonplastic; slightly fluid; 15 percent shell fragments; slight sulfurous odor; moderately alkaline (pH 8.4); clear boundary. (25 to 187 centimeters thick)
 
- 2Cseg1--19 to 43 centimeters; greenish gray (5GY 5/1) extremely shelly fine sandy loam; massive; slightly sticky, nonplastic; nonfluid; 70 percent shell fragments; moderate sulfurous odor; moderately alkaline (pH 8.4); abrupt boundary. 
+ 2Cseg3--61 to 116 centimeters; dark greenish gray (5G 4/1) silty clay loam; massive; slightly sticky, nonplastic; moderately fluid; 4 percent shell fragments; slight sulfurous odor; strongly alkaline (pH 8.6); gradual boundary.
 
- 3Cseg2--43 to 72 centimeters; greenish gray (10Y 5/1) fine sandy loam;  massive; slightly sticky, nonplastic; nonfluid; 2 percent shell fragments; slight sulfurous odor; moderately alkaline (pH 8.0); gradual boundary. 
+ 2Cseg4--116 to 149 centimeters; 70 percent greenish gray (10GY 5/1) and 30 percent greenish gray (5GY 6/1) silty clay loam; massive; slightly sticky, nonplastic; moderately fluid; 3 percent shell fragments; slight sulfurous odor; moderately alkaline (pH 8.4); clear boundary.
 
- 3Cseg3--72 to 88 centimeters; greenish gray (5GY 5/1) silt loam; massive; slightly sticky, nonplastic; slightly fluid; 3 percent shell fragments; moderate sulfurous odor; strongly alkaline, (pH 8.5); clear boundary.
+ 2Cseg5--149 to 232 centimeters; dark greenish gray (5G 4/1) silty clay loam; massive; slightly sticky, nonplastic; very fluid; 7 percent shell fragments; slight petrochemical odor; strongly alkaline (pH 8.6).
 
- 3Cseg4--88 to 120 centimeters; greenish gray (5GY 5/1) silty clay loam; massive; moderately sticky, slightly plastic; very fluid; 3 percent shell fragments; moderate sulfurous odor; moderately alkaline, (pH 8.1); gradual boundary.
-
- 3Cseg5--120 to 168 centimeters; greenish gray (5GY 5/1) fine sandy loam; massive; slightly sticky, nonplastic; nonfluid; 3 percent shell fragments; slight sulfurous odor; moderately alkaline, (pH 8.2); gradual boundary.
-
- 3Cseg6--168 to 203 centimeters; dark greenish gray (5GY 4/1) fine sandy loam; massive; slightly sticky, nonplastic; nonfluid; 3 percent shell fragments; moderate sulfurous odor; strongly alkaline, (pH 8.5); clear boundary.
-
- 3Cseg7--203 to 220 centimeters; dark greenish gray (5GY 4/1) silt loam; massive; slightly sticky, nonplastic; slightly fluid; 3 percent shell fragments; moderate sulfurous odor; strongly alkaline, (pH 8.6).
-
-TYPE LOCATION: Brevard County, Florida; Cape Canaveral, approximately 2,952 feet north-northeast of the road intersections of Samuel C Phillips Parkway (401) and Payne Way and approximately 4,904 feet northwest of the intersections of Samuel C Phillips Parkway (401) and South Patrol Road, just north of Port Canaveral. USGS topographic quadrangle: Cape Canaveral, Florida.
-
-Latitude--28.4267395
-Longitude-- -80.6136071 
+TYPE LOCATION: Brevard County, Florida; approximately 1 mile east of Greater Byrd Island and 0.93 miles southeast of Lesser Byrd Island; USGS topographic quadrangle: Cocoa, Florida.
+Latitude--28.2728830
+Longitude-- -80.6388080 
 Datum--WGS84
 Coordinate source--Manually entered from GPS
 
 RANGE IN CHARACTERISTICS:
 Depth to bedrock--Greater than 200 centimeters
+Depth to lithologic discontinuity (where present)--35 to 150 centimeters and is usually represented by finer textured materials containing lower percentages of shell fragments (lagoon bottom materials)
 Particle--size control section--Less than 18 percent clay
 Soil moisture--Continuously inundated
 Reaction throughout--Slightly alkaline to strongly alkaline (pH 7.4 to 9.0)
 Oxidized reaction--?
 Electrical conductivity (1:5 soil-water) throughout--0.6 dS/m or greater
 Depth to sulfidic materials (oxidized pH4.0)--?
-Manner of failure--Nonfluid to moderately fluid
+Manner of failure--Slightly fluid to very fluid
 Shell fragments throughout--0 to 90 percent (higher ranges occur in thin individual horizons)
 
-Aseg-
+Aseg (where present)-
 Hue--2.5Y to 10Y or is neutral
 Value--2.5 to 5
 Chroma--1 or less
 Texture--Sandy loam, fine sandy loam or loamy fine sand
 
 Cseg horizon-
-Hue--5Y, 10Y, 5GY, 10GY, 5B, 5G or is neutral
+Hue--5Y, 10Y, 5GY, 10GY, 5B, 5G, 5BG, or is neutral
 Value--3 to 7
 Chroma--1 or less
-Textures--Fine sandy loam, sandy loam, silt loam, silty clay loam or loamy fine sand with shelly, very shelly or extremely shelly analogs
+Texture--Fine sandy loam, sandy loam, silt loam, silty clay loam, silty clay or loamy fine sand with shelly, very shelly or extremely shelly analogs
 
-Thin strata of sandy material are found in some pedons. 
+2Cseg horizon-
+Hue--10Y, 5GY, 5G, 10GY, 10B, 10G, or is neutral
+Value--3 to 7
+Chroma--1 or less
+Texture--Loamy fine sand, loamy sand, sandy loam, fine sandy loam, silt loam, silt, sandy clay loam, silty clay loam, or silty clay
+
+Thin strata of sandy and / or finer materials are found in some pedons but are thin enough to maintain particle-size class. 
 
 Some areas are underlain at a depth greater than 100 centimeters by buried fluviomarine deposits with buried albic and spodic horizons.
 
@@ -82,14 +80,14 @@ Landform--Lagoon bottoms and lagoon channels
 Slope--0 to 1 percent
 Mean annual precipitation--970 to 1570 millimeters (38 to 62 inches)
 Mean annual air temperature--20 to 25 degrees C (69 to 77 degrees F)
-Water salinity range--9 to 22 parts per thousand
+Water salinity range--9 to 29 parts per thousand
 Frost-free period--365 days
 
-GEOGRAPHICALLY ASSOCIATED SOILS: These are the Broadaxe, Cocharan, Crawl, and Tea Hammock soils.
+GEOGRAPHICALLY ASSOCIATED SOILS: These are the Broadaxe, Endeavor, Mullet, and Tea Hammock soils.
 
 Broadaxe soils--are on submerged wave-cut platforms and have abundant buried and preserved spodic horizons in their fluviomarine deposits.
-Cocharan soils--are on mainland coves and have limnic materials.
-Crawl soils--are on nearby anthropogenic landforms in deep (> 4 meters) dredge channels primarily used for navigation throughout the waterway
+Endeavor soils--are on relict flood-tidal delta landforms and have sandier textures throughout
+Mullet soils--are on washover-fan flat landforms and are sandy textured 
 Tea Hammock soils--are also on nearby anthropogenic landforms consisting of dredge deposits shoals
 
 DRAINAGE AND SATURATED HYDRAULIC CONDUCTIVITY:
@@ -108,22 +106,21 @@ Land Resource Regions--U - Florida Subtropical Fruit, Truck Crop, and Range Regi
 MLRA(s)--155
 Extent--Small
 
-SOIL SURVEY REGIONAL OFFICE (SSRO) RESPONSIBLE: Auburn, Alabama
+SOIL SURVEY REGIONAL OFFICE (SSRO) RESPONSIBLE: RALEIGH, NORTH CAROLINA
 
 SERIES ESTABLISHED: Brevard County, Florida, 2024
 
 REMARKS:
 Diagnostic horizons and features in this pedon include-- 
--Peraquic soil moisture regime--Positive soil water potential (permanently submerged) at the soil surface. (under 1.8 meters of salt water).
+-Peraquic soil moisture regime--Positive soil water potential (permanently submerged) at the soil surface. (under 3.35 meters of salt water).
 -Particle-size control section--The zone from 0 to 100 centimeters (0 to 40 inches).
--Ochric epipedon--The zone from 0 to 19 centimeters (Aseg1 and Aseg2 horizons).
--Lithologic discontinuity--19 to 43 centimeters (2Cseg1 horizon) and 43 to 220 centimeters (3Cseg2, 3Cseg3, 3Cseg4, 3Cseg5, 3Cseg6, and 3Cseg7 horizons) 
+-Lithologic discontinuity--61 to 232 centimeters (2Cseg3, 2Cseg4, and 2Cseg5 horizons) 
 -Sulfidic materials--?.
--n-value >0.7--The zone from 72 to 120 cm (3Cseg3 and 3Cseg4 horizons) and 203 to 220 centimeters (3Cseg7 horizon).
+-n-value >0.7--The zone from 0 to 232 cm (all soil horizons)
 -Taxonomic version--Keys to Soil Taxonomy, 13th edition (2022)
 
 ADDITIONAL DATA:
-Typical pedon 2021FL009087 
+Typical pedon S2023FL009007 
 ________________________________________
 National Cooperative Soil Survey
 U.S.A.

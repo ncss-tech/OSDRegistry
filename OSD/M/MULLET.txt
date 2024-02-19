@@ -2,7 +2,7 @@ LOCATION MULLET                 FL
 
 Tentative Series
 RBT
-11/2023
+02/2024
 
 MULLET SERIES
 
@@ -17,7 +17,7 @@ Mean annual air temperature--22 degrees C (71.6 degrees F)
 Mean annual precipitation--1300 millimeters (51.1 inches)
 Mean annual water temperature--24.7 degrees C (76.6 degrees F)
 
-TAXONOMIC CLASS: Mixed, hyperthermic Typic Psammowassents
+TAXONOMIC CLASS: Siliceous, hyperthermic Fluventic Psammowassents
 
 TYPICAL PEDON: Mullet sand on an east facing, 0 percent linear slope bare sand washover-fan flat under 0.91 meters of estuarine water. Tidal range is 24 cm. (Colors are for moist soil unless otherwise noted).
 
@@ -74,8 +74,8 @@ Texture--Sand or loamy sand
 
 Thin strata of finer material are found in some pedons which put some sites into a different taxonomic great group. 
 
-COMPETING SERIES: Bastropbay is the only other competing series.
-Bastropbay soils--are on active flood-tidal delta landforms, do not have sulfurous odors and have significantly less shell fragments
+COMPETING SERIES: Broadaxe is the only other competing series.
+Broadaxe soils--are on submerged wave-cut platform landforms and often contain former preserved spodic fluviomarine soil horizons
 
 GEOGRAPHIC SETTING:
 Parent material--Sandy lagoonal deposits
@@ -87,11 +87,8 @@ Mean annual air temperature--20 to 25 degrees C (69 to 77 degrees F)
 Water salinity range--18 to 22 parts per thousand
 Frost-free period--365 days
 
-GEOGRAPHICALLY ASSOCIATED SOILS: These are the Broadaxe, Cocharan, Crawl, Endeavor, Ittsanapper, and Tea Hammock soils.
-
-Broadaxe soils--are on submerged wave-cut platforms and have abundant buried and preserved spodic horizons in their fluviomarine deposits
-Cocharan soils--are on mainland coves and have limnic materials
-Crawl soils--are on nearby anthropogenic landforms in deep (> 4 meters) dredge channels primarily used for navigation throughout the waterbody
+GEOGRAPHICALLY ASSOCIATED SOILS:
+These are the Endeavor, Ittsanapper, and Tea Hammock soils.
 Endeavor soils--are on nearby relict flood-tidal delta landforms and often have enough shell fragments in the particle-size class to put them into a different taxonomic great group
 Ittsanapper soils-are on lagoon bottom landforms, usually at deeper water depths, and have thicker finer textured materials
 Tea Hammock soils--are also on nearby anthropogenic landforms consisting of dredge shoal deposits
@@ -112,7 +109,7 @@ Land Resource Regions--U - Florida Subtropical Fruit, Truck Crop, and Range Regi
 MLRA(s)--155
 Extent--Small
 
-SOIL SURVEY REGIONAL OFFICE (SSRO) RESPONSIBLE: Auburn, Alabama
+SOIL SURVEY REGIONAL OFFICE (SSRO) RESPONSIBLE: RALEIGH, NORTH CAROLINA
 
 SERIES ESTABLISHED: Brevard County, Florida, 2024
 

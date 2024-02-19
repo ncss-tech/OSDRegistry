@@ -2,7 +2,7 @@ LOCATION ENDEAVOR               FL
 
 Tentative Series
 RBT
-11/2023
+02/2024
 
 ENDEAVOR SERIES
 
@@ -17,7 +17,7 @@ Mean annual air temperature--22 degrees C (71.6 degrees F)
 Mean annual precipitation--1300 millimeters (51.1 inches)
 Mean annual water temperature--24.7 degrees C (76.6 degrees F)
 
-TAXONOMIC CLASS: Sandy, mixed, hyperthermic Typic Haplowassents
+TAXONOMIC CLASS: Sandy, mixed, hyperthermic Typic Fluviwassents
 
 TYPICAL PEDON: Endeavor loamy fine sand on a west facing, 0.5 percent linear slope bare sand relict flood-tidal delta flat under 1.19 meters of estuarine water. Tidal range is 24 cm. (Colors are for moist soil unless otherwise noted).
 
@@ -25,7 +25,7 @@ TYPICAL PEDON: Endeavor loamy fine sand on a west facing, 0.5 percent linear slo
 
  Cseg1--17 to 27 centimeters; gray (5Y 5/1) fine sand; single grain; nonsticky, nonplastic; nonfluid; 5 percent shell fragments; strong sulfurous odor; moderately alkaline (pH 8.0); abrupt boundary. 
 
- Cseg2--27 to 41 centimeters; light gray (5Y 7/2) shells; single grain; nonsticky, nonplastic; nonfluid; 90 percent shell fragments; slight sulfurous odor; moderately alkaline (pH 8.0); abrupt boundary. 
+ Cseg2--27 to 41 centimeters; light gray (5Y 7/2) shells; single grain; nonsticky, nonplastic; nonfluid; 91 percent shell fragments; slight sulfurous odor; moderately alkaline (pH 8.0); abrupt boundary. 
 
  Cseg3--41 to 73 centimeters; gray (5Y 5/1) fine sand; single grain; nonsticky, nonplastic; nonfluid; 2 percent shell fragments; slight sulfurous odor; moderately alkaline (pH 8.0); gradual boundary. 
 
@@ -78,11 +78,9 @@ Mean annual air temperature--20 to 25 degrees C (69 to 77 degrees F)
 Water salinity range--18 to 22 parts per thousand
 Frost-free period--365 days
 
-GEOGRAPHICALLY ASSOCIATED SOILS: These are the Broadaxe, Cocharan, Crawl, Ittsanapper, and Tea Hammock soils.
-
+GEOGRAPHICALLY ASSOCIATED SOILS: 
+These are the Broadaxe, Ittsanapper, and Tea Hammock soils.
 Broadaxe soils--are on submerged wave-cut platforms and have abundant buried and preserved spodic horizons in their fluviomarine deposits
-Cocharan soils--are on mainland coves and have limnic materials
-Crawl soils--are on nearby anthropogenic landforms in deep (> 4 meters) dredge channels primarily used for navigation throughout the waterbody
 Ittsanapper soils-are on lagoon bottom landforms, usually at deeper water depths, and have thicker finer textured materials
 Tea Hammock soils--are also on nearby anthropogenic landforms consisting of dredge deposits shoals
 
@@ -102,7 +100,7 @@ Land Resource Regions--U - Florida Subtropical Fruit, Truck Crop, and Range Regi
 MLRA(s)--155
 Extent--Small
 
-SOIL SURVEY REGIONAL OFFICE (SSRO) RESPONSIBLE: Auburn, Alabama
+SOIL SURVEY REGIONAL OFFICE (SSRO) RESPONSIBLE: RALEIGH, NORTH CAROLINA
 
 SERIES ESTABLISHED: Brevard County, Florida, 2024
 
@@ -110,7 +108,7 @@ REMARKS:
 Diagnostic horizons and features in this pedon include-- 
 -Peraquic soil moisture regime--Positive soil water potential (permanently submerged) at the soil surface. (under 1.19 meters of salt water).
 -Particle-size control section--The zone from 0 to 100 centimeters (0 to 40 inches). 
--Haplowassent as there is a horizon with greater than 35 percent shell fragments.
+-Fluviwassent as there is a horizon with greater than 35 percent shell fragments.
 -Ochric epipedon--The zone from 0 to 17 centimeters (Aseg horizon).
 -Sulfidic materials--?.
 -n-value >0.7--The zone from 0 to 17 centimeters (Aseg horizon)
