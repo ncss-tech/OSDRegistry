@@ -142,7 +142,7 @@ refresh_registry <- function(test = FALSE, moID = c(2, 3, 4, 9, 10, 12, 13), por
     }
 
     if (!inherits(res, 'try-error')) {
-      if (!is.na(all(res)))
+      if (all(!is.na(res)))
         zips <- c(zips, res)
     } else {
       message(paste0("Error querying OSDs region (", i, ")"))
