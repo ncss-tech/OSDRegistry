@@ -55,7 +55,7 @@ jobs:
     - run: Rscript -e 'system(sprintf("git commit -am \"SC Data Refresh - %s\"", Sys.Date()))'
     - run: git push
     - name: Upload snapshot to release
-      uses: svenstaro/upload-release-action@v3
+      uses: svenstaro/upload-release-action@v2
       with:
         repo_token: ${{ secrets.GITHUB_TOKEN }}
         file: "*-data-snapshot.zip"
