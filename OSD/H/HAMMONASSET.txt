@@ -1,0 +1,149 @@
+LOCATION HAMMONASSET            CT
+
+Tentative Series
+Revised DCP-BEF-CEP
+03/2024
+
+HAMMONASSET SERIES
+
+MLRA(s)--144A, 145
+Depth class--Very deep
+Drainage Class--Very poorly drained
+Saturated Hydraulic Conductivity--Low to high
+Surface Runoff--Negligible
+Parent material--Herbaceous organic material
+Slope range for series--0 to 2 percent
+Mean annual air temperature--10 degrees C (50 degrees F)
+Mean annual precipitation--1295 millimeters (51 inches)
+
+TAXONOMIC CLASS: Euic, mesic Typic Sulfisaprists
+
+TYPICAL PEDON: Hammonasset mucky peat on a linear, zero percent slope in a tidal marsh. Tidal range is 194 centimeters. (Colors are for moist soil unless otherwise stated).
+
+ Oese--0 to 33 centimeters (0 to 13 inches); very dark brown (10YR 2/2) mucky peat, very dark gray (2.5Y 3/1) rubbed; 50 percent unrubbed fibers, 30 percent rubbed fibers; H3 von Post humification; many very fine, fine, and medium, few coarse roots throughout; 10 percent mineral soil material; negative color change with 3% hydrogen peroxide; slight effervescence with 30% hydrogen peroxide; moderately saline; neutral (xxx); xxx acid (xxx) oxidized pH; clear boundary. (0 to 56 centimeters thick.)
+
+ Oase1--33 to 108 centimeters (13 to 43 inches); very dark gray (10YR 3/1) muck,  black (10YR 2/1) rubbed; 25 percent unrubbed fibers, 12 percent rubbed fibers; H8 von Post humification; common very fine and fine roots throughout; 5 percent mineral soil material; slight sulfurous odor; negative color change with 3% hydrogen peroxide; slight effervescence with 30% hydrogen peroxide; moderately saline; neutral (xxx); xxx acid (xxx) oxidized pH; gradual boundary.
+
+ Oase2--108 to 200 centimeters (43 to 79 inches); very dark gray (2.5Y 3/1) muck; 10 percent unrubbed fibers, 3 percent rubbed fibers; H9 von Post humification; few fine roots throughout; 40 percent mineral soil material; slight sulfurous odor; negative color change with 3% hydrogen peroxide; slight effervescence with 30% hydrogen peroxide; moderately saline; neutral (xxx); xxx acid (xxx) oxidized pH. (Combined thickness of Oase horizons is 132 to 200 centimeters thick.).
+
+TYPE LOCATION: Middlesex County, Connecticut; Hammock River Marsh Wildlife Area, approximately 540 feet northeast (73 degree bearing) of intersection of E Main Street and Meadow Road in Clinton, CT. USGS topographic quadrangle: Clinton, CT.
+
+Latitude--41.2716020
+Longitude-- -72.5003911
+Datum--WGS84
+Coordinates source--from hand-held GPS
+
+RANGE IN CHARACTERISTICS:
+Depth to bedrock--Greater than 200 centimeters
+Soil moisture--Saturated; peraquic moisture regime
+Reaction throughout--Slightly acid to moderately alkaline
+Oxidized reaction--Ultra acid or extremely acid
+Electrical Conductivity (EC 1:5 water)--Greater than 0.6 dS/m throughout
+Depth to hypersulfidic materials (incubated pH 4.0 or less)--0 to 100 centimeters
+Coastal Blue Carbon density range--from XXXX in the organic horizons to XXXX in the mineral substrate, if present. Hammonasset soils can often average XXXX mega grams of coastal blue carbon per hectare to a 2-meter depth.   
+
+Oase horizon
+Hue--2.5YR, 5YR, 7.5YR, 10YR, or 2.5Y
+Value--2 to 3
+Chroma--1 or 2
+Texture--Muck
+Organic matter content--30 to 100 percent
+Rubbed fiber content--1 to 15 percent
+Von Post humification--H7to H10
+Mineral soil content--0 to 70 percent
+
+Oese (where present)
+Hue--10YR, 2.5Y, or 5Y
+Value--2 to 3
+Chroma--1 or 2 
+Texture--Mucky peat
+Organic matter content--50 to 92 percent
+Rubbed fiber content--18 to 38 percent
+Von Post humification scale-H4 to H6
+Mineral soil content--8 to 50 percent
+
+Oise horizon (where present)
+Hue--7.5YR, 10YR, 2.5Y, 5Y, or 10Y
+Value--2 to 3
+Chroma--1 to 3
+Texture--Peat 
+Organic matter content--90 to 95 percent
+Rubbed fiber content--40 to 75 percent
+Von Post humification scale--H1 to H3
+Mineral soil content--5 to 10 percent
+
+Aseg horizon (where present)
+Hue--N
+Value--2.5
+Chroma--0 
+Texture--mucky silt loam
+Clay content--
+Manner of failure / fluidity class--moderately fluid
+
+2Cseg or 2Cse (where present)
+Hue--10YR, 2.5Y, 5Y, 10Y, 5GY, or 10BG
+Value--2 to 4
+Chroma--1 to 3
+Texture--fine sand, loamy fine sand, sandy loam, very fine sandy loam, silt loam, or silty clay loam and their mucky analogs
+Unrubbed fiber content--0 to 35 percent
+Clay content--
+Manner of failure / fluidity class--nonfluid to moderately fluid
+Coarse fragments--0 to 12 percent, by volume, fine and medium gravels
+
+COMPETING SERIES:
+There are no competing series in the same family.
+
+GEOGRAPHIC SETTING:
+Parent material--herbaceous organic material sometimes underlain by coarse-loamy estuarine deposits
+Landscape--Coastal estuaries, coastal lowlands, and tidal rivers
+Landform--Tidal marshes
+Slope--0 to 2 percent
+Mean annual precipitation--754 to 1826 millimeters (40 to 52 inches)
+Mean annual air temperature-6.4to 16.2 degrees C (39.2 to 55.4 degrees F)
+Water salinity range--18 to 30 parts per thousand
+Frost-free period--180 to 204 days
+
+GEOGRAPHICALLY ASSOCIATED SOILS:
+These are the Barn Island, Calves, Ipswich, Pawcatuck, Quinnipiac, and Westbrook soils.
+Barn Island soils--formed in sapric dominated organic soil materials over loamy mineral soil materials. 
+Calves soils--formed in loamy estuarine deposits overlying loamy or sandy alluvium and have a histic epipedon
+Ipswich soils--formed in thick deposits of hemic dominated organic soil materials.
+Pawcatuck soils--formed in hemic organic soil materials over sandy mineral soil materials.
+Quinnipiac soils--formed in loamy alluvium and do not have thick organic soil materials.
+Westbrook soils--formed in hemic dominated organic soil materials over loamy mineral soil materials.
+
+DRAINAGE AND SATURATED HYDRAULIC CONDUCTIVITY:
+Drainage class--Very poorly drained
+Saturated hydraulic conductivity--Low to high
+Soil moisture regime--Peraquic
+Flooded twice daily by tides in addition to periodic riverine flooding at times.
+
+USE AND VEGETATION:
+Major uses--Most areas are in salt marsh and provide food and habitat for fish, shellfish and wildfowl.
+Vegetation--Phragmites australis, Spartina alterniflora, Spartina patens, and Salicornia spp. may occur on these soils.
+
+DISTRIBUTION AND EXTENT:
+General area--These soils are located along the Connecticut coast.
+Land Resource Regions--R - Northeastern Forage and Forest Region
+MLRA(s)--144A, 145
+Extent--Small
+
+SOIL SURVEY REGIONAL OFFICE (SSRO) RESPONSIBLE: Amherst, Massachusetts
+
+SERIES ESTABLISHED: Middlesex County, Connecticut, 2024.
+
+REMARKS: 
+Diagnostic horizons and features in this pedon include--
+Peraquic feature--Zero or positive soil water potential at the soil surface.
+Particle-size control section--The zone from 0 to 130 centimeters.
+Hemic soil materials--The zone from 0 to 33 centimeters (Oese horizon).
+Sapric soil materials--The zone from 33 to 200 centimeters (Oase horizons).
+Hypersulfidic materials--The zone from 0 to 200 centimeters (Oese and Oase horizons) have oxidized reactions with pH values less than 4.0 after 16 weeks.
+Taxonomic version--Keys to Soil Taxonomy, 13th edition (2022)
+
+ADDITIONAL DATA: Type location taken from S2023CT007348 in Hammock River Marsh Wildlife Area, Clinton, CT.
+
+Additional support pedons used to develop this series include S2023CT007220, S2023CT007228, S2023CT007243, S2023CT007340, S2023CT007356, S2023CT009243, S2023CT009248, S2023CT011201, S2023CT011226, and S2023CT011279.
+________________________________________
+National Cooperative Soil Survey
+U.S.A.
