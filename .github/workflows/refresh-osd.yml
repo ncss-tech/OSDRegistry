@@ -39,7 +39,7 @@ jobs:
     - run: Rscript -e 'system(sprintf("zip SC_%s.zip SC/*", Sys.Date()))'
     - run: zip OSD-data-snapshot.zip OSD_*.zip
     - run: zip SC-data-snapshot.zip SC_*.zip
-    - uses: actions/upload-artifact@v3
+    - uses: actions/upload-artifact@v4
       with:
         name: OSD-data-snapshot
         path: "OSD-data-snapshot.zip"
