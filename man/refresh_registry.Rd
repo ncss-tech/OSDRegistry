@@ -4,7 +4,12 @@
 \alias{refresh_registry}
 \title{Automatic update by regional queries to NASIS soil series server}
 \usage{
-refresh_registry(test = FALSE, moID = c(2, 3, 4, 9, 10, 12, 13), port = 4567L)
+refresh_registry(
+  test = FALSE,
+  moID = c(Alaska = 36871, `North Central` = 117, Northeast = 153, Northwest = 134,
+    `South Central` = 127, Southeast = 122, Southwest = 113, `Special Projects` = 44372),
+  port = 4567L
+)
 }
 \arguments{
 \item{test}{Default: \code{FALSE}; run on a pair of small regions (MO 12, 13)}
