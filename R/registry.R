@@ -115,7 +115,7 @@ refresh_registry <- function(
   for (i in idx) {
 
     # SWR and NWR have by far the most series, dont bother trying to do in one shot
-    if (!i %in% c(2, 4)) {
+    if (!i %in% c(113, 134)) {
       res <- try(.query_series_by_region(remDr, i))
 
       # try up to additional times
@@ -124,7 +124,7 @@ refresh_registry <- function(
       }
     }
 
-    if (i %in% c(2, 4) || inherits(res, 'try-error')) {
+    if (i %in% c(113, 134) || inherits(res, 'try-error')) {
       res1 <- try(.query_series_by_region(remDr, i,
                                           start_year = 1800,
                                           end_year = 1975))
