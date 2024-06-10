@@ -52,7 +52,7 @@
     ## -- STEP 2 - small result? try direct download
     
     ## -- STEP 3 - DOWNLOAD
-    osd_result3 <- rvest::session_submit(osd_session, osd_request1, submit = "download")
+    osd_result3 <- rvest::session_submit(osd_session, osd_request2, submit = "download")
     remDr$navigate(osd_result3$url)
     
   } else {
