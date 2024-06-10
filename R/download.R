@@ -48,13 +48,21 @@
   #   dir.create(default_dir, recursive = TRUE)
 
   if (inherits(osd_result2, 'try-error')) {
-    
-    ## -- STEP 2 - small result? try direct download
-    
-    ## -- STEP 3 - DOWNLOAD
-    osd_result3 <- rvest::session_submit(osd_session, osd_request2, submit = "download")
-    remDr$navigate(osd_result3$url)
-    
+    ## small result? resubmit then try direct download
+    osd_session <- rvest::session(url1)
+    osd_query <- rvest::html_form(osd_session)[[1]]
+    osd_request1 <- rvest::html_form_set(
+      osd_query,
+      ddl_resp_mo = as.character(x),
+      estab_year1 = as.character(start_year),
+      estab_year2 = as.character(end_year)
+    )
+    osd_result1 <- rvest::session_submit(osd_session, osd_request1, "submit_query")
+    Sys.sleep(0.5)
+    osd_request2 <- rvest::html_form(osd_result1)[[1]]
+    osd_result2 <- rvest::session_submit(osd_session, osd_request2, submit = "download")
+    Sys.sleep(0.5)
+    remDr$navigate(osd_result2$url)
   } else {
     ## -- STEP 2 - VIEW results (in separate window for "big" queries)
     osd_hidden_report <- rvest::html_form(osd_result2)[[1]]$fields$hidden_report_filename
