@@ -47,12 +47,16 @@
   # if (!dir.exists(default_dir))
   #   dir.create(default_dir, recursive = TRUE)
 
-  ## -- STEP 2 - VIEW results (in separate window for "big" queries)
   if (inherits(osd_result2, 'try-error')) {
-    # osd_result2 <- try(submit_form(osd_session, osd_request2, "download"))
-    message('This utility only works with queries that require a separate page for viewing. Skipping region: ', x)
-    return(NA_character_)
+    
+    ## -- STEP 2 - small result? try direct download
+    
+    ## -- STEP 3 - DOWNLOAD
+    osd_result3 <- rvest::session_submit(osd_session, osd_request1, submit = "download")
+    remDr$navigate(osd_result3$url)
+    
   } else {
+    ## -- STEP 2 - VIEW results (in separate window for "big" queries)
     osd_hidden_report <- rvest::html_form(osd_result2)[[1]]$fields$hidden_report_filename
     url2 <- sprintf("https://soilseries.sc.egov.usda.gov/osdquery_view.aspx?query_file=%s&",
                     osd_hidden_report$value)
@@ -63,55 +67,58 @@
     ## -- STEP 3 - DOWNLOAD
     osd_result3 <- rvest::session_submit(osd_session2, osd_request3, submit = "download")
     remDr$navigate(osd_result3$url)
-
+  }
+  
+  file_name <- list.files(target_dir, "osddwn.*zip$")
+  dfile_name <- list.files(default_dir, "osddwn.*zip$")
+  
+  webElem <- remDr$findElement("id", "download")
+  webElem$clickElement()
+  
+  # keep track of files originally in target download folders
+  orig_file_name <- file_name
+  orig_dfile_name <- dfile_name
+  ncycle <- 0
+  
+  # wait for downloaded file to appear in browser download directory
+  while (length(file_name) <= length(orig_file_name) &
+         length(dfile_name) <= length(orig_dfile_name)) {
     file_name <- list.files(target_dir, "osddwn.*zip$")
     dfile_name <- list.files(default_dir, "osddwn.*zip$")
-
-    webElem <- remDr$findElement("id", "download")
-    webElem$clickElement()
-
-    # keep track of files originally in target download folders
-    orig_file_name <- file_name
-    orig_dfile_name <- dfile_name
-    ncycle <- 0
-
-    # wait for downloaded file to appear in browser download directory
-    while (length(file_name) <= length(orig_file_name) &
-           length(dfile_name) <= length(orig_dfile_name)) {
-      file_name <- list.files(target_dir, "osddwn.*zip$")
-      dfile_name <- list.files(default_dir, "osddwn.*zip$")
-      Sys.sleep(1)
-      ncycle <- ncycle + 1
-      if (ncycle > 480)
-        break
-    }
-
-    new_file_name <- character(0)
-
-    # allow download to default directory, just move to target first
-    new_dfile_name <- dfile_name[!dfile_name %in% orig_dfile_name]
-
-    # if (length(new_dfile_name) > 0) {
-    #   new_file_name <- new_dfile_name
-    #   target_file_name <- file.path(target_dir, paste0(sprintf("r%s_", x), new_file_name))
-    #   if (!file.copy(file.path(default_dir, new_dfile_name), target_dir, recursive = TRUE)) {
-    #     warning(sprintf("Failed to relocate file: %s", new_file_name))
-    #   }
-    #   # file.remove(file.path(default_dir, new_dfile_name))
-    # } else {
-    #   new_file_name <- file_name[!file_name %in% orig_file_name]
-    #   target_file_name <- file.path(target_dir, paste0(sprintf("r%s_", x), new_file_name))
-    #   if (!file.rename(file.path(target_dir, new_file_name), target_file_name)) {
-    #     warning(sprintf("Failed to relocate file: %s", new_file_name))
-    #   }
-    # }
-
-    if (length(new_dfile_name) > 0 && file.exists(file.path(default_dir, new_dfile_name))) {
-      message(sprintf("Downloaded: %s", new_dfile_name))
-    } else {
-      return(try(stop(sprintf("Problem with OSD Download for Region %s", x), call. = FALSE)))
-    }
-    file.path(default_dir, new_dfile_name)
+    Sys.sleep(1)
+    ncycle <- ncycle + 1
+    if (ncycle > 480)
+      break
   }
-
+  
+  new_file_name <- character(0)
+  
+  # allow download to default directory, just move to target first
+  new_dfile_name <- dfile_name[!dfile_name %in% orig_dfile_name]
+  
+  # if (length(new_dfile_name) > 0) {
+  #   new_file_name <- new_dfile_name
+  #   target_file_name <- file.path(target_dir, paste0(sprintf("r%s_", x), new_file_name))
+  #   if (!file.copy(file.path(default_dir, new_dfile_name), target_dir, recursive = TRUE)) {
+  #     warning(sprintf("Failed to relocate file: %s", new_file_name))
+  #   }
+  #   # file.remove(file.path(default_dir, new_dfile_name))
+  # } else {
+  #   new_file_name <- file_name[!file_name %in% orig_file_name]
+  #   target_file_name <- file.path(target_dir, paste0(sprintf("r%s_", x), new_file_name))
+  #   if (!file.rename(file.path(target_dir, new_file_name), target_file_name)) {
+  #     warning(sprintf("Failed to relocate file: %s", new_file_name))
+  #   }
+  # }
+  
+  if (length(new_dfile_name) > 0 &&
+      file.exists(file.path(default_dir, new_dfile_name))) {
+    message(sprintf("Downloaded: %s", new_dfile_name))
+  } else {
+    return(try(stop(sprintf(
+      "Problem with OSD Download for Region %s", x
+    ), call. = FALSE))
+    )
+  }
+  file.path(default_dir, new_dfile_name)
 }
