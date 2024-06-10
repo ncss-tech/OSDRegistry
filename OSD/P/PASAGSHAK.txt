@@ -1,52 +1,141 @@
 LOCATION PASAGSHAK              AK
 
 Established Series
-Rev. SR
-02/2022
+Rev. CAP
+04/2024
 
 PASAGSHAK SERIES
 
-The Pasagshak series consists of deep, poorly drained soils formed in volcanic ash overlying very gravelly silty alluvium.  Pasagshak soils are on floodplains.  Slopes range from 0 to 7 percent.  Mean annual temperature is about 40 degrees F., and the average annual precipitation is about 60 inches.
+Depth class: very deep
+Drainage class: somewhat poorly and moderately well drained
+Parent material: herbaceous organic material over silty and loamy alluvium over sandy and gravelly outwash
+Landscape: Islands
+Landform: hills and plains on drainageways and flood plains
+Slopes: 0 to 15 percent
+Mean annual precipitation: about 1500 mm (59 in)
+Mean annual temperature: about 4 degrees C. (39 degrees F.)
+Frost-free season: 20 to 50 days
 
-TAXONOMIC CLASS: Loamy-skeletal, mixed, superactive, acid Aquandic Cryaquepts
+TAXONOMIC CLASS: Sandy-skeletal, mixed Oxyaquic Cryorthents
 
-TYPICAL PEDON:  Pasagshak silt loam -- under native grass (All colors are for moist soil)
+TYPICAL PEDON:  Pasagshak silt loam -  in a forested flood plain at elevation of 113 meters (375 feet). (All colors are for moist soil)
 
-    Oe--1 inch to 0; very dark grayish brown (10YR 3/2) mat of partially decomposed leaves and straw; very strongly acid; abrupt smooth boundary.   (1 to 4 inches thick)
+ Oe--0 to 3 centimeters (0 to 1 inches); very dark brown (7.5YR 2.5/2), brown (7.5YR 4/2), dry; moderately decomposed plant material; soft, very friable, nonsticky, nonplastic; many very fine, fine, and common medium, coarse roots throughout; moderately acid (pH 5.6); abrupt smooth boundary. (0 to 10 cm, 0 to 4 in thick)
 
-    C1--0 to 2 inches; light gray (10YR 7/1) silt loam volcanic ash; massive; firm in place, friable when disturbed; few roots; strongly acid; abrupt wavy boundary.  (1 to 2 inches thick)
+ A1--3 to 13 centimeters (1 to 5 inches); dark brown (7.5YR 3/2), brown (7.5YR 4/2), dry; silt loam; weak fine granular structure; soft, very friable, nonsticky, nonplastic; many very fine, fine, and common medium, coarse roots throughout; very strongly acid (pH 5.0); clear smooth boundary. 
 
-    C2--2 to 4 inches; light yellowish brown (10YR 6/4) silt loam volcanic ash; massive; few roots; very strongly acid; abrupt wavy boundary.  (2 to 5 inches thick)
+ A2--13 to 27 centimeters (5 to 11 inches); dark grayish brown (10YR 4/2) silt loam; weak fine subangular blocky structure; soft, very friable, nonsticky, nonplastic; many very fine, fine, common medium, and coarse roots throughout; strongly acid (pH 5.5); clear smooth boundary. (Combined thickness 20 to 41 cm, 8 to 16 in thick)
 
-    2C1--4 to 5 inches; light yellowish brown (10YR 6/4) loamy fine sand volcanic ash; single grained; loose; mottled with yellowish red; few roots; very strongly to strongly acid; clear wavy boundary.  (1 to 3 inches thick)
+ 2C1--27 to 40 centimeters (116 to 16 inches); dark olive gray (5Y 3/2) extremely gravelly sand; single grain; loose, nonsticky, nonplastic; 65 percent gravel and 5 percent cobble; strongly acid (pH 5.5); gradual smooth boundary. 
 
-    2C2--5 to 8 inches; grayish brown (10YR 5/2) fine sand volcanic ash; single grain; loose; mottled wih yellowish red; few roots; strongly acid; abrupt wavy boundary.  (3 to 4 inches thick)      3Ab--8 to 10 inches; very dark gray (5Y 3/1) silt loam; weak very fine subangular blocky structure; friable; faintly mottled with very dark grayish brown; abundant roots; very strongly acid; abrupt wavy boundary.  (1 to 4 inches thick)
+ 2C2--40 to 200 centimeters (16 to 79 inches); dark greenish gray (10Y 3/1) extremely gravelly sand; single grain; loose, nonsticky, nonplastic; 65 percent gravel and 5 percent cobble; strongly acid (pH 5.5). 
 
-    4Cb--10-24 inches; very dark grayish brown (2.5Y 3/2) very gravelly silt loam; nonsticky; few roots; strongly acid.
+TYPE LOCATION:  Kodiak Archipelago Soil Survey Area, Alaska; Latitude 57 degrees 20 minutes 48.40 seconds and Longitude 153 degrees 58 minutes 1.80 seconds west, UTM north 6356402.37 and UTM east 441795.40, zone 5, Datum WGS84.
 
-TYPE LOCATION:  Northeastern Kodiak Island Area, Alaska.  About 0.1 mile north of gravel pit near head of Anton Larsen Bay.
+RANGE IN CHARACTERISTICS: 
 
-RANGE IN CHARACTERISTICS:  Thickness of the recent volcanic ash ranges from 9 to 24 inches.  Texture of the uppermost layers ranges from silt loam to loamy fine sand.  In places, a thin recent deposit of alluvial silt may overlie the ash.  The buried layer of gravel free silty alluvium is commonly about 2 inches thick; it ranges in thickness from less than 1 inch to 4 inches.  Lenses of silty material may occur in the Cb horizon.
+Soil moisture regime: Udic 
+Mean annual soil temperature: 1.6 to 3.3 degrees C. (34.8 to 37.9 degrees F.)
+Thickness of organic material: 0 to 10 cm (0 to 4 in)
+Depth to andic properties: 4 to 30 cm (2 to 12 in)
+Depth to lithologic discontinuity: 20 to 41 cm (8 to 16 in) 
+Detph to aquic conditions: 41 to 100 cm (16 to 40 in)
+Some pedons have recent volcanic ash that ranges from 3 to 25 cm (1 to 10 in).  
 
-COMPETING SERIES:  This is the Snowdance(T) series in the same subgroup.  Snowdance soils are not skeletal in the upper part of the control section.
+Oa, Oe, Oi horizon:
+Hue: 7.5YR to 10 YR
+Value: 2 to 5
+Chroma: 1 to 4
+Texture: slightly, moderately, or highly decomposed plant material
+Organic matter: 60 to 90 percent
+Reaction class: extremely acid to moderately acid (pH 3.5 to 6.0)
 
-GEOGRAPHIC SETTING:  Pasagshak soils occur on floodplains.  They are formed in alluvium derived from dark colored ashy soils on adjacent uplands.  The climate is cool maritime.  Average annual precipitation ranges from 50 to 70 inches, and the average annual temperature is about 40 degrees F.  Temperatures below freezing are recorded on fewer than 40 days annually, and temperatures above 70 degrees F. are rare.
+A horizon:
+Hue: 5YR, 7.5YR, or 10YR
+Value: 2 to 5
+Chroma: 1 to 3
+Texture: (medial) silt loam, silt, loam, very fine sandy loam, or fine sandy loam and sandy loam
+Sand: 20 to 70 percent
+Silt: 40 to 90 percent
+Clay: 2 to 10 percent
+Rock Fragments: 0 to 14 percent
+Reaction Class: very strongly acid to slightly acid (pH 3.5 to 6.5)
 
-GEOGRAPHICALLY ASSOCIATED SOILS:  These include the Chiniak, Kizhuyak, and Kodiak series.  Chiniak soils consist of gravelly beach material below recent volcanic ash.  Kizhuyak soils consist of thick alluvial accumulations of volcanic ash.  Kodiak soil have, under the recent ash deposit, dark reddish brown A horizons formed in older volcanic ash over till.
+A2 horizon, (where present):
+Hue: 5YR, 7.5YR, or 10YR
+Value: 2 to 6
+Chroma: 1 to 4
+Texture: fine sandy loam, sandy loam, loamy sand, loamy coarse sand, or loam and their very or extremely gravelly analogues
+Sand: 40 to 90 percent
+Clay: 2 to 10 percent
+Rock Fragments: 25 to 75 percent
+Reaction Class: very strongly acid to slightly acid (pH 3.5 to 6.5)
 
-DRAINAGE AND PERMEABILITY:  Poorly drained.  Some pedons have altered drainage due to stream incisement.  Permeability is moderate.  Slow runoff.  Some areas are subject ot occasional flooding.
+C horizon:
+Hue: 10YR or 2.5Y
+Value: 3 to 6
+Chroma: 1 to 4
+Texture: sand, coarse sand, loamy sand, or loamy coarse sand and their very or extremely gravelly analogues
+Reaction Class: extremely acid to moderately acid (pH 3.5 to 6.0)
 
-USE AND VEGETATION:  Used as grazing land.  The native grasses are cut in places for hay and silage.  The vegetation is tall grass, dominated by bluejoint reedgrass, and associated plants such as fireweed.  In many places the soil supports stands of cottonwood and willows.
+Some pedons have a thin recent ashy and glassy volcanic surface horizon.
 
-DISTRIBUTION AND EXTENT:  Northern Kodiak Island, Alaska, and adjacent islands.  The series is of moderate extent.
+COMPETING SERIES:  These are the Chiniak (AK), Fingers (AK), Kocacho (AK), Puffin (AK), and Tangoe (AK) series.
+Chiniak soils have marine sediments in the substratum and occur on beaches, beach plains, and beach berms.
+Fingers soils lack andic soil material in the surface horizon, have mean annual air temperatures greater than 6 degrees C. (43 degrees F.), have frost-free periods greater than 50 days, and occur on drainageways of glacial plains.
+Kocacho soils lack andic soil material in the surface horizon, have mean annual air temperatures less than 0 degrees C. (32 degrees F.), have frost-free periods greater than 50 days, and occur on stream terraces.
+Puffin soils lack glassy volcanic ash surface horizons, have mean annual air temperatures greater than 6 degrees C. (43 degrees F.), have frost-free periods greater than 50 days, and occur on flood plains.
+Tangoe soils lack andic soil material in the surface horizon, have stratified alluvium substratum, have mean annual air temperatures less than 0 degrees C. (32 degrees F.), and occur on flood plains.
 
-SOIL SURVEY REGIONAL OFFICE (SSRO) RESPONSIBLE: WASILLA, ALASKA
+GEOGRAPHIC SETTING:  
+Elevation: 5 to 300 meters (15 to 1000 feet)
+Parent material: modeately decomposed herbaceous organic material over silty and loamy alluvium over sandy and gravelly outwashmarine deposits
+Landform: drainageways and flood plains
+Slope: 0 to 15 percent
+Mean annual temperature: 0 to 6 degrees C. (32 to 43 degrees F.)
+Mean annual precipitation: 600 to 3000 mm (28 to 118 in)
+Frost free period: 20 to 50 days
 
-SERIES ESTABLISHED:  Northeastern Kodiak Island Area, Alaska, 1959.
+GEOGRAPHICALLY ASSOCIATED SOILS:  These are the Aleneva, Chiniak, Kizhuyak, Missak, Olds, Sa, Salonie, and Yukuk.
+Aleneva soils have andic properties, cambic horizons, and occur on flood plains associated with the beach plains.
+Chiniak soils have marine sediments in the substratum and occur on beaches, beach plains, and beach berms.
+Kizhuyak soils have thick 1912 volcanic ash horizons, are poorly drained, and occur on flood plains associated with beach plains.
+Missak soils have thick organic deposits, are very poorly drained, and occur in depressions associated with the beach plains.
+Olds soils have histic epipedons, andic properties, are poorly drained, and occur on flood plains associated with the beach plains.
+Sa soils have thick organic deposits, are very poorly drained, and occur in depressions associated with the beach plains.
+Salonie soils have outwash parent material, are poorly drained, and occur on flood plains associated with beach plains.
+Yukuk soils have andic properties, are poorly drained, and occur on flood plains associated with beach plains.
 
-REMARKS:  The concept of the Pasagshak series is poorly defined, especially in regards to the properties of the underlying material. More data is needed to define the central concept or the series should be inactivated (jpm, 4/87).
+DRAINAGE AND PERMEABILITY: 
+Drainage class: moderately well drained
+Saturated Hydraulic Conductivity: very high in the Oe horizon, moderately high to high in the A horizon, and very high in the C horizons.
+Permeability: rapid to very rapid in the Oe horizon, moderate to rapid in the A horizon and rapid to very rapid in the C horizons.
+Runoff: low.
+Flooding and duration: none to frequently with brief to long.
 
-Source of the volcanic ash is the 1912 eruption of Mt. Novarupta and Mt.  Katmai on the Alaska Peninsula.
+USE AND VEGETATION:  
+Used as grazing land.  The native grasses are cut in places for hay and silage.  The vegetation is tall grass, dominated by bluejoint reedgrass, and associated plants such as fireweed.  In many places the soil supports stands of cottonwood and willows.
+
+DISTRIBUTION AND EXTENT: MLRA 220 Alexander Archipelago-Gulf of Alaska Coast and MLRA 225 Southern Alaska Peninsula Mountains.
+Extent: moderate
+
+SOIL SURVEY REGIONAL OFFICE (SSRO) RESPONSIBLE: Wasilla, Alaska
+
+SERIES ESTABLISHED:  Kodiak Archipelago Soil Survey, Alaska, 2024.
+
+REMARKS: Diagnostic features and horizons recognized in this profile include:
+
+Organic material: 0 to 3 cm (0 to 1 in) (Oe horizons)
+
+Andic properties: 3 to 27 cm (1 to 11 in) (A horizon)
+
+Lithologic discontinuity: 27 to 200 cm (11 to 79 in) (2C horizons)
+
+Aquic conditions: 41 to 100 cm (16 to 40 in)
+
+ADDITIONAL DATA: 
+
+User pedon Id: 09MM 03301
 
 National Cooperative Soil Survey
 U.S.A.
