@@ -2,7 +2,7 @@ LOCATION HILLSDALE              MI+IN
 
 Established Series
 Rev. RLM-WEF-RAB
-08/2012
+06/2024
 
 HILLSDALE SERIES
 
@@ -28,7 +28,7 @@ TYPE LOCATION: St. Joseph County, Michigan; about 2 miles south and 1.5 miles we
 
 RANGE IN CHARACTERISTICS:
 Thickness of the solum: 102 to more than 203 cm (40 to more than 80 inches)
-Depth to carbonates: 102 to more than 203 cm (40 to more than 80 inches) 
+Depth to carbonates: commonly 102 to more than 203 cm (40 to more than 80 inches), but ranges to 85 cm (33 inches)
 Rock fragment content: averages 1 to 14 percent throughout the series control section, although some individual subhorizons have none
 Particle-size control section: averages less than 50 percent fine sand and very fine sand less than 18 percent clay, although some subhorizons can contain more than 18 percent clay
 Series control section: averages 50 to 85 percent sand
@@ -46,7 +46,7 @@ Value: 5 to 7
 Chroma: 2 to 4
 Texture: sandy loam, fine sandy loam, loam, or loamy sand
 
-EB horizon:
+EB or BE horizon, where present:
 Hue: 10YR
 Value: 4 to 7
 Chroma: 3 to 6
@@ -64,7 +64,7 @@ Hue: 7.5YR or 10YR
 Value: 4 or 5
 Chroma: 3 to 8
 Texture: sandy loam or loamy sand; some pedons have pockets of sand or loamy sand
-Reaction: strongly acid to neutral
+Reaction: strongly acid to moderately alkaline
 
 C horizon:
 Hue: 7.5YR or 10YR
@@ -78,15 +78,15 @@ COMPETING SERIES: These are the Brownsburg, Crumstown, Eleva, Mecan, and Oshtemo
 
 GEOGRAPHIC SETTING: Hillsdale soils are on ground moraines and end moraines. Slope gradients are mostly 2 to 18 percent but range from 0 to 40 percent. Hillsdale soils formed in loamy till. Mean annual precipitation ranges from 737 to 940 mm (29 to 37 inches). Mean annual temperature ranges from 7.8 to 11.7 degrees C (46 to 53 degrees F). Frost-free period is 130 to 180 days. Elevation is 177 to 466 meters (580 to 1,530 feet) above mean sea level.
 
-GEOGRAPHICALLY ASSOCIATED SOILS: The somewhat poorly drained Teasdale soils and the poorly drained and very poorly drained Barry soils form a drainage sequence with the Hillsdale soils and are closely associated. Oshtemo and Spinks soils are associated on low moraines. Oshtemo soils are at slightly lower elevations and Spinks soils are commonly at slightly higher elevations.
+GEOGRAPHICALLY ASSOCIATED SOILS: The somewhat poorly drained Teasdale soils and the poorly drained and very poorly drained Barry soils form a drainage sequence with the Hillsdale soils and are closely associated. The moderately well drained Elmdale, Marlette, and Miami soils are on lower positions on moraines. Oshtemo and Spinks soils are associated on low moraines. Oshtemo soils are at slightly lower elevations and the sandier Spinks soils are commonly at slightly higher elevations.
 
-DRAINAGE AND SATURATED HYDRAULIC CONDUCTIVITY: Well drained. The potential for surface runoff is negligible to high depending upon the slope. Saturated hydraulic conductivity is moderately high. Permeability is moderate.
+DRAINAGE AND SATURATED HYDRAULIC CONDUCTIVITY: Well drained. The potential for surface runoff is negligible to high depending upon the slope. Saturated hydraulic conductivity is moderately high or high. Permeability is moderate.
 
 USE AND VEGETATION: Most areas are cultivated. Corn, small grains, soybeans, and legume-grass hay are the principal crops. Steep areas are in permanent pasture or forest. Wooded areas are in oaks, hickory and maple. Native vegetation is hardwood forest.
 
-DISTRIBUTION AND EXTENT: MLRAs 97, 98, 111B, and 111C in Michigan and Indiana. The series is of large extent.
+DISTRIBUTION AND EXTENT: MLRAs 97, 98, and 111 in Michigan and Indiana. The series is of large extent.
 
-MLRA SOIL SURVEY REGIONAL OFFICE (MO) RESPONSIBLE: AMHERST, MASSACHUSETTS
+SOIL SURVEY REGIONAL OFFICE (SSRO) RESPONSIBLE: Morgantown, West Virginia
 
 SERIES ESTABLISHED: Hillsdale County, Michigan, 1924.
 

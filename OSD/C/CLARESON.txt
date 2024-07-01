@@ -2,11 +2,11 @@ LOCATION CLARESON               KS+AR MO
 
 Established Series
 Rev. JMA-LEB-RGC
-12/2020
+06/2024
 
 CLARESON SERIES
 
-The Clareson series consists of moderately deep, well drained soils that formed in residuum weathered from limestone.  These soils are on uplands.  Slope ranges from 1 to 3 percent.  Mean annual precipitation is about 1143 mm (45 inches), and mean annual temperature is about 14 degrees C (57 degrees F).
+The Clareson series consists of moderately deep, well drained soils that formed in residuum weathered from limestone.  These soils are on uplands.  Slope ranges from 0 to 15 percent.  Mean annual precipitation is about 1143 mm (45 inches), and mean annual temperature is about 14 degrees C (57 degrees F).
 
 TAXONOMIC CLASS: Clayey-skeletal, mixed, superactive, thermic Typic Argiudolls
 
@@ -22,21 +22,25 @@ TYPICAL PEDON:  Clareson stony silty clay loam, convex, 2 percent slope in nativ
 
    R--76 cm (30 inches); hard limestone bedrock.
 
-TYPE LOCATION:  Crawford County, Kansas; about 4 miles west and l 3/4 miles south of Arcadia; 1,100 feet north and 150 feet east of the southwest corner of sec. 8, T. 28 S., R. 25 E; USGS Arma, Kansas topographic quadrangle; lat. 37 degrees 38 minutes 32.50 seconds N. and long. 94 degrees 48 minutes 15.36 seconds W.; UTM Zone 15, 340811 easting and 4167666 northing, NAD 83.
+TYPE LOCATION:  Crawford County, Kansas; about 4 miles west and 1 3/4 miles south of Arcadia; 1,100 feet north and 150 feet east of the southwest corner of sec. 8, T. 28 S., R. 25 E.
+
+USGS topographic quadrangle--Arma, Kansas
+Latitude 37.6183052
+Longitude -94.7039413
+Datum--WGS84
+Coordinate Source--estimated from other source  
 
 RANGE IN CHARACTERISTICS:
-Depth to bedrock: ranges from 51 to 102 centimeters (20 to 40 inches).
+Depth to bedrock: ranges from 51 to 102 centimeters (20 to 40 inches)
 Depth to argillic horizon:  36 to 64 cm (14 to 25 inches)
 Mollic thickness: 20 to 51 centimeters (8 to 20 inches)
-Particle-size control section (weighted average):  36 to 64 cm (14 to 25 inches)
-Clay content: 38 to 70 percent
-Rock fragments: 35 to 85 percent
+Particle-size control section (weighted average): clay content averages 38 to 70 percent and rock fragment content averages 35 to 85 percent
 
 A horizon:
 Hue: 7.5YR or 10YR
 Value: 2 or 3 and 3 to 5 dry
 Chroma: 2 or 3
-Texture: silt loam, silty clay loam, or their channery, flaggy, or stony analogues.
+Texture: silt loam, silty clay loam, or their channery, flaggy, or stony analogues
 Clay content: 20 to 39 percent
 Sand content: 0 to 20 percent
 Rock fragment content: 0 to 20 percent
@@ -59,7 +63,7 @@ Chroma: 2 to 6
 Texture: very or extremely channery, flaggy, or stony silty clay, clay or silty clay loam
 Clay content: 38 to 70 percent
 Sand content: 0 to 25 percent
-Rock fragment content: 35 to 85 percent limestone channers or flagstones.
+Rock fragment content: 35 to 85 percent limestone channers or flagstones
 Reaction: moderately acid to neutral
 
 BC horizon: (when present)
@@ -69,7 +73,7 @@ Chroma: 2 to 6
 Texture: very or extremely channery, flaggy, or stony silty clay or clay
 Clay content: 40 to 70 percent
 Sand content: 0 to 20 percent
-Rock fragment content: 35 to 85 percent limestone channers or flagstones.
+Rock fragment content: 35 to 85 percent limestone channers or flagstones
 Reaction: moderately acid to neutral
 
 COMPETING SERIES:  There are no competing series.
@@ -84,14 +88,13 @@ USE AND VEGETATION:  Soils are mostly in native grass pasture.  Most common gras
 
 DISTRIBUTION AND EXTENT:  MLRA 76, MLRA 84A, MLRA 112, and MLRA 116A in southeastern Kansas, southwestern Missouri and northwestern Arkansas.  The series is of large extent.
 
-SOIL SURVEY REGIONAL OFFICE (SSRO) RESPONSIBLE: Indianapolis, Indiana
+SOIL SURVEY REGIONAL OFFICE (SSRO) RESPONSIBLE: Salina, Kansas
 
 SERIES ESTABLISHED:  Crawford County, Kansas, 1969.
 
 REMARKS:  Diagnostic horizons and features recognized in this pedon are:
 Mollic epipedon: from the surface to a depth of 36 cm (14 inches) (A and BA horizons).
 Argillic horizon: from a depth of 36 to 64 cm (14 to 25 inches) (Bt horizon).
-05/2003 Cation-exchange activity class added, horizon nomenclature updated.
 
 NASIS data mapunit ID 745328 represents the typical pedon.  Other NASIS DMU ID's are 745325, 745326, 745327 and 745330.
 
