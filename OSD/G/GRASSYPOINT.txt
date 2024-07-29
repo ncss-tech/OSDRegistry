@@ -1,0 +1,132 @@
+LOCATION GRASSYPOINT            TX
+
+Tentative Series
+SAK-JKW-AS
+07/2024
+
+GRASSYPOINT SERIES
+
+The Grassypoint series consists of very deep, very poorly drained, very low saturated hydraulic conductivity soils that formed in clayey fluviomarine deposits. These nearly level soils occur on tidal marshes on estuaries. Slope is less than 1 percent. Mean annual precipitation is about 1295 mm (51 in) and mean annual air temperature is about 20.6 degrees C (69 degrees F).
+
+TAXONOMIC CLASS: Fine, smectitic, nonacid, hyperthermic Sodic Endoaquents
+
+TYPICAL PEDON: Grassypoint silty clay loam, on tidal marsh.  (Colors are for moist soil unless otherwise stated.)
+
+ Ag--0 to 30 cm (0 to 12 in); dark greenish gray (10Y 4/1) silty clay loam; massive; moderately sticky, moderately plastic; many fine roots; many dead roots; electrical conductivity of 42.0 dS/m; neutral; clear smooth boundary. (12 to 32 cm [5 to 13 in] thick)            
+
+ Cg1--30 to 67 cm (12 to 26 in); dark gray (N 4/), clay; massive; very sticky, very plastic; common fine roots; 5 percent fine prominent light olive brown (2.5Y 5/4) masses of oxidized iron; electrical conductivity of 22.0 dS/m by ec meter; neutral; gradual smooth boundary. (combined thickness of the Cg horizons is 48 to 168 cm [19 to 66 in])                                                                                          
+
+ Cg2--67 to 112 cm (26 to 44 in); gray (N 5/), clay; massive; very sticky, very plastic; very few very fine roots; 1 percent fine prominent black (7.5YR 2.5/1) manganese masses; 5 percent medium prominent olive yellow (5Y 6/6) masses of oxidized iron; electrical conductivity of 26.0 dS/m by ec meter; neutral; clear smooth boundary.                           
+
+ C--112 to 203 cm (44 to 80 in); reddish brown (5YR 5/4) clay; massive; very sticky, very plastic; 2 percent fine prominent black (7.5YR 2.5/1) manganese masses; 5 percent coarse prominent gray (5Y 6/1) iron depletions; 15 percent medium prominent gray (5Y 6/1) iron depletions; electrical conductivity of 32.0 dS/m by ec meter; neutral. (42 to 141 cm [17 to 56 in] thick)
+
+TYPE LOCATION: 
+Brazoria County, TX; from the intersection of FM521 and FM2004; about 1.8 miles northeast on FM2004 to the entrance to Brazoria National Wildlife Refuge; 3 miles east on paved refuge road, then 1.5 miles south to kayak launch; located about 0.65 mile southwest in tidal marsh. 
+
+USGS topographic quadrangle: Oyster Creek, TX 
+Latitude: 29 degrees 1 minute 30.54 seconds north
+  Longitude: 95 degrees 15 minutes 30.38 seconds west 
+  Datum: WGS84     
+  UTM Zone: 15
+  UTM Easting: 280051 meters  
+  UTM Northing: 3212876 meters
+
+RANGE IN CHARACTERISTICS:
+Soil Moisture: A peraquic soil moisture regime.
+Mean annual soil temperature: 21.7 to 22.2 degrees C (71 to 72 degrees F)
+
+Particle-size control section (weighted average):
+Total clay content: 35 to 45 percent
+
+Ag horizon:
+(some pedons have an O horizon made up of decayed and living grass roots)
+Hue: 2.5Y, 5Y, 10Y, or N
+Value: 2 to 4
+Chroma: up to 1
+Texture: loam, clay loam, silty clay loam, silty clay, or clay
+Total clay content: 25 to 53 percent
+Electrical conductivity (mmhos/cm): 21 to 63
+Reaction (pH): neutral slightly alkaline (6.6 to 7.8)
+
+Cg horizon:
+Hue: 2.5Y, 5Y, 10Y, or N
+Value: 2 to 6
+Chroma: up to 1
+Texture: clay loam, silty clay loam, silty clay, or clay
+Total clay content: 34 to 53 percent
+Redox concentrations: amount-0 to 8 percent; color-shades of brown or yellow
+Redox depletions: amount-0 to 8 percent; color-shades of gray
+Iron-manganese concentrations: amount-0 to 5 percent
+Electrical conductivity (mmhos/cm): 13 to 54
+Reaction (pH): neutral to moderately alklaline (6.1 to 8.4)
+
+C horizon:
+Hue: 7.5YR or 5YR
+Value: 4 or 5
+Chroma: 3 or 4
+Texture: silty clay loam, silty clay, clay
+Total clay content: 30 to 85 percent
+Redox concentrations: amount-0 to 8 percent; color-shades of brown or yellow
+Redox depletions: amount-0 to 8 percent; color-shades of gray
+Iron-manganese concentrations: amount-0 to 5 percent
+Electrical conductivity (mmhos/cm): 13 to 46
+Reaction (pH): slightly alkaline or moderately alkaline (7.4 to 8.4)
+
+COMPETING SERIES: 
+This is the Tracosa series in the same family. Similar soils are the Harris and Placedo series.
+Tracosa soils: do not have reddish subsoils
+Harris soils: have a mollic epipedon
+Placedo soils: do not have endosaturation
+
+GEOGRAPHIC SETTING:
+Parent material: fluviomarine depostits derived from igneous, metamorphic, and sedimentary rocks
+Landscape: estuaries
+Landform: tidal marsh
+Slope: less than 1 percent
+Precipitation Pattern: rainfall is mostly uniform throughout the year but most of the annual rainfall occurs during the Spring, Summer, and Fall months
+Mean annual precipitation: 1219 to 1295 mm (48 to 51 in)
+Mean annual air temperature: 20.6 to 21.7 degrees C (69 to 71 degrees F)
+Frost-free period: 271 to 300 days
+
+GEOGRAPHICALLY ASSOCIATED SOILS: 
+These are the Follet, Tatlum, and the tentative Amarada and Jonesbay series. 
+Follet and Tatlum soils: have less clay throughout; on a similar landform
+Amarada and Jonesbay soils: are permanently submerged.
+
+DRAINAGE AND PERMEABILITY: 
+Drainage class: very poorly drained 
+Saturated hydraulic conductivity: very low
+Runoff: negligible
+Flooding: very frequently frequency, for very long duration due to daily tides.
+Seasonal water table: Endosaturation occurs between depths of 0 to 203 cm (0 to 80 in) of the surface during the periods of lowest of low tides in most years.
+
+USE AND VEGETATION: 
+Major uses: wildlife habitat
+Native vegetation: Smooth cordgrass makes up over 80 percent of each area; the remainder is distichlis, Borrichia, and salicornia
+
+DISTRIBUTION AND EXTENT: 
+General area: These soils are located on the upper Texas Gulf Coast in areas that were influenced by ancient Brazos River.  
+Land Resource Region: T- Atlantic and Gulf Coast Lowland Forest and Crop Region 
+MLRA 150B Gulf Coast Saline Prairies 
+Extent: Small
+
+SOIL SURVEY REGIONAL OFFICE (SSRO) RESPONSIBLE: Temple, Texas
+
+SERIES PROPOSED: Brazoria County, Texas, 2022. The name is from a geographic area close to the series type location.
+
+REMARKS: The series was formerly included in the Tracosa series. The series was separated based on the red subsoil.
+
+Diagnostic horizons and features recognized in this pedon are:
+  Particle-size control section: 25 to 100 cm (10 to 40 in) 
+  Ochric epipedon: 0 to 30 cm (0 to 12 in) (Ag horizon) 
+  Endosaturation: 0 to 203 cm (0 to 80 in) (Cg and 
+C layers)
+
+Additional Comments: The mineralogy is based on data from soils with the same texture and parent material.
+
+ADDITIONAL DATA: Particle-size analysis, electronic conductivity, and pH tests were performed at the project office on pedon S2021TX0399114.
+
+TAXONOMIC VERSION: Keys to Soil Taxonomy, Twelfth Edition, 2014
+
+National Cooperative Soil Survey
+U.S.A.
