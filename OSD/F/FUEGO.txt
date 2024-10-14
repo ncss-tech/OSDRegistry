@@ -1,52 +1,138 @@
-LOCATION FUEGO                  OR+ID
+LOCATION FUEGO                  OR
 
 Established Series
 Rev. JSC/AON
-02/2024
+10/2024
 
 FUEGO SERIES
 
-The Fuego series consists of moderately deep, somewhat excessively drained soils that formed in very gravelly material weathered from lava rocks.  Fuego soils are on volcanic domes and have slopes of 3 to 40 percent.  The mean annual precipitation is about 17 inches and the mean annual air temperature is about 44 degrees F.
+Landscape--Lava Plateau
+Landform--volcanic domes, volcanic cones, volcanic fields, dip slopes, scarp slopes, gorges, canyons
+Slope--2 to 60 percent
+Parent material--colluvium and residuum from volcanic rock, volcanic ash, and pumiceous tephra
+Mean annual precipitation--about 430 mm
+Mean annual air temperature--about 7 degrees C
+Depth class--moderately deep
+Drainage class--somewhat excessively drained
+Soil moisture regime--xeric
+Soil temperature regime--frigid
+Soil moisture subclass--typic
 
-TAXONOMIC CLASS: Loamy-skeletal, mixed, superactive, frigid Typic Haploxerolls
+TAXONOMIC CLASS: Ashy-skeletal, glassy, frigid Vitrandic Haploxerolls
 
-TYPICAL PEDON:  Fuego very stony sandy loam, rangeland.  (Colors are for moist soil unless otherwise noted.)
+TYPICAL PEDON: Fuego very stony ashy sandy loam, on an east facing slope of 8 percent at 1,341 m elevation; rangeland with scattered trees
 
-A1--0 to 5 inches; very dark grayish brown (10YR 3/2) very stony sandy loam, grayish brown (10YR 5/2) dry; weak very thin platy structure; soft, very friable, slightly sticky and slightly plastic; many very fine roots; many very fine pores; neutral (pH 7.0); clear smooth boundary.  (4 to 7 inches thick)
+ A1--0 to 13 cm; very stony ashy sandy loam, grayish brown (10YR 5/2) dry, very dark grayish brown (10YR 3/2) moist; moderate very fine granular structure; soft, very friable, nonsticky and nonplastic; many very fine roots throughout; many very fine irregular pores; 10 percent pumice paragravel, 20 percent andesite gravel, 10 percent andesite cobbles, 10 percent andesite stones; neutral (pH 7.0); clear smooth boundary
 
-A2--5 to 10 inches; very dark grayish brown (10YR 3/2) very
-gravelly sandy loam; brown (10YR 5/3) dry; weak medium subangular blocky structure; soft, very friable, slightly sticky and slighty plastic; many very fine and few fine roots; many very fine pores; neutral (pH 7.2); gradual wavy boundary.  (4 to 14 inches thick)
+ A2--13 to 25 cm; gravelly ashy sandy loam, brown (10YR 5/3) dry, very dark grayish brown (10YR 3/2) moist; weak thin platy parting to moderate very fine granular structure; soft, very friable, nonsticky and nonplastic; common very fine and few fine and medium roots throughout; many very fine interstitial pores; 10 percent pumice paragravel, 25 percent andesite gravel, 5 percent andesite cobbles; neutral (pH 7.2); gradual wavy boundary
 
-Bw--10 to 25 inches; dark brown (10YR 3/3) very gravelly sandy
-loam, pale brown (10YR 6/3) dry; weak medium subangular blocky structure; soft, very friable, common very fine and few fine and medium roots; many very fine pores; neutral (pH 7.2); abrupt irregular boundary.  (10 to 25 inches thick)
+ Bw--25 to 64 cm; very gravelly ashy sandy loam, pale brown (10YR 6/3) dry, dark brown (10YR 3/3) moist; weak medium prismatic parting to weak medium subangular blocky structure; soft, very friable, nonsticky and nonplastic; common very fine and few fine and medium roots throughout; many very fine interstitial pores; 20 percent pumice paragravel, 40 percent andesite gravel, 5 percent andesite cobbles; neutral (pH 7.2); abrupt irregular boundary
 
-R--25 inches; lava bedrock (andesite).
+ R--64 cm; indurated andesite bedrock
 
-TYPE LOCATION:  Klamath County, Oregon; on south slope of Council Butte; 2,200 feet west and 1,220 feet south of the NE corner section 15, T.36S., R.11E.
+TYPE LOCATION: Klamath County, Oregon; about 6 miles west of the community of Beatty, on the southeast slope of Council Butte; about 701 m west and 373 m south of the NE corner section 15, T.36S., R.11E.; Sprague River East, Oregon USGS Quadrangle; latitude 42.4532623, longitude 121.3976440 north, datum WGS 84 (coordinates derived from GSP unit)
 
-RANGE IN CHARACTERISTICS:  Mean annual soil temperature ranges from 39 to 47 degrees F.  The soils are usually moist and are dry 65 to 90 days within the four-month period following the summer solstice.  Depth to bedrock ranges from 20 to 40 inches.  Pumiceous ash comprises 5 to 30 percent by volume of the fine earth fraction.  The mollic epipedon is 7 to 20 inches thick.  The texture control section has 35 to 60 percent rock fragments and 12 to 18 percent clay.
+RANGE IN CHARACTERISTICS:
+Mean annual soil temperature-- 4 to 8 degrees C
+Moisture control section--20 to 60 cm; dry 65 to 90 days within the four-month period following the summer solstice
+Mollic epipedon--18 to 50 cm thick
+Base saturation (by NH4OAc) in the mollic epipedon--75 to 100 percent
+Depth to bedrock--50 to 100 cm
 
-The A horizon has value of 3 through 5 dry, 2 or 3 moist and chroma of 2 or 3 moist and dry.  It has 15 to 35 gravel and up to 25 percent cobbles and stones by volume.  It is slightly acid or neutral.
+Particle-size control section:
+*Clay content--12 to 18 percent
+*Rock fragment content--35 to 60 percent indurated volcanic rock, typically andesite
+*Pararock fragment content--5 to 25 percent moderately cemented pumice paragravel
 
-The Bw horizon has value of 3 or 4 moist, chroma of 3 or 4 dry and 2 or 3 moist.  It is sandy loam and has 12 to 18 percent clay, 0 to 10 percent cobbles and stones and 35 to 50 percent gravel by volume.  This horizon is slightly acid or mildly alkaline.
+Estimated properties, all mineral horizons:
+*Volcanic glass content--30 to 60 percent
+*Ammonium oxalate extractable Al plus 1/2 Fe--0.2 to 0.4 percent
+*1/3-bar bulk density--1.00 to 1.20 g/cm3
+*1500 kPa water (air-dried samples)--10 to 15 percent
+*Medium to very coarse sand in the .02 to 2.0 mm fraction--greater than 50 percent
 
-COMPETING SERIES:  These are the Bergquist (T), Bigarm, Bradshaw, Everwhite (T), Mud Springs, Potamus, and St. Marys series.  Bergquist and St. Marys soils are 40 to 60 inches or more over bedrock.  Bigarm, Bradshaw, and Potamus soils lack bedrock above a 60 inch depth.  Everwhite soils lack cambic horizons and lack the influence of ashy parent material.  Mud Springs soils have B horizons that are hard or very hard when dry, lack the influence of ashy parent material, and formed in granitic residuum.
+A horizons  
+Value--2 or 3 moist, 3 to 5 dry
+Chroma--2 or 3 moist or dry
+Fine-earth texture  --ashy sandy loam, ashy coarse sandy loam, ashy loamy sand, ashy loamy coarse sand
+Clay content: 2 to 10 percent
+Total fragment content--20 to 65 percent
+  Paragravel content--5 to 15 percent
+Rock fragments--15 to 55 percent
+  Gravel content--15 to 30 percent
+  Cobble content--0 to 10 percent
+  Stone content--0 to 15 percent
+Reaction--slightly acid to neutral (pH 6.1 to 7.3)
+Organic matter--2 to 10 percent in the upper A horizon, 1 to 6 percent in lower A horizons
+Combined thickness--25 to 50 cm
 
-GEOGRAPHIC SETTING:  Fuego soils are on sloping to steep volcanic plug domes and other extrusive domes.  Elevations range from 4,300 to 6,200 feet.  The soils formed in very gravelly detritus weathered from porphyritic andesite and similar coarse-grained rocks.  The climate is subhumid with mean annual precipitation of 14 to 18 inches.  Mean January temperature is 25 degrees to 27 degrees F.; the mean July temperature is 60 degrees to 62 degrees F.; and the mean annual temperature is 40 degrees to 45 degrees F.  The frost-free period is 20 to 80 days.
+Bw horizon(s  )
+Value--2 or 3 moist, 3 to 6 dry
+Chroma--2 or 3 moist, 2 to 4 dry
+Fine-earth texture--ashy sandy loam, ashy coarse sandy loam, ashy loamy sand
+Clay content: 5 to 12 percent
+Total fragment content--40 to 70 percent
+Paragravel content--5 to 25 percent
+Rock fragments--35 to 65 percent
+  Gravel content--35 to 50 percent
+  Cobble content--0 to 10 percent
+  Stone content--0 to 5 percent
+Reaction--slightly acid to slightly alkaline (pH 6.1 to 7.8)
+Organic matter--0.5 to 2 percent
 
-GEOGRAPHICALLY ASSOCIATED SOILS:  These are the Choptie and Lobert soils.  Choptie soils have bedrock at depths of 12 to 20 inches.  Lobert soils are deeper than 60 inches to bedrock and have mollic epipedons thicker than 20 inches.
+COMPETING SERIES:
+Clearline--100 to 150 cm to a lithic contact (basalt) 
+Fulcrum--dry for more than 90 days
+Glencabin--mollic epipedon greater than 50 cm thick
+Hatrock--more than 150 cm to a lithic contact (basalt)
+Linecreek--more than 150 cm to a lithic contact (basalt)
+Lonigan--calcic horizon; 50 to 100 cm to a paralithic contact
+Stines--calcic horizon; 100 to 150 cm to a paralithic contact
 
-DRAINAGE AND PERMEABILITY:  Somewhat excessively drained; medium to slow runoff; moderately rapid permeability.
-USE AND VEGETATION:  Range, woodland, wildlife habitat, and recreation.  Vegetation is mainly juniper, widely spaced ponderosa pine, antelope bitterbrush, big sagebrush, Idaho fescue, bluebunch wheatgrass and Canby  bluegrass.
+GEOGRAPHIC SETTING:
+Elevation--1300 to 2275 m
+Climate--subhumid
+Mean annual air temperature-- 4 to 7 degrees C
+Mean January air temperature-- -4 to -3 degrees C
+Mean July air temperature-- 15 to 17 degrees C
+Mean annual precipitation--320 to 970 mm
+Frost-free period--50 to 80 days
 
-DISTRIBUTION AND EXTENT:  South-central Oregon and southwestern Idaho.  The series is inextensive.
+GEOGRAPHICALLY ASSOCIATED SOILS:
+Bly--on alluvial fans and terraces; 100 to 200 cm to a duripan; fine-loamy; mollic epipedon greater than 50 cm thick
+Choptie--on low hills, ridges, and rock pediments; 30 to 50 cm to lithic contact
+Lobert--on sand ramps on stream terraces; more than 150 cm to lithic contact; mollic epipedon greater than 50 cm thick
+Mousehawk--on volcanic fields and volcanic cones; 25 to 50 cm to lithic contact; less than 30 percent rock fragments in the particle-size control section
 
-SOIL SURVEY REGIONAL OFFICE (SSRO) RESPONSIBLE: DAVIS, CALIFORNIA
+DRAINAGE AND PERMEABILITY:
+Drainage class--somewhat excessively drained
+Saturated hydraulic conductivity (Ksat)--moderately high to high throughout
 
-SERIES ESTABLISHED:  Klamath County, Oregon, 1977.
+USE AND VEGETATION:
+Use--livestock grazing, timber production, wildlife habitat, recreation
+Vegetation--mainly juniper, widely spaced ponderosa pine, antelope bitterbrush, big sagebrush, Idaho fescue, bluebunch wheatgrass and Canby bluegrass
+
+DISTRIBUTION AND EXTENT: Southern Oregon, MLRA 21; Klamath and Shasta Valleys and Basins, Oregon; MLRA 21; inextensive
+
+SOIL SURVEY REGIONAL OFFICE (SSRO) RESPONSIBLE: Davis, California
+
+SERIES ESTABLISHED: Klamath County, Oregon, 1977
 
 REMARKS:
-The superactive cation exchange activity class was added in 03/2003 to the taxonomic classification by the National Soil Survey Center on request of the Reno MLRA office, without review of the soil series property data. The remainder of this document has not been updated.
+Diagnostic horizons and features in this pedon:
+*Mollic epipedon-- A1 and A2 horizons
+*Vitrandic subgroup criteria--A1, A2, and Bw horizons
+*Cambic horizon--Bw horizon
+*Lithic contact--R horizon
+*Particle-size control section--zone from 25 to 64 cm
+
+02/2024--examined the type location and updated the pedon description (March, 2005); updated series classification, range in characteristics, formatting, and competing series
+
+ADDITIONAL DATA:
+NASIS Site ID: 05-SMM-009
+NASIS Pedon ID: 05OR681009
+
+Vitrandic properties and chemical properties are inferred from analyses conducted by Kellogg Soil Survey Laboratory (KSSL) on a nearby pedon (KSSL Pedon 04N0096; NASIS Site ID 03-SMM-18; NASIS Pedon ID 03OR035007)
 
 National Cooperative Soil Survey
 U.S.A.
