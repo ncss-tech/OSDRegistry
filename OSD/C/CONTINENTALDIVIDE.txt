@@ -1,0 +1,144 @@
+LOCATION CONTINENTALDIVIDE      AK
+
+Tentative Series
+SAS/MPS
+10/2024
+
+CONTINENTALDIVIDE SERIES
+
+Depth class: shallow to lithic bedrock
+Drainage class: well drained
+Parent material: loess over coarse-grained residuum weathered from sandstone
+Landscape: mountains
+Landform: ridges
+Slopes: 0 to 20 percent
+Mean annual precipitation: about 450 mm (17.7 in)
+Mean annual air temperature: about -4 degrees C. (24.8 degrees F.)
+Frost-free period: 70 to 85 days
+
+TAXONOMIC CLASS: Loamy-skeletal, mixed, superactive, nonacid, subgelic Lithic Haplogelolls
+
+TYPICAL PEDON: Continentaldivide extremely cobbly highly organic silt loam in an alpine dryas lichen scrubland community on a south facing convex, convex shoulder on a slope of 5 percent at an elevation of 534m (1752 ft)
+
+     A1--0 to 3 cm (0 to 1 in); extremely cobbly highly organic silt loam; black (10YR 2/1) moist, dark gray (10YR 4/1) dry; weak fine granular structure; very friable, soft, nonsticky, nonplastic; nonsmeary; many very fine roots and common fine roots throughout; common very fine irregular pores; 20 percent gravel, 50 percent cobbles; 10 percent soil organic carbon; 17 percent soil organic matter; noneffervescent; slightly acid (pH 6.4); abrupt smooth boundary. (1 to 5 cm, 0.5 to 2 in thick)
+
+     A2--3 to 23 cm (1 to 9 in); extremely cobbly loam; dark brown (10YR 3/3) moist, brown (10YR 5/3) dry; moderate medium granular structure; very friable, soft, nonsticky, nonplastic; weakly smeary; many very fine roots and common fine roots throughout; few very fine irregular pores; 30 percent gravel, 35 percent cobbles; 3.3 percent of soil organic carbon; 5.7 percent of soil organic matter; noneffervescent; slightly acid (pH 6.1); clear smooth boundary. (12 to 20 cm, 5 to 8 in thick)
+
+     A3--23 to 45 cm (9 to 18 in); extremely cobbly loam; dark brown (10YR 3/3) moist, brown (10YR 5/3) dry; weak very coarse granular structure; friable, slightly hard, nonsticky, nonplastic; weakly smeary; common very fine roots and few fine roots throughout; common very fine tubular pores; 15 percent prominent pinkish gray (7.5YR 6/2), moist, carbonate coats on bottom of rock fragments; 30 percent gravel, 40 percent cobbles; 3.5 percent of soil organic carbon; 6 percent of soil organic matter; noneffervescent in the soil matrix and strongly effervescent on the bottom of rock fragmetns; moderately acid (pH 6.0); very abrupt irregular boundary. (15 to 45 cm, 6 to 18 in thick)
+
+     2R--45 to 70 cm (18 to 28 in); strongly coherent to indurated coarse grained sandstone bedrock.
+
+TYPE LOCATION: Nulato Hills - Continental Divide and Blackburn Hills Soil Survey Area, Alaska; latitude 65.0162610, longitude -159.5083010, datum WGS84, UTM north 7210363.16 and UTM east 476045.00, zone 4, datum WGS84.
+
+RANGE IN CHARACTERISTICS:
+
+Soil moisture regime: udic
+Soil temperature regime: gelic
+Mean annual soil temperature: -1 to 0 degrees C. (30.2 to 32 degrees F.)
+Thickness of mollic epipedon: 25 to 50 cm (10 to 20 in)
+Depth to lithic contact: 20 to 50 cm (8 to 20 in)
+
+A1 horizon:
+Hue: 7.5YR or 10YR
+Value: 2 or 3 moist, 4 or 5 dry
+Chroma: 1 or 2
+Texture: highly organic silt loam or its cobbly analogues
+Sand: 15 to 45 percent
+Silt: 50 to 80 percent
+Clay: 3 to 12 percent
+Rock fragments: 60 to 80 percent
+Gravels: 5 to 30 percent
+Cobbles: 30 to 55 percent
+Organic matter: 10 to 19 percent
+Reaction class: moderately acid to neutral (pH 5.6 to 7.3)
+
+A2 horizon:
+Hue: 7.5YR or 10YR
+Value: 2 or 3 moist, 4 or 5 dry
+Chroma: 1 to 3
+Texture: silt loam, loam or their gravelly, cobbly analogues
+Sand: 15 to 50 percent
+Silt: 38 to 80 percent
+Clay: 3 to 12 percent
+Rock fragments: 60 to 80 percent
+Gravels: 20 to 40 percent
+Cobbles: 20 to 50 percent
+Organic matter: 2 to 8 percent
+Reaction class: moderately acid to neutral (pH 5.6 to 7.3)
+
+A3 horizon:
+Hue: 10YR
+Value: 2 or 3 moist, 4 or 5 dry
+Chroma: 1 to 3
+Texture: loam, sandy loam or their gravelly, cobbly analogues
+Sand: 35 to 75 percent
+Silt: 10 to 50 percent
+Clay: 4 to 15 percent
+Rock fragments: 60 to 85 percent
+Gravels: 15 to 45 percent
+Cobbles: 15 to 70 percent
+Organic matter: 2 to 8 percent
+Reaction class: moderately acid to neutral (pH 5.6 to 7.3)
+
+2R horizon
+Strongly coherent to indurated coarse grained sandstone bedrock.
+
+Some   pedons have AC horizons at the bottom of the mollic epipedon or have thin Bw horizons directly above the lithic contact. 
+
+COMPETING SERIES: There are no competing series.
+
+GEOGRAPHIC SETTING:
+Elevation: 150 to 850 meters (492 to 2789 feet)
+Parent material: loess over coarse-grained residuum weathered from sandstone
+Landform: ridges
+Slopes: 0 to 20 percent
+Mean annual precipitation: 400 to 600 mm (16 to 24 in)
+Mean annual air temperature: -6 to -2 degrees C. (21.2 to 28.4 degrees F.)
+Frost free period: 70 to 85 days
+
+GEOGRAPHICALLY ASSOCIATED SOILS: These are the Aklak, Atkaktuk, Ingik, Iyyagrik, Kikku, Kimialuk, Kulik, Managaarak, Myoukchuk, Tatkik, Tui, and Ugguktuk soils.
+Aklak soils have a lithic contact at depths between 100 to 150 cm (39 to 59 in), have a fragmental layer at depths starting between 22 to 78 cm (9 to 31 in), have a fragmental particle size class, have an organic surface, and occur on mountainflanks, upper and center thirds
+Atkaktuk soils have a fragmental layer at depths starting between 35 to 60 cm (14 to 79 in), have an umbric epipedon, have a loamy-skeletal over fragmental particle size class, and occur on mountainflanks, upper third
+Ingik soils have paralithic contact at depths between 50 to 100 cm (20 to 39 in), have an ochric epipedon, have an organic surface, and occur on mountainflanks, upper third
+Iyyagrik soils have lithic contact at depths between 100 to 150 cm (39 to 59 in), have a cryic soil temperature regime, have an organic surface, and occur on mountainflanks, upper third
+Kikku soils have aquic conditions starting between 0 to 25 cm (0 to 10 in), have a reduced matrix starting within 50 cm (20 in), lack lithic contact within 200cm (79in), have a histic epipedon, have a fine-loamy particle size class, have free carbonates below 40 cm (16 in), have ponding, and occur on shoulders and mountainflanks, upper third
+Kimialuk soils have lithic contact at depths between 100 to 150 cm (39 to 59 in), have an ochric epipedon, have a cambic horizon, have cryoturbation, have an organic surface, have free carbonates below 40 cm (16 in), and occur on mountainflanks, upper third
+Kulik soils have lithic contact at depths between 50 to 100 cm (20 to 39 in), have a cambic horizon, have an organic surface, and occur on mountainflanks, upper and center thirds
+ Managaarak soils have lithic contact at depths between 100 to 150 cm (39 to 59 in), have a fragmental layer at depths starting between 41 to 93 cm (16 to 37 in), have an ochric epipedon, have an acid reaction class, have an organic surface, and occur on mountainflanks, upper third
+Myoukchuk soils have paralithic contact at depths between 100 to 150 cm (39 to 59 in), have a fragmental layer at depths starting between 4 to 86 cm (2 to 34 in), have an ochric epipedon, have a fragmental particle size class, have an organic surface, and occur on valley sides and mountainflanks, upper and lower thirds
+Tatkik soils have aquic conditions starting between 25 to 50 cm (10 to 20 in), have a reduced matrix starting within 50 cm (20 in), lack lithic contact within 200cm (79in), have an ochric epipedon, have a cambic horizon, have a cryic soil temperature regime, have an organic surface, and occur on swales of mountains
+Tui soils lack lithic contact within 200cm (79in), have an ochric epipedon, have a cambic horizon, have a cryic soil temperature regime, have an organic surface, and occur on nose slopes and mountainflanks
+Ugguktuk soils have lithic contact at depths between 50 to 100 cm (20 to 39 in), have aquic conditions starting between 25 to 50 cm (10 to 20 in), have a reduced matrix starting within 50 cm, have an ochric epipedon, have a cambic horizon, have an acid reaction class, and occur on saddles and broad ridges
+
+DRAINAGE AND SATURATED HYDRAULIC CONDUCTIVITY: 
+Drainage class: well drained
+Saturated Hydraulic Conductivity: moderately high to high in the A1, A2, and A3 horizons 
+Permeability: moderate to moderately rapid in the A1 and A2 horizons, and moderate to rapid in the A3 horizon
+Runoff: low
+
+USE AND VEGETATION: 
+Use: wildlife habitat, recreation, and subsistence
+Native vegetation: eightpetal mountain-avens, crustose lichen, moss, whiteworm lichen, globe ball lichen, skeletonleaf willow, locoweed, smallawned sedge
+
+DISTRIBUTION AND EXTENT: MLRA 240, Nulato Hills-Southern Seward Peninsula Highlands. The series is of moderate extent.
+
+SOIL SURVEY REGIONAL OFFICE (SSRO) RESPONSIBLE: Wasilla, Alaska
+
+SERIES ESTABLISHED: Nulato Hills - Continental Divide and Blackburn Hills Soil Survey, Alaska, 2024.
+
+REMARKS: Diagnostic features and horizons recognized in this profile include:
+
+Particle-size control section: 25 to 45 cm (10 to 18 in)
+
+Mollic epipedon: 0 to 45 cm (0 to 18 in) (A1, A2, and A3 horizons)
+
+Lithologic discontinuity: 45 to 70 cm (18 to 28 in) (2R horizon)
+
+Lithic contact: 45 to 70 cm (18 to 28 in) (2R horizon)
+
+ADDITIONAL DATA:
+
+User pedon ID: 2022AK290544
+
+National Cooperative Soil Survey
+U.S.A.
