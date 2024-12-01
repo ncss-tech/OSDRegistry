@@ -14,7 +14,7 @@ refresh_registry(
 \arguments{
 \item{test}{Default: \code{FALSE}; run on a pair of small regions (MO 12, 13)}
 
-\item{moID}{Region ID codes (Default \code{1:13}, or \code{c(12, 13)} when \code{test=TRUE})}
+\item{moID}{Region ID codes; see default argument value in function definition for details}
 
 \item{port}{Passed to \code{\link[RSelenium:rsDriver]{RSelenium::rsDriver()}}. Default: \code{4567L}.}
 }
