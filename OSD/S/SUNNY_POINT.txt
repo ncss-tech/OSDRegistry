@@ -1,0 +1,123 @@
+LOCATION SUNNY POINT            NC
+
+Established Series
+ARW
+10/2024
+
+SUNNY POINT SERIES
+
+MLRA--153A, 153B
+Soil Survey Regional Office (SSRO) Responsible--Special Projects
+Depth Class--Very deep
+Drainage Class--Subaqueous (permanently submersed)
+Saturated Hydraulic Conductivity--Moderately high to high
+Parent Material--Coarse-loamy estuarine deposits 
+Soil Organic Carbon Stock to 200 centimeters--46.7 kg m-2
+Slope--0 to 2 percent
+Mean Annual Air Temperature--18 degrees C (64 degrees F) 
+Mean Annual Water Temperature--21 degrees C (70 degrees F)
+
+TAXONOMIC CLASS: Coarse-loamy, mixed, semiactive, nonacid, thermic Fluventic Sulfiwassents
+
+TYPICAL PEDON: Sunny Point silt loam on a submerged wave-cut platform under 1.3 meters of brackish water (Colors are for moist soil unless otherwise stated; electrical conductivity is 1:5 by volume solution mixture unless otherwise stated).
+
+ Cseg1--0 to 22 centimeters (0 to 9 inches); black (N 2.5/) silt loam; structureless, massive; slightly sticky, nonplastic; slightly fluid; 2 percent shell fragments; slight sulfurous odor; positive color reaction with 3% hydrogen peroxide; moderately effervescent with 30% hydrogen peroxide; moderately saline (3.3 dS m-1); neutral (pH 7.3), moderately acid (pH 5.6) oxidized; 2.7 kg soil organic carbon m-3; gradual boundary. 
+
+ Cseg2--22 to 110 centimeters (9 to 43 inches); greenish black (10Y 2.5/1) silt loam; structureless, massive; slightly sticky, nonplastic; moderately fluid; 4 percent shell fragments; 4 percent wood fragments; slight sulfurous odor; no color reaction with 3% hydrogen peroxide; moderately effervescent with 30% hydrogen peroxide; moderately saline (3.2 dS m-1); neutral (pH 7.3), extremely acid (pH 3.9) oxidized; 16.2 kg soil organic carbon m-3; gradual boundary.
+
+ Cseg3--110 to 130 centimeters (43 to 51 inches); dark greenish gray (10Y 3/1) sandy loam; structureless, massive; slightly sticky, slightly plastic; slightly fluid; 2 percent shell fragments; slight sulfurous odor; no color reaction with 3% hydrogen peroxide; slightly effervescent with 30% hydrogen peroxide; slightly saline (1.7 dS m-1); neutral (pH 7.2), ultra acid (pH 3.4) oxidized; 1.4 kg soil organic carbon m-3; clear boundary.
+
+ Cseg4--130 to 186 centimeters (51 to 73 inches); 80 percent greenish black (10Y 2.5/1) and 20 percent dark greenish gray (10Y 4/1) silty clay loam; structureless, massive; moderately sticky, nonplastic; moderately fluid; slight sulfurous odor; no color reaction with 3% hydrogen peroxide; moderately effervescent with 30% hydrogen peroxide; slightly saline (1.2 dS m-1); neutral (pH 7.1), strongly acid (pH 5.4) oxidized; 20.0 kg soil organic carbon m-3; clear boundary.
+
+ Cseg5--186 to 202 centimeters (73 to 80 inches); greenish black (5GY 2.5/1) silty clay loam; structureless, massive; slightly sticky, nonplastic; moderately fluid; slight sulfurous odor; positive color reaction with 3% hydrogen peroxide; strongly effervescent with 30% hydrogen peroxide; slightly saline (0.8 dS m-1); neutral (pH 7.0), moderately acid (pH 5.9) oxidized; 3.8 kg soil organic carbon m-3; gradual boundary.
+
+ Cseg6--202 to 221 centimeters (80 to 87 inches); greenish black (10Y 2.5/1) silt loam; structureless, massive; slightly sticky, nonplastic; slightly fluid; slight sulfurous odor; positive color reaction with 3% hydrogen peroxide; strongly effervescent with 30% hydrogen peroxide; slightly saline (0.8 dS m-1); neutral (pH 6.9), very strongly acid (pH 4.7) oxidized; 2.6 kg soil organic carbon m-3.
+
+TYPE LOCATION: New Hanover County, North Carolina; Cape Fear River; approximately 2,602 feet west of the intersection of River Road and Watauga Road and 1.8 miles east of the end of Doras Way Southeast. USGS topographic quadrangle: Carolina Beach, North Carolina.
+
+Latitude--34.0931535
+Longitude-- -77.9299127
+Datum--WGS84
+Coordinate source-from hand-held GPS
+
+RANGE OF CHARACTERISTICS: 
+Depth to Bedrock--Greater than 200 centimeters
+Depth to hyper-sulfidic materials (incubated pH  4.0)--0 to 50 centimeters
+Manner of Failure / Fluidity Class--slightly fluid to very fluid
+Shell Fragments--0 to 14 percent, by volume
+Soil Reaction--Slightly acid to slightly alkaline throughout profile
+Oxidized Soil Reaction--Ultra acid to moderately acid (pH < 3.5 to 6.0) throughout profile
+Sulfurous Odor--Slight to moderate throughout profile
+Electrical Conductivity--Greater than 0.6 dS m-1 throughout profile by 1:5 by volume solution mixture
+Salinity Class--Slightly saline to moderately saline throughout profile
+Reaction to 30% Hydrogen Peroxide--Slight to strong reaction throughout profile
+Horizon Soil Organic Carbon Density--0.7 to 35.4 kg m-3 throughout profile
+Total Soil Organic Carbon Stock--10 to 88.6 kg m-2
+
+Cseg horizon:
+Hue--10YR, 2.5Y, 5Y, 10Y, or 5GY
+Value--2 to 5
+Chroma--1 or 2
+Texture--loamy sand, sandy loam, silt loam, loam, and silty clay loam
+
+COMPETING SERIES:
+There are no competing series in the same family. 
+
+GEOGRAPHIC SETTING:
+Parent Material--Coarse-loamy estuarine deposits
+Landscape--Southeast Coastal Plain Estuaries
+Landform--Low-energy shoals and mainland coves
+Slope--0 to 2 percent
+Mean Annual Air Temperature--16 to 18 degrees C (61 to 64 degrees F) 
+Mean Annual Water Temperature--18 to 24 degrees C (64 to 75 degrees F)
+Water Depth Range--0 to 2 meters (0 to 7 feet) below mean sea level
+Water Regime--Tidal; 3 to 5 foot flux
+Water Salinity Range--10 to 35 parts per thousand
+
+GEOGRAPHICALLY ASSOCIATED SOILS:
+These are the Bohicket, Carteret, Chowan, Fort Caswell, Fort Fisher, Kureb, Molasses Creek, Newhan, Prices Creek, and Showboat soils.
+Bohicket soils--are on broad level tidal marsh flats bordering the Atlantic Ocean and formed in silty and clayey marine sediments.
+Carteret soils--are on back-barrier island tidal marshes of the Atlantic Coast and formed in sandy marine deposits.
+Chowan soils--are on riverine floodplains and formed in loamy marine sediments over highly decomposed organic material.
+Fort Caswell soils--are on high-energy submerged wave-cut platforms and shoals formed in sandy estuarine deposits throughout and do not have hypersulfidic soil materials.
+Fort Fisher soils-- are in barrier coves and submerged wave-cut platforms fluctuating from low to high energy formed from sandy over loamy intermixed estuarine deposits and do not have hypersulfidic soil materials.
+Kureb soils--are on gently sloping to moderately steep soils on Coastal Plain uplands and side slopes along streams and bay and formed in marine, aeolian, or fluvial sands throughout. 
+Molasses Creek soils-- are in estuarine tidal streams and barrier coves and formed in coarse-loamy estuarine deposits and also do not contain hypersulfidic soil materials.
+Newhan soils--are on gently undulating dunes commonly near beaches and waterways, do not have water at or near the soil surface, and formed in sand and shelly eolian deposits along the Atlantic Coast.
+Prices Creek soils-- are in estuarine tidal streams and formed in fine-loamy estuarine deposits.
+Showboat soils--are in mainland coves and estuarine tidal streams formed in coarse-loamy estuarine deposits and contain 40 centimeters of buried organic soil material within 200 centimeters of the soil surface. 
+
+DRAINAGE AND SATURATED HYDRAULIC CONDUCTIVITY:
+Drainage Class--Subaqueous (permanently submerged)
+Saturated Hydraulic Conductivity--Moderately high to high
+Soil Moisture Regime--Peraquic
+
+USE AND VEGETATION:
+Major Uses--Used for recreational boating, fishing, and swimming. Some areas are actively harvested for crabs. 
+Vegetation-- Limited stands of shoal grass (Halodule wrightii), widgeon grass (Ruppia maritima), and Saltwater Eelgrass (Zostera marina) exist in lower energy areas with low turbidity that allow for establishment.
+
+DISTRIBUTION AND EXTENT:
+General area--Coastal plain estuaries in North Carolina.
+Region--T - Atlantic and Gulf Coast Lowland Forest and Crop Region
+Extent--Small
+
+SOIL SURVEY REGIONAL OFFICE (SSRO) RESPONSIBLE: Special Projects Office
+
+SERIES ESTABLISHED: New Hanover County, North Carolina, 2024
+
+REMARKS: 
+Sunny Point is derived from Military Ocean Terminal Sunny Point, one of the largest military terminals in the world. The facility is situated on an Army-owned 8,500-acre site on the banks of the Cape Fear River in Brunswick and New Hanover counties of North Carolina.  
+
+Diagnostic horizons and other diagnostic soil characteristics recognized in this pedon are (Keys to Soil Taxonomy, Thirteenth Edition, 2022)--
+
+Sulfidic materials--22 to 130 centimeters (9 to 51 inches, Cseg2 and Cseg3 horizons)
+n-value > 0.7--0 to 221 centimeters (0 to 87 inches). 
+Reduced Matrix--0 to 221 centimeters (0 to 87 inches); soil matrix that has low chroma in situ but undergoes a change in hue or chroma within 30 minutes after the soil material has been exposed to air.
+Endosaturation--0 to 221 centimeters (0 to 87 inches). 
+Peraquic feature-Zero or positive soil water potential at the soil surface.
+
+Data Map Unit ID: 940076
+NASIS User Site and Pedon ID: 2022NC129110
+________________________________________
+National Cooperative Soil Survey
+U.S.A.

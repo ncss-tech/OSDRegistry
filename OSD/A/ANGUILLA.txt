@@ -1,8 +1,8 @@
-LOCATION ANGUILLA               CT+MA+NY+RI
+LOCATION ANGUILLA               CT+MA NY RI
 
 Established Series
-Revised MKP-DAS-JTI
-04/2023
+Revised MKP-DAS-JTI-BEF
+10/2024
 
 ANGUILLA SERIES
 
@@ -18,7 +18,7 @@ Mean annual precipitation--1295 millimeters (51 inches)
 
 TAXONOMIC CLASS: Sandy, mixed, mesic Haplic Sulfiwassents
 
-TYPICAL PEDON: Anguilla  sand on a south facing, concave slope in a mainland cove under 1.1 meter of estuarine water. Tidal range is 80 centimeters. (Colors are for moist soil unless otherwise stated).
+TYPICAL PEDON: Anguilla sand on a south facing, concave slope in a mainland cove under 1.1 meter of estuarine water. Tidal range is 80 centimeters. (Colors are for moist soil unless otherwise stated).
 
  Aseg--0 to 10 centimeters black (N 2.5/) sand; single grain; very fluid; 1 percent macroalgal fragments, 0 percent rubbed; moderate sulfurous odor; strongly saline; neutral (pH 7.0); ultra acid (pH 3.4) oxidized pH; clear boundary.
 
@@ -42,6 +42,8 @@ Reaction throughout--Neutral to moderately alkaline (pH 6.6 to 8.4)
 Oxidized reaction--Ultra acid to moderately alkaline (pH < 3.5 to 8.4)
 Electrical conductivity (1:5 soil-water),  throughout--0.6 dS/m or greater
 Depth to sulfidic materials (oxidized pH < 4.0)--0 to 50 centimeters
+Total Soil Organic Carbon Stock 0 to 100 centimeters--3 to 5 kg m-3
+Total Soil Organic Carbon Stock 0 to 200 centimeters--8 to 15 kg m-3
 
 Aseg, ACseg, or CAseg horizon (where present)
 Hue--10YR, 2.5Y, 5Y, 10Y or is neutral
@@ -53,7 +55,19 @@ Organic carbon content--0.1 to 3.2 percent
 Herbaceous fibers--0 to 5 percent unrubbed and 0 percent rubbed 
 Rock fragments--Gravel 0 to 50 percent
 Shell fragments--0 to 20 percent
+Sulfurous odor may be present
+Organic carbon density--2 to 11 kg m-2
+
+Cseg or Cg horizon (where present)--
+Hue--2.5Y, 5Y, 10Y, 5GY, or is neutral
+Value--2 to 5
+Chroma--0 to 2
+Texture--fine sandy loam, loamy sand, fine sand, sand, or coarse sand. Textures may be stratified
+Manner of failure--nonfluid to slightly fluid
+Rock fragments--0 to 50 percent
+Shell fragments--0 to 50 percent
 Sulfurous odor may be present.
+Organic carbon density--2 to 10 kg m-2
 
 2C or 2Cg horizon-
 Hue--7.5YR, 10YR, 2.5Y, 5Y, 10Y, 5GY or is neutral
@@ -63,7 +77,8 @@ Texture--sandy loam, loamy sand, loamy coarse sand, fine sand, sand, or coarse s
 Manner of failure--nonfluid or slightly fluid
 Rock fragments--Gravel, 0 to 55 percent
 Shell fragments--0 to 50 percent
-Redoximorphic features may be present.
+Redoximorphic features may be present
+Organic carbon density--2 to 10 kg m-2
 
 COMPETING SERIES:
 There are no competing series in the same family.
@@ -80,7 +95,6 @@ Frost-free period--350 to 365 days
 
 GEOGRAPHICALLY ASSOCIATED SOILS:
 These are the Billington, FortNeck, Massapog, Nagunt, Napatree, Pishagqua, Rhodesfolly, and Wequetequock soils.
-
 Billington, Pishagqua, and Wequetequock soils--are in mainland coves and lagoon bottom landscapes and have fluid silt loam materials in the soil profile.
 Fort Neck soils--have finer textures and fluid silt loam materials at the soil surface.
 Massapog soils--are found on flood tidal delta flats in coastal lagoons and do not have sulfidic materials within 100 centimeters of the soil surface.
@@ -104,7 +118,7 @@ Land Resource Regions--R - Northeastern Forage and Forest Region and S - Norther
 MLRA(s)--144A and 149B
 Extent--Small
 
-SOIL SURVEY REGIONAL OFFICE (SSRO) RESPONSIBLE: Amherst, Massachusetts.
+SOIL SURVEY REGIONAL OFFICE (SSRO) RESPONSIBLE: SPECIAL PROJECTS OFFICE
 
 SERIES ESTABLISHED: New London County, Connecticut, 2010.
 
@@ -120,7 +134,7 @@ N-value > 0.7--the zone from 0 to 40 centimeters (Aseg and ACseg horizons).
 Rock fragment content > 35 percent in 2Cg horizon placing these soils in Sulfiwassents Great Group.
 Taxonomic version--Keys to Soil Taxonomy, 13th edition (2022)
 
-ADDITIONAL DATA: Type location taken from 2005CT011001 in Little Narragansett Bay. Additional support pedons include S2000RI009007, S2000RI009009, S2005RI009002B, S2005CT011006, S2006CT011001, S2006CT011008, S2006RI009001, S2006RI009009, S2006RI009012, S2007RI009006, S2007RI009011, S2007RI009013, S2008RI009006, S2009RI009012, S2009RI009013.
+ADDITIONAL DATA: Type location taken from 2005CT011001 in Little Narragansett Bay. Additional support pedons include S2000RI009007, S2000RI009009, S2005RI009002B, S2005CT011006, S2006CT011001, S2006CT011008, S2006RI009001, S2006RI009009, S2006RI009012, S2007RI009006, S2007RI009011, S2007RI009013, S2008RI009006, S2009RI009012, S2009RI009013, S2022CT009088.
 
 National Cooperative Soil Survey
 U.S.A.

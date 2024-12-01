@@ -2,7 +2,7 @@ LOCATION NAGUNT                 RI+CT MA NY
 
 Established Series
 Revised JDT-MPB-MS-MKP-DCP
-06/2023
+09/2024
 
 NAGUNT SERIES
 
@@ -26,11 +26,11 @@ TYPICAL PEDON: Nagunt sand on a north facing, 1 percent convex slope on a washov
 
  Cg2--33 to 41 centimeters; 50 percent gray (5Y 5/1) and 50 percent dark gray (5Y 4/1) fine sand; single grain; nonfluid; strongly saline; 1 percent fine shell fragments; slightly alkaline (pH 7.8); slightly alkaline (pH 7.4) oxidized pH; abrupt boundary. (Combined thickness of Cg horizons is 27 to 138 centimeters.)
 
- Aseb--41 to 54 centimeters; dark gray (2.5Y 4/1) fine sand; single grain; nonfluid; strongly saline; 1 percent fine shell fragments; 2 percent medium plant fragments throughout; moderately alkaline (pH 8.1); extremely acid (pH 3.9) oxidized pH; clear boundary. (0 to 34 centimeters thick.)
+ Asegb--41 to 54 centimeters; dark gray (2.5Y 4/1) fine sand; single grain; nonfluid; strongly saline; 1 percent fine shell fragments; 2 percent medium plant fragments throughout; moderately alkaline (pH 8.1); extremely acid (pH 3.9) oxidized pH; clear boundary. (0 to 34 centimeters thick.)
 
  C'g--54 to 69 centimeters; gray (5Y 6/1) sand; single grain; strongly saline; nonfluid; 1 percent fine shell fragments; moderately alkaline (pH 8.2); neutral (pH 6.6) oxidized pH; clear boundary. (0 to 69 centimeters thick.)
 
- A'seb--69 to 74 centimeters; dark olive gray (5Y 3/2) sand; massive; very friable; nonfluid; strongly saline; 1 percent fine shell fragments; moderately alkaline (pH 7.9); extremely acid (pH 3.9) oxidized pH; abrupt boundary. (0 to 18 centimeters thick.)
+ A'segb--69 to 74 centimeters; dark olive gray (5Y 3/2) sand; massive; very friable; nonfluid; strongly saline; 1 percent fine shell fragments; moderately alkaline (pH 7.9); extremely acid (pH 3.9) oxidized pH; abrupt boundary. (0 to 18 centimeters thick.)
 
  C''g1--74 to 106 centimeters; gray (5Y 6/1) sand; single grain; nonfluid; strongly saline; 1 percent fine and medium shell fragments; moderately alkaline (pH 7.9); strongly acid (pH 5.1) oxidized pH; clear boundary.
 
@@ -38,7 +38,7 @@ TYPICAL PEDON: Nagunt sand on a north facing, 1 percent convex slope on a washov
 
  C''g3--123 to 200 centimeters; gray (5Y 5/1) fine sand; single grain; nonfluid; strongly saline; 1 percent fine and medium shell fragments; moderately alkaline (pH 8.4); very strongly acid (pH 4.8) oxidized pH; clear boundary.
 
-TYPE LOCATION: Washington County, Rhode Island; Town of Charlestown, West Basin of Ninigret Pond, about 590 feet north of East Beach Barrier, 4,200 feet southeast of Reed Point, 3,300 feet south of entrance to Foster Cove; . USGS topographic quadrangle: Quonochontaug, RI.
+TYPE LOCATION: Washington County, Rhode Island; Town of Charlestown, West Basin of Ninigret Pond, about 590 feet north of East Beach Barrier, 4,200 feet southeast of Reed Point, 3,300 feet south of entrance to Foster Cove; USGS topographic quadrangle: Quonochontaug, RI.
 
 Latitude--41.3497238
 Longitude-- -71.6788864
@@ -54,24 +54,29 @@ Electrical conductivity (1:5 soil-water, throughout--0.6 dS/m or greater
 Depth to hypersulfidic / sulfidic materials (oxidized pH 4.0)--0 to 100 centimeters (must have a combined thickness of 15 centimeters or more)
 Manner of failure throughout--nonfluid
 Gravel and / or shell fragments throughout--0 to less than 35 percent
+Total Soil Organic Carbon Stock 0 to 100 centimeters--3 to 12 kg m-2
+Total Soil Organic Carbon Stock 0 to 200 centimeters--4 to 40 kg m-2
 
 A horizon-
 Hue--2.5Y to 10Y or is neutral
 Value--2.5 to 5
 Chroma--0 to 3
 Texture--Loamy fine sand or coarser sometimes with mucky analogs
+Organic carbon density--4 to 21 kg m-3
 
 Cg or Cseg (where present) horizon-
 Hue--2.5Y to 5Y or neutral
 Value--3 to 6
 Chroma--0 to 1
 Texture--Loamy fine sand or coarser
+Organic carbon density--2 to 21 kg m-3
 
-Aseb horizon-
+Asegb horizon-
 Hue--2.5Y to 5Y
 Value--3 to 6
 Chroma--0 to 2
 Texture--Loamy fine sand or coarser sometimes with mucky analogs
+Organic carbon density--2 to 29 kg m-3
 
 COMPETING SERIES:  Duvall Creek soils--occur in sub-estuaries in the Chesapeake Bay region on wave-built terrace landforms and have thicker hypersulfidic soil materials throughout. 
 
@@ -86,7 +91,6 @@ Water salinity range--18 to 30 parts per thousand
 Frost-free period--350 to 365 days
 
 GEOGRAPHICALLY ASSOCIATED SOILS: These are the Anguilla, Marshneck, Massapog, Napatree, Pishagqua, and Rhodesfolly soils.  
-
 Anguilla soils--are on mainland cove landforms and often have rock fragments greater than 35 percent in substratum horizons
 Marshneck soils--are on flood-tidal delta slope landforms and have finer textured horizons
 Massapog soils--are found on flood-tidal delta flats and do not have sulfidic materials within 100 centimeters of the soil surface.
@@ -99,6 +103,7 @@ Drainage class--Subaqueous
 Saturated hydraulic conductivity--Moderately high to very high
 Soil moisture regime--Peraquic
 Soil is continuously inundated by saline and brackish water  
+
 USE AND VEGETATION:
 Major uses--The area is used for recreational fishing and swimming. Commercial uses include shell fishing and aquaculture.
 Native vegetation--Native vegetation includes eelgrass (Zostera marina) and widgeon grass (Ruppia maritma). Vegetation cover ranges from 0 in shallow and intertidal flats through 80 percent on the flat and sloping units of this soil.  This soil supports benthic fauna such as tubeworms, clams, juvenile blue crabs, scallops and juvenile finfish.
@@ -109,7 +114,7 @@ Land Resource Regions--R - Northeastern Forage and Forest Region and S - Norther
 MLRA(s)--144A and 149B
 Extent--Small  
 
-SOIL SURVEY REGIONAL OFFICE (SSRO) RESPONSIBLE: Amherst, Massachusetts
+SOIL SURVEY REGIONAL OFFICE (SSRO) RESPONSIBLE: SPECIAL PROJECTS OFFICE
 
 SERIES ESTABLISHED: Washington County, Rhode Island, 2010.
 

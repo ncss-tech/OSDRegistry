@@ -1,0 +1,149 @@
+LOCATION NORTHMONT              NJ
+
+Established Series
+DCS/ATD/EIB
+08/2024
+
+NORTHMONT SERIES
+
+MLRA--149A
+Depth Class--very deep
+Drainage Class--moderately well drained
+Saturated Hydraulic Conductivity Class--moderately high to high in the human- transported materials; high to very high in the fluviomarine deposits
+Parent Material--loamy human-transported materials over coarse-loamy glauconitic bearing fluviomarine deposits
+Geomorphic Location--filled, raised land, or other locally anthropogenic landforms on low fluviomarine terraces and areas of wet soils.
+Slope--0 to 5 percent
+Mean Annual Air Temperature--13 degrees C (56 degrees F)
+Mean Annual Precipitation--1160 mm (46 inches)
+
+TAXONOMIC CLASS: Coarse-loamy, spolic, mixed, active, mesic Aquic Hapludults
+
+TYPICAL PEDON: Northmont sandy loam, 0 to 5 percent slopes on an area that has been cut and filled under turfgrass cover of a baseball field. (Colors are for moist soils, unless otherwise noted.)
+
+ ^Au--0 to 17 centimeters; very dark brown (7.5YR 2.5/2), sandy loam; weak fine subangular blocky parts to medium granular structure; friable; many fine roots throughout and many very fine roots throughout; 5 percent nonrounded mixed imported artifacts; slightly acid (pH 6.5); clear smooth boundary. (0 to 25 cm thick)
+
+ ^Bwu--17 to 28 centimeters; 90 percent strong brown (7.5YR 4/6) and 10 percent very dark grayish brown (10YR 3/2) coarse sandy loam; weak coarse prismatic parts to moderate coarse subangular blocky structure; firm; common fine roots throughout and common very fine roots throughout 5 percent medium distinct grayish brown (10YR 5/2) iron depletions throughout; 2 percent glauconite pellets; 2 percent quartz gravel fragments and 5 percent imported crushed gravel artifacts; neutral (pH 6.9); gradual wavy boundary.
+
+ ^Bw--28 to 56 centimeters; yellowish brown (10YR 5/6) sandy loam; weak coarse subangular blocky structure; friable; 1 percent fine distinct strong brown (7.5YR 4/6) masses of oxidized iron and 1 percent fine prominent light yellowish brown (2.5Y 6/3) iron depletions; 2 percent glauconite pellets; 8 percent rounded quartz gravel fragments; neutral (pH 7.0); clear wavy boundary. (Combined thickness of ^Bw is 17 to 70 centimeters thick)
+
+ 2Btb1--56 to 65 centimeters; brown (10YR 4/3) fine sandy loam; moderately medium subangular blocky structure; friable; 1 percent fine distinct strong brown (7.5YR 4/6) masses of oxidized iron; 4 percent glauconite pellets; moderately acid (pH 6.0); clear wavy boundary.
+
+ 2Btb2--65 to 88 centimeters; brown (10YR 5/3) fine sandy loam; weak medium subangular blocky structure; friable; 10 percent medium distinct strong brown (7.5YR 4/6) masses of oxidized iron and 10 percent medium distinct light brownish gray (2.5Y 6/2) iron depletions; 5 percent glauconite pellets; moderately acid (pH 5.8).(Combined thickness of 2Btb is 32 to 60 centimeters thick)
+
+ 2BCb--88 to 116 centimeters (35 to 46 inches); light olive brown (2.5Y 5/3) sandy loam; weak coarse subangular blocky structure; friable; 5 percent medium distinct dark yellowish brown (10YR 4/4) masses of oxidized iron and 15 percent medium faint grayish brown (2.5Y 5/2) iron depletions; 10 percent glauconite fragments; moderately acid (pH 5.8).
+
+ 2C--116 to 203 centimeters (46 to 80 inches); dark yellowish brown (10YR 4/4) loamy sand; single grain; friable; 5 percent medium distinct dark yellowish brown (10YR 4/6) masses of oxidized iron and 5 percent medium distinct brown (10YR 5/3) iron depletions; 10 percent glauconite pellets; moderately acid (pH 5.6).
+
+TYPE LOCATION: Camden County, New Jersey; at a baseball field at the eastern dead end of A Road approximately 75 feet north of A Road in Audubon Park, NJ.
+
+Latitude: 39.8960400
+Longitude: -75.0844830
+Datum: WGS84
+U.S.G.S. Quad: Camden, NJ
+
+RANGE IN CHARACTERISTICS:
+Thickness of human-transported materials--typically 50 to 100 centimeters.
+Depth to seasonal high-water table--50 and 100 centimeters.
+Depth to argillic horizon--50 to 100 centimeters.
+Rock fragment content--0 to 10 percent, by volume throughout.
+Artifact content--0 to 10 percent, by volume, within the human transported materials.
+Combined rock fragment and artifact content--less than 15 percent by volume.
+Soil reaction--neutral to slightly acid in the human transported materials; slightly acid to strongly acid in the underlying fluviomarine deposits.
+Glauconite pellets--0 to 5 percent by volume in the human transported material; 2 to 8 percent by volume in the underlying fluviomarine deposits
+Fine-Earth Fraction--averages less than 18 percent clay and greater than 40 percent sand in the particle size control section
+
+^A or ^Au horizons:
+Hue--7.5YR or 10YR
+Value--2.5 to 4
+Chroma--2 to 4
+Texture--loam or sandy loam, in the fine earth fraction
+Human-Artifacts--0 to 10 percent
+Rock Fragments-0 to 5 percent
+
+^Bw or ^Bwu horizons:
+Hue--7.5YR or 10YR
+Value--3 to 5
+Chroma--2 to 6
+Texture--fine sandy loam, loam, sandy loam, or coarse sandy loam in the fine earth fraction
+Human Artifacts--0 to 10 percent
+Rock Fragments-0 to 10 percent
+
+2Btb horizons:
+Hue--7.5YR or 10YR
+Value--4 or 5
+Chroma--3 to 6
+Texture--sandy loam, fine sandy loam, or loam in the fine earth fraction
+Rock fragments--0 to 5 percent
+
+2BCb horizons, if present:
+Hue--2.5Y or 10YR
+Value--5 or 6
+Chroma--3 or 4
+Texture--sandy loam or loamy sand in the fine earth fraction
+Rock fragments--0 to 5 percent
+
+2C horizons:
+Hue--7.5YR or 10YR
+Value--4 to 6
+Chroma--4 to 8
+Texture--sand, loamy sand, loamy coarse sand, or coarse sandy loam in the fine earth fraction.
+Rock fragments--0 to 8 percent
+
+COMPETING SERIES: There are no competing series.
+
+GEOGRAPHIC SETTING:
+Landscape--North Atlantic coastal plain
+Landform-- filled, raised land, or other anthropogenic landforms on low fluviomarine terraces and areas of wet soils.
+Parent Material--loamy human-transported material over coarse-loamy glauconitic bearing fluviomarine deposits
+Slope--0 to 5 percent
+Elevation--1 to 25 meters
+Frost-free period--190 to 250 days
+Mean Annual Air Temperature--11 to 14 degrees C
+Mean Annual Precipitation--1145 to 1225 millimeters
+
+GEOGRAPHICALLY ASSOCIATED SOILS:
+Buddtown soils--have less than 50 centimeters of human-transported materials, on similar non-anthropogenic landforms.
+Cramerhill--well drained, do not have aquic conditions within 100 cm, on slightly higher anthropogenic landforms.
+Freehold soils- well drained, do not have aquic conditions within 100 cm, have less than 50 cm of human-transported materials, on higher non-anthropogenic landforms.
+Mannington soils- very poorly drained with tidal inundation, on lower positions of tidal marshes.
+Nanticoke soils- very poorly drained with tidal inundation, on lower positions of tidal marshes.
+Sauken soils--have greater than 35 percent human artifacts throughout the control section, on similar anthropogenic landforms.
+Swedesboro soils- well drained, do not have aquic conditions within 100 cm, have less than 50 cm of human-transported materials, on higher non-anthropogenic landforms.
+
+DRAINAGE AND SATURATED HYDRAULIC CONDUCTIVITY:
+Drainage Class--moderately well drained
+Surface Runoff--low
+Saturated Hydraulic Conductivity Class--moderately high to high in the human-transported materials; high to very high in the fluviomarine deposits higher in areas where compacted mechanically (vibratory) or static (heavy traffic).
+
+USE AND VEGETATION:
+Major Uses--These soils are used for residential, commercial, and recreational development in an urban or suburban setting.
+Vegetation--Vegetation may include a mix of managed and unmanaged plant communities with a mix of native and non-native species. Many areas are vegetated with non-native ornamental landscaping and/or turfgrass associated with developed land uses. Some areas may exhibit weedy, invasive, and/or primary succession vegetation communities (e.g., abandoned lots and other unmanaged areas). Some small patches of mixed native hardwood forest may be present in undisturbed areas.
+
+DISTRIBUTION AND EXTENT:
+General Area--Urban corridors of the Northern Coastal Plain with anthropogenic landscapes
+Land Resource Regions--S - North Atlantic Slope Diversified Farming Region MLRA--149A
+Extent--small extent.
+
+SOIL SURVEY REGIONAL OFFICE (SSRO) RESPONSIBLE: Raleigh, North Carolina (Special Projects Region)
+
+SERIES ESTABLISHED: Camden County, New Jersey, 2024.
+
+REMARKS:
+Diagnostic horizons and features recognized in this pedon are:
+Ochric epipedon--the zone from a depth of 0 to 17 centimeters (^A horizon)
+Cambic horizons--the zone from a depth of 17 to 56 centimeters (^Bw horizons)
+Argillic horizons-the zone from a depth of 56 to 88 centimeters (2Btb horizons)
+Aquic conditions-the zone from a depth of 65 to 203 centimeters. (2Btb2, 2BCb, and 2C horizons)
+Lithologic discontinuity-- change of parent material from human-transported materials to fluviomarine deposits at a depth of 56 centimeters
+Human-transported materials--the zone from a depth of 0 to 56 centimeters. (^A and ^Bw horizons)
+
+This soil series classifies as an Ultisol due to diagnostic horizons that typically occur at the base of the human-transported materials and the whole soil profile is considered for classification.  Some pedons have an argillic horizons in a buried soil and are included in this concept at this time.
+
+Some pedons have redoximorphic features in the human transported materials, these are thought to be relict features not indicative of a water table.
+
+ADDITIONAL DATA:
+NASIS User Pedon ID: 2024NJ007009
+Classified using the Thirteenth Edition Keys to Soil Taxonomy (2022)
+________________________________________
+National Cooperative Soil Survey
+U.S.A.

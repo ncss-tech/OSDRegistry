@@ -2,7 +2,7 @@ LOCATION BILLINGTON             RI+CT MA NY
 
 Established Series
 Revised MKP-JDT-DCP
-09/2023
+09/2024
 
 BILLINGTON SERIES
 
@@ -16,7 +16,7 @@ Slope range for series--0 to 3 percent
 Mean annual air temperature--10 degrees C (50 degrees F)
 Mean annual precipitation--1295 millimeters (51 inches)
 
-TAXONOMIC CLASS: Coarse-silty, mixed, active, nonacid, mesic Thapto-Histic Sulfiwassents
+TAXONOMIC CLASS: Coarse-silty, mixed, active, nonacid, mesic Thapto-histic Sulfiwassents
 
 TYPICAL PEDON: Billington silt loam on a north facing, concave, 1 percent slope in a mainland cove under 1.5 meters of estuarine water. Tidal range is 24 centimeters. (Colors are for moist soil unless otherwise noted).
 
@@ -26,11 +26,11 @@ TYPICAL PEDON: Billington silt loam on a north facing, concave, 1 percent slope 
 
  Cseg2--53 to 88 centimeters; very dark gray (5Y 3/1) mucky silty clay; massive; moderately fluid; 12 percent organic matter; moderate sulfurous odor; strongly saline; moderately alkaline (pH 7.9), ultra acid (pH 2.5) oxidized pH; clear boundary. (Combined thickness of Cseg horizons is 25 to 80 centimeters thick.)
 
- 2Oaseb--88 to 98 centimeters; black (N 2.5/) muck, broken face and rubbed sapric material; 10 percent herbaceous fibers, 0 percent rubbed; 45 percent mineral content; H8 von Post humification; moderate sulfurous odor; 14 percent gravel; strongly saline; slightly alkaline (pH 7.8), ultra acid (pH 3.1) oxidized pH; abrupt boundary. (0 to 100 centimeters thick.)
+ Oaseb--88 to 98 centimeters; black (N 2.5/) muck, broken face and rubbed sapric material; 10 percent herbaceous fibers, 0 percent rubbed; 45 percent mineral content; H8 von Post humification; moderate sulfurous odor; 14 percent gravel; strongly saline; slightly alkaline (pH 7.8), ultra acid (pH 3.1) oxidized pH; abrupt boundary. (0 to 100 centimeters thick.)
 
- 2Oab1--98 to 130 centimeters; black (10YR 2/1) muck, broken face and rubbed hemic material; 30 percent herbaceous fiber, 3 percent rubbed; 30 percent mineral content; H8 von Post humification; 1 percent wood fragments; strongly saline; slightly alkaline (pH 7.7), very strongly acid (pH 4.7) oxidized pH; clear boundary.
+ Oab1--98 to 130 centimeters; black (10YR 2/1) muck, broken face and rubbed hemic material; 30 percent herbaceous fiber, 3 percent rubbed; 30 percent mineral content; H8 von Post humification; 1 percent wood fragments; strongly saline; slightly alkaline (pH 7.7), very strongly acid (pH 4.7) oxidized pH; clear boundary.
 
- 2Oab2--130 to 200 centimeters; very dark brown (10YR 2/2) muck, broken face hemic material, black (10YR 2/1) rubbed; 35 percent herbaceous fibers, 5 percent rubbed; 25 percent mineral content; H8 von Post humification; 1 percent wood fragments; strongly saline; slightly alkaline (pH 7.6), moderately acid (pH 5.8) oxidized pH.
+ Oab2--130 to 200 centimeters; very dark brown (10YR 2/2) muck, broken face hemic material, black (10YR 2/1) rubbed; 35 percent herbaceous fibers, 5 percent rubbed; 25 percent mineral content; H8 von Post humification; 1 percent wood fragments; strongly saline; slightly alkaline (pH 7.6), moderately acid (pH 5.8) oxidized pH.
 
 TYPE LOCATION: Washington County, Rhode Island; Ninigret Pond, about 3000 feet east of intersection of Route 1 and Route 1A at Ninigret Park. 
 USGS topographic quadrangle: Quonochontaug, RI
@@ -49,6 +49,8 @@ Depth to hypersulfidic materials (incubated pH 4.0)--0 to 50 centimeters
 Depth to buried organic surface--16 to 88 centimeters (other lithological discontinuities may exist below the organic surface including loess, glacial outwash, or till)
 Shell fragments--0 to 15 percent, by volume, in the marine and estuarine deposits
 Coarse fragments--0 to 50 percent gravels, by volume, in the marine and estuarine deposits
+Total Soil Organic Carbon Stocks 0 to 100 centimeters--14 to 25 kg m-2
+Total Soil Organic Carbon Stocks 0 to 200 centimeters--20 to 44 kg m-2
 
 Aseg or Ag horizon
 Hue--10YR, 2.5Y, 5Y, 10Y, or N
@@ -59,6 +61,7 @@ Organic matter content--5 to 15 percent
 Clay content--2 to 40 percent
 Manner of failure / fluidity class--nonfluid to very fluid
 Shell fragments--0 to 5 percent, by volume
+Organic carbon density--2 to 25 kg m-3
 
 Cseg or Cg horizon
 Hue--7.5YR, 10YR, 2.5Y, 5Y, 10Y, or N
@@ -70,16 +73,18 @@ Clay content--1.7 to 10.6 percent
 Manner of failure / fluidity class--nonfluid to very fluid
 Shell fragments--0 to 15 percent, by volume
 Coarse fragments--0 to 50 percent gravels, by volume
+Organic carbon density--10 to 24 kg m-3
 
-2Oab, 2Oaseb, 2Oeb, or 2Oeseb horizon
+Oab, Oaseb, Oeb, or Oeseb horizon
 Hue--5YR, 7.5YR, 10YR, 2.5Y, 5Y, or 10Y
 Value--2.5 to 5Chroma--1 to 6
 Texture--muck; range includes mucky peat
 Organic matter content--50 to 80 percent
 Von Post humification scale--primarily H7 to H10 but can include H4 to H6
 Coarse fragments--0 to 7 percent gravels, by volume
+Organic carbon density--19 to 35 kg m-3
 
-3Cg, 3Cseg, or 4Cseg horizon (if present)
+2Cg, 2Cseg, or 3Cseg horizon (if present)
 Hue--2.5Y, 5Y, 10Y, 10G, or N
 Value--2.5 to 5
 Chroma--1 or 2 
@@ -88,6 +93,7 @@ Clay content--2.8 to 45 percent
 Manner of failure / fluidity class--nonfluid to very fluid
 Coarse fragments--0 to 30 gravels, by volume; 0 to 10 percent cobbles, by volume
 Redoximorphic concentrations--0 to 45 percent, by volume; hue of 10YR; value of 4 or 5; and chroma of 4 or 6
+Organic carbon density--2 to 10 kg m-3
 
 COMPETING SERIES:
 There are no competing series in the same family.
@@ -127,7 +133,7 @@ General area--These soils are located along Connecticut, Massachusetts, New York
 Land Resource Regions--R - Northeastern Forage and Forest Region and S - Northern Atlantic Slope Diversified Farming Region
 MLRA(s)--144A and 149B
 Extent--Small
-SOIL SURVEY REGIONAL OFFICE (SSRO) RESPONSIBLE: Amherst, Massachusetts
+SOIL SURVEY REGIONAL OFFICE (SSRO) RESPONSIBLE: SPECIAL PROJECTS OFFICE
 
 SERIES ESTABLISHED: Washington County, Rhode Island, 2010.
 

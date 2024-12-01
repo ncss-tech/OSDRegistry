@@ -1,8 +1,8 @@
 LOCATION ITTSANAPPER            FL
 
-Tentative Series
-RBT
-02/2024
+Established Series
+RBT-ARW
+10/2024
 
 ITTSANAPPER SERIES
 
@@ -10,28 +10,30 @@ MLRA(s)--155
 Depth class--Very deep
 Drainage class--Subaqueous
 Water depth range--0.65 to 3.50 meters
-Parent material--Coarse-loamy estuarine deposits
+Parent material--Coarse-loamy over clayey estuarine deposits
 Geomorphic location--Lagoon bottom and lagoon channels
+Soil Organic Carbon Stock to 200 centimeters--42.8 kg m-2
 Slope range for Series--0 to 1 percent
-Mean annual air temperature--22 degrees C (71.6 degrees F)
-Mean annual precipitation--1300 millimeters (51.1 inches)
-Mean annual water temperature--24.7 degrees C (76.6 degrees F)
+Mean annual air temperature--22 degrees C (72 degrees F)
+Mean annual precipitation--1300 millimeters (51 inches)
+Mean annual water temperature--25 degrees C (77 degrees F)
 
-TAXONOMIC CLASS: Coarse-loamy, mixed, subactive, nonacid, hyperthermic Grossic Hydrowassents
+TAXONOMIC CLASS: Coarse-loamy over clayey, mixed, semiactive, nonacid, hyperthermic Grossic Hydrowassents
 
-TYPICAL PEDON: Ittsanapper sandy loam on a east facing, 0.1 percent linear slope bare mud lagoon bottom under 3.35 meters of estuarine water. Tidal range is 24 centimeters. (Colors are for moist soil unless otherwise noted).
+TYPICAL PEDON: Ittsanapper shelly loamy coarse sand on a east facing, 0.1 percent linear slope bare mud lagoon bottom under 3.35 meters of estuarine water. Tidal range is 24 centimeters. (Colors are for moist soil unless otherwise noted).
 
- Cseg1--0 to 22 centimeters; dark greenish gray (5GY 4/1) shelly sandy loam; massive; nonsticky, nonplastic; slightly fluid; 17 percent shell fragments; moderate sulfurous odor; moderately alkaline (pH 8.4); clear boundary.
+ Cseg1--0 to 22 centimeters; dark greenish gray (5GY 4/1) shelly loamy coarse sand; massive; nonsticky, nonplastic; slightly fluid; 17 percent shell fragments; moderate sulfurous odor; moderately alkaline (pH 8.4); moderately alkaline (pH 8.4) oxidized pH; 5.4 kg m-3 soil organic carbon; clear boundary.
 
- Cseg2--22 to 61 centimeters; dark greenish gray (5G 4/1) loam; massive; slightly sticky, nonplastic; slightly fluid; 15 percent shell fragments; slight sulfurous odor; moderately alkaline (pH 8.4); clear boundary. (25 to 187 centimeters thick)
+ Cseg2--22 to 61 centimeters; dark greenish gray (5G 4/1) shelly coarse sandy loam; massive; slightly sticky, nonplastic; slightly fluid; 15 percent shell fragments; slight sulfurous odor; moderately alkaline (pH 8.4); strongly alkaline (pH 8.5) oxidized pH; 15.7 kg m-3 soil organic carbon; clear boundary. (25 to 187 centimeters thick)
 
- 2Cseg3--61 to 116 centimeters; dark greenish gray (5G 4/1) silty clay loam; massive; slightly sticky, nonplastic; moderately fluid; 4 percent shell fragments; slight sulfurous odor; strongly alkaline (pH 8.6); gradual boundary.
+ 2Cseg3--61 to 116 centimeters; dark greenish gray (5G 4/1) clay; massive; slightly sticky, nonplastic; moderately fluid; 4 percent shell fragments; slight sulfurous odor; strongly alkaline (pH 8.6); moderately alkaline (pH 8.2) oxidized pH; 7.3 kg m-3 soil organic carbon; gradual boundary.
 
- 2Cseg4--116 to 149 centimeters; 70 percent greenish gray (10GY 5/1) and 30 percent greenish gray (5GY 6/1) silty clay loam; massive; slightly sticky, nonplastic; moderately fluid; 3 percent shell fragments; slight sulfurous odor; moderately alkaline (pH 8.4); clear boundary.
+ 2Cseg4--116 to 149 centimeters; 70 percent greenish gray (10GY 5/1) and 30 percent greenish gray (5GY 6/1) mucky clay; massive; slightly sticky, nonplastic; moderately fluid; 3 percent shell fragments; slight sulfurous odor; moderately alkaline (pH 8.4); moderately alkaline (pH 8.3) oxidized pH; 7.8 kg m-3 soil organic carbon; clear boundary.
 
- 2Cseg5--149 to 232 centimeters; dark greenish gray (5G 4/1) silty clay loam; massive; slightly sticky, nonplastic; very fluid; 7 percent shell fragments; slight petrochemical odor; strongly alkaline (pH 8.6).
+ 2Cseg5--149 to 232 centimeters; dark greenish gray (5G 4/1) clay; massive; slightly sticky, nonplastic; very fluid; 7 percent shell fragments; slight petrochemical odor; strongly alkaline (pH 8.6); moderately alkaline (pH 8.2) oxidized pH; 6.6 kg m-3 soil organic carbon.
 
-TYPE LOCATION: Brevard County, Florida; approximately 1 mile east of Greater Byrd Island and 0.93 miles southeast of Lesser Byrd Island; USGS topographic quadrangle: Cocoa, Florida.
+TYPE LOCATION: Brevard County, Florida; approximately 1.6 kilometers (1 mile) east of Greater Byrd Island and 1.5 kilometers (0.93 miles) southeast of Lesser Byrd Island; USGS topographic quadrangle: Cocoa, Florida.
+
 Latitude--28.2728830
 Longitude-- -80.6388080 
 Datum--WGS84
@@ -43,29 +45,32 @@ Depth to lithologic discontinuity (where present)--35 to 150 centimeters and is 
 Particle--size control section--Less than 18 percent clay
 Soil moisture--Continuously inundated
 Reaction throughout--Slightly alkaline to strongly alkaline (pH 7.4 to 9.0)
-Oxidized reaction--?
+Oxidized reaction--Slightly acid to strongly alkaline (pH 6.1 to 9.0)
 Electrical conductivity (1:5 soil-water) throughout--0.6 dS/m or greater
-Depth to sulfidic materials (oxidized pH4.0)--?
 Manner of failure--Slightly fluid to very fluid
 Shell fragments throughout--0 to 90 percent (higher ranges occur in thin individual horizons)
+Total Soil Organic Carbon Stock to 200 centimeters--20.5 to 61.9 kg m-2
 
 Aseg (where present)-
 Hue--2.5Y to 10Y or is neutral
 Value--2.5 to 5
 Chroma--1 or less
-Texture--Sandy loam, fine sandy loam or loamy fine sand
+Texture--Sandy loam, fine sandy loam, loamy fine sand or loamy coarse sand
+Organic carbon density--0.6 to 7.1 kg m-3
 
 Cseg horizon-
 Hue--5Y, 10Y, 5GY, 10GY, 5B, 5G, 5BG, or is neutral
 Value--3 to 7
 Chroma--1 or less
-Texture--Fine sandy loam, sandy loam, silt loam, silty clay loam, silty clay or loamy fine sand with shelly, very shelly or extremely shelly analogs
+Texture--Fine sandy loam, coarse sandy loam, sandy loam, silt loam, silty clay loam, silty clay or loamy fine sand with shelly, very shelly or extremely shelly analogs
+Organic carbon density--2.6 to 19.5 kg m-3
 
 2Cseg horizon-
 Hue--10Y, 5GY, 5G, 10GY, 10B, 10G, or is neutral
 Value--3 to 7
 Chroma--1 or less
-Texture--Loamy fine sand, loamy sand, sandy loam, fine sandy loam, silt loam, silt, sandy clay loam, silty clay loam, or silty clay
+Texture--Loamy fine sand, loamy sand, sandy loam, fine sandy loam, silt loam, silt, sandy clay loam, silty clay loam, silty clay, or clay
+Organic carbon density--2.4 to 14.4 kg m-3
 
 Thin strata of sandy and / or finer materials are found in some pedons but are thin enough to maintain particle-size class. 
 
@@ -74,7 +79,7 @@ Some areas are underlain at a depth greater than 100 centimeters by buried fluvi
 COMPETING SERIES: There are no competing series.
 
 GEOGRAPHIC SETTING:
-Parent material--Coarse-loamy estuarine deposits
+Parent material--Coarse-loamy over clayey estuarine deposits
 Landscape--Coastal lagoons
 Landform--Lagoon bottoms and lagoon channels
 Slope--0 to 1 percent
@@ -98,7 +103,7 @@ Soil is continuously inundated by saline and brackish water.
 
 USE AND VEGETATION:
 Major uses--Used for recreational boating, fishing, and swimming, marinas, mooring fields, and commercial shellfish harvesting; benthic species include tubeworms, clams, crabs, scallops and juvenile finfish 
-Native vegetation--Dominant vegetation is driven by water quality and quantity within subaqueous systems. Under excellent water quality these soils support seagrass species including but not limited to shoalweed (Halodule wrightii), manatee grass (Syringodium filiforme), and Englemann's seagrass (Halophila englemannii). Under degraded / poor water quality seagrass may be replaced by rooted eukaryotic macroalgae in the green (Chlorophyta), red (Rhodophyta), and brown (Phaeophyta) algae families. Caulerpa prolifera (Chlorophyta) is often dominant. Vegetative cover ranges from 0 through 80 percent.
+Native vegetation--Dominant vegetation is driven by water quality and quantity within subaqueous systems. Under excellent water quality these soils support seagrass species including but not limited to shoal grass (Halodule wrightii), manatee grass (Syringodium filiforme), and star grass (Halophila engelmannii). Under degraded / poor water quality seagrass may be replaced by rooted eukaryotic macroalgae in the green (Chlorophyta), red (Rhodophyta), and brown (Phaeophyta) algae families. Caulerpa prolifera (Chlorophyta) is often dominant. Vegetative cover ranges from 0 through 80 percent.
 
 DISTRIBUTION AND EXTENT: 
 General area--Located along the coasts of Indian River Lagoon, Florida
@@ -106,7 +111,7 @@ Land Resource Regions--U - Florida Subtropical Fruit, Truck Crop, and Range Regi
 MLRA(s)--155
 Extent--Small
 
-SOIL SURVEY REGIONAL OFFICE (SSRO) RESPONSIBLE: RALEIGH, NORTH CAROLINA
+SOIL SURVEY REGIONAL OFFICE (SSRO) RESPONSIBLE: SPECIAL PROJECTS OFFICE
 
 SERIES ESTABLISHED: Brevard County, Florida, 2024
 
@@ -115,7 +120,6 @@ Diagnostic horizons and features in this pedon include--
 -Peraquic soil moisture regime--Positive soil water potential (permanently submerged) at the soil surface. (under 3.35 meters of salt water).
 -Particle-size control section--The zone from 0 to 100 centimeters (0 to 40 inches).
 -Lithologic discontinuity--61 to 232 centimeters (2Cseg3, 2Cseg4, and 2Cseg5 horizons) 
--Sulfidic materials--?.
 -n-value >0.7--The zone from 0 to 232 cm (all soil horizons)
 -Taxonomic version--Keys to Soil Taxonomy, 13th edition (2022)
 

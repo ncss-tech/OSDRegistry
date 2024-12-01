@@ -1,0 +1,115 @@
+LOCATION SAUKEN                 NJ
+
+Established Series
+DCS/ATD/EIB
+08/2024
+
+SAUKEN SERIES
+
+MLRA--149A
+Depth Class--very deep
+Drainage Class--moderately well drained
+Saturated Hydraulic Conductivity--moderately low to high
+Parent Material-loamy-skeletal human-transported materials with a high content of construction debris and other human artifacts
+Geomorphic Location--filled marshlands and drainageways
+Slope--0 to 5 percent
+Mean Annual Air Temperature--13 degrees C (56 degrees F)
+Mean Annual Precipitation--1160 mm (46 inches)
+
+TAXONOMIC CLASS: Loamy-skeletal, artifactic, mixed, superactive, nonacid, mesic Anthroportic Udorthents
+
+TYPICAL PEDON: Sauken gravelly-artifactual sandy loam, 0 to 5 percent slopes in a grassed area of a park with a 2 percent slope. (Colors are for moist soils, unless otherwise noted.)
+
+ ^Au--0 to 21 centimeters; very dark grayish brown (10YR 3/2), gravelly-artifactual sandy loam; massive; friable; many fine roots throughout and many very fine roots throughout; 2 percent gravel sized quartzite fragments; 5 percent gravel size concrete, 5 percent coal combustion products, 5 percent gravel sized brick artifacts; slightly alkaline (pH 7.8); clear wavy boundary. (0 to 25 centimeters thick)
+
+ ^Cu1--21 to 50 centimeters; strong brown (7.5YR 4/6) gravelly-artifactual sandy loam; massive; friable; few fine roots throughout; 2 percent glauconite pellets; 5 percent gravel sized quartzite fragments; 2 percent metal, 3 percent plastic, 10 percent gravel sized brick artifacts, 10 percent coal combustion products, 10 percent particulate  fly ash artifacts; slightly alkaline (pH 7.8); clear wavy boundary.
+
+ ^Cu2--50 to 150 centimeters; dark brown (10YR 3/3) very artifactual sandy loam; massive: friable; 2 percent glauconite pellets; 5 percent asphalt, 5 percent glass, 10 percent concrete, 25 percent brick artifacts; moderately alkaline (pH 8.0).
+
+TYPE LOCATION: Camden County, New Jersey; in a grassed field in a park off Pine Street approximately 1,200 feet northeast of a high school approximately 500 feet south of the Cooper River in Camden, NJ.
+
+Latitude: 39.938611
+Longitude: -75.0994444
+Datum: WGS84
+U.S.G.S. Quad: Camden, NJ
+
+RANGE IN CHARACTERISTICS:
+Thickness of human-transported materials--greater than 50 cm, typically greater than 100cm
+Depth to seasonal high-water table--between 50 and 100 centimeters.
+Rock fragment content--0 to 15 percent, by volume throughout.
+Artifact content--15 to 60 percent, by volume throughout.  Some pedons have particulate size artifacts such as fly ash mixed in the soil matrix.
+Glauconite pellets--0 to 8 percent by volume throughout.
+Fine-Earth Fraction--averages less than 18 percent clay and greater than 40 percent sand in the particle size control section.
+
+^Au or ^A horizons, (if present):
+Hue--10YR
+Value--2 to 4 
+Chroma--2 to 4
+Texture--loamy sand or sandy loam, in the fine earth fraction
+Human-Artifacts--0 to 15 percent
+Rock Fragments-0 to 8 percent
+
+^Cu or ^C horizons:
+Hue--7.5YR or 10YR
+Value--3 to 6
+Chroma--2 to 8
+Texture--coarse sand, loamy sand, loamy coarse sand, fine sandy loam, sandy loam, loam in the fine earth fraction
+Human Artifacts-typically 25 to 60 percent, some pedons have individual horizons with less than 25 percent artifacts.
+Rock Fragments--0 to 15 percent
+
+COMPETING SERIES: There are no competing series.
+
+GEOGRAPHIC SETTING:
+Landscape--North Atlantic coastal plain
+Landform--filled, raised land, dumps, or other anthropogenic alterations on areas of drainageways, alluvial soils, marshes, or wet soils.  
+Parent Material--loamy-skeletal human transported materials consisting of construction debris and other artifacts
+Slope--0 to 5 percent
+Elevation--1 to 20 meters
+Frost-free period--190 to 250 days
+Mean Annual Air Temperature--11 to 14 degrees C.
+Mean Annual Precipitation--1145 to 1225 millimeters
+
+GEOGRAPHICALLY ASSOCIATED SOILS:
+Buddtown soils--have less than 50 centimeters of human-transported materials, on slightly higher non-anthropogenic landforms.
+Cramerhill soils--well drained and less than 35 percent human artifacts, on slightly higher adjacent anthropogenic landforms.
+Freehold soils--well drained, have less than 50 cm of human-transported materials, on higher non-anthropogenic landforms.
+Mannington soils--very poorly drained tidally inundated, on tidal marshes.
+Nanticoke soils--very poorly drained tidally inundated, on tidal marshes.
+Northmont soils--have less than 35 percent human artifacts throughout and have an argillic horizon below the human-transported material, on similar anthropogenic landforms.
+Secaucus soils-are derived from parent materials associated with a glaciated landscape such as glacial till or outwash, on similar anthropogenic landforms.
+Swedesboro soils--well drained, have less than 50 cm of human-transported materials, on higher non-anthropogenic landforms.
+
+DRAINAGE AND SATURATED HYDRAULIC CONDUCTIVITY:
+Drainage Class--moderately well drained
+Surface Runoff--low, moderate to high in areas that have been compacted. 
+Saturated Hydraulic Conductivity Class--moderately high except where compacted mechanically (vibratory) or static (heavy traffic).
+
+USE AND VEGETATION:
+Major Uses--These soils are used for residential, commercial, and recreational development in an urban or suburban setting.
+Vegetation--Vegetation may include a mix of managed and unmanaged plant communities with a mix of native and non-native species. Many areas are vegetated with non-native ornamental landscaping and/or turfgrass associated with developed land uses. Some areas may exhibit weedy, invasive, and/or primary succession vegetation communities (e.g., abandoned lots and other unmanaged areas). Some small patches of mixed native hardwood forest may be present in undisturbed areas.
+
+DISTRIBUTION AND EXTENT:
+General Area--Urban corridors with human-modified landscapes
+Land Resource Regions--S - North Atlantic Slope Diversified Farming Region MLRA--149A
+Extent--small extent.
+
+SOIL SURVEY REGIONAL OFFICE (SSRO) RESPONSIBLE: Raleigh, North Carolina (Special Projects Region)
+
+SERIES ESTABLISHED: Camden County, New Jersey, 2024.
+
+REMARKS:
+Diagnostic horizons and features recognized in this pedon are:
+Ochric epipedon--the zone from a depth of 0 to 21 centimeters (^Au horizon)
+Aquic conditions-the zone from a depth of 50 to 150 centimeters (^Cu2 horizon)
+Artifacts-the zone from a depth of 0 to 150 centimeters (^Au and ^Cu horizons)
+Human-transported materials--the zone from a depth of 0 to 150 centimeters. (^Au and ^Cu horizons)
+
+Redoximorphic features may be absent in the human-transported materials in some pedons with other hydrology indicators.
+
+ADDITIONAL DATA:
+
+NASIS User Pedon ID: 2012NJ007016
+Classified using the Thirteenth Edition Keys to Soil Taxonomy (2022)
+____________________________________
+National Cooperative Soil Survey
+U.S.A.

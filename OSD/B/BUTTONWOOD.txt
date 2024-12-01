@@ -1,8 +1,8 @@
 LOCATION BUTTONWOOD             FL
 
-Tentative Series
-RBT
-02/2024
+Established Series
+RBT-ARW
+10/2024
 
 BUTTONWOOD SERIES
 
@@ -10,30 +10,32 @@ MLRA(s)--155
 Depth class--Very deep
 Drainage class--Subaqueous
 Water depth range--50 to 100 centimeters
-Parent material--Coarse-loamy lagoonal deposits over fluviomarine deposits
+Parent material--Sandy lagoonal deposits over fluviomarine deposits
 Geomorphic location--Barrier coves
+Soil Organic Carbon Stock to 200 centimeters--8.0 kg m-2
 Slope range for Series--0 to 1 percent
 Mean annual air temperature--22 degrees C (71.6 degrees F)
 Mean annual precipitation--1300 millimeters (51.1 inches)
 Mean annual water temperature--24.7 degrees C (76.6 degrees F)
 
-TAXONOMIC CLASS: Coarse-loamy, mixed, subactive, nonacid, hyperthermic Typic Fluviwassents
+TAXONOMIC CLASS: Sandy, siliceous, hyperthermic Typic Fluviwassents
 
-TYPICAL PEDON: Buttonwood fine sandy loam on a west facing, 0.5 percent linear slope bare barrier cove platform under 0.89 meters of estuarine water. Tidal range is 24 cm. (Colors are for moist soil unless otherwise noted).
+TYPICAL PEDON: Buttonwood fine sand on a west facing, 0.5 percent linear slope bare barrier cove platform under 0.89 meters of estuarine water. Tidal range is 24 cm. (Colors are for moist soil unless otherwise noted).
 
- Cseg1--0 to 25 centimeters; dark greenish gray (10Y 4/1) fine sandy loam; structureless massive; nonsticky, nonplastic; nonfluid; 10 percent shell fragments; strong sulfurous odor; positive (3%) peroxide color change and slight reaction with 30 percent; moderately alkaline (pH 8.2); clear boundary.
+ Cseg1--0 to 25 centimeters; dark greenish gray (10Y 4/1) fine sand; structureless single grain; nonsticky, nonplastic; nonfluid; 10 percent shell fragments; strong sulfurous odor; positive (3%) peroxide color change and slight reaction with 30 percent; moderately alkaline (pH 8.2); strongly alkaline (pH 8.6) oxidized pH; 1.4 kg m-3 soil organic carbon; clear boundary.
 
- Cseg2--25 to 40 centimeters; dark greenish gray (5GY 4/1) sandy loam; structureless massive; nonsticky, nonplastic; nonfluid; 5 percent shell fragments; moderate sulfurous odor; slight reaction 30 percent peroxide; moderately alkaline (pH 8.4); clear boundary. (23 to 70 centimeters thick)
+ Cseg2--25 to 40 centimeters; dark greenish gray (5GY 4/1) fine sandy loam; structureless massive; nonsticky, nonplastic; nonfluid; 5 percent shell fragments; moderate sulfurous odor; slight reaction 30 percent peroxide; moderately alkaline (pH 8.4); strongly alkaline (pH 8.5) oxidized pH; 2.3 kg m-3 soil organic carbon; clear boundary. (23 to 70 centimeters thick)
 
- 2Asegb--40 to 87 centimeters; very dark gray (5Y 3/1) fine sandy loam; structureless massive; nonsticky, nonplastic; nonfluid; 2 percent shell fragments; slight sulfurous odor; slight reaction 30 percent peroxide; moderately alkaline (pH 8.4); clear boundary. (20 to 80 centimeters thick)
+ 2Asegb--40 to 87 centimeters; very dark gray (5Y 3/1) loamy fine sand; structureless massive; nonsticky, nonplastic; nonfluid; 2 percent shell fragments; slight sulfurous odor; slight reaction 30 percent peroxide; moderately alkaline (pH 8.4); strongly alkaline (pH 8.6) oxidized pH; 1.8 kg m-3 soil organic carbon; clear boundary. (20 to 80 centimeters thick)
 
- 2Bhsseb--87 to 127 centimeters; black (2.5Y 2.5/1) fine sandy loam; weak subangular blocky structure; nonsticky, nonplastic; nonfluid; slight sulfurous odor; slight reaction 30 percent peroxide; moderately alkaline (pH 8.4); clear boundary.
+ 2Bhsseb--87 to 127 centimeters; black (2.5Y 2.5/1) fine sandy loam; weak subangular blocky structure; nonsticky, nonplastic; nonfluid; slight sulfurous odor; slight reaction 30 percent peroxide; moderately alkaline (pH 8.4); moderately alkaline (pH 7.9) oxidized pH; 1.5 kg m-3 soil organic carbon; clear boundary.
 
- 2Bsseb--127 to 145 centimeters; light olive brown (2.5Y 5/3) fine sandy loam; weak subangular blocky structure; nonsticky, nonplastic; nonfluid; no sulfurous odor; moderate reaction 30 percent peroxide; slightly alkaline (pH 7.8); clear boundary. (16 to 117 centimeters thick)
+ 2Bsseb--127 to 145 centimeters; light olive brown (2.5Y 5/3) fine sand; weak subangular blocky structure; nonsticky, nonplastic; nonfluid; no sulfurous odor; moderate reaction 30 percent peroxide; slightly alkaline (pH 7.8); moderately acid (pH 6.0) oxidized pH; 0.8 kg m-3 soil organic carbon; clear boundary. (16 to 117 centimeters thick)
 
- 2Cseg--145 to 200 centimeters; greenish gray (10Y 6/1) very fine sand; structureless massive; nonsticky, nonplastic; nonfluid; no sulfurous odor; slight reaction 30 percent peroxide; moderately alkaline (pH 8.0).
+ 2Cseg--145 to 200 centimeters; greenish gray (10Y 6/1) fine sand; structureless single grain; nonsticky, nonplastic; nonfluid; no sulfurous odor; slight reaction 30 percent peroxide; moderately alkaline (pH 8.0); slightly alkaline (pH 7.7) oxidized pH; 0.1 kg m-3 soil organic carbon.
 
-TYPE LOCATION: Brevard County, Florida; approximately 1.06 miles southwest of the intersections of Saturn Causeway and Cape Road and approximately 4,937 feet south-southwest of the center of Launch Pad 39A for SpaceX; USGS topographic quadrangle: False Cape, Florida.
+TYPE LOCATION: Brevard County, Florida; approximately 1.71 kilometers (1.06 miles) southwest of the intersections of Saturn Causeway and Cape Road and approximately 1,505 meters (4,937 feet) south-southwest of the center of Launch Pad 39A for SpaceX; USGS topographic quadrangle: False Cape, Florida.
+
 Latitude--28.5947930
 Longitude-- -80.6053020 
 Datum--WGS84
@@ -45,52 +47,58 @@ Depth to lithologic discontinuity--23 to 70 centimeters (commonly occurs within 
 Particle--size control section--Coarse-loamy with common sandy textured horizons
 Soil moisture--Continuously inundated
 Reaction throughout--Slightly alkaline to strongly alkaline (pH 7.4 to 9.0)
-Oxidized reaction--?????????????
+Oxidized reaction--Moderately acid to strongly alkaline (pH 5.6 to 9.0)
 Electrical conductivity (1:5 soil-water) throughout--0.6 dS/m or greater
-Depth to sulfidic materials (oxidized pH 4.0)--???????????????
 Manner of failure--Nonfluid to slightly fluid
 Shell fragments throughout--0 to 30 percent throughout
+Total Soil Organic Carbon Stock to 200 centimeters--3.6 to 15.6 kg m-2
 
 Cseg horizon-
 Hue--5Y, 10Y, 5G, 5GY, 10GY, or is neutral
 Value--4 to 8
 Chroma--1 or less
 Texture--fine sandy loam, sandy loam, loamy fine sand, or fine sand with shelly analogs
+Organic carbon density--0.7 to 3.7 kg m-3
 
 2Asegb horizon-
 Hue--10YR, 5Y, 10Y, 5B, or is neutral
 Value--2.5 to 5
 Chroma--1 or less
 Texture--Fine sandy loam, loamy fine sand, or silty clay loam with shelly analogs
+Organic carbon density--0.9 to 3.5 kg m-3
 
 2Esegb horizon (where present)-
 Hue--10YR, 5Y, 10Y or is neutral
 Value--4 to 7
 Chroma--2 or less
 Texture--Fine sand or loamy fine sand
+Organic carbon density--0.7 to 3.7 kg m-3
 
 2Bhsseb horizon-
 Hue--10YR, 2.5Y or 10Y
 Value--2.5 to 3
 Chroma--1 to 3
 Texture--Fine sandy loam, silty clay or clay
+Organic carbon density--0.8 to 3.1 kg m-3
 
 2Bsseb horizon-
 Hue--2.5YR, 10YR, 2.5Y, 5Y, or is neutral
 Value--4 to 5
 Chroma--less than 1 to 3
 Texture--Fine sandy loam, loamy fine sand, fine sand, or sandy clay loam with shelly analogs
+Organic carbon density--0.4 to 1.5 kg m-3
 
 2Cseg horizon-
 Hue--2.5Y, 10Y, 5GY, 10GY, 5B, 10G, or is neutral
 Value--5 to 8
 Chroma--2 or less
 Texture--sand, fine sand, very fine sand, loamy fine sand, loamy sand, fine sandy loam, sandy clay loam, silt loam, or clay with shelly analogs
+Organic carbon density--0 to 1.2 kg m-3
 
 COMPETING SERIES: There are no competing series.
 
 GEOGRAPHIC SETTING:
-Parent material--Coarse-loamy lagoonal deposits over fluviomarine deposits
+Parent material--Sandy lagoonal deposits over fluviomarine deposits
 Landscape--Coastal lagoons
 Landform--Barrier coves
 Slope--0 to 1 percent
@@ -115,7 +123,7 @@ Soil is continuously inundated by saline and brackish water.
 
 USE AND VEGETATION:
 Major uses--Used for recreational boating, fishing, and swimming, marinas, mooring fields, and commercial shellfish harvesting; benthic species include tubeworms, clams, crabs, scallops and juvenile finfish 
-Native vegetation--Rooted and floating algae (Dasya), seaweed (Caulerpa) which usually indicates degraded / poor water quality; vegetative seaweed cover ranges from 0 through 20 percent
+Native vegetation--Dominant vegetation is driven by water quality and quantity within subaqueous systems. Under excellent water quality these soils support seagrass species including but not limited to shoal grass (Halodule wrightii), manatee grass (Syringodium filiforme), and star grass (Halophila engelmannii). Shallower areas may support widgeon grass (Ruppia maritima). Under degraded / poor water quality seagrass may be replaced by rooted eukaryotic macroalgae in the green (Chlorophyta), red (Rhodophyta), and brown (Phaeophyta) algae families. Caulerpa prolifera (Chlorophyta) is often dominant. Vegetative cover ranges from 0 through 20 percent.
 
 DISTRIBUTION AND EXTENT: 
 General area--Located along the coasts of Indian River Lagoon, Florida
@@ -123,7 +131,7 @@ Land Resource Regions--U - Florida Subtropical Fruit, Truck Crop, and Range Regi
 MLRA(s)--155
 Extent--Small
 
-SOIL SURVEY REGIONAL OFFICE (SSRO) RESPONSIBLE: RALEIGH, NORTH CAROLINA
+SOIL SURVEY REGIONAL OFFICE (SSRO) RESPONSIBLE: SPECIAL PROJECTS OFFICE
 
 SERIES ESTABLISHED: Brevard County, Florida, 2024
 
@@ -133,8 +141,6 @@ Diagnostic horizons and features in this pedon include--
 -Particle-size control section--The zone from 0 to 100 cm (0 to 40 inches).
 -Lithologic Discontinuity--40 to 200 centimeters (2Asegb, 2Bhsseb, 2Bsseb, and 2Cseg horizons).
 -Preserved spodic horizon (Humilluvic Material)--87 to 145 centimeters (2Bhsseb and 2Bsseb horizons).
--Sulfidic materials--???????????????.
--Thapto-Humic subgroup--40 to 87 centimeters, buried A horizon 47 centimeters thick with color value of 3 or less within 200 centimeters of the soil surface with 1 percent or more Holocene-age carbon (2Asegb horizon).
 -Taxonomic version--Keys to Soil Taxonomy, 13th edition (2022)
 
 ADDITIONAL DATA:

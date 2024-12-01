@@ -1,0 +1,150 @@
+LOCATION CRAMERHILL             NJ
+
+Established Series
+DCS/ATD/EIB
+08/2024
+
+CRAMERHILL SERIES
+
+MLRA--149A
+Depth Class--very deep
+Drainage Class--well drained
+Saturated Hydraulic Conductivity Class--moderately high to high in the human-transported materials; high to very high in the underlying fluviomarine deposits
+Parent Material--coarse-loamy human-transported materials over loamy glauconitic bearing or non-glauconitic fluviomarine deposits
+Geomorphic location: fills on fluviomarine terraces
+Slope--0 to 5 percent
+Mean Annual Air Temperature--13 degrees C (56 degrees F)
+Mean Annual Precipitation--1160 mm (46 inches)
+
+TAXONOMIC CLASS: Coarse-loamy, spolic, mixed, active, mesic Typic Dystrudepts
+
+TYPICAL PEDON: Cramerhill sandy loam, 0 to 5 percent slopes on an area of fill at a cemetery under grass cover (Colors are for moist soils unless otherwise stated.)
+
+ ^A--0 to 20 centimeters; very dark grayish brown (10YR 3/2), sandy loam; weak granular structure; friable; common medium roots throughout and many fine roots throughout; 2 percent quartzite gravels; slightly acid (pH 6.5); abrupt smooth boundary. (0 to 25 cm thick)
+
+ ^Bw--20 to 36 centimeters; brown (10YR 4/3) sandy loam; weak medium subangular blocky structure; friable; few medium roots throughout and common fine roots throughout; neutral (pH 6.9); clear wavy boundary. (15 to 50 cm thick)
+
+ ^C--36 to 68 centimeters; pale brown (10YR 6/3) sandy loam; massive; friable; 5 percent rounded quartzite gravel fragments; neutral (pH 6.6) clear wavy boundary.
+
+ 2BEb--68 to 85 centimeters; yellowish brown (10YR 5/4) loamy fine sand; weak medium subangular blocky structure; friable; moderately acid (pH 5.8); gradual smooth boundary.
+
+ 2Btb--85 to 135 centimeters; strong brown (7.5YR 5/6) fine sandy loam; moderate medium and coarse subangular blocky structure; friable; few faint clay films and bridging between sand grains; 5 percent glauconite pellets; moderately acid (pH 5.7); clear wavy boundary.
+
+ 2BCb--135 to 182 centimeters; yellowish brown (10YR 5/8) loamy sand; weak medium subangular blocky structure; friable; 2 percent glauconite pellets; 5 percent rounded quartzite fragments; strongly acid (pH 5.4).
+
+TYPE LOCATION: Camden County, New Jersey; on the southwestern side of Evergreen Cemetery at approximately 1350 feet north west of intersection of Ferry Avenue and Mount Ephraim Avenue and approximately 1170 feet south of a high school.
+
+Latitude: 39.9198499
+Longitude: -75.1062462
+Datum: WGS84
+U.S.G.S. Quad: Camden, NJ.
+
+RANGE IN CHARACTERISTICS:
+Thickness of human-transported materials--greater than 50 centimeters.
+Depth to seasonal high-water table--greater than 100 centimeters.
+Rock fragment content--0 to 10 percent, by volume within the human-transported materials; 0 to 12 percent, by volume, in the underlying fluviomarine deposits.
+Artifact content--0 to 10 percent, by volume.
+Combined rock fragment and artifact content-- less than 15 percent by volume.
+Soil reaction-neutral to slightly acid in the human transported materials, slightly acid to strongly acid in the underlying fluviomarine deposits.
+Glauconite pellets--0 to 5 percent by volume in the human transported material; 0 to 12 percent by volume in the underlying fluviomarine deposits.
+Fine-Earth Fraction--averages less than 18 percent clay and greater than 40 percent sand in the particle size control section.
+
+^A or ^Au horizons:
+Hue--7.5YR or 10YR
+Value--3 or 4
+Chroma--2 or 3
+Texture--loamy sand, loamy fine sand, fine sandy loam, or sandy loam, in the fine earth fraction
+Human-Artifacts--0 to 10 percent
+Rock fragments-0 to 5 percent
+
+^Bw horizons:
+Hue--7.5YR or 10YR
+Value--4 to 6
+Chroma--3 or 4
+Texture--fine sandy loam, sandy loam, or loamy sand in the fine earth fraction
+Human Artifacts--0 to 10 percent
+Rock Fragments-0 to 10 percent
+
+^C horizons
+Hue--10YR
+Value--5 to 7
+Chroma--3 or 4
+Texture--sandy loam, fine sand, or loamy fine sand, in the fine earth fraction
+Human Artifacts--0 to 10 percent
+Rock fragments-0 to 10 percent
+
+2Btb horizons, if present:
+Hue--7.5YR or 10YR
+Value--5 or 6
+Chroma-4 or 6
+Texture--sandy loam or fine sandy loam, in the fine earth fraction
+Rock fragments--0 to 5 percent
+
+2BCb horizons, if present:
+Hue--10YR
+Value--5 or 6
+Chroma--4, 6, or 8
+Texture--loamy fine sand or loamy sand in the fine earth fraction
+Rock fragments--0 to 8 percent
+
+2C horizons:
+Hue--10YR
+Value--5 or 6
+Chroma--3 or 4
+Texture--fine sand, loamy sand, or loamy coarse sand, in the fine earth fraction.
+Rock fragments--0 to 12 percent
+
+COMPETING SERIES: There are no competing series.
+
+GEOGRAPHIC SETTING:
+Landscape--North Atlantic coastal plain
+Landform--filled, raised land, or other anthropogenic landforms on fluviomarine terraces or flats.
+Parent Material--coarse-loamy human-transported materials over loamy fluviomarine deposits
+Slope--0 to 5 percent
+Elevation--1 to 48 meters
+Frost-free period--190 to 250 days
+Mean Annual Air Temperature--11 to 14 degrees C
+Mean Annual Precipitation--1145 to 1225 millimeters
+
+GEOGRAPHICALLY ASSOCIATED SOILS:
+Buddtown soils--have a seasonal high water table between 50 and 100 cm, have less than than 50 cm of human-transported materials, and are on slightly lower non-anthropogenic landforms.
+Freehold soils--have 18 to 35 percent clay in the control section, have less than 50 cm of human transported materials, and are on non-anthropogenic landforms.
+Greenbelt soils-have greater than 100 cm of human-transported materials in glaciated areas that do not originate from fluviomarine deposits, and are on otherwise similar anthropogenic landforms.
+Northmont soils--have a seasonal high-water table between 50 and 100 cm and are on slightly lower anthropogenic landforms.  
+Sauken soils--have a seasonal high-water table between 50 and 100 cm and have greater than 35 percent human artifacts throughout the control section, on slightly lower anthropogenic landforms.
+Swedesboro soils--have less than 50 cm of human-transported materials, on non-anthropogenic landforms.
+
+DRAINAGE AND SATURATED HYDRAULIC CONDUCTIVITY:
+Drainage Class--well drained
+Surface Runoff--low
+Saturated Hydraulic Conductivity Class--moderately high to high in the human- transported materials; high to very high in the underlying fluviomarine materials; lower in areas where compacted mechanically (vibratory) or static (heavy traffic).
+
+USE AND VEGETATION:
+Major Uses--These soils are used for residential, commercial, and recreational development in an urban or suburban setting.
+Vegetation--Vegetation may include a mix of managed and unmanaged plant communities with a mix of native and non-native species. Many areas are vegetated with non-native ornamental landscaping and/or turfgrass associated with developed land uses. Some areas may exhibit weedy, invasive, and/or primary succession vegetation communities (e.g., abandoned lots and other unmanaged areas). Some small patches of mixed native hardwood forest may be present in undisturbed areas.
+
+DISTRIBUTION AND EXTENT:
+General Area--Urban corridors of the Northern Coastal Plain with anthropogenic landscapes.
+Land Resource Regions--S - North Atlantic Slope Diversified Farming Region MLRA--149A
+Extent--small extent.
+
+SOIL SURVEY REGIONAL OFFICE (SSRO) RESPONSIBLE: Raleigh, North Carolina (Special Projects Region)
+
+SERIES ESTABLISHED: Camden County, New Jersey, 2024.
+
+REMARKS:
+Diagnostic horizons and features recognized in this pedon are:
+Ochric epipedon--the zone from a depth of 0 to 20 centimeters (^A horizon)
+Cambic horizons--the zone from a depth of 20 to 36 centimeters (^Bw horizon)
+Argillic horizons-the zone from a depth of 85 to 135 centimeters (2Btb horizon)
+Lithologic discontinuity--change of parent material from human transported to fluviomarine deposits at a depth of 68 centimeters
+Human-transported materials--the zone from a depth of 0 to 68 centimeters. (^A, ^Bw, and ^C horizons)
+
+The taxonomic classification will be revised to reflect the Thirteenth Edition Keys to Taxonomy (2022) when available in the National Soils Information System. Coarse-loamy, spolic, mixed, semiactive, mesic Anthroportic Dystrudepts.
+
+ADDITIONAL DATA:
+NASIS User Pedon ID: 2012NJ007024
+Classified using the Twelfth Edition Keys to Soil Taxonomy (2014)
+________________________________________
+National Cooperative Soil Survey
+U.S.A.

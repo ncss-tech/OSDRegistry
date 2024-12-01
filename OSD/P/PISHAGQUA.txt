@@ -1,8 +1,8 @@
-LOCATION PISHAGQUA              RI+CT+MA+NH+NY
+LOCATION PISHAGQUA              RI+CT MA NH NY
 
 Established Series
 Revised MKP-JDT-DCP
-09/2023
+09/2024
 
 PISHAGQUA SERIES
 
@@ -45,18 +45,22 @@ Electrical conductivity (1:5 soil-water) throughout--0.6 dS/m or greater
 Depth to sulfidic materials (oxidized pH4.0)--0 to 50 centimeters
 Manner of failure--Moderately fluid to very fluid 
 Shell fragments throughout--0 to 15 percent
+Total Soil Organic Carbon Stock 0 to 100 centimeters--11 to 28 kg m-2
+Total Soil Organic Carbon Stock 0 to 200 centimeters--18 to 59 kg m-2
 
 Aseg or ACseg (where present)-
 Hue--2.5Y to 10Y or is neutral
 Value--2.5 or 3, moist, 5 to 7, dry
 Chroma--2 or less, moist or dry 
 Texture--Silt loam or silty clay loam with mucky analogs
+Organic carbon density--13 to 33 kg m-3
 
 Cseg horizon-
 Hue--5Y, 10Y or is neutral
 Value 2.5 to 4, moist, 5 to 7 dry
 Chroma--2 or less
 Textures--Very fine sandy loam, silt loam, or silty clay loam with mucky analogs
+Organic carbon density--9 to 32 kg m-3
 
 Thin strata of sandy material are found in some pedons. 
 
@@ -99,7 +103,7 @@ Land Resource Regions--R - Northern Forage and Forest Region and S - Northern At
 MLRA(s)--144A, 145, 149B
 Extent--Small
 
-SOIL SURVEY REGIONAL OFFICE (SSRO) RESPONSIBLE: Amherst, Massachusetts
+SOIL SURVEY REGIONAL OFFICE (SSRO) RESPONSIBLE: SPECIAL PROJECTS OFFICE
 
 SERIES ESTABLISHED: Washington County, Rhode Island, 2010
 

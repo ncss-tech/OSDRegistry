@@ -1,0 +1,130 @@
+LOCATION FORT CASWELL           NC
+
+Established Series
+ARW
+10/2024
+
+FORT CASWELL SERIES
+
+MLRA--153A, 153B
+Soil Survey Regional Office (SSRO) Responsible--Special Projects
+Depth Class--Very deep
+Drainage Class--Subaqueous (permanently submersed)
+Saturated Hydraulic Conductivity--High to very high
+Parent Material--Sandy estuarine deposits
+Total Soil Organic Carbon Stock to 200 centimeters--6.0 kg m-2
+Slope--0 to 3 percent
+Mean Annual Air Temperature--18 degrees C (64 degrees F) 
+Mean Annual Water Temperature--21 degrees C (70 degrees F)
+
+TAXONOMIC CLASS: Siliceous, thermic Fluventic Psammowassents
+
+TYPICAL PEDON: Fort Caswell fine sand on a submerged wave-cut platform under 1.7 meters of brackish water (Colors are for moist soil unless otherwise stated; electrical conductivity is 1:5 by volume solution mixture unless otherwise stated).
+
+ Cseg1--0 to 32 centimeters (0 to 13 inches); greenish gray (10Y 6/1) fine sand; structureless, single grain; nonsticky, nonplastic; nonfluid; 3 percent shell fragments; slight sulfurous odor; no color reaction with 3% hydrogen peroxide; slightly effervescent with 30% hydrogen peroxide; slightly saline (1.5 dS m-1); moderately alkaline (pH 8.1), moderately alkaline (pH 8.4) oxidized; 1.4 kg soil organic carbon per m-3; clear boundary.
+
+ Cseg2--32 to 108 centimeters (13 to 43 inches); 70 percent greenish gray (10Y 5/1) and 30 percent dark greenish gray (5GY 4/1) fine sand; structureless, single grain; nonsticky, nonplastic; nonfluid; 5 percent shell fragments; slight sulfurous odor; no color reaction with 3% hydrogen peroxide; slightly effervescent with 30% hydrogen peroxide; moderately saline (2.9 dS m-1); moderately alkaline (pH 8.3), strongly alkaline (pH 8.6) oxidized; 2.8 kg soil organic carbon m-3;  clear boundary.
+
+ Cseg3--108 to 130 centimeters (43 to 51 inches); dark greenish gray (10Y 4/1) fine sand; structureless, single grain; nonsticky, nonplastic; nonfluid; 2 percent wood fragments; slight sulfurous odor; no color reaction with 3% hydrogen peroxide; slightly effervescent with 30% hydrogen peroxide; strongly saline (6.0 dS m-1); moderately alkaline (pH 8.2), neutral (pH 6.7) oxidized; 0.8 kg soil organic carbon m-3; gradual boundary.
+
+ Cseg4--130 to 195 centimeters (51 to 77 inches); greenish gray (10Y 5/1) fine sand; structureless, single grain; nonsticky, nonplastic; nonfluid; no odor; no color reaction with 3% hydrogen peroxide; slightly effervescent with 30% hydrogen peroxide; moderately saline (3.8 dS m-1); moderately alkaline (pH 8.3), slightly acid (pH 6.3) oxidized; 0.8 kg soil organic carbon m-3.
+
+TYPE LOCATION: Brunswick County, North Carolina; Cape Fear River; approximately 0.7 miles east by northeast of the end of Shepard Road SE, 2.1 miles west by southwest of the end of South Fort Fisher Boulevard, 1.1 miles east by southeast of the end of East Moore Street. USGS topographic quadrangle: Kure Beach 
+
+Latitude--33.9495400
+Longitude-- -77.9752655
+Datum--WGS84
+Coordinate source-from hand-held GPS
+
+RANGE OF CHARACTERISTICS: 
+Depth to Bedrock--Greater than 200 centimeters
+Manner of Failure / Fluidity Class--Nonfluid to slightly fluid
+Shell Fragments--0 to 20 percent, by volume
+Sulfurous Odor--Slight to moderate throughout profile
+Wood Fragments--0 to 5 percent, by volume
+Soil Reaction--Slightly alkaline to strongly alkaline throughout profile
+Oxidized Reaction--Slightly acid to strongly alkaline (pH 6.1-9.0) throughout profile
+Electrical Conductivity--0.6 dS m-1 or higher throughout profile by 1:5 volume solution mixture
+Salinity Class--Slightly saline to strongly saline throughout profile
+Reaction to 30% Hydrogen Peroxide--None to moderate reaction throughout profile
+Horizon Soil Organic Carbon Density--0.1 to 5.2 kg m-3 throughout profile
+Total Soil Organic Carbon Stock--1.5 to 10.3 kg m-2
+
+Aseg horizon (where present):
+Hue--2.5Y, 5Y, or 10Y
+Value--2 or 2.5
+Chroma--1 or 2
+Texture--sand, fine sand, or loamy fine sand
+
+Cseg horizon:
+Hue--2.5Y, 5Y, 10Y, or N.
+Value--3 to 6
+Chroma--1 or 2
+Texture--sand, fine sand, or loamy fine sand and their shelly analogs
+
+2Bsseb horizon (where present):
+Hue--7.5YR, 10YR, or 2.5Y
+Value--4 to 5
+Chroma--3 to 6
+Texture--sand or fine sand
+
+COMPETING SERIES:
+There are no competing series in the same family. 
+
+GEOGRAPHIC SETTING:
+Parent Material--Sandy estuarine deposits
+Landscape--Southeast Coastal Plain Estuaries
+Landform--High energy submerged wave-cut platforms and shoals
+Slope--0 to 3 percent
+Mean Annual Air Temperature--16 to 18 degrees C (61 to 64 degrees F)
+Mean Annual Water Temperature--18 to 24 degrees C (64 to 75 degrees F)
+Water Depth Range--0 to 3 meters (0 to 10 feet) below mean sea level
+Water Regime--Tidal; 3 to 5 foot flux
+Water Salinity Range--15 to 30 parts per thousand
+
+GEOGRAPHICALLY ASSOCIATED SOILS:
+These are the Bohicket, Carteret, Fort Fisher, Kureb, Molasses Creek, Newhan, Prices Creek, Showboat, Sunny Point, and Wando soils.
+Bohicket soils--are on broad level tidal marsh flats bordering the Atlantic Ocean and formed in silty and clayey marine sediments.
+Carteret soils--are on back-barrier island tidal marshes of the Atlantic Coast and formed in sandy marine deposits.
+Fort Fisher soils--are in barrier coves and submerged wave-cut platforms fluctuating from low to high energy formed from sandy over loamy intermixed estuarine deposits and have lithologic discontinuities within 100 centimeters of the soil surface.
+Kureb soils--are on gently sloping to moderately steep soils on Coastal Plain uplands and side slopes along streams and bays and formed in marine, eolian, or fluvial sands with spodic horizon characteristics.
+Molasses Creek soils--are in estuarine tidal streams and barrier coves formed in coarse-loamy estuarine deposits.
+Newhan soils--are on gently undulating dunes commonly near beaches and waterways, do not have water at or near the soil surface, and formed in sand and shelly eolian deposits along the Atlantic Coast.
+Prices Creek soils--are in estuarine tidal streams and formed in fine-loamy estuarine deposits.
+Showboat soils--are in mainland coves and estuarine tidal streams and formed in coarse-loamy estuarine deposits and contain 40 centimeters of buried organic soil material within 200 centimeters of the soil surface. 
+Sunny Point soils--are on lower energy shoals and mainland coves and formed in coarse-loamy estuarine deposits and contain at least 15 centimeters of sulfidic materials within the top 50 centimeters of the soil.
+Wando soils--are on terraces of the Coastal Plain and formed in sandy fluviomarine deposits. 
+
+DRAINAGE AND SATURATED HYDRAULIC CONDUCTIVITY:
+Drainage Class--Subaqueous (permanently submerged)
+Saturated Hydraulic Conductivity--High to very high
+Soil Moisture Regime--Peraquic
+
+USE AND VEGETATION:
+Major Uses--Used for recreational boating, fishing, and swimming. Some areas are actively harvested for crabs.
+Vegetation--Limited stands of shoal grass (Halodule wrightii), widgeon grass (Ruppia maritima), and Saltwater Eelgrass (Zostera marina) exist in lower energy areas that allow for establishment.
+
+DISTRIBUTION AND EXTENT:
+General area--Coastal plain estuaries in North Carolina
+Region--T - Atlantic and Gulf Coast Lowland Forest and Crop Region
+Extent--Small
+
+SOIL SURVEY REGIONAL OFFICE (SSRO) RESPONSIBLE: Special Projects Office
+
+SERIES ESTABLISHED: Brunswick County, North Carolina, 2024
+
+REMARKS: 
+Fort Caswell is derived from Fort Caswell that is on the easternmost point of Oak Island at the mouth of the Cape Fear River. It was built in 1837 to guard the entrance of Southpoint harbor from potential threats from the Atlantic Ocean. The fort served as one of two primary training centers for soldiers before their departure for Europe in World War I. The fort was decommissioned in 1945. 
+
+Diagnostic horizons and other diagnostic soil characteristics recognized in this pedon are (Keys to Soil Taxonomy, Thirteenth Edition, 2022)--
+
+Reduced Matrix--0 to 195 centimeters (0 to 77 inches); soil matrix that has low chroma in situ but undergoes a change in color within 30 minutes after the soil material has been exposed to air
+Endosaturation--0 to 195 centimeters (0 to 77 inches)
+Fluventic subgroup--An organic carbon content of 0.2 percent or more at 125 centimeters or an irregular decrease in organic carbon at a depth of 25 to 125 centimeters. 
+Peraquic feature--Zero or positive soil water potential at the soil surface.
+
+Data Map Unit ID: 940074
+NASIS User Site and Pedon ID: S2022NC019116
+________________________________________
+National Cooperative Soil Survey
+U.S.A.

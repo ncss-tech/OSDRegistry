@@ -1,0 +1,143 @@
+LOCATION HAMMOCK                CT
+
+Established Series
+Revised CEP-BEF-DCP
+10/2024
+
+HAMMOCK SERIES
+
+MLRA(s)--144A, 145
+Depth class--Very deep
+Drainage Class--Subaqueous
+Water Depth Range--2 to 261 centimeters
+Parent material--Coarse-loamy marine deposits 
+Geomorphic location--Submerged mainland beaches in sounds and estuaries
+Slope range for series--0 to 3 percent
+Mean annual air temperature--10 degrees C (50 degrees F)
+Mean annual precipitation--1295 millimeters (51 inches)
+
+TAXONOMIC CLASS: Coarse-loamy, mixed, superactive, nonacid, mesic Haplic Sulfiwassents
+
+TYPICAL PEDON: Hammock sandy loam on a west facing, linear, 1 percent slope on a submerged mainland beach under 190 centimeters of brackish water. Tidal range is 280 centimeters. (Colors are for moist soil unless otherwise noted).
+
+ Aseg--0 to 15 centimeters; greenish black (10Y 2.5/1) sandy loam; massive; nonfluid; 1 percent gravel; slight effervescence with 30 percent hydrogen peroxide; moderately saline; slightly alkaline (pH 7.6), ultra acid (pH 2.8) oxidized pH; clear boundary
+
+ Cseg1--15 to 93 centimeters; dark greenish gray (5GY 4/1) sandy loam; massive; nonfluid; 1 percent gravel; 2 percent shell fragments; slight effervescence with 30 percent hydrogen peroxide; moderately saline; slightly alkaline (pH 7.8), extremely acid (pH 3.8) oxidized pH; clear boundary.
+
+ Cseg2--93 to 124 centimeters; dark greenish gray (5GY 4/1) very gravelly sandy loam; massive; nonfluid; 35 percent gravel; slight sulfurous odor; slight effervescence with 30 percent hydrogen peroxide; moderately saline; slightly alkaline (pH 7.6), ultra acid (pH 1.9) oxidized pH; clear boundary.
+
+ Cseg3--124 to 164 centimeters; dark gray (5Y 4/1) loamy sand; massive; nonfluid; 4 percent herbaceous plant fibers; 4 percent gravel; slight effervescence with 30 percent hydrogen peroxide; moderately saline; slightly alkaline (pH 7.6), ultra acid (pH 2.1) oxidized pH; clear boundary.
+
+ Cseg4--164 to 200 centimeters; very dark gray (5Y 3/1) sandy loam; massive; slightly fluid; 8 percent herbaceous plant fibers; 8 percent wood fragments; slight effervescence with 30 percent hydrogen peroxide; moderately saline; slightly alkaline (pH 7.5), ultra acid (pH 1.8) oxidized pH.
+
+TYPE LOCATION: Fairfield County, Connecticut; Cos Cob Harbor, approximately 98 meters (320 feet) southeast from Diving Island and approximately 145 meters (475 feet) north of Bluff Island. USGS topographic quadrangle: Stamford, CT
+
+Latitude--41.0125833
+Longitude-- -73.5993333
+Datum--WGS84
+Coordinates source--from hand-held GPS
+
+RANGE IN CHARACTERISTICS:
+Depth to bedrock--Greater than 200 centimeters
+Soil moisture--These soils are continuously inundated
+Reaction throughout--Slightly alkaline to moderately alkaline (pH 7.4 to 8.4)
+Oxidized reaction--Ultra acid to moderately alkaline (pH 1.8 to 8.4)
+Electrical conductivity (EC 1:5 water)--Greater than 0.6 dS/m throughout
+Depth to hypersulfidic materials (incubated pH 4.0)--0 to 50 centimeters
+Shell fragments--0 to 65 percent, by volume 
+Coarse fragments--0 to 12 percent gravels, by volume
+Total soil organic carbon stocks to 200 centimeters--33 to 85 kg m-2
+
+Ase, Aseg, or A horizon (where present)
+Hue--10Y or N
+Value--2.5 or 3
+Chroma--0 or 1
+Texture--Sand; range includes sand through very fine sandy loam
+Manner of failure / fluidity class--Nonfluid to slightly fluid
+Organic carbon density--6 to 19 kg m-3
+
+Cseg or C horizon
+Hue--2.5Y, 10Y, or N
+Value--2.5 to 4
+Chroma--0 to 1
+Texture--sand; range includes coarse sand through silt loam
+Manner of failure / fluidity class--nonfluid 
+Organic carbon density--1 to 35 kg m-3
+
+2ACgb, 2Aseb, 2ACseg horizon (where present)
+Hue--5Y
+Value--2.5
+Chroma--1
+Texture--silt loam
+Manner of failure / fluidity class--nonfluid to slightly fluid
+Organic carbon density--24 to 34 kg m-3
+
+2Cg or 2Cseg horizon (where present)
+Hue--10Y or N
+Value--2.5 to 4
+Chroma--0 to 1 
+Texture--silt loam; range includes sandy loam through silty clay loam
+Manner of failure / fluidity class--nonfluid to slightly fluid
+Organic carbon density--2 to 19 kg m-3
+
+COMPETING SERIES:
+These are Cottman, Fort Neck, Marshneck, and Thames soils.
+Cottman soils--formed in heterogenous lagoonal deposits; found on lagoon bottom barrier side landforms in estuaries in the Northern Tidewater Area (MLRA 153D)
+Fort Neck soils--formed in estuarine deposits and are found on mainland coves and lagoon bottoms in coastal lagoons and bays.
+Marshneck soils--formed in sandy estuarine deposits and are found on flood-tidal deltas and shoals in coastal lagoons, estuaries, and sounds.
+Thames soils--formed in mixed sandy and loamy subaqueous alluvium or estuarine deposits and are found on river channels and shoals in tidal rivers.
+
+GEOGRAPHIC SETTING:
+Parent material--Coarse-loamy marine deposits; sometimes underlain by fine-silty estuarine deposits
+Landscape--Sounds and estuaries
+Landform--Submerged mainland beaches
+Slope--0 to 3 percent
+Mean annual precipitation--1023 to 1320 millimeters (40 to 52 inches)
+Mean annual air temperature--4 to 13 degrees C (39 to 55 degrees F)
+Water salinity range--18 to 30 parts per thousand
+Frost-free period--350 to 365 days
+
+GEOGRAPHICALLY ASSOCIATED SOILS:
+These are Anguilla, Billington, Guilford, Niantic, Pishagqua, and Quaimbog soils.
+Anguilla soils--formed in sandy estuarine deposits overlying sandy and gravelly glaciofluvial deposits and are found on mainland coves and submerged mainland beaches in estuaries and sounds
+Billington soils--formed in coarse-silty estuarine deposits overlying herbaceous organic horizons and are found on mainland coves in estuaries and bays.
+Guilford soils--formed in estuarine deposits and are found on bay bottoms and coves in estuaries, lagoons, and bays; and have an irregular decrease in carbon with depth.
+Niantic soils--formed in sandy marine deposits, have coarser textures and are found on bay bottoms and submerged mainland beaches in bays and sounds.
+Pishagqua soils--formed in fine-silty estuarine deposits and are found on lagoon bottoms, mainland coves, and bay bottoms in coastal lagoons, estuaries, and sounds; and have an irregular decrease in carbon with depth.
+Quaimbog soils--formed in estuarine deposits overlying buried former buried O or dark colored A horizons and glaciofluvial deposits and are found in mainland coves and bay bottoms of estuaries, bays, and lagoons.
+
+DRAINAGE AND SATURATED HYDRAULIC CONDUCTIVITY:
+Drainage class--Subaqueous
+Saturated hydraulic conductivity--High or very High
+Soil moisture regime--Peraquic
+Soil is continuously inundated with salt or brackish water.
+
+USE AND VEGETATION:
+Major uses--Areas of this soil are used for recreational fishing and swimming. Commercial uses include shell fishing and aquaculture. Wildlife use and benthic fauna associated with this soil includes tubeworms, clams, juvenile blue crabs, scallops, and juvenile finfish.
+Native vegetation--Eelgrass (Zostera marina) and widgeon grass (Ruppia maritima) may occur on these soils.
+
+DISTRIBUTION AND EXTENT:
+General area--These soils are located along Connecticut coast.
+Land Resource Regions--R - Northeastern Forage and Forest Region
+MLRA(s)--144A, 145
+Extent--Small
+
+SOIL SURVEY REGIONAL OFFICE (SSRO) RESPONSIBLE: Special Projects Office
+
+SERIES ESTABLISHED: Fairfield County, Connecticut, 2024.
+
+REMARKS: This subaqueous series is mapped in areas previously published as water in Connecticut soil survey publications.
+
+Diagnostic horizons and features in this pedon include--
+Peraquic feature--Positive soil water potential (permanently submerged) at the soil surface. (under 2 meters of salt water).
+Haplic feature--Have an n-value of 0.7 or less (or a nonfluid class) or less than 8 percent clay in some horizon at a depth between 20 and 50 centimeters.
+Particle-size control section--The zone from 0 to 100 centimeters (0 to 40 inches).
+Hypersulfidic materials--The zone from 0 to 200 centimeters (Aseg and Cseg horizons) have oxidized reactions with pH values less than 4 after 16 weeks.
+Taxonomic version--Keys to Soil Taxonomy, 13th edition (2022)
+
+ADDITIONAL DATA: Type location taken from S2023CT001045 in Cos Cob Harbor, CT
+
+Additional support pedons used to develop this series include 2022CT007018, 2022CT007020, S2022CT009008, S2022CT009010, 2022CT009050, S2022CT011004, and S2023CT001063.
+________________________________________
+National Cooperative Soil Survey
+U.S.A.

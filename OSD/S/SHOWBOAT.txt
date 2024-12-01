@@ -1,0 +1,133 @@
+LOCATION SHOWBOAT               NC
+
+Established Series
+ARW
+10/2024
+
+SHOWBOAT SERIES
+
+MLRA--153A, 153B
+Soil Survey Regional Office (SSRO) Responsible--Special Projects
+Depth Class--Very deep
+Drainage Class--Subaqueous (permanently submersed)
+Saturated Hydraulic Conductivity--Moderately low to moderately high
+Parent Material--Coarse-loamy estuarine deposits over woody organic material
+Soil Organic Carbon Stock to 200 centimeters--122.2 kg m-2
+Slope--0 to 2 percent
+Mean Annual Air Temperature--18 degrees C (64 degrees F) 
+Mean Annual Water Temperature--21 degrees C (70 degrees F)
+
+TAXONOMIC CLASS: Coarse-loamy, mixed, semiactive, nonacid, thermic Thapto-histic Sulfiwassents
+
+TYPICAL PEDON: Showboat silt loam in a mainland cove under 2.0 meters of brackish water (Colors are for moist soil unless otherwise stated; electrical conductivity is 1:5 by volume solution mixture unless otherwise stated).
+
+ Cseg1--0 to 19 centimeters (0 to 8 inches); 70 percent dark gray (10YR 4/1) and 30 percent olive gray (5Y 4/2) silt loam; structureless, massive; slightly sticky, nonplastic; very fluid; slight sulfurous odor; no color reaction with 3% hydrogen peroxide; slightly effervescent with 30% hydrogen peroxide; slightly saline (2.0 dS m-1); neutral (pH 7.3), slightly alkaline (pH 7.6) oxidized; 2.7 kg soil organic carbon m-3; clear boundary. 
+
+ Cseg2--19 to 95 centimeters (8 to 37 inches); dark greenish gray (10Y 3/1) silt loam; structureless, massive; slightly sticky, nonplastic; very fluid; slight sulfurous odor; no color reaction with 3% hydrogen peroxide; slightly effervescent with 30% hydrogen peroxide; slightly saline (1.5 dS m-1); neutral (pH 6.7), extremely acid (pH 4.0) oxidized; 10.4 kg soil organic carbon m-3; clear boundary.
+
+ 2Oaseb1--95 to 160 centimeters (37 to 63 inches); black (7.5YR 2.5/1) muck; 15 percent fibers, 7 percent rubbed; 23 percent wood fragments; von Post H9; slight sulfurous odor; no color reaction with 3% hydrogen peroxide; slightly effervescent with 30% hydrogen peroxide; nonsaline (0.4 dS m-1); slightly acid (pH 6.3), extremely acid (pH 4.0) oxidized; 56.2 kg soil organic carbon m-3; gradual boundary.
+
+ 2Oaseb2--160 to 198 centimeters (63 to 78 inches); very dark gray (10YR 3/1) muck; 10 percent fibers, 8 percent rubbed; von Post H7; slight sulfurous odor; no color reaction with 3% hydrogen peroxide; slightly effervescent with 30% hydrogen peroxide; nonsaline (0.4 dS m-1); neutral (pH 6.7), extremely acid (pH 4.0) oxidized; 52.9 kg soil organic carbon m-3.
+
+TYPE LOCATION: Brunswick County, North Carolina; Cape Fear River; approximately 1.44 miles northeast of the intersection of Mellaney Lane Southeast and River Road Southeast and 1.54 miles due west of the intersection of Coleman Drive and River Road. USGS topographic quadrangle: Wilmington, North Carolina.
+
+Latitude--34.1665704
+Longitude-- -77.9667391
+Datum--WGS84
+Coordinate source-from hand-held GPS
+
+RANGE OF CHARACTERISTICS: 
+Depth to Bedrock--Greater than 200 centimeters
+Depth to hyper-sulfidic materials (incubated pH  4.0)--0 to 50 centimeters
+Depth to Lithologic Discontinuity--41 to 160 centimeters
+Manner of Failure / Fluidity Class--slightly fluid to very fluid
+Wood Fragments--0 to 20 percent, by volume
+Charcoal Fragments (where present)--0 to 10 percent, by volume
+Shell Fragments (where present)--0 to 5 percent, by volume
+Soil Reaction--Strongly acid to slightly alkaline throughout profile
+Oxidized Soil Reaction--Ultra acid to extremely acid (pH < 3.5 to 4.4) throughout profile
+Sulfurous Odor--Slight to moderate throughout profile
+Electrical Conductivity--At least one horizon within 100 centimeters of the soil surface greater than 0.6 dS m-1 by 1:5 volume solution mixture. 
+Salinity Class--Nonsaline to moderately saline throughout profile
+Reaction to 30% Hydrogen Peroxide--Slight to moderate reaction throughout profile
+Total Soil Organic Carbon Stock--70 to 190 kg m-2
+
+Cseg horizon:
+Hue--7.5YR, 10YR, 2.5Y, 5Y, 10Y or N
+Value--2 to 4
+Chroma--0 to 2
+Texture--fine sandy loam, sandy loam, silt loam, or loam and their mucky analogs
+Organic carbon density--5 to 30 kg m-3
+
+2Oaseb horizon:
+Hue--5YR, 7.5YR, 10YR, or 2.5Y
+Value--2 to 3
+Chroma--1 or 2
+Texture--muck
+Von post--H7 to H10
+Organic carbon density--30 to 70 kg m-3
+
+COMPETING SERIES:
+There are no competing series in the same family. 
+
+GEOGRAPHIC SETTING:
+Parent Material--Coarse-loamy estuarine deposits over woody organic material
+Landscape--Southeast Coastal Plain Estuaries
+Landform--Estuarine Tidal Streams and Mainland Coves
+Slope--0 to 2 percent
+Mean Annual Air Temperature--16 to 18 degrees C (61 to 64 degrees F) 
+Mean Annual Water Temperature--18 to 23 degrees C (64 to 75 degrees F) 
+Water Depth Range--0 to 2 meters (0 to 7 feet) below mean sea level
+Water Regime--Tidal; 3 to 5 foot flux
+Water Salinity Range--10 to 30 parts per thousand
+
+GEOGRAPHICALLY ASSOCIATED SOILS:
+These are the Bohicket, Chowan, Dorovan, Fort Caswell, Fort Fisher, Kureb, Molasses Creek, Newhan, Prices Creek, Sunny Point, Yaupon soils.
+Bohicket soils--are on broad level tidal marsh flats bordering the Atlantic Ocean and formed in silty and clayey marine sediments.
+Chowan soils--are on riverine floodplains and formed in loamy marine sediments over highly decomposed organic material.
+Dorovan soils--on densely forested flood plains, hardwood swamps, and depressions and formed in highly decomposed acid organic materials. 
+Fort Caswell soils--are on high-energy submerged wave-cut platforms and shoals formed in sandy estuarine deposits throughout, and do not have hypersulfidic soil materials.
+Fort Fisher soils-- are in barrier coves and submerged wave-cut platforms fluctuating from low to high energy formed from sandy over loamy intermixed estuarine deposits and do not have hypersulfidic soil materials.
+Kureb soils--are on gently sloping to moderately steep soils on Coastal Plain uplands and side slopes along streams and bays and formed in marine, eolian, or fluvial sands throughout.
+Molasses Creek soils--are in estuarine tidal streams and barrier coves and do not have hypersulfidic soil materials.
+Newhan soils--are on gently undulating dunes commonly near beaches and waterways formed in sand and shelly eolian deposits along the Atlantic Coast.
+Prices Creek soils--are in estuarine tidal streams and mainland coves, formed in fine-loamy estuarine deposits, and do not have hypersulfidic soil materials. 
+Sunny Point soils-- are on lower energy shoals and mainland coves and formed in coarse-loamy estuarine deposits and lack buried organic soil materials.
+Yaupon soils--are constructed from dredge-deposit spoils on the Lower Coastal Plain and consist of fine textured soil material. 
+
+DRAINAGE AND SATURATED HYDRAULIC CONDUCTIVITY:
+Drainage Class--Subaqueous (permanently submerged)
+Saturated Hydraulic Conductivity--Moderately low to moderately high
+Soil Moisture Regime--Peraquic
+
+USE AND VEGETATION:
+Major Uses--Used for recreational boating, fishing, and swimming. Some areas are actively harvested for crabs.
+Vegetation-- Extremely limited and isolated stands of shoal grass (Halodule wrightii), widgeon grass (Ruppia maritima), and Saltwater Eelgrass (Zostera marina) exist in lower energy areas with low turbidity that allow for establishment.
+
+DISTRIBUTION AND EXTENT:
+General area--Coastal plain estuaries in North Carolina
+Region--T - Atlantic and Gulf Coast Lowland Forest and Crop Region
+Extent--Small
+
+SOIL SURVEY REGIONAL OFFICE (SSRO) RESPONSIBLE: Special Projects Office
+
+SERIES ESTABLISHED: Brunswick County, North Carolina, 2024
+
+REMARKS: 
+Showboat is derived from the nickname for the USS North Carolina (BB-55). The ship serves as the North Carolina State memorial for World War II and is the most decorated American battleship of World War II. It is anchored as a museum in the Cape Fear River near Wilmington, NC. 
+
+Diagnostic horizons and other diagnostic soil characteristics recognized in this pedon are (Keys to Soil Taxonomy, Thirteenth Edition, 2022)--
+
+n-value > 0.7--0 to 95 centimeters (0 to 37 inches, Cseg1 and Cseg2 horizons) 
+Reduced Matrix--0 to 95 centimeters (0 to 37 inches); soil matrix that has low chroma in situ but undergoes a change in hue or chroma within 30 minutes after the soil material has been exposed to air (Cseg1 and Cseg2 horizons)
+Sulfidic materials--19 to 198 centimeters (8 to 78 inches; Cseg2, 2Oaseb1, and 2Oaseb2 horizons)
+Lithologic discontinuity--95 to 198 centimeters (37 to 78 inches, 2Oaseb1 and 2Oaseb2 horizons)
+Sapric soil materials--95 to 198 centimeters (37 to 78 inches, 2Oaseb1 and 2Oaseb2 horizons)
+Endosaturation--0 to 198 centimeters (0 to 78 inches) 
+Peraquic feature-Zero or positive soil water potential at the soil surface.
+
+Data Map Unit ID: 940075
+NASIS User Site and Pedon ID: 2022NC019125
+________________________________________
+National Cooperative Soil Survey
+U.S.A.

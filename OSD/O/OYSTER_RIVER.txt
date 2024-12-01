@@ -1,8 +1,8 @@
 LOCATION OYSTER RIVER           CT
 
-Tentative Series
+Established Series
 BEF-CEP-DCP
-03/2024
+10/2024
 
 OYSTER RIVER SERIES
 
@@ -15,21 +15,21 @@ Slope range for series--0 to 2 percent
 Mean annual air temperature--10 degrees C (50 degrees F)
 Mean annual precipitation--1295 millimeters (51 inches)
 
-TAXONOMIC CLASS: Coarse-loamy, mixed, superactive, nonacid, mesic Thapto-Histic Sulfaquents
+TAXONOMIC CLASS: Coarse-loamy, mixed, superactive, nonacid, mesic Thapto-histic Sulfaquents
 
 TYPICAL PEDON: Oyster River mucky fine sandy loam on a linear, zero percent slope in a tidal marsh. (Colors are for moist soil unless otherwise stated).
 
- Aseg--0 to 10 centimeters; greenish black (10Y 2.5/1) mucky fine sandy loam; massive; nonfluid;  many very fine, fine, and medium roots throughout; moderate sulfurous odor; slight reaction to 30 percent hydrogen peroxide; neutral (xxx), xxx acid (xxx) oxidized pH; clear boundary. (Combined thickness of Aseg horizons is 0 to 48 centimeters)
+ Aseg--0 to 10 centimeters; greenish black (10Y 2.5/1) mucky fine sandy loam; massive; nonfluid;  many very fine, fine, and medium roots throughout; moderate sulfurous odor; slight reaction to 30 percent hydrogen peroxide; ultra acid (pH 3.1), ultra acid (pH 3.0) oxidized pH; clear boundary. (Combined thickness of Aseg horizons is 0 to 48 centimeters)
 
- Cseg1--10 to 44 centimeters; dark olive gray (5Y 3/2) mucky fine sandy loam; massive; slightly fluid; many very fine, fine, and medium roots throughout; moderate sulfurous odor; slight reaction to 30 percent hydrogen peroxide; 40 percent plant fibers; neutral (xxx), xxx acid (xxx) oxidized pH; clear boundary.
+ Cseg1--10 to 44 centimeters; dark olive gray (5Y 3/2) mucky fine sandy loam; massive; slightly fluid; many very fine, fine, and medium roots throughout; moderate sulfurous odor; slight reaction to 30 percent hydrogen peroxide; 40 percent plant fibers; ultra acid (pH 3.0), ultra acid (pH 2.7) oxidized pH; clear boundary.
 
- Cseg2--44 to 52 centimeters; dark grayish brown (2.5Y 4/2) mucky silt loam; massive; moderately fluid; many very fine and fine, few medium roots throughout; moderate sulfurous odor; slight reaction to 30 percent hydrogen peroxide; 40 percent plant fibers; neutral (xxx), xxx acid (xxx) oxidized pH; gradual boundary. (Combined thickness of Cseg horizons is 39 to 103 centimeters)
+ Cseg2--44 to 52 centimeters; dark grayish brown (2.5Y 4/2) mucky silt loam; massive; moderately fluid; many very fine and fine, few medium roots throughout; moderate sulfurous odor; slight reaction to 30 percent hydrogen peroxide; 40 percent plant fibers; very strongly acid (pH 4.8), extremely acid (pH 3.8) oxidized pH; gradual boundary. (Combined thickness of Cseg horizons is 39 to 103 centimeters)
 
- Oaseb--52 to 174 centimeters; very dark gray (2.5Y 3/1) and black (2.5Y 2.5/1) rubbed, muck; 40 percent fibers; 10 percent rubbed fibers; H7 von Post humification scale; many very fine and fine, common medium roots throughout; moderate sulfurous odor; neutral (xxx), xxx acid (xxx) oxidized pH; abrupt boundary. (Combined thickness of Oase horizons is 40 to 136 centimeters)
+ Oaseb--52 to 174 centimeters; very dark gray (2.5Y 3/1) and black (2.5Y 2.5/1) rubbed, muck; 40 percent fibers; 10 percent rubbed fibers; H7 von Post humification scale; many very fine and fine, common medium roots throughout; moderate sulfurous odor; very strongly acid (pH 4.8), extremely acid (pH 3.8) oxidized pH; abrupt boundary. (Combined thickness of Oase horizons is 40 to 136 centimeters)
 
- C'seg1--174 to 191 centimeters; dark gray (2.5Y 4/1) mucky silt loam; massive; very fluid; common very fine and fine roots throughout; moderate sulfurous odor; slight reaction to 30 percent hydrogen peroxide; 10 percent plant fibers; neutral (xxx), xxx acid (xxx) oxidized pH; abrupt boundary.
+ C'seg1--174 to 191 centimeters; dark gray (2.5Y 4/1) mucky silt loam; massive; very fluid; common very fine and fine roots throughout; moderate sulfurous odor; slight reaction to 30 percent hydrogen peroxide; 10 percent plant fibers; extremely acid (pH 3.5), ultra acid (pH 2.9) oxidized pH; abrupt boundary.
 
- C'seg2--191 to 202 centimeters; very dark gray (2.5Y 3/1) mucky silt loam; massive; moderately fluid; common very fine and fine roots throughout; moderate sulfurous odor; 20 percent plant fibers; neutral (xxx), xxx acid (xxx) oxidized pH. (Combined thickness of C'seg horizons is 0 to 28 centimeters)
+ C'seg2--191 to 202 centimeters; very dark gray (2.5Y 3/1) mucky silt loam; massive; moderately fluid; common very fine and fine roots throughout; moderate sulfurous odor; 20 percent plant fibers; ultra acid (pH 3.1), ultra acid (pH 3.1) oxidized pH. (Combined thickness of C'seg horizons is 0 to 28 centimeters)
 
 TYPE LOCATION: Middlesex County, Town of Old Saybrook, Connecticut; Along the Oyster River, approximately 1,560 feet Northeast (31 degree bearing) of intersection of Boston Post Road and Old Boston Post Road and approximately 1,325 feet west of the intersection of King Street and Boston Post Road. USGS topographic quadrangle: Essex, CT
 
@@ -41,13 +41,12 @@ Coordinates source--from hand-held GPS
 RANGE IN CHARACTERISTICS:
 Depth to bedrock--Greater than 200 centimeters
 Soil moisture--Saturated; peraquic moisture regime
-Reaction throughout--slightly acid to moderately alkaline
-Oxidized reaction--ultra acid or extremely acid 
+Reaction throughout--Ultra acid to moderately acid (pH <3.5 to 6.0)
+Oxidized reaction--Ultra acid or extremely acid (pH <3.5 to 4.4) 
 Electrical conductivity (EC 1:5 water)--Greater than 0.6 dS/m
 Depth to hypersulfidic materials (incubated pH 4.0 or less)--0 to 50 centimeters
 Wood fragments--0 to 20 percent, by volume
 Coarse fragments--0 to 50 percent fine and medium gravels, by volume in individual horizons
-Coastal Blue Carbon density range--from XXXX in the mineral horizons to XXXX in the buried organic materials. Oyster River soils can often average XXXX mega grams of coastal blue carbon per hectare to a 2 meter depth.
 
 Aseg horizons (where present)
 Hue--2.5Y, 10Y
@@ -122,7 +121,7 @@ Land Resource Regions--R - Northeastern Forage and Forest Region
 MLRA(s)--144A, 145
 Extent--Small
 
-SOIL SURVEY REGIONAL OFFICE (SSRO) RESPONSIBLE: Amherst, Massachusetts
+SOIL SURVEY REGIONAL OFFICE (SSRO) RESPONSIBLE: SPECIAL PROJECTS OFFICE
 
 SERIES ESTABLISHED: Middlesex County, Connecticut, 2024.
 

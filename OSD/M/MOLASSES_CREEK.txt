@@ -1,0 +1,122 @@
+LOCATION MOLASSES CREEK         NC
+
+Established Series
+ARW
+10/2024
+
+MOLASSES CREEK SERIES
+
+MLRA--153A, 153B
+Soil Survey Regional Office (SSRO) Responsible--Special Projects
+Depth Class--Very deep
+Drainage Class--Subaqueous (permanently submersed)
+Saturated Hydraulic Conductivity--Moderately high to high
+Parent Material--Coarse-loamy estuarine deposits
+Soil Organic Carbon Stock to 200 centimeters--21.7 kg m-2
+Slope--0 to 3 percent
+Mean Annual Air Temperature--18 degrees C (64 degrees F) 
+Mean Annual Water Temperature--21 degrees C (70 degrees F)
+
+TAXONOMIC CLASS: Coarse-loamy, mixed, semiactive, nonacid, thermic Grossic Hydrowassents
+
+TYPICAL PEDON: Molasses Creek fine sandy loam on a submerged wave-cut platform under 2.2 meters of brackish water (Colors are for moist soil unless otherwise stated; electrical conductivity is 1:5 by volume solution mixture unless otherwise stated).
+
+ Cseg1--0 to 58 centimeters (0 to 23 inches); 70 percent greenish black (10Y 2.5/1) and 30 percent dark greenish gray (10Y 4/1) fine sandy loam; structureless, massive; slightly sticky, nonplastic; slightly fluid; 2 percent shell fragments; slight sulfurous odor; color reaction with 3% hydrogen peroxide; slightly effervescent with 30% hydrogen peroxide; strongly saline (4.7 dS m-1); moderately alkaline (pH 8.0), neutral (pH 7.3) oxidized; 3.5 kg soil organic carbon m-3; clear boundary. 
+
+ Cseg2--58 to 170 centimeters (23 to 67 inches); 70 percent greenish black (10Y 2.5/1) and 30 percent dark greenish gray (5GY 4/1) fine sandy loam; structureless, massive; slightly sticky, nonplastic; slightly fluid; 2 percent shell fragments; 2 percent wood fragments; slight sulfurous odor; no color reaction with 3% hydrogen peroxide; slightly effervescent with 30% hydrogen peroxide; moderately saline (3.0 dS m-1); slightly alkaline (pH 7.7), neutral (pH 7.3) oxidized; 14.8 kg soil organic carbon m-3; clear boundary.
+
+ Cseg3--170 to 197 centimeters (67 to 78 inches); 60 percent dark greenish gray (10Y 4/1) and 40 percent greenish black (10Y 2.5/1) loamy fine sand; structureless, single grain; nonsticky, nonplastic; slightly fluid; slight sulfurous odor; color reaction with 3% hydrogen peroxide; slightly effervescent with 30% hydrogen peroxide; slightly saline (2.2 dS m-1); slightly alkaline (pH 7.6), neutral (pH 7.0) oxidized; 3.5 kg of soil organic carbon m-3. 
+
+TYPE LOCATION: Brunswick County, North Carolina; Cape Fear River, approximately 1.2 miles west of the intersection of River Road and Royal Fern Road, 1.11 miles east by southeast of the intersection of Chapel Trail Southeast and Maggie Lane Southeast, and 4,921 feet north by northeast of the mouth of Lilliput Creek. USGS topographic quadrangle: Carolina Beach.
+
+Latitude--34.0827464
+Longitude-- -77.9418635
+Datum--WGS84
+Coordinate source-from hand-held GPS
+
+RANGE OF CHARACTERISTICS: 
+Depth to Bedrock--Greater than 200 centimeters
+Shell Fragments--0 to 20 percent, by volume
+Wood Fragments--0 to 5 percent, by volume
+Soil Reaction--Neutral to moderately alkaline throughout profile
+Oxidized Soil Reaction--Strongly acid to moderately alkaline (pH 5.1-8.4) from 0 to 100 centimeters; ultra acid to strongly alkaline (pH < 3.5 to 9.0) greater than 100 centimeters
+Sulfurous Odor--Slight to moderate throughout profile
+Electrical Conductivity--Greater than 2.2 dS m-1 throughout profile by 1:5 by volume solution mixture
+Salinity Class--Slightly saline to strongly saline throughout profile
+Reaction to 30% Hydrogen Peroxide--None to moderate reaction throughout profile
+Horizon Soil Organic Carbon Density--1.0 to 39.1 kg m-3 throughout profile
+Total Soil Organic Carbon Stock--5 to 50 kg m-2
+
+Aseg (where present) horizon:
+Hue--2.5Y, 5Y, 10Y, or N
+Value--2.5 to 4
+Chroma--2 or less
+Texture--fine sandy loam, silt loam, or their mucky analogs
+Manner of failure / fluidity class--slightly to moderately fluid
+
+Cseg horizon:
+Hue--10Y, 5GY, 10GY, or N
+Value-2.5 to 4
+Chroma--1 or less
+Texture--loamy fine sand, fine sandy loam, silt loam, loam, silty clay loam, or their shelly analogs
+Manner of failure / fluidity class--slightly fluid to very fluid
+
+COMPETING SERIES:
+There are no competing series in the same family. 
+
+GEOGRAPHIC SETTING:
+Parent Material--Coarse-loamy estuarine deposits
+Landscape--Southeast Coastal Plain Estuaries
+Landform--Estuarine tidal streams and barrier coves
+Slope--0 to 3 percent
+Mean Annual Air Temperature--16 to 18 degrees C (61 to 64 degrees F)
+Mean Annual Water Temperature--18 to 24 degrees C (64 to 75 degrees F)
+Water Depth Range--0 to 2 meters (0 to 7 feet) below mean sea level
+Water Regime--Tidal; 3 to 5 foot flux
+Water Salinity Range--15 to 30 parts per thousand
+
+GEOGRAPHICALLY ASSOCIATED SOILS:
+These are the Bohicket, Carteret, Fort Caswell, Fort Fisher, Newhan, Prices Creek, Showboat, Sunny Point, and Yaupon soils.
+Bohicket soils--are on broad level tidal marsh flats bordering the Atlantic Ocean and formed in silty and clayey marine sediments.
+Carteret soils--are on back-barrier island tidal marshes of the Atlantic Coast and formed in sandy marine deposits.
+Fort Caswell soils--are on high-energy submerged wave-cut platforms and shoals formed in sandy estuarine deposits throughout.
+Fort Fisher soils--are in barrier coves and submerged wave-cut platforms fluctuating from low to high energy formed from sandy over loamy intermixed estuarine deposits and have lithologic discontinuities within 100 centimeters of the soil surface.
+Newhan soils--are on gently undulating dunes commonly near beaches and waterways, do not have water at or near the soil surface, and formed in sand and shelly eolian deposits along the Atlantic Coast.
+Prices Creek soils--are in lower energy estuarine tidal streams and formed in fine-loamy estuarine deposits.
+Showboat soils--are in mainland coves and estuarine tidal streams formed in coarse-loamy estuarine deposits and contain 40 centimeters of buried organic soil material within 200 centimeters of the soil surface. 
+Sunny Point soils--are on lower energy shoals and mainland coves and formed in coarse-loamy estuarine deposits and contain at least 15 centimeters of sulfidic materials within the top 50 centimeters of the soil.
+Yaupon soils--are constructed from dredge-deposit spoil on the Lower Coastal Plain and consist of fine textured soil material.
+
+DRAINAGE AND SATURATED HYDRAULIC CONDUCTIVITY:
+Drainage Class--Subaqueous (permanently submerged)
+Saturated Hydraulic Conductivity--Moderately high to high
+Soil Moisture Regime--Peraquic
+
+USE AND VEGETATION:
+Major Uses--Used for recreational boating, fishing, and swimming. Some areas are actively harvested for crabs.
+Vegetation--Extremely limited and isolated stands of shoal grass (Halodule wrightii), widgeon grass (Ruppia maritima), and Saltwater Eelgrass (Zostera marina) exist in lower energy areas with low turbidity that allow for establishment.
+
+DISTRIBUTION AND EXTENT:
+General area--Coastal plain estuaries in North Carolina
+Region--T - Atlantic and Gulf Coast Lowland Forest and Crop Region
+Extent--Small
+
+SOIL SURVEY REGIONAL OFFICE (SSRO) RESPONSIBLE: Special Projects Office
+
+SERIES ESTABLISHED: Brunswick County, North Carolina, 2024
+
+REMARKS: 
+Molasses Creek is derived from the creek adjacent to where this soil was first observed on the landward side of Oak Island, west by northwest of Oak Island Lighthouse
+
+Diagnostic horizons and other diagnostic soil characteristics recognized in this pedon are (Keys to Soil Taxonomy, Thirteenth Edition, 2022)--
+
+n-value > 0.7--0 to 197 centimeters (0 to 78 inches), placing these soils taxonomically into the Grossic Hydrowassents subgroup. 
+Reduced Matrix--0 to 197 centimeters (0 to 78 inches); soil matrix that has low chroma in situ but undergoes a change in hue or chroma within 30 minutes after the soil material has been exposed to air.
+Endosaturation--0 to 197 centimeters (0 to 78 inches) 
+Peraquic feature-Zero or positive soil water potential at the soil surface.
+
+Data Map Unit ID: 940077
+NASIS User Site and Pedon ID: S2022NC019121
+________________________________________
+National Cooperative Soil Survey
+U.S.A.
