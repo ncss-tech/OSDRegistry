@@ -2,7 +2,7 @@
 #'
 #' @param test Default: `FALSE`; run on a pair of small regions (MO 12, 13)
 #' @param port Passed to [RSelenium::rsDriver()]. Default: `4567L`.
-#' @param moID Region ID codes (Default `1:13`, or `c(12, 13)` when `test=TRUE`)
+#' @param moID Region ID codes; see default argument value in function definition for details
 #'
 #' @description Text files are written to alphabetical (first letter) folders containing raw Official Series Descriptions (OSDs). This method is for use in automatic pipeline (e.g. a GitHub action) to regularly replicate changes that occur across the entire set of series for commit.
 #'
@@ -105,9 +105,9 @@ refresh_registry <- function(
   message("Refreshing OSDs...")
 
   idx <- moID
-  
+
   # test with AK + Special Projects
-  if(test == TRUE)
+  if (isTRUE(test))
     idx <- c(36871, 44372)
 
   # iterate over MO responsible codes

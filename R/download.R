@@ -49,20 +49,36 @@
 
   if (inherits(osd_result2, 'try-error')) {
     ## small result? resubmit then try direct download
-    osd_session <- rvest::session(url1)
-    osd_query <- rvest::html_form(osd_session)[[1]]
-    osd_request1 <- rvest::html_form_set(
-      osd_query,
-      ddl_resp_mo = as.character(x),
-      estab_year1 = as.character(start_year),
-      estab_year2 = as.character(end_year)
-    )
-    osd_result1 <- rvest::session_submit(osd_session, osd_request1, "submit_query")
-    Sys.sleep(0.5)
-    osd_request2 <- rvest::html_form(osd_result1)[[1]]
-    osd_result2 <- rvest::session_submit(osd_session, osd_request2, submit = "download")
-    Sys.sleep(0.5)
-    remDr$navigate(osd_result2$url)
+    remDr$navigate(url1)
+    mo_resp <- remDr$findElement(using = "name", value = "ddl_resp_mo")
+
+    .click_options_by_value <- function(element, values) {
+      options <- element$findChildElements("tag name", "option")
+      for (i in seq(options)) {
+        option_value <- options[[i]]$getElementAttribute("value")[[1]]
+        if (option_value %in% values) {
+          print(option_value)
+          options[[i]]$clickElement()
+          return(option_value)
+        }
+      }
+    }
+
+    .click_options_by_value(mo_resp, as.character(x))
+
+    es_year1 <- remDr$findElement(using = "name", value = "estab_year1")
+    .click_options_by_value(es_year1, as.character(start_year))
+
+    es_year2 <- remDr$findElement(using = "name", value = "estab_year2")
+    .click_options_by_value(es_year2, as.character(end_year))
+
+    submit <- remDr$findElement(using = "id", value = "submit_query")
+    submit$clickElement()
+
+    Sys.sleep(5)
+
+    # cat(remDr$getPageSource()[[1]], file =  "test.txt")
+
   } else {
     ## -- STEP 2 - VIEW results (in separate window for "big" queries)
     osd_hidden_report <- rvest::html_form(osd_result2)[[1]]$fields$hidden_report_filename
@@ -76,18 +92,17 @@
     osd_result3 <- rvest::session_submit(osd_session2, osd_request3, submit = "download")
     remDr$navigate(osd_result3$url)
   }
-  
+
   file_name <- list.files(target_dir, "osddwn.*zip$")
   dfile_name <- list.files(default_dir, "osddwn.*zip$")
-  
-  webElem <- remDr$findElement("id", "download")
-  webElem$clickElement()
-  
+
+  remDr$findElement("id", "download")$clickElement()
+
   # keep track of files originally in target download folders
   orig_file_name <- file_name
   orig_dfile_name <- dfile_name
   ncycle <- 0
-  
+
   # wait for downloaded file to appear in browser download directory
   while (length(file_name) <= length(orig_file_name) &
          length(dfile_name) <= length(orig_dfile_name)) {
@@ -98,12 +113,12 @@
     if (ncycle > 480)
       break
   }
-  
+
   new_file_name <- character(0)
-  
+
   # allow download to default directory, just move to target first
   new_dfile_name <- dfile_name[!dfile_name %in% orig_dfile_name]
-  
+
   # if (length(new_dfile_name) > 0) {
   #   new_file_name <- new_dfile_name
   #   target_file_name <- file.path(target_dir, paste0(sprintf("r%s_", x), new_file_name))
@@ -118,7 +133,7 @@
   #     warning(sprintf("Failed to relocate file: %s", new_file_name))
   #   }
   # }
-  
+
   if (length(new_dfile_name) > 0 &&
       file.exists(file.path(default_dir, new_dfile_name))) {
     message(sprintf("Downloaded: %s", new_dfile_name))
