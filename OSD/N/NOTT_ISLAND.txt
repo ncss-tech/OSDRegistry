@@ -1,0 +1,142 @@
+LOCATION NOTT ISLAND            CT
+
+Established Series
+BEF-CEP-DCP
+10/2024
+
+NOTT ISLAND SERIES
+
+MLRA(s)--144A, 145
+Depth class--Very deep
+Drainage class--Subaqueous
+Water depth range--2 to 273 centimeters
+Parent material--Sandy subaqueous alluvium
+Geomorphic location--Tidal river channels, shoals, and sand bars
+Slope range--0 to 5 percent
+Mean annual air temperature--10 degrees C (50 degrees F)
+Mean annual precipitation--1295 millimeters (51 inches)
+
+TAXONOMIC CLASS: Mixed, mesic Sulfic Psammowassents
+
+TYPICAL PEDON: Nott Island sand on a tidal river channel under 76 centimeters of tidal estuarine water. Tidal range is 24 centimeters. (Colors are for moist soil unless otherwise stated).
+
+ Aseg--0 to 22 centimeters; black (10YR 2/1) loamy fine sand; single grain; nonfluid; strong reaction to 30 percent hydrogen peroxide; neutral (pH 6.8); extremely acid (pH 3.9) oxidized pH; clear boundary. (0 to 22 centimeters thick.)
+
+ ACseg--22 to 43 centimeters; 80 percent dark gray (5Y 4/1) and 20 percent black (10YR 2/1) sand; single grain; nonfluid; strong reaction to 30 percent hydrogen peroxide; slightly alkaline (pH 7.5); very strongly acid (pH 5.0) oxidized pH; clear boundary. (0 to 69 centimeters thick)
+
+ Cseg1--43 to 71 centimeters; very dark gray (5Y 3/1) sand; single grain; nonfluid; strong reaction to 30 percent hydrogen peroxide; slightly alkaline (pH 7.8); strongly acid (pH 5.4) oxidized pH; clear boundary. 
+
+ Cseg2--71 to 84 centimeters; black (10YR 2/1) sand; single grain; nonfluid; slight reaction to 30 percent hydrogen peroxide; slightly alkaline (pH 7.6); very strongly acid (pH 4.6) oxidized pH; clear boundary. 
+
+ Cseg3--84 to 101 centimeters; very dark gray (2.5Y 3/1) fine sand; single grain; nonfluid; slight reaction to 30 percent hydrogen peroxide; slightly alkaline (pH 7.7); strongly acid (pH 5.5) oxidized pH; clear boundary. 
+
+ Cseg4--101 to 128 centimeters; 80 percent black (10YR 2/1) and 20 percent dark gray (2.5Y 4/1) fine sand; massive; slightly fluid; slight reaction to 30 percent hydrogen peroxide; slightly alkaline (pH 7.8); moderately acid (pH 6.0) oxidized pH; clear boundary.
+
+ Cseg5--128 to 156 centimeters; 85 percent black (10YR 2/1) and 15 percent very dark gray (2.5Y 3/1) fine sand; single grain; nonfluid; slight reaction to 30 percent hydrogen peroxide; slightly alkaline (pH 7.7); strongly acid (pH 5.4) oxidized pH; clear boundary.
+
+ Cseg6--156 to 171 centimeters; 70 percent very dark gray (2.5Y 3/1) and 30 percent black (10YR 2/1) fine sand; single grain; nonfluid; slight reaction to 30 percent hydrogen peroxide; slightly alkaline (pH 7.5); strongly acid (pH 5.3) oxidized pH; clear boundary.
+
+ Cseg7--171 to 195 centimeters; dark gray (2.5Y 4/1) fine sand; single grain; nonfluid; slightly alkaline (pH 7.4); strongly acid (pH 5.2) oxidized pH; clear boundary.
+
+ Cseg8--195 to 219 centimeters; 60 percent very dark grayish brown (2.5Y 3/2) and 40 percent black (10YR 2/1) fine sand; single grain; nonfluid; slightly alkaline (pH 7.6); extremely acid (pH 4.3) oxidized pH. 
+
+TYPE LOCATION: New London County, Connecticut; Town of Lyme, Eastern bank of the Connecticut River, about 310 meters (1,017 feet) Northeast of Nott Island, 1,550 meters (5,085 feet) Southwest of the end of Tinker Lane, 1,400 meters (4,593 feet) East of Thatchbed Island. USGS topographic quadrangle: Old Lyme, CT.
+
+Latitude--41.350770
+Longitude-- -72.368420
+Datum--WGS84
+Coordinate source--from hand-held GPS
+
+RANGE IN CHARACTERISTICS:
+Depth to bedrock--greater than 200 centimeters
+Soil moisture--These soils are continuously inundated or exposed only during spring low tides.
+Reaction throughout--Neutral to strongly alkaline (pH 6.6 to 9.0)
+Oxidized reaction--Extremely acid to moderately alkaline (pH 3.5 to 8.4)
+Electrical conductivity (1:5 soil-water)--at least one horizon within 100 centimeters must be 0.6 dS/m or greater
+Depth to hypersulfidic / sulfidic materials (oxidized pH 4.0)--0 to 100 centimeters (must have a combined thickness of 15 centimeters or more)
+Manner of failure throughout--Nonfluid
+Gravel and / or shell fragments throughout--0 to less than 35 percent
+Total soil organic carbon stock to 200 centimeters--5 to 23 kg m-2
+
+A, Aseg, or Asegb horizon
+Hue--2.5Y to 10Y or neutral
+Value--2 to 4
+Chroma--0 to 2
+Texture--Loamy fine sand or coarser sometimes with mucky analogs
+Organic carbon density--3 to 15 kg m-3
+
+ACseg horizon (where present)
+Hue--5Y to 10YR or neutral
+Value--2 to 4
+Chroma--0 to 2
+Texture--Loamy fine sand or coarser
+Organic carbon density--3 to 15 kg m-3
+
+Cg or Cseg horizon (where present)
+Hue--5Y to 7.5YR or neutral
+Value--2 to 4
+Chroma--0 to 2
+Texture--Loamy fine sand or coarser
+Organic carbon density--1 to 21 kg m-3
+
+COMPETING SERIES: 
+These are the Duvall Creek, Nagunt, Niantic, and Noank soils.
+Duvall Creek soils--occur in sub-estuaries of the Chesapeake Bay region on wave-built terrace landforms and have thicker hypersulfidic soil materials throughout. 
+Nagunt soils--occur on washover-fan flats and slopes behind barrier beaches and islands and often have buried former surface horizons. 
+Niantic soils--occur on bay bottoms and submerged beaches or headlands and are often not near or in rivers or river channels.
+Noank soils--occur on coves in coastal estuaries and lagoons and have hypersulfidic materials deeper in their soil profiles.
+
+GEOGRAPHIC SETTING:
+Parent material--Sandy subaqueous alluvium
+Landscape--Tidal rivers
+Landform--River channels, shoals, sand bars
+Slope--0 to 5 percent 
+Mean annual precipitation--1023 to 1320 millimeters (40 to 52 inches)
+Mean annual air temperature--4 to 13 degrees C (39 to 55 degrees F)
+Water salinity range--12 to 30 parts per thousand
+Frost-free period--350 to 365 days
+
+GEOGRAPHICALLY ASSOCIATED SOILS:
+These are the Anguilla, Gillette Castle, Marshneck, Massapog, Napatree, Pishagqua, Rhodesfolly, and Thames soils.
+Anguilla soils--are on mainland cove landforms and often contain rock fragments greater than 35 percent in substratum horizons.
+Gillette Castle soils--are in tidal rivers on river channels and coves and have horizons with finer textures.
+Marshneck soils--are on flood-tidal delta slope landforms and have finer textured horizons.
+Massapog soils--are found on flood-tidal delta flats and do not have sulfidic materials within 100 centimeters of the soil surface.
+Napatree soils--are found on mainland cove areas and have finer soil textures.
+Pishagqua soils--are on lagoon bottom landforms and also have finer soil textures throughout
+Rhodesfolly soils--are on washover-fan flats and are slightly coarser textured and do not have sulfidic soil materials within 100 centimeters of the soil surface.
+Thames soils--are formed in finer textured subaqueous alluvium and estuarine deposits and found on river channels and shoals in tidal rivers/
+
+DRAINAGE AND SATURATED HYDRAULIC CONDUCTIVITY:
+Drainage class--Subaqueous
+Saturated hydraulic conductivity--Moderately high to very high
+Soil moisture regime--Peraquic
+Soil is continuously inundated by nonsaline and brackish water
+
+USE AND VEGETATION:
+Major uses--The area is used for recreational fishing and swimming. Commercial uses include shell fishing and aquaculture.
+Native vegetation--Native vegetation includes eelgrass (Zostera marina) and widgeon grass (Ruppia maritma). Vegetation cover ranges from 0 in shallow and intertidal flats through 80 percent on the flat and sloping units of this soil. This soil supports benthic fauna such as tubeworms, clams, juvenile blue crabs, scallops and juvenile finfish.
+
+DISTRIBUTION AND EXTENT:
+General area--These soils are located in tidal rivers along the Connecticut coast.
+Land Resource Regions--R - Northeastern Forage and Forest Region 
+MLRA(s)--144A, 145 
+Extent--Small
+
+SOIL SURVEY REGIONAL OFFICE (SSRO) RESPONSIBLE: Special Projects Office
+
+SERIES ESTABLISHED: New London County, Connecticut, 2024.
+
+REMARKS: This subaqueous series is mapped in areas previously mapped as water in the Connecticut Soil Surveys.
+
+Diagnostic horizons and features in this pedon include-
+Peraquic feature--The zone from 0 to 200 centimeters has positive soil water potential (permanently submerged) at the soil surface (under 76 centimeters of salt water).
+Particle-size control section--The zone from 0 to 100 centimeters (0 to 40 inches).
+Ochric epipedon--0 to 22 centimeters (Aseg horizon).
+Sulfidic soil materials--within 100 centimeters of the mineral soil surface, 0 to 22 centimeters (Aseg horizon).
+
+ADDITIONAL DATA:
+This pedon was sampled as S2022CT011111 by the University of Rhode Island. Support pedons used to develop this series S2022CT001011, S2022CT007012, S2022CT009095, S2022CT009097, S2022CT009104, S2022CT011085, S2022CT011117.
+________________________________________
+National Cooperative Soil Survey
+U.S.A.

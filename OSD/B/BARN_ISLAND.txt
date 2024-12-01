@@ -1,8 +1,8 @@
 LOCATION BARN ISLAND            CT
 
-Tentative Series
+Established Series
 BEF-CEP-DCP
-03/2024
+10/2024
 
 BARN ISLAND SERIES
 
@@ -20,15 +20,15 @@ TAXONOMIC CLASS: Loamy, mixed, euic, mesic Terric Sulfisaprists
 
 TYPICAL PEDON: Barn island mucky peat on a linear, zero percent slope in a tidal marsh. (Colors are for moist soil unless otherwise noted).
 
- Oese--0 to 32 centimeters (0.0 to 12.6 inches); very dark brown (10YR 2/2) mucky peat; many very fine to medium roots throughout; 80 percent unrubbed plant fiber, 40 percent rubbed plant fiber; H5 von Post humification scale; slight sulfurous odor; neutral (xxx); xxx acid (xxx) oxidized pH; clear boundary. (10 to 50 centimeters thick)
+ Oese--0 to 32 centimeters (0.0 to 12.6 inches); very dark brown (10YR 2/2) mucky peat; many very fine to medium roots throughout; 80 percent unrubbed plant fiber, 40 percent rubbed plant fiber; H5 von Post humification scale; slight sulfurous odor; moderately acid (pH 5.6), extremely acid (pH 4.0) oxidized pH; clear boundary. (10 to 50 centimeters thick)
 
- Oase--32 to 96 centimeters (12.6 to 37.8 inches); very dark brown (10YR 2/2) muck; common very fine to medium roots throughout; 25 percent unrubbed plant fiber, 12 percent rubbed plant fiber fragments; H8 von Post humification scale slight sulfurous odor; neutral (xxx); xxx acid (xxx) oxidized pH; gradual boundary. (hemic material is 20 to 90 centimeters thick, combined thickness of organic horizons is 40 to 130 centimeters)
+ Oase--32 to 96 centimeters (12.6 to 37.8 inches); very dark brown (10YR 2/2) muck; common very fine to medium roots throughout; 25 percent unrubbed plant fiber, 12 percent rubbed plant fiber fragments; H8 von Post humification scale slight sulfurous odor; strongly acid (pH 5.3), slightly acid (pH 6.1) oxidized pH; gradual boundary. (hemic material is 20 to 90 centimeters thick, combined thickness of organic horizons is 40 to 130 centimeters)
 
- Aseg--96 to 112 centimeters (37.8 to 44.1 inches); black (N 2.5/), silt loam; structureless, massive; nonsticky, nonplastic; very fluid; few very fine roots throughout; slight sulfurous odor; neutral (xxx); xxx acid (xxx) oxidized pH; clear boundary.
+ Aseg--96 to 112 centimeters (37.8 to 44.1 inches); black (N 2.5/), silt loam; structureless, massive; nonsticky, nonplastic; very fluid; few very fine roots throughout; slight sulfurous odor; strongly acid (pH 5.4), moderately acid (pH 5.6) oxidized pH; clear boundary.
 
- ACseg--112 to 129 centimeters (44.1 to 50.8 inches); 90 percent very dark gray (5Y 3/1) and 10 percent greenish gray (10Y 5/1) fine sandy loam; structureless, massive; nonsticky, nonplastic; slightly fluid; slight sulfurous odor; neutral (xxx); xxx acid (xxx) oxidized pH; clear boundary.
+ ACseg--112 to 129 centimeters (44.1 to 50.8 inches); 90 percent very dark gray (5Y 3/1) and 10 percent greenish gray (10Y 5/1) fine sandy loam; structureless, massive; nonsticky, nonplastic; slightly fluid; slight sulfurous odor; extremely acid (pH 3.8), very strongly acid (pH 4.9) oxidized pH; clear boundary.
 
- 2Cg--129 to 200 centimeters (50.8 to 72.0 inches); greenish gray (10Y 5/1) fine sand; structureless, single grain; nonsticky, nonplastic, nonfluid; neutral (xxx); xxx acid (xxx) oxidized pH.
+ 2Cg--129 to 200 centimeters (50.8 to 72.0 inches); greenish gray (10Y 5/1) fine sand; structureless, single grain; nonsticky, nonplastic, nonfluid; strongly acid (pH 5.2), extremely acid (pH 4.4) oxidized pH.
 
 TYPE LOCATION: New London County, Town of Stonington, Connecticut; Barn Island Wildlife Management Area, approximately 2,100 feet north of Barn Island Boat Ramp, and 450 feet East of Palmer Neck Road in a tidal marsh. USGS topographic quadrangle: Mystic, CT.
 
@@ -40,19 +40,19 @@ Coordinates source--from hand-held GPS
 RANGE IN CHARACTERISTICS:
 Depth to bedrock--Greater than 200 centimeters
 Soil moisture--Saturated; peraquic moisture regime
-Reaction throughout--Slightly acid to moderately alkaline
-Oxidized reaction--Ultra acid or extremely acid in the organic horizons, and extremely acid to moderately acid in the mineral substrate
+Reaction throughout--Extremely acid to moderately alkaline (pH 3.5 to 6.0)
+Oxidized reaction--Extremely acid to slightly acid (pH 3.5 to 6.5)
 Electrical Conductivity (EC 1:5 water)--Greater than 0.6 dS/m  throughout
 Depth to hypersulfidic materials (incubated pH 4.0 or less)--0 to 50 centimeters
 Coarse fragments--0 to 50 percent fine and medium gravels, and/or 0 to 10 percent fine and medium shells in the underlying mineral horizons
-Coastal Blue Carbon density range--from XXXX in the organic horizons to XXXX in the mineral substrate. Barn island soils can often average XXXX mega grams of coastal blue carbon per hectare to a 2 meter depth.   
+Total Soil Organic Carbon Stock--45 to 56 kg m-2   
 
 Oa, Oase, Oe, Oese, Oi, or Oise horizons (Oase horizons often dominate the surface and subsurface tiers, other types of O horizons are thin or absent) 
 Hue--7.5YR, 10YR, 2.5Y, 5Y, or N
 Value--2 to 4
 Chroma--0 to 3
 Texture--muck, mucky peat, or peat
-Organic matter content--20 percent or more
+Horizon Organic Carbon Density--13 to 59 kg m-3
 Von Post Scale of Humification - typically ranges from H7 to H10
 
 Aseg or ACseg horizon (where present)
@@ -61,14 +61,14 @@ Value--2 to 3
 Chroma--0 to 2
 Texture--Silt loam, very fine sandy loam, fine sandy loam, sandy loam, coarse sandy loam including mucky analogues.
 Manner of failure/fluidity class--slightly fluid to moderately fluid
-Organic matter content--less than 20 percent
+Horizon Organic Carbon Density--19 to 66 kg m-3
 
 2Cseg or 2Cg horizon (where present)
 Hue--2.5Y, 5Y, 10Y, or N
 Value--2.5 to 5
 Chroma--0 to 3
 Texture--ranges from coarse sand to silty clay loam, coarser textures are typically below 130 centimeters in glacial deposits.
-Organic matter content--less than 20 percent
+Horizon Organic Carbon Density--18 to 57 kg m-3
 Clay content--5 to 25 percent
 Manner of failure / fluidity class--nonfluid to very fluid
 
@@ -109,7 +109,7 @@ Land Resource Regions--R - Northeastern Forage and Forest Region
 MLRA(s)--144A, 145
 Extent--Small
 
-SOIL SURVEY REGIONAL OFFICE (SSRO) RESPONSIBLE: Amherst, Massachusetts
+SOIL SURVEY REGIONAL OFFICE (SSRO) RESPONSIBLE: SPECIAL PROJECTS OFFICE
 
 SERIES ESTABLISHED: New London County, Connecticut, 2024.
 

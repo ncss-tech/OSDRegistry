@@ -1,0 +1,129 @@
+LOCATION NIANTIC                CT
+
+Established Series
+Revised CEP-BEF-DCP
+10/2024
+
+NIANTIC SERIES
+
+MLRA(s)--144A, 145
+Depth class--Very deep
+Drainage Class--Subaqueous
+Water Depth Range--2 to 252 centimeters
+Parent material--Sandy marine deposits
+Geomorphic location--Submerged mainland beaches, bay bottoms, and shore faces within bays and sounds
+Slope range for series--0 to 3 percent
+Mean annual air temperature--10 degrees C (50 degrees F)
+Mean annual precipitation--1295 millimeters (51 inches)
+
+TAXONOMIC CLASS: Mixed, mesic Sulfic Psammowassents
+
+TYPICAL PEDON: Niantic sand on a west facing, linear, 1 percent slope on a bay bottom under 2 meters of estuarine water. Tidal range is 280 centimeters. (Colors are for moist soil unless otherwise noted).
+
+ Cseg1--0 to 12 centimeters; dark gray (5Y 4/1) sand; single grain; nonfluid, nonsticky, nonplastic; slight effervescence with 30 percent hydrogen peroxide; slightly alkaline (pH 7.6), ultra acid (pH 3.3) oxidized pH; clear boundary. 
+
+ Cseg2--12 to 37 centimeters; dark gray (5Y 4/1) sand; single grain; nonfluid, nonsticky, nonplastic; slight effervescence with 30 percent hydrogen peroxide; slightly alkaline (pH 7.6), ultra acid (pH 3.0) oxidized pH; gradual boundary.
+
+ Cseg3--37 to 98 centimeters; dark gray (5Y 4/1) sand; single grain; nonfluid, nonsticky, nonplastic; slight effervescence with 30 percent hydrogen peroxide; slightly alkaline (pH 7.4), ultra acid (pH 3.3) oxidized pH; clear boundary.
+
+ Cseg4--98 to 120 centimeters; dark gray (5Y 4/1) coarse sand; single grain; nonfluid, nonsticky, nonplastic; slight effervescence with 30 percent hydrogen peroxide; neutral (pH 7.3), ultra acid (pH 3.0) oxidized pH; clear boundary.
+
+ Cseg5--120 to 158 centimeters; dark gray (5Y 4/1) loamy very fine sand; single grain; nonfluid, nonsticky, nonplastic; 3 percent medium wood fragments; slight effervescence with 30 percent hydrogen peroxide; slightly alkaline (pH 7.4), extremely acid (pH 4.4) oxidized pH; abrupt boundary.
+
+ Cseg6--158 to 176 centimeters; very dark gray (5Y 3/1) coarse sand; single grain; nonfluid, nonsticky, nonplastic; slight effervescence with 30 percent hydrogen peroxide; slightly alkaline (pH 7.5), extremely acid (pH 3.7) oxidized pH; abrupt boundary.
+
+ Cseg7--176 to 200 centimeters; dark gray (5Y 4/1) loamy fine sand; single grain; nonfluid, nonsticky, nonplastic; slight effervescence with 30 percent hydrogen peroxide; neutral (pH 7.1), very strongly acid (pH 4.8) oxidized pH. 
+
+TYPE LOCATION: Fairfield County, Connecticut; Black Rock Harbor, about 215 meters (705 feet) south-southwest from the Barnum Boulevard boat ramp and 430 meters (1,411 feet) southeast from the intersections of Seaview Terrace and Seabright Avenue. USGS topographic quadrangle: Bridgeport, CT
+
+Latitude--41.1504444
+Longitude-- -73.2174167
+Datum--WGS84
+Coordinates source--from hand-held GPS
+
+RANGE IN CHARACTERISTICS:
+Depth to bedrock--Greater than 200 centimeters
+Soil moisture--These soils are continuously inundated
+Reaction throughout--Neutral to strongly alkaline (pH 6.6 to 9.0)
+Oxidized reaction--Ultra acid to moderately alkaline (pH <3.5 to 8.4)
+Electrical conductivity (EC 1:5 water)--Greater than 0.6 dS/m throughout
+Depth to hypersulfidic materials (incubated pH 4.0)--0 to 50 centimeters
+Shell fragments--0 to 50 percent, by volume 
+Coarse fragments--0 to 70 percent gravels, by volume
+Total soil organic carbon stocks to 200 centimeters--1 to 31 kg m-2
+
+Aseg or ACseg horizon (where present)
+Hue--10YR, 5Y, or N
+Value--2 to 4
+Chroma--0 or 1
+Texture--sand; range includes coarse sand through loamy sand
+Manner of failure / fluidity class--nonfluid
+Shell fragments--0 to 25 percent, by volume
+Coarse fragments--0 to 20 percent, by volume
+Organic carbon density--3 to 26 kg m-3
+
+Cseg, Cg, C'seg, or C'g horizon
+Hue-2.5Y, 5Y, 10Y, or N
+Value-2.5 to 5
+Chroma-0 to 4
+Texture--sand; range includes coarse sand through loamy very fine sand
+Manner of failure / fluidity class--nonfluid
+Organic carbon density--0.2 to 33 kg m-3
+
+COMPETING SERIES:
+These are Nagunt, Noank, and Nott Island.
+Nagunt soils--are found on washover-fan flats and washover-fan slopes behind barrier beaches and islands in coastal lagoons and estuaries
+Noank soils--are found in protected coves in coastal estuaries, bays, and lagoons
+Nott Island soils--are found on river channels, shoals, and sand bars in tidal rivers
+
+GEOGRAPHIC SETTING:
+Parent material--Sandy marine deposits
+Landscape--Bays and sounds
+Landform--Submerged mainland beaches, bay bottoms, and shore faces
+Slope--0 to 3 percent
+Mean annual precipitation--1023 to 1320 millimeters (40 to 52 inches)
+Mean annual air temperature--4 to 13 degrees C (39 to 55 degrees F)
+Water salinity range--12 to 30 parts per thousand
+Frost-free period--350 to 365 days
+
+GEOGRAPHICALLY ASSOCIATED SOILS:
+These are Anguilla, Fort Neck, Napatree, Pishagqua, Southpoint, and Wequetequock soils.
+Anguilla soils--are on submerged mainland beaches and mainland coves and can have finer textured materials
+Fort Neck soils--have an n-value of 0.7 or less in some horizon at a depth between 20 and 50 cm below the mineral soil surface, have finer textured soil materials and do not contain organic soil materials
+Napatree soils--are on submerged headlands and submerged mainland beaches, have sandy textures in the upper part, finer textured materials in the lower part, and lack hypersulfidic materials
+Pishagqua soils--are in low-energy lagoon bottoms and often have silt loam or silty clay loam textures throughout
+Wequetequock soils--have slightly finer textures and have organic horizons within 200 centimeters of the soil surface.
+
+DRAINAGE AND SATURATED HYDRAULIC CONDUCTIVITY:
+Drainage class--Subaqueous
+Saturated hydraulic conductivity--High or very high
+Soil moisture regime--Peraquic
+Soil is continuously inundated with salt or brackish water.
+
+USE AND VEGETATION:
+Major uses--Areas of this soil are used for recreational fishing and swimming. Commercial uses include shell fishing and aquaculture. Wildlife use and benthic fauna associated with this soil includes tubeworms, clams, juvenile blue crabs, scallops, and juvenile finfish.
+Native vegetation--Eelgrass (Zostera marina) and widgeon grass (Ruppia maritima) may occur on these soils.
+
+DISTRIBUTION AND EXTENT:
+General area--These soils are located along the Connecticut coast of Long Island Sound.
+Land Resource Regions--R - Northeastern Forage and Forest Region
+MLRA(s)--144A and 145
+Extent--Small
+
+SOIL SURVEY REGIONAL OFFICE (SSRO) RESPONSIBLE: Special Projects Office
+
+SERIES ESTABLISHED: Fairfield County, Connecticut, 2024.
+
+REMARKS: This subaqueous series is mapped in areas previously published as water in the soil survey publications of Connecticut.
+
+Diagnostic horizons and features in this pedon include--
+Peraquic feature--Positive soil water potential (permanently submerged) at the soil surface. (under 2 meters of salt water).
+Particle-size control section--The zone from 0 to 100 centimeters (0 to 40 inches).
+Hypersulfidic materials--The zone from 0 to 200 centimeters (Cseg horizons) have oxidized reactions with pH values less than 4 after 16 weeks.
+Taxonomic version--Keys to Soil Taxonomy, 13th edition (2022)
+
+ADDITIONAL DATA: Type location taken from S2023CT001082 in Black Rock Harbor, CT.
+Additional support pedons used to develop this series include S2022CT001001, S2022CT001005, S2022CT011029, S2023CT001008, S2023CT001010, 2023CT001016.
+________________________________________
+National Cooperative Soil Survey
+U.S.A.

@@ -1,0 +1,134 @@
+LOCATION GILLETTE CASTLE        CT
+
+Established Series
+BEF-CEP-DCP
+10/2024
+
+GILLETTE CASTLE SERIES
+
+MLRA(s)--144A
+Depth class--Very deep
+Drainage class--Subaqueous
+Water depth range--2 to 273 centimeters
+Parent material--Loamy over sandy subaqueous alluvium
+Geomorphic location--Tidal river channels and coves
+Slope range--0 to 3 percent
+Mean annual air temperature--10 degrees C (50 degrees F)
+Mean annual precipitation--1295 millimeters (51 inches)
+
+TAXONOMIC CLASS: Loamy-skeletal over sandy or sandy-skeletal, mixed, superactive, nonacid, mesic Fluventic Frasiwassents
+
+TYPICAL PEDON: Gillette Castle loamy sand on a tidal river channel under 174 centimeters of tidal riverine water. Tidal range is 60 centimeters. (Colors are for moist soil unless otherwise stated).
+
+ Aseg1--0 to 10 centimeters; very dark gray (2.5Y 3/1) loamy sand; single grain; moderately fluid; nonsaline; 10 percent wood fragments; common very fine roots throughout; slightly acid (pH 6.1); extremely acid (pH 3.9) oxidized pH; abrupt boundary.
+
+ Aseg2--10 to 40 centimeters; very dark brown (10YR 2/2) mucky woody loam; massive; moderately fluid; nonsaline; 20 percent wood fragments; 10 percent plant and macroalgal fragments; common fine roots throughout; slightly acid (pH 6.4); neutral (pH 6.9) oxidized pH; clear boundary.
+
+ Aseg3--40 to 62 centimeters; very dark brown (10YR 2/2) loamy fine sand; single grain; moderately fluid; nonsaline; 2 percent wood fragments; few fine roots throughout; neutral (pH 6.6); extremely acid (pH 3.8) oxidized pH; clear boundary. (Combined thickness of Aseg horizons is 0 to 62 centimeters.)
+
+ Cseg1--62 to 95 centimeters; very dark gray (10YR 3/1) woody sand; single grain; slightly fluid; nonsaline; 25 percent wood fragments; 10 percent fine gravels; slightly acid (pH 6.3); ultra acid (pH 3.3) oxidized pH; clear boundary. 
+
+ Cseg2--95 to 115 centimeters; very dark grayish brown (2.5Y 3/2) sand; single grain; nonfluid; nonsaline; 2 percent wood fragments; slightly acid (pH 6.5); ultra acid (pH 3.2) oxidized pH; clear boundary. 
+
+ Cseg3--115 to 135 centimeters; very dark gray (2.5Y 3/1) coarse sand; single grain; nonfluid; nonsaline; 2 percent wood fragments; 2 percent fine gravels; slightly acid (pH 6.3); extremely acid (pH 3.5) oxidized pH; clear boundary. 
+
+ Cseg4--135 to 200 centimeters; very dark grayish brown (2.5Y 3/2) coarse sand; single grain; nonfluid; nonsaline; 10 percent wood fragments; 1 percent fine gravels; neutral (pH 6.7); extremely acid (pH 3.7) oxidized pH.
+
+TYPE LOCATION: New London County, Connecticut; Town of Old Lyme, Eastern side of the Connecticut River, approximately 549 meters (1,800 feet) southwest of the intersection of Oakland Avenue and Cove Road and 1,128 meters (3,700 feet) north of Elys Ferry Road; USGS topographic quadrangle: Hamburg, CT.
+
+Latitude--41.3794444
+Longitude-- -72.3581944
+Datum--WGS84
+Coordinate source--from hand-held GPS
+
+RANGE IN CHARACTERISTICS:
+Depth to bedrock--Greater than 200 centimeters
+Soil moisture--These soils are continuously inundated
+Reaction throughout--Slightly acid to neutral (pH 6.1 to 7.1)
+Oxidized reaction-- Ultra acid to slightly alkaline (pH 3.3 to 7.4)
+Electrical conductivity (1:5 soil-water, throughout--less than 0.6 dS/m
+Manner of failure--nonfluid to moderately fluid for all horizons
+Total Soil Organic Carbon Stock to 200 centimeters--24 to 40 kg/m2
+
+Aseg, Asegb, or Agb horizons (where present)
+Hue--10YR to 5Y or neutral
+Value--2 to 3
+Chroma--0 to 2
+Texture--silt loam, loam, fine sandy loam, loamy fine sand or coarser sometimes with mucky analogs
+Wood fragments--0 to 20 percent
+Shell fragments--0 to 2 percent
+Rock fragments--0 to 1 percent
+Organic carbon density--22 to 45 kg/m3
+
+Cseg or Cg horizons (where present)
+Hue--2.5Y to 5Y or neutral
+Value--3 to 4
+Chroma--2 to 3
+Texture-- silt loam, fine sandy loamy, sandy loam, and loamy fine sand or coarser sometimes with mucky analogs
+Wood fragments--0 to 25 percent
+Rock fragments--0 to 75 percent
+Organic carbon density--0.01 to 73 kg/m3
+
+ACseg or A/Cseg horizons (where present)
+Hue--2.5Y to 5Y
+Value--2.5 to 3
+Chroma--0 to 1
+Texture--fine sandy loam, vfs or coarser sometimes with mucky analogs
+Wood fragments--0 to 8 percent
+Rock fragments--0 to 4 percent
+Organic carbon density--15 to 73 kg/m3
+
+COMPETING SERIES: There are no competing soil series.
+ 
+GEOGRAPHIC SETTING:
+Parent material--Loamy over sandy subaqueous alluvium
+Landscape--Tidal rivers
+Landform--Tidal river channels and river coves
+Slope--0 to 3 percent 
+Mean annual precipitation--1023 to 1320 millimeters (40 to 52 inches)
+Mean annual air temperature--4 to 13 degrees C (39 to 55 degrees F)
+Water salinity range--0 to 18 ppt
+Frost-free period--350 to 365 days
+
+GEOGRAPHICALLY ASSOCIATED SOILS: These are the Gales Ferry, Naugatuck, Nott Island, Pishagqua, and Thames soils.
+Gales Ferry soils--are on tidal creeks and tidal river channels with silt loam or finer textures and have hypersulfidic soil materials
+Naugatuck soils--are sandy soils throughout and found on river channels, shoals, and point bars
+Nott Island soils--are sandy soils throughout; found on river channels, shoals, and sand bars; have hypersulfidic soil materials; and have electrical conductivity (1:5 soil-water) of greater than 0.6 dS/m in at least one horizon within 100 centimeters from the mineral soil surface.
+Pishagqua soils--are on lagoon bottom and mainland cove landforms and have very fine sandy loam textures or finer throughout
+Thames soils--are on tidal river channels and shoals with coarse-loamy textures and contain hypersulfidic soil materials
+
+DRAINAGE AND SATURATED HYDRAULIC CONDUCTIVITY:
+Drainage class--Subaqueous
+Saturated hydraulic conductivity--Moderately high to very high
+Soil moisture regime--Peraquic
+Soil is continuously inundated by fresh or brackish water
+
+USE AND VEGETATION:
+Major uses--The area is used for recreational fishing and swimming. Commercial uses include shell fishing and aquaculture.
+Native vegetation--White Water-Lily (Nymphaea odorata), Claspingleaf Pondweed (Potamogeton perfoliatus), Horned Pondweed (Zannichellia palustris). Vegetation cover ranges from 0 through 80 percent on the flat and sloping units of this soil.
+
+DISTRIBUTION AND EXTENT:
+General area--These soils are located along the Connecticut coast in tidal rivers
+Land Resource Regions--R - Northeastern Forage and Forest Region
+MLRA(s)--144A
+Extent--Small
+
+SOIL SURVEY REGIONAL OFFICE (SSRO) RESPONSIBLE: Special Projects Region
+
+SERIES ESTABLISHED: New London County, Connecticut, 2024.
+
+REMARKS: This subaqueous series is mapped in areas previously mapped as water in the state of Connecticut.
+
+Diagnostic horizons and features in this pedon include-
+Peraquic feature--The zone from 0 to 200 centimeters has positive soil water potential (permanently submerged) at the soil surface (under 1.74 meters of freshwater).
+Particle--size control section--The zone from 0 to 100 centimeters (0 to 40 inches) is loamy over sandy or sandy-skeletal.
+Frasiwassents- taxonomic great group--electrical conductivity (EC1:5) is less than 0.6 dS/m throughout.
+Ochric epipedon--0 to 62 centimeters (Aseg1, Aseg2, and Aseg3 horizons).
+Sulfidic soil materials--within 100 centimeters of the mineral soil surface, 0 to 10 centimeters and 40 to 200 centimeters (Aseg1, Aseg3 and Cseg horizons).
+
+ADDITIONAL DATA:
+This pedon was sampled as S2022CT011105 by the University of Rhode Island. Support pedons used to develop this series are S2022CT001015 and S2022CT001017.
+
+________________________________________
+National Cooperative Soil Survey
+U.S.A.

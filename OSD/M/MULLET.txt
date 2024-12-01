@@ -1,8 +1,8 @@
 LOCATION MULLET                 FL
 
-Tentative Series
-RBT
-02/2024
+Established Series
+RBT-ARW
+10/2024
 
 MULLET SERIES
 
@@ -12,32 +12,34 @@ Drainage class--Subaqueous
 Water depth range--70 to 150 centimeters (a few sites have deeper water over the soil surface up to 300 centimeters)
 Parent material--Sandy lagoonal deposits
 Geomorphic location--Washover-fan flats and slopes
+Soil Organic Carbon Stock to 200 centimeters--39.3 kg m-2
 Slope range for Series--0 to 1 percent
-Mean annual air temperature--22 degrees C (71.6 degrees F)
-Mean annual precipitation--1300 millimeters (51.1 inches)
-Mean annual water temperature--24.7 degrees C (76.6 degrees F)
+Mean annual air temperature--22 degrees C (72 degrees F)
+Mean annual precipitation--1300 millimeters (51 inches)
+Mean annual water temperature--25 degrees C (77 degrees F)
 
 TAXONOMIC CLASS: Siliceous, hyperthermic Fluventic Psammowassents
 
 TYPICAL PEDON: Mullet sand on an east facing, 0 percent linear slope bare sand washover-fan flat under 0.91 meters of estuarine water. Tidal range is 24 cm. (Colors are for moist soil unless otherwise noted).
 
- Aseg--0 to 9 centimeters; dark greenish gray (5GY 4/1) shelly loamy fine sand; single grain; slightly sticky, nonplastic; nonfluid; few fine roots at the top of the horizon; 20 percent shell fragments; strong sulfurous odor; moderately alkaline (pH 8.2); clear boundary. (0 to 17 centimeters thick)
+ Aseg--0 to 9 centimeters; dark greenish gray (5GY 4/1) shelly loamy fine sand; single grain; slightly sticky, nonplastic; nonfluid; few fine roots at the top of the horizon; 20 percent shell fragments; strong sulfurous odor; moderately alkaline (pH 8.2); moderately alkaline (pH 8.3) oxidized pH; 0.4 kg m-3 soil organic carbon; clear boundary. (0 to 17 centimeters thick)
 
- Cseg1--9 to 54 centimeters; dark greenish gray (5GY 4/1) shelly loamy fine sand; single grain; slightly sticky, nonplastic; nonfluid; 30 percent shell fragments; slight sulfurous odor; moderately alkaline, (pH 8.4); abrupt boundary.
+ Cseg1--9 to 54 centimeters; dark greenish gray (5GY 4/1) shelly loamy fine sand; single grain; slightly sticky, nonplastic; nonfluid; 30 percent shell fragments; slight sulfurous odor; moderately alkaline, (pH 8.4); moderately alkaline, (pH 8.4) oxidized pH; 7.3 kg m-3 soil organic carbon; abrupt boundary.
 
- Cseg2--54 to 93 centimeters; greenish gray (5GY 6/1) loamy fine sand; single grain; slightly sticky, nonplastic; slightly fluid; 1 percent shell fragments; slight sulfurous odor; moderately alkaline, (pH 8.4); gradual boundary.
+ Cseg2--54 to 93 centimeters; greenish gray (5GY 6/1) loamy fine sand; single grain; slightly sticky, nonplastic; slightly fluid; 1 percent shell fragments; slight sulfurous odor; moderately alkaline, (pH 8.4); moderately alkaline, (pH 8.4) oxidized pH; 8.9 kg m-3 soil organic carbon; gradual boundary.
 
- Cseg3--93 to 102 centimeters; greenish gray (10Y 5/1) loamy fine sand; single grain; slightly sticky, nonplastic; nonfluid; moderate sulfurous odor; strongly alkaline, (pH 8.5); clear boundary.
+ Cseg3--93 to 102 centimeters; greenish gray (10Y 5/1) loamy fine sand; single grain; slightly sticky, nonplastic; nonfluid; moderate sulfurous odor; strongly alkaline, (pH 8.5); moderately alkaline, (pH 8.2) oxidized pH; 2.1 kg m-3 soil organic carbon; clear boundary.
 
  Cseg4--102 to 152 centimeters; greenish gray (10GY 5/1) loamy fine sand; single grain; slightly sticky, nonplastic; nonfluid; 3 percent shell fragments; slight sulfurous odor; strongly alkaline, (pH 8.6); clear boundary.
 
- Cseg5--152 to 159 centimeters; greenish gray (5GY 5/1) silt loam; massive; slightly sticky, nonplastic; slightly fluid; 3 percent shell fragments; slight sulfurous odor; strongly alkaline, (pH 8.5); clear boundary.
+ Cseg5--152 to 159 centimeters; greenish gray (5GY 5/1) silt loam; massive; slightly sticky, nonplastic; slightly fluid; 3 percent shell fragments; slight sulfurous odor; strongly alkaline, (pH 8.5); 11.1 kg m-3 soil organic carbon; clear boundary.
 
- Cseg6--159 to 175 centimeters; greenish gray (5GY 5/1) fine sand; single grain; nonsticky, nonplastic; nonfluid; 3 percent shell fragments; slight sulfurous odor; strongly alkaline, (pH 8.5); clear boundary.
+ Cseg6--159 to 175 centimeters; greenish gray (5GY 5/1) fine sand; single grain; nonsticky, nonplastic; nonfluid; 3 percent shell fragments; slight sulfurous odor; strongly alkaline, (pH 8.5); moderately alkaline, (pH 8.4) oxidized pH; 1.6 kg m-3 soil organic carbon; clear boundary.
 
- Cseg7--175 to 193 centimeters; dark greenish gray (10GY 4/1) fine sand; single grain; nonsticky, nonplastic; nonfluid; 2 percent shell fragments; no sulfurous odor; moderately alkaline, (pH 8.3).
+ Cseg7--175 to 193 centimeters; dark greenish gray (10GY 4/1) fine sand; single grain; nonsticky, nonplastic; nonfluid; 2 percent shell fragments; no sulfurous odor; moderately alkaline, (pH 8.3); moderately alkaline, (pH 8.4) oxidized pH; 3.6 kg m-3 soil organic carbon.
 
-TYPE LOCATION: Brevard County, Florida; approximately 4,021 feet northwest of the Delta Operations Center at the Kennedy Space Center facility and approximately 553 feet west of Titan III Road on the back side of the Cape Canaveral Space Force Station; USGS topographic quadrangle: False Cape, Florida.
+TYPE LOCATION: Brevard County, Florida; approximately 1,226 meters (4,021 feet) northwest of the Delta Operations Center at the Kennedy Space Center facility and approximately 169 meters (553 feet) west of Titan III Road on the back side of the Cape Canaveral Space Force Station; USGS topographic quadrangle: False Cape, Florida.
+
 Latitude--28.5115440
 Longitude-- -80.5853876
 Datum--WGS84
@@ -48,29 +50,32 @@ Depth to bedrock--Greater than 200 centimeters
 Particle--size control section--Sandy with some C horizons with considerable shell fragments
 Soil moisture--Continuously inundated
 Reaction throughout--Slightly alkaline to strongly alkaline (pH 7.4 to 9.0)
-Oxidized reaction--?
+Oxidized reaction--Slightly acid to strongly alkaline (pH 6.1 to 9.0)
 Electrical conductivity (1:5 soil-water) throughout--0.6 dS/m or greater
-Depth to sulfidic materials (oxidized pH4.0)--?
 Manner of failure--Nonfluid throughout
 Shell fragments throughout--0 to 75 percent (few horizons have 0 percent shell fragments)
+Total Soil Organic Carbon Stock to 200 centimeters--19.1 to 47.7 kg m-2
 
-Aseg horizon, where present-
+Aseg horizon (where present)-
 Hue--10Y, 5GY or is neutral
 Value--3 to 4
 Chroma--1 or less
 Texture--Sand, loamy fine sand, or fine sandy loam (fine sandy loam pedons require the soil to be a taxadjunct) with shelly analogs
+Organic carbon density--0.3 to 1.1 kg m-3
 
 Cseg horizon-
 Hue--2.5Y, 5Y, 10Y, 5GY, 5G, 10GY, or is neutral
 Value--3 to 8
 Chroma--2 or less
 Textures--Fine sand, sand, coarse sand, loamy sand, or loamy fine sand with shelly, very shelly, or extremely shelly analogs (very shelly and extremely shelly occurrences require the soil to be a taxadjunct)
+Organic carbon density--0.7 to 13.2 kg m-3
 
-Asegb horizon, where present-
+Asegb horizon (where present)-
 Hue--2.5Y to 10Y
 Value--2.5 to 3
 Chroma--1 or 2
 Texture--Sand or loamy sand
+Organic carbon density--0.3 to 5.0 kg m-3
 
 Thin strata of finer material are found in some pedons which put some sites into a different taxonomic great group. 
 
@@ -101,7 +106,7 @@ Soil is continuously inundated by saline and brackish water.
 
 USE AND VEGETATION:
 Major uses--Used for recreational boating, fishing, and swimming, marinas, mooring fields, and commercial shellfish harvesting; benthic species include tubeworms, clams, crabs, scallops and juvenile finfish 
-Native vegetation-- Dominant vegetation is driven by water quality and quantity within subaqueous systems. Under excellent water quality these soils support seagrass species including but not limited to shoalweed (Halodule wrightii), manatee grass (Syringodium filiforme), and Englemann's seagrass (Halophila englemannii). Shallower areas may support widgeongrass (Ruppia maritima). Under degraded / poor water quality seagrass may be replaced by rooted eukaryotic macroalgae in the green (Chlorophyta), red (Rhodophyta), and brown (Phaeophyta) algae families. Caulerpa prolifera (Chlorophyta) is often dominant. Vegetative cover ranges from 0 through 80 percent.
+Native vegetation-- Dominant vegetation is driven by water quality and quantity within subaqueous systems. Under excellent water quality these soils support seagrass species including but not limited to shoal grass (Halodule wrightii), manatee grass (Syringodium filiforme), and star grass (Halophila engelmannii). Shallower areas may support widgeongrass (Ruppia maritima). Under degraded / poor water quality seagrass may be replaced by rooted eukaryotic macroalgae in the green (Chlorophyta), red (Rhodophyta), and brown (Phaeophyta) algae families. Caulerpa prolifera (Chlorophyta) is often dominant. Vegetative cover ranges from 0 through 80 percent.
 
 DISTRIBUTION AND EXTENT: 
 General area--Located along the coasts of Indian River Lagoon, Florida
@@ -109,7 +114,7 @@ Land Resource Regions--U - Florida Subtropical Fruit, Truck Crop, and Range Regi
 MLRA(s)--155
 Extent--Small
 
-SOIL SURVEY REGIONAL OFFICE (SSRO) RESPONSIBLE: RALEIGH, NORTH CAROLINA
+SOIL SURVEY REGIONAL OFFICE (SSRO) RESPONSIBLE: SPECIAL PROJECTS OFFICE
 
 SERIES ESTABLISHED: Brevard County, Florida, 2024
 
@@ -118,8 +123,7 @@ Diagnostic horizons and features in this pedon include--
 -Peraquic soil moisture regime--Positive soil water potential (permanently submerged) at the soil surface. (under 0.98 meters of salt water).
 -Ochric epipedon--the zone from 0 to 9 centimeters (Aseg horizon).
 -Particle-size control section--The zone from 0 to 100 centimeters (0 to 40 inches).
--Sulfidic materials--?.
--Irregular decrease in organic carbon or organic carbon content of 0.2 percent or more at 125 centimeters--?
+-Irregular decrease in organic carbon or organic carbon content of 0.2 percent or more at 125 centimeters--The zone from 102 to 152 centimeters (Cseg4 horizon).
 -Taxonomic version--Keys to Soil Taxonomy, 13th edition (2022)
 
 ADDITIONAL DATA:

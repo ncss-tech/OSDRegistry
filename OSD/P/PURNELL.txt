@@ -1,80 +1,135 @@
-LOCATION PURNELL                MD
+LOCATION PURNELL                MD+DE NJ
 
 Established Series
-JLB
-01/2016
+JLB/Rev. JDK
+08/2024
 
 PURNELL SERIES
 
-The Purnell series consists of very deep, very poorly drained soils located on estuarine and coastal tidal marshes of the mid-Atlantic Coastal Plain. They formed in aeolian and marine sediments that are flooded twice daily by tidal waters.  Slopes range from 0 to 1 percent.  Mean annual temperature is 57 degrees F., and mean annual precipitation is 44 inches.
+MLRA(s)--153C, 153D
+Depth Class--Very deep
+Drainage Class--Very poorly drained
+Parent Material--Sandy eolian and marine deposits
+Geomorphic location--Back-barrier tidal marshes
+Slope--0 to 1 percent
+Mean Annual Air Temperature--14 degrees C (57 degrees F)
+Mean Annual Precipitation--1118 millimeters (44 inches).
 
-TAXONOMIC CLASS: Sandy, mixed, mesic Histic Sulfaquents
+TAXONOMIC CLASS: Sandy, mixed, mesic Histic-haplic Sulfaquents
 
-TYPICAL PEDON:  Purnell peat on a smooth 0 percent slope in a coastal tidal marsh. (Colors are for a moist soil).
+TYPICAL PEDON: Purnell peat on a smooth 0 percent slope in a back-barrier salt marsh. (Colors are for a moist soil).
 
-     Oi--0 to 3 inches; dark brown (10YR 3/3) peat; fiber content is three-fourths soil volume after rubbing; 20 percent by weight mineral soil material; many very fine and fine, and common coarse live roots; neutral (pH 6.7); strongly saline (26 mmhos/cm); abrupt smooth boundary.  (0 to 5 inches thick)
+ Oise--0 to 8 centimeters; dark brown (10YR 3/3) peat; fiber content is three-fourths soil volume after rubbing; 20 percent by weight mineral soil material; von Post value H3; many very fine and fine, and common coarse roots; neutral (pH 6.7), ultra acid (pH 3.1) oxidized  pH; strongly saline (26 dS/m); abrupt smooth boundary. (0 to 32 centimeters thick)
 
-     Oe--3 to 13 inches; very dark grayish brown (2.5Y 3/2) mucky peat; fiber content is one-half soil volume after rubbing; many very fine and fine, and few coarse live roots; neutral (pH 7.2); strongly saline (19 mmhos/cm); abrupt smooth boundary. (3 to 16 inches thick)
+ Oese--8 to 33 centimeters; very dark grayish brown (2.5Y 3/2) mucky peat; fiber content is one-half soil volume after rubbing; von Post value H5; many very fine and fine, and few coarse roots; neutral (pH 7.2), strongly acid (pH 5.4) oxidized pH; strongly saline (19 dS/m); abrupt smooth boundary. (8 to 40 centimeters thick)
 
-     Cg1--13 to 18 inches; dark gray (5Y 4/1) sand; single grain loose; common fine live roots; slightly alkaline (pH 7.4); strongly saline (26 mmhos/cm); clear wavy boundary. (5 to 10 inches thick)
+ Cseg1--33 to 46 centimeters; dark gray (5Y 4/1) sand; single grain; loose; non-fluid; common fine roots; slightly alkaline (pH 7.4), extremely acid (pH 3.5) oxidized pH; strongly saline (26 dS/m); clear wavy boundary. (13 to 76 centimeters thick)
 
-     Cg2--18 to 40 inches; gray (5Y 6/1) sand; single grain; loose; common, medium, faint gray (2.5Y 5/1) areas of iron depletion; neutral (pH 7.2); strongly saline (22 mmhos/cm); gradual wavy boundary. (20 to 30 inches thick)
+ Cseg2--46 to 102 centimeters; gray (5Y 6/1) sand; single grain; loose; non-fluid; common, medium, faint gray (2.5Y 5/1) areas of iron depletion; neutral (pH 7.2), extremely acid (pH 3.9) oxidized pH; strongly saline (22 dS/m); gradual wavy boundary. (51 to 76 centimeters thick)
 
-     Cg3--40 to 72 inches; gray (5Y 5/1) sand; single grain loose; neutral (pH 7.3); strongly saline (22 Mmhos/cm).
+ Cseg3--102 to 200 centimeters; gray (5Y 5/1) sand; non-fluid; single grain; loose; non-fluid; neutral (pH 7.3), extremely acid (pH 3.9) oxidized pH; strongly saline (22 dS/m).
 
-TYPE LOCATION: Worcester County Maryland, one-quarter mile east of the Verrazano Bridge on Assateague Island, 500 feet south of the road in a tidal marsh.  38 degrees 14 minutes 00 N latitude, 75 degrees 8 minutes 30 seconds W longitude.
+TYPE LOCATION: Worcester County Maryland in Assateague State Park. Approximately 385 meters (1263 feet) west of the intersection of Campground Road and the northern entrance to Loop B and approximately 736 meters (2,415 feet) southwest of the road intersections of Route 611 and Stephen Decatur Memorial Road in a tidal marsh. USGS topographic quadrangle: Tingles Island, MD.
 
-RANGE IN CHARACTERISTICS:  Thickness of the organic surface layer and depth to the sandy materials range from 8 to 16 inches.  Reaction is neutral to slightly alkaline in undisturbed profiles but ranges from ultra acid to extremely acid upon drying.  Electrical conductivity is greater than 8 mmhos/cm (5.6 ppt).
+Latitude--38.2333333
+Longitude-- -75.1444444 
+Datum--WGS84
+Coordinate source--Unknown
 
-The Oi horizon, where present, has hue of 7.5YR through 2.5YR, value of 2 through 4, and a chroma of 1 or 3.  It is peat.  The fiber content after rubbing is greater than three-fourths of the soil volume. Mineral material content, by weight, ranges from 20 to 60 percent.
+RANGE IN CHARACTERISTICS: 
+Thickness of organic surface layer--20 to less than 40 centimeters
+Electrical Conductivity--Greater than 8 dS/m (5.6 ppt)
+Soil Reaction--Neutral to slightly alkaline (pH 6.6 to 7.8)
+Oxidized Reaction--Ultra-acid to extremely acid (pH <3.5 to 4.4)
+Depth to hypersulfidic materials (oxidized pH 4.0 or less)--0 to 50 centimeters
+Total Soil Organic Carbon Stock 0 to 100 centimeters--13 to 21 kg m-2
+Total Soil Organic Carbon Stock 0 to 200 centimeters--17 to 25 kg m-2
+Manner of failure / fluidity class--Nonfluid throughout the mineral horizons
+Other Features--Some pedons may contain sapric soil materials depending on the degree of decomposition. Buried surface horizons may exist in areas closer to the dunes and areas of known storm washover events.
 
-The Oe horizon has hue of 10YR through 5Y, value of 2 or 3, and chroma of 1 through 3.  It is mucky peat..  The fiber content after rubbing ranges from one-sixth to three-fourths of the volume.  Mineral content, by weight, ranges from 25 to 70 percent.
+Oise horizons, where present:
+Hue--7.5YR to 2.5Y
+Value--2 to 4
+Chroma--1 to 3
+Texture--Peat
+Von Post humification scale--Typically H3
+Organic carbon density--20 to 54 kg m-3
 
-The Cg horizon has hue of 10YR through 5GY, value of 4 through 6, and chroma of 0 through 2. It is sand, coarse sand or loamy sand.
+Oese horizons:
+Hue--10YR to 5Y
+Value--2 or 3
+Chroma--1 to 3
+Texture--Mucky peat
+Von Post humification scale--H4 to H6
+Organic carbon density--24 to 122 kg m-3
 
-COMPETING SERIES:  There are no known competing series in the same family. Competing series in similar families are the Carteret, Matunuck, and Pawcatuck soils.  Pawcatuck soils have organic soil materials ranging from 16 to 51 inches in depth.  Carteret soils do not have a histic epipedon and are thermic.  Matunuck soils have a mean annual temperature of 49 degrees F., and are in a significantly different MLRA.
+Aseg horizon, where present:
+Hue--10YR to 10Y
+Value--2.5 to 4
+Chroma--1 or 2
+Texture--Sand, loamy sand, sandy loam, loam, or silt loam
+Organic carbon density--12 to 47 kg m-3
 
-GEOGRAPHIC SETTING:  Purnell soils are located in coastal and estuarine tidal marshes of the mid-Atlantic coastal plain.  Typically, they occur on the bayside marshes of barrier islands and near ocean coastal inlets.   They formed in sandy marine and aeolian sediments that are flooded twice daily by tidal waters.   Slopes range from 0 to 1 percent. Mean annual temperature ranges from 52 to 58 degrees F., and mean annual precipitation ranges from 38 to 48 inches.
+Cseg horizons:
+Hue--10YR to 5GY and neutral
+Value--4 to 6
+Chroma--0 to 2
+Texture--Sand, coarse sand, or loamy sand
+Organic carbon density--12 to 47 kg m-3
 
-GEOGRAPHICALLY ASSOCIATED SOILS:  These are the Pawcatuck, Westbrook, and Transquaking soils.  Pawcatuck and Westbrook soils have 16 to 51 inches of organic soil materials and are commonly intermingled with Purnell soils.  Transquaking has greater than 51 inches of organic soil materials and occur at slightly lower elevations in the marsh.
+COMPETING SERIES: There are no known competing series in the same family. 
 
-DRAINAGE AND PERMEABILITY: Very poorly drained.  Runoff is very slow.  Permeability is moderately rapid to rapid in the organic deposits and very rapid in the sandy substratum.  These soils are flooded by tidal waters twice daily and during storm events.
+GEOGRAPHIC SETTING:
+Parent Material--Sandy eolian and marine deposits
+Landscape--Barrier islands 
+Landform--Back-barrier tidal salt marshes and marshes near ocean coastal inlets.
+Elevation--0 to 1 meters
+Mean Annual Air Temperature--11 to 14 degrees C (52 to 57 degrees F)
+Mean Annual Precipitation--965 to 1219 millimeters (38 to 48 inches)
+Frost Free Period--175 to 200 days
 
-USE AND VEGETATION:  Purnell soils are used mainly as wetland wildlife habitat.  Natural vegetation is mainly saltmarsh cordgrass (Spartina alterniflora), saltmeadow cordgrass (Spartina patens), saltgrass (Distichlis spicata), glasswort (Salicornia bigelovii), sea lavender (Limonium carolinianum).
+GEOGRAPHICALLY ASSOCIATED SOILS:
+These are the Brockatonorton, Fox Hill, Pawcatuck, Saltpond, and Transquaking soils.
+Brockatonorton soils--do not have a histic epipedon, are moderately well drained, and formed on back dunes of barrier islands.
+Fox Hill soils--do not have a histic epipedon, are poorly drained, and are slightly higher on the landscape on interdune swales of barrier islands.
+Pawcatuck soils--Have 40 to 130 centimeters of organic soil materials underlain by sandy mineral material, and often occur closer to the marsh-lagoon interface.
+Saltpond soils--Have less than 20 centimeters of organic soil materials (and therefore do not have histic epipedons), are underlain by sandy mineral material, and are commonly intermingled with Purnell soils.
+Transquaking soils--Have greater than 130 centimeters of organic soil materials and occur at slightly lower elevations in the marsh.
 
-DISTRIBUTION AND EXTENT:  Tidal marshes of mid-Atlantic Coastal Plain of Maryland, Delaware and New Jersey.  This series is of small extent.
+DRAINAGE AND SATURATED HYDRAULIC CONDUCTIVITY:
+Drainage Class--Very poorly drained
+Saturated Hydraulic Conductivity--High to very high in the organic deposits and very high in the sandy substratum
+Soil moisture regime--Peraquic
+Flooding-very frequent, very brief (Flooded by tidal waters twice daily and during significant coastal storm events)
 
-MLRA SOIL SURVEY REGIONAL OFFICE (MO) RESPONSIBLE: RALEIGH, NORTH CAROLINA
+USE AND VEGETATION: 
+Major Uses--Purnell soils are used mainly as wetland wildlife habitat. Areas of this soil act as a protective barrier to residential communities on the barrier islands. This soil sequesters relatively less amounts of carbon compared to other local tidal salt marsh geographically associated soils.  
+Natural Vegetation--Saltmarsh cordgrass (Spartina alterniflora), saltmeadow cordgrass (Spartina patens), saltgrass (Distichlis spicata), glasswort (Salicornia bigelovii), sea lavender (Limonium carolinianum), and black needlerush (Juncus roemerianus).
 
-SERIES ESTABLISHED:  Worcester County, Maryland, 1995.
+DISTRIBUTION AND EXTENT: 
+General area--Barrier-island tidal salt marshes in the Coastal Plain of Maryland, Delaware, and New Jersey
+Land Resource Regions--T - Atlantic and Gulf Coast Lowland Forest and Crop Region
+MLRA(s)--153C, 153D
+Extent--Small
 
-REMARKS: These soils were formerly included in the Tidal Marsh miscellaneous areas.  They become extremely to ultra acid when drained.
+SOIL SURVEY REGIONAL OFFICE (SSRO) RESPONSIBLE: Special Projects Region
+
+SERIES ESTABLISHED: Worcester County, Maryland, 1995.
+
+REMARKS: These soils were formerly included in the Tidal Marsh miscellaneous areas. They become extremely to ultra-acid when drained.
 
 Diagnostic horizons and features recognized in this pedon are:
-a.  Histic epipedon: the zone between 0 and 13 inches.
-b.  Fibric soil material: the zone between 0 and 3 inches has a fiber content after rubbing that is three-fourths of the soil volume.
-c.  Hemic soil material: the zone between 3 and 13 inches has a fiber content after rubbing that is one-half of the soil volume.
-d.  Moist incubation study indicates these soils have sulfidic materials.
+Histic epipedon--the zone between 0 and 33 centimeters (Oise and Oese horizons)
+Fibric soil material--the zone between 0 and 8 centimeters (Oise horizon)
+Hemic soil material--the zone between 8 and 33 (Oese horizon)
+Sulfidic materials--the zone from 0 to 8 centimeters and 33 to 50 centimeters (Oise, Cseg1, and Cseg2 horizons).
 
-ADDITIONAL DATA:  Sample Number S93MD047-066-001.
+ADDITIONAL DATA:    
+Some morphological and laboratory data used in this OSD were obtained from: Kim, J.D. 2022. M.S. Thesis. Distribution And Variability of Carbon Stocks in Mid-Atlantic Tidal Marsh Soils. University of Maryland, College Park, MD.
 
-TABULAR SERIES DATA:
+Incubated pH values were obtained from S2016DE005001, which has very similar characteristics as the typical pedon.
 
-SOI-5  Soil Name   Slope  Airtemp FrFr/Seas Precip  Elevation
-MD0171 PURNELL     0-  1   52- 58  170-210  38- 48     0-   3 
-
-SOI-5  FloodL FloodH Watertable Kind   Months  Bedrock Hardness
-MD0171 FREQ            0-  0  APPARENT JAN-DEC  60-60        
-
-SOI-5  Depth  Texture                3-Inch  No-10  Clay%   -CEC-
-MD0171  0-13  MPT PEAT                0-  0    -      -    80-100
-MD0171 13-18  S LS                    0-  0  85-100  1-10   1-  4
-MD0171 18-72  S LS COS                0-  0  85-100  0- 5   0-  2
-
-SOI-5  Depth    -pH-     O.M.  Salin  Permeab   Shnk-Swll
-MD0171  0-13  6.6- 7.8  25-70  8-16   2.0-  20  LOW      
-MD0171 13-18  6.6- 7.8  .5-1.  8-16   6.0-  20  LOW      
-MD0171 18-72  6.6- 7.8  .5-1.  8-16   6.0-  20  LOW       
-
+NASIS User Pedon ID--2012MD047043
+________________________________________
 National Cooperative Soil Survey
 U.S.A.

@@ -1,8 +1,8 @@
 LOCATION QUINNIPIAC             CT
 
-Tentative Series
+Established Series
 CEP-BEF-DCP
-12/2023
+10/2024
 
 QUINNIPIAC SERIES
 
@@ -20,17 +20,17 @@ TAXONOMIC CLASS: Coarse-loamy, mixed, superactive, nonacid, mesic Typic Sulfaque
 
 TYPICAL PEDON: Quinnipiac mucky silt loam on a linear, zero percent slope in a tidal marsh. Tidal range is 220 centimeters. (Colors are for moist soil unless otherwise noted).
 
- Aseg--0 to 19 centimeters; very dark gray (5Y 3/1) mucky silt loam; massive; very fluid, nonsticky, nonplastic; many very fine, many fine, and common medium roots throughout; strong sulfurous odor;  neutral (xxx); xxx acid (xxx) oxidized pH; clear boundary. (0 to 27 centimeters thick.)
+ Aseg--0 to 19 centimeters; very dark gray (5Y 3/1) mucky silt loam; massive; very fluid, nonsticky, nonplastic; many very fine, many fine, and common medium roots throughout; strong sulfurous odor; very strongly acid (pH 4.9), extremely acid (pH 3.8) oxidized pH; clear boundary. (0 to 27 centimeters thick.)
 
- Cseg1--19 to 49 centimeters; dark greenish gray (10Y 3/1) mucky silt loam; massive; very fluid, slightly sticky, nonplastic; common very fine, common fine, and few medium roots throughout; strong sulfurous odor; neutral (xxx); xxx acid (xxx) oxidized pH; clear boundary.
+ Cseg1--19 to 49 centimeters; dark greenish gray (10Y 3/1) mucky silt loam; massive; very fluid, slightly sticky, nonplastic; common very fine, common fine, and few medium roots throughout; strong sulfurous odor; neutral (pH 7.2), slightly alkaline (pH 7.4) oxidized pH; clear boundary.
 
- Cseg2--49 to 74 centimeters; dark greenish gray (5GY 4/1) silt loam; massive; very fluid, slightly sticky, nonplastic; few very fine roots throughout; 35 percent herbaceous plant fibers; strong sulfurous odor; neutral (xxx); xxx acid (xxx) oxidized pH; abrupt boundary.
+ Cseg2--49 to 74 centimeters; dark greenish gray (5GY 4/1) silt loam; massive; very fluid, slightly sticky, nonplastic; few very fine roots throughout; 35 percent herbaceous plant fibers; strong sulfurous odor; extremely acid (pH 4.0), ultra acid (pH 3.2) oxidized pH; abrupt boundary.
 
- Cseg3--74 to 95 centimeters; very dark grayish brown (2.5Y 3/2) very fine sandy loam; massive; very fluid, nonsticky, nonplastic; 35 percent herbaceous plant fibers; moderate sulfurous odor; neutral (xxx); xxx acid (xxx) oxidized pH;  clear boundary.
+ Cseg3--74 to 95 centimeters; very dark grayish brown (2.5Y 3/2) very fine sandy loam; massive; very fluid, nonsticky, nonplastic; 35 percent herbaceous plant fibers; moderate sulfurous odor; extremely acid (pH 4.0), ultra acid (pH 3.3) oxidized pH; clear boundary.
 
- Cseg4--95 to 140 centimeters; dark greenish gray (10Y 3/1) silty clay loam; massive; moderately fluid, slightly sticky, nonplastic; 8 percent herbaceous plant fibers; moderate sulfurous odor; neutral (xxx); xxx acid (xxx) oxidized pH; gradual boundary.
+ Cseg4--95 to 140 centimeters; dark greenish gray (10Y 3/1) silty clay loam; massive; moderately fluid, slightly sticky, nonplastic; 8 percent herbaceous plant fibers; moderate sulfurous odor; extremely acid (pH 4.1), ultra acid (pH 3.2) oxidized pH; gradual boundary.
 
- Cseg5--140 to 200 centimeters; dark greenish gray (10Y 4/1) silty clay loam; massive; moderately fluid, moderately sticky, nonplastic; 5 percent shell fragments; 5 percent herbaceous plant fibers; 1 centimeter band of coarse sand with 2 percent shell fragments at a depth of 186 centimeters; moderate sulfurous odor; neutral (xxx); xxx acid (xxx) oxidized pH; (Combined thickness of Cseg horizons is 123 to 200 centimeters thick.)
+ Cseg5--140 to 200 centimeters; dark greenish gray (10Y 4/1) silty clay loam; massive; moderately fluid, moderately sticky, nonplastic; 5 percent shell fragments; 5 percent herbaceous plant fibers; 1 centimeter band of coarse sand with 2 percent shell fragments at a depth of 186 centimeters; moderate sulfurous odor; ultra acid (pH 3.4), ultra acid (pH 3.2) oxidized pH; (Combined thickness of Cseg horizons is 123 to 200 centimeters thick.)
 
 TYPE LOCATION: New Haven County, Connecticut; Tidal marsh at Sachem head, about 1,280 feet  northwest of intersection of Trolley Rd. and Bayberry Lane and approximately 2,620 feet east of the road intersections of Corncrib Hill Road and Pump Lane.
 USGS topographic quadrangle: Guilford, CT
@@ -43,19 +43,20 @@ Coordinates source--from hand-held GPS
 RANGE IN CHARACTERISTICS:
 Depth to bedrock--Greater than 200 centimeters
 Soil moisture--Wet; Peraquic moisture regime
-Reaction throughout-slightly acid to moderately alkaline
-Oxidized reaction-ultra acid or extremely acid 
+Reaction throughout--Ultra acid to neutral (pH <3.5 to 7.3)
+Oxidized reaction--Ultra acid to slightly alkaline (pH <3.5 to 7.8) 
 Electrical conductivity (EC 1:5 water), throughout-more than 0.6 dS/m
 Depth to hypersulfidic materials (incubated pH 4.0 or less)--0 to 50 centimeters
 Shell fragments--0 to 5 percent, by volume
 Coarse fragments--0 to 60 percent fine and medium gravels, by volume in individual horizons
+Total Soil Organic Carbon Stock--50 to 60 kg m-2
 
 Aseg or A/Cseg horizon
 Hue-2.5Y, 5Y, 10Y, or 10YR
 Value-2.5 or 3
 Chroma-1 or 2
 Texture--mucky silt loam, silt loam, loam, or sandy loam 
-Organic matter content-- 
+Horizon Organic Carbon Density--17 to 24 kg m-3
 Clay content-5 to 18 percent
 Manner of failure / fluidity class--slightly fluid to very fluid
 
@@ -64,7 +65,7 @@ Hue--2.5Y, 5Y, 10Y, 10YR, or 5GY
 Value--3 or 4
 Chroma--1 to 2
 Texture--silt loam; range includes silty clay through very fine sandy loam and their mucky analogs, some pedons contain thin sandy horizons.
-Organic matter content-- 
+Horizon Organic Carbon Density--16 to 34 kg m-3
 Clay content-5 to 45 percent
 Manner of failure / fluidity class--moderately fluid to very fluid
 Shell fragments--0 to 5 percent, by volume
@@ -107,7 +108,7 @@ Regions--R - Northeastern Forage and Forest Region
 MLRA(s)--144A, 145
 Extent-Small
 
-SOIL SURVEY REGIONAL OFFICE (SSRO) RESPONSIBLE: Amherst, Massachusetts
+SOIL SURVEY REGIONAL OFFICE (SSRO) RESPONSIBLE: SPECIAL PROJECTS OFFICE
 
 SERIES ESTABLISHED: New Haven County, Connecticut, 2024.
 

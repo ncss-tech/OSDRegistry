@@ -1,0 +1,134 @@
+LOCATION FORT FISHER            NC
+
+Established Series
+ARW
+10/2024
+
+FORT FISHER SERIES
+
+MLRA--153A, 153B
+Soil Survey Regional Office (SSRO) Responsible--Special Projects
+Depth Class--Very deep
+Drainage Class--Subaqueous (permanently submersed)
+Saturated Hydraulic Conductivity--Moderately high to high
+Parent Material--Sandy estuarine deposits over loamy estuarine deposits
+Total Soil Organic Carbon Stock to 200 centimeters--27.9 kg m-2
+Slope--0 to 3 percent
+Mean Annual Air Temperature--18 degrees C (64 degrees F) 
+Mean Annual Water Temperature--21 degrees C (70 degrees F)
+
+TAXONOMIC CLASS: Sandy over loamy, siliceous over mixed, semiactive, nonacid, thermic Typic Fluviwassents
+
+TYPICAL PEDON: Fort Fisher fine sand in a barrier cove under 1.7 meters of brackish water (Colors are for moist soil unless otherwise stated; electrical conductivity is 1:5 by volume solution mixture unless otherwise stated).
+
+ Cseg1--0 to 22 centimeters (0 to 9 inches); black (N 2.5/) fine sand; structureless, single grain; nonsticky, nonplastic; nonfluid; 2 percent shell fragments; slight sulfurous odor; color reaction with 3% hydrogen peroxide; moderately effervescent with 30% hydrogen peroxide; strongly saline (4.9 dS m-1); slightly alkaline (pH 7.6), moderately alkaline (pH 8.3) oxidized; 2.2 kg soil organic carbon m-3; clear boundary. 
+
+ Cseg2--22 to 60 centimeters (9 to 24 inches); 60 percent dark greenish gray (10Y 3/1) and 40 percent dark greenish gray (10Y 4/1) fine sand; structureless, single grain; nonsticky, nonplastic; nonfluid; 2 percent shell fragments; no color reaction with 3% hydrogen peroxide; slightly effervescent with 30% hydrogen peroxide; slightly saline (2.3 dS m-1); moderately alkaline (pH 8.3), strongly alkaline (pH 8.6) oxidized; 1.8 kg soil organic carbon m-3; clear boundary.
+
+ 2Cseg3--60 to 170 centimeters (24 to 67 inches); dark greenish gray (10Y 3/1) clay loam; structureless, massive; slightly sticky, slightly plastic; slightly fluid; 3 percent shell fragments; color reaction with 3% hydrogen peroxide; slightly effervescent with 30% hydrogen peroxide; moderately saline (3.3 dS m-1); moderately alkaline (pH 8.1), moderately alkaline (pH 8.4) oxidized; 21.8 kg soil organic carbon m-3; gradual boundary.
+
+ 3Cseg4--170 to 195 centimeters (67 to 77 inches); dark greenish gray (10Y 3/1) fine sandy loam; structureless, massive; slightly sticky, slightly plastic; slightly fluid; 8 percent shell fragments; no color reaction with 3% hydrogen peroxide; slightly effervescent with 30% hydrogen peroxide; moderately saline (3.4 dS m-1) moderately alkaline (pH 8.1), moderately alkaline (pH 8.3) oxidized; 2.1 kg soil organic carbon m-3.
+
+TYPE LOCATION: Brunswick County, North Carolina; Cape Fear River; approximately 2 miles east by southeast of the end of Ferry Road Southeast, 2.75 miles south by southwest of the end of South Fort Fisher Boulevard, 4.13 miles north by northeast of Bald Head Lighthouse. USGS topographic quadrangle: Kure Beach.
+
+Latitude--33.9233327
+Longitude-- -77.9606425
+Datum--WGS84
+Coordinate source-from hand-held GPS
+
+RANGE OF CHARACTERISTICS: 
+Depth to Bedrock--Greater than 200 centimeters
+Depth to Lithologic Discontinuity--40 to 80 centimeters
+Shell Fragments--0 to 20 percent, by volume
+Soil Reaction--Slightly alkaline to strongly alkaline throughout profile
+Oxidized Soil Reaction--Strongly acid to strongly alkaline (pH 5.5-9.0 from 0 to 100 centimeters; extremely acid to strongly alkaline (pH 3.5-9.0) from 100 to 200 centimeters
+Sulfurous Odor--Slight to moderate throughout profile
+Depth to hyper-sulfidic materials (where present) (incubated pH  4.0)--Greater than 100 centimeters
+Electrical Conductivity--Greater than 0.6 dS m-1 throughout profile by 1:5 by volume solution mixture
+Salinity Class--Slightly saline to strongly saline throughout profile 
+Reaction to 30% Hydrogen Peroxide--None to moderate reaction throughout profile
+Horizon Soil Organic Carbon Density--0.5 to 51.1 kg m-3 throughout profile
+Total Soil Organic Carbon Stock--9.9 to 64.2 kg m-2
+
+Cseg horizon:
+Hue--5Y, 10Y, 5GY, or N
+Value--2.5 to 5
+Chroma--2 or less
+Texture--sand, fine sand, loamy sand, loamy fine sand, or their shelly analogs
+Manner of failure / fluidity class--nonfluid or slightly fluid
+
+2Cseg horizon: 
+Hue--2.5Y, 5Y, 10Y, or N
+Value--2.5 to 6
+Chroma--2 or less
+Texture--silt loam, loam, clay loam, silty clay loam, or their shelly analogs 
+Manner of failure / fluidity class--slightly fluid or moderately fluid
+
+3Cseg horizon:
+Hue--10YR, 2.5Y, 5Y, 10Y, or 5GY
+Value--2.5 to 4
+Chroma--1 or 2
+Texture--silt loam, silty clay loam, loamy fine sand, fine sandy loam, or their shelly analogs
+Manner of failure / fluidity class--slightly fluid or moderately fluid
+
+COMPETING SERIES:
+There are no competing series in the same family. 
+
+GEOGRAPHIC SETTING:
+Parent Material--Sandy estuarine deposits over loamy estuarine deposits
+Landscape--Southeast Coastal Plain Estuaries
+Landform--Barrier coves and submerged wave-cut platforms
+Slope--0 to 3 percent
+Mean Annual Air Temperature--16 to 18 degrees C (61 to 64 degrees F)
+Mean Annual Water Temperature--18 to 24 degrees C (64 to 75 degrees F)
+Water Depth Range--0 to 3 meters (0 to 10 feet) below mean sea level
+Water Regime--Tidal; 3 to 5 foot flux
+Water Salinity Range--15 to 30 parts per thousand
+
+GEOGRAPHICALLY ASSOCIATED SOILS:
+These are the Bohicket, Carteret, Fort Caswell, Kureb, Molasses Creek, Newhan, Prices Creek, Showboat, and Sunny Point soils.
+Bohicket soils--are on broad level tidal marsh flats bordering the Atlantic Ocean and formed in silty and clayey marine sediments.
+Carteret soils--are on back-barrier island tidal marshes of the Atlantic Coast and formed in sandy marine deposits.
+Fort Caswell soils--are on high-energy submerged wave-cut platforms and shoals formed in sandy estuarine deposits throughout.
+Kureb soils--are on gently sloping to moderately steep soils on Coastal Plain uplands and side slopes along streams and bay and formed in marine, eolian, or fluvial sands and have spodic horizon characteristics.
+Molasses Creek soils--are in estuarine tidal streams and barrier coves formed in coarse-loamy estuarine deposits.
+Newhan soils--are on gently undulating dunes commonly near beaches and waterways, do not have water at or near the soil surface, and formed in sand and shelly eolian deposits along the Atlantic Coast
+Prices Creek soils--are in estuarine tidal streams and formed in fine-loamy estuarine deposits.
+Showboat soils--are in mainland coves and estuarine tidal streams formed in coarse-loamy estuarine deposits and contain 40 centimeters of buried organic soil material within 200 centimeters of the soil surface. 
+Sunny Point soils--are on lower energy shoals and mainland coves and formed in coarse-loamy estuarine deposits and contain at least 15 centimeters of sulfidic materials within the top 50 centimeters of the soil.
+
+DRAINAGE AND SATURATED HYDRAULIC CONDUCTIVITY:
+Drainage Class--Subaqueous (permanently submerged)
+Saturated Hydraulic Conductivity--Moderately high to high
+Soil Moisture Regime--Peraquic
+
+USE AND VEGETATION:
+Major Uses--Used for recreational boating, fishing, and swimming. Some areas are actively harvested for crabs. 
+Vegetation--Limited stands of shoal grass (Halodule wrightii), widgeon grass (Ruppia maritima), and Saltwater Eelgrass (Zostera marina) exist in lower energy areas with low turbidity that allow for establishment.
+
+DISTRIBUTION AND EXTENT:
+General area--Coastal plain estuaries in North Carolina
+Region--T - Atlantic and Gulf Coast Lowland Forest and Crop Region
+Extent--Small
+
+SOIL SURVEY REGIONAL OFFICE (SSRO) RESPONSIBLE: Special Projects Office
+
+SERIES ESTABLISHED: Brunswick County, North Carolina, 2024
+
+REMARKS: 
+Fort Fisher is derived from the remnants of the fort constructed on the eastern side of the Cape Fear River in 1862 to protect the Port of Wilmington, often referred to as the Gibraltar of the South. The fort was captured by Union forces on January 12, 1865. 
+
+Diagnostic horizons and other diagnostic soil characteristics recognized in this pedon are (Keys to Soil Taxonomy, Thirteenth Edition, 2022)--
+
+Reduced Matrix--0 to 195 centimeters (0 to 77 inches); soil matrix that has low chroma in situ but undergoes a change in hue or chroma within 30 minutes after the soil material has been exposed to air
+Endosaturation--0 to 195 centimeters (0 to 77 inches)
+Fluviwassents Great Group--An organic carbon content of 0.2 percent or more at 125 centimeters or an irregular decrease in organic carbon at a depth of 25 to 125 centimeters. 
+Peraquic feature--Zero or positive soil water potential at the soil surface.
+Lithologic discontinuity--60 to 195 centimeters (24 to 77 inches)
+n-value > 0.7--60 to 195 centimeters (24 to 77 inches) 
+
+Data Map Unit ID: 9400479
+NASIS User Site and Pedon ID: S2022NC019109
+________________________________________
+National Cooperative Soil Survey
+U.S.A.

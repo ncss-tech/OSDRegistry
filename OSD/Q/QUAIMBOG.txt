@@ -1,0 +1,150 @@
+LOCATION QUAIMBOG               CT
+
+Established Series
+Revised BEF-CEP-DCP
+10/2024
+
+QUAIMBOG SERIES
+
+MLRA(s)--144A, 145
+Depth class--Very deep
+Drainage Class--Subaqueous
+Water Depth Range--2 to 225 centimeters
+Parent material-Coarse-loamy estuarine deposits over organic deposits over glaciolacustrine or glaciofluvial deposits
+Geomorphic location--Mainland coves and bay bottoms within estuaries, bays, and coastal lagoons
+Slope range for series--0 to 3 percent
+Mean annual air temperature--10 degrees C (50 degrees F)
+Mean annual precipitation--1295 millimeters (51 inches)
+
+TAXONOMIC CLASS: Coarse-loamy, mixed, superactive, nonacid, mesic Fluventic Sulfiwassents
+
+TYPICAL PEDON: Quaimbog silt loam in a bay under 2 meters of estuarine water. Tidal range is 280 centimeters. (Colors are for moist soil unless otherwise noted).
+
+ Aseg--0 to 14 centimeters; black (5Y 2.5/1) silt loam; massive; very fluid; 2 percent shell fragments; slight petrochemical odor; slight reaction to 30 percent hydrogen peroxide; strongly saline; slightly alkaline (pH 7.8), extremely acid (pH 4.1) oxidized pH; clear boundary. (0 to 40 centimeters thick.)
+
+ Cseg1--14 to 50 centimeters; very dark gray (5Y 3/1) silt loam; massive; moderately fluid; slight sulfurous odor; slight reaction to 30 percent hydrogen peroxide; strongly saline; moderately alkaline (pH 7.9), extremely acid (pH 3.9) oxidized pH; diffuse boundary.
+
+ Cseg2--50 to 79 centimeters; very dark gray (5Y 3/1) silt loam; massive; moderately fluid; moderate sulfurous odor; slight reaction to 30 percent hydrogen peroxide; strongly saline; slightly alkaline (pH 7.7), extremely acid (pH 3.7) oxidized pH; clear boundary. (Combined thickness of Cseg horizons is 50 to 100 centimeters thick.)
+
+ Oaseb--79 to 102 centimeters; 90 percent black (10YR 2/1) and 10 percent very dark gray (5Y 3/1) muck broken face and rubbed sapric material; 10 percent herbaceous fibers, 0 percent rubbed; 10 percent bands of silt; H9 von Post humification; strong sulfurous odor; slight reaction to 30 percent hydrogen peroxide; strongly saline; slightly alkaline (pH 7.4), extremely acid (pH 3.9) oxidized pH; abrupt boundary. (20 to 39 centimeters thick.)
+
+ 2Cseg1--102 to 110 centimeters; dark gray (5Y 4/1) silt loam; massive; nonfluid; moderate sulfurous odor; slight reaction to 30 percent hydrogen peroxide; strongly saline; slightly alkaline (pH 7.7), extremely acid (pH 3.6) oxidized pH; clear boundary.
+
+ 2Cseg2--110 to 122 centimeters; very dark gray (5Y 3/1) silt loam; massive; nonfluid; moderate sulfurous odor; slight reaction to 30 percent hydrogen peroxide; strongly saline; slightly alkaline (pH 7.7), extremely acid (pH 3.7) oxidized pH; clear boundary.
+
+ 2Cseg3--122 to 200 centimeters; dark gray (5Y 4/1) silt loam; massive; nonfluid; slight sulfurous odor; slight reaction to 30 percent hydrogen peroxide; strongly saline; slightly alkaline (pH 7.7), extremely acid (pH 3.6) oxidized pH. (Combined thickness of 2Cseg horizons is 0 to 98 centimeters.) 
+
+TYPE LOCATION: New London County, Connecticut; East of Mason's Island, approximately 266 meters (873 feet) east of intersection of Chippechaug Trail and Plover Lane and approximately 448 meters (1469 feet) west-northwest of the northernmost point of Andrews Island.
+USGS topographic quadrangle: Mystic, CT
+
+Latitude--41.3352130 
+Longitude-- -71.9610560
+Datum--WGS84
+Coordinates source--from hand-held GPS
+
+RANGE IN CHARACTERISTICS:
+Depth to bedrock--Greater than 200 centimeters
+Soil moisture--These soils are continuously inundated
+Reaction throughout--Slightly alkaline to moderately alkaline (7.4 to 8.4) in mineral materials and slightly alkaline (7.4 to 7.8) in organic materials
+Oxidized reaction--Ultra acid to extremely acid (pH <3.5 to 4.4) in the mineral materials and ultra acid to moderately acid (3.1 to 5.8) in the organic materials
+Electrical conductivity (EC 1:5 water), throughout--0.6 dS/m or greater
+Depth to hypersulfidic materials (incubated pH 4.0)--0 to 50 centimeters
+Depth to buried organic surface--30 to 100 centimeters (other lithological discontinuities may exist below the organic surface including glacial materials)
+Shell fragments--0 to 20 percent, by volume, in the estuarine or marine deposits
+Coarse fragments--0 to 15 percent gravels, by volume, in the estuarine or marine deposits; 0 to 50 percent gravels, by volume, in the glaciofluvial or glaciolacustrine deposits
+Wood fragments--0 to 10 percent, by volume, in the estuarine or marine deposits; 0 to 20 percent, by volume, in the organic materials
+Total Soil Organic Carbon Stock to 200 centimeters--22 to 89 kg m-2
+
+Aseg or Asegb horizons
+Hue--10YR, 2.5Y, 5Y, or 10Y 
+Value--2 to 3
+Chroma--1 to 2
+Texture--silt loam; very fine sandy loam, and sand; ranges include their mucky analogs
+Manner of failure / fluidity class--nonfluid to very fluid
+Organic carbon density--2 to 28 kg m-3
+
+Cseg or Cse horizon
+Hue-10YR, 2.5Y, 5Y, 10Y, or N
+Value--2.5 to 4
+Chroma--0 to 3
+Texture--silt loam, very fine sandy loam, fine sandy loam, sandy loam, sand, coarse sand; and their mucky analogs
+Manner of failure / fluidity class--nonfluid to moderately fluid
+Organic carbon density--1 to 47 kg m-3
+
+Oaseb, Oeseb, or Oab horizons
+Hue--7.5YR, 10YR, 2.5Y, 5Y, or N
+Value--2 to 3
+Chroma--0 to 2
+Texture--muck; range includes mucky peat
+Von Post humification scale--primarily H7 to H10 but can include H4 to H6
+Organic carbon density--28 to 57 kg m-3
+
+2Cg, 2Cseg, or 3Cseg horizon (if present)
+Hue--10YR, 2.5Y, 5Y, 10Y, or N
+Value--2.5 to 4
+Chroma--0 or 2
+Texture-silt loam, sandy loam, coarse sandy loam, loamy fine sand, loamy coarse sand, and sand
+Manner of failure / fluidity class--nonfluid to slightly fluid
+Organic carbon density--8 to 39 kg m-3
+
+COMPETING SERIES:
+There are no competing series in the same family .
+
+GEOGRAPHIC SETTING:
+Parent material--Silty estuarine deposits over buried woody and herbaceous organic material
+Landscape--Coastal estuaries and lagoons
+Landform--Mainland coves and bay bottoms
+Slope--0 to 3 percent
+Mean annual precipitation--1023 to 1320 millimeters (40 to 52 inches)
+Mean annual air temperature--4 to 13 degrees C (39.2 to 55.4 degrees F)
+Water salinity range--18 to 30 parts per thousand
+Frost-free period--350 to 365 days
+
+GEOGRAPHICALLY ASSOCIATED SOILS:
+These are the Anguilla, Billington, Fort Neck, Napatree, Pishagqua, and Wequetequock. 
+Anguilla soils--are on submerged mainland beaches and have sandy textures throughout
+Billington soils--have a coarse-silty particle size and 40 centimeters or more of buried organic materials 
+Fort Neck soils--have an n-value of 0.7 or less in some horizon at a depth between 20 and 50 centimeters below the mineral soil surface and do not contain organic soil materials
+Guilford soils--are in low-energy bay bottoms and coves, have a particle size of coarse-loamy, and do not have an organic horizon
+Napatree soils--are on submerged headlands and submerged mainland beaches, have sandy textures in the upper part and lack hypersulfidic materials
+Noank soils--are found in coves and consist of hypersulfidic sandy materials
+Pishagqua soils--are in low-energy lagoon bottoms and do not have organic horizons
+Wequetequock soils--have slightly finer textures and do not have organic horizons within 100 centimeters of the soil surface.
+
+DRAINAGE AND SATURATED HYDRAULIC CONDUCTIVITY:
+Drainage class--Subaqueous
+Saturated hydraulic conductivity--Moderately high or high
+Soil moisture regime--Peraquic
+Soil is continuously inundated with salt or brackish water.
+
+USE AND VEGETATION:
+Major uses--Areas of this soil are used for recreational fishing and swimming. Commercial uses include shell fishing and aquaculture. Wildlife use and benthic fauna associated with this soil includes tubeworms, clams, juvenile blue crabs, scallops, and juvenile finfish.
+Native vegetation--Eelgrass (Zostera marina) and widgeon grass (Ruppia maritima) may occur on these soils.
+
+DISTRIBUTION AND EXTENT:
+General area--These soils are located along the Connecticut coast in the Long Island Sound
+Land Resource Regions--R - Northeastern Forage and Forest Region
+MLRA(s)--144A, 145
+Extent--Small
+
+SOIL SURVEY REGIONAL OFFICE (SSRO) RESPONSIBLE: Special Projects Office
+
+SERIES ESTABLISHED: New London County, Connecticut, 2024
+
+REMARKS: This subaqueous series is mapped in areas previously published as water in Connecticut Soil Surveys.
+
+Diagnostic horizons and features in this pedon include--
+Peraquic feature--Positive soil water potential (permanently submerged) at the soil surface. (under 2 meters of salt water).
+Particle-size control section--The zone from 0 to 100 centimeters (0 to 40 inches).
+Ochric epipedon--The zone from 0 to 14 centimeters (Aseg horizon).
+Hypersulfidic materials--The zone from 14 to 200 centimeters (Cseg1, Cseg2, Oaseb, and 2Cseg horizons) have oxidized reactions with pH values less than or equal to 4 after 16 weeks.
+N-value > 0.7--The zone from 0 to 79 centimeters (Aseg, Cseg1, and Cseg2 horizons)
+Sapric soil materials--The zone from 79 to 102 centimeters (Oaseb horizon)
+Taxonomic version--Keys to Soil Taxonomy, 13th edition (2022)
+
+ADDITIONAL DATA: Type location taken from S2022CT011017 near Mystic Harbor, CT.
+Additional support pedons used to develop this series include S2022CT011106 (sampled by the University of Rhode Island), and S2022CT011034.
+
+________________________________________
+National Cooperative Soil Survey
+U.S.A.

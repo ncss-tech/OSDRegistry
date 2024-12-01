@@ -1,8 +1,8 @@
 LOCATION HAMMONASSET            CT
 
-Tentative Series
+Established Series
 Revised DCP-BEF-CEP
-03/2024
+10/2024
 
 HAMMONASSET SERIES
 
@@ -20,11 +20,11 @@ TAXONOMIC CLASS: Euic, mesic Typic Sulfisaprists
 
 TYPICAL PEDON: Hammonasset mucky peat on a linear, zero percent slope in a tidal marsh. Tidal range is 194 centimeters. (Colors are for moist soil unless otherwise stated).
 
- Oese--0 to 33 centimeters (0 to 13 inches); very dark brown (10YR 2/2) mucky peat, very dark gray (2.5Y 3/1) rubbed; 50 percent unrubbed fibers, 30 percent rubbed fibers; H3 von Post humification; many very fine, fine, and medium, few coarse roots throughout; 10 percent mineral soil material; negative color change with 3% hydrogen peroxide; slight effervescence with 30% hydrogen peroxide; moderately saline; neutral (xxx); xxx acid (xxx) oxidized pH; clear boundary. (0 to 56 centimeters thick.)
+ Oese--0 to 33 centimeters (0 to 13 inches); very dark brown (10YR 2/2) mucky peat, very dark gray (2.5Y 3/1) rubbed; 50 percent unrubbed fibers, 30 percent rubbed fibers; H3 von Post humification; many very fine, fine, and medium, few coarse roots throughout; 10 percent mineral soil material; negative color change with 3% hydrogen peroxide; slight effervescence with 30% hydrogen peroxide; moderately saline; extremely acid (pH 3.8), extremely acid (pH 3.8) oxidized pH; clear boundary. (0 to 56 centimeters thick.)
 
- Oase1--33 to 108 centimeters (13 to 43 inches); very dark gray (10YR 3/1) muck,  black (10YR 2/1) rubbed; 25 percent unrubbed fibers, 12 percent rubbed fibers; H8 von Post humification; common very fine and fine roots throughout; 5 percent mineral soil material; slight sulfurous odor; negative color change with 3% hydrogen peroxide; slight effervescence with 30% hydrogen peroxide; moderately saline; neutral (xxx); xxx acid (xxx) oxidized pH; gradual boundary.
+ Oase1--33 to 108 centimeters (13 to 43 inches); very dark gray (10YR 3/1) muck,  black (10YR 2/1) rubbed; 25 percent unrubbed fibers, 12 percent rubbed fibers; H8 von Post humification; common very fine and fine roots throughout; 5 percent mineral soil material; slight sulfurous odor; negative color change with 3% hydrogen peroxide; slight effervescence with 30% hydrogen peroxide; moderately saline; slightly acid (pH 6.2), extremely acid (pH 3.8) oxidized pH; gradual boundary.
 
- Oase2--108 to 200 centimeters (43 to 79 inches); very dark gray (2.5Y 3/1) muck; 10 percent unrubbed fibers, 3 percent rubbed fibers; H9 von Post humification; few fine roots throughout; 40 percent mineral soil material; slight sulfurous odor; negative color change with 3% hydrogen peroxide; slight effervescence with 30% hydrogen peroxide; moderately saline; neutral (xxx); xxx acid (xxx) oxidized pH. (Combined thickness of Oase horizons is 132 to 200 centimeters thick.).
+ Oase2--108 to 200 centimeters (43 to 79 inches); very dark gray (2.5Y 3/1) muck; 10 percent unrubbed fibers, 3 percent rubbed fibers; H9 von Post humification; few fine roots throughout; 40 percent mineral soil material; slight sulfurous odor; negative color change with 3% hydrogen peroxide; slight effervescence with 30% hydrogen peroxide; moderately saline; ultra acid (pH 3.0), ultra acid (pH 3.0) oxidized pH. (Combined thickness of Oase horizons is 132 to 200 centimeters thick.).
 
 TYPE LOCATION: Middlesex County, Connecticut; Hammock River Marsh Wildlife Area, approximately 540 feet northeast (73 degree bearing) of intersection of E Main Street and Meadow Road in Clinton, CT. USGS topographic quadrangle: Clinton, CT.
 
@@ -36,18 +36,18 @@ Coordinates source--from hand-held GPS
 RANGE IN CHARACTERISTICS:
 Depth to bedrock--Greater than 200 centimeters
 Soil moisture--Saturated; peraquic moisture regime
-Reaction throughout--Slightly acid to moderately alkaline
-Oxidized reaction--Ultra acid or extremely acid
+Reaction throughout--Ultra acid to neutral (pH <3.5 to 7.3)
+Oxidized reaction--Ultra acid to slightly acid (pH <3.5 to 6.5)
 Electrical Conductivity (EC 1:5 water)--Greater than 0.6 dS/m throughout
 Depth to hypersulfidic materials (incubated pH 4.0 or less)--0 to 100 centimeters
-Coastal Blue Carbon density range--from XXXX in the organic horizons to XXXX in the mineral substrate, if present. Hammonasset soils can often average XXXX mega grams of coastal blue carbon per hectare to a 2-meter depth.   
+Total Soil Organic Carbon Stock--65 to 106 kg m-2
 
 Oase horizon
 Hue--2.5YR, 5YR, 7.5YR, 10YR, or 2.5Y
 Value--2 to 3
 Chroma--1 or 2
 Texture--Muck
-Organic matter content--30 to 100 percent
+Horizon Organic Carbon Density--28 to 74 kg m-3
 Rubbed fiber content--1 to 15 percent
 Von Post humification--H7to H10
 Mineral soil content--0 to 70 percent
@@ -57,7 +57,7 @@ Hue--10YR, 2.5Y, or 5Y
 Value--2 to 3
 Chroma--1 or 2 
 Texture--Mucky peat
-Organic matter content--50 to 92 percent
+Horizon Organic Carbon Density--28 to 74 kg m-3
 Rubbed fiber content--18 to 38 percent
 Von Post humification scale-H4 to H6
 Mineral soil content--8 to 50 percent
@@ -67,7 +67,7 @@ Hue--7.5YR, 10YR, 2.5Y, 5Y, or 10Y
 Value--2 to 3
 Chroma--1 to 3
 Texture--Peat 
-Organic matter content--90 to 95 percent
+Horizon Organic Carbon Density--28 to 74 kg m-3
 Rubbed fiber content--40 to 75 percent
 Von Post humification scale--H1 to H3
 Mineral soil content--5 to 10 percent
@@ -77,8 +77,8 @@ Hue--N
 Value--2.5
 Chroma--0 
 Texture--mucky silt loam
-Clay content--
 Manner of failure / fluidity class--moderately fluid
+Horizon Organic Carbon Density--26 to 55 kg m-3
 
 2Cseg or 2Cse (where present)
 Hue--10YR, 2.5Y, 5Y, 10Y, 5GY, or 10BG
@@ -86,8 +86,8 @@ Value--2 to 4
 Chroma--1 to 3
 Texture--fine sand, loamy fine sand, sandy loam, very fine sandy loam, silt loam, or silty clay loam and their mucky analogs
 Unrubbed fiber content--0 to 35 percent
-Clay content--
 Manner of failure / fluidity class--nonfluid to moderately fluid
+Horizon Organic Carbon Density--26 to 55 kg m-3
 Coarse fragments--0 to 12 percent, by volume, fine and medium gravels
 
 COMPETING SERIES:
@@ -128,7 +128,7 @@ Land Resource Regions--R - Northeastern Forage and Forest Region
 MLRA(s)--144A, 145
 Extent--Small
 
-SOIL SURVEY REGIONAL OFFICE (SSRO) RESPONSIBLE: Amherst, Massachusetts
+SOIL SURVEY REGIONAL OFFICE (SSRO) RESPONSIBLE: SPECIAL PROJECTS OFFICE
 
 SERIES ESTABLISHED: Middlesex County, Connecticut, 2024.
 

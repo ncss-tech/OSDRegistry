@@ -1,0 +1,122 @@
+LOCATION GUILFORD               CT
+
+Established Series
+Rev. CEP-BEF-DCP
+10/2024
+
+GUILFORD SERIES
+
+MLRA(s)--144A, 145
+Depth class--Very deep
+Drainage class--Subaqueous
+Water depth range--2 to 266 centimeters
+Parent material--Coarse-silty estuarine deposits
+Geomorphic location--Bay bottoms and coves within estuaries, lagoons, and bays
+Slope range for series--0 to 3 percent
+Mean annual air temperature--10 degrees C (50 degrees F)
+Mean annual precipitation--1295 millimeters (51 inches)
+
+TAXONOMIC CLASS: Coarse-silty, mixed, superactive, nonacid, mesic Fluventic Sulfiwassents
+
+TYPICAL PEDON: Guilford silt loam on an east-facing one percent slope on a cove under 172 centimeters of estuarine water. Tidal range is 156 centimeters. (Colors are for moist soil unless otherwise noted).
+
+ Aseg1--0 to 7 centimeters; black (5Y 2.5/1) silt loam; massive; very fluid; moderate sulfurous odor; slight effervescence with 30 percent hydrogen peroxide; moderately saline; neutral (pH 7.2), ultra acid (pH 3.2) oxidized pH; clear boundary.
+
+ Aseg2--7 to 27 centimeters; black (5Y 2.5/1) silt loam; massive; very fluid; 1 percent shell fragments; moderate sulfurous odor; slight effervescence with 30 percent hydrogen peroxide; moderately saline; neutral (pH 7.3), extremely acid (pH 3.8) oxidized pH; gradual boundary. (Combined thickness of Aseg horizons is 12 to 29 centimeters).
+
+ Cseg1--27 to 149 centimeters; very dark gray (5Y 3/1) silt loam; massive; moderately fluid; 2 percent shell fragments; 1 percent moderately coherent wood fragments; strong sulfurous odor; slight effervescence with 30 percent hydrogen peroxide; moderately saline; slightly alkaline (pH 7.6), ultra acid (pH 3.3) oxidized pH; clear boundary.
+
+ Cseg2--149 to 200 centimeters; very dark gray (5Y 3/1) mucky silt loam; massive; moderately fluid; 1 percent moderately coherent wood fragments; strong sulfurous odor; slight effervescence with 30 percent hydrogen peroxide; moderately saline; slightly alkaline (pH 7.4), extremely acid (pH 3.5) oxidized pH.
+
+TYPE LOCATION: New London County, Connecticut; Mystic River, approximately 847 meters (2,780 feet) north from the Mystic River Bridge over I-95 and approximately 463 meters (1,519 feet) southwest from intersections of Riverbend Drive and Whitehall Avenue (Route 27). USGS topographic quadrangle: Old Mystic, CT
+
+Latitude--41.3807010
+Longitude-- -71.9619390
+Datum--WGS84
+Coordinate source--from handheld GPS
+
+RANGE IN CHARACTERISTICS: 
+Depth to bedrock--Greater than 200 centimeters
+Soil moisture--These soils are continuously inundated (peraquic)
+Manner of failure/fluidity class--Nonfluid to very fluid
+Reaction throughout--Neutral to moderately alkaline (pH 6.6 to 8.4)
+Oxidized reaction--Ultra acid to extremely acid (pH <3.5 to 4.4)
+Electrical conductivity (EC 1:5 water)--Greater than 0.6 dS/m throughout
+Depth to hypersulfidic materials (incubated pH 4.0)--0 to 50 centimeters
+Coarse fragments--0 to 65 percent gravels, by volume, in some horizons; 0 to 5 percent wood fragments, by volume
+Shell fragments--0 to 70 percent, by volume, in some horizons
+Total soil organic carbon stock to 200 centimeters--25 to 68 kg m-2
+
+Aseg or Ase horizon
+Hue--10YR, 5Y, 5GY, 10BG, or N
+Value--2.5 to 4
+Chroma--0 to 2
+Texture--sandy loam, fine sandy loam, very fine sandy loam, loam, and silt loam
+Manner of failure/fluidity class--slightly fluid to very fluid
+Coarse fragments--0 to 15 percent gravels, by volume
+Organic carbon density--18 to 29 kg m-3
+
+Cseg or Cse horizon
+Hue--2.5Y, 5Y, 10Y, 5BG, 10BG, or N
+Value--2.5 to 5
+Chroma--0 to 2
+Texture--coarse sand through silty clay loam
+Shell fragments--0 to 20 percent, by volume
+Organic carbon density--21 to 37 kg m-3
+
+COMPETING SERIES: There are no competing series.
+
+GEOGRAPHIC SETTING:
+Parent material--Coarse-silty estuarine deposits, sometimes underlain by glacial till within 200 centimeters of the soil surface
+Landscape--Estuaries, lagoons, and bays
+Landform--Bay bottoms and coves
+Slope--0 to 3 percent
+Mean annual precipitation--1023 to 1320 millimeters (40 to 52 inches)
+Mean annual air temperature--4 to 13 degrees C (39 to 55 degrees F)
+Water salinity range--12 to 30 parts per thousand
+Frost-free period--350 to 365 days
+
+GEOGRAPHICALLY ASSOCIATED SOILS:
+These are Anguilla, Billington, Fort Neck, Noank, Niantic, Pishagqua, and Quaimbog soils.
+Anguilla soils--formed in sandy estuarine deposits overlying sandy and gravelly glaciofluvial deposits, are found on mainland coves and submerged mainland beaches in coastal estuaries and lagoons and have lithologic discontinuities
+Billington soils--formed in coarse-silty estuarine deposits overlying highly-decomposed herbaceous organic materials and found on mainland coves in estuaries and bays
+Fort Neck soils--formed in coarse-loamy estuarine deposits and found on mainland coves and lagoon bottoms in coastal lagoons and bays and may include a lithological discontinuity with glaciofluvial deposits or glacial till
+Noank soils--formed in thick sandy estuarine deposits and are found on coves in estuaries and sounds
+Niantic soils--formed in thick sandy marine deposits and are found in open water habitats on bay bottoms and submerged mainland beaches in bays and sounds.
+Pishagqua soils--have finer textured materials, are often very fluid, and formed in fine-silty estuarine deposits and are found on lagoon bottoms, mainland coves, and bay bottoms in coastal lagoons, sounds, and estuaries.
+Quaimbog soils--formed in coarse-loamy estuarine deposits overlying highly-decomposed herbaceous organic materials and glaciolacustrine deposits or glaciofluvial deposits
+
+DRAINAGE AND SATURATED HYDRAULIC CONDUCTIVITY:
+Drainage class--Subaqueous
+Saturated hydraulic conductivity--High or Very High
+Soil moisture regime--Peraquic
+Soil is continuously inundated with salt or brackish water.
+
+USE AND VEGETATION:
+Major uses--Areas of this soil are used for recreational fishing and swimming. Commercial uses include shell fishing and aquaculture. Wildlife use and benthic fauna associated with this soil includes tubeworms, clams, juvenile blue crabs, scallops, and juvenile finfish.
+Native vegetation--Eelgrass (Zostera marina) and widgeon grass (Ruppia maritima) may occur on these soils.
+
+DISTRIBUTION AND EXTENT:
+General area--These soils are located along the Connecticut coast and were previously mapped as Water.
+Land Resource Regions--R - Northeastern Forage and Forest Region
+MLRA(s)--144A and 145
+Extent--Small
+
+SOIL SURVEY REGIONAL OFFICE (SSRO) RESPONSIBLE: Special Projects Office
+
+SERIES ESTABLISHED: New London County, Connecticut, 2024.
+
+REMARKS: Diagnostic horizons and features in this pedon include:
+Peraquic feature--positive soil water potential (permanently submerged) at the soil surface (under 172 centimeters of water).
+Particle-size control section--the zone from 0 to 100 centimeters.
+Hyperulfidic materials--the zone from 0 to 200 centimeters (Aseg and Cseg horizons) have oxidized reactions with pH values less than 4.0 after 16 weeks of moist aerobic incubation analysis
+Fluventic feature--at a depth of 125 centimeters below the soil surface, an organic carbon content of 0.2 percent or more (Cseg1 horizon).
+High n-value--the zone from 0 to 200 centimeters has an n-value greater than 0.7 (moderately fluid to very fluid manner of failure, Aseg and Cseg horizons).
+Taxonomic version--Keys to Soil Taxonomy, 13th edition (2022)
+
+ADDITIONAL DATA: Type location taken from pedon S2022CT011007 in Mystic, CT.
+
+Additional support pedons include 2022CT001022, S2022CT001038, S2022CT011016, S2022CT011046, S2022CT011056, and 2023CT001074.
+________________________________________
+National Cooperative Soil Survey
+U.S.A.
