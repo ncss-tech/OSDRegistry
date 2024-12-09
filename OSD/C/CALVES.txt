@@ -2,7 +2,7 @@ LOCATION CALVES                 CT
 
 Established Series
 BEF-CEP-DCP
-10/2024
+12/2024
 
 CALVES SERIES
 
@@ -10,7 +10,7 @@ MLRA(s)--144A, 145
 Depth class--Very deep
 Drainage Class--Very poorly drained
 Saturated Hydraulic Conductivity--low to high 
-Parent material--Coarse-loamy estuarine deposits over loamy or sandy alluvium 
+Parent material--Coarse-loamy estuarine deposits 
 Geomorphic location--Tidal marshes within Estuaries, Coastal Lowlands, and tidal Rivers
 Slope range for series--0 to 1 percent
 Mean annual air temperature--10 degrees C (50 degrees F)
@@ -18,22 +18,24 @@ Mean annual precipitation--1295 millimeters (51 inches)
 
 TAXONOMIC CLASS: Coarse-loamy, mixed, superactive, nonacid, mesic Histic Sulfaquents
 
-TYPICAL PEDON: Calves mucky peat on a  linear, zero percent slope in a tidal marsh. (Colors are for moist soil unless otherwise noted).
+TYPICAL PEDON: Calves mucky peat on a linear, zero percent slope in a tidal marsh. (Colors are for moist soil unless otherwise noted).
 
- Oese--0 to 34 centimeters; dark olive brown (2.5Y 3/3) mucky peat; 50 percent fibers, 35 percent rubbed;  many very fine, many fine, and common medium roots throughout; 15 percent mineral soil material; slight sulfurous odor; slight reaction to 30 percent hydrogen peroxide; strongly acid (pH 5.4), extremely acid (pH 3.6) oxidized pH; gradual boundary. (20 to 40 centimeters thick.)
+ Oese--0 to 9 centimeters; black (10YR 2/1) broken face, very dark brown (10YR 2/2) mucky peat; 50 percent fibers, 35 percent rubbed; H5 von Post humification; 30 percent mineral soil material; slight reaction to 30 percent hydrogen peroxide; moderately acid (pH 5.9), moderately acid (pH 6.0) oxidized pH; clear boundary. 
 
- Cseg1--34 to 78 centimeters; dark olive brown (2.5Y 3/3) mucky silt loam; massive; slightly fluid, nonsticky, nonplastic; many very fine, many medium, and common fine roots throughout; slight sulfurous odor; slight reaction to 30 percent hydrogen peroxide; 20 percent plant fibers; extremely acid (pH 4.2), extremely acid (pH 3.7) oxidized pH; clear boundary.
+ Oise1--9 to 16 centimeters; dark brown (10YR 3/3) broken face, very dark grayish brown (10YR 3/2) peat; 95 percent fibers, 85 percent rubbed; H3 von Post humification; slight reaction to 30 percent hydrogen peroxide; extremely acid (pH 4.3), extremely acid (pH 3.5) oxidized pH; clear boundary.
 
- Cseg2--78 to 131 centimeters; very dark grayish brown (2.5Y 3/2) silt loam; massive; very fluid, nonsticky, nonplastic; few fine and common very fine roots throughout; moderate sulfurous odor; moderate reaction to 30 percent hydrogen peroxide; 15 percent plant fibers; extremely acid (pH 3.6), ultra acid (pH 3.0) oxidized pH; gradual boundary. (Combined thickness of Cseg horizons is 0 to 200 centimeters)
+ Oise2--16 to 28 centimeters; very dark gray (10YR 3/1) broken face, peat; 70 percent fibers, 50 percent rubbed; H4 von Post humification; slight reaction to 30 percent hydrogen peroxide; extremely acid (pH 4.0), ultra acid (pH 3.4) oxidized pH; clear boundary. (Combined thickness of the O horizons are 20 to 39 centimeters)
 
- 2Cseg3--131 to 147 centimeters; dark gray (2.5Y 4/1) very fine sandy loam; massive; slightly fluid, nonsticky, nonplastic; slight sulfurous odor; slight reaction to 30 percent hydrogen peroxide; 3 percent plant fibers; ultra acid (pH 3.4), ultra acid (pH 3.2) oxidized pH; gradual boundary.
+ Cseg--28 to 47 centimeters; dark gray (5Y 4/1) broken face fine sandy loam; massive; nonfluid; 15 percent plant fibers; strongly acid (pH 5.5), extremely acid (pH 3.6) oxidized pH; clear boundary.
 
- 2Cseg4--147 to 200 centimeters; dark gray (2.5Y 4/1) loamy very fine sand; massive; nonfluid, nonsticky, nonplastic; strong reaction to 30 percent hydrogen peroxide; 10 percent plant fibers; ultra acid (pH 3.2), ultra acid (pH 3.0) oxidized pH.
+ Asegb--47 to 61 centimeters; very dark gray (2.5Y 3/1) broken face fine sandy loam; massive; moderately fluid; 20 percent plant fibers; slight reaction to 30 percent hydrogen peroxide; very strongly acid (pH 4.8), extremely acid (pH 3.8) oxidized pH; clear boundary.
 
-TYPE LOCATION: Middlesex County, Town of Old Saybrook, Connecticut; Ferry Point Marsh on the Connecticut River, about 2,310 feet Southeast of intersection of Ayers Point Road and Otter Cove Drive and approximately 1,310 feet north of the intersections of 4th Avenue and Sunset Avenue. USGS topographic quadrangle: Old Lyme, CT
+ C'seg--61 to 200 centimeters; dark gray (5Y 4/1) broken face fine sandy loam; massive; slightly fluid; 8 percent plant fibers; slight reaction to 30 percent hydrogen peroxide; moderately acid (pH 5.8), extremely acid (pH 3.7) oxidized pH.
 
-Latitude--41.3261528
-Longitude-- -72.3590667
+TYPE LOCATION: Middlesex County, Town of Essex, Connecticut; Great Meadow Marsh in North Cove at Foxboro Point on the Connecticut River, approximately 920 feet southeast of intersection of River Road and Great Meadow Road and approximately 650 feet southwest of the Pettipaug Yacht Club office building. USGS topographic quadrangle: Essex, CT
+
+Latitude--41.3744440
+Longitude-- -72.3858060
 Datum--WGS84
 Coordinates source--from hand-held GPS
 
@@ -42,7 +44,7 @@ Depth to bedrock--Greater than 200 centimeters
 Soil moisture--Saturated; Peraquic moisture regime
 Reaction throughout--ultra acid to neutral (pH <3.5 to 7.3)
 Oxidized reaction-ultra acid or slightly alkaline (pH <3.5 to 7.8)
-Electrical conductivity (EC1:5 water), throughout-
+Electrical conductivity (EC1:5 water)--greater than 0.6 dS/m throughout
 Depth to hypersulfidic materials (incubated pH 4.0 or less)--0 to 50 centimeters
 Wood fragments--0 to 5 percent, by volume
 Coarse fragments--0 to 50 percent fine and medium gravels, by volume in individual horizons
@@ -77,7 +79,7 @@ COMPETING SERIES:
 There are no competing series in the same family.
 
 GEOGRAPHIC SETTING:
-Parent material--Loamy estuarine deposits over loamy or sandy alluvium
+Parent material--Loamy estuarine deposits
 Landscape--Estuaries, Coastal Lowlands, and Tidal Rivers
 Landform--Tidal marshes
 Slope--0 to 1 percent
@@ -119,15 +121,16 @@ REMARKS:
 
 Diagnostic horizons and features in this pedon include--
 Peraquic feature--Zero or positive soil water potential at the soil surface.
-Particle-size control section--The zone from 59 to 100 centimeters (Cseg1 and Cseg2 horizons).
-Histic epipedon--The zone from 0 to 34 centimeters (Oese horizon).
-Hemic soil materials--The zone from 0 to 34 centimeters (Oese horizon).
-Hypersulfidic materials--The zone from 0 to 200 centimeters (Oese, Cseg, and 2Cseg horizons) have oxidized reactions with pH values less than 4 after 16 weeks.
-N-value > 0.7--The zone from 34 to 147 centimeters (Aseg and Cseg horizons)
-Lithologic Discontinuity--131 to 200 centimeters.
+Particle-size control section--The zone from 28 to 100 centimeters (Cseg, Asegb and C'seg horizons).
+Histic epipedon--The zone from 0 to 28 centimeters (Oese and Oise horizons).
+Hemic soil materials--The zone from 0 to 9 centimeters (Oese horizon).
+Fibric soil materials--the zone from 9 to 28 centimeters (Oise horizons).
+Hypersulfidic materials--The zone from 9 to 200 centimeters (Oise, Cseg, Asegb, and C'seg horizons) have oxidized reactions with pH values less than 4 after 16 weeks.
+Fluidity Class--Slightly fluid or moderately fluid, the zone from 47 to 200 centimeters (Asegb and C'seg horizons)
+
 Taxonomic version--Keys to Soil Taxonomy, 13th edition (2022)
 
-ADDITIONAL DATA: Type location taken from S2023CT007234 in Ferry Point Marsh Wildlife Area, Old Saybrook, CT. Additional support pedons used to develop this series include 2023CT009300 and 2023CT009311.
+ADDITIONAL DATA: Type location taken from S2023CT007212 in Great Meadow Marsh, Essex, CT. Additional support pedons used to develop this series include and S2023CT001245, S2023CT001251, and S2023CT001287 .
 ________________________________________
 National Cooperative Soil Survey
 U.S.A.

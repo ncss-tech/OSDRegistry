@@ -2,7 +2,7 @@ LOCATION HAMMONASSET            CT
 
 Established Series
 Revised DCP-BEF-CEP
-10/2024
+12/2024
 
 HAMMONASSET SERIES
 
@@ -20,16 +20,16 @@ TAXONOMIC CLASS: Euic, mesic Typic Sulfisaprists
 
 TYPICAL PEDON: Hammonasset mucky peat on a linear, zero percent slope in a tidal marsh. Tidal range is 194 centimeters. (Colors are for moist soil unless otherwise stated).
 
- Oese--0 to 33 centimeters (0 to 13 inches); very dark brown (10YR 2/2) mucky peat, very dark gray (2.5Y 3/1) rubbed; 50 percent unrubbed fibers, 30 percent rubbed fibers; H3 von Post humification; many very fine, fine, and medium, few coarse roots throughout; 10 percent mineral soil material; negative color change with 3% hydrogen peroxide; slight effervescence with 30% hydrogen peroxide; moderately saline; extremely acid (pH 3.8), extremely acid (pH 3.8) oxidized pH; clear boundary. (0 to 56 centimeters thick.)
+ Oise--0 to 55 centimeters; dark brown (10YR 3/3) peat, very dark grayish brown (2.5Y 3/2) rubbed; 60 percent unrubbed fibers, 60 percent rubbed fibers; H3 von Post humification; many very fine, fine, and common medium roots throughout; slight sulfurous odor; slight effervescence with 30 percent hydrogen peroxide; moderately saline; extremely acid (pH 3.8), extremely acid (pH 3.8) oxidized pH; clear boundary. (0 to 56 centimeters thick.)
 
- Oase1--33 to 108 centimeters (13 to 43 inches); very dark gray (10YR 3/1) muck,  black (10YR 2/1) rubbed; 25 percent unrubbed fibers, 12 percent rubbed fibers; H8 von Post humification; common very fine and fine roots throughout; 5 percent mineral soil material; slight sulfurous odor; negative color change with 3% hydrogen peroxide; slight effervescence with 30% hydrogen peroxide; moderately saline; slightly acid (pH 6.2), extremely acid (pH 3.8) oxidized pH; gradual boundary.
+ Oase1--55 to 90 centimeters; black (7.5YR 2.5/1) muck, black (10YR 2/1) rubbed; 30 percent unrubbed fibers, 14 percent rubbed fibers; H8 von Post humification; common very fine and fine roots throughout; moderate sulfurous odor; slight effervescence with 30 percent hydrogen peroxide; moderately saline; strongly acid (pH 5.4), extremely acid (pH 3.5) oxidized pH; gradual boundary.
 
- Oase2--108 to 200 centimeters (43 to 79 inches); very dark gray (2.5Y 3/1) muck; 10 percent unrubbed fibers, 3 percent rubbed fibers; H9 von Post humification; few fine roots throughout; 40 percent mineral soil material; slight sulfurous odor; negative color change with 3% hydrogen peroxide; slight effervescence with 30% hydrogen peroxide; moderately saline; ultra acid (pH 3.0), ultra acid (pH 3.0) oxidized pH. (Combined thickness of Oase horizons is 132 to 200 centimeters thick.).
+ Oase2--90 to 200 centimeters; black (10YR 2/1) muck; black (10YR 2/1) rubbed; 25 percent unrubbed fibers, 12 percent rubbed fibers; H9 von Post humification; moderate sulfurous odor; slight effervescence with 30 percent hydrogen peroxide; moderately acid; (pH 6.0), ultra acid (pH 3.4) oxidized pH. (Combined thickness of Oase horizons is 132 to 200 centimeters thick)
 
-TYPE LOCATION: Middlesex County, Connecticut; Hammock River Marsh Wildlife Area, approximately 540 feet northeast (73 degree bearing) of intersection of E Main Street and Meadow Road in Clinton, CT. USGS topographic quadrangle: Clinton, CT.
+TYPE LOCATION: New London County, Connecticut; Mystic River, approximately 2,860 feet southeast of the intersection of route 184 and Welles Road and approximately 3,412 feet south-southwest of the road intersections of River Road and Old Mystic Center Road in Mystic, CT. USGS topographic quadrangle: Old Mystic, CT.
 
-Latitude--41.2716020
-Longitude-- -72.5003911
+Latitude--41.382603
+Longitude-- -71.966061 
 Datum--WGS84
 Coordinates source--from hand-held GPS
 
@@ -49,7 +49,7 @@ Chroma--1 or 2
 Texture--Muck
 Horizon Organic Carbon Density--28 to 74 kg m-3
 Rubbed fiber content--1 to 15 percent
-Von Post humification--H7to H10
+Von Post humification scale--H7 to H10
 Mineral soil content--0 to 70 percent
 
 Oese (where present)
@@ -59,10 +59,10 @@ Chroma--1 or 2
 Texture--Mucky peat
 Horizon Organic Carbon Density--28 to 74 kg m-3
 Rubbed fiber content--18 to 38 percent
-Von Post humification scale-H4 to H6
+Von Post humification scale--H4 to H6
 Mineral soil content--8 to 50 percent
 
-Oise horizon (where present)
+Oise horizon
 Hue--7.5YR, 10YR, 2.5Y, 5Y, or 10Y
 Value--2 to 3
 Chroma--1 to 3
@@ -136,14 +136,14 @@ REMARKS:
 Diagnostic horizons and features in this pedon include--
 Peraquic feature--Zero or positive soil water potential at the soil surface.
 Particle-size control section--The zone from 0 to 130 centimeters.
-Hemic soil materials--The zone from 0 to 33 centimeters (Oese horizon).
-Sapric soil materials--The zone from 33 to 200 centimeters (Oase horizons).
-Hypersulfidic materials--The zone from 0 to 200 centimeters (Oese and Oase horizons) have oxidized reactions with pH values less than 4.0 after 16 weeks.
+Fibric soil materials--The zone from 0 to 55 centimeters (Oise horizon).
+Sapric soil materials--The zone from 55 to 200 centimeters (Oase horizons).
+Hypersulfidic materials--The zone from 0 to 200 centimeters (Oise and Oase horizons) have oxidized reactions with pH values less than 4.0 after 16 weeks.
 Taxonomic version--Keys to Soil Taxonomy, 13th edition (2022)
 
-ADDITIONAL DATA: Type location taken from S2023CT007348 in Hammock River Marsh Wildlife Area, Clinton, CT.
+ADDITIONAL DATA: Type location taken from S2023CT011279 in a tidal marsh adjacent to the Mystic River in Mystic, CT.
 
-Additional support pedons used to develop this series include S2023CT007220, S2023CT007228, S2023CT007243, S2023CT007340, S2023CT007356, S2023CT009243, S2023CT009248, S2023CT011201, S2023CT011226, and S2023CT011279.
+Additional support pedons used to develop this series include S2023CT007220, 2023CT007228, S2023CT007243, 2023CT007340, 2023CT007356, 2023CT009243, 2023CT009248, S2023CT011201, and 2023CT011226.
 ________________________________________
 National Cooperative Soil Survey
 U.S.A.
