@@ -1,0 +1,179 @@
+LOCATION NAPAAKTUK              AK
+
+Established Series
+SAS/MPS
+01/2025
+
+NAPAAKTUK SERIES
+
+Depth class: very deep
+Drainage class: moderately well drained
+Parent material: loamy alluvium over sandy and gravelly alluvium over loamy alluvium derived from metamorphic and sedimentary rock
+Landscape: valleys
+Landform: flood plains
+Slope: 0 to 20 percent
+Mean annual precipitation: about 400 mm (16 in)
+Mean annual air temperature: about -4 degrees C. (25 degrees F.)
+Frost-free period: 70 to 90 days
+
+TAXONOMIC CLASS: Coarse-loamy, mixed, superactive Fluvaquentic Haplocryolls
+
+TYPICAL PEDON: Napaaktuk highly organic silt loam in a white spruce open forest with a willow understory community on a slope of 8 percent at an elevation of 326m (1070 ft).
+
+     Oe--0 to 2 cm (0 to 1 in); moderately decomposed plant material; black (7.5YR 2.5/1) moist, gray (7.5YR 5/1) dry; many very fine, fine and few medium roots throughout; moderately acid (pH 5.8); clear smooth boundary. (1 to 4 cm, 0.5 to 2 in thick)
+
+     A--2 to 18 cm (1 to 7 in); highly organic silt loam; 80 percent very dark gray (10YR 3/1) and 20 percent black (10YR 2/1) moist, 80 percent gray (10YR 5/1) and 20 percent dark gray (10YR 4/1) dry; weak medium granular structure; very friable, soft, nonsticky, nonplastic; nonsmeary; common very fine, fine, medium, coarse and few very coarse roots throughout; few very fine tubular pores; moderately acid (pH 6.0); clear smooth boundary. (10 to 18 cm, 4 to 7 in thick)
+
+     Bw--18 to 35 cm (7 to 14 in); silt loam; very dark gray (7.5YR 3/1) moist, gray (7.5YR 5/1) dry; weak medium subangular blocky structure; friable, slightly hard, nonsticky, nonplastic; weakly smeary; common very fine and few fine roots throughout; common very fine tubular pores; moderately acid (pH 6.0); diffuse irregular boundary. (8 to 20 cm, 3 to 8 in thick)
+
+     2C--35 to 58 cm (14 to 23in); extremely gravelly loamy sand; very dark grayish brown (10YR 3/2) moist, grayish brown (10YR 5/2) dry; single grain; loose, nonsticky, nonplastic; nonsmeary; few very fine and fine roots throughout; 61 percent gravel; moderately acid (pH 6.0); clear smooth boundary. (20 to 30 cm, 8 to 12 in thick)
+
+     3Cg1--58 to 70 cm (23 to 28 in); very fine sandy loam; very dark gray (2.5Y 3/1) moist, gray (2.5Y 5/1) dry; massive; very friable, soft, nonsticky, nonplastic; nonsmeary; common very fine roots throughout; few fine tubular pores; 5 percent fine prominent irregular brown (7.5YR 4/4) masses of oxidized iron in matrix and 5 percent medium faint irregular dark gray (2.5Y 4/1) masses of reduced iron in matrix; 10 percent gravel; slightly acid (pH 6.2); clear smooth boundary. (5 to 35 cm, 2 to 14 in thick)
+
+     3Cg2--70 to 200 cm (28 to 79 in); silt loam; dark gray (5Y 4/1) moist, gray (5Y 6/1) dry; massive; firm, moderately hard, nonsticky, slightly plastic; nonsmeary; few fine tubular pores; 10 percent medium prominent irregular strong brown (7.5YR 4/6) masses of oxidized iron in matrix; 5 percent gravel noneffervescent; slightly acid (pH 6.5).
+
+TYPE LOCATION: Nulato Hills - Continental Divide and Blackburn Hills Soil Survey Area, Alaska; latitude 64.2382349, longitude -159.7073584, datum WGS84, UTM north 7123752.49 and UTM east 465697.01, zone 4, datum WGS84.
+
+RANGE IN CHARACTERISTICS:
+
+Soil moisture regime: udic
+Soil temperature regime: cryic
+Mean annual soil temperature: 0 to 3 degrees C. (32 to 37 degrees F.)
+Thickness of organic material: 1 to 4 cm (0.5 to 2 in)
+Thickness of mollic epipedon: 18 to 38 cm (7 to 15 in)
+Depth to redoximorphic concentrations: 39 to 72 cm (15 to 28 in)
+Depth to redoximorphic depletions: 39 to 72 cm (15 to 28 in)
+Depth to reduced matrix: 39 to 72 cm (15 to 28 in)
+
+Oe horizon:
+Hue: 7.5YR or 10YR
+Value: 2 to 3 moist, 4 or 5 dry
+Chroma: 1 to 3
+Texture: moderately decomposed material
+Organic matter: 60 to 90 percent
+Reaction class: moderately acid to neutral (pH 5.6 to 7.3)
+
+A horizon:
+Hue: 10YR
+Value: 2 or 3 moist, 4 to 5 dry
+Chroma: 1 to 3
+Texture: highly organic silt, highly organic silt loam, highly organic very fine sandy loam
+Sand: 10 to 60 percent
+Silt: 27 to 88 percent
+Clay: 2 to 13 percent
+Organic matter: 10 to 19 percent
+Reaction class: moderately acid to neutral (pH 5.6 to 7.3)
+
+Bw horizon:
+Hue: 7.5YR, 10YR, 2.5Y
+Value: 2 or 3 moist, 4 to 5 dry
+Chroma: 1 to 3
+Texture: silt loam, very fine sandy loam
+Sand: 16 to 60 percent
+Silt: 25 to 80 percent
+Clay: 3 to 15 percent
+Organic matter: 1 to 6 percent
+Reaction class: moderately acid to neutral (pH 5.6 to 7.3)
+
+2C horizon:
+Hue: 10YR
+Value: 3 or 4 moist, 5 to 6 dry
+Chroma: 2 to 4
+Texture: loamy sand or its gravelly analogues
+Sand: 71 to 90 percent
+Silt: 0 to 28 percent
+Clay: 1 to 13 percent
+Rock fragments: 35 to 75 percent
+Organic matter: 0.1 to 2.5 percent
+Reaction class: strongly acid to slightly acid (pH 5.1 to 6.5)
+
+3Cg1 horizon:
+Hue: 10YR, 2.5Y, 5Y, 5GY
+Value: 2.5 to 4 moist, 4 to 6 dry
+Chroma: 1 or 2
+Texture: very fine sandy loam, loam or their gravelly analogues
+Sand: 33 to 80 percent
+Silt: 3 to 50 percent
+Clay: 3 to 17 percent
+Rock fragments: 0 to 20 percent
+Organic matter: 0.2 to 3 percent
+Reaction class: strongly acid to slightly acid (pH 5.1 to 6.5)
+
+3Cg2 horizon:
+Hue: 10YR, 2.5Y, 5Y, 5GY
+Value: 2.5 to 4 moist, 4 to 6 dry
+Chroma: 1 or 2
+Texture: silt loam, very fine sandy loam, loam
+Sand: 15 to 60 percent
+Silt: 23 to 80 percent
+Clay: 3 to 17 percent
+Rock fragments: 0 to 14 percent
+Organic matter: 0.2 to 3 percent
+Reaction class: strongly acid to slightly acid (pH 5.1 to 6.5)
+
+COMPETING SERIES: There are no competing series.
+
+GEOGRAPHIC SETTING:
+Elevation: 50 to 550 meters (164 to 1805 feet)
+Parent material: loamy alluvium over sandy and gravelly alluvium over loamy alluvium derived from metamorphic and sedimentary rock
+Landform: flood plains
+Slope: 0 to 20 percent
+Mean annual precipitation: 300 to 600 mm (12 to 24 in)
+Mean annual air temperature: -6 to -1 degrees C. (21 to 30 degrees F.)
+Frost free period: 70 to 90 days
+
+GEOGRAPHICALLY ASSOCIATED SOILS: These are the Aginaktuk, Agitchuk, Apun, Brasspancreek, Fluffle, Jacksoncreek, Shovelcreek, Sprucecreek, Stovecreek, Tenmileriver, and Tuttu soils.
+Aginaktuk soils have aquic conditions starting within 0 to 25 cm (0 to 10 in), have an organic surface thicker than 40 cm (16 in), and occur on depressions on terrace treads
+Agitchuk soils have aquic conditions starting within 0 to 25 cm (0 to 10 in), have a histic epipedon, have a cambic horizon, have cryoturbation, have an acid reaction class, have a gelic soil temperature regime, have rare ponding, and occur on base slopes and toeslopes
+Apun soils have permafrost, have aquic conditions starting within 0 to 25 cm (0 to 10 in), have a histic epipedon, have cryoturbation, have a gelic soil temperature regime, and occur on mountainbases, footslopes, saddles, and terrace treads
+Brasspancreek soils lack aquic conditions, have an ochric epipedon, have a sandy-skeletal particle size class, have frequent, brief flooding, and occur on flood plains on drainageways
+Fluffle soils have aquic conditions starting within 0 to 25 cm (0 to 10 in), have an ochric epipedon, have a cambic horizon, have frequent, long flooding, and occur on similar landforms on talfs on flood plains
+Jacksoncreek soils have aquic conditions starting within 0 to 25 cm (0 to 10 in), have a histic epipedon, have cryoturbation, have a cambic horizon, have an isotic mineralogy class, have an acid reaction class, have a gelic soil temperature regime, and occur on earth hummocks on terrace treads and terrace treads
+Shovelcreek soils lack aquic conditions, have an ochric epipedon, have a sandy-skeletal particle size class, have rare flooding, and occur on similar landforms on talfs on flood plains
+Sprucecreek soils lack aquic conditions, have a folistic epipedon, have a cambic horizon, have a sandy particle size class, and occur on terrace treads
+Stovecreek soils have aquic conditions starting within 0 to 25 cm (0 to 10 in), have an umbric epipedon, have an isotic mineralogy class, have frequent, brief ponding, and occur on drainageways
+Tenmileriver soils lack aquic conditions, have an umbric epipedon, have andic soil properties, have a medial over loamy-skeletal particle size class, have an amorphic over mixed mineralogy class, have an acid reaction class, have a gelic soil temperature regime, and occur on backslopes, footslopes, and mountainflanks, lower thirds
+Tuttu soils lack aquic conditions, have an umbric epipedon, have andic soil properties, have an acid reaction class, have a gelic soil temperature regime, and occur on backslopes, footslopes, and mountainflanks, lower thirds
+
+DRAINAGE AND SATURATED HYDRAULIC CONDUCTIVITY: 
+Drainage class: moderately well drained
+Saturation during normal years: saturated between 50 and 100 cm (20 and 40 in) during the growing season
+Saturated Hydraulic Conductivity: very high in the Oe and 2C horizons, and moderately high to high in the A, Bw, 3Cg1, and 3Cg2 horizons
+Permeability: rapid to very rapid in the Oe and 2C horizons, and moderate to rapid in the A horizon, moderate to moderately rapid in the Bw, 3Cg1, and 3Cg2 horizons. 
+Runoff: low to medium
+Flooding: occasional, brief
+
+USE AND VEGETATION: 
+Use: wildlife habitat, recreation, and subsistence
+Native vegetation: field horsetail, white spruce, tealeaf willow, splendid feather moss, bluejoint, tree climacium moss, mnium calcareous moss, feltleaf willow, yellow thimbleweed, fireweed, beauverd spirea, Kentucky bluegrass, tall Jacob's ladder, spreading woodfern, arctic sweet coltsfoot, Tilesius' wormwood, tall bluebells
+
+DISTRIBUTION AND EXTENT: MLRA 240, Nulato Hills-Southern Seward Peninsula Highlands. The series is of moderate extent.
+
+SOIL SURVEY REGIONAL OFFICE (SSRO) RESPONSIBLE: Wasilla, Alaska
+
+SERIES ESTABLISHED: Nulato Hills - Continental Divide and Blackburn Hills Soil Survey, Alaska, 2024.
+
+REMARKS: Diagnostic features and horizons recognized in this profile include:
+
+Particle-size control section: 27 to 102 cm (11 to 40 in)
+
+Mollic epipedon: 2 to 35 cm (2 to 14 in) (A and Bw horizons)
+
+Lithologic discontinuity: 35 to 58 cm (14 to 23 in) (2C horizon)
+
+Redoximorphic depletions with chroma of 2 or less: 58 to 70 cm (23 to 28 in) (3Cg1 horizon)
+
+Redoximorphic concentrations: 58 to 200 cm (23 to 79 in) (3Cg1 and 3Cg2 horizons)
+
+Reduced matrix: 58 to 200 cm (23 to 79 in) (3Cg1 and 3Cg2 horizons)
+
+Lithologic discontinuity: 58 to 200 cm (23 to 79 in) (3Cg1 and 3Cg2 horizons)
+
+Aquic conditions: 58 to 200 cm (23 to 79 in) (3Cg1 and 3Cg2 horizons)
+
+ADDITIONAL DATA:
+
+User pedon ID: 2021AK290616
+
+National Cooperative Soil Survey
+U.S.A.
