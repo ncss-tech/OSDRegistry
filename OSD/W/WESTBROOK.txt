@@ -1,52 +1,116 @@
-LOCATION WESTBROOK              CT+MA MD NH
+LOCATION WESTBROOK              CT+MA NH NJ NY
 
 Established Series
 Rev. MFF
-05/2024
+01/2025
 
 WESTBROOK SERIES
 
-The Westbrook series consists of very deep, very poorly drained soils formed in organic deposits over loamy mineral material.  They are in tidal marshes subject to inundation by salt water twice daily. Saturated hydraulic conductivity is moderately high to very high in the organic layers and low to high in the underlying mineral sediments. Mean annual temperature is about 10 degrees C and mean annual precipitation is about 1143 mm.
+MLRA(s)--144A, 145, 149B
+Depth class--Very deep
+Drainage class--Very poorly drained
+Saturated hydraulic conductivity--Low to very high
+Parent material--Herbaceous organic deposits over loamy marine or glaciofluvial deposits
+Geomorphic location--Tidal marshes within estuaries, coastal lowlands, and tidal rivers
+Slope range--0 to 1 percent
+Mean Annual Air Temperature--10 degrees C (50 degrees F)
+Mean Annual Precipitation--1143 millimeters (45 inches)
 
 TAXONOMIC CLASS: Loamy, mixed, euic, mesic Terric Sulfihemists
 
-TYPICAL PEDON:  Westbrook mucky peat - salt grass tidal marsh, undrained at an elevation of about 37 feet.  (Colors are for moist soil unless otherwise noted.)
+TYPICAL PEDON:  Westbrook mucky peat in a salt grass tidal marsh, undrained at an elevation of approximately 37 feet.  (Colors are for moist soil unless otherwise noted.)
 
-    0e1--0 to 25 cm (0 to 10 in); very dark gray (10YR 3/1) mucky peat; dark gray (10YR 4/1) dry; 65 percent fiber, 30 percent rubbed; dense mat of roots, stems and leaves; massive; slightly sticky; many very fine; fine and medium roots; fibers herbaceous; thin lenses and coatings of silt; 45 percent organic matter; strongly saline (total salts 58 deciSiemens per meter); slightly acid; clear wavy boundary.  ((12 to 30 cm (5 to 12 inches thick))
+ Oese1--0 to 25 centimeters (0 to 10 inches); very dark gray (10YR 3/1) mucky peat; dark gray (10YR 4/1) dry; 65 percent fiber, 30 percent rubbed; H4 von Post humification; dense mat of roots, stems and leaves; many very fine; fine and medium roots; fibers herbaceous; thin lenses and coatings of silt; 45 percent organic matter; strongly saline (total salts 58 dS/m); slightly acid, extremely acid (pH 4.0) oxidized pH; clear wavy boundary.  (12 to 30 centimeters, 5 to 12 inches thick)
 
-    0e2--25 to 102 cm (0 to 40 in); very dark gray (10YR 3/1) mucky peat, dark gray (10YR 4/1) dry; 50 percent fiber, 25 percent rubbed; massive; slightly sticky; few very fine, fine; and medium roots; fibers herbaceous; thin lenses and coatings of silt; 44 percent organic matter; strongly saline (total salts 34 deciSiemens per meter; moderately acid; gradual wavy boundary.  ((20 to 100 cm (8 to 40 inches thick))
+ Oese2--25 to 102 centimeters (0 to 40 inches); very dark gray (10YR 3/1) mucky peat; dark gray (10YR 4/1) dry; 50 percent fiber, 25 percent rubbed; H4 von Post humification; few very fine, fine, and medium roots; fibers herbaceous; thin lenses and coatings of silt; 44 percent organic matter; strongly saline (total salts 34 dS/m); moderately acid, very strongly acid (pH 4.5) oxidized pH; gradual wavy boundary.  (20 to 100 centimeters (8 to 40 inches thick)
 
-    0e3--102 to 122 cm (40 to 48 in); dark olive gray (5Y 3/2) mucky peat, dark gray (10YR 4/1) dry; 35 percent fiber, 25 percent rubbed; massive; slightly sticky; fibers herbaceous; 24 percent organic matter; strongly saline (total salts 36 deciSiemens per meter); neutral; clear wavy boundary.  (0 to 61 inches thick)
+ Oese3--102 to 122 centimeters (40 to 48 inches); dark olive gray (5Y 3/2) mucky peat; dark gray (10YR 4/1) dry; 35 percent fiber, 25 percent rubbed; H5 von Post humification; fibers herbaceous; 24 percent organic matter; strongly saline (total salts 36 dS/m); neutral, extremely acid (pH 3.8) oxidized pH; clear wavy boundary.  (0 to 61 inches thick)
 
-    Cg1--122 to 163 cm (48 to 64 in); very dark gray (5Y 3/1) silt loam, dark gray (10YR 4/1) dry; massive; slightly sticky; 12 percent organic matter; strongly saline (total salts 28 deciSiemens per meter); neutral; diffuse wavy boundary.  ((0 to 51 cm (0 to 20 inches thick))
+ Cseg1--122 to 163 centimeters (48 to 64 inches); very dark gray (5Y 3/1) silt loam; dark gray (10YR 4/1) dry; massive; slightly sticky; 12 percent organic matter; strongly saline (total salts 28 dS/m); neutral, extremely acid (pH 4.0) oxidized pH; diffuse wavy boundary.  (0 to 51 centimeters, 0 to 20 inches thick)
 
-    Cg2--163 to 250 cm (64 to 99 in); dark gray (N 4/ ) silt loam, dark gray (10YR 4/1) dry; massive; slightly sticky; 10 percent organic matter; few small shell fragments; and very slightly saline to strongly saline; strongly saline (total salts 31 deciSiemens per meter); slightly acid.
+ Cseg2--163 to 250 centimeters (64 to 99 inches); dark gray (N 4/) silt loam; dark gray (10YR 4/1) dry; massive; slightly sticky; 10 percent organic matter; 1 percent shell fragments; and very slightly saline to strongly saline; strongly saline (total salts 31 dS/m); slightly acid, ultra acid (pH 2.8) oxidized pH.
 
-TYPE LOCATION:  Middlesex County, Connecticut; town of Westbrook, 500 feet south of Route 1 (Boston Post Road) at a point 600 feet southwest along US Route 1 from the intersection with Hammock Road; on the Essex USGS topographic quadrangle, latitude 41 degrees 16 minutes 30 seconds N., longitude 72 degrees 28 minutes 18 seconds W., NAD 27.  
+TYPE LOCATION:  Middlesex County, Connecticut; town of Westbrook, approximately 275 meters south (186 degree bearing) of the intersection of Route 1 (Boston Post Road) and Hammock Road. USGS topographic quadrangle--Essex, CT
 
-RANGE IN CHARACTERISTICS:  Thickness of the organic deposits ranges from 40 to 130 cm (16 to 51 in).  The soil is strongly acid to slightly alkaline and very slightly saline to strongly saline. In a 1:5 soil to water mixture by volume the conductivity ranges from 0.0 to 4.5 deciSiemens per meter. Thin lenses of silt and very fine sand are common in the organic horizons.
+Latitude--41.2749448
+Longitude-- -72.4712265
+Datum--WGS84
+Coordinate source--Unknown
 
-The surface tier is neutral or has hue of 5YR to 5Y, value of 2 to 5 and chroma of 0 to 3.  It is typically hemic materials but some pedons have fibric materials.  Organic matter content ranges from 20 to 80 percent or more.
+RANGE IN CHARACTERISTICS:  
+Depth to bedrock--Greater than 200 ccentimeters
+Thickness of organic deposits--40 to 130 centimeters
+Soil Moisture--Wet; peraquic moisture regime
+Reaction throughout--Strongly acid to slightly alkaline (pH 5.1 to 7.8)
+Oxidized reaction--Ultra acid to very strongly acid (pH <3.5 to 5.0)
+Depth to hypersulfidic materials (incubated pH 4.0 or less)--0 to 100 centimeters
+Electrical conductivity (EC 1:5 water)--0 to 4.5 dS/m
+Salt content throughout-5,000 to 35,000 parts per million
+Mineral content--thin lenses of silt and very fine sand are common in organic horizons
+Total Organic Carbon Stock 0 to 100 centimeters--29 to 53 kg m-2
+Total Organic Carbon Stock 0 to 200 centimeters--57 to 76 kg m-2
 
-The subsurface and bottom tiers are neutral or have hue of 5YR to 5Y, value of 2 to 5 and chroma of 0 to 3.  The organic materials are dominantly hemic but some pedons have layers of fibric or sapric materials up to 30 cm (12 in) thick.  Organic matter content ranges from 20 to 90 percent and generally decreases with depth.
+The Surface Tier (Oese, Oe, Oase, Oise, or Oi horizons):
+Hue--5YR to 5Y or neutral
+Value--2 to 5
+Chroma--0 to 3
+Organic matter content--20 to 80 percent or more
+Von Post humification scale--H2 to H7
+Organic carbon density--31 to 66 kg m-3
 
-The C horizon is neutral or has hue of 10YR to 5BG, value of 2 to 7 and chroma of 0 to 2.  Texture ranges from sandy loam to silty clay loam but typically is silt, silt loam or very fine sandy loam. Organic matter content ranges from less than 5 percent to 20 percent.  Shell fragments and herbaceous fibers are common in the C horizon.
+The Subsurface Tier (Oese, Oe, Oise, Oi, Oase, or Oa horizons):
+Hue--5YR to 5Y or neutral
+Value--2 to 5
+Chroma--0 to 3
+Organic matter content--20 to 90 percent generally decreasing with depth
+Von Post humification scale--H3 to H9
+Organic carbon density--32 to 58 kg m-3
 
-COMPETING SERIES:  Honga and Mispillon are in the same family. Honga and Mispillon are from outside LRR R and S. Honga soils have an underlying argillic horizon and Mispillion soils have a firmer substratum (n value greater than 0.7). 
+C horizons:
+Hue--10YR to 5BG or neutral
+Value--2 to 7
+Chroma--0 to 2
+Texture--typically silt, silt loam, or very fine sandy loam; range includes sandy loam to silty clay
+Organic matter content--5 to 20 percent
+Organic carbon density--15 to 35 kg m-3
+Shell fragments and herbaceous fibers are common
 
-Bestpitch and Pawcatuck soils are similar soils in related families.  Bestpitch soils are underlain by clayey materials. Pawcatuck soils are underlain by sandy materials within a depth of 40 to 130 cm (16 to 51 in).
+COMPETING SERIES:
+These are Honga and Mispillon soils.
+Honga soils--formed in herbaceous organic materials overlying nonfluid fluviomarine deposits; the underlying mineral material is typically intact and includes an argillic horizon these soils formed on submerged tidal marshes in the Northern Coastal Plain (MLRA 149A) and Northern Tidewater Area (MLRA 153D).
+Mispillon soils--formed in herbaceous organic materials overlying fluid fluviomarine materials; they are found on submerged tidal marshes in the Northern Coastal Plain (MLRA 149A) and Northern Tidewater Area (MLRA 153D).
 
-GEOGRAPHIC SETTING:  Westbrook soils are level soils in tidal marshes.  They are subject to tidal flooding twice daily except in areas protected by dikes and tide gates.  Westbrook soils developed in partially decomposed organic material from salt tolerate herbaceous plants over loamy sediments.  Mean annual temperature is 7 to 13 degrees C (45 to 55 degrees F) and mean annual precipitation is 1000 to 1270 mm (40 to 50 in).
+GEOGRAPHIC SETTING: 
+Parent material--Herbaceous organic material overlying loamy marine or glaciofluvial deposits
+Landscape--Estuaries, coastal lowlands, and tidal rivers
+Landforms--Tidal marshes
+Elevation--0 to 1 meter
+Slope--0 to 2 percent
+Mean Annual Air Temperature--7 to 13 degrees C (45 to 55 degrees F)
+Mean Annual Precipitation--1000 to 1270 millimeters (40 to 50 inches)
 
-GEOGRAPHICALLY ASSOCIATED SOILS:  These are the Ipswich , Matunuck, and Pawcatuck soils in nearby tidal marsh areas.  Ipswich soils have organic materials deeper than 120 cm (51 in).  Matunuck soils are mineral soils and have an organic surface layer less than 40 cm (16 in) thick.  Westbrook soils are near a wide variety of soils on nearby uplands formed in a glacial drift or marine deposited mineral materials.
+GEOGRAPHICALLY ASSOCIATED SOILS:  These are the Ipswich, Matunuck, and Pawcatuck soils in nearby tidal marsh areas.
+Ipswich soils--formed in thick organic deposits greater than 130 centimeters dominated by hemic materials
+Matunuck soils--formed in sandy marine or glaciofluvial deposits underlying a histic epipedon
+Pawcatuck soils--formed in organic deposits dominated by hemic materials with a thickness between 40 and 130 centimeters overlying sandy mineral materials  
 
-DRAINAGE AND SATURATED HYDRAULIC CONDUCTIVITY:  Very poorly drained.  Runoff is very slow.  Saturated hydraulic conductivity is moderately high to very high in the organic layers and low to high in the underlying mineral sediments.  Unless protected, these soils are flooded by tidewaters twice daily.
+DRAINAGE AND SATURATED HYDRAULIC CONDUCTIVITY:
+Drainage class--Very poorly drained
+Saturated hydraulic conductivity--Moderately high to very high in organic horizons and low to high in underlying mineral horizons
+Soil moisture regime--Peraquic
+Flooding frequency--subject to tidal flooding twice daily except in areas protected by embankments and tide gates
 
-USE AND VEGETATION:  Most areas are in salt marsh and provide food and habitat for fish, shellfish and wildfowl.  Small scattered areas are in saltgrass hay.  The most common grasses are salt meadowgrass, salt water grass and spike grass.  Other vegetation includes blackgrass, sea lavender, saltwort, seaside goldenrod, aster, and purple gerardi.  In areas where the 1:5 EC by volume is below 1.5 deciSiemens per meter,  vegetation consists principally of tall reeds and sedges.
+USE AND VEGETATION:
+Major uses--Most areas are in salt marsh and provide food and habitat for fish, shellfish and wildfowl.
+Vegetation--The most common grasses are salt meadowgrass, salt water grass and spike grass.  Other vegetation includes blackgrass, sea lavender, saltwort, seaside goldenrod, aster, and purple gerardi. In areas where the 1:5 EC by volume is below 1.5 dS/m, vegetation consists principally of tall reeds and sedges.
 
-DISTRIBUTION AND EXTENT: Coastal areas and along tidally influenced rivers of Connecticut,  New Hampshire, Massachusetts, New Jersey, Maryland and Delaware; MLRAs 144A, mesic areas within 144B, 145, 149A, 149B, and 153C.  The series is of moderate extent.
+DISTRIBUTION AND EXTENT:
+General area--coastal areas and tidal zones in Connecticut, New Hampshire, Massachusetts, New Jersey, and New York
+Land Resource Region(s)--R - Northeastern Forage and Forest Region; S - Northern Atlantic Slope Diversified Farming Region; T - Atlantic and Gulf Coast Lowland Forest and Crop Region
+MLRA(s)--144A, 145, and 149B, 
+Extent--Moderate 
 
-SOIL SURVEY REGIONAL OFFICE (SSRO) RESPONSIBLE: SPECIAL PROJECTS OFFICE
+SOIL SURVEY REGIONAL OFFICE (SSRO) RESPONSIBLE: Special Projects Office
 
 SERIES ESTABLISHED:  New Haven County, Connecticut, 1976.
 
@@ -54,13 +118,14 @@ REMARKS:  Westbrook soils were formerly mapped as Tidal marsh, undifferentiated.
 
 Diagnostic features and characteristics recognized in this pedon include:
 
-1. Histic epipedon - the zone from 0 to 30 centimeters (Oe horizon).
-2. Estimated fiber content indicates that the materials are dominantly hemic.
-3. Sulfidic materials are within 100 cm. of the surface. New pedons should include incubation pH measurements to determine if horizons should receive a 'se' subordinate distinction due to sulfate content.
-4. Loamy particle size class - mineral layer of silt loam 130 cm. thick within the control section - from 120 to 251 cm (48 to 99 in) (Cg1 and Cg2 horizons)
-5. Reaction (pH value) is more than 4.5 throughout the control section.
+Histic epipedon--the zone from 0 to 40 centimeters (Oese1 and Oese2 horizons).
+Hemic material--the zone from 0 to 122 centimeters has rubbed fiber content between 16 to 40 percent (Oese1, Oese2, and Oese3 horizons).
+Sulfihemists great group--sulfidic materials within a depth of 100 centimeters. New pedons should include incubation pH measurements and or odor to determine if horizons should receive a 'se' subordinate distinction due to sulfate content.
+Loamy particle size class--mineral layer of silt loam 130 centimeters thick within the control section, from 122 to 250 centimeters (48 to 99 inches) (Cseg1 and Cseg2 horizons)
+Reaction (pH value)--more than 4.5 throughout the control section.
 
-ADDITIONAL DATA:  This pedon is entered as 2008CT007001 in the National Soils Information System from the State of Connecticut Soil Survey manuscript. 
+ADDITIONAL DATA: Type location taken from pedon 2008CT007001 near Meneketesuck River in Westbrook, CT.
+Additional support pedons used to develop this series include S2008CT011002, S2023CT001205, S2023CT001212, S2023CT001225, S2023CT001230, S2023CT001240, S2023CT009318, and S2023CT009326  
 
 Refer to publication "Tidal Marshes of Connecticut and Rhode Island," Hill, D. E. and Shearin, A. E., Connecticut Agricultural Experiment Station Bulletin 709, Feb. 1970.
 

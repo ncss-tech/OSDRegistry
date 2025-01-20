@@ -1,57 +1,130 @@
 LOCATION BODELL                 OR
 
 Established Series
-Rev. DFA/GLG/RWL
-03/98
+Rev. DFA/GLG/RWL/BTH/CEG
+01/2025
 
 BODELL SERIES
 
-The Bodell series consists of shallow, well drained soils that formed in mixed loess, ash and colluvium weathered from basalt. These soils are on mountains.  Slopes are 0 to 75 percent.  The mean annual precipitation is about 28 inches and mean annual temperature is about 49 degrees F.
+Landscape--mountains, intermontane basins
+Landform--generally south-facing mountain slopes, fault-line scarps
+Slope--0 to 75 percent
+Parent material-- loess, volcanic ash, and colluvium weathered from basalt
+Mean annual precipitation--about 710 mm
+Mean annual air temperature--about 9.4 degrees C
+Depth class--shallow
+Drainage class--well drained
+Soil moisture regime--xeric
+Soil temperature regime--mesic
+Soil moisture subclass--typic
 
 TAXONOMIC CLASS: Loamy-skeletal, mixed, superactive, mesic Lithic Haploxerolls
 
-TYPICAL PEDON:  Bodell cobbly loam, rangeland. (Colors are for moist soil unless otherwise noted.)
+TYPICAL PEDON: Bodell cobbly loam, rangeland
 
-    A--0 to 5 inches; dark brown (7.5YR 3/2) cobbly loam, brown (7.5YR 4/3) dry; weak fine granular structure; slightly hard, friable, slightly sticky and slightly plastic; many very fine roots; many very fine irregular pores; 10 percent gravel and 20 percent cobbles; neutral (pH 6.6); abrupt smooth boundary. (4 to 6 inches thick)
+ A--0 to 13 cm; cobbly ashy loam, brown (7.5YR 4/3) dry, dark brown (7.5YR 3/2) moist; weak fine granular structure; slightly hard, friable, slightly sticky and slightly plastic; many very fine roots; many very fine irregular pores; 10 percent gravel and 20 percent cobbles; neutral (pH 6.6); abrupt smooth boundary 
 
-    Bw1--5 to 13 inches, dark brown (7.5YR 3/3) extremely cobbly loam, brown (7.5YR 4/3) dry; weak medium and fine subangular blocky structure; slightly hard, friable, slightly sticky and plastic; many very fine roots; many very fine tubular and irregular pores; 20 percent gravel and 40 percent cobbles; neutral (pH 6.6); clear smooth boundary.
+ Bw1--13 to 33 cm; extremely cobbly loam, brown (7.5YR 4/3) dry, dark brown (7.5YR 3/3) moist; weak medium and fine subangular blocky structure; slightly hard, friable, slightly sticky and plastic; many very fine roots; many very fine tubular and irregular pores; 20 percent gravel and 40 percent cobbles; neutral (pH 6.6); clear smooth boundary
 
-    Bw2--13 to 18 inches; dark brown (7.5YR 3/3) extremely cobbly clay loam, brown (7.5YR 4/4) dry; weak fine subangular blocky structure; hard, firm, sticky and plastic; common very fine roots; many very fine irregular and tubular pores; 60 percent cobbles and 10 percent stones; neutral (pH 6.6); abrupt smooth boundary. (combined thickness of the Bw horizon is 8 to 20 inches)
+ Bw2--33 to 46 cm; extremely cobbly clay loam, brown (7.5YR 4/4) dry, dark brown (7.5YR 3/3) moist; weak fine subangular blocky structure; hard, firm, sticky and plastic; common very fine roots; many very fine irregular and tubular pores; 60 percent cobbles and 10 percent stones; neutral (pH 6.6); abrupt smooth boundary
 
-    2R--18 inches; basalt bedrock.
+ 2R--46 cm; basalt bedrock
 
-TYPE LOCATION:  Wasco County, Oregon; 100 feet north of road in the NW1/4 SW1/4 SW1/4 section 33, T.2N., R.12E.
+TYPE LOCATION: Wasco County, Oregon; about 30.5 m north of road in the NW1/4 SW1/4 SW1/4 of sec. 33, T.2N., R.12E., Willamette Meridian; Brown Creek, Oregon Quadrangle.
 
-RANGE IN CHARACTERISTICS:  The soils are moist in some part of the soil above depth of 12 inches for at least half the time (cumulative) during the period the soil temperature is above 41 degrees F. but are dry between depths of 4 and 20 inches for 60 to 90 consecutive days during the solstice.  The mean annual soil temperature ranges from 47 to 55 degrees F.  Depth to basalt bedrock is 12 to 20 inches.  The solum has hue of 7.5YR or 10YR.  The particle-size control section has 18 to 30 percent clay and 40 to 70 percent rock fragments.  The upper 4 to 6 inches is estimated to have 10 to 30 percent volcanic glass and 0.4 to 1.0 percent acid oxalate extractable aluminum plus one-half iron.  The mollic epipedon is 10 to 20 inches thick.  The soil is slightly acid or neutral.
+RANGE IN CHARACTERISTICS:
 
-The A horizon has value of 2 or 3 moist, 4 or 5 dry and chroma of 2 or 3 moist and dry.  It is cobbly loam, very cobbly loam, or very stony loam.   It has 10 to 30 percent gravel, 10 to 30 percent cobbles, and 0 to 35 percent stones.
+*Soil temperature--mesic
+*Mean annual soil temperature-- 7.8 to 12.8 degrees C
+*Moisture control section--10 to 50 cm, or to lithic contact, whichever is shallower; dry for 60 to 90 consecutive days
+*Mollic epipedon--25 to 50 cm thick
+*Depth to bedrock--30 to 50 cm to lithic contact with basalt
 
-The Bw horizon has value of 3 or 4 moist, 4 or 5 dry and chroma of 3 or 4 moist dry. It is loam or clay loam and has 18 to 30 percent clay.  It has 10 to 60 percent gravel, 10 to 55 percent cobbles, and 0 to 15 percent stones.
+Particle-size control section
+*Rock fragment content--40 to 70 percent
+*Clay content--18 to 30 percent
 
-COMPETING SERIES:  These are the Aldax, Bakeoven, Couleedam, Johntom, Lickskillet, Limekiln, Plaskett, Rockly, and Venator series.  Aldax soils average less than 18 percent clay and are usually dry.  Bakeoven soils are 4 to 10 inches deep to bedrock and are usually dry.  Couleedam soils average less than 18 percent clay and are usually dry (aridic).  Johntom soils are 5 to 15 percent clay in the particle-size control section.  Lickskillet soils are dry for more than 90 consecutive days.  Limekiln soils have a calcic horizon at a depth of 7 to 12 inches.  Plaskett soils have a mean annual soil temperature of 55 to 58 degrees F. and average less than 18 percent clay in the particle-size control section.  Rockly soils are 4 to 12 inches deep to bedrock.  Venator soils are dominated by channery rock fragments throughout the solum.
+Estimated properties, A horizon (and in some pedons, volcanic ash influence may extend deeper, into Bw horizons)
+*Ammonium oxalate extractable Al plus 1/2 Fe--0.2 to 1.0percent
+*1/3-bar bulk density--1.0 to 1.35 g/cm3
+*1500 kPa water (air-dried samples)--10 to 15 percent
+*Volcanic glass--5 to 30 percent
 
-GEOGRAPHIC SETTING:  Bodell soils are on moderately steep to very steep generally south-facing side slopes of mountains.  Elevations are 200 to 3600 feet. These soils formed in mixed loess, volcanic ash, and colluvium weathered from basalt over basalt bedrock. The mean annual precipitation is 14 to 40 inches. The mean annual temperature is 45 degrees to 51egrees F., the mean winter temperature is about 31 degrees F. and the mean summer temperature is about 69 degrees F. The frost-free season is 90 to 140 days.
+A horizon
+Hue--7.5YR or 10YR, dry or moist
+Value--3 to 5 dry, 2 or 3 moist
+Chroma--2 or 3, dry or moist
+Fine-earth texture--ashy loam, ashy sandy loam
+Total content of rock fragments--5 to 50 percent
+Gravel content--5 to 30 percent
+Cobble content--0 to 30 percent
+Stone content--0 to 35 percent
+Reaction--slightly acid to neutral (pH 6.1 to 7.3)
+Thickness--10 to 15 cm
 
-ASSOCIATED SOILS:  These are the Bald, Ketchly and Wamic soils. Bald soils are on forested side slopes of mountains and are more than 20 inches deep to bedrock. Ketchly and Wamic soils are on forested side slopes of mountains and more than 40 inches deep to bedrock. Also, Ketchly soils have frigid soil temperatures.
+Bw horizons
+Hue--7.5YR or 10YR dry or moist
+Value--4 or 5 dry, 3 or 4 moist
+Chroma--3 or 4 dry, 2 to 4 moist
+Fine-earth texture--loam, clay loam, ashy loam, ashy clay loam
+Clay content--18 to 30 percent
+Gravel content--10 to 60 percent
+Cobble content--10 to 55 percent
+Stone content--0 to 20 percent
+Reaction--slightly acid to neutral (pH 6.1 to 7.3)
+Thickness--20 to 40cm
 
-DRAINAGE AND PERMEABILITY:  Well drained; moderate permeability.
+COMPETING SERIES:
+Bodacious--xeric soil moisture regime bordering aridic; mean annual soil temperature is less than 10.5 degrees C; no volcanic glass
+Johntom--5 to 15 percent clay in the particle-size control section
+Limekiln--calcic horizon at a depth of 20 to 40 cm
+Plaskett--mean annual soil temperature of 12.7 to 14 degrees C; less than 18 percent clay in the particle-size control section
+Rockly--bedrock (lithic contact) at a depth of 10 to 30 cm
+Sanikara--parent material is residuum from sandstone or greenstone; no volcanic glass
+Venator--rock fragments dominated by channers; parent material is residuum or colluvium from shale, rhyolite, or other sedimentary rock
 
-USE AND VEGETATION:  These soils are used for livestock grazing and wildlife habitat.  The native vegetation is mainly Idaho fescue, bluebunch wheatgrass, sandberg bluegrass, arrowleaf balsamroot and onespike oatgrass.
+GEOGRAPHIC SETTING:
+Elevation--60 to 1800 m
+Climate--cool wet winters and hot dry summers
+Mean annual air temperature-- 6.9 to 11.0 degrees C
+Mean annual soil temperature-- 7.8 to 12.8 degrees C
+Mean annual precipitation--355 to 1015 mm
+Frost-free period--80 to 140 days
 
-DISTRIBUTION AND EXTENT:  Uplands of north-central Oregon; MLRA 6. The series is inextensive.
+GEOGRAPHICALLY ASSOCIATED SOILS:
+Bald--forested side slopes of mountains; more than 50 cm deep to bedrock
+Ketchly--forested side slopes of mountains; more than 100 cm deep to bedrock; frigid soil temperature regime
+Wamic--forested side slopes of mountains; more than 100 cm deep to bedrock
+Dehlinger--shrub-dominated fault-line scarps; more than 180 cm deep to bedrock
 
-MLRA SOIL SURVEY REGIONAL OFFICE (MO) RESPONSIBLE: Portland, Oregon
+DRAINAGE AND SATURATED HYDRAULIC CONDUCTIVITY:
+Drainage class--well drained
+Saturated hydraulic conductivity (Ksat)--moderately high to high
 
-SERIES ESTABLISHED:  Wasco County, Oregon, 1975.
+USE AND VEGETATION:
+Use--livestock grazing and wildlife habitat
+Vegetation--Idaho fescue, bluebunch wheatgrass, Sandberg bluegrass, arrowleaf balsamroot, onespike oatgrass
 
-REMARKS: Diagnostic horizons and features recognized in this pedon include:
+DISTRIBUTION AND EXTENT: Uplands of north-central Oregon; MLRA 6; and Klamath and Shasta Valleys and Basins, Oregon; MLRA 21; inextensive
 
-Mollic epipedon - the zone from the surface to 18 inches (A, Bw1, and Bw2 horizons)
+SOIL SURVEY REGIONAL OFFICE (SSRO) RESPONSIBLE: Bozeman, Montana
 
-Vitrandic feature - the zone from the surface to 5 inches (A horizon)
+SERIES ESTABLISHED:
+Wasco County, Oregon, 1975
 
-Particle-size control section - the zone from 10 to 18 inches (lower 3 inches of Bw1 horizon and Bw2 horizon)
+REMARKS:
+Diagnostic horizons and other features in this pedon
+*Particle-size control section--zone from 25 to 46 cm
+*Mollic epipedon--zone from 0 to 46 cm
+*Vitrandic feature--zone from 0 to 46 cm
+*Lithic contact--basalt at 46 cm
 
+Further investigation is needed to assess vitrandic properties in this soil and to determine the depth to which the ash influence extends (whether it includes the A and Bw horizons or is limited to the A horizon only); it is possible there is some spatial variability across this series' extent, with regard to vitrandic properties.
+
+ADDITIONAL DATA: 
+NASIS SITE ID--1975OR065009; NASIS PEDON ID--1975OR065009
+
+3/3/2022--updated this official series description to add an ashy textural modifier to the surface texture and define vitrandic properties; to add MLRA 21 (to cover recent updates in the OR683 soil survey); to slightly expand some of the ranges in color, rock fragments, temperature and elevation; and to update the competing series section.
 
 National Cooperative Soil Survey
 U.S.A.

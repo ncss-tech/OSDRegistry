@@ -1,59 +1,131 @@
-LOCATION IPSWICH                MA+CT MD NH NY RI
+LOCATION IPSWICH                MA+CT NH NJ NY RI
 
 Established Series
-Rev. DGG-WHT-MT
-05/2024
+Rev. DGG-WHT-MT-BEF
+01/2025
 
 IPSWICH SERIES
 
-The Ipswich series consists of very deep, very poorly drained soils formed in thick herbaceous organic deposits.  They are on level tidal marshes subject to inundation by salt water twice daily.  Saturated hydraulic conductivity is moderately high to very high.  Mean annual temperature is about 9 degrees C, and the mean annual precipitation is about 1143 mm. 
+MLRA(s)--144A, 145, 149B
+Depth class--Very deep
+Drainage class--Very poorly drained
+Saturated hydraulic conductivity--Moderately high to high
+Parent Material--Herbaceous organic materials
+Geomorphic location--Tidal marshes within estuaries, coastal lowlands, and tidal rivers
+Slope--0 to 2 percent
+Mean annual air temperature--9 degrees C (48 degrees F)
+Mean annual precipitation--1143 millimeters (45 inches)
 
 TAXONOMIC CLASS: Euic, mesic Typic Sulfihemists
 
-TYPICAL PEDON:  Ipswich mucky peat in a salt grass tidal marsh at sea level, undrained. (Colors are for moist soil.) 
+TYPICAL PEDON: Ipswich mucky peat in a salt grass tidal marsh at sea level, undrained. (Colors are for moist soil unless otherwise stated).
 
-    Oe1--0 to 46 cm (0 to 18 inches); dark grayish brown (2.5Y 4/2) mucky peat (hemic material); 80 percent fiber, 45 percent rubbed; dense mat of roots, stems, and leaves; friable; many very fine to coarse roots; fibers herbaceous; about 40 percent mineral material of mostly silt and very fine sand; neutral; abrupt smooth boundary.  (30 to 56 cm thick) 
+ Oese1--0 to 46 centimeters (0 to 18 inches); dark grayish brown (2.5Y 4/2) mucky peat; 80 percent fiber, 45 percent rubbed; H5 Von Post humification; dense mat of roots, stems, and leaves; friable; many very fine to coarse roots; fibers herbaceous; approximately 40 percent mineral material of mostly silt and very fine sand; very strongly acid (pH 5.0), extremely acid (pH 3.5) oxidized pH; abrupt smooth boundary. (30 to 56 cm thick)
 
-    Oe2--46 to 107 cm (18 to 42 inches); very dark grayish brown (2.5Y 3/2) mucky peat (hemic material); 70 percent fibers, 25 percent rubbed; massive; very friable; about 45 percent mineral material of mostly silt and very fine sand; slightly acid; abrupt wavy boundary. (61 to 91 cm thick) 
+ Oese2--46 to 107 centimeters (18 to 42 inches); very dark grayish brown (2.5Y 3/2) mucky peat; 70 percent fibers, 25 percent rubbed; H6 Von Post humification; massive; very friable; approximately 45 percent mineral material of mostly silt and very fine sand; moderately acid (pH 5.6), strongly acid (pH 5.3) oxidized pH; abrupt wavy boundary. (61 to 91 cm thick)
 
-    Oa--107 to 157 cm (42 to 62 inches); very dark gray (2.5Y 3/1) muck (sapric material); 20 percent fibers, 10 percent rubbed, massive; very friable; about 50 percent mineral material of silt and very fine sand; neutral. 
+ Oase--107 to 200 centimeters (42 to 62 inches); very dark gray (2.5Y 3/1) muck; 20 percent fibers, 10 percent rubbed; H9 Von Post humification; massive; very friable; approximately 50 percent mineral material of silt and very fine sand;  moderately acid (pH 5.9), strongly acid (pH 5.2) oxidized pH.
 
-TYPE LOCATION:  Essex County, Massachusetts; Town of Newbury, 1.25 miles east of the intersection of Cottage Road and High Road, and 1.50 miles southeast of the intersection of High Road and Pine Island Road in the Parker River National Wildlife Refuge.  Latitude 42 degrees 46 minutes 02 seconds N., and longitude 70 degrees 49 minutes 20 seconds W., NAD 27. 
+TYPE LOCATION: Essex County, Massachusetts; Town of Newbury, approximately 2.06 kilometers east of the intersection of Cottage Road and High Road, and 2.32 kilometers southeast of the intersection of High Road and Pine Island Road in the Parker River National Wildlife Refuge. 
 
-RANGE IN CHARACTERISTICS:  Thickness of the organic deposits is more than 130 cm.  The soil ranges from strongly acid to slightly alkaline in its natural condition.  Thin layers of very fine sand and silt in the organic material are common in some pedons.  Mineral content ranges from 5 to 80 percent throughout.  The electrical conductivity ranges from 0.0 to 4.5 dS/m in a 1:5 soil to water mixture by volume. Salt content ranges from about 5,000 to 35,000 parts per million. The soil commonly is moderately saline in the surface tier and moderately saline to strongly saline in the subsurface and bottom tiers. In some places the range includes slightly saline.
+Latitude--42.7648333
+Longitude-- -70.8212722
+Datum--WGS84
+Coordinate source--Unknown
 
-The surface tier is neutral or has hue of 7.5YR to 5Y, value of 2 to 5, and chroma of 0 to 3.  Unrubbed fiber content is 35 to 100 percent; rubbed fiber content ranges from 20 to 75 percent. 
+RANGE IN CHARACTERISTICS:
+Depth to bedrock--Greater than 200 centimeters
+Thickness of organic deposits--Greater than 130 centimeters
+Soil Moisture--Wet; peraquic moisture regime
+Reaction throughout--Strongly acid to slightly alkaline (pH 5.1 to 7.8)
+Oxidized reaction--Ultra acid to moderately acid (pH <3.5 to 6.0)
+Total Soil Organic Carbon Stock 0 to 100 centimeters--31 to 65 kg m-2
+Total Soil Organic Carbon Stock 0 to 200 centimeters--48 to 74 kg m-2
+Electrical conductivity (EC 1:5 water), throughout--0.0 to 4.5 dS/m
+Salt content throughout--5,000 to 35,000 parts per million
+Mineral Content--5 to 80 percent
+Depth to hypersulfidic materials (oxidized pH 4.0 or less)--0 to 100 centimeters
 
-The subsurface tier is neutral or has hue of 5YR to 5Y, value of 2 to 5, and chroma of 0 to 3.  Unrubbed fiber content is 20 to 85 percent; rubbed fiber content ranges from 20 to 40 percent except layers up to 12 inches thick have 10 to 60 percent rubbed fiber. 
+The Surface Tier
+Hue--7.5YR, 10YR, 2.5Y, or 5Y
+Value--2 to 5
+Chroma--0 to 3
+Rubber fiber content--20 to 75 percent
+Von Post humification scale--H3 to H7
+Organic carbon density--38 to 62 kg m-3
 
-The bottom tier is neutral or has hue of 5YR to 5Y, value of 2 to 4, and chroma of 0 to 3.  Unrubbed fiber content is 10 to 70 percent; rubbed fiber content is less than 40 percent. 
+The Subsurface Tier
+Hue--5YR, 7.5YR, 10YR, 2.5Y, or 5Y
+Value--2 to 5
+Chroma--0 to 3
+Unrubbed fiber content--20 to 85 percent
+Rubbed fiber content--20 to 40 percent; layers up to 12 inches thick have 10 to 60 percent rubber fibers
+Von Post humification scale--H4 to H7
+Organic carbon density--37 to 72 kg m-3
 
-COMPETING SERIES:  The Transquaking series is the only other series in the same family.  Transquaking soils are underlain by loamy and/or clayey mineral material below a depth of 130 cm and are in areas with mean annual temperature greater than 11 degrees C. 
+The Bottom Tier
+Hue--5YR, 7.5YR, 10YR, 2.5Y or 5Y
+Value--2 to 4
+Chroma--0 to 3
+Ubrubbed fiber content--10 to 70 percent
+Rubbed fiber content--less than 40 percent
+Von Post humification scale--H4 to H9
+Organic carbon density--21 to 26 kg m-3
 
-GEOGRAPHIC SETTING:  Ipswich soils are level and are in tidal marshes adjacent to the Atlantic Ocean and extend inland along some of the major rivers.  These soils are subject to tidal flooding twice daily except in areas protected by dikes and tide gates.  These soils formed in partially decomposed organic material from salt tolerant herbaceous plants.  The climate is cool temperate and humid.  Mean annual temperature ranges from 8 to 11 degrees C and mean annual precipitation ranges from 1067 to 1219 mm. 
+COMPETING SERIES: 
+Transquaking soils-are underlain by loamy and/or clayey mineral material below a depth of 130 centimetersand are in areas with mean annual temperature greater than 11 degrees C (MLRA 153D - Northern Tidewater Area).
 
-GEOGRAPHICALLY ASSOCIATED SOILS:  These are the Agawam, Canton, Charlton, Enfield, Haven, Hinckley, Hollis, Merrimac, Montauk, Pawcatuck, Paxton and Westbrook series on nearby landscapes.  Agawam, Enfield, Haven, Hinckley, and Merrimac soils are well or somewhat excessively drained soils on adjacent outwash terraces.  Canton, Charlton, Montauk, and Paxton are well drained soils on adjacent glaciated uplands.  Hollis soils are shallow to bedrock soils on uplands. Pawcatuck and Westbrook are both underlain by mineral soil material within a depth of  41 to 130 cm.   
+GEOGRAPHIC SETTING:
+Parent Material--Herbaceous organic materials
+Landscape--Estuaries, coastal lowlands, and tidal rivers
+Landform--Tidal marshes
+Slope--0 to 2 percent
+Mean Annual Precipitation--1067 to 1219 millimeters (42 to 48 inches)
+Mean Annual Air Temperature--8 to 11 degrees C (46 to 52 degrees F)
 
-DRAINAGE AND SATURATED HYDRAULIC CONDUCTIVITY:  Very poorly drained.  Runoff is negligible or ponded.  The soil is subject to very brief, very frequent tidal fluctuations. Saturated hydraulic conductivity is moderately high to very high.
+GEOGRAPHICALLY ASSOCIATED SOILS: 
+These are the Black Hall, Calves, Hammonasset, Oyster River, Pawcatuck, Quinnipiac, and Westbrook soils.
+Barn Island soils--formed in sapric organic soil materials over loamy mineral materials with organic horizon thicknesses from 41 to 130 centimeters.
+Calves soils--formed in loamy estuarine deposits overlying loamy or sandy alluvium; includes a histic epipedon.
+Hammonasset soils--formed in thick deposits of sapric dominated organic soil materials.
+Oyster River soils--formed in loamy estuarine deposits with 40 centimeters or more of buried organic soil materials.
+Pawcatuck soils--formed in hemic organic soil materials over sandy mineral soil materials starting between 41 and 130 centimeters.
+Quinnipiac soils--formed in loamy alluvium or estuarine deposits with no histic epipedon.
+Westbrook soils--formed in hemic organic soil materials over loamy mineral soil materials starting at a depth between 41 and 130 centimeters.
 
-USE AND VEGETATION:  Most areas are in salt marsh and provide food or habitat for fish, shellfish, and wildfowl.  Small scattered areas are used for growing saltgrass hay.  The most common grasses are marsh hay cordgrass, smooth cordgrass, and seashore saltgrass.  Other vegetation includes sea lavender, glasswort, seaside goldenrod, and sea-blite. 
+DRAINAGE AND SATURATED HYDRAULIC CONDUCTIVITY:
+Drainage class--Very poorly drained
+Saturated hydraulic conductivity--Moderately high to very high
+Soil moisture regime--Peraquic
+Flooding frequency--the soils are subject to tidal flooding twice daily except in areas protected by dikes and tide gates.
 
-DISTRIBUTION AND EXTENT:  Coastal areas and tidal zones in Connecticut, New Hampshire, Massachusetts, Maryland, New York, New Jersey, and Rhode Island (MLRAs 144A, 144B, 149A, and 149B).  The series is of moderate extent. 
+USE AND VEGETATION: 
+Major uses--Most areas are in salt marsh and provide food or habitat for fish, shellfish, and wildfowl.
+Vegetation--The most common grasses are marsh hay cordgrass, smooth cordgrass, and seashore saltgrass. Other vegetation includes sea lavender, glasswort, seaside goldenrod, and sea-blite.
 
-SOIL SURVEY REGIONAL OFFICE (SSRO) RESPONSIBLE: SPECIAL PROJECTS OFFICE
+DISTRIBUTION AND EXTENT: 
+General area--Coastal areas and tidal zones in Connecticut, New Hampshire, Massachusetts, New York, New Jersey, and Rhode Island.
+Land Resource Region(s)--R - Northeastern Forage and Forest Region; S - Northern Atlantic Slope Diversified Farming Region
+MLRA(s)--144A, 145, and 149B.
+Extent--Moderate
 
-SERIES ESTABLISHED:  Essex County, Massachusetts, 1977. 
+SOIL SURVEY REGIONAL OFFICE (SSRO) RESPONSIBLE: Special Projects Office
 
-REMARKS:  These soils were formerly mapped as tidal marsh. 
+SERIES ESTABLISHED: Essex County, Massachusetts, 1977.
 
-Diagnostic horizons and features recognized in this pedon include: 
+REMARKS: 
+These soils were formerly mapped as tidal marsh.
+Diagnostic horizons and features recognized in this pedon include--
+Hemic material--the zone from 0 to 107 centimeters has rubbed fiber content between 16 and 40 percent (Oese1 and Oese2 horizons).
+Sapric material--the zone from 107 to 200 centimeters has a rubbed fiber content less than 16 percent (Oase horizon).
+Sulfihemists great group--sulfidic materials within a depth of 100 centimeters. New pedons should include incubation pH measurements and or odor to determine if horizons should receive a 'se' subordinate distinction due to sulfate content.
+Reaction (pH value)--more than 4.5 throughout the control section.
 
-1. Hemic material - the zone from 0 to 107 cm has rubbed fiber content between 16 and 40 percent (Oe1 and Oe2 horizons).
-2. Sapric material - the zone from 107 to 157 cm has a rubbed fiber content less than 16 percent (Oa horizons).
-3. Sulfihemists great group - sulfidic materials within a depth of 102 cm.  New pedons should include incubation pH measurements to determine if horizons should receive a 'se' subordinate distinction due to sulfate content.
-4. Reaction (pH value) is more than 4.5 throughout the control section. 
+ADDITIONAL DATA: 
+OSD type location pedon: 1977MA009014.  
+Additional support pedons used to develop this series include S2001NY081103, S2008CT011001, S2008MA023001, S2016MA001001, S2016MA009001, S2023CT001206, S2023CT001242, S2023CT001243.
 
-ADDITIONAL DATA: Partial characterization data from Tidal Marshes of Connecticut and Rhode Island, Hill, D. E. and Shearin, A. E., Connecticut Agricultural Experiment Station Bulletin 709, Feb. 1970. 
+Partial characterization data from Tidal Marshes of Connecticut and Rhode Island, Hill, D. E. and Shearin, A. E., Connecticut Agricultural Experiment Station Bulletin 709, Feb. 1970.
 
 National Cooperative Soil Survey
 U.S.A.
