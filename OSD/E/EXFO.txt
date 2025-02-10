@@ -2,47 +2,94 @@ LOCATION EXFO                   OR
 
 Established Series
 Rev. SCW/TDT
-01/2023
+02/2025
 
 EXFO SERIES
 
-The Exfo series consist of very shallow, somewhat excessively well drained soils that formed in material weathered from massive, exfoliated Miocene Picture Gorge Basalt.  They are on sideslopes and associated with horizontal layers of exposed basalt.  Slopes are 2 to 90 percent.  The mean annual precipitation is about 12 inches, and the mean annual temperature is about 50 degrees F.
+Landscape--foothills, canyonlands, plateaus
+Landform--canyons, hillslopes, structural benches
+Slope--2 to 90 percent
+Parent material--colluvium derived from exfoliated Picture Gorge Basalts
+Mean annual precipitation--about 300 mm
+Mean annual air temperature--about 10 degrees C
+Depth class--very shallow
+Drainage class--somewhat excessively drained
+Soil moisture regime--aridic (torric)
+Soil temperature regime--mesic
+Soil moisture subclass--typic
 
-TAXONOMIC CLASS:  Sandy-skeletal, mixed, mesic Lithic Torriorthents
+TAXONOMIC CLASS: Sandy-skeletal, mixed, mesic Lithic Torriorthents
 
-TYPICAL PEDON:  Exfo very cobbly loamy coarse sand - rangeland, on a 50 percent slope at an elevation of 2,300 feet.  (When described on September 13, 1999, the soil was dry throughout.  Colors are for moist soils unless otherwise noted.)
+TYPICAL PEDON: Exfo very gravelly loamy coarse sand, rangeland, on a 50 percent slope at an elevation of 700 meters (When described on September 13, 1999, the soil was dry throughout.)
 
-    A--0 to 5 inches; dark brown (10YR 3/3) very cobbly loamy coarse sand, brown (10YR 5/3) dry; single grain; loose, nonsticky and nonplastic; few very fine roots; few very fine irregular pores; 20 percent cobbles, 15 percent coarse gravels, and 15 percent fine gravel; moderately alkaline (pH 8.1); abrupt wavy boundary.  (1 to 8 inches thick)
+ A--0 to 13 cm; brown (10YR 5/3) very gravelly loamy coarse sand, dark brown (10YR 3/3) moist; single grain; loose, nonsticky and nonplastic; few very fine roots; few very fine irregular pores; 20 percent cobbles, 15 percent coarse gravels, and 15 percent fine gravel; moderately alkaline (pH 8.1); abrupt wavy boundary.
 
-    R--5 inches; dark colored, massive, exfoliated basalt
+ R--13 cm; dark colored, exfoliated basalt
 
-TYPE LOCATION:  Grant County, Oregon, located about 4 miles north of the junction of Highways 19 and 26 or 15 miles south of the community of Kimberly; 1,600 feet east and 1,600 feet north of the SW corner of section 30, T. 11 S., R. 26 E. (Latitude 44 degrees, 34 minutes, and 57 seconds N. and Longitude 119 degrees, 38 minutes, and 49 seconds W.)
+TYPE LOCATION: Grant County, Oregon, located about 6 km north of the junction of Highways 19 and 26 near Squaw Creek or 24 km south of the community of Kimberly; 460 meters east and 490 meters north of the SW corner of section 30, T. 11 S., R. 26 E; latitude 44.5823402 degrees north, longitude 119.6480255 degrees west; WGS84; coordinates estimated from PLSS description
 
-RANGE IN CHARACTERISTICS:  The soil is dry in all parts for more than to three-fourths of the time when the soil temperature is 41 degrees F. or more.  The mean annual soil temperature is 47 to 54 degrees F.  Depth to bedrock is 1 to 8 inches but is typically 4 to 6 inches.
+RANGE IN CHARACTERISTICS:
+Mean annual soil temperature--8 to 12 degrees C
+Soil moisture--dry in all parts for more than three-fourths of the time when the soil temperature is 5 degrees C or more
+Depth to lithic bedrock--3 to 20 cm, typically 10 to 15 cm
 
-The A horizon has chroma of 2 to 4 moist and dry and value of 2 or 3 moist and 4 or 5 dry.  It is loamy coarse sand with 5 to 10 percent clay.  It has 10 to 20 percent cobbles and 5 to 15 percent coarse gravel derived from fractured, Picture Gorge Basalt and 15 to 35 percent fine gravel formed in place from exfoliated, basalt.  Organic matter is 0.5 to 1.0 percent.
+A horizon
+*Hue--10YR
+*Value--2 or 3 moist, 4 or 5 dry
+*Chroma--2 to 4 moist and dry
+*Fine earth texture--loamy coarse sand
+*Clay--5 to 10 percent
+*Sand--80 to 90 percent
+*Total fragments--35 to 70 percent
+*Fine gravel (2.0-5.0mm)--15 to 35 percent
+*Medium and coarse gravel--5 to 35 percent
+*Cobbles--10 to 20 percent
+*Organic matter--0.5 to 1.0 percent
+*Reaction--slightly to moderately alkaline
+*Thickness--3 to 20 cm
 
-COMPETING SERIES:  There are no competing series.
+COMPETING SERIES:
+Jacaranda--formed in lacustrine deposits; annual precipitation is about 125mm
 
-GEOGRAPHIC SETTING:  Exfo soils are on side slopes and associated with horizontal layers exposed basalt.  Slopes are 2 to 90 percent.  These soils formed in material weathered from massive, exfoliated Miocene Picture Gorge Basalt.  Elevation is 1,400 to 4,800 feet.  The climate is semi-arid with cool, moist winters and hot, dry summers.  The mean annual precipitation is 9 to 16 inches, and the mean annual temperature is 45 to 52 degrees F.  The frost-free period is 90 to 140 days.  
+GEOGRAPHIC SETTING: 
+Elevation--425 to 1460 meters
+Climate--semi-arid with cool, moist winters and hot, dry summers
+Mean annual precipitation--230 to 400 mm
+Mean annual air temperature--7 to 11 degrees C
+Frost-free period--90 to 140 days
+Lithology--Miocene Picture Gorge Basalt
 
-GEOGRAPHICALLY ASSOCIATED SOILS:  These are the Brisbois, Drinkwater, Gooserock, Haystack, Lickskillet and Ninetysix soils.  Brisbois soils are on steep slopes near Badlands, clayey family, and are formed over weathered tuff.  Drinkwater, Gooserock, Haystack and Ninetysix soils are all loamy-skeletal and are very deep to bedrock.  Drinkwater and Lickskillet soils are on south slopes.  Gooserock soils are on north slopes.  Haystack soils are on alluvial fans.  Lickskillet soils have a mollic epipedon and are 12 to 20 inches to bedrock.
+GEOGRAPHICALLY ASSOCIATED SOILS:
+Brisbois--on steep slopes near Badlands; clayey family; formed over weathered tuff
+Drinkwater--loamy-skeletal family; very deep to bedrock; located on south slopes
+Gooserock--loamy-skeletal family; very deep to bedrock; located on north slopes
+Haystack--loamy-skeletal family; very deep to bedrock; located on alluvial fans
+Lickskillet--located on south slopes; mollic epipedon; 30 to 50 cm to bedrock
+Ninetysix--loamy-skeletal family; very deep to bedrock
 
-DRAINAGE AND PERMEABILITY:  Somewhat excessively drained.  Rapid permeability
+DRAINAGE AND SATURATED HYDRAULIC CONDUCTIVITY:
+Drainage--somewhat excessively drained
+Saturated in normal years--none
+Flooding--none
+Ponding--none 
+Saturated hydraulic conductivity--high to very high
 
-USE AND VEGETATION:  These soils are used for livestock grazing and wildlife habitat.  The potential native vegetation is purple sage and curlleaf mountainmahogany.
+USE AND VEGETATION:
+Use--livestock grazing, wildlife habitat
+Potential natural vegetation--bluebunch wheatgrass, purple sage, curl leaf mountain mahogany
 
-DISTRIBUTION AND EXTENT:  East-central Oregon; MLRA B-10.  This series is moderately extensive.
+DISTRIBUTION AND EXTENT:
+Distribution--East-central Oregon; MLRA 10
+Extent--moderately extensive
 
-MLRA SOIL SURVEY REGIONAL OFFICE (MO) RESPONSIBLE:  Portland, Oregon
+SOIL SURVEY REGIONAL OFFICE (SSRO) RESPONSIBLE: Bozeman, Montana
 
-SERIES ESTABLISHED:  John Day Fossil Beds National Monument, Oregon, 2000.
+SERIES ESTABLISHED: John Day Fossil Beds National Monument, Oregon, 2000.
 
-REMARKS:  Diagnostic horizons and features recognized in this pedon are:
-
-Ochric epipedon
-Aridic moisture regime
-Particle size control section - from 0 to 5 inches
+REMARKS: 
+Diagnostic horizons and features recognized in this pedon are:
+*Ochric epipedon--0 to 13 cm
+*Particle size control section--0 to 13 cm
 
 National Cooperative Soil Survey
 U.S.A.

@@ -1,51 +1,105 @@
 LOCATION HAFLINGER              OR
 
 Established Series
-Rev. WRP-AON-TDT
-06/2011
+WRP/AON/TDT
+02/2025
 
 HAFLINGER SERIES
 
-The Haflinger series consists of very deep, excessively drained soils that formed in cobbly coarse textured alluvium of volcanic origin.  These soils are on low terraces and have slopes of 0 to 5 percent.  The mean annual precipitation is 70 inches, and the mean annual temperature is 49 degrees F.
+Landscape--western Cascade mountains
+Landform--low stream terraces, flood plains
+Slope--0 to 5 percent
+Parent  material--coarse-textured alluvium  derived from volcanic rocks
+Mean annual precipitation--about 1800 mm
+Mean annual air temperature--about 10 degrees C
+Depth class--very deep
+Drainage class--somewhat excessively drained
+Soil moisture regime--udic
+Soil temperature regime--mesic
+Soil moisture subclass--typic
 
 TAXONOMIC CLASS: Sandy-skeletal, mixed, mesic Entic Humudepts
 
-TYPICAL PEDON:  Haflinger cobbly loam - cutover timberland.  (Colors are for moist soil unless otherwise noted.)
+TYPICAL PEDON: Haflinger cobbly loam at an elevation of 354 m
 
-    A1--0 to 8 inches; very dark brown (10YR 2/2) cobbly loam, dark grayish brown (10YR 4/2) dry; moderate very fine granular structure; slightly hard, friable, slightly sticky and slightly plastic; many fine roots; many very fine irregular pores; 20 percent cobbles and 10 percent gravel; moderately acid (pH 6.0); clear smooth boundary.  (3 to 8 inches thick)
+ A1--0 to 20 cm; cobbly loam, dark grayish brown (10YR 4/2) dry, very dark brown (10YR 2/2) moist; moderate very fine granular structure; slightly hard, friable, slightly sticky and slightly plastic; many fine roots; many very fine irregular pores; 10 percent gravel and 20 percent cobbles; moderately acid (pH 6.0); clear smooth boundary 
 
-    A2--8 to 17 inches; dark brown (10YR 3/3) cobbly loam, brown (10YR 5/3) dry; weak very fine granular structure; soft, very friable, nonsticky and nonplastic, common fine roots; many very fine irregular pores; 10 percent gravel and 20 percent cobbles; moderately acid (pH 5.8); gradual smooth boundary.  (7 to 13 inches thick)
+ A2--20 to 43 cm; cobbly loam, brown (10YR 5/3) dry, dark brown (10YR 3/3) moist; weak very fine granular structure; soft, very friable, nonsticky and nonplastic; common fine roots; many very fine irregular pores; 10 percent gravel and 20 percent cobbles; moderately acid (pH 5.8); gradual smooth boundary
 
-    C1--17 to 24 inches; dark yellowish brown (10YR 4/4) very cobbly loamy sand, yellowish brown (10YR 5/4) dry; single grained; loose; nonsticky and nonplastic; common fine roots; common very fine irregular pores; 20 percent gravel and 30 percent cobbles; moderately acid (pH 5.6); abrupt wavy boundary.  (4 to 8 inches thick)
+ C1--43 to 61 cm; very cobbly loamy sand, yellowish brown (10YR 5/4) dry, dark yellowish brown (10YR 4/4) moist; structureless single grain; loose, nonsticky and nonplastic; common fine roots; many fine interstitial pores; 20 percent gravel and 30 percent cobbles; moderately acid (pH 5.6); abrupt wavy boundary
 
-    C2--24 to 60 inches; dark yellowish brown (10YR 4/4) extremely cobbly sand, yellowish brown (10YR 5/4) dry; single grained; loose; nonsticky and nonplastic; few very fine roots; 5 percent gravel and 50 percent cobbles; moderately acid (pH 5.6).
+ C2--61 to 150 cm; extremely cobbly sand, yellowish brown (10YR 5/4) dry, dark yellowish brown (10YR 4/4) moist; structureless single grain; loose, nonsticky and nonplastic; few very fine roots; many fine interstitial pores; 25    percent gravel and 50 percent cobbles; moderately acid (pH 5.6)
 
-TYPE LOCATION: Lane County, Oregon; about 50 miles east of Eugene in the McKenzie River valley, near the multiple use sign south of Buchart Bridge on the road to Cougar Reservoir; southwest 1/4 northwest 1/4 of sec. 19, T. 16 S., R. 5 E.
+TYPE LOCATION: Lane County, Oregon; about 80 km east of Eugene in the McKenzie River valley, near the multiple use sign south of Buchart Bridge and east of the road to Cougar Reservoir; in the southwest 1/4 northwest 1/4 of section 19, T. 16 S., R. 5 E., Willamette Meridian; Blue River, Oregon, U.S. Geological Survey quadrangle; latitude 44.1635 degrees north, 122.2590 degrees west, datum WGS 84 (coordinates estimated from PLSS description)
 
-RANGE IN CHARACTERISTICS:  The soil is usually moist, but is dry in all parts between depths of 8 and 24 inches for less than 45 consecutive days during the summer.  The mean annual soil temperature is 50 to 52 degrees F.  The umbric epipedon is 10 to 20 inches thick.  The particle-size control section dominantly is loamy sand or sand with 35 to 60 percent rock fragments.
+RANGE IN CHARACTERISTICS:
+Mean annual soil temperature--8 to 11 degrees C
+Soil moisture control section--dry for less than 45 consecutive days following summer solstice
+Thickness of umbric epipedon--25 to 50 cm
+Depth to sandy-skeletal material--25 to 50 cm
+Reaction--pH 5.6 to 6.5 
 
-The A horizon has hue of 10YR or 7.5YR, value of 2 or 3 moist, 4 or 5 dry, and chroma of 2 or 3 moist or dry.  It is cobbly loam or cobbly sandy loam and averages 10 to 20 percent gravel and 15 to 30 percent cobbles.
+Particle-size control section (weighted average)
+*Total fragment content--greater than 35 percent
 
-The C horizon has value of 5 or 6 dry and chroma of 3 or 4 moist and dry.  It is very cobbly loamy sand, sand, or extremely cobbly sand, and averages 35 to 60 percent cobbles and 15 to 35 percent gravel.
+Oi horizon
+*Composition--slightly decomposed plant material 
+*Thickness--0 to 5 cm
 
-COMPETING SERIES:  These are the Bonneville, Gearhart, and Smith Creek series in other families.  Bonneville and Smith Creek soils have a xeric moisture regime.  Gearhart soils have an isomesic soil temperature regime.
+A horizons
+*Hue--10YR, 7.5YR
+*Value--2 to 3 moist, 4 or 5 dry
+*Chroma--2 or 3 moist or dry
+*Fine-earth texture--loam, sandy loam
+*Clay content--5 to 18 percent
+*Total fragment content--5 to 35 percent  
+*Gravel content--5 to 30 percent
+*Cobble content--0 to 30 percent
+*Thickness--25 to 50 cm
 
-GEOGRAPHIC SETTING:  Haflinger soils are on river terraces and have slopes of 0 to 5 percent.  They are at elevations of 900 to 1,500 feet.  The soils formed in coarse textured alluvium and outwash dominantly from basic igeneous origin with some volcanic ash.  The climate is humid with warm, dry summers and cool, wet winters.  The mean annual precipitation is 65 to 75 inches.  The mean January temperature is 34 degrees F; mean July temperature is 64 degrees F; and mean annual temperature is 48 to 50 degrees F.  The frost-free period is 130 to 180 days.
+C horizons
+*Value--4 or 5 moist, 5 or 6 dry
+*Chroma--3 or 4 moist or dry
+*Fine-earth texture--loamy sand, sand, coarse sand
+*Clay content--0 to 10 percent
+*Total fragment content--50 to 90 percent 
+*Gravel content--15 to 35 percent
+*Cobble content--20 to 60 percent
 
-GEOGRAPHICALLY ASSOCIATED SOILS:  These are the Cupola, Jimbo, and Saturn soils.  Cupola soils are medial-skeletal.  Jimbo soils are coarse-loamy and lack rock fragments above a depth of 40 inches.  Saturn soils are fine-loamy over fragmental.
+COMPETING   SERIES: None
 
-DRAINAGE AND PERMEABILITY:  Excessively drained; slow runoff; moderately rapid over rapid permeability.
+GEOGRAPHIC SETTING:
+Elevation--240 to 910 m
+Climate--mild, wet winters; warm, dry summers
+Mean annual precipitation--1400 to 2200 mm
+Mean annual air temperature--7 to 10 degrees C
+Frost-free period--100 to 200 days 
 
-USE AND VEGETATION:  Homesites, recreation, and timber production.  Native vegetation is mainly Douglas-fir, western hemlock, incense-cedar, salal, western swordfern, red huckleberry, Pacific rhododendron, vine maple, and numerous small plants.
+GEOGRAPHICALLY ASSOCIATED SOILS:
+Cupola--ashy-skeletal particle-size control section; located on high terraces and mountain bases
+Jimbo--lacks rock fragments above a depth of 100 cm; located on stream terraces and high flood plains
+Saturn--averages greater than 18 percent clay in the upper part of the particle-size control section; located on terraces and drainageways
 
-DISTRIBUTION AND EXTENT:  Upper drainage basins of the McKenzie River in the western Cascade Mountains; MLRA 3.  The series is not extensive.
+DRAINAGE AND SATURATED HYDRAULIC CONDUCTIVITY:
+Drainage   class--somewhat excessively drained
+Saturation in normal years--none
+Flooding--rare
+Ponding--none
+Saturated hydraulic conductivity (Ksat)--high in the epipedon and very high below
 
-MLRA SOIL SURVEY REGIONAL OFFICE (MO) RESPONSIBLE: Portland, Oregon
+USE AND VEGETATION:
+Use--wildlife habitat, recreation
+Potential  natural vegetation--red alder, bigleaf maple, Douglas-fir, western hemlock, vine maple, salal, Indian plum, youth on age, arctic sweet coltsfoot, bedstraw, Siberian springbeauty, false Solomon's seal
 
-SERIES ESTABLISHED:  Lane County Area, Oregon, 1981.
+DISTRIBUTION AND EXTENT: Western Cascade Mountains, Oregon; MLRA 3; small extent
 
-REMARKS:  Diagnostic horizons and other features;
-Umbric epipedon from 0 to 17 inches  
+SOIL SURVEY REGIONAL OFFICE (SSRO) RESPONSIBLE: Bozeman, Montana
+
+SERIES ESTABLISHED: Lane County Area, Oregon; 1981
+
+REMARKS: Diagnostic horizons and other features
+*Particle-size control section--zone from 25 to 100 cm
+*Umbric epipedon--zone from 0 to 43 cm
 
 National Cooperative Soil Survey
 U.S.A.

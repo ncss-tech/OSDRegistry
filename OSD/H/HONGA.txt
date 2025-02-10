@@ -1,140 +1,179 @@
-LOCATION HONGA                  MD+DE VA
+LOCATION HONGA                  MD+VA
 
 Established Series
-SYD-RBT/Rev. MDJ
-06/2024
+SYD-RBT/Rev. MDJ-ATD
+02/2025
 
 HONGA SERIES
 
-MLRA(S) where used: 133A, 149A, 153C, 153D
+MLRA(s)--149A, 153C, 153D
+Depth class--Very deep
+Drainage class--Very poorly drained
+Flooding--Very frequent, very brief (twice daily by tides)
+Parent material--Herbaceous organic deposits over loamy fluviomarine deposits 
+Geomorphic location--Submerged upland tidal marshes
+Slope--0 to 2 percent
+Elevation--0 to 1 meter
+Mean annual air temperature--13 degrees C (55 degrees F)
+Mean annual precipitation--1144 millimeters (45 inches)
 
 TAXONOMIC CLASS: Loamy, mixed, euic, mesic Terric Sulfihemists
 
-TYPICAL PEDON: Honga peat, on a smooth 0 percent slope, in a submerged upland tidal marsh. (Colors are for a moist soil). 
+TYPICAL PEDON: Honga peat, on a smooth 0 percent slope, in a submerged upland tidal marsh. (Colors are for a moist soil unless otherwise stated).
 
- Oi--0 to 18 centimeters (0 to 7 inches); dark grayish brown (10YR 4/2) peat (fibric soil material); fiber content is three-fourths of the soil volume after rubbing; 30 percent, by weight mineral soil material; many fine, medium, and coarse live roots; neutral; clear smooth boundary. (0 to 28 centimeters (0 to 11 inches thick) 
+ Oise--0 to 18 centimeters; dark grayish brown (10YR 4/2) peat; fiber content 70 percent by volume after rubbing; von Post value H3; many fine, medium, and coarse roots throughout; neutral (pH 7.0); clear smooth boundary. (thickness range is 0 to 28 centimeters)
 
- Oe--18 to 33 centimeters (7 to 13 inches); dark brown (10YR 3/3) mucky peat (hemic soil material); fiber content is one-half of the soil volume after rubbing; 30 percent, by weight mineral soil material; common fine and medium live roots; neutral; clear smooth boundary. (15 to 64 centimeters (15 to 64 centimeters (6 to 25 inches) thick) 
+ Oese--18 to 33 centimeters; dark brown (10YR 3/3) mucky peat; fiber content 50 percent by volume after rubbing; von Post value H5; common fine and medium roots throughout; neutral (pH 7.0); clear smooth boundary. (thickness range is 15 to 64 centimeters)
 
- Oa--33 to 56 centimeters (13 to 22 inches); black (10YR 2/1) muck (sapric soil material); fiber content is one-tenth of the soil volume after rubbing; 60 percent, by weight mineral soil material; neutral; clear smooth boundary. (0 to 33 centimeters (0 to 13 inches) thick) 
+ Oase--33 to 56 centimeters; black (10YR 2/1) muck; fiber content 10 percent by volume after rubbing; von Post value H8; neutral (pH 7.0); clear smooth boundary. (thickness range is 0 to 33 centimeters)
 
- Ag--56 to 61 centimeters (22 to 24 inches); black (5Y 2.5/1) silt loam; massive; friable; slightly sticky, slightly plastic; n-value less than 0.7, material does not flow between the fingers when squeezed; neutral; gradual smooth boundary. (5 to 13 centimeters (2 to 5 inches) thick)) 
+ Ag--56 to 61 centimeters; black (5Y 2.5/1) silt loam; massive; friable; slightly sticky, slightly plastic; nonfluid; neutral (pH 7.0); gradual smooth boundary. (thickness range is 5 to 13 centimeters)
 
- Eg--61 to 91 centimeters (24 to 36 inches); gray (10YR 5/1) silt loam; massive; firm; slightly sticky, slightly plastic; n-value less than 0.7, material does not flow between the fingers when squeezed; neutral; gradual smooth boundary. (0 to 30 centimeters (0 to 12 inches) thick) 
+ Eg--61 to 91 centimeters; gray (10YR 5/1) silt loam; massive; firm; slightly sticky, slightly plastic; nonfluid; neutral (pH 7.0); gradual smooth boundary. (thickness range is 0 to 30 centimeters)
 
- Btg1--91 to 122 centimeters (36 to 48 inches); dark gray (5Y 4/1) silty clay loam; moderate coarse prismatic structure; very firm; slightly sticky, slightly plastic; common medium distinct olive (5Y 5/3) iron masses; n-value less than 0.7, material does not flow between the fingers when squeezed; neutral; gradual smooth boundary. 
+ Btg1--91 to 122 centimeters; dark gray (5Y 4/1) silty clay loam; moderate coarse prismatic structure; very firm; slightly sticky, slightly plastic; nonfluid; common medium distinct olive (5Y 5/3) iron concentrations; neutral (pH 7.0); gradual smooth boundary.
 
- Btg2--122 to 165 centimeters (48 to 65 inches); gray (10YR 5/1) silty clay loam: moderate coarse prismatic structure; very firm; slightly sticky, slightly plastic; common medium prominent strong brown (7.5YR 5/8) and common medium prominent light yellowish brown (10YR 6/4) iron masses; n-value less than 0.7, material does not flow between the fingers when squeezed; neutral; (Combined thickness of Btg horizon is 30 to 119 centimeters (12 to 47 inches)) 
+ Btg2--122 to 200 centimeters; gray (10YR 5/1) silty clay loam: moderate coarse prismatic structure; very firm; slightly sticky, slightly plastic; nonfluid; common medium prominent strong brown (7.5YR 5/8) and common medium prominent light yellowish brown (10YR 6/4) iron concentrations; neutral (pH 7.0). (Combined thickness range of Btg horizons is 30 to 119 centimeters)
 
 TYPE LOCATION:
-State:  Maryland
-County:  Dorchester
-USGS Topographical Quadrangle:  Honga
-Latitude:  38.251667 N
-Longitude:  76.174167 W
-Approximately 1.2 kilometers southeast of Hoopersville on middle Hooper Island; 152 meters south- southwest of old dirt lane, 9 meters west of main ditch in marsh
+Dorchester County, Maryland; on the western shore of Middle Hooper Island approximately 1.2 kilometers south-southeast of the town of Hoopersville, approximately 0.54 kilometers south-southeast of the intersection of Hoopersville Road and Doeller Road, approximately 0.71 kilometers southwest of Dick's Point, approximately 1.21 kilometers northwest of Cow Point, and approximately 30 meters east of the Chesapeake Bay shoreline. USGS topographical quadrangle--Honga, Maryland
+
+Latitude--38.251667
+Longitude-- -76.174164
+Datum--WGS84
+Coordinate source--Unknown
 
 RANGE IN CHARACTERISTICS:
-Thickness of the Underlying Material: Greater than 203 centimeters (80 inches)
-Depth to Bedrock: Greater than 203 centimeters (80 inches)
-Depth to the Mineral Soil Material: 40 to 130 centimeters (16 to 51 inches)
-Depth to Seasonal High Water Table: 0 to 30 centimeters (0 to 12 inches), January to December
-Rock Fragments: 0 to 5 percent, by volume throughout the profile, mostly rounded quartz gravels
-Electrical Conductivity: Greater than 16 mmhos/cm in organic layers and 4 to more than 16 mmhos/cm in mineral layers
-Soil Reaction: Slightly acid to neutral in the natural state and extremely acid to strongly acid upon drying
-Sulfur Content: 0.75 percent to 3.0 percent in organic layers and 0.05 to 0.50 percent in mineral layers
-Other Features: Mineral horizons have n-value less than 1.0, typically less than 0.7 
+Depth to bedrock--Greater than 200 centimeters
+Thickness of organic soil material--40 to not more than 130 centimeters
+Soil moisture regime--Peraquic (tidally flooded twice daily)
+Electrical conductivity--Greater than 8 dS/m (5.6 ppt or greater) throughout 
+Depth to sulfidic materials--0 to 100 centimeters 
+Rock fragments--0 to 5 percent by volume throughout the profile, mostly rounded quartz gravels
+Reaction--Slightly acid to neutral throughout (pH 6.1 to 7.3)
+Organic carbon stock 0 to 100 centimeters--25 to 47 kg m-2
+Organic carbon stock 0 to 200 centimeters--31 to 71 kg m-2
+Other features--Mineral horizons have a fluidity class ranging from nonfluid to moderately fluid
 
-Range of Individual Horizons:
-Surface tier, 0 to 30 centimeters (0 to 12 inches) (Oi or Oe horizon):
-Color--hue of 7.5YR or 10YR, value of 2 to 4, chroma of 1 to 3
-Texture--peat (fibric soil material) or mucky peat (hemic soil material)
-Mineral Material Content: 20 to 70 percent, by weight 
+Oise horizon (where present):
+Hue--10YR to 5Y
+Value--2 to 4
+Chroma--1 to 3
+Texture--Peat
+Von Post--H2 to H3
+Organic carbon density--20 to 54 kg m-3
 
-Subsurface tier, 30 to 90 centimeters (12 to 36 inches) (Oe or Oa horizon):
-Color--hue of 5YR to 10YR, value of 2 to 5, chroma of 1 to 4, or is neutral with value of 1 to 4
-Texture--mucky peat (hemic soil material) or muck (sapric soil material). Some pedons have thin layers of mineral soil material.
-Mineral Material Content: 20 to 60 percent, by weight 
+Oese horizon:
+Hue--7.5YR to 5Y
+Value--2 to 4
+Chroma--1 to 3
+Texture--Mucky peat
+Von Post--H4 to H6
+Organic carbon density--24 to 122 kg m-3
+Other characteristics--some pedons have thin layers of mineral soil material
 
-Bottom tier, 90 to 130 centimeters (36 to 51 inches) (Oe or Oa horizon):
-Color--hue of 10YR to 5Y, value of 2 or 2.5, chroma of 1 or 2, or is neutral with value of 2 to 3.
-Texture--typically muck (sapric material) but includes mucky peat (hemic soil material). Some pedons have thin layers of mineral soil material.
-Mineral Material Content: 20 to 75 percent, by weight 
+Oase horizon (where present):
+Hue--10YR to 5Y
+Value--2 to 5
+Chroma--1 to 3
+Texture--Muck
+Von Post--H7 to H9
+Organic carbon density--19 to 66 kg m-3
+Other characteristics--some pedons have thin layers of mineral soil material
 
-Ag horizon:
-Color--hue of 10YR to 5Y, value of 2 to 5, chroma of 1 or 2
-Texture (fine-earth fraction)--silt loam, loam, fine sandy loam, or sandy loam 
+Aseg or Ag horizon:
+Hue--10YR to 5Y
+Value--2 to 5
+Chroma--1 or 2
+Texture--silt loam, loam, sandy clay loam, fine sandy loam, or sandy loam
+Organic carbon density--4 to 61 kg m-3
 
-Eg horizon:
-Color--hue of 10YR to 5Y, value of 4 to 7, chroma of 1 or 2
-Texture--silt loam, loam, fine sandy loam, or sandy loam 
+Eseg or Eg horizon (where present):
+Hue--10YR to 5Y
+Value--4 to 7
+Chroma--1 or 2
+Texture--silt loam, loam, fine sandy loam, or sandy loam
+Organic carbon density--4 to 21 kg m-3
 
 Btg horizon:
-Color--hue of 10YR to 5GY, value of 4 to 6, chroma of 1 or 2, or is neutral with value of 3 to 6
-Texture--silt loam, silty clay loam, loam, or clay loam
-Redoximorphic Features--iron depletions in shades of olive or gray and iron masses in shades of red, brown, yellow, or olive 
+Hue--10YR to 5GY or N
+Value--3 to 6
+Chroma--0 to 2
+Texture--silt loam, silty clay loam, loam, or clay loam 
+Redoximorphic features--iron depletions in shades of olive or gray and iron concentrations in shades of red, brown, yellow, or olive
+Organic carbon density--1 to 14 kg m-3
 
-BCg or Cg horizon (if they occur):
-Color--hue of 10YR to 5GY, value of 4 to 6, chroma of 1 or 2, or is neutral with value of 3 to 6
-Texture--clay loam, sandy loam, or loamy sand
-Redoximorphic Features--iron depletions in shades of olive or gray and iron masses in shades of red, brown, yellow, or olive 
+BCg or Cg horizon (where present):
+Hue--10YR to 5GY or N
+Value--3 to 6
+Chroma--0 to 2
+Texture--silty clay loam, clay loam, sandy clay loam, Silt loam, coarse sandy loam, sandy loam, loamy coarse sand, loamy sand, or sand
+Redoximorphic Features--iron depletions in shades of olive or gray and iron concentrations in shades of red, brown, yellow, or olive
+Organic carbon density--0.5 to 14 kg m-3
 
 COMPETING SERIES:
-Mispillion soils--do not have an underlying argillic horizon and have n-value of more than 0.7 in the mineral soil layers, on similar landforms 
+These are the Mispillion and Westbrook soils:
+Mispillion soils--do not have an underlying argillic horizon and have n-value of more than 0.7 in the mineral soil layers, on similar landforms
 Westbrook soils--do not have an underlying argillic horizon and have n-value of less than 0.7 in the mineral soil layers, on similar landforms
 
 GEOGRAPHIC SETTING:
-Landscape: Coastal Plain
-Landform: Submerged upland marshes 
-Elevation: 0 to 0.3 meters (0 to 1 foot) 
-Slope: 0 to 1 percent
-Parent Material: Organic herbaceous material over fluviomarine sediments that have low n-value
-Depth Class: Very deep
-Mean Annual Air Temperature: 12 to 14 degrees Centigrade (54 to 58 degrees F.)
-Mean Annual Precipitation: 1067 to 1219 millimeters (42 to 48 inches) 
-Frost Free Period: 180 to 210 days 
+Parent material--Herbaceous organic deposits over loamy fluviomarine deposits 
+Landscape--Coastal plain
+Landform--Submerged upland tidal marshes
+Slope range--0 to 2 percent
+Elevation--0 to 1 meter
+Mean annual air temperature range--11 to 15 degrees C (52 to 59 degrees F)
+Mean annual precipitation range--1052 to 1240 millimeters (41 to 49 inches)
 
 GEOGRAPHICALLY ASSOCIATED SOILS:
-Bestpitch soils--formed in fine-textured mineral deposits, do not have an underlying argillic horizon, and have typically have n-value of more than 0.7 in the mineral soil layers, on similar landforms
-Elkton soils--poorly drained mineral soils with a fine-silty particle-size control section that has 27 to 35 percent clay, on higher landforms
-Othello soils poorly drained mineral soils with a fine-silty particle-size control section that has 18 to 27 percent clay, on higher landforms
-Sunken soils--very poorly drained mineral soils with a fine-silty particle-size control section that have 0.05 to 0.50 percent sulfur and an electrical conductivity of 2 to 8 mmhos/cm, on slightly higher landforms 
-Tangier soils-very poorly drained soil with a fine-silty particle-size class, do not have organic materials greater than 20 centimeters (8 inches) thick, on similar landforms
-Transquaking soils--have organic layers more than 130 centimeters (51 inches) thick, on similar landforms
+These are the Bestpitch, Elkton, Othello, Sunken, Tangier, and Transquaking soils:
+Bestpitch soils--have underlying mineral materials with a clay content of 35 percent or greater (clayey), a fluidity class of fluid to very fluid, lack an argillic horizon, and are on slightly lower tidal marsh landforms
+Elkton and Othello soils--are poorly drained mineral soils, not saline or brackish, not tidally flooded, and are on higher landforms with argillic horizons
+Sunken soils--have less than 20 centimeters of organic soil materials, on slightly higher elevations with lower salinity (high marsh), on similar landforms
+Tangier soils--have less than 20 centimeters of organic soil materials, on similar landforms 
+Transquaking soils--have greater than 130 centimeters of organic soil materials, on slightly lower tidal marsh landforms
 
 DRAINAGE AND SATURATED HYDRAULIC CONDUCTIVITY:
-Drainage Class (Agricultural): Very poorly drained
-Internal Free Water Occurrence: Very shallow (< than 25 centimeters (10 inches)) and permanent (present continuously)
-Index Surface Runoff: Negligible to low (Negligible in the organic materials and low in the underlying mineral materials)
-Saturated Hydraulic Conductivity Class: High to very high in the organic deposits and moderately low to moderately high in the mineral material 
-Permeability Class (obsolete): Moderately rapid to rapid in the organic deposits and moderately slow to slow in the mineral material
-Flooding Frequency and Duration: Very frequent and very brief
-Ponding Frequency and Duration: None
+Drainage Class--Very poorly drained
+Saturated Hydraulic Conductivity--High to very high in the organic material and moderately low to moderately high in the mineral material
+Soil Moisture Regime--Peraquic (continuously saturated throughout)
+Flooding--Very frequent, very brief (twice daily by tides)
 
-USE AND VEGETATION: Mainly as wetland wildlife habitat. Dominant vegetation is black needlerush (Juncus roemerianus), saltmeadow cordgrass (Spartina patens), saltmarsh cordgrass (Spartina alterniflora), saltgrass (Distichlis spicata), marsh-elder (Iva frutescens), and groundsel-tree (Baccharis halimifolia). 
+USE AND VEGETATION: 
+Major Uses--Honga soils are mainly used for their important ecological and environmental benefits as tidal salt marsh ecosystems that provide essential plant and animal habitat, water quality benefits, and coastal protection from storms and sea level rise.
+Natural vegetation--Typically black needlerush (Juncus roemerianus), saltmeadow cordgrass (Spartina patens), saltmarsh cordgrass (Spartina alterniflora), saltgrass (Distichlis spicata), marsh-elder (Iva frutescens), and groundsel-tree (Baccharis halimifolia).
 
 DISTRIBUTION AND EXTENT:
-Distribution:  Coastal Plain of Maryland, Delaware and Virginia 
-Extent:  Moderate 
+General Area--Coastal plain of Maryland and Virginia
+Land Resource Regions (LRR)-- S - Northern Atlantic Slope Diversified Farming Region and T - Atlantic and Gulf Coast Lowland Forest and Crop Region
+MLRA(s)--149A, 153C, 153D
+Extent--Moderate
 
 SOIL SURVEY REGIONAL OFFICE (SSRO) RESPONSIBLE: SPECIAL PROJECTS OFFICE
 
-SERIES ESTABLISHED: Dorchester County, Maryland, 1992 
+SERIES ESTABLISHED: Dorchester County, Maryland, 1992
 
-REMARKS: These soils were formerly included in the tidal marsh miscellaneous area. They are flooded by tidal waters and become extremely acidic when drained. 
-Diagnostic horizons and other diagnostic soil characteristics recognized in this pedon are:
-Fibric material--the zone from 0 to 18 centimeters (0 to 7 inches) has a fiber content after rubbing that is three-fourths or more of the soil volume (Oi horizon)
-Hemic material--the zone from 18 to 33 centimeters (7 to 13 inches) has a fiber content after rubbing that is between one-sixth and three-fourths of the soil volume (Oe horizon)
-Sapric material--the zone from 33 to 56 centimeters (13 to 22 inches) has a fiber content after rubbing that is less than one-sixth of the soil volume (Oa horizon)
-Sulfidic materials--more than 0.75 percent sulfur, with less than three times as much carbonate (CaCO3 equivalent) as sulfur, within a depth of 40 inches
-High n-value--the zone from 56 to 165 centimeters (22 to 65 inches) has an n-value less than 0.7, the material does not flow easily between the fingers
-Argillic horizon--the zone from 91 to 165 centimeters (36 to 65 inches) (Btg horizons) 
+REMARKS: 
+Honga soils were formerly mapped as Tidal Marsh miscellaneous areas. They are flooded twice daily by tidal waters. These soils may become extremely acid to ultra acid when drained. Historically, large areas of these soils were ditched for mosquito control, which has led to marsh degradation in some areas.
 
-ADDITIONAL DATA: Characterization data for the typical pedon is available from NSSL, Pedon number S86MD-019-008(1-7). Refer to publication "Tidal Marsh Soils of Maryland", Darmody, R.G. and Foss, J.E., Maryland Agricultural Experiment Station Publication MP 930, October 1978. 
-Typical Data Map Unit: 481743
-Typical User Pedon ID: 08MD019001_Honga 
+Diagnostic horizons and features recognized in this pedon (Keys to Soil Taxonomy, Thirteenth Edition):
+Aquic conditions--the zone from 0 to 200 centimeters is continuously saturated (endosaturation)
+Fibric soil materials--the zone from 0 to 18 centimeters has a fiber content after rubbing that is three-fourths or more of the soil volume (Oise horizon)
+Hemic soil materials--the zone from 18 to 33 centimeters has a fiber content after rubbing that is between one-sixth and three-fourths of the soil volume (Oese horizon)
+Sapric soil materials--the zone from 33 to 56 centimeters has a fiber content after rubbing that is less than one-sixth of the soil volume (Oase horizon)
+Hypersulfidic materials--the zone from 0 to 56 centimeters has a sulfur content of 0.75 percent or greater by dry mass, mostly in the form of sulfides
+Fluidity--the mineral horizons (zone from 56 to 165 centimeters) are nonfluid (low n-value)
+Argillic horizon--the zone from 91 to 200 centimeters (Btg horizons)
+Control section--the zone from 0 to 130 centimeters. 
 
-Previous Revision: 11/2002, JEB-WDC/Rev. JAK
+ADDITIONAL DATA: 
+
+NASIS site and pedon ID for typical pedon: S1986MD019008
+
+Characterization data for the typical pedon is available from Kellogg Soil Survey Laboratory.
+
+Refer to publication "Tidal Marsh Soils of Maryland", Darmody, R.G. and Foss, J.E., Maryland Agricultural Experiment Station Publication MP 930, October 1978.
+
 ________________________________________
 National Cooperative Soil Survey
 U.S.A.

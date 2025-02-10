@@ -1,60 +1,127 @@
 LOCATION ILLAHEE                OR
 
 Established Series
-Rev. RGC/TDT
-06/2011
+Rev. RGC/TDT/DCR
+02/2025
 
 ILLAHEE SERIES
 
-The Illahee series consists of very deep, well drained soils on mountain side slopes.  These soils formed in colluvium and residuum derived dominantly from welded tuffs and flow basalts.  Slopes are 3 to 90 percent.  The mean annual precipitation is about 70 inches and the mean annual temperature is about 43 degrees F.
+Landscape--western Cascade mountains
+Landform--mountain slopes, mountains
+Slope--2 to 90 percent
+Parent material--colluvium derived from welded tuff and basalt
+Mean annual precipitation--about 1800 mm
+Mean annual air temperature--about 6 degrees C
+Depth class--very deep
+Drainage class--well drained
+Soil moisture regime--udic
+Soil temperature regime--frigid
+Soil moisture subclass--typic
 
-TAXONOMIC CLASS: Loamy-skeletal, isotic, frigid Typic Humudepts
+TAXONOMIC CLASS: Loamy-skeletal, isotic, frigid Andic Humudepts
 
-TYPICAL PEDON: Illahee very gravelly loam, on a northwest slope of 35 percent under coniferous forest at an elevation of 4245 feet.  (Colors are for moist soil unless otherwise stated.)
+TYPICAL PEDON: Illahee very gravelly loam, on a northwest slope of 35 percent under coniferous forest at an elevation of 1294 m
 
-    Oi--0 to 1 inch; slightly decomposed fir needles, twigs, and fern fronds.
+ Oi--0 to 3 cm; slightly decomposed fir needles, twigs, and fern fronds
 
-    A1--1 to 11 inches; black (10YR 2/1) very gravelly loam, dark grayish brown (10YR 4/2) dry; moderate fine granular structure; slightly hard, friable, nonsticky and nonplastic; many very fine, fine, and medium, and common coarse roots; common very fine irregular pores; 35 percent gravel; strongly acid; clear wavy boundary. (8 to 12 inches thick)
+ A1--3 to 28 cm; very gravelly loam, dark grayish brown (10YR 4/2) dry, black (10YR 2/1) moist; moderate fine granular structure; slightly hard, friable, nonsticky and nonplastic; many very fine, fine, and medium, and common coarse roots; common very fine irregular pores; 35 percent gravel; strongly acid; clear wavy boundary
 
-    A2--11 to 16 inches; very dark brown (10YR 2/2) very gravelly loam, brown (10YR 5/3) dry; moderate fine and medium granular structure; slightly hard, friable, nonsticky and nonplastic; many very fine, fine and medium, and common coarse roots; common very fine irregular pores; 40 percent gravel; very strongly acid; clear wavy boundary. (4 to 6 inches thick)
+ A2--28 to 41 cm; very gravelly loam, brown (10YR 5/3) dry, very dark brown (10YR 2/2) moist; moderate fine and medium granular structure; slightly hard, friable, nonsticky and nonplastic; many very fine, fine and medium, and common coarse roots; common very fine irregular pores; 40 percent gravel; very strongly acid; clear wavy boundary
 
-    Bw1--16 to 39 inches; very dark grayish brown (10YR 3/2) very gravelly loam, pale brown (10YR 6/3) dry; weak very fine and fine subangular blocky structure; slightly hard, friable, nonsticky and nonplastic; common very fine, fine, medium and coarse roots; common fine irregular pores; 45 percent gravel and 5 percent cobbles; strongly acid; clear wavy boundary. (20 to 25 inches thick)
+ Bw1--41 to 99 cm; very gravelly loam, pale brown (10YR 6/3) dry, very dark grayish brown (10YR 3/2) moist; weak very fine and fine subangular blocky structure; slightly hard, friable, nonsticky and nonplastic; common very fine, fine, medium and coarse roots; common fine irregular pores; 45 percent gravel and 5 percent cobbles; strongly acid; clear wavy boundary
 
-    Bw2--39 to 48 inches; dark brown (10YR 3/3) very gravelly loam, light yellowish brown (10YR 6/4) dry; weak very fine and fine subangular blocky structure; slightly hard, friable, slightly sticky and nonplastic; common very fine, fine, and medium roots; common fine irregular pores; 40 percent gravel and 10 percent cobbles; strongly acid; clear wavy boundary. (8 to 11 inches thick)
+ Bw2--99 to 122 cm; very gravelly loam, light yellowish brown (10YR 6/4) dry, dark brown (10YR 3/3) moist; weak very fine and fine subangular blocky structure; slightly hard, friable, slightly sticky and nonplastic; common very fine, fine, and medium roots; common fine irregular pores; 40 percent gravel and 10 percent cobbles; strongly acid; clear wavy boundary
 
-    BC--48 to 61 inches; dark yellowish brown (10YR 3/4) very cobbly loam, very pale brown (10YR 7/4) dry; weak very fine and fine subangular blocky structure; slightly hard, friable, slightly sticky and slightly plastic; common very fine, fine, and medium roots; common fine irregular pores; 30 percent gravel and 25 percent cobbles; very strongly acid.
+ BC--122 to 150 cm; very cobbly loam, very pale brown (10YR 7/4) dry, dark yellowish brown (10YR 3/4) moist; weak very fine and fine subangular blocky structure; slightly hard, friable, slightly sticky and slightly plastic; common very fine, fine, and medium roots; common fine irregular pores; 30 percent gravel and 25 percent cobbles; very strongly acid
 
-TYPE LOCATION:  Douglas County, Oregon; 2 1/4 miles northwest of Burnt Mtn. in the western Cascade Mtns.; 1155 feet east and 945 feet south of the northwest corner of section 35, T. 25 S., E. 2 W.
+TYPE LOCATION: Douglas County, Oregon; about 4 km northwest of Burnt Mountain; 352 m east and 288 m south of the northwest corner of section 35, T. 25 S., R. 2 W., Willamette Meridian; latitude 43.35538, longitude -122.90902, datum WGS 84 (coordinates estimated from PLSS)
 
-RANGE IN CHARACTERISTICS:  Solum thickness ranges from 40 to 60 inches or more.  The mean annual soil temperature is 42 to 47 degrees F.  The soil is usually moist and is dry between 4 and 12 inches for less than 45 consecutive days during the summer.  The umbric epipedon is 10 to 20 inches thick. Hue is 10YR or 7.5YR.  Rock fragments are of basaltic and welded tuff lithology.
+RANGE IN CHARACTERISTICS: 
+Mean annual soil temperature--5 to 8 degrees C
+Thickness of umbric epipedon--25 to 50 cm
+Thickness of materials meeting andic subgroup criteria--18 to 50 cm
+Solum thickness--greater than 100 cm
+Hue--10YR, 7.5YR
+Rock fragment lithology--basalt, welded tuff
+Reaction--pH 4.5 to 6.0
 
-The A horizon has value of 2 or 3 moist, 4 or 5 dry and chroma of 1 or 2 moist and 2 or 3 dry.  Rock fragments range from 35 to 60 percent gravel and 0 to 15 percent cobbles.  It is very strongly acid to moderately acid.  Organic matter is 5 to 9 percent.
+Estimated properties of layers meeting andic subgroup criteria
+*1/3-bar bulk density--0.7 to 1.0 g/cm3
+*Phosphate retention--50 to 100 percent
+*Ammonium oxalate extractable Al plus 1/2 Fe--1.0 to 2.0 percent
+*Particles 0.02- to 2.0-mm--greater than 30 percent of the fine-earth fraction
+*Volcanic glass content in the 0.02 to 2.0 mm fraction--less than 5 percent (weighted average)
+*Volcanic glass content in the coarse silt fraction--5 to 10 percent
 
-The Bw horizon has value of 3 or 4 moist, 5 to 7 dry and chroma of 2 to 6 moist and 3 or 4 dry.  It is very gravelly loam, very cobbly loam, or extremely gravely loam with 15 to 25 percent clay.  Rock fragments range from 30 to 55 percent gravel and 5 to 20 percent cobbles.  It is very strongly acid or strongly acid.
+Particle-size control section (weighted average)
+*Clay content--18 to 25 percent
+*Total fragment content--35 to 70 percent
 
-COMPETING SERIES:  These are the Balsam, Scaredman and Stackyards series. The Balsam soils contain rock fragments of gneiss or granite origin and few to common mica flakes throughout the particle-size control section. The Scaredman soils are 20 to 40 inches to a lithic contact.  Stackyards soils are over 60 inches deep to bedrock and average 25 to 35 percent clay in the particle size control section.
+Oi horizon
+*Thickness--0 to 8 cm
 
-GEOGRAPHIC SETTING:  Illahee soils are on mountain side slopes.  Elevation is 2800 to 4600 feet.  The soils formed in colluvium and residuum derived from welded tuffs and flow basalts.  Slopes are 3 to 90 percent.  The mean annual temperature is 40 to 45 degrees F.  and the mean annual precipitation is 60 to 80 inches.  The frost-free season is 50 to 100 days.
+A horizons
+*Value--2 to 3 moist, 4 or 5 dry
+*Chroma--1 or 2 moist, 2 or 3 dry
+*Clay content--10 to 25 percent
+*Total fragment content--35 to 60 percent
+*Gravel content--35 to 60 percent
+*Cobble content--0 to 15 percent
+*Organic carbon content--3 to 7 percent
+*Thickness--25 to 50 cm
 
-GEOGRAPHICALLY ASSOCIATED SOILS:  These are the Lempira, Telemon, and Thistleburn soils.  Lempira soils are medial.  Telemon soils are somewhat poorly and moderately well drained, are fine textured, and have an argillic horizon.
+Bw and BC horizons
+*Value--3 or 4 moist, 5 to 7 dry
+*Chroma--2 to 6 moist, 3 or 4 dry
+*Clay content--18 to 27 percent
+*Total fragment content--35 to 70 percent
+*Gravel content--30 to 60 percent
+*Cobble content--0 to 30 percent
 
-DRAINAGE AND PERMEABILITY:  Well drained; moderately rapid permeability.
+COMPETING SERIES:
+Balsam--rock fragments are gneiss or granite; few to common mica flakes throughout the particle-size control section
+Dougan--75 to 100 cm to lithic contact
+Fernwood--50 to 100 cm to lithic contact
+Scaredman--50 to 100 cm to lithic contact
+Stackyards--averages 25 to 35 percent clay in the particle-size control section
+Zygore--averages 8 to 18 percent clay in the particle-size control section
 
-USE AND VEGETATION:  These soils are used for timber production, wildlife habitat, and watershed.  The native vegetation includes western hemlock, western white pine and Douglas-fir with an understory of Pacific rhododendron, western swordfern, red huckleberry, cascade Oregongrape, oxalis, salal, vine maple, American twinflower, golden chinkapin, western princes pine and whitevein shinleaf.
+GEOGRAPHIC SETTING:
+Elevation--790 to 1400 m
+Climate--cool, wet winters; warm, dry summers
+Mean annual precipitation--1400 to 2400 mm
+Frost-free period--50 to 150 days
 
-DISTRIBUTION AND EXTENT:  Cascade Mountain Range, Oregon; MLRA 3. The series is of moderate extent.
+GEOGRAPHICALLY ASSOCIATED SOILS:
+Coolcamp--andic soil properties throughout the particle-size control section; located on north-facing mountain slopes
+Lempira--at least 36 cm of andic soil properties within 60 cm of the mineral soil surface; located on hillslopes and plateaus
+Telemon--aquic conditions within 25 to 50 cm of the mineral soil surface; located on footslopes, benches and mountain slopes
+Thistleburn--averages 40 to 55 percent clay in the particle-size control section; located on mountain slopes and benches
 
-MLRA SOIL SURVEY REGIONAL OFFICE (MO) RESPONSIBLE: Portland, Oregon
+DRAINAGE AND SATURATED HYDRAULIC CONDUCTIVITY:
+Drainage class--well drained
+Flooding--none
+Ponding--none
+Saturated hydraulic conductivity (Ksat)--high
 
-SERIES ESTABLISHED:  Douglas County, Oregon, 1994.
+USE AND VEGETATION: 
+Use--timber production, wildlife habitat
+Potential natural vegetation--western hemlock, sugar pine, white fir, Douglas-fir, Pacific rhododendron, western swordfern, red huckleberry, cascade barberry, redwood-sorrel, salal, vine maple, twinflower, giant chinkapin, pipsissewa, and whiteveined wintergreen
 
-REMARKS:  Diagnostic horizons and features recognized in this pedon are:
+DISTRIBUTION AND EXTENT: Cascade Mountain Range, Oregon; MLRA 3; moderate extent
 
-Umbric epipedon - from 1 to 16 inches (A1 and A2 horizons).
+SOIL SURVEY REGIONAL OFFICE (SSRO) RESPONSIBLE: Bozeman, Montana
 
-Cambic horizon - from 16 to 48 inches (Bw1 and Bw2 horizons).
+SERIES ESTABLISHED: Douglas County, Oregon, 1994
 
-Particle-size control section - from 11 to 41 inches (A2, Bw1, and upper Bw2 horizons).
+REMARKS: 
+Diagnostic horizons and features in this pedon
+*Particle-size control section--zone from 28 to 103 cm
+*Umbric epipedon--zone from 3 to 41 cm
+*Cambic horizon--zone from 41 to 122 cm
+*Andic subgroup feature--zone from 3 to 41 cm
+
+11/2023--revised series concept from Typic Humudepts to Andic Humudepts, 13th edition of Keys to Soil Taxonomy, based on the correlation of ochric epipedons with nearby KSSL data failing andic subgroup critera (91P0753, 75C0071, 75C0070) and umbric epipedons with nearby KSSL data meeting andic subgroup criteria (12N7675).
 
 National Cooperative Soil Survey
 U.S.A.
