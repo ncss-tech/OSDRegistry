@@ -1,63 +1,161 @@
-LOCATION JUMMER                 WA
+LOCATION JUMMER                 WA+OR
 
-Tentative Series
-Rev. HRG/RWL
-03/2002
+Established Series
+Rev. HRG/RWL/CEG
+02/2025
 
 JUMMER SERIES
 
-The Jummer series consists of moderately deep, well drained soils that formed in residuum and colluvium from basalt, loess and minor amounts of volcanic ash in the upper part.  They are on mountain side slopes.  Slopes are 45 to 65 percent.  Average annual precipitation is about 40 inches and average annual temperature is about 44 degrees F.
+Landscape--mountains, intermontane basins
+Landform--mountain side slopes, hills, lava flows
+Slope--2 to 65 percent
+Parent material--residuum and colluvium from basalt or andesite, with loess and minor amounts of volcanic ash in the upper part
+Mean annual precipitation--about 1000 mm
+Mean annual air temperature--about 7 degrees C
+Depth class--moderately deep
+Drainage class--well drained
+Soil moisture regime--xeric
+Soil temperature regime--frigid
+Soil moisture subclass--typic
 
 TAXONOMIC CLASS: Loamy-skeletal, isotic, frigid Vitrandic Haploxeralfs
 
-TYPICAL PEDON:  Jummer very gravelly ashy sandy loam - forested, on a 63 percent southeast-facing slope at an elevation of 3,900 feet.  (Colors are for dry soil unless otherwise stated.  Textures are apparent field textures.)
+TYPICAL PEDON: Jummer very gravelly ashy sandy loam - forested, on a 63 percent southeast-facing slope at an elevation of 1175 m.
 
-     Oi & Oe--0 to 1 inch; slightly decomposed and intermediately decomposed needles and twigs; abrupt smooth boundary.  (1 to 2 inches thick)
+ Oi--0 to 3 cm; slightly decomposed needles and twigs; abrupt smooth boundary.  (3 to 5 cm thick)
 
-     A--1 to 4 inches; brown (10YR 4/3) very gravelly ashy sandy loam, very dark grayish brown (10YR 3/2) moist; weak fine granular structure; soft, very friable, nonsticky and nonplastic; many very fine roots; many very fine irregular pores; 35 percent pebbles and 5 percent cobbles; NaF pH 9.0; moderately acid (pH 5.9); abrupt smooth boundary.  (2 to 6 inches thick)
+ A--3 to 10 cm; very gravelly ashy sandy loam, brown (10YR 4/3) dry, very dark grayish brown (10YR 3/2) moist; weak fine granular structure; soft, very friable, nonsticky and nonplastic; many very fine roots; many very fine irregular pores; 35 percent gravel and 5 percent cobbles; NaF pH 9.0; moderately acid (pH 5.9); abrupt smooth boundary.  (5 to 15 cm thick)
 
-     Bw1--4 to 7 inches; brown (7.5YR 4/3) gravelly ashy sandy loam, dark brown (7.5YR 3/3) moist; weak very fine and fine subangular blocky structure; soft, very friable, nonsticky and nonplastic; many very fine roots; many very fine irregular pores; 30 percent pebbles; NaF pH 9.0; moderately acid (pH 5.8); clear wavy boundary.  (3 to 5 inches thick)
+ Bw1--10 to 18 cm; gravelly ashy sandy loam, brown (7.5YR 4/3) dry, dark brown (7.5YR 3/3) moist; weak very fine and fine subangular blocky structure; soft, very friable, nonsticky and nonplastic; many very fine roots; many very fine irregular pores; 30 percent gravel; NaF pH 9.0; moderately acid (pH 5.8); clear wavy boundary.  (8 to 13 cm thick)
 
-     Bw2--7 to 21 inches; brown (7.5YR 5/4) moist; very gravelly ashy sandy loam, dark brown (7.5YR 3/4) weak fine subangular blocky structure; soft, very friable, nonsticky and nonplastic; many very fine roots; many very fine irregular pores; 35 percent pebbles and 5 cobbles; NaF pH 9.0; moderately acid (pH 5.8); clear wavy boundary.  (5 to 16 inches thick)
+ Bw2--18 to 53 cm; very gravelly ashy sandy loam, brown (7.5YR 5/4) dry; dark brown (7.5YR 3/4) moist; weak fine subangular blocky structure; soft, very friable, nonsticky and nonplastic; many very fine roots; many very fine irregular pores; 35 percent gravel and 5 percent cobbles; NaF pH 9.0; moderately acid (pH 5.8); clear wavy boundary.  (13 to 41 cm thick)
 
-     2Bt--21 to 34 inches; brown (7.5YR 5/4) extremely gravelly loam, dark brown (7.5YR 3/4) moist; soft, very friable, slightly sticky and slightly plastic; few coarse and very fine roots; many very fine irregular pores; few faint clay films and clay bridging in pores; 40 percent pebbles and 20 percent cobbles;  NaF pH 8.4; moderately acid (pH 5.8); abrupt wavy boundary.  (10 to 20 inches thick)
+ 2Bt--53 to 86 cm; extremely gravelly loam, brown (7.5YR 5/4) dry, dark brown (7.5YR 3/4) moist; soft, very friable, slightly sticky and slightly plastic; few coarse and very fine roots; many very fine irregular pores; few faint clay films and clay bridging in pores; 40 percent gravel and 20 percent cobbles; NaF pH 8.4; moderately acid (pH 5.8); abrupt wavy boundary.  (25 to 51 cm thick)
 
-     3R--34 inches; fractured Teanaway basalt.
+ 3R--86 cm; fractured Teanaway basalt.
 
-TYPE LOCATION:  Kittitas County, Washington, about 3 1/2 miles north of Lakedale; about 400 feet north and 1,400 feet east of the southwest corner of section 15, T. 21 N., R. 14 E.; USGS Cle Elum Lake, Washington topographic quadrangle; Latitude 47 degrees, 17 minutes, 48 seconds N. and Longitude 121 degrees, 4 minutes, 36 seconds W.
+TYPE LOCATION: Kittitas County, Washington, about 3 1/2 miles north of Lakedale; about 122 m north and 427 m east of the southwest corner of section 15, T. 21 N., R. 14 E.; USGS Cle Elum Lake, Washington topographic quadrangle; Latitude 47 degrees, 17 minutes, 48 seconds N. and Longitude 121 degrees, 4 minutes, 36 seconds W.
 
-RANGE IN CHARACTERISTICS:  The mean annual soil temperature at a depth of 20 inches is 45 to 47 degrees F.  These soils are usually moist but are dry in all parts of the moisture control section for 45 to 60 consecutive days following the summer solstice.  Thickness of soil with vitrandic properties is 10 to 22 inches and it has and estimated bulk density of 1.15 to 1.30 g/cc, glass content of 7 to 20 percent, acid oxalate extractable aluminum plus one-half acid oxalate extractable iron of 0.3 to 1.0 percent, and 15-bar water retention of 5 to 10 percent for air dried samples.  The particle-size control section averages 15 to 26 percent clay and 60 to 75 percent rock fragments by volume.  Base saturation (by NH4OAC) is estimated from 50 to 60 percent between depths of 10 and 30 inches below the soil surface.  Depth to lithic contact is 20 to 40 inches.  Reaction is moderately acid or strongly acid.
+RANGE IN CHARACTERISTICS:
 
-The A horizon has hue of 7.5YR or 10YR, value of 4 or 5 dry and chroma of 2 through 4 dry or moist.
+Soil Temperature: frigid regime
+Mean annual soil temperature-- 5 to 8 degrees C
+Moisture control section--20 to 60 cm; usually moist but dry in all parts of the moisture control section for 45 to 60 consecutive days following the summer solstice
+Base saturation (by NH4OAC)--50 to 60 percent between depths of 25 and 75 cm below the soil surface
+Depth to lithic contact with bedrock--50 to 100 cm
 
-The Bw horizon has hue of 7.5YR or 10YR, value of 5 or 6 dry, 3 or 4 moist, chroma of 4 through 6 dry and 3 or 4 moist.  The upper part is very gravelly ashy sandy loam, gravelly ashy sandy loam or gravelly ashy loam.  The lower part is very gravelly ashy sandy loam or very gravelly ashy loam.
+Particle-size control section
+*Clay content--15 to 26 percent
+*Rock fragment content--50 to 75 percent
+Estimated properties, A and Bw horizons:
+Thickness of soil with vitrandic properties: 20 to 56 cm
+*Ammonium oxalate extractable Al plus 1/2 Fe--0.3 to 1.0 percent
+*Medium to very coarse sand in the .02 to 2.0 mm fraction--greater than 50 percent
+*P-retention--25 to 50 percent
+*Volcanic glass content--7 to 60 percent
+*1/3-bar bulk density--1.00 to 1.35 g/cm3
+*1500 kPa water (air-dried samples)--5 to 12 percent
 
-The 2Bt horizon has hue of 7.5YR or 10YR, value of 5 or 6 dry, 3 or 4 moist and chroma of 4 through 6 dry or moist.  It is extremely gravelly loam or extremely cobbly loam.
+Oi horizon (and Oe horizon, present in some pedons)
+*Thickness--3 to 5 cm
 
-COMPETING SERIES:  This is the Nicmar (T) series.  The Agatha series is a similar classification except mixed mineralogy.  Agatha soils are 40 to 60 inches to a lithic contact.  Nicmar soils are dry for 60 to 75 consecutive days and are very deep to bedrock.
+A horizon
+Hue--7.5YR or 10YR, moist or dry
+Value--2 to 4 moist, 4 or 5 dry
+Chroma--2 or 3, moist or dry
+Fine-earth texture--ashy loamy sand, ashy sandy loam
+Clay content--2 to 15 percent
+Total rock and pararock content--2 to 50 percent
+Paragravel content--0 to 15 percent fine pumice
+Total rock content--2 to 50 percent volcanic rock
+Gravel content--2 to 40 percent
+Cobble content--0 to 14 percent
+Stone content--0 to 1 percent
+Boulder content--0 to 1 percent
+Reaction--strongly acid to slightly acid (pH 5.1 to 6.5)
+Organic matter content--2.0 to 10.0 percent
+Thickness--5 to 15 cm
 
-GEOGRAPHIC SETTING:  Jummer soils are on mountain sides and have slopes of 45 to 65 percent.  They formed in residuum and colluvium from Teanaway and Grande Ronde basalt, loess and minor amounts of volcanic ash.  Elevation is 3,200 to 4,400 feet.  These soils are in a climate with warm moderately dry summer and cool moist winters.  Average annual precipitation is 35 to 50 inches.  Average January temperature is about 24 degrees F. and average July temperature is about 64 degrees F.  Average annual temperature is 43 to 45 degrees F.  The growing season at 28 degrees F. is about 145 to 170 days and the frost-free season is about 65 to 100 days.
+Bw horizon (or AB horizon, where present)
+Hue--7.5YR or 10YR, moist or dry
+Value--3 or 4 moist, 4 to 7 dry
+Chroma--3 or 4 moist, 3 to 6 dry
+Fine-earth texture--ashy coarse sandy loam, ashy sandy loam, ashy loam
+Clay content--2 to 15 percent
+Total rock and pararock content--2 to 50 percent
+Paragravel content--0 to 15 percent fine pumice
+Total rock content--2 to 50 percent volcanic rock
+Gravel content--2 to 40 percent
+Cobble content--0 to 15 percent
+Stone content--0 to 1 percent
+Boulder content--0 to 1 percent
+Reaction--strongly acid to slightly acid (pH 5.1 to 6.5)
+Organic matter content--0.5 to 2.0 percent
+Thickness--15 to 53 cm
 
-GEOGRAPHICALLY ASSOCIATED SOILS:  These are the competing Jumpmore soils and the Cliffdell, Jumpe, Keechelus, Kiper Standup soils.  Jumpmore soils are on mountain sides.  Jumpe soils are on convex mountain sides, smooth mountain summits and ridges, are dry for 60 to 75 consecutive days and have base saturation of 60 to 90 percent in the Bw horizon.  Keechelus soils are on mountain sides and benches, have clayey-skeletal argillic horizons and are very deep.  Kiper soils are on mountain sides, are coarse-loamy with 5 to 20 percent hard sandstone fragments in the control section and are very deep.  Standup soils are on mountain sides, have formed in colluvium and residuum from rhyolite, have sandy loam textures with 10 to 15 percent clay in the control section, chroma of 2 or 3 in the B and C horizons and are very deep.
+2Bt horizons
+Hue--7.5YR or 10YR, moist or dry
+Value--3 or 4 moist, 5 or 6 dry
+Chroma--4 to 6, moist or dry
+Fine-earth texture--loam, clay loam
+Clay content--10 to 35 percent
+Total rock content--20 to 85 percent volcanic rock
+Gravel content--0 to 45 percent
+Cobble content--0 to 40 percent
+Stone content--0 to 5 percent
+Boulder content--0 to 1 percent
+Reaction--moderately acid to neutral (pH 5.6 to 7.3)
+Organic matter content--0 to 2.0 percent
 
-DRAINAGE AND PERMEABILITY:  Well drained, rapid runoff; moderate permeability.
+COMPETING SERIES:
+Agatha--100 to 150 cm to a lithic contact (deep)
+Bennettcreek--ashy silt loam textures; less than 50 percent medium to very coarse sand in the .02 to 2.0 mm fraction above the lithologic discontinuity
+Outland--subhumid mesothermal climate, with warm dry summers and cold moist winters; dry in soil moisture control section from July 15 to November 1 (107 days); paralithic contact with soft vesicular andesite between 50 and 100 cm
+Rasser--greater than 200 cm deep (very deep)
+Stevensgulch--greater than 200 cm deep (very deep); dry for 60 to 75 days in summer
 
-USE AND VEGETATION:  Timber production, livestock grazing, wildlife, recreation and watershed.  The native vegetation is Douglas-fir, grand fir and ponderosa pine.  Understory species include elksedge, pinegrass, common snowberry, princes pine and pinemat manzanita.
+GEOGRAPHIC SETTING:
+Elevation--970 to 1800 m
+Climate--cold, moist winters and warm, moderately dry summers
+Mean annual air temperature-- 4 to 7 degrees C
+Mean annual precipitation--890 to 1300 mm (but ranges down to 430 mm in the southern part of MLRA 6)
+Frost-free period--65 to 100 days
 
-DISTRIBUTION AND EXTENT:  East slopes of the Cascade Mountains in central Kittitas County, Washington; MLRA 3.  This series is of small extent.
+GEOGRAPHICALLY ASSOCIATED SOILS:
+Hawkslake--on scarps and hills on volcanic fields; ashy over loamy-skeletal particle-size class; paralithic contact greater than 115 cm from the surface (deep or very deep)
+Jumpmore--on mountainsides
+Jumpe--on convex mountain sides, smooth mountain summits and ridges; dry for 60 to 75 consecutive days; base saturation of 60 to 90 percent in the Bw horizon
+Keechelus--on mountain sides and benches; clayey-skeletal argillic horizons; very deep
+Kiper--on mountain sides; coarse-loamy, with 5 to 20 percent hard sandstone fragments in the control section; very deep
+Rockyhole--on scarps and hills on volcanic fields; ashy over loamy-skeletal particle-size control section; depth to bedrock greater than 200 cm (very deep)
+Standup--on mountain sides; formed in colluvium and residuum from rhyolite; sandy loam textures with 10 to 15 percent clay in the control section; chroma of 2 or 3 in the B and C horizons; very deep
 
-MLRA SOIL SURVEY REGIONAL OFFICE (MO) RESPONSIBLE:  Portland, Oregon
+DRAINAGE AND SATURATED HYDRAULIC CONDUCTIVITY:
+Drainage class--well drained
+Saturated hydraulic conductivity (Ksat)--moderately high
 
-SERIES PROPOSED:  Kittitas County, Washington, 1998.  The name is coined.
+USE AND VEGETATION:
+Use--Timber production, livestock grazing, wildlife, recreation, and watershed
+Vegetation--Douglas-fir, grand fir, ponderosa pine, elksedge, pinegrass, common snowberry, princes pine, and pinemat manzanita
 
-REMARKS:  Diagnostic horizons and features recognized in this pedon include:
+DISTRIBUTION AND EXTENT: Cascade Mountains, Eastern Slope, Washington and Oregon; MLRA 6.  This series is of small extent.
 
-Ochric epipedon - 1 to 4 inches (A horizon)
-Cambic horizon - 4 to 21 inches (Bw horizon)
-Argillic horizon - 21 to 34 inches (2Bt horizon)
-Vitrandic feature - 0 to 21 inches (A and Bw horizons)
+SOIL SURVEY REGIONAL OFFICE (SSRO) RESPONSIBLE: Bozeman, Montana
 
-All depths to diagnostic horizons and features are measured from the top of the first mineral layer.
+SERIES ESTABLISHED:
+Kittitas County, Washington, 2009
+
+REMARKS:
+Diagnostic horizons and features in this pedon
+*Ochric epipedon
+*Volcanic glass--zone from 3 to 53 cm (A and Bw horizons)
+*Cambic horizon--zone from 10 to 53 cm (Bw horizons)
+*Lithologic discontinuity--at 53 cm (at the top of the 2Bt horizon)
+*Argillic horizon--zone from 53 to 86 cm (2Bt horizon)
+*Lithic contact--contact with basalt bedrock at 86 cm (at the top of the R horizon)
+*Particle-size control section--zone from 53 to 86 cm (2Bt horizon)
+
+NASIS Site and Pedon ID--1998WA037001
 
 National Cooperative Soil Survey
 U.S.A.

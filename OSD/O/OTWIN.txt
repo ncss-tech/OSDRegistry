@@ -1,63 +1,182 @@
 LOCATION OTWIN                  OR
 
 Established Series
-Rev. RHB/TDT
-04/2016
+Rev. RHB/CEG/TDT
+02/2025
 
 OTWIN SERIES
 
-The Otwin series consists of moderately deep, well drained soils that formed in colluvium and residuum weathered from andesite and volcanic ash. Otwin soils are on plateaus and have slopes of 0 to 12 percent. The mean annual temperature is about 42 degrees F, and the mean annual precipitation is about 35 inches. 
+Landscape--Cascade Mountains
+Landform--ground moraines, glaciated hillslopes, mountain slopes, cirque headwalls, ridges, plateaus, structural benches
+Slope--0 to 90
+Parent material--colluvium, till and residuum derived from basalt and andesite mixed with volcanic ashthroughout
+Mean annual precipitation--about 1020 mm
+Mean annual air temperature--about 5.5 degrees C
+Depth class--moderately deep to bedrock
+Drainage class--well drained
+Soil moisture regime--udic
+Soil temperature regime--cryic
+Soil moisture subclass--typic
 
 TAXONOMIC CLASS: Medial-skeletal, amorphic Typic Haplocryands 
 
-TYPICAL PEDON: Otwin stony medial sandy loam, on a 3 percent slope in forested area at 5,400 feet elevation. (Colors are for moist soil unless otherwise noted.) 
+TYPICAL PEDON: Otwin gravelly medial loam, in conifer forest, with a slope of 4 percent, with 2 percent surface stones and 0.5 percent surface boulders, at an elevation of 1740 m. When described on October 27, 2011, the soil was moist from 15 to 30 cm and dry in all other parts. 
 
-  Oi--0 to 1 inch; partially decomposed needles and twigs. 
+ Oi--0 to 2 cm; slightly decomposed twigs and needles; slightly acid (pH 6.2); clear smooth boundary. 
 
-  A--1 to 4 inches; very dark grayish brown (10YR 3/2) stony medial sandy loam, brown (10YR 4/3) dry; weak very fine granular structure; soft, very friable, nonsticky and nonplastic; many roots; many irregular pores; 15 percent gravel, and 5 percent stones; slightly acid (pH 6.5); clear smooth boundary. (2 to 5 inches thick) 
+ Oe--2 to 6 cm; moderately decomposed twigs and needles; moderately acid (pH 6.0); clear smooth boundary
 
-  BA--4 to 14 inches; dark yellowish brown (10YR 3/4) very cobbly medial sandy loam, brown (7.5YR 4/4) dry; weak fine and medium granular structure; soft, very friable, nonsticky and nonplastic; many roots; many irregular pores; 15 percent gravel and 25 percent cobbles; slightly acid (pH 6.3); gradual smooth boundary. (0 to 11 inches thick) 
+ A/E--6 to 21 cm; 70 percent gravelly medial loam, reddish brown (5YR 4/4) dry, dark reddish brown (5YR 3/3) moist, (A part); 30 percent very gravelly medial loam, light reddish brown (5YR 6/3) dry, reddish brown (5YR 4/4), moist (E part); moderate fine granular structure; very friable, soft, slightly sticky and nonplastic; few coarse and very coarse roots and common medium, fine and very fine roots (A part); few very coarse roots, common medium roots and many fine roots (E part); common fine dendritic tubular pores; 33 percent gravel and 2 percent cobbles; neutral (pH 7.0) (A part), and slightly acid (pH 6.4) (E part); clear wavy boundary
 
-  Bw--14 to 29 inches; dark brown (7.5YR 3/4) very cobbly medial sandy loam, yellowish brown (10YR 5/4) dry; weak medium granular structure; appears massive when wet; soft, very friable, nonsticky and nonplastic; common roots; many irregular pores; 15 percent gravel and 25 percent cobbles; slightly acid (pH 6.1); abrupt irregular boundary. (8 to 35 inches thick) 
+ Bw1--21 to 45 cm; very gravelly medial loam, reddish brown (5YR 5/4) dry, dark reddish brown (5YR 3/4) moist; weak medium subangular blocky structure; very friable, soft, slightly sticky and nonplastic; few very coarse, coarse, medium, fine and very fine roots; common fine irregular and few fine dendritic tubular pores; 40 percent gravel, 10 percent cobbles, and 5 percent stones; slightly acid (pH 6.2); gradual wavy boundary. 
 
-  R--29 inches; hard fractured bedrock. 
+ Bw2--45 to 70 cm; extremely stony medial loam, brown (7.5YR 5/4) dry, dark brown (7.5YR 3/4) moist; weak medium subangular blocky structure; very friable, slightly hard, slightly sticky and nonplastic; common very coarse and coarse roots and few medium and fine roots; common fine irregular and few fine dendritic tubular pores; 2 percent boulders, 20 percent stones, 25 percent cobbles, and 20 percent gravel; moderately acid (pH 5.6); gradual irregular boundary 
 
-TYPE LOCATION: Klamath County, Oregon, about 3 miles west of Buck Lake; approximately 1,340 feet north and 2,592 feet west of the southeast corner of sec. 17, T. 38 S., R. 5 E. 
+ R--70 cm; very strongly cemented andesite.
 
-RANGE IN CHARACTERISTICS: The soils are usually moist but are dry between 8 and 24 inches for 30 to 45 consecutive days in the four months that follow the summer solstice. The mean annual soil temperature ranges from 40 to 46 degrees F, and the mean summer soil temperature ranges from 43 to 47 degrees F with an O horizon. Solum thickness and depth to a lithic contact is 20 to 40 inches. The particle-size control section averages 35 to 60 percent rock fragments, of which 15 to 25 percent are gravel and 20 to 35 percent are cobbles and stones. The control section averages 10 to 18 percent clay It has a moist bulk density of 0.85 to 1.00 g/cubic centimeter. Andic soil properties are present throughout the solum. Acid oxalate aluminum plus one-half the iron is 3 to 5 percent. Phosphate retention is 75 to 100. Glass content is 30 to 60 percent. The dry 15 bar water content is 15 to 20 percent throughout the solum. Acid oxalate silica is 2 to 3 percent throughout the solum. 
+TYPE LOCATION: Klamath County, Oregon, about 11.4 miles north and 10.5 miles west of the community of Keno; approximately 713 m north and 698 m west of the southeast corner of sec. 5, T. 38 S., R. 6 E., Willamette Meridian; Lake Of The Woods South, Oregon, U.S. Geological Survey quadrangle; Latitude 42.2925750 degrees, Longitude -122.1382389, datum WGS 84 (coordinates determined with a GPS device) 
 
-The A horizon has hue of 10YR or 7.5YR, value of 3 moist and 3 or 4 dry, and chroma of 2 through 4 moist and 3 or 4 dry. 
+RANGE IN CHARACTERISTICS: 
 
-The Bw horizon has hue of 10YR and 7.5YR, chroma of 3 or 4 moist and dry and value of 3 or 4 moist and 4 or 5 dry. It is very cobbly medial sandy loam or very cobbly medial loam. It is moderately acid or slightly acid. 
+Mean annual soil temperature--5.0 to 7.8 degrees C
+Mean summer soil temperature with an O horizon--6.7 to 8.3 degrees C
+Mean summer soil temperature without an O horizon--10 to 14.4 degrees C
+Moisture control section--dry for 30 to 45 consecutive days
+Rock fragments--subrounded
+Depth to restriction--50 to 100 cm to bedrock (lithic contact)
+*Thickness of volcanic ash influenced layers--50 to 100 cm (all horizons)
 
-COMPETING SERIES: These are the Divers, Highcamp, Holderman, Kinzel, Oatman, Ohana and Woodcock soils.  All of the soils listed above, except Ohana and Holderman, are over 40 inches deep to a restrictive feature.  Ohana soils are 20 to 40 inches deep to a densic contact.  Holderman soils have 18 to 24 percent field estimated clay.
+Estimated properties of layers influenced by volcanic ash
+*1/3-bar bulk density--0.85 to 1.0 g/cm3 in A horizons; 1.1 to 1.4 g/cm3 in B horizons
+*Volcanic glass in 0.02 to 2.0 mm fraction--15 to 30 percent
+*0.02 to 2.0 mm fraction--greater than 30 percent
+*Ammonium oxalate extractable Al + 1/2Fe--3 to 5 percent
+*Phosphate retention--75 to 100 percent
+*15-bar water dry--15 to 30 percent (dried samples), 30 to 100 percent (undried samples)
+*Acid oxalate extractable silica--2 to 3 percent
 
-GEOGRAPHIC SETTING: The Otwin series consists of moderately deep, well drained soils on plateaus. These soils formed in colluvium and residuum derived dominantly from andesite and volcanic ash. Elevation is 4,800 to 6,600 feet. The mean annual precipitation is 30 to 40 inches. The mean annual temperature is 40 to 44 degrees F. The frost-free period is less than 100 days. Slopes range from 0 to 12 percent. 
+Surface Rock Fragments
+*Stones--1 to 3 percent surface cover
+*Boulders--0.1 to 1 percent surface cover
 
-GEOGRAPHICALLY ASSOCIATED SOILS: These are the competing Oatman and Pokegema
-and Woodcock soils. Woodcock soils have an argillic horizon. Pokegema soils are deep and have less than 35 percent rock fragments. 
+Particle size control section
+*Clay--10 to 18 percent clay
+*Sand--40 to 75 percent sand; less than 50 percent of the 0.02 to 0.20 mm fraction is medium to very coarse sand
+*Total rock fragment--30 to 60 percent
 
-DRAINAGE AND PERMEABILITY: Well drained; slow runoff; moderately rapid permeability. 
+O horizons:
+*Thickness--3 to 8 cm
 
-USE AND VEGETATION: These soils are used for timber production and grazing. Native vegetation is white fir, Shasta red fir, western white pine, mountain brome and western princes pine. 
+A/E horizon, A portion:
+*Hue--10YR or 7.5YR
+*Value--3 moist and 3 or 4 dry
+*Chroma--2 through 4 moist and 3 or 4 dry
+*Clay--10 to 18 percent
+*Sand--30 to 75 percent
+*Organic matter--0.5 to 4.0 percent
+*Total fragments--10 to 45 percent
+*Gravel--10 to 45 percent
+*Cobbles--0 to 15 percent
+*Stones--0 to 15 percent
+*Reaction--5.6 to 7.3 (moderately acid to neutral)
+*Thickness--5 to 30 cm
 
-DISTRIBUTION AND EXTENT: Southwestern Oregon; MLRA 3. The series is of limited extent. 
+A/E horizon, E portion (when present):
+*Hue--10YR or 7.5YR
+*Value--4 or 5 moist and 5 or 6 dry
+*Chroma--2 through 4 moist and 3 or 4 dry
+*Fine earth texture--medial loam or medial fine sandy loam
+*Clay--10 to 18 percent
+*Sand--30 to 75 percent
+*Organic matter--0.5 to 1.0 percent
+*Total fragments--10 to 45 percent
+*Gravel--10 to 45 percent
+*Cobbles--0 to 15 percent
+*Stones--0 to 15 percent
+*Reaction--5.6 to 6.5 (moderately acid or slightly acid)
+*Thickness--0 to 15 cm
 
-MLRA SOIL SURVEY REGIONAL OFFICE (MO) RESPONSIBLE: Portland, Oregon 
+Bw horizons:
+*Hue--10YR or 7.5YR
+*Value--3 or 4 moist and 4 or 5 dry
+*Chroma--3 or 4 moist and dry
+*Fine earth texture--medial loam or medial sandy loam
+*Clay--10 to 18 percent
+*Sand--30 to 75 percent
+*Organic matter--0.1 to 2.0 percent
+*Total fragments--25 to 70 percent
+*Gravel--10 to 60 percent
+*Cobbles--2 to 40 percent
+*Stones--0 to 40 percent
+*Boulders--0 to 25 percent
+*Reaction--5.6 to 6.5 (moderately acid or slightly acid)
+*Thickness--20 to 90 cm
+
+COMPETING SERIES:
+Battleax--over 100 cm to a restrictive feature; umbric epipedon
+Divers--over 100 cm to a restrictive feature
+Highcamp--over 100 cm to a restrictive feature; less than 40 percent sand
+Holderman--1/3-bar bulk density 0.65 to 0.9 g/cm3; less than 50 percent sand; 18 to 24 percent clay
+Hummington--1/3-bar bulk density 0.65 to 0.90 g/cm3; umbric epipedon
+Icecap--1/3-bar bulk density 0.60 to 0.90 g/cm3; 18 to 27 percent clay; umbric epipedon
+Idanha--1/3-bar bulk density 0.60 to 0.90 g/cm3; umbric epipedon
+Ohana--50 to 100 cm (moderately deep) to a densic contact; 35 to 50 percent pumice pararock fragments in the surface horizons; lithologic discontinuity, with glacial till in the subsurface
+Oatman--over 100 cm to a restrictive feature
+
+GEOGRAPHIC SETTING: 
+Elevation--1500 to 2400 m
+Slope--0 to 90 percent
+Climate--humid, with precipitation occurring mainly in winter and spring
+Mean annual precipitation--900 to 1780 mm
+Mean annual air temperature--3.9 to 7.0 degrees C
+Mean January air temperature--0 to 1.7 degrees C
+Frost-free period--10 to 50 days
+
+GEOGRAPHICALLY ASSOCIATED SOILS: 
+Kyotesue--over 100 cm (deep or very deep) to a restrictive feature; frigid temperature regime
+Oatman--over 100 cm (deep or very deep) to a restrictive feature
+Molawa--over 100 cm (deep or very deep) to a restrictive feature; medial (less than 35 percent rock fragments)
+Woodcock--over 100 cm (deep or very deep) to a restrictive feature; have an argillic horizon, a mollic epipedon, a xeric soil moisture regime and a frigid temperature regime
+Pokegema--over 100 cm (deep or very deep) to a restrictive feature; medial (less than 35 percent rock fragments), have a mollic epipedon, a xeric soil moisture regime and a frigid temperature regime
+
+DRAINAGE AND SATURATED HYDRAULIC CONDUCTIVITY: 
+Drainage class--Well drained
+Saturated hydraulic conductivity (Ksat)--very high in O horizons; high in mineral horizons
+
+USE AND VEGETATION: 
+Use--timber production, wildlife habitat, recreation, and livestock grazing
+Overstory vegetation--white fir, Shasta red fir, western white pine, ponderosa pine
+Understory vegetation--mountain brome, western princes pine
+
+DISTRIBUTION AND EXTENT: Cascade Mountains in southern Oregon; MLRA 3; limited extent. 
+
+MLRA SOIL SURVEY REGIONAL OFFICE (MO) RESPONSIBLE: Bozeman, Montana 
 
 SERIES ESTABLISHED: Jackson County Area, Oregon (Klamath County part); 1988. 
 
-REMARKS: Diagnostic horizons and other features: 
-Ochric epipedon
-Cambic horizon - from 14 to 29 inches
-Uolic moisture regime based on correlation with Shasta red fir and white fir plant associations and ecological sites.
-Andic soil properties from 1 to 29 inches 
-Andic soil properties based on laboratory data from the similar Llaorock series; NSSL S00OR-035-004 and the associated Oatman series; NSSL S01OR-035-002. 
-Haplocryand- 15 bar water dry is less than 15 percent throughout the profile. 
-Medial- Andic soil properties are present throughout the control section. The 12 bar water dry is more than 12 percent throughout. 
+REMARKS:
+Diagnostic horizons and other features in this pedon
+*Particle-size control section--6 to 70 cm
+*Ochric epipedon
+*Andic soil properties--6 to 70 cm 
+*Volcanic glass--6 to 70 cm
+*Cambic horizon--21 to 70 cm
+*Lithic contact--the boundary at 70 cm
+*Udic moisture regime--based on correlation with Shasta red fir and white fir plant associations and ecological sites.
+*Haplocryand--15 bar water dry is less than 15 percent throughout the profile.
+*Medial--Andic soil properties are present throughout the control section. The 15 bar water dry is more than 15 percent throughout.
+*Amorphic--The particle-size control section has over 2 percent acid oxalate extractable silica
 
-05/2011 - Classification changed from Loamy-skeletal, mixed Andic Cryochrepts to Medial-skeletal, amorphic Typic Haplocryands
+ADDITIONAL DATA:
+*NASIS Site ID--11OR035014
+*NASIS Pedon ID--11OR035014
+*Andic soil properties based on laboratory data from the similar Kyotesue series, NSSL S01OR-035-002, -003, -004, and -005.
 
+05/2011--Classification changed from Loamy-skeletal, mixed Andic Cryochrepts to Medial-skeletal, amorphic Typic Haplocryands 
+
+02/2012--Type location moved and re-described in 2012 to better reflect correlation of udic moisture regime to Shasta red fir plant association; NASIS user pedon id: 11OR035014
+
+06/2017--Updated this official series description according to SSRO1 Technical Note 11, OSD-- Format of Official Series Descriptions (revised 12/2015). Most of the changes were in formatting.
 
 National Cooperative Soil Survey
 U.S.A.

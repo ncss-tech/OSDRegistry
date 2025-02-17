@@ -1,63 +1,146 @@
-LOCATION BOXIRON                MD
+LOCATION BOXIRON                MD+NJ
 
 Established Series
-JLB
-06/2024
+JLB/Rev. ATD-JDK
+02/2025
 
 BOXIRON SERIES
 
-The Boxiron series consists of very deep, very poorly drained soils located on estuarine and coastal tidal marshes of the mid-Atlantic Coastal Plain. They formed in silty marine and alluvial sediments that are flooded twice daily by brackish tidal waters.  Slopes range from 0 to 1 percent. Mean annual temperature is 57 degrees F., and mean annual precipitation is 44 inches.
+MLRA(s)--153D
+Depth class--Very deep
+Drainage class--Very poorly drained
+Flooding--Very frequent, very brief (twice daily by tides)
+Parent material--Herbaceous organic deposits over fine-silty estuarine deposits
+Geomorphic location--Estuarine and coastal tidal salt marshes
+Slope--0 to 1 percent
+Elevation--0 to 1 meter
+Mean annual air temperature--13 degrees C (55 degrees F)
+Mean annual precipitation--1154 millimeters (46 inches)
 
 TAXONOMIC CLASS: Fine-silty, mixed, active, nonacid, mesic Histic Sulfaquents
 
-TYPICAL PEDON:  Boxiron peat on a smooth 0 percent slope in a tidal marsh. (Colors are for a moist soil)
+TYPICAL PEDON: Boxiron peat on a smooth 0 percent slope in a tidal salt marsh at an elevation of 0.3 meters. (Colors are for a moist soil)
 
-     Oi--0 to 7 inches; dark brown (7.5YR 3/3) peat; fiber content is three-fourths of the soil volume after rubbing; 40 percent by weight mineral soil material; many very fine and fine, and common coarse live roots; neutral; strongly saline; abrupt smooth boundary. (0 to 7 inches thick)
+ Oise--0 to 18 centimeters; dark brown (7.5YR 3/3) peat; fiber content is 75 percent by volume after rubbing; von Post value H3; many very fine and fine, and common coarse roots throughout; slight sulfurous odor; moderately alkaline (pH 8.0), extremely acid (pH 4.1) oxidized pH; abrupt smooth boundary. (thickness range is 0 to 24 centimeters)
 
-     Oe--7 to 14 inches; very dark grayish brown (2.5Y 3/2) mucky peat; fiber content is one-third of the soil volume after rubbing; 50 percent by weight mineral soil material; many very fine and fine, and few coarse live roots; neutral; strongly saline; abrupt smooth boundary.  (5 to 16 inches thick)
+ Oese--18 to 36 centimeters; very dark grayish brown (2.5Y 3/2) mucky peat; fiber content is 33 percent by soil volume after rubbing; von Post value H5; many very fine and fine, and few coarse roots throughout; slight sulfurous odor; moderately alkaline (pH 8.2), extremely acid (pH 4.3) oxidized pH; abrupt smooth boundary. (thickness range is 13 to less than 40 centimeters)
 
-     Cg1--14 to 30 inches; dark gray (2.5Y 4/1) silt loam; massive; slightly sticky; common fine roots; n-value greater than 1.0, material flows easily between fingers when squeezed; neutral; strongly saline; clear wavy boundary. (15 to 20 inches thick)
+ Cseg1--36 to 76 centimeters; dark gray (2.5Y 4/1) silt loam; massive; slightly sticky; common fine roots; very fluid; moderate sulfurous odor; moderately alkaline (pH 8.2), ultra acid (pH 2.3) oxidized pH; clear wavy boundary.
 
-     Cg2--30 to 74 inches; dark greenish gray (5GY 4/1) silt loam; common, medium, faint gray (2.5Y 5/1) areas of iron depletion; massive; n-value greater than 1.0, material flows easily between fingers when squeezed; neutral; strongly saline; gradual wavy boundary. (30 to 50 inches thick).
+ Cseg2--76 to 188 centimeters; dark greenish gray (5GY 4/1) silt loam; common, medium, faint gray (2.5Y 5/1) iron depletions; massive; very fluid; moderate sulfurous odor; slightly alkaline (pH 7.4), ultra acid (pH 2.3) oxidized pH; gradual wavy boundary. (Combined thickness range of Cseg horizons is 114 to 178 centimeters)
 
-     2Cg3--74 to 80 inches; gray (5Y 5/1) sand; single grain, loose; neutral; strongly saline.
+ 2Cseg3--188 to 203 centimeters; gray (5Y 5/1) sand; single grain; loose; nonfluid; moderate sulfurous odor; neutral (pH 7.0), ultra acid (pH 2.3) oxidized pH.
 
-TYPE LOCATION: Worcester County, Maryland; two miles southeast  of Pawpaw road on Scotts Landing road, 200 feet north along Hallbrooks Gut: 38 degrees 6 minutes 45 seconds N Latitude.  75 degrees 19 minutes 30 seconds W Longitude.
+TYPE LOCATION: Worcester County, Maryland; on Duers Neck, approximately 226 meters feet northwest from the end of Scotts Landing Road, approximately 88 meters north of Scotts Landing Road, and approximately 0.5 kilometers southwest from the entrance to Hallbrooks Gut. USGS topographic quadrangle Boxiron, MD.
 
-RANGE IN CHARACTERISTICS:  Thickness of the organic surface and depth to the silty materials ranges from 8 to 16 inches. Reaction is neutral to slightly alkaline in undisturbed profiles but ranges from ultra acid to extremely acid upon drying.  Electrical conductivity is greater than 8 Mmhos/cm (5.6 ppt). n values are typically greater than 0.7.
+Latitude--38.1007528, 
+Longitude-- -75.3165722
+Datum--WGS84
+Coordinate source--Estimated from other source
 
-The Oi horizon, where present, has hue of 7.5YR through 2.5Y, value of 2 through 4, and a chroma of 1 or 3.  It is peat.  The fiber content after rubbing is greater than three-fourths of the soil volume.  Mineral material content, by weight, ranges from 20 to 70 percent.
+RANGE IN CHARACTERISTICS: 
+Depth to bedrock--Greater than 200 centimeters
+Thickness of organic soil material--20 to less than 40 centimeters
+Soil moisture regime--Peraquic (tidally flooded twice daily)
+Electrical conductivity--Greater than 8 dS/m (5.6 ppt) throughout
+Depth to sulfidic materials--0 to 50 centimeters
+Reaction--Neutral to moderately alkaline throughout (pH 6.6 to 8.4)
+Oxidized reaction--Ultra acid to extremely acid throughout (pH <3.5 to pH 4.4)
+Organic carbon stock 0 to 100 centimeters--31 to 35 kg m-2
+Organic carbon stock 0 to 200 centimeters--33 to 80 kg m-2
+Other features--Some pedons may contain sapric soil material in the organic horizons depending on the degree of decomposition
 
-The Oe horizon has hue of 10YR through 5Y, value of 2 or 3, and chroma of 1 through 3.  It is mucky peat.  The fiber content after rubbing ranges from one-sixth to three-fourths of the volume.  Mineral content, by weight, ranges from 25 to 70 percent.
+Oise horizon (where present)
+Hue--7.5YR to 2.5Y
+Value--2 to 4
+Chroma--1 to 3
+Texture--peat
+Von Post--H1 to H3
+Mineral content--20 to 70 percent, by weight
+Organic carbon density--20 to 54 kg m-3
 
-The Cg horizons have hue of 10YR through 5GY, value of 3 through 6, and chroma of 0 through 2.  It is silt loam or silty clay loam.  In some pedons there are thin subhorizons of organic materials.
+Oese horizon
+Hue--10YR to 5Y
+Value--2 or 3
+Chroma--1 to 3
+Texture--mucky peat
+Von Post--H4 to H6
+Mineral content--25 to 70 percent, by weight
+Organic carbon density--24 to 122 kg m-3
 
-The 2Cg horizon, where present, has a hue of 10YR through 5GY, value of 3 through 7, and chroma of 0 through 2.  It is loamy sand or sand.
+Cseg horizon
+Hue--10YR to 5GY or neutral
+Value--3 to 6
+Chroma--0 to 2
+Texture--silt loam or silty clay loam
+Organic carbon density--12 to 46 kg m-3
+Other characteristics--some Cseg horizons have thin layers of organic soil material
 
-COMPETING SERIES: These are the Broadkill soils.  Broadkill soils do not have a histic epipedon.  Competing soils in similar families are the Chincoteague soils.  Chincoteague soils do not have a histic epipedon and are thermic.
+2Cseg horizon (where present)
+Hue--10YR to 5GY or neutral
+Value--3 to 7
+Chroma--0 to 2
+Texture--loamy sand or sand
+Organic carbon density-0.5 to 14 kg m-3
 
-GEOGRAPHIC SETTING: Boxiron soils are located in estuarine and coastal tidal marshes of the mid-Atlantic Coastal Plain.  They formed in silty marine and alluvial sediments that are flooded by brackish tidal water twice daily.  Slopes range from 0 to 1 percent.  Mean annual temperature ranges from 52 to 58 degrees F., and mean annual precipitation ranges from 38 to 48 inches.
+COMPETING SERIES: 
+There are no competing series in the same family.
 
-GEOGRAPHICALLY ASSOCIATED SOILS:  These are the Mispillion, Transquaking, Bestpitch, Sunken, and Broadkill soils.  Bestpitch, Transquaking, and Mispillion soils are histosols and occur at similar elevations within the marsh.  Broadkill soils are commonly intermingled with Boxiron.. Sunken soils are found at slightly higher elevations within the marsh.
+GEOGRAPHIC SETTING: 
+Parent material--Herbaceous organic deposits over fine-silty estuarine deposits 
+Landscape--Coastal plain, estuaries
+Landform--Tidal marshes
+Slope range--0 to 1 percent
+Elevation--0 to 1 meters
+Mean annual air temperature range--11 to 15 degrees C (52 to 59 degrees F)
+Mean annual precipitation range--1052 to 1240 millimeters (41 to 49 inches)
+Frost free period--190 to 260 days
 
-DRAINAGE AND PERMEABILITY: Very poorly drained.  Runoff is very slow.  Permeability is moderately rapid to rapid in the organic deposits and slow to moderate in the silty substratum.  These soils are flooded by brackish tidal waters twice daily.
+GEOGRAPHICALLY ASSOCIATED SOILS: 
+These are the Bestpitch, Broadkill, Mispillion, Purnell, Sunken, and Transquaking soils:
+Bestpitch soils--have 40 to 130 centimeters of organic soil materials and 35 percent or greater clay content (clayey) in the underlying mineral soil materials; on similar landforms
+Broadkill soils--have less than 20 centimeters of organic soil materials, do not have a histic epipedon, but are on similar landforms commonly intermingled with Boxiron
+Mispillion soils--have 40 to 130 centimeters of organic soil materials and less than 35 percent clay (loamy) in the underlying mineral soil materials; on similar landforms
+Purnell--have a sandy family particle size class, on back barrier island tidal marsh landforms
+Sunken soils--have less than 20 centimeters of organic soil materials, have a former argillic horizon, on slightly higher submerging upland landforms
+Transquaking soils--have greater than 130 centimeters of organic soil materials, on similar landforms 
 
-USE AND VEGETATION:  Boxiron soils are used mainly as wetland wildlife habitat. Natural vegetation is mainly saltmarsh cordgrass (Spartina alterniflora), saltmeadow cordgrass (Spartina patens), saltgrass (Distichlis spicata) marsh elder (Iva frutescens).
+DRAINAGE AND SATURATED HYDRAULIC CONDUCTIVITY: 
+Drainage class--Very poorly drained
+Saturated hydraulic conductivity--High to very high in the organic horizons and moderately low to high in the underlying mineral horizons
+Soil moisture regime--Peraquic (continuously saturated throughout)
+Flooding--Very frequent, very brief (twice daily by tides)
 
-DISTRIBUTION AND EXTENT:  Tidal marshes of the mid-Atlantic Coastal plain of Maryland, Delaware and New Jersey.  This series is of small extent.
+USE AND VEGETATION: 
+Major uses--Boxiron soils are mainly used for their ecological and environmental benefits as tidal salt marsh ecosystems that provide essential plant and animal habitat, water quality benefits, and coastal protection from storms and sea level rise. 
+Natural vegetation--Typical vegetation includes saltmarsh cordgrass (Spartina alterniflora), saltmeadow cordgrass (Spartina patens), saltgrass (Distichlis spicata), and marsh elder (Iva frutescens).
+
+DISTRIBUTION AND EXTENT: 
+General area--Tidal salt marshes of the mid-Atlantic Coastal plain within the states of Maryland and New Jersey
+Land Resource Region (LRR)-- T - Atlantic and Gulf Coast Lowland Forest and Crop Region
+MLRA(s)--153D
+Extent--Small
 
 SOIL SURVEY REGIONAL OFFICE (SSRO) RESPONSIBLE: SPECIAL PROJECTS OFFICE
 
-SERIES ESTABLISHED:  Worcester County, Maryland, 1995
+SERIES ESTABLISHED: Worcester County, Maryland, 1995
 
-REMARKS:  These soils were formerly included in the Tidal Marsh miscellaneous areas. These soils become extremely acid to ultra acid when drained.
+REMARKS: Boxiron soils were formerly mapped as Tidal Marsh miscellaneous areas. They are flooded twice daily by saline or brackish tidal waters. Oxidized pH analysis indicates these soils have hypersulfidic materials (pH of 4.0 or less after 16 weeks of moist incubation), causing them to become extremely acid to ultra acid when drained. Historically, large areas of these soils were ditched for mosquito control, which has led to marsh degradation in some areas.
 
-Diagnostic horizons and features recognized in this pedon are:
+Diagnostic horizons and features recognized in this pedon (Keys to Soil Taxonomy, Thirteenth Edition):
+Aquic conditions--the zone from 0 to 203 centimeters is continuously saturated (endosaturation)
+Histic epipedon--the zone between 0 and 36 centimeters
+Fibric soil materials--the zone between 0 and 18 centimeters has a fiber content after rubbing that is three-fourths, by volume
+Hemic soil materials--the zone between 18 and 36 centimeters has a fiber content after rubbing of one-thrid, by volume
+Hypersulfidic materials--the zone from 36 to 203 centimeters (oxidized pH of 4.0 or less after 16 weeks of moist incubation)
+Lithologic discontinuity--the zone from 188 to 203 centimeters
+Particle size control section--the zone from 25 to 100 centimeters
 
-a. Histic epipedon:  the zone between 0 and 14 inches.
-b. Fibric material:  the zone between 0 and 7 inches has a fiber content after rubbing that is three-fourths of the soil volume.
-c. Hemic soil material:  the zone between 7 and 14 inches has a fiber content after rubbing that is one-third of the soil volume.
-d. Moist incubation study indicates these soils have sulfidic materials.
+ADDITIONAL DATA:
+Database information:
+NASIS site and pedon ID for typical pedon--2008MD047001
 
+Incubated pH values were obtained from S2020NJ029020, which has similar morphology as the typical pedon.
+________________________________________
 National Cooperative Soil Survey
 U.S.A.
