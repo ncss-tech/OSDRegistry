@@ -1,125 +1,147 @@
 LOCATION TRANSQUAKING           MD+DE NJ
 
 Established Series
-JEB-WDC/Rev. JAK
-06/2024
+JEB-WDC/Rev. JAK-ATD
+02/2025
 
 TRANSQUAKING SERIES
 
-TAXONOMIC CLASS: Euic, mesic Typic Sulfihemists
-DEPTH CLASS: Very deep
-DRAINAGE CLASS: Very poorly drained, and flooded by tidal waters
-PERMEABILITY: Rapid in the organic deposits and slow in the mineral material
-SURFACE RUNOFF: Very slow or ponded
-PARENT MATERIAL: Organic deposits underlain by loamy mineral sediments
-SLOPE: 0 to 1 percent
-MEAN ANNUAL AIR TEMPERATURE (type location): 56 degrees F.
-MEAN ANNUAL PRECIPITATION (type location): 45 inches
+MLRA(s)--149A, 153C, 153D
+Depth Class--Very deep
+Drainage Class--Very poorly drained
+Flooding--Very frequent, very brief 
+Parent Material--Herbaceous organic deposits over estuarine deposits
+Geomorphic Location--Estuarine and coastal tidal salt marshes
+Slope--0 to 1 percent
+Elevation--0 to 1 meter
+Mean Annual Air Temperature-13 degrees C (56 degrees F)
+Mean Annual Precipitation--1144 millimeters (45 inches)
 
 TAXONOMIC CLASS: Euic, mesic Typic Sulfihemists
 
-TYPICAL PEDON: Transquaking peat, on a smooth 0 percent slope, in an estuarine tidal marsh. (Colors are for a moist, rubbed soil.)
+TYPICAL PEDON: Transquaking peat on a smooth 0 percent slope in an estuarine tidal marsh. (Colors are for a moist, rubbed soil.)
 
-     Oi--0 to 9 inches; very dark brown (10YR 2/2) peat (fibric soil material); fiber content is three-fourths of the soil volume after rubbing; 50 percent, by weight, mineral soil material; many fine, medium, and coarse live roots; neutral; gradual smooth boundary. (0 to 12 inches thick)
+ Oise--0 to 23 centimeters; very dark brown (10YR 2/2) peat; fiber content is 75 percent of the soil volume after rubbing; von Post value H3; many fine, medium, and coarse roots throughout; neutral (pH 7.0), extremely acid (pH 4.0) oxidized pH; gradual smooth boundary. (0 to 30 centimeters thick)
 
-     Oe1--9 to 22 inches; black (10YR 2/1) mucky peat (hemic soil material); fiber content is about one-third of the soil volume after rubbing; 30 percent, by weight, mineral soil material; common fine and medium live roots; neutral; clear smooth boundary.
+ Oese1--23 to 56 centimeters; black (10YR 2/1) mucky peat; fiber content is 33 percent of the soil volume after rubbing; von Post value H5; common fine and medium roots throughout; neutral (pH 7.0), extremely acid (pH 3.5) oxidized pH; clear smooth boundary.
 
-     Oe2--22 to 46 inches; very dark gray (10YR 3/1) mucky peat (hemic soil material); fiber content is about one-forth of the soil volume after rubbing; 30 percent, by weight, mineral soil material; neutral; clear smooth boundary. (Combined thickness of the Oe horizon is 12 to 51 inches)
+ Oese2--56 to 117 centimeters; very dark gray (10YR 3/1) mucky peat; fiber content is 25 percent of the soil volume after rubbing; von Post value H5; neutral (pH 7.0), extremely acid (pH 4.4) oxidized pH; clear smooth boundary. (Combined thickness of the Oese horizons is 31 to 130 centimeters)
 
-     Oa--46 to 65 inches; very dark gray (10YR 3/1) muck (sapric soil material); fiber content is one-tenth of the soil volume after rubbing; 40 percent, by weight, mineral soil material; neutral; gradual smooth boundary. (0 to 13 inches thick)
+ Oase--117 to 165 centimeters; very dark gray (10YR 3/1) muck; fiber content is 10 percent of the soil volume after rubbing; von Post value H8; neutral (pH 7.0), extremely acid (pH 4.0) oxidized pH; gradual smooth boundary. (0 to 33 centimeters thick)
 
-     Cg--65 to 80 inches; very dark gray (5Y 3/1) silty clay; massive; friable; sticky, plastic; n value greater than 1.0, material flows easily between the fingers when squeezed; 10 percent organic matter; neutral.
+ Cseg--165 to 203 centimeters; very dark gray (5Y 3/1) silty clay; massive; friable; slightly sticky, slightly plastic; very fluid; neutral (pH 7.0), extremely acid (pH 3.6) oxidized pH.
+
+TYPE LOCATION: Dorchester County, Maryland; approximately 12.9 kilometers southeast of Cambridge, MD, approximately 2 kilometers southeast of the intersection of Bucktown Road and Decoursey Bridge Road, approximately 2.6 kilometers east of the intersection of Bucktown Road, Greenbrier Road, and Bestpitch Ferry Road, and approximately 558 meters south-southwest of the Decoursey Bridge, on a small marsh island in the Transquaking River east of the mouth of Scotland Creek. USGS topographic quadrangle--Blackwater River, MD
+
+Latitude--38.4605140
+Longitude-- -76.0021010
+Datum--WGS84
+Coordinate source--unknown
 
 RANGE IN CHARACTERISTICS:
-Thickness of the Organic Deposits: 52 to 80 inches or more
-Depth to Bedrock: Greater than 60 inches
-Depth to Seasonal High Water Table: 0 inches, January to December
-Rock Fragments:   by volume, mostly 
-Soil Reaction: Slightly acid to neutral in the natural state and upon drying is ultra acid or extremely acid.
-Electrical Conductivity: Greater than 8 mmhos/cm, typically greater than 16 mmhos/cm
-Sulfur Content: 0.75 to 3.5 percent
-High n-value: Greater than 1.0
-Mineral Content of Organic Layers: 20 to 70 percent, by weight. Thin layers of silt and very fine sand are in the organic horizons of some pedons.
+Depth to bedrock--Greater than 200 centimeters
+Thickness of organic soil material--40 to not more than 130 centimeters
+Reaction--Slightly acid to moderately alkaline (pH 6.1 to 8.4)
+Oxidized reaction--Ultra acid to strongly acid throughout (pH <3.5 to 5.5)
+Electrical conductivity (EC)--greater than 8 dS/m (5.6 ppt), typically greater than 16 dS/m
+Depth to hypersulfidic materials--0 to 100 centimeters
+Sulfur Content--0.75 to 3.5 percent
+Organic carbon stock 0 to 100 centimeters--41 to 56 kg m-2
+Organic carbon stock 0 to 200 centimeters--74 to 109 kg m-2
+Other characteristics--Some pedons have thin layers of silt and very fine sand in the organic horizons
 
-RANGE OF INDIVIDUAL HORIZONS:
-Surface tier, 0 to 12 inches (Oi or Oa horizon):
-Color--hue of 5YR to 10YR, value of 2 to 4, chroma of 1 to 3
-It is peat (fibric soil material) or mucky peat (hemic soil material)
+Oise horizon (where present):
+Hue--10YR to 5Y or neutral
+Value--2 to 4
+Chroma--0 to 3
+Texture--peat
+Von Post--H2 to H3
+Organic carbon density--20 to 54 kg m-3
 
-Subsurface tier, 12 to 36 inches (Oe or Oa horizon):
-Color--hue of 5YR to 2.5Y, value of 2 to 5, chroma of 1 to 4
-Texture--mucky peat (hemic soil material) or muck (sapric soil material) 
-Bottom tier, 36 to 51 inches (Oa horizon):
-Color--hue of 10YR to 5Y, value of 2 to 4, chroma of 1 or 2
-Texture--muck (sapric soil material)
+Oese horizon:
+Hue--5YR to 5Y or neutral
+Value--2 to 4
+Chroma--0 to 3
+Texture--mucky peat
+Von Post--H4 to H6
+Organic carbon density--24 to 122 kg m-3
 
-Cg horizon:
-Color--hue of 10YR to 5GY, value of 3 or 4, chroma of 1 or 2, or is neutral with value of 3 or 4
-Texture--silt loam, silty clay loam, or silty clay. Some pedons have thin sandy mineral layers less than 1 inch thick, stratified within the horizon. Organic Matter Content: 1 to 20 percent. Some pedons have thin organic layers stratified within the mineral horizons.
+Oase horizon (where present):
+Hue--7.5YR to 5Y
+Value--2 to 5
+Chroma--1 to 3
+Texture--muck
+Von Post--H7 to H9
+Organic carbon density--19 to 66 kg m-3
+
+Cseg horizon:
+Hue--10YR to 5GY or neutral
+Value--2 to 4
+Chroma--0 or 2
+Texture--silt loam, silty clay loam, or silty clay
+Organic carbon density--12 to 46 kg m-3
+Other characteristics--some pedons have thin organic layers and/or thin sandy layers up to several centimeters thick stratified within the Cseg horizon
 
 COMPETING SERIES:
-Ipswich soils--have mean annual air temperatures less than 52 degrees F. and have sandy mineral material with n values less than 1.0 and bulk density greater than 1.00 g/cm3, underlying the organic deposits
+These are the Ipswich soils:
+Ipswich soils--are underlain by glaciofluvial sandy nonfluid mineral materials and have mean annual air temperatures less than 52 degrees F.
 
 GEOGRAPHIC SETTING:
-Landscape: Coastal Plain
-Landform: Brackish estuarine marshes along tidally influenced rivers and creek
-Elevation: 0 to 1 foot
-Parent Material: Organic deposits underlain by loamy mineral sediments. The organic deposits formed form salt tolerant herbaceous plants.
-Mean Annual Air Temperature: 52 to 58 degrees F.
-Mean Annual Precipitation: 42 to 48 inches
-Frost Free Period: 190 to 210 days
-They formed dominantly in moderately decomposed overlying high n value loamy mineral sediments. Slopes range from 0 to 1 percent. Mean annual temperature ranges from 52 to 58 degrees F., and mean annual precipitation ranges from 42 to 48 inches.
+Landscape--Coastal Plain
+Landform--Tidal marsh
+Parent Material--Herbaceous organic deposits over estuarine deposits
+Slope Range--0 to 1 percent
+Elevation--0 to 1 meter
+Mean annual air temperature--11 to 15 degrees C (52 to 59 degrees F)
+Mean annual precipitation--1052 to 1240 millimeters (41 to 49 inches)
+Frost free period--190 to 260 days
 
 GEOGRAPHICALLY ASSOCIATED SOILS:
-Bestpitch soils--have organic material less than 51 inches thick underlain by fine-textured mineral material with high n-value, on slightly higher landforms
-Honga soils--have organic material less than 51 inches thick underlain by loamy mineral material with low n-value, on slightly higher landforms
-Elkton soils--poorly drained mineral soils that have a fine-silty particle-size control section with 27 to 35 percent clay and sola more than 40 inches thick, on higher landforms
-Othello soils--poorly drained mineral soils that have a fine-silty particle-size control section with 18 to 27 percent clay and sola less than 40 inches thick, on higher landforms
-Sunken soils--have organic material less than 16 inches thick underlain by low n-value loamy mineral material, on submerging uplands
+These are the Appoquinimink, Bestpitch, Boxiron, Broadkill, Honga, Mispillion, and Sunken soils.
+Appoquinimink soils--have buried organic layers at least 40 centimeters thick overlain by fine-silty mineral materials (thapto-histic), on similar landforms
+Bestpitch soils--have organic soil materials 40 to 130 centimeters thick underlain by fine estuarine deposits, on similar landforms
+Boxiron soils--have an organic surface at least 20 but less than 40 centimeters thick (histic epipedon), on similar landforms
+Broadkill soils--have organic soil materials less than 20 centimeters thick, on similar landforms
+Honga soils--have organic soil materials 40 to 130 centimeters thick underlain by loamy, nonfluid flvuiomarine deposits with a relict argillic horizon, on submerging upland landforms
+Mispillion soils--have organic soil materials 40 to 130 centimeters thick underlain by loamy estuarine deposits, on similar landforms
+Sunken soils--have organic soil materials less than 20 centimeters thick underlain by fine-silty fluviomarine deposits with a relict argillic horizon, on slightly higher submerging upland landforms
 
-USE: Mainly as wetland wildlife habitat.
+DRAINAGE AND SATURATED HYDRAULIC CONDUCTIVITY:
+Drainage Class--Very poorly drained
+Saturated Hydraulic Conductivity--High to very high in the organic horizons and moderately low to moderately high in the underlying mineral horizons
+Flooding Frequency and Duration--Very frequent and very brief
+Soil Moisture Regime--Peraquic (continuously saturated throughout)
 
-VEGETATION: Dominant vegetation is olney threesquare (Scirpus americanus), saltmeadow cordgrass (Spartina patens), saltmarsh cordgrass (Spartina alterniflora), saltgrass (Distichlis spicata), and marsh hibiscus (Hibiscus palustris).
+USE AND VEGETATION: 
+Major Uses--Transquaking soils are mainly used for their ecological and environmental benefits as tidal salt marsh ecosystems that provide essential plant and animal habitat, water quality benefits, and coastal protection from storms and sea level rise.
+Natural Vegetation--Typically olney threesquare (Scirpus americanus), saltmeadow cordgrass (Spartina patens), saltmarsh cordgrass (Spartina alterniflora), saltgrass (Distichlis spicata), and marsh hibiscus (Hibiscus palustris).
 
-DISTRIBUTION: Coastal Plain of Maryland, Delaware, and New Jersey
+DISTRIBUTION AND EXTENT:
+General Area--Tidal salt marshes of the mid-Atlantic coastal plain within the states of Maryland, Delaware, and New Jersey
+Land Resource Regions (LRR)--S - Northern Atlantic Slope Diversified Farming Region and T - Atlantic and Gulf Coast Lowland Forest and Crop Region
+MLRA(s)--149A, 153C, 153D
+Extent--Moderate
 
-SOIL SURVEY REGIONAL OFFICE (SSRO) RESPONSIBLE: SPECIAL PROJECTS OFFICE
-
-EXTENT: Moderate
+SOIL SURVEY REGIONAL OFFICE (SSRO) RESPONSIBLE: SPECIAL PROJECTS OFFICE 
 
 SERIES ESTABLISHED: Dorchester County, Maryland, 1992
 
-REMARKS: Transquaking soil were previously mapped as Tidal Marsh miscellaneous area. These soils become ultra acid when drained.
+REMARKS: 
+Transquaking soil were previously mapped as Tidal Marsh miscellaneous areas. Oxidized pH analysis indicates these soils have hypersulfidic materials (pH of 4.0 or less after 16 weeks of moist incubation), causing them to typically become ultra acid to extremely acid when drained. Historically, large areas of these soils were ditched for mosquito control, which has led to marsh degradation in some areas. 
 
-Diagnostic horizons and other diagnostic soil characteristics recognized in this pedon are:
-Fibric material--the zone from 0 to 9 inches has a fiber content after rubbing that is three-fourths or more of the soil volume (Oi horizon)
-Hemic material--the zone from 9 to 46 inches has a fiber content after rubbing that is between one-third and three-forths of the soil volume (Oe horizons)
-Sapric material--the zone from 46 to 65 inches has a fiber content after rubbing that is less than one-sixth of the soil volume (Oa horizon)
-Aquic conditions--the zone from the soil surface to a depth of 80 inches is continuously saturated (endosaturation).
-Sulfidic materials--incubated samples, to a depth of 80 inches, show a drop in pH of 0.5 or more units to a pH value of 4.0 or less within 8 weeks
-High n-value--the zone from 65 to 80 inches has an n-value greater than 1.0, the material flows easily between the fingers (Cg horizon)
+Diagnostic horizons and features recognized in this pedon (Keys to Soil Taxonomy, Thirteenth Edition):
+Aquic conditions--the zone from 0 to 203 centimeters is continuously saturated (endosaturation)
+Fibric soil materials--the zone from 0 to 23 centimeters has a fiber content after rubbing that is three-fourths or more of the soil volume (Oise horizon)
+Hemic soil materials--the zone from 23 to 117 centimeters has a fiber content after rubbing that is between one-third and three-fourths of the soil volume (Oese horizons)
+Sapric soil materials--the zone from 117 to 165 centimeters has a fiber content after rubbing that is less than one-sixth of the soil volume (Oase horizon)
+Hypersulfidic materials--the zone from 0 to 56 centimeters and 117 to 203 centimeters (oxidized pH of 4.0 or less after 16 weeks of moist incubation)
+Fluidity--the zone from 165 to 203 centimeters is very fluid (n value > 1.0)
 
-ADDITIONAL DATA: Refer to publication "Tidal Marsh Soils of Maryland", Darmody, R.G. and Foss, J.E., Maryland Agricultural Experiment Station Publication MP 930, October 1978.
+ADDITIONAL DATA:
+Refer to publication "Tidal Marsh Soils of Maryland", Darmody, R.G. and Foss, J.E., Maryland Agricultural Experiment Station Publication MP 930, October 1978.
 
-TABULAR SERIES DATA:
-
-SOI-5  Soil Name    Slope  Airtemp FrFr/Seas Precip  Elevation
-MD0137 TRANSQUAKING 0-  1   54- 58  190-210  42- 48     0-   1 
-
-SOI-5  FloodL FloodH Watertable Kind   Months  Bedrock Hardness
-MD0137 FREQ            0-  0  APPARENT JAN-DEC  >60        
-
-SOI-5  Depth  Texture                3-Inch  No-10  Clay%   -CEC-
-MD0137  0- 9  PEAT MPT                0-  0    -     0- 0  40- 90
-MD0137  9-46  MPT MUCK                0-  0    -     0- 0  80-100
-MD0137 46-65  MUCK MPT                0-  0    -     0- 0  20- 70
-MD0137 65-80  SIC SICL                0-  0 100-100 30-40  20- 40
-
-SOI-5  Depth    -pH-     O.M.  Salin  Permeab   Shnk-Swll
-MD0137  0- 9  6.1- 7.3  30-80  8-32   2.0-  20  LOW      
-MD0137  9-46  6.1- 7.3  60-80  8-32   2.0-  20  LOW      
-MD0137 46-65  6.1- 7.3  25-80  8-32   2.0-  20  LOW      
-MD0137 65-80  6.1- 7.3  .5-20  8-32  0.06- 0.2  MODERATE  
-
+Database information: 
+NASIS site and pedon ID for typical pedon--2007MD019008
+________________________________________
 National Cooperative Soil Survey
 U.S.A.

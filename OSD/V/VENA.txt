@@ -2,60 +2,125 @@ LOCATION VENA                   OR
 
 Established Series
 Rev. AON/TDT
-01/2000
+02/2025
 
 VENA SERIES
 
-The Vena series consists of moderately deep, well drained soils formed in colluvium and residuum.  They are on uplands and have slopes of 20 to 100 percent.  The mean annual precipitation is about 50 inches and the mean annual temperature is about 48 degrees F.
+Landscape--southwestern Middle Cascade mountains
+Landform--mountain slopes, mountains, south-facing side slopes and headwalls on mountains
+Slope--20 to 100 percent
+Parent material--residuum and colluvium derived from tuff
+Mean annual precipitation--about 1400 mm
+Mean annual air temperature--about 9 degrees C
+Depth class--moderately deep to lithic contact
+Drainage class--well drained
+Soil moisture regime--xeric
+Soil temperature regime--mesic
+Soil moisture subclass--typic
 
 TAXONOMIC CLASS: Loamy-skeletal, mixed, superactive, mesic Typic Dystroxerepts
 
-TYPICAL PEDON:  Vena gravelly loam, forested.  (Colors are for moist soil unless otherwise noted.)
+TYPICAL PEDON: Vena gravelly loam, forested
 
-    Oi--0 to 1 inch; loose litter of twigs, needles and tree limbs, and partially decomposed twigs, tree limbs, needles, leaves and bark.
+ Oi--0 to 3 cm; slightly decomposed plant material
 
-    A--1 to 6 inches; very dark grayish brown (10YR 3/2) gravelly loam, gray (10YR 6/1) dry; weak fine granular structure; soft, very friable, nonsticky, nonplastic; many very fine to medium roots; many very fine irregular pores; 20 percent gravel and 5 percent cobbles; moderately acid (pH 5.6); clear smooth boundary.  (3 to 9 inches thick)
+ A--3 to 18 cm; gravelly loam, gray (10YR 6/1) dry, very dark grayish brown (10YR 3/2) moist; weak fine granular structure; soft, very friable, nonsticky, nonplastic; many very fine to medium roots; many very fine irregular pores; 20 percent gravel and 5 percent cobbles; moderately acid (pH 5.6); clear smooth boundary
 
-    BC--6 to 10 inches; dark grayish brown (10YR 4/2) very gravelly loam, light gray (10YR 7/1) dry; weak fine and medium granular structure; soft, very friable, nonsticky, nonplastic; many very fine to coarse roots; many very fine irregular pores; 35 percent gravel and 15 percent cobbles; moderately acid (pH 6.0); clear smooth boundary.  (3 to 10 inches thick)
+ Bw1--18 to 28 cm; very gravelly loam, light gray (10YR 7/1) dry, dark grayish brown (10YR 4/2) moist; weak fine and medium granular structure; soft, very friable, nonsticky, nonplastic; many very fine to coarse roots; many very fine irregular pores; 35 percent gravel and 15 percent cobbles; moderately acid (pH 6.0); clear smooth boundary
 
-    Bw--10 to 22 inches; grayish brown (10YR 5/2) very gravelly loam, light gray (10YR 7/1) dry; weak fine subangular blocky structure; soft, very friable, nonsticky, nonplastic; many very fine to medium roots; many very fine irregular pores; 40 percent gravel and 15 percent cobbles; strongly acid (pH 5.5); abrupt wavy boundary.  (10 to 30 inches thick)
+ Bw2--28 to 58 cm; very gravelly loam, light gray (10YR 7/1) dry, grayish brown (10YR 5/2) moist; weak fine subangular blocky structure; soft, very friable, nonsticky, nonplastic; many very fine to medium roots; many very fine irregular pores; 40 percent gravel and 15 percent cobbles; strongly acid (pH 5.5); abrupt wavy boundary
 
-    R--22 inches; fractured rhyolitic tuff bedrock with soil materials along fractures.
+ R--58 cm; fractured rhyolite
 
-TYPE LOCATION:  Douglas County, Oregon; NE1/4 NW1/4 section 30, T. 28 S., R. 2 E.
+TYPE LOCATION: Umpqua National Forest, Douglas County, Oregon; NE1/4 NW1/4 section 30, T. 28 S., R. 2 E., Willamette Meridian; Acker Rock, Oregon, U.S. Geological Survey quadrangle; latitude 43.11000 degrees north, longitude 122.63000 degrees west, datum WGS 84 (coordinates estimated from PLSS description)
 
-RANGE IN CHARACTERISTICS:  The mean annual soil temperature is 47 to 52 degrees F.  The soils are usually moist and are dry in the control section for 60 to 90 consecutive days during the summer.  Depth to bedrock is 20 to 40 inches.  The particle-size control section is loam or fine sandy loam with less than 18 percent clay, 30 to 55 percent gravel and 5 to 30 percent cobbles.
+RANGE IN CHARACTERISTICS:
+Mean annual soil temperature--8 to 11 degrees C
+Moisture control section--usually moist, but dry in all parts 60 to 90 consecutive days following the summer solstice
+Depth to lithic contact--50 to 100 cm (below the mineral soil surface)
+Reaction --pH 5.1 to 6.5
 
-The A horizon has value of 2 to 4 moist, 4 or 6 dry, and chroma of 1 to 4 moist and dry.  It has 15 to 50 percent gravel and 0 to 20 percent cobbles.
+Particle-size control section (weighted average)
+*Clay content--10 to 18 percent
+*Total fragment content--35 to 80 percent
 
-The AC or Bw horizon has value of 4 or 5 moist, 6 to 8 dry, and chroma of 1 to 4 moist and dry.  It has 35 to 60 percent gravel and 5 to 30 percent cobbles.  It is very gravelly loam or fine sandy loam, very cobbly loam, or extremely gravelly loam.
+Oi horizon
+*Thickness--0 to 6 cm
 
-The C horizon has value of 5 or 6 moist, 6 to 8 dry, and chroma of 1 to 4 moist and dry.  It has 25 to 50 percent gravel and 5 to 30 percent cobbles.
+A horizon
+*Value--2 to 4 moist, 4 to 6 dry
+*Chroma--1 to 4 moist and dry 
+*Total fragment content--15 to 60 percent
+*Gravel content--15 to 50 percent
+*Cobble content--0 to 20 percent
+*Thickness --8 to 25 cm thick
 
-COMPETING SERIES:  These are the Atring, Baldhill, Beausite, Beekman, Chamate, Clallam, Farber, Inskip, Kanid, Kindig, Longdoe, Mayacama, Neuns, Straight, Terbies and Woodin series.  Atring, Clallam and Straight soils are 20 to 40 inches to a paralithic contact.  Baldhill, Chamate, Farber, Kanid and Terbies soils are over 40 inches deep.  Beausite soils have sandy loam Bs horizons with chroma of 4 and are underlain by an indurated iron-silica cemented conglomerate.  Inskip soils have chroma of 4 in the A and C horizons and have a mean annual soil temperature of about 54 degrees F.  Longdoe, Mayacama, Neuns and Woodin soils are dry for more than 90 consecutive days in the moisture control section.  The Mayacama and Woodin soils have a mean annual soil temperature of 54 to 59 degrees F.  Beekman soils have 18 to 30 percent clay in the particle-size control section.
+Bw horizons
+*Value--4 or 5 moist, 6 to 8 dry
+*Chroma--1 to 4 moist and dry
+*Total  fragment content--40 to 80 percent
+*Gravel  content--25 to 60 percent
+*Cobble content--5 to 30 percent
+*Thickness--25 to 75 cm thick
 
-GEOGRAPHIC SETTING:  The Vena soils are on uplands at elevations of 800 to 4,000 feet.  Slopes are 20 to 100 percent.  The soils formed in colluvium weathered from acid igneous rock, dominantly rhyolite.  The climate is subhumid with cool wet winters and warm dry summers.  The mean annual precipitation is 40 to 60 inches; the mean annual temperature is about 45 to 50 degrees F., the mean July temperature is about 64 degrees F., and the mean January temperature is 25 to 32 degrees F.  The frost-free period is 100 to 160 days.
+COMPETING SERIES :
+Atring--50 to 100 cm to paralithic contact
+Barpeak--greater than 150 cm to bedrock
+Beekman --18 to 30 percent clay in the particle-size control section
+Farber--greater than 150 cm to bedrock
+Forgay--greater than 150 cm to bedrock
+Geppert--particle-size control section averages 25 to 35 percent clay
+Hartless--greater than 100 cm to paralithic contact; hue of 7.5YR or 5YR in cambic horizon
+Hilltish--fragments are rounded; 50 to 100 cm to conglomerate bedrock (lithic contact)
+Kanid--100 to 150 cm to paralithic contact
+Rockyglen--greater than 150 cm to bedrock
+Straight--50 to 100 cm to paralithic contact
+Woodin--dry for more than 90 consecutive days in the moisture control section; mean annual soil temperature is 12 to 15 degrees C
 
-GEOGRAPHICALLY ASSOCIATED SOILS:  These are the Acker, Chamate and Gustin soils. Acker soils dominantly have less steep slopes and are deep soils with moderately fine textured argillic horizons.  Gustin soils are drained and fine textured.  Chemate soil are over 40 inches deep to bedrock.
+GEOGRAPHIC SETTING:
+Elevation--240 to 1225 m
+Climate--cool wet winters and warm dry summers
+Mean annual precipitation--1000 to 1500 mm
+Mean  annual air temperature--7 to 11 degrees C 
+Mean July temperature--about 18 degrees C
+Mean January temperature-- -4 to 0 degrees C
+Frost -free period--100 to 180 days
 
-DRAINAGE AND PERMEABILITY:  Well-drained; moderate permeability.
+GEOGRAPHICALLY ASSOCIATED SOILS:
+Acker--argillic horizon, greater than 150 cm to bedrock; located on hillslopes, broad ridgetops, and sideslopes of mountains
+Chamate--greater than 150 cm to bedrock; located on mountain slopes
+Gustin--fine textured argillic horizon, depth to redox depletions is 25 to 50 cm, udic soil moisture regime; located on footslopes, benches, and mountain sideslopes
 
-USE AND VEGETATION:  Used for timber production, water supply and wildlife.  Present vegetation is mainly Douglas fir, Pacific madrone, and sugar pine with an understory of golden chinquapin, Pacific rhododendron, salal, creambush  oceanspray, red huckleberry, serviceberry, cascade Oregongrape, whipplevine, and western fescue.
+DRAINAGE AND SATURATED HYDRAULIC CONDUCTIVITY:
+Drainage class--well drained
+Saturation in normal years--none
+Flooding--none
+Ponding--none
+Saturated hydraulic conductivity (Ksat)--high
 
-DISTRIBUTION AND EXTENT:  The west side of Central-southern Cascade Mountains, Oregon.  The series is of moderate extent.
+USE AND VEGETATION:
+Use--timber production, water supply, wildlife, recreation
+Potential native vegetation--Douglas-fir, Pacific madrone, sugar pine, giant chinquapin, Pacific rhododendron, salal, oceanspray, red huckleberry, Saskatoon serviceberry, Cascade barberry, common whipplea, western fescue
 
-MLRA SOIL SURVEY REGIONAL OFFICE (MO) RESPONSIBLE: Portland, Oregon
+DISTRIBUTION AND EXTENT: West side of Central-southern Cascade Mountains, Oregon (MLRA 3, 5); moderate extent
 
-SERIES ESTABLISHED:  Douglas County, Oregon, 1974.
+SOIL SURVEY REGIONAL OFFICE (SSRO) RESPONSIBLE: Bozeman, Montana
 
-REMARKS:  Depths to diagnostic horizons and features are measured from the top of the first mineral horizon.  Diagnostic horizons and features included in this pedon:
+SERIES ESTABLISHED: Douglas County, Oregon, 1974.
 
-Ochric epipedon
-Cambic horizon - from 6 to 22 inches
+REMARKS: 
+Diagnostic horizons and other features in this pedon
+*Particle-size control section--zone from 28 to 58 cm
+*Ochric epipedon
+*Cambic horizon--zone from 18 to 58 cm
+*Depth to lithic contact--58 cm
 
-Classification updated 1/00 from Dystric Xerochrepts to Typic Dystroxerepts based on amendment to Soil Taxonomy.
+*OSD description updated 3/2024. Location description has been copied from Vena OSD version 01/2000. Changed BC horizon to a Bw horizon. Increased maximum mean annual air temperature and frost free days based on new mapping in Willamette National Forest (OR657). Limited fine-earth texture to loam (fine sandy loam had been allowed previously). Fine sandy loam is noted only in the unpublished South Umpqua Area manuscript. Vena in Douglas County (OR649) does not include this texture, neither has it been observed in Willamette National Forest.
 
-ADDITIONAL DATA:  Partial characterization data by Oregon State University reported in the Soil Survey of the South Umpqua Area, Oregon, 1973.
+*Classification updated 1/00 from Dystric Xerochrepts to Typic Dystroxerepts based on amendment to Soil Taxonomy.
+
+ADDITIONAL DATA: 
+*Partial characterization data by Oregon State University reported in the Soil Survey of the South Umpqua Area, Oregon, 1973.
 
 National Cooperative Soil Survey
 U.S.A.
