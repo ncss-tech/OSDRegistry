@@ -1,56 +1,58 @@
 LOCATION CHAVIS                 NC
 
 Tentative Series
-ARP/EED
+ARP-EED
 04/2025
 
 CHAVIS SERIES
 
-Depth class--Very deep
-Drainage class--Well drained
-Saturated hydraulic conductivity--Moderately high
+Depth class: Very deep
+Drainage class: Well drained
+Saturated hydraulic conductivity: Moderately high
 Parent material--Human-transported materials over residuum
-Geomorphic location--Cut and filled ridges and side slopes
-Slope range--2 to 6 percent
-Mean annual temperature--15 degrees C (59 degrees F)
-Mean annual precipitation--1100 millimeters (43 inches) 
+Geomorphic location: Cut and filled ridges and side slopes
+Slope range: 2 to 6 percent
+Mean annual temperature: 15 degrees C 
+Mean annual precipitation: 1100 millimeters 
 
 TAXONOMIC CLASS: Fine-loamy, spolic, mixed, semiactive, nonacid, thermic Anthroportic Udorthents
 
 TYPICAL PEDON: Chavis loam, 10 to 15 percent slopes on a filled ridge in a city park lawn. When described the soil was moist throughout. (Colors are for moist soil unless otherwise noted.)
 
- ^A--0 to 8 centimeters (0 to 3 inches); very dark grayish brown (10YR 3/2), broken face loam; weak granular structure; moderate granular structure, slightly sticky, slightly plastic; few fine and medium roots throughout; moderately acid; clear boundary (5 to 24 centimeters thick)
+ ^A--0 to 8 centimeters; very dark grayish brown (10YR 3/2), broken face loam; weak granular structure; moderate granular structure, slightly sticky, slightly plastic; few fine and medium roots throughout; moderately acid; clear boundary (5 to 24 centimeters thick)
 
- ^C1--8 to 30 centimeters (3 to 12 inches); 60 percent red (2.5YR 4/6) and 30 percent reddish brown (2.5YR 5/4) and 10 percent red (2.5YR 5/8) sandy clay loam; relict moderate subangular blocky structural; few very fine roots and few fine roots throughout; 2 percent quartz fragments; moderately acid; clear boundary (22 to 23 centimeters thick)
+ C1--8 to 30 centimeters; 60 percent red (2.5YR 4/6) and 30 percent reddish brown (2.5YR 5/4) and 10 percent red (2.5YR 5/8) sandy clay loam; relict moderate subangular blocky structural; few very fine roots and few fine roots throughout; 2 percent quartz fragments; moderately acid; clear boundary (22 to 23 centimeters thick)
 
- ^C2--30 to 61 centimeters (12 to 24 inches); 70 percent strong brown (7.5YR 4/6) and 30 percent red (10R 4/8) sandy clay loam; relict moderate subangular blocky structure; few very fine roots throughout; 2 percent quartz gravel; strongly acid; clear boundary (13 to 36 centimeters thick)
+ ^C2--30 to 61 centimeters; 70 percent strong brown (7.5YR 4/6) and 30 percent red (10R 4/8) sandy clay loam; relict moderate subangular blocky structure; few very fine roots throughout; 2 percent quartz gravel; strongly acid; clear boundary (13 to 36 centimeters thick)
 
- 2Btb--61 to 97 centimeters (24 to 38 inches); 90 percent red (2.5YR 4/6) and 5 percent strong brown (7.5YR 5/8) and 5 percent light red (2.5YR 7/6) clay loam; moderate angular blocky structure; faint clay films; 5 percent quartz gravels; moderately acid; gradual boundary (36 to 54 centimeters thick)
+ 2Btb--61 to 97 centimeters; 90 percent red (2.5YR 4/6) and 5 percent strong brown (7.5YR 5/8) and 5 percent light red (2.5YR 7/6) clay loam; moderate angular blocky structure; faint clay films; 5 percent quartz gravels; moderately acid; gradual boundary (36 to 54 centimeters thick)
 
- 2BCtb--97 to 200 centimeters (38 to 58 inches); 50 percent red (2.5YR 4/6) and 30 percent yellowish red (5YR 5/8) and 20 percent yellowish brown (10YR 5/4) sandy clay loam; moderate subangular blocky structure; 4 percent mica flakes; very strongly acid
+ 2BCtb--97 to 200 centimeters; 50 percent red (2.5YR 4/6) and 30 percent yellowish red (5YR 5/8) and 20 percent yellowish brown (10YR 5/4) sandy clay loam; moderate subangular blocky structure; 4 percent mica flakes; very strongly acid
 
-TYPE LOCATION: Wake County, North Carolina; located on the central part of Millbrook Exchange Park; USGS topographic quadrangle: East Raleigh, NC
+TYPE LOCATION:
+Wake County, North Carolina; located on the central part of Millbrook Exchange Park
 
-Latitude--35.8675390
-Longitude-- -78.6062100
-Datum--WGS84
-Coordinate source--From handheld GPS
+USGS Quadrangle: East Raleigh, NC
+Latitude: 35.8675390
+Longitude: -78.6062100
+Datum: WGS84
+Coordinate source: From handheld GPS
 
 RANGE IN CHARACTERISTICS:
-Thickness of human-transported materials--50 to over 100 centimeters 
-Depth to bedrock--Greater than 150 centimeters
-Depth to seasonal high-water table--Greater than 100 centimeters
-Depth to lithologic discontinuity--50 to over 100 centimeters
-Artifact content--0 to 10 percent within a depth of 50 centimeters 
-Soil reaction--Moderately acid to slightly acidic (5.6 to 6.5 pH)
-Particle-size control section (weighted average)--
-Clay content: 18 to 35 percent 
-Sand content: Greater than 40 percent 
-Rock fragment content: 0 to 25 percent
+Thickness of human-transported materials: 50 to over 100 centimeters 
+Depth to bedrock: Greater than 150 centimeters
+Depth to seasonal high-water table: Greater than 100 centimeters
+Depth to lithologic discontinuity: 50 to over 100 centimeters
+Artifact content: 0 to 10 percent within a depth of 50 centimeters 
+Soil reaction: Moderately acid to slightly acidic (5.6 to 6.5 pH)
+Particle-size control section (weighted average):
+Clay content--18 to 35 percent 
+Sand content--Greater than 40 percent 
+Rock fragment content--0 to 25 percent
 
 ^A(u) horizons
 Hue--2.5YR to 10YR
-Value-2.5 or 3
+Value--2.5 or 3
 Chroma--1 to 2 
 Texture--loam, sandy clay loam or clay loam
 Rock fragments--0 to 3 percent 
@@ -82,55 +84,57 @@ Chroma--3 to 6.
 Texture-sandy clay loam, clay loam or clay
 Rock fragments--0 to 7 percent
 
-COMPETING SERIES: There are no competing series
+COMPETING SERIES:
+There are no competing series
 
 GEOGRAPHIC SETTING:
-Landscape--Piedmont
-Landform--Fills, raised land, or other locally raised landforms on slopes and ridges
-Parent Material--Human-transported material over residuum 
-Slope--10 to 15 percent
-Elevation--40 to 110 meters (164 to 1312 feet)
-Frost-free period--200 to 250 days
-Mean Annual Air Temperature--13 to 17 degrees C (55 to 63 degrees F)
-Mean Annual Precipitation--1000 to 1200 millimeters (40 to 47 inches)
+Parent Material: Human-transported material over residuum
+Landform: Fills, raised land, or other locally raised landforms on slopes and ridges
+Slope: 10 to 15 percent
+Elevation: 40 to 110 meters 
+Frost-free period: 200 to 250 days
+Mean Annual Air Temperature: 13 to 17 degrees C
+Mean Annual Precipitation: 1000 to 1200 millimeters
 
-GEOGRAPHICALLY ASSOCIATED SOILS: These are the Appling, Beltline, Cecil, Pacolet, Walcreek, and Wedowee series. 
+GEOGRAPHICALLY ASSOCIATED SOILS:
+These are the Appling, Beltline, Cecil, Pacolet, Walcreek, and Wedowee soils. 
 
-Appling soils--Have 35 to 60 precent clay in the particle-size control section; have few to many mica flakes throughout; found on nearby unmodified ridges and sideslopes
-Beltline soils-- Have less than 50 centimeters of human-transported material; found on nearby cut and filled ridges and sideslopes 
-Cecil soils--Have 35 to 60 precent clay in the particle-size control section and are dominantly 5YR or redder in the argillic horizons; found on nearby unmodified ridges and sideslopes
-Pacolet soils--Have 35 to 60 percent clay in the particle-size control section and have few to common mica flakes in the argillic; found on nearby unmodified ridges and sideslopes.
-Walcreek soils-- Have less than 18 percent clay in the particle-size control section; formed in human-transported fill from alluvium on nearby toeslopes
-Wedowee soils--Have 35 to 60 precent clay in the particle-size control section; found on nearby unmodified ridges and sideslopes 
+Appling soils have 35 to 60 precent clay in the particle-size control section; have few to many mica flakes throughout; found on nearby unmodified ridges and sideslopes
+Beltline soils have less than 50 centimeters of human-transported material; found on nearby cut and filled ridges and sideslopes 
+Cecil soils have 35 to 60 precent clay in the particle-size control section and are dominantly 5YR or redder in the argillic horizons; found on nearby unmodified ridges and sideslopes
+Pacolet soils have 35 to 60 percent clay in the particle-size control section and have few to common mica flakes in the argillic; found on nearby unmodified ridges and sideslopes.
+Walcreek soils have less than 18 percent clay in the particle-size control section; formed in human-transported fill from alluvium on nearby toeslopes
+Wedowee soils have 35 to 60 precent clay in the particle-size control section; found on nearby unmodified ridges and sideslopes 
 
 DRAINAGE AND SATURATED HYDRAULIC CONDUCTIVITY:
-Drainage Class--Well drained 
-Surface Runoff--Low
-Saturated Hydraulic Conductivity Class--Moderately high except where compacted
+Drainage Class: Well drained 
+Surface Runoff: Low
+Saturated Hydraulic Conductivity Class: Moderately high except where compacted
+Flooding: None
+Ponding: None
 
 USE AND VEGETATION:
-Major uses--Used for residential, commercial, and recreational applications in an urban setting.
-Vegetation--May include a mix of managed and unmanaged plant communities with a mix of native and non-native species. Many areas are vegetated with non-native ornamental landscaping and/or turfgrass associated with developed land uses. Some areas may exhibit weedy, invasive, and/or primary succession vegetation communities (e.g., abandoned lots and other unmanaged areas). Some small patches of mixed native forest species such as longleaf pine, shortleaf pine, and black locust may be present in undisturbed areas. 
+Major uses uses for residential, commercial, and recreational applications in an urban setting. Vegetation may include a mix of managed and unmanaged plant communities with a mix of native and non-native species. Many areas are vegetated with non-native ornamental landscaping and/or turfgrass associated with developed land uses. Some areas may exhibit weedy, invasive, and/or primary succession vegetation communities (e.g., abandoned lots and other unmanaged areas). Some small patches of mixed native forest species such as longleaf pine, shortleaf pine, and black locust may be present in undisturbed areas. 
 
 DISTRIBUTION AND EXTENT:
-General area--Urban and other areas with human-modified landscapes
-Region--P - South Atlantic and Gulf Slope Cash Crops, Forest, and Livestock Region
-Major Land Resource Area (MLRA)--136 - Southern Piedmont
-Extent--Small
+Urban and other areas with human-modified landscapes in the South Atlantic and Gulf Slope Cash Crops, Forest, and Livestock Region
+MLRA 136. These soils are small extensive.
 
-SOIL SURVEY REGIONAL OFFICE (SSRO) RESPONSIBLE: Raleigh, North Carolina (SPECIAL PROJECTS REGION)
+SOIL SURVEY REGIONAL OFFICE (SSRO) RESPONSIBLE:
+Raleigh, North Carolina (SPECIAL PROJECTS REGION)
 
-SERIES PROPOSED: Wake County, North Carolina, 2025
-
-Chavis name is derived from Chavis Memorial Park in Raleigh, North Carolina, which was dedicated in 1938.
+SERIES PROPOSED:
+Wake County, North Carolina, 2025
 
 REMARKS:
-Diagnostic horizons and features recognized in this pedon are:
-Ochric epipedon--The zone from 0 to 8 centimeters (0 to 3 inches)
-Surface mantle of human-transported materials--The zone from 0 to 61 centimeters (0 to 24 inches)
-Lithologic discontinuity--61 centimeters (24 inches)
-Buried Argillic and Kandic horizons--The zone from 61 to 150 centimeters (24 to 60 inches)
-Particle-size control section--The zone from 25 to 100 centimeters (19 to 40 inches)
+Typical Pedon Taxonomic Features:
+Ochric epipedon--The zone from 0 to 8 centimeters 
+Surface mantle of human-transported materials--The zone from 0 to 61 centimeters 
+Lithologic discontinuity--61 centimeters 
+Buried Argillic and Kandic horizons--The zone from 61 to 150 centimeters 
+Particle-size control section--The zone from 25 to 100 centimeters 
+Taxonomic Version: Keys to Soil Taxonomy, 13th edition (2022)
+Other: Chavis name is derived from Chavis Memorial Park in Raleigh, North Carolina, which was dedicated in 1938.
 
 ADDITIONAL DATA:
 NASIS User Pedon ID: 2023NC183006

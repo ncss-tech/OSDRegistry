@@ -1,19 +1,19 @@
 LOCATION WALCREEK               NC
 
 Tentative Series
-ARP/EED
+ARP-EED
 04/2025
 
 WALCREEK SERIES
 
-Depth class--Very deep
-Drainage class--Well drained
-Saturated hydraulic conductivity--Moderately high
-Parent material--Human-transported materials with 0 to 5 percent artifacts over alluvium deposits
-Geomorphic location--On filled floodplains and drainages
-Slope range--0 to 2 percent
-Mean annual temperature--15 degrees C (59 degrees F)
-Mean annual precipitation--1100 millimeters (43 inches)
+Depth class: Very deep
+Drainage class: Well drained
+Saturated hydraulic conductivity: Moderately high
+Parent material: Human-transported materials with 0 to 5 percent artifacts over alluvium deposits
+Geomorphic location: On filled floodplains and drainages
+Slope range: 0 to 2 percent
+Mean annual temperature: 15 degrees C
+Mean annual precipitation: 1100 millimeters
  
 TAXONOMIC CLASS: Coarse-loamy, spolic, mixed, semiactive, nonacid, thermic Anthroportic Udorthents
 
@@ -29,23 +29,24 @@ TYPICAL PEDON: Walcreek loam, 0 to 2 percent slopes on a filled baseslope in a c
 
  ^C'--115 to 200 centimeters; reddish brown (2.5YR 5/3) sandy loam; massive, slightly sticky, slightly plastic; 3 percent subangular igneous gravels; slightly acid
  
-TYPE LOCATION: Wake County, North Carolina; in a developed area on the northeast side of the intersection of Green Road and Leigh Drive; U.S.G.S. Quad: East Raleigh
+TYPE LOCATION: Wake County, North Carolina; in a developed area on the northeast side of the intersection of Green Road and Leigh Drive.
 
-Latitude--35.8531644
-Longitude-- -78.5886602
-Datum--WGS84
-Coordinate source--From handheld GPS
+USGS Quadrangle: East Raleigh, NC
+Latitude:35.8531644
+Longitude:-78.5886602
+Datum: WGS84
+Coordinate source: From handheld GPS
 
 RANGE IN CHARACTERISTICS:
-Thickness of human-transported materials--Greater than 50 cm, typically greater than 75 cm Depth to bedrock--Greater than 150 cm
-Depth to seasonal high-water table--Typically greater than 100 cm; water table may reach to 100 cm in some pedons
-Depth to lithologic discontinuity--50 to over 100 centimeters
-Artifact content--0 to 5 percent, by volume, within a depth of 50 cm
-Soil reaction--Slightly acid to neutral throughout
-Particle-size control section (weighted average)--
-Clay content: 10 to 18 percent
-Sand content: Greater than 40 percent 
-Rock fragment content: Less than 15 percent
+Thickness of human-transported materials: Greater than 50 cm, typically greater than 75 cm Depth to bedrock: Greater than 150 cm
+Depth to seasonal high-water table: Typically, greater than 100 cm; water table may reach to 100 cm in some pedons
+Depth to lithologic discontinuity: 50 to over 100 centimeters
+Artifact content: 0 to 5 percent, by volume, within a depth of 50 cm
+Soil reaction: Slightly acid to neutral throughout
+Particle-size control section (weighted average):
+Clay content--10 to 18 percent
+Sand content--Greater than 40 percent 
+Rock fragment content--Less than 15 percent
 
 ^A(u) horizons 
 Hue--2.5YR to 10YR
@@ -84,62 +85,59 @@ Chroma--3 to 8
 Texture--coarse sand, loamy sand, or loam
 Rock fragments--0 to 15 percent
 
-COMPETING SERIES: There are no competing series.
+COMPETING SERIES:
+There are no competing series.
 
 GEOGRAPHIC SETTING:
-Landscape--Piedmont
-Landform--Filled, raised land, or other locally raised landforms on floodplains along streams
-Parent Material--Human-transported material over alluvial deposits 
-Slope--0 to 2 percent
-Elevation--50 to 100 meters
-Frost-free period--200 to 250 days
-Mean Annual Air Temperature--13 to 17 degrees C (55 to 63 degrees F). 
-Mean Annual Precipitation--1000 to 1200 mm (40 to 47 inches)
+Parent Material: Human-transported material over alluvial deposits
+Landform: Fills, raised land, or other locally raised landforms on floodplains along streams
+Slope: 0 to 2 percent
+Elevation: 50 to 100 meters
+Frost-free period: 200 to 250 days
+Mean Annual Air Temperature: 13 to 17 degrees C
+Mean Annual Precipitation: 1000 to 1200 mm
 
-GEOGRAPHICALLY ASSOCIATED SOILS: These are the Appling, Beltline, Cecil, Chavis, Chewacla, Pacolet, Wedowee series,
+GEOGRAPHICALLY ASSOCIATED SOILS:
+These are the Appling, Beltline, Cecil, Chavis, Chewacla, Pacolet, Wedowee series,
 
-Appling soils--Have 35 to 60 precent clay in the particle-size control section; have few to many mica flakes throughout; found on nearby unmodified ridges and sideslopes
-Beltline soils-- Have between 25 and 50 centimeters of human-transported material; found on nearby cut and filled ridges and sideslopes 
-Cecil soils--Have 35 to 60 precent clay in the particle-size control section and are dominantly 5YR or redder in the argillic horizons; found on nearby unmodified ridges and sideslopes
-Chavis soils--Have 18 to 35 percent clay in the particle-size control section; found on nearby cut and filled ridges and steeper sideslopes
-Chewacla soils--Have aquic conditions; found in nearby drainageways and river valleys
-Pacolet soils--Have 35 to 60 percent clay in the particle-size control section and have few to common mica flakes in the argillic; found on nearby unmodified ridges and sideslopes.
-Wedowee soils--Have 35 to 60 precent clay in the particle-size control section; found on nearby unmodified ridges and sideslopes 
+Appling soils have 35 to 60 precent clay in the particle-size control section; have few to many mica flakes throughout; found on nearby unmodified ridges and sideslopes
+Beltline soils have between 25 and 50 centimeters of human-transported material; found on nearby cut and filled ridges and sideslopes 
+Cecil soils have 35 to 60 precent clay in the particle-size control section and are dominantly 5YR or redder in the argillic horizons; found on nearby unmodified ridges and sideslopes
+Chavis soils have 18 to 35 percent clay in the particle-size control section; found on nearby cut and filled ridges and steeper sideslopes
+Chewacla soils have aquic conditions; found in nearby drainageways and river valleys
+Pacolet soils have 35 to 60 percent clay in the particle-size control section and have few to common mica flakes in the argillic; found on nearby unmodified ridges and sideslopes.
+Wedowee soils have 35 to 60 precent clay in the particle-size control section; found on nearby unmodified ridges and sideslopes 
 
 DRAINAGE AND SATURATED HYDRAULIC CONDUCTIVITY:
-Drainage Class--Well drained
-Surface runoff--Low
-Saturated Hydraulic Conductivity Class--Typically moderately high except where compacted.
-Ponding--None
-Flooding--None
+Drainage Class: Well drained
+Surface runoff: Low
+Saturated Hydraulic Conductivity Class: Typically moderately high except where compacted.
+Ponding: None
+Flooding: None
 
 USE AND VEGETATION:
-Major uses--Used for residential, commercial, and recreational applications in an urban setting.
-Vegetation-- Vegetation may include managed and unmanaged plant communities with a mix of native and non-native species. Many areas are vegetated with non-native ornamental landscaping and/or turfgrass associated with developed land uses. Some areas may exhibit weedy, invasive, and/or primary succession vegetation communities (e.g., abandoned lots and other unmanaged areas).
+Major uses are for residential, commercial, and recreational applications in an urban setting. Vegetation may include managed and unmanaged plant communities with a mix of native and non-native species. Many areas are vegetated with non-native ornamental landscaping and/or turfgrass associated with developed land uses. Some areas may exhibit weedy, invasive, and/or primary succession vegetation communities (e.g., abandoned lots and other unmanaged areas).
  
 DISTRIBUTION AND EXTENT:
-General area--Urban and other areas with human-modified landscapes
-Region--P - South Atlantic and Gulf Slope Cash Crops, Forest, and Livestock Region
-Major Land Resource Area (MLRA)--136 - Southern Piedmont
-Extent--Small
+Urban and other areas with human-modified landscapes in the South Atlantic and Gulf Slope Cash Crops, Forest, and Livestock Region
+Major Land Resource Area; MLRA 136. These soils are small extensive
 
-SOIL SURVEY REGIONAL OFFICE (SSRO) RESPONSIBLE: Raleigh, North Carolina (Special Projects Region)
+SOIL SURVEY REGIONAL OFFICE (SSRO) RESPONSIBLE:
+Raleigh, North Carolina (Special Projects Region)
 
-SERIES PROPOSED: Wake County, North Carolina, 2025
-
-Walcreek name taken from the Walnut Creek Greenway which is a large greenbelt that runs from Lake Johnson Park located in Cary, NC to southeastern Raleigh, NC. 
+SERIES PROPOSED:
+Wake County, North Carolina, 2025
 
 REMARKS:
-Diagnostic horizons and features recognized in this pedon are:
+Typical Pedon Taxonomic Features:
 Ochric epipedon--The zone from 0 to 13 centimeters 0 to 5 inches) 
-Human-transported materials--The zone from 0 to 150 centimeters (0 to 60 inches)
-Particle-size control section--The zone from 25 to 100 centimeters (10 to 40 inches)
-
-Some pedons may have redoximorphic features below a depth of 100 centimeters in the intact native subsoil and would be included in the concept as related to the thickness of human-transported materials.
+Human-transported materials--The zone from 0 to 150 centimeters Particle-size control section--The zone from 25 to 100 centimeters 
+Taxonomic Version: Keys to Soil Taxonomy, 13th edition (2022)
+Other: Walcreek name taken from the Walnut Creek Greenway which is a large greenbelt that runs from Lake Johnson Park located in Cary, NC to southeastern Raleigh, NC. 
+Other: Some pedons may have redoximorphic features below a depth of 100 centimeters in the intact native subsoil and would be included in the concept as related to the thickness of human-transported materials.
 
 ADDITIONAL DATA:
 NASIS User Pedon ID: 2022NC183012
-Classified using the Thirteenth Edition Keys to Soil Taxonomy (2022)
 
 National Cooperative Soil Survey
 U.S.A.

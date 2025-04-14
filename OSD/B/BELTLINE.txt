@@ -1,64 +1,66 @@
 LOCATION BELTLINE               NC
 
 Tentative Series
-ARP/EED
+ARP-EED
 04/2025
 
 BELTLINE SERIES
 
-Depth class--Very deep
-Drainage class--Well drained
-Saturated hydraulic conductivity--Moderately high
-Parent material--Human-transported materials over residuum
-Geomorphic location--Cut and filled ridges and side slopes
-Slope range--2 to 6 percent
-Mean annual temperature--15 degrees C (59 degrees F)
-Mean annual precipitation--1100 millimeters (43 inches) 
+Depth class: Very deep
+Drainage class: Well drained
+Saturated hydraulic conductivity: Moderately high
+Parent material: Human-transported materials over residuum
+Geomorphic location: Cut and filled ridges and side slopes
+Slope range: 2 to 6 percent
+Mean annual temperature: 15 degrees C
+Mean annual precipitation: 1100 millimeters 
 
 TAXONOMIC CLASS: Fine-loamy, kaolinitic, thermic Typic Kanhapludults
 
 TYPICAL PEDON: Beltline clay loam, 2 to 6 percent slopes on a filled ridge in a city park lawn. When described the soil was moist throughout. (Colors are for moist soil unless otherwise noted.)
 
- ^A--0 to 23 centimeters (0 to 9 inches); 40 percent red (2.5YR 4/6) and 60 percent brown (7.5YR 4/4) clay loam; weak granular structure; friable, slightly sticky, slightly plastic; few very fine roots and few fine roots throughout; few black (10YR 2/1) manganese masses throughout; 4 percent quartz gravels; moderately acid; clear boundary (thickness 5 to 24 centimeters)
+ ^A--0 to 23 centimeters; 40 percent red (2.5YR 4/6) and 60 percent brown (7.5YR 4/4) clay loam; weak granular structure; friable, slightly sticky, slightly plastic; few very fine roots and few fine roots throughout; few black (10YR 2/1) manganese masses throughout; 4 percent quartz gravels; moderately acid; clear boundary (5 to 24 centimeters thick)
 
- ^C--23 to 48 centimeters (9 to 20 inches); red (2.5YR 4/8) silt loam; relict strong angular blocky structure; very firm, slightly sticky, slightly plastic; few very fine and fine roots throughout; 10 percent quartz gravels; very strongly acid; abrupt boundary(thickness 8 to 28 centimeters)
+ ^C--23 to 48 centimeters; red (2.5YR 4/8) silt loam; relict strong angular blocky structure; very firm, slightly sticky, slightly plastic; few very fine and fine roots throughout; 10 percent quartz gravels; very strongly acid; abrupt boundary(8 to 28 centimeters thick)
 
- 2Btb--48 to 66 centimeters (20 to 26 inches); red (2.5YR 4/6) clay loam; moderate angular blocky structure; firm, slightly sticky, slightly plastic; few very fine roots throughout; 2 percent mica flakes; very strongly acid; clear boundary (Thickness 15 to 52 centimeters)
+ 2Btb--48 to 66 centimeters; red (2.5YR 4/6) clay loam; moderate angular blocky structure; firm, slightly sticky, slightly plastic; few very fine roots throughout; 2 percent mica flakes; very strongly acid; clear boundary (15 to 52 centimeters thick)
 
- 2BCtb1--66 to 94 centimeters (26 to 37 inches); 80 percent red (2.5YR 4/6) and 20 percent red (2.5YR 5/8) clay loam; weak subangular blocky structure; friable, slightly sticky, slightly plastic; very strongly acid; clear boundary (thickness 12 to 51 centimeters)
+ 2BCtb1--66 to 94 centimeters; 80 percent red (2.5YR 4/6) and 20 percent red (2.5YR 5/8) clay loam; weak subangular blocky structure; friable, slightly sticky, slightly plastic; very strongly acid; clear boundary (12 to 51 centimeters thick)
 
- 2BCtb2--94 to 124 centimeters (37 to 49 inches); 90 percent red (2.5YR 4/6) and 5 percent reddish yellow (7.5YR 6/8) and 5 percent reddish yellow (7.5YR 6/8); weak subangular blocky structure; friable, slightly sticky, slightly plastic; very strongly acid; gradual boundary (thickness 30 to 31 centimeters)
+ 2BCtb2--94 to 124 centimeters; 90 percent red (2.5YR 4/6) and 5 percent reddish yellow (7.5YR 6/8) and 5 percent reddish yellow (7.5YR 6/8); weak subangular blocky structure; friable, slightly sticky, slightly plastic; very strongly acid; gradual boundary (30 to 31 centimeters thick)
 
- 2CB--124 to 200 centimeters (49 to 64 inches); 80 percent red (2.5YR 4/6) and 15 percent dark brown (7.5YR 3/4) and 5 percent reddish yellow (7.5YR 6/8) loam; weak subangular blocky structure; friable, slightly sticky, slightly plastic; 9 percent mica flakes; strongly acid 
+ 2CB--124 to 200 centimeters; 80 percent red (2.5YR 4/6) and 15 percent dark brown (7.5YR 3/4) and 5 percent reddish yellow (7.5YR 6/8) loam; weak subangular blocky structure; friable, slightly sticky, slightly plastic; 9 percent mica flakes; strongly acid 
 
-TYPE LOCATION: Wake County, North Carolina; located on the central area of Optimist Park Community Center; USGS topographic quadrangle: East Raleigh, NC
+TYPE LOCATION:
+Wake County, North Carolina; located on the central area of Optimist Park Community Center
 
-Latitude--35.8631490
-Longitude-- -78.6452440
-Datum--WGS84
-Coordinate source--From handheld GPS
+USGS Quadrangle: East Raleigh, NC
+Latitude: 35.8631490
+Longitude: -78.6452440
+Datum: WGS84
+Coordinate source: From handheld GPS
 
 RANGE IN CHARACTERISTICS:
-Thickness of human-transported materials--25 to 50 centimeters 
-Depth to bedrock--Greater than 150 centimeters
-Depth to seasonal high-water table--Greater than 100 centimeters
-Depth to lithologic discontinuity--25 to 50 centimeters
-Human artifact content--0 to 10 percent within a depth of 50 centimeters
-Combined rock and artifact content--less than 25 percent 
-Soil reaction--Moderately acid to slightly acidic (5.6 to 6.5 pH)
-Particle-size control section (weighted average)--
-Clay content: 18 to 35 percent 
-Sand content: Greater than 40 percent 
+Thickness of human-transported materials: 25 to 50 centimeters 
+Depth to bedrock: Greater than 150 centimeters
+Depth to seasonal high-water table: Greater than 100 centimeters
+Depth to lithologic discontinuity: 25 to 50 centimeters
+Human artifact content: 0 to 10 percent within a depth of 50 centimeters
+Combined rock and artifact content: less than 25 percent 
+Soil reaction: Moderately acid to slightly acidic (5.6 to 6.5 pH)
+Particle-size control section (weighted average):
+Clay content--18 to 35 percent 
+Sand content--Greater than 40 percent 
 
-^A(u)horizons
+^A(u) horizons:
 Hue--5YR or 10YR
 Value--2 or 2.5
 Chroma--1 to 3 
 Texture--clay loam, loam or sandy loam
 Rock fragments--4 to 25 percent 
-Human artifacts--0 to 5 percent 
+Human artifacts--0 to 10 percent 
 
-^Bw(u)horizons when present:
+^Bw(u) horizons when present:
 Hue--2.5YR or 7.5YR
 Value--4 to 8
 Chroma--4 to 8 
@@ -66,7 +68,7 @@ Texture--sandy loam or loam
 Rock fragments--7 to 20 percent
 Human artifacts--0 to 10 percent
 
-^C(u) horizons
+^C(u) horizons:
 Hue--2.5YR to 10YR
 Value--4 or 5
 Chroma 2 to 8 
@@ -83,69 +85,71 @@ Rock fragments--0 to 8 percent
 
 2CB horizon or 2C, 2Ct horizons (when present):
 Hue--2.5YR to 7.5YR
-Value--4 to 6
+Value--4 to 6:
 Chroma--6 or 8.
 Texture--sandy loam, loam sandy clay loam, or clay
 Rock fragments--0 to 10 percent
 
-COMPETING SERIES: These are the Barnwell, Cowarts, Marvyn, and Springhill series. These series do not have a mantle of human-transported material.
+COMPETING SERIES:
+These are the Barnwell, Cowarts, Marvyn, and Springhill soils. These series do not have a mantle of human-transported material.
 
-Barnwell soils--Have densic contacts; pH is strongly to extremely acid; occur on side slopes of interfluves in the Southern Coastal Plain
-Cowarts soils--pH is strongly or very strongly acid; have aquic conditions below 60 centimeters; occur on ridge tops and side slopes in the Southern Coastal Plain 
-Marvyn soils--Have thinly stratified textures below the kandic with few to many mica flakes; occur on sideslopes in the Southern Coastal Plain
-Springhill soils--pH is strongly to very strongly acid; occur on ridgetops and sideslopes in the Southern Coastal Plain 
+Barnwell soils have densic contacts and a strongly to extremely acid reaction; occur on side slopes of interfluves in the Southern Coastal Plain
+Cowarts soils have a strongly or very strongly acid reaction and have aquic conditions below 60 centimeters; occur on ridge tops and side slopes in the Southern Coastal Plain 
+Marvyn soils have thinly stratified textures below the kandic with few to many mica flakes; occur on sideslopes in the Southern Coastal Plain
+Springhill soils have a strongly to very strongly acid reaction; occur on ridgetops and sideslopes in the Southern Coastal Plain 
 
 GEOGRAPHIC SETTING:
-Landscape--Piedmont
-Landform--Filled, raised land, or other locally raised landforms
-Parent material--Human-transported material over residuum 
-Slope--2 to 10 percent
-Elevation--40 to 110 meters (164 to 1312 feet)
-Frost-free period--200 to 250 days
-Mean annual air temperature--13 to 17 degrees C (55 to 63 degrees F)
-Mean annual precipitation--1000to 1200 millimeters (40 to 47 inches)
+Parent material: Human-transported material over residuum 
+Landform: Fills, raised land, or other locally raised landforms
+Slope: 2 to 10 percent
+Elevation: 40 to 110 meters
+Frost-free period: 200 to 250 days
+Mean annual air temperature: 13 to 17 degrees C
+Mean annual precipitation: 1000 to 1200 millimeters
 
-GEOGRAPHICALLY ASSOCIATED SOILS: These are the Appling, Cecil, Chavis, Pacolet, Walcreek, and Wedowee series. 
+GEOGRAPHICALLY ASSOCIATED SOILS:
+These are the Appling, Cecil, Chavis, Pacolet, Walcreek, and Wedowee soils. 
 
-Appling soils--Have 35 to 60 precent clay in the particle-size control section; have few to many mica flakes throughout; found on nearby unmodified sideslopes and ridges 
-Cecil soils--Have 35 to 60 precent clay in the particle-size control section and are dominantly 5YR or redder in the argillic horizons; found on nearby unmodified sideslopes and ridges
-Chavis soils--Have greater than 50 centimeters of human-transported material; found on nearby cut and filled ridges and sideslopes
-Pacolet soils--Have 35 to 60 percent clay in the particle-size control section and have few to common mica flakes in the argillic; found on nearby unmodified sideslopes and ridges 
-Walcreek soils--Have less than 18 percent clay in the particle-size control section; formed in fill from alluvium on nearby toeslopes 
-Wedowee soils--Have 35 to 60 precent clay in the particle-size control section; found on nearby unmodified sideslopes and ridges 
+Appling soils have 35 to 60 precent clay in the particle-size control section; have few to many mica flakes throughout; found on nearby unmodified sideslopes and ridges 
+Cecil soils have 35 to 60 precent clay in the particle-size control section and are dominantly 5YR or redder in the argillic horizons; found on nearby unmodified sideslopes and ridges
+Chavis soils have greater than 50 centimeters of human-transported material; found on nearby cut and filled ridges and sideslopes
+Pacolet soils have 35 to 60 percent clay in the particle-size control section and have few to common mica flakes in the argillic; found on nearby unmodified sideslopes and ridges 
+Walcreek soils have less than 18 percent clay in the particle-size control section; formed in fill from alluvium on nearby toeslopes 
+Wedowee soils have 35 to 60 precent clay in the particle-size control section; found on nearby unmodified sideslopes and ridges 
 
 DRAINAGE AND SATURATED HYDRAULIC CONDUCTIVITY:
-Drainage Class--Well drained 
-Surface Runoff--Low
-Saturated Hydraulic Conductivity Class--Moderately high except where compacted
+Drainage Class: Well drained 
+Surface Runoff: Low
+Saturated Hydraulic Conductivity Class: Moderately high except where compacted
+Flooding: None
+Ponding: None
 
 USE AND VEGETATION:
-Major uses--Used for residential, commercial, and recreational applications in an urban setting.
-Vegetation-- Vegetation may include managed and unmanaged plant communities with a mix of native and non-native species. Many areas are vegetated with non-native ornamental landscaping and/or turfgrass associated with developed land uses. Some areas may exhibit weedy, invasive, and/or primary succession vegetation communities (e.g., abandoned lots and other unmanaged areas). Some small patches of mixed native forest species such as longleaf pine, shortleaf pine, and black locust may be present in undisturbed areas. 
+Major uses are for residential, commercial, and recreational applications in an urban setting. Vegetation may include managed and unmanaged plant communities with a mix of native and non-native species. Many areas are vegetated with non-native ornamental landscaping and/or turfgrass associated with developed land uses. Some areas may exhibit weedy, invasive, and/or primary succession vegetation communities (e.g., abandoned lots and other unmanaged areas). Some small patches of mixed native forest species such as longleaf pine, shortleaf pine, and black locust may be present in undisturbed areas. 
 
 DISTRIBUTION AND EXTENT:
-General area--Urban and other areas with human-modified landscapes
-Region--P - South Atlantic and Gulf Slope Cash Crops, Forest, and Livestock Region
-Major Land Resource Area (MLRA)--136 - Southern Piedmont
-Extent--Small
+Urban and other areas with human-modified landscapes in the South Atlantic and Gulf Slope Cash Crops, Forest, and Livestock Region
+Major Land Resource Area; MLRA 136. These soils are small extensive
 
-SOIL SURVEY REGIONAL OFFICE (SSRO) RESPONSIBLE: Raleigh, North Carolina (SPECIAL PROJECTS REGION)
+SOIL SURVEY REGIONAL OFFICE (SSRO) RESPONSIBLE:
+Raleigh, North Carolina (SPECIAL PROJECTS REGION)
 
-SERIES PROPOSED: Wake County, North Carolina, 2025
-
-Beltline is named after I-440 that runs around the city of Raleigh, NC. I-440 was finished in 1991 thus completing the inner belt line of Raleigh, NC.
+SERIES PROPOSED:
+Wake County, North Carolina, 2025
 
 REMARKS:
-Diagnostic horizons and features recognized in this pedon are:
-Ochric epipedon--The zone from 0 to 23 centimeters (0 to 9 inches)
-Human-transported material--The zone from 0 to 48 cm (0 to 19 inches)
-Lithologic discontinuity--48 centimeters (19 inches)
-Argillic and Kandic horizons--The zone from 48 to 124 centimeters (19 to 49 inches)
-Particle-size control section--The zone from 48 to 98 centimeters (19 to 36 inches)
+Typical Pedon Taxonomic Features:
+Ochric epipedon--The zone from 0 to 23 centimeters
+Human-transported material--The zone from 0 to 48 cm
+Lithologic discontinuity--48 centimeters
+Argillic and Kandic horizons--The zone from 48 to 124 centimeters
+Particle-size control section--The zone from 48 to 98 centimeters
+Taxonomic Version: Keys to Soil Taxonomy, 13th edition (2022)
+Other: Beltline is named after I-440 that runs around the city of Raleigh, NC. I-440 was finished in 1991 thus completing the inner belt line of Raleigh, NC.
 
 ADDITIONAL DATA:
 NASIS User Pedon ID: 2023NC183005
-Classified using the Thirteenth Edition Keys to Soil Taxonomy (2022)
+
 
 National Cooperative Soil Survey
 U.S.A.
