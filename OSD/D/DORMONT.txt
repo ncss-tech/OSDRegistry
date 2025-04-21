@@ -2,7 +2,7 @@ LOCATION DORMONT                PA+WV
 
 Established Series
 DJB/Rev. MDJ
-12/2012
+04/2025
 
 DORMONT SERIES
 
@@ -73,10 +73,10 @@ GEOGRAPHIC SETTING:
 MLRA(s): 125 (Cumberland Plateau and Mountains), 126 (Central Allegheny Plateau), 127 (Eastern Allegheny Plateau and Mountains)
 Landscape: Hills
 Landform: Hill and hillslope
-Hillslope Profile Position: Summit, shoulder or backslope
+Hillslope Profile Position: Summit, shoulder, backslope, or footslope
 Geomorphic Component: Interfluve, side slope or head slope
 Parent Material Origin:  non-acid shale and siltstone and thin beds of limestone and sandstone
-Parent Material Kind:  Residuum
+Parent Material Kind:  Colluvium or Residuum
 Slope: 0 to 50 percent
 Elevation: 190 to 475 meters (620 to 1550 feet)
 Frost-free period: 170 to 205 days
@@ -84,9 +84,9 @@ Mean Annual Air Temperature: 8 to 13 degrees C. (46 to 55 degrees F.)
 Mean Annual Precipitation: 940 to 1220 mm (37 to 48 inches)
 
 GEOGRAPHICALLY ASSOCIATED SOILS:
-Clarksburg soils--occur on lower side slopes, head slopes and base slopes, and have a fragipan
+Clarksburg soils-- have a fragipan
 Culleoka soils--occur on crests, nose slopes and side slopes with better drainage where bedrock is moderately deep
-Guernsey soils--occur on similar positions of the landscape but where limestone predominates
+Guernsey soils--occur on similar positions of the landscape but where limestone predominates.
 Library soils--occur on less sloping interfluves, head slopes and base slopes where parent materials are dominantly limestone
 Lowell soils--occur on crests, nose slopes and side slopes with better drainage where limestone predominates
 Westmoreland soils--occur on crests, nose slopes and side slopes with better drainage
@@ -116,8 +116,6 @@ REMARKS: Diagnostic horizons and features recognized in this pedon are:
 Ochric epipedon--the zone from 0 to 28 cm (Ap horizon)
 Argillic horizon--the zone from 28 to 157 cm (Bt1, Bt2, Bt3, and Bt4 horizons)
 Redoximorphic depletions with chroma of 2 or less--79 to 191 cm
-
-This revision eliminates colluvium as a parent material for the Dormont series.  Workers involved in recent Soil Survey updates believe this soil is mainly derived from residuum.  Future MLRA update work on this series will include addressing Dormont where historically mapped in colluvial landform positions.
 
 Previous revision: 08/2005-WRK,AWD,ART
 

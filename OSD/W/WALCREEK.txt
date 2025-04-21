@@ -10,14 +10,14 @@ Depth class: Very deep
 Drainage class: Well drained
 Saturated hydraulic conductivity: Moderately high
 Parent material: Human-transported materials with 0 to 5 percent artifacts over alluvium deposits
-Geomorphic location: On filled floodplains and drainages
+Geomorphic location: On filled terraces of floodplains and nearby drainages
 Slope range: 0 to 2 percent
 Mean annual temperature: 15 degrees C
 Mean annual precipitation: 1100 millimeters
  
 TAXONOMIC CLASS: Coarse-loamy, spolic, mixed, semiactive, nonacid, thermic Anthroportic Udorthents
 
-TYPICAL PEDON: Walcreek loam, 0 to 2 percent slopes on a filled baseslope in a city business park. When described the soil was moist throughout. (Colors are for moist soil unless otherwise noted.) 
+TYPICAL PEDON: Walcreek loam, 0 to 2 percent slopes on a filled toe slope in a city business park. When described the soil was moist throughout. (Colors are for moist soil unless otherwise noted.) 
 
  ^A--0 to 3 centimeters; very dark grayish brown (10YR 3/2), loam; weak granular structure, nonstick, nonplastic; friable; many very fine roots throughout and common fine roots throughout; common fine tubular pores; slightly acid; abrupt smooth boundary. (3 to 24 centimeters thick)
 
@@ -38,7 +38,8 @@ Datum: WGS84
 Coordinate source: From handheld GPS
 
 RANGE IN CHARACTERISTICS:
-Thickness of human-transported materials: Greater than 50 cm, typically greater than 75 cm Depth to bedrock: Greater than 150 cm
+Thickness of human-transported materials: Greater than 50 cm, typically greater than 75 cm
+ Depth to bedrock: Greater than 150 cm
 Depth to seasonal high-water table: Typically, greater than 100 cm; water table may reach to 100 cm in some pedons
 Depth to lithologic discontinuity: 50 to over 100 centimeters
 Artifact content: 0 to 5 percent, by volume, within a depth of 50 cm
@@ -116,7 +117,7 @@ Ponding: None
 Flooding: None
 
 USE AND VEGETATION:
-Major uses are for residential, commercial, and recreational applications in an urban setting. Vegetation may include managed and unmanaged plant communities with a mix of native and non-native species. Many areas are vegetated with non-native ornamental landscaping and/or turfgrass associated with developed land uses. Some areas may exhibit weedy, invasive, and/or primary succession vegetation communities (e.g., abandoned lots and other unmanaged areas).
+Major uses are for residential, commercial, and recreational applications in an urban setting. Vegetation may include managed and unmanaged plant communities with a mix of native and non-native species. Many areas are vegetated with non-native ornamental landscaping and/or turfgrass associated with developed land uses. Some areas may exhibit weedy, invasive, and/or primary succession vegetation communities (e.g., abandoned lots and other unmanaged areas). Some small patches of mixed native forest species such sycamore, river birch, ironwood, and swamp white oak may be present.
  
 DISTRIBUTION AND EXTENT:
 Urban and other areas with human-modified landscapes in the South Atlantic and Gulf Slope Cash Crops, Forest, and Livestock Region
