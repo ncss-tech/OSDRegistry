@@ -2,17 +2,16 @@ LOCATION DIANOLA                TX
 
 Established Series
 Rev. CLG:ALN
-10/85
+04/2025
 
 DIANOLA SERIES
 
 The Dianola series consists of deep, poorly drained, rapidly permeable soils that formed in sandy marine sediments.  These soils are on nearly level marine terraces from near sea level to about 5 feet elevation.  Slopes range from 0 to 1 percent.
 TAXONOMIC CLASS: Siliceous, hyperthermic Typic Psammaquents
 
-TYPICAL PEDON:  Dianola fine sandy loam - rangeland.
-                (Colors are for dry soil unless otherwise stated.)
+TYPICAL PEDON:  Dianola fine sandy loam - rangeland. (Colors are for dry soil unless otherwise stated.)
 
-     Agz--0 to 4 inches; gray (10YR 6/1) fine sandy loam, dark gray (10YR 4/11) moist; weak fine granular structure; slightly hard, very friable; common fine roots; many medium and fine pores; saline; moderately alkaline; clear smooth boundary.  (3 to 18 inches thick)
+     Agz--0 to 4 inches; gray (10YR 6/1) fine sandy loam, dark gray (10YR 4/1) moist; weak fine granular structure; slightly hard, very friable; common fine roots; many medium and fine pores; saline; moderately alkaline; clear smooth boundary.  (3 to 18 inches thick)
 
      Cgz1--4 to 15 inches, gray (10YR 6/1) loamy fine sand, dark gray (10YR 4/1) moist; single grained; soft, very friable; common fine roots; saline; moderately alkaline; gradual smooth boundary.  (4 to 13 inches thick)
 
@@ -20,7 +19,7 @@ TYPICAL PEDON:  Dianola fine sandy loam - rangeland.
 
      Cgz3--20 to 28 inches, light gray (10YR 7/2) loamy fine sand, same color moist; few fine distinct yellow (10YR 7/6) mottles; single grained; soft, loose; few fine roots; thin discontinuous lenses of very pale brown loamy fine sand; saline; moderately alkaline; clear smooth boundary.  (0 to 25 inches thick)
 
-     Cgz4--28 to 42 inches; white (10YR 8/2) loamy fine sand, light gray (10YR 7/2) moist; many medium and coarse distinct dark brown (10YR 3/3) mottles enriched with iron and humus; common fine and medium yellowish brown (10YR 5/6) mottles or spheres having brittle centers; single grained; loose, soft; thin lenses of brownish yellow (10YR 6/6) loamy fine sand; many fine black bodies and splotches; saline; moderately alkaline; gradual smooth boundary.  (4 to 22 inches thick)
+     Cgz4--28 to 42 inches; very pale brown (10YR 8/2) loamy fine sand, light gray (10YR 7/2) moist; many medium and coarse distinct dark brown (10YR 3/3) mottles enriched with iron and humus; common fine and medium yellowish brown (10YR 5/6) mottles or spheres having brittle centers; single grained; loose, soft; thin lenses of brownish yellow (10YR 6/6) loamy fine sand; many fine black bodies and splotches; saline; moderately alkaline; gradual smooth boundary.  (4 to 22 inches thick)
 
      Cz--42 to 62 inches; very pale brown (10YR 7/3) fine sand, pale brown (10YR 6/3) moist; single grained; loose; few thin strata of gray loamy fine sand; saline; moderately alkaline.
 
@@ -44,7 +43,7 @@ USE AND VEGETATION:  Used for rangeland.  The vegetation is shoregrass, Gulf cor
 
 DISTRIBUTION AND EXTENT:  Along the southwestern Gulf Coast of Texas.  The soil is of minor extent.
 
-MLRA SOIL SURVEY REGIONAL OFFICE (MO) RESPONSIBLE: Temple, Texas
+SOIL SURVEY REGIONAL OFFICE (SSRO) RESPONSIBLE: SPECIAL PROJECTS OFFICE
 
 SERIES ESTABLISHED:  Calhoun County, Texas; 1972.
 
@@ -55,7 +54,6 @@ Diagnostic horizons and features recognized in this pedon are:
 Ochric epipedon - 0 to 4 inches.
 
 ADDITIONAL DATA:  Lincoln Lab. sample nos. 70L770-70L772 for mineralogy and partial particle size data.  Beltsville Lab. sample nos.  71B32-71B39 for total C, FE, and A1.  The morphology of the pedon represented by these samples suggest the presence of an incipient spodic horizon but the expression is too weak to qualify as Spodic Psammaquents.  Also, Lincoln Lab. sample no. 73L557 or mineralogy, halic properties and particle size data.
+
 National Cooperative Soil Survey
-U. S. A.
-
-
+U.S.A.
