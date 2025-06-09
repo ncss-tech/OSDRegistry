@@ -59,7 +59,8 @@ refresh_registry <- function(
   res <- try({
     rD <- RSelenium::rsDriver(
       browser = "firefox",
-      chromever = NULL,
+      chromever = NULL, 
+      phantomver = NULL,
       extraCapabilities = eCaps,
       port = as.integer(port)
     )
