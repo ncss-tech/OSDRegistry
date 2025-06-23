@@ -1,0 +1,138 @@
+LOCATION COCHECO                NH
+
+Tentative Series
+BEF-CEP
+06/2025
+
+COCHECO SERIES
+
+MLRA(s)--144A
+Depth class--Very deep
+Drainage class--Very poorly drained
+Saturated hydraulic conductivity--Low to high
+Parent material--Silty estuarine deposits
+Geomorphic location--Tidal marshes in estuaries, coastal lowlands, and tidal rivers
+Slope range for Series--0 to 1 percent
+Mean Annual Air Temperature--10 degrees C (50 degrees F)
+Mean Annual Precipitation--1072 millimeters (42 inches)
+
+TAXONOMIC CLASS: Fine-silty, mixed, superactive, nonacid, mesic Typic Sulfaquents
+
+TYPICAL PEDON: Cocheco mucky silt loam on a linear, zero percent slope in a tidal marsh. Tidal range is 220 centimeters. (Colors are for moist soil unless otherwise noted). 
+
+ ACseg1--0 to 36 centimeters; very dark grayish brown (2.5Y 3/2) mucky silt loam; massive; slightly fluid, slightly sticky, nonplastic; 40 percent herbaceous plant fibers; 23 percent organic matter; moderate sulfurous odor: slight effervescence with 30 percent hydrogen peroxide; neutral (pH 7.1), extremely acid (pH 3.8) oxidized pH; gradual smooth boundary.
+
+ ACseg2--36 to 88 centimeters; very dark gray (5Y 3/1) mucky silt loam; massive; moderately fluid, slightly sticky, nonplastic; 40 percent herbaceous plant fibers; 14 percent organic matter; moderate sulfurous odor; slight effervescence with 30 percent hydrogen peroxide; neutral (pH 7.2), ultra acid (pH 3.3) oxidized pH; clear smooth boundary.
+
+ Cseg1--88 to 140 centimeters; very dark gray (2.5Y 3/1) silt loam; massive; moderately fluid, slightly sticky, nonplastic; 10 percent wood fragments; 25 percent herbaceous plant fibers; 8 percent organic matter; strong sulfurous odor; slight effervescence with 30 percent hydrogen peroxide; neutral (pH 7.1), ultra acid (pH 3.3) oxidized pH; clear smooth boundary. 
+
+ Cseg2--140 to 200 centimeters; very dark gray (5Y 3/1) silty clay loam; massive; slightly fluid, moderately sticky, slightly plastic; 5 percent herbaceous plant fibers; 8 percent organic matter; strong sulfurous odor; slight effervescence with 30 percent hydrogen peroxide; very strongly acid (pH 4.7), ultra acid (pH 3.0) oxidized pH.
+
+TYPE LOCATION: Strafford County, New Hampshire; in a tidal marsh on Bunker Creek, approximately 186 meters (610 feet) east (88 degree bearing) of the New Hampshire Fish and Game Bunker Creek Access parking lot and approximately 183 meters (600 feet) northeast from the road intersections of Piscataqua Road (Route 4) and Bunker Lane, near Durham. USGS Topographic Quadrangle: Dover West, New Hampshire
+
+Latitude--43.1360598
+Longitude-- -70.8882818
+Datum--WGS84
+Coordinates source--from hand-held GPS
+
+RANGE IN CHARACTERISTICS: 
+Depth to bedrock--Greater than 200 centimeters
+Soil moisture--Peraquic moisture regime
+Reaction throughout--ultra acid to neutral (pH <3.5 to 7.3)
+Oxidized reaction--ultra acid to slightly alkaline (pH <3.5 to 7.8)
+Electrical Conductivity (EC 1:5 water)--Greater than 0.6 dS/m throughout
+Depth to hypersulfidic materials (incubated pH 4.0 after 16 weeks)--0 to 50 centimeters
+Total soil organic carbon stock to 100 centimeters--20 to 52 kg m-2
+Total soil organic carbon stock to 200 centimeters--53 to 79 kg m-2
+Shell fragments--0 to 2 percent
+
+Oise, Oese, or Oase horizon (where present)
+Hue--10YR or 2.5Y
+Value--3 or 4
+Chroma--2 or 3
+Texture--muck, mucky peat, or peat
+Von Post humification scale--H3 through H8
+Organic carbon density--23 to 37 kg m-3
+
+ACseg or Aseg horizon
+Hue--2.5Y or 5Y 
+Value--3 or 4
+Chroma--1 or 2
+Texture--silt loam and mucky silt loam 
+Manner of failure/fluidity class--slightly fluid or moderately fluid
+Organic carbon density--20 to 41 kg m-3
+
+Cseg horizon
+Hue--2.5Y or 5Y 
+Value--3 or 4
+Chroma--1 or 2
+Texture--silt loam or silty clay loam
+Manner of failure/fluidity class--nonfluid through very fluid
+Organic carbon density--19 to 38 kg m-3
+
+2Cseg horizon (where present)
+Hue--5GY or 10BG
+Value--3 or 4
+Chroma--1
+Texture--silty clay loam or silty clay
+Manner of failure/fluidity class--nonfluid
+Coarse fragments--0 to 10 percent gravels
+
+COMPETING SERIES: There are no competing series in the same family.
+Closely related series include Gouldsboro and Broadkill soils.
+Gouldsboro soils--formed in silty marine sediments and are also found on tidal marshes in estuaries and coastal lowlands. They allow grayer hues, have a frigid soil temperature regime, and are mapped in MLRA 144B.
+Broadkill soils--formed in silty estuarine deposits and found on tidal marshes in estuaries and coastal lowlands. They have grayer hues and are underlain by fluviomarine deposits in in MLRAs 149A, 153C, and 153D.
+
+GEOGRAPHIC SETTING: 
+Parent material--Silty estuarine deposits sometimes underlain by clayey glaciomarine deposits.
+Landscape--Estuaries, coastal lowlands, and tidal rivers
+Landforms--Tidal marshes
+Slope--0 to 1 percent
+Mean annual precipitation--980 to 1443 millimeters (39 to 47 inches)
+Mean annual air temperature--6 to 13 degrees C (43 to 55 degrees F)
+Water salinity range--12 to 30 parts per thousand
+Frost-free period--145 to 240 days
+
+GEOGRAPHICALLY ASSOCIATED SOILS: These are the Great Bay, Ipswich, Pishagqua, Quinnipiac, and Westbrook soils. 
+Great Bay soils--have subaqueous drainage and formed in silty estuarine deposits overlying clayey glaciomarine deposits. Found on bays and coves in estuaries.
+Ipswich soils--formed in deep deposits of moderately decomposed herbaceous organic matter.
+Pishagqua soils--have subaqueous drainage and formed in silty estuarine deposits. Found on lagoon bottoms and lagoon channels in coastal lagoons and bays.
+Quinnipiac soils--formed in coarse-loamy alluvium and/or estuarine deposits, have slightly coarser textured materials, and are found on the southern fringe of the MLRA (slightly warmer).
+Westbrook soils--formed in moderately decomposed herbaceous organic matter overlying loamy marine or glaciofluvial deposits
+
+DRAINAGE AND SATURATED HYDRAULIC CONDUCTIVITY: 
+Drainage class--Very poorly drained
+Saturated hydraulic conductivity--Low to high 
+Soil moisture regime--Peraquic
+Flooding frequency--subject to tidal flooding twice daily except in areas protected by embankments and tide gates.
+
+USE AND VEGETATION:
+Major uses--Most areas are in salt marsh and provide food and habitat for fish, shellfish and wildfowl.
+Vegetation--The most common grasses are salt meadowgrass, salt water grass and spike grass. Other vegetation includes blackgrass, sea lavender, saltwort, seaside goldenrod, aster, and purple gerardi. In areas where the 1:5 EC by volume is below 1.5 dS/m, vegetation consists principally of tall reeds and sedges.
+
+DISTRIBUTION AND EXTENT: 
+General area--These soils are located along New Hampshire coast.
+Land Resource Regions--R - Northeastern Forage and Forest Region
+MLRA(s)--144A
+Extent--Small
+
+SOIL SURVEY REGIONAL OFFICE (SSRO) RESPONSIBLE: Special Projects Office 
+
+SERIES ESTABLISHED: Strafford County, New Hampshire, 2025.
+
+REMARKS: 
+Diagnostic horizons and features in this pedon include: 
+Hypersulfidic materials--zone from 0 to 200 centimeters (ACseg and Cseg horizons).
+Peraquic moisture regime--positive soil water potential at or near the soil surface.
+Particle-size control section--the zone from 25 to 100 centimeters (ACseg and Cseg horizons). 
+N-value > 0.7--the zone from 0 to 200 centimeters (ACseg and Cseg horizons).
+Fluventic subgroup--An organic carbon content of 3 percent at a depth of 125 centimeters below the mineral soil surface (the Fluventic subgroup will need to be added to the soil series when NASIS and OSD database recognize the choice).
+Cocheco soils often overlie the Presumpscot formation which are submarine clay glacial deposits
+Taxonomic version--Keys to Soil Taxonomy, 13th edition (2022).
+
+ADDITIONAL DATA: Type location was taken from 2025NH017009, in Bunker Creek Marsh, near Durham, in Strafford County, New Hampshire.
+
+Additional support pedons used to develop this new soil series include S2023CT001218, S2023CT001221, S2023CT001237, S2023CT001265, 2025NH017002, 2025NH017005, 2025NH017007, and 2025NH017014. 
+________________________________________
+National Cooperative Soil Survey
+U.S.A.
