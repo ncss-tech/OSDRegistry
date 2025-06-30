@@ -12,7 +12,7 @@ Drainage class--Very poorly drained
 Saturated hydraulic conductivity--Low to high
 Parent material--Silty estuarine deposits
 Geomorphic location--Tidal marshes in estuaries, coastal lowlands, and tidal rivers
-Slope range for Series--0 to 1 percent
+Slope range for Series--0 to 2 percent
 Mean Annual Air Temperature--10 degrees C (50 degrees F)
 Mean Annual Precipitation--1072 millimeters (42 inches)
 
@@ -87,7 +87,7 @@ GEOGRAPHIC SETTING:
 Parent material--Silty estuarine deposits sometimes underlain by clayey glaciomarine deposits.
 Landscape--Estuaries, coastal lowlands, and tidal rivers
 Landforms--Tidal marshes
-Slope--0 to 1 percent
+Slope--0 to 2 percent
 Mean annual precipitation--980 to 1443 millimeters (39 to 47 inches)
 Mean annual air temperature--6 to 13 degrees C (43 to 55 degrees F)
 Water salinity range--12 to 30 parts per thousand
