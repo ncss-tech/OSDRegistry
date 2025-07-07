@@ -2,7 +2,7 @@ LOCATION PRICES CREEK           NC
 
 Established Series
 ARW
-10/2024
+07/2025
 
 PRICES CREEK SERIES
 
@@ -57,7 +57,7 @@ Cseg horizon
 Hue--5Y, 10Y, or N
 Value--2.5 or 3
 Chroma--0 or 1
-Texture--loam, sandy clay loam, clay loam, or silty clay loam
+Texture--loam, silt loam, sandy clay loam, clay loam, or silty clay loam (weighted average clay percent is more than 18 percent)
 
 COMPETING SERIES:
 There are no competing series in the same family. 
