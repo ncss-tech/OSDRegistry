@@ -1,0 +1,122 @@
+LOCATION DECUEVAS               MS
+
+Tentative Series
+ARW-RBT 
+07/2025
+
+DECUEVAS SERIES
+
+MLRA(s)--152A
+Depth class--Very deep
+Drainage class--Very poorly drained
+Saturated Hydraulic Conductivity--Moderately low to moderately high
+Parent material--Loamy marine deposits
+Geomorphic location--Tidal marsh
+Slope range--0 to 2 percent
+Mean annual air temperature--21 degrees C (70 degrees F)
+Mean annual precipitation--1737 millimeters (68 inches)
+
+TAXONOMIC CLASS: Fine-loamy, mixed, semiactive, nonacid, hyperthermic Sodic Hydraquents
+
+TYPICAL PEDON: Decuevas mucky loam in a tidal marsh on a barrier island in close proximity to the Gulf of America. (Colors are for moist soil unless otherwise stated).
+
+ Ase1--0 to 22 centimeters; very dark gray (2.5Y 3/1) mucky loam; massive; very friable, very fluid, slightly sticky, slightly plastic; common very fine, fine, and medium roots throughout, slight sulfurous odor; slight effervescence with 30 percent hydrogen peroxide; moderately acid (pH 5.8); clear boundary.
+
+ Ase2--22 to 53 centimeters; very dark grayish brown (2.5Y 3/2) mucky loam; massive; very friable, very fluid, slightly sticky, slightly plastic; common very fine, fine, and medium roots throughout; moderate sulfurous odor; positive color change with 3 percent hydrogen peroxide; slight effervescence with 30 percent hydrogen peroxide; neutral (pH 7.1); clear boundary.
+
+ Cseg1--53 to 128 centimeters; 85 percent dark gray (5Y 4/1) and 15 percent dark grayish brown (10YR 4/2) sandy clay loam; massive; friable, moderately fluid, moderately sticky, moderately plastic; moderate sulfurous odor; moderate effervescence with 30 percent hydrogen peroxide; neutral (pH 7.2); clear boundary.
+
+ 2Cseg2--128 to 200 centimeters; 70 percent dark gray (2.5Y 4/1) and 30 percent very dark grayish brown (10YR 3/2) loamy fine sand; single grain; loose, nonfluid, nonsticky, nonplastic; strong sulfurous odor; moderate effervescence with 30 percent hydrogen peroxide; slightly alkaline (pH 7.6). 
+
+TYPE LOCATION: Harrison County, Mississippi; located on the Middle Spit of Cat Island. Approximately 750 meters east-northeast of Good Scotch Point, 1.74 kilometers southwest of the Cat Island marina, and 1.1 kilometers south of a road running along a dune ridge. USGS topographic quadrangle: Isle Au Pitre, LA.
+
+Latitude--30.2155222
+Longitude-- -89.1044140
+Datum--WGS84
+Coordinate source--Manually entered from GPS
+
+RANGE IN CHARACTERISTICS: 
+Depth to bedrock--greater than 200 centimeters
+Soil moisture--Saturated, peraquic moisture regime
+Reaction throughout--Moderately acid to moderately alkaline (pH 5.6 to 8.4)
+Electrical conductivity (1:5 soil-water, throughout)--3.3 to 6.3 dS/m
+Manner of failure--very fluid to moderately fluid in loamy materials and nonfluid in the underlying sands
+Shell fragments--0 to 15 percent throughout profile
+Exchangeable Sodium--15 percent or more within 100 centimeters
+Depth to lithologic discontinuity--100 to 150 centimeters
+
+Ase horizon:
+Hue--2.5Y to 10Y
+Value--2.5 or 3
+Chroma--1 or 2
+Texture--loam or silt loam, and their mucky analogs
+
+Cseg horizon:
+Hue--10YR to 5GY
+Value--2.5 to 4
+Chroma--1 or 2
+Texture--silt loam, loam, silty clay loam, clay loam, or sandy clay loam
+
+2Cseg horizon: 
+Hue--10YR or 2.5Y
+Value--3 to 6
+Chroma--1 or 2
+Texture--loamy fine sand, loamy sand, fine sand, or sand
+
+COMPETING SERIES:
+There are no competing series in the same family. Similar soils are the Bancker, Scatlake, and Tatlum soils. 
+Bancker and Scatlake soils--are very-fine in the particle-size control section and have low saturated hydraulic conductivity.
+Tatlum soils--are fine-silty in the particle-size control section and are not underlain by sands
+
+GEOGRAPHIC SETTING:
+Parent material--Loamy marine deposits over sandy marine deposits
+Landscape--Barrier islands in gulfs, bays, and coastal estuaries
+Landform--Tidal marsh
+Slope--0 to 2 percent
+Mean annual precipitation--1264 to 1737 millimeters (50 to 68 inches)
+Mean annual air temperature--19 to 21 degrees C (66 to 70 degrees F)
+Water salinity range--18 to 30 parts per thousand
+
+GEOGRAPHICALLY ASSOCIATED SOILS: These are the Thalinectes, Kesson, and St. Lucie soils.
+Thalinectes soils are subaqueous and formed in sandy marine deposits.
+Kesson soils are very poorly drained tidal marsh soils and formed in uniform, sandy deposits.
+St. Lucie soils are excessively drained on adjacent dunes and have eolian origins.
+
+DRAINAGE AND SATURATED HYDRAULIC CONDUCTIVITY: 
+Drainage class--Very poorly drained
+Saturated hydraulic conductivity--Moderately low to moderately high
+Soil moisture regime--Peraquic
+
+USE AND VEGETATION: 
+Major uses--Wildlife habitat for fish, shellfish, and waterfowl.
+Native vegetation--Juncus roemerianus, Spartina patens, and Spartina alterniflora 
+
+DISTRIBUTION AND EXTENT: 
+General area--Located along the Alabama and Mississippi Gulf coast
+Land Resource Regions--T - Atlantic and Gulf Coast Lowland Forest and Crop Region 
+MLRA(s)--MLRA  152A
+Extent--Small
+
+SOIL SURVEY REGIONAL OFFICE (SSRO) RESPONSIBLE: Special Projects Office
+
+SERIES ESTABLISHED: Harrison County, Mississippi, 2025
+
+REMARKS: This series was previously mapped as Handsboro soils in some areas of Harrison County, Mississippi Soil Surveys. The name Decuevas is derived from the DeCuevas Land Claim on the island. Previously granted by the Spanish, the U.S. Government recognized the claim after the War of 1812. 
+
+Diagnostic horizons and features in this pedon include:
+Ochric epipedon--The zone from 0 to 18 centimeters
+N-value > 0.7--The zone from 0 to 128 centimeters (Ase and Cseg horizons)
+Endosaturation--The zone from 0 to 200 centimeters
+Peraquic Conditions--Zero or positive soil water potential at the soil surface
+Reduced matrix--A value of 4 or more and chroma of 2 or less in the zone from 53 to 200 centimeters 
+Lithologic discontinuity--A change in parent material in the zone from 128 to 200 centimeters
+SAR--16 to 41 in the top 128 centimeters; 6 to 16 where the lithologic discontinuity begins
+
+Taxonomic version--Keys to Soil Taxonomy, 13th edition (2022)
+Ecological site-Central Coastal Adjacent Tidal Zones
+
+ADDITIONAL DATA: 
+Type location taken from 2025MS047002 on Cat Island, MS. Additional documentation includes 2025MS047001 and 2025MS047003 pedons.
+________________________________________
+National Cooperative Soil Survey
+U.S.A.

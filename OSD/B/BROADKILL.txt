@@ -2,7 +2,7 @@ LOCATION BROADKILL              DE+MD NJ
 
 Established Series
 CDP-PK/Rev. JDK 
-09/2024
+07/2025
 
 BROADKILL SERIES
 
@@ -15,7 +15,7 @@ Slope--0 to 2 percent
 Mean Annual Air Temperature--14 degrees C (57 degrees F)
 Mean Annual Precipitation--1118 millimeters (44 inches)
 
-TAXONOMIC CLASS: Fine-silty, mixed, active, nonacid, mesic Typic Sulfaquents
+TAXONOMIC CLASS: Fine-silty, mixed, active, nonacid, mesic Fluventic Sulfaquents
 
 TYPICAL PEDON: Broadkill mucky peat in a salt marsh. 0 to 1 meters above sea level (colors are for a moist soil unless otherwise stated).
 
@@ -125,6 +125,7 @@ Ochric epipedon--The zone from 0 to 33 centimeters (Oese and Aseg horizons)
 Peraquic conditions--The zone from the soil surface to a depth of 200 centimeters is continuously saturated (endosaturation)
 High n-value--The zone from the surface to 200 centimeters has a slightly fluid to very fluid manner of failure.
 Hypersulfidic materials--The zone from 0 to 33 centimeters (Oese and Aseg horizons)
+Fluventic subgroup--Soil has an organic carbon content of 0.2 percent or more at 125 centimeters below the mineral soil surface.
 
 Taxonomic version--Keys to Soil Taxonomy, 13th edition (2022)
 
