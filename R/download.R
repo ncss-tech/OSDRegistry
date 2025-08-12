@@ -66,11 +66,10 @@
 
     .click_options_by_value(mo_resp, as.character(x))
 
-    es_year1 <- remDr$findElement(using = "name", value = "estab_year1")
-    .click_options_by_value(es_year1, as.character(start_year))
-
-    es_year2 <- remDr$findElement(using = "name", value = "estab_year2")
-    .click_options_by_value(es_year2, as.character(end_year))
+    #es_year1 <- remDr$findElement(using = "name", value = "estab_year1")
+    #.click_options_by_value(es_year1, as.character(start_year))
+    #es_year2 <- remDr$findElement(using = "name", value = "estab_year2")
+    #.click_options_by_value(es_year2, as.character(end_year))
 
     submit <- remDr$findElement(using = "id", value = "submit_query")
     submit$clickElement()
