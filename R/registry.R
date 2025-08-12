@@ -3,6 +3,7 @@
 #' @param test Default: `FALSE`; run on a pair of small regions (MO 12, 13)
 #' @param port Passed to [RSelenium::rsDriver()]. Default: `4567L`.
 #' @param moID Region ID codes; see default argument value in function definition for details
+#' @param home_dir Default: `path.expand("~")`. Used to find "Downloads" directory on some platforms depending on browser configuration.
 #'
 #' @description Text files are written to alphabetical (first letter) folders containing raw Official Series Descriptions (OSDs). This method is for use in automatic pipeline (e.g. a GitHub action) to regularly replicate changes that occur across the entire set of series for commit.
 #'
@@ -35,7 +36,8 @@ refresh_registry <- function(
       `Southwest` = 113,
       `Special Projects` = 44372
     ),
-    port = 4567L
+    port = 4567L,
+    home_dir = path.expand("~")
 ) {
 
   message("Setting up RSelenium...")
@@ -114,33 +116,40 @@ refresh_registry <- function(
   # iterate over MO responsible codes
   zips <- character()
   for (i in idx) {
-
+    a_region <- names(idx)[which(idx == i)]
+    message("Downloading ", a_region, " OSDs...")
     # SWR and NWR have by far the most series, dont bother trying to do in one shot
     if (!i %in% c(113, 134)) {
-      res <- try(.query_series_by_region(remDr, i))
+      res <- try(.query_series_by_region(remDr, i, home_dir = home_dir))
 
       # try up to additional times
       if (inherits(res, 'try-error')) {
-        res <- try(.query_series_by_region(remDr, i))
+        res <- try(.query_series_by_region(remDr, i, home_dir = home_dir))
       }
     }
 
     if (i %in% c(113, 134) || inherits(res, 'try-error')) {
-      res1 <- try(.query_series_by_region(remDr, i,
+      # partition into chunks of established years
+      message("\t - Fetching 1800 to 1975...")
+      res1 <- try(.query_series_by_region(remDr, i, home_dir = home_dir,
                                           start_year = 1800,
                                           end_year = 1975))
-      res2 <- try(.query_series_by_region(remDr, i,
+      message("\t - Fetching 1976 to 1990...")
+      res2 <- try(.query_series_by_region(remDr, i, home_dir = home_dir,
                                           start_year = 1976,
                                           end_year = 1990))
-      res3 <- try(.query_series_by_region(remDr, i,
+      message("\t - Fetching 1991 to 2005...")
+      res3 <- try(.query_series_by_region(remDr, i, home_dir = home_dir,
                                           start_year = 1991,
                                           end_year = 2005))
-      res4 <- try(.query_series_by_region(remDr, i,
+      message("\t - Fetching 2006 to current year...")
+      res4 <- try(.query_series_by_region(remDr, i, home_dir = home_dir,
                                           start_year = 2006,
                                           end_year = format(Sys.Date(), "%Y")))
-
-      # TODO: why does above cause 500 error? no established series in current year? strange
+      
+      # TODO: why does above cause 500 error? no established series in current year? 
       if (inherits(res4, 'try-error')) {
+        message("\t - Fetching up to current year minus 1...")
         res4 <- try(.query_series_by_region(remDr, i,
                                             start_year = 2006,
                                             end_year = as.numeric(format(Sys.Date(), "%Y")) - 1))
@@ -153,7 +162,7 @@ refresh_registry <- function(
           !inherits(res4, 'try-error')) {
         res <- c(res1, res2, res3, res4)
       } else {
-        res <- try(stop("splitting region " , i, " by year failed"))
+        res <- try(stop("splitting region " , a_region, " by year failed"))
       }
     }
 
@@ -161,7 +170,7 @@ refresh_registry <- function(
       if (all(!is.na(res)))
         zips <- c(zips, res)
     } else {
-      message(paste0("Error querying OSDs region (", i, ")"))
+      message(paste0("Error querying OSDs region (", a_region, ")"))
     }
   }
 

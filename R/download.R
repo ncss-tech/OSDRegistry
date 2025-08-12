@@ -6,6 +6,7 @@
 #' @param x A value
 #' @param start_year Optional: Start of target "origin" year interval
 #' @param end_year Optional: End of target "origin" year interval
+#' @param home_dir Default: `path.expand("~")`
 #'
 #' @details Need to maintain a single session throughout a sequence of horrid ASPX form steps. Individual sessions maintained via __VIEWSTATE, __EVENTVALIDATION and other "secret" fields.
 #'
@@ -14,7 +15,8 @@
 #'
 #' @importFrom rvest session html_form session_submit html_form_set
 #' @importFrom RSelenium rsDriver
-.query_series_by_region <- function(remDr, x, start_year = NULL, end_year = NULL) {
+#' @noRd
+.query_series_by_region <- function(remDr, x, start_year = NULL, end_year = NULL, home_dir = path.expand('~')) {
 
   ## -- STEP 1 - SUBMIT query
   url1 <- "https://soilseries.sc.egov.usda.gov/osdquery.aspx"
@@ -43,7 +45,7 @@
     dir.create(target_dir, recursive = TRUE)
 
   # but it may download to the default path (user Downloads folder)
-  default_dir <- file.path(path.expand('~'), "Downloads")
+  default_dir <- file.path(home_dir, "Downloads")
   # if (!dir.exists(default_dir))
   #   dir.create(default_dir, recursive = TRUE)
 
@@ -66,10 +68,10 @@
 
     .click_options_by_value(mo_resp, as.character(x))
 
-    #es_year1 <- remDr$findElement(using = "name", value = "estab_year1")
-    #.click_options_by_value(es_year1, as.character(start_year))
-    #es_year2 <- remDr$findElement(using = "name", value = "estab_year2")
-    #.click_options_by_value(es_year2, as.character(end_year))
+    es_year1 <- remDr$findElement(using = "name", value = "estab_year1")
+    .click_options_by_value(es_year1, as.character(start_year))
+    es_year2 <- remDr$findElement(using = "name", value = "estab_year2")
+    .click_options_by_value(es_year2, as.character(end_year))
 
     submit <- remDr$findElement(using = "id", value = "submit_query")
     submit$clickElement()
@@ -89,6 +91,7 @@
 
     ## -- STEP 3 - DOWNLOAD
     osd_result3 <- rvest::session_submit(osd_session2, osd_request3, submit = "download")
+    message("Query URL: ", osd_result3$url)
     remDr$navigate(osd_result3$url)
   }
 
@@ -108,6 +111,7 @@
     file_name <- list.files(target_dir, "osddwn.*zip$")
     dfile_name <- list.files(default_dir, "osddwn.*zip$")
     Sys.sleep(1)
+    print(ncycle)
     ncycle <- ncycle + 1
     if (ncycle > 480)
       break

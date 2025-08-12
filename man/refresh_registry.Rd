@@ -8,7 +8,8 @@ refresh_registry(
   test = FALSE,
   moID = c(Alaska = 36871, `North Central` = 117, Northeast = 153, Northwest = 134,
     `South Central` = 127, Southeast = 122, Southwest = 113, `Special Projects` = 44372),
-  port = 4567L
+  port = 4567L,
+  home_dir = path.expand("~")
 )
 }
 \arguments{
@@ -17,6 +18,8 @@ refresh_registry(
 \item{moID}{Region ID codes; see default argument value in function definition for details}
 
 \item{port}{Passed to \code{\link[RSelenium:rsDriver]{RSelenium::rsDriver()}}. Default: \code{4567L}.}
+
+\item{home_dir}{Default: \code{path.expand("~")}. Used to find "Downloads" directory on some platforms depending on browser configuration.}
 }
 \value{
 \code{0} if function completes.
