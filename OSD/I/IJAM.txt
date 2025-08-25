@@ -1,114 +1,124 @@
-LOCATION IJAM                   TX+LA
+LOCATION IJAM                   TX
 
 Established Series
 CLN-SEB-KBH-AKS
-04/2025
+08/2025
 
 IJAM SERIES
 
-The Ijam series consists of very deep, poorly drained, low saturated hydraulic conductivity (very slowly permeable) soils that formed from materials dredged from rivers, bays, and canals. These gently sloping soils occur on flats in coastal areas. Slope ranges from 0 to 2 percent. Mean annual precipitation is about 1397 mm (55 in) and mean annual air temperature is about 21 degrees C (70 degrees F).
+Depth class: Very deep
+Drainage class: Poorly drained
+Flooding frequency and duration: Rarely, brief
+Saturated hydraulic conductivity: Low
+Shrink-swell potential: High
+Parent material: Clayey dredge spoils
+Slope: 0 to 3 percent
+Mean annual air temperature: 21 degrees C (70 degrees F)
+Mean annual precipitation: 1443 millimeters (56 inches)
 
-TAXONOMIC CLASS: Fine, dredgic, smectitic, nonacid, hyperthermic Typic Endoaquents
+TAXONOMIC CLASS: Fine, dredgic, smectitic, nonacid, hyperthermic Sodic Endoaquents
 
-TYPICAL PEDON: Ijam clay-grass. (Colors are for moist soil unless otherwise stated.)
+TYPICAL PEDON: Ijam clay on a gently sloping dredge spoil at an elevation of 1 meter. (Colors are for moist soil unless otherwise stated.)
 
-    ^A--0 to 20 cm (0 to 8 in); dark gray (10YR 4/1) clay; massive; very hard, very firm; many roots; strongly effervescent; moderately alkaline; diffuse smooth boundary. (Thickness is 5 to 25 cm [2 to 10 in]).
+ ^Ag--0 to 20 centimeters; dark gray (10YR 4/1) clay; massive; very hard, very firm, very sticky, very plastic; many fine roots; fragments; strong effervescence (HCl); moderately alkaline (pH 8.0); diffuse smooth boundary. (Ag horizon is 5 to 25 centimeters thick.)
 
-    ^Cg--20 to 203 cm (8 to 80 in); mixed dark gray (5Y 4/1) and gray (5Y 6/1) clay; massive; very hard, very firm; few fine roots mostly in the upper part; few thin discontinuous strata or lenses of sandy clay loam or fine sandy loam; common discontinuous bedding planes; few shells and shell fragments; few to common masses of iron accumulation in shades of yellowish brown and strong brown with clear and sharp boundaries in matrix; few to common iron depletions in shades of gray with diffuse and clear boundaries in matrix; moderately saline; moderately alkaline. (Thickness is 177 to 198 cm [70 to 78 in]).
+ ^Cg--20 to 200centimeters; dark gray (5Y 4/1) stratified clay; few thin discontinuous strata or lens of sandy clay loam or fine sandy loam; massive; very hard, very firm, very sticky, very plastic; few very fine roots; 1 percent medium prominent yellowish brown (10YR 5/4) iron-manganese concretions and 15 percent medium distinct dark brown (10YR 3/3) masses of oxidized iron; 1 percent medium carbonate concretions; 5 percent fine shell fragments; strong effervescence (HCl); moderately alkaline (pH 8.0).
 
-TYPE LOCATION:  Chambers County, Texas; from the intersection of the entrance to Fort Anahuac Park in Anahuac and Main Street, 0.2 mile west, 0.15 mile south, 0.6 mi west and south, and 20 feet west in field. 
+TYPE LOCATION: Chambers County, Texas; From the Anuahuac Boat Ramp, approximately 1.3 kilometers (0.8) miles south-southwest on Detwiler Rd and approximately 10 meters (31 feet) to the west on dredge spoil; USGS quadrangle: Oak Island, Texas
 
-USGS topographic quadrangle: Anahuac 
-Latitude: 29 degrees, 45 minutes, .92 seconds N 
-Longitude: 94 degrees, 41 minutes, 35.69 seconds W 
+Latitude: 29.7436556
+Longitude: -94.6947778
 Datum: WGS84
+Coordinate Source: From hand-held GPS
 
-UTM Easting:285857
-UTM Northing:3221435
-UTM Zone: 15
+RANGE IN CHARACTERISTICS:
+Depth to bedrock: Greater than 200 centimeters
+Moisture regime: Aquic
+Human-transported material: 0 to 200 centimeters
+Reaction throughout: Neutral to strongly alkaline (pH 6.6 to 9.0)
+Particle-size control section (weighted average):
+Clay content-37 to 55 percent
 
-RANGE IN CHARACTERISTICS: These soils are saturated with water from three to six months during the year.
-Particle-size control section (weighted average)
-Clay content: 37 to 55 percent
+^A Horizon:
+Hue-10YR to 5Y
+Value-4 to 7
+Chroma-0 to 3
+Texture-loam, clay loam, or clay
+Electrical conductivity (dS/m)-2 to 16
+Sodium adsorption ratio-5 to 30
 
-^A Horizon
-Hue: 10YR to 5Y
-Value: 4 to 7
-Chroma: 0 to 3
-Texture: clay, clay loam or loam
-Electrical conductivity (mmhos/cm): 2 to 16
-Sodium Adsorption Ratio: 5 to 30
-Reaction(pH): neutral to strongly alkaline
+^C Horizon (where present):
+Hue-10YR to 5Y
+Value-4 to 7
+Chroma-0 to 6
+Texture-clay loam or clay
+Electrical conductivity (dS/m)-0.5 to 16
+Sodium adsorption ratio-8 to 30
 
-^C Horizon (where present)
-Hue: 10YR to 5Y
-Value: 4 to 7
-Chroma: 0 to 6
-Texture: clay, or clay loam
-Clay content: 30 to 55 percent
-Electrical conductivity (mmhos/cm): 0.5 to 16
-Sodium Adsorption Ratio: 8 to 30
-Reaction(pH): neutral to strongly alkaline
+^Cg Horizon:
+Hue-2.5Y to 5B
+Value-4 to 7
+Chroma-0 to 2
+Texture-loam, clay loam, or clay
+Electrical conductivity (dS/m)- 3 to 16
+Sodium adsorption ratio-10 to 30
 
-^Cg Horizon
-Hue: 2.5Y to 5B
-Value: 4 to 7
-Chroma: 0 to 2
-Texture: loam, clay loam, or clay
-Clay content: 25 to 55 percent
-Electrical conductivity (mmhos/cm): 3 to 16
-Sodium Adsorption Ratio: 10 to 30
-Reaction(pH): neutral to strongly alkaline
-
-COMPETING SERIES: There are no series in the same family. Similar soils are the Neches and Sievers series.
-Neches soils: have a coarse-loamy particle-size control section.
-Sievers soils: have a fine-loamy particle-size control section.
+COMPETING SERIES: There are no series in the same family. Similar soils are the Grassypoint and Tracosa series.
+Grassypoint soils: do not have dredgic, human-transported materials and have reddish subsoils.
+Tracosa soils: do not have dredgic, human-transported materials and have yellowish subsoils.
 
 GEOGRAPHIC SETTING:
-Parent material: Clayey dredge spoils 
-Landscape: Lagoons
-Landform: Flats
-Anthroprogenc feature: dredge spoil banks
-Microfeature: mounds
-Slope: 0 to 2 percent
-Mean annual precipitation: 1143 to 1575 mm (45 to 62 in)
-Mean annual air temperature: 20 to 22 degrees C (68 to 72 degrees F)
-Frost-free period: 270 to 300 days
-Elevation: 0 to 3 m (0 to 10 ft)
+Parent material: Clayey dredge spoils
+Landscape: Barrier islands and coastal plains
+Anthropogenic feature: Dredge spoils
+Slope: 0 to 3 percent
+Mean annual precipitation: 812 to 1575 millimeters (32 to 62 inches)
+Mean annual air temperature: 20 to 23 degrees C (68 to 73 degrees F)
+Frost-free period: 300 to 365 days
+Elevation: 0 to 3 meters (0 to 10 feet)
 
-GEOGRAPHICALLY ASSOCIATED SOILS: These are the Harris, Neal, and the Sievers series.
-Harris soils: occur on lower coastal marshlands; are not on anthropogenic landforms; do not have dredgic human-altered and human transported material family class.
-Neel and Sievers soils: loamy throughout; are on dredged materials on similar or  higher positions in the landscape.
+GEOGRAPHICALLY ASSOCIATED SOILS:
+These are the Basford, Harris, Hoeckers, Neel, and Sievers series.
+Basford soils: are on subaqueous landscapes, have subaqueous drainage, and are formed in coarse-loamy soils from dredge deposits.
+Harris soils: occur on lower coastal marshlands, not on anthropogenic landforms, and do not have dredgic human-altered and human-transported materials.
+Hoeckers soils: are on subaqueous landscapes, have subaqueous drainage, and have high shell fragment volumes.
+Neel soils: have better drainage throughout and are on slightly higher landscape positions.
+Siever soils: are slightly coarser textured throughout and occur on slightly higher positions on the landscape.
 
-DRAINAGE AND PERMEABILITY: 
-Drainage class: Poor 
-Permeability class: very slow 
-Runoff: very high 
-Flooding: Occasionally or Frequently flooded for brief periods of time throughout the year. 
-Seasonal Water Table: These soils have endosaturation from April through December from 46 to 102 cm.
+DRAINAGE AND SATURATED HYDRAULIC CONDUCTIVITY:
+Drainage class: Poorly drained
+Saturated hydraulic conductivity: Low
+Flooding frequency and duration: Rarely, brief
+Seasonal water table: 0 to 58 centimeters
+Surface runoff: Very high
 
 USE AND VEGETATION:
-Mainly used for rangeland and wildlife habitat. 
-Native vegetation: mostly waterloving, salt tolerant species such as gulf cordgrass and common reedgrass.
+Major use: Rangeland and wildlife habitat
+Vegetation: Salt tolerant species such as gulf cordgrass and common reedgrass
 
 DISTRIBUTION AND EXTENT:
-General Area: Mainly along the upper Gulf Coast of Texas in the Gulf Marsh 
-Land Resource Region: Atlantic and Gulf Coast Lowland Forest and Crop Region(T)  Major Land Resource Areas: 151, 150B; 
-Extent: minor
+General Area: On barrier islands and mainland marshes near bays along the central coast of Texas
+Land Resource Region: T-Atlantic and Gulf Coast Lowland Forest and Crop Region
+MLRA(s): 150B-Gulf Coast Saline Prairies and 151-Gulf Coast Marsh
+Extent: Moderate
 
-SOIL SURVEY REGIONAL OFFICE (SSRO) RESPONSIBLE: SPECIAL PROJECTS OFFICE
+SOIL SURVEY REGIONAL OFFICE (SSRO) RESPONSIBLE: Special Projects Office
 
-SERIES ESTABLISHED: Chambers County, Texas, 1969.
+SERIES ESTABLISHED: Chambers County, Texas, 1969
 
-REMARKS: Ijam soils were formerly unclassified and mapped as Made land.
+REMARKS:
+Ijam soils were formerly unclassified and mapped as Made land.
 
-Diagnostic horizons and features recognized in this pedon are:
-Particle size control section: 25 to 100 (10 to 40 in). (Cg horizon)
-Anthropic epipedon: 0 to 20 cm (0 to 8 in). (A horizon)
+Typical pedon taxonomic features:
+Anthropic epipedon: 0 to 20 centimeters (^A horizon)
+Aquic conditions: 0 to 200 centimeters
+Human-transported materials: 0 to 200 centimeters
+Particle-size control section: 25 to 100 centimeters (^Cg horizons)
 Stratification from dredging operations
-Aquic conditions: 0 to 203 cm (0 to 80 in).
+Taxonomic version: Keys to Soil Taxonomy, 13th edition (2022)
 
-Taxonomic Version: Keys to Soil Taxonomy, Twelfth Edition, 2014
-
+ADDITIONAL DATA:
+OSD User Pedon ID: S2010TX0715011
+________________________________________
 National Cooperative Soil Survey
 U.S.A.
