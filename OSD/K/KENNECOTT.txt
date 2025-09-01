@@ -1,0 +1,135 @@
+LOCATION KENNECOTT              AK
+
+Established Series
+SDB
+08/2025
+
+KENNECOTT SERIES
+
+Depth class: very deep
+Drainage class: well drained
+Parent material: silty noncalcareous loess over sandy and gravelly alluvium
+Landscape: mountains
+Landform: river valleys, terraces
+Slopes: 6 to 12 percent
+Mean annual precipitation: about 350 mm (14 in)
+Mean annual air temperature: about -0.5 degrees C. (31 degrees F)
+Frost-free period: 89 to 103 days
+
+TAXONOMIC CLASS: Coarse-loamy over sandy or sandy-skeletal, mixed, superactive Cumulic Haplocryolls
+
+TYPICAL PEDON: Kennecott silt loam in a willow mixed shrub community on a linear, linear terrace tread on a slope of 11 percent at an elevation of 187m (615 ft).
+
+	Oe--0 to 8 cm (0 to 3 in); moderately decomposed plant material, dark brown (7.5YR 3/4) moist; common very fine, fine, medium, coarse, and very coarse roots throughout; noneffervescent; slightly alkaline (pH 7.4); clear smooth boundary (6 to 10 cm, 2 to 4 in)
+
+	A--8 to 17 cm (3 to 7 in); silt loam, black (7.5YR 2.5/1) moist; weak fine subangular blocky structure; soft, very friable, nonsticky, nonplastic; nonsmeary; common very fine, fine, many medium, common coarse, and very coarse roots throughout; very fine and fine dendritic tubular pores; neutral (pH 6.9); clear smooth boundary (6 to 12 cm, 2 to 5 in)
+
+	Bw--17 to 84 cm (7 to 33 in); silt loam, 85 percent very dark brown (10YR 2/2) and 15 percent dark brown (7.5YR 3/4) moist; weak thick platy structure; soft, very friable, nonsticky, nonplastic; nonsmeary; common very fine and fine, many medium, and common coarse roots throughout; very fine and fine dendritic tubular pores; very slight effervescence; neutral (pH 7.2); abrupt smooth boundary (40 to 75 cm, 16 to 30 in)
+
+	2C--84 to 150 cm (33 to 59 in); extremely gravelly coarse sand, very dark grayish brown (2.5Y 3/2) moist; single grain; loose, loose, nonsticky, nonplastic; nonsmeary; carbonate, finely disseminated; 5 percent cobbles by volume, 60 percent gravel by volume; very slight effervescence; slightly alkaline (pH 7.4) (63 to 104 cm, 25 to 41 in)
+
+TYPE LOCATION: North Copper River Soil Survey Area, Alaska; latitude 61.58028, longitude -144.4338, Datum WGS84.
+
+RANGE IN CHARACTERISTICS:
+
+Soil moisture regime: udic
+Soil temperature regime: cryic
+Mean annual soil temperature: -2 to 1 degrees C. (28 to 34 degrees F)
+Thickness of organic material: 6 to 10 cm (2 to 4 in)
+Thickness of mollic epipedon: 40 to 77 cm (16 to 30 in)
+Depth to lithologic discontinuity: 46 to 87 cm (18 to 34 in)
+
+Oe horizon:
+Hue: 7.5YR or 10YR
+Value: 2 to 3
+Chroma: 1 to 2
+Texture: moderately decomposed organic material
+Organic matter: 60 to 90 percent
+Reaction class: neutral to slightly alkaline (pH 6.6 to 7.8)
+
+A horizon:
+Hue: 7.5YR or 10YR
+Value: 2 to 3
+Chroma: 1 to 2
+Texture: silt loam
+Sand: 20 to 43 percent
+Silt: 50 to 70 percent
+Clay: 2 to 12 percent
+Rock fragments:  0 percent
+Organic matter: 6 to 8 percent
+Reaction class: neutral to slightly alkaline (pH 6.6 to 7.8)
+
+Bw horizon:
+Hue: 7.5YR or 10YR
+Value: 2 to 3
+Chroma: 2 to 3
+Texture: silt loam
+Sand: 20 to 43 percent
+Silt: 50 to 70 percent
+Clay: 2 to 12 percent
+Rock fragments: 0 percent
+Organic matter: 6 to 8 percent
+Reaction class: neutral to slightly alkaline (pH 6.6 to 7.8)
+
+2C horizon:
+Hue: 10YR or 2.5Y
+Value: 3 to 4
+Chroma: 2 to 4
+Texture: very gravelly coarse sand, extremely gravelly coarse sand
+Sand: 90 to 99 percent
+Silt: 0 to 9 percent
+Clay: 1 to 5 percent
+Rock fragments: 52 to 72 percent
+Gravels: 50 to 65 percent
+Cobbles: 2 to 7 percent
+Organic matter: 0.75 to 2.5 percent
+Reaction class: neutral to slightly alkaline (pH 6.6 to 7.8)
+
+COMPETING SERIES: These are no competing series.
+
+GEOGRAPHIC SETTING:
+Elevation: 100 to 700 meters (330 to 2295 ft)
+Parent material: silty noncalcareous loess over sandy and gravelly alluvium
+Landform: river valleys, terraces
+Slopes: 6 to 12 percent
+Mean annual precipitation: 300 to 500 mm (12 to 20 in)
+Mean annual air temperature: -2 to 1 degrees C. (28 to 34 degrees F)
+Frost-free period: 89 to 103 days
+
+GEOGRAPHICALLY ASSOCIATED SOILS: these are the Centuu, Ellisgap, Fishwheel, and Ride series.
+Centuu soils are well drained, have an mollic epipedon, and occur on river valleys and alluvial fans.
+Ellisgap soils are a poorly drained, have permafrost, have histic epipedons, have cryoturbation starting begins between 14 and 27 cm (6 to 11 in) deep, and occur in river valleys and terraces.
+Fishwheel soils are moderately well drained, have a mollic epipedon, and occur on terraces and glacial valley floors.
+Ride soils are somewhat excessively drained, and occur on mountain slopes and hillslopes.
+
+DRAINAGE AND SATURATED HYDRAULIC CONDUCTIVITY: 
+Drainage class: well drained
+Saturated Hydraulic Conductivity: very high in the Oe and 2C, and moderately high in the A and Bw horizons 
+Permeability: very rapid in the Oe and 2C, and moderate in the A and Bw horizons 
+Runoff: medium
+
+USE AND VEGETATION: 
+Use: wildlife habitat, recreation, and subsistence
+Native vegetation: squashberry, resin birch, scouler's willow
+
+DISTRIBUTION AND EXTENT: MLRA 228, Interior Alaska mountains.
+Extent: limited
+
+SOIL SURVEY REGIONAL OFFICE (SSRO) RESPONSIBLE: Wasilla, Alaska
+
+SERIES ESTABLISHED: North Copper River Soil Survey, Alaska, 2024.
+
+REMARKS: Diagnostic features and horizons recognized in this profile include:
+
+Particle-size control section: 33 to 108 cm (13 to 43 in)
+
+Mollic epipedon: 8 to 84 cm (3 to 33 in) (A and Bw horizons)
+
+Lithologic discontinuity: 84 to 150 cm (33 to 59 in) (2C horizon)
+
+ADDITIONAL DATA:
+
+User pedon Id: 2018AK261006
+
+National Cooperative Soil Survey
+U.S.A.

@@ -1,0 +1,155 @@
+LOCATION AHTNA                  AK
+
+Established Series
+SDB/MJS
+08/2025
+
+AHTNA SERIES
+
+Depth class: very deep
+Drainage class: well drained
+Parent material: silty loess over clayey lacustrine deposits
+Landscape: lake plains
+Landform: bluffs and river valleys
+Slopes: 30 to 70 percent
+Mean annual precipitation: about 350 mm (14 in)
+Mean annual air temperature: about -3 degrees C. (27 degrees F)
+Frost-free period: 20 to 75 days
+
+TAXONOMIC CLASS: Fine-loamy, mixed, semiactive Typic Calcicryepts
+
+TYPICAL PEDON: Ahtna silt loam in white spruce forest communities on loess covered hillsides at 567m (1860 ft) elevation.
+
+	Oi--0 to 3 cm (0 to 1 in); slightly decomposed plant material, yellowish brown (10YR 5/4) dry, dark yellowish brown (10YR 3/4) rubbed moist; nonsticky, nonplastic; common very fine and fine, and many medium roots throughout; slightly acid (pH 6.4); abrupt smooth boundary. (2 to 8 cm, 1 to 3 in)
+
+	A--3 to 8 cm (1 to 3 in); silt loam, very dark grayish brown (10YR 3/2) broken face moist; moderate fine granular structure; slightly hard, friable, slightly sticky, nonplastic; nonsmeary; common very fine, fine, coarse, very coarse, and many medium roots throughout; very fine and fine irregular pores; slightly acid (pH 6.4); clear wavy boundary. (3 to 15 cm, 1 to 6 in)
+
+	Bw1--8 to 13 cm (3 to 5 in); silt loam, dark brown (7.5YR 3/3) broken face moist; moderate medium subangular blocky structure; slightly hard, friable, slightly sticky, nonplastic; nonsmeary; common very fine, fine, medium, coarse, and very coarse roots throughout; very fine and fine irregular pores; neutral (pH 6.9); clear broken boundary. (3 to 15 cm, 1 to 6 in)
+
+	Bw2--13 to 35 cm (5 to 14 in); silt loam, brown (10YR 5/3) broken face moist; moderate medium subangular blocky structure; soft, very friable, slightly sticky, nonplastic; nonsmeary; common very fine, fine, medium, coarse, and very coarse roots throughout; very fine and fine irregular pores; 6 percent rounded gravel by volume; slight effervescence; neutral (pH 7.2); abrupt wavy boundary. (15 to 35 cm, 6 to 14 in)
+
+	2Bk1--35 to 65 cm (14 to 26 in); loam, gray (10YR 5/1) broken face moist; moderate fine granular structure; slightly hard, friable, slightly sticky, nonplastic; nonsmeary; common medium and fine roots throughout; very fine and fine irregular pores; 8 percent rounded gravel by volume; violent effervescence; slightly alkaline (pH 7.6); gradual smooth boundary. (15 to 40 cm, 6 to 16 in)
+
+	2Bk2--65 to 100 cm (26 to 39 in); clay loam, gray (10YR 5/1) broken face moist; moderate fine granular structure; soft, very friable, moderately sticky, moderately plastic; nonsmeary; common fine and medium roots throughout; very fine and fine irregular pores; 8 percent rounded gravel by volume; violent effervescence; moderately alkaline (pH 8.3); gradual smooth boundary. (20 to 40 cm, 8 to 16 in)
+
+	2C--100 to 200 cm (39 to 79 in); clay, gray (10YR 5/1) broken face moist; massive; moderately hard, firm; moderately sticky, moderately plastic; nonsmeary; very fine and fine irregular pores; 6 percent rounded gravel by volume; strong effervescence; moderately alkaline (pH 7.9). (47 to 142 cm, 19 to 56 in)
+
+TYPE LOCATION: North Copper River Soil Survey Area, Alaska; latitude 62.48342, longitude -144.83066, Datum WGS84.
+
+RANGE IN CHARACTERISTICS:
+
+Soil moisture regime: udic
+Soil temperature regime: cryic
+Mean annual soil temperature: 0 to 5 degrees C. (32 to 41 degrees F)
+Thickness of organic material: 2 to 8 cm (1 to 3 in)
+Thickness of ochric epipedon: 3 to 15 cm (1 to 6 in)
+Thickness of Calcic horizon: 35 to 80 cm (14 to 31 in)
+
+Oi and Oe horizons:
+Hue: 7.5YR or 10YR
+Value: 2 to 3
+Chroma: 1 to 2
+Texture: slightly decomposed organic matter to moderately decomposed organic matter
+Organic matter: 60 to 90 percent
+Reaction class: strongly acid to neutral (pH 5.1 to 7.3)
+
+A horizon:
+Hue: 10YR or 2.5Y
+Value:2 to 3
+Chroma: 1to 3
+Texture: silt loam
+Sand: 10 to 45 percent
+Silt: 50 to 80 percent
+Clay: 4 to 15 percent
+Organic matter: 2 to 6 percent
+Reaction class: strongly acid to slightly alkaline (pH 5.5 to 7.8)
+
+Bw horizons:
+Hue: 10YR or 2.5Y
+Value: 3 to 5
+Chroma: 1 to 3
+Texture: silt loam
+Sand: 10 to 45 percent
+Silt: 50 to 80 percent
+Clay: 4 to 15 percent
+Rock fragments: 0 to 10 percent gravels
+Organic matter: 1 to 4 percent
+Reaction class: slightly acid to moderately alkaline (pH 6.1 to 8.4)
+
+Bk horizons:
+Hue: 10YR or 2.5Y
+Value: 3 to 5
+Chroma: 1 to 2
+Texture: Clay loam, silt loam, or loam
+Sand: 15 to 52 percent
+Silt: 25 to 67 percent
+Clay: 18 to 30 percent
+Rock fragments: 0 to 10 percent gravels
+Organic matter: 1 to 3 percent
+Calcium carbonate percentage: 15 to 20% 
+Reaction class: neutral to moderately alkaline (pH 6.6 to 8.4)
+
+C horizon:
+Hue:2.5Y or 5Y
+Value: 4 to 6
+Chroma: 1 to 2
+Texture: clay to silty clay loam
+Sand:5 to 35 percent
+Silt: 20 to 68 percent
+Clay: 27 to 45 percent
+Rock fragments: 0 to 10 percent gravels
+Organic matter: 0.5 to 2 percent
+Reaction class: neutral to moderately alkaline (pH 6.6 to 8.4)
+
+COMPETING SERIES: There are no competing series
+
+GEOGRAPHIC SETTING:
+Elevation: 400 to 800 meters (1310 to 2625 ft)
+Parent material: silty loess over clayey lacustrine deposits
+Landform: river valleys and bluffs
+Slopes: 30 to 70 percent
+Mean annual precipitation: 300 to 500mm (12 to 20 in)
+Mean annual air temperature: -4 to -2 degrees C. (25 to 28 degrees F)
+Frost free period: 20 to 75 days
+
+GEOGRAPHICALLY ASSOCIATED SOILS: These are the Chelina, Crosswind, Detail and Tsana soils. 
+Chelina soils lack a calcic horizon and occur on former shorelines in lake plains.
+Crosswind soils lack a calcic horizon, have aquic conditions within 50 cm (20 in), a cryoturbated horizon, permafrost, and occur on similar landforms in lake plains.
+Detail soils lack a calcic horizon and occur on similar landforms in lake plains.
+Tsana soils lack a calcic horizon, have less than 18 percent clay in the particle size control section, and occur on similar landforms in lake plains.
+
+DRAINAGE AND SATURATED HYDRAULIC CONDUCTIVITY: 
+Drainage class: well
+Saturated Hydraulic Conductivity: very high though the organic horizon, high in the A and Bw horizon, high to very high in the Bk horizon, moderately high in the C horizon. 
+Permeability: very rapid though the organic horizon, rapid in the A and Bw horizon, moderately rapid to rapid in the Bk horizon, moderately slow in the C horizon.
+Runoff: high
+
+USE AND VEGETATION: 
+Use: wildlife habitat, recreation, and subsistence
+Native vegetation: White spruce, bebbs willow, feather moss
+
+DISTRIBUTION AND EXTENT: MLRA 227 Copper River Basil.
+Extent: limited
+
+SOIL SURVEY REGIONAL OFFICE (SSRO) RESPONSIBLE: Wasilla, Alaska
+
+SERIES ESTABLISHED: North Copper River Soil Survey, Alaska, 2024.
+
+REMARKS: Diagnostic features and horizons recognized in this profile include:
+
+Particle-size control section: 33 to 108 cm (13 to 43 in)
+
+Ochric epipedon: 8 to 38 cm (3 to 15 in) (Oi and A horizons)
+
+Cambic horizon: 18 to 60 cm (7 to 24 in) (Bw1 and bw2 horizon)
+
+Calcic horizon: 23 to 80 cm (9 to 31 in) (2Bk1 and 2Bk2 horizons)
+
+Lithologic discontinuity: 127 to 177 cm (50 to 70 in) (C horizon)
+
+ADDITIONAL DATA:
+
+User pedon Id: 2016AK261048
+
+National Cooperative Soil Survey
+U.S.A.

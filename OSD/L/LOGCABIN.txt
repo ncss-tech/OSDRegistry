@@ -1,0 +1,166 @@
+LOCATION LOGCABIN               AK
+
+Established Series
+SDB
+08/2025
+
+LOGCABIN SERIES
+
+Depth class: moderately deep to permafrost
+Drainage class: poorly drained
+Parent material: organic material over silty loess over sandy and gravelly alluvium and/or sandy and gravelly colluvium
+Landscape: mountains
+Landform: stream terraces
+Slope: 0 to 20 percent
+Mean annual precipitation: about 600 mm (24 in)
+Mean annual air temperature: about -3 degrees C (27 degrees F)
+Frost-free period: 89 to 103 days
+
+TAXONOMIC CLASS: Loamy-skeletal, mixed, superactive, nonacid, subgelic Fluvaquentic Aquorthels
+
+TYPICAL PEDON: Logcabin silt loam in a sedge and moss community on a linear, convex stream terrace on a 9 percent slope at an elevation of 1216m (3990 ft).
+
+	Oi1--0 to 7 cm (0.0 to 3 in); peat, black (10YR 2/1) moist; very few very fine roots throughout; noneffervescent; very strongly acid (pH 4.9); clear smooth boundary (4 to 9 cm, 2 to 4 in)
+
+	Oi2--7 to 16 cm (3 to 6 in); peat, dark reddish brown (5YR 3/2) moist; very strongly acid (pH 4.9); clear smooth boundary (6 to 10 cm, 2 to 4 in)
+
+	A--16 to 22 cm (6 to 9 in); silt loam, very dark grayish brown (10YR 3/2) moist; weak medium subangular blocky structure; hard, firm, nonsticky, nonplastic; nonsmeary; many very fine, common fine, and medium tubular pores; 3 percent subangular gravel by volume; strongly acid (pH 5.2); clear wavy boundary (4 to 7 cm, 2 to 3 in)
+
+	2Bg--22 to 53 cm (9 to 21 in); very stony sandy clay loam, dark gray (5Y 4/1) reduced and very dark grayish brown (10YR 3/2) oxidized moist; weak medium subangular blocky structure; very hard, very firm, moderately sticky, moderately plastic; nonsmeary; common fine and medium roots throughout; common fine tubular pores; 20 percent subangular gravel by volume, 30 percent subangular stones by volume; reduced monosulfides present; strongly acid (pH 5.5); clear wavy boundary (26 to 35 cm,10 to 14 in)
+
+	2Ab--53 to 65 cm (21 to 26 in); extremely gravelly sandy loam, very dark brown (10YR 2/2) moist; slightly hard, friable, nonsticky, nonplastic; nonsmeary; many very fine and many fine roots throughout; 16 percent subangular cobbles by volume, 45 percent gravel by volume; strongly acid (pH 5.5) clear wavy boundary (11 to 14 cm, 4 to 6 in)
+
+	2Cf--65 to 150 cm (26 to 59 in); extremely gravelly sandy loam, dark gray (5Y 4/1) broken face moist; massive; soft, very friable, nonsticky, nonplastic; nonsmeary; 16 percent subangular cobbles by volume, 45 percent gravel by volume; moderately acid (pH 5.8) (75 to 99 cm, 30 to 39 in)
+
+TYPE LOCATION: North Copper River Soil Survey Area, Alaska; latitude 62.90629, longitude -144.12615, UTM 6978409.28 north and UTM 369298.20 east, zone 6, Datum WGS84.
+
+RANGE IN CHARACTERISTICS:
+
+Soil moisture regime: aquic
+Soil temperature regime: gelic
+Mean annual soil temperature: -4 to -2 degrees C. (25 to 38 degrees F)
+Thickness of organic material: 10 to 19 cm (4 to 7 in)
+Thickness of umbric epipedon: 30 to 42 cm (12 to 17 in)
+Depth to redoximorphic depletions: 14 to 26 cm (6 to 10 in)
+Depth to gelic material: 14 to 26 cm (6 to 10 in)
+Depth to aquic conditions: 14 to 26 cm (6 to 10 in)
+Depth to lithologic discontinuity: 14 to 26 cm (6 to 10 in)
+Depth to permafrost: 51 to 75 cm (20 to 30 in)
+
+Oi and Oe horizons:
+Hue: 5YR or 10YR
+Value: 2 to 3
+Chroma: 1 to 3
+Texture: peat, mucky peat
+Organic matter: 60 to 90 percent
+Reaction class: very strongly acid to strongly acid (pH 4.5 to 5.4)
+
+A horizon:
+Hue: 7.5YR or 10YR
+Value: 2 to 3
+Chroma: 1 to 3
+Texture: silt loam
+Sand: 30 to 45 percent
+Silt: 50 to 66 percent
+Clay: 3 to 9 percent
+Rock fragments: 0 to 8 percent gravels
+Organic matter: 4 to 8 percent
+Reaction class: very strongly acid to strongly acid (pH 4.7 to 5.5)
+
+2Bg horizon:
+Hue: 2.5Y or 5Y
+Value: 4 to 5
+Chroma: 1 to 2
+Texture: very stony sandy loam, very stony sandy clay loam
+Sand: 59 to 71 percent
+Silt: 3 to 24 percent
+Clay: 16 to 26 percent
+Rock fragments: 45 to 50 percent
+Gravels: 10 to 25 percent
+Stones: 25 to 35 percent
+Organic matter: 0.5 to 3 percent
+Reaction class: strongly acid to moderately acid (pH 5.1 to 6.0)
+
+2Ab horizon:
+Hue: 10YR or 2.5Y
+Value: 2 to 3
+Chroma: 1 to 3
+Texture: very gravelly sandy loam, extremely gravelly sandy loam
+Sand: 53 to 68 percent
+Silt: 29 to 44 percent
+Clay: 3 to 10 percent
+Rock fragments: 44 to 61 percent
+Gravels: 36 to 50 percent
+Cobbles: 8 to 20 percent
+Organic matter: 4 to 8 percent
+Reaction class: strongly acid to moderately acid (pH 5.1 to 6.0)
+
+2Cf horizon:
+Hue: 2.5Y or 5Y
+Value: 4 to 5
+Chroma: 1 to 2
+Texture: very gravelly sandy loam, extremely gravelly sandy loam
+Sand: 53 to 68 percent
+Silt: 29 to 44 percent
+Clay: 3 to 10 percent
+Rock fragments: 44 to 61 percent
+Gravels: 36 to 50 percent
+Cobbles: 8 to 20 percent
+Organic matter: 0.5 to 2 percent
+Reaction class: strongly acid to moderately acid (pH 5.5 to 6.0)
+
+COMPETING SERIES: These are no competing series.
+
+GEOGRAPHIC SETTING:
+Elevation: 600 to 1600 meters (1969 to 5250 ft)
+Parent material: organic material over silty loess over sandy and gravelly alluvium and/or sandy and gravelly colluvium
+Landform: stream terraces
+Slopes: 0 to 20 percent
+Mean annual precipitation: 400 to 800 mm (16 to 31 in)
+Mean annual air temperature: -4 to -2 degrees C. (25 to 28 degrees F)
+Frost-free period: 89 to 103 days
+
+GEOGRAPHICALLY ASSOCIATED SOILS: These are the Haleycreek, Stibnite, and Tsina series. 
+Haleycreek soils are well drained with a cobbly sandy loam surface texture, have a mollic epipedon, lacks a lithic contact, and occur on hillslopes of mountains and river valleys.
+Stibnite soils are well drained, 15 to 35 cm (6 to 14 in) cambic horizon, and occur in til lplains, mountains, kames and kettles.
+Tsina soils are well drained, do not have umbric epipedons, and occur on mountain slopes above 800 m (2600ft) elevation.
+
+DRAINAGE AND SATURATED HYDRAULIC CONDUCTIVITY: 
+Drainage class: poorly
+Saturated Hydraulic Conductivity: high in the Oi, Oi2 and 2Ab horizons, moderately high in the A and 2Bg horizon, low in the 2Cf horizon
+Permeability: moderately rapid in the Oi, Oi2 and 2Ab horizons, moderate in the A horizon, moderately slow in the 2Bg horizon, very slow in the 2Cf horizon.
+Runoff: negligible
+
+USE AND VEGETATION: 
+Use: wildlife habitat, recreation, and subsistence
+Native vegetation: Biglow's sedge, resin birch, moss
+
+DISTRIBUTION AND EXTENT: MLRA 228 Interior Alaska mountains.
+Extent: limited
+
+SOIL SURVEY REGIONAL OFFICE (SSRO) RESPONSIBLE: Wasilla, Alaska
+
+SERIES ESTABLISHED: North Copper River Soil Survey, Alaska, 2024.
+
+REMARKS: Diagnostic features and horizons recognized in this profile include:
+
+Particle-size control section: 41 to 116 cm (16 to 46 in)
+
+Umbric epipedon: 16 to 53 cm (6 to 21 in) (A and 2Bg horizon)
+
+Lithologic discontinuity: 22 to 150 cm (9 to 59 in) (2Bg, 2Ab, Cf horizons)
+
+Aquic conditions: 22 to 65 cm (9 to 20 in) (2Bg and 2Ab horizons)
+
+Reduced matrix: 22 to 65 cm (9 to 20 in) (2Bg and 2Ab horizons)
+
+Gelic materials: 22 to 65 cm (9 to 20 in) (2Bg and 2Ab horizons)
+
+Depth to permafrost: 65 to 150 cm (20 to 30 in) (Cf horizon)
+
+ADDITIONAL DATA:
+
+User pedon Id: 2023AK261326
+
+National Cooperative Soil Survey
+U.S.A.

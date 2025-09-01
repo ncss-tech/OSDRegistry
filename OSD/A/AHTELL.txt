@@ -1,0 +1,140 @@
+LOCATION AHTELL                 AK
+
+Established Series
+SDB/MJS
+08/2025
+
+AHTELL SERIES
+
+Depth class: very deep
+Drainage class: well drained
+Parent material: Organic material over till
+Landscape: mountains and foothills
+Landform: mountain slopes and till plains
+Slopes: 2 to 25 percent
+Mean annual precipitation: about 360 mm (14 in)
+Mean annual air temperature: about -3 degrees C. (27 degrees F)
+Frost-free period: 32 to 75 days
+
+TAXONOMIC CLASS: Fine-loamy, mixed, superactive Typic Humicryepts
+
+TYPICAL PEDON: Ahtell peat in a shrub-birch white spruce woodland community on a west facing linear slope on a till plain, slope of 6 percent at an elevation of 1054m (3460 ft)
+
+	Oi--0 to 26 cm (0 to 10 in); slightly decomposed plant material, brown (7.5YR 4/3) dry, very dark brown (7.5YR 2.5/3) broken face moist; many very fine, fine, medium, and coarse roots throughout; very strongly acid (pH 4.8); clear wavy boundary. (10 to 28 cm, 4 to 11in)
+
+	Oe--26 to 35 cm (10 to 14 in); moderately decomposed plant material, very dark brown (7.5YR 2.5/2) broken face moist; many very fine, fine, and medium roots throughout; strongly acid (pH 5.1); abrupt wavy boundary. (5 to 10 cm, 2 to 4 in)
+
+	Bw1--35 to 63 cm (14 to 25 in); sandy loam, dark brown (10YR 3/3) broken face moist; moderate medium subangular blocky structure; soft, very friable, slightly sticky, slightly plastic; nonsmeary; common very fine and fine roots throughout; very fine and fine dendritic tubular pores; 6 percent subrounded gravel by volume; moderately acid (pH 5.7); gradual wavy boundary. (12 to 32 cm, 5 to 13 in)
+
+	Bw2--63 to 86 cm (25 to 34 in); sandy loam, very dark grayish brown (10YR 3/2) broken face moist; moderate medium subangular blocky structure; soft, very friable, slightly sticky, slightly plastic; nonsmeary; common very fine and fine roots throughout; very fine and fine dendritic tubular pores; 5 percent subrounded gravel by volume; moderately acid (pH 5.8); very abrupt wavy boundary. (8 to 30 cm, 3 to 12 inches)
+
+	C--86 to 200 cm (34 to 79 in); loam, dark grayish brown (2.5Y 4/2) broken face moist; massive; very hard, firm, moderately sticky, moderately plastic; nonsmeary; very few very fine roots throughout; very fine interstitial pores; 4 percent subrounded gravel by volume; moderately acid (pH 5.7). (100 to 165 cm, 39 to 65 in)
+
+TYPE LOCATION: North Copper River Soil Survey Area, Alaska; Latitude 62.94636 N, Longitude -145.464585 W, UTM 6980542.82 north, and 577909.89 east, zone 6, Datum WGS84.
+
+RANGE IN CHARACTERISTICS:
+
+Soil moisture regime: udic
+Soil temperature regime: cryic
+Mean annual soil temperature: -1 to 5 degrees C. (30 to 41 degrees F)
+Thickness of folistic epipedon: 15 to 38 cm (6 to 15 in)
+Thickness of umbric epipedon: 20 to 51 cm (8 to 20 in)
+
+Oi or Oe horizon:
+Hue: 7.5YR or 10YR
+Value: 2 to 3
+Chroma: 1 to 3
+Texture: slightly decomposed organic matter, to moderately decomposed organic matter.
+Organic matter: 60 to 90 percent
+Reaction class: extremely acid to moderately acid (pH 3.5 to 6.0)
+
+Bw1 horizons:
+Hue: 7.5YR or 10YR
+Value: 3
+Chroma: 1 to 3
+Texture: Loam to Sandy loam
+Sand: 35 to 70 percent
+Silt: 12 to 50 percent
+Clay: 6 to 18 percent
+Rock fragments: 0 to 25 percent gravels
+Organic matter: 1 to 3 percent
+Reaction class: strongly acid to slightly acid (pH 5.1 to 6.5)
+
+Bw2 or BC horizon (if present):
+Hue: 10YR or 2.5YR
+Value: 3 to 4
+Chroma: 2 to 3
+Texture: Loam to Sandy loam
+Sand: 35 to 70 percent
+Silt: 10 to 50 percent
+Clay: 8 to 20 percent
+Rock fragments: 0 to 25 percent gravels
+Reaction class: extremely acid to moderately acid (pH 5.1 to 6.5)
+
+C horizon:
+Hue: 10YR or 2.5Y
+Value: 3 or 4
+Chroma: 1 to 3
+Texture: Loam to Sandy loam
+Sand: 30 to 65 percent
+Silt: 15 to 50 percent
+Clay: 18 to 27 percent
+Rock fragments: 0 to 25 percent gravels
+Organic matter: 0.5 to 1 percent
+Reaction class: extremely acid to moderately acid (pH 5.1 to 6.5)
+
+Some pedons have a silt loam A horizon forming some, or all, of the umbric epipedon rather than a B horizon. 
+On steeper slopes, a buried A horizons may also be present within or beneath the umbric epipedon
+
+COMPETING SERIES: These are the Archabal (ID), Domo (CO), Nickolna (AK), and Packtrail (CO) soils
+Archabal, Domo and Packtrail lack a folistic epipedon and presumably have a mean annual air temperature above 0 C (32 F).
+Packtrail soils have bedrock between 51 and 102 cm (20 and 40 in)
+Nikolna lack a folistic epipedon, and have fine-loamy textures in the umbric horizon. 
+
+GEOGRAPHIC SETTING:
+Elevation: 600 to 1200 meters (1970 to 3935 ft)
+Parent material: Organic material over till
+Landform: mountain slopes and till plains
+Slopes: 2 to 25 percent
+Mean annual precipitation: 330 to 800 mm (13 to 31 in)
+Mean annual air temperature: -4 to -2 degrees C. (25 to 28 degrees F)
+Frost free period: 32 to 75 days
+
+GEOGRAPHICALLY ASSOCIATED SOILS: These are Chelina, Fields, Haleycreek, Nathlie, and Summitlake soils.
+Chelina soils lack an umbric epipedon, have a cambic horizon, and occur on the ancient shorelines of lake plains.
+Fields soils lack a folistic epipedon, have a coarse-loamy particle size family class and occur on hillslopes and mountain slopes. 
+Haleycreek soils have a mollic epipedon, sandy-skeletal particle size family class, and occur in mountain valleys 
+Nathlie soils have a histic epipedon and aquic conditions in the top 50 cm (20 in), they occur on flood plains.
+Summitlake soils lack an umbric epipedon, have redox concentrations and depletions within 12 cm (5 in) of the surface, and occur on drumlins and hillslopes on glacial valley floors.
+
+DRAINAGE AND SATURATED HYDRAULIC CONDUCTIVITY: 
+Drainage class: well
+Saturated hydraulic Conductivity: Very high in the organic horizons, high in the B horizons, moderately high in the C horizon
+Permeability: very rapid in the organic horizons and sandy loam B horizons, rapid in the loamy C horizon.
+Runoff: low
+
+USE AND VEGETATION: 
+Use: wildlife habitat, recreation, and subsistence
+Native vegetation: Resin birch, bog blueberry, marsh labrador tea, feather moss, red stem moss, 
+
+DISTRIBUTION AND EXTENT: MLRA 228 Interior Alaska mountains.
+Extent: extensive
+
+SOIL SURVEY REGIONAL OFFICE (SSRO) RESPONSIBLE: Wasilla, Alaska
+
+SERIES ESTABLISHED: North Copper River Soil Survey, Alaska, 2024.
+
+REMARKS: Diagnostic features and horizons recognized in this profile include:
+
+Particle-size control section: 40 to 115 cm (16 to 45 in)
+
+Umbric epipedon: 20 to 62 cm (8 to 24 in) (Bw1 and Bw2 horizons)
+
+Folistic epipedon: 15 to 38 cm (6 to 15 in) (Oe and Oa horizons)
+
+ADDITIONAL DATA:
+
+User pedon Id: 2023AK261281
+
+National Cooperative Soil Survey
+U.S.A.

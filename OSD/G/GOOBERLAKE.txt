@@ -1,0 +1,122 @@
+LOCATION GOOBERLAKE             AK
+
+Established Series
+SDB/MJS
+08/2025
+
+GOOBERLAKE SERIES
+
+Depth class: very deep
+Drainage class: well drained
+Parent material: organic material over silty loess
+Landscape: Mountains
+Landform: peat mounds in depressions and till plains
+Slope: 0 to 5 percent
+Mean annual precipitation: about 10 mm (4 in)
+Mean annual air temperature: about -3.5 degrees C (26 degrees F)
+Frost-free period: 45 to 75 days
+
+TAXONOMIC CLASS: Euic Typic Cryofolists
+
+TYPICAL PEDON: Gooberlake moderately decomposed plant material in a water sedge and mixed ericaceous community on a peat mound in a depression with slope of 0 percent at an elevation of 911m (2990 ft)
+
+	Oe--0 to 22 cm (0 to 9 in); moderately decomposed plant material, black (7.5YR 2.5/1) moist; many very fine and fine, and few medium roots throughout; very strongly acid (pH 4.7); clear wavy boundary (15 to 26 cm, 6 to 10 in)
+
+	Oi--22 to 80 cm (9 to 32 in); slightly decomposed plant material, 60 percent dark gray (7.5YR 4/1), and 40 percent dark brown (7.5YR 3/4) moist; many very fine and fine roots throughout; strongly acid (pH 5.2); clear wavy boundary (30 to 65 cm, 12 to 26 in)
+
+	Oa--80 to 135 cm (32 to 53 in); highly decomposed plant material, very dark brown (7.5YR 2.5/2) moist; few very fine and fine roots throughout; moderately acid (pH 5.7); clear wavy boundary (30 to 65 cm, 12 to 26 in)
+
+	C--135 to 150 cm (53 to 59 in); highly organic silt loam, light olive brown (2.5Y 5/3) broken face moist; massive; soft, very friable, nonsticky, slightly plastic; nonsmeary; very few very fine roots top of horizon; very fine irregular pores; moderately acid (pH 5.8). (6 to 44 cm, 2 to 17 in)
+
+TYPE LOCATION: North Copper River Soil Survey Area, Alaska; latitude 61.83857, longitude -147.34082, UTM 6856244.07 north and UTM 482054.29 east, zone 6, Datum WGS84.
+
+RANGE IN CHARACTERISTICS:
+
+Soil moisture regime: udic
+Soil temperature regime: cryic
+Mean annual soil temperature: -1 to 4 degrees C (30 to 39 degrees F)
+Thickness of organic material: 75 to 156 cm (30 to 61 in)
+
+Oe horizon:
+Hue: 7.5YR or 10YR
+Value: 2 to 3
+Chroma: 1 to 2
+Texture: moderately decomposed organic material.
+Organic matter: 60 to 90 percent
+Reaction class: very strongly acid (pH 4.5 to 5.0)
+
+Oi horizon:
+Hue: 7.5YR or 10YR
+Value: 2 to 3
+Chroma: 1 to 4
+Texture: slightly decomposed organic material
+Organic matter: 60 to 90 percent
+Reaction class: strongly acid (pH 5.1 to 5.5)
+
+Oa horizon:
+Hue: 7.5YR or 10YR
+Value: 2 to 3
+Chroma: 1 to 2
+Texture: highly decomposed organic material
+Organic matter: 60 to 90 percent
+Reaction class: moderately acid (pH 5.6 to 6.0)
+
+C horizon:
+Hue: 10YR or 2.5Y
+Value: 4 to 6
+Chroma: 2 to 4
+Texture: Highly organic silt loam
+Sand: 10 to 30 percent
+Silt: 55 to 80 percent
+Clay: 10 to 20 percent
+Rock fragments: 0 to 5 percent gravels
+Organic matter: 0.1 to 10 percent
+Reaction class: moderately acid (pH 5.6 to 6.0)
+
+COMPETING SERIES: There are no competing series
+
+GEOGRAPHIC SETTING:
+Elevation: 500 to 1200 meters (1640 to 3935 ft)
+Parent material: organic material over silty loess
+Landform: peat mounds in depressions and till plains
+Slopes: 0 to 6 percent
+Mean annual precipitation: 300 to 500 mm (12 to 20 in)
+Mean annual air temperature: -4 to -2 degrees C (25 to 28 degrees F)
+Frost-free period: 45 to 75 days
+
+GEOGRAPHICALLY ASSOCIATED SOILS: These are the Ahtell, Chelina, and Mire series.
+Ahtell soils have folistic and umbric epipedons, and occur on hill tops, and hillside positions.
+Chelina soils have a cambic horizon and occur on lacustrine terraces.
+Mire soils are very poorly drained, have a thick sapric horizon, and occur on string bogs, interdrumlins, hillslopes, and glacial valley floors.
+
+DRAINAGE AND SATURATED HYDRAULIC CONDUCTIVITY: 
+Drainage class: well drained
+Saturated Hydraulic Conductivity: very high in the Oi, Oe, and Oa horizons, moderately high in the C horizon.
+Permeability: very rapid in the Oi, Oe, and Oa horizons, moderate in the C horizon.
+Runoff: negligible
+
+USE AND VEGETATION: 
+Use: wildlife habitat, recreation, and subsistence
+Native vegetation: water sedge, marsh labrador tea, bog blueberry, white cottongrass
+
+DISTRIBUTION AND EXTENT: MLRA 228 Interior Alaska mountains.
+Extent: limited
+
+SOIL SURVEY REGIONAL OFFICE (SSRO) RESPONSIBLE: Wasilla, Alaska
+
+SERIES ESTABLISHED: North Copper River Soil Survey, Alaska, 2024.
+
+REMARKS: Diagnostic features and horizons recognized in this profile include:
+
+Hemic material: 0 to 15 cm (0 to 6 in) (Oe horizon)
+
+Folistic material: 22 to 80 cm (9 to 31 in) (Oi horizon)
+
+Sapric soil materials: 80 to 135 cm (31 to 53 in) (Oa horizon)
+
+ADDITIONAL DATA:
+
+User pedon Id: 2023AK170912
+
+National Cooperative Soil Survey
+U.S.A.

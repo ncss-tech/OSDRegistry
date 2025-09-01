@@ -1,0 +1,127 @@
+LOCATION MANKER                 AK
+
+Established Series
+SDB
+08/2025
+
+MANKER SERIES
+
+Depth class: shallow to permafrost
+Drainage class: moderately well drained
+Parent material: organic material over silty noncalcareous loess
+Landscape: outwash plains and mountains
+Landform: bluffs, mountain valleys and terraces
+Slope: 5 to 25 percent
+Mean annual precipitation: about 550 mm (22 in)
+Mean annual air temperature: about -3 degrees C (27 degrees F)
+Frost-free period: 32 to 103 days
+
+TAXONOMIC CLASS: Coarse-silty, mixed, active, nonacid, subgelic Folistic Haploturbels
+
+TYPICAL PEDON: Manker slightly decomposed organic material in a white spruce dominated, linear, linear river valley terrace on a slope of 27% at an elevation of 508m (1670 ft)
+
+	Oi--0 to 20 cm (0 to 8 in); slightly decomposed plant material, dark brown (7.5YR 3/3) moist; nonsticky, nonplastic; common very fine, fine, medium, and coarse roots throughout; neutral (pH 6.8); clear wavy boundary (15 to 22 cm, 6 to 9 in)
+
+	Oe--20 to 26 cm (8 to 10 in); moderately decomposed plant material, black (7.5YR 2.5/1) moist; nonsticky, nonplastic; common very fine, fine, medium, and coarse roots throughout; neutral (pH 7.0); clear wavy boundary (4 to 8 cm, 2 to 3 in)
+
+	Oa--26 to 28 cm (10 to 11 in); highly decomposed plant material, black (7.5YR 2.5/1) moist; nonsticky, nonplastic; common very fine, fine, medium, and coarse roots throughout; neutral (pH 7.1); clear wavy boundary (1 to 8 cm, 1 to 3 in)
+
+	C/Oajjf--28 to 50 cm (11 to 20 in); silt loam, very dark brown (7.5YR 2.5/2) moist; moderate medium platy structure; very rigid, very rigid, noncoherent, nonsticky, nonplastic; nonsmeary; neutral (pH 7.2); clear wavy boundary (18 to 28 cm, 7 to 11 in)
+
+	Cf--50 to 150 cm (20 to 59 in); silt loam, dark gray (2.5Y 4/1) moist; moderate medium platy structure; very rigid, very rigid, noncoherent, nonsticky, nonplastic; nonsmeary; neutral (pH 7.1) (94 to 112 cm, 37 to 44 in)
+
+TYPE LOCATION: Valdez-Cordova Census Area County, Alaska; latitude 61.64796, longitude -145.17168, UTM 6836323.92 north and UTM 596856.32 east, zone 6. Datum WGS84
+
+RANGE IN CHARACTERISTICS:
+
+Soil moisture regime: udic
+Soil temperature regime: gelic
+Mean annual soil temperature: -4 to 1 degrees C. (25 to 34 degrees F)
+Thickness of folistic epipedon: 20 to 38 cm (8 to 15 in)
+Depth to cryoturbation: 20 to 30 cm (8 to 12 in)
+Depth to permafrost: 38 to 66 cm (15 to 26 in)
+
+Oi, Oe, and Oa horizons:
+Hue: 7.5YR or 10YR
+Value: 2 to 3
+Chroma: 1 to 3
+Texture: slightly decomposed organic material, moderately decomposed organic material, and highly decomposed organic material.
+Organic matter: 60 to 90 percent
+Reaction class: moderately acid to slightly alkaline (pH 6.0 to 7.5)
+
+C/Oajjf horizon:
+C material: Hue of 10YR or 2.5Y, value of 3 to 5, chroma of 1 to 3
+O material: hue of 7.5YR or 10YR, value of 2 to 3, chroma of 1 to 2
+texture: silt loam
+sand: 15 to 30 percent
+silt: 64 to 82 percent
+clay: 3 to 10 percent
+texture: highly decomposed organic material
+Organic matter: 3 to 8 percent
+Reaction class: neutral to slightly alkaline (pH 6.7 to 7.5)
+
+C or Cf horizon:
+Hue: 10YR or 2.5Y
+Value: 3 to 4
+Chroma: 1 to 2
+Texture: silt loam
+Sand: 15 to 40 percent
+Silt: 57 to 82 percent
+Clay: 3 to 10 percent
+Organic matter: 0.5 to 1.5 percent
+Reaction class: neutral to slightly alkaline (pH 6.7 to 7.5)
+
+Some pedons have an A horizon below the organic horizons with a hue of 10YR or 2.5Y, value of 2 to 3, chroma of 1 to 2, and a texture of silt, silt loam, or fine sandy loam.
+
+COMPETING SERIES: These are no competing series.
+
+GEOGRAPHIC SETTING:
+Elevation: 200 to 1000 meters (655 to 3280 ft)
+Parent material: organic material over silty noncalcareous loess
+Landform: bluffs, mountain valleys and terraces
+Slopes: 5 to 25 percent
+Mean annual precipitation: 300 to 1000 mm (12 to 39 in)
+Mean annual air temperature: -5 to -1 degrees C. (23 to 30 degrees F)
+Frost-free period: 32 to 103 days
+
+GEOGRAPHICALLY ASSOCIATED SOILS: These are the Alterationcreek, Fields, Haggardcreek, Rocklake, Tiekel, and Uranatina series. 
+Alterationcreek soils are well drained, have bedrock at a depth between 101 and 154 cm (40 and 61 in), and occur on hillslopes and mountain valleys.
+Fields soils are well drained, have umbric epipedons, lithic contacts within 2 m (79 in) of the soil surface, and occur on mountains.
+Haggardcreek soils are well drained, has a folistic epipedon, there is bedrock within 2 meters of the soil surface, and occur on hillslopes and mountain slopes.
+Rocklake soils are less than 50cm deep to bedrock and occur on occur on escarpments and ridges on mountain sides
+Tiekel soils are very poorly drained, have histic epipedons, cobbles and gravels in the O horizons, and occur in outwash plains and lake plains. 
+Uranatina soils are well drained, have mottles in Bw and C horizons, and occur on outwash plains and glacial lakes.
+
+DRAINAGE AND SATURATED HYDRAULIC CONDUCTIVITY: 
+Drainage class: moderately well
+Saturated Hydraulic Conductivity: very high in the Oi, Oe, and Oa horizons, low in the C/Oajjf and Cf horizons.
+Permeability: very rapid in the Oi, Oe, and Oa horizons, very slow in the C/Oajjf and Cf horizons.
+Runoff: very high
+
+USE AND VEGETATION: 
+Use: wildlife habitat, recreation, and subsistence
+Native vegetation: White spruce, bog Labrador tea, moss
+
+DISTRIBUTION AND EXTENT: MLRA 228 Interior Alaska mountains.
+Extent: limited
+
+SOIL SURVEY REGIONAL OFFICE (SSRO) RESPONSIBLE: Wasilla, Alaska
+
+SERIES ESTABLISHED: North Copper River Soil Survey, Alaska, 2024.
+
+REMARKS: Diagnostic features and horizons recognized in this profile include:
+
+Particle-size control section: 53 to 128 cm (21 to 50 in)
+
+Folistic epipedon: 0 to 28 cm (0 to 11 in) (Oi, Oe and Oa horizons)
+
+Cryoturbation: 28 to 38 cm (11 to 15 in) (C/Oajjf horizon)
+
+permafrost: 50 to 150 cm (20 to 59 in) (Cf horizon)
+
+ADDITIONAL DATA:
+
+User pedon Id: 2022AK261112
+
+National Cooperative Soil Survey
+U.S.A.

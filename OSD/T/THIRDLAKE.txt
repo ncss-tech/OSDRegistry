@@ -1,0 +1,149 @@
+LOCATION THIRDLAKE              AK
+
+Established Series
+SDB/MJS
+08/2025
+
+THIRDLAKE SERIES
+
+Depth class: very deep
+Drainage class: poorly drained
+Parent material: organic material over silty loess over sandy and gravelly glaciolacustrine deposits
+Landscape: outwash plains
+Landform: glacial lakes (relict), flats, and outwash plains
+Slope: 0 to 10 percent
+Mean annual precipitation: about 600 mm (24 in)
+Mean annual air temperature: about -3 degrees C (27 F)
+Frost-free period: 60 to 103 days
+
+TAXONOMIC CLASS: Coarse-loamy, mixed, superactive, nonacid Typic Cryaquents
+
+TYPICAL PEDON: Thirdlake muck in a dwarf birch black spruce community on a relict glacial lake on a slope of 1 percent at an elevation of 694m (2275 ft).
+
+	Oi--0 to 7 cm (0 to 3 in); peat, dark brown (7.5YR 3/2) moist; many very fine, fine, and common medium roots throughout; strongly acid (pH 5.2); clear smooth boundary (3 to 8 cm, 1 to 3 in)
+
+	Oa--7 to 16 cm (3 to 6 in); muck, black (10YR 2/1) moist; many very fine, fine, and few medium roots throughout; slightly acid (pH 6.1); clear smooth boundary (3 to 10 cm, 1 to 4 in)
+
+	A--16 to 23 cm (6 to 9 in); very cobbly silt loam, very dark gray (10YR 3/1) moist; weak medium subangular blocky structure; slightly hard, friable, nonsticky, slightly plastic; nonsmeary; many very fine and common fine roots throughout; very fine and fine pores; 20 percent cobbles and 30 percent gravel by volume; slightly acid (pH 6.5); clear smooth boundary (0 to 9 in, 0 to 4 in)
+
+	A/Cg--23 to 32 cm (9 to 13 in); gravelly loamy sand, very fine sandy loam, 70 percent very dark gray (10YR 3/1) and 30 percent dark gray (2.5Y 4/1) moist; weak medium subangular blocky structure; soft, very friable, slightly sticky, nonplastic; nonsmeary; common very fine and few fine roots throughout; very fine and fine pores; 25 percent gravel by volume; noneffervescent; strongly alkaline (pH 8.6); clear broken boundary (5 to 10 cm, 2 to 4 in)
+
+	Cg--32 to 150 cm (13 to 59 in); gravelly sandy loam, 75 percent gray (2.5Y 5/1) and 25 percent dark yellowish brown (10YR 4/4) moist; massive; soft, very friable, nonsticky, nonplastic; nonsmeary; few very fine roots at top of horizon; fine pores; 25 percent fine noncoherent cemented gray (2.5Y 5/1) masses of oxidized iron infused into matrix adjacent to pores and 75 percent coarse noncoherent cemented dark yellowish brown (10YR 4/4) reduced matrix throughout; 20 percent gravel by volume; noneffervescent; strongly alkaline (pH 8.7). (113 to 139 cm, 44 to 55 in)
+
+TYPE LOCATION: North Copper River Soil Survey Area, Alaska; latitude 61.60848, longitude -145.13408, UTM 6831983.30 north and UTM 598974.02 east, zone 6, Datum WGS84.
+
+RANGE IN CHARACTERISTICS:
+
+Soil moisture regime: aquic
+Soil temperature regime: cryic
+Mean annual soil temperature: 1 to 5 degrees C. (34 to 41 degrees F)
+Thickness of organic material: 6 to 18 cm (2 to 7 in)
+Thickness of ochric epipedon: 6 to 27 cm (2 to 11 in)
+Depth to redoximorphic concentrations: 6 to 27 cm (2 to 11 in)
+Depth to reduced matrix: 6 to 27 cm (2 to 11 in)
+Depth to aquic conditions: 6 to 27 cm (2 to 11 in)
+
+Oi, Oe, Oa horizons:
+Hue: 7.5YR or 10YR
+Value: 2 to 3
+Chroma: 1 to 3
+Texture: Peat, mucky-peat, muck
+Organic matter: 60 to 90 percent
+Reaction class: very strongly acid to slightly acid (pH 4.5 to 6.5)
+
+A horizon:
+Hue: 7.5YR or 10YR
+Value: 2 to 3
+Chroma: 1 to 3
+Texture: loam, very gravelly silt loam, cobbly silt loam
+Sand: 18 to 48 percent
+Silt: 48 to 78 percent
+Clay: 4 to 9 percent
+Rock fragments: 10 to 57 percent
+Gravels: 8 to 32 percent
+Cobbles: 2 to 25 percent
+Organic matter: 1 to 7 percent
+Reaction class: slightly acid to neutral (pH 6.1 to 7.3)
+
+A/C horizon:
+Matrix color (A horizon material) has a hue of 7.5YR or 10YR, Value of 2 to 3, and a Chroma of 1 to 3 
+Reduced material (Cg horizon material) has a hue of 2.5Y or 5 Y, value of 4 or 5, and a chroma of 1 or 2.
+Texture: gravelly loam, gravelly fine sandy loam, gravelly very fine sandy loam, fine sandy loam
+Sand: 18 to 48 percent
+Silt: 18 to 46 percent
+Clay: 9 to 15 percent
+Rock fragments: 16 to 28 percent
+Gravels: 16 to 28 percent
+Organic matter: 0.5 to 1.5 percent
+Reaction class: moderately alkaline to strongly alkaline (pH 7.9 to 9)
+
+Cg horizon:
+Hue: 10YR or 2.5Y
+Value: 4 to 5
+Chroma: 1 to 2
+Texture: loam, loamy very fine sand, gravelly sandy loam
+Sand: 39 to 72 percent
+Silt: 15 to 48 percent
+Clay: 6 to 13 percent
+Rock fragments: 2 to 22 percent
+Gravels: 2 to 22 percent
+Organic matter: 0.05 to 0.2 percent
+Reaction class: moderately alkaline to strongly alkaline (pH 7.9 to 9)
+
+COMPETING SERIES: These are the Aquatna, Beluga, Moose River, Noonku, Ottercreek, and Susivar soils.
+Aquatna, Beluga, Moose River, and Noonku soils are very poorly drained.
+Ottercreek soils lack an A horizon
+Susivar soils are somewhat poorly drained and are formed from stratified loamy alluvium.
+
+GEOGRAPHIC SETTING:
+Elevation: 200 to 800 meters (655 to 2625 ft)
+Parent material: organic material over silty loess over sandy and gravelly glaciolacustrine deposits
+Landform: glacial lakes (relict), flats
+Slopes: 0 to 10 percent
+Mean annual precipitation: 300 to 1400 mm (12 to 55 in)
+Mean annual air temperature: -5 to -1 degrees C. (23 to 30 degrees F)
+Frost-free period: 60 to 103 days
+
+GEOGRAPHICALLY ASSOCIATED SOILS: These are the Basaltlake, Hundell, Manker, Squirrelcreek, Tiekel, and Uranatina soils. 
+Basaltlake soils are well drained, form in silty deposited over till, and occur on mountains.
+Hundell soils are moderately well drained and occur on flats and bluffs in till plains and outwash plains.
+Manker soils have permafrost, have cryoturbation, and occur on north facing slopes
+Squirrelcreek soils are somewhat excessively drained, have alluvium as parent material, and occur on bluffs, floodplains, and river valleys in outwash plains.
+Tiekel soils are very poorly drained, have a histic epipedon, cobbles and gravels in its O horizons, and occur on outwash plains and lake plains. 
+Uranatina soils are well drained, have mottles in Bw and C horizons, and occur on outwash plains and glacial lakes.
+
+DRAINAGE AND SATURATED HYDRAULIC CONDUCTIVITY: 
+Drainage class: poorly drained
+Saturated Hydraulic Conductivity: 
+Permeability: 
+Runoff: negligible
+
+USE AND VEGETATION: 
+Use: wildlife habitat, recreation, and subsistence
+Native vegetation: dwarf birch, spruce and moss
+
+DISTRIBUTION AND EXTENT: MLRA 228 Interior Alaska mountains.
+Extent: limited
+
+SOIL SURVEY REGIONAL OFFICE (SSRO) RESPONSIBLE: Wasilla, Alaska
+
+SERIES ESTABLISHED: North Copper River Soil Survey, Alaska, 2024.
+
+REMARKS: Diagnostic features and horizons recognized in this profile include:
+
+Particle-size control section: 41 to 116 cm (16 to 46 in)
+
+Ochric epipedon: 0 to 23 cm (0 to 9 in) (Oi, Oa, and A horizons)
+
+Aquic conditions: 23 to 150 cm (9 to 59 in) (A/Cg and Cg horizon)
+
+Redoximorphic concentrations: 23 to 150 cm (9 to 59 in) (A/Cg and Cg horizon)
+
+Depleted matrix: 23 to 150 cm (9 to 59 in) (A/Cg and Cg horizon)
+
+ADDITIONAL DATA:
+
+User pedon Id: 2022AK261007
+
+National Cooperative Soil Survey
+U.S.A.

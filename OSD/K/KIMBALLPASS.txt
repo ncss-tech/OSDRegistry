@@ -1,0 +1,122 @@
+LOCATION KIMBALLPASS            AK
+
+Tentative Series
+SDB
+08/2025
+
+KIMBALLPASS SERIES
+
+Depth class: very deep
+Drainage class: well drained
+Parent material: grassy organic material over gravelly colluvium
+Landscape: mountains
+Landform: mountain slopes
+Slope: 20 to 70 percent
+Mean annual precipitation: about 600 mm (24 in)
+Mean annual air temperature: about 2 degrees C (36 degrees F)
+Frost-free period: 40 to 103 days
+
+TAXONOMIC CLASS: Loamy-skeletal, mixed, superactive, nonacid, subgelic Typic Haplogelolls
+
+TYPICAL PEDON: Kimballpass gravelly silt loam in a dryas community on a south facing convex, linear backslope on a slope of 42 percent at an elevation of 1348m (4425 ft)
+
+	Oe--0 to 9 cm (0 to 4 in); moderately decomposed plant material, very dark brown (10YR 2/2) broken face moist; low excavation difficulty; many very fine, common fine and medium roots throughout; noneffervescent; slightly alkaline (pH 7.4); clear smooth boundary
+
+	A--9 to 30 cm (4 to 12 in); very gravelly silt loam, very dark brown (10YR 2/2) broken face moist; weak fine granular structure; soft, very friable, nonsticky, nonplastic; nonsmeary; many very fine, common fine, and medium roots throughout; many very fine and fine dendritic tubular pores; 3 percent subangular cobbles by volume, 30 percent angular gravel by volume; slightly acid (pH 6.4); clear wavy boundary
+
+	C--30 to 150 cm (12 to 59 in); extremely gravelly loam, dark brown (10YR 3/3) broken face moist; massive; soft, very friable, nonsticky, nonplastic; nonsmeary; common very fine and fine roots throughout; common very fine and fine dendritic tubular pores 5 percent subangular cobbles by volume, 65 percent angular gravels by volume; slightly acid (pH 6.4).
+
+TYPE LOCATION: North Copper River Soil Survey Area, Alaska; latitude 61.65707, longitude -145.26965, UTM 6837196.17 north and UTM 591640.43 east, zone 6, Datum WGS84.
+
+RANGE IN CHARACTERISTICS:
+
+Soil moisture regime: udic
+Soil temperature regime: cryic
+Mean annual soil temperature: 0 to 5 degrees C. (32 to 41 degrees F)
+Thickness of organic material: 6 to 12 cm (3 to 5 in)
+Thickness of mollic epipedon: 18 to 30 cm (7 to 12 in)
+
+Oi, Oe, Oa horizons:
+Hue: 7.5YR or 10YR
+Value: 2 to 3
+Chroma: 1 to 3
+Texture: slightly decomposed organic material, moderately decomposed organic material, and highly decomposed organic material.
+Organic matter: 60 to 90 percent
+Reaction class: neutral to moderately alkaline (pH 7 to 8)
+
+A horizon:
+Hue: 7.5YR or 10YR
+Value: 2 to 3
+Chroma: 2 to 3
+Texture: silt loam, gravelly silt loam, very gravelly silt loam
+Sand: 25 to 45 percent
+Silt: 50 to 70 percent
+Clay: 5 to 15 percent
+Rock fragments: 7 to 44 percent
+Gravels: 5 to 40 percent
+Cobbles: 2 to 6 percent
+Organic matter: 2.5 to 7 percent
+Reaction class: moderately acid to neutral (pH 5.6 to 6.8)
+
+C horizon:
+Hue: 10YR or 2.5Y
+Value: 3 to 4
+Chroma: 2 to 3
+Texture: extremely gravelly loam
+Sand: 35 to 50 percent
+Silt: 37 to 50 percent
+Clay: 8 to 15 percent
+Rock fragments: 65 to 75 percent
+Gravels: 62 to 68 percent
+Cobbles: 3 to 7 percent
+Organic matter: 1 to 3 percent
+Reaction class: moderately acid to neutral (pH 5.6 to 6.8)
+
+COMPETING SERIES: This is the Kulik (AK) series which has a lithic contact between 50 and 100 cm (20 to 39 in).
+
+GEOGRAPHIC SETTING:
+Elevation: 600 to 1400 meters (1969 to 4593 ft)
+Parent material: grassy organic material over gravelly colluvium
+Landform: mountain slopes
+Slopes: 20 to 70 percent
+Mean annual precipitation: 300 to 1400 mm (12 to 55 in)
+Mean annual air temperature: 0 to 5 degrees C. (32 to 41 degrees F)
+Frost-free period: 40 to 103 days
+
+GEOGRAPHICALLY ASSOCIATED SOILS: These are the Bernardpeak, Cirquecreek, Fourthofjuly, Greylingcreek, Ride,and Swampylakes soils. 
+Bernardpeak soils are somewhat poorly drained, are organic soils, and occur on stream terraces in mountain valleys.
+Cirquecreek soils are well drained, do not have a mollic epipedon, and occur on saddles and mountain slopes
+Fourthofjuly soils are well drained, have folistic epipedons, and occur on mountain valleys and stream terraces.
+Greylingcreek soils are excessively drained, do not have a mollic epipedon, and occur in mountain valleys and moraines.
+Ride soils are somewhat excessively drained, with very gravelly sandy loam surface textures, and occur on mountain slopes and hillslopes.
+Swampylakes soils are somewhat poorly drained, a mollic epipedon, aquic conditions starting between 34 and 40 cm (13 and 16in), on mountain slopes and hillslopes.
+
+DRAINAGE AND SATURATED HYDRAULIC CONDUCTIVITY: 
+Drainage class: well drained
+Saturated Hydraulic Conductivity: very high in the Oe horizon, high in the C horizon, and moderately high in the A horizon
+Permeability: very rapid in the Oe horizon, moderately rapid in the C horizon, and moderate in the A horizon.
+Runoff: high
+
+USE AND VEGETATION: 
+Use: wildlife habitat, recreation, and subsistence
+Native vegetation: Dryas and willow
+
+DISTRIBUTION AND EXTENT: MLRA 228 Interior Alaska mountains.
+Extent: moderate
+
+SOIL SURVEY REGIONAL OFFICE (SSRO) RESPONSIBLE: Wasilla, Alaska
+
+SERIES ESTABLISHED: North Copper River Soil Survey, Alaska, 2024.
+
+REMARKS: Diagnostic features and horizons recognized in this profile include:
+
+Particle-size control section: 34 to 109 cm (13 to 43 in)
+
+mollic epipedon: 9 to 30 cm (4 to 12 in) (A horizon)
+
+ADDITIONAL DATA:
+
+User pedon Id: 2022AK261568
+
+National Cooperative Soil Survey
+U.S.A.

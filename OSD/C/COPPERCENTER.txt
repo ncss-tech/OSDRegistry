@@ -1,0 +1,128 @@
+LOCATION COPPERCENTER           AK
+
+Established Series
+SDB/MJS
+08/2025
+
+COPPERCENTER SERIES
+
+Depth class: moderately deep 
+Drainage class: poorly drained
+Parent material: organic material over silty loess
+Landscape: mountains and foothills
+Landform: hills and hillslopes
+Slope: 0 to 10 percent
+Mean annual precipitation: about 350 mm (14 in)
+Mean annual air temperature: about 0 degrees C. (32 degrees F.)
+Frost-free period: 32 to 103 days
+
+TAXONOMIC CLASS: Coarse-loamy, mixed, superactive, nonacid, subgelic Typic Historthels
+
+TYPICAL PEDON: Coppercenter mucky peat in an alder willow community on a south-east facing terrace riser with a slope of 7 percent at an elevation of 331 m (1085 ft)
+
+	Oe--0 to 24 cm (0 to 9 in); mucky peat, very dark brown (10YR 2/2) broken face moist; many very fine and common fine roots throughout; many very fine tubular and common fine tubular pores; neutral (pH 7.2); clear smooth boundary (18 to 26 cm, 7 to 10 in).
+
+	Oa--24 to 36 cm (9 to 14 in); muck, black (10YR 2/1) broken face moist; common very fine roots throughout; common very fine tubular pores; noneffervescent; slightly alkaline (pH 7.6); abrupt smooth boundary (10 to 13 cm, 4 to 5 in)
+
+	A--36 to 72 cm (14 to 28 in); loamy very fine sand, 80 percent very dark grayish brown (10YR 3/2) broken face and 20 percent dark grayish brown (10YR 4/2) broken face moist; massive; soft, very friable, nonsticky, nonplastic; nonsmeary noneffervescent; slightly alkaline (pH 7.4); abrupt smooth boundary (28 to 40cm, 11 to 16 in)
+
+	Cf--72 to 150 cm (28 to 59 in); dark grayish brown (2.5Y 4/2) broken face moist; weak, fine subangular blocky; soft, very friable, nonsticky, nonplastic; nonsmeary; very fine low-continuity tubular pores; noneffervescent; slightly alkaline (pH 7.4); abrupt boundary (71 to 94 cm, 28 to 37 in).
+
+TYPE LOCATION: North Copper River Soil Survey Area, Alaska; latitude 61.54626, longitude -144.43027, UTM 6826328.45 north and UTM 636567.96 east, zone 6, Datum WGS84.
+
+RANGE IN CHARACTERISTICS:
+
+Soil moisture regime: udic
+Soil temperature regime: gelic
+Mean annual soil temperature: -4 to 1 degrees C. (25 to 34 degrees F.)
+Thickness of histic epipedon: 28 to 39 cm (11 to 15 in)
+Thickness of mollic epipedon: 28 to 40 cm (11 to 15 in)
+Depth to Aquic Conditions: 18 to 26 cm (7 to 10 in)
+Depth to permafrost: 72 to 150 cm (28 to 59 in)
+
+Oe and Oa horizon:
+Hue: 7.5YR or 10YR
+Value: 2 to 3
+Chroma: 1 to 2
+Texture: mucky peat, muck
+Organic matter: 60 to 90 percent
+Reaction class: neutral to slightly alkaline (pH 6.6 to 7.8)
+
+Bw and A horizons:
+Hue: 10YR or 2.5Y 
+Value: 3 to 4
+Chroma: 2 to 3
+Texture: loamy very fine sand, silt loam, very fine sandy loam
+Sand: 8 to 86 percent
+Silt: 2 to 80 percent 
+Clay: 6 to 12 percent
+Organic matter: .7 to 1.3 percent
+Reaction class: slightly alkaline (pH 7.4 to 7.8)
+
+C and Cf horizon:
+Hue: 10YR or 2.5Y
+Value: 4 to 5
+Chroma: 1 to 2
+Texture: loamy very fine sand, silt loam, very fine sandy loam
+Sand: 8 to 86 percent
+Silt: 2 to 80 percent
+Clay: 6 to 12 percent
+Organic matter: 0.2 to 0.55 percent
+Reaction class: neutral to slightly alkaline (pH 7.0 to 7.8)
+
+COMPETING SERIES: These are the Goldenorth, Ricepeak, and Tseenjik soils.
+Goldenorth soils are very poorly drained, have a loess cap over gravely till, and occur on hillslopes in valleys.
+Ricepeak soils have alluvium parent material and occur on flats and till plains.
+Tseenjik soils lack a mollic epipedon and occur on floodplains.
+
+GEOGRAPHIC SETTING:
+Elevation: 200 to 600 meters (655 to 1970 ft)
+Parent material: organic material over silty loess
+Landform: hillslopes and hills
+Slopes: 0 to 10 percent
+Mean annual precipitation: 300 to 800 mm (12 to 31 in)
+Mean annual air temperature: -4 to 1 degrees C. (25 to 34 degrees F.)
+Frost-free period: 32 to 103 days
+
+GEOGRAPHICALLY ASSOCIATED SOILS: These are the Drashner, Kluna, Rocklake, Taral, and Tonsina soils.
+Drashner soils are somewhat poorly drained, have a histic epipedon, and occur on mountains and hillslopes.
+Kluna soils are well drained, have stratified horizons of sandy and silty alluvium, and occur on stream terraces and floodplains.
+Rocklake soils are shallow to bedrock and typically occur on ridge lines and escarpments.
+Taral soils are well drained, have a deep (>40 cm, 16 in thick) mollic epipedon, and occur on mountain and hill slopes greater than 25 percent.
+Tonsina soils are well drained, have a deep (>40 cm, 16 in thick) mollic epipedon, and occur on loess covered glacial till in till plains, hills and drumlins.
+
+DRAINAGE AND SATURATED HYDRAULIC CONDUCTIVITY: 
+Drainage class: poorly drained
+Saturated Hydraulic Conductivity: high in the Oe and Oa horizons, very high in the Bw horizon, low in the Cf horizon. 
+Permeability: Moderately rapid in the Oe and Oa horizons, very rapid in the Bw horizon, very slow in the Cf horizon.
+Runoff: very high
+
+USE AND VEGETATION: 
+Use: wildlife habitat, recreation, and subsistence
+Native vegetation: Alder and Grey leaf willow 
+
+DISTRIBUTION AND EXTENT: MLRA 228 Interior Alaska mountains.
+Extent: limited.
+
+SOIL SURVEY REGIONAL OFFICE (SSRO) RESPONSIBLE: Wasilla, Alaska
+
+SERIES ESTABLISHED: North Copper River Soil Survey, Alaska, 2024.
+
+REMARKS: Diagnostic features and horizons recognized in this profile include:
+
+Particle-size control section: 61 to 136 cm (24 to 54 in)
+
+Histic epipedon: 0 to 36 cm (0 to 14 in) (Oa and Oe horizon)
+
+Mollic horizon: 36 to 72 cm (14 to 28 in) (Bw horizon)
+
+Aquic conditions: 24 to 72 cm (9 to 28 in) (Oa and Bw horizons)
+
+Permafrost: 72 to 150 cm (28 to 59 in) (Cf horizon)
+
+ADDITIONAL DATA:
+
+User pedon Id: 2022AK261535
+
+National Cooperative Soil Survey
+U.S.A.

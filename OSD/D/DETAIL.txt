@@ -1,0 +1,105 @@
+LOCATION DETAIL                 AK
+
+Established Series
+SDB/MJS
+08/2025
+
+DETAIL SERIES
+
+Depth class: very deep
+Drainage class: moderately well drained
+Parent material: clayey lacustrine deposits
+Landscape: lake plains
+Landform: river valleys, bluffs
+Slope: 10 to 50 percent 
+Mean annual precipitation: about 350 mm (14 in)
+Mean annual air temperature: about -3 degrees C (27 degrees F)
+Frost-free period: 20 to 75 days
+
+TAXONOMIC CLASS: Fine, mixed, superactive, nonacid Typic Cryorthents
+
+TYPICAL PEDON: Detail clay in an alder community on a north facing linear, convex shoulder slope on a slope of 14 percent at an elevation of 560m (1835 ft)
+
+	Oe--0 to 5 cm (0 to 2 in); moderately decomposed plant material; few fine, common medium and coarse roots throughout; neutral (pH 7.0); abrupt smooth boundary (1 to 10 cm, 1 to 2 in)
+
+	C1--5 to 36 cm (2 to 14 in); clay, dark gray (5Y 4/1) moist; strong fine granular structure; hard, very firm, moderately sticky, moderately plastic; nonsmeary; few fine. common medium and coarse roots throughout; common very fine irregular pores; neutral (pH 7.1); gradual smooth boundary (20 to 40 cm, 8 to 16 in)
+
+	C2--36 to 150 cm (14 to 59 in); silty clay, dark gray (2.5Y 4/1) moist; massive; moderately hard, firm, very sticky, moderately plastic; nonsmeary; common very fine irregular pores; neutral (pH 7.2). (100 to 139 cm, 39 to 55 in)
+
+TYPE LOCATION: North Copper River Soil Survey Area, Alaska; latitude 62.47308, longitude -145.46824, UTM 6927819.82 north and UTM 578977.47 east, zone 6, Datum WGS84.
+
+RANGE IN CHARACTERISTICS:
+
+Soil moisture regime: udic
+Soil temperature regime: cryic
+Mean annual soil temperature: 1 to 4 degrees C. (34 to 39 degrees F)
+Thickness of organic material: 1 to 10 cm (1 to 4 in)
+Thickness of epipedon: 1 to 10 cm (1 to 4 in)
+
+Oi or Oe horizon:
+Hue: 7.5YR or 10YR
+Value: 2 to 4
+Chroma: 2 to 4
+Texture: slightly decomposed organic material, and moderately decomposed organic material
+Organic matter: 60 to 90 percent
+Reaction class: neutral (pH 6.6 to 7.3)
+
+C horizons:
+Hue: 2.5Y or 5Y
+Value: 3 to 4
+Chroma: 1 to 2
+Texture: Clay, silty clay, gravelly silty clay, cobbly silty clay
+Sand: 8 to 18 percent
+Silt: 15 to 51 percent
+Clay: 40 to 70 percent
+Rock fragments: 0 to 25 percent
+Gravels: 0 to 10 percent
+Cobbles: 0 to 15 percent
+Reaction class: neutral (pH 6.6 to 7.3)
+
+COMPETING SERIES: There are no competing series
+
+GEOGRAPHIC SETTING:
+Elevation: 400 to 800 meters (1310 to 2625 feet)
+Parent material: clayey lacustrine deposits
+Landform: river valleys, bluffs
+Slopes: 10 to 50 percent
+Mean annual precipitation: 300 to 500 mm (12 to 20 in)
+Mean annual air temperature: -4 to -2 degrees C (25 to 28 degrees F)
+Frost-free period: 20 to 75 days
+
+GEOGRAPHICALLY ASSOCIATED SOILS: These are the Ahtna, Chelina, Crosswind, and Tsana soils.
+Ahtna soils are well drained soils, have silt loam texture, a calcic horizon starting between 23 and 73cm, they occur on escarpments, bluffs, and river valleys.
+Chelina soils have a cambic horizon, have a loess mantle, and occur on river valleys and the relict shorelines of lake plains.
+Crosswind soils are poorly drained, have permafrost, have both a histic and mollic epipedon, have a cryoturbated horizon, and occur on river valleys and bluffs in lake plains.
+Tsana soils are well drained, have a thin loess mantle over overlying loamy glacial till, and occur on till plains. 
+
+DRAINAGE AND SATURATED HYDRAULIC CONDUCTIVITY: 
+Drainage class: moderately well drained
+Saturated Hydraulic Conductivity: very high in the Oi horizon, low to moderately low in the C horizons.
+Permeability: very rapid in the Oi horizon, very slow in the C horizons
+Runoff: very high
+
+USE AND VEGETATION: 
+Use: wildlife habitat, recreation, and subsistence
+Native vegetation: Siberian alder, willow
+
+DISTRIBUTION AND EXTENT: MLRA 227 Copper River Basin.
+Extent: limited
+
+SOIL SURVEY REGIONAL OFFICE (SSRO) RESPONSIBLE: Wasilla, Alaska
+
+SERIES ESTABLISHED: North Copper River Soil Survey, Alaska, 2024.
+
+REMARKS: Diagnostic features and horizons recognized in this profile include:
+
+Particle-size control section: 30 to 105 cm (12 to 41 in)
+
+Ochric epipedon: 0 to 5 cm (0 to 2 in) (Oe horizon)
+
+ADDITIONAL DATA:
+
+User pedon Id: 2020AK261010
+
+National Cooperative Soil Survey
+U.S.A.

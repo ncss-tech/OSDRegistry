@@ -1,0 +1,146 @@
+LOCATION FISHWHEEL              AK
+
+Established Series
+SDB/MJS
+08/2025
+
+FISHWHEEL SERIES
+
+Depth class: very deep
+Drainage class: moderately well drained
+Parent material: coarse-loamy calcareous loess over sandy and gravelly alluvium
+Landscape: mountains
+Landform: river valleys and terraces
+Slope: 2 to 6 percent
+Mean annual precipitation: about 350 mm (14 in)
+Mean annual air temperature: about 2 degrees C (36 degrees F)
+Frost-free period: 89 to 103 days
+
+TAXONOMIC CLASS: Coarse-loamy over sandy or sandy-skeletal, mixed, superactive Oxyaquic Haplocryolls
+
+TYPICAL PEDON: Fishwheel very fine sandy loam in a balsam poplar community on an east facing linear, concave river valley terrace on a slope of 6 percent at an elevation of 170 m (560 ft)
+
+	Oe--0 to 7 cm (0 to 3 in); moderately decomposed plant material, dark brown (7.5YR 3/3) moist; common very fine, fine, medium, coarse, and very coarse roots throughout; noneffervescent; slightly alkaline (pH 7.8); clear smooth boundary (5 to 12 cm, 2 to 5 in)
+
+	A--7 to 21 cm (3 to 8 in); very fine sandy loam, very dark gray (7.5YR 3/1) moist; moderate fine granular structure; soft, very friable, nonsticky, nonplastic; nonsmeary; common very fine and fine, many medium and coarse, and common very coarse roots throughout; noneffervescent; slightly alkaline (pH 7.5); clear smooth boundary (10 to 20 cm, 4 to 8 in)
+
+	AB--21 to 53 cm (8 to 21 in); silt loam, very dark brown (10YR 2/2) moist; moderate medium subangular blocky structure; slightly hard, friable, nonsticky, nonplastic; nonsmeary; common very fine, fine, medium, coarse, and very coarse roots throughout; noneffervescent; neutral (pH 7.3); clear wavy boundary (28 to 36 cm, 11 to 14 in)
+
+	C1--53 to 70 cm (21 to 28 in); silt loam, dark yellowish brown (10YR 4/4) moist; massive; soft, very friable, nonsticky, nonplastic; nonsmeary; common very fine and fine roots throughout; 10 percent medium faint irregular extremely weakly coherent cemented strong brown (7.5YR 5/6) masses of oxidized iron with clear boundaries in matrix and 15 percent coarse distinct irregular extremely weakly coherent cemented gray (10YR 5/1) masses of reduced iron with clear boundaries in matrix; noneffervescent; slightly alkaline (pH 7.6); abrupt smooth boundary (2 to 33cm, 1 to 13 in)
+
+	2C2--70 to 150 cm (28 to 59 in); very gravelly loamy sand, dark grayish brown (10YR 4/2) moist; single grain; loose, loose, nonsticky, nonplastic; nonsmeary; 70 percent gravel by volume; noneffervescent; moderately alkaline (pH 8.1). (79 to 110 cm, 31 to 43 in)
+
+TYPE LOCATION: North Copper River Soil Survey Area, Alaska; latitude 61.57892, longitude -144.43019, UTM 6829963.95 north and UTM 636428.42 east, zone 6, Datum WGS84.
+
+RANGE IN CHARACTERISTICS:
+
+Soil moisture regime: aquic
+Soil temperature regime: cryic
+Mean annual soil temperature: 1 to 5 degrees C (34 to 41 degrees F) 
+Thickness of organic material: 5 to 12 cm (2 to 5 in)
+Thickness of mollic epipedon: 26 to 51 cm (10 to 20 in)
+Depth to redoximorphic concentrations: 38 to 56 cm (15 to 22 in)
+Depth to redoximorphic depletions: 38 to 56 cm (15 to 22 in)
+Depth to aquic conditions: 38 to 56 cm (15 to 22 in)
+
+Oi, Oe, or Oa horizon:
+Hue: 7.5YR or 10YR
+Value: 2 to 3
+Chroma: 1 to 3
+Texture: Slightly decomposed organic material, moderately decomposed organic material, highly decomposed organic material.
+Organic matter: 60 to 90 percent
+Reaction class: neutral to slightly alkaline (pH 6.8 to 7.8)
+
+A and AB horizons:
+Hue: 10YR or 2.5Y
+Value: 2 to 3
+Chroma: 1 to 2
+Texture: very fine sandy loam or silt loam
+Sand: 20 to 65 percent
+Silt: 32 to 55 percent
+Clay: 1 to 8 percent
+Organic matter: 2.5 to 7 percent
+Reaction class: slightly acid to slightly alkaline (pH 6.2 to 7.8)
+
+C1 horizon:
+Hue: 10YR or 2.5Y
+Value: 3 to 5
+Chroma: 2 to 4
+Texture: silt loam
+Sand: 20 to 40 percent
+Silt: 52 to 74 percent
+Clay: 1 to 8 percent
+Organic matter: 1 to 3 percent
+Reaction class: neutral to slightly alkaline (pH 7.0 to 7.8)
+
+2C2 horizon:
+Hue: 10YR or 2.5Y
+Value: 3 to 5
+Chroma: 2 to 4
+Texture: very gravelly coarse sand, extremely gravelly coarse sand, gravelly coarse sand, extremely gravelly loamy sand
+Sand: 75 to 95 percent
+Silt: 3 to 24 percent
+Clay: 1 to 3 percent
+Rock fragments: 38 to 72 percent
+Gravels: 30 to 70 percent
+Cobbles: 2 to 8 percent
+Organic matter: 1 to 2 percent
+Reaction class: slightly alkaline to moderately alkaline (pH 7.5 to 8.4)
+
+COMPETING SERIES: These are the Biglost (ID) soils.
+Biglost soils lack a loess mantle and occur at elevations above 1460 m (4800 ft).
+
+GEOGRAPHIC SETTING:
+Elevation: 100 to 800 meters (330 to 2625 ft)
+Parent material: coarse-silty calcareous loess over sandy and gravelly alluvium
+Landform: terraces and glacial valley floors
+Slopes: 2 to 6 percent
+Mean annual precipitation: 300 to 500 mm (12 to 20 in)
+Mean annual air temperature: -4 to 1 degree C (25 to 34 degrees F)
+Frost-free period: 60 to 103 days
+
+GEOGRAPHICALLY ASSOCIATED SOILS: These are the Centuu, Drashner, Ganhona, Kennecott, Ride, and Saintelias soils.
+Centuu soils are well drained and occur on river valleys and alluvial fans.
+Drashner soils are somewhat poorly drained, have histic epipedons, and occur on mountains and hillslopes.
+Ganhona soils are well drained, lack mollic epipedons, and occur on river valleys, flood plains, and lacustrine terraces in mountains.
+Kennecott soils are well drained, have mollic epipedons greater than 40 cm (16 in) thick, and occur on river valleys and terraces.
+Ride soils are somewhat excessively drained, lack mollic epipedons, form in colluvium, and occur on mountain slopes and hillslopes.
+Saintelias soils are poorly drained, have permafrost, forms over lacustrine sediments, and occur on terraces and in river valleys.
+
+DRAINAGE AND SATURATED HYDRAULIC CONDUCTIVITY: 
+Drainage class: very high in the Oe and 2C2 horizons, high in the A and horizon, and moderately high in the AB and C1 horizons.
+Saturated Hydraulic Conductivity: very high Oe horizon, high in the 2C2 horizon, high in the A horizon, and moderately high in the AB and C1 horizons.
+Permeability: very rapid in the Oe horizon, rapid in the 2C2 horizon, moderately rapid in the A horizon, and moderate in the AB and C1 horizons.
+Runoff: low
+
+USE AND VEGETATION: 
+Use: wildlife habitat, recreation, and subsistence
+Native vegetation: balsam poplar, squashberry, and mixed shrubs.
+
+DISTRIBUTION AND EXTENT: MLRA 228 Interior Alaska mountains. 
+Extent: limited.
+
+SOIL SURVEY REGIONAL OFFICE (SSRO) RESPONSIBLE: Wasilla, Alaska
+
+SERIES ESTABLISHED: North Copper River Soil Survey, Alaska, 2024.
+
+REMARKS: Diagnostic features and horizons recognized in this profile include:
+
+Particle-size control section: 32 to 107 cm (13 to 42 in)
+
+Mollic epipedon: 7 to 53 cm (3 to 21 in) (A and AB horizons)
+
+Redoximorphic concentrations: 53 to 70 cm (21 to 28 in) (C1 horizon)
+
+Redoximorphic depletions: 53 to 70 cm (21 to 28 in) (C1 horizon)
+
+Lithologic discontinuity: 70 to 150 cm (28 to 59 in) (C2 horizon)
+
+Depth to aquic conditions: 53 to 70 cm (21 to 28 in) (C1 horizon)
+
+ADDITIONAL DATA:
+
+User pedon Id: 2018AK261008
+
+National Cooperative Soil Survey
+U.S.A.

@@ -1,0 +1,111 @@
+LOCATION AELLO                  AK
+
+Established Series
+SDB/MJS
+08/2025
+
+AELLO SERIES
+
+Depth class: moderately deep
+Drainage class: very poorly drained
+Parent material: mossy organic materials over silty loess and or silty till
+Landscape: mountains
+Landform: depressions on till plains
+Slopes: 0 to 5 percent
+Mean annual precipitation: about 600 mm (24 in)
+Mean annual air temperature: about -3 degrees C (27 degrees F)
+Frost-free season: 36 to 90 days
+
+TAXONOMIC CLASS: Euic, subgelic Typic Hemistels
+
+TYPICAL PEDON: Aello mucky peat in grass sedge communities on till plain depressions at 882 m (2895 ft).
+
+	Oe--0 to 65 cm (0 to 26 in); mucky peat, 50 percent brown (10YR 5/3) and 50 percent grayish brown (10YR 5/2) dry, 50 percent dark brown (10YR 3/3) rubbed and 50 percent very dark grayish brown (10YR 3/2) rubbed and moist; nonsticky, nonplastic; common very fine and fine roots throughout; moderately acid (pH 5.9); clear smooth boundary. (50 to 75 cm, 20 to 30 in)
+
+	Oef--65 to 85 cm (26 to 34 in); permanently frozen mucky peat, dark grayish brown (10YR 4/2) rubbed moist; noncoherent, nonsticky, nonplastic; common very fine and fine roots throughout; moderately acid (pH 5.9); clear wavy boundary. (10 to 25 cm, 4 to 10 in)
+
+	Cgf--85 to 200 cm (34 to 79 in); permanently frozen silt loam, gray (2.5Y 5/1) crushed moist; massive; loose, noncoherent, nonsticky, nonplastic; nonsmeary; neutral (pH 6.8). (100 to 140 cm, 39 to 55 in)
+
+TYPE LOCATION: North Copper River Survey Area, Alaska; latitude 62.74242 N, longitude -143.66893 W, 6959714.39 north, and 363650.29 east, zone 7, Datum WGS84.
+
+RANGE IN CHARACTERISTICS:
+
+Soil moisture regime: Udic
+Soil temperature regime: Gelic
+Mean annual soil temperature: -4 to 1 degrees C. (25 to 34 degrees F)
+Thickness of organic material: 60 to 85 cm (24 to 33 in)
+Depth to Aquic Conditions: 0 cm
+Depth to redoximorphic depletions: 60 to 100 cm (24 to 39 in)
+Depth to permafrost: 50 to 75 cm (20 to 30 in)
+
+Oe horizon:
+Hue: 7.5YR or 10YR
+Value: 3 to 5
+Chroma: 1 to 3
+Texture: peat to mucky peat
+Organic matter: 60 to 90 percent
+Reaction class: Very strongly acid to moderately acid (pH 4.5 to 6)
+
+Cf horizon:
+Hue: 2.5Yor 5Y
+Value: 4 to 5
+Chroma: 1 to 2
+Texture: silt loam to sandy loam
+Sand: 5 to 60 percent
+Silt: 28 to 83 percent
+Clay: 2 to 12 percent
+Organic matter: 0.4 to 3 percent
+Reaction class: slightly acid to neutral (pH 6.1 to 7.3)
+
+COMPETING SERIES: These are the Bolio (AK) and Wrangell (AK) soils.
+Bolio soils lack a mineral horizon within 100 cm (39 in) of the soil surface and occur on slight depressions or naturally drained lake basins in uplands and terraces.
+Wrangell soils have mineral soil contact within 60 cm (24 in) of the soil surface and occur on depressions on broad lacustrine terraces.
+
+GEOGRAPHIC SETTING:
+Elevation: 500 to 1200 meters (1640 to 3940 ft)
+Parent material: mossy organic materials over silty loess and or silty till
+Landform: depressions on till plains
+Slopes: 0 to 5 percent
+Mean annual precipitation: 400 to 800 mm (16 to 31 in)
+Mean annual air temperature: -4 to -2 degrees C. (25 to 28 degrees F)
+Frost free period: 36 to 90 days
+
+GEOGRAPHICALLY ASSOCIATED SOILS: These are the Ahtell and Hungryhollow soils. 
+Ahtell soils are well drained, lack permafrost, have folistic and umbric epipedons, and occur on hill tops, and hillside positions.
+Hungryhollow soils are poorly drained, lack permafrost, have a sapric horizon, and occur on depressions in interior valleys.
+
+DRAINAGE AND SATURATED HYDRAULIC CONDUCTIVITY: 
+Drainage class: Very poorly drained
+Saturated Hydraulic Conductivity: high in the unfrozen organic horizons, very low in the permafrost layers.
+Permeability: Rapid in the unfrozen organic horizons and impermeable in the frozen horizons.
+Runoff: negligible
+
+USE AND VEGETATION: 
+Use: wildlife habitat, recreation, and subsistence
+Native vegetation: Bigelow's sedge, water sedge, cotton grass, common spikerush, bluejoint grass, and sphagnum moss
+
+DISTRIBUTION AND EXTENT: MLRA 228 Interior Alaska Mountains. 
+Extent: limited
+
+SOIL SURVEY REGIONAL OFFICE (SSRO) RESPONSIBLE: Wasilla, Alaska
+
+SERIES ESTABLISHED: North Copper River Soil Survey, Alaska, 2024.
+
+REMARKS: Diagnostic features and horizons recognized in this profile include:
+
+Particle-size control section: 85 to 115 cm (33 to 45 in)
+
+Aquic Conditions: 0 to 200 cm (0 in) (Oe, Oef, and Cgf horizons)
+
+Hemic soil Materials: 0 to 85 cm (0 to 33 in) (Oe and Oef horizon)
+
+Permafrost: 65 to 200 cm (26 to 79 in) (Oef, and Cgf horizon)
+
+Reduced Matrix: 85 to 200 cm (33 to 79 in) (Cgf Horizon)
+
+ADDITIONAL DATA:
+
+User pedon Id: 2023AK261827
+
+National Cooperative Soil Survey
+U.S.A.

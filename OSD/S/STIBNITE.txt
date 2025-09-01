@@ -1,0 +1,136 @@
+LOCATION STIBNITE               AK
+
+Established Series
+SDB/MJS
+08/2025
+
+STIBNITE SERIES
+
+Depth class: very deep
+Drainage class: well drained
+Parent material: organic material over coarse-loamy till
+Landscape: foothills and mountains
+Landform: kame moraines, mountain slopes, till plains, and kettles
+Slope: 4 to 60 percent
+Mean annual precipitation: about 600 mm (24 in)
+Mean annual air temperature: about -3 degrees C (27 F)
+Frost-free period: 32 to 103 days
+
+TAXONOMIC CLASS: Coarse-loamy, mixed, superactive, nonacid, subgelic Typic Haplogelepts
+
+TYPICAL PEDON: Stibnite silt loam in a lichen dominated community on a south facing concave, concave toeslope on a slope of 4% at an elevation of 1032 m (3385 ft).
+
+	Oe--0 to 6 cm (0 to 2 in); moderately decomposed plant material, dark brown (7.5YR 3/3) dry, very dark brown (7.5YR 2.5/3) moist; many very fine and fine roots throughout; strongly acid (pH 5.3); clear smooth boundary (2 to 8 cm, 1 to 3 in)
+
+	A--6 to 18 cm (2 to 7 in); silt loam, very dark grayish brown (10YR 3/2) moist; moderate medium subangular blocky structure; soft, very friable, slightly sticky, slightly plastic; common very fine and fine roots throughout; very fine and fine dendritic tubular pores; strongly acid (pH 5.2); clear wavy boundary (4 to 19 cm, 2 to 7 in)
+
+	Bw--18 to 34 cm (7 to 13 in); loam, dark yellowish brown (10YR 3/4) moist; weak medium subangular blocky structure; soft, very friable, slightly sticky, slightly plastic; few very fine and fine roots throughout; very fine and fine dendritic tubular pores; 5 percent gravel by volume; moderately acid (pH 5.6); gradual wavy boundary (13 to 39 cm, 5 to 15 in)
+
+	BC--34 to 150 cm (13 to 59 to in); sandy loam, dark olive brown (2.5Y 3/3) moist; weak fine granular structure; soft, very friable, slightly sticky, slightly plastic; few very fine roots throughout; interstitial pores; 8 percent gravel by volume; strongly acid (pH 5.3). (85 to 131 cm, 33 to 52 in)
+
+TYPE LOCATION: North Copper River Soil Survey Area, Alaska; latitude 63.07123, longitude -145.58508, UTM 6994313.01 north and UTM 571490.34 east, zone 6, Datum WGS84.
+
+RANGE IN CHARACTERISTICS:
+
+Soil moisture regime: udic
+Soil temperature regime: cryic
+Mean annual soil temperature: -4 to -2 degrees C. (25 to 28 degrees F)
+Thickness of organic material: 2 to 8 cm (1 to 3 in)
+Thickness of epipedon: 6 to 27 cm (2 to 11 in)
+Thickness of cambic horizon: 15 to 38 cm (6 to 15 in)
+
+Oi, Oe, Oa example horizon:
+Hue: 7.5YR or 10YR
+Value: 2 to 3
+Chroma: 1 to 3
+Texture: Slightly decomposed organic material, moderately decomposed organic material, highly decomposed organic material.
+Organic matter: 60 to 90 percent
+Reaction class: very strongly acid to strongly acid (pH 4.8 to 5.6)
+
+A horizon:
+Hue: 7.5YR or 10YR
+Value: 2 to 3
+Chroma: 1 to 2
+Texture: silt loam
+Sand: 15 to 40 percent
+Silt: 52 to 77 percent
+Clay: 8 to 15 percent
+Rock fragments: 0 to 8 percent gravels
+Organic matter: 4 to 10 percent
+Reaction class: very strongly acid to slightly acid (pH 5.0 to 6.1)
+
+Bw horizon:
+Hue: 10YR or 2.5Y
+Value: 3 to 5
+Chroma: 2 to 4
+Texture: loam, gravelly loam
+Sand: 35 to 50 percent
+Silt: 32 to 50 percent
+Clay: 10 to 18 percent
+Rock fragments: 3 to 25 percent gravels
+Organic matter: 1 to 3 percent
+Reaction class: strongly acid to neutral (pH 5.2 to 6.8)
+
+BC or C horizon:
+Hue: 10YR or 2.5Y
+Value: 3 to 4
+Chroma: 2 to 4
+Texture: sandy loam, gravelly sandy loam
+Sand: 50 to 75 percent
+Silt: 12 to 45 percent
+Clay: 5 to 16 percent
+Rock fragments: 5 to 20 percent gravels
+Organic matter: 0.1 to 1.0 percent
+Reaction class: very strongly acid to slightly acid (pH 5.0 to 6.2)
+
+COMPETING SERIES: There are no competing series.
+
+GEOGRAPHIC SETTING:
+Elevation: 600 to 1600 meters (1970 to 5250 ft)
+Parent material: organic material over coarse-loamy till
+Landform: Landform: kame moraines, mountain slopes, till plains, and kettles
+Slopes: 5 to 60 percent
+Mean annual precipitation: 400 to 800 mm (16 to 31 in)
+Mean annual air temperature: -4 to -2 degrees C. (25 to 28 degrees F)
+Frost-free period: 32 to 103 days
+
+GEOGRAPHICALLY ASSOCIATED SOILS: These are the Ahtell, Cirquecreek, Haleycreek, Ottaway, Ride, and Tsina series. 
+Ahtell soils have folistic and umbric epipedons and occur on hill tops and hillside positions.
+Cirquecreek soils are well drained, have a cambic horizon, and occur on saddles and mountain slopes
+Haleycreek soils have a mollic epipedon and occur on hillslopes of mountains and river valleys.
+Ottoway soils have permafrost between 50 and 100cm (20 to 39 in), have a mollic epipedon, form on slopes over 25 percent, and occur on hills and mountain slopes.
+Ride soils are somewhat excessively drained, have a cambic horizon, and occur on mountain slopes and hillslopes.
+Tsina soils are extremely flaggy starting at a depth of 10 to 38 cm (4 to 15 in), and occur on mountain slopes above 800 m (2600ft) elevation.
+
+DRAINAGE AND SATURATED HYDRAULIC CONDUCTIVITY: 
+Drainage class: well drained
+Saturated Hydraulic Conductivity: very high in the Oi horizon, moderately high in the A horizon, high in the Bw and BC horizons.
+Permeability: very rapid in the Oi horizon, moderate in the A horizon, rapid in the Bw and BC horizons.
+
+Runoff: high
+
+USE AND VEGETATION: 
+Use: wildlife habitat, recreation, and subsistence
+Native vegetation: lichen, moss, willow
+
+DISTRIBUTION AND EXTENT: MLRA 228 Interior Alaska mountains.
+Extent: moderate
+
+SOIL SURVEY REGIONAL OFFICE (SSRO) RESPONSIBLE: Wasilla, Alaska
+
+SERIES ESTABLISHED: North Copper River Soil Survey, Alaska, 2024.
+
+REMARKS: Diagnostic features and horizons recognized in this profile include:
+
+Particle-size control section: 31 to 106 cm (12 to 42 in)
+
+Ochric epipedon: 0 to 12 cm (0 to 5 in) (Oi, A horizon)
+
+Cambic horizon: 18 to 34 cm (7 to 13 in) (Bw horizon)
+
+ADDITIONAL DATA:
+
+User pedon Id: 2023AK261288
+
+National Cooperative Soil Survey
+U.S.A.
