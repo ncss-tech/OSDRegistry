@@ -1,0 +1,117 @@
+LOCATION BUENAVISTA             CA
+
+Established Series
+CES/AGB
+09/2025
+
+BUENAVISTA SERIES
+
+The Buenavista series consists of very deep, well drained soils formed in alluvium. The Buenavista soils are stream terraces and terrace remnants. Slopes range from 0 to 15 percent. The mean annual precipitation is about 550 mm and the mean annual air temperature is about 17 degrees C.
+
+TAXONOMIC CLASS: Fine-loamy, mixed, superactive, thermic Ultic Haploxeralfs
+
+TYPICAL PEDON: Buenavista fine sandy loam on a west-facing (288 degree), 3 percent slope at an elevation of 78 meters. Vegetation is a planted mix of grasses and forbs in a non-irrigated pasture. (Colors are for dry soil unless otherwise noted. When described on Thursday, June 6, 2024, the soil was dry to 7 cm and moist below).
+
+ A--0 to 7 cm; light brown (7.5YR 6/4) fine sandy loam, dark brown (7.5YR 3/4) moist; 9 percent clay; weak very thick platy parting to moderate medium granular structure; moderately hard, firm, nonsticky, nonplastic; common very fine and fine roots throughout; common very fine and fine tubular pores; 1 percent subangular very strongly cemented mixed gravel; strongly acid (pH 5.4); abrupt smooth boundary. (5 to 25 cm thick)
+
+ BA--7 to 35 cm; brown (7.5YR 5/4) fine sandy loam, dark brown (7.5YR 3/4) moist; 11 percent clay; weak very coarse prismatic structure; moderately hard, firm, nonsticky, nonplastic; common very fine and fine roots throughout; common very fine and fine tubular pores; 2 percent rounded indurated mixed gravel; strongly acid (pH 5.2); clear smooth boundary. (0 to 30cm thick)
+
+ Bt1--35 to 60 cm; brown (7.5YR 5/4) fine sandy loam, dark brown (7.5YR 3/4) moist; 15 percent clay; weak very coarse prismatic structure; hard, very firm, slightly sticky, nonplastic; common very fine and few fine roots throughout; common very fine and fine tubular pores; 15 percent distinct clay films on all faces of peds and 15 percent distinct clay films on surfaces along pores; 1 percent subangular indurated mixed gravel; moderately acid (pH 5.6); clear smooth boundary. (combined thickness of the upper Bt horizons is 30 to 100 cm)
+
+ Bt2--60 to 80 cm; brown (7.5YR 5/4) loam, dark brown (7.5YR 3/4) moist; 25 percent clay; moderate very coarse prismatic structure; hard, very firm, moderately sticky, moderately plastic; few very fine roots throughout; few very fine irregular pores; 20 percent distinct clay films on all faces of peds and 20 percent distinct clay films on surfaces along pores; moderately acid (pH 5.6); clear smooth boundary.
+
+ Bt3--80 to 115 cm; brown (7.5YR 4/4) silty clay loam, dark brown (7.5YR 3/4) moist; 38 percent clay; moderate medium subangular blocky structure; very hard, extremely firm, very sticky, very plastic; few very fine roots throughout; few very fine irregular pores; 10 percent distinct clay films on surfaces along pores and 15 percent distinct clay films on all faces of peds; moderately acid (pH 5.8); clear smooth boundary. (combined thickness of the lower Bt horizons is 25 to 100 cm)
+
+ Bt4--115 to 160 cm; brown (7.5YR 5/4) clay loam, dark brown (7.5YR 3/4) moist; 32 percent clay; weak medium subangular blocky structure; hard, very firm, moderately sticky, moderately plastic; few very fine roots throughout; few very fine irregular pores; 10 percent distinct clay films on surfaces along pores and 15 percent distinct clay films on all faces of peds; 5 percent subrounded indurated mixed gravel; moderately acid (pH 5.6) 
+
+TYPE LOCATION: Amador County, California, about 3.8 km NW of Ione and about 500 m SW of intersection of Highway 104 and Winter Road. WGS84 38.3700910 latitude and -120.9714980 longitude. UTM Zone 10 677207 meters E 4248826 meters N NAD83.
+
+RANGE IN CHARACTERISTICS:
+Soil temperature: The mean annual soil temperature at 50 cm depth is 15 to 17 degrees. The difference between mean summer and mean winter soil temperature is greater than 6 degrees C. The soils have a thermic temperature regime.
+
+Soil moisture: The soils have a xeric soil moisture regime. The soil moisture control section is dry in all parts from about June to October (about 120 days).
+
+Diagnostic Feature(s):
+  Ochric epipedon thickness: 0 to 40 cm
+  Argillic horizon thickness: 50 to 160 cm
+
+Base saturation: 35 to 75 percent in one or more subhorizons of the argillic horizon (by sum of cations)
+
+Particle size control section weighted average:
+  Rock fragments: 0 to 15 percent gravel
+  Clay content: 18 to 35 percent
+
+A horizon
+  Hue: 5YR, 7.5YR
+  Value: 4 or 5 dry, 3 or 4 moist
+  Chroma: 3 or 4, dry or moist
+  Texture: fine sandy loam, loamy fine sand
+  Clay content: 5 to 12 percent
+  Rock fragments: 0 to 15 percent
+  Reaction: moderately to strongly acid
+
+BA horizon, where present
+  Hue: 5YR, 7.5YR
+  Value: 5 dry, 3 or 4 moist
+  Chroma: 4, dry or moist
+  Texture: loam, fine sandy loam
+  Clay content: 10 to 18 percent
+  Rock fragments: 0 to 15 percent
+  Reaction: moderately to strongly acid
+
+Upper Bt horizons
+  Hue: 5YR, 7.5YR
+  Value: 4 to 6 dry, 3 or 4 moist
+  Chroma: 4 to 6, dry or moist
+  Texture: sandy clay loam, loam, fine sandy loam
+  Clay content: 15 to 30 percent
+  Rock fragments: 0 to 15 percent
+  Reaction: moderately to very strongly acid
+
+Lower Bt horizons
+  Hue: 5YR, 7.5YR
+  Value: 4 to 6 dry, 3 or 4 moist
+  Chroma: 4 to 6, dry or moist
+  Texture: silty clay loam, clay loam, sandy clay loam
+  Clay content: 30 to 35 percent
+  Rock fragments: 0 to 15 percent
+  Reaction: moderately to very strongly acid
+
+BC horizon, where present
+  Hue: 7.5YR
+  Value: 6 dry, 4 or 5 moist
+  Chroma: 4 or 5, dry or moist
+  Texture: sandy clay loam
+  Clay content: 15 to 25 percent
+  Rock fragments: 10 to 30 percent
+  Reaction: strongly acid to very strongly acid
+
+COMPETING SERIES: These are the Bearwallow, Churn, Donpedro, Loafercreek, Mounthope, Shepherdsaddle, Sommeyflat, and Wisheylu soils. Bearwallow soils have paralithic contact within 100 to 150 cm. Churn soils have an annual precipitation range of 30 to 45 inches (762 to 1143 millimeters). Donpedro soils have lithic contact within 50 to 100 cm. Loafercreek soils have paralithic contact within 50 to 100 cm. Mounthope have paralithic contact within 100 to 150 cm. Shepherdsaddle soils are on hills and mountain slopes and do not have colors redder than 7.5YR. Somneyflat soils have colors of 2.5YR in the argillic horizon. Wisheylu soils are moderately well drained and have colors of 2.5Y in the lower Bt horizons.
+
+GEOGRAPHIC SETTING: The Buenavista soils are on stream terraces and terrace remnants. Slopes range from 0 to 15 percent. These soils formed in alluvium. Elevation is 50 to 235 meters. The climate is Mediterranean with warm, dry summers and cool, moist winters. The mean annual precipitation is 420 to 610 mm and the mean annual air temperature is 16 to 17 degrees C. The frost-free season is 320 to 355 days.
+
+GEOGRAPHICALLY ASSOCIATED SOILS: These are the Mokelumne soils. The Mokelumne soils are fine, are on footslopes of hills, and are moderately deep to paralithic contact.                            
+
+DRAINAGE AND PERMEABILITY: Well drained, saturated hydraulic conductivity is moderately high to high throughout the soil profile.
+
+USE AND VEGETATION: This soil is used for pasture and hay land. Vegetation is native, naturalized, and cultivated grasses and forbs, with small amounts of valley oak.
+
+DISTRIBUTION AND EXTENT: Sierra Nevada Foothills of California; MLRA 18. These soils are of small extent.
+
+SOIL SURVEY REGIONAL OFFICE (SSRO) RESPONSIBLE: Davis, California
+
+SERIES ESTABLISHED: Amador County, California, 2025. The name comes from Buena Vista, a community near where the series originated.
+
+REMARKS: 
+  Particle Size Control Section for this pedon: 35 to 85 cm
+  Diagnostic horizons and features recognized in this pedon are: 
+     Ochric Epipedon            0 to 35 cm
+     Argillic Horizon           35 to 160 cm
+
+ADDITIONAL DATA: 
+  NASIS User Pedon ID: 2024CA0055030
+
+Soil classified using the 13th Edition of the Keys to Soil Taxonomy.
+
+National Cooperative Soil Survey
+U.S.A.
