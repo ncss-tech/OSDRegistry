@@ -1,52 +1,140 @@
 LOCATION ALGOMA                 OR
 
 Established Series
-Rev. JSC/AON
-05/2001
+Rev. JSC/AON/BTH/CEG
+09/2025
 
 ALGOMA SERIES
 
-The Algoma consists of deep, poorly drained soils that formed in stratified lacustrine deposits. Algoma soils are on drained lake bottoms and flood plains and have slopes of 0 to 1 percent. The mean annual precipitation is about 12 inches and the mean annual air temperature is about 48 degrees F.
+Landscape--intermontane basins
+Landform--drained lake bottoms, flood plains, relict lakebeds
+Slope--0 to 1 percent
+Parent material--stratified lacustrine deposits consisting of diatoms, volcanic ash, and similar materials in the upper part and fine sand in the lower part
+Mean annual precipitation--about 305 mm
+Mean annual air temperature--about 9 degrees C
+Depth class--deep
+Drainage class--poorly drained
+Soil moisture regime--aquic
+Soil temperature regime--mesic
+Soil moisture subclass--typic
 
 TAXONOMIC CLASS: Ashy over sandy or sandy-skeletal, glassy over mixed, calcareous, mesic Aquandic Endoaquolls
 
-TYPICAL PEDON:  Algoma silt loam, irrigation pasture. (Colors are for moist soil unless otherwise noted.)
+TYPICAL PEDON: Algoma silt loam, irrigated pasture, on a nearly level slope at 1247 m elevation
 
-     Ap--0 to 11 inches; black (10YR 2/1) silt loam, gray (10YR 5/1) dry; weak medium platy structure; friable, slightly sticky and nonplastic; many roots; many very fine pores; weakly effervescent; strongly alkaline (pH 8.7); abrupt smooth boundary. (7 to 15 inches thick)
+ Ap--0 to 28 cm; ashy silt loam, gray (10YR 5/1) dry, black (10YR 2/1) moist; weak medium platy structure; friable, slightly sticky and nonplastic; many roots throughout; weakly effervescent; strongly alkaline (pH 8.7); abrupt smooth boundary.
 
-     C1--11 to 24 inches; grayish brown (2.5Y 5/2) silt loam, white (N 8/) dry; common fine olive brown mottles; weak thin platy structure; firm, slightly sticky and nonplastic; many roots; common very fine tubular pores; weakly effervescent; strongly alkaline (pH 8.6); abrupt smooth boundary. (8 to 15 inches thick)
+ Cg1--28 to 61 cm; ashy silt loam, white (N 8/0) dry, grayish brown (2.5Y 5/2) moist; weak thin platy structure; firm, slightly sticky and nonplastic; many roots throughout; common very fine tubular pores; common fine masses of iron-manganese, olive brown (2.5Y 4/4) moist; weakly effervescent; strongly alkaline (pH 8.6); abrupt smooth boundary.
 
-     C2--24 to 30 inches; gray (2.5Y 5/1) silt loam, white (N 8/) moist; common medium light olive brown (2.5Y 5/4) mottles; weak thin platy structure; firm, slightly sticky and nonplastic; common roots; common very fine tubular pores; strongly alkaline (pH 8.5); abrupt smooth boundary. (5 to 10 inches thick)
+ Cg2--61 to 76 cm; ashy silt loam, white (N 8/0) dry, gray (2.5Y 5/1) moist; weak thin platy structure; firm, slightly sticky and nonplastic; common roots throughout; common very fine tubular pores; common medium masses of iron-manganese masses, light olive brown (2.5Y 5/4) moist; strongly alkaline (pH 8.5); abrupt smooth boundary.
 
-     IIC3--30 to 34 inches; dark grayish brown (2.5Y 4/2) fine sand, light gray (10YR 7/1) dry; massive very friable; common roots; many very fine pores; strongly alkaline (pH 8.5); gradual smooth boundary. (3 to 5 inches thick)
+ 2Cg3--76 to 86 cm; fine sand, light gray (10YR 7/1) dry, dark grayish brown (2.5Y 4/2) moist; massive; very friable; common roots throughout; many very fine pores; strongly alkaline (pH 8.5); gradual smooth boundary.
 
-     IIC4--34 to 60 inches; dark gray (2.5Y 4/1) fine sand, light gray (10YR 6/1) dry; common medium olive brown (2.5Y 4/4) mottles; massive; very friable; common very fine roots; many very fine pores; moderately alkaline (pH 8.4).
+ 2Cg4--86 to 152 cm; fine sand, gray (10YR 6/1) dry, dark gray (2.5Y 4/1) moist; massive; very friable; common very fine roots throughout; many very fine pores; common medium masses of iron-manganese, olive brown (2.5Y 4/4) moist; moderately alkaline (pH 8.4).
 
-TYPE LOCATION:  Klamath County, Oregon; about 8 miles southwest of Klamath Falls; 2,100 feet south and 700 feet west of the NE corner section 9, T.40S., R.8E.
+TYPE LOCATION: Klamath County, Oregon; about 13 km southwest of Klamath Falls, 640 m south and 210 m west of the NE corner of sec. 9, T. 40 S., R. 8E., Willamette Meridian; Hamaker Mountain, Oregon USGS 7.5 minute topographic quadrangle; latitude 42.1058010 degrees north, longitude 121.8769990 degrees west, datum WGS84 (coordinates derived from topographic map legal description)
 
-RANGE IN CHARACTERISTICS:  The mean annual soil temperature ranges from 47 degrees to 51 degrees F. The soils are wet throughout in most months unless drained. Some part of the mollic epipedon has more than 15 percent exchangeable sodium, decreasing at depth below 20 inches. The section between depths of 10 and 20 inches is calcareous in all parts.  The mollic epipedon is 7 to 15 inches thick and has estimated bulk density from 0.4 to 0.7 gm/cc. The silty upper part of the soil has an exchange complex dominated by amorphous material. Depth to the sandy IIC horizon ranges from 20 to 40 inches.
+RANGE IN CHARACTERISTICS:
 
-The A horizon has hue of neutral or 10YR, value of 4 or 5 dry, and chroma of 0 or 1 moist and dry.
+Mean annual soil temperature--8 to 11 degrees C
+Moisture control section--30 to 90 cm; wet throughout in most months unless drained
+Thickness of mollic epipedon--18 to 40 cm
+Depth to lithologic discontinuity--50 to 100 cm
+Depth to aquic conditions--0 to 25 cm
+Depth to redoximorphic features--20 to 40 cm
+Depth to high water table--0 to 25 cm
 
-The C horizon has hue of neutral or 10YR, or 2.5Y, value of 3 through 6 moist, 6 through 8 dry, and chroma of 0 through 2 moist and dry. It commonly is mottled or has neutral hue.
+Some part of the mollic epipedon has more than 15 percent exchangeable sodium, decreasing at depths below 50 cm. It has an estimated 1/3-bar bulk density of 0.4 to 0.7 g/cm3.
 
-COMPETING SERIES:  These are the Cocolalla, Conboy, Cummings, Teeters, Tisch, and Tulana series in similar families. Cocolalla, Conboy, Tisch and Tulana soils lack contrasting textures and are noncalcareous throughout. Cummings soils predominantly are silty clay loam in the control section, lack contrasting textures, and have frigid soil temperature. Teeters soils lack the contrasting sandy C horizons to depth over 40 inches.
+The zone between 25 and 50 cm is calcareous in all parts.
 
-GEOGRAPHIC SETTING:  Algoma soils are on drained lake bottoms and flood plains at elevations of 4,085 to 4,150 feet. Slope is less than 1 percent. The soils formed in recent lake sediments consisting of diatoms, ash and similar materials in the upper part and fine sand in the lower part. Mean annual precipitation ranges from 10 to 14 inches.  the mean January temperature is 27 degrees to 29 degrees F., the mean July temperature is 65 degrees to 69 degrees F., and mean annual temperature is 46 degrees to 49 degrees F. The frost-free period is 80 to 110 days.
+The silty upper part (A and Cg horizons) of the soil has an exchange complex dominated by amorphous material.
 
-GEOGRAPHICALLY ASSOCIATED SOILS:  These are the Henley soils and the competing Teeters and Tulana soils. Henley soils have 40 to 70 percent fine sand and coarser, lack mollic epipedons and have duripans at depths of 20 to 40 inches. They are on low terraces above Algoma soils.
+Particle-size control section
+*Clay content--5 to 25 percent
+*Pararock fragment content--0 to 10 percent fine pumice paragravel
 
-DRAINAGE AND PERMEABILITY:  Poorly drained; very slow runoff; slow permeability through the silty upper part of the soil and moderately rapid through the sandy lower part.
+Estimated properties, A and Cg horizons
+*Ammonium oxalate extractable Al plus 1/2 Fe--0.2 to 0.4 percent
+*Volcanic glass content--30 to 60 percent
+*1/3-bar bulk density--0.6 to 1.10 g/cm3
+*1500 kPa water (air-dried samples)--10 to 40 percent
 
-USE AND VEGETATION:  Algoma soils are used for irrigated barley, pasture, alfalfa, and wildlife habitat. Unreclaimed, drained areas have a plant cover consisting mostly of alkali saltgrass.
 
-DISTRIBUTION AND EXTENT:  Drained lakes and marshes in south-central Oregon and adjoining parts of northern California. The soils are moderately extensive.
+A horizon
+Hue-neutral, 10YR
+Value--4 or 5 dry
+Chroma--0 or 1, dry or moist
+Fine-earth texture--ashy silt loam, ashy loam
+Clay content--10 to 25 percent
+Reaction--strongly alkaline (pH 8.5 to 9.0)
+Thickness--20 to 40 cm
 
-MLRA SOIL SURVEY REGIONAL OFFICE (MO) RESPONSIBLE: Davis, California
+Cg horizons
+Hue--neutral, 10YR, or 2.5Y dry or moist
+Value--6 to 8 dry, 3 to 6 moist
+Chroma--0 to 2, dry or moist
+Fine-earth texture--ashy silt loam, ashy loam
+Clay content--10 to 25 percent
+Pararock fragment content--0 to 2 percent pumice paragravels
+Reaction--strongly alkaline (pH 8.5 to 9.0)
+Thickness--12 to 40 cm
 
-SERIES ESTABLISHED:  Klamath County, Oregon, 1977
+2Cg horizons
+Hue--neutral, 10YR, or 2.5Y dry or moist
+Value--6 to 8 dry, 3 to 6 moist
+Chroma--0 to 2, dry or moist
+Fine-earth texture--ashy fine sandy loam, ashy loamy sand, loamy sand, fine sand, ashy sand, sand, ashy coarse sand
+Clay content--0 to 25 percent
+Pararock fragment content--0 to 10 percent pumice paragravels
+Reaction--moderately to strongly alkaline (pH 7.9 to 9.0)
+
+COMPETING SERIES:
+There are no series in this family at this time.
+
+GEOGRAPHIC SETTING:
+Elevation--1200 to 1350 m
+Climate--cool, dry summers and cold, wet winters
+Mean annual air temperature--7 to 11 degrees C
+Mean January air temperature-- -3 to -2 degrees C
+Mean July air temperature--18 to 21 degrees C
+Mean annual precipitation--250 to 600 mm
+Frost-free period--50 to 110 days
+
+GEOGRAPHICALLY ASSOCIATED SOILS:
+Henley--on low terraces above Algoma soils; 40 to 70 percent fine sand and coarser; lacks mollic epipedon; 50 to 100 cm to a duripan (moderately deep)
+Teeters--on low terraces above Algoma soils; diatomaceous silt loam and silt textures throughout
+Tulana--on low terraces above Algoma soils; noncalcareous throughout
+
+DRAINAGE AND SATURATED HYDRAULIC CONDUCTIVITY:
+Drainage class--poorly drained
+Saturated hydraulic conductivity (Ksat)-- moderately low to moderately high above the lithological discontinuity; high to very high below the lithological discontinuity
+Ponding--frequent, long ponding December to May up to 30 cm deep
+
+USE AND VEGETATION:
+Use--irrigated barley, pasture, alfalfa; wildlife habitat
+Vegetation--unreclaimed, drained areas have a plant cover consisting mostly of alkali saltgrass
+
+DISTRIBUTION AND EXTENT: Klamath and Shasta Valleys and Basins, south-central Oregon and northern California; MLRA 21; moderate extent
+
+SOIL SURVEY REGIONAL OFFICE (SSRO) RESPONSIBLE: Davis, California
+
+SERIES ESTABLISHED: Klamath County, Oregon; 1977
+
+REMARKS:
+Diagnostic horizons and features in this pedon
+*Particle-size control section--zone from 25 to 100 cm
+*Mollic epipedon--Ap horizon
+*Aquic conditions--all horizons
+*Endosaturation--all horizons
+*Volcanic glass--Ap, Cg1, Cg2 horizons
+*Depth to lithologic discontinuity--76 cm
+*Redoximorphic concentrations--Cg1, Cg2, 2Cg4 horizons
+*Redoximorphic depletions (depleted matrix)--Cg1, Cg2, 2Cg3, 2Cg4 horizons
+
+ADDITIONAL DATA:
+NASIS SITE ID--1985OR035001
+NASIS PEDON ID--1985OR035001
 
 National Cooperative Soil Survey
-U. S. A.
-
-
+U.S.A.
