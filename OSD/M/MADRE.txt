@@ -2,7 +2,7 @@ LOCATION MADRE                  TX
 
 Established Series
 DNB-JKW-RM
-08/2025
+09/2025
 
 MADRE SERIES
 
@@ -108,7 +108,7 @@ Mustang soils: are not sodic, have a sodium adsorption ratio less than 13, and a
 Novillo soils: are slightly lower on the landscape, have a sodium adsorption ratio of less than 13, and are in fresh-water marshes.
 Padre and Panam soils: are on slightly higher landscapes on low mounds or stabilized dunes and have lower sodium adsorption ratios.
 
-DRAINAGE AND PERMEABILITY:
+DRAINAGE AND SATURATED HYDRAULIC CONDUCTIVITY:
 Drainage class: Poorly drained
 Saturated hydraulic conductivity: High to very high
 Flooding frequency and duration: Occasional, brief

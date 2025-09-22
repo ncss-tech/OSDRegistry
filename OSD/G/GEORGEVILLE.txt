@@ -1,112 +1,169 @@
-LOCATION GEORGEVILLE            SC+AL GA NC VA
+LOCATION GEORGEVILLE            NC+AL GA SC VA
 
 Established Series
-Rev.DJD;DTA
-10/2021
+Rev. DTA
+09/2025
 
 GEORGEVILLE SERIES
 
-The Georgeville series consists of very deep, well drained, moderately permeable soils that formed in material mostly weathered from fine-grained  metavolcanic rocks of the Carolina Slate Belt.  Slopes are 2 to 50 percent.
+MLRA(s): 136 (thermic part)
+Soil Survey Regional Office (SSRO) Responsible: Southeast
+Depth Class: Very deep 
+Agricultural Drainage Class: Well drained 
+Index Surface Runoff: Medium  
+Saturated Hydraulic Conductivity Class: Moderately high 
+Shrink-Swell Potential: Low
+Landscape: Piedmont uplands
+Landform:  Interstream divides, ridges, and side slopes
+Parent Material: Residuum weathered from fine-grained metavolcanic rock of the Carolina Slate Belt
+Slope: 2 to 50 percent 
+Mean Annual Air Temperature (type location): 16 degrees C (60 degrees F) 
+Mean Annual Precipitation (type location): 1194 millimeters (47 inches) 
 
 TAXONOMIC CLASS: Fine, kaolinitic, thermic Typic Kanhapludults
 
-TYPICAL PEDON:  Georgeville silt loam - forested.  (Colors are for moist soil.)
+TYPICAL PEDON: Georgeville silt loam--forested. (Colors are for moist soil.)
 
-    Oe--0 to 1 inches; moderately decomposed organic matter.
+  A--0 to 13 centimeters (0 to 5 inches); strong brown (7.5YR 4/6) silt loam; moderate medium granular structure; friable; common fine and medium roots; very strongly acid; clear smooth boundary. (5 to 23 centimeters (2 to 9 inches) thick)
 
-    A--1 to 5 inches; dark yellowish brown (10YR 4/4) silt loam; weak medium subangular blocky structure; friable; many fine and common medium roots; strongly acid; abrupt smooth boundary.  (2 to 9 inches thick)
+  Bt1--13 to 79 centimeters (5 to 31 inches); red (2.5YR 5/8) clay; moderate medium subangular blocky structure; firm; few fine and medium roots; few distinct clay films on faces of peds; very strongly acid; gradual wavy boundary.
 
-    E--5 to 7 inches; yellowish brown (10YR 5/4) silt loam; weak medium subangular blocky structure; friable; many fine and medium roots; strongly acid; abrupt broken boundary.  (0 to 5 inches thick)
+  Bt2--79 to 107 centimeters (31 to 42 inches); red (2.5YR 5/8) silty clay with common medium faint reddish yellow (5YR 6/8) mottles; moderate medium subangular blocky structure; firm; few fine roots; common distinct clay films on faces of peds; very strongly acid; gradual wavy boundary. (Combined thickness of the Bt horizon ranges from 61 to 122 centimeters (24 to 48 inches) or more)
 
-    Bt1--7 to 11 inches; yellowish red (5YR 5/6) silt clay loam; weak fine subangular blocky structure; friable; common fine and few medium roots; few distinct clay films on faces of peds; common fine pores; strongly acid; clear smooth boundary.
+  BC--107 to 122 centimeters (42 to 48 inches); light red (2.5YR 6/8) silty clay loam; weak medium subangular blocky structure; friable; strongly acid; gradual smooth boundary. (13 to 63 centimeters (5 to 25 inches) thick)
 
-    Bt2--11 to 29 inches; red (2.5YR 4/8) clay; moderate fine subangular blocky structure; friable; few fine and medium roots; common distinct clay films on faces of peds; common fine pores; strongly acid; clear smooth boundary.
+  C--122 to 163 centimeters (48 to 64 inches); mottled red (2.5YR 4/8), reddish yellow (5YR 7/6), and yellow (10YR 7/8) silt loam saprolite with pockets of silty clay loam; massive; very friable; very strongly acid. (13 to 63 centimeters (5 to 25 inches) thick)
 
-    Bt3--29 to 42 inches; red (2.5YR 4/6) clay with few fine prominent strong brown (7.5YR 5/8) mottles; moderate fine and medium subangular blocky structure; friable; common distinct clay films on faces of peds; few fine pores; strongly acid; gradual smooth boundary.
+TYPE LOCATION: Montgomery County, North Carolina; 5.5 miles north on US 220 to Secondary Road 1362 at Steads; 1.6 miles southeast of Steads on Secondary Road 1362; 50 feet east of Secondary Road 1362, in woods.  USGS Star, North Carolina topographic quadrangle. 
 
-    Bt4--42 to 54 inches; red (2.5YR 4/6) silty clay loam with few fine prominent yellowish brown (10YR 5/6) and  brownish yellow (10YR 6/8) mottles; moderate coarse subangular blocky structure; friable; few fine roots; common distinct clay films on faces of peds; few fine pores; few fine flakes of mica; strongly acid; gradual smooth boundary.  (Combined thickness of the Bt horizon ranges from 24 to 48 inches or more)
+Latitude--35.565
+Longitude-- -79.765
+Datum--WGS84
 
-    BC--54 to 64 inches; red (2.5YR 4/6) silty clay loam with common fine and medium prominent reddish yellow (7.5YR 6/8) and few fine distinct dark yellowish brown (10YR 4/6) mottles; weak coarse and very coarse subangular blocky structure; friable; few fine roots; few faint clay films on faces of peds; few fine flakes of mica; strongly acid.  (5 to 25 inches thick)
+RANGE IN CHARACTERISTICS: 
+Depth to Base of Argillic Horizon: Greater than 76 centimeters (30 inches)
+Thickness of Clayey part of Argillic Horizon: 61 to 122 centimeters (24 to 48 inches)
+Depth to Bedrock: Greater than 152 centimeters (60 inches) 
+Depth to Seasonal High Water Table: Greater than 152 centimeters (60 inches)
+Rock Fragment Content: 0 to 20 percent, by volume, in the A and E horizons, and 0 to 10 percent, by volume, in the Bt, BC and C horizons 
+Mica Content: 0 to 2 percent, by volume, mica flakes in the lower part of the solum 
+Soil Reaction: Very strongly acid to neutral in the A horizon and very strongly acid or strongly acid throughout the rest of the profile, unless limed 
 
-TYPE LOCATION:  Lancaster County, South Carolina; 6 miles northeast of Lancaster, South Carolina; 1.3 miles east of junction of State Highway 28 and 82; 60 feet south of State Highway 28; and 235 feet southeast of power pole no. COA31.
+RANGE OF INDIVIDUAL HORIZONS: 
+A or Ap horizon:
+Color--hue of 5YR to 2.5Y, value of 4 or 5 chroma of 0 to 8. Where eroded, hue of 2.5YR to 7.5YR, value of 4 or 5, chroma of 4 to 8.  
+Texture (fine-earth fraction)--silt loam, loam, or very fine sandy loam. Where eroded, clay loam or silty clay loam
 
-RANGE IN CHARACTERISTICS:  Thickness of the clayey part of the Bt horizon ranges from 24 to 48 inches.  Depth to the bottom of the clayey Bt horizon exceeds 30 inches.  Depth to a lithic contact is more than 60 inches.  The soil is very strongly acid to neutral in the A horizon and very strongly acid or strongly acid throughout the rest of the profile.  Content of rock fragments ranges 0 to 20 percent in the A and E horizons, and 0 to 10 percent in the Bt, BC and C horizons.  Few fine flakes of mica are in the lower part of the solum of some pedons, and some pedons may have few fine manganese concretions in the surface and upper subsoil horizons.
+E horizon, where present: 
+Color--hue of 5YR to 2.5Y, value of 4 or 5, chroma of 3 to 8 
+Texture (fine-earth fraction)--silt loam, loam, or very fine sandy loam 
 
-The A horizon has hue of 5YR to 2.5Y, value of 4 or 5 and chroma of 0 to 8.  It is silt loam, loam, or very fine sandy loam in the fine-earth fraction.  Where eroded, the A horizon has hue of 2.5YR to 7.5YR, value of 4 or 5, and chroma of 4 to 8.  It is clay loam or silty clay loam.
+Bt horizon:
+Color--hue of 10R or 2.5YR, value of 4 or 5, chroma of 6 to 8.  Mottles in shades of red, yellow, or brown may be present. 
+Texture (fine-earth fraction)--clay loam, silty clay loam, silty clay, or clay. The particle-size control section averages more than 30 percent silt or more than 40 percent silt plus very fine sand, or less than 15 percent sand coarser than very fine sand.
 
-The E horizon, where present, has hue of 5YR to 2.5Y, value of 4 or 5, and chroma of 3 to 8.  It is silt loam, loam, or very fine sandy loam in the fine-earth fraction.
+BC horizon:
+Color--hue of 10R to 5YR, value of 4 to 6, chroma of 6 to 8. Mottles in shades of yellow or brown may be present. 
+Texture (fine-earth fraction)--silt loam, loam, silty clay loam, or clay loam.
 
-The upper part of the Bt horizon has hue of 5YR, value of 4 or 5 and chroma of 6 to 8.  The middle part of the Bt horizon has hue of 10R or 2.5YR, value of 4 or 5 and chroma of 6 to 8.  The lower part of the Bt horizon has hue of 10R or 2.5YR, value of 4 or 5 and chroma of 6 to 8, commonly with mottles in shades of red, yellow, or brown.  The Bt horizon is clay loam, silty clay loam, silty clay or clay.  The particle-size control section averages more than 30 percent silt or more than 40 percent silt plus very fine sand, or less than 15 percent sand coarser than very fine sand..
+C horizon:
+Color--hue of 10R to 10YR, value of 4 to 7, chroma of 3 to 8. Mottles in shades of brown, yellow, white, gray, or red may be present. 
+Texture (fine-earth fraction)--silt loam, loam, very fine sandy loam, fine sandy loam, sandy loam, or silty clay loam saprolite 
 
-The BC horizon has hue of 10R to 5YR, value of 4 to 6, and chroma of 6 to 8, commonly with mottles in shades of yellow or brown.  It is silt loam, loam, silty clay loam, or clay loam.
+COMPETING SERIES: 
+Appling soils--are not as red as Georgeville and have less than 30 percent silt in the control section
+Cecil soils--have less than 30 percent silt in the control section
+Herndon soils--are not as red as Georgeville
+Nanford soils--are not as red as Georgeville and have a depth to weathered bedrock of 102 to 152 centimeters (40 to 60 inches)
+Pacolet soils--have less than 30 percent silt in the control section
+Tarrus soils--have a depth to weathered bedrock of 102 to 152 centimeters (40 to 60 inches)
+Wedowee soils--are not as red as Georgeville and lack the greater than 30 percent silt requirement in the control section
+ 
+GEOGRAPHIC SETTING: 
+Landscape: Piedmont Plateau of the thermic Southern Piedmont
+Landform: Interstream divides, ridges, and side slopes 
+Parent Material: Residuum weathered from fine-grained metavolcanic rocks of the Carolina Slate Belt 
+Mean Annual Air Temperature: 15 to 19 degrees C (59 to 66 degrees F) 
+Mean Annual Precipitation: 940 to 1524 millimeters (37 to 60 inches)
+Frost-free period: 190 to 240 days
 
-The C horizon has hue of 10R to 10YR, value of 4 to 6, and chroma of 3 to 8, commonly with mottles in shades of brown, yellow, white, gray, or red. In some pedons, the C horizon is coarsely mottled in shades of red, brown, yellow or gray.  The C horizon is silt loam, loam, very fine sandy loam, fine sandy loam, sandy loam, or silty clay loam saprolite of fine-grained metavolcanic rock.
+GEOGRAPHICALLY ASSOCIATED SOILS: 
+Alamance soils--are fine-silty
+Badin soils--have a depth to weathered bedrock of 51 to 102 centimeters (20 to 40 inches)
+Goldston soils--are loamy-skeletal
+Gundy soils--have mixed mineralogy and a base saturation over 35 percent
+Kirksey soils--are fine-silty
+Nason soils--are not as red, have a depth to weathered bedrock of 102 to 152 centimeters (40 to 60 inches) and have mixed mineralogy
+Tatum soils--have a depth to weathered bedrock of 102 to 152 centimeters (40 to 60 inches) and have mixed mineralogy
+Uwharrie soils--have mixed mineralogy
 
-COMPETING SERIES:  These are the Appling, Aragon, Cataula, Cecil, Chestatee, Darley, Herndon, Hulett, Kolomaki, Mahan, Nanford, Nectar, Neeses, Pacolet, Spotsylvania, Tarrus, and Wedowee series.  Appling, Cecil, Hulett, Pacolet, and Wedowee  soils have less than 30 percent silt in the control section.  Aragon soils have Bt horizons that are mottled in the upper part.  Aragon and Nectar soils formed in weathered limestone, sandstone, shale, or siltstone.  Chestatee soils have more than 15 percent by volume of coarse fragments throughout.  Darley soils contain layers of fractured ironstone in the B horizon.  Herndon soils have Bt horizons with hue of 5YR or yellower.  Nanford and Tarrus soils have a depth to weathered bedrock of 40 to 60 inches.  Spotsylvania soils have a lithologic discontinuity.  Mahan soils formed in coastal plain sediments and have coarse fragments of ironstone.
+DRAINAGE AND PERMEABILITY: 
+Agricultural Drainage Class: Well drained
+Index Surface Runoff: Medium
+Saturated Hydraulic Conductivity Class: Moderately high 
 
-GEOGRAPHIC SETTING:  Georgeville soils are on gently sloping to moderately steep Piedmont uplands.  Slopes are generally 6 to 15 percent but range from 2 to 50 percent.  The soil formed in residuum weathered from fine-grained metavolcanic rocks. Mean annual precipitation ranges from 37 to 60 inches, mean annual temperature ranges from 59 to 66 degrees F, and the frost-free season ranges from 190 to 240 days.
+USE AND VEGETATION: 
+Major Uses: Cultivated crops, pasture, and woodland
+Dominant Vegetation: Where cultivated--cotton, small grains, tobacco, corn, hay, and pasture. Where wooded--mixed hardwood and pines
 
-GEOGRAPHICALLY ASSOCIATED SOILS:  In addition to the competing Herndon, Nanford, and Tarrus series, these are the Alamance, Badin, Goldston, Gundy, Kirksey, Nason, Tatum, and Uwharrie series.  Alamance and Kirksey soils are fine-silty.  Goldston soils are loamy-skeletal.  Badin, Gundy, Nason, Tatum, and Uwharrie soils have mixed mineralogy.  
+SOIL SURVEY REGIONAL OFFICE (SSRO) RESPONSIBLE: Auburn, Alabama
 
-DRAINAGE AND PERMEABILITY:  Well drained; medium runoff; moderate permeability.
+DISTRIBUTION AND EXTENT: Alabama, Georgia, North Carolina, South Carolina, and Virginia. 
+Extent: Extensive
 
-USE AND VEGETATION:  Cleared areas are used for cotton, small grains, tobacco, corn, hay, and pasture.  Forested areas are in mixed hardwood and pines.
+SERIES ESTABLISHED: Cabarrus County, North Carolina, 1910.
 
-DISTRIBUTION AND EXTENT:  Piedmont of Alabama, Georgia, North Carolina, South Carolina, and Virginia.  The series is extensive.
+REMARKS: 
+Previous revision 10/2002 by JAK.  Soil horizon depths were updated 10-04-2021 as there was a 1 inch Oe horizon that didn't begin at the soil surface.
+The September 2025 revision reformatted the description to semi-tabular. The type location was also moved from Lancaster County, South Carolina to Montgomery County, North Carolina which represents the dominant area as mapped. 
 
-MLRA SOIL SURVEY REGIONAL OFFICE (MO) RESPONSIBLE: Raleigh, North Carolina
-
-SERIES ESTABLISHED:  Cabarrus County, North Carolina, 1910.
-
-REMARKS:  Diagnostic horizons and features recognized in this pedon are:
-Ochric epipedon - the zone from the surface of the soil to 7 inches (A and E horizons)
-Argillic horizon - the zone from 7 to 54 inches (Bt1, Bt2, Bt3, and Bt4 horizons)
-Soil horizon depths were updated 10-04-2021 as there was a 1 inch Oe horizon that didn't begin at the soil surface.
-
-MLRA = 136
+Diagnostic horizons and soil characteristics recognized in this pedon:
+Ochric epipedon--the zone from the surface of the soil to 13 centimeters (5 inches) (A horizon)
+Argillic horizon--the zone from 13 to 107 centimeters (5 to 42 inches) (Bt1 and Bt2 horizons)
 
 SIR = SC0014, SC0124 (ROCKY)
 
 ADDITIONAL DATA:
+Typical Data Map Unit:
+Typical User Pedon ID:
 
 TABULAR SERIES DATA:
 
-SOI-5  Soil Name    Slope Airtemp  FrFr/Seas Precip Elevation
-SC0014 GEORGEVILLE  2-50   59-66    190-225   37-60  300-1100 
-SC0124 GEORGEVILLE  2-50   59-66    190-225   37-60  300-1100 
+SOI-5  Soil Name                Slope  Airtemp  FrFr/Seas   Precip   Elevation
+SC0014 GEORGEVILLE   2-50    59-66    190-225        37-60    300-1100 
+SC0124 GEORGEVILLE   2-50    59-66    190-225        37-60    300-1100 
 
-SOI-5  FloodL FloodH Watertable Kind  Months Bedrock Hardness
-SC0014 NONE          6.0-6.0            -     60-60        
-SC0124 NONE          6.0-6.0            -     60-60        
+SOI-5  FloodL   FloodH    Watertable   Kind    Months   Bedrock   Hardness
+SC0014 NONE                    >6.0                -                            >60        
+SC0124 NONE                    >6.0                -                            >60        
 
-SOI-5  Depth  Texture            3-Inch  No-10  Clay%   -CEC-
-SC0014  0- 7  L VFSL SIL          0- 2  80-100  5-27    8-16
-SC0014  0- 7  SICL CL             0- 2  90-100 27-35    8-16
-SC0014  0- 7  FSL SL              0- 2  80-100  5-20    4-10
-SC0014  7-11  SICL CL             0- 1  90-100 27-35    6-10
-SC0014 11-54  C SIC SICL          0- 1  95-100 35-65    9-15
-SC0014 54-64  SICL L SIL          0- 5  90-100 15-40    7-15
+SOI-5  Depth  Texture                                3-Inch  No-10     Clay%   -CEC-
+SC0014  0- 5  L VFSL SIL                          0-2       80-100     5-27     8-16
+SC0014  0- 5  SICL CL                                0-2      90-100    27-35    8-16
+SC0014  0- 5  FSL SL                                  0-2      80-100     5-20     4-10
+SC0014  5-42  C SIC SICL                          0-1      95-100    35-65     9-15
+SC0014 42-64  SICL L SIL                        0-5      90-100    15-40     7-15
 
-SC0124  0-7  GR-L GR-SIL GR-VFSL  0-10  55- 75  5-27    8-16
-SC0124  0-7  SY-SIL SY-L SY-VFSL  0- 5  70- 80  5-27    8-16
-SC0124  0-7  GR-FSL GR-SL         0-10  55- 75  5-20    4-10
-SC0124  7-11  SICL CL              0- 1  90-100 27-35    6-10
-SC0124 11-54  C SIC SICL          0- 1  95-100 35-65    9-15
-SC0124 54-64  SICL L SIL          0- 5  90-100 15-40    7-15
+SC0124  0-5  GR-L GR-SIL GR-VFSL    0-10     55-75        5-27      8-16
+SC0124  0-5  SY-SIL SY-L SY-VFSL       0-5       70-80       5-27      8-16
+SC0124  0-5  GR-FSL GR-SL                  0-10      55-75        5-20      4-10
+SC0124  5-42 C SIC SICL                         0-1        95-100   35-65     9-15
+SC0124 42-64 SICL L SIL                        0-5       90-100   15-40      7-15
 
-SOI-5  Depth    -pH-      O.M.   Salin   Permeab    Shnk-Swll
-SC0014  0- 7  4.5- 7.3   .5-2.   0- 0   0.6- 2.0      LOW      
-SC0014  0- 7  4.5- 7.3   0.-.5   0- 0   0.6- 2.0      LOW      
-SC0014  0- 7  4.5- 6.0   .5-2.    -     0.6- 2.0      LOW      
-SC0014  7-11  4.5- 5.5   0.-.5   0- 0   0.6- 2.0      LOW      
-SC0014 11-54  4.5- 5.5   0.-.5   0- 0   0.6- 2.0      LOW      
-SC0014 54-64  4.5- 5.5   0.-.5   0- 0   0.6- 2.0      LOW      
-SC0124  0- 7  4.5- 7.3   .5-2.   0- 0   0.6- 2.0      LOW      
-SC0124  0- 7  4.5- 7.3   .5-2.   0- 0   0.6- 2.0      LOW      
-SC0124  0- 7  4.5- 7.3   .5-2.    -     0.6- 2.0      LOW      
-SC0124  7-11  4.5- 5.5   0.-.5   0- 0   0.6- 2.0      LOW      
-SC0124 11-54  4.5- 5.5   0.-.5   0- 0   0.6- 2.0      LOW      
-SC0124 54-64  4.5- 5.5   0.-.5   0- 0   0.6- 2.0      LOW      
 
+SOI-5  Depth     -pH-      O.M.    Salin     Permeab    Shnk-Swll
+SC0014  0-5     4.5-7.3     .5-2.     0-0      0.6-2.0       LOW      
+SC0014  0-5     4.5-7.3    0.-.5     0-0      0.6-2.0       LOW      
+SC0014  0-5     4.5-6.0    .5-2.     0-0      0.6-2.0       LOW      
+SC0014  5-42   4.5-5.5    0.-.5     0-0      0.6-2.0       LOW      
+SC0014 42-64  4.5-5.5    0.-.5     0-0      0.6-2.0      LOW      
+
+SC0124  0-5      4.5-7.3    .5-2.     0-0      0.6-2.0      LOW      
+SC0124  0-5      4.5-7.3    .5-2.     0-0      0.6-2.0      LOW      
+SC0124  0-5      4.5-7.3    .5-2.     0-0      0.6-2.0      LOW      
+SC0124  5-42    4.5-5.5    0.-.5     0-0      0.6-2.0      LOW      
+SC0124 42-64  4.5-5.5     0.-.5    0-0      0.6-2.0      LOW      
+
+________________________________________
 National Cooperative Soil Survey
 U.S.A.
