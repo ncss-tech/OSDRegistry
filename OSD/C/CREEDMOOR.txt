@@ -1,108 +1,173 @@
-LOCATION CREEDMOOR              NC+SC VA
+LOCATION CREEDMOOR              NC+VA
 
 Established Series
 Rev. AG:JAK:DTA
-10/2021
+09/2025
 
 CREEDMOOR SERIES
 
-The Creedmoor soils are very deep, moderately well drained and somewhat poorly drained, very slowly permeable soils that have formed in residuum weathered from Triassic material of the Piedmont uplands. Slopes range from 0 to 15 percent. Average annual precipitation is about 46 inches and mean annual temperature about 61 degrees F., near the type location.
+MLRA(s): 136 (thermic part)
+Soil Survey Regional Office (SSRO) Responsible: Southeast
+Depth Class: Very deep
+Agricultural Drainage Class: Moderately well drained or somewhat poorly drained
+Index Surface Runoff: Medium
+Saturated Hydraulic Conductivity Class: Low
+Shrink-Swell Potential: High
+Landscape: Piedmont uplands 
+Landform: Interstream divides, ridges, and side slopes
+Parent Material: Residuum weathered from Triassic sandstone, mudstone, siltstone, or shale
+Slope: 2 to 15
+Mean Annual Air Temperature: 16 degrees C (61 degrees F)
+Mean Annual Precipitation: 1168 millimeters (46 inches)
 
 TAXONOMIC CLASS: Fine, mixed, semiactive, thermic Aquic Hapludults
 
-TYPICAL PEDON: Creedmoor sandy loam--forested. (Colors are for moist soil unless otherwise stated.)
+TYPICAL PEDON: Creedmoor coarse sandy loam--in a field. (Colors are for moist soil unless otherwise stated.)
 
-  Oe--0 to 1 inch; partially decomposed pine needles and forest litter.
+  Ap--0 to 18 centimeters (0 to 7 inches); brown (10YR 5/3) coarse sandy loam; weak fine and medium granular structure; very friable; nonsticky, nonplastic; 5 percent gravel by volume; moderately acid; clear smooth boundary. (2.5 to 23 centimeters (1 to 9 inches) thick)
 
-  A--1 to 3 inches; dark gray (10YR 4/1) sandy loam; weak coarse granular structure; very friable, many fine and medium woody roots; very strongly acid; abrupt smooth boundary. (1 to 9 inches thick)
+  Bt1--18 to 46 centimeters (7 to 18 inches); brownish yellow (10YR 6/6) clay; strong medium subangular blocky structure; very firm, moderately sticky, moderately plastic; common distinct clay films on faces of peds; common medium distinct red (2.5YR 5/6) masses of iron accumulations and many fine faint light gray (10YR 7/2) iron depletions; extremely acid; gradual wavy boundary.
 
-  E--3 to 9 inches; pale brown (10YR 6/3) sandy loam; weak medium granular structure; very friable; few fine and medium woody roots; very strongly acid; clear smooth boundary. (0 to 12 inches thick)
+  Bt2--46 to 91 centimeters (18 to 36 inches); yellowish brown (10YR 5/8) clay; strong medium subangular blocky structure; very firm, moderately sticky, moderately plastic; common distinct clay films on faces of peds; few medium prominent red (2.5YR 5/6) and few medium distinct reddish yellow (7.5YR 7/8) masses of iron accumulations and common coarse distinct light gray (10YR 7/1) iron depletions; extremely acid; gradual wavy boundary.
 
-  Bt1--9 to 16 inches; pale brown (10YR 6/3) sandy clay loam; weak medium subangular blocky structure; friable, slightly sticky, slightly plastic; few fine woody roots; many fine and medium pores; many coarse faint light yellowish brown (10YR 6/4) masses of iron accumulations; very strongly acid; clear wavy boundary.
+  Bt3--91 to 132 centimeters (36 to 52 inches); mottled reddish yellow (7.5YR 7/8), light gray (10YR 7/1), yellowish red (5YR 5/8), and brown (10YR 5/3) clay; moderate medium prismatic structure which parts to moderate fine and medium  subangular blocky structure; firm; moderately sticky, moderately plastic; common distinct clay films on faces of peds; iron accumulations in shades of yellow, red, and brown and iron depletions in shades of gray extremely acid; gradual wavy boundary. (Combined thickness of the Bt horizon is 38 to 127 centimeters (15 to 50 inches.)
 
-  Bt2--16 to 20 inches; brownish yellow (10YR 6/6) sandy clay loam; moderate medium subangular blocky structure; friable, slightly sticky, slightly plastic; few fine and medium woody roots; many fine pores; few faint clay films on faces of peds; few medium prominent reddish yellow (5YR 7/8) masses of iron accumulations; very strongly acid; clear smooth boundary.
+  BCg--132 to 173 centimeters (52 to 68 inches); dark gray (N 4/0) silty clay; weak coarse subangular blocky structure; firm, slightly sticky, slightly plastic; common medium prominent reddish yellow (7.5YR 6/8) and dark yellowish brown (10YR 4/6) masses of iron accumulations; very strongly acid; gradual wavy boundary. (0 to 61 centimeters (0 to 24 inches) thick)
 
-  Bt3--20 to 30 inches; light yellowish brown (10YR 6/4) clay; moderate medium prismatic structure which parts to moderate medium angular blocky structure; firm; very sticky, very plastic; few fine woody roots; common distinct clay films on faces of peds; common medium prominent red (2.5YR 5/8) masses of iron accumulations and gray (10YR 6/1) iron depletions; very strongly acid; clear wavy boundary. (Combined thickness of the Bt horizon is 15 to 50 inches.)
+  Cg--173 to 211 centimeters (68 to 83 inches); dark gray (N 4/0) silt loam saprolite; massive; friable, nonsticky, nonplastic; common medium prominent reddish yellow (7.5YR 6/8) and common medium distinct light gray (10YR 7/1) masses of iron accumulations; extremely acid.
 
-  Btg1--30 to 41 inches; light gray (10YR 7/1) clay; moderate medium angular blocky structure; very firm, very sticky, very plastic; common distinct clay films on faces of peds; many coarse prominent brownish yellow (10YR 6/6) and few fine prominent reddish brown (2.5YR 5/3) masses of iron ccumulations; extremely acid; clear wavy boundary.
+TYPE LOCATION: Granville County, North Carolina; 3.0 miles southwest of Creedmoor on U.S. Highway 15; about 0.8 mile northwest of the intersection of Secondary Road 1103 and U.S. Highway 15 on Secondary Road 1103; about 0.8 mile northeast of the intersection of Secondary Roads 1103 and 1104 on Secondary Road 1104; about 20 feet west of Secondary Road 1104; in a cultivated field; USGS Creedmoor, North Carolina topographic quadrangle.
 
-  Btg2--41 to 47 inches; light gray (10YR 7/1) clay; weak, coarse angular blocky stucture; very firm, very sticky, very plastic; many medium prominent red (2.5YR 5/8) and few fine prominent yellow (10YR 7/6) masses of iron accumulations; extremely acid; clear wavy boundary. (Combined thickness of the Btg horizon is 0 to 24 inches)
+Latitude--36.113333
+Longitude-- -78.716667
+Datum--WGS84
 
-  BCg--47 to 57 inches; light gray (10YR 7/1) silty clay; many coarse prominent dusky red (2.5YR 3/2) mottles; weak coarse angular blocky stucture; very firm, sticky, plastic; extremely acid; clear smooth boundary. (0 to 24 inches thick)
+RANGE IN CHARACTERISTICS: 
+Solum thickness: 63 to 152 centimeters (25 to 60 inches)
+Depth to bedrock: Greater than 152 centimeters (60 inches)
+Depth to Seasonal High Water Table: 30 to 61 centimeters (12 to 24 inches)
+Rock Fragment Content: 0 to 5 percent, by volume, in the A and B horizons Soil Reaction: Strongly acid to extremely acid, unless limed.
 
-  Cg--57 to 69 inches; light gray (10YR 7/1) fine sandy loam saprolite; many coarse prominent dusky red (2.5YR 3/2) mottles; massive; firm; common medium distinct yellow (10YR 7/6) masses of iron accumulations; very strongly acid; clear smooth boundary.
+RANGE OF INDIVIDUAL HORIZONS:
+A or Ap horizon:
+Color--hue of 7.5YR to 2.5Y, value of 3 to 6, chroma of 1 to 6 
+Texture--sandy loam, loamy sand, coarse sandy loam, loam, fine sandy loam, or silt loam. Where the soil is eroded, the Ap horizon is commonly sandy clay loam, silty clay loam, or clay loam
 
-TYPE LOCATION: Durham County, North Carolina; 1.5 miles from Nelson on Secondary Road 1973; northwest 1/2 mile on farm road, 50 feet south of road.
+E horizon:
+Color--hue of 7.5YR to 2.5Y, value of 5 to 7, chroma of 2 to 4 
+Texture--sandy loam, loamy sand, coarse sandy loam, loam, fine sandy loam, or silt loam
 
-RANGE IN CHARACTERISTICS: Solum thickness ranges from 25 to 60 inches. Depth to bedrock is more than 60 inches. Soil reaction ranges from strongly acid to extremely acid throughout, except where surface layers have been limed. Rock fragment content ranges from 0 to 5 percent by volume in the A and B horizons.
+BE horizon (if it occurs):
+Color--hue of 10YR or 2.5Y, value of 5 to 7, chroma of 4 to 6 
+Texture--sandy loam, sandy clay loam, loam, silt loam, or silty clay loam
 
-The A or Ap horizon has hue of 7.5YR to 2.5Y, value of 3 to 6, and chroma of 1 to 6. Texture is dominantly sandy loam but includes loamy sand, coarse sandy loam, loam, fine sandy loam, or silt loam. Where the soil is eroded, the Ap horizon is commonly sandy clay loam, silty clay loam, or clay loam.
+Bt horizon:
+Color--hue of 7.5YR to 2.5Y, value of 5 to 7, chroma of 3 to 8 
+Texture--sandy clay loam, silty clay loam, clay loam, sandy clay, clay, or silty clay. The upper Bt horizon is distinctly coarser in texture and less firm in consistence than the lower Bt or Btg horizon.
+Redoximorphic features (if they occur)--iron depletions in shades of yellow, brown, and gray; iron masses in shades of red, yellow, or brown
 
-The E horizon has hue of 7.5YR to 2.5Y, value of 5 to 7, and chroma of 2 to 4. Texture is dominantly sandy loam but includes loamy sand, coarse sandy loam, loam, fine sandy loam, or silt loam.
+Btg horizon (if it occurs):
+Color--hue of 7.5YR to 2.5Y, value of 5 to 7, chroma of 1 or 2 
+Texture--sandy clay loam, silty clay loam, clay loam, sandy clay, clay, or silty clay
+Redoximorphic features--iron masses in shades of red, yellow, or brown  
 
-The BE horizon, where present, has hue of 10YR or 2.5Y, value of 5 to 7, and chroma of 4 to 6. Texture is sandy loam, sandy clay loam, loam, silt loam, or silty clay loam.
+BC horizon (if it occurs):
+Color--hue of 2.5YR to 2.5Y, value of 4 to 8, chroma of 3 to 8 or is mottled in shades of these colors. 
+Texture--silty clay loam, sandy clay loam, clay loam, sandy clay, or silty clay
+Redoximorphic features (if they occur)--iron depletions in shades of yellow, brown, and gray; iron masses in shades of red, yellow, or brown
 
-The Bt horizon has hue of 7.5YR to 2.5Y, value of 5 to 7, and chroma of 3 to 8. Some pedons have iron masses in shades of red, yellow, or brown and iron depletions in shades of yellow, brown, and gray. Texture is sandy clay loam, silty clay loam, clay loam, sandy clay, clay, or silty clay. The upper Bt horizon is distinctly coarser in texture and less firm in consistence than the lower Bt or Btg horizon.
+BCg horizon:
+Color--hue of 2.5YR to 2.5Y, value of 4 to 8, chroma of 1 or 2, or is neutral with value of 4 to 8. Some pedons are mottled in shades of these colors. Texture--silty clay loam, sandy clay loam, sandy clay, clay loam or silty clay
+Redoximorphic features--iron masses in shades of red, yellow, or brown
 
-The Btg horizon, where present, has hue of 7.5YR to 2.5Y, value of 5 to 7 and chroma of 1 or 2. Iron masses in shades of red, yellow, or brown are present. It is sandy clay loam, silty clay loam, clay loam, sandy clay, clay, or silty clay.
+C horizon (if it occurs):
+Color--hue of 10R to 2.5Y, value of 3 to 8, chroma of 3 to 8, or is mottled in shades of yellow, red, white, gray, and brown. 
+Texture--silt loam, loam, sandy loam, fine sandy loam, sandy clay loam, clay loam, silty clay loam, silty clay, or sandy clay saprolite
+Redoximorphic features(if they occur)--iron depletions in shades of yellow, brown, and gray; iron masses in shades of red, yellow, or brown
 
-The BC horizon, where present, has hue of 2.5YR to 2.5Y, value of 4 to 8, and chroma of 3 to 8 or is mottled in shades of these colors. Some pedons have redoximorphic features in shades of red, yellow, brown, and gray. Texture is silty clay loam, sandy clay loam, clay loam, sandy clay, or silty clay.
+Cg horizon:
+Color--hue of 10R to 2.5Y, value of 3 to 8, and chroma of 1 or 2, or is neutral with value of 3 to 8, and may be mottled in shades of yellow, red, white, gray, and brown. 
+Texture--silt loam, loam, sandy loam, fine sandy loam, sandy clay loam, clay loam, silty clay loam, silty clay, or sandy clay saprolite
+Redoximorphic features---iron masses in shades of red, yellow, or brown 
 
-The BCg horizon has hue of 2.5YR to 2.5Y, value of 4 to 8, and chroma of 1 or 2, or is neutral with value of 4 to 8. Some pedons are mottled in shades of these colors. Redoximorphic features in shades of red, yellow, brown, and gray are common. Texture is silty clay loam, sandy clay loam, sandy clay, clay loam or silty clay.
+COMPETING SERIES: 
+Cid soils--have moderate shrink-swell potential and a paralithic contact at 51 and 102 centimeters (20 and 40 inches) 
+Craven soils--occur in the coastal plain and have moderate shrink-swell potential
+Dogue soils--occur on stream terraces in the coastal plain
+Gritney soils--occur in the coastal plain
+Helena soils--formed from residuum of felsic to mafic, crystalline, igneous and high-grade metamorphic rocks 
+Lignum soils--formed in residuum weathered from fine-grained metavolcanic rocks in the Carolina Slate Belt
+Nevarc soils--occur in the coastal plain
+Peawick soils--occur on stream terraces
 
-The C horizon, where present, has hue of 10R to 2.5Y, value of 3 to 8, and chroma of 3 to 8, or is multicolored or mottled in shades of yellow, red, white, gray, and brown. Redoximorphic features in shades of red, yellow, brown, and gray may occur.  It is saprolite weathered from Triassic rocks such as fine grained sandstone, mudstone, siltstone, or shale. Texture is silt loam, loam, sandy loam, fine sandy loam, sandy clay loam, clay loam, silty clay loam, silty clay, or sandy clay.
+GEOGRAPHIC SETTING: 
+Landscape: Piedmont uplands
+Landform: Ridges and hill slopes
+Landform: Interstream divides, ridges, and side slopes
+Parent Material: Residuum weathered from Triassic sandstone, mudstone, siltstone, or shale
+Avereage Annual Air Temperature: 15 to 18 degrees C (59 to 65 degrees F)
+Average Annual Precipitation: 1143 to 1397 millimeters (45 to 55 inches)
+Frost Free Period: 180 to 260 days
 
-The Cg horizon has hue of 10R to 2.5Y, value of 3 to 8, and chroma of 1 or 2, or is neutral with value of 3 to 8, and may be mottled in shades of yellow, red, white, gray, and brown. Redoximorphic features in shades of red, yellow, or brown may occur.  It is saprolite weathered from Triassic rocks such as fine grained sandstone, mudstone, siltstone, or shale. Texture is silt loam, loam, sandy loam, fine sandy loam, sandy clay loam, clay loam, silty clay loam, silty clay, or sandy clay.
+GEOGRAPHICALLY ASSOCIATED SOILS:   
+Brickhaven soils--have less clay and more silt in the subsoil and have depth to paralithic contact at 102 to 152 centimeters (40 to 60 inches)
+Carbonton soils--have less clay and more silt in the subsoil and have depth to paralithic contact at 51 to 102 centimeters (20 to 40 inches)
+Granville  soils--are fine-loamy and well drained
+Green Level soils--have very firm and very plastic Bt horizons with slickensides
+Mayodan soils--are well drained 
+Peakin soils--are well drained and have a water table at 91 to 183 centimeters (36 to 72 inches)
+Pinoka  soils--are well drained, fine-loamy, and have a depth to paralithic contact at 51 to 102 centimeters (20 to 40 inches) 
+Polkton soils--have very firm and very plastic Bt horizons with slickensides and have a paralithic contact at 51 to 102 centimeters (20 to 40 inches)
+Wadesboro series are well drained and have dark red Bt horizons
+White Store soils--have very firm and very plastic Bt horizons with slickensides and have a paralithic contact at 102 to 152 centimeters (40 to 60 inches)
 
-COMPETING SERIES: Soils in the same family are Annemaine, Beason, Cid, Craven, Dogue, Eulonia, Gritney, Helena, Lignum, Nemours, Nevarc, Newco, Peawick, Rosenwall, Sacul, Stapp, Vinita, and Wolftever. Soils in closely related families are Altavista, Brickhaven, Carbonton, Conasauga, Granville, Green Level, Polkton, and White Store series. Altavista soils have less than 35 percent clay in the argillic horizon. Annemaine, Conasauga, Sacul, Polkton, and White Store soils contain higher clay content in the upper Bt horizon. Beason and Eulonia soils have low shrink-swell potential. Brickhaven and Carbonton soils contain less clay and more silt in the subsoil, In addition, Brickhaven soils 
-have depth to paralithic contact at 40 to 60 inches and Carbonton soils have depth to paralithic contact at 20 to 40 inches. Cid soils have moderate shrink-swell potential and a paralithic contact at depths between 20 and 40 inches. Craven, Dogue, Gritney, Lignum, Nemours, and Wolftever soils have moderate shrink-swell potential. Also, Beason, Craven, and Wolftever soils commonly have less fine or coarser sand in upper Bt horizon. Granville soils lack low chroma iron depletions within the upper 24 inches of the argillic horizon and have less than 35 percent clay in the argillic horizon. Helena soils formed from residuum of felsic to mafic, crystalline, igneous and high-grade metamorphic rocks. Nevarc soils have slow permeability in the lower half of the Bt horizon. Newco and Stapp soils have colors in shades of red in the upper Bt horizon. Peawick soils formed in alluvium and are not underlain by saprolite. Green Level, Polkton and White Store soils have very firm and very plastic Bt horizons with slickensides. In addition, Polkton soils have paralithic contact at 20 to 40 inches. Rosenwall and Vinita soils have a paralithic contact at a depth of less than 40 inches. 
+DRAINAGE AND SATURATED HYDRAULIC CONDUCTIVITY: 
+Agricultural Drainage Class: Moderately well drained and somewhat poorly drained. 
+Index Surface Runoff: High
+Saturated Hydraulic Conductivity Class: Moderately low
 
-GEOGRAPHIC SETTING: Creedmoor soils are on nearly level to moderately steep slopes in the Triassic Basins. Rocks are of Triassic age. Slopes range from 0 to 15 percent. The soils have formed in materials weathered from fine sandstone, mudstone, siltstone, shale, and conglomerate. Average annual precipitation ranges from about 45 to 55 inches, and mean annual air temperature ranges from 59 to 65 degrees F.
+USE AND VEGETATION: 
+Major Uses: Cropland, pasture or woodland 
+Dominant vegetation: Where cultivated--tobacco, small grains, corn, cotton, and truck crops.  Where wooded--shortleaf and loblolly pine, oaks, hickory, and gum. 
 
-GEOGRAPHICALLY ASSOCIATED SOILS: In addition to the competing Granville, Green Level, Polkton, and White Store series, these are the Mayodan, Peakin, Pinoka, and Wadesboro series. Mayodan, Pinoka and Wadesboro soils do not have a seasonal high water table within 6 feet. Peakin soils have a perched water table at 3 to 6 feet. In addition, Wadesboro soils have dark red Bt horizons.
+SOIL SURVEY REGIONAL OFFICE (SSRO) RESPONSIBLE: Auburn, Alabama
 
-DRAINAGE AND PERMEABILITY: Moderately well drained and somewhat poorly drained. Runoff is moderate; internal drainage is slow. Permeability is very slow in the lower part of the Bt horizon.
-
-USE AND VEGETATION: About one-third of the soil is under cultivation or in pasture, and the remainder in forest of shortleaf and loblolly pine, oaks, hickory, and gum. Common crops are tobacco, small grains, corn, cotton, and truck crops.
-
-DISTRIBUTION AND EXTENT: The Piedmont of Virginia, North Carolina, and possibly South Carolina. The series is extensive; the area is more than 100,000 acres.
-
-MLRA SOIL SURVEY REGIONAL OFFICE (MO) RESPONSIBLE: Raleigh, North Carolina
+DISTRIBUTION AND EXTENT: 
+Distribution: North Carolina, Virginia, and possibly South Carolina 
+Extent: Extensive
 
 SERIES ESTABLISHED: Prince Edward County, Virginia; 1950.
 
-REMARKS: Diagnostic features and horizons recognized in this pedon are:
-Ochric epipedon - The zone from the surface of the soil to a depth of 9 inches (A and E horizons)
-Argillic horizon - The zone from 9 to 47 inches below the surface (Bt1, Bt2, Bt3, Btg1, and Btg2 horizons)
-Aquic feature - Iron depletions with chroma of 2 or less occurring in the 20 to 30 inch subhorizon.
-Horizon depths were modified 10/2021 to make certain soil description began at soil surface.
+REMARKS: Horizon depths were modified 10/2021 to make certain soil description began at soil surface.
+The September 2025 revision reformatted the description to semi-tabular. No data was changed. In September 2025, the typical pedon was moved to Granville County, North Carolina.  The site in Durham County, North Carolina was covered by an industrial park.
+
+Diagnostic features and horizons recognized in this pedon are:
+Ochric epipedon--The zone from 0 to 18 centimeters (0 to 7 inches) (Ap horizon)
+Argillic horizon--The zone from 18 to 132 centimeters (7 to 52 inches) (Bt1, Bt2, and Bt3 horizons)
+Aquic feature--Iron depletions with chroma of 2 or less occurring in the 51 to 76 centimeters (20 to 30 inch) subhorizon.
 
 ADDITIONAL DATA:
 
-MLRA: 136
+TABULAR SERIES DATA: 
 
-SOI-5   Soil Name Slope Airtemp FrFr/Seas Precip Elevation
-NC0056 CREEDMOOR   0-15 59-65   175-200   45-55  300-450
+SOI-5   Soil Name   Slope   Airtemp   FrFr/Seas  Precip   Elevation
+NC0056  CREEDMOOR   0-15     59-65     175-200   45-55    300-450
 
-SOI-5 FloodL FloodH Watertable Kind   Months  Bedrock Hardness 
-NC0056 NONE         1.0-2.0   PERCHED JAN-MAR >60
+SOI-5   FloodL  FloodH  Watertable  Kind    Months   Bedrock  Hardness
+NC0056   NONE            1.0-2.0   PERCHED  JAN-MAR   >60
 
-SOI-5  Depth Texture     3-Inch No-10  Clay%  -CEC-
-NC0056 0-9   SL FSL L    0-3    95-100  7-20   2-6 
-NC0056 0-9   LS COSL     0-3    95-100  4-20   1-6 
-NC0056 9-20  SCL CL SICL 0-3    95-100 20-35   4-8 
-NC0056 20-57 C SIC SC    0-3    95-100 35-60   7-13 
-NC0056 57-78 SL SCL SICL 0-5    95-100  5-35   1-8 
-NC0056 78-88 UWB          -       -      -      -
+SOI-5   Depth   Texture      3-Inch   No-10    Clay%   -CEC-
+NC0056   0-7    SL FSL L      0-3     95-100    7-20     -
+NC0056   0-7    LS COSL       0-3     95-100    4-20     -
+NC0056   7-68   C SIC SC      0-3     95-100   35-60     -
+NC0056  68-83   SL SICL SIL   0-5     95-100    5-35     -
 
-SOI-5  Depth   -pH-    O.M.  Salin   Permeab  Shnk-Swll
-NC0056 0-9   3.5-5.5   .5-2.  0-0    2.0-6.0   LOW
-NC0056 0-9   3.5-5.5   .5-2.  0-0    6.0-20    LOW
-NC0056 9-20  3.5-5.5   0.-.5  0-0    0.2-0.6   MODERATE
-NC0056 20-57 3.5-5.5   0.-.5  0-0    0.0-0.06  HIGH
-NC0056 57-78 3.5-5.5   0.-.5  0-0    0.0-0.06  LOW
-NC0056 78-88    -        -     -        -
+SOI-5   Depth   -pH-     O.M.   Salin    Permeab    Shnk-Swll
+NC0056   0-7   3.5-5.5  .5-2.    0-0     2.0-6.0      LOW
+NC0056   0-7   3.5-5.5  .5-2.    0-0     6.0-20       LOW
+NC0056   7-68  3.5-5.5  0.-.5    0-0     0.0-0.06     HIGH
+NC0056  68-83  3.5-5.5  0.-.5    0-0     0.0-0.06     LOW
 
-
+________________________________________
 National Cooperative Soil Survey
 U.S.A.

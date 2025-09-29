@@ -78,7 +78,7 @@ Nanford soils--are not as red as Georgeville and have a depth to weathered bedro
 Pacolet soils--have less than 30 percent silt in the control section
 Tarrus soils--have a depth to weathered bedrock of 102 to 152 centimeters (40 to 60 inches)
 Wedowee soils--are not as red as Georgeville and lack the greater than 30 percent silt requirement in the control section
- 
+
 GEOGRAPHIC SETTING: 
 Landscape: Piedmont Plateau of the thermic Southern Piedmont
 Landform: Interstream divides, ridges, and side slopes 
@@ -129,40 +129,40 @@ Typical User Pedon ID:
 
 TABULAR SERIES DATA:
 
-SOI-5  Soil Name                Slope  Airtemp  FrFr/Seas   Precip   Elevation
-SC0014 GEORGEVILLE   2-50    59-66    190-225        37-60    300-1100 
-SC0124 GEORGEVILLE   2-50    59-66    190-225        37-60    300-1100 
+SOI-5  Soil Name    Slope  Airtemp  FrFr/Seas   Precip   Elevation
+SC0014 GEORGEVILLE  2-50    59-66    190-225     37-60    300-1100 
+SC0124 GEORGEVILLE  2-50    59-66    190-225     37-60    300-1100 
 
-SOI-5  FloodL   FloodH    Watertable   Kind    Months   Bedrock   Hardness
-SC0014 NONE                    >6.0                -                            >60        
-SC0124 NONE                    >6.0                -                            >60        
+SOI-5  FloodL FloodH Watertable Kind  Months Bedrock Hardness
+SC0014 NONE           >6.0              -     >60        
+SC0124 NONE           >6.0              -     >60        
 
-SOI-5  Depth  Texture                                3-Inch  No-10     Clay%   -CEC-
-SC0014  0- 5  L VFSL SIL                          0-2       80-100     5-27     8-16
-SC0014  0- 5  SICL CL                                0-2      90-100    27-35    8-16
-SC0014  0- 5  FSL SL                                  0-2      80-100     5-20     4-10
-SC0014  5-42  C SIC SICL                          0-1      95-100    35-65     9-15
-SC0014 42-64  SICL L SIL                        0-5      90-100    15-40     7-15
+SOI-5  Depth  Texture             3-Inch  No-10   Clay%   -CEC-
+SC0014  0- 5  L VFSL SIL           0-2    80-100   5-27    8-16
+SC0014  0- 5  SICL CL              0-2    90-100  27-35    8-16
+SC0014  0- 5  FSL SL               0-2    80-100   5-20    4-10
+SC0014  5-42  C SIC SICL           0-1    95-100  35-65    9-15
+SC0014 42-64  SICL L SIL           0-5    90-100  15-40    7-15
 
-SC0124  0-5  GR-L GR-SIL GR-VFSL    0-10     55-75        5-27      8-16
-SC0124  0-5  SY-SIL SY-L SY-VFSL       0-5       70-80       5-27      8-16
-SC0124  0-5  GR-FSL GR-SL                  0-10      55-75        5-20      4-10
-SC0124  5-42 C SIC SICL                         0-1        95-100   35-65     9-15
-SC0124 42-64 SICL L SIL                        0-5       90-100   15-40      7-15
+SC0124  0-5  GR-L GR-SIL GR-VFSL   0-10   55-75    5-27    8-16
+SC0124  0-5  SY-SIL SY-L SY-VFSL   0-5    70-80    5-27    8-16
+SC0124  0-5  GR-FSL GR-SL          0-10   55-75    5-20    4-10
+SC0124  5-42 C SIC SICL            0-1    95-100  35-65    9-15
+SC0124 42-64 SICL L SIL            0-5    90-100  15-40    7-15
 
 
-SOI-5  Depth     -pH-      O.M.    Salin     Permeab    Shnk-Swll
-SC0014  0-5     4.5-7.3     .5-2.     0-0      0.6-2.0       LOW      
-SC0014  0-5     4.5-7.3    0.-.5     0-0      0.6-2.0       LOW      
-SC0014  0-5     4.5-6.0    .5-2.     0-0      0.6-2.0       LOW      
-SC0014  5-42   4.5-5.5    0.-.5     0-0      0.6-2.0       LOW      
-SC0014 42-64  4.5-5.5    0.-.5     0-0      0.6-2.0      LOW      
+SOI-5  Depth    -pH-      O.M.   Salin   Permeab    Shnk-Swll
+SC0014  0-5   4.5-7.3    .5-2.    0-0    0.6-2.0      LOW      
+SC0014  0-5   4.5-7.3    0.-.5    0-0    0.6-2.0      LOW      
+SC0014  0-5   4.5-6.0    .5-2.    0-0    0.6-2.0      LOW      
+SC0014  5-42  4.5-5.5    0.-.5    0-0    0.6-2.0      LOW      
+SC0014 42-64  4.5-5.5    0.-.5    0-0    0.6-2.0      LOW      
 
-SC0124  0-5      4.5-7.3    .5-2.     0-0      0.6-2.0      LOW      
-SC0124  0-5      4.5-7.3    .5-2.     0-0      0.6-2.0      LOW      
-SC0124  0-5      4.5-7.3    .5-2.     0-0      0.6-2.0      LOW      
-SC0124  5-42    4.5-5.5    0.-.5     0-0      0.6-2.0      LOW      
-SC0124 42-64  4.5-5.5     0.-.5    0-0      0.6-2.0      LOW      
+SC0124  0-5   4.5-7.3    .5-2.    0-0    0.6-2.0      LOW      
+SC0124  0-5   4.5-7.3    .5-2.    0-0    0.6-2.0      LOW      
+SC0124  0-5   4.5-7.3    .5-2.    0-0    0.6-2.0      LOW      
+SC0124  5-42  4.5-5.5    0.-.5    0-0    0.6-2.0      LOW      
+SC0124 42-64  4.5-5.5    0.-.5    0-0    0.6-2.0      LOW      
 
 ________________________________________
 National Cooperative Soil Survey

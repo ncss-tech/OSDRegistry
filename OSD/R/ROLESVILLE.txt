@@ -128,11 +128,12 @@ Data Map Unit ID:
 
 TABULAR SERIES DATA:
 
-Soil Name       Slope      Airtemp     FrFr/Seas     Precip     Elevation
-Rolesville        0-45        57-65         180-260        40-55        150-450
+Soil Name     Slope    Airtemp    FrFr/Seas   Precip   Elevation
+Rolesville    0-45      57-65      180-260    40-55     150-450
 
-FloodL    FloodH    Watertable   Kind   Months   Bedrock     Hardness
-NONE                     >6.0                   -                         20-40        Hard
+FloodL   FloodH   Watertable  Kind  Months   Bedrock   Hardness
+NONE              >6.0          -            20-40     Hard
+
 
 Depth   Texture    3-Inch    No-10    Clay%     -CEC-
  0-12   LS LCOS S   0-2      95-100   3-15        -

@@ -1,112 +1,179 @@
 LOCATION BETHERA                SC+AL FL GA NC VA 
 
 Established Series
-Rev. BNS-DJD
-07/1999
+BNS-DJD/Rev. DTA
+09/2025
 
-BETHERA SERIES 
+BETHERA SERIES
 
-The Bethera series consists of very deep, poorly drained, clayey soils that formed in marine or fluvial sediments.  Slopes range from 0 to 2 percent. 
+MLRA(s): 133A-Southern Coastal Plain, 153A-Atlantic Coast Flatwoods, 153B-Tidewater Area
+Soil Survey Regional Office (SSRO) Responsible: Southeast
+Depth Class: Very deep
+Agricultural Drainage Class: Poorly drained
+Internal Free Water Occurrence: Shallow, common
+Flooding Frequency and Duration: None
+Ponding Frequency and Duration: Rare or occasional for brief periods
+Index Surface Runoff: Low to negligible
+Saturated Hydraulic Conductivity Class: Moderately low
+Shrink-Swell Potential: Moderate
+Landscape: Lower, middle, upper coastal plain
+Landform: Marine terraces, uplands
+Geomorphic Component: Interfluve
+Hillslope Profile Position: Toeslopes
+Parent Material: Loamy marine deposits, fluviomarine deposits
+Slope: 0 to 2 percent
+Mean Annual Air Temperature (type location): 18 degrees C (65 degrees F)
+Mean Annual Precipitation (type location): 1219 millimeters (48 inches)
+Frost Free Period (type location): 250 days
 
-TAXONOMIC CLASS: Fine, mixed, semiactive, thermic Typic Paleaquults 
+TAXONOMIC CLASS: Fine, mixed, semiactive, thermic Typic Paleaquults
 
-TYPICAL PEDON:  Bethera loam--forested. (Colors are for moist soil.) 
+TYPICAL PEDON: Bethera loam--forested. (Colors are for moist soil.)
 
-     A1--0 to 2 inches; very dark gray (10YR 3/1) loam; moderate fine granular structure; friable; many fine and medium roots; extremely acid; abrupt wavy boundary.  (2 to 8 inches thick) 
+  A1--0 to 5 centimeters (0 to 2 inches); very dark gray (10YR 3/1) loam; moderate fine granular structure; friable; many fine and medium roots; extremely acid; abrupt wavy boundary. (5 to 20 centimeters (2 to 8 inches) thick)
 
-     A2--2 to 4 inches; dark gray (10YR 4/1) loam; weak fine granular structure; friable; many fine and medium roots; extremely acid; abrupt wavy boundary.  (0 to 7 inches thick) 
+  A2--5 to 10 centimeters (2 to 4 inches); dark gray (10YR 4/1) loam; weak fine granular structure; friable; many fine and medium roots; extremely acid; abrupt wavy boundary. (0 to 18 centimeters (0 to 7 inches) thick)
 
-     E--4 to 7 inches; gray (10YR 5/1) loam; weak fine granular structure; friable; many fine roots; many fine pores; very strongly acid; abrupt wavy boundary.  (0 to 5 inches thick) 
+  E--10 to 18 centimeters (4 to 7 inches); gray (10YR 5/1) loam; weak fine granular structure; friable; many fine roots; many fine pores; very strongly acid; abrupt wavy boundary. (0 to 13 centimeters (0 to 5 inches) thick)
 
-     BEg--7 to 10 inches; grayish brown (10YR 5/2) clay loam; weak fine angular blocky structure; firm; few fine roots; few fine pores; few faint clay films on faces of peds; few fine faint gray (10YR 6/1) iron depletions, and common fine distinct brownish yellow (10YR 6/6) irregularly shaped masses of iron accumulation; very strongly acid; clear wavy boundary.  (0 to 12 inches thick) 
+  BEg--18 to 25 centimeters (7 to 10 inches); grayish brown (10YR 5/2) clay loam; weak fine angular blocky structure; firm; few fine roots; few fine pores; few faint clay films on faces of peds; few fine faint gray (10YR 6/1) iron depletions, and common fine distinct brownish yellow (10YR 6/6) irregularly shaped masses of iron accumulation; very strongly acid; clear wavy boundary. (0 to 30 centimeters (0 to 12 inches) thick)
 
-     Btg1--10 to 41 inches; gray (10YR 5/1) clay; moderate fine angular blocky structure; firm; few fine roots; few fine pores; common distinct clay films on faces of peds; common medium distinct brownish yellow (10YR 6/6) and common medium prominent red (2.5YR 5/8) irregularly shaped masses of iron accumulation; very strongly acid; gradual wavy boundary. 
+  Btg1--25 to 104 centimeters (10 to 41 inches); gray (10YR 5/1) clay; moderate fine angular blocky structure; firm; few fine roots; few fine pores; common distinct clay films on faces of peds; common medium distinct brownish yellow (10YR 6/6) and common medium prominent red (2.5YR 5/8) irregularly shaped masses of iron accumulation; very strongly acid; gradual wavy boundary.
 
-     Btg2--41 to 68 inches; gray (10YR 5/1) clay; moderate fine angular blocky structure; firm; patchy distinct clay films on faces of peds; many medium distinct brownish yellow (10YR 6/8) irregularly shaped masses of iron accumulation; very strongly acid; gradual wavy boundary. (Combined thickness of the Btg is 35 to 60 inches or more) 
+  Btg2--104 to 173 centimeters (41 to 68 inches); gray (10YR 5/1) clay; moderate fine angular blocky structure; firm; patchy distinct clay films on faces of peds; many medium distinct brownish yellow (10YR 6/8) irregularly shaped masses of iron accumulation; very strongly acid; gradual wavy boundary. (Combined thickness of the Btg is 89 to 152 centimeters (35 to 60 inches) or more)
 
-     Cg--68 to 94 inches; 35 percent light brownish gray (2.5Y 6/2), 35 percent gray (5Y 6/1), and 30 percent light gray (10YR 7/1) clay; massive; firm; extremely acid; clear smooth boundary. 
+  Cg--173 to 239 centimeters (68 to 94 inches); 35 percent light brownish gray (2.5Y 6/2), 35 percent gray (5Y 6/1), and 30 percent light gray (10YR 7/1) clay; massive; firm; extremely acid; clear smooth boundary.
 
-TYPE LOCATION:  Berkeley County, South Carolina about 13 miles northeast of Moncks Corner; 3.7 miles SE of Macedonia on S.C. Highway 48; site is 100 feet northeast of highway. 
+TYPE LOCATION: Berkeley County, South Carolina about 13 miles northeast of Moncks Corner on US 17A to Macedonia; 3.7 miles SE of Macedonia on S.C. Highway 48; site is 100 feet northeast of highway.  USGS Bethera, South Carolina topographic quadrangle
 
-RANGE IN CHARACTERISTICS: Solum thickness is 60 to 80 inches or more. The soil is extremely acid to moderately acid throughout. 
+Latitude--33.246944
+Longitude-- -79.855
+Datum--WGS84
 
-The A or Ap horizon has hue of 10YR or 2.5Y, or is neutral; value of 2 to 4, and chroma of 0 to 2.  A or Ap horizons with value of less than 3.5 are less than 10 inches thick.  The A horizon is fine sandy loam, sandy loam, loam, silt loam, or clay loam. 
+RANGE IN CHARACTERISTICS: 
+Solum thickness: 152 to 203 centimeters (60 to 80 inches) or more 
+Depth to Bedrock: Greater than 152 centimeters (60 inches)
+Depth to Seasonal High Water Table: 0 to 30 centimeters (0 to 12 inches)
+Soil Reaction: Extremely acid to moderately acid throughout
 
-The E horizon, where present, has hue of 10YR to 5Y, or is neutral; value of 4 to 7, and chroma of 0 to 2.  It is fine sandy loam, loam, silt loam, or clay loam. 
+RANGE OF INDIVIDUAL HORIZONS:
+A or Ap horizon:
+Color--hue of 10YR or 2.5Y, or is neutral, value of 2 to 4, chroma of 0 to 2. 
+A or Ap horizons with value of less than 3.5 are less than 10 inches thick. Texture--fine sandy loam, sandy loam, loam, silt loam, or clay loam
 
-The BEg or EBg horizon, where present, has properties similar to the adjacent horizons. 
+E horizon, where present:
+Color--hue of 10YR to 5Y, or is neutral, value of 4 to 7, chroma of 0 to 2
+Texture--fine sandy loam, loam, silt loam, or clay loam.
 
-The Btg horizon has hue of 10YR to 5Y, or is neutral; value of 4 to 7, and chroma of 0 to 2.  Common to many masses of iron accumulation in shades of yellow, brown, or red are in most pedons.  The Btg horizon commonly is clay loam, sandy clay, or clay; but ranges to silty clay loam or silty clay. 
+BEg or EBg horizon:
+Color--hue of 10YR to 5Y, or is neutral, value of 4 to 7, chroma of 0 to 2
+Texture--sandy clay loam or clay loam
 
-The BCg or CBg horizon, where present, has hue of 10YR to 5Y, or is neutral; value of 5 to 7, and chroma of 0 to 2.  Common to many masses of iron accumulation in shades of yellow, brown, or red, are in most pedons.  The BCg or CBg horizon is sandy clay loam, clay loam, sandy clay, or clay. 
+Btg horizon:
+Color--hue of 10YR to 5Y, or is neutral, value of 4 to 7, chroma of 0 to 2. Texture--clay loam, sandy clay, or clay; but ranges to silty clay loam or silty clay.
+Redoximorphic features (if they occur)--iron masses in shades of yellow, brown, or red
 
-The Cg horizon has hue of 10YR to 5Y, 5BG, or is neutral; value of 5 to 7, and chroma of 0 to 2.  Many pedons have a combination of these colors.  The Cg horizon is sandy clay loam, sandy clay, or clay. 
+BCg or CBg horizon, where present: 
+Color--hue of 10YR to 5Y, or is neutral, value of 5 to 7, chroma of 0 to 2. Redoximorphic features (if they occur)--iron masses in shades of yellow, brown, or red
+Texture--sandy clay loam, clay loam, sandy clay, or clay.
 
-COMPETING SERIES: (Due to complexity of changes in the Keys to Taxonomy, this section was not updated at this time). There are no other known series in this family. Similar series in other families are Bayboro, Bladen, Byars, Cantey, Coxville, Grady, Leaf, Lumbee, Pantego, Paxville, Rains, Rembert, and Roanoke series.  Bayboro, Byars, Pantego, and Paxville soils have an umbric epipedon.  Bladen, Cantey, and Leaf soils have an abrupt texture change between the A and B horizons.  Byars, Cantey, Coxville, and Rembert soils have kaolinitic mineralogy.  Lumbee, Pantego, Paxville, and Rains soils have a fine-loamy particle-size control section. Roanoke soils have a solum thickness of 40 to 60 inches. 
+Cg horizon:
+Color--hue of 10YR to 5Y, 5BG, or is neutral, value of 5 to 7, chroma of 0 to 2 or is mottled in these colors.  
+Texture--sandy clay loam, sandy clay, or clay.
 
-GEOGRAPHIC SETTING:  Bethera soils are on nearly level and slightly depressional areas on terraces and flood plains of the lower Coastal Plain.  Slopes are less than 2 percent.  The soils formed in clayey marine or fluvial sediments.  The mean annual precipitation ranges from 48 to 52 inches, and mean annual temperature ranges from 65 to 70 degrees F.  The frost-free season ranges from 240 to 280 days. 
+COMPETING SERIES: There are no other known series in this family. Similar series in other families:
+Byars soils--are very poorly drained and have kaolinitic mineralogy.
+Cantey soils--have an abrupt texture change between the A and B horizons and have kaolinitic mineralogy. 
+Coxville soils--have kaolinitic mineralogy. 
+Grady soils--are only in MLRA 133A and have a kaolinitic mineraology.
+Lumbee soils--are fine-loamy.
+Paxville soils--are very poorly drained and are fine-loamy.
+Rembert  soils--have kaolinitic mineralogy.  
 
-GEOGRAPHICALLY ASSOCIATED SOILS:  These are the competing Bayboro, Bladen, Leaf, Pantego, Rains, and Roanoke series, and the Craven, Goldsboro, Lynchburg, and Wahee series.  Craven and Goldsboro soils are on higher landscapes, and have dominant chroma of 3 or more in the Bt horizon. Lynchburg and Wahee soils are on slightly higher landscapes and have a subhorizon dominated by chroma of 3 or more.  Goldsboro and Lynchburg soils also have a fine-loamy particle-size control section. 
+GEOGRAPHIC SETTING: 
+Landscape: Coastal Plain
+Landform: Nearly level or slightly depressional terraces and uplands
+Parent Material: Clayey marine or fluvial sediments
+Mean Annual Air Temperature: 18 to 21 degrees C (65 to 70 degrees F)
+Mean Annual Precipitation: 1219 to 1321 millimeters (48 to 52 inches) 
+Frost-free period: 240 to 280 days.
 
-DRAINAGE AND PERMEABILITY:  Poorly drained; very slow to ponded runoff; moderately slow or slow permeability.  The water table is at or near the surface for 3 to 5 months in most years. Some areas near streams have occasional or frequent flooding. 
+GEOGRAPHICALLY ASSOCIATED SOILS: 
+Bayboro soils-are very poorly drained and have an umbric epipedon.
+Bladen soils--have an abrupt texture change between the E and B horizons.
+Craven soils--are moderately well drained and occur on higher landscapes.
+Goldsboro soils--are moderately well drained and are fine-loamy.
+Leaf soils--have an abrupt texture change between the E and B horizons.
+Lynchburg soils--are somewhat poorly drained and are fine-loamy.
+Pantego soils--are very poorly drained and are fine-loamy.
+Rains soils--are fine-loamy. 
+Roanoke soils--have a solum thickness less than 152 centimeters (60 inches) and occur on fluvial terraces.
+Wahee soils--are somewhat poorly drained and occur on fluvial terraces.
 
-USE AND VEGETATION:  Most of the acreage is in forest of loblolly pine, slash pine, black tupelo, red maple, sweetgum, white oak, baldcypress, and water oak.  The undergrowth is waxmyrtle, sweetbay, blackberry, and sumac.  Cleared and drained areas are used principally for growing corn, soybeans, small grains, hay, and pasture. 
+DRAINAGE AND SATURATED HYDRAULIC CONDUCTIVITY: 
+Agricultural Drainage Class: Poorly drained 
+Index Surface Runoff: Low to negligible
+Saturated Hydraulic Conductivity Class: Moderately low
 
-DISTRIBUTION AND EXTENT:  Lower Southern Coastal Plain of Alabama, Florida, North Carolina, and South Carolina.  The series is of large extent. 
+USE AND VEGETATION: 
+Major uses: Woodland and where drained, some cropland
+Dominant vegetation: Where wooded--loblolly pine, slash pine, black tupelo, red maple, sweetgum, white oak, baldcypress, and water oak. The undergrowth is waxmyrtle, sweetbay, blackberry, and sumac. Where drained and cultivated--corn, soybeans, small grains, hay, and pasture.
 
-MLRA SOIL SURVEY REGIONAL OFFICE (MO) RESPONSIBLE: Raleigh, North Carolina
+SOIL SURVEY REGIONAL OFFICE (SSRO) RESPONSIBLE: Auburn, Alabama 
 
-SERIES ESTABLISHED:  Berkeley County, South Carolina; l974. 
+DISTRIBUTION AND EXTENT: 
+Distribution: Alabama, Florida, North Carolina, and South Carolina. 
+Extent: Extensive
 
-REMARKS:  The Bethera series formerly was included in the Coxville series. 
+SERIES ESTABLISHED: Berkeley County, South Carolina; l974
 
-Diagnostic horizons and features recognized in this pedon are: 
+REMARKS: 
+The Bethera series was formerly included in the Coxville series.  Clay mineralogy data indicated Bethera soils have mixed mineralogy.
 
-Ochric epipedon - the zone from the surface of the soil to a depth of 7 inches (A1, A2 and E horizons). 
+The September 2025 revision reformatted the description to semi-tabular.  No data was changed.
 
-Argillic horizon - the zone from 7 to 68 inches (BEg, Btg1 and Btg2 horizons). 
+Diagnostic horizons and soil characteristics recognized in this pedon:
+Ochric epipedon--the zone from the surface to a depth of 18 centimeters (7 inches) (A1, A2, and E horizons).
+Argillic horizon--the zone from 18 to 173 centimeters (7 to 68 inches) (Beg, Btg1, and Btg2 horizons).
+Aquic conditions--endosaturation from the surface as indicated by matrix colors showing iron depletion, as well as areas of iron accumulation in the argillic horizon.
 
-Aquic conditions - endosaturation from the surface as indicated by matrix colors showing iron depletion, as well as areas of iron accumulation in the argillic horizon. 
-
-KEYS TO TAXONOMY = 1996
-
-MLRA = 153A, 153B, 133A 
-
-SIR =  SC0023, SC0109 (FLOODED) 
+ADDITIONAL DATA:
+Typical Data Map Unit:
+Typical User Pedon ID:
 
 TABULAR SERIES DATA:
+SOI-5  Soil Name   Slope  Airtemp  FrFr/Seas  Precip  Elevation
+SC0023 BETHERA      0-2    65- 70   240-280   48-52    25-120 
+SC0109 BETHERA      0-2    65- 70   240-280   48-52    25-120 
 
-SOI-5  Soil Name   Slope  Airtemp FrFr/Seas Precip  Elevation
-SC0023 BETHERA     0-  2   65- 70  240-280  48- 52    25- 120 
-SC0109 BETHERA     0-  2   65- 70  240-280  48- 52    25- 120 
+SOI-5  FloodL  FloodH  Watertable   Kind     Months   Bedrock Hardness
+SC0023 NONE               0-1.5    APPARENT  DEC-APR     >60        
+SC0109 COMMON             0-1.5    APPARENT  DEC-APR     >60        
 
-SOI-5  FloodL FloodH Watertable Kind   Months  Bedrock Hardness
-SC0023 NONE             -     APPARENT    -     60-60        
-SC0109 COMMON          0-1.5  APPARENT DEC-APR  60-60        
-
-SOI-5  Depth  Texture                3-Inch  No-10  Clay%   -CEC-
-SC0023  0- 7  FSL                     0-  0  98-100  5-20   2-  6
-SC0023  0- 7  L SIL                   0-  0  95-100 10-20   3- 10
-SC0023  0- 7  CL                      0-  0  95-100 27-35   4- 10
-SC0023  7-68  C CL SC                 0-  0  98-100 35-50   8- 20
-SC0023 68-80  C SC SCL                0-  0  98-100 20-50   4- 18
-SC0109  0- 7  FSL SL                  0-  0  98-100  5-20   2-  6
-SC0109  0- 7  L SIL                   0-  0  95-100 10-27   3- 10
-SC0109  0- 7  CL                      0-  0  95-100 27-35   4- 10
-SC0109  7-68  C CL SC                 0-  0  98-100 35-50   8- 20
-SC0109 68-80  C SC SCL                0-  0  98-100 20-50   4- 18
+SOI-5  Depth  Texture             3-Inch  No-10    Clay%    -CEC-
+SC0023  0- 7  FSL                   0-0   98-100   5-20     2-6
+SC0023  0- 7  L SIL                 0-0   95-100  10-20     3-10
+SC0023  0- 7  CL                    0-0   95-100  27-35     4-10
+SC0023  7-68  C CL SC               0-0   98-100  35-50     8-20
+SC0023 68-80  C SC SCL              0-0   98-100  20-50     4-18
+SC0109  0- 7  FSL SL                0-0   98-100   5-20     2-6
+SC0109  0- 7  L SIL                 0-0   95-100  10-27     3-10
+SC0109  0- 7  CL                    0-0   95-100  27-35     4-10
+SC0109  7-68  C CL SC               0-0   98-100  35-50     8-20
+SC0109 68-80  C SC SCL              0-0   98-100  20-50     4-18
 
 SOI-5  Depth    -pH-     O.M.  Salin  Permeab   Shnk-Swll
-SC0023  0- 7  3.6- 6.0  1.-6.  0- 0   0.6- 2.0  LOW      
-SC0023  0- 7  3.6- 6.0  1.-6.  0- 0   0.6- 2.0  LOW      
-SC0023  0- 7  3.6- 6.0  1.-6.  0- 0   0.6- 2.0  MODERATE 
-SC0023  7-68  3.6- 6.0  .5-1.  0- 0  0.06- 0.6  MODERATE 
-SC0023 68-80  3.6- 6.0  .5-1.  0- 0  0.06- 2.0  MODERATE 
-SC0109  0- 7  3.6- 6.0  1.-6.  0- 0   0.6- 2.0  LOW      
-SC0109  0- 7  3.6- 6.0  1.-6.  0- 0   0.6- 2.0  LOW      
-SC0109  0- 7  3.6- 6.0  1.-6.  0- 0   0.6- 2.0  MODERATE 
-SC0109  7-68  3.6- 6.0  .5-1.  0- 0  0.06- 0.6  MODERATE 
-SC0109 68-80  3.6- 6.0  .5-1.  0- 0  0.06- 2.0  MODERATE  
+SC0023  0- 7  3.6- 6.0  1.-6.  0-0    0.6-2.0    LOW   
+SC0023  0- 7  3.6- 6.0  1.-6.  0-0    0.6-2.0    LOW      
+SC0023  0- 7  3.6- 6.0  1.-6.  0-0    0.6-2.0    MODERATE 
+SC0023  7-68  3.6- 6.0  .5-1.  0-0   0.06-0.6    MODERATE 
+SC0023 68-80  3.6- 6.0  .5-1.  0-0   0.06-2.0    MODERATE 
+SC0109  0- 7  3.6- 6.0  1.-6.  0-0    0.6-2.0    LOW      
+SC0109  0- 7  3.6- 6.0  1.-6.  0-0    0.6-2.0    LOW      
+SC0109  0- 7  3.6- 6.0  1.-6.  0-0    0.6-2.0    MODERATE 
+SC0109  7-68  3.6- 6.0  .5-1.  0-0   0.06-0.6    MODERATE 
+SC0109 68-80  3.6- 6.0  .5-1.  0-0   0.06-2.0    MODERATE  
 
+________________________________________
 National Cooperative Soil Survey
 U.S.A.
