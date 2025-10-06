@@ -2,7 +2,7 @@ LOCATION BODECKER               AZ+TX
 
 Established Series
 Rev. LLJR/PDC
-11/2014
+09/2025
 
 BODECKER SERIES
 
@@ -12,13 +12,13 @@ TAXONOMIC CLASS: Sandy-skeletal, mixed, thermic Ustic Torrifluvents
 
 TYPICAL PEDON: Bodecker extremely gravelly sandy loam - cropland.  (Colors are for dry soil unless otherwise noted.)
 
-    Apl--0 to 1 inch; brown (7.5YR 5/3) extremely gravelly sandy loam, brown (7.5YR 4/3) moist; weak thin platy structure; soft, very friable, nonsticky and nonplastic; many fine roots; many fine irregular pores; 65 percent gravel; slightly effervescent; moderately alkaline (pH 8.0); abrupt wavy boundary. (1 to 2 inches thick)
+    Ap1--0 to 1 inch (0 to 3 cm); brown (7.5YR 5/3) extremely gravelly sandy loam, brown (7.5YR 4/3) moist; weak thin platy structure; soft, very friable, nonsticky and nonplastic; many fine roots; many fine irregular pores; 65 percent gravel; slightly effervescent; moderately alkaline (pH 8.0); abrupt wavy boundary. (1 to 2 inches thick)
 
-    Ap2--1 to 14 inches; brown (7.5YR 5/4) very gravelly sandy loam, brown (7.5YR 4/4) moist; massive; soft, very friable, nonsticky and nonplastic; many very fine roots; many fine irregular pores; 55 percent gravel; slightly effervescent; moderately alkaline (pH 8.0); clear wavy boundary.  (5 to 13 inches thick)
+    Ap2--1 to 14 inches (3 to 36 cm); brown (7.5YR 5/4) very gravelly sandy loam, brown (7.5YR 4/4) moist; massive; soft, very friable, nonsticky and nonplastic; many very fine roots; many fine irregular pores; 55 percent gravel; slightly effervescent; moderately alkaline (pH 8.0); clear wavy boundary.  (5 to 13 inches thick)
 
-    C1--14 to 52 inches; pale brown (10YR 6/3) extremely gravelly sand, brown (10YR 5/3) moist; single grain; loose, nonsticky and nonplastic; common very fine roots; many fine irregular pores; 75 percent gravel; slightly effervescent; moderately alkaline (pH 8.0); abrupt wavy boundary.
+    C1--14 to 52 inches (36 to 132 cm); pale brown (10YR 6/3) extremely gravelly sand, brown (10YR 5/3) moist; single grain; loose, nonsticky and nonplastic; common very fine roots; many fine irregular pores; 75 percent gravel; slightly effervescent; moderately alkaline (pH 8.0); abrupt wavy boundary.
 
-    C2--52 to 60 inches; light brownish gray (10YR 6/2) silt loam, grayish brown (10YR 5/2) moist; massive; slightly hard, very friable, slightly sticky and slightly plastic; few very fine roots; many very fine tubular pores; slightly effervescent; slightly alkaline (pH 7.5).  (Combined thickness of the C horizons is 45 to 56 inches)
+    C2--52 to 60 inches 132 to 152 cm); light brownish gray (10YR 6/2) silt loam, grayish brown (10YR 5/2) moist; massive; slightly hard, very friable, slightly sticky and slightly plastic; few very fine roots; many very fine tubular pores; slightly effervescent; slightly alkaline (pH 7.5).  (Combined thickness of the C horizons is 45 to 56 inches)
 
 TYPE LOCATION: Cochise County, Arizona; about 2 miles east of Elfrida; 1900 feet east, 1700 feet south of the northwest corner of section 14, T. 20 S., R. 26 E.  Lat. 31 degrees 41 minutes 43 seconds N. and long. 109 degrees 39 minutes 50 seconds W., NAD83
 
@@ -35,7 +35,7 @@ Reaction: neutral to strongly alkaline
 Calcium carbonate equivalent: less than 5 percent, decreases with depth
 
 A and C horizons
-Hue:  l0YR, 7.5YR
+Hue:  10YR, 7.5YR
 Value:  4 to 6 dry, 3 to 6 moist
 Chroma:  2 to 4, dry or moist
 Texture:  sandy loam, loamy sand, sand, loamy fine sand, coarse sand, loamy coarse sand, coarse sandy loam, very fine sandy loam, silt loam, fine sandy loam, sandy clay loam
@@ -52,7 +52,7 @@ USE AND VEGETATION:  Bodecker soils are used for livestock grazing, wildlife hab
 
 DISTRIBUTION AND EXTENT:  Southern Arizona and West Texas.  Bodecker soils are not extensive. This soil occurs in MLRAs 38, 40, 41, and 42.
 
-MLRA SOIL SURVEY REGIONAL OFFICE (MO) RESPONSIBLE: Phoenix, Arizona
+SOIL SURVEY REGIONAL OFFICE (SSRO) RESPONSIBLE: Davis, California
 
 SERIES ESTABLISHED:  Yavapai County, Arizona; Soil survey of Black Hills-Sedona Area, Arizona, Parts of Yavapai and Coconino Counties; 1996.
 

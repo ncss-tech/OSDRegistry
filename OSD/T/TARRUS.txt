@@ -1,107 +1,186 @@
-LOCATION TARRUS                 NC
+LOCATION TARRUS                 NC+SC VA
 
 Established Series
 Rev. PWW-DTA
-06/2000
+09/2025
 
 TARRUS SERIES
 
-Soils of the Tarrus series are deep and well drained. They have moderate permeability.  They formed in residuum from argillite or other fine-grained metavolcanic rocks of the Carolina Slate Belt.  These soils are on uplands of the Piedmont physiographic region.  Slopes range from 0 to 50 percent.  Mean annual temperature is about 62 degrees F., and mean annual precipitation is about 44 inches.
+MLRA(s): 136 (thermic part)
+Soil Survey Regional Office (SSRO) Responsible: Southeast
+Depth Class: Deep
+Agricultural Drainage Class: Well drained
+Index Surface Runoff: Medium
+Saturated Hydraulic Conductivity Class: Moderately high
+Shrink-Swell Potential: Low
+Landscape: Piedmont uplands
+Landform: Interstream divides, ridges, and side slopes
+Parent Material: Residuum weathered from argillite or other fine-grained metavolcanic rocks of the Carolina Slate Belt. 
+Slope: 0 to 50 percent
+Mean Annual Air Temperature: 17 degrees C (62 degrees F)
+Mean Annual Precipitation: 1118 millimeters (44 inches)
 
 TAXONOMIC CLASS: Fine, kaolinitic, thermic Typic Kanhapludults
 
-TYPICAL PEDON:  Tarrus silt loam-woodland.  (Colors are for moist soil.)
+TYPICAL PEDON: Tarrus silt loam-woodland. (Colors are for moist soil.)
 
-  A--O to 6 inches; reddish yellow (7.5YR 6/6) silt loam; weak fine granular structure; friable; common fine and medium roots; strongly acid; clear smooth boundary.  (0 to 8 inches thick)
+  A--0 to 15 centimeters (O to 6 inches); reddish yellow (7.5YR 6/6) silt loam; weak fine granular structure; friable; common fine and medium roots; strongly acid; clear smooth boundary. (0 to 20 centimeters (0 to 8 inches) thick)
 
-  Bt1--6 to 20 inches; red (2.5YR 5/8) silty clay; moderate medium subangular blocky structure; firm, slightly sticky, slightly plastic; few fine roots; common distinct clay films on faces of peds; very strongly acid; gradual wavy boundary.
+  Bt1--15 to 51 centimeters (6 to 20 inches); red (2.5YR 5/8) silty clay; moderate medium subangular blocky structure; firm, slightly sticky, slightly plastic; few fine roots; common distinct clay films on faces of peds; very strongly acid; gradual wavy boundary.
 
-  Bt2--20 to 44 inches; red (2.5YR 5/8) clay; common medium prominent brownish yellow (10YR 6/8) mottles; moderate medium subangular blocky structure; firm, slightly sticky, slightly plastic; common distinct clay films on faces of peds; very strongly acid; gradual wavy boundary.  (Combined thickness of the Bt horizon is 25 to 56 inches.)
+  Bt2--51 to 112 centimeters (20 to 44 inches); red (2.5YR 5/8) clay; common medium prominent brownish yellow (10YR 6/8) mottles; moderate medium subangular blocky structure; firm, slightly sticky, slightly plastic; common distinct clay films on faces of peds; very strongly acid; gradual wavy boundary. (Combined thickness of the Bt horizon is 63 to 142 centimeters (25 to 56 inches.)
 
-  Cr--44 to 62 inches; weathered, moderately fractured argillite.
+  Cr--112 to 157 centimeters (44 to 62 inches); weathered, moderately fractured argillite.
 
-TYPE LOCATION:  Randolph County, North Carolina; 0.9 mile east of intersection of Secondary Road 1181 and Secondary Road 1105, 500 feet north of intersection of Secondary 1105 and logging road; 30 feet west of logging road in woods.  Eleazer USGS topographic quadrangle.
+TYPE LOCATION: Randolph County, North Carolina; 0.9 mile east of intersection of Secondary Roads 1181 and 1105, 500 feet north of intersection of Secondary 1105 and logging road; 30 feet west of logging road in woods. USGS Eleazer, North Carolina topographic quadrangle.
 
-RANGE IN CHARACTERISTICS:  Solum thickness ranges from 30 to 60 inches.  Depth to soft bedrock ranges from 40 to 60 inches. Depth to hard bedrock is more than 60 inches.  The upper 20 inches of the Bt horizon ranges from 35 to 60 percent clay.  The soil is very strongly acid or strongly acid throughout unless limed.  Rock fragments of quartz or other fine-grained rock range from 0 to 40 percent in individual horizons throughout.  Flakes of mica may be present throughout the soil.
+Latitude--35.527778
+Longitude-- -79.996111
+Datum--WGS84
 
-The A or Ap horizon has hue of 5YR to 10YR, value of 3 through 6, and chroma of 2 through 8.   It is silt loam, loam, very fine sandy loam, or fine sandy loam in the fine-earth fraction.  Eroded areas include clay loam or silty clay loam in the fine earth fraction. 
+RANGE IN CHARACTERISTICS: 
+Solum thickness: 76 to 102 centimeters (30 to 40 inches)
+Depth to soft bedrock: 102 to 152 centimeters (40 to 60 inches) to weathered bedrock (paralithic contact--Cr)
+Depth to hard bedrock: Greater than 152 centimeters (60 inches) to unweathered bedrock (lithic contact--R)
+Depth to Seasonal High Water Table: Greater than 152 centimeters (60 inches)
+Rock Fragment Content: 0 to 40 percent, by volume, throughout
+Mica Content: 0 to 20 percent, by volume
+Soil Reaction: Very strongly acid or strongly acid, unless limed 
 
-The E horizon, where present, has hue of 7.5YR or 10YR, value of 5 or 6, and chroma of 3 through 6.  It is loam, silt loam or fine sandy loam in the fine-earth fraction.
+RANGE OF INDIVIDUAL HORIZONS:
+A or Ap horizon:
+Color--hue of 5YR to 10YR, value of 3 to 6, chroma of 2 to 8 
+Texture (fine-earth fraction)--silt loam, loam, very fine sandy loam, or fine sandy loam; where eroded, clay loam or silty clay loam.
 
-The BE horizon, where present, has hue of 2.5YR through 10YR, value of 4 through 6, and chroma of 3 through 8.  It is loam, silt loam, clay loam, or silty clay loam in the fine-earth fraction.
+E horizon (if it occurs):
+Color--hue of 7.5YR or 10YR, value of 5 or 6, chroma of 3 to 6 
+Texture (fine-earth fraction)--loam, silt loam or fine sandy loam in the fine-earth fraction.
 
-The Bt horizon has hue of 10R or 2.5YR, value of 4 or 5, and chroma of 6 to 8.  Some pedons have mottles in shades of yellow, red, or brown.  It is silty clay loam, silty clay, clay loam, or clay in the fine-earth fraction and contains more than 30 percent silt or more than 40 percent silt plus very fine sand.
+The BE horizon (if it occurs):
+Color--hue of 2.5YR to 10YR, value of 4 to 6, chroma of 3 to 8
+Texture (fine-earth fraction)--loam, silt loam, clay loam, or silty clay loam 
 
-The BC or CB horizons, where present, have hue of 10R through 5YR, value of 4 through 6, and chroma of 4 through 8.  Some pedons have mottles in shades of yellow, red, or brown. Other colors occur as streaks or mottles in some pedons.  Texture is clay loam, silty clay loam, silty clay, or clay in the fine-earth fraction.
+Bt horizon:
+Color--hue of 10R or 2.5YR, value of 4 or 5, chroma of 6 to 8. Some pedons have mottles in shades of yellow, red, or brown. 
+Texture (fine-earth fraction)--silty clay loam, silty clay, clay loam, or clay contains more than 30 percent silt or more than 40 percent silt plus very fine sand.
 
-The C horizon, where present, has hue of 10R through 5YR, value of 4 through 6, and chroma of 4 through 8.  Some pedons have mottles in shades of yellow, red, or brown. It is silt loam, loam, clay loam, silty clay loam, silty clay, or clay saprolite in the fine-earth fraction.
+BC or CB horizons (if it occurs):
+Color--hue of 10R to 5YR, value of 4 to 6, chroma of 4 to 8. Some pedons have mottles in shades of yellow, red, or brown. Other colors occur as streaks or mottles in some pedons. 
+Texture (fine-earth fraction)--clay loam, silty clay loam, silty clay, or clay 
 
-The Cr horizon is weathered, slightly fractured to highly fractured argillite or other fine grained metavolcanic rock
+C horizon (if it occurs):
+Color--hue of 10R to 5YR, value of 4 to 6, chroma of 4 to 8. Some pedons have mottles in shades of yellow, red, or brown. 
+Texture (fine-earth fraction)--silt loam, loam, clay loam, silty clay loam, silty clay, or clay saprolite
 
-COMPETING SERIES:  These are the Brockroad, Catharpin, Georgeville, Herndon, and Nanford series in the same family.  Brockroad and Catharpin soils have a lithologic discontinuity.  Georgeville and Herndon soils do not have a paralithic contact within 60 inches.  Nanford soils have Bt horizons that are 5YR or yellower.  
+Cr horizon:
+Type of bedrock--weathered, slightly fractured to highly fractured argillite or other fine grained metavolcanic rock
 
-GEOGRAPHIC SETTING:  Tarrus soils are on gently sloping to very steep uplands.  The slopes are generally convex; gradients are mostly between 4 and 15 percent, but the extreme range is from 0 to 50 percent.  The soils formed in residuum weathered from argillite or other fine-grained metavolcanic rocks of the Carolina Slate Belt.  The mean annual air temperature ranges from 59 to 65 degrees F., and mean annual precipitation ranges from about 40 to 50 inches.  Length of growing season ranges from 175 to 240 days.
+COMPETING SERIES: 
+Appling soils--formed in felsic crystalline parent material, have a yellow subsoil, have less than 30 percent silt, and are very deep
+Bethlehem soils--formed in felsic crystalline parent material, have less than 30 percent silt, and are moderately deep
+Cecil soils--formed in felsic crystalline parent material, have less than 30 percent silt, and are very deep
+Georgeville soils--are very deep 
+Herndon soils--have a yellow subsoil and are very deep
+Nanford soils--have a yellow subsoil
+Pacolet soils--formed in felsic crystalline parent material, have less than 30 percent silt, and are very deep
+Saw soils--formed in felsic crystalline parent material, have less than 30 percent silt, and are moderately deep.
+Wedowee soils-- formed in felsic crystalline parent material, have a yellow subsoil, have less than 30 percent silt, and are very deep
 
-GEOGRAPHICALLY ASSOCIATED SOILS:  These are the competing Georgeville, Herndon, and Nanford series, and the Alamance, Badin, Cid, Goldston, Gundy, Kirksey, Lignum, and Orange series.  Alamance and Kirksey soils have less than 35 percent clay in the Bt horizon.  Gundy soils have a base saturation greater than 35 percent.  Lignum soils have iron depletions in the upper 10 inches of the Bt horizon. Goldston soils have paralithic contact at less than 20 inches.  
+GEOGRAPHIC SETTING: 
+Landscape: Piedmont uplands
+Landform: Ridges and hill slopes
+Landform: Interstream divides, ridges, and side slopes
+Parent Material: Residuum weathered from argillite or other fine-grained metavolcanic rocks of the Carolina Slate Belt 
+Mean Annual Air Temperature: 15 to 18 degrees C (59 to 65 degrees F)
+Mean Annual Precipitation: 1016 to 1270 millimeters (40 to 50 inches)
+Frost Free Period: 175 to 240 days
 
-DRAINAGE AND PERMEABILITY:  Well drained.  Runoff is slow to very rapid, and permeability is moderate.
+GEOGRAPHICALLY ASSOCIATED SOILS: 
+Alamance soils--are fine-silty and are very deep
+Badin soils--are moderately deep
+Biscoe soils--are fine-silty, moderately deep, and somewhat poorly drained
+Callison soils--are fine-silty, moderately deep, and moderately well drained
+Cid soils--are moderately well or somewhat poorly drained and are moderately deep
+Goldston soils--are loamy-skeletal and shallow
+Gundy soils--formed from residuum weathered from mafic crystalline rock
+Kirksey soils--are fine-silty and moderately well drained 
+Lignum soils--are moderately well or somewhat poorly drained 
+Mandale soils--are fine-silty, very deep, and somewhat poorly drained
+Secrest soils--are fine-silty and somewhat poorly to moderately well drained
 
-USE AND VEGETATION:  Mostly in woodland of mixed hardwoods and pine.  Some acreage is in cultivated crops and pasture.  Crops are mostly corn, small grain, hay, and soybeans.
+DRAINAGE AND SATURATED HYDRAULIC CONDUCTIVITY: 
+Agricultural Drainage Class: Well drained
+Index Surface Runoff: Medium
+Saturated Hydraulic Conductivity: Moderately high
 
-DISTRIBUTION AND EXTENT:  In the thermic Piedmont Plateau in North Carolina, and possibly South Carolina, Alabama, Georgia, and Virginia.  The series is of moderate extent.
+USE AND VEGETATION: 
+Major Uses: Woodland and some cropland and pasture
+Dominant Vegetation: Where wooded--mixed hardwoods and pine.  Where cultivated--corn, small grain, and soybeans.
 
-MLRA SOIL SURVEY REGIONAL OFFICE (MO) RESPONSIBLE: Raleigh, North Carolina
+SOIL SURVEY REGIONAL OFFICE (SSRO) RESPONSIBLE: Auburn, Alabama
 
-SERIES ESTABLISHED:  Randolph County, North Carolina, 1999.
+DISTRIBUTION AND EXTENT: 
+Distribution: North Carolina, South Carolina, and Virginia
+Extent: Moderate 
 
-REMARKS:  Diagnostic horizons and features recognized in this pedon are: 
-a.  Ochric epipedon - the zone from 0 to 6 inches (A horizon).
-b.  Argillic horizon - the zone from 6 to 44 inches (Bt horizons).  
-c.  Paralithic contact at 44 inches.
+SERIES ESTABLISHED: Randolph County, North Carolina, 1999.
 
-ADDITIONAL DATA: None
+REMARKS: 
+Tarrus soils were formerly mapped as Tatum soils.  Tatum soils have mixed mineralogy and formed from sericite schist, phyllite, or other fine-grained metamorphic rocks.  The September 2025 revision corrected some of the formatting. No data was changed.
+
+Diagnostic horizons and soil characteristics recognized in this pedon are:
+Ochric epipedon--the zone from 0 to 15 centimeters (0 to 6 inches) (A horizon).
+Argillic horizon--the zone from 15 to 112 centimeters (6 to 44 inches) (Bt horizons).
+Paralithic contact--soft weathered bedrock at 112 centimeters (44 inches) (Cr horizon)
+
+ADDITIONAL DATA:
 
 TABULAR SERIES DATA:
 
-SOI-5  Soil Name   Slope  Airtemp FrFr/Seas Precip  Elevation
-NC0000 TARRUS      0- 50   59- 65  175-240  40- 50   250- 900 
-NC0000 TARRUS      0- 50   58- 65  180-200  38- 46   250- 900 
-NC0000 TARRUS      0- 50   58- 65  180-200  38- 46   250- 900 
+SOI-5  Soil Name   Slope  Airtemp  FrFr/Seas  Precip  Elevation
+NC     TARRUS      0-50   59-65    175-240    40-50   250-900 
+NC     TARRUS      0-50   58-65    180-200    38-46   250-900 
+NC     TARRUS      0-50   58-65    180-200    38-46   250-900 
 
 SOI-5  FloodL FloodH Watertable Kind   Months  Bedrock Hardness
-NC0000 NONE          6.0-6.0              -     40-60   SOFT 
-NC0000 NONE          6.0-6.0              -     40-60   SOFT 
-NC0000 NONE          6.0-6.0              -     40-60   SOFT 
+NC     NONE          >6.0                -     40-60   SOFT 
+NC     NONE          >6.0                -     40-60   SOFT 
+NC     NONE          >6.0                -     40-60   SOFT 
 
-SOI-5  Depth  Texture                3-Inch  No-10  Clay%   -CEC-
-NC0000  0- 6  SIL L VFSL              0-  5  80-100 12-27    -   
-NC0000  0- 6  FSL                     0-  5  80-100  5-20    -   
-NC0000  0- 6  SICL CL                 0-  5  75- 90 27-40    -   
-NC0000  6-44  SICL SIC C              0-  5  75- 95 45-60    -   
-NC0000 44-62  WB                       -       -      -      -   
-NC0000  0- 6  GR-SIL GR-L GR-VFSL     0- 10  55- 75 12-27    -   
-NC0000  0- 6  GR-FSL                  0- 10  55- 75  5-20    -   
-NC0000  0- 6  GR-SICL GR-CL           0- 10  55- 75 40-50    -   
-NC0000  6-44  SICL SIC GR-C           0- 10  55- 95 45-60    -   
-NC0000 44-62  WB                       -       -      -      -   
-NC0000  0- 6  GR-C                    0- 10  55- 75 40-50    -   
-NC0000  6-44  SICL SIC GR-C           0- 10  55- 95 45-60    -   
-NC0000 44-62  WB                       -       -      -      -   
+SOI-5  Depth  Texture             3-Inch  No-10   Clay%  -CEC-
+NC      0-6   SIL L VFSL           0-5    80-100  12-27    -   
+NC      0-6   FSL                  0-5    80-100   5-20    -   
+NC      0-6   SICL CL              0-5    75-90   27-40    -   
+NC      6-44  SICL SIC C           0-5    75-95   45-60    -   
+NC     44-62  WB                    -       -       -      -   
+
+NC      0-6  GR-SIL GR-L GR-VFSL   0-10   55-75   12-27    -   
+NC      0-6  GR-FSL                0-10   55-75    5-20    -   
+NC      0-6  GR-SICL GR-CL         0-10   55-75   40-50    -   
+NC      6-44  SICL SIC GR-C        0-10   55-95   45-60    -   
+NC     44-62  WB                    -       -       -      -   
+
+NC      0- 6  GR-C                 0-10   55-75   40-50    -   
+NC      6-44  SICL SIC GR-C        0-10   55-95   45-60    -   
+NC     44-62  WB                    -       -       -      -   
 
 SOI-5  Depth    -pH-     O.M.  Salin  Permeab   Shnk-Swll
-NC0000  0- 6  4.5- 5.5  .5-2.  0- 0   0.6- 2.0  LOW      
-NC0000  0- 6  4.5- 5.5  .5-2.  0- 0   0.6- 2.0  LOW      
-NC0000  0- 6  4.5- 5.5  0.-2.  0- 0   0.6- 2.0  LOW      
-NC0000  6-44  4.5- 5.5  0.-.5  0- 0   0.6- 2.0  LOW 
-NC0000 44-62     -        -     -    0.00-0.06           
-NC0000  0- 6  4.5- 5.5  .5-2.  0- 0   0.6- 2.0  LOW      
-NC0000  0- 6  4.5- 5.5  .5-2.  0- 0   0.6- 2.0  LOW      
-NC0000  0- 6  4.5- 5.5  .5-2.   -     0.6- 2.0  LOW 
-NC0000  6-44  4.5- 5.5  0.-.5  0- 0   0.6- 2.0  LOW 
-NC0000 44-62     -        -     -    0.00-0.06           
-NC0000  0- 6  4.5- 5.5  .5-2.  0- 0   0.6- 2.0  LOW 
-NC0000  6-44  4.5- 5.5  0.-.5  0- 0   0.6- 2.0  LOW 
-NC0000 44-62     -        -     -    0.00-0.06            
+NC      0-6   4.5-5.5   .5-2.  0-0   0.6-2.0     LOW      
+NC      0-6   4.5-5.5   .5-2.  0-0   0.6-2.0     LOW      
+NC      0-6   4.5-5.5   0.-2.  0-0   0.6-2.0     LOW      
+NC      6-44  4.5-5.5   0.-.5  0-0   0.6-2.0     LOW 
+NC     44-62     -        -     -   0.00-0.06           
 
+NC      0-6   4.5-5.5   .5-2.  0-0   0.6-2.0     LOW      
+NC      0-6   4.5-5.5   .5-2.  0-0   0.6-2.0     LOW      
+NC      0-6   4.5-5.5   .5-2.   -    0.6-2.0     LOW 
+NC      6-44  4.5-5.5   0.-.5  0-0   0.6-2.0     LOW 
+NC     44-62     -        -     -   0.00-0.06           
+
+NC      0-6   4.5-5.5   .5-2.  0-0   0.6-2.0     LOW 
+NC      6-44  4.5-5.5   0.-.5  0-0   0.6-2.0     LOW 
+NC     44-62     -        -     -   0.00-0.06            
+
+________________________________________
 National Cooperative Soil Survey
 U.S.A.

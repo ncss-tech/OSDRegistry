@@ -2,7 +2,7 @@ LOCATION BORAVALL               OR
 
 Established Series
 Rev. RDK-TDT-JVC
-12/2010
+09/2025
 
 BORAVALL SERIES
 
@@ -18,11 +18,11 @@ TYPICAL PEDON: Boravall silty clay loam--on a 2 percent slope--rangeland. (Color
 
     BCkn--48 to 109; very pale brown (10YR 7/3) silty clay loam, brown (10YR 4/3) moist; massive; slightly hard, friable, moderately sticky and moderately plastic; few medium roots; common very fine irregular pores; strongly effervescent; calcium carbonate equivalent is 14 percent; EC is 2.5 mmhos/cm; SAR is 20; strongly alkaline (pH 8.6); abrupt wavy boundary. (0 to 76 cm thick) 
 
-   Bkg--109 to 102 cm; light gray (5Y 7/1) silty clay loam, greenish gray (5GY 5/1) moist, massive; soft, very friable, moderately sticky and moderately plastic; common medium and coarse roots; many very fine irregular and tubular pores; strongly effervescent; secondary carbonates finely disseminated in the matrix; moderately alkaline (pH 8.0); abrupt wavy boundary. (0 to 25 cm thick) 
+   Bkg--109 to 127 cm; light gray (5Y 7/1) silty clay loam, greenish gray (5GY 5/1) moist, massive; soft, very friable, moderately sticky and moderately plastic; common medium and coarse roots; many very fine irregular and tubular pores; strongly effervescent; secondary carbonates finely disseminated in the matrix; moderately alkaline (pH 8.0); abrupt wavy boundary. (0 to 25 cm thick) 
 
-   Cg--102 to 152 cm; light gray (5Y 7/1) silty clay loam, very dark gray (5Y 3/1) moist; massive; soft, very friable, moderately sticky and moderately plastic; common medium and coarse roots; many fine irregular and tubular pores; common fine prominent yellowish brown (10YR 5/8) and few fine prominent yellow (10YR 8/8) masses of iron accumulation; moderately alkaline (pH 8.0). 
+   Cg--127 to 152 cm; light gray (5Y 7/1) silty clay loam, very dark gray (5Y 3/1) moist; massive; soft, very friable, moderately sticky and moderately plastic; common medium and coarse roots; many fine irregular and tubular pores; common fine prominent yellowish brown (10YR 5/8) and few fine prominent yellow (10YR 8/8) masses of iron accumulation; moderately alkaline (pH 8.0). 
 
-TYPE LOCATION: Harney County, Oregon; in the south end of the Alvord Valley about one mile south of Borax Lake; found by going about 2 miles north of Fields, 3 miles east on the power line road, and 0.8 mile north on the trail into the NE 1/4 of the SE 1/4 of section 22, T. 37 S., R. 33 E.; USGS Borax Lake 7.5 minute topographic quadrangle; latitude 42 degrees 18 minutes 45 seconds N and longitude 118 degrees 36 minutes 20seconds W longitude NAD 83.
+TYPE LOCATION: Harney County, Oregon; in the south end of the Alvord Valley about one mile south of Borax Lake.  Typical pedon in an area of Boravall-Playas complex,0 to 3 percent slopes, found by going about 2 miles north of Fields, 3 miles east on the power line road, and 0.8 mile north on the trail into the NE 1/4 of the SE 1/4 of section 22, T. 37 S., R. 33 E.; USGS Borax Lake 7.5 minute topographic quadrangle; latitude 42 degrees 18 minutes 45 seconds N and longitude 118 degrees 36 minutes 20seconds W longitude NAD 83.
 
 RANGE IN CHARACTERISTICS: 
 Soil moisture :  Usually saturated below 100 cm. A fluctuating water table occurs at 15 cm above the surface to 91 cm below the surface from December to April. 
@@ -50,7 +50,7 @@ Sodicity (SAR): 13 to 50.
 Effervescence: Strongly effervescent or violently effervescent.
 Reaction: Moderately alkaline through very strongly alkaline. 
 
-C horizon  (when present)
+C horizon (when present)
 Hue: 10YR through 5Y.
 Value: 6 or 7 dry, 3 through 6 moist.
 Chroma: 1 or 2 dry, 1 through 4 moist.
@@ -79,11 +79,12 @@ SERIES ESTABLISHED: Lake County (Southern Part), Oregon, 1991.
 REMARKS: Diagnostic horizons and features recognized in this pedon are: 
 Ochric epipedon  - The zone from the surface to 18 cm (part of the Akzn horizon).
 Aeric subgroup feature - The zone from 48 and 76 cm (part of the BCkn horizon). 
-Identifiable secondary carbonates - The zone from 109 to 102 cm (Bkg horizon). 
+Identifiable secondary carbonates - The zone from 109 to 127 cm (Bkg horizon). 
 Endosaturation feature - The condition of ground water with an upper boundary between 109 and 152 cm at certain times during normal years (Bkg and Cg horizons). 
 Particle-size control section - The zone from 25 to 100 cm (parts of the BCkn and Bkg horizons). 
 
 ADDITIONAL DATA: The typical pedon at the series type location is reference sampled by the Soil Survey Laboratory (SSL), Lincoln, NE, as soil survey sample number S82OR-025-003 (pedon # 83P0017). 
+Typical pedon description from Soil Survey of Harney County Area, Oregon manuscript, 1997.
 
 National Cooperative Soil Survey
 U.S.A.
