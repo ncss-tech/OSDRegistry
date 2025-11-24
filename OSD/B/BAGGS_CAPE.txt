@@ -1,8 +1,8 @@
 LOCATION BAGGS CAPE             FL
 
 Established Series
-Rev. CAP/MVF
-02/2025
+Rev. MFV-ADM-AMS
+11/2025
 
 BAGGS CAPE SERIES
 
@@ -10,32 +10,32 @@ MLRA(s): 156A
 Soil Survey Regional Office (SSRO) Responsible: Auburn, Alabama
 Depth Class: Very deep
 Drainage Class: Somewhat poorly drained
-Saturated Hydraulic Conductivity:  High to very high 
+Saturated Hydraulic Conductivity: High to very high 
 Index Surface Runoff: High to very high
 Parent Material: anthropogenic sandy fill material over sandy marine sediments
 Slope: 0 to 5 percent
-Elevation: 0 to 20 feet above mean sea level  
-Mean Annual Air Temperature: 26 degrees C (78 degrees F)
-Mean Annual Precipitation: 1651 millimeters (65 inches)
+Elevation: 1 to 4 meters above mean sea level  
+Mean Annual Air Temperature: 24 degrees C (75 degrees F)
+Mean Annual Precipitation: 1345 millimeters (53 inches)
 
-TAXONOMIC CLASS: Sandy, siliceous, isohyperthermic Anthroportic Udorthents
+TAXONOMIC CLASS: Sandy, spolic, siliceous, isohyperthermic Anthroportic Udorthents
 
 TYPICAL PEDON:  Baggs Cape fine sand on a linear open lawn within urban land. (Colors are for moist soil unless otherwise stated.)
 
-   ^A--0 to 8 centimeters (0 to 3 inches); very dark grayish brown (10YR 3/2) fine sand, grayish brown (10YR 5/2), dry; weak fine granular structure; very friable, soft; nonsticky, nonplastic; about 5 percent shell fragments; slightly alkaline (pH 7.6); gradual wavy boundary.  [2 to 15 centimeters (1 to 6 inches) thick]
+   ^A--0 to 8 centimeters (0 to 3 inches); very dark grayish brown (10YR 3/2) fine sand, grayish brown (10YR 5/2), dry; weak fine granular structure; very friable, soft; nonsticky, nonplastic; 5 percent shell fragments; slightly alkaline (pH 7.6); gradual wavy boundary.  [10 to 15 centimeters (4 to 6 inches) thick]
 
-   ^Ck1--8 to 74 centimeters (3 to 29 inches); light gray (10YR7/2) fine sand; single grain; loose; nonsticky, nonplastic; about 10 percent shell fragments; slightly effervescent; moderately alkaline (pH 8.0); gradual wavy boundary. 
+   ^C1--8 to 74 centimeters (3 to 29 inches); light gray (10YR7/2) fine sand; single grain; loose; nonsticky, nonplastic; 10 percent shell fragments; slightly effervescent; moderately alkaline (pH 8.0); gradual wavy boundary. 
 
-   ^Ck2--74 to 130 centimeters (29 to 51 inches); gray (10YR 5/1) gravelly fine sand; single grain; loose; nonsticky, nonplastic; about 10 percent fine distinct brown (10YR 5/3) lenses of silt loam; about 30 percent shell fragments; strongly effervescent; moderately alkaline (pH 8.2); clear smooth boundary. 
+   ^C2--74 to 130 centimeters (29 to 51 inches); gray (10YR 5/1) gravelly fine sand; single grain; loose; nonsticky, nonplastic; 10 percent fine distinct brown (10YR 5/3) lenses of silt loam; 30 percent shell fragments; strongly effervescent; moderately alkaline (pH 8.2); clear smooth boundary. 
 
-   ^Ck3--130 to 145 centimeters (51 to 57 inches); light gray (10YR 7/2) fine sand; single grain; loose; nonsticky, nonplastic; about 3 percent fine gray (10YR 5/1) lenses of silt loam; about 5 percent shell fragments; strongly effervescent; moderately alkaline (pH 8.2); gradual wavy boundary. [Combined thickness of the ^C horizon ranges from 35 to 188 centimeters (14 to 74 inches)] 
+   ^C3--130 to 145 centimeters (51 to 57 inches); light gray (10YR 7/2) fine sand; single grain; loose; nonsticky, nonplastic; 3 percent fine gray (10YR 5/1) lenses of silt loam; 5 percent shell fragments; strongly effervescent; moderately alkaline (pH 8.2); gradual wavy boundary. [Combined thickness of the ^C horizon ranges from 40 to 188 centimeters (16 to 74 inches)] 
 
-   2Cbkg--145 to 203 centimeters (57 to 80 inches); gray (5Y 5/1) fine sand; single grain; loose; nonsticky, nonplastic; about 5 percent shell fragments; slightly effervescent; slightly alkaline (pH 7.8).  (Combined thickness of the Cbg horizon is 0 to 152 centimeters (0 to 60 inches)
+   2Cgb--145 to 203 centimeters (57 to 80 inches); gray (5Y 5/1) fine sand; single grain; loose; nonsticky, nonplastic; 5 percent shell fragments; slightly effervescent; slightly alkaline (pH 7.8).  (Combined thickness of the Cgb horizon is 0 to 152 centimeters (0 to 60 inches)
 
-TYPE LOCATION:  Miami-Dade County, Florida; about 0.9 miles south of the intersection of Crandon Blvd and Grapetree Road; about 2,200 feet south and 500 feet east of the northwest corner of Sec. 9, T. 55 S., R. 42 E.; USGS Key Biscayne, FL quadrangle.
+TYPE LOCATION: Miami-Dade County, Florida; USGS Key Biscayne, FL quadrangle.
 
 
-
+ 
 Latitude: 25.6725278
 Longitude: -80.1551806
 Datum: WGS84 
@@ -67,7 +67,7 @@ Redoximorphic features: depletions and/or concentrations, 1 to 20 percent, and f
 Clay content: 0 to 5 percent
 EC (mmhos/cm): 0 to 4
 
-2Cbg horizon:
+2Cgb horizon:
 Hue: 10YR, 2.5Y, 5Y, 10Y, 5GY, or Neutral 
 Value: 4 to 8
 Chroma: 1 or 2
@@ -87,31 +87,30 @@ GEOGRAPHIC SETTING:
 Landscape: Lower Coastal Plain
 Landform(s): Anthropogenic features filled and disturbed on flatwoods, low broad flats, low ridges and/or knolls bordering marshes, swamps, and estuaries 
 Parent material: anthropogenic sandy fill material over sandy marine sediments
-Mean annual temperature: 25 to 27 degrees C (77 to 79 degrees F)
-Mean annual precipitation: 1397 to 1778 millimeters (55 to 70 inches)
+Mean annual temperature: 23 to 27 degrees C (73 to 81 degrees F)
+Mean annual precipitation: 940 to 1570 millimeters (37 to 62 inches)
 Frost-free period: 365 days
 
 GEOGRAPHICALLY ASSOCIATED SOILS:  
 These are the Canaveral, Crandon Beach, and Palm Bean soils. Canaveral soils lack anthropogenic fill materials, are composed entirely of sandy and shelly marine sediments, and occur on slightly higher landform positions.
 Crandon Beach soils lack anthropogenic fill materials, are composed entirely of sandy and shelly marine sediments, and occur in lower landform positions which are flooded by the tides.
 Palm Beach soils lack anthropogenic fill materials, are composed entirely of sandy and shelly marine sediments, and occur on higher landform positions.
-
+  
 DRAINAGE AND SATURATED HYDRAULIC CONDUCTIVITY:  
 Drainage class: Somewhat poorly drained
 Saturated hydraulic conductivity (KSAT): high to very high 
-Permeability: moderately rapid to rapid 
 Surface runoff: high to very high
 Depth to seasonal high-water table: 46 to 107 centimeters (18 to 42 inches) of the surface for about 6 months during most years, and within 76 to 203 centimeters (30 to 80 inches) most of the rest of the year.
 Flooding: from hurricanes rare for very brief periods
 
 USE AND VEGETATION:  
 Major uses: recreation and urban development.  
-Dominant vegetation: southern red cedar, south Florida Slash Pine, and cabbage palm with an understory of waxmyrtle, blackberry, greenbrier, and panicums.
+Dominant vegetation: southern red cedar, south Florida Slash Pine, and cabbage palm with an understory of waxmyrtle, blackberry, greenbrier, and panicum.
 
 DISTRIBUTION AND EXTENT:  MLRA 156A Florida Everglades and Associated Areas. 
-Extent: Small Extent
+Extent: Small 
 
-SOIL SURVEY REGIONAL OFFICE (SSRO) RESPONSIBLE:  Auburn, Alabama. 
+SOIL SURVEY REGIONAL OFFICE (SSRO) RESPONSIBLE: Auburn, Alabama
 
 SERIES ESTABLISHED:  Miami-Dade County, Florida; 2019.
 
@@ -119,17 +118,15 @@ REMARKS: Diagnostic horizons and features in this pedon include:
 
 1.	Particle-size control section: 25 to 203 centimeters (10 to 80 inches)
 2.	Anthropogenic features - 0 to 145 centimeters (0 to 57 inches) (^A, ^C1, ^C2, ^C3 horizons)
-3.	Buried soil - 145 to 203 centimeters (57 to 80 inches) (2Cbg horizon)
+3.	Buried soil - 145 to 203 centimeters (57 to 80 inches) (2Cgb horizon)
 4.	Aquic conditions - Endosaturation 46 to 107 centimeters (18 to 42 inches)
 
 These soils were formerly mapped as made land or Arents or Udorthents. With future urban update mapping this soil could be extensive.
 
-ADDITIONAL DATA: 
-Laboratory data is available on the National Soil Survey website at: http://ncsslabdatamart.sc.egov.usda.gov/querypage.aspx
 
-OSD User Site ID: 2019FL686008
+OSD User Site ID: 2020FL686008
 
-OSD Pedon Site ID: 2019FL686008
+OSD Pedon Site ID: 2020FL686008
 
 National Cooperative Soil Survey
 U.S.A.

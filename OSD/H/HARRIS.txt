@@ -2,7 +2,7 @@ LOCATION HARRIS                 TX
 
 Established Series
 Rev. WLM-SEB-RM
-08/2025
+11/2025
 
 HARRIS SERIES
 
@@ -94,7 +94,7 @@ Stowell soils: have a argillic horizon and have a fine-loamy control section fou
 Tracosa soils: are in lower landscape positions. 
 Surfside soils: are in slightly higher landscape positions.
 
-DRAINAGE AND PERMEABILITY: 
+DRAINAGE AND SATURATED HYDRAULIC CONDUCTIVITY: 
 Drainage class: Very poorly drained
 Saturated hydraulic conductivity: Low
 Flooding frequency and duration: Very frequent, brief

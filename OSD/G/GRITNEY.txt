@@ -1,95 +1,163 @@
-LOCATION GRITNEY                NC+AL GA
+LOCATION GRITNEY                NC+AL GA VA
 
 Established Series
-Rev. AG
-01/2000
+Rev. AG: DTA
+11/2025
 
 GRITNEY SERIES
 
-The Gritney series consists of very deep, moderately well drained soils that formed in fine-textured sediments on Coastal Plain uplands.  Permeability is slow.  Slopes range from 0 to 15 percent.  Average annual precipitation is about 50 inches and mean annual temperature is about 65 degrees F. near the type location.
+MLRA(s): 133A, 153A
+Soil Survey Regional Office (SSRO) Responsible: Southeast
+Depth Class: Very deep
+Agricultural Drainage Class: Moderately well drained
+Index Surface Runoff: Medium
+Saturated Hydraulic Conductivity Class: Moderately low
+Shrink-Swell Potential: Moderate
+Landscape: Coastal Plain uplands
+Landform: Interstream divides, ridges, and side slopes
+Parent Material: Fine-textured sediments in the Coastal Plain 
+Slope: 0 to 15 percent
+Mean Annual Air Temperature: 18 degrees C (65 degrees F)
+Mean Annual Precipitation: 1270 millimeters (50 inches)
 
 TAXONOMIC CLASS: Fine, mixed, semiactive, thermic Aquic Hapludults
 
-TYPICAL PEDON:  Gritney sandy loam -- cultivated, on a 3 percent slightly convex slope  (Colors are for moist soil.)
+TYPICAL PEDON: Gritney fine sandy loam -- cultivated, on a 3 percent slightly convex slope (Colors are for moist soil.)
 
-     Ap--0 to 6 inches; brown (10YR 5/3) sandy loam; weak medium granular structure; very friable; many fine roots; moderately acid; abrupt smooth boundary.  (2 to 10 inches thick)
+  Ap--0 to 15 centimeters (0 to 6 inches); yellowish brown (10YR 5/6) fine sandy loam; moderate fine granular structure; very friable; many fine and few medium roots; strongly acid; abrupt smooth boundary. (5 to 25 centimeters (2 to 10 inches) thick)
 
-     BE--6 to 9 inches; yellowish brown (10YR 5/6) sandy loam; weak medium subangular blocky structure; friable; few fine prominent yellowish red (5YR 5/8) masses of iron accumulation; few fine roots; moderately acid; abrupt smooth boundary.  (0 to 8 inches thick)
+  Btl--15 to 36 centimeters (6 to 14 inches); yellowish brown (10YR 5/6) sandy clay loam; moderate medium subangular blocky structure; firm, slightly sticky, nonplastic; few fine and medium roots; few faint clay films on faces of peds; common medium prominent yellowish red (5YR 5/6) masses of iron accumulation; very strongly acid; clear wavy boundary.
 
-     Btl--9 to 17 inches; yellowish brown (10YR 5/6) clay; common medium prominent red (2.5YR 4/8) mottles and few medium prominent dark red (2.5YR 3/6) masses of iron accumulation; moderate medium subangular blocky structure; firm, slightly plastic, slightly sticky; few fine roots; few faint clay films on faces of peds; strongly acid; clear smooth boundary.
+  Bt2--36 to 69 centimeters (14 to 27 inches); yellowish brown (10YR 5/8) clay; moderate medium subangular blocky structure; firm, slightly sticky, slightly plastic; few medium roots; common distinct clay films on faces of peds; common medium prominent yellowish red (5YR 5/6) masses of iron accumulations; very strongly acid; gradual wavy boundary.
 
-     Bt2--17 to 37 inches; yellowish brown (10YR 5/6) clay; common medium distinct light brownish gray (10YR 6/2) iron depletions and common medium prominent red (2.5YR 4/8) masses of iron accumulation; moderate medium subangular blocky structure; very firm, plastic, sticky; few fine roots; common, distinct clay films on faces of peds; very strongly acid; clear wavy boundary.
+  Bt3--69 to 107 centimeters (27 to 42 inches); yellowish brown (10YR 5/8), light gray (10YR 7/2), red (2.5YR 4/8), brownish yellow (10YR 6/8), and dark yellowish brown ( 10YR 4/6) clay; moderate medium subangular blocky structure; firm, slightly sticky, slightly plastic; common distinct clay films on faces of peds; the areas of brown, yellow, and red are iron accumulations and the areas of gray are iron depletions; very strongly acid; gradual wavy boundary. (Combined thickness of the Bt horizon is 51 to 127 centimeters (20 to 50 inches.)
 
-     Bt3--37 to 49 inches; 30 percent yellowish brown (10YR 5/6), 30 percent strong brown (7.5YR 5/6), 20 percent red (2.5YR 4/8), and 20 percent light brownish gray (10YR 6/2) clay; weak coarse subangular blocky structure; firm, plastic, sticky; few fine roots; few distinct clay films on faces of peds; the areas of red are iron accumulations and the areas of light brownish gray are iron depletions; very strongly acid; clear wavy boundary.  (Combined thickness of the Bt horizon is 20 to 50 inches.)
+  BC--107 to 145 centimeters (42 to 57 inches); yellowish brown (10YR 5/8), light gray (10YR 7/2), red (2.5YR 4/8), brownish yellow 10YR 6/8), and dark yellowish brown (10YR 4/6), clay that has pockets of sandy clay loam; moderate medium subangular blocky structure; firm, slightly sticky, slightly plastic; the areas of yellow, brown and red are iron accumulations and the areas of gray are iron depletions; very strongly acid; gradual wavy boundary. (0 to 15 inches thick)
 
-     BC--49 to 58 inches; 25 percent strong brown (7.5YR 5/6), 25 percent red (2.5YR 4/8), 25 percent light brownish gray (10YR 6/2), and 25 percent yellowish brown (10YR 5/6) sandy clay; weak coarse subangular blocky structure; friable, slightly plastic, sticky; the areas of red are iron accumulations and the areas of light brownish gray are iron depletions; very strongly acid; gradual wavy boundary.  (0 to 15 inches thick)
+  C--145 to 152 centimeters (57 to 60 inches); yellowish brown (10YR 5/8), light gray (10YR 7/2), red (2.5YR 4/8), brownish yellow (10YR 6/8), and dark yellowish brown (10YR 4/6) clay loam; massive; friable; the areas of brown, red, and yellow are iron accumulations and the areas of gray are iron depletions; very strongly acid.
 
-     C--58 to 70 inches; 30 percent strong brown (7.5YR 5/6), 25 percent red (2.5YR 4/8), 25 percent light brownish gray (10YR 6/2), and 20 percent yellowish brown (10YR 5/6) sandy clay loam; massive; friable; the areas of red are iron accumulations and the areas of light brownish gray are iron depletions; very strongly acid.
+TYPE LOCATION: Halifax County, North Carolina; about 2 miles south North Carolina 561 on Secondary Road 1001, about 400 feet west on a farm path, about 170 feet north of farm path, in a field; USGS Enfield, North Carolina topographic quadrangle. 
 
-TYPE LOCATION:  Northhampton County, North Carolina; about 5.6 miles east of Jackson on U.S. 158, 100 feet south of U.S. 158 in cultivated field and about 90 feet east of cemetery located in cultivated field.  State Plain Coordinate, X 2,490,200, Y 983,600.
+Latitude--36.235556
+Longitude-- -77.658889
+Datum--WGS84
 
-RANGE IN CHARACTERISTICS:  Solum thickness ranges from 35 to 60 inches or more.  The soil ranges from extremely acid through strongly acid unless limed.  Quartz and ironstone pebbles range from 0 to 10 percent throughout the soil.  COLE is estimated to be less than 0.09 throughout the soil.  Silt content of the control section is less than 30 percent.
+RANGE IN CHARACTERISTICS: 
+Solum thickness: 89 to greater than 152 centimeters (35 to greater than 60 inches)
+Depth to bedrock: Greater than 152 centimeters (60 inches) 
+Depth to Seasonal High Water Table: 46 to 91 centimeters (18 to 36 inches)
+Rock Fragment Content: 0 to 10 percent, by volume, throughout.
+Soil Reaction: Extremely acid to strongly acid, unless limed 
 
-The A or Ap horizon has hue of 7.5YR to 2.5Y, value of 2 to 5, and chroma of 2 to 6.  Texture is loamy sand, loamy fine sand, sandy loam, fine sandy loam, or loam.  Eroded phases are sandy clay loam or clay loam.  Texture is loamy sand, loamy fine sand, sandy loam, fine sandy loam, or loam.
+RANGE OF INDIVIDUAL HORIZONS:
+A or Ap horizon: 
+Color--hue of 7.5YR to 2.5Y, value of 2 to 5, chroma of 2 to 6 
+Texture--loamy sand, loamy fine sand, sandy loam, fine sandy loam, or loam. Eroded phases are sandy clay loam or clay loam. 
 
-The E horizon, where present, has hue of lOYR to 2.5Y, value of 5 to 7, and chroma of 3 to 6.  Texture is loamy sand, loamy fine sand, sandy loam, fine sandy loam, or loam.
+E horizon (if it occurs):
+Color--hue of l0YR to 2.5Y, value of 5 to 7, chroma of 3 to 6 
+Texture--is loamy sand, loamy fine sand, sandy loam, fine sandy loam, or loam.
 
-The BE or BA horizon, where present, has hue of 7.5YR or lOYR, value of 4 to 7, and chroma of 4 to 8.  Texture is sandy loam or sandy clay loam.
+BA or BE horizon (if it occurs):
+Color--hue of 7.5YR or lOYR, value of 4 to 7, chroma of 4 to 8 
+Texture--sandy loam or sandy clay loam.
 
-The upper part of the Bt horizon has hue of 5YR to 2.5Y, value of 4 to 6, and chroma of 4 to 8.  Iron accumulations in shades of red or brown are present in most pedons.  Iron depletions are within the upper 24 inches of the Bt horizon.  The middle and lower part of the Bt horizon has hue of 5YR to 2.5Y, value of 4 to 7, and chroma of 3 to 8, or it is a combination of colors in shades of gray, brown, red or yellow.  Texture is clay, clay loam, and sandy clay.  Some pedons have thin subhorizons of sandy clay loam.
+Bt horizon:
+The upper part has hue of 5YR to 2.5Y, value of 4 to 6, and chroma of 4 to 8. Iron accumulations in shades of red or brown are present in most pedons. Iron depletions are within the upper 24 inches of the Bt horizon. 
+The middle and lower part has hue of 5YR to 2.5Y, value of 4 to 7, and chroma of 3 to 8, or it is a combination of colors in shades of gray, brown, red or yellow. 
+Texture--clay, clay loam, or sandy clay. Some pedons have thin subhorizons of sandy clay loam.  Silt content is less than 30 percent.
 
-The BC or CB horizon, present in most pedons, has colors and textures similar to those of the lower part of the Bt horizon.
+BC or CB horizon (if it occurs):
+Color--hue of 5YR to 2.5Y, value of 4 to 7, chroma of 3 to 8, or is a combination of colors in shades of gray, brown, red or yellow. 
 
-The C horizon or 2C horizon is variable in color but commonly has a combination of colors in shades of brown, red, gray and yellow.  Texture is sandy clay loam, loam, or clay loam with lenses, pockets or strata of loamy sand, sandy loam, or sandy clay.  In some pedons, the lower part of the C horizon is clay.
+Texture--clay loam or sandy clay 
 
-The Cg or 2Cg horizon, where present has hue of 10YR to 2.5Y, value of 3 to 7, and chroma of 0 to 2.  Redoximorphic features are common in shades of gray, brown, red, and yellow.  Texture is sandy clay loam, loam, or clay loam with lenses, pockets or strata of loamy sand or sandy loam.  In some pedons, the Cg or 2Cg horizon may have texture of clay. 
+C or 2C horizon:
+Color--variable in color but commonly has a combination of colors in shades of brown, red, gray, and yellow. 
+Texture--sandy clay loam, loam, or clay loam with lenses, pockets or strata of loamy sand, sandy loam, or sandy clay. In some pedons, the lower part of the C horizon is clay.
 
-COMPETING SERIES: These are the Annemaine, Beason, Cid, Craven, Creedmoor, Dogue, Eulonia, Helena, Lignum, Nemours, Nevarc, Newco, Peawick, Rosenwall, Sacul, Sheva, Stapp, Vinita, and Wolftever soils.  Annemaine soils are on stream terraces and have about 3 meg/100 gm. of Ca and Mg content in the Bt horizon.  Benson, Craven, Nevarc, Peawick, and Wolftever soils contain 30 percent silt or higher in the Bt horizon.  In addition, Nevarc soils are commonly on steep slopes and are non-arable.  Cid, Sheva, Rosenwall, and Vinita have paralithic contact within 40 inches.  Creedmoor soils have higher coefficient of linear extensibility and more exchangeable aluminum in the lower Bt horizon.  Dogue, Eulonia, and Nemours soils have an apparent water table.  Helena and Lignum soils have C horizons formed in saprolite with rock structure.  Newco soils do not have a seasonal high water table within 60 inches of the surface.  Sacul soils have a high shrink-swell potential in the argillic horizon.  Stapp soils have paralithic contact within 60 inches.
+Cg or 2Cg horizon (if it occurs): 
+Color--hue of 10YR to 2.5Y, value of 3 to 7, chroma of 0 to 2. Redoximorphic features are common in shades of gray, brown, red, and yellow. 
+Texture--sandy clay loam, loam, or clay loam with lenses, pockets or strata of loamy sand or sandy loam. In some pedons, the Cg or 2Cg horizon may have a texture of clay.
 
-GEOGRAPHIC SETTING:  Gritney soils are on ridgetops and side slopes of the Coastal Plain uplands, usually above an elevation of 20 feet.  Slopes commonly are 2 to 10 percent, but range from 0 to 15 percent.  The soils have formed in fine-textured Coastal Plain sediments.  Average annual precipitation is about 50 inches and mean annual temperature is about 65 degrees F. near the type location.
+COMPETING SERIES: 
+Craven soils--contain 30 percent silt or higher in the Bt horizon 
+Creedmoor soils--formed in residuum from Triassic material and occur in the piedmont 
+Dogue soils--occur on stream and marine terraces
+Helena soils--formed in residuum from felsic crystalline rock and occur in the piedmont 
+Lignum soils--contain 30 per cent silt or higher in the Bt horizon, formed in residuum from the Carolina slate belt, and occur in the piedmont 
+Nevarc soils--contain 30 percent silt or higher in the Bt horizon 
+Peawick soils--contain 30 percent silt or higher in the Bt horizon and occur on stream terraces 
 
-GEOGRAPHICALLY ASSOCIATED SOILS:  These are Bonneau, Carnegie, Caroline, Cowarts, Dothan, Duplin, Faceville, Fuquay, Goldsboro, Marlboro, Norfolk, Orangeburg, and Wagram soils.  These soils are on nearby landscapes.  Bonneau and Wagram soils are on slightly higher areas and have arenic surface.  Carnegie, Dothan and Fuquay soils are on higher areas and they contain over 5 percent nodules of plinthite and have thick sola.  In addition, Fuquay soils are arenic.  Cowarts soils are on similar topographic positions as Gritney soils but they have a fine loamy control section.  Goldsboro, Norfolk and Orangeburg soils may be on slightly higher or lower smoother areas and have thick, fine-loamy control sections.  Caroline, Duplin, Faceville and Marlboro soils are commonly on higher, smoother areas and they have a thick, clayey sola.
+GEOGRAPHIC SETTING: 
+Landscape: Coastal Plain uplands
+Landform: Interstream divides, ridges, and side slopes
+Parent Material: Fine-textured sediments in the Coastal Plain
+Mean Annual Air Temperature: 15 to 20 degrees C (59 to 68 degrees F)
+Mean Annual Precipitation: 1143 to 1397 millimeters (45 to 55 inches)
+Frost Free Period: 200 to 250 days
 
-DRAINAGE AND PERMEABILITY:  Gritney soils are moderately well drained; moderate to very rapid runoff; and slow permeability.
+GEOGRAPHICALLY ASSOCIATED SOILS: 
+Bonneau soils--have an arenic surface, are well drained, and are fine-loamy
+Caroline soils--are well drained 
+Cowarts soils--are fine-loamy 
+Dothan soils--are fine-loamy, well drained, and have greater than 5 percent plinthite in the lower horizons
+Duplin soils--have thicker solums and are on slopes less than 7 percent
+Faceville soils--have thicker solums and are red in color
+Fuquay soils--have an arenic surface and have greater than 5 percent plinthite in the lower horizons
+Goldsboro soils--are fine loamy and are on slopes less than 10 percent 
+Marlboro soils--are well drained 
+Nobocco soils--are fine-loamy, are moderately well to well drained, and are on slopes less than 6 percent 
+Norfolk soils--are fine loamy and well drained
+Orangeburg soils--are well drained and have thicker solums 
+Wagram soils--have an arenic surface, are somewhat excessively drained, and are fine-loamy
 
-USE AND VEGETATION:  Gritney soils are used for crops, pasture and forest land.  Principal crops grown are corn, soybeans, small grain, cotton, peanuts and hay and pasture.  Wooded areas are mixed hardwood and pine.  Tree species include white oak, post oak, southern red oak, red maple, sweetgum, hickory, elm, ash, American sycamore, beech, and loblolly pine.  Common understory plants are American holly, dogwood, sassafras, sourwood, and waxmyrtle.  Threeawn is a common native grass.
+DRAINAGE AND SATURATED HYDRAULIC CONDUCTIVITY: 
+Agricultural Drainage Class: Moderately well drained
+Index Surface Runoff: Medium
+Saturated Hydraulic Conductivity: Moderately low
 
-DISTRIBUTION AND EXTENT:  North Carolina, Alabama, Florida, Georgia, and Virginia, and possibly South Carolina.
+USE AND VEGETATION: 
+Major Uses: Cropland, pasture and woodland 
+Dominant vegetation: Where cultivated--corn, soybeans, small grain, cotton, peanuts and hay and pasture. Where wooded--white oak, post oak, southern red oak, red maple, sweetgum, hickory, elm, ash, American sycamore, beech, and loblolly pine. Common understory plants are American holly, dogwood, sassafras, sourwood, and waxmyrtle. Threeawn is a common native grass.
 
-MLRA SOIL SURVEY REGIONAL OFFICE (MO) RESPONSIBLE: Raleigh, North Carolina
+SOIL SURVEY REGIONAL OFFICE (SSRO) RESPONSIBLE: Auburn, Alabama
 
-SERIES ESTABLISHED:  Holmes County Florida; l971.
+DISTRIBUTION AND EXTENT: 
+Distribution: North Carolina, Alabama, Georgia, and Virginia, and possibly South Carolina  
+Extent: Moderate
 
-REMARKS:  (1) Responsibility for Gritney series was transferred to North Carolina in l986.  (2) The classification of this series was changed with the 12/86 revision - from clayey, mixed, thermic Typic Hapludults to clayey, mixed, thermic Aquic Hapludults.  This is based on selected water table studies.
+SERIES ESTABLISHED: Holmes County Florida; l971.
 
-Diagnostic horizons and features recognized in this pedon are:
+REMARKS: 
+Responsibility for Gritney series was transferred to North Carolina in l986.  The classification of this series was changed with the 12/86 revision from clayey, mixed, thermic Typic Hapludults to clayey, mixed, thermic Aquic Hapludults. This is based on selected water table studies. The November 2025 revision moved the type location from Northampton County, North Carolina to Halifax County, North Carolina to a more representative site.  No data was changed.
 
-Ochric epipedon - the zone from the surface to a depth of 9 inches (a and BE horizons).
-Argillic horizon - the zone from 9 to 49 inches (Bt horizon).
-Aquic conditions - periodic saturation and iron depletions in the zone from 17 to 70 inches (Bt2, Bt3, BC and C horizons)
-
+Diagnostic horizons and soil characteristics recognized in this pedon are:
+Ochric epipedon--the zone from 0 to 15 centimeters (0-6 inches) (Ap horizon)
+Argillic horizon--the zone from 15 to 107 centimeters (6 to 42 inches) (Bt horizons)
+Aquic conditions--periodic saturation and iron depletions in the zone from 69 to 152 centimeters (27 to 60 inches) (Bt3, BC, and C horizons)
 Characterization analysis for typical pedon (S85NC-131-1) was completed by NCSU.
-
-ADDITIONAL DATA: MLRAs: 133A, 153A
+ADDITIONAL DATA: 
 TABULAR SERIES DATA:
-SOI-5  Soil Name   Slope  Airtemp FrFr/Seas Precip  Elevation
-NC0201 GRITNEY     0- 15   59- 68  200-250  45- 55    20- 350 
+SOI-5  Soil Name  Slope  Airtemp  FrFr/Seas Precip  Elevation
+NC0201 GRITNEY    0-15   59-68    200-250   45-55   20-350
+SOI-5  FloodL FloodH  Watertable  Kind     Months   Bedrock Hardness
+NC0201 NONE           1.5-3.0     PERCHED  DEC-APR  >60        
 
-SOI-5  FloodL FloodH Watertable Kind   Months  Bedrock Hardness
-NC0201 NONE          1.5-3.0  PERCHED  DEC-APR  60-60        
-
-SOI-5  Depth  Texture                3-Inch  No-10  Clay%   -CEC-
-NC0201  0- 9  LS LFS                  0-  0  85-100  5-10   1-  4
-NC0201  0- 9  SL FSL L                0-  0  80-100 10-25   2-  7
-NC0201  0- 9  SCL CL                  0-  0  80-100 20-35   4-  8
-NC0201  9-58  C SC CL                 0-  0  90-100 35-60   7- 13
-NC0201 58-70  SR LS SCL               0-  2  55-100 10-35   2-  8
+SOI-5   Depth  Texture       3-Inch  No-10   Clay%   -CEC-
+NC0201  0-6    LS LFS        0-0     85-100   5-10    1-4
+NC0201  0-6    SL FSL L      0-0     80-100  10-25    2-7
+NC0201  0-6    SCL CL        0-0     80-100  20-35    4-8
+NC0201  6-57   C SC CL       0-0     90-100  35-60    7-13
+NC0201 57-60  SL LS SCL, CL  0-2     55-100  10-35    2-8
 
 SOI-5  Depth    -pH-     O.M.  Salin  Permeab   Shnk-Swll
-NC0201  0- 9  3.5- 6.0  .5-2.  0- 0   6.0-  20  LOW      
-NC0201  0- 9  3.5- 6.0  .5-2.  0- 0   2.0- 6.0  LOW      
-NC0201  0- 9  3.5- 5.5  .5-1.  0- 0   0.6- 2.0  LOW      
-NC0201  9-58  3.5- 5.5  0.-.5  0- 0  0.06- 0.2  MODERATE 
-NC0201 58-70  3.5- 5.5  0.-.1  0- 0  0.06- 6.0  LOW       
+NC0201  0-6   3.5- 6.0  .5-2.  0-0    6.0-20    LOW      
+NC0201  0-6   3.5- 6.0  .5-2.  0-0    2.0-6.0   LOW      
+NC0201  0-6   3.5- 5.5  .5-1.  0-0    0.6-2.0   LOW      
+NC0201  6-57  3.5- 5.5  0.-.5  0-0   0.06-0.2   MODERATE 
+NC0201 57-60  3.5- 5.5  0.-.1  0-0   0.06-6.0   LOW       
 
+________________________________________
 National Cooperative Soil Survey
+U.S.A.
