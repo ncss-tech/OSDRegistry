@@ -1,50 +1,129 @@
 LOCATION VIZCAYA                FL
 
 Established Series
-Rev. CN/CAW
-05/2021
+Rev. CN-MFV-AMS
+12/2025
 
 VIZCAYA SERIES
 
-The Vizcaya series consists of very shallow and shallow, very poorly drained, slowly permeable soils over limestone.  They formed in loamy, marine or fresh water sediments. These  soils are in broad, low freshwater marshes of the Everglades in Southern Penninsular Florida.  Slopes are 0 to 2 percent.
+MLRA(s): 156A
+Soil Survey Regional Office (SSRO) Responsible: Auburn, Alabama 
+Depth Class: Shallow
+Drainage Class: Very poorly drained
+Saturated Hydraulic Conductivity: Low to moderately low and negligible in the rock material
+Parent Material: Freshwater clayey fluviomarine deposits over oolitic limestone bedrock 
+Slope: 0 to 2 percent
+Elevation: 1 to 7 meters above mean sea level  
+Mean Annual Air Temperature: 24 degrees C (75 degrees F)
+Mean Annual Precipitation: 1345centimeters (53 inches)
 
-TAXONOMIC CLASS: Clayey, mixed, superactive, isohyperthermic Lithic Endoaquolls
+TAXONOMIC CLASS: Clayey, carbonatic, isohyperthermic, shallow Typic Fluvaquents
 
-TYPICAL PEDON:  Vizcaya mucky silt loam - in an undifferentiated group with Rock outcrop and Biscayne soils in a fresh water marsh.  (Colors are for moist soil unless otherwise stated.)
+TYPICAL PEDON: Vizcaya marly silt loam on a freshwater sawgrass marsh.  (Colors are for moist soil unless otherwise stated.)
 
-    A--0 to 6 inches; very dark gray (10YR 3/1) mucky silt loam; moderate medium granular structure; slightly sticky, nonplastic; 20% snail shell fragments; neutral; abrupt smooth boundary.  (0 to 7 inches thick)
+    Lma1--0 to 15 centimeters (0 to 6 inches); very dark gray (10YR 3/1) marly silt loam, gray (10YR 5/1), dry; moderate medium granular structure; very friable, soft; slightly sticky, nonplastic; 10 percent shell fragments; strong effervescence with HCl 1N; neutral (pH 7.0); abrupt smooth boundary. [0 to 18 centimeters thick (0 to 7 inches) thick]
 
-    C--6 to 15 inches; black (10YR 2/1) clay; massive; slightly sticky; nonplastic; 10 percent snail shell fragments; neutral; abrupt irregular boundary.  (6 to 20 inches thick)
+    Lma2--15 to 38 centimeters (6 to 15 inches); black (10YR 2/1) marly silty clay; massive; firm, moderately hard; slightly sticky; slightly plastic; 10 percent shell fragments; strong effervescence with HCl 1N; neutral (pH 7.0); abrupt irregular boundary. [25 to 51 centimeters (10 to 20 inches) thick]
 
-    2R--15 inches; hard, porous, oolitic limestone.
+    2R--38 centimeters (15 inches); weakly to strongly cemented oolitic limestone bedrock; solution holes up to 100 centimeters (40 inches) or deeper can be filled with sandy and/or loamy material.
 
-TYPE LOCATION:  Dade County, Florida; approximately 7,700 feet west and 2,000 feet north of Chekika Park entrance road.  Latitude - 25 degrees 37 minutes 19 seconds and Longitude - 80 degrees 35 minutes 56 seconds.
+TYPE LOCATION: Miami-Dade County, Florida; USGS quadrangle Grossman Hammock, FL.
+Latitude: 25.6219306
+Longitude: -80.5988806
+Datum: WGS84
+Estimated from other source 
 
-RANGE IN CHARACTERISTICS:  Soil thickness and depth to limestone range from 4 to 20 inches.  Reaction is neutral through mildly alkaline.  A thin paraphyton or marl layer may occur on the surface of some pedons.
+RANGE IN CHARACTERISTICS:  
+Solum thickness: 25 to 50 centimeters 
+Depth to limestone bedrock: 25 to 50 centimeters (10 to 20 inches)
+Reaction: neutral to strongly alkaline throughout (pH 7.0 to 8.5)  
+EC (mmhos/cm): 0 to 8
+Exchangeable Sodium: 0 to 5 percent
+Sodium Absorption Ratio: 0 to 8 percent
+A thin paraphyton or marl layer may occur on the surface of some pedons.
+Some pedons have an Oa surface horizon less than 8 inches thick.  
 
-Some pedons have an Oa surface horizon less than 8 inches thick.  Where present the Oa0 horizon is less than 1/2 the thickness of the soil.  The Oa horizon, where present, has  hue of 10YR, value of 3 or less, and chroma of 1 or 2.  The fiber content is less than 33 percent unrubbed, and less than 5 percent rubbed.  Sodium pyrophosphate extract has hue of 10YR value of 2 through 4, chroma 4 or less; value 5, chroma 2 through 8; value 6, chroma 3 through 8; or value 7, and chroma 4 through 8.  Texture is muck.
+Particle-size control section (weighted averages):  
+Clay content: 35 to 50 percent
+Silt content: 20 to 55 percent
 
-The A horizon has hue of 10YR, value of 3 or less, and chroma of 3 or less moist; and hue of 10YR, value of 3 to 5, and chroma of 2 or 3 dry.  Texture is silt loam or mucky silt loam.
+Oa horizon, where present:
+Hue: 5YR to 10YR, or Neutral
+Value: 2 to 4
+Chroma: 4 or less  
+Texture: muck
+von Post: H7 to H10
+Sodium pyrophosphate extract color:
+Hue: 10YR
+Value: 2 to 8
+Chroma: 1 to 8
+Where present the Oa horizon is less than 1/2 the thickness of the soil.  
 
-The C horizon has hue of 10YR, value of 3 or less, and chroma of 3 or less; moist; and hue of 10YR, value of 3 to 5, and chroma of 2 or 3 dry.   Texture is clay or sandy clay.
+Lma1 horizon:
+Hue: 10YR 
+Value: 3 or less
+Chroma: 3 or less
+Texture: Marly silt loam or marly silt 
+Clay content: 35 to 50 percent
+Shell fragments: 0 to 14 percent
 
-COMPETING SERIES:  There are no other series in this taxonomic class.
+Lma2 horizon:
+Hue: 10YR 
+Value: 3 or less
+Chroma: 3 or less
+Texture: marly clay, marly clay loam, marly silty clay loam, marly silty clay, 
+Clay content: 35 to 50 percent
+Shell fragments: 0 to 14 percent
 
-GEOGRAPHICALLY ASSOCIATED SOILS:  These are the Biscayne, Chekika and Dania.  Biscayne soils are composed of limnic (marl) materials and are poorly drained.  Chekika soils are loamy-skeletal and are somewhat poorly drained.  Dania soils are composed dominantly of organic materials.
+COMPETING SERIES: There are no competing series. 
 
-DRAINAGE AND PERMEABILITY:  Very poorly and poorly drained; very slow or ponded runoff; very slow permeability.  In natural areas, the water table is at or above the surface for 4 to 6 months during most years.
+GEOGRAPHIC SETTING:  
+Landscape: Lower Coastal Plain
+Landform(s): freshwater marshes, swamps, and low broad flats on marine terraces
+Parent material: Freshwater clayey fluviomarine deposits over oolithic limestone bedrock
+Mean annual temperature: 23 to 27 degrees C (73 to 81degrees F)
+Mean annual precipitation: 940 to 1570millimeters (37 to 62 inches)
+Frost-free period: 365 days
 
-USE AND VEGETATION:  The native vegetation on these soils consists of sawgrass, cattail and other water tolerant plants.
+GEOGRAPHICALLY ASSOCIATED SOILS: These are the Biscayne, Chekika and Cooper Town soils. 
+Biscayne soils: have calcareous silty marl deposits throughout and occur on similar landform positions on the lower coastal plain.
+Chekika soils: formed in very shallow loamy marl deposits and have greater than 35 percent rock fragments and occur on broad flats of the Miami Ridge.
+Cooper Town soils: have sapric organic materials throughout over limestone bedrock and occur on similar landform positions.
 
-DISTRIBUTION AND EXTENT:  Florida Everglades.  The soils of this series are of small extent.
+DRAINAGE AND SATURATED HYDRAULIC CONDUCTIVITY:  
+Drainage class: Very poorly drained 
+Saturated hydraulic conductivity (KSAT): Low to moderately low and negligible in the bedrock
+Runoff: negligible to very low
+Depth to seasonal high-water table: 0 to 15 centimeters (0 to 6 inches) 
+Ponding frequency and duration: Frequent for very long durations
+Hydric Indicators: A6 Organic Bodies, A7 5cm Mucky Mineral, and A12 Thick Dark Surface
 
-MLRA SOIL SURVEY REGIONAL OFFICE (MO) RESPONSIBLE: Auburn, Alabama
+USE AND VEGETATION:  
+Major uses: wildlife habitat, water quality, and water storage.
+Dominant vegetation: sawgrass, cattail and other water tolerant plants.
 
-SERIES ESTABLISHED:  Dade County, Florida; 1990.  This soil was mapped as Rock land in the 1947 soil survey.  This soil was unclassified.
+DISTRIBUTION AND EXTENT: 
+General area: Florida Everglades and associated areas
+Land Resource Region: U - Florida Subtropical Fruit, Truck Crop, and Range Region
+Major Land Resource Area: 156A 
+Extent: Small
 
-REMARKS:  Diagnostic horizons and features recognized in this pedon are:
+SOIL SURVEY REGIONAL OFFICE (SSRO) RESPONSIBLE: Auburn, Alabama
 
-Mollic epipedon - the zone from the surface or below the 0a horizon to a lithic contact (A, C horizons).
+SERIES ESTABLISHED: Miami-Dade County, Florida; 1990.  
 
+REMARKS: Diagnostic horizons and features recognized in this pedon are:
+Particle-size control section: ranges from 25 to 38 centimeters (10 to 15 inches)
+Lithic contact: 38 centimeters (15 inches) (2R horizon)
+Aquic conditions: Endosaturation - 0 to 38 centimeters (0 to 15 inches)
+
+This soil was mapped as Rock land in the 1947 soil survey.  This soil was unclassified.
+
+ADDITIONAL DATA: 
+
+OSD User Site ID: 2020FL686007
+
+OSD User Pedon ID: 2020FL686007
+________________________________________
 National Cooperative Soil Survey
 U.S.A.

@@ -1,100 +1,106 @@
 LOCATION TAVERNIER              FL
 
 Established Series
-Rev. GWH/CAP/RBT
-03/2021
+Rev. GWH-MFV-AMS
+12/2025
 
 TAVERNIER SERIES
 
 MLRA(s): 156A
-Soil Survey Regional Office (SSRO) Responsible: Auburn, Alabama
-Depth Class: Shallow
+Soil Survey Regional Office (SSRO) Responsible: Alburn, Alabama
+Depth Class: Shallow 
 Drainage Class: Very poorly drained
-Saturated Hydraulic Conductivity:  High to very high in the organic material and negligible in the rock material
+Saturated Hydraulic Conductivity: High to very high in the organic material and negligible in the rock material
 Index Surface Runoff: Medium
 Parent Material: Organic materials over oolitic limestone bedrock
 Slope: 0 to 1 percent
-Elevation: -1.0 to 3 feet above mean sea level.  
-Mean Annual Air Temperature: 26 degrees C. (78 degrees F.)
-Mean Annual Precipitation: 1270 centimeters (50 inches)
+Elevation: -0.3 to 3 meters above mean sea level.  
+Mean Annual Air Temperature: 24 degrees C (75 degrees F)
+Mean Annual Precipitation: 1345 centimeters (53 inches)
 
 TAXONOMIC CLASS: Euic, isohyperthermic, shallow Typic Sulfisaprists
 
-TYPICAL PEDON:  Tavernier muck in a tidal mangrove swamp. (Colors are for moist soil unless otherwise stated).
+TYPICAL PEDON: Tavernier muck in a tidal mangrove swamp.
 
-     Oase--0 to 20 centimeters (0 to 8 inches); very dark grayish brown (10YR 3/2) muck, dark grayish brown (10YR 4/2), dry; 20 percent unrubbed fiber, 5 percent rubbed fiber; moderate sulfurous odor; many fine and common medium roots throughout; 10 percent limestone gravel; slightly alkaline (pH 7.4); abrupt smooth boundary. [18 to 50 centimeters (7 to 20 inches) thick]
+     Oase--0 to 20 centimeters (0 to 8 inches); very dark grayish brown (10YR 3/2) muck, dark grayish brown (10YR 4/2), dry; 20 percent unrubbed fiber content, 5 percent rubbed; massive; very friable, soft; many fine and common medium roots throughout; about 10 percent limestone gravel; slightly alkaline (pH 7.4); abrupt smooth boundary. [25 to 50 centimeters (10 to 20 inches) thick]
 
-     2R--20 centimeters (8 inches); weakly to strongly cemented oolitic limestone bedrock; solution holes up to 102 centimeters (40 inches) or more deep can be filled with sandy and/or loamy material.
+     2R--20 centimeters (8 inches); weakly to strongly cemented oolitic limestone bedrock; solution holes up to 102 centimeters (40 inches) or deeper can be filled with sandy and/or loamy material.
 
-TYPE LOCATION:  Monroe County, Florida; Key Largo; 1,457 feet east of the intersection of State Road 905 and 905A; 400 feet east and 760 feet north of the southwest corner of Sec. 24, T. 59 S., R. 40 E.; latitude 25 degrees 17 minutes 10.53 seconds N longitude 80 degrees 17 minutes 59.11 seconds W; WSG84; USGS Card Sound, FL quadrangle.
+TYPE LOCATION: Monroe County, Florida; USGS Card Sound, FL quadrangle.
+Latitude-- 25.2862583
+Longitude-- -80.2997528
+Datum--WGS84 
 
 RANGE IN CHARACTERISTICS:  
-Solum thickness: 18 to 50 centimeters (7 to 20 inches)
-Depth to seasonally high water table: 0 to 15 centimeters (0 to 6 inches)
-Soil Reaction: Slightly acid to slightly alkaline throughout
-Depth of the organic material: 18 to 50 centimeters (7 to 20 inches)
-Depth to limestone bedrock: 18 to 50 centimeters (7 to 20 inches)
-Fiber content: Un-Rubbed: 15 to 50 percent; rubbed less than 17 percent
-Particle-size control section, mineral (weighted averages):  
-Mineral content: 0 to 10 percent
-
-Oase horizon: 
-Color: Hue 5YR to 10YR or Neutral, value 1 to 3, chroma: 1 to 3 
-Texture: muck or gravelly muck 
+Solum thickness: 25 to 50 centimeters (10 to 20 inches)
+Depth to seasonally high-water table: 0 to 15 centimeters (0 to 6 inches)
+Soil Reaction: Slightly acid to slightly alkaline throughout (pH 6.1 to 7.8)
+Depth of the organic material: 25 to 50 centimeters (10 to 20 inches)
+Depth to limestone bedrock: 25 to 50 centimeters (10 to 20 inches)
 Rock fragments: 0 to 20 percent limestone gravel
 EC (mmhos/cm): 16 to 32 or more
 Exchangeable Sodium: 30 to 60 percent or more
 Sodium Absorption Ratio: 30 to 60 percent or more
+Fiber content: Un-Rubbed: 15 to 50 percent; Rubbed less than 17 percent
 
-2R horizon: weakly to strongly cemented oolitic limestone bedrock; solution holes up to 102 centimeters (40 inches) or more deep can be filled with sandy and/or loamy material.
+Particle-size control section, mineral (weighted averages):  
+Mineral content: 0 to 10 percent
 
-COMPETING SERIES:  There are no known competing series in this family.  Similar soils in related families include Islamorada, Keylargo, and Matecumbe. 
-Islamorada - are moderately deep to bedrock on similar landform positions.
-Keylargo - are very deep soils to limestone bedrock on similar landforms.
-Matecumbe - are very shallow soils to limestone bedrock on similar landforms.
+Oase horizon: 
+Hue: 5YR, 7.5 YR, 10 YR or Neutral
+Value: 1 to 3
+Chroma: 1 to 3 
+Texture: muck or gravelly muck 
+Rock fragments: 0 to 20 percent
+
+2R horizon: weakly to strongly cemented oolitic limestone bedrock
+
+COMPETING SERIES: There are no completing series.
 
 GEOGRAPHIC SETTING:  
 Landscape: Lower Coastal Plain
-Landform(s): marine marshes, swamps, and low broad tidal flats on the Key West Islands and/or along the southern coast of the Florida Peninsula	 
-Parent material: Well decomposed organic materials over oolitic limestone bedrock
-Mean annual temperature: 25 to 27 degrees C (77 to 81 degrees F)
-Mean annual precipitation: 1067 to 1778 millimeters (42 to 70 inches)
+Landform(s): marine marshes, swamps, and low broad tidal flats on the Islands of Key West Islands and/or along the southern coast of the Florida Peninsula	 
+Parent material: well decomposed hydrophytic herbaceous plant remains over oolitic limestone bedrock
+Mean annual temperature: 23 to 27 degrees C (73 to 81 degrees F)
+Mean annual precipitation: 940 to 1570 millimeters (37 to 62 inches)
 Frost-free period: 365 days
 
 GEOGRAPHICALLY ASSOCIATED SOILS:  
-Cudjoe - have marly silt loam particle-sized control section, have water tables greater than 15 centimeters (6 inches), and occur on slightly higher positions in the tidal zone.
-Keyvaca - have a loamy-skeletal particle-sized control section, have water tables greater than 91 centimeters and occur on higher landform positions.
-Keywest - have stratification of marl and muck materials over oolitic limestone that is greater than 100 centimeters deep on similar landform positions.
-Lignumvitae - have marly silt loam particle-sized control section, have bedrock at depths greater than 50 centimeters on similar landform positions.
-Saddlebunch - have marly silt loam particle-sized control section and are on slightly higher landform positions.
+Cudjoe soils have marly silt loam particle-sized control section, have water tables greater than 15 centimeters (6 inches), and occur on slightly higher positions in the tidal zone where they are frequently flooded.
+Islamorada soils have bedrock at depths greater than 51 centimeters (20 inches) and occur on similar landform positions.
+KeyLargo soils have bedrock at depths greater than 130 centimeters (51 inches) and occur in similar landform positions.
+Keyvaca soils have bedrock at depths of less than 15 centimeters (6 inches), have a loamy-skeleatal particle-sized control section, and occur on slightly higher landform positions.
+Keywest soils have stratification of marl and muck materials over oolitic limestone, have bedrock at depths less than 130 centimeters (51 inches), and occur in similar landform positions.
+Lignumvitae soils have marly silt loam particle-sized control section, have bedrock at depths greater than 51 centimeters (20 inches) and occur on similar landform positions.
+Matecumbe soils have bedrock at depths less than 23 centimeters (9 inches), are not subject to tidal flooding, and occur on slightly higher landform positions.
+Saddlebunch soils have marly silt loam particle-sized control section and occur on slightly higher landform positions.
 
 DRAINAGE AND SATURATED HYDRAULIC CONDUCTIVITY:  
 Drainage class: Very poorly drained 
-Saturated hydraulic conductivity (Ksat): High to very high
+Saturated hydraulic conductivity (KSAT): High to very high
+
 Runoff: Medium
 Depth to seasonal high-water table: 0 to 15 centimeters (0 to 6 inches) 
-Flooding frequency and duration: very frequently and very brief duration from tides, subject to flooding from storm surges and hurricanes
+Flooding frequency and duration: very frequently and brief duration, subject to flooding from storm surges and hurricanes
 
 USE AND VEGETATION:  
 Major uses: wildlife habitat and water quality.  
-Dominant vegetation: Red and black mangroves, and saltwort.
+Dominant vegetation: red mangroves, black mangroves, and saltwort.
 
-DISTRIBUTION AND EXTENT:  MLRA 156A Florida Everglades and Associated Areas. 
+DISTRIBUTION AND EXTENT: MLRA 156S Florida Everglades and Associated Areas. 
 Extent: limited
 
 SOIL SURVEY REGIONAL OFFICE (SSRO) RESPONSIBLE: Auburn, Alabama
 
-SERIES ESTABLISHED:  Monroe County, Florida, 1989.
+SERIES ESTABLISHED: Monroe County, Florida, 1989.
 
-REMARKS:
-These soils were formerly classified as shallow, Lithic Haplosaprists and are revised here to the twelfth edition of the keys (2014).
-Diagnostic horizons and features recognized in this typical pedon:
+REMARKS: Diagnostic horizons and features recognized in this Pedon:
 
-1.	Histic epipedon - 0 to 20 centimeters (0 to 8 inches) (Oase horizon)
-2.	Lithic (shallow) contact - 20 centimeters (8 inches) (2R horizon)
-3.	Peraquic feature - the zone from 0 to 203 centimeters (0 to 80 inches).
-4.	Aquic conditions - endosaturation ranges from 0 to 203 centimeters (0 to 80 inches).
-5.	Sulfidic feature - the zone from 0 to 20 centimeters (0 to 8 inches) contains sulfidic soil materials.
+1.	Particle-size control section: 25 to 50 centimeters (10 to 20 inches)
+2.	Histic epipedon 0 to 20 centimeters (0 to 8 inches) (Oa horizon)
+3.	Lithic contact - 20 to 46 centimeters (8 to 18 inches) (2R horizon)
+4.	Hydric Indicator A1 Histosols, A3 Black Histic, A8 Muck Presence, and A12 Thick Dark Surface
+5.	Sulfidic materials to meet classification.
 
 ADDITIONAL DATA:  
 Laboratory data is available on the National Soil Survey website at: http://ncsslabdatamart.sc.egov.usda.gov/querypage.aspx

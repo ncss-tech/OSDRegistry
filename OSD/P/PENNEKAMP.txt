@@ -1,50 +1,120 @@
 LOCATION PENNEKAMP              FL
 
 Established Series
-Rev. GWH
-10/2018
+Rev. GWH-MFV-AMS
+12/2025
 
 PENNEKAMP SERIES
 
-The Pennekamp series consists of well drained soils that are shallow to rippable coral limestone.  Pennekamp soils formed in material weathered from the coral limestone, usually with a thin overburden of sapric organic material.  Slopes range from 0 to 2 percent.
+MLRA(s): 156A
+Soil Survey Regional Office (SSRO) Responsible: Auburn Alabama
+Depth Class: Shallow 
+Drainage Class: Moderately   Well drained
+Saturated Hydraulic Conductivity:  High in the organic and loamy material and negligible in the rock material
+Index Surface Runoff: High
+Parent Material: Herbaceous organic material and loamy materials over oolitic limestone bedrock
+Slope: 0 to 2 percent
+Elevation: 1.5 to 4.5 meters above mean sea level  
+Mean Annual Air Temperature: 24 degrees C (75 degrees F)
+Mean Annual Precipitation: 1345 millimeters (53 inches)
 
 TAXONOMIC CLASS: Loamy-skeletal, carbonatic, isohyperthermic Lithic Haprendolls
 
-TYPICAL PEDON:  Pennekamp gravelly muck on a tropical hammock (colors are for moist soil).
+TYPICAL PEDON:  Pennekamp gravelly muck on rises on a tropical hammock. (Colors are for moist soil unless otherwise stated.)
 
-     Oa--0 to 3 inches; black (10YR 2/1) gravelly muck; 15 percent fiber unrubbed and less than 5 percent rubbed; 40 percent by weight of mineral material; massive; very friable; many fine, medium, and large roots; 5 percent by volume of coral fragments larger than 3 inches and 15 percent smaller than 3 inches; medium acid; abrupt smooth boundary (1 to 4 inches thick).
+     Oa--0 to 8 centimeters (0 to 3 inches); black (10YR 2/1) gravelly muck, very dark gray (10YR 3/1) dry; 15 percent fiber unrubbed and less than 5 percent rubbed; massive; very friable, soft; many fine, common medium, and few large roots throughout; 5 percent cobbles and 15 percent gravel; neutral (pH 7.3); abrupt smooth boundary. [2 to 10 centimeters (1 to 4 inches thick)]
 
-     A--3 to 8 inches; very dark gray (5YR 3/1) very gravelly loam, dark reddish brown (5YR 3/2) dry; weak fine granular structure; very friable; 50 percent by volume of coral fragments smaller than 3 inches, 10 percent larger than 3 inches; many fine and medium roots; mildly alkaline; abrupt wavy boundary (4 to 12 inches thick).
+     A--8 to 20 centimeters (3 to 8 inches); very dark gray (5YR 3/1) very gravelly silt loam, dark reddish brown (5YR 3/2) dry; weak fine granular structure; very friable, soft; 50 percent gravel, 10 percent cobble; many fine and common medium roots throughout; neutral (pH 7.3); abrupt wavy boundary. [10 to 30 centimeters (4 to 12 inches thick)]
 
-     R--8 inches; soft to hard but rippable coral limestone.
+     2R--20 centimeters (8 inches); weakly to strongly cemented oolitic limestone bedrock; solution holes up to 102 centimeters (40 inches) or more deep can be filled with sandy and/or marly material.
 
-TYPE LOCATION:  Monroe County, Florida; Key Largo; 600 feet east of U.  S. Hwy 1, 100 feet south of service road entrance at Pennekamp State
+TYPE LOCATION:  Monroe County, Florida; Key Largo USGS Blackwater Sound, FL quadrangle. 
+Latitude-- 25.1289749
+Longitude-- -80.4086838 
+Datum--WGS84
 
-Park.  800 feet north and 150 feet east of the southwest corner of Sec.  14, T. 61 S., R. 39 E.
+RANGE IN CHARACTERISTICS:
+Solum thickness: 25 to 50 centimeters (10 to 20 inches)
+Depth to seasonally high water table: 106 to 152 centimeters (42 to 60 inches)
+Soil Reaction: Moderately acid to slightly alkaline in the Oa horizon (pH 5.6 to 7.8) and neutral to moderately alkaline (pH 6.6 to 8.4) in the A horizon
+Depth of mollic epipedon: 10 to 18 centimeters (4 to 7 inches) or more
+Depth to limestone bedrock: 25 to 50 centimeters (10 to 20 inches)
+Calcium carbonate equivalence: more than 40 percent in the loamy material
+EC (mmhos/cm): 0 to 4 
+Sodium Absorption Ration: 0 to 5 percent 
+Exchangeable Sodium Percentage: 0 to 5 percent 
+Fiber content: Un-Rubbed: 5 to 70 percent; Rubbed less than 17 percent
 
-RANGE IN CHARACTERISTICS:  Depth to bedrock is 4 to 16 inches.
+Particle-size control section (weighted averages):  
+Clay content: 5 to 25 percent
+Silt content: 45 to 60 percent
+Very fine sand content: 2 to 10 percent
 
-     The Oa horizon has hue of 5YR to 10YR, value of 2 or 3, and chroma of 1 or 2.  Texture is muck or gravelly muck with 5 to 25 percent by volume of coral fragments.  Reaction is medium or slightly acid.
+Oa horizon:
+Hue: 10YR, 7.5YR, or 5YR
+Value: 2 or 3 moist, 3 to 5 dry
+Chroma: 1 to 3 moist, 1 to 3 or dry
+Texture: muck or gravelly muck 
+Rock fragments: 5 to 25 percent
 
-     The A horizon has hue of 5YR to 10YR, value of 2 or 3, and chroma of 1 to 3.  Texture is very gravelly loam, very gravelly silt loam, extremely gravelly loam, or extremely gravelly silt loam with 35 to 75 percent by volume of coral fragments and more than 45 percent silt.  Reaction is mildly to moderately alkaline.
+A horizon:
+Hue: 10YR, 7.5YR, or 5YR
+Value: 2 or 3 moist, 3 to 5 dry
+Chroma: 1 to 3 moist, 1 to 3 or dry
+Texture: very or extremely gravelly loam or silt loam
+Rock fragments: 35 to 75 percent
 
-     The R horizon consists of soft to hard but rippable coral limestone.
+R horizon: weakly to strongly cemented, oolitic limestone bedrock
 
-COMPETING SERIES:  These are the Keyvaca series in the same family, the Matecumbe series in a similar family, and the Biscayne and Krome series in hyperthermic families.  Keyvaca soils formed over oolitic limestone and have less than 45 percent silt.  Matecumbe soils are organic soils.
+COMPETING SERIES:  This is the Keyvaca (FL) series.
+Keyvaca soils have less than 45 percent silt formed from oolitic limestone and occur on lower positions.  
 
-GEOGRAPHIC SETTING:  Pennekamp soils are on tropical hammock uplands.  Elevations are dominantly 5 to 15 feet above 1929 NGVD.  Pennekamp soils are subject to rare flooding from hurricanes and other tropical storms.  The mean annual temperature is about 78 degrees F., and the mean annual precipitation is about 50 inches.
+GEOGRAPHIC SETTING:  
+Landscape: Lower Coastal Plain
+Landform(s): rises on tropical hammocks on the Key West Islands	
+Parent material: Herbaceous organic material over loamy residuum from oolithic limestone bedrock
+Mean annual temperature: 23 to 27 degrees C (73 to 81 degrees F)
+Mean annual precipitation: 940 to 1570 millimeters (37 to 62 inches)
+Frost-free period: 365 days
 
-GEOGRAPHICALLY ASSOCIATED SOILS:  These are the moderately well drained organic Matecumbe and the somewhat poorly drained marly Saddlebunch soils on slightly lower landforms and the poorly drained marly Cudjoe, Lignumvitae, and Keywest soils and the very poorly drained organic Islamorada, Keylargo, and Tavernier soils on lower landforms.
+GEOGRAPHICALLY ASSOCIATED SOILS:  
+Cudjoe and Saddlebunch soils are composed of silty marl, have less than 15 percent rock fragments, and occur on lower positions.
+Islamorada soils have bedrock at depths greater than 51 centimeters (20 inches), are composed of sapric organic material, and occur in the tidal zone in lower positions.
+Keylargo soils are composed of sapric organic sediments, have bedrock at depths greater than 130 centimeters (51 inches), and occur in the tidal zone in lower positions.
+Keywest soils are stratified with sapric organic and silty marl sediments, have bedrock at depths of greater than 102 centimeters (40 inches), and occur in tidal swamps with mangroves.
+Lignumvitae soils have bedrock at depths of more than 50 centimeters (20 inches), are composed of silty marl, and occur in the tidal zone swamps with mangroves.
+Matecumbe soils have bedrock at depths less than 20 centimeters (8 inches) are composed of sapric organic materials and occur in lower positions. 
 
-DRAINAGE AND PERMEABILITY:  These soils are well drained with a high water table of 3.5 to 5 feet during wet periods of most years.  Permeability is moderately rapid.
+DRAINAGE AND PERMEABILITY:  
+Drainage class: Moderate Well drained 
+Saturated hydraulic conductivity (KSAT): High
+Runoff: High
+Depth to seasonal high-water table: 106 to 152 centimeters (42 to 60 inches)
+These soils are subject to rare flooding from storm surges and hurricanes.
 
-USE AND VEGETATION:  Many areas of the soil are used for urban and recreational development.  Native vegetation includes gumbo limbo, poisonwood, strangler fig, paradise tree, canella winterana, wild tamarind, and Deering's tree cactus.
+USE AND VEGETATION:  
+Major uses: recreational and urban development.  
+Dominant vegetation: gumbo limbo, poisonwood, strangler fig, paradise tree, canella winterana, wild tamarind, and Deering's tree cactus.
 
-DISTRIBUTION AND EXTENT:  Approximately 7,000 acres of Pennekamp soils are on the Florida Keys.  These soils may occur on other tropical islands.
+DISTRIBUTION AND EXTENT:  MLRA 156A Florida Everglades and Associated Areas. 
+Extent: limited
 
-MLRA SOIL SURVEY REGIONAL OFFICE (MO) RESPONSIBLE: Auburn, Alabama
+SOIL SURVEY REGIONAL OFFICE (SSRO) RESPONSIBLE: Auburn, Alabama
 
 SERIES ESTABLISHED:  Monroe County, Florida, 1989.
+
+REMARKS: Diagnostic horizons and features recognized in this Pedon:
+
+1.	Particle-size control section: is less than 25 centimeters (10 inches)
+2.	Mollic epipedon - 0 to 20 centimeters (0 to 8 inches) (Oa, A horizon)
+3.	Lithic contact - 20 centimeters (8 inches) (2R horizon)
+
+ADDITIONAL DATA:  
+Laboratory data is available on the National Soil Survey website at: http://ncsslabdatamart.sc.egov.usda.gov/querypage.aspx
+
+OSD User Site ID:  S1988FL087003
+
+OSD User Pedon ID:  S1988FL087003
 
 National Cooperative Soil Survey
 U.S.A.

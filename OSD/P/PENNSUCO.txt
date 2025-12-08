@@ -1,76 +1,140 @@
 LOCATION PENNSUCO               FL
 
 Established Series
-Rev. SHM; AGH; GRB
-09/2003
+Rev. SHM-MFV-AMS
+12/2025
 
 PENNSUCO SERIES
 
-The Pennsuco series consists of deep, poorly and very poorly drained, moderately slowly permeable soils on lowlands only a few feet above sea level in the Lower Coastal Plain of Florida.  They formed in recent finely divided stratified calcareous sediments that were deposited in marine or fresh waters over limestone.  Near the type location, the mean annual temperature is about 74 degrees F., and the mean annual precipitation is about 60 inches.  Slopes are less than 1 percent.
+MLRA(s): 156A
+Depth Class: Deep
+Drainage Class: Very poorly poorly 
+Saturated Hydraulic Conductivity:  Moderately high to high in the limnic material and negligible in the rock material
+Index Surface Runoff: High 
+Parent Material: calcareous silty marl deposits from fresh water over oolitic limestone bedrock 
+Slope: 0 to 1 percent
+Elevation: 0 to 1.2 meter above mean sea level.  
+Mean Annual Air Temperature: 24degrees C (75 degrees F)
+Mean Annual Precipitation: 1345 millimeters (53 inches)
 
-TAXONOMIC CLASS: Coarse-silty, carbonatic, hyperthermic Typic Fluvaquents
+TAXONOMIC CLASS: Coarse-silty, carbonatic, isohyperthermic Typic Fluvaquents
 
-TYPICAL PEDON:  Pennsuco silty clay loam on formerly cultivated land recently cleared of second growth.  (Colors are for moist soil.)  
+TYPICAL PEDON:  Pennsuco marly silt loam on a mangrove swamp. (Colors are for moist soil unless otherwise stated.)  
 
-     Ap--0 to 5 inches; grayish brown (2.5Y 5/2) silty clay loam; moderate fine to coarse granular structure; friable; few fine and medium roots; few snail shells; strongly effervescent; moderately alkaline; clear wavy boundary.  (2 to 10 inches thick)
+     Lma1--0 to 20 centimeters (0 to 8 inches); dark grayish brown (10YR 4/2) marly silt loam, light brownish gray (10YR 6/2), dry; moderate fine granular structure; very friable, soft, slightly sticky, slightly plastic; many fine roots throughout; strong effervescence with 1N HCl; slightly alkaline (pH 7.6); abrupt smooth boundary. (5 to 25 centimeters thick)                  
 
-     Bg1--5 to 11 inches; light brownish gray (2.5Y 6/2) silt loam; moderate coarse subangular blocky structure; firm to friable; few fine and medium roots; few fine distinct light olive brown (2.5Y 5/6) accumulations; strongly effervescent; moderately alkaline; clear wavy boundary.
+     Lma2--20 to 68 centimeters (8 to 27 inches); grayish brown (10YR 5/2) marly silt; moderate medium angular blocky structure; very friable, soft, slightly sticky, nonplastic; many fine and common medium roots throughout; about 5 percent fine distinct spherical light gray (10YR 7/2) iron depletions throughout; strong effervescence with 1N HCl; slightly alkaline (pH 7.6); gradual smooth boundary. 
 
-     Bg2--11 to 21 inches; olive gray (5Y 5/2) silt loam; moderate coarse subangular blocky structure; firm; few fine roots; common vertical black (10YR 2/1) streaks in old root channels; common discontinuous lenses of very dark gray (5Y 3/1) and dark olive gray (5Y 3/2) material; common fine white (10YR 8/1) shell fragments; strongly effervescent; moderately alkaline; clear wavy boundary.
+     Lma3--68 to 91 centimeters (27 to 36 inches); dark gray (10YR 4/1) marly silt; moderate medium angular blocky structure; very friable, soft, slightly sticky, nonplastic; common fine and medium roots throughout; about 5 percent fine distinct spherical light gray (10YR 7/2) iron depletions throughout; strong effervescence with 1N HCl; slightly alkaline (pH 7.8); gradual smooth boundary. 
 
-     Bg3--21 to 28 inches; very pale brown (10YR 7/4) silt; moderate coarse subangular blocky structure; friable; common coarse vertical root channels 1 to 2 inches apart; few medium distinct yellowish brown (10YR 5/4) accumulations and many medium and coarse light brownish gray (10YR 6/2) depletions; strongly effervescent; moderately alkaline; gradual wavy boundary.  
+     Lma4--91 to 112 centimeters (36 to 45 inches); dark gray (10YR 4/1) marly silt loam; massive; very friable, soft, slightly sticky, slightly plastic; common fine and few medium roots throughout; about 5 percent fine distinct spherical light gray (10YR 7/2) iron depletions throughout; strong effervescence with 1N HC  l; slightly alkaline (pH 7.8); abrupt wavy boundary. (Combined thickness of the Lma horizons is 100 to 150 centimeters) 
 
-     Bg4--28 to 38 inches; 50 percent dark grayish brown (2.5Y 4/2) and 50 percent very pale brown (10YR 7/3) silt loam; weak medium to coarse subangular blocky structure; friable; common medium black (10YR 2/1) vertical roots; many thin discontinuous lenses of grayish brown (10YR 5/2) material; common fine white (10YR 8/1) shell fragments; strongly effervescent; moderately alkaline; abrupt smooth boundary.  (Total thickness of the Bg horizons range from 10 to 30 inches)
+     2R--112 centimeters (44 inches); weakly to strongly cemented oolitic limestone bedrock; solution holes up to 100 centimeters or more deep can be filled with sandy and/or loamy material.
 
-     2C1--38 to 41 inches; black (10YR 2/1) fine sand; massive; very friable; many medium roots; moderately alkaline; gradual wavy boundary. 
+TYPE LOCATION:  Miami-Dade County, Florida; USGS topographic quadrangle: Arsenicker Keys, FL
+Latitude-- 25.2881944 N
+Longitude-- -80.4450833 W
+Datum--WGS84
 
-     2C2--41 to 53 inches; very dark gray (10YR 3/1) fine sand; massive; very friable; common medium roots; common clean sand grains; moderately alkaline; abrupt wavy boundary.  (Total thickness of 2C horizon ranges from 0 to 18 inches)
 
-     2Cr--53 to 80 inches; very pale brown (10YR 7/3) soft, porous limestone with a thin root mat on the surface.
+RANGE IN CHARACTERISTICS:  
+Solum thickness: 100 to 150 centimeters
+Depth of ochric epipedon: 2 to 25 centimeters
+Depth to limestone bedrock: 100 to 150 centimeters
+Calcium carbonate equivalence: 40 to 80 percent or more
+EC (mmhos/cm): 4 to 32 or more
+Sodium Absorption Ratio: 5 to 15 percent or more
+Exchangeable Sodium Percent: 0 to 13 percent
+Thin laminations or varving are evident in many pedons.  
 
-TYPE LOCATION:  Broward County, Florida; approximately 0.5 mile east of U.S. Highway 1, about 0.5 mile north of Dania Cut-Off Canal, and about 100 feet south of paved road; NW1/4, SW1/4, SW1/4, Sec. 26, T. 50 S., R. 42 E.
+Particle-size control section (weighted averages):  
+Clay content: 5 to 34 percent
+Carbonate Clay content: 4 to 25 percent
+Silt content: 70 to 95 percent
 
-RANGE IN CHARACTERISTICS:  Soil thickness and depth to limestone ranges from 40 to 60 inches.  Reaction is moderately alkaline, in the A and B horizons and neutral to moderately alkaline in the 2C horizon.  Thin laminations or varving are clearly evident in many pedons.  
+Oa horizon, where present:
+Hue: 5YR, 7.5YR, 10YR, or Neutral
+Value: 2 to 4
+Chroma: 1 or 2  
+Texture: muck
+von Post: H7 to H9
+Reaction: neutral to moderately alkaline (pH 6.6 to 8.4)
+EC (mmhos/cm): 0 to 4
+Exchangeable Sodium Percent: 0 to 5 percent
+Sodium Absorption Ratio: 0 to 5 percent
+The Oa horizon is less than 18 centimeters (7 inches) thick.
 
-The Oa horizon, where present, is a thin layer of organic material with hue of 5YR to 10YR, value of 2 to 4, and chroma of 1 or 2.  Texture is muck.  
+Lma horizon(s):
+Hue: 10YR or 2.5Y 
+Value: 4 to 7 moist, 5 to 8 dry
+Chroma: 1 to 4
+Texture: marly silt loam, marly silt, or marly silty clay loam
+Redoximorphic features: depletions or concentrations, 0 to 20 percent, and fine or medium in size
 
-The A or Ap horizon has hue of 10YR or 2.5Y, value of 3 to 6, and chroma of 2 or less.  Redoximorphic features in shades of brown, yellow, or gray range from none to common.  Texture is silt loam or silty clay loam.
+2AC horizon, where present:
+Hue: 10YR or 2.5Y 
+Value: 2 to 6 moist, 3 to 6 dry
+Chroma: 1 to 4
+Texture: fine sand, sand, loamy fine sand, loamy sand, fine sandy loam, sandy loam, or sandy clay loam
+Redoximorphic features: depletions or concentrations, 0 to 20 percent, and fine or medium in size
 
-The Bg horizon has hue of 10YR to 5Y, value of 4 to 7, and chroma of 1 to 4; or there is no dominant color and it is multicolored in shades of brown, yellow, and gray.  Redoximorphic features in shades of brown, yellow, or gray range from few to many.  Texture is silt or silt loam. 
+2R horizon: weakly to strongly cemented oolitic limestone bedrock; solution holes up to 100 centimeters or more deep can be filled with sandy and/or loamy material.  
 
-The C horizon, where present, has the same range of colors as the Bg horizon.  Masses or thin discontinuous lenses of muck or mucky silt loam range from none to common.  Texture is silt loam or silt.
+COMPETING SERIES:  This is the Lignumvitae and Perrine series.
+Lignumvitae soils have limestone bedrock at depths less than 100 centimeters, are subjected to flooding by tides, storm surges, and hurricanes, and occur in low broad tidal flats.
+Perrine soils have bedrock at depths less than 100 centimeters and occur on similar landform positions.
 
-The 2C horizon, where present, has hue of 10YR, value of 2 to 5, and chroma of 2 or less.  Texture is sand, fine sand, or loamy sand.
+GEOGRAPHIC SETTING:  
+Parent material: calcareous silty marl sediments from fresh water over oolithic limestone bedrock
+Landscape: Lower Coastal Plain
+Landform(s): freshwater marshes, swamps, and low broad coastal flats on marine terrace
+Mean annual temperature: 23 to 27 degrees C (73 to 81 degrees F)
+Mean annual precipitation: 940 to 1570 millimeters (37 to 62 inches)
+Frost-free period: 365 days
 
-The Cr horizon is composed of soft weathered limestone.  Solution holes range from few to common throughout and extend 1 to 2 feet into the limestone.  They are filled with sand, silt loam, or soft carbonatic material.
+GEOGRAPHICALLY ASSOCIATED SOILS:  These are the Biscayne, Dade, and Perrine series.
+Biscayne soils: have bedrock between 25 and 50 centimeters and are on similar landform positions
+Dade soils: have a sandy particle-sized control section, have weakly expressed spodic horizons, have bedrock at depths less than 100 centimeters, are better drained, and occur on slightly higher landform positions.  
+Perrine soils: have bedrock at depths less than 100 centimeters and are on similar landform positions.
 
-COMPETING SERIES:  The Perrine series is in the same family.  The poorly drained Perrine soils are on similar positions is moderately deep to limestone.
+DRAINAGE AND SATURATED HYDRAULIC CONDUCTIVITY:  
+Drainage class: very poorly drained 
+Saturated hydraulic conductivity (KSAT): moderately high to high
+Runoff: moderately high to high
+Depth to seasonal high-water table: 0 to 46 centimeters (0 to 18 inches)
+Ponding frequency and duration: in natural areas, frequent with duration of very long, depth of 0 to 61 centimeters (0 to 24 inches)
+Hydric Indicators: F10 Marl
 
-GEOGRAPHIC SETTING:  Pennsuco soils are in tidal areas and broad adjacent lowlands in the Lower Coastal Plain of Florida.  Slopes are less than 1 percent.  They formed in deposits of mostly silt-size sediments that are 90 to 95 percent calcium carbonate and are on the Miami Oolite Formation of Pleistocene Age.  Elevation is 1 to 4 feet above sea level.  The climate is humid subtropical.  The average annual precipitation ranges from 55 to 65 inches and the average annual temperature ranges from 73 to 75 degrees F.
+USE AND VEGETATION:  
+Major uses: wildlife habitat, water quality, inland areas have been drained for truck crops and ornamental nursey stock.
+Dominant vegetation: in undrained areas consists of sawgrass, reeds, sedges, grasses, and scattered cabbage palm.  
 
-GEOGRAPHICALLY ASSOCIATED SOILS:  This is the competing Perrine series and the Dade series.  The well drained Dade soils are on adjacent higher positions, are sandy throughout, have a weekly expressed spodic horizon, and are moderately deep to limestone.
+DISTRIBUTION AND EXTENT:
+General area: Florida Everglades and associated areas
+Land Resource Region: U - Florida Subtropical Fruit, Truck Crop, and Range Region
+Major Land Resource Area: 156A 
+Extent: Moderate
 
-DRAINAGE AND PERMEABILITY:  Poorly and very poorly drained; moderate to moderately slow permeability.  
-
-USE AND VEGETATION:  Tidal areas are dominated by mangrove trees, giant leather fern, bushy sea-oxeye, glasswort, and salt tolerant grasses.  Large areas inland from the coastal swamps have been drained and used for potatoes, beans, corn, tomatoes, other truck crops and ornamental nursery stock.  Vegetation in undrained areas consists of sawgrass, reeds, sedges, grasses, and scattered cabbage palm.  
-
-DISTRIBUTION AND EXTENT:  Southeastern Broward County, east of U.S. Highway 1 from Ft. Lauderdale south, east, and southeast Dade County.  The series is probably limited to Dade, Broward, and Indian River Counties, Florida.
-
-MLRA SOIL SURVEY REGIONAL OFFICE (MO) RESPONSIBLE:  Auburn, Alabama.
+SOIL SURVEY REGIONAL OFFICE (SSRO) RESPONSIBLE:  Auburn, Alabama
 
 SERIES ESTABLISHED:  Broward County, Florida, 1981.
 
 REMARKS:  Diagnostic horizons and features in this pedon:
+-Particle-size control section: 25 to 100 centimeters
+-Limnic soil material: 20 to 68 centimeters (Lma2 horizon)
+-Lithic contact   112 centimeters (2R horizon)
+-Calcium carbonate equivalence of greater than 70 percent (0 to 112 centimeters) throughout. 
+-Aquic conditions: Endosaturation - 0 to 112 centimeters (0 to 44 inches)
 
-Ochric epipedon  the zone from 0 to 5 inches (Ap horizon).
 
-Cambic horizon  the zone from 5 to 38 inches (Bg1, Bg2, Bg3, and Bg4 horizons)
+Pennsuco soils will be limited to fresh water areas with the change in classification to isohyperthermic, Lignumvitae will be with mapped marine water in the tidal zone.
 
-Paralithic contact  53 inches to soft limestone bedrock (2Cr horizon).
+ADDITIONAL DATA:  
+Laboratory data is available on the National Soil Survey website at: http://ncsslabdatamart.sc.egov.usda.gov/querypage.aspx
 
-The water table is within 10 inches of the surface for 4 to 6 months.  Tidal areas are flooded by daily or seasonal tides.
+OSD User Site ID: S1985FL025005
 
-Pennsuco soils have structure but the organic carbon content is too high for a cambic horizon.  Moist color would put this soil in an Aeric family, but the soil is too wet to be so classified.
+OSD User Pedon ID: S1985FL025005
 
 National Cooperative Soil Survey
 U.S.A.

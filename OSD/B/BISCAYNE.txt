@@ -1,51 +1,53 @@
 LOCATION BISCAYNE               FL
 
 Established Series
-Rev. JDS/CAW/GRB/CAP
-02/2025
+Rev. JDS-MFV-AMS
+12/2025
 
 BISCAYNE SERIES
 
 MLRA(s): 156A
-Soil Survey Regional Office (SSRO) Responsible: Auburn Alabama
+Soil Survey Regional Office (SSRO) Responsible: Alburn, Alabama
 Depth Class: Shallow
-Drainage Class: Very poorly and poorly drained
+Drainage Class: Very poorly drained
 Saturated Hydraulic Conductivity: Very high to high
 Index Surface Runoff: High to very high
 Parent Material: calcareous silty marl sediments from fresh water over oolitic limestone
 Slope: 0 to 1 percent
-Elevation: -3.0 to 3.0 feet above mean sea level 
-Mean Annual Air Temperature: 25 degrees C (77 degrees F)
-Mean Annual Precipitation: 1600 millimeters (63 inches)
+Elevation: -0.3 to 3.0 meters above mean sea level.  
+Mean Annual Air Temperature: 24 degrees C (75 degrees F)
+Mean Annual Precipitation: 1345 millimeters (53 inches)
 
 TAXONOMIC CLASS: Loamy, carbonatic, isohyperthermic, shallow Typic Fluvaquents
 
 TYPICAL PEDON: Biscayne marly silt loam on a low broad flat in drained cropland.  (Colors are for moist soil unless otherwise stated.)
 
-    Lmap--0 to 13 centimeters (0 to 5 inches); gray (10YR 6/1) marly silt loam; light gray (10YR 7/1), dry; moderate medium granular structure parting to weak fine granular; very friable, soft; slightly sticky, nonplastic; few very fine and fine continuous pores; few fine roots throughout; strongly effervescent; slightly alkaline (pH 7.6); clear smooth boundary. [2 to 30 centimeters (1 to 12 inches) thick]
+    Lmap--0 to 13 centimeters (0 to 5 inches); gray (10YR 6/1) marly silt loam; light gray (10YR 7/1), dry; moderate medium granular structure parting to weak fine granular; very friable, soft; slightly sticky, nonplastic; few very fine and fine continuous pores; few fine roots throughout; strongly effervescent; slightly alkaline (pH 7.6); clear smooth boundary. [10 to 20 centimeters (4 to 8 inches) thick]
 
     Lma1--13 to 23 centimeters (5 to 9 inches); gray (10YR 6/1) marly silt loam; moderate medium angular blocky structure; friable, soft; slightly sticky, nonplastic; few fine continuous pores; few fine roots throughout; strongly effervescent; slightly alkaline (pH 7.6); abrupt smooth boundary.
 
-    Lma2--23 to 38 centimeters (9 to 15 inches); light gray (10YR 7/1) marly silt loam; moderate medium angular blocky structure; friable, soft; slightly sticky, nonplastic; few fine continuous pores; common fine roots throughout; strongly effervescent; slightly alkaline (pH 7.6); abrupt irregular boundary. [Combined thickness of the Lma horizon is from 5 to 30 centimeters (2 to 12 inches)]
+    Lma2--23 to 38 centimeters (9 to 15 inches); light gray (10YR 7/1) marly silt loam; moderate medium angular blocky structure; friable, soft; slightly sticky, nonplastic; few fine continuous pores; common fine roots throughout; strongly effervescent; slightly alkaline (pH 7.6); abrupt irregular boundary. [Combined thickness of the Lma horizon is from 15 to 30 centimeters (6 to 12 inches)]
 
-    2R--38 centimeters (15 inches); weakly to strongly cemented porous rippable oolitic limestone, solution holes up to 102 centimeters (40 inches) or more can be filled with sandy and/or loamy material.
+    2R--38 centimeters (15 inches); weakly to strongly cemented porous rippable oolitic limestone,  solution holes up to 102 centimeters (40 inches) or more deep can be filled with sandy and/or loamy material.
 
-TYPE LOCATION:  Dade County, Florida; about 3.7 miles southeast of Homestead; about 770 feet south and 2,285 feet west of the northeast corner of Sec. 22, T. 57 S.; R. 39 E.; Homestead, FL Quadrangle. 
-
-Latitude: 25.4605560
-Longitude: -80.4188920
-Datum: WGS84
+TYPE LOCATION:  Dade County, Florida Homestead, FL Quadrangle. 
+Latitude-- 25.4605556
+Longitude-- -80.4188917
+Datum--WGS84
 
 RANGE IN CHARACTERISTICS:  
-Solum thickness: 25 to 51 centimeters (10 to 20 inches) 
+Solum thickness: 25 to 50 centimeters (10 to 20 inches) 
 Depth of ochric epipedon: 2 to 30 centimeters (1 to 12 inches)
-Depth to limestone bedrock: 25 to 51 centimeters (10 to 20 inches)
+Depth to limestone bedrock: 25 to 50 centimeters (10 to 20 inches)
 Reaction: slightly alkaline to moderately alkaline throughout (pH 7.3 to 8.4)  
 Calcium carbonate equivalence: 40 to 80 percent or more
 EC (mmhos/cm): 2 to 32 or more
 Sodium Absorption Ratio: 0 to 15 percent or more
 Exchangeable Sodium Percent: 0 to 13 percent or more
 
+Particle-size control section (weighted averages):  
+Clay content: 5 to 20 percent
+Silt content: 60 to 90 percent
 
 Oa horizon, where present:
 Hue: 5YR, 7.5YR, 10YR, or Neutral
@@ -66,7 +68,7 @@ Clay content: 5 to 18 percent
 Rock fragments: 0 to 35 percent, in rock plowed or scarified areas it is 15 to 35 percent
 Shell fragments: 0 to 14 percent
 EC (mmhos/cm): 0 to 4
-Where the matrix value is 3.5 or less, thickness of the Lmap horizon is less than 7 inches, or less than 4 inches if the Lmap horizon lies directly on bedrock.  
+Where the matrix value is 3.5 or less, thickness of the Lmap horizon is less than 18 centimeters (7 inches), or less than 10 centimeters (4 inches) i  f the Lmap horizon lies directly on bedrock.  
 
 Lma horizons:
 Hue: 10YR or 2.5Y 
@@ -78,22 +80,22 @@ Rock fragments: 0 to 10 percent
 Shell fragments: 0 to 10 percent
 Streaks and pockets of organic carbon accumulation range from none to common.  Discontinuous lenses and pockets of muck occur in some pedons.  In some pedons, a thin discontinuous layer of noncalcareous silt loam, mucky silt loam or silty clay loam with values of 2 or 3 and chroma of 3 or less occurs within or below the Ckg horizon.  
 
-2R horizon: weakly to strongly cemented porous rippable oolitic limestone ranges from 25 to 50 centimeters (10 to 20 inches).  Solution holes several inches to several feet in width, and up to 100 centimeters (40 inches) in depth can occur.
+2R horizon: weakly to strongly cemented porous rippable oolitic limestone.  
 
-COMPETING SERIES:  These are the Cudjoe and Saddlebunch series.
+COMPETING SERIES:  These the Cudjoe (FL) and Saddlebunch (FL) series.
 Cudjoe soils have less than 15 percent rock fragments, have greater than 90 percent calcium carbonate equivalence, occur in the tidal zone and are very frequently flooded, and occur in lower landform positions on the Islands of Key West.
 Saddlebunch soils have less than 15 percent rock fragments, have greater than 90 percent calcium carbonate equivalence, have frequent flooding from storm surges, and occur in lower landform positions on the Islands of Key West.
 
 GEOGRAPHIC SETTING:  
 Parent material: calcareous silty marl sediments from fresh water over oolithic limestone bedrock
 Landscape: Lower Coastal Plain
-Landform(s): freshwater marshes, freshwater depressions, dips, swamps, and low broad coastal flats on marine terrace
-Mean annual temperature: 24 to 26 degrees C (75 to 79 degrees F)
-Mean annual precipitation: 1524 to 1776 millimeters (60 to 70 inches)
+Landform(s): freshwater marshes, swamps, and low broad coastal flats on marine terrace
+Mean annual temperature: 23 to 27 degrees C (73 to 81 degrees F)
+Mean annual precipitation: 940 to 1570 millimeters (37 to 62 inches)
 Frost-free period: 365 days
 
 GEOGRAPHICALLY ASSOCIATED SOILS:  
-These are the Chekika, Krome, Cooper Town, Shark Valley, Tamiami, Hallandale, Perrine and Pennsuco soils.  Chekika and Krome soils have greater than 35 percent rock fragments, have less than 45 percent silt fraction, have better drainage, and occur on slightly higher landform positions.
+Chekika and Krome soils have greater than 35 percent rock fragments, have less than 45 percent silt fraction, have better drainage, and occur on slightly higher landform positions.
 Cooper Town, Shark Valley, and Tamiami soils have sapric organic material histic epipedons and occur on similar landform positions.
 Hallandale soils have a sandy particle-sized control section, have calcium carbonate equivalence less than 5 percent, and occur on slightly higher landform positions.
 Perrine and Pennsuco soils have bedrock at depths greater than 51 centimeters (20 inches), have less than 15 percent rock fragments, and occur on similar landform positions.
@@ -101,7 +103,6 @@ Perrine and Pennsuco soils have bedrock at depths greater than 51 centimeters (2
 DRAINAGE AND SATURATED HYDRAULIC CONDUCTIVITY:  
 Drainage class: very poorly and poorly drained 
 Saturated hydraulic conductivity (KSAT): moderately high to high
-Permeability: moderate rapid 
 Runoff: High or very high
 Depth to seasonal high-water table: 0 to 46 centimeters (0 to 18 inches), it has depth of 25 to 91 centimeters (10 to 36 inches) during the drier portion of the year
 Ponding frequency and duration: in natural areas, frequent with duration of very long, depth of 0 to 61 centimeters (0 to 24 inches), many areas are drained for cropland and/or urban land.
@@ -112,7 +113,8 @@ Major uses: vegetables, grain crops, ornamental trees and shrubs, water quality,
 Dominant vegetation: sawgrass, cattail, primrose willow, sabal palm, buttonbush, bonesets, gulf muhly, broomsedge, and a variety of other water tolerant sedges and grasses.  Calcium carbonate crusted paraphyton covers the soil surface in many freshwater areas.  Exotic tree species, including Brazilian Pepper, Australian Pine, and melaleuca have become established in many disturbed areas.
 
 DISTRIBUTION AND EXTENT:  Florida Everglades and Associated Areas (MLRA 156A). 
-Extent: Small extent
+
+Extent: Small Large, over 200,000 acres mapped to date.  
 
 SOIL SURVEY REGIONAL OFFICE (SSRO) RESPONSIBLE:  Auburn, Alabama
 
@@ -120,18 +122,18 @@ SERIES ESTABLISHED:  Miami-Dade County, Florida; 1990.
 
 REMARKS:  Diagnostic horizons and features in this pedon:
 
-1.	Limnic soil material - 0 to 38 centimeters (0 to 15 inches) (Lmap, Lma horizons)
-2.	Lithic contact - 38 to 64 centimeters  (15 to 25 inches) (2R horizon).
-3.	Calcium carbonate equivalent - 70 percent to 90 percent or more
+1.	Particle-size control section: 50 centimeters (20 inches) or less
+2.	Limnic soil material - 0 to 38 centimeters (0 to 15 inches) (Lmap, Lma horizons)
+3.	Lithic contact - 38 centimeters (15 inches) (2R horizon).
+4.	Calcium carbonate equivalent - 70 percent to 90 percent or more
+5.	Aquic conditions: Endosaturation - 0 to 38 centimeters (0 to 15 inches)
 
-This soil was mapped as Perrine marl, shallow phase and Perrine marl, very shallow phase in the 1947 soil survey of Dade County.  Previously correlated Perrine Variant soils (FL 8002) will be included in this series. 
+This soil was mapped as Perrine marl, shallow phase and Perrine marl, very shallow phase in the 1947 soil survey of Dade County.  Previously correlated Perrine Variant soils (FL 8002) will be included in this series.
 
-ADDITIONAL DATA:  
-Laboratory data is available on the National Soil Survey website at: http://ncsslabdatamart.sc.egov.usda.gov/querypage.aspx
 
-OSD User Site ID: 2019FL686002
+OSD User Site ID:  2020FL686002
 
-OSD User Pedon ID: 2019FL686002
+OSD User Pedon ID:  2020FL686002
 
 National Cooperative Soil Survey
 U.S.A.

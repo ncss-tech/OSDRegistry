@@ -1,45 +1,126 @@
 LOCATION LIGNUMVITAE            FL
 
 Established Series
-Rev. GWH
-03/2000
+Rev. GWH-MFV-AMS
+12/2025
 
 LIGNUMVITAE SERIES
 
-The Lignumvitae series consists of poorly drained soils that are moderately deep to rippable coral or oolitic limestone.  Lignumvitae soils formed in calcareous marl.  They are on tidal areas of the Florida Keys.  Slopes range from 0 to 1 percent.
+MLRA(s): 156A
+
+Depth Class: Moderately deep
+Drainage Class: Very poorly drained
+Saturated Hydraulic Conductivity:  Moderately high to very high in the marl material and negligible in the rock material
+Parent Material: calcareous brackish water silty marl deposits over oolitic limestone bedrock
+Slope: 0 to 1 percent
+Elevation: -0.3 to 1 meter above mean sea level.  
+Mean Annual Air Temperature: 24 degrees C (75 degrees F.)
+Mean Annual Precipitation: 1143 millimeters (45 inches)
 
 TAXONOMIC CLASS: Coarse-silty, carbonatic, isohyperthermic Typic Fluvaquents
 
-TYPICAL PEDON:  Lignumvitae marl from a tidal area dominated by black mangroves.
+TYPICAL PEDON:  Lignumvitae marly silt loam on a native mangrove swamp. (Colors are for moist soil unless otherwise stated.)  
 
-     A1--0 to 4 inches;  light brownish gray (10YR 6/2) marl (silt loam); weak coarse platy structure parting to moderate medium granular; very friable; many fine and medium roots; common fine and very fine pores; slightly effervescent; neutral; clear wavy boundary.
+     Lma1--0 to 10 centimeters (0 to 4 inches); light brownish gray (10YR 6/2) marly silt loam, white (10YR 8/1), dry; weak coarse platy structure parting to moderate medium granular; very friable, soft; slightly sticky, nonplastic; many fine and common medium roots; common fine and very fine pores; strongly effervescent with 1N HCl; moderately alkaline (ph 8.0); clear wavy boundary. 
 
-     A2--4 to 32 inches; light gray (10YR 7/1) marl (silt loam); weak coarse platy structure parting to weak fine granular; very friable; common fine and very fine pores; strongly effervescent; moderately alkaline;  abrupt irregular boundary (combined thickness of the A horizon is 20 to 40 inches).
+     Lma2--10 to 81 centimeters (4 to 32 inches); light gray (10YR 7/1) marly clay loam; weak coarse platy structure parting to weak fine granular; very friable, soft; slightly sticky, nonplastic; common fine and very fine pores; strongly effervescent with 1N HCl; moderately alkaline (pH 8.1); abrupt irregular boundary. (Combined thickness of the Lma horizons is 50 to 100 centimeters)
 
-     2R--32 inches; soft to hard but rippable coral bedrock.
+     2R--81 centimeters (32 inches); weakly to strongly cemented oolitic limestone bedrock; solution holes up to 100 centimeters or more deep can be filled with sandy and/or marly material.
 
-TYPE LOCATION:  Monroe County, Florida; Windley Key; 0.1 mile southwest of Snake Creek Bridge and 200 feet north of U. S. Hwy 1; NE 1/4, NE 1/4, NE 1/4, Sec. 23, T. 63 S., R. 37 E.
+TYPE LOCATION:  Monroe County, Florida; USGS quadrangle Plantation Key, FL.
+Latitude: 24.952097
+Longitude: -80.590372
+Datum: WGS84
+Estimated from GPS
 
-RANGE IN CHARACTERISTICS:  Depth to soft to hard but rippable oolitic limestone or coral is dominantly 25 to 35 inches but the total range is 20 to 40 inches.  Reaction ranges from neutral to moderately alkaline.  The soil has more than 90 percent calcium carbonate.
+RANGE IN CHARACTERISTICS:  
+Solum thickness: 50 to 100 centimeters
+Depth to seasonally high-water table: 0 to 15 centimeters (0 to 6 inches)
+Soil Reaction: Neutral to moderately alkaline (pH 6.6 to 8.4) throughout
+Depth to limestone bedrock: 50 to 100 centimeters (20 to 40 inches)
+Rock and/or shell fragments: 0 to 14 percent throughout
+Calcium carbonate equivalence: 40 to 80 percent or more in the marl
+EC (mmhos/cm): 16 to 32 or more
+Sodium Absorption Ratio: 13 to 50 percent or more
+Exchangeable Sodium Percent: 13 to 50 percent or more
+Particle-size control section (weighted averages):  
+Clay content: 5 to 34 percent
+Carbonate Clay content: 4 to 32 percent
+Silt content: 50 to 95 percent
 
-     The A horizon has hue of 10YR or 2.5Y, value of 4 to 8, and chroma of 1 or 2.  Where value is 4 or 5, chroma is 1.  Texture is marl with a non-carbonate free texture of silt or silt loam.  In some pedons, the lower part of the soil is massive and is a C horizon.  Percent by volume of coral or limestone fragments is less than 15 percent.
+Oase horizon, where present:
+Hue: 5YR, 7.5YR, 10YR, or Neutral
+Value: 2 to 4
+Chroma: 1 or 2  
+Texture: muck
+von Post: H7 to H9
 
-COMPETING SERIES:  There are no other series in this family. Competing series in other families are the  Cudjoe, Keywest, and Saddlebunch series and the Biscayne, Pennsuco, and Perrine series in hyperthermic families.  Cudjoe and Saddlebunch soils are shallow to bedrock and Keywest soils are deeper to bedrock.  In addition, Saddlebunch soils are better drained than all competing series, and have a subhorizon with a value of 5 or less with a chroma of 2 or 3.
+Lma horizons:
+Hue: 10YR, 2.5Y. or 5Y
+Value: 4 to 8
+Chroma: 1 or 2
+Texture: marly silt loam, silt or clay loam 
 
-GEOGRAPHIC SETTING:  Lignumvitae soils are on tidal mangrove swamps.  They are subject to flooding from tides.  Elevations are dominantly 1929 NGVD.  The mean annual temperature ranges from 75 to 78 degrees F., and the mean annual precipitation ranges from 40 to 50 inches.
+2R horizon: weakly to strongly cemented porous oolitic limestone bedrock, with solution holes filled with sandy and/or marly materials. Solution holes can be up to 100 centimeters   or more.
 
-GEOGRAPHICALLY ASSOCIATED SOILS:  These are the well drained
-mineral Keyvaca and Pennkamp soils and the moderately well drained organic Matecumbe and the somewhat poorly drained marly Saddlebunch soils on higher landforms; the poorly drained marly Cudjoe and Keywest soils on similar landforms; and the very poorly drained organic Islamorada, Keylargo, and Tavernier soils on lower landforms.
+COMPETING SERIES:  There are Pennsuco and Perrine series. 
+Pennsuco soils have bedrock at depths greater than 100 centimeters, are derived from freshwater marsh deposits, and do not occur on landforms in the tidal zone that are very frequently flooded.
+Perrine soils are formed in freshwater marsh deposits, have similar depths to limestone bedrock, and do not occur on landforms in the tidal zone that are very frequently flooded.
 
-DRAINAGE AND PERMEABILITY:  These soils are poorly drained with a high water table of 0 to 6 inches during wet periods of most years.  Permeability is moderate to moderately rapid.
+GEOGRAPHIC SETTING:  
+Landscape: Lower Coastal Plain
+Landform(s): marine and brackish marshes, swamps, or low broad coastal flats on the Key West Islands and/or along the southern coast of the Florida Peninsula	
+Parent material: calcareous brackish silty marl deposits over oolitic limestone bedrock
+Mean annual temperature: 24 to 27 degrees C (75 to 81 degrees F)
+Mean annual precipitation: 1397 to 1778 millimeters (55 to 70 inches)
+Frost-free period: 365 days
 
-USE AND VEGETATION:  Most areas of this soil are used as wildlife habitat.  The dominate native vegetation is black mangroves.  Red mangroves, white mangroves, saltwort, and glasswort are also common.
+GEOGRAPHICALLY ASSOCIATED SOILS: These are the Cudjoe, Islamorada, Keylargo, Keyvaca, Keywest, Matecumbe, Pennekamp, and Saddlebunch series. 
+Cudjoe soils: have bedrock at depths less than 5 centimeters (20 inches) and occur on similar landform positions in the tidal zone.
+Islamorada soils: have bedrock at depths of 50 to 100 centimeters, are entirely composed of sapric organic materials, and occur on similar landform positions in the tidal zone.
+Keylargo soils: have bedrock at depths greater than 150 centimeters, are entirely composed of sapric organic materials, and occur on similar landform positions in the tidal zone.
+Keyvaca soils: have bedrock at depths less than 25 centimeters, are composed of calcareous loamy material derived from limestone bedrock and occur on slightly higher landform positions.
+Keywest soils: have bedrock at depths of greater than 150 centimeters, are stratified with silty marl sediments and sapric organic materials and occur on similar landform positions in the tidal zone.
+Matecumbe soils: have bedrock at depths less than 25 centimeters, are composed of sapric organic materials, and occur on slightly higher landform positions.
+Pennekamp soils: have bedrock at depths less than 25 centimeters, have rock fragments greater than 35 percent by volume, have better internal soil drainage, and occur on landform positions on upland rises.
+Saddlebunch soils: have bedrock at depths 25 to 50 centimeters and are on slightly higher landform positions.
 
-DISTRIBUTION AND EXTENT:  Lignumvitae soils are of small known extent on the Florida Keys.  These soils may occur on other tropical islands.
+DRAINAGE AND PERMEABILITY:  
+Drainage class: Very poorly drained 
+Saturated hydraulic conductivity (KSAT): Moderately high to high
+Runoff: High to very high
+Depth to seasonal high-water table: 0 to 15 centimeters (0 to 6 inches) 
+Flooding frequency and duration: very frequent and brief duration from daily tides, subject to flooding by storm surges and hurricanes
 
-MLRA SOIL SURVEY REGIONAL OFFICE (MO) RESPONSIBLE: Auburn, Alabama
+USE AND VEGETATION:  
+Major uses: wildlife habitat and water quality.  
+Dominant vegetation: black mangroves, red mangroves, white mangroves, saltwort, and glasswort.
+
+DISTRIBUTION AND EXTENT:
+General area: Florida Everglades and associated areas
+Land Resource Region: U - Florida Subtropical Fruit, Truck Crop, and Range Region
+Major Land Resource Area: 156A
+Extent: Small
+
+SOIL SURVEY REGIONAL OFFICE (SSRO) RESPONSIBLE: Auburn, Alabama
 
 SERIES ESTABLISHED:  Monroe County, Florida, 1989.
+
+REMARKS: Diagnostic horizons and features in this pedon:
+
+Particle-size control section: 25 to 81 centimeters
+Limnic soil material:  0 to 81 centimeters (Lma1, Lma2 horizons)
+Lithic contact: 81 centimeters (2R horizon)
+Calcium carbonate equivalence: of 40 to 80 percent or more.
+Aquic conditions: Endosaturation - 0 to 81 centimeters (0 to 32 inches)
+Hydric Soil Indicator: F10 Marl
+
+ADDITIONAL DATA:  
+Laboratory data is available on the National Soil Survey website at: http://ncsslabdatamart.sc.egov.usda.gov/querypage.aspx
+
+OSD User Site ID: S1988FL087005
+
+OSD User Pedon ID: S1988FL087005
 
 National Cooperative Soil Survey
 U.S.A.

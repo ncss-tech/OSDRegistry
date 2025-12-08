@@ -1,53 +1,143 @@
 LOCATION TAMIAMI                FL
 
 Established Series
-Rev. CN/CAW
-05/2021
+Rev. CN-MFV-AMS
+12/2025
 
 TAMIAMI SERIES
 
-The Tamiami series consists of very poorly drained organic soils that are moderately deep and deep to limestone.  They formed in beds of well decomposed, hydrophytic, nonwoody plant remains in freshwater marshes in Southern Penninsular Florida.  Slopes are less than 2 percent.
+MLRA(s): 156A
+Soil Survey Regional Office (SSRO) Responsible: Auburn, Alabama 
+Depth Class: Moderately deep
+Drainage Class: Very poorly drained
+Saturated Hydraulic Conductivity: High to very high in the Oa horizons, moderately high in the limnic material
+Parent Material: Organic materials stratified with freshwater silty marl deposits over oolitic limestone bedrock
+Slope: 0 to 1 percent
+Elevation: 1 to7 meters above mean sea level.  
+Mean Annual Air Temperature: 24 degrees C (75 degrees F)
+Mean Annual Precipitation: 1345 centimeters (53 inches)
 
 TAXONOMIC CLASS: Euic, isohyperthermic Lithic Haplosaprists
 
-TYPICAL PEDON:  Tamiami muck - in a freshwater marsh.  (Colors are for moist soil unless otherwise stated.)
+TYPICAL PEDON: Tamiami muck, on a rise in a freshwater marsh. (Colors are for moist soil unless otherwise stated.)
 
-    Oa--0 to 4 inches; black (10YR 2/1) muck; less than 5 percent fiber rubbed; massive; slightly sticky, nonplastic; many very fine and fine roots; sodium pyrophosphate extract is dark brown (10YR 3/3); mildly alkaline (pH 7.8 in 0.01M CaCl2); abrupt smooth boundary.  (2 to 8 inches thick)
+    Oa--0 to 10 centimeters (0 to 4 inches); black (10YR 2/1) muck, dark gray (10YR 4/1), dry; 30 percent unrubbed fiber, 5 percent rubbed fiber; von post humification scale H8; moderately medium subangular blocky structure; many very fine and fine roots throughout; sodium pyrophosphate extract is dark brown (10YR 3/3); slightly alkaline (pH 7.8); abrupt smooth boundary. [5 to 61 centimeters (3 to 24 inches) thick]
 
-    Cg--4 to 12 inches; gray (10YR 6/1) marly silt loam; moderate medium subangular blocky structure; slightly sticky, nonplastic; many very fine and fine roots; common fine pores; 15 percent whole shells and shell fragments up to 2 inches in diameter; strongly effervescent; mildly alkaline; abrupt smooth boundary.  (4 to 11 inches thick)
+    Lma--10 to 30 centimeters (4 to 12 inches); gray (10YR 6/1) marly silt loam; moderate medium subangular blocky structure; very friable, soft; slightly sticky, nonplastic; many very fine and fine roots throughout; common fine pores throughout; 10 percent shell fragments; strongly effervescent with 1N HCl; slightly alkaline (pH 7.8); abrupt smooth boundary. [10 to 28 centimeters (4 to 11 inches) thick]
 
-    O'a--12 to 31 inches; very dark gray (5YR 3/1) muck; less than 5 percent fiber rubbed; massive; slightly sticky, nonplastic; few fine roots; sodium pyrophosphate extract is yellowish brown (10YR 5/4); mildly alkaline (pH 7.6 in 0.01M CaCl2); abrupt irregular boundary.  (11 to 47 inches thick).
+    O'a--30 to 79 centimeters (12 to 31 inches); very dark gray (5YR 3/1) muck; 30 percent unrubbed fiber, 5 percent rubbed fiber; von post humification scale H8; moderately medium subangular blocky structure; few fine roots throughout; sodium pyrophosphate extract is yellowish brown (10YR 5/4); slightly alkaline (pH 7.6); abrupt irregular boundary. [28 to 100centimeters (11 to 39 inches) thick]
 
-    2R--31 inches; hard, porous, oolitic limestone.
+    2R--79 centimeters (31 inches); weakly to strongly cemented oolitic limestone bedrock; solution holes up to 100 centimeters (40 inches) or deeper can be filled with sandy and/or loamy material.
 
-TYPE LOCATION:  Dade County, Florida; approximately 500 feet west of Krome Avenue and 3000 feet south of Tamiami Trail (U.S. 41); Latitude 25 degrees 45 minutes 9 seconds and Longitude 80 degrees 27 minutes 57 seconds.
+TYPE LOCATION: Miami-Dade County, Florida; USGS quadrangle Hialeah, FL.
+Latitude: 25.7529361
+Longitude: -80.4824611
+Datum: WGS84
+Estimated from other source
 
-RANGE IN CHARACTERISTICS:  Soil thickness and depth to limestone ranges from 20 to 51 inches.  One or more Cg horizons may occur at any depth, but the combined thickness is less than 1/2 the control section.  Soil reaction is greater than 4.5 in 0.01 molar calcium chloride in the organic material.
+RANGE IN CHARACTERISTICS:  
+Solum thickness: 50 to 100 centimeters (20 to 40 inches)
+Depth to seasonally high-water table: 0 to 15 centimeters (0 to 6 inches)
+Soil Reaction: Moderately acid to moderately alkaline (pH 5.6 to 8.4)
+Depth to stratification: 5 to 76 centimeters (2 to 30 inches) 
+Depth to bedrock: 50 to 100 centimeters (20 to 40 inches)
+One or more Lma horizon may occur, but the combined thickness is less than 1/3 the control section.  
+Fiber content: Unrubbed: 10 to 70 percent; rubbed: less than 17 percent
 
-The Oa horizon has hue of 10YR to 5YR, value of 2 or 3, and chroma of 1 or 2.  The fiber content is less than 33 percent unrubbed, and less than 5 percent rubbed.  Sodium pyrophosphate extract has hue of 10YR; value of 2 through 4, and chroma of 4 or less; value of 5, and chroma of 2 through 8; value of 6, and chroma of 3 through 8; or value of 7, and chroma of 4 through 8.  A thin paraphyton or marl layer may overlie the Oa horizon in some pedons.
+Particle-size control section of the Lma horizon (weighted averages):  
+Clay content: 5 to 20 percent
+Silt content: 60 to 90 percent
 
-The Cg horizon has hue of 10YR, value of 5 to 7, and chroma of 2 or less.  This horizon may contain up to 20 percent whole shells or shell fragments up to 5 cm. in diameter; calcium carbonate equivalencies range from 80 to nearly 100 percent.  Reaction is mildly alkaline.  Texture is marl, silt loam or silt.
+Oa horizon: 
+Hue: 5YR to 2.5Y or Neutral
+Value: 2 to 4
+Chroma: 3 or less 
+Texture: muck
+Von Post: H7 to H9
+EC (mmhos/cm): 0 to 4
+Exchangeable Sodium: 0 to 4 percent
+Sodium Absorption Ratio: 0 to 4 percent
+Sodium pyrophosphate extract color: Hue: 10YR, Value: 2 to 7, Chroma: 2 to 8
+A thin paraphyton or marl layer may overlie the Oa horizon in some pedons.
 
-COMPETING SERIES:  These are the Lauderhill and Pahokee series in the same family and the Dania and Terra Ceia series.  Lauderhill, Pahokee and Terra Ceia soils lack marl layers within the control section.  In addition, Terra Ceia soils are greater than 51 inches to limestone.  Dania soils are less than 20 inches deep to limestone.
+Lma horizon(s): 
+Hue: 10YR to 5Y
+Value: 4 to 8
+Chroma: 2 or less 
+Texture: marly silt loam, marly silt, or marly loam
+Calcium carbonate equivalence: 40 to 80 percent or more
+EC (mmhos/cm): 4 to 32 or more
+Sodium Absorption Ratio: 5 to 15 percent or more
+Exchangeable Sodium Percent: 0 to 13 percent or more
+Shell fragments: 0 to 25 percent
 
-GEOGRAPHIC SETTING:  Tamiami soils are in freshwater marshes.  These soils formed in hydrophytic plant remains and calcareous deposits of dominantly silt sized sediments that precipitated from fresh water.  They are underlain by limestone.  Slopes are less than 2 percent.  The climate is subtropical.  Near the type location the mean annual rainfall is about 63 inches and the mean annual temperature is 74 degrees Fahrenheit.
+O'a horizon(s): 
+Hue: 5YR to 2.5Y or Neutral
+Value: 2 to 4
+Chroma: 3 or less 
+Texture: muck
+Von Post: H7 to H9
+EC (mmhos/cm): 0 to 4
+Exchangeable Sodiuum: 0 to 4 percent
+Sodium Absorption Ratio: 0 to 4 percent
+Sodium pyrophosphate extract color: Hue: 10YR, Value: 2 to 7, Chroma: 2 to 8
 
-GEOGRAPHICALLY ASSOCIATED SOILS:  These are the competing Dania, Lauderhill and Pahokee series, and the Biscayne and Perrine series.  Biscayne and Perrine soils are marl soils and do not subside when drained.  Biscayne soils are less than 20 inches to limestone.
+2R horizon: weakly to strongly cemented oolitic limestone bedrock, with solution holes filled with sandy and/or marly materials. Solution holes can be up to 100 centimeters (40 inches) or deeper.
 
-DRAINAGE AND PERMEABILITY:  Very poorly drained; very slow or ponded runoff; permeability is rapid in organic layers and moderately slow in the marl layers.  In most years, under natural conditions, these soils are ponded 9 to 12 months.  The water table is within 10 inches of the soil surface for the remainder of the year.
+COMPETING SERIES: These are Cooper Town, Gator Lake, Macks Camp, and Shark Valley soils.
+Cooper Town soils: lack stratification of marly materials and are shallow to limestone bedrock
+Gator Lake soils: lack stratification of marly materials and are very shallow to limestone bedrock
+Macks Camp soils: have bedrock at depths of 100 to 150 centimeters, lack stratification of marly materials within the control section, and occur in similar landform positions
+Shark Valley soils: have bedrock at similar depths of 50 to 100 centimeters, occur on similar landform positions, but lack stratification of marly materials within the control section
 
-USE AND VEGETATION:  Native vegetation is sawgrass, sedges, and other water tolerant plants.  Willow and Melaleuca are common tree species.
+GEOGRAPHIC SETTING:  
+Landscape: Lower Coastal Plain
+Landform(s): Talfs, rises, and/or dips on freshwater marshes, swamps, or low broad flats
+Parent material: well decomposed organic materials stratified with silty marl deposits over oolitic limestone bedrock
+Mean annual air temperature: 23 to 27 degrees C (73 to 81 degrees F)
+Mean annual precipitation: 940 to 1570millimeters (37 to 62 inches) 
+Frost free duration: 365 days
 
-DISTRIBUTION AND EXTENT:  Florida Everglades.  The soil is of small extent.
+GEOGRAPHICALLY ASSOCIATED SOILS: These are the Buffalo Tiger, Loxahatche, and Plantation soils. 
+Buffalo Tiger soils have limestone bedrock at depths greater than 150 centimeters (60 inches), lack stratification of marly deposits and occur in similar landform positions.
+Loxahatche soils are very deep, lack limestone bedrock within 200 centimeters (80 inches) and are in similar landform positions.
+Plantation soils have sandy layers below organic materials that are 25 to 40 centimeters thick above the limestone bedrock.
 
-MLRA SOIL SURVEY REGIONAL OFFICE (MO) RESPONSIBLE: Auburn, Alabama
+DRAINAGE AND SATURATED HYDRAULIC CONDUCTIVITY:  
+Drainage class: Very poorly drained
+Saturated hydraulic conductivity (Ksat): high to very high in the Oa horizons, moderately high in the limnic materials
+Surface runoff: negligible
+Depth to seasonal high water table: Under natural conditions the water table is within 15 centimeters (6 inches) of the surface for 9 to 11 months during most years, except during extended dry periods; currently the water table is controlled by anthropogenic activities.
+Ponding frequency and duration: Frequent for very long durations
+Hydric Indicators: A1 Histosol, A8 Muck Presence, and F10 Marl
 
-SERIES ESTABLISHED:  Dade County, Florida; 1990.  This soil was mapped as Everglades peat, shallow phase over shallow marl and Loxahatchee peat, shallow phase over shallow marl in the 1947 soil survey of Dade County.
+USE AND VEGETATION:  
+Major uses: wildlife habitat, water quality, water storage, and recreation.
+Dominant vegetation: sawgrass on rises and talfs, sedges and other water tolerant plants in dips, and willow and Melaleuca are common tree species near built up areas.
 
-REMARKS:  Diagnostic horizons and features recognized in this pedon are:
+DISTRIBUTION AND EXTENT:
+General area: Florida Everglades and associated areas
+Land Resource Region: U - Florida Subtropical Fruit, Truck Crop and Range Region
+Major Land Resource Area: 156A 
+Extent: Moderate   
 
-Saprists feature - are saturated with water for 6 months or more of the year, or have artificial drainage, and have sapric soil materials dominant in the organic part of the control section, if a lithic contact occurs in the subsurface tier.
+SOIL SURVEY REGIONAL OFFICE (SSRO) RESPONSIBLE: Auburn, Alabama.
 
+SERIES ESTABLISHED: Miami-Dade County, Florida; 1990.  
+
+REMARKS:  Diagnostic horizons and features recognized in this pedon include:
+Particle-size control section: 25 to 79 centimeters 
+
+Stratified control section - 10 to 79 centimeters (4 to 31 inches) - Lma and O'a horizons)
+Lithic contact - 79 centimeters (31 inches) (2R horizon)
+Peraquic conditions: Endosaturation - 0 to 79 centimeters (0 to 31 inches)
+
+This soil was mapped as Everglades peat, shallow phase over shallow marl and Loxahatchee peat, shallow phase over shallow marl in the 1947 soil survey of Dade County.
+
+ADDITIONAL DATA: 
+OSD User Site ID: 1987FL686003
+
+OSD User Pedon ID: 1987FL686003
 
 National Cooperative Soil Survey
 U.S.A.

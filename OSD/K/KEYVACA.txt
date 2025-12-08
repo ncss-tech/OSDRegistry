@@ -1,45 +1,114 @@
 LOCATION KEYVACA                FL
 
 Established Series
-Rev. GWH
-10/2018
+Rev. GWH-MFV-AMS
+12/2025
 
 KEYVACA SERIES
 
-The Keyvaca Series consist of well drained soils that are shallow to rippable oolitic limestone.  Keyvaca soils formed in material weathered from the oolitic limestone.  Slopes range from 0 to 1 percent.
+MLRA(s): 156A
+Soil Survey Regional Office (SSRO) Responsible: Auburn, Alabama
+Depth Class: Very shallow
+Drainage Class: Moderately well drained
+Saturated Hydraulic Conductivity: Moderately high and negligible in the rock material
+Parent Material: Loamy residuum from oolitic limestone bedrock
+Slope: 0 to 1 percent
+Elevation: 0.3 to 3 meters above mean sea level.  
+Mean Annual Air Temperature: 24 degrees C (75 degrees F.)
+Mean Annual Precipitation: 1345 millimeters (53 inches)
 
 TAXONOMIC CLASS: Loamy-skeletal, carbonatic, isohyperthermic Lithic Haprendolls
 
-TYPICAL PEDON:  Keyvaca very gravelly loam on an Everglades Flatwoods Upland (colors are for moist soil).
+TYPICAL PEDON: Keyvaca very gravelly loam on an Everglades Flatwoods Upland. (Colors are for moist soil unless otherwise stated.)
 
-     A--0 to 4 inches;  dark brown (10YR 3/3) very gravelly loam, dark brown (10YR 4/3) dry; weak fine granular structure; very friable; many fine, medium, and large roots; 5 percent by volume of limestone fragments greater than 3 inches in size, 40 percent by volume of limestone fragments smaller than 3 inches in size; moderately alkaline; abrupt wavy boundary  (3 to 6 inches thick).
+     A--0 to 10 centimeters (0 to 4 inches); dark brown (10YR 3/3) very gravelly silt loam, brown (10YR 4/3) dry; weak fine granular structure; very friable, soft; nonsticky, nonplastic; many fine, medium, and large roots throughout; 40 percent limestone gravels, 5 percent limestone cobbles; strongly effervescent with 1N HCl; slightly alkaline (pH 7.6); abrupt wavy boundary. [10 to 25 centimeters (4 to 10 inches) thick]
 
-     R--4 inches; soft to hard but rippable oolitic limestone.
+     R--10 centimeters (4 inches); weakly to strongly cemented rippable oolitic limestone.
 
-TYPE LOCATION:  Monroe County, Florida; Big Pine Key; 2.2 miles NW of U.  S. Hwy. 1, on Key Deer Blvd. and 200 feet SW of road; SE 1/4, SE 1/4, NE 1.4, Sec. 22, T. 66 S., R. 29 E.
+TYPE LOCATION: Monroe County, Florida; Big Pine Key; USGS quadrangle Big Pine Key, FL.
+Latitude: 24.6967278
+Longitude: -81.3743583
+Datum: WGS84
+Estimated from other source
 
-RANGE IN CHARACTERISTICS:  Depth to bedrock is 3 to 6 inches.  Percent by volume of stones, cobbles, and/or gravels range from 35 to 65 percent.
+RANGE IN CHARACTERISTICS:  
+Solum thickness: 10 to 25 centimeters (4 to 10 inches)
+Depth to seasonally high-water table: 106 to 203 centimeters (42 to 80 inches)   
+Soil Reaction: Slightly alkaline to moderately alkaline throughout (pH 7.4 to 8.4)
+Depth of mollic epipedon: 10 to 25 centimeters (4 to 10 inches)
+Depth to limestone bedrock: 10 to 25 centimeters (4 to 10 inches)
+Rock fragments: 35 to 50 percent, gravels, cobbles, and/or stones
 
-     The A horizon has hue of 7.5YR or 10YR, value of 2 or 3, and chroma of 2 or 3.  Texture is gravelly sandy loam, gravelly loam, very gravelly sandy loam, very gravelly loam; or their cobbly and very cobbly analogies with 30 to 50 percent gravel sized oolitic limestone fragments and 5 to 25 percent cobble sized fragments.  The soil has less than 45 percent silt.  Reaction is mildly alkaline or moderately alkaline.
+Calcium carbonate equivalence: 40 to 90 percent or more
+EC (mmhos/cm): 4 to 16 or more
+Sodium Absorption Ratio: 0 to 10 percent or more
+Exchangeable Sodium Percent: 0 to 13 percent or more
 
-     The R horizon is soft to hard but rippable oolitic limestone.
+Particle-size control section (weighted averages):  
+Clay content: 8 to 27 percent
+Sand content: 15 to 55 percent
+Silt content: 40 to 80 percent
 
-COMPETING SERIES:  These are the Pennekamp series in the same family, the  Matecumbe series in a similar family, and the Biscayne and Krome series in hyperthermic families.  Pennekamp soils formed over coral limestone and have more than 45 percent silt.  Matecumbe soils are organic.
+A horizon:
+Hue: 10YR or 7.5YR
+Value: 2 or 3 moist, 3 to 5 dry
+Chroma: 1 to 3 moist, 2 or 3 or dry
+Texture: very gravelly; loam, silt loam, fine sandy loam, or sandy loam; or their cobbly and very cobbly analogies 
+Clay content: 8 to 40 percent
+Rock fragments: 30 to 50 percent gravel and 5 to 25 percent cobble
 
-GEOGRAPHIC SETTING:  Keyvaca soils are on everglade flatwood
-uplands.  Elevations are dominantly 4 to 6 feet above 1929 NGVD.  Keyvaca soils are subject to rare flooding from hurricanes and other tropical storms.  The mean annual temperature is about 78 degrees F. and the mean annual precipitation is about 50 inches.
+R horizon: weakly to strongly cemented oolitic limestone bedrock; solution holes up to 100 centimeters or more deep can be filled with sandy and/or loamy material.
 
-GEOGRAPHICALLY ASSOCIATED SOILS:  These are the moderately well drained organic Matecumbe and the somewhat poorly drained marly Saddlebunch soils on slightly lower landforms and the poorly drained marly Cudjoe, Lignumvitae, and Keywest soils and the very poorly drained organic Islamorada, Keylargo, and Tavernier soils on lower landforms.
+COMPETING SERIES: This is the Pennekamp series.
+Pennekamp soils have more than 45 percent silt, have highly decomposed organic soil material Oa horizons, occur over coral limestone, and occur slightly higher on the landscape
 
-DRAINAGE AND PERMEABILITY:  These soils are well drained with a high water table of 3.0 to 5.0 feet during wet periods of most years.  Permeability is moderately rapid.
+GEOGRAPHIC SETTING:  
+Landscape: Lower Coastal Plain
+Landform(s): low broad flats and low rises on the Islands of Key West
+Parent material: loamy residuum from oolithic limestone bedrock
+Mean annual temperature: 23 to 27 degrees C (75 to 81 degrees F)
+Mean annual precipitation: 940 to 1570 millimeters (37 to 62 inches)
+Frost-free period: 365 days
 
-USE AND VEGETATION:  Many areas of the soil are used for urban and recreational development.  Native vegetation most commonly includes South Florida slash pine, poisonwood, wiregrass, silver palm, locustberry and plumy brake fern, and less commonly, cabbage palm, saw palmetto, satinleaf, pine fern, partridge pea, and waxmyrtle.
+GEOGRAPHICALLY ASSOCIATED SOILS: These are the Cudjoe, Islamorada, Keylargo, Keywest, Lignumvitae, Matecumbe, and Saddlebunch soils. 
+Cudjoe soils: have marly silt loam particle-sized control section, have bedrock at depths greater than 25 centimeters, have water tables at less than 15 centimeters, and occur on slightly lower positions in the tidal zone where they are frequently flooded.
+Islamorada and KeyLargo soils: are composed entirely of highly decomposed organic materials over oolitic limestone, the depth to bedrock is greater than 50 centimeters, and occur on similar positions, in addition, Islamorada and KeyLargo are subject to tidal flooding.
+Keywest soils: have stratification of marl and muck materials over oolitic limestone, have bedrock at depths greater than 150 centimeters, have water tables of less than 15 centimeters (6 inches), and occur in slightly lower landscape positions.
+Lignumvitae soils: have marly silt loam particle-sized control section, have bedrock at depths greater than 50 centimeters, have water tables at less than 15 centimeters (6 inches), and occur on slightly lower landscape positions in the tidal zone where they are frequently flooded.
+Matecumbe soils: have highly decomposed organic soil materials, have very shallow depths to bedrock, and with internally free water also very shallow
+Saddlebunch soils: have marly silt loam particle-sized control section, have less limestone rock fragments, have water tables at less than 30 centimeters (12 inches), and occur on slightly lower positions in the tidal zone where they are frequently flooded.
 
-DISTRIBUTION AND EXTENT:  Approximately 3000 acres of Keyvaca soils are on the Florida Keys.  These soils may occur on other tropical islands.
+DRAINAGE AND SATURATED HYDRAULIC CONDUCTIVITY:
+Drainage class: Moderately well drained and is always within the limestone bedrock
+Saturated hydraulic conductivity (KSAT): Moderately high
+Runoff: Medium
+Depth to seasonal high-water table: 106 to 203 centimeters (42 to 80 inches) and is always within the limestone bedrock 
 
-MLRA SOIL SURVEY REGIONAL OFFICE (MO) RESPONSIBLE: Auburn, Alabama
+USE AND VEGETATION:  
+Major Uses: wildlife habitat, recreation, and residential housing 
+Dominant vegetation: South Florida slash pine, poisonwood, wiregrass, silver palm, locustberry and plumy brake fern, and less commonly, cabbage palm, saw palmetto, satinleaf, pine fern, partridge pea, and waxmyrtle.
 
-SERIES ESTABLISHED:  Monroe County, Florida, 1989.
+DISTRIBUTION AND EXTENT:
+Major Land Resource Area: 156A 
+Extent: Small
 
+SOIL SURVEY REGIONAL OFFICE (SSRO) RESPONSIBLE: Auburn, Alabama
+
+SERIES ESTABLISHED: Monroe County, Florida, 1989.
+
+REMARKS: Diagnostic horizons and features recognized in this Pedon:
+
+Particle-size control section: is 10 centimeters (4 inches)
+Mollic epipedon: 0 to 10 centimeters (0 to 4 inches - A horizon) 
+Lithic contact: 10 centimeters (4 inches - R horizon)
+Skeletal feature: more than 35 percent limestone fragments - 0 to 10 centimeters (0 to 4 inches - A horizon)
+
+ADDITIONAL DATA:  
+Laboratory data is available on the National Soil Survey website at: http://ncsslabdatamart.sc.egov.usda.gov/querypage.aspx
+
+OSD User Site ID: S1988FL087010
+
+OSD User Pedon ID: S1988FL087010
+________________________________________
 National Cooperative Soil Survey
 U.S.A.

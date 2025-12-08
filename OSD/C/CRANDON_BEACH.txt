@@ -1,8 +1,8 @@
 LOCATION CRANDON BEACH          FL
 
 Established Series
-Rev. CAP-MVF-AMS
-02/2025
+Rev. MFV-ADM-AMS
+12/2025
 
 CRANDON BEACH SERIES
 
@@ -14,28 +14,26 @@ Saturated Hydraulic Conductivity:  High to very high in the organic material and
 Index Surface Runoff: Negligible to low
 Parent Material: Sandy marine sediments 
 Slope: 0 to 1 percent
-Elevation: 0.3 to 1.2 meters (1.0 to 4 feet) above mean sea level 
-Mean Annual Air Temperature: 26 degrees C (78 degrees F)
-Mean Annual Precipitation: 1651 centimeters (65 inches)
+Elevation: 0.3 to 1.2 meters above mean sea level.  
+Mean Annual Air Temperature: 24 degrees C (75 degrees F)
+Mean Annual Precipitation: 1345 centimeters (53 inches)
 
 TAXONOMIC CLASS: Siliceous, isohyperthermic Sulfic Psammowassents
 
 TYPICAL PEDON:  Crandon Beach fine sand is in a mangrove tidal marsh. (Colors are for moist soil unless otherwise stated.)
 
-      Oan--0 to 15 centimeters (0 to 6 inches); black (10YR 2/1) muck, dark gray (10YR 4/1), dry; weak fine angular blocky structure; very friable, soft; nonsticky, nonplastic; many fine roots throughout; neutral (pH 7.0); clear smooth boundary. [0 to 18 centimeters (0 to 7 inches) thick]
+      Oanse--0 to 15 centimeters (0 to 6 inches); black (10YR 2/1) muck, dark gray (10YR 4/1), dry; weak fine angular blocky structure; very friable, soft; many fine roots throughout; neutral (pH 7.0); clear smooth boundary. [0 to 18 centimeters (0 to 7 inches) thick]
 
-      Akn--15 to 30 centimeters (6 to 12 inches); dark gray (10YR 4/1) fine sand; single grain; nonsticky, nonplastic; many fine roots throughout; about 10 percent shell fragments throughout; strongly effervescent; moderately alkaline (pH 8.2); clear wavy boundary. [0 to 18 centimeters (0 to 7 inches) thick]
+      Aknse--15 to 30 centimeters (6 to 12 inches); dark gray (10YR 4/1) fine sand; single grain; loose; nonsticky, nonplastic; many fine roots throughout; 10 percent shell fragments throughout; finely disseminated carbonates; strongly effervescent due to finely disseminated or free carbon; moderately alkaline (pH 8.2); clear wavy boundary. [0 to 18 centimeters (0 to 7 inches) thick]
 
-      Ckn1--30 to 84 centimeters (12 to 33 inches); grayish brown (10YR 5/2) fine sand; single grain; nonsticky, nonplastic; many fine roots throughout; about 10 percent shell fragments throughout; strongly effervescent; moderately alkaline (pH 8.2); gradual wavy boundary. [25 to 91 centimeters (10 to 36 inches) thick]
+      Cknse1--30 to 84 centimeters (12 to 33 inches); grayish brown (10YR 5/2) fine sand; single grain; loose; nonsticky, nonplastic; many fine roots throughout; 10 percent shell fragments throughout; finely disseminated carbonates; strongly effervescent due to finely disseminated or free carbon; moderately alkaline (pH 8.2); gradual wavy boundary. [25 to 91 centimeters (10 to 36 inches) thick]
 
-      Ckn2--84 to 203 centimeters (33 to 80 inches); light gray (10YR 7/1) fine sand; single grain; nonsticky, nonplastic; about 10 percent shell fragments throughout; strongly effervescent; moderately alkaline (pH 8.2). [76 to 127 centimeters (30 to 50 inches) thick]
+      Cknse2--84 to 203 centimeters (33 to 80 inches); light gray (10YR 7/1) fine sand; single grain; loose; nonsticky, nonplastic; 10 percent shell fragments throughout; finely disseminated carbonates; strongly effervescent due to finely disseminated or free carbon; moderately alkaline (pH 8.2). [76 to 127 centimeters (30 to 50 inches) thick]
 
-TYPE LOCATION:  Miami-Dade County, Florida; about 0.25 miles north of the intersection of Crandon Blvd and Harbor Drive; about 1,900 feet west and 1,800 feet south of the northeast corner of Sec. 32, T. 54 S., R. 42 E.; USGS Key Biscayne, FL quadrangle.
-
-
-Latitude: 25.7024170
-Longitude: -80.1628140
-Datum: WSG84 
+TYPE LOCATION: Miami-Dade County, Florida USGS Key Biscayne, FL quadrangle.
+Latitude-- 25.7024167
+Longitude-- -80.1628139
+Datum--WGS84 
 
 RANGE IN CHARACTERISTICS:  
 Solum thickness: 203 centimeters (80 inches)
@@ -46,7 +44,8 @@ Rock and shell fragments: 0 to 25 percent, 2 to 75 mm (less than 3 inches)
 EC (mmhos/cm): 4 to 24 or more throughout
 Exchangeable Sodium: 10 to 45 percent or more throughout
 Sodium Absorption Ratio: 10 to 50 percent or more throughout
-Sulfur content is more than 0.75 percent within depths of 20 inches.  The calcium carbonate equivalent is more than three times the sulfur content for some portion.  It does not become extremely acid when dry.  
+Sulfur content is more than 0.75 percent within depths of 50 centimeters (20 inches).    
+The calcium carbonate equivalent is more than three times the sulfur content for some portion.  It does not become extremely acid when dry.  
 Fiber content: Un-Rubbed: 5 to 50 percent; Rubbed less than 17 percent
 
 Particle-size control section, mineral (weighted averages):  
@@ -54,18 +53,18 @@ Clay content: 0 to 6 percent
 Sand content: 85 to 99 percent
 Silt content: less than 5 percent
 
-Oan horizon, where present: 
+Oanse horizon, where present: 
 Color: hue of 5YR, 7.5YR, 10YR, or Neutral, value of 2 or 3, chroma of 3 or less 
 Texture: muck 
 Rock and/or shell fragments: 0 to 10 percent gravel
 
-Akn horizon, where present:
+Aknse horizon, where present:
 Color: hue of 10YR, value of 2 to 6, chroma 1 to 3
 Texture: fine sand or sand and/or their gravelly analogues
 Rock and/or shell fragments: 5 to 25 percent gravel
 Clay content: 1 to 6 percent
 
-Ckn horizon:
+Cknse horizon:
 Color: hue of 10YR, 2.5Y, 5Y, or Neutral, value of 2 to 8, chroma of 1 to 3
 Texture: fine sand or sand and/or their gravelly analogues
 Rock and/or shell fragments: 5 to 25 percent gravel
@@ -77,19 +76,19 @@ GEOGRAPHIC SETTING:
 Landscape: Lower Coastal Plain
 Landform(s): tidal marshes, swamps, and low coastal flats along southern Peninsular Florida
 Parent material: 230 centimeters (80 inches) sandy marine sediments
-Mean annual temperature: 25 to 27 degrees C (77 to 81 degrees F)
-Mean annual precipitation: 1270 to 1727 millimeters (50 to 68 inches)
+Mean annual temperature: 23 to 27 degrees C (73 to 81 degrees F)
+Mean annual precipitation: 940 to 1570 millimeters (37 to 62 inches)
 Frost-free period: 365 days
 
 GEOGRAPHICALLY ASSOCIATED SOILS:  
-These are the Canaveral, St. Augustine, and Okaloacoochee soils.  Canaveral soils have better drainage and occur on beach dunes and ridges.
+Canaveral soils have better drainage and occur on beach dunes and ridges.
 St. Augustine soils have 51 to 203 centimeters (20 to 80 inches) of anthropogenic sandy material and occur in slightly higher and/or similar landform positions.
-Okaloacoochee soils are on similar positions and have black muck surface about 163 centimeters (64 inches) thick. The substratum is very dark gray to dark gray sand at about 163 centimeters (64 inches) to a depth of about 204 centimeters (80 inches).
+Okaloacoochee soils are on similar positions, have black muck surface about 163 centimeters (64 inches) thick. The substratum is very dark gray to dark gray sand at about 163 centimeters (64 inches) to a depth of about 204 centimeters (80 inches).
 
 DRAINAGE AND SATURATED HYDRAULIC CONDUCTIVITY:  
-Drainage class: Very poorly and poorly drained 
+Drainage class: Very poorly 
 Saturated hydraulic conductivity (KSAT): high to very high
-Permeability: rapid
+
 Surface Runoff: negligible to very low
 Depth to seasonal high water table: 0 to 15 centimeters (0 to 6 inches) of the surface.
 Surface Water: can range from 15 to 122 centimeters (6 to 48 inches) during the raining season (June to November). During the months of December and January surface water can range from 15 to 91 centimeters (6 to 36 inches).  During the dry season February to May surface water ranges from 15 to 76 centimeters (6 to 30 inches).  
@@ -101,22 +100,21 @@ Major uses: water quality and wildlife habitat.
 Dominant vegetation: Forested areas may include but are not limited to red mangrove (Rhizophora mangle), black mangrove (Avicennia germinans), white mangrove (Laguncularia racemosa) and button mangrove (Conocarpus erectus). Non-Forested areas may include but are not limited to various species of cordgrass (Spartina spp.), needlegrass rush (Juncus roemerianus), salt grass (Distichlis spicata), and various flowering forbs. Changes in salinity (ppt) is often the main driver between different major zones of vegetative species in both forested and non-forested areas.
 
 DISTRIBUTION AND EXTENT:  Everglades and Associated Areas (MLRA 156A)
-Extent: Small extent
+Extent: Small
 
 SOIL SURVEY REGIONAL OFFICE (SSRO) RESPONSIBLE:  Auburn, Alabama.
 
 SERIES ESTABLISHED:  Miami-Dade County, Florida; 2019.
 
 REMARKS: Diagnostic horizons and features in this pedon include:
- 
-1.	Histic epipedon - 0 to 15 centimeters (0 to 6 inches) (Oa horizon)
-2.	Aquic conditions - Endosaturation - 0 to 203 centimeters (0 to 80 inches)
-3.	Sulfidic materials to meet classification.
+
+1.	Particle-size control section: 0 to 203 centimeters (0 to 80 inches)
+2.	Histic epipedon - 0 to 15 centimeters (0 to 6 inches) (Oa horizon)
+3.	Aquic conditions - Endosaturation - 0 to 203 centimeters (0 to 80 inches)
+4.	Sulfidic materials to meet classification.
 
 This series was formerly mapped as Kesson in the hyperthermic temperature regime.
 
-ADDITIONAL DATA:  
-Laboratory data is available on the National Soil Survey website at: http://ncsslabdatamart.sc.egov.usda.gov/querypage.aspx
 
 OSD User Site ID: 2020FL686006
 
