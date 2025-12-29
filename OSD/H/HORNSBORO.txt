@@ -2,108 +2,185 @@ LOCATION HORNSBORO              NC
 
 Established Series
 Rev. DGS:WES:DTA
-12/2007
+12/2025
 
 HORNSBORO SERIES
 
-The Hornsboro series consists of very deep, somewhat poorly drained, slowly permeable soils. These soils are on stream terraces within the Triassic Basin area of the southern Piedmont. They formed in alluvium. Slope ranges from 0 to 3 percent. The mean annual temperature is 61 degrees F., and the mean annual precipitation is 44 inches near the type location. 
+MLRA(s): 136 (thermic part)
+Soil Survey Regional Office (SSRO) Responsible: Southeast
+Depth Class: Very deep
+Agricultural Drainage Class: Somewhat poorly drained
+Index Surface Runoff: Medium
+Saturated Hydraulic Conductivity Class: Moderately low
+Shrink-Swell Potential: High
+Landscape: Triassic Basin in the Piedmont              
+Landform: stream terraces
+Parent Material: Clayey alluvium 
+Slope: 0 to 3 percent
+Mean Annual Air Temperature: 16 degrees C (61 degrees F)
+Mean Annual Precipitation: 1118 millimeters (44 inches)
 
-TAXONOMIC CLASS: Fine, mixed, active, thermic Typic Natraqualfs 
+TAXONOMIC CLASS: Fine, mixed, active, thermic Typic Natraqualfs
 
-TYPICAL PEDON: Hornsboro silt loam--cultivated. (Colors are for moist soil.) 
+TYPICAL PEDON: Hornsboro silt loam--cultivated. (Colors are for moist soil.)
 
-   Ap--0 to 6 inches; dark yellowish brown (10YR 4/4) silt loam; weak medium granular structure; friable; common very fine and few medium roots; neutral; abrupt smooth boundary. (3 to 10 inches thick) 
+  Ap--0 to 15 centimeters (0 to 6 inches); dark yellowish brown (10YR 4/4) silt loam; weak medium granular structure; friable; common very fine and few medium roots; neutral; abrupt smooth boundary. (8 to 25 centimeters (3 to 10 inches) thick)
 
-   E--6 to 10 inches; yellowish brown (10YR 5/4) loam; weak medium subangular blocky structure; friable; few fine roots; few fine distinct light brownish gray (10YR 6/2) iron depletions; slightly alkaline; clear smooth boundary. (0 to 5 inches thick)
+  E--15 to 25 centimeters (6 to 10 inches); yellowish brown (10YR 5/4) loam; weak medium subangular blocky structure; friable; few fine roots; few fine distinct light brownish gray (10YR 6/2) iron depletions; slightly alkaline; clear smooth boundary. (0 to 13 centimeters (0 to 5 inches) thick)
 
-   Btg--10 to 24 inches; light brownish gray (2.5Y 6/2) clay; weak medium prismatic parting to moderate medium subangular blocky structure; firm; sticky, plastic; common fine roots; common distinct clay films on faces of peds; many medium prominent yellowish brown (10YR 5/6) masses of iron accumulation; moderately alkaline; gradual smooth boundary. (10 to 56 inches thick)
+  Btg--25 to 61 centimeters (10 to 24 inches); light brownish gray (2.5Y 6/2) clay; weak medium prismatic parting to moderate medium subangular blocky structure; firm; sticky, plastic; common fine roots; common distinct clay films on faces of peds; many medium prominent yellowish brown (10YR 5/6) masses of iron accumulation; moderately alkaline; gradual smooth boundary. (25 to 142 centimeters (10 to 56 inches) thick)
 
-   Bt1--24 to 37 inches; yellowish brown (10YR 5/4), yellowish brown (10YR 5/6), and gray (N 6/0) clay; weak medium prismatic parting to moderate medium subangular blocky structure; firm; sticky, plastic; few fine roots; common distinct clay films on faces of peds; the areas with gray colors are iron depletions and the areas with brown colors are iron accumulations; moderately alkaline; gradual smooth boundary.
+  Bt1--61 to 94 centimeters (24 to 37 inches); yellowish brown (10YR 5/4), yellowish brown (10YR 5/6), and gray (N 6/0) clay; weak medium prismatic parting to moderate medium subangular blocky structure; firm; sticky, plastic; few fine roots; common distinct clay films on faces of peds; the areas with gray colors are iron depletions and the areas with brown colors are iron accumulations; moderately alkaline; gradual smooth boundary.
 
-   Bt2--37 to 52 inches; yellowish brown (10YR 5/4) clay; moderate medium prismatic parting to moderate medium subangular blocky structure; firm; sticky, very plastic; few fine roots; common distinct clay films on faces of peds; few fine rounded manganese concretions; few calcium carbonate concretions 0.25 to 1 inch in diameter; common medium distinct gray (10YR 6/1) iron depletions and common medium faint brownish yellow (10YR 6/8) masses of iron accumulation; moderately alkaline; gradual smooth boundary. (Combined thickness of the Bt horizon is 4 to 50 inches) 
+  Bt2--94 to 132 centimeters (37 to 52 inches); yellowish brown (10YR 5/4) clay; moderate medium prismatic parting to moderate medium subangular blocky structure; firm; sticky, very plastic; few fine roots; common distinct clay films on faces of peds; few fine rounded manganese concretions; few calcium carbonate concretions 6 to 25 millimeters (0.25 to 1 inch) in diameter; common medium distinct gray (10YR 6/1) iron depletions and common medium faint brownish yellow (10YR 6/8) masses of iron accumulation; moderately alkaline; gradual smooth boundary. (Combined thickness of the Bt horizon is 10 to 127 centimeters (4 to 50 inches)
 
-   B'tg--52 to 62 inches; gray (10YR 6/1) clay; weak medium subangular blocky structure; firm; sticky, very plastic; few fine roots; common distinct clay films on faces of peds; few calcium carbonate concretions 0.25 to 1 inch in diameter; few rounded quartz gravel; common fine prominent yellowish brown (10YR 5/8) masses of iron accumulation; moderately alkaline; gradual smooth boundary. (0 to 30 inches thick) 
+  B'tg--132 to 157 centimeters (52 to 62 inches); gray (10YR 6/1) clay; weak medium subangular blocky structure; firm; sticky, very plastic; few fine roots; common distinct clay films on faces of peds; few calcium carbonate concretions 6 to 25 millimeters (0.25 to 1 inch) in diameter; few rounded quartz gravel; common fine prominent yellowish brown (10YR 5/8) masses of iron accumulation; moderately alkaline; gradual smooth boundary. (0 to 76 centimeters (0 to 30 inches) thick)
 
-   BC--62 to 70 inches; gray (10YR 6/1) and yellowish brown (10YR 5/6) sandy clay loam; weak medium subangular blocky structure; friable; slightly sticky, slightly plastic; 5 percent by volume rounded quartz gravel; the areas with gray colors are iron depletions and the areas with brown colors are iron accumulations; moderately alkaline; gradual smooth boundary. (0 to 26 inches thick) 
+  BC--157 to 178 centimeters (62 to 70 inches); gray (10YR 6/1) and yellowish brown (10YR 5/6) sandy clay loam; weak medium subangular blocky structure; friable; slightly sticky, slightly plastic; 5 percent by volume rounded quartz gravel; the areas with gray colors are iron depletions and the areas with brown colors are iron accumulations; moderately alkaline; gradual smooth boundary. (0 to 66 centimeters (0 to 26 inches) thick)
 
-  2C--70 to 80 inches; light gray (10YR 7/1), yellowish brown (10YR 5/8), and brown (7.5YR 4/4) fine sandy loam; massive; friable; the areas with gray colors are iron depletions and the areas with brown colors are iron accumulations; neutral. 
+  2C--178 to 203 centimeters (70 to 80 inches); light gray (10YR 7/1), yellowish brown (10YR 5/8), and brown (7.5YR 4/4) fine sandy loam; massive; friable; the areas with gray colors are iron depletions and the areas with brown colors are iron accumulations; neutral.
 
-TYPE LOCATION: Anson County, North Carolina; 3.0 miles west of Wadesboro on North Carolina Highway 742; 1.0 mile north on Secondary Road 1642; 1000 feet east on farm road; 500 feet southeast of corner of woods; and 2000 feet west of Gould's Fork Creek. USGS Ansonville topographic quadrangle; lat. 35 degrees, 4 minutes, 45 seconds N and long. 80 degrees, 6 minutes, 48 seconds W. Elevation is 245 feet. 
+TYPE LOCATION: Anson County, North Carolina; Approximately 5.45 miles south on US Highway 52 from intersection with Secondary Road 1418 in Ansonville; 1.52 miles west on Secondary Road 1652; 0.34 south on Secondary Road 1641 to Secondary Road 1642; 0.6 mile southwest on Secondary Road 1642 to farm path; 1000 feet east on farm road; 500 feet southeast of corner of woods; and 2000 feet west of Gould's Fork Creek. USGS Ansonville, North Carolina topographic quadrangle. 
 
-RANGE IN CHARACTERISTICS: Hornsboro soils have solum thickness of 40 to more than 60 inches. Depth to bedrock is more than 60 inches. The soil is very strongly acid to moderately alkaline in the A and E horizons, very strongly acid to moderately alkaline in the Btg, Bt, and B'tg horizons and slightly acid to moderately alkaline throughout the rest of the profile. Content of rounded quartz gravel ranges from 0 to 5 percent by volume in the A, BE, BA, Btg, Bt, and B'tg horizons and from 0 to 35 percent in the BC, BCg, C, Cg or 2C horizons. A few calcium carbonate concretions are in the Btb, Bt, B'tg, BC, BCg, Cg, or C horizons in some pedons. Soluble salts are present in the Btg, Bt, B'tg, and BC horizons. Highest exchangeable sodium levels are found in the Btg and Bt horizons and decreases with depth. 
+Latitude--35.013
+Longitude-- -80.113
+Datum--WGS84
 
-The A or Ap horizon has hue of 10YR, 2.5Y, or is neutral, value of 2 to 5, and chroma of 1 to 4. It is loam, silt loam, very fine sandy loam, fine sandy loam, or sandy loam. 
+Elevation is 245 feet.
 
-The E horizon has hue of 10YR to 5Y, value of 5 to 7, and chroma of 3 or 4. Iron depletions with chroma of 2 or less may be present. It is loam, silt loam, very fine sandy loam, fine sandy loam, or sandy loam. 
+RANGE IN CHARACTERISTICS: 
+Solum Thickness: 102 to more than 152 centimeters (40 to more than 60 inches)
+Depth to Bedrock: Greater than 152 centimeters (60 inches)
+Depth to Seasonal High Water Table: 30 to 46 centimeters (12 to 18 inches), December to April
+Rock Fragment Content: 0 to 5 percent by volume in the A, BE, BA, Btg, Bt, and B'tg horizons and from 0 to 35 percent in the BC, BCg, C, Cg or 2C horizons. A few calcium carbonate concretions are in the Btb, Bt, B'tg, BC, BCg, Cg, or C horizons in some pedons. Soluble salts are present in the Btg, Bt, B'tg, and BC horizons. Highest exchangeable sodium levels are found in the Btg and Bt horizons and decreases with depth 
+Soil Reaction: Very strongly acid to moderately alkaline in the A and E horizons, very strongly acid to moderately alkaline in the Btg, Bt, and B'tg horizons and slightly acid to moderately alkaline throughout the rest of the profile.
 
-The Eg horizon, if it occurs, has hue of 10YR to 5Y, value of 5 to 7, and chroma of 1 or 2. It is loam, silt loam, very fine sandy loam, fine sandy loam, or sandy loam.  Iron concentrations in shades of yellow, brown, or red may be present.
+RANGE OF INDIVIDUAL HORIZONS:
+A or Ap horizon:
+Color--hue of 10YR, 2.5Y, or is neutral, value of 2 to 5, chroma of 1 to 4
+Texture--loam, silt loam, very fine sandy loam, fine sandy loam, or sandy loam
 
-The BE or BA horizon, if it occurs, has hue of 10YR to 5Y, value of 5 to 7, and chroma of 3 to 8. Iron concentrations in shades of yellow, brown, or red and iron depletions in shades of gray or yellow may be present. Texture is sandy clay loam, silty clay loam, loam, or silt loam. 
+E horizon:
+Color--hue of 10YR to 5Y, value of 5 to 7, chroma of 3 or 4
+Texture--loam, silt loam, very fine sandy loam, fine sandy loam, or sandy loam
+Redoximorphic features--iron depletions with chroma of 2 or less may be present
 
-The BEg or BAg horizon, if it occurs, has hue of 10YR to 5Y, value of 5 to 7, and chroma of 1 or 2. Iron concentrations in shades of yellow, brown, or red may be present. Texture is sandy clay loam, silty clay loam, loam, or silt loam. 
+Eg horizon: 
+Color--hue of 10YR to 5Y, value of 5 to 7, chroma of 1 or 2 
+Texture--loam, silt loam, very fine sandy loam, fine sandy loam, or sandy loam
+Redoximorphic features--Iron concentrations in shades of yellow, brown, or red may be present
 
-The Btg horizon has hue of 10YR to 5Y or is neutral, value of 5 to 7, and chroma of 1 or 2. Iron concentrations in shades of yellow, brown, or red are present in most pedons. Texture is clay, clay loam, sandy clay, silty clay loam, or silty clay. 
+BE or BA horizon (if it occurs); 
+Color--hue of 10YR to 5Y, value of 5 to 7, chroma of 3 to 8 
+Texture--sandy clay loam, silty clay loam, loam, or silt loam
+Redoximorphic features--iron concentrations in shades of yellow, brown, or red and iron depletions in shades of gray or yellow may be present
 
-The Bt horizon has hue of 10YR to 5Y, value of 5 to 7, and chroma of 3 to 8 or is mottled in shades of gray, yellow, brown, or red. Iron concentrations in shades of yellow, brown, or red and iron depletions in shades of gray or yellow are present in most pedons. Texture is clay, clay loam, sandy clay, silty clay loam, or silty clay. 
+BEg or BAg horizon (if it occurs): 
+Color--hue of 10YR to 5Y, value of 5 to 7, chroma of 1 or 2 
+Texture--sandy clay loam, silty clay loam, loam, or silt loam
+Redoximorphic features--iron concentrations in shades of yellow, brown, or red may be present
 
-The B'tg horizon has hue of 10YR to 5Y or is neutral, value of 5 to 7, and chroma of 1 or 2. Iron concentrations in shades of yellow, brown, or red are present in most pedons. Texture is clay, clay loam, sandy clay, silty clay loam, or silty clay. 
+Btg horizon:
+Color--hue of 10YR to 5Y or is neutral, value of 5 to 7, and chroma of 1 or 2
+Iron concentrations in shades of yellow, brown, or red are present in most pedons. 
+Texture--clay, clay loam, sandy clay, silty clay loam, or silty clay
+Redoximorphic features--iron concentrations in shades of yellow, brown, or red are present in most pedons
 
-The BC has hue of 10YR to 5Y, value of 4 to 7, and chroma of 3 to 6, or is mottled in shades of gray, yellow, brown, or red. Iron concentrations in shades of yellow, brown, or red and iron depletions in shades of gray or yellow are present in most pedons. Texture is sandy clay, silty clay loam, silty clay, loam, clay loam, sandy clay loam, or fine sandy loam in the fine-earth fraction.
+Bt horizon:
+Color--hue of 10YR to 5Y, value of 5 to 7, chroma of 3 to 8 or is mottled in shades of gray, yellow, brown, or red. 
+Texture--clay, clay loam, sandy clay, silty clay loam, or silty clay
+Redoximorphic features--iron concentrations in shades of yellow, brown, or red and iron depletions in shades of gray or yellow are present in most pedons
 
-The BCg or 2BCg horizon, if it occurs, has hue of 10YR to 5Y or is neutral, value of 4 to 7, and chroma of 1 or 2. Iron concentrations in shades of yellow, brown, or red are present in most pedons. Texture is sandy clay, silty clay loam, silty clay, loam, clay loam, sandy clay loam, or fine sandy loam in the fine-earth fraction. 
+B'tg horizon:
+Color--hue of 10YR to 5Y or is neutral, value of 5 to 7, chroma of 1 or 2. 
+Texture--clay, clay loam, sandy clay, silty clay loam, or silty clay
+Redoximorphic features--iron concentrations in shades of yellow, brown, or red are present in most pedons. 
 
-The C or 2C horizon, has hue of 10YR to 5Y, value of 5 to 7, and chroma of 3 to 8. Iron concentrations in shades of yellow, brown, or red and iron depletions in shades of gray or yellow are present in most pedons. Texture is variable. 
+BC horizon:
+Color--hue of 10YR to 5Y, value of 4 to 7, chroma of 3 to 6, or is mottled in shades of gray, yellow, brown, or red 
+Texture (fine-earth fraction)--sandy clay, silty clay loam, silty clay, loam, clay loam, sandy clay loam, or fine sandy loam 
+Redoximorphic features--iron concentrations in shades of yellow, brown, or red and iron depletions in shades of gray or yellow are present in most pedons 
 
-The Cg or 2Cg horizon, if it occurs, has hue of 10YR to 5Y or is neutral, value of 5 to 7, and chroma of 1 or 2. Iron concentrations in shades of yellow, brown, or red are present in most pedons. Texture is variable. 
+BCg or 2BCg horizon (if it occurs): 
+Color--hue of 10YR to 5Y or is neutral, value of 4 to 7, chroma of 1 or 2
+Texture (fine-earth fraction)--sandy clay, silty clay loam, silty clay, loam, clay loam, sandy clay loam, or fine sandy loam 
+Redoximorphic features--iron concentrations in shades of yellow, brown, or red are present in most pedons.
 
-COMPETING SERIES: There are no other series in this family. 
+C or 2C horizon:
+Color--hue of 10YR to 5Y, value of 5 to 7, chroma of 3 to 8 
+Texture--variable
+Redoximorphic features--iron concentrations in shades of yellow, brown, or red and iron depletions in shades of gray or yellow are present in most pedons 
 
-GEOGRAPHIC SETTING: Hornsboro soils are nearly level and are on stream terraces within the Triassic Basin of the Southern Piedmont. Slopes range from 0 to 3 percent. The soil formed in alluvium. The mean annual temperature ranges from 59 to 61 degrees F., and mean annual precipitation ranges from 43 to 49 inches. 
+Cg or 2Cg horizon (if it occurs):
+Color--hue of 10YR to 5Y or is neutral, value of 5 to 7, chroma of 1 or 2
+Texture--variable
+Redoximorphic features--iron concentrations in shades of yellow, brown, or red are present in most pedons. 
 
-GEOGRAPHICALLY ASSOCIATED SOILS: These are the Altavista, Augusta, Chewacla, Roanoke, Tetotum, Wahee, and Wickham series. The moderately well drained Altavista and Tetotum soils have a loamy subsoil and are on slightly higher areas. The Augusta soils have a loamy subsoil and are on similar landscape positions. The Chewacla soils have a loamy subsoil and are on nearby flood plains. The poorly drained Roanoke soils are on slightly lower areas. The Wahee soils are on similar landscapes but lack the soluble salts. The well drained Wickham soils have a loamy subsoil and are on knolls and slightly higher areas. 
+COMPETING SERIES: There are no other series in this family.
 
-DRAINAGE AND PERMEABILITY: Somewhat poorly drained; slow runoff; slow 
-permeability. 
+GEOGRAPHIC SETTING: 
+Landscape: Triassic Basin of the Southern Piedmont
+Landform: Stream terraces
+Elevation: 55 to 259 meters (180 to 850 feet) above mean sea level Parent Material: Alluvium
+Mean Annual Air Temperature: 14 to 16 degrees C (57 to 61 degrees F)
+Mean Annual Precipitation: 1082 to 1245 millimeters (43 to 49 inches)
+Frost Free Period: 152 to 218 days
 
-USE AND VEGETATION: Some areas of this soil are used for crops and pasture. The remaining acreage is in forest of hardwoods and pine. Native species include loblolly pine, sweetgum, willow oak, southern red oak, white oak, water oak, black gum, red maple, and yellow-poplar. Understory species include greenbrier, flowering dogwood, switch cane, honeysuckle, and American holly. 
+GEOGRAPHICALLY ASSOCIATED SOILS: 
+Altavista soils--are moderately well drained and have a loamy subsoil
+Augusta soils--have a loamy subsoil
+Chewacla soils--have a loamy subsoil and are found on floodplains
+Roanoke soils--are poorly drained
+Tetotum soils--are moderately well drained and have a loamy subsoil
+Wahee soils--do not have soluble salts in the subsoil
+Wickham soils--are well drained and have a loamy subsoil
 
-DISTRIBUTION AND EXTENT: Southern Piedmont of North Carolina and possibly Virginia. The series has small extent. Known areas of this series are on stream terraces adjacent to streams that dissect Triassic Basins in North Carolina. 
+DRAINAGE AND SATURATED HYDRAULIC CONDUCTIVITY: 
+Agricultural Drainage Class: Somewhat poorly drained
+Index Surface Runoff: Medium
+Saturated Hydraulic Conductivity: Moderately low
 
-MLRA SOIL SURVEY REGIONAL OFFICE (MO) RESPONSIBLE: Raleigh, North Carolina 
+USE AND VEGETATION: 
+Major Uses: Woodland, and minimally, cropland, and pasture  
+Dominant Vegetation: Where wooded-- loblolly pine, sweetgum, willow oak, southern red oak, white oak, water oak, black gum, red maple, and yellow-poplar. Understory species include greenbrier, flowering dogwood, switch cane, honeysuckle, and American holly.
 
-SERIES ESTABLISHED: Stokes County, North Carolina; 1992. 
+SOIL SURVEY REGIONAL OFFICE (SSRO) RESPONSIBLE: Auburn, Alabama
+DISTRIBUTION AND EXTENT: 
+Distribution: North Carolina and possibly Virginia 
+Extent: Small. Known areas of this series are on stream terraces adjacent to streams that dissect Triassic Basins in North Carolina.
 
-REMARKS: Hornsboro soils were formerly included with the Wahee series. Wahee soils do not have less than 35 percent base saturation at 50 inches below the upper boundary of the Bt horizon and also lack the presence of soluble salts. 
+SERIES ESTABLISHED: Stokes County, North Carolina; 1992.
 
-Diagnostic horizons and features recognized in this pedon are: 
-Ochric epipedon - the zone from the soil surface to a depth of 10 inches. (Ap and E horizons) 
-Argillic horizon - the zone from 10 to 62 inches below the surface. (Btg, Bt1, Bt2, and B'tg horizons) 
-Natric horizon - the zone from 10 to 62 inches below the surface. (Btg, Bt1, Bt2, and B'tg horizons) 
+REMARKS: Hornsboro soils were formerly included with the Wahee series. Wahee soils do not have more than 35 percent base saturation at 50 inches below the upper boundary of the Bt horizon and also lack the presence of soluble salts.  The December 2025 revision clarified the directions to the type location.  Type location was not moved.  The format was also updated.  No data was changed.
 
-ADDITIONAL DATA: 
+Diagnostic horizons and features recognized in this pedon are:
+Ochric epipedon--the zone from 0 to 25 centimeters (0 to 10 inches) (Ap and E horizons)
+Argillic horizon--the zone from 25 to 157 centimeters (10 to 62 inches) below the surface (Btg, Bt1, Bt2, and B'tg horizons)
+Natric horizon--the zone from 25 to 157 centimeters (10 to 62 inches) below the surface (Btg, Bt1, Bt2, and B'tg horizons)
 
-TABULAR SERIES DATA: 
+ADDITIONAL DATA:
 
-SOI-5  Soil Name   Slope  Airtemp FrFr/Seas Precip  Elevation
-NC0250 HORNSBORO   0 - 3   57- 61  152-218  43- 48   180- 850
+TABULAR SERIES DATA:
+SOI-5  Soil Name   Slope  Airtemp  FrFr/Seas  Precip  Elevation
+NC0250 HORNSBORO   0-3    57- 61   152-218    43-49   180-850
 
-SOI-5  FloodL  FloodH   Watertable   Kind    Months  Bedrock Hardness 
-NC0250 NONE    RARE      1.0-1.5    APPARENT NOV-MAY  >60
+SOI-5  FloodL  FloodH   Watertable   Kind     Months  Bedrock Hardness 
+NC0250 NONE    RARE      1.0-1.5    APPARENT  NOV-MAY  >60
 
-SOI-5  Depth  Texture                3-Inch  No-10  Clay%   -CEC- 
-NC0250  0-10  SL FSL                  0-  0  93-100  8-20   5- 20 
-NC0250  0-10  L SIL VFSL              0-  0  93-100  8-20   5- 20 
-NC0250 10-62  C SIC SICL              0-  0  93-100 35-60  15- 40 
-NC0250 62-70  SCL CL GR-SCL           0-  0  57-100 22-40  10- 25 
-NC0250 70-80  VAR                      -       -      -      -
+SOI-5  Depth  Texture            3-Inch  No-10    Clay%   -CEC- 
+NC0250  0-10  SL FSL             0-0     93-100   8-20    5-20 
+NC0250  0-10  L SIL VFSL         0-0     93-100   8-20    5-20 
+NC0250 10-62  C SIC SICL         0-0     93-100  35-60   15-40 
+NC0250 62-70  SCL CL GR-SCL      0-0     57-100  22-40   10-25 
+NC0250 70-80  VAR                 -        -       -       -
 
-SOI-5  Depth    -pH-     O.M.  Salin  Permeab   Shnk-Swll
-NC0250  0-10  4.5- 7.8  1.-4.  0- 0   2.0- 6.0  LOW
-NC0250  0-10  4.5- 7.8  1.-4.  0- 0   0.6- 2.0  LOW
-NC0250 10-62  4.5- 8.4  .5-1.  0- 0  0.06- 0.2  HIGH
-NC0250 62-70  6.1- 8.4  0.-.5  0- 0   0.2- 0.6  MODERATE
-NC0250 70-80     -        -     -        -
+SOI-5  Depth    -pH-     O.M.   Salin  Permeab   Shnk-Swll
+NC0250  0-10  4.5-7.8    1.-4.  0-0    2.0-6.0   LOW
+NC0250  0-10  4.5-7.8    1.-4.  0-0    0.6-2.0   LOW
+NC0250 10-62  4.5-8.4    .5-1.  0-0   0.06-0.2   HIGH
+NC0250 62-70  6.1-8.4    0.-.5  0-0    0.2-0.6   MODERATE
+NC0250 70-80     -         -     -        -
 
-
+________________________________________
 National Cooperative Soil Survey
 U.S.A.
