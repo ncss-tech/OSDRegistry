@@ -1,7 +1,7 @@
 LOCATION ALTAVISTA              NC+AL GA SC VA
 
 Established Series
-RLV-DTA-RHB/Rev. JAK; DTA
+RLV-DTA-RHB/Rev. JAK/ Rev. DTA
 12/2025
 
 ALTAVISTA SERIES
@@ -24,7 +24,7 @@ TAXONOMIC CLASS: Fine-loamy, mixed, semiactive, thermic Aquic Hapludults
 
 TYPICAL PEDON: Altavista fine sandy loam--cultivated. (Colors are for moist soil unless otherwise stated.)
 
-  Ap--0 to 20 centimeters (0 to 8 inches);  brown (7.5YR 4/2) fine sandy loam; weak fine granular structure; very friable; many very fine and fine roots; neutral; abrupt smooth boundary. (13 to 30 centimeters (5 to 12 inches) thick)
+  Ap--0 to 20 centimeters (0 to 8 inches); brown (7.5YR 4/2) fine sandy loam; weak fine granular structure; very friable; many very fine and fine roots; neutral; abrupt smooth boundary. (13 to 30 centimeters (5 to 12 inches) thick)
 
   E--20 to 30 centimeters (8 to 12 inches); brownish yellow (10YR 6/8) fine sandy loam; weak fine granular structure; very friable; many fine and few medium roots; slightly acid; clear wavy boundary. (0 to 30 centimeters (0 to 12 inches) thick)
 
@@ -115,7 +115,7 @@ Index Surface Runoff: Medium
 Saturated Hydraulic Conductivity: Moderately high
 
 USE AND VEGETATION:
-Major Uses: Cropland, pasture, and woodland.  
+Major Uses: Cropland, pasture, and woodland  
 Dominant Vegetation: Where cultivated--corn, cotton, small grain, soybeans, and truck crops. Where wooded--loblolly pine, sweetgum, red maple, yellow-poplar, white oak, southern red oak, water oak, American beech, and hickory. Common understory plants include flowering dogwood, blueberry, sassafras, eastern redbud, eastern redcedar, winged elm, greenbrier, sourwood, southern bayberry (waxmyrtle), inkberry (bitter gallberry), summersweet clethra, honeysuckle, and poison ivy
 
 SOIL SURVEY REGIONAL OFFICE (SSRO) RESPONSIBLE: Auburn, Alabama
@@ -127,14 +127,16 @@ Extent: Large
 SERIES ESTABLISHED: Granville County, North Carolina; 1910.
 
 REMARKS: Altavista soils are restricted to fluvial terraces. The 05/06 revision refined the textures of the C and Cg in the range of characteristics. The 03/06 revision dropped MLRA 153B.  The December 2025 revision changed the format and moved the type location from Wake County, North Carolina to Halifax County, North Carolina.  With the update of the Wake County soil survey, the type location no longer exists.
+
 Diagnostic horizons and features recognized in this pedon are:
-Ochric epipedon--the zone from 0 to a depth of 12 inches (the A and E horizons)
-Argillic horizon--the zone from a depth of 12 to a depth of 36 inches (the Bt  horizons)
-Aquic subgroup feature--redoximorphic depletions with chroma of 2 or less within the upper 24 inches of the argillic horizon
+Ochric epipedon--the zone from 0 to 30 centimeters (0 to 12 inches) (A and E horizons)
+Argillic horizon--the zone from 30 to 91 centimeters (12 to 36 inches (the Bt  horizons)
+Aquic subgroup feature--redoximorphic depletions with chroma of 2 or less within the upper 61 centimeters (24 inches) of the argillic horizon
 
 ADDITIONAL DATA: None
 
 TABULAR SERIES DATA:
+
 SOI-5   Soil Name   Slope    Airtemp    FrFr/Seas   Precip   Elevation
 NC0054  ALTAVISTA   0-10     57-70      185-250     37-69    25-750
 
