@@ -2,124 +2,130 @@ LOCATION THOMSON                SC
 
 Established Series
 MLB-HEH-DTA
-07/2009
+01/2026
 
 THOMSON SERIES
 
-MLRA(s): 136 
-MLRA SOIL SURVEY REGIONAL OFFICE (MO) RESPONSIBLE: Raleigh, North Carolina
+MLRA(s): 136 (thermic part)
+Soil Survey Regional Office (SSRO) Responsible: Southeast
 Depth Class: Very deep
-Drainage Class: Well drained
-Permeability: Moderately rapid
-Surface Runoff: Slow to medium
-Parent Material: Loamy and sandy fluvial sediments
+Agricultural Drainage Class: Well drained
+Index Surface Runoff: Medium
+Saturated Hydraulic Conductivity Class: High
+Shrink-Swell Potential: Low
+Landscape: Piedmont stream terraces              
+Landform: Ridges and side slopes 
+Parent Material: Loamy and sandy fluvial sediments 
 Slope: 0 to 10 percent
-Mean Annual Air Temperature (type location): 59 degrees F.
-Mean Annual Precipitation (type location): 48 inches 
+Mean Annual Air Temperature: 15 degrees C (59 degrees F)
+Mean Annual Precipitation: 1219 millimeters (48 inches)
 
-TAXONOMIC CLASS: Coarse-loamy, mixed, semiactive, thermic Ultic Hapludalfs 
+TAXONOMIC CLASS: Coarse-loamy, mixed, semiactive, thermic Ultic Hapludalfs
 
-TYPICAL PEDON: Thomson sandy loam-cultivated. (Colors are for moist soil.) 
+TYPICAL PEDON: Thomson sandy loam-cultivated. (Colors are for moist soil.)
 
-   Ap--0 to 9 inches; dark yellowish brown (10YR 4/4) sandy loam; weak fine granular; very friable; many fine roots; slightly acid; abrupt smooth boundary. (6 to 12 inches thick) 
+  Ap--0 to 23 centimeters (0 to 9 inches); dark yellowish brown (10YR 4/4) sandy loam; weak fine granular; very friable; many fine roots; slightly acid; abrupt smooth boundary. (15 to 30 centimeters (6 to 12 inches) thick)
 
-   Bt1--9 to 30 inches; strong brown (7.5YR 4/6) sandy loam; weak fine subangular blocky structure; very friable; common fine roots; sand grains bridged and coated with clay; slightly acid; diffuse smooth boundary. (10 to 40 inches thick)
+  Bt1--23 to 76 centimeters (9 to 30 inches); strong brown (7.5YR 4/6) sandy loam; weak fine subangular blocky structure; very friable; common fine roots; sand grains bridged and coated with clay; slightly acid; diffuse smooth boundary. (25 to 102 centimeters (10 to 40 inches) thick)
 
-   BC--30 to 59 inches; strong brown (7.5YR 5/6) sandy loam; weak fine subangular blocky structure; very friable; common fine roots; slightly acid; diffuse smooth boundary. (10 to 40 inches thick)
+  BC--76 to 150 centimeters (30 to 59 inches); strong brown (7.5YR 5/6) sandy loam; weak fine subangular blocky structure; very friable; common fine roots; slightly acid; diffuse smooth boundary. (25 to 102 centimeters (10 to 40 inches) thick)
 
-   2Bt2--59 to 71 inches; yellowish red (5YR 5/8) sandy clay loam; few fine faint strong brown (7.5YR 5/8) mottles; weak fine subangular blocky structure; friable; common faint clay films on faces of peds; 2 percent fine manganese concretions; slightly acid; diffuse smooth boundary. 
+  2Bt2--150 to 180 centimeters (59 to 71 inches); yellowish red (5YR 5/8) sandy clay loam; few fine faint strong brown (7.5YR 5/8) mottles; weak fine subangular blocky structure; friable; common faint clay films on faces of peds; 2 percent fine manganese concretions; slightly acid; diffuse smooth boundary.
 
-   2Bt3--71 to 80 inches; strong brown (7.5YR 5/8) sandy clay loam; many medium prominent red (2.5YR 4/8) and many medium distinct brownish yellow (10YR 6/8) mottles; weak fine subangular blocky structure; friable; common faint clay films on faces of peds; slightly acid.  (Combined thickness of the 2Bt horizons is 0 to 25 inches)
- 
-TYPE LOCATION: Chester County, South Carolina; about 16 miles northwest of Chester, South Carolina from the intersection of Secondary Road 307 (Cabal Road) and Secondary Road 742 (Thompson Quarters Road); about 1.1 miles west northwest on Secondary Road 742; about 2200 feet west southwest on farm road; 370 feet north; in field; Lockhart, South Carolina USGS topographic quadrangle; lat. 34 degrees 49 minutes 03 seconmds N and 81 degrees 28 minutes 09 seconds W.
- 
+  2Bt3--180 to 203 centimeters (71 to 80 inches); strong brown (7.5YR 5/8) sandy clay loam; many medium prominent red (2.5YR 4/8) and many medium distinct brownish yellow (10YR 6/8) mottles; weak fine subangular blocky structure; friable; common faint clay films on faces of peds; slightly acid. (Combined thickness of the 2Bt horizons is 0 to 63 centimeters (0 to 25 inches)
+
+TYPE LOCATION: Chester County, South Carolina; about 16 miles northwest of Chester, South Carolina from the intersection of Secondary Road 307 (Cabal Road) and Secondary Road 742 (Thompson Quarters Road); about 1.1 miles west northwest on Secondary Road 742; about 2200 feet west southwest on farm road; 370 feet north; in field; USGS Lockhart, South Carolina topographic quadrangle. 
+
+Latitude--34.8175
+Longitude-- -81.4692
+Datum--WGS84
+
 RANGE IN CHARACTERISTICS:
-Solum Thickness: 30 to 65 inches
-Depth to Bedrock: Greater than 60 inches
-Depth to Seasonal High Water Table: Greater than 60 inches
-Soil Reaction: Moderately acid to slightly alkaline except where the surface has been limed 
-Gravel Content: Quartz gravel make up 0 to 5 percent of the solum and 0 to 15 percent of the C horizon in the non-flooded phase; 0 to 35 percent in the solum and 0 to 50 percent of the C horizon in the flooded phase 
+Solum Thickness: 76 to 165 centimeters (30 to 65 inches)
+Depth to Bedrock: Greater than 152 centimeters (60 inches)
+Depth to Seasonal High Water Table: Greater than 152 centimeters (60 inches)
+Rock Fragment Content: Quartz gravel make up 0 to 5 percent of the solum and 0 to 15 percent of the C horizon in the non-flooded phase; 0 to 35 percent in the solum and 0 to 50 percent of the C horizon in the flooded phase
+Soil Reaction: Moderately acid to slightly alkaline except where the surface has been limed
 
+RANGE OF INDIVIDUAL HORIZONS:
 A or Ap horizon:
-Color--hue of 7.5YR to 2.5Y, value of 3 to 6, and chroma of 1 to 4. Where the value is 3 and the chroma is 1 or 2, the A horizon is less than 6 inches thick. 
-Texture--loamy sand, loamy fine sand, sandy loam, fine sandy loam, or loam 
+Color--hue of 7.5YR to 2.5Y, value of 3 to 6, and chroma of 1 to 4. Where the value is 3 and the chroma is 1 or 2, the A horizon is less than 6 inches thick.
+Texture--loamy sand, loamy fine sand, sandy loam, fine sandy loam, or loam
 
 E horizon (if it occurs)
 Color--has hue of 10YR or 2.5Y, value of 4 to 7, and chroma of 4 or 6
-Texture--loamy sand, loamy fine sand, sandy loam, fine sandy loam, or loam 
+Texture--loamy sand, loamy fine sand, sandy loam, fine sandy loam, or loam
 
 BA or BE horizon (if it occurs)
 Color--hue of 5YR to 2.5Y, value of 4 to 7, and chroma of 3 to 6
-Texture--sandy loam, fine sandy loam, or loam 
+Texture--sandy loam, fine sandy loam, or loam
 
 Bt horizon:
-Color--hue of 5YR to 10YR, value of 4 to 6, and chroma of 4 to 8
+Color--hue of 5YR to 10YR, value of 4 to 6, chroma of 4 to 8
 Texture--sandy loam, fine sandy loam, or loam. Some pedons may have a thin subhorizon that is sandy. The lower boundary is gradual or diffuse or there is more than 50 percent fine and coarser sand in the B horizon.
 
 BC or CB horizon (if it occurs)
-Color--hue of 5YR to 10YR, value of 4 to 6, and chroma of 4 to 8
+Color--hue of 5YR to 10YR, value of 4 to 6, chroma of 4 to 8
 Texture--loamy sand or loamy fine sand
- 
+
 2Bt horizon:
-Color--hue of 5YR to 10YR, value of 4 to 6, and chroma of 4 to 8
-Texture--sandy loam, sandy clay loam, or loam. 
+Color--hue of 5YR to 10YR, value of 4 to 6, chroma of 4 to 8
+Texture--sandy loam, sandy clay loam, or loam
 
 C horizon (if it occurs):
-Color--hue of 7.5YR to 2.5Y, value of 4 to 7, and chroma of 3 to 8
-Texture--usually stratified and in the fine-earth portion, ranges from coarse sand to loamy fine sand
- 
+Color--hue of 7.5YR to 2.5Y, value of 4 to 7, chroma of 3 to 8
+Texture (fine-earth fraction)--usually stratified and ranges from coarse sand to loamy fine sand
+
 COMPETING SERIES:
-Sekil soils-have a depth to hard bedrock of 20 to 40 inches and are on piedmont uplands
+Sekil soils-have a depth to hard bedrock of 51 to 102 centimeters (20 to 40 inches) and are on piedmont uplands
 
 GEOGRAPHIC SETTING:
-Landscape: Piedmont
-Landform: Stream terraces and flood plains
-Elevation: 100 to 250 feet above mean sea level 
+Landscape: Piedmont stream terraces
+Landform: Ridges and side slopes 
+Elevation: 30 to 76 meters (100 to 250 feet) above mean sea level
 Parent Material: Loamy and sandy fluvial sediments
-Mean Annual Air Temperature: 58 to 60 degrees
-Mean Annual Precipitation: 40 to 50 inches
-Frost Free Period: 190 to 220 days 
+Mean Annual Air Temperature: 14 to 16 degrees C (58 to 60 degrees F)
+Mean Annual Precipitation: 1016 to 1270 millimeters (40 to 50 inches)
+Frost Free Period: 190 to 220 days
 
 GEOGRAPHICALLY ASSOCIATED SOILS:
-Altavista soils--moderately well drained soils (seasonal high water table 18 to 30 inches) in fine-loamy family on slightly lower landscapes
-Augusta soils--somewhat poorly drained soils (seasonal high water table 12 to 18 inches) in fine-loamy family on lower landscapes
-Molena soils--somewhat excessively drained soils in sandy family on similar landscapes
-Dogue soils--moderately well drained soils (seasonal high water table 18 to 30 inches) in fine family on slightly lower landscapes
-Pamunkey soils--well drained soils (seasonal high water table 48 to 72 inches) in fine-loamy family with base saturation greater than 35 percent on similar landscapes
-State soils--well drained soils (seasonal high water table 48 to 72 inches) in fine-loamy family on similar landscapes
-Wickham soils--well drained soils (seasonal high water table is below 6 feet) in fine-loamy family on similar landscapes 
+Altavista soils--are moderately well drained (seasonal high water table 46 to 76 centimeters (18 to 30 inches), fine-loamy, and are on slightly lower landscapes
+Augusta soils--are somewhat poorly drained (seasonal high water table 30 to 46 centimeters (12 to 18 inches), fine-loamy, and are on lower landscapes
+Molena soils--are somewhat excessively drained, sandy, and on similar landscapes
+Dogue soils--are moderately well drained (seasonal high water table 46 to 76 centimeters (18 to 30 inches), clayey, and are on sightly lower landscapes
+Pamunkey soils--are well drained (seasonal high water table 122 to 183 centimeters (48 to 72 inches), fine-loamy, have a base saturation greater than 35 percent, and on similar landscapes
+State soils--are well drained (seasonal high water table 122 to 183 centimeters (48 to 72 inches), fine-loamy family, and on similar landscapes
+Wickham soils--are well drained (seasonal high water table is below 183 centimeters (72 inches), fine-loamy, and on similar landscapes
 
-DRAINAGE AND PERMEABILITY:
+DRAINAGE AND SATURATED HYDRAULIC CONDUCTIVITY: 
 Agricultural Drainage Class: Well drained
-Permeability: Moderately rapid 
+Index Surface Runoff: Medium
+Saturated Hydraulic Conductivity: Moderately high
 
 USE AND VEGETATION:
-Major Uses: Mostly cultivated
-Dominant Vegetation: Where cultivated--soybeans, pasture, and corn. Where wooded--loblolly pine, sweet gum, oak, hickory, and maple 
+Major Uses: Mostly cropland with some woodland
+Dominant Vegetation: Where cultivated--soybeans, pasture, and corn. Where wooded--loblolly pine, sweet gum, oak, hickory, and maple
 
-DISTRIBUTION AND EXTENT: 
-Distribution: Piedmont of South Carolina, and possibly Georgia and North Carolina 
+SOIL SURVEY REGIONAL OFFICE (SSRO) RESPONSIBLE: Auburn, Alabama
+
+DISTRIBUTION AND EXTENT:
+Distribution: South Carolina, and possibly Georgia and North Carolina
 Extent: Small
 
-MLRA SOIL SURVEY REGIONAL OFFICE (MO) RESPONSIBLE: Raleigh, North Carolina 
+SERIES PROPOSED: Chester County, South Carolina, 2005.
 
-SERIES PROPOSED: Chester County, South Carolina, 2005.  
-. 
-REMARKS:  Thomson soils were previously mapped as Molena Variant (SIR SC0092)
-
+REMARKS: Thomson soils were previously mapped as Molena Variant (SIR SC0092)
 Diagnostic horizons and other features recognized in this pedon are:
-a. Ochric epipedon -the zone between 0 and 9 inches (Ap horizon). 
-b. Argillic horizon -the zone between 9 and 30 inches (Bt horizon) and between 59 and 80 inches (2Bt2 and 2Bt3 horizons). 
+Ochric epipedon--the zone from 0 to 23 centimeters (0 to 9 inches) (Ap horizon).
+Argillic horizon--the zone from 23 to 76 centimeters (9 to 30 inches) (Bt horizon) and between 150 to 203 centimeters (59 to 80 inches) (2Bt2 and 2Bt3 horizons).
 
-MLRA=136
-
-REVISED=12/2030/05, DTA.  This revision changed the taxonomic classification from coarse-loamy, mixed, thermic Typic Hapludult based on lab data. 10-06-DTA-This revision changes the location to a more typical site, within the same map unit, and extends the description to 80 inches.
+REVISED=12/20/05, DTA. This revision changed the taxonomic classification from coarse-loamy, mixed, thermic Typic Hapludult based on lab data. 10/06
+DTA-This revision changes the location to a more typical site, within the same map unit, and extends the description to 203 centimeters (80 inches).  The January 2026 revision updated the format.  No data was changed.  Molena Variant in Chester County is now named Thomson.
 
 ADDITIONAL DATA: Laboratory data from typical pedon and supporting pedons S04SC-023(1-3), Data may be obtained from Clemson University.
- 
-TABULAR SERIES DATA: 
 
-SOI-5  Soil Name   Slope  Airtemp  FrFr/Seas  Precip  Elevation
+TABULAR SERIES DATA:
+SOI-5   Soil Name   Slope  Airtemp  FrFr/Seas  Precip  Elevation
 SC0092  THOMSON     0-10   58-60    190-220    40-50   100-250
 
 SOI-5  FloodL  FloodH   Watertable   Kind     Months    Bedrock
@@ -137,7 +143,6 @@ SC0092  9-30    4.5-6.5    0.-.5     0-0   2.0-6.0     LOW
 SC0092 30-59    4.5-6.5    0.-.5     0-0   6.0-20      LOW
 SC0092 59-80    4.5-6.5    0.-.5     0-0   0.6-2.0     LOW
 
-
-
+________________________________________
 National Cooperative Soil Survey
 U.S.A.
