@@ -1,8 +1,8 @@
 LOCATION HELENA                 NC+AL GA SC VA
 
 Established Series
-Rev. AG, MDJ, DTA
-12/2025
+Rev. AG, MDJ, DTA; Rev. DTA
+01/2026
 
 HELENA SERIES
 
@@ -15,7 +15,7 @@ Saturated Hydraulic Conductivity Class: Moderately low
 Shrink-Swell Potential: High
 Landscape: Piedmont uplands
 Landform: Interstream divides, ridges, heads of drains, and side slopes
-Parent Material: Residuum weathered from a mixture of felsic, intermediate, or mafic igneous or high-grade metamorphic rocks
+Parent Material: Residuum from aplitic granite or granite gneiss that is cut by dykes of gabbro and diorite, or mixed with hornblende schist or hornblende gneiss
 Slope: 0 to 15 percent
 Mean Annual Air Temperature: 15 degrees C (59 degrees F)
 Mean Annual Precipitation: 1219 millimeters (48 inches)
@@ -102,26 +102,23 @@ COMPETING SERIES:
 Annemaine soils--have a redder hue and form from lower Coastal Plain sediments
 Beason soils--have a higher silt content and have sediments from sedimentary rock origin
 Buckatunna soils--form from Coastal Plain sediments
-Bush River soils--have a paralithic contact at a depth of 40 to 60 inches
+Bush River soils--have soft bedrock at a depth of 102 to 152 centimeters (40 to 60 inches)
 Chickasawhay soils--form in marine and Coastal Plain sediments
-Cid soils--have a lithic contact at a depth of 20 and 40 inches
+Cid soils--formed in the Carolina Slate Belt, have greater than 30 percent silt, have hard bedrock at a depth of 51 to 102 centimeters (20 to 40 inches)
 Craven soils--formed from Coastal Plain sediments and have a higher silt content
 Creedmoor soils--have a very high shrink swell potential, more exchangeable aluminum and form from Triassic parent material
 Dogue soils--have a higher silt content and form from Coastal Plain sediments
 Dorian soils--have a moderate shrink-swell potential and form from fluvial sediments on stream terraces
 Gritney soils--form from Coastal Plain sediments
-Lignum soils--have a paralithic contact at a depth of 40 to 60 inches
+Lignum soils--formed in the Carolina Slate Belt, have greater than 30 percent silt, and have soft bedrock at a depth of 102 to 152 centimeters (40 to 60 inches)
 Nemours soils--have a redder hue and form from Coastal Plain sediments
 Newco soils--have a redder hue and form from Coastal Plain sediments
-Prosperity soils--have a paralithic contact at a depth of 40 and 60 inches
-Telfair soils--have a thinner solum and have a paralithic contact at a depth of 20 to 40 inches
+Prosperity soils--have soft bedrock at a depth of 102 to 152 centimeters (40 to 60 inches)
+Telfair soils--have a thinner solum and have soft bedrock at a depth of 51 to 102 centimeters (20 to 40 inches)
 
 GEOGRAPHIC SETTING:
-Landscape: Piedmont
-Landform: Ridges and hill slopes
-Geomorphic Component: Interfluves and side slopes
-Hillslope Profile Position: Toe slope, summits, and heads of drains
-Parent Material: Residuum from aplitic granite or granite gneiss that is cut by dykes of gabbro and diorite, or mixed with hornblende schist or hornblende gneiss
+Landscape: Piedmont uplands
+Landform: Interstream divides, ridges, heads of drains, and side slopes Parent Material: Residuum from aplitic granite or granite gneiss that is cut by dykes of gabbro and diorite, or mixed with hornblende schist or hornblende gneiss
 Slope: 0 to 15 percent
 Elevation: 107 to 274 meters (350 to 900 feet)
 Frost-Free Period: 185 to 240 days
@@ -144,7 +141,7 @@ Santuc soils--have less clay in the subsoil
 Sedgefield soils--have a higher base saturation
 Vance soils--are well drained.
 Wedowee soils--are well drained and have a low shrink-swell potential
-Wilkes soils--are well drained, have a higher base saturation, and have a depth to paralithic contact of less than 20 inches
+Wilkes soils--are well drained, have a higher base saturation, and have a depth to soft bedrock of less than 51 centimeters (20 inches)
 Worsham soils--are poorly drained
 
 DRAINAGE AND SATURATED HYDRAULIC CONDUCTIVITY: 
@@ -159,14 +156,14 @@ Dominant Vegetation: Where cultivated--tobacco, corn, soybean, small grain, and 
 SOIL SURVEY REGIONAL OFFICE (SSRO) RESPONSIBLE: Auburn, Alabama
 
 DISTRIBUTION AND EXTENT:
-Distribution: Alabama, Georgia, North Carolina, South Carolina, and Virginia.
-Extent: Large.
+Distribution: Alabama, Georgia, North Carolina, South Carolina, and Virginia
+Extent: Large
 
 SERIES ESTABLISHED: Person County, North Carolina, 1928.
 
 REMARKS:
 12/2012 Revision updates the format and added latitude and longitude.
-8/1991 Revision changed depth to bedrock from "more than 48 inches to more than 60 inches" to be consistent with one depth to bedrock class as shown on the Soil Interpretation Records for Helena. The 12/2025 revision changed formatting. No data was changed.
+8/1991 Revision changed depth to bedrock from "more than 48 inches to more than 60 inches" to be consistent with one depth to bedrock class as shown on the Soil Interpretation Records for Helena. The 01/2026 revision changed formatting. No data was changed.
 
 Diagnostic horizons and features recognized in this pedon are:
 Ochric epipedon--the zone from 0 to 30 centimeters (0 to 12 inches) (Ap and E horizons)

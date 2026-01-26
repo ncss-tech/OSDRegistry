@@ -47,7 +47,7 @@ Datum--WGS84
 RANGE IN CHARACTERISTICS:
 Solum thickness: Greater than 152 centimeters (60 inches)
 Depth to Bedrock: Greater than 203 centimeters (80 inches)
-Depth to Seasonal High Water Table: 15 to 46 centimeters (6 to 18 inches), November to April
+Depth to Seasonal High Water Table: 127 to 152 centimeters (50 to 60 inches), January to March 
 Rock Fragment content: 0 to 10 percent, by volume
 Plinthite: Depth to horizons with 5 percent or more plinthite is dominantly 76 to 127 centimeters (30 to 50 inches), but in some pedons it is 63 centimeters (25 inches).
 Soil reaction: Extremely acid to strongly acid throughout, except where limed

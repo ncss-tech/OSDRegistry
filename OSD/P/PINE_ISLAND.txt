@@ -1,0 +1,118 @@
+LOCATION PINE ISLAND            NC+VA
+
+Tentative Series
+JDK-RBT
+01/2026
+
+PINE ISLAND SERIES
+
+MLRA(s)--153B
+Depth class--Very deep
+Drainage class--Subaqueous
+Water depth range--0 to 2 meters (0 to 7 feet)
+Parent material--Sandy lagoonal deposits with origin from marine and eolian sands
+Geomorphic location--Relict flood-tidal deltas
+Slope range--0 to 1 percent
+Mean annual air temperature--17 degrees C (63 degrees F)
+Mean annual water temperature--15 degrees C (59 degrees F)
+
+TAXONOMIC CLASS: Siliceous, thermic Fluventic Psammowassents
+
+TYPICAL PEDON: Pine Island fine sand on a relict flood-tidal delta slope under 1.5 meters of brackish water (colors are for moist soil unless otherwise stated; electrical conductivity is 1:5 by volume solution mixture unless otherwise stated).
+
+ ACseg--0 to 23 centimeters; dark gray (5Y 4/1) fine sand; structureless, single grain; nonsticky, nonplastic; nonfluid; few very fine roots and few fine roots; moderate sulfurous odor; color change with 3 percent hydrogen peroxide; slight effervescence with 30 percent hydrogen peroxide; nonsaline (0.7 dS/m); slightly alkaline (pH 7.6), strongly acid (pH 5.1) oxidized pH; abrupt boundary.
+
+ Cseg1--23 to 67 centimeters; dark greenish gray (10Y 4/1) fine sand; structureless, single grain; nonsticky, nonplastic; nonfluid; moderate sulfurous odor; no color change with 3 percent hydrogen peroxide; slight effervescence with 30 percent hydrogen peroxide; nonsaline (0.8 dS/m); slightly alkaline (pH 7.8), neutral (pH 6.7) oxidized pH; clear boundary.
+
+ Cseg2--67 to 91 centimeters; dark greenish gray (10Y 4/1) fine sand; structureless, single grain; nonsticky, nonplastic; nonfluid; 4 percent shell fragments; moderate sulfurous odor; no color change with 3 percent hydrogen peroxide; noneffervescent with 30 percent hydrogen peroxide; nonsaline (0.9 dS/m); moderately alkaline (pH 8.0), neutral (pH 7.3) oxidized pH; clear boundary.
+
+ Cseg3--91 to 119 centimeters; greenish gray (10Y 5/1) fine sand; structureless, single grain; nonsticky, nonplastic; nonfluid; 2 percent shell fragments; moderate sulfurous odor; no color change with 3 percent hydrogen peroxide; noneffervescent with 30 percent hydrogen peroxide; nonsaline (0.8 dS/m); moderately alkaline (pH 8.3), neutral (pH 7.2) oxidized pH; clear boundary.
+
+ Cseg4--119 to 157 centimeters; greenish gray (10Y 5/1) loamy fine sand; structureless, single grain; slightly sticky, nonplastic; slightly fluid; 2 percent shell fragments; moderate sulfurous odor; no color change with 3 percent hydrogen peroxide; noneffervescent with 30 percent hydrogen peroxide; nonsaline (0.9 dS/m); moderately alkaline (pH 8.2), slightly alkaline (pH 7.6) oxidized pH.
+
+TYPE LOCATION: Currituck County, North Carolina; Currituck Sound; approximately 4 kilometers (2.5 miles) west of the intersection of NC 12 and Seabird Way, and approximately 3.9 kilometers (2.4 miles) east of the intersection of Aydlett Road and Bayview Drive; USGS topographic quadrangle: Mossy Islands.
+
+Latitude--36.3086280
+Longitude-- -75.8555750
+Datum--WGS84
+Coordinate source--from hand-held GPS
+
+RANGE IN CHARACTERISTICS:
+Depth to bedrock--Greater than 200 centimeters
+Manner of failure / fluidity class--Nonfluid to slightly fluid 
+Shell fragments--0 to 30 percent, by volume 
+Sulfurous odor--Slight to strong throughout
+Soil reaction--Neutral to moderately alkaline throughout (pH 6.6 to 8.4)
+Oxidized reaction--Very strongly acid to strongly alkaline throughout (pH 4.5 to 9.0)
+Electrical conductivity (1:5 soil to water solution)--0.6 to 2.1 dS/m throughout
+Salinity class--Nonsaline to very slightly saline
+Total soil organic carbon stock 0 to 100 centimeters--2 to 8 kg m-2
+Total soil organic carbon stock 0 to 200 centimeters--4 to 13 kg m-2
+
+Aseg or ACseg horizon:
+Hue--2.5Y to 10Y
+Value--3 or 4
+Chroma--1 
+Texture--Fine sand or loamy fine sand
+Organic carbon density--0.2 to 7.1 kg m-3
+
+Cseg or CAseg horizons:
+Hue--5Y to 5GY, or Neutral
+Value--2.5 to 5 
+Chroma--0 or 1
+Texture--sand, fine sand, loamy fine sand, sandy loam, or their shelly or very shelly analogs
+Organic carbon density--0.2 to 7.1 kg m-3
+
+COMPETING SERIES:
+These are the Fort Caswell and Whalehead soils.
+Fort Caswell soils--are on submerged wave-cut platforms, formed in estuarine deposits, sometimes contain relict spodic horizons, and are in estuaries that have a water salinity between 15 and 30 parts per thousand.
+Whalehead soils--are on submerged wave-cut platforms and have a lithologic discontinuity.
+
+GEOGRAPHIC SETTING:
+Landscape--Barrier-island lagoons
+Landform--Relict flood-tidal delta flats and slopes, or shoals
+Parent material--Sandy lagoonal deposits with origin from marine and eolian sands
+Slope--0 to 1 percent
+Water depth range--0 to 2 meters (0 to 7 feet) below mean sea level
+Water salinity range--0.5 to 5 parts per thousand
+
+GEOGRAPHICALLY ASSOCIATED SOILS:
+These are the Kill Devil, Kitty Hawk, Lost, Trinity Harbor soils.
+Kill Devil soils--are on fluviomarine bottoms, mainland coves, and low-energy lagoon bottoms and formed in fine-loamy estuarine deposits.
+Kitty Hawk soils--are on washover fans and contain hypersulfidic materials.
+Lost soils--are on submerged tidal marshes and formed in loamy estuarine deposits.
+Trinity Harbor soils--are on high-energy lagoon bottoms and formed in coarse-loamy lagoonal deposits.
+
+DRAINAGE AND SATURATED HYDRAULIC CONDUCTIVITY:
+Drainage class--Subaqueous
+Saturated hydraulic conductivity--Moderately high to very high
+Soil moisture regime--Peraquic
+Soil is continuously inundated by brackish water. The water level is primarily driven by wind tides.
+
+USE AND VEGETATION:
+Major uses--The area is used for recreational fishing, swimming, hunting, and boating. Uses also include commercial fishing and crabbing.
+Typical vegetation--Vegetation includes widgeon grass (Ruppia maritima), sago pondweed (Stuckenia pectinata), wild celery (Vallisneria americana), southern naiad (Najas guadalupensis), stonewort (Nitella sp.), and invasive Eurasian watermilfoil (Myriophyllum spicatum). Vegetation coverage is generally greater than 50 percent.
+
+DISTRIBUTION AND EXTENT:
+General area--Coastal plain estuaries in North Carolina and Virgina
+Land Resource Regions--T - Atlantic and Gulf Coast Lowland Forest and Crop Region
+MLRA(s)--153B
+Extent--Small  
+
+SOIL SURVEY REGIONAL OFFICE (SSRO) RESPONSIBLE: Special Projects Region
+
+SERIES ESTABLISHED: Currituck County, North Carolina, 2026
+
+REMARKS:
+The series is named after the historic Pine Island Hunt Club located in Corolla, North Carolina. This location is now known as the Pine Island Audubon Sanctuary and provides critical habitat for waterfowl along the Atlantic Flyway. Pine Island soils were previously mapped as water in North Carolina and Virginia soil surveys.
+
+Diagnostic horizons and other diagnostic soil characteristics recognized in this pedon are (Keys to Soil Taxonomy, Thirteenth Edition, 2022):
+Ochric epipedon--The zone from 0 to 23 centimeters.
+Fluidity--The zone from 119 to 157 centimeters has a fluidity class of slightly fluid.
+Hyposulfidic materials--The zone from 0 to 67 centimeters has an initial pH that decreases by 1 or more units but remains at a value of 4.0 or more after 16 weeks of moist aerobic incubation.
+Peraquic feature--Zero or positive soil water potential at the soil surface (permanently submerged).
+
+NASIS User Site and Pedon ID: S2024NC053015
+_____________________________________________________________________
+National Cooperative Soil Survey
+U.S.A.

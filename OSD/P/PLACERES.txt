@@ -1,0 +1,129 @@
+LOCATION PLACERES               PR
+
+Tentative Series
+ASR/AMA
+01/2026
+
+PLACERES SERIES
+
+MLRA(s)--273
+Depth Class--Very deep
+Drainage Class--Subaqueous drainage
+Water depth range--0 to 300 centimeters
+Saturated hydraulic conductivity--Moderately high to high
+Parent Material--Loamy-skeletal estuarine deposits
+Geomorphic location--Estuarine tidal creeks and streams
+Slope--0 to 1 percent
+Mean Annual Air Temperature--26 degrees C (79 degrees F)
+Mean Annual Water Temperature--28 degrees C (82 degrees F)
+
+TAXONOMIC CLASS: Loamy-skeletal, mixed, subactive, nonacid, isohyperthermic Grossic Hydrowassents
+
+TYPICAL PEDON: Placeres extremely shelly mucky loam in estuarine tidal stream of estuary in Jobos Bay lagoon. (Colors are for moist soil unless otherwise stated).
+
+ Aseg1--0 to 18 centimeters; very dark grayish brown (10YR 3/2) extremely shelly mucky loam, 70 percent shell fragments; structureless, massive; slightly sticky, nonplastic; slightly fluid; moderate sulfurous odor; moderately alkaline (pH 8.3); slightly alkaline (pH 7.7) oxidized pH; clear boundary.
+
+ Aseg2--18 to 42 centimeters; very dark grayish brown (10YR 3/2) very shelly loam; 50 percent shell fragments; structureless, massive; slightly sticky, nonplastic; slightly fluid; slight sulfurous odor; moderately alkaline (pH 8.3); slightly alkaline (pH 7.7) oxidized pH; abrupt boundary.
+
+ Cseg1--42 to 85 centimeters; very dark gray (5Y 3/1) very shelly clay loam; 40 percent shell fragments; structureless, massive; slightly sticky, slightly plastic; moderately fluid;  slight sulfurous odor; moderately alkaline (pH 8.4); slightly alkaline (pH 7.7) oxidized pH; clear boundary.
+
+ Cseg2--85 to 139 centimeters; greenish gray (10Y 5/1) shelly silty clay loam; 30 percent shell fragments with 3 percent Halimeda calcifications); structureless, massive; slightly sticky, slightly plastic; very fluid; moderately alkaline (pH 8.4); slightly alkaline (pH 7.7) oxidized pH; clear boundary.
+
+ Cseg3--139 to 185 centimeters; greenish gray (10Y 5/1) very parashelly clay loam; 40 percent Halimeda calcifications; structureless, massive; slightly sticky, slightly plastic; slightly fluid;  moderately alkaline (pH 8.4); slightly alkaline (pH 7.7) oxidized pH.
+
+TYPE LOCATION: Salinas municipality, Puerto Rico. Las Mareas Lagoon, at Jobos Bay National Estuarine Research Reserve property. Approximately 3.8 kilometers (2.36 miles) southwest from the Jobos Bay National Estuarine Research Reserve headquarters office and approximately 2.3 kilometers (1.42 miles) northwest of Punta Colchones southernmost shore point in an estuarine tidal stream.
+
+Latitude--17.9372100
+Longitude-- -66.2524200
+Datum--WGS 84
+Coordinate source--Manually entered from GPS
+
+RANGE IN CHARACTERISTICS:
+Depth to bedrock--Greater than 200 centimeters
+Manner of Failure--Slightly fluid to very fluid throughout
+Shell fragments--greater than 35 percent by volume from 0 to 100 centimeters
+Reaction throughout--Moderately alkaline (pH 7.9 to 8.4)
+Oxidized reaction--Moderately alkaline (pH 7.9 to 8.4)
+Sulfurous odor--Slight to strong throughout, intensity decreases with depth
+Electrical conductivity (1:5 soil-water)--4.0 to 10.0 dS/m throughout
+Water Salinity--28 to 43 parts per thousand
+
+Oase horizon (where present):
+Hue--10YR, 5Y, or 10Y
+Value--2 to 3
+Chroma--1 
+Texture--muck
+von Post Humification--H7 to H10
+
+Aseg horizons:
+Hue--10YR to 10Y, or N 
+Value--2 to 4 and 8 in calcareous sands
+Chroma--0 or 2
+Texture--loam or sandy loam, with mucky and shelly to extremely shelly analogs
+
+ACseg horizon (where present):
+Color and texture similar to Aseg horizon ranges.
+
+Cseg horizon:
+Hue--5Y, 10Y, or N
+Value--3 to 5 and 8 in calcareous sands
+Chroma--0 or 2
+Texture--sandy loam, sandy clay loam, loam, clay loam, silty clay loam, or silt loam with very or extremely shelly analogs
+
+Cg horizon (where present):
+Hue--5Y or 10Y 
+Value--4 or 5
+Chroma--1
+Texture--sandy loam, sandy clay loam, loam, clay loam, silty clay loam, or silt loam with their shelly to extremely shelly analogs
+
+COMPETING SERIES: Caricoche soils are on the same family.
+Caricoche soils--occur on flood-tidal delta channels and the fragments consist of coral reef materials mixed with shells.
+
+GEOGRAPHIC SETTING:
+Parent Material--Loamy-skeletal estuarine deposits
+Landscape--Coastal lagoons in semiarid coastal plain, Puerto Rico
+Landform--Estuarine tidal creeks, streams and mainland cove (beach margins) 
+Mean Annual Air Temperature--22 to 31 degrees C (71 to 88 degrees F)
+Mean Annual Precipitation--508 to 1,145 millimeters (20 to 45 inches)
+Mean Annual Water Temperature--26 to 32 degrees C (79 to 90 degrees F)
+Water salinity range--28 to 43 parts per thousand
+
+GEOGRAPHICALLY ASSOCIATED SOILS:
+These are the Ostiones and Majaguas soils.
+Ostiones soils--do not have a skeletal control section. Ostiones soils also occur in submerged mainland beaches outside the estuarine tidal stream which are more open to the lagoon. Majaguas soils--do not have a skeletal control section. Majaguas occur on lagoon bottom landforms which are deeper in the lagoon.
+
+DRAINAGE AND SATURATED HYDRAULIC CONDUCTIVITY:
+Drainage class--Subaqueous (permanently submersed)
+Saturated hydraulic conductivity--Moderately high to high
+Soil moisture regime--Peraquic 
+Soil is continuously inundated by saline and brackish water
+
+USE AND VEGETATION:
+Major Uses--Used for wildlife habitat, recreational boating, fishing, and swimming, marinas, mooring fields, and commercial shellfish habitat.  These soils provide improved water quality and flood / storm surge water storage.
+Dominant Vegetation--Common subaquatic vegetation (SAV) species include Halofila sp.(paddle grass) and blue green algae.
+
+DISTRIBUTION AND EXTENT: 
+General area--Coastal lagoons of Southern coastal plains of Puerto Rico
+Land Resource Region--Z - Caribbean Region
+MLRA--273 - Semiarid Coastal Plains
+Extent--Small 
+
+SOIL SURVEY REGIONAL OFFICE (SSRO) RESPONSIBLE: SPECIAL PROJECTS OFFICE
+
+SERIES ESTABLISHED: Humacao Area, Puerto Rico Eastern Part (PR689); Salinas Municipality, Puerto Rico; 2024. The name is from ponds in the Mar Negro area Estuary east of Las Mareas community, where it was originally recognized.
+
+REMARKS: This subaqueous series is mapped in areas previously published as water in Puerto Rico Soil Survey publications.
+
+Diagnostic horizons and features recognized in this pedon--
+Peraquic soil moisture regime--Positive soil water potential (permanently submerged) at the soil surface. (under 0 to 2 meters of salt water).
+Ochric epipedon--the zone from 0 to 42 centimeters (0 to 17 inches).
+Oxidized pH values--the shell fragments and Halimeda materials that occur throughout this soil buffer the oxidized pH preventing potential sulfidic materials from developing
+High n-value--slightly to very fluid throughout
+Skeletal--control section horizons have more than 35 percent average shell fragments.
+
+ADDITIONAL DATA:
+OSD pedon: 2022PR123008
+Supporting pedons: 2022PR123033, 2022PR123003
+________________________________________
+National Cooperative Soil Survey
+U.S.A.

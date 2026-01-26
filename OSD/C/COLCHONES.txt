@@ -1,0 +1,115 @@
+LOCATION COLCHONES              PR
+
+Tentative Series
+ASR/AMA
+01/2026
+
+COLCHONES SERIES
+
+MLRA(s)--273
+Depth Class--Very deep
+Drainage Class--Subaqueous drainage
+Water Depth Range--0 to 300 centimeters
+Saturated hydraulic conductivity--Moderately high to high
+Parent Material--Sapric organic materials over loamy estuarine deposits 
+Geomorphic location--Mainland cove
+Slope--0 to 1 percent
+Mean Annual Air Temperature--26 degrees C (79 degrees F)
+Mean Annual Water Temperature--28 degrees C (82 degrees F)
+
+TAXONOMIC CLASS: Loamy, mixed, euic, isohyperthermic Terric Sulfiwassists
+
+TYPICAL PEDON: Colchones muck, in a mainland cove in an estuary area in Jobos Bay. (Colors are for moist soil unless otherwise stated).
+
+ Oase1--0 to 24 centimeters; black (5Y 2.5/1) muck, rubbed, 2 percent fiber content after rubbing; von Post value H8; structureless, massive; strong sulfurous odor; slightly alkaline (pH 7.8), moderately alkaline (pH 8.0) oxidized pH; clear boundary. (black ooze material)
+
+ Oase2--24 to 59 centimeters; very dark gray (5Y 3/1) muck, rubbed, 2 percent fiber content after rubbing; von Post value H7;  structureless, massive; strong sulfurous odor; moderately alkaline (pH 7.9), moderately alkaline (pH 8.0) oxidized pH ; clear boundary.
+
+ Cgse1--59 to 103 centimeters; dark gray (5Y 4/1) shelly sandy loam; 30 percent shell fragments; structureless, massive; slightly fluid; strong sulfurous odor; moderately alkaline (pH 7.9), moderately alkaline (pH 8.0) oxidized pH; clear boundary.
+
+ Cgse2--103 to 156 centimeters; olive gray (5Y 4/2) shelly loam; 30 percent shell fragments; structureless, massive; very fluid; strong sulfurous odor; moderately alkaline (pH 8.0), moderately alkaline (pH 8.0) oxidized pH; clear boundary.
+
+ Cgse3--156 to 220 centimeters; greenish gray (10Y 5/1) very parashelly sandy clay loam; 40 percent shell fragments (halimeda calcifications); structureless, massive; slightly fluid; moderately sulfurous odor; moderately alkaline (pH 8.0), moderately alkaline (pH 8.0) oxidized pH.
+
+TYPE LOCATION: Salinas municipality, Puerto Rico. Las Mareas Lagoon, at Jobos Bay National Estuarine Research Reserve property. Approximately 2.4 kilometers (1.5 miles) southwest from the Jobos Bay Reserve central building and approximately 1.3 kilometers (0.8 miles) northwest of Punta Colchones southernmost shore point. 
+
+Latitude--17.9409222
+Longitude-- -66.2385055
+Datum--WGS84
+Coordinate source--Manually entered from GPS
+
+RANGE IN CHARACTERISTICS:
+Depth to bedrock--Greater than 200 centimeters
+Depth of organic material--From 40 to 130 centimeters (16 to 51 inches)
+Reaction throughout-Slightly to moderately alkaline (pH 7.4 to 8.4)
+Oxidized reaction--Moderately alkaline (pH 7.9 to 8.4)
+Electrical conductivity- (1:5 soil-water)--4.0 to 10.0 dS/m throughout
+Sulfurous odor--Moderate to strong throughout and intensity decreases with depth
+Shell fragments--0 to 35 percent, by volume; Halimed calcifications can be higher than 35 percent in the lower Cseg horizons
+Fiber content--Unrubbed 10 to 15 percent; rubbed usually less than 5 percent throughout
+
+Oase horizons:
+Hue--10YR or 5Y
+Value--2 to 3
+Chroma--1 to 2
+Texture--muck or shelly muck
+Von Post--H7 to H9
+
+Cseg horizons:
+Hue--5Y, 2.5Y, or 10Y, 
+Value--3 to 5
+Chroma--1 to 2
+Texture--Sandy loam, loam, sandy clay loam, silt loam, or clay loam and their shelly and very shelly analogs
+Manner of Failure--sightly fluid to very fluid
+
+COMPETING SERIES: There are no other known series in the same family.
+
+GEOGRAPHIC SETTING:
+Parent Material--Sapric organic materials over loamy estuarine deposits
+Landscape--Coastal lagoons in Semiarid coastal plain, Puerto Rico
+Landform--Mainland coves 
+Mean Annual Air Temperature--22 to 31 degrees C (71 to 88 degrees F)
+Mean Annual Precipitation--508 to 1,145 millimeters (20 to 45 inches)
+Mean Annual Water Temperature--26 to 32 degrees C (79 to 90 degrees F)
+Water salinity range--28 to 42 parts per thousand 
+
+GEOGRAPHICALLY ASSOCIATED SOILS:
+These are the Majaguas, Ostiones, and Placeres soils:
+Majaguas soils--can occur in similar landscape positions (mainland coves) but typically occur further from the mangrove margin on the lagoon bottom. Some Colchones taxadjuncts may classify similar to Majaguas due to not having a thick organic material surface. 
+Ostiones soils--do not have organic horizons and occur on submerged mainland beach landforms adjacent to mainland coves.
+Placeres soils--have a skeletal control section and lack diagnostic organic horizons. Placeres occur in distinctly different estuarine tidal stream landforms and closer to the mangrove margins. 
+
+DRAINAGE AND SATURATED HYDRAULIC CONDUCTIVITY:
+Drainage class--Subaqueous (permanently submerged)
+Saturated hydraulic conductivity--Moderately high to high
+Soil moisture regime--Peraquic
+Soil is continuously inundated by saline and brackish water
+
+USE AND VEGETATION:
+Major Uses-- Used for wildlife habitat, recreational boating, fishing, swimming, marinas, mooring fields, and commercial shellfish habitat.  These soils provide improved water quality and flood / storm surge water storage. Dominant Vegetation--subaquatic vegetation is dominated by blue-green algae.
+
+DISTRIBUTION AND EXTENT: 
+General area--Coastal lagoons of Southern coastal plains of Puerto Rico
+Land Resource Region--Z - Caribbean Region
+MLRA--273 - Semiarid Coastal Plains
+Extent--Small
+
+SOIL SURVEY REGIONAL OFFICE (SSRO) RESPONSIBLE: SPECIAL PROJECTS OFFICE
+
+SERIES ESTABLISHED: Humacao Area, Puerto Rico Eastern Part (PR689); Salinas Municipality, Puerto Rico; 2025. The name is from Punta Colchones in Mar Negro area Estuary east of Las Mareas community, where it was originally recognized.
+
+REMARKS: This subaqueous series is mapped in areas previously published as water in Puerto Rico Soil Survey publications.
+
+Diagnostic horizons and features recognized in this pedon--
+Sapric soil materials--the zone 0 to 59 centimeters (0 to 23 inches).
+Hyposulfidic soil materials--0 to 220 centimeters (0 to 87 inches)
+Peraquic soil moisture regime--Positive soil water potential (permanently submerged) at the soil surface. (under 0 to 2 meters of salt water)
+Oxidized pH values--the shell fragments and Halimeda materials that occur throughout this soil buffer the oxidized pH even as sulfidic materials are likely present.
+High n-value--slightly to very fluid throughout the mineral portion of soil series.
+
+ADDITIONAL DATA:
+OSD pedon: 2023PR123311
+Supporting pedons: 2022PR123009, 2022PR123002
+________________________________________
+National Cooperative Soil Survey
+U.S.A.
