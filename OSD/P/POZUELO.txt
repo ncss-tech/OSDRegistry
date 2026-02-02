@@ -1,0 +1,125 @@
+LOCATION POZUELO                PR
+
+Tentative Series
+ASR/AMA
+01/2026
+
+POZUELO SERIES
+
+MLRA(s)--273
+Depth Class--Very deep
+Drainage Class--Subaqueous drainage
+Water depth range--0 to 400 centimeters
+Saturated hydraulic conductivity--Moderately low
+Parent Material--Fine estuarine deposits
+Geomorphic location--Mainland coves 
+Slope--0 to 1 percent
+Mean Annual Air Temperature--26 degrees C (79 degrees F)
+Mean Annual Water Temperature--28 degrees C (82 degrees F)
+
+TAXONOMIC CLASS: Fine, mixed, subactive, nonacid, isohyperthermic Grossic Hydrowassents
+
+TYPICAL PEDON: Pozuelo silt loam in a mainland cove in Jobos Bay main lagoon (Colors are for moist soil unless otherwise stated).
+
+ Aseg--0 to 15 centimeters; very dark greenish gray (10Y 3/1), silt loam; 5 percent shell fragments; structureless, massive; moderately sticky, moderately plastic; very fluid; moderately alkaline (pH 8.4), moderately alkaline (pH 8.0) oxidized pH; clear boundary.
+
+ Cseg1--15 to 39 centimeters; dark greenish gray (10GY 4/1), silty clay; structureless, massive; very sticky, moderately plastic; moderately fluid; moderately alkaline (pH 8.4), moderately alkaline (pH 8.0) oxidized pH; clear boundary.
+
+ Cseg2--39 to 85 centimeters; very dark greenish gray (10Y 3/1), silty clay loam; structureless, massive; moderately sticky, moderately plastic; very fluid;  moderately alkaline (pH 8.4), moderately alkaline (pH 8.0) oxidized pH; clear boundary.
+
+ Cseg3--85 to 126 centimeters; very dark greenish gray (10Y 3/1), silty clay; structureless, massive; very sticky, moderately plastic; moderately fluid; slight sulfurous odor; moderately alkaline (pH 8.4), moderately alkaline (pH 8.0) oxidized pH; diffuse boundary.
+
+ Cseg4--126 to 190 centimeters; very dark greenish gray (10Y 3/1), silty clay; structureless, massive; moderately sticky, moderately plastic; moderately fluid; moderately alkaline (pH 8.4), moderately alkaline (pH 8.0) oxidized pH.
+
+TYPE LOCATION: Guayama municipality, Puerto Rico. Las Mareas Lagoon, at Jobos Bay National Estuarine Research Reserve property. Approximately 3.4 kilometers (2.1 miles) southeast from the Jobos Bay Reserve headquarters office building and approximately 3.75 kilometers (2.3 miles) northeast of Cayo Caribe southernmost shore point. 
+
+Latitude--17.9475850  
+Longitude-- -66.1920680 
+Datum--WGS84
+Coordinate source--Manually entered from GPS
+
+RANGE IN CHARACTERISTICS:
+Depth to bedrock--Greater than 200 centimeters
+Depth of organic material (where present)--0 to 27 centimeters 
+Manner of failure--Slightly to very fluid throughout 
+Shell fragments--0 to 35 percent or less by volume from 0 to 100 centimeters Reaction throughout--Moderately to strongly alkaline (pH 7.9 to 9.0)
+Oxidized reaction--Moderately to strongly alkaline (pH 7.9 to 9.0)
+Sulfurous odor--None to strong throughout and intensity decreases with depth
+Electrical conductivity (1:5 soil-water)--4.0 to 10.0 dS/m throughout
+
+Oase horizon (where present):
+Hue--10Y or N 
+Value--2.5 
+Chroma--0 to 1 
+Texture--muck
+von Post Humification--H7 to H10
+
+Aseg horizon:
+Hue--10, 10Y, 5Y, or N
+Value--2.5 to 4 
+Chroma--0 to 1
+Texture--loam, silt loam, silty clay loam, silt loam, or silty clay with their mucky analogs
+
+Cseg horizons:
+Hue--5Y, 10Y, 5GY, 10GY, N
+Value--2.5 to 4
+Chroma--0 to 1 
+Texture--silty clay, silty clay loam, clay
+
+Cg horizon (where present):
+Hue--10Y
+Value--4
+Chroma--1
+Texture--sandy clay
+
+COMPETING SERIES: There are no competing series in the same family.
+
+GEOGRAPHIC SETTING:
+Parent Material--Fine estuarine deposits
+Landscape--Coastal lagoons in semiarid coastal plain, Puerto Rico
+Landform--Mainland coves
+Mean Annual Air Temperature--22 to 31 degrees C (72 to 88 degrees F)
+Mean Annual Precipitation--508 to 1,145 millimeters (20 to 45 inches)
+Mean Annual Water Temperature--26 to 32 degrees C (79 to 90 degrees F)
+Water salinity range--28 to 43 parts per thousand
+
+GEOGRAPHICALLY ASSOCIATED SOILS:
+These are the Majaguas, Ostiones, and Placeres soils.
+Majaguas soils--are in the lower lagoon bottom further from the mangrove margin and has a fine-loamy control section.
+Ostiones soils--occur on slightly higher submerged mainland beaches and have coarser textured horizons
+Placeres soils--have a skeletal control section and occur in estuarine tidal creeks and streams close to the mangrove margin where more clams and mussels provide shells for the substrate.
+
+DRAINAGE AND SATURATED HYDRAULIC CONDUCTIVITY:
+Drainage class--Subaqueous (permanently submersed) 
+Saturated hydraulic conductivity--Moderately low
+Soil moisture regime--Peraquic 
+Soil is continuously inundated by saline and brackish water
+
+USE AND VEGETATION:
+Major Uses--Used for wildlife habitat, recreational boating, fishing, swimming, marinas, mooring fields, and commercial shellfish habitat.  These soils provide improved water quality and flood / storm surge water storage.
+Dominant Vegetation--Turtle grass (Thalasia testudinum) and paddle grass (Halofila decipiens).
+
+DISTRIBUTION AND EXTENT: 
+General area--Coastal lagoons along the southern coastal plain of Puerto Rico.
+Land Resource Region--Z - Caribbean Region
+MLRA--273 - Semiarid Coastal Plains
+Extent--Small
+
+SOIL SURVEY REGIONAL OFFICE (SSRO) RESPONSIBLE: Special Projects Office
+
+SERIES ESTABLISHED: Humacao Area, Puerto Rico Eastern Part (PR689); Guayama Municipality, Puerto Rico; 2024. The name is from the Pozuelo peninsula in Guayama which borders a great part of the Jobos Bay lagoon, where it was originally recognized. The word Pozuelo can be translated as a small water hole used to collect water.
+
+REMARKS: This subaqueous series is mapped in areas previously published as water in Puerto Rico Soil Survey publications.
+
+Diagnostic horizons and features recognized in this pedon--
+Peraquic soil moisture regime--Positive soil water potential (permanently submerged) at the soil surface. (under 0 to 4 meters of salt water)
+Ocrhic epipedon--the zone 0 to 15 centimeters (0 to 6 inches).
+Oxidized pH values--the shell fragments and Halimeda materials that occur throughout this soil buffer the oxidized pH preventing potential sulfidic materials from developing
+High n-value--slightly to very fluid throughout
+
+ADDITIONAL DATA:
+OSD pedon: 2024PR057701
+Supporting pedons: 2024PR057416, 2024PR057417
+_____________________________________________________________________
+National Cooperative Soil Survey
+U.S.A.
