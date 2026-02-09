@@ -1,0 +1,113 @@
+LOCATION TRINITY HARBOR         NC+VA
+
+Tentative Series
+JDK-RBT
+02/2026
+
+TRINITY HARBOR SERIES
+
+MLRA(s)--153B
+Depth class--Very deep
+Drainage class--Subaqueous
+Water depth range--1 to 3 meters (3 to 10 feet)
+Parent material--Coarse-loamy lagoonal deposits
+Geomorphic location--Lagoon bottoms
+Slope range--0 to 1 percent
+Mean annual air temperature--17 degrees C (63 degrees F)
+Mean annual water temperature--15 degrees C (59 degrees F)
+
+TAXONOMIC CLASS: Coarse-loamy, mixed, active, nonacid, thermic Typic Fluviwassents
+
+TYPICAL PEDON: Trinity Harbor fine sand in a lagoon bottom under 2.2 meters of brackish water (colors are for moist soil unless otherwise stated; electrical conductivity is 1:5 by volume solution mixture unless otherwise stated).
+
+ Cseg1--0 to 38 centimeters; greenish black (10Y 2.5/1) fine sand; structureless, single grain; nonsticky, nonplastic; nonfluid; few fine roots throughout; slight sulfurous odor; color change with 3 percent hydrogen peroxide; slight effervescence with 30 percent hydrogen peroxide; nonsaline (0.6 dS/m); slightly alkaline (pH 7.7), very strongly acid (pH 4.8) oxidized pH; clear boundary.
+
+ Cseg2--38 to 109 centimeters; very dark gray (N 3/) fine sandy loam; structureless, massive; slightly sticky, slightly plastic; moderately fluid; 10 percent shell fragments; slight sulfurous odor; no color change with 3 percent hydrogen peroxide; slight effervescence with 30 percent hydrogen peroxide; nonsaline (0.8 dS/m); moderately alkaline (pH 8.1), slightly alkaline (pH 7.6) oxidized pH; gradual boundary.
+
+ Cseg3--109 to 140 centimeters; very dark gray (N 3/) sand; structureless, single grain; nonsticky, nonplastic; nonfluid; moderate sulfurous odor; no color change with 3 percent hydrogen peroxide; slight effervescence with 30 percent hydrogen peroxide; nonsaline (1.2 dS/m); moderately alkaline (pH 8.3), moderately alkaline (pH 8.4) oxidized pH; clear boundary.
+
+ Cseg4--140 to 200 centimeters; dark gray (N 4/) sand; structureless, single grain; nonsticky, nonplastic; nonfluid; slight sulfurous odor; no color change with 3 percent hydrogen peroxide; slight effervescence with 30 percent hydrogen peroxide; nonsaline (1.1 dS/m); strongly alkaline (pH 8.7), moderately alkaline (pH 8.4) oxidized pH.
+
+TYPE LOCATION: Currituck County, North Carolina; Currituck Sound; approximately 5.2 kilometers (3.2 miles) east of the intersection of Waterlily Road and Never Sail Way, and approximately 3.6 kilometers (2.3 miles) northwest of the intersection of NC-12 and Lakeside Drive; USGS topographic quadrangle: Corolla.
+
+Latitude--36.4067560
+Longitude-- -75.8642480
+Datum--WGS84
+Coordinate source--from hand-held GPS
+
+RANGE IN CHARACTERISTICS:
+Depth to bedrock--Greater than 200 centimeters
+Manner of failure / fluidity class--Nonfluid to very fluid 
+Shell fragments--0 to 30 percent, by volume 
+Sulfurous odor--Slight to strong throughout
+Soil reaction--Neutral to strongly alkaline throughout (pH 6.6 to 9.0)
+Oxidized reaction--Ultra acid to very strongly alkaline throughout (pH < 3.5 to > 9.0)
+Depth to hypersulfidic / sulfidic materials (oxidized pH 4.0)--Greater than 100 centimeters
+Electrical conductivity (1:5 soil to water solution)--0.6 to 2.1 dS/m throughout profile 
+Salinity class--Nonsaline to very slightly saline
+Total soil organic carbon stock 0 to 100 centimeters--4 to 15 kg m-2
+Total soil organic carbon stock 0 to 200 centimeters--5 to 25 kg m-2
+
+Aseg or ACseg horizons (where present):
+Hue--5Y or 10Y
+Value--2.5 to 4
+Chroma--1 or 2
+Texture--Sand, fine sand, fine sandy loam, silt loam, or their shelly or very shelly analogs
+Organic carbon density--0.2 to 27 kg m-3
+
+Cseg or CAseg horizons:
+Hue--5Y to 5GY, or Neutral
+Value--3 to 5
+Chroma--0 to 3
+Texture--Sand, fine sand, loamy fine sand, sandy loam, fine sandy loam, very fine sandy loam, loam, silt loam, or their shelly or very shelly analogs
+Organic carbon density--0.2 to 27 kg m-3
+
+COMPETING SERIES:
+There are no competing series in the same family.
+
+GEOGRAPHIC SETTING:
+Landscape--Barrier island lagoons
+Landform--High-energy lagoon bottoms
+Parent material--Coarse-loamy lagoonal deposits
+Slope--0 to 1 percent
+Water depth range--1 to 3 meters (3 to 10 feet) below mean sea level
+Water salinity range--0.5 to 5 parts per thousand
+
+GEOGRAPHICALLY ASSOCIATED SOILS:
+These are the Kill Devil, Kitty Hawk, and Pine Island soils.
+Kill Devil soils--are on lower energy areas of the landform and have a fine-loamy particle size class.
+Kitty Hawk soils--are on washover-fans and contain hypersulfidic materials.
+Pine Island soils--are on relict flood-tidal deltas and formed in sandy lagoonal deposits.
+
+DRAINAGE AND SATURATED HYDRAULIC CONDUCTIVITY:
+Drainage class--Subaqueous
+Saturated hydraulic conductivity--Moderately high to high
+Soil moisture regime--Peraquic
+Soil is continuously inundated by brackish water. The water level is primarily driven by wind tides.
+
+USE AND VEGETATION:
+Major uses--The area is used for recreational fishing, swimming, hunting, and boating. Uses also include commercial fishing and crabbing.
+Typical vegetation--Vegetation is less abundant as Trinity Harbor soils occur in deeper water where sunlight is scarce. Where water depths are shallower, widgeon grass (Ruppia maritima), sago pondweed (Stuckenia pectinata), and Eurasian milfoil (Myriophyllum spicatum) may be present.
+
+DISTRIBUTION AND EXTENT:
+General area--Coastal plain estuaries in North Carolina and Virgina
+Land Resource Regions--T - Atlantic and Gulf Coast Lowland Forest and Crop Region
+MLRA(s)--153B
+Extent--Small  
+
+SOIL SURVEY REGIONAL OFFICE (SSRO) RESPONSIBLE: Special Projects Region
+
+SERIES ESTABLISHED: Currituck County, North Carolina, 2026
+
+REMARKS:
+The series is named after the Trinity Harbor inlet, which was open in the 16th and 17th centuries. It appears on historic maps, including the White and De Bry map of 1590. Trinity Harbor soils were previously mapped as water in North Carolina and Virginia soil surveys.
+
+Diagnostic horizons and other diagnostic soil characteristics recognized in this pedon are (Keys to Soil Taxonomy, Thirteenth Edition, 2022):
+Hyposulfidic materials--The zone from 0 to 38 centimeters has an initial pH that decreases by 1 or more units but remains at a value of 4.0 or more after 16 weeks of moist aerobic incubation.
+Fluidity--The zone from 38 to 109 centimeters has a fluidity class of moderately fluid.
+Peraquic feature--Zero or positive soil water potential at the soil surface (permanently submerged).
+
+NASIS User Site and Pedon ID: S2024NC053020
+____________________________________________________________________________
+National Cooperative Soil Survey
+U.S.A.

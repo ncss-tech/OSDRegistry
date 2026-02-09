@@ -2,7 +2,7 @@ LOCATION BUSH RIVER             SC+GA
 
 Established Series
 HEH-MLB/Rev. DTA
-01/2026
+02/2026
 
 BUSH RIVER SERIES
 
@@ -98,7 +98,7 @@ COMPETING SERIES:
 Prosperity soils--have a depth to soft bedrock of 51 to 102 centimeters (20 to 40 inches)
 Helena soils--have a depth to soft bedrock of more than 152 centimeters (60 inches)
 Creedmoor soils--formed in Triassic sediments and have a depth to soft bedrock of more than 152 centimeters (60 inches)
-Dogue soils--formed in alluvial sediments and have a depth to soft bedrock of more than 152 centimeters (60 inches)
+Dorian soils--formed in alluvial sediments and have a depth to soft bedrock of more than 152 centimeters (60 inches)
 Lignum soils--formed in Carolina slate or other fine-grained metamorphic rocks
 Cid soils--formed in Carolina slate or other fine-grained metamorphic rocks and have a depth to soft bedrock of 51 to 102 centimeters (20 to 40 inches)
 
@@ -114,8 +114,8 @@ GEOGRAPHICALLY ASSOCIATED SOILS:
 Hard Labor soils--are oxyaquic and have a depth to bedrock of more than 152 centimeters (60 inches) and are intermingled in some areas
 Cecil soils--are well drained, have a dominant red color in the subsoil, and have a depth to bedrock of more than 152 centimeters (60 inches)
 Pacolet soils--are well drained, have a dominant red color in the subsoil, and have a depth to bedrock of more than 152 centimeters (60 inches)
-Rion soils--are well drained, have a fine loamy particle size class, and have a depth to bedrock of more than 152 centimeters (60 inches)
-Santuc soils--have a fine-loamy particle size class and a depth to bedrock of more than 60 inches
+Rion soils--are well drained, fine loamy, and have a depth to bedrock of more than 152 centimeters (60 inches)
+Santuc soils--are fine-loamy and have a depth to bedrock of more than 152 centimeters (60 inches)
 Winnsboro soils--are well drained and formed from weathered dark colored basic rocks with a base saturation of greater than 35 percent above the contact
 Wynott soils--are well drained, have a depth to paralithic contact of 51 to 102 centimeters (20 to 40 inches), and formed from weathered dark colored basic rocks with a base saturation of greater than 35 percent above the contact
 
@@ -136,7 +136,7 @@ Extent: Small
 
 SERIES ESTABLISHED: Newberry County, South Carolina, 2005
 
-REMARKS: Bush River soils were previously included in mapping with Helena soils. Helena soils have a depth to soft bedrock of greater than 152 centimeters (60 inches). The March 2009 version increases the slope to 25%-DTA.  The January 2026 revision updated the format.  No data was changed.
+REMARKS: Bush River soils were previously included in mapping with Helena soils. Helena soils have a depth to soft bedrock of greater than 152 centimeters (60 inches). The August 1991 revision of Helena changed depth to bedrock from "more than (123 to more than 152 centimeters) 48 inches to more than 60 inches" to be consistent with one depth to bedrock class as shown on the Soil Interpretation Records. The March 2009 version increases the slope to 25%-DTA.  The February 2026 revision updated the format.  No data was changed.
 
 Diagnostic horizons and soil characteristics recognized in this pedon are:
 Ochric epipedon--the zone from 0 to 25 centimeters (0 to 10 inches) (A and E horizon)
