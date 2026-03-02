@@ -1,0 +1,139 @@
+LOCATION WIMICO                 FL
+
+Tentative Series
+ARW
+02/2026
+
+WIMICO SERIES
+
+MLRA(s)--152A
+Depth class--Very deep
+Drainage class--Subaqueous
+Water depth range--0 to 3 meters (0 to 10 feet)
+Parent material--Fine-loamy lacustrine deposits
+Geomorphic location--Lakebeds and submerged lake terraces
+Slope range--0 to 1 percent
+Mean annual air temperature--21 degrees C (70 degrees F)
+Mean annual water temperature--21 degrees C (70 degrees F)
+
+TAXONOMIC CLASS: Fine-loamy, mixed, active, nonacid, hyperthermic Humic Fluic Frasiwassents
+
+TYPICAL PEDON: Wimico clay loam on a lakebed under 2.4 meters of freshwater (colors are for moist soil unless otherwise stated; electrical conductivity is 1:5 by volume solution mixture unless otherwise stated).
+
+ Aseg--0 to 15 centimeters; black (N 2.5/) clay loam; massive; moderately sticky, nonplastic; very fluid; 10 percent shell fragments; few very fine roots throughout; slight sulfurous odor; color change with 3 percent hydrogen peroxide; strong effervescence with 30 percent hydrogen peroxide; nonsaline (0.5 dS/m); moderately alkaline (pH 7.9), extremely acid (pH 4.0) oxidized pH; abrupt boundary (5 to 40 centimeters thick)
+
+ Cseg1--15 to 73 centimeters; 50 percent very dark grayish brown (10YR 3/2) and 45 percent very dark grayish brown (2.5Y 3/2) and 5 percent gray (10YR 6/1) loam; massive; moderately sticky, nonplastic; very fluid; few very fine roots throughout; no sulfurous odor; no color change with 3 percent hydrogen peroxide; strong effervescence with 30 percent hydrogen peroxide; nonsaline (0.5 dS/m); slightly alkaline (pH 7.8), ultra acid (pH 3.2) oxidized pH; clear boundary
+
+ Cseg2--73 to 111 centimeters; 50 percent very dark grayish brown (2.5Y 3/2) and 50 percent dark olive gray (5Y 3/2) clay loam; massive; slightly sticky, nonplastic; very fluid; few very fine roots throughout; no sulfurous odor; no color change with 3 percent hydrogen peroxide; moderate effervescence with 30 percent hydrogen peroxide; nonsaline (0.4 dS/m); neutral (pH 7.2), ultra acid (pH 3.2) oxidized pH; abrupt boundary
+
+ Cseg3--111 to 159 centimeters; 70 percent very dark grayish brown (10YR 3/2) and 30 percent very dark brown (10YR 2/2) loam; massive; slightly sticky, nonplastic; very fluid; few very fine roots throughout; no sulfurous odor; no color change with 3 percent hydrogen peroxide; slight effervescence with 30 percent hydrogen peroxide; nonsaline (0.3 dS/m); slightly alkaline (pH 7.4), ultra acid (pH 2.8) oxidized pH; clear boundary (140 to 175 centimeters combined thickness of Cseg horizons)
+
+ 2Oaseb--159 to 173 centimeters; 90 percent black (10YR 2/1) and 10 percent very dark brown (10YR 2/2) muck; 15 percent fibers, 0 percent rubbed; von Post H7; no sulfurous odor; no color change with 3 percent hydrogen peroxide; slight effervescence with 30 percent hydrogen peroxide; nonsaline (0.2 dS/m); neutral (pH 7.3); ultra acid (pH 3.0) oxidized pH; clear boundary (15 to 55 centimeters thick)
+
+ 2Cseg--173 to 205 centimeters; dark gray (10YR 4/1) loam; massive; moderately sticky, slightly plastic; very fluid; no sulfurous odor; no color change with 3 percent hydrogen peroxide; moderate effervescence with 30 percent hydrogen peroxide; nonsaline (0.2 dS/m); slightly alkaline (7.8 pH); ultra acid (pH 3.0) oxidized 
+
+TYPE LOCATION: Gulf County, Florida; Lake Wimico; approximately 1.1 kilometers (0.7 miles) southwest by south of the mouth of Cypress Creek and approximately 2.4 kilometers (1.5 miles) east by southeast of the confluence of Searcy Creek and the Intracoastal Waterway and 3.0 kilometers (1.9 miles) north of the mouth of Depot Creek; USGS topographic quadrangle: Lake Wimico, FL.
+
+Latitude--29.816640
+Longitude-- -85.152870
+Datum--WGS84
+Coordinate source--from hand-held GPS
+
+RANGE IN CHARACTERISTICS:
+Depth to bedrock--Greater than 200 centimeters
+Manner of failure--Very fluid throughout all mineral horizons
+Sulfurous odor--None to slight throughout
+Soil reaction--Slightly acid to moderately alkaline throughout profile (pH 6.1 to 7.9)
+Oxidized reaction--Ultra acid to very strongly acid throughout profile (pH < 3.5 to 5.0)
+Depth to hypersulfidic materials (oxidized pH 4.0)--0 to 200 centimeters
+Electrical conductivity (1:5 soil to water solution)--Less than 0.6 dS m-1 throughout profile
+Particle-size control section (weighted average):
+Shell fragments--0 to 10 percent, by volume
+Wood fragments--0 to 10 percent, by volume
+Sand--15 to 60 percent
+Clay--18 to 35 percent
+Total soil organic carbon stock 0 to 100 centimeters--15 to 22 kg m-2
+Total soil organic carbon stock 0 to 200 centimeters--25 to 50 kg m-2
+
+Aseg or ACseg horizon:
+Hue--2.5Y, 5Y, or N
+Value--2.5
+Chroma--0 to 2
+Texture--silt loam, loam, clay loam, or clay or their mucky analogs
+Organic carbon density--10 to 18 kg m-3
+
+Cseg horizons:
+Hue--10YR, 2.5Y, 5Y, 10Y, or N
+Value--2 to 6
+Chroma--0 to 2
+Texture--silt loam, silty clay loam, loam, fine sandy loam, sandy clay loam, and clay loam or their mucky analogs 
+Organic carbon density--8 to 22 kg m-3
+
+2Oaseb horizon (where present):
+Hue--10YR or 2.5Y
+Value--2 or 2.5
+Chroma--1 or 2
+Texture--Muck
+von Post--H7 to H9
+Organic carbon density--35 to 65 kg m-3
+
+2Cseg horizon (where present):
+Hue--10YR to 10Y
+Value--4 to 6
+Chroma--1 or 2
+Texture--loam or silt loam
+Organic carbon density--5 to 15 kg m-3
+
+COMPETING SERIES:
+There are no competing series in the same family.
+
+GEOGRAPHIC SETTING:
+Landscape--Coastal Plain
+Landform--Freshwater lakes; tidal or nontidal
+Parent material--Fine-loamy lacustrine deposits
+Slope--0 to 1 percent
+Water depth range--0 to 3 meters (0 to 10 feet) below mean sea level
+Water salinity range--0.5 to 5 parts per thousand
+Water temperature range--15 to 25 degrees C (59 to 77 degrees F)
+Soil temperature range--18 to 24 degrees C (63 to 75 degrees F)
+
+GEOGRAPHICALLY ASSOCIATED SOILS:
+These are the Blueway soils.
+Blueway soils--Are on freshwater estuarine tidal streams and fluviomarine bottoms and do not have a color value, moist, of 3 or less and a color value, dry, of 5 or less in their surface horizons.
+
+DRAINAGE AND SATURATED HYDRAULIC CONDUCTIVITY:
+Drainage class--Subaqueous
+Saturated hydraulic conductivity--Moderately low to moderately high
+Soil moisture regime--Peraquic
+Soil is continuously inundated by freshwater and occasionally brackish water in times of drought. 
+
+USE AND VEGETATION:
+Major uses--The area is used for recreational fishing and hunting. Wimico soils provide critical juvenile habitat for fish like striped bass (Morone saxatilis) and red drum (Sciaenops ocellatus).
+Typical vegetation--Sub-aquatic vegetation is extensive and dense. Coontail (Ceratophyllum demersum), Southern naiad (Najas guadalupensis), Bladderworts (Utricularia spp.), Watermilfoil (Myriophyllum spp.), and Pondweeds (Potamogeton spp.) are present in healthy waters. Significant stands of invasive Hydrilla (Hydrilla verticillata) can also be present in these soils and impede desired use. 
+
+DISTRIBUTION AND EXTENT:
+General area--Tidal and nontidal freshwater lakes along the Gulf Coast
+Land Resource Regions--T - Atlantic and Gulf Coast Lowland Forest and Crop Region
+MLRA(s)--152A
+Extent--Small  
+
+SOIL SURVEY REGIONAL OFFICE (SSRO) RESPONSIBLE: Special Projects Office
+
+SERIES ESTABLISHED: Gulf County, Florida, 2026
+
+REMARKS:
+Typical Pedon Taxonomic Features:
+Ochric epipedon--The zone from 0 to 15 centimeters.
+Hypersulfidic materials--The zone from 0 to 205 centimeters has a pH of 4.0 or less after 16 weeks of moist aerobic incubation.
+Fluidity--The zone from 0 to 159 and 173 to 205 centimeters has a fluidity class of moderately fluid to very fluid.
+Sapric soil materials--The zone from 159 to 173 centimeters has a fiber content after rubbing that is less than one-sixth of the original soil volume.
+Lithologic discontinuity--At a depth of 159 centimeters.
+Peraquic feature--Zero or positive soil water potential at the soil surface (permanently submerged).
+Soil temperature regime--Wimico and Blueway soils straddle the boundary between both thermic and hyperthermic temperature regimes.  Both soils would be best interpreted as hyperthermic soils, aligning with the nearby and neighboring landscapes and soils (soil correlation decision Special Projects 2026).
+Taxonomic Version: Keys to Soil Taxonomy, Thirteenth Edition, 2022. A new taxonomic subgroup could be added to the keys as this soil contains hypersulfidic soil materials.
+Other: Named after Lake Wimico, Florida where it was first observed. Wimico soils were previously mapped as water in Florida soil surveys.
+
+NASIS User Site and Pedon ID: S2024FL045001
+____________________________________________________________________________
+National Cooperative Soil Survey
+U.S.A.

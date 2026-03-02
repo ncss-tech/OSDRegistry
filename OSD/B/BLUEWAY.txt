@@ -1,0 +1,122 @@
+LOCATION BLUEWAY                FL
+
+Tentative Series
+ARW
+02/2026
+
+BLUEWAY SERIES
+
+MLRA(s)--152A
+Depth class--Very deep
+Drainage class--Subaqueous
+Water depth range--0 to 3 meters (0 to 10 feet)
+Parent material--Fine-loamy estuarine deposits
+Geomorphic location--Estuarine tidal streams and fluviomarine bottoms
+Slope range--0 to 5 percent
+Mean annual air temperature--21 degrees C (70 degrees F)
+Mean annual water temperature--21 degrees C (70 degrees F)
+
+TAXONOMIC CLASS: Fine-loamy, mixed, active, nonacid, hyperthermic Fluic Frasiwassents
+
+TYPICAL PEDON: Blueway clay loam on a fluviomarine bottom under 2.2 meters of freshwater (colors are for moist soil unless otherwise stated; electrical conductivity is 1:5 by volume solution mixture unless otherwise stated).
+
+ Cseg1--0 to 26 centimeters; dark gray (5Y 4/1) clay loam; massive; moderately sticky, moderately plastic; very fluid; few fine roots throughout; 5 percent very fine mixed mica flakes throughout; no sulfurous odor; color change with 3 percent hydrogen peroxide; strong effervescence with 30 percent hydrogen peroxide; leaf litter across soil surface; nonsaline (0.2 dS/m); neutral (pH 6.8), slightly acid (pH 6.4) oxidized pH; clear boundary
+
+ Cseg2--26 to 76 centimeters; dark gray (5Y 4/1) fine sandy loam; massive; moderately sticky, moderately plastic; very fluid; few very fine roots throughout; 5 percent very fine mixed mica flakes throughout; 1 percent shell fragments; 5 percent wood fragments; no sulfurous odor; color change with 3 percent hydrogen peroxide; moderate effervescence with 30 percent hydrogen peroxide; nonsaline (0.2 dS/m); neutral (pH 6.7), slightly acid (pH 6.3) oxidized pH; gradual boundary
+
+ Cseg3--76 to 118 centimeters; dark gray (5Y 4/1) fine sandy loam; massive; moderately sticky, moderately plastic; moderately fluid; 30 percent very fine mixed mica flakes throughout; 3 percent wood fragments; 3 percent shell fragments; no sulfurous odor; no color change with 3 percent hydrogen peroxide; strong effervescence with 30 percent hydrogen peroxide; 5 percent herbaceous plant fibers; nonsaline (0.1 dS/m); neutral (pH 6.7), neutral (pH 6.8) oxidized pH; abrupt boundary
+
+ Cseg4--118 to 162 centimeters; greenish gray (10Y 6/1) fine sand; single grain; nonsticky, nonplastic; nonfluid; 30 percent very fine mixed mica flakes throughout; 8 percent shell fragments; no sulfurous odor; no color change with 3 percent hydrogen peroxide; moderate effervescence with 30 percent hydrogen peroxide; nonsaline (0.1 dS/m); neutral (pH 7.1), neutral (pH 6.7) oxidized pH; abrupt boundary
+
+ Cseg5--162 to 195 centimeters; olive gray (5Y 5/2) stratified fine sandy loam to clay loam; massive; nonsticky, nonplastic; nonfluid; 30 percent very fine mixed mica flakes throughout; 1 percent wood fragments; 1 percent shell fragments; no sulfurous odor; no color change with 3 percent hydrogen peroxide; strong effervescence with 30 percent hydrogen peroxide; nonsaline (0.1 dS/m); neutral (pH 6.7), neutral (pH 7.0) oxidized pH; clear boundary
+
+ Cseg6--195 to 219 centimeters; grayish brown (10YR 5/2) stratified fine sandy loam to clay loam; massive; very sticky, very plastic; moderately fluid; 30 percent very fine mixed mica flakes throughout; no sulfurous odor; no color change with 3 percent hydrogen peroxide; strong effervescence with 30 percent hydrogen peroxide; nonsaline (0.1 dS/m); neutral (pH 6.8), neutral (pH 7.2) oxidized pH
+
+TYPE LOCATION: Franklin County, Florida; Apalachicola River; approximately 0.4 kilometers (0.2 miles) west by northwest of the divergence of the Apalachicola and St. Marks Rivers, approximately 1.0 kilometer (0.6 miles) east by southeast of the northern terminus of Johnson Slough, and 2.3 kilometers (1.4 miles) south by southeast of the confluence of the Brothers and Apalachicola Rivers; USGS topographic quadrangle: Jackson River, FL.
+
+Latitude--29.825293
+Longitude-- -85.024067
+Datum--WGS84
+Coordinate source--from hand-held GPS
+
+RANGE IN CHARACTERISTICS:
+Depth to bedrock--Greater than 200 centimeters
+Fluidity class--moderately fluid or very fluid in all horizons between 20 and 50 centimeters
+Mica flakes--2 to 30 percent, by volume
+Sulfurous odor--None throughout
+Soil reaction--Slightly acid to neutral throughout profile (pH 6.1 to 7.3)
+Oxidized reaction--Very strongly acid to neutral throughout profile (pH 4.5 to 7.3)
+Electrical conductivity (1:5 soil to water solution)--Less than 0.6 dS/m  throughout profile
+Particle-size control section (weighted average):
+Shell fragments--0 to 10 percent, by volume
+Wood fragments--0 to 20 percent, by volume
+Sand--25 to 80 percent
+Clay--18 to 35 percent
+Total soil organic carbon stock 0 to 100 centimeters--15 to 30 kg m-2
+Total soil organic carbon stock 0 to 200 centimeters--25 to 60 kg m-2
+
+Cseg horizons:
+Hue--10YR, 2.5Y, 5Y, or N
+Value--2.5 to 6
+Chroma--0 to 2
+Texture--clay, sandy clay, sandy clay loam, clay loam, fine sandy loam, loamy fine sand, or fine sand or their mucky analogs
+Organic carbon density--2 to 30 kg m-3
+
+Oaseb horizon (where present and below 50 centimeters):
+Hue--7.5YR or 10YR
+Value--2 or 2.5
+Chroma--1 or 2
+Texture--Muck
+von Post-H7 to H9
+Organic carbon density--25 to 50 kg m-3
+
+COMPETING SERIES:
+There are no competing series in the same family.
+
+GEOGRAPHIC SETTING:
+Landscape--Coastal Plain
+Landform--Freshwater fluviomarine bottoms and estuarine tidal streams
+Parent material--Fine-loamy estuarine deposits
+Slope--0 to 5 percent
+Water depth range--0 to 3 meters (0 to 10 feet) below mean sea level
+Water salinity range--0 to 5 parts per thousand
+Soil temperature--15 to 25 degrees C (59 to 77 degrees F)
+Water temperature--18 to 25 degrees C (63 to 75 degrees F)
+
+GEOGRAPHICALLY ASSOCIATED SOILS:
+These are the Wimico and Slough soils.
+Wimico soils--Are in freshwater lakes, formed in lacustrine deposits, and have a color value, moist, of 3 or less and a color value, dry, of 5 or less throughout the upper 18 centimeters of the mineral soil. 
+Slough soils--Are in brackish estuarine tidal streams and have 1:5 electrical conductivity greater than 0.6 dS/m somewhere throughout the top 100 centimeters.
+
+DRAINAGE AND SATURATED HYDRAULIC CONDUCTIVITY:
+Drainage class--Subaqueous
+Saturated hydraulic conductivity--Moderately high to high
+Soil moisture regime--Peraquic
+Soil is continuously inundated by freshwater and occasionally brackish water in times of drought.
+
+USE AND VEGETATION:
+Major uses--The area is used for recreational fishing, boating, and limited residential houseboat anchorages. Blueway soils were historically used for riverine transport of goods. Lower energy Blueway soils are important habitat for crustaceans and juvenile aquatic species. 
+Typical vegetation--Sub-aquatic vegetation is generally not observed because of continuous, turbid fluvial flow. Some shallow water soils in less turbid environments support tape grass (Vallisneria americana).  
+
+DISTRIBUTION AND EXTENT:
+General area--Freshwater rivers and sloughs along the Gulf.
+Land Resource Regions--T - Atlantic and Gulf Coast Lowland Forest and Crop Region
+MLRA(s)--152A
+Extent--Small  
+
+SOIL SURVEY REGIONAL OFFICE (SSRO) RESPONSIBLE: Special Projects Office
+
+SERIES ESTABLISHED: Franklin County, Florida, 2026
+
+REMARKS:
+Typical Pedon Taxonomic Features:
+Fluidity--The zone from 0 to 118 centimeters and 195 to 219 centimeters has a fluidity class of moderately fluid to very fluid.
+Peraquic feature--Zero or positive soil water potential at the soil surface (permanently submerged).
+Soil temperature regime--Blueway and Wimico soils straddle the boundary between both thermic and hyperthermic temperature regimes.  Both soils would be best interpreted as hyperthermic soils, aligning with the nearby and neighboring landscapes and soils (soil correlation decision Special Projects 2026).
+Taxonomic Version: Keys to Soil Taxonomy, Thirteenth Edition, 2022
+Other: The series is named after the Blueway paddling trails in Florida, designed to increase tourism in historic, scenic waterways throughout the state. Blueway soils were previously mapped as water in Florida soil surveys.
+
+NASIS User Site and Pedon ID: S2024FL037035
+____________________________________________________________________________
+National Cooperative Soil Survey
+U.S.A.

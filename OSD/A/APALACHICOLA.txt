@@ -1,0 +1,144 @@
+LOCATION APALACHICOLA           FL
+
+Tentative Series
+ARW
+02/2026
+
+APALACHICOLA SERIES
+
+MLRA(s)--152A
+Depth class--Very deep
+Drainage class--Subaqueous
+Water depth range--0 to 3 meters (0 to 10 feet)
+Parent material--Fine-loamy estuarine and lagoonal deposits
+Geomorphic location--Lagoon and bay bottoms
+Slope range--0 to 2 percent
+Mean annual air temperature--21 degrees C (70 degrees F)
+Mean annual water temperature--21 degrees C (70 degrees F)
+
+TAXONOMIC CLASS: Fine-loamy, mixed, active, nonacid, hyperthermic Grossic Hydrowassents
+
+TYPICAL PEDON: Apalachicola clay loam on a bay bottom under 1.7 meters of salt water. (colors are for moist soil unless otherwise stated; electrical conductivity is 1:5 by volume solution mixture unless otherwise stated).
+
+ Aseg--0 to 15 centimeters; greenish black (10Y 2.5/1) clay loam; massive; nonsticky, nonplastic; very fluid; no sulfurous odor; color change with 3 percent hydrogen peroxide; strong effervescence with 30 percent hydrogen peroxide; saline (5.4 dS/m); slightly alkaline (pH 7.6), moderately acid (pH 5.7) oxidized pH; clear boundary. (10 to 20 centimeters thick)
+
+ Cseg--15 to 43 centimeters; dark greenish gray (10Y 3/1) sandy clay loam; massive; moderately sticky, nonplastic; very fluid; no sulfurous odor; color change with 3 percent hydrogen peroxide; strong effervescence with 30 percent hydrogen peroxide; saline (4.0 dS/m); moderately alkaline (pH 8.2), neutral (pH 6.6) oxidized pH; clear boundary. (15 to 120 centimeters thick)
+
+ Cse--43 to 91 centimeters; olive brown (2.5Y 4/3) sandy clay; massive; very sticky, nonplastic; very fluid; no sulfurous odor; no color change with 3 percent hydrogen peroxide; slight effervescence with 30 percent hydrogen peroxide; saline (3.7 dS/m); moderately alkaline (pH 8.0), neutral (pH 6.9) oxidized pH; clear boundary. (35 to 75 centimeters thick)
+
+ C'seg1--91 to 199 centimeters; dark greenish gray (10Y 3/1) fine sandy loam; massive; slightly sticky, nonplastic; very fluid; moderate sulfurous odor; no color change with 3 percent hydrogen peroxide; slight effervescence with 30 percent hydrogen peroxide; 3 percent shell fragments; saline (3.3 dS/m); moderately alkaline (pH 8.2), moderately acid (pH 6.0) oxidized pH; clear boundary.
+
+ C'seg2--199 to 210 centimeters; dark greenish gray (10Y 3/1) fine sandy loam; massive; moderately sticky, slightly plastic; moderately fluid; moderate sulfurous odor; no color change with 3 percent hydrogen peroxide; slight effervescence with 30 percent hydrogen peroxide; saline (3.0 dS/m); moderately alkaline (pH 8.2), moderately alkaline (pH 8.0) oxidized pH.
+
+TYPE LOCATION: Franklin County, Florida; East Bay; approximately 3.4 kilometers (2.1 miles) south by southeast of Bay Tower Pier, approximately 1.4 kilometers (0.9 miles) northwest by west of the intersection of North Bayshore Drive and Palm Street, and 1.8 kilometers (1.1) miles north by northwest of the western terminus of Old Ferry Dock Road; USGS topographic quadrangle: Beverly, FL 
+
+Latitude--29.7536790
+Longitude-- -84.9056240
+Datum--WGS84
+Coordinate source--from hand-held GPS
+
+RANGE IN CHARACTERISTICS:
+Depth to bedrock--Greater than 200 centimeters
+Manner of failure--Slightly to very fluid in all horizons between 20 and 100 centimeters
+Sulfurous odor--None to strong throughout
+Soil reaction--Neutral to strongly alkaline throughout profile (pH 7.0 to 9.0)
+Oxidized reaction--Very strongly acid to moderately alkaline throughout profile (pH 4.5 to 8.4)
+Electrical conductivity (1:5 soil to water solution)--2.0 to 6.5 dS m-1 throughout profile
+Particle-size control section (weighted average):
+Shell fragments--0 to 35 percent; some horizons have more than 35 percent shell fragments
+Sand--30 to 80 percent
+Clay--18 to 35 percent 
+Total soil organic carbon stock 0 to 100 centimeters--6 to 12 kg m-2
+Total soil organic carbon stock 0 to 200 centimeters--12 to 24 kg m-2
+
+Aseg horizon (where present):
+Hue--2.5Y to 10Y
+Value--2.5 or 3
+Chroma--1
+Texture--Fine sandy loam, sandy loam, loam, sandy clay loam or clay loam
+Organic carbon density--12 to 20 kg m-3
+
+Cseg horizons: 
+Hue--10YR to 10GY or N
+Value--2.5 to 4
+Chroma--2 or less
+Texture--Fine sandy loam, sandy loam, loam, sandy clay loam, or clay loam and their shelly and very shelly analogs
+Organic carbon density--5 to 12 kg m-3
+
+Cse horizon:
+Thickness--35 to 75 centimeters
+Hue--10YR or 2.5Y
+Value--3 to 5
+Chroma--3
+Texture--loam, sandy clay loam, sandy clay, or clay loam
+Organic carbon density--8 to 12 kg m-3
+
+C'seg horizons:
+Thickness--10 to 120 centimeters
+Hue--2.5Y to 10Y or N
+Value--3 or 4
+Chroma--1 or less
+Texture--fine sandy loam or sandy clay loam
+Organic carbon density--5 to 12 kg m-3
+
+COMPETING SERIES:
+These are the Cash and Slough series.
+Cash soils--formed on mainland coves, often support sub-aquatic vegetation and have higher soil organic carbon content in the surface horizon and 1:5 electrical conductivity between 1.5 and 4.0 dS/m.
+Slough soils--formed on estuarine tidal streams and have 1:5 electrical conductivity between 0.6 and 2.0 dS/m.
+
+GEOGRAPHIC SETTING:
+Landscape--Bays and Lagoons along the Gulf Coast
+Landform--Bay bottoms and lagoon bottoms
+Parent material--Fine-loamy estuarine and lagoonal deposits 
+Slope--0 to 2 percent
+Water depth range--0 to 3 meters (0 to 10 feet) below mean sea level
+Water salinity range--20 to 35 parts per thousand
+Water temperature range--16 to 31 degrees C (61 to 88 degrees F)
+Soil temperature range--18 to 28 degrees C (64 to 82 degrees F)
+
+GEOGRAPHICALLY ASSOCIATED SOILS:
+These are the Cash, Dregs, Dry Bar, Eastpoint, Lighter, Norman, Pelican Reef, Sandbank, Sandfly, Sikes, Slough, and Thalinectes soils.
+Dregs soils--Are on dredge-deposit shoals and formed in sandy human-transported materials.
+Dry Bar soils--Are on shoals and oyster reefs, formed in sandy lagoonal deposits, and have sandy-skeletal particle size class.
+Eastpoint soils--Are on submerged wave-cut platforms on the mainland side and formed in sandy lagoonal and estuarine deposits.
+Lighter soils--Are in dredge channels and formed in sandy lagoonal deposits with sulfidic materials occurring within the top 100 centimeters.
+Norman soils--Are on shoals and oyster reefs, formed in fine-loamy lagoonal deposits, and have a loamy-skeletal particle size class.
+Pelican Reef soils--Are on relict flood-tidal deltas, formed in sandy lagoonal deposits, and support limited subaquatic vegetation.
+Sandbank soils--Are on fluviomarine bottoms, formed in sandy estuarine materials and have mica flakes in some part of the profile.
+Sandfly soils--Are in estuarine tidal streams, formed in coarse-loamy lagoonal over fluviomarine deposits, and contain 20 centimeters or more of buried A horizons.
+Sikes soils--Are on flood-tidal deltas and formed in sandy lagoonal deposits. 
+Thalinectes soils--Are on washover-fan flats and slopes, formed in sandy lagoonal and marine materials, and support significant stands of subaquatic vegetation.
+
+DRAINAGE AND SATURATED HYDRAULIC CONDUCTIVITY:
+Drainage class--Subaqueous
+Saturated hydraulic conductivity--Moderately high to high
+Soil moisture regime--Peraquic
+Soil is continuously inundated by brackish or salt water.
+
+USE AND VEGETATION:
+Major uses--The area is used for recreational fishing, hunting, and boating, commercial fishing and limited oyster production.
+Typical vegetation--Typically absent in deeper areas with turbid water, limited light penetration, and highly variable salinity throughout the water column. Where low turbidity exists, shoal grass (Ruppia maritima) may establish limited stands.
+
+DISTRIBUTION AND EXTENT:
+General area--Bays and Lagoons on the Gulf Coast of Florida
+Land Resource Region(s)--T - Atlantic and Gulf Coast Lowland Forest and Crop Region
+MLRA(s)--152A
+Extent--Moderate  
+
+SOIL SURVEY REGIONAL OFFICE (SSRO) RESPONSIBLE: Special Projects Office
+SERIES ESTABLISHED: Franklin County, Florida, 2026
+
+REMARKS:
+Typical Pedon Taxonomic Features:
+Ochric epipedon--The zone from 0 to 15 centimeters
+Reduced matrix--The zone from 0 to 43 centimeters and 91 to 210 centimeters has a soil color matrix with a chroma of 2 or less
+Hyposulfidic materials--The zone from 0 to 199 centimeters has an initial pH that decreases by 1 or more units but remains at a value of 4.0 or more after 16 weeks of moist aerobic incubation
+Fluidity--Very fluid from 0 to 199 centimeters; moderately fluid below
+Peraquic feature--Zero or positive soil water potential at the soil surface (permanently submerged)
+Taxonomic Version: Keys to Soil Taxonomy, Thirteenth Edition, 2022
+Other: Named after Apalachicola Bay, Florida where it was first observed. Apalachicola soils were previously mapped as water in Florida soil surveys. 
+
+NASIS User Site and Pedon ID: S2024FL037020
+____________________________________________________________________________
+National Cooperative Soil Survey
+U.S.A.
