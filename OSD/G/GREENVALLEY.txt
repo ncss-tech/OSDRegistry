@@ -1,0 +1,124 @@
+LOCATION GREENVALLEY            CO
+
+Tentative Series
+PRR, KLS
+02/2025
+
+GREENVALLEY SERIES
+
+Depth class: Deep
+Drainage class: Well drained
+Saturated hydraulic conductivity: High
+Parent material: Thick coarse-loamy human-transported material over eolian sands derived from glaciofluvial sources
+Geomorphic location: Human-transported fill on sand sheets of sand-mantled plains, sand sheets of Pleistocene strath terraces, interdunes or dunes
+Slope range: 0 to 15 percent
+Mean annual temperature: 11.0 degrees C (51.8 degrees F)
+Mean annual precipitation: 406 millimeters (16.0 inches)
+
+Taxonomic Class:
+Coarse-loamy, spolic, mixed, superactive, nonacid, mesic Anthroportic Ustorthents
+
+Typical Pedon:
+Greenvalley sandy loam in urban, park. (Colors are for dry soil unless otherwise noted.)
+
+^A--0 to 11 cm; sandy loam, very dark brown (7.5YR 2.5/2) moist; moderate fine granular structure;  very friable, slightly sticky, nonplastic; common very fine roots throughout; 2 percent yellowish  red (5YR 4/6) masses of oxidized iron; noneffervescent; moderately alkaline (pH 7.4); Redox features are from anthropogenic causes: grass/sod irrigation in the park.; clear smooth boundary.                     
+
+^C1--11 to 55 cm; sandy loam, dark brown (10YR 3/3) moist; moderate medium and coarse subangular blocky structure; friable, slightly sticky, nonplastic; common very fine roots throughout; 2 percent fine and medium gravel; noneffervescent; slightly alkaline (pH 7.6); gradual boundary.                                                                         
+
+^C2--55 to 117 cm; sandy loam, dark brown (10YR 3/3) moist; weak fine medium subangular blocky structure; friable, nonsticky, nonplastic; noneffervescent;slightly alkaline (pH 7.4); gradual boundary.                                                                             
+
+^C3--117 to 148 cm; sandy loam, brown (10YR 4/3) moist; massive; friable, slightly sticky, nonplastic; noneffervescent; slightly alkaline (pH 7.4); gradual boundary.                                                                            
+
+^C4--148 to 191 cm; sandy loam, 85 percent dark yellowish brown (10YR 4/4) and 15 percent brown (10YR 4/3) moist; massive; very friable, nonsticky, nonplastic; noneffervescent; slightly alkaline (pH 7.6); this horizon has more fine sand than horizons above.
+
+Type Location:
+Denver County, CO
+USGS Quadrangle: Sable
+Latitude: 39.7824750
+Longitude: -104.8256806
+Datum: WGS84
+Coordinates sources: Hand-held GPS
+
+Range in Characteristics:
+Depth to secondary carbonates--more than 100 centimeters
+Thickness of human-transported material--51 centimeters to more than 100 centimeters
+Particle-size control section (weighted average):
+Clay content--5 to 18 percent
+Sand content--40 to 90 percent
+Total rock fragments--0 to 5 percent
+
+^A horizon:
+Hue--7.5YR or 10YR
+Value--3 or 4 dry; 2 or 3 moist
+Chroma--2 or 3 dry; 1 or 2 moist
+Texture (less than 2 mm fraction)--loam, sandy loam, sandy clay loam
+Clay content--10 to 25 percent
+Rock fragments--0 to 5 percent gravel, fine- and medium-size
+Reaction--pH 7.0 to 7.6
+Thickness--5 to 20 centimeters
+
+^C or ^Cu horizon(s):
+Hue--7.5YR or 10YR
+Value--3 to 6 dry; 2 to 5 moist
+Chroma--2 to 5 dry; 1 to 6 moist
+Texture (less than 2 mm fraction)--sandy loam, loamy sand, fine sandy loam, sand, sandy clay loam
+Clay content--2 to 25 percent
+Rock fragments--0 to 10 percent gravel, fine- and medium-size
+Reaction--pH 7.0 to 7.6
+Thickness--10 to 125 centimeters
+
+Some pedons may have 2Bw or 2C horizons:
+Hue--10YR
+Value--4 to 6 dry; 4 or 5 moist
+Chroma--3 or 4 dry; 3 or 4 moist 
+Texture (less than 2 mm fraction)--sandy loam, loamy fine sand, fine sandy loam, loam, silt loam, sandy clay loam
+Clay content--4 to 28 percent
+Rock fragments--0 to 5 percent gravel, fine- and medium-size
+Calcium carbonate equivalent--0 to 3 percent
+Reaction--pH 7.4 to 8.0
+Thickness--20 to 135 centimeters
+
+Competing Series: 
+There are currently no competing series.
+
+Geographic Settings:
+Parent material--Thick coarse-loamy human-transported material over eolian sands derived from glaciofluvial sources
+Landform-- Human-transported fill on sand sheets of sand-mantled plains, sand sheets of Pleistocene strath terraces, interdunes or dunes 
+Slope ranges--0 to 15 percent
+Mean annual air temperature--10.0 to 12.0 degrees C (50.0 to 53.6 degrees F)
+Mean annual precipitation range--356 to 432 millimeters (14.0 to 17.0 inches)
+Frost-free period--135 to 165 days
+Elevation--1,580 to 1,720 meters (~5,182 to 5,642 feet)
+Climate--continental, temperate, semi-arid; very cold and snowy winters; cool, moist springs, hot summers, with North American monsoon precipitation from July through August.
+
+Geographically Associated Soils:
+Vona soils: In similar landscape positions and form in similar parent materials but less than 50 cm of human-transported fill on the surface.  
+
+Drainage and Saturated Hydraulic Conductivity: 
+Drainage class: Well drained
+Saturated hydraulic conductivity: High (15 to 50 m/sec)
+Flooding: Greenvalley soils are not subject to flooding
+Ponding: Greenvalley soils are not subject to ponding
+
+Use and Vegetation:
+Most areas are primarily used for urban development. The potential native vegetation is little bluestem, sideoats grama, winterfat, and skunkbush sumac .
+
+Distribution and Extent:
+Interdunes, dunes, and sand sheets that occur on the dunefield northeast of Sand Creek; small extent in north-central Colorado; MLRA 67B.
+
+Soil Survey Region (SSR) Responsible:
+Bozeman, Montana
+
+Series Proposed:
+Denver County, CO 2025. Greenvalley series is named after a neighborhood in northeast Denver where these soils are found. 
+
+Remarks:
+Typical Pedon Taxonomic Features:
+Ochric epipedon--0 to 11 centimeters (^A horizon)
+Human-transported materials--0 to 191 centimeters (^A, ^C1 through ^C4 horizons)
+Lithologic discontinuity--11 centimeters
+Particle-size control section--25 to 100 centimeters
+Taxonomic version: Keys to Soil Taxonomy, 13th edition, (2022)
+
+National Cooperative Soil Survey
+U.S.A.

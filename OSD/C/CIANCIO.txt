@@ -1,0 +1,131 @@
+LOCATION CIANCIO                CO
+
+Tentative Series
+PRR
+03/2025
+
+CIANCIO SERIES
+
+Depth class: Very deep
+Drainage class: Well drained
+Saturated hydraulic conductivity: High
+Parent material: Thin human-transported material over eolian sands
+Geomorphic location: Human-transported fill on sand sheets on strath terraces
+Slope range: 0 to 5 percent
+Mean annual temperature: 11.0 degrees C (51.8 degrees F)
+Mean annual precipitation: 406 millimeters (16.0 inches)
+
+Taxonomic Class:
+Coarse-loamy, mixed, superactive, mesic Aridic Haplustepts
+
+Typical Pedon:
+Ciancio loam in urban, park. (Colors are for dry soil unless otherwise noted.)
+
+^A--0 to 12 cm; very dark grayish brown (10YR 3/2) loam, very dark brown (10YR 2/2) moist; moderate fine granular structure; soft, friable, slightly sticky, slightly plastic, many fine roots throughout; noneffervescent, neutral (pH 7.2); clear smooth boundary.                                                   
+
+^C--12 to 42 cm; dark grayish brown (10YR 4/2) sandy loam, dark brown (10YR 3/3) moist; massive, soft, very friable, non-sticky, non-plastic; common fine roots throughout; noneffervescent; slightly alkaline (pH 7.8); clear smooth boundary.      
+
+^2Bwb--42 to 80 cm; brown (10YR 5/3) sandy loam, brown (10YR 4/3); moderate medium subangular block structure; slightly hard, friable, non-sticky, non-plastic; few fine roots throughout; noneffervescent; neutral (pH 7.0); gradual wavy boundary.                                                                              
+
+^2C--80 to 200 cm; pale brown (10YR 6/3) sandy loam, yellowish brown (10YR 5/4); massive; soft, very friable, non-sticky, non-plastic; few fine roots throughout; noneffervescent; neutral (pH 6.8).                                                                              
+
+Type Location:
+Denver County, CO
+USGS Quadrangle: Arvada
+Latitude: 39.7817417
+Longitude: -105.0445750
+Datum: WGS84
+Coordinates sources: Hand-held GPS
+
+Range in Characteristics:
+Depth to free carbonates-greater than 50 centimeters
+Thickness of human-transported material-less than 50 centimeters
+Particle-size control section (weighted average):
+Clay content--12 to 22 percent
+Sand content--25 to 75 percent
+Total rock fragments--0 to 8 percent
+
+^A or ^Au horizon(s):
+Hue--10YR
+Value--3 or 4 dry; 1 to 3 moist
+Chroma-2 or 3 dry or moist
+Texture (less than 2 mm fraction)--Clay loam, loam, sandy loam
+Clay content--10 to 27 percent
+Rock fragments--0 to 5 percent gravel
+Reaction--pH 6.8 to 7.5
+Thickness--5 to 30 centimeters
+
+^C or Cu horizon(s) (where present):
+Hue--10YR
+Value--3 to 5 dry; 3 or 4 moist
+Chroma-2 to 4 dry; 3 or 4 moist
+Texture (less than 2 mm fraction)--Loam, sandy clay loam, sandy loam
+Clay content--12 to 25 percent
+Rock fragments--0 to 14 percent gravel
+Artifacts--1 to 3 percent
+Reaction--pH 7.2 to 7.8
+Thickness--10 to 30 centimeters
+
+^2Bwb horizon(s):
+Hue--10YR
+Value--4 or 5 dry; 3 or 4 moist
+Chroma--3 to 5 dry or moist
+Texture (less than 2 mm fraction)-Sandy clay loam, sandy loam
+Clay content-8 to 27 percent
+Rock fragments--0 to 5 percent gravel
+Reaction--pH 6.8 to 7.6
+Thickness--15 to 50 centimeters
+
+2C horizon (when present):
+Hue--10YR
+Value--5 or 6 dry; 4 or 5 moist
+Chroma--3 to 5  dry or moist
+Texture (less than 2 mm fraction)--Sandy loam, loamy sand 
+Clay content--1 to 15 percent
+Rock fragments--0 to 5 percent gravels
+Reaction--pH 6.8 to 8.2
+Thickness--25 to 150 centimeters
+
+Competing Series: 
+These are the Plumasano and Skutumpah series.  Both the Plumanso and Skutumpah series lack an ^A horizon.
+Geographic Settings:
+Parent material--Thin human-transported material over eolian sands
+Landform--Human-transported fill on sand sheets on strath terraces
+Slope ranges--0 to 5 percent
+Mean annual air temperature--10.0 to 12.0 degrees C (50.0 to 53.6 degrees F)
+Mean annual precipitation range--356 to 432 millimeters (14.0 to 17.0 inches)
+Frost-free period--135 to 165 days
+Elevation--1,595 to 1,675 meters (~5,235 to 5,495 feet)
+Climate--continental, temperate, semi-arid; very cold and snowy winters; cool, moist springs, hot summers, with North American monsoon precipitation from July through August.
+
+Geographically Associated Soils: 
+Denvurb soils: in similar landscape positions but formed in loess rather than sandy eolian materials; also has a fine particle size control section.  
+
+Drainage and Saturated Hydraulic Conductivity:
+Drainage class: Well drained
+Saturated hydraulic conductivity: High (5 to 15 mm/sec)
+Flooding: Ciancio soils are not typically subject to flooding
+Ponding: Ciancio soils are not typically subject to ponding
+
+Use and Vegetation:
+Most areas are primarily used for urban development. The potential native vegetation is fourwing saltbush, winterfat, western wheatgrass, and blue grama.
+
+Distribution and Extent:
+Eolian sand-mantled Pleistocene strath terraces along the western bank of South Platte River in Denver County, CO; small extent in north-central Colorado; MLRA 67B.
+
+Soil Survey Region (SSR) Responsible:
+Bozeman, Montana
+
+Series Proposed:
+Denver County, CO 2025. Ciancio series is the name of a park located in the city and county of Denver.
+
+Remarks:
+Typical Pedon Taxonomic Features:
+Ochric epipedon--0 to 12 centimeters (^A horizon)
+Human-transported materials--0 to 42 centimeters (^A, ^C horizons)
+Cambic horizon--42 to 80 centimeters (2Bwb horizon)
+Particle-size control section--25 to 100 centimeters
+Taxonomic version: Keys to Soil Taxonomy, 13th edition, (2022)
+
+National Cooperative Soil Survey
+U.S.A.

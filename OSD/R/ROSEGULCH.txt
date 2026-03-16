@@ -1,0 +1,137 @@
+LOCATION ROSEGULCH              CO
+
+Tentative Series
+PRR, KLS
+02/2025
+
+ROSEGULCH SERIES
+
+Depth class: Deep and very deep
+Drainage class: Well and moderately well drained
+Saturated hydraulic conductivity: Low
+Parent material: Thin human-transported material over clayey Pleistocene-aged loess derived from glaciofluvial sources
+Geomorphic location: Human-transported fill on loess-mantled plains 
+Slope range: 0 to 10 percent
+Mean annual temperature: 11.0 degrees C (51.8 degrees F)
+Mean annual precipitation: 406 millimeters (16.0 inches)
+
+Taxonomic Class:
+Fine, smectitic, mesic Torrertic Haplustepts
+Typical Pedon:
+Rosegulch silty clay in urban, park. (Colors are for dry soil unless otherwise noted.)
+
+^A--0 to 12 cm; brown (10YR 4/3) clay loam, dark brown (10YR 3/3) moist; moderate fine granular structure; slightly hard, friable, moderately sticky, moderately plastic; many very fine and common fine roots; noneffervescent, neutral (pH 7.2); clear smooth boundary.                                                   
+
+^Bw-12 to 29 cm; light yellowish brown (2.5Y 6/4) clay loam, light olive brown (2.5Y 5/4) moist; weak medium subangular blocky parting to moderate medium granular structure; moderately hard, firm, moderately sticky, moderately plastic; common very fine and few fine roots; finely disseminated free carbonates throughout the matrix; 10 percent fine gravel; slightly effervescent; slightly alkaline (pH 7.8); gradual wavy boundary.      
+
+2Bkb1--29 to 66 cm; yellowish brown (10YR 5/6) silty clay, dark yellowish brown (10YR 4/6) moist; weak medium subangular blocky structure; slightly hard, friable, moderately sticky, moderately plastic; finely disseminated free carbonates and 8 percent medium, irregular carbonate masses  throughout the matrix; strongly effervescent; slightly alkaline (pH 7.8); gradual wavy boundary. 
+
+2Bkb2--66 to 106 cm; yellowish brown (10YR 5/4) silty clay, yellowish brown (10YR 5/6) moist; weak coarse subangular blocky structure; slightly hard, friable, moderately sticky, slightly plastic; finely disseminated free carbonates and 5 percent medium irregular carbonate masses throughout the matrix; slightly effervescent; slightly alkaline (pH 7.6); gradual wavy boundary. 
+     
+^2Ck--106 to 200 cm; dark yellowish brown (10YR 4/4) silty clay, dark yellowish brown (10YR 3/4) moist; massive; moderately hard, firm, very sticky, very plastic; finely disseminated free carbonates and 1 percent fine threads of carbonate throughout the matrix; slightly effervescent; slightly alkaline (pH 7.6). 
+
+Type Location:
+Denver County, CO
+USGS Quadrangle: Englewood
+Latitude: 39.6548611
+Longitude: -104.8818139
+Datum: WGS84
+Coordinates sources: Hand-held GPS
+
+Range in Characteristics:
+Depth to free carbonates--10 to 200 centimeters
+Thickness of human-transported material-less than 50 centimeters
+Particle-size control section (weighted average):
+Clay content--40 to 50 percent
+Sand content--10 to 20 percent
+Total rock fragments--0 to 5 percent
+
+^A horizon:
+Hue-- 10YR
+Value--4 to 6 dry; 1 or 3 moist
+Chroma--3 to 5 dry; 3 or 4 moist
+Texture (less than 2 mm fraction)--Silty clay loam, clay loam 
+Clay content--28 to 35 percent
+Rock fragments--0 to 15 percent gravel
+Calcium carbonate equivalent--0 to 5 percent
+Reaction--pH 7.2 to 8.0
+Thickness--5 to 15 centimeters
+
+^Bwb horizon(s):
+Hue-- 10YR
+Value--4 to 6 dry; 3 to 5 moist
+Chroma--3 to 5 moist or dry
+Texture (less than 2 mm fraction)--Silty clay loam, clay loam
+Clay content--28 to 35 percent
+Rock fragments--0 to 20 percent gravel
+Calcium carbonate equivalent--2 to 10 percent
+Reaction--pH 7.6 to 8.2
+Thickness--15 to 25 centimeters
+
+2Bkb horizon(s) (where present):
+Hue-2.5Y or 10YR
+Value-4 to 6 dry; 4 or 5 moist
+Chroma--3 to 5 dry; 4 or 5 moist
+Texture (less than 2 mm fraction)--Silty clay loam, silty clay, clay
+Clay content--40 to 50 percent
+Rock fragments--0 to 5 percent gravel
+Calcium carbonate equivalent--5 to 14 percent
+Reaction--pH 7.6 to 8.4
+Thickness--25 to 60 centimeters (combined)
+
+2Ck horizon(s):
+Hue--2.5Y or 10YR
+Value--4 to 6 dry; 4 or 5 moist
+Chroma-4 to 6 dry; 4 or 5 moist
+Texture (less than 2 mm fraction)--Silty clay loam, silty clay, clay
+Clay content--38 to 50 percent
+Rock fragments--0 to 3 percent gravels
+Calcium carbonate equivalent--5 to 14 percent
+Reaction--pH 7.6 to 8.4
+Thickness--25 to 65 centimeters (combined)
+
+Competing Series: These are the Denby, Echeta, Gojiya, Kanorado, and Pierre series.  None of these series have an ^A horizon.
+
+Geographic Settings:
+Parent material-- Thin human-transported material over clayey Pleistocene-aged loess derived from glaciofluvial sources
+Landform-- Human-transported fill on loess-mantled plains 
+Slope ranges--0 to 10 percent
+Mean annual air temperature-10.0 to 12.0 degrees C (50.0 to 53.6 degrees F)
+Mean annual precipitation range--356 to 432 millimeters (14.0 to 17.0 inches)
+Frost-free period--135 to 165 days
+Elevation--1,625 to 1,725 meters (~5,330 to 5,660 feet)
+Climate--continental, temperate, semi-arid; very cold and snowy winters; cool, moist springs, hot summers, with North American monsoon precipitation from July through August.
+
+Geographically Associated Soils: 
+Racas soils: Found in similar landscape positions, but Racas soils are spolic and lack cambic horizons
+
+Drainage and Saturated Hydraulic Conductivity: 
+Drainage class: Well and moderately well drained
+Saturated hydraulic conductivity: Low (0.01 to 0.5 mm/sec)
+Flooding: Rosegulch soils are not subject to flooding 
+Ponding: Rosegulch soils are not subject to ponding
+
+Use and Vegetation:
+Most areas are primarily used for urban development. The potential native vegetation is fourwing saltbush, winterfat, western wheatgrass, and blue grama. 
+
+Distribution and Extent:
+Loess-mantled plains, primarily on the east bank of the South Platte River near Denver, CO; small extent in north-central Colorado; MLRA 67B.
+
+Soil Survey Region (SSR) Responsible:
+Bozeman, Montana
+
+Series Proposed:
+Denver County, CO 2025. Rosegulch series is a coined name made from combining the names of neighborhoods near the type location.
+
+Remarks:
+Typical Pedon Taxonomic Features:
+Ochric epipedon--0 to 12 centimeters (^A horizon)
+Cambic horizon-12 to 29 centimeters (^Bw horizon
+Free carbonates--12 to 200 centimeters (^Bw, 2Bkb1, 2Bkb2, 2Ck)
+Human-transported materials--0 to 29 centimeters (^A, ^Bw horizons)
+Lithologic discontinuity-29 centimeters
+Particle-size control section--25 to 100 centimeters
+Taxonomic version: Keys to Soil Taxonomy, 13th edition, (2022)
+
+National Cooperative Soil Survey
+U.S.A.

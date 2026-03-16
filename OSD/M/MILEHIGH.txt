@@ -1,0 +1,158 @@
+LOCATION MILEHIGH               CO
+
+Tentative Series
+PRR
+02/2025
+
+MILEHIGH SERIES
+
+Depth class: Deep and very deep
+Drainage class: Well drained
+Saturated hydraulic conductivity: Moderately high
+Parent material: Thick to very thick coarse-loamy human-transported material over alluvium derived from mixed lithologies
+Geomorphic location: Human-transported fill on Holocene and Pleistocene stream terraces
+Slope range: 0 to 3 percent
+Mean annual temperature: 11.0 degrees C (51.8 degrees F)
+Mean annual precipitation: 406 millimeters (16.0 inches)
+
+Taxonomic Class:
+Coarse-loamy, spolic, mixed, superactive, nonacid, mesic Anthroportic Ustorthents
+
+Typical Pedon:
+Milehigh sandy loam in urban, park. (Colors are for dry soil unless otherwise noted.)
+
+^A--0 to 4 centimeters; very dark grayish brown (10YR 3/2); sandy loam, black (7.5YR 2.5/1) moist; weak fine granular structure; soft, very friable, non-sticky, non-plastic; many very fine and common fine roots throughout; noneffervescent; neutral (pH 7.0); abrupt smooth boundary.
+
+^C--4 to 15 centimeters; brown (10YR 4/3) sandy loam, very dark grayish brown (10YR 3/2) moist; massive; slightly hard, friable, slightly sticky, non-plastic; few very fine and very few fine roots throughout; 4 percent rounded gravel; noneffervescent; neutral (pH 7.2); clear smooth boundary.
+
+^Cu1--15 to 31 centimeters; brown (10YR 4/3) gravelly artifactual sandy loam, very dark grayish brown (10YR 3/2) moist; massive; slightly hard, friable, non-sticky, non-plastic; very few fine roots; 10 percent subangular gravel, 10 percent gravel-sized artifacts of asphalt; noneffervescent; neutral (pH 7.2); clear smooth boundary.
+
+^Cu2--31 to 57 centimeters; brown (10YR 4/3), sandy loam, very dark grayish brown (10YR 3/2) moist; massive; slightly hard, friable, non-sticky, non-plastic; few fine roots throughout; 5 percent subangular gravel, 5 percent gravel-sized artifacts of asphalt; noneffervescent; neutral (pH 7.2); clear smooth boundary.
+
+^C'1--57 to 76 centimeters; brown (10YR 4/3), sandy loam, dark brown (10YR 3/3) moist; massive; slightly hard, friable, non-sticky, non-plastic; 2 percent subangular and subrounded fine gravel; noneffervescent; neutral (pH 7.2); gradual smooth boundary.
+
+^C'2--76 to 112 centimeters; yellowish brown (10YR 5/4), sandy loam, brown (10YR 4/3) moist; massive; slightly hard, friable, non-sticky, non-plastic; 2 percent subangular and subrounded gravel, noneffervescent; neutral (pH 7.2); clear smooth boundary.
+
+2C--112 to 200 centimeters; yellowish brown (10YR5/6), loamy sand, dark yellowish brown (10YR 4/4) moist; single grain; loose, non-sticky, non-plastic; noneffervescent; slightly alkaline (pH 7.4).
+
+Type Location:
+Denver County, CO
+USGS Quadrangle: Commerce City, Colorado
+Latitude: 39.7894333
+Longitude: -104.9495583
+Datum: WGS84
+Coordinates sources: Hand-held GPS
+
+Range in Characteristics:
+Thickness of human-transported material--50 to 200 centimeters
+Particle-size control section (weighted average):
+Clay content--10 to 16 percent
+Sand content--60 to 75 percent
+Total rock fragments--0 to 15 percent
+
+^A horizon:
+Hue--7.5YR or 10YR
+Value--3 or 4 dry; 1 to 3 moist
+Chroma--3 or 4 dry; 2 or 3 moist 
+Texture (less than 2 mm fraction)--Clay loam, loam, sandy loam
+Clay content--20 to 30 percent
+Rock fragments--0 to 10 percent gravels
+Reaction--pH 6.6 to 7.8
+Thickness--8 to 25 centimeters
+
+^C horizon(s):
+Hue--10YR
+Value--4 or 5 dry; 3 or 4 moist
+Chroma--3 or 4 dry or moist
+Texture (less than 2 mm fraction)--Sandy loam, loamy sand, sand
+Clay content--8 to 15 percent
+Rock fragments--0 to 15 percent gravel 
+Reaction--pH 6.6 to 7.8
+Thickness--8 to 40 centimeters
+
+^Cu horizon(s) 
+Hue-7.5YR or 10YR
+Value--3 to 6 dry; 1 to 3 moist
+Chroma--3 to 5 dry; 2 or 3 moist
+Texture (less than 2 mm fraction)-- sandy clay loam, sandy loam
+Clay content--8 to 27 percent
+Rock fragments--3 to 20 percent gravel
+Artifacts--1 to 10 percent
+Calcium carbonate equivalent--1 to 5 percent
+Reaction--pH 7.2 to 7.6
+Thickness-15 to 35 centimeters
+
+C' horizon(s) (when present):
+Hue--2.5Y or 10YR
+Value--6 dry; 3 to 5 moist
+Chroma--4 dry; 3 or 4 moist
+Texture (less than 2 mm fraction)--sandy loam, fine sandy loam
+Clay content--5 to 15 percent
+Rock fragments--0 to 5 percent gravel
+Reaction--pH 7.2 to 7.6
+Thickness--15 to 45 centimeters
+
+2Bwb and/or 2BCb horizon(s) (when present):
+Hue--2.5Y or 10YR
+Value--4 or 5 dry; 3 or 4 moist
+Chroma--4 dry; 3 to 5 moist
+Texture (less than 2 mm fraction)--sandy clay loam, sandy loam
+Clay content--2 to 25 percent
+Rock fragments--0 to 5 percent gravel
+Reaction--pH 7.2 to 7.6
+Thickness--25 to 45 centimeters
+
+2C horizon(s) (when present):
+Hue--10YR
+Value--3 to 5 dry or moist
+Chroma--4 or 5 dry; 3 to 5 moist
+Texture (less than 2 mm fraction)--Sandy loam, loamy sand, coarse sand
+Clay content--3 to 8 percent
+Rock fragments--0 to 30 percent gravel
+Calcium carbonate equivalent--0 to 5 percent
+Reaction--pH 7.4 to 87.8
+Thickness--20 to 75 centimeters
+
+Competing Series: 
+There are no competing series currently.
+
+Geographic Settings:
+Parent material-- Thick to very thick coarse-loamy human-transported material over alluvium derived from mixed lithologies
+Landform-- Human-transported fill on Holocene and Pleistocene stream terraces 
+Slope ranges--0 to 3 percent
+Mean annual air temperature--10.0 to 12.0 degrees C (50.0 to 53.6 degrees F)
+Mean annual precipitation range--356 to 432 millimeters (14.0 to 17.0 inches)
+Frost-free period--135 to 165 days
+Elevation--1,565 to 1,690 meters (~5,135 to 5,545 feet)
+Climate--continental, temperate, semi-arid; very cold and snowy winters; cool, moist springs, hot summers, with North American monsoon precipitation from July through August.
+
+Geographically Associated Soils:
+Rosegully soils are found on similar landscape positions but has a fine-loamy particle size control section.
+
+Drainage and Saturated Hydraulic Conductivity:
+Drainage class: Well and moderately well drained
+Saturated hydraulic conductivity: Moderately high (1.0 to 10 mm/sec)
+
+Use and Vegetation:
+Most areas are primarily used for urban development. The potential native vegetation is western sandcherry, leadplant, sand bluestem, and prairie sandreed.
+
+Distribution and Extent:
+Holocene and Pleistocene-aged stream terraces along the South Platte River; small extent in north-central Colorado; MLRA 67B.
+
+Soil Survey Region (SSR) Responsible:
+Bozeman, Montana
+
+Series Proposed:
+Denver County, CO 2025. Milehigh series is a coined name based on Denver's mile-high altitude.
+
+Remarks:
+Typical Pedon Taxonomic Features:
+Ochric epipedon--0 to 4 centimeters (^A horizon)
+Human-transported materials--0 to 112 centimeters (^A, ^C, ^Cu, C' horizons)
+Artifacts--15 to 57 centimeters (^Cu horizons)
+Lithologic discontinuity--112 centimeters
+Particle-size control section-25 to 100 centimeters
+Taxonomic version: Keys to Soil Taxonomy, 13th edition, (2022)
+
+National Cooperative Soil Survey
+U.S.A.

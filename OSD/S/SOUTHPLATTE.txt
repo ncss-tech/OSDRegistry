@@ -1,0 +1,145 @@
+LOCATION SOUTHPLATTE            CO
+
+Tentative Series
+PRR
+02/2025
+
+SOUTHPLATTE SERIES
+
+Depth class: Deep and very deep
+Drainage class: Well drained
+Saturated hydraulic conductivity: High
+Parent material: Thin human-transported material over fine-loamy eolian deposits derived from glaciofluvial sources
+Geomorphic location: Human-transported fill on plains mantled with mixed eolian deposits
+Slope range: 0 to 3 percent
+Mean annual temperature: 11.0 degrees C (51.8 degrees F)
+Mean annual precipitation: 406 millimeters (16.0 inches)
+
+Taxonomic Class:
+Fine-loamy, mixed, superactive, mesic Aridic Haplustepts
+
+Typical Pedon:
+Southplatte loam in urban, park. (Colors are for dry soil unless otherwise noted.)
+
+^A--0 to 18 cm; brown (10YR 4/3) loam, very dark grayish brown (10YR 3/2) moist; weak medium fine subangular blocky structure; slightly hard, friable, slightly sticky, slightly plastic; noneffervescent, neutral (pH 7.2); clear wavy boundary.                                                   
+
+2Bwb-18 to 33 cm; yellowish brown (10YR 5/4) sandy loam, brown (10YR 4/3) moist; weak coarse subangular blocky structure, soft, very friable, non-sticky, non-plastic; 2 percent fine gravel; noneffervescent; neutral  (pH 7.3); clear wavy boundary.      
+
+^2Bkb--33 to 78 cm; brown (10YR 5/3) sandy loam, brown (10YR 4/3); weak coarse  subangular block structure; slightly hard, friable, non-sticky, non-plastic; finely disseminated free carbonates and 2 percent medium, irregular carbonates masses throughout the matrix; strongly effervescent; moderately alkaline (pH 8.2); gradual wavy boundary.   
+
+2C1-78 to 107 cm; yellowish brown (10YR 5/4) sandy loam, dark yellowish brown (10YR 4/4) moist; massive, slightly hard, friable, slightly sticky, slightly plastic; noneffervescent; neutral (pH 7.4); gradual way boundary.      
+
+2C2--107 to 135 cm; yellowish brown (10YR 5/6) sandy clay loam, yellowish brown (10YR 5/4); massive; soft, very friable, non-sticky, non-plastic; few fine roots; noneffervescent; neutral (pH 7.2).
+
+ 2C3--135 to 200 cm; brownish yellow (10YR 6/6) fine sandy loam, light yellowish brown (10YR 6/4) moist; massive; soft, very friable, non-sticky, non-plastic; noneffervescent; neutral (pH 6.8).       
+
+Type Location:
+Denver County, CO
+USGS Quadrangle: Commerce City
+Latitude: 39.7608806
+Longitude: -104.9762417
+Datum: WGS84
+Coordinates sources: Hand-held GPS
+
+Range in Characteristics:
+Depth to free carbonates-25 to 75 centimeters
+Thickness of human-transported material-less than 50 centimeters
+Particle-size control section (weighted average):
+Clay content-18 to 32 percent
+Sand content--18 to 45 percent
+Total rock fragments--0 to 8 percent
+
+^A horizon:
+Hue-7.5YR or 10YR
+Value-3 to 5 dry; 1 to 3 moist
+Chroma-3 or 4 dry; 2 to 4 moist
+Texture (less than 2 mm fraction)--Clay loam, silty clay loam, loam
+Clay content--22 to 35 percent
+Rock fragments--0 to 8 percent gravel
+Reaction--pH 7.0 to 7.8
+Thickness--5 to 20 centimeters
+
+^C or Cu horizon(s) (where present):
+Hue--10YR
+Value-4 or 5 dry or moist
+Chroma-4 or 5 dry or moist
+Texture (less than 2 mm fraction)-Clay loam, sandy clay loam, sandy loam
+Clay content--25 to 35 percent
+Rock fragments--3 to 20 percent gravel
+Artifacts--0 to 5 percent
+Reaction--pH 7.2 to 8.2
+Thickness--10 to 25 centimeters
+
+^2Bwb horizon(s):
+Hue--10YR
+Value-5 or 6 dry; 3 to 4 moist
+Chroma-3 or 4 dry; 3 to 5 moist
+Texture (less than 2 mm fraction)-Clay loam, sandy clay loam, sandy loam
+Clay content-20 to 35 percent
+Rock fragments--0 to 3 percent gravel
+Reaction--pH 7.0 to 7.8
+Thickness--15 to 45 centimeters
+
+^2Bkb horizon(s):
+Hue--10YR
+Value-5 to 7 dry; 3 to 4 moist
+Chroma-3 to 5 dry; 3 to 4 moist
+Texture (less than 2 mm fraction)-Clay loam, sandy clay loam, silty clay loam
+Clay content-28 to 35 percent
+Rock fragments--0 to 12 percent gravel
+Reaction--pH 7.4 to 8.4
+Thickness--15 to 50 centimeters (combined)
+
+2C horizon(s):
+Hue-2.5Y or 10YR
+Value-5 or 6 dry; 4 or 5 moist
+Chroma-3 to 5 dry; 4 or 5 moist
+Texture (less than 2 mm fraction)-Clay loam, sandy clay loam, sandy loam 
+Clay content--12 to 35 percent
+Rock fragments--0 to 5 percent gravels
+Reaction--pH 7.2 to 8.4
+Thickness--25 to 65 centimeters
+
+Competing Series: These are the Atchison, Berthoud, Fairden, Kachina, McRae, Redmountain, Sixmile series, Teromote, and Ziggy series.  None of these series has an ^A horizon.
+
+Geographic Settings:
+Parent material- Thin human-transported material over fine-loamy eolian deposits derived from glaciofluvial sources
+Landform--Human-transported fill on plains mantled with mixed eolian deposits
+Slope ranges--0 to 3 percent
+Mean annual air temperature--10.0 to 12.0 degrees C (50.0 to 53.6 degrees F)
+Mean annual precipitation range--356 to 432 millimeters (14.0 to 17.0 inches)
+Frost-free period--135 to 165 days
+Elevation--1,580 to 1,720 meters (~5,185 to 5,645 feet)
+Climate--continental, temperate, semi-arid; very cold and snowy winters; cool, moist springs, hot summers, with North American monsoon precipitation from July through August.
+
+Geographically Associated Soils: Globeville soils: Found on adjacent stream terraces and has fine-loamy particle size control section
+
+Drainage and Saturated Hydraulic Conductivity:
+Drainage class: Well drained
+Saturated hydraulic conductivity: High (5 to 15 mm/sec)
+Flooding: Southplatte soils are typically not subject to flooding
+Ponding: Southplatte soils are typically not subject to ponding
+
+Use and Vegetation:
+Most areas are primarily used for urban development. The potential native vegetation is fourwing saltbush, winterfat, western wheatgrass, and blue grama.
+
+Distribution and Extent: Found on plains, strath terraces, and pediments throughout the City and County of Denver, CO; small extent in north-central Colorado; MLRA 67B.
+
+Soil Survey Region (SSR) Responsible:
+Bozeman, Montana
+
+Series Proposed:
+Denver County, CO 2025. Southplatte series is the name of the river that flows through the City and County of Denver.
+
+Remarks:
+Typical Pedon Taxonomic Features:
+Ochric epipedon--0 to 18 centimeters (^A horizon)
+Human-transported materials--0 to 18 centimeters (^A horizon)
+Lithologic discontinuity: 18 centimeters
+Cambic horizon-18 to 33 centimeters (2Bwb horizon)
+Identifiable secondary carbonates: 33 to 78 centimeters (2Bkb horizon)
+Particle-size control section--25 to 100 centimeters
+Taxonomic version: Keys to Soil Taxonomy, 13th edition, (2022)
+
+National Cooperative Soil Survey
+U.S.A.
