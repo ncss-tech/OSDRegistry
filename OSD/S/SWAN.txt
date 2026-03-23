@@ -1,66 +1,123 @@
 LOCATION SWAN                   TX
 
 Established Series
-Rev. WLM-CLN
-11/2000
+WLM-CLN
+02/2026
 
 SWAN SERIES
 
-The Swan series consists of very deep, very poorly drained, slowly permeable soils.  These nearly level soils, on flood plains or coastal marshes near sea level, formed in recent loamy and clayey alluvium.  Slope is less than 1 percent.
+Depth class: Very deep
+Drainage class: Very poorly drained
+Flooding frequency and duration: Very frequent, brief
+Saturated hydraulic conductivity: Low to moderately low in the surface and moderately high to very high throughout the rest of the profile
+Parent material: Fine-loamy alluvium
+Slope: 0 to 1 percent
+Mean annual air temperature: 22 degrees C (72 degrees F)
+Mean annual precipitation: 1067 millimeters (42 inches)
 
 TAXONOMIC CLASS: Fine-loamy, mixed, superactive, calcareous, hyperthermic Typic Endoaquolls
 
-TYPICAL PEDON: Swan clay--rangeland.
-(Colors are for moist soil unless otherwise stated.)
+TYPICAL PEDON: Swan mucky peat on a nearly level flood plain at an elevation of 2 meters. (Colors are for moist soil unless otherwise stated.)
 
-    Oe--0 to 3 inches; dark olive gray (5Y 3/2) mucky peat; olive gray (5Y 4/2) dry; massive; soft, very friable; many fine and medium roots; strongly saline; moderately alkaline; clear smooth boundary. (0 to 5 inches thick)
+ Oe--0 to 8 centimeters; dark olive gray (5Y 3/2) mucky peat, olive gray (5Y 4/2) dry; 60 percent unrubbed fiber content, 30 percent rubbed fiber content; H4 von Post humification; massive; soft, very friable; many fine and medium roots; strongly saline; moderately alkaline (pH 8.2); clear smooth boundary. (Oe horizon is 0 to 13 centimeters thick)
 
-    Ag--3 to 15 inches; very dark gray (N 3/0) clay; dark gray (N 4/0) dry; weak fine prismatic structure parting to moderate fine angular blocky; very hard, firm; few medium and common fine roots; many fine faint black (N 2/0) iron depletions; few fine fragments of shells; strongly effervescent; strongly saline; moderately alkaline; clear wavy boundary. (10 to 17 inches thick)
+ Ag--8 to 38 centimeters; very dark gray (N 3/) clay, dark gray (N 4/) dry; weak fine prismatic structure parting to moderate fine angular blocky structure; very hard, firm; few medium and common fine roots; many fine faint black (N 2.5/) iron depletions; 1 percent fine fragments of shells; strongly effervescent (HCl); strongly saline; moderately alkaline (pH 8.2); clear wavy boundary. (Ag horizon is 25 to 43 centimeters thick)
 
-    Cg1--15 to 30 inches; dark gray (5Y 4/1) sandy clay loam; gray (5Y 5/1) dry; massive; hard, friable; few fine roots; few fine fragments of snail shells; strongly effervescent; strongly saline; moderately alkaline; clear wavy boundary. (15 to 22 inches thick)
+ Cg1--38 to 76 centimeters; dark gray (5Y 4/1) sandy clay loam, gray (5Y 5/1) dry; massive; hard, friable; few fine roots; 1 percent fine shell fragments; strongly effervescent (HCl); strongly saline; moderately alkaline (pH 8.2); clear wavy boundary.
 
-    Cg2--30 to 48 inches; gray (5Y 6/1) sandy loam; light gray (5Y7/1) dry; massive; soft, very friable; few fine roots; common coarse distinct very dark gray (5Y 3/1) and dark gray (5Y 4/1) iron depletions; few fine fragments of snail shells; strongly effervescent; strongly saline; moderately alkaline; clear wavy boundary. (9 to 22 inches thick)
+ Cg2--76 to 122 centimeters; gray (5Y 6/1) sandy loam, light gray (5Y7/1) dry; massive; soft, very friable; few fine roots; 10 percent coarse distinct very dark gray (5Y 3/1) and dark gray (5Y 4/1) iron depletions; 1 percent fine shell fragments; strongly effervescent (HCl); strongly saline; moderately alkaline (pH 8.2); clear wavy boundary.
 
-    Cg3--48 to 63 inches; light brownish gray (10YR 6/2) loamy sand; light gray (10YR 7/2) dry; massive; soft, loose; many coarse prominent gray (5Y 5/1) common coarse prominent olive (5Y 5/3) and few medium prominent grayish green (5G 5/2) iron depletions; few fine fragments of snail shells; strongly effervescent; strongly saline; moderately alkaline; clear wavy boundary. (5 to 14 inches thick)
+ Cg3--122 to 160 centimeters; light brownish gray (10YR 6/2) loamy sand, light gray (10YR 7/2) dry; single grain; soft, loose; 20 percent coarse prominent gray (5Y 5/1) and 10 percent coarse prominent olive (5Y 5/3) and 1 percent medium prominent grayish green (5G 5/2) iron depletions; 1 percent fine shell fragments; strongly effervescent (HCl); strongly saline; moderately alkaline (pH 8.2); clear wavy boundary.
 
-    Cg4--63 to 80 inches; olive gray (5Y 5/2) loamy sand; light olive gray (5Y 6/2) dry, massive; slightly hard, loose; many faint gray (5Y 5/1) iron depletions; few fine fragments of sea shells; strongly effervescent; strongly saline; moderately alkaline.
+ Cg4--160 to 200 centimeters; olive gray (5Y 5/2) loamy sand, light olive gray (5Y 6/2) dry, single grain; slightly hard, loose; 20 percent faint gray (5Y 5/1) iron depletions; 1 percent fine shell fragments; strongly effervescent (HCl); strongly saline; moderately alkaline (pH 8.2).
 
-TYPE LOCATION: Jackson County, Texas; from the intersection of Farm Road 234 and Farm Road 616 in Vanderbilt; 1.14 miles southwest on Farm Road 616 to a private paved road; 0.95 mile south-southeast on private paved road to a shell road; 3.35 miles southeast on road to ranch headquarters; 0.75 mile south-southeast and 1.8 miles south-southwest on shell road; 0.27 mile west on shell road to oil well levee; 0.1 mile north-northeast in rangeland.
+TYPE LOCATION: Jackson County, Texas; approximately 8.64 kilometers (5.4 miles) south-southeast from the intersection of FM 234 and FM 616 in Vanderbilt, Texas; and approximately 6.26 kilometers (3.9 miles) northwest of the intersection of Bayside Lane and FM 1593 near Formosa Plastics Corporation plant; USGS quadrangle: Point Comfort, Texas
 
-RANGE IN CHARACTERISTICS: These alluvial sediments are more than 80 inches thick.  The weighted average clay content of the 10- to 40-inch particle-size control section is 18 to 35 percent.  Most pedons are calcareous throughout.  Reaction is moderately alkaline or strongly alkaline.  Soil salinity ranges from 8 to 25 dS/m in most pedons.
+Latitude: 28.7468719
+Longitude: -96.5966949
+Datum: WGS84
+Coordinate Source: From hand-held GPS
 
-The Oe horizon (hemic soil materials) ranges from 0 to 5 inches thick.  Color is in shades of gray or black in hue of 10YR to 5Y.  The remains of sedges, reeds, cattails and other herbaceous plants can be recognized.  However, much of this material has undergone decomposition and cannot be recognized.  Mineral soil materials comprise 0 to 25 percent by volume.  Most pedons have an Oe horizon; however, as a result of fire the Oe horizon may be destroyed for a short period.
+RANGE IN CHARACTERISTICS: 
+Depth to bedrock: Greater than 200 centimeters
+Moisture regime: Aquic
+Reaction throughout: Moderately to strongly alkaline (pH 7.9 to 9.0)
+Particle-size control section (weighted average): 33 to 108 centimeters
+Sand content--65 to 70
+Clay content--18 to 35
 
-The Ag horizon ranges from 10 to 20 inches thick.  Color is in hue of 10YR to 5Y, value of 2 or 3, and chroma of 1 to 2 or has neutral colors of N2/0 or N3/0.  Texture is clay, silty clay, clay loam or sandy clay loam.  Most pedons have iron concentrations in shades of brown or yellow in the lower part of the A horizon.
+Oe horizon:
+Hue--10YR to 5Y
+Value--3 or 4
+Chroma--1 or 2
+Texture--mucky peat
+Von Post humification--H4 to H6
 
-The Cg horizons have hue of 10YR, 2.5Y, or 5Y, value of 4 to 6, and chroma of N/ to 2.  Texture is sandy loam, loam, clay loam, or sandy clay loam and most pedons have sandy horizons below the 10- to 40-inch control section.  Some pedons have thin buried A horizons.  Redox features in shades of brown, yellow, gray or green range from few to many.  Some pedons contain a few concretions of calcium carbonate and small sea shells.
+Ag horizon:
+Hue--10YR to 5Y or is neutral
+Value--2 or 3
+Chroma--0 or 2
+Texture--sandy clay loam, clay loam, silty clay, clay
 
-COMPETING SERIES: There are no other series in this family.  Series in similar families include Bluff, Placedo, and Surfside series.  Bluff soils are not saline or calcareous and have siliceous mineralogy.  Placedo soils have a fine particle-size control section and have a ochric epipedon.  Surfside soils have a very-fine particle-size control section.
+Cg horizons:
+Hue--10YR to 5Y
+Value--4 to 7
+Chroma--1 to 2
+Texture--sandy loam, loam, clay loam, or sandy clay loam
 
-GEOGRAPHIC SETTING: Swan soils are salt marshes in nearly level flood plains of rivers and streams, and coastal areas adjacent to bays at or near sea level.  The soil formed in saline, loamy and clayey alluvium.  The mean annual temperature ranges from 70 to 72 degrees F.  Mean annual precipitation ranges from 38 to 46 inches.  Frost-free days range from 260 to 300 days and elevation ranges from 0 to 10 feet.  The Thornthwaite annual P-E indices range from 52 to 62.
+COMPETING SERIES: There are no other series in this family. Series in similar families include Placedo and Surfside series.
+Placedo soils: have a fine particle-size control section and have ochric epipedon.
+Surfside soils: have a very-fine particle-size control section and a water table that fluctuates throughout the year.
 
-GEOGRAPHICALLY ASSOCIATED SOILS: These are the Aransas, Placedo, and Navidad series.  Aransas and Placedo soils have more than 35 percent clay in the control section.  Navidad soils have a mollic epipedon thicker than 20 inches.  Placedo soils occur in similar flood plain positions.  Aransas and Navidad soils are on slightly higher flood plain positions.
+GEOGRAPHIC SETTING:
+Parent material: Fine-loamy alluvium
+Landscape: Coastal plains
+Landform: Flood plains
+Slope: 0 to 1 percent
+Mean annual precipitation: 812 to 1194 millimeters (32 to 47 inches)
+Mean annual air temperature: 21 to 22 degrees C (70 to 72 degrees F)
+Frost-free period: 330 to 365 days
+Elevation: 0 to 3 meters
 
-DRAINAGE AND PERMEABILITY: Very poorly drained; runoff is negligible or the soil is ponded; very slow permeability in the surface layer and moderately slow to rapid in the underlying material.  A water table fluctuates from 0.5 feet above the surface to 1 foot below the surface.  The soils are flooded by fresh water following heavy rains.  High tides cover the soils once or twice a month.  During periods of flooding, water is ponded from 1 foot to about 5 feet deep for several days.
+GEOGRAPHICALLY ASSOCIATED SOILS: 
+These are the Aransas, Navidad, and Placedo (mentioned above) series.
+Aransas soils: are on flood plains, have slickensides, and a fine smectitic particle-size control section.
+Navidad soils: are on flood plains, on slightly higher landscape positions, and have thick mollic epipedons.
 
-USE AND VEGETATION: Used for rangeland and wildlife.  Native vegetation includes marshes cordgrass, smooth cordgrass, gulf cordgrass, bushy sea-oxeye, seashore saltgrass, spiny aster, shoregrass, sedges, and rushes.
+DRAINAGE AND SATURATED HYDRAULIC CONDUCTIVITY:
+Drainage class: Very poorly drained
+Saturated hydraulic conductivity: Low to moderately low in the surface, and moderately high to very high throughout the rest of the profile
+Flooding frequency and duration: Very frequent, brief
+Seasonal water table: 0 centimeters
+Surface runoff: Negligible
 
-DISTRIBUTION AND EXTENT: Flood plains of rivers and small streams near sea level in the central part of the Gulf Coast Saline Prairie (MLRA 150B, 151) of Texas.  The series is of small extent.
+USE AND VEGETATION:
+Major use: Wildlife habitat
+Vegetation: Bushy seaside tansy, chairmaker's bulrush, saltgrass, saltmeadow cordgrass, seashore paspalum, sturdy bulrush
+Ecological Site: R150BY550TX-Northern Salt Marsh
 
-MLRA SOIL SURVEY REGIONAL OFFICE (MO) RESPONSIBLE: Temple, Texas
+DISTRIBUTION AND EXTENT:
+General Area: On mainland marshes near bays along the central coast of Texas
+Land Resource Region: T-Atlantic and Gulf Coast Lowland Forest and Crop Region
+MLRA(s): 150B-Gulf Coast Saline Prairies
+Extent: Small
 
-SERIES ESTABLISHED: Jackson County, Texas; 1986. The name is from a small lake in Jackson County.
+SOIL SURVEY REGIONAL OFFICE (SSRO) RESPONSIBLE: Special Projects Office
 
-REMARKS: Classification changed from Typic Haplaquolls to Typic Endoaquolls 11/2000 based on typifying pedon description.  Further study and characterization data of the series is needed to verify hydrology and classification.
+SERIES ESTABLISHED: Jackson County, Texas, 1986
 
-Diagnostic horizons and features recognized in this pedon are:
+REMARKS:
+Classification changed from Typic Haplaquolls to Typic Endoaquolls on 11/2000 based on typifying pedon description. 
 
-Mollic epipedon: 3 to 15 inches
-Aquic conditions: Saturated most of each year.
+Typical pedon taxonomic features:
+Aquic conditions: 0 to 200 centimeters
+Mollic epipedon: 8 to 38 centimeters
+Redox depletions: 8 to 200 centimeters
+Reduced matrix: 8 to 200 centimeters
+Taxonomic version: Keys to Soil Taxonomy, 13th edition (2022)
 
-ADDITIONAL DATA: none
-
-TAXONOMIC VERSION: Soil Taxonomy, Second Edition, 1999.
-
+ADDITIONAL DATA:
+OSD User Pedon ID: S1997TX239120
+________________________________________
 National Cooperative Soil Survey
 U.S.A.

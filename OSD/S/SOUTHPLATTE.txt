@@ -1,145 +1,153 @@
 LOCATION SOUTHPLATTE            CO
 
-Tentative Series
-PRR
-02/2025
+Established Series
+PRR-KLS-EED
+03/2026
 
 SOUTHPLATTE SERIES
 
-Depth class: Deep and very deep
+Depth class: Very deep
 Drainage class: Well drained
-Saturated hydraulic conductivity: High
-Parent material: Thin human-transported material over fine-loamy eolian deposits derived from glaciofluvial sources
-Geomorphic location: Human-transported fill on plains mantled with mixed eolian deposits
+Saturated hydraulic conductivity: High (3.6 to 36.0 cm/hr)
+Parent material: Thin human-transported material over fine-loamy eolian deposits 
+Geomorphic location: Fills and other leveled areas on plains mantled with mixed eolian deposits
 Slope range: 0 to 3 percent
-Mean annual temperature: 11.0 degrees C (51.8 degrees F)
-Mean annual precipitation: 406 millimeters (16.0 inches)
+Mean annual temperature: 11 degrees C
+Mean annual precipitation: 405 millimeters 
 
-Taxonomic Class:
-Fine-loamy, mixed, superactive, mesic Aridic Haplustepts
+TAXONOMIC CLASS: Fine-loamy, mixed, superactive, mesic Aridic Haplustepts
 
-Typical Pedon:
-Southplatte loam in urban, park. (Colors are for dry soil unless otherwise noted.)
+TYPICAL PEDON: Southplatte loam, 1 percent slope on a filled plain mantled with mixed eolian deposits under cultivated grasses in a park, at an elevation of 1,604 meters. (Colors are for moist soil unless otherwise noted.)
 
-^A--0 to 18 cm; brown (10YR 4/3) loam, very dark grayish brown (10YR 3/2) moist; weak medium fine subangular blocky structure; slightly hard, friable, slightly sticky, slightly plastic; noneffervescent, neutral (pH 7.2); clear wavy boundary.                                                   
+ ^A1--0 to 7 centimeters; black (7.5YR 2.5/1) sandy loam; moderate fine granular structure; slightly hard, friable, nonsticky, nonplastic; noneffervescent, neutral (pH 7.2); clear wavy boundary 
 
-2Bwb-18 to 33 cm; yellowish brown (10YR 5/4) sandy loam, brown (10YR 4/3) moist; weak coarse subangular blocky structure, soft, very friable, non-sticky, non-plastic; 2 percent fine gravel; noneffervescent; neutral  (pH 7.3); clear wavy boundary.      
+ ^A2--7 to 23 centimeters; black (7.5YR 2/1) sandy clay loam; weak fine granular structure, soft, very friable, slightly sticky, nonplastic; noneffervescent; neutral (pH 7.0); gradual wavy boundary (combined thickness of 5 to 20 centimeters)
 
-^2Bkb--33 to 78 cm; brown (10YR 5/3) sandy loam, brown (10YR 4/3); weak coarse  subangular block structure; slightly hard, friable, non-sticky, non-plastic; finely disseminated free carbonates and 2 percent medium, irregular carbonates masses throughout the matrix; strongly effervescent; moderately alkaline (pH 8.2); gradual wavy boundary.   
+ 2Bw--23 to 56 centimeters; dark brown (7.5YR 3/3) sandy clay loam; weak medium subangular block structure; slightly hard, friable, nonsticky, nonplastic; noneffervescent; neutral (pH 7.0); gradual wavy boundary
 
-2C1-78 to 107 cm; yellowish brown (10YR 5/4) sandy loam, dark yellowish brown (10YR 4/4) moist; massive, slightly hard, friable, slightly sticky, slightly plastic; noneffervescent; neutral (pH 7.4); gradual way boundary.      
+ 2BC--56 to 79 centimeters; brown (7.5YR 4/3) sandy loam; weak medium subangular blocky structure; soft, very friable, nonsticky, nonplastic; noneffervescent; neutral (pH 7.0); gradual wavy boundary (combined thickness of B horizons are 15 to 150 centimeters)
 
-2C2--107 to 135 cm; yellowish brown (10YR 5/6) sandy clay loam, yellowish brown (10YR 5/4); massive; soft, very friable, non-sticky, non-plastic; few fine roots; noneffervescent; neutral (pH 7.2).
+ 2C1--79 to 101 centimeters; brown (7.5YR 4/3) sandy clay loam; massive; moderately hard, firm, moderately sticky, slightly plastic; noneffervescent; neutral (pH 7.0)
 
- 2C3--135 to 200 cm; brownish yellow (10YR 6/6) fine sandy loam, light yellowish brown (10YR 6/4) moist; massive; soft, very friable, non-sticky, non-plastic; noneffervescent; neutral (pH 6.8).       
+ 2C2--101 to 200 centimeters; brown (10YR 4/3) sandy loam; massive; soft, very friable, nonsticky, nonplastic; noneffervescent; neutral (pH 7.2) 
 
-Type Location:
-Denver County, CO
-USGS Quadrangle: Commerce City
-Latitude: 39.7608806
-Longitude: -104.9762417
+TYPE LOCATION:
+Denver County, Colorado; located in the southern section of the northwestern-most couplet of the Park Avenue Parks
+
+USGS Quadrangle: Englewood
+Latitude: 39.7464556
+Longitude: -104.9771000
 Datum: WGS84
 Coordinates sources: Hand-held GPS
 
-Range in Characteristics:
-Depth to free carbonates-25 to 75 centimeters
-Thickness of human-transported material-less than 50 centimeters
+RANGE IN CHARACTERISTICS:
+Thickness of human-transported material: less than 50 centimeters
+Depth to bedrock: greater than 150 centimeters
+Depth to seasonal high water table: Greater than 200 centimeters
+Soil reaction: Neutral to moderately alkaline (pH 7.0 to 8.4)
+Depth to free carbonates--25 to 75 centimeters
 Particle-size control section (weighted average):
-Clay content-18 to 32 percent
+Clay content--18 to 32 percent
 Sand content--18 to 45 percent
-Total rock fragments--0 to 8 percent
+Rock fragment content--0 to 8 percent
 
-^A horizon:
-Hue-7.5YR or 10YR
-Value-3 to 5 dry; 1 to 3 moist
-Chroma-3 or 4 dry; 2 to 4 moist
-Texture (less than 2 mm fraction)--Clay loam, silty clay loam, loam
-Clay content--22 to 35 percent
+^A(u) horizons:
+Hue--7.5YR or 10YR
+Value--1 to 5 dry; 1 to 3 moist
+Chroma--3 or 4 dry; 1 to 4 moist
+Texture (less than 2 mm fraction)--clay loam, loam, sandy clay loam, sandy loam, 
+Clay content--7 to 30 percent
 Rock fragments--0 to 8 percent gravel
-Reaction--pH 7.0 to 7.8
-Thickness--5 to 20 centimeters
+Reaction--Neutral to slightly alkaline (pH 7.0 to 8.2)
 
-^C or Cu horizon(s) (where present):
+^C(u) horizons (when present):
 Hue--10YR
-Value-4 or 5 dry or moist
-Chroma-4 or 5 dry or moist
-Texture (less than 2 mm fraction)-Clay loam, sandy clay loam, sandy loam
-Clay content--25 to 35 percent
-Rock fragments--3 to 20 percent gravel
+Value--4 or 5 dry or moist
+Chroma--4 or 5 dry or moist
+Texture (less than 2 mm fraction)--clay loam, sandy clay loam, sandy loam, silty clay loam
+Clay content--25 to 40 percent
+Rock fragments--0 to 20 percent gravel
 Artifacts--0 to 5 percent
-Reaction--pH 7.2 to 8.2
+Reaction--Neutral to slightly alkaline (pH 7.2 to 8.2)
 Thickness--10 to 25 centimeters
 
-^2Bwb horizon(s):
-Hue--10YR
-Value-5 or 6 dry; 3 to 4 moist
-Chroma-3 or 4 dry; 3 to 5 moist
-Texture (less than 2 mm fraction)-Clay loam, sandy clay loam, sandy loam
-Clay content-20 to 35 percent
-Rock fragments--0 to 3 percent gravel
-Reaction--pH 7.0 to 7.8
-Thickness--15 to 45 centimeters
+2Bw horizons:
+Hue--7.5YR or 10YR
+Value--5 or 6 dry; 3 to 4 moist
+Chroma--3 or 4 dry; 3 to 5 moist
+Texture (less than 2 mm fraction)--clay loam, sandy clay loam, sandy loam, silty clay loam
+Clay content--20 to 35 percent
+Reaction--Neutral to slightly alkaline (pH 7.0 to 7.8)
 
-^2Bkb horizon(s):
-Hue--10YR
-Value-5 to 7 dry; 3 to 4 moist
-Chroma-3 to 5 dry; 3 to 4 moist
-Texture (less than 2 mm fraction)-Clay loam, sandy clay loam, silty clay loam
-Clay content-28 to 35 percent
-Rock fragments--0 to 12 percent gravel
-Reaction--pH 7.4 to 8.4
-Thickness--15 to 50 centimeters (combined)
+2Bk or 2BChorizons (when present):
+Hue--7.5YR or 10YR
+Value--5 to 7 dry; 3 to 4 moist
+Chroma--3 to 5 dry; 3 to 4 moist
+Texture (less than 2 mm fraction)--clay loam, sandy clay loam, sandy loam
+Clay content--22 to 35 percent
+Reaction--Slightly to moderately alkaline (pH 7.0 to 8.2)
 
 2C horizon(s):
-Hue-2.5Y or 10YR
-Value-5 or 6 dry; 4 or 5 moist
-Chroma-3 to 5 dry; 4 or 5 moist
-Texture (less than 2 mm fraction)-Clay loam, sandy clay loam, sandy loam 
-Clay content--12 to 35 percent
-Rock fragments--0 to 5 percent gravels
-Reaction--pH 7.2 to 8.4
-Thickness--25 to 65 centimeters
+Hue--2.5Y or 10YR or 7.5YR
+Value--5 or 6 dry; 3 to 6 moist
+Chroma--3 to 6 dry; 3 or 5 moist
+Texture (less than 2 mm fraction)--clay loam, fine sandy loam, sandy clay loam, sandy loam 
+Clay content--1 to 35 percent
+Reaction--Neutral to moderately alkaline (pH 7.0 to 8.2)
 
-Competing Series: These are the Atchison, Berthoud, Fairden, Kachina, McRae, Redmountain, Sixmile series, Teromote, and Ziggy series.  None of these series has an ^A horizon.
+COMPETING SERIES: 
+These are the Atchison, Berthoud, Kachina, McRae, Sixmile, Teromote, and Ziggy soils. None of these series have human-transported materials in the soil profile.
 
-Geographic Settings:
-Parent material- Thin human-transported material over fine-loamy eolian deposits derived from glaciofluvial sources
-Landform--Human-transported fill on plains mantled with mixed eolian deposits
+Atchison soils have concretions of calcium carbonate and iron-manganese in the B horizons and are strongly to violently effervescent with HCl. 
+Berthoud soils formed in alluvium or colluvium, have concretions of calcium carbonate throughout, and are strongly to violently effervescent with HCl. 
+Kachina and Teromote soils formed in alluvium and are driest in the soil moisture control section from May through June.
+McRae soils formed in alluvium and have clay films and prismatic structure in the B horizon. 
+Sixmile soils have paralithic contacts between 50 and 100 centimeters and have redder hues throughout.
+Ziggy soils formed in alluvium, have prismatic structure in the B horizons, have cooler soil temperatures, and range from 105 to 130 frost free days.
+
+GEOGRAPHIC SETTING:
+Parent material--Thin human-transported material over fine-loamy eolian deposits Landform: Fills and other leveled areas on plains mantled with mixed eolian deposits
 Slope ranges--0 to 3 percent
-Mean annual air temperature--10.0 to 12.0 degrees C (50.0 to 53.6 degrees F)
-Mean annual precipitation range--356 to 432 millimeters (14.0 to 17.0 inches)
+Mean annual air temperature--10 to 12 degrees C
+Mean annual precipitation range--356 to 432 millimeters
 Frost-free period--135 to 165 days
-Elevation--1,580 to 1,720 meters (~5,185 to 5,645 feet)
-Climate--continental, temperate, semi-arid; very cold and snowy winters; cool, moist springs, hot summers, with North American monsoon precipitation from July through August.
+Elevation--1,580 to 1,720 meters 
+Climate: Cold, dry winters and hot summers with North American monsoon precipitation from July through August. The driest months are December through February.
 
-Geographically Associated Soils: Globeville soils: Found on adjacent stream terraces and has fine-loamy particle size control section
+GEOGRAPHICALLY ASSOCIATED SOILS: 
+These are the Globeville, Greenvalley, and Racas soils.
 
-Drainage and Saturated Hydraulic Conductivity:
+Globeville soils are found in similar landscape positions, have a fine-loamy particle-size control section, have greater than 50 centimeters of human-transported materials, and lack cambic horizons.
+Greenvalley soils are found on nearby filled dunes and sandsheets, and have a coarse-loamy particle-size control section and greater than 50 centimeters of human-transported materials.
+Racas soils are found on adjacent filled loess-mantled plains and have greater than 50 centimeters of human-transported materials and a fine particle-size control section.
+
+DRAINAGE AND SATURATED HYDRAULIC CONDUCTIVITY:
 Drainage class: Well drained
-Saturated hydraulic conductivity: High (5 to 15 mm/sec)
-Flooding: Southplatte soils are typically not subject to flooding
-Ponding: Southplatte soils are typically not subject to ponding
+Saturated hydraulic conductivity: High (3.6 to 36.0 cm/hr)
+Flooding: None
+Ponding: None
 
-Use and Vegetation:
-Most areas are primarily used for urban development. The potential native vegetation is fourwing saltbush, winterfat, western wheatgrass, and blue grama.
+USE AND VEGETATION:
+Most areas are primarily used for urban development. Vegetation may include a mix of managed and unmanaged plant communities with a mix of native and non-native species. Many areas are vegetated with non-native ornamental landscaping and/or turfgrass associated with developed land uses. Some areas may exhibit weedy, invasive, and/or primary succession vegetation communities (e.g., abandoned lots and other unmanaged areas). The potential native vegetation is fourwing saltbush, winterfat, western wheatgrass, and blue grama.
 
-Distribution and Extent: Found on plains, strath terraces, and pediments throughout the City and County of Denver, CO; small extent in north-central Colorado; MLRA 67B.
+DISTRIBUTION AND EXTENT: 
+Urban and other areas with human-modified landscapes on filled plains, strath terraces, and pediments in the vicinity of Denver in north-central Colorado. MLRA 67B - Central High Plains, Southern Part. These soils are of small extent.
 
-Soil Survey Region (SSR) Responsible:
-Bozeman, Montana
+SOIL SURVEY REGION (SSR) RESPONSIBLE: Raleigh, North Carolina (Special Projects Office)
 
-Series Proposed:
-Denver County, CO 2025. Southplatte series is the name of the river that flows through the City and County of Denver.
+SERIES ESTABLISHED: Denver County, CO 2025. 
 
-Remarks:
+REMARKS:
 Typical Pedon Taxonomic Features:
-Ochric epipedon--0 to 18 centimeters (^A horizon)
-Human-transported materials--0 to 18 centimeters (^A horizon)
-Lithologic discontinuity: 18 centimeters
-Cambic horizon-18 to 33 centimeters (2Bwb horizon)
-Identifiable secondary carbonates: 33 to 78 centimeters (2Bkb horizon)
-Particle-size control section--25 to 100 centimeters
+Ochric epipedon--The zone from 0 to 23 centimeters (^A horizons)
+Human-transported materials--The zone from 0 to 23 centimeters (^A horizons)
+Lithologic discontinuity--At a depth of 23 centimeters
+Cambic horizon--The zone from 23 to 56 centimeters (2Bwb horizon)
+Particle-size control section--The zone from 25 to 100 centimeters
 Taxonomic version: Keys to Soil Taxonomy, 13th edition, (2022)
+Other: The Southplatte name is based on the name of the river that flows through Denver, Colorado. Some Southplatte pedons have a thin surface mantle of human-transported materials and are included in this concept as interpretations or classification are not affected.
+ADDITIONAL DATA:
+NASIS User Pedon ID: 2020CO031941
 
 National Cooperative Soil Survey
 U.S.A.

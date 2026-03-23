@@ -1,142 +1,150 @@
 LOCATION RACAS                  CO
 
-Tentative Series
-PRR, KLS
-02/2025
+Established Series
+PRR-KLS-EED
+03/2026
 
 RACAS SERIES
 
-Depth class: Deep and very deep
-Drainage class: Well and moderately well drained
-Saturated hydraulic conductivity: Moderately low
-Parent material: Thick and very thick clayey human-transported material over loess derived from glaciofluvial sources or human-transported material over slope alluvium derived from loess.
-Geomorphic location: Human-transported fill on loess-mantled plains and storm-water retention basins and depressions on floodways within loess-mantled plains
+Depth class: Very deep
+Drainage class: Well drained
+Saturated hydraulic conductivity: Moderately low (0.04 to 0.36 cm/hr)
+Parent material: Thick clayey human-transported material over loess or alluvium derived from loess
+Geomorphic location: Fills and other leveled areas on loess-mantled plains and on floodways within loess-mantled plains
 Slope range: 0 to 10 percent
-Mean annual temperature: 11.0 degrees C (51.8 degrees F)
-Mean annual precipitation: 406 millimeters (16.0 inches)
+Mean annual temperature: 11 degrees C 
+Mean annual precipitation: 405 millimeters
 
-Taxonomic Class:
-Fine, spolic, smectitic, calcareous, mesic Torrertic Ustorthents
-Typical Pedon:
-Racas clay loam in urban, park. (Colors are for dry soil unless otherwise noted.)
+TAXONOMIC CLASS: Fine, spolic, smectitic, calcareous, mesic Torrertic Ustorthents
 
-^A--0 to 5 cm; dark grayish brown (10YR 4/2) clay loam, dark brown (10YR 3/3) moist; weak fine granular structure; slightly hard, friable, moderately sticky, moderately plastic; many very fine and fine roots, finely disseminated free carbonates throughout the matrix; slightly effervescent, moderately alkaline (pH 8.0); clear smooth boundary.                                                   
+TYPICAL PEDON: Racas clay loam, 5 percent slope on a filled plain under cultivated grass in a park, at an elevation of 1,618 meters. (Colors are for dry soil unless otherwise noted.)
 
-^C1--5 to 22 cm; brown (10YR 4/3)clay loam, dark brown (10YR 3/3) moist; massive; slightly hard, friable, moderately sticky, moderately plastic; many very fine and fine roots; finely disseminated free carbonates throughout the matrix; 2 percent gravel; 2 percent parachanners of shale; strongly effervescent; moderately alkaline (pH 8.2); clear smooth boundary.      
+ ^Au--0 to 8 centimeters; pale brown (10YR 6/3) clay loam, brown (10YR 4/3) moist; moderate fine granular structure; moderately hard, firm, moderately sticky, moderately plastic; finely disseminated free carbonates throughout the matrix; 5 percent gravel; 3 percent artifacts of concrete and asphalt; strongly effervescent, slightly alkaline (pH 7.4); clear smooth boundary (3 to 35 centimeters thick)
 
-^C2--22 to 54 cm; brown (10YR 5/3)silty clay, brown (10YR 4/3) moist; massive; moderately hard, firm, very sticky, very plastic; few fine roots; finely disseminated free carbonates and 3 percent carbonate masses (assumed to have been inherited from the fill) throughout the matrix; 2 percent gravel; 5 percent parachanners of shale; strongly effervescent; moderately alkaline (pH 8.4); clear smooth boundary. 
+ ^Cu1--8 to 23 centimeters; light yellowish brown (10YR 6/4) clay loam, dark yellowish brown (10YR 4/4) moist; massive; hard, very firm, very sticky, very plastic; finely disseminated free carbonates and common medium distinct irregular carbonate masses (assumed to be inherited from fill) in the matrix; 3 percent gravel; 1 percent artifacts of asphalt;  slightly effervescent; slightly alkaline (pH 7.7); clear smooth boundary
 
-^C3--54 to 114 cm; brown (10YR 5/3)clay loam, brown (10YR 4/3) moist; massive; slightly hard, friable, moderately sticky, slightly plastic; few fine roots; finely disseminated free carbonates throughout the matrix; 2 percent gravel; violently effervescent; moderately alkaline (pH 8.1); clear wavy boundary. 
+ ^Cu2--23 to 46 centimeters; yellowish brown (10YR 5/4) gravelly-artifactual clay loam, dark yellowish brown (10YR 4/4) moist; massive; hard, very firm, very sticky, very plastic; common patchy distinct clay films on surfaces along pores (assumed to have been inherited from fill); finely disseminated free in the matrix; 6 percent gravel; 10 percent artifacts of concrete and asphalt; strongly effervescent; neutral  (pH 7.0); clear smooth boundary
 
-^2C1--114 to 161 cm; dark yellowish brown (10YR 4/4) silty clay, dark yellowish brown (10YR 3/4) moist; massive; moderately hard, firm, very sticky, very plastic; finely disseminated free carbonates throughout the matrix; very slightly effervescent; slightly alkaline (pH 7.6); gradual wavy boundary. 
+ ^2C1--46 to 108 centimeters; yellowish brown (10YR 5/4) clay loam, brown (10YR 4/3) moist; massive; hard, very firm, very sticky, very plastic; finely disseminated free carbonates in the matrix; 2 percent gravel; strongly effervescent; neutral (pH 7.3); clear smooth boundary 
 
-^2C2--161 to 200 cm; pale brown (10YR 6/3) silty clay loam, brown (10YR 4/3) moist; massive; slightly hard, friable, moderately sticky, moderately plastic; finely disseminated free carbonates throughout the matrix; violently effervescent; moderately alkaline (pH 8.1).                                                                              
+ ^2C2--108 to 200 centimeters; yellowish brown (10YR 5/4) clay loam, dark yellowish brown (10YR 4/4) moist; massive; moderately hard, firm, moderately sticky, moderately plastic; finely disseminated free carbonates and common fine, distinct threads of carbonate in the matrix; 2 percent gravel; slightly effervescent; neutral (pH 7.2)
 
-Type Location:
-Denver County, CO
-USGS Quadrangle: Englewood
-Latitude: 39.7254028
-Longitude: -104.9007722
+TYPE LOCATION:
+Denver County, Colorado, located in the west-central part of the southern section of Westerly Creek Park
+
+USGS Quadrangle: Commerce City, Colorado
+Latitude: 39.7511444
+Longitude: -104.8807139
 Datum: WGS84
-Coordinates sources: Hand-held GPS
+Coordinate source: Hand-held GPS
 
-Range in Characteristics:
-Depth to free carbonates--0 to 200 centimeters
-Thickness of human-transported material--50 to 200 centimeters
+RANGE IN CHARACTERISTICS:
+Thickness of human-transported material: 50 to greater than 200 centimeters
+Depth to paralithic contact: 100 to greater than 150 centimeters
+Depth to seasonal highwater table: Greater than 150 centimeters
+Linear extensibility: From 6.0 and 10.0 between 0 and 100 centimeters
+Soil reaction: Neutral to moderately alkaline (pH 7.0 to 8.4)
+Depth to free carbonates: 0 to 50 centimeters
 Particle-size control section (weighted average):
 Clay content--35 to 45 percent
 Sand content--15 to 30 percent
-Total rock fragments--0 to 5 percent
+Rock fragment content--0 to 5 percent
+Artifact content--less than 10 percent, by volume; some individual horizons have more than 10 percent artifacts
 
-^A or ^Au horizon:
+^A(u) horizons:
 Hue--7.5YR or 10YR
-Value--3 to 5 dry; 1 to 4 moist
-Chroma--3 to 5 dry; 2 to 4 moist
-Texture (less than 2 mm fraction)--Silty clay loam, clay loam, loam
-Clay content--28 to 45 percent
-Rock fragments--0 to 15 percent gravel
-Artifacts--0 to 5 percent
+Value--3 to 6 dry; 1 to 4 moist
+Chroma--2 to 5 dry; 1 to 4 moist
+Texture (less than 2 mm fraction)-- clay, clay loam, loam, silty clay loam
+Clay content--24 to 45 percent
+Rock fragment content--0 to 14 percent gravel
+Artifact content--0 to 14 percent
 Calcium carbonate equivalent--0 to 5 percent
-Reaction--pH 7.2 to 7.8
-Thickness--10 to 35 centimeters
+Reaction--Neutral to moderately alkaline (pH 7.2 to 8.0)
 
-^C horizon(s):
+^Cu horizons (where present):
+Hue--10YR
+Value--3 to 6 dry; 3 to 5 moist
+Chroma--2 or 4 dry; 1 to 5 moist
+Texture (less than 2 mm fraction)-- clay, clay loam, sandy clay loam, silty clay, silty clay loam
+Clay content--20 to 45 percent
+Rock fragment content--0 to 20 percent gravel
+Artifact content--1 to 15 percent
+Calcium carbonate equivalent--0 to 10 percent
+Reaction--Neutral to moderately alkaline (pH 7.0 to 8.2)
+
+^C and/or ^C' horizon(s) (where present):
 Hue--7.5YR or 10YR
 Value--4 to 6 dry; 3 to 5 moist
-Chroma--3 to 5; moist or dry
-Texture (less than 2 mm fraction)--Silty clay loam, silty clay, clay
-Clay content--35 to 50 percent
-Rock fragments--0 to 10 percent gravel
+Chroma--1 to 6 moist or dry
+Texture (less than 2 mm fraction)-- clay, clay loam, sandy clay loam, silty clay, silty clay loam, 
+Clay content--25 to 50 percent
+Rock fragment content--0 to 10 percent gravel
 Calcium carbonate equivalent--5 to 14 percent
-Reaction--pH 7.9 to 8.6
-Thickness--15 to 50 centimeters
+Reaction--Neutral to moderately alkaline (pH 7.0 to 8.2)
 
-^Cu horizon(s) (where present):
-Hue--10YR
-Value--3 to 5 dry; 3 or 4 moist
-Chroma--3 or 4 dry; 3 to 5 moist
-Texture (less than 2 mm fraction)--Silty clay loam, clay loam, clay
-Clay content--35 to 45 percent
-Rock fragments--0 to 20 percent gravel
-Artifacts--1 to 5 percent
-Calcium carbonate equivalent--0 to 10 percent
-Reaction--pH 7.2 to 8.2
-Thickness--15 to 55 centimeters
-
-2C horizon (when present):
+2C(k) horizons (when present):
 Hue--7.5YR or 10YR
 Value--4 to 6 dry; 3 or 4 moist
-Chroma--4 or 5 dry; 2 to 5 moist
-Texture (less than 2 mm fraction)--Silty clay loam, sandy clay loam
-Clay content--28 to 40 percent
-Rock fragments--0 to 3 percent gravels
+Chroma--3 or 5 dry; 2 to 5 moist
+Texture (less than 2 mm fraction)--clay, clay loam, sandy clay loam, silty clay, silty clay loam 
+Clay content--28 to 50 percent
+Rock fragment content--0 to 3 percent gravels
 Calcium carbonate equivalent--5 to 14 percent
-Reaction--pH 7.9 to 8.4
-Thickness--15 to 45 centimeters
+Reaction--Slightly to moderately pH 7.6 to 8.4
 
-Competing Series: 
-There are currently no competing series.
+COMPETING SERIES: 
+There are currently no competing series; the Bodot soils in a similar family did not form in human-transported materials.
 
-Geographic Settings:
-Parent material--Thick and very thick clayey human-transported material over loess derived from glaciofluvial sources or human-transported material over slope alluvium derived from loess.
-Landform--Human-transported fill on loess-mantled plains and storm-water retention basins and depressions on floodways within loess-mantled plains
-Slope ranges--0 to 10 percent
-Mean annual air temperature-10.0 to 12.0 degrees C (50.0 to 53.6 degrees F)
-Mean annual precipitation range--356 to 432 millimeters (14.0 to 17.0 inches)
-Frost-free period--135 to 165 days
-Elevation--1,580 to 1,720 meters (~5,185 to 5,645 feet)
-Climate--continental, temperate, semi-arid; very cold and snowy winters; cool, moist springs, hot summers, with North American monsoon precipitation from July through August.
+GEOGRAPHIC SETTING:
+Parent material: Thick clayey human-transported material over loess or alluvium derived from loess
+Landform: Fills and other leveled areas on loess-mantled plains and on floodways within loess-mantled plains
+Slope ranges: 0 to 10 percent
+Elevation: 1,580 to 1,720 meters
+Frost-free period: 135 to 165 days
+Mean annual air temperature:  10 to 12 degrees C 
+Mean annual precipitation range:  355 to 430 millimeters
+Climate: Cold, dry winters and hot summers with North American monsoon precipitation from July through August.  The driest months are December through February.
 
-Geographically Associated Soils: 
-Elyria soils: Found in similar landscape positions, but on mixed eolian deposits with  a fine-loamy particle size control section; 
-Globeville soils: Found in depressions and storm-water retention basins on floodways within the loess-mantled hills, have a fine-loamy particle size control section; Manzanst soils: Found on adjacent pediments at the base of loess-mantled hills with less than 50 percent human-transported material; Rosegully soils: Found on floodplain steps along drainages in loess-mantled hills and have a fine-loamy particle size control section.
+GEOGRAPHICALLY ASSOCIATED SOILS: 
+These are the Denver, Elyria, Globeville, Milehigh, and Weld soils.
 
-Drainage and Saturated Hydraulic Conductivity: 
-Drainage class: Well and moderately well drained
-Saturated hydraulic conductivity: Moderately low (0.5 to 1.5 m/sec)
-Flooding: Some Racas soils are subject to very rare flooding from March through August
-Ponding: Some Racas soils are subject to ponding from March through August
+Denver soils are found in similar landscape positions or nearby strath terraces, have mollic epipedons, argillic horizons, and formed in loess.
+Elyria soils are found on adjacent fills of plains or stream terraces, have a fine-loamy particle-size control section, and formed in human-transported material over mixed eolian deposits or alluvium. 
+Globeville soils are found on adjacent fills on stream terraces have a fine-loamy particle-size control section and formed in human-transported material over alluvium. 
+Milehigh soils are found on nearby fills on stream terraces, have a coarse-loamy particle size-control section, a nonacid reaction class, and formed in human-transported material over alluvium. 
+Weld soils are found on adjacent plains, have mollic epipedons, argillic horizons and, formed in loess.
 
-Use and Vegetation:
-Most areas are primarily used for urban development. The potential native vegetation is fourwing saltbush, winterfat, western wheatgrass, and blue grama. 
+DRAINAGE AND SATURATED HYDRAULIC CONDUCTIVITY: 
+Drainage class: Well drained
+Saturated hydraulic conductivity: Moderately low (0.04 to 0.36 cm/sec)
+Flooding: None to occasional with very brief duration from March through August
+Ponding: None
 
-Distribution and Extent:
-Loess-mantled plains, primarily on the east bank of the South Platte River near Denver, CO; small extent in north-central Colorado; MLRA 67B.
+Some pedons are saturated below 120 centimeters for brief periods.
 
-Soil Survey Region (SSR) Responsible:
-Bozeman, Montana
+USE AND VEGETATION:
+Most areas are primarily used for urban development.  Vegetation may include a mix of managed and unmanaged plant communities with a mix of native and non-native species. Many areas are vegetated with non-native ornamental landscaping and/or turfgrass associated with developed land uses. Some areas may exhibit weedy, invasive, and/or primary succession vegetation communities (e.g., abandoned lots and other unmanaged areas). The potential native vegetation is fourwing saltbush, winterfat, western wheatgrass, and blue grama. 
 
-Series Proposed:
-Denver County, CO 2025. Racas series is a coined name associated with an acronym for the Denver Soil Survey inventory protocol.
+DISTRIBUTION AND EXTENT:
+Urban and other areas with human-modified landscapes on loess-mantled plains, primarily on the east bank of the South Platte River in the vicinity of Denver in north-central Colorado. MLRA 67B - Central High Plains, Southern Part. These soils are of small extent.
 
-Remarks:
+SOIL SURVEY REGION (SSR) RESPONSIBLE: Raleigh, North Carolina (Special Projects Office)
+
+SERIES ESTABLISHED: Denver County, Colorado 2025.
+
+REMARKS:
 Typical Pedon Taxonomic Features:
-Ochric epipedon--0 to 5 centimeters (^A horizon)
-Free carbonates--0 to 200 centimeters (All horizons)
-Human-transported materials--0 to 114 centimeters (^A, ^C1, ^C2, ^C3 horizons)
-Lithologic discontinuity--114 centimeters
-Particle-size control section--25 to 100 centimeters
+Ochric epipedon--The zone from 0 to 8 centimeters (^Au horizon)
+Human-transported materials--The zone from 0 to 200 centimeters (All horizons)
+Free carbonates--The zone from 0 to 200 centimeters (All horizons)
+Artifacts--The zone from 0 to 46 centimeters (^Au, ^Cu1, and ^Cu2)
+Particle-size control section--The zone from 25 to 100 centimeters
 Taxonomic version: Keys to Soil Taxonomy, 13th edition, (2022)
+Other: Racas is a coined name associated with an acronym for the Denver Soil Survey inventory protocol. A small number of Racas pedons in Denver County Area, Colorado (CO031) have paralithic contacts below 100 centimeters and have been classified as taxadjuncts as a best fit.  If found to be common after more investigation, a new soil series should be established.
+
+ADDITIONAL DATA:
+NASIS User Pedon ID: 2020CO031565
 
 National Cooperative Soil Survey
 U.S.A.

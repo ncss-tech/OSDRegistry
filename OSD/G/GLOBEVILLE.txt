@@ -1,139 +1,138 @@
 LOCATION GLOBEVILLE             CO
 
-Tentative Series
-PRR, KLS
-02/2025
+Established Series
+PRR-KLS-EED
+03/2026
 
 GLOBEVILLE SERIES
 
-Depth class: Deep and very deep
-Drainage class: Well and moderately well drained
-Saturated hydraulic conductivity: Moderately high
-Parent material: Thick and very thick fine-loamy human-transported material over alluvium or eolian deposits derived from mixed lithologies 
-Geomorphic location: Human-transported fill on Holocene-aged stream terraces or plains mantled with eolian deposits
+Depth class: Very deep
+Drainage class: Well drained
+Saturated hydraulic conductivity: Moderately high (0.4 to 3.6 cm/hr)
+Parent material: Thick fine-loamy human-transported material over alluvium or mixed eolian deposits
+Geomorphic location: Fills and other leveled areas on plains, strath terraces, or stream terraces
 Slope range: 0 to 5 percent
-Mean annual temperature: 11.0 degrees C (51.8 degrees F)
-Mean annual precipitation: 406 millimeters (16.0 inches)
+Mean annual temperature: 11 degrees C
+Mean annual precipitation: 405 millimeters
 
-Taxonomic Class:
-Fine-loamy, spolic, mixed, superactive, nonacid, mesic Anthroportic Ustorthents
-Typical Pedon:
-Globeville sand clay loam in urban, park. (Colors are for dry soil unless otherwise noted.)
+TAXONOMIC CLASS: Fine-loamy, spolic, mixed, superactive, nonacid, mesic Anthroportic Ustorthents
 
-^A--0 to 10 cm; brown (10YR 4/3) sandy clay loam, dark brown (10YR 3/3) moist; moderate fine granular structure; soft, very friable, slightly sticky, slightly plastic; common fine roots, 2 percent gravel, noneffervescent, neutral (pH 7.2); clear smooth boundary.                                                   
+TYPICAL PEDON: Globeville sand clay loam, 2 percent slope on a filled strath terrace under cultivated grass in a park, at an elevation of 1,633 meters. (Colors are for dry soil unless otherwise noted.)
 
-^Cu--10 to 28 cm; dark grayish brown (10YR 4/2) sandyclay loam, very dark grayish brown (10YR 3/2) moist; massive; slightly hard, friable, slightly sticky, slightly plastic; common fine roots; common, fine and medium prominent yellowish brown (10YR 5/6 moist, mottles (relict redoximorphic iron concentrations, assumed to have been inherited from the fill); 2 percent gravel; 1 percent gravel-sized artifacts of brick and 2 percent gravel-sized artifacts of metal; noneffervescent; neutral (pH 7.0); clear smooth boundary.      
+ ^A--0 to 10 centimeters; brown (10YR 4/3) sandy clay loam, dark brown (10YR 3/3) moist; moderate fine granular structure; soft, very friable, slightly sticky, slightly plastic; common fine roots, 2 percent gravel, noneffervescent, neutral (pH 7.2); clear smooth boundary  (5 to 20 centimeters thick)
 
-^C1--28 to 42 cm; dark grayish brown (10YR 4/2)sandy clay loam, very dark grayish brown (10YR 3/2) moist; massive; slightly hard, friable, moderately sticky, moderately plastic; few fine roots; common, fine and medium prominent yellowish brown (10YR 5/6) moist, mottles (relict redoximorphic iron concentrations, assumed to have been inherited from the fill); 2 percent gravel; noneffervescent; neutral (pH 7.2); clear smooth boundary. 
+ ^Cu--10 to 28 centimeters; dark grayish brown (10YR 4/2) sandy clay loam, very dark grayish brown (10YR 3/2) moist; massive; slightly hard, friable, slightly sticky, slightly plastic; common fine roots; common, fine and medium prominent yellowish brown (10YR 5/6) moist, relict redoximorphic iron concentrations, assumed to have been inherited from the fill; 2 percent gravel; 1 percent gravel-sized artifacts of brick and 2 percent gravel-sized artifacts of metal; noneffervescent; neutral (pH 7.0); clear smooth boundary
 
-^C2--42 to 55 cm; brown (10YR 5/3)sandy clay loam, dark grayish brown (10YR 4/2) moist; massive; moderately hard, firm, moderately sticky, moderately plastic; few fine roots; common, fine and medium prominent yellowish brown (10YR 5/6) moist, mottles (relict redoximorphic iron concentrations, assumed to have been inherited from the fill); 2 percent gravel; noneffervescent; neutral (pH 7.2); clear smooth boundary. 
+ ^C1--28 to 42 centimeters; dark grayish brown (10YR 4/2) sandy clay loam, very dark grayish brown (10YR 3/2) moist; massive; slightly hard, friable, moderately sticky, moderately plastic; few fine roots; common, fine and medium prominent yellowish brown (10YR 5/6) moist, relict redoximorphic iron concentrations, assumed to have been inherited from the fill; 2 percent gravel; noneffervescent; neutral (pH 7.2); clear smooth boundary
 
-^C3--55 to 82 cm; yellowish brown (10YR 5/4)sandy clay loam, brown (10YR 4/3) moist; massive; slightly hard, friable, moderately sticky, moderately plastic; few fine roots; noneffervescent; neutral (pH 7.2); clear smooth boundary.
+ ^C2--42 to 55 centimeters; brown (10YR 5/3) sandy clay loam, dark grayish brown (10YR 4/2) moist; massive; moderately hard, firm, moderately sticky, moderately plastic; few fine roots; common, fine and medium prominent yellowish brown (10YR 5/6) moist, relict redoximorphic iron concentrations, assumed to have been inherited from the fill; 2 percent gravel; noneffervescent; neutral (pH 7.2); clear smooth boundary 
 
-2C1--82 to 166 cm; pale brown (10YR 6/3) loamy coarse sand, yellowish brown (10YR 5/4) moist; single grain; loose, loose, non-sticky, non-plastic;  few fine roots; finely disseminated free carbonates and common, medium, irregular, non-cemented carbonate masses throughout the matrix; strongly effervescent; moderately alkaline (pH 8.2); gradual wavy boundary. 
+ ^C3--55 to 82 centimeters; yellowish brown (10YR 5/4) sandy clay loam, brown (10YR 4/3) moist; massive; slightly hard, friable, moderately sticky, moderately plastic; few fine roots; noneffervescent; neutral (pH 7.2); clear smooth boundary (30 centimeters or more thick, combined)
 
-^2C2--166 to 200 cm; pale brown (10YR 6/3) loamy sand, yellowish brown (10YR 5/4)moist; single grain; loose, loose, non-sticky, non-plastic;  few fine roots finely disseminated free carbonates and common, medium, irregular, non-cemented carbonate masses throughout the matrix; strongly effervescent; moderately alkaline (pH 8.2).                                                                              
+ 2Ck1--82 to 166 centimeters; pale brown (10YR 6/3) loamy coarse sand, yellowish brown (10YR 5/4) moist; single grain; loose, loose, nonsticky, nonplastic; few fine roots; finely disseminated free carbonates and common, medium, irregular, non-cemented carbonate masses throughout the matrix; strongly effervescent; moderately alkaline (pH 8.2); gradual wavy boundary
 
-Type Location:
-Denver County, CO
-USGS Quadrangle: Arvada
+ 2Ck2--166 to 200 centimeters; pale brown (10YR 6/3) loamy sand, yellowish brown (10YR 5/4) moist; single grain; loose, loose, nonsticky, nonplastic; few fine roots; finely disseminated free carbonates and common, medium, irregular, non-cemented carbonate masses throughout the matrix; strongly effervescent; moderately alkaline (pH 8.2)
+
+TYPE LOCATION:
+Denver County, Colorado; located in the southeastern part of Viking Park
+
+USGS Quadrangle: Arvada, CO
 Latitude: 39.7625194
 Longitude: -105.0262556
 Datum: WGS84
-Coordinates sources: Hand-held GPS
+Coordinate source: Hand-held GPS
 
-Range in Characteristics:
-Depth to free carbonates--75 to 150 centimeters
-Thickness of human-transported material--50 to 200 centimeters
+RANGE IN CHARACTERISTICS:
+Thickness of human-transported material: 50 to 200 centimeters
+Depth to bedrock: Greater than 150 centimeters
+Depth to seasonal high water table: Greater than 150 centimeters
+Soil reaction: Neutral to slightly alkaline (pH 7.0 to 7.6)
+Depth to free carbonates: 75 to 150 centimeters
 Particle-size control section (weighted average):
-Clay content--18 to 30 percent
+Clay content--18 to 35 percent
 Sand content--35 to 65 percent
-Total rock fragments--0 to 15 percent
+Rock fragment content--0 to 15 percent
+Artifact content--less than 10 percent, by volume, some individual horizons have more than 10 percent artifacts.
 
-^A or ^Au horizon(s):
+^A(u) horizons:
 Hue--7.5YR to 10YR
 Value--3 to 5 dry; 1 to 3 moist
 Chroma--3 or 4 dry; 2 to 4 moist
-Texture (less than 2 mm fraction)--Clay loam, loam, sandy loam
-Clay content--18 to 30 percent
+Texture (less than 2 mm fraction)--Clay loam, sandy clay loam, loam, sandy loam
+Clay content--10 to 38 percent
 Rock fragments--0 to 5 percent gravel
-Artifacts--0 to 3 percent
-Reaction--pH 7.0 to 7.6
-Thickness--5 to 20 centimeters
+Artifact content--0 to 10 percent
+Reaction--Neutral to slightly alkaline (pH 7.0 to 7.6)
 
-^Cu horizon(s) (where present):
+^C(u) horizons:
 Hue--10YR
-Value--4 or 5 dry; 3 or 4 moist
-Chroma--3 or 4; dry or moist
-Texture (less than 2 mm fraction)--clay loam, sandy clay loam, sandy loam
-Clay content--20 to 35 percent
+Value--4 or 6 dry; 3 or 5 moist
+Chroma--2 to 5; dry or moist
+Texture (less than 2 mm fraction)--Clay loam, sandy clay loam, sandy loam
+Clay content-typically 10 to 40 percent. some pedons have individual horizons outside of this range
 Rock fragments--0 to 25 percent gravel
-Artifacts--1 to 10 percent
-Reaction--pH 7.0 to 7.6
+Artifacts--0 to 14 percent
+Reaction--Neutral to slightly alkaline (pH 7.0 to 7.6)
 
-^C horizon(s):
-Hue--10YR
-Value--4 to 6 dry; 3 to 5 moist
-Chroma--3 to 5; dry or moist
-Texture (less than 2 mm fraction)--clay loam, sandy clay loam, sandy loam
-Clay content--20 to 35 percent
-Rock fragments--0 to 15 percent gravel
-Reaction--pH 7.0 to 7.6
-Thickness--15 to 40 centimeters
-
-Thickness-10 to 50 centimeters
-
-2C horizon(s) (when present):
+2Ck or 2C horizons (when present):
 Hue--10YR
 Value--5 or 6 dry or moist
-Chroma--4 or 5 dry or moist
+Chroma--3 to 5 dry or moist
 Texture (less than 2 mm fraction)--Clay loam, sandy loam, loamy sand
-Clay content--5 to 35 percent
+Clay content--5 to 39 percent
 Rock fragments--0 to 10 percent gravel
 Calcium carbonate equivalent--0 to 14 percent
-Reaction--pH 7.4 to 8.2
-Thickness--5 to 35 centimeters
+Reaction--Slightly to moderately alkaline (pH 7.4 to 8.2)
 
-Competing Series: 
-There are currently no competing series.
+COMPETING SERIES: 
+There are no competing series. The similar Elyria soils effervesce with hydrochloric acid above 75 centimeters.
 
-Geographic Settings:
-Parent material-- Thick and very thick fine-loamy human-transported material over alluvium or eolian deposits derived from mixed lithologies
-Landform-- Human-transported fill on Holocene-aged stream terraces or plains mantled with eolian deposits
-Slope ranges--0 to 5 percent
-Mean annual air temperature-10.0 to 12.0 degrees C (50.0 to 53.6 degrees F)
-Mean annual precipitation range--356 to 432 millimeters (14.0 to 17.0 inches)
-Frost-free period--135 to 165 days
-Elevation--1,565 to 1,720 meters (~5,135 to 5,645 feet)
-Climate--continental, temperate, semi-arid; very cold and snowy winters; cool, moist springs, hot summers, with North American monsoon precipitation from July through August.
+GEOGRAPHIC SETTING:
+Parent material: Thick fine-loamy human-transported material over alluvium or eolian deposits 
+Landform: Fills and other leveled areas on stream terraces or plains mantled with eolian deposits
+Slope: 0 to 5 percent
+Elevation: 1,565 to 1,720 meters
+Frost-free period: 135 to 165 days
+Mean annual air temperature: 10.0 to 12.0 degrees C
+Mean annual precipitation: 356 to 432 millimeters
+Climate: Cold, dry winters and hot summers with North American monsoon precipitation from July through August.  The driest months are December through February.
 
-Geographically Associated Soils: 
-Southplatte soils: Southplatte soils are found on adjacent plains and have a cambic horizon.
+GEOGRAPHICALLY ASSOCIATED SOILS: 
+These are the Elyria, Racas and Southplatte soils: 
 
-Drainage and Saturated Hydraulic Conductivity:
-Drainage class: Well and moderately well drained
+Elyria soils have a coarse-loamy particle control section, form in sandy eolian or alluvial materials, and are found on fills on adjacent strath terraces.
+Racas soils have a fine particle control section, form in loess, and are found on fills on adjacent loess-mantled plains.
+Southplatte soils have cambic horizons and are found on fills on adjacent plains mantled with mixed eolian materials.
+
+DRAINAGE AND SATURATED HYDRAULIC CONDUCTIVITY:
+Drainage class: Well drained
 Saturated hydraulic conductivity: Moderately high (1.5 to 5 mm/sec)
+Flooding: None to occasional with very brief duration
+Ponding: None 
 
-Use and Vegetation:
-Most areas are primarily used for urban development. The potential native vegetation is fourwing saltbush, winterfat, western wheatgrass, and blue grama. 
+USE AND VEGETATION:
+Most areas are primarily used for urban development.  Vegetation may include a mix of managed and unmanaged plant communities with a mix of native and non-native species. Many areas are vegetated with non-native ornamental landscaping and/or turfgrass associated with developed land uses. Some areas may exhibit weedy, invasive, and/or primary succession vegetation communities (e.g., abandoned lots and other unmanaged areas). The potential native vegetation is fourwing saltbush, winterfat, western wheatgrass, and blue grama. 
 
-Distribution and Extent:
-Eolian deposit-mantled plains and Holocene-aged stream terraces, primarily on the east bank of the South Platte River near Denver, CO; small extent in north-central Colorado; MLRA 67B.
+DISTRIBUTION AND EXTENT:
+Urban and other areas with human-modified landscapes on plains mantled by mixed eolian deposits and stream terraces, primarily on the east bank of the South Platte River in the vicinity of Denver in north-central Colorado. MLRA 67B - Central High Plains, Southern Part. These soils are of small extent.
 
-Soil Survey Region (SSR) Responsible:
-Bozeman, Montana
+SOIL SURVEY REGION (SSR) RESPONSIBLE: Raleigh, North Carolina (Special Projects Office)
 
-Series Proposed:
-Denver County, CO 2025. Globeville is the name of neighborhood in the City and County of Denver, Colorado
+SERIES ESTABLISHED: Denver County, Colorado 2025.
 
-Remarks:
+REMARKS:
 Typical Pedon Taxonomic Features:
-Ochric epipedon--0 to 22 centimeters (^A horizon)
-Human-transported materials--0 to 78 centimeters (^A, ^C, and ^Cu horizons)
-Artifacts--47 to 78 centimeters (^Cu horizon)
-Lithologic discontinuity-- 78 centimeters
-Particle-size control section--25 to 100 centimeters
+Ochric epipedon--The zone from 0 to 10 centimeters (^A horizon)
+Surface mantle of human-transported materials--The zone from 0 to 82 centimeters (^A, ^Cu,  and ^C horizons)
+Artifacts--The zone from 10 to 28 centimeters (^Cu horizon)
+Lithologic discontinuity--At a depth of 82 centimeters
+Secondary pedogenic carbonates--The zone from 82 to 200 centimeters (2Ck1 and 2Ck2 horizons)
+Particle-size control section--The zone from 25 to 100 centimeters
 Taxonomic version: Keys to Soil Taxonomy, 13th edition, (2022)
+Other: Globeville name is derived from the name of a neighborhood in Denver, Colorado.
+
+ADDITIONAL DATA: 
+NASIS User Pedon ID: 2021CO031204
 
 National Cooperative Soil Survey
 U.S.A.

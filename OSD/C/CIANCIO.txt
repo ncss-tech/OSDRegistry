@@ -1,8 +1,8 @@
 LOCATION CIANCIO                CO
 
-Tentative Series
+Established Series
 PRR
-03/2025
+03/2026
 
 CIANCIO SERIES
 
@@ -10,10 +10,10 @@ Depth class: Very deep
 Drainage class: Well drained
 Saturated hydraulic conductivity: High
 Parent material: Thin human-transported material over eolian sands
-Geomorphic location: Human-transported fill on sand sheets on strath terraces
+Geomorphic location: Fills on sand sheets on strath terraces
 Slope range: 0 to 5 percent
-Mean annual temperature: 11.0 degrees C (51.8 degrees F)
-Mean annual precipitation: 406 millimeters (16.0 inches)
+Mean annual temperature: 11.0 degrees C
+Mean annual precipitation: 406 millimeters
 
 Taxonomic Class:
 Coarse-loamy, mixed, superactive, mesic Aridic Haplustepts
@@ -90,12 +90,12 @@ Competing Series:
 These are the Plumasano and Skutumpah series.  Both the Plumanso and Skutumpah series lack an ^A horizon.
 Geographic Settings:
 Parent material--Thin human-transported material over eolian sands
-Landform--Human-transported fill on sand sheets on strath terraces
+Landform--Fills on sand sheets on strath terraces
 Slope ranges--0 to 5 percent
-Mean annual air temperature--10.0 to 12.0 degrees C (50.0 to 53.6 degrees F)
-Mean annual precipitation range--356 to 432 millimeters (14.0 to 17.0 inches)
+Mean annual air temperature--10.0 to 12.0 degrees C 
+Mean annual precipitation range--356 to 432 millimeters
 Frost-free period--135 to 165 days
-Elevation--1,595 to 1,675 meters (~5,235 to 5,495 feet)
+Elevation--1,595 to 1,675 meters
 Climate--continental, temperate, semi-arid; very cold and snowy winters; cool, moist springs, hot summers, with North American monsoon precipitation from July through August.
 
 Geographically Associated Soils: 

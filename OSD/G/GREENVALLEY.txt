@@ -1,51 +1,53 @@
 LOCATION GREENVALLEY            CO
 
-Tentative Series
-PRR, KLS
-02/2025
+Established Series
+PRR-KLS-EED
+03/2026
 
 GREENVALLEY SERIES
 
-Depth class: Deep
+Depth class: Very deep
 Drainage class: Well drained
 Saturated hydraulic conductivity: High
-Parent material: Thick coarse-loamy human-transported material over eolian sands derived from glaciofluvial sources
-Geomorphic location: Human-transported fill on sand sheets of sand-mantled plains, sand sheets of Pleistocene strath terraces, interdunes or dunes
+Parent material: Thick coarse-loamy human-transported material over eolian sediments derived from glaciofluvial sources
+Geomorphic location: Fills on sand sheets of sand-mantled plains, sand sheets of Pleistocene strath terraces, interdunes or dunes
 Slope range: 0 to 15 percent
-Mean annual temperature: 11.0 degrees C (51.8 degrees F)
-Mean annual precipitation: 406 millimeters (16.0 inches)
+Mean annual temperature: 11.0 degrees C 
+Mean annual precipitation: 405 millimeters
 
-Taxonomic Class:
+TAXONOMIC CLASS:
 Coarse-loamy, spolic, mixed, superactive, nonacid, mesic Anthroportic Ustorthents
 
-Typical Pedon:
-Greenvalley sandy loam in urban, park. (Colors are for dry soil unless otherwise noted.)
+TYPICAL PEDON: Greenvalley sandy loam in urban, park. (Colors are for dry soil unless otherwise noted.)
 
-^A--0 to 11 cm; sandy loam, very dark brown (7.5YR 2.5/2) moist; moderate fine granular structure;  very friable, slightly sticky, nonplastic; common very fine roots throughout; 2 percent yellowish  red (5YR 4/6) masses of oxidized iron; noneffervescent; moderately alkaline (pH 7.4); Redox features are from anthropogenic causes: grass/sod irrigation in the park.; clear smooth boundary.                     
+ ^A--0 to 11 cm; sandy loam, very dark brown (7.5YR 2.5/2) moist; moderate fine granular structure; very friable, slightly sticky, nonplastic; common very fine roots throughout; 2 percent yellowish red (5YR 4/6) relict masses of oxidized iron; noneffervescent; slightly alkaline (pH 7.4); clear smooth boundary (5 to 20 centimeters thick)
 
-^C1--11 to 55 cm; sandy loam, dark brown (10YR 3/3) moist; moderate medium and coarse subangular blocky structure; friable, slightly sticky, nonplastic; common very fine roots throughout; 2 percent fine and medium gravel; noneffervescent; slightly alkaline (pH 7.6); gradual boundary.                                                                         
+ ^C1--11 to 55 cm; sandy loam, dark brown (10YR 3/3) moist; moderate medium and coarse subangular blocky structure; friable, slightly sticky, nonplastic; common very fine roots throughout; 2 percent fine and medium gravel; noneffervescent; slightly alkaline (pH 7.6); gradual boundary
 
-^C2--55 to 117 cm; sandy loam, dark brown (10YR 3/3) moist; weak fine medium subangular blocky structure; friable, nonsticky, nonplastic; noneffervescent;slightly alkaline (pH 7.4); gradual boundary.                                                                             
+ ^C2--55 to 117 cm; sandy loam, dark brown (10YR 3/3) moist; weak fine medium subangular blocky structure; friable, nonsticky, nonplastic; noneffervescent; slightly alkaline (pH 7.4); gradual boundary
 
-^C3--117 to 148 cm; sandy loam, brown (10YR 4/3) moist; massive; friable, slightly sticky, nonplastic; noneffervescent; slightly alkaline (pH 7.4); gradual boundary.                                                                            
+ ^C3--117 to 148 cm; sandy loam, brown (10YR 4/3) moist; massive; friable, slightly sticky, nonplastic; noneffervescent; slightly alkaline (pH 7.4); gradual boundary
 
-^C4--148 to 191 cm; sandy loam, 85 percent dark yellowish brown (10YR 4/4) and 15 percent brown (10YR 4/3) moist; massive; very friable, nonsticky, nonplastic; noneffervescent; slightly alkaline (pH 7.6); this horizon has more fine sand than horizons above.
+ ^C4--148 to 191 cm; sandy loam, 85 percent dark yellowish brown (10YR 4/4) and 15 percent brown (10YR 4/3) moist; massive; very friable, nonsticky, nonplastic; noneffervescent; slightly alkaline (pH 7.6); this horizon has more fine sand than horizons above.
 
-Type Location:
-Denver County, CO
-USGS Quadrangle: Sable
+TYPE LOCATION:
+Denver County, Colorado; located in the southern area of Montbello Park
+USGS Quadrangle: Sable, Colorado
 Latitude: 39.7824750
 Longitude: -104.8256806
 Datum: WGS84
 Coordinates sources: Hand-held GPS
 
-Range in Characteristics:
+RANGE IN CHARACTERISTICS:
 Depth to secondary carbonates--more than 100 centimeters
-Thickness of human-transported material--51 centimeters to more than 100 centimeters
+Thickness of human-transported material--greater than 50 centimeters
+Depth to bedrock: Greater than 150 centimeters
+Soil reaction: Neutral to moderately alkaline (pH 7.0 to 8.0)
 Particle-size control section (weighted average):
 Clay content--5 to 18 percent
 Sand content--40 to 90 percent
-Total rock fragments--0 to 5 percent
+Total rock fragments--0 to 15 percent
+Artifact content-- Less than 10 percent, by volume, some individual horizons have more than 10 percent artifacts
 
 ^A horizon:
 Hue--7.5YR or 10YR
@@ -53,7 +55,7 @@ Value--3 or 4 dry; 2 or 3 moist
 Chroma--2 or 3 dry; 1 or 2 moist
 Texture (less than 2 mm fraction)--loam, sandy loam, sandy clay loam
 Clay content--10 to 25 percent
-Rock fragments--0 to 5 percent gravel, fine- and medium-size
+Rock fragments--0 to 5 percent gravel 
 Reaction--pH 7.0 to 7.6
 Thickness--5 to 20 centimeters
 
@@ -63,62 +65,62 @@ Value--3 to 6 dry; 2 to 5 moist
 Chroma--2 to 5 dry; 1 to 6 moist
 Texture (less than 2 mm fraction)--sandy loam, loamy sand, fine sandy loam, sand, sandy clay loam
 Clay content--2 to 25 percent
-Rock fragments--0 to 10 percent gravel, fine- and medium-size
+Rock fragments--0 to 10 percent gravel
 Reaction--pH 7.0 to 7.6
 Thickness--10 to 125 centimeters
 
-Some pedons may have 2Bw or 2C horizons:
+2Btb or 2C horizons when present:
 Hue--10YR
 Value--4 to 6 dry; 4 or 5 moist
 Chroma--3 or 4 dry; 3 or 4 moist 
 Texture (less than 2 mm fraction)--sandy loam, loamy fine sand, fine sandy loam, loam, silt loam, sandy clay loam
 Clay content--4 to 28 percent
-Rock fragments--0 to 5 percent gravel, fine- and medium-size
+Rock fragments--0 to 5 percent gravel 
 Calcium carbonate equivalent--0 to 3 percent
 Reaction--pH 7.4 to 8.0
 Thickness--20 to 135 centimeters
 
-Competing Series: 
-There are currently no competing series.
+COMPETING SERIES: 
+These are the Milehigh soils which formed in greater than 75 centimeters of human-transported material over mixed Holocene-aged alluvial sediments and may have buried cambic horizons.
 
-Geographic Settings:
+GEOGRAPHIC SETTINGS:
 Parent material--Thick coarse-loamy human-transported material over eolian sands derived from glaciofluvial sources
-Landform-- Human-transported fill on sand sheets of sand-mantled plains, sand sheets of Pleistocene strath terraces, interdunes or dunes 
+Landform--Fills on sand sheets of sand-mantled plains, sand sheets of Pleistocene strath terraces, interdunes or dunes 
 Slope ranges--0 to 15 percent
-Mean annual air temperature--10.0 to 12.0 degrees C (50.0 to 53.6 degrees F)
-Mean annual precipitation range--356 to 432 millimeters (14.0 to 17.0 inches)
+Mean annual air temperature--10.0 to 12.0 degrees C
+Mean annual precipitation range--356 to 432 millimeters
 Frost-free period--135 to 165 days
-Elevation--1,580 to 1,720 meters (~5,182 to 5,642 feet)
+Elevation--1,580 to 1,720 meters
 Climate--continental, temperate, semi-arid; very cold and snowy winters; cool, moist springs, hot summers, with North American monsoon precipitation from July through August.
 
-Geographically Associated Soils:
-Vona soils: In similar landscape positions and form in similar parent materials but less than 50 cm of human-transported fill on the surface.  
+GEOGRAPHICALLY ASSOCIATED SOILS:
+Vona soils formed on similar landscape positions and do not have human-transported material in the upper part of the profile.  
 
-Drainage and Saturated Hydraulic Conductivity: 
+DRAINAGE AND SATURATED HYDRAULIC CONDUCTIVITY: 
 Drainage class: Well drained
 Saturated hydraulic conductivity: High (15 to 50 m/sec)
-Flooding: Greenvalley soils are not subject to flooding
-Ponding: Greenvalley soils are not subject to ponding
+Flooding: None
+Ponding: None
 
-Use and Vegetation:
-Most areas are primarily used for urban development. The potential native vegetation is little bluestem, sideoats grama, winterfat, and skunkbush sumac .
+Some pedons may have a brief seasonal water table below 80 centimeters.
 
-Distribution and Extent:
-Interdunes, dunes, and sand sheets that occur on the dunefield northeast of Sand Creek; small extent in north-central Colorado; MLRA 67B.
+USE AND VEGETATION:
+Most areas are primarily used for urban development. Vegetation may include a mix of managed and unmanaged plant communities with a variety of native and non-native species. Many areas are vegetated with non-native ornamental landscaping and/or turfgrass associated with developed land uses. Some areas may exhibit weedy, invasive, and/or primary succession vegetation communities (e.g., abandoned lots and other unmanaged areas). The potential native vegetation is little bluestem, sideoats grama, winterfat, and skunkbush sumac .
 
-Soil Survey Region (SSR) Responsible:
-Bozeman, Montana
+DISTRIBUTION AND EXTENT:
+Urban and other areas with human-modified landscapes on interdunes, dunes, and sand sheets that occur northeast of Sand Creek in the vicinity of Denver in north-central Colorado. MLRA 67B - Central High Plains, Southern Part. These soils are of small extent.
 
-Series Proposed:
-Denver County, CO 2025. Greenvalley series is named after a neighborhood in northeast Denver where these soils are found. 
+SOIL SURVEY REGION (SSR) RESPONSIBLE: Raleigh, North Carolina (Special Projects Office)
 
-Remarks:
+SERIES ESTABLISHED: Denver County, Colorado 2025.
+
+REMARKS:
 Typical Pedon Taxonomic Features:
-Ochric epipedon--0 to 11 centimeters (^A horizon)
-Human-transported materials--0 to 191 centimeters (^A, ^C1 through ^C4 horizons)
-Lithologic discontinuity--11 centimeters
-Particle-size control section--25 to 100 centimeters
+Ochric epipedon--The zone from 0 to 11 centimeters (^A horizon)
+Human-transported materials--The zone from 0 to 191 centimeters (^A, ^C1 through ^C4 horizons)
+Particle-size control section--The zone from 25 to 100 centimeters
 Taxonomic version: Keys to Soil Taxonomy, 13th edition, (2022)
+Other: Greenvalley name from a neighborhood in northeast Denver where these soils are found. 
 
 National Cooperative Soil Survey
 U.S.A.
