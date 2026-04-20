@@ -1,0 +1,138 @@
+LOCATION MAREJADA               PR
+
+Tentative Series
+ASR/AMA
+04/2026
+
+MAREJADA SERIES
+
+MLRA(s)--273
+Depth Class--Very deep
+Drainage Class--Subaqueous drainage
+Water depth range--0 to 200 centimeters
+Saturated hydraulic conductivity--Moderately high to high
+Parent Material--Fine-loamy estuarine deposits over mangrove organic materials
+Geomorphic location--Submerged mangrove swamp
+Slope--0 to 1 percent
+Mean Annual Air Temperature--26 degrees C (79 degrees F)
+Mean Annual Precipitation--1041 millimeters (41 inches)
+Mean Annual Water Temperature--28 degrees C (82 degrees F)
+
+TAXONOMIC CLASS: Fine-loamy, mixed, subactive, nonacid, isohyperthermic Thapto-histic Hydrowassents
+
+TYPICAL PEDON: Marejada muck in a submerged wave-built terrace in a coastal lagoon.  (Colors are for moist soil unless otherwise stated)
+
+ Aseg--0 to 9 centimeters; very dark greenish gray (5GY 3/1), silty clay loam; structureless, massive; non-sticky, nonplastic, very fluid; slight sulfurous odor; color change with 3 percent hydrogen peroxide; moderate effervescence with 30 percent hydrogen peroxide; moderately alkaline (pH 8.0), slightly alkaline (pH 7.4) oxidized pH; clear boundary.
+
+ Cseg1--9 to 21 centimeters; dark greenish gray (10GY 4/1), shelly silty clay loam; 25 percent shell fragments; structureless, massive; slightly sticky, nonplastic, slightly fluid; slight sulfurous odor; no color change with 3 percent hydrogen peroxide; moderate effervescence with 30 percent hydrogen peroxide; moderately alkaline (pH 8.0), slightly alkaline (pH 7.8) oxidized pH; clear boundary.
+
+ Cseg2--21 to 31 centimeters; dark greenish gray (10GY 4/1), silty clay; structureless, massive; slightly sticky, slightly plastic, slightly fluid; no sulfurous odor; no color change with 3 percent hydrogen peroxide; slight effervescence with 30 percent hydrogen peroxide; moderately alkaline (pH 8.0), slightly alkaline (pH 7.8) oxidized pH; clear boundary.
+
+ Cseg3--31 to 44 centimeters; 75 percent greenish black (5GY 2.5/1) and 25 percent very dark gray (5Y 3/1), mucky shelly loam; 20 percent shell fragments; structureless, massive; nonsticky, nonplastic, slightly fluid; slight sulfurous odor; color change with 3 percent hydrogen peroxide, slight effervescence with 30 percent hydrogen peroxide; moderately alkaline (pH 8.0), slightly alkaline (pH 7.4) oxidized pH; abrupt boundary.
+
+ 2Oaseb1--44 to 78 centimeters; very dark brown (10YR 2/2), muck; 20 percent unrubbed fiber, 5 percent rubbed fiber, 2 percent mineral; H7 von Post; 20 percent wood fragments (red mangrove); structureless, massive; strong sulfurous odor;  color change with 3 percent hydrogen peroxide, slight effervescence with 30 percent hydrogen peroxide; moderately alkaline (pH 8.0), very strongly acid (pH 5.0) oxidized pH; clear boundary.
+
+ 2Oaseb2--78 to 115 centimeters; very dark brown (10YR 2/2), muck; 20 percent unrubbed fiber, 5 percent rubbed fiber, 10 percent mineral; H9 von Post; structureless, massive; strong sulfurous odor;  color change with 3 percent hydrogen peroxide, slight effervescence with 30 percent hydrogen peroxide; moderately alkaline (pH 8.0), very strongly acid (pH 4.6) oxidized pH; abrupt boundary.
+
+ 2Cseg1--115 to 134 centimeters; very dark greenish gray (10GY 3/1), sandy loam; 2 percent shell fragments; structureless, massive; nonsticky, nonplastic, slightly fluid; strong sulfurous odor; no color change with 3 percent hydrogen peroxide; slight effervescence with 30 percent hydrogen peroxide; moderately alkaline (pH 8.0), very strongly acid (pH 4.6) oxidized pH; abrupt boundary.
+
+ 2Cseg2--134 to 203 centimeters; 50 percent very dark greenish gray (10Y3/1), 40 percent white 10YR 8/1 (coral sand grains), and 10 percent dark greenish gray (5GY 4/1), coarse sand; 2 percent shell fragments; structureless, single grain; nonsticky, nonplastic, nonfluid; slight sulfurous odor; no color change with 3 percent hydrogen peroxide; no effervescence with 30 percent hydrogen peroxide; moderately alkaline (pH 8.0), very strongly acid (pH 4.7) oxidized pH.
+
+TYPE LOCATION: Guayama municipality, Puerto Rico. Approximately 2.2 kilometers (1.34 miles) east of Jobos Bay National Estuarine Research Reserve dock and 1.6 kilometers (1.0 mile) north-northeast of the Nautical Club at Punta Pozuelo Guayama in submerged former mangrove swamp parallel to the beach south of San Felipe and Mosquito communities.
+
+Latitude--17.9556640
+Longitude-- -66.1978890
+Datum--WGS84
+Coordinate source--Manually entered from GPS
+
+RANGE IN CHARACTERISTICS:
+Depth to bedrock--Greater than 200 centimeters
+Depth to organic layer--Greater than 40 centimeters (central concept 50 to 85 centimeters)
+Soil moisture--Peraquic
+Soil reaction--Moderately to strongly alkaline (pH 7.9 to 9.0) throughout. 
+Oxidized reaction--Slightly alkaline to strongly alkaline (pH 7.4 to 9.0) above the organic contact and very strongly acid (pH 4.5 to 5.0) in the buried organic and mineral materials below.
+Electrical conductivity (1:5 soil-water) throughout--4.0 to 10.0 dS/m
+Manner of failure--Slightly to very fluid 
+Depth to Hyposulfidic materials--Greater than 40 centimeters
+Sulfurous odor--None to strong throughout and intensity increases after contact with organic materials
+Fiber content--Unrubbed 20 to 80 percent; rubbed 2 to 35 percent
+Shell fragments--35 percent or less by volume from 0 to 100 centimeters. Some individual horizons may have fragments above 35 percent below 100 centimeters
+
+Aseg horizon--
+Hue--10Y, 5GY, or N 
+Value--2.5 to 5 
+Chroma--0 to 1
+Texture--clay loam, silty clay loam, sandy clay loam, loam, or silt loam and their mucky analogs
+
+Cseg and Cg horizons
+Hue--10YR, 10Y, 10GY, 5GY 
+Value--2.5 to 6
+Chroma--1
+Texture--clay loam, silty clay loam, sandy clay loam, loam, or silt loam and their shelly analogs
+
+2Oaseb or 2Oeseb horizon(s)--
+Hue--10YR, 2.5Y, 5Y, or N 
+Value--2 to 4
+Chroma--0 to 2
+Texture--muck or mucky peat
+Von Post--H4 to H9
+
+2Asegb horizon (where present)--
+Hue--10Y, 2.5Y, or 5Y 
+Value--2 to 4 
+Chroma--1 or 2
+Texture--clay loam, silty clay loam, loam, silt loam and their mucky analogs
+
+2Cseg horizon--
+Hue--10YR, 10Y, 5GY, or 10GY
+Value--2 to 6, and 8 on calcareous sands 
+Chroma--1
+Texture--clay loam, sandy clay loam, loam, sandy loam, loamy sand, or sand and their shelly, very shelly and parashelly analogs
+
+COMPETING SERIES: There are no other known series in the same family.
+
+GEOGRAPHIC SETTING:
+Parent Material--Fine loamy estuarine deposits over mangrove organic materials
+Landscape--Coastal lagoons in Semiarid Coastal Plain, southern Puerto Rico
+Landform--Submerged mangrove swamp
+Mean Annual Air Temperature--22 to 31 degrees C (72 to 88 degrees F)
+Mean Annual Precipitation--508 to 1,145 millimeters (20 to 45 inches)
+Mean Annual Water Temperature--26 to 32 degrees C (79 to 90 degrees F)
+Water salinity range--28 to 43 parts per thousand
+
+GEOGRAPHICALLY ASSOCIATED SOILS:
+These are the Mayaguas and Ostiones soils.
+Majaguas soils--are on lagoon bottoms and can occur on drains on the mainland cove. They do not have buried organic soil materials but also have common fine-loamy particle size.
+Ostiones soils--are on submerged mainland beaches on the mainland cove occurring around and slightly higher on the landscape to Marejada. They have coarser textures throughout and do not have buried organic soil materials
+
+DRAINAGE AND SATURATED HYDRAULIC CONDUCTIVITY:
+Drainage class--Subaqueous (permanently submersed)
+Saturated hydraulic conductivity--Moderately high to high
+Soil moisture regime--Peraquic
+Soil is continuously inundated by saline and brackish water
+
+USE AND VEGETATION:
+Major Uses--Used for wildlife habitat, recreational boating, fishing, and swimming, marinas, mooring fields, and commercial shellfish habitat.  These soils provide improved water quality and flood / storm surge water storage. Dominant Vegetation--Common subaquatic vegetation (SAV) species include Thalassia (Turtle grass), Syringodium (manatee grass), halimeda (watercress algae), and Halofila(paddle grass) Halimeda opuntia).
+
+DISTRIBUTION AND EXTENT: 
+General area--Located along coasts and bays of Puerto Rico.
+Land Resource Region--Z - Caribbean Region
+MLRA--273 - Semiarid Coastal Plains
+Extent--Small
+
+SOIL SURVEY REGIONAL OFFICE (SSRO) RESPONSIBLE: SPECIAL PROJECTS OFFICE
+
+SERIES ESTABLISHED: Guayama Municipality, Puerto Rico; 2024. The name means tide in Spanish as this soil has buried surface material showing the sea level change over time.
+
+REMARKS: This subaqueous series is mapped in areas previously published as water in Puerto Rico Soil Survey publications.
+
+Diagnostic horizons and features recognized in this pedon--
+Ocrhic epipedon--the zone 0 to 10 centimeters (0 to 4 inches).
+Hyposulfidic feature--the zone from 44 to 203 centimeters (17 to 80 inches) Thapto-Histic--the zone from 44 to 115 centimeters (17 to 45 inches)
+
+ADDITIONAL DATA:
+OSD pedon: 2023PR057001
+Supporting pedons: 2023PR123049, 2023PR057002
+________________________________________
+National Cooperative Soil Survey
+U.S.A.

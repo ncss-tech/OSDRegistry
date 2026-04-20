@@ -2,7 +2,7 @@ LOCATION COLCHONES              PR
 
 Tentative Series
 ASR/AMA
-01/2026
+04/2026
 
 COLCHONES SERIES
 
@@ -10,26 +10,26 @@ MLRA(s)--273
 Depth Class--Very deep
 Drainage Class--Subaqueous drainage
 Water Depth Range--0 to 300 centimeters
-Saturated hydraulic conductivity--Moderately high to high
+Saturated hydraulic conductivity--Moderately low to high
 Parent Material--Sapric organic materials over loamy estuarine deposits 
 Geomorphic location--Mainland cove
 Slope--0 to 1 percent
 Mean Annual Air Temperature--26 degrees C (79 degrees F)
 Mean Annual Water Temperature--28 degrees C (82 degrees F)
 
-TAXONOMIC CLASS: Loamy, mixed, euic, isohyperthermic Terric Sulfiwassists
+TAXONOMIC CLASS: Loamy, mixed, euic, isohyperthermic Terric Haplowassists
 
 TYPICAL PEDON: Colchones muck, in a mainland cove in an estuary area in Jobos Bay. (Colors are for moist soil unless otherwise stated).
 
- Oase1--0 to 24 centimeters; black (5Y 2.5/1) muck, rubbed, 2 percent fiber content after rubbing; von Post value H8; structureless, massive; strong sulfurous odor; slightly alkaline (pH 7.8), moderately alkaline (pH 8.0) oxidized pH; clear boundary. (black ooze material)
+ Oase1--0 to 24 centimeters; black (5Y 2.5/1) muck, rubbed, 2 percent fiber content after rubbing; von Post value H8; structureless, massive; strong sulfurous odor; no color change with 3 percent hydrogen peroxide; no effervescence with 30 percent hydrogen peroxide; moderately alkaline (pH 7.9), moderately alkaline (pH 8.1) oxidized pH; clear boundary. 
 
- Oase2--24 to 59 centimeters; very dark gray (5Y 3/1) muck, rubbed, 2 percent fiber content after rubbing; von Post value H7;  structureless, massive; strong sulfurous odor; moderately alkaline (pH 7.9), moderately alkaline (pH 8.0) oxidized pH ; clear boundary.
+ Oase2--24 to 59 centimeters; very dark gray (5Y 3/1) muck, rubbed, 2 percent fiber content after rubbing; von Post value H7; structureless, massive; strong sulfurous odor; no color change with 3 percent hydrogen peroxide; no effervescence with 30 percent hydrogen peroxide; moderately alkaline (pH 7.9), moderately alkaline (pH 8.0) oxidized pH; clear boundary.
 
- Cgse1--59 to 103 centimeters; dark gray (5Y 4/1) shelly sandy loam; 30 percent shell fragments; structureless, massive; slightly fluid; strong sulfurous odor; moderately alkaline (pH 7.9), moderately alkaline (pH 8.0) oxidized pH; clear boundary.
+ Cseg1--59 to 103 centimeters; dark gray (5Y 4/1) shelly sandy loam; 30 percent shell fragments; structureless, massive; slightly fluid; strong sulfurous odor; no color change with 3 percent hydrogen peroxide; no effervescence with 30 percent hydrogen peroxide; slightly alkaline (pH 7.8), moderately alkaline (pH 8.0) oxidized pH; clear boundary.
 
- Cgse2--103 to 156 centimeters; olive gray (5Y 4/2) shelly loam; 30 percent shell fragments; structureless, massive; very fluid; strong sulfurous odor; moderately alkaline (pH 8.0), moderately alkaline (pH 8.0) oxidized pH; clear boundary.
+ Cseg2--103 to 156 centimeters; olive gray (5Y 4/2) shelly loam; 30 percent shell fragments; structureless, massive; very fluid; strong sulfurous odor; no color change with 3 percent hydrogen peroxide; no effervescence with 30 percent hydrogen peroxide; slightly alkaline (pH 7.8), moderately alkaline (pH 8.0) oxidized pH; clear boundary.
 
- Cgse3--156 to 220 centimeters; greenish gray (10Y 5/1) very parashelly sandy clay loam; 40 percent shell fragments (halimeda calcifications); structureless, massive; slightly fluid; moderately sulfurous odor; moderately alkaline (pH 8.0), moderately alkaline (pH 8.0) oxidized pH.
+ Cseg3--156 to 220 centimeters; greenish gray (10Y 5/1) very parashelly sandy clay loam; 40 percent shell fragments (halimeda calcifications); structureless, massive; slightly fluid; moderately sulfurous odor; no color change with 3 percent hydrogen peroxide; no effervescence with 30 percent hydrogen peroxide; slightly alkaline (pH 7.8), moderately alkaline (pH 8.0) oxidized pH.
 
 TYPE LOCATION: Salinas municipality, Puerto Rico. Las Mareas Lagoon, at Jobos Bay National Estuarine Research Reserve property. Approximately 2.4 kilometers (1.5 miles) southwest from the Jobos Bay Reserve central building and approximately 1.3 kilometers (0.8 miles) northwest of Punta Colchones southernmost shore point. 
 
@@ -45,7 +45,7 @@ Reaction throughout-Slightly to moderately alkaline (pH 7.4 to 8.4)
 Oxidized reaction--Moderately alkaline (pH 7.9 to 8.4)
 Electrical conductivity- (1:5 soil-water)--4.0 to 10.0 dS/m throughout
 Sulfurous odor--Moderate to strong throughout and intensity decreases with depth
-Shell fragments--0 to 35 percent, by volume; Halimed calcifications can be higher than 35 percent in the lower Cseg horizons
+Shell fragments--0 to 35 percent, by volume; Halimeda calcifications can be higher than 35 percent in the lower Cseg horizons
 Fiber content--Unrubbed 10 to 15 percent; rubbed usually less than 5 percent throughout
 
 Oase horizons:
@@ -81,7 +81,7 @@ Placeres soils--have a skeletal control section and lack diagnostic organic hori
 
 DRAINAGE AND SATURATED HYDRAULIC CONDUCTIVITY:
 Drainage class--Subaqueous (permanently submerged)
-Saturated hydraulic conductivity--Moderately high to high
+Saturated hydraulic conductivity--Moderately low to high
 Soil moisture regime--Peraquic
 Soil is continuously inundated by saline and brackish water
 

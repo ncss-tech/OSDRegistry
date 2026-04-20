@@ -2,7 +2,7 @@ LOCATION BETHLEHEM              NC+AL GA SC
 
 Established Series
 Rev. RMB:RLM:HS:DTA
-11/2025
+04/2026
 
 BETHLEHEM SERIES
 
@@ -41,7 +41,7 @@ Datum--WGS84
 RANGE IN CHARACTERISTICS: 
 Solum thickness: 51 to 102 centimeters (20 to 40)
 Thickness of Bt horizon: 61 to 127 centimeters (24 to 50 inches) 
-Depth to soft bedrock: 51 to 102 centimetera (20 to 40 inches) 
+Depth to soft bedrock: 51 to 102 centimeters (20 to 40 inches) 
 Depth to hard bedrock: Greater than 102 centimeters (40 inches) 
 Depth to Seasonal High Water Table: Greater than 152 centimeters (60 inches)
 Rock Fragment Content: 0 to 60 percent, by volume, in the A horizon, 0 to 35 percent, by volume, in the E, BA, BE, and Bt horizons, and 15 to 60 in the BC and C horizons
@@ -81,7 +81,6 @@ COMPETING SERIES:
 Appling soils--have a yellow subsoil and do not have a paralithic contact within 102 centimeters (40 inches) 
 Cecil soils--do not have a paralithic contact within 102 centimeters (40 inches) 
 Madison soils--do not have a paralithic contact within 102 centimeters (40 inches) 
-
 Nankin soils--formed from marine sediments in the coastal plain and do not have a paralthic contact within 102 centimeters (40 inches)
 Pacolet soils--do not have a paralithic contact within 102 centimeters (40 inches) 
 Saw soils--have lithic contact at depths of 51 to 102 centimeters (20 and 40 inches)
@@ -91,7 +90,6 @@ Wedowee soils--do not have a paralithic contact within 102 centimeters (40 inche
 GEOGRAPHIC SETTING: 
 Landscape: Piedmont uplands
 Landform: Ridges and hill slopes
-Landform: Interstream divides, ridges, and side slopes
 Parent Material: Residuum weathered from high-grade metamorphic rocks such as sillimanite schist, phyllite schist, and mica schist 
 Mean Annual Air Temperature: 14 to 17 degrees C (58 to 63 degrees F)
 Mean Annual Precipitation: 1016 to 1524 millimeters (40 to 60 inches)
@@ -109,8 +107,9 @@ Index Surface Runoff: Medium
 Saturated Hydraulic Conductivity: Moderately high
 
 USE AND VEGETATION: 
-Major Uses: Cropland or pasture and woodland
+Major Uses: Cropland, pasture, and woodland
 Dominant Vegetation: Where cultivated--corn, hay, and pasture.  Where wooded--shortleaf pine, Virginia pine, scarlet oak, chestnut oak, white oak, and black oak. Common understory plants are sourwood, flowering dogwood, greenbrier, sassafras, grape, poison ivy, American holly, and blueberry.
+
 SOIL SURVEY REGIONAL OFFICE (SSRO) RESPONSIBLE: Auburn, Alabama
 
 DISTRIBUTION AND EXTENT: 
@@ -120,21 +119,23 @@ Extent: Moderate
 SERIES ESTABLISHED: Alexander County, North Carolina; 1988.
 
 REMARKS: 
-The July 2009 revision moves the type location from Alexander County, NC to Rutherford County, NC. This move was required due to the mesic/thermic break established in MLRA 136. Alexander County is mesic. The November 2025 revision changed the format. No data was changed.
+The July 2009 revision moves the type location from Alexander County, NC to Rutherford County, NC. This move was required due to the mesic/thermic break established in MLRA 136. Alexander County is mesic. The April 2026 revision changed the format. No data was changed.
+
 Diagnostic horizons and soil characteristics recognized in this pedon are:
 Ochric epipedon--The zone from 0 to 18 centimeters (0 to 7 inches) (Ap horizon)
 Argillic and kandic horizon--The zone from 18 to 61 centimeters (7 to 24 inches) has low activity clay in more than 50 percent of the horizon (Bt horizon)
 Paralithic contact--Weathered bedrock at 84 centimeters (33 inches) the upper boundary of the Cr horizon).
 
 ADDITIONAL DATA:
+
 TABULAR SERIES DATA:
-SOI-5  Soil Name   Slope  Airtemp FrFr/Seas Precip  Elevation
+SOI-5    Soil Name       Slope    Airtemp    FrFr/Seas   Precip  Elevation
 NC0191 BETHLEHEM   2-45   58-63   180-230   40-60   700-1200 
 NC0281 BETHLEHEM   2-45   58-63   180-230   40-60   700-1200 
 
 SOI-5  FloodL FloodH Watertable Kind   Months  Bedrock Hardness
-NC0191 NONE          >6.0                 -     20-40   SOFT 
-NC0281 NONE          >6.0                 -     20-40   SOFT 
+NC0191 NONE            >6.0                 -     20-40   SOFT 
+NC0281 NONE            >6.0                 -     20-40   SOFT 
 
 SOI-5  Depth  Texture                 3-Inch  No-10   Clay%   -CEC-
 NC0191  0-7   GR-SL GRV-SL GR-SCL     0-20    35-76    7-35    2-10

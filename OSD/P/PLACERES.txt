@@ -2,7 +2,7 @@ LOCATION PLACERES               PR
 
 Tentative Series
 ASR/AMA
-01/2026
+04/2026
 
 PLACERES SERIES
 
@@ -10,7 +10,7 @@ MLRA(s)--273
 Depth Class--Very deep
 Drainage Class--Subaqueous drainage
 Water depth range--0 to 300 centimeters
-Saturated hydraulic conductivity--Moderately high to high
+Saturated hydraulic conductivity--Moderately low to very high
 Parent Material--Loamy-skeletal estuarine deposits
 Geomorphic location--Estuarine tidal creeks and streams
 Slope--0 to 1 percent
@@ -21,15 +21,15 @@ TAXONOMIC CLASS: Loamy-skeletal, mixed, subactive, nonacid, isohyperthermic Gros
 
 TYPICAL PEDON: Placeres extremely shelly mucky loam in estuarine tidal stream of estuary in Jobos Bay lagoon. (Colors are for moist soil unless otherwise stated).
 
- Aseg1--0 to 18 centimeters; very dark grayish brown (10YR 3/2) extremely shelly mucky loam, 70 percent shell fragments; structureless, massive; slightly sticky, nonplastic; slightly fluid; moderate sulfurous odor; moderately alkaline (pH 8.3); slightly alkaline (pH 7.7) oxidized pH; clear boundary.
+ Aseg1--0 to 18 centimeters; very dark grayish brown (10YR 3/2) extremely shelly mucky loam, 70 percent shell fragments; structureless, massive; slightly sticky, nonplastic; slightly fluid; moderate sulfurous odor; no color change with 3 percent hydrogen peroxide, slight effervescence with 30 percent hydrogen peroxide; moderately alkaline (pH 8.3); slightly alkaline (pH 7.5) oxidized pH; clear boundary.
 
- Aseg2--18 to 42 centimeters; very dark grayish brown (10YR 3/2) very shelly loam; 50 percent shell fragments; structureless, massive; slightly sticky, nonplastic; slightly fluid; slight sulfurous odor; moderately alkaline (pH 8.3); slightly alkaline (pH 7.7) oxidized pH; abrupt boundary.
+ Aseg2--18 to 42 centimeters; very dark grayish brown (10YR 3/2) very shelly loam; 50 percent shell fragments; structureless, massive; slightly sticky, nonplastic; slightly fluid; slight sulfurous odor; no color change with 3 percent hydrogen peroxide; no effervescence with 30 percent hydrogen peroxide; moderately alkaline (pH 8.3); slightly alkaline (pH 7.7) oxidized pH; abrupt boundary.
 
- Cseg1--42 to 85 centimeters; very dark gray (5Y 3/1) very shelly clay loam; 40 percent shell fragments; structureless, massive; slightly sticky, slightly plastic; moderately fluid;  slight sulfurous odor; moderately alkaline (pH 8.4); slightly alkaline (pH 7.7) oxidized pH; clear boundary.
+ Cseg1--42 to 85 centimeters; very dark gray (5Y 3/1) very shelly clay loam; 40 percent shell fragments; structureless, massive; slightly sticky, slightly plastic; moderately fluid; slight sulfurous odor; no color change with 3 percent hydrogen peroxide; no effervescence with 30 percent hydrogen peroxide; moderately alkaline (pH 8.4); slightly alkaline (pH 7.7) oxidized pH; clear boundary.
 
- Cseg2--85 to 139 centimeters; greenish gray (10Y 5/1) shelly silty clay loam; 30 percent shell fragments with 3 percent Halimeda calcifications); structureless, massive; slightly sticky, slightly plastic; very fluid; moderately alkaline (pH 8.4); slightly alkaline (pH 7.7) oxidized pH; clear boundary.
+ Cseg2--85 to 139 centimeters; greenish gray (10Y 5/1) shelly silty clay loam; 30 percent shell fragments with 3 percent Halimeda calcifications); structureless, massive; slightly sticky, slightly plastic; very fluid; no odor; no color change with 3 percent hydrogen peroxide; no effervescence with 30 percent hydrogen peroxide; strongly alkaline (pH 8.5); slightly alkaline (pH 7.7) oxidized pH; clear boundary.
 
- Cseg3--139 to 185 centimeters; greenish gray (10Y 5/1) very parashelly clay loam; 40 percent Halimeda calcifications; structureless, massive; slightly sticky, slightly plastic; slightly fluid;  moderately alkaline (pH 8.4); slightly alkaline (pH 7.7) oxidized pH.
+ Cseg3--139 to 185 centimeters; greenish gray (10Y 5/1) very parashelly clay loam; 40 percent Halimeda calcifications; structureless, massive; slightly sticky, slightly plastic; slightly fluid; no odor; no color change with 3 percent hydrogen peroxide; no effervescence with 30 percent hydrogen peroxide; strongly alkaline (pH 8.5); slightly alkaline (pH 7.7) oxidized pH.
 
 TYPE LOCATION: Salinas municipality, Puerto Rico. Las Mareas Lagoon, at Jobos Bay National Estuarine Research Reserve property. Approximately 3.8 kilometers (2.36 miles) southwest from the Jobos Bay National Estuarine Research Reserve headquarters office and approximately 2.3 kilometers (1.42 miles) northwest of Punta Colchones southernmost shore point in an estuarine tidal stream.
 
@@ -42,8 +42,8 @@ RANGE IN CHARACTERISTICS:
 Depth to bedrock--Greater than 200 centimeters
 Manner of Failure--Slightly fluid to very fluid throughout
 Shell fragments--greater than 35 percent by volume from 0 to 100 centimeters
-Reaction throughout--Moderately alkaline (pH 7.9 to 8.4)
-Oxidized reaction--Moderately alkaline (pH 7.9 to 8.4)
+Reaction throughout--Moderately to strongly alkaline (pH 7.9 to 9.0)
+Oxidized reaction--Slightly to moderately alkaline (pH 7.4 to 8.4)
 Sulfurous odor--Slight to strong throughout, intensity decreases with depth
 Electrical conductivity (1:5 soil-water)--4.0 to 10.0 dS/m throughout
 
@@ -82,7 +82,7 @@ GEOGRAPHIC SETTING:
 Parent Material--Loamy-skeletal estuarine deposits
 Landscape--Coastal lagoons in semiarid coastal plain, Puerto Rico
 Landform--Estuarine tidal creeks, streams and mainland cove (beach margins) 
-Mean Annual Air Temperature--22 to 31 degrees C (71 to 88 degrees F)
+Mean Annual Air Temperature--22 to 31 degrees C (72 to 88 degrees F)
 Mean Annual Precipitation--508 to 1,145 millimeters (20 to 45 inches)
 Mean Annual Water Temperature--26 to 32 degrees C (79 to 90 degrees F)
 Water salinity range--28 to 43 parts per thousand
@@ -93,7 +93,7 @@ Ostiones soils--do not have a skeletal control section. Ostiones soils also occu
 
 DRAINAGE AND SATURATED HYDRAULIC CONDUCTIVITY:
 Drainage class--Subaqueous (permanently submersed)
-Saturated hydraulic conductivity--Moderately high to high
+Saturated hydraulic conductivity--Moderately low to very high
 Soil moisture regime--Peraquic 
 Soil is continuously inundated by saline and brackish water
 

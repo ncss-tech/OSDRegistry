@@ -2,77 +2,120 @@ LOCATION TOWALIGA               GA
 
 Established Series
 Rev: JRL/SEC/RHB; Rev:DTA
-09/2008
+04/2026
 
 TOWALIGA SERIES
 
-MLRA(s): 136
-MLRA SOIL SURVEY REGIONAL OFFICE (MO) RESPONSIBLE: Raleigh, North Carolina
+MLRA(s): 136 (thermic part)
+Soil Survey Regional Office (SSRO) Responsible: Southeast
 Depth Class: Very deep
-Drainage Class (Agricultural): Well drained
-Internal Free Water Occurrence: Very deep, Absent
+Agricultural Drainage Class: Well drained
 Index Surface Runoff: Medium to rapid
-Permeablitiy: Moderate
-Landscape: 
-Landform:
-Hillslope Profile Position:
-Geomorphic Component:
-Parent Material: Loamy colluvium weathered from fault line material over 
-residuum weathered from felsic crystalline rock.
+Saturated Hydraulic Conductivity Class: Moderately high
+Landscape: Piedmont uplands
+Landform: Interstream divides, ridges, and side slopes
+Parent Material: Loamy colluvium weathered from fault line material over
+residuum weathered from felsic crystalline rock
 Slope: 10 to 45 percent
-Elevation: 
-Mean Annual Air Temperature (type location): 63 degrees F.
-Mean Annual Precipitation (type location): 48 inches
+Elevation: 152 meters (500 feet) 
+Mean Annual Air Temperature (type location): 17 degress C (63 degrees F)
+Mean Annual Precipitation (type location): 1219 millimeters (48 inches)
 
 TAXONOMIC CLASS: Fine, kaolinitic, thermic Typic Hapludults
 
-TYPICAL PEDON: Towaliga extremely gravelly sandy loam on a north-facing, convex, 33 percent slope- in forest. (Colors are for moist soil unless otherwise indicated.)
+TYPICAL PEDON: Towaliga extremely gravelly sandy loam on a north-facing, convex, 33 percent slope; in forest. (Colors are for moist soil unless otherwise indicated.)
 
-  A--0 to 3 inches; dark brown (10YR 3/3) extremely gravelly loam; weak fine granular structure; very friable; many fine and very fine roots; 70 percent quartz gravel; very strongly acid; clear smooth boundary. (2 to 6 inches thick)
+  A--0 to 8 centimeters (0 to 3 inches); dark brown (10YR 3/3) extremely gravelly loam; weak fine granular structure; very friable; many fine and very fine roots; 70 percent quartz gravel; very strongly acid; clear smooth boundary. (5 to 15 centimeters (2 to 6 inches) thick)
 
-  BA--3 to 11 inches; yellowish brown (10YR 5/4) very gravelly loam; weak fine granular structure; very friable; common fine and few coarse roots; 40 percent quartz gravel and 10 percent quartz cobbles; very strongly acid; clear wavy boundary. (0 to 21 inches thick)
+  BA--8 to 28 centimeters (3 to 11 inches); yellowish brown (10YR 5/4) very gravelly loam; weak fine granular structure; very friable; common fine and few coarse roots; 40 percent quartz gravel and 10 percent quartz cobbles; very strongly acid; clear wavy boundary. (0 to 53 centimeters (0 to 21 inches) thick)
 
-  Bw1--11 to 21 inches; strong brown (7.5YR 5/6) very gravelly sandy loam; weak fine subangular blocky structure; friable; few coarse roots; 35 percent quartz gravel and 20 percent quartz cobbles; very strongly acid; gradual wavy boundary.
+  Bw1--28 to 53 centimeters (11 to 21 inches); strong brown (7.5YR 5/6) very gravelly sandy loam; weak fine subangular blocky structure; friable; few coarse roots; 35 percent quartz gravel and 20 percent quartz cobbles; very strongly acid; gradual wavy boundary.
 
-  Bw2--21 to 33 inches; strong brown (7.5YR 5/8) very gravelly sandy loam; weak fine subangular blocky structure; friable; few medium roots; 35 percent quartz gravel and 10 percent quartz cobbles; very strongly acid; clear wavy boundary. (Combined thickness of the Bw horizons is 10 to 28 inches)
+  Bw2--53 to 84 centimeters (21 to 33 inches); strong brown (7.5YR 5/8) very gravelly sandy loam; weak fine subangular blocky structure; friable; few medium roots; 35 percent quartz gravel and 10 percent quartz cobbles; very strongly acid; clear wavy boundary. (Combined thickness of the Bw horizons is 10 to 28 inches)
 
-  2Bt--33 to 48 inches; yellowish red (5YR 5/8) clay; few fine prominent yellowish brown (10YR 5/8) mottles; moderate medium subangular blocky structure; firm; common distinct clay films on faces of peds; very strongly acid; gradual wavy boundary.
+  2Bt--84 to 122 centimeters (33 to 48 inches); yellowish red (5YR 5/8) clay; few fine prominent yellowish brown (10YR 5/8) mottles; moderate medium subangular blocky structure; firm; common distinct clay films on faces of peds; very strongly acid; gradual wavy boundary.
 
-  2BC--48 to 65 inches; yellowish red (5YR 5/8) clay loam; many medium distinct strong brown (7.5YR 5/8) and common fine prominent very pale brown (10YR 8/4) mottles; weak medium subangular blocky structure; firm; common distinct clay films on faces of peds; very strongly acid.
+  2BC--122 to 165 centimeters (48 to 65 inches); yellowish red (5YR 5/8) clay loam; many medium distinct strong brown (7.5YR 5/8) and common fine prominent very pale brown (10YR 8/4) mottles; weak medium subangular blocky structure; firm; common distinct clay films on faces of peds; very strongly acid.
 
-TYPE LOCATION: Butts County, Georgia; located about 1800 feet south of Georgia Highway 16 at Yellow Water Creek bridge (USGS Quadrangle, Lloyd Shoals Dam (1985), Latitude 33 degrees 17 minutes 52 seconds N. Longitude 83 degrees 51 minutes 4 seconds W.)
+TYPE LOCATION: Butts County, Georgia; located about 1800 feet south of Georgia Highway 16 at Yellow Water Creek bridge; USGS Lloyd Shoals Dam, Georgia topographic quadrangle. 
 
-RANGE IN CHARACTERISTICS: Thickness of the solum is 40 to greater than 60 inches. Depth to bedrock is greater than 60 inches. Depth to the 2Bt horizon(s) ranges from about 24 to 38 inches. Reaction is strongly acid or very strongly acid, unless limed.  Subangular and angular fragments of quartz gravel and cobbles range from 35 to 75 percent in the A and BA horizons. Subangular and angular fragments of quartz gravel and cobbles range from 15 to 75 percent in the Bw horizons and 0 to 15 percent in the Bt and BC horizons.
+Latitude--33.2978
+Longitude-- -83.8511
+Datum--WGS84
 
-The A horizon has hue of 10YR, value of 3, and chroma of 1 to 3. The fine earth fraction is loam, sandy loam, or silt loam.
+RANGE IN CHARACTERISTICS: 
+Solum thickness: 102 to greater than 152 centimeters (40 to greater than 60 inches)
+Depth to 2Bt horizon: 61 to 97 centimeters (24 to 38 inches) 
+Depth to bedrock: Greater than 152 centimeters (60 inches) 
+Depth to Seasonal High Water Table: Greater than 152 centimeters (60 inches)
+Rock Fragment Content: Subangular and angular fragments of quartz gravel and cobbles range from 35 to 75 percent, by volume, in the A and BA horizons. Subangular and angular fragments of quartz gravel and cobbles range from 15 to 75 percent, by volume, in the Bw horizons and 0 to 15 percent, by volume, in the 2Bt and 2BC horizons.
+Soil Reaction: Very strongly acid or strongly acid, unless limed 
 
-The BA horizon has hue of 7.5YR to 10YR, value of 4 to 6, and chroma of 4 to 8.  The fine earth fraction is sandy loam, sandy clay loam, loam or silt loam. 
+RANGE OF INDIVIDUAL HORIZONS:
+A horizon:
+Color--hue of 10YR, value of 3, chroma of 1 to 3 
+Texture (fine-earth fraction)--loam, sandy loam, or silt loam
 
-The Bw horizon has hue of 7.5YR to 2.5Y, value of 4 or 5,and chroma of 4 to 8.  The fine earth fraction is sandy loam, sandy clay loam, loam or silt loam. 
+BA horizon: 
+Color--hue of 7.5YR to 10YR, value of 4 to 6, chroma of 4 to 8 
+Texture (fine-earth fraction)--sandy loam, sandy clay loam, loam, or silt loam
 
-The 2Bt horizon has hue of 2.5YR or 5YR, value of 4 or 5, and chroma of 6 or 8.  Mottles in shades of yellow or brown may be present.  The fine earth fraction is clay loam, sandy clay or clay. 
+Bw horizon:
+Color--hue of 7.5YR to 2.5Y, value of 4 or 5, chroma of 4 to 8 
+Texture (fine-earth fraction)--sandy loam, sandy clay loam, loam, or silt loam
 
-The 2BC horizon, where present, has hue of 2.5YR or 5YR, value of 4 or 5, and chroma of 6 or 8.  Mottles in shades of yellow, brown, or pink may occur.  The fine earth fraction is sandy clay loam or clay loam.
+2Bt horizon: 
+Color--hue of 2.5YR or 5YR, value of 4 or 5, chroma of 6 or 8. Mottles in shades of yellow or brown may be present. 
+Texture (fine-earth fraction)--clay loam, sandy clay, or clay
 
-COMPETING SERIES: These are the Chestatee, Darley, Hulett, Kolomoki, Mahan, Neeses and Spotsylvania series in the same family and the Bethlehem, Pacolet, and Rion series. All of the competing series except Chestatee and Darley lack a significant amount of fragments throughout the upper solum. In addition, Bethlehem soils have soft bedrock at 20 to 40 inches. Rion soils are in a fine-loamy family.
+2BC horizon: (if it occurs): 
+Color--hue of 2.5YR or 5YR, value of 4 or 5, chroma of 6 or 8. Mottles in shades of yellow, brown, or pink may occur. 
+Texture (fine-earth fraction)--sandy clay loam, or clay loam
 
-GEOGRAPHIC SETTING: The Towaliga series is located on hillsides and ridges along the Towaliga Fault Line. Near the type location, the mean annual temperature is 63 degrees F., and the mean annual precipitation is 48 inches.
+COMPETING SERIES: 
+Chestatee soils--have coarse fragments consisting of stones and boulders throughout the solum
+Hulett soils--lack a significant amount of fragments throughout the upper solum
+Spotsylvania soil--lack a significant amount of fragments throughout the upper solum
 
-GEOGRAPHICALLY ASSOCIATED SOILS: These are the Bethlehem, Hibriten, Pacolet, and Rion series. Hibriten soils are mesic and have soft bedrock at 40 to 60 inches. 
+GEOGRAPHIC SETTING: 
+Landscape: Piedmont uplands along the Towaliga fault line
+Landform: Ridges and hill slopes
+Parent Material: Loamy colluvium weathered from fault line material over
+residuum weathered from felsic crystalline rock
 
-DRAINAGE AND PERMEABILITY: Towaliga soils are well drained. Runoff is medium to rapid and permeability is moderate. 
+GEOGRAPHICALLY ASSOCIATED SOILS: 
+Bethlehem soils--have soft bedrock at a depth to 51 to 102 centimeters (20 to 40 inches) and lack a significant amount of fragments throughout the solum  
+Pacolet soils--lack a significant amount of fragments throughout the solum  
+Rion soils--are fine-loamy and lack a significant amount of fragments throughout the solum   
+Saw soils--have hard bedrock at a depth to 51 to 102 centimeters (20 to 40 inches) and lack a significant amount of fragments throughout the solum  
 
-USE AND VEGETATION: Most areas of Towaliga soils have second growth timber. Principal tree species include oaks, hickories, and pines.
+DRAINAGE AND SATURATED HYDRAULIC CONDUCTIVITY: 
+Agricultural Drainage Class: Well drained
+Index Surface Runoff: Medium
+Saturated Hydraulic Conductivity: Moderately high
 
-DISTRIBUTION AND EXTENT: Along fault lines in the Southern Piedmont of Georgia and possibly Alabama. The series is of small extent. 
+USE AND VEGETATION: 
+Major Uses: Woodland
+Dominant Vegetation: Where wooded--oaks, hickories, and pines.
 
-MLRA SOIL SURVEY REGIONAL OFFICE (MO) RESPONSIBLE: Raleigh, North Carolina
+SOIL SURVEY REGIONAL OFFICE (SSRO) RESPONSIBLE: Auburn, Alabama
 
-SERIES ESTABLISHED: Butts County, Georgia - 2003
+DISTRIBUTION AND EXTENT: 
+Distribution: Georgia and possibly Alabama
+Extent: Small 
 
-REMARKS: Laboratory data generated by University of Georgia Soil 
+SERIES ESTABLISHED: Butts County, Georgia: 2003
+
+REMARKS: The April 2026 revision changed the format. No data was changed. Laboratory data generated by University of Georgia Soil
 Characterization Laboratory 1-2000, and by the National Soil Survey Laboratory 7-2000. Pedon S99GA614-001 is the basis for determination of clay activity.
 
+Diagnostic horizons and soil characteristics recognized in this pedon:
+Ochric epipedon--the zone from 0 to 8 centimeters (0 to 3 inches) (A horizon)
+Cambric horizon--the zone from 8 to 84 centimeters (3 to 33 inches) (BA and Bw horizons)
+Argillic horizon--the zone from 84 to 122 centimeters (33 to 48 inches) (2Bt horizon)
 
+ADDITIONAL DATA:
+
+________________________________________
 National Cooperative Soil Survey
 U.S.A.

@@ -2,7 +2,7 @@ LOCATION POZUELO                PR
 
 Tentative Series
 ASR/AMA
-01/2026
+04/2026
 
 POZUELO SERIES
 
@@ -10,7 +10,7 @@ MLRA(s)--273
 Depth Class--Very deep
 Drainage Class--Subaqueous drainage
 Water depth range--0 to 400 centimeters
-Saturated hydraulic conductivity--Moderately low
+Saturated hydraulic conductivity--Moderately low to high
 Parent Material--Fine estuarine deposits
 Geomorphic location--Mainland coves 
 Slope--0 to 1 percent
@@ -21,15 +21,15 @@ TAXONOMIC CLASS: Fine, mixed, subactive, nonacid, isohyperthermic Grossic Hydrow
 
 TYPICAL PEDON: Pozuelo silt loam in a mainland cove in Jobos Bay main lagoon (Colors are for moist soil unless otherwise stated).
 
- Aseg--0 to 15 centimeters; very dark greenish gray (10Y 3/1), silt loam; 5 percent shell fragments; structureless, massive; moderately sticky, moderately plastic; very fluid; moderately alkaline (pH 8.4), moderately alkaline (pH 8.0) oxidized pH; clear boundary.
+ Aseg--0 to 15 centimeters; very dark greenish gray (10Y 3/1), silt loam; 5 percent shell fragments; structureless, massive; moderately sticky, moderately plastic; very fluid; color change with 3 percent hydrogen peroxide; strong effervescence to 30 percent hydrogen peroxide; strongly alkaline (pH 8.5), moderately alkaline (pH 8.2) oxidized pH; clear boundary.
 
- Cseg1--15 to 39 centimeters; dark greenish gray (10GY 4/1), silty clay; structureless, massive; very sticky, moderately plastic; moderately fluid; moderately alkaline (pH 8.4), moderately alkaline (pH 8.0) oxidized pH; clear boundary.
+ Cseg1--15 to 39 centimeters; dark greenish gray (10GY 4/1), silty clay; structureless, massive; very sticky, moderately plastic; moderately fluid; no color change with 3 percent hydrogen peroxide; slight effervescence with 30 percent hydrogen peroxide; strongly alkaline (pH 8.7), strongly alkaline (pH 8.5) oxidized pH; clear boundary.
 
- Cseg2--39 to 85 centimeters; very dark greenish gray (10Y 3/1), silty clay loam; structureless, massive; moderately sticky, moderately plastic; very fluid;  moderately alkaline (pH 8.4), moderately alkaline (pH 8.0) oxidized pH; clear boundary.
+ Cseg2--39 to 85 centimeters; very dark greenish gray (10Y 3/1), silty clay loam; structureless, massive; moderately sticky, moderately plastic; very fluid; no color change with 3 percent hydrogen peroxide; slight effervescence with 30 percent hydrogen peroxide; strongly alkaline (pH 8.9), moderately alkaline (pH 8.4) oxidized pH; clear boundary.
 
- Cseg3--85 to 126 centimeters; very dark greenish gray (10Y 3/1), silty clay; structureless, massive; very sticky, moderately plastic; moderately fluid; slight sulfurous odor; moderately alkaline (pH 8.4), moderately alkaline (pH 8.0) oxidized pH; diffuse boundary.
+ Cseg3--85 to 126 centimeters; very dark greenish gray (10Y 3/1), silty clay; structureless, massive; very sticky, moderately plastic; moderately fluid;  slight sulfurous odor; no color change with 3 percent hydrogen peroxide; slight effervescence with 30 percent hydrogen peroxide; moderately alkaline (pH 8.4), moderately alkaline (pH 8.0) oxidized pH; diffuse boundary.
 
- Cseg4--126 to 190 centimeters; very dark greenish gray (10Y 3/1), silty clay; structureless, massive; moderately sticky, moderately plastic; moderately fluid; moderately alkaline (pH 8.4), moderately alkaline (pH 8.0) oxidized pH.
+ Cseg4--126 to 190 centimeters; very dark greenish gray (10Y 3/1), silty clay; structureless, massive; moderately sticky, moderately plastic; moderately fluid; no color change with 3 percent hydrogen peroxide; slight effervescence with 30 percent hydrogen peroxide; strongly alkaline (pH 8.5), moderately alkaline (pH 8.4) oxidized pH.
 
 TYPE LOCATION: Guayama municipality, Puerto Rico. Las Mareas Lagoon, at Jobos Bay National Estuarine Research Reserve property. Approximately 3.4 kilometers (2.1 miles) southeast from the Jobos Bay Reserve headquarters office building and approximately 3.75 kilometers (2.3 miles) northeast of Cayo Caribe southernmost shore point. 
 
@@ -91,7 +91,7 @@ Placeres soils--have a skeletal control section and occur in estuarine tidal cre
 
 DRAINAGE AND SATURATED HYDRAULIC CONDUCTIVITY:
 Drainage class--Subaqueous (permanently submersed) 
-Saturated hydraulic conductivity--Moderately low
+Saturated hydraulic conductivity--Moderately low to high
 Soil moisture regime--Peraquic 
 Soil is continuously inundated by saline and brackish water
 

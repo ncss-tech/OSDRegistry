@@ -1,0 +1,131 @@
+LOCATION DREGS                  FL
+
+Tentative Series
+ARW
+04/2026
+
+DREGS SERIES
+
+MLRA(s)--152A
+Depth class--Very deep
+Drainage class--Subaqueous
+Water depth range--0 to 3 meters (0 to 10 feet)
+Parent material--Sandy dredge spoils
+Geomorphic location--Dredge-deposit shoal
+Slope range--0 to 2 percent
+Mean annual air temperature--21 degrees C (70 degrees F)
+Mean annual water temperature--21 degrees C (70 degrees F)
+
+TAXONOMIC CLASS: Dredgic, siliceous, hyperthermic Aeric Psammowassents
+
+TYPICAL PEDON: Dregs sand on a dredge-deposit shoal under 1.7 meters of salt water (colors are for moist soil unless otherwise stated; electrical conductivity is 1:5 by volume solution mixture unless otherwise stated).
+
+ ^Cse1--0 to 55 centimeters; 95 percent yellowish brown (10YR 5/4) and 5 percent dark gray (10YR 4/1) sand; single grain; nonsticky, nonplastic; nonfluid; no sulfurous odor; no color change with 3 percent hydrogen peroxide; violent effervescence with 30 percent hydrogen peroxide; saline (1.4 dS/m); moderately alkaline (pH 7.9), moderately alkaline (pH 7.9) oxidized pH; gradual boundary
+
+ ^Cse2--55 to 99 centimeters; 95 percent brown (10YR 5/3) and 5 percent black (N 2.5/) sand; single grain; nonsticky, nonplastic; nonfluid; no sulfurous odor; no color change with 3 percent hydrogen peroxide; strong effervescence with 30 percent hydrogen peroxide; saline (1.5 dS/m); slightly alkaline (pH 7.7), neutral (pH 7.2) oxidized pH; clear boundary
+
+ ^Cse3--99 to 123 centimeters; 85 percent brown (10YR 5/3) and 10 percent dark grayish brown (10YR 4/2) and 5 percent black (N 2.5/) sand; single grain; nonsticky, nonplastic; nonfluid; 1 percent shell fragments; no sulfurous odor; no color change with 3 percent hydrogen peroxide; moderate effervescence with 30 percent hydrogen peroxide; saline (1.6 dS/m); moderately alkaline (pH 7.9), neutral (pH 7.3) oxidized pH; gradual boundary; (50 to 100 centimeters thick)
+
+ ^Cseg1--123 to 179 centimeters; 60 percent dark grayish brown (10YR 4/2) and 20 percent yellowish brown (10YR 5/4) and 20 percent black (N 2.5/) sand; single grain; nonsticky, nonplastic; nonfluid; 3 percent wood fragments; 5 percent shell fragments; no sulfurous odor; no color change with 3 percent hydrogen peroxide; slight effervescence with 30 percent hydrogen peroxide; saline (2.1 dS/m); slightly alkaline (pH 7.8), moderately alkaline (pH 8.0) oxidized pH; clear boundary
+
+ ^Cseg2--179 to 202 centimeters; 80 percent dark grayish brown (10YR 4/2) and 20 percent dark gray (10YR 4/1) sand; single grain; nonsticky, nonplastic; nonfluid; 1 percent shell fragments; 8 percent wood fragments; no sulfurous odor; no color change with 3 percent hydrogen peroxide; slight effervescence with 30 percent hydrogen peroxide; saline (2.6 dS/m); slightly alkaline (pH 7.6), slightly alkaline (pH 7.7) oxidized pH
+
+TYPE LOCATION: Franklin County, Florida; Apalachicola Bay; approximately 1.4 kilometers (0.9 miles) south by southeast of the terminus of Battery Park Lane, approximately 10.7 kilometers (6.6 miles) north of the Government Cut, and 8.5 kilometers (0.5 miles) west by southwest of Cat Point; USGS topographic quadrangle: Apalachicola, FL.
+
+Latitude--29.709579
+Longitude-- -84.979298
+Datum--WGS84
+Coordinate source--From hand-held GPS
+
+RANGE IN CHARACTERISTICS:
+Depth to bedrock--Greater than 200 centimeters
+Thickness of dredge spoil material--50 to 200 centimeters
+Fluidity class--Nonfluid to slightly fluid throughout profile
+Sulfurous odor--None to slight throughout profile
+Soil reaction--Slightly alkaline to moderately alkaline throughout profile (pH 7.4 to 8.4)
+Oxidized reaction--Neutral to moderately alkaline throughout profile (pH 6.6 to 8.4)
+Electrical conductivity (1:5 soil to water solution)--1.0 to 3.5 dS/m  throughout profile
+Particle-size control section (weighted average):
+Shell fragments--0 to 10 percent, by volume
+Wood fragments--0 to 10 percent, by volume
+Sand--75 to 98 percent
+Clay--1 to 5 percent
+Total soil organic carbon stock 0 to 100 centimeters--2 to 5 kg m-2
+Total soil organic carbon stock 0 to 200 centimeters--4 to 8 kg m-2
+
+^Cse horizons:
+Hue--10YR to 5Y
+Value--4 or 5
+Chroma--3 or 4
+Texture--Sand, fine sand, loamy sand, or loamy fine sand
+Organic carbon density--1 to 3 kg m-3
+
+^Cseg horizons:
+Hue--10YR to 5Y
+Value--3 or 4
+Chroma--1 or 2
+Texture--Sand, fine sand, loamy sand, or loamy fine sand 
+Organic carbon density--2 to 4 kg m-3
+
+2Cseg horizons (where present):
+Hue--5Y to 10Y or N
+Value--3 or 4
+Chroma--none or 1
+Texture--Clay loam, sandy clay loam, loam, or fine sandy loam
+Organic carbon density--5 to 12 kg m-3
+
+COMPETING SERIES:
+There are no competing series in the same family.
+
+GEOGRAPHIC SETTING:
+Landscape--Bays and lagoons
+Landform--Dredge-deposit shoals
+Parent material--Sandy dredge spoils
+Slope--0 to 2 percent
+Water depth range--0 to 3 meters (0 to 10 feet) below mean sea level
+Water salinity range--5 to 30 parts per thousand
+Water temperature range--18 to 30 degrees C (64 to 86 degrees F)
+Soil temperature range--19 to 27 degrees C (66 to 81 degrees F)
+
+GEOGRAPHICALLY ASSOCIATED SOILS:
+These are the Apalachicola, Dry Bar, Eastpoint, McKissack, Norman, Sandbank, and Slough soils.
+Apalachicola soils--Formed on lagoon and bay bottoms from fine-loamy lagoonal deposits and have up to 35 percent shell fragments in the particle-size control section.
+Dry Bar soils--Formed on shoals and oyster reefs from sandy lagoonal deposits and have a weighted average of 35 percent or more shell fragments in the particle-size control section.
+Eastpoint soils--formed on submerged wave-cut platforms from sandy lagoonal materials.
+McKissack soils--Formed in brackish estuarine tidal stream from eroded, sandy spodic material.
+Norman soils--Formed on shoals and oyster reefs from loamy lagoonal deposits and have a weighted average of 35 percent or more shell fragments in the particle size control section.
+Sandbank soils--Formed on estuarine tidal stream deltas and from sandy estuarine deposits and have mica present in some part of the profile.
+Slough soils--Formed in brackish estuarine tidal streams from fine-loamy estuarine deposits.
+
+DRAINAGE AND SATURATED HYDRAULIC CONDUCTIVITY:
+Drainage class--Subaqueous
+Saturated hydraulic conductivity--High to very high
+Soil moisture regime--Peraquic
+Soil is continuously inundated by brackish or salt water
+
+USE AND VEGETATION:
+Major uses--The area is intermittently used for recreational fishing. Sparse, rooted vascular vegetation has been observed on Dregs soils.
+Typical vegetation--Subaquatic vegetation is  typically absent, but limited stands of shoal grass (Halodule wrightii) may establish where conditions are permissible.    
+
+DISTRIBUTION AND EXTENT:
+General area--Brackish and salt water dredge-deposit shoals along the Gulf.
+Land Resource Regions--T - Atlantic and Gulf Coast Lowland Forest and Crop Region
+MLRA(s)--152A
+Extent--Small  
+
+SOIL SURVEY REGIONAL OFFICE (SSRO) RESPONSIBLE: Special Projects Office
+
+SERIES ESTABLISHED: Franklin County, Florida, 2026
+
+REMARKS:
+Typical Pedon Taxonomic Features:
+Human-transported material--The zone from 0 to 202 centimeters.
+Reduced matrix--The zone from 123 to 202 centimeters has a soil color matrix with a chroma of 2 or less.
+Peraquic feature--Zero or positive soil water potential at the soil surface (permanently submerged).
+Taxonomic Version: Keys to Soil Taxonomy, Thirteenth Edition, 2022
+Other: The series is named after the term dregs, a term used to describe the sediment which settles to the bottom of liquids after processing. Dregs soils were previously mapped as water in Florida soil surveys.
+
+NASIS User Site and Pedon ID: S2024FL037040
+____________________________________________________________________________
+National Cooperative Soil Survey
+U.S.A.

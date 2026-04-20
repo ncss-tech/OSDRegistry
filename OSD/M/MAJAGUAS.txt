@@ -2,7 +2,7 @@ LOCATION MAJAGUAS               PR
 
 Tentative Series
 ASR/AMA
-01/2026
+04/2026
 
 MAJAGUAS SERIES
 
@@ -10,7 +10,7 @@ MLRA(s)--273
 Depth Class--Very deep
 Drainage Class--Subaqueous drainage
 Water depth range--200 to 400 centimeters
-Saturated hydraulic conductivity--Moderately high
+Saturated hydraulic conductivity--Moderately low to high
 Parent Material--Fine-loamy estuarine deposits 
 Geomorphic location--Lagoon bottoms and edges of mainland coves
 Slope--0 to 1 percent
@@ -23,13 +23,13 @@ TYPICAL PEDON: Majaguas mucky loam on a lagoon bottom in a coastal lagoon, Jobos
 
  Aseg--0 to 16 centimeters; greenish black (10Y 2.5/1), mucky loam; 1 percent shell fragments; structureless, massive; very fluid; moderate sulfurous odor; positive color change with 3 percent hydrogen peroxide; strong effervescence with 30 percent hydrogen peroxide; moderately alkaline (pH 8.0), moderately alkaline (pH 8.0) oxidized pH; clear boundary.
 
- Cseg1--16 to 51 centimeters; dark greenish gray (10Y 4/1), shelly loam; 30 percent shell fragments; structureless, massive; slightly fluid; slight sulfurous odor; positive color change with 3 percent hydrogen peroxide; slight effervescence with 30 percent hydrogen peroxide; moderately alkaline (pH 8.0), moderately alkaline (pH 8.0) oxidized pH; gradual boundary.
+ Cseg1--16 to 51 centimeters; dark greenish gray (10Y 4/1), shelly loam; 30 percent shell fragments; structureless, massive; slightly fluid; slight sulfurous odor; positive color change with 3 percent hydrogen peroxide; slight effervescence with 30 percent hydrogen peroxide; moderately alkaline (pH 8.1), moderately alkaline (pH 7.9) oxidized pH; gradual boundary.
 
- Cseg2--51 to 108 centimeters; dark greenish gray (10Y 4/1), shelly loam; 25 percent shell fragments (small percent of Halimeda calcifications); structureless, massive; moderately fluid; slight sulfurous odor; moderately alkaline (pH 8.0), moderately alkaline (pH 8.0) oxidized pH; clear boundary.
+ Cseg2--51 to 108 centimeters; dark greenish gray (10Y 4/1), shelly loam; 25 percent shell fragments (small percent of Halimeda calcifications); structureless, massive; moderately fluid; slight sulfurous odor; no color change with 3 percent peroxide; no effervescence with 30 percent hydrogen peroxide; moderately alkaline (pH 8.1), moderately alkaline (pH 8.1) oxidized pH; clear boundary.
 
- 2Cseg3--108 to 197 centimeters; dark greenish gray (10Y 4/1), silty clay; 10 percent Halimeda calcifications; structureless, massive; moderately fluid; moderate sulfurous odor; moderately alkaline (pH 8.0), moderately alkaline (pH 8.0) oxidized pH; clear boundary. 
+ 2Cseg3--108 to 197 centimeters; dark greenish gray (10Y 4/1), silty clay; 10 percent Halimeda calcifications; structureless, massive; moderately fluid; moderate sulfurous odor; no color change with 3 percent hydrogen peroxide; no effervescence with 30 percent hydrogen peroxide; moderately alkaline (pH 8.2), moderately alkaline (pH 8.2) oxidized pH; clear boundary. 
 
- 2Cseg4--197 to 232 centimeters; dark greenish gray (10Y 4/1), clay loam; 10 percent Halimeda calcifications; structureless, massive; moderately fluid; moderate sulfurous odor; moderately alkaline (pH 8.0), moderately alkaline (pH 8.0) oxidized pH.
+ 2Cseg4--197 to 232 centimeters; dark greenish gray (10Y 4/1), clay loam; 10 percent Halimeda calcifications; structureless, massive; moderately fluid; moderate sulfurous odor; no color change with 3 percent hydrogen peroxide; no effervescence with 30 percent hydrogen peroxide; moderately alkaline (pH 8.2), moderately alkaline (pH 8.2) oxidized pH.
 
 TYPE LOCATION: Salinas municipality, Puerto Rico. Las Mareas Lagoon, at Jobos Bay National Estuarine Research Reserve property. Approximately 3.2 kilometers (1.98 miles) southwest from the Jobos Bay Reserve central building and approximately 0.68 kilometers (0.42 miles) west-northwest of Punta Colchones southernmost shore point. 
 
@@ -72,7 +72,7 @@ Parent Material--Fine-loamy estuarine deposits
 Landscape--Coastal lagoons in Semiarid coastal plain, Puerto Rico
 Landform--Lagoon bottoms and edges of mainland coves
 Mean Annual Air Temperature--22 to 31 degrees C. (72 to 88 degrees F.)
-Mean Annual Precipitation--508 to 1,145 millimeters (20 to 63 inches)
+Mean Annual Precipitation--508 to 1,145 millimeters (20 to 45 inches)
 Mean Annual Water Temperature--26 to 32 degrees C (79 to 90 degrees F)
 Water salinity range--28 to 43 parts per thousand
 
@@ -85,7 +85,7 @@ Pozuelo soils--have much finer textures with high percentages of clay
 
 DRAINAGE AND SATURATED HYDRAULIC CONDUCTIVITY:
 Drainage class--Subaqueous (permanently submersed)
-Saturated hydraulic conductivity--Moderately high
+Saturated hydraulic conductivity--Moderately low to high
 Soil moisture regime--Peraquic
 Soil is continuously inundated by saline and brackish water.
 
