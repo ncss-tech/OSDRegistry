@@ -1,61 +1,59 @@
 LOCATION RHODHISS               NC+VA
 
 Established Series
-DTK/MHC/JAK/DTA
-01/2019
+DTK/MHC/JAK/DTA; Rev. DTA
+04/2026
 
 RHODHISS SERIES
 
 MLRA(s): 136 (mesic part)
-Soil Survey Regional Office (SSRO) Responsible: Raleigh, North Carolina
+Soil Survey Regional Office (SSRO) Responsible: Southeast
 Depth Class: Very deep
-Drainage Class (Agricultural): Well drained
-Internal Free Water Occurrence: Very deep
-Flooding Frequency and Duration: None
-Ponding Frequency and Duration: None
+Agricultural Drainage Class: Well drained
 Index Surface Runoff: Low to high
-Permeability: Moderate
+Saturated Hydraulic Conductivity Class: Moderately high
 Shrink-Swell Potential: Low
 Landscape: Piedmont upland
-Landform: Hill, ridge
-Geomorphic Component: Interfluve, side slope, nose slope
-Hillslope Profile Position: Summit, shoulder, back slope
-Parent Material: Residuum from felsic crystalline rock
+Landform: Interstream divides, ridges, and side slopes Geomorphic Component: Parent Material: Residuum from felsic crystalline rock
 Slope: 2 to 95 percent
-Elevation (type location): Unknown feet
+Elevation (type location): 338 meters (1110 feet)
 Frost Free Period (type location): 176 days
-Mean Annual Air Temperature (type location): 56 degrees F.
-Mean Annual Precipitation (type location): 46 inches
+Mean Annual Air Temperature (type location): 13 degrees C (56 degrees F)
+Mean Annual Precipitation (type location): 1168 millimeters (46 inches)
 
 TAXONOMIC CLASS: Fine-loamy, mixed, semiactive, mesic Typic Hapludults
 
-TYPICAL PEDON: Rhodhiss sandy loam (in an area of Rhodhiss sandy loam, 25 to 45 percent slopes), on a 32 percent west-facing slope, in recently planted pines. (Colors are for moist soil, unless otherwise indicated.)
+TYPICAL PEDON: Rhodhiss sandy loam in an area of Rhodhiss sandy loam, 25 to 45 percent slopes, on a 32 percent west-facing slope, in recently planted pines. (Colors are for moist soil, unless otherwise indicated.)
 
-   A--0 to 3 inches; dark grayish brown (10YR 4/2) sandy loam, brown 10YR 5/3, dry; weak medium granular structure; very friable; many fine and common medium roots; few fine mica flakes; slightly acid; clear smooth boundary. (2 to 10 inches thick)
+  A--0 to 8 centimeters (0 to 3 inches); dark grayish brown (10YR 4/2) sandy loam, brown 10YR 5/3, dry; weak medium granular structure; very friable; many fine and common medium roots; few fine mica flakes; slightly acid; clear smooth boundary. (5 to 25 centimeters (2 to 10 inches) thick)
 
-   E--3 to 8 inches; dark yellowish brown (10YR 4/6) sandy loam; weak medium granular structure; very friable; few fine and medium roots; common fine mica flakes; slightly acid; gradual wavy boundary. (0 to 12 inches thick)
+  E--8 to 20 centimeters (3 to 8 inches); dark yellowish brown (10YR 4/6) sandy loam; weak medium granular structure; very friable; few fine and medium roots; common fine mica flakes; slightly acid; gradual wavy boundary. (0 to 30 centimeters (0 to 12 inches) thick)
 
-   Bt1--8 to 14 inches; strong brown (7.5YR 4/6) sandy clay loam; weak medium subangular blocky structure; friable; few fine roots; common fine mica flakes; moderately acid; gradual wavy boundary.
+  Bt1--20 to 36 centimeters (8 to 14 inches); strong brown (7.5YR 4/6) sandy clay loam; weak medium subangular blocky structure; friable; few fine roots; common fine mica flakes; moderately acid; gradual wavy boundary.
 
-   Bt2--14 to 25 inches; yellowish red (5YR 5/8) sandy clay loam; moderate medium subangular blocky structure; friable; few fine roots; common fine mica flakes; moderately acid; gradual wavy boundary. (Combined thickness of the Bt horizon is 10 to 40 inches.)
+  Bt2--36 to 63 centimeters (14 to 25 inches); yellowish red (5YR 5/8) sandy clay loam; moderate medium subangular blocky structure; friable; few fine roots; common fine mica flakes; moderately acid; gradual wavy boundary. (Combined thickness of the Bt horizon is 25 to 102 centimeters (10 to 40 inches)
 
-   BC--25 to 30 inches; strong brown (7.5YR 5/8) sandy clay loam; weak medium subangular blocky structure; friable; strongly acid; clear wavy boundary. (0 to 14 inches thick)
+  BC--63 to 76 centimeters (25 to 30 inches); strong brown (7.5YR 5/8) sandy clay loam; weak medium subangular blocky structure; friable; strongly acid; clear wavy boundary. (0 to 36 centimeters (0 to 14 inches) thick)
 
-   C--30 to 60 inches; variegated yellow, olive, gray, and brown sandy loam saprolite; massive; very friable; strongly acid;.
+  C--76 to 152 centimeters (30 to 60 inches); variegated yellow, olive, gray, and brown sandy loam saprolite; massive; very friable; strongly acid.
 
-TYPE LOCATION: Burke County, North Carolina; about 3.2 miles north of Morganton on North Carolina Highway 18 from the Catawba River bridge; about 0.1 mile northwest on Secondary Road 1430; about 1.6 miles northwest on Secondary Road 1462; about 1.1 miles southwest on Secondary Road 1435 to farm house at end of road; about 600 feet south on farm road from cabled gate, about 100 feet east on side slope, in forest; USGS Morganton North, NC topographic quadrangle; lat. 35 degrees 48 minutes 30 seconds N. and long. 81 degrees 41 minutes 46 seconds W.
+TYPE LOCATION: Burke County, North Carolina; about 3.2 miles north of Morganton on North Carolina Highway 18 from the Catawba River bridge; about 0.1 mile northwest on Secondary Road 1430; about 1.6 miles northwest on Secondary Road 1462; about 1.1 miles southwest on Secondary Road 1435 to farm house at end of road; about 600 feet south on farm road from cabled gate, about 100 feet east on side slope, in forest; USGS Morganton North, North Carolina topographic quadrangle.
+
+Latitude--35.8083
+Longitude-- -81.6961
+Datum--WGS84
 
 RANGE IN CHARACTERISTICS:
-Depth to top of Argillic horizon: 2 to 20 inches
-Depth to base of Argillic horizon: 20 to 60 inches or more
-Thickness of Argillic horizon: 10 to 40 inches
-Depth to Bedrock: Greater than 60 inches
-Depth to Seasonal High Water Table: Greater than 60 inches
-Rock Fragment Content: 0 to 35 percent, by volume in the A and E horizons and 0 to 20 percent in the B and C horizon; mostly gravel
+Depth to top of Argillic horizon: 5 to 51 centimeters (2 to 20 inches)
+Depth to base of Argillic horizon: 51 to 152 centimeters or more (20 to 60 inches or more) 
+Thickness of Argillic horizon: 25 to 102 centimeters (10 to 40 inches)
+Depth to Bedrock: Greater than 152 centimeters (60 inches)
+Depth to Seasonal High Water Table: Greater than 152 centimeters (60 inches)
+Rock Fragment Content: 0 to 35 percent, by volume in the A and E horizon; 0 to 20 percent in the B and C horizons; mostly gravel
+Mica content: 0 to 20 percent, by volume, throughout. Some pedons have C horizons, below a depth of 40 inches, that range to 35 percent mica flakes.
 Soil Reaction: Very strongly acid to slightly acid, unless limed
-Mica Content: 0 to 20 percent, by volume mica flakes, throughout. Some pedons have C horizons, below a depth of 40 inches, that range to 35 percent mica flakes.
 
-Range of Individual Horizons:
+RANGE OF INDIVIDUAL HORIZONS:
 A or Ap horizon:
 Color--hue of 5YR to 10YR, value of 4 to 6, chroma of 2 to 6
 Texture (fine-earth fraction)--coarse sandy loam, loamy coarse sand, loamy sand, sandy loam, fine sandy loam, or loam
@@ -89,74 +87,58 @@ Texture (fine-earth fraction)--coarse sandy loam, loamy sand, sandy loam, fine s
 Mottles (if they occur)--non-redoximorphic mottles in shades of in brown, red, yellow, or gray. The gray and white mottles are commonly highly weathered rock material.
 
 COMPETING SERIES:
-Allegheny soils--formed in old loamy alluvium from acid sandstone, siltstone, and shale in MLRAs 125, 126, 127, 128
-Chetwynd soils--formed in loamy outwash over sandy outwash capped with loess in MLRAs 114, 115
 Drapermill soils--are moderately deep to bedrock and formed in residuum from phyllite and schist
-Frankstown soils--formed in residuum from siliceous limestone and interbedded limy shale and siltstone in MLRAs 125, 126, 127
-Gilpin soils--formed in residuum from interbedded shale, siltstone, and some sandstone in MLRAs 125, 126, 127, 128
-Gilwood soils-- formed in residuum from siltstone in MLRA 120
 Glenelg soils--formed in residuum from micaceous schist and contain a significantly higher silt content
 Hickoryknob soil--are moderately deep and formed in residuum from mica schist and mica gneiss
-Reybold soils--formed in silty eolian deposits over sandy and loamy fluviomarine sediments in MLRAs 153C, 153D
 Tate soils--formed in alluvium and colluvium from felsic to mafic crystalline rocks in MLRA 130
 
 GEOGRAPHIC SETTING:
 Landscape: Piedmont upland
-Landform: Hill, ridge
-Geomorphic Component: Interfluve, side slope, nose slope
-Hillslope Profile Position: Summit, shoulder, back slope
+Landform: Interstream divides, ridges, and side slopes
 Parent Material: Residuum from felsic crystalline rock
 Slope: 2 to 95 percent
-Elevation: 400 to 1600 feet
-Mean Annual Air Temperature: 52 to 57 degrees
-Mean Annual Precipitation: 40 to 55 inches
-Frost Free Period: 160 to 190 days
+Elevation: 122 to 488 meters (400 to 1600 feet)
+Mean Annual Air Temperature: 11 to 14 degrees C (52 to 57 degrees F)
+Mean Annual Precipitation: 1016 to 1397 millimeters (40 to 55 inches)
+Frost Free Period: 160 to 205 days
 
 GEOGRAPHICALLY ASSOCIATED SOILS:
-Bannertown soils--have less clay in the argillic horizon; on similar landforms
-Clifford soils--have more clay in the argillic horizon; on similar landforms
-Fairview soils--have more clay in the argillic horizon; on similar landforms
-Huddleston soil--have higher mica content; on similar landforms 
-Perryville soils--have less clay in the argillic horizon, a higher mica content, and are moderately deep; on similar landforms
-Poplar Forest soils--have more clay in the argillic horizon and higher mica content; on similar landforms
-Toast soils--have more clay in the argillic horizon; on similar landforms
-Westfield soils--are deep to bedrock and have more clay in the argillic horizon; on similar landforms
-Woolwine soils--are moderately deep to bedrock and have more clay in the argillic horizon; on similar landforms
-Yanceyville soils--are very deep to bedrock and have less clay in the argillic horizon; on similar landforms
+Bannertown soils--are coarse-loamy and moderately deep to bedrock
+Clifford soils--are clayey and are red in color
+Fairview soils--are clayey and are red in color
+Huddleston soil--have higher mica content
+Nathalie soils--are clayey 
+Poplar Forest soils--are clayey and have a higher mica content
+Toast soils--are clayey 
+Westfield soils--are clayey deep to bedrock and have more clay in the argillic horizon; on similar landforms
+Woolwine soils--are clayey and moderately deep to bedrock
+Yanceyville soils--are coarse-loamy 
 
-DRAINAGE AND PERMEABILITY:
-Depth Class: Very deep (greater than 60 inches) to bedrock
-Drainage Class (Agricultural): Well drained
-Internal Free Water Occurrence: Very deep
-Flooding Frequency and Duration: None
-Ponding Frequency and Duration: None
-Index Surface Runoff: Low to high
-Permeability: Moderate
-Shrink-Swell Potential: Low
+DRAINAGE AND SATURATED HYDRAULIC CONDUCTIVITY: 
+Agricultural Drainage Class: Well drained
+Index Surface Runoff: Medium
+Saturated Hydraulic Conductivity: Moderately high
 
 USE AND VEGETATION:
-Major Uses: Woodland
+Major Uses: Woodland and cropland
 Dominant Vegetation: Where cultivated--small grain, hay, and pasture. Where wooded--pine and mixed hardwoods.
+
+SOIL SURVEY REGIONAL OFFICE (SSRO) RESPONSIBLE: Auburn, Alabama
 
 DISTRIBUTION AND EXTENT:
 Distribution: North Carolina and Virginia
 Extent: Moderate
 
-SOIL SURVEY REGIONAL OFFICE (SSRO) RESPONSIBLE: Raleigh, North Carolina
-
 SERIES ESTABLISHED: Burke County, North Carolina; 2003.
 
-REMARKS: The Rhodhiss series was previously mapped with the Rion series. The April 1997 relocation of the mesic/thermic line in North Carolina and Virginia necessitated the establishment of the Rhodhiss series as a mesic counterpart to the Rion series.
+REMARKS: The Rhodhiss series was previously mapped with the Rion series. The April 1997 relocation of the mesic/thermic line in North Carolina and Virginia necessitated the establishment of the Rhodhiss series as a mesic counterpart to the Rion series. The April 2026 revision changed the format.  No data was changed.
 
 Diagnostic horizons and soil characteristics recognized in this pedon are:
-Ochric epipedon--the zone from 0 to 8 inches (A and E horizons)
-Argillic horizon--the zone from 8 to 25 inches (Bt horizons)
-
-Other soil features identified with this pedon:
-Series control section--the zone from 0 to 60 inches
+Ochric epipedon--the zone from 0 to 20 centimeters (0 to 8 inches) (A and E horizons)
+Argillic horizon--the zone from 20 to 63 centimeters (8 to 25 inches) (Bt horizon)
 
 ADDITIONAL DATA:
-Laboratory Data: No laboratory data available. 
+Laboratory Data: No laboratory data available.
 Database Information:
 Typical Pedon Data Mapunit ID--84454
 
@@ -179,6 +161,6 @@ Depth   -pH-    -O.M.-   Salin  Permeab   Shnk-Swll
 3-8    4.5-6.5  0.0-0.5  0-0    0.6-2.0    LOW
 8-60   4.5-6.5  0.0-0.5  0-0    0.6-2.0    LOW
 
-
+________________________________________
 National Cooperative Soil Survey
 U.S.A.

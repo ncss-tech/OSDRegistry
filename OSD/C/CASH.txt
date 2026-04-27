@@ -1,0 +1,123 @@
+LOCATION CASH                   FL
+
+Tentative Series
+ARW
+04/2026
+
+CASH SERIES
+
+MLRA(s)--152A
+Depth class--Very deep
+Drainage class--Subaqueous
+Water depth range--0 to 2 meters (0 to 6 feet)
+Parent material--Fine-loamy estuarine deposits
+Geomorphic location--Mainland coves and coves
+Slope range--0 to 1 percent
+Mean annual air temperature--21 degrees C (70 degrees F)
+Mean annual water temperature--21 degrees C (70 degrees F)
+
+TAXONOMIC CLASS: Fine-loamy, mixed, active, nonacid, hyperthermic Grossic Hydrowassents
+
+TYPICAL PEDON: Cash clay loam on a mainland cove under 1.8 meters of brackish water (colors are for moist soil unless otherwise stated; electrical conductivity is 1:5 by volume solution mixture unless otherwise stated).
+
+ Ase--0 to 20 centimeters; black (2.5Y 2.5/1) clay loam; massive; nonsticky, nonplastic; very fluid; 3 percent shell fragments; slight sulfurous odor; no color change with 3 percent hydrogen peroxide; slight effervescence with 30 percent hydrogen peroxide; saline (3.2 dS/m); slightly alkaline (pH 7.8), very strongly acid (pH 4.9) oxidized pH; clear boundary; (10 to 35 centimeters thick)
+
+ Cseg1--20 to 41 centimeters; very dark grayish brown (2.5Y 3/2) sandy clay; massive; slightly sticky, nonplastic; very fluid; 5 percent shell fragments; no sulfurous odor; no color change with 3 percent hydrogen peroxide; slight effervescence with 30 percent hydrogen peroxide; saline (2.2 dS/m); moderately alkaline (pH 8.1), moderately acid (pH 5.9) oxidized pH; clear boundary
+
+ Cseg2--41 to 79 centimeters; very dark grayish brown (2.5Y 3/2) sandy clay loam; massive; moderately sticky, nonplastic; very fluid; slight sulfurous odor; no color change with 3 percent hydrogen peroxide; slight effervescence with 30 percent hydrogen peroxide; saline (2.0 dS/m); slightly alkaline (pH 7.6), extremely acid (pH 4.1) oxidized pH; clear boundary
+
+ Cseg3--79 to 131 centimeters; very dark gray (2.5Y 3/1) fine sandy loam; massive; moderately sticky, nonplastic; moderately fluid; moderate sulfurous odor; no color change with 3 percent hydrogen peroxide; slight effervescence with 30 percent hydrogen peroxide; saline (2.0 dS/m); slightly alkaline (pH 7.7), extremely acid (pH 4.2) oxidized pH; gradual boundary
+
+ Cseg4--131 to 200 centimeters; very dark gray (2.5Y 3/1) sandy clay loam; massive; very sticky, nonplastic; slightly fluid; moderate sulfurous odor; no color change with 3 percent hydrogen peroxide; slight effervescence with 30 percent hydrogen peroxide; saline (2.1 dS/m); slightly alkaline (pH 7.6), extremely acid (pH 4.2) oxidized pH
+
+TYPE LOCATION: Franklin County, Florida; East Bay; approximately 2.7 kilometers (1.7 miles) south of the intersection of Florida Highway 65 and North Road, approximately 3.3 kilometers (2.0 miles) east of the mouth of Whiskey George Creek, and 0.8 kilometers (0.5 miles) north by northeast of Rabbit Point; USGS topographic quadrangle: Green Point, FL.
+
+Latitude--29.804299
+Longitude-- -84.861469
+Datum--WGS84
+Coordinate source--From hand-held GPS
+
+RANGE IN CHARACTERISTICS:
+Depth to bedrock--Greater than 200 centimeters
+Fluidity class--Slightly fluid to very fluid in all horizons between 20 and 100 centimeters
+Sulfurous odor--None to strong throughout
+Soil reaction--Neutral to slightly alkaline throughout profile (pH 6.6 to 7.8)
+Oxidized reaction--Extremely acid to moderately acid throughout profile (pH 3.5 to 6.0)
+Electrical conductivity (1:5 soil to water solution)--1.5 to 4.0 dS/m  throughout profile
+Particle-size control section (weighted average):
+Shell fragments--0 to 5 percent, by volume
+Wood fragments--0 to 5 percent, by volume
+Sand--40 to 70 percent
+Clay--18 to 35 percent
+Total soil organic carbon stock 0 to 100 centimeters--10 to 20 kg m-2
+Total soil organic carbon stock 0 to 200 centimeters--25 to 30 kg m-2
+
+Ase or Aseg horizons:
+Hue--2.5Y or N
+Value--2.5 or 3
+Chroma--none or 1
+Texture--Clay loam, sandy clay loam, loam and their mucky analogs
+Organic carbon density--15 to 25 kg m-3
+
+Cseg horizons:
+Hue--10YR to 10Y
+Value--3 or 4
+Chroma--1 or 2
+Texture--Sandy clay, clay loam, sandy clay loam, loam, or fine sandy loam 
+Organic carbon density--10 to 20 kg m-3
+
+COMPETING SERIES:
+These are the Apalachicola and Slough series.
+Apalachicola soils--formed on lagoon and bay bottoms, have 5Y and 10Y hues in the A horizon, and have up to 35 percent shell fragments in the particle-size control section.
+Slough soils--formed on estuarine tidal streams and have 1:5 electrical conductivity between 0.6 and 3.0 dS/m.
+
+GEOGRAPHIC SETTING:
+Landscape--Bays and Lagoons
+Landform--Brackish mainland coves
+Parent material--Fine-loamy estuarine deposits
+Slope--0 to 1 percent
+Water depth range--0 to 2 meters (0 to 6 feet) below mean sea level
+Water salinity range--5 to 15 parts per thousand
+Soil temperature--16 to 31 degrees C (61 to 88 degrees F)
+Water temperature--18 to 28 degrees C (64 to 82 degrees F)
+
+GEOGRAPHICALLY ASSOCIATED SOILS:
+These are the Eastpoint, Sandbank, and Sandfly soils.
+Eastpoint soils--formed on submerged wave-cut platforms from sandy lagoonal materials.
+Sandbank soils--formed on estuarine tidal stream deltas in sandy estuarine materials.
+Sandfly soils--formed in estuarine tidal streams from coarse-loamy lagoonal deposits have buried dark-colored A horizons with a combined thickness of 20 centimeters or more that have 1.0 percent or more Holocene-age organic carbon.
+
+DRAINAGE AND SATURATED HYDRAULIC CONDUCTIVITY:
+Drainage class--Subaqueous
+Saturated hydraulic conductivity--Moderately high to high
+Soil moisture regime--Peraquic
+Soil is continuously inundated by brackish or salt water
+
+USE AND VEGETATION:
+Major uses--The area is used for recreational fishing, boating, and waterfowl hunting. Cash soils are of regional importance for waterfowl migration.
+Typical vegetation--Subaquatic vegetation is typically present in shallow, less turbid areas where sunlight can penetrate the water column. Common vegetation is tape grass (Vallisneria americana), widgeon grass (Ruppia maritima), and sago pondweed (Stuckenia pectinata).    
+
+DISTRIBUTION AND EXTENT:
+General area--Brackish and salt water mainland coves and coves along the Gulf.
+Land Resource Regions--T - Atlantic and Gulf Coast Lowland Forest and Crop Region
+MLRA(s)--152A
+Extent--Small  
+
+SOIL SURVEY REGIONAL OFFICE (SSRO) RESPONSIBLE: Special Projects Office
+
+SERIES ESTABLISHED: Franklin County, Florida, 2026
+
+REMARKS:
+Typical Pedon Taxonomic Features:
+Ochric epipedon--The zone from 0 to 18 centimeters.
+Reduced matrix--The zone from 0 to 200 centimeters has a soil color matrix with a chroma of 2 or less.
+Hyposulfidic materials--The zone from 0 to 200 centimeters has an initial pH that decreases by 1 or more units but remains at a value of 4.0 or more after 16 weeks of moist aerobic incubation.
+Fluidity--The zone from 0 to 200 has a fluidity class of slightly fluid to very fluid.
+Peraquic feature--Zero or positive soil water potential at the soil surface (permanently submerged).
+Taxonomic Version: Keys to Soil Taxonomy, Thirteenth Edition, 2022
+Other: The series is named after Cash Bayou, where the soil was first observed. Cash soils were previously mapped as water in Florida soil surveys.
+
+NASIS User Site and Pedon ID: S2024FL037002
+____________________________________________________________________________
+National Cooperative Soil Survey
+U.S.A.
