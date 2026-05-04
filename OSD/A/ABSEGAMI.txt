@@ -1,0 +1,136 @@
+LOCATION ABSEGAMI               NJ
+
+Tentative Series
+DCS/EIB
+04/2026
+
+ABSEGAMI SERIES
+
+MLRA(s)--153D
+Depth Class--Very deep
+Drainage Class--Subaqueous (permanently submerged)
+Water Depth Range--0 to 1 meters
+Parent Material--Coarse-loamy lagoonal deposits
+Slope--0 to 1 percent
+Mean Annual Air Temperature--13 degrees C (55 degrees F)
+Mean Annual Precipitation--1118 millimeters (44 inches)
+
+TAXONOMIC CLASS: Coarse-loamy, mixed, subactive, nonacid, mesic Haplic Sulfiwassents
+
+TYPICAL PEDON: Absegami loamy sand on an intertidal shoal under 0.7 meters of strongly saline water(colors are for moist soil unless otherwise stated; electrical conductivity is 1:5 by volume solution mixture unless otherwise stated).
+
+ Aseg--0 to 36 centimeters; greenish black (10Y 2.5/1) loamy sand; single grain; nonsticky, nonplastic; nonfluid; 8 percent shell fragments; moderate sulfurous odor; color reaction with  3 percent hydrogen peroxide; slight effervescence with 30 percent hydrogen peroxide; electrical conductivity 2.6 dS/m; slightly alkaline (pH 7.7), slightly alkaline (pH 7.5) oxidized pH; clear boundary. (17 to 36 centimeters thick)
+
+ Cseg1--36 to 56 centimeters; very dark gray (5Y 3/1) fine sandy loam; massive; slightly sticky, slightly plastic; nonfluid; 2 percent shell fragments; moderate sulfurous odor; no color reaction with 3 percent hydrogen peroxide; moderate effervescence with 30 percent hydrogen peroxide; electrical conductivity 3.5 dS/m; slightly alkaline (pH 7.6), extremely acid (pH 3.9) oxidized pH; clear boundary.
+
+ Cseg2--56 to 71 centimeters; olive gray (5Y 4/2) silt loam; massive; slightly sticky, slightly plastic; moderately fluid; 2 percent shell fragments; moderate sulfurous odor; no color reaction with 3 percent hydrogen peroxide; slight effervescence with 30 percent hydrogen peroxide; electrical conductivity 2.6 dS/m; moderately alkaline (pH 8.0), extremely acid (pH 3.7) oxidized pH; abrupt boundary. (Combined thickness of the Cseg horizons is 20 to 132 centimeters)
+
+ ACsegb--71 to 135 centimeters; very dark gray (5Y 3/1) stratified loamy fine sand to silty clay loam; massive; moderately sticky, slightly plastic; very fluid; moderate sulfurous odor; no color reaction with 3 percent hydrogen peroxide; moderate effervescence with 30 percent hydrogen peroxide; electrical conductivity 3.3 dS/m; neutral (pH 7.2), ultra acid (pH 3.1) oxidized pH; gradual boundary. (37 to 66 centimeters thick)
+
+ C'seg--135 to 190 centimeters; very dark gray (5Y 3/1) stratified loamy sand to silty clay loam; structureless, massive; moderately sticky, slightly plastic; very fluid; moderate sulfurous odor; no color reaction with 3 percent hydrogen peroxide; slight effervescence with 30 percent hydrogen peroxide; electrical conductivity 2.6 dS/m; slightly alkaline (pH 7.6), extremely acid (pH 3.8) oxidized pH
+
+TYPE LOCATION: Atlantic County, New Jersey; located in Grassy Bay, approximately 0.63 kilometers (2,082 feet) southwest of Black Point, approximately 0.82 kilometers (2,700 feet) northeast of the most northeastern corner of Oyster Thorofare, and approximately 1.48 kilometers (4,840 feet) east-northeast of where Meadow Cut and Reeds Bay meet; USGS topographic quadrangle: Oceanville.
+
+Latitude--39.4382111
+Longitude-- -74.3972194
+Datum--WGS84
+Coordinate source--from hand-held GPS
+
+RANGE IN CHARACTERISTICS:
+Depth to Bedrock--Greater than 200 centimeters
+Maner of failure/fluidity class--nonfluid in horizons between 20 and 50 centimeters, nonfluid to very fluid outside of that depth range. 
+Depth to buried surface horizon--38 to 150 centimeters
+Sulfurous odor--Slight to strong throughout
+Soil reaction--Slightly to moderately alkaline throughout the profile (pH 7.4 to 8.4)
+Oxidized Reaction--Ultra acid to slightly alkaline (pH 3.1 to 7.8)
+Depth to hypersulfidic materials / sulfidic material--0 to 50 centimeters
+Electrical conductivity (1:5 soil to water solution)--2.6 to 3.3 dS m-1 throughout profile Shell Fragments--0 to 10 percent by volume, throughout 
+
+Aseg horizon
+Hue--10Y or neutral
+Value--2.5 to 3
+Chroma--0 to 1
+Texture--sandy loam, fine sandy loam, loamy sand, or loam
+
+Cseg horizon
+Hue--10Y to 5GY
+Value--3 to 4
+Chroma--1 to 2
+Texture--silt loam, sandy loam, or fine sandy loam, and stratified combination of listed textures 
+
+ACsegb or ACgb horizon
+Hue-10Y to 5GY
+Value-2 to 3
+Chroma--1
+Texture--silt loam, sandy loam, or loamy fine sand, and stratified combination of listed textures 
+
+Oase horizon (where present)
+Hue--5Y to 2.5Y
+Value--3 to 4
+Chroma--2
+Texture--muck
+von Post--H8
+Some pedons contain thin lenses of organic soil material less than 20 centimeters thick
+
+C'seg horizon (where present)
+Hue--10Y to 5GY
+Value--3 to 4
+Chroma--1 to 3
+Texture--silt loam, silty clay loam, sandy loam, loamy sand, and stratified combination of textures listed 
+
+COMPETING SERIES:
+These are the Cottman and Pasture Point soils.
+Cottman soils-- formed in coarse-loamy lagoonal deposits underlain by fine-silty estuarine deposits and formed on lagoon bottom barrier side landforms
+Pasture Point soils--formed in sandy Holocene deposits underlain by loamy pre-Holocene fluviomarine deposits and formed on submerged wave-cut platforms
+
+GEOGRAPHIC SETTING:
+Landscape--Bays and sounds of the Northern Tidewater Area
+Landform--Shoals (intertidal conditions occasionally)
+Parent Material--Coarse-loamy lagoonal deposits 
+Slope--0 to 1 percent
+Water depth range--0 to 1 meters (0 to 6 feet) below mean sea level, many areas experience intertidal conditions
+Water salinity--27 to 33 parts per thousand
+Water temperature range--0 to 29 degrees C (32 to 84 degrees F)
+Mean Annual Air Temperature--10 to 15 degrees C (50 to 59 degrees F)
+Mean Annual Precipitation--1051 to 1240 millimeters (41 to 49 inches)
+
+GEOGRAPHICALLY ASSOCIATED SOILS:
+These are the Leedspoint, Indian River, Tingles soils.
+Leedspoint soils--formed in coarse-loamy lagoonal deposits underlain by sandy relict flood-tidal delta lagoonal deposits
+Indian River soils--have much coarser textures throughout and formed on active sandy flood -tidal delta lagoonal deposits
+Tingles soils--have much finer textures throughout and formed in fine-silty estuarine deposits on lagoon bottoms
+
+DRAINAGE AND SATURADED HYDRAULIC CONDUCTIVITY:
+Drainage Class--Subaqueous
+Saturated Hydraulic Conductivity--Moderately high to high throughout
+Soil moisture regime--Peraquic
+Soil is continuously inundated with salt or brackish water.
+
+USE AND VEGETATION:
+Major uses--Areas of these soils are used for recreational fishing, hunting, and boating and commercial clamming. These soils also serve as aquatic wildlife habitat for tubeworms, clams, juvenile blue crabs, bay scallops and juvenile finfish. 
+Typical vegetation--typically void of natural vegetation due to many areas being intertidal, but in limited locations rooted algae, eelgrass (Zostera marina), and widgeon grass (Ruppia maritima) can occur. 
+
+DISTRIBUTION AND EXTENT: 
+General area--Coastal bays and sounds of the southern New Jersey coastal plain, adjacent to the Intracoastal Waterway (ICW) and other main navigation and natural channels.  
+Land Resource Regions--T - Atlantic and Gulf Coast Lowland Forest and Crop Region
+MLRA(s)--153D
+Extent--Small extent
+
+SOIL SURVEY REGIONAL OFFICE (SSRO) RESPONSIBLE: Special Projects Region
+
+SERIES ESTABLISHED: Atlantic County, New Jersey, 2026
+
+REMARKS: These soils were previously included and mapped as miscellaneous areas of Water, saline. Absegami originates from the Lenni Lenape "Original People", meaning "little water".  The name has transformed over time into the present-day Absecon. 
+
+Diagnostic horizons and other diagnostic soil characteristics recognized in this pedon are (Keys to Soil Taxonomy, Thirteenth Edition, 2022):
+Ochric epipedon--the zone from 0 to 36 centimeters (Aseg horizon)
+Hypersulfidic materials--The zone from 36 to 190 centimeters (Cseg1, Cseg2, ACseg, C'seg)
+Fluidity--The zone from 56 to 190 centimeters has a fluidity class of moderately fluid to very fluid.
+Peraquic feature--Zero or positive soil water potential at the soil surface (permanently submerged).
+
+ADDITIONAL DATA:
+
+NASIS User Pedon ID: 2025NJ001007
+________________________________________
+National Cooperative Soil Survey
+U.S.A.
