@@ -1,74 +1,74 @@
-LOCATION TUSSAHAW               GA+AL
+LOCATION TUSSAHAW               GA+NC
 
 Established Series
 JRL-RHB
-04/2004
+05/2026
 
 TUSSAHAW SERIES
 
-MLRA(s): 136
-MLRA SOIL SURVEY REGIONAL OFFICE (MO) RESPONSIBLE: Raleigh, North Carolina
+MLRA(s): 136 (thermic part)
+Soil Survey Regional Office (SSRO) Responsible: Southeast
 Depth Class: Moderately deep
-Drainage Class (Agricultural): Well drained
-Internal Free Water Occurrence: Very deep; Absent
+Agricultural Drainage Class: Well drained
 Index Surface Runoff: Low to high
-Permeability: Moderate
-Landscape: Piedmont or Foothill
-Landform: Hill
-Hillslope Profile Position: Summit, shoulder, and backslope
-Geomorphic Component: Interfluve, sideslope, and nose slope
-Parent Material: Creep deposits over high-grade metamorphic rock residuum.
+Saturated Hydraulic Conductivity Class: Moderately high 
+Landscape: Piedmont uplands 
+Landform: Interstream divides, ridges, and side slopes
+Parent Material: Creep deposits over high-grade metamorphic rock residuum
 Slope: 6 to 60 percent
-Elevation: 900 to 2,000 feet
-Mean Annual Air Temperature (type location): 61 degrees F.
-Mean Annual Precipitation (type location): 51 inches
+Elevation: 274 to 610 meters (900 to 2,000 feet)
+Mean Annual Air Temperature (type location): 16 degrees C (61 degrees F)
+Mean Annual Precipitation (type location): 1295 millimeters (51 inches)
 
 TAXONOMIC CLASS: Loamy-skeletal, mixed, subactive, thermic Typic Hapludults
 
 TYPICAL PEDON: Tussahaw channery sandy loam on a northeast facing, 20 percent slope in mixed hardwood forest. (Colors are for moist soil unless otherwise indicated.)
 
- A--0 to 3 inches; dark brown (10YR 3/3) channery sandy loam; weak fine granular structure; very friable; many fine and few medium roots; 18 percent fragments of sillimanite schist channers; very strongly acid; clear smooth boundary.
+  A--0 to 8 centimeters (0 to 3 inches); dark brown (10YR 3/3) channery sandy loam; weak fine granular structure; very friable; many fine and few medium roots; 18 percent fragments of sillimanite schist channers; very strongly acid; clear smooth boundary.
 
- Bt1--3 to 9 inches; brown (7.5YR 4/4) very channery sandy clay loam; weak fine subangular blocky structure; friable; few fine roots; few fine flakes of mica; 35 percent fragments of sillimanite schist channers; strongly acid; gradual wavy boundary.
+  Bt1--8 to 23 centimeters (3 to 9 inches); brown (7.5YR 4/4) very channery sandy clay loam; weak fine subangular blocky structure; friable; few fine roots; few fine flakes of mica; 35 percent fragments of sillimanite schist channers; strongly acid; gradual wavy boundary.
 
- Bt2--9 to 20 inches; strong brown (7.5YR 4/6) very channery sandy clay loam; weak fine subangular blocky structure; friable; few fine roots; few fine flakes of mica; 50 percent fragments of sillimanite schist channers; strongly acid; gradual wavy boundary.
+  Bt2--23 to 51 centimeters (9 to 20 inches); strong brown (7.5YR 4/6) very channery sandy clay loam; weak fine subangular blocky structure; friable; few fine roots; few fine flakes of mica; 50 percent fragments of sillimanite schist channers; strongly acid; gradual wavy boundary.
 
- C--20 to 27 inches; yellowish red (5YR 4/6) very channery sandy clay loam; massive; friable; few fine flakes of mica; 60 percent fragments of sillimanite schist channers; strongly acid; clear wavy boundary.
+  C--51 to 69 centimeters (20 to 27 inches); yellowish red (5YR 4/6) very channery sandy clay loam; massive; friable; few fine flakes of mica; 60 percent fragments of sillimanite schist channers; strongly acid; clear wavy boundary.
 
- Cr--27 to 41 inches; weathered sillimanite schist, multicolored in shades of red and brown.
+  Cr--69 to 104 centimeters (27 to 41 inches); weathered sillimanite schist, multicolored in shades of red and brown.
 
- R--41 inches; hard, fractured sillimanite schist
+  R--104 centimeters (41 inches); hard, fractured sillimanite schist
 
-TYPE LOCATION: Butts County, Georgia; 800 feet west of bridge at Georgia highway 16 and Ocmulgee River to Stark Road; 1600 feet to water plant; 1600 feet northeast along water plant access road to road cut. (USGS Lloyd Shoals Dam topographic quadrangle (1964), Latitude 33 degrees 18 minutes 44 seconds N., Longitude 83 degrees 50 minutes 20 seconds W.)
+TYPE LOCATION: Butts County, Georgia; 800 feet west of bridge at Georgia highway 16 and Ocmulgee River to Stark Road; 1600 feet to water plant; 1600 feet northeast along water plant access road to road cut. (USGS Lloyd Shoals Dam, Georgia topographic quadrangle. 
+
+Latitude--33.3122
+Longitude-- -83.8389
+Datum--WGS84
 
 RANGE IN CHARACTERISTICS:
-Depth to the Base of the Argillic: 20 to 40 inches
-Depth to Bedrock: 20 to 40 to soft bedrock and greater than 40 to hard bedrock
-Depth to Seasonal High Water Table: Greater than 72 inches
-Content and size of rock fragments: 15 to 70 percent, by volume, in the A and 35 to 70 percent in the B and C horizons; mostly gravel, channers, cobbles, and stones from sillimanite schist, mica schist, or quartz mica gneiss
+Depth to the Base of the Argillic: 51 to 102 centimeters (20 to 40 inches)
+Depth to Bedrock: 51 to 102 centimeters (20 to 40 inches) to soft bedrock and greater than 102 centimeters (40 inches) to hard bedrock
+Depth to Seasonal High Water Table: Greater than 183 centimeters (72 inches)
+Rock Fragment Content: 15 to 70 percent, by volume, in the A and 35 to 70 percent in the B and C horizons; mostly gravel, channers, cobbles, and stones from sillimanite schist, mica schist, or quartz mica gneiss
 Soil Reaction: Very strongly to strongly acid, except where limed
 Other Features: Most pedons have few to common flakes of mica
 
 RANGE OF INDIVIDUAL HORIZONS:
-
 A horizon:
-Color--hue of 5YR to 10YR, value of 3 to 5, and chroma of 2 to 6. A horizons with moist value of 3 or less are less than 7 inches thick.
+Color--hue of 5YR to 10YR, value of 3 to 5, chroma of 2 to 6. A horizons with moist value of 3 or less are less than 7 inches thick.
 Texture (fine-earth fraction)--sandy loam
 
 E horizon (if it occurs):
-Color--hue of 7.5YR or 10YR, value of 4 to 6, and chroma of 4 to 6
+Color--hue of 7.5YR or 10YR, value of 4 to 6, chroma of 4 to 6
 Texture (fine-earth fraction)--sandy loam
 
 BA horizon or BE horizon (if it occurs):
-Color--hue of 5YR to 10YR, value of 4 to 6, and chroma of 4 to 6
+Color--hue of 5YR to 10YR, value of 4 to 6, chroma of 4 to 6
 Texture (fine-earth fraction)--sandy loam or loam
 
 Bt horizon:
-Color--hue of 5YR to 10YR, value of 4 to 6, and chroma of 4 to 8
+Color--hue of 5YR to 10YR, value of 4 to 6, chroma of 4 to 8
 Texture (fine-earth fraction)--sandy clay loam, clay loam, or loam
 
 C horizon (if it occurs):
-Color--hue of 5YR to 10YR, value of 4 to 6, and chroma of 4 to 8
+Color--hue of 5YR to 10YR, value of 4 to 6, chroma of 4 to 8
 Texture (fine-earth fraction)--sandy clay loam, clay loam, or loam
 
 Cr horizon:
@@ -77,23 +77,21 @@ Type of bedrock--multicolored, weathered sillimanite schist with occasional inte
 R horizon:
 Type of bedrock--unweathered fractured sillimanite schist, mica schist, or quartz mica gneiss
 
-COMPETING SERIES: Cliffside and Lockhart soils are in a similar family. Cliffside soils have a lithic contact above 40 inches. Lockhart soils formed in material mostly weathered from porphyritic granite, have sola 40 to 60 inches thick and are very deep to a lithic contact.
+COMPETING SERIES: 
+Cliffside soils--have hard bedrock at a depth 51 to 102 centimeters (20 to 40 inches)
+Lockhart soils--formed in material mostly weathered from porphyritic granite, have sola 102 to 152 centimeters (40 to 60 inches) thick and are very deep to bedrock.
 
 GEOGRAPHIC SETTING:
-Landscape: Piedmont or Foothill
-Landform: Hill
-Geomorphic Component: Interfluve, sideslope, and nose slope
-Hillslope Profile Position: Summit, shoulder, and backslope
-Elevation: 900 to 2,000 feet
-Parent Material: High-grade metamorphic rock residuum
-Mean Annual Air Temperature: 61 degrees
-Mean Annual Precipitation: 48 to 55 inches
-Frost Free Period: 199-244 days 
+Landscape: Piedmont uplands
+Landform: Interstream divides, ridges, and side slopes
+Parent Material: Creep deposits over high-grade metamorphic rock residuum.
 
 GEOGRAPHICALLY ASSOCIATED SOILS:
-Bethlehem soils have a fine particle-size control section with kaolinitic clay mineralogy and are on similar landforms
-Pacolet soils have a fine particle-size control section with kaolinitic clay mineralogy, lack a Cr or R and are on similar landforms
-Towaliga soils have a fine particle-size control section with kaolinitic clay mineralogy and have a lithologic discontinuity and are on similar landforms
+Bethlehem soils--are clayey; on similar landforms
+Meansville soils--are loamy-skeletal and shallow to soft bedrock  
+Pacolet soils--are clayey and lack a Cr or R horizon; on similar landforms
+Thomaston soils--are fine-loamy and have soft bedrock at a depth of 51 to 102 centimeters (40 to 60 inches)  
+Towaliga soils--are clayey and have a lithologic discontinuity; on similar landforms
 
 DRAINAGE AND PERMEABILITY:
 Drainage class (Agricultural): Well drained
@@ -103,50 +101,49 @@ Permeability: Moderate
 
 USE AND VEGETATION:
 Major Uses: Woodland and pasture
-Dominant Vegetation: Hickory, dogwood, red oak, white oak and pine.
+Dominant Vegetation: Where wooded--Hickory, dogwood, red oak, white oak and pine.
+
+SOIL SURVEY REGIONAL OFFICE (SSRO) RESPONSIBLE: Auburn, Alabama
 
 DISTRIBUTION AND EXTENT:
-Distribution: Piedmont of Georgia and possibly Alabama
+Distribution: Georgia and North Carolina and possibly Alabama
 Extent: Small
-
-MLRA SOIL SURVEY REGIONAL OFFICE (MO) RESPONSIBLE: Raleigh, North Carolina
 
 SERIES ESTABLISHED: Butts County, Georgia 2002
 
-REMARKS: This soil was formerly included in the Hibriten series. 
+REMARKS: This soil was formerly included in the Hibriten series. The May 2026 revision changed the format. No data was changed.
 
-Diagnostic horizons and features recognized in this pedon are:
-Ochric epipedon--The zone from 0 to 3 inches (the A horizon)
-Argillic horizon--The zone from 3 to 20 inches (the Bt horizon)
-Paralithic contact--The contact with weathered bedrock at 27 inches
+Diagnostic horizons and soil characteristics recognized in this pedon:
+Ochric epipedon--The zone from 0 to 8 centimeters (0 to 3 inches) (A horizon)
+Argillic horizon--The zone from 8 to 51 centimeters (3 to 20 inches) (Bt horizon)
+Paralithic contact--The contact with weathered bedrock at 69 centimeters (27 inches)
 
-ADDITIONAL DATA: 
-
+ADDITIONAL DATA:
 Data Map Unit ID: To be developed
 
 TABULAR SERIES DATA:
-
 Soil Name  Slope  Airtemp  FrFr/Seas     Precip     Elevation
-TUSSAHAW   6- 60   59-62   199-244       48- 55     600-1200
+TUSSAHAW   6-60   59-62    199-244       48-55      600-1200
 
 FloodL FloodH Watertable Kind   Months  Bedrock Hardness
-NONE           6.0-6.0            -      20-40    SOFT 
+NONE           >6.0               -      20-40    SOFT 
 
-Depth  Texture          	 3-Inch  No-10   Clay%    -CEC-
-0-3  CBV-SL STV-SL		10- 60  35- 90   7-20     2- 6
-0-3  GR-SL             	 	 0- 20  30- 55   7-20     2- 6
-0-3  CB-SL CH-SL			15- 30  65- 80   7-20     2- 6
-3-27 CBV-CL CBV-SCL VCH-SCL 	20- 70  35- 90  10-35     2- 8
-27-41  WB                       -       -       -        -   
-41-41  UWB                      -       -       -        -   
+Depth   Texture          	 3-Inch   No-10   Clay%    -CEC-
+ 0-3    CBV-SL STV-SL		  10-60   35-90   7-20      2-6
+ 0-3    GR-SL             	   0-20   30-55   7-20      2-6
+ 0-3    CB-SL CH-SL		  15-30   65-80   7-20      2-6
+ 3-27   CBV-CL CBV-SCL VCH-SCL   20-70   35-90  10-35      2-8
+27-41   WB                         -       -      -         -   
+41-41   UWB                        -       -      -         -   
 
 Depth    -pH-     O.M.  Salin  Permeab   Shnk-Swll
-0-3  	4.5- 5.5  .5-2.  0- 0   2.0- 6.0     LOW      
-0-3  	4.5- 5.5  .5-2.  0- 0   2.0- 6.0     LOW      
-0-3  	4.5- 5.5  .5-2.  0- 0   2.0- 6.0     LOW      
-3-27 	4.5- 5.5  0.-.5  0- 0   0.6- 2.0     LOW      
-27-41     -        -     -        -               
-41-41     -        -     -        -               
+ 0-3  	4.5-5.5  .5-2.   0-0   2.0-6.0     LOW      
+ 0-3  	4.5-5.5  .5-2.   0-0   2.0-6.0     LOW      
+ 0-3  	4.5-5.5  .5-2.   0-0   2.0-6.0     LOW      
+ 3-27 	4.5-5.5  0.-.5   0-0   0.6-2.0     LOW      
+27-41      -       -      -       -               
+41-41      -       -      -       -               
 
+________________________________________
 National Cooperative Soil Survey
 U.S.A.
