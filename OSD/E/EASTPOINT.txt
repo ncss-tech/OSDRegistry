@@ -1,0 +1,128 @@
+LOCATION EASTPOINT              FL
+
+Tentative Series
+ARW
+05/2026
+
+EASTPOINT SERIES
+
+MLRA(s)--152A
+Depth class--Very deep
+Drainage class--Subaqueous
+Water depth range--0 to 3 meters (0 to 10 feet)
+Parent material--Sandy lagoonal deposits
+Geomorphic location--Submerged wave-cut platforms and submerged wave-built terraces
+Slope range--0 to 1 percent
+Mean annual air temperature--21 degrees C (70 degrees F)
+Mean annual water temperature--24 degrees C (75 degrees F)
+
+TAXONOMIC CLASS: Siliceous, hyperthermic Fluventic Psammowassents
+
+TYPICAL PEDON: Eastpoint shelly fine sand on a submerged wave-cut platform under 0.7 meters of brackish water. (colors are for moist soil unless otherwise stated; electrical conductivity is 1:5 by volume solution mixture unless otherwise stated).
+
+ Cseg1--0 to 26 centimeters; 60 percent gray (2.5Y 5/1), 25 percent very dark grayish brown (2.5Y 3/2), and 15 percent black (10YR 2/1) shelly fine sand; single grain; nonsticky, nonplastic; slightly fluid; 20 percent shell fragments; no sulfurous odor; no color change with 3 percent hydrogen peroxide; slight effervescence with 30 percent hydrogen peroxide; saline (1.8 dS/m); moderately alkaline (pH 8.2), slightly alkaline (pH 7.5) oxidized pH; clear boundary
+
+ Cseg2--26 to 74 centimeters; 75 percent dark grayish brown (2.5Y 4/2) and 25 percent very dark grayish brown (2.5Y 3/2) loamy sand; single grain; nonsticky, nonplastic; nonfluid; 3 percent shell fragments; no sulfurous odor; no color change with 3 percent hydrogen peroxide; slight effervescence with 30 percent hydrogen peroxide; saline (1.6 dS/m); strongly alkaline (pH 8.5), extremely acid (pH 4.3) oxidized pH; clear boundary
+
+ Cseg3--74 to 134 centimeters; 60 percent very dark grayish brown (2.5Y 3/2), 30 percent dark gray (10YR 4/1), and 10 percent light brownish gray (10YR 6/2) fine sand; single grain; nonsticky, nonplastic; nonfluid; 5 percent shell fragments; no sulfurous odor; no color change with 3 percent hydrogen peroxide; slight effervescence with 30 percent hydrogen peroxide; saline (1.5 dS/m); moderately alkaline (pH 8.3), extremely acid (pH 4.1) oxidized pH; clear boundary
+
+ Cseg4--134 to 200 centimeters; 75 percent very dark gray (10YR 3/1) and 25 percent grayish brown (10YR 5/2) loamy fine sand; single grain; nonsticky, nonplastic; nonfluid; 2 percent shell fragments; no sulfurous odor; no color change with 3 percent hydrogen peroxide; slight effervescence with 30 percent hydrogen peroxide; saline (2.0 dS/m); moderately alkaline (pH 8.0), extremely acid (pH 3.6) oxidized pH
+
+TYPE LOCATION: Franklin County, Florida; East Bay; approximately 2.6 kilometers (1.6 miles) east of Bay Tower Pier, approximately 3.8 kilometers (2.4 miles) north of the intersection of Pond Away Court and Ridgecrest Parkway, and approximately 1.2 kilometers (0.8) miles west by southwest of Campbell Point; USGS topographic quadrangle: Beverly, FL 
+
+Latitude--29.785206
+Longitude-- -84.883653
+Datum--WGS84
+Coordinate source--from hand-held GPS
+
+RANGE IN CHARACTERISTICS:
+Depth to bedrock--Greater than 200 centimeters
+Manner of failure--Nonfluid to moderately fluid throughout
+Sulfurous odor--None to moderate throughout
+Soil reaction--Neutral to strongly alkaline throughout profile (pH 6.6 to 9.0)
+Oxidized reaction--Ultra acid to moderately alkaline throughout profile (pH 3.3 to 8.4)
+Electrical conductivity (1:5 soil to water solution)--1.5 to 4.0 dS m-1 throughout profile
+Particle-size control section (weighted average):
+Shell fragments--0 to 30 percent
+Wood fragments--0 to 5 percent
+Sand--80 to 95 percent
+Clay--3 to 11 percent 
+Total soil organic carbon stock 0 to 100 centimeters--2 to 5 kg m-2
+Total soil organic carbon stock 0 to 200 centimeters--4 to 10 kg m-2
+
+Aseg horizon (where present):
+Hue--10YR to 5Y or N
+Value--2 to 4
+Chroma--0 to 2
+Texture--Sand, fine sand, loamy sand, or loamy fine sand
+Organic carbon density--3 to 5 kg m-3
+
+Cseg horizons: 
+Hue--10YR to 10Y or N
+Value--2 to 6
+Chroma--0 to 2
+Texture--Sand, fine sand, loamy sand, loamy fine sand, and their shelly analogs, some horizons contain fine strata of sandy loam lamellae 
+Organic carbon density--1 to 5 kg m-3
+
+COMPETING SERIES:
+These are the Broadaxe, Lutz, McKissack, Mullet, Pelican Reef, Sandbank, and Thalinectes series.
+Broadaxe soils--Formed on submerged wave-cut platforms and contain buried spodic horizons.
+Lutz soils--Formed on flood-tidal deltas from sandy lagoonal deposits and have oxidized pHs greater than 7.8.
+McKissack soils--Formed on brackish estuarine tidal streams from eroded spodic soil materials, commonly have hues of 7.5YR and chromas greater than 3, and organic stains between sand grains. 
+Mullet soils--Formed on washover-fan flats, commonly have hues of 5GY or greener, and oxidized pHs greater than 6.1.
+Pelican Reef soils--Formed on relict flood-tidal deltas from sandy lagoonal deposits and do not have sandy loam lamellae.
+Sandbank soils--Formed in nearby estuarine tidal stream deltas in estuarine deposits and have very fine mica flakes throughout
+Thalinectes soils--Formed in sandy lagoonal and marine deposits on washover-fans and longshore bars and have higher soil organic carbon densities in the surface horizon. 
+
+GEOGRAPHIC SETTING:
+Landscape--Bays and Lagoons along the Gulf Coast
+Landform--Submerged wave-cut platforms and submerged wave-built terraces
+Parent material--Sandy lagoonal deposits 
+Slope--0 to 1 percent
+Water depth range--0 to 3 meters (0 to 10 feet) below mean sea level
+Water salinity range--5 to 25 parts per thousand
+Water temperature range--18 to 30 degrees C (64 to 86 degrees F)
+Soil temperature range--19 to 27 degrees C (66 to 81 degrees F)
+
+GEOGRAPHICALLY ASSOCIATED SOILS:
+These are the Apalachicola, Cash, Dregs, Dry Bar, and Norman soils.
+Apalachicola soils--Are on bay and lagoon bottoms and formed in fine-loamy lagoonal deposits.
+Cash soils--Are on mainland coves and formed in fine-loamy estuarine deposits.
+Dregs soils--Are on dredge-deposit shoals and formed in sandy, human transported materials
+Dry Bar soils--Are on shoals and reefs and formed in sandy-skeletal lagoonal deposits. 
+Norman soils--Are on shoals and reefs and formed in loamy-skeletal lagoonal deposits.
+
+DRAINAGE AND SATURATED HYDRAULIC CONDUCTIVITY:
+Drainage class--Subaqueous
+Saturated hydraulic conductivity--High to very high
+Soil moisture regime--Peraquic
+Soil is continuously inundated by brackish or salt water.
+
+USE AND VEGETATION:
+Major uses--The area is used for recreational fishing and boating. Some areas support commercial shellfish production within embayments. Some areas support subaquatic vegetation where wave-energy dissipates before reaching the shoreline. Eastpoint soils can be intertidal depending on proximity to oceanic regress. 
+Typical vegetation--Vegetation presence is largely determined by wave energy. In areas where turbidity is low, tape grass (Vallisneria spiralis), shoal grass (Halodule wrightii) or widgeon grass (Ruppia maritima) may establish. 
+
+DISTRIBUTION AND EXTENT:
+General area--Bays and Lagoons on the Gulf Coast of Florida
+Land Resource Region(s)--T - Atlantic and Gulf Coast Lowland Forest and Crop Region
+MLRA(s)--152A
+Extent--Moderate  
+
+SOIL SURVEY REGIONAL OFFICE (SSRO) RESPONSIBLE: Special Projects Office
+
+SERIES ESTABLISHED: Franklin County, Florida, 2026
+
+REMARKS:
+Typical Pedon Taxonomic Features:
+Reduced matrix--The zone from 0 to 200 centimeters has a soil color matrix chroma of 2 or less
+Fluidity--Slightly fluid from 0 to 26 centimeters
+Hyposulfidic materials--The zone from 26 to 134 centimeters has an initial pH that decreases by 1 or more units but remains at a value of 4.0 or more after 16 weeks of moist aerobic incubation
+Hypersulfidic materials--The zone from 134 to 200 centimeters has an initial pH that decreased by 1 or more units and is less than 4.0 after 16 weeks of moist aerobic incubation
+Peraquic feature--Zero or positive soil water potential at the soil surface (permanently submerged)
+Taxonomic Version: Keys to Soil Taxonomy, Thirteenth Edition, 2022
+Other: Named after Eastpoint, Florida where first observed. Eastpoint soils were previously mapped as water in Florida soil survey publications. 
+
+NASIS User Site and Pedon ID: S2024FL037007
+____________________________________________________________________________
+National Cooperative Soil Survey
+U.S.A.

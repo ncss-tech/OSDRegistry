@@ -1,67 +1,67 @@
-LOCATION PFAFFTOWN              NC
+LOCATION PFAFFTOWN              NC+VA
 
 Established Series
 RJL; DTA
-12/2012
+05/2026
 
 PFAFFTOWN SERIES
 
-MLRA(s): 136-Southern Piedmont (mesic)
-MLRA Soil Survey Regional Office (MO) Responsible: Raleigh, North Carolina
+MLRA(s): 136 (mesic part)
+Soil Survey Regional Office (SSRO) Responsible: Southeast
 Depth Class: Very deep
-Drainage Class (Agricultural): Well drained
-Internal Free Water Occurrence: Deep, persistent, thick
+Agricultural Drainage Class: Well drained
 Flooding Frequency and Duration: Occasional, rare, very rare, or none for very brief or brief periods, December to June
-Ponding Frequency and Duration: None
 Index Surface Runoff: Negligible to medium
-Permeability: Moderate (Saturated Hydraulic Conductivity: Moderately high)
+Saturated Hydraulic Conductivity Class: Moderately high
 Shrink-swell Potential: Low
 Landscape: Piedmont river valleys
 Landform: Stream terraces
-Geomorphic Component: Riser, treads
-Hillslope Profile Position: Summit, shoulder
 Parent Material: Alluvium
 Slope: 0 to 10 percent
-Elevation (type location): 989 feet
+Elevation (type location): 301 meters (989 feet)
 Frost Free Period (type location): 195 days
-Mean Annual Air Temperature (type location): 55 degrees F.
-Mean Annual Precipitation (type location): 50 inches
+Mean Annual Air Temperature (type location): 13 degrees C (55 degrees F)
+Mean Annual Precipitation (type location): 120 millimeters (50 inches)
 
 TAXONOMIC CLASS: Fine-loamy, mixed, semiactive, mesic Typic Hapludults
 
 TYPICAL PEDON: Pfafftown fine sandy loam--on a 3 percent slope in a cultivated field. (Colors are for moist soil, unless otherwise indicated.)
 
-  Ap--0 to 10 inches; brown (10YR 4/3) fine sandy loam; weak fine granular structure; very friable; few fine roots; few fine flakes of mica; strongly acid; abrupt smooth boundary. (6 to 12 inches thick)
+  Ap--0 to 25 centimeters (0 to 10 inches); brown (10YR 4/3) fine sandy loam; weak fine granular structure; very friable; few fine roots; few fine flakes of mica; strongly acid; abrupt smooth boundary. (15 to 30 centimeters (6 to 12 inches) thick)
 
-  BA--10 to 20 inches; dark yellowish brown (10YR 4/4) fine sandy loam; weak medium subangular blocky structure; very friable; few fine roots; few fine flakes of mica; strongly acid; clear smooth boundary. (0 to 12 inches thick)
+  BA--25 to 51 centimeters (10 to 20 inches); dark yellowish brown (10YR 4/4) fine sandy loam; weak medium subangular blocky structure; very friable; few fine roots; few fine flakes of mica; strongly acid; clear smooth boundary. (0 to 30 centimeter (0 to 12 inches) thick)
 
-  Bt--20 to 38 inches; strong brown (7.5YR 4/6) sandy clay loam; weak medium subangular blocky structure; friable, slightly sticky, slightly plastic; few fine roots; few distinct clay films on faces of peds; few fine flakes of mica; very strongly acid; clear smooth boundary. (18 to 40 inches thick)
+  Bt--51 to 97 centimeters (20 to 38 inches); strong brown (7.5YR 4/6) sandy clay loam; weak medium subangular blocky structure; friable, slightly sticky, slightly plastic; few fine roots; few distinct clay films on faces of peds; few fine flakes of mica; very strongly acid; clear smooth boundary. (46 to 102 centimeters (18 to 40 inches) thick)
 
-  BC--38 to 58 inches; dark yellowish brown (10YR 4/4) fine sandy loam; weak medium subangular blocky structure; very friable, slightly sticky, nonplastic; few fine roots; few fine flakes of mica; very strongly acid; gradual wavy boundary. (0 to 20 inches thick)
+  BC--97 to 147 centimeters (38 to 58 inches); dark yellowish brown (10YR 4/4) fine sandy loam; weak medium subangular blocky structure; very friable, slightly sticky, nonplastic; few fine roots; few fine flakes of mica; very strongly acid; gradual wavy boundary. (0 to 51 centimeters (0 to 20 inches) thick)
 
-  C--58 to 72 inches; brown (10YR 5/3) loamy sand; single grain; loose; few fine flakes of mica; very strongly acid.
+  C--147 to 183 centimeters (58 to 72 inches); brown (10YR 5/3) loamy sand; single grain; loose; few fine flakes of mica; very strongly acid.
 
-TYPE LOCATION: Wilkes County, North Carolina; about 2.0 miles west of Wilkesboro on NC Highway 268; about 400 feet north of the highway; in a cultivated field. USGS Wilkesboro topographic quadrangle; lat. 36 degrees, 08 minutes, 10 seconds N and long. 81 degrees, 12 minutes, 05 seconds W.
+TYPE LOCATION: Wilkes County, North Carolina; about 2.0 miles west of Wilkesboro on NC Highway 268; about 400 feet north of the highway; in a cultivated field. USGS Wilkesboro, North Carolina topographic quadrangle. 
+
+Latitude--36.1361
+Longitude-- -81.2014
+Datum--WGS84
 
 RANGE IN CHARACTERISTICS:
-Depth to bedrock: Greater than 80 inches
-Depth to top of the argillic horizon: 8 to 19 inches
-Depth to the base of the argillic horizon: 30 to 60 inches or more
-Depth to seasonal high water table: 42 to 72 inches, December to June
+Depth to top of the Argillic horizon: 20 to 48 centimeters (8 to 19 inches)
+Depth to the base of the Argillic horizon: 76 to 152 centimeters (30 to 60 inches) or more
+Depth to Seasonal High Water Table: 107 to 183 centimeters (42 to 72 inches), December to June
+Depth to Bedrock: Greater than 203 centimeters (80 inches)
+Rock Fragment Content: 0 to 2 percent in the A and B horizon and 0 to 25 percent in the C horizon; mostly quartz pebbles (non-flooded phase); 0 to 35 percent in the A and B horizon and 0 to 50 percent in the C horizon (flooded phases)
 Soil Reaction: Extremely acid to strongly acid in the A and upper B horizon and extremely acid to slightly acid in the lower B horizon and C horizon, unless limed
-Gravel Content: 0 to 2 percent in the A and B horizon and 0 to 25 percent in the C horizon; mostly quartz pebbles (non-flooded phase); 0 to 35 percent in the A and B horizon and 0 to 50 percent in the C horizon (flooded phases)
 Other Features: 0 to 20 percent mica, throughout
 
 Range of Individual Horizons:
-Ap horizon or A horizon (where present):
-Color--hue of 7.5YR to 2.5Y, value of 3 to 6, chroma of 2 to 6. Where value is less than 3, it is less than 6 inches thick.
+Ap horizon or A horizon:
+Color--hue of 7.5YR to 2.5Y, value of 3 to 6, chroma of 2 to 6. Where value is less than 3, it is less than 15 centimeters (6 inches) thick.
 Texture (fine-earth fraction)--loamy coarse sand, loamy sand, loamy fine sand, coarse sandy loam, sandy loam, fine sandy loam, very fine sandy loam, loam, or silt loam
 
-E horizon (where present):
+E horizon (if it occurs):
 Color--hue of 7.5YR to 2.5Y, value of 5 to 7, chroma of 3 to 8
 Texture--loamy coarse sand, loamy sand, loamy fine sand, sandy loam, fine sandy loam, very fine sandy loam, loam, or silt loam
 
-BA or BE (where present):
+BA or BE (if it occurs):
 Color--hue of 7.5YR or 10YR, value of 4 to 6, chroma of 4 to 8
 Texture--coarse sandy loam, sandy loam, fine sandy loam, very fine sandy loam, loam, silt loam, or sandy clay loam
 
@@ -74,7 +74,7 @@ Color--hue of 7.5YR to 2.5Y, value of 4 to 6, chroma of 4 to 8, or is variegated
 Texture (fine-earth fraction)--loam, clay loam, or sandy clay loam, including thin horizons of sandy loam or silt loam
 Redoximorphic features (where present)--masses of oxidized iron in shades of red, yellow, or brown and iron depletions in shades of gray, yellow, or brown
 
-BC horizon or CB horizon (where present):
+BC horizon or CB horizon (if it occurs):
 Color--hue of 7.5YR to 2.5Y, value of 4 to 6, chroma of 4 to 8, or is variegated in shades of these colors with or without dominant matrix color
 Texture (fine-earth fraction)--coarse sandy loam, sandy loam, fine sandy loam, very fine sandy loam, loam, or sandy clay loam
 Redoximorphic features (where present)--masses of oxidized iron in shades of red, yellow, or brown and iron depletions in shades of gray, yellow, or brown
@@ -84,78 +84,72 @@ Color--hue of 7.5YR to 2.5Y, value of 4 to 8, chroma of 3 to 8, or is variegated
 Texture (fine earth fraction)--loamy fine sand, sandy loam, or fine sandy loam and may be stratified with finer or coarser textured materials
 Redoximorphic features (where present)--masses of oxidized iron in shades of red, yellow, or brown and iron depletions in shades of gray, yellow, or brown
 
-Cg horizon (where present):
+Cg horizon (if it occurs):
 Color--hue of 7.5YR to 2.5Y, value of 4 to 8, chroma of 1 or 2, or is neutral with value of 4 to 8, and may be variegated in shades of these colors with or without dominant matrix color
 Texture (fine earth fraction)--loamy fine sand, sandy loam, or fine sandy loam and may be stratified with finer or coarser textured materials
 Redoximorphic features--masses of oxidized iron in shades of red, yellow, or brown and iron depletions in shades of gray, yellow, or brown
 
-2C horizon (where present):
+2C horizon (if it occurs):
 Color--hue of 7.5YR to 2.5Y, value of 4 to 8, chroma of 3 to 8, or is variegated in shades of these colors with or without dominant matrix color
 Texture (fine earth fraction)--coarse sand, sand, fine sand, loamy coarse sand, or loamy sand and may be stratified with finer or coarser textured materials
 Redoximorphic features (where present)--masses of oxidized iron in shades of red, yellow, or brown and iron depletions in shades of gray, yellow, or brown
 
-2Cg horizon (where present):
+2Cg horizon (if it occurs):
 Color--hue of 7.5YR to 2.5Y, value of 4 to 8, chroma of 1 or 2, or is neutral with value of 4 to 8, and may be variegated in shades of these colors with or without dominant matrix color
 Texture (fine earth fraction)--coarse sand, sand, fine sand, loamy coarse sand, or loamy sand and may be stratified with finer or coarser textured materials
 Redoximorphic features (where present)--masses of oxidized iron in shades of red, yellow, or brown and iron depletions in shades of gray, yellow, or brown
 
 COMPETING SERIES:
-In same family:
-Drapermill soils--have hard bedrock at a depth of 20 to 40 inches and formed in residuum from phyllite or schist on uplands
+Drapermill soils--have hard bedrock at a depth of 51 to 192 centimeters (20 to 40 inches) and formed in residuum from phyllite or schist on uplands
 Elsinboro soils--have more silt in the subsoil and formed in loamy mica bearing alluvium
-Happyland soils--formed in residuum from schist, phyllite, metamonzonite and gneiss and occur on uplands
-Milldraper soils--have hard bedrock at a depth of 40 to 60 inches and formed in residuum from schist and phyllite and occur on side slopes and nose slopes
-Rhodhiss soils--formed in material weathered from acid crystalline rock and occur on uplands 
+Milldraper soils--have hard bedrock at a depth of 102 to 152 centimeters (40 to 60 inches) and formed in residuum from schist and phyllite and occur on side slopes and nose slopes
+Rhodhiss soils--formed in material weathered from acid crystalline rock and occur on uplands
 
 GEOGRAPHIC SETTING:
 Landscape: Piedmont river valleys
-Landform: Stream terraces 
-Geomorphic Component: Riser, treads
-Hillslope Profile Position: Summit, shoulder
+Landform: Stream terraces
 Parent Material: Alluvium
 Slope: 0 to 10 percent
-Elevation: 500 to 1000 feet
+Elevation: 152 to 305 meters (500 to 1000 feet)
 Frost Free Period: 195 to 260 days
-Mean Annual Air Temperature: 52 to 59 degrees
-Mean Annual Precipitation: 35 to 55 inches
+Mean Annual Air Temperature: 11 to degrees C (52 to 59 degrees F)
+Mean Annual Precipitation: 889 to 1397 millimeters (35 to 55 inches)
 
 GEOGRAPHICALLY ASSOCIATED SOILS:
-Banister soils--are moderately well drained soils with seasonal high water table 12 to 30 inches, in a fine family; on flats and in depressions
-Codorus soils--are somewhat poorly drained soils with seasonal high water table 6 to 24 inches; on adjacent floodplains
-Comus soils--have less clay in the subsoil; on adjacent floodplains
-Danripple soils--are well drained soils with seasonal high water table below 72 inches, in a fine family; on similar landscapes
-Dan River soils--are well drained to moderately well drained soils with seasonal high water table 30 to 48 inches; on floodplains and at the base of slopes
-Ronda soils--are somewhat excessively drained soils with seasonal high water table below 72 inches, with sandy textures throughout; on natural levees 
-Wate soils--are somewhat poorly drained soils with seasonal high water table 12 to 18 inches, in a fine family; on lower landscapes
+Banister soils--are clayey and moderately well drained with a seasonal high water table at 30 to 76 centimeters (12 to 30 inches); on flats and in depressions
+Codorus soils--are somewhat poorly drained soils with a seasonal high water table at 15 to 61 centimeters (6 to 24 inches); on adjacent floodplains
+Comus soils--are coarse-loamy; on adjacent floodplains
+Danripple soils--are clayey and well drained with seasonal high water table below 183 centimeters (72 inches); on similar landscapes
+Dan River soils--are well drained to moderately well drained soils with a seasonal high water table at 76 to 122 centimeters (30 to 48 inches); on floodplains and at the base of slopes
+Ronda soils--are sandy throughout and somewhat excessively drained with a seasonal high water table below 183 centimeters (72 inches); on natural levees
+Wate soils--are clayey and somewhat poorly drained with a seasonal high water table at 30 to 46 centimeters (12 to 18 inches); on lower landscapes
 
-DRAINAGE AND PERMEABILITY:
+DRAINAGE AND SATURATED HYDRAULIC CONDUCTIVITY: 
 Depth Class: Very deep
-Drainage Class (Agricultural): Well drained
-Internal Free Water Occurrence: Deep, persistent, thick
+Agricultural Drainage Class: Well drained
 Flooding Frequency and Duration: Occasional, rare, very rare, or none for very brief or brief periods, December to June
-Ponding Frequency and Duration: None
 Index Surface Runoff: Negligible to medium
-Permeability: Moderate (Saturated Hydraulic Conductivity: Moderately high
-Shrink-swell Potential: Low
+Saturated Hydraulic Conductivity Class: Moderately high
 
 USE AND VEGETATION:
-Major Uses: Mostly cultivated crops
+Major Uses: Cropland and woodland
 Dominant Vegetation: Where cultivated--corn, soybeans, peanuts, small grain, flue-cured tobacco, and vegetables. Where wooded--white oak, red oak, American beech, elm, sycamore, American holly, sweetgum, loblolly pine, shortleaf pine, Virginia pine, and yellow-poplar.
 
 DISTRIBUTION AND EXTENT:
-Distribution: North Carolina and possibly Virginia
+Distribution: North Carolina and Virginia
 Extent: Moderate
 
-MLRA SOIL SURVEY REGIONAL OFFICE (MO) RESPONSIBLE: Raleigh, North Carolina
+SOIL SURVEY REGIONAL OFFICE (SSRO) RESPONSIBLE: Auburn, Alabama
 
 SERIES ESTABLISHED: Wilkes County, North Carolina, 2009
 
-REMARKS:
-Diagnostic horizons and features recognized in this pedon are:
-Ochric epipedon--the zone from 0 to 20 inches (Ap and BA horizons)
-Argillic horizon--the zone between 20 and 38 inches (Bt horizon)
+REMARKS:  Pfafftown soils were previously mapped as State soils. The April 1997 relocation of the mesic/thermic line necessitated the establishment of the mesic counterpart. The May 2026 revision changed the format.  No data was changed.
 
-ADDITIONAL DATA: 
+Diagnostic horizons and soil characteristics recognized in this pedon:
+Ochric epipedon--the zone from 0 to 51 centimeters (0 to 20 inches) (Ap and BA horizons)
+Argillic horizon--the zone from 51 to 97 centimeters (20 and 38 inches) (Bt horizon)
+
+ADDITIONAL DATA:
 
 Typical Pedon Data Mapunit ID--459778
 Benchmark status: No
@@ -165,8 +159,8 @@ TABULAR SERIES DATA:
 Soil Name  Slope  Airtemp  FrFr/Seas  Precip  Elevation
 PFAFFTOWN  0-10   52-59    195-260    35-55   400-1000
 
-FloodL  FloodH  Watertable   Kind       Months   Bedrock
-NONE    OCCAS   4.0-6.0      APPARENT   DEC-JUN  >80
+FloodL  FloodH  Watertable   Kind       Months    Bedrock
+NONE    OCCAS   4.0-6.0      APPARENT   DEC-JUN    >80
 
 Depth   Texture          3-Inch   No-10    Clay%   -CEC-
 0-20    FSL SL            0-0    95-100    5-15
@@ -185,5 +179,6 @@ Depth     -pH-      O.M.     Salin  Permeab   Shnk-Swll
 58-72    3.5-6.5   0.0-0.5   0-0    2.0-20      LOW
 
 
+________________________________________
 National Cooperative Soil Survey
 U.S.A.
