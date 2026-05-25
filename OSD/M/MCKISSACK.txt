@@ -1,0 +1,121 @@
+LOCATION MCKISSACK              FL
+
+Tentative Series
+ARW
+05/2026
+
+MCKISSACK SERIES
+
+MLRA(s)--152A
+Depth class--Very deep
+Drainage class--Subaqueous
+Water depth range--0 to 3 meters (0 to 10 feet)
+Parent material--Sandy estuarine deposits
+Geomorphic location--Estuarine tidal streams
+Slope range--0 to 1 percent
+Mean annual air temperature--21 degrees C (70 degrees F)
+Mean annual water temperature--24 degrees C (75 degrees F)
+
+TAXONOMIC CLASS: Siliceous, hyperthermic Fluventic Psammowassents
+
+TYPICAL PEDON: McKissack loamy sand in an estuarine tidal stream under 1.7 meters of brackish water. (colors are for moist soil unless otherwise stated; electrical conductivity is 1:5 by volume solution mixture unless otherwise stated).
+
+ Cse1--0 to 17 centimeters; very dark brown (7.5YR 2.5/2) loamy sand; single grain; nonsticky, nonplastic; nonfluid; no sulfurous odor; 25 percent prominent black (N 2.5/) organic stains between sand grains; color change with 3 percent hydrogen peroxide; slight effervescence with 30 percent hydrogen peroxide; 2 percent plant fiber; saline (3.1 dS/m); slightly alkaline (pH 7.5), slightly acid (pH 6.2) oxidized pH; gradual boundary
+
+ Cse2--17 to 155 centimeters; dark brown (10YR 3/3) loamy sand; single grain; nonsticky, nonplastic; nonfluid; 40 percent prominent black (N 2.5/) organic stains between sand grains; 2 percent wood fragments; no sulfurous odor; color change with 3 percent hydrogen peroxide; slight effervescence with 30 percent hydrogen peroxide; saline (2.8 dS/m); slightly alkaline (pH 7.5), slightly acid (pH 6.1) oxidized pH; gradual boundary
+
+ Cse3--155 to 200 centimeters; dark brown (10YR 3/3) loamy sand; single grain; nonsticky, nonplastic; nonfluid; 30 percent prominent black (N 2.5/) organic stains between sand grains; slight sulfurous odor; color change with 3 percent hydrogen peroxide; slight effervescence with 30 percent hydrogen peroxide; saline (2.8 dS/m); slightly alkaline (pH 7.5), neutral (pH 6.8) oxidized pH
+
+TYPE LOCATION: Franklin County, Florida; Carrabelle River; approximately 0.3 kilometers (0.2 miles) south of Kapes Bayou, approximately 1.1 kilometers (0.7 miles) north of the intersection of Sandy Road and River Road, and approximately 0.9 kilometers (0.5) miles east of the intersection of Mill Road and River Road; USGS topographic quadrangle: Carrabelle, FL 
+
+Latitude--29.8574170
+Longitude-- -84.6811130
+Datum--WGS84
+Coordinate source--from hand-held GPS
+
+RANGE IN CHARACTERISTICS:
+Depth to bedrock--Greater than 200 centimeters
+Manner of failure--Nonfluid to slightly fluid throughout
+Sulfurous odor--None to slight throughout
+Soil reaction--Neutral to slightly alkaline throughout profile (pH 6.6 to 7.8)
+Oxidized reaction--Very strongly acid to neutral throughout profile (pH 4.5 to 7.3)
+Electrical conductivity (1:5 soil to water solution)--2.0 to 4.0 dS m-1 throughout profile
+Particle-size control section (weighted average):
+Shell fragments--0 to 30 percent
+Sand--75 to 95 percent
+Clay--2 to 10 percent 
+Total soil organic carbon stock 0 to 100 centimeters--3 to 7 kg m-2
+Total soil organic carbon stock 0 to 200 centimeters--5 to 12 kg m-2
+
+Cse horizons: 
+Hue--7.5YR or 10YR
+Value--2.5 to 4
+Chroma--2 or 3
+Texture--Coarse sand, sand, fine sand, loamy coarse sand, loamy sand, loamy fine sand and their shelly analogs 
+Organic carbon density--2 to 6 kg m-3
+
+Cseg or Cg horizons (where present):
+Hue--2.5Y to N
+Value--2.5 to 4
+Chroma--none to 2
+Texture--Loamy coarse sand, loamy sand, or loamy fine sand
+Organic carbon density--1 to 4 kg m-3
+
+COMPETING SERIES:
+These are the Broadaxe, Eastpoint, Lutz, Mullet, Pelican Reef, Sandbank, and Thalinectes series.
+Broadaxe soils--Formed on submerged wave-cut platforms and contain buried spodic horizons.
+Eastpoint soils--Formed on submerged wave-cut platforms, often have chroma's of 2 or less, and do not have hues of 7.5YR or organic stains between sand grains.
+Lutz soils--Formed on flood-tidal deltas, do not have hues of 7.5YR, often have chroma colors of 2 or less and organic stains between sand grains. 
+Mullet soils--Formed on washover-fan flats, do not allow chroma of 3, and commonly have hues of 5GY or 10GY.
+Pelican Reef soils--Formed on relict flood-tidal deltas and have higher organic carbon densities in the surface.
+Sandbank soils--Formed on estuarine tidal stream deltas, do not allow chroma of 3, and have very fine mica flakes throughout the profile with no organic stains between sand grains.
+Thalinectes soils--Formed on washover-fans and longshore bars, do not allow chroma of 3, and have higher soil organic carbon densities in the surface. 
+
+GEOGRAPHIC SETTING:
+Landscape--Bays and Lagoons along the Gulf Coast
+Landform--Estuarine tidal streams
+Parent material--Sandy estuarine deposits 
+Slope--0 to 1 percent
+Water depth range--0 to 3 meters (0 to 10 feet) below mean sea level
+Water salinity range--5 to 25 parts per thousand
+Water temperature range--18 to 30 degrees C (64 to 86 degrees F)
+Soil temperature range--19 to 27 degrees C (66 to 81 degrees F)
+
+GEOGRAPHICALLY ASSOCIATED SOILS:
+These are the Amtrac, Apalachicola, Broadaxe, Dregs, Eastpoint, and Sheepshead soils.
+Amtrac soils--Are on high-energy lagoon bottoms and barrier coves and formed in coarse-loamy lagoon deposits.
+Apalachicola soils--Are on bay and lagoon bottoms and formed in fine-loamy lagoonal deposits.
+Dregs soils--Are on dredge-deposit shoals and formed in sandy, human transported materials
+Dry Bar soils--Are on shoals and reefs and formed in sandy-skeletal lagoonal deposits. 
+Sheepshead soils--Are in barrier coves and formed in sandy and coarse-loamy lagoonal deposits. 
+
+DRAINAGE AND SATURATED HYDRAULIC CONDUCTIVITY:
+Drainage class--Subaqueous
+Saturated hydraulic conductivity--High to very high
+Soil moisture regime--Peraquic
+Soil is continuously inundated by brackish water.
+
+USE AND VEGETATION:
+Major uses--These soils are used for vessel navigation and anchoring as well as recreational fishing and boating. These soils are occasionally dredged. 
+Typical vegetation--Vegetation is largely absent on McKissack soils due to sustained turbidity and water energy. 
+
+DISTRIBUTION AND EXTENT:
+General area--Bays and Lagoons along the Gulf 
+Land Resource Region(s)--T - Atlantic and Gulf Coast Lowland Forest and Crop Region
+MLRA(s)--152A
+Extent--Small  
+
+SOIL SURVEY REGIONAL OFFICE (SSRO) RESPONSIBLE: Special Projects Office
+
+SERIES ESTABLISHED: Franklin County, Florida, 2026
+
+REMARKS:
+Typical Pedon Taxonomic Features:
+Peraquic feature--Zero or positive soil water potential at the soil surface (permanently submerged)
+Taxonomic Version: Keys to Soil Taxonomy, Thirteenth Edition, 2022
+Other: Named after Charlie McKissack Cut in the Carrabelle River where first observed. It is assumed that the soil formed in eroded and transported spodic material from terrestrial soils. McKissack soils were previously mapped as water in Florida soil survey publications. 
+
+NASIS User Site and Pedon ID: S2025FL037049
+____________________________________________________________________________
+National Cooperative Soil Survey
+U.S.A.
