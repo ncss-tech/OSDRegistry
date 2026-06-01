@@ -1,69 +1,80 @@
-LOCATION PENHOOK                VA
+LOCATION PENHOOK                VA+NC
 
 Established Series
-MAV; Rev. JAK
-10/2021
+MAV; Rev. JAK; DTA
+05/2026
 
 PENHOOK SERIES
 
-MLRA(s): 136
+MLRA(s): 136 (mesic part)
+Soil Survey Regional Office (SSRO) Responsible: Southeast
 Depth Class: Very deep
-Drainage Class: Well drained
-Permeability: Moderate
-Surface Runoff: High
+Agricultural Drainage Class: Well drained
+Index Surface Runoff: Medium to high
+Saturated Hydraulic Conductivity Class: Moderately high
+Shrink-Swell Potential: Low
+Landscape: Piedmont uplands
+Landform: Interstream divides, ridges, and side slopes 
 Parent Material: Residuum weathered from fine grained rock such as slate, phyllite, or schist
 Slope: 2 to 45 percent
-Mean Annual Air Temperature (type location): 55 degrees F.
-Mean Annual Precipitation (type location): 45 inches
+Elevation (type location): 250 meters (820 feet)
+Frost Free Period: 200 days
+Mean Annual Air Temperature (type location): 13 degrees C (55 degrees F)
+Mean Annual Precipitation (type location): 1143 millimeters (45 inches)
 
 TAXONOMIC CLASS: Fine, mixed, subactive, mesic Typic Hapludults
 
-TYPICAL PEDON: Penhook loam, on a 9 percent slope--mixed hardwood and pine forest. (Colors are for moist soil)
+TYPICAL PEDON: Penhook loam, on a 9 percent slope, in a Littlejoe-Strawfield-Penhook complex, 8 to 15 percent slopes--mixed hardwood and pine forest. (Colors are for moist soil)
 
-  Oi--0 to 1 inches; loose leaves and twigs
+  Oi--0 to 2 centimeters (0 to 1 inches); loose leaves and twigs
 
-  Oe--1 to 2 inch; intermediately decomposed organic materials
+  Oe--2 to 5 centimeters (1 to 2 inches); intermediately decomposed organic materials
 
-  A--2 to 7 inches; brown (7.5YR 4/4) loam; weak fine granular structure; soft, friable, slightly sticky and slightly plastic; few very fine and fine, common medium and coarse roots; 14 percent subangular phyllite channers and subrounded quartz gravel; very strongly acid; clear smooth boundary.
+  A--5 to 18 centimeters (2 to 7 inches); brown (7.5YR 4/4) loam; weak fine granular structure; soft, friable, slightly sticky and slightly plastic; few very fine and fine, common medium and coarse roots; 14 percent subangular phyllite channers and subrounded quartz gravel; very strongly acid; clear smooth boundary.
 
-  Bt1--7 to 10 inches; yellowish red (5YR 4/6) clay loam; weak fine subangular blocky structure; slightly hard, friable, slightly sticky and slightly plastic; few very fine through coarse roots; common faint clay films on faces of peds; 5 percent subangular phyllite channers and subrounded quartz gravel; extremely acid; clear wavy boundary.
+  Bt1--18 to 25 centimeters (7 to 10 inches); yellowish red (5YR 4/6) clay loam; weak fine subangular blocky structure; slightly hard, friable, slightly sticky and slightly plastic; few very fine through coarse roots; common faint clay films on faces of peds; 5 percent subangular phyllite channers and subrounded quartz gravel; extremely acid; clear wavy boundary.
 
-  Bt2--10 to 27 inches; red (2.5YR 4/8) clay; moderate medium subangular blocky structure; hard, friable, slightly sticky and slightly plastic; few very fine through coarse roots; common distinct clay films on faces of peds; 2 percent subangular phyllite channers and subrounded quartz gravel; very strongly acid; gradual wavy boundary.
+  Bt2--25 to 69 centimeters (10 to 27 inches); red (2.5YR 4/8) clay; moderate medium subangular blocky structure; hard, friable, slightly sticky and slightly plastic; few very fine through coarse roots; common distinct clay films on faces of peds; 2 percent subangular phyllite channers and subrounded quartz gravel; very strongly acid; gradual wavy boundary.
 
-  Bt3--27 to 44 inches; red (2.5YR 4/8) clay; moderate fine subangular blocky structure; hard, friable, slightly sticky and slightly plastic; few very fine and fine roots; common faint clay films on faces of peds; 12 percent subangular phyllite channers and subrounded quartz gravel; very strongly acid; gradual wavy boundary.
+  Bt3--69 to 112 centimeters (27 to 44 inches); red (2.5YR 4/8) clay; moderate fine subangular blocky structure; hard, friable, slightly sticky and slightly plastic; few very fine and fine roots; common faint clay films on faces of peds; 12 percent subangular phyllite channers and subrounded quartz gravel; very strongly acid; gradual wavy boundary.
 
-  BCt--44 to 53 inches; red (2.5YR 5/6)parachannery clay loam; weak medium subangular blocky structure; slightly hard, friable, slightly sticky and slightly plastic; common faint clay films on faces of peds; 30 percent subangular phyllite parachanners; very strongly acid; clear wavy boundary.
+  BCt--112 to 135 centimeters (44 to 53 inches); red (2.5YR 5/6) parachannery clay loam; weak medium subangular blocky structure; slightly hard, friable, slightly sticky and slightly plastic; common faint clay films on faces of peds; 30 percent subangular phyllite parachanners; very strongly acid; clear wavy boundary.
 
-  C--53 to 64 inches; multicolored yellowish red, red, dark red, and reddish yellow loam saprolite; massive; soft, friable, slightly sticky and slightly plastic; very strongly acid.
+  C--135 to 163 centimeters (53 to 64 inches); multicolored yellowish red, red, dark red, and reddish yellow loam saprolite; massive; soft, friable, slightly sticky and slightly plastic; very strongly acid.
 
-TYPE LOCATION: Franklin County, Virginia, located 6,350 feet south 12 degrees west of the intersection of State Routes 40 and 946; in woodland; in the eastern part of Franklin County; USGS Penhook topographic Quadrangle; lat. 36 degrees 58 minutes 09 seconds N. and long. 79 degrees 38 minutes 27 seconds W.
+TYPE LOCATION: Franklin County, Virginia, located 6,350 feet south 12 degrees west of the intersection of State Routes 40 and 946; in woodland; in the eastern part of Franklin County; USGS Penhook, Virginia topographic quadrangle.
 
-RANGE IN CHARACTERISTICS: 
-Depth to Bedrock: More than 60 inches
-Rock Fragments: Gravel and channers, 0 to 25 percent, by volume, throughout
-Soil Reaction: Extremely acid to strongly acid, except where limed
-Other Features: Flakes of mica, none to common throughout
+Latitude--36.9692
+Longitude-- -79.6408
+Datum--WGS84
+
+RANGE IN CHARACTERISTICS:
+Depth to Bedrock: Greater than 152 centimeters (60 inches)
+Depth to Seasonal High Water Table: Greater than 152 centimeters (60 inches)
+Rock Fragment Content: 0 to 25 percent, by volume, throughout. Rock fragments consist of gravel and channers.
+Mica content: 0 to 20 percent, by volume throughout
+Soil Reaction: Extremely acid to strongly acid 
 
 RANGE OF INDIVIDUAL HORIZONS:
 A or Ap horizon:
-Color--hue of 7.5YR or 10YR, value of 4 to 6, and chroma of 3 to 6
-Texture (fine-earth fraction)--loam, silt loam, or fine sandy loam 
+Color--hue of 7.5YR or 10YR, value of 4 to 6, chroma of 3 to 6
+Texture (fine-earth fraction)--loam, silt loam, or fine sandy loam
 
-E horizon (where present):
-Color--hue of 7.5YR or 10YR, value of 5 or 6, and chroma of 3 to 6
-Texture (fine-earth fraction)--loam, silt loam, or fine sandy loam 
+E horizon (if it occurs):
+Color--hue of 7.5YR or 10YR, value of 5 or 6, chroma of 3 to 6
+Texture (fine-earth fraction)--loam, silt loam, or fine sandy loam
 
 Bt horizon:
-Color--hue of 10R through 5YR, value of 4 or 5, and chroma of 5 to 8. Some pedons may have subhorizons with hues of 7.5YR or 10YR in the lower part.
+Color--hue of 10R through 5YR, value of 4 or 5, chroma of 5 to 8. Some pedons may have subhorizons with hues of 7.5YR or 10YR in the lower part.
 Texture (fine-earth fraction)--loam, clay loam, silty clay loam, clay, or silty clay. The particle-size control section averages more than 30 percent silt, more than 40 percent silt plus very fine sand, or less than 15 percent sand coarser than very fine sand.
 
 BC or BCt horizon:
-Color-hue of 10R through 10YR, value of 4 or 5, and chroma of 6 or 8
-Texture (fine-earth fraction)--loam, silt loam, clay loam, or silty clay loam 
+Color-hue of 10R through 10YR, value of 4 or 5, chroma of 6 or 8
+Texture (fine-earth fraction)--loam, silt loam, clay loam, or silty clay loam
 
 C horizon:
-Color-hue of 2.5YR through 10YR, value of 4 to 6, and chroma of 6 or 8 
-Texture (fine-earth fraction)--loam or silt loam 
+Color-hue of 2.5YR through 10YR, value of 4 to 6, chroma of 6 or 8
+Texture (fine-earth fraction)--loam or silt loam saprolite
 
 COMPETING SERIES:
 In same family:
@@ -77,37 +88,33 @@ Totier soils--deep to paralithic contact in Triassic shale
 Warminster soils--are deep to paralithic contact, and formed in residuum of Triassic red shale
 Yellowbottom soils--are not as red in the subsoil
 
-GEOGRAPHIC SETTING: 
-Landscape: Piedmont
-Landform: Interfluves and ridges
-Hillslope Profile Position: summits, shoulders, back slopes
-Geomorphic Component: Interfluves and side slopes
-Elevation: 300 to 1600 feet
-Parent Material: Residuum from phyllites and schists
-Mean Annual Air Temperature: 52 to 57 degrees
-Mean Annual Precipitation: 40 to 50 inches
-Frost Free Period: 175 to 205 days 
+GEOGRAPHIC SETTING:
+Landscape: Piedmont uplands 
+Landform: Interstream divides, ridges, and side slopes 
+Parent Material: Residuum weathered from fine grained rock such as slate, phyllite, or schist 
+Elevation: 91 to 488 meters (300 to 1600 feet)
+Mean Annual Air Temperature: 11 to 14 degrees C (52 to 57 degrees F)
+Mean Annual Precipitation: 1020 to 1270 millimeters 40 to 50 inches
+Frost Free Period: 175 to 205 days
 
 GEOGRAPHICALLY ASSOCIATED SOILS:
-Buffstat soils--are 40 to 60 inches to paralithic contact
-Bugley soils--are 10 to 20 inches to lithic contact
-Drapermill soils--are 20 to 40 inches to lithic contact, and have less clay in the subsoil
-Fairystone soils--are 20 to 40 inches to lithic contact, and more than 35 percent rock fragments
-Happyland soils--have less clay in the subsoil
-Littlejoe soils--are 40 to 60 inches to paralithic contact
-Strawfield soils--20 to 40 inches to lithic contact
-Yellowbottom soils--are less red in the subsoil 
+Buffstat soils--are 102 to 152 centimeters (40 to 60 inches) to soft bedrock 
+Bugley soils--are 15 to 51 centimeters (10 to 20 inches) to hard bedrock
+Drapermill soils--are fine-loamy and are 51 to 102 centimeters (20 to 40 inches) to hard bedrock 
+Fairystone soils--are 51 to 102 centimeters (20 to 40 inches) to hard bedrock, and have more than 35 percent rock fragments
+Littlejoe soils--are 102 to 152 centimeters (40 to 60 inches) to soft bedrock Strawfield soils--51 to 102 centimeters (20 to 40 inches) to hard bedrock 
+Yellowbottom soils--are less red in the subsoil
 
-DRAINAGE AND PERMEABILITY:
+DRAINAGE AND SATURATED HYDRAULIC CONDUCTIVITY: 
 Agricultural Drainage Class: Well drained
-Internal free water occurrence: Absent
-Permeability of Restrictive Layer (upper 60 inches): Moderate
+Index Surface Runoff: Medium
+Saturated Hydraulic Conductivity: High
 
 USE AND VEGETATION:
-Major Uses: Pasture, cropland, forestland
-Dominant Vegetation: Where cultivated-corn, soybeans, small grain, hay. Where wooded-mixed hardwoods, or pines.
+Major Uses: Pasture, cropland, and forestland
+Dominant Vegetation: Where cultivated-corn, soybeans, small grain, hay. Where wooded-mixed hardwoods or pines.
 
-MLRA SOIL SURVEY REGIONAL OFFICE (MO) RESPONSIBLE: Raleigh, North Carolina
+SOIL SURVEY REGIONAL OFFICE (SSRO) RESPONSIBLE: Auburn, Alabama
 
 DISTRIBUTION AND EXTENT:
 Distribution: Virginia, North Carolina
@@ -115,14 +122,14 @@ Extent: Small
 
 SERIES ESTABLISHED: Franklin County, Virginia, 2004
 
-REMARKS: Penhook soils were formerly recognized in the Georgeville series. The 4/97 relocation of the mesic/thermic line in North Carolina and Virginia dictated the need for the Penhook series as a mesic counterpart. The soil horizon depths were revised on 10/2021 to ensure the description began at the soil surface.
+REMARKS: Penhook soils were formerly recognized in the Georgeville series. The 4/97 relocation of the mesic/thermic line in MLTA 136 in North Carolina and Virginia dictated the need for the Penhook series as a mesic counterpart. The soil horizon depths were revised on 10/2021 to ensure the description began at the soil surface. The May 2026 revision changed the format.  No data was changed.
 
-Diagnostic horizons and features recognized in this pedon are:
-Ochric epipedon-the zone from 0 to 7 inches (O and A horizons)
-Argillic horizon-the zone from 7 to 44 inches (Bt horizons)
-Series control section-0 to 60 inches
 
-ADDITIONAL DATA: This pedon sampled as S98VA067-006. Additional sample is S97VA067-008. 
+Diagnostic horizons and soil characteristics recognized in this pedon:
+Ochric epipedon--the zone from 0 to 18 centimeters (0 to 7 inches) (O and A horizons)
+Argillic horizon--the zone from 18 to 112 centimeters (7 to 44 inches) (Bt horizons)
+
+ADDITIONAL DATA: This pedon sampled as S98VA067-006. Additional sample is S97VA067-008.
 
 Typical Pedon Data Mapunit ID:27437
 Benchmark Status: No
@@ -149,5 +156,6 @@ SC0014   7-37   3.5-5.5  0.0-0.5   0-0    0.6-2.0   LOW
 SC0014  37-61   3.5-5.5  0.0-0.5   0-0    0.6-2.0   LOW      
 
 
+________________________________________
 National Cooperative Soil Survey
 U.S.A.

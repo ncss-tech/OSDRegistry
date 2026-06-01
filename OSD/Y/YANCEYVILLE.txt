@@ -1,90 +1,131 @@
 LOCATION YANCEYVILLE            NC VA
 
-Tentative Series
-JWL/RJL/STE/DTA
-08/2016
+Established Series
+JWL/RJL/STE/DTA/Rev. DTA
+05/2026
 
 YANCEYVILLE SERIES
 
 MLRA(s): 136 (mesic part)
-MLRA Soil Survey Regional Office Responsible: Raleigh, North Carolina
+Soil Survey Regional Office (SSRO) Responsible: Southeast
 Depth Class: Very deep
-Drainage Class (Agricultural): Well drained
-Internal Free Water Occurrence: Very deep
-Flooding Frequency and Duration: None
-Ponding Frequency and Duration: None
-Index Surface Runoff: Medium to very high
-Permeability: Moderately rapid
+Agricultural Drainage Class: Well drained
+Index Surface Runoff: Medium 
+Saturated Hydraulic Conductivity Class: High
 Shrink-Swell Potential: Low
 Landscape: Piedmont uplands
-Landform: Ridges
-Geomorphic Component: Interfluves
-Hillslope Profile Position: Summits, shoulders, backslopes, nose slopes
+Landform: Interstream divides, ridges, and side slopes 
 Parent Material: Residuum from felsic igneous or metamorphic rock, primarily granite and granite gneiss
 Slope: 6 to 45 percent
-Elevation (type location): 700 feet
+Elevation (type location): 213 meters (700 feet)
 Frost Free Period: 200 days
-Mean Annual Air Temperature (type location): 57 degrees F.
-Mean Annual Precipitation (type location): 44 inches
+Mean Annual Air Temperature (type location): 14 degrees C (57 degrees F)
+Mean Annual Precipitation (type location): 1118 millimeters (44 inches)
 
 TAXONOMIC CLASS: Coarse-loamy, mixed, semiactive, mesic Typic Hapludults
 
-TYPICAL PEDON: Yanceyville sandy loam in an area of Rhodhiss sandy loam, 15 to 45 percent slopes, forested. (Colors are for moist soil unless otherwise stated.) 
+TYPICAL PEDON: Yanceyville sandy loam in an area of Rhodhiss sandy loam, 25 to 45 percent slopes, forested. (Colors are for moist soil unless otherwise stated.)
 
-   A--0 to 6 inches; dark yellowish brown (10YR 4/4) sandy loam; weak medium granular structure; very friable; very strongly acid, pH 5.0; clear smooth boundary. (2 to 9 inches thick)             
+  A--0 to 15 centimeters (0 to 6 inches); dark yellowish brown (10YR 4/4) sandy loam; weak medium granular structure; very friable; very strongly acid, pH 5.0; clear smooth boundary. (5 to 23 centimeters (2 to 9 inches) thick)
 
-   E--6 to 12 inches; light yellowish brown (10YR 6/4) sandy loam; weak medium granular structure; very friable; very strongly acid, pH 5.0; gradual wavy boundary. (0 to 8 inches thick)            
+  E--15 to 30 centimeters (6 to 12 inches); light yellowish brown (10YR 6/4) sandy loam; weak medium granular structure; very friable; very strongly acid, pH 5.0; gradual wavy boundary. (0 to 20 centimeters (0 to 8 inches) thick)
 
-   Bt1--12 to 26 inches; yellow (10YR 7/6) sandy loam; weak medium subangular blocky structure; very friable; 5 percent fine faint yellow (10YR 7/8) mottles; very strongly acid, pH 5.0; gradual wavy boundary.                                                              
+  Bt1--30 to 66 centimeters (12 to 26 inches); yellow (10YR 7/6) sandy loam; weak medium subangular blocky structure; very friable; 5 percent fine faint yellow (10YR 7/8) mottles; very strongly acid, pH 5.0; gradual wavy boundary.
 
-   Bt2--26 to 37 inches; very pale brown (10YR 7/4) loam; weak medium subangular blocky structure; friable; 10 percent medium faint yellow (10YR 7/8) mottles; strongly acid, pH 5.5;  gradual wavy boundary. (Combined thickness of the Bt horizons is 10 to 30 inches)                                                                   
+  Bt2--66 to 94 centimeters (26 to 37 inches); very pale brown (10YR 7/4) loam; weak medium subangular blocky structure; friable; 10 percent medium faint yellow (10YR 7/8) mottles; strongly acid, pH 5.5; gradual wavy boundary. (Combined thickness of the Bt horizons is 25 to 76 centimeters (10 to 30 inches)
 
-   BC--37 to 49 inches; very pale brown (10YR 7/4) sandy loam; weak fine subangular blocky structure; very friable; 10 percent medium distinct white (10YR 8/1) and 15 percent medium faint yellow (10YR 7/8) mottles; strongly acid, pH 5.5; gradual wavy boundary. (0 to 20 inches thick)         
+  BC--94 to 124 centimeters (37 to 49 inches); very pale brown (10YR 7/4) sandy loam; weak fine subangular blocky structure; very friable; 10 percent medium distinct white (10YR 8/1) and 15 percent medium faint yellow (10YR 7/8) mottles; strongly acid, pH 5.5; gradual wavy boundary. (0 to 51 centimeters (0 to 20 inches) thick)
 
-   C--49 to 80 inches; reddish yellow (7.5YR 6/8) and white (10YR 8/1) and yellow (10YR 7/8) sandy loam; massive structure; very friable; strongly acid, pH 5.5. 
+  C--124 to 203 centimeters (49 to 80 inches); reddish yellow (7.5YR 6/8),  white (10YR 8/1), and yellow (10YR 7/8) sandy loam; massive; very friable; strongly acid, pH 5.5.
 
-TYPE LOCATION: Caswell County, North Carolina; Yanceyville sandy loam, 15 to 45 percent slope, in an area of Rhodhiss complex, 2 to 6 percent slopes; from the community of Pelham, 1.60 mile east southeast on Shady Grove (SR 1360) from the intersection of US Old Highway 29 and Shady Grove(SR 1360); 0.7 mile south on Mill Ridge Road(gravel road); 1,200 feet south southwest of curve on Mill Ridge Road, in mixed hardwoods; Park Springs, NC USGS topographic quadrangle;  lat. 36 degrees 29 minutes 56.00 seconds N. and long. 79 degrees 26 minutes 56.10 seconds W.  
+TYPE LOCATION: Caswell County, North Carolina; Yanceyville sandy loam, 15 to 45 percent slope, in an area of Rhodhiss sandy loam, 25 to 45 percent slopes; from the community of Pelham, 1.60 mile east southeast on Shady Grove (SR 1360) from the intersection of US Old Highway 29 and Shady Grove(SR 1360); 0.7 mile south on Mill Ridge Road(gravel road); 1,200 feet south southwest of curve on Mill Ridge Road, in mixed hardwoods; USGS Park Springs, North Carolina topographic quadrangle.
 
-RANGE IN CHARACTERISTICS: Solum thickness ranges from 20 to 40 inches. The solum is underlain by saprolite. Depth to bedrock, both hard and weathered, is more than 5 feet. Content of rock fragments ranges from 0 to 35 percent throughout, but individual subhorizons range up to 60 percent. Rock fragments consist of gravel, cobbles, stones and boulders. Reaction ranges from very strongly acid to moderately acid. Flakes of mica range from none to common in all horizons. 
+Latitude--36.4989
+Longitude-- -79.4489
+Datum--WGS84
 
-The A horizon is has hue of 7.5YR to 2.5Y, value of 3 to 6, and chroma of 2 to 4. It is fine sandy loam, sandy loam, loamy sand, or loamy coarse sand in the fine-earth fraction. 
+RANGE IN CHARACTERISTICS: 
+Solum thickness: 102 to 152 or more (40 to 60 inches) 
+Depth to Bedrock: Greater than 152 centimeters (60 inches)
+Depth to Seasonal High Water Table: Greater than 152 centimeters (60 inches)
+Rock Fragment Content: 0 to 35 percent, by volume, throughout. Some subhorizons range up to 60 perecnt. Rock fragments consist of gravel, cobbles, stones and boulders.
+Mica content: 0 to 20 percent, by volume throughout
+Soil Reaction: Very strongly acid to moderately acid 
 
-The E horizon, where present, has hue of 7.5YR to 2.5Y, value of 3 to 6, and chroma of 2 to 4. It is fine sandy loam, sandy loam, loamy sand, or loamy coarse sand in the fine-earth fraction. 
+RANGE OF INDIVIDUAL HORIZONS:
+A horizon:
+Color--hue of 7.5YR to 2.5Y, value of 3 to 6, chroma of 2 to 4 
+Texture (fine-earth fraction)--fine sandy loam, sandy loam, loamy sand, or loamy coarse sand 
 
-The Bt horizon has hue of 2.5YR to 10YR, value of 4 to 7, and chroma of 4 to 8. Mottles range from none to common and are in shades of red, brown, and yellow. Texture is dominantly sandy loam, coarse sandy loam, or loam in the fine-earth fraction. Some pedons may have thin subhorizons of sandy clay loam.
+E horizon: 
+Color--hue of 7.5YR to 2.5Y, value of 3 to 6, chroma of 2 to 4 
+Texture (fine-earth fraction)--fine sandy loam, sandy loam, loamy sand, or loamy coarse sand 
 
-The BC, where present, has colors and textures similar to the Bt, but may include loamy sand. 
+Bt horizon:
+Color--hue of 2.5YR to 10YR, value of 4 to 7, chroma of 4 to 8. Mottles range from none to common and are in shades of red, brown, and yellow. 
+Texture (fine-earth fraction)--sandy loam, coarse sandy loam, or loam. Some pedons may have thin subhorizons of sandy clay loam.
 
-The C horizon is highly weathered saprolite from felsic igneous and metamorphic rock, primarily granite and granite gneiss. 
+BC horizon:
+Color--hue of 2.5YR to 10YR, value of 4 to 7, chroma of 4 to 8. Mottles range from none to common and are in shades of red, brown, and yellow. 
+Texture (fine-earth fraction)--loamy sand, sandy loam, coarse sandy loam, or loam. 
 
-The Cr horizon, where present, is weathered felsic igneous and metamorphic rock, primarily granite and granite gneiss. 
+C horizon:
+Color--variable
+Texture--saprolite from felsic igneous and metamorphic rock, primarily granite and granite gneiss.
 
-The R horizon, where present, is hard felsic igneous and metamorphic rock, primarily granite and granite gneiss. 
+Cr horizon (if it occurs): 
+Texture--highly weathered felsic igneous and metamorphic rock, primarily granite and granite gneiss.
 
-COMPETING SERIES: There are no known soils in this family.  Similar soils in other families are the Bannertown, Devotion, Rhodhiss, and Stott Knob soils.  Bannertown soils are moderately deep to hard bedrock. Devotion soils are moderately deep to soft bedrock and deep or very deep to hard bedrock. Rhodhiss soils are very deep to bedrock and have a fine-loamy particle-size control section.  Stott Knob soils are moderately deep to soft bedrock and have a fine-loamy particle-size control section. 
+The R horizon (if it occurs): 
+Texture--hard felsic igneous and metamorphic rock, primarily granite and granite gneiss.
 
-GEOGRAPHIC SETTING: Yanceyville soils are on sloping ridgetops and sideslopes of the Piedmont uplands. Slopes range from 6 to about 45 percent. The soil formed in material weathered from felsic igneous and metamorphic rock, primarily granite and granite gneiss. The mean annual temperature ranges from 59 to 65 degrees F, and the mean annual precipitation ranges from 45 to 52 inches. 
+COMPETING SERIES: There are no known soils in this family. 
 
-GEOGRAPHICALLY ASSOCIATED SOILS: In addition to the similar Bannertown, Devotion, Rhodhiss, and Stott Knob soils, these include the Clifford, Fairview, Nathalie, Siloam, and Toast series.  Clifford, Fairview, Nathalie, and Toast are in the fine family.  Siloam soils are in a shallow family. 
+GEOGRAPHIC SETTING: 
+Landscape: Piedmont uplands
+Landform: Interstream divides, ridges, and side slopes
+Parent Material: Residuum from felsic igneous and metamorphic rocks, primarily granite and granite gneiss
+Slope: 6 to 45 percent
+Mean Annual Air Temperature: 11 to 14 degrees C (52 to 57 degrees F)
+Mean Annual Precipitation: 1143 to 1321 meters (45 to 52 inches)
+Frost Free Period: 160 to 205 days
 
-DRAINAGE AND PERMEABILITY: Well drained to excessively drained; runoff is medium to rapid; permeability is moderately rapid. 
+GEOGRAPHICALLY ASSOCIATED SOILS: 
+Bannertown soils--are moderately deep to hard bedrock. 
+Clifford soils--are red and clayey
+Devotion soils--are moderately deep to soft bedrock and deep or very deep to hard bedrock
+Fairview soils--are red and clayey
+Nathalie soils are claey
+Rhodhiss soils--are fine-loamy 
+Siloam soils--are shallow
+Stott Knob soils--are fine-loamy and moderately deep to soft bedrock
+Toast soils--are clayey
 
-USE AND VEGETATION: Mostly forested with post oak, white oak, and red oaks but there are some hickories, dogwoods, and shortleaf and loblolly pines. Cultivated areas are used for corn, oats, tobacco, vegetables, and pasture. 
+DRAINAGE AND SATURATED HYDRAULIC CONDUCTIVITY: 
+Agricultural Drainage Class: Well drained
+Index Surface Runoff: Medium
+Saturated Hydraulic Conductivity: High
 
-DISTRIBUTION AND EXTENT: The Southern Piedmont MLRA 136(mesic part) of North Carolina and Virginia. The series is not extensive. 
+USE AND VEGETATION: 
+Major Uses: Woodland, cropland and pasture.  
+Dominant Vegetation: Where wooded--post oak, white oak, and red oaks but there are some hickories, dogwoods, and shortleaf and loblolly pines. Where cultivated--corn, oats, tobacco, vegetables, and pasture.
 
-MLRA SOIL SURVEY REGIONAL OFFICE (MO) RESPONSIBLE: Raleigh, North Carolina 
+SOIL SURVEY REGIONAL OFFICE (SSRO) RESPONSIBLE: Auburn, Alabama
 
-SERIES ESTABLISHED: Caswell County, North Carolina; 2016 
+DISTRIBUTION AND EXTENT: 
+Distribution: North Carolina and Virginia 
+Extent: Low
 
-REMARKS: Yanceyville soils were previously mapped as Louisburg soils. The April 1997 relocation of the mesic/thermic line in North Carolina and Virginia necessitated the establishment of the Yanceyville series as a mesic counterpart to the Louisburg series.   
+SERIES ESTABLISHED: Caswell County, North Carolina; 2016
 
-Diagnostic horizons and features recognized in this pedon are: 
-Ochric epipedon - the zone from the surface of the soil to a depth of 12 inches (A and E horizons) 
-Argillic horizon - the zone from 12 to 37 inches below the surface (Bt1 and Bt2 horizons). 
-MLRA=136(mesic part) 
+REMARKS: Yanceyville soils were previously mapped as Louisburg soils. The April 1997 relocation of the mesic/thermic line in MLRA 136 in North Carolina and Virginia necessitated the establishment of the Yanceyville series as a mesic counterpart to the Louisburg series. The May 2026 revision changed the format.  No data was changed.
+
+Diagnostic horizons and soil characteristics recognized in this pedon:
+Ochric epipedon--the zone from 0 to 30 centimeters (0 to 12 inches) (A and E horizons)
+Argillic horizon--the zone from 30 to 94 centimeters (12 to 37 inches) (Bt horizons).
+ADDITIONAL DATA:
 Database Information:
-Data Mapunit ID--To be completed
+Data Mapunit ID--
 User Pedon ID-2015NC033740
 ________________________________________
 National Cooperative Soil Survey
