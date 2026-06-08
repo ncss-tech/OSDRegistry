@@ -1,0 +1,126 @@
+LOCATION CARICOCHE              PR
+
+Tentative Series
+ASR/AMA
+06/2026
+
+CARICOCHE SERIES
+
+MLRA(s)--273
+Depth Class--Very deep
+Drainage Class--Subaqueous drainage
+Water depth range--0 to 500 centimeters
+Saturated hydraulic conductivity--Moderately low to very high
+Parent Material--Loamy-skeletal lagoonal deposits
+Geomorphic location--Flood-tidal delta channel
+Slope--0 to 1 percent
+Mean Annual Air Temperature--26 degrees C (79 degrees F)
+Mean Annual Water Temperature--28 degrees C (82 degrees F)
+
+TAXONOMIC CLASS: Loamy-skeletal, mixed, subactive, nonacid, isohyperthermic Grossic Hydrowassents
+
+TYPICAL PEDON: Caricoche mucky loam on a flood-tidal delta channel between barrier islands south of the Jobos Bay saltwater lagoon. (Colors are for moist soil unless otherwise stated).
+
+ Aseg--0 to 6 centimeters; black (N 2.5/), mucky loam; structureless, massive; very fluid; moderately sulfurous odor; color change with 3 percent hydrogen peroxide, strong effervescence with 30 percent hydrogen peroxide; moderately alkaline (pH 8.1), moderately alkaline (pH 8.1) oxidized pH; clear boundary.
+
+ ACseg--6 to 19 centimeters; very dark greenish gray (10Y 3/1), gravelly loam; 30 percent coral fragments; structureless, massive; slightly fluid; strong sulfurous odor; color change with 3 percent hydrogen peroxide, strong effervescence with 30 percent hydrogen peroxide; moderately alkaline (pH 8.4), moderately alkaline (pH 8.1) oxidized pH; clear boundary.
+
+ Cseg1--19 to 30 centimeters; very dark greenish gray (5GY 3/1), very gravelly loam; 40 percent coral fragments; structureless, massive; slightly fluid; strong sulfurous odor; color change with 3 percent hydrogen peroxide, strong effervescence with 30 percent hydrogen peroxide; moderately alkaline (pH 8.2), moderately alkaline (pH 8.2) oxidized pH; abrupt boundary.
+
+ Cseg2--30 to 77 centimeters; dark greenish gray (10Y 4/1), extremely gravelly sandy clay loam; 60 percent coral fragments; structureless, massive; slightly fluid; slight sulfurous odor; color change with 3 percent hydrogen peroxide, moderate effervescence with 30 percent hydrogen peroxide; moderately alkaline (pH 8.3), moderately alkaline (pH 8.3) oxidized pH; clear boundary.
+
+ Cseg3--77 to 120 centimeters; dark greenish gray (10Y 4/1), extremely gravelly sandy loam; 70 percent coral fragments; structureless, massive; moderately fluid; moderately sulfurous odor; no color change with 3 percent hydrogen peroxide, no effervescence with 30 percent hydrogen peroxide; moderately alkaline (pH 8.3), moderately alkaline (pH 8.3) oxidized pH; very abrupt boundary.
+
+ Cseg4--120 to 182 centimeters; greenish gray (10Y 5/1), very shelly coarse loamy sand; 10 percent coral fragments and 25 percent shell fragments; structureless, massive; nonfluid; slight sulfurous odor; no color change with 3 percent hydrogen peroxide, no effervescence with 30 percent hydrogen peroxide; moderately alkaline (pH 8.4), moderately alkaline (pH 8.4) oxidized pH; abrupt boundary.
+
+ Cseg5--182 to 214 centimeters; dark greenish gray (10Y 4/1), sandy clay loam; structureless, massive; moderately fluid; slight sulfurous odor; no color change with 3 percent hydrogen peroxide, no effervescence with 30 percent hydrogen peroxide; moderately alkaline (pH 8.4), moderately alkaline (pH 8.1) oxidized pH.
+
+TYPE LOCATION: Guayama municipality, Puerto Rico. Near Cayo Caribe key in a flood-tidal delta channel, approximately 0.6 kilometers (0.4 miles) northeast of the southern most portion of Cayo Caribe Key and approximately 0.8 kilometers (0.5 miles) south from Punta Pozuelo's southewestern most tip in Jobos Bay. 
+
+Latitude--17.9250460 
+Longitude-- -66.2101690
+Datum--WGS84
+Coordinate source--Manually entered from GPS
+
+RANGE IN CHARACTERISTICS:
+Depth to bedrock--Greater than 200 centimeters
+Manner of failure--slightly to very fluid throughout the particle size
+Reaction throughout--Slightly to strongly alkaline (pH 7.4 to 9.0)
+Oxidized reaction--Moderately alkaline to strongly alkaline (pH 7.9 to 9.0)
+Electrical conductivity (1:5 soil-water) throughout--4.0 to 10.0 dS/m 
+throughout 
+Sulfurous odor--No odor to strong sulfurous odor throughout 
+Coral fragments--35 percent or more by volume from 0 to 100 centimeters
+
+Aseg horizon:
+Hue--10Y, or N 
+Value--2.5 or 3
+Chroma--0 to 2
+Texture--loam, sandy loam or their mucky analogs
+
+ACseg horizon (where present):
+Hue--10Y 
+Value--3 to 4 
+Chroma--1
+Texture--loam or sandy loam or their gravelly or very gravelly analogs
+
+Cseg horizons:
+Hue--N, 5Y, 10Y, 5GY
+Value--3 to 6
+Chroma--0 to 2 
+Texture--loam, sandy clay loam, sandy loam, loamy sand, or sand or their very gravelly or extremely gravelly analogs
+
+COMPETING SERIES: Placeres soils are in the same family. 
+Placeres soils--primarily consist of shell fragments instead of coral fragments and are found on estuarine tidal streams and creeks near the mainland.
+
+GEOGRAPHIC SETTING:
+Parent Material--Loamy-skeletal lagoonal deposits (reef fragments)
+Landscape--Coastal lagoons in semiarid coastal plain, Puerto Rico
+Landform--Flood-tidal delta channels
+Mean Annual Air Temperature--22 to 31 degrees C (72 to 88 degrees F)
+Mean Annual Precipitation--508 to 1,145 millimeters (20 to 45 inches)
+Mean Annual Water Temperature--26 to 32 degrees C (79 to 90 degrees F)
+Water salinity range--28 to 43 parts per thousand
+
+GEOGRAPHICALLY ASSOCIATED SOILS:
+These are the Bahia Jobos, Aguas Llanas and Bajio soils
+Baha Jobos soils--occur on flood-tidal delta slopes and do not have skeletal particle size control sections consisting of coral fragments
+Aguas Llanas soils--occur on flood-tidal delta flats, have much finer textures throughout, and lack considerable coral fragments
+Bajio soils--are moderately deep to limestone reef bedrock, occur in shallower water depths, and are often vegetated 
+
+DRAINAGE AND SATURATED HYDRAULIC CONDUCTIVITY:
+Drainage class--Subaqueous (permanently submersed)
+Saturated hydraulic conductivity--Moderately low to very high
+Soil moisture regime--Peraquic
+Soil is continuously inundated by saline water
+
+USE AND VEGETATION:
+Major Uses--Used for wildlife habitat, recreational boating, fishing, swimming, marinas, mooring fields, and commercial shellfish habitat.  These soils provide improved water quality and flood / storm surge water storage.
+Dominant Vegetation--Common subaquatic vegetation (SAV) species include Thalassia (Turtle grass), Syringodium (manatee grass), halimeda (watercress algae), and Halofila (paddle grass). However, vegetation is predominantly on the margins of the channels due to higher energy tidal currents and new soil deposits
+
+DISTRIBUTION AND EXTENT: 
+General area--Located along coasts and bays of Puerto Rico.
+Land Resource Region--Z - Caribbean Region
+MLRA--273 - Semiarid Coastal Plains
+Extent--Small
+
+SOIL SURVEY REGIONAL OFFICE (SSRO) RESPONSIBLE: SPECIAL PROJECTS OFFICE
+
+SERIES ESTABLISHED: Guayama Municipality, Puerto Rico; 2026. The name refers to the composition of materials within the soil, the mix of coral, shells and sediments.
+
+REMARKS: This subaqueous series is mapped in areas previously published as water in Puerto Rico Soil Survey publications.
+
+Diagnostic horizons and features recognized in this pedon-
+Peraquic soil moisture regime--Positive soil water potential (permanently submerged) at the soil surface).
+Ochric epipedon--the zone 0 to 19 centimeters (0 to 8 inches).
+Oxidized pH values--the shell fragments and Halimeda materials that occur throughout this soil buffer the oxidized pH preventing the development of hypersulfidic materials
+Loamy-Skeletal--Zone from 0 to 100 centimeters have an average of 35 percent or more coral fragments.
+High n-value--slightly to very fluid throughout
+
+ADDITIONAL DATA:
+OSD pedon: 2024PR057704
+Supporting pedons: 2024PR057703
+
+________________________________________
+National Cooperative Soil Survey
+U.S.A.

@@ -1,0 +1,124 @@
+LOCATION FALSE CAPE             NC+VA
+
+Tentative Series
+JDK-RBT
+06/2026
+
+FALSE CAPE SERIES
+
+MLRA(s)--153B
+Depth class--Very deep
+Drainage class--Subaqueous
+Water depth range--0 to 2 meter (0 to 7 feet)
+Parent material--Sandy lagoonal deposits over loamy estuarine deposits
+Geomorphic location--Submerged wave-built terraces
+Slope range--0 to 1 percent
+Mean annual air temperature--17 degrees C (63 degrees F)
+Mean annual water temperature--15 degrees C (59 degrees F)
+
+TAXONOMIC CLASS: Sandy over loamy, mixed, active, nonacid, thermic Typic Fluviwassents
+
+TYPICAL PEDON: False Cape loamy sand on a submerged wave-built terrace under 1.5 meters of brackish water (colors are for moist soil unless otherwise stated; electrical conductivity is 1:5 by volume solution mixture unless otherwise stated).
+
+ Cseg1--0 to 28 centimeters; olive gray (5Y 5/2) loamy sand; structureless, single grain; nonsticky, nonplastic; nonfluid; 14 percent shell fragments; slight sulfurous odor; color change with 3 percent hydrogen peroxide; slight effervescence with 30 percent hydrogen peroxide; nonsaline (0.6 dS/m); neutral (pH 7.1); clear boundary.
+
+ Cseg2--28 to 71 centimeters; olive gray (5Y 4/2) sand; structureless, single grain; nonsticky, nonplastic; nonfluid; slight sulfurous odor; color change with 3 percent hydrogen peroxide; no effervescence with 30 percent hydrogen peroxide; nonsaline (0.5 dS/m); slightly alkaline (pH 7.5); abrupt boundary.
+
+ 2Cseg3--71 to 120 centimeters; very dark greenish gray (10Y 3/1) clay loam; structureless, massive; slightly sticky, slightly plastic; moderately fluid; 3 percent shell fragments; moderate sulfurous odor; color change with 3 percent hydrogen peroxide; slight effervescence with 30 percent hydrogen peroxide; nonsaline (0.4 dS/m); slightly alkaline (pH 7.8); clear boundary.
+
+ 2Cseg4--120 to 146 centimeters; very dark greenish gray (10Y 3/1) shelly loam; structureless, massive; slightly sticky, slightly plastic; moderately fluid; 15 percent shell fragments; moderate sulfurous odor; color change with 3 percent hydrogen peroxide; slight effervescence with 30 percent hydrogen peroxide; nonsaline (0.5 dS/m); slightly alkaline (pH 7.7); clear boundary.
+
+ 3Cseg5--146 to 200 centimeters; dark greenish gray (10Y 4/1) loamy sand; structureless, single grain; nonsticky, nonplastic; nonfluid; 2 percent shell fragments; slight sulfurous odor; color change with 3 percent hydrogen peroxide; slight effervescence with 30 percent hydrogen peroxide; nonsaline (0.5 dS/m); moderately alkaline (pH 7.9).
+
+TYPE LOCATION: Currituck County, North Carolina; North Landing River; approximately 1.0 kilometers (0.6 miles) west of the intersection of Marsh Causeway and Martin Lane, and approximately 3.4 kilometers (2.1 miles) south of the intersection of Princess Anne Road and Public Landing Road (Virginia); USGS topographic quadrangle: Creeds.
+
+Latitude--36.5393170
+Longitude-- -76.0068300
+Datum--WGS84
+Coordinate source--From hand-held GPS
+
+RANGE IN CHARACTERISTICS:
+Depth to bedrock--Greater than 200 centimeters
+Manner of failure / fluidity class--Nonfluid to slightly fluid in the lagoonal deposits and slightly fluid to very fluid in the estuarine deposits 
+Depth to lithologic discontinuity--24 to 75 centimeters
+Shell fragments--0 to 20 percent, by volume
+Sulfurous odor--None to strong throughout
+Soil reaction--Neutral to moderately alkaline throughout (pH 6.6 to 8.4)
+Oxidized reaction--Moderately acid to strongly alkaline throughout (pH 5.6 to 9.0)
+Depth to hypersulfidic / sulfidic materials (oxidized pH 4.0 or less)--Greater than 100 centimeters
+Electrical conductivity (1:5 soil to water solution)-one or more horizons within 100 centimeters of the mineral soil surface have an EC of 0.6 dS/m or greater
+Salinity class--Nonsaline to very slightly saline
+Total soil organic carbon stock 0 to 100 centimeters--5 to 18 kg m-2
+Total soil organic carbon stock 0 to 200 centimeters--15 to 42 kg m-2
+
+Cseg or CAseg horizons:
+Hue--2.5Y to 5GY, or neutral
+Value--2.5 to 5
+Chroma--0 to 2
+Texture--Sand, fine sand, loamy sand, loamy fine sand, and sandy loam
+Organic carbon density--0.2 to 7.1 kg m-3
+
+2Cseg horizon:
+Hue--5Y to 5GY
+Value--2.5 to 4
+Chroma--1 or 2
+Texture--Loam, fine sandy loam, silt loam, clay loam, silty clay loam, or their shelly analogs
+Organic carbon density--1.9 to 37 kg m-3
+
+3Cseg, 3Aseg, or 3ACseg horizons (where present):
+Hue--10YR to 10Y
+Value--2 to 5
+Chroma--1
+Texture--Fine sand, loamy sand, loamy fine sand, sandy loam, or loam
+Organic carbon density--0.2 to 7.1 kg m-3
+
+COMPETING SERIES:
+There are no competing series in the same family.
+
+GEOGRAPHIC SETTING:
+Landscape--Barrier-island lagoons and southeast coastal plain estuaries
+Landform--Submerged wave-built terraces
+Parent material--Sandy lagoonal deposits over loamy estuarine deposits
+Slope--0 to 1 percent
+Water depth range--0 to 2 meter (0 to 7 feet) below mean sea level
+Water halinity range--0.5 to 5 parts per thousand
+
+GEOGRAPHICALLY ASSOCIATED SOILS:
+These are the Kill Devil, Lost, Trinity Harbor and Whalehead soils.
+Kill Devil soils--are on low-energy lagoon bottoms, fluviomarine bottoms, and mainland coves and formed in fine-loamy lagoonal deposits.
+Lost soils--are on submerged tidal marshes, have O horizons, and contain hypersulfidic materials.
+Trinity Harbor soils--are on high-energy lagoon bottoms and formed in coarse-loamy lagoonal deposits.
+Whalehead soils--are on submerged wave-cut platforms and formed in sandy lagoonal deposits over sandy fluviomarine deposits.
+
+DRAINAGE AND SATURATED HYDRAULIC CONDUCTIVITY:
+Drainage class--Subaqueous
+Saturated hydraulic conductivity--Moderately low to high
+Soil moisture regime--Peraquic
+Soil is continuously inundated by brackish water. The water level is primarily driven by wind tides.
+
+USE AND VEGETATION:
+Major uses--The area is used for recreational fishing, swimming, hunting, and boating. Uses also include commercial fishing and crabbing.
+Typical vegetation--No vegetation was observed during ecological inventories of False Cape soils, perhaps due to investigations taking place too early in the growing season. However, that does not rule out the possibility of these soils supporting SAV. Vegetation may include widgeon grass (Ruppia maritima), sago pondweed (Stuckenia pectinata), and Eurasian milfoil (Myriophyllum spicatum).
+
+DISTRIBUTION AND EXTENT:
+General area--Coastal plain estuaries in North Carolina and Virgina
+Land Resource Regions--T - Atlantic and Gulf Coast Lowland Forest and Crop Region
+MLRA(s)--153B
+Extent--Small  
+
+SOIL SURVEY REGIONAL OFFICE (SSRO) RESPONSIBLE: Special Projects Region
+
+SERIES ESTABLISHED: Currituck County, North Carolina, 2026
+
+REMARKS:
+The series is named after an area on Virginia's Atlantic coast that deceptively resembled Cape Henry. This led to numerous shallow-water shipwrecks during the 19th century and gave False Cape the reputation as a shipping graveyard. False Cape soils were previously mapped as water in North Carolina and Virginia soil surveys.
+
+Diagnostic horizons and other diagnostic soil characteristics recognized in this pedon are (Keys to Soil Taxonomy, Thirteenth Edition, 2022):
+Fluidity--The zone from 71 to 146 centimeters has a fluidity class of moderately fluid.
+Lithologic discontinuity--The zone from 71 to 146 centimeters and 146 to 200 centimeters formed in different depositional energies.
+Peraquic feature--Zero or positive soil water potential at the soil surface (permanently submerged).
+
+NASIS User Site and Pedon ID: S2026NC053005
+____________________________________________________________________________
+National Cooperative Soil Survey
+U.S.A.

@@ -1,163 +1,145 @@
 LOCATION DRAPERMILL             VA
 
 Established Series
-MAV, Rev. MHC
-10/2021
+MAV, Rev.MHC; DTA
+06/2026
 
 DRAPERMILL SERIES
 
-MLRA(s): 136
+MLRA(s): 136 (mesic part)
+Soil Survey Regional Office (SSRO) Responsible: Southeast
 Depth Class: Moderately deep
 Drainage Class: Well drained
 Permeability: Moderate
-Surface Runoff: High to very high
+Index Surface Runoff: High to very high
+Saturated Hydraulic Conductivity Class: Moderately high
+Shrink-Swell Potential: Low
+Landscape: Piedmont uplands
+Landform: Interstream divides, ridges, and side slopes 
 Parent Material: Residuum from phyllite or schist
 Slope: 25 to 75 percent
-Mean Annual Air Temperature (type location): 55 degrees F.
-Mean Annual Precipitation (type location): 45 inches
+Mean Annual Air Temperature (type location): 13 degrees C (55 degrees F)
+Mean Annual Precipitation (type location): 1143 millimeters (45 inches)
 
-TAXONOMIC CLASS:  Fine-loamy, mixed, semiactive, mesic Typic Hapludults
+TAXONOMIC CLASS: Fine-loamy, mixed, semiactive, mesic Typic Hapludults
 
 TYPICAL PEDON: Drapermill gravelly silt loam, on a 30 percent slope, in mixed hardwood and pine woodland (Colors are for moist soil unless otherwise indicated.)
 
- Oi--0 to 2 inches; loose leaves, twigs, and moss.
+  Oi--0 to 5 centimeters (0 to 2 inches); loose leaves, twigs, and moss.
 
- A--2 to 5 inches; dark yellowish brown (10YR 4/4) gravelly silt loam; weak fine granular structure; very friable, nonsticky and nonplastic; common very fine through very coarse roots; 16 percent subrounded quartz gravels and subangular phyllite channers; very strongly acid (pH 4.5); clear smooth boundary.
+  A--5 to 13 centimeters (2 to 5 inches); dark yellowish brown (10YR 4/4) gravelly silt loam; weak fine granular structure; very friable, nonsticky and nonplastic; common very fine through very coarse roots; 16 percent subrounded quartz gravels and subangular phyllite channers; very strongly acid (pH 4.5); clear smooth boundary.
 
- BA--5 to 9 inches; yellowish brown (10YR 5/6) gravelly silt loam; weak fine subangular blocky structure; very friable, nonsticky and nonplastic; common very fine through very coarse roots; few medium and coarse tubular pores; 16 percent subrounded quartz gravels and subangular phyllite channers; very strongly acid (pH 4.7); clear smooth boundary.
+  BA--13 to 23 centimeters (5 to 9 inches); yellowish brown (10YR 5/6) gravelly silt loam; weak fine subangular blocky structure; very friable, nonsticky and nonplastic; common very fine through very coarse roots; few medium and coarse tubular pores; 16 percent subrounded quartz gravels and subangular phyllite channers; very strongly acid (pH 4.7); clear smooth boundary.
 
- Bt--9 to 23 inches; strong brown (7.5YR 5/6) gravelly silt loam; moderate fine subangular blocky structure; friable, slightly sticky and slightly plastic; common very fine through very coarse roots; few medium and coarse tubular pores; few faint clay films on faces of peds; 16 percent subrounded quartz gravels and subangular phyllite channers; strongly acid (pH 5.1); gradual smooth boundary.
+  Bt--23 to 58 centimeters (9 to 23 inches); strong brown (7.5YR 5/6) gravelly silt loam; moderate fine subangular blocky structure; friable, slightly sticky and slightly plastic; common very fine through very coarse roots; few medium and coarse tubular pores; few faint clay films on faces of peds; 16 percent subrounded quartz gravels and subangular phyllite channers; strongly acid (pH 5.1); gradual smooth boundary.
 
- BC--23 to 31 inches; strong brown (7.5YR 5/6) gravelly silt loam; weak fine subangular blocky structure; friable, nonsticky and nonplastic; few very fine through very coarse roots; 16 percent subrounded quartz gravels and subangular phyllite channers; strongly acid (pH 5.1); clear irregular boundary.
+  BC--58 to 79 centimeters (23 to 31 inches); strong brown (7.5YR 5/6) gravelly silt loam; weak fine subangular blocky structure; friable, nonsticky and nonplastic; few very fine through very coarse roots; 16 percent subrounded quartz gravels and subangular phyllite channers; strongly acid (pH 5.1); clear irregular boundary.
 
- C/Bt--31 to 37 inches; C part is 60% strong brown (7.5YR 5/6) gravelly silt loam; massive; friable, nonsticky, nonplastic; 20 percent subangular phyllite channers; B part is 40% red (10R 4/6) silty clay; moderate fine subangular blocky structure; firm, sticky, plastic; common distinct clay films on faces of peds; 5 percent subangular phyllite channers; C and B parts are strongly acid (pH 5.1); c;ear irregular boundary.
+  C/Bt--79 to 94 centimeters (31 to 37 inches); C part is 60% strong brown (7.5YR 5/6) gravelly silt loam; massive; friable, nonsticky, nonplastic; 20 percent subangular phyllite channers; Bt part is 40% red (10R 4/6) silty clay; moderate fine subangular blocky structure; firm, sticky, plastic; common distinct clay films on faces of peds; 5 percent subangular phyllite channers; C and B parts are strongly acid (pH 5.1); clear irregular boundary.
 
- R--37 inches; hard, unweathered phyllite.
+  R--94 centimeters (37 inches); hard, unweathered phyllite.
 
-TYPE LOCATION: Franklin County, Virginia, located 5,300 feet north 31 degrees east of the intersection of State Routes 619 and 854; in woodland; in the southeastern part of Franklin County; USGS Gladehill topographic Quadrangle; lat. 36 degrees 54 minutes 16.3 seconds N. and long. 79 degrees 46 minutes 34.5 seconds W.
+TYPE LOCATION: Franklin County, Virginia, located 5,300 feet north 31 degrees east of the intersection of State Routes 619 and 854; in woodland; in the southeastern part of Franklin County; USGS Gladehill, Virginia topographic quadrangle.
+
+Latitude--36.9041
+Longitude-- -79.7758
+Datum--WGS84
 
 RANGE IN CHARACTERISTICS:
-Depth to Bedrock: 20 to 40 inches to soft and hard
-Depth to Seasonal High Water Table: More than 72 inches
-Rock Fragments: 0 to 35 percent, by volume, throughout
+Thickness of Argillic Horizon: 28 to 89 centimeters (11 to 35 inches)
+Depth to Bedrock: 51 to 102 centimeters (20 to 40 inches) to hard
+Depth to Seasonal High Water Table: More than 183 centimeters (72 inches)
+Rock Fragment Content: 0 to 35 percent, by volume, throughout
 Soil Reaction: Extremely acid to strongly acid, except where limed
-Thickness of Argillic horizon: 11 to 35 inches
-Other Features: Flakes of mica, none to common throughout 
+Other Features: Flakes of mica, none to common throughout
 
 RANGE OF INDIVIDUAL HORIZONS:
-
 A horizon:
-Color--hue of 7.5YR or 10YR, value of 4 through 6, and chroma of 4 or 6
-Texture (fine-earth fraction)-fine sandy loam loam, silt loam
+Color--hue of 7.5YR or 10YR, value of 4 through 6, chroma of 4 or 6
+Texture (fine-earth fraction)-fine sandy loam, loam, or silt loam
 
 BA horizon:
-Color--hue of 7.5YR or 10YR, value of 4 OR 5, and chroma of 4 OR 6
-Texture (fine-earth fraction)- fine sandy loam, loam, silt loam, clay loam, silty clay loam
+Color--hue of 7.5YR or 10YR, value of 4 OR 5, chroma of 4 or 6
+Texture (fine-earth fraction)- fine sandy loam, loam, silt loam, clay loam, or silty clay loam
 
 Bt horizon:
-Color--hue of 2.5YR through 10YR, value of 4 or 5, and chroma of 4 through 8
-Texture (fine-earth fraction)-loam, silt loam, clay loam, silty clay loam
+Color--hue of 2.5YR through 10YR, value of 4 or 5, chroma of 4 to 8
+Texture (fine-earth fraction)-loam, silt loam, clay loam, or silty clay loam
 
 BC horizon:
-Color--hue of 2.5YR through 10YR, value of   5 or 6, and chroma of 4 through 8
-Texture (fine-earth fraction)-loam, silt loam, clay loam, silty clay loam
+Color--hue of 2.5YR through 10YR, value of 5 or 6, chroma of 4 to 8
+Texture (fine-earth fraction)-loam, silt loam, clay loam, or silty clay loam
 
 C horizon (if it occurs):
-Color--hue of 2.5YR through 10YR, value of 4 through 8, and chroma of 4 through 8, or it is multicolored   
-Texture (fine-earth fraction)-fine sandy loam, loam, silt loam, clay loam, silty clay loam
+Color--hue of 2.5YR through 10YR, value of 4 through 8, chroma of 4 to 8, or it is multicolored
+Texture (fine-earth fraction)-fine sandy loam, loam, silt loam, clay loam, or silty clay loam
 
 C/Bt horizon:
-Horizon of parent material and translocated clay directly above bedrock. Translocated clay textures are usually heavier and redder than overlying eluvial horions.
+Horizon of parent material and translocated clay directly above bedrock. Translocated clay textures are usually heavier and redder than overlying eluvial horizons.
 
 COMPETING SERIES:
-
-In same family:
-Chetwynd soils-very deep, formed in dissected glacial outwash materials
-Gilpin soils-formed in material from siltstone and shale
-Gilwood soils-formed in material from siltstone and shale
-Glenelg soils-very deep, formed in material from felsic crystalline rock such as mica schist
-Rhodhiss soils-very deep, formed in material from felsic crystalline rock such as mica schist
-Tate soils-very deep, formed in alluvium and colluvium from crystalline rock
-
-In subactive family:
-Brasstown-deep, formed in residuum from metasediments, in Appalachian Mountains
-Junaluska-formed in residuum from metasediments, in Appalachian Mountains
-Sauratown-formed in residuum from high-grade metamorphic rock
-
-In active family:
-Edneytown-very deep, formed in residuum from granite, gneiss, and schist, in Appalachian Mountains
-Gladstone-very deep, formed in residuum and colluvium from granitic gneiss, in Appalachian Mountains
-Millstone-very deep, formed in alluvium on stream terraces in glaciated areas
-Pigeonroost-formed in residuum from felsic high-grade metamorphic or igneous rock, in Appalachian Mountains
-Shelocta-deep an dvery deep, colluvium from shale, siltstone and sandstone
-Syenite-formed in loess over residuum from granite
-
-Soils previously in mixed family, without activity class determined this date:
-Albemarle, Allegheny, Allenwood, Arendtsville, Bedington, Bucks, Butano, Chester, Clymer, Edgemont, Elsinboro, Eubanks, Ezel, Frankstown, Freehold, Joanna, Leck Kill, Leedsville, Lonon, Meadowville, Murrill, Nixon, Pineville, Quakertwon, Rayne, Shouns, Ungers, Whiteford.
+Rhodhiss soils--are very deep and formed in material from felsic crystalline rock such as mica schist
 
 GEOGRAPHIC SETTING:
-Landscape: Piedmont
-Landform: Interfluves and ridges
-Geomorphic Component: Interfluves and sideslopes
-Elevation: 800 to 1600 feet
-Parent Material: residuum from phyllites and schists
-Mean Annual Air Temperature: 52 to 57 degrees
-Mean Annual Precipitation: 40 to 60 inches
-Frost Free Period: 175 to 205 days 
+Landscape: Piedmont uplands
+Landform: Interstream divides, ridges, and side slopes 
+Elevation: 244 to 488 meters (800 to 1600 feet)
+Parent Material: Residuum from phyllite or schist
+Mean Annual Air Temperature: 11 to 14 degrees C (52 to 57 degrees F)
+Mean Annual Precipitation: 1020 to 1520 millimeters (40 to 60 inches)
+Frost Free Period: 175 to 205 days
 
 GEOGRAPHICALLY ASSOCIATED SOILS:
-Buffstat soils- >35 percent clay, bedrock at 40 to 60 inches
-Bugley soils- >35 percent rock fragments, 10 to 20 inches to bedrock
-Fairystone soils - >35 percent rock fragments
-Littlejoe soils- >35 percent clay, bedrock at 40 to 60 inches
-Penhook soils - >35 percent clay, more than 60 inches to bedrock
-Strawfield soils - >35 percent clay
+Buffstat soils--are clayey and have a depth to bedrock of 102 to 152 centimeters (40 to 60 inches)
+Bugley soils--are clayey and have a depth to bedrock of 25 to 51 centimeters (10 to 20 inches)
+Fairystone soils--have over 35 percent rock fragments
+Littlejoe soils--are clayey and have a depth to bedrock of 102 to 152 centimeters (40 to 60 inches)
+Penhook soils--are clayey and have a depth to bedrock of greater than 152 centimeters (60 inches)
+Strawfield soils--are clayey
 
-DRAINAGE AND PERMEABILITY:
-  Agricultural Drainage Class: Well drained
-  Permeability of Restrictive Layer (upper 60 inches): Moderate
-  Internal Free Water Occurrence: Very deep and/or absent
+DRAINAGE AND SATURATED HYDRAULIC CONDUCTIVITY: 
+Agricultural Drainage Class: Well drained
+Index Surface Runoff: High to very high 
+Saturated Hydraulic Conductivity: Moderately high
+
 USE AND VEGETATION:
-  Major Uses: Woodland, few areas in pasture
-  Dominant Vegetation: Where wooded-mixed hardwood and pine.
+Major Uses: Woodland and some pasture
+Dominant Vegetation: Where wooded--mixed hardwood and pine.
 
-MLRA SOIL SURVEY REGIONAL OFFICE (MO) RESPONSIBLE: Raleigh, North Carolina
+SOIL SURVEY REGIONAL OFFICE (SSRO) RESPONSIBLE: Auburn, Alabama
 
 DISTRIBUTION AND EXTENT:
-  Distribution: Virginia
-  Extent: Small
+Distribution: Virginia
+Extent: Small
 
 SERIES ESTABLISHED: Franklin County, Virginia, 2004
 
-REMARKS: 
-Diagnostic horizons and soil characteristics recognized in this pedon are:
+REMARKS: The soil horizon depths were revised on 10/2021 to ensure the description began at the soil surface. The June 2026 revision changed the format.  No data was changed.
 
-Ochric epipedon--the zone from 0 to 9 inches (O, A and BA horizon)
-Argillic horizon--the zone from 9 to 23 inches (Bt horizon)
-Lithic contact-37 inches (R horizon)
-Series control section--the zone from 0 to 37 inches
+Diagnostic horizons and soil characteristics recognized in this pedon:
+Ochric epipedon--the zone from 0 to 23 centimeters (0 to 9 inches) (O, A and BA horizon)
+Argillic horizon--the zone from 23 to 58 centimeters (9 to 23 inches) (Bt horizon)
+Lithic contact--94 centimeters (37 inches) (R horizon)
 
-The soil horizon depths were revised on 10/2021 to ensure the description began at the soil surface.
-
-ADDITIONAL DATA: This pedon sampled as S99VA067-008. 
-
+ADDITIONAL DATA: This pedon sampled as S99VA067-008.
 DATA MAP UNIT ID: 27439
 
 TABULAR SERIES DATA:
 
-FloodL FloodH  Watertable Kind Months  Bedrock Hardness
-NONE           >72                     20-40   HARD
+FloodL FloodH  Watertable Kind  Months  Bedrock Hardness
+NONE           >72                      20-40   HARD
 
-Depth  Texture                3-inches No-10  Clay% 
-0-9    FSL,L, SIL              0-5     50-100 10-27      
-0-9    GR-FSL,GR-L, GR-SIL     0-5     50-100 10-27      
-9-37   L, CL, SICL             0-5     50-100 18-35
-37     UWB                                
+Depth  Texture                3-Inch   No-10     Clay% 
+0-9    FSL,L, SIL              0-5     50-100    10-27      
+0-9    GR-FSL,GR-L, GR-SIL     0-5     50-100    10-27      
+9-37   L, CL, SICL             0-5     50-100    18-35
+37     UWB                      -        -         -
 
-Depth  -pH-    O.M.   Permeab  Shrnk-Swll
-0-9   3.5-4.5 1.5-3.0 2.0-6.0  LOW
-9-37  3.5-4.5 0.0-0.5 0.6-2.0  LOW
+Depth  -pH-      O.M.     Permeab   Shrnk-Swll
+0-9   3.5-4.5   1.5-3.0   2.0-6.0   LOW
+9-37  3.5-4.5   0.0-0.5   0.6-2.0   LOW
 37
 
+________________________________________
 National Cooperative Soil Survey
 U.S.A.
