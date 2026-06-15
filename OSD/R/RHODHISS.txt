@@ -2,7 +2,7 @@ LOCATION RHODHISS               NC+VA
 
 Established Series
 DTK/MHC/JAK/DTA; Rev. DTA
-04/2026
+06/2026
 
 RHODHISS SERIES
 
@@ -14,7 +14,8 @@ Index Surface Runoff: Low to high
 Saturated Hydraulic Conductivity Class: Moderately high
 Shrink-Swell Potential: Low
 Landscape: Piedmont upland
-Landform: Interstream divides, ridges, and side slopes Geomorphic Component: Parent Material: Residuum from felsic crystalline rock
+Landform: Interstream divides, ridges, and side slopes 
+Parent Material: Residuum from felsic crystalline rock
 Slope: 2 to 95 percent
 Elevation (type location): 338 meters (1110 feet)
 Frost Free Period (type location): 176 days
@@ -23,7 +24,7 @@ Mean Annual Precipitation (type location): 1168 millimeters (46 inches)
 
 TAXONOMIC CLASS: Fine-loamy, mixed, semiactive, mesic Typic Hapludults
 
-TYPICAL PEDON: Rhodhiss sandy loam in an area of Rhodhiss sandy loam, 25 to 45 percent slopes, on a 32 percent west-facing slope, in recently planted pines. (Colors are for moist soil, unless otherwise indicated.)
+TYPICAL PEDON: Rhodhiss sandy loam (in an area of Rhodhiss sandy loam, 25 to 45 percent slopes), on a 32 percent west-facing slope, in recently planted pines. (Colors are for moist soil, unless otherwise indicated.)
 
   A--0 to 8 centimeters (0 to 3 inches); dark grayish brown (10YR 4/2) sandy loam, brown 10YR 5/3, dry; weak medium granular structure; very friable; many fine and common medium roots; few fine mica flakes; slightly acid; clear smooth boundary. (5 to 25 centimeters (2 to 10 inches) thick)
 
@@ -105,6 +106,7 @@ Frost Free Period: 160 to 205 days
 GEOGRAPHICALLY ASSOCIATED SOILS:
 Bannertown soils--are coarse-loamy and moderately deep to bedrock
 Clifford soils--are clayey and are red in color
+Devotion soils--are coarse-loamy and moderately deep to bedrock
 Fairview soils--are clayey and are red in color
 Huddleston soil--have higher mica content
 Nathalie soils--are clayey 
@@ -131,7 +133,7 @@ Extent: Moderate
 
 SERIES ESTABLISHED: Burke County, North Carolina; 2003.
 
-REMARKS: The Rhodhiss series was previously mapped with the Rion series. The April 1997 relocation of the mesic/thermic line in North Carolina and Virginia necessitated the establishment of the Rhodhiss series as a mesic counterpart to the Rion series. The April 2026 revision changed the format.  No data was changed.
+REMARKS: The Rhodhiss series was previously mapped with the Rion series. The April 1997 relocation of the mesic/thermic line in North Carolina and Virginia necessitated the establishment of the Rhodhiss series as a mesic counterpart to the Rion series. The April 2026 revision changed the format.  No data was changed. The June 2026 revision added the soil Devotion to geographically associated soils.
 
 Diagnostic horizons and soil characteristics recognized in this pedon are:
 Ochric epipedon--the zone from 0 to 20 centimeters (0 to 8 inches) (A and E horizons)
@@ -160,6 +162,7 @@ Depth   -pH-    -O.M.-   Salin  Permeab   Shnk-Swll
 0-3    4.5-6.5  0.5-2.0  0-0    0.6-2.0    LOW
 3-8    4.5-6.5  0.0-0.5  0-0    0.6-2.0    LOW
 8-60   4.5-6.5  0.0-0.5  0-0    0.6-2.0    LOW
+
 
 ________________________________________
 National Cooperative Soil Survey
