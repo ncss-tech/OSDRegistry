@@ -2,7 +2,7 @@ LOCATION ENON                   NC+AL GA SC VA
 
 Established Series
 Rev. AG;DTA
-09/2025
+06/2026
 
 ENON SERIES
 
@@ -100,7 +100,8 @@ Frogsboro soils--have a seasonally high water table at 30 to 46 centimeters (12 
 Gaston soils--have rhodic colors and lack a high base saturation
 Iredell soils--have a seasonal high water table at 30 to 61 centimeters (12 to 24 inches) 
 Lloyd soils--have rhodic colors and lack a high base saturation
-Poindexter--have a loamy subsoil and have a depth to bedrock of 51 to 102 centimeters (20 to 40 inches)
+Poindexter--have a fine-loamy subsoil and have a depth to bedrock of 51 to 102 centimeters (20 to 40 inches)
+Rowan soils--have a fine-loamy subsoil
 Sedgefield soils--have a seasonal high water table at 30 to 46 centimeters (12 to 18 inches)
 Virgilina soils--have a seasonal high water table at 30 to 61 centimeters (12 to 24 inches)
 Wilkes  soils--have a depth to bedrock of 25 to 51 centimeters (10 to 20 inches))
@@ -127,7 +128,7 @@ SERIES ESTABLISHED: Greene County, Georgia; 1939.
 
 REMARKS:
 The May 2006 revision was to clean up text only. No major revisions. (RHB)
-The April 2022 revision removed an offensive series name replaced with Hallsummit (RBT). The September 2025 revision changed the format.  No data was changed.
+The April 2022 revision removed an offensive series name replaced with Hallsummit (RBT). The September 2025 revision changed the format.  No data was changed.  The June 2026 revision added Rowan soils as geographically associated.
 
 Diagnostic horizons and soil characteristics recognized in this pedon are:
 Ochric epipedon--the zone from 0 to 20 centimeters (0 to 8 inches) (A and E horizons)
@@ -191,6 +192,8 @@ NC0175  0-8   5.1-6.5   .5-2.  0-0    2.0-6.0    LOW
 NC0175  8-11  5.1-6.5   .5-1.  0-0    0.6-2.0    LOW      
 NC0175 11-33  5.1-7.8   0.-.5  0-0   0.06-0.2    HIGH     
 NC0175 33-75     -      0.-.5   -        -               
-_______________________________________
+
+
+________________________________________
 National Cooperative Soil Survey
 U.S.A.
