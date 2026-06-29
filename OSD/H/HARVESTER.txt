@@ -1,63 +1,138 @@
-LOCATION HARVESTER              MO 
+LOCATION HARVESTER              MO
 
 Established Series
-Rev. RJH-RLT 
-10/2001
+Rev. RJH-RET-RSA
+06/2026
 
-HARVESTER SERIES 
+HARVESTER SERIES
 
-The Harvester series consists of very deep, moderately well drained soils formed in less than 40 inches of disturbed material over truncated loess soils. Permeability is moderately slow. These upland soils have slopes ranging from 2 to 30 percent. The average annual precipitation is 38 inches, and the mean annual temperature is about 55 degrees F. 
+Depth class: Very deep
+Drainage class: Moderately well drained
+Saturated hydraulic conductivity: Moderately high to high 
+Parent material: Human-transported material mostly derived from nearby loess deposits and overlies Peoria loess, where it is present.
+Geomorphic location: Leveled land and fills on hillslopes and interfluves
+Slope range: 0 to 30 percent
+Mean annual temperature: 12 degrees C
+Mean annual precipitation: 1050 millimeters 
 
-TAXONOMIC CLASS: Fine-silty, mixed, superactive, nonacid, mesic Oxyaquic Udorthents 
+TAXONOMIC CLASS: Fine-silty, spolic, mixed, superactive, nonacid, mesic Anthroportic Udorthents
 
-TYPICAL PEDON: Harvester silt loam - vacant lot under grass on a 3 percent slope in an area reshaped by heavy equipment at an elevation of 520 feet. (Colors are for moist soil unless otherwise stated.) 
+TYPICAL PEDON: Harvester silt loam, 5 percent slope on a residential lot under sod grass on 5 percent slope in an area reshaped by heavy equipment. (Colors are for moist soil unless otherwise noted.)
 
-	A--0 to 2 inches; brown (10YR 4/3) silt loam; common coarse distinct very dark grayish brown (10YR 3/2) mottles; few pockets of brown (7.5YR 4/4) silty clay loam; moderate very fine granular structure; friable; many fine roots; neutral; abrupt smooth boundary. (0 to 6 inches thick) 
+ ^Au--0 to 10 centimeters; very dark grayish brown (10YR 3/2) silt loam; weak fine subangular blocky structure; friable; common very fine and fine roots throughout; common fine tubular and interstitial pores; 1 percent gravel-sized plastic artifacts, 2 percent gravel-sized concrete artifacts, 2 percent elongated gravel-sized glass artifacts, and 2 percent gravel-sized asphalt artifacts; neutral (pH 6.6); clear smooth boundary  (4 to 22 cm thick)
 
-	C1--2 to 7 inches; dark yellowish brown (10YR 4/4) silt loam; common pockets of brown (7.5YR 4/4) silty clay loam; weak medium platy fragments; friable; many fine roots; neutral; clear smooth boundary. 
+ ^Cu1--10 to 27 centimeters; 60 percent dark yellowish brown (10YR 3/4) and 20 percent very dark grayish brown (10YR 3/2) and 20 percent yellowish brown (10YR 5/4) silt loam; massive; friable; common very fine roots throughout; common very fine interstitial and fine tubular pores; 3 percent gravel-sized asphalt artifacts and 4 percent gravel-sized concrete artifacts; neutral (pH 6.9); clear smooth boundary
 
-	C2--7 to 13 inches; brown (7.5YR 4/4) silty clay loam; few fine pockets and thin discontinuous lenses of brown (10YR 4/3) silt loam; strong medium platy fragments; firm; common fine roots; moderately acid; abrupt smooth boundary. 
+ ^Cu2--27 to 45 centimeters; 60 percent dark yellowish brown (10YR 3/4) and 40 percent very dark gray (10YR 3/1) silt loam; massive; friable; common very fine roots throughout; common very fine interstitial pores; 4 percent gravel-sized concrete artifacts; neutral (pH 6.6); clear smooth boundary
 
-	C3--13 to 15 inches; brown (10YR 4/3) silt loam; few blocky pockets of brown (7.5YR 4/4) silty clay loam; moderate medium platy fragments; firm; common fine roots; slightly acid; abrupt smooth boundary. 
+ ^Cu3--45 to 57 centimeters; 70 percent very dark grayish brown (10YR 3/2) and 30 percent strong brown (7.5YR 4/6) gravelly-artifactual silty clay loam; massive; friable; common very fine interstitial pores; 2 percent limestone gravel; 2 percent gravel-sized asphalt artifacts and 14 percent gravel-sized concrete artifacts; slightly acid(pH 6.4); clear smooth boundary
 
-	C4--15 to 21 inches; brown (7.5YR 4/4) silty clay loam; few thin discontinuous lenses of brown (10YR 4/3) silt loam; strong coarse blocky fragments; very firm; common fine roots flattened along faces of peds; common black (10YR 2/1) masses of iron and manganese accumulation; neutral; abrupt smooth boundary. 
+ ^Cu4--57 to 75 centimeters; 85 percent very dark grayish brown (10YR 3/2) and 15 percent dark yellowish brown (10YR 3/4) silt loam; massive; friable; common very fine irregular and interstitial pores, and common fine tubular pores; 2 percent gravel-sized asphalt artifacts; neutral (pH 7.1); abrupt smooth boundary    (Combined thickness of ^C horizons is 50 or more thick)
 
-	C5--21 to 31 inches; dark grayish brown (10YR 4/2) silt loam; common fine pockets of brown (7.5YR 4/4) silty clay loam; moderate medium platy fragments; firm; common reddish brown (5YR 4/4) masses of iron accumulation along cleavage planes; common partially decomposed organic material; neutral; abrupt smooth boundary. (Combined thickness of the C horizon is 10 to 40 inches thick.) 
+ 2Btb1--75 to 87 centimeters; brown (10YR 4/3) silt loam; weak fine subangular blocky structure; friable; common very fine roots throughout; common very fine tubular, vesicular, and interstitial pores; neutral (pH 7.2), clear smooth boundary
 
-	Bb1--31 to 47 inches; dark yellowish brown (10YR 4/4) silty clay loam; weak medium prismatic structure; very firm; few fine black (10YR 2/1) iron and manganese concretions throughout; slightly acid; gradual smooth boundary. (0 to 20 inches thick) 
+ 2Btb2--87 to 110 centimeters; brown (10YR 4/3) silty clay loam; weak medium subangular blocky structure; firm; common very fine vesicular pores; 8 percent fine faint irregular grayish brown (10YR 5/2) iron depletions in matrix; slightly alkaline (pH 7.4); clear smooth boundary
 
-	Bb2--47 to 67 inches; brown (7.5YR 4/4) silty clay loam; weak medium prismatic structure; firm; few fine black (10YR 2/1) iron and manganese concretions and stains throughout; slightly acid. 
+ 2Btb3--110 to 148 centimeters; dark yellowish brown (10YR 4/4) silty clay loam; moderate coarse prismatic structure; firm; common very fine vesicular pores; 5 percent fine prominent irregular black (10YR 2/1) manganese coatings in matrix, 10 percent fine distinct irregular strong brown (7.5YR 4/6) iron-manganese masses in matrix, and 20 percent fine distinct irregular gray (10YR 5/1) iron depletions in matrix; neutral (pH 7.0); clear smooth boundary
 
-TYPE LOCATION: St. Charles County, Missouri; between I-70 and Mexico Road in Survey 979; 190 feet north and 360 feet east of the northwest corner of sec. 34, T. 47 N., R. 4 E; USGS Kampville quadrangle. 
+ 2Btb4--148 to 186 centimeters; dark yellowish brown (10YR 4/6) silty clay loam; moderate coarse prismatic structure; firm; common very fine vesicular pores; 10 percent prominent white (10YR 8/1), dry, silt coats on all faces of peds; 3 percent fine prominent irregular black (10YR 2/1) manganese coatings in matrix, 8 percent fine faint irregular strong brown (7.5YR 4/6) iron-manganese masses in matrix, and 30 percent fine prominent irregular gray (10YR 5/1) iron depletions in matrix; neutral (pH 7.0); gradual smooth boundary
 
-RANGE IN CHARACTERISTICS: Reaction ranges from neutral to strongly acid in all horizons. 
+ 2Btb5--186 to 220 centimeters; dark yellowish brown (10YR 4/6) silty clay loam; weak coarse prismatic structure; firm; common very fine vesicular pores; 6 percent prominent white (10YR 8/1), dry, silt coats on all faces of peds; 12 percent fine faint irregular strong brown (7.5YR 4/6) iron-manganese masses in matrix and 16 percent fine prominent irregular grayish brown (10YR 5/2) iron depletions in matrix; neutral (pH 6.9)
 
-The A horizon has hue of 10YR or 7.5YR, value of 3 or 4, and chroma of 2, 3 or 4. It is silt loam or silty clay loam. 
+TYPE LOCATION:
+St Louis County, Missouri; 30 feet west and 100 feet north of the intersection of Mackland and Loughborough Avenues in a residential lot.
 
-The C horizon has hue of 10YR or 7.5YR, value of 4 or 5, and chroma of 2 through 6. It is silt loam or silty clay loam with clay content ranging between 18 and 35 percent. Subhorizons are in random sequence, variable in thickness, textures are variable, and often the horizons are discontinuous. The blocky or platy structure fragments of the C horizon are not due to pedigenic factors but due to the way the soil material was put into place by mechanical means. 
+USGS Quadrangle: Webster Groves
+Latitude: 38.5721090
+Longitude: -90.2879270
+Datum: WGS84
+Coordinate source: From hand-held GPS
 
-A buried A horizon is present in some pedons, but most of the time it has been removed and stockpiled for later use. When present, it has hues of 10YR or 7.5YR, value of 2 through 5, and chroma of 1 through 3. Texture is usually silt loam but ranges to include silty clay loam. 
+RANGE IN CHARACTERISTICS:
+Thickness of human-transported materials: 55 to 200 centimeters
+Depth to bedrock: Greater than 200 centimeters
+Depth to seasonal High-water table: 55 to 100 centimeters
+Soil reaction: Slightly acid to moderately alkaline (6.1 to 8.3 pH)
+Particle-size control section (weighted average):
+Clay content--18 to 35 percent
+Sand content--2 to 15 percent
+Artifact content--0 to 10 percent
+Combined rock and artifact content: 0 to 10 percent
 
-The Bb horizon has hue of 10YR or 7.5YR, value of 3, 4, or 5, and chroma of 3, 4, or 5. It is silty clay loam, but silt loam textures are within the range. 
+^A(u) horizons:
+Hue--10YR
+Value--3 or 4
+Chroma--1 to 3 
+Texture--silt loam
+Rock fragment content--0 to 5 percent 
+Artifact content--0 to 5 percent 
 
-COMPETING SERIES: There are no other series in this family. Similar soils are the Dow, Fishpot, Ida, and Kanima series. The Dow and Ida series are calcareous throughout. The Fishpot series formed in disturbed fine-loamy materials greater than 40 inches in thickness. The Kanima series is loamy-skeletal and thermic and formed in dump remains from strip mining operations. 
+^C(u) horizons:
+Hue--10YR or 7.5YR
+Value--3 to 4
+Chroma--1 to 6 
+Texture--silt loam or silty clay loam
+Rock fragments--0 to 5 percent
+Artifact content--0 to 10 percent
 
-GEOGRAPHIC SETTING: Harvester soils are disturbed materials in areas where loess deposits that have been graded and reshaped for urban and suburban development have been placed over truncated loess soils. Slope gradients range from 2 to 30 percent. The average annual precipitation ranges from 35 to 42 inches and mean annual temperature from 52 to 57 degrees F. 
+2Btb horizons:
+Hue--10YR or 7.5YR
+Value--4 or 5
+Chroma--3 to 6
+Texture--silt loam or silty clay loam
 
-GEOGRAPHICALLY ASSOCIATED SOILS: These are the Menfro and Winfield soils. Menfro and Winfield soils formed in deep undisturbed loess deposits which have argillic horizons. Each of these series occur on similar landscapes. 
+COMPETING SERIES: These are the Rapatee soils. 
 
-DRAINAGE AND PERMEABILITY: Moderately well drained. Runoff is moderate. Permeability is moderately slow. 
+Rapatee soils formed in reclaimed surface mine materials, do not have buried argillics, and are greater than 100 centimeters to a seasonal high-water table
 
-USE AND VEGETATION: Harvester soils are used for residential, commercial and industrial buildings, and adjacent grounds and roadways. Present vegetation is lawn grasses, ornamental shrubs, and shade trees. Native vegetation was forest consisting of oaks and hickory. 
+GEOGRAPHIC SETTING:
+Parent material: Human-transported material over loess
+Landscape: Loess hills 
+Landform: Interfluves, ridges, shoulders, and backslopes in the loess hills
+Anthropogenic landform: Leveled land and fills
+Slope: 2 to 30 percent
+Elevation: 120 to 250 meters
+Frost-free period: 184 to 228 days
+Mean annual temperature: 11 to 14 degrees C
+Mean annual precipitation: 940 to 1194 millimeters
 
-DISTRIBUTION AND EXTENT: Urban areas in MLRA 115 and 116B and possibly other urban areas in the midwest. The series is of moderate extent. 
+GEOGRAPHICALLY ASSOCIATED SOILS: These are the Fishpot, Shaw, Vandeventer and Winfield soils. 
+Fishpot soils are on terraces that have been leveled, have aquic conditions within 50 centimeters, and formed in human-transported material over alluvium. 
+Shaw soils are on nearby leveled or filled interfluves, have aquic conditions within 40 centimeters, and have a mollic epipedon.
+Vandeventer soils are on nearby leveled hillslopes or interfluves and have between 35 to 80 percent human artifacts in the particle-size control section. 
+Winfield soils are on nearby loess hills and did not form in human-transported materials. 
 
-MLRA SOIL SURVEY REGIONAL OFFICE (MO) RESPONSIBLE: Indianapolis, Indiana
+DRAINAGE AND SATURATED HYDRAULIC CONDUCTIVITY:
+Drainage Class: Moderately well drained 
+Surface Runoff: Medium
+Saturated Hydraulic Conductivity Class: Moderately high except where compacted
+Flooding: None
+Ponding: None
 
-SERIES ESTABLISHED: St. Louis County, Missouri, l979. 
+USE AND VEGETATION:
+Major uses are for residential, commercial, and recreational applications in an urban setting. Vegetation may include managed and unmanaged plant communities with a mix of native and non-native species. Many areas are vegetated with non-native ornamental landscaping or turfgrass. Some areas exhibit weedy, invasive, and primary succession vegetation communities (e.g., abandoned lots and other unmanaged areas). 
 
-REMARKS: Areas of Harvester soils were in deep loess deposits prior to disturbance by earth-moving equipment. The amount of filling, cutting, alteration of existing soil is variable from place to place. 
+DISTRIBUTION AND EXTENT:
+Urban and other areas with human-modified landscapes in the Central Feed Grains and Livestock Region, Major Land Resource Area 115. These soils are of moderate extent.
 
+SOIL SURVEY REGIONAL OFFICE (SSRO) RESPONSIBLE: SALINA, KANSAS
+Raleigh, North Carolina (Special Projects Office)
+
+SERIES ESTABLISHED:
+St Louis County, Missouri, 1979
+
+REMARKS:
+Typical Pedon Taxonomic Features:
+Ochric epipedon--The zone from 0 to 10 centimeters
+Human-transported material--The zone from 0 to 75 cm
+Lithologic discontinuity--At a depth of 75 centimeters
+Particle-size control section--The zone from 25 to 100 centimeters
+Taxonomic Version: Keys to Soil Taxonomy, 13th Edition (2022)
+
+Other: Areas of Harvester soils occur in areas of deep loess deposits that have been modified by earth-moving equipment. The amount of filling, cutting, and alteration of existing soil is variable from place to place. The Harvester soil series was originally classified as Oxyaquic Udorthents. This classification has been updated to reflect the human artifacts and human-transported material that are described. In the City of St. Louis area, some pedons may have aquic conditions closer to the surface and are included in the concept of this soil. 
+
+ADDITIONAL DATA:
+NASIS User Pedon ID: 2024MO510090
 
 National Cooperative Soil Survey
 U.S.A.

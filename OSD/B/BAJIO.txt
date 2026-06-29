@@ -1,0 +1,111 @@
+LOCATION BAJIO                  PR
+
+Tentative Series
+ASR/AMA
+06/2026
+
+BAJIO SERIES
+
+MLRA(s)--273
+Depth Class--Shallow
+Drainage Class--Subaqueous drainage
+Water depth range--0 to 100 centimeters
+Saturated hydraulic conductivity--Moderately low to very high
+Parent Material--Loamy-skeletal marine deposits over coral limestone bedrock
+Geomorphic location--Reef 
+Slope--0 to 1 percent
+Mean Annual Air Temperature--26 degrees C (79 degrees F)
+Mean Annual Water Temperature--28 degrees C (82 degrees F)
+
+TAXONOMIC CLASS: Loamy-skeletal, mixed, subactive, nonacid, isohyperthermic Lithic Fluviwassents
+
+TYPICAL PEDON: Bajio shelly sandy loam in a reef platform facing the Caribbean sea. (Colors are for moist soil unless otherwise stated).
+
+ ACseg--0 to 5 centimeters; greenish black (10Y 2.5/1), shelly sandy loam; structureless, massive; nonfluid, nonsticky, nonplastic; no sulfurous odor; color change with 3 percent hydrogen peroxide, strong effervescence with 30 percent hydrogen peroxide; moderately alkaline (pH 8.3), moderately alkaline (pH 7.9) oxidized pH; clear boundary.
+
+ Cseg1--5 to 35 centimeters; very dark greenish gray (10Y 3/1), very gravelly sandy loam; 50 percent coral fragments; structureless, massive; nonfluid, nonsticky, nonplastic; slight sulfurous odor; color change with 3 percent hydrogen peroxide, strong effervescence with 30 percent hydrogen peroxide;  moderately alkaline (pH 8.4), moderately alkaline (pH 8.3) oxidized pH; clear boundary.
+
+ Cseg2--35 to 49 centimeters; dark greenish gray (10Y 4/1), very gravelly sandy loam; 50 percent coral fragments, 5 percent shell fragments; structureless, massive; nonfluid, nonsticky, nonplastic; slight sulfurous odor; color change with 3 percent hydrogen peroxide, moderate effervescence with 30 percent hydrogen peroxide; moderately alkaline (pH 8.4), moderately alkaline (pH 8.3) oxidized pH; very abrupt boundary.
+
+ R--49 centimeters; limestone bedrock (coral reef), indurated bedrock.
+
+TYPE LOCATION: Salinas municipality, Puerto Rico. East-southeast of the eastern most portion of Cayo Palmas on a reef platform, approximately 1.8 kilometers (1.1 miles) south of Camino del Indio trail (trail through the Las Mareas community) off the coast and approximately 0.6 kilometers (0.4 miles) west of Cayo Isla Perdida covered by subaquatic vegetation. 
+
+Latitude--17.9156150
+Longitude-- -66.2442510
+Datum--WGS84
+Coordinate source--Manually entered from GPS
+
+RANGE IN CHARACTERISTICS:
+Depth to bedrock--25 to less than 50 centimeters
+Reaction--Moderately to strongly alkaline (pH 7.9 to 9.0)
+Oxidized reaction--Moderately to strongly alkaline (pH 7.9 to 9.0)
+Electrical conductivity (1:5 soil-water) throughout--4.0 to 10.0 dS/m 
+Manner of failure--Nonfluid throughout to bedrock. Some pedons may have some more fluid layers
+Sulfurous odor--No odor to strong sulfurous odor throughout 
+Coral Fragments--35 percent or more by volume from 0 to 50 centimeters
+
+Aseg horizon:
+Hue--5Y, 5GY, 10Y, or N 
+Value--2.5, 3, or 4 (8 on calcareous sands)
+Chroma--0 to 2
+Texture--coarse sand, loamy sand, sandy loam, loam or sandy clay loam or their shelly, gravelly, very shelly or very gravelly analogs
+ACseg horizon (where present):
+Same properties as Aseg horizons
+Cseg horizon:
+Hue--N, 5Y, 10Y, 5GY
+Value--3 to 6
+Chroma--0 to 1  
+Texture--coarse sand, loamy sand, sandy loam, loam, sandy clay loam or their shelly, or gravelly analogs to extremely shelly or extremely gravelly analogs
+
+COMPETING SERIES: There are no competing series in the same family 
+
+GEOGRAPHIC SETTING:
+Parent Material--Loamy-skeletal marine deposits 
+Landscape--Caribbean Sea in semiarid coastal plain, Puerto Rico
+Landform--Reef
+Mean Annual Air Temperature: 22 to 31 degrees C (71 to 88 degrees F)
+Mean Annual Precipitation: 508 to 1,145 millimeters (20 to 45 inches)
+Mean Annual Water Temperature--26 to 32 degrees C (79 to 90 degrees F)
+Water salinity range--28 to 43 parts per thousand
+
+GEOGRAPHICALLY ASSOCIATED SOILS:
+These are the Caricoche soils:
+Caricoche soils--Occur on the flood-tidal delta channels which drain the reef platform areas of the wave currents. They are also skeletal but are very deep and more fluid throughout. 
+
+DRAINAGE AND SATURATED HYDRAULIC CONDUCTIVITY:
+Drainage class--Subaqueous (permanently submersed)
+Saturated hydraulic conductivity--Moderately low to very high
+Soil moisture regime--Peraquic 
+Soil is continuously inundated by saline water
+
+USE AND VEGETATION:
+Major Uses--Used for wildlife habitat, fishing, and commercial shellfish habitat.  These soils provide improved water quality and flood / storm surge water storage.
+Dominant Vegetation--Common sub-aquatic vegetation (SAV) species include Thalassia (Turtle grass), Syringodium (manatee grass), halimeda (watercress algae), and Halofila (paddle grass). 
+
+DISTRIBUTION AND EXTENT: 
+General area--Located along coasts and bays of Puerto Rico.
+Land Resource Region--Z - Caribbean Region
+MLRA--273 - Semiarid Coastal Plains
+Extent--Small
+
+SOIL SURVEY REGIONAL OFFICE (SSRO) RESPONSIBLE: SPECIAL PROJECTS OFFICE
+
+SERIES ESTABLISHED: Salinas Municipality, Puerto Rico; 2025. The name Bajio (a shallow) refers to the shallow water landform (reef) which can sometimes almost be exposed.
+
+REMARKS: This subaqueous series is mapped in areas previously published as water in Puerto Rico Soil Survey publications.
+
+Diagnostic horizons and features recognized in this pedon--
+Peraquic soil moisture regime--Positive soil water potential (permanently submerged) at the soil surface. 
+Ochric epipedon - the zone 0 to 5 centimeters (0 to 2 inches).
+Haplic feature - soil in nonfluid at least in some layer from 20 to 50 centimeters.
+Loamy-Skeletal - Zone from 0 to 49 centimeters have an average of 35 percent or more coral fragments.
+Lithic contact - limestone coral bedrock at less than 50 centimeters from surface
+Oxidized pH values--the shell fragments and Halimeda materials that occur throughout this soil buffer the oxidized pH preventing potential hypersulfidic materials from developing
+
+ADDITIONAL DATA:
+OSD pedon: 2025PR123003
+Supporting pedons: 2025PR123005, 2025PR123004
+________________________________________
+National Cooperative Soil Survey
+U.S.A.

@@ -1,0 +1,132 @@
+LOCATION ALBEPEAKE              NC+VA
+
+Tentative Series
+JDK-RBT
+06/2026
+
+ALBEPEAKE SERIES
+
+MLRA(s)--153B
+Depth class--Very deep
+Drainage class--Subaqueous
+Water depth range--0 to 2 meters (0 to 7 feet)
+Parent material--Human-transported materials over loamy estuarine deposits
+Geomorphic location--Dredge-deposit shoals
+Slope range--0 to 1 percent
+Mean annual air temperature--17 degrees C (63 degrees F)
+Mean annual water temperature--15 degrees C (59 degrees F)
+
+TAXONOMIC CLASS: Sandy over loamy, dredgic, mixed, active, nonacid, thermic Typic Fluviwassents
+
+TYPICAL PEDON: Albepeake loamy sand in a dredge-deposit shoal under 1.2 meters of brackish water (colors are for moist soil unless otherwise stated; electrical conductivity is 1:5 by volume solution mixture unless otherwise stated).
+
+ ^Aseg--0 to 12 centimeters; 60 percent black (N 2.5/) and 40 percent greenish gray (10Y 5/1) loamy sand; structureless, single grain; nonsticky, nonplastic; slightly fluid; common medium and common fine roots throughout; no sulfurous odor; color change with 3 percent hydrogen peroxide; slight effervescence with 30 percent hydrogen peroxide; nonsaline (0.6 dS/m); neutral (pH 7.0); clear boundary.
+
+ ^Cseg1--12 to 34 centimeters; dark greenish gray (10Y 4/1) loamy sand; structureless, single grain; nonsticky, nonplastic; nonfluid; few fine roots throughout; slight sulfurous odor; color change with 3 percent hydrogen peroxide; no effervescence with 30 percent hydrogen peroxide; nonsaline (0.7 dS/m); neutral (pH 6.8); abrupt boundary.
+
+ ^Cseg2--34 to 73 centimeters; very dark gray (N 3/) silt loam; structureless, massive; slightly sticky, slightly plastic; very fluid; no sulfurous odor; no color change with 3 percent hydrogen peroxide; slight effervescence with 30 percent hydrogen peroxide; nonsaline (0.7 dS/m); neutral (pH 7.0); clear boundary.
+
+ ^Cseg3--73 to 97 centimeters; dark gray (N 4/) silt loam; structureless, massive; slightly sticky, slightly plastic; very fluid; no sulfurous odor; no color change with 3 percent hydrogen peroxide; moderate effervescence with 30 percent hydrogen peroxide; nonsaline (0.8 dS/m); neutral (pH 7.2); abrupt boundary.
+
+ ^Cseg4--97 to 122 centimeters; dark greenish gray (10Y 4/1) fine sandy loam; structureless, massive; slightly sticky, slightly plastic; slightly fluid; no sulfurous odor; no color change with 3 percent hydrogen peroxide; moderate effervescence with 30 percent hydrogen peroxide; nonsaline (1.0 dS/m); neutral (pH 7.2); clear boundary.
+
+ Cseg5--122 to 205 centimeters; dark gray (N 4/) silty clay loam; structureless, massive; moderately sticky, moderately plastic; very fluid; no sulfurous odor; no color change with 3 percent hydrogen peroxide; slight effervescence with 30 percent hydrogen peroxide; nonsaline (1.3 dS/m); slightly alkaline (pH 7.8).
+
+TYPE LOCATION: Currituck County, North Carolina; Coinjock Bay; approximately 2.5 kilometers (1.6 miles) northeast of the intersection of Caratoke Highway and Barco Road, and approximately 3.2 kilometers (2.0 miles) west-southwest of the intersection of Waterlily Road and Never Sail Way; USGS topographic quadrangle: Barco.
+
+Latitude--36.4044800
+Longitude-- -75.9568440
+Datum--WGS84
+Coordinate source--From hand-held GPS
+
+RANGE IN CHARACTERISTICS:
+Depth to bedrock--Greater than 200 centimeters
+Manner of failure / fluidity class--Nonfluid to very fluid 
+Thickness of human-transported materials--50 to 122 centimeters
+Shell fragments--0 to 10 percent, by volume
+Sulfurous odor--None to moderate throughout profile 
+Soil reaction--Neutral to moderately alkaline throughout profile (pH 6.6 to 8.4)
+Oxidized reaction--Greater than 4.0
+Depth to hypersulfidic / sulfidic materials (oxidized pH less than or equal to 4.0)--Greater than 100 centimeters
+Electrical conductivity (1:5 soil to water solution)--0.6 to 1.3 dS/m throughout profile 
+Salinity class--Nonsaline
+Total soil organic carbon stock 0 to 100 centimeters--11 to 14 kg m-2
+Total soil organic carbon stock 0 to 200 centimeters--17 to 23 kg m-2
+
+^Aseg horizon:
+Hue--5Y or 10Y, or neutral
+Value--2.5 or 3
+Chroma--0 or 1
+Texture--Loamy sand or fine sandy loam
+Organic carbon density--0.2 to 7.1 kg m-3
+
+^Cseg horizon:
+Hue--5Y or 10Y, or neutral
+Value--2.5 to 4
+Chroma--0 to 2
+Texture--Loamy sand, fine sandy loam, silt loam, or silty clay loam
+Organic carbon density--0.2 to 37 kg m-3
+
+Cseg horizon:
+Hue--5Y or 10Y, or neutral
+Value--3 or 4
+Chroma--0 or 1
+Texture--Loam, silt loam, or silty clay loam
+Organic carbon density--1.9 to 37 kg m-3
+
+2Btgb or 2Btsegb horizon (where present)
+Hue--5Y or neutral
+Value--4 to 6
+Chroma--0 or 1
+Texture--Clay loam, silty clay loam, or clay
+Organic carbon density--0.2 to 7.1 kg m-3
+
+COMPETING SERIES:
+There are no competing series in the same family.
+
+GEOGRAPHIC SETTING:
+Landscape--Barrier-island lagoons
+Anthropogenic landform--Dredge-deposit shoals
+Parent material--Human transported materials over loamy estuarine deposits
+Slope--0 to 1 percent
+Water depth range--0 to 2 meters (0 to 7 feet) below mean sea level
+Water salinity range--0.5 to 5 parts per thousand
+
+GEOGRAPHICALLY ASSOCIATED SOILS:
+These are the Kill Devil, Lost, and Princess Anne soils.
+Kill Devil soils--are on low energy lagoon bottoms, fluviomarine bottoms, and mainland coves and formed in fine-loamy estuarine deposits.
+Kitty Hawk soils--are on washover-fans and contain hypersulfidic materials.
+Princess Anne soils--are in estuarine tidal streams, typically have O horizons, and contain hypersulfidic materials.
+
+DRAINAGE AND SATURATED HYDRAULIC CONDUCTIVITY:
+Drainage class--Subaqueous
+Saturated hydraulic conductivity--Moderately low to high
+Soil moisture regime--Peraquic
+Soil is continuously inundated by brackish water. The water level is primarily driven by wind tides.
+
+USE AND VEGETATION:
+Major uses--The area is used as a spoil pile for dredge materials from the Intracoastal Waterway.
+Typical vegetation--Vegetation may include widgeon grass (Ruppia maritima), sago pondweed (Stuckenia pectinata), and Eurasian milfoil (Myriophyllum spicatum).
+
+DISTRIBUTION AND EXTENT:
+General area--Coastal plain estuaries in North Carolina and Virgina
+Land Resource Regions--T - Atlantic and Gulf Coast Lowland Forest and Crop Region
+MLRA(s)--153B
+Extent--Small  
+
+SOIL SURVEY REGIONAL OFFICE (SSRO) RESPONSIBLE: Special Projects Region
+
+SERIES ESTABLISHED: Currituck County, North Carolina, 2026
+
+REMARKS:
+The series name is a combination of words derived from "Albemarle and Chesapeake Canal". The Canal connects two major watersheds on the east coast, the Albemarle-Pamlico estuary and the Chesapeake Bay estuary. Construction of the Albemarle and Chesapeake Canal was completed in 1859 and is now a part of the Intracoastal Waterway, which is adjacent to the type location for the series. Albepeake soils were previously mapped as water in North Carolina and Virginia soil surveys.
+
+Diagnostic horizons and other diagnostic soil characteristics recognized in this pedon are (Keys to Soil Taxonomy, Thirteenth Edition, 2022):
+Human-transported materials--The zone from 0 to 122 centimeters formed in human-transported materials.
+Fluidity--The zone from 0 to 12 centimeters and 34 to 205 centimeters has a fluidity class of slightly fluid to very fluid.
+Peraquic feature--Zero or positive soil water potential at the soil surface (permanently submerged).
+
+NASIS User Site and Pedon ID: 2026NC053011
+____________________________________________________________________________
+National Cooperative Soil Survey
+U.S.A.

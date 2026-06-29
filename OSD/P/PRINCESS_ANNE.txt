@@ -2,7 +2,7 @@ LOCATION PRINCESS ANNE          NC+VA
 
 Tentative Series
 JDK-RBT
-01/2026
+06/2026
 
 PRINCESS ANNE SERIES
 
@@ -84,7 +84,7 @@ Water salinity range--0.5 to 5 parts per thousand
 GEOGRAPHICALLY ASSOCIATED SOILS:
 These are the Kill Devil and Lost soils.
 Kill Devil soils--Are in fluviomarine bottoms, coves, and low-energy lagoon bottoms, have a fine-loamy particle size class, do not contain sulfidic materials, and are generally 10Y or more gley. 
-Lost soils--Are in submerged tidal marshes, have a fine-loamy particle size class, and do not contain sulfidic materials.
+Lost soils--Are in submerged tidal marshes, have a fine-loamy particle size class, and contain hypersulfidic materials.
 
 DRAINAGE AND SATURATED HYDRAULIC CONDUCTIVITY:
 Drainage class--Subaqueous

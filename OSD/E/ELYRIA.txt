@@ -2,7 +2,7 @@ LOCATION ELYRIA                 CO
 
 Established Series
 PRR-EED
-03/2026
+06/2026
 
 ELYRIA SERIES
 
@@ -15,11 +15,10 @@ Slope range: 0 to 8 percent
 Mean annual temperature: 11.0 degrees C
 Mean annual precipitation: 406 millimeters
 
-Taxonomic Class:
+TAXONOMIC CLASS: Fine-loamy, spolic, mixed, superactive, calcareous, mesic Anthroportic Ustorthents
 Fine-loamy, spolic, mixed, superactive, calcareous, mesic Anthroportic Ustorthents
 
-Typical Pedon:
-Elyria loam in a Denver, Colorado golf course. (Colors are for dry soil unless otherwise noted.)
+TYPICAL PEDON: Elyria loam in a Denver, Colorado golf course. (Colors are for dry soil unless otherwise noted.)
 
  ^A--0 to 6 centimeters; brown (10YR 4/3) loam, dark brown (10YR 3/3) moist; weak fine granular structure; soft, very friable, slightly sticky, slightly plastic; many very fine roots throughout; noneffervescent; moderately acid (pH 6.0); clear smooth boundary (5 to 20 centimeters thick)
 
@@ -27,7 +26,7 @@ Elyria loam in a Denver, Colorado golf course. (Colors are for dry soil unless o
 
  ^C2--19 to 39 centimeters; brown (10YR 4/3) clay loam, dark brown (10YR 3/3) moist; massive; soft, very friable, moderately sticky, moderately plastic; few very fine roots; finely disseminated free carbonates throughout the matrix; few patchy distinct carbonate coats on ped faces (assumed to be inherited from fill), violently effervescent; moderately alkaline (pH 8.2); clear smooth boundary
 
- ^C3--39 to 57 centimeters; brown (7.5YR 4/2), sandy clay loam, very dark brown (7.5YR 4/2) moist; massive; slightly hard, friable, moderately sticky, moderately plastic; few very fine roots throughout; finely disseminated free carbonates throughout the matrix; strongly effervescent; moderately alkaline (pH 8.0); gradual smooth boundary
+ ^C3--39 to 57 centimeters; brown (7.5YR 4/2), sandy clay loam, brown (7.5YR 4/2) moist; massive; slightly hard, friable, moderately sticky, moderately plastic; few very fine roots throughout; finely disseminated free carbonates throughout the matrix; strongly effervescent; moderately alkaline (pH 8.0); gradual smooth boundary
 
  ^C4--57 to 97 centimeters; brown (7.5YR 4/3), sandy clay loam, very dark brown (7.5YR 2.5/3) moist; massive; soft, very friable, slightly sticky, slightly plastic; few very fine roots throughout; finely disseminated free carbonates throughout the matrix; slightly effervescent; moderately alkaline (pH 8.2); clear smooth boundary
 
@@ -37,7 +36,7 @@ Elyria loam in a Denver, Colorado golf course. (Colors are for dry soil unless o
 
  2C--148 to 200 centimeters; light yellowish brown (10YR 6/4), loamy sand, yellowish brown (10YR 5/4) moist; single grain; loose, non-sticky, non-plastic; finely disseminated free carbonates throughout the matrix; slightly alkaline (pH 7.8)
 
-Type Location:
+TYPE LOCATION:
 Denver County, CO
 USGS Quadrangle: Fitzsimons, CO
 Latitude: 39.7117500
@@ -45,7 +44,7 @@ Longitude: -104.8722306
 Datum: WGS84
 Coordinates sources: Hand-held GPS
 
-Range in Characteristics:
+RANGE IN CHARACTERISTICS:
 Depth to free carbonates--0 to 15 centimeters
 Thickness of human-transported material--50 to 200 centimeters
 Particle-size control section (weighted average):
@@ -108,10 +107,10 @@ Rock fragments--0 to 30 percent gravel
 Calcium carbonate equivalent--0 to 14 percent
 Reaction--pH 7.9 to 8.4
 
-Competing Series: 
+COMPETING SERIES: 
 None
 
-Geographic Settings:
+GEOGRAPHIC SETTING:
 Parent material--Thick to very thick fine-loamy human-transported materials over Pleistocene-aged eolian deposits derived from glaciofluvial sources
 Landform--Fills on eolian-mantled plains and strath terraces
 Slope ranges--0 to 20 percent
@@ -121,7 +120,7 @@ Frost-free period--135 to 165 days
 Elevation--1,565 to 1,725 meters
 Climate--continental, temperate, semi-arid; very cold and snowy winters; cool, moist springs, hot summers, with North American monsoon precipitation from July through August.
 
-Geographically Associated Soils:
+GEOGRAPHICALLY ASSOCIATED SOILS:
 These are the Altitude, Ascalon, Racas, Rosegulch, and Weld soils.
 
 Altitude soils have a loamy-skeletal particle-size control sectino and occur on nearby fills and other graded areas on stream terraces
@@ -129,23 +128,23 @@ Ascalon and Weld soils are found in similar landscape positions, have argillic h
 Racas soils are found in similar landscape positions but formed in thick clayey human-transported material over loess or alluvium derived from loess
 Rosegulch soils are found in similar landscape positions but formed in thick clayey human-transported material over loess and have cambic horizons
 
-Drainage and Saturated Hydraulic Conductivity:
+DRAINAGE AND SATURATED HYDRAULIC CONDUCTIVITY:
 Drainage class: Well drained
 Saturated hydraulic conductivity: Moderately high (1.5 to 5 m/sec)
 Flooding: none to occasional and brief
 Ponding: none
 
-Use and Vegetation:
+USE AND VEGETATION:
 Most areas are used for residential suburban development. Vegetation may include a mix of managed and unmanaged plant communities with a mix of native and non-native species. Many areas are vegetated with non-native ornamental landscaping and/or turfgrass associated with developed land uses. Some areas may exhibit weedy, invasive, and/or primary succession vegetation communities (e.g., abandoned lots and other unmanaged areas).  The potential native vegetation is little bluestem, sideoats grama, winterfat, and skunkbush sumac.
 
-Distribution and Extent:
+DISTRIBUTION AND EXTENT:
 Plains mantled with eolian deposits on the east bank of the South Platte River in the vicinity of Denver, Colorado. MLRA 67B - Central High Plains, Southern Part. These soils are of moderate extent.
 
-Soil Survey Region (SSRO) Responsible: Raleigh, North Carolina (Special Projects Office)
+SOIL SURVEY REGIONAL OFFICE (SSRO) RESPONSIBLE: Raleigh, North Carolina (Special Projects Office)
 
-Series Established: Denver County, Colorado, 2025. 
+SERIES ESTABLISHED: Denver County, Colorado, 2025. 
 
-Remarks:
+REMARKS:
 Typical Pedon Taxonomic Features:
 Ochric epipedon--0 to 6 centimeters (^A horizon)
 Free carbonates--6 to 200 centimeters (^C horizons,2Bk,2C)
