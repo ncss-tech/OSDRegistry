@@ -2,7 +2,7 @@ LOCATION OSTIONES               PR
 
 Tentative Series
 ASR/AMA
-04/2026
+06/2026
 
 OSTIONES SERIES
 
@@ -12,7 +12,7 @@ Drainage Class--Subaqueous drainage
 Saturated Hydraulic Conductivity--Moderately low to high
 Water depth range--50 to 300 centimeters
 Parent Material--Coarse-loamy estuarine deposits 
-Geomorphic location--Submerged mainland beach
+Geomorphic location--Submerged mainland beaches in mainland coves
 Slope--0 to 1 percent
 Mean Annual Air Temperature--26 degrees C (79 degrees F)
 Mean Annual Precipitation--1041 millimeters (41 inches)
@@ -20,7 +20,7 @@ Mean Annual Water Temperature--28 degrees C (82 degrees F)
 
 TAXONOMIC CLASS: Coarse-loamy, mixed, subactive, nonacid, isohyperthermic Grossic Hydrowassents
 
-TYPICAL PEDON: Ostiones mucky sandy loam on a submerged mainland beach in Jobos Bay lagoon. (Colors are for moist soil unless otherwise stated)
+TYPICAL PEDON: Ostiones mucky sandy loam on a submerged mainland beach within a mainland cove in the Jobos Bay lagoon. (Colors are for moist soil unless otherwise stated)
 
  Aseg--0 to 21 centimeters; very dark gray (N 3/), mucky sandy loam; structureless, massive; nonsticky, nonplastic; very fluid; 5 percent shell fragments; slight sulfurous odor; color change with 3 percent hydrogen peroxide; slight effervescence with 30 percent hydrogen peroxide; moderately alkaline (pH 8.2), moderately alkaline (pH 8.4) oxidized pH; clear boundary.
 
@@ -70,16 +70,17 @@ COMPETING SERIES: There are no competing series in the same family.
 GEOGRAPHIC SETTING:
 Parent material--Coarse-loamy estuarine deposits 
 Landscape--Coastal lagoons in Semiarid coastal plain, Puerto Rico
-Landform--submerged mainland beach.
+Landform--Submerged mainland beaches within mainland coves
 Mean Annual Air Temperature--22 to 31 degrees C (72 to 88 degrees F)
 Mean Annual Precipitation--508 to 1,145 millimeters (20 to 63 inches)
 Mean Annual Water Temperature--26 to 32 degrees C (79 to 90 degrees F)
 Water salinity range--28 to 43 parts per thousand
 
 GEOGRAPHICALLY ASSOCIATED SOILS:
-These are the Majaguas and Placeres soils.
+These are the Majaguas, Placeres, and Punta Arenas soils.
 Majaguas soils--are on lagoon bottoms and have finer soil textures.
 Placeres soils--have a loamy-skeletal particle size and occur in distinctly different estuarine tidal stream landforms. 
+Punta Arenas soils--occur on submerged mainland beaches that are exposed to the sea / open water and receive considerably greater wave action.  These soils also contain 35 percent or more halimeda calcifications (parashells) within the particle size control section.
 
 DRAINAGE AND SATURATED HYDRAULIC CONDUCTIVITY:
 Drainage class--Subaqueous (permanently submersed)

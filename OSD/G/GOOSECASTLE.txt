@@ -1,0 +1,142 @@
+LOCATION GOOSECASTLE            NC+VA
+
+Tentative Series
+JDK-RBT
+07/2026
+
+GOOSECASTLE SERIES
+
+MLRA(s)--153B
+Depth class--Very deep
+Drainage class--Very poorly drained
+Parent material--Herbaceous organic material over loamy fluviomarine deposits
+Geomorphic location--Submerged upland tidal marshes
+Slope range--0 to 1 percent
+Mean annual air temperature--17 degrees C (63 degrees F)
+Mean annual precipitation--1270 millimeters (50 inches)
+
+TAXONOMIC CLASS: Loamy, mixed, euic, thermic Terric Haplohemists
+
+TYPICAL PEDON: Goosecastle mucky peat in an oligohaline marsh at about sea level (colors are for moist soil unless otherwise stated; electrical conductivity is 1:1 by volume solution mixture unless otherwise stated).
+
+ Oese--0 to 75 centimeters; black (N 2.5/) broken face and black (N 2.5/) rubbed mucky peat; 50 percent fibers, 25 percent rubbed; von Post H5; common medium and few coarse roots; moderate sulfurous odor; no color change with 3 percent hydrogen peroxide; no effervescence with 30 percent hydrogen peroxide; nonsaline (1.3 dS/m); slightly acid (pH 6.1), strongly acid (pH 5.4) oxidized pH; clear boundary.
+
+ Oase--75 to 108 centimeters; very dark brown (10YR 2/2) broken face and very dark grayish brown (10YR 3/2) muck; 15 percent fibers, 5 percent rubbed; von Post H9; slight sulfurous odor; no color change with 3 percent hydrogen peroxide; no effervescence with 30 percent hydrogen peroxide; nonsaline (1.3 dS/m); slightly acid (pH 6.4), strongly acid (pH 5.5) oxidized pH; gradual boundary.
+
+ ABseg--108 to 139 centimeters; black (2.5Y 2.5/1) clay loam; structureless, massive; slightly sticky, slightly plastic; moderately fluid; 10 percent herbaceous plant fibers; no sulfurous odor; no color change with 3 percent hydrogen peroxide; no effervescence with 30 percent hydrogen peroxide; nonsaline (0.6 dS/m); neutral (pH 6.6), strongly acid (pH 5.4) oxidized pH; clear boundary.
+
+ Btseg--139 to 200 centimeters; gray (5Y 5/1) silty clay loam; structureless, massive; moderately sticky, moderately plastic; slightly fluid; 20 percent fine distinct irregular olive (5Y 4/4) masses of oxidized iron; no sulfurous odor; color change with 3 percent hydrogen peroxide; no effervescence with 30 percent hydrogen peroxide; nonsaline (0.4 dS/m); slightly acid (pH 6.5), very strongly acid (pH 5.0) oxidized pH.
+
+TYPE LOCATION: Currituck County, North Carolina; in Mackay Island National Wildlife Refuge; approximately 1.4 kilometers (0.9 miles) west of the intersection of Marsh Causeway and Knotts Island Road, and approximately 12.1 kilometers (7.5 miles) southeast of the intersection of Pungo Ferry Road and Princess Anne Road; USGS topographic quadrangle: Knotts Island.
+
+Latitude--36.5360170
+Longitude-- -75.9434130
+Datum--WGS84
+Coordinate source--From hand-held GPS
+
+RANGE IN CHARACTERISTICS:
+Depth to bedrock--Greater than 200 centimeters
+Soil moisture regime--Peraquic
+Manner of failure / fluidity class--Nonfluid to very fluid throughout the mineral horizons 
+Wood fragments--0 to 5 percent throughout the organic horizons
+Thickness of argillic horizon--24 to 66 centimeters
+Sulfurous odor--None to strong throughout
+Soil reaction--Moderately acid to slightly acid in the organic horizons (pH 5.6 to 6.5) and slightly acid to slightly alkaline in the mineral horizons (pH 6.1 to 7.8)
+Oxidized reaction--Strongly acid to moderately acid in the organic horizons (pH 5.1 to 6.0) and very strongly acid to slightly acid in the mineral horizons (pH 4.5 to 6.5)
+Depth to hypersulfidic / sulfidic materials (oxidized pH 4.0 or less)--Greater than 100 centimeters
+Electrical conductivity (1:1 soil to water solution)--0.4 to 2.5 dS/m
+Salinity class--Nonsaline to very slightly saline
+Total soil organic carbon stock 0 to 100 centimeters--28 to 55 kg m-2
+Total soil organic carbon stock 0 to 200 centimeters--45 to 86 kg m-2
+
+Oese or Oise horizons:
+Hue--7.5YR to 10YR
+Value--2 to 3
+Chroma--1 to 3
+Texture--Muck or mucky peat
+Von Post humification scale--H1 to H6
+Organic carbon density--24 to 71 kg m-3
+
+Oase horizon:
+Hue--2.5Y or 5Y
+Value--2 or 2.5
+Chroma--1
+Texture--Muck
+Von Post humification scale--H7 to H10
+Organic carbon density--24 to 71 kg m-3
+
+Cseg, ACseg, or CAseg (where present):
+Hue--2.5Y or 5Y
+Value--3 or 4
+Chroma--1 or 2
+Texture--Loam, silt loam or silty clay loam, or their mucky analogs 
+Organic carbon density--17 to 40 kg m-3
+
+ABg, Aseg, 2Asegb horizons:
+Hue--10YR to 10Y, or Neutral
+Value--2 to 4
+Chroma--0 or 1
+Texture--Loam, silt loam, clay loam, or their mucky analogs 
+Organic carbon density--25 to 40 kg m-3
+
+Btseg or 2Btseg horizons:
+Hue--2.5Y to 10Y, or Neutral
+Value--3 to 6
+Chroma--0 or 1
+Texture--Loam, silt loam, clay loam, silty clay loam, or clay
+Organic carbon density--6 to 17 kg m-3
+
+COMPETING SERIES:
+There are no competing series in the same family.
+
+GEOGRAPHIC SETTING:
+Landscape--Southeast coastal plain estuaries
+Landform--Submerged upland marshes
+Parent material--Herbaceous organic material over loamy fluviomarine deposits 
+Slope--0 to 1 percent
+Elevation--0 to 1 meter
+Water salinity range--0.5 to 5 parts per thousand
+Frost free period--230 to 360 days
+
+GEOGRAPHICALLY ASSOCIATED SOILS:
+These are the Backbay, Coratank, Currituck, and Delway soils.
+Backbay soils--are fine-loamy mineral soils with histic epipedons.
+Coratank soils--formed in herbaceous organic materials over loamy estuarine deposits, do not have relict argillic horizons, and contain more sapric material.
+Currituck soils--formed herbaceous organic materials over sandy or sandy-skeletal marine deposits, do not have relict argillic horizons, and contain more sapric material.
+Delway soils--formed in herbaceous and woody organic materials over loamy fluviomarine deposits and are in estuaries with salinities between 5 and 30 parts per thousand.
+
+DRAINAGE AND SATURATED HYDRAULIC CONDUCTIVITY:
+Drainage class--Very poorly drained
+Saturated hydraulic conductivity--Moderately low to moderately high
+Soil moisture regime--Peraquic
+Flooding--The soils are flooded by wind tides. Goosecastle soils are not normally subject to inundation from lunar tides.
+
+USE AND VEGETATION:
+Major uses--Goosecastle soils are used mainly as wetland wildlife habitat.
+Typical vegetation--Dominantly needlegrass (Juncus roemerianus), Olney's three square (Schoenoplectus americanus), big cordgrass (Spartina cynosuroides), and narrowleaf cattail (Typha angustifolia). Areas transitional to higher elevations have scattered eastern baccharis (Baccharis halimifolia), waxmyrtle (Myrica cerifera), and black willow (Salix nigra) shrubs. In some areas, much of the native vegetation has been overtaken by invasive common reed (Phragmites australis).
+
+DISTRIBUTION AND EXTENT:
+General area--Coastal plain estuaries in North Carolina and Virgina
+Land Resource Regions--T - Atlantic and Gulf Coast Lowland Forest and Crop Region
+MLRA(s)--153B
+Extent--Small  
+
+SOIL SURVEY REGIONAL OFFICE (SSRO) RESPONSIBLE: Special Projects Region
+
+SERIES ESTABLISHED: Currituck County, North Carolina, 2026
+
+REMARKS:
+The series is named after a small island at the mouth of Coinjock Bay. Goosecastle soils were previously mapped as the Backbay and Currituck soil series in Virginia and North Carolina, respectively.
+
+Diagnostic horizons and other diagnostic soil characteristics recognized in this pedon are (Keys to Soil Taxonomy, Thirteenth Edition, 2022):
+Hemic soil materials--The zone from 0 to 75 centimeters has a fiber content after rubbing that is between one-sixth and two-fifths of the original soil volume.
+Sapric soil materials--The zone from 75 to 108 centimeters has a fiber content after rubbing that less than one-sixth of the original soil volume.
+Fluidity--The zone from 108 to 200 centimeters has a fluidity class of slightly fluid to moderately fluid.
+Hyposulfidic materials--The zone from 108 to 200 centimeters has an initial pH that decreases by 1 or more units but remains at a value of 4.0 or more after 16 weeks of moist aerobic incubation.
+Argillic horizon--The zone from 139 to 200. This is a relict feature that developed prior to marsh formation.
+Peraquic feature--Zero or positive water potential at or near the soil surface.
+
+NASIS User Site and Pedon ID: S2025NC053104
+____________________________________________________________________________
+National Cooperative Soil Survey
+U.S.A.

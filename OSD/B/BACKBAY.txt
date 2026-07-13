@@ -1,72 +1,141 @@
 LOCATION BACKBAY                VA+NC
 
 Established Series
-Rev. RLV:DRH:JHW
+Rev. RLV:DRH:JHW, JDK/RBT
 06/2026
 
 BACKBAY SERIES
 
-The Backbay series consist of very deep, very poorly drained soils in coastal marshes.  They are mineral soils that have a thin organic surface layer derived from herbaceous plant remains.  These soils formed in loamy sediments in marshes along the Atlantic Coastal Plain.
+MLRA(s)--153B
+Depth class--Very deep
+Drainage class--Very poorly drained
+Parent material--Fine-loamy estuarine deposits
+Geomorphic location--Estuarine tidal marshes
+Slope range--0 to 2 percent
+Mean annual air temperature--17 degrees C (63 degrees F)
+Mean annual precipitation--1270 millimeters (50 inches)
 
-TAXONOMIC CLASS: Fine-loamy, mixed, active, nonacid, thermic Typic Hydraquents
+TAXONOMIC CLASS: Fine-loamy, mixed, active, nonacid, thermic Typic Hydraquents 
 
-TYPICAL PEDON:  Backbay mucky peat - in a marsh at about sea level.  (Colors are for moist soil unless otherwise stated. When described, the soil was flooded with about 12 inches of water.)
+TYPICAL PEDON: Backbay mucky peat in an oligohaline marsh at about sea level (colors are for moist soil unless otherwise stated; when described, the soil was flooded with about 12 inches of water).
 
-     Oe--0 to 11 inches; very dark brown (10YR 2/2) mucky peat (hemic material); about 36 percent fiber, 28 percent rubbed; massive; common fine and medium roots; sodium pyrophosphate very pale brown (10YR 7/3); slight sulfide odor; strongly acid; clear smooth boundary.  (8 to 16 inches thick)
+ Oese--0 to 28 centimeters; very dark brown (10YR 2/2) mucky peat; 36 percent unrubbed fibers, 28 percent rubbed; structureless, massive; von Post value H5; common fine and medium roots; slight sulfurous odor; no color change with 3 percent hydrogen peroxide; slight effervescence with 30 percent hydrogen peroxide; strongly acid (pH 5.2); clear smooth boundary. (20 to 39 centimeters thick)
 
-     A--11 to 22 inches; black (10YR 2/1) silt loam; weak medium granular structure; slightly sticky, slightly plastic; common fine and medium roots; slightly acid; clear smooth boundary.  (4 to 30 inches thick)
+ Aseg--28 to 56 centimeters; black (10YR 2/1) silt loam; structureless, massive; slightly sticky, slightly plastic, moderately fluid; common fine and common medium roots; slight sulfurous odor; no color change with 3 percent hydrogen peroxide; slight effervescence with 30 percent hydrogen peroxide; slightly acid (pH 6.5); clear smooth boundary. (10 to 76 centimeters thick)
 
-     Cg1--22 to 33 inches; gray (10YR 5/1) sandy clay loam; massive; sticky, slightly plastic; few medium roots; few fine flakes of mica; neutral; clear smooth boundary.  (4 to 20 inches thick)
+ Cseg1--56 to 84 centimeters; gray (10YR 5/1) sandy clay loam; structureless, massive; moderately sticky, slightly plastic, slightly fluid; few medium roots; slight sulfurous odor; color change with 3 percent hydrogen peroxide; slight effervescence with 30 percent hydrogen peroxide; few fine flakes of mica; neutral (pH 7.0); clear smooth boundary.
 
-     Cg2--33 to 47 inches; gray (N 6/0) silty clay loam; common medium distinct light olive brown (2.5Y 5/6) mottles; massive; slightly sticky, plastic; few fine flakes of mica; neutral; gradual smooth boundary.  (6 to 16 inches thick)
+ Cseg2--84 to 119 centimeters; gray (N 6/) silty clay loam; structureless, massive; slightly sticky, moderately plastic, slightly fluid; slight sulfurous odor; no color change with 3 percent hydrogen peroxide; moderate effervescence with 30 percent hydrogen peroxide; 10 percent medium distinct light olive brown (2.5Y 5/6) iron oxide concentrations; 1 percent fine flakes of mica; neutral (pH 6.7); gradual smooth boundary.
 
-     Cg3--47 to 60 inches; gray (N 6/0) silty clay loam; many coarse distinct light olive brown (2.5Y 5/6) mottles; massive; slightly sticky, plastic; common fine flakes of mica; neutral.
+ Cseg3--119 to 200 centimeters; gray (N 6/) silty clay loam; structureless, massive; slightly sticky, moderately plastic, slightly fluid; no sulfurous odor; no color change with 3 percent hydrogen peroxide; slight effervescence with 30 percent hydrogen peroxide; 25 percent coarse distinct light olive brown (2.5Y 5/6) iron oxide concentrations; 3 percent fine flakes of mica; neutral (pH 6.6).
 
-TYPE LOCATION:  City of Virginia Beach, Virginia; approximately 1,900 feet from the eastern side of Long Island and 1,000 feet from the northern edge of Long Island in the Back Bay National Wildlife Refuge.
+TYPE LOCATION: City of Virginia Beach, Virginia; in Back Bay National Wildlife Refuge; approximately 0.8 kilometers (0.5 miles) northwest of the intersection of Sandpiper Road and North Entrance Road, and approximately 2.2 kilometers (1.4 miles) south-southeast of the intersection of Sandfiddler Road and White Cap Lane; USGS topographic quadrangle: North Bay.
 
-RANGE IN CHARACTERISTICS:  The upper 20 inches of the mineral soil does not have sulfidic materials and the n-value is less than 0.7 in the mineral layers.  The soil ranges from very strongly acid through moderately acid in the organic surface layer and from strongly acid through neutral in the mineral horizons.  Sulfur content in the organic surface layer ranges from about 0.1 to 1.4 percent. The organic material is mainly from herbaceous plants.
+Latitude--36.6782722
+Longitude-- -75.9196014
+Datum--WGS84 
+Coordinate source--Estimated from other source
 
-The 0 horizon has hue of 5YR or 10YR, value of 2 or 3, and chroma of 1 or 2.  It is mucky peat or muck.
+RANGE IN CHARACTERISTICS:
+Depth to bedrock--Greater than 200 centimeters
+Soil moisture regime--Peraquic
+Manner of failure / fluidity class--Nonfluid to very fluid through the mineral horizons
+Wood fragments--0 to 10 percent in the organic horizons
+Sulfurous odor--None to strong
+Soil reaction--Strongly acid to slightly alkaline throughout (pH 5.1 to 7.8)
+Oxidized reaction--Very strongly acid to slightly acid throughout (pH 4.5 to 6.5)
+Depth to hypersulfidic materials (oxidized pH of 4.0 or less)--Greater than 100 centimeters
+Electrical conductivity (1:1 soil to water solution)--0.3 to 3.5 dS/m
+Salinity class--Nonsaline to very slightly saline
+Total soil organic carbon stock 0 to 100 centimeters--24 to 71 kg m-2
+Total soil organic carbon stock 0 to 200 centimeters--27 to 89 kg m-2
 
-The A horizon has hue of 7.5YR to 5Y or is neutral, value of 2 or 3, and chroma of 0 to 2.  It is sandy loam, loam, or silt loam.
+Oise horizon (where present):
+Hue--7.5YR or 10YR
+Value--3
+Chroma--2
+Texture--Peat
+Von Post humification scale--H1 to H3
+Organic carbon density--24 to 71 kg m-3
 
-The C horizon has hue of 10YR to 5B or is neutral, value of 4 to 7, and chroma of 0 to 2.  It is sandy loam, loam, silt loam, sandy clay loam, clay loam, or silty clay loam.  It commonly is stratified and has subhorizons of sandy or clayey materials.  Flakes of mica are few or common.
+Oese or Oase horizons:
+Hue--5YR to 5Y
+Value--2 to 3
+Chroma--1 to 2
+Texture--Mucky peat or muck
+Von Post humification scale--H4 to H10
+Organic carbon density--24 to 71 kg m-3
 
-COMPETING SERIES:  The Wasda series is the only other series in this family.  Wasda soils support merchantable trees.  Other series in closely related families include the Axis, Bohicket, Capers, Carteret, Currituck, Handsboro, Levy, and Rappahannock. Axis soils have a coarse-loamy particle size control section and are flooded daily with seawater.  Bohicket and Capers soils have sulfidic materials in the upper 20 inches of the mineral soil material.  Carteret soils have a sandy particle size control section and are flooded daily with seawater.   Currituck, Handsboro, and Rappahannock are organic soils.  Levy soils have a fine particle size control section and n-values greater than 0.7.
+Aseg horizon:
+Hue--7.5YR to 5Y, or neutral
+Value--2 to 3
+Chroma--0 to 2
+Texture--Sandy loam, loam, silt loam, sandy clay loam, or their mucky analogs
+Organic carbon density--25 to 40 kg m-3
 
-GEOGRAPHIC SETTING:  Backbay soils are on fresh water and brackish water marshes along creeks, rivers, and sounds of the Atlantic Coastal Plain.  They are not normally subject to the tidal effects of saline water.  They are irregularly flooded by wind tides throughout the year.  The soils formed primarily in loamy marine and fluvial sediments underlying thin organic materials from herbaceous plants.  The climate is humid temperate with mean annual precipitation of about 45 inches and mean annual temperature of about 59 degrees F near the type location.
+Cseg or 2Cseg horizons:
+Hue--10YR to 10Y, or neutral
+Value--2.5 to 6
+Chroma--0 to 3
+Texture--Sand, loamy sand, loam, silt loam, sandy clay loam, clay loam, silty clay loam, or their mucky analogs
+Organic carbon density--2 to 17 kg m-3
+Other remarks--Horizon is commonly stratified and has lenses of sandy or clayey materials. Few or common very fine or fine flakes of mica.
 
-GEOGRAPHICALLY ASSOCIATED SOILS:  In addition to the competing Currituck, Levy, and Rappahannock soils, these include Dragston, Delway, Duckston, Longshoal, Munden, Nimmo, and Tomotley soils.  All of these soils, except Delway and Longshoal, are at higher elevations.  In addition, Dragston, Munden, and Nimmo soils have a coarse-loamy particle size control section. Duckston soils are sandy throughout.  Tomotley soils have a fine-loamy particle size control section.  Delway and Longshoal soils are Histosols.
+COMPETING SERIES:
+There are no competing series in the same family.
 
-DRAINAGE AND PERMEABILITY:  Very poorly drained; moderate to moderately slow permeability.  The water table is from 12 inches above the surface or at the surface most of the time.  The soils are frequently flooded by wind tides.
+GEOGRAPHIC SETTING:
+Landscape--Southeast coastal plain estuaries
+Landform--Estuarine tidal marshes along oligohaline creeks, rivers, bays, and sounds
+Parent Material--Fine-loamy estuarine deposits 
+Slope--0 to 2 percent
+Elevation--0 to 1 meter
+Water salinity range--0.5 to 5 parts per thousand
+Frost free period--230 to 360 days
 
-USE AND VEGETATION:  Backbay soils are used mainly as wetland wildlife habitat.  Native vegetation is dominantly needlegrass rush (Juncus roemerianus), saltmarsh bulrush (Scirpus robustus), big cordgrass (Spartina cynosuroides), narrowleaf cattail (Typha angustifolia), and other aquatic plants.  Areas transitional to higher elevations have scattered eastern baccharis (Baccharis halimifolia), waxmyrtle (Myrica cerifera), and black willow (Salix nigra) shrubs.
+GEOGRAPHICALLY ASSOCIATED SOILS:
+These are the Coratank, Currituck, Delway, Duckston, Goosecastle, Longshoal, Rappahannock, and Sandbridge soils.
+Coratank soils--formed in herbaceous organic materials over loamy estuarine deposits.
+Currituck soils--formed in thick herbaceous organic materials over sandy marine deposits.
+Delway soils--formed in thick herbaceous and woody organic materials over loamy fluviomarine deposits and are in estuaries that have salinities of 5 to 30 parts per thousand.
+Duckston soils--are in shallow depressions between coastal dunes, are poorly drained, and are sandy throughout the profile.
+Goosecastle soils--formed in thick herbaceous organic materials underlain by loamy fluviomarine deposits.
+Longshoal soils--formed in thick herbaceous organic materials and are in estuaries that have salinities of 5 to 30 parts per thousand.
+Rappahannock soils--formed in herbaceous organic materials over loamy estuarine deposits, contain hypersulfidic materials, and are in estuaries that have salinities of 5 to 30 parts per thousand.
+Sandbridge soils--formed in herbaceous organic materials over sandy marine deposits and contain hypersulfidic materials.
 
-DISTRIBUTION AND EXTENT:  Coastal Plain of Virginia and North Carolina.  The soils are of moderate extent.
+DRAINAGE AND SATURATED HYDRAULIC CONDUCTIVITY:
+Drainage Class--Very poorly drained
+Saturated hydraulic conductivity--Moderately high to high
+Soil moisture regime--Peraquic
+Flooding--The soils are flooded by wind tides. Backbay soils are not normally subject to inundation from lunar tides.
 
-SOIL SURVEY REGIONAL OFFICE (SSRO) RESPONSIBLE: SPECIAL PROJECTS OFFICE
+USE AND VEGETATION:
+Major uses--Backbay soils are used mainly as wetland wildlife habitat. Typical vegetation--Dominantly needlegrass rush (Juncus roemerianus), saltmarsh bulrush (Scirpus robustus), big cordgrass (Spartina cynosuroides), narrowleaf cattail (Typha angustifolia), and other aquatic plants. Areas transitional to higher elevations have scattered eastern baccharis (Baccharis halimifolia), waxmyrtle (Myrica cerifera), and black willow (Salix nigra) shrubs. In some areas, much of the native vegetation has been overtaken by invasive common reed (Phragmites australis).
 
-SERIES ESTABLISHED:  City of Virginia Beach, Virginia, 1980.  The name is from Back Bay.
+DISTRIBUTION AND EXTENT:
+General area--Coastal plain estuaries in North Carolina and Virgina
+Land Resource Regions--T - Atlantic and Gulf Coast Lowland Forest and Crop Region
+MLRA(s)--153B
+Extent--Small  
 
-REMARKS:  Various chemical and physical data for these marsh soils are contained in a Masters Thesis, Pedogenic Investigations of Tidal Marsh Soils in Virginia, by Gary A. Reusche, VPI & SU, 1975.
+SOIL SURVEY REGIONAL OFFICE (SSRO) RESPONSIBLE: Special Projects Region
 
-TABULAR SERIES DATA:
+SERIES ESTABLISHED: City of Virginia Beach, Virginia, 1980
 
-SOI-5  Soil Name   Slope  Airtemp FrFr/Seas Precip  Elevation
-VA0170 BACKBAY     0-  1   59- 65  190-240  40- 50     0-   5 
+REMARKS:
+The series is named after Back Bay, a barrier-island lagoon in southeastern Virginia that connects to Currituck Sound in North Carolina.
 
-SOI-5  FloodL FloodH Watertable Kind   Months  Bedrock Hardness
-VA0170 FREQ            0-  0  APPARENT JAN-DEC  60-60        
+Diagnostic horizons and other diagnostic soil characteristics recognized in this pedon are (Keys to Soil Taxonomy, Thirteenth Edition, 2022):
+Taxonomic class--Removed from an Inceptisol and added to the Typic Hydraquents subgroup per current laboratory analysis and soil horizons from Backbay pedons.
+Histic epipedon--The zone from 0 to 28 centimeters.
+Hemic soil materials--The zone from 0 to 28 centimeters.
+Fluidity--The zone from 28 to 200 centimeters has a fluidity of slightly to moderately fluid.
+Peraquic feature--Zero or positive water potential at or near the soil surface.
 
-SOI-5  Depth  Texture                3-Inch  No-10  Clay%   -CEC-
-VA0170  0-11  PEAT MPT                 -       -     0- 0    -   
-VA0170 11-22  SL L SIL                0-  0 100-100 10-27    -   
-VA0170 22-60  SR SL SICL              0-  0 100-100  8-34    -   
+Various chemical and physical data for these marsh soils are contained in a Master's Thesis, Pedogenic Investigations of Tidal Marsh Soils in Virginia, by Gary A. Reusche, VPI & SU, 1975.
 
-SOI-5  Depth    -pH-     O.M.  Salin  Permeab   Shnk-Swll
-VA0170  0-11  4.5- 6.0  20-60  2- 8   2.0- 6.0  LOW      
-VA0170 11-22  5.1- 7.3  1.-5.  2- 4   0.2- 2.0  LOW      
-VA0170 22-60  5.1- 7.3  1.-5.  0- 2   0.2- 2.0  MODERATE 
+NASIS User Pedon ID: 1992VA810388
 
 National Cooperative Soil Survey
 U.S.A.

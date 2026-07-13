@@ -2,7 +2,7 @@ LOCATION BAHIA JOBOS            PR
 
 Tentative Series
 ASR/AMA
-06/2026
+07/2026
 
 BAHIA JOBOS SERIES
 
@@ -23,11 +23,11 @@ TYPICAL PEDON: Bahia Jobos sandy clay loam on a flood-tidal delta slope in the i
 
  Aseg--0 to 12 centimeters; dark greenish gray (10Y 4/1), sandy clay loam; structureless, massive; nonfluid; strong sulfurous odor; color change with 3 percent hydrogen peroxide, strong reaction to 30 percent hydrogen peroxide; moderately alkaline (pH 8.4), slightly alkaline (pH 7.6) oxidized pH; clear boundary.
 
- ACseg--12 to 28 centimeters; dark gray (5Y 4/1), shelly sandy clay loam; 30 percent Halimeda calcifications; structureless, massive; nonfluid; moderate sulfurous odor; color change with 3 percent hydrogen peroxide, moderate reaction to 30 percent hydrogen peroxide; moderately alkaline (pH 8.3), slightly alkaline (pH 7.7) oxidized pH; clear boundary.
+ ACseg--12 to 28 centimeters; dark gray (5Y 4/1), parashelly sandy clay loam; 30 percent Halimeda calcifications; structureless, massive; nonfluid; moderate sulfurous odor; color change with 3 percent hydrogen peroxide, moderate reaction to 30 percent hydrogen peroxide; moderately alkaline (pH 8.3), slightly alkaline (pH 7.7) oxidized pH; clear boundary.
 
  Cseg1--28 to 108 centimeters; gray (5Y 5/1), coarse sandy loam; 5 percent shell fragment and 5 percent Halimeda calcifications; structureless, massive; nonfluid; slight sulfurous odor; color change with 3 percent hydrogen peroxide, slight reaction to 30 percent hydrogen peroxide;  moderately alkaline (pH 8.3), slightly alkaline (pH 7.8) oxidized pH; gradual boundary.
 
- Cseg2--108 to 226 centimeters; greenish gray (10Y 5/1), shelly coarse sandy loam; 5 percent shell fragments and 20 percent Halimeda calcifications; structureless, massive; nonfluid; slight sulfurous odor; no reaction to 3 percent hydrogen peroxide, no reaction to 30 percent hydrogen peroxide; moderately alkaline (pH 8.3), slightly alkaline (pH 7.8); clear boundary.
+ Cseg2--108 to 226 centimeters; greenish gray (10Y 5/1), parashelly coarse sandy loam; 5 percent shell fragments and 20 percent Halimeda calcifications; structureless, massive; nonfluid; slight sulfurous odor; no reaction to 3 percent hydrogen peroxide, no reaction to 30 percent hydrogen peroxide; moderately alkaline (pH 8.3), slightly alkaline (pH 7.8); clear boundary.
 
  Cseg3--226 to 246 centimeters; greenish gray (10Y 5/1), coarse sandy loam; 2 percent shell fragments and 5 percent Halimeda calcifications; structureless, massive; nonfluid; slight sulfurous odor; no reaction to 3 percent hydrogen peroxide, no reaction to 30 percent hydrogen peroxide; moderately alkaline (pH 8.3), slightly alkaline (pH 7.8).
 
@@ -47,7 +47,7 @@ Electrical conductivity (1:5 soil-water--4.0 to 10.0 dS/m throughout
 Sulfurous odor--Moderate to strong throughout and odor intensity decreases with depth
 Shell fragments--less than 35 percent on average by volume from 0 to 100 centimeters
 
-Oase horizon (when present):
+Oase horizon (where present):
 Hue--N or 10Y
 Value--2.5
 Chroma--0 to 1 
@@ -58,21 +58,21 @@ Aseg horizon:
 Hue--10Y, 5Y, or N 
 Value--2.5 to 4
 Chroma--0 to 2
-Texture--sandy loam, silt loam, loamy very fine sand, sandy clay loam, and loam or their mucky analogs 
+Texture--sandy loam, silt loam, sandy clay loam, clay loam, loam, silty clay loam, or their mucky analogs 
 Manner of failure/fluidity class--nonfluid to very fluid
 
 ACseg horizon:
 Hue--5Y, 5GY, 10Y, N 
 Value--2.5 to 4 
 Chroma--0 to 1
-Texture--silt loam, fine sandy loam, sandy clay loam, sandy loam, silty clay loam, clay loam or loam
+Texture--silt loam, fine sandy loam, sandy clay loam, sandy loam, or loam
 Manner of failure/fluidity class--nonfluid to very fluid
 
 Cseg horizon:
 Hue--N, 5GY, 5Y, 10Y
 Value--3 to 5
 Chroma--0 to 1
-Texture--sand, coarse sandy loam, fine sandy loam, sandy loam, sandy clay loam, loamy fine sand, loamy sand, loamy coarse sand, silt loam, or loam
+Texture--sand, coarse sandy loam, fine sandy loam, sandy loam, loamy fine sand, loamy sand, loamy coarse sand, or loam
 Manner of failure/fluidity class--nonfluid
 
 COMPETING SERIES: There are no competing series in the same family.

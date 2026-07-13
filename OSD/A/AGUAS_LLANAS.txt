@@ -2,7 +2,7 @@ LOCATION AGUAS LLANAS           PR
 
 Tentative Series
 ASR/AMA
-04/2026
+06/2026
 
 AGUAS LLANAS SERIES
 
@@ -31,7 +31,7 @@ TYPICAL PEDON: Aguas Llanas mucky fine sandy loam on a flood-tidal delta flat in
 
  Cg2--114 to 168 centimeters; dark greenish gray (10Y 4/1), clay loam; structureless, massive; nonfluid; no sulfurous odor; no color change with 3 percent hydrogen peroxide, no reaction to 30 percent hydrogen peroxide; strongly alkaline (pH 8.5), slightly alkaline (pH 7.8) oxidized pH; gradual boundary.
 
- 2Cg3--168 to 226 centimeters; dark greenish gray (10Y 4/1), sandy loam; structureless, massive, nonfluid; no sulfurous odor; no color change with 3 percent hydrogen peroxide, no reaction to 30 percent hydrogen peroxide; strongly alkaline (pH 8.5), slightly alkaline (pH 7.8) oxidized pH.
+ Cg3--168 to 226 centimeters; dark greenish gray (10Y 4/1), sandy loam; structureless, massive, nonfluid; no sulfurous odor; no color change with 3 percent hydrogen peroxide, no reaction to 30 percent hydrogen peroxide; strongly alkaline (pH 8.5), slightly alkaline (pH 7.8) oxidized pH.
 
 TYPE LOCATION: Guayama municipality, Puerto Rico; Jobos Bay Lagoon, approximately 3.4 kilometers (2.1 miles) south-southeast from the Jobos Bay National Estuary Research Reserve (JBNERR) central building and approximately 0.85 kilometers (0.42 miles) northeast of Cayo Caribe's southernmost shore point.
 
@@ -76,7 +76,7 @@ Chroma--1
 Texture--sandy clay loam, clay loam, loam, sandy loam, loamy sand, or sand.
 Manner of failure/fluidity class--nonfluid to very fluid 
 
-2Cg horizon (where present)
+Cg horizon (where present)
 Hue--10Y 
 Value--4 to 8
 Chroma--1

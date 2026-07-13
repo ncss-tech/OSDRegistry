@@ -2,7 +2,7 @@ LOCATION MAREJADA               PR
 
 Tentative Series
 ASR/AMA
-04/2026
+07/2026
 
 MAREJADA SERIES
 
@@ -26,7 +26,7 @@ TYPICAL PEDON: Marejada muck in a submerged wave-built terrace in a coastal lago
 
  Cseg1--9 to 21 centimeters; dark greenish gray (10GY 4/1), shelly silty clay loam; 25 percent shell fragments; structureless, massive; slightly sticky, nonplastic, slightly fluid; slight sulfurous odor; no color change with 3 percent hydrogen peroxide; moderate effervescence with 30 percent hydrogen peroxide; moderately alkaline (pH 8.0), slightly alkaline (pH 7.8) oxidized pH; clear boundary.
 
- Cseg2--21 to 31 centimeters; dark greenish gray (10GY 4/1), silty clay; structureless, massive; slightly sticky, slightly plastic, slightly fluid; no sulfurous odor; no color change with 3 percent hydrogen peroxide; slight effervescence with 30 percent hydrogen peroxide; moderately alkaline (pH 8.0), slightly alkaline (pH 7.8) oxidized pH; clear boundary.
+ Cseg2--21 to 31 centimeters; dark greenish gray (10GY 4/1), silty clay loam; structureless, massive; slightly sticky, slightly plastic, slightly fluid; no sulfurous odor; no color change with 3 percent hydrogen peroxide; slight effervescence with 30 percent hydrogen peroxide; moderately alkaline (pH 8.0), slightly alkaline (pH 7.8) oxidized pH; clear boundary.
 
  Cseg3--31 to 44 centimeters; 75 percent greenish black (5GY 2.5/1) and 25 percent very dark gray (5Y 3/1), mucky shelly loam; 20 percent shell fragments; structureless, massive; nonsticky, nonplastic, slightly fluid; slight sulfurous odor; color change with 3 percent hydrogen peroxide, slight effervescence with 30 percent hydrogen peroxide; moderately alkaline (pH 8.0), slightly alkaline (pH 7.4) oxidized pH; abrupt boundary.
 
@@ -128,7 +128,10 @@ REMARKS: This subaqueous series is mapped in areas previously published as water
 
 Diagnostic horizons and features recognized in this pedon--
 Ocrhic epipedon--the zone 0 to 10 centimeters (0 to 4 inches).
-Hyposulfidic feature--the zone from 44 to 203 centimeters (17 to 80 inches) Thapto-Histic--the zone from 44 to 115 centimeters (17 to 45 inches)
+Lithologic Discontinuity--the zone from 44 to 203 centimeters (2Oaseb and 2Cseg horizons)
+Hyposulfidic feature--the zone from 44 to 203 centimeters (17 to 80 inches)
+Thapto-Histic feature--the zone from 44 to 115 centimeters (17 to 45 inches)
+Manner of failure--slightly to very fluid in the zone from 0 to 44 centimeters
 
 ADDITIONAL DATA:
 OSD pedon: 2023PR057001

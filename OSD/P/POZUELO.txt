@@ -2,7 +2,7 @@ LOCATION POZUELO                PR
 
 Tentative Series
 ASR/AMA
-04/2026
+07/2026
 
 POZUELO SERIES
 
@@ -58,7 +58,7 @@ Aseg horizon:
 Hue--10, 10Y, 5Y, or N
 Value--2.5 to 4 
 Chroma--0 to 1
-Texture--loam, silt loam, silty clay loam, silt loam, or silty clay with their mucky analogs
+Texture--loam, silt loam, clay loam, silty clay loam, silty clay, or clay with their mucky analogs
 
 Cseg horizons:
 Hue--5Y, 10Y, 5GY, 10GY, N
@@ -67,10 +67,10 @@ Chroma--0 to 1
 Texture--silty clay, silty clay loam, clay
 
 Cg horizon (where present):
-Hue--10Y
-Value--4
+Hue--10Y, 10GY, or neutral
+Value--2.5 to 4
 Chroma--1
-Texture--sandy clay
+Texture--clay loam, sandy clay or clay
 
 COMPETING SERIES: There are no competing series in the same family.
 

@@ -1,0 +1,111 @@
+LOCATION PUNTA ARENAS           PR
+
+Tentative Series
+ASR/AMA
+07/2026
+
+PUNTA ARENAS SERIES
+
+MLRA(s)--273
+Depth Class--Very deep
+Drainage Class--Subaqueous drainage
+Water depth range--0 to 400 centimeters
+Saturated hydraulic conductivity--High to very high
+Parent Material--Coarse-loamy marine deposits 
+Geomorphic location--Submerged mainland beaches directly exposed to the Caribbean sea
+Slope--0 to 5 percent
+Mean Annual Air Temperature--26 degrees C (79 degrees F)
+Mean Annual Water Temperature--28 degrees C (82 degrees F)
+
+TAXONOMIC CLASS: Coarse-loamy, mixed, subactive, nonacid, isohyperthermic Typic Fluviwassents
+
+TYPICAL PEDON: Punta Arenas parashelly coarse sand on a submerged mainland beach in the Caribbean sea west of Jobos Bay. (Colors are for moist soil unless otherwise stated).
+
+ Aseg--0 to 16 centimeters; very dark gray (N 3/), parashelly coarse sand; structureless, single grain; nonsticky, nonplastic; nonfluid; 30 percent halimeda calcifications; strong sulfurous odor; color change with 3 percent hydrogen peroxide, strong effervescence with 30 percent hydrogen peroxide; moderately alkaline (pH 8.2), moderately alkaline (pH 8.0) oxidized pH; abrupt boundary.
+
+ ACseg--16 to 46 centimeters; 50 percent gray (N 6/) and 50 percent light greenish gray (10Y 7/1), very parashelly coarse sand; structureless, single grain; nonsticky, nonplastic; nonfluid; 50 percent halimeda calcifications; strong sulfurous odor; color change with 3 percent hydrogen peroxide, strong effervescence with 30 percent hydrogen peroxide; moderately alkaline (pH 8.2), moderately alkaline (pH 8.0) oxidized pH; clear boundary.
+
+ Cseg--46 to 200 centimeters; gray (N 6/), extremely parashelly sandy clay loam; structureless, massive; slightly sticky, nonplastic; nonfluid; 10 percent shell fragments, 70 percent halimeda calcifications; strong sulfurous odor; no color change with 3 percent hydrogen peroxide, slight effervescence with 30 percent hydrogen peroxide; moderately alkaline (pH 8.4), moderately alkaline (pH 8.2) oxidized pH; diffuse boundary.
+
+ TYPE LOCATION: Salinas municipality, Puerto Rico; Approximately 1.20 kilometers south of Salinas Marina, approximately 81 meters south of Cayo Mata key where the mangrove forest edge begins and approximately 0.92 kilometers northwest of Punta Arenas southernmost shore point. 
+
+Latitude--17.948247
+Longitude-- -66.294483
+Datum--WGS84
+Coordinate source--Manually entered from GPS
+
+RANGE IN CHARACTERISTICS:
+Depth to bedrock--Greater than 200 centimeters
+Soil moisture--Continuously inundated 
+Reaction throughout--Moderately alkaline to strongly alkaline (pH 7.9 to 9.0)
+Oxidized reaction--Moderately alkaline to strongly alkaline (pH 7.9 to 9.0)
+Electrical conductivity (1:5 soil-water) throughout--4.0 to 10.0 dS/m
+Manner of failure--Nonfluid throughout the particle size control section (some pedons have slightly to very fluid Aseg and ACseg soil surface horizons)
+Sulfurous odor--Moderate to strong throughout and intensity decreases with depth
+Fragments--35 percent or more halimeda calcifications / parashells by volume, in the particle size control section from 0 to 100 centimeters.  These fragments are not cohesive and persistent so would not qualify as a loamy-skeletal particle size class.
+
+Aseg horizon:
+Hue--N, 10GY, 10Y, or 5Y
+Value--3 to 8
+Chroma--0 to 3
+Texture--Coarse sand, sand, fine sand, loamy sand, sandy loam, loam, sandy clay loam, or their mucky and parashelly analogs
+Manner of failure/fluidity class--nonfluid to very fluid
+
+ACseg (where present):
+Similar to A horizon
+
+Cseg horizons:
+Hue--N, 10Y, 5Y, 5GY
+Value--4 to 6
+Chroma--0 to 2
+Texture--very parashelly or extremely parashelly analogs of sand, sandy loam, loam, loamy sand, or sandy clay loam. 
+Manner of failure/fluidity class--nonfluid to a depth of 100 centimeters and nonfluid to very fluid greater than 100 centimeters
+
+COMPETING SERIES: These are the Bahia Jobos soils.
+Bahia Jobos soils--are on active flood-tidal deltas, can have mucky mineral soil horizons on the surface, and often have lower saturated hydraulic conductivity.
+
+GEOGRAPHIC SETTING:
+Parent material--Coarse-loamy marine deposits 
+Landscape--Semiarid Coastal Plain, beaches exposed to sea; Puerto Rico 
+Landform--Submerged mainland beach
+Mean Annual Air Temperature--22 to 31 degrees C (72 to 88 degrees F)
+Mean Annual Precipitation--508 to 1,145 millimeters (20 to 45 inches)
+Mean Annual Water Temperature--26 to 32 degrees C (79 to 90 degrees F)
+Water salinity range--28 to 43 parts per thousand
+
+GEOGRAPHICALLY ASSOCIATED SOILS: These are the Ostiones soils.
+Ostiones soils--occur on similar landform positions on submerged mainland beaches in better protected mainland cove like areas, this occurs within protected lagoon landscapes instead of open sea areas like Punta Arenas soils. The Ostiones soils also lack 35 percent or morehalimeda calcifications / parashell fragments
+DRAINAGE AND SATURATED HYDRAULIC CONDUCTIVITY:
+Drainage class--Subaqueous (permanently submersed)
+Saturated hydraulic conductivity--high to very high
+Soil moisture regime--Peraquic
+Soil is continuously inundated by saline water
+
+USE AND VEGETATION:
+Major Uses--Used for wildlife habitat, recreational boating, fishing, swimming, marinas, mooring fields, and commercial shellfish habitat.  These soils provide improved water quality and flood / storm surge water storage. Dominant Vegetation--Common subaquatic vegetation (SAV) species include Thalassia (Turtle grass), Syringodium (manatee grass), halimeda (watercress algae), and Halofila (paddle grass) 
+
+DISTRIBUTION AND EXTENT: 
+General area--Located along coasts and bays of Puerto Rico.
+Land Resource Region--Z - Caribbean Region
+MLRA--273 - Semiarid Coastal Plains
+Extent--Small
+
+SOIL SURVEY REGIONAL OFFICE (SSRO) RESPONSIBLE: SPECIAL PROJECTS OFFICE
+
+SERIES ESTABLISHED: Salinas Municipality, Puerto Rico; 2025. The name is from a small peninsula west of Las Mareas community in Salinas, where it was originally recognized.
+
+REMARKS: This subaqueous series is mapped in areas previously published as water in Puerto Rico Soil Survey publications.
+
+Diagnostic horizons and features recognized in this pedon--
+Peraquic soil moisture regime--Positive soil water potential (permanently submerged) at the soil surface. 
+Ochric epipedon--the zone from 0 to 46 centimeters (Aseg and ACseg horizons, 0 to 18 inches).
+Oxidized pH values--the shell fragments and Halimeda materials that occur throughout this soil buffer the oxidized pH preventing potential sulfidic materials from developing
+Irregular decrease in organic carbon
+Haplic feature--nonfluid in layer from 20 to 50 centimetersHalimeda calcifications(parashells)--35 percent or more by volume, in the particle size control section from 0 to 100 centimeters 
+
+ADDITIONAL DATA:
+OSD pedon: 2024PR123706
+Supporting pedons: 2024PR123608, 2024PR123701
+________________________________________
+National Cooperative Soil Survey
+U.S.A.
