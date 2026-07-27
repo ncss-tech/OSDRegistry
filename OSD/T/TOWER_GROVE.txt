@@ -1,0 +1,152 @@
+LOCATION TOWER GROVE            MO
+
+Tentative Series
+IRD. RET-RSA-EED
+07/2026
+
+TOWER GROVE SERIES
+
+Depth class: Very deep
+Drainage class: Moderately well drained
+Saturated hydraulic conductivity: Moderately high to high 
+Parent material: Human-transported materials mostly derived from nearby loess deposits and over Peoria loess
+Geomorphic location: Leveled land on hillslopes and interfluves
+Slope range: 0 to 30 percent
+Mean annual temperature: 12 degrees C
+Mean annual precipitation: 1050 millimeters 
+
+TAXONOMIC CLASS: Fine-silty, mixed, superactive, mesic Oxyaquic Hapludalfs
+
+TYPICAL PEDON: Tower Grove silt loam, 2 percent slope in a city park under sod grass, in an area where minor land-leveling has occurred (Colors are for moist soil unless otherwise noted.)
+
+ ^Au--0 to 10 centimeters; dark brown (10YR 3/3) silt loam; weak very fine subangular blocky structure; friable; common very fine and fine roots throughout; common fine interstitial pores; 1 percent gravel-sized brick artifacts; neutral (pH 6.8); clear smooth boundary (7 to 18 cm thick)
+
+ ^Cu--10 to 32 centimeters; 50 percent dark grayish brown (10YR 4/2) and 35 percent brown (10YR 4/3) and 15 percent reddish brown (5YR 4/3) silt loam; massive; friable; few fine roots throughout; few fine interstitial pores; 2 percent gravel-sized brick and 3 percent gravel-sized bitumen (asphalt) artifacts; slightly alkaline (pH 7.6); abrupt wavy boundary (12 to 28 cm thick)
+
+ 2Bt1--32 to 43 centimeters; 70 percent dark brown (10YR 3/3) and 30 percent brown (10YR 4/3) silty clay loam; moderate fine subangular blocky structure; friable; common very fine and fine roots throughout; common fine interstitial pores; 10 percent prominent light gray (10YR 7/2), dry, silt coats on all faces of peds and 10 percent faint dark brown (10YR 3/3), clay films on all faces of peds; neutral (pH 7.1); clear smooth boundary
+
+ 2Bt2--43 to 60 centimeters; 70 percent brown (10YR 4/3) and 30 percent dark yellowish brown (10YR 4/4) silty clay loam; moderate medium subangular blocky and moderate coarse subangular blocky structure; firm; common very fine and fine roots throughout; common very fine vesicular and interstitial pores, and common fine dendritic tubular pores; 5 percent prominent light gray (10YR 7/2), dry, silt coats on all faces of peds and 10 percent faint dark brown (10YR 3/3) clay films on all faces of peds; 2 percent fine distinct black (10YR 2/1) manganese masses and 2 percent fine distinct brown (10YR 5/3) iron depletions; neutral (pH 7.0); clear smooth boundary
+
+ 2Bt3--60 to 95 centimeters; 80 percent dark yellowish brown (10YR 4/4) and 20 percent brown (10YR 4/3) silty clay loam; weak coarse subangular blocky structure; firm; common very fine roots throughout; common very fine vesicular and fine dendritic tubular pores; 5 percent faint dark brown (10YR 3/3) clay films on all faces of peds; 5 percent fine distinct grayish brown (10YR 5/2) iron depletions; neutral (pH 6.9); clear smooth boundary
+
+ 2Bt4--95 to 135 centimeters; dark yellowish brown (10YR 4/4) silt loam; weak coarse subangular blocky structure; friable; common very fine roots throughout; common very fine vesicular and few fine dendritic tubular pores; 8 percent fine distinct grayish brown (10YR 5/2) iron depletions; neutral (pH 6.6); gradual smooth boundary (combined thickness of the 2Bt horizons is 90 to 160 centimeters thick)
+
+ 2C--135 to 200 centimeters; brown (10YR 4/3) silt loam; massive; friable; few very fine roots throughout; few very fine vesicular pores; 10 percent medium faint grayish brown (10YR 5/2), iron depletions; slightly acid (pH 6.5)
+
+TYPE LOCATION:
+St Louis County, Missouri; 40 feet west and 50 feet north of the intersection of Louisiana Ave and Henrietta St in a vacant lot.
+
+USGS Quadrangle: Cahokia, IL-MO
+Latitude: 38.6175960
+Longitude: -90.2347450
+Datum: WGS84
+Coordinate source: From hand-held GPS
+
+RANGE IN CHARACTERISTICS:
+Thickness of human-transported materials: 12 to 40 centimeters
+Depth to bedrock: Greater than 200 centimeters
+Depth to seasonal high-water table: 46 to 110 centimeters
+Combined rock and artifact content: 0 to 10 percent
+Soil reaction: Slightly acid to moderately alkaline (6.1 to 8.3 pH)
+Particle-size control section (weighted average):
+Clay content--18 to 35 percent
+Sand content--2 to 15 percent
+Artifact content--0 to 10 percent
+
+^A(u) horizons:
+Hue--10YR
+Value--2 to 4
+Chroma--1 to 3 
+Texture--silt loam
+Rock fragment content--0 to 5 percent 
+Artifact content--0 to 5 percent 
+
+^C(u) horizons:
+Hue--10YR, 7.5YR, 5YR
+Value--3 to 4
+Chroma--2 to 6 
+Texture--silt loam or silty clay loam
+Rock fragments--0 to 5 percent
+Artifact content--0 to 5 percent
+
+2Bt horizons:
+Hue--10YR or 7.5YR
+Value--4 or 5
+Chroma--3 to 6
+Texture--silt loam or silty clay loam
+
+2C horizon:
+Hue--10YR or 7.5YR
+Value--4 or 5
+Chroma--3 to 6
+Texture--silt loam or silty clay loam
+
+COMPETING SERIES: These are the Baraboo, Birkbeck, Cadiz, Campton, Elco, Eleroy, Inton, Iona, Libre, Mayville, Minnith, Morningsun, Redbud, Rocheport, Rockfield, Somonauk, Uniontown, Winfield, and Zurich soils, all of which lack human-transported material near the surface. 
+
+Baraboo, Eleroy, and Rocheport soils have a paralithic or lithic contact.
+Birkbeck soils have E horizons and carbonates as high as 102 centimeters from the surface.
+Campton soils have carbonates and textures with more than 20 percent sand below the particle-size control section.
+Cadiz soil have more than 5 percent gravel in the particle-size control section and carbonates as high as 61 centimeters from the surface.  
+Elco soils have E horizons and more than 15 percent sand in the lower parts of the argillic.
+Inton soils have chromas of 2 or less in the lower parts of the argillic and lack a lithologic discontinuity. 
+Iona soils have carbonates as high as 102 centimeters from the surface and lack a lithologic discontinuity.
+Libre and Rockfield soils have a densic contact.
+Mayville soils have carbonates as high as 51 centimeters from the surface and more than 15 percent sand below the particle-size control section. 
+Minnith soils have E horizons and more than 15 percent sand below the particle-size control section.
+Morningsun soils have have carbonates as high as 102 centimeters from the surface and more than 15 percent sand below the particle-size control section. 
+Redbud soils have E horizons, up to 55 percent clay in the lower parts of the argillic, and prismatic structure throughout the particle-size control section.
+Somonauk soils have between 15 and 75 percent sand in the lower parts of the argillic.
+Uniontown soils have carbonate concretions below the particle=size control section and lack a lithologic discontinuity.
+Winfield soils lack a lithologic discontinuity, are very strongly acid to slightly acid in the lower part of the argillic and have E horizons.
+Zurich soils have more than 15 percent sand in the lower parts of the argillic and stratified textures below the argillic.
+
+GEOGRAPHIC SETTING:
+Parent material: Human-transported material over Peoria loess
+Landscape: Loess hills
+Landform: Interfluves, ridges, shoulders, and backslopes
+Anthropogenic landform: Leveled land and fills
+Slope: 2 to 30 percent
+Elevation: 120 to 250 meters
+Frost-free period: 184 to 228 days
+Mean annual temperature: 11 to 14 degrees C
+Mean annual precipitation: 940 to 1194 millimeters
+
+GEOGRAPHICALLY ASSOCIATED SOILS: These are the Fishpot, Harvester, Shaw, and Vandeventer soils which have mantles of human-transported material greater than 50 centimeters thick, and the competing Windfield soils. 
+
+Fishpot soils formed in alluvial materials and are subject to frequent flooding on nearby fills on stream terraces and floodplains.
+Harvester soils have aquic conditions beginning below 55 centimeters, have buried argillic horizons, and are found on similar landforms.
+Shaw soils have mollic epipedons, aquic conditions within 40 centimeters, and are on nearby leveled or filled interfluves.
+Vandeventer soils have between 35 and 80 percent human artifacts in the particle-size control section and are found on similar landforms.
+Winfield soils are found on nearby unmodified loess hills.
+
+DRAINAGE AND SATURATED HYDRAULIC CONDUCTIVITY:
+Drainage Class: Moderately well drained 
+Surface Runoff: Medium
+Saturated Hydraulic Conductivity Class: Moderately high except where compacted
+Flooding: None
+Ponding: None
+
+USE AND VEGETATION:
+Major uses are for recreational and residential applications in an urban setting. Vegetation may include managed and unmanaged plant communities with a mix of native and non-native species. Many areas are vegetated with non-native ornamental landscaping or turfgrass. Some areas exhibit weedy, invasive, and primary succession vegetation communities (e.g., abandoned green space and other unmanaged areas). 
+
+DISTRIBUTION AND EXTENT:
+Urban and other areas with human-modified landscapes in the Central Feed Grains and Livestock Region, Major Land Resource Area 115. These soils are of moderate extent.
+
+SOIL SURVEY REGIONAL OFFICE (SSRO) RESPONSIBLE: Raleigh, North Carolina (Special Projects Region)
+
+SERIES PROPOSED: St Louis County, Missouri, 2026
+
+REMARKS: Areas of Tower Grove soils were in deep loess deposits prior to disturbance by earth-moving equipment. The amount of filling, cutting, alteration of existing soil is variable from place to place.
+
+Typical Pedon Taxonomic Features:
+Ochric epipedon--The zone from 0 to 10 centimeters
+Human-transported material--The zone from 0 to 32 cm
+Lithologic discontinuity--At a depth of 32 centimeters
+Particle-size control section--The zone from 32 to 82 centimeters
+Taxonomic Version: Keys to Soil Taxonomy, 13th Edition (2022)
+
+ADDITIONAL DATA:
+NASIS User Pedon ID: 2023MO510062
+
+National Cooperative Soil Survey
+U.S.A.

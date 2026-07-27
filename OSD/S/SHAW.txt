@@ -1,8 +1,8 @@
 LOCATION SHAW                   MO
 
 Tentative Series
-IRD. RET-RSA
-06/2026
+IRD. RET-RSA-EED
+07/2026
 
 SHAW SERIES
 
@@ -16,7 +16,6 @@ Mean annual temperature: 12 degrees C
 Mean annual precipitation: 1050 millimeters 
 
 TAXONOMIC CLASS: Fine-silty, spolic, mixed, superactive, mesic Aquic Hapludolls
-Fine-silty, spolic, mixed, superactive, mesic Aquic Hapludolls
 
 TYPICAL PEDON: Shaw silt loam, 1 percent slopes on a residential lot under sod grass in an area reshaped by heavy equipment. (Colors are for moist soil unless otherwise noted.)
 
@@ -93,7 +92,7 @@ Texture--silt loam or silty clay loam
 
 COMPETING SERIES:
 There are no competing series. The Muscatine and Joy soils are in a similar family but do not have a surface mantle of human-transported material.
- 
+
 GEOGRAPHIC SETTING:
 Parent material: Human-transported material derived from nearby loess deposits and overlies Peoria loess, where it is present.
 Landscape: Loess hills
