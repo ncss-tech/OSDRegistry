@@ -2,7 +2,7 @@ LOCATION RASALO                 VA+NC
 
 Established Series
 DHE/DTA
-09/2025
+07/2026
 
 RASALO SERIES
 
@@ -23,6 +23,7 @@ Mean Annual Precipitation (type location): 1194 Millimeters (47 inches)
 TAXONOMIC CLASS: Fine, mixed, active, mesic Ultic Hapludalfs
 
 TYPICAL PEDON: Rasalo sandy loam--in a wooded site. (Colors are for moist soil.)
+
   A--0 to 15 centimeters (0 to 6 inches); yellowish brown (10YR 5/6); sandy loam; moderate fine and medium granular structure; very friable; non-sticky; non-plastic; few fine and medium roots; strongly acid; abrupt smooth boundary. (2.5 to 25 centimeters (1 to 10 inches) thick)
 
   Bt1--15 to 51 centimeters (6 to 20 inches); brownish yellow (10YR 6/6); clay; strong medium angular blocky structure; firm; sticky; plastic; common distinct clay films on faces of peds; few 2 mm diameter grains of feldspar; slightly acid; abrupt smooth boundary.
@@ -31,7 +32,7 @@ TYPICAL PEDON: Rasalo sandy loam--in a wooded site. (Colors are for moist soil.)
 
   C--76 to 152 centimeters (30 to 60 inches); multicolored in shades of green, yellow, and black sandy loam saprolite; massive; friable; non-sticky; non-plastic; few very fine and medium flakes of mica; slightly acid. (76 to 102 centimeters (30 to 40 inches) thick)
 
-TYPE LOCATION: Halifax County, Virginia; about 3000 feet east on State Road 809 from the junction with State Road 708; 1600 feet north of State Road 809; in a cutover area; in woods; Vernon Hill, Virginia  USGS topographic quadrangle.
+TYPE LOCATION: Halifax County, Virginia; about 3000 feet east on State Road 809 from the junction with State Road 708; 1600 feet north of State Road 809; in a cutover area; in woods; USGS Vernon Hill, Virginia topographic quadrangle.
 
 Latitude--36.644167
 Longitude-- -78.977778
@@ -68,11 +69,9 @@ Texture--sandy clay loam, loam, or clay loam
 
 C horizon:
 Color--variable
-Texture (fine-earth fraction)--sandy clay loam, loam, or sandy loam saprolite
+Texture (fine-earth fraction)--sandy clay loam, loam, or sandy loam
 
 COMPETING SERIES:
-Fauquier soils-have red Bt horizons, moderate permeability and is mapped in MLRAs 130, 147, and 148
-Montalto soils--have a red subsoil and occur on uplands of MLRA 148 and 130
 Zion soils--have a depth to hard bedrock of 20 to 40 inches.
 
 GEOGRAPHIC SETTING:
@@ -84,19 +83,19 @@ Mean Annual Precipitation: 1194 millimeters (47 inches)
 Frost Free Period: 180 to 260 days
 
 GEOGRAPHICALLY ASSOCIATED SOILS:
-Minniville soils--are red and are intermingled on slightly higher landscape positions
-Spriggs soils--have a fine-loamy particle size class, are moderately deep to soft bedrock and deep to hard bedrock, and are intermingled in some areas
-Siloam soils--have a loamy particle size class, are shallow to soft bedrock, and occur on steeper side slopes
+Minnieville soils--are red and are intermingled on slightly higher landscape positions
+Spriggs soils--are fine-loamy, moderately deep to soft bedrock and deep to hard bedrock, and intermingled in some areas
+Siloam soils--are loamy, shallow to soft bedrock, and occur on steeper side slopes
 Jackland soils--are moderately well to somewhat drained, have a smectitic mineralogy class and are on less convex segments of the same landscape
-Halifax soils--are moderately well drained, are derived from felsic crystalline residuum, and are on less convex segments of the same landscape
+Halifax soils--are moderately well drained, derived from felsic crystalline residuum, and are on less convex segments of the same landscape
 
-DRAINAGE AND PERMEABILITY:
+DRAINAGE AND SATURATED HYDRAULIC CONDUCTIVITY:
 Agricultural Drainage Class: Well drained
 Index Surface Runoff: High
 Saturated Hydraulic Conductivity Class: Low 
 
 USE AND VEGETATION:
-Major Uses: mixed hardwood and pine forest
+Major Uses: Mixed hardwood and pine forest
 Dominant Vegetation: Where forested--loblolly pine, red maple, sweet gum, black gum, water oak, winged elm, and willow oak.
 
 SOIL SURVEY REGIONAL OFFICE (SSRO) RESPONSIBLE: Auburn, Alabama
@@ -107,7 +106,7 @@ Extent: Small
 
 SERIES ESTABLISHED: Halifax County, Virginia, 2005
 
-REMARKS: Rasalo soils were previously mapped as Enon soils. They replace Enon soils in the new mesic Southern Piedmont MLRA (136).  The September, 2025 revision updated the format.  No data was changed.
+REMARKS: Rasalo soils were previously mapped as Enon soils. They replace Enon soils in the new mesic Southern Piedmont MLRA (136).  The September, 2025 revision updated the format.  No data was changed. The July 2026 revision corrected grammatical errors.
 
 Diagnostic horizons and soil characteristics recognized in this pedon are:
 Ochric epipedon--the zone from 0 to 15 centimeters (0 to 6 inches) (A horizon)
