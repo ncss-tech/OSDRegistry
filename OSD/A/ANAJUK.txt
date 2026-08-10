@@ -1,0 +1,135 @@
+LOCATION ANAJUK                 AK
+
+Established Series
+SDB/MJS
+08/2026
+
+ANAJUK SERIES
+
+Depth class: shallow 
+Drainage class: very poorly drained
+Parent material: organic material over eolian sands
+Landscape: coastal plains
+Landform: patterned ground
+Microfeature: low relief trough on-high center polygons
+Slope: 0 to 4 percent
+Mean annual precipitation: about 130 mm (5 in)
+Mean annual air temperature: about -11 degrees C (12 degrees F)
+Frost-free period: 22 to 82 days
+
+TAXONOMIC CLASS: Sandy, mixed, pergelic Glacic Histoturbels
+
+TYPICAL PEDON: Anajuk peat in sedge and sphagnum covered low relief trough between high centered polygons at an elevation of 48 meters (155 ft)
+
+	Oi--0 to 17 cm (0 to 7 in); peat, very dark brown (7.5YR 2.5/2) rubbed moist; nonsticky, nonplastic; many very fine and fine roots throughout; very strongly acid, (pH 4.5); clear smooth boundary (14 to 21 cm, 6 to 8 in)
+
+	Oe--17 to 22 cm (7 to 9 in); mucky peat, very dark grayish brown (10YR 3/2) rubbed moist; nonsticky, nonplastic; common, very fine, and fine roots throughout; moderately acid, (pH 5.7); abrupt smooth boundary (5 to 15 cm, 2 to 6 in)
+
+	Cg--22 to 32 cm (9 to 13 in); sand, dark grayish brown (2.5Y 4/2) rubbed moist; massive; loose, nonsticky, nonplastic; few very fine roots throughout; neutral, (pH 6.8); abrupt smooth boundary (10 to 20 cm, 4 to 8 in)
+
+	Cg/Oejjf--32 to 38 cm (13 to 15 in); mucky peat, loamy sand; massive; loose, nonsticky, nonplastic; neutral (pH 6.6); very abrupt smooth boundary (7 to 50 cm, 3 to 20 in)
+
+	Wf--38 to 150 cm (15 to 59 in); water; slightly alkaline, (pH 7.5).
+
+TYPE LOCATION: North Slope Borough County, Alaska: latitude 69.97386, longitude -153.05445, Datum WGS84
+
+RANGE IN CHARACTERISTICS:
+
+Soil moisture regime: aquic
+Soil temperature regime: gelic
+Mean annual soil temperature: -10 to -6 degrees C. (14to 21 degrees F)
+Thickness of organic material: 19 to 30 cm (7 to 14 in)
+Thickness of histic epipedon:19 to 36 cm (7 to 14 in)
+Depth to cryoturbation: 29 to 56 cm (11 to 22 in)
+Depth to permafrost: 29 to 56 cm (11 to 22 in)
+Depth to glacic horizon: 36 to 106 cm (14 to 42 in)
+
+Oi and Oe:
+Hue: 7.5YR or 10YR
+Value: 2 to 3
+Chroma: 1 to 3
+Texture: Slightly decomposed organic material, mucky peat, or muck
+Organic matter: 49 to 83 percent
+Reaction class: extremely acid to slightly acid (pH 3.5 to 6.5)
+
+C horizon:
+Hue: 10YR or 2.5Y
+Value: 4 to 5
+Chroma: 1 to 2
+Texture: sand, loamy fine sand
+Sand: 88 to 99 percent
+Silt: 0.5 to 3 percent 
+Clay: 0 to 9 percent
+Rock fragments: 0
+Organic matter: 0.5 to 1 percent
+Reaction class: slightly acid to neutral (pH 6.1 to 7.3)
+
+Cg/Oejjf horizon:
+Cg material: hue of 10YR or 2.5Y, value of 4 to 5, and chroma of 1 to 2
+O material: hue of 7.5YR or 10YR, value of 2 to 3, chroma of 1 to 3
+Texture: loamy sand, sand, loamy sand
+Sand: 78 to 91percent
+Silt: 5 to 12 percent
+Clay: 4 to 10 percent
+Organic matter: 6 to 10 percent
+Reaction class: slightly acid to neutral (pH 6.1 to 7.3)
+
+Wf horizon:
+Reaction class: slightly alkaline (pH 7.4 to 7.8)
+
+COMPETING SERIES: There are no competing series
+
+GEOGRAPHIC SETTING:
+Elevation: 0 to 100 meters (0 to 330 ft)
+Parent material: organic material over eolian sands
+Landform: patterned ground
+Slopes: 0 to 4 percent
+Mean annual precipitation: 100 to 150 mm (4 to 6 in)
+Mean annual air temperature: -12 to -11degrees C. (10 to 12 degrees F)
+Frost free period: 22 to 82 days
+
+GEOGRAPHICALLY ASSOCIATED SOILS: These are the Arrakis, Bodfish, Inigok, Nuiqsut, Pingok, Poleakoon, and Teshekpuk soils.
+Arrakis soils are excessively drained, lack permafrost, have an ochric epipedon, and occur on top of dunes and meander scrolls.
+Bodfish soils are somewhat poorly drained, lack permafrost, have an ochric epipedon, and occur on flood plains.
+Inigok soils are poorly drained, lack a glacic horizon, and occur on low relief domes on high-center polygons.
+Nuiqsut soils are poorly drained, are organic soils, lack a glacic horizon, and occur on the center of low center polygons.
+Pingok soils are organic soils and occur on the high relief troughs of high-center polygons.
+Poleakoon soils lack cryoturbation, lack a glacic horizon, and occur on string bog, depressions, and drainageways.
+Teshekpuk soils are well drained, have a mollic epipedon, lack permafrost, and occur on longitudinal dunes.
+
+DRAINAGE AND SATURATED HYDRAULIC CONDUCTIVITY: 
+Drainage class: very poorly
+Saturated hydraulic conductivity: High in the Oi and Oe horizons, very high I the Cg horizon, low in the Cg/Oejjf and Wf horizons.
+Permeability: Rapid in the Oi and Oe horizon, very rapid in the Cg horizon, very slow in the Cg/Oejjf and Wf horizons.
+
+USE AND VEGETATION: 
+Use: wildlife habitat, recreation, and subsistence
+Native vegetation: Sphagnum moss and Bigelow's sedge.
+
+DISTRIBUTION AND EXTENT: MLRA 246 Artic Coastal Plain
+Extent: moderate
+
+SOIL SURVEY REGIONAL OFFICE (SSRO) RESPONSIBLE: Wasilla, Alaska
+
+SERIES ESTABLISHED: National Petroleum Reserve-Beaufort Coastal Plain Area, Alaska, 2025
+
+REMARKS: Diagnostic features and horizons recognized in this profile include:
+
+Particle size control section: 47 to 122 cm (19 to 48 in)
+
+Histic epipedon: 0 to 20 cm (7 to 14 in)
+
+Reduced matrix: 20 to 38 cm (8 to 15 in)
+
+Cryoturbation: 30 to 38 (12 to 15 in)
+
+Permafrost: 30 to 150 (12 to 59 in)
+
+Glacic layer: 38 to 150 (15 to 59 in)
+
+ADDITIONAL DATA:
+
+User pedon Id: 2023AK185801
+
+National Cooperative Soil Survey
+U.S.A.

@@ -1,0 +1,113 @@
+LOCATION ARRAKIS                AK
+
+Established Series
+SDB/MJS
+08/2026
+
+ARRAKIS SERIES
+
+Depth class: very deep
+Drainage class: excessively drained
+Parent material: eolian sands
+Landscape: river valleys
+Landform: stream terraces, active dunes, dune meander scrolls, blowouts and meander scrolls
+Slope: 0 to 20 percent
+Mean annual precipitation: about 126 mm (5 in)
+Mean annual air temperature: about -11 degrees C (12 degrees F)
+Frost-free period: 22 to 82 days
+
+TAXONOMIC CLASS: Mixed, pergelic Typic Udipsamments
+
+TYPICAL PEDON: Arrakis fine sand in a barren ground willow dominated dune, on a 55 percent slope, at an elevation of 50 m. (165 ft)
+
+	C1--0 to 22 cm (0 to 9 in); olive brown (2.5Y 4/3), dry; fine sand; weak fine subangular blocky structure; soft, very friable, nonsticky, nonplastic; moderately alkaline, (pH 8.1); clear smooth boundary. (10 to 40 cm, 4 to 16 in)
+
+	C2--22 to 53 cm (9 to 21 in); olive brown (2.5Y 4/3) dry; loamy fine sand; moderate medium subangular blocky structure; soft, very friable, nonsticky, nonplastic; moderately alkaline, (pH 8.0); clear smooth boundary. 
+
+	C3--53 to 89 cm (21 to 35 in); olive brown (2.5Y 4/3) rubbed, dry; loamy fine sand; weak fine subangular blocky parts to weak thin platy structure; soft, very friable, nonsticky, nonplastic; moderately alkaline, (pH 8.0); clear smooth boundary. (35 to 110 cm, 14 to 43 in, combined)
+
+	C4--89 to 165 cm (35 to 65 in); olive brown (2.5Y 4/3) rubbed, dry; fine sand; moderate medium subangular blocky structure; soft, very friable, nonsticky, nonplastic; moderately alkaline, (pH 8.2); clear smooth boundary.
+
+	C5--165 to 200 cm (65 to 79 in); olive brown (2.5Y 4/3) rubbed, dry; fine sand; massive; soft, very friable, nonsticky, nonplastic; moderately alkaline, (pH 8.2); clear smooth boundary. (50 to 155 cm, 20 to 61 in, combined)
+
+TYPE LOCATION: North Slope Borough County, Alaska: latitude 70.14316, longitude -152.13790, Datum WGS84
+
+RANGE IN CHARACTERISTICS:
+
+Soil moisture regime: udic
+Soil temperature regime: gelic
+Mean annual soil temperature: -10 to -6 degrees C. (14 to 21 degrees F)
+Thickness of organic material: 0 cm (0 in)
+Thickness of ochric epipedon: 0 to 22 cm (0 to 9 in)
+
+C horizon:
+Hue: 10YR or 2.5Y
+Value: 4 to 5
+Chroma: 2 to 4
+Texture: sand, fine sand, loamy sand, and loamy fine sand
+Sand: 85 to 98 percent
+Silt: 0 to 14 percent
+Clay: 1 to 7 percent
+Rock fragments: none
+Organic matter: 0 to 2.64 percent
+Reaction class: neutral to moderately alkaline (pH 6.6 to 8.4)
+
+A Horizon, where present:
+Thickness: 0 to 15 cm (0 to 6 in)
+Hue: 7.5YR or 10YR
+Value: 2 to 3
+Chroma: 1 to 2
+Texture: sand, fine sand, loamy sand, and loamy fine sand
+Sand: 85 to 98 percent
+Silt: 0 to 14 percent
+Clay: 1 to 7 percent
+Rock fragments: none
+Organic matter: 2 to 6 percent
+Reaction class: neutral to moderately alkaline (pH 6.6 to 8.4)
+
+COMPETING SERIES: These are the Bodfish soils which are somewhat poorly drained, have an irregular decrease in organic matter between the surface and subsurface horizons, and have loamy sand or loamy fine sand alluvium as parent material. Found on lower level, more active river valley floodplains.
+
+GEOGRAPHIC SETTING:
+Elevation: 0 to 100 meters (0 to 330 ft)
+Parent material: eolian sands
+Landform: stream terraces, active dunes, dune meander scrolls, blowouts and meander scrolls
+Slopes: 0 to 4 percent
+Mean annual precipitation: 100 to 150 mm (4 to 6 in)
+Mean annual air temperature: -12 to -11degrees C. (10 to 12 degrees F)
+Frost free period: 22 to 82 days
+
+GEOGRAPHICALLY ASSOCIATED SOILS: These are the Anajuk, Atigaru, Bodfish, Kikak, and Tuluga soils.
+Anajuk soils are very poorly drained, have permafrost, have cryoturbated and glacic horizons, and occur on low relief troughs of high-center polygons.
+Atigaru soils are poorly drained, have permafrost, and occur on non-polygonal stream terraces.
+Bodfish soils are somewhat poorly drained, have an irregular decrease in organic matter between the surface and subsurface horizons, and occurs on floodplains.
+Kikak soils are poorly drained, have aquic conditions, have permafrost below 100 cm, and occur on flats of ice wedge polygons.
+Tuluga soils are poorly drained, have aquic conditions, and occur on depressions on stream terraces.
+
+DRAINAGE AND SATURATED HYDRAULIC CONDUCTIVITY: 
+Drainage class: excessively drained
+Saturated hydraulic conductivity: Very high in all horizons
+Permeability: Very rapid in all horizons
+
+USE AND VEGETATION: 
+Use: wildlife habitat, recreation, and subsistence
+Native vegetation: Barrenground willow, Richardsons willow, entireleaf mountain-avens
+
+DISTRIBUTION AND EXTENT: MLRA 246, Artic Coastal Plain
+Extent: moderate
+
+SOIL SURVEY REGIONAL OFFICE (SSRO) RESPONSIBLE: Wasilla, Alaska
+
+SERIES ESTABLISHED: National Petroleum Reserve-Beaufort Coastal Plain Area, Alaska, 2025
+
+REMARKS: Diagnostic features and horizons recognized in this profile include:
+
+Particle size control section: 25 to 100 cm (10 to 39 in)
+
+Ochric epipedon: 0 to 22 cm (0 to 9 in)
+
+ADDITIONAL DATA:
+
+User pedon Id: 2024AK185018
+
+National Cooperative Soil Survey
+U.S.A.

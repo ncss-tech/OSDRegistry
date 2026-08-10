@@ -1,14 +1,14 @@
 LOCATION CHARCOAL               ID
 
-Tentative Series
+Established Series
 CBR/DJP
-04/2020
+08/2026
 
 CHARCOAL SERIES
 
 The Charcoal series consists of very deep, excessively drained soils that formed in alluvium or till. These soils are on stream terraces, alluvial fans, or moraines. Slopes are 0 to 20 percent. Mean annual precipitation is about 500 mm, and mean annual air temperature is about 2 degrees C.
 
-TAXONOMIC CLASS: Sandy-skeletal, mixed Xeric Haplocryolls
+TAXONOMIC CLASS: Sandy-skeletal, mixed Xeric Humicryepts
 
 TYPICAL PEDON: Charcoal gravelly loam in rangeland. (Colors are for dry soil unless otherwise noted.) 
 
@@ -24,7 +24,7 @@ TYPE LOCATION:  Custer County, Idaho; USGS topographic quadrangle Big Black Dome
 
 RANGE IN CHARACTERISTICS: 
 Mean annual soil temperature--2.1 to 3.9 degrees C
-Thickness of mollic epipedon--29 to 38 cm 
+Thickness of umbric epipedon--29 to 38 cm 
 Depth to sand and gravel--22 to 60 cm
 
 Particle-size control section (weighted averages)
@@ -38,16 +38,16 @@ Chroma--2 or 3 dry, 1 or 2 moist
 Texture (less than 2 mm fraction)--silt loam or loam 
 Clay content--10 to 18 percent 
 Rock fragments--15 to 30 percent gravel
-Reaction--pH 5.8 to 6.4 
+Reaction--pH 5.4 to 5.9 
 Thickness--8 to 30 cm
 
-Bw horizon (when present)
+Bw horizon
 Hue--7.5YR or 10YR
 Chroma--2 to 4 moist
 Texture (less than 2 mm fraction)--silt loam or loam  
 Clay content--14 to 22 percent 
 Rock fragments--45 to 55 percent - 45 to 55 percent gravel, 0 to 5 percent cobbles
-Reaction--pH 5.4 to 6.0  
+Reaction--pH 5.4 to 5.9  
 Thickness--0 to 31 cm
 
 C horizons 
@@ -56,11 +56,12 @@ Chroma--3 or 4
 Texture (less than 2 mm fraction)--sand, coarse sand, loamy sand 
 Clay content--1 to 5
 Rock fragments--75 to 85 percent - 70 to 80 percent gravel, 5 to 15 percent cobbles
-Reaction--pH 5.4 to 6.6
+Reaction--pH 5.4 to 5.9
 
-COMPETING SERIES:  
-Langer (ID) --soils have a cambic horizon
-Wiggleton (ID) --soils have secondary calcium carbonate accumulations
+COMPETING SERIES: 
+Klauspeak (CA) --soils average 35 to 50 percent rock fragments in the particle-size control section
+Lowemar (NV) --soils average 35 to 60 percent rock fragments in the particle-size control section
+Mctom (CA+NV) --soils have paralithic contact from 50 to 100 cm 
 
 GEOGRAPHIC SETTING:
 Landform-- stream terraces, alluvial fans, or moraines
@@ -71,10 +72,10 @@ Mean annual precipitation--450 to 825 mm
 Mean annual air temperature--1.1 to 2.9 degrees C
 Frost-free period--30 to 60 days
 
-GEOGRAPHICALLY ASSOCIATED SOILS:  None listed.
+GEOGRAPHICALLY ASSOCIATED SOILS: None listed.
 
 DRAINAGE AND SATURATED HYDRAULIC CONDUCTIVITY: Excessively drained, 5 to 15 um/sec in the upper part and 150 to 700 um/sec in the lower part 
- 
+
 USE AND VEGETATION: Charcoal soils are primarily used for grazing. The potential native vegetation early sagebrush, mountain big sagebrush, and Idaho fescue.
 
 DISTRIBUTION AND EXTENT: Charcoal soils are of moderate extent in southeastern Idaho; MLRAs 12 and 43B.
@@ -84,13 +85,15 @@ SOIL SURVEY REGIONAL OFFICE (SSRO) RESPONSIBLE: Bozeman, Montana
 SERIES PROPOSED: Custer County, Idaho, 2020. Charcoal series is derived from a nearby stream.  
 
 REMARKS: Diagnostic horizons and features recognized in this pedon:
-Mollic epipedon--0 to 31 cm (A and Bw horizons)	
+Umbric epipedon--0 to 31 cm (A and Bw horizons)	
 
 Particle-size control section--25 to 100 cm
 
 Charcoal soils have a cryic temperature regime and a xeric moisture regime.
 
-Taxonomic version: Twelfth Edition, 2014 
+This series was formerly classified as Sandy-skeletal, mixed Xeric Haplocryolls. Revised in 2025 to reflect low base saturation.
+
+Taxonomic version: Thirteenth Edition, 2022 
 
 National Cooperative Soil Survey
 U.S.A.

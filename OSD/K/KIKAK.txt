@@ -1,0 +1,133 @@
+LOCATION KIKAK                  AK
+
+Established Series
+SDB/MJS
+08/2026
+
+KIKAK SERIES
+
+Depth class: deep
+Drainage class: poorly drained
+Parent material: organic material over eolian sands
+Landscape: coastal plains and river valleys
+Landform: stream terraces, incised streams, and relict lake beds
+Microfeatures: flats on Ice wedge polygons
+Slope: 0 to 4 percent
+Mean annual precipitation: about 130 mm (5 in)
+Mean annual air temperature: about -11 degrees C (12 degrees F)
+Frost-free period: 22 to 82 days
+
+TAXONOMIC CLASS: Sandy, mixed, pergelic Typic Gelaquents
+
+TYPICAL PEDON: Kikak in a sedge, cottongrass and moss dominated center of a low centered polygon on a stream terrace at an elevation of 18 m (59 ft)
+
+	Oi--0 to 3 cm (0 to 1 in); peat, very dark brown (7.5YR 2.5/2) rubbed moist; common very fine and fine roots throughout; slightly acid, (pH 6.1); clear wavy boundary. (1 to 12 cm, 1 to 5 in)
+
+	Cg/Oe--3 to 75 cm (1 to 30 in); 30 percent stratified stratified moderately decomposed plant, material grayish brown (2.5Y 5/2);70 percent loamy sand, very dark brown (7.5YR 2.5/2); weak medium subangular blocky structure; soft, very friable, nonsticky, nonplastic; common very fine roots throughout; 10 percent medium distinct yellowish brown (10YR 5/4), moist, masses of oxidized iron throughout; strong effervescence; slightly acid, (pH 6.4); clear wavy boundary. (48 to 84 cm, 19 to 33 in)
+
+	Cg--75 to 110 cm (30 to 43 in); loamy sand, grayish brown (2.5Y 5/2) rubbed moist; single grain; soft, very friable, nonsticky, nonplastic; slightly acid, (pH 6.4); clear wavy boundary. (30 o 78 cm, 12 to 31 in)
+
+	Cgf--110 to 200 cm (43 to 79 in); sand, grayish brown (2.5Y 5/2) rubbed moist; nonsticky, nonplastic; slightly acid, (pH 6.3).
+
+TYPE LOCATION: North Slope Borough County, Alaska: latitude 70.24511, longitude -153.05445, Datum WGS84
+
+RANGE IN CHARACTERISTICS:
+
+Soil moisture regime: aquic
+Soil temperature regime: gelic
+Mean annual soil temperature: -10 to -6 degrees C (14 to 21 degrees F)
+Thickness of organic material: 2 to 12 cm (1 to 5 in)
+Thickness of ochric epipedon: 2 to 12 cm (1 to 5 in)
+Depth to aquic conditions: 2 to 12 cm (1 to 5 in)
+Depth to permafrost: 79 to 174 cm (31 to 69 in)
+
+Oi, Oe, or Oa horizon:
+Hue: 7.5YR or 10YR
+Value: 2 to 3
+Chroma: 1 to 3
+Texture: peat, mucky peat, or muck
+Organic matter: 49 to 83 percent
+Reaction class: Moderately acid to neutral (pH 5.6 to 7.3)
+
+Cg/Oe horizon:
+Cg material: Hue 2.5Y or N, value of 3 to 5, chroma of 0 to 2, and texture of sand, fine sand or loamy sand
+Oe material: hue 7.5YR or 10YR, value of 2 to 3, chroma of 1 to 3, and texture of peat, mucky peat, or muck
+Sand: 72 to 95 percent
+Silt: 2 to 27 percent
+Clay: 1 to 8 percent
+Organic matter: 5 to 18 percent
+Reaction class: moderately acid to neutral (pH 5.6 to 7.3)
+
+Cg and Cgf horizons:
+Hue: 2.5Y or N
+Value: 3 to 5 
+Chroma: 0 to 2
+Texture: fine sand, loamy sand, or sand
+Sand: 72 to 95 percent
+Silt: 0 to 27 percent
+Clay: 1 to 8 percent
+Organic matter: 0.05 to 0.4 percent
+Reaction class: moderately acid to neutral (pH 5.6 to 7.3)
+
+Ag Horizon, where present:
+Hue: 10YR or 7.5Y
+Value: 2 to 4 
+Chroma: 0 to 1
+Texture: fine sand, loamy sand, or loamy fine sand
+Sand: 72 to 95 percent
+Silt: 0 to 27 percent
+Clay: 1 to 8 percent
+Organic matter: 2 to 6 percent
+Reaction class: moderately acid to neutral (pH 5.6 to 7.3)
+
+COMPETING SERIES: These are the Tuluga soils which lack permafrost within 200 cm (79 in), have alluvium as parent material, and occur incised streams and depressions on stream terraces.
+
+GEOGRAPHIC SETTING:
+Elevation: 0 to 100 meters (0 to 330 ft)
+Parent material: organic material over eolian sands
+Landform: stream terraces, incised streams, and relict lake beds.
+Slopes: 0 to 4 percent
+Mean annual precipitation: 100 to 150 mm (4 to 6 in)
+Mean annual air temperature: -12 to -11degrees C (10 to 12 degrees F)
+Frost free period: 22 to 82 days
+
+GEOGRAPHICALLY ASSOCIATED SOILS: These are the Anajuk, Arrakis, Atigaru, Bodfish, Polakoon, and Tuluga soils.
+Anajuk soils are very poorly drained, have permafrost, have cryoturbated and glacic horizons, and occur on low relief troughs of high-center polygons.
+Arrakis soils have a regular decrease in organic material by depth, eolian sands at parent material, and occur on the meander scrolls and active dunes.
+Atigaru soils have permafrost and occur on non-polygonal stream terraces.
+Bodfish soils are somewhat poorly drained, have an irregular decrease in organic matter between the surface and subsurface horizons, and occurs on floodplains.
+Polakoon soils are very poorly drained, have permafrost, have a histic epipedon, and occur on depressions near streams and in string bogs.
+Tuluga soils have aquic conditions and occur on depressions on stream terraces.
+
+DRAINAGE AND SATURATED HYDRAULIC CONDUCTIVITY: 
+Drainage class: poorly drained
+Saturated hydraulic conductivity: high in the Oe horizon, very high in the Cg/OE and Cg horizons, and low in the Cgf
+Permeability: moderately rapid in Oe horizon, very rapid in the Cg/OE and Cg horizons, and very slow in the Cgf
+
+USE AND VEGETATION: 
+Use: wildlife habitat, recreation, and subsistence
+Native vegetation: moss, Bigelow's sedge, tall cottongrass 
+
+DISTRIBUTION AND EXTENT: MLRA 246 Artic Coastal Plain
+Extent: moderate
+
+SOIL SURVEY REGIONAL OFFICE (SSRO) RESPONSIBLE: Wasilla, Alaska
+
+SERIES ESTABLISHED: National Petroleum Reserve- Beaufort Coastal Plain Area, Alaska, 2025
+
+REMARKS: Diagnostic features and horizons recognized in this profile include:
+
+Particle size control section: 28 to 103 cm (11 to 41 in)
+
+Ochric epipedon: 0 to 3 cm (0 to 1 in) (Oe horizon)
+
+Aquic conditions: 3 to 110 cm (1 to 43 in) (Cg/Oe and Cg horizons)
+
+Permafrost: 110 to 200 cm (43 to 79 in) (Cgf)
+
+ADDITIONAL DATA:
+
+User pedon Id: 2021AK185225
+
+National Cooperative Soil Survey
+U.S.A.

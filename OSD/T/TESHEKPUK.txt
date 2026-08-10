@@ -1,0 +1,126 @@
+LOCATION TESHEKPUK              AK
+
+Established Series
+SDB/MJS
+08/2026
+
+TESHEKPUK SERIES
+
+Depth class: very deep
+Drainage class: well drained
+Parent material: eolian sands
+Landscape: eolian coastal plains 
+Landform: longitudinal dunes
+Slope: 0 to 6 percent
+Mean annual precipitation: about 130 mm (5 in)
+Mean annual air temperature: about -11 degrees C (12 degrees F)
+Frost-free period: 22 to 82 days
+
+TAXONOMIC CLASS: Sandy, mixed, pergelic Typic Humigelepts
+
+TYPICAL PEDON: Teshekpuk highly organic fine sandy loam, with an entireleaf mountain avens and artic lupine community, on a longitudinal dune at 52 m (170 ft)
+
+	Oa--0 to 2 cm (0 to 1 in); highly decomposed plant material, very dark brown (7.5YR 2.5/2) rubbed moist; moderately acidic, pH 6.0; clear wavy boundary (0 to 7 cm, 0 to 3 in)
+
+	A--2 to 9 cm (1 to 4 in); highly organic fine sandy loam, black (7.5YR 2.5/1) rubbed moist; moderate medium subangular blocky structure; neutral, pH 7.2; very abrupt wavy boundary (5 to 35 cm, 2 to 15 in)
+
+	Bw/A--9 to 53 cm (4 to 13 in); fine sand, 50 percent brown (10YR 4/3) rubbed and 50 percent black (10YR 2/1) rubbed moist; moderate coarse subangular blocky structure; neutral, pH 7.2; very abrupt wavy boundary (35 to 67 cm, 15 to 26 in)
+
+	C1--53 to 106 cm (21 to 32 in); fine sand, black (7.5YR 2.5/1) rubbed moist; moderate fine subangular blocky structure; slightly alkaline, pH 7.6; clear smooth boundary (0 to 60 cm, 0 to 24 in)
+
+	C2--106 to 130 cm (42 to 51 in); fine sand, black (7.5YR 2.5/1) rubbed moist; weak fine subangular blocky structure; moderately alkaline, pH 8.0. 
+
+TYPE LOCATION: North Slope Borough County, Alaska, latitude 70.01109, longitude -153.06184, Datum WGS84.
+
+RANGE IN CHARACTERISTICS:
+
+Soil moisture regime: udic
+Soil temperature regime: gelic
+Mean annual soil temperature: -10 to -6 degrees C (14 to 21 degrees F)
+Thickness of organic material: 0 to 7 cm (0 to 3 in)
+Thickness of mollic epipedon: 40 to 102 cm (16 to 40 in)
+
+Oi, Oe, or Oa horizon:
+Hue: 7.5YR or 10YR
+Value: 2 to 3
+Chroma: 1 to 3
+Texture: Slightly decomposed organic material, mucky peat, or muck
+Organic matter: 60 to 90 percent
+Reaction class: moderately acid to slightly acid (pH 5.6 to 6.5)
+
+A horizon:
+Hue: 7.5YR or 10YR
+Value: 2 to 3
+Chroma: 1 to 2
+Texture: Loamy fine sand or fine sand
+Sand: 80 to 98 percent
+Silt: 0 to 15 percent
+Clay: 1 to 8 percent
+Organic matter: 0.05 to 7 percent
+Reaction class: neutral to slightly alkaline (pH 6.6 to 7.8)
+
+Bw/A horizon:
+Bw material: hue of 10YR or 2.5Y, value of 3 to 5 and chroma 2 to 4 
+A material: hue of 7.5YR or 10YR, value of 2 to 3, and chroma of 1 to 3
+Texture: Loamy fine sand or fine sand
+Sand: 80 to 98 percent
+Silt: 0 to 15 percent
+Clay: 1 to 8 percent
+Organic matter: 0.05 to 7 percent
+Reaction class: neutral to slightly alkaline (pH 6.6 to 7.8)
+
+C horizons:
+Hue: 7.5YR,10YR or 2.5Y
+Value: 2 to 5
+Chroma: 1 to 3
+Texture: Loamy fine sand or fine sand
+Sand: 80 to 98 percent
+Silt: 0 to 15 percent
+Clay: 1 to 8 percent
+Organic matter: 0.05 to 0.5 percent
+Reaction class: neutral to moderately alkaline (pH 6.6 to 8.4)
+
+COMPETING SERIES: there are no competing series
+
+GEOGRAPHIC SETTING:
+Elevation: 0 to 100 meters (0 to 330 ft)
+Parent material: eolian sands
+Landform: longitudinal dunes
+Slopes: 0 to 4 percent
+Mean annual precipitation: 100 to 150 mm (4 to 6 in)
+Mean annual air temperature: -12 to -11 degrees C (10 to 12 degrees F)
+Frost free period: 22 to 82 days
+
+GEOGRAPHICALLY ASSOCIATED SOILS: These are the Anajuk, Inigok, and Pingok series.
+Anajuk soils are very poorly drained, have permafrost, have cryoturbated and glacic horizons, and occur on low relief troughs of high-center polygons.
+Inigok soils are poorly drained, have permafrost, have cryoturbation, and occur on incised streams and patterned ground.
+Pingok soils are very poorly drained, are organic soils, have permafrost and a glacic layer, and occur on high centered polygons.
+
+DRAINAGE AND SATURATED HYDRAULIC CONDUCTIVITY: 
+Drainage class: well drained
+Saturated hydraulic conductivity: very high in all horizons
+Permeability: very rapid in all horizons
+
+USE AND VEGETATION: 
+Use: wildlife habitat, recreation, and subsistence
+Native vegetation: entireleaf mountain-avens and white artic mountain heather
+
+DISTRIBUTION AND EXTENT: MLRA 246 Artic Coastal Plain
+Extent: moderate
+
+SOIL SURVEY REGIONAL OFFICE (SSRO) RESPONSIBLE: Wasilla, Alaska
+
+SERIES ESTABLISHED: National Petroleum Reserve- Beaufort Coastal Plain Area, Alaska, 2025
+
+REMARKS: Diagnostic features and horizons recognized in this profile include:
+
+Particle size control section: 27 to 102 cm, (11 to 40 in)
+
+Mollic epipedon: 2 to 53 cm (1 to 21 in) (A and A/Bw horizons)
+
+ADDITIONAL DATA:
+
+User pedon Id: 2024AK185003
+
+National Cooperative Soil Survey
+U.S.A.

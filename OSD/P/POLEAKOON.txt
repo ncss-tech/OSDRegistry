@@ -1,0 +1,116 @@
+LOCATION POLEAKOON              AK
+
+Established Series
+SDB/MJS
+08/2026
+
+POLEAKOON SERIES
+
+Depth class: shallow
+Drainage class: very poorly drained
+Parent material: organic material over eolian sands
+Landscape: coastal plains
+Landform: flark string bogs, lakebeds (relict), drainageways, incised streams, and depressions
+Slope: 0 to 4 percent
+Mean annual precipitation: about 130 mm (5 in)
+Mean annual air temperature: about -11 degrees C (12 degrees F)
+Frost-free period: 22 to 82 days
+
+TAXONOMIC CLASS: Sandy, mixed, pergelic Typic Historthels
+
+TYPICAL PEDON: Poleakoon mucky peat in a sedge and moss community on a lake shore at an elevation of 43 m (140 ft).
+
+	Oi--0 to 5 cm (0 to 2 in); peat, black (7.5YR 2.5/1) rubbed moist; many very fine roots throughout and few medium roots throughout; neutral, (pH 6.9); clear smooth boundary (4 to 9 cm, 2 to 4 in)
+
+	Oe--5 to 23 cm (2 to 9 in); mucky peat, very dark brown (7.5YR 2.5/2) rubbed moist; many very fine roots throughout and few medium roots throughout; slightly acid, (pH 6.4); clear smooth boundary (15 to 20 cm, 6 to 8 in)
+
+	Oa--23 to 31 cm (9 to 12 in); muck, black (7.5YR 2.5/1) rubbed moist; few very fine roots throughout; slightly acid, (pH 6.4); clear smooth boundary (6 to 10 cm, 2 to 4 in)
+
+	Cgf--31 to 150 cm (12 to 59 in); loamy fine sand, very dark gray (N 3/), rubbed moist; interstitial pores; 20 percent fine dark yellowish brown (10YR 4/6), moist, masses of oxidized iron; neutral, (pH 7.2).
+
+TYPE LOCATION: North Slope Borough County, Alaska, latitude 69.99698, longitude -153.05889, Datum WGS84
+
+RANGE IN CHARACTERISTICS:
+
+Soil moisture regime: aquic
+Soil temperature regime: gelic
+Mean annual soil temperature: -10 to -6 degrees C (14 to 21 degrees F)
+Thickness of histic epipedon: 25 to 39 cm (10 to 15 in)
+Depth to aquic conditions: 0 cm (0 in) 
+Depth to permafrost: 25 to 39 cm (10 to 15 in)
+
+Oi, Oe, and Oa horizon:
+Hue: 7.5YR or 10YR
+Value: 2 to 3
+Chroma: 1 to 3
+Texture: Slightly decomposed organic material, mucky peat, or muck
+Organic matter: 60 to 90 percent
+Reaction class: slightly acid to neutral (pH 6.1 to 7.3)
+
+Cgf horizon:
+Hue: 2.5Y, 5Y or N
+Value: 3 to 5
+Chroma: 0 to 1
+Texture: Loamy very fine sand, silt loam, loamy sand, loamy fine sand 
+Sand: 40 to 90 percent
+Silt: 0 to 50 percent
+Clay: 2 to 10 percent
+Organic matter: 0.5 to 3 percent
+Reaction class: slightly acid to neutral (pH 6.1 to 7.3)
+
+COMPETING SERIES: The Klanelneechena soils are the most similar series. 
+Klanelneechena soils have an A horizon, have a mean annual air temperature of -4 degrees C (25 degrees F), and have alluvium as parent material.
+
+GEOGRAPHIC SETTING:
+Elevation: 0 to 100 meters (0 to 330 ft)
+Parent material: organic material over eolian sands
+Landform: flark string bogs, lakebeds (relict), drainageways, incised streams, and depressions
+Slopes: 0 to 4 percent
+Mean annual precipitation: 100 to 150 mm (4 to 6 in)
+Mean annual air temperature: -12 to -11 degrees C (10 to 12 degrees F)
+Frost free period: 22 to 82 days
+
+GEOGRAPHICALLY ASSOCIATED SOILS: These are the Anajuk, Bansheecreek, Inigok, Kikak, Nuiqsut, and Pingok soils.
+Anajuk soils have a cryoturbated horizon and occur on high centered polygons on patterned ground.
+Bansheecreek soils are somewhat poorly drained, are organic soils, and occur on high relief domes of high-center polygons on relict lakebeds.
+Inigok soils are poorly drained, lack a glacic horizon, and occur on low relief domes on high-center polygons.
+Nuiqsut soils are poorly drained, are organic soils, lack a glacic horizon, and occur on the center of low center polygons.
+Kikak soils are poorly drained, have permafrost below 100 cm, have an ochric epipedon, and occur on flats of ice wedge polygons.
+Pingok soils are organic soils and occur on the high relief troughs of high-center polygons.
+
+DRAINAGE AND SATURATED HYDRAULIC CONDUCTIVITY: 
+Drainage class: very poorly drained
+Saturated hydraulic conductivity: high in the Oi, Oe and Oa horizons, low in the Cgf horizon. 
+Permeability: Moderately rapid in the Oi, Oe and Oa horizons, very slow in the Cgf horizon.
+
+USE AND VEGETATION: 
+Use: wildlife habitat, recreation, and subsistence
+Native vegetation: water sedge and tall cottongrass
+
+DISTRIBUTION AND EXTENT: MLRA 246 Artic Coastal Plain
+Extent: moderate
+
+SOIL SURVEY REGIONAL OFFICE (SSRO) RESPONSIBLE: Wasilla, Alaska
+
+SERIES ESTABLISHED: National Petroleum Reserve- Beaufort Coastal Plain Area, Alaska, 2025
+
+REMARKS: Diagnostic features and horizons recognized in this profile include:
+
+Particle size control section: 56 to 131 cm (22 to 52 in)
+
+Histic epipedon: 0 to 31 cm (0 to 12 in) (Oi, Oe, and Oa horizon)
+
+Reduced matrix: 31 to 150 cm (12 to 59 in) (Cg horizon)
+
+Aquic conditions: 31 to 150 cm (12 to 59 in) (Cg horizon)
+
+Gelic materials: 31 to 150 cm (12 to 59 in) (Cg horizon)
+
+Permafrost: 31 to 150 cm (12 to 59 in) (Cg horizon)
+
+ADDITIONAL DATA:
+
+User pedon Id: 2023AK185103
+
+National Cooperative Soil Survey
+U.S.A.
