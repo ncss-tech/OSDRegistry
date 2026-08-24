@@ -1,0 +1,159 @@
+LOCATION TOSA                   WI
+
+Tentative Series
+IRD. KDP-NI-EED
+08/2026
+
+TOSA SERIES
+
+Depth class: Very deep
+Drainage class: Somewhat poorly drained
+Saturated hydraulic conductivity: Moderately low near the surface; moderately high deeper in the profile
+Parent material: Silty human-transported material derived mostly from   till
+Geomorphic location: Fills on foot slopes and terraces
+Slope: 0 to 6 percent slopes
+Mean annual air temperature: 8 degrees C
+Mean annual precipitation: 815 millimeters
+
+TAXONOMIC CLASS: Fine-silty, spolic, mixed, active, mesic Aquic Eutrudepts
+
+TYPICAL PEDON: Tosa silt loam, on a 1 percent slope in a park lawn at an elevation of 223 meters above mean sea level. (Colors are for moist soil unless otherwise stated.)
+
+ ^A--0 to 23 centimeters (0 to 9 inches); very dark grayish brown (10YR 3/2), grayish brown (10YR 5/2), dry; silt loam; moderate medium subangular blocky structure; friable; slightly effervescent; neutral (pH 7.0); clear smooth boundary (8 to 30 centimeters thick)
+
+ ^Bw--23 to 76 centimeters (9 to 30 inches); brown (10YR 5/3) silty clay loam; moderate medium subangular blocky structure; friable; 3 percent fine faint dark grayish brown (10YR 4/2) iron depletions in matrix and 8 percent fine distinct yellowish brown (10YR 5/6) iron-manganese masses in matrix; 5 percent gravel; strongly effervescent; moderately alkaline (pH 7.9); gradual wavy boundary (20 to 55 centimeters thick)
+
+ ^Bg--76 to 122 centimeters (30 to 48 inches); grayish brown (10YR 5/2) silty clay loam; moderate medium subangular structure; friable; 8 percent fine prominent yellowish brown (10YR 5/6) iron-manganese masses in matrix; 5 percent gravel; slightly effervescent; moderately alkaline (pH 7.9); gradual wavy boundary (0 to 30 centimeters thick)
+
+ ^Cg--122 to 200 centimeters (48 to 79 inches); 60 percent grayish brown (10YR 5/2) and 40 percent brown (10YR 5/3) stratified silt loam and silty clay loam; massive; firm; 8 percent fine prominent yellowish brown (10YR 5/6) iron-manganese masses in matrix; slightly effervescent; moderately alkaline (pH 8.0)
+
+TYPE LOCATION: Milwaukee County, Wisconsin; located about 16 meters south of West Honey Creek Parkway and 33 meters west of Honey Creek.
+
+USGS Quadrangle: Milwaukee, WI
+Latitude: 42.9913160
+Longitude: -88.0091440
+Datum: WGS 84
+Coordinate source: From handheld GPS
+
+RANGE IN CHARACTERISTICS:
+Thickness of human-transported materials: 150 centimeters or more
+Depth to bedrock: Greater than 200 centimeters
+Depth to seasonal high-water table: 30 to 75 centimeters
+Depth to lithologic discontinuity: Greater than 150 centimeters
+Depth to free carbonates: 0 to 100 centimeters 
+Chemical response throughout:
+Soil reaction throughout--Neutral to strongly alkaline (6.6 to 9.0 pH)
+HCl effervescence throughout--Slightly to strongly effervescent 
+Particle-size control section (weighted average):
+Clay content--18 to 35 percent
+Sand Content--5 to 15 percent 
+Artifact content--0 to 10 percent
+Combined rock and artifact content--0 to 15 percent 
+
+^A(u) horizon:
+Hue--7.5YR or 10YR
+Value--2 or 3
+Chroma--1 or 2
+Texture--silt loam, silty clay loam
+Reaction--neutral to moderately alkaline
+Clay content--18 to 35 percent
+Sand content--5 to 15 percent
+Rock fragments--0 to 10 
+Human artifacts--0 to 5 
+
+^Bw(u) horizon:
+Hue--7.5YR or 10YR
+Value--3 to 5
+Chroma--3 or 4
+Texture--silt loam, silty clay loam; some horizons may have dislocated clods or masses of silty clay
+Reaction--neutral to moderately alkaline
+Sand content--5 to 15 percent
+Clay content--18 to 35 
+Rock fragments--0 to 10 
+Human artifacts--0 to 10
+
+^Bg(u) horizon:
+Hue--10YR to 5Y
+Value--3 to 5
+Chroma--1 or 2
+Texture--silt loam, silty clay loam; some horizons may have dislocated clods or masses of silty clay
+Reaction--neutral to moderately alkaline
+Clay content--18 to 35 percent
+Sand content--5 to 15 percent
+Rock fragments--0 to 10 percent  
+Human artifacts--0 to 5 percent
+
+^Cg(u) horizon:
+Hue--10.YR or 2.5Y
+Value--4 to 6
+Chroma--0 to 2
+Texture--silt loam, silty clay loam, silty clay
+Reaction--neutral to moderately alkaline
+Clay content--18 to 40
+Sand content--5 to 15 percent
+Rock fragments--0 to 10
+Human artifacts--0 to 5 percent
+
+Some pedons may have unmodified till below the human-transported material.
+
+2Cg horizons (when present):
+Hue--7.5YR or 10YR
+Value--4 or 5
+Chroma--2 or 3 
+Texture--silty clay loam; some pedons may exhibit weak stratification
+Reaction-- slightly alkline or moderately alkaline
+Clay content--35 to 60 percent 
+Rock fragments--0 to 10 percent
+
+COMPETING SERIES: There are no competing series. The Mequon series represents a similar soil that formed in till over loess in undisturbed areas.
+
+GEOGRAPHIC SETTING:
+Landscape: Till plains
+Landform: Fills on foot slopes and terraces
+Parent material: Silty human-transported material derived mostly from  calcareous till
+Slope: 0 to 5 percent
+Elevation: 170 to 240 meters
+Frost free period: 135 to 185 days
+Mean annual air temperature: 6 to 9 degrees C
+Mean annual precipitation: 735 to 890 millimeters
+
+GEOGRAPHICALLY ASSOCIATED SOILS: These are the Milwaukee and Thiensville series which also formed in human-transported material and occur on anthropogenic landforms.
+
+Milwaukee soils are deeper than 100 cm to aquic conditions and occur on fills on nearby hillslopes and summits.
+Thiensville soils have aquic conditions at the surface, occur on leveled land on nearby foot slopes, and have occasional, very brief ponding. 
+
+DRAINAGE AND SATURATED HYDRAULIC CONDUCTIVITY: 
+Drainage class: Somewhat poorly drained
+Surface Runoff: Very low to low on vegetated slopes; low to very high in unvegetated areas
+Saturated Hydraulic Conductivity Class: Moderately low near the surface; moderately high deeper in the profile
+Ponding: None
+Flooding: None
+
+USE AND VEGETATION: 
+Major uses: Used for recreational, commercial, and residential applications in an urban setting.
+Vegetation: Vegetation may include managed and unmanaged plant communities with a mix of native and non-native species. Many areas are vegetated with non-native ornamental landscaping and/or turfgrass associated with developed land uses. Some areas may exhibit weedy, invasive, and/or primary succession vegetation communities (e.g., abandoned lots and other unmanaged areas). Some small patches of mixed native species such as burr oak, white oak, bitternut hickory and Pennsylvania sedge may be present.
+
+DISTRIBUTION AND EXTENT:
+General area: Urban and other human-altered landscapes
+Region: L - Lake States Fruit, Truck Crop, and Dairy Region; M - Central Feed Grains and Livestock Region
+Major Land Resource Areas (MLRA): 95 - Eastern Wisconsin, Northern Illinois, and Upper Michigan Drift Plain; 110 - Northern Illinois and Indiana Heavy Till Plains
+Extent: Moderate
+
+SOIL SURVEY REGIONAL OFFICE (SSRO) RESPONSIBLE: Raleigh, North Carolina (Special Projects Region)
+
+SERIES PROPOSED: Milwaukee County, Wisconsin, 2026. Name from a common nickname for the City of Wauwatosa.
+
+REMARKS:
+Typical Pedon Taxonomic Features:
+Ochric epipedon: The zone from 0 to 23 centimeters
+Cambic horizon: The zone from 23 to 122 centimeters
+Aquic conditions: 23 to 200 centimeters
+Human-transported material: 0 to 200 centimeters
+Particle-size control section: 25 to 100 centimeters
+Taxonomic version: Keys to Soil Taxonomy, Thirteenth Edition (2022)
+
+ADDITIONAL DATA:
+NASIS User Pedon ID: 2022WI079901
+
+National Cooperative Soil Survey
+U.S.A.

@@ -1,0 +1,168 @@
+LOCATION THIENSVILLE            WI
+
+Tentative Series
+IRD. KDP-CSM-NI
+08/2026
+
+THIENSVILLE SERIES
+
+Depth class: Very deep
+Drainage class: Poorly drained
+Saturated hydraulic conductivity: Moderately low to high
+Parent material: Loamy human-transported materials over calcareous till
+Geomorphic location: Leveled land in depressions
+Slope: 0 to 2 percent
+Mean annual air temperature: 8 degrees C
+Mean annual precipitation: 815 millimeters
+
+TAXONOMIC CLASS: Fine-loamy, spolic, mixed, active, calcareous, mesic Typic Humaquepts
+
+TYPICAL PEDON: Thiensville mucky silt loam on a 1 percent slope in an amended and cultivated urban community garden at about 210 meters above mean sea level. (Colors are for moist soil unless otherwise stated.)
+
+ ^A--0 to 15 centimeters (0 to 6 inches); black (10YR 2/1) mucky silt loam, dark gray (10YR 4/1) dry; moderate medium subangular blocky structure; friable; many medium and fine roots throughout; many very fine and fine irregular pores; slightly effervescent; slightly alkaline (pH 7.8); clear smooth boundary
+
+ ^Au--15 to 38 centimeters(6 to 15 inches); 95 percent very dark gray (2.5Y 3/1) and 5 percent olive brown (2.5Y 4/3) very gravelly loam, gray (2.5Y 5/1) dry; moderate fine moderate medium granular structure; very firm from compaction; few very fine and fine roots; few very fine and fine irregular pores; 10 percent medium gravel; 3 percent gravel sized concrete artifacts, 3 percent gravel sized brick artifacts, 3 percent gravel sized plastic artifacts, 10 percent gravel sized coal combustion byproducts; slightly effervescent; slightly alkaline (pH 7.8); clear wavy boundary (Combined thickness of ^A horizons is 18 to 40 centimeters)
+
+ ^Bug--38 to 61 centimeters (15 to 24 inches); 90 percent dark gray (2.5Y 4/1) and 10 percent olive (5Y 4/3) silty clay loam; moderate medium subangular blocky structure; friable; few medium irregular pores; 25 percent distinct very dark brown (10YR 2/2) organic stains on all faces of peds; 2 percent very fine distinct black (10YR 2/1) iron-manganese nodules in the matrix; 6 percent fine prominent yellowish brown (10YR 5/6) iron-manganese masses in the matrix; 6 percent medium gravel; 3 percent gravel-sized concrete artifacts and 5 percent gravel sized coal combustion byproducts; slightly effervescent; slightly alkaline (pH 7.8); clear wavy boundary
+
+ ^Bg--61 to 79 centimeters (24 to 31 inches); 80 percent dark gray (2.5Y 4/1), 10 percent dark grayish brown (2.5Y 4/2), and 10 percent greenish gray (5GY 6/1) silty clay; moderate medium subangular blocky structure; friable; few medium irregular pores; 15 percent faint very dark gray (10YR 3/1) organic stains on all faces of peds; 2 percent fine distinct black (10YR 2/1) iron-manganese nodules throughout; 6 percent medium prominent light olive brown (2.5Y 5/6) iron-manganese masses in the matrix; 2 percent medium gravel; slightly effervescent; slightly alkaline (pH 7.8); gradual wavy boundary (Combined thickness of the ^B horizons is 20 to 50 centimeters)
+
+ ^Cug1--79 to 86 centimeters (31 to 34 inches); greenish gray (10GY 6/1) silty clay; massive; firm; 6 percent medium prominent light olive brown (2.5Y 5/6) iron-manganese masses in the matrix; 2 percent medium gravel; 2 percent gravel sized coal combustion byproducts; slightly effervescent; slightly alkaline (pH 7.8); clear smooth boundary. (Thickness 6 to 20 centimeters)
+
+ ^Aub--86 to 102 centimeters (35 to 40 inches); 95 percent very dark gray (10YR 3/1) and 5 percent gray (5Y 5/1) silty clay loam; weak fine relict granular structure; friable; 1 percent fine gravel; 2 percent gravel sized coal combustion byproducts; slightly alkaline (pH 7.6); clear wavy boundary (0 to 18 centimeters thick)
+
+ ^C'ug2--102 to 124 centimeters (40 to 49 inches); olive gray (5Y 5/2) silty clay loam; massive; firm; 18 percent medium prominent light olive brown (2.5Y 5/6) iron-manganese masses in the matrix; 3 percent fine gravel; 2 percent medium gravel sized artifacts of brick and 3 percent gravel sized coal combustion byproducts; moderate sulfurous odor; slightly effervescent; slightly alkaline (pH 7.8); gradual wavy boundary
+
+ ^C'ug3--124 to 200 centimeters (49 to 79 inches); olive gray (5Y 5/2) silt loam; massive; friable; 18 percent medium prominent light olive brown (2.5Y 5/6) iron-manganese masses in the matrix; 4 percent fine gravel; 5 percent gravel sized coal combustion byproducts; moderate sulfurous odor; slightly effervescent; slightly alkaline, pH 7.8
+
+TYPE LOCATION: Milwaukee County, Wisconsin; about 45 meters west of North Palmer Street and 65 meters south of East Townsend Street
+
+USGS Quadrangle: Milwaukee, WI
+Latitude: 43.0795100
+Longitude: -87.9087500
+Datum: WGS 84 
+Coordinate source: From handheld GPS
+
+RANGE IN CHARACTERISTICS:
+Thickness of human-transported materials: Greater than 150 centimeters
+Depth to bedrock: Greater than 200 centimeters
+Depth to seasonal high-water table: 0 to 20 centimeters
+Depth to lithologic discontinuity: Greater than 150 centimeters
+Depth to free carbonates: 0 to 100 centimeters or more 
+Soil reaction throughout: neutral to moderately alkaline (6.6 to 8.4 pH)
+Reaction to HCl throughout: Very slightly to strongly effervescent 
+Particle-size control section (weighted average):
+Clay content--18 to 35 percent
+Sand Content--15 to 45
+Human artifact content--0 to 15 percent
+Combined rock and artifact content--Less than 30 percent
+
+^A or ^Au horizons:
+Hue: 10YR or 2.5Y
+Value: 2, 2.5, or 3 
+Chroma: 1 to 3
+Texture: loam, silt loam, silty clay loam, or their mucky analogs
+Organic matter: 3 to 15 percent
+Clay content: 15 to 30 percent
+Sand content: 15 to 45 percent
+Rock fragments: 0 to 10 percent
+Human artifacts: 0 to 15 percent
+Some horizons have compaction below the surface layer.
+
+^Bg or ^Bug horizons:
+Hue: 10YR or 2.5Y
+Value: 3 to 6
+Chroma: 1 or 2
+Texture: Loam, silt loam, silty clay loam, or clay loam
+Clay content: 18 to 35 percent
+Sand content 15 to 45 percent
+Rock fragments: 0 to 10 percent
+Human artifacts: 0 to 15 percent
+
+Some pedons may have ^Bwu horizons with relict 7.5YR matrix colors.
+
+^Aub horizon (when present):
+Hue: 10YR
+Value: 2, 2.5, or 3 
+Chroma: 1 to 3
+Texture: loam, silt loam, silty clay loam
+Clay content: 15 to 30 percent
+Sand content: 15 to 45 percent
+Rock fragments: 0 to 5 percent
+Human artifacts: 0 to 15 percent
+
+^Cg or ^Cug horizons
+Hue: 7.5YR to 2.5Y, or 10GY
+Value: 4 to 6
+Chroma: 0 or 2
+Texture: silt loam, silty clay loam, or clay loam. Thin strata of sandy loam can occur.
+Clay content: 18 to 40 percent
+Sand content: 15 to 50 percent
+Rock fragments: 5 to 10 percent
+Human artifacts: 0 to 5 percent
+
+Some pedons may have unmodified till below the human-transported material.
+
+2Cg horizons (when present):
+Hue--2.5Y, 5Y, 5GY or neutral
+Value--4 to 6
+Chroma--0 to 8 
+Texture--silty clay loam
+Reaction--slightly acid to moderately alkaline
+Clay content--35 to 42 percent
+Sand content--5 to 20 percent 
+Rock fragments--0 to 15 percent
+
+COMPETING SERIES: There are no competing series. The Ashkum series represents a similar soil that formed in from till and loess in undisturbed areas.
+
+GEOGRAPHIC SETTING:
+Landscape: Till plains
+Landform: Leveled land on foot slopes
+Parent material: Loamy human-transported materials over calcareous till
+Slope: 0 to 2 percent
+Elevation: 170 to 240 meters
+Frost free period: 135 to 185 days
+Mean annual air temperature: 6 to 9 degrees C
+Mean annual precipitation: 735 to 890 millimeters
+
+GEOGRAPHICALLY ASSOCIATED SOILS:
+These are the Milwaukee and Tosa series which also occur on anthropogenic landforms with over 50 centimeters of human-transported material.
+
+Milwaukee soils are deeper than 100 cm to aquic conditions and occur on fills on nearby hillslopes and summits.
+Tosa soils have aquic conditions between 30 and 60 centimeters and occur on fills on nearby terraces and foot slopes.
+
+DRAINAGE AND SATURATED HYDRAULIC CONDUCTIVITY:
+Drainage class: Poorly drained
+Surface Runoff: Very low to low on vegetated slopes; low to very high in unvegetated areas
+Saturated Hydraulic Conductivity Class: Moderately low near the surface; moderately high deeper in the profile
+Ponding: Occasional, very brief
+Flooding: None
+
+USE AND VEGETATION:
+Major uses: Used for recreational, commercial, and residential applications in an urban setting.
+Vegetation: Vegetation may include managed and unmanaged plant communities with a mix of native and non-native species. Many areas are vegetated with non-native ornamental landscaping and/or turfgrass associated with developed land uses. Some areas may exhibit weedy, invasive, and/or primary succession vegetation communities (e.g., abandoned lots and other unmanaged areas). Some small patches of mixed native species such as Reed canarygrass, bluejoint, silky dogwood, and white meadowsweet.
+
+DISTRIBUTION AND EXTENT:
+General area: Urban and other human-altered landscapes
+Region: L - Lake States Fruit, Truck Crop, and Dairy Region; M - Central Feed Grains and Livestock Region
+Major Land Resource Areas (MLRA): 95 - Eastern Wisconsin, Northern Illinois, and Upper Michigan Drift Plain; 110 - Northern Illinois and Indiana Heavy Till Plains
+Extent: Small
+
+SOIL SURVEY REGIONAL OFFICE (SSRO) RESPONSIBLE: Raleigh, North Carolina (SPECIAL PROJECTS REGION)
+
+SERIES PROPOSED: Milwaukee County, Wisconsin 2026. Name from the nearby City of Thiensville.
+
+REMARKS:
+Typical Pedon Taxonomic Features:
+Umbric epipedon: The zone from 0 to 38 centimeters
+Cambic horizon: The zone from 38 to 61 centimeters
+Aquic conditions: 0 to 200 centimeters
+Human-transported material: 0 to 200 centimeters
+Particle-size control section: 25 to 100 centimeters
+Taxonomic version: Keys to Soil Taxonomy, Thirteenth Edition (2022)
+
+ADDITIONAL DATA:
+NASIS User Pedon ID:2023WI079058
+
+National Cooperative Soil Survey
+U.S.A.

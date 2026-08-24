@@ -1,0 +1,150 @@
+LOCATION TEUTONIA               WI
+
+Tentative Series
+IRD. KDP-CSM-NI
+08/2026
+
+TEUTONIA SERIES
+
+Depth class: Very deep
+Drainage class: Poorly drained
+Saturated hydraulic conductivity: Moderately low to high 
+Parent material: Loamy human transported materials over alluvium
+Geomorphic location: Floodways or leveled land in drainageways
+Slope: 0 to 3 percent
+Mean annual air temperature: 8 degrees C
+Mean annual precipitation: 815mm
+
+TAXONOMIC CLASS: Fine-loamy, spolic, mixed, superactive, calcareous, mesic Typic Humaquepts
+
+TYPICAL PEDON: Teutonia silt loam on a 1 percent slope in a wooded urban floodway at about 220 meters above mean sea level. (Colors are for moist soil unless otherwise stated.)
+
+ ^A--0 to 30 centimeters (0 to 12 inches); black (10YR 2/1), dark gray (10YR 4/1), dry; silt loam; moderate fine granular structure; friable; many very fine, fine, and medium roots throughout; many very fine, fine, and medium tubular pores; 3 percent fine irregular yellowish brown (10YR 5/4), moist, iron-manganese masses in matrix; 2 percent gravel; very slightly effervescent; neutral (pH 7.3); gradual wavy boundary (Thickness 20 to 35 centimeters)
+
+ ^Bg1--30 to 86 centimeters (12 to 34 inches); 85 percent very dark gray (10YR 3/1), 15 percent grayish brown (10YR 5/2) and gray (10YR 5/1), dry; silt loam; moderate thin platy structure; firm; few very fine tubular pores; 3 percent fine irregular yellowish brown (10YR 5/4), moist, iron-manganese masses in matrix; 4 percent gravel; slightly effervescent; slightly alkaline (pH 7.8); clear wavy boundary 
+
+ ^Bg2--86 to 102 centimeters (34 to 40 inches; brown (10YR 5/3) loam; moderate medium subangular blocky structure; friable; 20 percent faint very dark gray (10YR 3/1), moist, organic stains on ped faces; 3 percent fine irregular grayish brown (10YR 5/2), moist, iron depletions with clear boundaries in matrix and 3 percent fine irregular yellowish brown (10YR 5/4), moist, iron-manganese masses in matrix; slightly effervescent; slightly alkaline (pH 7.8); clear smooth boundary 
+
+ ^Bg3--102 to 160 centimeters (40 to 63 inches); grayish brown (10YR 5/2) very fine sandy loam; weak medium subangular blocky structure; firm; few fine and medium roots throughout; few fine and medium tubular pores; 5 percent faint very dark gray (10YR 3/1), moist, organic stains on surfaces along root channels; 5 percent fine irregular dark gray (10YR 4/1), moist, iron depletions in matrix and 5 percent fine irregular dark yellowish brown (10YR 4/6), moist, iron-manganese masses in matrix and 15 percent fine irregular yellowish brown (10YR 5/6), moist, iron-manganese masses in matrix; 2 percent gravel; slightly effervescent; slightly alkaline (pH 7.8) clear smooth boundary 
+
+ ^Bg4--160 to 173 centimeters (63 to 69 inches); dark grayish brown (10YR 4/2) very gravelly loamy sand; single grain; loose; 3 percent fine irregular dark yellowish brown (10YR 4/6), moist, iron-manganese masses in matrix; 35 gravels; slightly effervescent; slightly alkaline (pH 7.8); clear wavy boundary (Combined thickness of the ^Bg horizons 50 to 115 centimeters) 
+
+ 2Bgb--173 to 190 centimeters (69 to 75 inches); gray (10YR 5/1) silt loam; weak medium subangular blocky structure; friable; few fine and medium roots; few fine and medium tubular pores; 3 percent faint dark grayish brown (10YR 4/2), moist, organic stains on surfaces along root channels; 7 percent fine irregular yellowish brown (10YR 5/6), moist, iron-manganese in matrix; 1 percent gravel; strongly effervescent; moderately alkaline (pH 8.0); clear smooth boundary (Thickness 5 to 83 centimeters)
+
+  2Cg--190 to 226 centimeters (75 to 89 inches); dark grayish brown (10YR 4/2) silt loam; massive; firm; few very fine and fine roots; few very fine and fine tubular pores; 3 percent fine irregular gray (10YR 5/1), moist, iron depletions in matrix and 8 percent fine distinct irregular yellowish brown (10YR 5/4), moist, iron-manganese masses within matrix; strongly effervescent; moderately alkaline (ph 8.2); gradual wavy boundary
+
+TYPE LOCATION: Milwaukee County, Wisconsin; located about 107 meters north and 40 meters east of the intersection of South 76th Street and West Oklahoma Avenue.
+
+USGS Quadrangle: Hales Corners, WI
+Latitude: 42.9894300
+Longitude: -88.0083700
+Datum: WGS 84
+Coordinate source: From handheld GPS
+
+RANGE IN CHARACTERISTICS:
+Thickness of human-transported materials: Greater than 150 centimeters
+Depth to bedrock: greater than 200 centimeters
+Depth to seasonal high-water table: 0 to 30 centimeters
+Depth to lithologic discontinuity: Greater than 150 centimeters
+Depth to free carbonates: 0 to 100 centimeters or more
+Chemical response throughout:
+Soil reaction--Neutral to moderately alkaline (6.6 to 8.4 pH)
+Reaction to HCl--Very slightly to strongly effervescent
+Particle-size control section (weighted average):
+Human artifact content--0 to 5 percent
+Combined rock and artifact content--less than 15 percent
+Clay content: 18 to 27 percent
+Sand Content: 20 to 50 percent
+
+^A(u) horizon:
+Hue: 10YR or 2.5Y
+Value: 2, 2.5, or 3
+Chroma: 1 to 3
+Texture: loam or silt loam
+Clay content: 18 to 27 percent
+Sand content: 15 to 50 percent
+Rock fragments: 0 to 5 percent
+Human artifacts: 0 to 5 percent
+
+^Bg(u):
+Hue: 7.5YR or 10YR
+Value: 3 to 5
+Chroma: 1 or 2
+Texture: loam, silt loam, or thin lenses of silty clay loam
+Clay content: 18 to 27 percent
+Sand content: 20 to 70 percent
+Rock fragments: 0 to 10 percent
+Human artifacts: 0 to 5 percent
+
+2Bgb horizons (when present):
+Hue: 10YR or 2.5Y
+Value: 3 to 5
+Chroma: 1 or 2
+Texture: loamy sand, sandy loam, silt loam, silty clay loam
+Clay content: 3 to 27 percent
+Sand content: 25 to 75 percent
+Rock fragments: 0 to 5 percent
+
+2Cg horizons:
+Hue: 7.5YR, 10YR or 2.5Y
+Value: 4 to 6
+Chroma: 0 or 2
+Texture: sand, loamy sand, loam, silt loam, or silty clay loam
+Clay content: 3 to 27 percent
+Sand content: 20 to 85 percent
+Rock fragments: 0 to 5 percent
+
+COMPETING SERIES: There are no competing series. The Matherton series represents a similar soil that formed in loamy glaciofluvial material over outwash in undisturbed areas.
+
+GEOGRAPHIC SETTING:
+Landscape: Moraines and till plains
+Landform: Floodways or leveled land in drainageways
+Parent material: Loamy human-transported materials over alluvium
+Slope: 0 to 2 percent
+Elevation: 170 to 240 meters
+Frost free period: 135 to 185 days
+Mean annual air temperature: 6 to 9 degrees C
+Mean annual precipitation: 735 to 890 millimeters
+
+GEOGRAPHICALLY ASSOCIATED SOILS:
+These are the Milwaukee and Piggsville series which are also formed in human-transported material on anthropogenic landforms.
+
+Milwaukee soils are deeper than 100 cm to aquic conditions and occur on fills on nearby hillslopes and summits.
+Piggsville soils formed in loamy-skeletal human-transported material; occur on fills and cutbanks on nearby hillslopes.
+
+DRAINAGE AND SATURATED HYDRAULIC CONDUCTIVITY:
+Drainage Class: poorly drained
+Surface Runoff: very low to low on vegetated slopes; low to very high in unvegetated areas
+Saturated Hydraulic Conductivity Class: moderately low to high
+Ponding: None
+Flooding: Occasional, brief
+
+USE AND VEGETATION:
+Major uses: Used primarily for recreational and water management in urban areas.
+Vegetation: Vegetation may include managed and unmanaged plant communities with a mix of native and non-native species. Many areas are vegetated with non-native ornamental landscaping and/or turfgrass associated with developed land uses. Some areas may exhibit weedy, invasive, and/or primary succession vegetation communities (e.g., abandoned lots and other unmanaged areas). Some small patches of mixed native species such as sugar maple, bur oak, or swamp white oak may be present.
+
+DISTRIBUTION AND EXTENT:
+General area: Urban and other human-altered landscapes
+Region: L - Lake States Fruit, Truck Crop, and Dairy Region; M - Central Feed Grains and Livestock Region
+Major Land Resource Area (MLRA): 95 - Eastern Wisconsin, Northern Illinois, and Upper Michigan Drift Plain; 110 - Northern Illinois and Indiana Heavy Till Plains
+Extent: Small
+
+SOIL SURVEY REGIONAL OFFICE (SSRO) RESPONSIBLE:Raleigh, North Carolina (SPECIAL PROJECTS REGION)
+
+SERIES PROPOSED:Milwaukee County, Wisconsin 2026. Name taken from Teutonia Avenue, a major street.
+
+REMARKS:
+Typical Pedon Taxonomic Features:
+Umbric epipedon: The zone from 0 to 30 centimeters
+Cambic horizon: The zone from 30 to 173 centimeters
+Aquic conditions: 0 to 200 centimeters
+Human-transported material: 0 to 200 centimeters
+Lithologic discontinuity: 173 centimeters
+Particle-size control section: 25 to 100 centimeters
+Taxonomic version: Keys to Soil Taxonomy, Thirteenth Edition (2022)
+
+ADDITIONAL DATA:
+NASIS User Pedon ID:2024WI079021
+
+National Cooperative Soil Survey
+U.S.A.
