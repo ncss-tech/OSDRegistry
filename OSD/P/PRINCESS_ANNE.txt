@@ -2,7 +2,7 @@ LOCATION PRINCESS ANNE          NC+VA
 
 Tentative Series
 JDK-RBT
-06/2026
+08/2026
 
 PRINCESS ANNE SERIES
 
@@ -20,13 +20,13 @@ TAXONOMIC CLASS: Fine-silty, mixed, active, nonacid, thermic Fluventic Sulfiwass
 
 TYPICAL PEDON: Princess Anne muck in an estuarine tidal creek under 1.2 meters of brackish water (colors are for moist soil unless otherwise stated; electrical conductivity is 1:5 by volume solution mixture unless otherwise stated).
 
- Oase--0 to 28 centimeters; very dark grayish brown (2.5Y 3/2) muck; 12 percent fibers, 6 percent rubbed; von Post H9; common very fine and fine roots throughout; strong sulfurous odor; color change with 3 percent hydrogen peroxide; slight effervescence with 30 percent hydrogen peroxide; nonsaline (0.9 dS/m); neutral (pH 6.9), moderately acid (pH 5.7) oxidized pH; gradual boundary.
+ Oase--0 to 28 centimeters; very dark grayish brown (2.5Y 3/2) muck; 12 percent fibers, 6 percent rubbed; von Post H9; common very fine and fine roots throughout; strong sulfurous odor; color change with 3 percent hydrogen peroxide; slight effervescence with 30 percent hydrogen peroxide; nonsaline (0.9 dS/m); neutral (pH 6.9), moderately acid (pH 5.7) oxidized pH; gradual boundary (0 to 39 centimeters thick).
 
- Cseg1--28 to 60 centimeters; very dark gray (5Y 3/1) silt loam; structureless, massive; slightly sticky, slightly plastic; moderately fluid; few very fine roots throughout; strong sulfurous odor; no color change with 3 percent hydrogen peroxide; slight effervescence with 30 percent hydrogen peroxide; 20 percent herbaceous plant fibers; nonsaline (0.6 dS/m); neutral (pH 7.0), ultra acid (pH 3.1) oxidized pH; clear boundary.
+ Cseg1--28 to 60 centimeters; very dark gray (5Y 3/1) silt loam; massive; slightly sticky, slightly plastic; moderately fluid; few very fine roots throughout; strong sulfurous odor; no color change with 3 percent hydrogen peroxide; slight effervescence with 30 percent hydrogen peroxide; 20 percent herbaceous plant fibers; nonsaline (0.6 dS/m); neutral (pH 7.0), ultra acid (pH 3.1) oxidized pH; clear boundary.
 
- Cseg2--60 to 120 centimeters; dark gray (5Y 4/1) silty clay loam; structureless, massive; slightly sticky, slightly plastic; moderately fluid; slight sulfurous odor; no color change with 3 percent hydrogen peroxide; slight effervescence with 30 percent hydrogen peroxide; 5 percent herbaceous plant fibers; nonsaline (0.7 dS/m); neutral (pH 6.8), ultra acid (pH 3.4) oxidized pH; gradual boundary.
+ Cseg2--60 to 120 centimeters; dark gray (5Y 4/1) silty clay loam; massive; slightly sticky, slightly plastic; moderately fluid; slight sulfurous odor; no color change with 3 percent hydrogen peroxide; slight effervescence with 30 percent hydrogen peroxide; 5 percent herbaceous plant fibers; nonsaline (0.7 dS/m); neutral (pH 6.8), ultra acid (pH 3.4) oxidized pH; gradual boundary.
 
- Cseg3--120 to 210 centimeters; very dark gray (5Y 3/1) silt loam; structureless, massive; slightly sticky, slightly plastic; moderately fluid; no sulfurous odor; no color change with 3 percent hydrogen peroxide; moderate effervescence with 30 percent hydrogen peroxide; 2 percent herbaceous plant fibers; nonsaline (0.8 dS/m); neutral (pH 6.8), neutral (pH 6.8) oxidized pH.
+ Cseg3--120 to 210 centimeters; very dark gray (5Y 3/1) silt loam; massive; slightly sticky, slightly plastic; moderately fluid; no sulfurous odor; no color change with 3 percent hydrogen peroxide; moderate effervescence with 30 percent hydrogen peroxide; 2 percent herbaceous plant fibers; nonsaline (0.8 dS/m); neutral (pH 6.8), neutral (pH 6.8) oxidized pH.
 
 TYPE LOCATION: Currituck County, North Carolina; tributary creek of Tull Bay; approximately 1.7 kilometers (1.0 mile) southwest of the intersection of East Gibbs Road and Whitehurst Road, and approximately 3.6 kilometers (2.2 miles) northwest of the intersection of Tulls Creek Road and Launch Landing Road; USGS topographic quadrangle: Creeds.
 
@@ -42,13 +42,13 @@ Shell fragments--0 to 2 percent, by volume
 Sulfurous odor--None to strong throughout
 Soil reaction--Neutral throughout profile (pH 6.6 to 7.3)
 Oxidized reaction--Ultra acid to neutral throughout profile (pH < 3.5 to 7.3)
-Depth to hypersulfidic / sulfidic materials (oxidized pH 4.0)--0 to 100 centimeters
+Depth to hypersulfidic / sulfidic materials (oxidized pH 4.0)--0 to 50 centimeters
 Electrical conductivity (1:5 soil to water solution)--0.6 to 0.9 dS m-1 throughout profile
 Salinity class--Nonsaline
 Total soil organic carbon stock 0 to 100 centimeters--18 to 25 kg m-2
 Total soil organic carbon stock 0 to 200 centimeters--32 to 44 kg m-2
 
-Oase horizon (where present):
+Oase horizon:
 Hue--2.5Y
 Value--3
 Chroma--2

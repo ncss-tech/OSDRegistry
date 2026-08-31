@@ -1,0 +1,126 @@
+LOCATION SANDBRIDGE             VA+NC
+
+Tentative Series
+JDK-RBT
+08/2026
+
+SANDBRIDGE SERIES
+
+MLRA(s)--153B
+Depth class--Very deep
+Drainage class--Very poorly drained
+Parent material--Herbaceous organic material over sandy marine deposits
+Geomorphic location--Back barrier and relict inlet marshes
+Slope range--0 to 1 percent
+Mean annual air temperature--17 degrees C (63 degrees F)
+Mean annual precipitation--1270 millimeters (50 inches)
+
+TAXONOMIC CLASS: Sandy, mixed, euic, thermic Terric Sulfihemists
+
+TYPICAL PEDON: Sandbridge mucky peat in an oligohaline marsh at about sea level (colors are for moist soil unless otherwise stated; electrical conductivity is 1:1 by volume solution mixture unless otherwise stated).
+
+ Oese1--0 to 28 centimeters; very dark brown (7.5YR 2.5/2) broken face and black (7.5YR 2.5/1) rubbed mucky peat; 55 percent fibers, 30 percent rubbed; von Post H4; many very fine and fine roots, and common medium roots; slight sulfurous odor; very slightly saline (2.2 dS/m); strongly acid (pH 5.5), moderately acid (pH 5.6) oxidized pH; clear boundary.
+
+ Oese2--28 to 41 centimeters; very dark grayish brown (10YR 3/2) broken face and very dark brown (10YR 2/2) rubbed mucky peat; 40 percent fibers, 20 percent rubbed; von Post H6; many very fine and fine roots, common medium roots; moderate sulfurous odor; nonsaline (1.8 dS/m); slightly acid (pH 6.5), strongly acid (pH 5.2) oxidized pH; clear boundary (41 to 65 centimeters thick).
+
+ Aseg--41 to 55 centimeters; very dark grayish brown (2.5Y 3/2) fine sandy loam; structureless, massive; moderately sticky, nonplastic; slightly fluid; few fine roots; 5 percent herbaceous plant fibers; moderate sulfurous odor; nonsaline (1.3 dS/m); neutral (pH 6.6), ultra acid (pH 2.8) oxidized pH; clear boundary (10 to 18 centimeters thick).
+
+ Cseg--55 to 200 centimeters; dark gray (N 4/) loamy fine sand; structureless, single grain; nonsticky, nonplastic; nonfluid; no sulfurous odor; nonsaline (1.3 dS/m); neutral (pH 6.7), ultra acid (pH 3.0) oxidized pH.
+
+TYPE LOCATION: City of Virginia Beach, Virginia; in False Cape State Park on Horse Island; approximately 3.4 kilometers (2.1 miles) northeast of the intersection of Marsh Causeway and Knotts Island Road, and approximately 3.7 kilometers (2.3 miles) northwest of the intersection of Sandfiddler Road and Red Snapper Road; USGS topographic quadrangle: Knotts Island.
+
+Latitude--36.555528
+Longitude-- -75.896855
+Datum--WGS84
+Coordinate source--From hand-held GPS
+
+RANGE IN CHARACTERISTICS:
+Depth to bedrock--Greater than 200 centimeters
+Soil moisture regime--Peraquic
+Manner of failure / fluidity class--Nonfluid to moderately fluid throughout the mineral horizons 
+Shell fragments--0 to 10 percent throughout the mineral horizons
+Sulfurous odor--None to strong throughout
+Soil reaction--Strongly acid to slightly alkaline throughout (pH 5.1 to 7.8)
+Oxidized reaction--Strongly acid to moderately acid in the organic horizons (pH 5.1 to 6.0) and ultra acid to extremely acid in the mineral horizons (pH < 3.5 to 4.4)
+Depth to hypersulfidic / sulfidic materials--0 to 100 centimeters
+Electrical conductivity (1:1 soil to water solution)--0.7 to 2.2 dS/m throughout
+Salinity class--Nonsaline to very slightly saline
+Total soil organic carbon stock 0 to 100 centimeters--20 to 32 kg m-2
+Total soil organic carbon stock 0 to 200 centimeters--26 to 37 kg m-2
+
+Oese horizons:
+Hue--7.5YR to 2.5Y
+Value--2 to 3
+Chroma--1 or 2
+Texture--Mucky peat
+Von Post humification scale--H4 to H6
+Organic carbon density--24 to 71 kg m-3
+
+Aseg horizons:
+Hue--10YR to 5Y
+Value--2 to 3
+Chroma--1 or 2
+Texture--Loamy sand, fine sandy loam, loam, or their mucky analogs 
+Organic carbon density--25 to 40 kg m-3
+
+Cseg or CAseg horizons:
+Hue--2.5Y to 10Y, or Neutral
+Value--3 to 5
+Chroma--0 to 2
+Texture--Fine sand, loamy sand, loamy fine sand, sandy loam, or their mucky analogs
+Organic carbon density--2 to 17 kg m-3
+
+COMPETING SERIES:
+There are no competing series in the same family.
+
+GEOGRAPHIC SETTING:
+Landscape--Southeast coastal plain estuaries
+Landform--Oligohaline marshes on back-barriers and relict flood-tidal deltas
+Parent material--Herbaceous organic material over sandy marine deposits 
+Slope--0 to 1 percent
+Elevation--0 to 1 meter
+Water salinity range--0.5 to 5 parts per thousand
+Frost free period--230 to 360 days
+
+GEOGRAPHICALLY ASSOCIATED SOILS:
+These are the Carteret, Corolla, Currituck, Duckston, and Newhan soils.
+Carteret soils--are mineral soils that do not contain sulfidic materials in the upper 100 centimeters.
+Corolla soils--are moderately well drained to somewhat poorly drained and found between dunes.
+Currituck soils--do not have sulfidic materials in the upper 100 centimeters and are on similar landforms.
+Duckston soils--are poorly drained and found in interdunal swales.
+Newhan soils--are excessively drained and found on dunes.
+
+DRAINAGE AND SATURATED HYDRAULIC CONDUCTIVITY:
+Drainage class--Very poorly drained
+Saturated hydraulic conductivity--Moderately high to high
+Soil moisture regime--Peraquic
+Flooding--Very frequent, for very brief durations. The soils are flooded by wind tides. Sandbridge soils are not normally subject to inundation from lunar tides.
+
+USE AND VEGETATION:
+Major uses--Sandbridge soils are used mainly as wetland wildlife habitat.
+Typical vegetation--Dominantly black needlerush (Juncus roemerianus), Olney's three square (Schoenoplectus americanus), big cordgrass (Spartina cynosuroides), and narrowleaf cattail (Typha angustifolia). Areas transitional to higher elevations have scattered eastern baccharis (Baccharis halimifolia), waxmyrtle (Myrica cerifera), and black willow (Salix nigra) shrubs. In some areas, much of the native vegetation has been overtaken by invasive common reed (Phragmites australis).
+
+DISTRIBUTION AND EXTENT:
+General area--Coastal plain estuaries in North Carolina and Virgina
+Land Resource Regions--T - Atlantic and Gulf Coast Lowland Forest and Crop Region
+MLRA(s)--153B
+Extent--Small  
+
+SOIL SURVEY REGIONAL OFFICE (SSRO) RESPONSIBLE: Special Projects Region
+
+SERIES ESTABLISHED: City of Virginia Beach, Virginia, 2026
+
+REMARKS:
+The series is named after the community of Sandbridge in the City of Virginia Beach, VA. Sandbridge soils were previously mapped as Backbay and Currituck in Virginia and North Carolina soil surveys, respectively.
+
+Diagnostic horizons and other diagnostic soil characteristics recognized in this pedon are (Keys to Soil Taxonomy, Thirteenth Edition, 2022):
+Hemic soil materials--The zone from 0 to 41 centimeters has a fiber content after rubbing that is between one-sixth and two-fifths of the original soil volume.
+Hypersulfidic materials--The zone from 41 to 200 centimeters has a pH of 4.0 or less after 16 weeks of moist aerobic incubation.
+Hyposulfidic materials-- The zone from 28 to 41 has an initial pH that decreases by 1 or more units but remains at a value of 4.0 or more after 16 weeks of moist aerobic incubation.
+Fluidity--The zone from 41 to 55 centimeters has a fluidity class of slightly fluid.
+Peraquic feature--Zero or positive water potential at or near the soil surface.
+
+NASIS User Site and Pedon ID: S2026VA810118
+_____________________________________________________________________
+National Cooperative Soil Survey
+U.S.A.

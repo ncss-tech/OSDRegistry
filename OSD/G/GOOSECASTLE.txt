@@ -2,7 +2,7 @@ LOCATION GOOSECASTLE            NC+VA
 
 Tentative Series
 JDK-RBT
-07/2026
+08/2026
 
 GOOSECASTLE SERIES
 
@@ -109,7 +109,7 @@ DRAINAGE AND SATURATED HYDRAULIC CONDUCTIVITY:
 Drainage class--Very poorly drained
 Saturated hydraulic conductivity--Moderately low to moderately high
 Soil moisture regime--Peraquic
-Flooding--The soils are flooded by wind tides. Goosecastle soils are not normally subject to inundation from lunar tides.
+Flooding--Very frequent, for very brief durations.  The soils are flooded by wind tides. Goosecastle soils are not normally subject to inundation from lunar tides.
 
 USE AND VEGETATION:
 Major uses--Goosecastle soils are used mainly as wetland wildlife habitat.

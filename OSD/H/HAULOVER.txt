@@ -1,0 +1,134 @@
+LOCATION HAULOVER               FL
+
+Tentative Series
+ARW
+08/2026
+
+HAULOVER SERIES
+
+MLRA(s)--152A
+Depth class--Very deep
+Drainage class--Very poorly drained
+Parent material--Herbaceous organic material over fine-loamy estuarine or alluvium deposits
+Geomorphic location--Oligohaline and mesohaline tidal marshes, and along tidal rivers
+Slope range--0 to 1 percent
+Mean annual air temperature--21 degrees C (70 degrees F)
+Mean annual precipitation--1397 millimeters (55 inches)
+
+TAXONOMIC CLASS: Fine-loamy, mixed, active, nonacid, hyperthermic Histic Sulfaquents
+
+TYPICAL PEDON: Haulover mucky peat in an oligohaline marsh slightly higher than sea level (colors are for moist soil unless otherwise stated; electrical conductivity is 1:1 by volume solution mixture unless otherwise stated).
+
+ Oese--0 to 26 centimeters; dark brown (10YR 3/3) broken face and dark grayish brown (10YR 4/2) rubbed mucky peat; 60 percent fibers, 30 percent rubbed; von Post H4; many very fine, fine, and medium roots, and few coarse roots; no sulfurous odor; no color change with 3 percent hydrogen peroxide; slight effervescence with 30 percent hydrogen peroxide; nonsaline (0.1 dS/m); moderately acid (pH 5.6), strongly acid (pH 5.1) oxidized pH; gradual boundary; (20 to 35 centimeters thick)
+
+ Aseg--26 to 65 centimeters; dark grayish brown (10YR 4/2) mucky loam; massive; slightly sticky, nonplastic; very fluid; many very fine roots, common fine roots, and few medium roots; slight sulfurous odor; no color change with 3 percent hydrogen peroxide; slight effervescence with 30 percent hydrogen peroxide; nonsaline (0.8 dS/m); slightly acid (pH 6.3), extremely acid (pH 3.8) oxidized pH; gradual boundary (20 to 60 centimeters thick)
+
+ Cseg1--65 to 107 centimeters; dark grayish brown (2.5Y 4/2) loam; massive; slightly sticky, slightly plastic; very fluid; few very fine and fine roots; 2 percent wood fragments; no sulfurous odor; no color change with 3 percent hydrogen peroxide; slight effervescence with 30 percent hydrogen peroxide; nonsaline (0.9 dS/m); slightly acid (pH 6.4), extremely acid (pH 3.5) oxidized pH; clear boundary
+
+ Cseg2--107 to 200 centimeters; dark gray (2.5Y 4/1) clay loam; massive; moderately sticky, moderately plastic; very fluid; no sulfurous odor; no color change with 3 percent hydrogen peroxide; slight effervescence with 30 percent hydrogen peroxide; nonsaline (0.8 dS/m); slightly acid (pH 6.3), very strongly acid (pH 4.8) oxidized pH
+
+TYPE LOCATION: Franklin County, Florida; St. Marks River; approximately 1.6 kilometers (1.0 mile) east of the merge of Poorhouse Creek and Apalachicola River, and approximately 2.1 kilometers (1.3 miles) north of Turtle Harbor; USGS topographic quadrangle: Jackson River.
+
+Latitude--29.7557960
+Longitude-- -85.0025680
+Datum--WGS84
+Coordinate source--From hand-held GPS
+
+RANGE IN CHARACTERISTICS:
+Depth to bedrock--Greater than 200 centimeters
+Soil moisture regime--Peraquic
+Manner of failure / fluidity class--Slightly fluid to very fluid throughout the mineral horizons 
+Wood fragments--0 to 10 percent, by volume
+Sulfurous odor--None to moderate throughout
+Soil reaction--Strongly acid to neutral in the organic horizons (pH 5.1 to 7.3) and strongly acid to slightly alkaline in the mineral horizons (pH 5.1 to 7.8)
+Oxidized reaction--Ultra acid to moderately acid in the organic horizons (pH < 3.5 to 6.0) and ultra acid to neutral in the mineral horizons (pH < 3.5 to 7.3).
+Depth to hypersulfidic / sulfidic materials (oxidized pH 4.0 or less)--Less than 50 centimeters
+Electrical conductivity (1:1 soil to water solution)--0 to < 16 dS/m throughout
+Salinity class--Nonsaline to moderately saline
+Total soil organic carbon stock 0 to 100 centimeters--10 to 40 kg m-2
+Total soil organic carbon stock 0 to 200 centimeters--25 to 75 kg m-2
+
+Oese or Oase horizons:
+Hue--7.5YR to 10YR
+Value--2 to 4
+Chroma--1 to 3
+Texture--Mucky peat or muck
+Von Post humification scale--H4 to H8
+Organic carbon density--12 to 60 kg m-3
+
+Aseg horizons:
+Hue--7.5YR to 10YR
+Value--2 to 4
+Chroma--1 or 2
+Texture--Loam, clay loam, or their mucky analogs 
+Organic carbon density--15 to 40 kg m-3
+
+Cseg horizons:
+Hue--10YR to 2.5Y
+Value--2 to 5
+Chroma--1 to 3
+Texture--Loam, sandy clay loam, and clay loam, or their mucky analogs.
+Organic carbon density--5 to 35 kg m-3
+
+2Oaseb horizon (where present):
+Hue--10YR to 2.5Y
+Value--2 to 3
+Chroma--1 or 2
+Texture--Muck
+Von post humification scale--H7 to H10
+Organic carbon density--25 to 45 kg m-3
+
+COMPETING SERIES:
+There are no competing series in the same family.
+
+GEOGRAPHIC SETTING:
+Landscape--Southern coastal plain estuaries
+Landform--Oligohaline and mesohaline tidal marshes, and along tidal rivers
+Parent material--Herbaceous organic material over fine-loamy estuarine deposits 
+Slope--0 to 1 percent
+Elevation--0 to 1 meter
+Water salinity range--0.5 to 18 parts per thousand
+Frost free period--300 to 350 days
+
+GEOGRAPHICALLY ASSOCIATED SOILS:
+These are the Blackrail, Cottonmouth, Fushatchee, Millender, and Wulfert soils.
+Blackrail soils--formed in sandy alluvium and estuarine deposits and do not have histic epipedons.
+Cottonmouth soils--have greater than 40 centimeters of hemic soil material at the soil surface.
+Fushatchee soils--have greater than 40 centimeters of sapric soil materials at the soil surface.
+Millender soils--formed in fine-loamy estuarine deposits and do not contain hypersulfidic materials within 50 centimeters of the mineral soil surface.
+Wulfert soils--have greater than 40 centimeters of sapric soil materials at the soil surface. They also have up to 20 percent shell fragments in their sandy horizons.
+
+DRAINAGE AND SATURATED HYDRAULIC CONDUCTIVITY:
+Drainage class--Very poorly drained
+Saturated hydraulic conductivity--Low to moderately high
+Soil moisture regime--Peraquic
+Flooding--Very frequent, for brief durations. The soils are flooded by wind and lunar tides, and riverine flooding. Inundation depths on Haulover soils are irregular. 
+
+USE AND VEGETATION:
+Major uses--Haulover soils are used mainly as wetland wildlife habitat.
+Typical vegetation--Haulover soils experience a range of halophytic and non-halophytic vegetation depending on their proximity to tidal rivers. Vegetation for typical Haulover soils consist of black needlerush (Juncus roemerianus), sawgrass (Cladium jamaicense), and cosmopolitan bullrush (Bolboschoenus maritimus). Occasional observed vegetation include bulltongue arrowhead (Sagittaria lancifolia) and common reed (Phragmites australis)
+
+DISTRIBUTION AND EXTENT:
+General area--Coastal plain estuaries in Florida
+Land Resource Regions--T - Atlantic and Gulf Coast Lowland Forest and Crop Region
+MLRA(s)--152A
+Extent--Small  
+
+SOIL SURVEY REGIONAL OFFICE (SSRO) RESPONSIBLE: Special Projects Region
+
+SERIES ESTABLISHED: Franklin County, Florida, 2026
+
+REMARKS:
+The series is named after "The Haulover" connection between two branches of the St. Marks River, near where it was observed. Haulover soils were previously mapped as the Bohicket, Brickyard, Chowan, Kenner, and Tisonia soils in Florida sol surveys.
+
+Diagnostic horizons and other diagnostic soil characteristics recognized in this pedon are (Keys to Soil Taxonomy, Thirteenth Edition, 2022):
+Hemic soil materials--The zone from 0 to 26 centimeters has a fiber content after rubbing that is greater than one-sixth but less than three-fourths of  the original soil volume.
+Hypersulfidic materials--The zone from 26 to 107 centimeters has an initial pH that decreases by 1 or more units and decreases to a value of 4.0 or less after 16 weeks of moist aerobic incubation.
+Fluidity--The zone from 26 to 200 centimeters has a fluidity class of very fluid.
+Reduced matrix--The zone from 61 to 200 centimeters has a soil color matrix of chroma 2 or less.
+Peraquic feature--Zero or positive water potential at or near the soil surface.
+
+NASIS User Site and Pedon ID: S2026FL037122
+_____________________________________________________________________
+National Cooperative Soil Survey
+U.S.A.

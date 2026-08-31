@@ -2,7 +2,7 @@ LOCATION TOWER GROVE            MO
 
 Tentative Series
 IRD. RET-RSA-EED
-07/2026
+08/2026
 
 TOWER GROVE SERIES
 
@@ -23,13 +23,13 @@ TYPICAL PEDON: Tower Grove silt loam, 2 percent slope in a city park under sod g
 
  ^Cu--10 to 32 centimeters; 50 percent dark grayish brown (10YR 4/2) and 35 percent brown (10YR 4/3) and 15 percent reddish brown (5YR 4/3) silt loam; massive; friable; few fine roots throughout; few fine interstitial pores; 2 percent gravel-sized brick and 3 percent gravel-sized bitumen (asphalt) artifacts; slightly alkaline (pH 7.6); abrupt wavy boundary (12 to 28 cm thick)
 
- 2Bt1--32 to 43 centimeters; 70 percent dark brown (10YR 3/3) and 30 percent brown (10YR 4/3) silty clay loam; moderate fine subangular blocky structure; friable; common very fine and fine roots throughout; common fine interstitial pores; 10 percent prominent light gray (10YR 7/2), dry, silt coats on all faces of peds and 10 percent faint dark brown (10YR 3/3), clay films on all faces of peds; neutral (pH 7.1); clear smooth boundary
+ 2Btb1--32 to 43 centimeters; 70 percent dark brown (10YR 3/3) and 30 percent brown (10YR 4/3) silty clay loam; moderate fine subangular blocky structure; friable; common very fine and fine roots throughout; common fine interstitial pores; 10 percent prominent light gray (10YR 7/2), dry, silt coats on all faces of peds and 10 percent faint dark brown (10YR 3/3), clay films on all faces of peds; neutral (pH 7.1); clear smooth boundary
 
- 2Bt2--43 to 60 centimeters; 70 percent brown (10YR 4/3) and 30 percent dark yellowish brown (10YR 4/4) silty clay loam; moderate medium subangular blocky and moderate coarse subangular blocky structure; firm; common very fine and fine roots throughout; common very fine vesicular and interstitial pores, and common fine dendritic tubular pores; 5 percent prominent light gray (10YR 7/2), dry, silt coats on all faces of peds and 10 percent faint dark brown (10YR 3/3) clay films on all faces of peds; 2 percent fine distinct black (10YR 2/1) manganese masses and 2 percent fine distinct brown (10YR 5/3) iron depletions; neutral (pH 7.0); clear smooth boundary
+ 2Btb2--43 to 60 centimeters; 70 percent brown (10YR 4/3) and 30 percent dark yellowish brown (10YR 4/4) silty clay loam; moderate medium subangular blocky and moderate coarse subangular blocky structure; firm; common very fine and fine roots throughout; common very fine vesicular and interstitial pores, and common fine dendritic tubular pores; 5 percent prominent light gray (10YR 7/2), dry, silt coats on all faces of peds and 10 percent faint dark brown (10YR 3/3) clay films on all faces of peds; 2 percent fine distinct black (10YR 2/1) manganese masses and 2 percent fine distinct brown (10YR 5/3) iron depletions; neutral (pH 7.0); clear smooth boundary
 
- 2Bt3--60 to 95 centimeters; 80 percent dark yellowish brown (10YR 4/4) and 20 percent brown (10YR 4/3) silty clay loam; weak coarse subangular blocky structure; firm; common very fine roots throughout; common very fine vesicular and fine dendritic tubular pores; 5 percent faint dark brown (10YR 3/3) clay films on all faces of peds; 5 percent fine distinct grayish brown (10YR 5/2) iron depletions; neutral (pH 6.9); clear smooth boundary
+ 2Btb3--60 to 95 centimeters; 80 percent dark yellowish brown (10YR 4/4) and 20 percent brown (10YR 4/3) silty clay loam; weak coarse subangular blocky structure; firm; common very fine roots throughout; common very fine vesicular and fine dendritic tubular pores; 5 percent faint dark brown (10YR 3/3) clay films on all faces of peds; 5 percent fine distinct grayish brown (10YR 5/2) iron depletions; neutral (pH 6.9); clear smooth boundary
 
- 2Bt4--95 to 135 centimeters; dark yellowish brown (10YR 4/4) silt loam; weak coarse subangular blocky structure; friable; common very fine roots throughout; common very fine vesicular and few fine dendritic tubular pores; 8 percent fine distinct grayish brown (10YR 5/2) iron depletions; neutral (pH 6.6); gradual smooth boundary (combined thickness of the 2Bt horizons is 90 to 160 centimeters thick)
+ 2Btb4--95 to 135 centimeters; dark yellowish brown (10YR 4/4) silt loam; weak coarse subangular blocky structure; friable; common very fine roots throughout; common very fine vesicular and few fine dendritic tubular pores; 8 percent fine distinct grayish brown (10YR 5/2) iron depletions; neutral (pH 6.6); gradual smooth boundary (combined thickness of the 2Bt horizons is 90 to 160 centimeters thick)
 
  2C--135 to 200 centimeters; brown (10YR 4/3) silt loam; massive; friable; few very fine roots throughout; few very fine vesicular pores; 10 percent medium faint grayish brown (10YR 5/2), iron depletions; slightly acid (pH 6.5)
 
@@ -69,7 +69,7 @@ Texture--silt loam or silty clay loam
 Rock fragments--0 to 5 percent
 Artifact content--0 to 5 percent
 
-2Bt horizons:
+2Btb horizons:
 Hue--10YR or 7.5YR
 Value--4 or 5
 Chroma--3 to 6
@@ -111,7 +111,7 @@ Frost-free period: 184 to 228 days
 Mean annual temperature: 11 to 14 degrees C
 Mean annual precipitation: 940 to 1194 millimeters
 
-GEOGRAPHICALLY ASSOCIATED SOILS: These are the Fishpot, Harvester, Shaw, and Vandeventer soils which have mantles of human-transported material greater than 50 centimeters thick, and the competing Windfield soils. 
+GEOGRAPHICALLY ASSOCIATED SOILS: These are the Fishpot, Harvester, Shaw, and Vandeventer soils which have mantles of human-transported material greater than 50 centimeters thick, and the competing Winfield soils. 
 
 Fishpot soils formed in alluvial materials and are subject to frequent flooding on nearby fills on stream terraces and floodplains.
 Harvester soils have aquic conditions beginning below 55 centimeters, have buried argillic horizons, and are found on similar landforms.

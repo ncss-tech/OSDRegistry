@@ -1,0 +1,120 @@
+LOCATION BLACKRAIL              FL
+
+Tentative Series
+ARW
+08/2026
+
+BLACKRAIL SERIES
+
+MLRA(s)--152A
+Depth class--Very deep
+Drainage class--Very poorly drained
+Parent material--Sandy alluvial deposits
+Geomorphic location--Oligohaline and mesohaline tidal marshes along tidal river floodplains
+Slope range--0 to 1 percent
+Mean annual air temperature--21 degrees C (70 degrees F)
+Mean annual precipitation--1397 millimeters (55 inches)
+
+TAXONOMIC CLASS: Siliceous, hyperthermic Humaqueptic Psammaquents
+
+TYPICAL PEDON: Blackrail mucky fine sand in an oligohaline marsh 0.3 meters above sea level (colors are for moist soil unless otherwise stated; electrical conductivity is 1:1 by volume solution mixture unless otherwise stated).
+
+ Aseg--0 to 31 centimeters; very dark grayish brown (10YR 3/2) mucky fine sand; single grain; nonsticky, nonplastic; nonfluid; many very fine and fine, and few medium roots; no sulfurous odor; no color change with 3 percent hydrogen peroxide; slight effervescence with 30 percent hydrogen peroxide; nonsaline (0.2 dS/m); neutral (pH 6.6), slightly acid (pH 6.2) oxidized pH; clear boundary
+
+ Cseg1--31 to 52 centimeters; 80 percent black (2.5Y 2.5/1) and 20 percent light olive brown (2.5Y 5/3) loamy fine sand; single grain; nonsticky, nonplastic; nonfluid; common very fine and fine roots; slight sulfurous odor; no color change with 3 percent hydrogen peroxide; slight effervescence with 30 percent hydrogen peroxide; nonsaline (0.6 dS/m); neutral (pH 7.0), slightly acid (pH 6.5) oxidized pH; clear boundary
+
+ Cseg2--52 to 200 centimeters; very dark gray (2.5Y 3/1) loamy fine sand; single grain; nonsticky, nonplastic; nonfluid; few fine roots; moderate sulfurous odor; no color change with 3 percent hydrogen peroxide; slight effervescence with 30 percent hydrogen peroxide; very slightly saline (3.2 dS/m); neutral (pH 7.1), slightly acid (pH 6.3) oxidized pH
+
+TYPE LOCATION: Franklin County, Florida; Crooked River; approximately 1.6 kilometers (1.0 mile) west of the intersection of County Road 67 and Kendrick Road, and approximately 1.4 kilometers (0.9 miles) north of the intersection of Georgia Avenue and Wellborn Avenue; USGS topographic quadrangle: Pickett Bay.
+
+Latitude--29.8788160
+Longitude-- -84.6735440
+Datum--WGS84
+Coordinate source--From hand-held GPS
+
+RANGE IN CHARACTERISTICS:
+Depth to bedrock--Greater than 200 centimeters
+Soil moisture regime--Peraquic
+Manner of failure / fluidity class--Nonfluid to slightly fluid
+Wood fragments--0 to 10 percent, by volume
+Sulfurous odor--None to moderate throughout
+Soil reaction--Slightly acid to slightly alkaline (pH 6.1 to 7.8)
+Oxidized reaction--Very strongly acid to neutral (pH 4.5 to 7.3)
+Depth to hypersulfidic / sulfidic materials (oxidized pH 4.0 or less)--Greater than 100 centimeters
+Electrical conductivity (1:1 soil to water solution)--0 to < 8 dS/m throughout
+Salinity class--Nonsaline to slightly saline
+Total soil organic carbon stock 0 to 100 centimeters--15 to 35 kg m-2
+Total soil organic carbon stock 0 to 200 centimeters--20 to 50 kg m-2
+
+Oese or Oase horizons (where present):
+Hue--7.5YR or 10YR
+Value--2 to 3
+Chroma--1 or 2
+Texture--Mucky peat or muck
+Von Post humification scale--H4 to H8
+Organic carbon density--20 to 60 kg m-3
+
+Aseg or Ase horizons:
+Hue--10YR to 2.5Y
+Value--2 or 3
+Chroma--1 or 2
+Texture--Fine sand, loamy sand, loamy fine sand, or their mucky analogs 
+Organic carbon density--10 to 30 kg m-3
+
+Cseg horizons:
+Hue--10YR or 2.5Y
+Value--2 to 5
+Chroma--1 to 3
+Texture--Fine sand, loamy sand, or loamy fine sand
+Organic carbon density--8 to 15 kg m-3
+
+COMPETING SERIES:
+There are no competing series in the same family.
+
+GEOGRAPHIC SETTING:
+Landscape--Southern coastal plain estuaries
+Landform--Oligohaline and mesohaline tidal marshes along tidal river floodplains
+Parent material--Sandy alluvial deposits 
+Slope--0 to 1 percent
+Elevation--0 to 1 meter
+Water salinity range--0.5 to 18 parts per thousand
+Frost free period--300 to 350 days
+
+GEOGRAPHICALLY ASSOCIATED SOILS:
+These are the Fushatchee, Haulover, Millender, and Yent soils.
+Fushatchee soils--Formed in herbaceous organic material over loamy estuarine deposits and have over 40 centimeters of hemic material at the soil surface.
+Haulover soils--Formed in fine-loamy estuarine deposits and contain sulfidic materials within the top 50 centimeters of the soil profile. 
+Millender soils--Formed in fine-loamy estuarine deposits and contain sulfidic materials between 50 and 100 centimeters from the soil surface. 
+Yent soils--Formed in herbaceous and woody organic material over loamy estuarine deposits and have over 40 centimeters of sapric material at the surface. 
+
+DRAINAGE AND SATURATED HYDRAULIC CONDUCTIVITY:
+Drainage class--Very poorly drained
+Saturated hydraulic conductivity--High to very high
+Soil moisture regime--Peraquic
+Flooding--Very frequent, for brief durations. These soils are flooded by wind and lunar tides, or overbank flow. Inundation depths on Blackrail soils are irregular. 
+
+USE AND VEGETATION:
+Major uses--Blackrail soils are used mainly as wetland wildlife habitat.
+Typical vegetation--Blackrail soils are dominated by black needlerush (Juncus roemerianus), with interspersed sawgrass (Cladium jamaicense), and cosmopolitan bullrush (Bolboschoenus maritimus). Along areas adjacent to major floodplains, stands of slash pine (Pinus elliottii) and cabbage palm (Sabal palmetto) establish. 
+
+DISTRIBUTION AND EXTENT:
+General area--Coastal plain estuaries and broad floodplains in Florida
+Land Resource Regions--T - Atlantic and Gulf Coast Lowland Forest and Crop Region
+MLRA(s)--152A
+Extent--Small  
+
+SOIL SURVEY REGIONAL OFFICE (SSRO) RESPONSIBLE: Special Projects Region
+
+SERIES ESTABLISHED: Franklin County, Florida, 2026
+
+REMARKS:
+The series is named after the black rail bird (Laterallus jamaicensis) who utilize areas of this soil for habitat and foraging. Blackrail soils were previously mapped as the Bayvi, Bohicket, Dirego, and Tisonia soils in Florida soil surveys.
+
+Diagnostic horizons and other diagnostic soil characteristics recognized in this pedon are (Keys to Soil Taxonomy, Thirteenth Edition, 2022):
+Ochric epipedon--The zone from 0 to 31 centimeters.
+Peraquic feature--Zero or positive water potential at or near the soil surface.
+
+NASIS User Site and Pedon ID: 2026FL037115
+_____________________________________________________________________
+National Cooperative Soil Survey
+U.S.A.
