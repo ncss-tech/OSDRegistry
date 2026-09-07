@@ -1,0 +1,150 @@
+LOCATION VIEAU                  WI
+
+Tentative Series
+IRD. NI-EED
+09/2026
+
+VIEAU SERIES
+
+Depth class: Very deep
+Drainage class: Somewhat excessively drained
+Saturated hydraulic conductivity: High or very high near the surface; very high below
+Parent material: Sandy dredge material over sandy lacustrine sediments
+Geomorphic location: Dredge spoil banks beach terraces
+Slope: 0 to 35 percent
+Mean annual air temperature: 8 degrees C
+Mean annual precipitation: 815 millimeters
+
+TAXONOMIC CLASS: Dredgic, mixed, mesic Typic Udipsamments
+
+TYPICAL PEDON: Vieau fine sandy loam, 4 percent slope on a dredge spoil bank at an elevation of 184 meters above mean sea level. (Colors are for moist soil unless otherwise noted.)
+
+ ^Au--0 to 18 centimeters (0 to 7 inches); 98 percent very dark gray (10YR 3/1) and 2 percent strong brown (7.5YR 4/6); fine sandy loam; weak fine granular structure; friable; many very fine and fine roots throughout; many very fine and fine irregular pores; 2 percent mixed gravel; 5 percent gravel sized coal combustion byproducts; slightly effervescent neutral (pH 7.0); abrupt smooth boundary (0 to 20 cm thick)
+
+ ^Bw--18 to 38 centimeters (7 to 15 inches); 87 percent brown (7.5YR 4/4), 6 percent very dark gray (10YR 3/1), 4 percent reddish brown (5YR 4/4), and 3 percent pinkish gray (7.5YR 7/2) loamy coarse sand; weak fine subangular blocky structure; friable; common very fine and fine roots throughout; many very fine and fine irregular pores; 6 percent mixed fine gravel and 2 percent mixed coarse gravel; slightly effervescent; moderately alkaline (pH 8.2); clear smooth boundary (20 to 40 cm thick)
+
+ ^C1--38 to 58 centimeters (15 to 23 inches); 97 percent brown (7.5YR 5/3) and 3 percent strong brown (7.5YR 5/6) loamy fine sand; single grain; loose; 2 percent mixed gravel; slightly effervescent with 1 N Hydrochloric acid; moderately alkaline (pH 8.2); gradual smooth boundary 
+
+ ^C2--58 to 81 centimeters (23 to 32 inches); 91 percent brown (7.5YR 5/3) and 7 percent strong brown (7.5YR 4/6) and 2 percent pinkish gray (7.5YR 7/2) loamy sand; single grain; loose; 3 percent mixed gravel; slightly effervescent; moderately alkaline (pH 8.4); gradual smooth boundary
+
+ ^C3--81 to 114 centimeters (32 to 45 inches); 93 percent brown (10YR 5/3) and 4 percent strong brown (7.5YR 4/6) and 3 percent very dark gray (7.5YR 3/1) loamy sand; single grain; loose; 7 percent mixed gravel; strongly effervescent; moderately alkaline (pH 8.4); gradual smooth boundary
+
+ ^C4--114 to 137 centimeters (45 to 54 inches); 90 percent yellowish brown (10YR 5/4) and 10 percent strong brown (7.5YR 4/6) gravelly sand; single grain; loose; 2 percent mixed fine gravel, 3 percent mixed medium gravel and 10 percent mixed coarse gravel; strongly effervescent; strongly alkaline (pH 8.5); gradual smooth boundary 
+
+ ^C5--137 to 168 centimeters (54 to 66 inches); 82 percent brown (7.5YR 4/4) and 16 percent yellowish brown (10YR 5/4) and 2 percent dark yellowish brown (10YR 4/6) gravelly coarse sand; single grain; loose; 3 percent mixed fine gravel, 5 percent mixed medium gravel and 12 percent mixed coarse gravel; strongly effervescent; strongly alkaline (pH 8.5); gradual smooth boundary (Combined thickness of the ^C horizons 50 to 160 centimeters)
+
+ 2C--168 to 200 centimeters (66 to 79 inches); yellowish brown (10YR 5/4) gravelly coarse sand; single grain; loose; 2 fine mixed gravel, 5 percent mixed medium gravel and 10 percent mixed coarse gravel; strongly effervescent; strongly alkaline (pH 8.5)
+
+TYPE LOCATION: Milwaukee County, Wisconsin; located in South Shore Park 68 meters north of South Superior Street and 53 meters west of South Shore Drive
+
+USGS Quadrangle: Milwaukee, WI
+Latitude: 42.993472
+Longitude: -87.881972
+Datum: WGS 84
+Coordinate source: From handheld GPS
+
+RANGE IN CHARACTERISTICS:
+Thickness of human-transported materials: Greater than 100 centimeters
+Depth to bedrock: Greater than 200 centimeters
+Depth to seasonal high-water table: Greater than 100 centimeters
+Depth to lithologic discontinuity: Greater than 100 centimeters
+Depth to free carbonates: 0 to 100 centimeters or more
+Chemical response throughout:
+Soil reaction--Neutral to strongly alkaline (6.6 to 9.0 pH)
+Reaction to HCl--Slightly to strongly effervescent 
+Particle-size control section (weighted average):
+Clay content--Less than 15 percent 
+Sand Content--Greater than 70 percent 
+Artifact content--0 to 10 percent
+Combined rock and artifact content--0 to 30 percent
+
+^A(u) horizon:
+Hue: 7.5yr or 10yr
+Value: 2 or 3
+Chroma: 1 or 2
+Texture: Fine sandy loam, sandy loam, or silt loam
+Clay content: 0 to 20 percent
+Sand content: 40 to 85 percent
+Rock fragments: 0 to 15 percent 
+Human artifacts: 0 to 5 percent 
+
+^Bw(u) horizon:
+Hue: 7.5yr to 2.5Y
+Value: 4 to 6
+Chroma: 3 or 4
+Texture: loamy sand, very fine sand or coarser and their gravelly analogs. Some pedons may have very thin strata of sandy loam textures.
+Clay content: 0 to 15 percent
+Sand content: 70 to 90 percent
+Rock fragments: 0 to 20 percent
+Human artifacts: 0 to 5 percent
+
+^C(u) horizons:
+Hue: 7.5yr to 2.5Y
+Value: 3 to 7
+Chroma: 1 to 6 
+Texture: sandy loam, loamy fine sand, loamy sand, very fine sand or coarser and their gravelly analogs
+Clay content: 0 to 10 percent
+Sand content: 70 to 90 percent
+Rock fragments: 15 to 30 percent
+Human artifacts: 0 to 5 percent
+
+2C horizons when present:
+Hue: 10yr or 2.5Y
+Value: 3 to 7
+Chroma: 1 to 6 
+Texture: gravelly coarse sand, gravelly loamy sand or gravelly sand
+Clay content: 0 to 5 percent
+Sand content: 75 to 95 percent
+Rock fragments: 15 to 30 percent
+
+COMPETING SERIES: This is the Bigapple series. Bigapple soils may have placic horizons and lack free carbonates.
+
+GEOGRAPHIC SETTING:
+Landscape: Shore plains 
+Landform: Dredge spoil banks beach terraces
+Parent material: Sandy dredge material over sandy lacustrine sediments
+Slope: 0 to 35 percent
+Elevation: 170 to 250 meters
+Frost free period: 135 to 185 days
+Mean annual air temperature: 6 to 9 degrees C
+Mean annual precipitation: 737 to 889 millimeters
+
+GEOGRAPHICALLY ASSOCIATED SOILS: These are the Piggsville, Milwaukee, and Tosa series.
+
+Milwaukee soils formed in silty human-transported material; occur on fills on nearby ground moraines.
+Piggsville soils formed in loamy-skeletal human-transported material; occur on fills on nearby ground moraines and escarpments.
+Tosa soils have loamy till below the human-transported material and have aquic conditions; occur on fills on nearby ground moraines.
+
+DRAINAGE AND SATURATED HYDRAULIC CONDUCTIVITY:
+Drainage Class: Excessively well drained
+Surface Runoff: Very low to low on vegetated slopes; low to medium on unvegetated areas
+Saturated Hydraulic Conductivity Class: High or very high in the surface; very high below
+Flooding: None
+Ponding: None
+
+USE AND VEGETATION:
+Major uses are for recreational, commercial, and residential applications in an urban setting. Vegetation may include managed and unmanaged plant communities with a mix of native and non-native species. Many areas are vegetated with non-native ornamental landscaping and/or turfgrass associated with developed land uses. Some areas may exhibit weedy, invasive, and/or primary succession vegetation communities (e.g., abandoned lots and other unmanaged areas). Some small patches of mixed native species such as black oak, white oak, or sugar maple, may be present.
+
+DISTRIBUTION AND EXTENT:
+General area: Urban and other human-altered landscapes in Southeastern Wisconsin.
+Land Resource Region: M - Central Feed Grains and Livestock Region
+Major Land Resource Areas (MLRA): 110 - Northern Illinois and Indiana Heavy Till Plains
+Extent: Small
+
+SOIL SURVEY REGIONAL OFFICE (SSRO) RESPONSIBLE: Raleigh, North Carolina (Special Projects Office)
+
+SERIES PROPOSED: Milwaukee County, Wisconsin 2026; name from a school and street in the City of Milwaukee.
+
+REMARKS:  
+Typical Pedon Taxonomic Features:
+Ochric epipedon: The zone from 0 to 18 centimeters
+Human-transported material: The zone from 0 to 168 centimeters
+Particle-size control section: The zone from 25 to 100 centimeters
+Lithologic discontinuity: At a depth of 168 centimeters
+Taxonomic Version: Keys to Soil Taxonomy, 13th edition (2022) 
+
+ADDITIONAL DATA:
+NASIS User Pedon ID: 2024WI079016
+
+National Cooperative Soil Survey
+U.S.A.

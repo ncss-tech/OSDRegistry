@@ -2,7 +2,7 @@ LOCATION BLUEWAY                FL
 
 Tentative Series
 ARW
-02/2026
+09/2026
 
 BLUEWAY SERIES
 
@@ -59,7 +59,7 @@ Cseg horizons:
 Hue--10YR, 2.5Y, 5Y, or N
 Value--2.5 to 6
 Chroma--0 to 2
-Texture--clay, sandy clay, sandy clay loam, clay loam, fine sandy loam, loamy fine sand, or fine sand or their mucky analogs
+Texture--clay, sandy clay, sandy clay loam, clay loam, loam, fine sandy loam, loamy fine sand, or fine sand or their mucky analogs
 Organic carbon density--2 to 30 kg m-3
 
 Oaseb horizon (where present and below 50 centimeters):
@@ -84,9 +84,9 @@ Soil temperature--15 to 25 degrees C (59 to 77 degrees F)
 Water temperature--18 to 25 degrees C (63 to 75 degrees F)
 
 GEOGRAPHICALLY ASSOCIATED SOILS:
-These are the Wimico and Slough soils.
+These are the Lighter and Wimico soils.
+Lighter soils--Are in brackish estuarine tidal streams and have 1:5 electrical conductivity greater than 0.6 dS/m somewhere throughout the top 100 centimeters.
 Wimico soils--Are in freshwater lakes, formed in lacustrine deposits, and have a color value, moist, of 3 or less and a color value, dry, of 5 or less throughout the upper 18 centimeters of the mineral soil. 
-Slough soils--Are in brackish estuarine tidal streams and have 1:5 electrical conductivity greater than 0.6 dS/m somewhere throughout the top 100 centimeters.
 
 DRAINAGE AND SATURATED HYDRAULIC CONDUCTIVITY:
 Drainage class--Subaqueous

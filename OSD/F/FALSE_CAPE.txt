@@ -2,14 +2,14 @@ LOCATION FALSE CAPE             NC+VA
 
 Tentative Series
 JDK-RBT
-06/2026
+09/2026
 
 FALSE CAPE SERIES
 
 MLRA(s)--153B
 Depth class--Very deep
 Drainage class--Subaqueous
-Water depth range--0 to 2 meter (0 to 7 feet)
+Water depth range--0 to 2 meters (0 to 7 feet)
 Parent material--Sandy lagoonal deposits over loamy estuarine deposits
 Geomorphic location--Submerged wave-built terraces
 Slope range--0 to 1 percent
@@ -20,15 +20,15 @@ TAXONOMIC CLASS: Sandy over loamy, mixed, active, nonacid, thermic Typic Fluviwa
 
 TYPICAL PEDON: False Cape loamy sand on a submerged wave-built terrace under 1.5 meters of brackish water (colors are for moist soil unless otherwise stated; electrical conductivity is 1:5 by volume solution mixture unless otherwise stated).
 
- Cseg1--0 to 28 centimeters; olive gray (5Y 5/2) loamy sand; structureless, single grain; nonsticky, nonplastic; nonfluid; 14 percent shell fragments; slight sulfurous odor; color change with 3 percent hydrogen peroxide; slight effervescence with 30 percent hydrogen peroxide; nonsaline (0.6 dS/m); neutral (pH 7.1); clear boundary.
+ Cseg1--0 to 28 centimeters; olive gray (5Y 5/2) loamy sand; single grain; nonsticky, nonplastic; nonfluid; 14 percent shell fragments; slight sulfurous odor; color change with 3 percent hydrogen peroxide; slight effervescence with 30 percent hydrogen peroxide; nonsaline (0.6 dS/m); neutral (pH 7.1); clear boundary.
 
- Cseg2--28 to 71 centimeters; olive gray (5Y 4/2) sand; structureless, single grain; nonsticky, nonplastic; nonfluid; slight sulfurous odor; color change with 3 percent hydrogen peroxide; no effervescence with 30 percent hydrogen peroxide; nonsaline (0.5 dS/m); slightly alkaline (pH 7.5); abrupt boundary.
+ Cseg2--28 to 71 centimeters; olive gray (5Y 4/2) sand; single grain; nonsticky, nonplastic; nonfluid; slight sulfurous odor; color change with 3 percent hydrogen peroxide; no effervescence with 30 percent hydrogen peroxide; nonsaline (0.5 dS/m); slightly alkaline (pH 7.5); abrupt boundary (combined thickness of Cseg horizons is 24 to 71 centimeters).
 
- 2Cseg3--71 to 120 centimeters; very dark greenish gray (10Y 3/1) clay loam; structureless, massive; slightly sticky, slightly plastic; moderately fluid; 3 percent shell fragments; moderate sulfurous odor; color change with 3 percent hydrogen peroxide; slight effervescence with 30 percent hydrogen peroxide; nonsaline (0.4 dS/m); slightly alkaline (pH 7.8); clear boundary.
+ 2Cseg3--71 to 120 centimeters; very dark greenish gray (10Y 3/1) clay loam; massive; slightly sticky, slightly plastic; moderately fluid; 3 percent shell fragments; moderate sulfurous odor; color change with 3 percent hydrogen peroxide; slight effervescence with 30 percent hydrogen peroxide; nonsaline (0.4 dS/m); slightly alkaline (pH 7.8); clear boundary.
 
- 2Cseg4--120 to 146 centimeters; very dark greenish gray (10Y 3/1) shelly loam; structureless, massive; slightly sticky, slightly plastic; moderately fluid; 15 percent shell fragments; moderate sulfurous odor; color change with 3 percent hydrogen peroxide; slight effervescence with 30 percent hydrogen peroxide; nonsaline (0.5 dS/m); slightly alkaline (pH 7.7); clear boundary.
+ 2Cseg4--120 to 146 centimeters; very dark greenish gray (10Y 3/1) shelly loam; massive; slightly sticky, slightly plastic; moderately fluid; 15 percent shell fragments; moderate sulfurous odor; color change with 3 percent hydrogen peroxide; slight effervescence with 30 percent hydrogen peroxide; nonsaline (0.5 dS/m); slightly alkaline (pH 7.7); clear boundary.
 
- 3Cseg5--146 to 200 centimeters; dark greenish gray (10Y 4/1) loamy sand; structureless, single grain; nonsticky, nonplastic; nonfluid; 2 percent shell fragments; slight sulfurous odor; color change with 3 percent hydrogen peroxide; slight effervescence with 30 percent hydrogen peroxide; nonsaline (0.5 dS/m); moderately alkaline (pH 7.9).
+ 3Cseg5--146 to 200 centimeters; dark greenish gray (10Y 4/1) loamy sand; single grain; nonsticky, nonplastic; nonfluid; 2 percent shell fragments; slight sulfurous odor; color change with 3 percent hydrogen peroxide; slight effervescence with 30 percent hydrogen peroxide; nonsaline (0.5 dS/m); moderately alkaline (pH 7.9).
 
 TYPE LOCATION: Currituck County, North Carolina; North Landing River; approximately 1.0 kilometers (0.6 miles) west of the intersection of Marsh Causeway and Martin Lane, and approximately 3.4 kilometers (2.1 miles) south of the intersection of Princess Anne Road and Public Landing Road (Virginia); USGS topographic quadrangle: Creeds.
 
@@ -40,13 +40,13 @@ Coordinate source--From hand-held GPS
 RANGE IN CHARACTERISTICS:
 Depth to bedrock--Greater than 200 centimeters
 Manner of failure / fluidity class--Nonfluid to slightly fluid in the lagoonal deposits and slightly fluid to very fluid in the estuarine deposits 
-Depth to lithologic discontinuity--24 to 75 centimeters
+Depth to lithologic discontinuity--24 to 71 centimeters
 Shell fragments--0 to 20 percent, by volume
 Sulfurous odor--None to strong throughout
 Soil reaction--Neutral to moderately alkaline throughout (pH 6.6 to 8.4)
 Oxidized reaction--Moderately acid to strongly alkaline throughout (pH 5.6 to 9.0)
 Depth to hypersulfidic / sulfidic materials (oxidized pH 4.0 or less)--Greater than 100 centimeters
-Electrical conductivity (1:5 soil to water solution)-one or more horizons within 100 centimeters of the mineral soil surface have an EC of 0.6 dS/m or greater
+Electrical conductivity (1:5 soil to water solution)--one or more horizons within 100 centimeters of the mineral soil surface have an EC of 0.6 dS/m or greater
 Salinity class--Nonsaline to very slightly saline
 Total soil organic carbon stock 0 to 100 centimeters--5 to 18 kg m-2
 Total soil organic carbon stock 0 to 200 centimeters--15 to 42 kg m-2
@@ -65,7 +65,7 @@ Chroma--1 or 2
 Texture--Loam, fine sandy loam, silt loam, clay loam, silty clay loam, or their shelly analogs
 Organic carbon density--1.9 to 37 kg m-3
 
-3Cseg, 3Aseg, or 3ACseg horizons (where present):
+3Cseg, 3Aseg, or 3ACseg horizons (where present)[JK1.1]:
 Hue--10YR to 10Y
 Value--2 to 5
 Chroma--1
@@ -119,6 +119,6 @@ Lithologic discontinuity--The zone from 71 to 146 centimeters and 146 to 200 cen
 Peraquic feature--Zero or positive soil water potential at the soil surface (permanently submerged).
 
 NASIS User Site and Pedon ID: S2026NC053005
-____________________________________________________________________________
+_____________________________________________________________________
 National Cooperative Soil Survey
 U.S.A.

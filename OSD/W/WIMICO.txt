@@ -2,7 +2,7 @@ LOCATION WIMICO                 FL
 
 Tentative Series
 ARW
-02/2026
+09/2026
 
 WIMICO SERIES
 
@@ -59,14 +59,14 @@ Aseg or ACseg horizon:
 Hue--2.5Y, 5Y, or N
 Value--2.5
 Chroma--0 to 2
-Texture--silt loam, loam, clay loam, or clay or their mucky analogs
+Texture--loam, clay loam, or clay or their mucky analogs
 Organic carbon density--10 to 18 kg m-3
 
 Cseg horizons:
 Hue--10YR, 2.5Y, 5Y, 10Y, or N
 Value--2 to 6
 Chroma--0 to 2
-Texture--silt loam, silty clay loam, loam, fine sandy loam, sandy clay loam, and clay loam or their mucky analogs 
+Texture--loam, fine sandy loam, sandy clay loam, and clay loam or their mucky analogs 
 Organic carbon density--8 to 22 kg m-3
 
 2Oaseb horizon (where present):
@@ -81,7 +81,7 @@ Organic carbon density--35 to 65 kg m-3
 Hue--10YR to 10Y
 Value--4 to 6
 Chroma--1 or 2
-Texture--loam or silt loam
+Texture--sandy clay loam, loam, sandy loam or fine sandy loam
 Organic carbon density--5 to 15 kg m-3
 
 COMPETING SERIES:
@@ -134,6 +134,6 @@ Taxonomic Version: Keys to Soil Taxonomy, Thirteenth Edition, 2022. A new taxono
 Other: Named after Lake Wimico, Florida where it was first observed. Wimico soils were previously mapped as water in Florida soil surveys.
 
 NASIS User Site and Pedon ID: S2024FL045001
-____________________________________________________________________________
+_____________________________________________________________________
 National Cooperative Soil Survey
 U.S.A.

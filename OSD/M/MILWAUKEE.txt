@@ -1,0 +1,159 @@
+LOCATION MILWAUKEE              WI
+
+Tentative Series
+IRD. KDP-CSM-NI
+09/2026
+
+MILWAUKEE SERIES
+
+Depth class: Very deep
+Drainage class: Well drained
+Saturated hydraulic conductivity: Moderately high near the surface; moderately low below
+Parent material: Silty human-transported material over calcareous till
+Geomorphic location: Fills on ground moraines and escarpments
+Slope: 0 to 35 percent
+Mean annual air temperature: 8 degrees C
+Mean annual precipitation: 815 millimeters
+
+TAXONOMIC CLASS: Fine-silty, spolic, mixed, active, mesic Humic Eutrudepts
+
+TYPICAL PEDON: Milwaukee silt loam, on an east-facing, 4 percent slope in a city park at an elevation of 193 meters above mean sea level. (Colors are for moist soil unless otherwise stated.)
+
+ ^A--0 to 8 centimeters (0 to 3 inches); very dark grayish brown (10YR 3/2) silt loam, grayish brown (10YR 5/2) dry; moderate medium granular structure; friable; many fine and medium roots throughout; many fine tubular pores; very slightly effervescent; slightly alkaline, pH 7.8; gradual smooth boundary
+
+ ^Au--8 to 20 centimeters (3 to 8 inches); 90 percent very dark grayish brown (10YR 3/2) and 10 percent dark yellowish brown (10YR 4/4), grayish brown (10YR 5/2), dry; silt loam; moderate medium subangular blocky structure parting to moderate fine granular; friable; few very fine, fine, and medium roots throughout; many fine tubular pores; 2 percent fine gravel sized coal combustion byproducts; slightly effervescent; moderately alkaline, pH 8.2; abrupt wavy boundary (Combined thickness of ^A horizons is 2 to 30 centimeters)
+
+ ^Bwu--20 to 46 centimeters (8 to 18 inches); brown (7.5YR 4/4) silty clay loam; moderate medium subangular blocky structure; friable; common very fine and fine roots throughout; common very fine, fine, and medium tubular pores; 5 percent faint light brown (7.5YR 6/3) carbonate coats on bottom faces of peds; 8 percent distinct very dark grayish brown (10YR 3/2) organic stains along root channels; 30 percent faint brown (7.5YR 4/3) organic stains on faces of peds; 6 percent fine gravel; 2 percent fine gravel sized coal combustion byproducts; strongly effervescent; moderately alkaline, pH 8.3; gradual smooth boundary (Thickness 8 to 40 centimeters)
+
+ ^BC--46 to 71 centimeters (18 to 28 inches); dark yellowish brown (10YR 4/4) silt loam; weak medium subangular blocky structure; friable; 10 percent distinct light brown (7.5YR 6/3) carbonate coats on bottom faces of peds; 2 percent fine gravel; violently effervescent; strongly alkaline, pH 8.5; gradual wavy boundary (Thickness 2 to 50 centimeters)
+
+ ^Cu--71 to 200 centimeters (28 to 79 inches); yellowish brown (10YR 5/4) silt loam; massive with few relict weak medium subangular blocky clods; very friable; 5 percent faint light brown (7.5YR 6/3) carbonate coats on bottom faces of peds; 2 percent fine distinct strong brown (7.5YR 5/6) iron-manganese nodules throughout; 2 percent fine gravel; 2 percent fine gravel sized coal combustion byproducts; strongly effervescent; moderately alkaline, pH 8.3
+
+TYPE LOCATION: Humboldt Park, city of Milwaukee in Milwaukee County; 49 meters south of East Montana Street and 195 meters east of South Howell Avenue.
+
+USGS Quadrangle: Greendale, WI
+Latitude: 42.99325
+Longitude: -87.90186
+Datum: WGS 84
+Coordinate source: From handheld GPS
+
+RANGE IN CHARACTERISTICS:
+Thickness of human-transported materials: Greater than 100 centimeters
+Depth to bedrock: Greater than 200 centimeters
+Depth to seasonal high-water table: Greater than 100 centimeters
+Depth to lithologic discontinuity: Greater than 100 centimeters
+Depth to free carbonates: 0 to 100 centimeters or more
+Chemical response throughout:
+Soil reaction--Slightly to strongly alkaline (7.4 to 9.0 pH)
+Reaction to HCl--Very slightly to violently effervescent
+Particle-size control section (weighted average):
+Human artifact content--0 to 10 percent
+Rock content--0 to 10
+Combined rock and artifact content--0 to 15 percent
+Clay content--18 to 35 percent
+Sand Content--5 to 15 percent
+
+^A(u) horizons:
+Hue--7.5YR or 10YR
+Value--2 to 4
+Chroma--1 to 3
+Texture--Loam, silt loam, or silty clay loam
+Clay content--15 to 35 percent
+San content--20 to 50 percent
+Rock fragments--0 to 10 percent  
+Human artifacts--0 to 5 percent  
+
+^Bw(u) horizon:
+Hue--7.5YR, or 10YR
+Value--3 to 
+Chroma--3 to 6 
+Texture--Silt loam, silty clay loam, or silty clay
+Clay content--18 to 45 percent
+Sand content--5 to 15 percent
+Rock fragments--0 to 10 percent
+Human artifacts--0 to 10 percent
+
+^BC(u) horizon:
+Hue--7.5YR, 10YR or 2.5Y 
+Value--3 to 5
+Chroma--3 to 6
+Texture--Silt loam or silty clay loam
+Clay content--18 to 35 percent
+Sand content--5 to 15 percent
+Rock fragments--0 to 10
+Human artifacts--0 to 10
+
+^C(u) horizon:
+Hue--7.5YR, 10YR or 2.5Y
+Value--4 to 6
+Chroma--3 to 6
+Texture--Silt loam or silty clay loam
+Clay content--18 to 40 percent
+Sand content--5 to 15 percent
+Rock fragments--0 to 10 percent
+Human artifacts--0 to 10 percent
+
+Some pedons may have unmodified till below the human-transported material.
+
+2Cd horizons (when present):
+Hue--7.5YR, 10YR, or 2.5Y
+Value--4 to 6
+Chroma--2 to 4
+Texture--silty clay, or clay loam
+Clay content--27 to 35 percent
+
+COMPETING SERIES: There are no competing series. The Ozaukee series represents a similar soil that formed in till in undisturbed areas.
+
+GEOGRAPHIC SETTING:
+Landscape: Till plains
+Landform: Fills on ground moraines and escarpments
+Parent material: Silty human-transported material over calcareous till
+Slope: 1 to 35 percent
+Elevation: 170 to 250 meters
+Frost free period: 135 to 185 days
+Mean annual air temperature: 6 to 9 degrees C
+Mean annual precipitation: 73 to 890 millimeters
+
+GEOGRAPHICALLY ASSOCIATED SOILS:
+These are the Piggsville, Tosa, and Vieau series which all occur on anthropogenic landforms with over 50 centimeters of human-transported material.
+
+Piggsville soils formed in loamy-skeletal human-transported material; occur on fills on nearby ground moraines and escarpments.
+Vieau soils formed in sandy dredge spoils; occur on dredge spoil banks on nearby beach terraces.
+Tosa soils have aquic conditions between 30 and 60 centimeters and occur on fills on nearby fills on ground moraines.
+
+DRAINAGE AND SATURATED HYDRAULIC CONDUCTIVITY:
+Drainage Class: Well drained
+Surface Runoff: Very low to high on vegetated slopes; low to very high in unvegetated areas
+Saturated Hydraulic Conductivity Class: moderately low near the surface; high below
+Flooding: None
+Ponding: None
+
+USE AND VEGETATION:
+Major uses: Used for recreational, commercial, and residential applications in an urban setting.
+Vegetation: Vegetation may include managed and unmanaged plant communities with a mix of native and non-native species. Many areas are vegetated with non-native ornamental landscaping and/or turfgrass associated with developed land uses. Some areas may exhibit weedy, invasive, and/or primary succession vegetation communities (e.g., abandoned lots and other unmanaged areas). Some small patches of mixed native species such as black cherry, green ash, American elm, Norway maple, and boxelder may be present.
+
+DISTRIBUTION AND EXTENT:
+General area: Urban and other human-altered landscapes in Southeastern Wisconsin.
+Land Resource Region: M - Central Feed Grains and Livestock Region
+Major Land Resource Areas (MLRA): 110 - Northern Illinois and Indiana Heavy Till Plains
+Extent: Moderate
+
+SOIL SURVEY REGIONAL OFFICE (SSRO) RESPONSIBLE: Raleigh, North Carolina (SPECIAL PROJECTS OFFICE)
+
+SERIES PROPOSED: Milwaukee County, Wisconsin 2026.
+
+REMARKS:
+Typical Pedon Taxonomic Features:
+Ochric epipedon: The zone from 0 to 20 centimeters
+Cambic horizon: The zone from 20 to 71 centimeters
+Human-transported material: 0 to 200 centimeters
+Free carbonates--0 to 200 centimeters
+Human artifacts--8 to 200 centimeters
+Particle-size control section: 25 to 100 centimeters
+Taxonomic version: Keys to Soil Taxonomy, Thirteenth Edition (2022)
+
+ADDITIONAL DATA:
+NASIS User Pedon ID:2023WI07903
+
+National Cooperative Soil Survey
+U.S.A.

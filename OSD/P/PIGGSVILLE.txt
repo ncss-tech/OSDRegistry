@@ -1,0 +1,145 @@
+LOCATION PIGGSVILLE             WI
+
+Tentative Series
+IRD. KDP-NI-CSM
+09/2026
+
+PIGGSVILLE SERIES
+
+Depth class: Very deep
+Drainage class: Well drained
+Saturated hydraulic conductivity: moderately high in the surface; moderately low below
+Parent material: Loamy-skeletal human-transported materials derived primarily from calcareous loamy till
+Geomorphic location: Floodways in drainageways; fills on escarpments and ground moraines
+Slope: 0 to 35 percent
+Mean annual air temperature: 8 degrees C
+Mean annual precipitation: 815mm
+
+TAXONOMIC CLASS: Loamy-skeletal, artifactic, mixed, superactive, calcareous, mesic Anthroportic Udorthents
+
+TYPICAL PEDON: Piggsville silt loam on a 2 percent slope, in a vacant residential area with fill at an elevation of 207 meters above sea level. (Colors are for moist soil unless otherwise stated.)
+
+ ^Au1--0 to 15 centimeters (0 to 6 inches); very dark grayish brown (10YR 3/2), grayish brown (10YR 5/2), dry; silt loam; weak fine granular structure; friable; common very fine and fine roots throughout; 3 percent gravel; 1 percent cobble-sized brick artifacts, 2 percent channer sized glass artifacts, and 2 percent cobble sized coal combustion byproducts; slightly effervescent; slightly alkaline (pH 7.8); clear wavy boundary (thickness 5 to 25 centimeters)
+
+ ^Bwu1--15 to 56 centimeters (6 to 22 inches); dark grayish brown (10YR 4/2), light brownish gray (10YR 6/2), dry; artifactual silt loam; weak thick platy structure primarily from compaction; friable; few fine roots throughout; 10 percent gravel; 7 percent channer sized glass artifacts, 10 percent gravel sized coal combustion byproducts and 10 percent gravel sized brick artifacts; strongly effervescent; moderately alkaline (pH) 8.0; gradual wavy boundary
+
+ ^Bwu2--56 to 102 centimeters (22 to 40 inches); dark grayish brown (10YR 4/2), light brownish gray (10YR 6/2), dry; very artifactual silt loam; relict weak medium subangular blocky structure; friable; 10 percent gravel; 5 percent channer sized glass artifacts, 10 percent gravel sized coal combustion byproducts, and 15 percent gravel sized brick artifacts; strongly effervescent; moderately alkaline, (pH 8.0); clear smooth boundary; (combined thickness of the ^Bwu horizons is 35 to 100 centimeters)
+
+ ^Cu--102 to 200 centimeters (40 to 79 inches); 60 percent dark brown (10YR 3/3), yellowish brown (10YR 5/4) dry, and 40 percent dark grayish brown (2.5Y 4/2), light olive brown (2.5Y 5/3) dry; extremely artifactual silt loam; massive; friable;  10 percent cobble sized concrete artifacts, 10 percent cobble sized metal artifacts, 10 percent cobble sized brick artifacts, 10 percent channer size glass artifacts, 15 percent cobble sized artifacts of coal combustion byproducts, and 40 percent cobble sized artifacts of untreated wood; strongly effervescent; moderately alkaline (pH 8.0)
+
+TYPE LOCATION: Milwaukee County, Wisconsin; located about 15 meters south and 13 meters east of the intersection of West Brown Street and North 24th Street.
+ 
+USGS Quadrangle: Milwaukee, WI 
+Latitude: 43.056167 
+Longitude: -87.94295
+Datum: WGS 84 
+Coordinate source: From handheld GPS
+
+RANGE IN CHARACTERISTICS:
+Thickness of human-transported materials--Greater than 150 centimeters 
+Depth to bedrock: greater than 200 centimeters 
+Depth to seasonal high-water table: greater than 100 centimeters 
+Depth to lithologic discontinuity: Greater than 150 centimeters 
+Depth to free carbonates: 0 to 100 centimeters or more 
+Chemical response throughout: 
+Soil reaction: Slightly to strongly alkaline (7.4 to 9.0 pH) 
+HCl effervescence: very slight to violent 
+Particle-size control section (weighted average):
+Clay content--18 to 30 percent
+Sand Content--20 to 40 percent  
+Human artifact content--35 to 60 percent
+Rock fragment content--0 to 35 percent
+Combined rock and artifact content--35 to 60 percent 
+
+^A(u) horizon: 
+Hue: 7.5YR or 10YR
+Value: 3 to 5
+Chroma: 1 to 4
+Texture: loam, silt loam or silty clay loam
+Clay content: 18 to 27 percent
+Sand content: 15 to 50 percent 
+Rock fragments: 0 to 5 percent  
+Human artifacts: 0 to 10 percent  
+
+^Bwu horizon
+Hue: 10YR or 7.5YR
+Value: 3 to 6 
+Chroma: 3 to 6. 
+Texture: very artifactic or gravelly-artifactic analogs of sandy loam, silt loam, or silty clay loam
+Clay content: 15 to 27 percent
+Sand content: 15 to 50 percent sand  
+Rock fragments: 0 to 35 percent  
+Human artifacts: 35 to 60 percent
+  
+^Cu horizon:
+Hue: 10YR or 2.5YR
+Value: 3 to 6.
+Chroma: 2 to 6.
+Texture: very or extremely artifactic or gravelly-artifactic analogs of sandy loam, loam, silt loam, or silty clay loam
+Clay content: 10 to 30 percent
+Sand content: 15 to 50 percent 
+Rock fragments: 0 to 40 percent  
+Human artifacts: 35 to 90
+
+Some pedons may have unmodified outwash below the human-transported material.
+
+2C horizons (when present):
+Hue--7.5YR or 10YR
+Value--4 to 7
+Chroma--3 or 4 
+Texture--stratified layers of sand, coarse sand, or very or extremely gravelly analogs; some pedons include strata of gravel.
+Clay content: 0 to 10 percent
+Sand content: 85 to 100 percent 
+Rock fragments--greater than 35 percent
+
+COMPETING SERIES: None. The Casco series represents a similar soil that formed in loamy till over sandy outwash in undisturbed areas. 
+
+GEOGRAPHIC SETTING: 
+Landscape: Till plains
+Landform: Floodways in drainageways; fills on escarpments and ground moraines
+Parent material: Loamy-skeletal human-transported materials derived primarily from calcareous loamy till
+Slope: 2 to 35 percent 
+Elevation: 170 to 240 meters 
+Frost free period: 135 to 185 days 
+Mean annual air temperature: 6 to 9 degrees C 
+Mean annual precipitation: 735 to 890 millimeters
+
+GEOGRAPHICALLY ASSOCIATED SOILS:
+These are the Milwaukee, Teutonia, and Vieau series which also formed in human-transported material on anthropogenic landforms.
+
+Milwaukee soils formed in fine-silty human-transported material and occur on fills on nearby ground moraines or escarpments
+Teutonia soils formed in fine-loamy human-transported material and occur in floodways in nearby drainageways and floodplains.
+Vieau soils formed in sandy dredge materials and occur on dredge spoil banks and fills on nearby beach terraces.
+
+DRAINAGE AND SATURATED HYDRAULIC CONDUCTIVITY:
+Drainage Class: Well drained
+Surface Runoff: Very low to low on vegetated slopes; low to medium on unvegetated areas
+Saturated Hydraulic Conductivity Class: High or very high in the surface; very high below unless compacted
+Flooding: Occasional, very brief flooding in floodways; none on escarpments or ground moraines
+Ponding: None
+
+USE AND VEGETATION:
+Major uses are for recreational, commercial, and residential applications in an urban setting. Vegetation may include managed and unmanaged plant communities with a mix of native and non-native species. Many areas are vegetated with non-native ornamental landscaping and/or turfgrass associated with developed land uses. Some areas may exhibit weedy, invasive, and/or primary succession vegetation communities (e.g., abandoned lots and other unmanaged areas). Some small patches of mixed native species such as white oak, northern red oak, sugar maple, and hophornbeam may be present.
+
+DISTRIBUTION AND EXTENT:
+General area: Urban and other human-altered landscapes in Southeastern Wisconsin.
+Land Resource Region: M - Central Feed Grains and Livestock Region
+Major Land Resource Areas (MLRA): 110 - Northern Illinois and Indiana Heavy Till Plains
+Extent: Small
+
+MLRA SOIL SURVEY REGIONAL OFFICE (MO) RESPONSIBLE: Raleigh, North Carolina (Special Projects Office)
+
+SERIES PROPOSED: Milwaukee County 2026. Name from a neighborhood in the City of Milwaukee.
+
+REMARKS:  
+Typical Pedon Taxonomic Features:
+Ochric epipedon: The zone from 0 to 15 centimeters
+Human-transported material: The zone from 0 to 200 centimeters
+Particle-size control section: The zone from 25 to 100 centimeters
+Taxonomic Version: Keys to Soil Taxonomy, 13th edition (2022)
+
+ADDITIONAL DATA:
+NASIS User Pedon ID: 2024WI079025
+
+National Cooperative Soil Survey
+U.S.A.

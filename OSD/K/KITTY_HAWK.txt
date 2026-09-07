@@ -2,7 +2,7 @@ LOCATION KITTY HAWK             NC+VA
 
 Tentative Series
 JDK-RBT
-02/2026
+09/2026
 
 KITTY HAWK SERIES
 
@@ -20,11 +20,11 @@ TAXONOMIC CLASS: Siliceous, thermic Sulfic Psammowassents
 
 TYPICAL PEDON: Kitty Hawk fine sand on a washover-fan flat under 2.6 meters of brackish water (colors are for moist soil unless otherwise stated; electrical conductivity is 1:5 by volume solution mixture unless otherwise stated).
 
- ACseg--0 to 55 centimeters; very dark gray (5Y 3/1) fine sand; structureless, single grain; nonsticky, nonplastic; nonfluid; slight sulfurous odor; slight effervescence with 30 percent hydrogen peroxide; 5 percent herbaceous plant fibers; very slightly saline (2.2 dS/m); neutral (pH 7.1), extremely acid (pH 4.1) oxidized pH; clear boundary.
+ ACseg--0 to 55 centimeters; very dark gray (5Y 3/1) fine sand; single grain; nonsticky, nonplastic; nonfluid; slight sulfurous odor; slight effervescence with 30 percent hydrogen peroxide; 5 percent herbaceous plant fibers; very slightly saline (2.2 dS/m); neutral (pH 7.1), extremely acid (pH 4.1) oxidized pH; clear boundary (23 to 55 centimeters thick).
 
- Cseg1--55 to 93 centimeters; dark gray (N 4/) fine sand; structureless, single grain; nonsticky, nonplastic; nonfluid; slight sulfurous odor; slight effervescence with 30 percent hydrogen peroxide; 10 percent herbaceous plant fibers; nonsaline (1.1 dS/m); slightly alkaline (pH 7.4), extremely acid (pH 3.8) oxidized pH; clear boundary.
+ Cseg1--55 to 93 centimeters; dark gray (N 4/) fine sand; single grain; nonsticky, nonplastic; nonfluid; slight sulfurous odor; slight effervescence with 30 percent hydrogen peroxide; 10 percent herbaceous plant fibers; nonsaline (1.1 dS/m); slightly alkaline (pH 7.4), extremely acid (pH 3.8) oxidized pH; clear boundary.
 
- Cseg2--93 to 200 centimeters; dark gray (N 4/) fine sand; structureless, single grain; nonsticky, nonplastic; nonfluid; slight sulfurous odor; slight effervescence with 30 percent hydrogen peroxide; nonsaline (1.2 dS/m); slightly alkaline (pH 7.6), strongly acid (pH 5.1) oxidized pH.
+ Cseg2--93 to 200 centimeters; dark gray (N 4/) fine sand; single grain; nonsticky, nonplastic; nonfluid; slight sulfurous odor; slight effervescence with 30 percent hydrogen peroxide; nonsaline (1.2 dS/m); slightly alkaline (pH 7.6), strongly acid (pH 5.1) oxidized pH.
 
 TYPE LOCATION: Dare County, North Carolina; Currituck Sound; approximately 4.2 kilometers (2.6 miles) west of the intersection of North Croatan Highway and West Worthington Lane in the town of Kitty Hawk, and approximately 2.1 kilometers (1.3 miles) south-southwest of the intersection of Martins Point Road and Route 158 at the traffic light; USGS topographic quadrangle: Kitty Hawk.
 
@@ -57,7 +57,7 @@ Cseg or CAseg horizons:
 Hue--2.5Y to 5GY, or Neutral
 Value--3 to 5
 Chroma--0 to 2
-Texture--Sand, fine sand, loamy fine sand, or loam 
+Texture--Fine sand or loamy fine sand
 Organic carbon density--0.2 to 27 kg m-3
 
 COMPETING SERIES:
@@ -106,6 +106,6 @@ Hypersulfidic materials--The zone from 55 to 93 centimeters has a pH of 4.0 or l
 Peraquic feature--Zero or positive soil water potential at the soil surface (permanently submerged).
 
 NASIS User Site and Pedon ID: S2024NC055002
-____________________________________________________________________________
+_____________________________________________________________________
 National Cooperative Soil Survey
 U.S.A.

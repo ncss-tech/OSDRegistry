@@ -2,7 +2,7 @@ LOCATION LIGHTER                FL
 
 Tentative Series
 ARW
-08/2026
+09/2026
 
 LIGHTER SERIES
 
@@ -85,10 +85,11 @@ Water temperature range--16 to 31 degrees C (61 to 88 degrees F)
 Soil temperature range--18 to 28 degrees C (64 to 82 degrees F)
 
 GEOGRAPHICALLY ASSOCIATED SOILS:
-These are the Apalachicola, Blueway, Cash, Eastpoint, Sandbank, and Sandfly soils.
+These are the Apalachicola, Blueway, Cash, Eastpoint, Mckissack, Sandbank, and Sandfly soils.
 Blueway soils--Are on freshwater estuarine tidal streams, formed in fine-loamy estuarine deposits, and have an electrical conductivity less than 0.6 dS/m throughout the profile.
 Eastpoint soils--Are on submerged wave-cut platforms on the mainland side and formed in sandy lagoonal and estuarine deposits.
-Sandbank soils--are on estuarine tidal stream deltas, formed in sandy estuarine materials and have mica flakes in some part of the profile.
+Mckissack soils--Are on estuarine tidal streams and formed in sandy, eroded spodic soil materials
+Sandbank soils--Are on estuarine tidal stream deltas, formed in sandy estuarine materials and have mica flakes in some part of the profile.
 Sandfly soils--Are in estuarine tidal streams, formed in coarse-loamy lagoonal over fluviomarine deposits, and contain 20 centimeters or more of buried A horizons.
 
 DRAINAGE AND SATURATED HYDRAULIC CONDUCTIVITY:
@@ -119,7 +120,7 @@ Hyposulfidic materials--The zone from 0 to 205 centimeters has an initial pH tha
 Fluidity--Moderately or very fluid from 0 to 159 centimeters; moderately fluid from 180 to 188 centimeters
 Peraquic feature--Zero or positive soil water potential at the soil surface (permanently submerged)
 Taxonomic Version: Keys to Soil Taxonomy, Thirteenth Edition, 2022
-Other: Named after sloughs; a sinuous, slow-moving channel often found in brackish backwaters in coastal rivers and marshes. Lighter soils were previously mapped as water in Florida soil surveys. 
+Other: Named after flat-bottomed, shallow-draft vessels used to transfer heavy cargo between the riverbanks and deep-water ships. Lighter soils were previously mapped as water in Florida soil surveys. 
 
 NASIS User Site and Pedon ID: S2024FL037019
 ____________________________________________________________________________

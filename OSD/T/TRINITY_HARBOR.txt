@@ -2,7 +2,7 @@ LOCATION TRINITY HARBOR         NC+VA
 
 Tentative Series
 JDK-RBT
-02/2026
+09/2026
 
 TRINITY HARBOR SERIES
 
@@ -20,13 +20,13 @@ TAXONOMIC CLASS: Coarse-loamy, mixed, active, nonacid, thermic Typic Fluviwassen
 
 TYPICAL PEDON: Trinity Harbor fine sand in a lagoon bottom under 2.2 meters of brackish water (colors are for moist soil unless otherwise stated; electrical conductivity is 1:5 by volume solution mixture unless otherwise stated).
 
- Cseg1--0 to 38 centimeters; greenish black (10Y 2.5/1) fine sand; structureless, single grain; nonsticky, nonplastic; nonfluid; few fine roots throughout; slight sulfurous odor; color change with 3 percent hydrogen peroxide; slight effervescence with 30 percent hydrogen peroxide; nonsaline (0.6 dS/m); slightly alkaline (pH 7.7), very strongly acid (pH 4.8) oxidized pH; clear boundary.
+ Cseg1--0 to 38 centimeters; greenish black (10Y 2.5/1) fine sandy loam; massive; nonsticky, nonplastic; nonfluid; few fine roots throughout; slight sulfurous odor; color change with 3 percent hydrogen peroxide; slight effervescence with 30 percent hydrogen peroxide; nonsaline (0.6 dS/m); slightly alkaline (pH 7.7), very strongly acid (pH 4.8) oxidized pH; clear boundary.
 
- Cseg2--38 to 109 centimeters; very dark gray (N 3/) fine sandy loam; structureless, massive; slightly sticky, slightly plastic; moderately fluid; 10 percent shell fragments; slight sulfurous odor; no color change with 3 percent hydrogen peroxide; slight effervescence with 30 percent hydrogen peroxide; nonsaline (0.8 dS/m); moderately alkaline (pH 8.1), slightly alkaline (pH 7.6) oxidized pH; gradual boundary.
+ Cseg2--38 to 109 centimeters; very dark gray (N 3/) fine sandy loam; massive; slightly sticky, slightly plastic; moderately fluid; 10 percent shell fragments; slight sulfurous odor; no color change with 3 percent hydrogen peroxide; slight effervescence with 30 percent hydrogen peroxide; nonsaline (0.8 dS/m); moderately alkaline (pH 8.1), slightly alkaline (pH 7.6) oxidized pH; gradual boundary.
 
- Cseg3--109 to 140 centimeters; very dark gray (N 3/) sand; structureless, single grain; nonsticky, nonplastic; nonfluid; moderate sulfurous odor; no color change with 3 percent hydrogen peroxide; slight effervescence with 30 percent hydrogen peroxide; nonsaline (1.2 dS/m); moderately alkaline (pH 8.3), moderately alkaline (pH 8.4) oxidized pH; clear boundary.
+ Cseg3--109 to 140 centimeters; very dark gray (N 3/) sand; single grain; nonsticky, nonplastic; nonfluid; moderate sulfurous odor; no color change with 3 percent hydrogen peroxide; slight effervescence with 30 percent hydrogen peroxide; nonsaline (1.2 dS/m); moderately alkaline (pH 8.3), moderately alkaline (pH 8.4) oxidized pH; clear boundary.
 
- Cseg4--140 to 200 centimeters; dark gray (N 4/) sand; structureless, single grain; nonsticky, nonplastic; nonfluid; slight sulfurous odor; no color change with 3 percent hydrogen peroxide; slight effervescence with 30 percent hydrogen peroxide; nonsaline (1.1 dS/m); strongly alkaline (pH 8.7), moderately alkaline (pH 8.4) oxidized pH.
+ Cseg4--140 to 200 centimeters; dark gray (N 4/) sand; single grain; nonsticky, nonplastic; nonfluid; slight sulfurous odor; no color change with 3 percent hydrogen peroxide; slight effervescence with 30 percent hydrogen peroxide; nonsaline (1.1 dS/m); strongly alkaline (pH 8.7), moderately alkaline (pH 8.4) oxidized pH.
 
 TYPE LOCATION: Currituck County, North Carolina; Currituck Sound; approximately 5.2 kilometers (3.2 miles) east of the intersection of Waterlily Road and Never Sail Way, and approximately 3.6 kilometers (2.3 miles) northwest of the intersection of NC-12 and Lakeside Drive; USGS topographic quadrangle: Corolla.
 
@@ -108,6 +108,6 @@ Fluidity--The zone from 38 to 109 centimeters has a fluidity class of moderately
 Peraquic feature--Zero or positive soil water potential at the soil surface (permanently submerged).
 
 NASIS User Site and Pedon ID: S2024NC053020
-____________________________________________________________________________
+_____________________________________________________________________
 National Cooperative Soil Survey
 U.S.A.

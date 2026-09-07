@@ -2,7 +2,7 @@ LOCATION WHALEHEAD              NC+VA
 
 Tentative Series
 JDK-RBT
-06/2026
+09/2026
 
 WHALEHEAD SERIES
 
@@ -20,15 +20,15 @@ TAXONOMIC CLASS: Siliceous, thermic Fluventic Psammowassents
 
 TYPICAL PEDON: Whalehead fine sand on a submerged wave-cut platform under 1.2 meters of brackish water (colors are for moist soil unless otherwise stated; electrical conductivity is 1:5 by volume solution mixture unless otherwise stated).
 
- Cseg--0 to 26 centimeters; olive gray (5Y 5/2) fine sand; structureless, single grain; nonsticky, nonplastic; nonfluid; slight sulfurous odor; color change with 3 percent hydrogen peroxide; no effervescence with 30 percent hydrogen peroxide; nonsaline (0.8 dS/m); moderately acid (pH 6.0); clear boundary.
+ Cseg--0 to 26 centimeters; olive gray (5Y 5/2) fine sand; single grain; nonsticky, nonplastic; nonfluid; slight sulfurous odor; color change with 3 percent hydrogen peroxide; no effervescence with 30 percent hydrogen peroxide; nonsaline (0.8 dS/m); moderately acid (pH 6.0); clear boundary (26 to 106 centimeters thick).
 
- 2ACseg--26 to 59 centimeters; 70 percent very dark gray (5Y 3/1) and 30 percent olive gray (5Y 4/2) fine sand; structureless, single grain; nonsticky, nonplastic; nonfluid; 5 percent herbaceous plant fibers; slight sulfurous odor; color change with 3 percent hydrogen peroxide; slight effervescence with 30 percent hydrogen peroxide; nonsaline (0.6 dS/m); neutral (pH 7.2); clear boundary.
+ 2ACseg--26 to 59 centimeters; 70 percent very dark gray (5Y 3/1) and 30 percent olive gray (5Y 4/2) fine sand; single grain; nonsticky, nonplastic; nonfluid; 5 percent herbaceous plant fibers; slight sulfurous odor; color change with 3 percent hydrogen peroxide; slight effervescence with 30 percent hydrogen peroxide; nonsaline (0.6 dS/m); neutral (pH 7.2); clear boundary (7 to 33 centimeters thick).
 
- 2Cseg--59 to 88 centimeters; light olive gray (5Y 6/2) fine sand; structureless, single grain; nonsticky, nonplastic; nonfluid; no sulfurous odor; no color change with 3 percent hydrogen peroxide; slight effervescence with 30 percent hydrogen peroxide; nonsaline (0.4 dS/m); slightly alkaline (pH 7.6); gradual boundary.
+ 2Cseg--59 to 88 centimeters; light olive gray (5Y 6/2) fine sand; single grain; nonsticky, nonplastic; nonfluid; no sulfurous odor; no color change with 3 percent hydrogen peroxide; slight effervescence with 30 percent hydrogen peroxide; nonsaline (0.4 dS/m); slightly alkaline (pH 7.6); gradual boundary.
 
- 2Cg1--88 to 132 centimeters; 75 percent olive gray (5Y 5/2) and 25 percent pale olive (5Y 6/3) fine sand; structureless, single grain; nonsticky, nonplastic; nonfluid; 10 percent coarse distinct irregular yellowish brown (10YR 5/4) masses of oxidized iron; no sulfurous odor; no color change with 3 percent hydrogen peroxide; no effervescence with 30 percent hydrogen peroxide; nonsaline (0.4 dS/m); slightly alkaline (pH 7.5); clear boundary.
+ 2Cg1--88 to 132 centimeters; 75 percent olive gray (5Y 5/2) and 25 percent pale olive (5Y 6/3) fine sand; single grain; nonsticky, nonplastic; nonfluid; 10 percent coarse distinct irregular yellowish brown (10YR 5/4) masses of oxidized iron; no sulfurous odor; no color change with 3 percent hydrogen peroxide; no effervescence with 30 percent hydrogen peroxide; nonsaline (0.4 dS/m); slightly alkaline (pH 7.5); clear boundary.
 
- 2Cg2--132 to 200 centimeters; 60 percent light gray (5Y 7/2) and 40 percent olive gray (5Y 5/2) sand; structureless, single grain; nonsticky, nonplastic; nonfluid; no sulfurous odor; no color change with 3 percent hydrogen peroxide; no effervescence with 30 percent hydrogen peroxide; nonsaline (0.5 dS/m1); neutral (pH 7.3).
+ 2Cg2--132 to 200 centimeters; 60 percent light gray (5Y 7/2) and 40 percent olive gray (5Y 5/2) sand; single grain; nonsticky, nonplastic; nonfluid; no sulfurous odor; no color change with 3 percent hydrogen peroxide; no effervescence with 30 percent hydrogen peroxide; nonsaline (0.5 dS/m1); neutral (pH 7.3).
 
 TYPE LOCATION: Currituck County, North Carolina; Currituck Sound; approximately 0.2 kilometers (0.1 miles) south of the intersection of Ferry Dock Road and Ferryview Lane on Knotts Island, and approximately 6.3 kilometers (3.9 miles) west of the intersection of Sandfiddler Road and Daffodil Lane on Carova Beach; USGS topographic quadrangle: Barco.
 

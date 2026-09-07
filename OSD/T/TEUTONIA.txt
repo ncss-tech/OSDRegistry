@@ -2,7 +2,7 @@ LOCATION TEUTONIA               WI
 
 Tentative Series
 IRD. KDP-CSM-NI
-08/2026
+09/2026
 
 TEUTONIA SERIES
 
@@ -10,7 +10,7 @@ Depth class: Very deep
 Drainage class: Poorly drained
 Saturated hydraulic conductivity: Moderately low to high 
 Parent material: Loamy human transported materials over alluvium
-Geomorphic location: Floodways or leveled land in drainageways
+Geomorphic location: Floodways in drainageways
 Slope: 0 to 3 percent
 Mean annual air temperature: 8 degrees C
 Mean annual precipitation: 815mm
@@ -97,8 +97,8 @@ Rock fragments: 0 to 5 percent
 COMPETING SERIES: There are no competing series. The Matherton series represents a similar soil that formed in loamy glaciofluvial material over outwash in undisturbed areas.
 
 GEOGRAPHIC SETTING:
-Landscape: Moraines and till plains
-Landform: Floodways or leveled land in drainageways
+Landscape: Till plains
+Landform: Floodways in drainageways
 Parent material: Loamy human-transported materials over alluvium
 Slope: 0 to 2 percent
 Elevation: 170 to 240 meters
@@ -109,8 +109,8 @@ Mean annual precipitation: 735 to 890 millimeters
 GEOGRAPHICALLY ASSOCIATED SOILS:
 These are the Milwaukee and Piggsville series which are also formed in human-transported material on anthropogenic landforms.
 
-Milwaukee soils are deeper than 100 cm to aquic conditions and occur on fills on nearby hillslopes and summits.
-Piggsville soils formed in loamy-skeletal human-transported material; occur on fills and cutbanks on nearby hillslopes.
+Milwaukee soils are deeper than 100 cm to aquic conditions and occur on fills on nearby ground moraines.
+Piggsville soils formed in loamy-skeletal human-transported material; occur on steeper areas of floodways in drainageways.
 
 DRAINAGE AND SATURATED HYDRAULIC CONDUCTIVITY:
 Drainage Class: poorly drained
@@ -125,13 +125,13 @@ Vegetation: Vegetation may include managed and unmanaged plant communities with 
 
 DISTRIBUTION AND EXTENT:
 General area: Urban and other human-altered landscapes
-Region: L - Lake States Fruit, Truck Crop, and Dairy Region; M - Central Feed Grains and Livestock Region
-Major Land Resource Area (MLRA): 95 - Eastern Wisconsin, Northern Illinois, and Upper Michigan Drift Plain; 110 - Northern Illinois and Indiana Heavy Till Plains
+Land Resource Region: M - Central Feed Grains and Livestock Region
+Major Land Resource Area (MLRA): 110 - Northern Illinois and Indiana Heavy Till Plains
 Extent: Small
 
-SOIL SURVEY REGIONAL OFFICE (SSRO) RESPONSIBLE:Raleigh, North Carolina (SPECIAL PROJECTS REGION)
+SOIL SURVEY REGIONAL OFFICE (SSRO) RESPONSIBLE: Raleigh, North Carolina (SPECIAL PROJECTS OFFICE)
 
-SERIES PROPOSED:Milwaukee County, Wisconsin 2026. Name taken from Teutonia Avenue, a major street.
+SERIES PROPOSED: Milwaukee County, Wisconsin 2026. Name taken from Teutonia Avenue, a major street.
 
 REMARKS:
 Typical Pedon Taxonomic Features:

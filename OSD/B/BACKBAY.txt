@@ -2,7 +2,7 @@ LOCATION BACKBAY                VA+NC
 
 Established Series
 Rev. RLV:DRH:JHW, JDK/RBT
-06/2026
+09/2026
 
 BACKBAY SERIES
 
@@ -19,15 +19,15 @@ TAXONOMIC CLASS: Fine-loamy, mixed, active, nonacid, thermic Typic Hydraquents
 
 TYPICAL PEDON: Backbay mucky peat in an oligohaline marsh at about sea level (colors are for moist soil unless otherwise stated; when described, the soil was flooded with about 12 inches of water).
 
- Oese--0 to 28 centimeters; very dark brown (10YR 2/2) mucky peat; 36 percent unrubbed fibers, 28 percent rubbed; structureless, massive; von Post value H5; common fine and medium roots; slight sulfurous odor; no color change with 3 percent hydrogen peroxide; slight effervescence with 30 percent hydrogen peroxide; strongly acid (pH 5.2); clear smooth boundary. (20 to 39 centimeters thick)
+ Oese--0 to 28 centimeters; very dark brown (10YR 2/2) mucky peat; 36 percent unrubbed fibers, 28 percent rubbed; von Post value H5; common fine and medium roots; slight sulfurous odor; no color change with 3 percent hydrogen peroxide; slight effervescence with 30 percent hydrogen peroxide; strongly acid (pH 5.2); clear smooth boundary. (20 to 39 centimeters thick)
 
- Aseg--28 to 56 centimeters; black (10YR 2/1) silt loam; structureless, massive; slightly sticky, slightly plastic, moderately fluid; common fine and common medium roots; slight sulfurous odor; no color change with 3 percent hydrogen peroxide; slight effervescence with 30 percent hydrogen peroxide; slightly acid (pH 6.5); clear smooth boundary. (10 to 76 centimeters thick)
+ Aseg--28 to 56 centimeters; black (10YR 2/1) silt loam; massive; slightly sticky, slightly plastic, moderately fluid; common fine and common medium roots; slight sulfurous odor; no color change with 3 percent hydrogen peroxide; slight effervescence with 30 percent hydrogen peroxide; slightly acid (pH 6.5); clear smooth boundary. (10 to 76 centimeters thick)
 
- Cseg1--56 to 84 centimeters; gray (10YR 5/1) sandy clay loam; structureless, massive; moderately sticky, slightly plastic, slightly fluid; few medium roots; slight sulfurous odor; color change with 3 percent hydrogen peroxide; slight effervescence with 30 percent hydrogen peroxide; few fine flakes of mica; neutral (pH 7.0); clear smooth boundary.
+ Cseg1--56 to 84 centimeters; gray (10YR 5/1) sandy clay loam; massive; moderately sticky, slightly plastic, slightly fluid; few medium roots; slight sulfurous odor; color change with 3 percent hydrogen peroxide; slight effervescence with 30 percent hydrogen peroxide; few fine flakes of mica; neutral (pH 7.0); clear smooth boundary.
 
- Cseg2--84 to 119 centimeters; gray (N 6/) silty clay loam; structureless, massive; slightly sticky, moderately plastic, slightly fluid; slight sulfurous odor; no color change with 3 percent hydrogen peroxide; moderate effervescence with 30 percent hydrogen peroxide; 10 percent medium distinct light olive brown (2.5Y 5/6) iron oxide concentrations; 1 percent fine flakes of mica; neutral (pH 6.7); gradual smooth boundary.
+ Cseg2--84 to 119 centimeters; gray (N 6/) silty clay loam; massive; slightly sticky, moderately plastic, slightly fluid; slight sulfurous odor; no color change with 3 percent hydrogen peroxide; moderate effervescence with 30 percent hydrogen peroxide; 10 percent medium distinct light olive brown (2.5Y 5/6) iron oxide concentrations; 1 percent fine flakes of mica; neutral (pH 6.7); gradual smooth boundary.
 
- Cseg3--119 to 200 centimeters; gray (N 6/) silty clay loam; structureless, massive; slightly sticky, moderately plastic, slightly fluid; no sulfurous odor; no color change with 3 percent hydrogen peroxide; slight effervescence with 30 percent hydrogen peroxide; 25 percent coarse distinct light olive brown (2.5Y 5/6) iron oxide concentrations; 3 percent fine flakes of mica; neutral (pH 6.6).
+ Cseg3--119 to 200 centimeters; gray (N 6/) silty clay loam; massive; slightly sticky, moderately plastic, slightly fluid; no sulfurous odor; no color change with 3 percent hydrogen peroxide; slight effervescence with 30 percent hydrogen peroxide; 25 percent coarse distinct light olive brown (2.5Y 5/6) iron oxide concentrations; 3 percent fine flakes of mica; neutral (pH 6.6).
 
 TYPE LOCATION: City of Virginia Beach, Virginia; in Back Bay National Wildlife Refuge; approximately 0.8 kilometers (0.5 miles) northwest of the intersection of Sandpiper Road and North Entrance Road, and approximately 2.2 kilometers (1.4 miles) south-southeast of the intersection of Sandfiddler Road and White Cap Lane; USGS topographic quadrangle: North Bay.
 
@@ -77,9 +77,9 @@ Cseg or 2Cseg horizons:
 Hue--10YR to 10Y, or neutral
 Value--2.5 to 6
 Chroma--0 to 3
-Texture--Sand, loamy sand, loam, silt loam, sandy clay loam, clay loam, silty clay loam, or their mucky analogs
+Texture--Loam, silt loam, sandy clay loam, clay loam, silty clay loam, or their mucky analogs
 Organic carbon density--2 to 17 kg m-3
-Other remarks--Horizon is commonly stratified and has lenses of sandy or clayey materials. Few or common very fine or fine flakes of mica.
+Other remarks--Horizon is commonly stratified and has lenses of sand or loamy sand that do not affect the taxonomic particle-size class. Horizon may contain few or common very fine or fine flakes of mica.
 
 COMPETING SERIES:
 There are no competing series in the same family.
@@ -111,7 +111,8 @@ Soil moisture regime--Peraquic
 Flooding--The soils are flooded by wind tides. Backbay soils are not normally subject to inundation from lunar tides.
 
 USE AND VEGETATION:
-Major uses--Backbay soils are used mainly as wetland wildlife habitat. Typical vegetation--Dominantly needlegrass rush (Juncus roemerianus), saltmarsh bulrush (Scirpus robustus), big cordgrass (Spartina cynosuroides), narrowleaf cattail (Typha angustifolia), and other aquatic plants. Areas transitional to higher elevations have scattered eastern baccharis (Baccharis halimifolia), waxmyrtle (Myrica cerifera), and black willow (Salix nigra) shrubs. In some areas, much of the native vegetation has been overtaken by invasive common reed (Phragmites australis).
+Major uses--Backbay soils are used mainly as wetland wildlife habitat.
+Typical vegetation--Dominantly needlegrass rush (Juncus roemerianus), saltmarsh bulrush (Bolboschoenus maritimus), big cordgrass (Spartina cynosuroides), narrowleaf cattail (Typha angustifolia), and other aquatic plants. Areas transitional to higher elevations have scattered eastern baccharis (Baccharis halimifolia), waxmyrtle (Myrica cerifera), and black willow (Salix nigra) shrubs. In some areas, much of the native vegetation has been overtaken by invasive common reed (Phragmites australis).
 
 DISTRIBUTION AND EXTENT:
 General area--Coastal plain estuaries in North Carolina and Virgina
@@ -133,9 +134,9 @@ Hemic soil materials--The zone from 0 to 28 centimeters.
 Fluidity--The zone from 28 to 200 centimeters has a fluidity of slightly to moderately fluid.
 Peraquic feature--Zero or positive water potential at or near the soil surface.
 
-Various chemical and physical data for these marsh soils are contained in a Master's Thesis, Pedogenic Investigations of Tidal Marsh Soils in Virginia, by Gary A. Reusche, VPI & SU, 1975.
+Various chemical and physical data for these marsh soils are contained in the Master's Thesis, Pedogenic Investigations of Tidal Marsh Soils in Virginia, by Gary A. Reusche, VPI & SU, 1975.
 
 NASIS User Pedon ID: 1992VA810388
-
+_____________________________________________________________________
 National Cooperative Soil Survey
 U.S.A.

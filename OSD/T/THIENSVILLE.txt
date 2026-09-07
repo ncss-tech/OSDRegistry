@@ -2,7 +2,7 @@ LOCATION THIENSVILLE            WI
 
 Tentative Series
 IRD. KDP-CSM-NI
-08/2026
+09/2026
 
 THIENSVILLE SERIES
 
@@ -117,7 +117,7 @@ COMPETING SERIES: There are no competing series. The Ashkum series represents a 
 
 GEOGRAPHIC SETTING:
 Landscape: Till plains
-Landform: Leveled land on foot slopes
+Landform: Leveled land in depressions
 Parent material: Loamy human-transported materials over calcareous till
 Slope: 0 to 2 percent
 Elevation: 170 to 240 meters
@@ -128,8 +128,8 @@ Mean annual precipitation: 735 to 890 millimeters
 GEOGRAPHICALLY ASSOCIATED SOILS:
 These are the Milwaukee and Tosa series which also occur on anthropogenic landforms with over 50 centimeters of human-transported material.
 
-Milwaukee soils are deeper than 100 cm to aquic conditions and occur on fills on nearby hillslopes and summits.
-Tosa soils have aquic conditions between 30 and 60 centimeters and occur on fills on nearby terraces and foot slopes.
+Milwaukee soils are deeper than 100 cm to aquic conditions and occur on fills on ground moraines.
+Tosa soils have aquic conditions between 30 and 60 centimeters and occur on fills on ground moraines.
 
 DRAINAGE AND SATURATED HYDRAULIC CONDUCTIVITY:
 Drainage class: Poorly drained
@@ -144,8 +144,8 @@ Vegetation: Vegetation may include managed and unmanaged plant communities with 
 
 DISTRIBUTION AND EXTENT:
 General area: Urban and other human-altered landscapes
-Region: L - Lake States Fruit, Truck Crop, and Dairy Region; M - Central Feed Grains and Livestock Region
-Major Land Resource Areas (MLRA): 95 - Eastern Wisconsin, Northern Illinois, and Upper Michigan Drift Plain; 110 - Northern Illinois and Indiana Heavy Till Plains
+Land Resource Region: M - Central Feed Grains and Livestock Region
+Major Land Resource Areas (MLRA): 110 - Northern Illinois and Indiana Heavy Till Plains
 Extent: Small
 
 SOIL SURVEY REGIONAL OFFICE (SSRO) RESPONSIBLE: Raleigh, North Carolina (SPECIAL PROJECTS REGION)
