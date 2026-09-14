@@ -2,7 +2,7 @@ LOCATION EASTPOINT              FL
 
 Tentative Series
 ARW
-05/2026
+09/2026
 
 EASTPOINT SERIES
 
@@ -11,7 +11,7 @@ Depth class--Very deep
 Drainage class--Subaqueous
 Water depth range--0 to 3 meters (0 to 10 feet)
 Parent material--Sandy lagoonal deposits
-Geomorphic location--Submerged wave-cut platforms and submerged wave-built terraces
+Geomorphic location--Submerged wave-cut platforms, submerged wave-built terraces, and submerged back-barrier beaches
 Slope range--0 to 1 percent
 Mean annual air temperature--21 degrees C (70 degrees F)
 Mean annual water temperature--24 degrees C (75 degrees F)
@@ -76,7 +76,7 @@ Thalinectes soils--Formed in sandy lagoonal and marine deposits on washover-fans
 
 GEOGRAPHIC SETTING:
 Landscape--Bays and Lagoons along the Gulf Coast
-Landform--Submerged wave-cut platforms and submerged wave-built terraces
+Landform--Submerged wave-cut platforms, submerged wave-built terraces, and submerged back-barrier beaches
 Parent material--Sandy lagoonal deposits 
 Slope--0 to 1 percent
 Water depth range--0 to 3 meters (0 to 10 feet) below mean sea level
@@ -85,12 +85,13 @@ Water temperature range--18 to 30 degrees C (64 to 86 degrees F)
 Soil temperature range--19 to 27 degrees C (66 to 81 degrees F)
 
 GEOGRAPHICALLY ASSOCIATED SOILS:
-These are the Apalachicola, Cash, Dregs, Dry Bar, and Norman soils.
+These are the Amtrac, Apalachicola, Cash, Dregs, Dry Bar, and Lighthouse soils.
+Amtrac soils--Are on high energy lagoon bottoms and barrier coves and formed in coarse-loamy lagoonal deposits.
 Apalachicola soils--Are on bay and lagoon bottoms and formed in fine-loamy lagoonal deposits.
 Cash soils--Are on mainland coves and formed in fine-loamy estuarine deposits.
 Dregs soils--Are on dredge-deposit shoals and formed in sandy, human transported materials
 Dry Bar soils--Are on shoals and reefs and formed in sandy-skeletal lagoonal deposits. 
-Norman soils--Are on shoals and reefs and formed in loamy-skeletal lagoonal deposits.
+Lighthouse soils--Are on shoals and reefs and formed in loamy-skeletal lagoonal deposits.
 
 DRAINAGE AND SATURATED HYDRAULIC CONDUCTIVITY:
 Drainage class--Subaqueous
@@ -123,6 +124,6 @@ Taxonomic Version: Keys to Soil Taxonomy, Thirteenth Edition, 2022
 Other: Named after Eastpoint, Florida where first observed. Eastpoint soils were previously mapped as water in Florida soil survey publications. 
 
 NASIS User Site and Pedon ID: S2024FL037007
-____________________________________________________________________________
+_____________________________________________________________________
 National Cooperative Soil Survey
 U.S.A.

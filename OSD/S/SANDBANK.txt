@@ -2,7 +2,7 @@ LOCATION SANDBANK               FL
 
 Tentative Series
 ARW
-04/2026
+09/2026
 
 SANDBANK SERIES
 
@@ -62,9 +62,8 @@ Texture--Sand, fine sand, loamy sand, loamy fine sand, some horizons contain fin
 Organic carbon density--2 to 20 kg m-3
 
 COMPETING SERIES:
-These are the Broadaxe, Dregs, Eastpoint, Lutz, McKissack, Mullet, Pelican Reef, and Thalinectes series.
+These are the Broadaxe, Eastpoint, Lutz, McKissack, Mullet, Pelican Reef, and Thalinectes series.
 Broadaxe soils--Formed on submerged wave-cut platforms and contain buried spodic horizons.
-Dregs soils--Formed on dredge-deposit shoals from sandy human transported material.
 Eastpoint soils--Formed on submerged wave-cut platforms from sandy lagoonal deposits and do not have mica present throughout the profile.
 Lutz soils--Formed on flood-tidal deltas from sandy lagoonal deposits, do not have mica present throughout the profile, and do not have oxidized pHs below 7.8.
 McKissack soils--Formed on brackish estuarine tidal streams from eroded spodic soil materials, have between 6 to 12 kg m-2 organic carbon from 0 to 100 centimeters and organic stains between sand grains. 
@@ -83,10 +82,11 @@ Water temperature range--18 to 30 degrees C (64 to 86 degrees F)
 Soil temperature range--19 to 27 degrees C (66 to 81 degrees F)
 
 GEOGRAPHICALLY ASSOCIATED SOILS:
-These are the Apalachicola, Cash, and Slough soils.
+These are the Apalachicola, Cash, Dregs, and Lighter soils.
 Apalachicola soils--Are on bay and lagoon bottoms and formed in fine-loamy lagoonal deposits.
 Cash soils--Are on mainland coves and formed in fine-loamy estuarine deposits.
-Slough soils--Are on brackish estuarine tidal streams and formed in fine-loamy estuarine deposits.
+Dregs soils--Are on dredge-deposits shoals and formed in sandy human-transported materials
+Lighter soils--Are on brackish estuarine tidal streams and formed in fine-loamy estuarine deposits.
 
 DRAINAGE AND SATURATED HYDRAULIC CONDUCTIVITY:
 Drainage class--Subaqueous
@@ -118,6 +118,6 @@ Taxonomic Version: Keys to Soil Taxonomy, Thirteenth Edition, 2022
 Other: Named after sand banks, which are depositional, levee like features in river deltas. Sandbank soils were previously mapped as water in Florida soil surveys. 
 
 NASIS User Site and Pedon ID: S2024FL037022
-____________________________________________________________________________
+_____________________________________________________________________
 National Cooperative Soil Survey
 U.S.A.

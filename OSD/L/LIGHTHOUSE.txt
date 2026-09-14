@@ -2,7 +2,7 @@ LOCATION LIGHTHOUSE             FL
 
 Tentative Series
 ARW
-07/2026
+09/2026
 
 LIGHTHOUSE SERIES
 
@@ -72,8 +72,9 @@ Soil temperature--16 to 31 degrees C (61 to 88 degrees F)
 Water temperature--18 to 28 degrees C (64 to 82 degrees F)
 
 GEOGRAPHICALLY ASSOCIATED SOILS:
-These are the Apalachicola, Dry Bar, and Eastpoint soils.
+These are the Apalachicola, Dregs, Dry Bar, and Eastpoint soils.
 Apalachicola soils--Formed on bay and lagoon bottoms from fine-loamy lagoonal deposits.
+Dregs soils--Formed on dredge-deposit shoals from sandy human transported materials.
 Dry Bar soils--Formed on shoals and reefs from sandy-skeletal lagoonal deposits and are nonfluid throughout.
 Eastpoint soils--formed on submerged wave-cut platforms from sandy lagoonal deposits and have hyposulfidic materials.
 
@@ -106,6 +107,6 @@ Taxonomic Version: Keys to Soil Taxonomy, Thirteenth Edition, 2022
 Other: The series is named after Lighthouse Bar, a historic oyster reef where first observed. Lighthouse soils were previously mapped as water in Florida soil surveys.
 
 NASIS User Site and Pedon ID: S2024FL037021
-____________________________________________________________________________
+
 National Cooperative Soil Survey
 U.S.A.

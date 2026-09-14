@@ -2,7 +2,7 @@ LOCATION DREGS                  FL
 
 Tentative Series
 ARW
-04/2026
+09/2026
 
 DREGS SERIES
 
@@ -88,14 +88,14 @@ Water temperature range--18 to 30 degrees C (64 to 86 degrees F)
 Soil temperature range--19 to 27 degrees C (66 to 81 degrees F)
 
 GEOGRAPHICALLY ASSOCIATED SOILS:
-These are the Apalachicola, Dry Bar, Eastpoint, McKissack, Norman, Sandbank, and Slough soils.
+These are the Apalachicola, Dry Bar, Eastpoint, Lighter, Lighthouse, McKissack, and Sandbank soils.
 Apalachicola soils--Formed on lagoon and bay bottoms from fine-loamy lagoonal deposits and have up to 35 percent shell fragments in the particle-size control section.
 Dry Bar soils--Formed on shoals and oyster reefs from sandy lagoonal deposits and have a weighted average of 35 percent or more shell fragments in the particle-size control section.
 Eastpoint soils--formed on submerged wave-cut platforms from sandy lagoonal materials.
+Lighter soils--Formed in brackish estuarine tidal streams from fine-loamy estuarine deposits.
+Lighthouse soils--Formed on shoals and oyster reefs from loamy lagoonal deposits and have a weighted average of 35 percent or more shell fragments in the particle size control section.
 McKissack soils--Formed in brackish estuarine tidal stream from eroded, sandy spodic material.
-Norman soils--Formed on shoals and oyster reefs from loamy lagoonal deposits and have a weighted average of 35 percent or more shell fragments in the particle size control section.
 Sandbank soils--Formed on estuarine tidal stream deltas and from sandy estuarine deposits and have mica present in some part of the profile.
-Slough soils--Formed in brackish estuarine tidal streams from fine-loamy estuarine deposits.
 
 DRAINAGE AND SATURATED HYDRAULIC CONDUCTIVITY:
 Drainage class--Subaqueous

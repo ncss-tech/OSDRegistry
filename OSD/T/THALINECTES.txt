@@ -1,8 +1,8 @@
-LOCATION THALINECTES            MS
+LOCATION THALINECTES            MS+FL
 
 Established Series
 RJK-RBT 
-05/2026
+09/2026
 
 THALINECTES SERIES
 
@@ -11,7 +11,7 @@ Depth class--Very deep
 Drainage class--Subaqueous
 Water depth range--0 to 300 centimeters
 Parent material--Sandy marine or lagoonal deposits
-Geomorphic location--Longshore bar
+Geomorphic location--Longshore bars and washover-fans
 Slope range--0 to 2 percent
 Mean annual air temperature--21 degrees C (70 degrees F)
 Mean annual precipitation--1737 millimeters (68 inches)
@@ -46,7 +46,7 @@ Reaction throughout--Moderately acid to strongly alkaline (pH 5.6 to 9.0)
 Oxidized reaction--Very strongly acid to moderately alkaline (4.5 to 8.4)
 Electrical conductivity (1:5 soil-water, throughout)--0.6 dS/m or greater
 Manner of failure throughout--Nonfluid
-Shell fragments throughout--0 to 50 percent
+Shell fragments throughout--0 to 30 percent
 Total soil organic carbon stock to 200 centimeters--3 to 14 kg m-2
 
 CAseg horizon (where present):
@@ -92,21 +92,31 @@ Texture--sandy loam or coarser
 Organic carbon density--0.01 to 0.15 kg m-3
 
 COMPETING SERIES:
-Broadaxe soils--are on submerged wave-cut platform landforms and often contain former preserved spodic fluviomarine diagnostic soil horizons
-Mullet soils--are on washover-fan flat landforms within estuaries and lagoons and often have hues on the gley pages
+These are the Broadaxe, Eastpoint, Lutz, Mullet, Pelican Reef, and Sandbank soils
+Broadaxe soils--are on submerged wave-cut platform landforms and often contain former preserved spodic fluviomarine diagnostic soil horizons.
+Eastpoint soils--are on submerged wave-cut platforms and have lower soil organic carbon densities in the surface horizon.
+Lutz soils--are on flood-tidal deltas and have lower soil organic carbon densities in the surface horizon.
+Mullet soils--are on washover-fan flat landforms within estuaries and lagoons and often have hues on the gley pages.
+Pelican Reef soils--are on relict flood-tidal deltas and allow for yellower hues and do not have oxidized reactions below 7.4.
+Sandbank soils--are on estuarine tidal stream deltas and have very fine mica flakes throughout.
 
 GEOGRAPHIC SETTING:
 Parent material--Sandy marine or lagoonal deposits
 Landscape--Gulfs, bays, and coastal estuaries
-Landform--Longshore bars, washover-fans
+Landform--Longshore bars and washover-fans
 Slope--0 to 2 percent
 Mean annual precipitation--1264 to 1737 millimeters (50 to 68 inches)
 Mean annual air temperature--19 to 21 degrees C (66 to 70 degrees F)
 Water salinity range--18 to 30 parts per thousand
 
-GEOGRAPHICALLY ASSOCIATED SOILS: These are the Handsboro, Kesson, and St. Lucie soils.
+GEOGRAPHICALLY ASSOCIATED SOILS: These are the Amtrac, Dregs, Dry Bar, Handsboro, 
+Amtrac soils--are on high-energy lagoon bottoms and barrier coves and formed in coarse-loamy lagoonal deposits.
+Dregs soils--are on anthropogenic dredge-deposit shoals and formed in sandy human-transported materials.
+Dry Bar soils--are on shoals and reefs and formed in sandy-skeletal lagoonal deposits.
+Kesson, Lutz, Pelican Reef, Sheepshead, and St. Lucie soils.
 Handsboro soils--are in tidal salt marshes and have thick organic soil horizons throughout
 Kesson soils--are very poorly drained, often have eolian origins, and are not permanently submerged
+Sheepshead soils--are on barrier coves and formed in sandy and loamy lagoonal deposits.
 St. Lucie soils--are excessively drained on adjacent dunes, have eolian origins and are much higher on the landscape
 
 DRAINAGE AND SATURATED HYDRAULIC CONDUCTIVITY: 
@@ -117,10 +127,10 @@ Soil is permanently inundated with saline and brackish water with considerable t
 
 USE AND VEGETATION: 
 Major uses--Supports benthic aquatic habitat and is used for fishing and recreational and commercial shellfish harvesting
-Native vegetation--Native algae and eelgrass (Zostera marina); vegetative cover ranges from 0 to 35 percent 
+Native vegetation--These support significant stands of shoal grass (Halodule wrightii), turtle grass (Thalassia testudinum), and eelgrass (Zostera marina). Typical vegetative cover ranges from 30 to 90 percent.   
 
 DISTRIBUTION AND EXTENT: 
-General area--Located along the Alabama and Mississippi Gulf coast
+General area--Located along the Mississippi and Florida Gulf coast
 Land Resource Regions--T - Atlantic and Gulf Coast Lowland Forest and Crop Region 
 MLRA(s)--MLRA  152A
 Extent--Small
@@ -129,7 +139,7 @@ SOIL SURVEY REGIONAL OFFICE (SSRO) RESPONSIBLE: Special Projects Office
 
 SERIES ESTABLISHED: Harrison County, Mississippi, 2025
 
-REMARKS: This subaqueous series was previously mapped as water in Harrison County, Mississippi Soil Surveys.  The name was selected by professors at Southern Mississippi University named after one of their research vessels.  The name originates from a combination of Thalassia and Callinectes, the genera for turtlegrass and blue crab, respectively.
+REMARKS: This subaqueous series was previously mapped as water in Harrison County, Mississippi and Franklin County, Florida Soil Surveys.  The name was selected by professors at Southern Mississippi University named after one of their research vessels.  The name originates from a combination of Thalassia and Callinectes, the genera for turtlegrass and blue crab, respectively.
 
 Diagnostic horizons and features in this pedon include:
 Peraquic moisture regime--The zone from 0 to 200 centimeters has positive soil water potential (permanently submerged) at the soil surface (under 144 centimeters of salt water).

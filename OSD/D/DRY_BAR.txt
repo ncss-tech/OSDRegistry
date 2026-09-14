@@ -2,7 +2,7 @@ LOCATION DRY BAR                FL
 
 Tentative Series
 ARW
-05/2026
+09/2026
 
 DRY BAR SERIES
 
@@ -68,11 +68,13 @@ Soil temperature--16 to 31 degrees C (61 to 88 degrees F)
 Water temperature--18 to 28 degrees C (64 to 82 degrees F)
 
 GEOGRAPHICALLY ASSOCIATED SOILS:
-These are the Apalachicola, Eastpoint, Lighthouse, Pelican Reef, and Thalincetes soils.
+These are the Amtrac, Apalachicola, Eastpoint, Lighthouse, Pelican Reef, Sheepshead, and Thalincetes soils.
+Amtrac soils--Formed on high-energy lagoon bottoms and barrier coves from coarse-loamy lagoonal deposits.
 Apalachicola soils--Formed on bay and lagoon bottoms from fine-loamy lagoonal deposits.
 Eastpoint soils--Formed on submerged wave-cut platforms from sandy lagoonal deposits.
 Lighthouse soils--Formed on shoals and reefs from loamy-skeletal lagoonal deposits.
 Pelican Reef soils--Formed on relict flood-tidal deltas from sandy lagoonal deposits.
+Sheepshead soils--Formed on barrier coves from sandy and loamy lagoonal deposits.
 Thalinectes soils--Formed on longshore bars and washover-fans from sandy lagoonal deposits. 
 
 DRAINAGE AND SATURATED HYDRAULIC CONDUCTIVITY:
@@ -103,6 +105,6 @@ Taxonomic Version: Keys to Soil Taxonomy, Thirteenth Edition, 2022
 Other: The series is named after Dry Bar, a historic oyster reef on the east side of St. Vincent Island, where first observed. Dry Bar soils were previously mapped as water in Florida soil survey publications.
 
 NASIS User Site and Pedon ID: 2024FL037057. Additional support pedons to develop this series include 2025FL037005 and S2024FL037069.
-_____________________________________________________________________
+
 National Cooperative Soil Survey
 U.S.A.

@@ -2,20 +2,19 @@ LOCATION SANDFLY                FL
 
 Established Series
 RBT-ARW
-01/2026
+09/2026
 
 SANDFLY SERIES
 
-MLRA(s)--155
+MLRA(s)--152A and 155
 Depth class--Very deep
 Drainage class--Subaqueous
 Water depth range--71 to 211 centimeters
-Parent material--Coarse-loamy lagoonal deposits over fluviomarine deposits
+Parent material--Coarse-loamy estuarine deposits
 Geomorphic location--Estuarine tidal streams
 Soil Organic Carbon Stock to 200 centimeters--13.8 kg m-2
-Slope range for Series--0 to 1 percent
+Slope range--0 to 1 percent
 Mean annual air temperature--22 degrees C (71.6 degrees F)
-Mean annual precipitation--1300 millimeters (51.1 inches)
 Mean annual water temperature--24.7 degrees C (76.6 degrees F)
 
 TAXONOMIC CLASS: Coarse-loamy, mixed, subactive, nonacid, hyperthermic Thapto-humic Fluviwassents
@@ -42,41 +41,43 @@ Coordinate source--Manually entered from GPS
 RANGE IN CHARACTERISTICS:
 Depth to bedrock--Greater than 200 centimeters
 Depth to lithologic discontinuity--18 to 123 centimeters (where present)
-Particle--size control section--Coarse-loamy with common sandy textured horizons
 Soil moisture--Continuously inundated
 Reaction throughout--Slightly alkaline to strongly alkaline (pH 7.4 to 9.0)
 Oxidized reaction--Slightly acid to strongly alkaline (6.1 to 9.0)
 Electrical conductivity (1:5 soil-water) throughout--0.6 dS/m or greater
 Manner of failure--Nonfluid to slightly fluid
-Shell fragments throughout--0 to 30 percent throughout
+Particle-size control section (weighted average):
+Shell fragments--0 to 30 percent
+Sand--60 to 80 percent
+Clay--10 to 18 percent
 Total Soil Organic Carbon Stock to 200 centimeters--6.2 to 24.2 kg m-2
 
 Cseg horizon-
 Hue--2.5Y, 5Y, or 10Y
 Value--4 to 8
-Chroma--1 to 2, chroma of 1 is predominant
+Chroma--1 or 2
 Texture--fine sandy loam, sandy loam, loamy sand, loamy fine sand, fine sand, or sand with shelly analogs
 Organic carbon density--0.3 to 1.7 kg m-3
 
 Aseg horizon
-Hue--2.5Y, 10Y or is neutral
+Hue--2.5Y to 10Y, or neutral
 Value--2.5 to 4
-Chroma--1 or less
+Chroma--None or 1
 Texture--Fine sandy loam, loamy fine sand, or loamy sand with shelly analogs
 Organic carbon density--0.8 to 9.6 kg m-3
 
 2Esegb horizon (where present)-
 Hue--N
 Value--8
-Chroma--1 or less
-Texture--Fine sandy loam or sandy clay loam
+Chroma--None or 1
+Texture--Fine sand, sand, loamy fine sand, loamy sand, fine sandy loam or sandy loam
 Organic carbon density--0.3 to 3.2 kg m-3
 
 2Bsseb horizon (where present)-
 Hue--5Y
 Value--6
 Chroma--1
-Texture--Fine sand
+Texture--Fine sand, sand, loamy fine sand, or loamy sand
 Organic carbon density--0.3 to 4.9 kg m-3
 
 C'seg horizon-
@@ -86,20 +87,20 @@ Chroma--1 or less
 Texture--Silty clay, silty clay loam, sandy clay loam, fine sandy loam, sandy loam, loamy sand, loamy fine sand, or fine sand with shelly analogs
 Organic carbon density--1.1 to 3.9 kg m-3
 
-Where present the 3Cseg horizon has similar colors and textures as the 2Cseg horizon.
+Where present the 2Cseg or 3Cseg horizon has similar colors and textures as the C'seg horizon.
 
 3Asegb horizon
 Hue--2.5Y or 10Y
 Value--3 to 4
 Chroma--1
-Texture--fine sandy loam or loamy fine sand with shelly analogs
+Texture--fine sandy loam, loamy fine sand, or their shelly analogs
 Organic carbon density--1.8 to 5.8 kg m-3
 
 COMPETING SERIES: There are no competing series.
 
 GEOGRAPHIC SETTING:
-Parent material--Coarse-loamy estuarine deposits over fluviomarine deposits
-Landscape--Coastal lagoons
+Parent material--Coarse-loamy estuarine deposits
+Landscape--Coastal lagoons and bays
 Landform--Estuarine tidal streams
 Slope--0 to 1 percent
 Mean annual precipitation--970 to 1570 millimeters (38 to 62 inches)
@@ -108,12 +109,15 @@ Water salinity range--18 to 29 parts per thousand
 Frost-free period--365 days
 
 GEOGRAPHICALLY ASSOCIATED SOILS: 
-These are the Broadaxe, Buttonwood, Endeavor, Ittsanapper, Mullet, Tea Hammock soils.
+These are the Broadaxe, Buttonwood, Cash, Endeavor, Ittsanapper, Lighter, Mullet, Sandbank, and Tea Hammock soils.
 Broadaxe soils--are on submerged wave-cut platforms and are much sandier throughout.
 Buttonwood soils--are on barrier cove landforms (completely different portion of the lagoon), developed in lagoonal deposits and often have thicker humilluvic materials.
+Cash soils--are on mainland coves and formed in fine-loamy estuarine deposits
 Endeavor soils--are on relict flood-tidal delta sand flats and slopes, have sandier textures, and have considerable shell fragments throughout.
 Ittsanapper soils--are on lagoon bottom landforms, at deeper water depths, and have thicker finer textured materials throughout.
+Lighter soils--are on estuarine tidal streams and formed in fine-loamy estuarine deposits
 Mullet soils--are on washover-fan flats and have sandy textures throughout
+Sandbank soils--are on estuarine tidal stream deltas and formed in sandy estuarine deposits and have very fine mica throughout the profile
 Tea Hammock soils--are also on nearby anthropogenic landforms consisting of dredge-deposit shoals
 
 DRAINAGE AND SATURATED HYDRAULIC CONDUCTIVITY:
@@ -127,9 +131,9 @@ Major uses--Used for recreational boating, fishing, and swimming, marinas, moori
 Native vegetation--Dominant vegetation is driven by water quality and quantity within subaqueous systems. Under excellent water quality these soils support seagrass species including but not limited to widgeon grass (Ruppia maritima) and shoal grass (Halodule wrightii) due to their tolerances of low salinity and shallow water depths. Under degraded / poor water quality seagrass may be replaced by rooted eukaryotic macroalgae in the green (Chlorophyta), red (Rhodophyta), and brown (Phaeophyta) algae families. Caulerpa prolifera (Chlorophyta) is often dominant. Vegetative cover ranges from 0 through 20 percent.
 
 DISTRIBUTION AND EXTENT: 
-General area--Located along the coasts of Indian River Lagoon, Florida
-Land Resource Regions--U - Florida Subtropical Fruit, Truck Crop, and Range Region
-MLRA(s)--155
+General area--Located along the coasts of Indian River Lagoon, Florida and high-energy estuarine tidal streams in the Gulf
+Land Resource Regions--T - Atlantic and Gulf Coast Lowland Forest and Crop Region and U - Florida Subtropical Fruit, Truck Crop, and Range Region
+MLRA(s)--152A and 155
 Extent--Small
 
 SOIL SURVEY REGIONAL OFFICE (SSRO) RESPONSIBLE: Auburn, Alabama
@@ -139,12 +143,11 @@ SERIES ESTABLISHED: Brevard County, Florida, 2024
 REMARKS:
 Diagnostic horizons and features in this pedon include-- 
 -Peraquic soil moisture regime--Positive soil water potential (permanently submerged) at the soil surface. (under 1.2 meters of salt water).
--Particle-size control section--The zone from 0 to 100 centimeters (0 to 40 inches).
 -N-value > 0.7--The zone from 23 to 94 centimeters (Aseg1 and Aseg2 horizons).
--Taxonomic version--Keys to Soil Taxonomy, 13th edition (2022).  The correct taxonomic subgroup will need to be assigned in NASIS and OSD of Thapto-Humic Fluviwassents when available.
+-Taxonomic version--Keys to Soil Taxonomy, 13th edition (2022).
 
 ADDITIONAL DATA:
 Typical pedon S2023FL009012. Additional supporting pedon used to develop this series include S2023FL009013.
-________________________________________
+
 National Cooperative Soil Survey
 U.S.A.

@@ -2,20 +2,19 @@ LOCATION BROADAXE               FL
 
 Established Series
 RBT-ARW
-10/2024
+09/2026
 
 BROADAXE SERIES
 
-MLRA(s)--155
+MLRA(s)--152A, 155
 Depth class--Very deep
 Drainage class--Subaqueous
 Water depth range--50 to 185 centimeters
 Parent material--Sandy estuarine deposits over fluviomarine deposits
 Geomorphic location--Submerged wave-cut platforms
 Soil Organic Carbon Stock to 200 centimeters--20.8 kg m-2
-Slope range for Series--0 to 1 percent
+Slope range--0 to 1 percent
 Mean annual air temperature--22 degrees C (71.6 degrees F)
-Mean annual precipitation--1300 millimeters (51.1 inches)
 Mean annual water temperature--24.7 degrees C (76.6 degrees F)
 
 TAXONOMIC CLASS: Siliceous, hyperthermic Fluventic Psammowassents
@@ -41,20 +40,22 @@ Coordinate source--Manually entered from GPS
 RANGE IN CHARACTERISTICS:
 Depth to bedrock--Greater than 200 centimeters
 Depth to lithologic discontinuity--20 to 164 centimeters (commonly occurs within 1 meter of the soil surface)
-Particle--size control section--Sandy with some horizons with considerable shell fragments
 Soil moisture--Continuously inundated
 Reaction throughout--Slightly alkaline to strongly alkaline (pH 7.4 to 9.0)
 Oxidized reaction--Neutral to strongly alkaline (pH 6.6 to 9.0)
 Electrical conductivity (1:5 soil-water) throughout--0.6 dS/m or greater
 Manner of failure--Nonfluid to slightly fluid
-Shell fragments throughout--0 to 90 percent in the estuarine deposits (horizons with considerable shell fragments are thin enough to keep the soil out of the skeletal or fragmental families) and 0 to 3 percent in the fluviomarine materials (but can range up to 10 percent)
+Particle-size control section (weighted average):
+Shell fragments--0 to 30 percent in the estuarine deposits, but some thin horizons may have up to 90 percent
+Sand--80 to 98 percent
+Clay--2 to 10 percent
 Total Soil Organic Carbon Stock to 200 centimeters--12.0 to 33.4 kg m-2
 
 Aseg horizon-
 Hue--10YR to 10Y or is neutral
 Value--3 to 6
 Chroma--2 or less
-Texture--Fine sand, sand, loamy sand, loamy fine sand, or fine sandy loam (loamy textured horizons are usually quite thin)
+Texture--Fine sand, sand, loamy sand, loamy fine sand, or fine sandy loam
 Organic carbon density--1.0 to 2.3 kg m-3
 
 Cseg horizon-
@@ -68,7 +69,7 @@ Organic carbon density--1.2 to 3.0 kg m-3
 Hue--5YR to 10Y or is neutral
 Value--2 to 5
 Chroma--1 or less
-Texture--Fine sand, loamy fine sand, loamy sand, or fine sandy loam (loamy textured horizons are usually quite thin)
+Texture--Fine sand, loamy fine sand, loamy sand, or fine sandy loam
 Organic carbon density--7.8 to 19.7 kg m-3
 
 2Esegb horizon (where present)-
@@ -82,14 +83,14 @@ Organic carbon density--1.0 to 3.0 kg m-3
 Hue--7.5YR to 2.5Y
 Value--2 to 3
 Chroma--1 to 3
-Texture--Fine sand, loamy fine sand, loamy sand
+Texture--Fine sand, loamy fine sand, or loamy sand
 Organic carbon density--0.7 to 3.4 kg m-3
 
 2Bsseb horizon-
 Hue--7.5YR to 2.5Y
 Value--3 to 6
 Chroma--2 to 4
-Texture-Fine sand, loamy fine sand, loamy sand, or fine sandy loam (finer texture is often deeper than 100 centimeters)
+Texture-Fine sand, loamy fine sand, loamy sand, or fine sandy loam
 Organic carbon density--1.4 to 4.9 kg m-3
 
 2Cseg horizon-
@@ -99,7 +100,15 @@ Chroma--2 or less
 Texture--Sand, fine sand, loamy fine sand, loamy sand, sandy loam, fine sandy loam, or sandy clay loam (fine textures are often deeper than 100 centimeters)
 Organic carbon density--0.7 to 3.0 kg m-3
 
-COMPETING SERIES: There are no competing series.
+COMPETING SERIES: 
+These are the Eastpoint, Lutz, McKissack, Mullet, Pelican Reef, Sandbank, and Thalinectes series.
+Eastpoint soils--are on submerged wave-cut platforms and do not contain buried spodic horizons.
+Lutz soils--are on flood-tidal deltas and do not contain buried spodic horizons.
+McKissack soils--are on estuarine tidal streams and formed in from eroded, upland spodic material. 
+Mullet soils--are on washover-fan flats and do not contain buried spodic horizons. 
+Pelican Reef soils--are on relict flood-tidal deltas, do not contain buried spodic horizons, and have significantly higher soil organic carbon in the surface horizon. 
+Sandbank soils--are on estuarine tidal stream deltas, do not contain buried spodic horizons, and contain very fine mica flakes throughout the profile. 
+Thalinectes soils--are on washover-fan flats, do not contain buried spodic horizons, and have significantly higher soil organic carbon in the surface horizon. 
 
 GEOGRAPHIC SETTING:
 Parent material--Sandy estuarine deposits over fluviomarine deposits
@@ -112,10 +121,9 @@ Water salinity range--18 to 29 parts per thousand
 Frost-free period--365 days
 
 GEOGRAPHICALLY ASSOCIATED SOILS: 
-These are the Endeavor, Ittsanapper, Mullet, and Tea Hammock soils.
+These are the Eastpoint, Endeavor, Ittsanapper, Mullet, and Tea Hammock soils.
 Endeavor soils--are on relict flood-tidal delta sand flats and slopes and have considerable shell fragments throughout
 Ittsanapper soils--are on lagoon bottom landforms, usually at deeper water depths, and have thicker finer textured materials
-Mullet soils--are on washover-fan flat landforms and lack the humilluvic materials
 Tea Hammock soils--are also on nearby anthropogenic landforms consisting of dredge shoal deposits
 
 DRAINAGE AND SATURATED HYDRAULIC CONDUCTIVITY:
@@ -129,9 +137,9 @@ Major uses--Used for recreational boating, fishing, and swimming, marinas, moori
 Native vegetation--Dominant vegetation is driven by water quality and quantity within subaqueous systems. Under excellent water quality these soils support seagrass species including but not limited to shoal grass (Halodule wrightii), manatee grass (Syringodium filiforme), and star grass (Halophila engelmannii). Shallower areas may support widgeongrass (Ruppia maritima). Under degraded / poor water quality seagrass may be replaced by rooted eukaryotic macroalgae in the green (Chlorophyta), red (Rhodophyta), and brown (Phaeophyta) algae families. Caulerpa prolifera (Chlorophyta) is often dominant. Vegetative cover ranges from 0 through 80 percent."
 
 DISTRIBUTION AND EXTENT: 
-General area--Located along the coasts of Indian River Lagoon, Florida
-Land Resource Regions--U - Florida Subtropical Fruit, Truck Crop, and Range Region
-MLRA(s)--155
+General area--Located along the coasts of Indian River Lagoon, Florida and the Gulf coast
+Land Resource Regions--T - Atlantic and Gulf Coast Lowland Forest and Crop Region and U - Florida Subtropical Fruit, Truck Crop, and Range Region
+MLRA(s)--152A and 155
 Extent--Small
 
 SOIL SURVEY REGIONAL OFFICE (SSRO) RESPONSIBLE: SPECIAL PROJECTS OFFICE
@@ -148,7 +156,7 @@ Diagnostic horizons and features in this pedon include--
 -Taxonomic version--Keys to Soil Taxonomy, 13th edition (2022).  The classification will need to be revised to a Thapto-Humic Psammowassents.
 
 ADDITIONAL DATA:
-Typical pedon S2023FL009003 (pedon above), 2021FL009042, 2021FL009069, or 2020FL009010.
-________________________________________
+Typical pedon S2023FL009003.  Supporting pedons used to develop this series include: 2021FL009042, 2021FL009069, and 2020FL009010.
+
 National Cooperative Soil Survey
 U.S.A.

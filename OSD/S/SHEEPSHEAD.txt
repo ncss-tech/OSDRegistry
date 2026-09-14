@@ -2,7 +2,7 @@ LOCATION SHEEPSHEAD             FL
 
 Tentative Series
 ARW
-05/2026
+09/2026
 
 SHEEPSHEAD SERIES
 
@@ -18,17 +18,17 @@ Mean annual water temperature--24 degrees C (75 degrees F)
 
 TAXONOMIC CLASS: Sandy, siliceous, hyperthermic Typic Fluviwassents
 
-TYPICAL PEDON: Sheepshead shelly sandy loam in a barrier cove under 1.3 meters of salt water. (colors are for moist soil unless otherwise stated; electrical conductivity is 1:5 by volume solution mixture unless otherwise stated).
+TYPICAL PEDON: Sheepshead shelly fine sandy loam in a barrier cove under 1.3 meters of salt water. (colors are for moist soil unless otherwise stated; electrical conductivity is 1:5 by volume solution mixture unless otherwise stated).
 
- Cseg1--0 to 24 centimeters; very dark greenish gray (5GY 3/1) shelly sandy loam; massive; slightly sticky, nonplastic; moderately fluid; slight sulfurous odor; 30 percent shell fragments; no color change with 3 percent hydrogen peroxide; strong effervescence with 30 percent hydrogen peroxide; saline (3.7 dS/m); slightly alkaline (pH 7.6), strongly alkaline (pH 8.5) oxidized pH; clear boundary
+ Cseg1--0 to 24 centimeters; very dark greenish gray (5GY 3/1) shelly fine sandy loam; massive; slightly sticky, nonplastic; moderately fluid; slight sulfurous odor; 30 percent shell fragments; no color change with 3 percent hydrogen peroxide; strong effervescence with 30 percent hydrogen peroxide; saline (3.7 dS/m); strongly alkaline (pH 8.6), strongly alkaline (pH 8.5) oxidized pH; clear boundary
 
- Cseg2--24 to 62 centimeters; 80 percent greenish gray (10Y 5/1) and 20 percent very dark greenish gray (10Y 3/1) loamy fine sand; single grain; nonsticky, nonplastic; nonfluid; 10 percent shell fragments at bottom of horizon; slight sulfurous odor; no color change with 3 percent hydrogen peroxide; moderate effervescence with 30 percent hydrogen peroxide; saline (2.2 dS/m); slightly alkaline (pH 7.8), strongly alkaline (pH 8.7) oxidized pH; gradual boundary
+ Cseg2--24 to 62 centimeters; 80 percent greenish gray (10Y 5/1) and 20 percent very dark greenish gray (10Y 3/1) sand; single grain; nonsticky, nonplastic; nonfluid; 10 percent shell fragments at bottom of horizon; slight sulfurous odor; no color change with 3 percent hydrogen peroxide; moderate effervescence with 30 percent hydrogen peroxide; saline (2.2 dS/m); strongly alkaline (pH 8.5), strongly alkaline (pH 8.7) oxidized pH; gradual boundary
 
- Cseg3--62 to 122 centimeters; very dark greenish gray (10Y 3/1) fine sand; single grain; nonsticky, nonplastic; nonfluid; 12 percent shell fragments; slight sulfurous odor; no color change with 3 percent hydrogen peroxide; slight effervescence with 30 percent hydrogen peroxide; saline (3.0 dS/m); slightly alkaline (pH 7.8), moderately alkaline (pH 8.2) oxidized pH; gradual boundary
+ Cseg3--62 to 122 centimeters; very dark greenish gray (10Y 3/1) sand; single grain; nonsticky, nonplastic; nonfluid; 12 percent shell fragments; slight sulfurous odor; no color change with 3 percent hydrogen peroxide; slight effervescence with 30 percent hydrogen peroxide; saline (3.0 dS/m); strongly alkaline (pH 8.6), moderately alkaline (pH 8.4) oxidized pH; gradual boundary
 
- Cseg4--122 to 172 centimeters; 90 percent very dark greenish gray (10Y 3/1) and 10 percent dark greenish gray (10Y 4/1) loamy fine sand; single grain; nonsticky, nonplastic; nonfluid; 5 percent shell fragments; slight sulfurous odor; no color change with 3 percent hydrogen peroxide; slight effervescence with 30 percent hydrogen peroxide; saline (2.8 dS/m); slightly alkaline (pH 7.5), slightly alkaline (pH 7.5) oxidized pH; abrupt boundary
+ Cseg4--122 to 172 centimeters; 90 percent very dark greenish gray (10Y 3/1) and 10 percent dark greenish gray (10Y 4/1) sand; single grain; nonsticky, nonplastic; nonfluid; 5 percent shell fragments; slight sulfurous odor; no color change with 3 percent hydrogen peroxide; slight effervescence with 30 percent hydrogen peroxide; saline (2.8 dS/m); moderately alkaline (pH 8.4), moderately alkaline (pH 8.0) oxidized pH; abrupt boundary
 
- 2Cseg5--172 to 214 centimeters; dark greenish gray (5GY 4/1) loam; massive; moderately sticky, nonplastic; moderately fluid; 1 percent very fine mica flakes; vertical channels of greenish gray (10Y 6/1) fine sand; slight sulfurous odor; no color change with 3 percent hydrogen peroxide; slight effervescence with 30 percent hydrogen peroxide; saline (3.6 dS/m); slightly alkaline (pH 7.6), moderately alkaline (pH 8.4) oxidized pH
+ 2Cseg5--172 to 214 centimeters; dark greenish gray (5GY 4/1) loam; massive; moderately sticky, nonplastic; moderately fluid; 1 percent very fine mica flakes; vertical channels of greenish gray (10Y 6/1) fine sand; slight sulfurous odor; no color change with 3 percent hydrogen peroxide; slight effervescence with 30 percent hydrogen peroxide; saline (3.6 dS/m); moderately alkaline (pH 8.1), moderately alkaline (pH 8.1) oxidized pH
 
 TYPE LOCATION: Franklin County, Florida; Big Bayou; approximately 9.9 kilometers (6.1 miles) east of Indian Pass, approximately 1.3 kilometers (0.8 miles) north of the intersection of Insulator Road and 5 Road, and approximately 3.8 kilometers (2.4) miles west by southwest of Sheepshead Bayou; USGS topographic quadrangle: West Pass, FL 
 
@@ -69,14 +69,13 @@ Organic carbon density--2 to 12 kg m-3
 Hue--10Y to N
 Value--3 to 7
 Chroma--none to 2
-Texture--Sandy loam, fine sandy loam, loam, sandy clay loam, clay loam
+Texture--Sandy loam, fine sandy loam, loam, sandy clay loam, or clay loam
 Organic carbon density--10 to 20 kg m-3
 
 COMPETING SERIES:
-These are the Buttonwood, Endeavor, and Tea Hammock series
+These are the Buttonwood and Endeavor series
 Buttonwood soils--Formed in barrier coves and contain submerged spodic horizons as lithologic discontinuities
 Endeavor soils--Formed on relict flood-tidal delta flats and slopes with some horizons containing greater than 30 percent shell fragments and have mixed mineralogy
-Tea Hammock soils--Formed in sandy dredge materials on dredge-deposit shoals
 
 GEOGRAPHIC SETTING:
 Landscape--Bays and Lagoons along the Gulf Coast
@@ -126,6 +125,6 @@ Taxonomic Version: Keys to Soil Taxonomy, Thirteenth Edition, 2022
 Other: Named after Sheepshead Bayou near where first observed. Sheepshead soils were previously mapped as water in Florida soil survey publications. 
 
 NASIS User Site and Pedon ID: S2025FL037010
-____________________________________________________________________________
+
 National Cooperative Soil Survey
 U.S.A.
