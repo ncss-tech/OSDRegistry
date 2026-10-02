@@ -9,3 +9,5 @@
 ^test/SC$
 ^test/inst/extdata$
 ^misc$
+^INTENT\.md$
+^LICENSE\.md$

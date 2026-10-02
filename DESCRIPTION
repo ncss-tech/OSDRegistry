@@ -1,16 +1,19 @@
 Package: OSDRegistry
 Type: Package
 Title: Official Series Description (OSD) Registry
-Version: 0.8.1
-Author: Soil Survey Staff
+Version: 0.8.2
+Authors@R: c(
+    person("Andrew", "Brown", , "andrew.g.brown@usda.gov", role = c("aut", "cre"), comment = c(ORCID = "0000-0002-4565-533X")),
+    person("Soil and Plant Science Division Staff", role = "aut")
+  )
 Maintainer: Andrew G. Brown <andrew.g.brown@usda.gov>
 Description: Version control solution for Official Series Descriptions (OSDs; <https://soilseries.sc.egov.usda.gov/>) and the Series Classification database. Official "series" are soil types used by the USDA-NRCS and the National Cooperative Soil Survey program.
 Imports: utils, rvest, xml2, curl, RSelenium, soilDB
 Suggests: testthat
-License: GPL-3
+License: MIT + file LICENSE
 Encoding: UTF-8
 LazyData: true
 URL: https://github.com/ncss-tech/OSDRegistry
 BugReports: https://github.com/ncss-tech/OSDRegistry/issues
-RoxygenNote: 7.3.2
 Roxygen: list(markdown = TRUE)
+Config/roxygen2/version: 8.1.0
