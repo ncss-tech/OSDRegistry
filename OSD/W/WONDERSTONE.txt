@@ -1,0 +1,127 @@
+LOCATION WONDERSTONE            CA
+
+Tentative Series
+IRD. RLR-EED-ARP-TMH
+10/2026
+
+WONDERSTONE SERIES
+
+Depth class: Very Deep
+Drainage class: Poorly drained
+Parent material: Lacustrine deposits or alluvium from mixed rock sources
+Geomorphic location: Playas and basin floors
+Slope range: 0 to 1 percent
+Mean annual air temperature: 23 degrees C
+Mean annual precipitation: 77 millimeters
+
+TAXONOMIC CLASS: Fine-loamy, mixed, superactive, hyperthermic Typic Aquisalids
+
+TYPICAL PEDON: Wonderstone silty clay loam on a nearly level playa at an elevation of -72.5 meters. (Colors are for moist soil unless otherwise stated.)
+
+ Cnseg1--0 to 25 centimeters; 60 percent light brownish gray (2.5Y 6/2) and 40 percent gray (2.5Y 5/1); silty clay loam; massive; friable, moderately sticky, moderately plastic, moderately fluid; common fine tubular pores; common medium prominent strong brown (7.5YR 4/6) masses of oxidized iron with clear boundaries; 5 percent nonflat subrounded shell fragments; no sulfurous odor; color change with 3 percent hydrogen peroxide; moderately effervescent (30 percent hydrogen peroxide); slightly effervescent (1 normal hydrochloric acid); moderately alkaline (pH 8.0); clear wavy boundary
+
+ Cnseg2--25 to 68 centimeters; greenish gray (10Y 5/1); silty clay loam; massive; friable, moderately sticky, moderately plastic, slightly fluid; moderate sulfurous odor; slight effervescence (30 percent hydrogen peroxide); slightly effervescent (1 normal hydrochloric acid); moderately alkaline (pH 8.0); clear wavy boundary
+
+ Cnseg3--68 to 92 centimeters; 70 percent dark gray (N 4/), and 30 percent reddish brown (5YR 5/3); loam; massive; very friable, slightly sticky, slightly plastic, slightly fluid; no sulfurous odor; slightly effervescent (30 percent hydrogen peroxide); slightly effervescent (1 normal hydrochloric acid); moderately alkaline (pH 8.3); abrupt wavy boundary
+
+ 2Cnseg4--92 to 200 centimeters; 80 percent dark grayish brown (2.5Y 4/2) and 20 percent very dark greenish gray (10Y 3/1); silty clay loam; massive; friable, very sticky, moderately plastic, moderately fluid; no sulfurous odor; slightly effervescent (30 percent hydrogen peroxide); slightly effervescent (1 normal hydrochloric acid); moderately alkaline (pH 8.1)
+
+TYPE LOCATION: Imperial County, California; on a barren playa 710 meters from the end of Drain Twenty-Two at a heading of 98 degrees, northeast of Barth Road.
+
+USGS quadrangle: Kane Spring, CA
+Latitude: 33.1309680
+Longitude: -115.7659070
+Datum: WGS84 
+Coordinate Source: From hand-held GPS
+
+RANGE IN CHARACTERISTICS:
+Mean annual soil temperature: Greater than 22 to 25 degrees C at a depth of 50 centimeters
+Carbonates: Disseminated carbonates throughout the soil profile 
+Depth to bedrock: Greater than 200 centimeters
+Depth to saturation: Within a depth of 30 centimeters, or is drained
+Electrical conductivity: Typically greater than 30 dS/m throughout
+Sodium adsorption ratio (SAR): 20 to 110 or more
+Reaction: Moderately to strongly alkaline (pH 7.9 to 9.0) throughout
+Sulfurous odor: None to strong throughout
+
+Particle-size control section (weighted average): 
+Sand content--15 to 35 percent
+Clay content--18 to 35 percent
+Shell Fragments: less than 35 percent (by volume)
+
+Cnseg horizons:
+Hue-- 7.5YR or yellower, or is neutral based on oxidation state
+Value--2.5 to 5
+Chroma--1 to 2
+Texture--loam, silt loam, silty clay loam, clay loam, and their shelly analogs; some horizons have lenses of sandy or clayey textures
+
+Cng horizons (where present):
+Hue--10YR or yellower, or neutral based on oxidation state
+Value--2.5 to 5
+Chroma-1 to 3
+Texture--loam, silt loam, silty clay loam, clay loam, and their shelly analogs; some horizons have lenses of sandy or clayey textures
+
+Some pedons have stratified sandy or clayey textures below a depth of 100 centimeters.
+
+COMPETING SERIES: There are no series in the same family.
+
+GEOGRAPHIC SETTING:
+Parent material: Fine-loamy lacustrine deposits or alluvium from mixed sources
+Landform: Playas and basin floors
+Slope: 0 to 1 percent
+Elevation: -80 to -68 meters
+Mean annual precipitation: 31 to 120 millimeters
+Mean January temperature: 13 degrees C
+Mean July temperature: 33 degrees C
+Mean annual air temperature: 21 to 23 degrees C
+Mean annual soil temperature: 22 to 25 degrees C
+Frost-free period: 300 to 355 days
+
+GEOGRAPHICALLY ASSOCIATED SOILS:
+These are the Calipatria, Glenbar, Mundo, Naas, Saltisun, and Salton soils.
+
+Calipatria soils have less than 18 percent clay in the upper part of the particle-size control section, are formed in mixed over smectitic parent material, and occur on adjacent playas.
+Glenbar soils have an aridic soil moisture regime and occur on flood plains and alluvial fans.
+Naas soils have sandy textures in the particle-size control section and occur on adjacent playas and beach ridges.
+Mundo soils are clayey in the lower part of the particle-size control section, have a mixed over smectitic mineralogy class, and occur on adjacent playas.
+Saltisun soils have less than 18 percent clay in the particle-size control section and occur on adjacent playas.
+Salton soils do not have a salic horizon, have less than 15 percent sand coarser than very fine sand in the particle-size control section, and occur on slightly higher positions of the lacustrine basin.
+Slabcity soils have greater than 35 percent clay in the particle-size control section and are on adjacent playas.
+
+DRAINAGE AND SATURATED HYDRAULIC CONDUCTIVITY:
+Drainage class: Poorly drained
+Saturated Hydraulic Conductivity: Moderately low to moderately high
+Flooding frequency and duration: Very rare to occasional, extremely brief
+Ponding: None
+Soil moisture: Saturated at some depth for more than 30 consecutive days within 100 centimeters of the soil surface and is dry in some part of the 10 to 30 centimeters control section for some time in a normal year.
+
+USE AND VEGETATION:
+Major use: Wildlife; energy, mineral, and ecological infrastructure
+Vegetation: Unvegetated, or vegetated with areas of iodinebush, saltcedar, saltbrush, and other salt tolerant plants.
+Ecological Site: Saline Playa
+
+DISTRIBUTION AND EXTENT:
+General area: Playas surrounding the Salton Sea
+Land Resource Region: D - Western Range and Irrigated Region
+Major Land Resource Area: 40 - Sonoran Basin and Range
+Extent: Moderate
+
+SOIL SURVEY REGIONAL OFFICE (SSRO) RESPONSIBLE: Special Projects Office
+
+SERIES PROPOSED: Imperial County, California, 2026
+
+REMARKS:
+Typical pedon taxonomic features:
+Aquic conditions--0 to 200 centimeters
+Endosaturation--0 to 200 centimeters
+Free carbonates--0 to 200 centimeters
+Fluidity--0 to 200 centimeters is slightly to moderately fluid
+Salic horizon--0 to 200 centimeters
+
+Taxonomic version: Keys to Soil Taxonomy, 13th edition (2022)
+
+ADDITIONAL DATA:
+OSD User Pedon ID: 2025CA025010
+
+National Cooperative Soil Survey
+U.S.A.

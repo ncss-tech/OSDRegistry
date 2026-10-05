@@ -1,108 +1,123 @@
-LOCATION MOOSEFLAT              MT 
+LOCATION MOOSEFLAT              MT+ID
 
 Established Series
-Rev. TJK-KTS-RJS
-05/2011
+Rev. TJK-CBR
+10/2026
 
-MOOSEFLAT SERIES 
+MOOSEFLAT SERIES
 
-The Mooseflat series consists of very deep, very poorly drained soils that formed in alluvium.  These soils are on flood plains, stream terraces, drainageways, depressions and mountain bases.  Slopes are 0 to 8 percent.  Mean annual precipitation is about 17 inches, and mean annual air temperature is about 38 degrees F. 
+The Mooseflat series consists of very deep, very poorly drained soils that formed in alluvium.  These soils are on flood plains, stream terraces, drainageways, depressions and mountain bases.  Slopes are 0 to 8 percent.  Mean annual precipitation is about 430 mm, and mean annual air temperature is about 3.3 degrees C. 
 
-TAXONOMIC CLASS: Fine-loamy over sandy or sandy-skeletal, mixed, superactive Typic Cryaquolls 
+TAXONOMIC CLASS: Fine-loamy over sandy or sandy-skeletal, mixed, superactive Typic Cryaquolls
 
 TYPICAL PEDON: Mooseflat loam, in pasture (colors are for moist soil unless otherwise noted). 
 
-    Oe--0 to 2 inches; black (10YR 2/1) moderately decomposed plant material, very dark grayish brown (10YR 3/2) dry; neutral (pH 6.8); clear smooth boundary. (0 to 4 inches thick) 
+    Oe--0 to 5 cm; black (10YR 2/1) moderately decomposed plant material, very dark grayish brown (10YR 3/2) dry; neutral (pH 6.8); clear smooth boundary. 
 
-    A--2 to 10 inches; black (10YR 2/1) loam, gray (10YR 5/1) dry; many fine prominent yellowish brown (10YR 5/6) redox concentrations; moderate medium granular structure; slightly hard, friable, slightly sticky and moderately plastic; many very fine and fine roots; many very fine and fine pores; neutral (pH 7.2); clear smooth boundary. (6 to 15 inches thick) 
+    A--5 to 25 cm; black (10YR 2/1) loam, gray (10YR 5/1) dry; many fine prominent yellowish brown (10YR 5/6) redox concentrations; moderate medium granular structure; slightly hard, friable, slightly sticky and moderately plastic; many very fine and fine roots; many very fine and fine pores; neutral (pH 7.2); clear smooth boundary. 
 
-    Bg--10 to 18 inches; very dark gray (10YR 3/1) silt loam, gray (10YR 5/1) dry; common fine prominent dark yellowish brown (10YR 4/6) redox concentrations; weak thin platy structure; hard, friable, slightly sticky and slightly plastic; many very fine and fine roots; common very fine pores; neutral (pH 6.8); abrupt smooth boundary. (0 to 12 inches thick) 
+    Bg--25 to 46 cm; very dark gray (10YR 3/1) silt loam, gray (10YR 5/1) dry; common fine prominent dark yellowish brown (10YR 4/6) redox concentrations; weak thin platy structure; hard, friable, slightly sticky and slightly plastic; many very fine and fine roots; common very fine pores; neutral (pH 6.8); abrupt smooth boundary. 
 
-    2BCg--18 to 22 inches; dark gray (10YR 4/1) loamy fine sand, light gray (10YR 7/1) dry; common fine distinct yellowish brown (10YR 5/4) redox concentrations; weak medium subangular blocky structure; soft, very friable, nonsticky and nonplastic; few fine roots; 5 percent gravel; neutral (pH 6.8); abrupt smooth boundary. (0 to 6 inches thick) 
+    2BCg--46 to 56 cm; dark gray (10YR 4/1) loamy fine sand, light gray (10YR 7/1) dry; common fine distinct yellowish brown (10YR 5/4) redox concentrations; weak medium subangular blocky structure; soft, very friable, nonsticky and nonplastic; few fine roots; 5 percent gravel; neutral (pH 6.8); abrupt smooth boundary. 
 
-    2Cg--22 to 60 inches; gray (10YR 5/1) extremely cobbly loamy sand, gray (10YR 6/1) dry; single grain; loose, nonsticky and nonplastic; 25 percent gravel and 35 percent cobbles; neutral (pH 7.2). 
+    2Cg--56 to 150 cm; gray (10YR 5/1) extremely cobbly loamy sand, gray (10YR 6/1) dry; single grain; loose, nonsticky and nonplastic; 25 percent gravel and 35 percent cobbles; neutral (pH 7.2). 
 
-TYPE LOCATION: Jefferson County, Montana; 1,600 feet east and 1,700 feet south of the NW corner of sec. 22, T. 6N, R. 6W. 
+TYPE LOCATION: Jefferson County, Montana; 1,600 feet east and 1,700 feet south of the NW corner of sec. 22, T. 6N, R. 6W. [RC-NIFI1.1]
 
 RANGE IN CHARACTERISTICS:
-Soil temperature - 35 to 42 degrees F. 
-Mollic epipedon thickness - 10 to 19 inches
-Depth to lithologic discontinuity - 14 to 26 inches
-Depth to seasonal high water table - 0 to 12 inches during the months of April to June
+Mean annual soil temperature--1.7 to 5.6 degrees C. 
+Thickness of mollic epipedon--25 to 48 cm
+Depth to redoximorphic features--5 to 30 cm
+Depth to seasonal high water table--0 to 30 cm during the months of April to June
+Depth to lithologic discontinuity--36 to 66 cm
 
-Note: Some pedons may have a Bw and/or Cg horizon.
+Particle-size control section (weighted averages)
+Clay content--18 to 27 percent in the upper part, 2 to 10 percent in the lower part
+Total rock fragments--5 to 15 percent in the upper part, 50 to 65 percent in the lower part
+
+Note--some pedons may have a Bw, 2Bw and/or Cg horizon
+
+Oe horizon (when present)
+Thickness--0 to 10 cm
 
 A horizon
-Hue: 10YR, 2.5Y or 5Y; dry or moist
-Value: 4 or 5 dry; 2 or 3 moist 
-Chroma: 1 or 2; dry or moist
-Texture: loam, silty clay loam or silt loam 
-Clay content: 15 to 35 percent 
-Rock fragments: 0 to 10 percent--0 to 5 percent gravel, 0 to 5 percent cobbles
-Reaction: pH 5.6 to 7.3 
+Hue--10YR to 5Y dry or moist
+Value--4 or 5 dry, 2 or 3 moist 
+Chroma--1 or 2 dry or moist
+Texture (less than 2 mm fraction)--loam, silty clay loam, silt loam 
+Clay content--15 to 35 percent 
+Rock fragments--0 to 10 percent--0 to 12 percent gravel, 0 to 5 percent cobbles
+Reaction--pH 5.6 to 7.3 
+Thickness--15 to 38 cm
 
 Bg horizon
-Hue: 10YR, 2.5Y or 5Y; dry or moist
-Value: 4 to 6 dry; 2 to 5 moist 
-Chroma: 1 or 2; dry or moist
-Texture: sandy loam, loam, silt loam or silty clay loam 
-Clay content: 15 to 35 percent 
-Rock fragments: 0 to 20 percent--0 to 15 percent gravel, 0 to 5 percent cobbles
-Reaction: pH 6.1 to 7.8
+Hue--10YR to 5Y dry or moist
+Value--4 to 6 dry, 2 to 5 moist 
+Chroma--1 or 2 dry or moist
+Texture (less than 2 mm fraction)--sandy loam, loam, silt loam or silty clay loam 
+Clay content--15 to 35 percent 
+Rock fragments--0 to 20 percent--0 to 15 percent gravel, 0 to 5 percent cobbles
+Reaction--pH 6.1 to 7.8
+Thickness--0 to 30 cm
 
-2BCg horizon
-Hue: 10YR, 2.5Y or 5Y; dry or moist
-Value: 6 or 7 dry; 4 or 5 moist 
-Chroma: 1 or 2; dry or moist
-Texture: sandy loam, fine sandy loam or loamy fine sand 
-Clay content: 10 to 18 percent 
-Rock fragments: 5 to 20 percent--5 to 15 percent gravel, 0 to 5 percent cobbles
-Reaction: pH 6.1 to 7.8 
+2BCg horizon (when present)
+Hue--10YR, 2.5Y or 5Y; dry or moist
+Value--6 or 7 dry; 4 or 5 moist 
+Chroma--1 or 2; dry or moist
+Texture (less than 2 mm fraction)--sandy loam, fine sandy loam or loamy fine sand 
+Clay content--10 to 18 percent 
+Rock fragments--5 to 20 percent--5 to 15 percent gravel, 0 to 5 percent cobbles
+Reaction--pH 6.1 to 7.8 
+Thickness--0 to 15 cm
 
 2Cg horizon
-Hue: 10YR or 2.5Y; dry or moist
-Value: 5 to 7 dry; 4 to 6 moist
-Chroma: 1 to 3; dry or moist
-Texture: sand, loamy sand, coarse sand or loamy coarse sand 
-Clay content: 0 to 12 percent 
-Rock fragments: 35 to 70 percent--20 to 35 percent gravel, 10 to 50 percent cobbles and stones
-Reaction: pH 5.6 to 7.8
+Hue--10YR or 2.5Y; dry or moist
+Value--5 to 7 dry; 4 to 6 moist
+Chroma--1 to 3; dry or moist
+Texture--sand, loamy sand, coarse sand or loamy coarse sand 
+Clay content--0 to 12 percent 
+Rock fragments--35 to 70 percent--20 to 35 percent gravel, 10 to 50 percent cobbles and stones
+Reaction--pH 5.6 to 7.8
 
 COMPETING SERIES:
-Foxcreek (ID) - have secondary calcium carbonate accumulation
-Walden (CO) - have a calcic horizon 
+Foxcreek (ID)--soils have secondary calcium carbonate accumulation
+Walden (CO)-- soils have a calcic horizon 
 
 GEOGRAPHIC SETTING:
-Landform - flood plains, stream terraces, drainageways, depressions, and mountain bases
-Elevation - 5,200 to 8,000 feet
-Slope - 0 to 8 percent. (Slopes are as high as 50 percent in seeped areas of mountains.)
-Parent material - alluvium
-Climate - long, cold winters; cool moist springs; short, cool summers
-Mean annual precipitation - 14 to 24 inches
-Mean annual air temperature - 34 to 40 degrees F. 
-Frost-free period - 30 to 70 days
+Landform--flood plains, stream terraces, drainageways, depressions, and mountain bases
+Elevation--1,585 to 2,550 meters
+Slope--0 to 8 percent. (Slopes are as high as 50 percent in seeped areas of mountains.)
+Parent material--alluvium
+Climate--long, cold winters; cool moist springs; short, cool summers
+Mean annual precipitation--380 to 1,130 [RC-NIFI2.1]mm
+Mean annual air temperature--0.6 to 4.4 degrees C. 
+Frost-free period--30 to 70 days
+Flooding--none to frequent
 
-GEOGRAPHICALLY ASSOCIATED SOILS: These are the Elvick and Libeg soils. Elvick soils are loamy-skeletal, do not have a mollic epipedon, and are somewhat poorly drained. Libeg soils are loamy-skeletal, have an argillic horizon, and are well drained. These soils are on higher landform positions.
+GEOGRAPHICALLY ASSOCIATED SOILS: None listed.
 
-DRAINAGE AND PERMEABILITY: Very poorly drained; moderate over rapid permeability. 
+DRAINAGE AND SATURATED HYDRAULIC CONDUCTIVITY: Very poorly drained; 5 to 25 um/sec in the upper part and 50 to 200 um/sec in the lower part. 
 
-USE AND VEGETATION: Mooseflat soils are primarily used for rangeland and wildlife habitat.  The potential native vegetation is mainly northern reedgrass, bluejoint reedgrass, American mannagrass, tufted hairgrass, mountain alder, tall sedges and willows. 
+USE AND VEGETATION: Mooseflat soils are primarily used for grazing and wildlife habitat.  The potential native vegetation is mainly northern reedgrass, bluejoint reedgrass, American mannagrass, tufted hairgrass, mountain alder, tall sedges and willows. 
 
-DISTRIBUTION AND EXTENT: Mooseflat soils are of small extent in southwestern Montana. MLRA - 43B, 44B. 
+DISTRIBUTION AND EXTENT: Mooseflat soils are of small extent in southwestern Montana and southeastern Idaho; MLRAs 43B, 44B, 47. 
 
-MLRA SOIL SURVEY REGIONAL OFFICE (MO) RESPONSIBLE: Bozeman, Montana.
+SOIL SURVEY REGIONAL OFFICE (SSRO) RESPONSIBLE: Bozeman, Montana.
 
 SERIES ESTABLISHED: Gallatin County, Montana, 1997; proposed Jefferson County, Montana, 1994. 
 
-REMARKS: Diagnostic horizons and features recognized in this pedon are:
-Mollic epipedon - from 2 to 18 inches (A, Bg horizons)
-Lithologic discontinuity - at 18 inches (2BCg horizon)
-Strongly contrasting particle-size class - between the fine-loamy Bg horizon and the sandy 2BCg horizon
-Particle-size control section - from 12 to 42 inches (part of Bg, BCg, part of 2Cg horizons)
+REMARKS: Diagnostic horizons and features recognized in this pedon:
+Mollic epipedon--5 to 46 cm (A, Bg horizons)
+Lithologic discontinuity--46 cm (2BCg horizon)
+Strongly contrasting particle-size class--between the fine-loamy Bg horizon and the sandy 2BCg horizon
+Redoximorphic concentrations--5 to 56 cm (A, Bg, 2BCg horizons)
+Depleted matrix--25 to 150 cm (Bg, 2BCg, 2Cg horizons)
+
+Particle-size control section--30 to 107 cm (part of Bg, BCg, part of 2Cg horizons)
 
 Mooseflat soils have a cryic temperature regime and an aquic moisture regime. 
 
-ADDITIONAL DATA: Soil interpretive record - MT1521.
+Taxonomic version: Twelfth Edition, 2014
 
 National Cooperative Soil Survey
 U.S.A.

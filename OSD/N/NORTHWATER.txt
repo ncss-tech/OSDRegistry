@@ -1,87 +1,109 @@
-LOCATION NORTHWATER             CO+ID UT
+LOCATION NORTHWATER             CO+ID
 
 Established Series
-Rev. DKA/GB/KLS
-07/2022
+Rev. DKA/KP
+10/2026
 
 NORTHWATER SERIES
 
-The Northwater series consists of deep well drained soils formed in material derived from sedimentary rocks.  Northwater soils are on mountainsides, foot slopes and swales.  Slopes range from 5 to 65 percent.  The mean annual precipitation is about 510 mm and the mean annual air temperature is about 4 degrees C.
+The Northwater series consists of deep, well drained soils formed in colluvium over residuum from sedimentary and metasedimentary rocks. These soils are on mountain slopes, ridges, and valley floors. Slopes are 6 to 80 percent. Mean annual precipitation is about 575 mm, and mean annual temperature is about 4 degrees C.
 
 TAXONOMIC CLASS: Loamy-skeletal, mixed, superactive Pachic Palecryolls
 
-TYPICAL PEDON:  Northwater loam - aspen.  (Colors are for dry soil unless otherwise noted.)
+TYPICAL PEDON: Northwater loam. (Colors are for dry soil unless otherwise noted.)
 
-    Oe--0 to 5 cm; organic material.
+ Oe--0 to 5 cm; moderately decomposed plant material.
 
-    A1--5 to 30 cm; brown (10YR 4/3) loam, very dark grayish brown (10YR 3/2) moist; moderate fine granular structure; soft, very friable, slightly sticky and slightly plastic; many fine and very fine roots; neutral; clear smooth boundary.  (25 to 35 cm thick)
+ A1--5 to 30 cm; brown (10YR 4/3) loam, very dark grayish brown (10YR 3/2) moist; moderate fine granular structure; soft, very friable, slightly sticky and slightly plastic; many fine and very fine roots; neutral; clear smooth boundary.
 
-    A2--30 to 68 cm; dark grayish brown (10YR 4/2) loam, very dark brown (10YR 2/2) moist; moderate fine granular structure; slightly hard, very friable, slightly sticky and slightly plastic; many fine and very fine roots; 10 percent pebbles; neutral; clear wavy boundary.  (25 to 50 cm thick)
+ A2--30 to 69 cm; dark grayish brown (10YR 4/2) loam, very dark brown (10YR 2/2) moist; moderate fine granular structure; slightly hard, very friable, slightly sticky and slightly plastic; many fine and very fine roots; 10 percent gravel; neutral; clear wavy boundary.
 
-    Bt--68 to 127 cm; light brown (7.5YR 6/4) very channery clay loam, brown (7.5YR 4/4) moist; moderate medium subangular blocky structure parting to moderate fine subangular blocks; hard, friable, sticky and plastic; common medium and large roots; common thin clay films and organic coats on faces of peds and along root channels; 50 percent channers, mostly 2.25 to 8 cm in length; neutral; clear wavy boundary.  (50 to 125 cm thick)
+ Bt--69 to 132 cm; light brown (7.5YR 6/4) very channery clay loam, brown (7.5YR 4/4) moist; moderate medium subangular blocky structure parting to moderate fine subangular blocky; hard, friable, sticky and plastic; common medium and coarse roots; common clay films and organic coats on faces of peds and on surfaces along pores; 50 percent channers; neutral; clear wavy boundary.
 
-    R--127 cm; fractured sandstone.
+ R--132 cm; fractured sandstone.
 
-TYPE LOCATION:  Garfield County, Colorado; 122 meters south and 46 meters west of the center of Sec. 12, T. 5 S., R. 96 W.
+TYPE LOCATION: Garfield County, Colorado; 400 feet south and 150 feet west of the center of Sec. 12, T. 5 S., R. 96 W.
 
-RANGE IN CHARACTERISTICS:  
-Mean annual soil temperature--3 to 7 degrees C
-Mean summer soil temperature--less than 8 degrees C
-Depth to bedrock--greater than 100 cm but usually is within 175 cm
-Thickness of mollic epipedon--50 to 135 cm
-Depth to top of argillic horizon--60 cm or more
-Reaction--pH 6.1 to 8.2 and is noncalcareous throughout
+RANGE IN CHARACTERISTICS:
+Mean annual soil temperature--2.0 to 6.4 degrees C
+Thickness of mollic epipedon--51 to 137 cm
+Depth to argillic--30 to 71 cm
+Depth to bedrock--100 to 150 cm
+
+Particle-size control section (weighted averages)
+Clay content--18 to 35 percent
+Total rock fragments--35 to 70 percent
+
+O horizons (when present)
+Texture--slightly or moderately decomposed plant material
+Reaction--pH 4.0 to 5.5
+Organic matter content--60 to 95 percent
+Thickness--0 to 5 cm
 
 A horizon
-Hue--7.5YR through 2.5Y
-Value--4 or 5 dry, 2 or 3 moist
+Hue--7.5 YR to 2.5Y
+Value--4 or 5 dry, 2 or 3 moist 
 Chroma--2 or 3
-Rock fragment content--typically 0 to 15 percent channers or gravels of sandstone lithology, but could range up to 55 percent 
+Texture (less than 2 mm fraction)--loam, silt loam, very fine sandy loam
+Clay content--5 to 27 percent
+Rock fragments--0 to 80 percent-0 to 37 percent gravel or channer, 0 to 35 percent cobbles, 0 to 14 percent stones, 0 to 35 percent boulders
+Reaction--pH 6.1 to 7.8
+Thickness--51 to 89 cm
 
 Bt horizon
-Hue--7.5YR through 2.5Y
-Value--4 through 7 dry, 3 through 5 moist
+Hue--7.5 to 2.5 Y
+Value--4 to 7 dry, 3 through 5 moist
 Chroma--3 or 4
-Texture--silt loam, loam, sandy clay loam, or clay loam
-Clay content--averages more than 18 percent
-Rock fragment content--35 to 65 percent; mostly channers 2 to 8 cm in length but can range up to to 60 cm in length. Some sandstone fragments are rounded to stone size.
+Texture (less than 2 mm fraction)--loam, clay loam, sandy clay loam
+Clay content--10 to 35 percent
+Rock fragments--35 to 85 percent-0 to 60 percent gravel or channers, 0 to 60 percent cobbles, 5 to 30 percent stones, 0 to 35 percent boulders
+Reaction--pH 6.1 to 7.8
+Thickness--51 to 127 cm
 
-The C horizon
-Hue--7.5YR through 2.5Y 
-Rock fragment content--up to 85 percent
+C horizon (when present)
+Hue--7.5 to 2.5Y
+Clay content--12 to 20 percent
+Rock fragments--35 to 60 percent-4 to 11 percent gravel, 20 to 30 percent cobbles, 8 to 15 percent boulders
+Reaction--pH 6.1 to 7.3
 
-COMPETING SERIES:  These are the Charcol and Flygare series, both of which have E horizons.
+
+COMPETING SERIES:
+Charcol (UT)--have argillic horizons that start 102 to 152 cm below the surface
+Flygare (UT)--are very deep to bedrock
+Parvis (ID)--are very deep to bedrock
+Rapid (ID)--are very deep to bedrock
 
 GEOGRAPHIC SETTING:
-Landform--mountain slopes, foot slopes, and swales on north-northeast aspects where prevailing winds deposit snow in the winter
-Elevation--2350 to 3000 meters, but ranges down to 1800 meters in Idaho
-Slopes--5 to 65 percent
-Parent material--residuum and colluvium derived from sedimentary rocks
-Mean annual precipitation--460 to 760 mm, of which the greater percentage comes as snow
-Mean annual air temperature--2 to 6 degrees C
-Frost-free period--less than 75 days
+Landform--mountain slopes, ridgesand valley floors
+Elevation--1,620 to 3,410 meters
+Slope--6 to 80 percent
+Parent material--colluvium over residuum from sedimentary and metasedimentary rocks
+Mean annual precipitation--400 to 875 mm
+Mean annual air temperature--1.1 to 5.6 degrees C
+Frost-free period--30 to 80 days
 
-GEOGRAPHICALLY ASSOCIATED SOILS:  None listed
+GEOGRAPHICALLY ASSOCIATED SOILS: None listed.
 
-DRAINAGE AND PERMEABILITY:  Well drained; medium runoff; moderate permeability.
+DRAINAGE AND SATURATED HYDRAULIC CONDUCTIVITY: Well drained, 1.5 to 15.0 um/sec
 
-USE AND VEGETATION:  These soils are used for recreation, wildlife habitat, and limited livestock grazing.  Native vegetation consists mainly of aspen with an understory of snowberry, serviceberry, chokecherry, Oregon grape, aspen, peavine, columbine, mountain brome, and bluegrass.
+USE AND VEGETATION: Northwater soils are primarily used for recreation, wildlife habitat, and limited livestock grazing. The potential native vegetation is snowberry, Columbia needlegrass, nodding brome, elk sedge, slender wheatgrass and Thurber's fescue.
 
-DISTRIBUTION AND EXTENT:  The Northwater series is moderately extensive in the mountain areas of western Colorado, southeastern Idaho, and central Utah; MLRAs 47, 48A
+DISTRIBUTION AND EXTENT: Northwater soils are of moderate extent in Colorado and southeastern Idaho; MLRAs 13, 47, and 48A.
 
 SOIL SURVEY REGIONAL OFFICE (SSRO) RESPONSIBLE: Bozeman, Montana
 
-SERIES ESTABLISHED:  Paonia Area, Colorado, 1976
+SERIES ESTABLISHED: Paonia Area, Colorado, 1976.
 
-REMARKS:  Diagnostic horizons and features recognized in this pedon are:
-Mollic epipedon--5 to 68 cm (A1 and A2 horizons)
-Argillic horizon--68 to 127 cm (Bt horizon)
-Lithic contact--127 cm (R horizon)
-Pale feature--more than 60 cm from mineral surface
+REMARKS: Diagnostic horizons and features recognized in this pedon:
+Mollic epipedon--0 to 69 cm (A1 and A2 horizons)
+Argillic horizon--69 to 132 cm (Bt horizon)
+Lithic contact--132 cm (R horizon)
 
-Particle-size control section--68 to 118 (part of the Bt horizon)
+Particle-size control section--69 to 119 cm
 
-Converted to metric, updated formatting, O horizons were updated to start at zero. 7/2022
+Northwater soils have a cryic temperature regime and an udic moisture regime.
+
+Taxonomic version: Twelfth Edition, 2014
 
 National Cooperative Soil Survey
 U.S.A.

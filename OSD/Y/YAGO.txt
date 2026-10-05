@@ -1,79 +1,111 @@
 LOCATION YAGO                   ID
 
 Established Series
-Rev. JDG/CLM
-02/97
+Rev. JDG/CBR
+10/2026
 
 YAGO SERIES
 
-Yago series consists of very deep, well drained soils on mountain slopes and fan terraces.  They formed in mixed alluvium and colluvium derived dominantly from quartzite and sandstone.  Permeability is slow.  Slopes range from 4 to 40 percent.  Average annual precipitation is about 20 inches, and the average annual temperature is about 42 degrees F.
+Yago series consists of very deep, well drained soils formed in colluvium, slope alluvium, and alluvium derived from tuff, quartzite, sedimentary, metasedimentary, or lacustrine deposits.  These soils are on mountain slopes fan remnants, hillslopes, and eroded fan remnants.  Slopes are 4 to 60 percent.  Mean annual precipitation is about 500 mm, and mean annual air temperature is about 5.6 degrees C.
 
 TAXONOMIC CLASS: Clayey-skeletal, smectitic, frigid Typic Argixerolls
 
-TYPICAL PEDON:  Yago extremely stony silty clay loam - on a mountain slope at 6,000 feet elevation. (Colors are for air-dry soil unless otherwise noted.)
+TYPICAL PEDON:  Yago extremely stony silty clay loam. (Colors are for dry soil unless otherwise noted.)
 
-    A--0 to 10 inches; dark grayish brown (10YR 4/2) extremely stony silty clay loam, very dark grayish brown (10YR 3/2) moist; moderate medium and fine subangular blocky structure; hard, firm, sticky and plastic; common very fine, fine, and medium roots, and few coarse roots; many very fine irregular pores along the faces of peds and common very fine and fine tubular pores; about 10 percent gravel, 30 percent cobbles, and 20 percent stones; slightly acid (pH 6.5); abrupt irregular boundary.  (8 to 14 inches thick)
+    A--0 to 25 cm; dark grayish brown (10YR 4/2) extremely stony silty clay loam, very dark grayish brown (10YR 3/2) moist; moderate medium and fine subangular blocky structure; hard, firm, sticky and plastic; common very fine, fine, and medium roots, and few coarse roots; many very fine irregular pores along the faces of peds and common very fine and fine tubular pores; about 10 percent gravel, 30 percent cobbles, and 20 percent stones; slightly acid (pH 6.5); abrupt irregular boundary.  
 
-    Bt1--10 to 16 inches; brown (7.5YR 5/4) very stony clay loam, dark brown (7.5YR 4/4) moist; moderate medium and fine angular blocky structure; very hard, very firm, very sticky and very plastic; common very fine and fine roots; common very fine irregular pores along the faces of peds and common very fine and fine tubular pores; few thin clay films on the faces of peds and in pores; about 10 percent gravel, 30 percent cobbles, and 20 percent stones; slightly acid (pH 6.5); gradual irregular boundary.  (4 to 8 inches thick)
+    Bt1--25 to 40 cm; brown (7.5YR 5/4) very stony clay loam, brown (7.5YR 4/4) moist; moderate medium and fine angular blocky structure; very hard, very firm, very sticky and very plastic; common very fine and fine roots; common very fine irregular pores along the faces of peds and common very fine and fine tubular pores; few clay films on the faces of peds and in pores; about 10 percent gravel, 30 percent cobbles, and 20 percent stones; slightly acid (pH 6.5); gradual irregular boundary.
 
-    Bt2--16 to 37 inches; brown (7.5YR 5/4) very stony clay loam, dark brown (7.5YR 4/4) moist; moderate coarse and medium angular blocky structure; extremely hard, very firm, very sticky and very plastic; common very fine and few fine roots; common very fine irregular pores along faces of peds and few very fine tubular pores; many moderately thick clay films on faces of peds and in pores; about 10 percent gravel, 30 percent cobbles, and 20 percent stones; neutral (pH 6.7); abrupt irregular boundary.  (17 to 25 inches thick)
+    Bt2--40 to 94 cm; brown (7.5YR 5/4) very stony clay loam, dark brown (7.5YR 4/4) moist; moderate coarse and medium angular blocky structure; extremely hard, very firm, very sticky and very plastic; common very fine and few fine roots; common very fine irregular pores along faces of peds and few very fine tubular pores; many clay films on faces of peds and in pores; about 10 percent gravel, 30 percent cobbles, and 20 percent stones; neutral (pH 6.7); abrupt irregular boundary.
 
-    Btk1--37 to 45 inches; light brown (7.5YR 6/4) very stony clay loam, brown (7.5YR 5/4) moist; moderate coarse and medium angular blocky structure; extremely hard, very firm, very sticky and very plastic; common very fine roots; common very fine irregular pores along faces of peds; common moderately thick clay films on faces of peds and in pores; about 10 percent gravel, 30 percent cobbles, and 20 percent stones; common thin coats of calcium carbonate on faces of peds; neutral (pH 7.2); clear wavy boundary.  (6 to 10 inches thick)
+    Btk--94 to 114 cm; light brown (7.5YR 6/4) very stony clay loam, brown (7.5YR 5/4) moist; moderate coarse and medium angular blocky structure; extremely hard, very firm, very sticky and very plastic; common very fine roots; common very fine irregular pores along faces of peds; common clay films on faces of peds and in surfaces along pores; about 10 percent gravel, 30 percent cobbles, and 20 percent stones; common calcium carbonate coats on faces of peds; neutral (pH 7.2); clear wavy boundary.
 
-    Bkc--45 to 60 inches; reddish yellow (7.5YR 6/6) very stony silty clay loam, strong brown (7.5YR 5/6) moist; massive; slightly hard, friable, sticky and slightly plastic; few very fine and fine roots; few very fine tubular pores; about 10 percent gravel, 30 percent cobbles, and 20 percent stones; many fine rounded iron and manganese concretions; strongly effervescent; mildly alkaline (pH 7.4).
+    Bkc--114 to 150 cm; reddish yellow (7.5YR 6/6) very stony silty clay loam, strong brown (7.5YR 5/6) moist; massive; slightly hard, friable, sticky and slightly plastic; few very fine and fine roots; few very fine tubular pores; about 10 percent gravel, 30 percent cobbles, and 20 percent stones; many fine rounded iron and manganese concretions; strongly effervescent; slightly alkaline (pH 7.4).
 
-TYPE LOCATION:  Bannock County, Idaho; about 3 miles northeast of Lava Hot Springs; 860 feet south and 900 feet west of the northeast corner of section 24, T. 9 S., R. 38 E.
+TYPE LOCATION:  Bannock County, Idaho; USGS Flatiron Hill topographic quadrangle; latitude 42.672649 degrees north, longitude 112.539304 degrees west; datum WGS84.
 
 RANGE IN CHARACTERISTICS:
+Mean annual soil temperature--5.6 to 7.2 degrees C.Thickness of mollic epipedon--25 to 50 cm
 
-Thickness of mollic epipedon - 10 to 20 inches
-Average annual soil temperature - 42 to 45 degrees F.
-Depth to lime - 36 to more than 60 inches
-Clay content in the control section - 35 to 50 percent
-Rock fragment content in the control section - 40 to 60 percent
+Depth to calcium carbonate--91 to greater than 150 cm
+
+Particle-size control section (weighted averages)
+Clay content in the control section--35 to 50 percent
+Total rock fragment--40 to 60 percent
 
 A horizon
-Color hue - 10YR or 7.5YR
-Value, dry - 3 through 5
-Value, moist - 2 or 3
-Chroma, moist or dry - 2 or 3
-Reaction - moderatey acid to neutral
+Color hue--10YR or 7.5YR
+Value--3 to 5 dry, 2 or 3 moist
+Chroma--2 or 3
+Clay content--27 to 35 percent
+Rock fragments--35 to 70 percent - 2 to 15 percent gravel, 6 to 40 percent cobbles, 6 to 25 percent stones
+Reaction--5.6 to 7.3
+Thickness--20 to 36 cm
 
 Bt and Btk horizons
-Color hue - 5YR or 7.5YR
-Value, dry - 4 through 6
-Value, moist - 4 or 5
-Chroma, moist or dry - 4 through 6
-Clay content - 35 to 50
-Rock fragments - 40 to 60 percent
-Reaction - slightly acid or neutral
-Texture - STV-CL, STV-SICL, STV-C, CBV-CL, CBV-SICL
+Hue--5YR or 7.5YR
+Value--4 to 6 dry, 4 or 5 moist
+Chroma--4 to 6
+Texture (less than 2 mm fraction)--clay loam, silty clay loam, clay
+Clay content--27 to 50
+Rock fragments--35 to 70 percent - 2 to 15 percent gravel, 9 to 40 percent cobble, 0 to 33 percent stones
+Reaction--6.1 to 7.8
+ Thickness--69 to 110 cm 
 
 Bkc horizon
-Color hue - 5YR through 10YR
-Value, dry - 5 or 6
-Value, moist - 4 or 5
-Chroma, moist or dry - 4 through 6
-Clay content - 23 through 34 percent
-Rock fragments - 40 to 60
-Reaction - neutral or mildly alkaline
-Texture - STV-SIL, STV-SICL, CBV-SICL, CBV-SIL
+Hue--5YR to 10YR
+Value--5 or 6 dry, 4 or 5 moist
+Chroma--4 to 6
+Texture (less than 2 mm fraction)--silty clay loam, silt loam
+Clay content--23 to 34
+Rock fragments--45 to 70 percent - 5 to 10 percent gravel, 25 to 35 percent cobble, 15 to 25 percent stones
+Reaction--7.4 to 7.8
 
-COMPETING SERIES:  These are the Birchcreek, Derringer, Droem (T), Erakatak, Leevan, McIvey, Ravenswood, Roosercomb, Sharesnout, Threek, and Yeates Hollow series.  Birchcreek, Droem, Erakatak, Leevan, Ravenswood, Roostercomb, and Sharesnout series are moderately deep.  Derringer soils are moderately deep to a paralithic contact.  McIvey and Yeates Hollow soils lack accumulations of carbonates.  Threek soils have accumulations of silica below the argillic and have a lithologic discontinuity.
+COMPETING SERIES:  
+Birchcreek (ID)--soils are moderately deep to lithic contact
+Derringer (OR)--soils are moderately deep to paralithic contact
+Droem (T)(ID)--soils are moderately deep to lithic contact
+Leevan (NV)--soils are moderately deep to lithic contact
+Mcivey (NV)--soils do not have secondary calcium carbonates
+Netti (NV)--soils do not have secondary calcium carbonates
+Ravenswood (NV)--soils are moderately deep to lithic contact
+Roostercomb (OR)--soils are moderately deep to lithic contact
+Sharesnout (ID)--soils are moderately deep to lithic contact
+Threek (ID)--soils have silica accumulations below the argillic horizon and have a lithologic discontinuity
+Tickville (UT)--soils are moderately deep to lithic contact
+Yeates Hollow (NV)--soils are deep to paralithic contact
 
-GEOGRAPHIC SETTING:  Yago soils are on mountain slopes and fan terraces and have slopes of 4 to 40 percent.  These soils formed in mixed alluvium and colluvium derived dominantly from quartzite and sandstone.  Average annual precipitation is 16 to 22 inches.  Average annual temperature is 40 to 44 degrees F.  Frost-free season is 65 to 80 days.  Elevation ranges from 5,600 to 7,000 feet.
+GEOGRAPHIC SETTING:  
+Landform--mountain slopes fan remnants, hillslopes, eroded fan remnants
+Elevation--1,460_to 2,200 meters
+Slope--4 to 60 percent
+Parent material--colluvium, slope alluvium, and alluvium derived from tuff, quartzite, sedimentary, metasedimentary, or lacustrine deposits
+Climate--long, cold winters; cool, moist springs; short, warm summers 
+Mean annual precipitation--360 to 820 mm
+Mean annual air temperature--2.2 to 7.2 degrees C
+Frost-free period--60 to 100 days
 
-GEOGRAPHICALLY ASSOCIATED SOILS:  These are the Bancroft, Broadhead, Camelback (T), Hades, Manila, and Valmar (T) soils.  Bancroft soils are fine-silty and are on level to gently sloping broad fan terraces.  Broadhead soils are pachic and are generally on north and east-facing concave toeslopes and fan terraces in landscape positions similar to Yago.  Camelback soils are pachic and are on north and east-facing convex slopes.  Hades soils are fine-loamy and pachic and are in mound areas with Yago soils in intermound areas of patterned ground.  Manila soils have less than 35 percent rock fragments and are generally on south and west-facing slopes in slightly concave positions where associated with Yago.  Valmar soils are loamy-skeletal and are on the upper part of slightly convex slopes and on ridgetops.
+GEOGRAPHICALLY ASSOCIATED SOILS:  None listed.
 
-DRAINAGE AND PERMEABILITY:  Well drained; slow to very rapid runoff; slow permeability.
+DRAINAGE AND SATURATED HYDRAULIC CONDUCTIVITY:  Well drained; 0.5 to 15.0 um/sec.
 
-USE AND VEGETATION:  These soils are mostly used as rangeland.  Vegetation is mainly mountain big sagebrush, antelope bitterbrush, western snowberry, serviceberry, bluebunch wheatgrass, slender wheatgrass, bluegrass, and mulesear wyethia.
-
-DISTRIBUTION AND EXTENT:  Southeastern Idaho.  The series is not extensive.
-
-MLRA SOIL SURVEY REGIONAL OFFICE (MO) RESPONSIBLE: Portland, Oregon
+USE AND VEGETATION:  Yago soils are primarily used for grazing.  Potential native vegetation is mountain big sagebrush, antelope bitterbrush, western snowberry, serviceberry, bluebunch wheatgrass, slender wheatgrass, and bluegrass
+DISTRIBUTION AND EXTENT: Yago soils are of moderate extent in southeastern Idaho; MLRAs 13, 43B, and 47. 
+SOIL SURVEY REGIONAL OFFICE (SSRO) RESPONSIBLE: Bozeman, Montana
 
 SERIES ESTABLISHED:  Bannock County, Idaho, 1983.
+
+REMARKS: Diagnostic horizons and features recognized in this pedon:
+Mollic epipedon--0 to 25 cm (A_horizon)	
+Argillic horizon--25 to 114 cm (Bt1, Bt2, Btk horizons)
+Secondary calcium carbonate accumulation--94 to 150 cm (Btk and Btc horizons)
+Iron and Manganese concretions--114 to 150 cm (Btc horizon)
+
+Particle-size control section--25 to 75 cm
+
+Yago soils have a frigid temperature regime and a xeric moisture regime.
+
+Taxonomic version: Twelfth Edition, 2014
 
 National Cooperative Soil Survey
 U.S.A.

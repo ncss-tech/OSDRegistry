@@ -1,0 +1,105 @@
+LOCATION NOSUN                  ID
+
+Established Series
+EST: BAG-DJP
+09/2026
+
+NOSUN SERIES
+
+The Nosun series consists of very deep, poorly drained soils formed in alluvium. These soils are on stream terraces. Slopes are 0 to 2 percent. Mean annual precipitation is about 300 mm, and mean annual temperature is about 8 degrees C.
+
+TAXONOMIC CLASS: Mixed, mesic Mollic Psammaquents
+
+TYPICAL PEDON:  Nosun loamy sand in cropland. (Colors are for moist soil unless otherwise noted).
+
+    Ag1--0 to 10 cm; dark olive gray (5Y 3/2) loamy sand, olive gray (5Y 4/2) dry; weak thin platy structure; soft, very friable, nonsticky and nonplastic; many very fine and few fine and medium roots; common very fine irregular and tubular pores; slightly alkaline (pH 7.6); abrupt smooth boundary.
+
+    Ag2--10 to 36 cm; dark olive gray (5Y 3/2) loamy sand, olive gray (5Y 4/2) dry; weak medium subangular blocky structure; soft, very friable, nonsticky and nonplastic; common very fine, fine, and medium roots; many very fine irregular and common very fine tubular pores; slightly alkaline (pH 7.6); clear smooth boundary.
+
+    Cg1--36 to 51 cm; olive gray (5Y 4/2) and dark greenish gray (5G 4/1) loamy sand, light olive gray (5Y 6/2) and greenish gray (5G 5/1) dry; single grain; loose, nonsticky and nonplastic; common very fine and few fine and medium roots; many very fine irregular pores; slightly alkaline (pH 7.4); clear smooth boundary.
+
+    Cg2--51 to 76 cm; olive gray (5Y 4/2) and dark greenish gray (5G 4/1) sand, light olive gray (5Y 6/2) and greenish gray (5G 5/1) dry; single grain; loose, nonsticky and nonplastic; few very fine roots; many very fine irregular pores; moderately alkaline (pH 7.9) clear smooth boundary.
+
+    C--76 to 150 cm; olive (5Y 5/3) coarse sand, pale yellow (5Y 7/3) dry; single grain; loose; many very fine irregular pores; 10 percent very fine dark yellowish brown (10YR 4/4) masses of oxidized iron in matrix; 5 percent calcium carbonate masses around sand grains; violently effervescent; moderately alkaline (pH 8.2).
+
+TYPE LOCATION:  Bingham County, Idaho; USGS topographic quadrangle Fort Hall; latitude 43.0313065 degrees north, longitude 112.4751504 degrees west, datum WGS84.
+
+RANGE IN CHARACTERISTICS:
+Mean annual soil temperature--9 to 10 degrees C
+Depth to redoximorphic features (iron concentrations/depletions)--25 to 50 cm
+Depth to high water table--25 to 50 cm
+Depth to calcium carbonates--75 to 100 cm
+
+
+Particle-size control section (weighted averages)
+Clay content--0 to 10 percent
+Rock fragments--0 to 5 percent
+
+A horizons
+Hue--2.5Y, 5Y, or 5GY
+Value--3 to 5 dry, 2.5 or 3 moist
+Chroma--1 or 3 dry or moist
+Rock fragments--0 to 5 percent gravel
+Reaction--pH 7.2 to 7.8
+Thickness--25 to 60 cm
+
+Cg horizons
+Hue--2.5Y, 5Y, 5GY, or 5G
+Value--6 or 7 dry, 4 or 5 moist
+Chroma--1 or 2 dry or moist
+Texture (less than 2 mm fraction)--sand, loamy sand
+Rock fragments--0 to 5 percent gravel
+Reaction--pH 7.2 to 8.2
+Thickness--35 to 65 cm
+
+C horizon
+Hue--2.5Y, 5Y, 5GY, or 5G
+Value--6 or 7 dry, 4 or 5 moist
+Chroma--1 to 3 dry or moist
+Texture (less than 2 mm fraction)--sand, coarse sand
+Rock fragments--0 to 5 percent gravel
+Calcium carbonate equivalent-- 5 to 25 percent
+Reaction--pH 7.4 to 8.4
+
+COMPETING SERIES:
+Glendora--soils have an irregular decrease in organic carbon
+Kanza--soils have mean annual soil temperature greater than 10 degrees C
+Kingsville---soils have mean annual soil temperature greater than 10 degrees C
+Marlake---soils have mean annual soil temperature greater than 10 degrees C
+Pay--soils do not have Cg horizons
+Plev--soils have mean annual air temperature greater than 10 degrees C
+Tovico--soils have carbonates less than 38 cm from surface
+Vestaburg--soils have rock fragments greater than 10 percent in particle-size control section
+
+GEOGRAPHIC SETTING:
+Landform--stream terraces
+Elevation--1,340 to 1,372 meters
+Slope--0 to 2 percent
+Parent material--alluvium
+Mean annual precipitation--250 to 300 mm
+Mean annual air temperature--7 to 8 degrees C
+Frost-free period--100 to 120 days
+
+GEOGRAPHICALLY ASSOCIATED SOILS: None listed.
+
+DRAINAGE AND SATURATED HYDRAULIC CONDUCTIVITY: Poorly drained, 50 to 150 um/sec in the upper part and 150 to 700 um/sec in the lower part.
+
+USE AND VEGETATION: Nosun soils are primarily used for irrigated cropland. Potential native vegetation is willows, riparian grasses, sedges, and rushes.
+
+DISTRIBUTION AND EXTENT: Nosun soils are of small extent in southeast Idaho.  MLRA 11
+
+SOIL SURVEY REGIONAL OFFICE (SSRO) RESPONSIBLE: Bozeman, Montana
+
+SERIES PROPOSED: Bingham County, Idaho, 2022. Nosun series is coined.
+
+REMARKS:  Diagnostic horizons and other features:
+
+Ochric epipedon0 to 36 cm (Ag1 and Ag2 horizons)
+
+Particle-size control section--25 to 100 cm
+
+Nosun soils have a mesic temperature regime and an aquic moisture regime. 
+
+
+National Cooperative Soil Survey
+U.S.A.

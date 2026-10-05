@@ -1,87 +1,101 @@
-LOCATION CEDARHILL              ID
+LOCATION CEDARHILL              ID+UT
 
 Established Series
-Rev. CLM/RG/CLM
-05/2003
+Rev. CLM/FRK/KP
+10/2026
 
 CEDARHILL SERIES
 
-The Cedarhill series consists of very deep, well drained soils on mountain slopes and ridges, foothills, and terraces.  They formed in alluvium and colluvium derived from limestone and related sedimentary and metasedimentary rocks.  Permeability is moderate. Slopes range from 4 to 60 percent.  The mean annual precipitation is 15 inches and the mean annual temperature is 44 degrees F.
+The Cedarhill series consists of very deep, well drained soils that formed in loess influenced alluvium, slope alluvium, and colluvium derived from limestone and related sedimentary and metasedimentary rocks. These soils are on ridges, hillslopes, mountain slopes, fan remnants, escarpments, and loess influenced valley sides. Slopes are 2 to 80 percent. Mean annual precipitation is about 480 mm, and mean annual air temperature is about 5 degrees C.
 
 TAXONOMIC CLASS: Loamy-skeletal, mixed, superactive, frigid Typic Calcixerolls
 
-TYPICAL PEDON:  Cedarhill very cobbly silt loam - on a 32 percent south slope in rangeland at 5,000 feet elevation.  (Colors are for air dry soil unless otherwise stated.  When described on June 8, 1978, the soil was dry to 4 inches and moist below.)
+TYPICAL PEDON: Cedarhill very cobbly silt loam in rangeland. (Colors are for dry soil unless otherwise noted.)
 
-    A--0 to 4 inches; brown (10YR 5/3) very cobbly silt loam, very dark grayish brown (10YR 3/2) moist; weak coarse and medium subangular blocky structure parting to weak fine granular; soft, very friable, slightly sticky and slightly plastic; many very fine and fine, common medium, and few coarse roots; many very fine irregular pores; about 5 percent stones, 20 percent cobbles, and 15 percent gravel; slightly effervescent; slightly alkaline (pH 7.7); clear smooth boundary.  (2 to 7 inches thick)
+ A1--0 to 10 cm; brown (10YR 5/3) very cobbly silt loam, very dark grayish brown (10YR 3/2) moist; weak coarse and medium subangular blocky structure parting to weak fine granular; soft, very friable, slightly sticky and slightly plastic; many very fine and fine, common medium, and few coarse roots; many very fine irregular pores; 15 percent gravel, 20 percent cobbles, and 5 percent stones; finely disseminated calcium carbonate; slightly effervescent; slightly alkaline (pH 7.7); clear smooth boundary.
 
-    ABk--4 to 9 inches; brown (10YR 5/3) very cobbly silt loam, dark brown (10YR 3/3) moist; weak medium subangular blocky structure parting to weak fine granular; soft, very friable, slightly sticky and slightly plastic; many very fine and fine, common medium, and few coarse roots; many very fine irregular pores; about 5 percent stones, 20 percent cobbles, and 5 percent gravel; strongly effervescent; slightly alkaline (pH 7.7); clear wavy boundary.  (3 to 7 inches thick)
+ A2--10 to 23 cm; brown (10YR 5/3) very cobbly silt loam, dark brown (10YR 3/3) moist; weak medium subangular blocky structure parting to weak fine granular; soft, very friable, slightly sticky and slightly plastic; many very fine and fine, common medium, and few coarse roots; many very fine irregular pores; 15 percent gravel, 20 percent cobbles, and 5 percent stones; finely disseminated calcium carbonate; strongly effervescent; slightly alkaline (pH 7.7); clear wavy boundary.
 
-    Bk1--9 to 16 inches; very pale brown (10YR 7/3) very cobbly silt loam, light yellowish brown (10YR 6/4) moist; weak coarse subangular blocky structure; hard, firm, slightly sticky and slightly plastic; many very fine and fine, common medium, and few coarse roots; many very fine tubular pores; about 5 percent stones, 20 percent cobbles, and 15 percent gravel; violently effervescent; slightly alkaline (pH 7.8); gradual wavy boundary.  (5 to 15 inches thick)
+ Bk1--23 to 41 cm; very pale brown (10YR 7/3) very cobbly silt loam, light yellowish brown (10YR 6/4) moist; weak coarse subangular blocky structure; hard, firm, slightly sticky and slightly plastic; many very fine and fine, common medium, and few coarse roots; many very fine tubular pores; 15 percent gravel, 20 percent cobbles, and 5 percent stones; calcium carbonate masses in matrix; violently effervescent; moderately alkaline (pH 8.0); gradual wavy boundary.
 
-    Bk2--16 to 28 inches; light yellowish brown (10YR 6/4) very cobbly silt loam, dark yellowish brown (10YR 4/4) moist; weak coarse subangular blocky structure; hard, firm, slightly sticky and slightly plastic; common very fine and fine and few medium and coarse roots; many very fine tubular pores; about 5 percent stones, 20 percent cobbles, and 20 percent gravel; violently effervescent; slightly alkaline (pH 7.8); gradual wavy boundary.  (10 to 20 inches thick)
+ Bk2--41 to 71 cm; light yellowish brown (10YR 6/4) very cobbly silt loam, dark yellowish brown (10YR 4/4) moist; weak coarse subangular blocky structure; hard, firm, slightly sticky and slightly plastic; common very fine and fine and few medium and coarse roots; many very fine tubular pores; 20 percent gravel, 20 percent cobbles, and 5 percent stones; calcium carbonate masses in matrix; violently effervescent; moderately alkaline (pH 8.1); gradual wavy boundary.
 
-    C--28 to 60 inches; light yellowish brown (10YR 6/4) very cobbly loam, dark yellowish brown (10YR 4/4) moist; massive; hard, firm, slightly sticky and slightly plastic; few very fine, fine and medium roots; many very fine tubular pores; about 5 percent stones, 20 percent cobbles, and 20 percent gravel; slightly effervescent; moderately alkaline (pH 7.9).
+ C--71 to 150 cm; light yellowish brown (10YR 6/4) very cobbly loam, dark yellowish brown (10YR 4/4) moist; massive; hard, firm, slightly sticky and slightly plastic; few very fine, fine and medium roots; many very fine tubular pores; 20 percent gravel, 20 percent cobbles, and 5 percent stones; slightly effervescent; moderately alkaline (pH 7.9).
 
-TYPE LOCATION:  Bannock County, Idaho; about 4 miles south of Pocatello; 1,750 feet north and 250 feet east of the southwest corner, sec. 20, T.  7 S., R. 35 E.
+TYPE LOCATION: Bannock County, Idaho; Pocatello South, Idaho USGS quadrangle; 42.79499 degrees north latitude, 112.39860 degrees west longitude, datum WGS84.
 
 RANGE IN CHARACTERISTICS:
+Mean annual soil temperature--3.0 to 8.3 degrees C
+Thickness of mollic epipedon--18 to 33 cm
+Depth to calcic horizon--18 to 33 cm
 
-Average annual soil temperature - 43 to 47 degrees F 
-Thickness of mollic epipedon - 7 to 13 inches
-Depth to calcic horizon - 7 to 13 inches
+Particle-size control section (weighted averages)
+Clay content--8 to 17 percent
+Total rock fragments--40 to 70 percent
 
-Particle-size control section
-Clay content - 8 to 17 percent
-Rock fragments - 40 to 70 percent
+A or Ap horizons
+Value--4 or 5 dry, 2 or 3 moist
+Chroma--2 or 3
+Clay content--8 to 27 percent
+Rock fragments--15 to 50 percent-6 to 34 percent gravel, 0 to 28 percent cobbles, 0 to 6 percent stones
+Reaction--pH 7.4 to 8.4
+Thickness--18 to 33 cm
 
-A horizon
-Color value, dry - 4 or 5
-Value, moist - 2 or 3
-Chroma, dry or moist - 2 or 3
-Reaction - neutral to moderately alkaline
-
-Bk horizon
-Color value, dry -5 through 8
-Value, moist - 3 through 8
-Chroma, dry - 1 through 4
-Chroma, moist - 2 through 4
-Reaction - slightly alkaline or moderately alkaline
-Calcium carbonate content - 15 to 35 percent
-Texture - CBV-SIL, CBX-SIL, GRV-SIL, GRX-SIL, GRV-L, GRX-L, GR-L, CBX-L 
-Rock fragments - 30 to 70 percent
+Bk horizons
+Value--6 to 8 dry, 3 to 8 moist
+Chroma--1 to 4 dry, 2 to 4 moist
+Calcium carbonate content--15 to 35 percent
+Texture (less than 2 mm fraction)--loam, silt loam
+Clay content--7 to 24
+Rock fragments--15 to 85 percent-4 to 55 percent gravel, 0 to 55 percent cobbles, 0 to 15 percent stones
+Reaction--pH 7.8 to 8.4
+Thickness--38 to 88 cm
 
 C horizon
-Color value, dry - 6 through 8
-Value, moist - 4 through 6
-Chroma, dry - 2 through 4
-Chroma, moist - 3 or 4
-Reaction - slightly alkaline or moderately alkaline
-Texture - CBV-SIL, CBX-SIL,CBV-L, GRX-L, GRX-SIL, GRV-SIL, CBX-L, GRV-L 
-Rock fragments - 45 to 90 percent
+Value--6 to 8 dry, 4 to 6 moist
+Chroma--2 to 4 dry, 3 or 4 moist
+Texture (less than 2 mm fraction)--loam, silt loam
+Clay content--8 to 17 percent
+Rock fragments--38 to 85 percent-4 to 55 percent gravel, 5 to 37 percent cobble, 0 to 20 percent stones
+Reaction--pH 7.7 to 8.4
 
-COMPETING SERIES:  These are the Bezzant, Dennot, Georgecanyon (T) and Pyrenees (T) series.  Bezzant soils average 18 to 35 percent clay in the texture control section.  Dennot soils have hue of 2.5YR, 5YR, or 7.5YR. Georgecanyon soils have 25 to 35 percent clay in the particle-size control section.  Pyrenees soils are moderately deep to bedrock.
+COMPETING SERIES:
+Bezzant (UT)--have 18 to 35 percent clay in the particle-size control section
+Dennot (UT)--have hues of 7.5YR and redder
+Eaglecone (ID)--are deep to a lithic contact
+Georgecanyon (ID)--have argillic horizons
+Pyrenees (ID)--are shallow to a lithic contact
+Ricafied (ID)--are moderately deep to a lithic contact
 
-GEOGRAPHIC SETTING:  Cedarhill soils are generally on south and west-facing mountain slopes and ridges, foothills, and terraces. Slopes range from 4 to 60 percent.  Elevation is 4,800 to 7,000 feet. These soils formed in alluvium and colluvium derived dominantly from limestone and related sedimentary and metasedimentary rocks.  The mean annual temperature is 41 to 45 degrees F, and the mean annual precipitation is 13 to 18 inches.  The frost-free season is 70 to 100 days.
+GEOGRAPHIC SETTING:
+Landform--ridges, plateaus, hillslopes, mountain slopes, fan remnants, escarpments, and loess influenced valley sides
+Elevation--1,370 to 2,470 m
+Slope--2 to 80 percent
+Parent material--loess influenced alluvium, slope alluvium, and colluvium derived from limestone and related sedimentary and metasedimentary rocks
+Mean annual precipitation--300 to 775 mm
+Mean annual air temperature--2.2 to 7.2 degrees C
+Frost-free period--50 to 110 days
 
-GEOGRAPHICALLY ASSOCIATED SOILS:  These are the Hondoho, Ireland, Ricrest, Ridgecrest, Ririe, and Watercanyon soils.  Hondoho soils are noncalcareous in the A horizon or at least its upper part.  Ireland and Ridgecrest soils have bedrock at 20 to 40 inches.  Ricrest soils are fine-loamy.  Watercanyon and Ririe soils formed in loess and are coarse-silty.  Hondoho and Ricrest soils are in concave positions or on north and east-facing slopes when associated with Cedarhill soils.  Ridgecrest and Ireland soils are generally on north or east convex slopes when associated with Cedarhill soils.  Ririe and Watercanyon soils are on loess covered slopes and fan terraces.
+GEOGRAPHICALLY ASSOCIATED SOILS: None listed.
 
-DRAINAGE AND PERMEABILITY:  Well drained; runoff is slow to very rapid; permeability is moderate.
+DRAINAGE AND SATURATED HYDRAULIC CONDUCTIVITY: Well drained, 5 to 15 um/sec
 
-USE AND VEGETATION:  These soils are used mainly for rangeland, wildlife habitat, watershed, and cropland.  Important native plants are Utah juniper, mountain big sagebrush, arrowleaf balsamroot, bluebunch wheatgrass, and Indian ricegrass.  The dominant crops are dryland wheat and alfalfa.
+USE AND VEGETATION: Cedarhill soils are primarily used for rangeland, wildlife habitat, watershed, and cropland. The potential native vegetation is Utah juniper, mountain big sagebrush, arrowleaf balsamroot, bluebunch wheatgrass, and Indian ricegrass. The dominant crops are dryland wheat and alfalfa.
 
-DISTRIBUTION AND EXTENT:  Mountainous areas of southeastern Idaho. This series is of moderate extent.
+DISTRIBUTION AND EXTENT: Cedarhill soils are of moderate extent in southeastern Idaho and Utah; MLRAs 13, 28A, 43B, and 47.
 
-MLRA SOIL SURVEY REGIONAL OFFICE (MO) RESPONSIBLE: Portland, Oregon
+SOIL SURVEY REGIONAL OFFICE (SSRO) RESPONSIBLE: Bozeman, Montana
 
-SERIES ESTABLISHED:  Bannock County, Idaho, 1983.
+SERIES ESTABLISHED: Bannock County, Idaho, 1983.
 
-REMARKS: Diagnostic horizons and features recognized in this pedon are:
+REMARKS: Diagnostic horizons and features recognized in this pedon:
+Mollic epipedon--0 to 23 cm
+Calcic horizon--23 to 71 cm
+Particle-size control section--25 to 100 cm
 
-Mollic epipedon - The zone from the soil surface to 9 inches (A and ABk horizons).
+Cedarhill soils have a frigid temperature regime and a xeric moisture regime.
 
-Calcic horizon - The zone from 9 to 28 inches (Bk1 and Bk2 horizons).
-
-Particle-size control section - The zone from 10 to 40 inches (part of the Bk1, the Bk2, and part of the C horizons).
+Taxonomic version: Twelfth Edition, 2014
 
 National Cooperative Soil Survey
 U.S.A.

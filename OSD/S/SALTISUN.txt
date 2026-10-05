@@ -1,0 +1,130 @@
+LOCATION SALTISUN               CA
+
+Tentative Series
+IRD. RLR-EED-ARP-TMH
+10/2026
+
+SALTISUN SERIES
+
+Depth class: Very deep
+Drainage class: Poorly drained
+Parent material: Lacustrine deposits or alluvium derived from mixed rock sources
+Geomorphic location: Playas and basin floors
+Slope range: 0 to 1 percent
+Mean annual air temperature: 23 degrees C 
+Mean annual precipitation: 77 millimeters 
+
+TAXONOMIC CLASS: Coarse-loamy, mixed, superactive, hyperthermic Typic Aquisalids
+
+TYPICAL PEDON: Saltisun fine sandy loam on a nearly level and recently exposed playa at an elevation of -72 meters. (Colors are for moist soil unless otherwise noted.)
+
+ Cnseg1--0 to 30 centimeters; 90 percent dark grayish brown (2.5Y 4/2)  and 10 percent grayish brown (2.5Y 5/2); fine sandy loam; massive; very friable, nonsticky, nonplastic, nonfluid; 8 percent coarse distinct gray (5Y 6/1) iron depletions and 15 percent coarse prominent strong brown (7.5YR 4/6) masses of oxidized iron; 5 percent nonflat subrounded weakly coherent shell fragments; slightly effervescent (30 percent hydrogen peroxide); strongly effervescent (1 normal hydrochloric acid); moderately alkaline (pH 7.9); abrupt smooth boundary
+
+ Cnseg2--30 to 52 centimeters; 60 percent dark greenish gray (10Y 4/1) and 40 percent olive (5Y 4/3); stratified fine sandy loam and silt loam; massive; very friable, slightly sticky, slightly plastic, slightly fluid; 10 percent fine prominent strong brown (7.5YR 4/6) masses of oxidized iron; slight sulfurous odor; slightly effervescent (30 percent hydrogen peroxide); slightly effervescent (1 normal hydrochloric acid); moderately alkaline (pH 8.0); abrupt smooth boundary
+
+ Cnseg3--52 to 71 centimeters; dark greenish gray (10Y 4/1); loam; massive; friable, slightly sticky, nonplastic, slightly fluid; 20 percent coarse prominent dendritic olive (5Y 5/3) masses of oxidized iron; slight sulfurous odor; color change (3 percent hydrogen peroxide); slightly effervescent (30 percent hydrogen peroxide); strongly effervescent (1 normal hydrochloric acid); slightly alkaline (pH 7.8); abrupt smooth boundary
+
+ Cnseg4--71 to 122 centimeters; dark greenish gray (10Y 4/1); silt loam; massive; friable, moderately sticky, slightly plastic, slightly fluid; 20 percent coarse prominent olive (5Y 5/3) masses of oxidized iron; slight sulfurous odor; color change (3 percent hydrogen peroxide); slightly effervescent (30 percent hydrogen peroxide); strongly effervescent (1 normal hydrochloric acid); slightly alkaline (pH 7.8); abrupt smooth boundary
+
+ Cnseg5--122 to 200 centimeters; dark greenish gray (5GY 4/1); silt loam; massive; friable, moderately sticky, slightly plastic, slightly fluid; moderate sulfurous odor; slightly effervescent (30 percent hydrogen peroxide); strongly effervescent (1 normal hydrochloric acid); moderately alkaline (pH 7.9)
+
+TYPE LOCATION:
+Imperial County, California; approximately 586 meters east at a heading of 94 degrees from the intersection of Salton Bay Drive and Flamingo Place and approximately 568 meters northeast at a heading of 50 degrees from the intersection of Salton Bay Drive and Kingston Avenue.
+
+USGS Quadrangle: Truckhaven, CA
+Latitude: 33.3177940
+Longitude: -115.9331050
+Datum: WGS84
+Coordinate source: From hand-held GPS
+
+RANGE IN CHARACTERISTICS:
+Mean annual soil temperature: 22 to 25 degrees C at a depth of 50 centimeters
+Carbonates: Disseminated carbonates throughout the soil profile
+Depth to bedrock: Greater than 200 centimeters
+Depth to saturation: Within a depth of 30 centimeters, or is drained
+Electrical conductivity: Typically greater than 30 dS/m throughout
+Sodium Adsorption Ratio (SAR): 20 to 120 or more 
+Reaction: Slightly alkaline to strongly alkaline (pH 7.8 to 9.0)
+Sulfurous odor--None to strong throughout
+
+Particle-size control section (weighted average):
+Clay content--5 to 18 percent
+Sand content--40 to 75 percent
+Shell content: less than 35 percent (by volume)
+
+Cnse or Cn horizon (where present):
+Hue--5YR to 2.5Y
+Value--3 to 6
+Chroma--3 to 4
+Texture--loamy sand,  sandy loam, or loam; some horizons have thin lenses of silt loam or clay loam
+Shell fragments--typically 0 to 35 percent, individual horizons have up to 45 percent
+
+Cnseg or Cng horizon:
+Hue--7.5YR or yellower, or is neutral based on oxidation state
+Value--3 to 8
+Chroma--1 to 2
+Texture--sandy loam, fine sandy loam, loam, or silt loam; some horizons may have lenses of sand or loamy sand
+Shell fragments--typically 0 to 35 percent, individual horizons have up to 45 percent
+
+COMPETING SERIES:
+These are the Bunkerhill soils.
+Bunkerhill soils have laminar layers of silica cemented sand grains within a depth of 50 centimeters of the soil surface.
+
+GEOGRAPHIC SETTING:
+Parent Material: Lacustrine deposits or alluvium derived from mixed rock sources
+Landform: Playas and basin floors
+Slope: 0 to 1 percent
+Elevation: -80 to -68 meters
+Mean annual precipitation: 31 to 120 millimeters 
+Mean January temperature: 13 degrees C
+Mean July temperature: 33 degrees C
+Mean annual air temperature: 21 to 23 degrees C
+Mean annual soil temperature: 22 to 25 degrees C
+Frost-free period: 300 to 355 days
+
+GEOGRAPHICALLY ASSOCIATED SOILS: 
+These are the Calipatria, Indio, Mundo, Naas, and Wonderstone soils
+
+Calipatria soils have clay textures within 100 cm of the soil surface and occur on adjacent playas.
+Indio soils do not have a salic horizons and occur on alluvial fans and floodplains.
+Mundo soils have a contrasting particle-size control section with clay textures lower in the profile, are formed in mixed over smectitic parent material, and occur on adjacent playas.
+Naas soils have a sandy particle-size control section and occur on adjacent playas, beach ridges, and areas with overblown sand.
+Wonderstone soils have greater than 18 percent clay within the particle-size control section and occur on adjacent playas.
+
+DRAINAGE AND SATURATED HYDRAULIC CONDUCTIVITY:
+Drainage class: Poorly drained
+Saturated hydraulic conductivity class: Moderately high
+Flooding frequency and duration: Very rare to occasional, very brief
+Ponding: None
+Soil moisture: Saturated at some depth for more than 30 consecutive days within 100 centimeters of the soil surface and is dry in some part of the 10 to 30 centimeters control section for some time in a normal year.
+
+USE AND VEGETATION:
+Major use: Wildlife; energy, mineral, and ecological infrastructure
+Vegetation: Largely unvegetated, or is vegetated with areas of iodinebush, saltcedar, and saltbrush.
+Ecological Site: Saline Playa (draft)
+
+DISTRIBUTION AND EXTENT:
+General area: Playas surrounding the Salton Sea
+Land Resource Region: D - Western Range and Irrigated Region
+Major Land Resource Area: 40 - Sonoran Basin and Range
+Extent: Moderate
+
+SOIL SURVEY REGIONAL OFFICE (SSRO) RESPONSIBLE: Special Projects Office
+
+SERIES PROPOSED: Imperial County, California, 2026
+
+REMARKS:
+Typical Pedon Taxonomic Features:
+Aquic conditions--0 to 200 centimeters
+Endosaturation--0 to 200 centimeters
+Free carbonates--0 to 200 centimeters
+Fluidity--30 to 200 centimeters is slightly fluid
+Salic horizon--0 to 200 centimeters
+
+Taxonomic Version: Keys to Soil Taxonomy, 13th edition (2022)
+
+ADDITIONAL DATA:
+NASIS User Pedon ID: 2025CA025016
+
+National Cooperative Soil Survey
+U.S.A.
