@@ -20,13 +20,13 @@ TYPICAL PEDON: Wonderstone silty clay loam on a nearly level playa at an elevati
 
  Cnseg1--0 to 25 centimeters; 60 percent light brownish gray (2.5Y 6/2) and 40 percent gray (2.5Y 5/1); silty clay loam; massive; friable, moderately sticky, moderately plastic, moderately fluid; common fine tubular pores; common medium prominent strong brown (7.5YR 4/6) masses of oxidized iron with clear boundaries; 5 percent nonflat subrounded shell fragments; no sulfurous odor; color change with 3 percent hydrogen peroxide; moderately effervescent (30 percent hydrogen peroxide); slightly effervescent (1 normal hydrochloric acid); moderately alkaline (pH 8.0); clear wavy boundary
 
- Cnseg2--25 to 68 centimeters; greenish gray (10Y 5/1); silty clay loam; massive; friable, moderately sticky, moderately plastic, slightly fluid; moderate sulfurous odor; slight effervescence (30 percent hydrogen peroxide); slightly effervescent (1 normal hydrochloric acid); moderately alkaline (pH 8.0); clear wavy boundary
+ Cnseg2--25 to 68 centimeters; greenish gray (10Y 5/1); silty clay loam; massive; friable, moderately sticky, moderately plastic, slightly fluid; moderate sulfurous odor; slightly effervescent (30 percent hydrogen peroxide); slightly effervescent (1 normal hydrochloric acid); moderately alkaline (pH 8.0); clear wavy boundary
 
  Cnseg3--68 to 92 centimeters; 70 percent dark gray (N 4/), and 30 percent reddish brown (5YR 5/3); loam; massive; very friable, slightly sticky, slightly plastic, slightly fluid; no sulfurous odor; slightly effervescent (30 percent hydrogen peroxide); slightly effervescent (1 normal hydrochloric acid); moderately alkaline (pH 8.3); abrupt wavy boundary
 
  2Cnseg4--92 to 200 centimeters; 80 percent dark grayish brown (2.5Y 4/2) and 20 percent very dark greenish gray (10Y 3/1); silty clay loam; massive; friable, very sticky, moderately plastic, moderately fluid; no sulfurous odor; slightly effervescent (30 percent hydrogen peroxide); slightly effervescent (1 normal hydrochloric acid); moderately alkaline (pH 8.1)
 
-TYPE LOCATION: Imperial County, California; on a barren playa 710 meters from the end of Drain Twenty-Two at a heading of 98 degrees, northeast of Barth Road.
+TYPE LOCATION: Imperial County, California; on exposed playa 710 meters from the end of Drain Twenty-Two at a heading of 98 degrees, northeast of Barth Road.
 
 USGS quadrangle: Kane Spring, CA
 Latitude: 33.1309680
@@ -35,7 +35,7 @@ Datum: WGS84
 Coordinate Source: From hand-held GPS
 
 RANGE IN CHARACTERISTICS:
-Mean annual soil temperature: Greater than 22 to 25 degrees C at a depth of 50 centimeters
+Mean annual soil temperature: 22 to 25 degrees C at a depth of 50 centimeters
 Carbonates: Disseminated carbonates throughout the soil profile 
 Depth to bedrock: Greater than 200 centimeters
 Depth to saturation: Within a depth of 30 centimeters, or is drained
@@ -78,12 +78,12 @@ Mean annual soil temperature: 22 to 25 degrees C
 Frost-free period: 300 to 355 days
 
 GEOGRAPHICALLY ASSOCIATED SOILS:
-These are the Calipatria, Glenbar, Mundo, Naas, Saltisun, and Salton soils.
+These are the Calipatria, Glenbar, Mundo, Naas, Saltisun, Salton, and Slabcity soils.
 
 Calipatria soils have less than 18 percent clay in the upper part of the particle-size control section, are formed in mixed over smectitic parent material, and occur on adjacent playas.
 Glenbar soils have an aridic soil moisture regime and occur on flood plains and alluvial fans.
-Naas soils have sandy textures in the particle-size control section and occur on adjacent playas and beach ridges.
 Mundo soils are clayey in the lower part of the particle-size control section, have a mixed over smectitic mineralogy class, and occur on adjacent playas.
+Naas soils have sandy textures in the particle-size control section and occur on adjacent playas and beach ridges.
 Saltisun soils have less than 18 percent clay in the particle-size control section and occur on adjacent playas.
 Salton soils do not have a salic horizon, have less than 15 percent sand coarser than very fine sand in the particle-size control section, and occur on slightly higher positions of the lacustrine basin.
 Slabcity soils have greater than 35 percent clay in the particle-size control section and are on adjacent playas.
