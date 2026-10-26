@@ -1,0 +1,112 @@
+LOCATION HIVE                   AK
+
+Tentative Series
+DKM/MPS
+10/2026
+
+HIVE SERIES
+
+Depth class: very deep
+Drainage class: very poorly drained
+Parent material: organic material
+Landscape: hills
+Landform: depressions, hillslopes
+Slope: 0 to 10 percent
+Mean annual precipitation: about 1870 mm (74 in)
+Mean annual air temperature: about 3 degrees C. (37 degrees F.)
+Frost-free period: 130 to 155 days
+
+TAXONOMIC CLASS: Euic Typic Cryohemists
+
+TYPICAL PEDON: Hive peat in a sedge scrub meadow community on a west southwest facing linear, concave toeslope on a slope of 1 percent at an elevation of 224m (735 ft)
+
+     Oi--0 to 22 cm (0 to 9 in); peat, dark brown (7.5YR 3/2) moist, brown (7.5YR 5/2) dry; common medium and fine roots throughout; noneffervescent; strongly acid (pH 5.3); noneffervescent; diffuse smooth boundary
+
+     Oe--22 to 200 cm (9 to 79 in); mucky peat, dark brown (10YR 3/3) moist, brown (10YR 5/3) dry; noneffervescent; moderately acid (pH 5.7); noneffervescent.
+
+TYPE LOCATION: Kenai Peninsula Borough, Alaska; latitude 60.2537210, longitude -149.3577768, datum WGS84
+
+RANGE IN CHARACTERISTICS:
+
+Soil moisture regime: aquic
+Soil temperature regime: cryic
+Mean annual soil temperature: 0 to 4 degrees C. (32 to 39 degrees F.)
+Thickness of organic material: 200 cm (79 in)
+Thickness of fibric soil materials: 0 to 35 cm (0 to 14 in)
+Thickness of hemic soil materials: 165 to 200 cm (65 to 79 in)
+Depth to aquic conditions: 0 cm (0 in)
+
+Oi horizon:
+Hue: 7.5YR, 10YR or 2.5Y
+Value: 3 to 6 moist, 5 to 7 dry
+Chroma: 2 to 4
+Organic matter: 60 to 90 percent
+Reaction class: very strongly acid to slightly acid (pH 4.5 to 6.4)
+
+Oe horizon:
+Hue: 7.5YR or 10YR
+Value: 2 to 3 moist, 4 or 5 dry
+Chroma: 1 to 3
+Organic matter: 60 to 90 percent
+Reaction class: very strongly acid to slightly acid (pH 4.5 to 6.4)
+
+Some pedons have a sandy-skeletal substratum at depths greater than 170 cm (67 in).
+
+COMPETING SERIES: These are the Alitak (AK), Ekiligamut (AK), Graylake (AK), Johnsonriver (AK), Koyuktolik (AK), Mariel (ID, MT, OR), Octopuslake (AK), Snakeriver (AK), and Wocus (OR) series.
+Alitak soils lack a pH ranging to greater than 6.0 have a mean annual precipitation of 600 to 2000 mm (23 to 79 in)
+Ekiligamut soils have silty marine deposits in the substratum
+Graylake soils have a pH range from 6.2 to 7.8 and have a mean annual precipitation less than 550 mm (22 in)
+Johnsonriver soils have coarse-loamy alluvium in the substratum and have a mean annual precipitation of 400 to 600 mm (16 to 24 in)
+Koyuktolik soils have discontinuous strata of volcanic ash throughout the organic soil horizons and have glacial till in the substratum
+Mariel soils have an Oa horizon in the substratum and have a mean annual precipitation of 1270 to 2900 mm (50 to 114 in)
+Octopuslake soils lack fibric soil materials and have a mean annual precipitation of 300 to 800 mm (12 to 31 in)
+Snakeriver soils have a pH range from 5.0 to 6.5 and have a mean annual precipitation of 580 to 2000 mm (23 to 79 in)
+Wocus soils have diatomaceous earth in the substratum
+
+GEOGRAPHIC SETTING:
+Elevation: 0 to 410 meters (0 to 1345 feet)
+Parent material: organic material
+Landform: depressions, hillslopes
+Slopes: 0 to 10 percent
+Mean annual precipitation: 1730 to 2020 mm (68 to 80 in)
+Mean annual air temperature: -2 to 4 degrees C. (28 to 39 degrees F.)
+Frost free period: 130 to 155 days
+
+GEOGRAPHICALLY ASSOCIATED SOILS: These are the Andarcher, Moose, and Porcupineglacier, soils.
+Andarcher soils have a paralithic contact at depths between 100 to 150 cm (39 to 59 in), have an albic horizon, have a spodic horizon, have andic soil properties and occur on backslopes
+Moose soils have a paralithic contact at depths between 50 to 100 cm (20 to 39 in), have an albic horizon, have a spodic horizon, have andic soil properties and occur on backslopes, shoulders and toeslopes
+Porcupineglacier soils have a lithic contact at depths between 25 to 50 cm (10 to 20 in), have an albic horizon, have a spodic horizon, have andic soil properties and occur on backslopes
+
+DRAINAGE AND SATURATED HYDRAULIC CONDUCTIVITY:
+Drainage class: very poorly
+Saturated Hydraulic Conductivity: moderately to high in the Oi and Oe horizons
+Permeability: moderate to moderately rapid in the Oi and Oe horizons
+Runoff: negligible
+Ponding: frequent, brief
+
+USE AND VEGETATION:
+Use: wildlife habitat, recreation, and subsistence
+Native vegetation: sedge, black crowberry, bog kalmia, lodgepole pine and sphagnum moss
+
+DISTRIBUTION AND EXTENT: MLRA 220, Alexander Archipelago-Gulf of Alaska Coast. The series is of small extent.
+
+SOIL SURVEY REGIONAL OFFICE (SSRO) RESPONSIBLE: Wasilla, Alaska
+
+SERIES ESTABLISHED: Seward Area Soil Survey, Alaska, 2026.
+
+REMARKS: Diagnostic features and horizons recognized in this profile include:
+
+Control section: 0 to 130 cm (0 to 51 in)
+
+Fibric soil materials: 0 to 22 cm (0 to 9 in) (Oi horizon)
+
+Hemic soil materials: 22 to 200 cm (9 to 79 in) (Oe horizon)
+
+Aquic conditions: 0 to 200 cm (0 to 79 in) (Oi and Oe horizons)
+
+ADDITIONAL DATA:
+
+User pedon ID: 11NP00302
+
+National Cooperative Soil Survey
+U.S.A.

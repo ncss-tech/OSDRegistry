@@ -1,0 +1,136 @@
+LOCATION FRINK                  CA
+
+Tentative Series
+IRD. RLR-EED-ARP-TMH
+10/2026
+
+FRINK SERIES
+
+Depth class: Very deep
+Drainage class: Poorly drained
+Saturated hydraulic conductivity: High or very high in the coarse texture material; very low in the petrogypsic horizon
+Soil Restrictions: shallow to a petrogypsic horizon
+Parent material: Lacustrine deposits or alluvium derived from mixed rock sources
+Geomorphic location: Playas and basin floors of former lakebeds
+Slope range: 0 to 2 percent
+Mean annual air temperature: 23 degrees C
+Mean annual precipitation: 77 millimeters
+
+TAXONOMIC CLASS: Sandy, mixed, hyperthermic, shallow Gypsic Aquisalids
+
+TYPICAL PEDON: Frink extremely shelly sand on a nearly level playa in an area with extensive surface heaving of petrogypsic material at an elevation of -73 meters. (Colors are for moist soil unless otherwise noted.)
+
+ Cn--0 to 14 centimeters; light yellowish brown (2.5Y 6/3), light gray (2.5Y 7/2) dry; extremely shelly sand; loose, nonsticky, nonplastic; common fine roots; 60 percent weakly coherent subangular shell fragments; violently effervescent (1 normal hydrochloric acid); moderately alkaline (pH 8.2); abrupt smooth boundary. (5 to 30 centimeters thick)
+
+ Bnym--14 to 21 centimeters; olive (5Y 5/3), light olive gray (5Y 6/2), dry; strongly coherent material, cemented by gypsum; rigid; common fine roots; 10 percent medium prominent white (10YR 8/1) carbonate masses along strata; 10 percent subangular shell fragments; moderately alkaline (pH 8.2); abrupt smooth boundary. (2 to 15 centimeters thick)
+
+ Cng1--21 to 44 centimeters; 80 percent gray (2.5Y 5/1) and 20 percent black (2.5Y 2.5/1), 80 percent gray (2.5Y 6/1) and 20 percent very dark gray (2.5Y 3/1), dry; sand; loose, nonsticky, nonplastic; common fine roots; 10 percent coarse distinct noncoherent dark yellowish brown (10YR 4/4) masses of oxidized iron; 2 percent subangular shell fragments; strongly effervescent (1 normal hydrochloric acid); moderately alkaline (pH 8.1); abrupt wavy boundary.
+
+ Cng2--44 to 65 centimeters; 80 percent dark gray (2.5Y 4/1) and 20 percent gray (2.5Y 5/1); loamy fine sand; very friable, nonsticky, nonplastic, nonfluid; common fine roots; 10 percent medium prominent dark yellowish brown (10YR 3/4) masses of oxidized iron; strongly effervescent (1 normal hydrochloric acid); slightly alkaline (pH 7.8); abrupt wavy boundary. (Combined thickness of Cng horizons is 0 to 190 centimeters)
+
+ Cnseg--65 to 116 centimeters; dark gray (2.5Y 4/1); stratified coarse sand and loamy sand; loose, nonsticky, nonplastic; 5 percent subangular shell fragments; color change with 3 percent hydrogen peroxide; strongly effervescent (1 normal hydrochloric acid); moderately alkaline (pH 8.2); abrupt wavy boundary. (5 to 190 centimeters thick)
+
+ C'ng--116 to 160 centimeters; gray (2.5Y 5/1), moist; stratified loamy sand and sandy loam; friable, nonsticky, nonplastic; 2 percent diorite fragments and 5 percent subangular shell fragments; slightly effervescent (1 normal hydrochloric acid); moderately alkaline (pH 7.9) 
+
+TYPE LOCATION: 
+Imperial County, California; north of Salton Sea Beach on a playa, approximately 240 meters at a heading of 34 degrees from the intersection of Barbara Drive and Eddie Avenue.
+
+USGS Quadrangle: Oasis, CA
+Latitude: 33.3810620
+Longitude: -116.0094940
+Datum: WGS84
+Coordinate source: From hand-held GPS
+
+RANGE IN CHARACTERISTICS:
+Mean annual soil temperature: 22 to 25 degrees C at a depth of 50 centimeters.
+Carbonates: Calcareous throughout the soil profile
+Depth to bedrock: Greater than 200 centimeters
+Depth to saturation: 0 to 30 centimeters or is drained
+Depth to petrogypsic horizon: Less than 30 centimeters, some pedons have thicker deposits of shells at the surface
+Electrical conductivity: Typically greater than 30 dS/m
+Reaction: slightly alkaline to strongly alkaline (pH 7.4 to 9.0) throughout.
+
+Particle-size control section (weighted average):
+Clay content--less than 6 percent
+Sand content--greater than 80 percent
+Shell fragments (weakly coherent)--0 to 90 percent
+
+Cnse or Cn horizon:
+Hue--2.5Y or yellower, or is neutral based on oxidation state
+Value--4 to 6
+Chroma--3 to 4
+Texture-- loamy sand, sand, and shelly to very shelly analogs; some pedons have thin strata of finer textures above the petrogypsic
+Shell fragments (weakly coherent)--0 to 90 percent
+
+Bnym or Bnseym horizon:
+Hue--2.5YR or yellower, or is neutral based on oxidation state
+Value--4 to 7
+Chroma--3 to 4
+Texture--Gypsum-cemented sand and shells
+Gypsum--Gypsum crystals may be visible and are infused in the matrix
+
+Cnseg, Cng or Cg horizon:
+Hue--7.5YR or yellower, or is neutral based on oxidation state
+Value--4 to 6
+Chroma--1 to 2
+Texture--loamy sand, coarse sand, sand, fine sand, loamy fine sand, fine sandy loam, may be stratified, or has finer textures in the lower part of the profile
+Shell fragments--0 to 35 percent
+
+COMPETING SERIES: There are no competing series.
+
+GEOGRAPHIC SETTING:
+Parent Material: Lacustrine deposits or alluvium derived from mixed rock sources
+Landform: Playas and basin floors
+Slope: 0 to 2
+Elevation: -80 to -68 meters
+Mean annual precipitation: 31 to 120 millimeters
+Mean January temperature: 13 degrees C
+Mean July temperature: 33 degrees C
+Mean annual air temperature: 21 to 23 degrees C
+Mean annual soil temperature: 22 to 25 degrees C
+Frost-free period: 300 to 355 days
+
+GEOGRAPHICALLY ASSOCIATED SOILS:
+These are the Calipatria, Corvina, Mundo, Niland, Saltisun, and Wonderstone soils, none of which have petrogypsic horizons.
+Calipatria soils have less than 75 percent sand in the upper part of the particle-size control section, formed in mixed over smectitic mineralogy, and occur on adjacent playas.
+Mundo soils have greater than 18 percent clay in the particle-size control section, formed in mixed over smectitic parent material, and occur on adjacent playas.
+Corvina soils do not have a restrictive layer but have otherwise similar coarse textures and occur on adjacent playas. 
+Niland soils do not have salic horizons, are saturated in the soil moisture control section for less than 30 days, and occur on adjacent floodplains.
+Saltisun soils have less than 75 percent sand throughout the particle-size control section and occur on adjacent playas.
+Wonderstone soils have 18 to 35 percent clay in the particle-size control section and are on adjacent playas.
+
+DRAINAGE AND SATURATED HYDRAULIC CONDUCTIVITY:
+Drainage Class: Poorly drained
+Saturated hydraulic conductivity: Very high or high above the petrogypsic horizon; very low in the petrogypsic and high to very high below the petrogypsic horizon in the coarse texture material
+Flooding frequency and duration: Very rare to occasional flooding, very brief
+Soil moisture: Saturated at some depth for more than 30 consecutive days within 100 centimeters of the soil surface and is dry in some part of the 10 to 30 centimeters control section for some time in a normal year.
+
+USE AND VEGETATION:
+Major use: Wildlife
+Vegetation: Largely unvegetated, or is vegetated with areas of iodinebush, saltcedar, saltbrush, and other salt-tolerant plants.
+Ecological Site: Saline Playa
+
+DISTRIBUTION AND EXTENT: 
+General area: Playa surrounding the Salton Sea
+Land Resource Region: D - Western Range and Irrigated Region 
+Major Land Resource Area: 40 - Sonoran Basin and Range
+Extent: Small
+
+SOIL SURVEY REGIONAL OFFICE (SSRO) RESPONSIBLE: Special Projects Office
+
+SERIES PROPOSED: Imperial County, California, 2026
+
+REMARKS:
+Typical Pedon Taxonomic Features:
+Aquic conditions--21 to 200 centimeters
+Free carbonates--0 to 200 centimeters
+Petrogypsic horizon--14 to 21 centimeters
+Salic horizon--21 to 200 centimeters
+
+Taxonomic Version: Keys to Soil Taxonomy, 13th edition (2022)
+
+ADDITIONAL DATA:
+NASIS User Pedon ID: 2025CA025020
+
+National Cooperative Soil Survey
+U.S.A.

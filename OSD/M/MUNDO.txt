@@ -1,13 +1,13 @@
 LOCATION MUNDO                  CA
 
 Tentative Series
-IRD. RLR-EED-ARP-TMH
+RLR-EED-ARP-TMH
 10/2026
 
 MUNDO SERIES
 
 Depth class: Very deep
-Drainage class: Poorly
+Drainage class: Poorly drained
 Parent material: Lacustrine deposits or alluvium derived from mixed rock sources
 Geomorphic location: Playas and basin floors
 Slope range: 0 to 2 percent
@@ -18,13 +18,13 @@ TAXONOMIC CLASS: Fine-loamy over clayey, mixed over smectitic, superactive, hype
 
 TYPICAL PEDON: Mundo sandy loam on a nearly level playa. When described the soil was moist throughout. (Colors are for moist soil unless otherwise noted.)
 
- Cnsezg--0 to 10 centimeters; olive gray (5Y 5/2), moist; sandy loam; moderate medium platy structure; slightly hard, friable, slightly sticky, slightly plastic,; nonfluid; common medium irregular and fine interstitial pores; 5 percent medium distinct irregular strong brown (7.5YR 4/6) masses of oxidized iron and 5 percent medium prominent irregular gray (2.5Y 5/1) iron depletions; 5 percent medium prominent platy noncoherent salt masses with sharp boundaries along lamina or strata surfaces; slightly effervescent (30 percent hydrogen peroxide); strongly effervescent (1 normal hydrochloric acid); slightly alkaline (pH 7.6); abrupt smooth boundary.
+ Cnsezg--0 to 10 centimeters; olive gray (5Y 5/2), moist; sandy loam; moderate medium platy structure; slightly hard, friable, slightly sticky, slightly plastic; nonfluid; common medium irregular and fine interstitial pores; 5 percent medium distinct irregular strong brown (7.5YR 4/6) masses of oxidized iron and 5 percent medium prominent irregular gray (2.5Y 5/1) iron depletions; 5 percent medium prominent platy noncoherent salt masses with sharp boundaries along lamina or strata surfaces; slightly effervescent (30 percent hydrogen peroxide); strongly effervescent (1 normal hydrochloric acid); slightly alkaline (pH 7.6); abrupt smooth boundary. (0 to 17 centimeters thick)
 
  Cnseg1--10 to 60 centimeters; dark greenish gray (10Y 4/1), moist; silty clay loam; massive; hard, friable, very sticky, very plastic, moderately fluid; 20 percent coarse distinct irregular very dark gray (N 3/) masses of reduced iron monosulfide; slight sulfurous odor; positive color change with 3 percent hydrogen peroxide; slightly effervescent (30 percent hydrogen peroxide); strongly effervescent (1 normal hydrochloric acid); slightly alkaline (pH 7.6); abrupt smooth boundary.
 
- Cnseg2--60 to 85 centimeters; dark gray (7.5YR 4/1), moist; stratified fine sandy loam to silty clay loam; massive; hard, friable, very sticky, very plastic, moderately fluid; slight sulfurous odor; positive color change with 3 percent hydrogen peroxide; slightly effervescent (30 percent hydrogen peroxide); strongly effervescent (1 normal hydrochloric acid); slightly alkaline (pH 7.7); abrupt smooth boundary.
+ Cnseg2--60 to 85 centimeters; dark gray (7.5YR 4/1), moist; stratified fine sandy loam to silty clay loam; massive; hard, friable, very sticky, very plastic, moderately fluid; slight sulfurous odor; positive color change with 3 percent hydrogen peroxide; slightly effervescent (30 percent hydrogen peroxide); strongly effervescent (1 normal hydrochloric acid); slightly alkaline (pH 7.7); abrupt smooth boundary. (Combined thickness of the Cnseg horizons is 18 to 100 centimeters thick)
 
- 2Ckn--85 to 200 centimeters; dark reddish brown (5YR 3/2) and reddish brown (5YR 4/4), moist; clay; massive; extremely hard, very firm, very sticky, very plastic, slightly fluid; common very fine tubular pores; common distinct pressure faces on all faces of peds; very few medium prominent threadlike noncoherent cemented white (10YR 8/1) carbonate masses; violently effervescent (1 normal hydrochloric acid); slightly alkaline (pH 7.6). 
+ 2Ckn--85 to 200 centimeters; dark reddish brown (5YR 3/2) and reddish brown (5YR 4/4), moist; clay; massive; extremely hard, very firm, very sticky, very plastic, slightly fluid; common very fine tubular pores; common distinct pressure faces on all faces of peds; very few medium prominent threadlike noncoherent cemented white (10YR 8/1) carbonate masses; violently effervescent (1 normal hydrochloric acid); slightly alkaline. (pH 7.6) 
 
 TYPE LOCATION:
 Imperial County, California; located on exposed playa west of the Bombay Beach community; approximately 2400 meters from the intersection of Avenue A and First Street at a heading of 270 degrees; south of California Route 111.
@@ -46,7 +46,6 @@ Soil reaction: Slightly alkaline to strongly alkaline (pH 7.4 to 9.0) throughout
 
 Particle-size control section (weighted average):
 Clay content--18 to less than 35 percent in the upper part; 45 percent or greater in the lower part
-Shell fragments-0 to 35 percent
 
 Cnseg horizon:
 Hue--7.5YR or yellower, or is neutral based on oxidation status
@@ -55,7 +54,7 @@ Chroma--0 to 2
 Texture--silty clay loam, silt loam, loam, or sandy loam
 Clay content--10 to 35 percent
 Sand content--10 to 60 percent
-Note--Some surface horizons may have sodium precipitates or sandier textures.
+Note--Some surface horizons may have sodium precipitates, shell fragments, or sandier textures.
 
 2Ckn, 2Cknse, or 2Cknsey horizon:
 Hue--5YR to 10YR

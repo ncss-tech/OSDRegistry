@@ -1,0 +1,130 @@
+LOCATION CORVINA                CA
+
+Tentative Series
+IRD. RLR-EED-ARP-TMH
+10/2026
+
+CORVINA SERIES
+
+Depth class: Very deep
+Drainage class: Poorly drained
+Parent material: Lacustrine deposits or alluvium derived from mixed rock sources
+Geomorphic location: Playas and basin floors
+Slope range: 0 to 1 percent
+Mean annual air temperature: 23 degrees C 
+Mean annual precipitation: 77 millimeters 
+
+TAXONOMIC CLASS: Sandy, mixed, hyperthermic Typic Aquisalids
+
+TYPICAL PEDON: Corvina stratified shelly fine sand and fine sandy loam, on a nearly level playa at an elevation of -73 meters. (Colors are for moist soil unless otherwise noted.)
+
+ Cn--0 to 6 centimeters; 80 percent dark yellowish brown (10YR 4/4) and 20 percent very dark gray (2.5Y 3/1); stratified shelly fine sand, shelly fine sandy loam; massive; friable, nonsticky, nonplastic; 25 percent weakly coherent shell fragments; color change with 3 percent hydrogen peroxide; slightly effervescent (30 percent hydrogen peroxide); slightly effervescent (1 normal hydrochloric acid); slightly alkaline (pH 7.7); clear smooth boundary. (0 to 30 centimeters thick)
+
+ Cnseg1--6 to 25 centimeters; black (N 2.5/) moist; fine sand; massive; friable, nonsticky, nonplastic; 12 percent medium prominent dark yellowish brown (10YR 3/4) masses of oxidized iron; 5 percent weakly coherent shell fragments; color change with 3 percent hydrogen peroxide; slightly effervescent (30 percent hydrogen peroxide); strongly effervescent (1 normal hydrochloric acid); slightly alkaline (pH 7.8); abrupt smooth boundary.
+
+ Cnseg2--25 to 38 centimeters; black (5Y 2.5/1); loamy sand; massive; friable, nonsticky, nonplastic; 5 percent weakly coherent shell fragments; slightly effervescent (30 percent hydrogen peroxide); strongly effervescent (1 normal hydrochloric acid); slightly alkaline (pH 7.7); abrupt smooth boundary.
+
+ Cnseg3--38 to 60 centimeters; 90 percent black (N 2.5/), and 10 percent very dark gray (5Y 3/1); fine sand; single grain; loose, nonsticky, nonplastic; slightly effervescent (30 percent hydrogen peroxide); slightly effervescent (1 normal hydrochloric acid); moderately alkaline (pH 7.9); abrupt smooth boundary.
+
+ Cnseg4--60 to 85 centimeters; brown (7.5YR 4/3); fine sandy loam; massive; friable, nonsticky, nonplastic; 2 percent weakly coherent shell fragments; slightly effervescent (30 percent hydrogen peroxide); violently effervescent (1 normal hydrochloric acid); slightly alkaline (pH 7.6); clear smooth boundary.
+
+ Cnseg5--85 to 140 centimeters; dark grayish brown (10YR 4/2); loamy fine sand; massive; friable, slightly sticky, nonplastic; few fine tubular pores; 2 percent medium distinct noncoherent brown (7.5YR 5/2) iron depletions and 5 percent medium prominent irregular strong brown (7.5YR 4/6) masses of oxidized iron; 2 percent weakly coherent shell fragments; slightly effervescent (30 percent hydrogen peroxide); strongly effervescent (1 normal hydrochloric acid); slightly alkaline (pH 7.6); clear smooth boundary.
+
+ Cnseg6--140 to 200 centimeters; dark gray (10YR 4/1); loamy sand; single grain; loose, nonsticky, nonplastic; slightly effervescent (30 percent hydrogen peroxide); slightly effervescent (1 normal hydrochloric acid); slightly alkaline (pH 7.5).
+
+TYPE LOCATION:
+Riverside County, California; approximately 1560 meters south-southwest of the intersection at Highway 111 and Cleveland Street at a heading of 206 degrees.
+
+USGS Quadrangle: Mortmar, CA
+Latitude: 33.5202520
+Longitude: -115.9786030
+Datum: WGS84
+Coordinate source: From hand-held GPS
+
+RANGE IN CHARACTERISTICS:
+Mean annual soil temperature: 22 to 25 degrees C at a depth of 50 centimeters
+Carbonates: Disseminated carbonates throughout the soil profile
+Depth to bedrock: Greater than 200 centimeters
+Depth to saturation: Within a depth of 30 centimeters, or is drained
+Electrical conductivity: Typically greater than 30 dS/m
+Reaction: Slightly to strongly alkaline (pH 7.5 to 9.0) throughout
+
+Particle-size control section (weighted average):
+Clay content-- less than 8 percent
+Sand content--greater than 85 percent
+Shell content: less than 20 percent (by volume)
+
+Cn or Cnse horizon (where present):
+Hue--7.5YR or yellower
+Value--3 to 6
+Chroma--3 or 4
+Texture--Fine sand, sandy, loamy sand, loam fine sand, or their shelly analogs
+Shell fragments--0 to 20 percent
+
+Cnseg, Cng horizons:
+Hue--10YR or yellower, or is neutral based on oxidation state 
+Value--2.5 to 5 
+Chroma--1 to 2 
+Texture--fine sand, sand, loamy sand, loamy fine sand, loamy very fine sand; individual horizons may have finer textures or lenses including sandy loam, silt loam, loam, or are stratified.  Some pedons have clay in the lower profile.
+Shell fragments--less than 15 percent
+
+COMPETING SERIES:	
+There are no competing series.
+
+GEOGRAPHIC SETTING:
+Parent Material: Lacustrine deposits or alluvium derived from mixed rock sources
+Landform: Playas and basin floors
+Slope: 0 to 1 percent
+Elevation: -80 to -68 meters
+Mean annual precipitation: 31 to 120 millimeters 
+Mean January temperature: 13 degrees C
+Mean July temperature: 33 degrees C
+Mean annual air temperature: 21 to 23 degrees C
+Mean annual soil temperature: 22 to 25 degrees C
+Frost-free period: 300 to 355 days
+
+GEOGRAPHICALLY ASSOCIATED SOILS: 
+These are the Calipatria, Frink, Mundo, Saltisun, Slabcity and Wonderstone soils.
+Calipatria soils have coarse-loamy over clayey textures in the particle-control section and occur on adjacent landforms.
+Frink soils have a petrogyspic horizon and are on adjacent landforms.
+Mundo soils have fine-loamy over clayey textures in the particle-size control section and occur on adjacent landforms.
+Saltisun soils have coarse-loamy textures throughout the particle-size control section and occur on adjacent landforms.
+Slabcity soils have clay textures and occur on adjacent landforms.
+Wonderstone soils have greater than 18 percent clay throughout the profile and occur on adjacent landforms.
+
+DRAINAGE AND SATURATED HYDRAULIC CONDUCTIVITY:
+Drainage class: Poorly drained
+Saturated hydraulic conductivity class: Moderately high
+Flooding frequency and duration: Very rare to occasional, very brief
+Ponding: None
+Soil moisture: Saturated at some depth for more than 30 consecutive days within 100 centimeters of the soil surface and is dry in some part of the 10 to 30 centimeters control section for some time in a normal year.
+
+USE AND VEGETATION:
+Major use: Wildlife; energy, mineral, and ecological infrastructure
+Vegetation: Largely unvegetated, but some sites have sparse areas of iodinebush and saltcedar.
+Ecological Site: Saline Playa
+
+DISTRIBUTION AND EXTENT:
+General area: Playa surrounding the Salton Sea
+Land Resource Region: D - Western Range and Irrigated Region
+Major Land Resource Area: 40 - Sonoran Basin and Range
+Extent: Moderate
+
+SOIL SURVEY REGIONAL OFFICE (SSRO) RESPONSIBLE: Special Projects Office
+
+SERIES PROPOSED: Riverside County, California, 2026
+
+REMARKS:
+Typical Pedon Taxonomic Features:
+Aquic conditions--6 to 200 centimeters
+Endosaturation--0 to 200 centimeters
+Free carbonates--0 to 200 centimeters
+Salic horizon--0 to 200 centimeters
+
+Taxonomic Version: Keys to Soil Taxonomy, 13th edition (2022)
+
+ADDITIONAL DATA:
+NASIS User Pedon ID: 2025CA065004
+
+National Cooperative Soil Survey
+U.S.A.
