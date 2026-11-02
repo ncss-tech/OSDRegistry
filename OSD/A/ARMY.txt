@@ -1,0 +1,126 @@
+LOCATION ARMY                   AK
+
+Established Series
+AJC/SAS 
+10/2026
+
+ARMY SERIES
+
+Depth class: very deep 
+Drainage class: well drained 
+Parent material: sandy and gravelly alluvium derived from metasedimentary rock 
+Landscape: bajadas, fan piedmonts 
+Landform: alluvial fans, flood plains 
+Slope: 1 to 8 percent 
+Mean annual precipitation: about 1870 mm (73 in) 
+Mean annual air temperature: about 3 degrees C (37 F) 
+Frost-free period: 130 to 155 days 
+
+TAXONOMIC CLASS: Sandy-skeletal, mixed Typic Cryofluvents
+
+TYPICAL PEDON: Army highly organic medial silt loam in a maritime shrub community on a south, southwest facing linear, convex fan on a slope of 3 percent at an elevation of 60m (197 ft).
+
+     Oe--0 to 3 cm (0 to 1 in); moderately decomposed plant material, black (7.5YR 2.5/1) moist, dark gray (7.5YR 4/1) dry; common medium roots and common fine roots; extremely acid (pH 3.8); abrupt smooth boundary.
+
+     A--3 to 13 cm (1 to 5 in); very fine sandy loam, very dark grayish brown (10YR 3/2) moist, grayish brown (10YR 5/2) dry; moderate fine granular structure; very friable, nonsticky, nonplastic; many medium and fine roots and common coarse roots; very strongly acid (pH 4.5); clear smooth boundary.
+
+     C1--13 to 30 cm (5 to 12 in); very gravelly loamy sand, dark grayish brown (2.5Y 4/2) moist, light brownish gray (2.5Y 6/2) dry; structureless single grain; loose, nonsticky, nonplastic; common medium roots and many fine roots; 5 percent angular channers by volume, 15 percent subrounded cobbles by volume, 25 percent subrounded gravel by volume; strongly acid (pH 5.1); gradual smooth boundary.
+
+     C2--30 to 200 cm (12 to 79 in); extremely gravelly sand, dark grayish brown (2.5Y 4/2) moist, variegated light brownish gray (2.5Y 6/2) dry; structureless single grain; loose, nonsticky, nonplastic; common fine roots; 10 percent angular channers by volume, 15 percent subrounded cobbles by volume, 50 percent subrounded gravel by volume; slightly acid (pH 6.2).
+
+TYPE LOCATION: Kenai Peninsula Borough, Alaska: latitude 60.1827778, longitude -149.3786111, datum WGS84 
+
+RANGE IN CHARACTERISTICS: 
+Soil moisture regime: udic 
+Soil temperature regime: cryic 
+Mean annual soil temperature: 0 to 5 degrees C (32 to 41 degrees F) 
+Thickness of organic material: 0 to 12 cm (0 to 5 in) 
+Thickness of ochric epipedon: 0 to 15 cm (0 to 6 in) 
+
+Oe or Oi horizon: 
+Hue: 7.5YR or 5YR 
+Value: 2.5 to 4 
+Chroma: 1 to 2 
+Texture: moderately decomposed plant material, slightly decomposed plant material 
+Organic matter: 60 to 90 percent 
+Reaction class: extremely acid to very strongly acid (pH 3.5 to 4.9) 
+
+A horizon: 
+Hue: 10YR or 7.5YR 
+Value: 2 to 3 
+Chroma: 1 to 2 
+Texture: fine sandy loam, very fine sandy loam, or silt loam and their gravelly or very gravelly analogues 
+Clay: 2 to 8 percent 
+Rock fragments: 0 to 50 percent 
+Gravels: 0 to 30 percent 
+Cobbles: 0 to 20 percent 
+Organic matter: 1 to 6 percent 
+Reaction class: extremely acid to neutral (pH 4 to 6.6) 
+
+C horizons: 
+Hue: 2.5Y, 5Y, 7.5YR, or 10YR 
+Value: 2 to 4 
+Chroma: 1 or 2 
+Texture: gravel, coarse sand, sand, loamy sand, or sandy loam and their channery, very gravelly or extremely gravelly analogues 
+Clay: 0 to 7 percent
+Rock fragments: 31 to 95 percent 
+Gravels: 0 to 80 percent 
+Cobbles: 2 to 25 percent 
+Channers: 0 to 80 percent 
+Organic matter: 0.1 to 1 percent 
+Reaction class: very strongly acid to neutral (pH 5.0 to 6.8) 
+
+Some pedons lack an organic surface horizon, some pedons have thin E, Bs and/or Bw horizons. 
+
+COMPETING SERIES: These are the Chenega (AK), Hollow (AK), Ironcreek (AK), Kidazqeni (AK), Malmesbury (AK), Shovelcreek (AK), Stratify (AK), Togiak (AK), and Willowriver (AK) series.
+Chenega soils are somewhat excessively drained.
+Hollow soils have precipitation ranging from 533 to 1651 mm (21 to 65 in).
+Ironcreek soils have precipitation ranging 300 to 800 mm (12 to 31 in).
+Kidazqeni soils are moderately well to well drained and have precipitation ranging from 406 to 889 mm (16 to 35 in).
+Malmesbury soils have buried O horizons.
+Shovelcreek soils have mean annual air temperatures ranging from -6 to -1 degrees C (21 to 30 degrees F) and precipitation ranging from 300 to 500 mm (12 to 20 in).
+Stratify soils have a mean annual soil temperature less than 2 degrees C (36 degrees F).
+Togiak soils have precipitation ranging from 700 to 800 mm (28 to 31 in) and mean annual air temperature ranging from 0.9 to 1.7 degrees C (34 to 35 degrees F).
+Willowriver soils have buried horizons and precipitation ranging from 300 to 500 mm (12 to 20 in).
+
+GEOGRAPHIC SETTING: 
+Elevation: 0 to 160 meters (0 to 525 feet) 
+Parent material: sandy and gravelly alluvium derived from metasedimentary rock 
+Landform: alluvial fans and flood plains 
+Slopes: 1 to 8 percent 
+Mean annual precipitation: 1730 to 2020 mm (68 to 80 in) 
+Mean annual air temperature: 2 to 4 degrees C. (36 to 39 degrees F) 
+Frost free period: 130 to 155 days 
+
+GEOGRAPHICALLY ASSOCIATED SOILS: These are the Spruce series.
+Spruce soils have a coarse loamy over sandy or sandy-skeletal particle size class and occur on similar landforms on talfs.
+ 
+DRAINAGE AND SATURATED HYDRAULIC CONDUCTIVITY: 
+Drainage class: well drained 
+Saturated Hydraulic Conductivity: very high for O horizons, moderately high to high for A horizons, moderately high to very high for C horizons 
+Permeability: rapid for O horizons, slow to rapid for A horizons, slow to rapid for C horizons 
+Runoff: low 
+Flooding: rare to frequent, very brief 
+
+USE AND VEGETATION: 
+Use: wildlife habitat, recreation, urban land, and subsistence.
+Native vegetation: red baneberry, Sitka alder, narcissus anemone, bride's feathers, aster, northern groundcone, water sedge, twocolor sedge, bluejoint, Mertens' sedge, fireweed, dwarf fireweed, tufted hairgrass, dicranum moss, spreading woodfern, field horsetail, scouringrush horsetail, variegated scouringrush, beach strawberry, fragrant bedstraw, largeleaf avens, common cowparsnip, splendid feather moss, arctic rush, American dunegrass, common woodrush, Nootka lupine, clubmoss, devilsclub, sidebells wintergreen, sweetcicely, sweetroot, marsh grass of Parnassus, Sitka spruce, northern green orchid, Schreber's big red stem moss, balsam poplar, western rattlesnakeroot, wintergreen, buttercup, woodland buttercup, rhizomnium moss, goose neck moss, blackberry, salmonberry, Barclay's willow, undergreen willow, grayleaf willow, Menzies' burnet, Sitka willow, claspleaf twistedstalk, western hemlock, oval-leaf blueberry, squashberry, violet.
+
+DISTRIBUTION AND EXTENT: MLRA 220, Alexander Archipelago-Gulf of Alaska Coast. The series is of small extent. 
+
+SOIL SURVEY REGIONAL OFFICE (SSRO) RESPONSIBLE: Wasilla, Alaska 
+
+SERIES ESTABLISHED: Seward Area Soil Survey, Alaska, 2026. 
+
+REMARKS: Diagnostic features and horizons recognized in this profile include: 
+
+Particle-size control section: 27 to 102 cm (11 to 40 in) 
+
+Ochric epipedon: 0 to 13 cm (0 to 5 in) (Oe and A horizons) 
+
+ADDITIONAL DATA: 
+
+User pedon ID: 10DM301 
+
+National Cooperative Soil Survey
+U.S.A.
