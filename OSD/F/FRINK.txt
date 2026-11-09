@@ -1,14 +1,13 @@
 LOCATION FRINK                  CA
 
 Tentative Series
-IRD. RLR-EED-ARP-TMH
-10/2026
+RLR-EED-ARP-TMH
+11/2026
 
 FRINK SERIES
 
 Depth class: Very deep
 Drainage class: Poorly drained
-Saturated hydraulic conductivity: High or very high in the coarse texture material; very low in the petrogypsic horizon
 Soil Restrictions: shallow to a petrogypsic horizon
 Parent material: Lacustrine deposits or alluvium derived from mixed rock sources
 Geomorphic location: Playas and basin floors of former lakebeds

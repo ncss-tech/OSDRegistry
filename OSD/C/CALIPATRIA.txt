@@ -1,0 +1,133 @@
+LOCATION CALIPATRIA             CA
+
+Tentative Series
+RLR-EED-ARP-TMH
+11/2026
+
+CALIPATRIA SERIES
+
+Depth class: Very deep
+Drainage class: Poorly drained
+Parent material: Lacustrine deposits or alluvium derived from mixed rock sources
+Geomorphic location: Playas and basin floors of former lakebeds
+Slope range: 0 to 1 percent
+Mean annual air temperature: 23 degrees C 
+Mean annual precipitation: 77 millimeters 
+
+TAXONOMIC CLASS: Coarse-loamy over clayey, mixed over smectitic, superactive, hyperthermic Typic Aquisalids
+
+TYPICAL PEDON: Calipatria fine sandy loam on a nearly level and playa at an elevation of -71 meters. (Colors are for moist soil unless otherwise noted.)
+
+ Cnseg1--0 to 7 centimeters; grayish brown (2.5Y 5/2) fine sandy loam; massive; very friable, nonsticky, nonplastic; nonfluid; 3 percent subangular weakly coherent shell fragments; color change with 3 percent hydrogen peroxide; moderately effervescent (30 percent hydrogen peroxide); violently effervescent (1 normal hydrochloric acid); strongly alkaline (pH 8.5); clear smooth boundary.
+
+ Cnseg2--7 to 22 centimeters; 80 percent olive gray (5Y 5/2) and 20 percent light olive brown (2.5Y 5/3) loam; massive; friable, moderately sticky, moderately plastic; moderately fluid; 2 percent subangular weakly coherent shell fragments; few fine irregular pores; 5 percent medium prominent irregular noncoherent dark reddish brown (5YR 3/4) masses of oxidized iron and 25 percent fine prominent dendritic noncoherent dark yellowish brown (10YR 4/6) pore linings of oxidized iron; color change with 3 percent hydrogen peroxide; slightly effervescent (30 percent hydrogen peroxide); violently effervescent (1 normal hydrochloric acid); strongly alkaline (pH 8.5); abrupt smooth boundary.
+
+ Cnse--22 to 38 centimeters; olive (5Y 5/3); loamy fine sand; single grain; loose, nonsticky, nonplastic; nonfluid; 10 percent subangular weakly coherent shell fragments; 5 percent fine prominent dendritic noncoherent yellowish brown (10YR 5/6) pore linings of oxidized iron; slightly effervescent (30 percent hydrogen peroxide); violently effervescent (1 normal hydrochloric acid); strongly alkaline (pH 8.5); abrupt smooth boundary. (5 to 30 centimeters thick)
+
+ C'nseg--38 to 87 centimeters; very dark gray (N 3/); loam; massive; friable, slightly sticky, nonplastic; very fluid; 5 percent subangular weakly coherent shell fragments; color change with 3 percent hydrogen peroxide; moderately effervescent (30 percent hydrogen peroxide); violently effervescent (1 normal hydrochloric acid); strongly alkaline (pH 8.5); clear smooth boundary. (combined thickness of C horizons is 35 to 95 centimeters)
+
+ 2Cnseg1--87 to 120 centimeters; brown (7.5YR 4/2); clay; massive; firm, slightly sticky, moderately plastic; nonfluid; 1 percent fine prominent irregular noncoherent yellowish red (5YR 5/8) moist, masses of oxidized iron; moderately effervescent (30 percent hydrogen peroxide); strongly effervescent (1 normal hydrochloric acid); strongly alkaline (pH 8.5); clear smooth boundary.
+
+ 2Cnseg2--120 to 200 centimeters; brown (7.5YR 4/3) stratified fine sandy loam and loam; massive; friable, slightly sticky, nonplastic; moderately fluid; slightly effervescent (30 percent hydrogen peroxide); slightly effervescent (1 normal hydrochloric acid); strongly alkaline (pH 8.5).
+
+TYPE LOCATION:
+Imperial County, California; on a playa southwest of Carcass Beach at approximately 575 meters north-northwest of the intersections at McKendry and Grubel Roads at a heading of 335 degrees.
+
+USGS Quadrangle: Obsidian Butte, CA
+Latitude: 33.1661830
+Longitude: -115.6437820 
+Datum: WGS84
+Coordinate source: From hand-held GPS
+
+RANGE IN CHARACTERISTICS:
+Mean annual soil temperature: 22 to 25 degrees C at a depth of 50 centimeters
+Carbonates: Disseminated carbonates throughout the soil profile
+Depth to bedrock: Greater than 200 centimeters
+Depth to lithologic discontinuity (clayey textures): 35 to 90 centimeters
+Depth to saturation: Within a depth of 30 centimeters, or is drained
+Electrical conductivity: Typically greater than 30 dS/m
+Reaction: Moderately to very strongly alkaline (pH 7.8 to >9.0) throughout
+Sulfurous odor--None to slight
+
+Particle-size control section (weighted average):
+Clay content--5 to less than 18 percent in the upper part; 40 percent or greater in the lower part
+Sand content--15 to less than 75 percent in the upper part; less than 65 percent in the lower part
+Shell content: less than 10 percent (by volume)
+
+Cnseg, Cng, Cnse, or Cn horizon:
+Hue--2.5Y or yellower, or is neutral based on oxidation state
+Value--4 to 5
+Chroma--1 to 2; or chroma 3 in oxidized strata
+Texture--loam, sandy loam, fine sandy loam, loamy fine sand, or sand
+Shell fragments--0 to 25 percent, high shell fragment content is typically in the surface horizon where it is present
+
+
+2Cnse or 2Cnseg horizon:
+Hue--10YR or 7.5YR
+Value--4 or 5
+Chroma--3 or 4; or chroma 2 or less where depleted
+Texture--clay or silty clay; some pedons have stratified silt loam, loam, or fine sandy loam below the control section
+Clay content--typically 48 to 65 percent in the fine texture material
+
+COMPETING SERIES:
+There are no competing series.
+
+GEOGRAPHIC SETTING:
+Parent Material: Lacustrine deposits or alluvium derived from mixed rock sources
+Landform: Playas and basin floors of former lakebeds
+Slope: 0 to 1 percent
+Elevation: -80 to -61 meters
+Mean annual precipitation: 31 to 120 millimeters
+Mean January temperature: 13 degrees C
+Mean July temperature: 33 degrees C
+Mean annual air temperature: 21 to 23 degrees C
+Mean annual soil temperature: 22 to 25 degrees C
+Frost-free period: 300 to 355 days
+
+GEOGRAPHICALLY ASSOCIATED SOILS:
+These are the Corvina, Frink, Meloland, Mundo, Saltisun, Slabcity and Wonderstone soils.
+Corvina soils have sandy textures throughout the profile and occur on similar adjacent playas.
+Frink soils have petrogyspic horizons less than 50 centimeters from the surface, have greater than 70 percent sand throughout the profile, and occur on adjacent playas.
+Meloland soils are saturated in the soil moisture control section for less than 30 days, do not have salic horizons, and occur on alluvial fans.
+Mundo soils have greater than 18 percent clay in the upper part of the particle-size control section and occur on adjacent playas.
+Saltisun soils 5 to 18 percent clay throughout the particle-size control section and occur on adjacent playas.
+Slabcity soils have greater than 35 percent clay throughout the particle-size control section, and occur on adjacent playas.
+Wonderstone soils have between 18 and 35 percent clay throughout the particle-size control section and occur on adjacent playas.
+
+DRAINAGE AND SATURATED HYDRAULIC CONDUCTIVITY:
+Drainage class: Poorly drained
+Saturated hydraulic conductivity class: Moderately high or high in the coarse-loamy material; low in the fine texture material
+Flooding frequency and duration: Very rare to occasional, very brief
+Ponding: None
+Soil moisture: Saturated at some depth for more than 30 consecutive days within 100 centimeters of the soil surface and is dry in some part of the 10 to 30 centimeters control section for some time in a normal year.
+
+USE AND VEGETATION:
+Major use: Wildlife; energy, mineral, and ecological infrastructure
+Vegetation: Unvegetated, or vegetated with areas of iodinebush, saltcedar, saltbrush, and other salt tolerant plants.
+Ecological Site: Saline Playa
+
+DISTRIBUTION AND EXTENT:
+General area: Playas surrounding the Salton Sea
+Land Resource Region: D - Western Range and Irrigated Region
+Major Land Resource Area: 40 - Sonoran Basin and Range
+Extent: Small
+
+SOIL SURVEY REGIONAL OFFICE (SSRO) RESPONSIBLE: Special Projects Office
+
+SERIES PROPOSED: Imperial County, California, 2026
+
+REMARKS:
+Typical Pedon Taxonomic Features:
+Aquic conditions--0 to 200 centimeters
+Free carbonates--0 to 200 centimeters
+Lithologic discontinuity--87 centimeters
+Fluidity--7 to 22, 38 to 87, and 120 to 200 centimeters are moderately to very fluid
+Salic horizon--0 to 200 centimeters
+
+Taxonomic Version: Keys to Soil Taxonomy, 13th edition (2022)
+
+ADDITIONAL DATA:
+NASIS User Pedon ID: 2024CA025008
+
+National Cooperative Soil Survey
+U.S.A.

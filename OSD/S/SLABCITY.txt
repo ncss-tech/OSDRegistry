@@ -1,14 +1,13 @@
 LOCATION SLABCITY               CA
 
 Tentative Series
-IRD. RLR-EED-ARP-TMH
-10/2026
+RLR-EED-ARP-TMH
+11/2026
 
 SLABCITY SERIES
 
 Depth class: Very deep
 Drainage class: Poorly drained
-Saturated hydraulic conductivity: low to moderately low
 Parent material: Fine lacustrine deposits or alluvium derived from mixed rock sources
 Geomorphic location: Playas and basin floors of former lakebeds
 Slope range: 0 to 2 percent
@@ -48,7 +47,7 @@ Reaction: Moderately alkaline to strongly alkaline (pH 7.8 to 9.0)
 Particle-size control section (weighted average):
 Clay content--35 to 60 percent
 Shell fragments--0 to 15 percent
- 
+
 C horizons:
 Hue--7.5YR or yellower, or is neutral based on oxidation state
 Value--3 to 6
